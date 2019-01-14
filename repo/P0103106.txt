@@ -1,0 +1,454 @@
+﻿Desain dan Pengujian Prototipe Sistem Kontrol Mesin Sprayer Dosis
+Variabel untuk Aplikasi Penyemprotan Pertanian Presisi
+
+
+Abstrak
+Peningkatan produksi tanaman seringkali dihadapkan adanya gangguan hama dan penyakit. Kerugian
+besar bahkan kegagalan panen dapat terjadi bila gangguan tersebut tidak diatasi dengan baik. Penggunaan
+pestisida yang berlebihan membahayakan lingkungan dan kehidupan manusia akibat zat kimia yang
+terdapat pada pestisida. Tujuan dari penelitian ini adalah untuk merancang, pabrikasi dan menguji kinerja
+prototipe sistem kontrol mesin sprayer dosis variabel untuk aplikasi penyemprotan pertanian presisi. Metode
+pengujian yang digunakan yaitu input intensitas serangan hama, dosis semprotan tiap serangan, dan
+urutan grid pada mikrokontroler, mengontrol komponen sprayer seperti motor pompa, solenoid valve, dan
+sensor jarak deteksi tanaman,menguji kinerja prototipe mesin sprayer berdasarkan input yang diberikan
+pada mikrokontroler, dan melakukan penyemprotan secara presisi. Hasil uji laboratorium menunjukkan
+bahwa untuk mencapai debit semprotan yang sesuai dengan intensitas serangan hama digunakan PWM
+100-250, kecepatan motor 217-592 rpm, lama semprotan 2-10 detik/tanaman, dan debit 4-11 ml/detik.
+Hasil pengujian lapangan pada 120 tanaman dilakukan penyemprotan dengan debit 10 ml/detik setiap
+blok sepanjang 10 m pada intensitas serangan hama 8.1% diperoleh lama semprotan 20 detik. Sedangkan
+penyemprotan dengan debit 8.3 ml/detik per blok tanaman yang sama pada intensitas serangan hama
+15.5% diperoleh lama semprotan 60 detik. Sehingga hasil pengujian lapang diperoleh lama penyemprotan
+rata-rata 23.2 detik dengan debit semprotan aktual 10.2 ml/detik dan 64.3 detik untuk debit semprotan
+aktual 7.8 ml/detik. Perbandingan antara prediksi dan aktual diperoleh akurasi penyemprotan sebesar
+91%.
+Kata kunci: PWM, kontrol, debit, tanaman kubis
+
+
+Latar Belakang
+Perlindungan tanaman terhadap serangan hama
+dan penyakit menggunakan pestisida, khususnya
+di Indonesia, masih dilakukan secara berlebihan
+tanpa pengontrolan dosis yang tepat. Dimana
+penggunaan pestisida khususnya yang bersifat
+sintesisberkembang luas karena dianggap paling
+cepat dan ampuh mengatasi gangguan hama.
+Namun, penggunaannya ternyata menimbulkan
+kerugian seperti resistensi hama, resurjensi
+hama, terbunuhnya musuh alami dan masalah
+pencemaran lingkungan dan sangat berbahaya
+bagi manusia (Kardinan, 2001).
+Kondisi serangan yang berbeda-beda,
+menyebabkan perbedaan akan kebutuhan dosis
+pestisida pada tiap tanaman. Oleh karena itu
+kebiasaan petani dalam mengatasi serangan
+hama dan penyakit perlu dirubah dengan cara
+melakukan penyemprotan pestisida hanya pada
+tanaman yang terjangkit. Tapi permasalahannya
+sekarang petani melakukan penyemprotan tanpa
+mengetahui distribusi serangan hama. Volume dan
+dosis pestisida yang seragam disemprotkan pada
+tanaman dengan jangkit penyakit yang berbeda
+sehingga menyebabkan penggunaan pestisida
+yang berlebihan pada tanaman.
+Penentuan tingkat identifikasi serangan hama
+pada tanaman kubis sangat diperlukan sebagai
+acuan dalam penyemprotan tanaman presisi.
+Selama ini petani melakukan pemberantasan hama
+pada tanaman kubis tidak melakukan perhitungan
+tingkat serangan hama pada tanaman sehingga
+proses penyemprotannya berdasarkan keinginan
+petani bukan sesuai kebutuhan tanaman. Adapun
+metode penentuan tingkat serangan hama yang
+dilakukan petani dengan cara pengamatan langsung
+tanpa melalui perhitungan tertentu. Sehingga
+penentuan jumlah dosis yang akan diberikan tiap
+tanaman tidak diketahui.
+Penggunaan pestisida terhadap hama secara
+presisi merupakan hal yang sangat penting untuk
+pertumbuhan tanaman dan pengendalian hama
+dan penyakit, dimana penggunaan pestisida yang
+berlebihan atau tidak sesuai akan membahayakan
+lingkungan dan kehidupan manusia akibat zat kimia
+yg terdapat pada pestisida. Karena itu untuk proses
+penggunaan pestisida secara presisi dibutuhkan
+teknologi yang mampu mengontrol dosis pestisida
+pada saat penyemprotan.
+Tujuan dari penelitian ini untuk merancang,
+pabrikasi dan menguji kinerja prototipe mesin
+sprayer 2 alur dengan sistem kontrol pada dosis
+variabel untuk aplikasi penyemprotan presisi.
+Bahan dan Metode
+Waktu dan Tempat
+Penelitian ini dilaksanakan pada bulan Desember
+2014 – Desember 2015, bertempat di laboratorium
+Mekatronika dan Robotika bagian Teknik Mesin dan
+Otomasi, Departemen Teknik Mesin dan Biosistem
+Fateta IPB dan pengujian lapangan dilaksanakan
+di lahan Teaching Farm Sadifa Fakultas Pertanian
+IPB.
+Alat dan Bahan
+Alat yang digunakan dibedakan menjadi
+peralatan konstruksi untuk pembuatan prototipe,
+peralatan elektronika untuk pembuatan sistem
+kontrol, dan peralatan untuk keperluan pengujian.
+Peralatan konstruksi antara lain peralatan bengkel
+konstruksi, mesin perbengkelan dan pengerjaan
+logam. Peralatan untuk pembuatan alat kontrol
+antara lain solder, obeng, bor, dan tang potong.
+Peralatan untuk pengujian antara lain multimeter,
+tachometer tipe DT-2234C, stopwatch, meteran,
+dan gelas ukur/tabung ukur. Rangkaian elektronika
+pendukung, seperti sakelar, adaptor dan pengaman
+beban lebih (sekring). Peralatan untuk pembuatan
+desain antara lain komputer dan software solidworks
+2011 untuk pembuatan desain sistem mekanik,
+proteus 7 profesional untuk pembuatan rangkaian
+mikrokontroler, dan arduino 1.0.6 untuk pembuatan
+program mikrokontroler.
+Bahan yang digunakan untuk konstruksi mesin
+adalah (1) plat baja berbagai ukuran, (2) baut dan
+murberbagai jenis, dan (3) besi poros berbagai
+ukuran (4) nozzle, dan (5) sprayer elektrik. Bahan
+yang digunakan untuk rangkaian mikrokontroler
+adalah (1) arduino mega 2560, (2) sensor Ultrasonic
+SR 04, (3) motor shild L293D, (4) motor DC, (5)
+selenoid valve, (6) DI-Smart Rotary Encoder (sensor
+kecepatan motor) dan (7) bahan habis pakai untuk
+pengujian (pestisida, air, dan tanaman kubis).
+Tahapan Penelitian
+Penelitian ini dilakukan berdasarkan kaidah
+perancangan (pengembangan) dengan beberapa
+tahapan. (1) Studi pustaka. (2) Identifikasi sistem.
+(3) Menganalisis komponen mesin yang akan
+dikembangkan. (4) Merancang/memodifikasi
+sistem mekanik mesin sprayer. (5) Merancang/
+memodifikasi perangkat keras sistem kontrol. (6)
+Pengujian fungsional prototipe mesin sprayer. (7)
+Kalibrasi prototipe mesin sprayer. (8) Pengujian
+laboratorium kinerja prototipe mesin sprayer. (9)
+Pengujian lapangan dan pengambilan data kinerja
+prototipe mesin sprayer.
+Rancangan Fungsional
+Secara keseluruhan konsep pengembangan
+sistem kontrol prototipe mesin sprayer dosis
+variabel untuk aplikasi penyemprotan pertanian
+Presisi dapat dilihat pada Gambar 1. Komponen
+yang digunakan beserta fungsinya pada prototipe
+mesin yang dibuat sebagai berikut:
+a. Arduino mega 2560 merupakan mikrokontroler
+yang berfungsi untuk mengontrol penyemprotan yang berdasarkan atas input dosis pestisida,
+input intensitas serangan hama dan input urutan
+grid semprotan pada program, mengontrol
+sensor deteksi tanaman (sensor Ultrasonic
+SR 04), mengontrol kecepatan motor DC,
+mengontrol DI-Smart Rotary Encoder (sensor
+kecepatan motor) dan mengontrol selenoid
+valve.
+b. Sensor Ultrasonic SR 04 berfungsi untuk
+mendeteksi tanaman kubis berdasarkan tinggi
+tanaman yang digunakan sebagai dasar
+penentuan ketinggian nozzle.
+c. Nozzle (cone nozzle) digunakan untuk
+menghasilkan semprotan yang sesuai dengan
+luas kanopi tanaman kubis.
+d. Motor pompa sprayer berfungsi sebagai
+penghasil semprotan yang berdasarkan atas
+PWM kecepatan putaran motor.
+e. Solenoid valve berfungsi sebagai kran otomatis
+dengan sistem buka tutup katup solenoid untuk
+keluaran debit semprotan sprayer.
+f. DI-Smart Rotary Encoder (sensor kecepatan
+motor) berfungsi untuk mengukur kecepatan
+motor pompa pada saat penyemprotan.
+g. Led berfungsi sebagai indikator sensor jarak
+pada saat deteksi tanaman.
+Rancangan Struktural
+Prototipe mesin sprayer yang dibuat terdiri
+atas beberapa komponen yaitu unit pengontrol,
+komponen sensor dan sprayer elektrik.
+Prototipe mesin sprayer
+Desain mesin sprayer terdiri atas beberapa
+komponen utama yaitu (1) Sprayer elektrik kapasitas
+tangki 16 liter, Charger 100-240 volts, Output 12V
+DC 1000 mA dan kapasitas pompa 12 volts, tekanan
+Max 40 PSI. (2) Mikrokontroller arduino mega 2560
+spesifikasi tegangan operasi 5 volt, tegangan
+masukan 6-20 volt, digital I/O 54 pin (dari 15 yang
+memberikan output PWM) dan masukan analog 16
+Pin. (3) Nozzel (cone nozzle). (4) Solenoid valve
+spesifikasi tegangan kerja 12 volt, tekanan operasi
+0.02-0.8 MPa. (5) Sensor deteksi tanaman (sensor
+Ultrasonic SR 04) spesifikasi jangkauan deteksi
+2-500 cm, sudut deteksi 15 derajat, tegangan
+kerja 5 volt, resolusi 1 cm, dan frekuensi 40 kHz.
+Pengaturan kecepatan aliran pada prototipe mesin
+sprayer diatur dengan mikrokontroller arduino
+mega 2560 dengan pengaturan PWM melaui
+kecepatan motor yang menghasilkan tekanan air
+untuk menghasilkan debit semprotan yang sesuai
+dengan konsentrasi serangan hama pada tanaman.
+Algoritme pengendalian dan rancangan sistem
+kontrol
+Unit pengontrol berfungsi untuk mengontrol
+keseluruhan sistem, salah satunya sebagai
+pengatur dosis berdasarkan nilai PWM dan lama
+semprotan pada mikrokontroler untuk mengatur
+putaran kecepatan motor sprayer. Adapun prinsip
+kerja sistem kontrol dapat dilihat pada Gambar 2.
+Pengujian fungsional kinerja kontrol
+Uji fungsional dilakukan pada sistem kontrol
+komponen prototipe mesin sprayer untuk
+mengetahui dan memastikan bahwa setiap bagian
+dapat berfungsi dengan baik. Uji fungsional tersebut
+meliputi (1) uji kendali kecepatan motor, (2) uji
+deteksi tanaman dengan ultrasonik, (3) uji kalibrasi
+alat ukur, dan (4) uji kendali solenoid valve saat
+penyemprotan.
+Pengujian kalibrasi alat ukur putaran motor dan
+jarak
+Sensor penghitung putaran atau rotary
+encoder akan dikalibrasi terlebih dahulu sebelum
+digunakan untuk pengukuran dan pengujian.
+Setelah didapatkan faktor koreksi dari hasil regresi
+data yang dihasilkan, faktor tersebut dimasukkan
+kedalam program dan diunduh ke dalam
+mikrokontroler. Selain penghitung putaran, alat
+pengukur jarak (sensor ultrasonik) juga dikalibrasi
+menggunakan alat ukur yang sudah terstandar.
+Pengujian laboratorium
+Pengujian laboratorium dilakukan untuk menguji
+kinerja kontrol dengan beberapa tahap yaitu:
+1) Mengukur kecepatan motor dengan 4 nilai
+PWM yang ditentukan yaitu (100, 150, 200 dan
+250) dengan tachometer tipe DT-2234Cdan rotary encoder, dan mengukur tegangan yang
+digunakan berdasarkan 4 nilai PWM dengan
+menggunakan multimeter.
+2) Mengukur ketepatan deteksi sensor jarak
+(Ultrasonic SR 04) menggunakan 5 jarak yang
+ditentukan yaitu (10 cm, 20 cm, 30 cm, 40 cm,
+dan 50 cm) berdasarkan alat ukur meteran
+dengan 3 kali ulangan pengujian. Ini dilakukan
+dengan tujuan menyesuaikan pembacaan jarak
+pada sensor dengan jarak yang sebenarnya
+pada meteran agar pada saat pengaplikasian
+pada tanaman sesuai dengan jarak tanaman.
+3) Mengukur volume semprotan pada sprayer
+dengan 4 PWM yaitu (100, 150, 200 dan
+250). Pengukuran ini dilakukan dengan
+menyemprotkan sprayer pada tabung ukur
+berdasarkan waktu yaitu (1-10 detik) dengan
+kondisi kedua solenoid dalam keadaan terbuka/
+menyemprot.
+4) Menguji ketepatan posisi semprotan pada 10
+model tanaman dengan jarak tanam sesuai
+tanaman kubis yaitu 50 cm dengan jarak total
+pengujian yaitu 5 m. Pengujian ini menggunakan
+2 perlakuan waktu mulai ON motor dan solenoid
+setelah tanaman terdeteksiyaitu denganoperator
+berhenti dan tanpa berhentiuntuk 4 PWM yaitu
+(100, 150, 200 dan 250). Pengujian dilakukan
+sebanyak 3 kali ulangan. Pengujian ini dilakukan
+untuk mengetahui persentase ketepatan posisi
+semprotan sprayer dengan skala persentase
+semprotan yaitu (20%, 40%, 60%, 80%, dan
+100%).
+Prosedur pengujian lapangan
+Pengujian lapangan dilakukan pada lahan
+dengan sistem penanaman model bedengan dimana
+pada satu bedengan terdapat 2 jalur tanaman, jarak
+tanam 50 cm x 50 cm. Penyemprotan dilakukan
+pada lahan yang terdiri dari 6 bedengan dengan
+lebar tiap bedengan 180 cm, bedengan terdiri dari 2
+blok dengan panjang tiap blok 10 m, jarak antara 2
+bedengan 40 cm dan panjang tiap bedengan 20 m
+(Gambar 3). Tahapan pengujian lapangan meliputi:
+1. Menyiapkan modifikasi protipe mesin sprayer
+yang telah dibuat dan diuji di laboratorium.
+2. Melakukan uji penyemprotan pada beberapa
+tanaman berdasarkan data hasil pengujian
+fungsional dan kalibrasi alat yang telah
+dilakukan di laboratorium. Adapun variabel yang
+diuji dan diukur pada saat pengujian lapangan
+yaitu ketepatan deteksi tanaman dan ketepatan
+waktu semprotan. Pengujian ini bertujuan untuk
+mengetahui apakah kinerja prototipe sprayer
+pada pengujian lapangan sesuai dengan yang
+diinginkan.
+3. Melakukan uji kesesuaian lama penyemprotan,
+berdasarkan nilai PWM motor pompa, dan
+menghitung hasil debit semprotan berdasarkan
+persentase serangan hama pada tanaman.
+4. Pengujian penyemprotannya secara
+keseluruhan dilakukan per blok tanaman dengan
+terlebih dahulu menentukan objek tanaman yang
+terkena penyakit dengan kategori serangan
+hama sedang dan serangan hama banyak.
+Berdasarkan kategori serangan hama tersebut
+maka dilakukan pengujian penyemprotan
+dengan kode P1 (penyiraman sedang volume
+20 ml air dengan intensitas serangan hama 1
+– 10%), dan P2 (penyiraman banyak dengan
+volume 50 ml air dengan intensitas serangan
+hama 11 – 20%) dimana volume semprotan
+yang digunakan berdasarkan acuan dari asumsi
+serangan hama pada tanaman. Adapun model
+penyiramannya dapat dilihat pada Gambar 3.
+
+
+
+Akuisisi dan pengolahan data
+Analisis dilakukan dengan membandingkan data
+yang diinput pada mikrokontroler dengan data hasil
+pengukuran dilapangan menggunakan persamaan
+berikut:
+Q = V/t (1)
+Dimana Q adalah debit semprotan (ml/detik), V
+adalah volume semprotan (ml), dan t adalah waktu/
+lama semprotan yang digunakan tiap tanaman
+(detik).
+v = s / t (2)
+adapun v adalah kecepatan maju alat (m/detik), s
+adalah jarak lahan (m), dan t adalah waktu/lama
+pengaplikasian alat pada saat penyemprotan
+(detik). Dalam penelitian ini parameter yang
+menjadi pengamatan adalah kecepatan maju, lama
+semprotan dan volume semprotan. Nilai PWM dan
+lama semprotan pada mikrokontroler merupakan
+acuan pada saat penyemprotan.
+Hasil dan Pembahasan
+Hasil perancangan dan uji kinerja sistem
+kontrol
+Kapasitas sistem kontrol pada kecepatan
+putaran motor berdasarkan nilai PWM dari 100-250
+diperoleh kecepatan terendah pada PWM 100 dan
+tertinggi PWM 250. Kecepatan motor rata-rata 217
+rpm dan 592 rpm. Volume hasil semprotan rata-rata
+31 ml selama 2-10 detik dan 50.2 ml selama 2-10
+detik. Pengujian kecepatan motor dilakukan dalam
+kondisi sprayer melakukan penyemprotan. Dan ini
+sesuai dengan pernyataan bahwa motor berputar
+pada PWM 100-255 perubahan kecepatan tidak
+begitu besar (Alghoffary 2014).
+Berdasarkan pengujian validasi sensor
+Ultrasonic SRF 04diperoleh hasil pembacaan
+sensor Ultrasonic SRF 04 yang berbeda dari jarak
+yang sesungguhnya sebesar 1 cm. Hal ini sesuai
+spesifikasi sensor Ultrasonic SR 04 yang tercantum
+dalam (data sheet Ultrasonic SR 04) yaitu memiliki
+resolusi sebesar 1 cm. Hasil pengujian dapat dilihat
+pada (Gambar 5). Hal ini sesuai dengan pernyataan
+bahwa sensor jarak adalah sebuah sensor yang
+digunakan untuk mengukur jarak objek tertentu dan
+membaca posisi benda (Santoso 2013).
+Berdasarkan pengujian kecepatan motor
+prototipe mesin sprayer dengan PWM 100, 150, 200, dan 250 diperoleh rata-rata kecepatan putaran
+motor pompa yaitu 217 rpm, 351 rpm, 466 rpm, dan
+592 rpm. Kecepatan motor sangat dipengaruhi oleh
+beban air yang digunakan dimana air memberikan
+tekanan pada motor sprayer yang menyebabkan
+menurunnya kecepatan putaran motor pada saat
+pengujian. Hasil pengujian dapat dilihat pada
+Gambar 6. Hal ini sesuai dengan pernyataan bahwa
+kecepatan motor akan berubah dari setengah
+kecepatan penuh menjadi mendekati kecepatan
+penuh. Bagian yang berpengaruh pada transistor
+pengendali di dalam chip adalah tegangan rataratanya,
+dimana semakin besar duty cycle-nya maka
+akan semakin besar pula tegangan rata-ratanya
+sehingga arus yang mengalir ke beban motor
+juga semakin meningkat sehingga mempengaruhi
+kecepatan motor DC (Susilo 2010).
+Berdasarkan pengujian ketepatan posisi
+penyemprotan sprayer pada model tanaman kubis
+diperoleh hasil yaitu lama penyemprotan 30.8 detik,
+kecepatan maju 0.162 m/s. Dalam kondisi operator
+berhenti tiap tanaman selama 1 detik maka
+diperoleh hasil ketepatan posisi penyemprotan
+sebanyak 83%. Dengan 4 nilai PWM yaitu 100,
+150, 200, dan 250. Kemudian pengujian ketepatan
+posisi penyemprotan tanpa berhenti diperoleh hasil
+yaitu lama penyemprotan 26.17 detik, kecepatan
+maju 0.191 m/s, sehingga diperoleh hasil ketepatan
+posisi penyemprotan sebanyak 29% dengan 4 nilai
+PWM yaitu 100, 150, 200, dan 250. Berdasarkan
+hasil yang diperoleh maka dapat ditentukan nilai
+yang dibutuhkan untuk mencapai ketepatan posisi
+penyemprotan pada saat pengaplikasian prototipe
+sprayer(Gambar 7).
+Berdasarkan hasil pengujian kinerja
+penyemprotan dimana kedua nozel dalam keadaan
+terbuka dengan pengaturan nilai PWM maka
+diperoleh hasil pengujian yaitu pada PWM 100,
+150, 200, dan 250. Rata-rata volume semprotan
+31 ml, 39.8 ml, 42.4 ml, dan 49.8 ml dengan lama
+semprotan rata-rata 6 detik. Hasil penyemprotan
+dipengaruhi oleh nilai PWM dan lama penyemrotan
+yang digunakan dengan kecepatan motor sprayer
+yang berbeda dimana semakin tinggi nilai PWM
+yang digunakan dan semakin lama waktu yang
+dibutuhkan pada saat penyemprotan akan
+menghasilkan volume semprotan yang semakin
+banyak. Berdasarkan hasil pengujian pada Gambar
+8 dapat ditentukan nilai input PWM dan lama
+semprotan untuk mencapai hasil semprotan yang
+optimal pada tanaman. Hal ini sesuai dengan
+pendapat bahwa fluida yang bergerak di dalam
+pipa dianggap dalam kondisi “steady state” atau air
+dianggap mempunyai kecepatan yang konstan dari
+waktu ke waktu apabila melalui suatu pipa dengan
+diameter yang sama dan akan menghasilkan
+volume semprotan yang sama (Ilhamsyah 2015).
+Hasil identifikasi serangan hama pada tanaman
+kubis berdasarkan titik serangan pada tanaman
+diperoleh serangan hama rata-rata 8.1% dan
+15.5%, tinggi tanaman 42 cm, dan diameter
+tanaman 30 dan 45 cm. Berdasarkan persentasi
+serangan hama tersebut maka dapat ditentukan
+volume dan lama semprotan yang akan digunakan
+yaitu 200 ml dengan lama semprotan 20 detik/ blok
+tanaman untuk persentasi serangan hama dengan
+skala 1-10% dan 500 ml dengan lama semprotan
+60 detik/blok tanaman untuk persentasi serangan
+hama dengan skala 11 – 20%.
+Hasil pengujian lapangan menggunakan
+perlakuan PWM 150 dan 250, dengan debit
+semprotan 10 ml/detik per blok tanaman dan 8.3 ml/detik per blok tanaman dengan waktu 20 dan 60
+detik/blok tanaman. Diperoleh hasil pengujian ratarata
+lama penyemprotan 23.2 detik dan 64.3 detik
+dengan debit semprotan berdasarkan perhitungan
+menghasilkan 8.8 ml/detik dan 7.8 ml/detik dengan
+ketelitian waktu pengaplikasian dosis 91%.hasil
+pengujian lapangan dapat dilihat pada Tabel 1.
+Ketidak kesesuaian semprotan saat pengujian
+disebabkan oleh lebar jalur lintasan sprayer yang
+tidak sama, kecepatan jalan operator tidak terkontrol
+dan keadaan tanah yang basah menyebabkan roda
+sulit untuk berputar sehingga proses penyemprotan
+tidak sesuai dengan perintah pada mikrokontroler.
+Simpulan
+1. Pengembangan prototipe sprayer elektrik
+dua penyemprotan dalam satu lintasan dapat
+diaplikasikan di lapangan.
+2. Uji laboratorium menunjukkan bahwa untuk
+mencapai volume semprotan yang sesuai
+dengan tanaman, dibutuhkan PWM 100-250,
+kecepatan motor 217-592 rpm, tegangan yang
+digunakan 5.38-8.43 volt, dan untuk mencapai
+ketepatan posisi penyemprotan yang optimal
+dibutuhkan rata-rata kecepatan jalan 10 m/menit
+dengan posisi semprotan mencapai 83%.
+3. Rata-rata kecepatan yang digunakan untuk
+melakukan penyemprotan lapangan pada 200
+ml/blok tanaman adalah 0.43 m/s dengan lama
+semprotan 23.2 detik, sedangkan penyemprotan
+pada 500 ml/blok tanaman adalah 0.16 m/s
+dengan lama semprotan 64.3 detik, dengan
+PWM 150 dan 250.
+4. Hasil pengujian lapangan pada 120 tanaman
+menggunakan debit semprotan 10 ml/detik per
+blok tanaman pada intensitas serangan hama
+8.1%, dan debit semprotan 8.3 ml/detik per blok
+tanaman pada intensitas serangan hama 15.5%,
+memperoleh debit semprotan rata-rata 10.2 ml/
+detik dan 7.8 ml/detik dengan ketelitian lama
+penyemprotan sprayer 91%.

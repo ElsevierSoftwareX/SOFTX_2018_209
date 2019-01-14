@@ -1,0 +1,91 @@
+﻿Penyakit ikan merupakan hal yang tidak diinginkan oleh pembudidaya ikan,
+karena dapat menyebabkan panen tidak maksimal dan kematian masal pada ikan.
+Kurangnya informasi cara penanggulangan penyakit dan sedikitnya jumlah pakar
+perikanan menyebabkan pembudidaya mengalami banyak kerugian. Oleh karena
+itu dibutuhkan sistem pakar yang digunakan untuk mendiagnosa penyakit pada
+ikan budidaya air tawar. Sistem ini bertujuan untuk membantu pembudidaya
+dalam mengatasi masalah penyakit ikan. Dalam penelitian ini, sistem pakar yang
+dibangun berbasis android menggunakan bahasa pemrograman Java sebagai basis
+data. Metode penalaran yang digunakan yaitu forward chaining. Metode ini
+digunakan untuk menentukan aturan mana yang akan dijalankan, kemudian aturan
+tersebut dijalankan, proses diulang hingga ditemukan suatu hasil. Sistem ini dapat
+mendiagnosa 35 penyakit dari 8 jenis ikan. Hasil data pengujian menggunakan
+pengujian Equivalence Partitioning, menunjukan bahwa pengelolaan aturan (rule)
+sistem dapat berjalan sesuai fungsinya dan sistem dapat mendiagnosa penyakit
+dengan baik. Selain itu berdasarkan data angket, aplikasi ini adalah aplikasi yang
+user friendly (dengan nilai rata-rata 4,29 / sangat baik).
+Kata kunci : Forward Chaining, Penyakit Ikan Budidaya Air Tawar, Sistem
+Pakar, Android
+
+BAB I
+PENDAHULUAN
+1.1 Latar Belakang
+Ikan merupakan hewan yang hidup di air yang menjadi salah satu dari sekian
+banyak sumber protein yang dibutuhkan manusia. Ikan sangat bermanfaat bagi
+manusia sebab mengandung bermacam zat yang dibutuhkan oleh tubuh manusia
+(Apriadji, 2010). Selain itu apabila dibandingkan dengan sumber penghasil
+protein lain seperti daging, susu, dan telur harga ikan relatif lebih murah.
+Mengingat pentingnya ikan bagi manusia, tak heran bila manusia berusaha
+mendapatkan ikan dalam jumlah yang mencukupi, antara lain dengan
+mengusahakan melakukan pencarian di sumbernya yakni laut dan ada pula yang
+memeliharanya dengan sebaik-baiknya yang lazim disebut dengan usaha
+perikanan. Ikan yang pemeliharaannya di danau biasanya adalah ikan air tawar
+yang pemeliharaannya secara keseluruhan dilakukan di dalam jaring apung yang
+telah disediakan oleh para pengusaha perikanan air tawar ini.
+Dalam proses budidaya ikan air tawar, pembudidaya ikan mengalami beberapa
+kendala, salah satu kendala yang dimaksud yaitu terjangkitnya penyakit pada
+ikan-ikan air tawar yang dibudidayakan. Penyakit ikan dibagi menjadi dua yaitu
+penyakit infeksi (bakteri, virus, parasit, dan jamur) dan penyakit non- infeksi
+(tumor, gangguan gizi, pakan, dan traumatik). Hal ini sangat mempengaruhi
+kematian pada ikan. Kematian jumlah ikan yang besar tentu akan berdampak
+kerugian yang sangat besar bagi para pembudidaya.
+Penyakit ikan merupakan hal yang tidak diinginkan bagi pembudidaya ikan,
+karena dapat menyebabkan panen tidak maksimal dan kematian massal pada ikan.
+Untuk mengatasi kendala tersebut maka pembudidaya membutuhkan suatu
+pengetahuan tentang informasi penyakit, gejala, dan penanganan untuk penyakit
+tersebut. Tetapi ketersediaan informasi mengenai penyakit ikan masih sedikit, hal
+ini menyebabkan kesulitan dalam penanggulangannya maupun cara
+pengobatannya. Oleh sebab itu dibutuhkan peran seorang pakar dibidang
+perikanan sebagai tempat konsultasi. Pakar perikanan juga diharapkan dapat
+memberikan informasi mengenai penyakit, cara penanggulangan, pengobatan, dan
+solusi mengatasinya. Akan tetapi ketersediaaan pakar perikanan saat ini masih
+kurang dan untuk menghubungi seorang pakar penyakit ikan, pembudidaya
+membutuhkan biaya, waktu, dan tenaga yang tidak sedikit. Berdasarkan hal
+tersebut dikembangkan suatu sistem pakar tentang penyakit ikan air tawar,
+sehingga dapat memberikan solusi untuk menanggulangi penyakit ikan.
+Sebelumnya telah dilakukan penelitian oleh (Pratama, 2015) mengenai Sistem
+Pakar Diagnosa Penyakit Pada Ikan Budidaya Air Tawar Dengan Metode Forward
+Chaining berbasis Website. Pada penelitian ini menghasilkan sebuah media
+konsultasi bagi para pembudidaya dalam mendiagnosa penyakit ikan dan
+memberikan solusi terkait penyakit yang diderita layaknya seorang pakar. Akan
+tetapi dari penelitian tersebut memiliki beberapa kelemahan yaitu sistem pakar
+diagnosa yang dibangun tersebut kurang praktis dalam penggunaannya, karena
+pengguna harus mengakses website yang telah dibuat dan dalam proses
+penggunaanya kurang efisien. Apabila di bandingkan dengan sistem pakar
+berbasis mobile tentunya akan lebih jauh efisien dalam proses penggunaanya.
+Untuk mengatasi masalah ini, maka perlu dikembangkan lebih lanjut tentang
+sistem pakar yang telah diteliti oleh penulis (Pratama, 2015) dalam bentuk sistem
+pakar berbasis Android.
+1.2 Rumusan Masalah
+Permasalahan yang akan dibahas dalam penelitian ini adalah bagaimana
+merancang dan membangun suatu sistem pakar yang dapat digunakan untuk
+mendiagnosa penyakit pada ikan konsumsi dan hias pada sistem Android.
+1.3 Batasan Masalah
+Batasan masalah dalam penelitian ini adalah sebagai berikut:
+1. Jenis ikan yang dapat didiagnosa pada sistem pakar ini yaitu ikan air tawar
+konsumsi meliputi ikan Mas, ikan Gurami, ikan Lele, ikan Nila, ikan Patin,
+dan ikan hias air tawar yaitu ikan Koi, ikan Arwana, dan ikan Lou han.
+2. Penyakit yang dapat diidentifikasi sebanyak 35 penyakit infeksi dengan 74
+gejala.
+3. Metode penalaran yang digunakan yaitu forward chaining.
+1.4 Tujuan Penelitian
+1. Tujuan dari penelitian ini adalah merancang dan membangun aplikasi sistem
+pakar berbasis Android menggunakan metode penalaran forward chaining.
+2. Membantu pengguna untuk konsultasi masalah penyakit ikan.
+
+1.5 Manfaat Penelitian
+Manfaat dari penelitian ini adalah sebagai berikut:
+1. Mempermudah pengguna untuk mengetahui jenis gejala dan penyakit pada
+ikan.
+2. Memberikan informasi kepada pengguna untuk mengetahui bagaimana cara
+menangani penyakit yang menyerang ikan air tawar konsumsi dan hias.

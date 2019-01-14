@@ -1,0 +1,75 @@
+﻿ABSTRAK 
+Sistem parkir yang ada sekarang ini tidak bisa lepas dari barrier gate atau yang di dalam bahasa Indonesia diterjemahkan sebagai palang parkir, barrier gate ini masih dikontrol secara manual melalui putaran motor yang dikendalikan oleh push button, yang akan berhenti putaran motornya setelah gate tersebut menyentuh limit switch. Untuk sistem yang lebih efektif dan efisien, pada Tugas Akhir ini akan dirancang sebuah sistem kontrol barrier gate yang berkonfigurasi dengan PLC (Programmable Logic Control) dan SCADA (Supervisory Control And Data Acquisition) dalam satu kesatuan sistem parkir yang memberikan informasi lokasi parkir. 
+
+Sistem barrier gate parkir ini dirancang dengan menggunakan motor stepper sebagai aktuator yang akan dijalankan oleh sebuah driver. Driver ini berfungsi sebagai pengendali motor stepper. Sistem barrier gate ini menggunakan 3 buah driver, karena untuk mengendalikan 3 buah motor stepper masing-masing pada main gate yang berfungsi sebagai indikator saat lokasi parkir penuh, in gate sebagai pintu masuk menuju lokasi parkir dan out gate sebagai pintu keluar saat mobil meninggalkan lokasi parkir. Selanjutnya motor stepper ini akan dikonfigurasikan dengan PLC, sehingga kecepatan putaran motor dan sudut buka barrier gate dapat diatur sesuai program yang ada pada ladder diagram. 
+
+Pergerakan motor stepper sebagai aktuator barrier gate mempunyai dua arah putaran, putaran kearah forward untuk proses membuka dan putaran kearah reverse untuk proses menutup. Motor stepper ini mempunyai kecepatan putar 0,1 second per step dan mempunyai torsi 0,00409 N.m. 
+Kata kunci : Barrier gate, driver, motor stepper, PLC, SCADA.
+
+
+
+ BAB I 
+PENDAHULUAN 
+1.1 Latar Belakang 
+Telah menjadi fakta bahwa hampir semua sistem parkir yang ada di Indonesia sekarang ini masih dikontrol secara manual dan tidak ada informasi yang menunjukkan tempat parkir mana yang masih kosong. Dari permasalahan diatas tumbuh ide untuk membuat sistem informasi parkir mobil sehingga sebelum pengendara memasuki tempat parkir dapat mengetahui ketersediaan lokasi yang kosong untuk parkir. Tentunya kendaraan akan langsung menuju alamat parkir yang masih kosong tanpa harus berputar dari satu lantai kelantai berikutnya dahulu untuk mencari tempat parkir yang kosong. 
+
+Sistem parkir yang ada sekarang ini tidak bisa lepas dari barrier gate atau yang didalam bahasa Indonesia diterjemahkan sebagai palang parkir, barrier gate ini masih dikontrol secara manual melalui putaran motor yang dikendalikan oleh push button, yang akan berhenti putaran motornya setelah gate tersebut menyentuh limit switch. 
+
+Untuk sistem yang lebih efektif dan efisien, pada Tugas Akhir ini akan dirancang sebuah sistem kontrol barrier gate yang berkonfigurasi dengan PLC (Programmable Logic Control). Dalam pembuatan sistem kontrol barrier gate ini, peneliti tidak lepas dari beberapa sumber yang telah mengembangkan sistem parkir otomatis. 
+Sistem barrier gate parkir dirancang dengan menggunakan motor stepper sebagai penggerak yang akan dijalankan oleh sebuah driver. Driver ini berfungsi untuk pengendali motor stepper. Selanjutnya motor stepper ini akan dikonfigurasikan dengan PLC, sehingga kecepatan putaran motor dan sudut buka barrier gate dapat diatur sesuai program yang ada pada ladder diagram. 
+1.2 Tujuan Penelitian 
+Tujuan dari penelitian tugas akhir ini adalah: 
+1. Mendesain simulator barrier gate yang terintegrasi dengan PLC. 
+2. Merancang driver motor stepper sebagai aktuator barrier gate. 
+3. Merancang dan mendesain front panel barrier gate menggunakan software Vijeo Citect sebagai controlling dan monitoring barrier gate. 
+4. Mengaplikasikan hardware dan software untuk sistem barrier gate pada simulator sistem parkir ramah lingkungan. 
+
+I.3 Batasan Masalah 
+Batasan masalah dari penelitian tugas akhir adalah: 
+1. Sistem barrier gate parkir menggunakan PLC Omron Sysmac tipe CP-1L. 
+2. Interface dari gate parkir ini menggunakan software Vijeo Citect v7.10 r2 
+3. Bahasa pemrograman PLC menggunakan ladder diagram. 
+4. Aktuator dari barrier gate menggunakan motor stepper. 
+5. Sensor yang digunakan sebagai sinyal untuk menggerakkan motor stepper adalah sensor fiber optic dari Autonic dengan tipe BEN3M-PDT. 
+
+1.4 Metodologi Penelitian 
+Untuk mampu menghasilkan penelitian yang baik, maka lingkup pembahasan penelitian adalah sebagai berikut: 
+1. Melakukan studi literatur, mencari dari buku-buku, jurnal-jurnal dari internet dan Tugas Akhir yang berhubungan dengan Tugas Sarjana ini. 
+2. Melakukan observasi langsung di lokasi tempat parkir yang ada di daerah Semarang untuk mendukung penelitian mengenai Tugas Sarjana ini. 
+3. Bimbingan pada Dosen pembimbing untuk mendapatkan pengetahuan tambahan dan masukan serta koreksi terhadap kesalahan-kesalahan yang terjadi dalam pembuatan Tugas Akhir dan penyusunan laporan. 
+4. Pembuatan alat. 
+a. Pemrograman PLC untuk mengatur putaran motor dan sudut buka gate. 
+b. Merancang Driver sebagai pengerak motor stepper yang akan dikonfigurasikan dengan PLC untuk mengatur kecepatan putaran motor dan sudut buka gate. 
+c. Merancang dan mendesain bentuk barrier gate sistem parkir dengan memakai motor stepper sesuai desain yang telah dibuat. 
+d. Merancang dan mendesain Vijeo Citect untuk barrier gate. 
+e. Mengkonfigurasikan program PLC dengan barrier gate parkir yang telah dibuat. 
+
+5. Melakukan pengujian alat. 
+
+Pengujian yang dilakukan meliputi beberapa pengujian untuk mendapatkan hasil berdasarkan tujuan yang diharapkan, diantaranya: 
+a. Pengujian driver motor stepper. 
+b. Pengujian putaran motor stepper. 
+c. Pengujian konfigurasi dengan PLC. 
+d. Pengujian software Vijeo Citect 7.10 untuk barrier gate. 
+
+1.5 Sistematika Penulisan 
+Bab I berisi pendahuluan yang menjelaskan tentang latar belakang, tujuan penulisan, pembatasan masalah, metode penelitian dan sistematika penulisan Tugas Akhir. Bab II berisi dasar teori yang menjelaskan tentang berbagai landasan teori yang berkaitan tentang sistem barrier gate parkir, sistem PLC, software SCADA, fungsi dan kegunaan masing-masing komponen dan yang terakhir cara kerja dari barrier gate. Bab III berisi perancangan sistem barrier gate yang menjelaskan tentang metode yang digunakan pada proses perancangan serta langkah-langkah yang dilakukan pada saat pembuatan alat. Bab IV berisi pengoperasian dan pengujian yang membahas hasil dari proses pembuatan dan pengujian alat. Bab V Penutup berisi tentang kesimpulan dan saran yang diambil dari hasil pembahasan pada Bab IV. Terakhir yaitu daftar pustaka dan lampiran. 
+
+BAB II 
+DASAR TEORI 
+Setiap studi kasus tentunya memiliki landasan teori sebagai acuan, agar supaya dalam mendesain dan merancang barrier gate mempunyai landasan yang jelas. Desain dan data-data yang dihasilkan dari pengujian akan dianalisis berdasarkan teori-teori dan pendekatan-pendekatan yang disesuaikan dengan permasalahan yang ada. Dasar teori yang berkaitan dengan topik Tugas Akhir akan dijelaskan dibawah ini. 
+2.1 PLC (Programmable Logic Control) 
+Dalam dunia industri automasi, proses kontrol pada mulanya dilakukan dengan menggunakan relay konvensional. Coil relay masing-masing dihubungkan dengan sensor-sensor, sedangkan output contact-nya dihubungkan pada bagian mesin yang akan digunakan. Proses kontrol menggunakan relay seperti ini sangatlah rumit pada bagian wiring sehingga sangatlah sulit untuk memperbaiki sistem yang komplek. Selain itu, kontrol dengan menggunakan relay sangatlah terbatas. Oleh karena itu dibuatlah sebuah alat yang dapat menggantikan fungsi relay tersebut yaitu PLC (Programmable Logic Control). 
+2.1.1 Pengertian PLC 
+PLC adalah perkembangan dari pengontrol berbasis mikroprosesor yang dapat diprogram untuk menyimpan instruksi–instruksi dan untuk mengimplementasikan fungsi-fungsi. PLC diperkenalkan pertama kali pada tahun 1969 oleh Richard E. Moerley yang merupakan pendiri Modicon (Modular Digital Controller) sekarang bagian dari Gauld Electronics untuk General Motors Hydermatic Division. Kemudian beberapa perusahaan seperti Allan Breadly, General Electric, GEC, Siemens dan Westinghouse memproduksi dengan harga standar dan kemampuan kerja tinggi. Pemasaran PLC dengan harga rendah didominasi oleh perusahaan Jepang seperti Mitsubishi, Omron, dan Toshiba[1]. 
+PLC itu sendiri mempunyai definisi sebagai berikut[1]. 
+1. Programmable : 
+Artinya dapat diprogram (diubah-ubah) sesuai dengan program yang diinginkan, kemudian menyimpan program tersebut pada memori. 
+2. Logic : 
+
+Artinya dapat memproses input secara aritmatik atau mampu melakukan operasi matematika. 
+3. Control : 
+
+Artinya dapat mengontrol dan mengatur suatu proses sehingga dapat menghasilkan output yang diinginkan. 
+
+Untuk lebih jelasnya mengenai PLC bisa dilihat pada Gambar 2.1 sebuah model PLC Omron Sysmac dengan tipe CP-IL. 

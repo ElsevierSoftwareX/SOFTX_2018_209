@@ -1,0 +1,286 @@
+﻿Model Optimisasi untuk Penjadwalan Ulang Perjalanan Kereta Api
+
+
+Pendahuluan
+Rencana perjalanan kereta api secara umum digambarkan
+dalam suatu Grafik Perjalanan Kereta
+Api (Gapeka). Gapeka pada dasarnya merupakan
+diagram waktu-ruang (time-space diagram) yang
+memuat informasi tentang jadwal baku dari perjalanan
+seperti saat keberangkatan, saat kedatangan,
+waktu tempuh dan waktu berhenti komersial.
+Dalam pelaksanaannya, adakalanya terjadi penyimpangan
+pada jadwal baku akibat adanya beberapa
+gangguan (disturbance). Gangguan-ganguan yang
+terjadi dapat mencakup adanya gangguan pada
+infrastruktur (jalur rel dan persinyalan) dan sarana
+(lokomotif dan kereta/gerbong). Adanya perubahan
+kondisi operasional seperti pengoperasi kereta api
+luar biasa (KLB) juga dapat menyebabkan adanya
+penyimpangan pada jadwal baku. Gangguan lain
+yang dapat terjadi adalah gangguan eksternal
+seperti kejadian longsor, banjir dan kecelakaan.
+Timbulnya gangguan ini menyebabkan perlu dilakukan
+penjadwalan ulang (rescheduling) dari
+kereta api.
+Masalah penjadwalan ulang kereta api yang dibahas
+dalam makalah ini diambil dari sistem nyata
+jaringan kereta api DAOP II Bandung di Jawa
+Barat, Indonesia pada tahun 2010 seperti ditunjukkan
+pada Gambar 1. Jalur (track) dari jaringan
+kereta api ini terdiri dari petak-petak yang memiliki
+jalur tunggal dua-arah (bidirectional single track)
+dan jalur ganda satu-arah (unidirectional double
+track). Dalam jaringan ini, terdapat 21 stasiun.
+
+
+Lintasan utama dari jaringan ini adalah antara
+Bandung dan Cikampek yang menghubungkan
+Bandung dan Jakarta. Lintasan ini juga merupakan
+penghubung antara Bandung dan Cianjur. Beberapa
+kereta api dari Jakarta menuju daerah Tasikmalaya
+juga melewati lintasan ini. Setiap harinya
+ada 74 kereta api yang melintasi jaringan ini.
+Kereta api tersebut terdiri dari kereta api cepat,
+kereta api antar kota, kereta api lokal, kereta api
+barang dan lokomotif dinas. Pada lintasan ini tidak
+terdapat hubungan kereta api feeder. Hanya saja,
+beberapa perjalanan kereta api saling berhubungan
+karena menggunakan rangkaian kereta api yang
+sama. Dalam jaringan ini, terdapat beberapa kereta
+api dengan berbagai kelas dan jenis kereta api.
+Kereta api cepat terdiri dari kelas eksekutif Argo,
+eksekutif, bisnis, dan ekonomi. Sementara itu,
+kereta api lokal terdiri dari kereta api lokal ekonomi
+dan patas. Sistem persinyalan yang digunakan
+adalah sistem persinyalan stasiun. Sistem persinyalan
+ini merupakan sistem persinyalan konvensional
+dengan sinyal dikendalikan oleh stasiun.
+Makalah ini membahas masalah penjadwalan ulang
+untuk kereta api akibat adanya gangguan. Masalah
+penjadwalan ulang kereta api telah banyak dibahas
+dalam literatur. Cacchiani et al. [1] memberikan
+suatu telaahan terhadap model-model dan algoritma-
+algoritma pemulihan untuk manajemen gangguan
+kereta api. Pembahasan masalah penjadwalan
+ulang kereta api dalam berbagai literatur secara
+umum dibedakan atas dua hal, yaitu karakteristik
+masalah dan metode pemecahan. Karakteristik
+masalah dicirikan antara lain oleh kondisi petak
+dalam jaringan kereta api dan fungsi tujuan yang
+dilibatkan. Beberapa literatur yang membahas masalah
+penjadwalan ulang kereta api yang ditinjau
+dari kondisi petak dalam jaringan kereta api dan
+fungsi tujuan yang dilibatkan ditunjukkan pada
+Tabel 1.
+
+
+Masalah penjadwalan ulang kereta api dalam
+makalah ini dirumuskan dalam suatu model optimisasi
+yang berupa model pemrograman linear bilangan
+bulat tercampur (mixed integer linear programming
+model). Variabel-variabel keputusan utama
+dalam model adalah saat-saat keberangkatan dan
+kedatangan yang baru akibat adanya gangguan.
+Fungsi tujuan yang diminimumkan adalah total
+keterlambatan tertimbang (total weighted delay).
+Dalam makalah ini, model dari Törnquist dan
+Persson [2] digunakan sebagai acuan. Modifikasi
+dilakukan disesuaikan masalah yang dibahas.
+Metode Penelitian
+Definisi Masalah
+Dalam suatu jaringan kereta api, terdapat himpunan
+dari kereta api (train) dan himpunan dari
+petak (block section) Petak merupakan bagian
+dari jalur rel (rail track) yang dikendalikan oleh
+suatu peralatan sinyal yang hanya dapat digunakan
+oleh sebuah kereta api pada suatu waktu tertentu.
+Pada sistem yang diamati, petak ganda menerapkan
+aturan satu-arah dengan jalur yang digunakan
+adalah sebelah kanan arah kereta. Sementara itu,
+petak tunggal menerapkan aturan dua-arah.
+Sistem yang dikaji adalah sistem persinyalan stasiun,
+maka segmen antara dua stasiun direpresentasikan
+dengan suatu petak. Terdapat asumsi
+bahwa: (1) jumlah jalur belok di setiap stasiun
+adalah tak terbatas, (2) panjang jalur belok di setiap
+stasiun adalah mencukupi untuk setiap rangkaian
+kereta api, dan (3) segmen antara dua stasiun
+dengan jalur ganda satu-arah direpresentasikan
+menjadi dua petak dengan arah yang saling berlawanan.
+Terdapat himpunan dari seluruh perjalanan (event)
+. Suatu perjalanan didefinisikan sebagai kejadian
+suatu kereta api yang menempati suatu petak
+tertentu. Himpunan perjalanan yang dilakukan oleh
+kereta api dinyatakan dengan Sementara
+itu, himpunan perjalanan yang dilakukan pada
+petak dinyatakan sebagai
+Untuk setiap petak terdapat waktu separasi
+petak yang dinyatakan dengan Waktu separasi
+petak ini menggambarkan waktu untuk melepaskan
+interlocking. Untuk tiap perjalanan yang
+menggunakan kereta api dan petak tertentu, berdasarkan
+Grafik Perjalanan Kereta Api (Gapeka),
+terdapat informasi jadwal baku dari perjalanan
+yang mencakup saat keberangkatan baku saat
+kedatangan baku waktu tempuh baku dan
+waktu berhenti komersial Saat keberangkatan
+dan saat kedatangan masing-masing menunjukkan
+saat mulai dan selesai dari perjalanan yang menggunakan
+kereta api dan petak tertentu. Waktu tempuh merupakan waktu yang dibutuhkan oleh suatu
+perjalanan yang menggunakan kereta api dan petak
+tertentu untuk berhenti di stasiun baik untuk menaikkan
+dan menurunkan serta untuk pemeriksaan
+terjadwal.
+Himpunan perjalanan yang memiliki hubungan
+perjalanan dinyatakan dengan Di sini, hubungan
+perjalanan dinyatakan sebagai hubungan perjalanan
+induk dan perjalanan terusan. Suatu perjalanan
+yang menjadi terusan hanya dapat dimulai setelah
+perjalanan induknya telah selesai. Dalam sistem
+yang dibahas, hubungan perjalanan ini menggambarkan
+hubungan perjalanan yang menggunakan
+rangkaian kereta api yang sama. Indeks perjalananperjalanan
+induk dan terusan dari hubungan
+masing-masing dinyatakan sebagai
+dan
+dengan
+dan
+Waktu separasi pada
+perjalanan-perjalanan yang memiliki hubungan perjalanan
+dinyatakan Waktu separasi ini
+menunjukkan waktu yang dibutuhkan untuk penyiapan
+rangkaian seperti pembersihan.
+Untuk setiap kereta api , bobot penalti keterlambatan
+per menit untuk saat kedatangan yang
+baru terhadap saat kedatangan baku pada perjalanan
+terakhir dinyatakan dengan
+Bobot
+penalti keterlambatan per menit untuk panjang
+waktu keterlambatan yang melebihi panjang waktu
+toleransi pada perjalanan terakhir dari kereta api
+dinyatakan dengan
+Di sini,
+dan
+didefinisikan sebagai bobot-bobot penalti keterlambatan
+primer dan sekunder.
+Timbulnya gangguan menyebabkan perlu dilakukan
+penjadwalan ulang. Penjadwalan ulang ini terkait
+dengan penentuan saat-saat keberangkatan dan
+kedatangan yang baru dari tiap perjalanan yang
+meminimumkan total keterlambatan tertimbang
+yang mencakup keterlambatan primer dan sekunder
+untuk perjalanan terakhir dari seluruh kereta
+api.
+
+
+Persamaan (1) menunjukkan fungsi tujuan yang
+diminimumkan, yaitu total keterlambatan tertimbang
+yang mencakup keterlambatan primer dan
+sekunder pada perjalanan terakhir dari seluruh
+kereta. Tiap pertidaksamaan (2) menjamin bahwa,
+untuk setiap perjalanan saat kedatangan
+yang baru adalah lebih besar atau sama dengan
+saat keberangkatan yang baru ditambah dengan
+waktu tempuh. Tiap pertidaksamaan (3) menjamin
+bahwa, untuk perjalanan yang berasosiasi
+dengan kereta api tertentu, saat keberangkatan
+yang baru dari perjalanan berikutnya adalah lebih
+besar atau sama dengan saat kedatangan yang baru
+dari perjalanan sebelumnya ditambah dengan
+waktu berhenti komersialnya. Untuk tiap perjalanan,
+saat keberangkatan yang baru adalah lebih
+besar atau sama dengan saat keberangkatan baku
+dijamin dengan pertidaksamaan (4). Pembatas (5)
+menunjukkan pembatas hubungan perjalananperjalanan
+induk dan terusan. Untuk tiap
+hubungan perjalanan saat keberangkatan
+yang baru dari perjalanan terusan adalah lebih
+besar atau sama dengan saat kedatangan yang baru
+dari perjalanan induk ditambah dengan waktu
+separasi antar perjalanan. Tiap pertidaksamaan (6)
+mendefinisikan keterlambatan primer untuk tiap
+kereta api Untuk tiap kereta , pertidaksamaan
+ini menyatakan bahwa panjang keterlambatan
+primer merupakan selisih antara saat
+kedatangan yang baru dengan saat kedatangan
+baku dari perjalanan terakhir. Tiap pertidaksamaan
+(7) menunjukkan pembatas yang mendefinisikan
+keterlambatan sekunder untuk tiap kereta api
+Untuk tiap kereta , pembatas ini menyatakan
+bahwa panjang keterlambatan sekunder merupakan
+selisih antara panjang keterlambatan primer
+dengan panjang toleransi keterlambatan. Aturan
+penggunaan tiap petak direpresentasikan pada
+pembatas-pembatas (8) dan (9). Pembatas (8) menentukan
+apakah suatu perjalanan yang menggunakan
+suatu petak mendahului atau didahului oleh
+perjalanan yang lain. Berdasarkan pembatas (9),
+jika 𝑥 ′ = 1, maka 𝑥 ′ = 0 Akibatnya, pembatas
+(8) menjadi − ′ ≥ dan ′ − ≥ −𝑀.
+Pembatas − ′ ≥ menjadi pembatas yang
+aktif. Ini berarti bahwa perjalanan perjalanan
+didahului oleh perjalanan perjalanan ′ Saat
+keberangkatan yang baru dari perjalanan
+adalah lebih besar atau sama dengan saat
+kedatangan yang baru dari perjalanan ′
+ditambah dengan waktu separasi petak. Pembatas
+(10) merupakan pembatas bilangan biner dari
+variabel-keputusan. Pembatas-pembatas (11) dan
+(12) merupakan pembatas nilai tak negatif dari
+variabel-variabel keputusan.
+Hasil dan Pembahasan
+Percobaan Numerik
+Pada percobaan numerik ini akan diberikan contoh
+hipotetik. Contoh hipotetik memiliki 6 kereta api
+yang beroperasi pada jaringan kereta api yang
+terdiri dari 6 stasiun dengan jaringan kereta api
+ditunjukkan pada Gambar 2. Lintasan utama dari
+jaringan adalah lintasan antara stasiun-stasiun 1
+dan 5. Petak antara stasiun 1 dan 2 dan antara
+stasiun 2 dan 3 adalah petak dengan jalur ganda
+satu-arah, sementara petak yang lain adalah petak
+dengan jalur tunggal dua-arah. Tabel-tabel 2 s/d 5
+masing-masing menunjukkan data kereta, petak,
+perjalanan dan hubungan perjalanan dari contoh
+hipotetik. Gambar 3 menunjukkan diagram wakturuang
+(Gapeka) untuk jadwal baku.
+Kasus-kasus Gangguan dan Hasil Penjadwalan
+Ulang
+Kasus-kasus gangguan yang diuji coba ditunjukkan
+pada Tabel 6. Kasus 0 merupakan kasus pada kondisi
+normal (tanpa gangguan). Untuk setiap kasus,
+model dipecahkan menggunakan piranti lunak
+komersial LINGO 11. Tabel 7 menunjukkan hasil
+pemecahan model untuk setiap kasus. Berdasarkan
+Tabel 6, terlihat bahwa jadwal yang baru untuk
+kasus 0 adalah sesuai dengan jadwal baku yang
+ditunjukkan pada Tabel 4. Diagram waktu-ruang
+(Gapeka) untuk kasus-kasus gangguan ditunjukkan
+pada Gambar 4.
+
+
+
+
+Simpulan
+Makalah ini membahas masalah penjadwalan ulang
+kereta api akibat adanya gangguan. Masalah yang
+dibahas diambil dari kasus nyata pada jaringan
+kereta api di Pulau Jawa DAOP II Bandung. Model
+optimisasi berbentuk model pemrograman linear
+bilangan bulat tercampur telah dirumuskan untuk
+mempresentasikan masalah tersebut. Model telah
+diimplementasikan menggunakan contoh hipotetik
+dengan empat kasus gangguan. Berdasarkan percobaan,
+terlihat bahwa model yang dirumuskan
+dapat merepresentasikan situasi nyata dari jaringan
+kereta api yang dikaji.
+Kelemahan pemecahan model optimisasi adalah
+dalam hal waktu komputasi yang sangat lama jika
+ukuran masalah (jumlah petak, jumlah kereta api,
+jumlah hubungan perjalanan dan jumlah perjalanan)
+semakin besar. Untuk itu, penelitian lanjutan
+dapat dilakukan dengan mengembangkan teknik
+pemecahan heuristik untuk mengatasi permasalahan
+waktu komputasi untuk memenuhi kebutuhan
+praktis di lapangan.

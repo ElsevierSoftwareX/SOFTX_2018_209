@@ -1,0 +1,189 @@
+﻿KINETIKA REAKSI SINTESIS BIOMATERIAL HIDROXYAPATITE DENGAN PREKURSOR NITRAT DAN ASETAT
+
+Abstrak
+Hidroxyapatite (HAp) merupakan salah satu biomaterial yang banyak diaplikasikan dalam dunia medis untuk membuat implant jaringan tubuh terutama tulang dan gigi sehingga kemurnian produk HAp memegang peranan yang cukup penting. Agar diperoleh HAp dengan kemurnian tinggi, kinetika reaksi pembentukan HAp harus diketahui secara jelas. Metode yang digunakan untuk memperoleh kinetika reaksi HAp adalah dengan analisis TG-DTA yang dilakukan pada dua jenis prekursor HAp yaitu asetat dan nitrat. Metode TG-DTA tersebut dilakukan dengan memanaskan prekursor HAp dengan variasi laju pemanasan 10, 15, 17, dan 20oC/menit. Hasil analisis TG-DTA menunjukkan bahwa reaksi dekomposisi prekursor asetat dan nitrat membentuk HAp masing-masing terjadi pada suhu 659oC dan 560oC. Hasil fitting parameter kinetika menunjukkan bahwa energi aktivasi pembentukan HAp pada prekursor asetat sebesar 161,56 kJ/mol dengan model kinetika Normal Grain Growth sedangkan pada prekursor nitrat sebesar 374 kJ/mol dengan model kinetika Johnson-Mehl-Avrami.
+Kata kunci : energi aktivasi; biomaterial; dekomposisi; hidroxyapatite
+
+
+PENDAHULUAN
+Hidroxyapapite (HAp) dengan rumus kimia Ca10(PO4)6(OH)2, merupakan biomaterial yang banyak dipelajari serta diaplikasikan di dalam dunia medis sebagai bahan dasar pembuatan implan tubuh manusia terutama organ gigi serta tulang (Trommer dkk., 2009). Penggunaan dari HAp disebabkan karena sifatnya yang biokompatible serta osteokonduktivitas (Descamps dkk., 2008). Dengan sifat tersebut memungkinkan terbentuknya ikatan secara biologi antara implan dengan sel tubuh (Fathi dkk., 2008). Pada umumnya material HAp diproduksi dalam bentuk serbuk berwarna putih dengan berat melekul 502,31 gram/mol serta memiliki kristal berbentuk simetri hexagonal dengan lattice parameter (a=0,95 nm dan c=0,68 nm). Sifat biokompatibel serta osteokonduktivitas material HAp dipengaruhi oleh beberapa faktor antara lain kemurnian, struktur kristal, dan morfologi partikelnya (Regi dan Calbet, 2004).
+Sifat biocompatibel dan osteokonduktivitas dari HAp dipengaruhi oleh komposisi prekursornya. Oleh karena itu, HAp harus disintesis mengunakan prekursor yang terdiri dari campuran garam kalsium dan phosfat dengan perbandingan mol Ca/P sebesar 1,67 yang sesuai dengan stoikiometri Ca10(PO4)6(OH)2 (Cho dkk., 2009). Beberapa sumber kalsium yang banyak diaplikasikan sebagai prekursor HAp antara lain Ca(CH3COO)2 (Trommer dkk., 2009) dan Ca(NO3)2.4H2O (Cho dkk., 2009). Selain itu, morfologi, kristalinitas, serta kemurnian dari produk HAp ditentukan oleh metode sintesisnya. Metode yang umumnya digunakan untuk mensintesis material HAp antara lain metode liquid phase meliputi precipitasi, sol-gel, reaksi hidrotermal yang dilakukan pada temperature rendah sedangkan metode reaksi solid state yang menggunakan temperatur tinggi seperti pada spray pyrolysis dan flame spray pyrolysis. (Bogdanoviciene dkk., 2006; Purwanto dkk., 2007). Selain itu, material HAp yang terbentuk melalui reaksi solid state yang berlangsung pada temperatur tinggi menghasilkan HAp dengan kemurnian dan kristalinitas yang tinggi (Cho dan Kang, 2008).
+Sintesis HAp dengan menggunakan metode precipitasi, sol-gel dan hidrotermal memiliki beberapa kelebihan antara lain kontrol morfologi partikel yang mudah serta energy cost yang relatif rendah karena dilakukan pada temperatur rendah namun produk yang dihasilkan tidak murni sehingga memerlukan pemanasan ulang untuk menghilangkan pengotor berupa sisa pelarut (Purwanto dkk., 2007). Selain itu, pada proses spray pyrolysis dan flame spray pyrolysis kontrol temperatur memegang peranan yang cukup penting agar dihasilkan produk dengan kristalinitas serta kemurnian yang tinggi (An dkk., 2007; Itatani dkk., 2004). Oleh karena itu, penggunaan temperatur operasi yang terlalu tinggi selama proses spray pyrolysis dan flame spray pyrolysis (pemanasan pada 1400oC selama 10 menit) cenderung menyebabkan produk HAp yang terbentuk akan terdekomposisi menjadi Ca3(PO4)2 dan hal tersebut harus dihindari. Dari permasalahan tersebut maka perlu dikembangkan kinetika reaksi pembentukan HAp melalui reaksi solid state untuk mengetahui pengaruh temperatur reaktor serta waktu reaksi terhadap kemurnian HAp sehingga dapat memaksimalkan produk HAp yang terbentuk selama reaksi.
+Pada umumnya penelitian tentang sintesis HAp terutama dengan reaksi solid state seperti yang terjadi pada proses flame spray pyrolysis dan spray pyrolysis banyak dilakukan secara eksperimen untuk mengetahui pengaruh kondisi operasi terhadap morfologi serta kristalinitas partikel HAp. Oleh karena itu, informasi tentang kinetika reaksi pembentukan HAp masih belum diketahui secara jelas. Padahal untuk memproduksi HAp dengan kemurnian yang tinggi diperlukan parameter kinetika reaksi.
+Beberapa model kinetika reaksi solid state telah dikembangkan untuk menjelaskan mekanisme dekomposisi/kristalisasi seperti pada persamaan (1), (2), dan (3) diantaranya model normal grain growth (NGG), model Johnson-Mehl-Avrami (JMA), serta model Three-dimensional diffusion (3D-D). Model tersebut sesuai dengan kinetika reaksi kimia yang menggambarkan proses nukleasi serta pertumbuhan kristal (Yuan dkk., 2006; Rahaman, 2003). Ketiga model terebut masing-masing dipengaruhi oleh orde reaksi, nukleasi, serta difusi dalam mengontrol reaksi. Ketiga model model kinetika tersebut seperti pada persamaan (1), (2), dan (3) dapat ditulis sebagai berikut:
+𝑓 𝑥𝑅 = 1−𝑥𝑅 𝑛+1(Normal Grain Growth) (1)
+𝑓 𝑥𝑅 =𝑛 1−𝑥𝑅 −𝑙𝑛 1−𝑥𝑅 𝑛+1𝑛
+(Johnson-Mehl-Avrami) (2)
+𝑓 𝑥𝑅 = 1−𝑥𝑅 −13 −1 −1(3D diffusion) (3)
+Selain itu penggunan jenis prekursor kalsium baik berupa Ca(CH3COO)2 atau Ca(NO3)2.4H2O berpengaruh terhadap morfologi serta kemurniaan dari produk HAp. Hal ini disebabkan kedua sumber kalsium tersebut memiliki sifat berbeda terutama dalam temperatur dekomposisinya.
+Beberapa peneliti sebelumnya telah menganalisis aspek kinetika dalam pembentukan HAp. Brown dan Fulmer (1991) meneliti pengaruh temperatur terhadap kinetika pembentukan HAp dengan proses presipitasi. Dalam proses presipitasi tersebut, pembentukan HAp dikontrol oleh proses interfacial. Yoshimura dkk. (2004) menjelaskan bahwa mekanisme presipitasi pada pembentukan HAp diikuti oleh nukleasi dan pertumbuhan HAp pada kristal calcite. Huang dkk. (2000) mempelajari kinetika pembentukan HAp melalui elektrodeposisi dan post-hidrotermal dari brushite. Dalam peneliatian tersebut diemukan hubungan antara laju pembentukan dan temperatur dari persamaan Arrhenius serta enegi aktivasi sebesar 94,4 kj/mol. Lopatin dkk. (2001) meneliti kinetika kristalisasi HAp pada proses sol-gel dan menemukan bahwa energi aktivasi dipengaruhi oleh proses pre-treatment. Ivankovic dkk. (2010) menemukan kinetika proses pembentukan HAp pada cuttlefish bones dengan proses hidrotermal. Dari penelitian tersebut terdapat hubungan antara temperatur dan waktu terhadap kinetika pembentukan HAp pada prosses hidrotermal. Hampir sebagian besar dari model kinetika yang telah dikembangkan untuk menjelaskan kinetika pembentukan HAp masih terbatas pada proses dengan metode liquid phase yang reaksinya berlangsung pada temperatur rendah sehingga model tersebut tidak dapat digunakan pada metode reaksi solid state yang berlangsung pada temperatur yang cukup tinggi seperti dalam proses pyrolysis.
+Perkembangan teknik analisa menggunakan differential scanning calorimeter (DSC) atau thermal gravimetric analysis-differential thermal analysis (TG-DTA) memungkinkan analisis kinetika solid state menjadi lebih mudah dan sederhana. Beberapa metode teoritis dan ekperimen telah dikembangkan dalam penelitian sebelumnya untuk mengembangkan kinetika transformasi fase baik dalam analisis isotermal maupun non-isotermal. Penggunaan model kinetika reaksi solid state tersebut telah banyak diaplikasikan dalam beberapa penelitian sebelumnya diantaranya analisis kinetika kristalisasi isotermal Co43Fe20Ta5.5B31.5 menggunakan differential scanning calorimeter dengan model JMA (Inoue dkk., 2004), analisis kinetika non-isotermal untuk menentukan energi aktivasi pada pembentukan Co43Fe20Ta5.5B31.5 serta pengaruh laju pemanasan pada mekanisme kristalisasi Co43Fe20Ta5.5B31.5 (Yuan dkk., 2006). Widiyastuti dkk. (2010) mempelajari kinetika dekomposisi kristal ZrCl2 membentuk ZnO dalam reaktor spray pyrolysis dengan pendekatan model NGG (Widiyastuti dkk., 2010). Oleh karena itu, pada penelitian ini lebih difokuskan untuk menentukan kinetika reaksi pembentukan HAp melalui pendekatan reaksi solid state yang belum banyak dilakukan pada peneliti sebelumnya yang terbatas pada proses liquid phase. Pendekatan model kinetika NGG, JMA, dan 3D-D akan digunakan pada penelitian ini. Selain itu, dalam penelitian ini akan diteliti pengaruh prekursor asetat maupun nitrat yang terhadap parameter energi aktivasi dalam sintesis HAp. Dengan adanya data kinetika reaksi dari kedua prekursor tesebut dapat memberikan manfaat terutama dalam sintesis HAp agar dihasilkan produk dengan kemurnian tinggi.
+METODE PENELITIAN
+Prekursor yang digunakan dalam sintesis HAp terdiri dari campuran garam kalsium dan kristal (NH4)2HPO4 (99,99% berat Merck KGaA, Germany). Jenis garam kalsium yang digunakan dalam percobaan yaitu kristal Ca(CH3COO)2 (99,99% berat Merck KGaA, Germany) dan kristal Ca(NO3)2.4H2O (99,99% berat Merck KGaA, Germany). Prekursor asetat terdiri dari campuran kristal Ca(CH3COO)2 dan (NH4)2HPO4 sedangkan Prekursor nitrat terdiri dari campuran kristal Ca(NO3)2.4H2O dan (NH4)2HPO4. Perbandingan mol Ca/P untuk kedua jenis prekursor tersebut 1,67.
+Prekursor A (asetat) dibuat dengan mencampurkan 3,687 g Ca(CH3COO)2 dan 1,237 g (NH4)2HPO4 kemudian dihaluskan denggan menggunakan mortar sehingga diperoleh bubuk prekursor yang berukuran halus serta seragam. Dengan cara yang sama, prekursor B (nitrat) dibuat dengan mencampurkan 8,703 g Ca(NO3)2.4H2O dan 2,107 g (NH4)2HPO4. Sebanyak 4 mg sampel prekursor A (asetat) dan prekursor B (nitrat) yang telah terbentuk dianalisis sifat termalnya dengan menggunakan metode TG-DTA (DTG-60 H, Shimadzu). Pada prinsipnya analisis TG-DTA dapat mencatat perubahan massa material selama proses pemanasan sehingga dapat diketahui temperatur dekomposisi material tersebut. Variasi laju pemanasan pada analisis TG-DTA tersebut sebesar 10oC/menit, 15oC/menit, 17oC/menit, dan 20oC/menit. Selain itu untuk mengetahui sifat termal dari prekursor murni Ca(CH3COO)2, Ca(NO3)2.4H2O, dan (NH4)2HPO4 maka dilakukan analisis TG-DTA dengan laju pemanasan sebesar 10oC/menit. Setiap analisis TG-DTA dilakukan pada temperatur 25-1000oC dengan atmosfer nitrogen pada laju alir 50 ml/min serta menggunakan pan alumina sebagai tempat sampelnya.
+Hasil TG-DTA untuk prekursor nitrat dan asetat pada laju pemanasan yang berbeda selanjutnya dianalis dengan persamaan Arrhenius untuk menentukan energi aktivasi reaksi pembentukan HAp. Energi aktivasi pada proses dekomposisi prekursor membentuk HAp dapat dihitung dengan persamaan (4) yang merupakan persamaan Arrhenius:
+𝑙𝑛 𝜃𝑇𝑅2 =−𝐸𝐴𝑅𝑇𝑅+𝑙𝑛 𝐴𝑅𝐸𝐴 (4)
+Dimana θ adalah heating rate (oC/min), TR adalah temperatur dekomposisi (K), EA adalah energi aktivasi (J/kmol), A faktor pre-exponensial dan R adalah konstanta gas (8134 J/kmol.K). Dengan membuat plot antara –ln(θ/TR2) vs 1/TR serta metode least square maka dapat diperoleh harga energi aktivasi serta faktor pre-eksponensial.
+Energi aktivasi yang diperoleh selanjutnya akan digunakan untuk menghitung orde reaksi. Dimana n merupakan orde reaksi yang diperoleh dengan menyelesaikan persamaan non-linear (Kissinger, 1956). Persamaan non-linear (5), (6), (7), dan (8) untuk menyelesaikan orde reaksi:
+𝑛=1,26 𝑆1/2 (5)
+𝑆= 3−𝛼 𝛽− 3−𝛼 3+𝛼 𝛽− 3+𝛼 (6)
+𝛼= 9−4 2−1𝑛 1−2𝑅𝑇𝑅𝐸𝐴 (7)
+𝛽=2 2−1𝑛 (8)
+Dengan S, α, β adalah parameter yang merupakan fungsi dari orde reaksi. Dengan menyelesaikan persamaan non-linear tersebut, diperoleh harga orde reaksi pada prekursor A dan prekursor B. Harga ini tidak berubah secara signifikan terhadap laju pemanasan. Model kinetika reaksi dekomposisi pada pembentukan HAp dikembangkan dengan melakukan fitting data ekperimen TG-DTA terhadap ketiga model kinetika sebagaimana yang telah dijelaskan di atas. Untuk menguji model dengan eksperimen maka dilakukan plot antara ln[k(T)f(xR)] vs –ln(1-xR).
+HASIL DAN PEMBAHASAN
+Analisis Sifat Termal Prekursor
+Pada Gambar 1 menunjukkan penurunan massa Ca(CH3COO)2 selama proses pemanasan pada laju 10oC/menit. Pada suhu 180oC terjadi pelepasan melekul H2O yang terikat pada melekul kalsium asetat yang bersifat higroskopis sehingga sampel mengalami penurunan berat sebesar 3,4%. Selanjutnya pemanasan Ca(CH3COO)2 pada suhu sekitar 400oC menyebabkan kristal terdekomposisi dengan melepaskan komponen volatil berupa senyawa aseton di atmosfer, proses
+dekomposisi Ca(CH3COO)2 ini menghasilkan material
+padat CaCO3 dengan reaksi sebagai berikut:
+Ca(CH3COO)2(s) CaCO3(s) + CH3COCH3(g)
+Proses dekomposisi tersebut menyebabkan penurunan
+berat sampel sekitar 35% dari berat awal. Hasil
+eksperimen ini mendekati perhitungan secara teoritis
+yang menghasilkan penurunan berat sekitar 36,7%
+pada proses dekomposisi kalsium asetat. Pada
+pemanasan sekitar suhu 620oC, kalsium karbonat
+mulai terdekomposisi menghasilkan padatan CaO
+serta gas CO2 dengan mekanisme reaksi sebagai
+berikut:
+CaCO3(s) CaO(s) + CO2(g)
+Proses dekomposisi ini akan berlangsung
+secara keseluruhan hingga temperatur 660oC.
+Dekomposisi kasium karbonat ini menyebabkan
+sampel kehilangan berat sekitar 60% dari berat awal
+sampel. Hasil ini cukup mendekati dengan
+perhitungan teoritis sebesar 64,5%.
+Gambar 1. TG-DTA dari Ca(CH3COO)2
+Hasil TG-DTA untuk Ca(NO3)2.4H2O pada
+Gambar 2 menunjukkan penurunan sampel sampai
+33% pada pemanasan awal sampai dengan suhu 180oC
+dengan menggunakan laju pemanasan 10oC/menit.
+Fenomena yang terjadi adalah lepasnya melekul H2O
+dari kristal. Hal ini sesuai dengan perhitungan
+stokhiometriknya dimana perbandingan massa H2O
+dalam molekul Ca(NO3)2.4H2O sebesar 30,5%.
+Selanjutnya pemanasan hingga suhu 560oC terjadi
+penurunan massa sampel 75% dari massa awal.
+Penurunan massa sampel tersebut disebabkan oleh
+dekomposisi Ca(NO3)2 yang menghasilkan padatan
+CaO dengan reaksi:
+Ca(NO3)2 (s) CaO (s) + NO(g) +NO2(g) +O2(g)
+Massa yang hilang akibat terbentuknya gas
+NO, NO2 dan O2 yang lepas dari Ca(NO3)2. Dari
+informasi ini dapat diperkirakan bahwa suhu operasi
+yang dibutuhkan oleh prekursor Ca(NO3)2.4H2O agar
+terdekomposisi dengan baik menghasilkan CaO
+sebagai sumber Ca dalam partikel HAp adalah pada
+suhu sekitar 5600C.
+Gambar 2. TG-DTA dari Ca(NO3)2.4H2O
+Pada Gambar 3 menunjukkan TG-DTA untuk
+sampel diammonium hidrogen phosfat pada laju
+pemanasan 10oC/menit. Pemanasan pada temperatur
+sekitar 155oC menyebabkan sampel diammonium
+hidrogen phosfat mengalami penurunan berat sebesar
+10,1% dari berat awal. Dekomposisi sampel ini
+menghasilkan gas NH3 serta monoammonium
+hydrogen phosfat dengan reaksi:
+(NH4)2HPO4(s) NH3(g) + NH4H2PO4(s)
+Selanjutnya pada suhu sekitar 190oC monoammonium
+hidrogen phosfat akan mengalami peleburan:
+NH4H2PO4(s) NH4H2PO4(l)
+Selanjutnya pada range temperatur 500-700oC,
+monoammonium hidrogen phosfat terdekomposisi
+dengan reaksi:
+2NH4H2PO4 (l) 2NH3(g) + 3H2O(g) + P2O5(s)
+Dengan kenaikan temperatur, P2O5 yang terbentuk
+mengalami penguapan sehingga penurunan berat
+sebesar 89,7%.
+Gambar 3. TG-DTA dari (NH4)2HPO4
+Gambar 4 menunjukkan penurunan massa
+prekursor A akibat proses dekomposisi termal pada
+laju pemanasan 10oC/menit. Pada prekursor A yang
+terdiri dari campuran kalsium asetat dan diammonium
+hidrogen phosfat memiliki karakteristik grafik TGDTA
+yang merupakan perpaduan dari kedua material tersebut. Dapat diamati pada suhu 180oC terlihat
+adanya pelepasan melekul H2O dari kalsium asetat
+yang bersifat higroskopis sedangkan pada suhu 155oC
+menunjukkan puncak endotermik akibat peleburan
+serta dekomposisi dari diammonium hidrogen phosfat.
+Selanjutnya pada suhu 190oC menunjukkan
+adanya puncak endotermik pada proses peleburan
+monoammonium dihidrogen phosfat sebagai hasil
+dekomposisi dari diammonium hidrogen phosfat.
+Ketika pemanasan berlanjut hingga suhu 400oC terjadi
+dekomposisi Ca(CH3COO)2 menghasilkan CaCO3 dan
+CH3COCH3 yang dibuktikan dengan puncak
+endotermik grafik DTA pada suhu sekitar 400oC.
+selanjutnya ketika suhu mencapai 650oC terjadi
+dekarboksilasi CaCO3 menghasilkan padatan CaO dan
+gas CO2.
+Gambar 4. TG-DTA dari prekursor A
+Berdasarkan dari hasil TG-DTA prekursor A
+pada Gambar 4 menunjukkan bahwa tahapan reaksi
+pembentukan HAp dimulai dengan proses peleburan
+dari (NH4)2HPO4. Hasil peleburan tersebut akan
+membungkus kristal Ca(CH3COO)2. Proses tersebut
+dilanjutkan dengan dekomposisi Ca(CH3COO)2 dan
+(NH4)2HPO4 membentuk CaCO3 dan NH4H2PO4. Pada
+suhu 600-700oC terjadi pengurangan secara signifikan
+komponen CaCO3 dalam campuran precursor sebagai
+akibat terkonversi membentuk HAp (Jalota dkk.,
+2005). Hasil TG-DTA prekursor A menunjukkan
+temperatur dekomposisi precursor membentuk HAp
+diperkirakan terjadi pada temperatur sekitar 659oC
+yang diamati pada puncak grafik DTA precursor yang
+ditandai dengan adanya proses dekomposisi precursor
+membentuk HAp.
+Hasil TG-DTA prekursor B pada Gambar 5
+pada laju pemanasan 10oC/menit menunjukkan adanya
+puncak yang hampir sama sebagaimana pada
+prekursor murni Ca(NO3)2.4H2O dan (NH4)2HPO4.
+Puncak endotermik pada suhu 180oC menunjukkan
+terjadinya pelepasan melekul H2O pada
+Ca(NO3)2.4H2O menghasilkan Ca(NO3)2 dengan
+reaksi:
+Ca(NO3)2.4H2O (s) Ca(NO3)2 (s) + 4H2O (g)
+Sedangkan puncak endotermik pada suhu 190oC
+karena terjadi peleburan dari monoammonium
+hidrogen phosfat.
+Gambar 5. TG-DTA dari prekursor B
+Selanjutnya puncak endotermis pada suhu
+mendekati 580oC karena terjadi dekomposisi dari
+Ca(NO3)2 menghasilkan senyawa CaO dan
+kemungkinan terjadi dekomposisi dari leburan
+monoammonium hidrogen phosfat, hal ini juga
+ditandai dengan penurunan massa sampel campuran
+hingga 75% dari mula-mula. Dari hasil TG-DTA
+prekursor baik murni maupun campuran maka dapat
+diperkirakan bahwa proses pembentukan HAp mulai
+terjadi pada suhu 560oC dimana saat Ca(NO3)2 mulai
+terdekomposisi menghasilkan CaO yang selanjutnya
+bereaksi dengan melekul phosphat. Berdasarkan
+informasi ini, maka pengontrolan suhu pada proses
+sintesis material khususnya HAp dari prekursor
+Ca(NO3)2.4H2O dan (NH4)2HPO4 menjadi sangat
+penting karena pada suhu 500-700oC ada
+kemungkinan terjadi dekomposisi pada leburan
+monoammonium hidrogen phosfat (NH4HPO4)
+dimana hal ini dapat mempengaruhi jumlah dan
+kemurnian partikel HAp yang dihasilkan.
+Kinetika Dekomposisi Prekursor
+Untuk menentukan kinetika dekomposisi pada
+pembentukan HAp pada prekursor A dan B telah
+dilakukan uji TG-DTA dengan variasi laju pemanasan.
+Selain itu suhu dekomposisi prekursor dipengaruhi
+oleh laju pemanasan dan waktu reaksi. Sehingga dari
+data temperatur dekomposisi prekursor yang dianalisis
+pada variasi laju pemanasan dapat diperoleh parameter
+kinetika reaksi. Dari Gambar 6 dapat diperoleh energi
+aktivasi prekursor A dan B masing-masing sebesar
+161,56 kJ/mol dan 374 kJ/mol dengan faktor preexponensial
+prekursor A dan B masing-masing
+2,88x108 menit-1 dan 8,74 x 1022 menit-1.Selain itu
+dengan menyelesaikan persamaan non-linear (5), (6),
+(7), dan (8) diperoleh orde reaksi prekursor A dan B
+masing masing 1,25 dan 1.
+Pada Gambar 7 menunjukkan bahwa model
+NGG sesuai dengan data eksperimen untuk prekursor
+A (asetat) sedangkan model JMA sesuai untuk
+prekursor B (nitrat). Model NGG didasarkan pada kinetika reaksi untuk nukleasi serta pertumbuhan Kristal yang disebabkan pergerakan batas bulir kristal (grain boundary) dengan driving force berasal dari curvature batas pertumbuhan kristal (Kim dkk., 2003) sedangkan pada model kinetika JMA proses kristalisasi disebabkan oleh perbedaan potensial kimia antara bagian fase amorf dan fase kristalnya (Heiroth dkk., 2011). Persamaan umum kinetika (9) pembentukan HAp dapat ditulis sebagai berikut: 𝑑𝑥𝑅𝑑𝑡=𝑘 𝑇 𝑓 𝑥𝑅 =𝐴𝑒𝑥𝑝 −𝐸𝐴𝑅𝑇 𝑓 𝑥𝑅 (9) Dengan dxR/dt merupakan laju reaksi, xR fraksi prekursor yang bereaksi membentuk HAp, k(T) konstanta Arhenius serta f(xR) fungsi dari fraksi yang bereaksi. Persamaan reaksi bila ditulis secara detail berdasarkan data yang diperoleh akan diperoleh persamaan 10 dan 11. Prekursor A : 𝑑𝑥𝑅𝑑𝑡=𝑘 𝑇 𝑓 𝑥𝑅 =2,88𝑥108exp⁡(−161,56𝑅𝑇)(1−𝑥𝑅)1,25 (10) Prekursor B : 𝑑𝑥𝑅𝑑𝑡=𝑘 𝑇 𝑓 𝑥𝑅 =8,73𝑥1022exp⁡(−374,13𝑅𝑇)(1−𝑥𝑅) −ln⁡(1−𝑥𝑅) 2 (11)
+Dari persamaan kinetika pembentukan hydroxyapatit untuk prekursor A maupun B menunjukkan bahwa dengan meningkatkan temperatur akan meningkatkan laju reaksi sehingga fraksi dari produk HAp yang terbentuk akan meningkat. Selain itu fraksi produk HAp yang terbentuk tidak hanya dipengaruhi oleh faktor temperatur namun dipengaruhi oleh waktu tinggal prekursor di dalam reaktor. Oleh karena itu untuk temperatur dan waktu reaksi prekursor harus dikontrol sehingga dapat diperoleh produk HAp dengan kemurnian yang tinggi baik untuk prekursor asetat maupun nitrat. KESIMPULAN Dari analisis TG-DTA dapat diperoleh kinetika reaksi pembentukan HAp dari prekursor asetat dan nitrat dengan perbandingan mol Ca/P sebesar 1,67. Pada prekursor A (asetat) reaksi dekomposisi prekursor membentuk produk HAp terjadi pada suhu 659oC sedangkan pada prekursor B (nitrat) pembentukan HAp terjadi pada suhu 560oC. Dari hasil penelitian menunjukkan bahwa kinetika reaksi pembentukan HAp pada prekursor A (asetat) mengikuti model Normal Grain Growth dan pada prekursor B (nitrat) mengikuti model kinetika Johnson-Mehl-Avrami dengan persamaan kinetik (10) dan (11), energi aktivasi pembentukan HAp pada prekursor A sebesar 161,56 kJ/mol sedangkan pada prekursor B 374 kJ/mol. Selain itu meningkatkan temperature reaksi akan meningkatkan laju pembentukan HAp. Dengan adanya persamaan kinetika dan parameter enegi aktivasi maka laju reaksi pembentukan HAp dapat dikontrol sehingga dapat menghasilkan produk dengan kemurnian yang tinggi.

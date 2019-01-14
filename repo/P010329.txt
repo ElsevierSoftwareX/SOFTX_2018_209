@@ -1,0 +1,546 @@
+﻿Desain Sistem Kendali untuk Pengering Gabah dengan Kolektor
+Surya dan Penyimpan Panas
+
+
+Abstrak
+Permasalahan utama dalam pengeringan surya adalah fluktuasi radiasi surya yang menyebabkan
+proses pengeringan sulit berlangsung secara kontinyu. Tujuan dari penelitian ini adalah untuk mendesain
+sistem kendali pada pengeringan gabah yang menggunakan kolektor surya dan air sebagai media
+penyimpan panas sedemikian hingga proses pengeringan dan penyimpanan panas serta pemanfaatannya
+dapat berlangsung secara efektif dan efisien. Metode pengendalian yang digunakan adalah sistem kendali
+ON-OFF berbasis mikrokontroler ATmega 16 yang menggunakan algoritma sistem kendali dari proses
+perbandingan kadar air keseimbangan udara (Me) lingkungan, Me di dalam ruang pengering dan Me udara
+potensial. Hasil pengujian menunjukkan sistem kendali dapat bekerja dengan baik pada sistem pengering
+yang menggunakan kolektor surya dan penyimpan panas pada medium air. Kinerja sistem kendali sesuai
+dengan algoritma yang dikembangkan ditunjukan pada pengujian pengeringan 5 kg gabah dengan suhu
+dan RH lingkungan rata-rata 35.6oC dan 51.3%, suhu ruang plenum rata-rata 35.4oC, mampu menurunkan
+kadar air gabah di tumpukan atas dari 42.5% b.k menjadi 18.3% b.k dan pada tumpukan bawah dari
+kadar air 42.2% b.k menjadi 16.1% b.k selama 10 jam. Sedangkan suhu air terus meningkat meski tetap
+digunakan, mulai dari 32.1oC dan maksimal mencapai 44.2oC sampai akhir proses pengeringan masih
+tersisa 38.8oC.
+Kata Kunci: Sistem kendali, kolektor surya plat datar, penyimpan panas
+
+Pendahuluan
+Pengeringan adalah salah satu metode
+pengawetan pangan yang paling tua dan umum
+digunakan. Metode pengeringan yang paling
+umum digunakan hingga saat ini adalah dengan
+menggunakan tenaga matahari langsung atau
+penjemuran (sun drying). Namun kini telah banyak
+dikembangkan metode pengeringan mekanis
+dan semi mekanis yang relatif murah dan cukup
+efektif dalam mengatasi berbagai kendala pada
+penjemuran yaitu kebutuhan lahan luas, fluktuasi
+radiasi surya, situasi cuaca yang berubah-ubah,
+adanya kontaminasi mikroorganisme, hewan, dan
+berbagai reaksi kimia lainnya.
+Salah satu metode pengeringan artifisial
+yang dikembangkan adalah pengeringan dengan
+menggunakan kolektor surya plat datar. Fluktuasi
+radiasi surya adalah salah satu kendala utama
+pada pengeringan dengan penjemuran maupun
+dengan kolektor surya plat datar karena dapat
+menyebabkan kestabilan panas untuk pengeringan
+relatif rendah. Agar proses pengeringan dapat
+berlanjut ketika kondisi mendung atau hujan, maka
+perlu dilakukan penyimpanan energi panas yang
+diperoleh pada siang hari melalui kolektor surya
+kemudian disimpan pada medium air. Ketika suhu
+udara lingkungan menurun, maka energi panas
+dapat diambil dari suhu air yang disimpan sehingga
+proses pengeringan dapat berlangsung hingga
+malam hari sampai kadar air gabah yang diinginkan
+tercapai yaitu berkisar 12 – 14%.
+Penelitian pengeringan terdahulu mengenai
+penyimpanan panas yang diperoleh dari kolektor
+surya plat datar dengan medium air, telah
+dilakukan oleh Irfantoro (1992) untuk pengeringan
+selai pisang dari kadar air 75% menjadi 37.61%
+selama 19 jam. Kemudian penelitian pengeringan
+dengan memanfaatkan udara lingkungan untuk
+pengeringan jagung telah dilakukan oleh Lovrent
+(2011) dan berhasil menurunkan kadar air awal
+rata-rata 20.89% b.k menjadi 16.20% b.k selama
+10 jam untuk dengan kapasitas 22.5 kg. Kemudian
+penelitian pengeringan gabah dengan kolektor
+surya pelat datar dan menggunakan air sebagai
+media penyimpan panas dilakukan oleh Frima
+(2008), dengan hasil pengujian setelah 285
+menit kadar air gabah berkapasitas 5 kg dapat
+diturunkan dari 25.15% menjadi 13.77%. Penelitian
+lain pada ruang penyimpanan dilakukan oleh
+Srzednicki (2005) dengan menggunakan sistem
+kendali berdasarkan nilai RH menyimpulkan
+bahwa pengeringan padi skala laboratorium dapat
+dilakukan dalam 24 jam dari kadar air 18.3%
+menjadi 13.7% pada RH lingkungan diatur pada
+70%. Penelitian lain dilakukan Hendarto (2009)
+pada In store dryer dengan komoditas jagung serta
+sistem kendali On-Off diperoleh hasil pengeringan
+jagung berkapasitas 1201.2 kg, dari kadar air 17.61
+% menjadi 12.37% b.k dan RH lingkungan rata-rata
+51.9% selama 50 jam.
+Berdasarkan penelitian terdahulu dengan sistem
+kendali penyimpanan termal dan pemanfaatannya
+perlu diteliti lebih lanjut, khususnya pada sistem
+pengendalian pemanfaatan energi serta aliran
+udara. Karena udara yang berfungsi memindahkan
+panas ke dalam sistem pengering dan membawa
+uap air ke luar sistem dapat mempengaruhi kualitas
+gabah. Agar distribusi udara pada sistem pengering
+dapat berlangsung dengan lancar dan kontinyu
+maka dibutuhkan sistem kendali otomatis yang
+berperan mengatur kebutuhan energi panas untuk
+pengeringan.
+Dari uraian di atas maka dilakukan penelitian
+yang bertujuan untuk mendesain algoritma sistem
+kendali pada pengering gabah yang menggunakan
+kolektor surya dan air sebagai media penyimpan
+panas. Penelitian ini mencakup desain perangkat
+keras yang meliputi perangkaian sistem kendali
+berbasis mikrokontroler ATmega, desain perangkat
+akuisisi data, pembacaan sensor, penampilan
+LCD dan desain perangkat lunak menggunakan
+pemrograman bahasa C.
+Bahan dan Metode
+Penelitian ini dilaksanakan sejak bulan Februari
+2013 – Juni 2015 di Laboratorium Instrumentasi
+dan Kontrol, dilanjutkan di Laboratorium Energi
+Terbarukan, Departemen Teknik Mesin dan
+Biosistem, Fakultas Teknologi Pertanian, Institut
+Pertanian Bogor.
+Alat dan Bahan Penelitian
+Peralatan dalam merancang sistem kendali
+antara lain adalah solder, timah, papan pcb,
+crimping tools, multimeter, bor listrik, modul
+mikrokontroler ATmega 16, sensor SHT75 dan
+sensor LM35DZ. Peralatan untuk pengujian sistem
+kendali adalah kolektor surya dengan penyimpan
+panas, termokopel type T, timbangan digital,
+mousture tester, pyranometer. Sedangkan bahan
+untuk pengujian pengeringan adalah gabah dengan
+kadar air 30% b.b yang diperoleh dari hasil panen
+petani di sekitar kampus IPB.
+Metode Penelitian
+Tahap pertama penelitian ini adalah merancang
+bangun perangkat keras sistem kendali untuk
+skema pengering dengan kolektor surya plat
+datar dan penyimpan panas. Tahap kedua adalah
+mengembangkan algoritma sistem kendali yang
+meliputi penyusunan diagram alir pemrograman
+dan pembuatan modul. Dan tahap ketiga adalah
+pengujian algoritma sistem kendali pada alat
+pengering dengan kolektor surya dan penyimpan
+panas. Pengujian dilakukan sesuai dengan
+kapasitas ruang pengering yaitu 5 kg dan 10 kg
+gabah serta dibandingkan dengan penjemuran.
+
+
+Skema Sistem Pengering Kolektor Surya Plat
+Datar dengan Penyimpan Panas
+Alat pengering yang digunakan pada penelitian
+ini adalah pengering gabah tipe bak dengan kolektor
+surya plat datar dan sistem penyimpan panas pada
+medium air. Kolektor surya plat datar tersebut
+berdimensi 1 m x 1.5 m dan bak penampung air
+dengan volume 125 liter serta ruang pengering
+berkapasitas 10 kg. Pada Gambar 1 ditampilkan
+skema sistem kendali pengering gabah yang
+dirangkai sedemikian rupa dengan sistem kendali.
+Proses penyerapan panas dimulai dengan
+mengalirkan air dari bak penampung (1) dengan
+menggunakan pompa (2) dan membuka katup 1
+menuju kolektor surya plat datar (3) untuk menyerap
+panas kemudian kembali lagi ke bak penampung
+(4). Untuk proses pengambilan panas dari medium
+air dilakukan dengan mengalirkan air dari bak
+penampung (1) menuju penukar panas (5) dengan
+menggunakan pompa (2) dan membuka katup 2
+serta mengaktifkan kipas yang mengarah ke ruang
+plenum.
+Sistem kendali berperan mengendalikan aktuator
+yang terdiri dari pompa, dua buah katup solenoid
+dan kipas berdasarkan input dari sensor suhu dan
+RH yang terdeteksi kemudian diproses sedemikian
+rupa oleh mikrokontroler. Katup solenoid 1 (valve
+1) berfungsi untuk membuka dan menutup jalur
+aliran air dari bak penampung penyimpan panas
+(heat storage) ke arah kolektor surya plat datar,
+sedangkan katup solenoid 2 (valve 2) berfungsi
+untuk membuka dan menutup jalur ke arah penukar
+panas (radiator).
+Skema sistem kendali dan pembuatan modul
+Algoritma sistem kendali disusun dalam bahasa
+C yang terdiri dari tiga modul (sub program). Modul
+pertama adalah modul akuisisi data, di mana modul
+ini digunakan untuk penulisan dan pembacaan
+sensor SHT75 dan LM35DZ. Modul kedua adalah
+untuk menghitung Me berdasarkan persamaan (1)
+dari Henderson. Modul ketiga adalah untuk sistem
+pengendalian ON-OFF pada atuator berdasarkan
+perbandingan nilai Me yang telah diproses pada
+modul dua. Secara umum modul pertama dan kedua
+disebut bagian akuisisi data sedangkan modul
+ketiga disebut bagian pengendalian, termasuk juga
+untuk pengendalian pengeringan malam hari yang
+panasnya berasal dari heat storage ataupun udara
+lingkungan yang berpotensi untuk pengeringan.
+Diagram alir strategi pengendalian secara
+keseluruhan deperlihatkan pada Gambar 2.
+Penyusunan algoritma pengendalian
+menggunakan perbandingan nilai kadar air
+keseimbangan (Me) gabah di tumpukan atas, Me di
+tumpukan bawah, Me lingkungan dan Me potensial.
+Me potensial adalah suatu kondisi di mana suhu air
+yang tinggi atau panas dan kelembaban mutlaknya
+mendekati Me lingkungan. Untuk menghitung
+Me digunakan persamaan (4) dari Henderson
+(Thomson 1967) dalam Brooker et al. (1992).
+(1)
+Khusus untuk menghitung Me potensial
+digunakan kombinasi input suhu air yang diukur
+dengan sensor LM35DZ, dan RH udara lingkungan
+yang diukur dengan sensor SHT75. Proses
+menghitung nilai Me potensial adalah sebagai
+berikut:
+- Menghitung Pvs1 dengan input suhu (T) dari
+pembacaan sensor SHT75 lingkungan.
+
+- Menghitung Pvs2 dengan input suhu (T) dari
+LM35DZ di penyimpanan air,
+(2)
+di mana A, B, C, D, E, F, dan G adalah konstanta
+yang dinyatakan oleh Henderson, 1967.
+- Kemudian menghitung Pv lingkungan dengan
+persamaan (3),
+(3)
+- Menghitung RH potensial dengan persamaan
+(4),
+(4)
+Setelah diperoleh nilai RH potensial, dilanjutkan
+dengan menghitung nilai Me potensial dengan
+persamaan (1) dengan input dari suhu (T) air yang
+tersimpan dan RH potensial.
+Adapun gambaran ringkas algoritma strategi
+pengendalian yang digunakan berdasarkan nilai Me
+adalah sebagai berikut:
+
+1. Jika Me gabah di tumpukan atas < 14%,
+Pengeringan dihentikan karena Me telah
+tercapai dan seluruh aktuator dimatikan. Jika
+tidak, maka sistem melanjutkan proses,
+2. Jika T air di bak < T kolektor, pompa dan katup
+1 diaktifkan (terjadi proses pemanasan air),
+jika tidak maka katup 1 akan ditutup sehingga
+air tidak akan mengalir melalui kolektor yang
+justru menyebabkan pelepasan panas dari air
+ke keloktor.
+3. Jika Me potensial < Me atas, sistem
+mengaktifkan pompa, membuka katup 2 dan
+kipas (terjadi proses pengambilan panas dari
+air untuk pengeringan), jika tidak maka katup 2
+ditutup agar kipas tidak menghembuskan udara
+yang bersifat lembab ke ruang pengering yang
+menyebabkan gabah tetap basah.
+4. Jika katup 1 dan 2 ditutup, pompa dimatikan
+tetapi sistem masih melanjutkan proses.
+5. Jika Me lingkungan < 13%, kipas diaktifkan
+dan sebaliknya. Me lingkungan dibatasi harus
+lebih kecil dari 13% untuk mengantisipasi udara
+lingkungan yang justru menyebabkan gabah
+semakin basah.
+Perancangan Hardware Sistem Kendali On-Off
+Sistem kendali yang dirancang terdiri dari modul
+yang saling berhubungan sedemikian rupa dengan
+aktuator. Adapun bagian – bagian dari sistem
+kendali adalah:
+• Mikrokontroler ATmega 16
+pengendalian di upload ke dalam mikrokontroler
+untuk mengolah nilai digital yang dihasilkan
+oleh sensor suhu dan RH menjadi nilai kadar
+air keseimbangan (Me) lingkungan, Me ruang
+pengering (tumpukan atas dan bawah) dan Me
+potensial.
+• Rangkaian LCD
+Rangkaian LCD berfungsi untuk menampilkan
+nilai suhu, RH dan Me yang telah diproses oleh
+mikrokontroler selama proses pengeringan. Nilai
+yang ditampilkan pada LCD dicatat sebagai data
+proses pengeringan gabah.
+• Rangkaian catu daya
+Catu daya yang digunakan adalah trafo CT 3A
+yang kemudian dihubungkan dengan rangkaian
+penyearah untuk menghasilkan tegangan yang
+dubutuhkan untuk rangkaian sistem kendali.
+• Rangkaian Pengendali ON – OFF
+Rangkaian pengendali ON-OFF dapat disebut
+sebagai dimmer yang terdiri dari komponen
+utama triac BTA41, dan diac jenis IC MOC
+3020M.
+
+Rangkaian Sensor SHT75 dan LM35DZ
+ Sensor SHT75 dipegunakan untuk mengukur suhu dan RH yang ditempatkan di ruang
+pengering bagian atas dan bawah serta di
+lingkungan. Sedangkan sensor LM35DZ
+dipergunakan untuk mengukur suhu air dan
+kolektor surya plat datar.
+Prosedur percobaan
+Masing-masing aktuator dihubungkan ke catu
+daya yang terhubung dengan modul rangkaian
+dimmer. Gabah ditimbang seberat 5 kg atau 10
+kg kemudian ditempatkan pada ruang pengering
+besamaan dengan menempatkan sensor SHT75.
+Sensor LM35DZ dipasang pada kolektor dan bak
+penampung air. Parameter yang diukur pada sistem
+pengeringan ini meliputi:
+• Suhu (T) dan kelembaban Udara (RH)
+Titik pengukuran T dan RH dengan menggunakan
+sensor SHT 75 yang diletakkan di tumpukan atas
+dan bawah ruang pengering serta di lingkungan.
+luar ruang pengering untuk mengukur kondisi
+suhu dan RH lingkungan. Sedangkan sensor
+LM35DZ digunakan untuk mengukur suhu air
+di bak penampung dan kolektor. Pengukuran
+suhu dan RH dengan sensor dibandingkan juga
+dengan pengukuran dengan termokopel.
+• Kadar air gabah
+Pengukuran kadar air gabah dilakukan sebelum
+pengeringan, saat pengeringan dengan interval
+waktu 1 (satu) jam hingga mencapai kadar
+air akhir 12 – 14% bb. Pengukuran kadar air
+diperoleh dari perubahan massa bahan selama
+proses pengeringan. Kadar air awal dan akhir
+diukur dengan menggunakan moisture tester.
+• Intensitas cahaya matahari
+Pengukuran intensitas cahaya dilakukan dengan
+menggunakan pyranometer yang keluarannya
+berupa tegangan (mV). Tegangan keluaran
+dari pyranometer sebesar 1 mV setara dengan
+1000/7 Watt/m2, maka akan diperoleh irradiasi
+sesaat.
+Hasil dan Pembahasan
+Bagian – bagian perangkat sistem kendali
+Sistem kendali ON-OFF yang dirancang pada
+dasarnya berfungsi untuk menyalurkan dan
+memutus arus listrik yang menuju ke aktuator
+yang dikendalikan. Aktuator tersebut terdiri dari
+pompa air, dua buah katup solenoid dan kipas.
+Masing-masing memiliki jalur yang terhubung ke
+mikrokontroler. Ketika mikrokontroler menerima
+input dari sensor berupa data suhu dan RH, sistem
+mengolah data tersebut dan selanjutnya mengirim
+signal ke rangkaian dimmer berupa nilai biner untuk
+mengaktifkan aktuator tersebut. Foto rangkaian
+sistem kendali On-Off ditampilkan pada Gambar 3.
+Pengujian Algoritma Sistem Kendali pada
+Pengering Kolektor Surya Plat Datar
+Setelah sistem kendali ON-OFF dihubungkan
+sedemikian rupa pada alat pengering dengan
+kolektor surya, secara otomatis seluruh aktuator
+bekerja sesuai dengan algoritma sistem kendali.
+Proses pengujian dilakukan pada 5 kg gabah
+dengan ketebalan tumpukan 9 cm dan 10 kg dengan
+ketebalan 20 cm. Respon masing-masing aktuator
+pada tiap pengujian ditampilkan pada Gambar 4
+dan Gambar 7 di mana kerja aktuator dipengaruhi
+oleh input dari pembacaan sensor.
+Pengujian sistem kendali pada pengeringan
+gabah 5kg
+Pada Gambar 4a diperlihatkan kondisi aktuator
+pompa yang diaktifkan ketika sistem mendeteksi
+Me pada tumpukan atas lebih tinggi dari 14%,
+kemudian sistem membandingkan suhu pada
+kolektor dan suhu air pada bak penampung. Setelah
+sistem membaca suhu kolektor ternyata lebih tinggi
+dari pada suhu air, maka sistem secara otomatis
+membuka katup 1. Gambar 4b menunjukkan
+proses pemanasan air yang berlangsung selama
+suhu kolektor lebih tinggi dari suhu air di tangki
+penyimpan, dan aktuator katup 1 dimatikan ketika
+suhu air lebih tinggi dari suhu kolektor, yaitu ketika
+suhu air mencapai 44.6OC dan suhu kolektor 44.3OC pada jam 15.00 WIB, akibat radiasi surya
+mulai turun. Jika katup 1 tidak dimatikan maka
+dapat menyebabkan kerugian berupa pelepasan
+panas ke udara melalui kolektor surya.
+Pada Gambar 4c dan 4d diperlihatkan kondisi
+Me atas, Me potensial, Me lingkungan, katup 2 dan
+kipas. Ketika Me potensial lebih rendah dari pada
+Me atas maka sistem membuka katup 2 untuk
+melakukan proses pengambilan panas dari air untuk
+pengeringan. Proses pertukaran panas tersebut
+dilakukan dengan bantuan radiator dan kipas.
+Sistem mengaktifkan kipas untuk menghebuskan
+udara ke ruang plenum selama Me potensial masih
+lebih rendah daripada Me atas atau selama Me atas
+masih belum mencapai kurang dari 14%. Sistem
+kendali mematikan seluruh aktuator ketika Me atas
+telah mencapai kurang dari 14% pada pukul 18.00
+WIB.
+Pada percobaan ini diperlihatkan proses
+pengeringan gabah terjadi bersamaan dengan
+pemanasan air meskipun panas yang digunakan
+untuk pengeringan tersebut juga diambil dari air
+yang telah dipanaskan. Meskipun demikian suhu air
+tetap mengalami peningkatan sampai radiasi surya
+mulai berkurang. Sementara suhu udara di dalam
+ruang plenum tercatat rata-rata 35.5OC sedangkan
+suhu lingkungan rata-rata 34.1OC dengan RH ratarata
+51.3%. Perubahan suhu air, suhu kolektor, suhu lingkungan dan suhu ruang plenum diperlihatkan
+pada
+Suhu awal air di bak 32.1OC, setelah pemanasan
+selama 240 menit mulai dari jam 08:00 sampai jam
+12:00 WIB suhu air di bak menjadi 39.8OoC. Suhu
+maksimal air selama proses pengujian mencapai
+45OC, sedangkan pada kolektor surya terjadi
+penurunan suhu yang drastis mulai jam 14:30
+WIB karena mendung dan hembusan angin yang
+cukup kencang. Selama proses pemanasan air,
+sistem juga menggunakan panas dari air untuk
+pengeringan gabah. Suhu udara lingkungan ratarata
+35.2OC dengan RH rata-rata 51.3% dan
+suhu ruang plenum rata-rata 35.4O°C. Pengujian
+pengeringan dengan kapasitas 5 kg ini berlangsung
+selama 600 menit (10 jam) di mana seluruh
+aktuator dimatikan oleh sistem kendali karena Me
+gabah telah terpenuhi yaitu kurang dari 14% pada
+pukul 18:00 WIB. Sementara suhu air di dalam bak
+penyimpan masih cukup tinggi yaitu 43.1OC dengan
+RH potensial 36%, dan Me potensial 9% sehingga
+masih sangat berpotensi untuk proses pengeringan
+berikutnya.
+Pada Gambar 6 ditampilkan penurunan kadar
+air pada tumpukan bawah lebih cepat dari pada
+tumpukan atas. Hal ini karena udara panas lebih
+dulu mengenai gabah di permukaan bawah, juga
+karena pada proses penelitian ini tidak dilakukan
+pengadukan dengan tujuan agar pemantauan
+perubahan Me pada lapisan atas dan bawah lebih
+jelas. Meskipun pada umumnya pengeringan tipe
+tumpukan harus dilakukan pengadukan.
+Jika dibandingkan dengan pengeringan dengan
+penjemuran atau lamporan dapat dilihat terjadi
+penurunan kadar air yang cukup signifikan mulai
+pukul 14:30 WIB di mana radiasi mulai berkurang.
+Kadar air awal gabah untuk penjemuran adalah
+42.5% b.k dan kadar air akhir 24.7% b.k pada jam
+18:00 WIB. Sedangkan untuk kadar air gabah di
+tumpukan atas diturunkan dari 42.4% b.k menjadi
+18.3% b.k dan kadar air gabah di tumpukan bawah
+diturunkan dari 42.2% b.k menjadi 16.1% b.k.
+Berdasarkan eksperimen ini menunjukkan bahwa
+proses pengeringan dengan alat pengering yang
+menggunakan sistem kendali lebih cepat dari pada
+metode penjemuran.
+
+Pengujian sistem kendali pada pengeringan
+gabah 10 kg
+Pengujian sistem kendali pada 10 kg gabah
+dengan tebal tumpukan 20 cm diperlihatkan pada
+Gambar 7 a-d, di mana pada Gambar 7a ditunjukkan
+kondisi aktuator pompa yang diaktifkan ketika sistem
+mendeteksi Me pada tumpukan atas lebih tinggi
+dari 14%, kemudian sistem membandingkan suhu
+pada kolektor dan suhu air pada bak penampung.
+Setelah sistem membaca suhu kolektor ternyata
+lebih tinggi dari pada suhu air, maka sistem secara
+otomatis membuka katup 1 untuk melakukan
+penyerapan panas dari kolektor surya plat datar.
+Poses pemanasan air yang ditunjukkan pada
+Gambar 7b berlangsung selama suhu kolektor lebih
+tinggi dari suhu air, dan aktuator dimatikan ketika
+suhu air lebih tinggi dari suhu kolektor yang terjadi
+pada jam 14:30 WIB pada saat suhu air mencapai
+42.7OC dan suhu kolektor 40.8OC.
+Pada Gambar 7c dan 7d diperlihatkan respon
+aktuator kipas, katup 2, terhadap kondisi Me
+atas, Me potensial, Me lingkungan. Ketika Me
+potensial lebih rendah dari pada Me atas maka
+sistem membuka katup 2 untuk melakukan proses
+pengambilan panas dari air untuk pengeringan.
+Proses pertukaran panas tersebut dilakukan dengan
+bantuan radiator dan kipas. Sistem mengaktifkan
+kipas untuk menghebuskan udara ke ruang plenum
+selama Me potensial masih lebih rendah daripada
+Me atas atau selama Me atas masih belum tercapai.
+Sistem kendali mematikan seluruh aktuator ketika
+Me atas telah mencapai kurang dari 14% yaitu pada
+pukul 20:00 WIB.
+Seperti pada percobaan dengan kapasitas
+5 kg, Pada percobaan pengeringan 10 kg juga
+diperlihatkan proses pemanasan air terjadi
+bersamaan dengan pengeringan, tetapi suhu air
+tetap mengalami peningkatan. Suhu air awal di
+bak tercatat 32.1OC dan suhu kolektor 35.6OC
+sementara suhu udara lingkungan rata-rata 35.4OC
+dan RH 54.8%. Hingga akhir proses pengeringan
+yang berlangsung selama 720 menit (12 jam),
+suhu air di bak penampung tercatat 38.8°C dan
+suhu kolektor 25.7OC sementara RH potensial 43%
+dan Me potensial 11% yang artinya masih sangat
+berpotensi untuk digunakan. Total radiasi surya
+pada saat pengujian sistem kendali adalah 3.90
+kWh. Grafik perubahan suhu air, suhu kolektor, suhu
+lingkungan dan suhu ruang plenum diperlihatkan
+pada gambar 8. Sedangkan perubahan kondisi
+kadar air selama percobaan diperlihatkan pada
+gambar 9.
+Pada Gambar 9 dapat dilihat penurunan kadar
+air dengan penjemuran lebih cepat daripada
+pengeringan dengan alat, hal ini terjadi karena
+faktor radiasi surya yang langsung mengenai gabah pada saat pengujian cukup tinggi yaitu rata-rata 591
+W/m2 mulai dari jam 8:00 WIB hingga jam 12:00
+WIB sehingga penguapan relatif lebih cepat.
+Sementara pada alat pengering dengan
+sistem kendali, proses penurunan kadar air mulai
+terlihat sekitar jam 10:00 WIB, demikian juga pada
+gabah di tumpukan atas. Hal ini terjadi karena
+pada awal proses sistem melakukan proses
+penyerapan panas terlebih dahulu dari kolektor
+surya plat datar untuk disimpan pada medium air,
+gabah di dalam ruang pengering tidak terpapar
+langsung dengan sinar matahari dan juga udara
+kering yang dihembuskan ke ruang plenum relatif
+masih rendah. Akan tetapi salah satu keuntungan
+yang diperoleh dari penggunaan sistem kendali
+pengeringan ini adalah adanya energi panas yang
+tersimpan mencapai 38.8OC untuk digunakan
+pada pengeringan selanjutnya yaitu pada malam
+hari sampai sistem mendeteksi suhu air dan RH
+potensial tidak memenuhi syarat untuk digunakan
+mengeringkan gabah.
+Kadar air awal gabah untuk proses penjemuran
+adalah 42.2% (b.k) dan kadar air akhir 18.5 % (b.k)
+pada jam 20:00 WIB. Sedangkan untuk kadar air
+gabah di tumpukan atas dapat diturunkan dari
+42.5% (b.k) menjadi 18.1% (b.k) dan kadar air
+gabah di tumpukan bawah dapat diturunkan dari
+42.7% (b.k) menjadi 13.0% (b.k).
+Simpulan
+Algoritma sistem kendali ON-OFF berbasis
+mikrokontroler ATmega 16 untuk pengeringan
+gabah telah berhasil dirancang dan telah diuji.
+Berdasarkan percobaan yang telah dilakukan,
+algoritma sistem kendali untuk pengeringan gabah
+dan penyimpanan panas dapat bekerja dengan
+baik.
+Pada pengujian algoritma sistem kendali
+pengeringan 5 kg gabah dengan suhu lingkungan
+rata-rata 35.6OC dan RH rata-rata 51.3% mampu
+menurunkan kadar air tumpukan atas dari 42.5%
+b.k menjadi 18.3% b.k dan pada tumpukan bawah
+dari kadar air 42.2% b.k menjadi 16.1% b.k selama
+10 jam.
+Pada pengujian algoritma sistem kendali
+pengeringan 10 kg gabah dengan suhu lingkungan
+rata–rata 35.4OC dan RH rata-rata 54.8% mampu
+menurunkan kadar air gabah di permukaan atas dari
+42.5% b.k menjadi 18.1% b.k dan pada tumpukan
+bawah dari kadar air 42.7% b.k menjadi 13.0%
+selama 12 jam.
+Berdasarkan pengujian yang telah dilakukan,
+diketahui bahwa proses pengeringan dengan
+metode tumpukan pada ketebalan 20 cm dapat
+dilakukan dengan baik meski tanpa pengadukan
+tetapi menggunakan sistem kendali yang terintegrasi
+dengan kolektor surya plat datar dan penyimpanan
+panas pada medium air.

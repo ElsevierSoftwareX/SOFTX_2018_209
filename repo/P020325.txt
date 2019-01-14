@@ -1,0 +1,42 @@
+﻿
+ ABSTRAK 
+Pelabelan prime cordial graf G ( V,E ) adalah pemetaan bijektif dari himpunan titik V(G ) ke himpunan {1,2,3,..., p}, dengan p adalah banyaknya titik. Sedangkan pelabelan sisinya mengikuti pelabelan titik, yang diperoleh dengan mencari great common divisor (gcd) dari label titik yang bertetangga (adjacent). Jika gcd dari label titik yang adjacent bernilai 1 maka label sisinya adalah 1, sedangkan jika gcd dari label titik yang adjacent bernilai selain 1 maka label sisinya adalah 0, serta harga mutlak selisih dari banyak sisi yang berlabel 0 dan banyak sisi berlabel 1 adalah kurang dari sama dengan 1. Graf yang memuat pelabelan prime cordial disebut graf prime cordial. Pada tugas akhir ini dikaji duplikasi sisi graf cycle Cn (kecuali untuk n = 4), duplikasi titik graf cycle Cn, path union pada graf cycle Cn, dan graf friendship one point union dari salinan n cycle C3. 
+Kata kunci : Pelabelan Prime Cordial, graf cycle, path union, graf friendship
+
+
+BAB I 
+PENDAHULUAN 
+1.1. Latar Belakang 
+
+Teori graf muncul pertama kali pada tahun 1736 diperkenalkan oleh Leonard Euler dalam menyelesaikan kasus jembatan Konigsberg. Pada awalnya graf diciptakan untuk diterapkan dalam penyelesaian kasus, namun graf telah mengalami perkembangan yang sangat luas di dalam teori graf itu sendiri. 
+Teori graf merupakan salah satu bagian ilmu yang dibahas dalam matematika yang mempelajari himpunan titik yang dihubungkan oleh himpunan sisi. Banyak yang dapat dipelajari dari suatu graf, salah satu diantaranya adalah mengenai pelabelan graf. Pelabelan graf pertama kali diperkenalkan oleh Sadlàčk (1964), kemudian Stewart (1966), Kotzig dan Rosa (1970). 
+Pelabelan graf adalah menempatkan suatu bilangan bulat pada titik-titik atau sisi-sisi atau keduanya pada kondisi tertentu. Pelabelan titik adalah pelabelan dengan domain himpunan titik, pelabelan sisi adalah pelabelan dengan domain himpunan sisi, dan pelabelan total adalah pelabelan dengan domain gabungan himpunan titik dan himpunan sisi. Aplikasi pelabelan graf dapat dijumpai dalam berbagai bidang diantaranya desain sirkuit, radar, transportasi, ilmu komputer, ilmu kimia dan desain jaringan komunikasi. 
+Ada banyak jenis pelabelan yang telah dikembangkan, salah satunya adalah pelabelan prima. Dalam pelabelan Prima terdapat hubungan pada syarat pemadatan (fusion), duplikat (duplication), pertukaran titik (vertex switching), gabungan path (path union), dan penggabungan dua salinan (path joining two copies) dari graf sikel. Pada pelabelan prime terdapat hubungan pada syarat pelabelan prime cordial. 
+Dalam tugas akhir ini akan dibahas mengenai pelabelan prime cordial untuk duplikasi sisi oleh sebuah titik pada graf sikel , duplikasi titik oleh sisi pada graf sikel , path union dari salinan sikel yang diperoleh dengan menambahkan sebuah sisi pada salah satu titik graf dan salinannya untuk menghubungkan graf tersebut, dan graf friendship yang salah satu titiknya menjadi one point union dari salinan sikel . 
+
+1.2. Perumusan Masalah 
+
+Permasalahan yang akan dibahas dalam tugas akhir ini adalah bagaimana pelabelan prime cordial pada duplikasi sisi graf sikel , duplikasi titik graf sikel , path union dari salinan sikel , dan one point union graf Friendship . 
+
+1.3. Pembatasan Masalah 
+
+Pada tugas akhir ini, graf yang akan dikaji adalah graf sederhana, berhingga dan tak berarah.
+
+1.4. Metode Penulisan 
+
+Metode yang digunakan penulis dalam penyusunan tugas akhir ini adalah metode tinjauan pustaka (study literature). Referensi utama yang digunakan adalah [9], kemudian sebagai pendukung juga digunakan publikasi publikasi mengenai graf dan pustaka pustaka lain yang mendasari teori sesuai yang tertera dalam daftar pustaka. 
+
+1.5. Tujuan Penulisan 
+
+Tujuan penulisan tugas akhir ini adalah memberikan Pelabelan prime cordial pada duplikasi sisi graf sikel , duplikasi titik graf sikel , path union dari salinan sikel , dan one point union graf Friendship . Selain itu untuk mendapatkan pola pelabelan titik sesuai pendefinisian, sehingga diperoleh rumusan pola label sisi yang memiliki label dan 1 . 
+
+1.6. Sistematika Penulisan 
+
+Sistematika penulisan tugas akhir ini meliputi empat bab sebagai berikut. 
+1. Bab I adalah pendahuluan, yang berisi tentang Latar Belakang, Perumusan Masalah, Pembatasan Masalah, Metode Penulisan, Tujuan Penulisan dan Sistematika Penulisan. 
+
+2. Bab II adalah Teori Penunjang. Pada bab ini berisi tentang teori-teori penunjang yang mendukung pembahasan pada bab III. 
+
+3. Bab III adalah Pembahasan. Pada bab ini dibahas tentang Pelabelan prime cordial pada graf sikel yang terkait. 
+
+4. Bab IV adalah Penutup yang berisi Kesimpulan dari pengerjaan tugas akhir secara keseluruhan.

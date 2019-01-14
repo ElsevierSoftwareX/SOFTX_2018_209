@@ -1,0 +1,468 @@
+﻿Rancang Bangun Piranti Lunak Sistem Konsultasi Pemilihan
+Teknologi Irigasi Bertekanan Berbasis Android
+
+
+Abstrak
+Pemilihan teknologi irigasi yang tepat dalam proses budidaya tanaman merupakan salah satu cara
+untuk melakukan penghematan air dalam bidang pertanian dengan meningkatkan efisiensi penggunaan
+air. Pemilihan teknologi irigasi ini dilakukan berdasarkan pada kebutuhan air irigasi, jadwal pemberian air
+irigasi, serta ketersediaan teknologi irigasi di pasaran. Piranti lunak yang dikembangkan merupakan salah
+satu media yang diharapkan dapat membantu pengguna dalam memilih jenis teknologi irigasi yang sesuai
+dengan komoditas dan kondisi lahan yang dimiliki. Piranti lunak ini dibangun pada perangkat berbasis
+android. Tahap pengembangan sistem dilakukan dengan menggunakan metode pendekatan Waterfall
+model. Dalam penggunaan piranti lunak, dibutuhkan input dari pengguna berupa detail budidaya yang
+untuk selanjutnya digunakan dalam analisis penentuan kebutuhan air irigasi dan kebutuhan hidrolika.
+Piranti lunak ini berhasil menampilkan hasil analisis kebutuhan air irigasi dan kebutuhan hidrolika irigasi
+untuk pemberian irigasi harian sesuai dengan hasil pengujian yang telah dilakukan. Hasil analisis ini
+dapat digunakan oleh pengguna sebagai pertimbangan untuk melakukan pemilihan teknologi irigasi yang
+sesuai.
+Kata kunci: piranti lunak, teknologi irigasi, android
+
+
+Pendahuluan
+Adanya sumber air yang memadai merupakan
+syarat penting dalam melakukan proses budidaya
+tanaman. Hal ini dikarenakan air merupakan salah
+satu faktor dasar yang paling berpengaruh dalam
+proses pertumbuhan tanaman. Namun dewasa
+ini ketersediaan air menjadi semakin berkurang,
+sedangkan tingkat konsumsi air semakin meningkat.
+Hal ini yang kemudian memicu adanya istilah krisis
+air dunia sebagai skenario yang dikemukakan oleh
+para ahli mengenai kondisi ketersediaan dan tingkat
+pemakaian air masa depan. Dalam skenario ini
+disebutkan bahwa pada tahun 2025, harga air untuk
+bidang pertanian meningkat dua kali lipat di negara
+berkembang, dan meningkat tiga kali lipat di negara
+pada level lebih rendah. Hal ini disebabkan oleh
+adanya persaingan akibat peningkatan kebutuhan
+air di kalangan rumah tangga, industri, lingkungan
+dan pertanian (Rosegrant et al. 2002). Untuk mengantisipasi adanya kemungkinan terjadi krisis
+air dunia itulah diperlukan usaha untuk menghemat
+penggunaan air dengan cara meningkatkan efisiensi
+penggunaan air yang tersedia.
+Penggunaan teknologi irigasi yang tepat dalam
+proses budidaya tanaman merupakan salah satu
+cara untuk melakukan penghematan air di bidang
+pertanian. Penggunaan teknologi irigasi yang tepat
+bertujuan untuk meningkatkan efisiensi penggunaan
+air agar tidak terjadi pemborosan dalam pemakaian
+air irigasi. Pemilihan teknologi irigasi ini dilakukan
+dengan melakukan analisis terhadap kebutuhan
+air tanaman dan faktor lingkungan lainnya untuk
+kemudian dilakukan perancangan sistem irigasi
+sebagai bahan pertimbangan dalam pemilihan
+teknologi irigasi.
+Penelitian tentang perancangan sistem irigasi
+sudah banyak dilakukan, misalnya Pohan (1998)
+yang meneliti tentang rancangan irigasi sprinkler
+untuk tanaman bawang merah (Allium ascalonacium
+L) dan Tendalangi (1999) tentang rancangan
+jaringan irigasi tetes untuk tanaman cabai merah
+hibrida (Capsicum annum var. longum L.). Penelitian
+yang memanfaatkan teknologi telepon seluler
+berbasis android untuk bidang pertanian sendiri
+pernah dilakukan oleh Al Ikhsan (2012) mengenai
+pengembangan sistem pakar agribisnis cabai
+(Capsicum annuumm. L) berbasis android.
+Tujuan dari penelitian ini adalah untuk
+mengembangkan piranti lunak sebagai media
+konsultasi dalam pemilihan teknologi irigasi melalui
+analisis kebutuhan air irigasi setiap teknologi
+irigasi, penentuan jadwal irigasi berdasarkan jadwal
+tanam dan jenis komoditas, dan ketersediaan
+teknologi irigasi. Piranti lunak yang akan dibangun
+merupakan salah satu media yang diharapkan
+dapat membantu pengguna dalam memilih jenis
+teknologi irigasi yang sesuai dengan komoditas
+dan kondisi lahan yang dimiliki. Piranti lunak ini
+dibangun pada teknologi berbasis android dengan
+harapan bisa menjadi teknologi praktis yang dapat
+digunakan dengan mudah di lapangan kapan pun
+saat dibutuhkan dikarenakan sifat aplikasi berbasis
+android yang handy.
+Lokasi dan Waktu Penelitian
+Penelitian dilaksanakan di Laboratorium Teknik
+Bioinformatika, Departemen Teknik Mesin dan
+Biosistem, Fakultas Teknologi Pertanian, Institut
+Pertanian Bogor. Penelitian dilakukan pada bulan
+Maret hingga Oktober 2013.
+Bahan dan Metode
+Bahan dan Alat
+Bahan dan alat yang digunakan meliputi
+perangkat keras dan perangkat lunak untuk
+pembangunan aplikasi berbasis Android, meliputi:
+laptop sebagai media pengembangan aplikasi,
+komputer tablet dan telepon seluler berbasis android
+sebagai media pengujian aplikasi, Eclipse sebagai
+media pembuatan kode program, Android emulator
+sebagai media pengujian internal kode program,
+SQLite Manager untuk layanan basis data portable,
+dan Microsoft Excel sebagai media pengolahan
+data.
+Metode Penelitian
+Metode penelitian yang digunakan mengacu
+pada metode pengembangan sistem informasi.
+Tahap pengembangan sistem dilakukan dengan
+menggunakan metode pendekatan waterfall model.
+Waterfall model dipilih karena informasi terkait
+batasan-batasan, kebutuhan serta tahapan-tahapan
+pengolahan data pada sistem bisa didefinisikan
+terlebih dahulu menggunakan basis pengetahuan
+yang telah ada sebelum sistem dibangun (Denis et al.
+2009). Secara umum tahap-tahap pengembangan
+dengan waterfall model meliputi tahap perencanaan,
+analisis, desain, serta implementasi hingga sistem
+yang dibangun selesai, sebagaimana terlihat pada
+Gambar 1.
+Perencanaan Sistem (Planning)
+Tahap perencanaan sistem mencakup
+identifikasi masalah yang kemudian menjadi dasar
+pembuatan sistem, penentuan awal tujuan, ruang
+lingkup, serta langkah-langkah yang harus ditempuh
+untuk mengembangkan sistem yang akan dibuat.
+Hasil dari tahap ini yaitu: (1) penetapan tujuan
+sistem, sasaran pengembangan, dan konfigurasi
+sistem, (2) penentuan kebutuhan dan sumbersumber
+informasi untuk mengembangkan serta
+menjalankan sistem, serta (4) penentuan fungsi
+sistem secara keseluruhan. Selain itu pada tahap
+perencanaan ini juga direncanakan aliran data pada
+sistem dari masukan hingga diperoleh data keluaran
+yang digambarkan dalam bentuk blok diagram
+kerangka sistem. Pengembangan sistem ini sendiri
+difokuskan pada penentuan kebutuhan irigasi, lama
+dan laju penyiraman, serta desain hidrolik yang
+memanfaatkan data dari pustaka Prastowo dan
+Liyantono (2002a, 2002b). Blok diagram kerangka
+sistem ini bisa dilihat pada Gambar 2.
+
+
+Analisis
+Proses analisis ini dilakukan dengan dua
+langkah, yaitu:
+1. Pengembangan strategi sebagai panduan
+pengembangan
+Pada tahap ini dilakukan analisis terhadap sistem
+sejenis yang telah ada beserta kelemahankelemahannya,
+peluang pengembangan sistem
+yang telah ada, serta konsep secara menyeluruh
+terkait desain sistem yang akan dibangun.
+2. Analisis kebutuhan sistem
+Pada tahap ini dilakukan identifikasi sumbersumber
+pengetahuan, akuisisi atau penyerapan
+pengetahuan dari sumber yang ada dengan cara
+studi literatur, serta representasi pengetahuan
+sehingga dihasilkan informasi terkait standar
+kebutuhan sistem. Standar kebutuhan sistem
+sendiri mencakup beberapa aspek, yaitu:
+a. Kebutuhan data
+Kebutuhan data mencakup semua data yang
+diperlukan untuk mengembangkan sistem.
+Data yang digunakan untuk pengembangan
+sistem meliputi data terkait kondisi cuaca
+untuk beberapa daerah di Indonesia,
+kebutuhan dan sifat tumbuh tanaman dari
+komoditas yang digunakan, serta jenis dan
+sifat teknologi irigasi yang digunakan.
+b. Kebutuhan perangkat keras
+Kebutuhan perangkat keras merupakan
+standar spesifikasi perangkat keras yang
+dibutuhkan baik dalam proses pengembangan
+sistem maupun dalam tahap penggunaan
+sistem, agar sistem dapat berjalan dengan
+maksimal. Perangkat keras yang digunakan
+adalah perangkat komputer, perangkat
+telepon seluler yang dilengkapi dengan layar
+sentuh dan memiliki sistem operasi android.
+c. Kebutuhan perangkat lunak
+Kebutuhan perangkat lunak mencakup
+semua perangkat lunak (software) yang
+digunakan dalam proses pengembangan
+maupun untuk menjalankan sistem. Eclipse
+sebagai media pembuatan kode program,
+Android emulator sebagai media pengujian
+internal kode program, dan SQLite Manager
+untuk layanan basis data portable
+d. Kebutuhan pengetahuan
+Kebutuhan pengetahuan menetapkan
+batasan-batasan kemampuan atau wawasan
+dasar yang harus dimiliki pengguna dalam
+menjalankan sistem yang akan dirancang,
+sehingga fungsi sistem bisa optimal.
+Desain
+Pada tahap desain ditentukan bagaimana sistem
+akan beroperasi berdasarkan standar kebutuhan
+yang merupakan hasil dari tahap analisis. Tahap
+desain ini dilakukan dengan tiga langkah, yaitu:
+1. Penentuan desain arsitektur sistem yang
+meliputi perangkat keras dan perangkat lunak
+yang akan digunakan dalam pengembangan
+sistem, perancangan desain antar muka (metode
+navigasi dan menu-menu yang disediakan), serta persamaan-persamaan yang akan digunakan
+oleh sistem.
+2. Perancangan sistem basis data yang meliputi
+data-data yang akan digunakan serta sistem
+penyimpanan dan pemanggilan data yang
+bersangkutan.
+3. Perancangan desain program yang
+mendefinisikan fungsi-fungsi program yang
+harus dibuat, logika pengolahan data, kontrol
+sistem, serta aktivitas input-output dari sistem.
+Desain sistem secara umum dilakukan dengan
+menggunakan aplikasi Eclipse yang dilengkapi
+dengan Software Development Kits (SDK)
+Android. Pemrograman android dipilih dikarenakan
+pemrograman ini bersifat Object Oriented
+Programming (OOP), serta hasil pemrograman
+yang berupa aplikasi android bisa digunakan secara
+praktis di lapangan tanpa harus menggunakan
+komputer sebagai media untuk menjalankan
+operasi.
+Hasil dan Pembahasan
+Sistem ini dibuat dengan tujuan awal sebagai
+media konsultasi bagi pelaku pertanian di Indonesia
+dalam menentukan jenis teknologi irigasi yang
+akan digunakan dengan melakukan analisis
+terhadap kebutuhan air irigasi, jadwal pemberian
+irigasi, serta ketersediaan teknologi irigasi. Sistem
+dikembangkan dalam bentuk aplikasi mobile
+berbasis Android. Pengembangan sistem berbasis
+Android dimaksudkan untuk mempermudah
+pemanfaatan sistem dimulai dari proses distribusi
+paket instalasi sistem hingga pada proses
+penggunaan dan update informasi. Fungsi dari
+sistem yang dikembangkan secara umum adalah
+melakukan analisis terhadap kondisi cuaca, lahan,
+dan karakteristik dari komoditas dan jenis teknologi
+irigasi untuk mendapatkan informasi terkait
+detail pelaksanaan kegiatan irigasi yang meliputi
+kebutuhan air dan kebutuhan hidrolika sub unit.
+Analisis Kebutuhan Air
+Penentuan kebutuhan air irigasi oleh sistem
+dilakukan dengan melakukan analisis terhadap
+faktor cuaca dan karakteristik komoditas untuk
+mendapatkan nilai ETo, yaitu jumlah air yang
+dievapotranspirasikan oleh tanaman rumputan
+dengan tinggi sekitar 0.12 m, tumbuh sehat dan
+seragam, menutup tanah dengan sempurna,
+serta pada kondisi cukup air (FAO 1998). Untuk
+selanjutnya nilai ETo (evapotranspirasi potensial)
+dikalikan dengan nilai koefisien tanaman (Kc) untuk
+diperoleh nilai Evapotranspirasi (ET) untuk tanaman
+yang dibudidayakan.
+Persamaan Penman-Monteith merupakan
+metode yang direkomendasikan jika tersedia data
+cuaca rata-rata harian yang meliputi data suhu
+udara, lama penyinaran, kelembaban relatif, serta
+kecepatan angin (FAO 1998). Persamaan dasar
+Penman-Monteith dinyatakan dalam persamaan 1
+sebagai berikut :
+(1)
+dimana:
+ETo = Evapotranspirasi potensial (mm/hari)
+Rn = Radiasi neto pada permukaan tanaman
+(MJ/m2 hari)
+G = Soil heat flux density (MJ/m2 hari)
+T = suhu udara pada ketinggian 2 m (OC)
+u2 = kecepatan angin pada ketinggian 2 m (m/s)
+es = tekanan uap air jenuh (kPa)
+ea = tekanan uap air aktual (kPa)
+es-ea = deflisit tekanan uap air (kPa)
+D = gradien tekanan uap air jenuh terhadap
+suhu udara (kPa/OC)
+g = konstanta psikometrik (kPa/OC)
+Analisis Kebutuhan Hidrolika Sub Unit
+Analisis kebutuhan hidrolika sub unit merupakan
+tahapan penting dalam penentuan sistem irigasi
+yang digunakan. Hal ini dikarenakan persyaratan
+hidrolika jaringan perpipaan harus dipenuhi untuk
+bisa mendapatkan penyiraman yang seragam
+(Prastowo dan Liyantono 2002a). Analisis kebutuhan
+hidrolika meliputi penentuan komponen perpipaan
+berupa karakteristik pipa manifold dan pipa lateral
+yang digunakan, debit sistem dan sub sistem, serta
+kebutuhan pompa atau tenaga penggerak.
+Penentuan kebutuhan tenaga penggerak
+dilakukan dengan terlebih dahulu melakukan
+perhitungan total kebutuhan tekanan (total dynamic
+head) melalui persamaan 2 berikut :
+TDH = SH+E+Hf_1+Hm+Hf_2+Hv+Ha+Hs (2)
+dimana :
+SH = Beda elevasi sumber air dengan pompa (m)
+E = Beda elevasi pompa dengan lahan tertinggi
+(m)
+Hf1 = Kehilanganhead akibat gesekan sepanjang
+pipa penyaluran dan distribusi (m)
+Hm = Kehilangan head pada sambungansambungan
+dan katup (m)
+Hf2 = Kehilangan head pada sub unit (m), besarnya
+20 % dari Pa
+Hv = Velocity head (m), besarnya 0.3 m
+Ha = Tekanan operasi emitter (m)
+Hs = head untuk faktor keamanan (m), besarnya
+20 % dari total kehilangan head
+Pada sistem ini nilai SH dan E dianggap 0 dengan
+asumsi tidak terdapat beda elevasi antara sumber
+air dengan pompa serta antara pompa dan lahan tertinggi. Untuk selanjutnya nilai total kebutuhan
+tekanan ini digunakan ke dalam persamaan 3
+berikut :
+BP = (100 × TDH × Q)/(102 × EP) (3)
+dimana : BP = input brake power (kW)
+Q = debit sistem (l/detik)
+TDH = total dinamik head (m)
+Ep = efisiensi pompa (%)
+Analisis Sistem
+Tahap analisis dibagi menjadi tiga bagian yaitu
+analisis pengguna, analisis kebutuhan sistem, serta
+analisis fungsional dan non fungsional sistem.
+Tahap analisis kebutuhan sistem sendiri dilakukan
+terhadap dua aspek utama, yaitu analisis kebutuhan
+data dan analisis kebutuhan antar muka sistem.
+1. Analisis Pengguna
+Pengguna adalah pelaku kegiatan pertanian
+yang memiliki akses terhadap sistem irigasi
+yang akan digunakan. Hal ini dikarenakan dalam
+penggunaan sistem, pengguna diharuskan
+memasukan beberapa data komponen hidrolika
+seperti diameter pipa dan debit sub sistem
+sebagai parameter input bagi sistem dalam
+melakukan analisis kebutuhan hidrolika.
+2. Analisis Kebutuhan Data
+Data masukan dibedakan menjadi dua,
+yaitu data masukan yang disediakan dalam
+bentuk database sistem dan data masukan
+oleh pengguna sistem. Data masukan yang
+disediakan dalam bentuk database merupakan
+serangkaian data statis yang dibutuhkan dalam
+melakukan analisis kebutuhan irigasi. Semua
+data ini disimpan dalam sebuah SQLite Database
+sebagai database standar bagi pemrograman
+android.
+3. Analisis Kebutuhan Fungsional Sistem
+Analisis kebutuhan fungsional sistem dilakukan
+dilakukan dengan mendeskripsikan rancangan
+fungsi utama dan fungsi-fungsi tambahan dari
+sistem. Pada Tabel 1 ditunjukkan fungsi dari
+sistem secara keseluruhan.
+Halaman menu konsultasi didesain dalam
+bentuk form untuk memudahkan proses input data
+oleh pengguna. Selain dalam bentuk form, terdapat
+bentuk menu input lain berupa menu dialog yang
+diaplikasikan pada halaman input komponen
+hidrolika. Menu dialog ini ditampilkan dalam bentuk
+list view. Tampilan desain menu input bisa dilihat
+pada Gambar 3.
+Implementasi dan Pengujian
+Implementasi sistem ini dilakukan dengan
+menuliskan kode program dengan bahasa
+pemrograman Java dan basis data (database)
+SQLite sesuai dengan standar pemrograman aplikasi
+mobile berbasis android. Bahasa pemrograman
+Java digunakan untuk membangun interface dan
+logika sistem, sedangkan SQLite digunakan sebagai
+media penyimpanan basis data sistem.
+1. Implementasi Basis Data
+Pada tahap implementasi basis data dilakukan
+pembuatan berkas basis data sesuai dengan tabel data yang telah direncanakan sebelumnya.
+Implementasi basis data dilakukan dengan
+menyimpan berkas basis data yang telah dibuat
+kedalam direktori asset. Untuk selanjutnya basis
+data ini akan dipindahkan ke dalam direktori
+sistem oleh kelas SQLite Asset Helper pada saat
+awal instalasi aplikasi ke dalam device. Pada
+Gambar 4 ditunjukkan berkas basis data yang
+telah dibuat dengan Mozilla SQLite Manager.
+2. Implementasi Sistem
+a. Halaman utama
+Halaman utama dirancang untuk
+menampilkan menu utama sistem dengan
+tujuan menampilkan fungsi sistem kepada
+pengguna secepat mungkin sehingga proses
+penggunaan aplikasi bisa lebih efektif.
+Implementasi halaman utama bisa dilihat
+pada Gambar 5.
+b. Modul konsultasi
+Halaman input rencana budidaya
+menampilkan form input yang meliputi input
+lokasi, komoditas, teknologi irigasi yang akan
+digunakan, luas lahan, serta tanggal tanam.
+Inpus lokasi, komoditas dan teknologi irigasi
+dirancang dalam bentuk spinner.
+Pada Gambar 6 dapat dilihat menu spinner
+dari input lokasi yang salah satunya adalah
+pilihan “Deteksi Kota”. Pilihan ini akan
+mengaktifkan fungsi deteksi lokasi yang
+memanfaatkan fasilitas GPS pada perangkat
+yang digunakan.
+Menu dialog ditampilkan dalam bentuk list view
+secara bertingkat hingga semua data yang
+diperlukan dapat dipilih oleh pengguna. Menu
+ditampilkan secara bertingkat disesuaikan
+dengan pilihan yang dibuat oleh pengguna pada
+menu sebelumnya. Tampilan menu dialog ini
+bisa dilihat pada Gambar 7.
+Setelah proses input komponen hidrolika selesai
+dilakukan, sistem kemudian akan melakukan
+analisis kebutuhan air dan kebutuhan komponen
+hidrolika dengan menggunakan persamaan yang
+telah didefinisikan sebelumnya. Hasil analisis ditampilkan dalam dua halaman yang berbeda
+masing-masing untuk hasil analisis kebutuhan
+air dan hasil analisis kebutuhan hidrolika irigasi
+dengan tujuan untuk memudahkan proses
+penyerapan informasi hasil analisis oleh
+pengguna. Halaman hasil analisis bisa dilihat
+pada Gambar 8.
+3. Pengujian
+Tahap pengujian dilakukan dengan dua
+tahap, yaitu pengujian tahap pertama dengan
+menggunakan emulator serta pengujian tahap
+dua pada device berbasis android. Pengujian
+tahap pertama ini dilakukan secara berkelanjutan
+untuk setiap modul yang telah selesai dibuat
+untuk mengetahui ada tidaknya kesalahan kode
+program dalam modul yang dibuat. Pada tahap
+akhir saat semua modul selesai dibuat, dilakukan
+pengujian ulang secara menyeluruh dengan
+menjalankan aplikasi melalui emulator untuk
+melihat ada tidaknya kesalahan yang mungkin
+terjadi akibat adanya interaksi antar modul
+dalam sistem. Hasil pengujian yang dilakukan
+menunjukkan bahwa semua modul dalam sistem
+berjalan dengan baik pada emulator android.
+Tabel 2 memperlihatkan hasil pengujian tahap
+pertama terhadap fungsi-fungsi dan modul
+dalam sistem yang dikembangkan.
+Pengujian tahap dua dilakukan setelah dilakukan
+tahap peluncuran aplikasi. Pengujian ini
+bertujuan untuk mengetahui tingkat keberhasilan
+distribusi aplikasi kepada pengguna. Tahap
+pengujian ini dimulai dari proses pengunduhan
+aplikasi dari direktori online, proses instalasi
+aplikasi pada perngkat berbasis android, serta
+proses menjalankan aplikasi yang telah diinstall.
+Pengujian ini dilakukan menggunakan berbagai
+perangkat dengan sistem operasi versi 4.0.3 dan
+4.1.2.
+Simpulan dan Saran
+Simpulan
+- Sistem konsultasi pemilihan teknologi irigasi
+bertekanan berbasis android ini bekerja dengan
+melakukan analisis terhadap data masukan dari
+pengguna yang terdiri dari input kota sebagai
+lokasi tanam, komoditas atau tanaman, teknologi
+irigasi yang akan digunakan, luas lahan, tanggal
+penanaman, diameter pipa lateral dan manifold,
+jenis emitter (irigasi tetes) atau diamater nozzle
+(irigasi curah), serta debit sub sistem.
+- Sistem yang dibangun berhasil menampilkan
+hasil analisis kebutuhan air irigasi dan kebutuhan
+hidrolika irigasi untuk pemberian irigasi harian
+sesuai dengan hasil pengujian yang telah
+dilakukan.
+- Sistem berjalan dengan baik pada semua
+perangkat berbasis android yang dilengkapi
+dengan akses internet dan GPS.Tampilan
+aplikasi sendiri kurang maksimal pada device
+smartphone yang memiliki tombol navigasi pada
+layar device.

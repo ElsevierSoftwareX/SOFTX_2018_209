@@ -1,0 +1,96 @@
+﻿Radio Streaming adalah teknologi yang digunakan untuk pengiriman suatu file
+audio secara bersama-sama pada beberapa komputer dalam suatu jaringan dengan
+menggunakan paket data yang kecil dan menghasilkan output semi real time. Pada
+proses streaming, suatu file musik akan terdengar saat komputer mulai menerima
+data file music tersebut. Shoutcast DNAS adalah suatu freeware yang biasa
+digunakan pada teknologi radio streaming. Shoutcast membantu user
+menyediakan suatu Internet Radio Server pribadi dengan menggunakan software
+yang telah tersedia. Winamp adalah sebuah perangkat pemutar multimedia yang
+diciptakan oleh NullSoft. Hasil uji coba dari penelitian ini adalah Aplikasi Radio
+Streaming ini dapat membantu user untuk menampilkan content program radio,
+memutar dan memberhentikan Radio Streaming serta menampilkan alamat e-mail,
+website streaming dan juga Encoder yang digunakan mempengaruhi terjadinya
+delay, koneksi yang tidak stabil menyebabkan disconnection secara otomatis,
+kecepatan processor dan juga kecepatan koneksi internet mempengaruhi proses
+buffering dari player atau pemutar streaming.
+Kata Kunci: Radio Streaming, Shoutcast DNAS, Winamp, Encoder.
+
+BAB I
+PENDAHULUAN
+1.1 Latar Belakang
+Kemajuan dunia teknologi informasi dan komunikasi berkembang sangat
+pesat dan begitu cepat, ditunjang dengan penemuan dan inovasi yang telah
+membawa banyak perubahan dalam kehidupan manusia. Banyak hal dan
+aspek dalam kehidupan yang menggunakan teknologi informasi untuk
+menjalankan roda aktivitasnya.
+Radio (istilah secara umum) dalam kehidupan sehari hari digunakan sebagai
+sarana penyampai informasi. Radio termasuk media elektronik yang
+gampang digunakan. Namun sekarang minim dijumpai masyarakat yang
+masih memiliki radio. Padahal banyak manfaat yang bisa peroleh dari
+mendengarkan radio, seperti informasi, berita, hiburan dan lain sebagainya.
+Radio secara fisik memiliki beberapa kekurangan, diantaranya adalah
+keterbatasan jangkauan dan frekuensi pemancar yang terbatas pada suatu
+daerah saja. Radio tersebut disiarkan untuk radio AM di Indonesia yang
+ditetapkan pada frekuensi 530 kHz –1600 kHz daya jangkau siaran
+hanya 200 KM dengan modulasi mono, untuk siaran radio FM yang
+ditetapkan pada frekuensi 87,5 MHz – 108 MHz daya jangkaunya terbatas
+75 KM dengan modulasi stereo (Telekomui, 2007). Dan informasi yang
+disajikan hanya dalam bentuk komunikasi suara, sehingga dibutuhkan media
+penyajian informasi yang lain tanpa mengubah peran dasar dari radio itu
+sendiri yaitu sebagai penyedia jasa informasi suara. Dan ini yang menjadi
+salah satu kendala bagi stasiun radio ”konvensional” saat ini. Di sisi lain,
+teknologi lama yang masih bermanfaat semakin hari semakin lenyap
+dengan adanya kemajuan teknologi Smartphone. Smartphone merupakan
+salah satu teknologi yang banyak digunakan di kalangan masyarakat.
+Smartphone ini tidak hanya mampu untuk melakukasn tugas telepon
+genggam biasa, namun juga tugas yang biasa dilakukan oleh komputer pada
+umumnya. Hal ini dimungkinkan karena prosesor berteknologi tinggi yang
+ditanamkan ke dalam Smartphone tersebut dan memungkinkan dalam
+melakukan Radio Streaming.
+Perkembangan media massa Radio Streaming sebagai teknologi komunikasi
+audio di Indonesia telah menunjukkan peningkatannya. Pengguna Radio
+Streaming dari waktu ke waktu semakin bertambah seiring dengan semakin
+meningkatnya jumlah dan beraneka ragamnya jenis stasiun radio di
+Indonesia sesuai dengan minat dan permintaan para konsumennya. Bahkan
+sekarang di kampus-kampus baik negeri maupun swasta banyak sekali yang
+memiliki radio komunitas sebagai salah satu wadah bagi mahasiswa untuk
+belajar tentang bagaimana sebuah stasiun radio itu bekerja.
+
+Atas dasar inilah maka dibuat Radio Streaming milik Jurusan Ilmu
+Komputer. Untuk membuat aplikasi sebuah jaringan Radio Streaming
+membutuhkan beberapa komponen, baik berupa software maupun
+hardware. Untuk hardware sendiri membutuhkan seperangkat komputer
+sebagai server dan jaringan internet tentunya. Sedangkan untuk software
+bisa menggunakan Winamp dan shoutcast dsp. Software Winamp
+merupakan software yang sudah akrab dipakai sehari-hari untuk keperluan
+multimedia, pengguna software Winamp adalah sebagai software pembatu
+dalam mengirimkan data audio streaming. Mobile Radio Streaming adalah
+teknologi aplikasi yang memungkinkan pengguna mengakses layanan audio
+streaming menggunakan software yang bisa digunakan untuk membuat
+server streaming radio dengan menggunakan Shoutcast Distributed Network
+Audio Server (DNAS).
+1.2 Rumusan Masalah
+Berdasarkan latar belakang masalah di atas, maka permasalahan yang dapat
+diambil dari penelitian ini adalah sebagai berikut.
+1. Bagaimana cara membuat server streaming radio dengan menggunakan
+Shoutcast Distributed Network Audio Server (DNAS).
+
+2. Bagaimana cara menghubungkan Live Radio Streaming ke dalam
+aplikasi Android.
+1.3 Batasan Masalah
+Untuk lebih memfokuskan terhadap permasalahan, maka dalam hal ini
+perlu batasan-batasan terhadap permasalahan yang diteliti, yaitu sebagai
+berikut.
+1. Perancangan Radio Streaming Ilmu Komputer Universitas Lampung.
+2. Pembahasan berupa radio live streaming dan aplikasi Android
+streaming.
+3. Sistem operasi yang digunakan dalam pembuatan server dan juga
+aplikasi adalah Windows.
+4. Aplikasi ini hanya melakukan audio streaming.
+5. Perancangan sebuah aplikasi untuk Android smartphone sebagai aplikasi
+client dari Radio Streaming Ilmu Komputer Universitas Lampung.
+1.4 Tujuan Penelitian
+Tujuan dari penelitian ini adalah untuk merancang aplikasi live streaming
+radio Ilmu Komputer Universitas Lampung berbasis Android dengan server
+Radio Streaming menggunakan Shoutcast Distributed Network Audio
+Server (DNAS).

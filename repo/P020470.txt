@@ -1,0 +1,98 @@
+﻿Sumberdaya minyak dan gas bumi menduduki posisi yang penting dalam
+pemenuhan energi dalam negeri dan sebagai pemasok devisa nasional. Rencana
+Anggaran Pendapatan Belanja Negara (RAPBN) tahun 2013, menyebutkan
+sumberdaya minyak dan gas bumi diproyeksikan menjadi sumber pemasukan
+yang besar pada bagian penerimaan negara bukan dari pajak. Berdasarkan sumber
+yang didapat maka produksi minyak dan gasbumi harus terus dilakukan, tidak
+hanya itu karena minyak dan gasbumi adalah sumber daya yang tidak terbarukan
+maka lama kelamaan akan habis. Metode gaya berat adalah salah satu metode
+geofisika. Metode gayaberat dapat digunakan dengan baik di beberapa bidang
+dalam geofisika, antara lain bidang hidrokarbon, panasbumi, maupun mineral.
+Metode ini juga digunakan untuk survei pendahuluan maupun monitoring.
+Penelitian ini dilakukan di daerah Muna-Buton dan bertujuan untuk : mengetahui
+pola anomali bouguer, struktur, pola tinggian daerah Muna-Buton berdasarkan
+pemodelan 2D dan 3D, pemodelan tersebut dilakukan berdasarkan analisis spektral,
+empirical mode decomposition, dan analisis SVD. Hasil dari penelitian ini adalah
+(1) Anomali bouguer Muna-Buton mempunyai rentang nilai antara (81.2-104.2)
+mGal menempati daerah pada bagian Selatan sampai Utara Pulau Buton, anomali
+sedang berkisar antara (51.9 hingga 74.9) terdapat hamper merata di setiap tempat
+pada peta tetapi sebaran terbanyak terdapat di sebelah Baratsampai Utara dan
+relative menyebar di daerah Baratdaya sampai Timur, mGal dan anomali rendah
+dengan rentang nilai antara (32.9 hingga 50.8) mGal meempati bagian Baratlaut
+sampai Utara relatif dari Barat sampai Timur (2) Banyaknya pola anomali rendah
+yang diindikasikan sebagai cekungan berjumlah enam (3) Pola tinggian yang
+memisahkan antar sub cekungan berada relatih dari Selatan Utara dan Barat Timur
+(4) Kedalaman rata-rata anomali sisa atau anomali residual berkisar 3.47 km, yang
+menunjukkan rata-rata kedalaman bidang dalam (5) Bedasarkan pemodelan 2D
+maka terdapat beberapa lapisan, yaitu Formasi Ogena, Formasi Tobelo, Formasi
+Tondo, Formasi Wapulaka, Formasi Sampalokosa dan batuan basal sebagai batuan
+dasar (6) Berdasarkan pemodelan inversi 3D dan korelasi dengan 2D maka sub
+cekungan yang paling potensial adalah sub cekungan I, II dan III, hal itu dapat
+dilihat dari ketebalan dan dimensi sub cekungan tersebut.
+Kata Kunci: Gayaberat, Analisis Spektral, EMD, Forward Modelling, Inverse
+Modelling.
+
+I. PENDAHULUAN
+A. Latar Belakang
+Sumberdaya minyak dan gas bumi menduduki posisi yang penting dalam
+pemenuhan energi dalam negeri dan sebagai pemasok devisa nasional. Rencana
+Anggaran Pendapatan Belanja Negara (RAPBN) tahun 2013, menyebutkan
+sumberdaya minyak dan gas bumi diproyeksikan menjadi sumber pemasukan
+yang besar pada bagian penerimaan negara bukan dari pajak (Suliantoro dan
+Susantoro, 2013).
+Berdasarkan sumber yang didapat maka produksi minyak dan gasbumi harus
+terus dilakukan, tidak hanya itu karena minyak dan gasbumi adalah sumber daya
+yang tidak terbarukan maka lama kelamaan akan habis oleh sebab itu harus
+dilakukan kegiatan eksplorasi lebih lanjut untuk menemukan cekungancekungan
+baru yang bisa menyokong kegiatan produksi di negara ini.
+Metode gaya berat adalah salah satu metode geofisika. Metode gayaberat dapat
+digunakan dengan baik di beberapa bidang dalam geofisika, antara lain bidang
+hidrokarbon, panasbumi, maupun mineral. Metode ini juga digunakan untuk
+survei pendahuluan maupun monitoring.
+
+Metode gayaberat ini dilakukan berdasarkan pada anomali gayaberat yang
+muncul karena adanya variasi rapat massa batuan. Metode gayaberat digunakan
+karena kemampuannya dalam membedakan densitas lingkungan sekitarnya.
+Variasi densitas dapat diketahui bentuk struktur bawah permukaan suatu daerah.
+Distribusi densitas yang tidak seragam di bawah permukaan bumi dapat
+disebabkan oleh struktur geologi yang ada di dalamnya.
+Metode gayaberat mempelajari perbedaan medan gravitasi dari satu titik
+terhadap titik observasi lainnya, sehingga sumber yang merupakan suatu zona
+massa di bawah permukaan bumi akan menyebabkan suatu gangguan pada
+medan gravitasi. Pengukuran gayaberat dilakukan dengan metode pengukuran
+sistem tertutup, yaitu setiap awal dan akhir dari pekerjaan selalu dimulai dan
+ditutup dengan melakukan pengukuran di stasiun utama (Base Station). Hasil
+pengukuran tersebut akan mengalami berbagai koreksi seperti koreksi apungan,
+koreksi pasang surut, koreksi udara bebas, koreksi medan, koreksi lintang dan
+koreksi Anomali Bouguer memperlihatkan adanya perbedaan nilai gaya berat
+terukur dengan nilai gayaberat acuan, yaitu nilai gayaberat bumi (Sarkowi,
+2009).
+Metode gayaberat dengan teknik analisis spektral dapat diterapkan untuk
+memastikan struktur geologi bawah permukaan daerah penelitian. Struktur
+bawah permukaan ini diturunkan dari anomali gayaberat yang diamati di
+permukaan yang didasarkan pada hubungan bahwa anomali gayaberat ini
+merupakan refleksi variasi densitas bawah permukaan ke arah horizontal dan
+geometri benda anomalinya (Walidah, 2011).
+
+Teknik analisis spektral bertujuan untuk mengestimasi kedalaman bidang batas
+dan menentukan lebar jendela (window) yang dianggap paling baik untuk
+digunakan untuk pemisahan anomali. Lebar jendela merupakan batas frekuensi
+antara noise dengan sinyal. Kelebihan dari proses analisis spektral adalah dapat
+memberikan informasi kedalaman bidang batas dangkal dan dalam secara efektif
+yang berkaitan dengan struktur geologi bawah permukaan daerah penelitian.
+Kedalaman dangkal diinterpretasikan sebagai batas antara batuan dasar
+(basement) dan batuan sedimen bawah permukaan. Nilai kedalaman ini
+digunakan pada saat pembuatan model struktur bawah permukaan. Batas batuan
+dasar merupakan suatu bagian yang perlu diperhatikan contohnya dalam
+penentuan lokasi pembangunan, karena akan berpengaruh pada ketahanan dan
+keamanan. Untuk mengidentifikasi daerah-daerah yang diduga cekungan
+metode gayaberat sangat baik digunakan karena dapat mengetahui zona yang
+memiliki respon densitas rendah yang mengidentifikasikan adanya batuan
+sedimen.
+B. Tujuan Penelitian
+Adapun tujuan penelitian ini adalah:
+1. Mengetahui anomali gayaberat daerah Muna-Buton
+2. Mengidentifikasi pola cekungan sedimen dari anomali sisa hasil proses
+penapisan (filtering) moving average dan Empirical Mode Decomposition.
+3. Mengetahui pola struktur, tinggian daerah Muna-Buton berdasarkan anomali
+sisa gayaberat dan estimasi kedalaman.

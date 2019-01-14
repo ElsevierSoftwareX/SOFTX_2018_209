@@ -1,0 +1,321 @@
+﻿ABSTRAK
+Peran UMKM (Usaha Mikro Kecil dan Menengah) selama ini diakui
+berbagai pihak cukup besar dalam perekonomian nasional. Dalam posisi strategis
+tersebut, pada sisi lain UMKM masih menghadapi banyak masalah dan hambatan
+dalam melaksanakan dan mengembangkan aktivitas usahanya terutama adalah
+dari segi permodalan. Sehubungan dengan upaya mengatasi masalah permodalan
+UMKM, Kementerian Negara Koperasi dan UKM turut memprakarsai program
+perkuatan permodalan melalui Kredit Usaha Rakyat (KUR). Program KUR
+didukung oleh enam bank umum, yaitu BRI, BNI, BTN, Bank Mandiri, Bank
+Syariah Mandiri, dan Bukopin, serta dua perusahaan penjaminan yaitu Perum
+Sarana Pengembangan Usaha (Perum SPU) sekarang berubah menjadi Perum
+Jaminan Kredit Indonesia (Perum Jamkrindo) dan PT Asuransi Kredit Indonesia
+(PT Askrindo). KUR dijamin oleh pemerintah sebesar 70 persen melalui Perum
+Jamkrindo dan PT Askrindo. Namun dalam pelaksanaannya terjadi beberapa
+perlambatan dalam penyalurannya sehingga hasil yang dihasilkan tidak maksimal.
+Berdasarkan data, terlihat bahwa penyaluran KUR mengalami perlambatan yang
+sangat besar pada tahun 2010 dimana jumlahnya mengalami penurunan hingga
+mencapai hampir 50%. Pada tahun 2011 dan 2012, terlihat bahwa penyaluran
+KUR mengalami peningkatan walaupun belum mencapai level yang diharapkan
+seperti tahun 2007 hingga 2009. Perlambatan penyaluran KUR ini berdasarkan
+penelitian terdahulu diduga dipengaruhi oleh tingkat inflasi, suku bunga bank,
+pertumbuhan ekonomi, NPL dan CAR.
+
+Variabel terikat dalam penelitian ini adalah Kredit Usaha Rakyat (KUR).
+Variabel bebas dalam penelitian ini adalah inflasi, suku bunga, pertumbuhan
+ekonomi, NPL dan CAR. Sampel yang digunakan pada penelitian ini sebanyak 36
+bulan selama tiga tahun yaitu 2009-2011. Data yang digunakan adalah data
+sekunder. Metode pengumpulan data yang digunakan dalam penelitian ini adalah:
+metode dokumentasi. Teknik analisis yang digunakan adalah regresi linier
+berganda.
+
+Berdasarkan hasil analisis yang dilakukan dapat diketahui bahwa tidak
+terdapat pengaruh signifikan antara Inflasi terhadap KUR, SBI berpengaruh
+negatif terhadap penyaluran KUR, PDB berpengaruh negatif terhadap terhadap
+KUR, NPL tidak berpengaruh terhadap KUR, dan CAR tidak berpengaruh
+terhadap KUR. Faktor yang paling dominan dalam mempengaruhi Perubahan
+KUR adalah PDB. Sedangkan KUR mampu dijelaskan oleh variabel independen
+yaitu Inflasi, SBI, PDB, NPL dan CAR sebesar 49,6%.
+Kata kunci : tingkat inflasi, suku bunga bank, pertumbuhan ekonomi, NPL, CAR,
+Kredit Usaha Rakyat.
+
+
+BAB I
+PENDAHULUAN
+1.1 Latar Belakang Masalah
+Peran UMKM (Usaha Mikro Kecil dan Menengah) selama ini diakui
+berbagai pihak cukup besar dalam perekonomian nasional. Beberapa peran
+strategis UMKM menurut Bank Indonesia antara lain: (a) jumlahnya yang besar
+dan terdapat dalam setiap sektor ekonomi; (b) menyerap banyak tenaga kerja dan
+setiap investasi menciptakan lebih banyak kesempatan kerja; (c) memiliki
+kemampuan untuk memanfaatkan bahan baku lokal dan menghasilkan barang dan
+jasa yang dibutuhkan masyarakat luas dengan harga terjangkau. Dalam posisi
+strategis tersebut, pada sisi lain UMKM masih menghadapi banyak masalah dan
+hambatan dalam melaksanakan dan mengembangkan aktivitas usahanya.
+Sebenarnya masalah dan kendala yang dihadapi masih bersifat klasik yang selama
+ini telah sering diungkapkan, antara lain : 1) manajemen, 2) permodalan, 3)
+Teknologi, 4) bahan baku, 5) informasi dan pemasaran, 6) infrastruktur, 7)
+birokrasi dan pungutan, serta 8) kemitraan (Depkop.go.id, 2013).
+Dari beragamnya masalah dan kendala yang dihadapi UMKM, tampaknya
+masalah permodalan masih merupakan salah satu faktor kritis bagi UMKM, baik
+untuk pemenuhan kebutuhan modal kerja maupun modal investasi dalam
+pengembangan usaha. Kemampuan UMKM yang lemah dalam mengakses
+permodalan terutama kepada lembaga keuangan formal selalu menjadi bahan
+perbincangan yang tadak habis-habisnya, seolah-olah menjadi kendala yang sulit dicarikan pemecahannya oleh para ahli di negeri ini. Dari jumlah unit UMKM
+yang mencapai angka 49,8 juta yang tersebar di seluruh wilayah di semua sektor
+usaha (BPS, 2013) hanya sekitar 39 % atau 19,4 juta yang telah memperoleh
+kredit perbankan, sedangkan sisanya belum sama sekali tersentuh lembaga
+perbankan.
+
+Sebagian besar dari UMKM yang berjumlah 49,8 juta tersebut atau sekitar
+95,7 % adalah usaha mikro : usaha rumah tangga, pedagang kaki lima, dan
+berbagai jenis usaha bersifat informal lainnya. Pada skala ini pula paling banyak
+menyerap tenaga kerja dan menopang peningkatan taraf hidup masyarakat,
+diperkirakan 91,8 juta orang (97,3%) dari total kesempatan kerja. Selain itu,
+kontribusi UMKM dalam PDB nasional mencapai Rp. 2.121,3 triliun (53,6%) dari
+total PDB, kontribusi ekspor mencapai Rp 142,8 triliun (20%) dari total ekspor
+non migas, investasi fisik UMKM, mencapai Rp 462,01 triliun (46,9%) (BPS,
+2013).
+
+Sebagaimana diketahui, bahwa krisis finansial global telah berdampak
+besar pada sektor riil yang sebagian besar digeluti UMKM. Antisipasi dan
+langkah-langkah penyelamatan agar sektor riil bisa bertahan dan terselamatkan
+perlu selalu diupayakan dengan memberikan dukungan permodalan kepada
+UMKM yang terkena krisis. Untuk itu, diperlukan langkah berani dari pemerintah
+melalui kebijakan yang mendorong perbankan untuk memberikan kelonggaran
+kepada UMKM yang memerlukan modal, karena pada umumnya walaupun
+UMKM telah feasibel namun belum bankabel, pada sisi lain perbankan dituntut menerapkan manajemen risiko yang standar dan tidak cocok dengan kondisi
+UMKM (Depkop.go.id, 2013).
+
+Sehubungan dengan upaya mengatasi masalah permodalan UMKM
+sebagaimana uraian di atas, Kementerian Negara Koperasi dan UKM turut
+memprakarsai program perkuatan permodalan melalui Kredit Usaha Rakyat
+(KUR). Adapun tujuan diluncurkannya KUR adalah (1) untuk mempercepat
+pengembangan sektor riil dan pemberdayaan UMKM; (2) untuk meningkatkan
+akses pembiayaan kepada UMKM dan koperasi; (3) untuk penanggulangan
+kemiskinan dan perluasan lapangan kerja. KUR adalah skim penjaminan kredit
+yang khusus diperuntukkan bagi UMKM dan Koperasi yang usahanya layak
+namun tidak mempunyai agunan yang cukup sesuai persyaratan yang ditetapkan
+Perbankan yang dijamin oleh Perum Jamkrindo dan PT Askrindo. Program KUR
+telah diresmikan oleh Presiden pada tanggal 5 November 2007. Program ini
+khusus ditujukan untuk memperkuat permodalan usaha mikro, usaha kecil, dan
+usaha menengah (UMKM) secara perorangan, sedangkan bagi kelompok
+disalurkan melalui koperasi. Program KUR didukung oleh enam bank umum,
+yaitu BRI, BNI, BTN, Bank Mandiri, Bank Syariah Mandiri, dan Bukopin, serta
+dua perusahaan penjaminan yaitu Perum Sarana Pengembangan Usaha (Perum
+SPU) sekarang berubah menjadi Perum Jaminan Kredit Indonesia (Perum
+Jamkrindo) dan PT Asuransi Kredit Indonesia (PT Askrindo). KUR dijamin oleh
+pemerintah sebesar 70 persen melalui Perum Jamkrindo dan PT Askrindo. Dalam
+waktu lima tahun ke depan mulai tahun 2010 diharapkan dapat mengucurkan dana
+kepada UMKM dan koperasi sebesar Rp 100 triliun. Kebijakan ini jelas menunjukkan keseriusan pemerintah untuk memberdayakan UMKM dan koperasi
+dalam rangka mengurangi angka kemiskinan dan pengangguran (Depkop.go.id,
+2013). Melalui pola perkreditan seperti KUR, yang bersifat kredit masal, maka
+harapan tersebut optimis terpenuhi mengingat calon penerima kredit tidak
+diwajibkan untuk menyediakan jaminan tambahan, seperti pada kredit lainnya
+yang terikat dengan ketentuan bank teknis (Depkop.go.id, 2013).
+
+Terkait dengan percepatan penyaluran KUR, Tim Pengendalian Program
+Pemberdayaan Usaha Mikro dan Kecil (TP3UMK) dan Tim Koordinator Program
+Pengendalian Penanggulangan Kemiskinan (TKPK) mengeluarkan rekomendasi
+kebijakan sebagai berikut (Depkop.go.id, 2013):
+1. Program KUR terdiri dari: KUR Mikro (sampai dengan Rp 5 juta), KUR
+biasa (Rp 5 s/d Rp 500 juta) dan KUR Linkage (lebih besar dari Rp 500
+juta sampai dengan Rp 2 miliar);
+
+2. Meningkatkan capacity building untuk konsultan keuangan mitra bank
+(KKMB), LKM, dan koperasi;
+3. Mengadakan sosialisasi dan evaluasi program KUR;
+4. Membuat pemeringkatan/rating LKM yang ikut program linkage dengan
+pelaksana rating oleh lembaga independen.
+Realisasi penyaluran KUR sampai tanggal 31 November 2009 telah
+mencapai Rp 16,45 triliun (KUR dan KUR Mikro), dimana KUR Mikro hanya
+disalurkan oleh BRI dengan nilai sebesar Rp 9,15 triliun. BRI merupakan bank
+terbesar dalam menyalurkan KUR, diikuti oleh Bank Mandiri dan BNI, sedangkan
+sektor terbesar yang menyerap KUR adalah sektor perdagangan Rp 8,41 triliun (54,8%) dan sektor pertanian sebesar Rp 4,17 triliun (27,2%). Pada sisi lain,
+provinsi Jawa Timur, Jawa Tengah dan Jawa Barat merupakan provinsi yang
+cukup besar dalam menyerap dana KUR yaitu di atas 10 %, sedangkan untuk
+provinsi lain rata-rata berkisar antara 0,3% - 6 % (BPS, 2013).
+Selama priode 2008 penyaluran KUR sangat efektif bila dibandingkan
+dengan periode 2009. Kecepatan penyaluran KUR bisa jadi disebabkan tingginya
+semangat perbankan dalam menyalur KUR, sosialisasi yang cukup efektif
+dikalangan perbankan dan masyarakat, kebijakan ATMR yang semakin longgar
+serta banyaknya permintaan calon debitur KUR yang layak namun kurang
+bankable. Penyaluran kredit memungkinkan masyarakat untuk melakukan
+investasi, distribusi, dan juga konsumsi barang dan jasa, mengingat semua
+kegiatan investasi, distribusi, dan konsumsi selalu berkaitan dengan penggunaan
+uang. Kelancaran kegiatan investasi, distribusi, dan konsumsi ini tidak lain adalah
+kegiatan pembangunan perekonomian masyarakat. Melalui fungsi ini bank
+berperan sebagai Agent of Development (Susilo, Triandaru, dan Santoso, 2006).
+Namun dalam perkembangannya mulai Nopember 2009 terjadi trend
+perlambatan penyaluran KUR, diduga disebabkan oleh siklus usaha yang
+umumnya terjadi pada setiap semester dalam tahun yang bersangkutan.
+Khususnya perlambatan penyaluran KUR dalam tahun 2009 terjadi karena bank
+mengalami kesulitan likuiditas sebagai dampak krisis keuangan global, adanya
+kekuatiran melakukan ekspansi kredit sebagai akibat dari mulai meningkatnya non
+performance loan semua jenis kredit serta semakin sulitnya bank mendapatkan
+nasabah baru yang belum pernah mendapatkan kredit/pembiayaan dari perbankan.
+
+Selain itu, Bank yang memiliki jumlah kantor layanan yang banyak dan menyebar
+di seluruh pelosok, memiliki jumlah account officer yang lebih banyak,
+berpengalaman dan terbiasa dalam menyalurkan kredit mikro, memiliki
+jarak/radius pelayanan yang mendekati lokasi debitur mempengaruhi realisasi
+penyaluran KUR (Pratama, 2010).
+
+Berdasarkan data pada tabel 1.1, terlihat bahwa penyaluran KUR
+mengalami penurunan yang sangat besar pada tahun 2010 dimana jumlahnya
+mengalami penurunan hingga mencapai hampir 50%. Pada tahun 2011 dan 2012,
+terlihat bahwa penyaluran KUR mengalami peningkatan walaupun belum
+mencapai level yang diharapkan seperti tahun 2007 hingga 2009. Terdapat
+beberapa faktor yang dapat mempengaruhi penyaluran KUR antara lain laju
+inflasi, BI rate dan pertumbuhan ekonomi (Depkop.go.id, 2013).
+
+Indonesia adalah salah satu negara berkembang. Masalah umum yang
+sering dihadapi negara berkembang adalah tingginya tingkat inflasi. Sejak krisis
+moneter tahun 1998, harga-harga di pasaran cenderung naik. Tahun 2009 tingkat inflasi di Indonesia adalah 2,78 %. Hal ini bisa diartikan bahwa aktiva yang
+dimiliki harganya akan berkurang sebesar 2,78% sedangkan pendapatan dinilai
+terlalu tinggi sebesar angka yang sama. Namun pada 2010, tingkat inflasi
+meningkat hingga 6,96%, lalu mengalami penurunan hingga 3,79% pada 2011
+sebelum meningkat menjadio 4,3% pada tahun 2012. Inflasi merupakan masalah
+yang penuh perhatian di negara manapun. Sebagai contoh, inflasi dapat
+mengakibatkan meremehkan akun neraca (yaitu persediaan) dan biaya (yaitu
+penyusutan). Dalam lingkungan pinjaman kredit, inflasi dapat mempengaruhi
+keputusan untuk meminjamkan kredit.
+
+Penyaluran kredit kepada nasabah yang membutuhkan kredit (debitur)
+harus melalui suatu prosedur yang harus dilakukan secara professional dan hatihati,
+dimana prosedur tersebut mungkin berbeda antara suatu bank dengan bank
+lainnya. Namun secara umum dijelaskan bahwa tahap-tahap penyaluran kredit
+terdiri dari wawancara dengan calon debitur, analisa laporan keuangan, penilaian
+jaminan, pemeriksaan dokumen-dokumen hukum dan tahap memutuskan kredit
+yang biasanya dilakukan oleh beberapa pejabat kredit bank. Penyaluran dana
+dalam bentuk kredit ini juga sangat dipengaruhi oleh keadaan perekonomian
+negara yang cendrung digambarkan dalam bentuk inflasi.
+Tingkat suku bunga mempunyai peranan yang sangat penting dalam
+perkreditan di pasar kredit dimana tingkat suku bunga yang berlaku menunjukkan
+harga yang telah disepakati oleh kedua belah pihak dalam transaksi kredit. Bagi
+peminta kredit maka bunga yang rendah akan sangat diminati dan sebaliknya jika
+bunga tinggi maka mereka akan berfikir dan tidak berminat untuk mengambil kredit. Suku bunga berpengaruh langsung terhadap tingkat suku bunga kredit
+perbankan.
+
+Suku bunga kredit mempunyai pengaruh besar terhadap perkembangan
+kredit. Semakin tinggi suku bunga kredit maka akan menyebabkan beban
+masyarakat dalam melunasi pinjaman kreditnya semakin berat, dan akan
+mengurangi minat masyarakat untuk melakukan pinjaman kredit yang berakibat
+menurunya kredit yang disalurkan. Sebaliknya semakin rendah tingkat suku bunga
+kredit yang ditawarkan maka beban masyarakat akan lebih ringan yang
+berdampak meningkatnya jumlah kredit yang disalurkan ke masyarakat
+(Wardoyo, 2003). Terlihat pada tabel 1.2, bahwa pemerintah telah berusaha
+menurunkan tingkat suku bunga Bank Indonesia mulai 7% pada 2009 hingga
+menjadi 5,75% pada tahun 2012. Hal ini menunjukkan bahwa pemerintah ingin
+menignkatkan penyaluran KUR kepada usaha mikro kecil dan menengah.
+Pertumbuhan ekonomi juga menjadi salah satu yang mempengaruhi
+penyaluran KUR. Model Pertumbuhan Ekonomi yang dikemukakan oleh Harrod-
+Domar, menekankan betapa pentinya masyarakat untuk menabung guna
+mendukung kegiatan investasi yang akan mendorong pertumbuhan yang
+direpresentasikan oleh peningkatan pendapatan nasional. Untuk peningkatan
+pendapatan nasional diperlukan tambahan kapital stok dalam jumlah tertentu,
+sehingga terdapat rasio antara pendapatan nasional dan kapital stok (capitaloutput
+ratio). Model Harrod-Domar menunjukkan betapa pentingnya tabungan
+(saving) untuk mendukung investasi guna menciptakan pertumbuhan. Menurut
+Domar Peningkatan tabungan akan meningkatkan kapital stok, yang berarti tersedianya dana untuk mendukung investasi. Penyaluran dana kepada dunia
+usaha maka akan dapat meningkatkan output yang dihasilkannya. Pertumbuhan
+ekonomi di Indonesia saat ini mencapai 6,3% pada tahun 2012, hal ini
+mengindikasikan terdapat pertumbuhan ekonomi yang cukup kuat di Indonesia.
+Pertumbuhan ekonomi ini juga diharapkan dapat meningkatkan penyaluran KUR.
+Salah satu komponen dari pertumbuhan nasional yang selalu dilakukan
+perhitungannya adalah pertumbuhan ekonomi (Sadono Sukirno, 2004). Dapat
+dijelaskan bahwa, jika suatu negara atau daerah mengalami peningkatan
+pertumbuhan ekonomi, maka mereka beranggapan untuk tidak beresiko
+mengambil kredit. Dengan kata lain bahwa peningkatan pertumbuhan ekonomi
+akan semakin meningkatkan kemampuan dan keinginan untuk melakukan
+ekspansi dan untuk mrlakukan ekspansi membutuhkan modal yang lebih besar.
+Dalam hal ini untuk melakukan ekspansi tersebut, seorang wirausahawan akan
+memutuskan untuk mengambil kredit. Sehingga dapat dikatakan pertumbuhan
+ekonomi akan meningkatkan penyaluran kredit.
+
+Non Performing Loan (NPL) merupakan rasio yang dipergunakan
+untukmengukur kemampuan bank dalam meng-cover risiko kegagalan
+pengembalian kreditoleh debitur. NPL mencerminkan risiko kredit, semakin
+tinggitingkat NPL maka semakin besar pula risiko kredit yang ditanggung oleh
+pihak bank. Akibat tingginya NPL perbankan harus menyediakan pencadangan
+yanglebih besar, sehingga pada akhirnya modal bank ikut terkikis. Padahal
+besaran modalsangat mempengaruhi besarnya ekspansi kredit. Besarnya NPL
+menjadi salah satupenyebab sulitnya perbankan dalam menyalurkan kredit.
+
+Capital Adequacy Ratio (CAR) merupakan rasio permodalan yang
+menunjukkan kemampuan bank dalam menyediakan dana untuk keperluan
+pengembangan usaha dan menampung risiko kerugian dana yang diakibatkan oleh
+kegiatan operasi bank. Semakin tinggi CAR maka semakin besar pula sumber
+daya finansial yang dapat digunakan untuk keperluan pengembangan usaha dan
+mengantisipasi potensi kerugian yang diakibatkan oleh penyaluran kredit.
+Penelitian Lolong (2013) tentang pengaruh suku bunga kredit terhadap
+penyaluran kredit memberikan hasil bahwa suku bunga kredit berpengaruh
+terhadap peningkatan penyaluran kredit. Penelitian Dondo (2013) tentang
+pengaruh suku bunga kredit dan tingkat inflasi terhadap penyaluran kredit modal
+kerja memberikan hasil bahwa suku bunga kredit dan tingkat laju inflasi
+berpengaruh terhadap penyaluran kredit modal kerja. Penelitan Yoga (2013) yang
+meneliti tentang pengaruh pertumbuhan ekonomi, NPL dan suku bunga kredit
+terhadap penyaluran kredit memberikan hasil bahwa pertumbuhan ekonomi dan
+suku bunga kredit berpengaruh terhadap penyaluran kredit, sedangkan NPL tidak
+berpengaruh terhadap penyaluran kredit. Sedangkan penelitian Pratama (2010)
+tentang pengaruh suku bunga dan CAR terhadap penyaluran kredit memberikan
+hasil bahwa suku bunga dan CAR berpengaruh terhadap penyaluran kredit.
+Penelitian Hasanudin (2010) tentang pengaruh tingkat suku bunga, NPL dan
+tingkat inflasi terhadap penyaluran kredit memberikan hasil yang berbeda dimana
+tingkat suku bunga, NPL dan tingkat inflasi tidak berpengaruh terhadap
+penyaluran kredit.
+
+Berdasarkan latar belakang masalah dan adanya penelitian terdahulu
+dengan hasil yang berbeda, maka peneliti tertarik untuk melakukan penelitian
+dengan judul : “ANALISIS FAKTOR-FAKTOR YANG MEMPENGARUHI
+PENYALURAN KUR PERIODE 2009-2011”.
+
+1.2 Rumusan Masalah
+Sehubungan dengan upaya mengatasi masalah permodalan UMKM
+sebagaimana uraian di atas, Kementerian Negara Koperasi dan UKM turut
+memprakarsai program perkuatan permodalan melalui Kredit Usaha Rakyat
+(KUR). Namun dalam pelaksanaannya terjadi beberapa penurunan dalam
+penyalurannya sehingga hasil yang dihasilkan tidak maksimal.
+Perlambatan penyaluran KUR ini berdasarkan penelitian terdahulu diduga
+dipengaruhi oleh tingkat inflasi, suku bunga bank, pertumbuhan ekonomi, NPL
+dan CAR. Berdasarkan latar belakang dan permasalahan yang ada, dapt
+dirumuskan pertanyaan penelitian sebagai berikut :
+1. Apakah tingkat inflasi berpengaruh terhadap penyaluran KUR periode
+2009-2011?
+2. Apakah suku bunga bank berpengaruh terhadap penyaluran KUR periode
+2009-2011?
+3. Apakah pertumbuhan ekonomi berpengaruh terhadap penyaluran KUR
+periode 2009-2011?
+4. Apakah NPL (Non Performing Loan) berpengaruh terhadap penyaluran
+KUR periode 2009-2011?
+
+5. Apakah CAR (Capital Adequacy Ratio) berpengaruh terhadap penyaluran
+KUR periode 2009-2011?
+
+1.3 Tujuan dan Manfaat Penelitian
+1.3.1 Tujuan Penelitian
+Penelitian ini bertujuan untuk :
+1. Menganalisis pengaruh tingkat inflasi terhadap penyaluran KUR periode
+2009-2011.
+2. Menganalisis pengaruh suku bunga bank terhadap penyaluran KUR
+periode 2009-2011.
+3. Menganalisis pengaruh pertumbuhan ekonomi terhadap penyaluran KUR
+periode 2009-2011.
+4. Menganalisis pengaruh NPL (Non Performing Loan) terhadap penyaluran
+KUR periode 2009-2011.
+5. Menganalisis pengaruh CAR (Capital Adequacy Ratio) terhadap
+penyaluran KUR periode 2009-2011.
+
+1.3.2 Manfaat Penelitian
+Penelitian ini diharapkan dapat berguna dan memberikan manfaat sebagai
+berikut :
+1. Bagi peneliti, penelitian ini diharapkan dapat memberikan manfaat bagi
+pengetahuan dalam hal penyaluran kredit dan menjadi referensi di masa
+depan.
+13
+2. Bagi perumus kebijakan, diharapkan penelitian ini dapat menjadi referensi
+bagi perumusan kebijakan kredit maupun suku bunga di masa yang akan
+datang.
+3. Bagi wirausahawan, diharapkan penelitian ini dapat menjadi acuan dalam
+pemilihan kredit dan menjadi bahan pertimbangan dalam pengambilan
+KUR.

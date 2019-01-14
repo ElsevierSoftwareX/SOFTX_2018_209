@@ -1,0 +1,338 @@
+﻿Analisis Computational Fluid Dynamics untuk Perancangan Reaktor
+Gasifikasi Sekam Padi Tipe Downdraft
+
+
+Abstrak
+Sekam padi merupakan salah satu biomassa yang dapat dimanfaatkan sebagai bahan gasifikasi untuk
+menghasilkan gas mampu bakar yang dapat digunakan sebagai bahan bakar pada motor bakar. Tujuan
+penelitian ini adalah mendapatkan desain reaktor gasifikasi sekam padi skala kecil yang terbaik dari
+beberapa skenario bentuk reaktor melalui metode computational fluid dynamics. Skenario bentuk geometri
+reaktor adalah sudut throat 70O, 80O, dan 90O, serta sudut nozel 10O dan 20O. Perangkat lunak yang
+digunakan adalah Gambit 2.4.6 (pembuatan mesh model 3D) dan Ansys Fluent 13.0 (simulasi). Reaksi
+yang terlibat dalam proses gasifikasi (3 reaksi heterogen dan 6 reaksi homogen) diselesaikan dengan
+model finite rate/Eddy dissipation. Hasil simulasi menunjukkan bahwa reaktor dengan sudut throat 90O
+dan sudut nozel 10O menghasilkan nilai kalor gas paling tinggi dengan fraksi volume gas CO, H2, dan CH4
+secara berturut – turut adalah 14.49%, 9.65%, dan 2.39%. Hasil simulasi cukup sesuai dengan data peneliti
+lain mengenai gasifikasi sekam padi.
+Kata kunci: sekam padi, gasifikasi, computational fluid dynamics, gas mampu bakar
+
+
+Pendahuluan
+Gasifikasi biomassa dapat menjadi teknologi
+yang efisien dan terdepan dalam mengekstrak energi
+dari biomassa untuk menggantikan sumber energi
+fosil. Selain karena bersifat dapat diperbarui dalam
+waktu yang relatif cepat, sumber energi biomassa
+juga tidak berdampak negatif bagi lingkungan.
+Gasifikasi biomassa merupakan proses konversi
+biomassa padat menjadi gas mampu bakar (CO,
+H2, dan sedikit CH4) melalui proses termal. Gas
+mampu bakar ini dapat digunakan secara langsung
+untuk pembakaran, misalnya untuk keperluan
+rumah tangga atau pengeringan, ataupun juga
+digunakan sebagai bahan bakar motor bakar
+yang dapat digunakan untuk pembangkit listrik
+ataupun keperluan lainnya. Salah satu biomassa
+di Indonesia yang jumlahnya melimpah dan dapat digunakan sebagai bahan bakar untuk gasifikasi
+adalah sekam padi. Tipe reaktor gasifikasi downdraft
+merupakan tipe reaktor yang umum digunakan
+untuk menghasilkan gas mampu bakar yang
+diterapkan pada motor bakar internal, sehubungan
+dengan kandungan tar yang lebih sedikit pada gas
+yang dihasilkan.
+Beragam cara dilakukan untuk meningkatkan
+kinerja suatu reaktor gasifikasi biomassa agar
+pemanfaatan biomassa sebagai sumber energi
+dapat lebih efisien. Salah satu cara yang dapat
+dilakukan adalah melalui analisis computational fluid
+dynamics (CFD). Hampir lebih dari sepuluh tahun
+belakangan ini, analisis CFD telah berperan penting
+dalam meningkatkan kinerja beberapa pembangkit
+tenaga listrik, termasuk reaktor gasifikasi. Keluaran
+atau nilai prediksi dari model CFD sangat luas
+dan dapat memberikan informasi tertentu pada
+ratusan titik di dalam reaktor. Wang dan Yan
+(2008) merangkum di dalam suatu artikel tentang
+beberapa hasil penelitian mengenai aplikasi CFD
+di dalam proses konversi energi biomassa, baik
+melalui reaktor gasifikasi maupun melalui ketel uap
+(boiler). Wang dan Yan (2008) menyimpulkan bahwa
+CFD dapat memprediksi secara akurat proses
+konversi biomassa secara termokimia. CFD dapat
+menganalisis mengenai distribusi produk, aliran,
+suhu, endapan abu, bahkan emisi berupa senyawa
+NOx. Meskipun demikian, di dalam simulasi masih
+ada beberapa pendekatan model berupa asumsi
+yang akan menghasilkan sedikit eror.
+Secara umum, skenario simulasi proses
+gasifikasi yang dapat disimulasikan dengan CFD
+antara lain adalah bentuk geometri reaktor (Silaen
+dan Wang 2006), karakteristik media gasifikasi
+(Luan et al. 2011), karakteristik bahan umpan
+gasifikasi (Lu dan Wang 2014), laju aliran udara dan
+laju umpan bahan (Beohar et al. 2012b), atau model
+– model yang digunakan di dalam simulasi (Silaen
+dan Wang 2009; Silaen dan Wang 2010; Lu dan
+Wang 2012). Berdasarkan hasil penelitian Silaen
+dan Wang (2006) diketahui bahwa konfigurasi
+nozel injeksi dapat memberikan pengaruh terhadap
+efisiensi reaktor gasifkasi. Sudut throat pada reaktor
+gasifikasi tipe downdraft juga dapat memberikan
+pengaruh terhadap efisiensi gasifikasi. Sudut throat
+yang baik untuk reaktor gasifikasi tipe downdraft
+adalah dua kali dari sudut curah bahan (Reed
+dan Das 1988). Hal ini bertujuan agar tidak terjadi
+penyumbatan pada daerah sekitar throat. Jayah
+et al. (2003) menyimpulkan bahwa semakin besar
+sudut throat maka suhu dan laju reaksi semakin
+rendah. Pada penelitian ini, simulasi difokuskan
+pada pengaruh bentuk geometri terhadap kinerja
+reaktor gasifikasi sekam padi. Tujuan penelitian
+ini adalah mendapatkan desain reaktor gasifikasi
+sekam padi tipe downdraft skala kecil yang terbaik
+dari beberapa skenario sudut throat dan sudut nozel
+reaktor melalui metode numerik berupa simulasi
+CFD.
+Bahan dan Metode
+Bahan
+Bahan yang digunakan pada penelitian ini adalah
+sekam padi.
+Metode
+Perhitungan Dimensi Reaktor
+Kebutuhan gas yang harus dihasilkan digunakan
+sebagai dasar perhitungan dimensi reaktor. Rumus
+pada Tabel 1 digunakan untuk perhitungan dimensi
+reaktor. Rumus molekul sekam padi tiap 1 atom
+karbon adalah CH1.63O0.75 yang diambil dari ratarata
+dari 6 literatur berbeda, yaitu Raveendran et al. (1994), Ramirez et al. (2007), Janvijitsakul dan
+Kuprianov (2007), Wannapeera et al. (2008), IRRI
+(2009), dan Rozainee et al. (2010), sehingga reaksi
+pembakaran sekam padi secara stokiometrik adalah
+sebagai berikut:
+CH1.63O0.75 + 1.03O2  CO2 + 0.817H2O (1)
+Analisis perhitungan reaktor untuk menggantikan
+bahan bakar bensin pada motor bakar bensin 2.5
+HP (konsumsi bahan bakar spesifik 450 g/kW-jam
+(Cqjc-machinery [tahun terbit tidak diketahui]) atau
+0.839 kg/jam) dengan asumsi efisiensi gasifikasi
+50% (Leung et al. 2004) dan SGR 110 kg/m2-jam
+(Belonio 2005) adalah sebagai berikut: kebutuhan
+sekam padi 4.88 kg/jam atau 0.001355 kg/detik,
+kebutuhan udara 10.48 m3/jam atau 0.0029 m3/detik
+dengan nilai equivalence ratio 0.4 (Jain dan Goss
+2000) dan kecepatan superfisial udara pada nozel
+2 m/detik, diameter nozel 1.24 cm, diameter throat
+24 cm, dan volume hopper 0.039 m3. Diameter dan
+ketinggian hopper berturut-turut untuk sudut throat
+70o adalah 33.3 cm dan 44.9 cm, sudut throat 80o
+adalah 28.4 cm dan 61.7 cm, dan sudut throat 90o
+adalah 24 cm dan 88 cm.
+Skenario Geometri Model
+Skenario geometri yang dilakukan adalah variasi
+terhadap sudut throat dan sudut nozel udara inlet.
+Sudut throat yang baik adalah dua kali dari sudut
+curah bahan (Reed dan Das 1988), sehingga
+dengan sudut curah sekam padi minimum 35O maka
+digunakan sudut throat minimum 70O. Sudut throat
+yang akan digunakan sebagai skenario simulasi adalah 70O, 80O, dan 90O (throatless). Sudut nozel
+yang digunakan adalah sudut 10O dan 20O. Total
+seluruh skenario yang akan disimulasikan adalah 6
+skenario. Skema reaktor gasifikasi yang dirancang
+disajikan pada Gambar 1.
+Pembuatan Mesh Model dan Kondisi Batas
+Pembuatan mesh model 3D dilakukan dengan
+menggunakan perangkat lunak Gambit 2.4.6. Jenis
+mesh yang digunakan adalah model tet/hybrid,
+tipe TGrid. Kondisi batas yang digunakan adalah
+velocity inlet untuk inlet udara, pressure outlet untuk
+outlet gas, porous jump untuk sekat (grate), dan
+wall untuk inlet sekam dan dinding reaktor. Bagian
+kondisi batas disajikan pada Gambar 2.
+Simulasi CFD dengan Ansys Fluent
+Persamaan Reynolds-averaged Navier-Stokes
+(RANS) memegang peranan penting dalam
+simulasi CFD. Persamaan RANS (persamaan (2))
+merupakan persamaan Navier-Stokes (momentum)
+yang dinyatakan ke dalam bentuk rataan untuk mengantisipasi aliran turbulen (Ansys 2010).
+(2)
+di mana: ρ: densitas (kg/m3), t: waktu (detik), u:
+kecepatan (m/detik), p: tekanan (Pa), μ: viskositas
+dinamik (Pa-s), i dan j : arah vektor, dan x: sumbu
+kartesian. Selanjutnya, persamaan konservasi
+yang terlibat dalam simulasi adalah persamaan
+konservasi massa, energi, dan spesies yang
+digunakan didasarkan pada persamaan RANS di
+atas (Ansys 2010).
+Simulasi CFD dilakukan menggunakan perangkat
+komputer merk Dell dengan kecepatan prosesor
+3.3 GHz, dan perangkat lunak CFD Ansys Fluent
+13.0. Pengaturan diawali dengan memilih pressurebased
+sebagai tipe solver, absolute sebagai tipe
+velocity formulation, dan steady sebagai tipe time,
+memasukkan nilai percepatan gravitasi 9.81 m/s2
+pada arah sumbu Y negatif, mengaktifkan model
+energi, dan mengaktifkan model porous zone.
+Model radiasi P1 digunakan pada penelitian ini
+karena model ini cukup stabil dalam memprediksi
+suhu dan komposisi gas (Lu dan Wang 2012). Model
+reaksi finite rate/Eddy dissipation digunakan pada
+penelitian ini karena lebih riil dibandingkan dengan
+model Eddy dissipation (Silaen dan Wang 2009).
+Laju reaksi pada model finite rate/Eddy dissipation
+didasarkan pada nilai terkecil dari model finite
+rate dan model Eddy dissipation. Model turbulensi
+yang digunakan adalah model k-epsilon karena
+memberikan hasil yang cukup konsisten (Silaen
+dan Wang 2010). Model devolatilisasi berpengaruh
+terhadap laju devolatilisasi. Pada penelitian ini,
+model two-competing rates (model Kobayashi)
+dipilih sebagai model devolatilisasi. Meskipun
+menghasilkan laju devolatilisasi yang paling lambat
+dibandingkan dengan model yang lain, model ini
+masih dapat mewakili proses yang sesungguhnya
+(Silaen dan Wang 2010).
+Komposisi proksimat dan ultimat sekam padi
+(Tabel 2) diinputkan menggunakan fasilitas menu
+coal calculator. Komposisi proksimat sekam
+padi diuji dengan menggunakan metode SNI di
+Pusat Penelitian dan Pengembangan Keteknikan
+Kehutanan dan Pengolahan Hasil Hutan, sedangkan
+komposisi ultimat sekam padi merupakan rata - rata
+dari data 6 literatur berbeda.
+Model fase diskret diaktivasi untuk menelusuri
+partikel sekam. Laju massa dan diameter partikel
+sekam diatur menggunakan menu injections. Model devolatilisasi yang dipilih adalah model Kobayashi
+(two competing rates) dan model pembakaran yang
+dipilih adalah multiple surface reactions. Reaksi
+yang terlibat dalam proses gasifikasi disajikan pada
+Tabel 3.
+Hasil dan Pembahasan
+Simulasi dan Analisis CFD
+Simulasi dilakukan terhadap 6 skenario yang
+telah direncanakan. Suhu dan komposisi gas
+mampu bakar sepanjang titik vertikal reaktor untuk
+masing – masing skenario disajikan pada Gambar
+3 hingga Gambar 6, sedangkan komposisi gas
+mampu bakar pada bagian outlet dan nilai kalornya
+disajikan pada Tabel 4. Suhu dan komposisi gas yang
+disajikan merupakan nilai rata – rata menggunakan
+perhitungan mass-weighted average. Nilai kalor
+gas dihitung dengan persamaan (3).
+(3)
+keterangan: Y adalah fraksi volume dan nilai kalor
+(LHV) CO, H2, CH4 berturut – turut adalah 13,100
+kJ/Nm3, 11,200 kJ/Nm3, dan 37,100 kJ/Nm3 (Reed
+dan Das 1988).
+Berdasarkan Gambar 3, dapat diketahui bahwa
+suhu di dalam reaktor untuk masing – masing
+skenario cenderung memiliki pola yang seragam.
+Pada sekitar sepertiga bagian atas reaktor hingga
+bagian paling atas reaktor, suhu mengalami
+penurunan. Hal ini terjadi karena panas digunakan
+untuk proses pengeringan dan pirolisis. Pada
+bagian tengah reaktor, suhu cenderung konstan,
+tetapi pada posisi di sekitar lubang nozel udara,
+suhu mengalami kenaikan yang signifikan. Hal
+ini terjadi karena adanya proses oksidasi setelah
+udara masuk ke dalam reaktor yang menghasilkan
+panas. Berdasarkan Gambar 3 juga dapat diketahui
+bahwa sudut throat yang lebih kecil cenderung
+menghasilkan suhu yang lebih rendah pada daerah
+di bagian atas nozel udara, tetapi lebih tinggi pada
+daerah di sekitar nozel dan bagian bawah nozel.
+Hal ini sesuai dengan Jayah et al. (2003) yang menyimpulkan bahwa semakin besar sudut throat
+maka suhu di sekitar daerah oksidasi semakin
+rendah. Suhu sepanjang bagian lubang nozel udara
+hingga outlet gas mengalami peningkatan secara
+signifikan dan perlahan melambat di sekitar daerah
+outlet gas. Hal ini dapat terjadi karena masih terjadi
+reaksi yang bersifat eksotermik yang membuat
+terjadinya peningkatan suhu. Hal ini menunjukkan
+bahwa zona reduksi di bawah lubang nozel
+perlu diperpanjang agar proses gasifikasi dapat
+berlangsung lebih baik dan suhu keluaran reaktor
+lebih rendah.
+Gambar 4 hingga Gambar 6 menunjukkan
+bahwa fraksi mol gas mampu bakar sepanjang titik
+vertikal reaktor untuk masing – masing skenario
+memiliki pola yang cenderung seragam. Dari bagian
+paling atas hingga mendekati lubang nozel, fraksi
+mol meningkat, tetapi kemudian menurun secara
+signifikan pada titik di sekitar lubang nozel. Hal ini
+terjadi karena sebagian gas – gas mampu bakar
+mengalami reaksi oksidasi untuk menghasilkan
+panas. Selain itu, tingginya fraksi mol gas N2 yang
+terkandung di dalam udara yang masuk ke dalam
+reaktor membuat fraksi mol gas yang lain menjadi menurun. Berdasarkan Gambar 4 dan Gambar 6,
+dapat diketahui bahwa reaktor dengan sudut throat
+90O menghasilkan fraksi mol gas CO dan CH4 yang
+paling tinggi sepanjang titik vertikal reaktor, diikuti
+oleh sudut throat 80O, dan yang terakhir sudut
+throat 70O. Hal tersebut berkebalikan dengan fraksi
+mol gas H2 di mana sudut throat 70O menghasilkan
+fraksi mol gas H2 yang paling tinggi sepanjang titik
+vertikal reaktor, diikuti oleh sudut throat 80o, dan
+yang terakhir sudut throat 90O. Hal ini dapat terjadi
+karena sudut throat yang kecil akan membuat suhu
+menjadi lebih tinggi sehingga reaksi water-gas shift
+(reaksi 8 pada Tabel 3) menjadi lebih cepat, sehingga
+lebih banyak H2 yang dihasilkan. Selain itu, dari
+hasil simulasi dapat diketahui bahwa sudut nozel
+hanya sedikit mempengaruhi suhu dan komposisi
+gas. Meskipun demikian, peningkatan sudut nozel
+cenderung akan menurunkan persentase gas
+mampu bakar. Hal ini dapat terjadi karena sudut
+nozel yang lebih besar (curam) akan membuat
+udara yang masuk sebagian mengarah langsung
+ke bawah reaktor dan sedikit yang berbelok ke
+bagian atas reaktor, sehingga persentase gas N2
+menjadi lebih tinggi dan persentase gas mampu
+bakar menjadi lebih rendah.
+Berdasarkan nilai kalor gas yang dihasilkan,
+dipilih reaktor dengan sudut throat 90O dan sudut
+nozel 10O sebagai desain terbaik dari beberapa
+skenario simulasi yang telah dilakukan. Kontur
+sebaran komposisi gas mampu bakar dari reaktor
+yang terpilih secara berturut-turut disajikan pada
+Gambar 7 hingga Gambar 12.
+Gambar 7 menunjukkan bahwa pada sekitar
+sepertiga bagian atas reaktor, terjadi proses
+pengeringan yang menyebabkan tingginya fraksi
+mol H2O pada bagian tersebut. Fraksi mol H2O
+secara perlahan menurun dari bagian atas ke bagian
+tengah seiring dengan terjadinya proses pirolisis
+(devolatilisasi). Proses pirolisis membuat material
+volatil yang terkandung di dalam sekam padi keluar.
+Hal ini membuat fraksi mol material volatil menjadi
+meningkat pada bagian tengah reaktor (Gambar 8).
+Material volatil yang keluar akan terkonversi menjadi
+gas – gas yang dinyatakan pada reaksi 4 dalam
+Tabel 3 yang diantaranya adalah gas – gas mampu
+bakar. Setelah proses pirolisis berakhir, terjadi reaksi
+oksidasi dan reduksi pada bagian bawah reaktor.
+Gas – gas mampu bakar yang dihasilkan sebagian
+merupakan hasil dari proses pirolisis dan sebagian
+lain hasil dari proses reduksi. Hal ini terlihat pada
+Gambar 9 di mana terjadi reduksi gas CO2 menjadi
+CO sehingga fraksi mol gas CO2 perlahan menurun
+sedangkan fraksi mol gas CO (Gambar 10) perlahan
+meningkat.
+Perbandingan Hasil Simulasi dengan Literatur
+Perbandingan hasil simulasi dengan hasil
+pengukuran dari data literatur mengenai gasifikasi
+sekam padi disajikan pada Tabel 5. Secara umum,
+persentase gas mampu bakar hasil simulasi cukup
+dekat dengan data literatur mengenai gasifikasi
+sekam padi.
+Simpulan
+Desain reaktor terbaik dari beberapa skenario
+yang disimulasikan adalah reaktor dengan sudut
+throat 90O dan sudut nozel 10O. Komposisi gas
+mampu bakar keluaran reaktor hasil simulasi adalah
+CO 14,49%, H2 9,65%, dan CH4 2,39%. Hasil ini
+cukup dekat dengan data pengukuran dari literatur
+mengenai gasifikasi sekam padi. Untuk penelitian
+selanjutnya, sebaiknya perlu dilakukan simulasi
+terhadap reaktor yang terpilih pada penelitian ini
+dengan skenario panjang zona reduksi reaktor agar
+diperoleh hasil yang lebih baik.

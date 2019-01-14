@@ -1,0 +1,99 @@
+﻿ABSTRAK
+Geographically Weighted Logistic Regression (GWLR) merupakan bentuk
+lokal dari regresi logistik dimana faktor geografis diperhatikan dan diasumsikan
+bahwa data berdistribusi Bernoulli yang digunakan untuk menganalisis data
+spasial dari proses yang tidak stasioner. Penelitian ini akan menganalisis faktorfaktor
+yang mempengaruhi Laju Pertumbuhan Penduduk (LPP) Kota Semarang
+menggunakan regresi logistik dan GWLR dengan pembobot bisquare kernel dan
+kernel gaussian. Hasil penelitian menunjukkan bahwa model GWLR dengan
+pembobot kernel bisquare lebih baik daripada model regresi logistik dan model
+GWLR dengan pembobot kernel gaussian karena mempunyai nilai AIC paling
+kecil dengan ketepatan klasifikasi sebesar 87,5%. Faktor yang signifikan adalah
+jumlah pasangan usia subur di Kota Semarang.
+Kata kunci : LPP, Regresi Logistik, GWLR,Kernel Bisquare, Kernel Gaussian,
+AIC
+
+
+BAB I
+PENDAHULUAN
+1.1 Latar Belakang
+Laju pertumbuhan penduduk adalah angka yang menunjukkan tingkat
+pertambahan penduduk pertahun dalam jangka waktu tertentu (BPS, 2013). Laju
+pertumbuhan penduduk merupakan masalah bagi negara-negara berkembang
+termasuk Indonesia. Dari hasil sensus penduduk tahun 2010 dapat dilihat bahwa
+Indonesia mengalami gejala ledakan penduduk. Pada tahun 2010 tercatat jumlah
+penduduk Indonesia mencapai 240 juta jiwa dengan nilai laju pertumbuhan penduduk
+sebesar 1,49 persen pertahun. Apabila nilai laju pertumbuhan penduduk tidak
+berubah, maka ledakan penduduk akan terjadi pada tahun 2045 yang mencapai 450
+juta jiwa (BKKBN, 2010).
+Pertumbuhan penduduk yang tidak terkendali akan banyak menimbulkan
+dampak negatif. Pemerintah pusat maupun pemerintah daerah telah berupaya untuk
+menekan besarnya angka laju pertumbuhan penduduk tersebut namun dirasa masih
+belum maksimal. Upaya pemerintah diantaranya adalah mensosialisasikan dua anak
+lebih baik, pembagian alat kontrasepsi gratis, serta banyak memberikan penyuluhan
+tentang penggunaan KB.
+Perhitungan laju pertumbuhan penduduk dapat menggunakan tiga metode yaitu
+dengan metode aritmatik, geometrik, serta eksponensial. Metode yang sering digunakan
+oleh BPS adalah metode geometrik. Angka laju pertumbuhan penduduk ini sendiri dapat
+dikategorikan menjadi tiga yaitu apabila nilai laju pertumbuhan penduduk lebih dari 0
+maka terjadi pertumbuhan penduduk dari tahun sebelumnya, dan apabila nilai laju
+pertumbuhan sama dengan 0 atau bahkan kurang dari 0 berarti tidak terjadi pertumbuhan
+penduduk pada tahun tersebut dari tahun sebelumnya (BPS, 2013).
+Dalam mengatasi permasalahan dimana variabel respon berbentuk kategori (dua
+kategori, tiga kategori atau lebih) sedangkan variabel prediktornya bisa diskrit, kontinu,
+atau gabungan dari keduanya maka regresi logistik digunakan untuk mengukur hubungan
+fungsi antara variabel respon dari jenis kualitatif (dikotomus/polikotomus) dengan
+variabel-variabel prediktor dari jenis kuantitatif dan kualitatif yang dinyatakan dalam
+suatu model atau persamaan regresi. Masalah utama regresi logistik adalah ketika
+diaplikasikan pada data spasial yang mungkin menghasilkan penaksir model yang
+berbeda pada suatu lokasi. Model penentuan faktor laju pertumbuhan penduduk dengan
+regresi logistik yang bersifat global tidak cocok diterapkan pada seluruh kecamatan di
+Kota Semarang karena bisa jadi suatu variabel berpengaruh terhadap pertumbuhan
+penduduk di satu wilayah namun di wilayah lain variabel tersebut justru tidak signifikan.
+Salah satu metode statistika yang digunakan untuk mengatasi permasalahan pada
+data spasial yang tidak stasioner adalah Geographically Weighted Regression (GWR),
+yaitu model yang menggunakan faktor geografis sebagai variabel bebas yang dapat
+mempengaruhi variabel respon. Metode statistik yang juga telah dikembangkan untuk
+analisis data dengan memperhitungkan faktor spasial yaitu Geographically Weighted
+Logistic Regression (GWLR). GWLR adalah metode nonparametrik yang merupakan
+bentuk lokal dari regresi logistik dimana lokasi diperhatikan dan diasumsikan bahwa data
+variabel respon berdistribusi Bernoulli yang digunakan untuk menganalisis data spasial
+dari proses yang non stasioner. Penaksir parameter modelnya diperoleh dengan
+menggunakan metode Maximum Likelihood Estimation (MLE) yaitu dengan memberikan
+pembobot (weight) yang berbeda pada setiap lokasi. Salah satu penelitian sebelumnya
+yang mengkaji pemodelan GWLR telah dilakukan oleh Atkinson et al. (2003) yang
+mengeksplorasi hubungan antara erosi tepi sungai dan kontrol geomorfologi sungai Dyfi
+Afon di West Wales dengan menggunakan GWLR. Tujuan penelitian yang dilakukan
+oleh Atkinson adalah menerapkan model GWLR untuk variasi spasial dalam hubungan
+antara erosi sungai (ada atau tidak adanya) dan beberapa variabel yang mempengaruhi.
+Berdasarkan uraian di atas, penulis tertarik untuk melakukan penelitian tentang
+penerapan model GWLR pada pemodelan faktor-faktor yang mempengaruhi laju
+pertumbuhan penduduk pada tiap kecamatan di Kota Semarang tahun 2011. Hasil dari
+penelitian ini diharapkan menjadi bahan pertimbangan pemerintah Kota Semarang dalam
+menentukan kebijakan untuk menekan laju pertumbuhan penduduk yang semakin besar.
+
+1.2 Rumusan Masalah
+Berdasarkan uraian latar belakang di atas maka rumusan masalah pada penelitian
+ini adalah sebagai berikut:
+1. Bagaimana menentukan model laju pertumbuhan penduduk seluruh kecamatan di
+Kota Semarang dan faktor yang berpengaruh secara signifikan menggunakan regresi
+logistik?
+
+2. Bagaimana menentukan model laju pertumbuhan penduduk seluruh kecamatan di
+Kota Semarang dan faktor yang berpengaruh secara signifikan menggunakan GWLR
+dengan pembobot fungsi kernel?
+3. Model mana yang mampu menggambarkan laju pertumbuhan penduduk seluruh
+kecamatan di Kota Semarang dengan lebih baik?
+
+
+1.3 Tujuan Penelitian
+Berdasarkan rumusan masalah di atas, tujuan yang ingin dicapai dalam penelitian
+ini adalah sebagai berikut:
+1. Mendapatkan model laju pertumbuhan penduduk seluruh kecamatan di Kota
+Semarang dan faktor yang berpengaruh secara signifikan menggunakan regresi
+logistik.
+2. Mendapatkan model laju pertumbuhan penduduk seluruh kecamatan di Kota
+Semarang dan faktor yang berpengaruh secara signifikan menggunakan GWLR
+dengan pembobot fungsi kernel.
+3. Mendapatkan model yang mampu menggambarkan laju pertumbuhan penduduk
+seluruh kecamatan di Kota Semarang dengan lebih baik.

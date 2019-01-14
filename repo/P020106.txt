@@ -1,0 +1,89 @@
+﻿ABSTRAK
+Dalam dunia industri, pendistribusian merupakan kunci utama berjalannya suatu
+usaha. Dalam proses distribusi, distributor menggunakan kendaraan pengangkut
+barang yang masing-masing ukuran dan kapasitasnya sama. Lokasi dari konsumen
+yang berbeda-beda menyebabkan sebuah kendaraan pengangkut barang harus
+memiliki rute perjalanan. Penentuan rute dengan mempertimbangkan kapasitas
+kendaraan pengangkut dan jarak tempuh maksimum dari kendaraan disebut juga
+vehicle routing problem. Untuk menyelesaikan vehicle routing problem, penulis
+menggunakan metode yang terinspirasi dari perilaku kunang-kunang, yaitu Firefly
+Algorithm. Algoritma ini dikembangkan oleh Dr Xin-She Yang di Universitas
+Cambridge pada tahun 2007. Proses algoritma ini dimulai dengan inisialisasi
+parameter, pembangkitan populasi awal firefly, menghitung fungsi tujuan,
+menghitung intensitas cahaya, membandingkan intensitas cahaya tiap firefly,
+update solusi baru, menentukan G-best, dan proses berlanjut sampai maksimal
+iterasi dipenuhi. Fungsi tujuan dalam skripsi ini adalah meminimumkan jarak dari
+rute perjalanan yang akan dilalui. Data yang digunakan adalah data kecil berisi 13
+pelanggan dan data besar berisi 199 pelanggan serta diselesaikan dengan bahasa
+pemrograman Java menggunakan software Netbeans IDE 7.2. Fungsi tujuan
+terbaik berdasarkan Firefly Algorithm didapatkan untuk data kecil yaitu 89 km,
+sedangkan untuk data besar diperoleh 5795 km.
+Kata Kunci: Firefly Algorithm, Vehicle Routing Problem
+
+BAB I
+PENDAHULUAN
+1.1 Latar Belakang
+Dalam dunia industri, pendistribusian merupakan kunci utama berjalannya
+suatu usaha. Dengan adanya distribusi, para produsen dapat dengan mudah
+menjangkau konsumen yang berada dimana saja. Pendistribusian produk sering
+kali menjadi masalah serius yang dihadapai oleh banyak perusahaan. Tidak sedikit
+yang mengalami kerugian akibat hilangnya peluang penjualan, bahkan surutnya
+brand image sebuah produk akibat dari produk tersebut tidak didistribusikan
+secara baik dan optimal (Rayon, 2005).
+Dalam proses distribusi, distributor menggunakan kendaraan pengangkut
+barang yang masing-masing ukuran dan kapasitasnya sama. Lokasi dari konsumen
+yang berbeda-beda menyebabkan sebuah kendaraan pengangkut barang harus
+memiliki rute perjalanan. Rute perjalanan digunakan untuk melayani konsumen
+yang jaraknya berdekatan terlebih dahulu. Kapasitas kendaraan pengangkut
+terhadap permintaan konsumen juga perlu diperhatikan dalam proses
+pendistribusian. Kendaraan pengangkut juga memiliki jarak tempuh maksimum.
+Penentuan rute dengan mempertimbangkan kapasitas kendaraan pengangkut dan
+jarak tempuh maksimum dari kendaraan disebut juga vehicle routing problem
+(Toth,2002).
+Dalam menyelesaikan Vehicle Routing Problem tersebut, salah satu
+metode yang digunakan adalah Firefly Algorithm. Firefly algorithm diperkenalkan
+oleh Dr. Xin-She Yang pada tahun 2008. Meskipun algortima ini masih baru dan
+memiliki banyak kemiripan dengan algoritma yang lain tetapi algoritma ini
+memiliki sifat yang sangat efisien dan diyakini dapat mengungguli algoritma
+lainnya.
+Firefly Algorithm (FA) terinspirasi dari perilaku berkedipnya kunangkunang.
+Setiap kunang-kunang akan tertarik untuk bergerak mendekati kunangkunang
+yang memancarkan cahaya yang lebih terang daripada dirinya sendiri.
+Algoritma ini mengamati kunang-kunang pada titik posisinya, yaitu titik awal
+kunang-kunang dan titik akhir pergerakan kunang-kunang. Cahaya yang
+dipancarkan oleh kunang-kunang disebut intensitas cahaya. Intensitas cahaya
+inilah yang nantinya akan mempengaruhi proses pergerakan dari setiap kunangkunang
+(Yang,2008).
+Oleh karena itu, peneliti akan mengkaji Penyelesaian Vehicle Routing
+Problem dengan Firefly Algorithm.
+1.2 Rumusan Masalah
+Berdasarkan latar belakang, ada 3 rumusan masalah yang dibahas dalam
+penelitian ini, yaitu:
+1. Bagaimana menyelesaikan vehicle routing problem (VRP) dengan
+menggunakan firefly algorithm?
+2. Bagaimana membuat program dari firefly algorithm yang dapat
+digunakan untuk menyelesaikan vehicle routing problem (VRP) ?
+3. Bagaimana mengimplementasikan program tersebut pada contoh
+kasus?
+1.3 Tujuan
+Tujuan dari penelitian ini adalah:
+
+
+1. Menyelesaikan vehicle routing problem (VRP) dengan menggunakan
+firefly algorithm.
+2. Membuat program dari firefly algorithm yang dapat digunakan untuk
+menyelesaikan vehicle routing problem (VRP).
+3. Mengimplementasikan program pada contoh kasus.
+1.4 Manfaat
+Manfaat dari penelitian ini antara lain:
+1. Skripsi ini diharapkan dapat menambah wawasan tentang persoalan
+Riset Operasional khususnya untuk vehicle routing problem (VRP).
+2. Program komputer yang dibuat diharapkan mampu memberikan solusi
+dari vehicle routing problem.
+1.5 Batasan Masalah
+Untuk masalah pengoptimalan vehicle routing problem (VRP) digunakan
+firefly algorithm dengan batasan yaitu:
+a. Setiap kendaraan pengangkut mempunyai kapasitas muatan yang
+sama.
+b. Setiap kendaraan pengangkut mempunyai jarak tempuh maksimal
+yang sama.

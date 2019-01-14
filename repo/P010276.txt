@@ -1,0 +1,172 @@
+﻿Model Penentuan Jumlah Kapal dan Komposisinya untuk
+Short Sea Shipping Pulau Jawa
+
+
+Pendahuluan
+Kegiatan perekonomian Indonesia yang meliputi kegiatan produksi, distribusi, maupun konsumsi terpusat di Pulau Jawa. Kegiatan distribusi barang di Pulau Jawa sebagian besar dilakukan melalui jalur darat dengan menggunakan moda truk yang mencapai 80 – 90% dalam Izi [1]. Distribusi barang melalui jalur darat menggunakan jalur pantai utara (Pantura) sebagai jalur utama. Akibatnya, jalur Pantura mengalami kelebihan beban (overload), ke-macetan, polusi udara bahkan kecelakaaan lalu lintas. Kepadatan jalur Pantura menyebabkan biaya transportasi darat mahal dan tidak efisien. Ongkos operasional truk di Indonesia yang tinggi menyebab-kan biaya logistik mahal, yang pada akhirnya meng-hambat daya saing produk Indonesia di tingkat nasional maupun internasional. Salah satu cara mengatasi kepadatan jalur Pantura dengan cara mengalihkan sebagian muatan transportasi darat ke transportasi laut atau yang lebih dikenal dengan Short Sea Shipping (SSS).
+SSS adalah penggunaan kapal untuk memindahkan barang dan atau penumpang menuju dan dari suatu tujuan baik domestik maupun internasional. SSS tidak melewati samudra melainkan melewati garis pantai, sungai dan danau (Brooks et al., [2]). SSS telah diterapkan di negara-negara Uni Eropa, wila-yah utara Benua Amerika dan negara-negara di Asia seperti Jepang, Cina dan Korea (Grosso et al., [3], APEC dan Inha University [4]).
+
+
+Penerapan SSS memberikan manfaat dalam mengatasi masalah ekonomi, sosial dan lingkungan akibat pertumbuhan transportasi darat, kemacetan, kecelakaan serta polusi udara (APEC dan Inha University [4], Paixao dan Marlow [5], Douet dan Cappuccilli [6]).
+Masalah penentuan jumlah kapal dalam sistem transportasi maritim termasuk dalam kajian mari-time fleet size and mix problem (MFSMP). Penen-tuan jumlah kapal dan komposisinya merupakan perencanaan masalah strategis dalam transportasi maritim (Christiansen et al. [7]). MFSMP memiliki salah satu varian yang disebut dengan Maritime Fleet Size Problem (MFSP). MFSP berkaitan dengan penentuan jumlah kapal dengan armada kapal yang homogen. Kapal homogen merupakan kapal dengan karakteristik yang identik. Dantzig dan Fulkerson [8] merupakan pelopor dalam hal penentuan jumlah kapal yang optimal untuk masalah MFSP. Dantzig dan Fulkerson [8] melakukan penelitian yang memi-nimasi jumlah kapal tanker untuk memenuhi jad-wal yang tetap ini untuk menyelesaikan masalah pengangkutan 20 (dua puluh) kargo dengan pen-dekatan model transportasi.
+Penelitian lain dengan menggunakan jenis kapal homogen adalah dilakukan oleh peneliti Jaikumar dan Solomon [9]. Model matematis yang dibangun memiliki tujuan untuk meminimasi jumlah kapal tunda (tarik) yang mengabaikan waktu pelayanan di pelabuhan dan struktur geografi dari lokasi pela-buhan yang ada di sungai. Pelabuhan pertama dijadikan pelabuhan asal (home port). Model memi-liki fungsi tujuan yang meminimumkan jumlah kapal tarik. Model yang dikembangkan diselesaikan dengan algoritma polinomial. Sambracos et al. [10]
+
+
+meneliti tentang jumlah armada yang dibutuhkan untuk pelayanan angkutan barang jarak pendek. Penelitian ini berkaitan dengan perkenalan peng-gunaan kapal kontainer berukuran kecil untuk pelayaran di Laut Aegean, Yunani. Dua aspek yang dipertimbangkan dalam penelitian ini yaitu per-tama, model perencanaan strategis untuk menentu-kan jumlah kapal sejenis yang optimal di bawah batasan permintaan dan penawaran yang memini-mumkan biaya konsumsi bahan bakar dan biaya pelabuhan. Aspek kedua merupakan perencanaan operasional dengan menggunakan formula peren-canaan rute kendaraan untuk kebutuhan berkala pengangkutan barang dengan kontainer kecil. Solusi yang didapatkan adalah perencanaan ulang jaringan antar pulau dapat menghemat biaya sampai 5 %.
+Bendall dan Stent [11] membangun model pen-jadwalan untuk pelayanan kapal kontainer yang memiliki kecepatan tinggi yang diaplikasikan pada pelayaran pendek pada jaringan hub dan spoke. Singapura sebagai pelabuhan hub sedangkan pela-buhan spoke berjumlah enam di wilayah Asia Timur. Model matematis yang dibangun mem-punyai fungsi tujuan memaksimalkan profit yang diperoleh dari pendapatan dikurangi total biaya. Pendapatan diperoleh dari membawa muatan dari hub ke spoke dan sebaliknya. Total biaya meliputi biaya tetap kapal (jumlah kapal dan awak kapal), biaya operasional kapal, dan biaya membawa muatan. Variabel keputusan meliputi jumlah perjalanan kapal, jumlah kapal, jumlah muatan yang dibawa serta frekuensi kunjungan ke pelabuh-an. Solusi model diselesaikan dengan software stan-dar untuk pemrograman integer, kemudian dilan-jutkan dengan metode heuristik untuk membuat jadwal tiap kapal.
+Armada kendaraan yang dimiliki oleh suatu indus-tri jarang yang bersifat homogen. Pemilik armada biasanya menginginkan kendaraan yang berbeda (heterogen) untuk memenuhi kendala operasional serta kemampuan yang serba bisa. Kendaraan yang heterogen lebih fleksibel dan efektif biaya dalam menghadapi permintaan yang bervariasi (Hoff et al. [12]). Kontribusi berkaitan dengan masalah penen-tuan jumlah kapal dan komposisinya diberikan oleh Fagerholt dan Linstad [13] dan Cho dan Perakis [14]. Fagerholt dan linstad [13] mengembangkan algoritma untuk menentukan jumlah kapal yang berkaitan dengan jadwal mingguan. Langkah per-tama menentukan jumlah jadwal yang feasible kemudian langkah kedua kapal yang digunakan dan jadwal mingguan ditentukan dengan memecah-kan model programan integer.
+Fagerholt et al. [15] memberikan kontribusi dalam permasalahan perencanaan strategis pada pelayar-an industri dan tramp. Mereka membangun meto-dologi pendukung keputusan dengan menggunakan kerangka simulasi Monte Carlo untuk memecahkan persoalan routing dan penjawalan kapal jangka pendek. Metodologi menyediakan sistem pendukung keputusan untuk operator kapal di dalam menen-tukan jumlah kapal dan komposisinya dan untuk mengevaluasi kontrak pengangkutan. Perakis and Jaramillo [16] merekomendasikan model program linear untuk perencanaan armada kapal peru-sahaan liner Flota Mercante Grancolombiana (FMG) yang menghasilkan solusi total biaya operasional 12,6% lebih rendah dibandingkan dengan kondisi nyata.
+Sebagian besar kajian tentang MFSP dalam penentuan jumlah kapal menggunakan jumlah per-mintaan strategis dalam satu horison perencanaan tertentu. Menurut Pantuso et al. [17], pada kondisi ini permintaan aktual tidak diketahui secara pasti sehingga pada saat perencanaan di tingkat taktis, pengambil keputusan melakukan koreksi kembali terhadap jumlah kapal yang telah dihasilkan. Ketika jumlah kapal yang dihasilkan kurang dari permintaan aktual maka pengambil kebijakan dapat menyewa kapal tambahan. Sebaliknya jika jumlah kapal melebihi jumlah permintaan aktual, pengambil kebijakan dapat menyewakan ke pihak lain atau menjadikan kapal sebagai lay up ship (Pantuso et al., [17]).
+Berdasarkan uraian di atas, pada penelitian ini akan dikembangkan model matematis untuk menentukan jumlah kapal dan komposisinya dengan menggunakan jumlah permintaan operasional berupa jumlah muatan per jam. Model matematis yang dikembangkan akan memberikan kontribusi baik secara aplikatif maupun secara teoritis. Model secara aplikasi akan bermanfaat bagi beberapa pihak seperti pemerintah, pengusaha dan penyedia jasa logistik (carrier, shipping liners, operator pelabuhan), pelaku utama logistik seperti (pengirim) shipper, (penerima) consignee serta masyarakat umum. Model yang dikembangkan akan memberikan alternatif moda transportasi baru bagi pengangkutan barang di Pulau Jawa yang lebih efisien dan efektif. Secara teoritis, pengem-bangan model akan memberikan kontribusi pada permasalahan maritim khususnya MFSMP.
+Metode Penelitian
+Model matematis yang dibangun dalam penelitian ini secara sederhana akan menjawab pertanyaan berapa jumlah kapal harian dan komposisinya yang dibutuhkan untuk mengangkut sejumlah permin-taan (muatan) harian. Model juga akan menghasilkan waktu (jadwal) rilis kapal. Kapal Ro-Ro akan berlayar dengan rute tetap yaitu Tanjung Priok – Tanjung Emas – Tanjung Perak – Tanjung Emas – Tanjung Priok. Rute kapal dari Tanjung Priok – Tanjung Emas – Tanjung Perak dinamakan rute outbound, sedangkan rute sebaliknya dari Tanjung Perak – Tanjung Emas – Tanjung Priok dinamakan rute inbound. Tanjung Priok dalam model ini dijadikan pelabuhan asal (origin port/home port). Rute yang tetap menyebabkan SSS Pulau Jawa termasuk dalam kategori pelayaran liner. Kapal akan berlayar dari Tanjung Priok dengan membawa muatan berupa truk dengan tujuan Tanjung Emas dan Tanjung Perak. Sesampai di Tanjung Emas, kapal akan menurunkan truk tujuan Tanjung Emas dan menaikkan truk yang berasal dari Tanjung Emas dengan tujuan Tanjung Priok. Proses bongkar muat akan terjadi di semua pelabuhan yang dilewati kapal baik rute outbound maupun inbound. Struktur model MFSMP untuk SSS Pulau Jawa dilihat pada Gambar 1.
+Pada Gambar 1a. dapat dilihat bahwa terdapat tiga simpul yaitu simpul 1,2,3 yang merepresentasikan pelabuhan Tanjung Priok, Tanjung Emas dan Tanjung Perak. Busur merepresentasikan rute kapal sedangkan busur merepresentasikan alir-an muatan kapal dari pelabuhan ke pelabuhan . Busur adalah busur rute kapal arah outbound dari Tanjung Perak ke Tanjung Emas. Busur adalah busur muatan kapal dari Tanjung Perak ke Tanjung Emas rute inbound. Rute pada struktur model MFSMP untuk SSS yang terdapat pada Gambar 1 memiliki bentuk rute pendulum. Pada rute bentuk pendulum, pelabuhan yang berada di-antara pelabuhan asal dan pelabuhan akhir akan dilewati dua kali oleh kapal. Untuk memudahkan pembuatan formulasi matematis dilakukan konversi bentuk rute dari rute pendulum ke dalam bentuk rute garis dengan pemberian nomor simpul baru. Pada Gambar 1b, rute diberikan dengan nomor pelabuhan baru dengan menambahkan virtual port.
+
+
+
+
+Misalkan adalah himpunan pelabuhan rute outbond dan adalah himpunan pelabuhan rute inbound. akan memuat anggota himpunan simpul yang sebenarnya. Berdasarkan Gambar 1b, anggota himpunan adalah { } dan anggota himpunan adalah { }.
+Asumsi Model MFSMP SSS Pulau Jawa
+Beberapa asumsi untuk menyederhanakan per-masalahan dalam model MFSMP untuk SSS Pulau Jawa adalah sebagai berikut: (1) Jumlah muatan (permintaan) harian bersifat deterministik. (2) Jarak antar pelabuhan bersifat simetris. (3) Kapal yang digunakan bersifat heterogen namun dengan kecepatan yang sama. (4) Waktu berlabuh untuk proses bongkar muat dan waktu pandu kapal sama di tiap pelabuhan. (5) Pelabuhan beroperasi selama 7 hari dan 24 jam. (6) Tidak ada waktu mengantri kapal di pelabuhan.
+
+
+Indeks yang digunakan dalam model ini adalah:
+:
+indeks pelabuhan rute outbound
+:
+indeks pelabuhan rute inbound
+:
+indeks jenis kapal
+:
+indeks keberangkatan (rilis) kapal
+Notasi himpunan dalam penelitian ini adalah:
+:
+himpunan pelabuhan rute outbond,
+{ }
+:
+himpunan pelabuhan rute inbound,
+{ }
+:
+himpunan jenis kapal,
+{ }
+:
+himpunan kapal yang dirilis harian,
+{ }
+Notasi parameter yang digunakan dalam model ini adalah:
+:
+kapasitas kapal yang dirilis ke (truk)
+:
+jumlah muatan per jam dari pelabuhan ke pelabuhan rute outbound (truk/ jam)
+:
+jumlah muatan per jam dari pelabuhan ke pelabuhan rute inbound (truk/jam)
+:
+waktu layar dari pelabuhan ke pelabuh-an ( +1) kapal yang dirilis ke rute outbound (jam)
+:
+waktu layar dari pelabuhan ke pela-buhan ( +1) kapal yang dirilis ke ru-te inbound (jam)
+:
+waktu pandu kapal keluar pelabuhan (jam)
+:
+waktu pandu kapal masuk pelabuhan (jam)
+:
+biaya depresiasi kapal per unit per jam (Rupiah/unit/jam)
+:
+biaya berlayar kapal per unit (Rupiah/ unit)
+:
+biaya pelabuhan kapal per unit (Rupiah/unit)
+
+
+
+:
+waktu bongkar muat kapal (jam)
+:
+batas maksimum kapal yang dirilis hari-an (unit)
+:
+bilangan positif yang nilainya sangat besar
+Notasi variabel yang digunakan dalam model ini adalah:
+:
+waktu kedatangan kapal yang dirilis ke di pelabuhan rute outbound
+:
+waktu kedatangan kapal yang dirilis ke di pelabuhan rute inbound
+:
+waktu siklus kapal yang dirilis ke
+Notasi variabel yang digunakan dalam model ini adalah:
+:
+waktu keberangkatan kapal yang dirilis ke di pelabuhan rute outbound
+:
+waktu keberangkatan kapal yang dirilis ke di pelabuhan rute inbound
+:
+{
+:
+jumlah muatan dari pelabuhan ke pela-buhan yang diangkut oleh kapal yang dirilis ke rute outbound
+:
+jumlah muatan dari pelabuhan ke pela-buhan yang diangkut oleh kapal dirilis ke rute inbound
+Formulasi Model
+Model MFSMP dibangun dengan melakukan opti-misasi waktu keberangkatan kapal. Optimisasi waktu keberangkatan akan menentukan waktu kapal akan dirilis yang meminimumkan jumlah kapal yang dibutuhkan. Jika waktu rilis kapal saling berdekatan maka jumlah muatan yang dibawa oleh kapal yang kedua akan sedikit sehingga tidak memenuhi kapasitas kapal. Jika adalah waktu keberangkatan kapal yang dirilis di pela-buhan rute outbound, maka dari pelabuhan ke pelabuhan yang diangkut oleh kapal v yang dirilis pertama rute outbound ( ) dirumus-kan sebagai berikut:
+( ) (1)
+Rumus ini juga berlaku untuk menentukan jumlah muatan yang tersedia untuk diangkut oleh kapal yang dirilis pertama ketika berkayar rute inbound yaitu:
+( ) (2)
+Jumlah muatan yang tersedia untuk diangkut oleh kapal yang dirilis kedua, ketiga dan seterusnya mengikuti rumus (3) untuk rute outbound dan rumus (4) untuk rute inbound:
+( ) { } (3)
+( ) { } (4)
+Waktu keberangkatan kapal harus berurutan di tiap pelabuhan. Kapal kedua akan berangkat setelah kapal pertama. Begitu pula untuk kapal ketiga akan berangkat setelah kapal kedua dirilis. Pembatas urutan waktu keberangkatan kapal rute outbound terdapat pada persamaan (5) sedangkan pembatas urutan waktu keberangkatan kapal rute inbound terdapat pada persamaan (6).
+{ } (5)
+{ } (6)
+Muatan yang dibawa oleh kapal tidak boleh melebihi kapasitas kapal baik untuk rute outbound (persamaan 7 ) maupun inbound (persamaan 8).
+ΣΣ { } (7)
+ΣΣ { } (8)
+Semua muatan harian yang ada di tiap pelabuhan akan dibawa oleh semua kapal yang dirilis di pela-buhan tersebut. Persamaan (9) akan menjamin bahwa jumlah muatan yang dibawa oleh semua kapal yang dirilis harian sama dengan jumlah permintaan harian rute outbound. Pembatas (10) akan menjamin bahwa jumlah muatan yang dibawa oleh semua kapal yang dirilis harian sama dengan jumlah permintaan harian rute inbound.
+Σ { }
+(9)
+Σ { } (10)
+Waktu keberangkatan kapal di tiap pelabuhan me-rupakan waktu kedatangan kapal ditambah dengan waktu bongkar muat kapal. Persamaan (11) me-rupakan waktu keberangkatan kapal rute outbound sedangkan persamaan (12) adalah waktu keberang-katan kapal rute inbound.
+{ } (11)
+{ } (12)
+Kapal berangkat dari pelabuhan akan berlayar menuju pelabuhan dimana . Kapal akan menerima jasa pandu keluar pelabuhan dan akan menerima jasa pandu masuk pelabuhan . Waktu kedatangan kapal di pelabuhan adalah penjumlahan dari waktu keberangkatan kapal dengan waktu berlayar kapal, waktu pandu keluar dan waktu pandu masuk . Untuk rute out- bound, waktu kedatangan kapal dirumuskan pada persamaan (13) sedangkan waktu kedatangan kapal rute inbound dirumuskan pada persamaan (14).
+{ } (13)
+{ } (14)
+Jumlah kapal yang dirilis harian memiliki nilai maksimum yang dipengaruhi oleh waktu bongkar muat kapal dan waktu pandu kapal, sehingga dirumuskan sebagai berikut:
+(15)
+Adanya batasan jumlah permintaan harian dan kapasitas kapal menyebabkan jumlah kapal yang dirilis harian tidak sampai pada batas maksimum. Penentuan kapal v yang dirilis ke r dipilih dengan menggunakan bilangan positif M. Jika suatu kapal yang dirilis bermuatan (tidak nol) maka secara otomatis kapal tersebut akan dipilih ( ), sebaliknya jika suatu kapal tidak bermuatan maka kapal tersebut tidak terpilih ( ). Penentuan kapal yang terpilih untuk dirilis mengikuti per-samaan (16) .
+ΣΣ ΣΣ (16)
+Kapal yang dirilis ke yang terpilih harus ber-urutan. Kapal v yang dirilis kedua akan berangkat setelah kapal v pertama berangkat.
+{ } (17)
+Model matematis yang dibangun bertujuan untuk menentukan kapal dan komposisinya. Kapal yang dipilih tentu saja kapal yang memiliki biaya operasional yang rendah. Oleh karena itu, fungsi tujuan dari model ini adalah meminimumkan biaya operasional kapal per siklus waktu. Waktu siklus adalah waktu yang dibutuhkan kapal dari pelabuh-an asal kembali ke pelabuhan asal. Biaya opera-sional kapal terdiri dari biaya depresiasi kapal , biaya berlayar kapal dan biaya pelabuhan yang diformulasikan seperti pada persamaan (18).
+ΣΣ (18)
+dimana adalah waktu siklus kapal yang dirilis ke yang dirumuskan pada persamaan (19).
+Σ
+(19)
+Secara lengkap model MFSMP untuk SSS Pulau Jawa adalah sebagai berikut:
+ΣΣ
+dengan pembatas:
+persamaan , (16), (17)
+(20)
+dan intege (21)
+(22)
+(23)
+Hasil dan Pembahasan
+Uji coba model dilakukan terhadap tiga jenis kapal Ro-Ro yaitu kapal Ro-Ro A, B dan C. Data jumlah permintaan operasional berupa data jumlah muatan kapal/ jam. Data tersebut diperoleh dari data jumlah muatan transportasi darat di ketiga kota besar di Pulau Jawa yang awalnya dalam satuan ton dikonversi kedalam satuan truk. Data muatan transportasi darat dalam satuan truk diramalkan dan untuk Tahun 2016 diperoleh data seperti pada Tabel 1. Data pada Tabel 1 merupakan data para-meter jumlah muatan per jam dari pelabuhan asal ke pelabuhan tujuan baik untuk arah outbound ( ) maupun inbound ( ).
+Data parameter kapal yang lain meliputi waktu bongkar muat kapal = 4 jam, jumlah maksimum kapal yang dirilis harian = 4 unit, waktu pandu masuk pelabuhan = 1 jam, waktu pandu keluar pelabuhan = 1 jam, waktu berlayar kapal dari Tanjung Priok – Tanjung Emas atau sebaliknya = 16 jam, dan waktu berlayar kapal dari Tanjung Emas – Tanjung Perak atau sebaliknya = 10 jam. Data parameter diatas berlaku untuk ketiga jenis kapal Ro-Ro. Data parameter lain yang spesifik untuk kapal A, B dan C terdapat pada Tabel 2.
+Biaya berlayar dan biaya pelabuhan yang terdapat pada Tabel 2 merupakan biaya yang dihitung per satu siklus layar. Kapal berlayar dari titik asal (Tanjung Priok) kembali ke titik asal (Tanjung Priok) dinamakan satu siklus layar. Hasil uji coba model MFSMP untuk operasional SSS Pulau Jawa dengan perangkat lunak Lingo 12.0 versi extended didapatkan bahwa model matematis berbentuk Integer Non Linier Programming (INLP).
+
+
+
+
+
+Kapal yang terpilih untuk operasional harian SSS Pulau Jawa adalah kapal B dan kapal C. Kapal B akan diberangkatkan (dirilis) pertama sedang-kan kapal C akan dirilis kedua. Total biaya operasional per siklus untuk kedua kapal ada-lah Rp 1.106.701.000,00. Output model Lingo juga menghasilkan jadwal waktu kedatangan dan keberangkatan kapal yang dapat dilihat pada Tabel 3.
+Validasi Model
+Untuk membuktikan bahwa model yang dibangun valid, diambil contoh hasil pada Tabel 3 di Tanjung Priok (1). Kapal akan dirilis sebanyak 2 yaitu kapal B pada pukul 00:00 dan berangkat pukul 04:00 dan kapal C pada pukul 12:00 serta berangkat pukul 16:00. Hal ini berarti truk yang datang antara pukul 16:00 – 04:00 akan diangkut oleh kapal B. Truk yang datang antara pukul 04:00 – 16:00 akan diangkut oleh kapal C. Truk yang bertujuan ke Tanjung Emas akan datang dengan kecepatan 4 truk/jam (jumlah muatan/jam) dan truk yang ber-tujuan ke Tanjung Perak akan datang juga dengan kecepatan 4 truk/jam. Selama 12 jam (16:00 – 04:00), jumlah truk yang datang ke Tanjung Priok dengan tujuan ke Tanjung Priok adalah 4 x 12 = 48 truk dan jumlah truk yang bertujuan ke Tanjung Perak adalah 4 x 12 = 48 truk. Jumlah truk yang diangkut oleh kapal B adalah 48 + 48 = 96 truk. Jumlah truk yang diangkut masih dibawah kapa-sitas kapal B sebesar 101 truk. Hal ini juga berlaku untuk kapal C. Jumlah truk yang akan diangkut oleh kapal C selama 12 jam (04:00 – 16:00) adalah 48 truk tujuan Tanjung Emas (4 truk.jam x 12 jam) dan 48 truk tujuan Tanjung Perak (4 truk.jam x 12 jam). Total 96 truk yang akan dibawa oleh kapal C dimana jumlah ini masih dibawah kapasitas kapal C (116 truk).
+Tabel 3 menunjukkan bahwa variabel keputusan untuk kapal yang dirilis harian adalah kapal B sedangkan kapal yang dirilis kedua adalah kapal C. Hal ini berarti bahwa untuk memenuhi permintaan harian cukup dipenuhi dengan dua unit kapal. Variabel keputusan berupa waktu keberangkatan kapal rute outbound dan waktu keberang-katan kapal rute inbound dalam Tabel 3 ditunjukkan oleh waktu berangkat. Variabel ke-putusan berupa jumlah muatan yang diangkut dari pelabuhan asal ke pelabuhan tujuan rute outbound ( ) dan jumlah muatan yang diangkut dari pelabuhan asal ke pelabuhan tujuan rute inbound pada Tabel 3 ditunjukkan oleh jumlah muatan kapal.
+Kapal B akan dirilis di Pelabuhan Tanjung Priok pada hari pertama pukul 00:00. Kapal B akan mengangkut muatan sebanyak 96 truk yang terdiri dari 48 truk tujuan Tanjung Emas dan 48 truk tujuan Tanjung Priok. Pengangkutan muatan se-besar 96 truk menggunakan utilitas kapasitas kapal B sebesar 95%. Jika ada peningkatan muatan di Pelabuhan Tanjung Priok melebihi 5% maka kapa-sitas kapal B sudah tidak memadai lagi. Setelah melakukan proses bongkar muat selama 4 jam maka pada pukul 04:00 kapal B akan diberangkat-kan menuju Tanjung Emas. Kapal B akan sampai di Tanjung Emas pada pukul 20:00. Kapal B akan menurunkan muatan truk dengan tujuan Tanjung Emas sebanyak 48 truk. Kemudian kapal B menaik-kan 24 truk yang berasal dari Tanjung Emas dengan tujuan Tanjung Perak. Kapal B membawa muatan 72 truk ketika berlayar menuju Tanjung Perak. Utilitas kapasitas kapal B pada saat berlayar ke Tanjung Perak sebesar 71%. Hal ini disebabkan jumlah permintaan dari pelabuhan Tanjung Emas ke Tanjung Perak lebih kecil.
+Kapal B tiba di Tanjung Perak pada hari ke-2 pukul 10:00. Kapal B akan menurunkan semua muatan di pelabuhan ini baik muatan yang berasal dari Tanjung Priok maupun yang berasal dari Tanjung Emas. Kapal B telah melakukan pelayaran rute outbound Tanjung Priok – Tanjung Emas – Tanjung Perak. Kapal B kemudian berbalik arah menuju Tanjung Emas dan dilanjutkan ke Tanjung Priok (rute inbound). Kapal B akan membawa muatan dari Tanjung Perak sebanyak 60 truk yang terdiri 24 truk tujuan Tanjung Emas dan 36 truk tujuan Tanjung Priok. Kapal B berlayar menuju Tanjung Emas dan sampai pada pukul 00:00 hari ke-3.
+Setelah melakukan proses bongkar muat di Tanjung Emas, kapal B meneruskan pelayaran menuju Tanjung Priok. Kapal B akan datang kembali ke Tanjung Priok pada hari ke-3 pukul 20:00.
+Kapal C akan dirilis di Pelabuhan Tanjung Priok pada hari pertama pukul 12:00. Kapal C akan mengangkut muatan sebanyak 96 truk yang terdiri dari 48 truk tujuan Tanjung Emas dan 48 truk tujuan Tanjung Priok. Setelah melakukan proses pengangkutan muatan selama 4 jam, kapal C akan diberangkatkan menuju Tanjung Emas pada pukul 16:00. Kapal C sampai di Tanjung Emas pada hari ke-2 pukul 08:00. Kapal C akan menurunkan 48 truk tujuan Tanjung Emas dan akan menaikkan 24 truk tujuan Tanjung Perak. Kapal C akan berang-kat berlayar menuju Tanjung Perak pada pukul 12:00 hari ke-2. Kapal C akan mengangkut se-banyak 72 truk menuju Tanjung Perak.
+Kapal C akan sampai di Tanjung Perak pada hari ke-2 pukul 22:00. Kapal C akan menurunkan semua muatan baik dari Tanjung Priok maupun yang berasal dari Tanjung Emas. Kemudian kapal C akan melakukan pelayaran kembali menuju Tanjung Emas dan dilanjutkan ke Tanjung Priok. Setelah melakukan proses bongkar muat di Tanjung Emas, kapal C meneruskan pelayaran menuju Tanjung Priok. Kapal C akan datang kembali ke Tanjung Priok pada hari ke-4 pukul 08:00. Kapal B dan kapal C yang dirilis pada hari pertama di Tanjung Priok akan datang kembali di Tanjung Priok pada hari ketiga dan keempat. Sehingga pada hari ke-2 dan ke-3 di Tanjung Priok perlu dirilis 2 unit kapal baru (B dan C) untuk melakukan proses SSS. Untuk hari ke-4, kapal B dan C yang dirilis hari pertama dapat digunakan kembali pada hari ke-4 proses SSS dan begitu seterusnya. Sehingga total kapal yang dibutuhkan untuk melakukan proses SSS Pulau Jawa sebanyak 6 unit (3 unit kapal B dan 3 unit kapal C).
+Analisis Sensitivitas
+Analisis sensitivitas analisis yang berkaitan dengan perubahan nilai parameter untuk melihat seberapa besar perubahan dapat ditolerir sebelum solusi optimum kehilangan optimalitasnya. Hasil analisis sensitivitas perubahan parameter jumlah muatan kapal/jam terdapat pada Tabel 4.
+
+
+
+Berdasarkan hasil analisis sensitivitas pada Tabel 4, ketika jumlah muatan kapal/jam turun sebesar 50 % (sebagai contoh jumlah muatan kapal/jam dari Tanjung Priok ke Tanjung Emas awalnya 4 truk/ jam menjadi 2 truk/jam), jumlah kapal harian yang dibutuhkan hanya 1 unit kapal yaitu kapal B yang terpilih. Kapal B terpilih karena memberikan nilai TC minimum sebesar Rp 555.374.000,00. Jumlah kapal keseluruhan untuk proses SSS sebanyak 3 unit kapal B. Ketika jumlah muatan kapal per jam mengalami kenaikan sebesar 50% maka jumlah kapal harian yang dibutuhkan sebanyak 3 unit (2 unit kapal B dan 1 unit kapal C). Total kapal kese-luruhan yang dibutuhkan adalah 9 unit. Sedangkan jika jumlah muatan kapal per jam mengalami kenaikan sebesar 100% maka kapal harian yang dibutuhkan sebesar 4 kapal (2 unit kapal B dan 2 unit kapal C) dan total kapal keseluruhan kapal untuk proses SSS sebanyak 12 unit. Perubahan nilai parameter jumlah muatan kapal per jam menye-babkan solusi optimum berubah sehingga dapat dikatakan bahwa parameter jumlah muatan kapal per jam dikatakan sensitif.
+Jika nilai parameter biaya depresiasi kapal, biaya berlayar kapal dan biaya pelabuhan mengalami kenaikan atau penurunan secara proporsional maka nilai parameter biaya-biaya tersebut pada semua kapal akan berubah secara proporsional juga. Sebagai contoh jika biaya berlayar kapal naik 50% maka kenaikan akan berlaku untuk ketiga kapal. Perubahan nilai parameter biaya depresiasi, ber-layar dan pelabuhan yang diuji coba pada model matematis menghasilkan solusi optimum yang tidak berubah. Perubahan nilai parameter pada biaya operasional tidak akan menyebabkan solusi opti-mum berubah sehingga dapat dikatakan bahwa parameter biaya depresiasi kapal, biaya berlayar kapal dan biaya pelabuhan dikatakan tidak sensitif.
+Simpulan
+Model MFMSP untuk operasional SSS pulau Jawa yang dikembangkan berhasil digunakan untuk menentukan jumlah kapal dan komposisinya. Model matematis yang dikembangkan berupa Integer Non Linear Programming (INLP). Berdasar-kan data permintaan (jumlah muatan) didapatkan bahwa jumlah kapal operasional yang dibutuhkan untuk proses SSS Pulau Jawa sebanyak 6 unit kapal yang terdiri dari 3 unit kapal B dan 3 unit kapal C. Jumlah dan komposisi kapal ini mampu meminimumkan biaya operasional kapal sebesar 1.106.701.000,00. Hasil sensistivitas menunjukkan bahwa parameter jumlah muatan kapal per jam merupakan parameter yang sensitive sedangkan parameter biaya depresiasi, baiya berlayar dan biaya pelabuhan merupakan parameter yang tidak sensitif. Saran - saran yang dapat diberikan untuk pengembangan model penelitian selanjutnya adalah dengan merubah salah satu atau beberapa asumsi model penelitian seperti data jumlah muatan (permintaan) menjadi probabilistik, memperhitung-kan perawatan kapal, dan sebagainya.

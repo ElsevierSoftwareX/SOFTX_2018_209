@@ -1,0 +1,149 @@
+Dalam perangkat elektronik sensor merupakan sebuah divais yang sering
+digunakan untuk mengetahui suatu keadaan fisik di lingkungan. Dengan
+menggunakan teknologi jaringan telekomunikasi perkembangan sensor mengarah
+kepada pembentukan jaringan sensor nirkabel (JSN). Dalam pembuatan rancang
+bangun JSN berbasis zigbee untuk pemantauan suhu dan kelembaban dibagi
+menjadi tiga bagian utama yaitu nodal sensor, nodal koordinator dan antar muka
+pemantauan sistem beserta data logger. Nodal sensor akan mengirimkan data suhu
+dan kelembaban menuju nodal koordinator. Nodal koordinator menerima data
+tersebut dan meneruskannya ke komputer server untuk diolah sebagai antar muka
+pemantauan sistem JSN dengan menggunakan perangkat lunak LabVIEW. Sensor
+suhu yang digunakan yaitu LM35DZ dengan persentase kesalahannya adalah
+0,86%, sensor kelembaban yang digunakan yaitu DHT11 dengan persentase
+kesalahannya adalah 2,36%. Pada sistem yang dibangun dapat mendukung
+jaringan komunikasi dengan topologi peer to peer, star dan mesh. Pengiriman
+data dapat berjalan dengan baik hingga jarak 100 meter untuk setiap nodal dengan
+persentase paket loss sebesar 0%. Data hasil pemantauan suhu dan kelembaban
+dapat disimpan secara otomatis sebagai data logger dengan format data (.txt).
+Kata kunci : jaringan sensor nirkabel, sensor, suhu, kelembaban, paket loss
+
+
+
+I. PENDAHULUAN
+1.1. Latar Belakang
+Dalam perangkat elektronik sensor merupakan sebuah divais yang sering
+digunakan untuk mengetahui suatu keadaan fisik di lingkungan tempat sensor
+tersebut diposisikan. Dengan menggunakan teknologi jaringan telekomunikasi
+perkembangan sensor mengarah kepada pembentukan jaringan sensor nirkabel.
+Jaringan Sensor Nirkabel (JSN) merupakan kesatuan perangkat sensor untuk
+mengumpulkan data dari alam yang terdiri atas beberapa sensor (nodal sensor)
+yang tersebar pada koordinat-koordinat tertentu atau tersebar pada koordinat
+acak serta mengirimkannya kepada administrator (nodal koordinator), sehingga
+administrator jaringan dapat menganalisa data yang diperoleh dan melakukan
+pemantauan objek yang diinginkan [1].
+
+Dalam perkembangan teknologi JSN terdapat permasalahan yang muncul
+bilamana kondisi lingkungan tidak mendukung adanya transmisi informasi secara
+langsung, misalnya karena faktor jarak ataupun adanya suatu penghalang.
+Berdasarkan permasalahan tersebut dikembangkan komunikasi mulithop pada
+sensor (nodal sensor), sehingga dapat melakukan komunikasi secara tidak
+langsung dan data tetap dapat diterima oleh administrator (nodal koordinator).
+
+Pada tugas akhir ini dilakukan rancang bangun jaringan sensor nirkabel berbasis
+ZigBee dengan menggunakan XBee S2 sebagai perangkat telemetrinya. Jaringan
+sensor nirkabel sangat diperlukan dalam dunia teknologi saat ini dengan berbagai
+kelebihannya, misalnya jaringan komunikasinya tanpa menggunakan kabel
+(wireless) sehingga lebih efesien. Selain itu jaringan ZigBee sudah didukung
+dengan komunikasi mesh yang mendukung jaringan komukasi multihop yang
+dapat melakukan komunikasi secara tidak langsung.
+Sensor yang digunakan dalam penelitian ini yaitu DHT11 dan LM35DZ, kedua
+sensor ini merupakan suatu divais yang dapat mendeteksi jenis perubahan fisik
+yaitu suhu dan kelembaban. Sensor DHT11 dan LM35DZ sudah sering digunakan
+pada berbagai keperluan pemantauan, sehingga divais ini sangat cocok digunakan
+untuk mendeteksi perubahan suhu dan kelembaban yang terjadi pada lingkungan
+yang ingin dipantau.
+
+Untuk kontrol pengendalinya digunakan perangkat elektronik yaitu modul
+Arduino Uno dengan mikrokontrolernya yaitu ATmega 328 sebagai pusat
+pengolahan data sensor sebelum data dikirim melalui XBee S2 maupun setelah
+data diterima oleh XBee S2, sehingga data dapat dipantau secara langsung
+maupun sebagai data logger pemantauan suhu dan kelembaban yang dapat
+disimpan pada komputer. Mikrokontroler ATmega 238 mempunya resolusi untuk
+pengukuran sensor sampai 10bit (210), sehingga sampling pada mikrokontroler
+ATmega 328 untuk pembacaan sensor analog hingga 1024.
+
+Hal yang mendasari untuk melakukan penelitian ini yaitu rancang bangun jaringan
+sensor nirkabel untuk merealisasikan hasil simulasi dari penelitian sebelumnya
+yang hanya dilakukan simulasi dengan menggunakan software.
+Penelitian yang berkaitan dapat dilihat pada Tabel 1.1 berikut ini:
+Tabel 1.1 Tabel Penelitian
+No Nama NPM Tahun Judul Penelitian
+1. Fadil Hamdani 0515031047 2010
+Pemodelan dan Simulasi
+Jaringan Sensor Nirkabel
+Micaz Mote berdasarkan
+Standar IEEE 802.15.4
+2. Fajar Ahmad
+Dewanto 0615031077 2011
+Simulasi Pengaruh Posisi
+Nodal Sensor terhadap QoS
+Jaringan Sensor Nirkabel
+Micaz Mote dengan Network
+Simulator 2
+
+1.2. Tujuan Penelitian
+Tujuan dari pembuatan tugas akhir ini adalah sebagai berikut:
+1. Membuat rancang bangun jaringan sensor nirkabel untuk pemantauan suhu
+dan kelembaban lingkungan.
+2. Membuat antarmuka pemantauan sistem JSN untuk pemantauan suhu dan
+kelembaban lingkungan.
+3. Membuat data logger hasil pemantauan suhu dan kelembaban pada
+komputer server.
+
+1.3. Manfaat Penelitian
+Manfaat yang diharapkan dari penelitian ini adalah :
+1. Dapat diperoleh suatu sistem jaringan sensor nirkabel untuk pemantauan
+suhu dan kelembaban pada lingkungan.
+2. Sistem jaringan sensor nirkabel ini dapat diterapkan pada sistem lain
+dengan mengubah data atau sensor yang digunakan.
+3. Data logger hasil pemantauan sistem JSN dapat digunakan sebagai acuan
+suhu dan kelembaban pada lingkungan tersebut.
+
+1.4. Rumusan Masalah
+Rumusan masalah dalam penelitian ini adalah sebagai berikut:
+1. Bagaimana mengkonfigurasi telemetri XBee S2 agar dapat melakukan
+komunikasi antar XBee S2.
+2. Bagaimana memprogram ATmega 238 agar dapat membaca suhu dan
+kelembaban yang selanjutnya dapat dikirimkan melalui XBee S2.
+3. Bagaimana membuat antarmuka pemantauan dan data logger hasil
+pemantauan suhu dan kelembaban pada komputer server.
+4. Bagaimana membuat antarmuka pemantauan sistem JSN.
+
+1.5. Batasan Masalah
+Dalam penelitian ini menitikberatkan pada proses rancang bangun sistem jaringan
+sensor nirkabel untuk pemantauan suhu dan kelembaban berbasis ZigBee dengan
+menggunakan perangkat XBee S2 sebagai telemetrinya dan sistem dapat
+memantau kondisi suhu dan kelembaban dengan baik.
+
+Adapun batasan masalah dalam penelitian ini adalah:
+1. Membahas secara khusus rancang bangun atau pembuatan sistem jaringan
+sensor nirkabel berbasis ZigBee menggunakan modul Arduino Uno.
+2. Sistem dikhususkan untuk memantau dua data saja yaitu suhu dan
+kelembaban pada lingkungan.
+3. Tidak membahas secara terperinci kinerja dari jaringan komunikasi yang
+terjadi pada sistem.
+4. Komunikasi telemetri XBee S2 dilakukan dengan tanpa halangan (LOS).
+
+
+1.6. Sistematika Penulisan
+Sistematika penulisan laporan tugas akhir ini adalah sebagai berikut:
+BAB I PENDAHULUAN
+Memuat latar belakang masalah, tujuan penelitian, manfaat penelitian,
+rumusan masalah, batasan masalah, dan sistematika penulisan.
+BAB II TINJAUAN PUSTAKA
+Membahas tentang teori-teori dasar yang mendukung penelitin ini, seperti
+pengetian jaringan sensor nirkabel, jenis komunikasi data, topologi
+jaringan, protokol ZigBee, penjelasan XBee S2 sebagai telemetri sistem
+JSN, penjelasan modul Arduino Uno dan pemrogramannya, serta jenis
+sensor yang digunakan pada penelitian ini.
+6
+BAB III METODE PENELITIAN
+Memuat langkah-langkah penelitian yang dilakukan yaitu alat dan bahan,
+spesifikasi alat, tahapan penelitian, perancangan sistem JSN, pembuatan
+perangkat nodal koordinator dan nodal sensor, serta pengujian alat.
+BAB IV HASIL DAN ANALISIS
+Membahas tentang prinsip kerja sistem JSN, hasil pengujian dan analisis
+terhadap kinerja sistem yang telah dirancang.
+BAB V KESIMPULAN DAN SARAN
+Memuat tentang kesimpulan yang didapat dan saran tentang penelitian
+yang telah dilakukan.

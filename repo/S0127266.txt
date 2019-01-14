@@ -1,0 +1,303 @@
+﻿EFISIENSI BANK PEMBANGUNAN DAERAH:
+PENDEKATAN STOCHASTIC FRONTIER
+
+Abstrak.
+Penelitian ini bertujuan untuk mengetahui dan menganalisis tingkat efisiensi BPD syariah di Indonesia (studi pada 15 BPD syariah tahun 2008-2012). Metode analisis yang digunakan dalam penelitian ini adalah metode Stochastic Frontier Analysis (SFA), dimana variabel yang digunakan terdiri dari input (beban personalia, beban administrasi umum dan beban lain-lain) dan variabel ouput SFA (pendapatan operasional). Hasil efisiensi rata-rata 15 BPD Syariah pada tahun 2008-2012 dengan menggunakan metode parametrik (SFA) sebesar 53.21 persen dan tidak terdapat BPD Syariah yang mencapai efisien (100 persen). Bank Syariah yang paling mendekati nilai efisiensi adalah BPD Kalimantan Barat Syariah yaitu 90.42 persen dan BPD yang paling tidak efisien adalah BPD syariah Sumatera Barat. Kemudian hasil efisiensi rata-rata 15 BPD Syariah pada tahun 2008-2012 terus mengalami kenaikan. Pada tahun 2008 rata-rata dari 15 BPD syariah yaitu 33.57 persen dan pada tahun 2012 mencapai 71.81 persen.
+Kata Kunci: Efisiensi; Bank Pembangunan Daerah Syariah; SFA
+
+PENDAHULUAN
+Perkembangan industri keuangan syariah di Indonesia mengalami kemajuan pesat. Hal ini terbukti dengan diubahnya UU No. 7 Tahun 1992 menjadi UU No.10 Tahun 1998 tentang Bank Indonesia. Selain itu, pemerintah juga telah mengeluarkan regulasi terbaru yang mengatur secara khusus mengenai perbankan syariah melalui UU No. 21 Tahun 2008. Pemerintah melakukan langkah - langkah strategis dalam pengembangan perbankan syariah yaitu dengan pemberian izin kepada bank umum konvensional untuk membuka kantor cabang Unit Usaha Syariah (UUS) atau konversi dari sebuah bank konvensional menjadi bank syariah (Pratikto dan Iis, 2011).
+Industri perbankan memegang peranan yang sangat penting bagi perekonomian Indonesia. Bank merupakan lembaga keuangan terpenting dan sangat mempengaruhi perekonomian baik secara mikro maupun makro. Hal ini terjadi karena fungsi utama dari perbankan yaitu sebagai lembaga intermediasi antara pihak yang kelebihan dana dengan pihak yang kekurangan dan atau membutuhkan dana. Semakin banyaknya jumlah bank syariah yang beroperasi khususnya dalam bentuk Bank Umum Syariah (BUS) dan Unit Usaha Syariah (UUS) di Indonesia dengan berbagai bentuk produk dan pelayanan yang diberikan dapat menimbulkan permasalahan di masyarakat. Dengan kondisi seperti ini, maka penilaian efisiensi bank menjadi sangat penting, karena efisiensi merupakan gambaran kinerja suatu perusahaan sekaligus menjadi faktor yang harusdiperhatikan bank untuk bertindak rasional dalam meminimumkan tingkat risiko yang dihadapi dalam menghadapi kegiatan operasinya. Analisis mengenai efisiensi menjadi sangat penting karena penghimpunan dan penyaluran pembiayaan yang ekspansif tanpa memperhatikan faktor efisiensi akan berpengaruh terhadap profitabilitas bank yang bersangkutan (Muharam dan Purvitasari, 2007).
+Bank Pembangunan Daerah (BPD) yang merupakan bagian dari industri perbankan nasional juga harus menunjukkan kinerja efisiensi yang optimal dalam rangka mendukung sepenuhnya pembiayaan pembangunan daerah (Abidin, 2009). Menurut Undang-Undang No. 13 Tahun 1962, Bank Pembangunan Daerah (BPD) adalah bank yang didirikan di Daerah Swatantra Tingkat I yang dimaksudkan untuk menyediakan pembiayaan bagi pelaksanaan usaha-usaha pembangunan daerah dalam rangka Pembangunan Nasional Semesta Berencana. Di Indonesia terdapat 26 BPD yang terdaftar dalam Bank Indonesia. Bank Pembangunan Daerah (BPD) syariah merupakan Unit Usaha Syariah (UUS) dari BPD. BPD merupakan bank milik pemerintah masing-masing daerah (Pemda). BPD juga menjadi bagian penting dalam usaha memajukan perekonomian di Indonesia. Unit Usaha Syariah (UUS) sebagai bagian dari BPD harus menunjukkan kinerja efisiensi yang optimal dalam rangka mendukung sepenuhnya pembiayaan pembangunan daerah. Unit Usaha Syariah (UUS) yang dibentuk dari BPD menurut data dari Bank Indonesia (BI) terdapat 16 BPD syariah yang tersebar di seluruh wilayah Indonesia.
+Bank Pembangunan Daerah (BPD) syariah seluruh Indonesia selama lima tahun terakhir menunjukan perkembangan yang pesat, terutama jika dilihat dari perkembangan asetnya. Perkembangan tersebut dapat dilihat dari total aktiva yang berhasil dibukukan oleh BPD syariah seluruh Indonesia. Per Desember 2012, aset BPD syariah telah mencapai Rp 15,571 triliun, atau meningkat sebesar 37.01 persen, dibandingkan posisi Desember 2011 yang mencapai Rp 11,359 triliun. Selama lima tahun terakhir ini aset BPD Syariah telah meningkat signifikan jika dibandingkan posisi Desember 2008 yang mencapai Rp 3,551 triliun. Kekuatan aset BPD syariah seluruh Indonesia ini menunjukkan, bahwa apabila BPD syariah seluruh Indonesia bersinergi akan menjadi potensi kekuatan yang solid dalam kancah persaingan industri perbankan nasional, serta dapat memberikan kontribusi yang lebih optimal bagi perekonomian nasional, khususnya di daerah.
+Efisiensi dalam dunia perbankan adalah salah satu parameter kinerja yang cukup populer, banyak digunakan karena merupakan jawaban atas kesulitan-kesulitan dalam menghitung ukuran-ukuran kinerja, bagaimana mendapatkan tingkat output yang optimal dengan tingkat input yang ada, atau mendapatkan tingkat input yang minimum dengan tingkat output tertentu. Indikator efisiensi dapat dilihat dengan memperhatikan besarnya rasio beban operasional terhadap pendapatan operasional (BOPO) dan rasio Non Performing Financing (NPF). Kinerja perbankan dapat dikatakan efisiensi apabila rasio BOPO dan NPF mengalami penurunan. Selain itu efisiensi juga dapat dilihat dengan memperhatikan pertumbuhan tingkat indikator kinerja bank seperti jumlah simpanan, pembiayaan, dan total aktiva. Semakin besar jumlah simpanan, pembiayaan, dan total aktiva menunjukan semakin baik dan produktif bank dalam kegiatan operasinya (Gumilar dan Komariah, 2011).
+Peter Drucker, dalam Hanafi (1999), menyatakan bahwa efisiensi adalah kemampuan menggunakan sumber daya yang tidak perlu. Efisiensi akan lebih jelas jika dikaitkan dengan konsep perbandingan output-input. Output merupakan hasil suatu organisasi, dan input merupakan sumber daya yang digunakan untuk menghasilkan output tersebut. Dalam kasus perusahaan yang bergerak di bidang perbankan, efisiensi operasi dilakukan untuk mengetahui apakah bank dalam operasinya yang berhubungan usaha pokok bank, dilakukan dengan benar dalam arti sesuai yang diharapkan manajemen dan pemegang saham. Efisiensi operasi juga berpengaruh terhadap kinerja bank, yaitu untuk menunjukkan apakah bank telah menggunakan semua faktor produksinya dengan tepat guna.
+Dalam mengukur tingkat efisiensi, terdapat 2 pendekatan. Pertama, melalui pendekatan parametric diantaranya Stochastic Frontier Approach (SFA), Thick Frontier Approach (TFA), dan Distribution Free Approach (DFA). Kedua, melalui pendekatan non parametric diantaranya Data Envelopment Analysis (DEA) dan Free Disposible Hull. (Berger dan Humphrey, 1997). Selain itu menurut Piesse (2000), Habib dan Alexander (2000), Muhammad (2004) pengukuran efisiensi perbankan dapat dilakukan dengan 3 pendekatan lainnya yaitu : Data Envelopment Analysis (DEA), Stochastic Frontier Approach (SFA), dan Distribution Free Approach (DFA).
+Beberapa penelitian tentang efisiensi perbankan syariah dan BPD telah dilakukan sebelumnya antara lain oleh Pramuka (2011) dan Abidin dan Endri (2009). Pertama, penelitian yang dilakukan oleh Pramuka (2011) ini meneliti efisiensi laba bank syariah di Indonesia. Stochastic Frontier Approach (SFA) digunakan untuk mengevaluasi data bulanan yang dirilis oleh bank syariah dan unit usaha bank-bank syariah di Indonesia. Dalam metode ini, keuntungan adalah fungsi dari input dan output. Pertama, ia menyediakan patokan tunggal terhadap yang kita dapat untuk mengukur kinerja bank lainnya selama periode tertentu. Kedua, dengan menggunakan pendekatan ini adalah untuk membandingkan efisiensi relatif dari masing-masing bank dalam setiap tahun, sementara pada saat yang sama mengamati perubahan dalam kinerja semua bank selama periode tersebut. Ketiga, pendekatan ini juga dapat meringankan masalah yang berkaitan dengan data panel tidak seimbang, akhirnya, dengan mengumpulkan semua data ke perbatasan tunggal, memberikan hasil yang dapat diandalkan karena jumlah pertumbuhan. Periode pengamatan adalah Maret 2003 sampai Maret 2009. Hasil penelitian menunjukkan bank-bank umum syariah lebih efisien dalam menghasilkan keuntungan daripada rekan mereka, unit usaha syariah. Implikasi dari penelitian ini menyoroti informasi penting mengenai efisiensi bank-bank Islam di negara berkembang.
+Abidin dan Endri (2009), penelitian ini menggunakan pendekatan non-parametrik Data Envelopment Analysis untuk menganalisis efisiensi teknis Bank Pembangunan Daerah (BPD). Data yang digunakan selama 2006-2007 yang meliputi 26 bank BPD seluruh Indonesia. Hasil studi menunjukkan bahwa kinerja efisiensi teknis bank BPD belum mencapai tingkat efisiensi optimal 100 persen. Secara rata-rata, bank BPD beraset lebih besar lebih efisien daripada bank BPD beraset menengah dan kecil. Penelitian ini memiliki implikasi penting dalam rangka mengoptimalkan kinerja efisiensi maka bank kecil dan menengah harus melakukan merger dan meningkat fungsi intermediasi perbankan.
+METODE
+Populasi dalam penelitian ini adalah bank-bank pembangunan daerah yang memiliki UUS yang terdaftar dalam Bank Indonesia pada tahun 2008-2012. Pengambilan sampel dalam penelitian ini dilakukan secara purposive sampling artinya metode pemilihan sampel dipilih berdasarkan pertimbangan (judgement sampling) yang berarti pemilihan sampel secara tidak acak yang informasinya diperoleh dengan pertimbangan tertentu (Gumilar dan Komariah, 2011).
+Data yang digunakan dalam penelitian ini adalah data sekunder yang merupakan data penelitian yang diperoleh dari sumber kedua atau sumber sekunder dari data yang kita butuhkan menurut Bungin (2010). Data dalam penelitian ini merupakan data sekunder yang bersumber dari Bank Indonesia dan Bank Syariah. Data-data tersebut adalah:
+a. Beban personalia diperoleh dari laporan laba/rugi dalam laporan keuangan tahunan bank pembangunan daerah syariah yang bersangkutan selama periode pengamatan.
+b. Beban administrasi umum yang diperoleh dari laporan laba/rugi dalam laporan keuangan tahunan bank pembangunan daerah syariah yang bersangkutan selama periode pengamatan.
+c. Beban Lain-lain diperoleh dari laporan laba/rugi dalam laporan keuangan tahunan bank pembangunan daerah syariah yang bersangkutan selama periode pengamatan.
+d. Pendapatan operasional diperoleh dari laporan laba/rugi dalam laporan keuangan tahunan bank pembangunan daerah syariah yang bersangkutan selama periode pengamatan.
+
+Sebelum melaksanakan penginputan data dengan metode SFA, variabel terlebih dahulu dilakukan uji normalitas untuk mengetahui apakah data variabelnya normal atau tidak. Uji normalitas hanya digunakan jika jumlah observasi adalah kurang dari 30, untuk mengetahui apakah error term mendekati distribusi normal. Jika jumlah observasi lebih dari 30, maka tidak perlu dilakukan uji normalitas. Sebab, distribusi sampling error term telah mendekati normal (Ajija, dkk, 2011).
+Pendekatan batas stokastik (SFA) menggunakan suatu frontier untuk mengukur nilaiefisiensi dari masing-masing bank. Suatu bank dikatakan tidak efisien jika tingkat biaya dari sebuah bank lebih tinggi jika dibandingkan dengan tingkat biaya bank frontier yang beroperasi pada tingkat kinerja terbaiknya (best practice). Aigner, Lovell, dan Schmidt (1977) dan Meeusen dan Van den Broeck (1977) mengemukakan fungsi stochastic frontier yang merupakan perluasan dari model asli deterministik untuk mengukur efek-efek yang tidak terduga (stochastic frontier) di dalam batas produksi.
+Rasio cost efficiency dari suatu bank dapat dirumuskan sebagai berikut:
+r:...(1)
+Dimana
+adalah biaya aktual dari bank n. Cost efficiency ratio (CEFF) adalah proporsi dari biaya atau resources yang digunakan secara efisien. Misalnya cost efficiency ratiosuatu bank sebesar 90 %, hal ini menunjukkan bahwa bank tersebut beroperasi secara efisien sebesar 90 % atau terdapat 10 % biaya yang terbuang.
+Efisiensi teknis ini dapat diukur dengan pendekatan dari sisi input dan output. Pengukuran efisiensi teknis dari sisi output (indek efisiensi teknis timmer) merupakan rasio dari output observasi terhadap output batas. Indek efisiensi ini digunakan sebagai pendekatan untuk mengukur efisiensi teknis di dalam analisis stochastic frontier. Pengukuran efisiensi teknis dari sisi input merupakan rasio dari input atau biaya batas (frontier) terhadap input atau biaya observasi. Bentuk umum dari ukuran efisiensi teknis yang dicapai oleh observasi ke – i pada waktu ke – t didefinisikan sebagai berikut (Coelli,1996) :
+CE₁ = exp (-u₁) (2)
+dimana nilai CE₁antara 0 dan 1 atau 0 < CE₁< 1.
+SFA digunakan untuk mengetahui nilai efisiensi dari waktu ke waktu. Nilai efisiensi yang dihasilkan berupa skor dari 0 - 1. Semakin mendekati 1, maka perusahaan itu semakin efisien begitu juga sebaliknya, semakin mendekati angka 0 maka perusahaan itu semakin tidak efisien. Estimasi SFA telah difokuskan pada Maximum Likelihood Estimation (MLE) sebagai parameter pembatasan produksi dan prediksi teknik efisiensi individu. Namun, model pembatasan produksi sederhana tidak memberikan prediksi teknik efisiensi perusahaan yang menghasilkan beberapa pengeluaran. Selain itu, metode ini kemungkinan maksimal tidak memberikan kita untuk menilai keandalan kesimpulan pada sampel kecil.
+HASIL DAN PEMBAHASAN
+Deskripsi Data
+Tabel 1 menunjukkan bahwa beban personalia 15 BPD syariah dalam penelitian ini terus mengalami kenaikan dari tahun 2008-2012. Data menunjukkan bahwa beban personalia 15 BPD syariah dalam penelitian ini terus mengalami kenaikan dari tahun 2008-2012, meskipun persentase pertumbuhannya mengalami fluktuasi. Kenaikan jumlah beban personalia yang dialami BPD syariah pada tahun 2008-2012 terus mengalami kenaikan mengalami kenaikan. Kenaikan biaya ini disebabkan antara lain karena peningkatan Sumber Daya Manusia (SDM) dari tahun 2008-2012 sebagai konsekuensi dari ekspansi jaringan kerja yang dilakukan oleh BPD syariah dan semakin berkembangnya pertumbuhan BPD syariah sehingga SDM yang dibutuhkan lebih banyak. Namun dari rata-rata kenaikan pada tahun 2008-2012, karena adanya penurunan biaya personalia BPD Riau syariah pada tahun 2011. Hal ini terjadi karena BPD Riau tidak menerima pegawai baru pada tahun 2011. Kemudian terjadinya penurunan jumlah pegawai pada tahun 2011 sehingga beban personalia menurun. Walaupun biaya pelatihan dan pendidikan terhadap pegawai ada peningkatan. Dari uraian tersebut, dapat disimpulkan bahwa variabel input beban personalia 15 BPD Syariah mengalami kenaikan dalam setiap tahunnya.
+
+Beban administrasi umum termasuk keperluan manajerial, administratif dan kebijakan umum bisnis. Adapun jumlah beban administrasi umum tetap mengalami fluktuatif dari tahun 2008-2012. menunjukkan bahwa jumlahbeban administrasi 15 BPD syariah dalam penelitian ini terus mengalami kenaikan dari tahun 2008 - 2012. Walaupun ada beberapa BPD syariah yang mengalami fluktuasi naik dan turun. Seperti yang terjadi pada Bank DKI syariah, Bank Riau syariah, dan Bank BJB dan Banten syariah. Fluktuasi naik turun yang dialami BJB dan Banten syariah disebabkan karena pada tahun 2010 BJB syariah melakukan pelepasan diri dari UUS menjadi Bank Umum Syariah (BUS). Namun pada tahun 2011 kembali naik sesuai dengan arah kebijakan yaitu peningkatan kapasitas dan kualitas pelayanan, pengembangan IT, penambahan jaringan kantor, pengembangan produk-produk yang inovatif dan peningkatan Sumber Daya Insani, baik secara kualitas maupun kuantitas.
+Kenaikan rata – rata beban administrasi dan umum disebabkan oleh bertambahnya jumlah jaringan dan layanan (unit kerja operasional, outlet dan e-channel). Bank-bank pembangunan daerah syariah tersebut terus menerus mengoptimalkan pengembangan, perluasan, dan kualitas jaringan kantor cabang, KCP, unit, ATM dan electronic delivery channel lainnya. Dari uraian tersebut, dapat disimpulkan bahwa jumlah variabel input beban administrasi 15 BPD Syariah mengalami kenaikan dalam setiap tahunnya, bahkan pada tahun 2009 beban administrasi umum mengalami kenaikan hingga 48.95 persen. Ini disebabkan karena setelah terjadi krisis ekonomi global pada tahun 2008, bank syariah tidak terkena dampak yang signifikan sehingga semakin banyak permintaan untuk membuka kantor cabang baru.
+
+Tabel 2. Perkembangan Variabel Input Beban Administrasi Umum
+Tahun 2008-2012 (dalam jutaan rupiah)
+Nama Bank
+Tahun
+2008
+2009
+2010
+2011
+2012
+Bank Aceh Syariah
+4,342
+8,037
+9,819
+10,648
+11,851
+Bank DIY Syariah
+70
+104
+556
+1,030
+1,188
+Bank DKI Syariah
+1,493
+2,882
+3,013
+(5,154)
+4,516
+Bank Jateng Syariah
+345
+651
+1,071
+1,186
+1,333
+Bank Jatim Syariah
+644
+698
+1,245
+3,668
+4,061
+Bank Kalbar Syariah
+747
+1,027
+1,515
+2,061
+2,910
+Bank Kalsel Syariah
+418
+663
+719
+3,126
+4,674
+Bank Kaltim Syariah
+1,031
+2,512
+6,758
+9,154
+8,449
+Bank NTB Syariah
+1,057
+1,769
+1,769
+2,002
+2,881
+Bank Riau Syariah
+1,415
+5,954
+(6,838)
+(2,672)
+2,740
+Bank Sulselbar Syariah
+496
+509
+730
+808
+847
+Bank Sumbar Syariah
+519
+705
+1,331
+2,243
+3,632
+Bank Sumsel dan BaBel Syariah
+974
+1,230
+3,446
+4,314
+4,787
+Bank Sumut Syariah
+3,587
+3,774
+5,010
+9,099
+10,657
+Bank BJB Syariah
+6,552
+(17,880)
+(8,473)
+(18,529)
+31,464
+Jumlah Beban Administrasi Umum
+23,690
+48,395
+52,293
+75,694
+95,990
+Sumber: Laporan Keuangan Publikasi Bank, Bank Indonesia
+Ketiga, beban lain-lain didefinisikan sebagai biaya bonus titipan wadiah, biaya promosi dan biaya lainnya yang dikeluarkan oleh bank syariah. Pada Tabel 3 memperlihatkan jumlah biaya lain-lain (diluar biaya administrasi umum dan pegawai atau personalia) yang semakin besar dari tahun 2009 - 2012. Walaupun ada penurunan yang terjadi dari 2008 – 2009.
+Hal ini disebabkan biaya yang dikeluarkan BPD syariah dialihkan untuk pengembangan personalia dan untuk membuka cabang baru. Sesuai dengan diberlakukannya undang – undang No.21 tahun 2008 tentang perbankan syariah. Namun setelah tahun 2009 beban lain – lain terus meningkat sampai tahun 2012. Ini memperlihatkan semakin berkembangnya bank syariah dan untuk menggencarkan promosi BPD syariah kepada masyarakat. Dari uraian tersebut, dapat disimpulkan bahwa jumlah variabel input beban lain-lain pada 15 BPD Syariah mengalami fluktuasi naik dan turun. Walaupun penurunan hanya terjadi pada tahun 2009.
+
+Tabel 3. Perkembangan Variabel Input Beban Lain-lain
+Tahun 2008-2012 (dalam jutaan rupiah)
+Nama Bank
+Tahun
+2008
+2009
+2010
+2011
+2012
+Bank Aceh Syariah
+3,447
+5,005
+5,902
+6,425
+7,009
+Bank DIY Syariah
+278
+387
+1,191
+1,921
+2,353
+Bank DKI Syariah
+(2,991)
+(2,883)
+(2,499)
+(312)
+(2,850)
+Bank Jateng Syariah
+190
+401
+817
+941
+1,372
+Bank Jatim Syariah
+486
+939
+1,634
+4,216
+4,940
+Bank Kalbar Syariah
+216
+249
+235
+277
+581
+Bank Kalsel Syariah
+561
+1,015
+(1,395)
+(310)
+1,517
+Bank Kaltim Syariah
+2,325
+5,032
+4,957
+(6,064)
+314
+Bank NTB Syariah
+260
+397
+397
+433
+1,370
+Bank Riau Syariah
+(7,057)
+(335)
+(613)
+(15,330)
+(18,252)
+Bank Sulselbar Syariah
+642
+1,897
+(2,219)
+(5,641)
+(3,029)
+Bank Sumbar Syariah
+452
+650
+1,349
+2,531
+3,262
+Bank Sumsel dan BaBel Syariah
+(956)
+(905)
+2,913
+(5,294)
+(4,485)
+Bank Sumut Syariah
+2,005
+2,354
+3,239
+(5,645)
+(15,244)
+Bank BJB Syariah
+(9,045)
+(4,403)
+(20,624)
+35,292
+36,178
+Jumlah Beban Lain-lain
+30,911
+26,852
+49,984
+90,632
+102,756
+Sumber: Laporan Keuangan Publikasi Bank, Bank Indonesia
+Kemudian variabel outputnya adalah pendapatan operasional. Pendapatan operasional adalah pendapatan hasil dari kegiatan operasional bank syariah yaitu total dari pendapatan dari penyaluran dana, pendapatan operasional lainnya dan pendapatan lainnya.
+
+Pendapatan operasional 15 BPD syariah di Indonesia mengalami perkembangan yang semakin baik dari tahun 2008 – 2012. Meskipun terjadi penurunan yang terjadi pada bank DKI syariah pada tahun 2010. Hal ini disebabkan karena penurunan aset yang dialami bank DKI syariah. Kenaikan jumlah pendapatan operasional ini dikaitkan dengan upaya bank-bank syariah sendiri yang telah meningkatkan variasi jasa dan produk yang ditawarkan kepada masyarakat. Jasa dan produk ini meliputi pelayanan e-banking, internet-banking, phone-banking, sms-banking dan produk lainnya. Serta upaya BPD syariah yang termasuk dalam UUS untuk menjadi BUS. Ini sesuai dengan undang – undang No.21 tahun 2008 tentang perbankan syariah. Dari uraian tersebut, dapat disimpulkan bahwa jumlah variabel output pendapatan operasional 15 BPD syariah mengalami kenaikan dalam setiap tahunnya.
+Menurut Coelli,T.J. 1996, untuk menggunakan perhitungan data dengan Frontier version 4.1variable beban pegawai, beban dministasi umum dan beban lain-lain, dan pendapatan operasional masing-masing variabel digeneralisasi ke dalam bentuk logaritma natural.Logaritma Natural (Ln) bertujuan untuk meniadakan atau meminimalkan adanya pelanggaran asumsi normalitas dan linearitas pada model regresi. Langkahnya adalah dengan mentransformasi atau mengubah tiap data variabel ke bentuk logaritma natural, hal ini agar data menjadi normal atau mendekati normal.
+
+Hasil SFA
+Pada Tabel 5 menunjukkan hasil output dengan perhitungan metode SFA. Tabel ini menunjukkan bahwa tidak ada BPD syariah yang mencapai tingkat efisiensi 100 persen (inefisien) pada tahun 2008 sampai dengan 2012. Tetapi dari 15 BPD Syariah di Indonesia yang paling mendekati nilai rata-rata efisiensi adalah Bank Pembangunan Daerah (BPD) Kalimantan Barat (Kalbar) syariah yaitu mencapai 90,42 persen. Setelah itu diikuti oleh Bank DKI syariah yang mencapai di atas 80% dalam menjalankan operasionalnya dan sudah sangat efisien sesuai dengan ukuran yang ditetapkan oleh Bank Indonesia yaitu 80%. (Gumilar dan Komariah, 2011).
+Dari hasil penelitian yang dilakukan Mohamad pada tahun 2007 dengan pendekatan SFA mengindikasikan bahwa ada kekurangan dalam penggunaan sumber daya di semua bank. Ketidakefisienan tersebut terjadi karena beberapa faktor, salah satunya adalah ketidakefisienan antara variabel input dan output. Selain itu efisiensi bank sangat dipengaruhi oleh faktor internal dan eksternal yang selalu berkembang, kesimpulan ini hanya berlaku untuk sampel dan waktu yang dipilih masa studi. Pada hasil SFA juga terdapat maximum likelihood estimation (MLE), yaitu teknik yang digunakan untuk mencari titik tertentu untuk memaksimumkan sebuah fungsi. Oleh karena itu perbedaan antara hasil penelitian ini dan orang-orang didokumentasikan dalam literatur yang mungkin karena ukuran sampel yang berbeda periode dan negara. Dalam pengujian hipotesis untuk mengetahui pengaruh variabel input terhadap variabel output pada tahun 2008 menggunakan metode Stochastic Frontier Analysis (SFA) dapat dilihat pada Tabel 6.
+
+Tabel 6. Hasil Efisiensi SFA
+Tahun 2008 – 2012
+Coefficient
+Standard-error
+t-ratio
+Konstanta (β0)
+0.54574588E+01
+0.54781518E+00
+0.99622264E+01
+Beban Personalia (β1)
+0.60039795E+00
+0.10498428E+00
+0.57189320E+01
+Beban Administrasi Umum (β2)
+-0.51664704E-01
+0.93059991E-01
+-0.55517633E+00
+Beban Lain-lain (β3)
+0.11321642E+00
+0.41383317E-01
+0.27357987E+01
+Sumber: Data diolah
+Berdasarkan Tabel 6 bentuk model tingkat efisiensi dari Bank Syariah tersebut dapat ditulis sebagai berikut:
+Ln (Pendapatan Ops) = 5.457 + 0.600 ln (Personalia) – 0.051 ln (Adm Umum)
++ 0.113 ln (Beban Lain-lain)
+Dari model diatas, maka dapat dihasilkan pengujian estimasi MLE sebagai berikut :
+1. Beban Personalia berpengaruh signifikan dan positif terhadap pendapatan operasional. Hal ini dapat dilihat dari besarnya t hitung yang lebih besar dari pada t tabel yaitu 5.718 > 2.132. Dilihat dari koefisien, jumlah simpanan berpengaruh positif terhadap total output sebesar 0.600 yang berarti kenaikan beban personalia sebesar 1 persen maka akan meningkatkan pendapatan operasional bank. Karena beban personalia berpengaruh secara signifikan dan berpengaruh positif terhadap total output.
+2. Beban administrasi umum tidak berpengaruh signifikan dan negatif terhadap pendapatan operasional. Hal ini dapat dilihat dari besarnya t hitung yang lebih kecil dari pada t tabel yaitu -0.555 < 2.132. Dilihat dari koefisien, jumlah simpanan berpengaruh negatif terhadap total output sebesar -0.051 yang berarti kenaikan beban administrasi umum sebesar 1 persen maka tidak akan meningkatkan pendapatan operasional bank. Karena beban administrasi umum tidak   berpengaruh secara signifikan dan berpengaruh negatif terhadap total output.
+3. Beban lain-lain berpengaruh signifikan dan positif terhadap pendapatan operasional. Hal ini dapat dilihat dari besarnya t hitung yang lebih besar dari pada t tabel yaitu 2.735 > 2.132. Dilihat dari koefisien, beban lain-lain berpengaruh positif terhadap pendapatan operasional sebesar 0.113 yang berarti kenaikan beban lain-lain sebesar 1 persen maka akan meningkatkan pendapatan operasional bank syariah sebesar 0.277 persen. Karena beban lain-lain berpengaruh secara signifikan dan berpengaruh positif terhadap pendapatan operasional.
+Berdasarkan hasil estimasi dengan MLE 15 Bank Pembangunan Daerah (BPD) Syariah untuk mengetahui pengaruh variabel input terhadap variabel output pada tahun 2008-2012 menggunakan metode Stochastic Frontier Analysis (SFA) dapat dilihat pada variabel input yang berpengaruh atau tidak terhadap variabel output yaitu :
+1. Beban Personalia : Pada tahun 2008 – 2012 beban personalia berpengaruh signifikan dan positif terhadap pendapatan operasional.
+2. Beban Administrasi Umum : Pada tahun 2008 – 2012 beban administrasi umum tidak berpengaruh signifikan dan negatif terhadap pendapatan operasional.
+3. Beban Lain - lain : Pada tahun 2008 – 2012 beban lain-lain berpengaruh signifikan dan positif terhadap pendapatan operasional.
+Dari hasil diatas, maka variabel input yang paling berpengaruh secara signifikan terhadap pendapatan operasional dengan menggunakan metode SFA pada tahun 2008-2012 adalah beban personalia dan beban lain-lain.
+SIMPULAN
+Hasil efisiensi rata-rata 15 Bank Pembangunan Daerah (BPD) Syariah pada tahun 2008-2012 dengan menggunakan metode parametrik (SFA) sebesar 53,21 persen. Kemudian, efisiensi 15 BPD Syariah dengan metode SFA belum mencapai tingkat efisiensi penuh atau 100 persen. Tetapi BPD Syariah yang paling mendekati 100 persen adalah tingkat rata-rata efisiensi tahunan BPD Syariah Kalimantan Barat mencapai 90,42 persen. Sedangkan yang paling kecil rata-rata efisiensinya adalah BPD Syariah Sumatera Barat yaitu 27,09 persen.
+Hasil efisiensi 15 BPD Syariah pada tahun 2008-2012 dengan menggunakan metode parametrik (SFA) setiap tahunnya adalah sebagai berikut. Pada tahun 2008 rata – rata tingkat efisiensi dari 15 BPD Syariah sebesar 33,57 persen. Kemudian pada tahun 2009 rata- rata efisiensinya naik menjadi 43,54 persen. Pada tahun 2010 rata – rata efisiensinya sebesar 53,86 persen. Tahun 2011 nilai rata – rata efisiensinya sebesar 63,47 persen. Dan pada tahun 2012 nilai rata – rata efisiensi 15 BPD Syariah naik mencapai 71,81 persen. Dari hasil tersebut, nilai rata – rata efisiensi 15 BPD Syariah dari tahun 2008 sampai tahun 2012 terus mengalami kenaikan.

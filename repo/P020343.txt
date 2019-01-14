@@ -1,0 +1,78 @@
+﻿ABSTRAK 
+Sistem komputerisasi yang diterapkan tidak hanya bertujuan untuk mempermudah sistem kerja pada sebuah perusahaan tetapi juga untuk mencari nilai optimal sebuah desain agar lebih efisien. Pada penelitian ini akan dirancang sebuah perangkat lunak dengan menggunakan bantuan bahasa pemrograman Visual Basic 2010 yang dapat digunakan untuk mempermudah dalam merancang desain shell and tube. Metodologi yang digunakan dalam perancangan desain shell and tube ini berupa tahapan algoritma. Tahapan algoritma dijadikan panduan dalam membuat bahasa pemrogaman Visual Basic 2010 yang berupa input, proses, dan output. Dari software yang dibuat ada dua jenis shell and tube yang bisa dirancang, yaitu jenis shell and tube tanpa sisipan dan dengan sisipan plat kedalam pipa. Bentuk sisipan plat yang bisa dirancang dalam software ini yaitu sisipan plat longitudinal, sisipan plat longitudinal dengan tambahan lubang, dan sisipan plat puntir dengan sudut puntir (α: 15.30, 24.40, dan 34.40). 
+Kata kunci : Shell and tube, Sisipan plat, Visual Basic 2010, Desain optimal.
+
+1 
+ BAB I 
+PENDAHULUAN 
+1.1 Latar Belakang 
+
+Energi selalu memainkan peranan penting dalam perkembangan hidup manusia dan pertumbuhan ekonomi serta kesejahteraan masyarakat. Contohnya, bahan bakar kayu telah digunakan sejak zaman dahulu untuk membuat api, dan peradaban pertama manusia telah menggunakan angin untuk berlayar ke luar negeri. Kayu bakar pada saat itu ditemukan berlimpah dan bebas. Masyarakatnya juga masih tinggal di tempat terpencil. 
+
+Ketika desa-desa dan kota-kota kecil bermunculan, barulah kayu bakar berubah menjadi komoditas perdagangan. Dengan semakin meluasnya kota, kebutuhan terhadap energi tersebut mengalami peningkatan yang signifikan, sehingga hutan-hutan mulai dieksploitasi secara berlebihan yang mengakibatkan terjadinya kelangkaan kayu bakar di berbagai wilayah. Sehubungan dengan hal tersebut, mulai timbul kesadaran untuk mengawasi pasokan dan permintaan kayu bakar. 
+Begitu juga dengan pasar penukar kalor yang meningkat karena pentingnya penghematan energi, beberapa jenis diantaranya digunakan saat mengatasi krisis ekonomi industri kimia di Eropa. Penukar kalor jenis shell and tube adalah jenis penukar kalor yang paling umum digunakan dalam proses industri. Saat ini beberapa prorgam komputer (software) berbayar banyak dikembangkan untuk mempermudah dalam mendisain sebuah penukar kalor. 
+
+Pada penelitian sebelumnya, Ismail Thamrin menganalisa tentang performansi alat penukar kalor tipe shell and tube dimana akan dilakukan dua metode perhitungan yaitu secara manual dan menggunakan perangkat lunak visual basic 6.0. data masukan yang dipergunakan adalah data fluida dan data spesifikasi penukar kalor. Dalam penelitian ini hanya menghitung performansi dari sebuah penukar kalor jenis shell and tube dari inputan yang tersedia tanpa adanya optimasi desain. 
+Su Thet Mon Than, dkkjuga meneliti tentang perancangan shell and tube dengan bantuan software Autocad dan Matlab. Metode peningkatan kinerja sebuah penukar kalor jenis shell and tube dalam penelitian ini adalah dengan memasukan sebuah plat yang ditekuk ke dalam pipa-pipa didalam shell. Penelitian ini menitik beratkan pada peningkatan kinerja sebuah alat penukar kalor jenis shell and tube dengan membatasinya pada kerugian tekanan (pressure drop) yang diijinkan. 
+Seperti halnya dalam penelitian Yusuf Ali Kara dan Ozbilen Gurarasyang meneliti tentang optimasi desian penukar kalor jenis shell and tube dengan menggunakan bahasa Fortran 90. Penelitian ini menitik beratkan pada pemilihan parameter desain dengan melakukan iterasi yang dilakukan software untuk mengoptimasi desain shell and tube dengan batasan kerugian tekanan (pressure drop) sebesar 12 kPa. 
+
+Kajian eksperimental juga sangat penting dalam pengembangan perangkat lunak sebuah shell and tube. Seperti dalam kajian eksperimental Yu-Wei Chiu dan Jiin-Yuh Jangyang meneliti tentang vortex generator dimana dalam penelitian ini sebuah plat dengan berbagai tipe (plat, plat berlubang dan plat yang dipuntir) dimasukkan dalam pipa-pipa di dalam shell. Dari penelitian ini didapatkan pengaruh dari berbagai masukan plat terhadap bilangan Nusselt dan kerugian tekanan (pressure drop). 
+
+Selain itu, perkembangan teknologi industri yang sangat pesat pada masa sekarang ini membuat perusahaan ingin melakukan segala sesuatunya dengan cara yang lebih mudah dan dapat meningkatkan keuntungan bagi perusahaan tersebut. Perkembangan teknologi tersebut diantaranya adalah berupa sistem komputerisasi. Sistem komputerisasi yang diterapkan selain bertujuan untuk mempermudah sistem kerja pada sebuah perusahaan mulai dari pendataan, pengolahan data, mendesain produk dan lain sebagainya, juga akan meningkatkan kinerja suatu perusahaan sehingga dapat menghasilkan keuntungan bagi perusahaan tersebut. 
+
+Pada penelitian ini akan dirancang sebuah perangkat lunak dengan menggunakan batuan bahasa pemrograman Visual Basic 2010 yang dapat digunakan untuk mempermudah dalam merancang dan mengoptimasi desain shell and tube. 
+1.2 Batasan Masalah 
+
+Beberapa batasan masalah yang diambil pada Tugas Akhir ini adalah: 
+1) Perancangan perangkat lunak desain penukar kalor jenis Shell and Tube menggunakan software Visual Basic 2010. 
+2) 
+2) Kondisi operasi penukar kalor diasumsikan pada kondisi tunak 
+3) Kerugian kalor ke lingkungan, perubahan energi potensial dan energi kinetik diabaikan 
+4) Fluida yang mengalir di dalam penukar kalor dianggap tidak mengalami perubahan fasa. 
+5) Penukar kalor shell and tube jenis fix tube. 
+6) Pada gas hasil pembakaran diasumsikan mengandung CO2, H2O, CO, H2, dan N2. 
+
+1.3 Tujuan Penelitian 
+
+Adapun tujuan yang ingin diperoleh penulis dalam penelitian tugas akhir ini adalah sebagai berikut: 
+1) Untuk membuat perangkat lunak yang dapat digunakan perancang sebelum membuat desain shell and tube. 
+2) Perangkat lunak yang dibuat memungkinkan pengguna (user) untuk mengganti kondisi masukan (input) diameter pipa, susunan pipa, ada atau tidaknya sisipan plat ke dalam pipa, material pipa, penempatan fluida di sisi pipa dan sisi shell, suhu input dan output fluida serta laju aliran masa fluida. 
+3) Dari perhitungan perangkat lunak ini akan didapat detail dimensi dari desain sebuah shell and tube yaitu : laju aliran kalor, koefisien perpindahan panas keseluruhan, luas permukaan perpindahan kalor, temperatur masuk dan keluar sisi pipa dan sisi shell, diameter pipa, tebal pipa, panjang pipa, jumlah pipa, jumlah laluan pipa, diameter shell, clearence, jumlah befel, jarak befel, kecepatan fluida sisi pipa dan sisi shell, bilangan Reynold sisi pipa dan sisi shell, konduktivitas termal fluida sisi pipa dan sisi shell, serta pressure drop sisi pipa dan sisi shell. 
+4) Untuk menganalisa pengaruh antara ada atau tidaknya sisipan plat kedalam pipa terhadap bilangan Nusselt dan kerugian tekanan (pressure drop). 
+
+1.4 Metode Penelitian 
+
+Metode penelitian yang digunakan dalam penulisan tugas akhir adalah: 
+1) Studi Pustaka 
+
+Studi pustaka adalah suatu metode yang dipergunakan dalam penelitian ilmiah yang dilakukan dengan membaca dan mengolah data yang diperoleh dari literatur. Data yang dibaca dan diolah adalah data yang berhubungan dengan hasil-hasil penelitian yang telah dilakukan oleh para peneliti sebelumnya. 
+2) Algoritma Perancangan 
+
+Untuk mendapatkan alur perhitungan yang ringkas maka dibuat algoritma perhitungan program. Berdasarkan algoritma perhitungan inilah program pengembangan perangkat lunak shell and tube ini dibuat. Hasil perhitungan yang didapat kemudian dibandingkan dengan beberapa rancangan yang sudah ada. Adapun flowchart penelitian yang dilakukan dapat dilihat pada Gambar 1.1. 
+Mulai 
+Studi pustaka 
+Alogaritma Perancangan 
+Pembahasan 
+Kesimpulan 
+Selesai 
+Gambar 1.1. Flowchart Penelitian 
+
+Gambar 1.1 menunjukkan urutan dari penelitian. Penelitian ini dimulai dengan pembelajaran dan pembahasan terhadap hasil-hasil penelitian dan literatur yang sudah ada sebelumnya agar permasalahan yang ada dapat dipahami dengan baik serta menjadi referensi untuk mencari solusi pemecahan permasalahan tersebut. 
+Selanjutnya permasalahan yang akan diteliti dipecahkan dengan membuat perangkat lunak shell and tube dengan bantuan program Visual Basic 2010 sebagai bahasa program yang digunakan untuk menghitung hasil rancangan shell and tube dengan kondisi masukan yang diinginkan oleh pengguna (user). Pembuatan Algoritma Perhitungan ini dilakukan pada kondisi batas yang sudah ditentukan. Tahap Pembahasan dilakukan untuk menganalisa hasil perhitungan yang diperoleh kemudian dibandingkan dengan beberapa hasil rancangan yang sudah ada. Setelah hasil penelitian dianalisa maka dapat ditarik kesimpulan dari analisa yang telah dilakukan. 
+3) Bimbingan 
+
+Bertujuan untuk mendapatkan tambahan pengetahuan dan saran dari dosen pembimbing serta koreksi terhadap kesalahan-kesalahan yang terjadi dalam penyusunan laporan Tugas Akhir. 
+1.5 Sistematika Penelitian 
+
+Penulisan laporan Tugas Akhir ini terdiri dari beberapa bagian, yaitu: 
+BAB I PENDAHULUAN 
+Berisi tentang latar belakang, batasan masalah, tujuan penelitian, metode penelitian, dan sistematika penulisan. 
+BAB II DASAR TEORI 
+Berisi tentang landasan teori yang berkaitan dengan persamaan-persamaan dasar yang berlaku dalam penukar kalor (heat exchanger), misalnya jenis-jenis penukar kalor, karakteristik penukar kalor, 6 
+perpindahan kalor konduksi-konveksi, persamaan energi dan rumus-rumus perhitungan disain penukar kalor. 
+BAB III PERANGKAT LUNAK PERANCANGAN SHELL AND TUBE 
+Berisi tentang langkah-langkah pengerjaan yang terdiri dari Pengumpulan dasar-dasar perhitungan dan data penunjang, pembuatan algoritma perhitungan, dan proses perhitungan. 
+BAB IV ANALISA HASIL PENERAPAN PROGRAM 
+Berisi verifikasi hasil perhitungan shell and tube dengan hasil rancangan yang sudah ada dan selanjutnya dilakukan analisa perbandingan. 
+BAB VI KESIMPULAN DAN SARAN 
+Berisi tentang kesimpulan dan saran yang diambil dari hasil analisis pada bab-bab sebelumnya.

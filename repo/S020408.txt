@@ -1,0 +1,410 @@
+﻿Kemiskinan merupakan salah satu masalah dalam perekonomian yang
+kompleks dan multidimensional. Oleh karenanya perlu dicari solusi untuk
+mengatasi atau paling tidak mengurangi tingkat kemiskinan. Tujuan dari
+penelitian ini adalah menganalisis pengaruh variabel pertumbuhan ekonomi, upah
+minimum, pendidikan dan tingkat pengangguran dari tahun 1999 – 2013. Metode
+yang digunakan dalam penelitian ini adalah Ordinary Least Square. Data yang
+digunakan adalah data sekunder yang merupakan data tahunan dari tahun 1999
+hingga 2013. Hasil penelitian menunjukan bahwa variabel pertumbuhan ekonomi,
+upah minimum, pendidikan dan tingkat pengangguran berpengaruh signifikan
+terhadap variabel tingkat kemiskinan. Oleh karenanya perkembangan
+pertumbuhan ekonomi, upah minimum, pendidikan dan tingkat pengangguran
+patut menjadi pertimbangan.
+Kata Kunci : Tingkat Kemiskinan, Pertumbuhan Ekonomi, Upah Minimum,
+Pendidikan, Tingkat Pengangguran, Ordinary Least Square.
+
+I. PENDAHULUAN
+A. Latar Belakang
+Pembangunan ekonomi merupakan proses multidimensional yang melibatkan
+perubahan besar dalam struktur sosial, sikap-sikap mental yang sudah terbiasa
+dan lembaga nasional termasuk pula percepatan (akselerasi) pertumbuhan
+ekonomi, pengurangan, ketimpangan dan pemberantasan kemiskinan absolut
+(Todaro, 2000 : 163). Sedangkan salah satu tujuan pembangunan nasional adalah
+meningkatkan kinerja perekonomian agar mampu menciptakan lapangan kerja
+dan menata kehidupan yang layak bagi seluruh rakyat yang pada gilirannya akan
+mewujudkan kesejahteraan penduduk Indonesia.
+Salah satu sasaran pembangunan nasional adalah menurunkan tingkat kemiskinan.
+Kemiskinan merupakan salah satu penyakit dalam ekonomi, sehingga harus
+disembuhkan atau paling tidak dikurangi. Permasalahan kemiskinan memang
+merupakan permasalahan yang kompleks dan bersifat multidimensional. Oleh
+karena itu, upaya pengentasan kemiskinan harus dilakukan secara komprehensif,
+mencakup berbagai aspek kehidupan masyarakat, dan dilaksanakan secara
+terpadu ( Nasir dkk, 2008 : 27).
+
+Menurut Chambers (1987 : 145-148) kemiskinan dianggapnya sebagai proses
+interaksi dari berbagai faktor yang muncul sebagai akibat dari situasi
+ketidakadilan, ketidakpastian, ketimpangan, ketergantungan dalam struktur
+masyarakat. Oleh karena itu, kemiskinan lebih tepat disebut sebagai perangkap
+kemiskinan (deprivation trap) yang terdiri dari lima unsur penyebab kemiskinan
+yang saling terkait yaitu : ketidakberdayaan (powerlessness), kerawanan atau
+kerentanan (vulnerability), kelemahan fisik (physical weakness), kemiskinan
+(poverty), dan isolasi (isolation). Istilah kemiskinan muncul ketika seseorang atau
+sekelompok orang tidak mampu mencukupi tingkat kemakmuran ekonomi yang
+dianggap sebagai kebutuhan minimal dari standar hidup tertentu. Dalam arti
+proper, kemiskinan dipahami sebagai keadaan kekurangan uang dan barang
+untuk menjamin kelangsungan hidup.
+
+Dalam arti luas, Chambers (dalam Suryawati, 2005 : 1) mengatakan bahwa
+kemiskinan adalah suatu intergrated concept yang memiliki lima dimensi, yaitu:
+1) kemiskinan (poverty), 2) ketidakberdayaan (powerless), 3) kerentanan
+menghadapi situasi darurat (state of emergency), 4) . ketergantungan
+(dependence), dan 5) keterasingan (isolation) baik secara geografis maupun
+sosiologis.
+Menurut BPS (2012), seseorang masuk dalam kriteria miskin jika memiliki ratarata
+pengeluaran perkapita perbulan dibawah garis kemiskinan.
+
+Gambar 1. Tingkat Kemiskinan di Indonesia Tahun 2008-2013 (persen)
+Sumber : BPS, Statistik Indonesia, 2013
+
+
+Tingkat kemiskinan di Indonesia pada periode tahun 2008 hingga tahun 2013
+mengalami kecenderungan yang menurun, seperti terlihat pada Gambar 1. Pada
+periode tahun 2008 sampai 2013 tingkat kemiskinan turun dari sebesar 15,42
+persen pada tahun 2008 menjadi 11,47 pada tahun 2013. Penurunan ini
+disebabkan tren perekonomian Indonesia yang relatif tumbuh dan perekonomian
+yang terus membaik dari waktu ke waktu (BPS, 2013).
+
+Kebijakan penanggulangan kemiskinan dilaksanakan untuk mencapai visi, misi,
+tujuan dan sasaran pembangunan dalam kurun waktu lima tahun (2009-2014)
+yang tertuang dalam Rencana Pembangunan Jangka Menengah (RPJM) Tahun
+2009-2014. Kebijakan disusun agar strategi penanggulangan kemiskinan Provinsi
+Lampung dapat dilaksanakan secara terpadu, terukur, sinergis, dan terencana yang
+dilandasi oleh kemitraan dan keterlibatan berbagai pihak dan dikelola sebagai
+suatu gerakan bersama penanggulangan kemiskinan.Usaha pemerintah dalam
+penanggulangan masalah kemiskinan sangatlah serius, bahkan merupakan salah
+satu program prioritas, termasuk bagi pemerintah Provinsi Lampung. Upaya
+penanggulangan kemiskinan di Provinsi Lampung dilaksanakan melalui strategi
+utama penanggulangan kemiskinan yaitu sebagai berikut ; 1) Strategi pemenuhan
+kebutuhan dasar, 2) Strategi memperbaiki program perlindungan sosial, 3)
+Strategi pemberdayaan kelompok masyarakat miskin, 4) Strategi pembangunan
+inklusif, 5) Strategi penguatan kelembagaan penanggulangan kemiskinan, 6)
+Strategi reorientasi kebijakan (Bappeda Lampung, 2013).
+
+Hasil dari upaya penanggulangan kemiskinan di Provinsi Lampung
+memperlihatkan pengaruh yang positif. Hal ini terlihat dari tingkat kemiskinan
+yang mengalami pola yang menurun. Gambar 2 menunjukkan kecenderungan
+penurunan tingkat kemiskinan di Provinsi Lampung dari tahun ke tahun. Pada
+tahun 2008 tingkat kemiskinan sebesar 20,93 persen dan turun menjadi 14,39
+persen di tahun 2013( Badan Pusat Statistik, 2013 ).
+
+Gambar 2. Tingkat Kemiskinan di Provinsi Lampung tahun 2008-2013
+(persen)
+Sumber : Badan Pusat Statistik Indonesia, 2013
+
+Tingkat kemiskinan di Provinsi Lampung merupakan tingkat kemiskinan agregat
+dari 14 kabupaten/kota di Provinsi Lampung. Gambar 3 menunjukkan bahwa
+tingkat kemiskinan di 14 Kabupaten/kota masih tidak merata, dan sebagian besar
+tingkat kemiskinannya masih tinggi. Kabupaten Lampung Utara merupakan
+kabupaten dengan persentase kemiskinan tertinggi diantara kabupaten/kota yang
+lainnya di Provinsi Lampung.
+
+
+Gambar 3. Persentase Penduduk Miskin menurut Kabupaten/Kota
+di Provinsi Lampung tahun 2008-2011
+Sumber: BPS Provinsi Lampung, 2012
+
+Menurut data Badan Pusat Statistik Provinsi Lampung tahun 2012, tingkat
+kemiskinan di kabupaten Lampung Utara merupakan tingkat kemiskinan tertinggi
+di antara kabupaten/kota di Provinsi Lampung. Pada tahun 2008 tingkat
+kemiskinan di kabupaten Lampung Utara mencapai 31,24 persen tertinggi di
+antara kabupaten/kota di Provinsi Lampung. Meskipun dalam kurun waktu tiga
+tahun terakhir tingkat kemiskinan di kabupaten Lampung Utara mengalami
+penurunan, tetapi ini menjadi masalah yang perlu perhatian lebih mengingat
+tingkat kemiskinan di kabupaten Lampung Utara masih tinggi atau diatas tingkat
+kemiskinan Provinsi Lampung dan kabupaten/kota lainnya di Provinsi Lampung.
+Persentase penduduk miskin yang cukup tinggi di kabupaten Lampung Utara di
+antara kabupaten/kota lainnya di Provinsi Lampung mengidentifikasikan bahwa
+perlu usaha yang signifikan dan terarah yang dilakukan Pemerintah Kabupaten
+Lampung Utara agar mampu menurunkan tingkat kemiskinan di daerah tersebut.
+
+
+Upaya dan kebijakan penanggulangan kemiskinan merupakan suatu kegiatan yang
+perlu berjalan secara simultan dan kerjasama antar pemerintah daerah dan pihakpihak
+terkait secara terpadu. Dalam kurun waktu 5 tahun upaya dan kebijakan
+tersebut telah meghasilkan perkembangan yang positif untuk menurunkan tingkat
+kemiskinan di Kabupaten Lampung Utara. Perkembangan tersebut dapat dilihat
+pada gambar 4 tren penurunan tingkat kemiskinan, indeks kedalaman kemiskinan
+dan indeks keparahan kemiskinan di Kabupaten Lampung Utara.
+
+Gambar 4.Perkembangan Tingkat Kemiskinan, Indeks Kedalaman
+Kemiskinan (P1) dan Indeks Keparahan Kemiskinan (P2)
+di Kabupaten Lampung Utara tahun 2008-2012
+Sumber: BPS Kabupaten Lampung Utara, 2014
+
+Persentase penduduk miskin pada tahun 2008 mencapai sekitar 31,24 persen.
+Angka ini pada tahun 2012 menurun sekitar 6,07 persen hingga menjadi sekitar
+25,17 persen. Selama periode 2008-2012, penurunan rata-rata persentase
+penduduk miskin per tahun sekitar 1,21 persen.
+Indeks kedalaman kemiskinan (P1) pada tahun 2008 mencapai sekitar 6,49.
+Angka ini pada tahun 2012 menurun sekitar 2,09 hingga menjadi sekitar 4,40.
+
+
+Persentase Penduduk Miskin
+P1 ( Indeks Kedalaman Kemiskinan )
+P2 ( Indeks Keparahan Kemiskinan )
+
+Selama periode 2008-2012, penurunan rata-rata indeks kedalaman kemiskinan per
+tahun sekitar 0.41.
+Indeks keparahan kemiskinan (P2) pada tahun 2008 mencapai sekitar 1,72. Angka
+ini pada tahun 2012 menurun sekitar 0.59 hingga menjadi sekitar 1,13. Selama
+periode 2008-2012, penurunan rata-rata indeks keparahan kemiskinan per tahun
+sekitar 0.11.
+
+Proses pembangunan memerlukan pendapatan nasional yang tinggi dan
+pertumbuhan ekonomi yang cepat. Di banyak negara syarat utama bagi
+terciptanya penurunan kemiskinan yang tetap adalah pertumbuhan ekonomi.
+Pertumbuhan ekonomi memang tidak cukup untuk mengentaskan kemiskinan
+tetapi biasanya pertumbuhan ekonomi merupakan sesuatu yang dibutuhkan,
+walaupun begitu pertumbuhan ekonomi yang bagus pun menjadi tidak akan
+berarti bagi penurunan masyarakat miskin jika tidak diiringi dengan pemerataan
+pendapatan (Wongdesmiwati, 2009 : 23).
+
+Pertumbuhan ekonomi merupakan indikator untuk melihat keberhasilan
+pembangunan dan merupakan syarat keharusan (necessary condition) bagi
+pengurangan tingkat kemiskinan. Adapun syarat kecukupannya ialah bahwa
+pertumbuhan ekonomi tersebut efektif dalam mengurangi tingkat kemiskinan.
+Artinya, pertumbuhan tersebut hendaklah menyebar disetiap golongan
+pendapatan, termasuk di golongan penduduk miskin. Secara langsung, hal ini
+berarti pertumbuhan itu perlu dipastikan terjadi di sektor-sektor dimana penduduk
+miskin bekerja yaitu sektor pertanian atau sektor yang padat karja. Adapun secara tidak langsung, diperlukan pemerintah yang yang cukup efektif mendistribusikan
+manfaat pertumbuhan yang mungkin didapatkan dari sektor modern seperti jasa
+yang padat modal (Siregar dan Dwi Wahyuniarti, 2008 : 27).
+Penelitian yang dilakukan Wongdesmiwati (2009 : 163) menemukan bahwa
+terdapat hubungan yang negatif antara pertumbuhan ekonomi dengan tingkat
+kemiskinan. Untuk menurunkan tingkat kemiskinan maka pertumbuhan ekonomi
+harus ditingkatkan.
+
+Gambar 5 menunjukkan bahwa sampai tahun 2012 laju pertumbuhan ekonomi di
+Kabupaten Lampung Utara terus mengalami peningkatan dari tahun ke tahun dari
+5,44 persen di tahun 2010 menjadi 6,03 persen di tahun 2012. Peningkatan laju
+pertumbuhan ekonomi ini diikuti dengan kecenderungan penurunan penduduk
+miskin dari tahun ke tahun. yakni 28,19 persen di tahun 2010 dan turun menjadi
+25,17 persen di tahun 2012 (BPS Lampung Utara 2013).
+
+Gambar 5.Laju Pertumbuhan Ekonomi dan Kemiskinan di Kabupaten
+Lampung Utara Tahun 2010-2012 (persen)
+Sumber : BPS Kabupaten Lampung Utara, 2013 ( diolah )
+
+Kebijakan upah minimum juga berpengaruh terhadap tingkat kemiskinan.
+Gagasan upah minimum yang sudah dimulai dan dikembangkan sejak awal tahun
+1970-an bertujuan untuk mengusahakan agar dalam jangka panjang besarnya upah
+minimum paling sedikit dapat memenuhi Kebutuhan Hidup Minimum (KHM),
+sehingga diharapkan dapat menjamin tenaga kerja untuk memenuhi kebutuhan
+hidup beserta keluarga dan sekaligus dapat mendorong peningkatan produktivitas
+kerja dan kesejahteraan buruh (Sumarsono, 2003 : 141).
+Berdasarkan Peraturan Menteri Tenaga Kerja dan Transmigrasi nomor 7 tahun
+2013. Upah Minimum adalah upah bulanan terendah yang terdiri atas upah pokok
+termasuk tunjangan tetap yang ditetapkan oleh gubernur sebagai jaring
+pengaman.Yang dimaksud dengan tunjangan tetap adalah suatu jumlah imbalan
+yang diterima pekerja secara tetap dan teratur pembayarannya, yang tidak
+dikaitkan dengan kehadiran ataupun pencapaian prestasi tertentu. Kebijakan
+penetapan upah minimum oleh pemerintah adalah kebijakan yang diterapkan
+dengan tujuan sebagai jaring pengaman terhadap pekerja atau buruh agar tidak
+diekspolitasi dalam bekerja dan mendapat upah yang dapat memenuhi kebutuhan
+hidup minimum (KHM). Jika kebutuhan hidup minimum dapat terpenuhi, maka
+kesejahteraan pekerja meningkat dan terbebas dari masalah kemiskinan .
+KHL merupakan standar kebutuhan yang harus dipenuhi seorang pekerja atau
+buruh lajang untuk dapat hidup layak, baik fisik, non fisik, dan sosial selama satu
+bulan. Seorang pekerja dianggap hidup layak jika upahnya mampu memenuhi
+kebutuhan 3000 kalori per hari. Oleh karena itu, KHL menjadi salah satu
+pertimbangan dalam penetapan upah minimum. Ada 7 komponen KHL yang
+selalu dihitung, yaitu makanan dan minuman, sandang, perumahan, pendidikan,
+kesehatan, transportasi, serta rekreasi dan tabungan.
+Tabel 1 menunjukkan bahwa sampai tahun 2008 tingkat upah minimum regional
+di Kabupaten Lampung Utara terus mengalami peningkatan dari tahun ke tahun.
+Pada tahun 2008 tingkat upah minimum sebesar Rp.617.000 kemudian naik
+menjadi Rp. 691.000 di tahun 2009 dan Rp. 767.500 di tahun 2010. Kenaikan
+tertinggi terjadi di tahun 2012, dari Rp. 983.000 di tahun 2013 menjadi
+Rp. 1.160.000.
+
+Tabel 1. Perkembangan Upah Minimum Regional (UMR) di Kabupaten
+Lampung Utara Tahun 2008-2013 (Rupiah)
+Tahun UMR
+2008 617.000
+2009 691.000
+2010 767.500
+2011 855.000
+2012 983.000
+2013 1.160.000
+Sumber : BPS Lampung Utara
+
+Faktor lain yang berpengaruh terhadap tingkat kemiskinan adalah pendidikan.
+Teori pertumbuhan baru menekankan pentingnya peranan pemerintah terutama
+dalam meningkatkan pembangunan modal manusia (human capital) dan
+mendorong penelitian dan pengembangan untuk meningkatkan produktivitas
+manusia. Rendahnya produktivitas kaum miskin dapat disebabkan oleh rendahnya
+akses mereka untuk memperoleh pendidikan (Sitepu dan Bonar, 2004 : 360).
+Undang-Undang Dasar RI 1945 Pasal 31 ayat 2 menyebutkan bahwa setiap warga
+Negara wajib mengikuti pendidkan dasar dan pemerintah wajib membiayainya,
+dan Undang-Undang Nomor 20 Tahun 2003 tentang Sistem Pendidikan Nasional
+mengamanatkan bahwa setiap warga negara yang berusia 7-15 tahun wajib
+mengikuti pendidikan dasar. Pasal 34 ayat 2 menyebutkan bahwa pemerintah
+pusat dan daerah menjamin terselenggaranya wajib belajar minimal pada jenjang
+pendidikan dasar tanpa memungut biaya, sedangkan dalam ayat 3 menyebutkan
+bahwa wajib belajar merupakan tanggung jawab negara yang diselenggarakan
+oleh lembaga pendidikan pemerintah pusat, daerah, dan masyarakat.
+Konsekuensinya, pemerintah pusat dan daerah wajib memberikan layanan
+pendidikan bagi seluruh peserta didik pada tingkat pendidikan dasar (SD dan SMP) serta satuan pendidikan lain yang sederajat, agar mampu melanjutkan ke
+jenjang pendidikan yang lebih tinggi.
+
+Keterkaitan kemiskinan dan pendidikan sangat besar karena pendidikan
+memberikan kemampuan untuk berkembang lewat penguasaan ilmu dan
+keterampilan. Pendidikan juga menanamkan kesadaran akan pentingnya martabat
+manusia. Mendidik dan memberikan pengetahuan berarti menggapai masa depan.
+Hal tersebut harusnya menjadi semangat untuk terus melakukan upaya
+mencerdaskan bangsa (Suryawati, 2005 : 121).
+
+Penelitian yang dilakukan oleh Siregar dan Dwi Wahyuniarti (2008 : 359)
+menemukan bahwa pendidikan berpengaruh negatif terhadap tingkat kemiskinan.
+Hal ini menunjukkan bahwa pendidikan sangat penting dalam menurunkan tingkat
+kemiskinan.
+
+Pembangunan bidang pendidikan di Kabupaten Lampung Utara selama ini telah
+dilakukan melalui upaya pengembangan dan relevansi pendidikan sesuai dengan
+tujuan perkembangan iptek dan kebutuhan pasar kerja, dengan memperhatikan
+sistem pendidikan nasional yang berjalan dan juga sasaran komitmen-komitmen
+Internasional di bidang pendidikan. Akses masyarakat terhadap fasilitas-fasilitas
+pendidikan dapat dilihat dari angka partisipasi murni (APM) SD/MI 97,41 %
+menjadi 91,17 %, SMP/MTS dari 71,08 % menjadi 71,00 % dan SMA/MA/SMK
+meningkat dari 32,01 % menjadi 46,88 % serta proporsi penduduk melek huruf
+dari 95,23 % menjadi 95,71 % masing-masing pada tahun 2008 dan tahun 2012
+(BPS Lampung Utara, 2013).
+
+Faktor lain yang juga berpengaruh terhadap tingkat kemiskinan adalah
+pengangguran. Salah satu unsur yang menentukan kemakmuran suatu masyarakat
+adalah tingkat pendapatan. Pendapatan masyarakat mencapai maksimum apabila
+kondisi tingkat penggunaan tenaga kerja penuh (full employment) dapat terwujud.
+Pengangguran akan menimbulkan efek mengurangi pendapatan masyarakat, dan
+itu akan mengurangi tingkat kemakmuran yang telah tercapai. Semakin turunnya
+tingkat kemakmuran akan menimbulkan masalah lain yaitu kemiskinan (Sukirno,
+2004 : 28).
+
+Gambar 6. Tingkat Pengangguran di Kabupaten Lampung Utara
+Tahun 2008-2012 (persen)
+Sumber: BPS Lampung Utara, 2013
+
+Gambar 6 menunjukkan tingkat pengangguran di Kabupaten Lampung Utara
+tergolong masih tinggi, dimana masih dalam kisaran diatas 5 persen. Tingkat
+pengangguran di Lampung Utara tidak stabil, mengalami beberapa kali fase naik
+turun atau berfluktuasi. Pada tahun 2008, tingkat pengangguran sebesar 8,1
+persen, kemudian naik menjadi 10,61 persen di tahun 2009. Pada tahun 2010 dan 2011 tingkat pengangguran mengalami penurunan menjadi 6,46 persen dan di
+tahun 2012 mengalami kenaikan kembali menjadi 8,18 persen.
+Berdasarkan latar belakang diatas, maka dalam penelitian ini penulis tertarik
+untuk mengambil judul “ Analisis Faktor-Faktor yang Mempengaruhi Tingkat
+Kemiskinan di Kabupaten Lampung Utara“
+
+B. Rumusan Masalah
+Atas dasar permasalahan diatas maka persoalan penelitian yang ingin dipecahkan
+dalam penelitian ini adalah:
+1. Bagaimana pengaruh pertumbuhan ekonomi terhadap tingkat kemiskinan
+di Kabupaten Lampung Utara ?
+2. Bagaimana pengaruh upah minimum terhadap tingkat kemiskinan di
+Kabupaten Lampung Utara ?
+3. Bagaimana pengaruh pendidikan terhadap tingkat kemiskinan di
+Kabupaten Lampung Utara?
+4. Bagaimana pengaruh tingkat pengangguran terhadap tingkat kemiskinan di
+Kabupaten Lampung Utara?
+
+C. Tujuan Penelitian
+Berdasarkan latar belakang dan perumusan masalah di atas maka tujuan yang
+akan dicapai dalam penelitian ini adalah :
+1. Menganalisis pengaruh pertumbuhan ekonomi terhadap tingkat kemiskinan
+di Kabupaten Lampung Utara.
+16
+2. Menganalisis pengaruh upah minimum terhadap tingkat kemiskinan di
+Kabupaten Lampung Utara.
+3. Menganalisis pengaruh pendidikan terhadap tingkat kemiskinan di
+Kabupaten Lampung Utara.
+4. Menganalisis pengaruh tingkat pengangguran terhadap tingkat kemiskinan
+di Kabupaten Lampung Utara.
+
+D. Manfaat Penelitian
+1. Sebagai sumber informasi kepada pemerintah, khususnya Pemerintah
+Kabupaten Lampung Utara dalam pelaksanaan kebijakan pembangunan.
+2. Penelitian ini menjadi sumber pengetahuan dan informasi tentang faktorfaktor
+apa yang mempengaruhi tingkat kemiskinan di Kabupaten Lampung
+Utara.
+3. Sebagai bahan rujukan dan perbandingan bagi peneliti, mahasiswa dan
+dosen yang berminat melakukan penelitian dengan tema yang sama.
+
+E. Kerangka Pemikiran
+Dalam upaya memudahkan kegiatan penelitian yang akan dilakukan serta untuk
+memperjelas akar pemikiran dalam penelitian ini, berikut ini gambar kerangka
+pemikiran yang sistematis:
+
+Gambar 7. Model Kerangka Pemikiran
+
+Memperhatikan kerangka pemikiran tersebut dapat dijelaskan bahwa
+pertumbuhan ekonomi adalah indikator yang lazim digunakan untuk melihat
+keberhasilan pembangunan dan merupakan syarat bagi pengurangan kemiskinan.
+Pertumbuhan ekonomi menunjukkan sejauh mana aktivitas perekonomian akan
+menghasilkan tambahan pendapatan masyarakat pada suatu periode tertentu.
+Tambahan pendapatan dari aktivitas ekonomi akan berpengaruh terhadap
+kemiskinan jika mampu menyebar di setiap golongan pendapatan, termasuk
+golongan miskin. Semakin banyak golongan miskin memperoleh manfaat dari
+pertumbuhan ekonomi maka kesejahteraannya akan meningkat dan lepas dari
+kemiskinan.
+
+Tujuan utama penetapan upah minimum adalah meningkatkan kesejahteraan dan
+melindungi pekerja. Upah minimum mencerminkan pendapatan yang diterima
+pekerja, adanya kenaikan tingkat upah minimum akan meningkatkan pendapatan
+masyarakat. Penetapan upah minimum yang pantas dan tepat diharapkan mendorong penduduk yang berada dibawah kemiskinan mampu hidup layak
+sehingga tingkat kemiskinan akan turun.
+
+Keterkaitan kemiskinan dan pendidikan sangat besar karena pendidikan
+memberikan kemampuan untuk berkembang lewat penguasaan ilmu dan
+keterampilan yang akan meningkatkan produktifitas. Semakin tinggi tingkat
+pendidikan, maka pengetahuan dan keahliannya akan meningkat, sehingga akan
+mendorong produktivitas kerjanya. Pada akhirnya seseorang yang memiliki
+produktivitas yang tinggi akan memperoleh kesejahteraan yang lebih baik, yang
+diperlihatkan melalui peningkatan pendapatan maupun konsumsinya.
+Pengangguran akan menimbulkan berbagai masalah ekonomi dan sosial kepada
+yang mengalaminya. Kondisi menganggur menyebabkan seseorang tidak
+memiliki pendapatan, akibatnya kesejahteraan yang telah dicapai akan semakin
+merosot. Semakin turunnya kesejahteraan masyarakat karena menganggur
+tentunya akan meningkatkan peluang terjebak dalam kemiskinan.
+
+
+F. Hipotesis
+Hipotesis adalah jawaban sementara atau kesimpulan yang diambil untuk
+menjawab permasalahan yang diajukan dalam suatu penelitian yang sebenarnya
+masih harus diuji secara empiris. Hipotesis yang dimaksud merupakan dugaan
+yang mungkin benar atau mungkin salah.
+Mengacu pada dasar pemikiran yang bersifat teoritis dan berdasarkan studi
+empiris yang pernah dilakukan berkaitan dengan penelitian dibidang ini, maka
+akan diajukan hipotesis sebagai berikut :
+
+1. Diduga variabel pertumbuhan ekonomi berpengaruh negatif terhadap
+kemiskinan di Kabupaten Lampung Utara.
+2. Diduga variabel upah minimum regional berpengaruh negatif terhadap
+kemiskinan di Kabupaten Lampung Utara.
+3. Diduga variabel pendidikan berpengaruh negatif terhadap kemiskinan di
+Kabupaten Lampung Utara.
+4. Diduga variabel pengangguran berpengaruh positif terhadap kemiskinan di
+Kabupaten Lampung Utara.
+
+G. Sistematika Penulisan
+Penelitian ini disusun dengan sistematika bab yang terdiri dari BAB I
+Pendahuluan, BAB II Studi Pustaka, BAB III Metode Penelitian, BAB IV Hasil
+dan Pembahasan serta BAB V Simpulan dan Saran.
+
+BAB I Pendahuluan
+Merupakan pendahuluan, berisi latar belakang masalah yang merupakan landasan
+pemikiran secara garis besar, baik secara teoritis dan fakta serta pengamatan yang
+menggambarkan permasalahan penelitian.
+BAB II Tinjauan Pustaka
+Merupakan tinjauan pustaka yang berisikan tinjauan teoritis dan tinjauan empirik
+yang relevan dengan penelitian ini.
+20
+BAB III Metode Penelitian
+Merupakan metode penelitian, berisi tentang jenis dan sumber data, metode
+pengumpulan data dan metode analisis data yang digunakan untuk memberikan
+jawaban atas permasalahan yang ada.
+BAB IV Hasil dan Pembahasan
+Merupakan hasil dan pembahasan, berisi tentang deskriptif objek penelitian,
+analisis ddata yang menjelaskan estimasi sarta pembahasan yang menerangkan
+interpretasi dan pembahasan hasil penelitian.
+BAB V Simpulan dan Saran
+Merupakan simpulan hasil analisis data pembahasan, dalam bagian ini juga berisi
+keterbatasan dan saran-saran yang direkomendasikan kepada pihak- pihak tertentu
+yang berkaitan dengan tema penelitian ini.

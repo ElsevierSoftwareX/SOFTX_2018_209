@@ -1,0 +1,120 @@
+﻿ABSTRAK 
+Jakarta merupakan pusat pemerintahan Indonesia, dan juga merupakan pusat bisnis dan perdagangan, hal ini merupakan salah satu penyebab banyaknya penduduk Indonesia ingin bekerja serta tinggal di kota jakarta. Jakarta memiliki penduduk lebih dari 9 juta jiwa, namun angka tersebut dapat naik drastis di siang hari pada waktu sibuk, jumlahnya dapat bertambah sekitar 2 juta jiwa ketika para Komuter (penduduk yang tinggal diluar kota jakarta) datang ke Jakarta untuk bekerja dan pulang lagi ke asal mereka pada malam hari, hal ini terjadi hampir setiap hari di kota jakarta. Salah satu permasalahan di kota jakarta yang terjadi karena padatnya penduduk dan semakin hari semakin memburuk adalah masalah kemacetan, hal ini terjadi karena jumlah kendaraan yang ada di kota jakarta semakin hari juga semakin mamadat dan pertumbuhan jalan tidak sesuai dengan penambahan kendaraan tersebut. Dari permasalahan tersebut pemerintah berupaya memberikan solusi dengan membuat dan merencanakan berbagai jenis transportasi massal yang memiliki jalur khusus sehingga dapat mengurangi permasalahan kemacetan di Jakarta. Antara lain yaitu perencanaan moda transportasi bus cepat (BRT) dengan sistem jalur bus khusus atau busway, dan moda transportasi berbasis rel yaitu kereta monorel yang memiliki jalur melayang diatas permukaan jalan. 
+Dari upaya pemerintah diatas maka dibutuhkan sebuah Terminal Antarmoda yang berfungsi untuk mengintegrasikan antara busway dengan monorel sehingga dapat mempermudah pengguna dalam melakukan perpindahan moda transportasi . Kajian diawali dengan mempelajari pengertian tentang Terminal Antarmoda serta program-program pemerintah yang mendukungnya, dan juga spesifikasi dari moda transportasi yang akan dipergunakan serta lokasi perencanaan. Sebagai kesimpulan, luaran program ruang yang diperlukan untuk merencanakan sebuah terminal antarmoda, serta gambar-gambar 2 dimensi dan 3 dimensi sebagai ilustrasi desain. 
+Kata Kunci : Transportasi massal, Terminal Antarmoda, Kemacetan, , Jakarta, Monorel, Busway.
+
+
+Terminal Antarmoda Monorel – Busway di Jakarta BAB I | 1 
+ BAB 1 
+PENDAHULUAN 
+1.1 Latar Belakang 
+Jakarta merupakan tempat pusat pemerintahan Indonesia, dan juga merupakan pusat bisnis dan perdagangan, hal ini merupakan salah satu penyebab banyaknya penduduk Indonesia ingin bekerja serta tinggal di kota jakarta. Jakarta memiliki penduduk lebih dari 9 juta jiwa, namun angka tersebut dapat naik drastis di siang hari pada waktu sibuk, jumlahnya dapat bertambah sekitar 2 juta jiwa ketika para Komuter (penduduk yang tinggal diluar kota jakarta) datang ke Jakarta untuk bekerja dan pulang lagi ke asal mereka pada malam hari, hal ini terjadi hampir setiap hari di kota jakarta. Salah satu permasalahan di kota jakarta yang terjadi karena padatnya penduduk dan semakin hari semakin memburuk adalah masalah kemacetan, hal ini terjadi karena jumlah kendaraan yang ada di kota jakarta semakin hari juga semakin mamadat dan pertumbuhan jalan tidak sesuai dengan penambahan kendaraan tersebut. Suatu kota atau negara dapat maju salah satunya dipengaruhi oleh faktor transportasi, karena semakin cepat perpindahan orang atau barang maka akan semakin banyak juga waktu yang tersedia untuk bekerja atau melakukan aktifitas sehingga makin sedikit waktu yang akan terbuang sia-sia, namun di Jakarta rata – ata penduduknya menghabiskan atau kehilangan waktu kurang lebih 2 jam selama perjalanan hanya untuk pulang – pergi kerja. 
+Beranjak dari permasalahan kemacetan tersebut pemerintah kota jakarta sebenarnya sudah merencanakan sebuah sistem transportasi massal atau MRT (Mass Rapid Transit) yang berbasis rel dan mampu mengangkut penumpang dengan cepat, sehingga dapat menambah minat para penduduk kota jakarta untuk menggunakan transportasi umum dibanding dengan kendaraan pribadi. Hasil dari realisasi MRT tersebut nantinya berupa 3 jenis moda transportasi berbasis rel yaitu : kereta api permukaan yang berupa KRL (Kereta Rel Listrik), kereta api layang yang berupa kereta Monorel, dan Kerata api bawah tanah (Subway). 
+Di kota jakarta sendiri sebenarnya sudah mempunyai sebuah moda transportasi massal yang berupa bus TransJakarta, moda transportasi ini di golongkan dalam jedis BRT (Bus Rapid Transit), dan menerapkan sistem Jalur Khusus Bus atau biasa disebut Busway, namun hanya dengan adanya BRT ini diperkirakan tidak sanggup untuk menampung seluruh penumpang di kota jakarta, oleh karena itu pemerintah kota jakarta merencanakan MRT yang nantinya dapat dijadikan pilihan moda transportasi umum bagi seluruh warga jakarta. Pemerintah kota jakarta berharap dengan adanya banyak pilihan moda transportasi massal di jakarta nantinya dapat mengurangi permasalahan kemacetan yang sudah lama terjadi di kota jakarta. Seperti yang dikatakan oleh Gubernur DKI jakarta bapak Joko Widodo “Semua ini tujuannya agar masyarakat punya banyak pilihan angkutan massal”, Karena menurut beliau, problem kemacetan di Jakarta salah satunya adalah minimnya angkutan massal. Oleh sebab itu, masyarakat pun lebih memilih menggunakan angkutan pribadi. Dari proyek MRT tersebut, proyek monorel merupakan proyek yang diharapkan mampu mengatasi problem kemacetan, karena memiliki jalur transportasi yang elevated atau berada di atas permukaan tanah sehingga tidak akan bersimpangan atau saling bersilangan dengan kendaraan lain di permukaan tanah. Proyek ini sudah mulai berjalan pada tahap pembangunan, pada pembangunan jalur Kereta monorel ini nantinya dibangun pada 3 fase tahap pembangunan : 
+
+ Fase I: Koridor Jakarta (29 km) 
+ Stage I: Jalur hijau (14,8 km) 
+ Stage II: Jalur biru (14,2 km) 
+ Fase II: Jakarta ke Bekasi dan Cikarang (18-30 km) 
+ Fase III: Jakarta ke Tangerang dan Karawaci (16-25 km) 
+
+Pada fase pembangunan tersebut, fase 1 merupakan fase yang sudah masuk pada tahap pembangunan atau realisasi, yang terdiri dari dua buah jalur yaitu hijau dan biru, yang nantinya melewati CBD (Central Business District) di kota jakarta. 
+Dari pembangunan proyek monorel ini, akan dibutuhkan beberapa buah stasiun untuk tempat pertukaran penumpang naik dan turun, pada jalur hijau kurang lebih dibutuhkan 15 buah stasiun transit, sedangkan pada jalur biru dibutuhkan kurang lebih 13 buah stasiun transit. Stasiun tersebut sudah direncanakan setiap titik perletakannya oleh pemerintah kota jakarta, Namun belum masuk pada tahap perencanaan dan pembangunan stasiun monorelnya. akan lebih baik apabila nantinya rute monorel dapat berintegrasi dengan rute transportasi umum lainnya yang sudah ada seperti Bus TransJakarta, sehingga warga jakarta dapat dengan mudah berpindah moda transportasi dan pindah rute sesuai tujuan masing-masing. Seperti yang dikatakan oleh Sekretaris Badan Perencanaan dan Pembangunan Daerah (Bappeda) DKI Jakarta Priyadi Priyautama menyatakan, “dengan sistem integrasi maka penumpang tidak perlu susah-susah lagi bila ingin pindah dari satu jalur ke jalur yang lain”. Apabila rute monorel di integrasikan dengan rute busway atau TransJakarta, sistem integrasi ini juga dapat menutup kelemahan jangkauan jalur monorel pada fase 1 yang hanya menjangkau daerah-daerah tertentu pada pusat CBD kota jakarta, Karena jangkauan pada rute bus TransJakarta sudah cukup luas sampai ke seluruh daerah di kota jakarta. Kurangnya sarana dan prasarana perpindahan transportasi umum di kota Jakarta juga merupakan salah satu hal yang membuat warga jakarta enggan untuk memilih menaiki transportasi umum, karena warga harus berpindah pindah moda transportasi tanpa adanya sarana atau tempat untuk menunggu yang memenuhi kriteria aman serta nyaman. Dan juga diharapkan dengan adanya sistem integrasi ini nantinya pemerintah jakarta juga menyediakan sebuah tiket terusan atau tiket terpadu yang berlaku bagi monorel dan juga bus TransJakarta, sehingga warga jakarta tidak perlu repot-repot membayar dua kali untuk setiap jenis moda trasnportasi yang dinaiki, namun hanya perlu membeli tiket sekali untuk menaiki monorel dan juga busway atau TransJakarta. 
+
+Sebuah perjalanan transportasi yang menggunakan 2 buah atau lebih jenis moda transportasi itu dinamakan Antarmoda dan juga Multimoda, namun kedua kata tersebut memiliki arti yang berbeda menurut Prof Dr Ir Agus Taufik Mulyono, M.T yaitu, transportasi Antarmoda mengarah pada situasi dimana penumpang dan atau barang menggunakan lebih dari satu moda transportasi dalam satu perjalanan yang berkesinambungan. Sedangkan transportasi Multimoda merupakan transportasi barang dengan menggunakan paling sedikit 2 (dua) moda transportasi yang berbeda, atas dasar satu kontrak yang menggunakan dokumen transportasi multimoda dari suatu tempat barang yang diterima oleh operator transportasi multimoda ke suatu tempat yang ditentukan untuk penerimaan barang tersebut (Peraturan Pemerintah No 8 Tahun 2011 tentang Angkutan Multimoda). (dikutip dari majalah Transmedia edisi 08/2012). Dari penjabaran diatas yang Terminal lebih mengarah pada penghubungan rute transportasi umum monorel dan busway adalah transportasi Antarmoda, karena penggunanya tidak berdasar pada sebuah kontrak perjalanan. 
+
+Oleh karena itu perencanaan dan perancangan Terminal Antarmoda yang merupakan sebuah titik temu yang memfasilitasi pergantian moda transportasi khususnya monorel dan busway, diangkat menjadi sebuah tema atau judul karena merupakan sebuah solusi disain yang tepat dalam mengatasi permasalahan di kota Jakarta. Lokasi stasiun antarmoda yang terpilih adalah di daerah setiabudi utara tepatnya berada dijalan H.R. Rasuna Said, Jakarta Selatan. Karena tempat tersebut merupakan jalur persilangan antara rute monorel dengan rute TransJakarta, dan juga lokasi tersebut memungkinkan untuk dibuat sebuah terminal antarmoda. Pemerintah juga telah membuat beberapa peraturan mengenai legalitas penyelenggaraan transportasi antarmoda/ multimoda di Indonesia, di antaranya: UU No. 38/2004 tentang Jalan; UU No. 22/2009 tentang LLAJ (Lalu Lintas & Angkutan Jalan); PP No. 8/2011 tentang Angkutan Multimoda; dan Kepmenhub No. 49/2005 tentang Sistranas (Sistem Transportasi Nasional); Peraturan Pemerintah Nomor 8 Tahun 2011 tentang Angkutan Multimoda; Peraturan Presiden Nomor 26 Tahun 2012; Peraturan Menteri Perhubungan Nomor 8 Tahun 2012 tentang Penyelenggaraan dan Pengusahaan Angkutan Multimoda. 
+
+1.2 Tujuan dan Sasaran 
+
+ Tujuan 
+
+Tujuan dari penyusunan Landasan Program Perencanaan dan Perancangan Arsitektur Terminal Antarmoda monorel - Busway di Jakarta adalah untuk mendapatkan satu pedoman yang akan menjadi landasan dalam perencanaan dan perancangan Terminal Antarmoda berdasarkan aspek-aspek panduan perencanaan dan perancangan. 
+ Sasaran 
+
+Landasan Program Perencanaan dan Perancangan Arsitektur Terminal Antarmoda monorel - Busway di Jakarta akan berfokus pada pencarian pedoman atau landasan dalam mendesain stasiun monorel serta halte busway di Jakarta, termasuk mencari jenis moda transportasi yang digunakan, perkembangan proyek sejenis di lapangan, melakukan studi banding dengan bangunan yang memiliki karakter atau fungsi yang sama, mencari lokasi tapak perencanaan dan perancangan dan mencari peraturan lokasi mengenai ketentuan serta peruntukan bangunan setempat. 
+1.3 Manfaat 
+
+ Secara Subyektif 
+a. Memperoleh wawasan serta pengetahuan tentang dasar – dasar perencanaan dan perancangan mengenai terminal antarmoda, khususnya stasiun monorel dan halte busaway. 
+b. Sebagai salah satu syarat yang harus dipenuhi untuk Menyelesaikan Tugas Akhir di Jurusan Arsitektur Fakultas Teknik Universitas Diponegoro. 
+ Secara Objektif 
+a. Sebagai sumbangan ilmu dan pengetahuan arsitektur terkait dengan bangunan yang dapat menghubungkan 2 jenis moda transportasi yang berbeda khususnya stasiun monorel dengan halte busway di jakarta. 
+b. Dapat digunakan sebagai tambahan referensi pengetahuan dan wawasan bagi mahasiswa/i yang akan mengajukan proposal Tugas Akhir. 
+
+1.4 Ruang Lingkup Pembahasan 
+
+ Ruang Lingkup Substansial 
+
+Ruang lingkup perencanaan dan perancangan Terminal Antarmoda Monorel – Busway di Jakarta adalah bangunan dengan 2 masa dan dihubungkan oleh bangunan penghubung (connection building), dengan 2 masa bangunan utamanya adalah stasiun monorel dan halte busway ,lalu bangunan penghubungnya berfungsi sebagai sirkulasi untuk menghubungkan kedua bangunan utama tersebut. Pada Ruang lingkup ini juga terdapat batasan dan anggapan antara lain adalah : 
+Batasan : 
+ Pada perencanaan dan perancangan terminal antarmoda ini mengambil pedoman dari RTRW DKI jakarta yang menjadikan wilayah Setiabudi sebagai pusat terminal antarmoda. Namun dalam perencanaan dan perancangan terminal antarmoda monorel – Busway ini hannya menghubungkan antara 2 moda transportasi yaitu monorel dengan busway, hal ini dikarenakan keterbatasan waktu serta data dalam mengerjakannya. 
+ Titik berat perencanaan dan perancangan adalah masalah-masalah arsitektural, permasalahan di bidang ekonomi, politik, dan bidang lain di luar bidang arsitektur selanjutnya tidak akan dibahas, kecuali selama masih berkaitan dan mendukung masalah utama. 
+ Pada perencanaan bangunan stasiun monorel mengadopsi atau menganalogikan dari kebutuhan ruang pada stasiun kereta api pada umumnya, dikarenakan di jakarta proyek monorel ini masih dalam tahap perencanaan rute dan pembangunan jalur monorel, belum sampai tahap perencanaan stasiun sehingga tidak ada pedoman atau standar khusus terhadap kebutuhan ruang – ruangya. 
+
+Anggapan : 
+ Tapak terpilih dianggap telah memenuhi persyaratan dan siap digunakan dengan batas-batas yang ada. Dalam penyediaan pembebasan tanah dianggap tidak terdapat masalah. 
+ Sistem tiket atau pembayaran monorel dan busway dianggap sudah terintegrasi atau sistem tiket terusan, dan sitem penggunaan tiket mengadopsi dari sistem tiket pada Transjakarta yang menggunakan kartu elektronik dan dapat di isi ulang sehingga tidak harus memebeli tiket berulang kali. 
+ Terminal antarmoda ini tidak memiliki fasilitas parkir, karena baik stasiun monorel atau halte bus yang direncanakan bukan merupakan sebuah stasiun atau halte pusat yang menyediakan fasilitas parkir. 
+ Studi kelayakan struktur dan daya dukung tanah dianggap telah dilaksanakan dan dapat digunakan untuk rekomendasi proses perencanaan dan perancangan selanjutnya. 
+
+ Dana untuk pembangunan Terminal Antarmoda Monorel – Busway di jakarta yang direncanakan dianggap telah tersedia dan sesuai dengan program perencanaan dan perancangan. 
+ Jaringan utilitas seperti air bersih, listrik, telepon, dan sanitasi dapat difungsikan sepenuhnya dan tersedia. 
+
+ Ruang Lingkup Spasial 
+
+Stasiun Monorel Antarmoda ini berlokasi di kota Jakarta atau DKI Jakarta tepatnya berada di jalan H.R. Rasuna Said yang berada dikelurahan setiabudi dan erbatasan juga dengan sungai cideng dimana secara administratif berada di kecamatan setiabudi, Jakarta Selatan, DKI Jakarta. 
+
+1.5 Permasalahan Perancangan 
+
+Masalah perancangan utama yang dihadapi pada kasus ini adalah sistem sirkulasi, yaitu pergerakan manusia di dalam bangunan baik secara horizontal atau vertical. Kemudian, sirkulasi antarmoda, bagaimana pengguna stasiun berpindah dari stasiun monorel menuju halte busway atau sebaliknya, selain itu sistem sirkulasi di luar terminal antarmoda mengenai hubungan antara terminal antarmoda dengan pedestrian. 
+
+1.6 Metode Pembahasan 
+
+Metode pembahasan yang digunakan dalam penyusunan sinopsis Stasiun Monorel Antarmoda ini adalah metode deskriptif, dokumentatif dan komparatif dimana penyusunan dilakukan dengan mengumpulkan data, menjelaskan dan menjabarkan terhadap informasi terkait perencanaan dan perancangan Stasiun Monorel Antarmoda di Jakarta serta dokumentasi di lapangan dan sumber-sumber terkait yang dapat di pertanggung jawabkan. 
+Langkah-langkah yang diambil dalam pengumpulan data adalah : 
+1.6.1 Metode Deskriptif 
+
+Metode deksriptif menitikberatkan pada penjabaran serta pemaparan terkait dengan perencanaan Stasiun Monorel Antarmoda. Dilakukan dengan studi referensi sebagai sumber informasi terhadap perencanaan Terminal Monorel Antarmoda dan dari berbagai sumber tertulis lainnya yang relevan dan dapat dipertanggung jawabkan serta bertanya pada pihak terkait untuk memperoleh pemahaman perencana seperti monorel jakarta. 
+1.6.2 Metode Dokumentatif 
+
+Mendokumentasikan berbagai kegiatan yang terkait dengan proses perencanaan Terminal Antarmoda seperti survey lapangan. 
+1.6.3 Metode Komparatif 
+
+Sebagai salah satu bentuk pengumpulan data primer memerlukan penggunaan metode komparatif atau membandingkan. Studi banding lokasi serta hal-hal lainnya yang terkait dengan permasalahan perencanaan Terminal Antarmoda.
+
+1.7 Sistematika Pembahasan 
+
+Sistematika pembahasan dalam penyusunan Landasan Program Perencanaan dan Perancangan Arsitektur (LP3A) adalah sebagai berikut : 
+Bab I PENDAHULUAN 
+Berisi latar belakang, tujuan dan sasaran, manfaat, ruang lingkup, permasalahan perancangan, metode pembahasan, sistematika pembahasan alur perolehan judul dan alur pikir. 
+Bab II TINJAUAN PUSTAKA 
+Berisi tinjauan dan kajian mengenai Terminal Antarmoda, Stasiun Monorel, Halte Busway, Bangunan Penghubung dan studi banding terkait dengan perencanaan Terminal Antarmoda Monorel - Busway di Jakarta. 
+Bab III TINJAUAN LOKASI 
+Berisi Tinjauan Umum Lokasi berupa keadaan geografis, topografi dan klimatologis serta peraturan setempat yang terkait dengan rencana tapak Terminal Antarmoda di Jakarta. 
+Bab IV PENDEKATAN PROGRAM PERENCANAAN DAN PERANCANGAN 
+Berisi uraian yang berkaitan dengan dasar pendekatan dan analisis dalam menentukan program perencanaan dan perancangan berdasarkan aspek fungsional kerja, kontekstual, teknis dan kinerja. 
+Bab V PROGRAM PERENCANAAN DAN PERANCANGAN ARSITEKTUR 
+Merupakan hasil akhir pembahasan LP3A, sekaligus menjadi acuan untuk perancangan arsitektur pada tahap berikutnya. Berisi program ruang dan kebutuhan luas tapak.
+
+1.8 Alur Perolehan Judul 
+
+LATAR BELAKANG 
+ Rencana Pemerintah kota Jakarta untuk membangun monorel dengan jalur rel elevated. 
+ Permasalahan kemacetan di kota Jakarta yang semakin parah, karena meningkatnya jumlah kendaraan pribadi setiap tahunnya. 
+ Adanya 3 (tiga) UU yang memberlakukan Keterpaduan sistem jaringan pelayanan (susunan rute-rute pelayanan transportasi yang membentuk satu kesatuan hubungan) dan jaringan prasarana transportasi multimoda/antarmoda. (Peraturan Pemerintah Nomor 8 Tahun 2011 tentang Angkutan Multimoda; Peraturan Presiden Nomor 26 Tahun 2012; Peraturan Menteri Perhubungan Nomor 8 Tahun 2012 tentang Penyelenggaraan dan Pengusahaan Angkutan Multimoda. 
+ Setiabudi sebagai salah satu titik pertemuan jalur transportasi umum antara rencana monorel dengan busway. 
+ Kawasan Setiabudi sebagai stasiun terpadu dan titik perpindahan beberapa moda transportasi dengan konsep Transit Oriented Development (TOD) hal tersebut disebutkan dalam rencana tata ruang wilayah DKI Jakarta 2030. 
+
+KENYATAAN 
+ Di jakarta masih menerapkan sistem unimoda yang terlihat dari pengembangan transjakarta, namun belum ada moda transportasi lain yang berintegrasi dengan transjakarta. 
+ Belum adanya sebuah Stasiun Antarmoda yang menghubungkan antara 2 jenis transportasi umum di Jakarta khususnya monorel dengan bus TransJakarta. 
+
+HARAPAN 
+ Dibutuhkan Sistem transportasi umum yang saling berintegrasi (antarmoda) sebagai salah satu upaya untuk memudahkan para penumpang dalam berganti moda transportasi, sehingga dapat menarik minat warga jakarta untuk menggunakan transportasi umum. 
+ Integrasi antara jalur transportasi monorel dengan transjakarta. 
+
+PROBLEMATIKA 
+SOLUSI 
+Perencanaan dan Perancangan Terminal Antarmoda di Jakarta yang akan dapat mengakomodasi perpindahan moda transportasi umum yaitu dari monorel menuju busway atau sebaliknya, tanpa harus keluar stasiun (hanya perlu berpindah dari stasiun monorel menuju halte busway melalui bangunan penghubung yang berfungsi sebagai jalur sirkulasi, namun masih termasuk bagian dari stasiun ataupun halte). Terminal antarmoda ini nantinya memfasilitasi penumpang yang ingin turun atau menaiki kereta monorel dan bus transjakarta pada titik tersebut, dan penumpang yang ingin berpindah moda dari kereta monorel menuju bus transjakarta atau sebaliknya dari bus transjakarta menuju kereta monorel. 
+

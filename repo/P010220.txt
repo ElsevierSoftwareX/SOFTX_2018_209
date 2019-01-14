@@ -1,0 +1,132 @@
+﻿Pendahuluan
+Combinatorial problem merupakan suatu permasalahan matematis untuk menyusun, mengelom-pokkan, mengurutkan, atau memilih sejumlah objek diskrit tertentu (Lawler ). Sampai saat ini, combinatorial problem masih menjadi salah satu bidang yang sering diteliti karena dengan semakin berkembangnya ilmu pengetahuan diharapkan akan ditemukan metode-metode maupun pendekatan-pendekatan baru yang bisa menjadi sebuah cara penyelesaian terbaik untuk permasalahan ini. Contoh combinatorial problem adalah travelling salesman problem, knapsack problem, dan vehicle routing problem.
+Vehicle Routing Problem (VRP) merupakan permasalahan m-travelling salesman (Kallehauge ). Dalam permasalahan ini, terdapat m-salesman yang berangkat dari suatu kota kemudian melakukan kunjungan ke sejumlah kota. Setiap kota hanya dapat dikunjungi oleh satu salesman saja. Tujuan utamanya adalah meminimalkan total jarak atau total biaya perjalanan. VRP merupakan permasalahan klasik yang sangat dekat dengan kehidupan manusia. Contoh permasalahan yang dapat diselesaikan dengan pendekatan VRP adalah penentuan rute pengiriman surat, laundry, dan koran. Sampai saat ini, sudah banyak algoritma heuristik yang dihasilkan dari penelitian-penelitian untuk menyelesaikan permasalahan VRP, diantaranya adalah genetic algorithm, tabu search, simulated annealing, dan ant colony. Dalam prosesnya, meski-pun memberikan hasil yang memuaskan, algoritma-algoritma penyelesaian tersebut memiliki beberapa parameter tertentu. Jika nilai parameter-parameter tersebut diubah, maka hasil penyelesaiannya akan berbeda. Sampai saat ini penelitian untuk permasalahan VRP masih terus dilakukan karena masih belum ada algoritma heuristik yang konsisten untuk memberikan hasil terbaik.
+Perkembangan ilmu pengetahuan memberikan alternatif baru dalam penyelesaian permasalahan optimasi. Omran dan Salman  mengembangkan algoritma CODEQ yang merupakan sintesis dari empat algoritma yang telah ada, yaitu chaotic search, opposition-based learning, differential evolution (DE), dan quantum mechanism. CODEQ meru-pakan algoritma metaheuristic yang tidak membutuhkan inputan parameter (kecuali untuk ukuran populasi) dan telah berhasil diterapkan untuk menyelesaikan permasalahan-permasalahan continuous berkonstrain (Omran dan Salman ); integer programming (Omran dan al-Sharhan  dan Chiou dan Chang ); serta feed-forward artificial neural network (Omran dan al-Adwani, ). Performansi algoritma CODEQ terbukti menghasilkan solusi yang lebih baik dibandingkan algoritma optimasi lainnya pada permasalahan optimasi kontinu (Omran ). Sementara itu, Chiou dan Chang  menggunakan algoritma CODEQ untuk menyelesaikan permasalahan diskrit yaitu penempatan kapasitor dalam sistem distribusi dengan integer programming. Hasil penelitian Chiou dan Chang  menunjukkan performansi algoritma CODEQ lebih baik dibanding algoritma DE dan Simulated Annealing (SA). Berdasarkan keunggulan algoritma CODEQ dalam menyelesaikan permasalahan kon-tinu dan diskrit, penelitian ini bertujuan mengem-bangkan algoritma CODEQ untuk menyelesaikan salah satu permasalahan optimasi diskrit yaitu VRP. Penelitian terdahulu mengenai algoritma CODEQ untuk menyelesaikan VRP telah dilakukan oleh Narendra . Narendra  menggunakan pendekatan cluster first-route second yang berarti node-node dikelompokkan terlebih dahulu menjadi satu klaster, kemudian node-node tersebut disusun menjadi rute berurutan berdasarkan jarak terdekat-nya. Menurut Fuellerer , pendekatan route-first-cluster second memiliki tingkat kesulitan yang lebih mudah dibanding cluster first-route second sehingga waktu komputasi cenderung lebih singkat. Berdasarkan pertimbangan tersebut, penelitian ini akan menggunakan pendekatan route first-cluster second dalam menyelesaikan permasalahan penentuan rute.
+Metode Penelitian
+Tahap Pengembangan Algoritma
+Terdapat dua macam pendekatan heuristik yang digunakan para peneliti untuk menyelesaikan per-masalahan VRP, yaitu route first-cluster second dan cluster first-route second. Penelitian ini mengguna-kan pendekatan route first-cluster second, sehingga penyelesaian dimulai dengan membentuk giant tour (TSP tour) dengan merelaksasi batasan kapasitas kendaraan dan kemudian memecah giant tour tersebut menjadi beberapa sub tour dengan mempertimbangkan kapasitas kendaraan. Berdasarkan pendekatan tersebut, pengembangan algoritma dilakukan dengan memodifikasi algoritma CODEQ yang diusulkan Omran dan Salman  pada langkah pembangkitan vektor mutan dan vektor baru sehingga diperoleh giant tour (urutan node yang dikunjungi) dalam bilangan integer. Selain itu menambahkan langkah untuk membentuk sub tour berdasarkan giant tour yang telah dibuat.
+Langkah-langkah penyelesaian VRP dengan algorit-ma CODEQ yang diusulkan adalah:
+1. Inisialisasi populasi sebagai solusi awal
+Sebagaimana algoritma evolutionary optimization, CODEQ merupakan algoritma yang membutuhkan solusi awal. Jumlah solusi awal yang dibangkitkan (ukuran populasi) dinotasikan sebagai NP. Dalam hal ini, solusinya merupakan vektor yang menggambarkan urutan node yang dikunjungi. Inisialisasi populasi dibangkit-kan dengan dua cara, yaitu acak dan mengguna-kan metode nearest neighbour.
+2. Pembangkitan vektor mutan dari vektor parent untuk setiap iterasi dengan rumus:
+( ) ( ) (1)
+Bila vektor merupakan bilangan real, maka harus diubah menjadi bilangan integer dengan metode integer order criterion (Mingyong dan Erbao ). Gen dengan bilangan real terbesar akan menjadi konsumen dengan ordinal number terbesar ( ), selanjutnya gen dengan bilangan real terbesar kedua akan menjadi konsumen , dan seterusnya.
+3. Penggantian parent oleh mutan bila nilai fitness function mutan lebih baik dari parent, dan sebaliknya. Pada tahap ini, dilaku-kan perhitungan total jarak yang ditempuh oleh kendaraan.
+4. Pembangkitan vektor baru pada setiap iterasi dengan rumus:
+jika rand (2)
+| | jika rand > 0,5 (3)
+dimana r didapatkan secara acak U(0,1), dan merupakan batas bawah dan atas pada permasalahan, merupakan worst (least fit) vector pada iterasi t, merupakan best (fittest) vector pada iterasi t, dan merupakan vektor yang dipilih secara random dengan dan merupakan chaotic variable yang didapatkan dari rumus:
+jika (4)
+jika (5)
+dengan dan didapatkan secara random pada interval (0,1).
+Pembangkitan vektor baru dihitung meng-gunakan persamaan 2 atau 3 tergantung pada bilangan random yang diperoleh apakah bernilai lebih dari 0,5 atau sebaliknya. Dalam penelitian ini, penetapan bilangan sebesar 0,5 mengacu pada algoritma yang telah dikembang-kan oleh Omran dan Salman .
+Sama dengan prosedur yang diterapkan pada langkah 2, bila vektor merupakan bilangan real, maka harus diubah menjadi bilangan integer dengan metode integer order criterion (Mingyong dan Erbao ). Gen dengan bilangan real terbesar akan menjadi konsumen dengan ordinal number terbesar , selanjutnya gen dengan bilangan real terbesar kedua akan menjadi konsumen , dan seterusnya.
+5. Penggantian solusi rute terburuk oleh vektor bila nilai fitness function vektor baru tersebut lebih baik dari rute terburuk. Pada tahap ini, dilakukan perhitungan total jarak
+yang ditempuh oleh kendaraan.
+6. Penghentian iterasi jika stoping criteria telah
+tercapai, jika belum, maka kembali ke langkah 2,
+jika sudah maka ke langkah 7. Dalam penelitian
+ini, iterasi akan dihentikan bila dalam 700 iterasi
+berikutnya tidak terdapat perubahan solusi yang
+dihasilkan.
+7. Pembentukan sub-tour dengan memperhatikan
+batasan kapasitas kendaraan.
+Tahap Uji Coba Algoritma
+Algoritma CODEQ yang diusulkan selanjutnya
+dikoding dengan menggunakan bahasa pemrograman
+Matlab sehingga diperoleh program komputer
+yang akan digunakan dalam percobaan numerik.
+Validasi program komputer dilakukan untuk
+mengetahui apakah program komputer telah
+memberikan solusi yang benar sesuai dengan
+langkah-langkah algoritma yang diusulan. Validasi
+dilakukan dengan membandingkan solusi antara
+penyelesaian secara manual dan dengan program
+komputer. Jika tidak perbedaan solusi maka dapat
+disimpulkan program yang dibuat telah valid.
+Penyelesaian VRP secara manual menggunakan
+sebuah set data berukuran kecil untuk meminimalkan
+jumlah iterasi yang harus dilakukan sesuai
+langkah-langkah algoritma yang diusulkan. Set
+data tersebut diambil dari penelitian yang dilakukan
+oleh Rera . Rera  menggunakan set data
+dengan jumlah node sebanyak 4 untuk memvalidasi
+program komputer yang dibuat berdasarkan algoritma
+cross entrophy yang dikembangkan untuk menyelesaikan
+VRP.
+Percobaan numerik dilakukan dengan menggunakan
+4 set data dari Christofides dan Eilon  dan
+1 set data dari penelitian yang dilakukan oleh
+Indriana . Set data dari Christofides dan Eilon
+yang diujikan adalah set data dengan tipe E-n13-k4
+(jumlah node= 13), E-n22-k4 (jumlah node= 22), En23-
+k3 (jumlah node= 23), dan E-n30-k3 (jumlah
+node= 30). Pada masing-masing set data, terdapat
+koordinat masing-masing node (yang nantinya
+digunakan untuk menghitung jarak antar node
+dengan metode euclidean distance), permintaan
+masing-masing node, serta jumlah dan kapasitas
+kendaraan yang digunakan. Berbeda dengan set
+data dari Christofides dan Eilon , set data dari
+Indriana adalah set data berdasarkan kasus nyata
+pada CV. Cempaka Tulungagung yang merupakan
+perusahan rokok dengan wilayah distribusinya
+adalah Kediri, Pare, Jombang, Madiun, Nganjuk,
+Trenggalek, Pacitan, Ponorogo, Magetan, Ngawi,
+Blitar, Pasuruan, Mojokerto, Sidoarjo, dan Surabaya
+(jumlah node=16). Tiap set data akan dijalankan
+dengan menggunakan program komputer yang
+telah dibuat untuk mendapatkan solusi berupa rute
+dan jarak tempuh.
+Tahap Analisis Performansi
+Pada tahap ini, analisis performansi algoritma
+dilakukan dengan membandingkan solusi berupa
+total jarak tempuh yang dihasilkan dari percobaan
+numerik dengan solusi terbaik (best known solution)
+yang dihasilkan oleh algoritma yang lainnya pada
+tiap set data. Solusi terbaik untuk set data dari
+Christofides dan Eilon  dapat diunduh pada
+http://www.branchandcut.org, dimana sebagian besar
+dari solusi terbaik tersebut merupakan solusi
+global optimal. Solusi untuk set data dari Indriana
+ akan dicari terlebih dahulu dengan menggunakan
+model matematik sehingga diperoleh solusi
+global optimal, agar perbandingan solusi untuk
+keseluruhan set data menjadi hampir sama. Dalam
+penelitiannya, Indriana menggunakan salah satu
+metode heuristik yaitu metode saving matriks untuk
+menyelesaikan permasalahan rute yang dihadapi
+CV. Cempaka dan solusi yang diperoleh sebesar
+1177 (sedangkan solusi optimal sebesar 1151).
+Dalam penelitian ini, perhitungan nilai Relative
+Percentage Deviation (RPD) digunakan untuk
+mengetahui persentase perbedaan solusi antara
+algoritma CODEQ yang diusulkan dengan solusi
+terbaik/solusi optimal. RPD dirumuskan sebagai:
+%
+Best known
+Best test CODEQ-Best known
+RPD  100
+(6)
+Algoritma CODEQ yang diusulkan memiliki performasi
+yang baik jika rata-rata RPD dari seluruh
+set data kurang dari 10%.
+Hasil dan Pembahasan
+Program komputer dengan menggunakan algoritma
+CODEQ yang dihasilkan dalam penelitian ini dinamakan
+dengan CODEQ-VRP. Program CODEQVRP
+tersebut kemudian divalidasi dengan mengujicobakan
+pada set data dari Rera . Berdasarkan
+pengujian diperoleh program CODEQ-VRP berhasil
+menyelesaikan permasalahan VRP dengan benar.
+Selanjutnya, program CODEQ-VRP diujicobakan
+menggunakan set data dari Christofides dan Eilon
+ dan Indriana . dengan spesifikasi 2,20 Ghz Pentium i3 dan RAM 2 GB. Dalam setiap pengujian, dilakukan running program sebanyak 5 replikasi untuk mengetahui konsistensi hasil pengujian dan akan dipilih hasil terbaik (best test). Nilai best test tersebut kemudian akan dibandingkan dengan hasil best known dengan menghitung nilai RPD-nya. Nilai RPD menunjuk-kan tingkat deviasi antara best test dan best known. Semakin kecil RPD menunjukkan semakin kecil deviasi, yang berarti bahwa program komputer yang digunakan berhasil mencapai hasil optimal global. Selain RPD, pada pengujian ini juga dicatat waktu komputasi untuk menyelesaikan masing-masing set data. Tabel 1 menunjukkan rekapan hasil pengujian yang telah dilakukan.
+Dari Tabel 1 dapat diketahui bahwa dari pengujian yang dilakukan, tidak semuanya mencapai kondisi global optimal. Hal ini tampak dari nilai beberapa RPD yang masih belum bernilai nol. Nilai RPD ini juga sangat bervariasi. RPD paling minimum didapatkan saat pengujian dilakukan pada tipe data E-n13-k4. Hal ini disebabkan karena problem tipe set data tersebut yang termasuk problem kecil sehingga relatif mudah diselesaikan. Lebih jauh lagi, RPD minimum (kurang dari 10%) didapatkan untuk set data Indriana  dan set data E-n22-k4. Hal ini disebabkan oleh karakteristik dari tipe data tersebut. Apabila dilihat di peta, node-node pada set data dari Indriana letaknya tidak terlalu menyebar dan cenderung mengelompok (membentuk klaster). Demikian juga dengan node-node pada tipe data E-n22-k4. Gambar 1 menunjukkan pemetaan letak antar node pada set data E-n22-k4, E-n23-k3, dan E-n30-k3. Adapun pemetaan untuk E-n13-k4 tidak dapat dilakukan karena data yang tersedia tidak mencantumkan koordinat masing-masing node, akan tetapi jarak antar masing-masing node. Karena pada tahap inisialisasi dilakukan
+pembangkitan solusi awal dengan menggunakan metode nearest neighbor, maka kondisi node yang cenderung terklaster ini membuat program CODEQ-VRP dapat dengan cepat menghasilkan solusi yang mendekati solusi best-known.
+Nilai RPD dapat diperbaiki apabila dilakukan penambahan jumlah populasi yang dibangkitkan di iterasi awal. VRP merupakan permasalahan kombinatorial yang berarti bahwa dengan semakin banyaknya jumlah node, maka ruang solusi permasalahan ini akan semakin besar sehingga dengan semakin bertambahnya jumlah populasi, maka kemungkinan untuk mencapai solusi optimal akan semakin bertambah besar pula. Akan tetapi, tidak dapat dipungkiri bahwa dengan semakin banyaknya jumlah populasi yang dibangkitkan, maka jumlah vektor vi(t) yang dibangkitkan juga akan semakin banyak, yang akan berpengaruh pada waktu komputasi.
+Atas dasar pertimbangan tersebut, maka pencarian solusi dilakukan sedemikian sehingga hasilnya masih dapat diterima (ditunjukkan dengan nilai RPD yang kurang dari 10%) sekaligus juga dengan waktu komputasi yang masih dapat dipertimbangkan.
+Performansi algoritma CODEQ dalam menyelesai-kan VRP akan dilihat juga berdasarkan pendekatan penyelesaian yang digunakan.
+Tabel 2 menunjukkan perbandingan solusi pada set data E-n30-k3 dengan menggunakan 2 pendekatan yang ada yaitu route first-cluster second dan cluster first-route second. Solusi dengan menggunakan cluster first-route second sebesar 606,14 dengan waktu komputasi sebesar 570,8 menit (Narendra, ). Sedangkan solusi dengan menggunakan pen-dekatan route first-cluster second yang diusulkan peneliti menghasilkan solusi yang lebih kecil yaitu sebesar 605,47 dengan waktu komputasi yang lebih singkat yaitu 513,28 menit.
+Simpulan
+Algoritma CODEQ berhasil dikembangkan untuk menyelesaikan vehicle routing problem dengan menerapkan prinsip integer ordinal number untuk mengubah bilangan kontinu menjadi bilangan diskrit pada saat mutasi dan crossover. Berdasarkan hasil deviasi rata-rata pengujian yaitu sebesar 6,35%, maka dapat disimpulkan bahwa CODEQ dapat menyelesaikan permasalahan VRP dengan baik. Lebih jauh lagi, dapat pula disimpulkan bahwa algoritma CODEQ juga dapat digunakan untuk menyelesaikan permasalahan diskrit.

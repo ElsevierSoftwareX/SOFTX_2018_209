@@ -1,0 +1,114 @@
+Teknologi kogenerasi telah dikenal dan dimanfaatkan dengan baik di
+berbagai negara maju dan sebagian negara berkembang. Kogenerasi merupakan
+suatu pembangkitan berurutan dua bentuk energi berbeda (energi mekanik dan
+energi termal) dari satu sumber bahan bakar. Dengan demikian, konsep
+kogenerasi dapat meningkatkan efisiensi energi secara keseluruhan dalam suatu
+sistem secara signifikan.
+Analisa eksergi merupakan metode untuk mengidentifikasi jenis, lokasi dan
+besarnya kerugian termal pada sistem pembangkit. Identifikasi kerugian ini
+bertujuan untuk evaluasi serta perbaikan desain suatu sistem termal. Analisa
+eksergi dapat memberikan informasi yang diperlukan untuk meningkatkan
+performa sistem pembangkitan daya secara sistematis dan efisien. Adapun metode
+dalam penelitian ini yaitu mengumpulkan data selama proses pembangkitan,
+kemudian menganalisa secara energi untuk mendapatkan efisiensi termal, dan
+menganalisa secara eksergi untuk menetukan lokasi degradasi energi.
+Sebagai studi kasus, metoda ini diterapkan pada siklus pembangkit
+kombinasi gas-uap yang ada di PT. Dian Swastatika Sentosa, Tanggerang. Hasil
+studi memperlihatkan bahwa komponen yang memberikan kontribusi terbesar
+terhadap pemusnahan eksergi adalah ruang bakar. Persentase rasio pemusnahan
+eksergi pada masing-masing komponen terhadap pemusnahan eksergi total,
+maksimum diperoleh pada ruang bakar (44,42%), diikuti turbin gas (10,87%),
+kompresor (0,15%), ekonomizer (0,03%), HRSG (1,79%), dan kemudian pompa
+(0,24%). Sedangkan besarnya efisiensi eksergetik keseluruhan dari siklus
+kombinasi turbin gas-uap masih relatif rendah (15,1%).
+Kata kunci : Analisa eksergi, Kogenerasi PLTG, HRSG, Efisiensi eksergetik
+
+I. PENDAHULUAN
+A. Latar Belakang dan Masalah
+Dewasa ini besarnya jumlah konsumsi energi di Indonesia terus mengalami
+peningkatan setiap tahunnya. Berdasarkan data outlook pengelolaan energi
+nasional tahun 2012-2025, total konsumsi energi final pada tahun 2012
+mencapai 1.017 juta SBM dengan laju pertumbuhan antara tahun 2012-2025
+sebesar 4,5% per tahun. Penggunaan energi minyak bumi di tahun 2012
+mencapai 37%, sedangkan konsumsi energi biomassa berupa kayu bakar dan
+arang mencapai 28%, pemanfaatan energi gas dan batubara sekitar 13%
+(BPPT, 2012). Sektor industri hingga saat ini merupakan sektor yang
+mendominasi konsumsi energi di Indonesia, di mana porsinya mencapai
+49,4% dari total konsumsi energi nasional (Kementerian ESDM, 2012).
+Dalam sektor industri itu sendiri, terdapat beberapa industri yang dinilai
+paling padat menggunakan energi, baik yang digunakan sebagai bahan bakar
+ataupun yang digunakan sebagai bahan baku. Diantaranya adalah industri baja,
+industri semen, industri pupuk, industri keramik, industri pulp dan kertas,
+industri tekstil dan industri pengolahan kelapa sawit (Biro Perancangan RI,
+2012).
+
+Seperti yang diuraikan diatas, sektor industri seharusnya menjadi pemeran
+utama dalam konteks penghematan energi. Akan tetapi, dalam dunia industri
+kebutuhan energi terutama energi listrik merupakan pokok permasalahan yang
+mendasar. Tersedianya energi listrik merupakan salah satu faktor yang
+menentukan jalannya roda perusahaan. Dimana sumber utama pasokan energi
+listrik di Indonesia berasal dari bahan bakar yang tidak dapat diperbaharui
+yaitu berupa minyak bumi (54.78%), disusul gas bumi (22,2%), batubara
+(16,77%), air (3,72%) dan geothermal (2,46%) (Biro Perancangan RI, 2012).
+Upaya penghematan energi terus dilakukan oleh pemerintah guna mengatasi
+ketersediaan sumber energi yang semakin menipis seiring dengan peningkatan
+kebutuhan energi di Indonesia. Badan Pengkajian dan Penerapan Teknologi
+(BPPT) menerangkan bahwa teknologi kogenerasi merupakan salah satu cara
+untuk melakukan penghematan energi. Kogenerasi adalah sistem konversi
+energi termal yang secara simultan menghasilkan energi listrik dan panas
+dalam satu siklus dengan meanfaatkan panas dari gas buang. Dengan demikian
+pemanfaatan gas buang selain menigkatkan efisiensi termal sistem secara
+keseluruhan, juga dapat berperan dalam upaya penghematan sumber energi
+(UNEP, 2006). Namun demikian, dalam hukum kedua termodinamika
+menyatakan bahwa tidak ada proses pengubahan energi yang efisien dan pasti
+terjadi penurunan kualitas energi didalamnya (Moran, 2006). Hal tersebut juga
+berlaku pada sistem pembangkit kogenerasi. Untuk itu perlu dilakukan
+identifikasi dengan tujuan mengoptimalkan sistem pembangkit kogenerasi
+tersebut.
+
+Salah satu cara yang dapat digunakan untuk mengoptimalkan sistem
+pembangkit kogenerasi adalah dengan melakukan analisis eksergi. Metode
+analisis eksergi digunakan dalam menghitung pemusnahan dan rugi-rugi
+eksergi serta mengkaji efisiensi proses. Pada beberapa tahun terakhir ini
+analisis eksergi telah menjadi metode penting yang komprehensif dan
+mutakhir dalam studi tentang desain, analisis dan optimasi suatu sistem
+termal. Analisis eksergi juga dapat digunakan untuk mengidentifikasikan
+jenis, penyebab dan lokasi terjadinya kerugian pada sistem dan sub-sistem
+termal, sehingga perbaikan-perbaikan serta peningkatan kualitas dapat
+dilakukan (Bejan, 1996).
+Oleh karena itu, penelitian ini dilakukan sebagai evaluasi sistem pembangkit
+kogenerasi dengan metode analisis eksergi yang bertujuan untuk menghitung
+rugi-rugi, pemusnahan, serta mengidentifikasikan penyebab dan lokasi
+terjadinya kerugian eksergi pada setiap komponen. Sehingga efektifitas dari
+sistem pembangkit kogenerasi ini dapat dioptimalkan. Adapun studi kasus
+akan dilaksanakan pada sistem pembagkit kogenerasi turbin gas milik PT.
+Dian Swastatika Sentosa Tbk. Unit pembangkit Tanggerang.
+B. Perumusan Masalah
+Masalah yang dirumuskan pada penelitian ini adalah:
+Hukum kedua termodinamika menyatakan bahwa tidak ada proses perubahan
+energi yang ideal. Hal ini terjadi karena terdapat penurunan kualitas energi
+(eksergi) yang disebabkan rugi-rugi (losses) yang berasal dari faktor internal
+maupun eksternal sistem. Sehingga analisis eksergi diperlukan dalam upaya
+peningkatan optimalisasi sistem termal, untuk meminimalisir rugi-rugi (losses)
+sehingga mendapatkan efisiensi termal yang lebih baik pada pembangkit
+kogenerasi ini.
+C. Tujuan Penelitian
+Adapun tujuan dilaksanakannya penelitian ini adalah sebagai berikut :
+1. Menghitung nilai kesetimbangan energi dari kalor yang terbuang.
+2. Menghitung kerja dari setiap komponen untuk mendapatkan efisiensi
+termal yang dihasilkan pada sisem kogenerasi.
+3. Menghitung kesetimbangan eksergi, untuk mengetahui laju destruksi dan
+laju kehilangan eksergi pada setiap komponen instalasi sistem kogenerasi.
+4. Mengidentifikasi lokasi dimana eksergi terbuang atau hilang yang bisa
+mengurangi performansi dari sistem dan komponen-komponennya.
+5. Membuat subrutin program aplikasi perhitungan eksergi dengan
+menggunakan software Engineering Equation Solver (EES).
+D. Batasan Masalah
+Ruang lingkup pada skripsi ini agar lebih terarah, maka diberikan batasan
+masalah sebagai berikut:
+1. Pembahasan dalam skripsi ini membahas perhitungan efisiensi, neraca
+kesetimbangan energi dan analisis perhitungan kesetimbangan eksergi dari
+setiap komponen dari sistem kogenerasi.
+2. Data yang digunakan dalam penelitian ini adalah data operasi harian dari
+perangkat kogenerasi yang diperoleh dari PT. Dian Swastatika Sentosa
+yang diambil dari bulan Maret 2013 hingga April 2013.

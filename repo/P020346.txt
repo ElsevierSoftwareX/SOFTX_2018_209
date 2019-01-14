@@ -1,0 +1,46 @@
+﻿
+ ABSTRAK 
+Misalkan 𝐺 adalah suatu graf dengan diameter 𝑑. Untuk dua titik 𝑢 dan 𝑣, dinotasikan dengan 𝑑𝐺(𝑢,𝑣) merupakan jarak antara titik 𝑢 dan 𝑣. Pelabelan radio pada 𝐺 adalah fungsi 𝑓 yang memetakan setiap titik ke bilangan bulat non-negatif (label) yang paling minimal dan memenuhi pertidaksamaan 𝑓 𝑢 −𝑓 𝑣 ≥𝑑−𝑑𝐺 𝑢,𝑣 +1 yang kemudian disebut dengan kondisi radio. Pelabelan radio dilakukan dengan mencari label yang memenuhi kondisi radio. Setelah semua titik terlabeli, selanjutnya dinamakan kembali dengan 𝑉 𝐶𝑛 = 𝑥0,𝑥1,…,𝑥𝑛−1 dimana 0=𝑓 𝑥0 <𝑓 𝑥1 <𝑓 𝑥2 <⋯<𝑓 𝑥𝑛−1 . Bilangan radio pada graf 𝐺 dinotasikan dengan 𝑟𝑛 𝐺 adalah jarak/span minimal dari pelabelan radio 𝐺. Pada tugas akhir ini dipelajari langkah-langkah pelabelan radio pada sikel kuadrat genap 𝐶𝑛2 sehingga dapat diketahui bilangan radionya. 
+Kata kunci : pelabelan radio, graf sikel kuadrat, diameter, bilangan radio.
+
+
+
+ BAB I PENDAHULUAN 
+1.1 Latar Belakang 
+
+Teori graf merupakan salah satu ilmu terapan matematika yang hingga kini terus dikembangkan. Hal ini dikarenakan dominasi sistem jaringan yang digunakan oleh masyarakat umum, perusahaan, maupun instansi pemeritah memerlukan efektifitas dan efisiensi dalam setiap aktifitasnya. Secara luas dikatakan, sebuah jaringan adalah sebuah sistem yang melibatkan aliran atau perpindahan komoditas. Jaringan-jaringan ini dapat dimodelkan ke dalam kesatuan matematika yang merupakan graf. Representasi visual dari graf adalah dengan menyatakan objek sebagai noktah, bulatan, atau titik, sedangkan hubungan antara objek dinyatakan dengan garis. Salah satu topik dalam graf yaitu pelabelan graf. 
+Pelabelan graf merupakan suatu fungsi yang memetakan himpunan titik atau himpunan garis dari suatu graf ke bilangan asli. Pelabelan graf diperkenalkan pertama kali oleh Rosa pada tahun 1967. Pelabelan radio mencakup himpunan dari pembatasan pada pasangan titik dari semua jarak yang memungkinkan. 
+Pelabelan radio adalah pelabelan pada permasalahan graf, diusulkan oleh Chartrand, dimana dapat dianalogikan dengan penetapan frekuensi pada pemancar saluran AM/FM untuk menghindari gangguan sinyal. Pemancar radio yang berdekatan secara geografis harus mempunyai frekuensi yang sangat berbeda, sedangkan pemancar radio dengan perbedaan geografis yang besar dapat mempunyai frekuensi yang hampir sama. Secara umum, dimodelkan dengan memisalkan pemancar sebagai titik pada sebuah graf. 
+Pada tugas akhir ini akan dibahas mengenai pelabelan radio, batas bawah bilangan radio dengan 𝑟=0 dan 2 dan bilangan radio pada kondisi yang sama.
+
+1.2 Perumusan Masalah 
+
+Berdasarkan latar belakang yang telah diuraikan, permasalahan yang diangkat dalam tugas akhir ini adalah sebagai berikut : 
+i. Bagaimana langkah-langkah dalam pelabelan radio pada graf sikel kuadrat. 
+ii. Bagaimana menentukan batas bawah bilangan radio pada graf sikel kuadrat genap. 
+iii. Bagaimana menentukan bilangan radio (radio number) untuk graf sikel kuadrat genap. 
+
+1.3 Pembatasan Masalah 
+
+Dalam tugas akhir ini pembahasan dibatasi mengenai : 
+i. Pelabelan radio yang dibahas dalam tugas akhir ini adalah pada graf sikel kuadrat genap 𝐶𝑛2. 
+ii. Batas bawah bilangan radio yang dibahas pada tugas akhir ini hanya untuk sikel kuadrat 𝐶𝑛2 dengan 𝑟=0 dan 2. 
+iii. Bilangan radio yang dibahas dalam tugas akhir ini adalah kasus untuk 𝑟=0 dan 2. 
+
+1.4 Tujuan Penulisan 
+
+Adapun tujuan penulisan dari tugas akhir ini yaitu : 
+i. Merumuskan langkah-langkah dalam pelabelan radio pada graf sikel kuadrat. 
+ii. Mengkaji pelabelan radio pada graf sikel sehingga dapat diketahui batas bawah bilangan radio dengan 𝑟=0 dan 2 pada kondisi genap dan ganjil. 
+iii. Mengkaji pelabelan radio pada graf sikel sehingga dapat diketahui radio number atau bilangan radio 
+
+1.5 Metode Penulisan 
+
+Metode yang digunakan dalam penyusunan tugas akhir ini adalah metode tinjauan pustaka (study literature). Metode ini dilakukan dengan mengumpulkan informasi dari beberapa buku dan jurnal seperti yang tertera dalam daftar pustaka. Pustaka utama yang digunakan adalah. Dalam tugas akhir ini, penulis akan menjelaskan mengenai langkah-langkah pelabelan radio pada graf sikel kuadrat genap dan menentukan batas bawah bilangan radio dan bilangan radio pada sikel kuadrat genap. 
+1.6 Sistematika Penulisan 
+
+Sistematika penulisan dalam tugas akhir ini terbagi menjadi empat bab yang dimulai dengan bab pendahuluan dan diakhiri dengan bab penutup. 
+Bab I merupakan pendahuluan yang memuat latar belakang permasalahan, perumusan masalah, pembatasan masalah, tujuan penulisan, metode pembahasan dan sistematika penulisan. 
+Bab II merupakan teori penunjang yang digunakan dalam pembahasan tugas akhir ini meliputi graf, teori bilangan, fungsi dan permutasi, serta pelabelan radio pada graf sikel kuadrat genap. 
+Bab III merupakan pembahasan tentang hasil utama dari tugas akhir ini yang menjelaskan tentang pelabelan radio pada sikel kuadrat genap, batas bawah bilangan radio beserta bilangan radio dan diberikan beberapa definisi dan teorema yang berkaitan dengan pelabelan radio pada sikel kuadrat genap. 
+Bab IV merupakan bab penutup yang berisi tentang kesimpulan dari pembahasan yang telah dilakukan.

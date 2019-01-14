@@ -1,0 +1,70 @@
+﻿Distribusi generalized t( ) merupakan salah satu anggota dari distribusi kontinu yang memiliki empat parameter dimana ( ) merupakan parameter bentuk, merupakan parameter lokasi dan merupakan parameter skala. Distribusi generalized beta 2( ) juga merupakan distribusi kontinu yang memiliki empat parameter dimana ( ) merupakan parameter bentuk dan adalah parameter skala. Distribusi generalized gamma( ) memiliki tiga parameter dengan ( ) merupakan parameter bentuk dan ( ) parameter skala. Apabila parameter maka distribusi generalized gamma menjadi distribusi gamma dua parameter yaitu sebagai parameter bentuk dan sebagai parameter skala. Tujuan dari penelitian ini adalah melakukan aproksimasi distribusi generalized t terhadap distribusi gamma melalui distribusi generalized beta 2 dan distribusi generalized gamma dengan menyamakan fungsi pembangkit momen dan fungsi karakteristik dari distribusi-distribusi tersebut. Berdasarkan hasil yang diperoleh secara analitik maupun grafik menggunakan sofware R.3.2.2, distribusi gamma dapat didekati oleh distribusi generalized t melalui distribusi generalized beta 2 dan distribusi generalized gamma dengan melakukan reparameterisasi pada fungsi pembangkit momen dan fungsi karakteristiknya, selain itu disajikan grafik aproksimasi distribusi generalized t terhadap distribusi gamma melalui distribusi generalized beta 2 dan distribusi generalized gamma dilihat dari fungsi pembangkit momennya.
+Kata kunci : Distribusi generalized t, Distribusi generalized beta 2, Distribusi generalized gamma, Distribusi gamma, Fungsi Pembangkit Momen, Fungsi Karakteristik.
+
+
+I. PENDAHULUAN
+1.1 Latar Belakang
+Dalam teori probabilitas dan statistik, distribusi t merupakan salah satu dari keluarga
+distribusi peluang kontinu yang penurunannnya berdasarkan distribusi normal baku
+dan distribusi khi-kuadrat . Distribusi generalized t merupakan bentuk perumuman
+dari distribusi t dengan menambahkan dua parameter baru. Distribusi generalized t
+memiliki empat parameter yaitu parameter bentuk ( , ), parameter lokasi ( ), dan
+parameter skala ( )serta B sebagai fungsi beta.Distribusi generalized t secara luas
+digunakan dalam bidang ekonomi dan keuangan. Distribusi ini pertama kali
+diperkenalkan McDonald dan Newey (1988). Mereka menggunakannya untuk
+mengestimasi parameter regresi.
+Distribusi generalized beta 2 (GB2), awalnya diusulkan oleh Majumder dan
+Chakravarty (1990) sebagai reparameterisasi, pada (1993, 1995) McDonald dan
+Mantrala mengamati bahwa model Majumder-Chakravarty adalah setara dengan
+distribusi GB2 dengan empat parameter yaitu parameter bentuk ( , , ) dan
+parameter skala( ) serta sebagia fungsi beta. Distribusi GB2 merupakan perluasan
+dari distribusi beta. Distribusi GB2 diantaranya digunakan pada bidang matematika
+ekonomi dan asuransi, kesehatan dan industri, prinsip ekonomi mikro (model
+neoklasik mengoptimalkan perilaku perusahaan).
+Distribusi gamma( , ) merupakan suatu family dari distribusi peluang kontinu
+dengan parameter bentuk dan parameter skala . Distribusi gamma khusus
+untuk = 1 disebut distribusi eksponensial, sedangkan distribusi gamma khusus
+untuk = , = 2 disebut distribusi chi-square dengan derajat kebebasan .
+Distribusi gamma tidak selalu mengepas data dengan baik untuk semua jenis data.
+Untuk dapat mengatasinya maka dibutuhkan suatu perumuman dari distribusi gamma
+untuk dapat digunakan dalam setiap keadaan data tersebut yaitu yang biasa disebut
+distribusi generalized gamma. Distribusi generalized gamma memiliki tiga parameter
+yaitu parameter bentuk ( , ) dan parameter skala ( ). Distribusi generalized
+gamma sudah pernah dibahas oleh beberapa peneliti. Salah satunya adalah Stacy pada
+tahun 1962, dalam jurnalnya yang berjudul “A Generalization of The Gamma
+Distribution”. Stacy merupakan peneliti yang pertama kali mengemukakan distribusi
+generalized gamma. Dalam jurnalnya, Stacy membahas mengenai sifat-sifat dasar,
+distribusi beberapa fungsi variabel bebas, serta distribusi kumulatif variabel bebas
+dari distribusi generalized gamma. Selain Stacy, ada peneliti lain yang juga
+membahas mengenai distribusi generalized gamma yaitu Morteza Khodabin dan
+Alireza Ahmadabadi pada tahun 2010, dalam jurnal mereka yang berjudul “Some
+Properties of Generalized Gamma Distribution”.
+
+Dalam suatu distribusi dapat dilihat hubungan suatu distribusi dengan distribusi
+lainnya berdasarkan fungsi pembangkit momen dan fungsi karateristik yang dibentuk,
+diperlukan konsep-konsep dan teori yang mendukung. Konsep-konsep atau metode
+yang dapat digunakan untuk melakukan pendekatan dari dua distribusi ialah dengan
+menyamakan fungsi pembangkit momennya, fungsi kumulatif distribusi, fungsi
+karakteristiknya dan dengan teori dalil limit pusat.
+Berdasarkan uraian diatas peneliti tertarik untuk mengakaji hubungan suatu distribusi
+dengan distribusi, dengan menggunakan metode pendekatan melihat nilai fungsi
+pembangkit momen dan nilai fungsi karateristiknya karena memiliki bentuk yang
+sederhana sehingga lebih efisien dalam mengkaji kasus khusus suatu distribusi.
+1.2 Batasan Masalah
+Pada penelitian ini peneliti tertarik untuk mengkaji hubungan distribusi generalized t
+terhadap distribusi gamma melalui distribusi generalized beta 2 dan distribusi
+generalized gamma.penelitian ini, permasalahan dibatasi pada pengkajian Aproksima
+distribusi generalized t( , , , ) terhadap distribusi gamma( , ), melalui
+distribusi generalized beta 2 ( , , , ), dan distribusi generalized
+gamma ( , , ) dengan menggunakan metode pendekatan pada nilai fungsi
+pembangkit momen dan nilai fungsi karakteristiknya.
+
+1.3 Tujuan Penelitian
+Tujuan dari penelitian ini adalah melakukan pendekatan distribusi generalized
+t( , , , ) terhadap distribusi gamma( , ), melalui distribusi generalized beta 2
+( , , , ), dan distribusi generalized gamma( , , ) dengan menyamakan
+fungsi pembangkit momen dan fungsi karakteristik dari distribusi tersebut.
+1.4 Manfaat Penelitian
+Manfaat dari penelitian ini diantaranya adalah dapat memahami bahwa suatu
+distribusi dapat didekati dengan distribusi lainnya dengan menyamakan fungsi
+pembangkit momen dan fungsi karakteristik yang dibentuk oleh dstribusi tersebut.

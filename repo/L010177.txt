@@ -1,0 +1,560 @@
+﻿KEANEKARAGAMAN DAN KEKERABATAN LALAT BUAH
+(DIPTERA: TEPHRITIDAE) DI KALIMANTAN SELATAN
+BERDASARKAN KARAKTER MORFOLOGI DAN
+MOLEKULAR (RAPD-PCR DAN SEKUENSING DNA)
+
+
+ABSTRAK
+Keanekaragaman dan kekerabatan lalat buah (Diptera: Tephritidae) di Kalimantan Selatan berdasarkan karakter
+morfologi dan molekular (RAPD-PCR dan sekuensing DNA). Tujuh spesies lalat buah telah diketahui dari identifikasi
+morfologi lalat buah. Lalat buah ini didapatkan dari pemasangan perangkap dengan metil eugenol dan pengumpulan buah
+pada semua lokasi penelitian di Kalimantan Selatan. Diketahui 17 jenis tanaman yang diserang lalat buah dari pemeliharaan
+larva lalat buah hingga menjadi imago. Dendrogram hasil analisis UPGMA dari identifikasi morfologi dengan program MEGA
+4 adalah satu kelompok yang terdiri atas 5 sub kelompok. Bactrocera carambolae dan Bactrocera papayae dari ciri-ciri
+morfologi masih berkerabat dekat sebesar 0,935, sedangkan dendrogram hasil RAPD dari 20 karakter pita DNA, menunjukkan
+ketujuh spesies itu terbagi ke dalam dua kelompok. Kelompok pertama terdiri atas sub kelompok B. umbrosa, B. occipitalis
+dan sub kelompok B. latifrons. Kelompok kedua terdiri dari atas sub kelompok B.carambolae, B. Papayae dan sub kelompok
+B. albistrigata, B. cucurbitae. Dendrogram dari sekuensing DNA lalat buah adalah satu kelompok dan 3 sub kelompok. Sub
+kelompok pertama adalah B. papayae, B. carambolae, B. occipitalis, B.latifrons. Sub kelompok kedua B. cucurbitae dan B.
+umbrosa. B. albistrigata terpisah tetapi masih satu kelompok yang sama dengan lalat buah lainnya. Hasil sekuensing DNA
+menunjukkan adanya homologi dari ketujuh spesies lalat buah tersebut yaitu pada 83 base pair/ bp (C), 101 bp (T), 265 bp (G),
+420 bp (A), 432 bp (T), 600 bp (A). Panjang base pair untuk B. occipitalis, B. cucurbitae, B. albistrigata, B. carambolae, B.
+papayae, B. latifrons berturut-turut adalah 615, 898, 570, 969, 898 dan 615 bp. Hasil analisis dari ciri morfologi dan metode
+RAPD menunjukkan perbedaan dalam pembagian kelompok dan sub kelompok. Tetapi dari identifikasi secara morfologi dan
+DNA ketujuh spesies lalat buah yang ditemukan sama dengan data dari genebank.
+Kata kunci : DNA sekuensing, Kalimantan Selatan, lalat buah, morfologi, PCR-RAPD, PENDAHULUAN
+Lalat buah sebagai hama tanaman telah diketahui
+sejak tahun 1920, yaitu menyerang mangga di pulau
+Jawa. Pada tahun 1938, lalat buah juga dilaporkan
+menyerang cabai, jambu, belimbing dan sawo. Pada
+populasi tinggi, intensitas serangannya dapat mencapai
+60-100 % (Kuswadi, 2001; Griffith University dan
+Ministry of Agriculture, 2008). Sebagian besar lalat buah
+ini bersifat polifag (Ortiz et al., 2006) dan dapat
+menurunkan produksi buah-buahan dan sayuran, baik
+secara kuantitas maupun kualitas (Sodiq, 1993; Kuswadi,
+2001; Soesilohadi, 2002; Siwi et al., 2006).
+Kesalahan atau kesulitan dalam identifikasi
+serangga secara morfologi dapat terjadi. Kalsoven
+(1981) menyatakan bahwa terdapat enam spesies lalat
+buah di Indonesia yaitu Dacus dorsalis Hendel, D.
+pedestris Fabricius, D. cucurbitae Coquillet, D.
+umbrosus Fabricius, D. caudatus Fabricius dan
+Adrama determinata Walker (Diptera: Tephritidae).
+Genus Dacus yang sebelumnya diidentifikasi terdapat
+di Indonesia, merupakan kekeliruan dari identifikasi dari
+genus Bactrocera. Dacus berasal dari Afrika bukan
+dari Indonesia (White & Hancock, 2007). Dengan
+demikian, semua yang disebut sebagai Dacus dalam
+buku Kalshoven (1981) perlu diganti menjadi
+Bactrocera. Contoh perbedaan mofologis yang sulit
+dibedakan satu sama lain antara B. carambolae dan
+B. papayae karena kedekatan kekerabatannya
+sehingga dari ukuran tubuh dan sayap terlihat sama. Prof.
+Totok Himawan menyatakan bahwa sangat dekatnya
+hubungan kekerabatan telah menyebabkan berbaurnya
+kedua spesies tersebut. Keduanya merupakan spesies
+kembar (simpatrik) dengan perbedaan morfologi yang
+sangat kecil sehingga untuk dapat membedakannya perlu
+alat bantu (lup atau mikroskop), tidak seperti spesies
+lain yang bisa dibedakan langsung dengan melihat pola
+gambar sayap dan abdomennya. Keduanya sangat mirip
+namun memiliki perbedaan dalam preferensi inang, dan
+habitat (Hasil komunikasi pribadi).
+Adanya perbedaan dari beberapa hasil identifikasi
+lalat buah secara morfologi atau konvensional ini
+menunjukkan adanya kelemahan pada metode identifikasi
+konvensional tersebut. Metode konvensional yang
+berdasarkan ciri morfologi kurang akurat akibat adanya
+pengaruh perubahan-perubahan lingkungan. Karakterkarakter
+morfologi sering tidak menggambarkan
+hubungan genetik akibat adanya interaksi lingkungan dan
+sejumlah kontrol genetik yang tidak diketahui, sehingga
+perlu dilakukan karakterisasi molekuler untuk
+mendapatkan hasil yang akurat dalam mengkarakterisasi
+perbedaan spesies (McPheron & Steck, 1996; Smith et
+al., 2003; Siwi, 2004). Pengunaan marka molekuler
+RAPD banyak digunakan untuk menyusun kekerabatan
+beberapa individu dalam spesies maupun kekerabatan
+antar spesies.
+Penggunaan marka molekuler RAPD juga sangat
+efektif pada serangga hama yang jarak migrasinya
+sangat jauh seperti pada belalang Locusta migratoria
+Linn. (Orthoptera: Acridiidae) (Heckel, 1995). Metode
+RAPD menggunakan oglionukleotida tunggal pendek
+(primer), sepanjang 10-12 basa, untuk membentuk
+fragmen-fragmen DNA. Metode ini mampu
+menghasilkan jumlah karakter yang tidak terbatas
+sehingga sangat membantu dalam analisis keragaman
+genetik (Anggereini, 2008; Fatchiyah & Estri, 2011).
+Sampai saat ini informasi tentang spesies dan
+kelimpahan lalat buah di Kalimantan Selatan masih
+sedikit serta masih adanya kesalahan / kesulitan dalam
+identifikasi yang dilakukan berdasarkan morfologi.
+Penelitian ini bertujuan untuk mengetahui keragaman
+jenis, kelimpahan populasi, tanaman inang lalat buah di
+Kalimantan Selatan. Identifikasi spesies lalat buah
+dalam penelitian ini dilakukan secara morfologi dan
+molekuler (RAPD).
+METODE PENELITIAN
+Penelitian ini merupakan penelitian deskriptif
+dengan metode survei dilakukan dalam dua tahap, yaitu
+pengumpulan contoh lalat buah (pemasangan perangkap
+dan pengumpulan buah terserang lalat buah) dan
+penelitian keanekaragaman berdasarkan karakter
+morfologi, RAPD dan sekuensing DNA. Penelitian ini
+dilaksanakan pada dua kabupaten dan satu kota di
+Kalimantan Selatan, yaitu Kabupaten Barito Kuala dan
+Kabupaten Banjar serta Kota Banjarbaru. Pada masingmasing
+lokasi itu ditetapkan tiga kecamatan contoh dan
+pada setiap kecamatan ditetapkan satu desa contoh,
+sehingga terdapat sembilan desa contoh. Kecamatan
+dan desa-desa itu adalah Bakumpai (Desa Lepasan),
+Mandastana (Desa Karang Indah), Rantau Badauh
+(Desa Pindahan Baru), Martapura Barat (Desa Sungai
+Batang), Karang Intan (Desa Sungai Alang), Astambul
+(Desa Kelampaian), Banjarbaru Selatan (Desa Sungai
+Besar), Landasan Ulin (Desa Guntung Payung),
+Cempaka (Desa Gunung Kupang). Penetapan jenis
+tanaman contoh pada setiap desa contoh tidak sama
+karena perbedaan jumlah dan jenis tanaman buahbuahan.
+Jenis tanaman contoh yang diamati pada semua
+desa contoh adalah 44 tanaman. Setiap jenis tanaman
+contoh, ditetapkan lima tanaman contoh secara acak.
+Pada setiap tanaman contoh dipasang sebuah perangkap,
+sehingga jumlah seluruh perangkap adalah1980 (9 desa x 44 jenis tanaman contoh x 5 pohon). Identifikasi lalat
+buah dilakukan di Laboratorium Entomologi Jurusan
+Hama dan Penyakit Tumbuhan Fakultas Pertanian
+Universitas Lambung Mangkurat, dan Laboratorium
+Genetika dan Biologi Molekuler Fakultas Sains dan
+Teknologi Universitas Islam Negeri Malang. Penelitian
+dilakukan pada bulan Agustus 2012 sampai Januari 2013.
+Pemasangan Perangkap. Perangkap yang digunakan
+adalah perangkap Steiner yang telah dimodifikasi.
+Perangkap dengan atraktan metil eugenol yang telah
+disiapkan digantung pada dahan atau ranting pohon
+contoh dengan ketinggian lebih kurang 2 m dari
+permukaan tanah (Suputa et al., 2007). Pemasangan
+perangkap dilakukan selama enam minggu. Setiap
+minggu lalat buah yang terperangkap diambil,
+ditempatkan di dalam botol dan dibawa ke laboratorium
+untuk dihitung kelimpahannya. Penambahan atraktan
+pada perangkap dilakukan setiap kali setelah
+pengambilan lalat buah.
+Pengumpulan Buah Terserang Lalat Buah
+dilakukan dari tanaman contoh yang sama dengan yang
+dipasang perangkap dan dilakukan pada hari yang sama
+dengan pengambilan lalat buah di perangkap.
+Pengambilan buah terserang dilakukan lima kali. Buah
+yang diambil adalah buah yang busuk dengan bintik hitam
+di permukaan kulit buahnya. Buah yang diambil per
+tanaman contoh sebanyak satu kantung plastik berukuran
+1 kg. Kemudian buah-buahan dimasukkan ke toples
+yang sudah disediakan di laboratorium dan diamati setiap
+hari sampai muncul imago. Imago yang muncul dihitung
+kelimpahannya (Asrida & Susilo, 2001; Swibawa et al.,
+2003).
+Ekstraksi DNA dan Amplifikasi DNA. Teknik
+ekstraksi DNA menggunakan seekor lalat buah untuk
+tiap tabung ependorf dengan metode Goodwin et al.
+(1994), Bahagiawati & Habib (2005) dan untuk setiap
+spesies lalat buah diambil 20 ekor secara acak. Lalat
+buah ditempatkan pada tabung ependorf kemudian
+ditambahkan 125 μl buffer ekstraksi CTAB (CTAB 2%,
+NaCl 1.4 M, Tris-HCl 100 mM, EDTA 20 mM dan
+Polyvinylpyrrolidone (PVP-40) 1% dan dihaluskan
+dengan pistil mikro plastik. Kemudian lalat buah yang
+sudah dihaluskan tadi diinkubasikan pada 65o C selama
+5 menit. Selanjutnya ditambahkan 125 μl kloroform:
+isoamil alkohol (24:1) dan diinkubasikan pada suhu ruang
+selama 20 menit sebelum disentrifugasi pada 8000 rpm
+selama 5 menit. Supernatan dipindahkan (90 μl) pada
+tabung baru dan ditambahkan 10 μl NaOAc 3 M (pH
+5.2) dan 250 μl etanol absolut (-20o C) kemudian
+diinkubasikan selama 30 menit pada suhu -20o C.
+Supernatan dibuang setelah disentrifugasi 11500 rpm
+selama 15 menit. Pelet dicuci dengan 200 μl etanol 70
+% (-20o C) dan disentrifugasi pada 11500 rpm selama 2
+menit. Etanol dibuang kemudian pelet dikeringanginkan
+selama 10 menit selanjutnya pelet ditambah dengan 10
+μl air steril. DNA hasil ekstraksi diamplikasi dengan
+teknik RAPD berdasarkan metode Gawel & Bartlett
+(1993). Primer yang digunakan sebanyak lima primer
+berdasarkan dari penelitian sebelumnya oleh Zhang &
+Zhang (2007) yang berasal dari omegabiotek (Tabel 1).
+Campurkan 10 μl PCR master mix, 5 μl ddH2O, 3 μl
+primer dengan konsentrasi 5 μM, 2μl DNA spesies lalat
+buah dengan konsentrasi 20ng/μl ke dalam PCR tube.
+Setting program PCR yang digunakan seperti pada Tabel
+2.
+DNA lalat buah hasil PCR diletakkan di atas es
+atau disimpan di pendingin sebelum digunakan. Sebanyak
+3 μl DNA lalat buah hasil PCR dicampur dengan 2 μl
+loading dye, kemudian ditambahkan 100 bp DNA
+ladder dan dimasukkan ke dalam well gel agarose 1%
+(w/v) dalam 1X TBE. Kemudian gel dielektroforisis
+pada 80 Volt selama 60 menit. Hasil elektroforesis
+direndam dalam 1 mg l-1 ethidium bromide, kemudian
+diambil gambarnya dengan meletakkan pada lampu
+ultraviolet agar terlihat pita DNA yang dihasilkan.
+Sekuensing DNA. Fragmen DNA hasil aplikasi
+selanjutnya disekuensing untuk melihat susunan DNA
+masing-masing spesies lalat buah dengan menggunakan
+mesin sekuensing ABI-:Prisma 3100-avant Genetic
+analyzer.
+Analisis Keragaman Morfologi. Penciri utama yang
+digunakan ialah ada tidaknya medial postsutural vittae
+dan lateral postsutural vittae. Pada bagian sayap
+penciri utama yang digunakan adalah basal costal,
+costal, microtrichia, costal band, anal streak, dan
+pola sayap. Pada bagian abdomen, penciri utama yang
+digunakan ialah ada tidaknya gambaran pola T pada
+terga, menyatu atau tidaknya antar terga ke dua dan
+seterusnya, serta pola warna pada bagian terga.
+Identifikasi lalat buah dilakukan dengan kunci
+determinasi berdasarkan morfologi (Drew 1989; Drew
+& Hancock, 1994; Siwi et al., 2006; Griffith University
+& Kementerian Pertanian Indonesia, 2008) dan program
+Cabikey 2007. Dari perbedaan morfologi yang ada pada
+setiap spesies lalat buah dibuat menjadi data biner yang
+selanjutnya dipakai dalam analisis keragaman morfologi
+dengan metode pengelompokan Unweighted Pair Group
+Method with Arithmetic Mean (UPGMA). Data scoring yang telah tersusun dimasukkan dalam program pengolah
+data Mega 4 (Tamura et al., 2007).
+Analisis Keragaman Hasil RAPD. Pola pita DNA
+hasil elektroforesis dari PCR-RAPD digunakan untuk
+mempelajari keanekaragaman lalat buah. Pita-pita DNA
+diubah kedalam bentuk data biner dengan memberi nilai
+1 jika ada pita dan 0 jika tidak ada pita (Bahagiawati &
+Habib, 2005; Fatchiyah & Estri, 2011; Smith et al., 2003;
+Sappanukhro et al., 2011). Selanjutnya data biner
+tersebut dianalisis dengan program Mega 4 (Tamura et
+al., 2007).
+Analisis Keragaman Hasil Sekuensing. Sekuen
+DNA ketujuh spesies lalat buah kemudian alignmen
+dengan program Bioedit dan clustalw2 dari European
+bioinformatics institute (http://www.ebi.ac.uk/serve/
+clustalw). Kemudian hasil sekuens DNA dicocokkan
+dengan memanfaatkan informasi sekuen DNA yang
+tersedia dalam genebank (http:/www/ncbi.nlm.nih.gov).
+Selanjutnya dianalisis keragaman genetik dengan
+program pengolah data Mega 4.
+HASIL DAN PEMBAHASAN
+Hasil pemeliharaan larva yang berasal dari buah
+terserang dan perangkap lalat buah yang dipasang
+didapatkan tujuh spesies lalat buah (Tabel 3 dan 4).
+Spesies tersebut yaitu B. papayae, B. carambolae, B.
+cucurbitae, B. umbrosa, B. occipitalis, B. latiforns
+dan B. albistrigata. Spesies tersebut didapatkan dari
+18 tanaman yang menjadi inang lalat buah. Satu jenis
+tanaman dapat menjadi inang dari dua atau lebih spesies
+lalat buah. Belimbing dan mangga diserang oleh tiga
+spesies lalat buah sedangkan nangka diserang oleh dua
+spesies (Tabel 3). Spesies tersebut merupakan spesies
+lalat buah yang dilaporkan sudah ada di Indonesia
+(Ginting, 2009).
+Ketujuh spesies lalat buah yang diperoleh dari
+perangkap di tiga kabupaten menunjukkan adanya
+perbedaan populasi (Tabel 5). B.carambolae
+merupakan spesies dengan tingkat populasi dan
+kelimpahan tertinggi pada ketiga kabupaten tersebut. Di
+kabupaten Banjarbaru, populasi B. albistrigata paling
+rendah yaitu 47 individu (0,304%) sedangkan B.
+cucurbitae tidak ditemukan. Di Barito Kuala dan Banjar,
+B. cucurbitae rendah yaitu satu individu (0,096%) dan
+dua individu (0,021%). Populasi lalat buah tiap
+kecamatan dengan kategori rendah 42%, menengah
+10%, tinggi 38%, tidak ada populasi 10%.
+Berdasarkan teknik identifikasi morfologi yang
+kemudian dianalisis UPGMA dengan mengunakan
+program MEGA 4, didapatkan satu kelompok yang
+terdiri atas lima sub kelompok. Sub kelompok pertama
+dimulai dari B. latifrons dan B. carambolae dengan
+jarak 0,957 dan diakhiri dengan sub kelompok kelima B.
+occipitalis sebesar 0,847. Jarak koefisien antar tujuh
+spesies lalat buah ini rata-rata sebesar 0,02 (Gambar
+1).
+Hasil amplifikasi DNA total dengan teknik PCRRAPD
+pada tujuh spesies menunjukkan adanya
+polimorfisme pada ukuran pita 500 bp (Gambar 2 dan 2 sub kelompok yaitu sub kelompok B. papayae dan B.
+carambolae dengan jarak koefisien 0,850, sub kelompok
+kedua B. cucurbitae dan B.albistrigata dengan jarak
+koefisien 0,900 dengan jarak koefisien keduanya 0,775.
+Jarak koefisien dari dua kelompok tersebut sebesar 0,670
+(Gambar 3).
+Hasil dari amplifikasi DNA total dari hasil PCR
+RAPD dengan primer yang digunakan dipilih hasil PCR
+yang terbaik dalam mengaplikasikan pita DNA dari
+semua spesies lalat buah yang sebelumnya sudah
+dipurifikasi telebih dahulu, kemudian dilakukan
+sekuensing mengunakan mesin sekuensing menunjukkan
+adanya homologi pada bagian sekuen DNA dari ketujuh
+spesies lalat buah tersebut yaitu pada 83 base pair/ bp
+(C), 101 bp (T), 265 bp (G), 420 bp (A), 432 bp (T),
+600 bp (A). Panjang base pair berturut-turut untuk B.
+occipitalis,B. cucurbitae,B. albistrigata,B.
+carambolae, B. papayae, B. umbrosa adalah 615, 898,
+570, 969, 898 dan 615 dengan kecocokan pada genebank
+100%, B. latifrons 615 bp dengan kecocokan pada
+genebank 98% (Tabel 8).
+Hasil clustalw menunjukkan ada beberapa bagian
+sekuen yang memiliki homologi. B. papayae dan B.
+cucurbitae mempunyai tingkat kesamaan yang tinggi
+86% (771 pasang basa yang sama). B. papayae dan B.
+occipitalis 65% (591). Lalat buah yang relatif mirip
+susunan nukleotida adalah B. carambolae dan B.
+papayae dari 1 sampai 85 sama pasangan basanya
+tetapi tingkat kesamaannya rendah 36%. Sedangkan
+untuk B. latifrons, B. albistrigata, B. umbrosa sangat
+rendah tingkat kesamaannya dengan kata lain ketiga
+spesies ini berbeda keragamannya.
+Hasil analisis UPGMA dengan program MEGA
+4 untuk nilai koefisien perbedaan jarak ketidaksamaan
+yang didasarkan pada sekuen dari DNA tujuh spesies
+lalat buah didapatkan satu kelompok yang terdiri atas
+tiga sub kelompok. Sub kelompok pertama yaitu B.
+papayae, B. carambolae, B. occipitalis,B. latifrons.
+Sub kelompok kedua yaitu B. cucurbitae dan B.
+umbrosa. Sedangkan sub kelompok ketiga yaitu hanya
+B. albistrigata (Gambar 4).
+Hasil amplifikasi DNA metode RAPD
+menunjukkan hasil polimorfisme pada pita-pita DNA
+(William et al., 1990). Adanya perubahan sekecil apapun
+dalam reaksi dapat mengubah jumlah dan intensitas
+produk amplifikasi sehingga keterulangan sulit untuk
+dipertahankan (Asokan et al., 2007; Anggereini, 2008).
+Hal yang harus diperhatikan pada proses PCR yaitu
+kesterilannya, karena PCR rentan terhadap kontaminasi.
+Walaupun terdapat kontaminasi yang sangat kecil, baik
+pada DNA maupun bahan-bahan PCR, maka hasilnya
+akan berbeda. Sedangkan kesulitan dalam memakai
+teknik RAPD yaitu: (1) tingkat reproduksibilitas pola
+penanda hasil percobaan dari laboratorium ke laboratorium berbeda bahkan dalam laboratorium yang
+sama, (2) sangat sensitif terhadap variasi konsentrasi
+DNA, dan (3) memerlukan konsentrasi primer dan
+kondisi siklus suhu yang optimal pada saat pengujian.
+Muladno (2010) menambahkan RAPD tidak dapat
+membedakan individu homozigot dan heterozigot karena
+bersifat sebagai penanda dominan serta sulit mendeteksi
+perubahan yang kecil pada struktur DNA. Sekuens
+DNA penyusun gen dari satu spesies seringkali mirip
+(homolog) dengan sekuens DNA penyusun gen yang
+sama dari spesies lain. Berbeda dengan sekuens DNA
+bukan gen, sehingga urutan sekuens DNA tertentu hanya
+terdapat pada spesies tertentu saja.
+
+
+Sekuen DNA yang mempunyai hubungan
+kekerabatan dapat diidentifikasi dengan menempati
+cabang atau outgroup yang berdekatan yang membentuk
+pohon filogenetika. Perbedaan DNA lebih banyak dipakai
+karena dianggap lebih stabil dalam perkembangan
+spesies dibandingkan dengan perbedaan morfologi
+(William et al., 1990). Menurut Putra (2005) ada dua
+hal dasar yang digunakan untuk identifikasi yaitu
+menggunakan karakter tubuh seperti morfologi, anatomi,
+perilaku dan fisiologi. Selain itu, dapat dilakukan dengan
+memanfaatkan untai basa DNA yang terdapat pada selsel
+serangga sebagai pencirinya (Putra, 2005).
+Identifikasi DNA spesies dapat menjadi alat yang sangat
+berguna dalam entomologi meski tidak menggantikan
+identifikasi spesies secara konvensional. Identifikasi
+visual dapat digunakan untuk membedakan antara dua
+jenis karakteristik fisik dan perilaku sangat mirip atau
+identik. Sebuah identifikasi menyeluruh dari spesies
+melalui metode konvensional diperlukan sebelum
+mengunakan analisis DNA (Anggereini, 2008).
+SIMPULAN
+Identifikasi secara morfologi lalat buah hasil dari
+pemasangan perangkap dan penggumpulan buah
+terserang pada sembilan kecamatan di Kalimantan
+Selatan ditemukan tujuh spesies lalat buah yaitu B.
+carambolae, B. papayae, B.umbrosa, B. occipitalis,
+B. albistrigata, B. cucurbitae dan B. latifrons. Hasil
+analisis nilai koefisien perbedaan jarak ketidaksamaan
+yang didasarkan pada ciri morfologi dan metode RAPD
+menunjukkan perbedaan dalam pembagian kelompok
+dan sub kelompok. Hasil sekuensing DNA lebih mudah
+untuk membedakan B. carambolae dan B. papayae
+yang mempunyai hubungan kekerabatan sangat dekat.
+Perbedaan DNA lebih stabil dalam perkembangan
+spesies dibandingkan dengan perkembangan morfologis.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tabel 1. Primer yang digunakan dalam teknik RAPD (Zhang & Zhang, 2007)
+Primer Sequence (5’-3’)
+OPC-01 TTCGAGCCAG
+OPI-17 GGTGGTGATG
+OPL-07 AGGCGGGAAC
+OPL-08 AGCAGGTGGA
+OPL-16 AGGTTGCAGG
+Tabel 2. Setting program PCR untuk amplifikasi DNA
+Siklus Proses Suhu (oC) Waktu (Menit)
+Siklus 1 94 2
+Siklus 2 to 35 Denaturing 94 1
+Annealing 60 1
+Extension 72 1
+Final extension 72 5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tabel 3. Berbagai spesies lalat buah yang didapatkan dari hasil pemeliharaan larva sampai menjadi imago dari
+pengumpulan buah terserang lalat buah
+No. Tanaman Inang Jenis lalat buah
+1 Belimbing (Averrhoa carambola Linn) (Oxalidaceae) B. carambolae, B. papayae,B. latifrons
+2 Mangga (Mangifera indica Linn) (Anacardiaceae) B. carambolae, B. occipitalis, B. umbrosa
+3 Nangka (Artocarpus heterophylus Lamarck) (Moraceae) B . l a t i frons, B. umbrosa
+4 Pepaya (Carica papaya Linn) (Caricaceae) B. carambolae, B.papayae
+5 Tomat (S. lycopersicum Linn)(Solanaceae) B. carambolae, B.papayae
+6 Jeruk siam (Citrus nobilis Lour) (Rutaceae) B. carambolae, B.papayae
+7 Jambu air (Eugenia aquea Burm F) (Myrtaceae) B. carambolae, B. albistrigata
+8 Jambu biji (Psidium guajava Linn) (Myrtaceae) B. carambolae, B. occipitalis
+9 Cabai besar (Capsicum annum Linn) (Solanaceae) B. latifrons
+10 Cabai rawit (C. frutescens Linn) (Solanaceae) B. latifrons
+11 Sukun (A. altilis Fosberg) (Moraceae) B. latifrons
+12 Cempedak (A. champeden Spreng) (Moraceae) B. umbrosa
+13 Kecapi (Sandoricum koetjape Merr) (Meliaceae) B. papayae
+14 Tigarun (Crataeva nurvala Buch. Ham. ) (Capparaceae) B. carambolae
+15 Belimbing wuluh (Averrhoa bilimbi Linn) (Oxalidaceae) B. carambolae
+16 Labu (Cucurbita maxima Duchesne) (Cucurbitaceae) B. cucurbitae
+17 Gambas (Luffa acutangula (Linn) Roxb) (Cucurbitaceae) B. cucurbitae
+18 Timun (Cucumis sativus Linn)(Cucurbitaceae) B. cucurbitae
+
+Gambar 1. Dendrogram tujuh spesies lalat buah hasil pemasangan perangkap dan pengumpulan buah berdasarkan
+identifikasi secara morfologi.
+
+
+
+
+Tabel 4. Hasil pemantauan lalat buah dengan perangkap (Trapping)
+
+Lalat buah
+Lokasi
+Banjarbaru Barito Kuala Banjar Vegetasi
+B. carambolae LU, BS,
+CK
+MA, BA, RB KI, MB,
+AS
+Belimbing, nangka, mangga, jeruk, sawi,
+tomat, cabe, bayam, rambutan, sawo, nanas,
+jambu air, sirsak, petai, labu, kundur, durian,
+pampaken, buah mentega, belimbing wuluh,
+ketapi, srikaya, kedondong, sukun, kopi,
+kelengkeng, melinjo, kalalayu, papaya,
+balangkasua, cempedak, mengkudu
+B. papayae LU, BS,
+CK
+MA, BA, RB KI, MB Sawi, , nangka, tomat, belimbing, cabe,
+nanas, sawo, rambutan, pisang, jambu biji,
+jeruk, sirsak, petai, labu, kundur, durian,
+pampaken, buah mentega, belimbing wuluh,
+ketapi, srikaya, sukun, kelengkeng, jambu
+air, cempedak, melinjo, kopi, kalalayu,
+balangkasua, mengkudu, pepaya
+B. umbrossa LU, BS,
+CK
+MA, BA, RB KI, MB,
+AS
+Sawo, rambutan, sawi, nangka, tomat,
+belimbing, jeruk, jambu biji, pisang, bayam,
+mangga, buah mentega, belimbing wuluh,
+ketapi, srikaya, sukun, labu, kelengkeng,
+kalalayu, balangkasua, cempedak, pepaya
+B. albistrigata BS MA - jambu biji, jambu air
+B. latifrons LU, BS
+BA MB nangka, belimbing, rambutan, sawo, sirsak,
+petai, durian, pampaken, cempedak, labu,
+papaya, cabai
+B. cucurbitae - BA MB Mentimun, gambas, sawo
+B. occipitalis
+LU, BS,
+CK
+BA KI, MB,
+AS
+Kelengkeng, pepaya, jambu air, jambu
+Bangkok, kecapi, belimbing, tomat,
+Nangka,sukun, cempedak, cabe, labu
+Tabel 4. Hasil pemantauan lalat buah dengan perangkap (Trapping)
+LU (Landasan Ulin), BS( Banjarbaru Selatan), CK (Cempaka), MA (Mandastana), BA (Bakumpai), RB (Rantau
+Badauh), KI (karang Intan), MB (Martapura barat), AS (Astambul).
+
+
+Tabel 5. Kelimpahan populasi lalat buah dari pemasangan perangkap pada setiap kabupaten di Kalimantan Selatan
+
+
+Spesies
+Banjarbaru Barito Kuala Banjar
+Populasi Persentase Populasi Persentase Populasi Persentase
+B. carambolae 3890 25,2 377 36,3 3049 32,0
+B. papayae 3116 20,2 224 21,6 2548 26,8
+B. umbrosa 3435 22,2 211 20,3 2112 22,3
+B. albistrigata 47 0,3 20 1,9 0 0,1
+B. latifrons 2323 15,1 153 14,7 977 10,3
+B. cucurbitae 0 0,0 1 0,1 2 0,0
+B. occipitalis 2649 17,1 52 5,0 838 8,8
+
+
+
+Gambar 2. Hasil amplifikasi DNA lalat buah dengan PCR mengunakan marker 100 bp (M), nomor 1 sampai 14
+adalah B. albistrigata1, B.carambolae1, B. latifrons1, B. umbrosa7, B. albistrigata7, B. occipitalis7,
+B. papayae7, B. occipitalis16, B. umbrosa16, B. papayae16, B. albistrigata17, B. occipitalis17,
+B. occipitalis8, B. latifrons8. Angka dibelakang spesies menunjukkan primer yang digunakan
+(OPL07, OPC01,OPL08,OPL16, OPL17).
+
+
+Tabel 6. Matrik data karakter molekuler RAPD tujuh spesies lalat buah hasil dari elektroforesis
+Tabel 7. Matrik jarak genetik tujuh spesies lalat buah dari hasil RAPD berdasarkan analisis UPGMA
+B.a (B. albistrigata de Meijere), B.ca (B. carambolae Drew & Hancock),B.cu ( B. cucurbitae Coquillet), B.la (B. latifrons Hendel), B. oc (B. occipitalis
+Bezzi), B. pa (B. papayae Drew dan Hancock), B. um (B. umbrosa Drew & Hancock).
+OUT B. a B.ca B.cu B.la B.oc B.pa B.um
+B. albistrigata 1
+B. carambolae 0,750 1
+B. cucurbitae 0,900 0,850 1
+B. latifrons 0,700 0,650 0,700 1
+B. occipitalis 0,700 0,550 0,700 0,700 1
+B. papayae 0,700 0,850 0,800 0,700 0,500 1
+B. umbrossa 0,800 0,650 0,800 0,700 0,900 0,600 1
+HTU1( 1 3) 0,950 0,800 0,950 0,700 0,700 0,750 0,800 1
+HTU2( 5 7) 0,750 0,600 0,750 0,700 0,950 0,550 0,950 0,750 1
+HTU3( 2 6) 0,725 0,925 0,825 0,675 0,525 0,925 0,625 0,775 0,575 1
+HTU4( 8 10) 0,838 0,863 0,888 0,688 0,613 0,838 0,713 0,888 0,663 0,888 1
+HTU5( 4 9) 0,733 0,617 0,733 0,800 0,867 0,600 0,867 0,733 0,900 0,608 0,671 1
+HTU6( 11 12) 0,785 0,740 0,810 0,744 0,740 0,719 0,790 0,810 0,781 0,748 0,835 0,835 1
+Spesies
+Karakter (bp)
+50 100 150 200 250 300 350 400 450 500 550 600 650 700 750 800 850 900 950 1000
+B. carambolae 0 0 0 1 0 1 0 1 0 1 0 0 0 0 0 0 0 0 0 0
+B. papayae 0 1 1 1 0 1 1 1 0 1 1 1 0 0 0 0 0 0 0 0
+B. umbrossa 0 1 0 1 0 1 0 1 0 1 0 1 0 0 0 0 0 0 0 0
+B. occipitalis 0 0 0 1 1 1 1 0 0 1 0 1 0 1 0 0 0 0 0 1
+B. albistrigata 0 0 0 0 0 1 0 1 1 1 0 1 0 1 0 1 0 0 0 1
+B. latifrons 0 1 0 1 1 0 1 1 0 1 1 1 0 0 0 0 0 0 0 0
+B. cucurbitae 0 0 0 0 0 1 0 1 0 1 0 1 0 0 0 1 0 0 0 1

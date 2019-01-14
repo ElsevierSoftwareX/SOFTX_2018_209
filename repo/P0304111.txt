@@ -1,0 +1,89 @@
+Deformasi gelombang adalah perubahan sifat gelombang yang terjadi ketika ada
+gelombang bergerak merambat menuju ke pantai, salah satunya adalah difraksi.
+Difraksi gelombang terjadi bila gelombang yang datang terhalang oleh suatu
+penghalang yang dapat berupa bangunan pemecah gelombang (breakwater) maupun
+pulau. Akibatnya, gelombang akan membelok di sekitar ujung rintangan dan masuk
+ke daerah terlindung di belakangnya. Dalam hal ini, terjadi transfer energi dalam
+arah tegak lurus ke daerah terlindung. Fenomena difraksi gelombang penting
+diperhatikan dalam perencanaan pelabuhan dan bangunan pemecah gelombang.
+Untuk mengetahui pola difraksi gelombang yang terjadi akibat rintangan atau
+bangunan pantai yang menghalangi, dilakukan simulasi perambatan gelombang
+dengan model matematik atau numerik untuk beberapa skenario. Dalam penelitian ini
+digunakan paket program gelombang 2D dengan menggunakan persamaan hiperbola.
+Hasil yang diperoleh dari penelitian ini adalah nilai koefisien difraksi yang mendekati
+dengan hasil yang dipresentasikan oleh Shore Protection Manual (SPM, 1984).
+Adanya perubahan pola gelombang yang terjadi, dimana perubahan pola tersebut
+terjadi setelah gelombang yang datang merambat melewati breakwater tunggal
+maupun ganda. Kajian ini juga melihat perubahan tinggi gelombang, dimana tinggi
+puncak gelombang yang terjadi berangsur-angsur menurun, serta perubahan jumlah
+periode gelombang dominan yang mengalami penambahan karena breakwater, hal ini
+menunjukkan terjadinya fenomena difraksi yang terjadi.
+Kata kunci: model numerik 2D, difraksi gelombang, hiperbola.
+
+I. PENDAHULUAN
+A. Latar Belakang
+Gelombang yang terjadi di alam sebenarnya sangat kompleks dan tidak dapat
+dirumuskan dengan akurat. Tetapi fenomena gelombang yang terjadi di alam
+dapat dipelajari dan dilakukan beberapa asumsi sehingga muncul beberapa
+teori atau persamaan gelombang. Banyak orang yang menghitung dan
+memodelkan persamaan gelombang, akan tetapi tidak banyak yang dapat
+mensimulasikan hasilnya dengan baik. Simulasi banyak digunakan dalam
+semua bidang ilmu pengetahuan atau bahkan dalam kehidupan di masyarakat.
+Untuk membangun bangunan air misalnya bendung, bendungan, tanggul
+sungai, saluran irigasi, pelabuhan, bangunan pemecah gelombang (breakwater)
+dan sebagainya, seringkali diperlukan suatu simulasi. Simulasi dilakukan
+dengan menirukan sistem beserta dengan permasalahannya, kemudian menguji
+tiruan sistem tersebut dengan berbagai skenario permasalahannya. Simulasi
+umumnya memerlukan model sebagai alat bantu. Model matematik
+memberikan keuntungan lebih dari pada model fisik dilihat dari tenaga, waktu,
+serta anggaran biaya yang lebih sedikit, sehingga pelaksanaannya lebih murah
+dan cepat. Seiring bertambahnya waktu dan dampak yang ditimbulkan oleh
+gelombang terhadap daerah pantai, penelitian pemodelan numerik yang
+berhubungan dengan perambatan gelombang maupun deformasi gelombang
+dan perlindungan pantai pun semakin meningkat.
+Deformasi gelombang adalah perubahan sifat gelombang yang terjadi ketika
+ada gelombang bergerak merambat menuju ke pantai, salah satunya adalah
+difraksi. Difraksi gelombang terjadi bila gelombang yang datang terhalang oleh
+suatu penghalang yang dapat berupa bangunan pemecah gelombang
+(breakwater) maupun pulau. Akibatnya, gelombang akan membelok di sekitar
+ujung rintangan dan masuk ke daerah terlindung di belakangnya. Dalam hal
+ini, terjadi transfer energi dalam arah tegak lurus ke daerah terlindung.
+Fenomena difraksi gelombang penting diperhatikan dalam perencanaan
+pelabuhan dan bangunan pemecah gelombang.
+Dalam penelitian ini, akan mencoba mensimulasikan hasil daripada persamaanpersamaan
+gelombang yang ada dengan bahasa pemrograman dengan berbagai
+skenario, serta mencoba memahami pola gelombang yang terbentuk akibat
+deformasi gelombang yaitu difraksi. Serta menganalisa untuk mengetahui dan
+memprediksi arah datangnya gelombang pada saat ia menghampiri pantai. Hal
+ini sangat penting dalam memahami proses dinamika pantai dan menjaga
+kestabilannya.
+
+B. Rumusan Masalah
+Adapun rumusan masalah pada penelitian ini adalah perlu dilakukan simulasi
+difraksi gelombang dengan menggunakan paket model model matematik/
+numerik.
+C. Batasan Masalah
+Batasan masalah dari penelitian ini meliputi :
+1. Studi deformasi gelombang dalam penelitian ini hanya difraksi,
+2. Persamaan gelombang yang digunakan yaitu persamaan hiperbola,
+3. Simulasi dengan pemodelan matematik/ numerik.
+D. Tujuan Penelitian
+Penelitian ini dilakukan dengan tujuan untuk
+1. Me-review fenomena difraksi gelombang saat dipengaruhi oleh perubahan
+bangunan pantai yang mereduksi kecepatan gelombang dan mengakibatkan
+pembelokan,
+2. Mengetahui pola difraksi gelombang yang terjadi akibat rintangan atau
+bangunan pantai yang menghalangi,
+3. Melihat fenomena dari difraksi gelombang bagaimana jika terjadi
+dikenyataannya, dari berbagai skenario yang direncanakan.
+
+E. Manfaat Penelitian
+Penelitian ini juga diharapkan dapat memberikan manfaat untuk memberikan :
+1. Sebagai salah satu acuan dalam perencanaan bangunan pantai,
+2. Menggambarkan pembelokan gelombang secara grafis sehingga
+memudahkan dalam visualisasi dan analisa gelombang,
+3. Menambah pengetahuan dalam simulasi persamaan gelombang,
+4. Memberikan banyak ide-ide bagi peneliti tentang perlindungan wilayah
+pesisir dengan bangun pelindung pantai dan lainya,
+5. Kontribusi kepada pihak pemerintah dengan cara transfer ilmu dan
+teknologi.

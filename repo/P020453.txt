@@ -1,0 +1,103 @@
+﻿Pengamatan pola penyebaran penduduk merupakan salah satu hal yang sangat
+penting bagi pemerintah. Informasi mengenai hal ini akan bermanfaat untuk
+pengambilan keputusan dalam perencanaan pembangunan di wilayah
+pemerintahan. Prediksi penyebaran jumlah penduduk akan sangat bermanfaat
+untuk perencanaan pembangunan di wilayah Bandar Lampung. Informasi
+mengenai penyebaran dan prediksi jumlah penduduk di wilayah Bandar Lampung
+masih diolah secara manual dengan penyajian masih terbatas dalam bentuk tabel
+dan grafik. Penelitian ini bertujuan untuk membangun sistem informasi geografis
+berbasis web yang menampilkan pemetaan penyebaran dan prediksi jumlah
+penduduk berdasarkan metode geometrik di wilayah Bandar Lampung. Data pada
+penelitian ini diperoleh dari publikasi Badan Pusat Statistik Kota Bandar
+Lampung. Sistem ini diimplementasikan menggunakan Qgis, Geoserver,
+PostgreSQL dan bahasa pemrograman PHP. Hasil keseluruhan pengujian
+menunjukkan bahwa sistem informasi geografis penyebaran dan prediksi jumlah
+penduduk telah sesuai baik dari segi fungsionalitasnya, maupun dari segi interaksi
+pelayanan pengguna.
+Kata Kunci: Pemetaan jumlah penduduk, Model Geometrik, sistem informasi
+geografis.
+
+BAB I
+PENDAHULUAN
+1.1 Latar Belakang
+Data dan informasi mengenai keadaaan penduduk seperti jumlah penduduk
+dan persebarannya dalam suatu daerah sangat diperlukan dalam rangka
+perencanaan pembangunan di segala bidang. Informasi yang tersedia terdiri
+dari informasi masa lalu dan masa kini yang diperoleh dari hasil survei serta
+proyeksi atau prediksi untuk masa yang akan datang.
+Pengamatan pola penyebaran penduduk disuatu daerah digunakan agar
+pemerintah dapat mengambil keputusan yang tepat untuk melakukan
+pembangunan di daerah tersebut sesuai dengan jumlah penduduk yang ada.
+Hasil prediksi jumlah penduduk akan bermanfaat untuk perencanaan
+penyediaan kebutuhan pokok, fasilitas kesehatan, pendidikan, perumahan dan
+fasilitas kesempatan kerja. Salah satu cara untuk memprediksikan jumlah
+penduduk di suatu wilayah adalah dengan menggunakan model pertumbuhan
+penduduk geometrik.
+Setyorini (2012) melakukan analisis terhadap kepadatan penduduk dan
+proyeksi kebutuhan permukiman kecamatan depok sleman tahun 2010–2015.
+
+Penelitian yang dilakukan bertujuan untuk mengkaji tingkat kepadatan
+penduduk dan persebarannya, serta mengkaji proyeksi penduduk dan
+kebutuhan permukiman tahun 2010 – 2015. Tingkat kepadatan penduduk
+dihitung berdasarkan jumlah penduduk per luasan permukiman. Penghitungan
+proyeksi penduduk dilakukan menggunakan metode geometrik. Metode ini
+digunakan karena data fertilitas (kelahiran) dan mortalitas (kematian) terbatas
+sehingga diasumsikan bahwa faktor yang mempengaruhi pertumbuhan
+penduduk tetap maka angka pertumbuhannya sama untuk setiap tahun. Data
+hasil proyeksi penduduk ini digunakan untuk menghitung proyeksi kebutuhan
+permukiman yang menggunakan asumsi luas permukiman per jiwa tahun
+2010. Namun penyajian data sebaran dan data prediksi masih diproses secara
+manual dan ditampilkan dalam bentuk tabel dan grafik, maka dari itu perlu
+dilakukan pengembangan terhadap proses dan penyajiannya seperti
+menggunakan sistem informasi geografis.
+Informasi mengenai penyebaran dan prediksi jumlah penduduk di wilayah
+Bandar Lampung masih diolah secara manual dengan penyajian masih
+terbatas dalam bentuk tabel dan grafik, sedangkan penyajian dalam bentuk
+peta belum dilakukan. Penyajian dalam bentuk peta akan membantu proses
+pengamatan pola penyebaran penduduk dengan lebih mudah.
+Penelitian yang dilakukan oleh Santoso, dkk (2008). tentang sistem informasi
+geografis penyebaran penduduk berdasarkan tingkat usia di kabupaten sleman
+berbasis web menghasilkan program SIG berbasis web dengan peta kartografi
+yang dapat menunjukkan persebaran penduduk. Namun sistem ini tidak
+menyediakan tools untuk melakukan ataupun menampilkan proyeksi jumlah
+penduduk melainkan hanya menampilkan peta sebaran jumlah penduduk saja.
+Web-Geographic Information System (WEB-GIS) atau sistem informasi
+geografis berbasis web merupakan salah satu teknologi informasi yang dapat
+digunakan untuk memberikan informasi berupa pemetaan penyebaran jumlah
+penduduk dan juga menampilkan prediksi jumlah penduduk berdasarkan
+metode geometrik di wilayah Bandar Lampung.
+Sistem ini diharapkan mampu mempermudah penyampaian informasi
+mengenai penyebaran jumlah penduduk di wilayah Bandar Lampung dan
+dapat menampilkan prediksi perubahan distribusi jumlah penduduk di
+wilayah Bandar Lampung.
+1.2 Rumusan Masalah
+Rumusan masalah dari penelitian ini adalah bagaimana membangun sistem
+informasi geografis berbasis web yang menampilkan informasi penyebaran
+jumlah penduduk serta prediksi jumlah penduduk menggunakan model
+geometrik di wilayah bandar lampung.
+1.3 Batasan Masalah
+Batasan masalah dari sistem ini adalah sebagai berikut.
+1. Sistem ini hanya digunakan untuk mengetahui penyebaran jumlah
+penduduk di wilayah Bandar Lampung berdasarkan kelurahan dan tahun.
+2. Prediksi jumlah penduduk hanya dihitung menggunakan model geometrik.
+3. Hasil prediksi akan divisualisasikan dalam bentuk peta digital.
+
+4. Peta digital yang dihasilkan bersifat statis terhadap perubahan kondisi peta
+seperti pemekaran wilayah, sehingga jika terdapat perubahan harus
+dilakukan digitasi ulang.
+5. Perubahan data prediksi penduduk divisualisasikan dengan perubahan
+warna pada peta yang dihasilkan.
+1.4 Tujuan Penelitian
+Tujuan penelitian ini adalah membangun sistem informasi geografis berbasis
+web untuk penyajian data sebaran jumlah penduduk yang memenuhi
+kemampuan untuk memudahkan proses pengamatan penyebaran dan prediksi
+jumlah penduduk di wilayah Bandar Lampung menggunakan model
+pertumbuhan geometrik.
+1.5 Manfaat Penelitian
+Manfaat yang dapat diperoleh dari penelitian ini adalah sebagai berikut.
+1. Mempermudah masyarakat dalam memperoleh data lokasi penyebaran
+jumlah penduduk dan kepadatan penduduk di Kota Bandar Lampung.
+2. Memprediksi perubahan distribusi penyebaran jumlah penduduk di
+wilayah Bandar Lampung sehingga dapat membantu pemerintah dalam
+pengambilan keputusan untuk perencanaan pembangunan dimasa yang
+akan datang.

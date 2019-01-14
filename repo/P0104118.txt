@@ -1,0 +1,411 @@
+﻿Simulasi dan Analisis Sistem Pengatur Tegangan DC
+Menggunakan Rangkaian Push-Pull Converter
+
+
+Intisari— Sumber tegangan listrik merupakan salah satu
+kebutuhan primer modern di masa sekarang. Sumber tegangan
+listrik mutlak dibutuhkan untuk menjamin tetap bekerjanya
+peralatan tersebut. Namun masalah yang seringkali dihadapi
+adalah sumber-sumber tegangan, terutama sumber tegangan
+searah DC, memiliki tegangan yang jauh dibawah level tegangan
+kerja yang umumnya digunakan pada sistem jaringan listrik
+perumahan. Untuk mengatasai permasalah sumber tegangan DC
+tersebut, salah satu cara yang dapat diambil adalah dengan
+mengimplementasikan sebuah rangkaian pengubah nilai
+tegangan DC atau DC-DC Converter.
+Pada tulisan ini dibahas dan dianalisa kinerja rangkaian DCDC
+Converter dari tipe terisolasi, yaitu Push-Pull Converter.
+Pemilihan Push-Pull Converter dilakukan atas beberapa alasan
+antara lain kehandalan, kualitas daya yang dihasilkan,
+kemudahan untuk diaplikasikan serta yang paling penting
+adalah ketahanan dari gangguan yang mungkin terjadi.
+Sistem dikendalikan dengan menggunakan pengendali yang
+sederhana, yaitu Pengendali Proportional Integral (PI) dan
+Integral Proportional (IP) serta diuji kinerjanya dengan
+menggunakan Diagram Bode. Hasil simulasi serta analisa
+kestabilan menunjukkan bahwa Rangkaian Push-Pull adalah
+rangkaian yang tahan terhadap gangguan.
+Kata Kunci— Tegangan DC, Push-Pull Converter, Teknik
+Pensaklaran, Pengendali PI, Pengendali IP.
+I. PENDAHULUAN
+Terdapat dua jenis sumber tegangan listrik yaitu tegangan
+listrik searah DC (Direct Current) dan tegangan listrik bolakbalik
+AC (Alternating Current). Dibanyak Negara, termasuk
+Indonesia, tegangan listrik yang umum digunakan adalah
+tegangan AC. Namun seiring berjalannya waktu serta
+berkembangnya teknologi dibanyak negara sudah mulai
+diterapkan sumber tegangan DC sebagai sumber listrik utama
+pada sistem kelistrikan rumah.
+Dalam menggunakan sumber tegangan DC, selain yang
+disediakan oleh penyedia jasa listrik, sumber tegangan listrik
+DC sudah mulai banyak dihasilkan oleh sumber energi listrik
+alternatif seperti panel surya dan biofuel. Namun masalah
+yang sering dihadapi seringkali adalah sumber-sumber energi
+alternatif tersebut dibangkitkan dalam nilai yang jauh dibawah
+level tegangan kerja yang umumnya digunakan pada sistem
+jaringan listrik perumahan [1].
+Untuk mengatasai permasalah sumber tegangan DC, salah
+satu cara yang dapat diambil adalah dengan
+mengimplementasikan sebuah rangkaian pengubah nilai
+tegangan DC atau DC-DC Converter. Perubahan nilai
+tegangan DC tersebut bisa menaikkan ataupun menurunkan
+nilai tegangan DC [2,3].
+Pada makalah ini, dirancang sebuah Rangkaian yang
+berfungsi untuk menaikkan tegangan keluaran pada jaringan
+listrik perumahan. Ada beberapa pilihan yang bisa digunakan,
+salah satu yang paling umum dipilih adalah menggunakan
+Boost Converter. Selain mudah dalam perancangannya, Boost
+Converter juga ringkas dan sudah banyak diaplikasikan pada
+sistem dengan sumber energi terbarukan. Namun Boost
+Converter memiliki masalah keandalan.
+Tidak jarang sumber tegangan listrik DC yang ingin
+dinaikkan nilainya berasal dari sumber tegangan AC.
+Permasalahan muncul ketika sumber tegangan yang tersedia
+jauh dari bentuk ideal. Sumber tegangan AC sering tidak
+sinusoidal, berfluktuasi, dan tidak setimbang. Sumber
+tegangan DC sering berfluktuasi dan mengandung riak
+frekuensi rendah. Tegangan AC yang tidak setimbang atau
+tegangan DC yang mengandung riak bisa menyebabkan arus
+keluaran converter mengandung riak frekuensi rendah yang
+susah ditapis [4,5].
+Untuk mengatasi hal tersebut, ditawarkan rangkaian DCDC
+Converter dari tipe terisolasi, yaitu Push-Pull Converter.
+Pemilihan Push-Pull Converter dilakukan atas beberapa alasan
+antara lain keandalan, kualitas daya yang dihasilkan,
+kemudahan untuk diaplikasikan serta yang paling penting
+adalah ketahanan dari gangguan yang mungkin terjadi.
+II. RANGKAIAN PUSH-PULL CONVERTER
+Push-pull converter adalah konverter DC-DC yang
+menggunakan transformator untuk mengubah level tegangan
+DC yang dibutuhkan serta menghasilkan isolasi galvanis
+terhadap beban [6].
+Push-Pull converter termasuk kedalam jenis indirect
+converter. Push-pull converter digunakan karena memiliki
+efisiensi keluaran yang tinggi dan mampu menyediakan
+jangkauan daya keluaran yang lebih tinggi jika dibandingkan
+dengan menggunakan flyback [7].
+
+
+Prinsip kerja dari rangkaian Push-Pull Converter
+berdasarkan kerja dari setiap saklar dengan analisis rangkaian
+ketika saklar terutup dan terbuka [4].
+Dalam analisis terdapat asumsi yang digunakan sebagai
+berikut: Periode dari pensaklaran adalah T dimana saklar
+tertutup selama waktu DT dan terbuka selama waktu (1-D)T
+dengan D sebagai duty cycle. Arus yang melalui induktor
+adalah arus kontinyu. Transformator yang digunakan adalah
+transformator ideal. Saklar tidak boleh bekerja pada posisi ON
+secara bersamaan.
+A. Kondisi Kerja Push-Pull Converter
+Sesuai dengan kondisi nomor 4 dimana saklar 1 dan 2 pada
+rangkaian tidak boleh bekerja secara bersamaan maka ada tiga
+kondisi kerja yang dapat di definisikan pada rangkaian Push-
+Pull Converter, yaitu:
+1) Kondisi saklar 1 ON : Ketika saklar 1 bekerja, maka
+lilitan primer Vp1 akan mendapatkan arus yang berasal
+dari Vs. Sehingga nilai Vp1 akan sama dengan Vs.\
+r:...
+
+Sesuai dengan prinsip kerja transfomator dimana
+kumparan primer akan menginduksi kumparan
+sekundernya, maka Vs1 akan bernilai:
+r:...
+
+
+Dimana
+r:...
+Sehingga dapat diperoleh nilai ΔiLx pada saat saklar
+tertutup adalah sebagai berikut:
+r:....
+2) Kondisi saklar 2 ON : Ketika saklar 1 bekerja, maka
+lilitan primer Vp1 akan mendapatkan arus yang berasal
+dari Vs. Sehingga nilai Vp1 akan sama dengan Vs.
+r:...
+
+
+Sesuai dengan prinsip kerja transfomator dimana
+kumparan primer akan menginduksi kumparan
+sekundernya, maka Vs1 akan bernilai:
+r:...
+
+
+Sehingga dapat diperoleh nilai ΔiLx pada saat saklar
+tertutup adalah sebagai berikut:
+r:...
+
+3) Kondisi saklar 1 dan 2 OFF : Ketika saklar 1 dan 2
+berada pada kondisi OFF maka tidak ada arus yang
+mengalir pada kedua lilitan primer.Sehingga tidak ada
+induksi pada lilitan sekunder.
+r:...
+
+
+
+Namun karena arus yang mengalir bersifat kontinyu
+maka pada induktor nilai –Vc akan menyebabkan
+penurunan arus pada induktor secara linear.
+r:...
+
+
+
+Pada kondisi tunak, total perubahan arus harus bernilai
+nol, maka dari persamaan dapat diperoleh:
+r;...
+
+
+
+Sehingga didapat nilai Vo senilai:
+r:...
+
+
+
+B. Analisis Kerja Push-Pull Converter
+Dari persamaan yang didapat dari rangkaian dan telah
+dibagi kedalam 3 kondisi kerja akan dimodelkan untuk
+mendapatkan persamaan fungsi alih dari Push-Pull Converter.
+Penurunan matriks ruang keadaan sistem dilakukan dengan
+metode State Space Averaging.
+
+
+Vx diasumsikan sebagai tegangan sekunder transformator
+yang telah melewati penyearah dioda. Dari persamaan, dengan
+memperhitungkan besar duty cycle maka didapat nilai Vx
+sebesar:
+r:...
+Pada saat saklar tertutup, didapat matriks ruang keadaan
+seperti persamaan di bawah:
+r:...
+Sedangkan untuk persamaan keadaan dari rangkaian Push-
+Pull Converter ketika saklar terbuka digambarkan seperti
+rangkaian Gbr. 3
+Gbr. 3. Keluaran Push-Pull Converter pada Kondisi Saklar Terbuka
+Sedangkan saat saklar terbuka, didapat matriks ruang
+keadaan seperti persamaan di bawah:
+r:...
+Sehingga matriks ruang keadaan yang dihasilkan menjadi:
+r:...
+Matriks persamaan ruang keadaan di atas ditransformasikan
+menjadi persamaan fungsi alih menjadi persamaan berikut:
+r:...
+Tegangan keluaran pada Push-Pull Converter dijaga konstan
+dengan nilai Vo. Tegangan yang umum diterima oleh beban
+pada sistem jaringan listrik di Indonesia adalah listrik AC
+dengan nilai maksimal 220V dan minimal -220V.Dari nilai
+maksimal dan minimal tersebut maka rentang nilai yang
+dihasilkan adalah sebesar 440V.Agar mampu menghasilkan
+nilai tegangan sebesar 440V secara konstan maka nilai
+tegangan keluaran dijaga konstan pada nilai 400VDC dengan
+daya yang diharapkan sebesar 2000W.
+Dalam menghasilkan sinyal keluaran yang diinginkan, duty
+cycle yang digunakan adalah sebesar 0.3. Nilai induktor,
+digunakan sebesar 100x10-6 H sehingga diharapkan induktor
+dapat tahan terhadap lebih banyak variasi nilai beban. Sama
+halnya dengan penentuan nilai induktor, penentuan nilai
+kapasitor juga dilakukan dengan dasar memperkecil nilai
+ripple tegangan yang muncul. Nilai kapasitor yang digunakan
+pada rangkaian adalah sebesar 5x10-3 F. Untuk merangkum penjelasan di atas, Tabel I menampilkan nilai-nilai variabel
+tetap yang digunakan pada rangkaian Push-Pull Converter.
+
+III. SIMULASI RANGKAIAN PUSH-PULL CONVERTER
+A. Kondisi Beban Standar
+Simulasi dilakukan dengan membandingkan tiga jenis
+pengendali yang berbeda.Tujuan dari simulasi adalah untuk
+melihat perbandingan kerja dari ketiga pengendali dan untuk
+melihat kerja dari pengendali sehingga dapat dilihat
+pengendali mana yang paling baik digunakan untuk berbagai
+jenis tujuan. Ketiga jenis pengendali yang digunakan adalah
+Pengendali PI dengan metode penalaan Ciancone-Marlin,
+Pengendali PI dengan metode penalaan Heuristik, dan
+Pengendali IP dengan metode penalaan Heuristik.
+Pemilihan pengendali PI dan Pengendali IP didasarkan atas
+pertimbangan bahwa bentuk perbaikan yang paling
+dibutuhkan dalam rangkaian push-pull adalah perbaikan nilai
+tegangan output terhadap tegangan referensi. Selain itu sistem
+push-pull sudah memiliki respon yang cepat sehingga tidak
+membutuhkan kendali diferensial untuk mempercepat respon
+output. Disamping itu kedua tipe pengendali ini adalah
+pengendali yang paling mudah dan murah untuk diterapkan
+dalam penerapan riil.
+
+Gbr. 4 menunjukkan blok diagram sistem lingkar tertutup.
+Sistem lingkar tertutup terdiri dari plant yang diserikan
+dengan pengendali. Hasil keluaran pengendali diserikan
+dengan penguatan, K. Sehingga masukkan bagi plant adalah
+nilai duty cycle yang sudah dikalikan dengan nilai penguatan
+K. Berdasarkan Gbr. 4, dapat dinyatakan persamaan lingkar
+terbuka (28) dan persamaan lingkar tertutup sistem (29).
+r:...
+Pada persamaan (27) telah dinyatakan persamaan fungsi
+alih untuk rangkaian Push-Pull Converter. Dengan
+memasukkan nilai-nilai parameter dan juga nilai-nilai tiap
+variabel tetap pada rangkaian Push-Pull Converter seperti yang tertera pada Tabel I, maka fungsi alih dari Push-Pull
+Converter pada kondisi beban standar dapat diperoleh, yaitu:
+r:...
+Persamaan (28) merupakan fungsi alih dari sistem
+rangkaian Push-Pull Converter tanpa pengendali.Sedangkan
+sesuai Gbr. 4, sistem lingkar terbuka memiliki persamaan
+fungsi alih Push-Pull Converter yang diserikan dengan fungsi
+alih dari pengendali. Gbr. 5 menjelaskan diagram blok dari
+pengendali PI dan Gbr. 6 menjelaskan diagram blok dari
+pengendali IP.
+
+
+Dari Gbr. 5 dapat dihasilkan persamaan fungsi alih untuk
+pengendali PI sebagai berikut:
+KLM  = 8NO
+ +P9 !
+∗ − !  (31)
+Gbr. 6. Blok Diagram Sistem Lingkar Tertutup [9]
+Dari Gbr. 6 dapat dihasilkan persamaan fungsi alih untuk
+pengendali IP sebagai berikut:
+r:...
+Sehingga fungsi alih system lingkar terbuka berdasarkan
+persamaan fungsi alih rangkaian Push-Pull Converter dan
+fungsi alih pengendali yang telah didapatkan untuk tiap-tiap
+pengendali dengan kondisi beban standar adalah sebagai
+berikut:
+Fungsi Alih Push-Pull Converter dengan Pengendali PI
+Ciancone-Marlin:
+r:...
+Fungsi Alih Push-Pull Converter dengan Pengendali PI
+Heuristik
+r:...
+Fungsi Alih Push-Pull Converter dengan Pengendali IP
+r:...
+Gbr. 7 akan menunjukkan grafik respon tegangan dari ketiga
+pengendali yang digunakan:
+Gbr. 7. Vc(t) pada Sistem dengan Seluruh Pengendali
+Gbr. 7 menunjukkan grafik hasil simulasi dari sistem untuk
+setiap jenis pengendali yang digunakan. Terdapat 4 buah
+grafik yang masing-masing menunjukkan grafik keluaran
+untuk setiap sistem dengan pengendali yang diujikan. Tabel II
+menunjukkan parameter respon waktu dari tegangan keluaran
+dengan tiga pengendali berbeda.
+Dengan didapatkannnya masing-masing fungsi alih lingkar
+terbuka Gol(s) untuk setiap sistem, maka kestabilan sistem
+dapat dianalisis menggunakan Diagram Bode. Gbr. 8, Gbr. 9,
+dan Gbr. 10 menunjukkan diagram bode dari setiap system
+dengan tiga jenis pengendali yang berbeda.
+
+
+B. Kondisi Beban berubah
+Pada bagian ini akan diperlihatkan mengenai hasil simulasi
+dengan melakukan perubahan beban pada sistem. Beban
+diubah menjadi 60Ω dan 100Ω. Kedua nilai beban akan
+diujikan melalui simulasi kedalam sistem dengan tiga jenis
+pengendali yang berbeda. Hasil simulasi sistem dengan beban
+konstan 60Ω ditunjukkan pada Gbr. 11.
+
+Tabel III menunjukkan parameter respon waktu dari
+tegangan dengan tiga pengendali berbeda pada kondisi beban
+60Ω. Kemudian hasil selanjutnya adalah hasil simulasi
+dengan menggunakan beban sebesar 100Ω. Gbr. 12
+menunjukkan respon tegangan dari simulasi dengan beban
+100Ω. Tabel IV menunjukkan parameter respon waktu dari
+tegangan dengan tiga pengendali berbeda pada kondisi beban
+100Ω.
+
+
+
+Kondisi Beban Standar dengan Perubahan Pengendali
+Bagian ini akan diperlihatkan mengenai hasil simulasi pada
+kondisi beban standar 80Ω dengan perubahan beban menjadi
+60Ω dan 100Ω. Kedua nilai beban akan diujikan melalui
+simulasi kedalam sistem dengan tiga jenis pengendali yang
+berbeda. Hasil grafik pada Gbr. 13akan menunjukkan respon
+tegangan pada perubahan beban 60Ω.
+
+Selanjutnya Tabel V akan menunjukkan parameter kestabilan
+dari ketiga respon tegangan dengan tiga pengendali berbeda:
+
+
+Hasil selanjutnya adalah hasil simulasi dengan
+menggunakan perubahan beban dari 80 Ω menjadi 100Ω pada
+detik ketiga. Gbr. 14 menunjukkan respon tegangan dari
+simulasi dengan perubahan beban dari 80 Ω menjadi 100Ω.
+Tabel VI menunjukkan parameter respon waktu dari ketiga
+respon tegangan dengan tiga pengendali berbeda.
+
+D. Kondisi Beban Standar dengan Perubahan Konstanta
+Pengendali
+Percobaan selanjutnya adalah dengan memvariasikan nilai
+konstanta pengendali. Simulasi ini bertujuan untuk melihat
+sejauh mana perubahan nilai konstanta pengendali mampu
+mempengaruhi kestabilan sistem. Pada percobaan ini hanya
+nilai konstanta dari ketiga pengendali yang diubah sementara
+nilai beban yang digunakan adalah tetap sebesar 80Ω.
+1) Pengendali PI Ciancone-Marlin : Simulasi pertama dari
+perubahan parameter pengendali adalahsimulasi dengan
+menggunakan perubahan parameter pengendali PI Ciancone-
+Marlin.Gbr. 15 menunjukkan respon tegangan dari simulasi
+dengan perubahan parameter pengendali PI Ciancone-
+Marlin.Dilanjutkan dengan Tabel VII yang menunjukkan
+parameter kestabilan dari ketiga respon tegangan dengan tiga
+parameter pengendali yang berbeda.
+
+
+2) Pengendali PI Heuristik : Hasil selanjutnya adalah hasil
+simulasi dengan menggunakan perubahan parameter
+pengendali PI Heuristik.Gbr. 16 menunjukkan respon
+tegangan dari simulasi dengan perubahan parameter
+pengendali PI Heuristik.Dilanjutkan dengan Tabel VIII yang
+menunjukkan parameter kestabilan dari ketiga respon
+tegangan dengan tiga parameter pengendali yang berbeda.
+
+3) Pengendali IP : Simulasi terakhir adalah simulasi
+dengan menggunakan perubahan parameter pengendali IP
+Heuristik.Gbr. 17 menunjukkan respon tegangan dari simulasi
+dengan perubahan parameter pengendali IP
+Heuristik.Dilanjutkan dengan Tabel IX yang menunjukkan
+parameter kestabilan dari ketiga respon tegangan dengan tiga
+parameter pengendali yang berbeda.
+
+
+IV.KESIMPULAN
+Berdasarkan hasil simulasi, rangkaian Push-Pull Converter
+yang dirancang merupakan rangkaian yang tahan terhadap
+gangguan atau robust. Analisa kestabilan sistem Push-Pull
+Converter dengan menggunakan ketiga pengendali
+menunjukkan bahwa sistem yang dibangun semuanya stabil.
+Sistem dengan menggunakan pengendali IP memiliki gain
+margin yang cukup besar (~90o) dibandingkan sistem dengan
+menggunakan pengendali PI (~10o). Hal ini menunjukkan
+sistem dengan pengendali IP memiliki tingkat kestabilan yang
+lebih baik. Berdasarkan hasil simulasi yang dilakukan dengan
+membandingkan respon tegangan dari sistem dengan ketiga
+pengendali yang digunakan, disimpulkan bahwa Pengendali
+IP adalah pengendali yang paling baik diterapkan pada sistem
+Push-Pull Converter yang dirancang ini.
+Pada simulasi dengan kondisi beban berubah ketika beban
+dirubah menjadi 60Ω dan 100Ω, pengendali IP adalah
+pengendali yang menghasilkan respon tegangan yang paling
+baik yang ditandai dengan munculnya overshoot namun waktu
+respon yang paling cepat diantara seluruh pengendali yang
+digunakan.
+Sedangkan pada seluruh simulasi dengan perubahan beban
+juga masih memperlihatkan pengendali IP sebagai pengendali
+yang paling baik. Ditandai dengan kemunculan overshoot
+sebesar namun dengan tetap menghasilkan waktu pulih yang
+paling cepat diantara ketiga pengendali lainnya.
+Pada simulasi dengan kondisi beban standar dengan
+perubahan konstanta pengendali menghasilkan hasil yang
+berbeda untuk setiap pengendali yang digunakan. Untuk
+pengendali PI Ciancone-Marlin, nilai konstanta yang terbaik
+dihasilkan pada nilai Kp=1.63e-2 dan Ki=6.97e-2 yang
+ditandai dengan nilai rise time yang paling singkat dan
+overshoot yang paling rendah. Sedangkan untuk pengendali PI
+Heuristik nilai konstanta terbaik dihasilkan oleh konstanta
+Kp=0.035 dan Ki=0.65. Meskipun nilai konstanta ini memiliki
+nilai rise time yang sama dengan respon dengan konstanta
+Kp=0.0035 dan Ki=0.065, namun dengan nilai overshoot yang
+jauh lebih kecil yaitu sebesar 0.13%. Dan untuk pengendali PI
+nilai konstanta terbaik dihasilkan oleh konstanta Kp=0.005
+dan Ki=0.25 yang ditandai nilai nilai rise time yang paling
+singkat meskipun nilai overshootnya lebih besar jika
+dibandingkan dengan respon dengan nilai konstanta Kp=0.05
+dan Ki=2.5.
+Hasil simulasi sistem rangkaian Push-Pull Converter yang
+dibangun juga menunjukkan kemampuan merespon perubahan
+kondisi lingkungan pada saat operasi dan tetap mampu
+memberikan tegangan kerja optimal sesuai dengan kebutuhan
+sistem.

@@ -1,0 +1,164 @@
+﻿ABSTRAK
+Penelitian ini bertujuan untuk mengetahui kemampuan penyisihan Total Ammonia
+Nitrogen (TAN) dan waktu jenuh media arang batok kelapa pada anaerobic fixed
+bed reactor. Penelitian ini menggunakan 4 variasi Organic Loading Rate (OLR),
+yaitu OLR 0, 4, 8 dan 16 g/L.hari. Air limbah yang digunakan adalah air limbah
+sintetis dengan lumpur RPH. Reaktor yang digunakan mempunyai kapasitas 1 liter
+dan dijalankan dalam proses batch pada OLR 0 g/L.hari, sementara pada pada OLR
+4, 8 dan 16 g/L.hari dijalankan dengan proses kontinyu. Besar penyisihan TAN,
+VS, biogas, pH, serta suhu dipantau selama 15 hari. Besar kemampuan penyisihan
+TAN rata-rata pada OLR 0 g/L.hari sebesar 163,93 mg/L. Besar kemampuan
+penyisihan TAN rata-rata pada OLR 4 g/L.hari sebesar 217,62 mg/L. Besar
+kemampuan penyisihan TAN rata-rata pada OLR 8 g/L.hari sebesar 417,18 mg/L.
+Besar kemampuan penyisihan TAN rata-rata pada OLR 16 g/L.hari sebesar
+584,92%. Kemampuan penyisihan TAN dipengaruhi oleh OLR, dengan nilai slope
+positif 29,18 dan koefisien determinasi sebesar 0,8316, sedangkan pengaruh OLR
+sangat kecil terhadap produksi biogas dengan nilai slope positif 0,0031 dan
+koefisien determinasi sebesar 0,3714. Arang batok kelapa belum mencapai
+kejenuhan dalam rentang waktu pengamatan selama 15 hari.
+Kata Kunci: Anaerobic fixed-bed reactor, arang batok kelapa, biogas, TAN, waktu
+jenuh
+
+
+BAB I
+PENDAHULUAN
+1.1 Latar Belakang
+Semakin besarnya perkembangan agro-industri di Indonesia
+mengakibatkan semakin besar pula limbah yang dihasilkan oleh industri tersebut.
+Salah satu limbah utama yang dihasilkan oleh agro-industri adalah limbah cair
+dengan karakteristik beban organik yang tinggi, diwakili oleh tingginya
+konsentrasi nilai Biological Oxygen Demand (BOD) dan Chemical Oxygen
+Demand (COD) (Orhon et al., 1993). Pengolahan yang biasa digunakan untuk
+menyisihkan bahan-bahan organik yang tinggi dari limbah agro-industri biasanya
+memakai proses secara biologis. Salah satu proses secara biologis adalah proses
+anaerobik. Proses anaerobik melibatkan degradasi dan stabilisasi bahan organik
+dalam kondisi anaerob oleh organisme mikroba (Kelleher et al., 2002).
+Proses anaerobik sesuai untuk limbah cair dengan beban organik yang
+tinggi dan mempunyai keuntungan dari rendahnya nutrien yang dibutuhkan dan
+produksi lumpur yang sedikit (Demirel et al., 2005), selain itu pengolahan secara
+anaerobik menghasilkan produk biogas, namun pada pengolahan air limbah secara
+anaerobik juga mempunyai kelemahan, yaitu stabilitas pengoperasiannya rendah
+(Dupla et al., 2004). Menurut Chen et al., (2008) stabilitas pengolahan secara
+anaerobik dipengaruhi oleh beberapa faktor yaitu senyawa organik dan anorganik,
+seperti amonia, sulfida, ion logam, logam berat, bahan organik, dan sebagainya.
+Faktor yang paling sering mempengaruhi stabilitas atau penghambat untuk proses
+pengolahan secara anaerobik adalah amonia (Gerardi, 2003). Beberapa agroindustri
+menghasilkan limbah cair yang mempunyai kandungan amonia tinggi.
+Amonia merupakan produk dari urea terhidrolisis atau degradasi dari protein,
+pada proses anaerobik, amonia sangat penting untuk pertumbuhan bakteri, tetapi
+pada nilai konsentrasi amonia yang tinggi dapat menghambat proses
+metanogenesis (Gallert et al., 1998). Amonia merupakan senyawa organik yang
+sering menghambat proses anaerob terutama dalam produksi biogas (Gerardi,
+2003). Produksi biogas yang dibentuk akan berkurang dengan adanya inhibitor
+amonia dalam proses anaerob. Konsentrasi amonia dalam bentuk Total Ammonia
+Nitrogen (TAN) akan menghambat proses anaerob pada konsentrasi sebesar 1500
+– 7000 mg/L (Rajagopal et al., 2013).
+Upaya yang dapat dilakukan dalam mengurangi kadar amonia yang
+mempunyai sifat inhibitor terhadap proses anaerobik dapat berjalan dengan efektif
+adalah dengan penambahan media sebagai adsorben amonia. Salah satu media
+yang dapat digunakan adalah media arang aktif atau activated carbon. Arang aktif
+merupakan suatu padatan berpori yang dihasilkan dari bahan yang mengandung
+karbon dengan pemanasan pada suhu tinggi. Semakin luas permukaan arang aktif
+maka daya adsorpsinya semakin tinggi (Sembiring & Sinaga, 2003). Penambahan
+arang aktif dikenal diketahui dapat meningkatkan proses nitrifikasi, sebagai proses
+penyisihan amonia (US EPA Manual, 1995).
+Salah satu jenis arang aktif yang bisa digunakan berasal dari bahan batok
+kelapa. Menurut beberapa penelitian batok kelapa mampu menurunkan COD
+berkisar 75% - 80%, selain itu proses anaerobik menggunakan reaktor dengan
+media arang batok kelapa sukses digunakan untuk pengolahan air limbah
+terinhibit (Nakhla & Suidan, 1995). Batok kelapa juga mampu menurunkan TSS
+dan VSS sebesar 87,78% dan 77,38% (Ahmad et al., 2011). Berdasarkan
+penelitian Harahap (2013) efeisiensi arang batok kelapa terhadap penyisihan
+amonia dapat mencapai 30,78% dengan reaktor aerobik.
+Penggunaan arang aktif untuk penyisihan konsentrasi amonia akan
+mengoptimalkan pengolahan secara anaerobik, parameter terjadinya proses
+anaerobik adalah terbentuknya biogas yang tinggi, salah satu parameter utama
+pada pembentukan biogas adalah konsentrasi Volatile Solid (VS), Volatile Solid
+adalah konsentrasi biomassa pada limbah. Sekitar 40–50% dari konsentrasi
+Volatile solid (VS) merupakan biomassa biodegradable yang akan terkonversi
+menjadi CH4 (Abbassi-Guendouz et al., 2012). Menurut Gerardi (2003) pada
+umumnya produksi biogas pengolahan anaerobik adalah 0,75 – 1,0 m3/kgVS.
+Pengolahan secara anaerobik memiliki beberapa tipe reaktor, salah satu
+reaktor yang digunakan untuk pengolahan limbah agro-industri dan dapat
+ditambahkan media didalamnya adalah anaerobic fixed bed reactor (AFBR).
+AFBR didasarkan pada prinsip imobilisasi limbah dari dukungan
+mikroorganisme. Reaktor tipe ini sudah digunakan secara luas dan optimal untuk
+pengolahan limbah yang beragam, karena kapasitasnya dalam mendukung
+mikroorganisme untuk penyisihan, selain itu Hydraulic Retention Time (HRT)
+pada reaktor ini dapat di turunkan secara signifikan. Kelebihan lain dari AFBR
+adalah mudahnya proses aklimatisasi dan reaktor dapat menerima variasi influen
+bahkan shock load tanpa terjadinya gangguan dalam proses. Biaya untuk reaktor
+ini rendah apabila dibandingkan dengan reaktor lain, selain itu efluen dari reaktor
+ini mempunyai karakteristik TSS yang rendah. Beberapa keuntungan ini yang
+membuat AFBR sangat efektif digunakan untuk pengolahan limbah dengan beban
+yang tinggi (Zinatizadeh et al., 2007). Berdasarkan keuntungan yang diperoleh
+dari penggunaan AFBR maka dapat memaksimalkan penggunaan media arang
+batok kelapa untuk penyisihan amonia.
+Media arang batok kelapa mempunyai waktu jenuh untuk menyisihkan
+bahan pencemar. Waktu jenuh atau disebut juga breakthrough time adalah waktu
+yang dibutuhkan untuk konsentrasi limbah untuk mencapai breakthrough
+concentration tertentu. Chung et. al. (2005) mengatakan bahwa penjerapan secara
+optimal yang dilakukan oleh arang aktif terjadi pada 7 hari pertama, kemudian
+penyisihan amonia menurun setelah 7 hari dengan menggunakan amonia murni.
+Waktu jenuh juga dapat digunakan untuk menunjukkan kapasitas arang aktif
+untuk proses adsorbsi (Goel et. al., 2005). Waktu jenuh karbon aktif juga sangat
+dipengaruhi oleh beban yang diterima oleh karbon aktif dalam pengolahan air
+limbah, atau biasa disebut dengan Organic Loading Rate (OLR).
+Organic Loading Rate (OLR) adalah besaran yang menyatakan jumlah
+maerial organik dalam air buangan atau limbah yang diuraikan oleh
+mikroorganisme dalam reaktor per unit volume per hari (Indriyati, 2005).
+Besarnya nilai OLR atau pembebanan yang terdapat didalam reaktor didasarkan
+pada nilai waktu tinggal hidraulik (Padmono, 2003) dan kondisi influen beban
+organik yang masuk (Chernicharo, 2007). Berdasarkan penelitian Akram &
+Stuckey (2008), pada pengolahan air limbah menggunakan reaktor anaerobik
+dengan media arang aktif, dengan Organic Loading Rate (OLR) 4 – 16 g/l.hari,
+degradasi COD yang dihasilkan sebesar 98% dengan OLR 16 g/l.hari. Han (2010)
+melakukan penelitian serupa dengan variasi OLR sebesar 4 – 8 g/l.hari dengan
+Organic Loading Rate (OLR) 4 – 16 g/l.hari, degradasi COD yang dihasilkan
+sebesar 80% dengan OLR 4 g/l.hari. Berdasarkan penelitian di atas, OLR
+berpengaruh terhadap penyisihan bahan organik pada pengolahan anaerobik,
+namun beban yang tinggi juga akan mempengaruhi waku jenuh media arang aktif.
+Semakin tinggi beban yang diterima maka arang aktif akan semakin cepat jenuh
+(Goel et al., 2005).
+Berdasarakan pada beberapa penelitian yang telah ada, belum ada
+informasi waktu jenuh media arang aktif sebagai adsorben dalam pengolahan
+anaerob dengan variasi OLR untuk menurunkan kadar amonia dan peningkatan
+produksi biogas. Oleh karena itu, penelitian ini menggunakan arang aktif dengan
+variasi OLR 16 g/l hari, 8g/l hari, dan 4g/l hari dengan menggunakan reaktor
+anaerobic fixed bed reactor secara kontinyu serta 0 g/L.hari dengan proses batch
+sebagai kontrol. Rentang waktu pada penelitian ini adalah adalah 15 hari.
+Parameter yang diamati dalam penelitian ini untuk adalah TAN, VS, produksi
+biogas, pH, dan suhu.
+1.2 Rumusan Masalah
+Rumusan Masalah dalam penelitian ini adalah
+1. Berapa tingkat kemampuan penyisihan TAN pada anaerobic fixed bed
+reactor dengan menggunakan media arang batok kelapa (Cocos nucifera)?
+
+
+2. Berapa besar pengaruh OLR terhadap penurunan konsentrasi TAN dan
+produksi biogas dalam pengolahan air limbah berkadar amonia tinggi
+menggunakan media arang batok kelapa dalam anaerobic fixed bed reactor?
+3. Apakah arang batok kelapa (Cocos nucifera) mengalami kejenuhan dalam
+penyisihan TAN dengan variasi OLR menggunakan anaerobic fixed bed
+reactor dalam rentang waktu penelitian?
+1.3 Hipotesis Kerja
+Semakin besar nilai organic loading rate (OLR) maka waktu jenuh media
+arang aktif semakin cepat.
+1.4 Tujuan
+1. Mengetahui kemampuan penyisihan TAN pada anaerobic fixed bed reactor
+dengan menggunakan media arang batok kelapa (Cocos nucifera).
+2. Mengetahui besar pengaruh OLR terhadap penyisihan TAN dan produksi
+biogas dalam pengolahan air limbah industri susu menggunakan media arang
+batok kelapa dalam anaerobic fixed bed reactor.
+3. Mengetahui waktu jenuh media arang batok kelapa (Cocos nucifera) dalam
+penyisihan amonia dengan variasi OLR pada anaerobic fixed bed reactor.
+
+
+1.5 Manfaat
+Manfaat yang dapat diperoleh dari penelitian ini adalah:
+1. Dapat mengetahui kemampuan terbaik terhadap penyisihan TAN dengan
+variasi organic loading rate (OLR) pada pengolahan dengan media arang
+batok kelapa menggunakan Anaerobic Fixed Bed Reactor (AFBR).
+2. Dapat mengetahui waktu jenuh media media arang batok kelapa dengan
+variasi organic loading rate (OLR) menggunakan Anaerobic Fixed Bed
+Reactor (AFBR).

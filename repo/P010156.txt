@@ -1,0 +1,679 @@
+﻿Hubungan Antara Variasi Tarif Tol dengan Pendapatan dan Tingkat
+Pelayanan
+
+
+Abstrak
+Tol dikenakan karena adanya penghematan biaya operasi kendaraan dan waktu, kenyamanan serta fasilitas yang
+lebih baik, sehingga penetapan besarnya tarif tol harus memenuhi asas keuntungan atau manfaat bagi pengguna.
+Meningkatnya jumlah pengguna jalan dan pertumbuhan ekonomi, menyebabkan terjadinya kemacetan di ruasruas
+jalan tol, terutama saat jam puncak. Untuk itu diperlukan pertimbangan penentuan variasi tarif tol terkait
+dengan waktu penggunaannya untuk memberikan insentif dan disinsentif pemakaian jalan tol agar bisa terdistribusi
+sehingga tidak membuat kemacetan pada saat atau waktu tertentu. Kajian ini dilakukan untuk mengetahui
+pengaruh variasi tarif tol apabila diberlakukan serta elastisitasnya. Sebagai studi kasus, kajian dilakukan di
+Jalan Tol Dalam Kota Jakarta (Jakarta Intra Urban Toll) dan Jalan Tol Lingkar Luar Jakarta (Jakarta Outer Ring
+Road). Pada kajian ini dilakukan survey Stated Preference, dan dilakukan beberapa simulasi arus lalu lintas
+serta pendapatan operator jalan tol dan jaringan jalan dengan software SATURN. Hasil kajian menunjukkan
+bahwa kenaikan tarif tol pada jam sibuk akan mengurangi volume lalu lintas jalan tol dan pendapatan. Namun,
+efek kenaikan harga tidak mengubah nilai Volume Capacity Ratio (VCR) dan Tingkat Pelayanan secara
+signifikan dikarenakan nilai waktu serta kebutuhan transportasi yang tinggi dan kapasitas jalan yang terbatas.
+Kata-kata Kunci: SATURN; simulasi; stated preference; tingkat pelayanan; variasi tarif tol.
+
+1. Pendahuluan
+Jalan tol merupakan jalan alternatif bagi pengguna
+jalan. Bagi masyarakat yang memilih menggunakan
+jalan tol, biaya tol yang dikenakan akan memberikan
+nilai lebih berupa penghematan biaya operasi kendaraan
+dan waktu, kenyamanan serta fasilitas yang lebih baik.
+Oleh karena itu dalam perencanaan tarif tol, penetapan
+besarnya tarif tol juga harus memenuhi asas keuntungan
+atau manfaat bagi pengguna jalan.
+Namun seiring dengan meningkatnya jumlah pengguna
+jalan dan pertumbuhan ekonomi yang terus meningkat,
+mulai terjadinya masalah kemacetan di ruas-ruas jalan
+tol. Sebagai contoh, sering terjadinya kemacetan yang
+parah di beberapa ruas jalan tol dalam kota di Jakarta
+pada saat jam puncak. Hal ini disebabkan tidak hanya
+karena bertambahnya pengguna jalan tol melainkan
+juga kebijakan tarif tol yang kurang tepat.
+Untuk itu diperlukan adanya penentuan tarif tol yang
+bervariasi dikaitkan dengan waktu penggunaan jalan tol
+itu sendiri. Hal ini dimaksudkan untuk memberikan
+insentif dan disinsentif pemakaian jalan tol agar
+pemakaiannya bisa terdistribusi sedemikian rupa
+sehingga tidak membuat kemacetan pada saat atau
+waktu tertentu.
+Sebagai contoh adalah membedakan tarif penggunaan
+jalan tol pada waktu sibuk dan tidak sibuk, misalnya
+pada waktu siang dan malam. Contoh lain adalah pemberlakuan
+tarif dinamis yang berubah sesuaikan dengan
+tingkat kepadatan lalu lintas yang menggunakan jalan
+tol pada suatu waktu tertentu atau lebih dikenal dengan
+sebutan Congestion Pricing. Hal ini sebenarnya telah
+lazim digunakan di berbagai negara lain, misalnya
+Singapura yang memberlakukan Congestion Pricing
+atau lebih dikenal dengan ERP/Electronic Road
+Pricing (Keong, 2002).
+Berdasarkan kondisi di atas maka dilakukan suatu
+kajian awal untuk mengetahui seberapa besar dampak
+akibat dari variasi tarif tol ini apabila diberlakukan.
+Selain itu kajian ini berguna juga untuk mengetahui
+elastisitas dari tarif tol dalam kerangka penetapan
+kebijakan tarif tol. Sehingga diharapkan pembangunan
+jalan tol yang dicanangkan pemerintah dapat terselenggara
+dengan sebaik-baiknya. Pada riset ini, sebagai
+suatu kasus kajian jalan dilakukan pada Jalan Tol
+Dalam Kota Jakarta (Jakarta Intra Urban Toll/JIUT)
+dan Jalan Tol Lingkar Luar Jakarta (Jakarta Outer Ring
+Road/JORR).
+Sedangkan maksud dan tujuan dari dilaksanakannya
+kajian ini adalah:
+1. Mengetahui elastisitas tarif tol atau pengaruh
+perubahan tarif terhadap volume lalu lintas.
+2. Mengetahui dampak variasi tarif tol terhadap
+pendapatan/pendapatan yang akan diperoleh
+3. Mengukur perubahan tingkat pelayanan dalam
+bentuk rasio volume lalu lintas dibandingkan
+kapasitas jalan (v/c).
+Berikut ini adalah gambar lokasi kajian studi yaitu
+JIUT dan JORR:
+
+1.1 Elastisitas demand
+Kurva permintaan (demand) adalah kurva yang
+menerangkan antara hubungan antara harga suatu
+produk dengan permintaan konsumen. Metode untuk
+memprediksi manfaat suatu proyek transportasi
+dikenal sebagai metode consumer-surplus. Konsepnya
+berdasarkan akibat adanya pengurangan harga yang
+dikeluarkan oleh konsumen untuk memperoleh dan
+menggunakan produk tertentu. Selisih harga awal
+dengan harga baru yang harus dikeluarkan merupakan
+penghematan (saving) bagi konsumen. Sementara itu
+sesuai dengan fungsi kurva demand maka akan
+terdapat perubahan volume. Sehingga manfaat total
+adalah perkalian jumlah volume baru dengan selisih
+harga yang terjadi. Hal ini terlihat pada Gambar 2.
+Dalam transportasi, harga (price) yang dimaksudkan
+dalam kurva demand adalah biaya total transportasi
+yang dikeluarkan oleh konsumen (pengguna jalan)
+yang terdiri atas biaya operasi kendaraan (BOK), nilai
+waktu dan biaya lainnya. Sedangkan volume
+(quantity) adalah volume konsumsi dari lalu lintas
+kendaraan, penumpang dan barang.
+Dari kurva demand terlihat bahwa jika terjadi pengurangan
+tingkat biaya yang merupakan penghematan
+(saving) dari konsumen (pengguna jalan), didalam
+sistem akan terjadi perubahan berupa penambahan
+volume lalu lintas. Analogi tersebut juga dapat
+diterapkan sebaliknya dimana jika terjadi peningkatan
+biaya yang merupakan biaya tambahan (additional
+cost) dari konsumen, dalam sistem akan terjadi perubahan
+berupa pengurangan volume lalu lintas.
+
+
+1.2 Variasi volume lalu lintas
+Dalam kenyataan, volume lalu lintas pada suatu
+jaringan jalan di perkotaan berubah-ubah tiap jam dan
+memiliki kecenderungan perulangan pola di hari-hari
+dan jam-jam tertentu. Dari hasil kajian di berbagai
+negara besar, pada hari-hari kerja senin hingga jum’at, dalam grafik volume kendaraan ditiap jam dapat
+digambarkan pada Gambar 3 di atas.
+Dari volume terendah di malam hari kemudian
+meningkat hingga mencapai volume jam puncak
+(peak hour) pagi, lalu kembali menurun. Hal ini
+disebabkan kondisi pada pagi hari dimana kegiatan
+sekolah dan bekerja berada. Hal ini menyebabkan
+tingkat kebutuhan transportasi dari pusat-pusat
+pemukiman (residential) naik pada sekitar jam-jam
+tersebut. Disaat inilah potensi terjadinya kemacetan
+pada jaringan jalan akibat beban lalu lintas yang
+besar.
+Pada jam-jam selanjutnya pada umumnya relatif
+memiliki volume lalu lintas lebih rendah dibanding
+saat jam puncak (peak hour). Volume lalu lintas
+mengalami jam puncak kedua (second peak hour)
+pada sore hari dimana terjadi pergerakan pulang dari
+pusat-pusat kegiatan menuju pusat–pusat pemukiman.
+Jam puncak kedua ini tidak sebesar jam puncak
+pertama disebabkan beberapa kegiatan seperti sekolah
+berakhir sebelum jam-jam tersebut.
+Dibeberapa lokasi, mungkin terjadi jam puncak ketiga
+(third peak hour) sekitar pukul 12:00 hingga pukul
+14:00. Third peak hour ini terjadi saat istirahat makan
+siang para pengguna jalan menggunakan sarana transportasi
+untuk menuju restaurant atau lokasi fast food.
+
+
+1.3 Metode stated preference
+Teknik Stated Preference dapat dideskripsikan
+sebuah bagian dari teknik yang menggunakan
+pernyataan dari para responden individu mengenai
+pilihan mereka terhadap sejumlah pilihan-pilihan
+angkutan guna memperkirakan fungsi-fungsi dari
+utilitas. Pilihan tersebut biasanya merupakan
+gambaran situasi atau keadaan transportasi yang
+dibangun oleh peneliti (Kroes and Sheldon, 1988).
+Metode Stated Preference menawarkan sebuah
+metoda untuk menyediakan informasi tentang permintaan
+dan perilaku perjalanan dengan baik untuk dalam grafik volume kendaraan ditiap jam dapat
+digambarkan pada Gambar 3 di atas.
+Dari volume terendah di malam hari kemudian
+meningkat hingga mencapai volume jam puncak
+(peak hour) pagi, lalu kembali menurun. Hal ini
+disebabkan kondisi pada pagi hari dimana kegiatan
+sekolah dan bekerja berada. Hal ini menyebabkan
+tingkat kebutuhan transportasi dari pusat-pusat
+pemukiman (residential) naik pada sekitar jam-jam
+tersebut. Disaat inilah potensi terjadinya kemacetan
+pada jaringan jalan akibat beban lalu lintas yang
+besar.
+Pada jam-jam selanjutnya pada umumnya relatif
+memiliki volume lalu lintas lebih rendah dibanding
+saat jam puncak (peak hour). Volume lalu lintas
+mengalami jam puncak kedua (second peak hour)
+pada sore hari dimana terjadi pergerakan pulang dari
+pusat-pusat kegiatan menuju pusat–pusat pemukiman.
+Jam puncak kedua ini tidak sebesar jam puncak
+pertama disebabkan beberapa kegiatan seperti sekolah
+berakhir sebelum jam-jam tersebut.
+Dibeberapa lokasi, mungkin terjadi jam puncak ketiga
+(third peak hour) sekitar pukul 12:00 hingga pukul
+14:00. Third peak hour ini terjadi saat istirahat makan
+siang para pengguna jalan menggunakan sarana transportasi
+untuk menuju restaurant atau lokasi fast food.
+
+
+1.3 Metode stated preference
+Teknik Stated Preference dapat dideskripsikan
+sebuah bagian dari teknik yang menggunakan
+pernyataan dari para responden individu mengenai
+pilihan mereka terhadap sejumlah pilihan-pilihan
+angkutan guna memperkirakan fungsi-fungsi dari
+utilitas. Pilihan tersebut biasanya merupakan
+gambaran situasi atau keadaan transportasi yang
+dibangun oleh peneliti (Kroes and Sheldon, 1988).
+Metode Stated Preference menawarkan sebuah
+metoda untuk menyediakan informasi tentang permintaan
+dan perilaku perjalanan dengan baik untuk suatu pengeluaran tertentu dengan alasan tertentu.
+Metode Stated Preference mengacu pada suatu
+pendekatan yang menggunakan pernyataan mengenai
+bagaimana responden memberikan respon terhadap
+situasi yang berbeda atau berubah.
+Stated Preference berbeda dengan Revealed Preference
+yang datanya diperoleh dari pengamatan terhadap
+perilaku aktual atau laporan-laporan pada masa lampau.
+Revealed Preference mencatat keputusan pilihan
+perjalanan yang aktual termasuk indikator-indikator
+dari semua komponen yang mendasari keputusan yang
+diambil.
+
+
+1.4 Pemodelan jaringan jalan
+Model adalah alat bantu/media untuk mencerminkan
+dan menyederhanakan suatu realita secara terukur.
+Pemodelan jaringan jalan digunakan untuk
+mencerminkan hubungan antara sistem tata guna lahan
+(kegiatan) dengan sistem sistem prasarana transportasi
+(jaringan) dengan menggunakan beberapa seri fungsi
+atau persamaan (model matematik)
+Salah satu unsur dalam pendekatan secara sistem pada
+jaringan jalan suatu kota adalah meramalkan apa yang
+akan terjadi pada arus lalu lintas jika kota tersebut terus
+berkembang tanpa perubahan pada sistem prasarana
+transportasinya. Hal ini dikenal dengan sistem donothing.
+Kebijakan sistem tata guna lahan dan sistem
+prasarana transportasi dapat dilakukan menggunakan
+sistem do-something yaitu dengan cara melakukan
+beberapa perubahan pada sistem jaringan jalan. Hasil
+dari sistem do-somethingakan dibandingkan dengan
+sistem do-nothing sehingga diperoleh tingkat perubahan
+yang terjadi pada jaringan jalan.
+Pemodelan jaringan jalan merupakan gabungan dari
+beberapa pencerminan sistem hubungan tata guna
+lahan dengan jaringan jalan yaitu daerah kajian, zona,
+ruas jalan, dan konsep pemilihan rute. Dalam
+pemodelan pemilihan rute diasumsikan bahwa setiap
+pengendara akan memilih rute yang meminimumkan
+kombinasi liner antara jarak dan waktu, yang dikenal
+dengan biaya gabungan. Konsep biaya gabungan
+menggabungkan ketiga komponen utama dalam proses
+pemilihan rute yaitu jarak, waktu, dan biaya menjadi
+satu nilai tertentu yang mempunyai unit satuan biaya
+atau waktu. Persamaan biaya gabungan untuk angkutan
+pribadi adalah :
+
+dimana:
+Gcp : biaya gabungan untuk pergerakan angkutan
+pribadi (dalam satuan rupiah)
+D : jarak pergerakan (dalam satuan jarak)
+Ψ : biaya operasi kendaraan per satuan jarak (dalam
+satuan rupiah)
+Tv : waktu perjalanan (dalam satuan waktu)
+v : nilai waktu per satuan jarak waktu (dalam satuan
+rupiah)
+C : biaya tambahan (Tol atau parkir)
+
+
+1.5 Hubungan VCR dengan standar pelayanan
+jalan tol
+Dalam analisis kapasitas jalan, dikenal istilah VCR
+(Volume to Capacity Ratio) yang merupakan rasio arus
+terhadap kapasitas dengan persamaan :
+VCR = Q/C (2)
+Dimana:
+VCR = rasio volume-kapasitas atau derajat kejenuhan
+Q = arus lalu lintas (smp/jam)
+C = kapasitas (smp/jam)
+Nilai VCR dapat dijadikan indikator dari tingkat pelayanan
+seperti contoh pada tabel berikut:
+
+VCR untuk jalan bebas hambatan yang optimum
+berada pada kisaran nilai 0,6 - 0,8 atau kisaran Level of
+Service B - C yaitu pada kondisi arus stabil. Oleh
+karena itu jika telah tercapainya derajat kejenuhan
+diatas 0,8 maka perlu dilakukan upaya pengurangan
+nilai derajat kejenuhan seperti menambah kapasitas
+jalan atau mengurangi arus lalu lintas pada ruas jalan
+tersebut.
+
+
+1.6 Langkah kerja
+Bagan alir dari riset ini disajikan dalam Gambar 4:
+
+1.7 Skenario
+Untuk melakukan analisis dan mendapatkan hasil
+yang diinginkan maka disusun beberapa skenario
+yang akan disimulasi. Skenario secara umum terbagi
+menjadi dua yaitu :
+1. Do Nothing
+Merupakan skenario dimana tidak terjadi
+kenaikan tarif tol pada jam-jam sibuk atau bisa
+disebut dalam keadaan normal
+1. Do Something
+Merupakan skenario tertentu yang dimana terjadi
+kenaikan tarif tol pada jam-jam sibuk dengan
+besar tarif yang ditentukan ditentukan.
+Skenario Do Something terbagi secara khusus
+menjadi empat skenario yaitu :
+a. Do Something I : Kenaikan tarif 10%
+b. Do Something II : Kenaikan tarif 25%
+c. Do Something III : Kenaikan tarif 50%
+d. Do Something IV : Kenaikan tarif 100%
+Nilai waktu dan model pemilihan rute Model jaringan dan Lalu Lintas
+Jumlah lalu lintas di koridor
+Jumlah pengguna jalan tol
+Jumlah pendapatan jalan tol dan manfaat bagi
+jaringan jalan yang lebih luas
+Kesimpulan dan rekomendasi
+Skenario tarif tol dan variasinya
+Data primer Data sekunder
+Tujuan dan Latar Belakang Masalah
+Kajian pustaka dan perundangan
+Persiapan pengumpulan data dan
+pembuatan kuesioner wawancara
+Pengumpulan data
+
+Gambar 4. Langkah kerja	
+
+
+1.8 Simulasi
+
+
+Skenario-skenario yang ditetapkan disimulasikan
+untuk dapat dianalisis dari segi lalu lintas berupa
+perubahan arus Kendaraan di jalan tol yang juga
+dapat diindikasikan dari perubahan VCR dan segi
+finansial berupa tingkat pendapatan dari operator tol.
+a. Simulasi arus lalu lintas
+Untuk menganalisa arus kendaraan di jalan tol dasar
+yang digunakan adalah data primer dari hasil survey
+pada pengguna jalan tol untuk menghitung tingkat
+elastisitas keinginan menggunakan jalan tol jika
+terjadi skenario do something I hingga IV.
+b. Simulasi pendapatan operator
+Hasil dari analisa arus kendaraan selanjutnya
+digunakan untuk menganalisa pendapatan tol dengan
+menggabungkan persentase perubahan arus
+kendaraan akibat skenario yang diterapkan dengan
+data skunder berupa tarif tol dan jumlah kendaraan
+yang masuki jalan tol.
+
+c. Simulasi SATURN
+Untuk melihat tingkat perubahan VCR, dilakukan
+simulasi pembebanan demand perjalanan pada jaringan
+jalan di Jakarta dengan menggunakan bantuan software
+SATURN (Van Vliet, 2010). Hal ini ditujukan untuk
+dapat melihat kondisi pada model jaringan jalan
+dijakarta dengan beban demand perjalanan yang sama
+untuk setiap skenario yang berbeda. Hasilnya berupa
+VCR dari tiap jaringan jalan dan khususnya pada jalan
+tol.
+
+
+2. Data dan Analisis
+
+
+2.1 Rekapitulasi data
+
+
+Survei dilakukan dengan mengambil sampel random
+dari pengguna jalan tol di dua lokasi kajian. Tujuan
+utama dari survei ini adalah untuk mengetahui respon
+yang diberikan oleh pengguna jalan tol terhadap adanya
+variasi tarif tol yang diusulkan. Dari survey didapatkan
+sebanyak 265 responden dengan perincian 103
+responden pengguna JIUT dan 162 responden
+pengguna JORR.
+Survei di lokasi JIUT dilakukan dengan mengambil
+sampel random dari pengguna JIUT yang masuk melalui
+pintu tol Priuk II. Survey ini dilaksanakan bersamaan
+dengan uji emisi yang dilakukan oleh PT Astra
+dan PT CMNP. Berikut ini adalah hasil survey yang
+didapatkan di lokasi tol JIUT:
+
+
+Besar Kenaikan
+Tarif A B C D
+10% 78% 14% 3% 5%
+25% 44% 31% 8% 17%
+50% 21% 10% 27% 41%
+100% 17% 3% 10% 69%
+Tabel 2 Hasil Survey di Tol JIUT
+Keterangan:
+A: Persentase Responden yang Pasti Lewat Jalan Tol
+B: Persentase Responden yang Mungkin Lewat Jalan
+Tol
+C: Persentase Responden yang Mungkin Tidak Lewat
+Jalan Tol
+D: Persentase Responden yang Pasti Tidak Lewat Jalan
+Tol
+Dari pernyataan pengguna jalan tol mengenai kenaikan
+tarif tol dapat dibuat tiga kondisi untuk mendapatkan
+hubungan kenaikan tarif tol dengan pengurangan
+volume kendaraan yang melalui jalan tol tersebut.
+a. Kondisi pertama adalah kondisi pesimis dimana
+pengurangan volume lalulintas didasari dari hasil
+pernyataan D saja
+b. Kondisi kedua adalah kondisi moderat atau sedang
+dimana pengurangan volume lalulintas didasari dari
+hasil pernyataan D + C
+c. Kondisi ketiga adalah kondisi optimis dimana
+pengurangan volume lalulintas didasari dari hasil
+pernyataan B +C +D
+Berikut ini adalah hasil rekapitulasi survey untuk
+lokasi kajian JIUT, dimana untuk masing-masing
+kenaikan tarif akan didapatkan jumlah persentase dari
+responden untuk masing-masing kondisi yang
+mencerminkan pengurangan arus lalu lintas untuk
+kondisi pesimis, moderat, dan optimis.
+
+2.2 Simulasi arus lalu lintas
+Dari hasil pengumpulan data primer berupa survey
+Stated Preference bagi pengguna JIUT dan JORR
+mengenai prilaku mereka saat terjadi kenaikan harga
+pada jam-jam sibuk yang telah ditentukan didapatkan
+hasil sebagai berikut;
+
+
+Gambar 6. Kenaikan tarif vs penurunan volume lalu lintas di JORR
+Kenaikan Tarif Pengurangan Volume Lalu Lintas
+
+JIUT JORR
+10% 8% 15%
+25% 25% 32%
+50% 68% 65%
+100% 79% 72%
+Tabel 6. Hasil stated preference penggun
+
+a JIUT
+dan JORR kondisi moderat
+Hasil survey primer tersebut selanjutnya dikombinasikan
+dengan data sekunder berupa data jumlah volume
+kendaraan yang memasuki ruas tol JIUT dan
+JORR.Volume kendaraan tersebut selanjutnya disimulasikan
+tingkat penurunannya sesuai dengan hasil SP.
+
+
+2.3 Simulasi pendapatan operator
+Simulasi dari pendapatan tarif tol menunjukan jumlah
+pendapatan yang diterima operator tol pada skenarioskenario
+yang di berlakukan kemudian membandingkan
+nilai pendapatan pada kondisi do-something
+dengan kondisi do-nothing dalam bentuk rasio pendapatan.
+Dari simulasi volume lalu lintas tersebut dapat
+diperoleh proyeksi pendapatan operator tol akibat
+penerapan kebijakan tersebut. Pada kajian ini akan
+dilakukan simulasi pendapat operator Tol JIUT
+dengan memasukkan variable tarif tol JIUT sebesar
+Rp 6.500,00 untuk kendaraan gol I dan tarif sebesar
+Rp 8.000,00 untuk kendaraan gol II serta mengikut
+sertakan tarif tol yang mengalami kenaikan pada
+simulasi tersebut.
+Dari data masuknya kendaraan melalui ramp tertentu
+dapat dilakukan analisa pendapatan dari operator tol
+dengan memasukkan variable harga tiap
+golongan. Pada kondisi normal, dengan mengambil
+sampel empat pintu tol JIUT pada tanggal 01 Maret
+2011. Pengambilan sampel pada empat pintu
+dilakukan untuk mewakili volume lalu lintas pada
+JIUT pada jam sibuk yang berbeda yaitu pada pagi
+hari dan sore hari.
+Kemudian dari hasil survey SP khusus pengguna
+JIUT mengenai kenaikan tarif pada jam sibuk pukul
+07:00-10:00 dan pukul 16:00-19:00 didapatkan hasil
+berupa pengurangan volume lalu lintas pada jam
+sibuk tersebut. Dengan data tersebut dapat disimulasikan
+pendapatan operator JIUT dari kenaikan tarif
+dan pengurangan volume lalu lintas yang melalui
+JIUT pada jam sibuk tersebut.
+Untuk simulasi pendapatan operator JIUT digunakan
+beberapa asumsi yaitu :
+1. Pengaruh kenaikan tarif dan penurunan volume
+berlaku sama untuk setiap golongan.
+2. Penurunan tol pada jam non sibuk (22:00-04:00)
+sudah dimasukkan namun pengaruhnya pada perubahan
+volume tidak diperhitungkan atau volume
+tetap pada keadaan normal.
+3. Penurunan volume lalu lintas seluruhnya terjadi
+akibat perpindahan pengguna dari jalan tol ke
+jalan non tol. Pengguna tol yang berpindah jam
+perjalanannya dengan tujuan menghindari perpindahan
+tarif tidak diperhitungkan.
+
+Dari hasil simulasi tersebut didapatkan hasil perbandingan
+pendapatan pada empat pintu tol tersebut
+pada kondisi optimis, moderat dan pesimis.
+Hasil rasio pendapatan yang lebih dari angka 1 menandakan
+operator memperoleh kenaikan pendapatan dari
+keadaan normal saat kebijakan tarif diberlakukan
+sedangkan ratio pendapatan yang kurang dari 1 menandakan
+operator memperoleh penurunan pendapatan dari
+keadaan normal.
+Ada beberapa hal yang perlu diperhatikan sebagai dampak
+dari asumsi simulasi kebijakan kenaikan tarif pada
+jam sibuk ini, yaitu
+1. Dampak yang ditimbulkan pada jalan non tol akibat
+perpindahan pengguna tol ke non tol. Dengan bertambahnya
+kemacetan di jalan non tol maka
+pengguna jalan tol yang pindah tersebut berpeluang
+kembali menggunakan jalan tol karena pertimbangan
+nilai waktu bagi pengguna menjadi naik
+(lebih dari semula). Hal ini dapat dianalisa dengan
+bantuan program simulasi jaringan jalan.
+2. Dari hasil survey didapatkan bahwa beberapa
+pengguna memutuskan untuk memindahkan jam
+perjalanan menjadi sesudah atau sebelum jam sibuk
+tersebut. Hal ini akan mempengaruhi pendapatan
+operator tol menjadi berbeda dari kondisi simulasi
+di atas.
+3. Survey dilakukan pada pengguna jalan tol dengan
+kendaraan golongan 1 sehingga dalam kasus kendaraan
+golongan 2 berpeluang besar hasil survey
+tidak sesuai dengan pengurangan volume kendaraan
+pada kondisi nyata karena sebagian besar kendaraan
+golongan 2 merupakan kendaraan niaga yang
+beroperasi untuk mengantarkan barang sehingga
+keputusan untuk melewati tol bergantung pada
+pihak pengusaha.
+4. Dampak penurunan tarif pada jam non sibuk yaitu
+pada pukul 22:00-04:00 walaupun tidak signifikan
+dapat mempengaruhi pendapatan operator tol
+karena, di satu pihak terjadi penambahan volume
+kendaraan, namun di lain pihak besar pendapatan
+berkurang karena tarifnya lebih murah.
+2.4 Simulasi jaringan jalan
+Untuk mengetahuai pengaruh variasi tarif terhadap
+tingkat pelayanan jalan tol, hasil dari variasi lalu lintas
+yang terjadi dapat ditinjau dengan bantuan program
+SATURN. Program ini bertujuan untuk melihat
+pengaruh nilai waktu pengguna jalan serta
+hubungannya dengan kenaikan tarif yang mengakibatkan
+perubahan dalam memilih rute perjalanan. Hasil ini
+sangat dibutuhkan untuk melihat dampak yang
+ditimbulkan dari pengurangan volume kendaraan pada
+jaringan jalan tol.
+Prinsip yang digunakan dalam simulasi jaringan jalan
+ini adalah kesetimbangan equilibrium sehingga tarif tol
+yang mempengaruhi biaya perjalanan akan menyebabkan
+perubahan pada keseimbangan tersebut.
+Berikut adalah model jaringan jalan di Jakarta (tol dan
+non-tol) di SATURN (Gambar 7 dan Gambar 8).
+Kemudian dengan data-data sekunder lainnya
+dilakukan proses simulasi untuk mendapatkan arus kendaraan
+pada jaringan jalan model. Dalam simulasi,
+beberapa hal yang disiapkan adalah :
+1. Database jaringan Jalan DKI Jakarta
+2. Matriks Asal Tujuan dari zona-zona di DKI Jakarta
+Database jaringan jalan berisi tentang informasi dari
+jaringan jalan tersebut baik kapasitas, panjangnya maupun
+free flowspeed pada jalan tersebut, sedang MAT
+berisi jumlah demand pergerakan dari suatu zona yang
+mewakili daerah pusat kegiatan menuju zona yang lain.
+
+Selanjutnya dilakukan modifikasi tarif tol pada data
+base, dimana tarif yang dimasukkan dalam database
+sebelumnya diekivalenkan dengan satuan mata uang
+di SATURN yaitu pence. Parameter biaya pada program
+SATURN ditulisakan pada parameter diawal
+block data base dengan kode PPM (Pence Per
+Minutes) sehingga nilai waktu dalam program
+SATURN disesuaikan dengan nilai pada parameter
+tersebut yang diberi nilai 1.00. Dengan demikian nilai
+satuan waktu pada database tersebut adalah 60 pence/
+jam. Nilai tersebut dikonversikan dengan Nilai waktu
+yang berlaku di Jakarta. Dengan mengasumsikan nilai
+waktu di DKI Jakarta sebesar Rp 20.000,- per jam
+maka bisa dibuat kesetaraan nilai RP 1000,- sama
+dengan 3 pence.
+Dalam data base jaringan Jalan di DKI Jakarta nilai
+tarif tol yang berlaku pada kenyataan dikonversikan dalam satuan pence sehingga untuk simulasi kenaikan
+harga 10%, 25%, 50% dan 100% nilai pada database
+dapat disesuaikan.
+Untuk mempermudah simulasi maka disusunlah 5 data
+base jaringan jalan dengan nilai tarif tol yang berbeda.
+Database jaringan jalantersebut kemudian dibebankan
+dengan MAT DKI Jakarta lalu dilakukan analisis untuk
+mengetahui perubahan arus lalu lintas pada beberapa
+ruas jalan Tol JIUT dan JORR.
+Perubahan arus lalulintas pada jaringan jalan akan
+mempengaruhi nilai VCR pada jaringan jalan tersebut
+yang tentunya akan mempengaruhi kategori tingkat
+pelayan pada jalan tersebut. Berikut beberapa ruas jalan
+pada JIUT dan JORR yang dianggap mewakili ruasruas
+jalan tol lainnya
+Dapat dilihat bahwa untuk beberapa ruas jalan
+cenderung mengalami penurunan VCR namun ada pula
+yang mengalami peningkatan.
+Jika dianalisa, MAT yang digunakan adalah MAT
+untuk jam puncak pada pagi hari dimana demand
+menuju pusat-pusat perkantoran dan pendidikan sangan
+besar. Berdasarkan hasil pembebanan dikarenakan
+kenaikan harga terjadi penurunan jumlah arus pada ruas
+jalan tol tol tersebut sebagai contoh pada simulasi ruas
+1 JIUT untuk arah Jakarta Timur ke Jakarta pusat. Hasil
+simulasi menunjukan penurunan VCR setiap kenaikan
+tarif namun diarah sebaliknya terjadi peningkatan yang
+berarti terjadi penambahan volume kendaraan yang
+masuk kedalam jalan tol.
+
+
+Penambahan kendaraan kedalam jalan tol pada ruas tol
+yang berlawanan arah pada simulasi SATURN di
+sebabkan oleh meningkatnya volume kendaraan pada
+jalan non tol akibat perpindahan pengguna jalan tol
+menjadi pengguna jalan non tol pada simulasi yang
+ditandai penurunan VCR. Disisi lain penambahan
+volume kendaraan pada jalan non tol menyebabkan
+volume jalan menjadi meningkat dan secara langsung
+mengakibatkan bertambahnya volume kendaran pada
+jalan non tol sehingga sesuai dengan hukum
+kesetimbangan, pengguna jalan biasa pada simulasi
+berpindah menggunakan jalan tol untuk memperkecil
+biaya perjalanan. Dalam kasus ini pengguna jalan dari
+arah Jakarta Pusat menuju Jakarta Timur menjadi
+meningkat.
+Secara keseluruhan dapat dilihat bahwa terjadi
+penurunan volume kendaraan dari jalan tol pada suatu
+arah disertai kenaikan jumlah kendaraan pada arah
+sebaliknya. Hal ini dikarenakan asumsi yang digunakan
+adalah jumlah demand kendaraan penumpang pada
+MAT pada saat jam sibuk disaat diberlakukannya
+kenaikan tarif, sama dengan jumlah MAT kondisi
+normal. Asumsi ini tidak menyertakan berkurangnya
+demand MAT kendaraan penumpang akibat perubahan
+waktu berpergian dan perubahaan jenis moda
+transportasi yang digunakan akibat kenaikan tarif.
+Sehingga hasil simulasi ini bisa menjadi perbandingan
+untuk kasus dimana tidak terjadi perubahan pada
+keinginan pengguna jalan tol untuk mengubah waktu
+berpergian mereka atau pun mengubah jenis moda
+transportasi yang digunakan.
+3. Kesimpulan
+Dari hasi analisis skenario serta simulasi yang
+dilakukan maka dapat disimpulkan bahwa
+1. Dari hasil survey pada responden pengguna
+jaringan jalan tol JIUT untuk skenario dengan
+kenaikan tarif 10% pada saat jam sibuk
+memberikan dampak berkurangnya minat
+penggunaan jalan tol sebesar 8% yang berarti
+volume kendaraan perpotensi turun sebesar 8%
+dari volume kendaraan pada kondisi normal,
+sedangkan untuk kenaikan tarif sebesar 25%, 50%
+dan 100% berturut-turut berpotensi menurunkan
+volume kendaraan sebesar 25%, 68% dan 79%
+dari volume kendaraan kondisi normal
+2. Dari hasil survey pada responden pengguna
+jaringan jalan tol JIUT, 68% responden
+menyatakan tetap menggunakan jalan tol pada
+waktu sibuk apabila tarif tol dinaikan mulai 25%
+atau lebih sedangkan 32% responden yang lain
+menyatakan merubah waktu berpergian atau
+bepergian disaat jam murah.
+3. Dari hasil survey pada responden jaringan jalan tol
+JORR untuk kondisi moderat dengan kenaikan
+tarif 10% pada saat jam sibuk memberikan
+dampak berkurangnya minat penggunaan jalan tol
+sebesar 15% yang berarti volume kendaraan
+perpotensi turun sebesar 15% dari volume
+kendaraan pada kondisi normal, sedangkan untuk
+kenaikan tarif sebesar 25%, 50% dan 100 %
+berturut-turut berpotensi menurunkan volume
+kendaraan sebesar 32%, 65% dan 72% dari
+volume kendaraan kondisi normal
+4. Dari hasil survey pada responden pengguna
+jaringan jalan tol JORR, 83% responden
+menyatakan tetap menggunakan jalan tol pada
+waktu sibuk apabila tarif tol dinaikan mulai 25%
+atau lebih sedangkan 17% responden yang lain
+menyatakan merubah waktu berpergian atau
+bepergian disaat jam murah.
+5. Dari hasil simulasi dampak penurunan volume
+kendaraan terhadap pendapatan operator jalan tol
+menunjukkan bahwa dengan kenaikan tarif 10%
+pada jam sibuk, pendapatan yang diperoleh hanya
+berbeda sedikit dibandingkan dengan keadaan
+normal.
+6. Dari hasil analisa pada jaringan jalan, efek
+kenaikan harga tidak mengubah nilai VCR secara
+signifikan. Hal ini dikarenakan nilai waktu serta
+kebutuhan transportasi yang tinggi dan kapasitas
+jalan yang terbatas.

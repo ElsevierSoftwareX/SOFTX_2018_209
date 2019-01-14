@@ -1,0 +1,86 @@
+﻿Analisis Faktor Determinan Penggunaan Sistem Aplikasi
+Pemeriksaan Laporan Keuangan dan Implikasinya
+
+
+Intisari–Pengidentifikasian faktor-faktor yang mempengaruhi
+kesuksesan implementasi dari teknologi perangkat lunak baru di
+kalangan pengguna sangat penting karena keberhasilan dan
+kegagalan dari setiap sistem untuk beroperasi di lingkungan
+yang baru sangat tergantung pada penerimaan pengguna sistem.
+Badan Pemeriksa Keuangan Republik Indonesia (BPK RI)
+mengimplementasikan perangkat lunak baru pendukung egovernment
+untuk mengaudit laporan keuangan pemerintah
+daerah, disebut Sistem AplikasiPemeriksaan Laporan Keuangan
+Pemerintah Daerah (SiAP LKPD). Penelitian ini bertujuan
+untuk menganalisis faktor-faktor yang dapat mempengaruhi
+auditor dalam menggunakan SiAP LKPD dan implikasinya
+terhadap kinerja auditor. Studi kasus dilakukan pada BPK RI
+Perwakilan Provinsi Jawa Barat. Hasil penelitian ini
+menunjukkan bahwa karakteristik individu dengan gender
+sebagai variabel moderasi, karakteristik teknologi, dan
+karakteristik konteks organisasi memiliki pengaruh terhadap
+niat perilaku untuk menggunakan SiAP LKPD. Di sisi lain,
+penelitian ini membuktikan bahwa usia tidak signifikan
+memoderasi dampak faktor manusia pada niat untuk
+menggunakan SiAP LKPD. Hasil lain menunjukkan bahwa niat
+untuk menggunakan SiAP LKPD secara signifikan
+mempengaruhi kepuasan pengguna dan manfaat bersih.
+Kepuasan pengguna juga mempengaruhi manfaat bersih. Selain
+itu, terdapat hubungan kesesuaian antara faktor manusia,
+organisasi, dan teknologi untuk kesuksesan sistem informasi.
+Kata Kunci— model evaluasi SI terintegrasi, UTAUT, HOT Fit,
+model DeLone dan McLean, penggunaan sistem 
+
+
+I. PENDAHULUAN
+Undang-Undang Nomor 15 Tahun 2004 tentang
+Pemeriksaan Pengelolaan dan Tanggung Jawab Keuangan
+Negara menyatakan bahwa Badan Pemeriksa Keuangan
+(BPK) memiliki kewajiban untuk memeriksa Laporan
+Keuangan Pemerintah Daerah (LKPD). Keterbatasan waktu
+maupun kuantitas pemeriksa serta keinginan untuk
+meningkatkan kualitas pemeriksaan merupakan faktor
+pendorong utama BPK untuk membangun sistem aplikasi
+yang berbasis teknologi informasi [1]. Sejak tahun 2008, BPK
+mengembangkan suatu sistem aplikasi komputer pendukung
+e-government untuk membantu pelaksanaan pemeriksaan
+LKPD di seluruh Indonesia yaitu Sistem Aplikasi
+Pemeriksaan LKPD (SiAP LKPD).
+Tahun 2013 ini seharusnya seluruh pemeriksa sudah
+diwajibkan menggunakan SiAP LKPD [2]. Namun, data dari
+Biro TI per 15 Maret 2013 menunjukkan data pengguna SiAP
+LKPD pada 33 perwakilan BPK RI se-Indonesia belum
+sepenuhnya dapat diselesaikan, bahkan di beberapa daerah,
+tingkat penyelesaiannya masih di bawah 10%. Data
+menunjukkan bahwa penggunaan SiAP LKPD belum merata
+karena hanya terdapat 17 dari 33 perwakilan yang telah
+menggunakan SiAP LKPD. Namun, tidak semua pemeriksa di
+17 perwakilan tersebut telah menggunakan SiAP LKPD
+kecuali Perwakilan Jawa Barat. Perwakilan dengan jumlah
+pengguna sedikit adalah perwakilan yang hanya menggunakan
+aplikasi pada saat sosialisasi atau untuk tujuan uji coba
+terlebih dahulu, belum digunakan secara penuh pada saat
+pemeriksaan.
+Berdasarkan uraian di atas, penelitian ini berusaha untuk
+mengidentifikasi faktor-faktor determinan yang menyebabkan
+SiAP LKPD digunakan oleh seluruh pemeriksa di BPK RI
+Perwakilan Jawa Barat serta meneliti pengaruh penggunaan
+aplikasi tersebut terhadap kinerja pemeriksa. Meskipun
+teknologi memberikan keuntungan pada organisasi, terkadang
+kegagalan implementasi terjadi karena rendahnya tingkat
+penerimaan pengguna. Karena kesuksesan dan kegagalan
+implementasi sistem sangat bergantung pada penerimaan
+pengguna sistem, banyak penelitian yang telah dilakukan
+untukmengidentifikasi faktor-faktor penting yang
+mempengaruhi penerimaan pengguna [3]. Selain penggunaan
+sistem yang belum merata, motivasi penelitian kesuksesan
+SiAP LKPD dilakukan karena SiAP LKPD tergolong sistem
+baru yang belum dievaluasi dan sebagai suatu sistem yang
+terus berkembang, SiAP LKPD akan terus menyesuaikan
+dengan perubahan lingkungan di BPK agar dapat memenuhi
+harapan pemilik kepentingan [1]. 
+
+Untuk mengetahui faktor-faktor yang mempengaruhi
+penerimaan pengguna dalam pemanfaatan sistem dapat
+dilakukan dengan evaluasi menggunakan  software SmartPLS versi 2.0 M3.Tingkat signifikansi yang
+digunakan adalah 0,05.

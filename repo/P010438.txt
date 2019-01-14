@@ -1,0 +1,116 @@
+﻿
+ Simulasi Mesin Induksi Tanpa Sensor Kecepatan Menggunakan Pengendali Orientasi Vektor
+
+
+ Intisari— Dalam paper ini dibangun model mesin induksi tanpa sensor kecepatan pada aplikasi PLT Bayu menggunakan metode pengendali berbasis orientasi vektor. Paper ini diharapkan dapat memanfaatkan hasil penelitian sebelumnya pada aplikasi motor induksi, seperti pengembangan kendali vektor adaptif pada motor induksi tanpa sensor untuk mengestimasi kecepatan putar. Sistem yang dikembangkan tersusun atas model mekanik turbin angin, model mesin induksi, dan pengendali berbasis orientasi vektor. Sistem tersebut ditulis dalam bentuk S-Function C-MEX dan disimulasi menggunakan MATLAB/Simulink. Sistem diuji dalam kondisi di mana referensi kecepatan putar rotor dan kecepatan angin diberikan berubah dalam bentuk fungsi step. Hasil simulasi menunjukkan bahwa pengendali berbasis orientasi vektor yang digunakan telah berhasil menjaga aktual kecepatan putar rotor sesuai dengan nilai referensi yang diharapkan, dan observer yang dirancang mampu menghasilkan nilai estimasi kecepatan putar rotor yang dapat mengikuti perubahan kecepatan aktual. 
+Kata Kunci— speed sensorless induction machine, wind turbine, RFOC, observer 
+I. PENDAHULUAN 
+
+Pada aplikasi pembangkit listrik tenaga bayu (PLT Bayu), terdapat tiga jenis generator yang umum digunakan, yaitu generator induksi, permanent magnet synchronous generator
+
+
+ (PMSG), dan double-fed induction generator (DFIG). Secara fisik, generator induksi yang digunakan pada PLT Bayu sama dengan motor induksi yang digunakan pada aplikasi sistem pengerak sehingga beberapa keunggulan yang dimiliki motor induksi juga dimiliki generator induksi. Dibandingkan dengan jenis-jenis motor lain, motor induksi memiliki banyak kelebihan, seperti konstruksi yang sederhana, dimensi fisik yang lebih kecil, kebutuhan pemeliharaan yang lebih sedikit dan sederhana, kehandalan dalam operasi yang tinggi, ketersediaan yang luas di pasaran, dan harga yang relatif lebih murah . 
+Pada aplikasi sistem penggerak atau motor, banyak penelitian yang telah dilakukan, di antaranya pengembangan model kendali vektor motor induksi  dan simulasinya -, pengembangan dan simulasi sistem kendali vektor motor induksi dengan menggunakan PI dan fuzzy controller , pengembangan dan simulasi kendali adaptif vektor kontrol motor induksi untuk mengestimasi kecepatan putar -, simulasi pulse width modulation (PWM) 3 fase controller pada kendali orientasi fluks , implementasi kontrol vektor menggunakan DSP  dan FPGA , serta eksperimen kontrol vektor pada aplikasi motor induksi . 
+Pada aplikasi pembangkitan listrik yang menggunakan generator induksi, penelitian yang telah dilakukan antara lain simulasi kendali orientasi fluks generator induksi -, simulasi observer fluks generator induksi , dan simulasi generator induksi eksitasi sendiri dengan cara mengatur PWM pada inverter . 
+Khusus untuk aplikasi PLT Bayu dengan mesin/generator induksi, penelitian yang telah dilakukan adalah simulasi model transient yang mencakup mekanisme mekanik turbin angin, generator induksi rotor sangkar, inverter sisi generator, dc-link, inverter sisi jaringan, hingga daya listrik yang dapat dibangkitkan ,. Kedua simulasi tersebut menganggap generator induksi rotor sangkar, inverter sisi generator, dc-link, dan inverter sisi jaringan dalam satu kesatuan model, bukan sebagai satu sistem yang tersusun atas beberapa komponen. 
+Berdasarkan hasil-hasil penelitian tersebut, terbuka kemungkinan pemanfaatan hasil penelitian pada aplikasi motor induksi seperti pengembangan kendali adaptif vektor kontrol pada motor induksi tanpa sensor pada aplikasi PLT Bayu, sehingga dapat meningkatkan kemampuan kendali PLT Bayu berbasis mesin induksi. 
+Berdasarkan pertimbangan tersebut, paper ini disusun dengan tujuan untuk membangun model dan mensimulasikan mesin induksi tanpa sensor kecepatan dengan menggunakan metode pengendali orientasi vektor pada aplikasi PLT Bayu.
+
+
+A. Sistem PLT Bayu Keseluruhan 
+Secara umum, sistem dibagi menjadi tiga bagian, yaitu turbin angin/wind turbine, mesin induksi, dan pengendali/controller, seperti dapat dilihat pada Gbr. 1.
+
+Bagian pertama, turbin angin, digunakan untuk menghitung torsi beban/load torque berdasarkan kecepatan putar rotor/rotor speed yang dikeluarkan mesin induksi dan kecepatan angin yang disimulasikan. Output torsi beban tersebut menjadi input bagi mesin induksi. 
+Kedua, bagian mesin induksi digunakan untuk menghasilkan respon mesin induksi. Input mesin induksi ini adalah tegangan stator/stator voltage yang dihasilkan oleh pengendali/controller dan torsi beban yang diterima dari turbin angin. Output mesin induksi ini hanya arus stator/stator current. 
+Bagian ketiga, controller, disusun atas beberapa bagian yaitu: transformasi dari tiga fase (abc) menjadi dua fase (dq) dan sebaliknya; pengendalian pengendali orientasi fluks rotor/rotor flux orientation control (RFOC); observer untuk menghasilkan estimasi kecepatan putar rotor; pengendali arus dan decoupling; flux weakening; pengendali kecepatan putar rotor/speed controller; serta pembangkit sinyal pulse width modulation atau PWM generating. Diagram blok bagian pengendali ini dapat dilihat pada Gbr. 2. 
+B. Turbin Angin 
+
+Pada paper ini, turbin angin yang dimodelkan adalah tipe horizontal axis dengan bilah-bilah terpasang pada poros turbin yang berkecepatan rendah/low speed shaft. Poros ini tidak terhubung langsung dengan rotor mesin induksi, melainkan melalui gearbox. 
+Submodel turbin angin ini menggunakan enam persamaan matematika. Persamaan (1) digunakan untuk menghitung capacity factor (Cp) dari turbin. Persamaan ini mengunakan tip ratio (λ) dan sudut serang/pitch i, sesuai dengan (3) dan (4). Tip ratio merupakan perbandingan kecepatan pada ujung bilah terhadap kecepatan angin, sedangkan sudut serang adalah kedudukan hadap bilah terhadap arah angin. Untuk menghitung tip ratio dibutuhkan kecepatan putar poros turbin (ωwt) dengan cara membagi kecepatan putar rotor mesin induksi aktual (ωr) dengan konstanta perbandingan gearbox, sesuai (2) ,.
+
+
+Capacity factor (Cp) tersebut digunakan untuk menghitung daya/power yang dapat diterima turbin (Pwt) dan diteruskan ke poros turbin dengan mengikuti (5).
+
+Selanjutnya, daya/power yang dapat diterima turbin (Pwt) tersebut digunakan untuk menghitung torsi beban/load torque yang diterima mesin induksi dengan mengikuti (6).
+
+
+Mesin Induksi 
+Submodel mesin induksi yang digunakan adalah model dalam kerangka acuan rotor dua fase (sumbu dq) sebagai fungsi diferensial dari arus stator sumbu d (isd) (7), arus stator sumbu q (isq) (8), arus rotor sumbu d (ird) (9), arus rotor sumbu q (irq) (10), sudut vektor tegangan stator (θe) (11), kecepatan putar rotor (ωr) (12), dan sudut vektor tegangan stator (13) .
+
+
+Sebelum menjalankan fungsi submodel ini, dilakukan transformasi terhadap tegangan stator yang diterima dari submodel PWM generating. Transformasi dilakukan untuk mengubah kerangka acuan stator tiga fase (sumbu abc) menjadi kerangka acuan stator dua fase (sumbu dq). 
+Setelah menjalankan fungsi submodel ini, selanjutnya dilakukan transformasi terhadap arus stator yang menjadi keluaran mesin induksi. Transformasi dilakukan untuk mengubah kerangka acuan stator dua fase (sumbu dq) kembali menjadi kerangka acuan stator tiga fase (sumbu abc). 
+D. Transformasi dari Tiga Fase menjadi Dua Fase dan Sebaliknya 
+
+Untuk mengubah kerangka acuan dari tiga fase (sumbu abc) menjadi rotor dua fase (sumbu dq), digunakan transformasi Clarke (14), dan lalu transformasi Park (15) .
+
+Sebaliknya, untuk mengubah kerangka acuan dari dua fase (sumbu dq) menjadi rotor tiga fase (sumbu abc), digunakan invers transformasi Park (16), kemudian invers transformasi Clarke (17).
+
+
+Pada paper ini, transformasi dari tiga fase menjadi dua fase dan sebaliknya ini tidak hanya digunakan pada submodel mesin induksi, melainkan digunakan juga pada submodel controller. 
+E. RFOC 
+
+Submodel RFOC ini digunakan untuk menghitung estimasi kecepatan putar stator (ωe), sudut vektor tegangan stator (θe), torsi elektrik (Te), dan arus magnetisasi (imr) berdasarkan arus stator sumbu d dan q yang diterima dari mesin induksi. Berikut persamaan-persamaan yang digunakan pada submodel RFOC .
+
+
+F. Flux Weakening 
+Flux weakening merupakan metode pembatasan arus dan tegangan stator yang diberikan pada mesin induksi. Pembatasan tersebut bertujuan untuk mengurangi torsi yang terjadi ketika mesin induksi berputar melebihi batas kecepatan putarnya. Cara yang digunakan adalah dengan mengurangi fluks yang terjadi pada rotor. Persamaan-persamaan yang digunakan pada submodel flux weakening adalah (22) sampai dengan (26) .
+
+
+G. Pengendali Arus dan Decoupling 
+Referensi tegangan yang diberikan kepada stator vsd dan vsq merupakan gabungan antara referensi tegangan linier dan nonlinier (decoupling) seperti pada (27) dan (28).
+Referensi tegangan linier ditentukan oleh pengendali PI berdasarkan error antara referensi arus stator dengan nilai aktualnya, seperti yang ditunjukkan pada (29) dan (30).
+
+Pengendali PI tersebut hanya dapat mengendalikan sistem linier sedangkan mesin induksi sendiri adalah sistem nonlinier, sehingga harus dilinieriasi dengan decoupling seperti yang ditunjukkan pada (31) dan (32).
+
+
+H. Pengendali Kecepatan 
+Pengendali kecepatan putar rotor yang digunakan adalah jenis pengendali PI. Pengendali kecepatan tersebut mengatur referensi arus stator pada sumbu q berdasarkan error antara referensi kecepatan putar yang diharapkan dengan nilai aktualnya , sesuai dengan (33) . 
+
+
+
+
+
+I. Observer 
+Seperti pembahasan sebelumnya, pengendali kecepatan putaran rotor memerlukan nilai kecepatan putar rotor aktual. Nilai aktual tersebut tidak dapat diambil dari mesin induksi karena mesin induksi yang digunakan tidak dilengkapi dengan sensor kecepatan putar rotor atau sensorless induction machine. Sinyal umpan balik yang diterima dari mesin induksi hanya berupa arus stator. 
+Untuk menggantikan nilai aktual tersebut, perlu diestimasi kecepatan putar rotor menggunakan (34). Estimasi kecepatan putar rotor tersebut dihitung berdasarkan estimasi fluks rotor (Ψrdest,Ψrqest) dan error antara estimasi arus stator dan nilai aktual arus stator (eisd, eisq).
+
+Untuk mendapatkan nilai estimasi fluks rotor (Ψrdest,Ψrqest) dan arus stator (isdest, isqest), diperlukan observer. Pada paper ini, observer yang digunakan adalah observer Luenberger. Observer Luenberger dapat mengestimasi state variables (X) dan output variables (Y) dari sebuah sistem yang memiliki state space (34) dan (35).
+
+Nilai estimasi state variable (Xest) dan output variable (Yest) tersebut dihitung menggunakan (37) dan (38).
+sistem mesin induksi, digunakan observer Luenberger pada (40) untuk mengestimasi state variables arus stator (isd, isq) dan fluks rotor (Ψrd,Ψrq) dan pada (39). State variables estimasi tersebut adalah isdest, isqest, Ψrdest, dan Ψrqest. Persamaan observer tersebut menggunakan nilai gains g1, g2, g3, dan g4 mengikuti (41) sampai dengan (44) .
+
+
+Pembangkitan Sinyal PWM 
+Pembangkitan sinyal PWM dilakukan dengan cara membandingkan nilai mutlak referensi tegangan setiap fase dengan segitiga pembawa/triangle carrier. Jika nilai mutlak referensi lebih besar maka kondisi switching diatur menjadi on.
+
+
+III. IMPLEMENTASI 
+Sistem PLT Bayu ini tersusun atas blok-blok submodel yang ditulis dalam bentuk S-Function C-MEX dan disimulasi menggunakan MATLAB/Simulink seperti pada Gbr. 4. Parameter-parameter turbin angin dan mesin yang digunakan tercantum pada Tabel I. 
+Sistem diuji dengan dua skenario. Pertama, kondisi awal referensi kecepatan putar rotor (ωrref), aktual kecepatan putar rotor (ωr), dan kecepatan angin (V) masing-masing adalah 120 rad/s, 0 rad/s, dan 4 m/s. Kemudian referensi kecepatan putar rotor (ωrref) diubah menjadi 200 rad/s pada detik ke-6. Selanjutnya, kecepatan angin (V) diubah menjadi 10 m/s pada detik ke-10. 
+Sedangkan pada skenario kedua, kondisi awal referensi kecepatan putar rotor (ωrref), aktual kecepatan putar rotor (ωr), dan kecepatan angin (V) ditentukan masing-masing adalah 200 rad/s, 0 rad/s, dan 10 m/s. Kemudian referensi kecepatan putar rotor (ωrref) diubah menjadi 260 rad/s pada detik ke-6. Selanjutnya, kecepatan angin (V) diubah menjadi 25 m/s pada detik ke-10.
+
+
+
+IV.HASIL SIMULASI 
+Pada Gbr. 5 ditunjukkan respon aktual arus stator hasil pengendali vektor. Pada pengujian menggunakan skenario pertama, respons model mekanik turbin telah menunjukkan fungsi yang diharapkan. Perubahan kecepatan angin (V) (garis ungu) dari 4 m/s menjadi 10 ms/s pada detik ke-6 telah berhasil direspons dengan penurunan tip rasio (λ) (garis hijau), capacity factor (Cp) (garis merah), nilai mutlak torsi beban (TL) (garis biru) (lihat Gbr. 6).
+
+Pada Gbr. 6 juga ditunjukkan bahwa kenaikan referensi kecepatan putar rotor (ωrref) dari 120 rad/s menjadi 200 rad/s pada detik ke-10 telah berhasil direspons dengan menaikkan tip rasio (λ) (garis hijau), capacity factor (Cp) (garis merah), dan nilai mutlak torsi beban (TL) (garis biru). Perubahan referensi kecepatan putar rotor (ωrref) tersebut ditunjukkan pada Gbr. 7. 
+Hasil simulasi juga menunjukkan bahwa RFOC berhasil menjaga aktual kecepatan putar rotor sesuai dengan nilai referensi meskipun diberi perubahan kecepatan angin. Perubahan kecepatan angin (V) dari 4 m/s menjadi 10 ms/s pada detik ke-6 juga berhasil direspons dengan aktual kecepatan putar rotor tetap berada di sekitar 120 rad/s, seperti pada Gbr. 7.
+
+Pada Gbr. 7 juga ditunjukkan estimasi kecepatan putar rotor (garis merah) yang dihasilkan observer dapat mengkuti perubahan kecepatan aktual (garis hijau).
+
+Pada Gbr. 8 dan Gbr. 9 ditunjukkan pola torsi beban (TL) (garis hijau) yang diikuti torsi elektrik (Te) (garis merah) dan pola respons daya aktif yang sama dengan pola respons torsi elektrik ketika sistem mengalami perubahan kecepatan angin (V) (biru) dari 4 m/s menjadi 10 ms/s pada detik ke-6 dan referensi kecepatan putar rotor (ωr) dari 120 rad/s menjadi 200 rad/s pada detik ke-10.
+Ketika diuji dengan skenario kedua, model mekanik turbin dapat merespons perubahan kecepatan angin (V) (garis ungu) dari 10 m/s menjadi 25 ms/s pada detik ke-6 dengan menurunkan tip rasio (λ) (garis hijau), capacity factor (Cp) (garis merah), nilai mutlak torsi beban (TL) (garis biru) seperti pada Gbr. 10. 
+Pada Gbr. 10 juga ditunjukkan bahwa kenaikan referensi kecepatan putar rotor (ωrref) dari 200 rad/s menjadi 260 rad/s pada detik ke-10 telah berhasil direspons dengan menaikkan tip rasio (λ) (garis hijau), capacity factor (Cp) (garis merah), nilai mutlak torsi beban (TL) (garis biru). 
+Pada Gbr. 11 ditunjukkan RFOC berhasil menjaga aktual kecepatan putar rotor tetap berada di sekitar 200 rad/s meski terjadi perubahan kecepatan angin (V) dari 10 m/s menjadi 25 ms/s pada detik ke-6, seperti pada Gbr. 7.
+
+Pada Gbr. 11 tersebut juga ditunjukkan bahwa estimasi kecepatan putar rotor (garis merah) yang dihasilkan observer dapat mengikuti perubahan kecepatan aktual (garis hijau).
+
+Pada Gbr. 12 dan Gbr. 13 ditunjukkan pola torsi beban (TL) (garis hijau) yang diikuti torsi elektrik (Te) (garis merah) dan pola respons daya aktif yang sama dengan pola respons torsi elektrik ketika sistem mengalami perubahan kecepatan angin (V) (biru) dari 10 m/s menjadi 25 ms/s pada detik ke-6 dan referensi kecepatan putar rotor (ωr) dari 200 rad/s menjadi 260 rad/s pada detik ke-10. 
+V. KESIMPULAN 
+
+Model mesin induksi tanpa sensor kecepatan dengan metode pengendali berbasis orientasi vektor pada aplikasi PLT Bayu yang dikembangkan tersusun atas mekanikal turbin angin, mesin induksi, dan sistem pengendali. Sistem pengendali yang digunakan tersebut disusun atas transformasi dari tiga fase (abc) menjadi dua fase (dq) dan sebaliknya, RFOC, observer, pengendali arus dan decoupling, flux weakening, pengendali kecepatan putar rotor, dan pembangkit sinyal PWM. Hasil simulasi menunjukkan RFOC yang digunakan telah berhasil menjaga aktual kecepatan putar rotor sesuai dengan nilai referensi yang dimasukkan meskipun terjadi perubahan kecepatan angin. Hasil simulasi juga menunjukkan observer mampu menghasilkan nilai estimasi kecepatan putar rotor yang mampu mengikuti perubahan kecepatan aktual.
+
+
+

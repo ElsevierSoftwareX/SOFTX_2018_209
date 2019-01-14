@@ -1,0 +1,704 @@
+﻿
+ ANALISIS PETA RISIKO PENGEBORAN DI WILAYAH ASSET 5 
+
+PT PERTAMINA EP 
+
+ 
+
+Abstrak 
+
+ 
+
+Penelitian ini menganalisis peta masalah pada kegiatan pengeboran, mengidentifikasi dan memetakan 
+risiko pengeboran, menganalisis strategi manajemen risiko yang harus disiapkan untuk kegiatan pengeboran. 
+Penelitian dilaksanakan di PT Pertamina EP Field Tanjung Wilayah Asset 5, Kalimantan Selatan, berlokasi 
+di sumur TJG-HZ1. Analisis dalam penelitian ini menggunakan pengukuran dan pemetaan risiko mengacu 
+pada Godfrey (1996). Teknik pengumpulan data meliputi lima tahap: (1) observasi, (2) wawancara, (3) kuesioner, (4) studi pustaka dan (5) focus group discussion (FGD). Hasil penelitian menunjukkan bahwa risiko 
+pengeboran teridentifikasi sebanyak 24 risiko yang dikelompokkan dalam empat kategori, yaitu risiko finansial, strategi, operasional, dan hazard. Dari 24 risiko tersebut, terdapat delapan risiko pada tingkat ekstrim, 
+lima risiko tinggi, lima risiko sedang, dan enam risiko rendah. 
+ 
+Kata kunci: Manajemen risiko, operasional pengeboran, ISO 31000 
+
+
+ 
+
+Pendahuluan 
+
+ 
+Sektor minyak dan gas bumi merupakan penghasil devisa terbesar bagi pemerintah Indonesia. Pendapatan negara dari sektor minyak dan gas bumi ini 
+merupakan tulang punggung pembangunan nasional, 
+namun yang menjadi permasalahan adalah tingkat 
+produksi minyak yang terus mengalami penurunan, 
+tahun 2000 produksi minyak Indonesia sebesar 1273 
+MBOEPD dan di tahun 2011 produksi minyak Indonesia sebesar 794 MBOPED (SKK Migas, 2013). Diperlukan upaya-upaya konkrit untuk terus meningkatkan produksi minyak dengan terus mencari ladang 
+minyak baru, melakukan pengembangan lapangan-lapangan minyak yang sudah ada yaitu melalui kegiatan 
+seismik, eksplorasi, eksploitasi, dan enhanced oil recovery. 
+
+Salah satu kegiatan dalam proses eksplorasi dan 
+eksploitasi adalah pengeboran sumur minyak dan gas 
+
+(migas). Kegiatan operasional pengeboran adalah kegiatan yang paling berbahaya dan memiliki risiko 
+yang tinggi pada proses proses eksplorasi dan eksploitasi minyak dan gas bumi (Khan, Sadiq, & Husain, 
+2002). Pengeboran sumur merupakan tahap lanjut dalam proses pencarian dan pembuktian ada atau tidaknya cadangan (reservoir) minyak ataupun gas dengan 
+cara melakukan pembuatan lubang secara bertahap 
+sampai kedalaman tertentu sesuai hasil studi dan evaluasi kondisi bawah tanah dari data seismik. Menurut 
+Rubiandini (2012), pengeboran sumur migas dikenal 
+sebagai proyek yang berisiko tinggi (high risk) dan 
+membutuhkan biaya yang sangat besar (high cost). 
+Seringkali suatu sumur gagal dikerjakan dan tidak dilanjutkan karena bersifat high risk dan unpredictable, 
+serta biaya operasional sumur yang dikeluarkan sudah 
+tidak ekonomis untuk dilanjutkan. 
+
+Pengeboran sumur TJG-HZ1 (T-176) merupakan proyek pengeboran dengan horizontal type yang 
+pertama kali dilakukan di Field Tanjung wilayah Asset 5 (Pertamina, 2012). Namun pada awal perencanaan sampai sumur tersebut dikerjakan tidak dilakukan mitigasi dan analisis risiko terlebih dahulu secara 
+rinci sehingga menyebabkan terjadinya overbudget 
+dan realisasi waktu operasional yang lebih lama. Pada 
+penyusunan awal program kerja yang direncanakan 
+hanya sebatas kemungkinan potensi terjadinya risiko 
+pengeboran di bawah tanah (SKK Migas, 2013). 
+
+PT Pertamina EP merupakan salah satu Kontraktor Kontrak Kerja Sama (KKKS) dengan SKK 
+Migas yang bergerak dalam usaha minyak dan gas 
+(migas) dalam mengelola wilayah kerja yang meliputi 
+kegiatan eksplorasi, eksploitasi dan produksi. Wilayah 
+kerja PT Pertamina EP hampir mencakup seluruh wilayah di Indonesia, yang saat ini terdiri atas lima wilayah kerja yang disebut dengan Asset. Salah satu wilayah kerja PT Pertamina EP yang melakukan kegiatan pengeboran adalah di Kawasan Timur Indonesia 
+yang disebut sebagai Asset 5 yang meliputi wilayah 
+kerja Field Bunyu, Field Sangatta, Field Sangasanga, 
+Field Tarakan, Field Sembakung, Field Sorong dan 
+Field Tanjung. 
+
+Menurut laporan Pertamina (2012), proses bisnis 
+PT Pertamina EP terbagi atas tiga proses bisnis. Proses pertama adalah proses identitas yang terdiri atas 
+mengelola kegiatan eksplorasi, mengelola kegiatan 
+eksploitasi dan produksi, serta memasarkan dan menjual crude oil and gas. Proses kedua adalah proses 
+prioritas yang terdiri atas mengelola kegiatan drilling, 
+merencanakan dan mengembangkan bisnis ekplorasi 
+dan produksi serta mengelola Kesehatan Keselamatan Kerja dan Lindung Lingkungan (K3LL). Proses 
+ketiga adalah proses penunjang yang terdiri atas mengelola proses pengadaan, mengelola sumber daya 
+manusia, mengelola sumber daya informasi, mengelola sumber daya keuangan dan fisik, mengelola hubungan eksternal dan internal, serta mengelola perbaikan dan perubahan. Kegiatan manajemen risiko masuk ke dalam proses ketiga, yaitu sebagai penunjang 
+kegiatan (Pertamina, 2012). 
+
+Hasil tes produksi awal (initial test) terhadap sumur TJG-HZ1 Field Tanjung ini mampu memberikan 
+kontribusi yang besar yaitu sebesar 616 BOPD (Pertamina EP, 2013), sehingga memberikan justifikasi 
+yang sangat tepat untuk melakukan pengeboran dengan tipe yang sama di Field Tanjung. Namun dengan banyaknya potensi risiko yang terjadi, maka sangat diperlukan analisis dan manajemen risiko di sumur TJG-HZ1 untuk dijadikan dasar penyusunan biaya dan prosedur operasional sehingga semaksimal 
+mungkin dapat mengurangi risiko operasional pengeboran. 
+
+ 
+
+Kegiatan pengeboran merupakan prioritas dalam 
+proses bisnis di PT Pertamina EP yang merupakan 
+penunjang utama dalam pencapaian produksi minyak 
+dan gas. Dalam pelaksanaannya pengeboran merupakan kegiatan dengan tingkat risiko tinggi dan biaya 
+besar yang membutuhkan perencanaan yang baik dari 
+semua aspek, termasuk di dalamnya penerapan manajemen risiko. Namun di PT Pertamina EP belum dilakukan secara rinci proses manajemen risiko untuk kegiatan pengeboran. Sampai saat ini yang telah dilakukan adalah risiko secara umum pada fungsi drilling. 
+
+Dalam penelitian ini ruang lingkup dibatasi hanya pada proyek pengeboran sumur TJG-HZ1 di 
+Field Tanjung Wilayah Kerja Kalimantan (Asset 5) 
+PT Pertamina EP yang dibor pada tahun 2012. Risiko 
+yang dianalisis terbatas pada risiko pengeboran. Objek penelitian adalah data operasional sumur yang sudah dilakukan, khususnya pada risiko yang dihadapi 
+serta untuk merumuskan strategi perencanaan yang 
+dilakukan untuk proyek pengeboran selanjutnya sehingga dapat mengurangi dampak overbudget dan penambahan waktu operasional. Tujuan penelitian ini 
+adalah menganalisis peta masalah pada kegiatan pengeboran, mengidentifikasi dan memetakan risiko pengeboran, serta menganalisis strategi manajemen risiko yang harus disiapkan untuk kegiatan pengeboran. 
+
+Risiko adalah potensi terjadinya suatu peristiwa 
+(event) baik yang dapat diperkirakan (anticipated) 
+maupun yang tidak dapat diperkirakan (unanticipated) yang dapat menimbulkan dampak bagi pencapaian tujuan perusahaan (Bernstein & Wild, 1998). Manajemen risiko korporasi (enterprise risk management) merupakan suatu proses yang dilakukan oleh 
+dewan komisaris, manajemen dan personil perusahaan, diterapkan mulai sejak penyusunan strategi hingga 
+seluruh proses perusahaan, dirancang untuk mengidentifikasi peristiwa potensial yang dapat mempengaruhi perusahaan, dan mengelola risiko tersebut agar 
+sesuai dengan risk appetite (batas selera risiko) perusahaan, untuk menyediakan keyakinan yang memadai 
+sehubungan dengan pencapaian sasaran perusahaan 
+(Basel Comitee on Banking Supervision, 2004). 
+
+Manajemen risiko merupakan kegiatan yang 
+mempunyai sifat dua arah yaitu proses top-down dan 
+bottom-up. Proses top-down adalah proses penetapan 
+target return dan limit risiko oleh manajemen puncak. 
+Dalam proses ini tujuan dan batas limit keseluruhan 
+perusahaan diterjemahkan sebagai sinyal kepada unitunit bisnis dan kepada manajer yang berhubungan 
+langsung dengan operasional. Sinyal ini mencakup 
+target penerimaan, limit risiko dan pedoman yang terkait dengan kebijaksanaan pelaksanaan tugas unit bisnis. Menurut Crawley dan Grant (1997), manajemen 
+risiko harus dilakukan oleh perusahaan secara konsisten dengan metodologi yang dapat diukur, sehingga 
+pada akhirnya dapat dilakukan audit. Rettedal, 
+Aven, dan Gudmestad (2000) menjelaskan bahwa ketika suatu risiko pengeboran dapat diukur, maka perusahaan dapat melakukan persiapan yang matang dan 
+mengetahui strategi antisipasi lebih lanjut dari segi 
+biaya, tenaga kerja, maupun peralatan. 
+
+Manajemen risiko akhir-akhir ini menjadi bagian pertimbangan dari bisnis yang tidak dapat dihindarkan. Perusahaan yang melakukan proses manajemen risiko dan memasukkan dalam setiap pengambilan keputusan bisnisnya dapat lebih baik, karena potensi risiko yang akan terjadi sudah diperhitungkan. 
+Perusahaan yang melakukan proses manajemen risiko 
+juga dapat menciptakan nilai tambah, karena potensi 
+return yang diperoleh sudah diperhitungkan lebih besar daripada potensi risiko kerugiannya. 
+
+Laycock (1998) menjelaskan bahwa risiko operasional adalah risiko yang terkait dengan fluktuasi 
+hasil usaha perusahaan akibat pengaruh dari hal-hal 
+yang berhubungan dengan kegagalan sistem atau pengawasan, dan peristiwa yang tidak dapat dikontrol 
+oleh perusahaan. Risiko operasional berbeda dengan 
+risiko pasar dan risiko kredit karena dapat terjadi pada 
+setiap orang yang ada dalam perusahaan karena orang 
+merupakan salah satu sumber risiko operasional. Risiko operasional mempunyai dimensi yang luas dan 
+kompleks dengan sumber risiko yang merupakan gabungan dari berbagai sumber yang ada dalam organisasi, proses dan kebijakan, sistem dan teknologi, 
+orang dan faktor-faktor lainnya. Demikian pula besaran kerugian risiko operasional juga semakin meningkat dari waktu ke waktu sejalan dengan semakin 
+kompleksnya bisnis perusahaan dan teknologinya. 
+Persoalan yang umum dihadapi oleh semua perusahaan berkaitan dengan risiko operasional adalah bagaimana risiko operasional diindentifikasi, diukur, dipantau, dan dikendalikan. 
+
+Menurut Susilo dan Kaho (2010), setiap aktivitas organisasi, apapun jenis dan seberapapun besarnya, pasti menghadapi berbagai risiko yang dapat 
+mempengaruhi pencapaian sasaran organisasi. Salah 
+satu risiko yang paling berbahaya di dunia industri 
+minyak dan gas dalah risiko operasional pengeboran. 
+Kegiatan ini tidak hanya meliputi rekayasa sistematis 
+yang melibatkan prosedur kerja operasi terus-menerus, tetapi juga membutuhkan keterampilan dan teknik khusus untuk pengeboran bawah tanah. Kegiatan 
+operasional pengeboran memiliki karakteristik investasi yang membutuhkan biaya yang tinggi dan risiko 
+yang tinggi pula, sehingga risiko operasional merupakan salah satu hal yang paling penting untuk dipahami (Liu & Wang, 2010). Menurut Dowd (2003), 
+
+mekanisme terjadinya risiko operasional diawali oleh 
+cause dan berimbas pada impact. Suatu risiko operasional timbul karena adanya sebab (cause), yaitu suatu hal utama yang meningkatkan kemungkinan terjadinya suatu kejadian (events). Cause berpotensi 
+menghasilkan peristiwa-peristiwa yang tidak diinginkan. Dari events risiko operasional yang ada akan 
+memberikan akibat atau dampak (impact) terhadap 
+perusahaan. Akibat umum yang ditimbulkan dapat 
+berupa kerugian material secara finansial atau kerusakan aset fisik dan atau berupa kerugian kualitatif. 
+
+Risiko reputasi dan risiko bisnis tidak lagi termasuk risiko operasional didasarkan pertimbangan sulitnya kuantifikasi dampak finansial yang ditimbulkan. 
+Risiko operasional sebaiknya diukur secara kuantitatif, agar diperoleh data risiko secara lebih akurat 
+(Cross & Ballesio 2003). Akan tetapi Siu (1994) menjelaskan bahwa mengukur risiko operasional pengeboran secara kualitatif pun tidak masalah, sedangkan 
+menurut Kaplan dan Garrick (1981) untuk mengukur 
+risiko operasional harus diidentifikasi terlebih dahulu 
+melalui tiga pertanyaan, yaitu mengapa risiko tersebut 
+terjadi, seperti apa kejadiannya, dan apa konsekuensinya. 
+
+Menurut Godfrey (1996) risiko dapat bersumber 
+dari politik (political), lingkungan (environmental), 
+perencanaan (planning), pemasaran (market), ekonomi (economic), keuangan (financial), alami 
+(natural), proyek (project), teknis (technical), manusia (human), kriminal (criminal) dan keselamatan (safety). Kategori sumber risiko secara umum terbagi dalam empat jenis risiko, yaitu (1) risiko operasional, 
+yaitu risiko yang berhubungan operasional organisasi 
+mencakup risiko yang berhubungan dengan sistem 
+organisasi, proses kerja, teknologi dan sumber daya 
+manusia, (2) risiko finansial, yaitu risiko yang berdampak pada kinerja keuangan organisasi seperti kejadian risiko akibat dari waktu kerja yang melebihi 
+hari perencanaan, anggaran yang melebihi perencanaan, (3) risiko strategic, yaitu risiko yang berhubungan 
+dengan strategi perusahaan, politik, ekonomi, peraturan dan perundangan. Risiko yang berkaitan dengan 
+reputasi organisasi kepemimpinan dan termasuk perubahan keinginan pelanggan, dan (4) risiko hazard, 
+yaitu risiko yang berhubungan dengan kecelakaan fisik seperti kejadian atau kerusakan yang menimpa 
+harta perusahaan dan adanya ancaman perusahaan. 
+
+Manajemen risiko merupakan salah satu komponen yang penting pada setiap perusahaan. Apabila risiko tidak dikelola dengan baik, sangat mungkin perusahaan akan mengalami kerugian bukan hanya berpengaruh pada bidang operasional saja, tetapi juga dapat berpengaruh terhadap entitas bisnis perusahaan secara keseluruhan. PT Pertamina EP perlu menerapkan 
+
+ 
+
+
+
+
+manajemen risiko pada kegiatan pengeboran yang belum dilakukan sebelumnya. 
+
+Perbedaan penelitian ini dengan penelitian sebelumnya terletak pada objek amatan. Sejauh ini masih sangat jarang penelitian yang menganalisis manajemen risiko pada operasional pengeboran, padahal risiko yang timbul jika tidak segera ditangani dengan 
+kaidah manajemen risiko yang baik akan berdampak 
+buruk tidak hanya pada perusahaan, tetapi juga lingkungan sekitar. Penelitian Wasisto (2013) dan Wiryani (2013) tidak mengelompokkan aspek kategori 
+sumber risiko berdasarkan empat kelompok yaitu 
+operasional, finansial, strategik, dan hazard, sementara itu Utama (2009) dalam menganalisis manajemen risiko menggunakan metode Failure Modes and 
+Effects Analysis (FMEA) dan Quality Function Deployment (QFD) tanpa menggunakan metode Godfrey. Penelitian Kardono (2008) yang juga menganalisis risiko operasional pengeboran di Enduro Petroleum hanya sebatas mengamati pengendalian internal 
+dengan metode The Committee of Sponsoring Organization of Treadway Commisioning (COSO), tanpa 
+peta risiko Godfrey. 
+
+Sundja dan Hanafiah (2009) dalam penelitiannya mengenai risiko investasi pengeboran migas di 
+Sumatera juga hanya melihat sisi risiko investasi saja 
+tanpa memperhatikan aspek-aspek lain seperti strategic, operasional, dan hazard seperti yang dilakukan 
+oleh penelitian ini. Sutanto (2012) menganalisis manajemen risiko hanya dengan satu pendekatan, yaitu 
+manajemen risiko berbasis ISO 31000 tanpa melihat 
+pemetaan risiko. 
+
+Adapun Harianto dan Susanto (2008) dalam melakukan evaluasi terhadap non productive time hanya 
+menggunakan metode Total Quality Management 
+(TQM). Berdasarkan hal tersebut, penelitian ini memiliki perbedaan dari objek penelitian dan alat analisis 
+yang digunakan karena karakteristik operasional pengeboran yang pada dasarnya memang berbeda dengan bisnis lain. 
+ 
+
+Metode Penelitian 
+
+ 
+
+Penelitian dilaksanakan di PT Pertamina EP 
+Field Tanjung Wilayah Asset 5, Kalimantan Selatan, 
+tepatnya pada fungsi drilling Sumur TJG-HZ1 dan PT 
+Pertamina EP Pusat. Penelitian dilaksanakan pada bulan Agustus sampai dengan September 2014. 
+
+Data yang digunakan pada penelitian ini terdiri 
+atas data primer dan sekunder. Data primer diperoleh 
+melalui wawancara dengan responden di PT Pertamina EP yang memiliki kompetensi untuk memberikan masukan mengenai manajemen risiko yang perlu 
+dilakukan perusahaan. Responden yang dituju merupakan penentu kebijakan dan memiliki jabatan strategis terkait pengelolaan manajemen risiko di PT Pertamina EP. Selain itu data primer juga diperoleh dari 
+responden pakar untuk memberikan masukan dan saran terhadap pengelolaan risiko yang mungkin terjadi 
+di PT Pertamina EP. 
+
+Hasil pengumpulan data ini bertujuan untuk mengetahui pendapat dan penilaian responden terhadap 
+rekomendasi menghadapi risiko melalui kuesioner 
+yang diberikan. Adapun data sekunder diperoleh dari 
+laporan keuangan perusahaan yang telah diaudit dan 
+dari dokumen internal perusahaan yang berkaitan dengan pengeboran di sumur TJG-HZ1 Field Tanjung 
+Wilayah Asset 5. Data sekunder juga berasal dari 
+sumber kepustakaan yang relevan seperti buku, jurnal 
+ilmiah, dan penelitian terdahulu yang dapat dijadikan 
+pedoman untuk keperluan penelitian. 
+
+Teknik pemilihan responden untuk pengambilan 
+data primer dilakukan dengan metode purposive sampling¸ yaitu responden ditentukan berdasarkan penilaian kapasitas dan kualitas responden untuk memperoleh informasi yang diperlukan sesuai kebutuhan penelitian. Responden dalam penelitian ini sebanyak 
+empat orang adalah dari pihak internal PT Pertamina 
+EP yang berhubungan langsung dengan kegiatan pengeboran migas dan dua orang dari pihak eksternal, 
+yaitu yang memiliki kompetensi dan wawasan sangat 
+baik terhadap manajemen risiko pengeboran di industri perminyakan dan gas. 
+
+Teknik pengumpulan data dilakukan dengan 
+empat cara, yaitu: observasi langsung, in depth interview, pengisian kuesioner untuk mendapatkan data 
+primer, dan studi pustaka untuk mendapatkan data sekunder. Teknik pengumpulan diuraikan sebagai berikut: 
+ 
+
+a. Observasi langsung, yaitu melakukan pengamatan 
+langsung kepada objek penelitian yang bertujuan 
+untuk mengetahui secara langsung proses operasional kegiatan usaha sumur TJG-HZ1 Field Tanjung Wilayah Asset 5 di Kalimantan Selatan. 
+
+b. Wawancara pribadi dengan manajemen PT Pertamina EP. Wawancara dilakukan dengan cara in 
+depth interview dengan menyusun daftar pertanyaan sebelumnya untuk kemudahan dalam memperoleh informasi dari responden. Wawancara dilakukan untuk mendapatkan informasi mengenai 
+kondisi eksisting manajamen risiko yang telah dilakukan oleh PT Pertamina EP. 
+
+c. Pengisian kuesioner oleh responden pakar yang 
+berasal dari pihak internal PT Pertamina EP dan 
+pakar manajemen risiko. Kuesioner ini bertujuan 
+untuk mendapatkan informasi mengenai identifikasi risiko dan penyebabnya, serta memberikan 
+pertimbangan atau masukan terkait tindakan yang 
+harus dilakukan perusahaan untuk meminimalisir 
+risiko yang mungkin terjadi. 
+
+d. Studi pustaka sumber kepustakaan yang relevan 
+seperti buku, jurnal ilmiah, dan penelitian terdahulu yang dapat dijadikan pedoman untuk keperluan penelitian. 
+
+e. Focus Group Discussion (FGD) dilakukan untuk 
+merumuskan implikasi manajerial berdasarkan hasil penelitian yang telah dilakukan. FGD ini melibatkan pihak internal yaitu direksi PT Pertamina 
+EP dan pihak eksternal yaitu responden pakar manajemen risiko. 
+
+Alat analisis dalam penelitian ini menggunakan 
+pengukuran risiko Godfrey (1996) yang diawali dengan membagikan kuesioner kepada responden dengan tujuan untuk mendapatkan penilaian terhadap 
+kemungkinan kejadian (probability to assurance) dan 
+pengaruh risiko (potential impact). Identifikasi risiko 
+dan penyebabnya dilakukan melalui in depth interview. Berdasarkan hasil wawancara tersebut diperoleh 
+output berupa ukuran risiko tentang tingkat kemungkinan atau frekuensi terjadinya risiko (probability) 
+dan tingkat dampak atau akibat karena terjadinya risiko. 
+
+Skala yang digunakan untuk pengukuran risiko 
+Godfrey adalah skala likert dengan nilai 1 sampai dengan 5. Skala likert biasa digunakan dalam penelitian 
+yang menggunakan metode survei untuk mengukur 
+persepsi responden. Nilai (index) risiko diperoleh dengan rumus tingkat kemungkinan dikalikan tingkat 
+dampak. Angka terkecil untuk nilai risiko adalah 1, 
+sementara angka terbesar adalah 5 (Saaty & Vargas, 
+2006). 
+ 
+
+Tabel 1 
+Skala Kemungkinan dan Dampak 
+
+Tingkat Kemungkinan 
+
+Skala 
+
+Sangat sering (frequent) 
+Sering (probable) 
+Kadang-kadang (occasional) 
+Jarang (remote) 
+Sangat jarang (improbable) 
+
+5 
+4 
+3 
+2 
+1 
+
+Tingkat Dampak 
+
+Skala 
+
+Sangat besar (catatrophic) 
+Besar (critical) 
+Sedang (serious) 
+Kecil (marginal) 
+Sangat kecil (negligible) 
+
+5 
+4 
+3 
+2 
+1 
+
+Sumber: Godfrey (1996) 
+ 
+Setelah dilakukan identifikasi risiko, selanjutnya adalah mengukur tingkat risiko dengan mempertimbangkan seberapa besar tingkat kemungkinan dan dampak 
+terjadinya risiko tersebut. Tingkat penerimaan risiko 
+bergantung pada dua hal, yaitu probability (kemungkinan) dan impact (dampak). Skala penerimaan risiko 
+mengacu pada Godfrey (Saaty & Vargas, 2006). 
+ 
+Terdapat risiko-risiko yang mudah diukur tetapi sulit dipastikan tingkat kemungkinan terjadinya, 
+sehingga melalui skala penerimaan risiko dapat diperoleh dugaan yang terbaik sehingga dapat diprioritaskan risiko mana yang harus diutamakan dan diabaikan. Tingkat kemungkinan (p) adalah seberapa besar 
+potensi terjadinya risiko. Risiko yang paling berpotensi terjadi diberikan nilai 5, sedangkan risiko yang 
+paling tidak berpotensi terjadi diberikan nilai 1. Tingkat dampak (i) adalah seberapa besar risiko yang bisa 
+diakibatkan, jika dampak risiko sangat besar, maka 
+diberikan nilai 5, sebaliknya jika dampak sangat kecil 
+diberikan nilai 1. 
+ 
+Setelah mengetahui tingkat kemungkinan 
+dan tingkat dampak, selanjutnya adalah mengukur 
+besarnya risiko. Nilai tingkat kemungkinan (p) dikalikan nilai tingkat dampak (i) diperoleh nilai besarnya 
+risiko. Setelah diketahui besarnya nilai risiko, selanjutnya adalah memetakan risiko dengan menggunakan nilai tingkat kemungkinan dan tingkat dampak 
+untuk memperoleh tingkat risiko (r). 
+
+Dalam peta risiko dikelompokkan empat area, 
+yaitu risiko yang memiliki tingkat risiko low, medium, 
+high, dan extreme, dan tingkat risiko low memiliki 
+skala penerimaan risiko negligible (abaikan), tingkat 
+risiko medium memiliki skala acceptable (diterima), 
+tingkat risiko high memiliki skala undesirable (tidak 
+diharapkan), dan tingkat risiko extreme memiliki 
+skala (unacceptable). Peta risiko Godfrey berfungsi 
+menggambarkan tentang kondisi suatu risiko. Peta ini 
+digambarkan dengan matriks 5 x 5. Sumbu X menjelaskan nilai kemungkinan terjadinya risiko dan sumbu Y menjelaskan dampak jika risiko tersebut terjadi. 
+Sumbu X memiliki lima tingkatan yang terdiri 
+atas negligible, marginal, seroius, critical, dan catastrophic. Negligible adalah risiko yang terjadi tidak 
+merusak lokasi pengeboran, tidak merusak lingkungan sekitar, tidak mengakibatkan kerugian finansial, 
+dan tidak mengakibatkan kerugian media atau kepentingan umum. Marginal adalah ketika risiko mengakibatkan kerusakan minimal terhadap lokasi pengeboran, terbatas namun tidak ada kerugian finansial, 
+dan tidak berpotensi mengganggu kepentingan khalayak umum. 
+
+Serious adalah ketika risiko mengakibatkan kerusakan jangka pendek yang sedikit berdampak pada 
+operasional pengeboran dan lingkungan sekitar, sedikit kerugian finansial, dan ada laporan media yang 
+terbatas. Critical adalah risiko yang mengakibatkan 
+kerusakan pengeboran yang berdampak kerusakan 
+yang serius pada operasional pengeboran dan lingkungan sekitar, selain itu terjadi kemarahan oleh masyarakat sekitar yang terganggu terkena imbas risiko 
+tersebut dan adanya kritik oleh media dan masyarakat 
+luas. 
+
+Catastrophic adalah risiko yang sangat tidak diharapkan oleh perusahaan karena sangat merugikan 
+secara finansial dan mengakibatkan kerusakan lingkungan yang serius jangka panjang, selain itu terjadi 
+kritik tajam oleh media nasional maupun internasional, yang pada akhirnya berpotensi membatalkan kegiatan operasional pengeboran yang telah dilakukan. 
+
+Sama seperti sumbu X, sumbu Y juga memiliki 
+lima tingkatan yang terdiri atas improbable, remote, 
+occasional, probable, dan frequent. Improbable adalah risiko yang sangat tidak mungkin terjadi dan hanya dapat terjadi dalam keadaan yang luar biasa. Remote adalah risiko yang kemungkinan terjadinya kecil 
+dan jarang terjadi pada beberapa waktu. Occasional 
+adalah risiko yang kemungkinan terjadinya sedang. 
+Probable adalah risiko yang biasanya sering terjadi. 
+Frequent adalah risiko yang paling sering dan paling 
+mungkin terjadi dalam sebagian besar keadaan kegiatan operasional pengeboran. 
+
+Jumlah respon terhadap risiko terdiri atas empat 
+alternatif, yaitu menerima, mengurangi, mentransfer, 
+dan menghindari risiko. Alternatif tersebut dapat disesuaikan dengan level atau tingkat penerimaan risiko 
+pada perusahaan. Flanagan dan Norman (1993) menjelaskan bahwa untuk menentukan respon terhadap 
+risiko mengacu pada ketentuan yang dijelaskan. 
+ 
+
+
+Bisnis proses pengeboran terbagi atas tiga tahapan, yaitu tahapan proses pengajuan prognosis atau 
+usulan pengeboran sumur, tahapan proses perencanaan sumur dan tahapan pengeboran. Risiko yang sering 
+terjadi adalah pada tahapan proses pengeboran. Untuk 
+tahapan pengeboran, PT Pertamina EP membagi risiko operasional pengeboran menjadi tiga tahap yaitu 
+pra pengeboran, operasional pengeboran, dan pasca 
+pengeboran. 
+
+Pada tahap pra pengeboran, PT Pertamina EP telah menetapkan enam risiko utama. Pertama, lokasi 
+pengeboran yang tidak siap tepat waktu. PT Pertamina EP menghadapi kendala sebelum melakukan pengeboran yaitu penghalang dan strata yang aneh, jarak super jauh untuk mobilisasi peralatan besar, pengiriman logistik darat, laut, dan udara yang kompleks, serta kesulitan untuk beroperasi di lingkungan 
+sosial yang sama sekali baru. Selain itu kendala pembebasan lahan dan topografi juga seringkali menyebabkan kegiatan operasional pengeboran menjadi terhambat. Kendala lain yang berkaitan dengan penyiapan lokasi adalah lokasi yang berdampingan dengan 
+wilayah pertambangan lain, seperti tambang batubara. 
+Kedua, peralatan tidak siap tepat waktu. Sulitnya 
+medan yang ditempuh terutama ketika membuka sumur baru biasanya terdapat kendala dalam distribusi 
+peralatan pengeboran, terutama peralatan kategori berat. Belum tersedianya jalan dan infrastruktur yang 
+baik ke lokasi pengeboran menjadi penghambat utama dalam distribusi alat, sehingga kegiatan operasional pengeboran sering menjadi terhambat akibat ketidaksiapan peralatan yang tepat waktu tersebut. Akibat 
+lain yang ditimbulkan adalah biaya sewa peralatan 
+yang membengkak akibat inefisiensi hari operasional 
+pengeboran akibat ketidaksiapan peralatan yang akan 
+digunakan. 
+
+Ketiga, kontrak yang tidak siap. Ketika sudah 
+dilakukan survei lapangan untuk menentukan lokasi 
+pengeboran sumur, seringkali terjadi ketidaksiapan 
+
+kontrak pengeboran yang akan dilakukan. Selain itu 
+kendala kontrak disebabkan karena nilai dan waktu 
+kontrak yang akan habis masa berlakunya sehingga 
+membutuhkan waktu untuk menunggu kontrak baru. 
+Tanpa adanya kontrak yang jelas, tentu PT Pertamina 
+EP akan merugi terutama apabila melakukan operasional pengeboran tetapi tidak jelas bagaimana hak 
+dan kewajiban kontraktor dan PT Pertamina EP. 
+
+Keempat, material bor seringkali tidak siap. Ketika sudah ditentukan lokasi pengeboran, persiapan 
+peralatan lain, dan kontrak yang sudah disepakati, ada 
+kemungkinan material bor belum siap. Selain itu 
+pembelian material bor seringkali harus indent ke supplier. Hal ini tentunya dapat menghambat kegiatan 
+operasional pengeboran, dan mengakibatkan bertambahnya jumlah hari kerja pengeboran akibat ketidaksiapan material bor. 
+
+Kelima, AFE yang belum disetujui. Setiap sumur yang akan dilakukan pengeboran harus mendapat 
+persetujuan terlebih dahulu dari SKK Migas secara 
+teknis operasional dan biaya (budget). Biaya yang disetujui disebut dengan Authorization for Expenditures 
+(AFE). Jika tidak disetujui oleh SKK Migas, kegiatan 
+operasional pengeboran juga dipastikan akan terhambat. Selain itu masalah perizinan juga seringkali menjadi risiko yang harus dipertimbangkan pada saat kegiatan pra pengeboran (SKK Migas, 2013). 
+
+Identifikasi risiko yang terjadi pada sumur TJGHZ1 di Field Tanjung diperoleh dari pengamatan 
+langsung di lapangan dan rekomendasi dari pakar pengeboran sumur minyak dan gas. Risiko tersebut dibagi ke dalam empat kelompok, yaitu risiko finansial, 
+strategi, operasional, dan hazard. Risiko finansial merupakan risiko yang berkaitan dengala risiko yang 
+terjadi pada akhirnya berpotensi meningkatkan biaya 
+operasional pengeboran sumur. 
+
+Pada risiko strategi, risiko yang dapat terjadi 
+adalah kesalahan perencanaan yang detil untuk satu 
+sumur. Kesalahan strategi dapat berdampak pada risiko-risiko aspek lainnya, seperti risiko finansial, operasional, dan hazard. Seringkali terjadi ketidakakuratan analisis dan perencanaan pengeboran sumur oleh 
+manajemen puncak. Non Productive Time (NPT) merupakan waktu operasional yang tidak direncanakan 
+dan langsung berpengaruh terhadap hari kerja operasional pengeboran menjadi lebih lama dan mengakibatkan penambahan biaya sehingga menyebabkan 
+overbudget dari biaya yang sudah disetujui dan terjadinya keterlambatan hari operasional. 
+
+Risiko hazard adalah risiko yang berhubungan 
+dengan kecelakaan fisik, seperti kejadian atau kerusakan yang menimpa harta perusahaan dan adanya 
+ancaman terhadap perusahaan. Berdasarkan wawancara dengan pihak internal PT Pertamina EP dan pakar manajemen risiko, dalam penelitian ini risiko finansial dibagi ke dalam tujuh jenis risiko, risiko strategi dibagi ke dalam lima risiko, risiko operasional 
+dibagi ke dalam tujuh risiko, dan risiko hazard dibagi 
+ke dalam lima risiko. 
+
+Berdasarkan hasil penelitian terlihat bahwa risiko yang memiliki peluang terjadi paling tinggi dan 
+dampak yang paling berisiko adalah hari operasional 
+yang lebih lama. Risiko yang memiliki dampak terbesar kedua adalah perencanaan yang detil untuk satu 
+sumur, peningkatan kualitas mitra kerja, penggunaan 
+peralatan dan teknologi yang tepat, terjadinya NPT, 
+dan terjadinya lost in hole. Faktor kendala kebijakan 
+pemerintah dalam penelitian ini memiliki dampak 
+risiko yang paling rendah jika dibandingkan dengan 
+risiko lainnya. Secara keseluruhan, tingkat risiko dan 
+skala penerimaan risiko dapat dilihat pada Tabel 4. 
+
+Masing-masing kelompok risiko memiliki risiko 
+yang tergolong memiliki dampak yang sangat besar. 
+Pada kelompok risiko finansial, risiko peningkatan biaya operasional tergolong kategori ekstrim dengan 
+kategori unacceptable. Pada kelompok risiko strategi, 
+terdapat empat risiko yang tergolong kategori ekstrim 
+dengan kategori unacceptable, yaitu perencanaan 
+yang detil untuk satu sumur, peningkatan kualitas mitra kerja, peningkatan kinerja para pekerja di operasional pengeboran, dan penggunaan peralatan dan 
+teknologi yang tepat. Pada kelompok risiko operasional, terdapat tiga risiko yang tergolong kategori ekstrim dengan kategori unacceptable, yaitu terjadinya 
+non productive time, hari operasional lebih lama, dan 
+tidak terealisasinya pengeboran sumur. PT Pertamina 
+EP harus menindaklanjuti kemungkinan terjadinya risiko yang tergolong ekstrim karena dampaknya yang 
+sangat besar terhadap potensi kerugian yang akan 
+dialami perusahaan. Setelah mengetahui nilai risiko, 
+tindakan selanjutnya adalah memetakan risiko secara 
+agregat. 
+
+Selanjutnya adalah melakukan tindakan mitigasi 
+risiko sebagai respon setelah diketahuinya tingkat risiko dan tingkat penerimaan risiko. Menurut Godfrey 
+(1996), risiko diklasifikasikan menjadi empat kategori 
+yaitu risiko yang tidak dapat diterima dan harus dihilangkan (unacceptable), risiko yang tidak diharapkan 
+dan harus dihindari (undesirable), risiko yang dapat 
+diterima (acceptable), dan risiko yang sepenuhnya dapat diterima (negligible). Untuk risiko yang tergolong ke dalam tingkat penerimaan unacceptable, 
+respon yang harus dilakukan oleh PT Pertamina EP 
+adalah berusaha menghindari agar risiko tersebut tidak terjadi. Pada risiko yang tergolong ke dalam tingkat penerimaan undesirable, perusahaan harus melakukan respon transfer (mentransfer risiko). Pada 
+risiko yang tergolong ke dalam tingkat penerimaan 
+acceptable, perusahaan harus melakukan respon reduction (mengurangi risiko), yang berarti mengurangi 
+potensi terjadinya risiko tersebut. Pada risiko yang 
+tergolong ke dalam tingkat penerimaan negligible, 
+perusahaan harus melakukan respon acceptable (mengurangi risiko), yang berarti perusahaan dapat menerima risiko tersebut. Menurut Septrida (2013), risikorisiko yang tidak dapat dihindari harus dikelola dan 
+dikendalikan agar tidak menimbulkan kerugian bagi 
+perusahaan. 
+
+Penerapan manajemen risiko pada operasional 
+pengeboran sangat bermanfaat bukan hanya pada pengurangan dampak risiko namun juga dapat menghindari terjadinya biaya-biaya di luar perencanaan dan 
+aspek non cost recovery seperti yang terjadi pada 
+sumur TJG-HZ1. Pengurangan biaya atau cost reduction yang diperoleh dengan penerapan manajemen 
+risiko ditunjukkan pada Tabel 6. 
+
+ 
+
+ 
+
+
+Kegiatan pengeboran tidak akan lepas dari risiko karena kegiatan pengeboran merupakan proyek 
+dengan high risk dan high cost (Rubiandini, 2012), 
+sehingga yang dapat dilakukan adalah mengurangi 
+tingkat risiko tersebut. Hal yang dapat dilakukan terhadap risiko peningkatan biaya operasional adalah 
+dengan melakukan perencanaan biaya yang tepat dengan data price list material yang terakhir, melihat 
+data kontrak yang jelas, menambah eskalasi biaya 
+untuk komponen biaya-biaya tertentu, dan memastikan kegiatan pengeboran dapat berjalan sesuai dengan rencana waktu yang telah dibuat. 
+
+Risiko perencanaan detil untuk satu sumur, yang 
+jadi permasalahan selama ini adalah untuk satu sumur 
+belum dilakukan mitigasi risiko untuk setiap tahapan 
+pengeboran. Oleh karena itu strategi yang dapat dilakukan adalah untuk setiap satu sumur yang akan dikerjakan harus dilakukan tahapan manajemen risiko 
+secara detil. Hasil evaluasi risiko terhadap sumur-sumur yang sudah dikerjakan dapat dijadikan sebagai 
+referensi untuk pengelolaan risiko sumur selanjutnya. 
+Perusahaan membuat standar risiko untuk proyek pengeboran sampai pada keputusan satu sumur layak 
+untuk dilakukan pengeboran atau tidak. 
+
+Kualitas mitra kerja sangat menentukan keberhasilan pengeboran sumur secara efektif, tepat waktu, 
+dan berkualitas. Oleh karena itu kedepannya PT Pertamina EP harus selektif dalam memilih perusahaan 
+yang akan menjadi mitra kerja, terutama mengidentifikasi track record perusahaan yang akan dijadikan 
+mitra kerja tersebut. Penerapan key performance indi
+cator (KPI) untuk setiap pekerjaan yang telah dilakukan oleh mitra kerja, dapat dijadikan strategi untuk 
+memonitor dan menjaga kualitas pekerjaan yang dilakukan mitra kerja. Selain itu perlu juga diterapkan sistem reward dan punishment untuk setiap mitra kerja 
+PT Pertamina EP, sehingga mitra kerja yang dianggap 
+tidak memenuhi ekspektasi perusahaan akan menerima konsekuensi jika tidak dapat melakukan pekerjaannya dengan baik. Sebaliknya ada reward khusus 
+bagi mitra kerja yang memiliki prestasi kerja yang 
+melebihi ekspektasi sebelumnya, hal ini dinilai penting agar dapat memotivasi setiap mitra kerja untuk 
+bekerja lebih giat dan serius lagi terutama pada kegiatan operasional pengeboran. 
+
+Peningkatan kinerja para pekerja di operasional 
+pengeboran juga menjadi risiko dalam kegiatan pengeboran sumur. Seringkali terjadi kesalahan penempatan sumber daya manusia terutama untuk kegiatan 
+di lapangan. Sumber daya manusia yang dibutuhkan 
+untuk kegiatan operasional pengeboran harus memiliki kualifikasi yang sesuai, dan memiliki pengalaman 
+yang cukup mengingat besarnya risiko yang berpotensi timbul. Kinerja para pekerja harus ditingkatkan 
+melalui evaluasi berkala dan pelatihan rutin oleh PT 
+Pertamina EP agar performanya terus meningkat. 
+
+Penggunaan peralatan dan teknologi yang tepat 
+juga menentukan risiko strategi. Kesalahan penentuan 
+penggunaan peralatan dan teknologi dapat berdampak 
+buruk bagi operasional pengeboran. Demi efisiensi biasanya perusahaan tidak menggunakan peralatan dan 
+teknologi yang terbaik. Kesalahan penggunaan peralatan juga dapat membebani biaya pengeboran keseluruhan karena peralatan yang telah disewa tetapi 
+ketika di lapangan tetap tidak bisa digunakan, menjadi 
+biaya tambahan yang tetap harus dibayarkan oleh PT 
+Pertamina EP. 
+
+Dibutuhkan tingkat akurasi yang tinggi pada saat 
+kegiatan operasional pengeboran. Antisipasi terjadinya stand by ketika menunggu tools pengeboran harus dapat diatasi. Seringkali terjadi ketika lokasi sudah 
+siap untuk dilakukan pengeboran, tools yang digunakan masih belum siap. Hal ini mengakibatkan adanya 
+selang waktu atau periode yang berstatus stand by dan 
+mengakibatkan jumlah hari yang bertambah. 
+
+Risiko Non Productive Time (NPT) yaitu waktu 
+operasional yang tidak direncanakan dan langsung 
+berpengaruh terhadap hari kerja operasional pengeboran menjadi lebih lama dan penambahan biaya sehingga menyebabkan overbudget dari biaya yang sudah disetujui dan terjadinya keterlambatan hari operasional. NPT yang paling sering terjadi disebabkan 
+oleh rig repair dan pipe sticking, tetapi faktor lain seperti top drive, fishing job dan remedial cementing juga seringkali mengakibatkan terjadinya NPT, 
+
+Semua risiko atau kendala yang terjadi pada 
+operasional pengeboran, maka dampak yang langsung dirasakan adalah pada waktu pengeboran yang 
+menjadi lebih lama dari perencanaan. Strategi yang 
+dilakukan adalah perencanaan waktu yang tepat berdasarkan pengeboran sebelumnya, penggunaan semua peralatan pengeboran dalam kondisi baik, peningkatan koordinasi dan komunikasi operasional. 
+
+Tidak terealisasinya pengeboran sumur merupakan risiko yang disebabkan oleh kendala-kendala 
+yang terjadi baik sebelum, operasional, dan pasca pengeboran. Strategi yang dapat dilakukan untuk mengurangi kejadian ini adalah membuat perencanaan 
+jumlah sumur yang akan dibor, dengan mengacu kepada kemampuan kinerja yang berdasarkan kemampuan tahun-tahun sebelumnya. Strategi lain yang bisa 
+diterapkan adalah persiapan pengeboran yang melibatkan seluruh pihak terkait sehingga paling lambat 
+tiga bulan sebelum pengeboran dilakukan. Hal ini juga bisa mengantisipasi timbulnya salah paham yang 
+seringkali terjadi antara perusahaan dengan masyarakat sekitar. 
+
+Risiko budget exceeded adalah risiko biaya melebihi anggaran yang telah direncanakan atau anggaran ternyata tidak tersedia. Risiko ini dapat disebabkan 
+kegiatan operasional pengeboran yang dilakukan melebihi waktu yang telah ditentukan atau menggunakan 
+material dengan standar yang lebih tinggi dari yang 
+telah direncakan. Hal ini tentu mengakibatkan membengkaknya anggaran yang dibutuhkan. Total biaya 
+yang melebihi anggaran seringkali diistilahkan overbudget. Faktor lain penyebab terjadinya budget ex
+ceeded adalah operasional yang lebih lama sehingga 
+menyebabkan biaya yang lebih besar, dan pemakaian 
+material yang lebih banyak dari perencanaan. 
+
+Risiko carry over adalah anggaran biaya yang 
+melebihi anggaran tahun berjalan yang masuk pada 
+anggaran tahun selanjutnya. Hal ini terjadi karena hari 
+operasi pengeboran melebihi dari waktu yang telah 
+direncanakan. Strategi yang dapat dilakukan untuk 
+mengatasi hal ini adalah dengan merumuskan perencanaan yang tepat untuk waktu kerja pengeboran, merencanakan jumlah sumur yang akan dibor dalam satu 
+tahun sesuai dengan kemampuan kinerja, dan melakukan evaluasi terhadap pencapaian jumlah sumur 
+yang berhasil dibor dalam satu tahun dari data yang 
+diperoleh pada tahun-tahun sebelumnya. 
+
+Kendala peralatan yang rusak merupakan risiko 
+yang sangat sering terjadi pada kegiatan pengeboran. 
+Strategi untuk mengurangi terjadinya kendala peralatan yang rusak adalah melakukan quality control yang 
+jelas terhadap semua peralatan yang akan digunakan. 
+Perlu juga ditetapkan spesifikasi peralatan yang akan 
+digunakan dalam kegiatan pengeboran untuk memudahkan tahapan maintenance peralatan 
+
+Terjadinya stuck pipe atau terjepitnya rangkaian 
+pengeboran di dalam lubang sumur termasuk risiko 
+yang memiliki dampak waktu operasi pengeboran lebih lama, biaya pengeboran lebih besar, dan kemungkinan menyebabkan terjadinya biaya lost in 
+hole yang berpeluang menyebabkan non cost recovery seperti yang terjadi pada sumur TJG-HZ1. Untuk itu stuck pipe mutlak harus dihindari, dengan melakukan perencanaan detail pada setiap program pengeboran. Selain itu perlu juga dipastikan penggunaan 
+peralatan dalam kondisi baik dan pengawasan pekerjaan sumur yang ketat melalui metode day to day 
+operation. Hal lain yang bisa mengurangi terjadinya 
+risiko stuck pipe adalah penggunaan lumpur pengeboran yang tepat dan membuat trajectory lubang sumur yang baik. 
+
+Dengan adanya risk treatment yang akan diterapkan pada kegiatan pengeboran sumur migas selanjutnya, tingkat risiko pengeboran sumur dapat bergeser dari yang extreme dan high menjadi pada tingkat 
+medium. Secara keseluruhan, sangat sulit untuk 
+menghilangkan risiko yang terjadi pada kegiata pengeboran yang bisa dilakukan adalah mengurangi 
+tingkat risiko hal ini karena proyek pengeboran merupakan proyek yang berisiko (Rubiandini, 2012). 
+
+Untuk manajemen PT Pertamina EP, strategi 
+yang dapat dilakukan untuk penerapan manajemen risiko pada setiap sumur pengeboran adalah sebagai berikut: 
+1. Melakukan pemetaan risiko yang lebih detail untuk setiap tahapan kegiatan pengeboran dan antisipasi yang harus disiapkan. 
+
+ 
+
+
+2. Memastikan setiap sumur pengeboran sudah melakukan manajemen risiko sampai dengan implementasi strategi respon risiko 
+
+3. Peningkatan kemampuan pemahaman dan penerapan manajemen risiko pada personil kunci yang 
+terlibat dalam operasional pengeboran seperti drilling engineer, drilling assistant manager, dan senior operation engineer. 
+
+4. Membentuk tim khusus di fungsi pengeboran 
+yang bertugas melakukan perencanaan, pelaksanaan, pengawasan, dan evaluasi manajemen risiko 
+yang dipimpin oleh seorang drilling risk engineer. 
+Tim ini akan memberikan hasil analisis risiko 
+yang sangat terukur sehingga dapat memberikan 
+manfaat langsung bagi organisasi dalam pengelolaan risiko lebih lanjut, misal meminimalkan non 
+productive time di operasional pengeboran atau 
+menghilangkan inefisiensi pada setiap tahapan 
+pengeboran secara keseluruhan. Dengan pengukuran tersebut penanganan risiko akan lebih mudah sehingga dapat meningkatkan kinerja operasional pengeboran, serta dapat mengurangi biaya 
+pengelolaan risiko secara keseluruhan. 
+
+5. Perusahaan dapat membuat limit finansial risiko 
+operasional pada kegiatan pengeboran. Perusaha-
+an harus menyusun profil kerugian risiko operasional yang berpeluang terjadi dengan membandingkan probabilitas risiko yang akan terjadi dengan risiko yang diambil perusahaan (Muslich, 
+2007). 
+
+ 
+Untuk SKKMigas sebagai regulator pelaksanaan 
+kegiatan hulu minyak dan gas di Indonesia dalam 
+rangka meminimalisisr risiko pada proyek pengeboran, strategi yang dapat dilakukan adalah: 
+1. Mewajibkan kepada seluruh kontraktor Kontrak 
+Kerja Sama (KKS) untuk menerapkan proses manajemen risiko pada setiap kegiatan pengeboran. 
+
+2. Setiap kegiatan operasional pengeboran harus dilengkapi dengan data tingkat risiko dan strategi 
+untuk merespon risiko. 
+
+3. Mewajibkan kepada semua KKS untuk membuat 
+perencanaan waktu dan biaya pengeboran yang tepat, dengan mengacu pada sumur-sumur yang sudah dibor sebelumnya mempertimbangkan antisipasi risiko yang sering terjadi. 
+
+ 
+
+Simpulan dan Implikasi 
+
+ 
+
+Berdasarkan hasil analisis dan pembahasan penelitian yang telah dilakukan, maka simpulan yang 
+dapat diambil adalah identifikasi risiko pengeboran 
+didapatkan 24 (dua puluh empat) risiko yang dikelompokkan dalam empat kategori: 
+
+ 
+
+a. Risiko finansial yang terdiri atas: peningkatan biaya operasional, timbulnya biaya non cost recovery, terjadinya budget exceeded untuk pembiayaan sumur, pencapaian produksi lebih lama, potensi 
+terjadinya carry over, realisasi nilai kontrak mitra 
+kerja lebih cepat, timbulnya biaya non investasi 
+akibat lost in hole. 
+
+b. Risiko strategi yang terdiri atas: perencanaan yang 
+detail untuk satu sumur, peningkatan kualitas mitra kerja, peningkatan kinerja para pekerja di operasional pengeboran, penggunaan peralatan dan 
+teknologi yang tepat, dan antisipasi terjadinya 
+stand by ketika menunggu tools siap. 
+
+c. Risiko operasional yang terdiri atas: terjadinya non 
+productive time, hari operasional lebih lama, tidak 
+terealisasinya pengeboran sumur, terjadinya lost in 
+hole, kualitas sumur tidak sesuai dengan perencanaan, kendala peralatan yang rusak, kegagalan 
+pengeboran dan dilakukan side track. 
+
+d. Risiko hazard yang terdiri atas: terjadinya stuck 
+pipa saat operasional pengeboran, terjadinya loss 
+sirkulasi, kendala kebijakan pemerintah, shale 
+problem, tool problem. 
+ 
+
+Dari 24 risiko tersebut, setelah dihitung tingkat 
+risiko dan dipetakan, maka terdapat delapan risiko pada tingkat ekstrim, lima risiko tinggi, lima risiko sedang, dan enam risiko rendah. Implikasi yang disampaikan dari hasil penelitian ini adalah PT Pertamina 
+EP dapat menerapkan manajemen risiko pada setiap 
+sumur pengeboran yang akan dilakukan mulai dari tahap pemetaan sampai strategi untuk respon risiko sehingga risiko yang terjadi dapat diminimalkan. SKK 
+Migas dapat mempertimbangkan untuk memasukkan 
+biaya antisipasi terjadinya risiko pada kegiatan pengeboran, yang sebelumnya tidak dapat dimasukan ke 
+dalam biaya AFE. SKK Migas dapat menerapkan kepada semua KKS yang terlibat dalam kegiatan pengeboran migas untuk melakukan analisis risiko untuk 
+setiap pengajuan usulan kegiatan pengeboran untuk 
+menghindari terjadinya overbudget biaya AFE dan 
+terjadinya non cost recovery. Saran penelitian selanjutnya agar menganalisis tahap eksploitasi dan evaluasi kinerja pengeboran dengan melakukan analisis 
+yang lebih detail lagi terhadap risiko yang terjadi pada 
+setiap tahapan pengeboran. 
+ 
+

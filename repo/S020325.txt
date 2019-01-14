@@ -1,0 +1,332 @@
+﻿ABSTRAK
+Penelitian ini bertujuan untuk menganalisis bagaimana persepsi nasabah
+tentang minat penggunaan berulang internet banking untuk mendukung aktivitas
+mereka sehari-hari, dengan menggunakan kerangka TAM. Berdasarkan kerangka
+TAM yang diajukan oleh Davis, diajukan model intervening yaitu sikap
+penggunaan. Sikap penggunaan dalam hal ini berperan sebagai variabel
+intervening pada hubungan persepsi manfaat, persepsi kemudahan penggunaan
+dan persepsi kredibilitas terhadap minat penggunaan berulang internet banking.
+Penelitian ini dilakukan dengan metode survey terhadap persepsi nasabah
+akan internet banking pada nasabah layanan internet banking di 3 kota besar di
+Indonesia. Penentuan sampel dalam penelitian ini menggunakan metode
+purposive sampling. Kuesioner dari 120 nasabah layanan internet banking di
+Indonesia yang memenuhi syarat sebagai sampel dianalisis dengan menggunakan
+analisis Structural Equation Modelling (SEM) pada program AMOS 20,0.
+Hasil penelitian menunjukkan bahwa: (1) persepsi manfaat berpengaruh
+langsung terhadap sikap penggunaan dan berpengaruh tidak langsung terhadap
+minat penggunaan berulang; (2) persepsi kemudahan penggunaan berpengaruh
+langsung terhadap sikap penggunaan dan berpengaruh tidak langsung terhadap
+minat penggunaan berulang; (3) persepsi kredibilitas berpengaruh langsung
+terhadap sikap penggunaan dan berpengaruh tidak langsung terhadap minat
+penggunaan berulang; (4) sikap penggunaan berpengaruh signifikan dan positif
+terhadap minat penggunaan berulang. Hasil pengujian yang signifikan dan positif
+memberikan bukti empiris bahwa masyarakat menjadikan internet banking bukan
+lagi sebuah prestis melainkan kebutuhan utama dalam menjalankan aktifitasnya.
+Serta memberikan bukti empiris bagi para pembuat kebijakan dan regulator untuk
+dapat memberikan layanan yang sesuai dengan kebutuhan nasabah dan
+mengutamakan kenyamanan nasabah.
+Kata kunci: Kerangka TAM, Persepsi Kredibilitas, Nasabah Layanan Internet
+Banking.
+
+
+BAB I
+PENDAHULUAN
+1.1 Latar Belakang
+Perkembangan teknologi informasi dan komunikasi yang semakin maju di
+berbagai belahan dunia telah membawa perubahan yang besar terhadap berbagai
+sektor kehidupan kita. Beberapa sektor yang mengalami perubahan akibat dari
+perkembangan teknologi informasi dan komunikasi antara lain perekonomian,
+sosial, budaya, pertahanan dan keamanan serta pendidikan. Dunia bisnis juga tak
+luput dari pengaruh teknologi informasi ini,bukti nyata akan adanya pengaruh
+tersebut adalah adanyae-business yang berkembang dengan pesat.
+E-business adalah seluruh penggunaan teknologi informasi yang canggih,
+terutama untuk pembuatan jaringan dan teknologi komunikasi, serta dapat
+digunakan untuk meningkatkan cara organisasi dalam melaksanakan semua proses
+bisnisnya. Tidak terkecuali sektor perbankan di seluruh dunia yang mulai
+merasakan dampak e-business ini. Berbagai cara dilakukan oleh bank-bank
+tersebut dalam memanfaatkan adanya kemajuan teknologi informasi dan
+komunikasi saat ini. Salah satu diantaranya adalah dengan meningkatnya
+persaingan dan usaha untuk mengefisiensikan biaya operasional, maka
+mendorong bank-bank memanfaatkan layanan internet dalam menjalankan
+usahanya (Marieta, 2010). Selain itu, semakin meningkatnya mobilitas
+masyarakat akhir-akhir ini menjadikan penyedia layanan masyarakat seperti
+perbankan, harus memutar otak untuk melakukan inovasi dalam melayani semua nasabahnya. Salah satuproduk berbasis internet yang saat ini menjadi perhatian
+dikalangan perbankan dunia adalah internet banking.
+Internet banking pertama kali muncul di Amerika Serikat pada
+pertengahan tahun 1990-an, dimana lembaga keuangan di Amerika Serikat
+memperkenalkan dan mempromosikan internet bankinguntuk menyediakan
+layanan perbankan yang lebih baik (Chan dan Lu 2004: 21 dalam Sri Maharsi
+2007). Internet banking adalah salah satu pelayanan jasa bank yang
+memungkinkan nasabah untuk memperoleh informasi, melakukan komunikasi dan
+melakukan transaksi perbankan melalui jaringan internet, dan bukan merupakan
+bank saja yang hanya menyelenggarakan layanan perbankan melalui
+internet(Tampubolon 2004). Internet banking membuka paradigma baru, struktur
+baru dan strategi yang baru bagi retail bank, dimana bank menghadapi
+kesempatan dan tantangan yang baru (Mukherjee dan Nath 2003).
+Layanan internet banking memberikan manfaat untuk nasabah dan bank.
+Layanan ini bertujuan untuk memudahkan nasabah dalam melakukan transaksi
+perbankan mereka dimana saja dan kapan saja (Sri Maharsi dan Yuliani, 2007).
+Dengan adanya layanan ini nasabah tidak perlu khawatir akan menghabiskan
+waktu antri di bank yang tentunya akan membutuhkan tenaga ekstra pula. Selain
+itu, biaya untuk melakukan transaksi jauh lebih murah dengan menggunakan
+internet banking dibandingkan dengan transaksi menggunakan mesin ATM. Biaya
+yang dikeluarkan nasabah untuk setiap kali transaksi menggunakan mesin ATM
+adalah sebesar Rp 4.000,00 sampai Rp 5.000,00. Namun, jika menggunakan layanan internet banking nasabah hanya perlu mengeluarkan biaya sebesar Rp
+400,00 (Meryana: 2012).
+
+Pelayanan internet banking yang disediakan oleh bank dilakukan melalui
+situs bank, yang dapat diakses oleh nasabah setiap saat tanpa harus datang ke
+bank. Fitur-fitur yang disediakan dalam situs bank tersebut antara lain yaitu cek
+saldo, mutasi rekening sampai transfer, melakukan pembayaran tagihan, kliring,
+pembukaan dan penutupan rekening, dan lain-lain dapat dilakukan asalkan
+memiliki koneksi ke internet. Kemudahan lainnya ialah karena situs itu sama
+seperti situs-situs lain pada umumnya, sehingga nasabah dapat secara langsung
+mengakses layanan internet banking (Marieta, 2010).Selain itu internet banking
+juga dapat memudahkan nasabah dalam hal memperoleh informasi, berita dan
+analisis seputar foreign exchange transaction. Baru-baru ini internet banking juga
+memberikan pelayanan diluar produk perbankan seperti pembelian voucher isi
+ulang dan langsung dapat mendebet rekening nasabah, pembayaran polis atau
+dapat melakukan pembelian saham secara online.
+
+Selain manfaat yang diperoleh dari internet banking untuk nasabah,
+layanan internet banking juga memiliki manfaat tersendiri bagi pihak bank, seperti
+yang diungkapkan oleh Budi Raharjo: 2001. Manfaat tersebut meliputi:
+1. Business expansion
+Mesin ATM digunakan oleh bank sebagai penyedia layanan perbankan
+yang dapat digunakan oleh customer tanpa harus antri di bank dan dapat
+digunakan setiap saat tanpa harus terbatas dengan jam operasional bank.
+Dahulu sebelum adanya mesin ATM, bank harus membuka kantor cabang di
+berbagai tempat agar dapat menjangkau semua nasabah di berbagai pelosok
+wilayah (Sri Maharsi dan Yuliani, 2007). Tentunya ini akan membutuhkan
+biaya yang sangat mahal, namun dengan adanya mesin ATM ini dapat
+mengurangi biaya pembangunan kantor cabang. Tetapi permasalahan
+kemudian muncul karena harga mesin ATM yang tidak murah dan
+dibutuhkan banyak mesin ATM, yang kemudian akan menambah biaya
+operasional bank. Dengan berkembangnya teknologi, pihak bank dapat
+mengurangi biaya pembelian mesin ATM dan menggantinya dengan
+membuka situs layanan internet banking. Layanan ini juga memiliki
+keunggulan yang sama seperti mesin ATM yaitu dapat diakses setiap saat.
+
+2. Customer loyalty
+Nasabah, khususnya yang sering bergerak (mobile), akan merasa lebih
+nyaman untuk melakukan aktivitas perbankannya tanpa harus membuka
+account di bank yang berbeda-beda di berbagai tempat (Sri Maharsi dan
+Yuliani, 2007). Dia dapat menggunakan satu bank saja, karena dengan hanya
+menggunakan satu account bank telah dapat memudahkan semua aktivitas
+bisnisnya.
+
+3. Revenue and cost improvement
+Biaya untuk memberikan layanan perbankan melalui internet banking
+dapat lebih murah daripada membuka kantor cabang (Sri Maharsi dan
+Yuliani, 2007). Pembukaan cabang baru justru akan menambah biaya
+tambahan yang harus dikeluarkan oleh bank. Oleh sebab itu, layanan internet
+banking dapat meminimalkan biaya-biaya tersebut.
+
+4. Competitive advantage
+Bank yang tidak memiliki mesin ATM akan sukar berkompetisi dengan
+bank yang memiliki banyak mesin ATM. Demikian pula bank yang memiliki
+internet bankingakan memiliki keuntungan dibandingkan dengan bank yang
+tidak memiliki internet banking. Di masa yang akan datang, nasabah memiliki
+kecenderungan untuk membuka accountdi bank yang memiliki fasilitas
+internet banking (Sri Maharsi dan Yuliani, 2007).
+
+5. New business model
+Internet banking memungkinkan adanya bisnis model yang baru
+(Raharjo, 2001). Sebagai contoh layanan perbankan baru dapat diluncurkan
+melalui web dengan cepat. Ini merupakan keuntungan yang dapat dirasakan
+bank, dan merupakan salah satu cara dalam penghematan biaya pemasaran.
+Meskipun banyak keuntungan yang didapat oleh nasabah, namun pada
+kenyataannya layanan ini sangat jarang digunakan oleh nasabah dan cenderung
+tidak diminati. Nasabah lebih senang melakukan transaksi via ATM atau dengan
+antri di bank. Pada kenyataannya jumlah pengguna internet banking di Indonesia
+lebih sedikit dibanding dengan pengguna internet. Pengguna internet di Indonesia
+mencapai 25 juta dengan populasi 237.512.355 jiwa, sedang pengguna internet
+banking hanya sebanyak 424.063 di tahun 2004 (Kompas; 2012). Ini
+membuktikan bahwa, cukup banyak nasabah yang menggunakan internet namun
+tidak tertarik untuk menggunakan layanan internet banking. Masyarakat
+menganggap bahwa belum ada manfaat yang pasti yang dapat mereka rasakan
+dengan mengandalkan layanan ini, karena menurut mereka sistem ini terlalu rumit dan tidak terlihat secara fisik manfaatnya. Oleh sebab itu, memunculkan sebuah
+pertanyaan tentang bagaimana persepi manfaat penggunaan layanan internet
+banking untuk para nasabahnya.
+
+Kenyataannya banyak nasabah yang mempunyai fasilitas internet banking
+namun tidak pernah memanfaatkannya, dikarenakan pengoperasian sistem yang
+kadang terkesan rumit dan tidak semua orang paham cara menggunakannya.
+Faktor lain adalah tingkat kemampuan nasabah dalam menggunakan komputer,
+faktor ini juga mempengaruhi minat nasabah dalam menggunakan layanan
+internet banking. Nasabah yang tidak mampu menggunakan komputer, akan
+mengalami kesulitan dalam mengoperasikan layanan internet banking. Oleh
+karena itu, banyak nasabah yang cenderung memilih layanan ATM yang mudah
+penggunaannya dibandingkan dengan layanan internet banking. Dengan
+demikian, ada hal-hal yang mempengaruhi minat nasabah dalam penggunaan
+internet banking, yaitu persepsi kemudahan penggunaan serta tingkat kemampuan
+nasabah dalam menggunakan komputer.
+
+Pemakaian internet banking yang secara terus-menerus dan berkala dapat
+menumbuhkan hubungan jangka panjang antara nasabah dengan pihak bank. Oleh
+sebab itu untuk mempertahankan hubungan jangka panjang dengan nasabahnya,
+bank harus selalu berkomunikasi dengan nasabahnya. Sehingga nasabah merasa
+aman dan percaya terhadap bank tersebut, karena nasabah dapat dengan mudah
+memperoleh informasi yang mereka inginkan dari bank tersebut (Mukherjee dan
+Nath, 2003). Konsumen yang tidak mendapatkan informasi yang lengkap tentang
+kualitas suatu produk, seringkali kehilangan kepercayaan untuk melakukan transaksi online. Banyak kasus tindak kejahatan dalam menggunakan internet
+banking di Indonesia, salah satunya yang paling populer adalah kasus pembobolan
+rekening nasabah Bank Central Asia dengan menggunakan clikbca (Kompas,
+2002). Dengan timbulnya beberapa kasus kecurangan menggunakan media
+internet banking, dan tidak adanya interaksi fisik antara pegawai bank dengan
+nasabah akan menyebabkan nasabah tidak percaya terhadap internet banking.
+Ketidakpercayaan nasabah terhadap internet bankingdapat menimbulkan rasa
+takut pada nasabah untuk menggunakan internet banking.
+Keberhasilan internet bankingtergantung dari bagaimana nasabah
+menerima sistem tersebut. Oleh karena itu, penting bagi pihak bank untuk
+mengetahui bagaimana para konsumennya mengapresiasi jasa internet banking
+agar dapat membantu menemukan rencana strategis dan meningkatkanpangsa
+pasar (Marieta, 2010). Dengan demikian, isu penting bagi pihak bank ketika
+menerapkan internet bankingadalah, untuk mengetahui faktor-faktor apa saja yang
+mempengaruhi keputusan para nasabah menggunakan jasa pelayanan internet
+banking.
+
+Permasalahan tentang bagaimana nasabah dapat menerima dan
+memanfaatkan layanan internet banking ini secara maksimal dapat dijelaskan
+dengan menggunakan kerangka TAM (Theory Acceptance Model). Teori ini
+menawarkan suatu penjelasan yang kuat dan sederhana untuk penerimaan
+teknologi dan perilaku para penggunanya (Davis, 1989). Kerangka TAM
+merupakan model yang dirancang untuk memprediksi penerimaan aplikasi
+komputer dan faktor-faktor yang berhubungan dengannya (Widyarini, 2005).
+
+TAM bertujuan untuk menjelaskan dan memperkirakan penerimaan
+(acceptance)pengguna dan faktor-faktor yang mempengaruhi penerimaan
+terhadap suatu teknologi dalam suatu organisasi. TAM juga menjelaskan
+hubungan sebab akibat antara keyakinan dan perilaku, tujuan atau keperluan, serta
+penggunaan aktual dari pengguna suatu sistem informasi.
+Menurut Davis (1989), ada dua konsep utama yang dipercaya dalam
+penerimaan pengguna yaitu perceived ease of use dan perceived usefulness.
+Perceived ease of use didefinisikan sebagai tingkat kepercayaan seseorang bahwa,
+penggunaan teknologi dan sistem informasi akan mudah dan tidak membutuhkan
+usaha yang keras. Perceived usefulness didefinisikan sebagai tingkat kepercayaan
+seseorang bahwa, penggunaan sistem informasi meningkatkan kinerja dalam
+pekerjaannya. Penggunaan internet banking ditentukan oleh persepsi individu dan
+sikap yang pada akhirnya akan membentuk perilaku seseorang dalam penggunaan
+suatu teknologi informasi.
+
+Pengaruh persepsi manfaat, persepsi kemudahan penggunaan dan persepsi
+kredibilitas terhadap minat penggunaan berulang internet banking pernah
+dilakukan oleh Sri Maharsi dan Yuliani (2007). Penelitian yang dilakukan oleh Sri
+Maharsi dan Yuliani dilakukan di Surabaya dengan menggunakan kerangka
+pemikiran yang dikembangkan dari penelitian yang dilakukan oleh Wang et.al
+(2003). Penelitian Sri Maharsi dan Yuliani menggunakan 1 (satu) variabel
+eksogen yaitu computer self-efficacy dan 4 (empat) variabel endogen yaitu
+perceived usefulness, perceived ease of use, perceived credibility dan behavioral intention. Penelitian tersebut menggunakan populasi nasabah layanan internet
+banking di Surabaya pada tahun 2007.
+
+Penelitian serupa juga pernah dilakukan oleh Feronica, dkk. (2011) yang
+dilakukan dengan menggunakan populasi dari nasabah Bank BCA. Variabel yang
+digunakan dalam penelitian ini adalah persepsi manfaat, persepsi kemudahan
+penggunaan, sikap penggunaan serta intensi penggunaan internet banking.
+Penelitian yang dilakukan oleh Ulun dan Nuray (2011) dilakukan di Turki
+pada tahun 2011 sedikit berbeda dengan penelitian-penelitian sebelumnya. Pada
+penelitian Ulun dan Nuray kali ini menggunakan mobile banking sebagai objek
+penelitian. Variabel yang digunakan dalam penelitian ini meliputi, perceived
+usefulness, perceived ease of use, perceived benefit, perceived social risk,
+perceived performance risk, perceived financial risk, perceived time risk,
+perceived security risk, perceived privacy risk, attitude of toward using, dan
+intention to use.
+
+Penelitian initermasuk dalam golongan dalam penelitian yang berbasis
+sistem informasi akuntansi, dimana penelitian ini mencoba menjelaskan
+bagaimana sebuah sistem akuntanasi mampu memberikan manfaat bagi
+penciptanya dan pemakainya. Fokus penelitian ini berada pada bagaimana
+intensitas perilaku nasabah dalam menggunakan layanan internet banking.
+Persepsi nasabah akan manfaat dan kemudahan yang ditimbulkan dari pemakaian
+internet banking akan menentukan sikap nasabah dalam penggunaan layanan
+internet banking. Sikap nasabah dalam menerima internet banking bisa
+ditunjukkan dengan intensi pemakaian layanan internet banking. Jika sikap nasabah dalam menanggapi layanan internet banking ini baik, maka dapat
+dipastikan nasabah akan berminat untuk melakukan penggunaan secara
+berulang.Semua aktivitas nasabah tersebut akan memberikan dampak yang besar
+terhadap pertumbuhan pendapatan bank. Objek penelitian ini adalah nasabah
+layanan pengguna internet banking dari 3 kota di Indonesia yaitu Semarang,
+Jakarta, dan Batam.
+
+1.2 Rumusan Masalah
+Perkembangan teknologi informasi dan komunikasi dimanfaatkan sektor
+perbankan untuk dapat mendukung pelayanannya terhadap nasabah. Internet
+banking adalah salah satu produk inovasi yang dikembangkan oleh bank menjadi
+suatu terobosan terbaru dalam proses bisnisnya. Layanan internet banking
+diyakini mampu memberikan keuntungan bagi kedua pihak, yaitu pihak nasabah
+sebagai pengguna layanan dan pihak bank sebagai penyedia layanan. Namun,
+manfaat dari layanan internet banking tidak akan maksimal jika nasabah yang
+dalam hal ini adalah sebagai pengguna, tidak turut aktif dalam memaksimalkan
+penggunaan internet banking. Hal ini disebabkan beberapa faktor yang
+mempengaruhi nasabah untuk menggunakan antara lain manfaat, kemudahan
+penggunaan dari layanan tersebut dan kredibilitasnya.
+
+Pengukuran persepsi nasabah akan manfaat, kemudahan pengunaan dan
+kredibilitas menjadi sesuatu yang penting dalam hal menilai perilaku mereka
+dalam minat penggunaan berulang internet banking. Persepsi dapat diartikan
+sebagai anggapan atau pandangan terhadap sesuatu. Persepsi akan selalu hadir
+dalam setiap gerak hidup kita, karena memang berhubungan langsung dengan
+fungsi akal pada ruang kesimpulan (Imam, 2012). Kemudian persepsi menjadi
+penting karena perilaku individu didasarkan pada persepsi mereka tentang
+kenyataan. Oleh sebab itu, merupakan hal penting untuk mengukur bagaimana
+persepsi nasabah tentang suatu layanan internet banking untuk dapat menilai
+bagaimana penerimaan mereka terhadap sistem tersebut dan minat mereka dalam
+menggunakan secara berkala layanan ini.
+
+Semakin mudah layanan dioperasikan, maka akan menumbuhkan sikap
+yang positif terhadap layanan yang diberikan. Apabila sikap terhadap penggunaan
+layanan internet banking semakin meningkat,maka akan menimbulkan minat
+nasabah untuk tetap menggunakan layanan tersebut. Hal ini yang kemudian akan
+berdampak pada kesetiaan dari nasabah. Beberapa penelitian terdahulu masih
+belum menunjukkan hasil yang konsisten tentang pengaruh persepsi manfaat,
+persepsi kemudahan penggunaan, persepsi kredibilitas terhadap minat penggunaan
+berulang internet banking. Seperti penelitian Sri Maharsi dan Yuliani (2007),
+Ratih Wijayanti (2009), Marieta (2010), Irmadhani dan Mahendra (2011),
+Feronica, dkk. (2011), Ulun dan Nuray (2011).
+
+Berdasarkan latar belakang diatas, maka permasalahan yang akan diteliti
+dapat dirumuskan dalam bentuk pertanyaan sebagai berikut:
+1. Apakah persepsi manfaat berpengaruh terhadap sikap penggunaan?
+2. Apakah persepsi kemudahan penggunaan berpengaruh terhadap sikap
+penggunaan?
+3. Apakah persepsi kredibilitas berpengaruh terhadap sikap penggunaan?
+12
+4. Apakahsikap penggunaan berpengaruh terhadap minat penggunaan
+berulanginternet banking oleh nasabah?
+
+1.3 Tujuan dan Manfaat Penelitian
+1.3.1 Tujuan Penelitian
+Penelitian mengenai analisis pengaruh layanan internet banking terhadap
+minat penggunaan berulang,dengan sikap penggunaan sebagai variabel
+intervening ini bertujuan untuk :
+1. Menganalisis pengaruh persepsi manfaat terhadap sikap penggunaan.
+2. Menganalisis pengaruh persepsi kemudahan penggunaan terhadapsikap
+penggunaan.
+3. Menganalisis pengaruh persepsi kredibilitas terhadapsikap penggunaan.
+4. Menganalisis pengaruh sikap penggunaan terhadapminat penggunaan ulang
+internet banking oleh nasabah.
+1.3.2 Manfaat Penelitian
+1. Bagi Akademisi
+Penelitian ini diharapkan dapat menjadi bahan referensi untuk mengetahui
+apa saja variabel-variabel dalam individu yang dapat memberikan pengaruh
+dalam perilaku penggunaan internet, terkhusus internet banking. Serta
+memberikan informasi mengenai pentingnya dan manfaat dalam
+pengungkapan faktor-faktor yang mempengaruhi minat nasabah menggunakan
+internet banking. Penelitian ini juga diharapkan dapat bermanfaat dalam
+perkembangan ilmu pengetahuan.
+
+2. Bagi Bank
+Manfaat yang dapat diberikan untuk dunia perbankan dari penelitian ini
+yaitu, sebagai bahan referensi yang diharapkan dapat memberikan
+pengetahuan dan informasi, untuk pertimbangan dalam pengambilan kebijakan
+dalam perusahaan. Dimana terkait dengan pengembangan sistem internet
+banking dan strategi bank untuk menarik nasabah lebih banyak lagi. Karena
+pada dasarnya dengan pengelolaan aset dan modal yang efisien dan efektif
+dapat menghasilkan keuntungan yang lebih tinggi dalam waktu yang cepat.
+
+3. Bagi Investor
+Penelitian ini diharapkan mampu memberikan gambaran kepada investor
+bahwa kinerja suatu perusahaan itu sangat penting, karena berhubungan
+dengan seberapa efisien dan efektif sebuah organisasi dapat menetapkan dan
+mencapai tujuan yang diharapkan. Dimana kinerja perusahaan akan digunakan
+investor untuk melihat sejauh mana perusahaan tersebut dapat
+mempertahankan investasi mereka.

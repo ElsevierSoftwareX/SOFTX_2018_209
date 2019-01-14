@@ -1,0 +1,142 @@
+﻿ABSTRAK
+Telah dilakukan penelitian berjudul Optimasi Kinerja Pesawat CT-Scan 64
+Slice dengan Evaluasi Nilai Noise Sebelum dan Sesudah Kalibrasi. Menggunakan
+phantom akrilik berisi air, melalui dua sampel phantom kepala dan phantom
+abdomen dengan nilai masing-masing kV (375 dan 160) dan nilai mAs (100 dan
+120) dengan teknik pengukuran Region Of Interest (ROI) selama sepuluh hari.
+Menghitung nilai rata-rata noise berdasarkan (mean, modus, SD). Nilai-nilai
+noise, base line noise, batas maksimal dan minimal dijadikan satu dalam bentuk
+grafik dan dibuat deskripsinya kemudian dibandingkan dengan hasil uji Pairedsampel
+T-test, signifikansi α = 0,02 (98%) untuk keseluruhan data nilai noise
+sebelum dan sesudah kalibrasi. Pada phantom kepala maupun abdomen sebelum
+dan sesudah kalibrasi telah didapatkan hasil pengukuran niali noise yang
+bervariasi, nilai tersebut masih berada dalam batasan normal yaitu dalam rentang
+dua atau tiga simpangan baku. Hasil perhitungan SPSS diperoleh untuk phantom
+kepala nilai signifikansi > α yaitu = 0,732 dan pada phantom abdomen yaitu =
+0,420 menunjukkan bahwa pengaruh hasil pencitraan sebelum dan sesudah
+kalibrasi tidak didapatkan perbedaan yang signifikan. Artinya pesawat tersebut
+masih dalam keadaan baik dan normal. Kualitas citra yang dihasilkan juga masih
+dalam keadaan optimal.
+Kata Kunci: Hunsflied Unit (HU), CT-Scan, Phantom
+
+BAB I
+PENDAHULUAN
+1.1 Latar Belakang
+Salah satu hasil dari pemanfaatan sinar-X dalam bidang diagnostik yang
+berbasis tomography adalah Computed Tomography (CT) Scan. Pada bidang
+radiodiagnostik CT-Scan banyak digunakan karena lebih canggih, hemat waktu,
+dan kualitas citra (gambar) yang dihasilkan lebih jelas dibandingkan dengan
+pesawat sinar-X konvensional seperti rontgen, hasil dari diagnostik CT-Scan
+untuk penyakit pasien juga lebih akurat. Diantara kelebihan CT-Scan kelainan
+pada tubuh manusia akan lebih detail terdeteksi, tetapi dengan alat imaging
+konvensional tidak dapat terlihat. CT-Scan mampu mencitrakan objek tiga
+dimensi yang tersusun atas irisan-irisan gambar (tomography) yang dihasilkan
+dari perhitungan algoritma komputer.
+Penelitian CT-Scan semakin berkembang sejak publikasi American
+Association of Physicists in Medicine (AAPM) Report no 1 “Phantom for
+Performance Evaluation and Quality Assurance of CT Scanners” pada tahun
+1977. Hal paling utama yang harus diperhatikan dalam bidang radiodiagnostik
+adalah kualitas gambar, dosis radiasi dan proteksi radiasi, sehingga diperlukan
+suatu bentuk evaluasi kinerja untuk tiga hal tersebut.
+Noise merupakan perbedaan/ variasi dari nilai HU pada suatu material
+yang sama, sehingga mampu membedakan koefisien atenuasi pada jaringan
+normal dan patologi (APPM report, 1993). Namun, jika nilai noise terlalu besar
+akan mengganggu resolusi kontras pada pencitraan CT-Scan sehingga dapat
+mempengaruhi hasil diagnosa penyakit pasien.
+Pada bidang radiologi juga sering menggunakan Region of Interest (ROI)
+untuk pengukuran tissue/ jaringan tertentu sebagai penentu akhir hasil dari
+diagnosa, oleh karena itu diperlukan suatu evaluasi atau Quality Control terhadap
+nilai noise.
+Quality Control (QC) pada CT-Scan terdiri dari penerimaan dan
+pemasangan awal (acceptance testing and commisioning), pengawasan kinerja
+secara rutin (routine performance evaluation), dan saat alat tidak berfungsi
+sebagaimana mestinya/ malfunction (error corection tests) (Tina, Melinda dkk,
+2014). Pengujian penerimaan terdiri dari pengukuran dosis radiasi dan kinerja
+elektromekanik, kualitas gambar dan mengevaluasi sistem komponen. Untuk
+evaluasi nilai noise terkategori dalam pengujian penerimaan (Acceptance Testing).
+Pengukuran nilai noise dapat dilakukan dengan cara scanning terhadap
+phantom berbentuk tabung silinder yang berisi air maupun meterial lain yang
+homogen. Evaluasi noise sebaiknya dilakukan setiap hari, seperti yang dilaporkan
+oleh (AAPM report, 1993) bahwa pengukuran noise merupakan salah satu uji
+yang sangat penting dilakukan.
+Pada pengukuran nilai Hounsfild Unit (HU) gambaran CT-Scan untuk air
+telah ditentukan besarnya adalah nol. Nilai dari noise dipresentasikan sebagai
+besarnya angka nilai standart deviasi yang dihasilkan dalam pengukuran ROI.
+Kalibrasi merupakan salah satu cara dalam mengurangi noise pada CTScan
+namun dalam pelaksanannya, kalibrasi untuk setiap instalasi radiologi dapat
+berbeda-beda seperti sehari sekali, seminggu sekali.
+
+
+
+Pada penelitian sebelumnya, Kurniawan dan Soesanti telah melakukan
+pengukuran nilai noise melalui ROI pada pertengahan irisan phantom air dengan
+luas area 228,2 mm2 pada pesawat CT-Scan merk Shimadzu Type SCT-4800TFZ.
+Jenis penelitian tersebut adalah penelitian eksplanative dengan pendekatan
+eksperimental. Pengukuran nilai noise dilakukan sebelum dan sesudah kalibrasi
+selama dua periode, setiap periode selama sepuluh hari. Nilai noise yang
+diperoleh sebelum dan sesudah kalibrasi terdapat perbedaan, tetapi masih dalam
+batasan nilai noise normal yaitu dua atau tiga simpangan baku. Nilai noise
+sesudah kalibrasi lebih baik dalam menghasilkan citra CT-Scan karena mendekati
+nol walupun rentang simpangan bakunya lebih lebar dibanding dengan sebelum
+kalibrasi. Terdapat 5% nilai noise yang berada diluar batasan dua simpangan baku
+dari base line noise walaupun demikian masih dikatakan normal karena masih
+dalam batasan tiga simpangan baku. Jadi untuk mengurangi nilai noise pada CTScan
+tersebut harus dilakukan kalibrasi terlebih dahulu untuk menghasilkan
+kualitas citra yang baik, jelas, dan akurat.
+Dalam penelitian tersebut akan dapat mengetahui perbedaan nilai noise
+pada phantom air, penyimpangan nilai noise yang terjadi sebelum dan sesudah
+dilakukan kalibrasi juga pengaruh terhadap kualitas citra yang dihasilkan, sebagai
+salah satu jaminan mutu kinerja dari pesawat CT-Scan.
+Informasi tersebut akan menjadi dasar dari penelitian ini, dengan
+melakukan uji evaluasi nilai noise atau Quality Control terhadap nilai noise,
+dengan cara melakukan scanning terhadap phantom tabung yang berisi air saat
+sebelum dan sesudah kalibrasi, dilanjutkan dengan pengukuran nilai HU pada
+pesawat CT-Scan merk Siemens Type Somatom Definition 64 Slice.
+
+
+
+Pada penelitian ini memilih menggunakan phantom yang berisi air, selain
+karena pabrikan sendiri sudah melengkapi setiap pesawat CT-Scan dengan
+phantom untuk kalibrasi juga mampu menggantikan sebagai objek dalam
+penelitian, disebabkan sifat dan struktur hampir sama dengan struktur tubuh
+manusia, karena dalam tubuh manusia 90% terdiri dari air juga merupakan larutan
+yang homogen. Jika objek pada penelitian ini adalah manusia maka akan sangat
+berbahaya karena berhubungan langsung dengan radiasi yang mengenai materi.
+Pada penelitian ini juga memilih menggunakan teknik lima ROI yaitu (atas,
+bawah, tengah, samping kanan, dan kiri) alasannya karena phantom yang
+digunakan bersifat homogen maka hal tersebut termasuk material yang uniform,
+artinya semua bagian dianggap sama.
+Pemilihan metode tersebut untuk mengetahui perbedaan nilai noise pada
+phantom air, penyimpangan nilai noise yang terjadi saat sebelum dan sesudah
+dilakukan kalibrasi, dan pengaruh terhadap kualitas citra yang dihasilkan oleh
+pesawat CT-Scan merk Siemens Type Somatom Definition 64 Slice. Sebagai salah
+satu jaminan mutu kinerja dari pesawat CT-Scan.
+1.2 Rumusan Masalah
+1. Berapa prosentase penyimpangan nilai noise antara sebelum dan sesudah
+kalibrasi pesawat CT-Scan merk Siemens Type Somatom Definition 64 Slice?
+2. Bagaimana pengaruh perbedaan nilai noise antara sebelum dan sesudah
+kalibrasi untuk hasil pencitraan pada CT-Scan merk Siemens Type Somatom
+Definition 64 Slice?
+
+
+
+1.3 Batasan Masalah
+a. Merk pesawat CT-Scan (Siemens)
+b. Type Somatom definition as 64 Slice
+1.4 Hipotesis
+Terdapat perbedaan nilai noise sebelum dan sesudah kalibrasi pada
+pesawat CT-Scan merk Siemens Type Somatom Definition 64 Slice.
+1.5 Tujuan
+Berlandaskan pada latar belakang, penelitian ini bertujuan:
+1. Mengetahui prosentase penyimpangan nilai noise yang terjadi antara sebelum
+dan sesudah dilakukan kalibrasi pada pesawat CT-Scan merk Siemens Type
+Somatom Definition 64 Slice.
+2. Mengetahui pengaruh perbedaan nilai noise pada phantom air antara sebelum
+dan sesudah dilakukan kalibrasi terhadap kualitas gambar yang dihasilkan,
+sebagai salah satu jaminan mutu kinerja dari pesawat CT-Scan merk Siemens
+Type Somatom Definition 64 Slice.
+1.6 Manfaat
+Dengan penelitian ini diharapkan dapat memberikan informasi, menjadi
+referensi bagi operator CT-Scan untuk pengoptimalan kinerja pesawat CT-Scan
+merk Siemens Type Somatom Definition 64 Slice dalam menghasilkan kualitas
+gambar sehingga dokter dapat memberikan diagnosa pasien lebih akurat.

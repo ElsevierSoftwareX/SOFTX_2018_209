@@ -1,0 +1,131 @@
+﻿ABSTRAK
+Pada penelitian ini telah dikembangkan teknik ekstraksi
+effervescence-LPME untuk analisis senyawa nitrosodietilamin (NDEA)
+dalam bandeng asap secara HPLC dengan UV-Vis sebagai detektor (HPLCUV-
+Vis). Tablet effervescence dengan berat 1 g yang digunakan untuk proses
+ekstraksi terbuat dari asam sitrat dan natrium bikarbonat. Beberapa parameter
+analitik telah dioptimasi meliputi volume pelarut organik, perbandingan
+komposisi tablet dan pH larutan umpan. Kondisi optimum yang diperoleh yaitu
+pelarut organik n-heksana dengan volume 100 μL, perbandingan komposisi
+tablet effervescence yaitu 1:4 (NaHCO3 : Asam sitrat) dan pH larutan umpan
+8. Dengan menggunakan kondisi optimum tersebut dihasilkan kurva kalibrasi
+untuk larutan standar NDEA konsentrasi 2, 4, 6, 8 dan 10 ppm dengan nilai
+koefisien korelasi (r) sebesar 0,996, nilai limit deteksi 0,96 ppm, akurasi antara
+92,07%-108,3%, koefisien variasi antara 0,19%-1,06% dan faktor pemekatan
+sebesar 202 kali. Metode ini telah diterapkan dalam penentuan NDEA dalam
+bandeng asap. Hasil analisis NDEA dalam bandeng asap A dan B masingmasing
+adalah 1,24 ppm dan 2,48 ppm.
+Kata kunci : Nitrosodietilamin (NDEA), Effervescence-LPME
+
+BAB I
+PENDAHULUAN
+1.1. Latar Belakang Permasalahan
+N-nitrosamin merupakan golongan senyawa yang disebut N-nitroso.
+Beberapa N-nitrosamin digolongkan oleh National Center for Toxicological
+Research (NCTR) dan International Agency for Research on Cancer sebagai
+penyebab kanker pada manusia berdasarkan aktivitas karsinogenik pada hewan uji
+(Abnet, 2007). Senyawa turunan nitrosamin, terutama N-nitrosodimetilamin
+(NDMA), N-nitrosometiletilamin (NMEA) dan N-nitrosodietilamin (NDEA)
+adalah senyawa yang sangat mutagenik dan bersifat karsinogenik bagi
+manusia (Andrzejewski et al., 2008). Batas toleransi paparan nitrosamin telah
+ditentukan pada rentang 5-10 μg/kg dari berat badan (Kocak et al., 2012).
+Pada makanan, nitrosamin dihasilkan dari reaksi antara nitrit dan amina
+sekunder (Wang et al., 2011). Produk makanan yang terkait dengan kontaminasi
+N-nitrosamin dibagi menjadi lima kelompok utama yaitu makanan yang
+diawetkan dengan penambahan nitrat atau nitrit, makanan yang diawetkan dengan
+pengasapan (Yurchenko dan Molder, 2006; Griesenbeck et al., 2009), makanan
+yang dikeringkan dengan gas pembakaran, makanan yang diawetkan dengan
+diasamkan atau penggaraman dan makanan yang disimpan atau ditumbuhkan
+pada kondisi lembab (Griesenbeck et al., 2009). Beberapa proses dari makanan
+yang melibatkan pemanasan pada suhu tinggi atau kontak langsung dengan gas
+pembakaran seperti pengasapan, pembakaran dan pemanggangan dapat memicu
+pembentukan nitrosamin (Kocak et al., 2012). Menurut perkiraan Food and Argriculture Organization (FAO), 2% dari hasil tangkapan ikan di dunia
+diawetkan dengan cara pengasapan sedangkan di negara-negara tropik hingga
+30% salah satu contohnya bandeng asap. Pada ikan, nitrosamin dihasilkan dari
+reaksi antara oksida nitrogen dengan amina sekunder, dimana oksida nitrogen
+dihasilkan dari nitrit atau juga terkandung dalam kayu yang diasap (Yurchenko
+dan Molder, 2006). Selain itu pada seafood, N-nitrosamin dapat terbentuk sebagai
+hasil dari reaksi nitrosasi antara amina sekunder (dimetilamin, dietilamin,
+trimetilamin dan oksida trimetilamin) dengan nitrat atau nitrit dari penambahan
+bahan additive atau berasal dari lingkungan seperti siklus nitrat di laut (Song dan
+Hu, 1988; Yurchenko dan Molder, 2006).
+Potensi adanya nitrosamin pada makanan yang cukup tinggi serta dampak
+negatif yang ditimbulkan bagi kesehatan, maka perlu dikembangkan suatu metode
+preparasi sampel yang tepat dan metode analisis yang memiliki sensitivitas tinggi
+untuk mendeteksi nitrosamin secara kuantitatif. Seperti pada makanan yang diolah
+dengan pengasapan karena konsentrasinya yang sangat kecil (ppm hingga ppb).
+Seiring dengan kemajuan ilmu pengetahuan dan teknologi, teknik preparasi
+sampel juga berkembang pesat. Salah satu bentuk preparasi sampel yaitu ekstraksi
+yang merupakan teknik yang digunakan untuk memisahkan dan memekatkan
+analit target dari matriks sampel. Mikroekstraksi merupakan salah satu teknik
+ekstraksi yang dapat dilakukan dalam tingkat mikro dan tergolong analisis
+berbasis green chemistry karena minimalnya penggunaan pelarut organik.
+Mikroekstraksi digolongkan menjadi dua, yaitu ekstraksi cair-cair (liquid
+liquid extraction/LLE) dan padat-cair (solid liquid extraction/SLE). Jenis ekstraksi yang sering digunakan karena prosesnya mudah adalah LLE, yaitu pemisahan
+berdasarkan perbedaan kelarutan suatu zat dalam dua pelarut yang tidak saling
+campur. Namun ekstraksi ini memiliki beberapa kelemahan diantaranya
+membutuhkan pelarut organik yang banyak dan waktu ekstraksi yang relatif lama
+(Supriyanto, 2005). Pada penelitian ini digunakan teknik Liquid Phase
+Microextraction (LPME) yang merupakan pengembangan dari LLE dalam
+preparasi sampel karena beberapa kelebihannya diantaranya mudah, cepat, efektif
+dan berbasis green chemistry karena pelarut organik yang digunakan relatif
+sedikit. Metode analisis untuk penentuan kadar nitrosamin yang pernah dilakukan
+sebelumnya adalah teknik headspace sampling dengan solid phase
+microextraction (SPME) menggunakan instrumen gas chromatography (Andrade
+et al., 2005), SPME digabungkan dengan direct extraction device (DED)
+(Ventanas et al., 2006), dan automated solid-phase extraction serta highperformance
+liquid chromatography (HPLC) dengan detektor post-column
+photolysis (Perez-Ruiz et al., 2005). Analisis N-nitrosamin pada daging olahan
+menggunakan instrumen HPLC dengan detektor UV (HPLC-UV) secara langsung
+masih sedikit yang telah dipublikasi (Cardenes et al., 2002).
+Berdasarkan penelitian Liu et al., (2014) diperoleh informasi bahwa
+effervescence dapat dijadikan sebagai salah satu pengembangan metode LPME
+dalam preparasi sampel. Effervescence merupakan reaksi untuk menghasilkan
+karbon dioksida yang selanjutnya membantu proses dispersi dari pelarut ekstrak
+tanpa adanya penambahan energi lain. Asam sitrat dan natrium bikarbonat dapat
+digunakan sebagai bahan tablet effervescence yang dapat memproduksi karbon dioksida lebih banyak (Liu et al., 2014). Penerapan effervescence-LPME pada
+penelitian Liu et al., (2014) untuk penentuan lima herbisida triazine pada sampel
+air menunjukkan limit deteksi yang rendah dan presisi yang tinggi. Metode
+effervescence-LPME sesuai untuk analisis senyawa dengan konsentrasi yang
+sangat kecil (ppm hingga ppb) seperti senyawa golongan nitrosamin (Jurado-
+Sanchez et al., 2007).
+Berdasarkan uraian di atas maka pada penelitian ini dipelajari metode
+analisis hasil ekstrak senyawa nitrosamin yaitu NDEA menggunakan metode
+effervescence-LPME dengan instrumen HPLC-UV-Vis. Pada metode
+effervescence-LPME dispersi analit dibantu oleh karbon dioksida yang dihasilkan
+ketika tablet effervescence dilarutkan dalam air yang mengandung analit (Lasarte-
+Aragones et al., 2011). Sampel yang digunakan untuk aplikasi metode pada
+penelitian ini adalah bandeng asap dengan dua merk berbeda. Optimasi yang
+dilakukan meliputi volume pelarut organik, komposisi penyusun tablet dan pH
+larutan umpan. Selanjutnya dilakukan validasi metode meliputi limit deteksi,
+akurasi, presisi, recovery, dan faktor pemekatan (enrichment factor).
+1.2. Rumusan Masalah
+Berdasarkan latar belakang yang telah diuraikan, maka dapat dirumuskan
+masalah sebagai berikut.
+1. Berapakah volume pelarut organik, perbandingan komposisi tablet dan pH
+larutan optimum pada analisis senyawa NDEA secara HPLC-UV-Vis
+melalui ekstraksi menggunakan teknik effervescence-LPME? 
+
+2. Bagaimana validitas metode analisis senyawa NDEA secara HPLC-UVVis
+menggunakan teknik effervescence-LPME meliputi limit deteksi,
+akurasi, presisi dan recovery serta faktor pemekatan (enrichment factor) ?
+3. Berapakah kadar NDEA dalam sampel bandeng asap yang dianalisis
+secara HPLC-UV-Vis melalui ekstraksi menggunakan teknik
+effervescence-LPME ?
+1.3. Tujuan Penelitian
+Tujuan penelitian yang dilakukan ini adalah sebagai berikut.
+1. Mengetahui volume pelarut organik, perbandingan komposisi tablet dan
+pH larutan optimum pada analisis senyawa NDEA secara HPLC-UV-Vis
+melalui ekstraksi menggunakan teknik effervescence-LPME
+2. Menentukan validitas metode analisis senyawa NDEA secara HPLC-UVVis
+menggunakan teknik effervescence-LPME meliputi limit deteksi,
+akurasi, presisi dan recovery serta faktor pemekatan (enrichment factor)
+3. Menentukan kadar NDEA dalam sampel bendeng asap yang dianalisis
+secara HPLC-UV-Vis melalui ekstraksi menggunakan teknik
+effervescence-LPME.
+1.4. Manfaat Penelitian
+Penelitian ini diharapkan dapat menghasilkan suatu metode preparasi
+sampel yang mudah, sederhana, efektif, dan efisien untuk analisis senyawa NDEA
+dalam produk bandeng asap. Disamping itu diharapkan metode ini dapat
+diaplikasikan pada food monitoring safety serta diharapkan dapat bermanfaat
+sebagai referensi untuk penelitian-penelitian selanjutnya.

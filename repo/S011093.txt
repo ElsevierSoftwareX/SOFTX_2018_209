@@ -1,0 +1,704 @@
+﻿DETERMINAN RISIKO SISTEMATIS DAN KINERJA SAHAM PADA SEKTOR
+INDUSTRI BARANG KONSUMSIDI BURSA EFEK INDONESIA
+
+
+Abstrak. Penelitian ini bertujuan untuk mengetahui seberapa besar pengaruh rasio
+fundamental, rasio pasar, kinerja bisnis dan makro ekonomi terhadap risiko sistematiks dan
+berdampak pada kinerja saham pada sektor industri barang konsumsi di bursa efek Indonesia.
+Data yang digunakan adalah data dokumentasi dengan melihat laporan keuangan perusahan
+yang termasuk dalam sektor barang konsumsi dan terdaftar di bursa efek Indonesia selama
+periode tahun 2010 sampai dengan tahun 2014. Metode sampling yang digunakan adalah
+purposive sampling. Dari populasi 37 perusahaan, 16 perusahaan memenuhi kriteria menjadi
+sampel. Metode analisis yang digunakan dalam penelitian ini adalah partial least square
+(PLS). Hasil penelitian menunjukan bahwa rasio fundamental dan rasio pasar berpengaruh
+terhadap risiko sistematik, sedangkan kinerja bisnis dan makro ekonomi tidak berpengaruh
+terhadap risiko sistematik. Rasio fundamental , rasio pasar, dan kinerja bisnis tidak
+berpengaruh terhadap kinerja saham, sedangkan makro ekonomi berpengaruh terhadap
+kinerja saham. Rasio fundamental , rasio pasar, kinerja bisnis dan makro ekonomi melalui
+risiko sistmetis tidak signifikan terhadap kinerja saham.
+Kata kunci: Kinerja bisnis, Kinerja saham, Makro ekonomi, Partial least square, Rasio
+fundamental, Rasio pasar, Risiko sistematis
+
+
+PENDAHULUAN
+Kegiatan investasi merupakan suatu kegiatan menempatkan dana pada satu atau lebih
+aset selama periode tertentu dengan harapan dapat memperoleh pendapatan atau peningkatan
+atas nilai investasi awal (modal) yang bertujuan untuk memaksimalkan hasil (return) yang
+diharapkan dalam batas risiko yang dapat diterima untuk setiap investor. Return merupakan
+salah satu faktor yang memotivasi investor berinvestasi dan juga merupakan imbalan atas
+keberanian investor menganggung risiko atas investasi yang dilakukan, sedangkan risiko
+sistematis atau dikenal dengan risiko pasar merupakan risiko yang berkaitan dengan
+perubahan yang terjadi di pasar secara keseluruhan. Perubahan pasar tersebut akan
+mempengaruhi variabilitas return suatu investasi (Tandelilin, 2010). Keuntungan atau
+kerugian yang dialami investor sangat dipengaruhi oleh kemampuan seorang investor dalam
+menganalisis keadaan harga saham. Dalam menanamkan sahamnya, investor akan melihat
+kinerja saham yang bernilai positif sehingga dapat memperolehkeuntungan yang sebesarbesarnya.
+Oleh karena itu diperlukan berbagai jenis informasi relevan yang mampu
+menggambarkan kinerja saham perusahaan yang dapat digunakan investor untuk mengambil
+keputusan investasinya. Kinerja saham dapat dilihat dari perkembangan indeks saham
+sektoral di bursa efek Indonesia. Pertumbuhan indeks saham sektoral di Bursa Efek Indonesia
+(BEI) dapat terlihat pada Gambar 1.
+Gambar 1.Indeks Saham Sektoral
+Sumber : Bursa Efek Indonesia (2015)
+Gambar 1 menunjukkan sektor barang konsumsi mengalami peningkatan yang
+konsisten dibandingkan pada sektor lain. Hal tersebut menandakan bahwa saham barang
+konsumsi diminati oleh investor dan dapat dijadikan pertimbangan investor untuk berinvestasi
+dan mendapatkan keuntungan.
+Kondisi makro Indonesia saat ini ditengarai inflasi mengalami fluktuatif serta nilai
+rupiah menurun terhadap dolar Amerika, akan meningkatan risiko kenaikan harga, bukan
+hanya barang-barang konsumsi impor, namun juga barang-barang konsumsi yang diproduksi
+di dalam negeri, tetapi sebagian besar alat-alat produksinya, terutama bahan bakunya
+didapatkan dari impor. Dengan demikian diduga faktor internal dan faktor eksternal perusahaan berpengaruh terhadap pertumbuhan sektor Industri barang konsumsi, dan hal itu
+juga yang menjadi pertimbangan para investor dalam menanamkan sahamnya.
+Rusliatiet al. (2011) mengungkapkan bahwa faktor makro ekonomi adalah faktor
+fundamental makro ekonomi yang berpotensi untuk meningkatkan dan menurunkan risiko
+sistematis atau risiko pasar. Menurut Hutauruk et al (2014)Kondisi keuangan
+jugadapatmemprediksikondisiportofoliosaham,dalam hal inikhususnyarisiko sistematis
+danreturnsaham. Faktor internal yaitu kondisi keuangan dan eksternal yaitu makro ekonomi
+digunakan pada penelitian ini dengan menggunakan obyek industri barang konsumsi pada
+periode 2010-2014.
+Dengan mengacu kepada penelitian yang pernah dilakukan oleh Hutauruk et al (2014)
+mengenai risiko sistematis dan return saham, maka penelitian ini dilakukan dengan
+menggunakan variabel eksogen yaitu rasio fundamental dengan menggunakan indikator CR,
+TATO, DER, and TDA, rasio pasar menggunakan PBV, PER, and EPS. Kinerja bisnis
+dengan menggunakan ROA, ROE, and NPM, dan faktor makro yang digunakan adalah
+inflasi, BI rate dan nilai tukar. Sedangkan variabel endogen adalah risiko sistematis (beta) dan
+kinerja saham (return saham).
+
+
+KAJIAN TEORI
+Rasio keuangan dapat membantu investor membuat keputusan dan memprediksi
+kinerja perusahaan dimasa depan. Ini juga dapat memberikan peringatan dini pada kondisi
+keuangan perusahaan (Ohlson, 1980). Rasio menggambarkan hubungan atau pertimbangan
+(mathematical relationship) antara suatu jumlah tertentu dengan jumlah yang lain dan dengan
+menggunakan alat analisis berupa rasio ini akan dapat menjelaskan atau memberi gambaran
+kepada penganalisa tentang baik atau buruknya keadaan atau posisi keuangan suatu
+perusahaan (Munawir, 2007).
+Rasio Fundamental terhadap Risiko sistematis (Beta). Penelitian Fidiana
+(2010)menggunakan variabel DER dan menemukan bahwa DER memberikan hasil positif
+dan signifikan terhadap beta saham. Berbeda dengan hasil penelitian Rachmawati (2011) yang
+menemukan DER tidak berpengaruh signifikan terhadap beta saham. Lain halnya dengan
+Nova (2013) yang menemukan DER berpengaruh positif tetapi tidak signifikan terhadap beta
+saham. Selanjutnya Soeroso (2013) menemukan bahwa CR, DER, TATO berpengaruh
+signifikan terhadap risiko sistematis. Hutauruket al. (2014) menemukan bahwa bahwa risiko
+fundamental yang diwakili oleh variabel CR, DER, NPM, TATO, dan TDA tidak
+berpengaruh secara signifikan terhadap risiko sistematis.
+Kinerja Bisnis terhadap Risiko sistematis (Beta). Rachmawati (2011) menggunakan
+ROAdengan metode regresi menghasilkan bahwa ROA berpengaruh signifikan terhadap beta
+saham. Sementara Rowe (2012) menemukan bahwa ROA padaIndustrikasino
+tidakberpengaruhsignifikanterhadaprisikosistematis. Penelitian Nova (2013) menghasilkan
+bahwa ROE memberikan pengaruh signifikan positif terhadap beta saham.Penelitian yang
+dilakukakan Hutauruk et al. (2014) menghasilkan bahwa business performance, dalam hal ini
+diwakili oleh ROA, ROE dan ROI, secara signifikan mempengaruhi risiko sistematispada
+saham.Penelitian yang dilakukan oleh Kusuma (2015) dengan menggunakan variabel profitabilitas, menghasilkan bahwa variabel profitabilitas berpengaruh signifikan terhadap
+risiko pada perusaan perbankan tahun 2010-2013 dengan arah hubungan positif.
+Rasio Pasar terhadap Risiko sistematis (Beta). Fidiana (2010) dalam penelitiannya
+mendapatkan bahwa EPS berpengaruh positif tetapi tidak signifikan terhadap beta saham
+namun PER dan PBV berpengaruh negatif dan signifikan terhadap beta saham.Biase et al.
+(2012) menggunakanvariabel EPS menghasilkanbahwaEPS berpengaruh negatif
+signifikanterhadaprisikosistematis. Penelitian yang dilakukan oleh Hutauruket al. (2014)
+menemukan bahwa rasio pasar yang terdiri dari EPS, PBV dan PER tidak memiliki pengaruh
+yang signifikan terhadap risiko sistematis. Hutauruk et al. (2014) menyatakan bahwa hasil
+penelitian tersebut diperoleh karena selama periode 2010 - 2013 kondisi ekonomi
+diklasifikasikan sebagai cukup lemah dan mempengaruhi kondisi pasar menjadi saham
+bearish. Inflasi pada saat itu cenderung meningkat sampai akhir periode. Nilai tukar Rupiah
+juga cenderung menurun dan USD meningkat lebih dan lebih, serta Bank Indonesiacenderung
+meningkatkan bunga(SBI).
+Ekonomi Makro terhadap Risiko Sistematis (Beta). Penelitian Sudiyatno et al. (2009)
+menemukan bahwa inflasi, tingkat bunga, kurs dan pertumbuhan ekonomi mempengaruhi
+risiko sistematis. Hasil penelitian ini memberikan pemahaman empiris bagi manajemen
+bahwa jika pertumbuhan ekonomi naik, maka risiko sistematis juga naik. Hasil tersebut
+berbeda dengan Fidiana (2010) yang menghasilkan bahwa inflasi berpengaruh negatif dan
+tidak signifikan terhadap beta saham.
+Rasio Fundamental terhadap Return Saham. Hernendiastoro (2005) dalam penelitiannya
+menghasilkan bahwa CR, DER, tidak berpengaruh terhadap return saham.Chairatanawan
+(2008) menggunakan current ratio, liquid ratio, long term debt paying (ability gearing ratio,
+debt to equity, interest coverage), menghasilkan tidak ada pengaruh rasio tersebut terhadap
+return saham dengan metode ordinary least square regression model (OLS). Penelitian
+Martani et al. (2009) menggunakan 2 ukuran return yaitu cumulative market adjusted return
+dan cumulative abnormal return dengan metode regresi menghasilkan temuan bahwa DER
+memiliki pengaruh positif. Sedangkan CR, TATO, memiliki pengaruh negatif. Menggunakan
+variabel abnormal returnditemukan bahwa semua variabel kecuali TATO memiliki korelasi
+negatif. Variabelyang menghasilkan pengaruh signifikan yang konsisten terhadapadjusted
+returndanabnormal returnadalahTATO. Prihantini (2009) menemukan DER berpengaruh
+negatif terhadap return saham, sedangkan CR berpengaruh positif terhadap terhadap return
+saham.
+Arista et al. (2012) menemukan bahwa DER memiliki pengaruh terhadap return
+saham. Penelitian ini serupa dengan penelitian Thim et al. (2012) di bursa Malaysiadari 2003
+hingga2007.Penelitian Budialim (2013) menghasilkan bahwa CR dan DER berpengaruh tapi
+tidak signifikan terhadap return saham. Sementara Nidianti (2013) menemukan DER terbukti
+berpengaruh positif dan signifikan terhadap return saham. Khan et al. (2013) menghasilkan
+bahwa debt to equity ratio, berpengaruh positif terhadap return saham. Kebriaee-zadeha et al.
+(2013) menggunakan variabel CR menghasilkan bahwa faktor ekonomi dan fundamental
+tersebut berpengaruh terhadap retun saham. Penelitian Hutauruk et al. (2014) menggunakan
+variabel eksogen Fundamental ratio dengan menggunakan indikator CR, TATO, NPM, DER,
+and TDA menghasilkan bahwa risiko fundamental yang diwakili oleh variabel CR, DER, NPM, TATO, dan TDA tidak berpengaruh secara signifikan terhadap return saham.
+Penelitian Acheampong et al. (2014) menghasilkan bahwa DER memiliki hubungan
+signifikan terhadap return saham.
+Selanjutnya Sutriani (2014) menemukan bahwa DER berpengaruh signifikan terhadap
+return Saham. Ketika nilai tukar yang digunakan sebagai variabel moderasi, ditemukan
+bahwa nilai tukar tersebut tidak memoderasi variabel pada return saham.Dalam penelitian
+Purnamaningsih et al. (2014) ditemukan bahwa DER berpengaruh signifikan terhadap return
+saham dan GCG tidak mampu memoderasi pengaruh DER terhadap return saham. Penelitian
+Fathimah (2014) menggunakan TATO, DER, CR, menghasilkan bahwa TATO memberikan
+pengaruh positif yang signifikan terhadap return saham, CR memberikan pengaruh negatif
+yang signifikan terhadap return saham, sedangkan untuk DER tidak berpengaruh dan
+signifikan terhadap return saham.
+Kinerja Bisnis terhadap Return Saham. Hernendiastoro(2005)menghasilkan bahwa ROA
+berpengaruh terhadap return saham. Hal tersebut berbeda dengan Chairatanawan (2008) yang
+menemukan bahw ROE dan ROA tidak ada hubungannya dengan return saham.Suharli
+(2006) menghasilkan bahwa return on equity tidak mempengaruhi return saham secara
+signifikan.Penelitian yang dilakukan Martani et al. (2009) menemukan bahwa NPM dan ROE
+memiliki pengaruh positif terhadap market adjusted return. VariabelNPM danROE juga
+menghasilkan pengaruh signifikan yang konsisten terhadapadjusted returndanabnormal
+return. Hal tersebut serupa dengan hasil penelitianPrihantini (2009) yang menemukan bahwa
+ROA berpengaruh positif terhadap terhadap return saham.
+Penelitian Lingga et al. (2012) menemukan bahwa ROA dan ROE memiliki hubungan
+yang signifikan dengan return saham. Hasil tersebut serupa dengan penelitian Fidhayatin et
+al. (2012) dalam analisinya menghasilkan bahwa ROE berpengaruh terhadap return saham.
+berbeda dengan Lingga et al. (2012) danFidhayatin et al. (2012), hasil pada penelitianArista
+et al. (2012) menemukan bahwa ROA tidak memiliki pengaruh terhadap return saham.
+Thim et al. (2012) menggunakan variabel ROA, ROE, DER, NPM dan EPS,. Hasil
+penelitian menunjukkan bahwaROA, ROE, danEPS memilikipengaruhsignifikanterhadap
+kinerja sahamproperti. Penelitian Chambers et al. (2013) menggunakan variabel ROE
+menghasilkan bahwa pada periode1994-2010, sub-periode tahun 1994-2002dansubperiodetahun
+2003-2010 ROE tidak memiliki pengaruh signifikan terhadap return saham.
+Penelitian Budialim (2013) menghasilkan bahwa ROA dan ROE berpengaruh tapi tidak
+signifikan terhadap return saham. Hasil tersebut berbeda dengan Nidianti (2013) yang
+menemukan bahwa ROA terbukti tidak berpengaruh signifikan dan negatif terhadap return
+saham. Sedangkan Khan et al. (2013) ROEberpengaruh positif terhadap return saham.
+Penelitian Hutauruk et al. (2014) menggunakan indikator variabel kinerja bisnis
+ROA, ROE, dan ROI. Ditemukan bahwa indikator tersebut tidak berpengaruh signifikan
+terhadap return saham. Hasil tersebut berbeda dengan Sutriani (2014) yang meemukan bahwa
+ROA berpengaruh signifikan terhadap return saham, dan nilai tukar yang digunakan tidak
+memoderasi pengaruh variabel tersebut terhadap return saham. Sementara penelitian
+Purnamaningsih et al. (2014) menemukan bahwa ROA tidak berpengaruh signifikan terhadap
+return saham, dan GCG tidak mampu memoderasi pengaruh ROA terhadap return saham.
+Hasil tersebut berbeda dengan penelitian Fathimah (2014) dimana ROA memberikan
+pengaruh positif yang signifikan terhadap return saham.
+
+
+
+
+
+Rasio Pasar terhadap Return Saham. Penelitian Hernendiastoro (2005) menemukan bahwa
+PER tidak berpengaruh terhadap saham. Chairatanawan (2008) menyimpulkan bahwa PBV
+tidak ada pengaruh terhadap return saham. Arista et al. (2012) menemukan bahwa EPS tidak
+memiliki pengaruh terhadap return saham, sedangkan PBV memiliki pengaruh terhadap
+return saham.
+Penelitian Thim et al. (2012) di bursa Malaysiadari tahun 2003 hingga2007
+menghasilkan kesimpulan bahwa EPS memiliki pengaruh signifikan terhadap kinerja saham.
+Penelitian ini serupa dengan hasil penelitian Khan et al. (2013) bahwa EPS berpengaruh
+positifterhadap return saham. Berbeda dengan temuan Budialim (2013) bahwa EPS
+berpengaruh tapi tidak signifikan terhadap return saham.
+Chambers et al. (2013) menemukan bahwaEPS memiliki pengaruh signifikan terhadap
+return saham pada periode 1994-2002, namun tidak pada periode 2003-2010.
+Penelitian Hutauruk et al. (2014) menggunakan variabel market ratio dengan
+indikator PBV, PER, dan EPS menghasilkan bahwa indikator tersebut tidak memiliki
+pengaruh signifikan terhadap return saham. Hasil tersebut berbeda dengan dengan penelitian
+Purnamaningsih et al. (2014) yang mengungkapkan bahwa PBV berpengaruh signifikan
+terhadap return saham. GCG tidak mampu memoderasi pengaruh PBV terhadap return
+saham. Fathimah (2014) menyimpulkan bahwa EPS memberikan pengaruh positif yang
+signifikan terhadap return saham.
+Ekonomi Makro terhadap Return Saham. Penelitian Hernendiastoro (2005) menggunakan
+variabel ekonomi makro inflasi, kurs, dan suku bunga untuk menemukan pengaruh kinerja
+perusahaan dan kondisi ekonomi terhadap return saham. Ditemukan bahwa kurs dan inflasi
+tidak berpengaruh terhadap return saham, sedangkan suku bunga berpengaruh. Penelitian
+Prihantini (2009) menemukan bahwa inflasi dan nilai tukar berpengaruh negatif terhadap
+return saham.Rjoub et al. (2009) dalam penelitianya menunjukkan bahwa ada hubungan
+signifikan antara makro ekonomi seperti inflasi, suku bunga dengan return saham.
+Rusliatiet al. (2011) menemukan bahwa inflasi berpengaruh negatif terhadap return
+saham, berbeda dengan Nidianti (2013) yang menyimpulkan bahwa inflation rate
+berpengaruh positif signifikan terhadap return saham. Fathimah (2014) menggunakan
+variabel bebas inflasi, kurs, BI Rate, cadangan devisa dan PBD. Ditemukan bahwa Inflasi
+memberikan pengaruh negatif yang signifikan terhadap return saham, Kurs berpengaruh
+positif signifikan, BI rate dan Cadangan devisa tidak berpengaruh signifikan, sementara PDB
+berpengaruh positif tidak signifikan terhadap return saham. Selanjutnya Sugianto (2015)
+menemukan bahwa inflasi dan nilai tukar USD berpengaruh positif dan signifikan terhadap
+return saham.
+Risiko Sistematis (Beta) terhadap Return Saham. Penelitian Suharli (2006) menyimpulkan
+bahwa beta saham tidak mempengaruhi return saham secara signifikan. Menurut Suharli
+kondisi politik yang ditandai 3 kali pergantian presiden dan 1 kali pemilu, dalam periode
+penelitiannya, turut mempengaruhi kondisi perekonomian yang menjadikan hasil penelitian
+menolak hipotesis yang dibangun dari penelitian sebelumnya. Budialim (2013) menemukan
+bahwa beta berpengaruh signifikan terhadap return saham. Hasil penelitian Hutauruk et al.
+(2014) menunjukkan bahwa risiko sistematis berpengaruh terhadap return saham.
+
+
+
+METODE
+Berdasarkan teori dan hasil-hasil penelitian terdahulu tersebut, penelitian ini
+menggunaan indikator CR, TATO, DER, and TDA sebagai variabel fundamental; PBV, PER,
+dan EPS untuk Rasio Pasar; ROA, ROE, dan NPM untuk Kinerja Bisnis, serta Inflasi, BI rate,
+dan nilai tukar sebagai faktor makroekonomi. Variabel endogen adalah beta dan return
+saham, sehingga hipotesis yang diajukan adalah:
+H1 :Rasio Fundamental, Rasio Pasar, Kinerja Bisnis, Makro Ekonomi berpengaruh Signifikan
+terhadap Risiko Sistematis (Beta)
+H2 : Rasio Fundamental, Rasio Pasar, Kinerja Bisnis, Makro Ekonomi Berpengaruh
+Signifikan terhadap Kinerja Saham
+H3 : Rasio Fundamental, Rasio Pasar, Kinerja Bisnis dan ekonomi makro Berpengaruh
+Signifikan terhadap KinerjaSaham melalui Risiko Sistematis
+Operasionalisasi variabel penelitian disajikan pada Tabel 1. Data fundamental
+perusahaan diperoleh dari Laporan Keuangan perusahaan yang diperoleh dari Bursa Efek
+Indonesia. Data statistik ekonomi makro diperoleh dari situs resmi Bank Indonesia. Populasi
+penelitian adalah seluruh perusahaan di sektor barang konsumsi. Sampel adalah perusahaan
+yang memenuhi kriteria:(a) sudah go public sejak tahun 2009 (b) Saham Perusahaan aktif
+dalam perdagangan selama periode 2010 sampai 2014 (c) Perusahaan menerbitkan laporan
+keuangan pada periode 2010 sampai 2014. (d) Perusahaan memiliki laba positif pada tahun
+2010 sampai 2014.
+
+
+Tabel 1. Operasional Variabel
+Indikator Simbol Pengukuran Skala
+Current Ration CR
+Curre nt Asset
+Rasio
+Curre nt Liabilitas
+Total Asset Turnover TATO
+Sales
+Rasio
+Total Asset
+Debt to equity Ratio DER
+Total Liabilitas
+Rasio
+Total Equity
+Total Debt to Asset TDA
+Total Hutang
+Rasio
+Total Asset
+Price to Book Value PBV
+Harga Pasar
+Rasio
+Nilai Buku
+Price to Earning Ratio PER
+Harga Saham
+Rasio
+Laba Saham
+Earning Per Share EPS
+EAT
+Rasio
+Jumlah saham beredar
+Return on Asset ROA
+Net In come
+Rasio
+Total Asset
+Return on Equity ROE
+Net In come
+Rasio
+Total Equity
+Net Profit Margin NPM
+Net In come
+Rasio
+Penju alan
+Beta β αi + βiR m + ei Rasio
+Return
+RSHM
+Pt-Pt-1
+Pt-1 Rasio
+
+
+
+
+
+
+
+
+
+
+
+
+
+Partial Least Square (PLS). Penelitian ini menggunakan alat analisis Partial Least Square
+(PLS). PLS adalah salah satu metode statistika SEM berbasis varian. Menurut Tenenhaus et
+al. (2005), PLS merupakan alat yang handal untuk menguji model prediksi karena memiliki
+keunggulan untuk memprediksi model dengan landasan teori yang lemah, dapat digunakan
+pada data yang tidak memenuhi asumsi klasik (tidak berdistribusi normal, terdapat
+multikolinearitas, dan masalah autokorelasi), dapat digunakan untuk ukuran sampel kecil, dan
+dapat digunakan untuk konstruk formatif dan reflektif. Analisis pertama dilakukan untuk
+menilai model pengukuran (outer model), kemudian dilanjutkan dengan menilai hasil model
+struktural (inner model).
+Penelitian menggunakan alat bantu software SmartPLSver.3.0. Model penelitian
+disajikan pada Gambar 2.
+Evaluasi model pengukuran atau outermodel. Evaluasi model pengukuran atau outermodel
+dilakukan untuk menilai outer loading setiap indikator pada masing-masing variabel laten.
+Nilai yang dapat digunakan untuk validasi danreliabilitas adalah jika nilai average variance
+extracted (EVA) lebih dari 0.5 dan Composite Reliability harus lebih besar atau sama dengan
+0.7. Uji model pada penelitian ini dilakukan terhadap 13 indikator yang membentuk 4
+variabel laten yaitu rasio fundamental, rasio pasar.
+kinerja bisnis, dan makro ekonomi. Indikator pada penelitian ini bersifat refleksif yaitu
+indikator yang bersifat manifestasi terhadap konstruk yang mengasumsikan bahwa variance
+di dalam pengukuran score variabel laten merupakan fungsi dari true score ditambah dengan
+error.
+
+
+
+
+
+
+
+
+
+
+Evaluasi model struktural atau innermodel. Kecocokan model struktural dengan PLS
+didasarkan pada nilai R-squares untuk setiap variabel laten endogen yang menunjukkan
+kekuatan prediksi model struktural. Disamping besarnya nilai R-squares, evaluasi model PLS
+dapat didasarkan pada Ǫ2 predictive relevance. Perhitungan Q-square dilakukan dengan:
+
+r:...
+
+Nilai Ǫ2> 0 menunjukkanbahwa model mempunyai predictive relevance,
+sedangkannilai Ǫ2< 0 menunjukkanbahwa model kurangmemilikipredictive relevance.
+Selanjutnyaevaluasi model dilakukandenganmelihat nilaisignifikansi. Nilaisignifikan yang
+digunakan pada penelitian ini adalah 1.96 (signifikan level = 5%).
+
+
+HASIL DAN PEMBAHASAN
+Hasil Uji Model Pengukuran (Outer Model). Uji model pengukuran terhadap 13 indikator
+yang membentuk 4 variabel laten menghasilkan outer loading masing-masing variabel laten
+disajikan pada output berikut ini.
+Rasio Fundamental. Hasil outer loading rasio fundamental dengan menggunakan indikator
+CR, DER, TATO dan TDA, disajikan pada Tabel 2.
+
+
+Tabel 2. Hasil Pengukuran Model Pengukuran Rasio Fundamental
+Uraian Outer Loading Keterangan
+TDA <- RFM 0,960 Valid
+TATO <- RFM 0,275 Tidak Valid
+CR <- RFM -0,882 Tidak Valid
+DER <- RFM 0,902 Valid
+
+
+Tabel 2 menunjukkan TATO dan CR memiliki nilai outer loading di bawah 0,50.
+Dengan demikian indikator TATO dan CR dikeluarkan dari model. Selanjutnya model di
+iterasi kembali dengan mengeluarkan indikator TATO dan CR. Hasil outer loading tersebut
+dapat dilihat pada Tabel 3.
+
+
+Tabel 3. Hasil Pengukuran Model Pengukuran Rasio Fundamental
+Uraian Outer Loading Critical Ratio P Values Keterangan
+TDA <- RFM 0,993 441,744 0,000 Valid
+DER <- RFM 0,992 718,921 0,000 Valid
+Composite Reliability 0,993 Reliabel
+Average Variance Extracted (AVE) 0,986 Reliabel
+Sumber : Pengolahan data dengan PLS
+
+
+Tabel 3 menunjukkan bahwa semua indikator telah valid, karena semua factor loading
+bernilai > 0,50. Nilai critical ratio masing-masing indikator lebih besar dari t-tabel 1.96 dan
+nilai probabilitas di bawah nilai signifikan 0,05 sehingga indikator-indikator tersebut valid.
+Nilai composite reliability sebesar 0,993 lebih dari 0,7. Nilai average variance extracted (AVE) sebesar 0,986 lebih dari 0,5. Dapat disimpulkan bahwa semua dimensi rasio
+fundamental tersebut reliabel dalam mengukur konstruknya.
+Rasio Pasar. Score korelasi indikator dengan score konstruk variabel rasio pasar
+menggunakan indikator EPS, PBV dan PER. Hasil uji outer loading disajikan pada Tabel 4.
+
+
+Tabel 4. Hasil Pengukuran Model Pengukuran Rasio Pasar
+Uraian Outer Loading Keterangan
+EPS <- PSR 0,953 Valid
+PBV <- PSR 0,469 Valid
+PER <- PSR 0,120 Valid
+
+
+Dapat dilihat bahwa nilai korelasi PER memiliki nilai estimasi di bawah 0,50,
+sehingga indikator PER dikeluarkan dari model. Selanjutnya model di-iterasi kembali tanpa
+indikator PER. Hasil outer loading tersebut dapat dilihat pada Tabel 5.
+
+
+Tabel 5. Hasil Pengukuran Model Pengukuran Rasio Pasar
+Uraian Outer Loading Critical Ratio P Values Keterangan
+EPS <- PSR 0,956 8,782 0,000 Valid
+PBV <- PSR 0,548 2,884 0,004 Valid
+Composite Reliability 0,742 Reliabel
+Average Variance Extracted (AVE) 0,607 Reliabel
+Sumber: Pengolahan data dengan PLS
+
+
+Tabel 5 menunjukkan bahwa semua indikator telah valid, karena semua factor loading
+berada di atas 0,50. Indikator variabel rasio pasar yang paling dominan adalah EPS yaitu
+sebesar 0,956. Nilai critical ratio masing-masing indikator lebih besar dari t-tabel 1.96 dan
+nilai probabilitas di bawah 0,05. Nilai composite reliability sebesar 0,742 lebih dari 0,7. Nilai
+average variance extracted (AVE) sebesar 0,607 lebih dari 0,5. Dapat disimpulkan bahwa
+semua dimensi rasio pasar tersebut reliabel dalam mengukur konstruknya.
+Kinerja Bisnis. Kinerja bisnis menggunakan indikator ROA, ROE dan NPM. Score korelasi
+antara indikator dengan score konstruknya disajikan pada Tabel 5. Output olah data
+menunjukkan bahwa semua indikator telah valid, karena semua factor loading berada di atas
+0,50. Indikator yang paling dominan dalam variabel kinerja saham adalah NPM (sebesar
+0,871). Nilai critical ratio masing-masing indikator lebih besar dari t-tabel 1.96 dan nilai
+probabilitas dibawah nilai signifikan 0,05 sehingga indikator-indikator tersebut valid. Nilai
+composite reliability sebesar 0,868 lebih dari 0,7. Nilai average variance extracted (AVE)
+sebesar 0,687 lebih dari 0,5. Dengan demikian semua dimensi kinerja bisnis tersebut reliabel
+dalam mengukur konstruknya.
+
+
+
+
+
+
+
+
+Tabel 6. Hasil Pengukuran Model Pengukuran Kinerja Bisnis
+Uraian Outer Loading Critical Ratio P Values Keterangan
+NPM <- KBS 0,871 16,399 0,000 Valid
+ROA <- KBS 0,759 4,936 0,000 Valid
+ROE <- KBS 0,852 10,976 0,000 Valid
+Composite Reliability 0,868 Reliabel
+Average Variance Extracted (AVE) 0,687 Reliabel
+Sumber: Pengolahan data dengan PLS
+
+
+Makro Ekonomi. Variabel makro ekonomi menggunakan indikator BI rate, inflasi dan kurs.
+Score korelasi antara indikator dengan score konstruknya disajikan pada Tabel 7. Dapat
+dilihat bahwa semua indikator telah valid, karena semua factor loading >0,50. Indikator yang
+dominan adalah BI rate yaitu sebesar 0,984. Nilai critical ratio masing-masing indikator lebih
+besar dari t-tabel 1.96 dan nilai probabilitas di bawah nilai signifikan 0,05 sehingga indikatorindikator
+tersebut valid. Nilai composite reliability sebesar 0,969 lebih dari 0,7. Nilai AVE
+sebesar 0,913 lebih dari 0,5. Dapat disimpulkan bahwa semua dimensi makro ekonomi
+tersebut reliabel dalam mengukur konstruknya.
+
+
+Tabel 7. Hasil Pengukuran Model Pengukuran Makro Ekonomi
+Uraian Outer Loading Critical Ratio P Values Keterangan
+Bi Rate <- MEI 0,984 25,049 0,000 Valid
+Inflasi <- MEI 0,918 17,943 0,000 Valid
+Kurs <- MEI 0,963 20,997 0,000 Valid
+Composite Reliability 0,969 Reliabel
+Average Variance Extracted (AVE) 0,913 Reliabel
+
+
+Evaluasi Pengujian Model Struktural (Inner Model). Pengujian terhadap model struktural
+dilakukan dengan melihat nilai R-square. Nilai R-square pada penelitian ini dapat dilihat
+pada Tabel 8.
+
+
+
+Tabel 8. Nilai R-square Variabel Endogen
+R- Square
+Kinerja Saham 0,108
+Risiko Sistematis 0,199
+
+
+Ditemukan bahwa nilai prediksi untuk kinerja saham sebesar 0,108 atau 10,8 % dan
+untuk risiko sistematis sebesar 0,199 atau 19,9 % yang berarti bahwa model ini mampu
+menjelaskan fenomena risiko sistematis sebesar 19,9 % dan kinerja saham sebesar 10,8 %,
+sisanya dijelaskan oleh variabel lain yang belum dimasukan ke dalam model. Sedangkan
+evaluasi untuk model struktural (inner model) diukur dengan menggunakan nilai relevansi
+predictive (Q2). Nilai predektif relevansi dihitung dengan menggunaan rumus sebagai berikut.
+r:...
+
+
+
+Q2 = 1 (1-0,1082) (1-0,1992 ) = 0.286
+
+
+Nilai prediksi relevansi pada penelitian ini adalah 0.286. Berarti model memiliki
+prediktif relevansi karena memiliki nilai lebih dari 0 dan mampu menjelaskan fenomena
+kinerja saham sebesar 28,6 % sedangkan 71,4% tersisa dijelaskan oleh variabel lain yang
+belum dimasukan ke dalam model.
+Tabel 9. menunjukkan bahwa rasio fundamental memiliki pengaruh positif dengan
+koefisien sebesar 0,215 dan signifikan terhadap risiko sistematis dengan nilai t-statistik 2.410.
+Rasio pasar memiliki pengaruh negatif dengan koefisien sebesar 0,301 dan signifikan
+terhadap risiko sistematis dengan nilai t-statistik 2,041. Kinerja bisnis memiliki pengaruh
+negatif dengan koefisien -0,031 namun tidak signifikan karena nilai t-statistik yang dihasilkan
+yaitu 0,311. Makro ekonomi memiliki pengaruh positif terhadap risiko sistematis dengan
+koefisien sebesar 0,141 namun tidak signifikan (nilai t-statistik yang dihasilkan 1,598).
+
+
+
+
+
+
+
+Tabel 9. Hasil Pengujian Hipotesa
+Variabel Eksogen <-
+Variabel Endogen
+Original
+Sample (O)
+T Statistics (T
+Critical = 1,96)
+P Values
+(5%)
+Remark
+Rasio Fundamental -
+> RisikoSistematik
+0.215 2.410 0.016 Signifikan
+RasioPasar ->
+RisikoSistematik
+-0.301 2.041 0.041 Signifikan
+KinerjaBisnis ->
+RisikoSistematik
+-0.031 0.311 0.756 Tidak Signifikan
+Makroekonomi ->
+RisikoSistematik
+0.141 1.598 0.110 Tidak Signifikan
+Rasio Fundamental -
+> KinerjaSaham
+-0.049 0.700 0.484 Tidak Signifikan
+RasioPasar ->
+KinerjaSaham
+-0.159 1.116 0.265 Tidak Signifikan
+KinerjaBisnis ->
+KinerjaSaham
+0.315 1.733 0.083 Tidak Signifikan
+Makroekonomi ->
+KinerjaSaham
+-0.225 2.317 0.021 Signifikan
+RisikoSistematik ->
+KinerjaSaham
+0.186 1.373 0.170 Tidak Signifikan
+
+
+
+
+
+
+Rasio fundamental memiliki pengaruh negatif terhadap kinerja saham dengan
+koefisien sebesar 0,301 namun tidak signifikan (nilai t-statistik 0,700). Rasio pasar memiliki
+pengaruh negatif terhadap kinerja saham dengan koefisien sebesar 0,159 namun tidak
+signifikan (nilai t-statistik yang dihasilkan yaitu 1,116). Kinerja bisnis berpengaruh positif
+terhadap kinerja saham dengan koefisien sebesar 0,315 namun tidak signifikan (nilai tstatistik
+yang dihasilkan 1,733). Makro ekonomi memiliki pengaruh negatif terhadap kinerja
+saham dengan koefisien sebesar 0,225 dan signifikan (nilai t-statistik 2,317). Sedangkan
+Risiko Sistematis memiliki pengaruh positif terhadap kinerja saham dengan koefisien sebesar
+0,186 namun tidak signifikan (nilai t-statistik yang dihasilkan 1,373).
+Pengaruh Rasio Fundamental terhadap Risiko Sistematis. Rasio fundamental berpengaruh
+signifikan terhadap risiko sistematis. Hasil penelitian ini sama dengan hasil penelitian yang dilakukan oleh Fidiana (2010) bahwa DER memberikan pengaruh positif dan signifikan
+terhadap beta saham. Serta penelitian dari Soeroso (2013) mengukapkan bahwa CR, DER,
+TATO berpengaruh signifikan terhadap Risiko Sistematis. Hasil penelitian ini serupa dengan
+hasil penelitian Hutauruk et al. (2014) yang menemukan bahwa bahwa risiko fundamental
+yang diwakili oleh variabel CR, DER, NPM, TATO, dan TDA tidak berpengaruh secara
+signifikan terhadap risiko sistematis dan Rachmawati (2011) dalam penelitiannya
+menghasilkan bahwa DER tidak berpengaruh signifikan terhadap beta saham.
+Kondisi dimana rasio fundamental berpengaruh signifikan terhadap risiko sistematis
+menunjukkan bahwa investor apabila akan melakukan investasi jangka panjang memerlukan
+analisis fundamental, karena dalam jangka panjang kinerja dan kesehatan perusahaan akan
+berubah, dan meningkatkan risiko mendapatkan kerugian. Investor akan menilai bagaimana
+proporsi perusahaan menggunakan hutang untuk membiayai aset dan kegiatan operasional
+perusahaan. Faktor ini banyak mewarnai kebijakan perusahaan, khususnya dalam masalah
+penggunaan dana internal. Ketidakstabilan faktor-faktor internal akan menyebabkan investasi
+menjadi lebih berisiko.
+Pengaruh Kinerja Bisnis terhadap Risiko Sistematis. Kinerja bisnis tidak berpengaruh
+signifikan terhadap risiko sistematis. Hasil ini serupa dengan penelitian yang dilakukan oleh
+Rowe (2012) yang menemukan bahwa ROA tidak berpengaruh signifikan terhadap risiko
+sistematis dan Hutauruk et al. (2014) yang menghasilkan bahwa Business performance, dalam
+hal ini diwakili oleh indikator ROA, ROE, and ROI tidak signifikan mempengaruhi risiko
+sistematis pada saham. Hasil ini berbeda dengan hasil penelitian Nova (2013) yang
+menyimpulkan bahwa ROE memberikan pengaruh signifikan positif terhadap beta saham,
+serta penelitian Kusuma (2015) yang menemukan bahwa variabel profitabilitas berpengaruh
+signifikan terhadap risiko pada perusahaan perbankan tahun 2010-2013.
+Hasil penelitian ini menunjukan bahwa dalam menilai risiko sistematis, investor pada
+industri barang konsumsi belum mempertimbangkan kinerja bisnis. Hal ini menunjukkan
+bahwa investor kemungkinan menganggap bahwa laba perusahaan yang sudah go public akan
+selalu stabil, sehingga kinerja bisnis tidak berpengaruh signifikan terhadap risiko sistematis.
+Pengaruh Rasio Pasar terhadap Risiko Sistematis. Pada penelitian ini, Rasio Pasar
+berpengaruh negatif signifikan terhadap risiko sistematis. Hasil penelitian ini sejalan dengan
+penelitian Biase et al. (2012) dimana penelitiannya menyimpulkan bahwa EPS berpengaruh
+negatif signifikan terhadap risiko sistematis. Hasil peneiltian ini berbeda dengan penelitian
+Hutauruk et al. (2014) yang menemukan bahwa rasio pasar yang terdiri dari EPS, PBV dan
+PER tidak memiliki pengaruh yang signifikan terhadap risiko sistematis. Juga berbeda dengan
+Fidiana (2010) yang menyimpulkan bahwa EPS berpengaruh positif tetapi tidak signifikan
+terhadap beta saham namun sejalan bahwa PER dan PBV berpengaruh negatif dan signifikan
+terhadap beta saham.
+Pengaruh Makro Ekonomi terhadap Risiko Sistematis. Makro Ekonomi tidak berpengaruh
+signifikan terhadap risiko sistematis. Hal ini sesuai dengan Fidian (2010) yang menghasilkan
+bahwa inflasi tidak berpengaruh signifikan terhadap beta saham. Hasil berbeda didapatkan
+pada penelitian Sudiyatno et al. (2009) yang menemukan bahwa Inflasi, Tingkat bunga, Kurs,
+dan Pertumbuhan ekonomi berpengaruh signifikan terhadap risiko sistematis.
+Setiap perusahaan mengalami dampak yang berbeda dalam menghadapi kondisi makro
+ekonomi yaitu dari pergerakan inflasi, tingkat bunga, kurs dan pertumbuhan ekonomi.
+
+
+Penelitian ini menunjukkan faktor makro ekonomi tidak berpengaruh signifikan terhadap
+risiko sistematis pada industri barang konsumsi.
+Pengaruh Rasio Fundamental terhadap Kinerja Saham. Hasil peneitian menunjukkan
+rasio fundamental tidak berpengaruh signifikan terhadap kinerja saham. Penelitian ini
+menunjukkan bahwa investor tidak memperhatikan kinerja fundamental perusahaan dalam
+melakukan investasi. Hasil penelitian ini sejalan dengan penelitian Hutauruk et al. (2014)
+yang mendapatkan bahwa risiko fundamental tidak berpengaruh secara signifikan terhadap
+return saham. Hasil serupa juga didapatkan oleh Budialim (2013) yang menunjukkan bahwa
+CR dan DER tidak berpengaruh terhadap return saham. Berbeda dengan penelitian Fathimah
+(2014) yang menyimpulkan bahwa TATO dan CR berpengaruh signifikan terhadap return
+saham, juga berbeda dengan Nidianti (2013) dan Khan et al. (2013) yang menemukan bahwa
+DER berpengaruh terhadap return saham.
+Pengaruh Kinerja Bisnis terhadap Kinerja Saham. Kinerja Bisnis tidak berpengaruh
+signifikan terhadap kinerja saham. Hal ini sejalan dengan penelitian Hutauruk et al. (2014),
+Purnamaningsih et al. (2014), Budialim (2013), Chambers et al. (2013), Nidianti (2013),
+Arista et al. (2012), dan Suharli (2006) yang menemukan kinerja bisnis (ROA, ROE, dan/atau
+ROI) tidak berpengaruh signifikan terhadap return saham.
+Hasil penelitian ini berbeda dengan penelitian Martani et al. (2009), yang menemukan
+NPM dan ROE berpengaruh signifikan. Juga berbeda dengan Prihantini (2009), Fidhayatin et
+al. (2012), dan Fathimah (2014) yang menemukan bahwa ROA berpengaruh signifikan
+terhadap return saham.
+Penelitian ini menjelaskan bahwa investor perusahaan sektor industri barang konsumsi
+tidak memperhatikan kinerja bisnis perusahaan dalam mengharapkan keuntungan
+berinvestasi. Kemungkinan pertumbuhan ekonomi digunakan sebagai signal dalam
+pengambilan keputusan investasi.
+Pengaruh Rasio Pasar terhadap Kinerja Saham. Rasio pasar tidak berpengaruh signifikan
+terhadap kinerja saham. Hasil ini sesuai dengan penelitian Hutauruk et al. (2014) yang
+menggunakan variable Market ratio dan hasilnya tidak berpengaruh signifikan terhadap
+return saham. Juga serupa dengan penelitian Budialim (2013) yang menemukan bahwa EPS
+tidak berpengaruh signifikan terhadap return saham. Hasil ini juga sama dengan penelitian
+Chambers et al. (2013) pada periode 2003-2010.
+Hasil penelitian ini berbeda dengan penelitian Chambers et al. (2013) pada periode
+1994-2002. Juga berbeda dengan Khan et al. (2013) dan Fathimah (2014) dimana EPS
+berpengaruh positif terhadap return saham.
+Hutauruk et al. (2014) menjelaskan bahwa nilai buku mencerminkan nilai adaptasi
+yang mencerminkan nilai sumber bersih perusahaan dalam menggunakan alternatif ini. Selain
+itu, nilai buku mengambil peran sebagai penilai kesehatan keuangan dan mencerminkan nilai
+opsional untuk pemegang saham yang sahamnya lebih mahal dibandingkan dengan harga
+saham sejenisnya. Hal ini akan mengundang minat investor, karena investor berharap untuk
+menghasilkan return yang lebih tinggi. Oleh karena itu investor tidak memperhatikan rasio
+pasar perusahaan.
+
+
+Pengaruh Makro Ekonomi terhadap Kinerja Saham. Hasil penelitian ini menunjukkan
+faktor makro ekonomi berpengaruh signifikan terhadap kinerja saham. Hasil ini serupa
+dengan Rjoub et al. (2009), Nidianti (2013), Fathimah (2014), dan Sugianto (2015) yang
+menemukan bahwa inflasi berpengaruh terhadap return saham. Demikian juga hasil penelitian
+Halim (2013) dan Sugianto (2015) yang menemukan bahwa nilai tukar berpengaruh positif
+signifikan return saham.
+Pengaruh Rasio Fundamental, Rasio Pasar, Kinerja Bisnis dan Makro Ekonomi
+terhadap Kinerja Saham Melalui Risiko Sistematis. Hasil penelitian ini menunjukkan
+bahwa variabel eksogen yaitu rasio fundamental, rasio pasar, kinerja bisnis dan makro
+ekonomi tidak berpengaruh signifikan terhadap kinerja saham melalui risiko sistematis. Hasil
+ini sama dengan penelitian Suharli (2006) pada penelitian tentang industri food & beverages
+pada periode 2001-2004, yag menemukan bahwa risiko sistematis (Beta)tidak mempengaruhi
+return saham secara signifikan. Hasil penelitian ini berbeda dengan penelitian Hutauruk et al.
+(2014), Budialim (2013), dan Sinaee et al. (2010) dimana risiko sistematis mempengaruhi
+return saham.
+Perbedaan hasil penelitian ini dengan hasil penelitian terdahulu dimungkinkan
+karenaperbedaan periode tahun yang digunakan,kondisi perekonomian dan politik pada masa
+penelitian,serta bidang usaha perusahaan yang dijadikan sampel.
+PENUTUP
+Simpulan.Secara umum, kesimpulan dari penelitian ini adalah: 1) Rasio fundamental
+berpengaruh positif dan signifikan terhadap risiko sistematis, dan rasio pasar berpengaruh
+negatif dan signifikan terhadap risiko sistematis, sedangkan Kinerja Bisnis dan ekonomi
+makro tidak berpengaruh signifikan terhadap risiko sistematis; 2) Faktor ekonomi makro
+berpengaruh positif dan signifikan terhadap kinerja saham industri barang konsumsi.
+Sedangkan Rasio Fundamental, Rasio Pasar, dan Kinerja bisnis tidak berpengaruh signifikan
+terhadap Kinerja saham. Kinerja saham pada sektor barang konsumsi lebih tergantung kepada
+perubahan makro ekonomi dibandingkan dengan rasio keuangan perusahaan. Semakin stabil
+perekonomian maka akan menarik investor dalam berinvestasi sehingga dapat meningkatkan
+kinerja saham perusahaan, dan 3) Rasio fundamental, rasio pasar, kinerja bisnis dan makro
+ekonomi melalui risiko sistematis tidak berpengaruh signifikan terhadap kinerja saham. Hasil
+tersebut dapat dikarenakan adanya faktor lain yang mempengaruhi antara lain faktor
+perekonomian dan politik pada masa penelitian serta bidang usaha perusahaan yang dijadikan
+sampel yang menyebabkan risiko sistematis tidak berpengaruh pada industri barang konsumsi
+yang terdaftar di Bursa Efek Indonesia.
+Saran.Saran yang dapat diberikan baik untuk implikasi manajerial maupun penelitian
+selanjutnya adalah: 1) Bagi investor dan calon investor, untuk mengambil keputusan
+berinvestasi yang perlu diperhatikan adalah rasio fundamental dalam menilai risiko yang akan
+dihadapi dan faktor makro ekonomi untuk menilai kinerja saham perusahaan. Berdasarkan
+penelitian ini, rasio pasar memiliki pengaruh signifikan negatif terhadap risiko sistematis. Ini
+menunjukkan bahwa semakin besar nilai rasio pasar maka risiko yang diterima akan semakin
+kecil. Artinya investor perlu memperhatikan saham dengan rasio pasar tinggi khususnya jika
+menginginkan risiko yang rendah. Sedangkan untuk kinerja saham, investor perlu memperhatikan kondisi makro ekonomi, hal ini dikarenakan fako makro ekonomi memiliki
+pengaruh negative dan signifikan terhadap return saham, 2) Bagi emiten, perlu menjaga faktor
+fundamental (stabilitas laba, penggunaan aset, modal, dan utang secara efisien sehingga dapat
+meningkatkan penjualan dan pada akhirnya akan meningkatkan keuntungan perusahaan)
+karena berpenagruh signfikan terhadap risiko sistematik; dan 3) Peneliti yang akan datang,
+apabila akan menggunakan obyek penelitian industri barang konsumsi perlu memperhatikan
+indikator yang digunakan pada rasio fundamental dan rasio pasar. Hal ini dikarenakan pada
+penelitian ini hanya DER dan TDA yang valid dalam membentuk konstruk rasio fundamental,
+sedangkan CR dan TATO dikeluarkan dari konstruk karena nilai dari kedua indikator
+dibawah nilai yang disyaratkan dan dianggap tidak valid. Rasio pasar (PBV dan EPS) valid
+dalam membentuk konstruk rasio pasar, sedangkan PER tidak valid.

@@ -1,0 +1,562 @@
+﻿Sistem Pendukung Keputusan Pengoptimalan Pembagian
+Tugas dengan Metode Assignment Berbasis Web
+
+
+
+Intisari - Dalam membagi penugasan, atasan tidak
+disarankan membuat keputusan dengan mengandalkan
+intuisi dan pengalaman saja, tetapi harus berdasarkan
+fakta. Permasalahan yang terjadi adalah keputusan
+berdasarkan fakta akan lama atau sulit dilakukan dengan
+cara konvensional. Di sinilah, Sistem Pendukung
+Keputusan (SPK) dibutuhkan. Dalam SPK, pemberian
+saran seharusnya lebih dari satu sehingga dapat memilih
+opsi terbaik. Namun, aplikasi komersial untuk kasus
+penugasan (assignment) di bidang riset operasi hanya
+dapat memberikan satu solusi optimal. Selain itu, aplikasi
+komersial tidak dapat menangani proses penilaian yang
+memiliki kriteria-kriteria khusus, contohnya Microsoft
+Excel dan WinQSB. Teori yang digunakan dalam aplikasi
+adalah metode assignment. Pelaksanaan penelitian ini
+menggunakan metode System Development Life Cycle
+model waterfall. Hasil penelitian menunjukkan bahwa
+aplikasi mampu menghasilkan solusi optimal lebih dari
+satu pilihan jika memungkinkan sehingga dapat
+memperbaiki kekurangan dari aplikasi komersial di
+bidang riset operasi. Aplikasi juga dapat menghasilkan
+solusi pembagian tugas apapun dengan akurat dan
+komprehensif karena mampu menangani penilaian tugas
+yang memiliki kriteria-kriteria tertentu didalamnya.
+Kata Kunci - Sistem Pendukung Keputusan, Pembagian Tugas,
+Assignment.
+
+
+I. PENDAHULUAN
+Saat ini, teknologi informasi telah banyak digunakan
+dalam kehidupan sehari-hari. Perkembangan teknologi ini
+telah dimanfaatkan untuk membantu pihak manajemen dalam
+pengambilan keputusan. Dalam pengambilan keputusan,
+pemberian solusi atau saran yang semakin bervariasi akan
+membuat pihak manajemen dapat berpikir untuk mengambil
+solusi yang terbaik. Hal ini senada dengan pernyataan
+referensi [1] yang menyebutkan bahwa suatu sistem berbasis
+komputer dapat menghasilkan berbagai alternatif keputusan
+untuk membantu manajemen dalam menangani berbagai
+permasalahan yang terstruktur ataupun tidak terstruktur
+dengan menggunakan data dan model.
+Dalam menjalankan pekerjaan sehari-hari, setiap manusia
+tidak akan terlepas dari adanya penugasan. Sebagai seorang
+atasan, penugasan kepada bawahan harus dilakukan dengan
+baik, seksama, dan bijaksana. Atasan harus dapat meletakkan
+tugas dan tanggung jawab kepada orang atau sumber daya
+yang tepat di tempat yang tepat. Dengan demikian, masalah
+yang terkait dengan manajemen sumber daya dapat
+dieliminasi dan hasil dengan kualitas yang optimal akan lebih
+mudah dicapai [2].
+Untuk melaksanakan penugasan, seorang atasan tidak
+disarankan untuk membuat keputusan dengan mengandalkan
+intuisi dan pengalaman saja, tetapi juga harus berdasarkan
+data atau fakta. Permasalahan yang sering terjadi di lapangan
+adalah keputusan berdasarkan fakta akan lama atau sulit
+dilakukan dengan cara konvensional, tanpa bantuan komputer.
+Di sinilah, peran teknologi informasi sangat dibutuhkan.
+Selanjutnya, lahirlah Sistem Pendukung Keputusan (SPK).
+Dalam SPK, pemberian saran kepada pengambil keputusan
+sebaiknya harus berjumlah lebih dari satu sehingga pengambil
+keputusan dapat memilih opsi yang paling baik. Permasalahan
+yang ada saat ini adalah aplikasi untuk kasus penugasan
+(assignment) di bidang riset operasi yang beredar selama ini
+hanya dapat memberikan satu solusi optimal. Contoh aplikasi
+penugasan tersebut adalah Microsoft Excel dan WinQSB.
+Keterbatasan pada aplikasi ini membuat pengambil keputusan
+tidak dapat mengambil opsi lain padahal opsi lain tersebut
+juga sama baiknya dengan opsi yang dipilih oleh aplikasi
+tersebut. Contoh salah satu bukti keterbatasan aplikasi
+penugasan khususnya WinQSB dapat dilihat pada Gbr. 1 dan
+Gbr. 2. Gbr. 1 menunjukkan data penilaian angket dosen pada
+masing-masing mata kuliah. Gbr. 2 menunjukkan solusi optimal dari penugasan mengajar dosen di tiap mata kuliah,
+yaitu MK A diajar dosen B, MK B diajar dosen C, dan MK C
+diajar dosen A dengan total nilai 4+4+2=10. Solusi yang
+diberikan pada Gbr. 2 hanya 1 saja, padahal masih ada 2 opsi
+lain yang optimal, yaitu: MK A diajar dosen A, MK B diajar
+dosen C, MK C diajar dosen B dengan total nilai 2+4+4=10.
+Selain itu, 1 opsi optimal lain yang tersisa, yaitu: MK A diajar
+dosen C, MK B diajar dosen A, MK C diajar dosen B dengan
+total nilai 3+3+4=10. Di sinilah letak kekurangan atau
+keterbatasan aplikasi komersial.
+
+
+Pada penelitian ini, aplikasi penugasan mampu untuk
+mendukung penugasan dalam berbagai hal atau berbagai
+kasus. Namun, penelitian ini hanya membahas satu kasus
+secara mendalam yaitu kasus pembagian tugas mengajar
+untuk dosen di STMIK Surabaya. Pada kasus ini, beberapa
+kriteria yang dapat dijadikan tolok ukur dalam menentukan
+tugas mengajar adalah pengalaman atau lama mengajar,
+angket pengajaran, dan lain-lain. Dengan melibatkan beberapa
+kriteria, hasil keputusan akan lebih komprehensif dan objektif
+karena penilaian tidak dependen pada faktor tertentu saja.
+Pemberian kriteria semacam inilah yang belum mampu
+diakomodasi oleh aplikasi komersial dalam kasus penugasan
+(assignment) di bidang riset operasi. Aplikasi komersial saat
+ini hanya mampu memberikan nilai secara global setiap
+pengemban tugas pada masing-masing tugas yang ada,
+contoh: nilai setiap dosen secara keseluruhan pada tiap mata
+kuliah yang ada, seperti pada Gbr. 1.
+Menurut referensi [3], pengoptimalan pembagian tugas
+(assignment) yang dilakukan dalam penelitian tersebut juga
+memiliki kelemahan yang sama dengan aplikasi komersial
+saat ini, yaitu tidak melibatkan kriteria-kriteria dan solusi
+optimal yang dihasilkan hanya 1 saja. Hal ini dikarenakan
+penelitian referensi [3] dan aplikasi komersial sepenuhnya
+menggunakan metode Hungarian yang memiliki dua
+kelemahan tersebut. Penelitian ini akan memperbaiki dan
+mengembangkan metode Hungarian sehingga menutupi
+kelemahan yang ada.
+Berdasarkan permasalahan yang telah diuraikan
+sebelumnya, maka aplikasi penugasan untuk mendukung
+keputusan dari pihak manajemen ini perlu dilakukan
+perbaikan dalam hal pemberian solusi optimal. Selain itu,
+aplikasi penugasan yang akan dibuat ini diharapkan dapat
+memberikan perbaikan dan pembaharuan dalam metode
+penugasan di bidang riset operasi yang ada selama ini karena
+aplikasi baru ini menghasilkan solusi optimal lebih dari satu
+dan melibatkan berbagai kriteria dalam proses penilaian
+pembagian tugas.
+Dengan demikian, tujuan penelitian ini adalah:
+a. Membuat dan menerapkan aplikasi penugasan yang dapat
+memberikan solusi optimal lebih dari 1 pilihan jika
+memungkinkan sehingga hal ini dapat memperbaiki
+kekurangan dari aplikasi komersial di bidang riset operasi.
+b. Membuat dan menerapkan aplikasi penugasan yang dapat
+menangani penilaian suatu tugas yang memiliki kriteriakriteria
+tertentu didalamnya.
+II. SISTEM PENDUKUNG KEPUTUSAN
+A. Konsep Dasar Sistem Pendukung Keputusan
+Referensi [4] menyebutkan definisi sistem adalah
+sekumpulan hal atau kegiatan atau elemen atau subsistem
+yang saling bekerja sama atau yang dihubungkan dengan caracara
+tertentu sehingga membentuk satu kesatuan untuk
+melaksanakan suatu fungsi guna mencapai suatu tujuan. Di
+dalam sistem pendukung keputusan pasti tidak terlepas dari
+proses pengambilan keputusan itu sendiri. Pada dasarnya,
+proses pengambilan keputusan terdiri dari 3 fase proses:
+intelligence, design, dan choice. Intelligence yaitu pencarian
+kondisi-kondisi yang dapat menghasilkan keputusan. Design
+yaitu menemukan, mengembangkan, dan menganalisis materimateri
+yang mungkin untuk dikerjakan. Choice yaitu
+pemilihan materi yang tersedia, mana yang akan dikerjakan.
+Referensi [5] menyebutkan bahwa proses-proses yang
+terjadi pada kerangka kerja Decision Support dibedakan atas:
+1. Terstruktur, mengacu pada permasalahan rutin dan
+berulang untuk solusi standar yang ada.
+2. Tak terstruktur, adalah “fuzzy”, permasalahan kompleks,
+tak ada solusi serta merta. Masalah yang tak terstruktur
+adalah tak adanya 3 fase proses yang terstruktur.
+3. Semi terstruktur, terdapat beberapa keputusan terstruktur,
+tetapi tak semuanya dari fase- fase yang ada.
+Secara umum, sistem pendukung keputusan (SPK) adalah
+sistem berbasis komputer yang interaktif, yang membantu
+pengambil keputusan memanfaatkan data dan model untuk
+menyelesaikan masalah-masalah yang tak terstruktur dan
+semi terstruktur [6].
+B. Teori Penugasan (Assignment)
+Metode penugasan merupakan metode kuantitatif untuk
+mengalokasikan sejumlah m sumber ditugaskan kepada
+sejumlah n tujuan atau satu sumber untuk satu tujuan (one-toone
+basis). Sebagai gambaran model penugasan adalah
+menyangkut penempatan para pekerja pada bidang pekerjaan
+yang tersedia agar biaya yang ditanggung dapat
+diminimumkan. Jika pekerja dianggap sebagai sumber dan
+pekerjaan dianggap sebagai tujuan, maka model penugasan ini
+akan mempunyai sumber dan tujuan. Pada model penugasan
+jumlah pasokan pada setiap sumber dan jumlah permintaan pada setiap tujuan adalah satu. Hal ini berarti setiap pekerja
+hanya menangani satu pekerjaan, atau sebaliknya satu
+pekerjaan hanya ditangani oleh satu pekerja.
+Menurut referensi [7], kasus penugasan lebih mudah
+dipahami dengan mengandaikannya sebagai sejumlah
+pekerjaan (sumber) yang akan distribusikan ke sejumlah
+pekerjaan (tujuan). Masing-masing pekerjaan dapat
+mengerjakan semua jenis pekerjaan tetapi dengan bobot
+(waktu, upah, dll) yang berbeda. Masalah yang dihadapi
+adalah bagaimana mendistribusikan pekerjaan ke pekerja
+sehingga bobotnya minimum.
+Untuk menyelesaikan masalah penugasan, maka harus
+memenuhi asumsi berikut ini [8]:
+1. Jumlah petugas dan jumlah tugas sama.(Jumlah ini
+dinyatakan dengan n).
+2. Masing-masing petugas ditugaskan satu tugas saja.
+3. Masing-masing tugas dilakukan oleh satu petugas saja.
+4. Ada biaya Cij yang dihubungkan dengan petugas i ( i = 1,
+2, ....., n).
+5. Tujuan penyelesaian masalah adalah menentukan
+bagaimana mengerjakan seluruh n penugasan untuk
+meminimalkan total biaya.
+Menurut referensi [9], penggambaran umum persoalan
+penugasan dapat dilihat pada Gbr. 3.
+
+Biasanya yang dianggap sebagai sumber adalah pekerja,
+sedangkan tujuan adalah mesin. Jika terdapat i pekerja di
+mana i = 1, 2, ..., m yang ditugaskan pada j mesin di mana j =
+1, 2, ......, n maka akan muncul biaya sebesar Cij. Secara
+matematis, model penugasan dapat dinyatakan sebagai
+berikut:
+Dengan demikian, model penugasan ini adalah :
+Fungsi tujuan :
+
+r: ...
+kendala:
+r:...
+
+
+r:...
+
+
+
+Masalah penugasan dapat diselesaikan dengan metode
+Hungarian. Langkah-langkah metode Hungarian adalah
+sebagai berikut:
+1. Lakukan pengurangan baris dengan cara mengurangkan
+nilai terendah pada suatu baris dari semua nilai pada baris
+tersebut.
+2. Lakukan pengurangan kolom dengan cara mengurangkan
+nilai terendah pada suatu kolom dari semua nilai pada
+kolom tersebut.
+3. Tarik sejumlah garis horizontal dan vertikal yang
+diperlukan untuk mencoret semua angka nol pada tabel
+biaya peluang (opportunity cost) yang lengkap.
+4. Jika diperlukan garis lebih sedikit dari m (di mana m =
+jumlah baris atau kolom), maka semua nilai lain yang
+tercoret dikurangkan dengan nilai terendah dari nilai-nilai
+yang tidak tercoret tersebut. Kemudian nilai terendah
+tersebut ditambahkan pada sel-sel di mana dua garis
+berpotongan, sedangkan nilai yang lain tetap. Ulangi
+langkah 3.
+5. Jika diperlukan garis sebanyak m, maka solusi optimal
+tercapai. Sehingga dapat dilakukan analisis m penugasan
+yang unik. Jika masih diperlukan garis lebih sedikit dari m,
+maka ulangi langkah 4.
+C. Skala Likert
+Menurut referensi [10], skala Likert digunakan untuk
+mengukur sikap, pendapat dan persepsi seseorang atau
+kelompok tentang kejadian atau gejala sosial. Pengukuran
+sikap, pendapat dan persepsi seseorang harus melalui proses
+pengolahan data. Angket yang sebelumnya diisi kemudian
+direkapitulasi sehingga dapat dilakukan perhitungan skor.
+Perhitungan skor penilaian untuk setiap pertanyaan (QS)
+didapatkan dari jumlah pengguna (PM) dikalikan dengan
+skala nilai (N). Jumlah skor tertinggi (STtot) didapatkan dari
+skala tertinggi (NT) dikalikan jumlah pertanyaan (Qtot)
+dikalikan total pengguna(Ptot). Sedangkan nilai persentase
+akhir (Pre) diperoleh dari jumlah skor hasil pengumpulan data
+(JSA) dibagi jumlah skor tertinggi (STtot) dikalikan 100%.
+Persamaan yang digunakan untuk melakukan perhitungan skor
+pada setiap pertanyaan dapat mengacu pada (4). Persamaan
+(5) digunakan untuk menghitung jumlah skor tertinggi.
+Persamaan (6) menghasilkan nilai persentase yang akan
+digunakan dalam proses analisis.
+
+r:...
+r:...
+r:...
+
+Analisis dilakukan dengan melihat persentase akhir dari
+proses perhitungan skor Nilai persentase kemudian
+dicocokkan dengan kriteria interpretasi skor, seperti yang
+terlihat pada Gbr. 4.
+
+
+Penelitian ini akan melakukan tahapan-tahapan System
+Development Life Cycle (SDLC) dengan model waterfall
+seperti pada Gbr. 5.
+
+Gbr. 5 menunjukkan bahwa penelitian dimulai dengan
+pengumpulan data, kemudian analisis sistem, desain sistem,
+pembuatan program, uji coba dan analisis hasil program,
+deployment program, pelatihan program, dan tahapan terakhir
+adalah penilaian dan pengolahan angket program. Apabila
+terjadi kekurangan dalam tahap uji coba dan analisis hasil
+program, maka penelitian dapat kembali ke tahap-tahap
+sebelumnya yang perlu perbaikan sehingga hasil uji coba
+dapat sesuai dengan kebutuhan pengguna. Setelah sesuai,
+penelitian dapat dilanjutkan dengan tahap deployment,
+pelatihan, serta pengisian dan pengolahan angket program.
+Pada tahap pengumpulan data, ada beberapa cara yang
+telah dilakukan dalam melaksanakan penelitian ini, yaitu:
+wawancara, pengamatan, dan studi literatur. Pada tahap ini
+diperoleh informasi tentang proses penentuan dosen
+pengampu mata kuliah yang dilakukan oleh Kaprodi di
+STMIK Surabaya. Proses penentuan dosen pengampu mata
+kuliah belum memiliki kriteria yang jelas, hanya didasarkan
+pada pengetahuan Kaprodi tentang pengalaman mengajar
+sebelumnya dan wawancara dengan dosen yang bersangkutan.
+Proses ini belum memasukkan unsur penilaian kinerja
+mengajar dosen sehingga dapat mengakibatkan penurunan
+kualitas pembelajaran karena dosen pengampu mata kuliah
+tidak memiliki kinerja yang baik. Gbr. 6 memperlihatkan
+proses penentuan dosen pengampu mata kuliah.
+Proses penentuan dosen pengampu mata kuliah ini akan
+lebih baik, objektif, dan komprehensif jika melibatkan juga
+nilai kinerja mengajar dosen. Berdasarkan hasil wawancara,
+proses penentuan kinerja dosen selama ini dapat ditunjukkan
+pada Gbr. 7.
+Dalam tahap analisis sistem, hal-hal yang dilakukan
+meliputi: membuat system flow. Pembuatan system flow
+menggunakan Microsot Visio 2007. System flow merupakan
+gambaran sistem baru yang akan dibuat secara
+terkomputerisasi. System flow ini hanya berisi rekomendasi
+untuk menggabungkan proses penentuan dosen selama ini
+dengan proses penilaian kinerja dosen untuk menghasilkan
+pembagian tugas mengajar yang lebih baik. Jadi pengguna
+aplikasi akan memasukkan kriteria berupa pengalaman
+mengajar dan faktor-faktor kinerja mengajar ke dalam sistem.
+
+
+Dalam tahap desain sistem, hal-hal yang dilakukan yaitu:
+membuat Data Flow Diagram (DFD), Entity Relationship
+Diagram (ERD) baik Conceptual Data Model (CDM) maupun
+Physical Data Model (PDM), dan desain antar muka
+pengguna. Tool yang digunakan untuk membuat DFD dan
+ERD adalah Power Designer 6. Tool yang digunakan untuk
+membuat desain antar muka pengguna adalah Microsoft Visio
+2007. DFD merupakan gambaran aliran data yang terjadi dalam suatu sistem, sedangkan ERD merupakan gambaran
+tabel-tabel yang saling terelasi satu dengan yang lainnya untuk
+tujuan/keperluan tertentu.
+Pada ERD khusunya Physical Data Modelling (PDM) ini
+memiliki delapan entity ) yang terdiri dari lima master dan tiga
+transaksi. Entity yang tergolong master adalah anggota
+pengguna website (ANGGOTA), penugasan (PENUGASAN),
+pengemban tugas (PENGEMBAN), jenis tugas (TUGAS), dan
+kriteria yang digunakan dalam penugasan (KRITERIA).
+Sementara itu, entity yang tergolong kelompok transaksi
+terdiri atas penilaian pengemban tugas untuk setiap tugas
+berdasarkan kriteria (PENILAIAN), rekap penilaian
+pengemban tugas untuk setiap tugas dengan
+mempertimbangkan semua kriteria (REKAP), dan hasil
+penugasan yang optimal berdasarkan penilaian yang telah
+dilakukan sebelumnya (HASIL). Semua entity ini yang akan
+digunakan untuk penyimpanan data dalam aplikasi penugasan
+berbasis web. Dari PDM inilah kemudian sebuah script
+pembuatan basis data untuk aplikasi ini dihasilkan. Lebih
+jelasnya, PDM ini dapat dilihat pada Gbr. 8.
+
+
+Pada tahap pembuatan program, hal-hal yang dilakukan
+adalah memastikan PHP yang digunakan sebagai bahasa
+pemrograman dan MySQL sebagai basis data berjalan dengan
+baik dan lancar untuk pembuatan program. Program akan
+menerapkan teori penugasan untuk menghasilkan saran
+pembagian tugas yang optimal dengan studi kasus penugasan
+mengajar pada dosen STMIK Surabaya.
+Aplikasi web yang dibangun dalam penelitian ini akan
+menerima masukan data awal dari pemakai yang berupa data
+tugas, data pengemban tugas, data kriteria dan bobot kriteria
+untuk suatu penugasan. Setelah semua data awal terisi,
+penilaian masing-masing dosen pada setiap tugas akan
+dilakukan secara rinci menurut kriteria yang sudah ditentukan
+dalam penugasan tersebut. Selanjutnya, aplikasi akan
+menampilkan rekap penilaian pengemban tugas pada setiap
+tugas. Selain itu, aplikasi juga akan menampilkan saran
+penugasan optimal lebih dari satu pilihan jika memungkinkan.
+Dalam kasus penugasan mengajar pada dosen STMIK
+Surabaya ini, data tugas yang dimaksud adalah data mata
+kuliah yang akan diampu, sedangkan data pengemban tugas
+adalah data dosen yang dijadwalkan untuk mengajar mata
+kuliah yang bersangkutan. Untuk penelitian ini, kasus
+penugasan hanya dibatasi pada jumlah dosen dan jumlah mata
+kuliah yang sama. Jadi dosen-dosen yang ditugaskan ini
+adalah dosen-dosen yang sudah pernah mengampu beberapa
+mata kuliah yang sama. Dari pengalaman mengajar mata
+kuliah yang sama tersebut, aplikasi akan menghasilkan solusi
+yang optimal dalam pembagian tugas mengajar atau tugas
+koordinator mata kuliah. Pemberian solusi optimal ini akan
+mempertimbangkan nilai angket pada histori mengajar dosendosen
+bersangkutan, lama mengajar, dan kriteria-kriteria
+lainnya yang dapat diatur secara dinamis. Jalannya program
+secara sistematis dapat dilihat di Gbr. 9.
+
+
+Dalam tahap uji coba, hal-hal yang dilakukan adalah uji
+coba program kepada para pemakai. Dalam hal ini, para
+pemakai yang dimaksud adalah para kepala program studi di
+STMIK Surabaya. Selain itu, hal yang dilakukan adalah uji
+coba terhadap masing-masing fungsionalitas yang ada pada
+program (black box testing). Untuk kegiatan analisis hasil
+program, hal yang dilakukan adalah menguji kemudahan
+penggunaan dan menguji kebenaran hasil saran (rekomendasi)
+yang dihasilkan oleh aplikasi.
+
+
+Untuk tahap deployment, hal yang dilakukan adalah
+melakukan hosting terhadap program berbasis web yang
+dibuat. Sebelum hosting, pembelian domain web harus
+dilakukan terlebih dahulu. Nama domain yang sudah dibeli
+adalah www.penugasan.com.
+Pada tahap pelatihan, para pengguna program akan
+diberikan pelatihan secara mendalam agar mahir dalam
+mengoperasikan program berbasis web yang dibuat. Pelatihan
+ini tentunya ditujukan kepada para kepala program studi dan
+dosen pengampu Riset Operasi di STMIK Surabaya.
+Dalam tahap pengisian dan pengolahan angket, para
+pemakai program akan diminta untuk mengisi angket dengan
+menerapkan skala likert dari skala 1 sampai dengan 5 pada
+setiap pertanyaan. Setelah itu, angket yang telah terisi akan
+diolah dengan menggunakan rumus-rumus yang ada pada
+skala likert. Dari nilai hasil perhitungan rumus tersebut,
+kualitas program web yang dibuat akan dapat dilihat, apakah
+program tersebut sudah tergolong baik atau tidak.
+IV. HASIL DAN PEMBAHASAN
+Setelah melakukan tahapan penelitian seperti yang telah
+dipaparkan di atas, penelitian ini akhirnya berhasil membuat
+dan mengimplementasikan SPK pengoptimalan pembagian
+tugas berbasis web. Tampilan utama aplikasi penugasan yang
+akan dilihat pertama kali oleh pengunjung saat mengakses
+website ini dapat dilihat di Gbr. 11.
+
+
+Adapun langkah-langkah utama dalam penggunaan
+aplikasi pengoptimalan pembagian tugas adalah:
+Pertama, pengguna harus login dengan memasukkan alamat
+email, password, dan kode captcha. Tampilan halaman login
+tampak seperti pada Gbr. 12.
+
+
+Kedua, jika pengguna yang belum memiliki akun di
+website ini maka pengguna menekan menu daftar anggota di
+halaman login. Untuk melakukan pendaftaran sebagai anggota
+di website ini, pengguna tinggal mengisi nama lengkap,
+alamat email, password untuk masuk ke website, dan kode
+captcha secara lengkap dan benar. Tampilan halaman
+pendaftaran anggota dapat dilihat di Gbr. 13.
+
+
+Jika pendaftaran sukses, maka aplikasi akan meminta
+pengguna untuk melakukan konfirmasi keanggotaan melalui
+email yang telah didaftarkan. Email akan dikirimkan dengan
+subject yaitu Konfirmasi Registrasi Web Assignment. Dalam
+email akan berisi link konfirmasi dan pengguna diminta untuk
+melakukan klik terhadap link tersebut. Contoh email
+konfirmasi registrasi seperti yang terlihat pada Gbr. 14.
+
+
+Ketiga, jika pengguna lupa password maka pengguna
+harus memasukkan alamat email dengan valid dan
+memasukkan kode captcha melalui fitur ini. Tampilan
+halaman lupa password terlihat di Gbr. 15.
+
+
+Jika isian pada halaman lupa password valid, maka
+password akan dikirim ke email dengan subject yaitu:
+Password Web Assignment. Contoh email pengiriman
+password seperti yang terlihat pada Gbr. 16.
+Keempat, pengisian halaman assignment. Halaman
+assignment ini berfungsi untuk membantu pengguna dalam
+menyelesaikan masalah penugasan. Halaman assignment
+terdiri dari empat tab page, yaitu: identitas penugasan, tugas
+dan pengemban, penilaian/pengisian, dan hasil penugasan.
+
+
+Tab identitas penugasan ini berisi isian mengenai
+penugasan, seperti nama penugasan, tujuan penugasan
+(minimal/maksimal), dan jumlah tugas atau pengemban.
+Selain itu, pada tab identitas penugasan ini, pengguna akan
+diminta mengisi kriteria yang digunakan untuk kasus
+penugasan. Untuk menambah kriteria, pengguna tinggal
+mengisi nama kriteria dan bobot kriteria dalam persentase lalu
+menekan tombol Tambah. Setelah tombol ditekan, daftar
+kriteria akan ditampilan dalam bentuk tabel. Jika isian
+penugasan dan isian kriteria lengkap, maka pengguna dapat
+lanjut ke tab berikutnya. Lebih jelasnya, tab identitas
+penugasan dapat dilihat pada Gbr. 17.
+
+
+Tab tugas dan pengemban ini akan aktif jika pengguna
+sudah melewati tab identitas penugasan dengan baik. Pada tab
+ini, pengguna diminta mengisi daftar tugas dan daftar
+pengemban tugas yang terlibat dalam kasus penugasan. Tab
+tugas dan pengemban dapat dilihat pada Gbr. 18.
+
+
+Tab penilaian/pengisian ini akan aktif jika pengguna sudah
+melewati tab tugas dan pengemban. Pada tab penilaian ini,
+pengguna diminta mengisi nilai tiap pengemban pada setiap
+tugas di setiap kriteria yang sudah ditentukan sebelumnya.
+Tab penilaian/pengisian ini dapat dilihat pada Gbr. 19.
+
+
+Tab hasil penugasan ini akan aktif jika pengguna sudah
+melewati tab penilaian/pengisian. Pada tab penilaian ini,
+pengguna akan melihat rekap nilai tiap pengemban pada tiap
+kriteria setelah memperhitungkan semua kriteria. Selain itu,
+pada tab ini, aplikasi memberikan hasil penugasan yang
+optimal. Dengan solusi ini dapat diketahui dosen-dosen yang
+ditugaskan untuk mengajar mata kuliah tertentu sehingga
+tercipta hasil pembagian tugas mengajar yang optimal. Tab
+penilaian/pengisian ini dapat dilihat pada Gbr. 20.
+
+Jika nomor opsi diklik, maka aplikasi akan menampilkan
+detail perhitungan nilai dari solusi optimal.
+
+Gbr. 21 menunjukkan bahwa aplikasi yang dibuat berhasil
+menghasilkan solusi optimal lebih dari satu. Hal ini yang
+menjadi keunggulan aplikasi ini dibandingkan dengan aplikasi
+komersial lainnya yang hanya dapat menghasilkan satu solusi
+optimal saja. Jika dikaji lebih dalam, aplikasi ternyata juga
+telah akurat dalam memberikan solusi optimal. Apabila dilihat
+dari rekap penilaian di Gbr. 20, maka nilai optimal untuk
+tujuan MAX adalah 11,5. Kombinasi atau solusi optimal yang
+dihasilkan juga telah sesuai dengan nilai optimal, yaitu: dua
+buah solusi. Solusi atau opsi 1: Logika dan Algoritma diampu
+Julianto Lemantara dengan nilai 4, Pemrograman Basis Data
+diampu Tantri dengan nilai 3,5, dan Pemrograman
+Berorientasi Objek diampu Satria Agung dengan nilai 4. Jika
+dijumlah secara keseluruhan , maka total nilai adalah 11,5 dan
+nilai ini sesuai dengan nilai optimal. Demikian juga dengan
+solusi atau opsi 2, jika dijumlah secara keseluruhan, maka
+total nilainya juga sesuai dengan nilai optimal. Detail nilai
+yaitu: Logika dan Algoritma diampu Satria Agung dengan
+nilai 4, Pemrograman Basis Data diampu Tantri dengan nilai
+3,5, dan Pemrograman Berorientasi Objek diampu Julianto
+Lemantara dengan nilai 4.
+Dari Gbr. 17 dan 19 terbukti pula bahwa aplikasi juga
+dapat menangani kriteria dan bobot kriteria secara dinamis.
+Jika memang penugasan tidak melibatkan kriteria, maka
+pengguna sebenarnya dapat mengisi satu kriteria saja dengan
+bobot 100% dan pengguna tinggal mengisi nilai setiap
+pengemban tugas pada satu kriteria tersebut.
+Luaran dari sistem ini berupa laporan histori pemakaian
+aplikasi. Laporan histori ini digunakan untuk melihat daftar
+penugasan yang telah dilakukan menggunakan aplikasi.
+Laporan histori dapat dilihat pada Gbr. 22.
+
+Setelah aplikasi berjalan dengan baik, tahapan evaluasi
+terhadap aplikasi dilakukan. Evaluasi dilakukan dengan
+pemberian angket kepada tiga kaprodi dan tiga dosen
+pengampu mata kuliah Riset Operasi di STMIK Surabaya.
+Angket tersebut kemudian diolah dengan menggunakan skala
+likert. Hasil pengolahan nilai angket ini dapat dilihat pada
+Tabel 1.
+Jika hasil interpretasi skor angket ini dibandingkan dengan
+kriteria interpretasi skor pada teori, maka didapatkan
+kesimpulan bahwa aplikasi ini ternyata baik atau kuat dalam
+hal keindahan tampilan aplikasi, kemudahan penggunaan
+aplikasi, dan keakuratan hasil rekomendasi atau solusi. Selain
+itu, aplikasi juga dinilai sangat baik atau sangat kuat dalam hal
+kebermanfaatannya, terutama untuk kontribusi di bidang riset
+operasi.
+
+A. Kesimpulan
+Setelah melakukan tahap SDLC model waterfall,
+penelitian ini berhasil membuat sistem pendukung keputusan
+pengoptimalan pembagian tugas dengan metode assignment
+berbasis web. Setelah dilakukan uji coba terhadap aplikasi
+yang telah dibuat ini, maka dapat ditarik kesimpulan berikut:
+a. Aplikasi yang dibuat sudah dapat menangani penilaian
+yang melibatkan banyak kriteria dan bobot kriteria secara
+dinamis.
+b. Aplikasi yang dibuat sudah dapat menghasilkan banyak
+solusi optimal, tidak hanya 1 solusi saja jika memang
+memungkinkan.
+c. Aplikasi dinilai sudah baik dalam hal keindahan tampilan,
+kemudahan penggunaan, dan keakuratan hasil. Aplikasi ini
+bahkan dinilai sangat baik dalam hal kebermanfaatan.

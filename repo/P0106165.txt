@@ -1,0 +1,553 @@
+﻿ 
+
+ 
+
+VALIDASI METODE KROMATOGRAFI CAIR KINERJA TINGGI UNTUK 
+
+PENETAPAN KADAR α-MANGOSTIN DALAM LARUTAN ORAL 
+
+ EKSTRAK KULIT BUAH MANGGIS (Garcinia mangostana L.) 
+
+ 
+ 
+
+ABSTRAK 
+
+Ekstrak kulit buah manggis kaya akan antioksidan. α-Mangostin adalah komponen 
+dengan efek antioksidan paling tinggi dalam kulit buah manggis. Larutan oral yang 
+mengandung ekstrak kulit buah manggis perlu diuji penetapan kadar untuk pengujian 
+mutunya. Penentuan kadar analit dalam sampel dengan matriks yang sangat kompleks dan 
+jumlah analit sangat kecil, seperti α-mangostin dalam larutan oral, diperlukan metode yang 
+selektif dan sensitif, yaitu kromatografi cair kinerja tinggi (KCKT). Pada penelitian ini 
+dilakukan penetapan kadar α-mangostin dengan sistem KCKT fase balik dengan 
+menggunakan fase diam oktadesilsilan (C18), fase gerak metanol-air (90:10), laju alir 1,0 
+mL/menit, dan detektor UV pada 316 nm. Waktu retensi α-mangostin adalah 9,622 menit. 
+Puncak α-mangostin terpisah baik dengan resolusi sebesar 1,725. Linearitas metode berada 
+pada rentang 1,67-5,01 bpj dengan koefisien korelasi 0,9986. Nilai simpangan baku relatif 
+(SBR) sebesar 1,30%, perolehan kembali berada pada rentang 95,80-100,76% dengan nilai 
+t hitung<t tabel. Batas deteksi dan batas kuantitasi masing-masing adalah 0,21 bpj dan 0,70 
+bpj. Metode ini memenuhi persyaratan validasi yang meliputi spesifisitas, linearitas, 
+presisi, dan akurasi. 
+
+Kata kunci: validasi metode, KCKT, α-mangostin, larutan oral, Garcinia mangostana L. 
+
+ 
+ 
+ 
+PENDAHULUAN 
+
+Kulit buah manggis (Garcinia mangostana L) yang tidak dikonsumsi dan menjadi 
+
+limbah pertanian mempunyai banyak khasiat seperti antioksidan. Salah satu senyawa 
+
+dalam ekstrak kulit buah manggis yang memiliki aktivitas antioksidan adalah α-mangostin. 
+
+Dalam rangka memanfaatkan limbah kulit buah manggis, telah dibuat formulasi larutan 
+
+oral ektrak kulit buah manggis dengan metode kosolvensi. Formula yang terbaik didapat 
+
+dengan komposisi PEG 400 dan gliserin masing-masing sebesar 40%. Formula terbaik 
+
+dipilih berdasarkan kadar α-mangostin terlarut dan aktivitas antioksidan terhadap radikal 
+
+bebas 2,2-diphenyl-1-picrylhydrazyl (DPPH). Dari hasil penelitian diketahui serapan α-
+
+mangostin terlarut yang lebih besar memberikan aktivitas antioksidan yang lebih baik 
+
+(Sofiah et al., 2013). 
+
+ 
+
+Salah satu aspek pengujian mutu sediaan adalah penetapan kadar zat aktif. Untuk 
+
+menganalisis α-mangostin dalam sediaan tersebut dibutuhkan metode yang selektif dan 
+
+sensitif seperti kromatografi cair kinerja tinggi (KCKT). KCKT telah banyak digunakan 
+
+untuk menetapkan kadar α-mangostin di dalam ekstrak dari kulit buah manggis (Aisha et 
+
+al., 2013; Yodhnu et al., 2009; Pothitirat and Gritsanapan, 2009; Islam and Begum, 2011; 
+
+Jujun et al., 2009), ekstrak yang dienkapsulasi dalam PLGA (Poly Lactic-co-Glycolic 
+
+Acid) microspheres (Ali et al., 2012), dan α-mangostin dalam plasma darah tikus 
+
+(Syamsudin et al., 2010). Kondisi optimum KCKT untuk menetapkan kadar α-mangostin 
+
+dalam larutan oral ekstrak kulit buah manggis dicapai menggunakan oktadesilsilan (C18) 
+
+sebagai fase diam, metanol-air (90:10) sebagai fase gerak dengan laju alir 1 mL/menit dan 
+
+detektor UV 316 nm (Nurhidayati et al., 2014). 
+
+ Sebelum digunakan untuk menetapkan kadar α-mangostin metode ini harus 
+
+divalidasi. Apabila pada validasi metode ini dihasilkan spesifisitas, linearitas, presisi, dan 
+
+akurasi yang memenuhi persyaratan maka metode ini akan sangat berguna dalam kontrol 
+
+kualitas larutan oral ekstrak kulit buah manggis. Spesifisitas ditunjukkan oleh nilai resolusi 
+
+pada kromatogram. Linearitas metode bisa dilihat dari besarnya koefisien korelasi kurva 
+
+hubungan antara konsentrasi analit dengan luas puncak. Presisi metode dinilai dari 
+besarnya simpangan baku relatif (SBR) hasil penetapan kadar sedangkan akurasi 
+
+dinyatakan sebagai persen perolehan kembali (artinya hasil bagi nilai yang terukur dengan 
+
+nilai benar dikalikan 100%) (Depkes RI, 1995). Pada penelitian ini digunakan metode 
+
+penambahan baku. Sampel dianalisis lalu sejumlah tertentu analit yang diperiksa 
+
+ditambahkan ke dalam sampel, dicampur dan dianalisis lagi. Selisih kedua hasil 
+
+dibandingkan dengan kadar yang sebenarnya (hasil yang diharapkan). Selain uji mutu, 
+
+metode yang tervalidasi dapat digunakan untuk penetapan kadar dalam kaitannya dengan 
+
+penentuan umur simpan sediaan. 
+
+ 
+METODE PENELITIAN 
+ 
+
+Bahan baku pembanding α-mangostin dengan kemurnian 98,36% diperoleh dari 
+
+Chengdu Biopurify Phytochemical Ltd. Larutan oral ekstrak kulit buah manggis dibuat 
+
+dengan metode kosolvensi menurut cara Sofiah (2013). Alat utama yang digunakan adalah 
+
+kromatograf cair kinerja tinggi Shimadzu LC-20AD. 
+
+Uji Kesesuaian Sistem 
+
+Uji kesesuaian sistem dilakukan dengan menyuntikkan larutan oral 3,0 mL yang 
+
+diencerkan dengan fase gerak sampai 10 mL, disaring dengan kertas saring 0,2 µm dan 
+
+disonikasi. Kondisi KCKT yang digunakan adalah fase diam Shim-pack VP-ODS C18 (4,6 
+
+x 250 mm; 4,6 μm), suhu kolom 40 oC, fase gerak metanol-air (90:10), laju alir 1,0 
+
+mL/menit dengan detektor sinar UV 316 nm. Kurva kalibrasi dibuat menggunakan satu 
+
+seri larutan baku pembanding α-mangostin dengan tujuh konsentrasi berbeda (1, 2, 3, 4, 5, 
+
+6, dan 7 bpj (bagian per juta)). 
+
+Uji Linearitas, Rentang, Batas Deteksi dan Kuantitasi 
+
+Uji linearitas dilakukan dengan membuat satu seri larutan oral dengan tujuh 
+
+konsentrasi yang berbeda (pemipetan 1,5, 2, 2,5, 3, 3,5, 4, dan 4,5 mL ) dalam labu 
+
+ukur 10 mL dan diencerkan dengan fase gerak sampai tanda. Sebanyak 20 µL larutan 
+
+tersebut yang telah disaring dengan kertas saring berpori 0,2 µm dan disonikasi 3-4 menit 
+
+diinjeksikan pada kondisi optimum. Dari kurva pada uji linearitas dapat ditentukan 
+
+rentang, batas deteksi dan batas kuantitasi metode. 
+
+Uji Presisi dan Akurasi 
+
+Uji presisi dilakukan dengan menyuntikkan sejumlah 20 μL larutan sampel yang 
+
+diencerkan sepuluh kali. Larutan sampel disaring dengan kertas penyaring berpori 0,2 µm 
+
+dan disonikasi selama 3-4 menit ke dalam injection port, kemudian diukur luas puncaknya 
+dengan kondisi KCKT optimum. Pengerjaan dilakukan sebanyak 6 kali. Kadar α-
+
+mangostin dalam larutan oral dihitung dengan persamaan kurva kalibrasi. 
+
+Uji perolehan kembali dilakukan dengan menambahkan 20 µg dan 30 µg baku 
+
+pembanding α-mangostin ke dalam larutan oral. Sejumlah 20 µL larutan sampel setelah 
+
+ditambah baku pembanding α-mangostin disaring dengan kertas penyaring berpori 0,2 µm 
+
+dan disonikasi selama 3-4 menit disuntikkan ke dalam injection port, kemudian diukur 
+
+luas puncaknya. Cara yang sama dilakukan juga terhadap 20 µL larutan sampel tanpa 
+
+penambahan baku pembanding. Pengerjaan dilakukan masing-masing sebanyak 3 kali. 
+
+ 
+
+PEMBAHASAN 
+
+Kromatogram α-mangostin dalam larutan oral dengan fase gerak metanol–air 
+
+(90:10) dengan laju alir 1,0 mL/menit diperoleh kromatogram pada Gambar 1. Dengan 
+
+fase gerak dan laju alir ini, puncak α-mangostin terdeteksi dengan waktu retensi 9,622 
+
+menit. Untuk mengetahui kualitas pemisahan dengan puncak yang paling dekat dihitung 
+
+harga resolusi. Resolusi dapat dihitung dengan menggunakan persamaan (1): 
+
+Notasi t1 dan t2 adalah waktu retensi kedua komponen. Huruf w1 dan w2 adalah 
+
+lebar dasar puncak yang diperoleh dengan cara ekstrapolasi tepi puncak yang relatif lurus 
+
+sampai garis dasar. Resolusi dikatakan baik bila nilainya lebih besar atau sama dengan 1,5. 
+
+Berdasarkan persamaan tersebut, puncak α-mangostin pada kromatogram larutan oral 
+
+terpisah dengan baik dengan resolusi 1,725 yang memenuhi kriteria uji spesifisitas 
+
+(spesifik). Harga faktor ikutan (tailing factor) puncak α-mangostin pada kromatogram 
+
+larutan oral sebesar 1,378 (Gambar 1). Harga faktor ikutan (tailing factor), T, diisyaratkan 
+
+untuk mengetahui puncak yang dihasilkan simetris atau asimetris. Semakin besar nilai T 
+
+maka puncak yang dihasilkan semakin asimetris. Nilai T dipersyaratkan tidak lebih dari 
+
+2,0. Faktor ikutan dapat dihitung dengan menggunakan persamaan (2). 
+
+ 
+
+(2) 
+Notasi w0,05 adalah lebar puncak pada 5% tinggi puncak dari garis dasar dan f 
+
+adalah jarak dari puncak maksimum (peak) sampai tepi muka puncak pada 5% tinggi 
+
+puncak dari dasar (Depkes RI, 1995). 
+
+ 
+
+ 
+
+Gambar 1. Kromatogram α-mangostin dalam larutan oral yang dibandingkan dengan 
+
+kromatogram standar α-mangostin. 
+
+ 
+
+ 
+
+ 
+
+Uji Kesesuaian Sistem 
+
+Penyuntikan lima kali larutan oral yang sudah diencerkan menghasilkan luas 
+
+puncak dengan simpangan baku relatif (SBR) 0,45% memenuhi persyaratan Farmakope 
+
+Indonesia Edisi IV, yaitu SBR tidak lebih dari 2%. Dari hasil uji kesesuaian sistem dapat 
+
+disimpulkan bahwa kondisi operasional untuk menganalisis α-mangostin secara KCKT 
+
+sudah membentuk suatu kesatuan sistem yang dapat memberikan hasil yang baik. 
+
+Kurva Kalibrasi, Uji Linearitas, Rentang, Batas Deteksi dan Batas Kuantitasi 
+
+Penyuntikan larutan baku pembanding α-mangostin tujuh konsentrasi yang berbeda 
+
+menghasilkan persamaan garis regresi y = -14555,5124 + 72726,5024 x, dengan nilai 
+
+koefisien korelasi (r) 0,9993 yang linear pada rentang 1,12 bpj sampai 6,96 bpj. Uji 
+
+linearitas dilakukan dengan menetapkan konsentrasi α-mangostin dalam sampel sebanyak 
+
+6 kali kemudian hasilnya diasumsikan sebagai konsentrasi α-mangostin dalam larutan seri 
+
+sampel larutan oral. Dari penetapan konsentrasi α-mangostin dalam sampel 6 kali 
+
+didapatkan konsentrasi α-mangostin 3,34 bpj. Dari uji linearitas diperoleh persamaan garis 
+
+regresi y = 1945,8852 + 62758,2038 x, dengan nilai koefisien korelasi (r) 0,9986 yang 
+
+linear pada rentang 1,67 bpj sampai 5,01 bpj (Gambar 2). Hasil uji linearitas ini 
+menunjukkan bahan matriks tidak berpengaruh pada linearitas α-mangostin dalam larutan 
+
+oral. 
+
+ 
+Konsentrasi α-Mangostin (bpj) 
+
+ 
+
+Gambar 2. Kurva hubungan antara konsentrasi α-mangostin dengan luas puncak. 
+
+ 
+
+Penetapan batas deteksi dan batas kuantitasi diambil dari hasil uji linearitas larutan 
+
+oral. Hasil uji batas deteksi memberikan informasi konsentrasi terendah α-mangostin 
+
+dalam sampel yang masih dapat dideteksi sebesar 0,21 bpj. Hasil uji batas kuantitasi 
+
+memberikan informasi konsentrasi terendah α-mangostin dalam sampel yang masih dapat 
+
+ditetapkan kadarnya dengan presisi dan akurasi yang masih dapat diterima sebesar 0,70 
+
+bpj. Dengan diketahui batas kuantitasi dapat memberikan pedoman berapa konsentrasi α-
+
+mangostin terendah dalam larutan oral yang dapat dipersiapkan untuk penetapan kadar. 
+
+Penetapan Kadar α-Mangostin dalam Larutan Oral dan Uji Presisi. 
+
+Penetapan kadar α-mangostin dalam larutan oral dilakukan sebanyak 6 kali 
+
+pengulangan pada konsentrasi yang sama dimaksudkan untuk sekaligus menguji presisi 
+
+metode. Hasil penetapan kadar dengan 6 kali pengulangan disajikan pada Tabel 1. 
+
+Dari hasil pengujian diperoleh kadar rata-rata α-mangostin dalam larutan oral 
+
+adalah 45,47±0,59 bpj dengan simpangan baku relatif (SBR) 1,30%. Menurut pustaka, 
+
+SBR yang diperbolehkan tidak lebih dari 2,0% atau berdasarkan kadar analit sebesar 45,47 
+
+bpj, SBR yang diperbolehkan tidak lebih dari 11,31% (Harmita, 2004). Dalam penetapan 
+
+uji presisi ini didapatkan hasil SBR yang memenuhi kedua persyaratan tersebut sehingga 
+
+metode KCKT yang diuji dapat memberikan hasil analisis yang teliti (precise). 
+
+ 
+
+Tabel 1. Hasil penetapan kadar α-mangostin dalam larutan oral dan uji presisi 
+
+Replikasi 
+
+Bobot Ekstrak 
+
+Kental Dalam 100 
+mL Larutan Oral 
+
+(mg) 
+
+Luas 
+
+Kadar α-
+Mangostin 
+
+Puncak 
+
+dalam Larutan 
+
+oral (bpj) 
+
+1 
+2 
+3 
+4 
+5 
+6 
+
+17,04 
+
+315327 
+313170 
+316609 
+312803 
+314571 
+324443 
+Rata-rata 
+SB 
+SBR (%) 
+
+45,36 
+45,06 
+45,54 
+45,01 
+45,26 
+46,61 
+45,47 
+0,59 
+1,30 
+
+ 
+
+Hasil presisi yang memenuhi syarat dengan SBR 1,30% 
+
+juga dapat 
+
+menggambarkan bahwa α-mangostin terdispersi homogen dengan sempurna dalam larutan 
+
+oral. Dengan terdispersinya α-mangostin secara homogen, jumlah α-mangostin yang 
+
+diambil pada pengulangan pengambilan sampel dengan pipet akan seragam. 
+
+ 
+
+Uji Akurasi 
+
+Uji akurasi dilakukan sebagai uji perolehan kembali dengan metode penambahan 
+
+baku (standard addition method) karena matriks dalam ekstrak kental kulit buah manggis 
+
+tidak diketahui dengan jelas. Uji ini dilakukan dengan menganalisis sampel larutan oral 
+
+sebanyak 3 kali pengulangan dan dihitung rata-rata kadar α-mangostinnya. Setelah itu, 
+
+sampel larutan oral ditambahkan larutan baku pembanding α-mangostin (konsentrasi 
+
+diketahui) dan ditetapkan kadarnya dengan dilakukan 3 kali pengulangan. Perolehan 
+
+kembali dihitung dengan persamaan (3). 
+
+ 
+
+ 
+r:...
+
+Keterangan: 
+
+wt = Bobot analit dalam sampel setelah penambahan baku pembanding (μg) 
+
+wu = Bobot analit dalam sampel (μg) 
+
+wb = Bobot baku pembanding yang ditambahkan (μg) 
+
+Dari nilai perolehan kembali dilakukan uji t untuk mengetahui ada tidaknya perbedaan 
+
+nyata antara bobot baku pembanding yang ditambahkan dengan bobot baku pembanding 
+
+yang diperoleh kembali. 
+
+ 
+
+44 
+
+100% x kembaliPerolehan wwwbut 
+
+ 
+
+ Penetapan bobot α-mangostin dalam sampel tanpa penambahan baku pembanding 
+
+diperoleh bobot α-mangostin rata-rata 32,70 µg. Pada penambahan 20 µg dan 30 µg 
+
+diperoleh hasil uji perolehan kembali seperti pada Tabel 2. 
+
+Tabel 2. Hasil uji perolehan kembali 
+
+Penambahan 
+
+Baku Pembanding 
+
+(µg) 
+
+20 
+
+30 
+
+Luas 
+
+Puncak 
+
+345959 
+
+350395 
+
+348462 
+
+414195 
+
+413718 
+
+416831 
+
+Bobot 
+
+α-Mangostin 
+
+(µg) 
+
+Baku Pembanding 17,61 
+bpj yang Ditambahkan 
+V (mL) 
+
+w (µg) 
+
+Perolehan 
+Kembali 
+
+(%) 
+
+49,57 
+
+50,18 
+
+49,92 
+
+58,95 
+
+58,89 
+
+59,32 
+
+1,0 
+
+1,5 
+
+17,61 
+
+26,42 
+
+95,80 
+
+99,26 
+
+97,79 
+
+99,36 
+
+99,13 
+
+100,76 
+
+Rata-rata 
+SB 
+SBR (%) 
+thitung 
+ttabel 
+
+98,68 
+1,70 
+1,72 
+1,902 
+2,571 
+
+Keterangan: 
+Bobot α-mangostin yang dimaksudkan pada tabel di atas adalah bobot per 10,0 mL saat 3,0 mL sampel 
+sudah ditambahkan fase gerak sampai 10 mL dalam labu ukur. 
+
+Hasil penetapan perolehan kembali α-mangostin dalam larutan oral didapatkan 
+
+perolehan kembalinya adalah 95,80 - 100,76% dengan SBR 1,72%. Menurut pustaka, 
+
+perolehan kembali yang diperbolehkan berdasarkan kadar analit sebesar 45,47 bpj, adalah 
+
+90-107% (Harmita, 2004). Uji akurasi metode menghasilkan perolehan kembali yang 
+
+memenuhi persyaratan tersebut sehingga metode KCKT yang diuji dapat memberikan 
+
+hasil analisis yang akurat dan teliti. Dari uji t didapatkan bahwa nilai t hitung (1,902) lebih 
+
+kecil dari t tabel (2,571). Hasil ini menunjukkan bahwa tidak ada perbedaan nyata antara 
+
+bobot baku pembanding yang ditambahkan dengan bobot baku pembanding yang 
+
+diperoleh kembali. 
+
+ 
+
+KESIMPULAN 
+
+Metode penetapan kadar α-mangostin dalam larutan oral ekstrak kulit buah 
+
+manggis secara kromatografi cair kinerja tinggi fase balik menggunakan fase diam 
+
+oktadesilsilan (C18), fase gerak metanol-air (90:10), laju alir 1,0 mL/menit, dan detektor 
+
+UV 316 nm memenuhi persyaratan parameter analitik yang meliputi uji spesifisitas, 
+
+linearitas, presisi, dan akurasi untuk pengujian mutu sediaan larutan oral. 
+
+ 
+
+ 

@@ -1,0 +1,118 @@
+﻿
+ Rancang Bangun Alat Pengendali Hama Wereng Mekanik Menggunakan LED dan Alat Penyedot
+
+
+
+ Intisari—Petani padi di dalam usaha pertaniannya banyak mengalami kendala di lapangan, salah satunya serangan hama tanaman. Kondisi saat ini para petani masih mengendalikan hama wereng coklat menggunakan pestisida. Pestisida adalah zat kimia yang sangat berbahaya dan racun bagi manusia, musuh alami, dan lingkungan sekitarnya. Wereng ternyata memiliki sifat tertarik pada lampu, dengan sifat tersebut diciptakan alat mekanik untuk menarik hama wereng coklat mengunakan lampu dan penyedot. Metode yang digunakan pertama mendesain alat dengan solidwork. Merancang hardware dan software pada alat pengendali hama wereng coklat, sehingga dapat mengontrol inputan dari sensor untuk diolah dan diteruskan ke driver motor untuk menyedot. Alat diujicoba di laboratorium dan di lapangan. Hasil pengujian alat pengendali hama wereng coklat di laboratorium ternyata dapat berfungsi dengan baik. Alat dapat merespon masukan dari 3 sensor dan dapat menyedot potongan sterofoam dengan baik. Hasil uji coba alat di lapangan menunjukkan bahwa alat sudah berhasil menangkap serangga wereng dengan menggunakan LED warna putih total tangkapan sebanyak 149 ekor, LED warna biru 148 ekor, LED warna merah 115 ekor, LED warna hijau 72 ekor dan LED warna kuning 66 ekor. 
+Kata kunci—Hama wereng coklat, Pengendali Mekanik, Lampu LED, Sensor Gerak. 
+I. PENDAHULUAN 
+Padi (Oryza sativa L) merupakan komoditas penting karena merupakan makanan pokok rakyat Indonesia. Banyak usaha yang telah dilakukan pemerintah untuk meningkatkan produktivitas padi. Hama merupakan salah satu kendala yang menyebabkan hasil panen menurun, salah satunya adalah wereng coklat. 
+Wereng cokelat (Nilaparvata lugens Stål) merupakan hama penting tanaman padi di Indonesia. Wereng mampu berkembang biak membentuk populasi cukup besar dalam waktu singkat dan merusak tanaman pada semua fase pertumbuhan [1]. 
+Pengendalian wereng coklat saat ini masih menggunakan penyemprotan pestisida. Penggunaan pestisida dengan intensitas tinggi dan dilakukan secara terus menerus akan menyebakan pencemaran pada lingkungan pertanian serta racun bagi manusia. Apabila zat tersebut disemprotkan pada tanaman padi ada kemungkinan tanaman padi tersebut terkontaminasi dan sangat berbahaya bagi manusia. Pestisida dapat membahayakan petani apabila cairan pestisida terkena tubuh [2,3]. 
+Wereng tinggal di pangkal batang padi, ukurannya kecil-kecil, jumlahnya banyak, aktif bergerak. Serangga ini mempunyai siklus hidup 3-4 minggu yang dimulai dari telur (7-10 hari), nimfa (8-17 hari), imago (18-28 hari). Nimfa (wereng pra dewasa) dan imago (wereng dewasa) menghisap cairan dari batang padi [4]. 
+Wereng coklat dewasa sangat tertarik dengan lampu. Daya tarik tersebut merupakan sifat fototaksis yang ada pada serangga umumnya. Serangga mampu memberikan respon terhadap lampu dengan panjang gelombang antara 300-400 nm (warna mendekati ultrafiolet) sampai 600-650 nm (warna jingga) [5]. 
+Diantara beberapa warna spektrum cahaya tersebut, ada dua yang menghasilkan respon paling tinggi pada serangga yaitu cahaya mendekati ultraviolet (350 mμ) dan hijau kebiruan (500 mμ). sifat fototaksis yang ada pada serangga umumnya tertuju pada warna yang mendekati ultraviolet tersebut [6]. 
+Saat ini sudah ada alat mekanik yang digunakan untuk menarik populasi wereng. Namun alat mekanik yang sudah ada hanya mengendalikan hama wereng coklat pada fase imago [1]. 
+Fase imago adalah hama wereng coklat dewasa yang sudah memiliki sayap dan dapat berpindah tempat dengan cara terbang. Sedangkan nimfa tidak dapat terbang. Foto alat pengendali hama wereng pada fase imago dapat ditunjukan Gbr. 1. 
+Alat pengendali tersebut bersifat menetap dan memerlukan daya lampu 100 watt. Desain alat pengendali fase imago seperti ini tidak flexibel jika diaplikasikan di area sawah yang luas sehingga tidak mobile saat penggunaannya. Oleh sebab itu dibuat rancang bangun alat mekanik tanpa pestisida, yang dapat mengendalikan populasi hama wereng coklat pada fase nimfa dan imago.
+
+
+
+Pengendalian hama wereng coklat yang dilakukan dengan cara memanfaatkan sifat wereng yang tertarik pada lampu sehingga alat ini dapat difungsikan sejak dini sebelum hama wereng dapat berkembang menjadi fase imago dan alat ini ramah lingkungan. 
+Alat yang akan dibuat berbeda dengan alat yang sudah ada. Alat ini bersifat mobile menggunakan lampu LED dan alat penyedot. Tujuan dari penelitian ini adalah membuat rancang bangun alat pengendali hama wereng coklat secara mekanik menggunakan warna lampu LED dan alat penyedot. 
+II. METODOLOGI 
+Langkah pertama membuat desain rancangan alat menggunakan software Solidwork. Alat pengendali hama wereng coklat di desain berbentuk tas punggung dan memiliki corong penyedot berbentuk kerucut. Sebagai penghubung antara corong penyedot dan tas penampung hama terdapat pipa yang berbentuk leher angsa, yang berguna jika hama wereng coklat tertangkap maka hama wereng coklat tidak dapat keluar kembali. Hama wereng coklat terperangkap masuk kedalam kotak penampung. 
+Langkah kedua merancang hardware yang terdiri dari dua bagian yaitu: bagian sensor dan lampu LED yang berguna sebagai menarik hama wereng coklat. Pada bagian kontrol terdiri dari mikrokontroller sebagai pengolahan input data. 
+Driver motor sebagai pengendali motor untuk memutarkan baling baling penyedot. Motor DC sebagai alat penyedot, dan Aki sebagai Sumber daya. Setelah alat pengendali ini selesai dirakit kemudian dikontrol dengan software bascom, berfungsi mengontrol masukan inputan dari tiga sensor kemudian data diolah dan diteruskan ke driver motor. 
+Alat kemudian diuji cobakan untuk mengetahui apakah alat pengendali hama wereng coklat dapat berfungsi dengan baik. Uji coba skala laboratorium dilakukan dengan memberi input diberi serbuk potongan sterofoam sebagai pengganti hama wereng coklat. 
+Pengujian alat di lapangan dilakukan pada petak sawah dengan luas yang akan diuji (2 meter x 2 meter) untuk tiap warna lampu LED. Pada saat pengujian alat diberi waktu selama 10 menit untuk setiap warna lampu. Setiap satu seri pengujian yang terdiri 5 jenis warna lampu yaitu merah, hijau, kuning, biru, dan putih. Perlakuan diulang sebanyak 5 kali. Selama pengujian per uji coba di beri jarak per hari dan tempat sawah selalu berbeda tempat. Uji coba di lapangan dilakukan di lokasi sawah pada bulan Oktober 2013 Berikut ini adalah tabel jadwal uji coba alat di sawah, dapat ditunjukkan pada TABEL I.
+
+
+A. Perancangan Desaian Alat 
+Tahapan awal penelitian yang dilaksanakan yaitu: merancang desain alat menggunakan solidwork. Desain alat pengendali wereng dapat ditunjukkan pada Gbr. 2.
+
+Keterangan: 
+A. Penutup Lubang angin keluar 
+B. Tas punggung yang berisi alat penyedot 
+C. Tali punggung untuk membawa tas 
+D. Busa untuk tatakan punggung agar nyaman di pakai 
+E. Lampu LED berwarna 
+F. Sensor gerak (optocoupler) 
+G. Pipa Pralon 
+H. Bibir corong diameter 2 inchi 
+
+Mengacu pada Gbr 2, yang memperlihatkan suatu alat pengendali hama wereng coklat secara mekanik menggunakan warna lampu LED tampak depan. Corong penyedot berbentuk kerucut dengan lampu dipasang dibagian dalam mengelilingi corong (E). Wereng tersedot masuk ke dalam kotak penampung hama (B) melalui pipa paralon (G) sesaat setelah sensor gerak (F) memberikan sinyal dan mengaktifkan mikrokontroler yang berada satu kotak dengan kotak penampung hama (B). 
+Penambahan 2 (dua) buah tali pengikat (C) pada kotak penampung hama (B) dimaksukan untuk mempermudah mobilitas alat dan memungkinkan dapat dipakai di punggung petani. 
+Untuk menghindari keluarnya hama wereng coklat dari dalam kotak penampung, maka pipa paralon (G) dibuat menyerupai leher angsa dan ditambahkan katup penutup (A) pada pipa paralon (G). 
+Desaian rancang bangun hama wereng coklat ini belum pernah ada sebelumnya. Desain alat ini tidak menggunakan pestisida, karena pestisida adalah racun bagi musuh alami, lingkungan sekitar, dan racun untuk manusia itu sendiri. 
+B. Perancangan Perangkat Keras ( Hardware) 
+Uji coba alat dilakukan di laboratorium. Alat pengendali hama wereng coklat berdasarkan warna lampu LED terdiri dari tiga bagian yaitu input, proses, dan output. Diagram blok sistem perangkat penangkap wereng dapat ditunjukkan pada Gbr. 3.
+
+Rangkaian sistem minimum mikrokontroler AT-Mega 16 dapat memproses input dan menghasilkan output. Sensor gerak diuji dengan diberi inputan gerakan dan jika terpicu suatu gerakan maka akan menghasilkan beda potensial tegangan. 
+Lampu LED di uji dengan menghubungkan dengan aki sehingga lampu LED dapat menyala. Rangkaian driver motor DC di beri inputan dari output sistem mikrokontroler sehingga output driver motor dapat memutarkan motor DC. Motor DC di uji dengan menghubungkan dengan aki 12 volt sehingga motor DC dapat berputar, dan aki di uji dengan cara mengukur tegangan dan arus yang tersimpan dalam aki. 
+C. Hasil Uji Coba Skala Laboratorium 
+Alat pengendali hama wereng coklat telah selesai dibuat, setelah alat jadi dilakukan uji coba alat yang tujuanya untuk mengetahui apakah alat dapat berfungsi dengan baik. 
+1) Pengujian Rangkaian Sistem Minimum Mikrokontroler: 
+Pengujian sistem minimum mikrokontroler dilakukan untuk mengetahui apakah mikrokontroler dapat bekerja sesuai dengan fungsi semestinya. 
+Pengujian dilakukan dengan menjalankan program yang akan membuat LED nyala secara bergantian. Setiap port dihubungkan dengan LED untuk mengetahui apakah masing-masing kaki berfungsi dengan baik. 
+Pada CodeWizartAVR dilakukan pengaturan Port A, Port B, Port C, dan Port D sebagai output. Kemudian pada CodeVisionAVR dituliskan program sebagai berikut : 
+$regfile = "m32def.dat" 
+$crystal = 11059200 
+Config Portc = Output 
+Portc = &B1111_1110 
+Do 
+Rotate Portc , Right , 1 
+Waitms 500 
+Loop 
+End 
+Hasil pengujian masing-masing kaki port mikrokontroler ATmega 16 dengan mengukur tegangan output masing-masing kakinya selama 10 kali pengujian dapat ditunjukkan pada TABEL II.
+
+Berdasarkan TABEL 1, diperoleh hasil bahwa pengujian masing – masing kaki pada port mikrokontroler berhasil. Dikatakan berhasil jika berlogika 1 nilai tegangan mendekati 5 volt. Kaki mikrokontroller dapat digunakan sebagai input output, atau penghubung alat lainnya. Untuk logika “1” tegangannya berkisar antara 3,9 V – 4,8 V dan logika “0” tegangannya berkisar antara 0 V – 1,2 V. 
+2) Pengujian Rangkaian Sensor gerak: 
+Pengujian rangkaian sensor gerak ini dilakukan untuk mengetahui kondisi tegangan rangkaian sensor saat mendeteksi garis pada lintasan. Hasil pengujian rangkaian sensor gerak dapat ditunjukkan pada TABEL III.
+
+
+Dari TABEL III hasil pengujian rangkaian sensor gerak di atas, didapat bahwa rata – rata tegangan keluaran optocoupler saat sensor tidak mendeteksi benda bergerak adalah 4,12 V, sedangkan pada saat mendeteksi benda bergerak tegangan keluaran rata-ratanya adalah 0,13 V. 
+D. Perancangan Perangkat Lunak (Software) 
+Perancangan desain perangkat lunak alat pengendali hama wereng coklat menggunakan pemrograman basic compiller.
+
+Keterangan flowchart alat pengendali hama wereng coklat menggunakan algoritma: 
+1) Setelah power dinyalakan alat penyedot akan menyala hanya memutarkan motor DC 150 rpm. Motor dinyalakan terlebih dahulu berfungsi untuk menarik wereng masuk untuk mengenai sensor gerak. Apabila motor tidak dinyalakan terlebih dahulu, maka yang terjadi hama wereng coklat hanya berkumpul di depan corong. Kemudian alat corong diuji cobakan pada sawah serta corong didekatkan pada batang padi. 
+2) Mikrokontroler melakukan proses pembacaan benda bergerak berupa masukan dari sensor gerak dan melakukan pengecekan sensor mana yang mengenai terlebih dahulu. Berikut beberapa kondisi sensor membaca inputan: 
+ Jika salah satu sensor terkenai ada pergerakan hama wereng coklat yang melintasi sensor, maka akan memutarkan motor DC 190 rpm. 
+ Jika kedua sensor terkenai ada pergerakan hama wereng coklat yang melintasi sensor, maka makin banyak wereng yang tertarik terhadap nyala warna lampu sehingga akan memutarkan motor DC 215 rpm. 
+ Jika ketiga sensor terkenai ada pergerakan hama wereng coklat yang melintasi sensor, maka makin lebih banyak wereng yang tertarik terhadap nyala warna lampu sehingga akan memutarkan motor DC 255 rpm. 
+
+E. Hasil uji Coba Perangkat Lunak 
+Setelah alat selesai dibuat dan di lakukan pengujian skala laboratorium, kemudian alat pengendali hama wereng coklat diisi program dengan bascom AVR. Bascom AVR adalah program pengendali input dari sensor. Alat pengendali hama wereng dapat berjalan sesuai dengan kondisi yang diberikan kedalam perintah mikrokontroller. Foto alat pengendali hama wereng fase nimfa dapat ditunjukan Gbr. 5.
+
+F. Hasil Uji Coba di Lapangan 
+Setelah alat teruji dengan baik di laboratorium selanjutnya alat dilakukan pengujian dilapangan atau sawah. Uji coba alat pengendali hama wereng coklat di lakukan di sawah milik bapak Lilik Sutresno di daerah Desa Mundingan, Kelurahan Cepoko, Kecamatan Gunungpati, Semarang pada bulan Oktober 2013. Padi yang diuji berumur 40 hari, dengan jenis varietas padi Ciliwong. Alat diuji pengaruh variasi warna lampu LED berwarna (Merah, Putih, Hijau, Kuning dan Biru) untuk mengetahui ketertarikan hama wereng coklat. 
+1) Hasil Uji Coba Alat Ulangan Pertama: Pada uji coba tahap pertama tanggal 13 Oktober 2013 jumlah wereng terbanyak yang tertarik pada lampu LED berwarna Biru 129 ekor, sedangkan terendah pada warna lampu LED Hijau 45 ekor (Gbr. 6).
+2) Hasil Uji Coba Alat Ulangan kedua: Pada uji coba tahap kedua tanggal 19 Oktober 2013 jumlah wereng terbanyak yang tertarik pada lampu LED berwarna Putih 149 ekor, terendah warna kuning 66 ekor (Gbr. 7).
+3) Hasil Uji Coba Alat Ulangan Ketiga: Pada uji coba tahap ketiga tanggal 20 Oktober 2013 jumlah wereng terbanyak yang tertarik pada lampu LED berwarna Putih 198 ekor, terendah warna kuning 67 (Gbr. 8).
+4) Hasil Uji Coba Alat Ulangan Keempat:Penguji cobaan alat pengendali wereng keempat pada. Pada uji coba tahap keempat tanggal 26 Oktober 2013, jumlah wereng terbanyak yang tertarik pada lampu LED berwarna Putih 114 ekor hama wereng coklat, terendah warna kuning 43 ekor (Gbr. 9).
+5) Hasil Uji Coba Alat Ulangan Kelima: Pada uji coba tahap kelima tanggal 27 Oktober 2013, jumlah wereng terbanyak yang tertarik pada lampu LED berwarna Biru 175 ekor hama wereng coklat, terendah warna hijau 79 ekor (Gbr. 10).
+6) Analisis hasil rekapitulasi rata-rata jumlah wereng tertangkap: Setelah melakukan uji coba alat pengendali hama wereng coklat dilakukan sebanyak lima kali, dengan perlakukan lima warna lampu LED. Didapat data rekapitulasi jumlah wereng yang tertangkap, data dapat ditunjukkan pada TABEL IV.
+Data rekapitulasi jumlah wereng yang tertangkap pada TABEL IV. direkap kemudian di rata-rata menurut jumlah wereng yang tertangkap, dan lima buah warna lampu LED dapat ditunjukkan pada Gbr. 11.
+
+Data grafik Gbr. 11 tentang rata-rata jumlah wereng tertangkap berdasarkan warna lampu. Data tersebut kemudian dianalisis anova dengan menggunakan perangkat lunak SPSS versi 10. Berikut adalah hasil uji anova ditunjukkan pada TABEL V.
+
+Analisis data Anova: Hasil perlakuan pengujian sesuai pengolahan menggunakan uji anova. Nilai F-hitung = 12.121. Nilai F-tabel = 2.87 F-hitung> F-tabel berarti rata – rata jumlah wereng yang tertangkap dari 5 warna lampu berbeda nyata. Berdasarkan data uji anova menunjukan ada perbedaan yang nyata pengaruh warna lampu terhadap jumlah hama wereng coklat yang tertangkap dengan signifikasi α = 0.05. Data diuji lanjut dengan uji Tukey (TABEL VI).
+
+
+Pada kolom mean difference yang memiliki tanda(*), berarti berbeda nyata. Sehingga memiliki komparasi warna lampu yang berbeda nyata dalam perbandingan jumlah wereng yang tertarik. 
+Hasil komparasi warna lampu terhadap uji tukey HSD, maka selanjutnya perlu pengelompokan yang termasuk warna berbeda nyata dengan warna lain dikelompokan sesuai kepemilikan tanda bintang (*). Agar diketahui warna lampu mana yang berbeda nyata dan mana lampu yang tidak memiliki kesamaan berbeda nyata dengan warna lampu lain. Hasil komparasi dapat ditunjukan pada TABEL VII.
+
+
+Huruf pada kolom yang sama menunjukan tidak berbeda nyata pada taraf 95%. Secara statistic warna Biru=Merah=Putih itu tidak berbeda nyata terhadap jumlah wereng yang tertangkap. 
+Keterbaruanya alat pengendali hama wereng coklat dibanding alat yang lama adalah: 
+1. Cahaya lampu yang digunakan menggunakan lampu LED dengan daya 12 watt, lebih hemat, Jelas warnanya, dan lebih terang. 
+2. Alat pengendali hama wereng coklat ini dilengkapi alat penyedot yang berfungsi sebagai vaccum untuk menarik hama wereng fase nimfa yang tidak memiliki sayap, dan fase imago yang mempunyai sayap. 
+3. Sumber tenaga yang digunakan adalah aki kering berdaya 12V/7A yang mudah dibawa, tanpa perawatan khusus dan tidak tumpah serta dapat diisi ulang kembali. 
+
+IV. KESIMPULAN 
+Setelah dilakukan pengujian pada penelitian “Rancang Bangun Alat Pengendali Hama Wereng Coklat Secara Mekanik Menggunakan Warna Lampu LED” didapat kesimpulan sebagai berikut : 
+1) Alat penangkap ham a wereng didesain untuk dapat menarik hama wereng dengan ketertarikan cahaya LED dan alat penyedot. Alat dibangun menggunakan mikrokontroler ATmega 16 sebagai pengendalli utama dan BASCOM AVR dengan bahasa basic sebagai program server. 
+2) Pengaruh warna LED terhadap ketertarikan hama wereng secara statistik menunjukan bahwa warna lampu LED Putih, Biru, dan Merah tidak berbeda nyata dalam menarik jumlah wereng yang tertangkap, tetapi berbeda nyata dengan warna lampu LED Hijau dan Kuning. 
+

@@ -1,0 +1,713 @@
+﻿
+Model Dynamic Pricing untuk Penetapan Harga Tiket Pesawat 
+
+Terbang Berbasis Waktu dan Persediaan Kursi dengan 
+
+Mempertimbangkan Keputusan Kompetitor 
+
+
+
+Pendahuluan 
+
+ 
+Perkembangan industri penerbangan turut meningkatkan tingkat persaingan antar maskapai. 
+Persaingan yang ketat mendorong maskapai penerbangan untuk mampu merumuskan strategi 
+dalam memaksimalkan pendapatannya. Kebijakan 
+pengelolaan permintaan serta seluruh metodologi 
+dan sistem yang dibutuhkan untuk membuatnya 
+dengan tujuan memaksimalkan pendapatan disebut 
+revenue management (RM) (Tallury dan Ryzin [13]). 
+Penerapan revenue management di maskapai penerbangan disebut dengan Airlines Revenue Management 
+(ARM). ARM yang diterapkan di maskapai penerbangan dengan tujuan untuk memaksimalkan pendapatan melalui pengelolaan sumber daya yang 
+dimiliki secara optimal. Dapat dikatakan ARM adalah bagaimana memperoleh pendapatan yang maksimum melalui pengelolaan kursi yang tersedia. 
+Maskapai melakukan pengelolaan perolehan pendapatan dengan ARM karena beberapa kondisi 
+seperti permintaan kursi yang bersifat tidak pasti 
+(unpredictable), kelebihan kursi penerbangan yang 
+tidak laku dijual tidak dapat disimpan yang 
+kemudian hal ini menjadi opportunity cost, fleksibilitas penumpang dalam memilih kelas atau 
+jadwal penerbangan sehingga dapat dibagi menjadi 
+beberapa segmen penumpang, kapasitas kursi yang 
+disediakan yang berjumlah tetap sesuai dengan 
+armada pesawat. 
+ 
+
+ 
+Dynamic pricing adalah sebuah strategi dalam ARM 
+yaitu berupa pengaturan penetapan harga yang bertujuan untuk meningkatkan pendapatan maskapai 
+penerbangan. Penggunaan dynamic pricing sangat 
+tepat untuk diterapkan pada industri penerbangan 
+yang memiliki karakteristik harga tiket pesawat terbang yang dinamis. Pada waktu tertentu (sebelum 
+waktu kebergangkatan dan selama waktu penjualan), harga tiket pesawat terbang akan berbeda 
+dengan harga tiket pesawat terbang pada waktu 
+sesaat sebelum keberangkatan. Pada umumnya, 
+harga tiket pesawat terbang sangat tinggi pada saat 
+menjelang waktu keberangkatan. Ketika waktu 
+penjualan (selling horizon time) masih panjang, maka harga tiket pesawat terbang cenderung 
+rendah. Penetapan harga tersebut ditentukan 
+berdasarkan beberapa kriteria. Kriteria tersebut 
+dapat berupa kriteria sisa waktu penjualan, sisa 
+kursi yang belum terjual, harga kompetitor, dan lain 
+sebagainya. Sisa kursi yang belum terjual sampai 
+waktu penjualan berakhir akan menjadi suatu nilai 
+(revenue) yang masih dapat diselamatkan melalui 
+kursi yang sudah terjual dengan melakukan strategi 
+penetapan harga secara dinamis (Lin dan Sibdari 
+[7]). Strategi penetapan harga secara dinamis 
+tersebut dilakukan untuk menjual kursi yang sama 
+dengan kelas harga yang berbeda kepada konsumen 
+yang bersedia membayar pada kelas harga tersebut. 
+Misalnya saja, penumpang yang memesan tiket satu 
+bulan sebelum jadwal keberangkatan memiliki 
+peluang penerimaan yang rendah terhadap harga 
+tiket yang tinggi. Oleh sebab itu pada waktu 
+tersebut harga tiket masih ditetapkan rendah agar 
+konsumen bersedia melakukan pembelian. Namun 
+sebaliknya, penumpang yang memesan tiket pada 
+waktu menjelang keberangkatan memiliki peluang 
+
+ 
+
+penerimaan yang tinggi terhadap harga tiket yang 
+tinggi. Penumpang tipe ini akan dapat menyelamatkan revenue yang akan hilang akibat masih adanya 
+sisa kursi pada waktu keberangkatan dengan 
+catatan load factor dari pesawat tersebut telah 
+terpenuhi. Load factor adalah prosentase rata-rata 
+dari kapasitas terisi dibandingkan keseluruhan 
+kapasitas yang tersedia (Bazargan[1]). 
+ 
+Pada dynamic pricing ada beberapa strategi penetapan harga yang dapat dilakukan oleh maskapai 
+penerbangan. Park dan Seo [9] meneliti mengenai 
+strategi penetapan harga secara dinamis oleh maskapai penerbangan dengan mempertimbangkan 
+customer choice behavior. Customer choice behavior 
+merupakan klasifikasi calon penumpang berdasarkan perilaku calon penumpang dalam memilih 
+penerbangan (Tallury dan Ryzin [14]). Park dan Seo 
+[9] mengklasifikasikan 3 strategi penetapan harga 
+secara dinamis yaitu yang disebut dengan strategi 
+increasing price, decreasing price, dan fluctuating 
+price seperti yang digambarkan pada Gambar 1. 
+Xiao et al. [15] mengkategorikan penumpang potensial ke dalam dua kelompok berdasarkan perilaku 
+dalam memilih yaitu time-sensitive dan pricesensitive. Penumpang time-sensitive tidak memperhatikan harga tiket yang ditawarkan dalam 
+memilih penerbangan, sedangkan penumpang price 
+sensitive memilih penerbangan dengan harga tiket 
+murah dan tidak mementingkan jadwal penerbangan. Tipe konsumen yang dikelompokkan sebagai 
+tipe time-sensitive yaitu tipe konsumen yang memilih penerbangan berdasarkan jadwal penerbangan yang sesuai dengan jadwal yang diinginkan 
+konsumen. Tipe konsumen price-sensitive merupakan konsumen yang memilih penerbangan dengan 
+prioritas harga tiket pesawat yang sesuai dengan 
+tingkat penerimaan konsumen terhadap harga tiket 
+yang ditawarkan. 
+ 
+Keuntungan penetapan harga secara dinamis adalah dapat melakukan penaikan atau penurunan 
+harga sesuai dengan keinginan perusahan untuk 
+dapat meningkatkan pendapatan perusahaan. 
+Namun, penetapan harga pada penjelasan di atas 
+dapat dilakukan secara bebas apabila perusahaan 
+memonopoli pasar. Beberapa penelitian terdahulu 
+yang melakukan penelitian mengenai model dynamic pricing pada pasar monopolistik antara lain 
+adalah Gallego dan van Ryzin [4], Chatwin [2], Feng 
+dan Xiao [3], Zhao dan Zheng [16], dan Lin [5]. 
+Namun pada kenyataannya, khususnya di Indonesia, perusahaan penerbangan tidak dapat melakukan monopoli pasar. Penelitian mengenai model 
+dynamic pricing pada dua penerbangan paralel yang 
+dimiliki oleh satu maskapai yang sama pernah dilakukan oleh Rusdiansyah et al. [11, 12], Putri dan 
+Rusdiansyah [10]. Selain itu, beberapa penelitian 
+yang ada pada literatur yang membahas masalah 
+dynamic pricing pada dua maskapai yang saling 
+
+berkompetisi antara lain Li dan Hua[6], Lin dan 
+Sibdari [7] dan Mart dan Talluri [8]. 
+ 
+Li dan Hua [6] mengembangkan model dynamic 
+pricing dalam menentukan harga tiket penerbangan 
+untuk penerbangan paralel dengan pendekatan 
+waktu kontinu dan mempertimbangkan sisa kursi. 
+Penelitian tersebut ditujukan untuk kondisi under 
+competition, yaitu kompetisi antar satu perusahaan 
+penerbangan dengan perusahaan penerbangan lain 
+yang masih dalam satu aliansi, dua perusahaan 
+penerbangan yang menjalin kerja sama. Li dan Hua 
+[6] membahas dynamic pricing pada dua maskapai 
+yang juga saling berkompetisi dengan pendekatan 
+waktu kontinu dan mempertimbangkan sisa waktu 
+penjualan dengan dua kelas harga yang dibuka 
+untuk masing-masing maskapai penerbangan (maskapai A dan B). 
+ 
+Lin dan Sibdari [7] mengembangkan model dynamic 
+pricing dengan mempertimbangkan strategi tarif 
+yang ditetapkan kompetitor. Model ini membuktikan eksistensi dari nash equilibrium dengan berbagai skenario. Nash equilibrium merupakan suatu 
+strategi permainan dimana setiap strategi yang dipilih oleh masing-masing pemain adalah strategi optimum yang ditujukan untuk mengantisipasi strategi yang dilakukan oleh pemain lain hingga tercapai kondisi equilibrium. Dapat dikatakan, nash 
+equilibrium merupakan strategi peresponan dari 
+strategi kompetitor hingga tercapai kondisi seimbang untuk kedua pemain. 
+ 
+Mart dan Talluri [8] mengembangkan model dynamic pricing untuk persaingan dalam persaingan oligopoli dimana setiap pemain menjual kapasitas 
+yang tetap dalam satu periode. Penelitian Mart dan 
+Talluri [8] ini juga membuktikan adanya unique 
+subgame-perfect equilibrium untuk persaingan 
+duopoli. Model yang dikembangkan menggunakan 
+konsep dari bid-price control. Bid-price control merupakan suatu konsep model berbasis kompetisi 
+yang sering diterapkan pada revenue management. 
+ 
+
+Gambar 1. Strategi penetapan harga: increasing price, 
+decreasing price, dan fluctuating price 
+
+ 
+ 
+
+Pada penelitian ini akan dibahas mengenai perubahan harga tiket pesawat terbang yang berubah 
+secara dinamis dan diskrit pada penerbangan antar 
+dua maskapai penerbangan (maskapai A dan B) 
+yang saling bersaing. Berbeda dengan penelitian 
+mengenai dynamic pricing yang ada pada literatur, 
+pada penelitian ini, perubahan harga secara dinamis 
+dipengaruhi oleh 3 hal yaitu sisa waktu penjualan, 
+sisa kursi penerbangan yang belum terjual, dan juga 
+harga yang dipasang oleh kompetitor. Maskapai 
+penerbangan A akan merespon harga yang ditetapkan oleh penerbangan B. Penelitian ini akan membahas tentang respon yang dilakukan oleh maskapai A apabila terjadi perubahan harga yang ditetapkan kompetitor (maskapai B). Penelitian ini 
+akan membahas perubahan harga sedemikian, 
+hingga dapat memaksimalkan ekspektasi pendapatan maskapai A. Selain itu juga membahas tentang 
+pengaruh dari tingkat kedatangan calon penumpang beserta periode pembukaan kelas harga 
+terhadap ekspektasi pendapatan. 
+ 
+
+ 
+Formulasi Model 
+ 
+Model yang dibangun dalam hal ini adalah model 
+perhitungan ekspektasi pendapatan yang diperoleh 
+maskapai penerbangan dengan kelas harga yang 
+dibuka adalah kelas harga PA untuk maskapai A 
+(atau PB untuk maskapai B). Fungsi tujuan adalah 
+memaksimalkan ekspektasi pendapatan maskapai 
+penerbangan A (atau B) dengan variabel keputusan 
+adalah harga kelas PA yang dibuka oleh maskapai A 
+(PB untuk maskapai B). 
+ 
+Penyelesaian model dynamic pricing dimulai dari 
+event terakhir (T+1) terlebih dahulu, kemudian secara berturut-turut mundur satu event hingga event 
+ke-0. Total expected revenue penerbangan A dinyatakan dengan fungsi R0(C1+v1). 
+ 
+Model pada Event t < T+1 
+ 
+Event t<T+1 merupakan horison penjualan dimana 
+pada event ini dapat terjadi pembelian, pembatalan 
+pembelian tiket (cancellation), dan null event. Pada 
+event t<T+1 ini terdapat 3 kondisi sisa kursi yaitu 
+kondisi ketika sisa kursi penerbangan A masih ada 
+namun penerbangan B sudah habis(nA=0, nB<0), 
+kondisi ketika sisa kursi penerbangan A sudah 
+habis namun penerbangan B masih ada (nA>0, nB = 
+0), dan kondisi ketika sisa kursi kedua penerbangan 
+masih ada (nA>0, nB>0). 
+ 
+Model pada Kondisi Sisa Kursi Penerbangan A 
+Sudah Habis namun Penerbangan B Masih 
+Ada (nA=0, nB>0) 
+ 
+Pada kondisi ini jumlah tiket yang terpesan pada 
+penerbangan A sudah mencapai batas reservasi 
+
+maksimal sedangkan pada penerbangan B belum. 
+Kejadian yang mungkin terjadi adalah tidak adanya 
+pembelian tiket pada penerbangan A yang dinyatakan dengan persamaan: 
+
+ (  )            
+(1) 
+Persamaan (1) menunjukkan bahwa pada kondisi 
+sisa kursi penerbangan B masih ada namun penerbangan A sudah habis, tidak ada pemasukan pendapatan untuk penerbangan A, sehingga besaran 
+ekspektasi pendapatan penerbangan A bernilai 0. 
+ 
+Model pada Kondisi Sisa Kursi Penerbangan A 
+Masih Ada namun Penerbangan B Sudah 
+Habis (nA>0,nB=0) 
+ 
+Pada kondisi ini jumlah tiket yang terpesan pada 
+penerbangan B sudah mencapai batas reservasi 
+maksimal sedangkan pada penerbangan A belum. 
+Sehingga pada kejadian yang mungkin terjadi adalah pembelian tiket pada penerbangan A, dan null 
+event. Selain itu pada kondisi ini alternatif kelas (P) 
+yang boleh dibuka untuk penerbangan A akan 
+bergantung pada kondisi sisa kursi dan periode 
+event-nya. 
+ 
+Alternatif kelas berisi kelas 1 hingga kelas k. Di 
+mana kelas k merupakan kelas terendah yang boleh 
+dibuka. Nilai k ditentukan dari batasan periode dan 
+jumlah kursi (booking limit) per kelas, yaitu nilai k 
+terbesar yang memenuhi kondisi t <t(pk) dan nA < 
+BL(pk). Selanjutnya dilakukan perhitungan ekspektasi pendapatan dan ditentukan optimal pricing 
+untuk penerbangan A (pA) dari alternatif harga tiket 
+(p1, p2, …,pk). Pada kondisi ini, jika ada kustomer 
+tipe III yang datang, akan langsung memilih penerbangan A karena tiket untuk penerbangan B telah 
+terjual habis hingga batas maksimum reservasi. 
+
+ 
+Persamaan (2) menunjukkan bahwa pada kondisi 
+sisa kursi penerbangan A masih ada namun penerbangan B sudah habis, karena calon penumpang 
+pasti memilih penerbangan A maka akan ada 3 
+kemungkinan kejadian. 
+ 
+Model pada Kondisi Sisa Kursi Kedua Penerbangan Masih Ada (nA>0, nB>0) 
+ 
+Pada kondisi ini jumlah tiket yang terpesan pada 
+penerbangan A dan B belum mencapai batas reservasi. Kejadian yang mungkin terjadi adalah pem- 
+
+ 
+
+belian tiket pada penerbangan A, serta null event. 
+Pada kondisi ini, jika ada kustomer tipe III yang 
+datang, akan dilihat harga kelas dikedua penerbangan terlebih dahulu. Penumpang tipe III akan 
+membeli tiket pada penerbangan dengan harga 
+terendah. Peluang calon penumpang dalam memilih 
+harga yang ditetapkan oleh penerbangan A dibandingkan dengan harga pada penerbangan B ditentukan dengan peluang qA(Pki). Calon penumpang 
+yang beralih ke penerbangan B karena harga pada 
+penerbangan B lebih murah daripada penerbangan 
+A ditentukan dengan peluang qA’(Pki). Apabila calon 
+penumpang tidak melakukan pembelian baik itu 
+penerbangan A maupun B karena harga yang dirasa 
+terlalu tinggi ditentukan dengan peluang qo(Pki). 
+
+ Persamaan (3) menunjukkan bahwa pada kondisi 
+sisa kursi penerbangan A dan B belum mencapai 
+batas maksimal reservasi, ada dua kemungkinan 
+kejadian dan null event. Masing-masing kejadian 
+tersebut memiliki kontribusi terhadap pendapatan 
+maskapai penerbangan seperti pada kondisi lainnya. 
+ 
+
+Hasil dan Pembahasan 
+
+ 
+Percobaan Numerik 
+ 
+Untuk menguji model yang telah dikembangkan dilakukan percobaan numerik dengan parameter awal 
+sebagai berikut: kapasitas kursi untuk kedua penerbangan sama, C1 = C2 = 80. Tiket dapat dijual 
+dengan empat alternatif harga tiket dan satu harga 
+tiket penuh untuk flexible class. Selling horizon dibagi menjadi T = 150 events, dimana proporsi untuk 
+kustomer tipe I dan tipe III adalah (α1, α3) = (33%, 
+33%). Peluang pelanggan tipe 1 untuk memilih 
+flexible class adalah 0,3. Dalam percobaan numerik 
+terdapat satu harga full price, dan empat alternatif 
+kelas harga {pi1, pi2, pi3, pi4} dengan i=A,B untuk 
+dynamic pricing. Pada Tabel 1. disajikan daftar 
+harga yang ditawarkan. Contoh untuk kenaikan 
+kelas harga disajikan pada Tabel 2. Daftar harga 
+dan kenaikan kelas harga tersebut mengacu pada 
+harga tiket yang ditawarkan dan periode kenaikan 
+harga yang diterapkan oleh salah satu maskapai 
+penerbangan di Indonesia untuk rute JakartaSurabaya. 
+ 
+Dalam praktiknya, kenaikan kelas harga tidak 
+hanya berdasarkan periode saja namun juga berdasarkan sisa kursi yang tersedia. Sebagai contoh, 
+apabila telah mencapai periode kenaikan kelas 
+harga maka harga tiket yang ditawarkan oleh maskapai penerbangan akan naik. Namun, walaupun 
+periode kenaikan kelas harga tersebut belum terca 
+pai bisa saja maskapai penerbangan menaikkan 
+kelas harganya karena sisa kursi yang tersedia pada 
+kelas harga yang lebih rendah telah habis. Pada 
+Tabel 3. ditampilkan kenaikan kelas harga berbasis 
+sisa persediaan kursi. Pada Gambar 2 diilustrasikan 
+melalui grafik mengenai kenaikan kelas harga berdasarkan periode dan sisa kursi penerbangan. 
+ 
+Pada Gambar 2. digambarkan grafik peningkatan 
+harga tiket bedasarkan periode dan sisa kursi penerbangan. Garis Tebal biru menunjukkan perubahan 
+harga tiket. Perubahan harga tiket ini terjadi apa 
+bila telah mencapai batas periode ataupun batas 
+sisa kursi (dalam gambar diberikan simbol BL yaitu 
+booking limit). Batas periode digambarkan dengan 
+garis putus-putus berwarna hitam sedangkan batas 
+sisa kursi digambarkan dengan garis putus-putus 
+berwarna merah. 
+ 
+Data yang tidak kalah pentingnya yang diperlukan 
+dalam percobaan numerik ini adalah tingkat kedatangan pelanggan. Tingkat kedatangan pelanggan dalam penelitian ini merupakan parameter 
+input dimana akan dilakukan perubahan parameter 
+input tersebut untuk menganalisa hasil dari model 
+yaitu ekspektasi pendapatan maskapai penerbangan. Tingkat kedatangan pelanggan untuk setiap 
+periode yang digunakan dalam penelitian ini ditampilkan dalam Tabel 4. 
+ 
+ 
+ 
+Percobaan numerik pada paper ini dibagi menjadi 2 
+percobaan penetapan optimal pricing yaitu percobaan numerik untuk penerbangan A sebagai follower 
+kompetitor dan sebagai perespon competitor. 
+ 
+Percobaan Numerik untuk Penerbangan A 
+Sebagai Follower Kompetitor 
+ 
+Pada percobaan ini, maskapai A dalam menetapkan 
+harga mengikuti harga yang telah ditentukan oleh 
+kompetitor yaitu maskapai B (maskapai A sebagai 
+follower). Sebagai contoh ketika maskapai B membuka harga p4 pada periode awal maka maskapai A 
+sebagai follower akan mengikuti dengan melakukan 
+pembukaan harga di kelas harga p4. 
+ 
+Pada percobaan numerik ini dilakukan percobaan 
+scenario pembukaan kelas harga oleh maskapai B 
+(kompetitor) yang kemudian akan diikuti oleh maskapai A (follower) dengan tiga skenario pembukaan 
+kelas harga sebagai berikut: 
+Skenario 1: perubahan kelas harga dengan menggunakan kombinasi harga yaitu kombinasi p4- p3- p2 - p1 
+
+Skenario 2: perubahan kelas harga menggunakan 
+
+kombinasi harga p3- p1- p4 – p2 
+
+Skenario 3: merupakan perubahan kelas harga 
+
+dengan kombinasi harga p2- p1- p3 - p4 
+
+ 
+Skenario ini mengikuti 3 strategi yang diangkat oleh 
+penelitian Park dan Seo [9] yaitu strategi increasing, 
+decreasing, dan fluctuating. Selain itu skenario ini 
+mewakili kombinasi pembukaan kelas harga yang 
+banyak diterapkan oleh maskapai penerbangan di 
+Indonesia. Skenario 1 merupakan skenario pembukaan kelas harga yang terus naik (increasing) 
+yaitu maskapai penerbangan akan melakukan pembukaan kelas harga dari harga terendah menuju 
+ke harga tertinggi seiring dengan berkurangnya 
+waktu penjualan dan berkurangnya sisa kursi 
+penerbangan. Skenario 2 merupakan skenario 
+pembukaan kelas harga yang naik 
+turun 
+(fluctuating) yaitu maskapai penerbangan melakukan perubahan harga naik dan turun untuk 
+memperoleh pendapatan yang lebih dengan merespon kompetitornya. Skenario 3 merupakan 
+skenario pembukaan kelas harga yang cenderung 
+menawarkan harga kelas yang lebih rendah pada 
+periode mendekati jadwal penerbangan (decreasing). 
+Skenario ini biasa digunakan oleh maskapai 
+penerbangan untuk memperoleh lebih banyak 
+penumpang pada akhir-akhir periode penjualan 
+apabila sisa kursi penerbangan tersebut masih ada. 
+ 
+
+Gambar 3. Perubahan kelas harga yang dibuka pada 
+maskapai A sebagai follower dengan skenario 1 
+ 
+
+ 
+
+ 
+Gambar 4. Perubahan kelas harga yang dibuka pada 
+maskapai A sebagai follower dengan skenario 2 
+ 
+
+ 
+Gambar 5. Perubahan kelas harga yang dibuka pada 
+maskapai A sebagai follower dengan skenario 3 
+
+
+ 
+
+Gambar 6. Perbandingan ekspektasi pendapatan dari 3 
+skenario 
+ 
+Hasil percobaan numerik untuk Maskapai A sebagai 
+follower dengan ketiga skenario yang telah dijelaskan di atas ditampilkan dalam Gambar 3-5 sedangkan perbandingan ekspektasi pendapatan dari ketiga skenario tersebut ditampilkan dalam Gambar 6. 
+ 
+Skenario 1 dalam percobaan ini memiliki pola penetapan harga yang teratur dimana harga terendah 
+dibuka di awal kemudian diikuti dengan harga di 
+kelas atasnya, dan semakin mendekati hari keberangkatan harga yang dibuka akan semakin tinggi. 
+Pada skenario 2, memiliki pola penetapan harga 
+dimana harga kelas yang lebih tinggi dibuka di awal 
+periode kemudian kelas harga yang dibuka akan 
+menurun ketika periode t semakin bertambah. Dari 
+hasil percobaan, pola penetapan harga yang diterapkan dalam skenario 1 menghasilkan ekspektasi pendapatan yang lebih tinggi dibandingkan 
+dengan ekspektasi pendapatan pada skenario 2 
+maupun skenario 3. Hal ini terjadi karena ketika 
+maskapai A bertindak sebagai follower maka pola 
+penetapan pembukaan kelas harga ditentukan 
+dengan mengikuti pola penetapan harga yang 
+digunakan oleh kompetitor. Dalam hal ini ekspektasi pendapatan yang diperoleh pun tergantung 
+dengan pola penetapan harga yang ditentukan oleh 
+maskapai B sebagai kompetitor. Apabila pola 
+penetapan harga kompetitor tersebut menyebabkan 
+ekspektasi yang didapatkan lebih tinggi seperti 
+pada skenario 1, maka secara tidak langsung menguntungkan maskapai A yang melakukan penetapan 
+harga sebagai follower dan begitu pula sebaliknya. 
+ 
+Pada kenyataannya skenario penetapan harga 
+dengan bertindak sebagai follower akan menyulitkan. Hal ini dikarenakan dibutuhkan informasi 
+lengkap mengenai harga yang dipasang oleh kompetitor, karena dengan begitu pendapatan yang diperoleh dapat semaksimal mungkin. Namun informasi 
+mengenai kompetitor di tengah ketatnya persaingan 
+akan sangat susah didapatkan. Di samping itu, apabila perubahan penetapan harga maskapai kompetitor bersifat berubah-ubah dan tidak pasti, juga 
+akan mengakibatkan maskapai yang bertindak sebagai follower harus terus melakukan penyesuaian. 
+
+
+
+
+ 
+
+Percobaan Numerik untuk Penerbangan A 
+sebagai Perespon Kompetitor 
+ 
+Pada percobaan numerik ini, penetapan harga oleh 
+maskapai B direspon oleh maskapai A dengan kombinasi perubahan kelas harga yang berbeda-beda. 
+Dapat dikatakan, skenario ini merupakan skenario 
+perespon terhadap harga kompetitor. 
+ 
+Pada percobaan ini dilakukan percobaan numerik 
+untuk mengetahui seperti apakah pola perubahan 
+kelas harga maskapai A sebagai perespon yang 
+menghasilkan ekspektasi pendapatan terbesar 
+dengan bermacam-macam pola perubahan harga 
+kompetitor. Skenario harga yang digunakan dalam 
+percobaan numerik ini sama dengan skenario harga 
+pada percobaan numerik pada sub bab sebelumnya 
+yaitu terdapat 3 skenario (increasing, decreasing, 
+dan fluctuating). Namun, pada percobaan numerik 
+ini, Maskapai A bertindak sebagai perespon 
+sehingga, apabila terdapat 3 skenario harga maka 
+maskapai A mempunyai 3 alternatif respon yang 
+disebut dengan kombinasi I, II, dan III. 
+ 
+Skenario 1: Maskapai B sebagai kompetitor melakukan perubahan harga dengan kombinasi 
+pertama yaitu p4- p3- p2- p1. Maskapai A dalam hal 
+ini merespon perubahan harga tersebut dengan 
+kombinasi I (p4- p3- p2- p1), kombinasi II (p4- p1- p3- 
+p2) dan kombinasi III (p3- p2- p1- p4.). Gambar 7 
+mengilustrasikan perubahan harga maskapai A dan 
+B pada skenario1. 
+ 
+Skenario 2: Maskapai B sebagai kompetitor melakukan perubahan harga dengan kombinasi kedua 
+yaitu p3- p1- p4- p2. Maskapai A dalam hal ini 
+merespon perubahan harga tersebut dengan 
+kombinasi I (p4- p3- p2- p1), kombinasi II (p4- p1- p3- 
+p2) dan kombinasi III (p3- p2- p1- p4.). Gambar 8 
+mengilustrasikan perubahan harga maskapai A dan 
+B pada skenario 2. 
+ 
+Skenario 3: Maskapai B sebagai kompetitor melakukan perubahan harga dengan kombinasi ketiga 
+yaitu p2- p1- p3- p4. Maskpai A dalam hal ini 
+merespon perubahan harga tersebut dengan kombinasi I (p4- p3- p2- p1), kombinasi II (p4- p1- p3- p2) dan 
+kombinasi III (p3- p2- p1- p4.). Gambar 9 mengilustrasikan perubahan harga maskapai A dan B pada 
+skenario 3. 
+ 
+Hasil percobaan numerik untuk ekspektasi pendapatan untuk skenario 1, 2, dan 3 perubahan 
+harga kompetitor, dengan 3 kombinasi perubahan 
+harga Maskapai A sebagai perespon ditampilkan 
+pada Gambar 10, 11, dan 12. 
+ 
+Pada skenario 1 kompetitor, kombinasi p4- p3- p2- p1 
+dan p4- p2- p1- p3 merupakan skenario yang mengha
+silkan pendapatan paling tinggi. Pada p4- p2- p1- p3 
+terjadi spoilage di awal periode pertengahan, namun 
+pada akhir periode membuka harga lebih rendah 
+dibanding kompetitor, sehingga di akhir periode 
+calon penumpang lebih memilih harga dibanding 
+kompetitor. Pada p3- p2- p1- p4 terjadi spoilage ketika 
+P3, P2 dan P1 dibuka pada awal periode dimana calon 
+penumpang menginginkan harga lebih rendah dan 
+memilih kompetitor yang membuka harga P4 ,P3 dan 
+P2, serta terjadi kehilangan kesempatan untuk 
+memperoleh pendapatan lebih besar di akhir periode karena harga rendah P4 dibuka di akhir 
+periode. 
+ 
+Pada variasi perubahan harga kompetitor skenario 
+kedua yaitu p3- p1- p4- p2, diketahui bahwa skenario 
+pola perubahan maskapai A yang menghasilkan 
+ekspektasi pendapatan yang paling besar adalah 
+skenario p4- p3- p2- p1dan p4- p2- p1- p3. Pada 
+kombinasi p4- p3- p2- p1 terjadi spoilage di periode 
+pertengahan, namun tergantikan dengan eskpetasi 
+pendapatan dari P4 dan P3 yang dibuka di awal 
+periode, dimana calon penumpang lebih memilih ini 
+dibandingkan kompetitor yang membuka harga 
+tinggi. 
+ 
+
+ 
+Gambar 7. Perubahan Harga Maskapai A sebagai perespon Maskapai B untuk Skenario 1 (dari kiri ke kanan bawah: Maskapai A merespon dengan kombinasi I, kombinasi II, kombinasi III) 
+ 
+
+ 
+
+ 
+Gambar 8. Perubahan Harga Maskapai A sebagai perespon Maskapai B untuk Skenario 2 (dari kiri ke kanan bawah: Maskapai A merespon dengan kombinasi I, kombinasi II, kombinasi III) 
+
+
+
+Pada kombinasi p4- p2- p1- p3 terjadi spoilage di akhir 
+periode pertengahan, dan tergantikan dengan pembukaan P3 di awal periode dibanding kompetitor 
+yang membuka P2. Pada kombinasi p3- p2- p1- p4 juga 
+terjadi spoilage di akhir periode pertengahan, dan 
+juga terjadi kehilangan kesempatan mendapat 
+ekseptasi pendapatan lebih besar karena P4 dibuka 
+di akhir periode. 
+ 
+
+ 
+Gambar 13. Skenario 1 untuk variasi periode pembukaan 
+kelas harga 
+
+ 
+
+Gambar 9. Perubahan Harga Maskapai A sebagai perespon Maskapai B untuk Skenario 3 (dari kiri ke kanan 
+bawah: Maskapai A merespon dengan kombinasi I, kombinasi II, kombinasi III) 
+
+ 
+
+ 
+
+ 
+Gambar 10. Ekspektasi pendapatan skenario 1 perubahan harga competitor 
+ 
+
+ 
+Gambar 11. Ekspektasi pendapatan skenario 2 perubahan harga competitor 
+ 
+
+ 
+
+ 
+
+Gambar 14. Skenario 2 untuk variasi periode pembukaan 
+kelas harga 
+ 
+
+Gambar 12. Ekspektasi pendapatan skenario 3 perubahan harga competitor 
+
+Gambar 15. Skenario 3 untuk variasi periode pembukaan 
+kelas harga 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+ 
+
+ 
+
+Gambar 16. Skenario 4 untuk variasi periode pembukaan 
+kelas harga 
+ 
+Pada variasi perubahan harga kompetitor skenario 
+ketiga adalah pola perubahan p2- p1- p3- p4. Pada 
+pola perubahan harga kompetitor ini, ekspektasi 
+pendapatan maksimum didapat ketika maskapai 
+memasang skenario pola perubahan yaitu p4- p3- p2- 
+p1 dan p4- p2- p1- p3. Pada kombinasi p4- p3- p2- p1 
+terjadi spoilage di periode akhir, namun tergantikan 
+dengan eskpetasi pendapatan dari P4 dan P3 yang 
+dibuka di periode awal, dimana calon penumpang 
+lebih memilih ini dibandingkan kompetitor yang 
+membuka harga jauh tinggi. Penggunakan kombinasi p4- p2- p1- p3 menyebabkan terjadi spoilage di 
+periode akhir, dan tergantikan dengan pembukaan 
+P4 di awal periode dibanding kompetitor yang 
+membuka P1. Pada kombinasi p3- p2- p1- p4 terjadi 
+spoilage di akhir periode pertengahan, dan juga terjadi kehilangan kesempatan mendapat ekspektasi 
+pendapatan lebih besar karena P4 dibuka di akhir 
+periode. 
+
+Percobaan Numerik untuk Penerbangan A 
+dengan Variasi Periode Pembukaan Kelas 
+Harga 
+ 
+Pada percobaan numerik ini dilakukan perhitungan 
+ekspektasi pendapatan untuk maskapai A dengan 
+variasi periode pembukaan kelas harga maskapai A. 
+Pada percobaan ini, periode pembukaan kelas harga 
+maskapai A akan diubah-ubah dengan tujuan untuk 
+mengetahui pengaruhnya terhadap ekspektasi pendapatan. Perubahan periode pembukan kelas harga 
+dilakukan untuk masing-masing kelas harga. Ekspektasi pendapatan yang diperoleh dari percobaan 
+untuk skenario yang telah dilakukan (Tabel 5-7). 
+ 
+Dari setiap variasi skenario periode untuk masingmasing kelas harga pada setiap peresponan untuk 
+masing-masing kombinasi, didapatkan hasil bahwa 
+dengan melakukan pembukaan kelas harga dengan 
+skenario 3, dimana periode pembukaan lebih panjang di periode akhir, akan menghasilkan ekspektasi pendapatan yang terbesar dibandingkan 
+dengan skenario lainnya. Hal ini dikarenakan 
+dengan melakukan pembukaan kelas harga di akhir 
+periode, maka pendapatan yang diperoleh dengan 
+membuka berapapun alternatif kelas harga akan 
+semakin besar, mengingat bahwa pada periode 
+akhir jumlah calon penumpang yang datang lebih 
+besar. Hal ini juga terjadi karena periode yang 
+diperpanjang di sesuaikan dengan alokasi kursi 
+yang juga ditambahkan jumlahnya, sehingga alokasi kursi lebih banyak akan menghasilkan ekspektasi pendapatan yang lebih besar. 
+
+
+Dapat dilihat pula bahwa dengan melakukan berbagai skenario variasi periode pembukaan harga, 
+skenario sebagai perespon yakni p4- p3- p2- p1 dan 
+p4- p2- p1- p3 konsisten dalam menghasilkan ekspektasi pendapatan yang selalu lebih besar dibanding skenario perespon p3- p2- p1- p4. 
+ 
+Percobaan Numerik untuk Penerbangan A 
+dengan Variasi Kedatangan Calon Penumpang 
+ 
+Pada percobaan numerik ini dilakukan perhitungan 
+ekspektasi pendapatan untuk maskapai A dengan 
+mempertimbangkan faktor kedatangan calon 
+penumpang. Percobaan numerik ini bertujuan 
+untuk mengetahui pengaruh dari kedatangan calon 
+penumpang dalam setiap periodenya terhadap ekspektasi pendapatan yang dihasilkan. Berikut adalah 
+Tabel 8 yang menunjukkan jumlah kedatangan 
+calon penumpang di setiap periodenya untuk 
+masing-masing skenario dengan jumlah penumpang 
+yang datang untuk masing-masing skenario tersebut adalah sama yaitu 110 orang (sesuai kapasitas 
+kursi pesawat). Skenario 1, 2, 3 berbeda dalam 
+tingkat kedatangan calon penumpangnya. Skenario 1 
+dibuat kedatangan penumpang pada periode awal 
+lebih banyak dibandingkan skenario lain namun 
+pada periode akhir paling sedikit. Pada skenario 3, 
+kedatangan calon penumpang pada periode awal 
+paling sedikit dibandingkan skenario lain namun 
+pada periode akhir, kedatangan calon penumpangnya paling banyak dibandingkan periode lainnya. Skenario 2 merupakan skenario normal yaitu 
+kedatangan calon penumpang dibuat rata namun 
+dalam hal ini periode akhir selalu memperoleh 
+kedatangan penumpang yang lebih banyak sesuai 
+dengan yang sering terjadi pada dunia nyata. 
+ 
+Setelah dilakukan perhitungan untuk masingmasing skenario, didapatkan ekspektasi pendapatan 
+
+untuk masing-masing variasi kedatangan calon penumpang yang dapat dilihat dalam Tabel 9. Diketahui bahwa tingkat kedatangan calon penumpang 
+semakin mendekati hari keberangkatan semakin 
+besar. Semakin banyaknya kedatangan ini menandakan bahwa peluang calon penumpang yang melakukan pembelian di periode akhir semakin 
+besar. Hal ini akan berpengaruh terhadap ekspektasi pendapatan yang diperoleh. Namun penetapan perubahan kelas harga akan turut mempengaruhi ekspektasi pendapatan. 
+ 
+Apabila maskapai membuka kelas harga rendah di 
+akhir periode tentunya akan mengakibatkan kesempatan untuk memperoleh ekspektasi pendapatan 
+yang tinggi hilang akibat membuka harga rendah di 
+akhir periode. Pada skenario yang dilakukan dalam 
+percobaan numerik ini menggunakan skenario 
+perubahan kelas harga dimana kelas harga terendah dibuka pada awal periode dan kelas harga tertinggi dibuka diakhir periode. Setelah dilakukan 
+percobaan variasi tingkat kedatangan didapatkan 
+skenario 3 memiliki hasil ekspektasi pendapatan 
+yang paling tinggi. Hal ini dikarenakan pada 
+skenario 3, jumlah orang yang datang pada akhir 
+periode lebih besar dibandingkan kedua skenario 
+lainnya. Oleh karena itu, dapat disimpulkan dengan 
+penetapan harga tertinggi di akhir periode, faktor 
+tingkat kedatangan yang besar di akhir periode 
+akan sangat berpengaruh pada hasil ekspektasi 
+pendapatan. 
+ 
+
+Simpulan 
+
+ 
+Penelitian ini mengembangkan model dynamic 
+pricing pada dua maskapai penerbangan (maskapai 
+A dan B) yang saling bersaing berbasis persediaan 
+kursi dan waktu dengan mempertimbangkan perubahan harga kompetitor. Penetapan harga dengan 
+bertindak sebagai follower dan perespon akan menghasilkan ekspektasi pendapatan yang bergantung 
+pada pola perubahan harga dari kompetitor. Maskapai penerbangan A akan merespon harga yang ditetapkan oleh maskapai penerbangan B. Penelitian 
+ini akan memberikan rekomendasi mengenai respon yang sebaiknya dilakukan oleh maskapai A 
+apabila terjadi perubahan harga yang ditetapkan 
+kompetitor (maskapai B) sedemikian, hingga dapat 
+memaksimalkan ekspektasi pendapatan maskapai 
+A. Berdasarkan hasil percobaan numerik diperoleh 
+kesimpulan bahwa maskapai penerbangan A baik 
+sebagai follower maupun sebagai perespon terhadap 
+competitor (maskapai penerbangan B) akan memperoleh ekspektasi pendapatan yang lebih tinggi jika 
+menggunakan strategi increasing price (P4-P3-P2-P1). 
+Selain itu, priode pembukaan kelas harga dan 
+tingkat kedatangan calon penumpang mempengaruhi ekspektasi pendapatan yang dihasilkan. 
+
+
+
+
+ 
+

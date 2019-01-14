@@ -1,0 +1,195 @@
+﻿KAJIAN TEORITIS SIFAT INHIBITOR KOROSI 2-ISOPROPIL-5-
+METILFENOL
+
+ABSTRAK
+Telah dilakukan pemodelan molekul terhadap sifat antikorosi senyawa 2-isopropil-
+5-metilfenol dan turunannya berdasarkan teori fungsional kerapatan pada tingkatan teori
+B3LYP/6-31G(d). Pengaruh penambahan gugus pendonor dan penarik elektron seperti
+NH2, SH, CHCH2, CH3, OH, CHO, COOH, F dan NO2 juga telah dipelajari. Parameter
+kuantum untuk senyawa anti korosi seperti energi orbital (EHOMO), potensial ionisasi (I),
+afinitas elektron (A) dan elektronegativitas (χ) memiliki hubungan yang linier dengan
+efisiensi anti korosi (IE %) senyawa turunan 2-isopropil-5-metilfenol. Gugus pendonor
+elektron meningkatkan nilai IE % sedangkan gugus penarik elektron menurunkan nilai
+IE %. Urutan kenaikan IE % adalah NO2 < CHO < COOH < SH < F < CH3 < CHCH2 < OH
+< NH2. Penambahan gugus pendonor elektron amina (NH2) meningkatkan IE % hingga
+96,38 % dibandingkan IE % 2-isopropil-5-metilfenol murni 82,70 % sedangkan
+penambahan gugus penarik elektron nitro (NO2) menurunkan IE % hingga mencapai
+68,66 %. Kajian teoritis dapat membantu mempercepat kajian eksperimental terhadap sifat
+anti korosi mencapai hasil yang maksimum.
+Kata kunci: DFT, inhibitor korosi, isopropil, metilfenol
+
+PENDAHULUAN
+Berbagai jenis senyawa bahan alam dari ekstrak daun dan biji-bijian telah
+digunakan sebagai senyawa antikorosi (Sastri, 1998). Efisiensi senyawa organik ekstrak
+bahan alam sebagai anti korosi ditentukan oleh gugus fungsional yang melekat pada
+senyawa tersebut seperti gugus heteroatom (O, N, S and P) dan adanya sumbangan ikatan
+π dari ikatan rangkap dua atau tiga yang dimilikinya (Sherif and Park, 2006; Udhayakala
+et al., 2012). Adanya gugus fungsional yang sesuai akan membantu pembentukan
+kompleks antara senyawa organik dengan permukaan logam secara ikatan kovalen
+koordinasi (adsorpsi bersifat kimia) atau secara elektrostatik (adsorpsi fisika) (Noor,
+2005). Molekul organik akan melekat pada permukaan logam secara teratur membantuk
+lapisan seragam yang dapat mencegah permukaan logam mengalami kontak dengan
+medium yang bersifat korosif (Avci, 2008).
+Senyawa 2-isopropil-5-metilfenol adalah salah satus senyawa bahan alam organik
+dari ekstrak thyme yang sangat potensial sebagai senyawa anti korosi (Ameer dan Fekry,
+2011). Senyawa ini berupa monoterpena fenol turunan dari cimena, C10H14O, dan
+merupakan isomer dari senyawa karvakrol yang diekstrak dari minyak thyme. Senyawa 2-
+isopropil-5-metilfenol berbentuk senyawa kristal putih yang berfungsi sebagai antiseptik
+dan memiliki bau yang khas dan menyengat. Kajian terhadap sifat anti korosi senyawa
+bahan alam, 2-isopropil-5-metilfenol telah dilakukan oleh Ameer dan Fekry (2011).
+Tingkat efisiensi anti korosi senyawa 2-isopropil-5-metilfenol adalah 82,7 % pada
+konsentrasi inhibitor 5 mM. Hal ini menunjukkan bahwa senyawa 2-isopropil-5-metilfenol
+sangat potensial untuk dikembangkan sebagai senyawa inhibitor korosi. Selanjutnya
+kemudahan mengubah struktur senyawa 2-isopropil-5-metilfenol melalui penambahan
+gugus fungsi lain pada kerangka 2-isopropil-5-metilfenol menyebabkan turunan 2-
+isopropil-5-metilfenol juga diyakini potensial sebagai bahan anti korosi.
+Kajian sifat inhibitor korosi senyawa bahan alam tidak hanya dilakukan secara
+eksperimen namun juga menggunakan kajian teoritis kimia kuantum. Beberapa kajian
+teoritis kimia kuantum telah dilakukan terhadap sifat inhibitor korosi senyawa bahan alam.
+Akurasi hasil kajian teoritis cukup baik jika dibandingkan dnegan hasil kajian eksperimen (Obot and Obi-Egbedi, 2010; Sayo’s et al., 1986; Li et al., 1999; Liu et al., 2011; Khaled
+and Al-Qahtani, 2009; Mwadham et al., 2013). Obayes et al. (2014) mengunakan teori
+fungsional kerapatan pada tingkatan teori B3LYP/6-31G++ (d,p) untuk membandingkan
+hasil kajian teoritis dengan hasil eksperimen terhadap tiga senyawa benzimidazol, 2-
+metilbenzimidazol dan 2-merkaptobenzimidazol sebagai anti korosi. Obayes et al. (2014)
+melaporkan bahwa penambahan gugus substituen nitro menyebabkan penurunan efisiensi
+anti korosi sedangkan reduksi gugus nitro menyebabkan peningkatan efisiensi anti korosi.
+Hadisaputra dan Hamdiani (2014) menggunakan metode ab initio untuk mempelajari
+efisiensi anti korosi senyawa fenil-pirazolindol dan turunannya. Diperoleh hasil bahwa
+penambahan gugus amina pada kerangka fenil-pirazolindol dapat meningkatkan efisiensi
+anti korosi sedangkan penambahan gugus nitro menurunkan efisiensi anti korosi senyawa
+fenil-pirazolindol. Penelitian ini bertujuan mempelajari sifat anti korosi senyawa 2-
+isopropil-5-metil fenol serta mempelajari pengaruh penambahan gugus pendonor dan
+penarik elektron pada senyawa 2-isopropil-5-metilfenol terhadap efisiensi anti korosinya.
+Gambar 1. Struktur molekul senyawa 2-isopropil-5-metilfenol dan turunannya.
+METODE PENELITIAN
+Semua perhitungan dilakukan menggunakan perangkat lunak Gaussian 03 (Frisch et
+al., 2004). Kompleks yang terbentuk dioptimasi menggunakan metode fungsional
+kerapatan tingkatan teori B3LYP/6-31G(d) pada kelompok simetri C1. Secara teoritis
+perhitungan potensial ionisasi (I) dan afinitas elektron (A) mengunakan teorema yang
+dikembangkan Koopmans (1934). Teorema Koopmans menjelaskan hubungan antara
+potensial ionisasi (I), afinitas elektron (A) dan energi orbital (EHOMO dan ELUMO) sebagai
+berikut: 
+
+
+I = - EHOMO (1)
+A = - ELUMO (2)
+Selanjutnya menggunakan teorema Koopmans diperoleh persamaan
+elektronegativitas (χ) berikut:
+χ = (3)
+Efisiensi anti korosi (IE %) telah dihitung menggunakan persamaan:
+r:... (4)
+r:... (5)
+r:... (6)
+dimana Iadd.% adalah persentase potensial ionisasi dari senyawa turunan 2-isopropil-5-
+metilfenol; IEadd.% adalah presentase efisiensi anti korosi senyawa turunan 2-isopropil-5-
+metilfenol, IEIM.% adalah presentase efisiensi anti korosi hasil eksperimen; dan IEteori.%
+adalah efisiensi anti korosi teoritis (Obayes et al., 2014). Struktur senyawa 2-isopropil-5-
+metilfenol dan turunannya tercantum dalam Gambar 1.
+PEMBAHASAN
+Kondisi orbital suatu molekul dapat menujukkan intensitas perpindahan elektron
+antar molekul yang disebabkan oleh interaksi antara orbital HOMO (highest occupied
+molecular orbital) dan orbital LUMO (lowest unoccupied molecular orbital) (Musa et al.,
+2010). Perpindahan elektron ini dapat diukur menggunakan besaran nilai energi dari
+orbital seperti energi HOMO (EHOMO) menunjukkan sifat molekul untuk mendonasikan
+elektron yang dimilikinya sedangkan energi LUMO (ELUMO) menunjukkan sifat molekul
+untuk menerima elektron. Semakin besar EHOMO maka semakin kuat suatu molekul organik
+untuk melekat pada kation logam sehingga molekul organik tersebut akan memiliki
+efisiensi anti korosi yang tinggi.
+Potensial ionisasi (I) dapat digunakan untuk mengukur reaktivitas atom atau
+molekul. Nilai potensial ionisasi tinggi menunjukkan molekul memiliki reaktivitas yang
+tinggi sedangkan nilai potensial ionisasi rendah menunjukkan molekul memiliki reaktivitas yang rendah (Sandip et al., 2011). Tabel 1 juga menunjukkan nilai pola kenaikan potensial
+ionisasi yang mengikuti pola kenaikan EHOMO. Nilai potensial ionisasi senyawa IM-NH2
+adalah 4,863 eV dan lebih rendah dibandingkan nilai potensial ionisasi untuk senyawa
+seperti IM-CHO dan IM-NO2 adalah 6,202 eV and 6,454 eV secara berurutan.
+Berdasarkan data ini kembali dapat diprediksi bahwa senyawa IM-NH2 memiliki IE %
+lebih tinggi dibandingkan senyawa IM-CHO dan IM-NO2.
+Tabel 1. Parameter kimia kuantum untuk senyawa 2-isopropil-5-metilfenol (IM) dan
+turunannya dihitung menggunakanteori fungsional kerapatan pada tingkatan
+teori B3LYP/6-31G(d)
+Senyawa EHOMO eV ELUMO
+eV
+Potensial
+Ionisasi (I) eV
+Afinitas
+Elektron (A) eV
+Elektronegativitas
+(χ) eV
+IM -5,726 0,158 5,726 -0,158 2,784
+IM-CH3 -5,525 0,290 5,525 -0,290 2,617
+IM-OH -5,213 -0,044 5,213 0,044 2,628
+IM-COOH -6,158 0,170 6,158 -0,170 2,994
+IM-CHO -6,202 -1,374 6,202 1,374 3,788
+IM-NH2 -4,863 -0,027 4,863 0,027 2,445
+IM-CHCH2 -5,420 -0,474 5,420 0,474 2,947
+IM-SH -5,697 -0,058 5,809 1,943 3,876
+IM-F -5,680 -0,027 6,068 1,982 4,025
+IM-NO2 -6,612 -2,032 6,454 2,391 4,422
+Potensial ionisasi (I) dapat digunakan untuk mengukur reaktivitas atom atau
+molekul. Nilai potensial ionisasi tinggi menunjukkan molekul memiliki reaktivitas yang
+tinggi sedangkan nilai potensial ionisasi rendah menunjukkan molekul memiliki reaktivitas
+yang rendah (Sandip et al., 2011). Tabel 1 juga menunjukkan nilai pola kenaikan potensial
+ionisasi yang mengikuti pola kenaikan EHOMO. Nilai potensial ionisasi senyawa IM-NH2
+adalah 4,863 eV dan lebih rendah dibandingkan nilai potensial ionisasi untuk senyawa
+seperti IM-CHO dan IM-NO2 adalah 6,202 eV and 6,454 eV secara berurutan.
+Berdasarkan data ini kembali dapat diprediksi bahwa senyawa IM-NH2 memiliki IE %
+lebih tinggi dibandingkan senyawa IM-CHO dan IM-NO2.
+Nilai elektronegativitas kecil menyebabkan molekul mudah mencapai
+kesetimbangan elektron sehingga molekul menjadi lebih tidak reaktif. Nilai
+elektronegativitas besar menunjukkan sebaliknya (Geerlings and De Proft, 2002). Tabel 1
+juga menunjukkan nilai elektronegativiats. Nilai elektronegativitas senyawa IM-NH2
+adalah 2,445 eV dan paling rendah dibandingkan senyawa lain, nilai elektronegativitas
+paling tinggi adalah senyawa IM-NO2 adalah 4,422 eV. Berdasarkan data
+elektronegativitas ini kembali dapat diprediksi bahwa senyawa IM-NH2 memiliki IE % paling tinggi dan senyawa IM-NO2 memiliki IE % paling rendah.
+Tabel 2. Efisiensi anti korosi (IE %) untuk senyawa 2-isopropil-5-metilfenol (IM) dan
+turunannya dihitung menggunakan teori fungsional kerapatan pada tingkatan
+B3LYP/6-31G(d)
+Senyawa Iadd% Ieadd % Efisiensi anti korosi %
+Teoritis
+IEteori %
+Eksperimen
+IM 0,00 0,00 82,70 82,70
+IM-CH3 3,51 3,19 85,88 -
+IM-OH 8,95 8,13 90,83 -
+IM-COOH -7,54 -6,84 75,85 -
+IM-CHO -8,30 -7,54 75,16 -
+IM-NH2 15,07 13,68 96,38 -
+IM-CHCH2 5,34 4,85 87,55 -
+IM-SH 0,51 0,46 83,16 -
+IM-F 0,79 0,72 83,42 -
+IM-NO2 -15,46 -14,04 68,66 -
+Tabel 2 menunjukan hasil perhitungan teoritis efisiensi anti korosi (IEteorin%)
+senyawa IM dan turunannya dihitung menggunakan teori fungsional kerapatan pada
+tingkatan B3LYP/6-31G(d). Hasil perhitungan menunjukkan bahwa penambahan
+substituen penarik elektron seperti nitro (NO2) pada senyawa IM menyebabkan penurunan
+efisiensi anti korosi. Sebaliknya, penambahan substituen pendonor elektron seperti gugus
+hidroksi (OH) dan amina (NH2) pada senyawa IM menyebabkan peningkatan efisiensi anti
+korosi. Sesuai prediksi pola EHOMO, potensial ionisasi dan elektronegativitas maka
+senyawa IM-NH2memiliki IE % paling tinggi dibandingkan senyawa lain sebesar 96,38
+%. Terjadi peningkatan yang signifikan jika dibandingkan dengan IE % senyawa IM
+sebesar 82,70 % sedangkan untuk senyawa IM-NO2 memiliki IE % adalah sebesar
+68,66 %. Hasil ini sesuai dengan preksi sebelumnya yang dilakukan Obayes et al. (2014)
+terhadap senyawa benzilamidazol yang menunjukkan penambahan gugus nitro (NO2)
+mengurangi efisiensi anti korosi.
+Secara struktur tidak terjadi perubahan yang signifikan pada struktur IM akibat
+penambahan gugus penarik dan pendonor elektron. Hal ini disebabkan karena sifat
+senyawa IM yang kurang fleksibel atau cukup rigid. Namun terjadi perbedaan nilai IE %
+yang signifikan akibat penambahan gugus penarik dan pendonor elektron akibat transfer
+elektron yang terjadi. Distribusi elektron pada orbital molekul pada senyawa anti korosi
+turunan IM diwakilkan oleh IM-NH2 dan IM-NO2 ditunjukkan pada Gambar 2. Perbedaan
+distribusi elektron (Gambar 2) pada kedua senyawa dimana kontribusi substituen NH2 pada orbital HOMO lebih tinggi dibandingkan NO2. Hal ini menjelaskan mengapa EHOMO
+senyawa IM-NH2 lebih tinggi dibandingkan IM-NO2.
+IM-NO2 HOMO IM-NO2 LUMO IM-NO2
+IM-NH2 HOMO IM-NH2 LUMO IM-NH2
+Gambar 2. Struktur dan orbital molekul (HOMO dan LUMO) senyawa IM-NO2 dan
+IMNH2 dihitung menggunakan teori fungsional kerapatan pada tingkatan teori B3LYP/6-
+31G(d).
+KESIMPULAN
+Kajian teoritis kimia kuantum telah dilakukan terhadap turunan 2-isopropil-5-
+metilfenol sebagai senyawa anti korosi berdasarkan teori fungsional kerapatan pada
+tingkatan teori B3LYP/6-31G(d). Hasil perhitungan teoritis menunjukkan bahwa efisiensi
+anti korosi (IE %) memiliki korelasi yang baik dengan parameter kuantum seperti energi
+orbital (EHOMO dan ELUMO), potensial ionisasi (I), afinitas elektron (A) dan
+elektronegativitas (χ). Terjadi peningkatan IE % setelah dilakukan penambahan substituen
+pendonor elektron NH2 atau pada senyawa IM-NH2 dengan IE % paling tinggi
+dibandingkan senyawa lain, yaitu sebesar 96,38 %. Pendekatan kimia kuantum ini dapat membantu penelitian eksperimental dalam hal desain dan sintesis senyawa anti korosi yang
+lebih efisien.

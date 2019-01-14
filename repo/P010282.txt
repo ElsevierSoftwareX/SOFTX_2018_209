@@ -1,0 +1,537 @@
+﻿Solusi Optimal Model Optimisasi Robust untuk Masalah Traveling
+Salesman dengan Ketidaktentuan Kotak dan Pendekatan Metode
+Branch and Bound
+
+Pendahuluan
+Traveling Salesman Problem (TSP) merupakan
+pencarian sebuah rute dari seorang salesman yang
+dimulai dari titik awal, mengunjungi beberapa kota
+yang ditentukan dan kembali ke tempat asal
+sedemikian sehingga total jarak perjalanan adalah
+minimum dan setiap kota dikunjungi hanya sekali
+(lihat Punnen [1]). Tonggak penyelesaian untuk TSP
+simetris dicapai oleh Dantzig, Fulkerson, dan
+Johnson pada tahun 1954 yang meneliti 42 kota
+hingga Applegate, Bixby, Chvatal, dan Cook kembali
+meneliti pada tahun 1998 dengan 13.509 kota (lihat
+Schrijver, [2]). Telah ditunjukkan dalam masalah
+TSP, jika terdapat kota yang harus dikunjungi,
+maka jumlah rute yang mungkin terjadi
+adalah sebanyak . Untuk jumlah kota yang
+sedikit, rute dapat didefinisikan secara eksplisit.
+Namun dengan peningkatan jumlah kota yang ingin
+dikunjungi, maka terjadi peningkatan yang tajam
+pula pada jumlah kemungkinan rute (Filip dan
+Otakar [3]). Tak hanya mengenai jumlah kota yang
+menjadi objek penelitian dalam TSP, teknik perhitungan
+atau metode penyelesaian yang digunakan
+pun menjadi hal menarik untuk dilakukan penelitian
+lebih lanjut. Pendekatan pemrograman dinamik
+dilakukan oleh Bellman pada tahun 1962 dan
+Held-Karp pada tahun 1962. Teknik Relaksasi
+Lagrange yang diperkenalkan oleh Christofides pada
+tahun 1970 and Held and Karp pada tahun 1970 hingga 1971. Untuk metode Held-Karp telah diimplementasikan
+dan diperluas oleh Helbig Hansen
+and Krarup pada tahun 1974, Smith and Thompson
+pada tahun 1977, serta Volgenant dan Jonker pada
+tahun 1982 hingga 1983 (lihat Schrijver [2]). Pada
+tahun 1966, Lawler dan Wood [4] melakukan penelitian
+mengenai hal penting dalam metode branch
+and bound, dan beberapa aplikasinya seperti
+pemrograman bilangan bulat, pemrograman non
+linear, Traveling Salesman Problem dan Quadratic
+Assignment Problem (Lawler dan Wood [4]). Untuk
+kasus TSP, metode branch and bound digunakan
+pada paper yang dibuat oleh Tompkins pada tahun
+1956, Rossman and Twery pada tahun 1958, and
+Eastman pada tahun 1959 (Schrijver [2]). Selain itu,
+pada kasus meminimumkan robust shortest path
+oleh R. Montemanni, L.M. Gambardella, dan Donati
+pada tahun 2006 (Montemanni et al. [5]).
+Memperkirakan jarak atau waktu perjalanan secara
+pasti biasanya menjadi sebuah tugas yang sulit,
+karena bergantung pada beberapa faktor yang sulit
+diprediksi seperti kondisi lalu lintas dan kondisi
+cuaca. Salah satu bidang otimisasi yang mampu
+menyelesaikan permasalahan terkait ketidakpastian
+adalah optimisasi robust. Seperti dipaparkan
+oleh Chaerani dan Roos [6], metode yang digunakan
+untuk mengatasi ketidaktentuan data dalam masalah
+optimisasi adalah metodologi Robust Counterpart
+(RC) yang diperkenalkan oleh Ben-Tal dan
+Nemirovskii [7].
+Tantangan utama dalam metodologi RC ini adalah
+menentukan bagaimana dan kapan suatu formulasi
+RC dari masalah optimisasi taktentu dapat diformulasikan
+kembali sebagai suatu masalah optimisasi yang computationally tractable atau paling
+tidak formulasi RC yang diperoleh dapat didekati
+dengan suatu masalah yang tractable. Ini berarti
+bahwa penentuan formulasi RC sangat bergantung
+kepada bagaimana himpunan data yang melibatkan
+ketidaktentuan yang digunakan, sebut U, dipilih.
+Sehingga tantangan yang diberikan oleh RC dapat
+dipenuhi jika himpunan taktentu U dapat ditentukan
+melalui suatu cara yang tepat. Pembahasan
+perkembangan keilmuan optimisasi robust secara
+komprehensif dibahas oleh Gabrel [8].
+Pembahasan TSP yang melibatkan data tak tentu
+diawali oleh Montemanni et al [5] yang memperhitungkan
+waktu tempuh taktentu yang dispesifikasi
+sebagai rentang dari waktu tempuh. Montemanni
+et al [5] memodelkan RTSP dengan mempertimbangkan
+kriteria deviasi robust pada data yang
+dinyatakan dalam interval dari masalah RTSP yang
+diperoleh. Selain itu, Montemanni et al pun
+membahas algoritma exact dan heuristic untuk
+menyelesaikan RTSP yang disajikan dalam paper
+Montemanni et al [9] dan [10]. Chassein dan Goerigk
+[11] membahas TSP taktentu dimana jarak antara
+dua titik tidak diketahui secara tepat dan mengusulkan
+model RTSP yang recoverable. Hal ini berarti
+model RTSP yang diusulkan oleh Chassein dan
+Goerigk [11] mengijinkan sebuah tour untuk
+mengubah sejumlah sisi terbatasnya ketika suatu
+skenario diketahui. Model ini memiliki jumlah
+kendala dan variabel yang eksponensial. Selanjutnya
+Wang et al [12] membahas mengenai TSP taktentu
+dengan fungsi tujuan yang multi-objektif dan variabel
+taktentu pada sisi yang menghubungkan titik.
+Dalam makalah ini, pendekatan pemodelan RTSP
+yang berbeda diperkenalkan, yaitu menggunakan
+Metode RC dari Ben-Tal dan Nemirovskii [7].
+Tujuan dari makalah ini adalah memperoleh formulasi
+Robust Counterpart (RC) untuk uncertain
+TSP dengan melibatkan data jarak atau waktu
+tempuh antar dua titik merupakan data taktentu
+yang dapat direpresentasikan sebagai ketidaktentuan
+kotak (box uncertainty). Selain data jarak atau
+waktu tempuh yang taktentu, variabel keputusan
+yang harus diselesaikan merupakan variabel biner,
+sehingga penentuan solusi optimal diselesaikan
+dengan menggunakan metode branch and bound.
+Hasil perhitungan menunjukkan bahwa RSTP
+memberikan solusi optimal yang tangguh terhadap
+ketidaktentuan yang yang mewakili kemungkinan
+terburuk yang mungkin terjadi.
+Metode Penelitian
+Optimisasi Robust
+Metode yang digunakan untuk memperhitungkan
+ketidakpastian dalam penelitian ini adalah optimisasi
+robust (Chaerani [6], Ben-Tal [7]). Pada 
+optimisasi robust, sebuah masalah pemrograman linear (PL) dengan ketidakpastian didefinisikan
+dalam model matematika pada persamaan berikut.
+
+
+dimana adalah koefisien fungsi objektif,
+adalah matriks fungsi-fungsi kendala,
+adalah vektor ruas kanan, dan
+adalah vektor variabel keputusan yang harus
+ditentukan. Perhatikan bahwa dalam masalah
+optimisasi taktentu parameter ini diasumsikan
+berada dalam himpunan taktentu .
+Dalam lingkungan pengambilan keputusan, solusi
+yang berarti untuk masalah ketidakpastian (uncertain)
+adalah solusi robust feasible. Hal ini mengingatkan
+bagaimana memutuskan untuk mendapatkan
+nilai objektif (yang dapat berupa ketidakpastian),
+sebagai suatu solusi. Seperti halnya yang
+diterapkan pada objektif, filosofi orientasi kemungkinan
+terburuk mempermudah untuk mengukur
+kualitas pada solusi robust feasible dengan dijamin
+oleh nilai asli fungsi objektif, yaitu dengan nilai
+terbesar dari { }.
+Dengan demikian, kemungkinan terbaik dari solusi
+robust feasible adalah salah satu yang dapat
+memecahkan masalah optimisasi berikut:
+(2)
+Unsur ketidakpastian yang berada pada fungsi
+objektif menyebabkan fungsi objektif harus dibatasi
+oleh suatu nilai misalkan . Sehingga persamaan (2)
+dapat ditulis kembali menjadi persamaan berikut:
+(3)
+Nilai menjadi batas atas yang membatasi fungsi
+objektif, hal ini hanya dapat terjadi karena tujuan
+dari masalah tersebut adalah meminimumkan fungsi
+objektif. Masalah (5) disebut metodologi Robust
+Counterpart (RC) dan solusi yang didapat dinamakan
+robust feasible / robust optimal solution.
+Metode Branch and Bound
+Merujuk pada Hillier dan Lieberman [13], dapat
+disarikan bahwa metode branch and bound sangat
+efektif dalam menyelesaikan masalah pemrograman bilangan bulat campuran baik yang linear
+maupun nonlinear. Dalam penyelesaian metode
+branch and bound, masalah dibagi menjadi 3
+bagian, yaitu branching (percabangan) sehingga
+terbentuk sebuah struktur pohon pencarian (search
+tree), bounding (pembatasan), dan fathoming (penghilangan).
+Langkah-langkah penerapan metode
+branch and bound pada penelitian ini, sebagai
+berikut:
+1. Tahap inisialisasi
+Bentuk model matematika dari kasus yang akan
+diselesaikan. Bentuk PL relaksasi dari model
+yang didapatkan, yaitu dengan menghapus satu
+set kendala yang membuat kasus tersebut
+menjadi sulit diselesaikan. Dalam kasus ini,
+kendala yang dihapus adalah solusi berupa
+sebuah tour. Tetapkan *
+Z   , kemudian selesaikan
+masalah PL relaksasi dengan metode
+simpleks. Terapkan langkah bounding, fathoming,
+dan uji optimalitas yang dijelaskan di bawah
+terhadap keseluruhan kasus. Apabila tidak
+dihilangkan, klasifikasikan kasus ini sebagai
+satu submasalah yang tersisa untuk melakukan
+iterasi lengkap berikutnya.
+2. Tahap iterasi, tahap ini terbagi menjadi 3:
+a. Branching (percabangan)
+Konstruksi submasalah baru dari masalah sebelumnya
+dengan cara menetapkan nilai tiap
+jalur pada subtour terkecil dengan nilai 0.
+Misalkan subtour terkecil yang didapatkan
+adalah , sehingga submasalah baru
+yang pertama memiliki fungsi kendala tambahan
+yaitu dan submasalah baru yang
+kedua memiliki fungsi kendala tambahan yaitu
+.
+b. Bounding (pembatasan)
+Setelah dilakukan branching (percabangan atau
+pembagian), setiap submasalah perlu dicari
+batas mengenai seberapa jauh solusi layak terbaik
+dapat dicapai dengan cara menyelesaikan
+PL relaksasi dari setiap submasalah tersebut
+menggunakan metode simpleks. Jika solusi
+layak telah diperoleh, hitung nilai dari fungsi
+objektif . Kemudian hitung batas = ⌈ ⌉.
+c. Fathoming (penghilangan)
+Suatu submasalah dapat dihilangkan dari pertimbangan
+lebih lanjut jika memenuhi salah satu
+kondisi berikut.
+Uji 1: Jika batasnya *
+ Z . Di mana *
+Z adalah
+nilai Z untuk incumbent saat ini.
+Uji 2 : PL relaksasi tidak memiliki solusi yang
+layak.
+Uji 3: Jika solusi optimal untuk PL relaksasinya
+adalah sebuah tour. Apabila solusi ini lebih baik
+dari pada incumbent, maka solusi ini menjadi
+incumbent baru, dan uji 1 diterapkan kembali
+pada semua submasalah yang tidak dihilangkan,
+dengan * Z baru.
+3. Uji optimalitas
+Uji optimalitas dilakukan pada setiap akhir
+iterasi. Berhenti ketika tidak ada lagi submasalah
+yang tersisa. Incumbent (calon solusi
+optimal) yang berlaku adalah optimal. Jika
+tidak, kembali lakukan iterasi lainnya.
+Hasil dan Pembahasan
+Model Optimisasi Robust TSP untuk Kasus
+Pencarian Rute
+Pada sub bagian ini, untuk mendapatkan robust
+counterpart digunakan box uncertainty dimana himpunan
+unsur tak pasti diasumsikan berbentuk box.
+Dalam penelitian ini, diasumsikan bahwa parameter
+data yang tidak pasti adalah koefisien pada
+fungsi objektif. Permasalahan tersebut dapat diformulasikan
+sebagai TSP tak tentu seperti di bawah
+ini:
+
+
+dimana adalah vektor kolom yang merepresentasikan
+jarak atau waktu tempuh perjalanan dari kota
+ke kota , adalah vektor kolom yang memuat
+variabel keputusan perjalanan dari kota ke kota
+dilakukan atau tidak. Fungsi objektif pada persamaan
+(4) memuat unsur tidak tentu maka fungsi
+objektif haruslah dikonstruksi menjadi sebuah
+fungsi objektif tentu dengan cara menghilangkan
+parameter tak tentu dari fungsi objektif dan
+menyajikan dalam bentuk fungsi variabel tunggal ,
+sehingga diperoleh,
+Σ
+(5)
+Σ
+{ }
+Solusi membentuk sebuah tour (tertutup)
+Asumsikan bahwa adalah himpunan unsur tak
+pasti yang berbentuk box (persegi panjang) dan
+berpusat di , sebagai berikut:
+{ } (6)
+Pilih batas yang menghasilkan kemungkinan terburuk
+pada persamaan (6). Sebab parameter data
+yang tidak pasti dalam penelitian ini adalah jarak atau waktu tempuh perjalanan maka batas yang
+akan menghasilkan kemungkinan terburuk yaitu
+̂ serta masih ada fungsi kendala
+yang berbentuk pertidaksamaan dalam persamaan
+(6) maka akan dikonstruksi ke dalam bentuk
+kanonik dengan menambahkan variabel slack
+pada fungsi kendala yang bertanda , maka didapatkan:
+Σ
+(7)
+Σ
+{ }
+Solusi membentuk sebuah tour (tertutup)
+Agar memudahkan, selanjutnya persamaan (7)
+akan dikonstruksi ke dalam bentuk matriks, maka
+didapatkan persamaan (8).
+[
+]
+[
+]
+[
+] [
+] [
+] (8)
+[
+] [
+]
+Solusi membentuk sebuah tour (tertutup)
+Dimana adalah nilai yang membatasi unsur
+ketidakpastian pada fungsi objektif, x adalah
+vektor kolom yang memuat , adalah variabel
+slack, adalah nilai tertentu yang berpengaruh
+pada pengambilan keputusan, adalah vektor
+kolom yang merepresentasikan jarak atau waktu
+antar dua titik ( ). Berdasarkan penjabaran di
+atas, maka dapat disimpulkan hasil:
+Teorema 1. Model optimisasi robust TSP dengan
+pendekatan ketidakpastian kotak (box uncertainty)
+dapat dinyatakan dalam formulasi (8).
+Dapat dilihat bahwa persamaan (8) adalah masalah
+pemrograman bilangan bulat campuran, sehingga
+merujuk pada Teorema 1 pada Ben-Tal dan Nemirovski
+[7] serta Chaerani dan Roos [6], maka
+persamaan (8) merupakan robust counterpart dari
+masalah TSP tak tentu persamaan (5) yang dapat
+dikategorikan sebagai masalah yang dapat diselesaikan
+secara komputasi. Dalam penelitian ini, persamaan
+(8) akan diselesaikan dengan metode
+branch and bound.
+Simulasi Numerik
+A. Pencarian Rute Optimal untuk Kasus Manajemen
+Konstruksi
+Data untuk simulasi numerik pada kasus ini didapatkan
+dari Klanšek [14], yaitu seorang supervisor
+akan mengunjungi seluruh tempat pembangunan,
+yang terdiri dari (1) Maribor, (2) Sladki
+Vrh, (3) Murska Sobota, (4) Mačkovci, (5) Moravske
+Toplice, (6) Ložane, (7) Ljutomer, (8) Ormož, (9) Ptuj,
+(10) Slovenska Bistrica, (11) Kopivnik, (12) Hotinja
+Vas, (13) Hoče, (14) Rogoza and (15) Ruše, dengan
+titik awal kunjungan adalah Maribor.
+a. Model Optimisasi TSP
+Berdasarkan persamaan (4) yang telah disubstitusi
+data dari Klanšek [14] diperoleh:
+(i) Nilai fungsi objektif = 249,7 artinya jarak
+optimal yang harus ditempuh untuk
+mengunjungi seluruh tempat pembangunan
+adalah 249,7 km
+(ii)
+, artinya
+rute perjalanan yang harus ditempuh oleh
+supervisor adalah (1) Maribor - (6) Ložane - (2)
+Sladki Vrh - (3) Murska Sobota - (4) Mačkovci
+- (5) Moravske Toplice - (7) Ljutomer - (8)
+Ormož - (9) Ptuj - (10) Slovenska Bistrica - (11)
+Kopivnik - (12) Hotinja vas - (14) Rogoza - (13)
+Hoče - (15) Ruše - (1) Maribor.
+(iii) Jumlah iterasi sebanyak 8 dengan total
+submasalah sebanyak 135. Hasil simulasi
+dapat dilihat pada Gambar 1.
+
+b. Model Optimisasi Robust TSP (RTSP)
+Berdasarkan persamaan (8) yang telah disubstitusi
+data dari Klanšek [14] diperoleh:
+(i) Nilai fungsi objektif = 299,64 artinya
+jarak optimal yang harus ditempuh untuk
+mengunjungi seluruh tempat pembangunan
+adalah 299,64 km
+(ii)
+, artinya rute perjalanan
+yang harus ditempuh oleh supervisor
+adalah (1) Maribor - (6) Ložane - (2) Sladki
+Vrh - (3) Murska Sobota - (4) Mačkovci - (5)
+Moravske Toplice - (7) Ljutomer - (8) Ormož -
+(9) Ptuj - (10) Slovenska Bistrica - (11)
+Kopivnik - (12) Hotinja vas - (14) Rogoza -
+(13) Hoče - (15) Ruše - (1) Maribor.
+(iii) Jumlah iterasi sebanyak 8 dengan total submasalah
+sebanyak 135.
+
+
+
+B. Pencarian Rute Optimal untuk Kasus Kunjungan
+Ibukota Provinsi se-Pulau Jawa.
+Data untuk simulasi numerik pada kasus ini
+didapatkan dari Google Maps [15], yaitu seorang
+traveler akan mengunjungi seluruh ibu kota
+provinsi di Pulau Jawa, yaitu: (1) Serang, (2)
+Bandung, (3) Jakarta, (4) Semarang, (5) Yogyakarta,
+(6) Surabaya, dengan titik awal kunjungan
+adalah Serang.
+a. Model Optimisasi TSP
+Berdasarkan persamaan (4) yang telah disubstitusi
+data dari Google Maps [15] diperoleh:
+(i) Nilai fungsi objektif = 1820,8, artinya
+jarak optimal yang harus ditempuh untuk
+mengunjungi seluruh ibukota provinsi se-
+Pulau Jawa adalah 1820,8 km.
+(ii) ,
+artinya rute perjalanan yang harus
+ditempuh oleh traveler adalah (1) Serang - (4)
+Semarang - (6) Surabaya - (5) Yogyakarta -
+(2) Bandung - (3) Jakarta - (1) Serang.
+(iii) Jumlah iterasi sebanyak 4 dengan total submasalah
+sebanyak 34.
+b. Model Optimisasi Robust TSP (RTSP)
+Berdasarkan persamaan (8) yang telah disubstitusi
+data dari Google Maps [15] diperoleh:
+(i) Nilai fungsi objektif = 2184,96, artinya
+jarak optimal yang harus ditempuh untuk
+mengunjungi seluruh ibukota provinsi se-
+Pulau Jawa adalah 2184,96 km.
+(ii) ,
+artinya rute perjalanan yang harus
+ditempuh oleh traveler adalah (1) Serang -
+(4) Semarang - (6) Surabaya - (5) Yogyakarta
+- (2) Bandung - (3) Jakarta - (1) Serang.
+(iii) Jumlah iterasi sebanyak 4 dengan total
+submasalah sebanyak 34.
+
+
+C. Pencarian Rute Optimal untuk Kasus Mandiri
+Run Bandung 5 KM
+Data untuk simulasi numerik pada kasus ini didapatkan
+dari Google Maps [15], yaitu seorang
+peserta Mandiri Run Bandung akan mengunjungi
+seluruh tempat kilometer marker yang
+dimulai dari tempat start/finish, yaitu: (1) Start/
+Finish, (2) KM 1, (3) KM 2, (4) KM 3, (5) KM 4,
+dengan titik awal kunjungan adalah Start/
+Finish.
+a. Model Optimisasi TSP
+Berdasarkan persamaan (4) yang telah disubstitusi
+data dari Google Maps [15] diperoleh:
+(i) Nilai fungsi objektif = 61,0 artinya waktu
+tempuh optimal yang harus ditempuh untuk
+seluruh tempat kilometer marker pada
+Mandiri Run Bandung 5 KM adalah 61,0
+menit.
+(ii) , artinya
+rute perjalanan yang harus ditempuh oleh
+peserta Mandiri Run Bandung adalah (1)
+Start/Finish - (2) KM 1 - (3) KM 2 - (4) KM 3
+– (5) KM 4 - (1) Start/Finish.
+(iii) Jumlah iterasi sebanyak 0 dengan total submasalah
+sebanyak 0 (penyelesaian hanya
+sampai tahap inisialisasi, karena rute yang
+dihasilkan pada tahap inisialisasi sudah merupakan
+rute tertutup yang tidak memiliki
+sub tour)
+b. Model Optimisasi Robust TSP (RTSP)
+Berdasarkan persamaan (8) yang telah disubstitusi
+data dari Google Maps [15] diperoleh:
+(i) Nilai fungsi objektif = 73,19 artinya
+waktu tempuh optimal yang harus ditempuh
+untuk seluruh tempat kilometer marker
+pada Mandiri Run Bandung 5 KM adalah
+73,19 menit.
+(ii) , artinya
+rute perjalanan yang harus ditempuh oleh
+peserta Mandiri Run Bandung adalah (1)
+Start/Finish – (5) KM 4 - (4) KM 3 - (3) KM 2
+- (2) KM 1 - (1) Start/Finish.
+
+
+iii) Jumlah iterasi sebanyak 0 dengan total submasalah
+sebanyak 0 (penyelesaian hanya sampai
+tahap inisialisasi karena rute yang dihasilkan
+pada tahap inisialisasi sudah merupakan
+rute tertutup yang tidak memiliki sub tour)
+D. Pencarian Rute Optimal untuk Kasus Mandiri
+Run Bandung 10 KM
+Data untuk simulasi numerik pada kasus ini
+didapatkan dari Google Maps [15], yaitu seorang
+peserta Mandiri Run Bandung akan mengunjungi
+seluruh tempat kilometer marker yang
+dimulai dari tempat start/finish, yaitu: (1) Start/
+Finish, (2) KM 1, (3) KM 2, (4) KM 3, (5) KM 4,
+(6) KM 5, (7) KM 6, (8) KM 7, (9) KM 8, (10) KM
+9, dengan titik awal kunjungan adalah Start/
+Finish.
+a. Model Optimisasi TSP
+Berdasarkan persamaan (4) yang telah disubstitusi
+data dari Google Maps [15], maka didapatkan
+hasil sebagai berikut.
+(i) Nilai fungsi objektif = 122,0, artinya
+waktu tempuh optimal yang harus ditempuh
+untuk seluruh tempat kilometer marker
+pada Mandiri Run Bandung 10 KM adalah
+122 menit.
+(ii)
+, artinya rute
+perjalanan yang harus ditempuh oleh
+peserta Mandiri Run Bandung adalah (1)
+Start/Finish – (10) KM 9 - (9) KM 8 - (8) KM
+7 - (7) KM 6 - (6) KM 5 - (5) KM 4 - (4) KM 3 -
+(3) KM 2 - (2) KM 1 - (1) Start/Finish.
+(iii) Jumlah iterasi sebanyak 2 dengan total submasalah
+sebanyak 6.
+
+
+
+b. Model Optimisasi Robust TSP (RTSP)
+Berdasarkan persamaan (8) yang telah disubstitusi
+data dari Google Maps [15], maka didapatkan
+hasil sebagai berikut:
+(i) Nilai fungsi objektif = 146,39 artinya
+waktu tempuh optimal yang harus ditempuh
+untuk seluruh tempat kilometer marker
+pada Mandiri Run Bandung 10 KM adalah
+146,39 menit.
+(ii)
+, artinya rute
+perjalanan yang harus ditempuh oleh
+peserta Mandiri Run Bandung adalah (1)
+Start/Finish – (10) KM 9 - (9) KM 8 - (8) KM
+7 - (7) KM 6 - (6) KM 5 - (5) KM 4 - (4) KM 3 -
+(3) KM 2 - (2) KM 1 - (1) Start/Finish.
+(iii) Jumlah iterasi sebanyak 3 dengan total submasalah
+sebanyak 18.
+Analisis Hasil Perhitungan Simulasi Numerik
+Tabel 1 menyajikan nilai fungsi objektif dari solusi
+optimal, jumlah iterasi dan percabangan, serta
+waktu yang dibutuhkan CPU untuk menyelesaikan
+perhitungan yang didapat dari Model Optimisasi
+TSP untuk masalah pencarian rute optimal.
+Tabel 2. menyajikan nilai fungsi objektif dari solusi
+optimal, jumlah iterasi dan percabangan, serta
+waktu yang dibutuhkan CPU untuk menyelesaikan
+perhitungan yang didapat dari Model Optimisasi
+Robust TSP (RTSP) untuk masalah pencarian
+rute optimal.
+Penentuan solusi optimal dari RTSP dengan Box
+Uncertainty menggunakan Metode Branch and
+Bound dan kemudian dilakukan simulasi numerik
+yang menunjukkan bahwa diperoleh hasil robust
+optimal yang menyajikan the best worst case solution
+untuk Model Optimisasi Robust TSP. Solusi optimal
+yang didapat dari Model Optimisasi Robust TSP
+pada beberapa contoh kasus menghasilkan nilai
+fungsi objektif yang lebih besar dari solusi optimal
+yang didapat dari Model Optimisasi TSP.
+
+Hal ini terjadi karena pada optimisasi robust memperhitungkan
+faktor tak tentu yang mewakili kemungkinan
+terburuk yang mungkin terjadi, seperti
+kemacetan, kondisi jalan yang tidak baik, atau pun
+kemungkinan lainnya.
+Simpulan
+Model RTSP merupakan pemrograman bilangan
+bulat campuran sehingga dapat dijamin bahwa
+RTSP dengan box uncertainty merupakan formulasi
+masalah optimisasi yang dapat diselesaikan secara
+komputasi. Oleh karena itu, penerapan optimisasi
+robust pada kasus TSP tak tentu menghasilkan
+solusi optimal robust global.

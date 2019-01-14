@@ -1,0 +1,411 @@
+﻿RISIKO KEPUNAHAN KEANEKARAGAMAN HAYATI DI TAMAN NASIONAL
+GUNUNG MERAPI: TINJAUAN SPASIAL
+
+INTISARI
+Gunung Merapi merupakan habitat dari berbagai spesies khas pegunungan Jawa bagian tengah. Namun
+demikian, tingginya aktivitas vulkanik Gunung Merapi dan besarnya tekanan masyarakat terhadap kawasan
+menyebabkan keanekaragaman hayati di sekitar kawasan Gunung Merapi berisiko untuk punah. Penelitian ini
+bertujuan untuk melakukan analisis spasial risiko kepunahan keanekaragaman hayati di Taman Nasional
+Gunung Merapi (TNGM). Analisis risiko dilakukan dengan mengukur komponen risiko, yaitu: kerawanan,
+elemen yang berisiko, dan kerentanan. Identifikasi komponen risiko dilakukan dengan melaksanakan grup
+diskusi terarah dengan staf Taman Nasional Gunung Merapi. Analisis risiko diukur menggunakan analisis
+spasial dengan perangkat lunak ArcGIS 10.1. Hasil penelitian menunjukkan bahwa kawasan Taman Nasional
+Gunung Merapi memiliki kawasan dengan tingkat risiko tinggi seluas 2185.6 ha (35,6%), risiko sedang seluas
+3910,1 ha (63,6%), dan risiko rendah seluas 49,8 ha (0,8%). Wilayah yang berisiko tinggi berada di wilayah
+Resort Pengelolaan Taman Nasional (RPTN) Dukun Kabupaten Magelang, RPTN Turi-Pakem Kabupaten
+Sleman, dan RPTN Kemalang Kabupaten Klaten.
+Kata kunci: analisis risiko, keanekaragaman hayati, Taman Nasional Gunung Merapi, analisis spasial,
+vulkanik.
+
+PENDAHULUAN
+Keanekaragaman hayati merupakan sumberdaya
+vital bagi keberlanjutan hidup umat manusia.
+Keanekaragaman hayati berperan penting dalam
+menyediakan kebutuhan barang dan jasa, mengatur
+proses dan fungsi ekosistem sehingga kehidupan
+dapat terus berlangsung (Balvanera et al., 2006;
+Chapin et al., 2000; Loreau et al., 2001). Namun
+demikian, keanekaragaman hayati saat ini menghadapi
+risiko kepunahan yang tinggi karena tingginya
+laju kerusakan lingkungan (Kuussaari et al.,
+2009). Salah satu upaya untuk menjaga eksistensi
+keanekaragaman hayati dan mencegahnya dari
+kepunahan adalah dengan menunjuk dan menetapkan
+kawasan konservasi (Indrawan et al., 2007),
+salah satunya adalah taman nasional.
+Taman Nasional Gunung Merapi (TNGM)
+(Gambar 1) merupakan kawasan konservasi yang
+unik. Selain menyangga gunung api paling aktif di
+Indonesia, ekosistem hutan di TNGM berfungsi
+sebagai daerah tangkapan air kawasan Provinsi Jawa
+Tengah dan Daerah Istimewa Yogyakarta, habitat
+berbagai spesies flora dan fauna yang dilindungi,
+kantong berbagai plasma nutfah yang potensial, dan
+fungsi sosial dan religius (Djuwantoko et al., 2005).
+Keberadaan Gunung Merapi yang dapat erupsi
+sewaktu-waktu dan tingginya tekanan masyarakat
+terhadap kawasan menyebabkan keanekaragaman
+hayati di TNGM memiliki tingkat kerapuhan yang
+tinggi (TNGM, 2011).
+Salah satu upaya untuk mencegah kepunahan
+keanekaragaman hayati di TNGM adalah dengan
+melakukan analisis risiko. Analisis risiko adalah
+salah satu kajian yang digunakan untuk mendukung
+pengambilan keputusan (Decision Support Systems)
+dengan mendasarkan pada analisis kerawanan
+(hazard), kerentanan (vulnerability), dan jumlah
+yang berisiko (element at risk) (UNDRO, 1982).
+Analisis risiko kepunahan keanekaragaman hayati
+adalah upaya untuk mengukur potensi terjadinya
+kepunahan keanekaragaman hayati akibat adanya
+gangguan dari faktor alam maupun non alam.
+Penelitian ini bertujuan untuk mengukur secara
+spasial tingkat risiko kepunahan keanekaragaman
+hayati di Taman Nasional Gunung Merapi.
+Tingkatan keaneakaragaman hayati yang menjadi obyek analisis adalah tingkatan spesies. Manfaat dari
+penelitian adalah sebagai penyedia informasi awal
+dalam upaya mitigasi kepunahan keanekaragaman
+hayati di kawasan TNGM.
+BAHAN DAN METODE
+Bahan
+Seluruh bahan yang digunakan dalam penelitian
+adalah data spasial yang diperoleh dari berbagai
+sumber, baik yang bersifat intitusional maupun
+informasi publik (public domain). Perolehan data
+institusional dilakukan dengan pemeriksaan data dan
+laporan kegiatan yang dimiliki oleh institusi terkait,
+sedangkan perolehan data informasi publik dilakukan
+secara daring dari halaman web penyedia data.
+Tabel 1 menunjukkan bahan yang digunakan dalam
+penelitian ini.
+Analisis Data
+Terdapat dua tahapan dalam analisis data: 1)
+mengidentifikasi komponen dalam analisis risiko
+yaitu nilai kerawanan (hazard), kerentanan
+(vulnerability), dan elemen yang beresiko (element at
+risk) dan 2) analisis spasial untuk mengukur
+komponen risiko dan tingkat risiko.
+Mengidentifikasi Komponen Risiko
+Proses identifikasi komponen risiko kepunahan
+keanekaragaman hayati dilakukan dengan melaksanakan
+Focuss Group Discussion (FGD) dengan
+personil Taman Nasional Gunung Merapi (TNGM).
+Proses FGD dilakukan pada tanggal 19 Oktober 2011
+dengan melibatkan 20 orang staf TNGM. FGD
+dilaksanakan bersamaan dengan kegiatan pembahasan
+review zonasi TNGM Tahun 2012. Hasil FGD
+ditunjukkan secara ringkas dalam Tabel 2.
+
+Analisis Spasial
+Analisis spasial dilaksanakan dengan tujuan : 1)
+mengubah komponen risiko hasil FGD menjadi data
+spasial, 2) mengukur tingkat risiko kepunahan
+keanekaragaman hayati di TNGM. Seluruh analisis
+spasial dilakukan dengan bantuan perangkat lunak
+ArcGIS 10.1 student license.
+Data spasial kerawanan erupsi Gunung Merapi
+diperoleh dengan melakukan digitasi peta Kawasan
+Rawan Bencana (KRB) Gunung Merapi dari Badan
+Nasional Penanggulangan Bencana (BNPB).
+Terdapat 4 kelas dalam peta KRB, yaitu : KRB III,
+KRB II, KRB I dan non-KRB yang masing-masing
+menunjukkan tingkat kerawanan Gunung Merapi.
+Hasil digitasi kelas kerawanan selanjutnya dilakukan
+re-klasifikasi menjadi 3 kelas, yaitu: kelas kerawanan
+tinggi untuk KRB III, kerawanan sedang untuk KRB
+II, dan kerawanan rendah untuk KRB I dan
+non-KRB.
+Data spasial kerawanan akibat interaksi masyarakat
+dalam kawasan TNGM diperoleh dengan
+melakukan analisis penyangga (buffer) sejauh 500 m
+dan 1 km dari titik lokasi interaksi masyarakat yang
+diperoleh dari TNGM (2012). Pemberian buffer 500
+m bertujuan untuk mendefinisikan batas area dengan
+intensitas masyarakat tinggi, sementara buffer 1 km
+bertujuan untuk mendefinisikan batas area dengan
+intensitas masyarakat sedang. Kawasan di luar buffer
+1 km kemudian didefinisikan sebagai area dengan
+intensitas masyarakat rendah. Metode skoring dan
+tumpang susun dilakukan terhadap kedua peta
+tematik tersebut dengan pemberian nilai 10 untuk
+kelas rendah, nilai 50 untuk kelas sedang, dan nilai
+100 untuk kelas tinggi. Hasil tumpang susun kedua
+peta tematik kerawanan tersebut selanjutnya dilakukan
+re-klasifikasi dengan ketentuan kerawanan
+tinggi untuk total skor 140-200, kerawanan sedang
+untuk total skor 80-139, dan kerawanan rendah untuk
+total skor 20-79.
+Sama dengan analisis kerawanan, analisis
+kerentanan elang Jawa ditentukan berdasarkan
+pemberian skor dan operasi tumpang susun
+kriteria-kriteria kesesuaian habitat elang Jawa.
+Penentuan kriteria kesesuaian habitat elang Jawa dilakukan berdasarkan studi oleh Setiadi et al.
+(2000), Nijman et al. (2003), dan Cahyana (2009),
+yaitu: penutupan tajuk, ketinggian tempat,
+kelerengan, dan penggunaan lahan. Masing-masing
+faktor tersebut dipetakan menjadi 3 kelas: tinggi,
+sedang, dan rendah sesuai dengan tingkat kerentanannya.
+Pemberian skor dilakukan dengan derajat
+nilai 10 untuk kelas rendah, nilai 50 untuk kelas
+sedang, dan nilai 100 untuk kelas tinggi. Tabel 3
+menunjukkan skor dari masing-masing kelas pada
+tiap kriteria kesesuaian habitat elang Jawa. Hasil
+kerentanan dibagi menjadi 3 kelas berdasarkan
+pembagian total skor secara proporsional, yaitu:
+kerentanan tinggi (skor 280-400), kerentanan sedang
+(skor 160-279), dan kerentanan rendah (skor
+40-159).
+Analisis Risiko
+Analisis risiko (R) merupakan fungsi dari
+kerawanan (hazard, H), kerentanan (vulnerability,
+V) dan elemen yang berisiko (element at risk, EaR)
+yang hubungannya dapat dijelaskan dalam formula
+berikut :
+R = H * V * EaR
+Berdasarkan formula hubungan tersebut, tingkat
+risiko berbanding lurus dengan kerawanan dan
+kerentanan obyek yg berisiko. Dalam analisis
+spasial, proses ini dilakukan dengan operasi
+tumpangsusun seluruh komponen risiko. Proses
+pemberian skor dan tumpangsusun kembali
+dilakukan dengan ketentuan yang sama seperti
+proses sebelumnya. Hasil dari analisis ini adalah 3
+kelas risiko, yaitu: risiko tinggi, risiko sedang, dan
+risiko rendah.
+HASIL DAN PEMBAHASAN
+Tingkat Kerawanan
+Hasil dari peta kerawanan menunjukkan bahwa
+5.605,68 ha (91,22%) kawasan Taman Nasional
+Gunung Merapi masuk dalam KRB III (rawan
+tinggi), 283,68 ha (4,17%) masuk KRB II (rawan
+sedang), dan 256,11 ha (4,61%) masuk wilayah yang
+KRB I dan non-KRB (rawan rendah). Tingkat
+kerawanan akibat aktivitas masyarakat dalam
+kawasan menunjukkan bahwa kawasan TNGM yang
+sudah diakses oleh masyarakat dengan intensitas
+tinggi adalah seluas 2.368,4 ha (38,5%), sedangkan
+dengan intensitas rendah adalah seluas 3.777,1 ha (61,5%). Gabungan kedua faktor kerawanan tersebut
+menunjukkan bahwa sebagian besar wilayah Taman
+Nasional Gunung Merapi adalah rawan tinggi
+dengan luas 5.864,2 ha (95,4%), 268,3 ha (4,4%)
+rawan sedang, dan 13,0 ha (0,2%) adalah rawan
+rendah. Sebaran wilayah tingkat kerawanan di
+TNGM tersaji pada Gambar 2.
+Tingkat Kerentanan
+Hasil dari analisis kerentanan di Taman Nasional
+Gunung Merapi menunjukkan bahwa 2.282,5 ha
+(37,2%) adalah kerentanan tinggi, 2.435,1 ha
+(39,6%) adalah kerentanan sedang, dan 1.427,9 ha
+(23,2%) adalah kerentanan rendah. Distribusi spasial
+tingkat kerentanan di TN Gunung Merapi tersaji pada
+Gambar 3.
+Tingkat Risiko
+Hasil dari analisis risiko kepunahan keanekaragaman
+hayati menunjukkan bahwa 2.185,6 ha
+(35,6%) kawasan berisiko tinggi, 3.910,1 ha (63,6%)
+kawasan berisiko sedang, dan 49,8 ha (0,8%) adalah
+kawasan berisiko rendah. Kawasan yang berisiko
+tinggi terutama terdapat di RPTN Dukun, RPTN
+Turi-Pakem dan RPTN Kemalang, kawasan berisiko
+sedang di RPTN Selo dan RPTN Musuk-Cepogo dan
+kawasan berisiko rendah merupakan sebagian kecil
+dari wilayah RPTN Musuk-Cepogo. Distribusi
+spasial tingkat risiko kepunahan keanekaragaman
+hayati di TN Gunung Merapi tersaji pada Gambar 4.
+Analisis Risiko dan Zonasi
+Analisis risiko kepunahan keanekaragaman
+hayati adalah upaya untuk mengukur potensi terjadinya
+kepunahan keanekaragaman hayati akibat
+adanya gangguan dari faktor alam maupun non alam.
+Penelitian ini mengembangkan skema pemetaan
+risiko bencana dari UNDRO (1982) dengan
+memasukkan unsur keanekaragaman hayati sebagai
+faktor yang berisiko dalam konsep yang dikembangkan
+oleh Moore (1956).
+Dari hasil analisis risiko menunjukkan bahwa
+kawasan TNGM yang memiliki tingkat risiko
+kepunahan keanekaragaman hayati tinggi berada di
+wilayah kelola RPTN Dukun, RPTN Turi-Pakem,
+dan RPTN Kemalang. Wilayah tersebut memiliki
+tingkat ancaman yang tinggi terutama dari aspek
+tekanan masyarakat terhadap kawasan TNGM. Pada
+kawasan tersebut, jalur-jalur akses masuk berupa
+jalan setapak maupun jalur kendaraan bermotor dapat dengan mudah dijumpai. Menurut TNGM
+(2011), masyarakat masuk ke dalam hutan kawasan
+TNGM untuk merumput dan mencari daun untuk
+pakan ternak yang dilakukan setiap hari dengan
+intensitas satu sampai 2 kali dalam sehari. Masyarakat
+masuk ke dalam hutan sejauh 1 km hingga 2 km
+dari desanya dengan kendaraan bermotor dan berjalan
+kaki. Tingginya aktivitas masyarakat tersebut
+menjadi ancaman bagi keanekaragaman hayati yang
+ada di kawasan TNGM. Tingginya ancaman oleh
+aktivitas masyarakat terhadap kelestarian keanekaragaman
+hayati juga dikemukakan oleh Hansen et al.
+(2001), Díaz et al. (2006), dan Kuussaari et al.
+(2009).
+Faktor alam erupsi Gunung Merapi juga menjadi
+ancaman bagi kelestarian keanekaragaman hayati di TNGM. Aktivitas vulkanik Gunung Merapi terjadi
+dalam siklus pendek (2-5 tahun) dan siklus
+menengah (5-7 tahun). Kejadian erupsi Gunung
+Merapi cukup besar yang terjadi pada tahun 2010
+telah menimbulkan kerugian ekologis yang cukup
+besar dengan luasnya kerusakan hutan akibat
+terjangan awan panas dan material Gunung Merapi.
+Marhaento dan Kurnia (2015) menyebutkan bahwa
+erupsi pada tahun 2010 menyebabkan 38,2%
+kawasan TNGM mengalami kerusakan sedang
+hingga berat. Lokasi yang mengalami kerusakan
+berat tersebut adalah di RPTN Pakem-Turi, RPTN
+Cangkringan, RPTN Srumbung, RPTN Dukun,
+RPTN Sawangan, RPTN Selo, dan RPTN Kemalang.
+Wilayah-wilayah tersebut juga merupakan kawasan
+dengan tingkat risiko kepunahan keanekaragaman
+hayati tinggi. Hal ini sesuai dengan Novacek dan
+Cleland (2001) yang menyebutkan bahwa bencana
+alam merupakan salah satu faktor utama yang
+mengancam eksistensi keanekaragaman hayati di
+suatu wilayah.
+Elang Jawa merupakan salah satu jenis satwa liar
+yang termasuk kategori genting (endangered)
+menurut IUCN, termasuk dalam daftar appendix II
+CITES, termasuk satwa liar yang dilindungi menurut
+Keppres No.4 tahun 1993, dan merupakan satwa
+khas TNGM. Walaupun penelitian ini menggunakan
+satu spesies sebagai elemen yang terisiko, namun
+jangkauan habitat dari elang Jawa juga merupakan
+habitat penting bagi spesies yang lain (umbrella
+species). Sehingga risiko kerusakan dan kepunahan
+terhadap jenis tersebut juga merupakan risiko bagi
+spesies lainnya (Indrawan et al., 2007).
+Penataan zonasi merupakan salah satu upaya yang
+dilakukan pengelola taman nasional untuk
+melindungi potensi keanekaragaman hayati yang
+dimiliki. Zonasi merupakan pengaturan ruang-ruang
+di taman nasional yang memperhatikan aspek-aspek
+ekologis, sosial, ekonomi, dan budaya masyarakat
+(Permenhut No. 56 tahun 2006). Zonasi TNGM yang
+sudah ditetapkan pada tahun 2012 cukup mampu
+merepresentasikan kebutuhan perlindungan terhadap
+potensi keanekaragaman hayati yang ada. Lokasilokasi
+yang termasuk dalam kawasan berisiko
+kepunahan tinggi sudah ditunjuk sebagai zona inti.
+Namun demikian, pengelolaan zona inti saat ini lebih
+difokuskan pada aspek pengamanan dari aktivitas
+masyarakat dan tidak ada rencana kelola terkait
+ancaman erupsi Gunung Merapi. Untuk itu,
+diperlukan adanya rencana kontingensi dalam
+pengelolaan zona inti untuk menghindarkan
+kematian dan kepunahan keanekaragaman hayati
+akibat bencana erupsi Gunung Merapi. Salah satu
+upaya yang dapat dilakukan adalah dengan membuat
+kantong-kantong pelarian satwa liar (refugee)
+termasuk jalur (koridor) pelariannya (Dowie, 2011).
+Lokasi kantong-kantong satwa dapat dipilih pada
+habitat yang sesuai dan memiliki tingkat risiko
+kepunahan keanekaragaman hayati rendah. Blok
+hutan Gunung Bibi dan blok hutan Turgo merupakan
+dua lokasi yang direkomendasikan sebagai lokasi
+pelarian satwa liar. Di lokasi tersebut juga dapat
+ditunjuk sebagai lokasi pengembangan tanaman
+koleksi TNGM yang bernilai konservasi tinggi untuk
+menjaga eksistensi keanekaragaman hayati di
+TNGM.
+KESIMPULAN
+Hasil tinjauan spasial risiko kepunahan keanekaragaman
+hayati di TNGM menunjukkan bahwa
+2.185,6 ha (35,6%) kawasan berisiko tinggi yang
+berlokasi di RPTN Dukun, RPTN Turi-Pakem, dan
+RPTN Kemalang, 3.910,1 ha (63,6%) adalah
+kawasan risiko sedang yang berlokasi di RPTN Selo
+dan RPTN Musuk-Cepogo, dan 49,8 ha (0,8%) risiko
+rendah yang berlokasi di sebagian kecil dari wilayah RPTN Musuk-Cepogo. Informasi spasial tingkat
+risiko kepunahan keanekaragaman hayati ini
+selanjutnya dapat diintegrasikan dalam proses
+penataan kawasan TNGM dalam rangka melindungi
+eksistensi keanekaragaman hayati yang ada di dalam
+kawasan TNGM.
+
+
+Gambar 3. Peta tingkat kerentanan di Taman Nasional Gunung Merapi
+Gambar 4. Peta tingkat risiko kepunah
+
+Gambar 2. Peta tingkat kerawanan di Taman Nasional Gunung Merapi
+
+Tabel 3. Skor masing-masing kelas pada tiap faktor kelas kerentanan elang Jawa
+*NDVI = Normalized Difference Vegetation Index, diukur dengan menggunakan fasilitas raster
+math pada ArcGIS 10.1 dengan memanfaatkan saluran biru dan saluran infra merah
+dekat pada citra LANDSAT 8
+
+
+
+
+Judul Skala/resolus i Sumbe r
+Peta kawasan Taman
+Nasional Gunung Merapi
+1:50.000 Balai Pemantapan Kawasan Hutan (BPKH) Wilayah
+XI
+Peta zonasi Taman
+Nasional Gunung Merapi
+1:50.000 Taman Nasional Gunung Merapi (2012 )
+Peta Rupa Bumi
+Indonesia
+1:25.000 Badan Informasi Geospasia l
+Peta tutupan lahan
+TNGM
+1:25.000 Taman Nasional Gunung Merapi (2012 )
+Peta Kawasan Rawan
+Bencana (KRB) Gunung
+Merapi
+1:50.000 Balai Penelitian Teknologi Kegunungapian (BPTK )
+Peta sebaran aktivitas
+masyarakat di dalam
+kawasan TNGM
+1:50.000 Taman Nasional Gunung Merapi (2011)
+Peta distribusi Elang
+Jawa ( Spizaetus bartelsi )
+di TNGM
+1:50.000
+Taman Nasional Gunung Merapi (2011)
+Peta ketinggian tempat 30 meter ASTER GDEM
+(http://gdem.ersdac.jspacesystems.or.jp/ )
+Peta kelerengan 30 meter ASTER GDEM
+Peta kerapatan vegetasi 30 meter LANDSAT 8 path 120 r ow 65 liputan 14 Oktober
+2013 (http://earthexplorer.usgs.gov/)
+Tabel 1. Bahan dan sumber data yang digunakan dalam penelitian ini
+
+
+
+Komponen risiko Deskrips i Has il
+Kerawanan (hazard) Kondisi yang disebabkan oleh faktor alam
+maupun non alam yang menyebabkan
+terjadinya kepunahan keanekaragaman hayati
+yang ada di dalam kawasan.
+1. Kerawanan erupsi gunung api
+Merap i
+2. Kerawanan oleh aktivitas
+masyaraka t
+Elemen yang Berisiko
+(element at risk)
+Obyek yang rawan mengalami kepunahan di
+TNGM apabila faktor kerawanan terjadi.
+Disepakati bahwa dalam kajian ini tingkatan
+keanekaragaman hayati yang diukur adalah
+tingkatan spesies. Pem ilihan obyek
+berdasarkan konsep focal spesies dengan
+kriteria: 1) daya jelajah yang luas (umbrella
+species), 2) spesies khas, 3) status konservasi
+tinggi.
+Elang Jawa (Spizaetus bartels i)
+Kerentanan (vulnerability) Faktor yang mempengaruhi elang Jawa
+mengalami kerusakan atau kepunahan apabila
+faktor kerawanan terjadi di TNGM. Faktor
+kerentanan diukur dengan pemodelan
+kesesuaian habitat elang Jawa.
+Pemodelan kesesuaian habitat
+elang Jawa dilakukan
+berdasarka n analisis spasial
+dengan kriteria yang diperoleh
+dari stud i literatu r.
+Tabel 2. Hasil identifikasi komponen risiko kepunahan keanekaragaman hayati di Taman Nasional Gunung
+Merapi

@@ -1,0 +1,480 @@
+﻿Bahan Ajar Multimedia Interaktif Kewirausahaan SMK
+Menggunakan model Pembelajaran Problem Based
+Learning
+
+
+
+Intisari—Saat ini belum adanya alternatif bahan ajar
+kewirausahaan selain text book kewirausahaan. Dalam penelitian
+ini penulis akan mengembangankan bahan ajar multimedia
+interaktif kewirausahaan pada SMK kelas X sebagai alternatif
+bahan ajar kewirausahaan. Bahan Ajar Multimedia Interaktif
+ini ini menggunakan pendekatan Problem Based Learning
+berupa metode belajar yang menggunakan masalah sebagai
+langkah awal dalam mengumpulkan dan mengintegrasikan
+pengetahuan baru berdasarkan pengalamannya. Dimana
+pendekatan Problem Based Learning ini akan dibangun dalam
+bentuk multimedia interaktif menggunakan software
+Macromedia Flash MX. Sesuai dengan istilah yang digunakan
+yaitu problem based learning atau pembelajaran berbasis
+masalah, maka bahan ajar multimedia interaktif ini merupakan
+sebuah bahan ajar multimedia interaktif yang memposisikan
+pengguna bahan ajar untuk memerankan tokoh/karakter calon
+wirausaha yang akan mengetahui dan menyelesaikan
+permasalahan di dalam kewirausahaan yang disesuaikan
+dengan kurikulum SMK kelas X. Pengujian bahan ajar
+multimedia interaktif ini akan dilakukan menggunakan
+metode kuisioner oleh ahli media dan ahli materi.upaya uji
+kelayakan diharapkan bahan ajar multimedia interaktif yang
+dibangun mampu menarik siswa untuk alternatif pembelajaran
+kewirausahaan Dengan adanya validasi yang dilakukan oleh ahli
+media dan ahli materi sebagai upaya uji kelayakan diharapkan
+bahan ajar multimedia interaktif yang dibangun mampu
+menarik siswa untuk belajar kewirausahaan
+Kata Kunci— Bahan Ajar, multimedia interaktif, kewirausahaan,
+problem based learning.
+
+
+
+I. PENDAHULUAN
+A. Latar belakang
+Bahan Ajar merupakan informasi, alat dan teks yang
+diperlukan guru/infrastruktur untuk perencanaan dan
+penelaahan implementasi pembelajaran.[1].
+Multimedia dalam konteks komputer adalah pemanfaatan
+komputer untuk membuat dan menggabungkan teks,grafik,
+audio,video, dengan menggunakan tool yang memungkinkan
+pemakai berinteraksi,berkreasi, dan berkomunikasi. Interaktif
+berarti bersifat saling mempengaruhi. Maka Bahan ajar
+multimedia interaktif yaitu alat pembelajaran dalam konteks
+komputer yang saling mempengaruhi antara pengguna dan
+media[2].
+Sejalan dengan Renstra Kementrian Pendidikan Nasional,
+maka dalam Road Map Pengembangan SMK 2010-2014
+tentang Visi Direktorat Pembinaan SMK diharapkan
+terwujudnya SMK yang dapat menghasilkan tamatan berjiwa
+wirausaha (entrepreneur) yang siap kerja, cerdas, kompetitif,
+dan memiliki jati diri bangsa, serta mampu mengembangkan
+keunggulan lokal dan dapat bersaing dipasar global. Sehingga
+penyelenggaraan pendidikan kewirausahaan diterapkan di
+Sekolah Menengah Kejuruan(SMK).
+Saat ini pembelajaran kewirausahaan menggunakan
+metode ceramah yang divariasikan dengan metode diskusi
+belum menekankan pada proses berfikir siswa secara mandiri.
+Sebab pada umumnya diskusi dilakukan pada kelas besar yang
+didominasi oleh guru, materi yang dibahas tidak sesuai
+dengan konteks dan isu-isu moral yang sedang berkembang
+dalam masyarakat, terutama yang berhubungan dengan
+kewirausahaan selain itu bahan ajar pada mata pelajaran
+kewirausahaan masih text book oriented.
+Untuk mempelajari suatu ilmu, seseorang harus cekatan
+dalam menyimak, memahami dan mengambil keputusan, agar
+nantinya lebih mampu bertahan hidup[3] . Untuk itu, pendidik
+tidak boleh text book oriented , sebab menurut biasanya
+bercorak generalisasi dan mendorong proses pembelajaran
+hanya sekedar menjejalkan ide-ide abstrak, sehingga siswa
+cenderung memorizing not understanding [4].
+Beberapa kenyataan di atas menjadikan pembelajaran
+kewirausahaan di SMK menjadi kurang menarik. Sebagai
+akibatnya , muncul kebosanan dan kejenuhan dari siswa untuk
+mempelajarinya, karena mereka hanya diarahkan untuk
+sekedar menghafalkan saja.
+Hal tersebut terjadi karena selama ini materi yang
+dipelajarinya tidak menyentuh kebutuhan mereka. Atau dengan kata lain materi yang dipelajari tidak relevan dengan
+pengalaman mereka sehari-hari, akhirnya materi tersebut
+dianggap kurang menantang.
+Oleh karena itu, penulis mengangkat penelitian ini sangat
+penting karena belum adanya alternatif bahan ajar
+kewirausahaan selain text book kewirausahaan. Dalam
+penelitian ini penulis akan membangun Bahan ajar multimedia
+interaktif menggunakan pendekatan Problem Based Learning.
+Problem based Learning merupakan model pembelajaran yang
+menantang siswa untuk “belajar bagaimana belajar” bekerja
+secara berkelompok untuk mencari solusi dari permasalahan
+dunia nyata[1].
+Masalah ini digunakan untuk mengikat siswa pada rasa
+ingin tahu pada pembelajaran yang dimaksud. Sedangkan arti
+yang lain yaitu Problem Based Learning merupakan suatu
+pendekatan pembelajaran dimana siswa dihadapkan pada
+masalah nyata sehingga diharapkan mereka dapat menyusun
+pengetahuannya sendiri, menumbuh kembangkan ketrampilan
+tingkat tinggi dan inkuiri, memandirikan siswa dan
+meningkatkan kepercayaan dirinya[5].
+Bahan ajar multimedia interaktif berbasis Problem Based
+Learning merupakan bahan ajar menggunakan pendekatan
+berbasis penyelesaian masalah.
+Bahan ajar multimedia interaktif ini merupakan sebuah
+bahan ajar multimedia interaktif yang memposisikan
+pengguna bahan ajar untuk memerankan tokoh/karakter
+calon wirausaha yang akan mengetahui permasalahan di
+dalam kewirausahaan dan menyelesaikan masalah yang
+dihadapi calon wirausaha seperti analisis kelayakan usaha
+Break Event Point dan Kelayakan strategi tempat dan
+memerankan posisi wirausaha di dalam pelayanan pelanggan
+secara baik dan cepat.
+Penyelesaian masalah bisa dilakukan secara interaktif
+terhadapa media bahan ajar sehingga pengguna merasa tidak
+bosan. Selain itu bahan ajar multimedia interaktif yang
+dikembangkan juga dilengkapi materi-materi yang ada di
+kurikulum kewirausahaan SMK kelas X selain itu juga ada
+latihan soal sesuai dengan kurikulum.
+Dengan menggunakan bahan ajar multimedia interaktif
+ini diharapkan siswa mampu menyusun pengetahuannya
+sendiri, menumbuh kembangkan ketrampilan tingkat tinggi,
+memandirikan siswa dan memahami konsep-konsep
+kewirausahaan .
+B. Rumusan Masalah
+1) Bagaiman merancang dan membangun bahan ajar
+multimedia interaktif pada mata pelajaran kewirausahaan
+SMK kelas X dengan pendekatan pembelajaran problem
+based learning menggunakan software Macromedia
+Flash MX. ?
+2) Bagaimana merancang dan membangun bahan ajar
+multimedia interaktif pada mata pelajaran kewirausahaan
+SMK kelas X yang menarik dan mudah dipahami?
+3) Bagaimana melakukan uji kelayakan bahan ajar
+multimedia interaktif pada mata pelajaran kewirausahaan
+yang dilakukan oleh oleh validasi ahli media dan validasi
+ahli materi ?
+C. Tujuan
+Meningkatkan kualitas pembelajaran kewirausaahaan
+pada SMK kelas X. Mengetahui tanggapan dari ahli media
+dan ahli materi pada bahan ajar multimedia interaktif pada
+mata pelajaran kewirausahaan sebagai upaya uji kelayakan
+bahan ajar multimedia interaktif pada mata pelajaran
+kewirausahaan bagi siswa SMK kelas X
+II. MODEL PEMBELAJARAN
+A. Bahan Ajar
+Bahan Ajar merupakan informasi, alat dan teks yang
+diperlukan guru/infrastruktur untuk perencanaan dan
+penelaahan implementasi pembelajaran[6].Bahan ajar adalah
+seperangkat materi yang disusun secara sistematis baik
+tertulismaupun tidak sehingga tercipta lingkungan/suasana
+yang memungkinkan siswa untuk belajar.
+B. Multimedia Interaktif
+Definisi Multimedia adalah dalam konteks komputer
+pemanfaatan komputer untuk membuat dan menggabungkan
+teks,grafik, audio, video, dengan menggunakan tool yang
+memungkinkan pemakai berinteraksi,berkreasi, dan
+berkomunikasi[2].
+Interaktif berarti bersifat saling mempengaruhi. Artinya
+antara pengguna (user) dan media (program) ada hubungan
+timbal balik, user memberikan respon terhadap
+permintaan/tampilan media (program), kemudian dilanjutkan
+dengan penyajian informasi/konsep berikutnya yang disajikan
+oleh media (program) tersebut.
+User harus berperan aktif dalam pembelajaran berbantuan
+komputer ini. Maka berdasarkan pengertian di atas maka
+multimedia interaktif yaitu pemanfaatan komputer untuk
+membuat dan menggabungkan teks,grafik, audio, video,
+dengan menggunakan tool yang memungkinkan pemakai
+berinteraksi,berkreasi, dan berkomunikasi yang saling
+mempengaruhi pengguna dengan media.
+C. Kewirausahaan
+Kewirausahaan (entrepreneurship) adalah proses krreatif,
+inovatif, mampu memanfaat-kan peluang, berani mengambil
+risiko, dan mampu memasarkan sekolahnya. Para ahli sepakat
+bahwa yang dimaksud dengan kewirausahaan menyangkut
+tiga perilaku yaitu: kreatif, komitmen (motivasi tinggi dan
+penuh tanggung jawab), dan berani mengambil risiko dan
+kegagalan.
+Kewirausahaan adalah proses inovasi dan
+kreasi[3][6].Program kewirausahaan di SMK pada dasarnya
+merupakan salah satu program pembelajaran yang bertujuan
+untuk penanaman nilai kewirausahaan melalui pembiasaan,
+penanaman sikap, dan pemeliharaan perilaku wirausaha[7]
+D. Problem Based Learning
+Problem based Learning merupakan model pembelajaran
+yang menantang siswa untuk “belajar bagaimana belajar”
+bekerja secara berkelompok untuk mencari solusi dari
+permasalahan dunia nyata[1]. Masalah ini digunakan untuk mengikat siswa pada rasa ingin tahu pada pembelajaran yang
+dimaksud. Sedangkan menurut [8] .
+Problem Based Learning merupakan suatu pendekatan
+pembelajaran dimana siswa dihadapkan pada masalah nyata
+sehingga diharapkan mereka dapat menyusun pengetahuannya
+sendiri, menumbuh kembangkan ketrampilan tingkat tinggi
+dan inkuiri, memandirikan siswa dan meningkatkan
+kepercayaan dirinya[9].
+E. Kriteria Penilaian kualitas media pembelajaran
+Menurut beberapa aspek penilaian pada media
+pembelajaran yaitu diantaranya aspek rekayasa perangkat
+lunak dan aspek desain pembelajaran [10]
+1) Aspek Rekayasa Perangkat Lunak :Efektif dan efisien
+dalam pengembangan maupun penggunaan media
+pembelajaran. Reliable (kehandalan). Maintainable (dapat
+dipelihara/dikelola dengan mudah). Usabilitas (mudah
+digunakan dan sederhana dalam pengoperasiannya).
+Ketepatan pemilihan jenis aplikasi/software/tool untuk
+pengembangan. Kompatibilitas (media pembelajaran dapat
+diinstalasi/dijalankan di berbagai hardware dan software yang
+ada).
+Pemaketan program media pembelajaran terpadu dan mudah
+dalam eksekusi. Dokumentasi program media pembelajaran
+yang lengkap meliputi: petunjuk instalasi (jelas, singkat,
+lengkap), trouble shooting (jelas, terstruktur, dan antisipatif),
+dan desain program (jelas, menggambarkan alur kerja
+program). Reusable (sebagian atau seluruh program media
+pembelajaran dapat dimanfaatkan kembali untuk
+mengembangkan media pembelajaran lain).
+2) Aspek Desain Pembelajaran :Kejelasan tujuan
+pembelajaran (rumusan dan realistis). Relevansi tujuan
+pembelajaran dengan SK/KD/Kurikulum. Cakupan dan
+kedalaman tujuan pembelajaran. Ketepatan penggunaan
+strategi pembelajaran. Interaktivitas. Pemberian motivasi
+belajar. Kontekstualitas dan aktualitas.
+Kelengkapan dan kualitas bahan bantuan belajar. Kesesuaian
+materi dengan tujuan pembelajaran. Kedalaman materi.
+Kemudahan untuk dipahami. Sistematis, runut dan alur logika
+jelas. Kejelasan uraian, pembahasan, contoh, simulasi, dan
+latihan. Konsistensi evaluasi dengan tujuan pembelajaran.
+Ketepatan dan ketetapan alat evaluasi. Pemberian umpan balik
+terhadap hasil evaluasi.
+III.METODOLOGI
+Metode penelitian merupakan tahapan-tahapan proses
+penelitian atau urutan langkah-langkah yang harus oleh
+peneliti dalam melakukan penelitian. Penelitian ini memiliki
+tahap-tahap sebagai berikut :
+A. Tahap Penelitian
+Tahap-tahap penelitian meliputi tahap analisis, tahap
+perancangan, serta tahap implementasi, untuk kemudian
+diakhiri oleh tahap pasca produksi. Sebagai gambaran tahapan ini ditunjukkan gambar detail sebagaimana diperlihatkan oleh
+Gbr. 1
+
+
+1) Tahap analisis : Tahap analisis terdiri atas analisis
+kebutuhan perangkat keras dan kebutuhan perangkat lunak.
+Kebutuhan perangkat keras minimal yaitu Microphone,
+Laptop Intel Core 2 Duo 2 Ghz untuk membuat Bahan ajar
+menggunakan Macromedia Flash MX .
+Analisis Storyboard, sangat membantu dalam menyusun
+frame by frame pembuatan Bahan ajar multimedia interaktif
+berbasis problem based learning. Dimana bahan ajar
+multimedia interaktif ini menggunakan alur cerita
+memerankan tokoh/karakter wirausaha yang akan mengetahui
+permasalahan di dalam kewirausahaan yaitu analisis
+kelayakan usaha Break Event Point dan Kelayakan strategi
+tempat serta pelayanan pelanggan.
+Dalam menentukan ide cerita, ketika membuat sebuah Bahan
+ajar multimedia interaktif yang menarik ditambahkan cerita
+yang mengiringi bahan ajar dan memuat juga kurikulum
+kewirausaahan pada siswa SMK kelas X . Ide cerita pada
+penelitian ini yaitu seorang siswa yang bercita-cita menjadi
+wirausahawan Toko Kue. Adapun ide cerita memuat
+kurikulum kewirausahaan pada siswa SMK kelas X yaitu :
+kewirausahaan (pengertian kewirausahaan , disiplin ilmu
+kewirausahaan, faktor penghambat kewirausahaan, budaya bangsa Indonesia yang menghambat kewirausahaan,
+mengubah pola pikir, motivasi berprestasi, kemampuan dasar
+kewirausahaan, Kompetensi Kewirausahaan).
+Sikap dan perilaku kerja prestatif (kepribadian wirausaha,
+mitos-mitos penghambat prestasi pengusaha, mengubah pola
+pikir, motivasi berprestasi). Masalah, Teknik pengambilan
+keputusan dan pengambilan resiko(masalah dan pengambilan
+keputusan, pengambilan keputusan, penentuan masalah,
+penentuan /identifikasi masalah, pemecahan masalah, analisis
+sebab-sebab potensial, identifikasi kemungkinan solusi, pilih
+solusi terbaik, menyusun rencana tindakan , implementasi dan
+evaluasi, pengambilan keputusan praktis, kreatif dan inovatif
+dalam berwirausaha, kreativitas dan inovasi, tuntutan
+kreativitas dalam bisnis masa kini, hambatan dan teknik
+meningkatkan kreativitas, arti penting inovasi dalam
+kewirausahaan , membangun komitmen, membangun
+komitmen dengan integritas.
+Proses berikutnya dalam analisis adalah menentukan logline,
+setelah logline ditemukan, ditulis sinopsisnya. Sinopsis
+merupakan gambaran keseluruhan cerita kasar dari sebuah
+cerita . Logline terdiri atas dialog sekelompok siswa di depan
+SMK tentang hobi masing-masing dan keinginannya menjadi
+wirausahawan, bahan ajar memuat materi sifat-sifat
+kewirausahaan dan mental penghambat kewirausahaan, daftar
+pertanyaan tentang kewirausahaan. Dialog analisis kelayakan
+bisnis berupa analisis kelayakan tempat dan analisis Break
+Event Point. Membuka Toko Kue Cupcake. Melayani
+pelanggan dengan baik, cepat dan tepat.
+Setelah logline ditemukan, maka dilanjutkan dengan
+membuat Sinopsis, ditulis sinopsisnya. Sinopsis merupakan
+gambaran keseluruhan cerita kasar dari sebuah cerita yang
+ditambahkan di bahan ajar multimedia interaktif. Sinopsis
+terdiri atas dialog sekelompok siswa di depan SMK tentang
+hobi masing-masing dan keinginannya menjadi wirausahawan.
+Sekelompok siswa terdiri atas 3 orang siswa di depan SMK
+setelah pulang SMK. Mereka berdialog untuk menentukan
+usaha apa yang akan didirikan. Dan akhirnya mereka sepakat
+untuk mendirikan usaha toko kue Cupcake. Bahan ajar
+memuat materi sifat-sifat kewirausahaan dan mental
+penghambat kewirausahaan. Bahan ajar ini dipadupadankan
+dengan permainan penyelesaian berbasis masalah yaitu
+berupa permainan di dalam peta kota , dimana 3 siswa harus
+mencari koin emas di sebuah peta kota. Untuk mendapatkan
+skor maka pemain harus mencari koin emas dan harus
+menambek koin hitam yang direpresentasikan sebagai mental
+penghambat wirausaha. Daftar pertanyaan tentang
+kewirausahaan.
+Dialog analisis kelayakan bisnis berupa analisis kelayakan
+tempat dan analisis Break Event Point. Sekelompok siswa
+yang terdi atas 3 siswa akan mendirikan usaha toko kue
+cupcake . analisis kelayakan tempat , siswa akan berkeliling
+kota dan menentukan tempat yang tepat untuk mendirikan
+usaha. Sedangkan analisis break event point akan diberikn
+contoh langsung untuk menghitung usaha toko kue cupcake.
+Membuka toko kue cupcake. Melayani pelanggan dengan baik,
+cepat dan tepat. Di sesi ini siswa telah membuka toko kue
+cupcake dan harus melayani pelanggan dalam watu 7 detik
+dan pesanan kue harus sesuai yang dipesan oleh pelanggan.
+Merancang diagram scene. Secara umum babak awal
+yaitu berupa perkenalan sekelompok siswa, babak ke dua
+yaitu berupa perkenalan karakteristik kewirausahaan, analisis
+kelayakan bisnis, sedangkan babak ke tiga berupa pelayanan
+pelanggan pada toko kue. Pengembangan karakter, sebuah
+cerita dipandu dan dimainkan oleh karakter untuk
+menyelesaikan masalah di bahan ajar multimedia interaktif.
+Karakter terdiri atas 3 siswa dengan nama vivi, lili, dan nino.
+Analisis perancangan karakter akan membahas
+tentang perwatakan dan latar belakang karakter yang berperan
+dalam bahan ajar multimedia interaktif ini. Dimana karakter
+utama yaitu seorang calon pengusaha muda, yang akan
+berbisnis sehingga dia bisa menentukan bisnis yang akan
+dilakukan dan bagaimana menjalankan usahanya.
+2) Tahap perancangan: Setelah dilakukan analisis maka
+dilakukan tahap perancangan bahan ajar multimedia interaktif
+berbasis problem based learning yang merupakan gambaran
+analisis yang ditampilkan dalam bentuk diagram sehingga
+lebih mudah dipahami ketika dilakukan Scripting. Adapun
+tahap perancangan bahan ajar ini akan digambarkan dalam
+bentuk diagram sebagai berikut : perancangan flowchart
+Bahan Ajar. Flowchart yang akan menunjukkan gambaran
+umum alur bahan ajar multimedia interaktif. Adapun
+gambaran sederhana perancangan flowchart bahan ajar
+multimedia interaktif dapat dilihat pada gambar sebagai
+berikut.
+
+Perancangan Antar muka, Perancangan antar muka
+menggambarkan desain antar muka Bahan ajar multimedia
+interaktif ini secara garis besar.
+
+
+Gbr 3 menunjukkan perancangan antar muka yang secara
+besar bagian atas berupa petunjuk ajar dan bagian bawah
+merupakan materi/simulasi.
+IV.HASIL DAN PEMBAHASAN
+A. .Tahap Implementasi
+Tahap implementasi ini merupakan pengerjaan dari
+analisis dan perancangan Bahan Ajar tersebut. Tahap dari
+implementasi yaitu terdiri atas penanaman visual dan audio.
+Dimana tahap ini terdiri atas pembuatan karakter dan cerita
+menggunakan sofware Macromedia Flash MX.
+Setelah melakukan coding/pemrograman maka dilakukan
+penanaman audio untuk mendukung cerita penyelesaian
+berbasis masalah pada bahan ajar multimedia interaktif.
+
+
+Gbr. 4 menunjukkan salah satu contoh bahan ajar
+multimedia interaktif berbasis problem based learning yang
+terdapat di dalam materi-materi pelajaran karakteristik
+kewirausahaan.
+
+Gbr. 5 menunjukkan materi kewirausahaan yang akan
+dibahas yaitu studi kelayakan tempat dan studi kelayakan
+Break event Point
+
+Pada Gbr. 6 ditunjukkan materi tentang pembelajaran
+analisis kelayakan Break Event Point.
+
+
+Pada gbr. 7 menunjukkan pembelajaran studi kelayakan
+tempat wirausaha dengan mempertimbangan letak strategis
+dalam berbisnis.
+
+
+
+Gbr. 8 menunjukkan bahan ajar multimedia interaktif di dalam
+menyelesaikan pelayanan pelanggan pada toko kue Dimana
+bahan ajar pelayanan pelanggan terdiri atas melayani
+pelanggan sesuai pesanan dan tepat waktu.
+B. Tahap Pengujian
+Uji validitas merupakan suatu langkah pengujian yang
+dilakukan terhadap isi dari suatu instumen, dengan tujuan
+untuk mengukur ketepatan instrumen yang digunakan dalam
+suatu penelitian.
+Dalam pengembangan model pengajaran berbasis
+multimedia, maka uji validitas dimaksudkan untuk menguji
+sejauh mana model bahan ajar multimedia interaktif yang
+dikembangkan dapat digunakan sebagai salah satu model
+media pengajaran, sehingga dapat diketahui tingkat kebenaran
+dan ketepatan penggunaan media tersebut
+1) Validasi ahli media : Pada instrumen ahli media berisikan
+poin tentang aspek-aspek yang berhubungan dengan media
+pembelajaran. Instrument disebarkan 10 ahli media yaitu 5
+dosen Teknik Informatika ,3 guru Rekayasa Perangkat lunak
+di SMK dan 2 dosen desain grafis untuk memvalidasi bahan
+ajar multimedia interaktif.
+
+
+Adapun saran revisi dari ahli media yaitu perlu dilengkapi
+petunjuk penggunaan program pada beberapa materi latihan
+soal maupun simulasi dan ditambahkan backsound yang bisa
+dimatikan jika tidak diperlukan.
+
+
+Hal ini dapat dilihat pada tampilan kualitas gambar dan
+warna yang ada di bahan ajar multimedia interaktif.
+Sedangkan yang memiliki nilai kurang yaitu di keterjelasan
+petunjuk penggunaan program(5).
+2) Validasi ahli materi .Pada instrumen validasi ahli materi
+berisikan poin tentang aspek-aspek yang berhubungan dengan
+materi media pembelajaran meliputi dari aspek pembelajaran,
+materi dan Kebenaran isi. Pada validasi ahli materi telah
+disebarkan ke 5 ahli materi yaitu guru kewirausahaan pada
+SMK kelas X.
+Tabel 2 menunjukkan bahwa yang memiliki nilai sangat
+bagus yaitu pada indikator ketepatan penggunaan startegi
+pembelajaran(5), interaktivitas(5), kejelasan contoh dan
+simulasi(5) dan konstektualitas(3). Sedangkan yang memiliki
+nilai kurang yaitu pemberian motivasi belajar(5), kejelasan
+tujuan pembelajaran(4), kedalaman materi(3), dan pemberian
+umpan balik terhadap hasil evaluasi(3).
+Adapun saran revisi dari ahli materi yaitu Perlu disajikan
+Standar kompetensi dan kompetensi dasar di awal media
+pembelajaran, perlu disajikan kejelasan tujuan pembelajaran,
+adanya evaluasi umpan balik tiap siswa dan penambahan
+materi.
+
+
+V. KESIMPULAN
+A. Kesimpulan
+Adapun kesimpulan dari penelitian yaitu : Berdasarkan
+validasi ahli media pada bahan ajar multimedia interaktif
+kewirausahaan menggunakan model pembelajaran problem
+based learning yang memiliki nilai sangat bagus yaitu di
+kualitas tampilan gambar(8), sajian animasi(9) dan komposisi
+warna(8). Sedangkan yang memiliki nilai kurang yaitu di
+keterjelasan petunjuk penggunaan program(5).
+Berdasarkan validasi ahli media maka perlu keterjelasan
+petunjuk penggunaan program pada bahan ajar dapat
+ditambahkan sehingga memudahan penggunaan bahan ajar
+multimedia interaktif kewirausahaan.
+Berdasarkan validasi ahli materi pada bahan ajar
+multimedia interaktif kewirausahaan menggunakan model
+pembelajaran problem based learning menunjukkan yang
+memiliki nilai sangat bagus yaitu pada indikator ketepatan
+penggunaan strategi pembelajaran(5), interaktivitas(5),
+kejelasan contoh dan simulasi(5) dan konstektualitas(3).
+Sedangkan yang memiliki nilai kurang yaitu pemberian
+motivasi belajar(5), kejelasan tujuan pembelajaran(4),
+kedalaman materi(3), dan pemberian umpan balik terhadap
+hasil evaluasi(3).
+Berdasarkan validasi ahli materi pada bahan ajar
+multimedia interaktif ini materi mudah dipahami , hal ini
+dapat dilihat pada validasi indikator Kemudahan untuk
+dipahami terdapat 4 orang yang memberikan nilai. Diperlukan
+adanya perbaikan di pemberian motivasi belajar yang perlu
+ditambahkan, kejelasan tujuan pembelajaran, kedalaman
+materi berdasarkan keseluruhan kurikulum pada SMK kelas X,
+dan perlu ditambahkan umpan balik pada hasil evaluasi siswa
+Berdasarkan validasi ahli materi model pembelajaran
+problem based learning sangat bagus . hal ini dapat
+ditunjukkan pada indikator ketepatan penggunaan strategi
+pembelajaran.
+Validasi ahli media memiliki respon lebih baik
+dibandingkan validasi ahli materi. Berdasarkan hal tersebut
+maka materi perlu ditambahkan sesuai dengan kurikulum pada
+SMK kelas X.

@@ -1,0 +1,764 @@
+﻿Laba dan Arus Kas dalam Memprediksi Laba dan Arus Kas Masa
+Mendatang dan Pola Harga Saham
+
+
+ABSTRAK
+Penelitian ini bertujuan untuk menguji secara empiris kemampuan laba dan arus kas
+dalam memprediksi laba masa depan dan arus kas dan pola harga saham. Sampel
+penelitian diambil menggunakan purposive sampling perusahaan-perusahaan manufaktur
+yang terdaftar di Bursa Efek Indonesia. Hasil analisis data menggunakan Autoregressive
+Integrated Moving Average (ARIMA) model menunjukkan bahwa empat dari lima hipotesis
+yang diajukan terbukti. Hal ini berarti bahwa laba dapat memprediksi laba masa depan dan
+pola pergerakan harga saham, harga saham sekarang dapat memprediksi harga saham
+mendatang dan arus kas runtun waktu dapat memprediksi arus kas mendatang. Namun,
+hipotesis kelima yang menyatakan bahwa arus kas runtun waktu dapat memprediksi pola
+pergerakan harga saham tidak terbukti.
+Kata kunci: Laba, arus kas, harga saham, Model ARIMA, prediksi.
+
+
+PENDAHULUAN
+Penelitian ini bertujuan untuk membuktikan
+secara empiris kemampuan laba dan arus kas
+dalam meramal laba dan arus kas masa depan
+dan pola harga saham. Telah banyak penelitian
+yang dilakukan baik menyangkut kandungan
+informasi laba maupun arus kas. Meskipun
+demikian penelitian di Indonesia yang menyangkut
+pengujian laba dan arus kas untuk meramal
+laba dan arus kas masa depan dan pola harga
+saham belum banyak dilakukan. Penelitian-penelitian
+kandungan informasi laba telah menunjukkan
+hasil yang relatif konsisten, namun penelitian
+kandungan informasi arus kas masih menunjukkan
+hasil yang belum konklusif.
+Terdapat beberapa kontribusi yang diharapkan
+dari penelitian ini. Pertama, penelitian ini
+diharapkan dapat menyediakan kontribusi berupa
+bukti empirik yang belum disediakan oleh penelitian
+sebelumnya, yakni laba bermanfaat dalam
+memprediksi laba di masa yang akan datang.
+Kedua, laba bermanfaat dalam memprediksi pola
+harga saham. Ketiga, arus kas bermanfaat dalam
+memprediksi arus kas di masa yang akan datang.
+Keempat arus kas bermanfaat dalam memprediksi
+pola harga saham. Kelima penelitian ini diharapkan
+memberikan kontribusi berupa bukti empirik
+apakah ada faktor lain yang dipertimbangkan
+dalam meramal laba, arus kas dan pola harga
+saham.
+Menurut teori penilaian (valuation theory)
+yang dikembangkan dalam manajemen keuangan
+untuk organisasi pencari laba, nilai perusahaan
+yang tercermin dalam harga sahamnya merupakan
+nilai tunai dari dividen masa mendatang
+(Sugiri 2003). Gordon (1962) sebagaimana dikutip
+Sugiri (2003), misalnya, mengembangkan dua
+model penilaian: 1) model laba (earnings model);
+dan 2) model dividen (dividend model). Model laba (dividen) menjelaskan bahwa nilai perusahaan
+merupakan nilai tunai dari laba (dividen) masa
+mendatang. Kedua model ini tidak dapat menjelaskan
+nilai saham seandainya perusahaan
+dalam masa yang panjang tidak membagi dividen.
+Brigham dan Gapenski (1991) sebagaimana dikutip
+Sugiri (2003) menyatakan bahwa model
+penilaian yang lebih umum menyatakan bahwa
+nilai perusahaan merupakan nilai tunai dari arus
+kas masa mendatang, sehingga walaupun perusahaan
+tidak membagi laba dalam bentuk dividen,
+penentuan nilai perusahaan dapat dilakukan.
+Sesuai dengan rerangka konseptual atau
+rerangka dasar penyusunan dan penyajian laporan
+keuangan, Ikatan Akuntan Indonesia (PSAK
+No.1 tahun 2009) menyatakan bahwa informasi
+kinerja perusahaan, terutama profitabilitasnya
+bermanfaat untuk memprediksi kapasitas perusahaan
+dalam menghasilkan arus kas dari sumber
+daya yang ada (paragraf 17). Laporan arus kas
+adalah laporan keuangan yang menunjukkan arus
+kas masuk dan keluar kas atau setara kas selama
+periode tertentu suatu perusahaan (Hendriksen
+1991). Laporan arus kas diklasifikasikan menurut
+aktivitas operasi, aktivitas investasi, dan aktivitas
+pendanaan.
+Menurut PSAK No. 2 paragraf 03, kegunaan
+informasi arus kas adalah (1) jika digunakan
+dalam kaitannya dengan informasi keuangan
+lainnya, laporan arus kas dapat memberikan
+informasi yang memungkinkan bagi para pemakainya
+untuk mengevaluasi perubahan dalam
+aktiva bersih perusahaan, struktur keuangan, dan
+kemampuan untuk mempengaruhi jumlah serta
+waktu arus kas dalam rangka adaptasi dengan
+perubahaan keadaan dan peluang, (2) menilai
+perusahaan dalam menghasilkan kas dan setara
+kas serta memungkinkan pemakainya mengembangkan
+modal untuk menilai dan membandingkan
+nilai arus kas sekarang dengan nilai arus kas
+masa depan dari berbagai perusahaan, (3) meningkatkan
+daya banding pelaporan kinerja operasi
+dari berbagai perusahaan, karena dapat
+meniadakan pengaruh penggunaan perlakuan
+akuntansi yang berbeda terhadap peristiwa dan
+transaksi yang sama. Manfaat dari laporan arus
+kas adalah untuk: (1) memprediksi tanda-tanda
+bahaya dalam bidang keuangan, (2) mengetahui
+resiko, ukuran, dan penjadwalan keputusan
+kredit, (3) memprediksi rating kredit, (4) menilai
+kinerja perusahaan, dan (5) menyajikan informasi
+tambahan di pasar modal (Bowen et al. 1986).
+Penelitian mengenai kandungan informasi
+yang terdapat dalam laba dimulai oleh Ball dan
+Brown (1968). Dari penelitian tersebut mereka
+menemukan hubungan yang signifikan antara
+unexpected earnings dengan abnormal return.
+Penelitian ini kemudian diikuti oleh Beaver (1968),
+Lipe (1986), Bernard dan Stober (1989). Ball dan
+Watts (1972) mencoba mengungkap potensi prediksi
+laba dengan alat statistik, run test dan serial
+correlation. Hasil penelitiannya menunjukkan
+bahwa perubahan laba ternyata mempunyai
+model yang acak (random walk). Dengan sifat laba
+yang time series, dan pola perubahan yang bersifat
+random, menunjukkan bahwa laba memiliki
+potensi sebagai prediktor. Fairfield et al. (1996)
+meneliti apakah laba yang lebih terinci lebih baik
+daripada klasifikasi laba yang relatif kurang
+terinci daalam kemampuannya memprediksi ROE
+setahun yang akan datang. Fairfield et al. (1996)
+menemukan bahwa special items menyediakan
+infromasi tentang laba bersih (ROE) masa datang
+dan seharusnya tidak diabaikan dalam memprediksi
+ROE, dan pos-pos luar biasa dan operasi
+yang tidak dilanjutkan dapat diabaikan dalam
+menaksir profitabilitas masa mendatang. Beberapa
+penelitian di Indonesia tentang manfaat laba
+dalam memprediksi laba telah dilakukan oleh
+beberapa peneliti antara lain: Parawiyati (1996),
+Sunariyah (1996), Isgiyarta (1997), Parawiyati dan
+Baridwan (1998), Werdiningsih (2000), Madjid
+(2002), Kholidiyah (2002), Andayani et al. (2011),
+dan Junaidi (2011).
+Bowen et al. (1986) melakukan penelitian
+apakah arus kas merupakan prediktor yang lebih
+baik daripada laba dalam memprediksi arus kas
+masa yang akan datang. Penelitian ini didasarkan
+pada sample 342 perusahaan dengan menggunakan
+model random walk. Hasil analisis menunjukkan
+bahwa arus kas merupakan prediktor
+yang lebih baik daripada laba dalam memprediksi
+arus kas sampai dengan dua tahun mendatang.
+Ismail dan Kim (1989) melakukan penelitian
+untuk menguji apakah arus kas mempunyai
+tambahan informasi di luar laba akrual dalam
+konteks untuk menjelaskan risiko pasar. Pengujian
+dengan model regresi dengan periode pengamatan
+tahun 1966-1985. Hasil analisis menunjukkan
+bahwa arus kas secara signifikan meningkatkan
+kemampuan dalam menjelaskan risiko
+pasar.
+Supriyadi (1999) meneliti hubungan antara
+informasi akuntansi dan arus kas masa yang akan
+datang. Supriyadi menggunakan model regresi
+linier yang parameter-parameternya ditaksir
+dengan menggunakan data semesteran selama
+periode 1990-1997. Supriyadi (1999) menemukan
+bahwa data aliran kas menyediakan informasi
+yang lebih baik untuk menilai aliran kas perusahaan
+masa depan. Hal lain yang ditemukan
+adalah bahwa aliran kas yang digunakan di
+penelitian ini untuk memprediksi aliran kas masa
+depan tidak lebih baik dibandingkan dengan model kombinasi laba dan aliran kas. Cheng et al.
+(1996) sebagaimana dikutip oleh Kusuma (2003)
+menguji nilai tambah kandungan informasi laba
+dan arus kas operasi dengan menggunakan model
+linier dan nonlinier. Penelitian ini berhasil memberikan
+bukti empiris tentang adanya nilai tambah
+kandungan informasi laba dan arus kas
+operasi.
+Parawiyati dan Baridwan (1998) mengukur
+kemampuan laba dan arus kas untuk memprediksi
+laba dan arus kas. Parawiyati dan Baridwan
+(1998) menemukan bahwa baik laba dan aliran
+kas merupakan prediktor yang signifikan untuk
+memprediksi laba dan aliran kas masa depan
+untuk jangka waktu satu tahun ke depan.
+Kemudian, pada penelitian Utami (1999) diperoleh
+hasil yang menyatakan kemampuan arus kas
+untuk memprediksi arus kas mendatang, sedangkan
+dalam jangka panjang kemampuan data arus
+kas setara dengan laba.
+Penelitian Kusuma (2003) menyimpulkan
+bahwa laba tidak mempunyai nilai tambah kandungan
+informasi di luar informasi yang diberikan
+oleh arus kas operasi ketika laba bersifat permanen.
+Hal ini mempunyai implikasi bahwa
+kebutuhan informasi dapat dipenuhi oleh informasi
+arus kas operasi. Implikasi lainnya adalah
+kemungkinan bahwa informasi laba merupakan
+bagian dari infromasi arus kas operasi. Temuan
+selanjutnya, ketika laba bersifat permanen, arus
+kas operasi mempunyai nilai tambah kandungan
+informasi di luar informasi yang diberikan oleh
+laba. Kemudian arus kas operasi mempunyai nilai
+tambah kandungan informasi ketika laba mengandung
+komponen transitori yang tinggi.
+Kemudian pengujian hubungan arus kas
+dengan harga saham telah dilakukan oleh Rayburn
+(1986). Rayburn (1986) menemukan bahwa
+laba yang dipisahkan ke dalam komponen kas dari
+operasi dan total accrual mempunyai tambahan
+kandungan informasi dan terdapat hubungan
+antara arus kas operasi dengan return saham.
+Bernard dan Stober (1989) yang menemukan
+adanya reaksi harga saham yang sangat tinggi
+sekali terhadap pengumuman arus kas. Cheng ,
+Liu dan Schaeler sebagaimana dikutip oleh
+Hermawan dan Hadyansah (2002) menyatakan
+bahwa arus kas memiliki pengaruh yang signifikan
+terhadap return meskipun variable laba
+dikontrol. Mereka juga menemukan bahwa
+pengaruh arus kas yang diperoleh melalui estimasi
+terhadap return saham tidak berbeda secara
+signifikan dengan pengaruh arus kas yang disajikan
+dalam laporan arus kas. Alaraini dan
+Stephens (1999) menemukan adanya hubungan
+antara informasi arus kas dan penilaian sekuritas.
+Pada penelitian yang dilakukan Parawiyati
+dan Baridwan (1998), Supriyadi (1999) dan Utami
+(1999), terdapat beberapa kelemahan, yaitu
+tentang data yang digunakan. Selain terdapat
+kelemahan dalam data sample penelitian-penelitian
+tersebut belum sampai pada pengujian
+reaksi pasar. Penelitian Supriyadi (1999) menggunakan
+data 1990-1997, Parawiyati dan Baridwan
+(1998) menggunakan data arus kas tahun
+1984-1994 dan Utami (1999) menggunakan data
+arus kas tahun 1994-1998. Padahal laporan arus
+kas baru diwajibkan mulai tahun buku 1995. Pada
+penelitian Parawiyati dan Baridwan (1998) data
+arus kas dalam diperoleh dengan pengolahan data
+(data manipulation) dari laporan laba-rugi dan
+perbandingan dua Neraca. Data hasil pengolahan
+tersebut tidak mencerminkan informasi tentang
+arus kas sesungguhnya yang langsung diperoleh
+atau dibaca oleh para pengguna dari laporan arus
+kas, serta kesalahan pengukuran arus kas juga
+sangat potensial terjadi. Kelemahan yang sama
+juga dapat dilihat dalam Utami (1999) yang
+menggunakan data selama periode 1994-1998,
+yang dua tahun pertama dari perioda tersebut
+menggunakan data manipulasi untuk mengukur
+arus kas.
+Terdapat beberapa kontribusi yang diharapkan
+dari penelitian ini. Pertama, penelitian ini
+diharapkan dapat menyediakan kontribusi berupa
+bukti empirik yang belum disediakan oleh penelitian
+sebelumnya, yakni laba bermanfaat dalam
+memprediksi laba di masa yang akan datang.
+Kedua, laba bermanfaat dalam memprediksi pola
+harga saham. Ketiga, arus kas bermanfaat dalam
+memprediksi arus kas di masa yang akan datang.
+Keempat arus kas bermanfaat dalam memprediksi
+pola harga saham. Kelima penelitian ini diharapkan
+memberikan kontribusi berupa bukti empirik
+apakah ada faktor lain yang dipertimbangkan
+dalam meramal laba, arus kas dan pola harga
+saham.
+TINJAUAN PUSTAKA DAN HIPOTESIS
+Nilai Suatu Perusahaan
+Ball dan Brown (1968) berusaha menguji
+hubungan antara data akuntansi (accounting
+income numbers), dengan value of the firm. Data
+akuntansi dijadikan sebagai kriteria prediksi
+dalam keputusan investasi sebagaimana direfleksikan
+dalam harga sekuritas di pasar modal.
+Menurut teori penilaian (valuation theory) yang
+dikembangkan dalam manajemen keuangan
+untuk organisasi pencari laba, nilai perusahaan
+yang tercermin dalam harga sahamnya merupakan
+nilai tunai dari dividen masa mendatang
+(Sugiri 2003). Laba lebih baik daripada arus kas
+baik untuk memprediksi laba maupun untuk memprediksi arus kas masa mendatang dan laba
+menyediakan kemampuan prediksi inkremental
+terhadap arus kas untuk memprediksi arus kas
+masa mendatang (Parawiyati dan Baridwan 1998).
+Arus kas
+Laporan arus kas adalah laporan yang
+menunjukkan aliran kas masuk dan arus kas
+keluar dari aktivitas operasi (operating), investasi
+(investing), dan pendanaan (financing) suatu
+badan usaha selama satu periode (Kieso et al.
+2011). SFAS No 95:1987 sebagaimana dikutip oleh
+Baridwan (2004) menyatakan bahawa tujuan
+utama laporan arus kas adalah menyediakan
+informasi tentang kas yang diterima dan dibayarkan
+suatu unit bisnis selama satu periode. Tujuan
+kedua adalah menyediakan informasi mengenai
+aktivitas operasi, investasi dan pendanaan suatu
+unit bisnis selama satu periode. Laporan arus kas
+melaporkan penerimaan kas, pembayaran kas,
+dan perubahan kas bersih yang diakibatkan dari
+aktivitas operasi, investasi dan pendanaan suatu
+badan usaha selama satu periode dalam format
+yang mencakup kas awal dan akhir neraca.
+Peramalan Laba
+Pada tahun 1980-an riset akuntansi sudah
+mulai berkonsentrasi menggunakan peramalan
+laba sebagai proksi untuk pasar modal (Brown,
+1993). Foster (1977a) mengevaluasi model-model
+ekspektasi laba, dengan menguji kemampuan
+model tersebut dalam meramalkan laba, kemudian
+menghubungkan pergerakan harga saham
+dengan kesalahan model yang digunakan untuk
+memprediksi. Patell (1976a) menguji kandungan
+informasi ramalan laba yang dibuat manajemen.
+Beberapa penelitian lain seperti Copeland dan
+Marioni (1972), Hagerman dan Ruland (1977) dan
+McDonald, Lorek, dan Patz (1976) menyimpulkan
+bahwa ramalan yang dibuat oleh manajemen itu
+ternyata akurat setelah dibuktikan dengan
+realisasi ramalannya (Kholidiah, 2002).
+Finger (1994) menguji relevansi nilai dari
+laba yang diukur berdasarkan kemampuannya
+untuk meramal baik laba masa depan maupun
+aliran kas (Febriyanti 2004). Laba merupakan
+prediktor yang signifikan bagi laba itu sendiri
+selama periode satu tahun tapi tidak untuk empat
+sampai delapan tahun. Laba juga mempunyai
+kemampuan prediktor bagi aliran kas untuk
+beberapa perusahaan.
+Di Indonesia penelitian mengenai peramalan
+laba telah dilakukan oleh beberapa peneliti.
+Isgiyarta (1997) mereplikasi Fairfiled et al. (1996)
+dengan sedikit memodifikasi model klasifikasi
+sepuluh komponen. Isgiyarta memprediksi bahwa
+laba rincian lebih spesifik menyediakan tambahan
+perbaikan peramalan laba bersih di atas model
+laba rincian kurang spesifik. Sunariyah (1996)
+yang menguji ramalan laba di prospectus pada
+awal penawaran umum di pasar modal Indonesia,
+menyatakan bahwa ramalan laba di Indonesia
+belum jelas. Hal ini disebabkan banyaknya
+investor-investor Indonesia yang menanamkan
+modal dengan emosional. Penelitian ini dilanjutkan
+oleh Madjid (2002) yang menyelidiki hubungan
+ketepatan ramalan laba dengan return saham
+di pasar perdana dan menemukan bahwa initial
+return tidak dipengaruhi ketepatan ramalan laba
+yang disebabkan oleh kondisi pasar modal Indonesia
+masih terjadi asimetri informasi. Parawiyati
+dan Baridwan (1998) dan Supriyadi (1999) menemukan
+bahwa laba (agregat) historis merupakan
+prediktor yang baik untuk arus kas dan
+prediktor yang baik untuk laba.
+Kholidiah (2002) menyatakan bahwa metode
+regresi ternyata lebih unggul bila dibandingkan
+dengan model naïve, model ARIMA lebih akurat
+dibandingkan dengan regresi sederhana. Temuan
+selanjutnya menunjukkan bahwa model ARIMA
+merupakan model yang paling akurat dibandingkan
+dengan model naïve maupun regresi.
+Andayani et al. (2011) menunjukkan bahwa laba
+masa lalu dapat digunakan untuk mengestimasi
+laba masa depan. Junaidi (2011) menunjukkan
+bahwa laba memiliki kemampuan memprediksi
+laba dan pola harga saham di masa yang akan
+datang. Selanjutnya hipotesis yang diungkapkan
+sebagai berikut:
+HA1: Terdapat kemampuan laba time series dalam
+memprediksi laba mendatang.
+HA2: Terdapat kemampuan harga saham dalam
+memprediksi harga saham mendatang.
+HA3: Terdapat kemampuan laba time series dalam
+memprediksi pola harga saham.
+Peramalan Arus Kas
+SFAC No. 2 menyatakan bahwa salah satu
+karakteristik kualitatif yang harus dimiliki informasi
+akuntansi agar tujuan pelaporan keuangan
+dapat tercapai adalah kemampuan laporan keuangan
+sebagai alat prediksi (FASB 1980).
+Menurut IAI (2009), informasi arus kas historis
+berguna sebagai indikator dari jumlah, waktu, dan
+kepastian arus kas di masa mendatang (PSAK
+No.2). FSAB (1987) menyatakan bahwa informasi
+dalam laporan arus kas diharapkan membantu
+para pemakai laporan keuangan, antara lain,
+untuk menaksir kemampuan perusahaan untuk
+menghasilkan arus kas di masa mendatang.
+
+Menurut teori penilaian (valuation theory)
+yang dikembangkan dalam manajemen keuangan
+untuk organisasi pencari laba, nilai perusahaan
+yang tercermin dalam harga sahamnya merupakan
+nilai tunai dari dividen masa mendatang
+(Sugiri 2003). Brigham dan Gapenski (1991) sebagaimana
+dikutip Sugiri (2003) menyatakan
+bahwa model penilaian yang lebih umum menyatakan
+bahwa nilai perusahaan merupakan
+nilai tunai dari arus kas masa mendatang, sehingga
+walaupun perusahaan tidak membagi laba
+dalam bentuk dividen, penentuan nilai perusahaan
+dapat dilakukan.
+Bowen et al. (1986) menyatakan bahwa arus
+kas merupakan predictor yang lebih baik daripada
+laba dalam memprediksi arus kas dampai dengan
+dua tahun mendatang. Baridwan (1997) menyatakan
+bahwa informasi arus kas memiliki nilai
+tambah dan, oleh karena itu, keputusan IAI untuk
+mengeluarkan PSAK No.2 adalah sudah sesuai.
+Supriyadi (1999) menemukan bukti empiris bahwa
+arus kas menyediakan informasi ekstra di atas
+laba dalam memprediksi arus kas periode yang
+akan datang. Parawiyati dan Baridwan (1998)
+menemukan bahwa baik laba dan aliran kas
+merupakan predictor yang signifikan untuk memprediksi
+laba dan aliran kas masa depan untuk
+jangka waktu satu tahun ke depan. Penelitian
+Utami (1999) juga mendapat kesimpulan bahwa
+arus kas mampu memprediksi arus kas periode
+mendatang, sedangkan untuk jangka panjang
+kemampuan data arus kas setara dengan laba.
+Rayburn (1986) menemukan bahwa laba
+yang dipisahkan ke dalam komponen kas dari
+operasi dan total accrual mempunyai tambahan
+kandungan informasi dan terdapat hubungan
+antara arus kas operasi dengan return saham.
+Bernard dan Stober (1989) yang menemukan
+adanya reaksi harga saham yang sangat tinggi
+sekali terhadap pengumuman arus kas. Cheng ,
+Liu dan Schaeler sebagaimana dikutip oleh
+Hermawan dan Hadyansah (2002) menyatakan
+bahwa arus kas memiliki pengaruh yang signifikan
+terhadap return meskipun variable laba
+dikontrol. Mereka juga menemukan bahwa pengaruh
+arus kas yang diperoleh melalui estimasi
+terhadap return saham tidak berbeda secara
+signifikan dengan pengaruh arus kas yang disajikan
+dalam laporan arus kas. Berdasarkan konsepkonsep
+dan temuan penelitian-penelitian sebelumnya,
+maka diungkapkan beberapa hitotesis penelitian,
+yaitu:
+HA4: Terdapat kemampuan arus kas time series
+dalam memprediksi arus kas mendatang.
+HA5: Terdapat kemampuan arus kas time series
+dalam memprediksi pola harga saham.
+METODA PENELITIAN
+Data dan Sampel
+Data diambil dari pusat data pasar modal
+UGM tahun 1999-2010. Sampel yang akan digunakan
+mengikuti kriteria, yaitu: data laba dan arus
+kas perusahaan-perusahaan manufaktur yang
+listed di BEI tahun 1999-2010. Disamping data
+laporan keuangan, juga diperlukan data harga
+saham harian (closing price) perusahaan sampel
+periode 1999-2010.
+Pengujian hipotesis pertama
+Pengujian hipotesis pertama dilakukan
+dengan metode ARIMA. Menurut Kuncoro (2001),
+parameter-parameter dihitung dengan menggunakan
+ARIMA untuk data non-seasonal adalah
+sebagai berikut:
+a. Autoregressive Model
+Yt = bo + b1Yt-1 + b2Yt-2 + …bnYt-n + et
+Notasi
+Yt = Variabel dependen (net income)
+Yt-1, Yt-2, Yt-n = Variabel independen (variabel
+dengan lag tertentu)
+bo, b1, b2, bn = Koefisien regresi
+et = residual (error)
+Jumlah koefisien regresi tersebut sering ditulis
+“p”
+b. Differencing (degree of differencing)
+Sebagai syarat untuk melakukan analisis
+dengan ARIMA adalah bahwa runtut waktu
+data yang ada adalah stasioner (suatu keadaan
+yang linier dan variance-nya tidak berubah).
+Oleh karena itu, apabila data yang ada nonstationary,
+maka data tersebut perlu diubah
+dengan melakukan differencing diantara data
+yang ada tersebut.
+Y’t = satu rentetan data baru
+Yt = satu rentetan data awal
+Yt-1 = satu rentetan data awal lag 1
+Jika dengan melakukan differencing pertama,
+data belum menunjukkan stasioner, maka dilakukan
+differencing kedua dengan rumus sebagai
+berikut:
+Y’’t= Y’t - Y’t-1
+Notasi:
+Y’’t = satu rentetan data dengan differencing
+kedua
+Y’t-1= satu rentetan data baru dengan lag 1
+Biasanya hal ini maksimal terjadi hanya
+sampai “second order differencing dan jumlah
+tingkat differencing tersebut ditulis dengan “d”
+c. Moving average model
+Ditulis dengan rumus:
+Yt = Wo + - W1 et-1 – W2 et-2+ Wnet-n + et
+
+Notasi,
+Yt = Variabel dependen
+W1, W1, Wq= koefisien
+et = error
+et-1 , et-2, et-q = nilai error lag 1,2, dst.
+Biasanya koefisien (parameters) pada model
+ini dilambangkan dengan “q”. Jadi jika keseluruhan
+tiga komponen di atas inilah yang kemudian
+disebut ARIMA (p,d,g) dan rumus-rumus di
+atas dapat digabung. Contoh ARIMA (1,1,1).
+Yt = b0 + b1Yt-1 + et + W1et-1
+Langkah-langkah yang dilakukan dalam
+penerapan ARIMA dalam riset ini adalah:
+Tahap pertama: identifikasi model; Pertama
+adalah menentukan apakah rentetan data tersebut
+stasioner atau tidak baik untuk laba. Jika
+tidak, maka perlu mengubah rentetan data tersebut
+menjadi stasioner melalui differencing, yaitu
+selisih antara data periode t dengan data periode t-
+1. Pengujian akar-akar unit atau ADF (Augmented
+Dickey-Fuller) dilakukan untuk mengetahui
+apakah data yang digunakan stasioner atau
+tidak.
+Tahap kedua: Apabila rentatan laba tersebut
+stasioner, maka tentukanlah bentuk model yang
+akan digunakan. Langkah ini dicapai untuk
+disesuaikan dengan distribusi yang sesuai dengan
+bentuk model ARIMA. Selanjutnya menguji kelayakan
+model dengan mencari model yang terbaik.
+Setelah mengestimasi model tentatif selanjutnya
+mencari model terbaik. Menurut Kuncoro
+(2001) model terbaik setidaknya memiliki: (1)
+goodness of fit terbaik sebagaimana terlihat dari
+nilai F dan adjusted R2 yang tertinggi dan nilai
+statistik t yang signifikan; (2) RMSE (Root Mean
+Squares Error) minimal.
+Tahap ketiga: Peramalan dengan model tersebut.
+Apabila model yang cocok telah ditemukan
+maka peramalan di masa yang datang dapat
+dilakukan. Oleh karena itu kita dapat membandingkan
+antara hasil peramalan dengan laba
+yang sesungguhnya dengan melakukan uji beda 2
+mean (independent sample T-test) untuk membuktikan
+kemampuan laba dalam meramal laba
+masa depan. Apabila p-value lebih kecil dari alfa
+5% maka hipotesis nol akan ditolak.
+Pengujian hipotesis kedua
+Pegujian hipotesis kedua dilakukan dengan
+tahapan seperti pengujian hipotesis pertama
+dengan data harga saham. Apabila model yang
+cocok telah ditemukan maka peramalan di masa
+yang datang dapat dilakukan. pengujian hipotesis
+dilakukan dengan membandingkan antara harga
+hasil peramalan dengan harga yang sesungguhnya.
+Untuk membandingkan antara harga hasil
+peramalan dengan yang sesungguhnya dengan
+melakukan uji beda 2 mean (independent sample
+T-test) untuk membuktikan kemampuan harga
+time series dalam meramal harga masa depan.
+Apabila p-value lebih kecil dari alfa 5% maka
+hipotesis yang disampaikan dapat terdukung
+artinya terdapat kemampuan harga dalam memprediksi
+harga masa depan.
+Pengujian hipotesis ketiga
+Pengujian hipotesis ketiga dilakukan untuk
+membuktikan apakah laba dapat digunakan
+untuk memprediksi pola harga saham. Pengujian
+hipotesis ketiga diawali dengan menganalisis pola
+(pattern) pergerakan laba dan pergerakan harga
+saham. Pengujian ini untuk melihat apakah pola
+pergerakannya simetris atau tidak yang ditunjukkan
+dengan gambar grafik. Jika pola pergerakan
+laba dalam grafik simetris dengan pola pergerakan
+harga saham, pengujian selanjutnya dengan
+melihat comovement dari laba dan harga saham.
+Jika pola pergerakan antara laba dan harga
+saham ber-comovement, maka hipotesis ketiga
+terdukung, artinya laba dapat digunakan untuk
+memprediksi pola harga saham.
+Pengujian hipotesis keempat dan kelima
+Pengujian hipotesis keempat dilakukan seperti
+pengujian hipotesis pertama, dengan data
+arus kas. Pengujian hipotesis kelima dilakukan
+untuk membuktikan apakah arus kas dapat
+digunakan untuk memprediksi pola harga saham.
+Pengujian hipotesis kelima diawali dengan menganalisis
+pola (pattern) pergerakan arus kas dan
+pergerakan harga saham. Pengujian ini untuk
+melihat apakah pola pergerakannya simetris atau
+tidak yang ditunjukkan dengan gambar grafik.
+Jika pola pergerakan arus kas dalam grafik simetris
+dengan pola pergerakan harga saham, pengujian
+selanjutnya dengan melihat comovement dari
+arus kas dan harga saham. Jika pola pergerakan
+antara arus kas dan harga saham ber-comovement,
+maka hipotesis kelima terdukung, artinya arus
+kas dapat digunakan untuk memprediksi pola
+harga saham.
+HASIL PENELITIAN DAN PEMBAHASAN
+Kemampuan prediksi laba time series dalam
+memprediksi laba masa depan.
+Berdasarkan tahapan analisis yaitu uji stasioneritas,
+pencarian model tentatif dan peramalan
+dengan model yang diperoleh suatu model peramalan
+sebagaimana ditunjukkan dalam Tabel 1.
+
+Model yang telah diperoleh selanjutnya digunakan
+untuk melakukan peramalan laba.
+Untuk menjawab hipotesis pertama kita akan
+meilhat dengan cara melakukan uji beda mean
+untuk nilai actual dengan nilai fitted-nya seluruh
+perusahaan sampel. Dari hasil uji beda rata-rata
+dua mean diperoleh hasil seperti pada Tabel 2.
+Berdasarkan tabel tersebut menunjukkan
+bahwa nilai signikansi sebesar 0,95 berarti tidak
+signifikan. Artinya secara statistik tidak terdapat
+perbedaan yang signifikan antara laba sebenarnya
+dengan laba ramalan. Hal ini menunjukkan
+bahwa secara statistik hipotesis yang menyatakan
+bahwa terdapat kemampuan time series laba
+memprediksi laba terdukung. Hasil penelitian ini
+mendukung temuan Parawiyati (1996), Sunariyah
+(1996), Isgiyarta (1997), Parawiyati dan Baridwan
+(1998), Werdiningsih (2000), Madjid (2002), Kholidiyah
+(2002), Andayani et al. (2011), dan Junaidi
+(2011).
+Kemampuan prediksi harga time series
+dalam memprediksi harga masa depan
+Sebagaimana tahapan analisis pada bagian
+4.1, pengujian prediksi harga saham dilakukan
+dengan langkah yang sama dengan 4.1, yaitu uji
+stasioneritas, pencarian model tentatif dan peramalan
+dengan model yang diperoleh. Berdasarkan
+tahapan analisis diperoleh suatu model peramalan
+harga sebagaimana ditunjukkan dalam Tabel 3.
+Untuk menjawab hipotesis kedua kita akan
+melihat dengan cara melakukan uji beda mean
+untuk nilai actual dengan nilai fitted-nya seluruh
+perusahaan sampel. Dari hasil uji beda rata-rata
+dua mean diperoleh hasil seperti pada Tabel 4
+Berdasarkan uji beda rata-rata diperoleh nilai
+sinifikansi 0,487 dengan alfa 0,05. Karena nilai
+signifikansi lebih besar dari alfa maka, hipotesis
+yang menyatakan bahwa terdapat kemampuan
+prediksi harga time series dalam memprediksi
+harga masa depan terdukung. Hasil penelitian ini
+selaras dengan penelitian Junaidi (2011) bahwa
+harga saham time series dapat digunakan untuk
+memprediksi harga saham masa depan.
+Kemampuan prediksi laba terhadap pola
+harga saham
+Untuk melihat kemampuan prediksi laba
+time series terhadap pola pergerakkan harga saham kita akan melihat korelasi seluruh data
+laba perusahaan dengan harga saham. Jika pola
+pergerakan laba sama dengan pola pergerakkan
+harga maka dapat dikatakan bahwa kedua data
+tersebut memiliki hubungan yang signifikan sebagaimana
+ditunjukkan dengan nilai korelasi
+antara series laba dengan series harga saham.
+Jika nilai korelasi positip signifikan dapat
+dikatakan bahwa time series laba dapat digunakan
+untuk memprediksi harga saham. Berdasarkan
+tabel diatas nilai korelasi sebesar 0,167
+dengan nilai signifikansi 0,007. Berdasarkan analisis
+statistik menunjukkan nilai signifikansi 0,007
+dibawah alfa 0,05. Oleh karena itu dapat dikatakan
+bahwa secara statistik hipotesis yang menyatakan
+bahwa terdapat kemampuan laba time
+series dalam memprediksi pola harga saham
+terdukung. Hasil penelitian ini mendukung penelitian
+Junaidi (2011).
+Kemampuan prediksi arus kas time series
+dalam memprediksi arus kas masa depan.
+Untuk menguji kemampuan prediksi arus
+kas time series dalam memprediksi arus kas masa
+depan pada bagian ini dapat dilakukan menurut
+langkah pengujian bagian 4.1. Berdasarkan tahapan
+analisis diperoleh suatu model peramalan
+sebagaimana ditunjukkan dalam Tabel 5.
+Model yang telah diperoleh selanjutnya digunakan
+untuk melakukan peramalan arus kas.
+Untuk menjawab hipotesis keempat kita akan
+melihat dengan cara melakukan uji beda mean
+untuk nilai actual dengan nilai fitted-nya seluruh
+perusahaan sampel. Dari hasil uji beda rata-rata
+dua mean diperoleh hasil seperti tabel 6.
+Hasil uji beda menunjukkan tingkat signifikansi
+adalah 0,873 berarti tidak signifikan. Hal
+ini berarti hipotesis yang disampaikan bahwa
+terdapat kemampuan time series arus kas
+memprediksi arus kas masa depan dapat terdukung.
+Temuan ini mendukung penelitian Bowen
+et al. (1986) dan Parawiyati dan Baridwan (1998).
+Kemampuan prediksi arus kas terhadap pola
+harga saham
+Untuk melihat kemampuan prediksi arus kas
+time series terhadap pola pergerakkan harga
+saham kita akan melihat korelasi seluruh data arus kas perusahaan dengan harga saham. Jika
+pola pergerakan arus kas sama dengan pola pergerakkan
+harga maka dapat dikatakan bahwa
+kedua data tersebut memiliki hubungan yang
+signifikan sebagaimana ditunjukkan dengan nilai
+korelasinya Jika nilai korelasi signifikan dapat
+dikatakan bahwa time series arus kas dapat digunakan
+untuk memprediksi harga saham.
+Berdasarkan analisis statistik menunjukkan
+nilai korelasi sebesar 0,018 dan nilai signifikansi
+0,783 lebih besar dari alfa 0,05. Oleh karena itu
+dapat dikatakan bahwa secara statistik hipotesis
+kelima yang menyatakan bahwa terdapat kemampuan
+arus kas time series dalam memprediksi pola
+harga saham tidak dapat terdukung.
+KESIMPULAN DAN SARAN
+Penelitian ini bertujuan untuk membuktikan
+secara empiris tentang kemampuan laba dalam
+memprediksi laba masa depan dan patern harga
+saham dan kemampuan arus kas dalam memprediksi
+arus kas masa depan dan pola harga
+saham. Sebanyak 22 sampel diperoleh berdasarkan
+kriteria tertentu. Setelah dilakukan analisis
+statistik diperoleh model yang fit untuk digunakan
+dalam peramalan laba, peramalan arus kas dan
+peramalan pola harga saham. Penelitian ini mengungkapkan
+lima hipotesis.
+Secara statistik hipotesis pertama yang menyatakan
+bahwa terdapat kemampuan time series
+laba memprediksi laba terdukung. Pengujian hipotesis
+dua berdasarkan uji beda rata-rata diperoleh
+nilai sinifikansi 0,487 dengan alfa 0,05. Karena
+nilai signifikansi lebih besar dari alfa maka, hipotesis
+yang menyatakan bahwa terdapat kemampuan
+prediksi harga time series dalam memprediksi
+harga masa depan terdukung. Untuk menguji
+hipotesis ketiga kita melihat korelasi seluruh data
+laba perusahaan dengan harga saham. Jika nilai
+korelasi positip signifikan dapat dikatakan bahwa
+time series laba dapat digunakan untuk memprediksi
+harga saham. Berdasarkan analisis statistik
+menunjukkan nilai signifikansi 0,007 dibawah alfa
+0,05. Oleh karena itu dapat dikatakan bahwa
+secara statistik hipotesis yang menyatakan bahwa terdapat kemampuan laba time series dalam
+memprediksi pola harga saham terdukung.
+Hipotesis keempat menunjukkan bahwa terdapat
+kemampuan prediksi arus kas time series
+dalam memprediksi arus kas masa depan. Hasil
+uji beda menunjukkan tingkat signifikansi adalah
+0,873 berarti tidak signifikan. Hal ini berarti
+hipotesis yang disampaikan bahwa terdapat kemampuan
+time series arus kas memprediksi arus
+kas masa depan dapat terdukung.
+Hipotesis kelima menyatakan bahwa terdapat
+kemampuan prediksi arus kas terhadap
+pola harga saham. Jika pola pergerakan arus kas
+sama dengan pola pergerakkan harga maka dapat
+dikatakan bahwa kedua data tersebut memiliki
+hubungan yang signifikan sebagaimana ditunjukkan
+dengan nilai korelasinya Jika nilai korelasi
+signifikan dapat dikatakan bahwa time series arus
+kas dapat digunakan untuk memprediksi harga
+saham. Berdasarkan analisis statistik menunjukkan
+nilai korelasi sebesar 0,018 dan nilai signifikansi
+0,783 lebih besar dari alfa 0,05. Oleh
+karena itu dapat dikatakan bahwa secara statistik
+hipotesis kelima yang menyatakan bahwa terdapat
+kemampuan arus kas time series dalam
+memprediksi pola harga saham tidak dapat terdukung.

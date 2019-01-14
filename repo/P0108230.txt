@@ -1,0 +1,580 @@
+﻿EVALUASI PENGGUNAAN LAHAN
+UNTUK PERKIRAAN DEBIT BANJIR RANCANGAN
+DI DAS CIBERANG PROVINSI BANTEN
+
+Abstrak: Pengaruh perubahan penggunaan lahan menyebabkan perubahan kondisi aliran
+debit. Perubahan penggunaan lahan menyebabkan curah hujan lebih berpotensi menjadi
+aliran permukaan dari pada terinfiltrasi. Tujuan penelitian ini adalah mengkaji perubahan
+penggunaan lahan di DAS Ciberang pada tahun 2000, 2005, 2010 dan 2014; menganalisis
+debit rancangan DAS Ciberang pada prediksi penggunaan lahan tahun 2028 dan menyusun
+arahan penggunaan lahan agar debit puncak skenario tidak melebihi debit rancangan
+Bendungan Karian. Analisis perubahan penggunaan lahan di DAS Ciberang menggunakan
+metode interpolasi, Rasional dan CA-Markov. Hasil analisis pada tahun 2000 - 2014, DAS
+Ciberang mengalami perubahan hutan menjadi lahan lainnya seluas 22.52 km2, perubahan
+pertanian lahan kering menjadi lahan lainnya seluas 17.45 km2, perubahan sawah menjadi
+lahan lainnya seluas 6.36 km2, perkebunan menjadi lahan lainnya seluas 0.87 km2 dan
+pemukiman menjadi lahan lainnya seluas 0.47 km2. Perubahan luas untuk semua penggunaan
+lahan di DAS Ciberang sebesar 51.73 km2 atau 18.3 % sedangkan penggunaan lahan yang
+tidak mengalami perubahan luas untuk semua penggunaan lahan sebesar 231.14 km2 atau
+81.7 %. Debit banjir rancangan pada tahun 2028 tidak memenuhi syarat pola penggunaan
+lahan terbaik karena debit banjir melebihi debit banjir Bendungan Karian. Debit banjir aktual
+tahun 2014 masih memenuhi syarat, debit banjir pada Pola Ruang RTRW Kabupaten Lebak
+Tahun 2014-2034 dan Skenario ke-4 memenuhi syarat pola penggunaan lahan terbaik.
+Skenario ke-4 digunakan sebagai arahan perencanaan penggunaan lahan di DAS Ciberang
+yang dianggap sebagai referensi penggunaan lahan di DAS Ciberang Kabupaten Lebak Tahun
+2014-2034.
+Kata kunci : CA-Markov, Perubahan Penggunaan Lahan, Debit Rancangan, Bendungan
+Karian.
+
+Pendahuluan
+Pemanfaatan sumber daya alam dalam wilayah DAS (Daerah Aliran Sungai) telah menunjukkan peningkatan yang sejalan dengan pertambahan penduduk. Secara kuantitas maupun kualitas, pemanfaatan sumber daya alam akan menyebabkan terjadinya perubahan kondisi lingkungan di DAS Ciberang. DAS Ciberang merupakan sub DAS di hulu sungai Ciujung sebagai kawasan resapan air dan daerah pengendali banjir. Eksploitasi di DAS yang tidak terkendali menyebabkan kondisi lingkungan DAS semakin menurun. Salah satu fenomena penurunan kondisi DAS adalah luas tutupan hutan semakin berkurang diantaranya disebabkan oleh alih fungsi kawasan hutan.
+Alih fungsi kawasan hutan perlu dianalisis multitemporal sebagai bantuan untuk memahami proses dan pola perubahan penggunaan lahan selama periode historis tertentu. Hal ini penting untuk memahami bagaimana perubahan penggunaan lahan dari waktu ke waktu dan untuk mengenali sifat dinamis dari perubahan kawasan tersebut. Secara khusus, sangat penting untuk mengidentifikasi faktor-faktor yang mengatur tingkat perubahan penggunaan lahan di suatu wilayah tertentu, dan bagaimana perubahan penggunaan fungsi kawasan hutan mungkin bervariasi dalam sub-wilayah (Mendoza et al. 2011).
+Alih fungsi kawasan hutan menimbulkan masalah berkurangnya daya resap air ke dalam tanah sehingga sebagian besar air mengalir di permukaan. Hal tersebut berpengaruh terhadap besarnya debit puncak pada outlet Bendungan Karian. Apabila tidak dilakukan pengelolaan lebih lanjut akan menyebabkan peningkatan debit puncak setiap tahunnya, sehingga daerah di bagian hilir akan berpotensi terkena dampak banjir.
+Hulu DAS Ciberang masuk dalam Kawasan Taman Nasional Gunung Halimun Salak (TNGHS) dengan luas 14,938 ha (14%) dari luas seluruhnya sekitar 113,357 ha. Berdasarkan data Ditjen Planologi (2012), tahun 1989-2008 luas hutan di kawasan TNGHS setiap tahun berkurang sekitar 18 hektar. Tahun 1989 luas hutan sebesar 870 km2 sedangkan tahun 2008 luas hutan hanya tinggal 639.5 km2. Hal tersebut mengindikasikan bahwa terjadi penurunan luas hutan satiap tahunnya di kawasan TNGHS dapat mempengaruhi kondisi hulu DAS sebagai kawasan resapan air.
+Dinas Kehutanan dan Perkebunan Kabupaten Lebak menyatakan bahwa luas lahan kritis di DAS Ciberang mencapai 36.3% (Dishutbun Lebak 2013). Berdasarkan data Dinas Sumber Daya Air dan Permukiman dengan curah hujan yang relatif sama, debit di sungai pada tahun 1998-2011 rendah sedangkan pada Tahun 2001, 2006, 2009, 2012 hingga 2013 debit di sungai tinggi berakibat banjir di hilir Sungai Ciberang yang merendam beberapa desa di Kecamatan Rangkasbitung (DSDAP Banten 2013).
+Kejadian banjir berulang setiap tahun berbanding lurus dengan penurunan luas kawasan hutan yang terjadi setiap tahunnya pada DAS Ciberang. Hal tersebut mengindikasikan bahwa pengurangan luas tutupan hutan di hulu DAS mempengaruhi debit limpasan permukaan yang menyebabkan air hujan melimpas ke sungai lebih cepat tanpa adanya penyerapan air yang maksimum di hulunya. Menurut Hamilton dan King (1983) banjir terjadi akibat tingginya intensitas curah hujan atau hujan berlangsung dalam waktu
+lama serta tutupan lahan tidak mampu lagi menginfiltrasi air hujan secara optimal dan
+kapasitas penyimpanan tanah telah terlampaui sehingga kelebihan air melimpas ke aliran
+sungai. Kejadian banjir tidak semata-mata hanya dipengaruhi kondisi penutupan lahan,
+tetapi juga tergantung faktor iklim dan geologi.
+Berdasarkan uraian di atas, penggunaan lahan di DAS Ciberang dalam keadaan
+terganggu fungsi hidrologisnya, sehingga diperlukan perencanaan penggunaan lahan
+terbaik agar peluang debit puncak dapat ditampung oleh Bendungan Karian.
+Tujuan penelitian adalah (1) mengkaji pola hujan di DAS Ciberang tahun 2000, 2005,
+2010 dan 2014; (2) mengkaji perubahan penggunaan lahan di DAS Ciberang pada tahun
+2000, 2005, 2010 dan 2014; (3) menganalisis debit rancangan DAS Ciberang pada prediksi
+penggunaan lahan tahun 2028 dan (4) menyusun arahan penggunaan lahan agar debit
+puncak skenario tidak melebihi debit rancangan Bendungan Karian.
+Metode Penelitian
+Bahan dan Peralatan Penelitian
+Bahan-bahan yang digunakan terdiri dari data spasial dan data numerik. Data spasial
+antara lain Pola Ruang RTRW dan citra Landsat path 122 row 65: tahun 2000, 2005 2010
+dan 2014. Data numerik meliputi data curah hujan periode tahun 1998-2013 dan data
+jumlah penduduk. Peralatan yang digunakan seperangkat komputer yang dilengkapi
+dengan perangkat lunak Arcmap 10.1, Idrisi Selva, dan Microsoft Office 2013, Global
+Positioning System (GPS), printer, kamera dan alat-alat tulis.
+Jenis dan Sumber Data
+Mengacu pada tujuan serta studi pustaka yang telah dikaji, selanjutnya disusun
+rancangan penelitian yang mencakup langkah-langkah kegiatan yang perlu diambil dalam
+penelitian ini. Secara garis besar langkah-langkah yang diperlukan berdasarkan tujuan
+penelitian disajikan pada Tabel 1.
+Tabel 1. Matriks Data dan Metode Analisa yang Digunakan dalam Penelitian
+No Tujuan Data Sumber Metode Analisis Output
+1 Mengkaji pola hujan
+di DAS Ciberang
+- Data hujan tahun
+1998-2013
+- Curah hujan
+wilayah
+- Curah hujan
+rancangan
+Dinas Sumber
+Daya Air dan
+Permukiman
+Provinsi Banten
+- Analisa metode interpolasi
+
+ 
+
+n
+i
+i i
+i
+P P
+A
+A
+P
+1
+1
+2
+1
+- Analisis Distribusi Frekwensi
+- Analisis metode mononobe
+3
+2
+c
+T
+T T
+24
+24
+R
+I
+  
+  
+
+  
+  
+
+- Curah hujan
+wilayah
+- Curah hujan
+rancangan
+- Intensitas
+hujan
+2 Mengkaji
+penggunaan lahan
+- Citra landsat
+2000, 2005, 2010,
+2014
+- Peta penggunaan
+lahan
+USGS.gov - Interpretasi citra dengan
+metode visual
+- Analisis Markov dalam Idrisi
+Selva
+- Peta
+penggunaan
+lahan
+- Matrik
+probabilitas /
+area transisi
+3 Memprediksi
+penggunaan lahan
+tahun 2028 di DAS
+Ciberang
+Penggunaan lahan
+tahun 2000, 2005,
+2010, 2014 dan
+Matrik probabilitas
+Keluaran tujuan 2 Celullar Automata-Markov
+(CA-Markov) dalam Idrisi
+Selva
+Peta prediksi
+penggunaan
+lahan tahun 2028
+4 Menyusun arahan
+penggunaan lahan
+agar debit puncak
+skenario tidak
+melebihi debit
+- Intensitas hujan
+- Penggunaan lahan
+tahun 2014, 2028,
+pola ruang RTRW
+dan Sinkronisasi
+Keluaran tujuan
+1, 2 dan 3,
+Bappeda di ke-2
+Kabupaten dan
+BBWS C3
+- Analisa debit rencana metode
+rational
+Q = 0.278 C * IT * A
+Debit puncak
+skenario
+
+No
+Tujuan
+Data
+Sumber
+Metode Analisis
+Output
+rancangan Bendungan Karian
+Pola Ruang RTRW
+- Kapasitas daya tampung Bendungan Karian
+Arahan Kebijakan Penggunaan Lahan
+Metode Analisis
+Dalam rangka pengendalian debit puncak Bendungan Karian, maka perlu dilakukan perencanaan penggunaan lahan di DAS Ciberang sebagai arahan penggunaan lahan terbaik ditinjau dari skenario debit puncak rancangan kurang dari debit rancangan outlet Bendungan Karian. Secara keseluruhan tahap penelitian disajikan pada Gambar 1.
+Gambar 1. Diagram Alir Tahapan Penelitian
+Perubahan Penggunaan Lahan DAS Ciberang
+Pemodelan yang berbasis spasial dan bersifat dinamik dapat dilakukan dengan pendekatan Cellular Automata (CA). Model ini dapat memprediksi kondisi di waktu yang akan datang secara spasial. CA adalah model dinamik dari interaksi lokal antar sel pada grid yang teratur (Hand 2005). Sel dalam CA merepresentasikan penggunaan lahan, adapun perubahan penggunaan lahan tergantung pada aturan yang mempertimbangkan penggunaan lahan tetangganya (Manson 2005). Komponen utama CA adalah cell (piksel), neigborhood dan transition function (Chen et al. 2002).
+Penyusunan model ini bertujuan untuk memperoleh peta prediksi penggunaan lahan tahun 2028 yang didapat dari mencoba angka iterasi berbeda untuk mendapatkan nilai akurasi Kappa tertinggi. Markov menghasilkan Transitional Probababilty / Area Matrix, yaitu matriks perubahan penggunaan lahan yang diperoleh dengan cara menumpang-tindihkan peta penggunaan lahan pada dua titik tahun (Munibah 2008). Data yang diperlukan adalah peta penggunaan lahan tahun 2000 (t0), tahun 2010 (t1), Transitional Probababilty/Area Matrix. Model ini dijalankan dengan perangkat lunak Idrisi dengan modul Cellular Automata Markov (CA Markov).
+Simulasi berjalan sesuai dengan pergerakan filter pada seluruh area yang disimulasi, dan disebut sebagai satu iterasi. Demikian seterusnya sampai dengan iterasi ke-n. Kondisi penggunaan lahan hasil simulasi dari iterasi sebelumnya digunakan untuk iterasi tahap berikutnya. Setelah simulasi berakhir dengan jumlah iterasi yang diinginkan, maka didapatkan penyebaran penggunaan lahan hasil simulasi. Validasi model dilakukan dengan membandingkan penggunaan lahan hasil simulasi tahun 2014 dengan penggunaan lahan hasil pengamatan tahun 2014 berdasarkan nilai Kappa. Nilai Kappa mempertimbangkan faktor kesalahan proses klasifikasi, sehingga nilai kappa dalam proses pemetaan klasifikasi penggunaan lahan memenuhi syarat dan di anggap benar yaitu > 80%, atau 0,80 (Short 1982 dalam Adibah et al. 2013).
+Gambar 2. Peta Lokasi Penelitian dan Peta Isohyet Tahun 2013 di DAS Ciberang
+Debit Rancangan DAS Ciberang
+Waktu konsentrasi hujan adalah waktu yang diperlukan untuk mengalirkan air hujan dari titik terjauh menuju suatu titik tertentu ditinjau pada daerah pengaliran. Dengan metode Rasional, waktu konsentrasi dapat didekati dengan rumus Kirpich (1940). Intensitas
+hujan adalah tinggi atau kedalaman air hujan persatuan waktu. Sifat umum hujan adalah
+makin singkat hujan berlangsung intensitasnya cenderung makin tinggi dan makin besar
+periode ulangnya makin tinggi pula intensitasnya. Apabila data hujan jangka pendek tidak
+tersedia, yang ada hanya data hujan harian maka intensitas hujan dapat dihitung dengan
+persamaan Mononobe. Debit banjir rancangan untuk perencanaan bendungan didapat dari
+analisis data volume tampungan waduk dengan luas tampungan air di waduk, sehingga
+didapat lamanya waktu air sungai tersebut dapat mengisi waduk. Waktu tempuh yang
+dibutuhkan air sungai penuh dikalikan kapasitas daya tampung di dapat besarnya debit air
+sungai yg dapat di tampung oleh waduk. Rumus umum yang digunakan untuk menghitung
+debit rancangan metode rasional adalah sebagai berikut:
+
+ 
+
+n
+i
+i i
+i
+P P
+A
+A
+P
+1
+1
+2
+1
+dan Tc = 0.0133 * L * I -0.6
+3
+2
+c
+T
+T T
+24
+24
+R
+I
+  
+  
+
+  
+  
+
+QT = 0.278 * C * IT * A
+dimana :
+P = curah hujan harian maksimum tahunan
+Ai,i+1 = luas wilayah
+Pi,i+1 = curah hujan harian maksimum tahunan di delapan stasiun hujan (Gambar 2)
+Tc = waktu konsetrasi hujan (jam)
+L = panjang sungai Ciberang (52.94 km)
+I = kemiringan sungai Ciberang 0.01898
+IT = intensitas curah hujan periode ulang T (mm/jam)
+RT = curah hujan rancangan periode ulang T (mm)
+QT = debit banjir rancangan periode ulang T (m3/dt)
+C = koefesien limpasan air hujan tergantung kepada karakteristik penggunaan lahan daerah tangkapan
+air
+A = luas daerah aliran sungai (km2)
+Gambar 3. Luas Penggunaan Lahan di DAS Ciberang
+
+Arahan Penggunaan Lahan DAS Ciberang
+Penyusunan skenario pengendalian perubahan penggunaan lahan di lokasi penelitian dilakukan dengan merubah penggunaan lahan yang mempunyai nilai koefisien limpasan yang besar di hulu DAS, menjadi penggunaan lahan yang mempunyai koefisien limpasan yang kecil. Seperti penggunaan lahan terbuka, pemukiman, sawah, pertanian lahan kering atau perkebunan yang terdapat di daerah hulu DAS Ciberang. Kebijakan tersebut diterjemahkan ke dalam bentuk penggunaan lahan di DAS Ciberang. Skenario pengendalian perubahan penggunaan lahan dilakukan dengan 4 tahap, yaitu skenario ke-1 untuk penggunaan lahan aktual tahun 2014, skenario ke-2 untuk prediksi penggunaan lahan tahun 2028, skenario ke-3 untuk pola ruang RTRW dan skenario ke-4 untuk menyesuaikan penggunaan lahan pada pola ruang RTRW di DAS Ciberang dengan penggunaan lahan aktual dan prediksi penggunaan lahan.
+Hasil skenario di atas yang memiliki debit rancangan kurang dari kapasitas banjir di Bendungan Karian adalah skenario yang paling ideal. Skenario tersebut dijadikan suatu arahan penggunaan lahan ditinjau dari kondisi hidrologi di DAS Ciberang.
+Pembahasan
+Perubahan Penggunaan Lahan DAS Ciberang
+Hasil analisis citra yang berisi luas penggunaan lahan tiap-tiap kelas menunjukan bahwa penggunaan lahan secara spasial didominasi oleh pertanian lahan kering, hutan, dan sawah (Gambar 3 dan 4).
+Hasil analisis citra yang berisi luas penggunaan lahan tiap-tiap kelas menunjukan bahwa pertanian lahan kering pada tahun 2000/2010 meningkat sebesar 2.2% kemudian menurun sebesar 1.5% pada tahun 2014. Penggunaan lahan sawah terus mengalami kenaikan sebesar 3.7%, begitupula pemukiman terus mengalami kenaikan sebesar 1.7% dan perkebunan mengalami kenaikan sebesar 1.2% sedangkan penggunaan lahan hutan mengalami penurunan akibat penambahan pertanian lahan kering, perkebunan dan sawah sebesar 7.2% dari luas DAS Ciberang. Hal tersebut akan berpengaruh terhadap kenaikan limpasan air hujan permukaan dan debit banjir meningkat pada musim hujan.
+Gambar 4. Penggunaan Lahan DAS Ciberang Tahun 2000, 2005, 2010 dan 2014
+
+Matrik perubahan penggunaan lahan tahun 2000/2014 secara spasial (Gambar 4 dan Tabel 2), terlihat perubahan terbesar yakni hutan menjadi penggunaan lahan lainnya sebesar 8%, perubahan pertanian lahan kering menjadi lahan lainnya seluas 6.2%. Perubahan sawah menjadi lahan lainnya sebesar 2.2% dan pemukiman menjadi lahan lainnya seluas 0.2%. Perubahan luas untuk semua penggunaan lahan di DAS Ciberang adalah 18.3% dan penggunaan lahan yang tidak mengalami perubahan luas untuk semua penggunaan lahan sebesar 81.7%. Selanjutnya diagram matrik perubahan penggunaan lahan dapat dilihat pada Gambar 5.
+Tabel 2. Matriks Perubahan Penggunaan Lahan di DAS Ciberang Periode Tahun 2000/2014
+Penggunaan Lahan
+Tahun 2014
+Jumlah
+Hutan
+Pemukiman
+Perkebunan
+Pertanian Lahan Kering
+Sawah
+Semak Belukar
+Tanah Terbuka
+Tubuh Air
+Tahun 2000
+Hutan 102.1
+0.8
+0.5
+14.9
+5.2
+0.9
+0.0
+0.3
+124.6
+Permukiman
+0.0 7.4
+0.0
+0.1
+0.2
+0.0
+0.0
+0.1
+7.9
+Perkebunan
+0.1
+0.1 10.0
+0.3
+0.4
+0.0
+10.9
+Pertanian Lahan Kering
+1.0
+2.2
+3.4 74.2
+9.8
+0.4
+0.2
+0.4
+91.6
+Sawah
+0.9
+1.1
+0.3
+3.0 30.9
+0.7
+0.0
+0.4
+37.2
+Semak Belukar
+0.0
+0.9
+0.1
+0.7
+0.9 4.2
+0.0
+0.0
+7.0
+Tanah Terbuka
+0.0
+0.2
+0.1
+0.0
+0.0 0.1
+0.0
+0.5
+Tubuh Air
+0.2
+0.1
+0.4
+0.2
+0.0
+0.0 2.2
+3.1
+Jumlah
+104.3
+12.8
+14.3
+93.8
+47.6
+6.3
+0.4
+3.5
+282.9
+Gambar 5 menunjukkan bahwa perubahan penggunaan lahan terbesar terjadi pada tahun 2010/2014. Perubahan penggunaan lahan di DAS Ciberang Tahun 2000 dan 2014 terjadi karena meningkatnya kebutuhan sektor perkebunan untuk bahan baku industri seperti bertambahnya permintaan kayu sengon, durian, kelapa, jabon, kelapa sawit dan tanaman tahunan lainnya, sehingga usaha petani berpindah menjadi pertanian lahan kering.
+Debit Rancangan DAS Ciberang
+Curah hujan harian maksimum tahunan DAS Ciberang pada Gambar 6, selanjutnya curah hujan wilayah dianalisis dengan metode distribusi frekwensi untuk mendapatkan curah hujan rancangan dengan kala ulang tertentu. Curah hujan rancangan, koefisien limpasan tertimbang dari penggunaan lahan setiap skenario dan luasan DAS kemudian dianalisis menjadi debit rancangan DAS Ciberang. Debit rancangan yang dihasilkan dibandingkan dengan debit rancangan Bendungan Karian. Debit skenario yang memenuhi syarat akan terpilih sebagai pola penggunaan lahan terbaik.
+
+Gambar 5. Diagram Setiap Perubahan Penggunaan Lahan DAS Ciberang
+Gambar 5 menunjukkan bahwa perubahan penggunaan lahan terbesar terjadi pada tahun 2010/2014. Perubahan penggunaan lahan di DAS Ciberang Tahun 2000 dan 2014 terjadi karena meningkatnya kebutuhan sektor perkebunan untuk bahan baku industri seperti bertambahnya permintaan kayu sengon, durian, kelapa, jabon, kelapa sawit dan tanaman tahunan lainnya, sehingga usaha petani berpindah menjadi pertanian lahan kering.
+Gambar 5. Hujan Harian Maksimum Tahunan DAS Ciberang Tahun 1998-2013
+Debit Rancangan DAS Ciberang
+Curah hujan harian maksimum tahunan DAS Ciberang pada Gambar 6, selanjutnya curah hujan wilayah dianalisis dengan metode distribusi frekwensi untuk mendapatkan curah hujan rancangan dengan kala ulang tertentu. Curah hujan rancangan, koefisien limpasan tertimbang dari penggunaan lahan setiap skenario dan luasan DAS kemudian dianalisis menjadi debit rancangan DAS Ciberang. Debit rancangan yang dihasilkan dibandingkan dengan debit rancangan Bendungan Karian. Debit skenario yang memenuhi syarat akan terpilih sebagai pola penggunaan lahan terbaik.
+
+Gambar 6. Skenario Penggunaan Lahan ahun 2014, 2028, Pola Ruang dan penyesuaian Pola Ruang
+Penyusunan skenario kebijakan pada Gambar 7. diambil berdasarkan pengendalian perubahan penggunaan lahan di lokasi penelitian dilakukan dengan perencanaan penggunaan lahan yang menghasilkan debit puncak skenario kurang dari debit rancangan Bendungan Karian. Kebijakan tersebut diterjemahkan ke dalam bentuk pelestarian daerah kawasan hulu daerah aliran sungai yang kemudian digunakan sebagai salah satu input pengendalian penggunaan lahan.
+Tabel 3 merupakan koefisien limpasan untuk menghitung nilai koefisien limpasan tertimbang setiap skenario luasan penggunaan lahan. Nilai koefisien tertimbang skenario ke-1 adalah koefisien limpasan sebesar 69.9 dibagi luas DAS Ciberang sebesar 282.9, maka didapat nilai koefisien tertimbang yang didapat sebesar 0.25. Skenario ke-2, ke-3 dan ke-4 dilakukan dengan hal yang sama. 
+
+Penggunaan Lahan
+C
+Skenario ke-1
+Penggunaan Lahan Aktual Tahun 2014
+Skenario ke-2
+Prediksi Penggunaan Lahan Tahun 2028
+Skenario ke-3
+Pola Ruang RTRW
+DAS Ciberang
+Skenario ke-4
+Sinkronisasi Pola Ruang RTRW
+Luas (km2)
+Koef Terbobot
+Luas (km2)
+Koef Terbobot
+Luas (km2)
+Koef Terbobot
+Luas (km2)
+Koef Terbobot
+Permukiman
+0.7
+4
+8.3
+17.4
+11.3
+14.5
+9.4
+14.0
+9.1
+Semak Belukar
+0.1
+6.3
+0.4
+5.8
+0.4
+0.0
+0.0
+0.0
+Sawah
+0.5
+47.6
+23.8
+53.4
+26.7
+9.1
+4.5
+37.4
+18.7
+Pertanian Lahan Kering
+0.3
+93.8
+28.1
+96.0
+28.8
+6.8
+2.0
+27.8
+8.3
+Perkebunan
+0.4
+14.3
+5.7
+17.8
+7.1
+45.0
+18.0
+37.3
+14.9
+Hutan
+0.005
+104.3
+0.5
+88.8
+0.4
+184.2
+0.9
+143.3
+0.7
+Tubuh Air
+0.8
+3.5
+2.8
+3.5
+2.8
+23.3
+18.7
+23.2
+18.5
+Tanah Terbuka
+0.6
+0.4
+0.2
+0.3
+0.2
+0.0
+0.0
+0.0
+Koefisien Tertimbang
+0.25
+0.27
+0.19
+0.25
+Tabel 4 menunjukkan debit rancangan mengalami peningkatan dari tahun 2014 hingga tahun 2028. Debit rancangan kala ulang 50 tahun pada skenario ke-1, ke-3 dan ke-4 menunjukkan lebih kecil dari debit rancangan Bendungan Karian. Hal tersebut mengindikasikan bahwa skenario ke-1 masih memenuhi syarat sebagai pola penggunaan lahan aktual, skenario ke-3 dan ke-4 memenuhi syarat sebagai pola penggunaan lahan terbaik. Skenario ke-4 dijadikan suatu arahan penggunaan lahan terbaik sebagai referensi penggunaan lahan di DAS Ciberang Kabupaten Lebak Tahun 2014-2034.
+Tabel 4. Rekap Hasil Analisis Debit Rancangan Metode Rasional
+Analisis
+Kala
+Ulang
+RT (mm)
+IT (mm/jam)
+Skenario Debit Rancangan (m3/dt)
+Debit Karian (m3/dt)
+Selisih Debit (m3/dt)
+Tahun 2014
+Prediksi Tahun 2028
+Pola Ruang RTRW 2014-2034
+Sinkronisasi Pola Ruang RTRW 2014-2034
+Tahun 2014
+Prediksi Tahun 2028
+Pola Ruang RTRW 2014-2034
+Sinkronisasi Pola Ruang RTRW 2014-2034
+1.25
+158.2
+14.2
+275.5
+306.3
+241.8
+292.1
+501.46
+225.9
+195.2
+259.6
+209.3
+2
+181.5
+16.3
+316.1
+351.4
+277.5
+335.2
+501.46
+185.3
+150.1
+224.0
+166.3
+5
+210.5
+18.9
+366.6
+407.5
+321.8
+388.7
+501.46
+134.8
+93.9
+179.7
+112.7
+10
+228.4
+20.5
+397.9
+442.3
+349.2
+421.9
+501.46
+103.6
+59.2
+152.2
+79.6
+25
+250.1
+22.4
+435.7
+484.3
+382.4
+461.9
+501.46
+65.8
+17.2
+119.1
+39.5
+50
+265.7
+23.8
+462.9
+514.5
+406.3
+490.7
+501.46
+38.6 -13.0
+95.2
+10.7
+100
+280.9
+25.2
+489.3
+543.9
+429.5
+518.8
+501.46
+12.1 -42.5
+72.0 -17.3
+500
+345.8
+31.0
+602.4
+669.7
+528.8
+638.7
+501.46 -101.0 -168.2 -27.3 -137.3
+1000
+448.5
+40.2
+781.3
+868.5
+685.7
+828.3
+501.46 -279.8 -367.0 -184.3 -326.9
+Arahan Penggunaan Lahan DAS Ciberang
+Hasil analisis debit rancangan yang memenuhi syarat sebagai pola penggunaan lahan terbaik di DAS Ciberang adalah skenario ke empat yang diambil dari penyesuaian pola ruang RTRW di DAS Ciberang dengan kondisi aktual di lapangan dan prediksi tahun 2028. Pola ruang tersebut selanjutnya dijadikan arahan penggunaan lahan terbaik di DAS Ciberang karena debit puncak rancangan kurang dari debit rancangan Bendungan Karian. Rencana arahan penggunaan lahan agar benar-benar diperhatikan pelaksanaan dilapangannya karena jika pola ruang tersebut tidak dimonitoring dan dievaluasi dengan baik, maka penggunaan lahan empat belas tahun kedepan akan berubah menjadi penggunaan lahan hasil prediksi CA-Markov tahun 2028.
+Monitoring dan evaluasi wajib dilakukan dalam Pengelolaan DAS baik dalam pemulihan maupun mempertahankan Daya Dukung DAS. Monitoring dilakukan untuk mendapatkan data indikator kinerja DAS. Hasil monitoring menjadi dasar untuk melakukan evaluasi kinerja pengelolaan DAS. Hasil evaluasi digunakan dalam rangka penyempurnaan perencanaan pengelolaan DAS dan pelaksanaan Pengelolaan DAS. Pelaksanaan tersebut dilaksanakan berdasarkan Skenario Pola Ruang RTRW yang telah ditetapkan dan menjadi acuan rencana pembangunan sektor dan rencana pembangunan wilayah administrasi.
+Pelaksanaan rencana pola ruang RTRW Kabupaten Lebak Tahun 2014-2034 akan sulit dilaksanakan mengingat perubahan penggunaan lahan aktual di lapangan tidak akan sama dengan rencana pola ruang yang telah ditetapkan, sehingga penggunaan lahan kedepan akan berjalan sesuai dengan penggunaan lahan hasil prediksi CA-Markov.
+Kesimpulan
+Kesimpulan yang dapat diambil dari penelitian yang telah dilakukan adalah (1) Luas semua perubahan penggunaan lahan Tahun 2000 dan 2014 di DAS Ciberang sebesar 81.7 km2 atau 18.3% sedangkan luas semua penggunaan lahan yang tidak mengalami perubahan sebesar 231.14 km2 atau 81.7 %. DAS Ciberang mengalami perubahan hutan menjadi pertanian lahan kering seluas 14.9 km2, sawah menjadi pertanian lahan kering seluas 12.84 km2, hutan menjadi sawah seluas 5.2 km2 dan pertanian lahan kering menjadi perkebunan seluas 3.4 km2. Debit rancangan skenario ke-2 tahun 2028 lebih besar dari debit rancangan di bendungan, sedangkan skenario ke-1 tahun 2014, skenario ke-3 pola ruang RTRW dan skenario ke-4 penyesuaian pola ruang lebih kecil dari debit rancangan Bendungan Karian. Hal tersebut mengindikasikan bahwa skenario ke-1 saat ini masih memenuhi syarat sebagai pola penggunaan lahan dan skenario ke-3 juga skenario ke-4 memenuhi syarat sebagai pola penggunaan lahan terbaik yang dianggap sebagai referensi penggunaan lahan di DAS Ciberang Kabupaten Lebak. Penyesuaian pola Ruang RTRW Tahun 2014-2034 digunakan sebagai arahan perencanaan penggunaan lahan di DAS Ciberang dikaji dari kondisi hidrologi karena debit puncak rancangan kurang dari debit rancangan Bendungan Karian.

@@ -1,0 +1,79 @@
+﻿Kebutuhan akan layanan kesehatan saat ini sangat diperlukan untuk
+mempermudah masyarakat mencari informasi mengenai layanan kesehatan yang ada
+disekitar tempat tinggal mulai dari rumah sakit(RS), Apotek, Dokter praktik, Klinik,
+Rumah Bersalin/Bidan, dan Pengobatan Alternatif. Dalam mencari layanan informasi
+kesehatan, banyak masyarakat belum mengetahui apakah disekitar tempat tinggal
+terdapat pelayanan kesehatan atau tidak. Untuk itu diperlukan sistem informasi yang
+dapat diakses untuk dapat melakukan pencarian layanan kesehatan khususnya di Kota
+Bandar Lampung.
+Sistem informasi geografis (SIG) memiliki kemampuan yang baik dalam
+memvisualisasikan data spasial berikut atributnya untuk memodifikasi bentuk, warna,
+ukuran dan simbol pada peta geografis. Dengan memanfaatkan teknologi ini dapat
+membantu masyarakat dalam mencari informasi layanan kesehatan melalui peta
+geografis. Perancangan sistem informasi geografis layanan kesehatan di Kota Bandar
+Lampung ini menggunakan metode waterfall dengan menyesuaikan kebutuhan yang
+dibutuhkan masyarakat berdasarkan kuesioner pada tahap analisis kebutuhan.
+Penelitian yang dilakukan menggunakan data sebanyak 107 pusat layanan kesehatan
+yang meliputi 11 Rumah Sakit(RS), 22 Apotek, 20 Bidan/RSB(Rumah Sakit
+Bersalin), 14 Puskesmas, 4 Pengobatan Alternatif, 15 Klinik, dan 20 Dokter Praktik.
+Dari hasil pengujian fungsional Admin, Staff dan user Sistem Informasi
+Geografis Layanan Kesehatan di Kota Bandar Lampung, menunjukan bahwa
+pengujian fungsional yang telah tercapai. Pengujian tersebut didapat dari borang
+pengujian fungsional admin dan Staff meliputi fitur login, menambah data, edit data,
+hapus data, dan melihat data, serta borang pengujian fungsional user yang meliputi
+mengakses home peta, dan melihat informasi layanan kesehatan yang menyatakan
+semua fitur atau tampilan sistem berjalan dengan sesuai. Perancangan Sistem
+Informasi Geografis Layanan Kesehatan dinyatakan berhasil. Dilihat dari hasil UAT
+(User Acceptance Test) aspek kemudahan didapat penilaian tertinggi 75% dengan
+skala ukur baik, aspek pencapaian tujuan didapat penilaian tertinggi 80% dengan
+skala ukur baik, dan aspek apresiasi didapat penilaian tertinggi 60% dengan skala
+ukur baik.
+Kata Kunci : SIG, Layanan Kesehatan Kota Bandar Lampung, Bandar Lampung.
+
+BAB I
+PENDAHULUAN
+1.1 Latar Belakang
+Kota Bandar Lampung pada saat ini terus meningkatkan serta mengembangkan
+pelayanan disegala bidang khususnya dibidang pelayaan kesehatan. Namun
+banyak kendala yang dialami, salah satunya adalah melakukan sosialisasi layananlayanan
+kesehatan yang ada di Kota Bandar Lampung. Sebagai contoh masyarakat
+ingin mencari letak dan informasi suatu layanan kesehatan yang ada di sekitar
+tempat tinggal mulai dari RS (Rumah Sakit), Apotek, Dokter umum/spesialis,
+Klinik, RSB (Rumah Bersalin)/Bidan, dan Alternatif. namun masyarakat tidak
+mengetahui bagaimana cara mendapatkan informasi tersebut. Untuk itu perlu
+dirancang suatu sistem informasi geografis yang dapat mengetahui letak dan
+fasilitas layanan kesehatan yang ada di Kota Bandar lampung, yang nantinya
+dapat mempermudah masyarakat.
+Untuk memenuhi kebutuhan yang dibutuhkan pada penelitian sistem informasi
+geografis, dilakukan interview atau wawancara langsung ke masyarakat serta
+observasi langsung ke tempat penelitian, dengan cara membuat 20 kuesioner yang
+nantinya akan diisikan oleh masyarakat yang ditemui. Dari hasil 20 kuesioner
+
+tersebut, 90% masyarakat membutuhkan sistem informasi geografis yang dapat
+membantu masyarakat dalam mencari layanan kesehatan di Kota Bandar
+Lampung yang diinginkan dan 10% dari hasil kuesioner masyarakat tidak
+membutuhkan sistem informasi geografis layanan kesehatan di Kota Bandar
+Lampung. Dalam hal ini dapat disimpulkan bahwa dari hasil terebut perlu
+dilakukan penelitian tentang merancang sistem informasi geografis layanan
+kesehatan, untuk nantinya hasil dari penelitian tersebut dapat memudahkan
+masyarakat dalam mencari lokasi dan informasi dari layanan kesehatan yang
+diinginkan. Harapan yang diinginkan jika informasi geografis telah selesai
+dirancang dan berjalan agar dapat digunakan dan bermanfaat untuk masyarakat.
+1.2 Tujuan Penelitian
+Tujuan dari penelitian tugas akhir ini adalah membuat Sistem Informasi Layanan
+Kesehatan di Kota Bandar Lampung dalam bentuk web informasi lokasi dan
+fasilitas Layanan Kesehatan di Kota Bandar Lampung, yang dibutuhkan oleh
+masyarakat yang ada di dalam dan di luar Kota Bandar Lampung.
+1.3 Manfaat Penelitian
+Manfaat yang hendak dicapai dalam penelitian ini dapat bermanfaat dalam
+memberikan informasi yang mudah di akses oleh masyarakat, dalam mencari
+lokasi dan informasi fasilitas Layanan Kesehatan di Kota Bandar Lampung.
+
+1.4 Rumusan Masalah
+1. Bagaimana membangun sistem informasi untuk mencari lokasi dan
+informasi fasilitas layanan kesehatan pada PC atau Laptop menggunakan
+Teknologi Google Maps API dan Web Service yang didukung oleh Case
+Tools, PHP.
+2. Informasi yang didapat dari Sistem Informasi Geografis (SIG), mengenai
+lokasi dan informasi fasilitas layanan pendidikan yang ada di Kota Bandar
+Lampung

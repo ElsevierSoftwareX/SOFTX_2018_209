@@ -1,0 +1,341 @@
+﻿Survey Pemetaan Model Bangunan Tiga Dimensi (3D)
+Metode Terrestrial Laser Scanning untuk Dokumentasi As-Built Drawing
+
+Abstrak
+Untuk mendapatkan informasi bangunan, dapat dilakukan as-built survey. Saat ini, teknologi pemindaian laser
+digunakan untuk teknik survey pemetaan tiga-dimensi (3D) yang disebut sebagai survey pengukuran dengan metode
+Terrestrial Laser Scanner (TLS). Salah satu aplikasi TLS adalah membuat visualisasi model 3D untuk dokumentasi
+as-built drawing. Pengukuran dengan metode TLS adalah melakukan pemindaian obyek dan merekam point-clouds
+3D dalam jumlah yang besar untuk membentuk model 3D. Pemindaian dari titik-titik yang direncanakan agar
+memperoleh obyek yang bertampalan. Pada proses pengolahan data point-clouds, dilakukan registrasi dengan
+metode natural-point-feature, filtering, georeferencing dan wrapping untuk mendapatkan model 3D dengan
+menggunakan perangkat lunak Geomagic. Analisis registration adalah membandingkan error registrasi dengan
+ketelitian penentuan posisi (6mm) berdasarkan spesifikasi alat TLS. Di beberapa stand-point diperoleh error registrasi
+hingga mencapai 14,827 m. Untuk memperoleh error registrasi yang lebih kecil dari 6 mm, dilakukan registrasi
+secara bertahap. Dimensi bangunan berupa jarak pada model 3D dibandingkan dengan jarak yang diukur
+dengan alat ukur Electronic Total Station (ETS). Hasil ukuran jarak pada model 3D sama dengan hasil ukuran
+jarak ETS. As-built survey dapat dilakukan dengan teknik survey pengukuran 3D metode TLS.
+Kata-kata Kunci: As-built drawing, model 3D, TLS.
+
+
+
+
+1. Pendahuluan
+Teknologi pemindaian laser (laser scanning)
+merupakan salah satu teknik terbaru dalam survey
+pemetaan 3D dan merupakan teknologi survey terkini
+dalam memperoleh informasi data spasial. Sudah
+banyak jenis alat ukur yang menggunakan teknologi
+pemindaian laser dengan berbagai kemampuan. Dalam
+bidang survey pemetaan, peralatan pemindai laser
+merupakan suatu dimensi baru dalam pengumpulan
+data spasial. Dokumentasi merupakan suatu hal yang
+penting, karena dibutuhkan untuk perencanaan dan
+evaluasi suatu kegiatan. Menurut Hiremagalur, et.al
+(2009) TLS adalah teknologi yang relatif baru yang
+telah digunakan di berbagai aplikasi dalam bidang
+rekayasa. TLS merupakan instrumen survei terbaru
+yang telah populer dan semakin banyak digunakan
+untuk pengadaan data as-built dan pemodelan dalam
+aplikasi transportasi, termasuk pengukuran tanah, studi
+arkeologi, arsitektur, struktur jembatan, dan survei
+jalan raya. Berenyi, et.al (2010) menyimpulkan bahwa
+TLS dapat diaplikasikan dalam bidang survey rekayasa
+seperti pengukuran uji beban jembatan dan mendeteksi
+perpindahan yang disebabkan oleh suhu lingkungan
+yang berbeda. Fai S, et.al (2011) menyelidiki Building
+Information Modelling (BIM) dengan menggabungkan
+aset kuantitatif dan kualitatif, kemudian melakukan
+pemodelan dengan menggunakan perangkat lunak BIM
+untuk melihat perubahan di masa lalu dan proyeksi ke
+masa depan, serta dapat digunakan untuk pengelolaan
+bangunan cagar budaya dan lansekap (landscape).
+Gikas (2012) melakukan penelitian 3D laser scanning
+untuk dokumentasi dan pengelolaan konstruksi
+terowongan jalan raya selama pekerjaan galian, yaitu
+dengan membandingkan dan menganalisa metode
+pemindaian laser dengan teknik survey konvensional.
+Menurut Alkan dan Karsidag (2012), data yang
+diperoleh dari alat pemindai laser memiliki kualitas
+yang tinggi dan banyak digunakan diberbagai bidang,
+khususnya survey-survey yang termasuk survey
+topografi, lingkungan dan industri. Hasil pemindaian
+objek merupakan data mentah informasi spasial yaitu
+data titik-titik dalam sistem point-cloud yang berjumlah
+ribuan, kemudian diolah untuk memperoleh model
+visualisasi permukaan dijital, Digital Terrain Model
+(DTM), model kota 3D, model jalan raya, model
+saluran listrik, model objek 3D warisan budaya dan
+sejarah untuk dokumentasi, dan lain-lain. Keuntungan
+utama dari survey pemetaan menggunakan teknologi
+pemindaian laser, dapat memberikan fasilitas yang
+lengkap dalam melakukan akuisisi data dan dapat
+memberikan data secara detail dalam bentuk 3D, serta
+hasilnya dapat diperoleh dengan cepat dam biayanya
+dapat direduksi secara signifikan. Selain itu,
+membandingkan panjang sisi pada model yang
+diperoleh dari survei TLS dengan panjang sisi yang
+diperoleh dari survei dengan menggunakan alat caliper
+dalam kaitannya dengan jarak pemindaian dan intensitas,
+dan hasilnya menyatakan bahwa selisihnya
+berbanding terbalik dengan intensitas pemindaian dan
+berbanding lurus dengan jarak pemindaian.
+Tulisan ini adalah studi tentang pembuatan model 3D
+bangunan apartemen dengan metode Terrestrial Laser
+Scanning (TLS) untuk dokumentasi as-built drawing.
+As-built drawing sangat dibutuhkan untuk menentukan
+luas dan kepemilikan hak atas ruang (Hendriatiningsih,
+2012) khususnya Hak Milik Atas Satuan Rumah Susun
+(HMASRS). Dalam studi ini, jarak yang merupakan
+dimensi bangunan diukur dengan menggunakan alat
+ukur Electronic Total Station (ETS) dan hasilnya
+dianalisis dengan cara membandingkan jarak ukuran
+ETS yang dianggap benar dengan jarak yang sama pada
+pada model 3D hasil survey pemetaan 3D metode TLS.
+2. Terrestrial Laser Scanning (TLS)
+Pemindaian laser (laser scanning) adalah pemindaian
+terhadap permukaan obyek dengan menggunakan
+teknologi laser. Sedangkan Terrestrial Laser Scanning
+(TLS) adalah sebuah teknik akuisisi data spasial di
+permukaan bumi untuk memindai permukaan obyek
+dengan menggunakan sinar laser. Hasil yang diperoleh
+dari pengukuran metode TLS ini adalah point-clouds
+dalam sistem koordinat 3D. Point-clouds merupakan
+kumpulan titik-titik dalam jumlah banyak yang
+digunakan untuk pembuatan model obyek 3D. Selain
+itu, data point-clouds dapat digunakan untuk konstruksi
+dijital, penggambaran 2D, model 3D yang bermanfaat
+untuk berbagai macam aplikasi. Pada prinsipnya, sistem
+pengukuran menggunakan TLS dapat dikategorikan
+kedalam sistem pengukuran jarak. Pengolahan data
+yang diperoleh dari TLS adalah sulit, mengingat
+banyaknya point-clouds. Ada beberapa tahap pengolahan
+data yaitu registrasi (registration), filterisasi
+(filtering), geo-referensi (geo-referencing) dan
+pemodelan (modeling). Pada tahap registrasi, adalah
+menggabungkan point-clouds yang sama dari posisi
+(standpoint) yang berbeda atau pada proses registrasi
+ini adalah mengubah koordinat point-clouds sekutu
+(common point-clouds) dari posisi yang berbeda
+kedalam sistem koordinat yang sama. Pada setiap
+pemindaian dari standpoint diperoleh satu sistem
+koordinat point-clouds yang didefinisikan dalam sistem
+koordinat lokal, yaitu sistem koordinat internal dari alat
+TLS. Untuk menggabungkan posisi yang berbeda ini,
+perlu diketahui posisi standpoint dan orientasi dalam
+sistem koordinat berbagai pindaian. Secara matematis
+dapat dilakukan transformasi koordinat dari sistem
+koordinat alat TLS (Coordinate in the scanner system)
+ke sistem bersama (Coordinate in the Common system).
+Dalam studi ini, registrasi dilakukan dengan metode
+natural point feature, seperti pada Gambar 1.
+Proses filtering dilakukan untuk menghilangkan obyekobyek
+yang tidak dibutuhkan seperti pohon, manusia,
+mobil dan lain-lain. Proses filtering ini menggunakan perangkat lunak yang telah tersedia satu paket untuk
+proses pengolahan data point-clouds. Sedangkan pada
+tahap geo-referencing, diperlukan koordinat titik-titik
+tempat berdiri alat (standpoint), agar point-clouds
+berada dalam sistem koordinat baik lokal (sistem
+koordinat Nasional) ataupun global. Pada tahap
+pemodelan, dilakukan proses meshing yaitu dengan
+melakukan wrapping dimana point-clouds diproses
+menjadi bentuk Triangulated Irregular Network (TIN)
+sebagai pembungkus permukaan obyek sehingga
+diperoleh model mesh.
+2. Metode dan Hasil
+Studi ini dilakukan terhadap bangunan Apartemen
+The Suites at Metro yang posisinya di sekitar 6°56'
+Lintang Selatan (LS), 107°39' Bujur Timur (BT) di
+kota Bandung, Indonesia. Foto apartemen seperti pada
+Gambar 2.
+Spesifikasi teknis dan alat ukur TLS yang digunakan
+adalah jenis Scan Station C10 Leica, seperti pada
+Gambar 3.
+Gambar 1. Registrasi natural point feature (Sumber: Reshetyuk, 2009)
+Pertama-tama, dalam studi ini dilakukan perencanaan
+titik-titik tempat berdiri alat agar pada saat pemindaian
+terdapat titik-titik sekutu atau titik-titik yang
+bertampalan pada objek sehingga dapat melakukan
+proses registrasi untuk mendapatkan visualisasi model
+bangunan 3D. Rencana tempat berdiri alat pada lantai
+dasar (GF), lantai 1 dan lantai 2 seperti pada Gambar 4.
+Sedangkan posisi titik awal tempat berdiri alat dan
+target yang dibutuhkan untuk proses geo-referencing
+berada di luar gedung bangunan apartemen, dan
+koordinat titiknya dalam sistem koordinat proyeksi
+Transversal Mercator-3° (TM-3°) dengan menggunakan
+koordinat semu (East, North) dan tinggi ellipsoid h dari
+hasil pengukuran seperti pada Tabel 1.
+Setelah melakukan pemindaian di titik-titik yang
+direncanakan, kemudian dilakukan proses registrasi
+metode natural point feature dengan menggunakan
+perangkat lunak. Seluruh data point-clouds dihitung
+secara sekaligus sehingga diperoleh model 3D hasil
+registrasi I (secara sekaligus) seperti pada Gambar 5.
+Gambar 2. Foto Apartemen The Suites at Metro.
+
+
+Gambar 3. Spesifikasi teknis Scan Station C10 Leica
+(Sumber: Leica Geosystems AG, 2011).
+
+Gambar 4. Denah tempat berdiri alat di Lantai GF, Lantai 1 dan 2
+
+
+Dari hasil registrasi I, diperoleh error pada stasion
+13-14a yang merupakan nilai error terbesar yaitu
+14.827 m. Selain itu, ada beberapa titik lainnya yang
+error registrasinya cukup besar. Proses registrasi
+diulangi dengan cara bertahap (registrasi II), dan
+diperoleh error pada setiap tahap sebesar 0,001 m atau
+1 mm. Model 3D hasil registrasi II seperti pada
+Gambar 6, sebagai berikut:
+Gambar 6. Model 3D hasil regristrasi II
+Proses filterisasi dilakukan secara manual yaitu dengan
+melakukan identifikasi terhadap obyek-obyek yang
+tidak diperlukan seperti manusia, mobil, pohon, bangku
+dan lain-lain, kemudian dihapus. Model 3D hasil
+filterisasi, seperti pada Gambar 7, sebagai berikut :
+Gambar 7. Model ruang sesudah filterisasi
+Pada tahap geo-referensi dibutuhkan koordinat titik
+awal P25 dan titik target P24. Data tinggi titik yang
+diperoleh adalah tinggi ellipsoid yaitu tinggi titik
+terhadap bidang ellipsoid referensi, sedangkan tinggi
+titik yang akan dipakai adalah tinggi orthometrik (H)
+yaitu tinggi titik yang mengacu pada Mean Sea Level
+(MSL) atau geoid yaitu bidang ekuipotensial medan
+gayaberat bumi yang berimpit dengan muka laut ratarata
+global, yang digunakan sebagai bidang acuan
+untuk penentuan posisi vertikal atau tinggi suatu titik di
+permukaan bumi. Bidang ellipsoid dengan bidang
+geoid pada umumnya tidak berimpit, tetapi ada
+perbedaan yang disebut undulasi geoid. Nilai undulasi
+geoid di lokasi pengukuran diperoleh dari Earth
+Gravitational Model 2008 (EGM2008). Pada tahap geo
+-referensi diperlukan data masukan koordinat titik awal
+P25 dan sudut jurusan titik P25 ke P24 dan tinggi
+orthometrik (H), seperti pada Tabel 2 sebagai berikut:
+No
+Titik
+Koordinat
+Tinggi
+ellipsoid
+h(m)
+Undulasi
+geoid
+(m)
+Tinggi
+Ortho
+metrik
+H(m)
+East
+E(m)
+North
+N(m)
+P25
+328102,
+658
+732691,
+476
+699,273 22,152 677,121
+Sudut jurusan P25_P24
+(µP25_P24)
+20° 21' 10"
+Tabel 2. Data masukan (input)
+Visualisasi model 3D yang bergeo-referensi masih tetap
+seperti model 3D hasil filterisasi, hanya sistem
+koordinat model 3D sudah dalam sistem koordinat
+proyeksi TM-3° dan tinggi orthometrik.
+Model ruang atau model 3D yang disajikan merupakan
+model mesh, yaitu dengan melakukan wrapping dan
+hasilnya seperti Gambar 8, sebagai berikut:
+Gambar 8. Model mesh bangunan
+Selain bentuk bangunan model 3D, pada as-built
+drawing bangunan dibutuhkan dimensi ukuran
+bangunan. Pada studi ini dilakukan pengukuran jarak
+pada model mesh dimana jarak tersebut adalah jarak
+yang sama di lapangan dan diukur dengan
+menggunakan alat ukur Electronic Total Station (ETS),
+dan diasumsikan bahwa ukuran jarak ETS dianggap
+benar. Sampel jarak pada model mesh seperti pada
+Gambar 9, sebagai berikut:
+
+Hasil ukuran jarak menggunakan alat ukur ETS dan
+jarak rata-rata pada model mesh yang diukur 10 kali,
+seperti pada Tabel 3, sebagai berikut :
+No Jarak Di Lapangan
+(m)
+Di
+Model mesh
+(m)
+1 D322-D323 0,232 0,231 ± 0,001
+2 D323-D324 0,902 0,902 ± 0,002
+3 D327-D302 0,678 0,678 ± 0,002
+4 D302-D303 0,148 0,149 ± 0,002
+Tabel 3. Ukuran jarak sampel
+4. Analisis dan Pembahasan
+Pada registrasi I, diperoleh error terbesar pada station 13
+-14a yaitu sebesar 14,872 m, artinya dalam memilih
+natural point feature yang dipakai sebagai titik-titik
+sekutu, tidak akurat atau point-clouds yang digunakan
+sebagai titik sekutu bukan titik-titik yang sama pada
+obyek yang bertampalan. Pada dasarnya akibat dari
+divergensi sinar laser, maka terjadi perbedaan dan dapat
+mencapai beberapa millimeter hingga sentimeter.
+Besarnya error registrasi mengakibatkan orientasi dan
+bentuk yang berbeda dengan keadaan nyata di lapangan.
+Error registrasi yang besar dapat diatasi dengan memilih
+ulang titik-titik ikat pada obyek yang bertampalan hingga
+mendapatkan error registrasi yang tidak melebihi akurasi
+penentuan posisi sebesar 6 mm (dari spesifikasi alat).
+Proses registrasi ini harus dilakukan dengan hati-hati dan
+teliti, sehingga membutuhkan waktu yang cukup lama.
+Dalam studi ini, error registrasi diatasi dengan
+melakukan registrasi secara bertahap, yaitu dengan
+membagi seluruh data menjadi Per bagian. Tahap
+registrasi II ini diselesaikan dalam 6 tahap, sehingga
+error registrasi yang diperoleh tidak melebihi 6 mm.
+Keuntungan pada cara bertahap ini adalah setelah
+mendapatkan error registrasi pada setiap tahap, dapat
+langsung diketahui apakah perlu diulang pada tahap
+tersebut atau dapat dilanjutkan pada tahap berikutnya,
+sehingga tidak perlu dilakukan proses pengulangan
+dengan menggunakan seluruh data point-clouds.
+Dimensi jarak pada model mesh diukur sebanyak 10
+kali, kemudian dilakukan uji statistik dengan tingkat
+kepercayaan 95%. Hasil yang diperoleh, bahwa jarak
+D322-D323, jarak D323-D324, jarak D327-D302 dan
+jarak D302-D303 tidak berada pada daerah penolakan.
+Hipotesa nol untuk jarak-jarak tersebut tidak ditolak,
+artinya jarak ukuran pada model mesh sama dengan
+jarak ukuran yang dianggap benar yaitu jarak yang
+diukur dengan menggunakan alat ukur ETS. Perbedaan
+ukuran jarak tersebut memiliki rentang milimeter yang
+masih dalam batas toleransi, artinya dimensi ukuran
+dari model mesh merupakan dimensi ukuran fisik
+bangunan.
+5. Kesimpulan
+Dari hasil studi survey pemetaan bangunan 3D dengan
+menggunakan teknik Terrestrial Laser Scanning, dapat
+disimpulkan bahwa :
+1. Survey menggunakan TLS dapat membentuk model
+bangunan 3D dan model bangunan 3D ini dapat
+dipakai sebagai dokumentasi as-built drawing.
+2. Proses registrasi dapat dilakukan secara bertahap,
+agar error registrasi tidak melebihi ketelitian penentuan
+posisi yang terdapat pada spesifikasi alat yang
+digunakan. Walaupun memakan waktu, akan tetapi
+tidak harus memproses keseluruhan data pointclouds
+yang berjumlah ribuan/jutaan.
+3. Tinggi titik di lokasi pengukuran, lebih baik
+menggunakan tinggi orthometrik yang mengacu
+pada Mean Sea Level (MSL) agar dapat mengetahui
+apakah daerah tersebut termasuk daerah banjir atau
+tidak, sehingga akan memberikan manfaat bagi para
+pengguna (pembeli) apartemen.
+4. Jarak ukuran pada model sama dengan jarak ukuran
+di lapangan, oleh karena itu dimensi jarak pada
+model 3D bangunan dapat digunakan sebagai dokumentasi
+as-built drawing.
+5. As-built survey dapat dilakukan dengan teknik
+survey pemetaan 3D metode Terrestrial Laser
+Scanning.

@@ -1,0 +1,298 @@
+﻿ABSTRAK
+ANALISIS FAKTOR YANG MEMPENGARUHI PARTISIPASI DAN NILAI
+PENAWARAN PESERTA LELANG ELEKTRONIK (E-PROCUREMENT)
+JASA KONSTRUKSI DI KABUPATEN BULELENG
+Mulai tahun 2012 pelaksanaan pengadaan barang/jasa pemerintah di
+Kabupaten Buleleng dilakukan secara elektronik (e-procurement) dengan tata cara
+e-tendering. Dalam pelaksanaannya partisipasi dan nilai penawaran peserta lelang
+cenderung menurun baik pada saat lelang konvensional maupun pada saat lelang
+elektronik.
+Penelitian ini bertujuan untuk mengetahui faktor apa saja yang mempengaruhi
+partisipasi dan nilai penawaran peserta lelang elektronik jasa konstruksi di
+Kabupaten Buleleng, dan faktor apa yang pengaruhnya paling dominan.
+Sampel yang digunakan dalam penelitian ini sebanyak 53 kontraktor di
+Kabupaten Buleleng, anggota asosiasi GAPENSI yang pernah mengikuti lelang
+elektronik. Pengambilan sampel dilakukan dengan menggunakan teknik nonprobability
+sampling dengan purposive sampling dan pengumpulan datanya
+menggunakan kuesioner dan wawancara. Analisis data dilakukan dengan analisis
+faktor.
+Hasil penelitian dengan analisis faktor membentuk 11 faktor baru yang
+berpengaruh terhadap partisipasi peserta lelang dengan komulatif variance
+79,198%, yang terbentuk dari 42 variabel. Kesebelas faktor tersebut merupakan
+peringkat yang mempengaruhi partisipasi sesuai hasil pembahasan yang dinamai
+faktor I, faktor II, faktor III dan seterusnya sampai dengan faktor XI. Faktor I
+merupakan faktor yang pengaruhnya paling dominan dengan eigenvalues sebesar
+20,738 dan variance 42,323% terbentuk oleh 11 variabel yaitu, lokasi proyek, besar
+nilai proyek/HPS, keamanan lingkungan proyek, mulai proyek mendekati akhir
+tahun, tanpa tatap muka meminimalkan peluang kolusi, korupsi dan nepotisme,
+jangka waktu pelaksanaan akses jalan menuju lokasi proyek, pelaksanaan saat
+musim hujan, syarat sertifikat ISO, syarat dukungan keuangan bank dan variabel
+penyelenggara lelang. Sedangkan analisis faktor yang mempengaruhi nilai
+penawaran peserta lelang menghasilkan 10 faktor baru dengan komulatif variance
+78,925%, yang terbentuk dari 43 variabel. Kesepuluh faktor tersebut merupakan
+peringkat yang mempengaruhi nilai penawaran sesuai hasil pembahasan yang
+dinamai faktor I, faktor II, faktor III dan seterusnya sampai dengan faktor X. Faktor
+yang pengaruhnya paling dominan adalah faktor I dengan eigenvalues sebesar
+22,756 dan variance 47,409% terbentuk oleh sembilan variabel yaitu, fluktuasi
+harga material, tingkat pengembalian investasi, fluktuasi kurs mata uang asing
+(dolar), akses jalan menuju lokasi proyek, peluang memperoleh proyek lebih besar,
+resiko berinvestasi, tingkat inflasi, biaya lebih hemat tanpa biaya cetak dokumen
+dan biaya transportasi dan kemampuan dalam estimasi penawaran.
+Kata kunci: partisipasi, pilai penawaran, e-procurement, pekerjaan konstruksi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BAB I
+PENDAHULUAN
+1.1 Latar Belakang
+Pengadaan merupakan suatu kegiatan yang berkaitan dengan
+pemenuhan/penyediaan sumber daya (barang atau jasa) pada suatu proyek tertentu.
+Pengadaan barang/jasa atau yang lebih dikenal dengan lelang (procurement) telah
+banyak dilakukan oleh semua pihak baik dari pemerintah maupun swasta.
+Pengadaan barang/jasa pemerintah adalah kegiatan untuk memperoleh barang/jasa
+oleh Kementerian/Lembaga/Satuan Kerja Perangkat Daerah/Institusi (K/L/D/I)
+yang prosesnya dimulai dari perencanaan kebutuhan sampai diselesaikannya
+seluruh kegiatan untuk memperoleh barang/jasa.
+Pemerintah mengatur tentang pengadaan barang/jasa yang dituangkan ke
+dalam Peraturan Presiden (Perpres) nomor 70 tahun 2012, yang merupakan
+perubahan kedua dari Perpres nomor 54 tahun 2010. Menurut Perpres nomor 70
+tahun 2012, pengadaan barang/jasa pemerintah dapat digolongkan menjadi
+pengadaan barang, pengadaan jasa konsultansi, pekerjaan konstruksi dan
+pengadaan jasa lainnya. Perpres nomor 70 tahun 2012 tentang pengadaan
+barang/jasa pemerintah mengamanatkan bahwa semua proses pengadaan
+barang/jasa pemerintah menerapkan prinsip-prinsip efisien, efektif, transparan,
+terbuka, bersaing, adil/tidak diskriminatif dan akuntabel, sehingga nanti dapat
+diperoleh penyedia barang/jasa yang mempunyai kualifikasi dan diharapkan
+mampu menyediakan barang/jasa sesuai dengan spesifikasi yang disyaratkan.
+Selama ini proses pengadaan barang/jasa dilakukan dengan cara
+konvensional dimana langsung mempertemukan pihak pihak yang terkait dalam
+pengadaan seperti penyedia barang/jasa dan pengguna barang/jasa. Pengadaan yang
+dilakukan secara konvensional dinilai memiliki beberapa kelemahan yang banyak
+merugikan seperti mudahnya korupsi, kolusi dan nepotisme (KKN) berkembang,
+serta kurang transparan (Lubis, 2006). Pengadaan konvensional juga membutuhkan
+waktu yang lama, sehingga dipandang menyia-nyiakan waktu dan biaya, kurangnya
+informasi serta kompetisi yang kurang sehat yang berakibat terhadap kualitas
+pengadaan, sering terjadi eksklusi terhadap penyedia barang/jasa potensial dan
+pemberian hak khusus terhadap penyedia barang/jasa tertentu.
+Dalam usaha untuk mengatasi kelemahan - kelemahan dan kesulitan dalam
+proses pengadaan serta untuk lebih meningkatkan transparansi dan akuntabilitas,
+akses pasar dan persaingan usaha yang sehat, memperbaiki tingkat efisiensi proses
+pengadaan, mendukung proses monitoring dan audit serta memenuhi akses
+informasi yang real time maka dilakukanlah pengadaan barang/jasa pemerintah
+secara elektronik (e-procurement) yang dilakukan dengan cara e-tendering yaitu
+tata cara pemilihan penyedia barang/jasa yang dapat diikuti oleh penyedia
+barang/jasa yang terdaftar pada sistem pengadaan secara elektronik dengan cara
+menyampaikan satu kali penawaran dalam waktu yang telah ditentukan. Proses
+pengadaan barang dan jasa dengan sistem elektronik memanfaatkan penggunaan
+internet sebagai sarana informasi dan komunikasi. Dengan sistem lelang elektronik
+ini, maka intensitas pertemuan antara panitia/kelompok kerja pengadaan dengan
+penyedia barang/jasa atau peserta lelang dapat diminimalisir.
+Sesuai dengan Instruksi Presiden (Inpres) nomor 17 Tahun 2011 tentang
+percepatan pemberantasan korupsi yang mewajibkan sekurang-kurangnya 40%
+belanja Pemerintah Daerah (Provinsi/Kabupaten/Kota) yang dipergunakan untuk
+pengadaan barang/jasa dengan nilai pengadaan di atas Rp. 200.000.000,- (dua ratus
+juta rupiah) untuk pengadaan barang, pengadaan konstruksi dan jasa lainnya serta
+diatas Rp. 50.000.000,- (lima puluh juta rupiah) untuk pengadaan jasa konsultansi
+mulai tahun 2012 wajib menggunakan Sistem Pengadaan Secara Elektronik (SPSE)
+melalui unit kerja khusus Layanan Pengadaan Secara Elektronik (LPSE) sendiri
+atau yang terdekat. Untuk memenuhi Inpres nomor 17 Tahun 2011, pada bulan
+agustus tahun 2012 pemerintah Kabupaten Buleleng sudah membentuk LPSE
+sendiri untuk menyelenggarakan pengadaan barang/jasa pemerintah di lingkungan
+pemerintah Kabupaten Buleleng secara elektronik.
+Data yang tercatat dan dikumpulkan pada instansi teknis di Kabupaten
+Buleleng saat lelang dilaksanakan secara konvensional, pada tahun anggaran 2011
+terdapat 44 paket pekerjaan konstruksi yang dilelangkan dengan jumlah peserta
+yang memasukkan penawaran sebanyak 229 penyedia jasa konstruksi yang
+selanjutnya disebut kontraktor dari 389 pendaftar (60,32%). Rata-rata harga
+penawaran pemenang adalah 93,06% terhadap Harga Perkiraan Sendiri (HPS),
+dengan jumlah pemenang yang menawar di bawah 80% HPS terdapat empat paket
+pekerjaan (9,09%), dan tidak terdapat paket yang gagal lelang akibat rendahnya
+partisipasi yang disebabkan kurang dari tiga peserta. Pada tahun anggaran 2012
+saat masih menggunakan lelang konvensional, sampai bulan Juli terdapat 62 paket
+pekerjaan konstruksi yang dilelangkan dengan jumlah peserta yang memasukkan
+penawaran sebanyak 416 kontraktor dari 762 pendaftar (58,67%). Rata-rata harga
+penawaran pemenang adalah 90,10% HPS, dengan jumlah pemenang yang
+menawar di bawah 80% HPS terdapat tujuh paket pekerjaan (11,29%). Dari jumlah
+paket tersebut yang dilelangkan terdapat dua paket pekerjaan yang gagal lelang
+akibat rendahnya partisipasi yang disebabkan kurang dari tiga peserta.
+Untuk pekerjaan konstruksi yang dilelangkan secara elektronik, data yang
+tercatat pada LPSE Kabupaten Buleleng pada tahun anggaran 2012 dari bulan
+Agustus sampai bulan Desember terdapat 22 paket pekerjaan konstruksi yang
+dilelangkan secara elektronik dengan jumlah peserta yang memasukkan penawaran
+sebanyak 112 kontraktor dari 311 pendaftar (41,56%). Rata-rata harga penawaran
+pemenang adalah 88,92% HPS, dengan jumlah pemenang yang menawar di bawah
+80% HPS terdapat enam paket pekerjaan (27,27%). Dari jumlah paket tersebut
+yang dilelangkan terdapat dua paket pekerjaan yang gagal lelang akibat rendahnya
+partisipasi yang disebabkan kurang dari tiga peserta. Pada tahun anggaran 2013
+terdapat 59 paket pekerjaan konstruksi yang dilelangkan secara elektronik dengan
+jumlah peserta yang memasukkan penawaran sebanyak 269 kontraktor dari 949
+pendaftar (28,35%), Rata-rata harga penawaran pemenang adalah 83,55% HPS,
+dengan jumlah pemenang yang menawar di bawah 80% HPS terdapat 23 paket
+pekerjaan (38,89%). Dari paket tersebut yang dilelangkan terdapat 10 paket
+pekerjaan yang gagal lelang akibat rendahnya partisipasi yang disebabkan kurang
+dari tiga peserta. Dari keseluruhan paket tersebut, baik yang berupa lelang
+konvensional maupun yang sudah menggunakan lelang elektronik jumlah
+kontraktor yang mendaftar, yang berpartisipasi menjadi peserta lelang dan
+memasukkan penawaran, nilai penawaran pemenang lelang serta pemenang dengan
+penawaran di bawah 80% HPS seperti pada Tabel 1.1.
+
+
+
+
+
+
+
+
+Tabel 1.1
+Data paket pekerjaan konstruksi
+dengan lelang konvensional dan lelang elektronik di Kabupaten Buleleng
+No Uraian
+Konvensional Elektronik
+2011 Jan s/d
+Juli
+Agst s/d
+Des
+2013
+1 Jumlah paket kegiatan pekerjaan
+konstruksi
+44 62 22 59
+2 Jumlah yang mendaftar lelang 389 762 311 949
+3 Jumlah peserta yang memasukkan
+penawaran
+229 416 112 269
+4 Persentase peserta yang memasukkan
+penawaran terhadap pendaftar
+60,32% 58,67% 41,56% 28,35%
+5 Persentase nilai penawaran
+pemenang rata-rata terhadap HPS
+93,02% 90,01% 88,92% 83,55 %
+6 Jumlah paket dengan pemenang di
+bawah 80 % HPS
+4 7 6 23
+7 Persentase paket dengan pemenang
+di bawah 80 % HPS terhadap jumlah
+paket
+9,09% 11,29% 27,27% 38,98 %
+8 Rentang nilai penawaran pemenang
+di bawah 80% HPS
+72,61%
+s/d
+77,95%
+70,49%
+s/d
+78,73%
+68,67%
+s/d
+79,99%
+62,92%
+s/d
+79,95%
+9 Jumlah paket gagal lelang 0 2 2 10
+10 Persentase paket gagal lelang
+terhadap jumlah paket
+0% 3,23% 9,09% 16,95%
+(Sumber : Data diolah, 2014)
+
+
+
+
+
+
+
+
+
+
+Data lelang konvensional menunjukkan partisipasi kontraktor memasukkan
+penawaran mengalami sedikit penurunan yaitu 60,32% pada tahun 2011, menjadi
+58,67% sampai bulan juli pada tahun 2012. Partisipasi kontraktor memasukkan
+penawaran terlihat mengalami penurunan yang lebih besar saat sudah
+menggunakan lelang elektronik, data dari bulan agustus sampai desember pada
+tahun 2012 menunjukkan partisipasi sebesar 41,56% dan menjadi 28,35% pada
+tahun 2013. Nilai penawaran pemenang lelang terhadap HPS juga terlihat menurun,
+baik saat lelang konvensional maupun lelang elektronik. Saat lelang konvensional
+pada tahun 2011 nilai penawaran rata-rata pemenang terhadap HPS sebesar 93,02%
+HPS menjadi 90,01% HPS sampai bulan juli pada tahun 2012. Saat lelang
+elektronik dari bulan agustus sampai desember pada tahun 2012 nilai penawaran
+rata-rata 88,92% HPS menjadi 83,55% HPS di tahun 2013.
+Kondisi ini berdampak terhadap keseluruhan proses lelang dan proses
+pelaksanaan seperti; resiko terjadinya gagal lelang dimana tahun 2011 tidak
+terdapat gagal lelang menjadi 10 paket yang gagal lelang pada tahun 2013 akibat
+jumlah peserta yang memasukkan penawaran kurang dari tiga, berkurangnya waktu
+pelaksanaan konstruksi akibat gagal lelang, berkurangnya pilihan dari pengguna
+barang/jasa terhadap calon pemenang lelang yang potensial untuk memperoleh
+penyedia jasa yang terbaik dan berkualitas, mengurangi kualitas konstruksi dimana
+pada tahun 2013 terdapat tiga kontraktor yang di masukkan daftar hitam (black list)
+karena meninggalkan pekerjaan sebelum selesai, banyak kontraktor yang
+mengalami kerugian akibat penawaran yang terlalu rendah dan tidak tertutup
+kemungkinan akan berujung pada kasus hukum jika penawaran di bawah 80% HPS
+(forum lintas rekanan pengadaan barang dan jasa konstruksi, 2013), karena
+dikhawatirkan kualitas konstruksi yang tidak sesuai dengan spesifikasi teknis.
+Berdasarkan permasalahan rendahnya partisipasi dan nilai penawaran
+terhadap HPS pada lelang elektronik jasa konstruksi di Kabupaten Buleleng, maka
+perlu dilakukan penelitian untuk menganalisis faktor-faktor yang mempengaruhi
+partisipasi dan nilai penawaran peserta lelang elektronik jasa konstruksi di
+Kabupaten Buleleng.
+
+1.2 Rumusan Masalah
+Berdasarkan latar belakang masalah, dapat dirumuskan pokok masalah
+penelitian ini adalah :
+1. Faktor-faktor apa saja yang mempengaruhi partisipasi peserta lelang elektronik
+pekerjaan jasa konstruksi di Kabupaten Buleleng.
+2. Faktor apa yang dominan mempengaruhi partisipasi peserta lelang elektronik
+pekerjaan jasa konstruksi di Kabupaten Buleleng.
+3. Faktor-faktor apa saja yang mempengaruhi nilai penawaran peserta lelang
+elektronik pekerjaan jasa konstruksi di Kabupaten Buleleng
+4. Faktor apa yang dominan mempengaruhi nilai penawaran peserta lelang
+elektronik pekerjaan jasa konstruksi di Kabupaten Buleleng.
+1.3 Tujuan Penelitian
+Sesuai dengan rumusan masalah, maka tujuan dari penelitian ini adalah:
+1. Mengetahui faktor-faktor yang mempengaruhi partisipasi peserta lelang
+elektronik pekerjaan jasa konstruksi di Kabupaten Buleleng
+2. Mengetahui faktor-faktor dominan yang mempengaruhi partisipasi peserta
+lelang elektronik pekerjaan jasa konstruksi di Kabupaten Buleleng.
+3. Mengetahui faktor-faktor yang mempengaruhi nilai penawaran peserta lelang
+elektronik pekerjaan jasa konstruksi di Kabupaten Buleleng.
+4. Mengetahui faktor-faktor dominan yang mempengaruhi nilai penawaran
+peserta lelang elektronik pekerjaan jasa konstruksi di Kabupaten Buleleng.
+
+1.4 Manfaat Penelitian
+Penelitian ini diharapkan dapat memberikan manfaat sebagai berikut :
+1. Sebagai bahan evaluasi dan strategi bagi kontraktor yang akan mengikuti
+proses lelang secara elektronik paket pekerjaan jasa konstruksi.
+2. Sebagai bahan informasi dan evaluasi bagi pemerintah dalam proses
+pengadaan secara elektronik.
+3. Sebagai referensi untuk penelitian-penelitian selanjutnya.
+1.5 Batasan Masalah
+Agar penelitian terarah dan tidak terlalu meluas, maka dalam penelitian ini
+penulis memberikan batasan permasalahan :
+1. Sampel penelitian dilakukan pada kontraktor yang tergabung pada asosiasi
+Gabungan Pelaksana Konstruksi Nasional Indonesia (GAPENSI) di Kabupaten
+Buleleng, yang pernah mengikuti lelang elektronik.
+2. Dalam penelitian ini tidak meninjau korelasi antara partisipasi dengan nilai
+penawaran peserta lelang.

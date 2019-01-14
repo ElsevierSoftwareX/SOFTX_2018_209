@@ -1,0 +1,35 @@
+﻿Multivariate merupakan metode analisis statistik yang memungkinkan untuk melakukan penelitian terhadap lebih dari dua variabel yang saling berkorelasi secara bersamaan. Salah satu analisis multivariate yang sering digunakan untuk menganalisis hubungan antar variabel pada bidang pendidikan adalah Analsis Faktor, yaitu untuk menunjukkan apakah terjadi reduksi variabel teramati (observable variable) menjadi variabel baru yang jumlahnya lebih sedikit dari jumlah variabel sebelumnya. Tujuan dari penelitian ini adalah untuk menduga loading faktor pada masalah penilaian sikap di bidang pendidikan pada sikap Spiritual, perilaku Jujur, Disiplin, Tanggungjawab, Gotongroyong, Kerjasama, Toleransi, Damai, Santun, Responsif dan Proaktif. Pada penelitian ini dibandingkan performan dari Metode Komponen Utama dan Metode Maksimum Likelihood. Hasilnya dengan memperhatikan hasil dari analisis data dari Metode Komponen Utama dan Metode maksimum Likelihood pada keluaran R dan Minitab baik sebelum rotasi maupun setelah rotasi melalui pemilihan rotasi orthogonal Varimax dan Rotasi Non-Orthogonal Promax disimpulkan terbentuk dua faktor yaitu Faktor 1 sebagai Komponen Sikap Spiritual dan Faktor 2 sebagai Komponen Sikap Sosial.
+Kata kunci : Analisis Faktor, Metode Komponen Utama, Metode Maksimum Likelihood, Rotasi Orthogonal Varimax, Rotasi Non-Orthogonal Promax.
+
+I. PENDAHULUAN
+1.1 Latar Belakang dan Masalah
+Multivariat merupakan metode analisis statistik yang memungkinkan untuk
+melakukan penelitian terhadap lebih dari dua variabel yang saling berkorelasi
+secara bersamaan. Salah satu bentuk pengamatan analisis multivariate yaitu
+kelompok variabel-variabel sikap seperti sikap spiritual, perilaku-perilaku jujur,
+disiplin, tanggungjawab, peduli gotongroyong, kerjasama, toleran, damai, santun,
+responsif dan proaktif dinyatakan sebagai   1 2 , ,..., p X  X X X sebanyak p
+variabel dari sejumlah n individu dalam suatu penelitian yang dapat pula
+dinyatakan dalam bentuk matriks sebagai berikut:
+
+Keterukuran baris ke-i yaitu 1 2 , ,..., i i ip X X X sebagai pengukuran pada unit yang
+sama yang berkorelasi, dapat pula dinyatakan sebagai vektor kolom yaitu,
+Dimana i X sebagai pengamatan multivariate. n baris pada matriks X sesuai
+dengan n individu multivariat dan dalam setiap i X biasanya berkorelasi. Antar
+kolom 1 2 , ,..., p X X X memungkinkan terjadinya korelasi dan memungkinkan pula
+tidak terjadi korelasi.
+Analisis faktor merupakan analisis interdependensi sebagai salah satu teknik
+analisis multivariat yang berfungsi untuk memberikan makna terhadap
+seperangkat variabel atau membuat kelompok- kelompok secara bersama-sama.
+1.2 Ruang Lingkup
+Menganalisis lebih lanjut keterkaitan antar p variabel pengamatan yang mewakili
+varaiabel-variabel sikap seperti sikap spiritual yang mengacu pada menghayati
+dan mengamalkan ajaran agama yang dianutnya dan menghyati dan mengamalkan
+perilaku-perilaku (jujur,disiplin, tanggungjawab, peduli (gotongroyong,
+kerjasama, toleran, damai), santun, responsif dan proaktif, sebagai variabelvariabel
+yang digunakan dalam penelitian ini.
+
+1.3 Tujuan Penelitian
+Tujuan penelitian menganalisis lebih lanjut untuk menunjukkan terjadinya reduksi variabel teramati (observable variable) menjadi variabel baru yang jumlahnya lebih sedikit melalui Analisis Faktor. Pada masalah penilaian sikap membandingkan performan Metode Komponen Utama (Principal Component Method) dan Metode Kemungkinan Maksimum (Maximum Likelehood Method) lalu membandingkan hasil rotasi faktor melalui rotasi orthogonal Varimax dan rotasi non-orthogonal Promax.
+1.4 Kegunaan Penelitian
+Sebagai salah satu bentuk implementasi dalam menyelesaikan permaslahan pengamatan data multivariable.

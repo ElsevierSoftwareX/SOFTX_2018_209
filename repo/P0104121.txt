@@ -1,0 +1,123 @@
+﻿Pengembangan Standard Empiris Efikasi Penerangan Listrik Untuk Mendukung Perhitungan Cepat Dalam Perancangan Instalasi Listrik
+
+Intisari—Standard empiris efikasi penerangan listrik yang cocok dengan kawasan tropis diperlukan dalam desain untuk mendukung perhitungan cepat pengambilan keputusan, yaitu segera bisa memberi informasi tentang peralatan, teknologi, kebutuhan daya listrik dan biaya yang diperlukan serta pertimbangan wawasan hemat energi seiring dengan pengembangan konsep ”green building”. Kegiatan penelitian meliputi survei instalasi penerangan gedung berbagai dekade di lingkungan UGM, untuk mengukur intensitas penerangan, luas ruangan, kenyamanan selera dalam berbagai kegiatan. Terakhir, kegiatan uji sampel lampu penerangan, untuk menemukan jenis lampu yang mempunyai efisiensi tinggi. Berbasis parameter pioritas dapat dibuat standard empiris efikasi peralatan penerangan, dalam rentang efikasi 6 status, yaitu: 1. buruk (< 2W/m2), 2. sangat hemat (antara 2W/m2 dan 3W/m2), 3. hemat (antara 3W/m2 dan 7,5W/m2), 4. ideal (antara 7,5W/m2 dan 11W/m2), 5. mewah (antara 11W/m2 dan 15W/m2 atau 6. boros (>15W/m2). Dengan harapan hasil penelitian ini bisa digunakan untuk membantu menyelesaikan persoalan waktu desain instalasi listrik.
+Kata Kunci—Standard Empiris, Perhitungan Cepat, Perancangan instalasi.
+I. PENDAHULUAN A. Latar Belakang Permasalahan Desain instalasi penerangan/pencahayaan, terkait dengan asal sumber cahaya, dibedakan antara pencahayaan alami dan pencahayaan buatan. Pencahayaan alami, yaitu pencahayaan menggunakan cahaya/sinar matahari, sedang-kan pencahayaan buatan menggunakan lampu sebagai sumber cahaya. Perhatikan Gbr. 1 contoh obyek dengan dan tanpa pencahayaan. Pencahayan alami bisa menggunakan jendela, lubang ventilasi cahaya atau kolektor cahaya, disalurkan ke dalam ruangan seolah-olah sebagai sumber cahaya, seperti terlihat pada Gbr. 2. Cahaya alami hanya bisa dinikmati siang hari, sedangkan untuk keperluan pencahayaan di malam hari tetap menggunakan cahaya buatan. Pencahayaan buatan yang dihasilkan oleh lampu listrik, sangat berguna terutama saat tidak tersedia cahaya alami siang hari, tidak tersedia cukup cahaya matahari misal saat mendung, saat diperlukan cahaya merata di ruangan berukuran besar, saat diperlukan intensitas cahaya yang konstan (contoh: ruang operasi), atau untuk fungsi khusus misal ruang pameran, inkubator, untuk estetika ruangan [3] [4].
+
+Dari segi pengarahan cahaya, pencahayaan dibagi dua, yaitu pencahayaan langsung (direct lighting) dengan mengarahkan sinar langsung ke bidang kerja atau obyek. Pencahayaan tak langsung (indirect lighting) dengan cara memantulkan sinar lebih dulu (misalnya ke langit-langit atau ke dinding), baru sinar pantulannya kena obyek.
+
+
+Sehubungan dengan ini dikenal beberapa model dudukan
+lampu atau socket atau rumah lampu (armature). Pengarahan
+Cahaya pada beberapa referensi seperangkat lampu, soket,
+tudung, tombol, dan balast dalam satu paket rumah lampu
+disebut sebagai luminer (luminaire), di sebagian buku
+referensi, lampu dan luminer (soket, rumah, tudung, dan balast)
+dipisahkan dan keduanya disebut fixture [1][3].
+Di dalam proses perancangan / desain instalasi listrik, baik
+penentuan dan pemilihan komponen jaringan instalasi listrik
+maupun peralatan listrik, terlalu banyak parameter yang
+mengekang dan harus diperhitungkan, baik parameter di
+bidang listrik, mekanik, arsitek, maupun kenyamanan selera
+berbasis budaya [1]. Di dalam kehidupan praktis, khususnya
+di dalam desain instalasi penerangan listrik, sering dihadapkan
+dengan dua masalah besar, yaitu kecepatan (perhitungan cepat)
+pengambilan keputusan kebutuhan biaya investasi, untuk
+segera bisa memberi informasi tentang peralatan, teknologi,
+kebutuhan daya listrik dan biaya yang diperlukan serta
+pertimbangan wawasan hemat energi seiring dengan
+pengembangan konsep ”green building”[2][4]. Penggunaan
+cahaya alami lebih diutamakan dari pada cahaya buatan. [3][4]
+Di dalam dunia desain sering dikenal tiga istilah, yaitu
+efisiensi, efektivitas dan efikasi sebagai tolok atau indikator
+keberhasilan. Efisiensi adalah relasi nilai keluaran terhadap
+nilai masukan dalam satuan yang sama, misal watt/watt,
+efektivitas adalah relasi nilai keluaran terhadap nilai masukan
+dalam satuan yang berbeda, misal watt/mahasiswa untuk
+mengukur kebutuhan daya penerangan listrik di kampus,
+sedangkan efikasi merupakan relasi nilai keluaran
+terhadap nilai masukan dalam satuan desain, misal
+lumen/m2, lux/m2 atau watt/m2[4].
+Standard desain instalasi umumnya masih mengacu kepada
+standard desain international dari negara maju yang berada di
+belahan dunia kawasan subtropis. Standard tersebut jika
+langsung diterapkan di daerah tropis, harus dilakukan
+beberapa pertimbangan penyesuaian. Sementara itu standard
+SNI juga masih mengacu standard international, kurang
+mengadopsi penelitian di daerah tropis.[2]
+Sementara itu di lingkungan UGM terdapat atau memiliki
+berbagai gedung yang dibangun dan telah berumur puluhan
+tahun yang dapat diklasifikasikan dekade 80 (1980 sd. 1989
+dan sebelum tahun 1980), dekade 90 (1990 sd. 1999), dekade
+2000 (2000 sd. 2009), terakhir dekade 2010 (2010 sd. 2019).
+Kondisi ini sangat bagus sebagai model yang dianggap
+mempunyai sejarah desain. Dari berbagai dekade gedung
+tersebut, perlu disurvei untuk mendapatkan informasi efikasi
+penerangan. Selanjutnya juga perlu disurvei konsumen
+pengguna gedung untuk mendapatkan informasi kenyamanan
+selera terhadap kebutuhan intensitas penerangan.
+Oleh karena berbasis parameter pioritas perhitungan efikasi
+dari penelitian inilah perlu dibuat standard empiris efikasi
+peralatan, yang telah memperhatikan berbagai pertimbangan
+kondisi tropis. Dengan harapan hasil penelitian ini bisa
+membantu persoalan waktu desain instalasi listrikm sesuai
+kondisi tropis.
+II. STANDARD EMPIRIS
+Prinsip pembuatan standard empiris efikasi peralatan
+penerangan seperti skema blok berikut:
+Prinsip kerja pembuatan standard empiris efikasi peralatan
+penerangan (1) melakukan survei dan pengukuran intensitas
+penerangan dan luas ruang di berbagai fungsi kegiatan pada
+gedung berbagai decade di UGM, untuk memperoleh nilai
+efikasi penerangan, dengan satuan W/m2. (2) melakukan
+survei tingkat kenyamanan selera intensitas pencahayaan dari
+kalangan karyawan, dosen, dan mahasiswa maupun publik
+(jika perlu), (3) melakukan uji sampel lampu terpilih berdasar
+perkembangan teknologi, untuk mendapatkan jenis lampu
+yang berefisiensi tinggi, guna mendukung hemat energi,
+degan satuan lm/W. Selanjutnya dilakukan (4) pengolahan
+data, untuk mendapatkan kesimpulan pembuatan standard
+empiris efikasi peralatan penerangan, dalam 6 kawasan
+efikasi berstatus buruk, sangat hemat, hemat, ideal, mewah,
+boros. Dengan harapan hasil penelitian ini bisa membantu
+persoalan waktu desain instalasi listrik.
+III. METODOLOGI
+Bahan yang digunakan dalam penelitian ini adalah lampu
+T5, Lampu T54, Lampu T8, dan Lampu Te LED masingmasing
+satu unit. Sedangkan alat-alat yang digunakan dalam
+penelitian ini adalah Luxmeter, Multimeter Digital, satu
+berkas Borang Kenyamanan Selera, serta buku-buku referensi
+tentang penerangan. Skema rangkaian sistem terlihat seperti
+pada Gbr. 3.
+
+Survei tingkat pencahayaan berbagai gedung yang ada berdasar dekade, untuk memperoleh nilai efikasi penerangan. Penelitian ini dilakukan dengan cara memilih gedung yang mewakili dekade, diambil sampel parsial dari ruang kuliah dengan luasan 7,2 x 7,2 m2 (mewakili satuan luas standard berdasar struktur kolom / pilar beton), dihitung wattage lampu yang terpasang..
+Survei tingkat kenyamanan selera intensitas pencahayaan dari kalangan karyawan, dosen, dan mahasiswa maupun publik.. Penelitian ini dilakukan dengan cara memberikan angket untuk menjaring kenyamanan terhadap efikasi penerangan di ruang kerja dengan kegiatan membaca atau menulis, diambil sampel parsial dari ruang kerja dengan luasan 3 x 3m = 9 m2 (mewakili seperempat satuan luas standard berdasar struktur kolom / pilar beton), dihitung populasi pendapat setiap jenis efikasi lampu yang ditawarkan. Efikasi yang ditawarkan masing-masing <20W/9m2; 40W/9m2; 80W/9m2; 120W/9m2; 160W/9m2..
+Uji sampel lampu terpilih berdasar perlembangan teknologi, untuk mendapatkan jenis lampu yang berefisiensi tinggi, guna mendukung hemat energi. Penelitian ini dilakukan dengan cara memilih dua jenis armature lampu yang sering dipakai, yaitu jenis permukaan dengan cat dop dan jenis permukaan mengkilat (glossy). Pada masing-masing armature dikenakan jenis lampu terpilih ( lampu TL jenis T8; T 54; T84; T5) dan selanjutnya diukur intensitas pencahayaan di bidang kerja (berbagai jarak bidang kerja dari lampu). Rangkaian pengujian seperti Gbr. 3.
+Analisis tingkat pencahayaan berbagai gedung yang ada berdasar dekade, untuk memperoleh nilai efikasi penerangan
+Hasil survei ini dievluasi dengan nilai standard yang berlaku, dan dianalisis nilainya dan diberi status apakah gedung-gedung tersebut mempunyai tingkat penerangan atau efikasi berstatus buruk, hemat, ideal, mewah atau boros dalam bobot prosen efikasi.terhadap nilai stndard maksimal, yaitu 20W/m2 sebagai nilai 100%.
+Analisis kenyamanan selera intensitas pencahayaan dari kalangan karyawan, dosen, dan mahasiswa maupun publik. Hasil survei ini dievluasi dihitung jumlah populasinya dipakai sebagai pendukung kelompok status efikasi yang ditawarkan (kelompok buruk, hemat, ideal, mewah atau boros), guna untuk memilih kelompok efikasi mana yang mencerminkan wilayah tropis.
+Analisis uji sampel lampu terpilih berdasar perlembangan teknologi, untuk mendapatkan jenis lampu yang berefisiensi tinggi, guna mendukung hemat energi. Hasil penelitian ini dianalisis dan dipilih konfigurasi pasangan armature dan jenis lampu yang memberikan efek penerangan hemat, efisien dan efektif, yaitu diurutkan dari konfigurasi yang mempunyai efisiensi tinggi ke efisiensi rendah.
+Dari hasil analisis digunakan untuk membuat batas-batas status efikasi, sehingga dihasilkan Standard Empiris Efikasi Penerangan Listrik Daerah Tropis untuk mendukung perhitungan cepat dalam perancangan instalasi listrik.
+IV. HASIL DAN PEMBAHASAN
+A. Intensitas Pencahayaan dan Luas Ruang pada Gedung Berbagai Dekade.
+Hasil penelitian intensitas pencahayaan dan luas ruang pada gedung berbagai dekade, seperti grafik berikut:
+Dari Gbr. 4 di atas bahwa mayoritas efikasi menunjuk pada nilai sekitar 30% dari efikasi standard maksimal, yaitu 20W/m2. Hal ini mencerminkan bahwa perencanaan instalasi penerangan sudah memperhatikan pengaruh cahaya alami di daerah tropis, sementara itu standard efikasi menurut IEC 20W/m2 sangat berlebihan (over design) untuk diterapkan di wilayah tropis.
+
+B. Tigkat Kenyamanan di Kalangan Dosen, Karyawan dan Mahasiswa.
+Hasil penelitian tigkat kenyamanan di kalangan dosen, karyawan dan mahasiswa terhadap efikasi penerangan listrik, seperti grafik pada Gbr. 5.
+
+
+Dari Gbr. 5 di atas tampak bahwa kenyamanan terhadap efikasi, 2 (11%), berikutnya oleh 36,1 populasi memilik efikasi 4   (22%), disusul 14,6% populasi memilih efikasi 9 (44%), sedangkan efikasi di atas 13. (67%) tidak dipilih. Hal ini bisa dimaknai bahwa kebutuhan intensitas penerangan bagi orang yang tinggal di wilayah tropis cukup rendah saja, atau cukup hemat. Hal ini juga menunjukkan bahwa orang yang tinggal di daerah tropis mempunyai mata dengan kemampuan adaptasi sangat tinggi, di mulai dari posisi di terik matahari dengan intensitas 100.000 lux sampai di dalam ruangan dengan intensitas cahaya kurang dari 100 lux. Apalagi jika Perancangan intensitas penerangan diperuntukkan pada bangunan gedung-gedung di kampus, yang dominan beroperasi siang hari, penggunaan cahaya alami, sangat menekan kebutuhan cahaya buatan, dengan kata lain kebutuhan cahaya buatan cukup hemat atau bahkan sangat hemat.
+Sekalipun nyaman pada efikasi di bawah 11%, tetapi masih jauh dari standard, sehingga pantas dimasukkan pada kawasan berstatus sangat hemat. Sedangkan standard yang berlaku sampai saat ini mengacu standard subtropis dan ras bangsa yang berbeda dengan ras tropis.
+C. Uji Sampel Lampu Terpilih
+Intensitas penerangan untuk kegiatan membaca atau menulis menurut SNI 03-6759-2002 sebesar 200 lux. Dari Gbr. 4 pengujian sumber cahaya lampu dengan armature reflector glossy diperoleh jarak obyek yang memenuhi sejauh 3,5 m dari lampu.
+Dari Gbr. 5 pengujian sumber cahaya lampu dengan armature reflector dop diperoleh jarak obyek yang memenuhi sejauh 2 m dari lampu.
+Dari Gbr. 6 tersebut tampak bahwa lampu TL 36/T84 mempunyai efikasi terlalu tinggi dan berharga relatif mahal, maka tetap dipilih lampu jenis TL 28W/T5. Lampu terakhir ini masih relevan untuk menjadi pilihan saat ini. Urutan lampu dari yang paling efisien adalah TL 36 W/T84 ; TL 28 W/T5; TL 36 W/T54; TL 40 W/T8,
+Dari hasil penelitian berbasis parameter pioritas dapat dibuat standard empiris efikasi peralatan penerangan, seperti Gbr. 8 dalam rentang efikasi dibedakan menjadi 6 status, yaitu: buruk, sangat hemat, hemat, ideal, mewah, atau boros, seperti terlihat pada Gbr. 6. Efikasi buruk dinyatakan dalam rentang kurang dari 2W/m2, sangat hemat antara 2W/m2 dan 3W/ m2,hemat antara 3W/m2 dan 7,5W/ m2, ideal antara 7,5W/ m2 dan 11W/m2, mewah antara 11W/m2 dan 15W/m2 atau boros lebih dari 15W/m2. Dengan harapan hasil penelitian ini bisa digunakan untuk membantu menyelesaikan persoalan waktu desain instalasi listrik.
+Efikasi buruk dinyatakan dalam rentang kurang dari 2W/m2, sangat hemat antara 2W/m2 dan 3W/ m2,hemat antara 3W/m2 dan 7,5W/ m2, ideal antara 7,5W/ m2 dan 11W/m2, mewah antara 11W/m2 dan 15W/m2 atau boros lebih dari 15W/m2. Dengan harapan hasil penelitian ini bisa digunakan untuk membantu menyelesaikan persoalan waktu desain instalasi listrik.
+
+
+Dari penelitian sampel gedung produk dekade sebelum tahun 1980 sampai dekade 2010 bahwa mayoritas efikasi penerangan di gedung tersebut menunjuk pada nilai sekitar 30% dari efikasi standard maksimal, yaitu 20W/m2. Hal ini mencerminkan bahwa perencanaan instalasi penerangan sudah memperhatikan pengaruh cahaya alami di daerah tropis, sementara itu standard efikasi menurut IEC 20W/m2 sangat berlebihan (over design) untuk diterapkan di wilayah tropis.
+Dari penelitian kenyamanan terhadap efikasi, didominasi oleh 49,4% populasi yang memilih efikasi  2 (11%), berikutnya oleh 36,1% populasi memilih efikasi 4 (22%), disusul 14,6% populasi memilih efikasi 9 (44%), sedangkan efikasi di atas 13. (67%) tidak dipilih. Hal ini bisa dimaknai bahwa kebutuhan intensitas penerangan bagi orang yang tinggal di wilayah tropis cukup rendah saja, atau cukup hemat.
+Dari penelitian uji lampu terpilih tampak bahwa lampu TL 36/T84 mempunyai efikasi terlalu tinggi dan berharga relatif mahal, maka tetap dipilih lampu jenis TL 28W/T5. Lampu terakhir ini masih relevan untuk menjadi pilihan saat ini. Urutan lampu dari yang paling efisien adalah TL 36 W/T84 ; TL 28 W/T5; TL 36 W/T54; TL 40 W/T8,
+Standard empiris efikasi buruk dinyatakan dalam rentang kurang dari 2W/m2, sangat hemat antara 2W/m2 dan 3W/ m2,hemat antara 3W/m2 dan 7,5W/ m2, ideal antara 7,5W/ m2 dan 11W/m2, mewah antara 11W/m2 dan 15W/m2 atau boros lebih dari 15W/m2.

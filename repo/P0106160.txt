@@ -1,0 +1,789 @@
+﻿
+
+ 
+
+ 
+
+ 
+
+MODIFIKASI SCREEN PRINTED CARBON ELECTRODEDENGAN 
+
+POLIPIROL UNTUK PENENTUAN HIDROKUINON 
+
+ 
+ 
+ 
+
+ABSTRAK 
+
+Elektropolimerisasi polipirol untuk penentuan hidrokuinon pada screen printed 
+carbon electrode (SPCE) dilakukan menggunakan voltametri siklik. Elektropolimerisasi 
+polipirol pada SPCE diawali dengan penentuan kondisi optimum voltametri siklik 
+(potensial kerja, laju pindai, jumlah siklus) dankondisi larutan (konsentrasi pirol dan KCl). 
+Optimasi potensial kerja dipelajari pada 0 – 0,8; 0 – 0,9; 0 – 1 V, laju pindai pada 50, 100, 
+150 mV/detik dan jumlah siklus pada 5, 10, 15 siklus. Pengaruh konsentrasi pirol dipelajari 
+pada 5, 50, 100 mM dan konsentrasi KCl pada 0,1; 0,5; 1 M. SPCE termodifikasi polipirol 
+kemudian dicuci dengan akuadem dan dikeringkan pada suhu kamar.Keberhasilan 
+elektropolimerisasi polipirol didasarkan pada tinggi arus puncak anodik dan katodik 
+hidrokuinon.Kondisi optimum pada elektropolimerisasi polipirol diperoleh pada potensial 
+kerja 0 – 0,9 V; laju pindai 100 mV/detik; jumlah siklus 10, konsentrasi pirol 50 mM dan 
+KCl 0,5 M.SPCE termodifikasi polipirol dapat digunakan untuk penentuan hidrokuinon 
+pada kisaran konsentrasi 5 – 100 μM dengan kepekaan 0,120 μA/μM dan batas deteksi 
+(S/N=3) 0,8 μM. 
+
+Kata kunci : hidrokuinon, polipirol, SPCE,voltametri 
+
+ 
+ 
+ 
+ 
+PENDAHULUAN 
+
+ 
+
+Modifikasi elektroda dengan polimer konduktor dapat meningkatkan kepekaan 
+
+pengukuran dalam analisis kimia (Silva and Ferreira, 2012). Di antara jenis-jenis polimer 
+
+konduktor, polipirol telah digunakan untuk memodifikasi elektroda karena polipirol 
+
+memiliki konduktivitas listrik yang tinggi, mudah disintesis dalam pelarut air dan 
+
+ketebalan film dapat dikendalikan dengan proses elektropolimerisasi (Kamalzadeh and 
+
+Shahrokhian, 2014). Elektroda yang dimodifikasi dengan polipirol telah diaplikasikan 
+
+untuk pengukuran asam askorbat (Raoof et al., 2005), atorvastatin (Kamalzadeh and 
+
+Shahrokhian, 2014) dan epinefrin (Shahrokhian and Saberi, 2011).Dalam penelitian ini, 
+
+screen printed carbon electrode (SPCE) yang dimodifikasi dengan polipirol secara 
+
+elektropolimerisasi digunakan untuk analisis hidrokuinon (H2Q). 
+
+Parameter yang dipelajari pada penelitian ini adalah kondisi pengukuran dengan 
+
+voltametri siklik yang meliputi potensial kerja, 
+
+laju pindai, dan 
+
+jumlah siklus 
+
+elektropolimerisasi polipirol. Menurut Tian 
+
+et al. 
+
+(2011), potensial kerja 
+
+elektropolimerisasi polipirol yang digunakan adalah 0 – 0,9 V terhadap Ag/AgCl. Semakin 
+
+kecil laju pindai menyebabkan waktu yang digunakan dalam penggabungan antar radikal 
+
+kation pirol menjadi lebih lama (Suratman, 2004). Mengacu pada penelitian Liand Lin 
+
+(2007), untuk memperoleh jumlah siklus optimum dalam elektropolimerisasi polipirol 
+
+digunakan sebanyak 15 siklus. Parameter 
+
+lain yang mempengaruhi keberhasilan 
+
+elektropolimerisasi polipirol adalah konsentrasi pirol dan KCl. Semakin besar konsentrasi 
+
+pirol akan memperbanyak 
+
+jumlah molekul polipirol 
+
+(Sayyah et al., 2003). 
+
+Elektropolimersasi polipirol juga dipengaruhi oleh konsentrasi elektrolit, yang salah 
+
+satunya adalah KCl. Menurut Inzelt et al.(1999), elektrolit KCl menghasilkan 
+
+konduktivitas polipirol yang 
+
+lebih besar daripada NaCl. Pengujian keberhasilan 
+
+elektropolimerisasi polipirol langsung diterapkan pada pengukuran H2Q berdasarkan tinggi 
+
+arus puncak anodik dan katodik H2Q. 
+
+Menurut Peraturan Kepala Badan Pengawas Obat dan Makanan (BPOM) Republik 
+
+Indonesia Tahun 2011, penggunaan H2Q dalam kosmetik maksimal sebesar 0,02 % (1,82 
+mM). Oleh karena itu, metode pengukuran H2Q yang sensitif dan akurat diperlukan untuk 
+
+penentuan kadar H2Q dalam kosmetik. Pengembangan metode pengukuran H2Q dengan 
+
+SPCE termodifikasi polipirol ini diharapkan dapat mendeteksi konsentrasi H2Q secara 
+
+sensitif, akurat dan teliti. 
+
+ 
+
+METODE PENELITIAN
+Bahan Penelitian
+Padatan KH2PO4 (Merck), K2HPO4.3H2O (Merck), KCl (Merck), pirol (Sigma-Aldrich), padatan H2Q (Merck) dan aquadem (hydrobath).
+Peralatan dan Instrumentasi
+pH meter (Trans Instrumens Senz pH), peralatan gelas, pipet mikro (Accumax pro), screen printed carbon electrode (SPCE) BI 1302 (Quasense Inc.) terdiri dari karbon sebagai elektroda kerja (working electrode) dan elektroda pembantu (auxiliary electrode) serta Ag/AgCl sebagai elektroda pembanding (reference electrode), dan Potensistat/Galvanostat Uniscan PG581 yang terhubung dengan komputer.
+Prosedur Penelitian
+Optimasi Modifikasi SPCE dengan Polipirol
+Polipirol disintesis dari monomer pirol secara elektropoimerisasi menggunakan teknik voltametri siklikdan didepositkan pada permukaan SPCE. Optimasi potensial kerja elektropolimerisasi polipirol dilakukan pada 0 – 0,8; 0 – 0,9; 0 – 1 V, laju pindai pada 50, 100, 150 mV/detik dan jumlah sikluspada 5, 10, 15 siklus. Pada optimasi kondisi larutan, dipelajari pengaruh konsentrasi pirol pada 5, 50, 100 mM, konsentrasi KCl pada 0,1; 0,5 dan 1 M dan pH pada 3, 5 dan 7. SPCE termodifikasipolipirol diaktivasi dalam larutan NaOH 0,1 M menggunakan voltametri siklik pada potensial 0 – 1,2 V sebanyak 10 siklus (Arrigan and Gray, 1999) kemudian dicuci dengan akuadem dan dikeringkan pada suhu kamar. Scanning electron microscopy (SEM) Hitachi M300 Tabletop Microscope digunakan untuk mengetahui morfologi permukaan SPCE termodifikasi polipirol.
+Karakterisasi
+Karakterisasi yang dilakukan meliputi kisaran konsentrasi linear, kepekaan, dan batas deteksi. Karakterisasi dilakukan dengan mengukur H2Q dalam larutan buffer fosfat 0,1 M pH 7 pada kisaran konsentrasi 0 – 100 μM menggunakan SPCE termodifikasi polipirol pada kondisi optimum. Pengukuran dilakukan menggunakan metode diffential
+pulse voltammetry (DPV) dengan tinggi denyut 0,35 V, laju pindai 10 mV/detik, lebar 
+
+denyut 50 mdetik dan kisaran arus 100 μA. 
+
+ 
+PEMBAHASAN
+Pengaruh Potensial Kerja
+Dalam penelitian ini, polipirol disintesis dari monomer pirol dan didepositkan/ditempelkan pada permukaan SPCE sebagai lapisan film tipis. Pengujian keberhasilan elektropolimerisasi polipirol untuk pengukuran H2Q didasarkan pada besar arus anodik (Ipa) dan katodik (Ipk) H2Q. Gambar 1 menunjukkan hasil voltamogram siklik pengukuran H2Q 100 μM pada optimasi potensial kerja dalam elektropolimerisasi polipirol. Berdasarkan hasil penelitian, potensial kerja elektropolimerisasi polipirol berpengaruh terhadap Ipa dan Ipk H2Q seperti yang ditunjukkan pada Tabel 1. Potensial kerja optimum dicapai pada rentang potensial kerja 0 – 0,9 V dengan Ipa dan Ipk H2Q sebesar 11,51 μA dan 10,01 μA, masing-masing. Hasil tersebut diperoleh dengan kondisi pengukuran laju pindai 50 mV/detik, jumlah siklus 5, pirol 50 mM, dan KCl 0,1 M pada pelarut air.
+Gambar 1. Voltamogram siklik H2Q 100 μM dalam pelarut buffer fosfat 0,1 M pH 7 pada variasi potensial kerja dalam elektropolimerisasi polipirol dengan potensial kerja (hitam) 0 – 0,8 V; (biru) 0 – 0,9 V dan (merah) 0 – 1 V.
+Tabel 1. Pengaruh potensial kerja elektropolimerisasi polipirol pada pengukuran H2Q
+SPCE
+Rata-rata Ep dan Ip H2Q
+| Ipa/ Ipk|
+ΔEp (mV)
+Epa (mV)
+Ipa (μA)
+Epk (mV)
+Ipk (μA)
+A
+43
+8,21
+267,6
+7,66
+1,072
+224,6
+B
+30,4
+11,51
+244,2
+10,01
+1,151
+213,8
+C
+20,6
+5,69
+326,2
+6,23
+0,914
+305,6
+Ket: SPCE termodifikasi polipirol dengan potensial kerja (A) 0 – 0,8 V; (B) 0 – 0,9 V dan (C) 0 – 1 V
+ 
+
+
+ 
+
+ 
+
+ 
+
+Apabila potensial kerja diturunkan menjadi 0 – 0,8 V mengakibatkan penurunan Ipa 
+
+dan Ipk H2Q. Hal tersebut dikarenakan pertumbuhan film polipirol pada permukaan SPCE 
+
+belum maksimal yang dibuktikan dengan hasil pengukuran ketebalan film polipirol 
+
+menggunakan mikrometer sekrup dari SPCE jenis A adalah paling rendah yaitu sebesar 10 
+
+µM dibandingkan SPCE jenis B dan C. Ketebalan film tersebut meningkatkan terjadinya 
+
+arus difusi H2Q dari larutan ke permukaan elektroda. Di sisi lain, potensial kerja 
+
+elektropolimerisasi polipirol 0 – 1 V juga menyebabkan penuruan Ipa dan Ipk H2Q. 
+
+Penurunan Ipadan Ipk H2Q tersebut menunjukkan terjadinya over-oksidasi pirol seperti yang 
+
+dinyatakan oleh Garcia et al. (2012) yang disebabkan akibat terjadinya penurunan 
+
+konduktivitas polipirol. 
+
+Berdasarkan Tabel 1 diketahui bahwa rasio Ipa dan Ipk H2Q pada beberapa potensial 
+
+kerja elektropolimerisasi polipirol adalah tidak sama dengan satu yang menunjukkan 
+
+bahwa produk dari reaksi oksidasi dan reduksi adalah tidak stabil. Reversibilitas reaksi 
+
+diketahui dari ΔEp H2Q. Dalam optimasi potensial kerja elektropolimerisasi polipirol, 
+
+diperoleh ΔEp H2Q sebesar 213,8 – 305,6 mV. Dengan demikian dapat disimpulkan bahwa 
+
+pada potensial kerja elektropolimerisasi polipirol, reaksi yang terjadi pada permukaan 
+
+elektroda berlangsung secara irreversibel. 
+
+Pengaruh Laju Pindai 
+
+Gambar 2 menunjukkan hasil voltamogram siklik pengukuran H2Q 100 µM pada 
+
+optimasi laju pindai dalam elektropolimerisasi polipirol. Hasil penelitian menunjukkan 
+
+bahwa SPCE jenis A menghasilkan Ipa dan Ipk H2Q yang paling rendah seperti yang 
+
+ditunjukkan pada Tabel 2. Kinetika elektroda SPCE jenis A dapat diketahui dari rasio Ipa 
+
+dan Ipk H2Q dengan harga paling jauh dari satu. Hal tersebut menunjukkan bahwa produk 
+
+dari reaksi oksidasi dan reduksi yang dihasilkan dari SPCE jenis A adalah paling tidak 
+
+stabil. Hal tersebut disebabkan oleh waktu reaksi elektropolimerisasi polipirol yang paling 
+
+lama sehingga memperbanyak jumlah film polipirol dan menyebabkan terjadinya 
+
+penumpukan film polipirol pada permukaan SPCE. Hal tersebut dibuktikan dengan hasil 
+
+pengukuran ketebalan film SPCE jenis A yang paling besar yaitu sebesar 40 µM 
+
+dibandingkan SPCE jenis B dan C. Penumpukan film polipirol dapat menghambat 
+
+terjadinya arus difusi H2Q dari larutan ke permukaan elektroda. 
+
+Harga Ipa dan Ipk H2Q optimum dihasilkan pada SPCE jenis B dengan kondisi 
+
+pengukuran potensial kerja 0 – 0,9 V; jumlah siklus 5; pirol 50 mM dan KCl 0,1 M pada 
+
+pelarut air. Di sisi lain, SPCE jenis C menghasilkan penurunan harga Ipa dan Ipk H2Q yang 
+tidak signifikan. Dalam optimasi laju pindai, besar ΔEp H2Q dari SPCE jenis A, B dan C 
+
+adalah hampir sama sehingga dapat diketahui bahwa reaksi yang terjadi pada permukaan 
+
+elektroda berlangsung secara irreversibel. Dengan demikian, kondisi optimum pengaruh 
+
+laju pindai proses elektropolimerisasi polipirol pada pengukuran H2Q adalah 100 
+
+mV/detik. 
+
+
+
+Potensial / V 
+
+ 
+
+Gambar 2. Voltamogram siklik H2Q 100 µM dalam pelarut buffer fosfat 0,1 M pH 7 pada 
+variasi laju pindai dalam elektropolimerisasi polipirol dengan laju pindai (hitam) 50 mV/s; 
+
+(biru) 100 mV/s dan (merah) 150 mV/s. 
+
+ 
+
+Tabel 2. Pengaruh laju pindai elektropolimerisasi polipirol pada pengukuran H2Q 
+
+SPCE 
+
+A 
+B 
+C 
+
+Epa (mV) 
+
+177,6 
+164,6 
+178,0 
+
+Rata-rata Ep dan Ip H2Q 
+Epk (mV) 
+Ipa (µA) 
+
+3,83 
+9,56 
+9,17 
+
+94,50 
+80,14 
+91,19 
+
+Ipk (µA) 
+
+5,29 
+10,45 
+10,24 
+
+| Ipa/ Ipk| 
+
+ΔEp(mV) 
+
+0,724 
+0,915 
+0,895 
+
+82,50 
+84,46 
+86,81 
+
+Ket: SPCE termodifikasi polipirol dengan laju pindai (A) 50, (B) 100 dan (C) 150 mV/detik 
+
+Pengaruh Jumlah Siklus 
+
+Hasil voltamogram siklik pengukuran H2Q 100 µM pada optimasi jumlah siklus 
+
+dalam proses elektropolimerisasi polipirol pada SPCE ditunjukkan pada Gambar 3. 
+
+Berdasarkan Tabel 3 diketahui bahwa jumlah siklus elektropolimerisasi polipirol optimum 
+
+adalah sebanyak 10 siklus yang ditunjukkan dengan Ipa dan Ipk H2Q yang paling besar. 
+
+Selain itu, elektropolimerisasi pirol sebanyak 10 siklus tersebut menghasilkan rasio Ipa dan 
+
+Ipk yang paling mendekati harga satu dan harga ΔEp yang paling kecil. Hasil tersebut 
+
+diperoleh dengan kondisi pengukuran potensial kerja 0 – 0,9 V; laju pindai 100 mV/detik; 
+
+pirol 50 mM dan KCl 0,1 M pada pelarut air. 
+
+ 
+
+ 
+
+ 
+
+Apabila jumlah siklus dikurangi menjadi 5 siklus menyebabkan penurunan Ipa dan 
+
+Ipk H2Q. Hal tersebut disebabkan reaksi elektropolimerisasi polipirol belum mampu 
+
+membentuk polipirol dengan rantai panjang. Apabila jumlah siklus ditambah menjadi 15 
+
+siklus juga menyebabkan penurunan Ipa dan Ipk H2Q. Jumlah siklus yang banyak 
+
+meningkatkan jumlah kation radikal pirol yang dipolimerisasi dan menyebabkan 
+
+penumpukan film polipirol dengan rantai yang terlalu panjang yang dibuktikan dengan 
+
+ketebalan film yang dihasilkan adalah paling besar yaitu 35 µM. 
+
+
+
+ 
+
+ 
+
+Gambar 3. Voltamogram siklik H2Q 100 µM dalam pelarut buffer fosfat 0,1 M pH 7 pada 
+
+variasi jumlah siklus dalam elektropolimerisasi polipirol dengan jumlah siklus (hitam) 5 
+
+siklus; (biru) 10 siklus dan (merah) 15 siklus. 
+
+ 
+
+Tabel 3. Pengaruh jumlah siklus elektropolimerisasi polipirol pada pengukuran H2Q 
+
+SPCE 
+
+Epa (mV) 
+
+Rata-rata Ep dan Ip H2Q 
+Epk (mV) 
+
+Ipa (µA) 
+
+Ipk (µA) 
+
+| Ipa/ Ipk| 
+
+ΔEp (mV) 
+
+0,933 
+1,022 
+0,808 
+Ket: SPCE termodifikasi polipirol dengan jumlah siklus (A) 5, (B) 10 dan (C) 15 siklus 
+
+28,32 
+42,36 
+12,34 
+
+8,05 
+10,3 
+5,41 
+
+A 
+B 
+C 
+
+7,52 
+10,5 
+4,37 
+
+257,4 
+259,4 
+265,0 
+
+229,08 
+217,04 
+252,66 
+
+Pengaruh Konsentrasi Pirol 
+
+Gambar 4 menunjukkan hasil voltamogram siklik pengukuran H2Q 100 µM pada 
+
+optimasi konsentrasi pirol yang digunakan dalam proses elektropolimerisasi polipirol. 
+
+Berdasarkan Tabel 4, perubahan konsentrasi memberikan perbedaan pada Ipa dan Ipk H2Q. 
+
+Konsentrasi pirol optimum dicapai pada konsentrasi 50 mM dengan kondisi pengukuran 
+
+potensial kerja 0 – 0,9 V; laju pindai 100 mV/detik; jumlah siklus 10, dan konsentrasi KCl 
+
+0,1 M pada pelarut air. Saat konsentrasi pirol 5 mM harga Ipa dan Ipk H2Q rendah kemudian 
+
+meningkat untuk konsentrasi 50 mM dan turun kembali untuk konsentrasi 100 mM. Film 
+
+polipirol memberikan peranan pada proses transfer elektron untuk terjadinya reaksi H2Q 
+
+sehingga menentukan harga Ipa dan Ipk H2Q. Saat konsentrasi pirol 5 mM, film polipirol 
+yang terbentuk sangat sedikit, sehingga elektron yang dapat ditransfer juga rendah. 
+
+Sebaliknya untuk konsentrasi pirol 100 mM, meskipun film polipirol yang terbentuk 
+
+banyak namun terjadinya film polipirol yang berlapis atau bertumpuk memungkinkan 
+
+terjadinya hambatan laju difusi H2Q dari larutan menuju permukaan elektroda. Hal tersebut 
+
+sesuai dengan literatur bahwa senyawa elektroaktif dapat berdifusi melalui film polimer 
+
+konduktor sebelum transfer elektron terjadi pada elektroda di mana polimer konduktor 
+
+didepositkan. Dalam hal ini, polimer konduktor dapat menghalangi laju difusi dari larutan 
+
+ke permukaan elektroda dan tidak berpartisipasi dalam reaksi transfer elektron (Bobacka 
+
+and Ivaska, 2010). 
+
+ 
+
+ 
+
+Gambar 4. Voltamogram siklik H2Q 100 µM dalam pelarut buffer fosfat 0,1 M pH 7 pada 
+
+variasi konsentrasi pirol dalam dalam elektropolimerisasi polipirol dengan konsentrasi 
+
+pirol (hitam) 5 mM; (biru) 50 mM dan (merah) 100 mM. 
+
+Tabel 4. Pengaruh konsentrasi pirol pada elektropolimerisasi polipirol untuk pengukuran 
+
+ 
+
+H2Q 
+
+SPCE 
+
+A 
+B 
+C 
+
+Epa (mV) 
+
+156,4 
+21,66 
+37,04 
+
+Rata-rata Ep dan Ip H2Q 
+Epk (mV) 
+
+Ipa (µA) 
+10,18 
+11,22 
+6,30 
+
+62,98 
+227,8 
+258,4 
+
+Ipk (µA) 
+11,18 
+12,58 
+8,01 
+
+| Ipa/ Ipk| 
+
+ΔEp (mV) 
+
+0,910 
+0,891 
+0,785 
+
+93,42 
+206,1 
+221,4 
+
+Ket: SPCE termodifikasi polipirol dengan konsentrasi pirol (A) 5, (B) 50 dan (C) 100 mM 
+
+Tabel 4 juga menunjukkan rasio Ipa dan Ipk H2Q pada beberapa konsentrasi pirol 
+
+adalah tidak sama dengan satu. Hal tersebut menunjukkan bahwa produk dari reaksi 
+
+oksidasi dan reduksi adalah tidak stabil. Dalam optimasi konsentrasi pirol, diperoleh ΔEp 
+
+H2Q sebesar 93,42 – 221,4 mV yang berarti reaksi yang terjadi pada permukaan elektroda 
+
+berlangsung secara irreversibel. Dengan demikian, untuk proses elektropolimerisasi 
+
+polipirol pada SPCE dalam kondisi optimum digunakan konsentrasi pirol sebesar 50 mM. 
+
+
+
+Pengaruh Konsentrasi KCl 
+
+Hasil voltamogram siklik pengukuran H2Q 100 µM pada optimasi konsentrasi KCl 
+
+dalam proses elektropolimerisasi polipirol pada SPCE ditunjukkanpada Gambar 5. Hasil 
+
+pengukuran pada Tabel 5 menunjukkan bahwa konsentrasi KCl optimum adalah sebesar 
+
+0,5 dengan kondisi pengukuran potensial kerja 0 – 0,9 V; laju pindai 100 mV/detik; jumlah 
+
+siklus 10, dan konsentrasi pirol 50 mM pada pelarut air. 
+
+ 
+
+A
+µ
+
+ 
+/
+ 
+s
+u
+r
+A
+
+Potensial / V 
+
+ 
+
+ 
+
+Gambar 5. Voltamogram siklik H2Q 100 µM dalam pelarut buffer fosfat 0,1 M pH 7 pada 
+
+variasi konsentrasi KCl dalam elektropolimerisasi polipirol dengan konsentrasi KCl 
+
+(hitam) 0,1 M; (biru) 0,5 M dan (merah) 1 M. 
+
+ 
+
+Tabel 5. Pengaruh konsentrasi KCl dalam elektropolimerisasi polipirol pada pengukuran 
+
+H2Q 
+
+SPCE 
+
+A 
+B 
+C 
+
+Epa (mV) 
+
+173,2 
+167,6 
+171,6 
+
+Rata-rata Ep dan Ip H2Q 
+Epk (mV) 
+
+Ipa (µA) 
+
+7,51 
+10,66 
+10,30 
+
+69,32 
+61,72 
+70,20 
+
+Ipk (µA) 
+
+7,43 
+10,43 
+10,25 
+
+| Ipa/ Ipk| 
+
+ΔEp (mV) 
+
+1,010 
+1,022 
+1,004 
+
+103,8 
+105,8 
+101,4 
+
+Ket: SPCE termodifikasi polipirol dengan konsentrasi KCl (A) 0,1; (B) 0,5 dan (C) 1 M 
+
+Saat konsentrasi KCl ditingkatkan menjadi 1 M, Ipa dan Ipk H2Q relatif tetap. Hasil 
+
+tersebut menunjukkan bahwa KCl 0,5 M dapat menghasilkan konduktivitas film polipirol 
+
+optimum. Hal tersebut sesuai dengan hasil penelitian Li and Yang (1997) yang 
+
+menyatakan bahwa konsentrasi KCl yang terlalu besar akan menghambat difusi pirol 
+
+sehingga memberi efek negatif dalam elektropolimerisasi polipirol. Rasio Ipa dan Ipk H2Q 
+
+pada beberapa konsentrasi KCl adalah tidak sama dengan satu. Hal tersebut menunjukkan 
+
+bahwa produk dari reaksi oksidasi dan reduksi H2Q adalah tidak stabil. Dalam optimasi 
+
+konsentrasi KCl, diperoleh ΔEp H2Q 101,4 – 105,8 mV yang berarti reaksi yang terjadi 
+
+pada permukaan elektroda berlangsung secara irreversibel. 
+
+ 
+
+ 
+
+ 
+
+Respon Voltametri pada SPCE termodifikasi Polipirol 
+
+Respon voltametri siklik dari H2Q 100 µM diperoleh pada permukaan SPCE tanpa 
+
+modifikasi dan SPCE termodifikasi polipirol. Gambar 6 menunjukkan voltamogram siklik 
+
+dari H2Q 100 µM dalam larutan buffer fosfat 0,1 M pH 7 pada SPCE dan SPCE 
+
+termodifikasi polipirol dengan laju pindai 100 mV/detik. Respon arus puncak anodik dan 
+
+katodik H2Q 100 µM pada SPCE termodifikasi polipirol adalah lebih tinggi daripada SPCE 
+
+tanpa modifikasi. Sebagai pembanding, dilakukan pengukuran dengan metode DPV untuk 
+
+mengetahui perbandingan arus puncak H2Q pada SPCE dan SPCE termodifikasi polipirol. 
+
+
+ 
+Potensial / V 
+
+ 
+
+Gambar 6. Voltamogram siklik pada pengukuran H2Q 100 µM dalam larutan buffer fosfat 
+
+0,1 M pH 7 menggunakan (a) SPCE tanpa modifikasi dan (b) SPCE termodifikasi 
+
+polipirol. 
+
+
+Gambar 7. Voltamogram DPV pada pengukuran H2Q 100 µM dalam larutan buffer fosfat 
+0,1 M pH 7 menggunakan (a) SPCE tanpa modifikasi dan (b) SPCE termodifikasi polipirol 
+
+Potensial / V 
+
+ 
+
+ 
+
+Perbandingan sinyal DPV menunjukkan bahwa respon arus puncak anodik dari 
+
+H2Q 100 µM menggunakan SPCE termodifikasi polipirol ditingkatkan sekitar 2 kali lebih 
+
+besar dibandingkan dengan SPCE tanpa modifikasi (Gambar 7). Film-film polipirol yang 
+
+dimodifikasi pada SPCE dapat memperbesar luas permukaan efektif elektroda dan 
+
+meningkatkan konduktivitas elektronik (Gholivand and Amiri, 2012). Dengan demikian, 
+
+modifikasi SPCE dengan polipirol dapat menurunkan potensial dan meningkatkan arus 
+
+oksidasi H2Q. 
+
+Gambar 8. Hasil SEM dari SPCE termodifikasi polipirol. 
+
+ 
+
+Sebagai pelengkap morfologi permukaan elektroda juga dikarakterisasi dengan 
+
+menggunakan mikroskop elektron, SEM (Scanning electron microscopy). Gambar 8 
+
+menunjukkan foto SEM morfologi SPCE termodifikasi polipirol. Polipirol berhasil 
+
+dielektropolimerisasi pada permukaan SPCE yang ditunjukkan dengan adanya lapisan film 
+
+yang menutupi permukaan elektroda dan bertindak sebagai mediator transfer elektron pada 
+
+permukaan elektroda (Arrigan dkk, 1999). Ilustrasi interaksi antara SPCE termodifiaksi 
+
+polipirol dengan H2Q ditunjukkan pada Gambar 9. 
+
+ 
+Gambar 9. Ilustrasi interaksi antara SPCE termodifiaksi polipirol dengan H2Q. 
+
+
+Karakterisasi 
+
+ 
+
+ 
+
+Penentuan kinerja elektroda SPCE termodifikasi polipirol menggunakan DPV 
+
+meliputi kisaran konsentrasi linier, linearitas, kepekaan dan batas deteksi. SPCE dan SPCE 
+
+termodifikasi polipirol digunakan untuk membuat kurva kalibrasi pada pengukuran 
+
+termodifikasi polipirol yang terdiri dari respon arus terhadap berbagai konsentrasi H2Q. 
+
+Pengukuran H2Q menggunakan DPV dengan SPCE termodifikasi polipirol dan SPCE 
+
+dilakukan pada kondisi optimum yaitu pada laju pindai 0,01 V/detik, tinggi denyut 0,35 V 
+
+dan lebar denyut 50 mdetik. Kinerja elektroda SPCE termodifikasi polipirol dicantumkan 
+
+dalam Tabel 6. 
+
+Tabel 6. Perbandingan kinerja SPCE tanpa modifikasi dan SPCE termodifikasi polipirol 
+
+Perbandingan 
+
+SPCE tanpa modifikasi 
+
+Persamaan regresi linear 
+
+Ip(μA) = 0,026 [H2Q] + 0,446 
+
+Rentang Konsentrasi 
+
+(μM) 
+
+Linearitas 
+
+Kepekaan (μA/μM) 
+
+LoD (µM) 
+
+ 
+
+KESIMPULAN 
+
+0 – 100 
+
+0,99 
+0,026 
+
+18 
+
+Jenis SPCE 
+
+SPCE termodifikasi polipirol 
+Ip(μA) = 0,120 [H2Q] + 0,832 
+
+0 – 100 
+
+0,99 
+0,120 
+
+0,8 
+
+Polipirol dapat dielektropolimerisasi pada permukaan SPCE untuk pengukuran 
+
+H2Q. Keberhasilan elektropolimerisasi polipirol didasarkan pada tinggi arus puncak anodik 
+
+dan katodik H2Q. Hasil optimum pada elektropolimerisasi polipirol adalah potensial kerja 
+
+0 – 0,9 V; laju pindai 100 mV/detik; jumlah siklus 10, konsentrasi pirol 50 mM dan KCl 
+
+0,5 M. SPCE termodifikasi polipirol dapat digunakan untuk penentuan H2Q pada kisaran 
+
+konsentrasi linear 5 – 100 μM dengan kepekaan 0,120 μA/μM dan batas deteksi (S/N=3) 
+
+0,8 μM. 
+
+ 

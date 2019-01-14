@@ -1,0 +1,148 @@
+﻿ABSTRAK
+Heteroscedastisitas pada sebagian besar data deret waktu ekonomi dan
+keuangan dapat diselesaikan dengan model ARCH/GARCH. Namun dalam
+penerapannya model ARCH/GARCH memiliki beberapa kelemahan, diantaranya
+adalah ketidakmampuannya untuk melihat transisi atau perubahan perilaku antara
+volatilitas rendah dan volatilitas tinggi. Oleh Karena itu, model ARCH/GARCH
+tersebut dimodifikasi menggunakan model GARCH-M. Pada model GARCH-M,
+kesimetrisan terpenuhi apabila memenuhi syarat bahwa nilai skewness dari
+kuadrat residual mendekati nol. Model GARCH-M merupakan model yang lebih
+baik daripada model ARCH/GARCH. Tujuan dari penulisan skripsi ini adalah
+memodelkan indeks harga saham yang bersifat heteroskedastik ke dalam
+GARCH-M dan menentukan Value at Risk (VaR) indeks harga saham untuk satu
+periode ke depan. Data yang digunakan adalah data return harga saham PT HM
+Sampoerna Tbk.
+Pemodelan dilakukan dengan membentuk model ARIMA sebagai mean
+model, dan dilanjutkan dengan memodelkan ragam bersyarat GARCH-M dengan
+melihat nilai skewness dari residual kuadrat mendekati nol. Dari data harga saham
+PT HM Sampoerna Tbk yang digunakan, didapatkan model GARCH (1,1)-M
+sebagai model terbaik karena telah memenuhi semua asumsi, baik parameter yang
+telah signifikan maupun residual kuadrat yang sudah white noise. Bentuk umum
+dari model GARCH (1,1)-M adalah = 3.42 × 10 + 0.158818 +
+0.647020ℎ . Dari model yang terbentuk diperoleh nilai Value at Risk (VaR)
+untuk 30 hari kedepan dengan alokasi dana tertentu. Jadi, apabila dialokasikan
+dana sebesar Rp 100.000.000,00 dengan tingkat kepercayaan sebesar 95%,
+besarnya resiko yang akan dihadapi investor yang menanamkan modal pada
+perusahaan PT HM Sampoerna Tbk adalah sebesar . 12.055.428,00.
+Kata Kunci : ARCH, GARCH, GARCH-M, Value at Risk, Skewness, Volatilitas,
+Return, White Noise, Heteroscedastisitas
+
+BAB 1
+PENDAHULUAN
+1.1 Latar Belakang
+Pasar modal atau bursa merupakan salah satu bentuk sumber pendanaan
+yang cukup penting seiring dengan perkembangan era globalisasi. Dengan
+meningkatnya aktivitas perdagangan pada pasar modal, kebutuhan untuk
+memberikan informasi yang lebih lengkap kepada masyarakat mengenai
+perkembangan bursa, juga semakin meningkat. Salah satu informasi yang
+diperlukan tersebut adalah indeks harga saham. Pergerakan indeks
+menggambarkan kondisi pasar pada suatu saat dan menjadi indikator penting bagi
+para investor untuk menentukan keputusan menjual, menahan atau membeli satu
+atau beberapa saham.
+Tanam saham merupakan salah satu alternatif investasi jangka panjang
+dan sebagai media investasi bagi pemodal. Tiap investasi antar saham yang
+dilakukan oleh para investor akan memberikan keuntungan dan risiko yang
+berbeda meskipun dalam sector industri yang sama. Penyebab perbedaan ini
+dikarenakan adanya faktor internal dan faktor eksternal. Faktor internal meliputi
+manajemen, pemasaran, keadaan keuangan, kualitas produk dan kemampuan
+bersaing. Faktor eksternal terdiri dari kebijakan pemerintah, poleksosbudhankam
+(politik, ekonomi,sosial dan budaya, pertahanan dan keamanan), pesaing, serta
+selera dan daya beli masyarakat. Terdapat beberapa resiko dalam pasar keuangan
+(financial market), antara lain : resiko kredit, resiko lequiditas dan resiko pasar.
+Secara umum dalam analisis statistika lanjut, fungsi resiko tersebut terkait dengan
+fungsi kerugian, yang pada prinsipnya juga mempengaruhi variabilitas dari suatu
+variable acak (Sediono, 2013).
+Resiko itu sendiri secara umum dalam investasi dapat diterjemahkan
+sebagai sebuah penyimpangan antara tingkat pengembalian investasi yang
+diharapkan ( expected return ) dengan tingkat pengembalian investasi yang
+sesungguhnya ( actual return ). Oleh karena itu, pengukuran nilai resiko perlu
+dilakukan agar resiko berada dalam tingkatan yang terkendali sehingga dapat di
+ketahui lebih awal kemungkinan terjadinya kerugian berinvestasi.
+Pengukuran resiko merupakan hal yang sangat penting berkaitan dengan
+investasi dana yang cukup besar oleh para investor. Oleh karena itu sangat
+diperlukan alat yang bisa digunakan mengukur resiko agar dapat diketahui sejauh
+mana investor dapat dengan aman berinvestasi. Dalam analisis statistik,
+khususnya yang terkait dengan model runtun waktu keuangan ( financial time
+series ) terdapat sebuah metode untuk mengetahui atau mengukur tingkat resiko
+tersebut, metode tersebut dikenal sebagai Value at Risk atau disingkat dengan
+VaR (Tsay,R.S.,2002). Dengan mengetahui tingkat resiko tersebut, diharapkan
+seseorang penanam modal (investor) dapat dengan aman di dalam
+menginvestasikan dananya untuk tujuan tertentu, sehingga secara dini sudah dapat
+dipertimbangkan untung ruginya dalam kegiatan investasinya. Kelebihan dari VaR
+adalah bahwa metode ini tidak bergantung pada asumsi distribusi dari return,
+memberikan estimasi kemungkinan mengenai timbulnya kerugian dalam jumlah
+yang besar dari pada angka kerugian yang telah ditentukan.
+Dalam kenyataanya, model runtun waktu (time series) keuangan atau
+runtun waktu ekonomi banyak dijumpai bahwa volatilitasnya sangat ekstrim, hal
+ini terlihat dengan adanya proses fluktuasi yang tidak menentu, kadang
+fluktuasinya relatif tinggi dan terkadang juga relatif rendah yang silih berganti
+satu dengan yang lain. Dengan tingginya volatilitas data, maka perlu dirancang
+sebuah model pendekatan untuk mengukur persoalan volatilitas residual ( Enders,
+W.,1995).
+Metode peramalan yang biasa digunakan berdasarkan sejarah data masa
+lalu dikenal dengan sebutan metode runtun waktu (time series). Berdasarkan sifat
+variansi residualnya, metode runtun waktu terbagi menjadi runtun waktu
+homoskedastis (variansi residualnya konstan) dan runtun waktu heteroskedastis
+(variansi residualnya tidak konstan). Dalam runtun waktu homoskedastis terdapat
+model yang pernah diperkenalkan oleh Box-Jenkins yaitu model Autoregressive
+(AR), Moving Average (MA) dan model Autoregressive Moving Average
+(ARMA). Sedangkan dalam runtun waktu heteroskedastis terdapat model
+Autoregressive Conditional Heteroskedastic (ARCH). Model ini pertama kali
+dikembangkan oleh Robert Engle pada tahun 1982.
+Model ARCH kemudian disempurnakan oleh Tim Bollerslev pada tahun
+1986 yaitu dengan memodelkan variansi tidak hanya berdasarkan residual di masa
+lalu tetapi juga variansi residualnya di masa lalu. Model dari Bollerslev ini biasa
+dikenal dengan model Generalized Autoregressive Conditional Heterokedastic
+(GARCH). Kemudian untuk kasus hubungan antara resiko dengan pengembalian
+(return) maka dikembangkan model Generalized Autoregressive Conditional
+Heterokedastic in Mean (GARCH-M) yang pertama kali diperkenalkan pada
+tahun 1987 oleh Engle, Lilien, dan Robins.
+Dalam teori ekonomi dan financial dinyatakan bahwa sebuah aset dengan
+resiko yang lebih tinggi akan memberikan tingkat pengembalian (return) yang
+lebih tinggi juga pada rata-ratanya karena keduanya memiliki keterhubungan yang
+saling mempengaruhi. Mengacu pada hal tersebut maka dikembangkanlah sebuah
+model Generalized Autoregressive Conditional Heteroscedasticity in Mean
+(GARCH-M) oleh Engle, Lilien, dan Robins pada tahun 1987.
+Karena model GARCH-M merupakan perkembangan dari model
+ARCH/GARCH, dengan menggunakan variansi sisaan, yang membedakan model
+GARCH-M dengan model ARCH/GARCH adalah mempunyai asumsi dimana
+pergerakan data yang diamati terdapat gejolak yang bersifat simetris dalam
+volatilitasnya, sehingga pada standar devisiasinya dijadikan sebagai
+variable independen pada GARCH-M dan memasukan variansi bersyarat ke
+dalam persamaan mean.
+Salah satu langkah yang paling penting untuk mendapatkan model
+GARCH-M adalah estimasi parameter GARCH-M, karena bukan hanya
+menunjukan perbedaan yang mendasar antara heteroscedastic stasioner dan nonstasioner,
+tapi juga menghasilkan model yang lebih tepat. Pemodelan yang tepat
+akan sangat mempengaruhi nilai suatu interval kepercayaan yang dalam
+peramalan bidang finansial sangat penting digunakan untuk mengambil suatu
+keputusan.
+Berdasarkan uraian yang ada diatas, maka penulis mengambil proposal
+dengan judul “Penggunaan metode Value at Risk (VAR) untuk menentukan
+tingkat resiko investasi pada saham PT HM Sampoerna Tbk melalui pendekatan
+model Generalized Autoregressive Conditional Heteroscedasticity in Mean
+(GARCH-M)“.
+1.2 Rumusan Masalah
+Permasalahan yang akan dibahas pada penulisan skripsi ini adalah :
+1. Bagaimana mengkontruksi model GARCH-M terbaik dari data return saham
+PT HM Sampoerna Tbk?
+2. Bagaimana menentukan besarnya nilai Value at Risk (VaR) pada data saham
+PT HM Sampoerna Tbk berdasarkan model GARCH-M terbaik?
+1.3 Tujuan
+Berdasarkan rumusan masalah yang ada diatas, tujuan dari penulisan
+skripsi ini adalah :
+1. Mengkontruksi model GARCH-M terbaik dari data return saham PT HM
+Sampoerna Tbk.
+2. Menentukan besarnya nilai Value at Risk (VaR) pada saham PT HM
+Sampoerna Tbk berdasarkan model GARCH-M terbaik.
+
+1.4 Manfaat
+Manfaat dari penulisan skripsi ini adalah diharapkan dapat mengetahui
+dugaan besarnya tingkat nilai resiko yang akan didapatkan dari penanaman
+saham oleh para investor, sehingga untuk kedepanya dapat dijadikan sebagai
+bahan pertimbangan bagi para investor yang akan menanamkan modalnya dalam
+pasar keuangan (financial).
+1.5 Batasan Masalah
+Data yang digunakan pada penelitian ini adalah data harian Indeks Harga
+Saham Gabungan (IHSG) pada perusahaan PT HM SAMPOERNA Tbk yang
+diambil dari tanggal 1 Juli 2013 sampai 20 Mei 2014.

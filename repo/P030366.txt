@@ -1,0 +1,139 @@
+﻿BAB I
+PENDAHULUAN
+1.1 Latar Belakang Masalah
+Korosi mengakibatkan penurunan mutu dan daya guna akibat adanya proses
+elektrokimia dengan lingkungan. Korosi juga menimbulkan kerugian dari segi
+biaya perawatan. Korosi tidak hanya disebabkan oleh kandungan uap air yang
+tinggi di udara, tetapi juga oleh suhu operasi yang tinggi. Kondisi ini terlihat
+dengan adanya permasalahan dari peralatan dan produk industri berbahan plat baja
+lunak yang kurang menguntungkan yaitu berubah menjadi kusam dan mudah
+korosi jika teroksidasi oleh udara sekitar.
+Korosi tidak dapat dicegah namun hanya dapat dikendalikan. Salah satu
+cara yaitu dengan memberikan lapisan pelindung pada permukaan logam dasar
+dengan logam yang mampu melindungi terhadap pengaruh korosi, diantaranya
+secara elektroplating. Selain untuk menghindari korosi dengan memberikan
+lapisan luar dengan bahan pelapis tahan korosi antara lain tembaga dan nikel
+melalui proses elektroplating, hal tersebut juga mampu meningkatkan mutu dan
+nilai estetika produk tersebut.
+Tembaga digunakan karena tembaga memiliki ketahanan korosi yang
+cukup baik, tetapi pada kondisi dimana terdapat bahan pengkorosifnya maka
+tembaga akan teroksidasi dan penampilannya terlihat kurang menarik. Sementara
+itu digunakannya nikel karena nikel memiliki kekuatan dan kekerasan yang
+sedang, dan keuletannya yang baik, daya hantar listrik dan termal yang baik.
+Dalam proses elektroplating, kondisi operasional perlu diperhatikan karena
+akan menentukan berhasil tidaknya proses pelapisan serta mutu yang diinginkan,
+dalam kaitannya dengan tebal lapisan yang terbentuk pada logam dasar. Terdapat
+beberapa kondisi operasional yang mempengaruhi proses elektroplating,
+diantaranya rapat arus, konsentrasi larutan, suhu larutan elektrolit dan lama waktu
+pelapisan. Pada penelitian ini dimaksudkan untuk mengetahui sejauh mana suhu
+elektrolit dan waktu pelapisan berpengaruh terhadap ketebalan lapisan dan
+kekasaran permukaan dalam pelapisan plat baja karbon rendah dengan pelapis
+tembaga dan nikel melalui proses elektroplating.
+
+
+1.2 Perumusan masalah
+Sesuai uraian yang telah dipaparkan di atas maka dapat dirumuskan
+beberapa permasalahan yang akan diteliti, yaitu ;
+(1) Bagaimana pengaruh pengendalian suhu dan waktu pelapisan pada proses
+elektroplating terhadap nilai ketebalan lapisan Cu-Ni.
+(2) Bagaimana nilai ketebalan lapisan Cu-Ni dan nilai kekasaran permukaan
+lapisan sebagai hasil proses elektroplating dengan memvariasikan suhu dan
+waktu pelapisan.
+1.3 Originalitas Penelitian
+Beberapa jurnal penelitian mengenai elektroplating terutama tentang
+pelapisan tembaga, nikel dan krom telah sering dilakukan. Namun demikian
+dalam penelitian ini mengambil faktor suhu elektrolit dan lama waktu pencelupan
+sebagai variabel terikat sedangkan variabel bebasnya mengambil ketebalan lapisan
+dan kekasaran permukaan yang terbentuk akibat proses elektroplating. Beberapa
+penelitian tentang elektroplating dengan melibatkan material tembaga dan nikel
+antara lain sebagai berikut :
+Richard Alfonso (2005) meneliti pengaruh suhu dan waktu pelapisan nikel
+pada baja karbon rendah terhadap nilai kekasaran permukaan pelapisan. Suhu
+pelapisan yang digunakan 600C dan 700C, dengan lama waktu pelapisan 2, 3, 4
+dan 5 menit. Dari penelitian ini diperoleh data-data hasil penelitian yang dapat
+disimpulkan bahwa dengan naiknya suhu dan waktu pelapisan, maka nilai
+kekasaran permukaan juga meningkat.
+M. Husna Al Hasa (2007) meneliti tentang pengaruh rapat arus dan waktu
+pelapisan nikel pada foil uranium secara elektroplating terhadap nilai ketebalan
+lapisan nikel yang terbentuk. Waktu pelapisan yang digunakan adalah : 30, 60 dan
+90 menit. Dari penelitian ini diperoleh data-data bahwa ketebalan lapisan mulai
+dari 3.1 μm pada 5mA/cm2 hingga mencapai 30.8 μm dengan waktu 30 menit,
+61.5 μm dengan waktu 60 menit dan 92.3 μm dengan waktu 90 menit, 50
+mA/cm2. Penambahan ketebalan lapisan dimungkinkan karena rapat arus yang
+semakin tinggi memacu percepatan pelepasan elektron. Sementara itu waktu
+pelapisan semakin lama akan memperbesar kesempatan proses reaksi reduksi dari
+ion positif ke logam pelapis dan memperpanjang waktu transportasi gerakan ion
+positif menuju kutup negatif (permukaan logam yang dilapis). Sebagai kesimpulan
+dari hasil penelitian ini adalah bahwa rapat arus dan waktu elektroplating yang
+semakin tinggi akan semakin meningkatkan ketebalan lapisan yang terbentuk.
+Bambang Santoso dan Martijanti Syamsa (2007) meneliti tentang
+pengaruh waktu dan suhu pelapisan nikel pada tembaga. Suhu pelapisan
+divariasikan pada posisi : 400C, 500C dan 600C dan dengan lama waktu pelapisan
+5, 10 dan 15 menit serta rapat arus 0.28, 0.35 dan 0.42 amper. Nilai tertinggi
+untuk tebal lapisan adalah 82μm pada 0.42 amper dengan waktu 15 menit dan
+suhu elektrolit 600C. Kesimpulan dari hasil penelitian ini adalah bahwa nilai suhu
+dan waktu yang semakin besar maka semakin tebal pula lapisan nikel yang
+terbentuk.
+I Ketut Suarsana (2008) telah meneliti tentang pengaruh waktu pelapisan
+nikel pada tembaga. Percobaab pertama, voltase yang digunakan 5 Volt dengan
+suhu elektrolit dijaga tetap pada kondisi 600C dengan variasi waktu 5, 10, 15, 20
+dan 25 menit. Dari penelitian ini diperoleh data-data hasil penelitian yang dapat
+disimpulkan bahwa ketebalan lapisan nikel dan tingkat kecerahan lapisan
+meningkat linier dengan meningkatnya waktu pelapisan.
+Maria Poroch-Seritana dkk. (2011) meneliti tentang pemodelan statistik
+dan analisa hasil proses elektroplating nikel pada tembaga dalam rangka
+meningkatkan efisiensi katoda serta untuk memperoleh karakteristik terbaik dari
+permukaan lapisan, ketebalan dan nilai kekerasan. Spesifikasi penelitian antara
+lain ukuran : bak elektrolit 13.9x12.5x10 cm3, volume larutan 1.75 lt, katoda
+(tembaga) dengan ukuran 9.8x8x0.1 cm3 dan anoda (nikel) 10x4x0.3 cm3. Hasil
+yang diperoleh dalam penelitian ini bahwa kondisi optimum diperoleh pada suhu
+elektrolit 33.440C, PH 6.22, diperoleh : efisiensi katoda 79.12±0.18%, ketebalan
+lapisan 52.77±0.48 μm, kecerahan 26.12±0.45% dan kekerasan 371.6±1.77HV.
+1.4 Manfaat Penelitian
+Dari penelitian ini akan diperoleh informasi tentang proses pelapisan plat
+baja karbon rendah secara elektroplating dengan pelapis tembaga dan nikel
+dengan cara mengendalikan faktor suhu dan lama waktu pelapisan sehingga
+diperoleh suatu nilai ketebalan lapisan dan nilai kekasaran permukaan. Kondisi
+peralatan, jumlah elektrolit dan penempatan elektroda menjadi pertimbangan
+dalam menguji data-data penelitian.
+
+
+1.5 Tujuan Penelitian
+Tujuan dari penelitian ini untuk mengetahui :
+(1) Pengaruh suhu elektrolit dan lama waktu pelapisan terhadap nilai kekasaran
+permukaan lapisan nikel pada baja karbon rendah.
+(2) Pengaruh suhu elektrolit dan lama waktu pelapisan terhadap ketebalan
+lapisan tembaga dan lapisan nikel pada baja karbon rendah.
+
+
+1.6 Batasan Masalah
+Pelapisan tembaga-nikel pada plat baja karbon rendah sangat dipengaruhi
+oleh banyak faktor. Namun demikian di dalam penelitian ini hanya akan
+difokuskan pada pengendalian suhu elektrolit ; 30°C, 40°C, 50°C, dengan waktu
+pelapisan 5, 10 dan 15 menit pada tegangan 6 Volt untuk pelapisan tembaga,
+sedangkan pada pelapisan nikel suhu elektrolit dikendalikan pada ; 45°C, 55°C,
+65°C dengan waktu pelapisan 10, 20 dan 30 menit pada tegangan 9 Volt. Suhu
+dan waktu merupakan variabel bebas sedangkan variabel terikatnya yaitu nilai
+ketebalan dan kekasaran permukaan lapisan tembaga-nikel dalam μm.
+
+
+1.7 Sistematika Penulisan
+Penulisan tesis ini disusun dalam 5 bab dengan bahasan yang spesifik pada
+tiap-tiap babnya. Bab I merupakan pendahuluan yang memaparkan tentang latar
+belakang penelitian, perumusan masalah, originalitas penelitian, manfaat
+penelitian, tujuan penelitian, batasan masalah dan sistematika penulisan. Halaman
+berikutnya adalah Bab II tinjauan pustaka yang berisi tentang materi pelapisan
+logam, teori tentang elektroplating, data-data spesifikasi pada pelapisan tembaga
+dan nikel, ulasan mengenai beberapa parameter peubah pada proses elektroplating
+yang mempengaruhi hasil nilai ketebalan lapisan dan kekasaran permukaan,
+proses elektroplating dan hipotesa penelitian. Dilanjutkan Bab III yang merupakan
+metodologi penelitian yaitu menguraikan tentang bahan-bahan penelitian,
+peralatan penelitian, proses penelitian, pengambilan data hasil penelitian.
+Metodologi merupakan perangkat untuk menganalisa pada pelaksanaan dan
+pembahasan penelitian agar dapat dipertanggungjawabkan secara ilmiah. Bab
+selanjutnya adalah Bab IV yang berisi tentang hasil dan pembahasan penelitian
+yang dikelompokkan berupa ; data hasil pengukuran kekasaran permukaan, nilai
+ketebalan lapisan tembaga dan ketebalan lapisan nikel dan pengolahan data hasil
+penelitian. Bab yang terakhir adalah Bab V berisi tentang hasil yang diperoleh
+dikaitkan dengan pokok permasalahan dan tujuan penelitian, kesimpulan dan
+saran.

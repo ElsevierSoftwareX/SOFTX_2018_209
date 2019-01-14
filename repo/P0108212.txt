@@ -1,0 +1,414 @@
+﻿ARAHAN PENGENDALIAN PERUBAHAN
+PENGGUNAAN LAHAN
+MENGGUNAKAN MARKOV - CELLULAR AUTOMATA
+DI KABUPATEN CIANJUR
+
+Abstrak : Pengendalian laju perubahan penggunaan lahan sangat diperlukan agar
+keberlanjutan lingkungan dapat tetap terjaga. Salah satu upaya untuk menjaga keberlanjutan
+tersebut adalah dengan mempelajari perubahan yang terjadi beberapa tahun sebelumnya.
+Perubahan ini dapat dipelajari dengan pendekatan model Markov – Cellular Automata.
+Kabupaten Cianjur merupakan salah satu kabupaten yang rawan terhadap bencana longsor,
+sehingga perlu dilakukan pengendalian perubahan penggunaan lahan agar dapat terwujudnya
+keberlanjutan lingkungan yang sesuai dengan arahan tata ruang yang telah ditetapkan.
+Tujuan penelitian ini adalah mengetahui perubahan penggunaan lahan yang terjadi dan
+mengevaluasi penggunaan lahan tersebut terhadap RTRW serta menyusun arahan
+pengendalian perubahan penggunaan lahan. Hasil analisis menunjukkan Kabupaten Cianjur
+mengalami penurunan luasan hutan yang cukup besar yaitu sebesar 10,3% dan
+ketidaksesuaian penggunaan lahan dengan RTRW sebesar 10,4%. Hasil prediksi
+memperlihatkan bahwa perubahan tanpa ada skenario menyebabkan persentase
+ketidaksesuaian penggunaan lahan meningkat drastis menjadi 20,5%. Skenario dimana
+dilakukan pengembalian fungsi hutan dapat menekan persentase ketidaksesuaian menjadi
+16,6%.
+Kata Kunci: Pengendalian, Perubahan Penggunaan Lahan, Markov – Cellular Automata
+
+PENDAHULUAN
+Pola perubahan penggunaan lahan cenderung dinamis dan memiliki kecepatan
+perubahan yang berbeda di setiap wilayah. Hal ini dikarenakan perubahan yang terjadi
+sangat tergantung pada faktor pendorongnya. Faktor tersebut dominan terbagi dalam dua
+kategori, yaitu kondisi bio-fisik dan kondisi sosial-ekonomi. Faktor bio-fisik tidak
+mempengaruhi secara langsung, kebanyakan hanya menyebabkan terjadinya perubahan
+pada tutupan lahan atau mempengaruhi keputusan pengelolaan terhadap lahan tersebut
+yang merupakan aktivitas manusia. Seiring dengan semakin meningkatnya aktivitas
+manusia diberbagai sektor terutama sektor ekonomi, maka kebutuhan/permintaan akan
+sumberdaya lahan juga akan meningkat. Ketersediaan lahan yang relatif tetap akan
+menyebabkan tingginya kompetisi penggunaan lahan, namun pada akhirnya prioritas
+perubahan penggunaan lahan akan dimenangkan oleh desakan kebutuhan ekonomi dan
+sosial. Akibat dari desakan yang sangat kuat, diperlukan pengedalian laju perubahan
+penggunaan lahan agar keberlanjutan lingkungan dapat tetap terjaga. Salah satu upaya
+untuk menjaga keberlanjutan lingkungan adalah dengan mempelajari perubahan
+penggunaan lahan yang terjadi. McConnel (2006) menjelaskan bahwa studi perubahan
+penggunaan lahan tidak hanya mengalokasikan sejumlah penggunaan lahan tapi juga
+mempelajari variasi pola penggunaan lahan tersebut, sehingga ada proses monitoring
+terhadap penggunaan lahan. Terdapat banyak cara dalam mempelajari perubahan
+penggunaan lahan, seperti Markov - Cellular Automata.
+Konsep Cellular Automata (CA) pada mulanya diperkenalkan oleh Ulam dan
+Neumann sekitar tahun 1940-an untuk menyediakan kerangka untuk menginvestigasi
+perilaku sistem yang kompleks (Huan et al, 2010). Metode ini merupakan sistem dinamis
+yang beroperasi dengan ruang dalam data raster dimana nilai data raster tersebut dapat
+didefinisikan kedalam data binari atau diskrit dan perilakunya dipengaruhi oleh
+ketetanggaan. Model Markov-CA merepresentasikan penggunaan lahan yang mana
+perubahannya tergantung pada aturan mempertimbangkan penggunaan lahan tetangganya
+(Manson, 2005). Chen et al. (2002) menjelaskan komponen utama Markov-CA adalah cell
+(piksel), state, neigborhood (ketetanggaan) dan transition function atau transition rule
+(fungsi perubahan). Cell atau piksel merupakan ruang dua dimensi yang berukuran sama
+dan berfungsi sebagai unit analisis dengan ukuran yang bervariasi. State adalah variabel
+diskrit pada setiap sel yang merupakan fungsi waktu (CSIRO, 2003). Perubahan
+penggunaan lahan pada setiap piksel tergantung pada penggunaan lahan periode
+sebelumnya dan penggunaan lahan tetangganya (Berger et al, 2001), serta dikontrol oleh
+satu sistem set aturan atau fungsi transisi.
+Kabupaten Cianjur merupakan salah satu kabupaten di Jawa Barat yang rawan
+terhadap bencana longsor, karena topografi wilayahnya yang didominasi perbukitan.
+Sepanjang tahun 2011 hingga 2015, telah terjadi 54 kejadian bencana longsor yang
+tersebar di beberapa kecamatan (BPBD, 2015). Hal ini merupakan salah satu dampak dari
+kehilangan hutan yang marak terjadi. Berdasarkan penelitian Forest Watch Indonesia,
+selama rentang tahun 2000 hingga tahun 2009, Kabupaten Cianjur mengalami kehilangan
+luasan hutan terbesar yaitu sebesar 17,9% dari luas wilayahnya. Oleh karena itu, perlu
+dilakukan pengendalian perubahan penggunaan lahan agar dapat terwujudnya
+keberlanjutan lingkungan yang sesuai dengan arahan tata ruang yang telah ditetapkan.
+METODE PENELITIAN
+Penelitian dilaksanakan di Kabupaten Cianjur yang secara geografis terletak antara 6o
+21’ – 7o 32’ LS dan 106o 42’ – 107o 25’ BT dengan luas sebesar 359.469 ha (Gambar 1).
+
+Penelitian dilakukan untuk memprediksi perubahan penggunaan lahan dengan
+pendekatan model spasial dinamik. Tujuan penelitian ini adalah mengetahui perubahan
+penggunaan lahan yang terjadi dan mengevaluasi penggunaan lahan tersebut terhadap
+RTRW serta menyusun arahan pengendalian perubahan penggunaan lahan. Keterkaitan
+antara tujuan penelitian, data, metode analisis, dan hasil yang diharapkan secara ringkas
+disajikan pada Tabel 1.
+Tabel 1 Matriks Hubungan antara Tujuan, Jenis Data, Metode dan Hasil
+No Tujuan Jenis Data Metode Hasil
+1 Mengetahui perubahan
+penggunaan lahan yang terjadi
+Peta penggunaan lahan
+tahun 2000, 2007, dan
+2014
+Markov
+Cellular
+Automata
+Peta prediksi
+penggunaan lahan
+2 Mengevaluasi penggunaan
+lahan terhadap RTRW
+Peta penggunaan
+lahan eksisting
+Peta penggunaan
+lahan prediksi
+Peta RTRW
+Overlay
+Analisis
+deskriptif
+Kesesuaian
+penggunaan lahan
+dengan RTRW
+3 Menyusun arahan
+Pengendalian perubahan
+penggunaan lahan
+Peta penggunaan
+lahan
+Peta RTRW
+Cellular
+Automata
+Overlay
+Analisis
+deskriptif
+Skenario dan
+arahan
+pengendalian
+lahan yang sesuai
+dengan RTRW
+
+Teknik analisis data yang digunakan untuk menjawab tujuan adalah sebagai berikut:
+Markov – Cellular Automata
+Pemodelan prediksi penggunaan lahan dilakukan dengan pendekatan metode
+Markov Chain dan Cellular Automata (CA). El-Hallaq dan Habboub (2015) menjelaskan
+proses Markov sebagai keadaan sistem pada waktu kedua dapat diprediksi dengan keadaan
+sistem pada waktu pertama dengan memberikan matriks probabilitas transisi dari masingmasing
+kelas penutupan lahan untuk setiap kelas penutupan lahan lainnya. Model Markov-
+CA menggunakan filter matriks berukuran 5 x 5 yang merupakan penerjemahan dari
+konsep ketetanggaan. Ukuran ini diartikan bahwa perubahan penggunaan lahan pada
+piksel pusat dipengaruhi oleh nilai 24 piksel tetangganya. Filter matriks ini sifatnya
+bergerak secara horizontal atau vertikal dalam melakukan analisis ketetanggaan pada suatu
+peta raster. Dalam melakukan simulasi perubahan penggunaan lahan, pada penelitian ini
+dilakukan prediksi perubahan tahun 2014 sebagai proses validasi model berdasarkan data
+penggunaan lahan tahun 2000 dan 2007. Kemudian baru dilakukan prediksi penggunaan
+lahan tahun 2025 dengan penambahan beberapa skenario pengendalian perubahan
+penggunaan lahan. Penyusunan skenario pengendalian perubahan penggunaan lahan
+dilakukan dengan melihat hasil perubahan penggunaan lahan yang terjadi dan terprediksi
+serta menentukan beberapa asumsi dalam pengendaliannya. Asumsi tersebut akan
+dimasukkan sebagai pembatas/skenario dalam proses prediksi sehingga dihasilkan
+perubahan penggunaan lahan yang diharapkan.
+Evaluasi Penggunaan Lahan terhadap RTRW
+Evaluasi penggunaan lahan dengan rencana tata ruang wilayah dilakukan pada dua
+titik tahun penggunaan lahan yang berbeda, yaitu pada penggunaan lahan aktual tahun
+2014 dengan penggunaan lahan hasil prediksi tahun 2025. Evaluasi dilakukan
+menggunakan proses analisis tumpang susun (overlay). Hasil analisis memperlihatkan
+penggunaan lahan yang sudah sesuai dengan rencana tata ruang wilayah, tidak sesuai
+dengan rencana tata ruang wilayah serta lahan yang masih memungkinkan untuk berubah
+fungsi di masa yang akan datang.
+Arahan Pengendalian Perubahan Penggunaan Lahan
+Arahan pengendalian perubahan penggunaan lahan dihasilkan dengan memilih
+skenario prediksi penggunaan lahan yang memiliki nilai kesesuaian terbaik antara
+penggunaan lahan hasil prediksi dengan RTRW. Parameter yang digunakan sebagai arahan
+penggunaan lahan adalah skenario yang memiliki nilai sesuai terbesar dan ketidaksesuaian
+terkecil.
+HASIL DAN PEMBAHASAN
+Analisis Perubahan Penggunaan Lahan
+Gambar 2 dan Gambar 3 menunjukkan penggunaan lahan di Kabupaten Cianjur
+berdasarkan hasil interpretasi tahun 2000, 2007, dan 2014. Penggunaan lahan yang
+mendominasi adalah hutan, lahan kering, dan sawah. Pada periode tahun 2000 hingga
+2014, tren penggunaan lahan hutan di Kabupaten Cianjur terus menurun hingga mencapai
+10,3%. Penurunan luas hutan mengindikasikan adanya kerusakan lahan hutan terutama
+hutan pada kawasan lindung, yaitu : hutan lindung dan hutan konservasi. Hutan memiliki
+fungsi yang sangat penting dalam menjaga kelestarian lingkungan.
+
+Gambar 2 Grafik Perubahan Penggunaan Lahan Kabupaten Cianjur
+Perkebunan memberikan nilai ekonomi yang lebih tinggi dibandingkan lahan
+pertanian lainnya seperti sawah atau lahan kering terhadap ekonomi masyarakat sekitar,
+sedangkan semak belukar dan lahan kering sering diartikan sebagai wilayah transisi
+sebelum dimanfaatkan oleh masyarakat yang tinggal disekitarnya sehingga mempunyai
+nilai ekonomi. Namun, berbeda dengan lahan kering, semak belukar pada umumnya
+merupakan transisi dari penggunaan lahan hutan yang akan dijadikan penggunaan lain
+yang non-hutan. Semakin banyak semak belukar dan lahan kering yang terindentifikasi
+maka peluang lahan tersebut akan terkonversi akan semakin besar. Hal ini terlihat dari
+peningkatan luasan perkebunan dan semak belukar yang cukup signifikan yaitu sebesar 5%
+dan 3,9% serta penurunan luasan lahan kering sebesar 0,2%. Hal ini dikarenakan kondisi
+fisik wilayah Kabupaten Cianjur yang dominan berbukit membuat masyarakat lebih mudah
+memanfaatkan lahan menjadi pertanian lahan kering dibandingkan sawah.
+
+Gambar 3 Perubahan Penggunaan Lahan Kabupaten CianjurTahun 2000, 2007 dan 2014.
+
+
+Penggunaan lahan sawah juga memiliki luasan yang relatif stabil. Saat ini dengan
+adanya Peraturan Pemerintah No 41 Tahun 2009 mengenai perlindungan lahan pertanian
+pangan berkelanjutan, pemerintah daerah berupaya menjaga wilayah sawahnya agar tidak
+berubah fungsi. Jika perubahan itu terjadi, hanya bersifat dari penggunaan lahan basah
+menjadi penggunaan lahan kering, dikarenakan pergantian musim dari musim hujan ke
+musim kemarau. Perubahan ini banyak terjadi pada sawah tadah hujan menjadi
+tegalan/tanaman semusim yang tidak memerlukan banyak air.
+Kawasan terbangun di Kabupaten Cianjur mengalami peningkatan sebesar 2,8%.
+Perubahan penggunaan lahan menjadi kawasan terbangun dominan terjadi di bagian utara.
+Hal ini dikarenakan di bagian Utara Cianjur terdapat kawasan wisata Puncak yang menjadi
+destinasi baik wisatawan lokal dan mancanegara. Kawasan Puncak saat ini juga menjadi
+bagian dari Kawasan Strategis Nasional (KSN) yang diharapkan dapat menjaga kelestarian
+lingkungan sehingga dapat melindungi wilayah yang berada dibawahnya. Namun faktanya
+adalah pembangunan kawasan terbangun seperti rumah perisitirahatan atau vila semakin
+marak terjadi.
+Tabel 2 menunjukkan nilai kesesuaian penggunaan lahan eksisting dengan RTRW.
+Berdasarkan hasil perbandingan, didapatkan bahwa penggunaan lahan eksisting Kabupaten
+Cianjur memiliki kesesuaian penggunaan lahan dengan RTRW sebesar 40,8%, tidak sesuai
+sebesar 10,4% dan penggunaan lahan yang memungkinkan untuk berubah 48,8%.
+Penyebab ketidaksesuaian dominan terjadi pada lahan kering dan semak belukar yang
+berada di Kawasan Lindung. Hal ini nyata menunjukkan perambahan hutan marak terjadi.
+Tabel 2 Evaluasi Penggunaan Lahan Kabupaten Cianjur Tahun 2014 dengan RTRW
+Pernggunaan
+Lahan
+Rencana Tata Ruang Wilayah Kabupaten Cianjur (dalam 000 ha)
+Kws
+Lindung
+Kws
+Hutan
+Produksi
+Kws
+Perkebunan
+Kws
+PLK
+Kws
+PLB
+Kws
+Terbangun
+Tubuh
+Air
+Jumlah
+Hutan 36,4a) 9,3b) 3,8b) 1,0b) 0,2b) 0,0b) 0,0b) 50,6
+Perkebunan 2,7c) 15,1b) 19,8a) 4,8b) 0,2b) 0,2b) 0,0b) 42,8
+Semak Belukar 8,4c) 12,4b) 15,9b) 7,5b) 0,5b) 0,1b) 0,2b) 45,1
+Lahan Kering 12,0c) 10,9b) 45,6b) 48,8a) 3,3b) 1,0b) 0,0b) 121,6
+Sawah 6,9c) 2,0b) 9,5b) 27,7b) 18,1a) 4,1b) 0,1b) 68,4
+K. Terbangun 0,7c) 0,2c) 1,7c) 2,6c) 2,0c) 21,5a) 0,0c) 28,8
+Tubuh Air 1,8a) 0,0c) 0,0c) 0,1c) 0,0c) 0,0c) 0,1a) 2,0
+Lainnya 0,0b) 0,0b) 0,0b) 0,0b) 0,0b) 0,0b) 0,0b) 0,1
+Jumlah 68,9 49,9 96,4 92,6 24,3 27,0 0,4 359,5
+Keterangan : a) sesuai dengan RTRW, b) masih dapat berubah fungsi, c) tidak sesuai dengan RTRW
+Prediksi Penggunaan Lahan Tahun 2025
+Prediksi perubahan penggunaan lahan ditujukan untuk mengestimasi perubahan
+penggunaan lahan pada tahun 2025. Penentuan prediksi dilakukan dengan menjadikan
+peta penggunaan lahan tahun 2000 sebagai tahun dasar dan tahun 2014 sebagai tahun
+kedua dalam analisis Markov Chain., kemudian tahun 2014 sebagai tahun dasar pada
+analisis Cellular Automata dengan jumlah iterasi sebanyak 11 kali. Tabel 3 memperlihatkan
+hasil prediksi penggunaan lahan tahun 2025 di Kabupaten Cianjur. Pada tahun 2025
+diprediksi akan mengalami penurunan luas pada penggunaan lahan hutan sebesar 6,4%
+serta lahan kering dan sawah masing-masing sebesar 2,9% dan 2,8%. Peningkatan luas
+terbesar terjadi pada penggunaan lahan kawasan terbangun sebesar 6,3% kemudian
+perkebunan sebesar 4,9% dan semak belukar sebesar 0,9%.
+
+Tabel 3 Prediksi Luas dan Perubahan Penggunaan Lahan di Kabupaten Cianjur
+Penggunaan Lahan
+Kabupaten Cianjur
+2014 2025 Perubahan
+000 ha % 000 ha % 000 ha %
+Hutan 50,6 14,1 27,8 7,7 -22,8 -6,4
+Perkebunan 42,8 11,9 60,4 16,8 17,6 4,9
+Semak Belukar 45,1 12,5 48,3 13,4 3,2 0,9
+Lahan Kering 121,6 33,8 110,9 30,8 -10,7 -2,9
+Sawah 68,4 19,0 58,3 16,2 -10,1 -2,8
+K. Terbangun 28,8 8,0 51,4 14,3 22,6 6,3
+Tubuh Air 2,0 0,6 2,3 0,6 0,2 0
+Lainnya 0,1 0 0,2 0 0,1 0
+Jumlah 359,5 100 359,5 100 0 0
+Tabel 4 menunjukkan nilai kesesuaian penggunaan lahan prediksi dengan RTRW.
+Berdasarkan hasil perbandingan didapatkan bahwa penggunaan lahan prediksi di
+Kabupaten Cianjur memiliki kesesuaian penggunaan lahan prediksi dengan RTRW sebesar
+36,3%, tidak sesuai meningkat tajam menjadi sebesar 20,5% dan penggunaan lahan yang
+memungkinkan untuk berubah 43,2%.
+Tabel 4 Evaluasi Penggunaan Lahan Prediksi Kabupaten Cianjur dengan RTRW
+Penggunaan
+Lahan
+Rencana Tata Ruang Wilayah Kabupaten Cianjur (dalam 000 ha)
+Kws
+Lindung
+Kws
+Hutan
+Produksi
+Kws
+Perkebunan
+Kws
+PLK
+Kws
+PLB
+Kws
+Terbangun
+Tubuh
+Air
+Jumlah
+Hutan 21,0a) 4,0b) 1,9b) 0,6b) 0,1b) 0,1b) 0,0b) 27,8
+Perkebunan 8,4c) 20,2b) 24,4a) 6,6b) 0,5b) 0,2b) 0,0b) 60,4
+Semak Belukar 16,2c) 12,4b) 12,3b) 6,1b) 0,5b) 0,6b) 0,2b) 48,3
+Lahan Kering 12,9c) 10,7b) 39,9b) 45,8a) 0,8b) 0,7b) 0,0b) 110,9
+Sawah 7,0c) 1,6b) 8,1b) 24,2b) 14,5a) 2,8b) 0,1b) 58,3
+K. Terbangun 0,8c) 0,8c) 9,8c) 9,6c) 7,9c) 22,6a) 0,0c) 51,4
+Tubuh Air 1,8a) 0,0c) 0,1c) 0,1c) 0,0c) 0,1c) 0,1a) 2,3
+Lainnya 0,0c) 0,0b) 0,0b) 0,0b) 0,0b) 0,1b) 0,0b) 0,2
+Jumlah
+6
+8,3
+49
+,9
+96,4
+9
+3,0
+2
+4,3
+27,1
+0
+,4
+3
+59,5
+Keterangan : a) sesuai dengan RTRW, b) masih dapat berubah fungsi, c) tidak sesuai dengan RTRW
+Berdasarkan hasil prediksi, peningkatan kawasan terbangun dan semak belukar
+selalu diikuti oleh penurunan hutan. Jika hal ini terus dibiarkan tanpa kendali akan
+membahayakan kondisi lingkungan di Kabupaten Cianjur dan resiko bencana longsor pun
+juga semakin tinggi.
+Arahan Pengendalian Perubahan Penggunaan Lahan
+Perubahan penggunaan lahan yang terjadi saat ini menunjukkan adanya dinamika
+pada setiap kelas penggunaan lahan. Jika dilihat dari perubahan yang terjadi saat ini serta
+gambaran hasil prediksi mengindikasikan bahwa perlu dilakukan pengendalian sehingga
+dapat meminimalkan kemungkinan terburuk yaitu bencana longsor. Salah satu cara yang
+bisa dilakukan agar perubahan penggunaan lahan dapat terkendali adalah dengan
+menyusun beberapa skenario dibuat dengan tujuan untuk meningkatkan kembali luasan penggunaan lahan hutan dan menurunkan ketidaksesuaian penggunaan lahan yang akan
+datang dengan RTRW masing-masing kabupaten. Skenario ini menggunakan asumsi
+bahwa terdapat intevensi pemerintah daerah dalam perubahan penggunaan lahan yang
+akan terjadi. Beberapa hal yang dimiliki oleh pemerintah melalui skenario ini yaitu terdapat
+anggaran yang cukup, terdapat jumlah personel yang cukup dan adanya penegakan hukum
+yang konsisten terhadap pelanggaran yang terjadi. Skenario dibuat menggunakan
+kebijakan spasial dan pembatasan area yang kemudian dimasukkan sebagai input untuk
+simulasi prediksi penggunaan lahan. Terdapat tiga skenario untuk mengendalikan
+perubahan penggunaan lahan di Kabupaten Cianjur. Skenario pertama dibuat kebijakan
+yang bersifat optimis yaitu penggunaan lahan hutan yang spesifik berada di kawasan
+lindung di pertahankan atau tidak boleh ada perubahan fungsi. Luas penggunaan lahan
+hasil prediksi dengan skenario ini ditampilkan pada Tabel 5 dan sebaran spasial
+ditampilkan pada Gambar 4.
+Tabel 5 Luas dan Perubahan Penggunaan Lahan Kabupaten Cianjur Skenario 1
+Penggunaan Lahan
+Kabupaten Cianjur
+2014 2025 Perubahan
+000 ha % 000 ha % 000 ha %
+Hutan 50,6 14,1 28,3 7,9 -22,3 -6,2
+Perkebunan 42,8 11,9 60,4 16,8 17,6 4,9
+Semak Belukar 45,1 12,5 48,3 13,4 3,2 0,8
+Lahan Kering 121,6 33,8 110,9 30,8 -10,7 -2,9
+Sawah 68,4 19,0 58,3 16,2 -10,1 -2,8
+K. Terbangun 28,8 8,0 50,9 14,2 22,1 6,2
+Tubuh Air 2,0 0,6 2,3 0,6 0,2 0
+Lainnya 0,1 0 0,2 0 0,1 0
+Jumlah 359,5 100 359,5 100 0 0
+Hasil prediksi skenario 1 menunjukkan terdapat peningkatan persentase kawasan
+terbangun sebesar 6,2% dan semak belukar sebesar 0,8%. Wilayah yang berubah menjadi
+kawasan terbangun masih dominan berada di bagian utara yang berbatasan langsung
+dengan Kabupaten Bogor. Penggunaan lahan hutan mengalami penurunan yaitu sekitar
+6,2%. Perubahan ini tidak terlalu jauh berbeda dengan penggunaan lahan hasil prediksi
+tanpa adanya skenario. Sawah dan lahan kering juga mengalami penurunan masing-masing
+sebesar 2,9% dan 2,8%. Hasil evaluasi kesesuaian dengan RTRW menunjukkan Kabupaten
+Cianjur memiliki kesesuaian penggunaan lahan prediksi dengan RTRW sebesar 36,6%,
+tidak sesuai sebesar 20,4% dan penggunaan lahan yang memungkinkan untuk berubah
+43,0%.
+Skenario 2 dengan kebijakan yang bersifat moderat dimana hutan dan semak
+belukar yang berada di kawasan lindung di pertahankan atau tidak boleh ada perubahan
+fungsi. Luas penggunaan lahan hasil prediksi dengan skenario ini ditampilkan pada Tabel 6.
+Tabel 6 Luas dan Perubahan Penggunaan Lahan Kabupaten Cianjur Skenario 2
+Penggunaan Lahan
+Kabupaten Cianjur
+2014 2025 Perubahan
+000 ha % 000 ha % 000 ha %
+Hutan 50,6 14,1 42,5 11,8 -8,1 -2,3
+Perkebunan 42,8 11,9 60,4 16,8 17,6 4,9
+Semak Belukar 45,1 12,5 33,7 9,4 -11,4 -3,2
+
+Gambar 4. Peta Prediksi Perubahan Penggunaan Lahan Kabupaten Cianjur Tahun 2025 (1) Tanpa Skenario, (2)
+Skenario 1, (3) Skenario 2 dan (4) Skenario 3.
+
+Hasil prediksi skenario 2 menujukkan perubahan penggunaan lahan di Kabupaten
+Cianjur masih cukup dinamis. Persentase hutan, semak belukar dan lahan pertanian
+mengalami penurunan yang bervariasi dari 2% - 4%, sedangkan perkebunan sama seperti
+skenario sebelumnya yaitu mengalami kenaikan sebesar 4,9%. Hasil evaluasi kesesuaian
+dengan RTRW menunjukkan Kabupaten Cianjur memiliki kesesuaian penggunaan lahan
+prediksi dengan RTRW sebesar 40,5%, tidak sesuai sebesar 17,1% dan penggunaan lahan
+yang memungkinkan untuk berubah 42,4%.
+Tabel 7 Luas dan Perubahan Penggunaan Lahan Kabupaten Cianjur Skenario 3
+Penggunaan Lahan
+Kabupaten Cianjur
+2014 2025 Perubahan
+000 ha % 000 ha % 000 ha %
+Hutan 50,6 14,1 46,4 12,9 -4,2 -1,2
+Perkebunan 42,8 11,9 60,4 16,8 17,6 4,9
+Semak Belukar 45,1 12,5 37,1 10,3 -8,0 -2,2
+Lahan Kering 121,6 33,8 102,9 28,6 -18,8 -5,2
+Sawah 68,4 19,0 58,4 16,2 -10,0 -2,8
+K. Terbangun 28,8 8,0 51,6 14,4 22,8 6,5
+Tubuh Air 2,0 0,6 2,6 0,7 0,5 0
+Lainnya 0,1 0 0,2 0 0,1 0
+Jumlah 359,5 100 359,5 100 0 0
+Hasil prediksi skenario 3 dengan kebijakan dimana hutan dan semak belukar yang
+berada di kawasan lindung dipertahankan atau tidak boleh berubah fungsi serta pertanian
+lahan kering yang juga berada pada kawasan lindung dikembalikan fungsinya menjadi
+hutan menunjukkan pada Kabupaten Cianjur mengalami peningkatan luasan pada
+perkebunan dan kawasan terbangun yaitu sebesar 6,5% dan 4,9%. Penurunan luas terbesar
+terjadi pada lahan kering sebesar 5,2%, sawah 2,8%, semak belukar 2,2% dan hutan
+sebesar 1,2%. Hasil evaluasi kesesuaian dengan RTRW menunjukkan Kabupaten Cianjur
+memiliki kesesuaian penggunaan lahan prediksi dengan RTRW sebesar 40,1%, tidak sesuai
+sebesar 16,6% dan penggunaan lahan yang memungkinkan untuk berubah sebesar 43,3%.
+KESIMPULAN
+Perubahan penggunaan lahan yang terjadi di Kabupaten Cianjur dari tahun 2000
+hingga 2014 didominasi oleh perubahan hutan menjadi menjadi non-hutan dengan
+persentase penurunan luasan hutan sebesar 10,3% serta peningkatan penggunaan lahan
+perkebunan sebesar 5% dan semak belukar sebesar 3,9%. Kawasan terbangun juga
+mengalami peningkatan sebesar 2,8%. Hasil prediksi tahun 2025 juga menunjukkan
+penurunan luasan hutan sebesar 6,4% sedangkan peningkatan luasan yang sangat tajam
+tejadi pada penggunaan lahan kawasan terbangun. Persentase kesesuaian penggunaan
+lahan eksisting terhadap RTRW di Kabupaten Cianjur sebesar 40,8%, tidak sesuai sebesar
+10,4% dan penggunaan lahan yang memungkinkan untuk berubah 48,8%. Namun hasil
+prediksi menunjukkan persentase ketidaksesuaian penggunaan lahan terhadap RTRW
+meningkat tajam yaitu sebesar 20,5%.Arahan skenario tiga, dimana hutan dan semak
+belukar yang berada di kawasan lindung dipertahankan atau tidak boleh berubah fungsi
+serta pertanian lahan kering yang juga berada pada kawasan lindung dikembalikan
+fungsinya menjadi hutan, dapat mengendalikan perubahan penggunaan lahan dimana nilai
+ketidaksesuaian yang terjadi Kabupaten Cianjur dapat diturunkan menjadi 16,6%.

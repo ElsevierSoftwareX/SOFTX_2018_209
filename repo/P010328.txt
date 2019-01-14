@@ -1,0 +1,309 @@
+﻿Pengaruh Milling Terhadap Karakteristik Nanopartikel Biomassa Rotan
+
+Abstrak
+Ketersediaan biomassa rotan yang melimpah merupakan sumber daya alam kaya serat yang dihasilkan
+dari pengolahan rotan. Nanopartikel biomassa rotan merupakan pilihan material yang sangat potensial
+untuk dikembangkan dan diteliti lebih lanjut sebagai filler komposit yang memiliki sifat fisis mekanik lebih
+baik dari sintesis. Tujuan penelitian ini adalah untuk memperoleh nanopartikel serat alam dari biomassa
+rotan sebagai bahan penguat polipropilen (PP) menggunakan metode milling dengan variasi waktu15
+menit, 30 menit, dan 45 menit. Hasil dari menggunakan metode milling dengan alat Herzong didapatkan
+waktu milling optimum 30 menit dengan rata-rata ukuran partikel 24.35 nm dalam rentang 15.49 - 48.99 nm
+melalui ala uji PSA yang menggunakan metode akumulasi distribusi jumlah (number), Morfologi permukaan
+nanopartikel serat kulit rotan menunjukkan semakin lama waktu milling, semakin kecil ukuran partikelnya,
+dan ACS sebesar 0.9833 Å (0.09833 nm) dengan FWHM 0.1557 rad.
+Kata Kunci: rotan, biomassa, milling, nanopartikel
+
+Pendahuluan
+Penggunaan serat sintetis pada keperluan
+industri saat ini mengalami peningkatan, hal ini
+tentunya menimbulkan permasalahan akan limbah
+anorganik yang semakin bertambah. Naiknya harga
+minyak mentah dunia dan persediaannya yang
+terbatas serta bahaya pemanasan global yang
+ditimbulkan mampu mendorong perubahan trend
+teknologi komposit yang ramah lingkungan (Sisworo
+2009). Serat alam dapat digunakan sebagai
+pengganti serat sintetis yaitu sebagai penguat
+(filler) dalam material komposit, karena memiliki
+beberapa keunggulan antara lain sifatnya yang
+dapat diperbaruhi, dapat didaur ulang serta dapat
+terbiodegradasi di lingkungan (Zimmermann et al.
+2004). Dilain pihak, serat alam memiliki kelemahan
+terutama kemudahannya menyerap air dan kualitas
+yang tidak seragam (Oksman et al. 2003).
+Rotan merupakan salah satu sumber hayati
+Indonesia, penghasil devisa negara yang cukup
+besar (Sisworo 2009). Berdasarkan data dari
+APRI (Asosiasi Pengusaha Rotan Indonesia)
+Tahun 2009 produksi rotan di Indonesia sebesar
+174.386 ton/tahun, Tahun 2010 meningkat menjadi
+690.000 ton/tahun, terakhir berdasarkan data yang didapat Tahun 2012, produksi rotan di indonesia
+mencapai 1 juta ton/tahun sedangkan kebutuhan
+di Indonesia hanya mencapai 240.000 ton/th atau
+30% dari total produksi, maka biomassa rotan
+menumpuk di lingkungan tempat tinggal petani
+yang pemanfaatannya masih terbatas, saat ini
+petani menggunakannya sebagai ikat tali sayuran
+yang dijual di pasar, dimanfaatkan sebagai atap
+rumah petani rotan dan sisanya dibakar yang dapat
+menyebabkan pencemaran lingkungan, terlebih
+lagi eksport rotan secara ilegal masih berlangsung
+hingga hari ini yang tentunya sangat merugikan
+bagi pemerintah. Sementara itu biomassa rotan
+mencakup bagian yang lebih luas tidak hanya
+kulit tetapi potongan-potongan rotan dari tingkat
+industri yang merupakan bagian dari limbah yang
+kaya dengan serat dan melimpah di indonesia
+yang dapat juga direkayasa menjadi filler dalam
+komponen bionanokompoit (Sisworo, 2009).
+Teknologi pembuatan partikel nano menjadi
+sebuah fenomena baru yang penting dalam dunia
+rekayasa material karena manusia berusaha untuk
+mengintegrasikan suatu fungsi atau kerja dalam
+ukuran yang lebih kecil. Mengintegrasikan suatu
+fungsi mesin atau produk dalam ukuran yang
+lebih kecil bukan hanya berarti memperindahnya
+tapi juga memperkecil energi yang dibutuhkan
+dan mempercepat proses serta menghemat biaya
+pekerjaan. Strategi pengembangan nanoteknologi
+harus diarahkan untuk mengelola dan memberikan
+nilai tambah secara signifikan bagi sumber daya
+alam Indonesia guna meningkatkan daya saing
+bangsa (persaingan global) sekaligus menambah
+pendapatan negara.
+Berbagai macam metode akan terus
+dikembangkan seiring dengan kebutuhan
+nanopartikel dengan ukuran kurang dari 100 nm
+dan sekaligus mengubah sifat atau fungsinya
+(Rahul 2009; Wang et al. 2010). Berdasarkan
+data dari Lembaga Ilmu Pengetahuan Indonesia
+(LIPI) tahun 2014 sebanyak 35% industri di
+indonesia sudah menerapkan nanoteknologi,
+presentase ini meningkat jika dibandingkan dengan
+tahun sebelumnya sebesar 20.3% (LIPI 2014).
+Berbagai riset nanomaterial telah dilakukan di
+berbagai lembaga penelitian dan di perguruan
+tinggi di Indonesia diantaranya tahun 2010 Fisika
+LIPI mengembangkan metoda ultrasonic-milling
+pada nanomaterial logam, carbon nanotube
+dikembangkan oleh PT BIN BATAN, FT UI
+mengembangkan alat sensor nano berbasis nano
+komposit magnit dengan planetary ball mill. Fisika
+ITB membuat lapisan nano pada bahan magnet
+dalam bentuk quantum dot partikel nano silika.
+Nanoteknologi rotan merupakan pilihan material
+yang sangat potensial untuk dikembangkan dan
+diteliti lebih lanjut sebagai filler pengganti serat
+sintetis.
+Diperlukan penelitian yang lebih mendalam
+mengenai metode pembuatan nanopartikel
+biomassa rotan guna menghasilkan produk
+nanopartikel biomassa rotan yang dapat
+disesuaikan dengna kebutuhan industri. Sementara
+itu penelitian terkait metode sintesa nanopartikel
+rotan telah dilakukan oleh para peneliti terdahulu
+meliputi sintesa nanopartikel serat kulit rotan
+dengan metode ultrasonikasi (Nikmatin S. 2012)
+dan metode HEM (High Energy Milling) (Fery 2013).
+Diharapkan metode milling dengan variasi waktu 15,
+30, dan 45 menit dapat menghasilkan nanopartikel
+biomassa rotan sebagai bahan penguat pada
+polimer yang melebihi penelitian pendahulu
+dalam hal produktivitas, ukuran partikel, dan sifat
+fisis. Dilakukan pengujian Particle Size Analyzer
+(PSA) untuk mengetahui ukuran nano, XRD untuk
+mengetahui kristalografi sampel dan SEM untuk
+mengetahui struktur morfologi mikro.
+Bahan dan Metode
+Bahan utama yang digunakan dalam penelitian
+ini adalah biomassa rotan dari Desa Madu Sari
+Pontianak Kalimantan Barat. Biomassa rotan
+dibersihkan dari sisa-sisa kotoran tanah, debu,
+duri dan dipotong-potong. Setelah biomassa rotan
+bersih, kemudian ditimbang sebagai massa awal,
+lalu dipanaskan pada suhu 80oC sampai 100oC
+selama 15 menit setelah itu dilakukan proses
+pengeringan. Pemanasan ini bertujuan untuk
+menghilangkan impuritas dan melunakkan jaringan
+non selulosa.
+Serat yang dihasilkan diperkecil ukurannya
+dengan alat disk milling dan shaker hingga berukuran
+75 mikrometer lalu dilanjutkan dengan proses
+pembuatan nanopartikel menggunakan alat milling
+herzong hingga diameter partikel mencapai < 100
+nm. Herzong merupakan alat untuk memperkecil
+ukuran partikel dengan tumbukan, menggeser dan
+milling. Variasi waktu putaran herzong adalah 15,
+30, dan 45 menit.
+Nanopartikel yang telah dihasilkan melalui
+metode milling ini dilanjutkan dengan pengujian
+PSA untuk mengetahui ukuran nano, XRD
+untuk mengetahui data kualitatif dan kuantitatif
+kristalografi sampel, dan SEM untuk mengetahui
+morfologi mikro dan komposisi unsur sampel.
+Pada penelitian pendahulu dengan
+menggunakan metode ultrasonikasi waktu optimum
+3 jam (Nikmatin S. 2012) memperoleh nanopartikel
+berorde 20 nm dengan ukuran rata-rata partikel
+sebesar 146.3 nm, namun produktivitas yang
+dihasilkan rendah dan memiliki kadar air > 15%.
+Pada metode HEM waktu optimum 5 jam (Fery 2013)
+didapatkan ukuran rata-rata partikel sebesar 129.78
+nm. Untuk itu melalui metode milling ini diharapkan
+menghasilkan produk nanopartikel biomassa rotan
+yang dapat meningkatkan kandungan selulosa,
+menurunkan kadar air serta meningkatkan sifat
+fisis.
+
+Hasil dan Pembahasan
+Untuk mengetahui ukuran partikel selulosa kulit
+rotan hasil dari hammer milling digunakan analisa
+pendekatan PSA dan SEM. Alat Particle Size
+Analyser (PSA) yang digunakan memiliki skala
+pembacaan 0.6 nm – 7 μm, partikel didispersikan ke
+dalam media cair dan ukuran partikel yang terukur
+adalah ukuran dari partikel tunggal. Data ukuran
+partikel yang didapatkan berupa tiga distribusi
+yaitu intensity, number dan volume distribution,
+sehingga dapat diasumsikan menggambarkan
+keseluruhan kondisi sampel. Tabel 1 adalah hasil
+pengukuran PSA sintesa nanopartkel metode yang
+menunjukkan pengaruh lamanya waktu milling
+terhadap ukuran partikel, dimana serat kulit rotan
+menunjukan semakin meningkatnya waktu milling
+ukuran partikel semakin kecil hingga waktu milling
+optimum 30 menit.
+Sementara itu, meningkatnya waktu milling 45
+menit menjadikan ukuran partikel membesar (Tabel
+1). Hal ini disebabkan adanya aglomerasi sampel
+karena memiliki kadar air yang tinggi, sementara
+itu semakin lama waktu milling, maka panas dalam
+holder juga semakin meningkat sehingga beberapa
+kali proses harus dihentikan sesuai dengan SOP
+alat. Hal ini disebabkan karena adanya tumbukan
+dan gesekan antara logam dan partikel dalam
+holder selama proses milling (Gambar 1).
+Pengujian kadar selulosa dengan metode Van
+Soest yang didasarkan atas keterikatannya dengan
+anion atau kation detergen menggunakan sistem
+netral untuk mengukur total serat atau serat yang
+tidak larut dalam detergen netral (NDF) dan sistem
+detergen asam digunakan untuk mengisolasi
+selulosa yang tidak larut dan lignin serta komponen
+yang berikat dengan keduanya (ADF). Pengujian
+kadar selulosa, lignin dan kadar air dengan
+menggunakan metode ADF-NDF dengan hasil
+kandungan kimia yang dimiliki adalah selulosa
+37.38% dan lignin 22.19% dengan kadar air 3%.
+Pengolahan data SEM berdasarkan deteksi
+elektron sekunder (pantul) dari permukaan cuplikan
+dimana elektron tidak menembus sampel tetapi
+hanya pantulan hasil dari tumbukan elektron
+dengan permukaan cuplikan yang ditangkap oleh
+detektor dan diolah menjadi gambar struktur obyek
+yang sudah diperbesar. Pada proses operasinya,
+SEM tidak memerlukan cuplikan yang ditipiskan,
+sehingga bisa digunakan untuk melihat obyek dari
+sudut pandang 3 dimensi. Morfologi permukaan
+nanopartikel serat kulit rotan menunjukkan
+semakin lama waktu milling, semakin kecil ukuran
+partikelnya, meskipun belum tercapainya ukuran
+yang 100% homogen.
+Gambar 2 menunjukkan hasil morfologi
+permukaan nanopartikel serat kulit rotan pada
+lama waktu milling 15, 30 dan 45 menit. Partikel
+awal berukuran 75 μm mengecil seiring dengan
+bertambahnya waktu milling hingga 30 menit,
+lalu mengalami penggumpalan berbentuk serat
+bulat memanjang pada milling 45 menit. Hal ini
+membuktikan bahwa selama proses milling telah
+terjadi fenomena kavitasi yaitu pecahnya partikel
+mikro menjadi nano karena pengaruh gesekan dan
+tumbukan antar partikel kemudian menggumpal
+karena adanya peningkatan kadar air.
+Homogen dan keteraturan dalam produksi
+nanomaterial sangatlah diharapkan karena akan
+menghasilkan sifat dan karakteristik (panas, listrik
+dan mekanik) yang optimal dan stabil dalam milling dapat menghasilkan energi yang ditransfer
+ke partikel dan dapat menimbulkan proses kavitasi
+sehingga ukuran partikel menjadi lebih kecil berorde
+< 100 nm.
+Setiap material memiliki batas elastisitas dalam
+menerima deformasi dari luar dan alat milling
+herzong dengan variasi waktu yang diberikan
+mampu untuk memberikan deformasi melebihi
+batas elastisitas serat sehingga partikel dapat pecah
+hingga berukuran nanometer. Sementara itu panas
+yang terjadi selama proses milling juga semakin
+meningkat seiring dengan bertambahnya waktu
+milling dan atom-atom penyusun sampel memiliki
+suatu batas pengaturan atau penggabungan diri
+kembali setelah mengalami getaran, kekosongan
+kisi dan ketidakteraturan yang ditimbulkan oleh
+suhu, hal ini disebut dengan rekristalisasi.
+Pengujian XRD dilakukan untuk mengidentifikasi
+fasa, struktur, dan ukuran kristal dalam suatu
+material. Berdasarkan persamaan Bragg, jika
+seberkas sinar X dijatuhkan pada sampel kristal,
+maka bidang kristal itu akan membiaskan sinar X
+yang memiliki panjang gelombang sama dengan
+jarak antar kisi dalam kristal tersebut. Sinar yang
+dibiaskan akan ditangkap oleh detektor kemudian
+diterjemahkan sebagai puncak difraksi. Makin
+banyak bidang kristal yang terdapat pada sampel,
+makin kuat intensitas pembiasan yang dihasikan.
+Gambar 3 menunjukkan hasil karakterisasi XRD dari sampel dengan waktu milling 15 menit, 30
+menit, dan 45 menit. Profil nanopartikel kulit rotan
+membentuk struktur kristal dan amorf. Puncak
+tertinggi nanopartikel metode milling 30 menit
+terletak pada 2θ =22.02o dengan puncak intensitas
+sebesar 188 cacahan. Berdasarkan perhitungan
+nanopartikel kulit rotan yang didapat yang mendekati
+dengan literatur JCPDS adalah dengan waktu
+milling 30 menit, yaitu memiliki struktur monoklinik
+dengan parameter kisi a = 7.87, b = 10.95 dan c
+= 10.90 sedangkan literatur JCPDS mengatakan
+bahwa selulosa memiliki parameter kisi a = 7.87, b
+= 10.13 dan c = 10.31 (Gambar 4).
+Menurut metode Scherer, ACS (Atomic Crystal
+Size) dapat diketahui dengan penentuan lebar
+dari setengah puncak (Full Width a Half Maximum,
+FWHM) dengan panjang gelombang sumber
+sinar-X dari Cu (tembaga) sebesar 1.5406 Å. Lebar
+FWHM dipengaruhi oleh ukuran kristal. Semakin
+lebar puncak yang terdeteksi semakin kecil nilai
+ukuran kristal. Berdasarkan perhitungan (Tabel
+2) didapatkan bahwa ACS waktu milling 15 menit
+sebesar 0.9832 Å (0.09832 nm) dengan FWHM
+sebesar 0.1603 rad, ACS waktu milling 30 menit
+sebesar 0.9833 Å (0.09833 nm) dengan FWHM
+0.1557 rad, sedangkan ACS waktu milling 45 menit
+sebesar 0.9831 Å (0.09831 nm) dengan FWHM
+sebesar 0.1741 rad.
+Kristal yang sangat kecil akan menghasilkan
+puncak difraksi yang sangat lebar karena kristalitas
+yang kecil memiliki bidang pantul sinar-x yang
+terbatas. Semakin kecil ukuran kristal suatu
+material makan FWHM semakin besar dan puncak
+intensitas semakin menurun.
+Simpulan
+Gabungan metode disk milling dan herzong
+dapat digunakan untuk produksi nanopartikel serat
+dengan dicapainya waktu milling optimum 30 menit
+dan ukuran partikel 15.49 nm – 48.99 nm (ratarata
+= 24.35 nm). Kandungan kimia yang dimiliki
+nanopartikel biomassa rotan dengan metode ADFNDF
+adalah selulosa 37.38% dan lignin 22.19%
+dengan kadar air 3%. Morfologi mikro permukaan
+nanopartikel serat kulit rotan menunjukkan
+ukuran partikel semakin mengecil seiring dengan
+bertambahnya waktu milling hingga 30 menit, lalu
+mengalami penggumpalan berbentuk serat bulat
+memanjang pada milling 45 menit yang disebabkan
+karena adanya peningkatan kadar air. Pengujian
+XRD menunjukan ACS waktu milling 15 menit
+sebesar 0.9832 Å (0.09832 nm) dengan FWHM sebesar 0.1603 rad, ACS waktu milling 30 menit
+sebesar 0.9833 Å (0.09833 nm) dengan FWHM
+0.1557 rad, sedangkan ACS waktu milling 45 menit
+sebesar 0.9831 Å (0.09831 nm) dengan FWHM
+sebesar 0.1741 rad.

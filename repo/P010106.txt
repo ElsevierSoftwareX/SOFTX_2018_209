@@ -1,0 +1,372 @@
+﻿Studi Eksperimental Perilaku Siklis Flat Sab Beton Mutu Sangat Tinggi  
+
+Abstrak 
+
+Makalah ini menampilkan hasil penelitian eksperimental terhadap 3 buah benda uji struktur flat slab beton mutu sangat tinggi dengan campuran beton bubuk reaktif dibawah kombinasi beban gravitasi dan beban lateral siklis.
+
+Pengujian dilakukan dengan sistem sub assemblage hubungan pelat dan kolom dari struktur flat slab.
+
+Benda uji terdiri dari pelat dengan rasio tulangan tarik relatif rendah (0,65%) dan relatif tinggi (1,8%) yang diaplikasikan untuk bentang pelat 3,00 m sedangkan untuk pelat dengan bentang 2,00 m rasio tulangan yang dipakai hanya 1,8%.
+
+Beban gravitasi sebesar 8,45 kN/m2 diaplikasikan konstan, sedangkan beban lateral siklis diberikan dalam bentuk displacement control.
+
+Pembebanan siklis dilakukan melebihi ketentuan drift ACI 374.1-05 yaitu sampai dengan drift ± 5,00%.
+
+Pada drift 5%, perilaku non linear struktur menunjukkan respon histeresis yang daktail tanpa mengalami penurunan kekuatan yang signifikan baik untuk rasio tulangan tinggi maupun rendah.
+
+Meskipun demikian, penurunan kekakuan masih terjadi.
+
+Pengaruh rasio tulangan tarik lebih signifikan dibanding bentang pelat terhadap respon kekuatan dan kekakuan pelat terutama pada fase inelastis.
+
+Pelat bentang 3,0 m dengan rasio tulangan tarik rendah mempunyai rasio daktilitas perpindahan paling tinggi sedangkan pelat dengan bentang 3,0 m dengan rasio tulangan tarik tinggi mempunyai rasio daktilitas perpindahan paling rendah dibanding yang lain.
+
+Kata-kata Kunci: Beton mutu sangat tinggi, Beban lateral siklis, Kekuatan, Kekakuan, Rasio daktilitas Perpindahan  
+
+1.Pendahuluan 
+
+Sistem struktur flat slab telah dikenal mempunyai kelebihan dibanding sistem struktur pelat lainnya, yaitu lebih ekonomis, waktu pelaksanaan yang cepat dan memberikan ruang antar lantai yang lebih besar.
+
+Namun sistem struktur ini mempunyai kelemahan utama berupa resiko keruntuhan punching shear yang sering terjadi didaerah sekitar sambungan pelat-kolom.
+
+Transfer beban gravitasi dari pelat ke kolom menyebabkan daerah hubungan pelat-kolom menerima tegangan geser yang tinggi.
+
+Ketika struktur menerima beban lateral siklis, intensitas tegangan geser ini akan semakin meningkat akibat terjadi unbalanced moment didaerah hubungan pelat-kolom.
+
+Keruntuhan punching shear terjadi ketika kuat geser pelat tidak mampu lagi mengimbangi tegangan geser yang berkembang.
+
+Tipe keruntuhan ini biasanya berlangsung secara tiba-tiba dan sangat progresif.
+
+Untuk mengantisipasinya, kuat geser pelat harus ditingkatkan melebihi kuat lentur maksimum yang mungkin terjadi didaerah kritis, sehingga kelelehan tulangan lentur terjadi jauh sebelum kapasitas geser tercapai.
+
+Dalam upaya peningkatan kuat geser pelat, beberapa studi membuktikan penggunaan tulangan geser tipe shear stud didaerah kritis cukup memberikan hasil yang memuaskan.
+
+Studi Megally dan Ghali (2000) menyatakan penggunaan shear stud dapat meningkatkan daktilitas dan kapasitas drift pelat dibanding perkuatan geser lainnya.
+
+Gunadi, et.al.(2012) mengusulkan modifikasi konfigurasi shear stud pada pelat yang menggunakan beton normal.
+
+Hasil studi membuktikan struktur flat slab mampu bertahan dibawah beban lateral siklis sampai drift 5% tanpa mengalami keruntuhan geser.
+
+Solusi lain untuk meningkatkan kuat geser pelat adalah dengan cara meningkatkan kuat tekan beton.
+
+Studi Emam et.al.(1997) melaporkan hubungan pelat-kolom yang terbuat dari beton mutu tinggi (fc' 75 MPa) dapat meningkatkan daktilitas perpindahan, kuat geser dan drift kapasitas berturut-turut sebesar 100%, 20% dan 37% dibandingkan yang terbuat dari beton normal (fc' 35 MPa).
+
+Studi ini juga melaporkan penggunaan rasio tulangan tarik rendah dapat menyebabkan keruntuhan pelat lebih daktail.
+
+Studi Naaman, et.al.(2007), Cheng dan Parra-Montesinos (2010) melaporkan penambahan serat baja pada beton mutu tinggi makin meningkatkan kapasitas geser dan deformasi hubungan pelat-kolom.
+
+Di Indonesia, penelitian Harianto, et.al.(2011) telah menghasilkan beton dengan kuat tekan 130 -143 MPa dengan menggunakan material lokal.
+
+Penelitian ini menggunakan mixer tertentu yang berkapasitas volume kecil sehingga aplikasinya belum memungkinkan untuk pengecoran elemen struktur.
+
+Makalah ini menampilkan hasil studi ekperimental terhadap perilaku hubungan pelat-kolom pada struktur flat slab yang terbuat dari beton mutu sangat tinggi (141 MPa) dengan menggunakan serat polypropylene.
+
+Semua material campuran beton dibentuk dari material lokal yang tersedia di Indonesia.
+
+Penelitian ini memberikan informasi mengenai perilaku elemen struktur beton mutu sangat tinggi dibawah kombinasi beban gravitasi dan lateral siklis.
+
+2.Program Pengujian Eksperimental 
+
+2.1 Material Untuk mendapatkan beton mutu sangat tinggi, semen portland tipe II (ASTM C150-04a) digunakan dalam penelitian ini.
+
+Semen tipe ini mempunyai kandungan C3A (Tricalcium Silicate) relatif rendah, sehingga dapat mempercepat reaksi pembentukan CSH tahap kedua.
+
+Sebagai bahan pozzollan, digunakan silica fume (ASTM C1240-00) sebesar 12% dari berat semen.
+
+Agregat campuran berupa pasir silika dan bubuk silika dengan ukuran butiran maksimum masing-masing 600  m dan 50 mm.
+
+Faktor air semen sebesar 0,24.
+
+Untuk meningkatkan workability, superplasticiser (ASTM C 494-92 Type F) dengan bahan dasar polycarboxylate ditambahkan kedalam campuran sebesar 2,5% dari berat binder.
+
+Untuk mengatasi retak-retak awal mikro, serat sintetis polypropylene digunakan sebesar 0,02% dari berat total campuran.
+
+Untuk mendapatkan kuat tekan yang seragam, pengecoran beton dilakukan secara serentak pada semua benda uji.
+
+Campuran beton diaduk dengan menggunakan twin shaft mixer selama ± 20 menit sampai diperoleh workability yang memadai.
+
+Curing beton menggunakan genangan air dengan suhu normal pada seluruh permukaan yang tidak tertutupi oleh bekisting.
+
+Curing mulai dilakukan 12 jam setelah berakhir pengecoran sampai umur beton 21 hari.
+
+Kuat tekan beton rata-rata pelat dan kolom yang diperoleh pada saat pengujian (umur 56 hari) adalah sebesar 141 MPa.
+
+Tulangan lentur pelat dan kolom menggunakan baja tulangan ulir dengan mutu 400 MPa, sementara untuk tulangan geser kolom menggunakan baja tulangan polos dengan mutu 360 MPa.
+
+Tulangan lentur pelat terdiri atas diameter 8 dan 10 mm, sementara tulangan longitudinal dan transversal kolom masing-masing berdiameter 16 dan 6 mm.
+
+
+
+2.2 Deskripsi benda uji 
+
+Benda uji berupa hubungan pelat-kolom interior sebagai representasi daerah kritis dari struktur flat slab.
+
+Dimensi pelat dibatasi oleh garis titik balik lentur pelat pada arah beban lateral dan oleh garis setengah lajur portal dikiri kanan kolom pada arah tegak lurus beban lateral.
+
+Pengujian dilakukan terhadap 3 benda uji dengan variasi panjang pelat dan rasio tulangan tarik pelat.
+
+Panjang ´ lebar pelat terdiri dari 2 variasi, yaitu masing-masing 3000 mm ´ 1500 mm untuk pelat bentang panjang serta 2000 mm ´ 1000 mm untuk pelat bentang pendek.
+
+Untuk semua benda uji, tebal pelat sebesar 120 mm, tinggi kolom 1500 mm dan penampang kolom 300 ´ 300 mm.
+
+Tabel 1 menampilkan data-data material dan geometris benda uji.
+
+Sesuai dengan ketentuan ACI 318 (2011), tulangan lentur pelat dimuka kolom sepanjang lebar efektif c2+3h (dimana c2 lebar kolom tegak lurus beban lateral dan h tebal pelat) didisain lebih rapat daripada bagian luarnya.
+
+Lebar efektif ini berfungsi menyalurkan fraksi lentur dari unbalanced moment yang diterima oleh pelat.
+
+Studi ini menggunakan 2 variasi rasio tulangan tarik sepanjang lebar efektif pelat, yaitu tt= 0,65% dan 1,8%.
+
+Kedua variasi tersebut berada diantara nilai nmin (1,4/fy = 0,35%) dan =maks (0,5(b = 5,8%).
+
+Untuk menghindari keruntuhan yang progresif, tulangan tekan dipasang pada bagian serat bawah pelat dengan rasio 0,7 terhadap tulangan tarik untuk semua benda uji.
+
+Tidak ada tulangan geser dipasang pada pelat, sehingga fraksi geser dari unbalanced moment dan gaya geser langsung dari beban gravitasi diharapkan mampu ditahan oleh bidang geser pelat beton.
+
+Tulangan lentur dan geser kolom masing-masing menggunakan 12D16 dan D6-50.
+
+Kolom didisain lebih kuat dari pelat untuk menjamin kolom tidak mengalami keruntuhan selama pengujian.
+
+Untuk memberikan kekakuan yang memadai pada saat pengangkatan benda uji, pada arah lebar diujung pelat diberi balok yang dicor monolit dengan pelat.
+
+Tinggi balok diatas pelat 150 mm dan lebar 150 mm.
+
+Tulangan longitudinal dan transversal balok masing-masing menggunakan 6D8 dan D6-100.
+
+Detail geometri dan penulangan benda uji ditampilkan pada Gambar 1 dan 2.
+
+
+
+  2.3 Setup pengujian 
+
+Pengujian dilakukan pada loading frame yang dilengkapi dengan horizontal aktuator di Laboratorium Mekanika Struktur PAU-ITB.
+
+Pada kolom atas tepat digaris gaya aktuator bekerja dipasang LVDT untuk mengukur perpindahan translasi dititik tersebut (Gambar 3).
+
+Gaya aktuator dan perpindahan ujung kolom dibaca dan disimpan dengan menggunakan data logger.
+
+Pada bagian dasar kolom dilapisi dengan pelat baja (base plate) yang diangkur ke dalam beton kolom.
+
+Selanjutnya base plate kolom dihubungkan dengan tumpuan baja yang bekerja sebagai sendi.
+
+Pada kedua bagian ujung pelat dalam arah beban lateral dipasang tumpuan rol selebar pelat.
+
+Tumpuan rol tersebut ditumpu oleh rangka baja kaku yang dibaut ke lantai dasar pengujian.
+
+
+
+2.4 Pembebanan 
+
+Beban benda uji terdiri dari beban gravitasi dan beban lateral siklis.
+
+Beban gravitasi diberikan dalam bentuk kubus-kubus beton ukuran 200 ´ 300 ´ 300 mm yang digantung secara merata pada bagian bawah pelat (Gambar 2 dan 3).
+
+Berat setiap kubus beton berkisar antara 400 - 440 N.
+
+Total beban gravitasi benda uji termasuk berat sendiri pelat adalah 8,45 kN/m2.
+
+Beban lateral diberikan secara gradual dalam bentuk perpindahan siklis pada ujung atas kolom.
+
+Perpindahan awal dengan drift ratio 0,07% didisain masih berada dalam rentang elastis linier benda uji.
+
+Sesuai dengan ACI 374-1 (2005), perpindahan selanjutnya ditingkatkan sebesar 1,5 kali perpindahan sebelumnya.
+
+Setiap level drift rasio tertentu dilakukan 3 kali pengulangan untuk mengetahui degradasi kekuatan dan kekakuan benda uji (Gambar 4).
+
+Pengujian dilakukan sampai drift maksimum ± 5% karena keterbatasan kapasitas alat pengujian.
+
+Tabel 1. Karakterisasi benda uji
+
+No Kode Benda Uji Dimensi Pelat (mm) Panjang ´ Lebar NN(%) fc' (Mpa) fy (MPa) ((fy (MPa)
+1 L3R065 3000 ´ 1500 0,65 141 400 2,6
+2 L3R18 3000 ´ 1500 1,8 141 400 7,2
+3 L2R18 2000 ´ 1000 1,8 141 400 7,2
+
+Gambar 1. Dimensi dan geometri benda uji
+
+
+200
+200 3x150
+200
+200
+6x150
+Tulangan Bawah Tulangan Atas
+Tulangan atas dan bawah simetris dikiri kanan kolom
+200
+250 250 200 3x150
+D8 (L3R065)
+D13 (L3R18)
+D13 (L2R18)
+: Lokasi gantungan kubus beton (beban gravitasi)
+400
+300
+3x100
+3x100
+6x150 6 x100
+Gambar 2. Penulangan dan posisi beban gravitasi benda uji
+
+Gambar 3. Setup dan pembebanan benda uji
+
+Gambar 4. Riwayat beban lateral siklis
+
+
+
+  3. Hasil Pengujian dan Diskusi 
+
+Meskipun sejumlah data diperoleh selama pengujian, yaitu perpindahan, propagasi retak untuk setiap peningkatan beban lateral, regangan beton diserat terluar atas dan bawah pelat dimuka kolom, regangan baja tulangan tarik dan tekan disekitar daerah kritis, namun hanya data-data representatif yang ditampilkan dan didiskusikan dalam makalah ini.
+
+
+3.1 Pola retak 
+
+Retak pada semua benda uji belum terlihat ketika beban gravitasi telah bekerja sepenuhnya.
+
+Retak-retak halus baru terlihat pada permukaan tarik pelat saat beban lateral mencapai drift ratio 0,15%.
+
+Seiring dengan makin meningkatnya beban lateral, retak-retak lentur pada permukaan pelat disekitar muka kolom mulai makin terlihat jelas.
+
+Pada drift 1,5%, retak-retak dari tepi pelat mulai saling terhubung dengan retak-retak dimuka kolom.
+
+Pada peningkatan drift selanjutnya, sejumlah retak baru terbentuk, sementara retak-retak lama makin bertambah panjang dan makin terbuka.
+
+Gambar 5 memperlihatkan kondisi retak pelat pada saat drift maksimum 5%.
+
+Secara tipikal, retak pada kedua pelat dengan rasio tulangan lentur tinggi (L3R18 dan L2R18) relatif kurang rapat dan menyebar pada daerah yang relatif jauh dari muka kolom.
+
+Sementara retak pada pelat dengan rasio tulangan tarik rendah (L3R065) relatif lebih rapat dan menyebar hanya pada daerah disekitar muka kolom.
+
+Untuk ketiga benda uji, retak-retak lentur orthogonal terlihat lebih dominan dibanding retak-retak geser miring sampai pada akhir pengujian.
+
+
+
+3.2 kekuatan benda uji 
+
+Gambar 6 menampilkan kurva histeresis beban lateral dengan perpindahan yang direpresentasikan dalam bentuk drift rasio.
+
+Sampai drift ± 5%, keruntuhan geser pada pelat dimuka kolom belum terjadi pada semua benda uji.
+
+Hal ini mengindikasikan kuat geser pelat yang disumbangkan oleh beton mutu sangat tinggi tanpa tulangan geser mampu bertahan terhadap tegangan geser yang ditimbulkan oleh beban gravitasi dan unbalanced moment pada drift relatif tinggi (± 5%).
+
+Berdasarkan bacaan regangan baja tulangan, plastisitas telah terjadi setelah drift mencapai 0,45%, 0,67% dan 0,2% masing-masing untuk benda uji L3R065, L3R18 dan L2R18.
+
+Plastisitas baja tulangan lebih dulu terjadi pada benda uji dengan bentang pendek dan rasio tulangan tarik rendah.
+
+Hal ini menunjukkan semua benda uji dapat mengembangkan regangan inelastis baja tulangan secara maksimal sebelum keruntuhan geser terjadi.
+
+ Kurva histeresis semua benda uji memperlihatkan kekuatan pada arah negatif lebih rendah dibandingkan dengan arah positif.
+
+Momen lentur yang disebabkan oleh beban gravitasi dan beban lateral saling menjumlahkan pada satu sisi pelat dan saling mengurangkan pada sisi lainnya.
+
+Oleh karena setiap level drift tertentu dimulai oleh beban positif, maka retak baru umumnya mulai terbentuk pada saat drift positif.
+
+Ketika beban berbalik arah, beberapa retak besar tidak menutup secara sempurna sehingga mengakibatkan kekuatan pelat lebih rendah.
+
+Tabel 2 menampilkan hasil resume kekuatan puncak masing-masing benda uji dan penurunan kekuatannya pada siklus ke-3 saat drift maksimum.
+
+Benda uji dengan bentang panjang dan rasio tulangan tarik rendah (L3R065) mempunyai kekuatan paling rendah dibanding yang lain.
+
+Hanya benda uji L3R18 yang mencapai kekuatan maksimum pada drift saat 5%, sementara benda uji L3R065 dan L2R18 mencapai kekuatan maksimum pada saat drift 5% pada arah positif dan 3,5% pada arah negatif.
+
+Perilaku benda uji L3R065 relatif lebih stabil karena mempunyai rasio kekuatan arah negatif dan positf yang paling tinggi.
+
+Disamping itu kekuatan benda uji L3R065 pada siklus ke-3 drift maksimum sebesar 91% dari beban puncaknya yang berarti mengalami reduksi kekuatan paling rendah dibanding benda uji lain.
+
+ACI 374-1 (2005) mensyaratkan beban puncak siklus ketiga pada drift yang besar dari 3,5% tidak boleh kurang dari 75% beban puncak pada arah beban yang sama selama pengujian.
+
+Berdasarkan Tabel 2 kolom 9 dan 10, semua benda uji terlihat memenuhi persyaratan tersebut.
+
+ Tulangan tarik pelat berpengaruh signifikan terhadap perilaku hubungan pelat-kolom (benda uji L3R065 dan L3R18).
+
+Kenaikan rasio tulangan tarik dari 0,65% menjadi 1,8% menyebabkan beban puncak pelat naik sekitar 2 kalinya.
+
+Pada setiap level drift tertentu, beban puncak pelat dengan rasio tulangan tarik tinggi relatif jauh lebih besar dibanding pelat dengan rasio tulangan tarik rendah.
+
+Hal ini disebabkan karena peningkatan kontribusi tulangan tarik pada komponen tie menyebabkan juga peningkatan pada komponen diagonal struts, sehingga beban lateral yang dibutuhkan untuk memberikan level drift yang sama pada pelat dengan rasio tulangan tarik tinggi menjadi lebih besar.
+
+Disamping itu, hal ini juga menunjukkan kontribusi dowel action tulangan terhadap kuat geser pelat cukup signifikan.
+
+Sementara pengaruh bentang pelat tidak terlalu signifikan terhadap kekuatan benda uji.
+
+Untuk rasio tulangan tarik yang sama, pelat dengan bentang 3 m (L3R18) hanya mempunyai kekuatan 1,06 kali lebih tinggi dibanding pelat bentang 2 m (L2R18).
+
+Akibat kekakuan yang lebih besar, pelat bentang pendek membutuhkan beban lateral yang lebih besar untuk mencapai drift tertentu.
+
+Gaya geser yang diterima pelat bentang pendek menjadi lebih besar dibanding pelat bentang panjang pada drift yang sama.
+
+
+
+3.3 Kekakuan benda uji Kekakuan benda uji didefinisikan sebagai kekakuan peak to peak, yaitu kemiringan garis dari titik beban puncak positif ke negatif.
+
+Gambar 7 menampilkan degradasi kekakuan benda uji pada setiap level drift.
+
+Pada drift relatif kecil (< 0,15%), benda uji dengan bentang pendek (L2R18) mempunyai kekakuan paling tinggi.
+
+Seiring dengan meningkatnya beban, kekakuan benda uji dengan rasio tulangan tarik sama (L3R18 dan L2R18) terlihat relatif hampir sama.
+
+Sementara benda uji bentang panjang dengan rasio tulangan tarik rendah mempunyai kekakuan lebih rendah dibanding yang lain dari awal sampai akhir pengujian.
+
+  Pada kondisi elastis linier, kekakuan benda uji sangat dipengaruhi oleh geometrinya dibanding rasio tulangan tarik.
+
+Seiring dengan makin meningkatnya nonlinieritas, pengaruh geometri terhadap kekakuan menjadi semakin kecil, namun pengaruh rasio tulangan tarik terhadap kekakuan menjadi semakin besar.
+
+Hal ini menunjukkan kontribusi tulangan tarik terhadap kekakuan menjadi semakin dominan setelah terjadi kelelehan tulangan atau retak (crack) dan hancur (crush) beton.
+
+
+3.4 Rasio daktilitas benda uji 
+
+Rasio daktilitas perpindahan (i) didefinisikan sebagai rasio antara perpindahan pada saat ultimit (Du) dengan perpindahan pada saat kelelehan pertama tulangan pelat (Dy).
+
+Pada struktur flat slab, pelat bisa jadi akan mengalami keruntuhan punching shear sebelum terjadi kelelehan yang signifikan pada tulangan pelat.
+
+Kelelehan pertama tulangan seringkali tidak dapat ditentukan dengan baik, sehingga dibutuhkan suatu prosedur tertentu untuk mendefinisikan perpindahan pada leleh pertama tersebut.
+
+Perpindahan ultimit dapat ditentukan dari perpindahan yang memberikan beban lateral puncak atau dari perpindahan yang mana beban lateral telah turun sampai pada level persentase tertentu dari beban lateral puncak.
+
+Pada studi ini, definisi daktilitas menggunakan prosedur yang terdapat pada Pan dan Moehle (1989) dan Robertson dan Durrani (1991) yang ditampilkan pada Gambar 8.
+
+ Daktilitas ditentukan dari envelope kurva histeresis masing-masing benda uji yang merupakan titik-titik beban puncak siklus pertama pada setiap level drift tertentu (Gambar 6).
+
+Tabel 3 memperlihatkan pelat dengan rasio tulangan tarik tinggi (L3R18) mempunyai daktilitas rata-rata lebih rendah dibanding pelat dengan rasio tulangan tarik rendah (L3R065).
+
+Peningkatan rasio tulangan tarik menyebabkan peningkatan kekakuan pelat sehingga menurunkan daktilitas benda uji.
+
+Hal ini sesuai dengan kaidah yang berlaku umum bahwa hubungan kekakuan dengan daktilitas berbanding terbalik.
+
+Fenomena sebaliknya terlihat pada pengaruh bentang pelat pada daktilitas.
+
+Meskipun pelat dengan bentang pendek (L2R18) mempunyai kekakuan lebih tinggi namun daktilitasnya juga lebih tinggi dibanding pelat dengan bentang panjang (L3R18).
+
+Hal ini disebabkan karena pelat bentang pendek mempunyai kekakuan awal yang lebih tinggi, sehingga kelelehan tulangan terjadi lebih cepat.
+
+Sementara itu perpindahan ultimit semua benda uji relatif sama karena keterbatasan perpindahan lateral maksimum yang dapat diberikan alat uji.
+
+Akibatnya rentang fase inelastis pelat bentang pendek menjadi lebih panjang dibanding bentang panjang untuk rasio tulangan yang sama.
+
+
+
+4.Kesimpulan Sebanyak 3 benda uji struktur flat slab beton mutu sangat tinggi telah diuji secara ekserimental dibawah beban gravitasi dan lateral siklis.
+
+Berdasarkan observasi yang telah dilakukan dapat diambil kesimpulan sebagai berikut:
+
+1. Struktur flat slab dengan mutu beton 141 MPa dan rasio tulangan tarik 0,65% dan 1,8% mampu bertahan sampai drift 5% dibawah beban gravitasi dan lateral siklis.
+
+2. Peningkatan rasio tulangan tarik dapat meningkatkan kuat lentur dan kuat geser pelat.
+
+3. Pada kondisi elastis linier, kekakuan flat slab sangat dipengaruhi oleh panjang bentang pelat.
+
+Namun pada kondisi inelastis, rasio tulangan tarik mempunyai pengaruh yang lebih signifikan pada kekakuan.
+
+4. Daktilitas struktur flat slab dengan rasio tulangan tarik rendah dan bentang panjang lebih tinggi dibanding benda uji lain.
+Tabel 3. Daktilitas perpindahan benda uji
+
+Benda Uji
+Beban Positif Beban Negatif Rata-Rata
+Dy
+(mm)
+Du
+(mm) (((Dy
+(mm)
+Du
+(mm) (((((
+L3R065 55,9 78,6 1,4 19,4 79,5 4,1 2,8
+L3R18 60,3 79,3 1,3 37,7 77,3 2,1 1,7
+L2R18 46,7 78,2 1,7 29,9 79,0 2,6 2,2
+

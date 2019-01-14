@@ -1,0 +1,40 @@
+{
+    "db": {
+        "driver": "pgsql",
+        "host": "172.104.33.198",
+        "username": "postgres",
+        "password": "okedeh",
+        "dbname": "partofspeech",
+        "port": "5432",
+        "items": ""
+    },
+    "repo": {
+        "path": "repo"
+    },
+    "app": {
+        "dir": "app",
+        "dateFormat": "d M Y",
+        "timeFormat": "H:i",
+        "dateTimeFormat": "d M Y - H:i",
+        "mode": "plansys",
+        "debug": "ON",
+        "oAuthGoogle": "OFF",
+        "name": "",
+        "host": "http:\/\/p.plansys.co",
+        "theme": null,
+        "auditTrail": "Disabled",
+        "oAuthGoogleId": "",
+        "oAuthGoogleSecret": "",
+        "phpPath": "\/usr\/bin\/php",
+        "url": "http:\/\/172.104.33.198"
+    },
+    "email": {
+        "transport": {
+            "service": "none"
+        }
+    },
+    "ldap": {
+        "enable": false
+    },
+    "devInstallPassword": "$2y$10$Hfy8Mlc6fSHd\/VzkA6DeQuTHFeyn7ffZsA7eWOnR7W1EACVyq0EAS"
+}

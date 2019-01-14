@@ -1,0 +1,769 @@
+﻿Kinetika Release Mikrokapsul Oleoresin Jahe Merah
+
+Abstrak
+Mikrokapsul digunakan untuk melindungi oleoresin jahe merah yang sensitif terhadap pengaruh
+lingkungan, sehingga dapat diaplikasikan dalam bidang farmasi. Kinetika release digunakan untuk
+menentukan kecepatan release mikrokapsul oleoresin jahe merah, model yang digunakan adalah
+model order nol, order satu, model Higuchi, dan Model Korsmeyer-Peppas. Penyelesaian modelmodel
+ini menggunakan metode grafis dengan menentukan koefisien determinasi (R2). Tujuan
+penelitian ini adalah menentukan pengaruh konsentrasi sodium tripolifosfat (TPP) dan rasio berat
+antara kitosan dan alginate sebagai penyalut terhadap kinetika release dan karakterisasi morfologi
+mikrokapsul oleoresin jahe merah. Metode enkapsulasi dimulai dengan pembentukan emulsi dari
+penyalut kitosan-alginat dengan rasio 1:2; 1:1; 2:1 dan 20 gram oleoresin jahe merah, penambahan
+TPP 3, 4 dan 5% untuk cross-link. Emulsi dialirkan ke spray dryer untuk menghasilkan mikrokapsul
+oleoresin jahe merah. Uji disolusi menggunakan medium basa dengan mencampurkan KH2PO4 dan
+NaOH (pH 6,8) sampel diambil tiap 10 menit selama 1 jam. Hasil penelitian yang telah dilakukan didapat peningkatan konsentrasi TPP akan menurunkan kecepatan releasenya, model model kinetika
+dengan nilai R2 terbesar adalah model Korsmeyer-Peppas.
+Kata kunci: alginat; enkapsulasi; kinetika release; kitosan; oleoresin jahe merah
+
+PENDAHULUAN
+Jahe merah (Zingiber officinale var. rubrum)
+merupakan salah satu jenis jahe dengan batang
+berbentuk bulat, berwarna hijau kemerahan dan agak
+keras. Jahe merah mempunyai rasa dan aroma lebih
+tajam dbandingkan dengan jenis jahe lainnya. Hal ini
+disebabkan karena kandungan kimianya lebih tinggi
+sehingga banyak digunakan untuk obat-obatan
+(Herlina dkk., 2002; Koeswara, 1995). Jahe (Zingiber
+officinale) merupakan salah satu tanaman yang
+mengandung minyak atsiri dengan yield sekitar 1-3%
+dan mengandung 4-7,5% oleoresin (Ali dkk., 2008;
+Kiran dkk., 2013; Eze dan Agbo, 2011; Zarate dan
+Yeoman, 1996). Penelitian yang telah dilakukan oleh
+Jayanudin dkk. (2013), yield oleoresin jahe merah
+yang diperoleh adalah 13% dan menghasilkan sekitar
+45 komponen termasuk shogaol dan zingerone.
+Minyak atsiri mengandung senyawa-senyawa
+yang mudah menguap, sedangkan oleoresin adalah
+gabungan dari senyawa-senyawa mudah menguap dan
+senyawa tidak mudah menguap (Stahl, 1973) sehingga
+aroma dan rasanya lebih tajam dibandingkan dengan
+minyak atsiri. Oleoresin diperoleh dengan cara
+ekstraksi menggunakan pelarut organik. Oleoresin
+berbentuk cairan kental, semi padat dan biasanya
+lengket, berwarna kemerahan dan kecoklatan
+(Reineccius, 1994). Komponen bioaktif dari shogaol,
+gingerol dan zingerone merupakan komponen utama
+yang terdapat dalam oleoresin jahe (Onyenekwe,
+2000; Lun dkk., 2008; Mbaeyi Nwaoha dkk., 2013;
+Ali dkk., 2008; Bhattarai dkk., 2007; Wohlmuth dkk.,
+2005).
+Kandungan bahan yang aktif oleoresin jahe
+dapat digunakan sebagai bahan antioksidan dan
+antimikroba (Oboh dkk., 2012; Yeh dkk., 2014;
+Dugasani dkk., 2010; Sivasothy dkk., 2011) bahkan
+lebih efektif dibandingkan dengan minyak atsiri jahe
+(Bellik, 2014). Kelemahan oleoresin sensitif terhadap
+cahaya, panas dan oksigen, sehingga komponen
+bioaktif mudah terdegradasi. Hal ini disebabkan oleh
+perubahan polimer yang melibatkan minyak lemak
+dan komponen hidrokarbon dari monoterpenes
+(Balasubramani dkk., 2013;. Shaikh dkk., 2006;
+Vaidya dkk., 2006; Jayanudin dkk., 2015).
+Hambatan utama oleoresin jahe dalam
+pengembangan untuk industri farmasi adalah
+kelarutan oleoresin jahe dalam air yang rendah
+sehingga membatasi bioavabilitas oral dalam
+penggunaannya di farmasi (Singh dkk., 2011; Garg
+dkk., 2013). Salah satu metode yang digunakan untuk
+melindungi kerusakan bioaktif oleoresin jahe merah
+yaitu proses enkapsulasi (Vaidya dkk., 2006). Proses
+enkapsulasi juga digunakan untuk mengatasi
+kelemahan dari bioaktif yang sulit larut dalam air,
+sulit terserap dalam tubuh (bioavaibilitas) dan
+menghantarkan bioaktif sampai ke target fisiologis
+tanpa kehilangan bioaktifnya (Fang dan Bandari,
+2010; Munin dan Edward-Levy, 2011; Pinho dkk.,
+2014).
+Pelepasan terkendali (control release) mengacu
+pada istilah pengiriman senyawa dalam merespon
+rangsangan (seperti pH, enzim, cahaya, medan
+magnet, suhu, ultrasonic, dan osmosis) atau waktu
+(Mishra, 2016). Istilah lain adalah metode untuk
+memodifikasi pengantaran bahan aktif berdasarkan
+waktu dan tempat dimana bahan aktif tersebut
+dilepaskan. Aplikasi enkapsulasi sebagai sistem
+pengantaran obat (drug delivery system) sudah banyak
+digunakan dalam industri seperti industri farmasi dana
+makanan dan minuman (Lesmes dan McClements,
+2009). Enkapsulasi merupakan teknologi di mana
+komponen bioaktif benar-benar ditutupi dan
+dilindungi oleh penghalang fisik, tanpa tonjolan keluar
+dari komponen bioaktif tersebut (de Vos dkk., 2010).
+Enkapsulasi merupakan teknologi kemasan padat,
+cair, atau bahan gas dalam kapsul kecil yang
+melepaskan isinya pada tingkat dikendalikan untuk
+jangka waktu dan kondisi tertentu, serta sampai
+mencapai sisi yang diinginkan (Lesmes dan
+McClements, 2009; Desai dan Park, 2005; Nedovic
+dkk., 2011).
+Jenis penyalut berperan penting dalam release
+terkendali, penyalut yang digunakan haruslah bersifat
+tidak beracun, biokompatibel dan biodegradabel
+seperti kitosan, alginat, gelatin, dan maltodekstrin.
+Pada penelitian ini penyalut yang digunakan adalah
+kitosan dan alginat karena antara kedua biopolimer ini
+mudah membentuk kompleksasi polielektrolit (Sezer
+dan Akbuğa, 1999; Das dkk., 2010).
+Meluasnya penggunaan metode kompleksasi
+polyionic menyediakan banyak keuntungan, seperti
+lebih sederhana dan fleksibilitas, berlaku untuk
+hampir semua polimer yang dapat dipolimerisasi
+dengan adanya agen kompleksasi seperti sodium
+tripolifosfat (STPP) (Caetano dkk., 2016). Kombinasi
+dari kitosan-alginat sebagai penyalut akan memiliki
+ikatan ion satu sama lain karena perbedaan muatan
+ion. Alginat mengandung ion negatif dari gugus
+karboksil sementara chitosan bermuatan positif dari
+gugus amino (Friedli dan Schlager, 2005), sehingga
+diharapkan akan lebih stabil dibandingkan hanya
+menggunakan satu penyalut saja.
+Release terkendali adalah metode untuk satu
+atau lebih bahan aktif yang dibuat tersedia dalam sisi dan waktu yang diinginkan dengan laju yang spesifik.
+Metode release pada mikrokapsul dapat dibedakan
+menjadi: (1) Metode release dengan difusi. Metode
+ini terbagi menjadi dua yaitu dengan sistem reservoir
+dan sistem matriks. Prinsip release dengan system
+reservoir adalah bahan inti dalam reservoir dan
+release secara difusi melalui pembatas (penyalut).
+Sedangkan sistem matriks adalah release bahan inti
+secara homogen yang mendifusi melalui permukaan
+matriks. (2) Metode release dengan biodegradasi,
+metode ini prinsipnya adalah bahan aktif yang tersebar
+dalam polimer akan release pada saat polimer tersebut
+terdegradasi atau mengikis (Pothakamury dan
+Barbosa-Canovas, 1995).
+Tujuan release terkendali adalah untuk
+mempertahankan konsentrasi obat dalam darah atau
+dalam jaringan target pada nilai yang diinginkan
+dengan waktu tertentu. Secara umum sistem release
+terkendali awalnya melepaskan bagian dari dosis
+untuk mencapai konsentrasi obat yang efektif.
+Kinetika release obat digunakan untuk menyediakan
+dosis dengan pencapaian konsentrasi obat yang
+dinginkan (Dash dkk., 2010).
+Model-model yang digunakan untuk
+menentukan release terkendali terdiri dari beberapa
+model untuk menentukan kinetika release yaitu model
+order nol yang tidak tergantung pada kosentrasi
+obatnya (Dash dkk., 2010), model order satu yang
+menggambarkan proses penyerapan dan/atau
+pelepasan beberapa zat meskipun sulit (Dash dkk.,
+2010), model yang dikembangkan oleh Higuchi
+(1961; 1962) untuk pelepasan obat yang terlarut dan
+rendah air, yang tergabung dalam semi padat dan
+matrik padatan (Chime Salome dkk., 2013), model
+Korsmeyer-Peppas yang mengembangkan model semi
+empiris. Mekanisme model ini berkaitan secara
+ekponensial pelepasan obat untuk waktu (t) (Kalam
+dkk., 2007). Model-model tersebut telah diakui
+sebagai elemen penting untuk disolusi (release) in
+vitro yaitu model kinetika yang menggambarkan
+jumlah obat yang terlarut (C) dari bentuk padat
+sebagai fungsi waktu (t) atau C = f(t).
+Model Kinetika Release Mikrokapsul Oleoresin
+Jahe Merah
+Model yang digunakan untuk menentukan
+kecepatan release enkapsulasi oleoresin jahe merah
+dengan penyalut kitosan-alginat adalah model kinetika
+release order nol, order satu, model Higuchi, dan
+model Korsmeyer-Peppas. Berikut ini adalah
+persamaan dari model-model yang digunakan untuk
+menentukan kinetika release:
+a. Kinetika release order nol
+Kinetika release order nol mengasumsikan
+bahwa area yang tidak berubah dan tidak ada kondisi
+kesetimbangan (Dash dkk., 2010; Costa dan Lobo,
+2001), kinetika release order nol merujuk pada
+Persamaan (1).
+􀜳􀯧 􀵌 􀜳􀬴 􀵅 􀝇􀬴􀝐 (1)
+dimana 􀜳􀯧 adalah jumlah oleoresin terlarut selama
+waktu t untuk order nol maka 􀜳􀬴 􀵌 0 pada waktu t
+dan 􀝇􀬴 adalah konstanta release order nol dalam
+konsentrasi/waktu.
+b. Kinetika release order satu
+Model ini pertama kali diperkenalkan oleh
+Gibaldi dan Feldman (1967) kemudian Wagner
+(1969). Model ini juga menggunakan gambaran
+absorpsi dan/atau eliminasi beberapa obat (Gibaldi
+dan Perrier, 1982; Costa dan Lobo, 2001). Gambar 1
+menjelaskan bahwa obat yang terdapat dalam matrik
+akan mendifusi melalui lapisan film ke medium
+disolusi.
+Gambar 1. Laju disolusi sistem matrik homogeny
+Berikut ini adalah penurunan model kinetika
+release order satu:
+􀯗􀮼
+􀯗􀯧 􀵌 􀝇􁈺􀜥􀯦 􀵆 􀜥􁈻 (2)
+􀜹 􀵌 􀜥. 􀜸 (3)
+Hixson dan Crowell mengadopsi persamaan
+Noyes-Whitney sebagai berikut :
+􀯗􁈺􀯏.􀮼􁈻
+􀯗􀯧 􀵌 􀜸. 􀝇􁈺􀜥􀯦 􀵆 􀜥􁈻 (4)
+􀯗􀯐
+􀯗􀯧 􀵌 􀝇􁈺􀜸. 􀜥􀯦 􀵆 􀜹􁈻 (5)
+log􁈺􀜹􀯧􁈻 􀵌 log􀜹 􀬴
+􀵆 􀯞􀯧
+􀬶,􀬷􀬴􀬷 (6)
+Untuk menyeragamkan simbol maka
+persamaan 6 dapat tulis kembali menjadi:
+􀜹􀯧 􀵌 􀜳􀯧; 􀜹􀬴 􀵌 􀜳􀬴
+log 􀜳􀯧 􀵌 log 􀜳􀬴 􀵆 􀯞􀰭􀯧
+􀬶,􀬷􀬴􀬷 (7)
+dimana 􀜳􀯧 adalah jumlah oleoresin yang tersisa akan
+terlarut pada waktu t dan 􀜳􀬴 adalah jumlah oleoresin
+dalam larutan dan 􀝇􀬵 adalah konstanta release order
+satu.
+c. Kinetika release Model Higuchi
+Model kinetika release ini mengacu pada
+model yang dikembangkan oleh Higuchi (1961). Pada
+Gambar 2 dapat dilakukan analisa grafis neraca massa
+sederhana, persamaan Higuchi diperoleh dengan
+persamaan berikut untuk jumlah obat yang habis atau
+release persatuan luas, dQ karena adanya gerakan dari
+depan h.
+􀝀􀜳 􀵌 􁈺􀜥 􀵆 􀜥􀯦􁈻􀝀􀝄 􀵅 􀬵
+􀬶 􀜥􀯦􀝀􀝄 􀵌 􀜥􀝀􀝄 􀵆 􀬵
+􀬶 􀜥􀯦􀝀􀝄 (8)
+Gambar 2 menunjukkan skema yang buat oleh
+Higuchi (1961) untuk menerangkan perubahan konsentrasi dengan melepaskan sejumlah obat pada
+waktu t (trapesium putus-putus) dan pada saat t + dt
+(trapezium putus-putus + trapezium titik). Nilai C
+menunjukkan konsentrasi awal dan Cs menunjukkan
+kelarutan obat. Linieritas dari gradian di bawah
+kondisi ini mengikuti hukum pertama Fick.
+Gambar 2. Konsentrasi teoritis obat dalam sistem
+matriks
+􀯗􀯊
+􀯗􀯧 􀵌 􀜦 􀮼􀳞
+􀯛 (9)
+􀝐 􀵌 􀯛􀰮
+􀬸􀮽􀮼􀳞
+􁈺2􀜥 􀵆 􀜥􀯦􁈻 􀵅 􀜭 (10)
+􀝄 􀵌 2􀶧 􀬸􀮽􀮼􀳞
+􁈺􀬶􀮼􀬿􀮼􀳞􁈻 (11)
+Berdasarkan diagram jumlah deplesi Q pada
+waktu t adalah :
+􀜳 􀵌 􀝄􀜥 􀵆 􀯛􀮼􀳞
+􀬶 (12)
+Dengan mensubtitusi h dari persamaan 11 ke
+persamaan 12 akan didapat persamaan berikut:
+􀜳 􀵌 􁉀􀜥 􀵆 􀮼􀳞
+􀬶 􁉁 2􀶧 􀬸􀮽􀮼􀳞
+􁈺􀬶􀮺􀬿􀮼􀳞􁈻 􀵌 􀶥􀜦􀝐􁈺2􀜥 􀵆 􀜥􀯦􁈻􀜥􀯦 (13)
+Secara umum model Higuchi dapat dibuat
+sederhana (Dash dkk., 2010; Costa dan Lobo, 2001)
+seperti persamaan 14 berikut :
+􀜳 􀵌 􀝇􀯁􀝐
+􀰭
+􀰮 (14)
+dimana 􀝇􀯁 adalah konstanta disolusi Higuchi.
+d. Kinetika release Model Korsmeyer-Peppas
+Korsmeyer dkk. (1983) mengembangkan
+persamaan sederhana hubungan secara eksponensial
+antara release obat terhadap waktu:
+􀝂􀯧 􀵌 􀜽􀝐􀯡 (15)
+Ritger dan Peppas (1987) juga menggunakan
+persamaan semi empiris untuk menunjukkan proses
+release secara difusi fickian atau non fickian.
+􀯆􀳟
+􀯆􀲮
+􀵌 􀝇􀝐􀯡 (16)
+dimana k adalah konstanta karakteristik
+penggabungan dari sistem network dan obat, n adalah
+difusi eksponensial yang merupakan gambaran
+mekanisme transportasi.
+Penggabungan kitosan-alginat dan penambahan
+sodium tripolifospat (STPP) pada pada berbagai
+konsentrasi akan mempengaruhi kecepatan release
+mikrokapsul. Sodium tripolifospat (STPP) berfungsi
+sebagai agen crosslink, dimana akan merubah sifat
+polimer yaitu menjadi lebih tahan terhadap suhu tinggi
+dan pH rendah dibandingkan sifat polimer asal
+sebelum di crosslink. Penelitian yang telah dilakukan
+oleh Das dkk. (2010) pada enkapsulasi kurkumin
+menggunakan penyalut kitosan-alginat-Pluronic,
+dimana model kinetika release yang digunakan adalah
+model order nol, order satu, model higuchi dan model
+power law (Korsmeyer-Peppas) dan model terbaik
+sesuai dengan data kinetika release kurkumin adalah
+model power law (Korsmeyer-Peppas).
+Tujuan penelitian ini adalah mengetahui
+pengaruh konsentrasi TPP dan rasio berat kitosan dan
+alginate sebagai penyalut terhadap nilai kontanta
+kinetika release pada mikrokapsul oleoresin jahe
+merah pada berbagai model kinetika release dan
+karakterisasi morfologi dan interaksi struktur dalam
+mikrokapsul oleoresin jahe merah.
+METODE PENELITIAN
+Bahan Penelitian
+Bahan penelitian yang digunakan adalah
+oleoresin jahe merah berasal Lansida Grup, kitosan
+food grade dari PT. Biotech Surindo dengan Derajat
+Deasetilasi (DD) = 87,2%, Natrium alginat food
+grade, sodium tripolifosfat dari Merck, tween 80,
+NaOH dari Merck, KH2PO4 dari Merck, dan asam
+asetat glasial dari Merck.
+Proses Enkapsulasi Oleoresin Jahe Merah
+Pembuatan mikrokapsul oleoresin jahe merah
+diawali dengan pembuatan larutan kitosan dan larutan
+sodium alginat secara terpisah. Perbandingan berat
+antara kitosan dengan alginat adalah 1:1, 1:2 dan 2:1,
+misalkan untuk membuat larutan kitosan dan sodium
+alginat dengan berbandingan 1:1 adalah sebagai
+berikut : sebanyak 10 gram kitosan dimasukan dalam
+beaker gelas yang berisi 1000 mL asam asetat 1%
+(v/v) kemudian diaduk untuk melarutkan kitosan.
+Untuk membuat larutan sodium alginat adalah
+sebanyak 10 gram sodium alginat dilarutkan dalam
+1000 mL aquadest dalam beaker gelas. Untuk rasio
+berat antara kitosan dan alginate 1:2 dan 2:1 dapat
+dilakukan dengan prosedur yang sama. Setelah selesai
+pembuatan larutan kitosan dan sodium alginat,
+kemudian dilanjutkan dengan proses pembuatan
+emulsi yaitu sebanyk 20 gram oleoresin dimasukan
+dalam 1000 mL larutan kitosan kemudian diaduk
+kemudian dilanjutkan dengan penambahan 1000 mL
+larutan sodium alginate dan 20 mL tween 80 dan
+diaduk kembali menggunakan Homogenizer IKAWERK
+ULTRA-TURRAX untuk membuat emulsi.
+Selama proses pengadukan tambahkan sodium
+tripolifosfat (STPP) dengan konsentrasi 3% (b/v), 4%
+(b/v), dan 5% (b/v) dan terus aduk selama 15 menit.
+Emulsi yang dihasilkan dimasukkan dalam tangki
+umpan spray dryer. Kondisi operasi spray dryer
+adalah suhu masuk 110oC dan suhu outlet adalah 85oC
+dengan laju umpan adalah 2 L/jam, kemudian alirkan umpan melalui nozzle spary dryer untuk dikabutkan
+dan dikontakkan dengan udara panas. Produk yang
+dihasilkan ditampung dalam tangki penampung
+produk. Mikrokapsul oleoresin jahe merah yang
+dihasilkan kemudian dianalisis release dan
+karakterisasinya. Formulasi perubahan perbandingan
+kitosan dengan alginate pada berbagai konsentrasi
+STPP dapat dilihat pada Tabel 1.
+Tabel 1. Formulasi penelitian
+Simbol Formula
+A Kitosan : Alginat = 1 : 2; TPP = 3%
+B Kitosan : Alginat = 1 : 1; TPP = 3%
+C Kitosan : Alginat = 2 : 1; TPP = 3%
+D Kitosan : Alginat = 1 : 2; TPP = 4%
+E Kitosan : Alginat = 1 : 1; TPP = 4%
+F Kitosan : Alginat = 2 : 1; TPP = 4%
+G Kitosan : Alginat = 1 : 2; TPP = 5%
+H Kitosan : Alginat = 1 : 1; TPP = 5%
+I Kitosan : Alginat = 2 : 1; TPP = 5%
+Uji Disolusi (Release Mikrokapsul Oleoresin Jahe
+Merah)
+Sebanyak 500 mg mikrokapsul dimasukkan ke
+dalam 500 mL larutan medium usus pada gelas beker
+1000 mL. Medium buatan untuk usus mengacu pada
+The United States Pharmacopeia (USP 26), dimana
+medium buffer dibuat dengan konsentrasi 0,5 M yang
+mengandung KH2PO4 68,05 gram dan NaOH 8,96
+gram pada pH 6,8. Pengadukan selama 60 menit pada
+suhu (37 ± 0,5)ºC dengan kecepatan pengadukan 225
+rpm (Sinko, 2011). Pengambilan alikuot dari
+mikrokapsul dilakukan setiap 10 menit sekali
+sebanyak 10 ml. Setiap kali pengambilan alikuot, ke
+dalam gelas beker digantikan dengan larutan
+mediumnya lagi sesuai dengan jumlah volume yang
+diambil. Konsentrasi oleoresin jahe merah dalam
+larutan alikuot diukur dengan spektrofotometer
+UV/Vis pada panjang gelombang maksimal 286 nm.
+Pengaruh waktu terhadap pelepasan oleoresin jahe
+merah dengan metode regresi linear pada uji disolusi.
+- Oleoresin Release
+􁈺Q􀭲􁈻 􀵌 􀵫􀜸􀯠 􀝔 􀜥􀯡􀵯 􀝔 􀵫􀜸􀯦 􀝔 Σ 􀜥􀯡
+􀯧􀭀􀯡􀬿􀬵
+􀯧􀭀􀬴 􀵯 (17)
+- % Release = 􀯊􀳟
+􀯊􀰬
+􀝔 100% (18)
+dimana :
+Qt = Massa oleoresin terdisolusi (mg)
+Qo = Massa mikrokapsul sampel (mg)
+Vm = Volume medium disolusi (mL)
+Cn = Konsentrasi oleoresin terdisolusi pada waktu t
+(ppm)
+Vs = Volume pengambilan sampel (mL)
+Analisis Morfologi Mikrokapsul Menggunakan
+Scanning Electron Microscope (SEM)
+Analisis morfologi mikrokapsul oleoresin jahe
+merah dilakukan menggunakan Scanning electron
+microscope (SEM) JEOL-jenis JSM-6510LV dilapisi
+dengan lapisan tipis dari platinum, resolusi: mode
+vakum tinggi: 3,0 nm (30 kV) dan mode Vacuum
+Low: 4.0 nm (30 kV), akselerasi tegangan: 0,5 sampai
+30 kV.
+Analisis Interaksi Struktur Bahan Inti Dengan
+Penyalut Mikrokapsul Menggunakan Fourier
+Transform Infrared Spectroscopy (FTIR)
+Analisis interaksi antara komponen dalam
+mikrokapsul dilakukan dengan menggunakan Fourier
+transform infrared spectroscopy (FTIR) menggunakan
+KBr pelet, dalam spektrofotometer Shimadzu IR,
+operasi antara 500 dan 4000 cm-1.
+HASIL DAN PEMBAHASAN
+Pengaruh Konsentrasi Sodium Tripolifosfat
+(STPP) dan Rasio Kitosan : Alginat terhadap
+Release Mikrokapsul Oleoresin Jahe Merah
+Gambar 3 berikut ini adalah pengaruh
+konsentrasi STTP dan rasio kitosan : alginat sebagai
+penyalut terhadap release mikrokapsul oleoresin jahe
+merah. Gambar 3 menunjukkan bahwa perubahan
+konsentrasi STPP dan perbedaan konsentrasi kitosan :
+alginat akan berpengaruh pada jumlah oleoresin yang
+release dari mikrokapsul. Secara umum bahwa
+semakin besar konsentrasi STPP oleoresin yang
+release menjadi semakin sedikit pada seluruh rasio
+kitosan : alginat.
+Peningkatan konsentrasi STPP akan
+meningkatkan proses crosslink yaitu interaksi ionik
+antara ion -P3O10
+5- dari tripolifosfat dengan ion -NH+3
+dari kitosan, sedangkan reaksi antara ion -OH- dari
+tripolifosfat dengan ion -NH+3 dari chitosan terjadi
+secara deprotonasi (Ko dkk., 2002). Proses cross-link
+akan merubah sifat polimer awal sebelum di crosslink,
+polimer setelah crosslink menjadi lebih tahan terhadap
+geser, suhu tinggi dan pH rendah dibandingkan
+dengan polimer awalnya (tanpa crosslink), hal ini
+yang membuat jumlah oleresin yang release pada
+konsentrasi STPP 5% lebih sedikit dibandingkan
+dengan STPP konsentrasi 3% (b/v) dan 4% (b/v). Hal
+yang sama juga terjadi pada penelitian yang dilakukan
+oleh Rao dkk. (2010) dan Hemant dan Shivakumar
+(2010) bahwa peningkatan konsentrasi STPP akan
+menurunkan proses release.
+Peningkatan konsentrasi STPP akan
+meningkatkan reaksi ikat silang antara kitosan dan
+STPP melalui pembentukan kompleksasi ionik yang
+kuat antara kation kitosan dengan anion STPP (Cheon
+dkk., 2009). Selain itu penggunaan medium asam pada
+pH 6,8 akan terjadi protonasi gugus amina dari kitosan
+dan kehadiran muatan negatif polyanion (STPP)
+sehingga mengencangkan jaringan di sistem. Hal ini
+menyebabkan terjadi kurang pembengkakan pada
+mikrokapsul sehingga penghambatan pelepasan obat
+(Kouchak dan Azarpanah, 2015).
+
+
+Gambar 3. Pengaruh konsentrasi TPP terhadap release mikrokapsul oleoresin jahe merah pada perbandingan
+kitosan: alginat, (a) = 1 : 2; (b) = 1 : 1 ; (c) = 2 : 1
+Sodium tripolifosfat (STTP) sebagai agen
+crosslink karena memiliki banyak muatan negatif
+sehingga dapat berinteraksi lebih kuat, sehingga
+rantai-rantai polimer dari kitosan akan semakin rapat
+ditambah lagi adanya penambahan alginate yang
+membuat rantai polimer semakin rapat. Penggabungan
+antara STTP, kitosan dan alginat akan membuat reaksi
+antara ion, dimana polianion dari STPP dan alginat
+akan bereaksi dengan kation dari kitosan sehingga
+rantai polimer semakin kuat.
+Gambar 3 juga menunjukkan pengaruh rasio
+berat antara kitosan dengan alginat. Rasio kitosan :
+alginat pada Gambar 3 (a) adalah 1 : 2, jumlah alginat
+juga akan mempengaruhi proses release oleoresin dari
+mikrokapsul. Jumlah alginat atau konsentrasi alginat
+yang lebih tinggi membuat mikrokapsul sedikit
+berpori (Tan dkk., 2003), sehingga akan mengurangi
+proses difusi larutan medium kedalam mikrokapsul,
+akibatnya oleoresin dalam matrix akan sulit release.
+Peningkatan jumlah alginat menyebabkan
+pembengkakan (swelling) menurun, ini disebabkan
+karena nartium alginat dalam medium diubah menjadi
+asam alginat yang lebih mudah larut sehingga
+pembengkakan menurun. Hal ini terjadi karena
+monomer asam alginat yang terdiri dari asam
+manuronat dengan pKa 3,38 dan asam guluronat
+dengan pKa 3,65. Oleh karena itu, asam alginat
+sebagian besar tidak terionisasi dalam medium
+sehingga terjadi tolakan elektrostatik antara gugus
+karboksilat dari asam alginat menurun dan
+menyebabkan pembengkakan menurun. Hal ini juga
+menyebabkan penurunan release dari mikrokapsul
+oleoresin jahe merah (Donati dan Paoletti, 2009;
+Arianto dkk., 2014).
+Gambar 3 (a) dan (c) menunjukkan
+peningkatan jumlah kitosan akan menurunkan
+kekuatan dari panyalut, hal ini ditunjukkan dengan
+jumlah oleoresin jahe merah yang release pada
+Gambar 3 (c) lebih besar dibandingkan dengan
+Gambar 3 (a). Hal ini terjadi karena ikatan jaringan
+antara kedua polimer. Secara teroritis peningkatan
+konsentrasi kitosan akan meningkatkan interaksi antar
+dua polimer sehingga membentuk ikatan semakin kuat
+dan dapat menurunkan difusi obat keluar dari bead,
+maka dapat nyatakan bahwa semakin besar
+konsentrasi kitosan akan menurunkan jumlah obat
+yang release. Gonzalez-Rodrıguez dkk. (2002)
+menyatakan bahwa peningkatan rasio kitosan
+membuat larutan semakin kental dan mikrosfer akhir
+tidak memiliki morfologi yang cocok.
+
+Gambar 3 (b) menunjukkan perubahan release
+mikrokapsul oleoresin jahe merah pada rasio kitosanalginat
+sebesar 1:1. Perbandingan ini menunjukkan
+konsentrasi yang sama sehingga mengindikasikan
+interaksi polielektrolik secara sempurna. Jumlah
+oleoresin jahe merah yang release dari mikrokapsul
+lebih kecil dibandingkan yang ditunjukkan pada
+Gambar 3 (a) dan (c) pada berbagai konsentrasi STPP.
+Pengaruh rasio kitosan : alginat pada 1:1
+berkaitan dengan nilai tortuositas, dimana pada rasio
+1:1 nilai tortuositas lebih tinggi dibandingan dengan
+rasio 1:2 dan 2:1. Pembentukan matrik kitosan-alginat
+pada rasio 1:1 menyebabkan interaksi antara kitosan
+dan alginate menyebabkan ikat silang polimer
+menghasilkan nilai tortuositas dari matrik lebih tinggi.
+Pelepasan obat akan menurun dengan meningkatnya
+nilai tortuositas (Sinko, 2011; Arianto dkk., 2014).
+Pencampuran kitosan-alginat disebut dengan larutan
+polyblend. Dalam larutan polyblend, keberadaan
+interaksi termodinamika antara rantai polimer akan
+menyebabkan pencampuran non ideal, sehingga
+menyebabkan perubahan viskositas larutan campuran.
+Polyblend kitosan dan alginat pada rasio 1:1
+menghasilkan viskositas larutan tertinggi (Meng dkk.,
+2010).
+Karakterisasi Mikrokapsul Oleoresin Jahe Merah
+Gambar 4 menunjukkan karakterisasi
+morfologi mikrokapsul oleoresin jahe merah dengan
+penyalut kitosan-alginat, mikrokapsul yang digunakan
+adalah mikrokapsul awal sebelum dianalisis release.
+Secara umum mikrokapsul yang dihasilkan
+menggunakan metode spray drying mempunyai
+permukaan yang halus dan berbentuk bulat, hanya
+terdapat beberapa mikrokapsul di permukaannya
+menempel serpihan-serpihan kecil yaitu pada
+mikrokapsul di formula H dan I. Serpihan halus yang
+menempel pada permukaan mikrokapsul
+dimungkinkan adalah penyalut berupa kitosan-alginat.
+Salah satu faktor yang menyebabkan adalah waktu
+pengadukan untuk membuatan emusli tidak terlalu
+lama, sehingga sebagian kecil kitosan dan alginat
+tidak dapat menyalut oleoresin jahe merah. Selain itu
+kosentrasi STPP yang tinggi yaitu 5% membuat reaksi
+crosslink semakin cepat, sehingga ketika dimasukan
+dalam spray dryer penyalut tersebut mengering dan
+menempel pada permukaan mikrokapsul.
+
+Gambar 4 juga memperlihatkan mikrokapul dari
+formula A-G saling menempel satu sama lain dan
+terlihat seperti gumpalan, peristiawa ini terjadi dapat
+disebabkan karena kelembaban mikrokapsul yang
+besar yang bisa terjadi dari proses pengeringan di
+spray dryer yang tidak sempurna sehingga pelarut
+yang digunakan tidak menguap sempurna.
+Karakterisasi Menggunakan Fourier Transform
+Infrared Spectroscopy (FTIR)
+Karakterisasi kimia dilakukan dengan analisis
+gugus fungsi menggunakan Fourrier Transformation
+Infra Red (FTIR). Spektrum FTIR dari kitosan,
+alginat, TPP, oleoresin jahe merah dan mikrokapsul
+dari formula H yang dapat dilihat pada Gambar 5.
+Spektrum FTIR kitosan tampak pada Gambar 5
+memperlihatkan adanya gugus O-H pada daerah
+bilangan gelombang 3433,8 cm-1 yang merupakan
+absoprsi band, vibrasi regangan gugus C-H muncul
+pada 2919,1196 cm-1, gugus N-H pada daerah
+gelombang 1591,86 cm-1 dan 1382,7340 cm-1 dapat
+dikaitan dengan vibrasi deformasi dari intensitas
+medium dari ikatan N-H dari amina primer, dan
+intensitas rendah dari gugus C-H dari grup CH3. Pada
+daerah gelombang 1073,22 cm-1 sesuai dengan vibrasi
+regangan ikatan C-O dari alkohol primer (Domszy dan
+Robert, 1985; Kimura dkk., 2001). Analisa FTIR
+untuk alginat yang ditunjukkan pada Gambar 5
+memperlihatkan adanya vibrasi regangan gugus fungsi
+O-H (H-terikat) pada bilangan gelombang 3433,34
+cm-1. Menurut Daemi dan Barikani, (2012) vibrasi
+regangan ikatan O-H pada alginat berada pada range
+3000-3600 cm-1. Vibrasi regangan dari alifatik C-H
+pada 2924,6963 cm-1, Vibrasi regangan gugus
+karbonil (-C=O) asam alifatis jenuh muncul pada area
+1760 cm-1 (Silverstain, 2005) namun pada spektrum
+FT-IR alginat pada percobaan ini muncul pada
+1633,6863 cm-1. Pergeseran frekuensi tersebut
+disebabkan terbentuknya ikatan hidrogen
+antarmolekul alginat, C-H pada 1406,0409 cm-1, dan
+pada puncak serapan 1109,4749 dan 615,9354 cm-1
+yang dikaitkan dengan vibrasi regangan C-O dari
+cincin pyranosyl dan regangan C-O dengan kontribusi
+dari deformasi C-C-H dan C-O-H (Daemi dan
+Barikani, 2012).
+Untuk spektrum STPP berikut karakteristik
+dapat diamati: pada bilangan gelombang 2983,25 cm-1
+memperlihatkan regangan gugus fungsi P-O-H, pada
+bilangan gelombang 1410,6176-1483,1149 cm-1
+memperlihatkan adanya ion NH4+, bilangan
+gelombang 1126,2051 cm-1 adanya regangan pada
+gugus P=O, pada bilangan gelombang 1006,305 cm-1
+adanya regangan pada ion P-O, dan pada bilangan
+gelombang 847,37 cm-1 memiliki ikatan P-O-H
+(Corbridge dan Lowe, 1954).
+
+Untuk spektrum oleoresin jahe merah
+memperlihatkan regangan pada gugus OH; ikatan-H
+pada bilangan gelombang 2924,7 cm-1 menunjukkan
+adanya asam karboksilat (RCOOH), regangan gugus
+C=C pada gelombang 1661,57 cm-1, regangan C=C
+aromatic pada pita 1561,19 cm-1, regangan venyl ether
+gugus C-O-C pada gelombang 1215,43 cm-1, dan
+gugus O-H pada bilangan gelombang 613,14-883,61
+cm-1, menunjukkan adanya komponen fenol (Purnomo
+dkk., 2010). Adapun pada mikrokapsul kitosan-alginat
+dengan crosslink sodium tripolifosfat (STTP) yang
+terisi oleoresin jahe merah, tidak ada puncak-puncak
+serapan yang mengindikasikan adanya gugus fungsi
+baru hanya ada perubahan pada lebar puncak dan
+sedikit pergeseran frekuansi. Mikrokapsul oleoresin
+jahe merah dengan penyalut kitosan-alginat memiliki
+puncak-puncak spesifik pada bilangan gelombang
+3375.73 cm-1 (gugus O-H), 2924,69 cm-1 (gugus C-H),
+1561,18 cm-1 (gugus N-H), 1410,61 cm-1 (C=C, gugus
+aromatik benzena) , 1078,8 cm-1 (gugus C-O-C) dan
+618,73 cm-1 (gugus OH phenol)
+Kinetika Release Mikrokapsul Oleoresin Jahe
+Merah
+Penentuan model kinetika release oleoresin
+jahe merah dalam medium basa ditentukan dengan
+metode grafis, yaitu dengan melihat nilai koefisien
+determinasi (R2) yang diperoleh dari grafik hubungan
+antara jumlah oleoresin yang release dengan waktu.
+Model kinetika release yang digunakan adalah model
+kinetika release oreder nol, order satu, model Higuchi,
+dan model Korsmeyer-Peppas, Tabel 2 menunjukkan
+hasil yang didapat berupa nilai kontanta kinetika
+release dan nilai R2 dari masing-masing model.
+Tabel 2 menunjukkan bahwa nilai koefisien
+korelasi (R2) tertinggi dari seluruh model pada
+formula A-I adalah model Korsmeyer-Peppas dengan
+R2 = 0,9731 pada formula H. Dalam pelepasan
+terkendali terdapat tiga mekanisme pengendalian yaitu
+difusi, swelling dan erosi. Kebanyakan pelepasan
+terkendali pada system polimer adalah difusi dengan
+penjelasan terbaik yaitu difusi Fickian. Mekanisme
+lain yang berperan penting pada release yang
+melibatkan swelling polimer, dimana proses ini
+meliputi relaksasi rantai polimer, menyerap air
+sehingga polimer menjadi membengkak. Oleh karena
+itu data release menggunakan persamaan 16 yang
+diberikan oleh Peppas dan Sahlin, (1989) atau disebut
+Power law. Pada persamaan Korsmeyer-Peppas
+terdapat nilai n yaitu eksponen diffusional yang dapat
+memberikan informasi penting tentang mekanisme
+pelepasan difusi obat dari polimer. Nilai eksponensial
+inilah yang memberikan informasi bahwa release obat
+berbanding lurus terhadap waktu, sehingga nilai
+koefisien korelasi (R2) menjadi besar.
+Pada Tabel 3 difusi ekponensial, n dari model
+Korsmeyer-Peppas adalah 0,2362. Nilai ini lebih
+rendah dari yang ditetapkan oleh Ritger dan Peppas,
+(1987) untuk sampel bola, seperti yang terlihat pada
+Tabel 3. Rendahnya nilai n kemungkinan disebabkan
+oleh besarnya distribusi ukuran (Martinez dkk., 2013).
+Nilai n yang diperoleh dapat ditetapkan bahwa proses
+yang terjadi melalui mekanisme difusi Fickian, berarti
+bahwa release oleoresin secara swelling difusi matrix,
+dimana larutan medium mendifusi ke mikropsul
+oleoresin dan terjerap dalam matrik menyebabkan gel
+membengkak (swelling) sehingga oleoresin berdifusi
+dari matrik lingkungan keluar karena adanya
+perbedaan konsentrasi. Das dkk. (2010) melakukan
+penelitian enkapsulasi kurkumin dengan
+menggunakan penyalut kitosan-alginat, model dengan
+nilai R2 tertinggi adalah model Korsmeyer-Peppas,
+tetapi nilai n = 0,84 yang menunjukkan mekanisme
+releasenya berdasarkan difusi non-Fickian dimana
+mengindikasikan mekanisme release melalui
+kombinasi antara erosi dan difusi.
+Tabel 2. Nilai kontanta model kinetika release
+Formula
+Order Nol Order satu Model Higuchi Model Kosmeyer-Peppas
+ko R2 k1 R2 kH R2 kK-P n R2
+A 0,6748 0,7082 0,0018 0,7052 7,8528 0,7920 1,4938 0,1516 0,8671
+B 0,8888 0,5962 0,0025 0,5932 10,6310 0,7044 1,4736 0,2013 0,8098
+C 2,0332 0,9400 0,0067 0,9336 21,7300 0,8867 1,4539 0,2802 0,8248
+D 0,5860 0,7775 0,0016 0,7812 6,7999 0,8645 1,4909 0,1384 0,9246
+E 0,5779 0,8192 0,0016 0,8212 6,5493 0,8689 1,4537 0,1472 0,8938
+F 0,4792 0,8409 0,0012 0,8405 5,4207 0,8886 1,4844 0,1170 0,9169
+G 0,7414 0,7833 0,0016 0,7922 8,6187 0,8743 1,1096 0,3634 0,9100
+H 0,5371 0,9378 0,0016 0,9410 7,1312 0,9704 1,2767 0,2362 0,9732
+I 0,7399 0,7789 0,0021 0,7671 8,0177 0,7554 1,4747 0,1499 0,7353
+
+Tabel 3. Eksponen diffusional dan mekanisme pelepasan difusional dari berbagai sistem kontrol release nonswellable
+(Peppas dan Sahlin, 1989)
+Difusi eksponensial, n
+Mekanisme release
+Thin Film Sampel silinder Sampel bola
+0,5 0,45 0,43 Difusi Fickian
+0,5 < n < 1 0,45 < n < 0,89 0,43 < n < 0,85 Non Fickian
+1,0 0,89 0,85 Case-II transport
+Model-model kinetika release menggambarkan
+proses yang terjadi pada release mikrokapsul dalam
+medium. Kinetika release order nol menunjukkan
+disolusi obat yang tidak dipilah dan release secara
+perlahan (asumsinya adalah area yang tidak berubah
+dan tidak ada kondisi kesetimbangan). Hubungan ini
+dapat digunakan untuk menggambarkan disolusi obat
+pada beberapa tipe modifikasi release dosis farmasi,
+seperti pada beberapa kasus sistem transdermal dan
+juga matrix tablet dengan obat yang rendah larut
+dalam bentuk terlapisi, sistem osmosis dan lain-lain
+(Dash dkk., 2010; Costa dan Lobo, 2001). Model
+order satu menggambarkan absorpsi dan atau
+eliminasi beberapa obat, meskipun sulit untuk konsep
+mekanisme ini secara teoritis. Aplikasi model ini
+digunakan untuk menjelaskan disolusi obat dalam
+farmasi seperti untuk obat yang larut dalam air pada
+matrix berpori (Costa dan Lobo, 2001). Model
+Higuchi merupakan model pertama yang menggambar
+secara matematis release obat dari sistem matrix.
+Model ini menggambarkan disolusi obat pada
+beberapa jenis modifikasi release bentuk sediaan
+farmasi, seperti kasus sistem transderal dan matrix
+tablet dengan obat yang larut dalam air. Model
+Korsmeyer-Peppas menggabarkan model semi
+empiris, dimana difusi adalah mekanisme utama untuk
+release obat yang menghubungkan secara
+eksponensial release obat terhadap waktu (Korsmeyer
+dkk., 1983).
+KESIMPULAN
+Penelitian ini menggunakan penyalut kitosanalginat
+dengan TPP sebagai crosslink, hasil penelitian
+menunjukkan peningkatan konsentrasi TPP akan
+mengurangi release mikrokapsul. Peningkatan
+konsentrasi kitosan dan alginate juga dapat
+mengurangi release oleoresin jahe merah dari
+mikrokapsul. Model kinetika release dengan nilai R2
+tertinggi adalah model Korsmeyer-Peppas dengan
+nilai R2 = 0,9732; kK-P = 1,2767 dan n = 0,2362.
+
+DAFTAR NOTASI
+C = Konsentrasi solut pada waktu t (unit/cm3)
+􀜥􀯦 = Solubility dalam kesetimbangan pada suhu
+eksperimen (unit/cm3)
+Cn = konsentrasi oleoresin terdisolusi pada
+waktu t (ppm)
+D = Koefisien difusi dalam media disolusi
+􀝇􀬴 = Konstanta release order nol (mg/menit).
+􀝇􀬵 = Konstanta order satu (menit-1)
+􀝇􀯁 = Konstanta disolusi Higuchi (menit-1/2)
+􀝇􀯄􀬿􀯉 = Konstanta disolusi Kosmeyer-Peppas
+(menit-n)
+􀯆􀳟
+􀯆􀲮
+􀵌 􀯊􀳟
+􀯊􀲮
+= Fraksi release oleoresin terhadap waktu t
+n = Difusi eksponensial
+􀜳􀯧 = Jumlah oleoresin terlarut selama waktu t
+(mg)
+􀜳􀬴 = berat mikrokapsul sampel (mg)
+􀜵 = Surface area padatan
+Vm = volume medium disolusi (mL)
+Vs = volume pengambilan sampel (mL)
+R2 = Koefisien determinasi
+􀟜 = Porositas matrix
+􀟬 = Tortuositas

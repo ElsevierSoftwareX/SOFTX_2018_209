@@ -1,0 +1,245 @@
+﻿ABSTRAK
+Penelitian ini bertujuan untuk menguji respon pasar atas sinyal yang
+dikeluarkan oleh perusahaan, yakni informasi akuntansi, bias akuntansi, dan Good
+Corporate Governance dengan proksi konsentrasi kepemilikan dan ukuran dewan
+direksi. Kemudian diuji apakah free cash flow dapat memperkuat atau
+memperlemah respon pasar atas sinyal-sinyal tersebut. Penelitian dilakukan
+dengan metode kuantitatif dengan sampel perusahaan manufaktur yang terdaftar
+di Bursa Efek Indonesia selama tahun 2010 – 2014. Hasil penelitian menunjukkan
+bahwa pasar merespon sinyal berupa informasi akuntansi dan GCG berupa ukuran
+dewan direksi. Informasi akuntansi direspon positif oleh pasar, sedangkan ukuran
+dewan direksi direspon negatif oleh pasar. Free cash flow terbukti dapat
+memperlemah respon positif pasar atas informasi akuntansi. Free cash flow juga
+terbukti dapat memperkuat respon negatif pasar atas ukuran dewan direksi.
+.
+Kata Kunci : Bias akuntansi, free cash flow, Good Corporate Governance,
+Informasi Akuntansi
+
+BAB 1
+PENDAHULUAN
+1.1 Latar Belakang Masalah
+Laporan keuangan merupakan informasi yang dipublikasikan oleh pihak
+internal perusahaan sebagai sinyal kepada pihak eksternal perusahaan untuk
+memberitahukan mengenai kondisi perusahaan. Sinyal tersebut, baik maupun
+buruk, akan secara rasional direspon oleh investor berupa keputusan-keputusan
+investasi. Akumulasi dari banyak keputusan investasi di pasar, akan tercermin
+dalam pergerakan harga saham.
+Laporan keuangan mengandung banyak informasi akuntansi. Informasi
+akuntansi yang disajikan laporan keuangan salah satunya adalah nilai buku
+ekuitas. Nilai buku ekuitas merupakan nilai bersih dari sumberdaya yang dimiliki
+perusahaan. Informasi akuntansi dikatakan sebagai relevan jika mampu digunakan
+sebagai dasar pengambilan keputusan investor. Investor menggunakan laporan
+keuangan sebagai dasar untuk mengambil keputusan investasi, yang akan
+tercermin pada harga saham perusahaan. Sehingga dapat disimpulkan bahwa
+laporan keuangan yang memiliki value relevance jika informasi akuntansi yang
+terkandung di dalamnya memiliki pengaruh terhadap respon pasar yang tercermin
+pada pergerakan harga saham.
+Beberapa dekade yang lalu, studi mengenai value relevance dari laporan
+keuangan telah banyak fokus pada laba (Chen et al., 1999) , namun beberapa riset
+terkini telah memasukkan nilai buku ekuitas sebagai salah satu variabel
+independennya (Pirie dan Smith, 2008). Beberapa studi juga membuktikan bahwa
+aset dan kewajiban berhubungan dengan harga saham (Amir, 1993; Francis dan
+Schipper, 1999; Landsman, 1986).
+Sinyal lain yang dimiliki oleh laporan keuangan, yakni penggunaan
+prinsip akuntansi perusahaan yang konservatif atau liberal. Prinsip akuntansi yang
+konservatif memiliki kecenderungan untuk mengakui kerugian terlebih dahulu
+ketimbang mengakui keuntungan, sehingga laba lebih cepat merepresentasikan
+adanya “berita buruk” ketimbang “berita baik”. Prinsip akuntansi yang konservatif
+(liberal) cenderung untuk melakukan penilaian atas nilai buku ekuitas perusahaan
+lebih rendah (tinggi) daripada nilai pasar ekuitas, sehingga terjadi bias pada
+informasi akuntansi berupa nilai buku ekuitas yang dilaporkan oleh perusahaan
+(Naimah, 2012). Adanya bias pada informasi akuntansi pada laporan keuangan ini
+diprediksi akan direspon negatif oleh investor, mengingat angka yang dilaporkan
+memiliki kecenderungan untuk lebih rendah (untuk konservatif) atau lebih tinggi
+(untuk liberal) daripada nilai pasar.
+Perusahaan sebagai entitas bisnis memiliki beberapa pihak yang
+berkepentingan, meliputi pemegang saham, manajer, dewan direksi, karyawan,
+pemasok, dan pelanggan. Dalam praktiknya, seringkali terjadi benturan
+kepentingan antar pihak yang berkepentingan, terutama antara manajer, dewan
+direksi dan pemegang saham. Menurut Jensen dan Meckling (1976), baik manajer
+maupun pemegang saham memiliki kepentingan untuk memaksimalkan
+keuntungan, namun kepentingan kedua belah pihak tersebut bertolak belakang
+sehingga terjadi benturan kepentingan dan terjadilah agency conflict. Oleh karena
+itu, disusunlah mekanisme tata kelola perusahaan (good corporate governance –
+GCG), yang menyediakan serangkaian regulasi yang mampu menjembatani
+benturan kepentingan antara para pihak yang berkepentingan, sehingga
+perusahaan mampu beroperasi dengan alokasi sumber daya yang efisien.
+Mekanisme GCG merupakan sinyal lain yang diberikan oleh internal
+perusahaan kepada pihak eksternal perusahaan. GCG, menurut Mensah et al.
+(2003), memfasilitasi pengembangan perusahaan dengan memastikan adanya
+alokasi yang efisien dari sumberdaya ekonomi. Adanya GCG menunjukkan
+bahwa perusahaan telah melaksanakan tata kelola perusahaan untuk mengatasi
+konflik keagenan internal perusahaan. Dapat diprediksi, informasi berupa
+mekanisme GCG yang dilakukan oleh perusahaan akan direspon positif oleh
+pasar. Adapun beberapa mekanisme GCG tersebut diantaranya yakni berupa
+konsentrasi kepemilikan, dan ukuran dewan direksi.
+Penelitian ini ingin menguji apakah respon pasar atas ketiga sinyal
+tersebut di atas, yakni informasi akuntansi, bias akuntansi, dan GCG dapat
+diperlemah dengan adanya Free Cash Flow. Menurut Jensen (1986), free cash
+flow memicu konflik kepentingan antara manajer (sebagai agen) dan pemegang
+saham (sebagai prinsipal) berkaitan dengan penggunaan free cash flow
+perusahaan. Dalam hal ini, free cash flow didefinisikan sebagai arus kas yang
+tetap ada di perusahaan setelah semua proyek investasi dengan NPV positif telah
+dilaksanakan semua. Dengan kata lain, free cash flow ini merupakan arus kas
+yang benar-benar “bebas”, yang seharusnya dibagikan kepada pemegang saham
+dalam bentuk dividen (Setiawan, 2014).
+
+Namun demikian, keberadaan free cash flow ini dapat menyebabkan
+perilaku moral hazard, yakni berupa perilaku overinvestment ketika perusahaan
+memiliki peluang investasi yang buruk. Bukannya membagikan free cash flow
+kepada pemegang saham dalam bentuk dividen, manajer malah akan
+menggunakan free cash flow perusahaan untuk diinvestasikan pada berbagai
+proyek investasi yang mempunyai NPV marjinal atau bahkan negatif, dengan
+motivasi agar perusahaan tumbuh menjadi lebih besar meskipun mengorbankan
+profitabilitas perusahaan. Semakin besar ukuran perusahaan, semakin besar
+sumber daya perusahaan yang ada di bawah kendali manajer sehingga semakin
+besar kemungkinan manajer menyalahgunakan sumber daya perusahaan untuk
+kepentingan pribadinya. Untuk memanipulasi kegiatan overinvestment yang
+dilakukan, insider cenderung untuk melakukan manajemen laba dalam rangka
+meningkatkan angka laba yang dilaporkan pada laporan keuangan (Chung et al.,
+2005).
+Motivasi penelitian ini, adalah peneliti ingin menguji apakah pasar benarbenar
+secara rasional merespon sinyal yang diberikan oleh perusahaan, yakni
+informasi akuntansi, bias akuntansi, serta mekanisme GCG yang diterapkan oleh
+perusahaan. Selanjutnya, peneliti ingin menguji apakah free cash flow dapat
+memperlemah respon pasar atas ketiga sinyal tersebut.
+Penelitian Nurhadi (2008) menguji pengaruh free cash flow terhadap
+respon pasar, dan hasil menunjukkan bahwa free cash flow berpengaruh negatif
+terhadap harga saham, karena investor memandang perusahaan dengan free cash
+flow yang tinggi memungkinkan terjadinya moral hazard dari manajemen.
+
+Perbedaan penelitian ini dengan penelitian Nurhadi (2008), yakni penelitian ini
+ingin menguji apakah free cash flow dapat memperlemah respon pasar atas sinyal
+yang diberikan perusahaan yakni informasi akuntansi, bias akuntansi, dan Good
+Corporate Governance.
+Free cash flow diprediksi akan memperlemah respon pasar atas sinyal
+berupa informasi akuntansi. Investor memandang free cash flow cenderung
+digunakan oleh manajer untuk melakukan moral hazard dalam rangka
+memaksimalkan kepentingan pribadi mereka, yakni dengan melakukan investasi
+pada proyek-proyek berNPV negatif untuk meningkatkan ukuran perusahaan. Hal
+ini berakibat pada manajer yang memiliki kecenderungan untuk melakukan
+manajemen laba untuk memanipulasi expropriation of the firm’s resources yang
+telah dilakukan, sehingga laporan keuangan tidak menunjukkan angka yang
+sesungguhnya. Sehingga respon pasar atas sinyal informasi akuntansi diprediksi
+akan melemah untuk perusahaan dengan free cash flow.
+Penelitian Ohlson (1995), Shamki dan Rahman (2012), dan Naimah
+(2012) menguji value relevance laporan keuangan dengan menguji pengaruh
+informasi akuntansi terhadap respon pasar, baik harga saham maupun return
+saham. Hasil penelitian secara konsisten menunjukkan bahwa informasi akuntansi
+direspon oleh pasar. Perbedaan penelitian ini dengan penelitian sebelumnya, yakni
+penelitian ini memasukkan free cash flow sebagai variabel yang diprediksi dapat
+memperlemah respon pasar atas sinyal berupa informasi akuntansi.
+Free cash flow juga diprediksi akan memperlemah respon pasar atas
+sinyal berupa bias akuntansi. Bias akuntansi yang disebabkan oleh prinsip
+
+akuntansi perusahaan yang terlalu konservatif (liberal), menyebabkan nilai buku
+ekuitas yang dilaporkan menjadi terlalu rendah (tinggi) (Beaver, 2000). Hal ini
+diprediksi akan direspon negatif oleh pasar. Respon pasar diprediksi akan semakin
+buruk jika perusahaan memiliki free cash flow, dikarenakan kecenderungan
+manajer melakukan moral hazard dalam pengelolaan free cash flow perusahaan
+demi kepentingan pribadi.
+Penelitian Naimah (2012) menguji bias akuntansi sebagai pemoderasi
+pengaruh nilai buku ekuitas dan laba terhadap harga saham, dan hasil
+menunjukkan bahwa value relevance laporan keuangan menurun untuk
+perusahaan dengan bias akuntansi. Perbedaan penelitian ini dengan penelitian
+Naimah (2012), yakni penelitian ini menguji pengaruh bias akuntansi terhadap
+respon pasar yang menggunakan proksi return saham, untuk merepresentasikan
+kondisi sebelum dan sesudah sinyal berupa bias akuntansi dikeluarkan oleh
+perusahaan. Kemudian diuji apakah respon pasar akan semakin melemah untuk
+perusahaan dengan free cash flow.
+Free cash flow juga diprediksi akan memperlemah respon pasar atas
+sinyal berupa mekanisme Good Corporate Governance. GCG merupakan suatu
+mekanisme untuk menyelaraskan kepentingan antara manajer dengan pemegang
+saham sehingga terhindar dari agency conflict. Namun pasar akan menganggap
+bahwa perusahaan dengan free cash flow memiliki mekanisme GCG yang gagal,
+karena investor beranggapan bahwa perusahaan dengan ketersediaan free cash
+flow yang tinggi akan memungkinkan moral hazard yang dilakukan manajemen,
+sehingga merugikan pemegang saham.
+
+Penelitian Sheikh et al. (2013) menguji pengaruh beberapa mekanisme
+GCG terhadap market to book ratio. Hasil penelitian menunjukkan bahwa ukuran
+dewan direksi dan konsentrasi kepemilikan berpengaruh positif terhadap market
+to book ratio. Perbedaan penelitian ini dengan penelitian sebelumnya, yakni pada
+penelitian ini mekanisme GCG diuji apakah berpengaruh terhadap respon pasar
+menggunakan proksi abnormal return saham. Selanjutnya, diuji apakah free cash
+flow dapat memperlemah respon pasar atas mekanisme GCG.
+Berdasarkan latar belakang permasalahan tersebut, maka judul penelitian
+ini adalah “Pengaruh Informasi Akuntansi, Bias Akuntansi, dan Good Corporate
+Governance terhadap Respon Pasar dengan Free Cash Flow sebagai Variabel
+Moderasi”.
+1.2 Rumusan Masalah
+Berdasarkan latar belakang permasalahan dan uraian yang telah
+disebutkan di atas, dapat dikemukakan rumusan masalah penelitian sebagai
+berikut:
+1. Apakah informasi akuntansi berpengaruh terhadap respon pasar?
+2. Apakah bias akuntansi berpengaruh terhadap respon pasar?
+3. Apakah good corporate governance berpengaruh terhadap respon pasar?
+4. Apakah free cash flow memoderasi pengaruh informasi akuntansi terhadap
+respon pasar?
+5. Apakah free cash flow memoderasi pengaruh bias akuntansi terhadap
+respon pasar?
+
+6. Apakah free cash flow memoderasi pengaruh good corporate governance
+terhadap respon pasar?
+1.3 Tujuan Penelitian
+Berdasarkan rumusan masalah penelitian yang telah dikemukakan, maka
+tujuan penelitian ini adalah sebagai berikut:
+1. Untuk mengetahui apakah informasi akuntansi berpengaruh terhadap
+respon pasar.
+2. Untuk mengetahui apakah bias akuntansi berpengaruh terhadap respon
+pasar.
+3. Untuk mengetahui pakah good corporate governance berpengaruh
+terhadap respon pasar.
+4. Untuk mengetahui apakah free cash flow memoderasi pengaruh informasi
+akuntansi terhadap respon pasar.
+5. Untuk mengetahui apakah free cash flow memoderasi pengaruh bias
+akuntansi terhadap respon pasar.
+6. Untuk mengetahui apakah free cash flow memoderasi pengaruh good
+corporate governance terhadap respon pasar.
+1.4 Manfaat Penelitian
+Adapun manfaat penelitian yang ingin dicapai dengan adanya penelitian
+ini adalah:
+1. Manfaat teoritis
+
+Penelitian ini dilakukan untuk menguji Signalling Theory, yakni apakah
+sinyal yang dipublikasikan oleh perusahaan, memang benar digunakan
+oleh investor secara rasional (Rational Expectations Theory) untuk
+melakukan keputusan investasi. Jika memang benar, maka keputusan
+investasi tersebut akan berdampak pada semakin efisiennya pasar, yakni
+dimana pasar semakin cepat merespon sinyal-sinyal yang dipublikasikan
+perusahaan dalam bentuk perubahan harga saham (Efficient Market
+Hypothesis).
+Laporan keuangan mengandung beberapa sinyal, yakni informasi
+akuntansi, bias akuntansi, dan mekanisme Good Corporate Governance –
+GCG. Penelitian ini menguji apakah ketiga sinyal tersebut direspon oleh
+pasar.
+Kemudian, diuji apakah free cash flow dapat memperlemah respon pasar
+atas ketiga sinyal tersebut diatas. Karena berdasarkan Agency Theory,
+insider dalam perusahaan dengan free cash flow yang tinggi cenderung
+akan melakukan moral hazard dalam bentuk kegiatan overinvestment atau
+investasi pada proyek dengan NPV negatif, ketimbang membayarkan FCF
+tersebut kepada pemegang saham dalam bentuk dividen, dengan motivasi
+agar sumberdaya yang berada di bawah kendali manajer tidak berkurang.
+2. Manfaat empiris
+Manfaat empiris dari penelitian ini yakni sebagai berikut. Pertama, hasil
+penelitian ini dapat dijadikan acuan bagi investor apakah laporan keuangan
+yang dihasilkan oleh perusahaan masih relevan untuk dijadikan media
+
+pengambilan keputusan. Kedua, hasil penelitian ini dapat dijadikan acuan
+bagi manajer mengenai bagaimana respon pasar terhadap prinsip akuntansi
+yang digunakan, baik konservatif maupun liberal, sehingga dapat
+dilakukan tindak lanjut atas hasil penelitian ini untuk menggunakan prinsip
+akuntansi apa sehingga pasar merespon positif. Ketiga, hasil penelitian ini
+dapat dijadikan acuan bagi manajer apakah penerapan good corporate
+governance – GCG untuk mengatasi konflik keagenan perusahaan
+direspon positif oleh pasar. Keempat hasil penelitian ini dapat dijadikan
+acuan bagi manajer untuk mengelola free cash flow sehingga investor
+percaya untuk mengambil keputusan berinvestasi di perusahaan tersebut.
+3. Manfaat kebijakan
+Manfaat kebijakan dari penelitian ini adalah, untuk memberikan masukan
+bagi dewan penyusun standar dalam penyusunan standar dalam hal
+penyajian laporan keuangan perusahaan yang memiliki value relevance.
+Selain itu, penelitian ini memberikan masukan bagi Komite Nasional
+Kebijakan Governance untuk lebih memberikan petunjuk bagi perusahaan
+mengenai regulasi tata kelola perusahaan yang baik sehingga alokasi
+sumber daya perusahaan berjalan efisien dan efektif.

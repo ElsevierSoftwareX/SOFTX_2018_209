@@ -1,0 +1,156 @@
+﻿
+
+Pengembangan Model Variable Review Period dengan 
+
+Mempertimbangkan Order Crossover 
+
+
+ 
+
+
+ 
+
+ 
+
+Pendahuluan 
+
+ 
+Saat ini perusaahaan menghadapi lingkungan 
+bisnis yang kompetitif, dimana diperlukan strategi 
+yang tepat menghadapi tantangan dan permintaan 
+konsumen. Strategi yang diterapkan oleh perusahaan selalu mempertimbangkan faktor efisiensi dan 
+responsiveness. Efisiensi di sini bertujuan mengurangi biaya operasional. 
+ 
+Sebaliknya, responsiveness didesain untuk memberikan reaksi yang cepat dalam memuaskan keinginan 
+konsumen. Kepuasan konsumen dapat dicapai 
+dengan menyediakan tingkat inventori yang tinggi 
+untuk memenuhi permintaan mereka. Sebagai konsekuensinya, biaya inventori yang harus ditanggung 
+perusahaan semakin tinggi. 
+ 
+Inventori dalam sebuah perusahaan sangat dibutuhkan karena permintaan konsumen yang 
+unpredictable dan leadtime pemesanan yang juga 
+bervariasi. Faktor lainnya yang menjadi penyebab 
+tingginya inventori adalah kedatangan barang 
+pesanan yang tidak sesuai dengan urutan pemesanan, hal ini disebut order crossover. Srinivasan [1] 
+menyatakan bahwa penyebab order crossover tidak 
+selalu berhubungan dengan panjang rantai pasoknya. Faktor konsolidasi pengiriman, penjadwalan 
+ulang di lantai produksi maupun penggunaan 
+beberapa pemasok juga dapat menyebabkan terjadinya order crossover. Banyak penelitian tentang model inventori masih mengabaikan terjadinya order 
+crossover. Beberapa model inventori klasik untuk 
+permintaan yang bersifat probabilistic telah dikembangkan. Tiga model inventori klasik yang ada, 
+yaitu: model re-order point, model untuk single 
+period (newsboy problem),dan model classical periodic review. Pada model classical periodic review 
+order dilakukan secara rutin selama periode tertentu dengan penentuan jumlah barang yang dipesan berdasarkan selisih antara target inventori 
+dengan inventori yang ada saat itu. 
+ 
+Chan et al [2] mengusulkan sebuah algoritma yang 
+mengoptimalkan pemenuhan pesanan dengan 
+mempertimbangkan ketidakpastian pada leadtime 
+produksi, leadtime transportasi, dan leadtime due 
+date. Kulkayani dan Yan [3] mengembangkan model 
+produksi dan inventori pada permintaan dan 
+leadtime yang stokastik. Mereka mengasumsikan 
+bahwa leadtime berdistribusi eksponensial dan 
+order dapat atau tidak dapat diijinkan untuk 
+bertukar. 
+ 
+Bradley and Robinson [4] mengevaluasi kebijakan 
+base-stock pada kasus order crossover. Pengaplikasian base-stock level (S) pada periodic review mempertimbangkan distribusi permintaan selama leadtime. Mereka menyimpulkan bahwa kebijakan basestock tidak cukup reliabel ketika terjadi order 
+crossover. Bischak et al. [5] mencoba mengembangkan model periodic review pada permintaan 
+stokastik dan leadtime yang bervariasi untuk kasus 
+order crossover. Model usulan ini mencoba untuk 
+menemukan nilai maksimum inventori dan safety 
+stock yang menghasilkan biaya inventori minimum. 
+Srinivasan [6] berusaha untuk menemukan formula 
+yang optimal untuk kondisi order crossover. 
+Penelitiannya berusaha membandingkan antara 
+kebijakan naive base-stock (fenomena order crossover 
+diabaikan) dengan kebijakan base-stock terbaik 
+(mempertimbangkan order crossover). Simulasi 
+dengan berbagai asumsi dilakukan untuk mendapatkan model terbaik dari kondisi order crossover. 
+ 
+Riezeboz [7] pada penelitiannya menyatakan bahwa 
+teori klasik perlu dimodifikasi agar dapat digunakan 
+untuk menyelesaikan masalah order crossover. 
+ 
+Gonzales [8] mencoba mengembangkan algoritma 
+Wagner Whitin untuk menghasilkan soluasi lot size 
+optimal pada kasus backorder. Algoritma Wagner 
+Whitin sendiri adalah algoritma lot sizing yang 
+menghasilkan solusi optimal dengan menggunakan 
+algoritma forward recursive. Selain itu, Sadjadi [9] 
+juga merancang sebuah model usulan perbaikan 
+algoritma Wagner Whitin untuk permasalahan lot 
+sizing dengan mengacu pada konsep economic order 
+period dengan mengijinkan terjadinya backorder. 
+
+ 
+
+Pada penelitian ini akan dilakukan pengembangan 
+model pada kasus order crossover. Makalah ini akan 
+dibagi menjadi empat bagian. Bagian pertama berisi 
+pendahuluan, dan bagian kedua berisi metode penelitian serta usulan pengembangan model. Bagian 
+ketiga dan terakhir merupakan hasil pembahasan 
+dan simpulan dari penelitian yang telah dilakukan. 
+ 
+ 
+Model Classical Periodic Review 
+ 
+Model Classical Periodic review merupakan model 
+pengendalian inventori yang meninjau posisi barang 
+inventarisasi secara periodik (Gambar 1) [10]. Model 
+ini akan menyederhanakan penjadwalan pemesanan barang dengan interval waktu yang tetap pada 
+akhir periode. 
+ 
+Kebijakan pemesanan akan dilakukan pada setiap 
+akhir periode dengan memonitor selisih target 
+invetori level dari persediaan yang dimiliki periode 
+itu. Permintaan merupakan variabel acak, sehingga 
+total permintaan pada setiap periode akan berbedabeda. 
+ 
+ 
+
+Simpulan 
+
+ 
+Pada kasus order crossover, model variable review 
+period menghasilkan total biaya inventori yang lebih 
+minimum dibandingkan model classical periodic 
+review hanya pada variasi leadtime yang pendek. 
+Usulan pengembangan model variable review period 
+memberikan hasil yang paling minimum dibandingkan dua model di atas. 
+ 
+Model variable review period dengan dynamic programming menghasilkan total biaya inventori yang 
+lebih minimum pada semua range leadtime yang 
+dibandingkan model variable review period. Besarnya penghematan rata-rata total biaya inventori 
+antara 11-42%.  
+ 
+Semakin besar biaya simpan maka model variable 
+review period semakin memberikan performa yang 
+baik dari segi biaya inventori dibandingkan classical 
+periodic review. Sementara itu, semakin besar biaya 
+simpan maka persentase penghematan biaya inventori antara model variable review period dengan 
+model variable review period dengan dynamic 
+programming semakin kecil. Secara umum, model 
+variable review period dengan dynamic programing 
+
+
+
+menghasilkan total biaya inventori yang paling 
+minimum hingga perubahan biaya simpan sebesar 
+100. 
+ 
+Model variable review period dengan dynamic programming tetap menghasilkan keputusan dengan 
+total biaya inventori untuk kenaikan biaya pesan 
+hingga 100 kali lipat. Pengaruh kenaikan biaya 
+pesan sendiri tidak berpengaruh secara signifikan 
+terhadap perubahan persentase penghematan biaya 
+inventori biaya inventori antara model variable 
+review period dengan model variable review period 
+dengan dynamic programming. Perubahan biaya 
+pesan hingga 100 kali lipat  menghasilkan kisaran 
+persentase penghematan biaya antara 33-34%. 
+ 
+Usulan model review period dengan synamic programming pada kasus order crossover ini dapat dikembangkan lebih lanjut untuk permasalahn perishable product. 
+ 
+

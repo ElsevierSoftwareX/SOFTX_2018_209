@@ -1,0 +1,604 @@
+﻿PENGARUH MATERIAL RUANG PADA KENYAMANAN TERMAL RUANG MEMBATIK
+YANG MENGGUNAKAN SKYLIGHT
+STUDI KASUS: RUMAH BATIK KATURA, PLERED, CIREBON
+
+ABSTRAK
+Masalah dalam menggunakan day lighting skylight untuk ruang membatik ialah
+ketidaknyamanan termal yang dapat mengganggu kenyamanan kerja pembatik. Skylight
+dalam penelitian pendahulu dinyatakan efektif untuk pencahayaan alami bidang kerja
+pembatik. Hal ini perlu dibuktikan untuk masalah kenyamanan termal. Pertanyaan dalam
+penelitian ini adalah bagaimana menyelesaikan ketidaknyamanan termal di ruang membatik
+yang disebabkan menggunakan skylight untuk pencahayaan alami. Metode penelitian
+menggunakan fenomenologi dan simulasi program Ecotect. Analisis terhadap kondisi
+eksisting menunjukkan ketidaknyamanan termal karena temperatur ruang 32,79 oC -
+35,01oC terlalu panas dari 27,1o C berdasarkan SNI 03-6572-2001. Analisis terhadap
+alternatif 1 menunjukkan penurunan temperatur 2,08oC menjadi 30,01o C pada bulan Juni
+yang mewakili kondisi termal tahunan tetapi masih di bawah standar walaupun sdh
+menggunakan material yang rendah U-valuenya. Analisis lanjutan dengan perubahan
+material properties, menunjukkan penurunan 4,27o C dari eksisting menjadi 28,52oC.
+Meskipun nilai tersebut belum mencapai 27,1o C dalam SNI tetapi kenyamanan termal dapat
+dicapai dengan pergerakkan udara (kipas mekanik) yang dapat membuat orang merasakan
+temperatur turun sebesar 2o C.
+Kata kunci: kenyamanan termal, temperatur, material properties.
+
+PENDAHULUAN
+Batik Trusmi ada sejak abad ke-14
+di Cirebon, berawal ketika Ki gede Trusmi
+seorang pengikut Sultan keraton
+mengajarkan seni membatik sambil
+mengembangkan desa (Wikipedia, 2015).
+Saat ini, Desa Trusmi berkembang
+menjadi permukiman para pembatik dan
+pedagang batik dan desa wisata batik.
+Sebagian besar penduduk Desa Trusmi
+menjadikan tempat tinggalnya sebagai
+tempat produksi dan promosi batik. Ciri
+khas Kota Cirebon yakni kota pesisir
+pantai dengan temperatur yang cukup
+panas (temperatur tertinggi 35-37oC, pukul
+12.00 wib) menjadi tantangan tersendiri
+untuk penelitian ini.
+
+Dalam penelitian ini, tempat yang
+menjadi studi kasus ialah di Rumah Batik
+Katura. Tempat studi pernah mendapat
+penghargaan karena konsistensi
+memproduksi Batik Trusmi dan sangat
+terbuka untuk penelitian batik.
+Penelitian tahap pertama tentang
+skylight sebagai strategi pencahayaan
+alami untuk meningkatkan Performansi
+Bidang Kerja Ruang Membatik,
+menunjukkan bahwa pencahayaan alami
+melalui skylight dengan penyinaran
+langsung (direct day lighting) dapat
+meningkatkan performansi bidang kerja
+membatik tulis dengan efektif. Namun
+pemanfaatan cahaya alami ke dalam
+ruang umumnya disertai dengan radiasi
+matahari yang menimbulkan
+ketidaknyamanan panas (termal) dalam
+ruang.
+
+Menurut Boutet (1987),
+ketidaknyamanan termal dapat diatasi
+dengan menyeimbangkan beberapa
+faktor, yakni aktivitas, temperatur dinding,
+kelembaban relatif, temperatur udara,
+kecepatan udara dan pakaian yang
+dikenakan.
+Skylight sebagai strategi
+pencahayaan alami dalam penelitian
+pendahulu yang dinyatakan efektif untuk
+performansi bidang kerja pembatik, perlu
+dibuktikan tidak menyebabkan
+ketidaknyamanan termal. Dalam SNI 03-
+6572-2001 tentang tata cara perancangan
+sistem ventilasi dan pengkondisian udara
+pada bangunan gedung, disebutkan
+bahwa untuk daerah tropis temperatur
+efektif paling tinggi ialah 27,1oC. Untuk
+mengembangkan hasil penelitian tersebut
+perlu diketahui peran faktor kenyamanan
+termal untuk mendukung lingkungan
+pencahayaan ruang membatik.
+Dari hasil survey lapangan dan
+wawancara dengan beberapa pemilik
+rumah batik di Cirebon, mereka
+menggunakan skylight dengan dasar
+akses pencahayaan alami yang efektif
+dan hemat energi. Namun salah satu
+dampak dari penggunaan skylight
+menyebabkan radisi panas masuk melalui
+atap transparan sehingga panas yang
+lebih terasa dan menimbulkan
+ketidaknyamanan pada waktu kerja
+tertentu.
+Penelitian ini bertujuan untuk
+meningkatkan kenyamanan dan menjaga
+performansi pencahayaan. Dari penelitian
+sebelumnya, tipe skylight dengan akses pencahayaan langsung (direct daylighting)
+lebih baik dalam meningkatkan
+performansi bidang kerja pembatik. Tipe
+skylight dengan direct daylighting
+memberikan intensitas pencahayaan yang
+sangat baik 400-600 lux dan memberikan
+skala intensitas pencahayaan 3:2 yang
+cukup baik untuk fokus pada bidang kerja
+pekerjaan membatik.
+Selain itu penelitian ini sejalan
+dengan Master Plan Percepatan dan
+Perluasan Pembangunan Ekonomi
+Indonesia (MP3EI) tahun 2011-2025 untuk
+sektor pariwisata dan infrastruktur dalam
+bidang produksi dan distribusi energi.
+
+METODE
+Metode Penelitian yang digunakan
+ialah kombinasi dari pengamatan
+langsung /fenomenologi (Fellows & Liu,
+1997) dan simulasi dengan program
+ecotect.
+Pendekatan penelitian
+menggunakan pendekatan desain
+deskriptif. Desain deskriptif ruang dari
+hasil simulasi termal untuk memberi
+gambaran yang jelas gradasi termal pada
+setiap bagian ruang. Deskripsi ini
+menggunakan setting perubahan warna
+yang mengacu pada standar SNI 03-
+6572-2001. Warna yang mengarah terang
+menunjukkan temperatur yang lebih tinggi
+sedangkan warna mengarah gelap
+menunjukkan temperatur yang lebih
+rendah.
+
+
+ Dengan program simulasi ecotect,
+fenomena kenyamanan termal ini ditinjau
+dengan mengganti material atap, dinding,
+plafon dan skylight ruang membatik
+(material properties) dengan 2 (dua)
+alternatif. Perubahan material properties
+meningkatkan U-Value (watt/m2K), nilai
+konduktivitas pembatas ruang (atap,
+dinding, plafon dan skylight). Alternatif
+tersebut akan berpengaruh terhadap
+temperatur/temperatur pancaran (mean
+radiant temperature) di dalam ruang
+tempat pembatik bekerja. Setting variabel
+yang tetap yakni kelembaban relatif 60%,
+insulasi pakaian 1, dan metabolisme
+panas tubuh dalam keadaan bekerja diam
+di tempat (sedentary-70 watt).
+Data yang dimasukkan untuk dapat
+melakukan simulasi meliputi model tiga
+dimensi ruang, kondisi langit, waktu
+peninjauan (tanggal, bulan dan jam), data
+iklim lokasi (Wafi, 2011:2), orientasi
+bangunan, titik referensi atau grid
+referensi sebagai posisi titik ukur dan
+setting view sebagai titik acuan dalam
+menampilkan hasil penelitian.
+Untuk mengukur termal bidang
+analisis diletakkan melewati sisi bagian
+Barat-Timur dan terletak 100 cm dari
+bidang dinding bagian Utara karena dinding bagian Utara paling lama
+menerima paparan panas matahari untuk
+lokasi bangunan di Kota Cirebon.
+Pengukuran awal dilakukan pada bulan
+Maret 2014 ketika waktu matahari berada
+di ekuator sebagai titik terpanas. Waktu
+pengukuran ditentukan pada pukul 12.00-
+13.00 siang hari, saat waktu paparan
+terpanas radiasi matahari.
+
+Gambar 4. Letak Bidang Analisis Pengukuran
+(Sumber: Analisis Ecotect, 2015)
+
+Ukuran ruang simulsi sama dengan
+ruang eksisting yakni panjang 3 meter dan
+lebar 3 meter (3 x 3 = 9 m2) dan tinggi
+ruang 3 meter serta kedudukan skylight
+50 cm di atas plafon. Setting bukaan
+ventilasi besarnya 22,4 x 0,6 m dengan
+tinggi 2 m dari lantai, berada di dinding
+Bagian Utara dan Selatan yang
+berorientasi kepada angin laut/angin
+darat. Temperatur yang diukur adalah
+temperatur tempat pembatik duduk
+bekerja yaitu sekitar 65 cm dari lantai
+sesuai dengan bidang kerja pencahayaan.
+Dalam penelitian digunakan 3 (tiga)
+tahap alternatif bahan bangunan (material
+properties), yakni tahap 1 mengukur
+termal dengan bahan bangunan eksisting,
+tahap 2 mengganti material atap dan
+dinding dan memiliki termal konduktifitas
+(U value) yang mampu menahan panas
+dengan baik dan tahap 3 melakukan
+inovasi kombinasi lapisan material untuk
+mencapai penurunan termal yang
+maksimal.
+Standar kenyamanan termal
+(temperatur) di SNI 03-6572-2001
+menyatakan untuk daerah tropis seperti di
+Indonesia berkisar 20,5o C sampai dengan
+27,1o C. Dengan demikian hasil penelitian
+yang diharapkan mempunyai nilai sekitar
+27,1o C. Mengingat temperatur udara kota
+Cirebon yang panas dengan temperatur
+sekitar 30o C, pencapaian kenyamanan
+termal ruang dibantu dengan
+pengudaraan mekanis.
+
+KAJIAN TEORI
+Boutet (1987) menjelaskan bahwa
+defenisi kenyamanan termal bertolak dari
+pemahaman aspek psikologis,
+kenyamanan termal bisa diartikan sebagai
+kondisi dimana pikiran merasa puas dan
+nyaman terhadap lingkungan termal.
+Secara fisiologis, kenyamanan termal
+adalah keseimbangan termal yang dicapai
+dari pertukaran panas antara tubuh
+manusia dengan lingkungan termal pada
+tingkatan yang sesuai. Sebuah kondisi
+dimana tubuh manusia melakukan
+aktivitas mekanisme termo regulatori
+secara minimal. Kenyamanan termal
+sebenarnya bukanlah sesuatu yang
+bersifat standar, kenyamanan berfluktuasi
+sesuai dengan perubahan faktor-faktor
+penyebabnya.
+Aspek fisik dari kenyamanan termal
+bergantung pada enam faktor utama yang
+berfungsi sebagai sebuah sistem yang
+saling berkaitan dipengaruhi oleh faktor
+psikologis.
+
+1. Temperatur Udara Sekitar (ambient air
+temperature)
+Temperatur udara sekitar lokasi titik
+pengukuran di sebuah
+lingkungan/ruang. Sebagai komponen
+yang paling mendasar dalam
+pengukuran kenyamanan. Setting
+dalam penelitian ini disesuaikan data
+iklim kota Cirebon.
+2. Temperatur Pancaran Rata-rata (mean
+radiant temperature)
+Rata-rata temperatur pancaran,
+memberi pengaruh pada temperatur
+udara sekitar, dihasilkan dari
+temperatur permukaan benda yang ada
+di dalam ruang, bervariasi untuk tiap
+ruang dan waktu pengukuran. Untuk
+beberapa kondisi, mungkin lebih tinggi
+atau lebih rendah dari temperaturudara
+sekitar, namun biasanya berperan
+kecil.
+3. Kelembaban relatif (relative humidity)
+Kelembaban relatif memiliki efek yang
+lebih langsung terhadap kenyamanan
+dibanding rata-rata temperatur
+pancaran. Meskipun kelembaban tidak
+menahan beban panas tubuh, ia
+mempengaruhi kapasitas tubuh untuk
+melepaskan panas melalui evaporasi
+(berkeringat).
+4. Pergerakan Udara (air movement)
+Pergerakan udara menghilangkan
+panas buangan dengan meningkatkan
+kecepatan aliran udara secara
+konveksi dan evaporasi. Kecepatan
+pendinginan akan meningkat seiring
+dengan meningkatnya kecepatan
+udara. Saat temperatur udara sekitar
+lebih rendah dari temperatur tubuh,
+peningkatan kecepatan udara akan
+menghasilkan efek pendinginan seiring
+dengan penurunan temperatur udara.
+Saat temperatur udara sekitar lebih
+tinggi dari temperatur tubuh,
+peningkatan kecepatan udara akan
+menghangatkan dan mendinginkan
+tubuh pada waktu yang bersamaan.
+Namun efek pendinginan tetap lebih
+besar dari pemanasan sampai
+temperatur udara mencapai kira-kira 40
+oC, dimana efek pemanasan akan lebih
+besar.
+5. Insulasi Pakaian (clothing
+insulation)
+Pakaian mempengaruhi sensitivitas
+tubuh terhadap variasi iklim karena ia
+bersifat menahan evaporasi dan
+sebagai penghalang aliran panas, ia
+juga mengurangi pengaruh dari
+temperatur udara sekitar dan rata-rata
+temperatur pancaran yang lebih rendah
+dari temperatur tubuh. Setting clothing
+dalam penelitian ialah 1 yakni pembatik
+menggunakan baju lengan panjang
+dan rok sampai mata kaki.
+6. Panas Metabolik Rata-rata (metabolic
+heat rate)
+Merupakan komponen kunci untuk
+kenyamanan, kehilangan panas (heat
+loss) yang terlalu besar akan
+menyebabkan kebekuan hingga
+kematian, perolehn panas (heat gain)
+yang terlalu besar akan menyebabkan
+stroke hingga kematian. Kecepatan
+panas metabolis proporsional
+terhadap berat badan, akan meningkat
+dengan adanya aktivitas fisik. Tubuh
+memerlukan pendinginan lebih banyak
+seiring dengan peningkatan kecepatan
+metabolis dan lebih sedikit pendinginan
+seiring dengan penurunan kecepatan
+tersebut. Untuk setting metabolic heat
+rate adalah 70 W dengan pembatik
+yang bekerja dengan duduk diam di
+tempat.
+Di tempat studi kasus, pembatik
+masih merasa nyaman bekerja pada
+temperatur 29,2o C. Saat semakin siang, mereka menyalakan pengudaraan
+mekanis pada temperatur lebih dari 30oC
+untuk mengurangi panas dan keringat.
+
+HASIL PENELITIAN dan PEMBAHASAN
+Hasil Analisis Kenyamanan Termal
+Kondisi Eksisting
+
+Analisis pertama pengukuran termal
+menggunakan material eksisting. Kondisi
+eksisting menggunakan bahan bangunan
+sebagai berikut: atap rangka kayu dengan
+penutup genting keramik yang
+diasumsikan menggunakan pelapis
+alumunium foil sebagai penahan panas.
+Plafon dari bahan kayu tripleks dan
+kerangka kayu. Skylight berbahan genting
+kaca biasa. Dinding berbahan pasangan
+batu bata diplester. Gambaran material
+dapat dilihat di Gambar 6, 3D material
+eksisting. Tabel 1 di bawah ini
+menunjukkan nilai U-value material
+eksisting.
+
+Gambar 7 menunjukkan kondisi termal
+material eksisting pada tanggal 15 Bulan
+Maret jam 13.00, waktu saat temperatur
+terpanas dalam periode tahunan Kota
+Cirebon. Warna abu-abu menyatakan
+kondisi temperatur di atas 35 oC dan
+warna abu-abu muda menyatakan
+temperatur di atas 37,5 oC. Temperatur
+pancaran ruang yang dilihat ialah berada
+di bidang kerja yang letaknnya 65 cm dari
+lantai nilainya 35,01oC.
+
+Temperatur tersebut di atas dirasakan
+sangat panas dan sangat jauh dari
+kenyamanan. Sedangkan temperatur
+pancaran rata-rata tahunan menunjukkan
+angka 32,79 oC seperti ditunjukkan di
+gambar 8 yang diwakili oleh bulan Juni.
+Nilai tersebut masih jauh dari ambang
+batas kenyamanan 27,1 oC menurut SNI
+03-6572-2001.
+
+Grafik di bawah ini adalah grafik fluktuasi
+temperatur harian di dalam ruang pada
+bulan Juni. Dari grafik tersebut (Gambar
+9) menunjukkan perubahan temperatur
+harian pada kondisi umum termal.
+Temperatur terendah 24oC terjadi pada
+pukul 06.00 pagi dan temperatur tertinggi
+33 oC pada pukul 13.00. Temperatur
+tersebut masih sangat panas dari standar
+ideal kenyamanan termal 27,1 oC,
+terutama pada pukul 10.00 pagi sampai
+dengan 18.00 sore, sehingga perlu
+dilakukan penggantian material yang
+memiliki nilai konduktifitas lebih rendah.
+
+Hasil Analisis Kenyamanan Termal
+Alternatif 1 (perubahan material
+properties 1)
+
+Untuk mencapai tujuan penurunan
+temperatur yang zona overheated
+(overheated period), perubahan tahap
+pertama mengganti material properties
+bahan bangunan penutup yang yang
+memiliki nilai U-value yang lebih rendah,
+seperti yang terlihat di gambar 10.
+
+Penutup atap diganti dengan material
+beton 15 cm yang bagian atasnya dilapisi
+dengan aspalt. Penggantian material
+penutup atap karena faktor panas dari
+arah atas (pukul 12.00) sangat
+berpengaruh kepada temperatur ruang.
+Berikut ini adalah tabel U-value yang
+digunakan pada material pengganti tahap
+1.
+
+Dari penggantian tersebut hasil analisis
+ecotect dapat dilihat di gambar 11 dan
+gambar 12. Gambar 11 menunjukkan
+penurunan temperatur terpanas yang
+terjadi bulan Maret dari 35,01o C menjadi
+32,71o C atau turun sebesar 2,3 o C.
+Material berbahan dasar beton memiliki
+nilai insulasi yang baik untuk menahan
+panas, apalagi ditambah dengan lapisan
+aspalt.
+
+Bulan Juni mewakili kondisi rata-rata
+termal per tahun. Gambar 12
+menunjukkan hasil analisis pada bulan
+Juni. Penurunan temperatur pancaran
+rata-rata dari 32,79o C menjadi 30,71o C
+atau turun sebesar 2,08o C. Nilai tersebut
+cukup siknifikan mengalami penurunan
+dengan perubahan jenis penutup atap
+yang berbeda.
+Perubahan temperatur ditunjukkan
+dengan perubahan warna gambar pada
+titik pengukuran. Warna abu-abu tua
+temperatur di atas 32,5o C sedangkan
+warna hitam tua menunjukkan angka
+temperatur di atas 30o C. Walaupun
+warnanya sama hitam tua namun nilainya
+berbeda.
+
+Gambar 12. Analisis Termal dengan Ecotect
+dari Material Alternatif 1
+bulan Juni (Sumber: Analisis
+Ecotect, 2015)
+
+Tabel berikut menunjukkan sebaran
+temperatur yang terdistribusi dalam waktu
+(jam) dan presentase. Distribusi
+temperatur harian yang memberikan
+informasi bahwa temperatur 30o C ke atas
+masih besar pengaruhnya lebih dari 50%.
+
+Gambar 13 menyatakan distribusi waktu
+(jumlah jam) keadaan temperatur
+pancaran ruang pada jam kerja pembatik
+dari pukul 07.00 sampai 18.00 dalam satu
+tahun. Waktu produktif sebagian besar
+terpapar temperatur 30 oC, terutama pada
+pukul 09.00 – 17.00 sejumlah 49%.
+Temperatur 28 oC, yang mana temperatur
+mendekati nyaman nilainya 31,2%. Waktu
+yang dinyatakan masuk kategori
+kenyamanan termal hanya 16,9%.
+Kesimpulan dari alternatif 1 ialah terjadi
+penurunan temperatur sebesar 2 oC pada
+jam kerja pembatik.
+
+Hasil Analisis Kenyamanan Termal
+Alternatif 2 (perubahan Material
+properties 2)
+
+
+Oleh karena pencapaian temperatur yang
+nyaman versi SNI dengan penggantian
+penutup atap belum berhasil, maka tahap
+berikutnya melakukan perubahan material
+dan dimensi dari penutup ruang yakni
+dinding, atap dan kaca penutup skylight.
+Gambar 14. Contoh rockwool dan kaca low E
+(Sumber: Google Images, 2015)
+Berikut ini adalah tabel U-value yang
+digunakan pada material pengganti tahap
+2.
+
+Hasil analisis ecotect terhadap material
+pengganti alternatif 2 ditunjukkan di
+gambar 16 dan 17.
+
+
+Gambar 17. Analisis Termal dengan Ecotect dari
+Material alternatif 2 bulan Juni.
+(Sumber: Analisis Ecotect, 2015)
+
+
+Gambar 16 menunjukkan hasil bahwa
+temperatur terpanas dari alternatif
+material 2 mengalami perubahan dari
+kondisi eksisting 35,01oC menjadi 30,46
+oC atau turun sebesar 4,55 oC pada
+temperatur terpanas. Sedangkan pada
+kondisi umum yang diwakilkan analisis
+bulan Juni (Gambar 17), perubahan
+temperatur dari 32,79 oC menjadi 28,52 oC
+atau turun sebesar 4,27 oC. Penurunan ini
+sangat signifikan. Pengaruh pelapisan
+rockwool dan pengganti kaca menjadi
+double glass low E di atap memberikan
+kontribusi penurunan hampir 1,5oC.
+Sedangkan pengaruh penebalan dimensi
+dinding pasangan bata mempengaruhi
+penurunan temperatur sekitar 1 oC.
+
+
+Gambar 18. Grafik perubahan temperatur harian
+kondisi alternatif 2.
+(Sumber: Analisis Ecotect, 2015)
+
+
+Gambar di atas menunjukkan perubahan
+temperatur harian dari alternatif 2 yang
+mencapai temperatur terpanas pada pukul
+13.00 sekitar 28,5 oC. Temperatur ratarata
+yang terjadi pada waktu produktif
+pukul 07.00 sampai dengan 18.00 ialah
+mencapai 27 oC, yaitu masuk nilai batas
+kenyamanan termal menurut SNI.
+
+Tabel 5 menunjukkan distribusi
+temperatur pancaran pada waktu produktif
+pukul 07.00 – 18.00 dalam periode 1 tahun. Hasilnya temperatur yang
+memenuhi persyaratan kenyamanan
+termal memenuhi sebesar 68% (47,8 +
+20,1 + 0,1) dari waktu produktif.
+Sedangkan sisanya sebesar 30,4% masih
+pada ambang batas kenyamanan dan
+hanya sedikit waktu yaitu 1,6% yang tidak
+memenuhi standar kenyamanan.
+
+
+Gambar 19. Tabel distribusi temperatur
+pancaran dalam 1 tahun alternatif 2.
+(Sumber: Analisis Ecotect, 2015)
+
+Dari gambar 19 dapat dilihat bahwa
+temperatur dominan pada alternatif 2 ialah
+26o C (nyaman). Sebagian besar
+temperatur masuk di bawah 30o C, yang
+masih dalam batas toleransi untuk kerja
+sedang seperti dalam gambar 20.
+
+
+Gambar 20. Daerah Nyaman (Comfort Zone)
+(Sumber: Frick, 2008:48)	
+
+
+Untuk mengatasi masalah
+ketidaknyamanan termal pada jumlah
+waktu yang 32% (30,4% + 1,6%),
+penyelesainnya dengan menambahkan
+pengudaraan mekanik (kipas angin).
+Pemilihan pengudaraan mekanik (kipas
+angin) karena: pertama, ruang membatik
+sangat tidak efisien menggunakan AC (air
+conditioning) karena terdapat tungku
+penghangat lilin batik yang selalu aktif
+selama proses membatik. Kedua, menurut
+gambar 20 tentang comfort zone,
+pencapaian kenyamanan termal bisa
+dicapai juga dengan memberikan
+pergerakkan angin dengan kecepatan
+tertentu yang dapat menurunkan
+temperatur sampai 2o C. Jadi pada waktu
+temperatur terasa tidak nyaman di siang
+hari dapat ditambahkan pemakaian
+pengudaraan mekanik (kipas angin)
+dengan kecepatan 0,3 - 0,5 m/s, terutama
+pukul 11.00 sampai dengan pukul 14.00.
+dengan demikian tercapai tujuan
+penelitian ini untuk memperoleh ruang
+membatik yang nyaman dari segi termal di
+daerah Trusmi-Cirebon, Jawa Barat.
+
+
+PENUTUP
+Kesimpulan
+
+Penggantian penutup atap
+menggunakan bahan dengan konduktan
+rendah menunjukkan penurunan
+temperatur yang signifikan sebesar 2 oC
+yaitu mengganti atap genting keramik
+menjadi penutup atap beton tebal 15 cm
+dengan lapisan aspal di atasnya.
+Sedangkan penambahan ketebalan
+material dinding 25 cm dengan plester,
+penambahan material insulasi panas
+rockwool dibawah atap serta penggantian
+kaca skylight menjadi double glass low E,
+menurunkan temperatur sebesar 4 oC.
+Dengan dibarengi pengudaraan
+mekanik (kipas angin) kecepatan 0,3 - 0,5
+m/s, rasa termal pada pukul 11.00 s/d
+pukul 14.00 dapat dikurangi sekitar 2o C.
+Jadi dengan demikian pembatik berada
+pada zona nyaman (comfort zone).
+

@@ -1,0 +1,72 @@
+﻿Rencana sampling penerimaan dalam keterandalan sistem atau Reliability
+Acceptance Sampling Plans (RASP) adalah suatu prosedur pengujian hidup
+dengan aturan menerima atau menolak lot berdasarkan data masa hidup. Data
+masa hidup dapat berbentuk data tidak tersensor dan tersensor. Secara umum, data
+tersensor terdiri dari data tersensor tipe I dan tipe II. Pada Penelitian ini digunakan
+data tidak tersensor yang mengikuti distribusi Weibull. Pengujian masa hidup saat
+diberikan faktor percepatan (AF diketahui) akan mempercepat kegagalan suatu
+sistem atau item daripada saat kondisi normal. Dalam pengujian masa hidup
+diperlukan ukuran sampel (n) dan angka penerimaan (k), sehingga disimpulkan
+terima atau tolak lot. Penentuan n dan k melibatkan rata-rata masa hidup (
+dan nilai risiko produsen ( ) serta risiko konsumen ( ) tertentu.
+Hasil simulasi menunjukkan bahwa n dan k yang ideal dengan nilai dan yang
+ditentukan yaitu 20 dan 15,122. Setelah dilakukan pengujian untuk n dan k,
+disimpulkan bahwa lot ditolak.
+Kata kunci: Rencana sampling penerimaan dalam keterandalan sistem, data tidak
+tersensor, Af (faktor percepatan), risiko produsen, risiko konsumen.
+
+I. PENDAHULUAN
+1.1 Latar Belakang
+Masa hidup suatu sistem merupakan interval waktu dari suatu sistem saat mulai
+masuk ke dalam penelitian sampai mengalami kegagalan atau mati. Unit yang
+digunakan dalam hal ini adalah komponen suatu sistem. Sistem adalah suatu
+kesatuan yang terdiri dari komponen atau elemen yang saling berhubungan untuk
+mencapai suatu fungsi tujuan kinerjanya. Misalkan T adalah suatu peubah acak
+masa hidup sistem yang akan membentuk suatu distribusi peluang. Salah satu
+distribusi peluang yang dapat digunakan adalah distribusi Weibull. Distribusi
+Weibull banyak digunakan dalam pengujian masa hidup dan teori reliabilitas
+dengan kelebihan yang utama yaitu menyajikan keakuratan kegagalan pada suatu
+sampel.
+Pengujian masa hidup sistem merupakan kajian daya tahan hidup atau keandalan
+suatu sistem pada keadaan tertentu. Analisis yang digunakan untuk melihat
+keandalan masa hidup sistem yaitu analisis keterandalan sistem. Keterandalan
+sistem atau reliabilitas adalah peluang tidak terjadinya kegagalan atau kerusakan
+pada suatu produk atau sistem dalam melakukan fungsinya dengan baik selama
+periode operasi yang telah ditentukan. Sehingga dapat juga diketahui fungsi
+reliabilitas, fungsi hazard dan MTTF (Mean Time to- Failure).
+
+Data masa hidup diperoleh dari pengujian masa hidup sistem yang dapat berupa
+data tidak tersensor dan tersensor. Berbentuk data tersensor jika ketepatan
+informasi mengenai waktu tahan hidupnya tidak diketahui secara pasti, sehingga
+pengamatannya perlu dibatasi oleh waktu atau sebab lainnya. Secara umum, data
+tersensor terdiri dari data tersensor tipe I dan tersensor tipe II. Sedangkan data
+tidak tersensor artinya datanya lengkap (full data), yaitu jika semua objek
+penelitian diuji sampai semuanya mengalami kegagalan. Kelebihan dari full data
+yaitu dapat diketahui dan diurutkan waktu kegagalan dari masing-masing objek
+penelitiannya (Lawless, 1982).
+Pengukuran karakteristik daya tahan hidup suatu sistem biasanya dilakukan
+dengan mengoperasikan sistem dibawah kondisi normal. Seperti halnya dalam
+kehidupan sehari – hari, kemungkinan suatu sistem diberikan faktor percepatan
+secara tidak langsung sangat besar. Faktor percepatan (AF) dapat dilakukan
+dengan cara memberikan percepatan pada tingkat penggunaan seperti
+mengoperasikannya secara terus menerus, menaikkan tegangan dan lain-lainnya.
+Hal tersebut memaksa sistem supaya gagal lebih cepat dibandingkan saat
+kondisinya normal.
+Umumnya dalam pengujian masa hidup sistem tidak mungkin dilakukan pada
+semua komponen sistem sehingga diperlukan suatu sampel yang ideal untuk dapat
+mengetahui rata-rata masa hidup komponen suatu sistem. Penentuan ukuran
+sampel yang ideal dapat diketahui menggunakan prinsip rencana sampling dalam
+keterandalan sistem (Reliability Acceptance Sampling Plans). RASPs merupakan
+suatu prosedur pengujian hidup dengan aturan menerima atau menolak
+berdasarkan data masa hidup. Prinsip kerja RASPs mengikuti prinsip Acceptance
+Sampling Plans (ASP), yaitu sampel dikemas dalam suatu lot kemudian dilakukan
+pemeriksaan mutu sampel tersebut secara sampling dari lot, selanjutnya diambil
+keputusan apakah sampel dalam lot diterima atau ditolak. Selain itu, diperlukan
+juga suatu angka penerimaan (k) untuk menerima atau menolak suatu lot.
+Penentuan ukuran sampel (n) dan angka penerimaan (k) menggunakan prinsip
+RASPs dengan mempertimbangkan nilai dari risiko konsumen (β), risiko
+produsen (α) dan rata-rata masa hidupnya . Dimana sebelumnya nilai dari
+risiko konsumen, risiko prosuden dan rata-rata masa hidup sistemnya ditentukan
+sesuai kesepakatan antara produsen dan konsumen.
+1.2 Rumusan Masalah
+Berdasarkan

@@ -1,0 +1,428 @@
+﻿Studi Eksperimental Perilaku Sambungan Balok-Kolom Eksterior Beton Bubuk Reaktif Terhadap Beban Lateral Siklis
+
+Abstrak
+
+Beton bubuk reaktif adalah jenis beton baru yang memiliki kuat tekan ultra tinggi.
+
+Komponen penyusunnya adalah powder sangat halus yang memiliki kandungan silika tinggi.
+
+Hal ini bertujuan untuk menyempurnakan reaksi yang terjadi pada beton dan meningkatkan homogenitas beton.
+
+Beton bubuk reaktif terdiri dari: semen, silica fume, pasir kuarsa dengan diameter maksimum 600 µm, superplasticizer dan serat polypropylene.
+
+Penelitian ini bertujuan mempelajari perilaku sambungan balok-kolom eksterior dengan meneruskan dan atau menambahkan tulangan pada sambungan balok-kolom eksterior menggunakan beton bubuk reaktif dengan pembebanan lateral siklis.
+
+Penelitian terdiri atas tiga buah benda uji dengan kuat tekan beton bubuk reaktif 135 MPa.
+
+Benda uji pertama (BU-1) berupa sambungan balok-kolom konvensional, benda uji kedua (BU-2) sambungan balok-kolom eksterior dengan meneruskan tulangan balok menembus kolom dan menambahkan pelat seukuran penampang balok pada sisi kolom dengan las, sedangkan benda uji ketiga (BU-3) sambungan balok-kolom eksterior dengan menambahkan tulangan pada tulangan pokok balok di sambungan balok-kolom eksterior.
+
+Hasil penelitian eksperimental dengan sistem pembebanan lateral siklis benda uji-3 lebih baik dibandingkan dengan benda uji-2 dan benda uji-1 untuk pola retak, kurva histeretik, hubungan antara beban dan lendutan, disipasi energi, degradasi kekuatan, dan degradasi kekakuan pada setiap siklus pembebanan.
+
+Kata-kata Kunci: Sambungan balok-kolom eksterior, Beban siklik, Pola retak, Daktilitas, Disipasi energi.
+
+
+Pendahuluan
+
+Indonesia terletak di daerah yang rawan gempa.
+
+Besaran dan waktu terjadinya gempa tidak dapat diprediksi sebelumnya, maka struktur bangunan harus direncanakan dengan daktilitas yang memadai untuk mampu berdeformasi secara inelastis pada saat terjadi gempa kuat.
+
+Hierarki keruntuhan elemen struktur harus direncanakan sedemikian rupa sehingga dapat memberikan disipasi energi yang maksimal.
+
+Terobosan baru dalam bidang teknologi material beton adalah Reactive Powder Concrete (RPC).
+
+Pertama kali dikembangkan pada awal tahun 1990-an oleh para peneliti di Laboratorium Henningston, Durham dan Richardson (HDR) pada Perusahaan Bouygues S. A di Paris, Perancis.
+
+Selanjutnya Pierre Claude Aitcin, Direktur Sains Beton Canada di Universitas Sherbrooke, mengaplikasikan RPC pada struktur jembatan untuk pejalan kaki dan sepeda di Sherbrooke, Quebec, Canada.
+
+RPC mempunyai karakteristik berupa kuat tekan, daktilitas, dan durabilitas yang sangat tinggi.
+
+Properties yang telah dihasilkan di Laboratorium HDR Bouygues berupa kuat tekan yang mencapai 200 – 800 MPa (Richard, 1996), modulus elastisitas antara 50 dan 75 GPa, serta daktilitas dengan regangan ultimit sebesar 0,007.
+
+Energi fraktur RPC yang diperkuat dengan serat baja (steel fibers) dapat mencapai 40 kJ/m2 (Bonneau et. al, 1996).
+
+Shah (1996) mengklasifikasikan beton dengan kuat tekan diatas 200 MPa sebagai Ultra High Strength Concrete (UHSC), sehingga dengan kualifikasi yang telah dihasilkan di laboratorium HDR tersebut, RPC dapat digolongkan sebagai Ultra High Performance Concrete (UHPC).
+
+Sambungan balok-kolom (beam-column joint) pada struktur bangunan merupakan bagian yang kritis dari bangunan.
+
+Sambungan balok-kolom tersebut memiliki keterbatasan kapasitas dalam menerima beban.
+
+Ketika beban yang bekerja pada saat gempa melebihi kapasitas sambungan akan membuat bagian tersebut menjadi rusak.
+
+Perbaikan sambungan yang rusak menjadi sukar untuk dilaksanakan, dan tentunya hal ini harus dicegah, sehingga sambungan balok-kolom harus didisain tahan terhadap gaya gempa.
+
+2.Perkembangan Beton dan Riset RPC 
+
+Perkembangan beton sebagai bahan struktural terus berkembang dengan semakin banyaknya kebutuhan konstruksi.
+
+Tahun 1950-an beton sebagai pemikul beban struktural sudah mencapai kekuatan 35 MPa.
+
+Penelitian tentang kekuatan beton ini terus berkembang.
+
+Pada tahun 1960-an di Amerika sudah diproduksi secara massal beton dengan kekuatan antara 41-52 MPa.
+
+Hal ini terus berlanjut sampai pada awal tahun 1970-an sudah dapat diproduksi beton dengan kuat tekan 62 MPa.
+
+Pada akhir tahun 1980-an kuat tekan yang dapat dibuat mencapai 138 MPa dan pada akhir abad yang lalu kuat tekan 172-207 MPa sudah dapat diproduksi secara massal dengan sistem precast.
+
+Berdasarkan kekuatan beton, beton dikelompokkan sebagai berikut : 
+
+a. Beton normal, kuat tekan yang dicapai kurang dari 45 MPa.
+
+b. Beton mutu tinggi (High Strength Concrete/ HSC) yang memiliki kuat tekan 45-90 MPa.
+
+c. Beton mutu sangat tinggi (Ultra High Strength Concrete/ UHSC) yang memiliki kuat tekan diatas 90 MPa.
+
+d. Reactive Powder Concrete (RPC), ini merupakan marga baru dalam kelompok beton yang sedikit berbeda dengan ketiga beton sebelumnya, kekuatan yang dimiliki antara 200-800 MPa.
+
+Richard and Cheyrezy, 1994 : Memberikan definisi tentang RPC.
+
+RPC dibagi 2 jenis yakni RPC 200 dan RPC 800.
+
+RPC 200 menggunakan material semen type V dengan agregat pasir kuarsa halus dengan ukuran 150 -300 mm, micro silica, steel fiber dengan panjang 12,5 mm dan diameter 180 mm dan komposisi secara rinci dapat dilihat pada Tabel 1.
+
+Pelaksanaan pencampuran dengan konvensional demikian juga untuk pemadatan digunakan vibrator, sedang curing yang dilakukan ada 2 yaitu curing biasa dan curing air panas antara suhu 80- 90o C.
+
+Sifat mekanik yang dihasilkan ditabelkan pada Tabel 2.
+
+RPC 200 dapat direkomendasikan untuk pemakaian beton prestress tanpa tulangan pasif.
+
+Sedangkan untuk pemakaian elemen struktur penerima tekan seperti kolom tidak perlu menggunakan prestressing dan sudah diuji untuk balok prestress dengan panjang 10 m tanpa tulangan.
+
+Sedang RPC 800 lebih diutamakan untuk elemen yang kecil dan sedang untuk skala prepabrikasi, yang secara material sama dengan RPC 200, hanya steel fiber diganti dengan stainless steel microfiber dengan panjang kurang dari 3 mm dan curing yang dilakukan dry-curing dengan suhu 250o C.
+
+Dengan adanya penambahan steel fiber akan meningkatkan energi fraktur hingga 40.000 J/m3 untuk beton normal.
+
+ Tabel 1.
+
+Komposisi campuran Material (kg/m3) RPC 200 RPC 800 Semen type V 955 1000 Pasir kuarsa halus (150 - 400 mm) 1051 500 Silika fume (18 m2/g) 229 230 Presipitated silica (35 m2/g) 10 - Ground Quartz (4 mm) - 390 Superplasticizer (polyacrylate) 13 18 Steel fibers 191 630 Total air 153 180
+Tabel 2.
+
+Kuat tekan silinder 170-230 MPa 490-680 MPa
+Kuat lentur 25-60 MPa 45-102 MPa
+Energi Fraktur 15.000-
+40.000 J/m2
+1.200-2.000
+J/m2
+Modulus Young’s 54-60 GPa GPa
+
+Reactive Powder Concrete adalah mortar yang terbuat dari material yang memiliki kehalusan tertentu yang diharapkan akan terjadi reaksi lanjutan antara bahan penyusunnya sehingga didapatkan kuat tekan yang lebih tinggi.
+
+Agregat yang dipergunakan memiliki ukuran butiran terbesar 300 μm dengan kuat tekan yang diperoleh berkisar 200-800 MPa.
+
+Kuat tekan yang diperoleh sangat bergantung pada komposisi campuran dan curing yang dilakukan.
+
+Ada beberapa prinsip yang menjadi dasar dikembangkannya RPC, yaitu: 
+
+a. Memperbaiki homogenitas campuran.
+
+Pada dasarnya beton merupakan material yang heterogen yang terdiri dari beberapa unsur penyusun yang berbeda jenis dan ukuran butiran agregat.
+
+Pada RPC homogenitas campuran diperbaiki dengan mengganti agregat kasar dan agregat halus dengan kuarsa yang ukuran butirannya lebih kecil dari 300 μm.
+
+b. Meningkatkan kerapatan kepadatan kering.
+
+Pengembangan kepadatan yang utama adalah pengurangan kadar air, tetapi kadar air menentukan kemudahan pengerjaan beton.
+
+Pada beton normal kepadatan dapat ditingkatkan dengan penambahan partikel pengisi seperti fly ash, silicafume dan penggunaan superplastizicer.
+
+Penggunaan partikel pengisi seperti silicafume yang optimal 25% dari berat semen.
+
+Cara lain untuk meningkatkan kepadatan kering adalah dengan memberikan tekanan pada beton segar selama waktu setting, dengan tujuan untuk meminimalkan gelembunggelembung udara, menghindari adanya air yang terjebak di dalam beton serta mengurangi terjadinya susut beton selama setting time.
+
+Dengan memberi tekanan ini akan meningkatkan kepadatan sebesar 5-6%.
+
+c. Memperbaiki mikro struktur.
+
+Reaksi Pozzolonic dari silicafume, yang akan menambah terbentuknya CSH, dapat diaktifkan oleh pengaturan suhu, maka untuk mendapatkan kuat tekan yang tinggi pada RPC digunakan curing dengan suhu tinggi.
+
+Pada RPC 200, curing yang digunakan adalah curing dengan suhu lebih dari 90o C selama 2 hari, yang akan meningkatkan pozzolonic sebesar 30%, sedang untuk RPC 800 digunakan suhu di atas 250o C.
+
+d. Meningkatkan daktilitas.
+
+Semakin tinggi kuat tekan beton, pada umumnya akan mengalami keruntuhan getas.
+
+Hal ini sangat tidak diinginkan, karena akan sangat berbahaya.
+
+Pada RPC, untuk mengimbangi kuat tekan yang ada dengan penambahan fiber steel.
+
+Penambahan fiber steel juga akan meningkatkan kuat lentur hingga 50-102 MPa dan energi fraktur antara 10.000-40.000 J/m2.
+
+Hal ini sangat tergantung pada curing yang dilakukan, sedang jumlah steel fibers yang ditambahkan pada campuran 2-6% dari jumlah volume beton.
+
+3.Sambungan Balok-Kolom 
+
+Perencanaan sambungan balok-kolom (beam-column joint) struktur beton bertulang pada daerah yang rawan gempa, menurut Park & Paulay (1975) harus didasarkan pada hal-hal sebagail berikut: 
+
+a.Kekuatan panel sambungan balok-kolom tidak boleh kurang dari gaya yang berpotensi menimbulkan sendi plastis pada balok.
+
+Hal ini dapat mengeliminasi keperluan perbaikan pada bagian yang sulit dijangkau serta dapat menjamin terjadinya disipasi energi oleh mekanisme sambungan, yang akan mengalami degradasi (penurunan) kekakuan akibat beban siklik inelastis.
+
+b. Kapasitas kekuatan kolom tidak boleh berkurang karena adanya degradasi kekuatan dari panel sambungan balok-kolom.
+
+Pada gempa kecil dan sedang, panel sambungan balok-kolom diharapkan masih dapat memberikan perilaku elastis.
+
+c. Ketahanan panel sambungan balok-kolom harus mampu untuk berdeformasi dan menyalurkan gaya geser dari rangka struktur.
+
+d. Penulangan sambungan yang diperlukan tidak menimbulkan kerumitan dalam pelaksanaan pembuatannya.
+
+Dalam riset ini yang ditinjau adalah sambungan eksterior dari bangunan gedung menggunakan perhitungan dan perencanaan berdasarkan SNI 03-1726- 2002 dan SNI 03-2847-2002.
+
+Untuk memahami perilaku sambungan pada saat bekerja gaya gempa, maka harus dipelajari mekanisme gaya-gaya yang bekerja pada sambungan eksterior.
+
+Adapun gaya-gaya dalam dari balok dan kolom yang bertemu pada panel sambungan balok-kolom tersebut akan menghasilkan gaya geser sambungan dan berbagai jenis tegangan, baik dalam arah horizontal maupun vertikal yang dapat mengakibatkan retak diagonal pada panel sambungan yang selanjutnya akan mengakibatkan keruntuhan karena dilampauinya kekuatan geser dan lekatannya.
+
+Untuk memperjelas mekanisme gaya-gaya yang bekerja pada sambungan eksterior balok-kolom dengan satu balok dapat dilihat pada Gambar 1 dengan menggunakan keseimbangan momen pada pusat sambungan yaitu di titik C, maka akan diperoleh hasilnya, yaitu : 
+
+____ =
+2._	 + ℎ_ ._	
+__ + __ ′
+
+
+
+Selanjutnya dari hubungan keseimbangan gaya-gaya yang bekerja pada inti sambungan (core joint), seperti pada Gambar 1, maka akan diperoleh gaya geser horizontal sebesar : 
+
+
+
+__ℎ = _ − ____
+
+
+Berdasarkan keseimbangan gaya-gaya, maka diperoleh gaya geser vertikal pada sambungan (Vjv), yaitu: 
+
+4. Program Pengujian
+
+4.1 Campuran RPC 
+
+Komposisi campuran RPC seperti pada Tabel 3 berikut: 
+
+Gambar 1. Gaya-gaya pada sambungan balok-kolom eksterior (Park & Paulay, 1975) 
+
+4.2 Kajian secara eksperimental 
+
+
+Pengujian dilakukan terhadap tiga model benda uji.
+
+
+Pembuatan benda uji dan pemasangan atau peralatan disesuaikan dengan kondisi yang ada di laboratorium mekanika struktur PPAU-ITB.
+
+Adapun tahap kajian eksperimental digambarkan dalam bagan alir pada Gambar 2.
+
+Bagan alir kajian eksperimental.
+
+Setup eksperimental
+
+Linier Variable Displacement Transducer (LVDT) 
+
+Alat ini digunakan untuk mengukur besarnya perpindahan yang terjadi pada bagian-bagian tertentu benda uji.
+
+Untuk merekam hasil pengujian (besarnya perpindahan) maka LVDT dihubungkan ke data logger.
+
+LVDT yang dipasang pada bagian ujung benda uji bertujuan untuk mengetahui besarnya perpindahan secara vertikal pada ujung kantilever, sebagian lagi dipasang pada benda uji secara horizontal untuk mengetahui apakah pada benda uji telah terjadi lateral sedangkan sebagian lagi dipasang pada bagian tumpuan untuk mengetahui besarnya pergeseran yang terjadi pada tumpuan selama pengujian.
+
+
+4.3.2 Strain gage 
+
+Untuk mengetahui besarnya regangan yang terjadi pada sisi penampang benda uji maka perlu dipasang strain gage pada tempat-tempat tertentu.
+
+Jenis strain gage yang akan digunakan adalah jenis post yield tunggal (YFLA-5 atau YFLA-2) dan FLA-2.
+
+Secara umum strain gage dipasang pada tumpuan dan pada tempat-tempat yang mengalami gaya dalam cukup besar serta pada tempat dimana kemungkinan akan terjadi regangan.
+
+Sebelum ditetapkan posisi pemasangan strain gage terlebih dahulu dilakukan analisis dengan ANSYS untuk mengetahui posisi-posisi yang dianggap tepat.
+
+4.3.3 Data logger 
+
+Merupakan alat yang digunakan untuk merekam besarnya regangan maupun perpindahan pada benda uji yang diamati.
+
+Jenis data logger yang dipakai adalah TDS-302.
+
+Alat ini biasanya merupakan pendukung/ pelengkap dari LVDT maupun strain gage.
+
+Agar perekaman regangan maupun perpindahan pada beberapa titik penampang yang cukup banyak dapat dikontrol dengan baik maka setiap channel pada data logger perlu diberi nomor urut.
+
+4.3.4 Pembuatan benda uji Benda uji dibuat dengan tiga model seperti pada Gambar 3 berikut ini:
+
+4.3.5 Universal Testing Machine (UTM) 
+
+Alat ini digunakan untuk uji tarik baja, sebelum dilakukan pengujian terhadap benda uji terlebih dahulu dilakukan uji tarik baja (coupon test) untuk mengetahui karakteristik material baja yang digunakan pada benda uji.
+
+Uji tarik baja ini dilakukan dengan menggunakan mesin UTM merek Dartec dengan kapasitas pembebanan 1500 kN.
+
+Secara umum dari hasil uji tarik baja ini didapatkan sifat-sifat karakteristik material baja yaitu: tegangan leleh baja (yield stress fy), tegangan ultimit (ultimate stress fu), dan modulus elastisitas baja (Es).
+
+Khusus untuk menentukan modulus elastisitas baja digunakan peralatan tambahan yang disebut ekstensiometer yang dikaitkan pada speciment yang akan diuji.
+
+4 3 6 Loading frame 
+
+Loading frame berfungsi memberikan beban pada benda uji sekaligus mengatur jenis pembebanan sesuai dengan kebutuhan pengujian.
+
+Loading frame yang dipakai dalam pengujian ini adalah buatan Dartec dengan kapasitas pembebanan 1000 kN dan stroke maksimum 200 mm.
+
+Alat ini dipergunakan untuk memberikan pembebanan secara bertahap terhadap benda uji sampai mengalami keruntuhan (failure).
+
+Sistem pembebanan terhadap benda uji dilakukan dengan kecepatan 0,02 mm/sec, dengan stroke kontrol.
+
+Setelah benda uji selesai dibuat, maka dilakukan pemasangan benda uji keperalatan pengujian (loading frame).
+
+Gambar 4 memperlihatkan setting benda uji untuk pelaksanaan pengujian.
+
+4. 4 Pelaksanaan pengujian 
+
+Uji Eksperimental dengan beban lateral siklis (Gambar 5) dilakukan dengan mengacu kepada ACI 374.
+
+1-05 (Acceptance Criteria for Moment Frames Based on Structural Testing and Commentary) yang mencakup beberapa hal berikut: 
+
+a. Pembebanan diberikan dalam bentuk serangkaian displacement controlled cycles untuk memodelkan drift yang terjadi akibat gempa.
+
+b. Pada setiap nilai drift ratio diberikan pembebanan lateral siklis dalam tiga cycles.
+
+c. Drift ratio awal harus didalam range elastik linier.
+
+d. Setiap drift ratio tidak kurang dari 1,25 dan tidak lebih dari 1,5 kali drift ratio sebelumnya.
+
+e. Pengujian dilanjutkan sampai drift ratio ≥ 3.5 x 102.
+
+5. Hasil Penelitian dan Diskusi 
+
+Dalam makalah ini ditampilkan dan didiskusikan hanya data-data yang representatif yaitu pola retak, kurva histeretik, kekakuan dan disipasi energi.
+
+5. 1 Pola retak
+
+Retak pada semua benda uji belum terlihat di awal pembebanan yaitu drift ratio 0,2% maupun 0,25%.
+
+Retak-retak halus baru terlihat pada permukaan tarik balok saat beban lateral mencapai drift ratio 0,35% (Gambar 6).
+
+Seiring dengan meningkatnya beban lateral, retak-retak lentur pada permukaan balok dekat kolom mulai makin terlihat jelas.
+
+Pada drift 0,75%, retak-retak dari permukaan tarik balok mulai saling terhubung dengan permukaan tekan balok.
+
+Pada peningkatan drift selanjutnya, sejumlah retak baru terbentuk, sementara retak-retak lama makin bertambah panjang dan makin terbuka.
+
+Adapun pola retak (Gambar 7) memperlihatkan pola retak BU-3 lebih banyak dibandingkan dengan BU-1 dan yang paling sedikit pola retak adalah BU-2 pada drift ratio 6,33 %.
+
+Untuk ketiga benda uji, retak-retak lentur terlihat lebih dominan dibandingkan dengan retak-retak geser miring sampai pada akhir pengujian.
+
+5.2 Kurva histeretik 
+
+Hubungan antara beban lateral dengan displacement ujung atas kolom mulai dari kondisi elastis sampai dengan akhir pengujian adalah seperti pada Gambar 8.
+
+Gambar 7.Pola retak BU-1, BU-2, dan BU-3 (drift ratio 6,33 %) 
+
+Hasil pengujian dalam bentuk hubungan bebanperpindahan tersebut selanjutnya akan digunakan dalam menganalisis perilaku hubungan balok-kolom dalam kaitannya dengan kekakuan dan disipasi energi.
+
+5. 3 Kekuatan 
+
+Tabel 4 memperlihatkan beban puncak maksimum yang dicapai saat pembebanan tarik dan tekan setiap model sambungan.
+
+Semua benda uji mengalami kekakuan yang tidak simetris antara beban positif dan negatif.
+
+5. 4 Kekakuan 
+
+Kekakuan sambungan balok-kolom didefinisikan sebagai peak to peak stiffness, yaitu kemiringan garis dari puncak positif ke negatif.
+
+Perhitungan kekakuan dilakukan berdasarkan kurva histeretik pada cycle ketiga untuk setiap nilai drift ratio.
+
+Hasil perhitungan kekakuan selama pengujian untuk semua benda uji, dapat dilihat pada Tabel 5.
+
+Dari hasil perhitungan pada Tabel 5, dapat dilihat bahwa selama pengujian (hampir pada semua nilai drift ratio) benda uji-3 mempunyai nilai kekakuan lateral yang paling tinggi, hanya pada awal pembebanan yaitu pada drift ratio 0,2% dan 0,25% benda uji-2 sedikit lebih tinggi dibandingkan dengan benda uji-3.
+
+Sedangkan pada drift ratio 0,35%, kekakuan lateral benda uji-3 mulai lebih besar dibandingkan dengan benda uji-2 sampai dengan drift ratio 6%.
+
+Pada pembebanan yang terakhir yaitu drift ratio 6,33%, benda uji--2 dan benda uji-3 mempunyai nilai kekakuan lateral yang sama, yaitu 0,89.
+
+Perbandingan kekakuan benda uji-2 dan benda uji-3 terhadap benda uji-1 diperlihatkan pada Gambar 10 Gambar 10.
+
+Perbandingan kekakuan bu-2 dan bu-3 terhadap bu-1 Gambar 11 menunjukkan trend penurunan kekakuan yang hampir sama atau hampir berimpit, tetapi benda uji-3 mengalami penurunan kekakuan yang relatif paling kecil dibandingkan dengan benda uji-2.
+
+Gambar 11 menunjukkan trend penurunan kekakuan yang hampir sama atau hampir berimpit, tetapi benda uji-3 mengalami penurunan kekakuan yang relatif paling kecil dibandingkan dengan benda uji-2.
+
+Gambar 11. Trend penurunan kekakuan pada semua benda uji 
+
+5.4 Disipasi energi 
+
+Energi yang diperhitungkan merupakan jumlah hasil perkalian gaya dengan increment perpindahan lateral pada kondisi non linier.
+
+Dalam hal ini perhitungan disipasi energi dilakukan dengan mengacu pada ACI 374.1-05, yaitu dengan menghitung luasan kurva histeretik dari cycle ketiga pada setiap nilai drift ratio.
+
+Tabel 6 memuat hasil perhitungan disipasi energi kumulatif.
+
+Hasil perhitungan pada Tabel 6 memperlihatkan bahwa disipasi energi kumulatif terbesar sampai dengan drift ratio 4,5 % terjadi pada benda uji-3, pada drift ratio 6 % disipasi energi kumulatif terbesar terjadi pada benda uji-2, sedangkan pada drift ratio 6,33 % atau akhir pembebanan disipasi energi kumulatif terbesar terjadi pada benda uji-1.
+
+Gambar 12 memperlihatkan kurva disipasi energi kumulatif semua benda uji untuk setiap level drift, menunjukkan disipasi energi kumulatif yang hampir sama atau berimpit.
+
+Drift Ratio (%) BU-1 Disipasi Energi (kN. mm) BU-2 BU-3 0 0,2 0,25 0,35 0,5 0,75 1 1,4 1,75 2,2 2,75 3,5 4,5 6 6,3 0 6 15 36 82 195 466 1.
+
+ 170 2.
+
+ 275 4.
+
+ 116 6.
+
+ 740 10.
+
+ 642 16.
+
+ 671 27.
+
+ 720 38.
+
+ 197 0 11 25 51 102 203 514 1.
+
+ 291 2.
+
+ 492 4.
+
+ 288 6.
+
+ 909 10.
+
+ 783 16.
+
+ 546 27.
+
+ 847 37.
+
+ 015 0 16 37 74 142 276 628 1.
+
+ 457 2.
+
+ 716 4.
+
+ 582 7.
+
+ 224 11.
+
+ 072 16.
+
+ 935 26.
+
+ 149 34.
+
+ 951
+
+Gambar 13 memperlihatkan perbandingan disipasi energi kumulatif benda uji-2 dan benda uji-3 terhadap benda uji-1, menunjukkan bahwa rasio disipasi energi kumulatif benda uji-2 relatif terhadap benda uji-1 yang mencapai nilai maksimum sebesar 149,77 % pada drift ratio 0,2 %, sementara rasio disipasi energi kumulatif benda uji-3 relatif terhadap benda uji-1 mencapai nilai maksimum sebesar 246,76 % pada drift ratio 0,2 %.
+
+6.Kesimpulan 
+
+1.Hasil perhitungan rasio kekakuan untuk ketiga benda uji bernilai diatas 5 % menunjukkan bahwa benda uji memenuhi persyaratan degradasi kekakuan pada arah pembebanan lateral tarik maupun tekan.
+
+2. Hasil perhitungan degradasi kekuatan ketiga benda uji dapat melampaui batas drift ratio minimal sebesar 3,5% (ACI 374. 1-05) tanpa mengalami degradasi kekuatan.
+
+
+Dengan kata lain SBK masih mampu menerima beban lateral (displacement) yang lebih besar.
+
+3. Penggunaan beton bubuk reaktif pada sambungan balok-kolom eksterior dengan menambahkan tulangan pada tulangan pokok balok di sambungan balok-kolom (BU-3) memberikan hasil kekuatan, daktilitas serta indeks efektif pengekangan yang Gambar 13.
+
+Perbandingan disipasi energi kumulatif BU-2 dan BU-3 terhadap BU-1 lebih baik dibandingkan dengan sambungan balokkolom eksterior yang meneruskan tulangan balok menembus kolom dan menambahkan pelat seukuran penampang balok pada sisi kolom dengan las (BU-2) dan sambungan balok-kolom konvensional (BU-1).
+
+4. Beban yang dapat ditahan BU-3 meningkat sebesar 21,37% untuk gaya dorong, sedangkan untuk gaya tarik menurun 6,55% dibandingkan dengan BU-1.
+
+Apabila kita rata-ratakan akan diperoleh peningkatan BU-3 sebesar 8,12% dibandingkan dengan BU-1.
+
+Sedangkan beban yang dapat ditahan BU-2 meningkat sebesar 18,77% untuk gaya dorong, sedangkan untuk gaya tarik menurun 4,54% dibandingkan dengan BU-1.
+
+Apabila kita rataratakan akan diperoleh peningkatan BU-2 sebesar 8,11% dibandingkan dengan BU-1.
+
+5. Hasil penelitian eksperimental dengan sistem pembebanan lateral siklis benda uji-3 lebih baik dibandingkan dengan benda uji-2 dan benda uji-1 untuk pola retak, kurva histeretik, hubungan antara beban dan lendutan, disipasi energi, degradasi kekuatan, dan degradasi kekakuan pada setiap awal siklus pembebanan.
+
+

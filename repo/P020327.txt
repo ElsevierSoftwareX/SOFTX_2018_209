@@ -1,0 +1,94 @@
+﻿ABSTRAK
+
+Kesejahteraan dalam masyarakat merupakan salah satu aspek terpenting
+dalam menjamin terwujudnya sosial dimana masyarakatnya memiliki tingkat
+kesejahteraan yang baik. Tolak ukur tercapainya kesejahteraan adalah
+terpenuhinya kebutuhan-kebutuhan pokok masyarakat secara layak. Metode
+statistik yang telah dikembangkan untuk analisis data dengan memperhitungkan
+faktor spasial yaitu Geographically Weighted Logistic Regression Semiparametric
+(GWLRS). GWLRS adalah bentuk lokal dari Regresi Logistik dimana terdapat
+parameter yang dipengaruhi oleh lokasi (Geographically varying coefficient) dan
+parameter yang tidak dipengaruhi lokasi (fixed coefficient). Pemilihan bandwith
+optimum menggunakan metode Cross Validation (CV). Model GWLRS Status
+Kesejahteraan Kabupaten atau Kota di Jawa Tengah menunjukkan bahwa model
+GWLRS berbeda signifikan dengan model regresi logistik. Serta model yang
+dihasilkan untuk setiap daerah akan berbeda satu dengan lainnya. Untuk
+mendapatkan model yang terbaik maka sejumlah model harus dievaluasi. Salah
+satu metode untuk memilih model terbaik yaitu dengan nilai Akaike Information
+Criterion (AIC). Berdasarkan AIC diperoleh model terbaik yaitu model GWLRS
+karena memiliki nilai AIC terkecil sebesar 46.11213 dengan ketepatan klasifikasi
+sebesar 77,14%.
+
+Kata kunci : Kesejahteraan, Geographically Weighted Logistic Regression
+Semiparametric, Cross Validation, Akaike Information Criterion
+
+BAB I
+PENDAHULUAN
+1.1 Latar Belakang
+Tingkat kemiskinan dan pengangguran merupakan faktor-faktor yang
+mencerminkan tingkat kesejahteraan masyarakat pada suatu daerah tertentu.
+Peningkatan kesejahteraan rakyat dapat tercermin melalui meningkatnya
+partisipasi pendidikan masyarakat, derajat kesehatan masyarakat serta kesempatan
+kerja yang semakin luas, sehingga dapat meningkatkan tingkat pendapatan
+masyarakat. Semakin meningkatnya pendapatan, maka tingkat kemiskinan akan
+menurun secara signifikan.
+
+Keadaan masyarakat Indonesia pada saat ini dirasakan masih sangat
+memprihatinkan. Banyaknya masyarakat yang belum mendapatkan kesejahteraan
+yang layak untuk keberlangsungan hidupnya. Padahal kesejahteraan ekonomi
+sangat dibutuhkan oleh setiap masyarakat. Oleh karena itu, sudah seharusnya
+dilaksanakan pemerataan pendapatan agar kesejahteraan dapat dirasakan oleh
+setiap masyarakat. Berdasarkan hal tersebut, pemerintah sebaiknya perlu
+menentukan status tingkat kesejahteraan masyarakat suatu daerah agar dapat
+dilaksanakan pembangunan pada daerah-daerah yang tingkat kesejahteraannya
+masih terbilang rendah. Salah satu alat untuk menentukan status tingkat
+kesejahteraan masyarakat di suatu wilayah ialah pola pengeluaran konsumsi
+masyarakat (BPS, 2012).
+
+Oleh karena itu, diperlukan suatu metode pemodelan statistik dengan
+memperhitungkan faktor spasial (adanya pengaruh dari keadaan geografis suatu
+wilayah). Metode statistik yang telah dikembangkan untuk analisis data dengan
+memperhitungkan faktor spasial yaitu Geographically Weighted Logistic
+Regression Semiparametric (GWLRS).
+Pada penelitian sebelumnya, Ana Kartikawati (2013) telah melakukan
+Perbandingan Analisis Diskriminan Linier Klasik dan Analisis Diskriminan Linier
+Robust untuk pengklasifikasian kesejahteraan masyarakat di kabupaten jawa
+tengah, dengan faktor-faktor yang mempengaruhi yaitu upah minimum, tingkat
+pengangguran, tingkat pertumbuhan ekonomi, tingkat inflasi dan jumlah
+puskesmas.
+
+Pada penelitian kali ini akan digunakan metode Pemodelan Status
+Kesejahteraan Daerah Kabupaten atau Kota di Jawa Tengah menggunakan
+Geographically Weighted Logistic Regression Semiparametric (GWLRS) dengan
+faktor-faktor yang mempengaruhi yaitu upah minimum, angka pengangguran,
+tingkat pertumbuhan ekonomi, angka inflasi dan angka partisipasi sekolah.
+GWLRS adalah merupakan sebuah model dimana terdapat parameter yang
+dipengaruhi oleh lokasi (Geographically varying coefficient) dan parameter yang
+tidak dipengaruhi lokasi (fixed coefficient) (Nakaya et al., 2005). GWLRS
+merupakan perluasan dari metode Geographically Weighted Logistic Regression
+(GWLR). GWLR berasal dari perpaduan antara Geographically Weighted
+Regression (GWR) dengan Logistic Regression (Atkinson et al., 2003).
+
+1.2 Perumusan Masalah
+Berdasarkan uraian latar belakang tersebut, masalah yang akan dibahas
+dalam penulisan ini adalah bagaimana model terbaik dari data kesejahteraan di
+Jawa Tengah dengan menggunakan metode Geographically Weighted Logistic
+Regression Semiparametric (GWLRS) serta faktor apa saja yang mempengaruhi
+secara signifikan.
+
+1.3 Pembatasan Masalah
+Metode yang digunakan dalam penulisan ini adalah pada pemodelan status
+kesejahteraan daerah kabupaten atau kota di Jawa Tengah dengan menggunakan
+Geographically Weighted Logistic Regression Semiparametric dengan data
+kesejahteraan di Jawa Tengah tahun 2012.
+
+1.4 Tujuan Penelitian
+Tujuan penelitian dari penulisan ini adalah:
+1. Mendapatkan model status kesejahteraan daerah kabupaten atau kota di Jawa
+tengah dan faktor yang berpengaruh secara signifikan menggunakan regresi
+logistik.
+2. Mendapatkan model status kesejahteraan daerah kabupaten atau kota di Jawa
+tengah dan faktor yang berpengaruh secara signifikan menggunakan GWLRS
+dengan pembobot fungsi kernel.
+3. Mendapatkan model yang mampu menggambarkan status kesejahteraan
+daerah kabupaten atau kota di Jawa Tengah dengan lebih baik.

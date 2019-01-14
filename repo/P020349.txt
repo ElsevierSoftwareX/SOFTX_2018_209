@@ -1,0 +1,43 @@
+﻿
+ Fluktuasi harga saham menyebabkan para trader harus menggunakan strategi dalam jual beli saham sehingga analisis teknikal merupakan suatu pilihan bagi para trader dalam menentukan waktu dalam bertransaksi. Oleh karena itu, diperlukan metode analisis yang tepat. Analisis teknikal merupakan pilihan yang tepat bagi para trader dalam menentukan waktu dalam bertransaksi, yang terdiri dari analisis candlestick untuk menentukan pola harga saham, analisis gradient untuk menentukan tingkat kecuraman fluktuasi harga saham, dan analisis multifraktal untuk melihat ketahanan data pada suatu trend tertentu dengan menggunakan relasi hukum pangkat dan analisis R/S (Rescaled range) dalam penentuan nilai eksponen Hurstnya. Data yang digunakan dalam penelitian ini adalah data harga saham PT. Ciputra Property Tbk., Bumi Serpong Damai Tbk., dan Sentul City Tbk. pada tahun 2012. Hasil yang diperoleh dari analisis tersebut adalah pola yang dimiliki ketiga perusahaan sektor properti memiliki pola netral menurut analisis candlestick, tingkat fluktuasi harga saham yang berbeda menurut analisis gradien dan memiliki memori pendek menurut analisis multifraktal. 
+Kata kunci : analisis teknikal, candlestick, gradien, multifraktal, analisis R/S
+
+
+ BAB I 
+PENDAHULUAN 
+1.1 Latar Belakang 
+
+Pasar modal (capital market) merupakan pasar untuk berbagai instrumen keuangan jangka panjang yang bisa diperjualbelikan, baik surat utang (obligasi), ekuiti (saham), reksa dana, instrumen derivatif maupun instrumen lainnya. Pasar modal merupakan sarana pendanaan bagi perusahaan maupun institusi lain (misalnya pemerintah), dan sebagai sarana bagi kegiatan berinvestasi. Dengan demikian, pasar modal memfasilitasi berbagai sarana dan prasarana kegiatan jual beli dan kegiatan terkait lainnya. Instrumen keuangan yang diperdagangkan di pasar modal merupakan instrumen jangka panjang (jangka waktu lebih dari 1 tahun) seperti saham, obligasi, waran, right, reksa dana, dan berbagai instrumen derivatif seperti option, futures, dan lain-lain. 
+Undang-Undang Pasar Modal No. 8 tahun 1995 tentang Pasar Modal mendefinisikan pasar modal sebagai “kegiatan yang bersangkutan dengan Penawaran Umum dan perdagangan Efek, Perusahaan Publik yang berkaitan dengan Efek yang diterbitkannya, serta lembaga dan profesi yang berkaitan dengan Efek”. 
+
+Pasar Modal memiliki peran penting bagi perekonomian suatu negara karena pasar modal menjalankan dua fungsi, yaitu pertama sebagai sarana bagi pendanaan usaha atau sebagai sarana bagi perusahaan untuk mendapatkan dana dari masyarakat pemodal (investor). Dana yang diperoleh dari pasar modal dapat digunakan untuk pengembangan usaha, ekspansi, penambahan modal kerja dan lain-lain, kedua pasar modal menjadi sarana bagi masyarakat untuk berinvestasi pada instrument keuangan seperti saham, obligasi, reksa dana, dan lain-lain. Dengan demikian, masyarakat dapat menempatkan dana yang dimilikinya sesuai dengan karakteristik keuntungan dan resiko masing-masing instrument. 
+
+Untuk mengantisipasi perubahan harga saham maka diperlukan analisis saham. Terdapat dua pendekatan yang sering dilakukan untuk menganalisis harga saham, yaitu analisis fundamental dan analisis teknikal. Analisis Fundamental pada dasarnya adalah melakukan analisis historis atas kekuatan keuangan, dimana proses ini sering juga disebut sebagai analisis perusahaan (company analysis), sementara itu analisis teknikal merupakan studi yang dilakukan untuk mempelajari berbagai kekuatan yang berpengaruh dipasar saham dan implikasi pada harga saham. 
+Analisis teknikal merupakan upaya untuk memperkirakan harga saham (kondisi pasar) dengan mengamati perubahan harga saham tersebut (kondisi pasar) diwaktu yang lampau. Meskipun demikian. analisis teknikal tidak terbatas dapat dilakukan pada saham saja, analisis teknikal dapat pula dilakukan untuk memprediksi harga suatu komoditi maupun mata uang asing. 
+Analisis teknikal menitikberatkan pada upaya-upaya untuk memperkirakan suatu harga saham. Teori yang mendasarinya adalah analisis ini berdasarkan pada kenyataan bahwa informasi masuk secara perlahan-lahan kedalam harga saham, sehingga memungkinkan investor untuk memperoleh keuntungan yang lebih dari biasanya (excessive return) dengan mengamati tren pergerakan harga saham melalui grafik candlestick serta garis trend pada grafik harga saham. 
+
+Banyak metode yang dapat diterapkan dalam analisis teknikal, seperti analisis candlestick untuk melihat pola harga saham, analisis gradien untuk melihat tingkat kecuraman fluktuasi harga saham, dan analisis mulifraktal untuk menentukan ketahanan data harga saham pada suatu trend. 
+Telah banyak diyakini bahwa data return akan memiliki sifat multifraktal dengan adanya jejak waktu suatu variabel acak dengan distribusi Gaussian yang biasanya dikenal sebagai derau putih (white noise). Analisis multifraktal ini bertujuan untuk memperoleh informasi apakah suatu data harga saham memiliki kecenderungan untuk bertahan pada suatu tend atau tidak. Perilaku data terhadap trend memberi informasi lain terhadap hubungan masing-masing dalam data tersebut. Muncul atau tidaknya trend merupakan perilaku akhir yang menandai ada tidaknya hubungan saling mempengaruhi pada data deret waktu terurut (time series). 
+
+Salah satu sifat menarik dari perilaku data keuangan atau saham adalah keacakannya terhadap perubahan nilai, sekalipun memiliki volalitas yang tinggi dan memiliki frekuensi dan volume transaksi yang tinggi pula. Meskipun tidak menunjukkan sifat acak murni, tetapi prediksi terhadap sebuah nilai data tertentu amatlah sulit. Hal ini akan sedikit terbantu jika trader mampu mengamati pola yang muncul dari perilaku data tersebut.
+
+1.2 Perumusan Masalah 
+
+Fluktuasi harga saham menjadi masalah bagi para trader dalam transaksi jual beli saham. Oleh karena itu, permasalahan dalam skripsi ini adalah bagaimana menentukan strategi yang tepat dalam transaksi jual beli saham. Penentuan strategi ini didasarkan pada analisis teknikal yang terdiri dari analisis candlestick, analisis gradien, dan analisis multifraktal. 
+1.3 Pembatasan Masalah 
+
+Peranan dari analisis baik itu secara teknikal maupun fundamental adalah untuk menentukan atau menyatakan perilaku harga saham naik atau turun, yangbergerak searah atau balik arah.Permasalahannya hanya dibatasi pada menganalisis dan membandingkan grafik harga saham PT. Ciputra Property Tbk., Bumi Serpong Damai Tbk., dan Sentul City Tbk. yang diambil pada tanggal 02 Januari 2012 sampai dengan 31 Desember 2012 dengan menggunakan metode analisis candlestick dan analisis gradien serta menentukan apakah suatu data harga saham memiliki kecenderungan untuk bertahan pada suatu trend atau tidak dengan menggunakan analisis multifraktal yang meliputi relasi hukum pangkat dan analisis R/S untuk menentukan nilai eksponen Hurst (H). 
+1.4 Tujuan Penulisan 
+
+Tujuan dari penulisan skripsi ini adalah untuk mengetahui ketahanan data harga saham pada suatu trend serta menganalisis dan membandingkan grafik harga saham PT. Ciputra Property Tbk., Bumi Serpong Damai Tbk., dan Sentul 5 
+
+City Tbk. selama periode tahun 2012 dengan menggunakan metode analisis candlestick , analisis gradien dan analisis multifraktal. 
+
+1.5 Sistematika Penulisan 
+
+Sistematika pembahasan dalam penulisan skripsi ini terbagi menjadi 4bab, sebagai berikut : 
+Bab I pendahuluan. Pada bab ini berisi tentang latar belakang masalah, rumusan masalah, pembatasan masalah yang akan diteliti, tujuan penulisan, dan sistematika penulisan. 
+Bab II tinjauan pustaka. Pada bab ini berisi tentang materi penunjang dalam penulisan skripsi ini yang terdiri atas pengertian dan jenis pola pada grafik candlestick, kemiringan garis (gradien), pengertian limit dan kekontinuan fungsi, definisi nilai return, definisi distribusi normal, dan analisis R/S dalam penentuan nilai eksponen Hurst. 
+
+Bab III pembahasan. Pada bab ini berisi tentang analisis dan pembahasan grafik candlestick, analisis gradien serta analisis multifraktal yang mencakup relasi hukum pangkat dan analisis R/S dalam penentuan nilai eksponen Hurst (H) dari harga saham penutupan PT. Ciputra Property Tbk., Bumi Serpong Damai Tbk., dan Sentul City Tbk. 
+Bab IV kesimpulan yang berisi kesimpulan dari hasil penelitian.

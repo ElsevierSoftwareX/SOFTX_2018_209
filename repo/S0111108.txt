@@ -1,0 +1,530 @@
+﻿PENGARUH KINERJA KEUANGAN TERHADAP HARGA SAHAM
+10 BANK TERKEMUKA DI INDONESIA
+
+
+Abstrak: Penelitian ini bertujuan untuk mengetahui dampak rasio keuangan terhadap
+harga saham sepuluh bank terkemuka di Indonesia. Penelitian ini menggunakan metode
+purposive sampling untuk sepuluh bank yang go public di Bursa Efek Indonesia periode
+2013-2014 dengan kriteria berikut : (1) memiliki aset dengan jumlah terbesar pada tahun
+2013-2014 (2) memiliki informasi rasio keuangan pada tahun 2013-2014 (3) tidak terjadi
+pemecahan saham pada tahun 2013-2014 (4) hasil pengolahan data statistiknya
+memenuhi uji asumsi klasik. Berdasarkan kriteria itu, maka jumlah bank yang terpilih
+adalah Bank Central Asia Tbk, Bank Negara Indonesia (Persero) Tbk, Bank Mandiri
+(Persero) Tbk, Bank Danamon Indonesia Tbk, Bank Rakyat Indonesia (Persero) Tbk,
+Bank Permata Tbk, Bank Pan Indonesia Tbk, Bank CIMB Niaga Tbk, Bank Tabungan
+Negara (Persero) Tbk dan Bank International Indonesia Tbk. Variabel tidak bebas dalam
+penelitian ini adalah harga saham, sementara variabel terikat adalah Loan to Deposit
+Ratio (LDR), Non Performing Loans (NPL), Capital Adequacy Ratio (CAR) and Return
+on Equity (ROE). Data dianalisis dengan menggunakan analisa regresi linier berganda.
+Hasil penelitian menunjukkan bahwa variabel bebas (LDR, NPL, CAR, and ROE) secara
+simultan berpengaruh signifikan terhadap harga saham. Secara parsial, LDR, CAR dan
+ROE berpengaruh signifikan terhadap harga saham. Sementara, NPL tidak berpengaruh
+terhadap harga saham.
+Kata kunci: Harga Saham, LDR, NPL, CAR, ROE
+
+
+
+
+
+PENDAHULUAN
+Kinerja sepuluh perusahaan perbankan terkemuka di Indonesia menunjukkan
+perkembangan yang semakin meningkat pada tahun 2014. Pada tahun 2014, kesepuluh
+perusahaan tersebut mampu meraih laba komprehensif sebesar Rp 86.807 milyar. Angka
+ini meningkat bila dibandingkan dengan pencapaian laba sebesar Rp 71.133 milyar pada
+tahun 2013.
+Peningkatan laba ini diikuti dengan naiknya harga saham perusahaan tersebut.
+Hampir seluruh bank mengalami kenaikan harga saham pada tahun 2014, kecuali Bank
+CIMB Niaga dan Bank International Indonesia yang mengalami penurunan harga saham.
+Secara prosentase, Bank Pan Indonesia mengalami kenaikan harga saham tertinggi dengan
+peningkatan harga sebesar 77% dibandingkan dengan tahun 2013. Secara nominal,
+kenaikan harga saham tertinggi dibukukan oleh Bank Rakyat Indonesia dengan kenaikan
+harga sebesar Rp 4.500 per lembar saham dibandingkan dengan tahun 2013.
+Naiknya harga saham disertai pula dengan kenaikan nilai kapitalisasi pasar saham
+pada periode tersebut. Pada tahun 2014, kesepuluh perbankan memeroleh nilai kapitalisasi
+pasar saham sebesar Rp 61.266 milyar. Sementara, pada tahun 2013 jumlah kapitalisasi
+pasar saham hanya Rp 48.178 milyar.
+
+
+
+Tabel 1. Harga Saham, Nilai Kapitalisasi Saham dan Laba Komprehensif Bank
+Keterangan Tahun
+Harga saham
+penutupan
+(rupiah)
+Nilai
+kapitalisasi
+pasar saham
+(Milyar rupiah)
+Laba
+komprehensif
+(Milyar
+rupiah)
+Bank BCA 2014 13.125 14.446 16.925
+2013 9.600 7.946 13.004
+Bank Mandiri 2014 10.775 14.584 21.483
+2013 7.850 15.151 17.996
+Bank Rakyat Indonesia 2014 11.650 19.879 24.760
+2013 7.250 15.265 19.917
+Bank Negara Indonesia 2014 6.100 9.163 11.915
+2013 3.950 5.744 6.244
+Bank Danamon Indonesia 2014 4.525 897 2.818
+2013 3.775 1.370 4.077
+Bank Tabungan Negara 2014 1.205 1.890 1.116
+2013 870 702 1.443
+Bank CIMB Niaga 2014 835 81 2.695
+2013 920 31 3.234
+
+
+Lanjutan Tabel 1
+Bank International Indonesia 2014 208 11 753
+2013 310 1.773 1.245
+Bank Permata 2014 1.505 41 1.647
+2013 1.260 20 1.631
+Bank Pan Indonesia 2014 1.165 274 2.695
+2013 660 176 2.342
+Jumlah 2014 61.266 86.807
+2013 48.178 71.133
+
+
+Sumber: publikasi statistik yearly & laporan keuangan tahunan - www.idx.co.id
+
+
+Beberapa penelitian tentang pengaruh kinerja keuangan terhadap harga saham telah
+dilakukan, namun dirasakan masih kurang memadai dari segi jumlahnya. Selain itu, hasil
+yang diperoleh dari penelitian itu beragam dan umumnya tidak konsisten. Beberapa hasil
+penelitian itu diantaranya adalah:
+1. CAR tidak berpengaruh terhadap harga saham (Pryanka dkk, 2014; Yuneita Anisma,
+2012; Andry Priharta & Yolanda Irama, 2012 ; Indrijaya & Stella. 2011; Wijayanti,
+2010; Ratna Nurani, 2009; Fariyana Kusumawati, 2009). Sementara, hasil penelitian
+lainnya menunjukkan bahwa CAR berpengaruh terhadap harga saham (Sunyota &
+Sam’ani, 2014; Nurjanti Takarini & Ukki Hayudanto Putra 2013; Haryetti, 2012; Sendi
+Gusnandar Arnan & Shinta Dewi Herawati 2011).
+2.NPL tidak berpengaruh terhadap harga saham (Haryetti, 2012; Wijayanti, 2010;
+Fariyana Kusumawati, 2009).
+3. LDR tidak berpengaruh terhadap harga saham (Pryanka dkk, 2014; Yuneita Anisma,
+2012; Indrijaya & Stella. 2011; Wijayanti, 2010; Ratna Nurani, 2009 ; Nurjanti Takarini
+& Ukki Hayudanto Putra, 2013). Sebaliknya, hasil penelitian lain menunjukkan adanya
+pengaruh LDR terhadap harga saham (Haryetti, 2012 ; Andry Priharta dan Yolanda
+Irama, 2012 ; Sendi Gusnandar Arnan & Shinta Dewi Herawati, 2011 ; Alvin Setiawan
+& Lauw Tjun Tjun, 2010).
+4. ROE berpengaruh terhadap harga saham (Pryanka dkk, 2014; Haryetti, 2012; Titiek
+Rachmawati & Dwijono Kristijanto, 2009). Sedangkan Ratna Nurani (2009)
+berkesimpulan bahwa ROE tidak berpengaruh terhadap harga saham.
+Tidak terdapatnya konsistensi dari hasil penelitian diatas, menarik perhatian penulis
+untuk melakukan penelitian tersendiri tentang pengaruh kinerja keuangan terhadap harga
+saham. Hanya saja, penelitian ini lebih difokuskan untuk menilai pengaruh kinerja
+keuangan terhadap harga saham bank terkemuka di Indonesia. Pertimbangan yang
+mendasarinya adalah bahwa bank-bank ini memiliki modal, kualitas aset, manajemen,
+rentabilitas, likuiditas dan sensitivitas terhadap risiko pasar yang relatif merata diantara
+mereka. Dengan demikian, kesimpulan yang diperoleh dapat mencerminkan tingkat
+pengaruh kinerja keuangan terhadap harga saham bank terkemuka saja.
+
+
+
+KAJIAN TEORI
+Para investor pada umumnya menggunakan analisis fundamental atau analisis
+teknikal dalam menilai harga saham. Para analis fundamental merupakan tipe investor
+jangka panjang yang mengharapkan dividen daripada memeroleh keuntungan melalui aksi
+beli dan jual saham dalam jangka pendek. Menurut Bodie (2008), analis fundamental
+memperkirakan harga saham berdasarkan prospek laba dan dividen, ekspektasi tingkat
+bunga di masa mendatang dan risiko perusahaan. Analisis ini kemudian dilengkapi pula
+dengan telaah atas kondisi ekonomi yang lebih rinci, termasuk kualitas manajemen
+perusahaan, kekuatan perusahaan dalam industrinya dan prospek industri secara
+keseluruhan. Selaras dengan pendapat tersebut, Brown (2012) menyatakan bahwa analis
+fundamental memperkirakan harga saham berdasarkan pengamatan terhadap variabel
+ekonomi, industri dan perusahaan. Sebaliknya, para analis teknikal merupakan tipe
+investor jangka pendek yang mengharapkan keuntungan dari kenaikan harga saham
+melalui telaah data pasar masa lalu. Menurut Bodie (2008), analis teknikal mempelajari
+harga saham masa lalu untuk memprediksi harga saham di masa mendatang. Pergerakan
+harga saham di masa lalu diperkirakan akan membentuk suatu pola tertentu yang berulang
+di masa mendatang. Menemukan pola yang tepat merupakan dasar untuk membuat
+keputusan membeli dan menjual saham agar dapat meraih keuntungan. Hal yang sama
+juga dinyatakan oleh Brown. Menurut Brown (2012), para analis teknikal memperkirakan
+harga saham berdasarkan data pasar yang lalu seperti harga dan volume perdagangan.
+Penelitian ini lebih memilih pendekatan fundamental guna mengetahui pengaruh
+kinerja keuangan terhadap harga saham perusahaan yang diteliti. Dasar pemikirannya,
+pendekatan fundamental mencerminkan pertimbangan yang objektif dalam menilai harga
+saham dibandingkan dengan pendekatan teknikal yang bersifat subjektif.
+Secara lebih spesifik, beberapa ahli mengungkapkan pendapatnya mengenai faktor
+fundamental. Menurut Jaouida Elleuch (2009), faktor fundamental berkaitan dengan
+kinerja keuangan. Penilaian kinerja keuangan dapat dilakukan melalui analisis laporan
+keuangan perusahaan (Lukas Setia Atmaja, 2008 ; Van Horne dan Wachowicz, Jr 2008).
+Mehmet Sarac (2008) juga sependapat dengan menyatakan bahwa investor menggunakan
+analisis fundamental berupa analisis rasio dalam pengambilan keputusan investasinya.
+
+
+METODE
+Dalam penelitian ini, kinerja keuangan yang dijadikan tolak ukur dalam menentukan
+pengaruhnya terhadap harga saham terdiri dari rasio permodalan, rasio likuiditas, rasio
+profitabilitas dan kualitas aset. Kemudian, ditentukan masing-masing satu rasio keuangan
+yang untuk mewakili kelompok tersebut. Hasilnya, rasio-rasio yang dipilih untuk diteliti
+adalah LDR mewakili rasio likuiditas, NPL mewakili kualitas aset, CAR mewakili rasio
+permodalan dan ROE yang mewakili rasio profitabilitas.
+Modal merupakan faktor yang sangat penting dalam rangka pengembangan usaha
+dan untuk menampung risiko kerugiannya. Kecukupan modal dalam usaha perbankan
+diukur melalui rasio CAR. Semakin tinggi rasio CAR, semakin tinggi tingkat kemampuan
+bank dalam menghadapi risiko kerugian dan semakin mampu melakukan pengembangan
+usaha untuk meningkatkan laba. Rasio loan to deposit ratio (LDR) berkaitan dengan
+likuiditas sebuah bank. Likuiditas menunjukkan ketersediaan dana agar bank setiap saat dapat memenuhi kewajiban-kewajiban yang harus dibayar dalam jangka pendek, selain
+juga harus mampu memenuhi semua permohonan kredit yang layak dibiayai.
+Rasio non-performing loan (NPL) menunjukkan bahwa kemampuan bank dalam
+mengelola kredit bermasalah yang disalurkan oleh bank. Semakin tinggi rasio ini maka
+akan semakin besar kemungkinan suatu bank dalam kondisi bermasalah. Tingginya
+jumlah kredit bermasalah dalam suatu bank berakibat turunnya harga saham.
+Rasio return on equity (ROE) sering digunakan untuk mengetahui tingkat
+pengembalian dari dana yang diinvestasikannya. Tingkat return on equity (ROE) yang
+semakin tinggi akan memengaruhi minat dari para investor terhadap saham bank sehingga
+mampu meningkatkan harga pasar saham.
+Penelitian-penelitian terdahulu diantaranya memilih beberapa rasio keuangan dalam
+satu kelompok untuk diukur pengaruhnya terhadap harga saham. Misalnya, menurut
+penulis tidaklah tepat mengukur pengaruh rasio BOPO, NIM, ROA dan ROE secara
+bersamaan terhadap harga saham. Karena, rasio-rasio tersebut merupakan rasio
+profitabilitas yang sebagian besar terbentuk dari unsur-unsur yang sama dalam laporan
+keuangan. Akibatnya, diantara komponen tersebut saling tarik-menarik pengaruhnya
+terhadap harga saham.
+Objek yang diteliti adalah kinerja keuangan dan harga saham bank pada periode
+2013-2014. Faktor-faktor yang memengaruhi harga saham itu diuji melalui analisis regresi
+linier berganda dengan bantuan program SPSS versi 20. Untuk tujuan penelitian, data
+penelitian diperoleh melalui situs : www. idx.co.id.
+Bank-bank yang dipilih untuk diteliti adalah 10 bank terkemuka dengan kriteria :
+memiliki aset dengan jumlah terbesar pada periode 2013-2014, memiliki informasi rasio
+keuangan pada periode 2013-2014, tidak melakukan pemecahan saham pada periode yang
+diteliti, dan hasil pengolahan data statistiknya memenuhi uji asumsi klasik. Berdasarkan
+kriteria itu, maka jumlah bank yang terpilih adalah Bank Central Asia Tbk, Bank Negara
+Indonesia (Persero) Tbk, Bank Mandiri (Persero) Tbk, Bank Danamon Indonesia Tbk,
+Bank Rakyat Indonesia (Persero) Tbk, Bank Permata Tbk, Bank Pan Indonesia Tbk, Bank
+CIMB Niaga Tbk, Bank Tabungan Negara (Persero) Tbk dan Bank International Indonesia
+Tbk.
+
+
+HASIL DAN PEMBAHASAN
+Rasio-rasio keuangan 10 bank terbesar di Indonesia menunjukkan kinerja yang
+beragam. Kinerja LDR beberapa bank mengalami penurunan seperti menurunnya LDR
+pada Bank Rakyat Indonesia, Bank Danamon, Bank Mandiri, dan Bank Permata. Kinerja
+NPL pada beberapa bank juga mengalami penurunan karena melaporkan adanya kenaikan
+rasio NPL, kecuali Bank Negara Indonesia, Bank Tabungan Negara, dan Bank Pan
+Indonesia yang melaporkan adanya penurunan NPL. Rasio CAR pada umumnya
+mengalami perbaikan, kecuali Bank Tabungan Negara dan Bank Permata yang mengalami
+penurunan CAR. Sementara, kinerja ROE secara umum mengalami penurunan, kecuali
+Bank Negara Indonesia yang melaporkan adanya kenaikan ROE sebesar 1,17%.
+
+
+
+Tabel 2. Rasio Keuangan Bank
+KETERANGAN TAHUN LDR NPL CAR ROE
+Bank BCA 2014 76,80% 0,6% 16,90% 25,50%
+2013 75,40% 0,4% 15,70% 28,20%
+Bank Mandiri 2014 82,02% 1,66% 16,60% 25,81%
+2013 82,97% 1,60% 14,93% 27,31%
+Bank Rakyat Indonesia 2014 81,86% 1,69% 18,31% 31,22%
+2013 88,54% 1,55% 16,99% 34,11%
+Bank Negara Indonesia 2014 87,81% 1,96% 16,22% 23,64%
+2013 85,30% 2,17% 15,09% 22,47%
+Bank Danamon Indonesia 2014 92,60% 2,3% 17,90% 8,60%
+2013 95,10% 1,9% 17,90% 14,52%
+Bank Tabungan Negara 2014 108,60% 4,01% 14,64% 10,66%
+2013 104,42% 4,05% 15,62% 16,05%
+Bank CIMB Niaga 2014 99,46% 3,90% 15,58% 8,52%
+2013 94,49% 2,23% 15,36% 17,74%
+Bank International Indonesia 2014 92,67% 2,23% 15,72% 6,02%
+2013 87,04% 2,11% 12,72% 16,18%
+Bank Permata 2014 89,13% 1,70% 13,58% 12,17%
+2013 89,24% 1,02% 14,28% 15,68%
+Bank Pan Indonesia 2014 90,51% 2,05% 15,62% 13,09%
+2013 87,71% 2,13% 15,32% 14,56%
+Sumber: laporan keuangan tahunan - www.idx.co.id
+
+Pengujian Asumsi Klasik. Penelitian ini menggunakan analisis linier berganda untuk
+menguji pengaruh antara LDR, NPL, CAR dan ROE terhadap Harga Saham. Uji asumsi
+klasik merupakan prasyarat yang harus dilakukan terlebih dahulu untuk mengetahui
+kelayakan suatu model regresi berganda. Uji normalitas, uji multikolinieritas, uji
+heteroskedastisitas, dan uji autokorelasi merupakan bagian dari uji asumsi klasik.
+Uji Normalitas. Uji normalitas dilakukan bertujuan untuk melihat apakah data memunyai
+distribusi atau penyebaran secara normal atau tidak di dalam model regresi. Model regresi
+yang baik memiliki data yang terdistribusi secara normal. Salah satu cara untuk melihat data yang digunakan dalam penelitian terdistribusi secara normal atau tidak adalah melalui
+uji Kolmogorov-Smirnov (K-S). Hasil pengujian normalitas dapat dilihat melalui Tabel 3.
+
+
+
+Tabel 3. Uji Normalitas
+One-Sample Kolmogorov-Smirnov Test
+Unstandardized Residual
+N 20
+Normal Parametersa,b Mean 0E-7
+Std. Deviation 1485,77493960
+Most Extreme
+Differences
+Absolute ,133
+Positive ,133
+Negative -,096
+Kolmogorov-Smirnov Z ,597
+Asymp. Sig. (2-tailed) ,868
+a. Test distribution is Normal.
+b. Calculated from data.
+
+
+
+
+Dari hasil uji normalitas diketahui bahwa nilai signifikansi (Asymp.Sig 2 – tailed)
+sebesar 0,868. Karena signifikansi lebih dari 0,05 (0,868 > 0,05) maka nilai residual
+terdistribusi secara normal atau memenuhi asumsi klasik normalitas.
+Uji Multikolinearitas. Uji multikolinearitas bertujuan untuk menguji apakah model
+regresi ditemukan adanya korelasi antar variabel bebas. Model regresi yang baik adalah
+tidak terjadi multikolinearitas sempurna. Untuk mengetahui terjadinya multikolinearitas
+dapat melalui Tolerance dan Variance Inflation Factor (VIF). Kedua ukuran ini
+menunjukkan setiap variabel bebas manakah yang dijelaskan oleh variabel bebas lainnya.
+Hasil yang ditunjukan dalam output SPSS maka besarnya tolerance dan VIF dari keempat
+variabel bebas yang digunakan (LDR, NPL, CAR dan ROE) dapat dilihat melalui Tabel 4.
+
+
+
+Tabel 4. Uji Multikolinearitas
+
+
+Coefficientsa
+Model Unstandardized
+Coefficients
+Standardized
+Coefficients
+t Sig. Collinearity
+Statistics
+B Std. Error Beta Tolerance VIF
+1
+(Constant) 5606,854 9950,352 ,563 ,581
+ldr -304,468 108,444 -,594 -2,808 ,013 ,181 5,513
+npl 966,051 774,936 ,220 1,247 ,232 ,262 3,823
+car 1262,192 288,419 ,411 4,376 ,001 ,920 1,087
+roe 214,755 69,059 ,405 3,110 ,007 ,480 2,085
+
+
+a. Dependent Variable: harga_saham
+
+
+Nilai tolerance masing-masing variabel lebih dari 0,1 dan nilai VIF masing-masing
+variabel kurang dari 10 maka dapat disimpulkan bahwa tidak terjadi masalah
+multikolinearitas pada model regresi.
+Uji autokorelasi. Uji autokorelasi bertujuan untuk menguji apakah dalam model regresi
+berganda terdapat korelasi antar kesalahan pengganggu (residual) pada periode t dengan
+kesalahan pada periode sebelumnya t-1. Model regresi yang baik adalah regresi yang bebas dari autokorelasi. Kesimpulan untuk menentukan terjadinya autokorelasi ataupun
+tidak, dilakukan melalui uji Durbin-Watson (DW).
+
+
+Tabel 5. Uji Autokorelasi
+Model Summaryb
+Model R R Square Adjusted R
+Square
+Std. Error of
+the Estimate
+Durbin-
+Watson
+1 ,937a ,878 ,846 1672,18452 1,175
+
+
+a. Predictors: (Constant), roe, car, npl, ldr
+b. Dependent Variable: harga_saham
+
+
+Hasil dari uji Durbin-Watson (DW) menunjukkan nilai sebesar 1,175. Nilai dU dan
+dL dapat diperoleh dari tabel statistik Durbin Watson. Dengan menggunakan tingkat
+signifikansi sebesar 0,05 pada n = 20 dan k = 4, diperoleh batas luar (dL) sebesar 0,894
+dan batas dalam (dU) sebesar 1,828. Karena hasil pengujian menunjukkan bahwa dL 
+DW  dU (0,894 < 1,175 < 1,828), dapat dikatakan bahwa tidak ada kepastian atau
+kesimpulan yang pasti.
+Uji Heteroskedastisitas. Pengujian heteroskedastisitas dilakukan untuk mengetahui
+apakah dalam model regresi terjadi ketidaksamaan varian dari residual pada satu
+pengamatan ke pengamatan yang lainnya. Model regresi yang baik adalah tidak terjadi
+heteroskedastisitas. Model regresi yang baik adalah terjadi homoskedastisitas yang berarti
+sama (homo) dan sebaran (scedasticity) memiliki variance yang sama (equal variance)
+(Ghozali, 2011). Untuk menentukan hasil dari heteroskedastisitas dapat menggunakan
+pengujian statistik yaitu uji Glejser. Hasil uji Glejser dapat dilihat pada Tabel 6.
+
+Tabel 6. Uji Heteroskedastisitas
+Coefficientsa
+Model Unstandardized Coefficients Standardized
+Coefficients
+t Sig.
+B Std. Error Beta
+1
+(Constant) -1837,003 6010,445 -,306 ,764
+ldr 35,378 65,505 ,319 ,540 ,597
+npl -21,412 468,095 -,022 -,046 ,964
+car -41,591 174,218 -,063 -,239 ,815
+roe 27,136 41,715 ,236 ,651 ,525
+
+
+a. Dependent Variable: ABS_RES
+Dari Tabel 6 dapat diketahui bahwa nilai signifikansi masing-masing dari keempat
+variabel independen lebih dari 0,05. Dengan demikian dapat disimpulkan bahwa tidak
+terjadi masalah heteroskedastisitas pada model regresi.
+Pengujian Regresi Linier Berganda. Analisis statistik yang digunakan dalam penelitian
+ini yaitu regresi linier berganda. Analisis ini digunakan untuk mengetahui besarnya
+pengaruh variabel-variabel bebas (independen) yaitu LDR, NPL, CAR dan ROE terhadap
+variabel terikat (dependen) yaitu Harga Saham. Berdasarkan perhitungan melalui
+komputer dengan menggunakan program SPSS versi 20 diperoleh hasil regresi
+sebagaimana terlihat pada Tabel 7.
+
+
+
+Tabel 7. Uji Regresi Linier Berganda
+Coefficientsa
+Model Unstandardized Coefficients Standardized
+Coefficients
+t Sig.
+B Std. Error Beta
+1
+(Constant) 5606,854 9950,352 ,563 ,581
+ldr -304,468 108,444 -,594 -2,808 ,013
+npl 966,051 774,936 ,220 1,247 ,232
+car 1262,192 288,419 ,411 4,376 ,001
+roe 214,755 69,059 ,405 3,110 ,007
+
+
+a. Dependent Variable: harga_saham
+
+
+Berdasarkan hasil pengujian regresi linier diatas, pengaruh variabel-variabel bebas
+terhadap harga saham dapat ditentukan dengan persamaan berikut:
+
+Harga Saham = 5.606,85 + 1.262,19CAR + 966,05 NPL + 214,75ROE – 304,47LDR
+Dari persamaan tersebut diketahui bahwa variabel bebas yang paling besar pengaruhnya
+adalah CAR dengan koefisien sebesar 1.262,192. Variabel yang paling kecil pengaruhnya
+adalah ROE dengan koefisien 214,755. Dari persamaan tersebut dapat terlihat juga bahwa
+variabel bebas CAR dan ROE berpengaruh positif terhadap Harga Saham yang berarti
+meningkatnya kedua variabel ini akan menaikkan nilai Harga Saham. Sedangkan variabel
+LDR memberikan pengaruh negatif terhadap Harga Saham, yang berarti meningkatnya
+LDR mengakibatkan menurunnya nilai Harga Saham.
+Uji Koefisien Determinasi. Koefisien determinasi R square (R2) pada intinya mengukur
+seberapa jauh kemampuan variabel independen mempengaruhi dependen. Hasil pengujian
+koefisien determinasi dapat dilihat pada Tabel 8.
+
+
+Tabel 8. Uji Koefisien Determinasi
+Model Summary
+Model R R Square Adjusted R
+Square
+Std. Error of the
+Estimate
+1 ,937a ,878 ,846 1672,18452
+a. Predictors: (Constant), roe, car, npl, ldr
+
+
+
+Berdasarkan Tabel di atas, koefisien determinasi R square (R2) adalah sebesar 0,878. Hal
+ini berarti 87,8% Harga Saham dipengaruhi oleh variabel LDR, NPL, CAR dan ROE,
+sisanya dipengaruhi variabel lain yang tidak termasuk dalam pengujian ini.
+Hipotesis – Hipotetis. Hipotesis berfungsi sebagai pegangan sementara atau jawaban
+sementara yang masih harus dibuktikan kebenarannya di dalam kenyataan (empirical
+verification), percobaan (experimentation) atau praktik (implementation). Dalam hipotesis
+diperlukan adanya asumsi dasar yang dimuat secara bebas tetapi logis, asumsi tersebut
+menjelaskan bahwa hipotesis merupakan jawaban sementara terhadap permasalahan
+penelitian sampai terbukti atau tidaknya hasil penelitian. Hipotesis dalam penelitian ini
+adalah:
+Ho : LDR, NPL, CAR dan ROE secara simultan tidak berpengaruh terhadap harga saham.
+H1 : LDR secara parsial tidak berpengaruh terhadap harga saham.
+H2 : NPL secara parsial tidak berpengaruh terhadap harga saham.
+H3 : CAR secara parsial tidak berpengaruh terhadap harga saham.
+H4 : ROE secara parsial tidak berpengaruh terhadap harga saham.
+Uji Statistik F. Uji F atau uji statistik F pada dasarnya menunjukkan apakah semua
+variabel bebas yang digunakan dan dimasukkan ke dalam model mempunyai pengaruh
+secara bersama-sama atau simultan terhadap variabel terikat. Dalam hal ini untuk
+mengetahui apakah variabel LDR, NPL, CAR dan ROE berpengaruh atau tidak
+berpengaruh terhadap Harga Saham. Hasil uji statistik F ditunjukkan pada Tabel 9.
+
+
+Tabel 9. Uji Statistik F
+ANOVAa
+Model Sum of Squares df Mean Square F Sig.
+1
+Regression 302421775,548 4 75605443,887 27,039 ,000b
+Residual 41943016,252 15 2796201,083
+Total 344364791,800 19
+a. Dependent Variable: harga_saham
+b. Predictors: (Constant), roe, car, npl, ldr
+
+
+
+
+
+Berdasarkan hasil tabel uji ANOVA atau F test yang ditunjukkan pada Tabel 9
+diperoleh nilai F hitung sebesar 27,039 dengan tingkat signifikansi 0,000. F tabel statistik
+pada tingkat signifikansi 0,05 dengan df 1 = 4 dan df 2 = 15, diperoleh hasil untuk F tabel
+sebesar 3,056. Karena F hitung > F tabel atau 27,039 > 3,056 maka Ho ditolak. Jadi dapat
+disimpulkan bahwa keempat variabel bebas secara simultan berpengaruh terhadap Harga
+Saham. Dengan tingkat signifikasi dibawah 0,05 (0,002 < 0,05) maka disimpulkan bahwa
+keempat variabel bebas berpengaruh signifikan terhadap variabel terikat.
+Uji Statistik t. Uji t atau uji statistik t pada dasarnya menunjukkan seberapa jauh
+pengaruh satu variabel bebas terhadap variabel terikat dengan menganggap variabel bebas
+lainnya konstan (Ghozali, 2011:17). Dalam hal ini untuk mengetahui apakah secara parsial
+variabel LDR, NPL, CAR dan ROE berpengaruh atau tidak berpengaruh terhadap Harga
+Saham. Hasil uji statistik t dapat ditunjukkan pada Tabel 10.
+
+
+Tabel 10. Uji Statistik t
+Model Unstandardized Coefficients Standardized
+Coefficients
+t Sig.
+B Std. Error Beta
+1
+(Constant) 5606,854 9950,352 ,563 ,581
+ldr -304,468 108,444 -,594 -2,808 ,013
+npl 966,051 774,936 ,220 1,247 ,232
+car 1262,192 288,419 ,411 4,376 ,001
+roe 214,755 69,059 ,405 3,110 ,007
+a. Dependent Variable: harga_saham
+
+
+
+
+Nilai t tabel dengan tingkat signifikansi 0,05/2 = 0,025 (uji 2 sisi), pada derajat
+kebebasan df = 15, diperoleh nilai t tabel sebesar -2,086/2,086. Dengan membandingkan
+antara t hitung dan t tabel maka diperoleh hasil sebagai berikut:
+1.Karena t hitung LDR > t tabel LDR (2,808 > 2,086) maka H1 ditolak, artinya LDR
+berpengaruh terhadap harga saham
+2.Karena t hitung NPL < t tabel NPL (1,247 < 2,808) maka H2 diterima, artinya NPL
+tidak berpengaruh terhadap harga saham.
+3.Karena t hitung CAR > t tabel CAR (4,376 > 2,808) maka H3 ditolak, artinya CAR
+berpengaruh terhadap harga saham.
+4.Karena t hitung ROE > t tabel ROE (3,110 > 2,808) maka H4 ditolak, artinya ROE
+berpengaruh terhadap harga saham.
+Berdasarkan hasil pengujian tersebut juga diketahui bahwa tingkat signifikansi LDR,
+CAR, ROE masing-masing sebesar 0,013, 0,001 dan 0,007. Karena tingkat signifikansi
+tersebut berada dibawah 0,05 maka dapat dikatakan LDR, CAR, ROE secara parsial
+berpengaruh signifikan terhadap harga saham. Sementara tingkat signifikansi NPL sebesar
+0,232 atau berada diatas 0,05. Dengan demikian dapat dikatakan NPL tidak signifikan
+terhadap harga saham.
+Secara rata-rata, rasio LDR 10 bank mengalami kenaikan kinerja dari 89,02% pada
+tahun 2013 menjadi 90,17% pada tahun 2014. Sejalan dengan rasio LDR, kinerja rasio
+CAR juga mengalami perbaikan dari rata-rata sebesar 15,39% pada tahun 2013 menjadi
+rata-rata sebesar 16,11% pada tahun 2014. Namun, kinerja rasio NPL dan rasio ROE
+mengalami penurunan. Rasio NPL naik dari rata-rata sebesar 1,92% pada tahun 2013
+menjadi rata-rata sebesar 2,21% pada tahun 2014. Rasio ROE turun dari rata-rata sebesar
+20,68% pada tahun 2013 menjadi rata-rata sebesar 16,52% pada tahun 2014.
+Walaupun terjadi penurunan kinerja pada rasio NPL dan ROE, namun rata-rata harga
+saham 10 bank menunjukkan kenaikan dari rata-rata sebesar Rp. 3.644,50 per lembar
+saham pada tahun 2013 menjadi rata-rata sebesar Rp. 5.109,30 per lembar saham pada
+tahun 2014. Kenaikan harga saham ini dapat terjadi karena harga saham sangat
+dipengaruhi oleh kenaikan rasio CAR yang terjadi pada tahun 2014. Sebagaimana yang
+dihasilkan dari rumusan regresi linier diatas ; Harga Saham = 5.606,85 + 1.262,19CAR +
+966,05 NPL + 214,75ROE – 304,47LDR.
+
+
+
+
+
+
+PENUTUP
+Simpulan. Berdasarkan hasil penelitian yang telah dilakukan dalam menguji pengaruh
+variabel LDR, NPL, CAR dan ROE terhadap harga saham bank terkemuka di Indonesia
+pada periode 2013-2014, diperoleh kesimpulan bahwa secara parsial LDR, CAR, ROE
+berpengaruh signifikan terhadap harga saham. Sementara NPL tidak berpengaruh terhadap
+harga saham. Secara simultan LDR, NPL, CAR dan ROE berpengaruh signifikan terhadap
+harga pasar saham. Dengan koefisien determinasi R square (R2) sebesar 0,878, berarti
+perubahan LDR, NPL, CAR dan ROE secara bersama-sama dapat digunakan sebagai
+variabel untuk memprediksi perubahan harga saham.
+Saran. Bagi para peneliti selanjutnya, disarankan untuk mengukur pengaruh kinerja
+keuangan terhadap harga saham dengan membandingkan langsung pos-pos tertentu dalam
+laporan keuangan terhadap harga saham tersebut. Misalnya, mengukur pengaruh laba
+bersih terhadap harga saham, mengukur pengaruh arus kas dari aktivitas operasi terhadap
+harga saham dan seterusnya. Sehingga dapat meminimalisir kesimpulan yang mungkin
+menjadi bias akibat adanya perbedaan kebijakan dalam mengukur rasio keuangan yang
+sama pada masing-masing bank.

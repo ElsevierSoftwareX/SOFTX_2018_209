@@ -1,0 +1,53 @@
+﻿ABSTRAK 
+Dalam dunia perkapalan, purifier sangat dibutuhkan untuk memisahkan air didalam bahan bakar.Purifier dapat berputar menggunakan daya dari motor yang disambung dengan Safety Joint. Safety Joint merupakan komponen dari purifier yang memiliki umur pendek yakni berkisar 6 bulan pemakaian. Safety Joint berfungsi sebagai pengaman saat terjadi beban berlebih. Tujuan dari penelitian ini adalah mengetahui mekanisme kegagalan Safety Joint dan mengetahui karakteristik (struktur dan sifat) Safety Joint. Metode penelitian yang digunakan adalah dengan melakukan survei dikapal disertai dengan studi literatur dan juga bimbingan oleh dosen pembimbing. Dari hasil survei dan bimbingan oleh dosen pembimbing, dilakukan proses analisa kegagalan yang meliputi pengamatan visual, pengujian komposisi kimia, pengujian kekerasan, pengujian mikrografi. Dari pengujian diperoleh hasil pengamatan visual Safety Joint mengalami kegagalan saat terjadi beban berlebih yang didukung hasil pengujian kekerasan dan mikrografi. Dengan pengujian kekerasan diperoleh nilai 74,1 HRB untuk arah x, 73,6 HRB untuk arah y, 80,8 HRB untuk arah melingkar. Untuk analisa tegangan diperoleh tegangan maksimal dari Safety Joint sebesar 41,6 MPa dan tegangan dari Safety Joint sendiri sebesar 62,5 MPa. Maka disimpulkan Safety Joint mengalami kegagalan saat terjadi beban berlebih. 
+
+Kata kunci : Safety Joint, Pengamatan visual, Pengujian kekerasan, Pengujian struktur kimia, Pengujian mikrografi
+
+
+
+ BAB I 
+PENDAHULUAN 
+1.1. Latar Belakang 
+
+Purifier banyak dipakai pada dunia perkapalan. Bahan bakar diambil dari tangki oleh purifier. Dari purifier ini bahan bakar dipisahkan antara bahan bakar murni dan air yang terkandung didalamnya. Purifier ini digerakkan oleh sebuah motor listrik dan dikopel dengan sebuah Safety Joint. Safety Joint ini merupakan salah satu pengamanan untuk kerja dari purifier dimana pada saat purifier mengalami overload maka secara otomatis dapat diputuskan melalui Safety Joint. Oleh karena itu, daya tahan ini komponen sangat penting. Karena faktor-faktor ini, batang penghubung telah menjadi topik penelitian untuk berbagai aspek seperti teknologi produksi, bahan, kinerja simulasi, kelelahan, dll [1]. 
+
+Penelitian ini dimaksudkan untuk mengetahui mekanisme terjadinya kegagalan Safety Joint pada purifier. Pada kasus ini kegagalan terjadi pada bagian Safety Joint. Kegagalan Safety Joint biasanya terjadi karena kelelahan dari material Safety Joint. Untuk mengetahui penyebab kegagalan dari material Safety Joint, dilakukan berbagai pengujian. Pengujian yang dilakukan antara lain pengujian sifat mekanik, pengujian komposisi kimia, dan pengujian struktur mikro. Dari pengujian tersebut dapat diketahui nilai kekerasan dari Safety Joint, unsur penyusun Safety Joint dan struktur mikronya. Pengujian ini akan digunakan untuk mengetahui sifat-sifat material dan dari pengujian ini dapat digunakan untuk mengetahui penyebab kegagalan dari Safety Joint. 
+
+1.2. Alasan Pemilihan Judul 
+Komponen Safety Joint merupakan komponen yang menerima beban mekanik yang tinggi karena hasil pembakaran. Safety Joint akan mendapatkan beban maksimal saat beroperasi. Masalah terjadi pada small end Safety Joint yang mengalami deformasi dan mengakibatkan suara mesin menjadi kasar. Oleh karena itu penulis ingin mengetahui penyebab dari kegagalan Safety Joint serta perubahan komposisi, struktur mikro, dan kekerasan yang terjadi. 
+
+1.3. Tujuan Penelitian 
+Tujuan yang ingin dicapai dalam Penelitian Tugas Akhir ini adalah sebagai berikut : 
+1. Mengetahui mekanisme kegagalan Safety Joint. 
+2. Mengetahui karakteristik (struktur dan sifat) Safety Joint. 
+
+1.4. Batasan Masalah 
+Beberapa batasan yang diambil dalam Tugas Akhir ini adalah : 
+1. Tidak membahas tentang perpindahan panas yang terjadi pada proses pembakaran. 
+2. Beban-beban yang terjadi pada struktur Safety Joint adalah dari daya maksimal motor yang didapatkan dari sumber / referensi. 
+3. Safety Joint yang digunakan adalah Safety Joint pada purifier di kapal. 
+
+1.5. MetodePenelitian 
+Metode penelitian yang digunakan penulis dalam penulisan tugas akhir adalah: 
+1. Studi Pustaka 
+
+Studi pustaka adalah suatu metode yang dipergunakan dalam penelitian ilmiah yang dilakukan dengan membaca dan mengolah data yang diperoleh dari literatur. Data yang dibaca dan diolah adalah data yang berhubungan dengan hasil-hasil penelitian yang telah dilakukan oleh para peneliti sebelumnya tentang: 
+a. Material Safety Joint 
+b. Sifat mekanik dari Safety Joint 
+c. Standard ASTM, JIS, dan lain lain untuk Safety Joint 
+2. Pengamatan kondisi Safety Joint secara visual 
+a. Membandingkan antara kondisi Safety Joint baru dengan Safety Joint yang lama (yang mengalami kegagalan). 
+b. Pengecekan secara visual pada Safety Joint mengenai penyebab kegagalan 
+
+3. Studi lapangan dan percobaan 
+
+Metode ini dilakukan dengan mengamati kondisi real dilapangan serta melakukan pengujian pada benda uji. 
+a. Analisa struktur mikro / Metallography 
+b. Analisa komposisi kimia Safety Joint. 
+c. Analisa uji kekerasan 
+4. Bimbingan 
+
+Bertujuan untuk mendapatkan tambahan pengetahuan dan masukan dari dosen pembimbing serta koreksi tehadap kesalahan - kesalahan yang terjadi dalam penyusunan laporan Tugas Akhir. 
+
+1.6. Sistematika Penelitian 
+Buku Tugas Akhir disajikan dalam 5 bab. Bab I Pendahuluan berisi tentang latar belakang masalah, tujuan penulisan, pembatasan masalah, metode penulisan dan sistematika penulisan. Bab II Dasar Teori berisi tentang landasan teori yang berkaitan dengan analisa kegagalan pada Safety Joint pada purifier di kapal. Bab III Metode Penelitian berisikan tentang persiapan pengujian, proses pembuatan spesimen, peralatan dan bahan yang digunakan, serta pengujian kekerasan dan mikrografi. Bab IV Hasil dan Analisis berisikan tentang data - data hasil pengujian dan analisa data berdasarkan teori yang ada. Bab V Penutup berisi tentang kesimpulan dan saran yang diambil dari hasil analisis pada bab-bab sebelumnya. Laporan Tugas Sarjana ini diakhiri dengan daftar pustaka dan lampiran.

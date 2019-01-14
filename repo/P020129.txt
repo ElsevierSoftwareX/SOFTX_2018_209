@@ -1,0 +1,137 @@
+﻿ABSTRAK
+Membran nanofiber berbahan selulosa asetat telah berhasil dibuat dengan
+teknik electrospinning menggunakan larutan dop dengan perbandingan 15%
+selulosa asetat, 8% formamida, dan 77% aseton. Pada proses electrospinning,
+dilakukan optimasi flow rate larutan dop dengan variasi 0.1, 0.3, 0.5, dan 0.7
+μL/h, optimasi bentuk kolektor, dan optimasi waktu yang dibutuhkan dalam
+pembuatan membran dengan variasi 1, 3, 5 dan 7 jam. Dari hasil penelitian
+diperoleh membran nanofiber yang optimum dibuat dengan flow rate sebesar 0.1
+μL/h, kolektor berbentuk drum atau silinder dan waktu optimum pembuatan
+membran selama 5 jam. Dari membran nanofiber yang optimum tersebut
+didapatkan hasil karakterisasi membran meliputi ketebalan membran sebesar 0.32
+mm, hidrofilisitas membran yaitu membran bersifat hidrofilik karena sudut kontak
+semakin kecil selama waktu kurang dari 5 menit, hasil ukuran pori yang sebesar 1
+μm, kekuatan mekanik membran berupa tegangan (stress) sebesar 0.00245 MPa,
+regangan (strain) sebesar 2.1209, dan Modulus Young sebesar 1.15777 x 10-5
+GPa. Membran nanofiber belum dapat diaplikasikan secara sempurna dalam
+proses hemodialisis kreatinin disebabkan dari hasil uji kinetik membran, membran
+mempunyai nilai fluks sebesar 9,186.736 L/m2.jam dan koefisien rejeksi yang
+kecil sebesar 1.35%.
+Kata Kunci: Membran nanofiber, Selulosa Asetat, Electrospinning, hemodialisis,
+kreatinin
+
+BAB 1
+PENDAHULUAN
+1.1. Latar Belakang Masalah
+Gagal ginjal (renal atau kidney failure) adalah kasus penurunan fungsi
+ginjal yang terjadi secara akut maupun kronis. Dikatakan gagal ginjal akut (acute
+renal failure) bila penurunan fungsi ginjal berlangsung secara tiba-tiba, tetapi
+kemudian dapat kembali normal setelah penyebabnya segera dapat diatasi.
+Sedangkan gagal ginjal kronis (chronic renal failure) gejalanya muncul secara
+bertahap biasanya tidak menimbulkan gejala awal yang jelas sehingga penurunan
+fungsi ginjal tersebut sering tidak dirasakan namun setelah mengetahui telah
+mengalami tahapan parah yang sulit diobati (Alam, 2008).
+Pada umumnya, penanganan pasien gagal ginjal dilakukan dengan
+transplantasi ginjal, Peritoneal Dyalisis (PD) dan atau Hemodyalisis (HD) (Alam,
+2008). Transplantasi ginjal merupakan cara yang paling ideal, tetapi banyak
+terkendala oleh ketersediaan donor ginjal, teknik operasi dan perawatan pasca
+operasi serta segi biaya (Purwanto, 2007). Sedangkan dalam Peritoneal Dyalisis
+(PD), lapisan internal perut bertindak sebagai ginjal buatan dan proses dialisis
+harus dilakukan setiap hari. Setiap proses pemasangan kateter harus dilakukan
+secara ekstra hati-hati untuk menghindari infeksi pada peritoneum sehingga PD
+dianggap kurang efisien selain dari alasan tersebut, PD dalam proses dialisisnya
+membutuhkan banyak tempat serta pasien diharuskan selalu membawa 1 hingga 2
+liter cairan dialisat peritoneal (Crowley, 2009).
+
+Hemodialisis merupakan cara yang efektif yang memungkinkan dapat
+mengobati pasien gagal ginjal. Prinsip dari hemodialisis adalah mengalirkan darah
+pasien ke dalam mesin dialiser secara difusi dan ultrafiltrasi, kemudian darah
+kembali lagi kedalam tubuh pasien. Hemodialisis memerlukan akses ke sirkulasi
+darah pasien, suatu mekanisme untuk membawa darah pasien ke dan dari dializen
+(tempat terjadi pertukaran cairan, elektrolit, dan zat sisa tubuh), serta dialiser
+(Baradero et al., 2009). Pada prosesnya di dalam dialiser, darah dan cairan
+dialiser dipisahkan oleh membran dialisis dimana membran ini dapat dilalui oleh
+air dan zat-zat tertentu seperti urea dan kreatinin sehingga terjadi proses
+hemodialisis tersebut (Post, 2010).
+Membran dialisis merupakan membran semipermeabel yang mampu
+melewatkan spesi tertentu dan menahan spesi yang lain berdasarkan ukuran spesi
+yang akan dipisahkan. Spesi yang memiliki ukuran lebih besar akan tertahan dan
+spesi dengan ukuran yang lebih kecil dapat melewati membran sehingga membran
+memiliki sifat transpor yang selektif. Membran yang digunakan dalam proses
+hemodialisis harus memiliki sifat mekanik yang kuat, efisiensi, dan fluks yang
+tinggi. Membran dengan efisiensi tinggi memiliki kemampuan yang lebih besar
+untuk menghilangkan air, kreatinin dan molekul lainnya dari darah. Membran
+dialisis juga harus memiliki sifat aman terhadap lingkungan dan tidak
+memerlukan penambahan zat kimia pada proses pemisahannya (Edward et al.,
+2008).
+Membran dialisis berupa nanofiber dapat dibuat dari berbagai material
+organik (polimer) seperti polisulfon dan selulosa asetat (Sumardjo, 2009).
+
+Selulosa asetat (CA) adalah salah satu turunan selulosa yang paling penting yang
+dapat digunakan untuk berbagai aplikasi yang berbeda, seperti coating, film,
+tekstil dan membran polimer sintetik. Di antara berbagai jenis CA, yang paling
+dieksploitasi adalah asetat dengan derajat substitusi (DS) dari 2,4-2,5 (Fischer et
+al., 2008 dan Steinmeier, 2004). Selain dikarenakan larut dalam aseton, CA
+penting dalam industri karena toksisitas rendah (Sun et al., 2013). Selulosa asetat
+juga memiliki sifat hidrofilik sehingga tahan fouling dalam hemodialisis dan
+permeabilitas serta termostabilitas yang baik.
+Sebelumnya telah dilakukan penelitian pembuatan membran nanofiber
+dengan metode drawing, yaitu teknik pembuatan nanofiber dengan menyentuhkan
+mikropipet pada droplet dan menariknya (Nain et.al., 2006), dengan cara template
+synthesis, yaitu dengan menekan larutan polimer pada celah membran yang kecil
+untuk menghasilkan nanofiber (Zelenski et.al., 1998), dan juga dengan metode
+inversi fasa (Indarti et al., 2013) namun membran masih menunjukkan kinerja
+yang kurang optimal seperti ukuran pori membran yang masih besar yang jika
+digunakan sebagai membran hemodialisis dapat memungkinkan molekul lain
+untuk melewati membran. Maka diperlukan metode atau teknik alternatif lain
+untuk meningkatkan kinerja dari membran nanofiber sehingga dapat diaplikasikan
+dalam hemodialisis kreatinin.
+Electrospinning adalah teknologi yang umumnya digunakan untuk
+pembentukan serat secara elektrostatik yang memanfaatkan kekuatan listrik untuk
+menghasilkan serat polimer dengan diameter berukuran nano menggunakan
+senyawa polimer baik polimer alami maupun sintetis. Proses electrospinning telah mendapatkan banyak perhatian karena fleksibilitas bahan yang bisa digunakan,
+dan kemampuannya untuk menghasilkan serat dalam kisaran submikron. Serat
+submikron adalah serat yang dinyatakan sulit dicapai dengan menggunakan
+metode pemintalan serat mekanis konvensional. Teknik ini telah dikenal selama
+lebih dari 60 tahun di industri tekstil untuk pembuatan kain serat non-woven.
+Dalam beberapa tahun terakhir, telah terjadi peningkatan minat dalam
+memanfaatkan teknologi ini untuk menghasilkan serat nano. Peningkatan minat
+untuk pembuatan serat nano sebagian besar menggunakan berbagai jenis polimer
+alami dan sintetis untuk teknologi jaringan. Polimer alami dan sintetis yang
+digunakan meliputi: asam polilaktik (PLA) (Yang et al., 2005); poliuretan
+(Stankus et al., 2004); kolagen (Matthews et al., 2002); hyaluronic acid (asam
+hialuronik) (Um et al., 2004); selulosa (Ma et al., 2005); kitosan/kolagen (Chen et
+al., 2007); dan starch (pati) seperti cassava starch (pati singkong)
+(Sunthornvarabhas et al., 2010). Dan hingga saat ini, electrospinning adalah satusatunya
+teknik yang tersedia untuk produksi serat dengan diameter sangat kecil.
+(Dersch et.al., 2005) sehingga electrospinning dapat menjadi teknik alternatif
+untuk meningkatkan kinerja membran nanofiber.
+Dalam penelitian ini dilakukan pembuatan membran nanofiber dengan
+teknik electrospinning yang diharapkan dapat memberikan kinerja yang lebih
+optimal sehingga dapat diterapkan dalam penanganan pasien gagal ginjal.
+Membran yang dihasilkan kemudian dikarakterisasi dengan pengukuran ketebalan
+membran, uji mekanik membran, dan uji morfologi dengan instrumen SEM
+kemudian membran nanofiber diaplikasikan pada hemodialisis kreatinin.
+
+1.2. Rumusan Masalah
+1. Bagaimana pengaruh electrospinning dalam pembuatan membran
+nanofiber sebagai hemodialisis kreatinin dan karakterisasi membran
+nanofiber?
+2. Bagaimana optimasi bentuk kolektor dan flow rate larutan dop pada
+pembuatan membran nanofiber?
+3. Bagamaina optimasi lama waktu yang digunakan pada pembuatan
+membran nanofiber?
+1.3. Tujuan Penelitian
+1. Menentukan pengaruh electrospinning dalam pembuatan membran
+nanofiber sebagai hemodialisis kreatinin dan hasil karakterisasi membran
+nanofiber.
+2. Menentukan bentuk kolektor dan nilai flow rate larutan dop yang optimum
+pada pembuatan membran nanofiber.
+3. Menentukan lama waktu optimum yang digunakan pada pembuatan
+membran nanofiber.
+1.4. Manfaat Penelitian
+Penelitian ini diharapkan dapat memberi manfaat bagi ilmu pengetahuan,
+menjadi referensi informasi data ilmiah mengenai penggunaan electrospinning
+dalam pembuatan membran nanofiber selulosa asetat, memberikan alternatif parameter dalam proses pembuatan membran nanofiber sehingga dapat
+diaplikasikan dalam bidang kesehatan khususnya kebutuhan para penderita gagal
+ginjal untuk hemodialisis kreatinin.

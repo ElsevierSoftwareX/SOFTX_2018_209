@@ -1,0 +1,799 @@
+﻿ 
+
+Model Penjadwalan Pengiriman Pasokan pada Strategi Multi
+Supplier dengan Variasi Harga dan Lead Time 
+
+untuk Permintaan Stokastik 
+
+
+
+ 
+
+Pendahuluan 
+
+ 
+Salah satu tantangan dalam supply chain management adalah kemampuan mengontrol jumlah modal 
+yang dimiliki, yang antara lain tersimpan dalam 
+bentuk investasi inventory, baik bahan baku, work 
+in process, maupun produk jadi (Arda dan Hennet 
+[1]). Pengendalian inventory menjadi aktivitas yang 
+sangat penting pada sebuah perusahaan karena 
+biaya inventory dapat mencapai sekitar 20% hingga 
+40% total nilai tahunan (Ganeshan [2]). Salah satu 
+faktor penting dalam pengendalian inventory adalah 
+penentuan safety stock yang tepat. Safety stock adalah sejumlah inventory, khususnya bahan baku, 
+yang dimiliki perusahaan untuk mencegah terjadinya stock out selama waktu pemesanan akibat 
+adanya fluktuasi permintaan dan lead time pemesanan ke supplier. Penentuan tingkat safety stock 
+yang dipengaruhi oleh lead time pemesanan menunjukkan bahwa kemampuan supplier dalam memenuhi pesanan menjadi faktor penting dalam 
+melakukan pengendalian inventory. Hal inilah yang 
+mendorong setiap perusahaan untuk merancang 
+strategi dalam menggantungkan kebutuhan bahan 
+bakunya kepada supplier. 
+ 
+Pada awalnya banyak perusahaan yang menggunakan strategi single-supplier yang memudahkan perusahaan dalam melakukan pengendalian kualitas 
+dan memungkinkan terciptanya hubungan yang 
+dekat antara perusahaan dan supplier. Namun saat 
+ini, strategi tersebut mulai berkembang menjadi 
+multi-supplier, yaitu strategi dimana perusahaan 
+memiliki beberapa supplier yang memasok jenis 
+bahan baku yang sama. Salah satu faktor perubahan tersebut adalah kebutuhan bahan baku yang 
+semakin meningkat seiring dengan meningkatnya 
+permintaan pelanggan yang berakibat pada meningkatnya kebutuhan bahan baku di lantai produksi. 
+Selain itu, penerapan strategi multi-supplier juga 
+didorong oleh kekhawatiran akan beberapa risiko, 
+seperti monopoli harga, keterlambatan pengiriman 
+karena mesin breakdown, demo buruh, keterbatasan kapasitas, hingga variasi lead time (Minner [3], 
+Sawik [4]). Selain itu, membagi order ke beberapa 
+supplier juga dapat mengurangi jumlah safety stock 
+yang harus disediakan, mengurangi cycle stock, 
+serta incremental ordering cost dari order kedua dan 
+selanjutnya menjadi relatif lebih kecil (Thomas and 
+Tyworth[5]). Melalui strategi multi-supplier, diharapkan perusahaan dapat melakukan penghematan 
+biaya dan meningkatkan service level. 
+ 
+Pada beberapa kasus, strategi multi-supplier 
+memang memberikan hasil yang lebih baik karena 
+lebih memberikan jaminan akan ketersediaan bahan baku. Selain itu, strategi multi-supplier dapat 
+menghindari kemungkinan terjadinya monopoli 
+harga dan kualitas oleh supplier. Sebaliknya, strategi ini justru akan membuat supplier saling berlomba untuk memberikan pelayanan terbaik kepada 
+perusahaan. Kelebihan strategi multi-supplier juga 
+didukung oleh penelitian yang dilakukan oleh Arda 
+dan Hennet [1], yang memberikan kesimpulan bahwa untuk kasus permintaan pelanggan dan keterlambatan pengiriman dari supplier terjadi secara 
+random, strategi multi-supplier memberikan kemungkinan penghematan biaya yang lebih besar 
+dibandingkan dengan strategi single-supplier. 
+ 
+Masalah yang kemungkinan akan dihadapi dalam 
+penerapan strategi multi-supplier adalah bagaimana menentukan porsi pemesanan yang tepat untuk masing-masing supplier dan merencanakan 
+waktu kedatangan serta kuantitas bahan baku pada 
+setiap pengiriman untuk masing-masing supplier. 
+Perencanaan waktu kedatangan dan kuantitas 
+pengiriman yang tepat harus memperhatikan 
+parameter yang dimiliki oleh supplier, seperti lead 
+time pengiriman, kuantitas pengiriman, dan lot size 
+setiap pengiriman, serta mempertimbangkan batasan dari perusahaan, seperti kapasitas warehouse 
+dan batas minimal inventory yang harus dimiliki 
+perusahaan. Permasalahan akan menjadi lebih 
+kompleks karena perbedaan nilai parameter yang 
+dimiliki oleh setiap supplier. Terkait dengan skala 
+perusahaan, setiap supplier dapat memiliki kapasitas yang berbeda dalam proses produksi, sehingga 
+berpengaruh pada kuantitas serta lot size pengiriman yang berbeda-beda untuk setiap supplier. 
+Selain itu, perbedaan asal negara supplier menyebabkan adanya perbedaan waktu pengiriman sehingga setiap supplier akan memiliki lead time yang 
+berbeda dalam memenuhi pesanan. Faktor lain 
+yang menambah kompleksitas dari penerapan strategi multi-supplier adalah adanya perbedaan harga 
+yang diberikan oleh setiap supplier, walaupun memasok untuk jenis bahan baku yang sama. Terkait 
+dengan perencanaan waktu kedatangan dan kuantitas pengiriman, faktor harga patut mendapat perhatian dalam melakukan pemesanan karena faktor 
+tersebut yang akan mempengaruhi jumlah modal 
+yang tersimpan dalam bentuk inventory di 
+warehouse. 
+ 
+Penelitian-penelitian di bidang multi-supplier telah 
+banyak dilakukan dengan berbagai macam tujuan 
+dan variable keputusan yang digunakan seperti menentukan jumlah pemesanan yang optimum (Sawik 
+[4], Silbermayr dan Minner [6], Song et al. [7], Yin et 
+al. [8], Abginechi et al. [9]), jumlah supplier optimum 
+(Abginehchi et al [9], Guo and Ganeshan [10], dan 
+Geetha and Achary [11]), titik pemesanan ulang 
+optimum (Abginechi et al. [9]). Penelitian ini sejalan 
+dengan penelitian-penelitian di bidang multisupplier yang telah dilakukan, namun berbeda 
+dengan penelitian lain, penekanan pada penelitian 
+ini adalah penjadwalan waktu kedatangan dan 
+kuantitas pengiriman bahan baku pada strategi 
+
+multi-supplier dengan mempertimbangkan perbedaan nilai parameter dari setiap supplier, kemampuan 
+pasokan dari supplier, dan batasan dari perusahaan 
+serta mempertimbangkan adanya ketidakpastian 
+permintaan. Penelitian diawali dengan penentuan 
+batas minimal inventory untuk menghindari terjadinya stock out akibat ketidakpastian permintaan, 
+yang selanjutnya akan digunakan sebagai parameter dalam melakukan pengembangan model matematika 
+ 
+
+Metode Penelitian 
+
+ 
+
+Penelitian tentang multi-supplier telah banyak 
+dilakukan dengan tujuan yang berbeda-beda seperti 
+menentukan tingkat safety stock, menentukan 
+jumlah supplier yang optimum, menentukan porsi 
+pemesanan untuk masing-masing supplier, dan 
+mengembangkan model matematika yang dapat 
+digunakan untuk membuat sistem penjadwalan 
+kedatangan serta kuantitas setiap pengiriman dari 
+masing-masing supplier. 
+ 
+Thomas dan Tyworth [5] melakukan kajian pustaka 
+mengenai pooling lead time risk melalui pembagian 
+order (order splitting) ke beberapa supplier. Risetriset di bidang ini secara umum dapat dikategorikan 
+menjadi tiga bidang yaitu riset yang mempelajari 
+tentang efek dari order splitting terhadap effective 
+lead time, riset yang menekankan pada analisis total 
+cost, dan riset yang lebih focus kepada pengurangan 
+cycle stock. Isu utama yang diangkat dalam 
+penelitian ini adalah apakah penghematan dari sisi 
+safety stock holding cost dan shortage cost dapat 
+mengimbangi incremental ordering cost. 
+ 
+Variabel keputusan yang digunakan dalam kasus 
+multi-supplier bervariasi seperti porsi pemesanan 
+setiap supplier, inventory level, jumlah supplier yang 
+optimum, waktu pengiriman barang, dan kuantitas 
+pengiriman barang. Penentuan porsi pemesanan 
+optimum antara lain dilakukan oleh Arda dan 
+Hennet [1]. Arda dan Hennet [1] melakukan penelitian dengan tujuan untuk meminimumkan ratarata biaya penyimpanan dan biaya stockout. Penelitian terfokus pada kondisi stokastik dimana permintaan pelanggan dan lead time dari supplier 
+diasumsikan random. Penelitian tersebut menggunakan complex non-linear function untuk memodelkan biaya yang harus dikeluarkan. Decision 
+variable pada penelitian ini adalah level inventory 
+dan persentase pemesanan kepada masing-masing 
+supplier. Perhitungan level inventory dilakukan 
+dengan mengasumsikan bahwa permintaan pelanggan dan lead time supplier adalah stasioner. Persentase pemesanan ditentukan dengan menggunakan 
+metode Bernoulli Splitting Process dengan Bernoulli 
+branching parameters, dimana persentase optimal 
+
+untuk masing-masing supplier diperoleh ketika 
+sudah tercapai kondisi steady state. Hasil penelitian 
+tersebut menunjukkan bahwa pada kondisi stokastik, penerapan multi-supplier menghasilkan biaya 
+yang lebih rendah jika dibandingkan dengan strategi single-supplier. 
+ 
+Penelitian lain yang menggunakan porsi pemesanan 
+sebagai variabel keputusan dilakukan oleh Chang et 
+al. [12] yang mengembangkan model matematis 
+dengan pendekatan mixed integer untuk menentukan jumlah pemesanan optimal kepada masingmasing supplier. Penentuan jumlah pemesanan 
+optimal ini dilakukan dengan mempertimbangkan 
+variasi lead time, price-quantity discount (PQD), dan 
+keterbatasan sumber daya yang berbeda-beda 
+untuk masing-masing supplier, dengan batasan 
+bahwa stock yang dimiliki harus dapat memenuhi 
+permintaan setiap periode dan tidak melebih batas 
+maksimum kapasitas warehouse. Tujuan yang ingin 
+dicapai dari penelitian ini adalah untuk meminimumkan holding cost dan ordering cost, yang 
+diasumsikan sama untuk setiap supplier. Model 
+mixed integer juga digunakan oleh Lee et al. [13] 
+untuk menentukan lot size yang optimal pada kasus 
+multi-supplier, multi-period, dengan mempertimbangkan adanya quantity discount. Dalam hal ini 
+permintaan dan lead time dari supplier diasumsikan 
+deterministik dan telah diketahui sebelumnya. 
+Meena dan Sarmah [14] mengembangkan model 
+Mixed Integer Non-Linear Programming untuk 
+menentukan optimum alokasi order untuk masingmasing supplier dengan mempertimbangkan perbedaan kapasitas dari masing-masing supplier, kemungkinan kegagalan pengiriman, dan quantity 
+discount. Model diselesaikan dengan menggunakan 
+algoritma genetika. Dalam hal ini permintaan 
+dianggap konstan dan telah diketahui. Song et al. [7] 
+mengembangkan model stokastik dynamic programming untuk menentukan kebijakan persediaan 
+terintegrasi yang mencakup supplier, manufaktur, 
+dan konsumen. Variabel keputusan yang digunakan 
+adalah kuantitas pemesanan dari masing-masing 
+supplier dengan mempertimbangkan batasan kapasitas delivery maksimum dari setiap supplier. Dalam 
+kasus ini, permintaan diasumsikan terdistribusi 
+Poisson, lead time dari setiap supplier terdistribusi 
+eksponensial dengan mean berbeda-beda untuk 
+setiap supplier, dan waktu produksi dari manufaktur diasumsikan terdistribusi eksponensial. State 
+yang digunakan dalam hal ini adalah kedatangan 
+material, completion time dari finished good, dan 
+permintaan konsumen. 
+ 
+Variabel keputusan lain yang sering digunakan 
+dalam kasus multi-supplier adalah menentukan 
+jumlah supplier yang optimum. Beberapa penelitian 
+yang menggunakan variabel keputusan ini antara 
+
+lain adalah penelitian yang dilakukan oleh 
+Abginehchi et al. [9], Guo and Ganeshan [10], dan 
+Geetha and Achary [11]. Abginehchi et al. [9] 
+menggunakan sistem continuous review policy 
+dimana pada saat reorder point, order dibagi ke 
+dalam n supplier. Untuk menentukan jumlah supplier yang optimal, diasumsikan lead time dan harga 
+dari semua supplier sama. Algoritma Sequential 
+Quadratic Programming digunakan untuk menyelesaikan model yang terbentuk. Guo dan Ganeshan [9] 
+mengembangkan prosedur untuk menentukan jumlah supplier yang harus digunakan sesuai dengan 
+mean dan variance dari lead time yang diinginkan. 
+Geetha dan Achary [10] melanjutkan penelitian 
+yang dilakukan oleh Guo dan Ganeshan [9] dengan 
+mengembangkan prosedur untuk mendapatkan 
+nilai mean dan variance dari lead time. Prosedur 
+yang dikembangkan menggunakan Generalized 
+Lambda Distribution sebagai pendekatan untuk 
+distribusi lead time. 
+ 
+Beberapa penelitian menggunakan jumlah optimum 
+supplier dan kuantitas pemesanannya sebagai 
+variabel keputusan. Silbermayr dan Minner [6] 
+mengembangkan model Semi-Markov Decision 
+Process (SMDP) untuk menentukan jumlah supplier 
+yang digunakan dan jumlah pemesanan untuk 
+masing-masing supplier. Setiap supplier mempunyai 
+karakteristik yang berbeda dalam hal harga, 
+reliability, dan kecepatan pengiriman. Permintaan 
+diasumsikan mengikuti distribusi Poisson. Hasil 
+riset menunjukkan penggunaan multi-supplier 
+menghasilkan total biaya lebih rendah dibandingkan jika hanya menggunakan supplier tunggal. 
+Yin et al. [8] mengembangkan model non-cooperative 
+game (Stackelberg game) untuk menentukan kebijakan produksi, harga, dan persediaan secara 
+simultan dengan permintaan terdistribusi normal. 
+Fungsi tujuan yang digunakan adalah memaksimumkan profit. Dalam model ini, pertama kali 
+perusahaan akan menentukan jumlah produksi, 
+jumlah pemesanan, memilih supplier dan jumlah 
+order untuk setiap supplier. Selanjutnya akan 
+terjadi proses negosiasi antara supplier dan perusahaan untuk menentukan harga jual berdasarkan 
+jumlah kuantitas pemesanannya. Sawik [4] mengembangkan model stokastik mixed integer 
+programming untuk mengintegrasikan pemilihan 
+supplier dan customer order scheduling dengan 
+mempertimbangkan risiko gangguan pasokan. 
+Gangguan pasokan dalam hal ini dapat berupa 
+bencana alam maupun bencana karena perbuatan 
+manusia. Variabel keputusan yang digunakan 
+dalam model ini adalah supplier yang dipilih, orderto-period assignment, dan jumlah pemesanan untuk 
+setiap supplier. Model ini menggunakan medium 
+term planning horizon. Berdasarkan supplier yang 
+ditentukan dan jumlah pemesanan untuk masing
+
+
+
+
+masing supplier, selanjutnya digunakan untuk 
+menyusun optimal production schedule untuk memenuhi customer order yang akan meminimumkan 
+biaya. 
+ 
+Penentuan level inventory optimum sebagai variabel 
+keputusan digunakan dalam penelitian yang dilakukan oleh Arda dan Hennet [1] dan Osman dan 
+Demirli [7]. Penelitian yang dilakukan oleh Osman 
+dan Demirli [7] bertujuan untuk mencari safety stock 
+terintegrasi pada supply chain dengan beberapa 
+stockpoint. Perhitungan safety stock pada kondisi 
+stokastik tersebut dengan mempertimbangkan adanya variasi demand dan variasi lead time dari setiap 
+supplier. Untuk parameter lead time, digunakan 
+pendekatan maximum yang diperoleh melalui 
+konsep order statistics. Lead time dari setiap 
+supplier diasumsikan independent, serta identik dan 
+terdistribusi normal. Untuk melakukan perhitungan safety stock, digunakan metode generalized 
+lambda distribution, sehingga diperoleh parameter 
+dari pendekatan maksimum,   sebagai mean 
+dan   sebagai variance, untuk n supplier. 
+Tujuan yang ingin dicapai dari penelitian ini adalah 
+untuk dapat memenuhi customer service level 
+dengan biaya pengadaan safety stock minimum. 
+ 
+Model penjadwalan supplier untuk menentukan 
+waktu kedatangan supplier dilakukan antara lain 
+oleh Hum et al. [15]. Hum et al. [15] mengembangkan model matematika untuk membuat penjadwalan multi-supplier pada sebuah perusahaan perakitan komputer. Penjadwalan pengiriman termasuk 
+dalam NP-hard problem dengan tujuan meminimumkan rata-rata level inventory, dengan 
+batasan yang digunakan adalah pattern waktu 
+pengiriman yang berbeda dari setiap supplier dan 
+batas minimal inventory di warehouse atau 
+protection level. Masing-masing supplier memiliki 
+kapasitas pengiriman dan lead time yang berbedabeda. Setiap supplier juga memiliki interval waktu 
+antar pengiriman yang berbeda-beda. Proporsi 
+pemesanan untuk masing-masing supplier sudah 
+ditentukan sebelumnya. Kapasitas setiap pengiriman yang sudah ditentukan oleh setiap supplier, 
+maka variabel keputusan untuk penelitian ini 
+adalah waktu pengiriman dari setiap supplier. 
+Penelitian tersebut juga memperlihatkan hubungan 
+antara level inventory maksimum, rata-rata, dan 
+minimum, untuk menunjukkan bahwa permasalahan penjadwalan pengiriman adalah sama dengan 
+classical inventory staggering problem. Penelitian ini 
+lebih memperhatikan pada terbatasnya kapasitas 
+warehouse, sehingga perlu dilakukan penjadwalan 
+kedatangan bahan baku dari supplier untuk 
+menghindari terjadinya overcapacity. Riezebos 
+dan Zhu [16] mengembangkan prosedur untuk 
+menyusun MRP untuk kondisi multi-supplier 
+
+dengan mempertimbangkan perbedaan lead time 
+antar supplier dan kemungkinan order crossover, 
+yaitu ketika kedatangan order tidak sesuai dengan 
+urutan pemesanannya. Dalam penelitian ini, 
+optimal (s, S) policy dikembangkan dengan menggunakan model dynamic programming. 
+ 
+Berdasarkan beberapa tinjauan pustaka tersebut, 
+banyak penelitian terkait penjadwalan masih menggunakan asumsi nilai parameter yang sama untuk 
+setiap supplier. Sebagai contoh, Osman dan Demirli 
+[16], Arda dan Hennet [1], Abginehchi et al. [9] 
+menggunakan asumsi lead time yang sama untuk 
+setiap supplier. Demikian juga Arda dan Hennet [1], 
+Hum et al. [15] menggunakan asumsi harga yang 
+sama untuk setiap supplier. Osman dan Demirli [16] 
+dan Guo and ganeshan 
+[10] tidak mempertimbangkan harga dari masing-masing supplier di 
+dalam model yang dikembangkan. Meskipun 
+demikian, beberapa penelitian telah mempertimbangkan adanya perbedaan parameter dari setiap 
+supplier. Guo dan Ganeshan [10], Hum et al. [15], 
+dan Chang et al. [12] telah mengakomodasi adanya 
+variasi lead time dari setiap supplier di dalam 
+modelnya. Selain mempertimbangkan variasi lead 
+time, Chang et al. [12] juga mempertimbangkan 
+adanya variasi harga dari setiap supplier. 
+ 
+Penentuan variabel keputusan dan parameter yang 
+digunakan dalam model sangat tergantung pada 
+kondisi perusahaan. Penelitian ini akan mengembangkan model penjadwalan kedatangan order dari 
+supplier untuk meminimumkan total biaya dengan 
+variabel keputusan waktu kedatangan order dan 
+kuantitas pengiriman dari masing-masing supplier 
+dengan mempertimbangkan variasi lead time dan 
+harga dari masing-masing supplier, kemampuan pasokan dari supplier, batasan sumber daya perusahaan (kapasitas gudang dan syarat batas minimum 
+inventory), serta ketidakpastian permintaan. 
+ 
+Deskripsi Sistem 
+ 
+Objek yang digunakan sebagai dasar pengembangan model dalam penelitian ini adalah sistem supply 
+chain sebuah perusahaan multi-nasional yang menerapkan strategi multi-supplier untuk memenuhi 
+kebutuhan bahan bakunya. Masing-masing supplier 
+memiliki porsi atau total jumlah pemesanan yang 
+berbeda, dimana setiap porsi tersebut sudah ditentukan sebelumnya melalui kontrak. Selain porsi pemesanan yang berbeda, masing-masing supplier 
+juga memiliki parameter yang berbeda-beda yang 
+meliputi harga per ton bahan baku, jenis kontrak, 
+lot size, waktu shipping terkait dengan negara asal 
+supplier, serta perjanjian status inventory pada 
+tahap shipping atau Good in Transport. Permintaan 
+terhadap bahan baku dan lead time dari masingmasing supplier bersifat stokastik. 
+
+
+
+
+
+Seluruh bahan baku berasal dari luar negeri. 
+Terdapat dua jenis kontrak yang digunakan oleh 
+supplier, yaitu Estimate to Delivery (ETD) dan 
+Estimate to Arrive (ETA). Supplier yang menerapkan kontrak ETD akan menghitung total jumlah 
+pesanan bahan baku dari seluruh order menggunakan waktu pengiriman bahan baku atau keberangkatan pesanan dari port asal. Supplier yang menerapkan kontrak ETA akan menghitung total jumlah 
+pesanan bahan baku dari seluruh order menggunakan waktu tiba bahan baku di port tujuan, yang 
+berada di Semarang, Indonesia. Berikut adalah 
+tahapan yang dilakukan dalam proses pemesanan 
+bahan baku adalah: (1) Pembuatan dan pengiriman 
+Purchase Order (PO) kepada supplier yang berisi 
+permintaan pengiriman suatu jenis bahan baku 
+dalam jumlah tertentu. Waktu pengiriman PO 
+disebut dengan PO Issued dan setiap PO yang 
+dibuat akan disertai dengan ETA Request, yaitu 
+permintaan waktu kedatangan bahan baku di port 
+tujuan, di Semarang, Indonesia. (2) Pemberian 
+konfirmasi oleh pihak supplier terkait penerimaan 
+PO. (3) Pemberian konfirmasi oleh pihak supplier 
+terkait waktu pengiriman bahan baku dari port 
+negara asal (ETD confirmed) dan perkiraan waktu 
+kedatangan di port negara tujuan (ETA confirmed). 
+ 
+Setelah proses pemesanan, terdapat beberapa 
+proses yang dilewati oleh bahan baku, meliputi 
+pengiriman dan pengendalian kualitas hingga 
+menjadi bahan baku siap pakai. Sesuai perjanjian 
+antara supplier dan perusahaan, hampir seluruh 
+bahan baku yang berada dalam proses pengiriman 
+sudah menjadi inventory milik perusahaan, sehingga waktu pengiriman juga menjadi pertimbangan perusahaan dalam melakukan penjadwalan 
+pengiriman pasokan bahan baku karena akan 
+berpengaruh pada tied up capital cost yang harus 
+ditanggung perusahaan. Beberapa tahapan yang 
+dilalui bahan baku selama proses pengiriman dan 
+pengelolaan adalah: (1) Shipping, yaitu proses 
+pengiriman bahan baku dari negara asal supplier ke 
+negara tujuan perusahaan melalui jalur laut. Durasi 
+shipping untuk setiap pengiriman sangat bergantung pada negara asal supplier dan kondisi 
+cuaca. Pada proses ini, status bahan baku tergantung dari kesepakatan antara supplier dan 
+perusahaan, apakah masih menjadi 
+inventory 
+supplier atau sudah menjadi inventory perusahaan. 
+(2) Customs Clearance (CC), yaitu proses yang 
+dilakukan di port negara tujuan terkait dengan 
+penerimaan barang impor. (3) Quality Inspection 
+(QI), yaitu inspeksi kualitas yang dilakukan oleh QI 
+Department dari perusahaan. (4) Bahan baku akan 
+menjadi ready stock inventory setelah dinyatan lolos 
+Quality Inspection, sedangkan bahan baku yang 
+tidak lolos QI akan diajukan klaim ke pihak supplier 
+untuk selanjutnya dimusnahkan. Ready stock 
+
+inventory bahan baku ini yang kemudian digunakan 
+untuk proses produksi. 
+ 
+Tahapan Penelitian 
+ 
+Pengembangan model diawali dengan melakukan 
+deskripsi sistem dari objek yang diteliti. Berdasarkan deskripsi sistem tersebut selanjutnya dibangun 
+model matematika untuk menjadwalkan kedatangan supplier dan kuantitas setiap pengiriman dari 
+masing-masing supplier. Salah satu batasan yang 
+digunakan dalam model adalah jumlah minimum 
+level inventory (safety stock) yang digunakan untuk 
+mengakomodasi ketidakpastian permintaan dan 
+lead time dari masing-masing supplier. Sesuai 
+dengan kebijakan perusahaan, 
+level minimum 
+inventory tersebut tidak dinyatakan dengan kuantitas bahan baku melainkan dalam perkiraan durasi 
+waktu yang diperlukan untuk menghabiskan bahan 
+baku tersebut yang diistilahkan dengan safety time. 
+Oleh karena itu, sebelum model dijalankan, safety 
+time harus ditentukan terlebih dahulu. Apabila hasil 
+perhitungan masih menunjukkan posisi persediaan 
+ada yang berada di bawah safety time yang ditentukan, maka nilai safety time akan dievaluasi 
+sampai posisi inventory tidak ada yang berada di 
+bawah safety time. Safety time pada kondisi ini 
+disebut sebagai safety time optimal. Nilai safety time 
+optimal ini yang selanjutnya digunakan untuk 
+menyusun jadwal dan kuantitas bahan baku pada 
+setiap pengiriman dari setiap supplier. 
+ 
+Model Matematika 
+ 
+Luaran yang diharapkan dari model matematika ini 
+adalah penjadwalan kedatangan dan kuantitas 
+pengiriman bahan baku dari setiap supplier setiap 
+minggunya dengan mempertimbangkan perbedaan 
+nilai parameter dari setiap supplier dan batasan 
+yang ditentukan oleh perusahaan. Parameter 
+supplier meliputi total jumlah kontrak pemesanan, 
+lot size pengiriman, lead time pengiriman, serta 
+harga yang diberikan masing-masing supplier. 
+Selain perbedaan nilai parameter dari setiap 
+supplier, terdapat batasan dari sisi perusahaan 
+meliputi kapasitas warehouse dan batas minimal 
+inventory di warehouse. 
+ 
+Fungsi tujuan yang digunakan adalah meminimumkan biaya inventory, dimana di dalamnya terdapat 
+komponen purchasing cost, tied up capital cost, dan 
+handling cost. Adanya komponen purchasing cost 
+dan tied up capital cost menyebabkan harga bahan 
+baku yang berbeda dari setiap supplier menjadi hal 
+yang harus dipertimbangkan dalam menentukan 
+waktu kedatangan dan kuantitas pengiriman pasok-
+an bahan baku. Perbedaan harga akan menghasilkan perbedaan biaya pembelian untuk bahan baku 
+dari supplier yang berbeda sehingga akan berpengaruh pada perhitungan purchasing cost. Dalam 
+perhitungan tied up capital cost, perbedaan harga 
+akan menghasilkan perbedaan jumlah modal yang 
+tersimpan dalam bentuk inventory yang dimiliki 
+perusahaan 
+ 
+    
+    
+ 
+Penentuan safety time 
+ 
+Safety time digunakan sebagai batas minimal inventory untuk mengantisipasi adanya variasi demand 
+selama lead time dan dalam kasus ini lead time juga 
+tidak tentu. Untuk strategi multi-supplier, variasi 
+lead time dari beberapa supplier juga harus dipertimbangkan. Salah satu metode yang dapat 
+digunakan adalah metode generalized lambda distribution untuk mendapatkan mean dan variance 
+dengan pendekatan maksimum. Metode ini digunakan untuk lead time dari n supplier yang terdistribusi normal dan identik dengan mean µ dan 
+variance σ2. Parameter yang digunakan adalah λ1, 
+λ2, λ3, dan λ4 sehingga diperoleh E(Xi) sebagai mean 
+dan Var(Xi) sebagai variance dari lead time n 
+supplier (Osman dan Demirli [16]). Secara teoretis, 
+expected lead time ditentukan dengan menggunakan 
+persamaan-persamaan berikut. 
+ 
+
+
+ 
+Studi Kasus 
+ 
+Seperti telah dijelaskan sebelumnya, penelitian ini 
+menggunakan sebuah perusahaan multinasional 
+yang memproduksi berbagai jenis produk nutrisi 
+sebagai objek penelitian. Model matematika yang 
+telah dikembangkan selanjutnya diaplikasikan 
+untuk menentukan safety time optimum dan penjadwalan kedatangan serta kuantitas pengiriman dari 
+setiap supplier untuk beberapa bahan baku 
+
+utamanya. Pada penelitian ini, studi kasus akan 
+difokuskan pada 3 jenis bahan baku dairy yang 
+memiliki porsi dan membutuhkan biaya paling 
+besar, yaitu bahan baku A, B, dan C. Sebagai bahan 
+baku utama yang dibutuhkan untuk produksi setiap 
+harinya, ketiga bahan baku tersebut tidak boleh 
+mengalami stockout karena dapat menghentikan 
+proses di lantai produksi. Namun, penyimpanan 
+persediaan bahan baku tersebut juga dibatasi oleh 
+kapasitas warehouse, kontrak yang telah disepakati 
+antara supplier dan perusahaan, serta kemampuan 
+supplier dalam memenuhi pesanan dari perusahaan. 
+ 
+Untuk memenuhi kebutuhan ketiga bahan baku 
+tersebut, perusahaan menerapkan strategi multisupplier, dimana ketiga bahan baku utama tersebut 
+berturut-turut memiliki 3 supplier, 2 supplier, dan 4 
+supplier. Masing-masing supplier memiliki porsi 
+atau total jumlah pemesanan yang berbeda, dimana 
+setiap porsi tersebut sudah ditentukan sebelumnya 
+melalui kontrak. Selain porsi pemesanan yang 
+berbeda, masing-masing supplier juga memiliki 
+parameter yang berbeda-beda yang meliputi harga 
+per ton bahan baku, jenis kontrak, lot size, waktu 
+shipping terkait dengan negara asal supplier, serta 
+perjanjian status inventory pada tahap shipping 
+atau Good In Transport. Tabel 1 menunjukkan 
+parameter yang digunakan dalam model untuk 
+setiap supplier. Berikut definisi dari masing-masing 
+parameter. (1) Porsi atau total jumlah pemesanan 
+adalah total jumlah bahan baku yang dapat dipesan 
+kepada supplier dalam jangka waktu satu quarter. 
+(2) Harga untuk per ton bahan baku yang dipesan 
+kepada supplier, dimana didalamnya sudah terdapat unsur ordering cost, sehingga proses pemesanan yang dilakukan perusahaan tidak lagi mempertimbangkan adanya ordering cost. Dalam penelitian ini, harga bahan baku dalam mata uang $ dan 
+€ dikonversi ke dalam mata uang Rp menggunakan 
+kurs tengah Bank Indonesia pada tanggal 28 
+Februari 2014, yaitu Rp 11.634,00 per 1 $ dan Rp 
+15.945,00 per 1 €. (3) Jenis kontrak adalah parameter supplier terkait dengan periode perhitungan 
+total jumlah pesanan bahan baku dari perusahaan, 
+untuk kemudian dievaluasi dengan porsi pemesanan per quarter dari masing-masing supplier. 
+Terdapat dua jenis kontrak yang digunakan oleh 
+supplier, yaitu Estimate to Delivery (ETD) dan 
+Estimate to Arrive (ETA). (4) Lot size adalah 
+kelipatan jumlah yang ditetapkan oleh setiap 
+supplier untuk setiap pengiriman bahan baku. (5) 
+Waktu shipping adalah durasi bahan baku ketika 
+dalam perjalanan menempuh jalur laut dalam 
+proses pengiriman dari port asal hingga port tujuan, 
+dimana waktu shipping ini bergantung pada negara 
+asal dari supplier bahan baku. Waktu shipping 
+diasumsikan mengikuti distribusi normal sehingga 
+parameter yang digunakan adalah rata-rata dan 
+standar deviasi. (6) Perjanjian inventory adalah 
+perjanjian antara supplier dan perusahaan terkait 
+status bahan baku yang sedang berada di 
+perjalanan laut atau shipping, apakah masih 
+menjadi inventory milik supplier atau sudah 
+menjadi inventory milik perusahaan. 
+ 
+Proses pengendalian inventory bahan baku perusahaan dilakukan melalui pantauan 
+jumlah 
+inventory yang dimiliki perusahaan, baik untuk 
+inventory yang sudah maupun belum tiba di 
+warehouse, serta mengevaluasi jumlah inventory 
+tersebut dengan batas minimal inventory setiap 
+waktu. Dalam menentukan batas minimal inventory, perusahaan menggunakan konsep safety time 
+yang mengindikasikan batas minimal inventory 
+yang harus dimiliki perusahaan setiap waktunya. 
+Safety time dinyatakan dengan menggunakan 
+satuan waktu dan ditentukan berdasarkan jumlah 
+kebutuhan bahan baku sesuai MRP selama durasi 
+waktu tertentu. 
+ 
+Setelah proses pemesanan, terdapat beberapa 
+proses yang dilewati oleh bahan baku, meliputi 
+pengiriman dan pengendalian kualitas hingga 
+menjadi bahan baku siap pakai. Berikut adalah 
+beberapa tahapan yang dilalui bahan baku selama 
+proses pengiriman dan pengelolaan beserta nilai 
+yang digunakan di dalam model. 
+ 
+(1) Shipping, dengan durasi untuk setiap 
+pengiriman sangat bergantung pada negara asal 
+supplier dan kondisi cuaca. Pada proses ini, status 
+bahan baku tergantung dari kesepakatan antara 
+supplier dan perusahaan, apakah masih menjadi 
+inventory supplier atau sudah menjadi inventory 
+perusahaan. (2) Customs Clearance (CC). Untuk 
+kasus ini, proses CC dilakukan oleh pihak ketiga 
+yang ditunjuk perusahaan dan diasumsikan membutuhkan waktu 7 hari atau 1 minggu. (3) Quality 
+Inspection (QI). Pada kondisi normal, proses QI 
+membutuhkan waktu 5 hari sedangkan pada 
+
+kondisi ditemukannya quality issue, proses QI akan 
+membutuhkan waktu lebih lama yaitu sekitar 1 
+minggu, dengan probabilitas ditemukannya quality 
+issue adalah 3-5%. (4) Bahan baku akan menjadi 
+ready stock inventory setelah dinyatan lolos Quality 
+Inspection. 
+ 
+Untuk pengelolaan inventory di warehouse, perusahaan menerapkan sistem outsource dengan 
+menunjuk pihak ketiga untuk melakukan material 
+handling di warehouse. Sistem pembayaran yang 
+digunakan adalah biaya kontrak untuk satu tahun. 
+Dalam hal ini, handling cost menjadi biaya tetap per 
+tahun dengan batas maksimal inventory yang 
+dikelola setiap periodenya, yaitu 8500 ton untuk 
+keseluruhan bahan baku, dan akan dikenakan 
+charge untuk setiap ton kelebihan inventory. Pada 
+penelitian ini, handling cost dan batas maksimal 
+inventory untuk masing-masing jenis bahan baku 
+ditentukan berdasarkan persentase porsi terhadap 
+keseluruhan inventory bahan baku. 
+ 
+Dalam melakukan pengendalian inventory bahan 
+baku, perusahaan menggunakan metode gabungan 
+antara continuous review policy dan periodic review 
+policy, dimana jumlah inventory bahan baku 
+dipantau setiap hari dan akan dilakukan pemesanan ketika jumlah inventory berada di bawah batas 
+minimal inventory. Acuan yang digunakan untuk 
+melakukan pengendalian inventory adalah safety 
+time, sebagai batas minimal jumlah inventory yang 
+harus dimiliki oleh perusahaan setiap periode. 
+Dengan acuan safety time, maka batas minimal 
+inventory akan berbeda setiap waktu, tergantung 
+pada kebutuhan bahan baku pada beberapa waktu 
+ke depan. 
+ 
+Optimasi Safety Time 
+ 
+Safety time digunakan sebagai batas minimal 
+inventory untuk mengantisipasi adanya variasi 
+demand selama lead time. Perhitungan safety time 
+dilakukan dengan mempertimbangkan adanya 
+
+
+
+
+variasi demand bahan baku dan menggunakan 
+asumsi lead time deterministik yang digunakan oleh 
+perusahaan, yaitu 97 hari, dimana 90 hari merupakan durasi produksi bahan baku dan pengiriman 
+melalui jalur laut, sedangkan 7 hari adalah durasi 
+Customs Clearance. Untuk mengakomodasi adanya 
+variasi demand, dilakukan pengujian menggunakan 
+software Stat::fit untuk mengetahui pola distribusi 
+data demand. Hasil pengujian menunjukkan bahwa 
+data demand untuk ketiga bahan baku mengikuti 
+pola distribusi normal. Untuk bahan baku utama, 
+perhitungan safety time menggunakan target service 
+level 99.9% karena perusahaan tidak mengizinkan 
+terjadinya stockout bahan baku yang akan menyebabkan berhentinya proses produksi. 
+ 
+Pada periodic review policy, pengendalian inventory 
+yang dilakukan menggunakan sebuah parameter, 
+yaitu base-stock level. Perusahaan akan menentukan target level inventory, base-stock level, dan 
+periode review. Level inventory akan ditinjau pada 
+setiap periode, dan order material akan dilakukan 
+setelahnya untuk meningkatkan posisi inventory 
+agar mencapai base-stock level. Base-stock level 
+terdiri dari 2 komponen, yaitu rata-rata demand 
+selama jangka waktu antar periode review dan 
+safety stock. Rata-rata demand antar periode review 
+adalah rata-rata demand selama jangka waktu 
+periode review ditambah lead time. 
+ 
+Menggunakan persamaan (12) sampai dengan 
+persamaan (17), maka diperoleh safety time seperti 
+terdapat pada Tabel 2. Tabel 2 menunjukkan 
+perbandingan antara nilai safety time teoritis dan 
+safety time yang digunakan perusahaan saat ini, 
+Terlihat bahwa safety time yang digunakan 
+perusahaan saat ini sudah sesuai dengan teori. 
+Namun pada kondisi aktual, level inventory pada 
+beberapa periode masih berada di bawah tingkat 
+safety time, meskipun tidak sampai mengalami 
+stockout. 
+
+Hal ini disebabkan tingkat safety time yang 
+diterapkan terlalu tinggi. Safety time yang tinggi 
+sebenarnya memberikan keuntungan seperti memperkecil kemungkinan terjadinya stock out. Namun, 
+safety time yang terlalu tinggi menyebabkan biaya 
+simpan dan tied up capital cost yang ditimbulkan 
+juga semakin tinggi. Mempertimbangkan hal 
+tersebut, maka dilakukan optimasi lebih lanjut 
+terkait tingkat safety time yang dapat diterapkan di 
+perusahaan dengan batasan tidak diperkenankan 
+terjadi stock out dan sepanjang periode level 
+inventory tidak pernah berada di bawah safety time. 
+Optimasi dilakukan dengan menggunakan model 
+yang sudah dibangun namun kali ini dengan safety 
+time sebagai variabel keputusannya. Proses iterasi 
+dihentikan pada saat tidak terdapat periode dimana 
+level inventory berada di bawah tingkat safety time. 
+Tabel 3 menunjukkan perbandingan tingkat safety 
+time aktual dan setelah dilakukan optimasi. 
+ 
+Optimasi Penjadwalan 
+ 
+Model matematika yang dibangun telah melalui 
+proses verifikasi dan validasi. Pada penelitian ini, 
+validasi dilakukan dengan memastikan seluruh 
+constraints dalam model telah sesuai dengan kondisi 
+yang ada dan dibandingkan dengan penjadwalan 
+yang diterapkan saat ini. Model diselesaikan dengan 
+menggunakan software LINGO 9.0 dengan menggunakan nilai safety time optimal dan dikonversikan 
+dalam bentuk minimum inventory (y) dan parameter 
+model yang telah diberikan. Penjadwalan dilakukan 
+untuk periode satu tahun (52 minggu). Tabel 4 
+menunjukkan contoh penjadwalan kedatangan 
+material dari masing-masing supplier untuk bahan 
+baku A untuk minggu ke-1 sampai dengan minggu 
+ke-52 hasil output dari LINGO 9.0. Sebagai contoh, 
+pada minggu ke-14 dilakukan pengiriman bahan 
+baku A dari supplier A1 sebanyak 550 ton. Bahan 
+baku ini akan sampai di pelabuhan Semarang pada 
+minggu ke-18 dan selanjutnya akan diproses di 
+Customs Clearance (CC). Waktu yang diperlukan 
+untuk proses CC sekitar 1 minggu. Setelah selesai 
+proses CC, pada minggu ke-19 selanjutnya bahan 
+baku akan menjalani proses Quality Inspection (QI). 
+Apabila lolos QI, maka status bahan baku selanjutnya akan menjadi Stock Release (SR) dan siap 
+digunakna untuk produksi, namun apabila tidak 
+lolos QI, maka bahan baku akan di-reject dan 
+statusnya menjadi OUT. Permintaan setiap minggu 
+berfluktuasi dan mengikuti distribusi normal. Sisa 
+stock ditentukan berdasarkan sisa stock periode 
+sebelumnya, jumlah total stock release, dan demand 
+pada minggu tersebut. Total bahan baku yang harus 
+ditangani merupakan penjumlahan dari sisa stock 
+dan bahan baku yang masih berada pada tahap QI. 
+
+
+
+
+Pada status inventory, status “yes” menunjukkan bahwa jumlah inventory yang dimiliki berada di atas batas minimal inventory, 
+sedangkan status “no” menunjukkan bahwa jumlah inventory yang dimiliki berada di bawah batas minimal inventory. 
+
+Dari hasil penjadwalan yang diperoleh, didapatkan 
+total biaya inventory untuk masing-masing bahan 
+baku yang ditunjukkan pada Tabel 5. Meskipun 
+total biaya inventory yang dikeluarkan perusahaan 
+saat ini tidak dapat ditampilkan dalam makalah ini 
+karena merupakan rahasia perusahaan, namun 
+berdasarkan evaluasi bersama dengan pihak perusahaan dapat disimpulkan bahwa total biaya 
+inventory model lebih rendah daripada total biaya 
+
+inventory yang dikeluarkan perusahaan saat ini. 
+Apabila dievaluasi lebih lanjut, terdapat perbedaan 
+antara hasil penjadwalan yang diperoleh dengan 
+penjadwalan yang dilakukan perusahaan saat ini 
+yang menyebabkan perbedaan biaya inventory yang 
+dikeluarkan. Pada sistem nyata, pemesanan cenderung dilakukan dalam jumlah kecil namun dengan 
+frekuensi tinggi, sehingga pemesanan bahan baku 
+lebih tersebar dalam beberapa periode. 
+
+
+Pada hasil penjadwalan berdasarkan model, pemesanan cenderung dilakukan dalam jumlah yang 
+lebih besar karena pola inilah yang memungkinkan 
+untuk mendapatkan total biaya inventory yang 
+rendah. Sebagai perbandingan, frekuensi kedatangan material saat ini sebanyak 88 kali dalam 
+setahun, sedangkan berdasarkan model sebanyak 
+59 kedatangan. Selain itu, safety time yang digunakan di model juga lebih rendah daripada safety time 
+yang digunakan oleh saat ini. Pengaruh perbedaan 
+penggunaan safety time ini terlihat dari rata-rata 
+sisa stock tiap minggunya. Rata-rata sisa stock 
+berdasarkan model sebesar 781,24 ton per minggu, 
+sedangkan rata-rata sisa stock saat ini sebesar 
+1613,48 ton per minggu. Hal ini berpengaruh terhadap besarnya biaya inventory dan opportunity cost 
+sebagai akibat dari penyimpanan modal dalam 
+bentuk inventory, dan handling cost meskipun 
+besaran handling cost dalam kasus ini relatif kecil 
+dibandingkan dengan purchasing cost dan opportunity cost (tied up capital cost). Sistem pemesanan 
+yang dilakukan oleh perusahaan mempunyai kecenderungan menggunakan pola pengalaman dan 
+pengulangan dalam melakukan pemesanan oleh 
+perusahaan untuk membangun hubungan jangka 
+panjang dengan supplier, dimana pola ini belum 
+digunakan sebagai batasan pada model yang dibangun. 
+ 
+
+Simpulan 
+
+ 
+Penelitian ini membangun model matematika untuk 
+menentukan waktu kedatangan dan kuantitas 
+pengiriman dari beberapa supplier, dengan mempertimbangkan ketidakpastian permintaan dan lead 
+time dari setiap supplier serta batasan dari perusahaan terkait batas maksimal material handling 
+dan batas minimal inventory (dinyatakan dengan 
+safety time) yang ada di warehouse. Setiap supplier 
+mempunyai parameter yang berbeda terkait harga, 
+lot size, nilai kontrak (total jumlah pesanan), dan 
+jenis kontrak. Hasil studi kasus menunjukkan 
+bahwa model yang dibangun telah dapat digunakan 
+untuk menentukan optimum safety time dengan 
+mempertimbangkan fluktuasi permintaan dan selanjutnya nilai safety time optimum tersebut digunakan untuk menghasilkan jadwal kedatangan dan 
+kuantitas bahan baku dengan total biaya inventory 
+yang lebih rendah dari total biaya saat ini. 
+ 
+Terdapat beberapa penelitian lanjutan yang akan 
+dilaksanakan. Pertama, dalam penelitian ini jumlah 
+supplier beserta jumlah total pengirimannya selama 
+setahun telah ditentukan berdasarkan target produksi tahunannya. Penelitian selanjutnya akan 
+menentukan 
+jumlah supplier optimum beserta 
+kuantitas pemesanan optimum dari setiap supplier. 
+Kedua, penjadwalan supplier dan kuantitas pengirimannya akan diintegrasikan dengan penjadwalan 
+produksi. 
+
+

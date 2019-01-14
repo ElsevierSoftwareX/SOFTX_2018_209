@@ -1,0 +1,114 @@
+﻿Suatu graf G (V,E) adalah suatu struktur yang terdiri dari himpunan titik V;
+V   dan himpunan sisi E dan graf G dikatakan terhubung jika untuk setiap dua
+titik di G, terdapat path yang menghubungkan kedua titik tersebut. Jika tidak ada
+path yang menghubungkan maka G dikatakan tidak terhubung. Jika suatu graf
+hanya titik-titiknya diberi label maka pelabelan disebut pelabelan titik. Sisi paralel
+adalah dua sisi atau lebih yang memiliki dua titik yang sama. Jika diberikan n titik
+dan m sisi, terdapat banyak graf yang dapat dibentuk, baik terhubung atau tidak
+terhubung. Penelitian ini dilakukan dengan tujuan untuk menentukan banyak graf
+berlabel tanpa sisi paralel dan membangun sistem untuk perhitungannya jika
+diberikan 1 n  4 dan m1 , dengan bentuk atau rumus umum untuk graf yang
+terbentuk adalah untuk n=1 maka  1,m
+G l 1; untuk n=2 maka
+ 2,m
+2m 1
+G l
+1
+  
+ 
+ 
+; untuk n=3 maka  3,m
+2m 1
+G l 2 6m
+2
+  
+   
+ 
+; dan untuk n = 4
+maka  4,m
+4m 4 m 1 5m 2 m 2 7m 1
+G l 15
+3 3 2 2 1
+              
+              
+         
+.
+Kata kunci : pelabelan titik, graf tak terhubung, graf terhubung, sisi paralel.
+
+I. PENDAHULUAN
+1.1 Latar Belakang
+Perkembangan ilmu pengetahuan pada saat ini sangat pesat dalam bidang sains dan teknologi. Teori graf yang merupakan bidang ilmu matematika yang banyak digunakan dalam merepresentasikan permasalahan atau kondisi di kehidupan sehari-hari, khususnya dalam permasalahan desain jaringan dan terapan komputasi, misalnya : desain jaringan komputer, desain jaringan telekomunikasi, desain jaringan transportasi, desain jejaring sosial, dan lain-lain.
+Secara sederhana, graf merupakan suatu diagram yang memuat informasi tertentu jika diinterpretasikan secara tepat. Dalam kehidupan sehari-hari, graf digunakan untuk menggambarkan berbagai macam struktur yang ada. Tujuannya adalah sebagai visualisasi objek-objek agar lebih mudah dimengerti. Teori graf dikemukan oleh seorang matematikawan Swiss, Leonhard Euler pada tahun 1736 sewaktu menyelesaikan masalah jembatan Konigsberg (Konigsberg Problem) yaitu bagaimana melewati tujuh jembatan yang menghubungkan daratan dan dibelah oleh sungai Pregel di Polandia masing-masing tepat satu kali dan kembali ketempat semula. Daratan yang dihubungkan oleh jembatan dinyatakan sebagai titik dan jembatan dinyatakan sebagai sisi.
+Untuk permasalahan jembatan Konigsberg, Leonhard Euler menyatakan bahwa tidak mungkin melewati jembatan tersebut tepat satu kali karena banyaknya jembatan yang menghubungkan daratan berjumlah ganjil, tetapi sebaliknya hal ini
+dapat terjadi jika banyaknya jembatan yang menghubungkan masing-masing
+daratan adalah berjumlah genap.
+Suatu graf G(V,E) dengan V adalah suatu himpunan titik yang tidak boleh kosong
+dan E adalah himpunan sisi yang boleh kosong. Graf dikatakan terhubung jika
+terdapat path (lintasan) antara sebarang dua titik di graf G. Sisi paralel adalah dua
+atau lebih sisi yang menghubungkan dua titik yang sama dalam suatu graf dan
+loop adalah suatu sisi yang memiliki titik awal dan titik akhir yang sama.
+Graf berlabel adalah suatu graf yang tiap titiknya dan atau sisinya memiliki label
+berupa bilangan asli. Jika suatu graf hanya titiknya diberi label maka pelabelan
+disebut pelabelan titik. Jika suatu graf hanya sisinya diberi label maka pelabelan
+disebut pelabelan sisi. Jika suatu graf titiknya dan sisinya diberi label maka
+pelabelan disebut pelabelan total.
+Jika diberikan n titik dan m sisi; dengan n 1dan m1, maka banyak graf yang
+dapat terbentuk, diantaranya adalah graf tak terhubung dan graf terhubung,
+dengan graf yang terbentuk memiliki loop dan atau sisi paralel didalamnya.
+Adapun penelitian-penelitian yang telah dilakukan sebelumnya mengenai
+penentuan banyaknya suatu graf baik berupa graf tak terhubung berlabel dan graf
+terhubung berlabel, antara lain:
+
+
+1. Winarni (2015), meneliti tentang penentuan banyaknya graf tak terhubung
+berlabel jika diberikan n titik, m sisi tanpa sisi paralel. Untuk n  3 dan
+3
+m1 rumus yang diperoleh yaitu
+2m 2
+
+  
+ 
+ 
+, dan untuk n  4 dan m1
+rumus yang diperoleh yaitu
+3m 1 m 1 2m 2
+3 3 2
+        
+     
+     
+.
+2. Arifah (2015), meneliti tentang penentuan banyaknya graf terhubung
+berlabel jika diberikan n titik, m sisi tanpa sisi paralel. Untuk n  3 dan
+m 2 rumus yang diperoleh yaitu
+2 1
+2
+ m 
+ 
+ 
+, untuk n  4 dan m  3
+diperoleh graf sebanyak 16, dan untuk n  4 dan m  3 rumus yang
+diperoleh yaitu
+3(m 1) m 1 m 1
+
+3 3 3
+        
+      
+     
+.
+Penelitian ini dimaksudkan untuk menentukan banyaknya graf berlabel (graf tidak
+terhubung dan graf terhubung) tanpa sisi paralel untuk n 1 dan m1 serta
+membangun sistem untuk menghitung banyaknya graf tersebut.
+1.2 Batasan Masalah
+Pada penelitian ini akan dibatasi pada graf berlabel, khususnya pelabelan titik
+tanpa sisi paralel untuk 1 n  4 dan m1.
+1.3 Tujuan Penelitian
+Tujuan dari penelitian ini adalah:
+1. Menentukan banyaknya graf berlabel baik berupa graf tak terhubung dan
+graf terhubung khususnya pelabelan titik tanpa sisi paralel, jika diberikan n
+titik dan m sisi dengan 1 n  4 dan m1.
+
+2. Menentukan bentuk umum graf berlabel tanpa sisi paralel yang telah terbentuk.
+1.4 Manfaat Penelitian
+Manfaat dari penelitian ini adalah:
+1. Menambah pemahaman konsep teori graf dan aplikasinya khususnya tentang penentuan graf berlabel yang terbentuk.
+2. Memberikan dasar atau acuan bagi penelitian-penelitian selanjutnya dalam mengembangkan dan menerapkan teori graf khususnya pada permasalahan komputasi.

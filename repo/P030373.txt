@@ -1,0 +1,161 @@
+﻿ABSTRAK
+Teknologi membran berkembang pesat karena dapat diaplikasikan dalam
+berbagai bidang. Oleh karena itu pada penelitian ini dilakukan pembuatan membran
+selulosa asetat dalam proses pembuatan membran nanofiltrasi. Tujuan dari penelitian
+ini adalah untuk mengetahui komposisi bahan pembuat membran yang menghasilkan
+kinerja optimum, mengetahui pengaruh waktu penguapan pelarut dan pengaruh
+penambahan PEG terhadap kinerja membran pada proses pembuatan membran
+asimetri untuk pengolahan air. Membran dibuat dengan metode inversi fasa dengan
+variasi waktu penguapan pelarut 10 detik, 15 detik, 25 detik dan variasi penambahan
+PEG 2,5%, 3,5%, 5%. Karakterisasi membran meliputi fluks, rejeksi, dan analisis
+morfologi membran kinerja optimum menggunakan SEM (Scanning Electron
+Microscopy). Fluks dan rejeksi diukur dengan menggunakan air payau sebagai
+umpan. Membran dengan kinerja optimum diperoleh pada komposisi selulosa asetat
+23%, poli etilen glikol 5%, dan aseton 72%, penambahan air 1% pada waktu
+penguapan pelarut 25 detik dan suhu koagulan pada suhu kamar. Karakterisasi
+membran diperoleh kinerja optimum meliputi : fluks 34.416 L.m-2.jam-1.bar-1 , rejeksi
+untuk kekeruhan 92 %, rejeksi untuk TDS (padatan terlarut) 85 %, rejeksi untuk ion
+multivalent yaitu Ca sebesar 81%, modulus young 12433 N/cm2.
+Kata kunci : membran asimetrik; PEG; selulosa asetat; selulosa diasetat; waktu
+Penguapan
+
+
+BAB I
+PENDAHULUAN
+1.1 Latar Belakang
+Istilah membran didefinisikan sebagai lapisan tipis, pembatas antara dua fasa
+yang bersifat semipermeabel. Teknologi membran banyak dikembangkan, karena
+mempunyai beberapa keunggulan dibanding proses pemisahan yang lain.
+Keunggulannya yaitu pemisahan (separation) dapat berlangsung secara kontinyu,
+energi yang digunakan umumnya rendah, proses membran dapat dikombinasikan
+dengan proses pemisahan yang lain, sifat-sifat dan variabel membran dapat
+disesuaikan, zat aditif yang digunakan tidak terlalu banyak, pemisahan larutan-larutan
+yang peka terhadap suhu (misalnya larutan biologis dan organik), energinya tergolong
+hemat dan bersih, serta relatif tidak menimbulkan limbah (Nunes, 2001). Dengan
+keunggulannya tersebut teknologi membran digunakan dalam aplikasi yang makin
+luas, misalnya desalinasi air laut dan air payau, pemisahan dan pemekatan air limbah
+industri (waste water treatment), penjernihan dan sterilisasi air minum, pemisahan
+gas, pemisahan darah untuk penderita ginjal, serta bioteknologi.
+Di Indonesia, teknologi membran belum berkembang begitu pesat seperti di
+negara maju karena membran belum banyak diproduksi di Indonesia. Industri yang
+akan menggunakan teknologi ini harus mengimpor membran beserta modul dan
+sistemnya sehingga harganya relatif lebih mahal. Upaya pencarian bahan baku
+alternatif sebagai bahan baku pembuatan membran juga sangat diperlukan mengingat
+Indonesia kaya dengan tanaman berselulosa tinggi. Menurut hasil penelitian Balai
+Besar Tekstil Kementrian Perindustrian salah satu tanaman yang mempunyai selulosa
+tinggi yaitu sekitar (69,5-71,5) % pada bagian daunnya adalah serat daun nanas
+(http://www.bbt.kemenperin.go.id/index.php/hasil-penelitian/arena-tekstil/46-arena-
+2004/81-serat-nanas).
+Akhir-akhir ini, produksi nanas dunia mengalami peningkatan. Lebih dari 1
+milyar ton diperdagangkan setiap tahunnya. Data dari FAO (Food and Agriculture
+Organization) menunjukkan pada tahun 2008 jumlah produksi nanas dunia sekitar
+21% dan 80% produksi nanas terkonsentrasi di Asia khususnya Thailand, Filipina,
+dan Indonesia (http://www.fao.org/fileadmin/user_upload/
+inpho/docs/Post_Harvest_Compendium_-_Pineapple.pdf). Dengan meningkatnya
+penggunaan tumbuhan nanas yang cukup besar juga akan meningkatkan limbah yang
+dihasilkan. Salah satu limbah tumbuhan nanas di kota khususnya di pasar-pasar
+tradisional adalah limbah daun bagian pucuk buah. Dan dalam kenyataanya, belum
+ada penanganan khusus terhadap limbah ini selain biasa ditimbun dalam tanah atau
+dibuang bersama limbah lain di Tempat Pembuangan Akhir (TPA) (Santoso, 2007).
+Menurut Praktikno (2008) juga disebutkan tanaman nanas akan dibongkar setelah dua
+atau tiga kali panen untuk diganti tanaman baru, oleh karena itu limbah daun nanas
+terus berkesinambungan. Sehingga penelitian mendalam terhadap daun nanas untuk
+berbagai bidang aplikasi khususnya dibidang membran sangat penting untuk
+meningkatkan nilai guna tumbuhan nanas mengingat limbah daun nanas yang belum
+dimanfaatkan secara optimal.
+Sampai saat ini penelitian yang terkait dengan kondisi pembuatan membran
+dan pencarian alternatif bahan baku membran masih terus menarik untuk diteliti. Hal
+itu disebabkan, karena banyaknya parameter yang mempengaruhi karakteristik
+membran yang dihasilkan. Kombinasi dari berbagai parameter tersebut
+memungkinkan diperolehnya tailor-made membranes yang spesifik untuk tujuan
+pemisahan tertentu.
+
+1.2 Rumusan Masalah
+Pemanfaatan membran nanofiltrasi dan RO semakin meningkat, terutama
+untuk memenuhi kebutuhan air bersih. Hal ini disebabkan desalinasi air laut dengan
+NF dan RO memiliki banyak keuntungan, seperti hemat energi, biaya produksi yang
+rendah, waktu mulai dan selesai yang singkat, periode konstruksi yang singkat, ruang
+instalasi yang lebih kecil dan biaya total air yang lebih rendah (Kumano and
+Fujiwara, 2008). Peningkatan penggunaan membran selanjutnya akan
+mengakibatkan peningkatan kebutuhan CA sebagai bahan baku membran. Kebutuhan
+CA yang semakin besar akan mendorong produksi dan pengembangan CA dari
+berbagai macam teknologi dan bahan baku. Limbah daun nanas di Indonesia
+memiliki potensi yang sangat besar untuk dikembangkan menjadi bahan dasar
+pembuatan CA karena memiliki jumlah yang sangat banyak dengan kandungan
+selulosa yang tinggi, namun pemanfaatannya masih sedikit. Pada studi sebelumnya,
+telah dilakukan pembuatan membran nanofiltrasi untuk pemurnian air oleh Said
+(2000). Said menyimpulkan dengan konsentrasi CA yang digunakan antara lain 15%,
+20%, 25%, 30% dan 35% serta dibandingkan dengan membran komersial (NTR 795
+HR). Dari hasil proses diperoleh kinerja optimum untuk membran yang dibuat dari
+selulosa asetat 25% dengan pelarut aseton.
+Selulosa asetat (CA) dipilih sebagai komponen polimer dikarenakan CA dapat
+membentuk struktur asimetrik dengan lapisan aktif yang sangat tipis dan dapat
+menahan bahan terlarut pada lapisan pendukung yang kasar, serta toleran terhadap
+klorin dan tahan terhadap terjadinya pengendapan (Uemura and Henmi, 2008;
+Kumano and Fujiwara, 2008). Selain itu, koeksistensi permeabilitas yang tinggi dan
+selektifitas yang tinggi dari CA memungkinkan untuk menghasilkan keseimbangan
+sifat hidrofilik dan hidrofobik (Kumano and Fujiwara , 2008).
+Fadillah (2003), Rini dkk (2007), Mohammadi (2009) dan Saljoughi (2010)
+telah dilakukan pembuatan membran dengan penambahan aditif PEG mempunyai
+pengaruh yaitu meningkatkan laju permeasi membran karena PEG diketahui sebagai
+bahan organik pembentuk pori pada membran. Yang dkk (2001) juga menyebutkan
+bahwa peningkatan jumlah PEG dapat meningkatkan porositas membran komposit
+kitosan-selulosa, yang diperlihatkan melalui peningkatan nilai fluks membran
+tersebut. Sementara menurut Su dkk (2009) PEG adalah senyawa biocompatible,
+highly hydrophilic dan anti fouling.
+Mengingat pada penelitian sebelumnya fluks yang maksimal akan didapat
+pada critical shear rate, dimana kenaikan shear rate setelah titik critical shear rate
+akan menurunkan jumlah fluks (Ismail dkk, 2002 dan Ali dkk, 2009). Variabel waktu
+penguapan solvent secara jelas mengindikasikan bahwa semakin lama waktu
+penguapan solvent maka sebagai hasilnya akan mempertebal permukaan membran
+bagian dense dan memperkecil ukuran pori sebagai akibat dari adanya pembentukan
+konsentrasi polimer yang tinggi pada daerah sekitar dope - lapisan udara sehingga
+menyebabkan selektivitas membran meningkat dan fluks rendah (Bhongsuwan dkk,
+2008). Menurut Cristina (1998) untuk mendapatkan struktur pori yang asimetrik
+harus memperhatikan waktu penguapan pelarut dan suhu koagulan selama proses
+pencetakan membran.
+Sebelumnya juga pernah dilakukan penelitian penambahan air dalam larutan
+dope membran menurut Ismail dkk (2004) dan Ciptaraharja (2006) dijelaskan bahwa
+dengan penambahan non pelarut air akan memberikan struktur lapisan atas membran
+asimetrik. Dengan penambahan non pelarut air pori membran akan lebih terbuka
+sehingga akan memberikan nilai fluks yang lebih tinggi. Mekanisme pembentukan
+membran akan berubah dari delayed demixing menuju mekanisme pembentukan
+membran yang lebih instantaneous sehingga pada saat penambahan air pori sudah
+mulai terbentuk.
+Mengingat beberapa referensi tersebut diatas, kebaruan pada penelitian kali
+ini yang akan dirumuskan sebagai permasalahan yaitu membuat membran selulosa
+asetat komersial kondisi operasi optimum dengan berbagai variabel didalamnya yang
+kemudian komposisi optimum diterapkan pada pembuatan membran selulosa diasetat
+dari serat daun nanas. Juga memvariasi penambahan bahan aditif PEG, memodifikasi
+waktu penguapan pelarut dan penambahan nonsolven air ke dalam larutan dope pada
+membran selulosa asetat komersial untuk meningkatkan kinerja pada membran.
+
+
+1.3 Tujuan Penelitian
+Penelitian ini bertujuan untuk :
+1. Mensintesis selulosa diasetat dari limbah daun nanas.
+2. Membuat membran nanofiltrasi dari bahan dasar limbah daun nanas.
+
+3. Mengkaji komposisi bahan pembuat membran nanofiltrasi selulosa asetat
+komersial untuk mendapatkan kinerja membran yang optimal.
+4. Mengkaji pengaruh aditif PEG, waktu penguapan pelarut dan penambahan air
+pada larutan dope terhadap karakteristik membran nanofiltrasi.
+5. Mengkaji karakterisasi kinerja membran yang optimal dalam proses
+Nanofiltrasi.
+1.4 Ruang Lingkup Penelitian
+Penelitian ini dibatasi pada :
+1. Penggunaan bahan dasar acetone sebagai pelarut polimer, Polyethylene glycol
+sebagai aditif dan selulosa asetat komersial dan selulosa diasetat dari serat
+daun nanas.
+2. Desain operasi nanofiltrasi membran dioperasikan dengan mode dead-end.
+1.5 Manfaat Penelitian
+Manfaat Teoritis
+Penelitian ini merupakan kajian eksperimental yang hasilnya berupa data-data
+empirik tentang karakteristik membran nanofiltrasi agar permeat yang dihasilkan
+mengandung ion monovalen dan berupa larutan organik dengan BM rendah.
+Manfaat Metodologis
+Mengetahui variasi komposisi optimal bahan pembuat membran.
+Manfaat Praktis
+Untuk mengurangi makin banyaknya limbah daun nanas di pasaran agar lebih bernilai
+tinggi secara ekonomis. Hasil dari penelitian ini dapat dijadikan referensi untuk
+penelitian pengembangan di masa depan khususnya dibidang teknologi membran.

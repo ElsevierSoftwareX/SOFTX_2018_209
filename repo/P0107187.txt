@@ -1,0 +1,532 @@
+﻿Efek Aditif LPM dan HPM terhadap Konsumsi Bahan Bakar
+Spesifik (Brake Specific Fuel Consumption (BSFC)) dan Emisi
+Jelaga Mesin Diesel Injeksi Langsung Berbahan Bakar Campuran
+Solar dan Jatropha dengan Cold EGR (Exhaust Gas Recirculation)
+
+Abstrak
+Mesin diesel telah banyak digunakan sebagai moda transportasi umum dan kendaraan pribadi oleh
+karena beberapa kelebihannya dibandingkan dengan mesin bensin diantaranya daya yang lebih besar,
+hemat bahan bakar, kehandalan dan ketahanan mesin yang tinggi (high realibility and durability), dan
+emisi CO yang lebih rendah. Akan tetapi mesin diesel melepaskan lebih banyak emisi NOx dan jelaga
+ke atmosfir. Hal ini menjadi permasalahan serius dengan semakin ketatnya regulasi menyangkut emisi gas buang. Selain itu permasalahan menipisnya cadangan bahan bakar fosil menuntut berbagai pihak
+untuk mencari bahan bakar alternatif pengganti solar. Oleh karena itu, penelitian ini bermaksud untuk
+mereduksi emisi jelaga dengan menambahkan LPM (low purity methanol) atau wet methanol dan HPM
+(high purity methanol) ke dalam campuran bahan bakar jatropha dan solar. Dari penelitian ini juga
+diinginkan untuk mengamati pengaruh aditif metanol terhadap konsumsi bahan bakar spesifik. Metode
+eksperimen dilakukan untuk mendapatkan keterkaitan antara prosentase metanol terhadap brake
+specific fuel consumption (BSFC) dan emisi jelaga. Metanol (LPM dan HPM) divariasikan pada
+rentang 5 sampai 15%. Jatropha adalah pada rentang 10 sampai 30%. Laju EGR (exhaust gas
+recirculation) yang dinyatakan oleh OEV (opening EGR valve) divariasikan pada bukaan 0 sampai
+100%. Beban mesin divariasikan dari 25 sampai 100% dengan interval 25%. Putaran mesin
+dipertahankan konstan 2000 rpm. Hasil-hasil penelitian menunjukkan bahwa penggunaan bahan bakar
+campuran rata-rata meningkatkan BSFC 5,2% dan menurunkan emisi jelaga sampai 65%.
+Kata kunci: BSFC; cold EGR dan mesin diesel; emisi jelaga; jatropha; LPM dan HPM
+
+PENDAHULUAN
+Kepedulian terhadap lingkungan, peningkatan
+ketergantungan terhadap bahan bakar minyak dan
+penipisan cadangan sumber minyak bumi dari fosil
+telah mendorong penelitian-penelitian untuk
+menemukan bahan bakar alternatif. Banyak usaha
+melalui percobaan-percobaan dilakukan untuk
+mendapatkan bahan bakar dengan nilai efisiensi energi
+yang tinggi dan mengurangi emisi yang merusak
+lingkungan dengan tetap mempertahankan performa
+mesin.
+Jatropha merupakan bahan bakar potensial
+pengganti solar karena beberapa kelebihan yang
+dimilikinya dibandingkan dengan bahan bakar
+biodiesel lainnya. Jatropha adalah bahan bakar yang
+non-edible oleh karena bahan mentahnya tidak
+diperebutkan dengan manusia atau hewan. Jatropha
+memiliki sifat-sifat fisik mendekati bahan bakar solar.
+Krishna dkk. (2016) mengevaluasi secara eksperimen
+efek ruang bakar LHR (low heating rejection) dengan
+silinder dilapisi keramik terhadap performa dan emisi
+gas buang mesin diesel berbahan bakar alkohol dan
+CJO (crude jatropha oil). Perbaikan performa
+diperoleh pada campuran alkohol tertinggi.
+Penggunaan jatropha teresterifikasi sebagai bahan
+bakar mesin diesel digambarkan oleh Sharma dan
+Murugan (2013). Mereka juga meneliti efek
+penggunaan jatropha methyl ester (JME) dan tyre
+pyrolysis oil (TPO) terhadap ketahanan dari pelumasan
+(Sharma and Murugan, 2017). Studi tentang performa
+dan emisi dari mesin diesel berbahan bakar jatropha
+(JME) juga dilakukan oleh Chauhan dkk. (2012). Dari
+hasil penelitian mereka dapat disimpulkan bahwa
+biodiesel jatropha dapat digunakan sebagai bahan bakar
+pengganti solar. Rahman dkk. (2014) mempelajari efek
+idling terhadap performa dan emisi mesin diesel
+berbahan bakar campuran jatropha dan solar. Performa
+dan emisi mesin diesel berbahan bakar campuran
+jatropha dan solar dibandingkan dengan mesin diesel
+berbahan bakar campuran biodiesel lainnya dan solar
+dipelajari oleh Rashed dkk. (2016). Hasil kerjanya
+memperlihatkan bahwa mesin diesel berbahan bakar
+campuran biodiesel meningkatkan konsumsi bahan
+bakar spesifik dibandingkan dengan mesin diesel
+berbahan bakar solar. Emisi CO dan HC yang
+dilepaskan dari mesin diesel berbahan bakar campuran
+biodiesel lebih rendah daripada mesin diesel berbahan
+bakar solar kecuali emisi NOx.
+Metanol (CH3OH) dapat dipertimbangkan
+bahan bakar alternatif yang dapat digunakan sebagai
+bahan bakar tambahan (aditif) untuk mesin diesel.
+Methanol juga mudah dalam penyimpanan, cara
+mendapatkan dan penanganannya. Blending methanol
+dengan bahan bakar fosil diketahui mempunyai
+pengaruh yang signifikan pada sifat bahan-bakar (fuel
+properties), proses pembakaran dan emisi yang
+dihasilkan (Imran dkk., 2013). Beberapa penelitian
+untuk mengetahui efek metanol terhadap performa dan
+emisi gas buang mesin diesel melalui berbagai metode
+telah banyak dilakukan. Kumar dkk. (2012)
+membandingkan pengaruh penggunaan methanol
+melalui metode blending dengan minyak jatropha dan
+dengan metode dual fuel. Sayin (2010)
+membandingkan pengaruh penggunaan methanol dan
+ethanol dalam campuran dengan bahan bakar diesel
+terhadap performa dan emisi dari mesin diesel. Hasil
+penelitiannya memperlihatkan bahwa emisi jelaga
+dapat diturunkan lebih banyak dengan menambahkan
+metanol dibandingkan dengan etanol oleh karena
+kandungan oksigen yang tinggi dalam methanol
+daripada ethanol. Metode blending merupakan metode
+paling sederhana dalam menambahkan methanol ke
+dalam ruang bakar mesin diesel karena metode ini tidak
+diperlukan modifikasi mesin. Syaiful dkk. (2013)
+meneliti pengaruh penggunaan low purity methanol
+(LPM) atau wet methanol yang mengandung 24,88%
+air sebagai bahan aditif bahan bakar solar dilengkapi
+dengan sistem EGR untuk mereduksi emisi jelaga yang
+diproduksi oleh mesin diesel. Selain itu campuran
+methanol dapat menggantikan (replacing) sejumlah
+bahan bakar solar. Sehingga dengan penggunaan methanol dalam jumlah tertentu berarti pengehematan bahan bakar diesel yang ramah lingkungan. Selain itu
+methanol dapat diperoleh dari sumber energi
+terbarukan yaitu dari biomass dan dari sumber tak
+terbarukan seperti natural gas dan lignite coal (Sayin,
+2010).
+Berdasarkan penelitian-penelitian yang telah
+dibahas sebelumnya, penggunaan metanol sebagai
+aditif dari bahan bakar mesin diesel telah dilakukan.
+Akan tetapi, penggunaan aditif LPM atau wet methanol
+belum banyak dipelajari. Wet methanol diartikan
+sebagai metanol dengan kadar air tinggi berkisar 25%.
+Untuk diketahui, harga LPM dan HPM di pasaran
+terpaut jauh. Harga HPM diperkirakan 70 kali harga
+LPM. Oleh karena itu, penelitian ini bertujuan untuk
+membandingkan efek aditif LPM dengan HPM
+terhadap konsumsi bahan bakar spesifik dan emisi
+jelaga dari mesin diesel berbahan bakar campuran
+jatropha dan solar pada lingkungan EGR dingin.
+METODE PENELITIAN
+Bahan dan Peralatan
+Di dalam penelitian ini, bahan bakar yang
+digunakan adalah campuran antara bahan bakar diesel
+(biosolar), minyak jarak (Jatropha) dan methanol
+dengan kemurnian 99% (HPM) dan wet methanol
+dengan kadar air 24,88% (LPM) seperti yang
+ditunjukkan pada Tabel 1. Karakteristik biosolar (solar)
+diperoleh dari PERTAMINA, jatropha dan LPM
+diperoleh dari Wahana Lab dan HPM diperoleh dari
+Lab. B2TE-BPPT. Angka setana (cetane number)
+merupakan suatu angka yang menyatakan kualitas
+pembakaran dari bahan bakar mesin diesel, yang
+diperlukan untuk mencegah terjadinya detonasi
+(knocking). Angka setana yang rendah akan
+menyebabkan sulitnya bahan bakar untuk terbakar
+sendiri (auto-ignition). Angka setana yang rendah
+menghasilkan lebih lamanya periode keterlambatan
+pembakaran (ignition delay) yang dapat menurunkan
+daya mesin dan naiknya polutan emisi gas buang (Abd-
+Alla, 2002). Prosentase volume minyak jarak adalah
+10, 20 dan 30% sedangkan prosentase volume metanol
+(LPM dan HPM) yang diuji adalah 5, 10 dan 15% dari
+volume biosolar. Pengujian dilakukan pada sebuah
+mesin diesel injeksi langsung 4 silinder, naturally
+aspirated yang spesifikasinya diperlihatkan pada Tabel
+2.
+Tabel 1. Karakteristik bahan bakar dan aditif methanol
+Karakteristik Biosolar Jatropha HPM LPM
+Angka setana 48,0 41,8 4,8 3,3
+Kadar air (%) 0,05 3,16 0,05 24,88
+Viskositas
+kinematik
+pada suhu
+40°C (mPa.s)
+2,0-5,0 3,23 0,474 0,46
+Nilai kalor
+(MJ/kg) 45,21 37,97 20,08 21,73
+Titik nyala
+(°C) 60 198 13 10,7
+Tabel 2. Spesifikasi tes mesin diesel
+Uraian Keterangan
+Merek Isuzu
+Tipe 4BJ1
+Jumlah silinder 4, vertical in-line, Direct
+Injection
+Diameter silinder 93 mm
+Panjang langkah 102 mm
+Volume silinder total 2771 cc
+Rasio kompresi 18,2 : 1
+Torsi maksimum 178,96 Nm (pada 2000 rpm)
+Daya maksimum 52,2 kW (pada 3000 rpm)
+Untuk menghindari masalah pemisahan
+(separation problem) diantara ketiga bahan bakar
+tersebut, sebuah pengaduk (mixer) digunakan untuk
+menghasilkan campuran yang homogen dan
+dihubungkan dengan saluran masuk bahan bakar.
+Dynamometer hidrolik merek DYNOmite Land and
+Sea digunakan untuk mengukur pembebanan sebuah
+mesin. Smoke meter tipe 495/01 buatan Italia
+digunakan untuk mengukur emisi jelaga dari gas buang
+mesin diesel. Resolusi yang dimiliki smoke meter ini
+adalah 0,1%. Termokopel tipe K dengan ketelitian
+0,1°C digunakan untuk mengukur temperatur udara
+masuk ruang bakar dan temperatur gas buang. Sebuah
+tachometer untuk mengukur kecepatan putar mesin.
+Untuk mengukur laju aliran udara dan EGR digunakan
+orifice plate dan manometer pipa U. Laju bahan bakar
+diukur menggunakan burret.
+Prosedur Penelitian
+Eksperimen dilakukan di Laboratorium
+Termofluida Departemen Teknik Mesin Universitas
+Diponegoro yang mana skema alat pengujian
+ditunjukkan pada Gambar 1. Campuran bahan bakar
+biosolar, jatropha, HPM dan LPM disiapkan sesuai
+dengan prosentase pengujian sebelum percobaan
+dimulai. Pengujian pertama dilakukan dengan mesin
+diesel berbahan bakar campuran biosolar, jatropha dan
+HPM. Sedangkan pengujian yang kedua mesin diesel
+berbahan bakar campuran biosolar, jatropha dan LPM.
+Karena sifat polaritas methanol yang tnggi
+sehingga sulit bercampur dengan biosolar, maka
+sebuah mixer (23) digunakan untuk mendapatkan
+campuran bahan bakar yang homogen. Posisi mixer
+ditempatkan lebih tinggi daripada mesin sehingga
+campuran bahan bakar mengalir ke mesin berdasarkan
+prinsip gravitasi dan juga dibantu oleh sebuah pompa
+bahan bahan (fuel feed pump) yang terpasang pada
+mesin. Sebuah buret (21) dengan sebuah katup bahan
+bakar (22) dipakai untuk mengukur konsumsi bahan
+bakar, dimana setiap 30 ml dihitung waktunya melalui
+sebuah gelas ukur selanjutnya menuju pompa injeksi
+bahan bakar (18) dan disemprotkan oleh injector (3).
+Sebuah tachometer (17) digunakan untuk mengukur
+putaran mesin melalui sebuah proximity sensor. Untuk
+mengukur daya yang keluar digunakan dynamometer
+(2) merk Dynomite Land & Sea. Untuk mengukur torsi
+mesin, poros mesin dikopel dengan sebuah dynometer
+yang dibebani dengan media air. Variasi pembebanan mesin dilakukan melalui pembukaan katup aliran air
+(4) ke dynamometer sebesar 25, 50, 75 dan 100%. Air
+yang ditampung di dalam tanki air dialirkan oleh
+sebuah pompa (5) menuju saluran inlet (7) pada
+dynamometer dan langsung dibuang (tidak
+disirkulasikan) (9). Besarnya torsi yang timbul dibaca
+oleh sebuah strain load sensor yang terpasang pada
+lengan torsi di dynamometer akibat pembebanan dan
+ditampilkan pada load display (16). Percobaan
+dilakukan pada putaran mesin yang tetap yaitu 2000
+rpm dengan variasi campuran bahan bakar. Sebagian
+gas buang yang disirkulasikan didinginkan oleh EGR
+cooler (19) dan saat pengambilan data temperaturnya
+dijaga pada temperature 30°C. Besarnya persentase
+EGR yang menuju saluran masuk (intake manifold) (8)
+untuk bercampur dengan udara segar diatur melalui
+variasi pembukaan katup input EGR (24) sebesar 0, 25,
+50, 75 dan 100%. Pada setiap variasi dilakukan
+pengujian sebanyak 3 kali dan nilai ketidaktentuan data
+(uncertainties data) dalam persen diambil dari hasil
+pengujian.
+Gambar 1. Skema alat pengujian mesin diesel injeksi
+langsung dengan EGR
+Untuk mengukur temperatur digunakan
+thermocouple tipe K yang dipasang pada exhaust
+manifold, inlet EGR, outlet EGR dan di intake manifold
+serta di blok mesin yang bersentuhan dengan air
+pendingin dimana hasil pengukuran ditunjukkan oleh
+thermokopel display (11-15). Untuk mengukur aliran
+massa udara dan EGR digunakan orifice plat yang
+ditunjukkan oleh U manometer 1 (27) dan U
+manometer 2 (26) yang dipasang pada intake manifold
+dan pada saluran input EGR. Sedangkan untuk
+mengukur emisi gas buang yaitu emisi smoke
+digunakan Smoke meter OTC 495 (20) yang hasilnya
+ditunjukkan pada display gas analyzer Stargass 898
+(25).
+HASIL DAN PEMBAHASAN
+Gambar 2 mengilustrasikan nilai BSFC dengan
+bahan bakar biosolar serta aditif LPM dan HPM 5
+sampai 10% dengan bukaan EGR 0 sampai 100% pada
+berbagai variasi pembebanan. BSFC adalah nilai
+ekonomi dari bahan bakar dimana laju konsumsi bahan
+bakar dibandingkan dengan daya yang dihasilkan.
+Dalam eksperimen, jatropha divariasikan mulai dari 10
+hingga 30%. Oleh karena kecenderungan yang serupa,
+nilai BSFC yang ditunjukkan pada Gambar 2 hanya
+untuk jatropha 10%. Dengan mengamati hasil yang
+ditunjukkan pada Gambar 2 (a), (b), (c) dan (d)
+diperoleh bahwa BSFC cenderung menurun dengan
+meningkatnya pembebanan (Load). Hal ini disebabkan
+kenaikan persentase daya mesin terhadap beban
+dibandingkan dengan konsumsi bahan bakar (Xue dkk.,
+2011). Pada pembebanan yang tinggi nilai BSFC
+mengalami kenaikan yang disebabkan kenaikan jumlah
+bahan bakar yang diinjeksikan dan kandungan oksigen
+yang berkurang sehingga AFR (air fuel ratio) berubah
+dan mengakibatkan kenaikan BSFC (Husain dkk.,
+2012). Dari Gambar 2 juga teramati bahwa nilai BSFC
+meningkat seiring dengan kenaikan EGR rate. Hal ini
+disebabkan karena EGR akan merubah FAR (fuel air
+ratio) serta terjadinya efek pelemahan (dilution effect)
+akibat berkurangnya konsentrasi oksigen yang masuk
+kedalam silinder oleh sebagian gas buang yang
+disirkulasikan. Dengan berkurangnya konsentrasi
+oksigen, waktu pencampuran bahan bakar dan udara
+bertambah, sehingga mengurangi burn rate ketika
+pembakaran difusi dimulai. Akibatnya sulit untuk
+mencapai pembakaran stabil yang ditunjukkan dengan
+kenaikan BSFC (Qi dkk., 2011). Peningkatan BSFC
+akibat adanya EGR juga disetujui oleh Bose dan Maji
+(2009) dan Goma dkk. (2010). Pada mesin diesel
+berbahan bakar biosolar (D100), BSFC menurun
+dengan pemakaian EGR dibandingkan dengan tanpa
+EGR pada beban rendah. Kejadian ini juga terjadi pada
+penelitian yang dilakukan Agarwal dkk. (2011) dan
+Husain dkk. (2012). Penurunan BSFC tertinggi terjadi
+saat pembebanan 25% dengan OEV 75% sebesar
+3,05% dibandingkan dengan tanpa EGR. Nilai BSFC
+terendah terjadi saat pembebanan 75% dengan tanpa
+EGR yaitu 0,2145 kg/kW.h. Sedangkan ketika
+menggunakan EGR, BSFC terendah terjadi saat OEV
+25% sebesar 0,2138 kg/kW.h pada beban 75%.
+Hampir sama dengan D100, saat bahan bakar
+ditambah jatropha 10%, semakin besar OEV, nilai
+BSFC juga semakin meningkat. Besarnya peningkatan
+dan titik puncak BSFC dari masing-masing bahan
+bakar mempunyai nilai yang berbeda.
+
+1. Mesin diesel
+2. Dynamometer
+3. Injektor
+4,6. Katup air
+5. Pompa
+7. Inlet air
+8. Inlet udara
+9. Outlet air
+10. Display temperatur dan
+manometer
+11-15.Display temperatur
+16. Display beban mesin
+17. Display kecepatan mesin
+18. Pompa bahan bakar
+19. EGR cooler
+20. Smoke meter
+21. Katup bahan bakar
+22. Burret
+23. Ruang pencampur bahan
+bakar
+24. Katup EGR
+25. Display smoke
+26. Manometer udara
+27. Manometer gas EGR
+
+Gambar 1. Skema alat pengujian mesin diesel injeksi
+langsung dengan EGR
+Untuk mengukur temperatur
+
+
+0.35
+BSFC [kg/kW.h]
+Load [%]
+OEV D100
+OEV 0%
+OEV 25%
+OEV 50%
+OEV 75%
+OEV 100%
+(a)
+0 25 50 75 100
+0.00
+0.20
+0.25
+0.30
+0.35
+BSFC [kg/kW.h]
+Load [%]
+OEV D100
+OEV 0%
+OEV 25%
+OEV 50%
+OEV 75%
+OEV 100%
+(b)
+0 25 50 75 100
+0.00
+0.20
+0.25
+0.30
+0.35
+BSFC [kg/kW.h]
+Load [%]
+OEV J10 HPM/LPM 10
+OEV 0% J10 HPM10 OEV 0% J10 LPM10
+OEV 25% J10 HPM10 OEV 25% J10 LPM10
+OEV 50% J10 HPM10 OEV 50% J10 LPM10
+OEV 75% J10 HPM10 OEV 75% J10 LPM10
+OEV 100% J10 HPM10 OEV 100% J10 LPM10
+(c)
+0 25 50 75 100
+0.00
+0.20
+0.25
+0.30
+0.35
+BSFC [kg/kW.h]
+Load [%]
+OEV J10 HPM/LPM 15
+OEV 0% J10 HPM15 OEV 0% J10 LPM15
+OEV 25% J10 HPM15 OEV 25% J10 LPM15
+OEV 50% J10 HPM15 OEV 50% J10 LPM15
+OEV 75% J10 HPM15 OEV 75% J10 LPM15
+OEV 100% J10 HPM15 OEV 100% J10 LPM15
+(d)
+Gambar 2. Perbandingan nilai BSFC untuk berbagai
+variasi pembebanan (Load) pada laju EGR (OEV)
+berbeda dengan variasi aditif LPM dan HPM 5%
+sampai 15%
+Dengan menggunakan LPM dimana kadar air
+pada methanol mendekati 25%, nilai BSFC meningkat
+dibandingkan dengan bahan bakar campuran dengan
+aditif HPM. Hal ini disebabkan angka setana LPM lebih
+rendah daripada HPM. Alasan lain juga dapat diperoleh
+dari Armas dkk. (2005).
+LPM dan HPM dengan Variasi EGR terhadap
+Emisi Jelaga
+Emisi jelaga dapat diukur menggunakan smoke
+meter dimana besarannya dinyatakan oleh smoke
+opacity. Dalam hal ini, eksperimen dilakukan untuk
+mengetahui efek LPM dan HPM pada berbagai variasi
+laju EGR terhadap smoke opacity. Gambar 3
+mengilustrasikan perbandingan smoke opacity dengan
+adanya aditif LPM dan HPM pada berbagai laju EGR.
+0 25 50 75 100
+0
+8
+16
+24
+32
+40
+48
+OEV D100
+OEV 0%
+OEV 25%
+OEV 50%
+OEV 75%
+OEV 100%
+Smoke Opacity [%]
+Load [%]
+(a)
+0 25 50 75 100
+0
+8
+16
+24
+32
+40
+48 OEV J10 HPM/LPM 5
+OEV 0% J10 HPM5 OEV 0% J10 LPM5
+OEV 25% J10 HPM5 OEV 25% J10 LPM5
+OEV 50% J10 HPM5 OEV 50% J10 LPM5
+OEV 75% J10 HPM5 OEV 75% J10 LPM5
+OEV 100% J10 HPM5 OEV 100% J10 LPM5
+Smoke Opacity [%]
+Load [%]
+(b)
+0 25 50 75 100
+0
+8
+16
+24
+32
+40
+48 OEV J10 HPM/LPM 10
+OEV 0% J10 HPM10 OEV 0% J10 LPM10
+OEV 25% J10 HPM10 OEV 25% J10 LPM10
+OEV 50% J10 HPM10 OEV 50% J10 LPM10
+OEV 75% J10 HPM10 OEV 75% J10 LPM10
+OEV 100% J10 HPM10 OEV 100% J10 LPM10
+
+
+
+48 OEV J10 HPM/LPM 15
+OEV 0% J10 HPM15 OEV 0% J10 LPM15
+OEV 25% J10 HPM15 OEV 25% J10 LPM15
+OEV 50% J10 HPM15 OEV 50% J10 LPM15
+OEV 75% J10 HPM15 OEV 75% J10 LPM15
+OEV 100% J10 HPM15 OEV 100% J10 LPM15
+Smoke Opacity [%]
+Load [%]
+(d)
+Gambar 3. Perbandingan smoke opacity untuk
+berbagai variasi pembebanan (Load) pada laju EGR
+(OEV) berbeda dengan variasi aditif LPM dan HPM
+5% sampai 15%
+Gambar 3 memperlihatkan bahwa smoke
+opacity meningkat seiring dengan meningkatnya beban
+mesin. Hal ini terjadi karena meningkatnya bahan bakar
+yang diinjeksikan ke ruang bakar dengan meningkatnya
+beban yang memungkinkan peningkatan karbon yang
+tidak teroksidasi karena pembakaran tidak sempurna
+(Syaiful dkk., 2013). Peningkatan smoke opacity
+karena beban juga terjadi pada penelitian Sayin (2010)
+dan Chauman dkk. (2012). Smoke opacity meningkat
+seiring dengan kenaikan EGR rate yang diakibatkan
+oleh berkurangnya konsentrasi oksigen di ruang bakar
+sehingga menurunkan oksidasi karbon yang
+mengakibatkan meningkatnya smoke opacity (Syaiful
+dkk., 2013) dan juga efek thermal oleh EGR (Qi dkk.,
+2011). Peningkatan smoke opacity akibat adanya EGR
+ini juga diketahui oleh Agarwal dkk. (2011) dan Husain
+dkk. (2012).
+Gambar 3 (a) mempresentasikan pengaruh EGR
+terhadap smoke opacity pada mesin diesel dengan
+bahan bakar D100. Peningkatan OEV menyebabkan
+smoke opacity meningkat. Peningkatan smoke opacity
+tertinggi terjadi ketika OEV 100% pada beban 25%
+yaitu sebesar 26,99% dibandingkan dengan tanpa EGR.
+Sedangkan kenaikan smoke opacity terendah terjadi
+ketika OEV 25% pada beban 100% yaitu sebesar 0,46%
+dibandingkan dengan tanpa EGR. Nilai smoke opacity
+terendah terjadi ketika tanpa EGR dengan beban 25%
+yaitu sebesar 6,20%. Sedangkan ketika menggunakan
+EGR, nilai terendah adalah 6,57% terjadi ketika OEV
+25% dengan beban 25%.
+Dengan membandingkan penggunaan HPM
+dalam campuran bahan bakar dengan pemakaian LPM
+didapatkan nilai smoke opacity yang lebih rendah pada
+semua campuran bahan bakar seperti yang
+diekspresikan pada Gambar 3 (b-d). Pada kandungan
+jatropha 10%, pemakaian HPM5 dan HPM10 (lihat
+Gambar 3(b) dan (c)) menghasilkan penurunan ratarata
+nilai smoke opacity sebesar 30,44% dan 8,47%
+dibandingkan LPM. HPM menghasilkan nilai smoke
+opacity yang lebih rendah dibandingkan dengan LPM.
+Hal ini disebabkan oleh tingginya kadar air di dalam
+LPM. Pradeep dkk. (2007) juga mengamati bahwa
+kandungan air yang terlalu tinggi meningkatkan nilai
+smoke yang tinggi pada mesin diesel.
+KESIMPULAN
+Berdasarkan kaji eksperimental yang dilakukan
+pada penelitian ini, pengaruh penambahan High Purity
+Methanol (HPM) dan Low Purity Methanol (LPM)
+serta cold EGR pada campuran bahan bakar dieseljatropha
+terhadap variasi BSFC mesin dan emisi
+smoke mengakibatkan nilai BSFC untuk campuran
+bahan bakar dengan aditif LPM lebih tinggi
+dibandingkan dengan nilai BSFC dengan aditif HPM.
+Sedangkan emisi jelaga yang dinyatakan oleh smoke
+opcity lebih rendah untuk bahan bakar campuran
+dengan aditif HPM dibandingkan dengan campuran
+dengan aditif LPM.

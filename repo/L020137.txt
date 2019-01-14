@@ -1,0 +1,184 @@
+﻿ABSTRAK
+Tujuan dari penelitian ini adalah untuk mengetahui tingkat intrusi air laut yang
+terjadi di pesisir Gresik, mengetahui korelasi antara keberadaan vegetasi
+mangrove terhadap tingkat intrusi air laut, dan untuk mengetahui sebaran tingkat
+intrusi air laut dapat memudahkan pemantauan tingkat intrusi air laut di pesisir
+Gresik. Metode penelitian ini yaitu dengan penelitian sistematis dengan memilih
+30 sumur di pesisir Gresik dengan memperhatikan keberadaan dan tebal vegetasi
+mangrove. Parameter yang diuji untuk mendapatkan nilai tingkat intrusi air laut
+adalah adalah daya hantar listrik (DHL), total dissolve solid (TDS), dan salinitas.
+Hasil dari penelitian kemudian dipetakkan untuk mengetahui hubungan mangrove
+terhadap tingkat intrusi air laut. Berdasarkan hasil perhitungan chi-square
+menunjukkan nilai signifikan pada perhitungan adalah 0,013 yang menunjukkan
+lebih kecil dari 0,05. Hal ini menunjukkan bahwa Ho ditolak yang menyimpulkan
+bahwa ada korelasi antara keberadaan mangrove dengan tingkat intrusi air laut.
+Pemetaan intrusi air laut berdasar keberadaan mangrove dengan sistem informasi
+geografis dapat mempermudah pemantauan tingkat intrusi di pesisir Gresik.
+Kata Kunci : Pemetaan, intrusi air laut, mangrove, SIG, Pesisir Gresik
+
+
+BAB I
+PENDAHULUAN
+1.1 Latar Belakang
+Air merupakan sumber daya alam yang sangat diperlukan bagi kelangsungan
+hidup organisme dan berbagai usaha peningkatan kesejahteraan manusia, seperti
+perindustrian, pertanian, dan rumah tangga. Seiring dengan meningkatnya jumlah
+penduduk, maka kebutuhan akan air bersih pun meningkat. Salah satu sumber air
+bersih yang sering digunakan adalah air tanah. Air tanah berasal dari air hujan
+yang masuk ke dalam tanah, penggunaan air tanah di suatu wilayah harus
+seimbang dengan kuantitas air tanah sehingga sistem hidrologi tidak terganggu.
+Meningkatnya kebutuhan air bersih dan menurunnya kemampuan infiltrasi akibat
+penggunaan tata guna lahan yang tidak tepat dapat mengganggu keseimbangan
+sistem hidrologi (Husni & Santoso, 2012).
+Pengambilan air tanah yang berlebihan akan menimbulkan ruang kosong
+dibawah tanah yang memungkinkan terjadi proses kompaksi akibat tekanan beban
+tanah atau batuan di atasnya yang tercermin dipermukaan sebagai amblesan yang
+datangnya perlahan-lahan atau tiba-tiba. Pada akuifer yang dekat dengan pantai
+kekosongan akibat pengambilan air tanah yang berlebihan dapat mengakibatkan
+perubahan kesetimbangan hidrolik antara air tekanan, air tawar dan air laut yang
+menyebabkan masuknya air laut ke arah darat yang dikenal dengan intrusi air laut
+(Herlambang & Indriatmoko, 2005). Salah satu dampak yang paling terasa dari
+intrusi air laut adalah perubahan struktur tanah berupa penurunan lapisan air
+tanah. Apabila daerah pesisir yang mengalami intrusi merupakan kawasan padat
+penduduk dapat mengganggu struktur pondasi bangunan-bangunan tersebut selain
+itu, daerah pesisir menjadi lebih rentan terhadap kejadian penurunan lapisan tanah
+dan korosi bangunan oleh air laut (Bengen, 2004).
+Banyak dijumpai kondisi air tanah yang tercemar, baik oleh air limbah
+maupun polutan-polutan lain yang sejenis. Parameter fisik yang paling mudah
+untuk mengetahui penurunan kualitas air tanah adalah salinitas, Daya Hantar
+Listrik (DHL), dan Total Dissolved Solid (TDS). Salinitas merupakan suatu
+parameter yang mengukur tinggi rendahnya kadar garam yang terkandung dalam
+air. Salinitas ini dapat diukur dengan menggunakan alat yang berupa salinometer
+dengan satuan promil (‰). DHL atau daya hantar listrik merupakan salah satu
+faktor fisik yang digunakan untuk mengukur tingginya polutan air yang berupa
+ion-ion yang mampu menghantarkan listrik. Sedangkan TDS (Total Dissolved
+Solid) merupakan suatu parameter kualitas air dimana dilakukan pengukuran
+terhadap banyaknya jumlah partikel yang terlarut dalam air tersebut. Ketiga
+parameter tersebut merupakan parameter umum yang digunakan untuk
+mendeteksi adanya pencemaran air tanah oleh masuknya air laut atau biasa
+disebut dengan intrusi air laut.
+Intrusi air laut merupakan salah satu penyebab terjadinya penurunan kualitas
+air tanah. Intrusi air laut menyebabkan air tanah menjadi terkontaminasi dari
+tawar, payau, hingga asin. Salah satu dampak negatif dari terjadinya intrusi air
+laut adalah menimbulkan perubahan kualitas air tanah, sehingga air tanah tidak
+dapat digunakan sebagai sumber air minum (Herlambang & Indriatmoko, 2005).
+
+Intrusi air laut juga dapat memberikan efek yang merugikan untuk pondasi suatu
+bangunan. Adanya intrusi air laut menyebabkan timbulnya korosi pada tulangan
+baja pondasi bangunan dan lapuknya batu bata dan semen pada tembok
+(Anggraini dkk., 2011). Selain berdampak terhadap bangunan, intrusi air laut juga
+dapat menyebabkan masyarakat tidak dapat menggunakan air tersebut untuk
+menyiram tanaman dan mencuci kendaraan bermotor (Firmansyah, 2013).
+Kawasan hutan mangrove umumnya terdapat di seluruh pantai Indonesia dan
+hidup serta tumbuh berkembang pada lokasi-lokasi yang mempunyai hubungan
+pengaruh pasang surut yang menggenangi pada aliran sungai yang terdapat di
+sepanjang pesisir pantai (Tarigan, 2008). Hutan mangrove terdiri dari beragam
+organisme yang juga saling berinteraksi satu sama lainnya. Fungsi fisik dari hutan
+mangrove di antaranya, sebagai pengendali naiknya batas antara permukaan air
+tanah dengan permukaan air laut ke arah daratan (intrusi), sebagai kawasan
+penyangga, memacu perluasan lahan dan melindungi garis pantai agar terhindar
+dari erosi atau abrasi. Hutan mangrove dapat diidentifikasi dengan menggunakan
+teknologi penginderaan jauh, dimana letak geografi hutan mangrove yang berada
+pada daerah peralihan darat dan laut memberikan efek perekaman yang khas jika
+dibandingkan obyek vegetasi darat lainnya (Faizal & Amran., 2005).
+Pengelolaan sumberdaya air tanah sangat diperlukan terutama dalam
+perencanaan, pendayagunaan dan konservasi. Dalam melakukan pengelolaan,
+dibutuhkan informasi tentang tingkat penurunan kualitas air tanah yang
+mengindikasikan terjadinya intrusi air laut (Asade, 2011). Penurunan kualitas air
+tanah dapat dilihat dari kadar garam air tanah yang ditunjukan dengan nilai
+Padatan Terlarut Total (TDS), nilai Daya Hantar Listrik (DHL), dan salinitas air
+tanah. Pengembangan suatu wilayah memerlukan informasi dan analisa secara
+menyeluruh terhadap kondisi terkini wilayah itu sendiri, salah satu informasi yang
+diperlukan dalam mengembangkan daerah pesisir Gresik berupa pemetaan.
+Pemetaan tingkat intrusi air laut menunjukkan informasi secara lengkap mengenai
+persebaran intrusi air laut berdasarkan kualitas air sumur gali sesuai dengan letak
+geografisnya yang disebut dengan Sistem Informasi Geografi (SIG) atau
+Geogaphic Information System (GIS). SIG adalah suatu sistem informasi yang
+dirancang untuk bekerja dengan data yang bereferensi spasial atau berkoordinat
+geografi atau dengan kata lain suatu SIG adalah suatu sistem basis data dengan
+kemampuan khusus untuk menangani data yang bereferensi keruangan (spasial)
+bersamaan dengan seperangkat operasi kerja (Asade, 2011). Dengan penggunaan
+SIG ini data kadar salinitas, DHL, dan TDS yang diperoleh akan dipetakan
+sehingga nantinya dapat diperoleh gambaran atau peta persebaran intrusi air laut
+yang ada di Surabaya Utara. Penggunaan SIG ini didasarkan atas kemampuan
+aplikasi ini yang mampu mengumpulkan, menyimpan, dan menganalisis objekobjek
+dan fenomena yang mempunyai lokasi geografi. Selain itu SIG memiliki
+empat kemampuan berikut dalam menangani data yang bereferensi geografi,
+yaitu: (a) mengelola masukan; (b) memanajemen data (penyimpanan dan
+pemanggilan data); (c) menganalisis dan manipulasi data; (d) menghasilkan
+keluaran (Aronoff, 1989 dalam Prahasta, 2001).
+SIG dapat diterapkan dalam berbagai bidang ilmu pengetahuan seperti bisnis,
+telekomunikasi, geologi, dan lingkungan (Febriani, 2009). Salah satu contoh SIG
+
+yang telah diterapkan dalam bidang lingkungan, yaitu SIG dapat memetakan
+zonasi kondisi air tanah di Kota Tangerang Selatan untuk memprediksi intrusi air
+laut di Kota Tangerang Selatan (Husni & Santoso, 2012). Menurut Erliwati
+(2014), penggunaan SIG dalam pemetaan intrusi air laut sangat bermanfaat.
+Disimpulkan bahwa penggunaan penggunaa system informasi geografis (SIG)
+dalam proses pembuatan peta dapat memudahkan dalam membaca informasi peta.
+Pemetaan sebaran indikasi intrusi air laut berbasis system informasi geografis
+(SIG) juga memudahkan pemantauan tingkat intrusi di sumur penduduk wilayah
+pesisir Kabupaten Sidoarjo (Octavia, 2014). Hal ini dikarenakan pada satu peta
+tersebut dapat memuat banyak informasi-informasi terkait parameter intrusi air
+laut dan tingkat intrusi yang terjadi. Keadaan ini sesuai dengan pernyataan Kadir
+(2013) yang menyatakan SIG memiliki sistem lapis (layer). Dimana setiap lapisan
+mewakili satu fitur geografis dalam area yang sama dan selanjutnya semua lapisan
+bias saling ditumpuk untuk mendapatkan informasi yang lengkap. Adanya peta
+indikasi intrusi air berdasar parameter TDS, daya hantar listrik, dan Salinitas
+berbasis system informasi geografis (SIG) dapat memudahkan mengetahui tingkat
+intrusi di Surabaya (Ariyani, 2014). Oleh karena itu, penelitian ini bertujuan untuk
+melakukan pemetaan indikasi intrusi air laut yang dipengaruhi oleh keberadaan
+mangrove di pantai Gresik berbasis sistem informasi geografis (SIG) sehingga
+dapat memberikan informasi tentang indikasi terjadinya intrusi air laut yang
+dipengaruhi keberadaan mangrove di pantai Gresik.
+
+1.2 Rumusan Masalah
+Rumusan masalah dari penelitian ini adalah:
+1. Bagaimana tingkat intrusi air laut berdasarkan parameter DHL, TDS, dan
+salinitas di pesisir Gresik yang dipengaruhi oleh keberadaan mangrove?
+2. Bagaimana sebaran tingkat intrusi air laut berdasarkan parameter DHL, TDS,
+dan salinitas di pesisir Gresik yang dipengaruhi oleh keberadaan mangrove?
+3. Apakah ada korelasi antara keberadaan vegetasi mangrove terhadap intrusi air
+laut di pesisir Gresik?
+4. Apakah pemetaan sebaran tingkat intrusi air laut dapat memudahkan
+pemantauan tingkat intrusi air laut di pesisir Gresik?
+1.3 Hipotesis
+Hipotesis dari penelitian ini adalah:
+Ho = Tidak ada korelasi antara keberadaan vegetasi mangrove terhadap intrusi
+air laut di pesisir Gresik.
+Ha = Ada korelasi antara keberadaan vegetasi mangrove terhadap intrusi air
+laut di pesisir Gresik.
+1.4 Asumsi
+Asumsi dari penelitian ini adalah:
+Mangrove mempunyai fungsi untuk mencegah terjadinya abrasi dan intrusi air
+laut oleh karena itu, dengan adanya vegetasi mangrove maka tidak terjadi intrusi
+air laut.
+
+
+1.5 Tujuan Penelitian
+Tujuan penelitian ini dibagi menjadi dua, yaitu:
+1.5.1 Tujuan fungsional
+Tujuan fungsional penelitian ini, yaitu untuk mengetahui SIG dapat
+memudahkan pemetaan intrusi air laut di kawasan pesisir Gresik.
+1.5.2 Tujuan operasional
+Tujuan operasional penelitian ini, yaitu untuk mengetahui korelasi antara
+keberadaan vegetasi mangrove terhadap intrusi air laut berdasarkan kadar
+salinitas, DHL dan TDS di kawasan pesisir Gresik.
+1.6 Manfaat Penelitian
+Manfaat dari penelitian ini adalah:
+(1) memberikan informasi mengenai tingkat intrusi air laut berdasarkan
+parameter DHL, TDS, dan salinitas di pesisir Gresik yang dipengaruhi oleh
+keberadaan mangrove;
+(2) memberikan informasi mengenai sebaran tingkat intrusi air laut berdasarkan
+parameter DHL, TDS, dan salinitas di pesisir Gresik yang dipengaruhi oleh
+keberadaan mangrove;
+(3) memberikan informasi korelasi antara keberadaan vegetasi mangrove
+terhadap intrusi air laut;
+(4) memberikan tampilan informasi tingkat intrusi air laut di pesisir Gresik
+berbasis sistem informasi geografi (SIG).
+
+1.7 Lingkup Penelitian
+1. Sumur penduduk di pesisir Gresik yang diteliti pada jarak maksimal 4,5 km
+dari pantai pada saat pasang tertinggi.
+2. Pengambilan data dilakukan pada saat tidak hujan / 12 jam setelah hujan.
+3. Daerah penelitian yang diambil merupakan wilayah daerah pesisir Gresik.

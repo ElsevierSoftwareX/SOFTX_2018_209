@@ -1,0 +1,428 @@
+﻿Kajian Eksperimental Bresing Tahan Tekuk pada Bangunan Tahan Gempa
+di Indonesia
+
+Abstrak
+Sistem rangka bresing tahan tekuk merupakan pengembangan dari sistem rangka bresing konsentrik dengan
+bresing tahan tekuk sebagai elemen utama penyerap energi gempa yang direncanakan leleh pada seluruh inti
+bajanya. Kajian eksperimental dilakukan terhadap tiga spesimen bresing dengan variasi ukuran diameter pipa
+pengekang (pipa PVC) dan mortar. Pembebanan siklik secara kuasi-statik dengan kontrol perpindahan dilakukan
+terhadap ketiga spesimen bresing hingga mencapai keruntuhan. Kinerja yang paling baik dihasilkan oleh bresing
+berdiameter 216 mm dalam hal kekuatan, kurva histeresis dan kurva backbone. Beberapa kegagalan diamati pada
+spesimen bresing tahan tekuk dalam hal perilaku leleh pada daerah peralihan inti bresing yang tidak terkontrol dan
+keterbatasan kemampuan sistem penahan tekuk.
+Kata-kata Kunci: Bresing tahan tekuk, Leleh, Eksperimental, kurva hysteresis.
+
+1. Pendahuluan
+Masalah tekuk menjadi perhatian dalam desain
+bangunan baja. Tekuk menyebabkan hilangnya
+kekuatan tekan sehingga pengecekan kapasitas tekan
+dari suatu elemen struktur menjadi satu hal yang diperhatikan.
+Masalah tekuk pada bresing dapat diselesaikan
+apabila bresing memiliki ketahanan terhadap gaya
+tekan yang diterima, khususnya pada struktur yang
+memikul beban gempa bolak-balik. Hal ini
+diakomodasi dengan kehadiran bresing tahan tekuk.
+
+1.1 Konsep bresing tahan tekuk
+Sistem rangka bresing tahan tekuk merupakan pengembangan
+dari sistem rangka bresing konsentrik. Inovasi
+ini muncul dengan ide untuk menyelesaikan masalah
+tekuk yang dialami oleh bresing yang mengalami gaya
+tekan pada sistem rangka baja konsentrik. Masalah
+tekuk merupakan salah satu jenis kegagalan elemen
+struktur yang mempengaruhi besarnya energi disipasi.
+Apabila terjadi tekuk, elemen struktur tidak dapat
+bekerja kembali seperti yang diharapkan semula.
+Daktilitas material baja tidak dapat dimanfaatkan
+secara optimal.
+Agar permasalahan tekuk dapat diantisipasi dengan
+baik, nilai kelangsingan yang dimiliki bresing harus
+sekecil mungkin sehingga nilai fy tekan tercapai. Luas
+penampang bresing diperbesar untuk mencapai nilai
+kelangsingan yang kecil. Perbesaran luas penampang
+dilakukan dengan menambah selongsong di inti baja
+(berupa mortar atau beton).
+Bresing tahan tekuk tersusun dari inti baja yang daktail
+yang direncanakan untuk leleh akibat gaya tarik dan gaya tekan. Untuk mencegah tekuk akibat tekan, inti
+baja dibungkus oleh selongsong baja yang diisi dengan
+mortar atau beton. Di antara mortar dan inti beton,
+ditempatkan material tertentu atau celah udara untuk
+meminimalisasi atau menghilangkan transfer gaya
+aksial dari inti baja ke mortar dan selongsong baja. Efek
+Poisson juga menyebabkan ekspansi inti baja saat tekan
+terjadi sehingga celah udara dibutuhkan di antara
+mortar dan inti baja.
+Pelelehan inti baja pada bresing tahan tekuk merupakan
+proses disipasi energi yang diharapkan dalam Sistem
+Rangka Bresing Tahan Tekuk. Pelelehan inti bresing
+berkaitan dengan peningkatan kekuatan bresing pasca
+leleh dan peningkatan nilai deformasi bresing saat
+mengalami gaya tekan. Bagian-bagian bresing tahan
+tekuk dipaparkan sebagai berikut (CRC Press, 2004):
+1. Bagian leleh terkekang
+Komponen ini tersusun dari inti baja yang
+direncanakan untuk leleh akibat gaya tarik dan gaya
+tekan. Baja mutu rendah dengan dakitilitas tinggi
+lebih sering dipakai. Komponen ini menentukan
+kuat aksial bresing yang dihasilkan.
+2. Bagian tidak leleh terkekang
+Bagian yang dikelilingi casing dan mortar ini merupakan
+perpanjangan dari segmen terkekang leleh
+dengan perbesaran luasan penampang untuk memastikan
+respons elastik. Hal ini dapat dicapai dengan
+memperlebar segmen terkekang leleh di ujungujungnya.
+Transisi pelebaran segmen perlu diperhatikan
+untuk meminimalisasi konsentrasi tegangan.
+3. Bagian tidak leleh tidak terkekang
+Segmen ini didesain sebagai sambungan bresing.
+Sambungan dapat berupa sambungan baut dan las
+dengan perilaku jepit atau sendi. Segmen ini juga
+didesain dengan mempertimbangkan kemudahan
+dalam proses konstruksi dan pencegahan terhadap
+tekuk lokal.
+4. Casing dan material pengisi pencegah tekuk
+Material pengisi casing secara efektif
+meminimalisasi transfer gaya geser antara baja
+terkekang dengan mortar. Bahan seperti karet,
+polyethylene, silikon telah dipakai di sejumlah
+penelitian. Komponen casing ini hanya mengalami
+tekuk dengan amplitudo yang sangat kecil sebagai
+akibat dari adanya mekanisme kekangan. Celah
+udara dibutuhkan agar ekspansi yang terjadi dapat
+diakomodasi dengan baik
+5. Sistem penahan tekuk
+Sistem ini terdiri dari bahan pengisi pencegah tekuk
+(beton atau steel casing). Dalam pemakaian beton,
+proses mix design dan curing harus dilakukan
+secara benar. Hal ini dilakukan untuk memastikan
+nilai kuat tekan beton rencana tercapai. Nilai kuat
+tekan penting karena beton berkontribusi besar
+pada kemampuan tahanan bresing terhadap tekuk.
+
+
+1.2 Desain bresing tahan tekuk
+Batang baja yang dipakai dalam bresing didesain untuk
+menahan gaya aksial dari bresing secara keseluruhan.
+Kuat aksial desain FPysc (LRFD), baik tarik maupun
+tekan, berdasarkan batas leleh ditentukan sebagai
+berikut:
+Pysc = FyscAsc (1)
+dimana:
+Fysc = tegangan leleh hasil pengujian, (MPa)
+Asc = luas dari batang baja inti (mm2)
+F = 0.90 (LRFD)
+
+
+Sistem penahan tekuk terdiri dari selubung dan material
+pengisi (beton, dalam penelitian ini). Sistem pertahanan
+tekuk akan membatasi tekuk lokal dan global inti baja
+untuk deformasi yang sesuai dengan 2.0 x simpangan
+antar lantai. Sistem pertahanan tekuk tidak boleh
+tertekuk dengan deformasi 2.0 x simpangan antar lantai.
+Kuat tarik dari bresing ditentukan dengan formula
+bwRyPysc., sedangkan kuat tekan bresing adalah wRyPysc
+dimana:
+Pmaks = gaya tekan maksimum (N)
+Tmaks = gaya tarik maksimum dengan deformasi sesuai
+dengan 200% dari simpangan antar lantai
+Fysc = kekuatan leleh dari batang baja inti (MPa)
+_ =
+______
+_____
+=
+_	__
+_	__
+(2)
+((=
+_____
+____
+=
+_	__
+____
+(3)
+
+
+Gambar 2. Diagram gaya-perpindahan batang (ANSI/AISC 341-10)
+Dalam hal ini β adalah rasio antara gaya tekan maksimum
+terhadap gaya tarik maksimum dari hasil
+pengujian. Sedangkan ω adalah rasio antara gaya tarik
+maksimum terhadap kuat leleh batang baja inti. Faktor
+Ry tidak dipakai apabila nilai Pysc merupakan nilai
+tegangan leleh yang diperoleh dari pengujian.
+Kurva backbone yang dihasilkan dari pengujian bresing
+tahan tekuk memuat diagram gaya bresing normalisasi
+dan regangan rata-rata bresing. Kurva backbone diperlukan
+untuk menentukan besaran kapasitas aksial yang
+dicapai oleh bresing tahan tekuk. Dengan mengetahui
+deformasi desain bresing, gaya tekan dan gaya tarik
+yang dicapai dapat diketahui melalui faktor ω dan β.
+Kurva backbone didapat dari kurva histeresis hasil
+pengujian dengan menetapkan pasangan besaran
+regangan dan gaya maksimum atau pasangan besaran
+perpindahan dan gaya maksimum.
+Dalam pengujian bresing tahan tekuk, hasil yang
+diperoleh harus memenuhi kriteria yang ditetapkan oleh
+ANSI/AISC 341-10 sebagai berikut.
+
+
+
+1. Hasil plot gaya vs perpindahan menunjukkan
+perilaku bresing yang stabil dan berulang dengan
+kenaikan kekakuan positif.
+2. Tidak ada fraktur, instabilitas bresing atau kegagalan
+sambungan bresing.
+3. Pada bresing, setiap siklus dengan deformasi lebih
+besar dari Δby, gaya tarik dan gaya tekan maksimum
+tidak kurang dari kuat nominal inti baja.
+4. Pada bresing, setiap siklus dengan deformasi lebih
+besar dari Δby, rasio antara gaya tekan maksimum
+terhadap gaya tarik maksimum tidak lebih dari 1,3.
+Makalah ini menyajikan hasil kajian eksperimental
+terhadap kinerja bresing tahan tekuk dengan variasi
+diameter pipa pengekang (pipa PVC dalam penelitian
+ini), mencakup kurva histeresis, kurva backbone,
+analisis kegagalan, dan kekuatan.
+
+
+2. Kajian Ekssperiimenttall
+2.1 Desain bresing tahan tekuk
+Kinerja bresing tahan tekuk yang ditinjau dalam kajian
+ini adalah kinerja bresing yang direncanakan untuk
+memenuhi kebutuhan struktur bangunan ruko 3 lantai
+berukuran 32x18 meter yang berlokasi di kota Padang
+kondisi tanah lunak, seperti terlihat pada Gambar 4.
+Perencanaan dilakukan mengikuti ketentuan
+pembebanan akibat gempa (RSNI 03-1726-201X) dan
+ketentuan perencanaan bresing tahan tekuk (ANSI/
+AISC 341-10). Dengan bantuan perangkat lunak,
+diperoleh desain bresing tahan tekuk dengan luas
+penampang inti baja 300 mm2.
+
+2.2 Benda uji
+Kajian eksperimental dilakukan terhadap tiga buah
+spesimen bresing dengan tiga diameter pipa PVC yang berbeda, yaitu 216 mm (Spesimen 1), 165 mm
+(Spesimen 2), dan 140 mm (Spesimen 3). Uji tarik
+terhadap pelat baja pembentuk inti bresing dilakukan
+mengikuti standar JIS Z2201 untuk mengetahui karakteristik
+material yang digunakan dalam mendesain
+elemen bresing. Hasil uji tarik dilihat pada Tabel 1.
+
+
+Pengujian juga dilakukan terhadap beton yang dipakai
+sebagai material pengisi pencegah tekuk dan didapat
+f’c=46,89 MPa. Perencanaan benda uji bresing mencakup
+penentuan luasan inti baja, diameter selongsong
+beton, pendekatan nilai Pcr masing-masing spesimen,
+gap antara inti baja dan selongsong beton dan penngecekan
+konsentrasi tegangan pada daerah peralihan.
+Gambaran benda uji serta detailing sambungan dapat
+dilihat pada Gambar 5 sampai dengan Gambar 7.
+
+a. Dimensi inti bresing
+Panjang total : 2350 mm; panjang leleh: 1460 mm;
+tebal batang baja : 10 mm; panjang daerah peralihan
+: 70 mm; panjang sambungan : 150 mm
+
+
+b. Detail daerah peralihan
+Panjang daerah peralihan : 70 mm; jari-jari : 30 mm
+Gambar 6. Detail daerah peralihan
+c. Penampang bresing tahan tekuk
+Gambar 7. Penampang bresing tahan tekuk
+
+2.3 Set up pengujian
+Pengujian terhadap kinerja bresing tahan tekuk
+dilakukan terhadap spesimen yang dipasang secara
+diagonal konsentrik pada sebuah portal sederhana.
+Kedua ujung bresing berupa sendi, dengan salah satu
+sendi dipasang pada portal yang bergerak ke arah
+dorong dan tarik sesuai dengan perpindahan aktuator.
+Perpindahan ini menimbulkan gaya tarik dan tekan pada
+bresing.
+Pengamatan perpindahan dilakukan melalui bacaan
+pada aktuator dan pada LVDT yang dipasang di kepala
+aktuator, sedangkan strain gauge dipasang pada inti
+baja untuk mengamati perubahan regangan yang terjadi
+selama pengujian.
+
+2.4 Pengujian pembebanan
+Pembebanan diberikan melalui aktuator pada ujung atas
+bresing berupa perpindahan siklik kuasi-statik yang
+diatur mrngikuti pola pembebanan yang ditunjukkan
+dalam Gambar 9.
+Pencatatan dilakukan selama pembebanan terhadap
+besarnya beban yang bekerja, perpindahan bresing dan
+regangan pada inti bresing.
+Pembebanan dihentikan ketika terjadi penurunan
+bacaan beban tekan puncak pada siklus pembebanan
+yang akan ditunjukkan pula oleh kegagalan yang terjadi
+pada benda uji.
+
+
+3. Hasil Pengujian dan Pembahasan
+3.1 Kurva histeresis beban-perpindahan
+Hasil pengujian terhadap ketiga spesimen: bresing berdiameter
+216 mm, 165 mm, dan 140 mm, menunjukkan
+perilaku yang sama pada zona elastik. Hal ini ditunjukkan
+dengan kekakuan elastik ketiga benda uji yang terlihat
+dari garis lurus yang berhimpit pada kurva ketiga
+spesimen. (Gambar 10)
+
+
+Gambar 10 menunjukkan perbandingan antara kurva
+histeresis yang dihasilkan oleh ketiga benda uji akibat
+pola pembebanan siklik yang sama, dengan beban
+tekan puncak masing-masing adalah 107,57 kN, 81,54
+kN, dan 65,95 kN dengan perpindahan searah bresing
+sebesar 37,26 mm, 21,20 mm, dan 14,19 mm.
+Dari hasil kurva histeretik ketiga spesimen, tampak
+jelas bahwa spesimen berdiameter 216 mm menunjukkan
+kelelehan yang berulang dan lebih stabil
+dibandingkan dengan spesimen lainnya. Spesimen
+dengan diameter lebih kecil tidak mencapai deformasi
+saat perilakunya memasuki zona inelastik.
+Gambar 10 menunjukkan bahwa perbedaan diameter
+pipa PVC dan selongsong beton menghasilkan perbedaan
+pencapaian jumlah siklus pembebanan setiap
+specimen
+
+
+3.2 Kurva backbone
+Kurva backbone dibentuk dengan menentukan titiktitik
+maksimum pada kurva histeretik dan
+menghubungkannya antara regangan rata-rata bresing
+dengan gaya bresing normalisasi. Nilai regangan ratarata
+(%) adalah rasio nilai perpindahan inti bresing dengan nilai panjang leleh spesimen bresing (1460
+mm). Gaya bresing normalisasi adalah rasio antara gaya
+bresing maksimum tiap siklus dengan gaya leleh
+bresing.
+Gambar 12 menunjukkan spesimen 1 (diameter 216
+mm) memberikan perilaku bresing tahan tekuk yang
+lebih baik karena kapasitas aksial tekan dan tarik sama,
+baik pada saat elastik maupun inelastik. Spesimen 2 dan
+3 (diameter 165 mm dan 140 mm) tidak menunjukkan
+kecenderungan peningkatan kapasitas tekan dan tarik
+sebaik spesimen 1. Regangan rata-rata yang dicapai
+bresing spesimen 1 sebesar 0,5%, lebih baik dibanding
+spesimen lainnya (sebesar 0,3% dan 0,15%). Nilai
+regangan rata-rata yang dicapai ketiga spesimen masih
+terbatas untuk kebutuhan bangunan sederhana 3 lantai.
+Kurva backbone yang dihasilkan spesimen 1 menunjukkan
+yang paling baik setelah inti bresing mencapai kelelehan.
+Hal ini terlihat dari pencapaian nilai regangan
+rata-rata dan gaya bresing normalisasi.
+
+
+3.3 Analisis kegagalan
+Hasil pengamatan visual menunjukkan pengujian siklik
+yang dilakukan menunjukkan ketiga spesimen bresing
+memiliki model kegagalan yang berbeda. Spesimen 1
+(diameter 216 mm) mengalami kegagalan akibat fraktur
+pada inti bresing. Spesimen 2 (diameter 165 mm)
+dan spesimen 3 (diameter 140 mm) mengalami tekuk
+pada daerah peralihan inti bresing.
+Spesimen 1 mengalami penurunan kinerja dimulai dari
+retaknya mortar/beton yang menunjukkan penurunan
+sistem penahan tekuk. Kegagalan berlanjut pada
+penggelembungan pada pipa PVC akibat tekuk inti
+bresing, penurunan gaya aksial saat dibebani gaya tarik
+sampai akhirnya inti bresing patah pada akhir pembebanan (lihat Gambar 13). Namun demikian, selongsong
+pipa PVC tidak mengalami tekuk pada bagian
+tengah bresing.
+Spesimen 2 mengalami penurunan kemampuan gaya
+aksial dimulai saat perubahan geometri bresing terlihat
+pada bagian tengah bresing. Secara konsisten, perubahan
+bresing secara visual terus terjadi sepanjang
+siklus pembebanan sampai bresing menunjukkan
+penurunan gaya aksial tekan (dari 81 kN menjadi 45
+kN). Bresing menekuk pada akhir pembebanan.
+Spesimen 3 mulai mengalami penurunan gaya tekan
+saat perpindahan leleh bresing (dari 75,5 kN menjadi
+65,93 kN). Retak mortar pada siklus berikutnya menunjukkan
+sistem penahan tekuk mulai tidak bekerja
+dengan baik. Nilai gaya tekan setiap siklus secara
+konsisten menurun dan tidak menyamai nilai gaya
+tariknya sehingga pembebanan dihentikan. Bresing
+menekuk pada akhir pembebanan.
+Tekuk bresing dan fraktur pada inti bresing menunjukkan
+spesimen bresing tidak memenuhi persyaratan
+stabilitas pengujian bresing tahan tekuk yang ditetapkan
+ANSI/AISC 341-10, yaitu tidak ada fraktur, instabilitas
+bresing atau kegagalan sambungan bresing.
+Beberapa kegagalan diamati pada spesimen bresing
+tahan tekuk sebagai berikut:
+a. Perilaku leleh pada daerah peralihan inti bresing
+yang tidak terkontrol
+Kelelehan ini disebabkan oleh:
+1. Konsentrasi tegangan pada daerah peralihan inti
+bresing
+2. Tegangan residual akibat pengelasan pada
+proses perkuatan
+b. Kemampuan sistem penahan tekuk bresing yang
+terbatas
+Daerah peralihan antara inti bresing dan ujung bresing
+(segmen terkekang tidak leleh) merupakan daerah yang
+harus dijaga agar tidak leleh dan tidak tekuk sehingga
+kinerja bresing tahan tekuk dapat meningkat.
+
+3.4 Kekuatan
+Fokus dari bresing tahan tekuk adalah peningkatan
+kapasitas tekan dari bresing, baik pada tahap elastik
+maupun inelastik. Pembahasan juga meliputi
+pengecekan rasio antara gaya tekan dan gaya tarik
+selama pembebanan siklik terhadap kriteria yang
+ditetapkan ANSI/AISC 341-10.
+Spesimen 1 (diameter 216 mm) menunjukkan kenaikan
+gaya tekan seiring pembebanan siklus pembebanan
+yang diberikan. Gaya tekan maksimum yang hampir
+sama dengan gaya tarik per siklus menunjukkan bresing
+berperilaku seperti yang didesain. Spesimen 1 juga memenuhi persyaratan kekuatan yang ditetapkan ANSI/
+AISC 341-10, yaitu hasil plot gaya bresing vs perpindahan
+yang stabil dan berulang (Gambar 10), gaya tarik
+dan gaya tekan maksimum yang lebih besar dari kuat
+nominal inti baja pada deformasi setelah leleh, dan
+rasio gaya tekan dan gaya tarik pada deformasi setelah
+leleh yang kurang dari 1,3. Namun demikian, patah
+pada inti bresing menunjukkan fraktur sehingga spesimen
+1 tidak memenuhi persyaratan ANSI/AISC 341-
+10.
+Spesimen 2 (diameter 165 mm) dan spesimen 3
+(diameter 140 mm) menunjukkan kenaikan gaya tekan
+seiring pembebanan siklus pembebanan yang diberikan.
+Namun, kedua spesimen tersebut menunjukkan kurva
+histeresis yang tidak stabil dan tidak berulang, tekuk
+pada bresing, dan gaya tekan maksimum yang lebih
+kecil dari kuat inti nominal inti baja. Spesimen 2 dan 3
+tidak memenuhi persyaratan ANSI/AISC 341-10.
+
+4. Kesimpulan
+1. Hasil pengujian siklik bresing tahan tekuk dengan
+penggunaan pipa PVC membentuk kurva backbone
+dengan pencapaian regangan rata-rata yang terbatas.
+Namun demikian, spesimen bresing menunjukkan
+potensi kinerja yang baik yang dilihat dari peningkatan
+kemampuan kapasitas aksial bresing pasca
+leleh pada spesimen dengan diameter terbesar.
+2. Diameter pipa PVC merupakan faktor dominan
+yang mempengaruhi kinerja bresing tahan tekuk.
+3. Spesimen bresing dengan diameter 216 mm memberikan
+kinerja yang lebih baik dibandingkan
+dengan spesimen berdiameter lebih kecil dalam hal:
+a. Pemenuhan persyaratan kekuatan yang ditetapkan
+ANSI/AISC 341-10.
+b. Kurva histeresis yang gemuk dan tidak menunjukkan
+gejala pinching.
+c. Kurva backbone yang menunjukkan kapasitas
+tarik dan tekan yang sama serta kecenderungan
+peningkatan kapasitas bresing saat tahap inelastik.
+4. Namun demikian, secara umum, ketiga spesimen
+bresing tahan tekuk menunjukkan kinerja yang
+kurang baik dalam hal:
+a. Perilaku leleh pada daerah peralihan inti bresing
+yang tidak terkontrol
+1. Konsentrasi tegangan pada daerah peralihan
+inti bresing
+2. Tegangan residual akibat pengelasan pada
+proses perkuatan
+b. Kemampuan sistem penahan tekuk bresing yang
+terbatas

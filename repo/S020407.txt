@@ -1,0 +1,127 @@
+﻿Penelitian ini bertujuan untuk mengetahui hubungan jangka panjang pada
+pertumbuhan ekonomi, pengeluaran pemerintah dan inflasi di Provinsi Lampung.
+Data yang digunakan adalah data time-series dengan periode penelitian tahun
+1984 sampai tahun 2013. Analisis yang digunakan dalam penelitian ini adalah
+metode analisis deskriptif kuantitatif dengan menggunakan tiga model, pertama
+model variabel pertumbuhan ekonomi terhadap pengeluaran pemerintah, variabel
+pertumbuhan ekonomi terhadap inflasi dan variabel pengeluaran pemerintah
+terhadap inflasi.
+
+Untuk melihat hubungan jangka panjang yang terjadi di antara tiga
+variabel tersebut dilakukan dengan menggunakan uji kausalitas Granger dan uji
+kointegrasi Johansen. Berdasarkan hasil uji kointegrasi diketahui bahwa terdapat
+hubungan jangka panjang antara pertumbuhan ekonomi dengan inflasi dan
+pengeluaran pemerintah dengan inflasi, sedangkan antara pengeluaran pemerintah
+dan pertumbuhan ekonomi tidak terjadi hubungan jangka panjang. Dalam uji
+kausalitas Granger menunjukkan bahwa terjadi hubungan dua arah antara
+pertumbuhan ekonomi dan inflasi, terjadi hubungan satu arah antara pertumbuhan
+ekonomi dan pengeluaran pemerintah, sedangkan pada pengeluaran pemerintah
+tidak terjadi hubungan dua arah maupun satu arah.
+Kata Kunci : Pertumbuhan ekonomi, pengeluaran pemerintah, inflasi, kausalitas
+Granger, kointegrasi Johansen
+
+
+ 
+I. PENDAHULUAN 
+A. Latar Belakang 
+Pembangunan ekonomi adalah usaha-usaha untuk meningkatkan taraf hidup bangsa yang seringkali diukur dengan tinggi rendahnya pendapatan riil per kapita. Secara umum pembangunan ekonomi bertujuan untuk mencapai pertumbuhan ekonomi cukup tinggi, menjaga keseimbangan ekonomi negara dan pendistribusian pendapatan yang merata. Adanya pembangunan ekonomi bisa jadi akan mendorong pertumbuhan ekonomi, begitu pula sebaliknya, pertumbuhan ekonomi akan memperlancar proses pembangunan ekonomi ( Tommy , 2013 ). 
+Keberhasilan suatu negara dalam meningkatkan kesejahteraan warganya diukur melalui tingkat pertumbuhan ekonomi yang berhasil dicapai. Tinggi rendah laju pertumbuhan ekonomi suatu negara menunjukan tingkat perubahan kesejahteraan ekonomi warganya. Pertumbuhan ekonomi yang tinggi dan stabil dari tahun ke tahun berarti kesejahteraan ekonomi meningkat, sementara perekonomian yang menurun atau pertumbuhan ekonomi dengan nilai negatif berarti turunnya kesejahteraan ekonomi. Disisi lain tingkat pertumbuhan ekonomi juga digunakan untuk mengevaluasi tepat atau tidaknya kebijakan yang telah diambil sehubungan dengan peran pemerintah dalam perekonomian ( Harjanto, 2014 ). 
+
+Gambar 1. Laju Pertumbuhan Ekonomi di Indonesia dan Provinsi Lampung tahun 1984-2013 ( dalam persen ) 
+Sumber :Badan Pusat Statistik Provinsi Lampung 1984-2013 
+Gambar 1 menunjukkan laju pertumbuhan ekonomi yang terjadi di Indonesia dan Provinsi 
+
+Lampung dalam kurun waktu 30 tahun. Pada gambar 1 dapat dilihat bahwa pertumbuhan ekonomi di Indonesia tertinggi terjadi pada tahun 1989 yaitu sebesar 9,08 persen, sedangkan di Provinsi Lampung terjadi pada tahun 1984 yaitu sebesar 11,87 persen. Perekonomian Indonesia mengalami penurunan yang cukup drastis terjadi pada tahun 1998 yaitu mencapai -13,1 persen. Penurunan ini disebabkan adanya krisis moneter yang terjadi Indonesia yaitu menurunnya nilai tukar rupiah secara tajam dari level semula Rp 2.300 per dollar AS yang terjadi pada pertengahan tahun 1997 menjadi Rp 17.000 per dollar AS pada awal tahun 1998. Pada tahun 1998 Provinsi Lampung juga terkena dampak karena adanya krisis tersebut yang mengakibatkan pertumbuhan ekonomi mengalami penurunan sebesar 11.06 persen sehingga pertumbuhan ekonomi menyentuh angka negatif yaitu -6,94 persen, angka tersebut jauh dibandingkan tahun sebelumnya yang mencapai 4,15 persen. Pada tahun berikutnya perekonomian nasional berangsur-angsur pulih, namun pada tahun 2013 kembali mengalami penurunan yaitu 5,5 persen. Begitu pula yang terjadi di Provinsi Lampung, pertumbuhan ekonomi di tahun berikutnya mengalami peningkatan sebesar 4,3 persen pada tahun 1999 dan terus meningkat pada tahun 2007 yaitu 7,95 persen. Namun pada tahun 2005 perlambatan pertumbuhan ekonomi kembali terjadi yaitu hanya sebesar 4,07 persen. Hal ini disebabkan karena kenaikan harga BBM yang dilakukan oleh pemerintah yang berakibat pada konsumsi rumah tangga yang mengalami pengurangan. Dan di tahun berikutnya perekonomian Provinsi Lampung berangsur-angsur membaik, namun pada tahun 2013 kembali mengalami penurunan yang cukup rendah yaitu 4,93 persen. 
+
+Salah satu indikator ekonomi makro yang digunakan untuk melihat atau mengukur stabilitas perekonomian suatu negara adalah inflasi. Perubahan dalam indikator ini akan berdampak terhadap dinamika pertumbuhan ekonomi. Dalam perspektif ekonomi, inflasi merupakan fenomena moneter dalam suatu negara dimana naik turunnya inflasi cenderung mengakibatkan terjadinya gejolakekonomi( Engla, 2013 ). 
+
+Inflasi adalah suatu proses meningkatnya harga-harga secara umum danterus menerus (continue) berkaitan dengan mekanisme pasar yang disebabkan beberapa faktor antara lain, konsumsi masyarakat yang meningkat, berlebihnya likuiditas di pasar yang memicu konsumsi bahkan spekulasi, sampai termasuk juga akibat adanya ketidaklancaran distribusi barang. Inflasi merupakan indikator untuk melihat tingkat perubahan, dan dianggap terjadi jika proses kenaikan harga berlangsung secara terus menerus. Inflasi merupakan masalah yang dihadapi oleh seluruh negara di dunia, termasuk negara maju sekalipun ( Amira dan Lasmini, 2010 ). 
+
+
+Gambar 2. Perkembangan Inflasi di Indonesia dan Provinsi Lampung Tahun 1984-2013 ( dalam Persen) 
+Sumber : Badan Pusat Statistik Provinsi Lampung,1984-2013 
+
+
+Gambar 2 menunjukkan perkembangan inflasi yang terjadi di Indonesia dan Provinsi Lampung selama tahun 1985-2013. Di Indonesia inflasi tertinggi terjadi pada tahun 1998 yaitu mencapai 58,38 persen, kondisi tersebut juga dialami di Provinsi Lampung yang tingkat inflasinya mencapai 62,25 persen lebih tinggi dibandingkan inflasi yang terjadi di Indonesia. Ini disebabkan karena adanya krisis moneter pada tahun 1998. Krisis tersebut dimulai pada pertengahan tahun 1997 karena menurunnya nilai tukar rupiah terhadap dolar AS. Namun pada tahun berikutnya baik dalam perekonomian nasional maupun provinsi terus membenahi perekonomian hingga di tahu 1999 inflasi berhasil mengalami penurunan. Sedangkan inflasi di Indonesia kembali mengalami peningkatan yaitu pada tahun 2005 sebesar 17,11 persen. Sama halnya yang terjadi di Provinsi Lampung pada tahun 2005 inflasi mengalami peningkatan yang cukup tajam yaitu sebesar 21, 17 persen, inflasi pada tahun ini sangat tinggi dibandingkan tahun sebelumnya yang hanya mencapai 5,22 persen. Peningkatan inflasi ini dipengaruhi oleh beberapa faktor, salah satunya adalah faktor nonfundamental berupa kenaikan harga barang administreted. Kenaikan harga barang-barang administretedterbesar terjadi pada harga BBM dengan total kenaikan sebesar 155 persen. Faktor nonfundamental lainnya yang juga turut mendorong tingginya inflasi adalah gangguan pasokan dan distribusi. Gangguan ini terjadi antara lain karena kenaikan harga dan kelangkaan pasokan BBM di berbagai daerah maupun kasus penimbunan yang mengakibatkan distribusi barang terganggu ( Bank Indonesia, 2005 ).Selanjutnya titik terendah inflasi yang terjadi di Indonesia dan Provinsi Lampung terjadi pada tahun yang sama yaitu tahun 2009, di Indonesia 2,78 persen sedangkan di Provinsi Lampung sebesar 2,17 persen. 
+
+Di negara-negara yang sudah maju perekonomiannya, kebijakan fiskal yang diambil pemerintah dimaksudkan untuk mempengaruhi jalannya perekonomian agar terhindar dari keadaan yang tidak diinginkan. Alasan perlunya campur tangan pemerintah antara lain adalah untuk mencegah kekuatan-kekuatan monopoli, menyediakan barang-barang publik, menanggulangi eksternalitas, mewujudkan keadilan, mengarahkan perekonomian menuju keseimbangan, dan menjaga keamanan. Sehingga melalui peran pemerintah diharapkan pula terciptanya distribusi pembagian pendapatan nasional yang lebih adil dan merata (Mangkoesoebroto, 1993 ). 
+
+
+
+Untuk mewujudkan ini semua Provinsi Lampung tentunya memerlukan dana yang cukup besar untuk membiayai kegiatan-kegiatan tersebut. Pengeluaran-pengeluaran tersebut bukan saja untuk menjalankan roda pemerintahan sehari-hari akan tetapi juga untuk membiayai kegiatan perekonomian yang berguna untuk menggerakkan dan merangsang kegiatan ekonomi yang ada di Provinsi Lampung. 
+Pengeluaran pemerintah yang merupakan cerminan dari kebijakan fiskal adalah salah satu instrumen pemerintah untuk mempengaruhi jalannya perekonomian. Namun performance suatu perekonomian tentu tidak semata-mata karena pengaruh dari kebijakan fiskal tersebut. Akan tetapi performance perekonomian suatu negara dapat dilihat dari sejauh mana integrasi kebijakan moneter dan fiskal mampu mengurangi kesenjangan GNP yang besar, tingkat pengangguran yang tinggi dan mampu menekan laju inflasi ( Dornbusch, 1996 ). 
+Gambar 3. Perkembangan Pengeluaran Pemerintah Provinsi Lampung Tahun 1984-2013 (dalam Miliar Rupiah) 
+Sumber : Badan Pusat Statistik Provinsi Lampung 1984-2013 
+
+
+Gambar 3 menunjukkan perkembangan pengeluaran pemerintah yang terjadi di Provinsi Lampung tahun 1984-2013. Dalam gambar 3 dapat dilihat bahwa pengeluaran pemerintah terus mengalami peningkatan setiap tahunnya. Pengeluaran pemerintah terendah terjadi pada tahun 1985 yaitu sebesar Rp 67.828 miliar. Namun penurunan jumlah pengeluaran pemerintah terjadi pada tahun 1990 dan 1994 yaitu masing-masing sebesar Rp 91.604 miliar dan Rp 97.979 miliar. 
+Dalam perekonomian antara inflasi dan pertumbuhan ekonomi saling berkaitan. Apabila tingkat inflasi tinggi maka dapat menyebabkan melambatnya pertumbuhan ekonomi, sebaliknya inflasi yang relatif rendah dan stabil dapat mendorong terciptanya pertumbuhan ekonomi. Begitu pula dengan pertumbuhan ekonomi, pertumbuhan ekonomi yang tinggi dapat pula memicu terjadinya inflasi yang tinggi melalui kenaikan dalam permintaan agregat (Rizki, 2012 ). 
+Gambar 4. Perkembangan Pertumbuhan Ekonomi, Pengeluaran Pemerintah dan Inflasi di Provinsi Lampung Tahun 1984-2013 
+Sumber : Badan Pusat Statistik Provinsi Lampung1984-2013 
+
+Gambar 4 menunjukkan pertumbuhan ekonomi mengalami perlambatan pada tahun 1998yang disebabkan adanya krisis moneter yang terjadi pada perekonomian nasional sehingga berdapak pada perkonomian di Provinsi Lampung yaitu mencapai -6,94 persen. Pada tahun 1988 inflasi mengalami penurunan yaitu sebesar 3,21 persen yang pada tahun sebelumnya mencapai 11,84 persen, sedangkan pertumbuhan ekonomi juga mengalami penurunan yang pada tahun sebelumnya sebesar 9,58 persen menjadi 7,56 persen. Hal tersebut juga terjadi pada tahun 1996 dan 1999, diketahui bahwa pada tahun 1996 inflasi yang sebelumnya mencapai angka 12,73 persen menjadi 7,13 persen, sedangkan pertumbuhan ekonomi pada tahun 1995 mencapai 10,49 namun di tahun 1996 juga mengalami penurunan yaitu mencapai 7,95 persen. Keadaan tersebut juga terjadi pada tahun 2004 dimana pertumbuhan ekonomi mengalami penurunan yaitu 5,07 persen dibandingkan tahun sebelumnya, dan pada tahun yang sama inflasi juga mengalami penurunan yaitu sebesar 5,22 persen dibandingkan tahun 2003 yaitu 10,32 persen. 
+
+Hal tersebut bertolak belakang dengan teori yang ada di mana apabila tingkat inflasi rendah seharusnya tingkat pertumbuhan ekonomi akan mengalami kenaikan (Rizki, 2012 ). 
+Keterkaitan antara pengeluaran pemerintah dan pertumbuhan ekonomi telah menjadi perhatian dari banyak peneliti sebelumnya dan menghasilkan dua pendapat mengenai hubungan antara kedua variabel. Keynes dan para pendukungnya menyatakan bahwa pengeluaran pemerintah mempengaruhi pertumbuhan ekonomi sesuai dengan persamaan identitas perekonomian terbuka. Sementara hukum Wagner menyatakan bahwa peningkatan perekonomian yang  terjadi mempengaruhi pengeluaran yang dilakukan oleh pemerintah (Harjanto, 2014 ). 
+
+Dalam penelitian yang dilakukan oleh Sinha ( 1998 ) dengan menggunakan uji kointegrasi menemukan adanya hubungan jangka panjang antara pengeluaran pemerintah dan pertumbuhan ekonomi di Malaysia selama periode 1950-1992. Akan tetapi melalui pengujian granger causality tidak ditemukan adanya hubungan antara kedua variabel tersebut. Hal ini menunjukkan bahwa pengeluaran pemerintah dan pertumbuhan ekonomi di Malaysia selama kurun waktu penelitian tidak saling mempengaruhi diantara kedua variabel tersebut. 
+
+Sedangkan berdasarkan analisis Clark dalam Magazzino ( 2011 ), pajak yang lebih tinggi akan mengurangi keuntungan dari produsen dan berimbas pada harga. Dampaknya adalah penawaran agregat akan turun (karena penurunan insentif swasta), sementara permintaan agregat meningkat ( karena teknik pembiayaan yang inflasioner ) dan pada akhirnya mengakibatkan inflasi. 
+Seiring berjalannya waktu, inflasi secara signifikan mengakibatkan pengambilan keputusanpemerintah menjadi rumit.Ketika kebijakan fiskal yang semula sebagai elemen penting dalam mencapai stabilisasi harga, ternyata juga dipengaruhi inflasi itu sendiri.Inflasi menaikkan biaya yang harus dikeluarkan pemerintah yang secara simultan dapat menaikkan penerimaan negara, dimana peningkatan fiskal pemerintah memiliki tingkat kecepatan yang berbeda. Aghevli dan Khan dalam Heller (1980) mengusulkan hipotesis bahwa salah satu kekuatan dinamis yang menopang inflasi adalah defisit fiskal akibat inflasi yang dalam pandangannya, pengeluaran total pemerintah merespon lebih cepat terhadap inflasi daripada penerimaan negara sehingga mengakibatkan defisit anggaran.
+
+Berdasarkan dari penjelasan di atas maka penelitian ini dilakukan untuk menganalisis ada tidaknya hubungan kausalitas ( timbal balik ) antara pertumbuhan ekonomi , pengeluaran pemerintah dan inflasi di Provinsi Lampung selama kurun waktu 1984-2013 dengan menggunakan kausalitas Granger. Dalam penelitian ini variabel terkaitnya adalah Pertumbuhan Ekonomi, Pengeluaran Pemerintah, dan Inflasi. Sehingga penulis mengambil judul “Analisis Kausalitas Granger antara Pertumbuhan Ekonomi, Pengeluaran Pemerintah dan Inflasi di Provinsi Lampung “. 
+B. Rumusan Masalah 
+
+Berdasarkan latar belakang yang telah diuraikan diatas maka penulis merumuskan masalah sebagai berikut : 
+1. Apakah ada hubungan jangka panjang antara tingkat pertumbuhan ekonomi dengan pengeluaran pemerintah di Provinsi Lampung Tahun 1984-2013 ? 
+2. Apakah ada hubungan jangka panjang antara pertumbuhan ekonomi dengan inflasi di Provinsi Lampung Tahun 1984-2013 ? 
+3. Apakah ada hubungan jangka panjang antara pengeluaran pemerintah dengan inflasi di Provinsi Lampung Tahun 1984-2013 ? 
+
+C. Tujuan Penelitian 
+
+Berdasarkan rumusan masalah yang telah diuraikan, maka dapat diambil tujuan dari penelitian ini antara lain : 
+1. Untuk mengetahui hubungan jangka panjang tingkat pertumbuhan ekonomi dengan pengeluaran pemerintah di Provinsi Lampung Tahun 1984-2013.
+2. Untuk mengetahui hubungan jangka panjang pertumbuhan ekonomi dengan inflasi di Provinsi Lampung Tahun 1984-2013. 
+3. Untuk mengetahui hubungan jangka panjang pengeluaran pemerintah dengan inflasi di Provinsi Lampung Tahun 1984-2013. 
+
+D. Manfaat Penelitian 
+
+1. Untuk mendapatkan gelar Sarjana Ekonomi di Fakultas Ekonomi dan Bisnis Universitas Lampung. 
+2. Dengan adanya penulisan ini diharapkan dapat memperluas pengetahuan dan wawasan penulis tentang hubungan timbal balik yang terjadi antara pertumbuhan ekonomi, pengeluaran pemerintah, dan inflasi yang terjadi di Provinsi Lampung Tahun 1984-2013. 
+3. Diharapkan dapat menjadi sumber informasi bagi peneliti lain yang sedang meneliti masalah yang sama dan analisis ini dapat menjadi informasi bagi pihak yang memerlukan. 
+
+E. Kerangka Pemikiran 
+
+Penulisan ini dimaksudkan untuk menganalisa bagaimana hubungan timbal balik antara tingkat pertumbuhan ekonomi, pengeluaran pemerintah dan tingkat inflasi yang terjadi di Provinsi Lampung. 
+Pengeluaran pemerintah yang merupakan cerminan dari kebijakan fiskal adalah salah satu instrumen pemerintah untuk mempengaruhi jalannya perekonomian. Namun performance suatu perekonomian tentu tidak semata-mata karena pengaruh dari kebijakan fiskal tersebut. Akan tetapi performance perekonomian suatu negara dapat dilihat dari sejauh mana integrasi kebijakan moneter dan fiskal mampu mengurangi kesenjangan GNP yang besar, tingkat pengangguran yang tinggi dan mampu menekan laju inflasi ( Dornbusch dan Fischer, 1996 ). 
+
+Perkembangan pengeluaran pemerintah yang meningkat maka PDRB konstan juga akan mengalami peningkatan. Hal ini menunjukan adanya hubungan kausal ( timbal balik) antara pengeluaran pemerintah dan pertumbuhan ekonomi berdasarkan PDRB konstan di Provinsi Lampung. 
+Dalam perekonomian antara inflasi dan pertumbuhan ekonomi saling berkaitan. Apabila tingkat inflasi tinggi maka dapat menyebabkan melambatnya pertumbuhan ekonomi, sebaliknya inflasi yang relatif rendah dan stabil dapat mendorong terciptanya pertumbuhan ekonomi. Begitu pula dengan pertumbuhan ekonomi, pertumbuhan ekonomi yang tinggi dapat pula memicu terjadinya inflasi yang tinggi melalui kenaikan dalam permintaan agregat (Rizki, 2012 ). 
+
+Dari penjelasan diatas dapat dibuat kerangka pemikiran seperti di bawah ini: 
+INFLASI 
+PENGELUARAN PEMERINTAH 
+PERTUMBUHAN EKONOMI
+
+F. Hipotesis 
+
+Hipotesis merupakan jawaban sementara atau kesimpulan yang diambil untuk menjawab suatu permasalahan yang diajukan dalam suatu penelitian yang sebenarnya masih harus diuji kebenarannya. Hipotesis yang dimaksud merupakan dugaan yang mungkin benar atau mungkin salah. Berikut hipotesis dalam penelitian ini, diantaranya : 
+1. Diduga adanya hubungan kausalitas jangka panjang antara tingkat pertumbuhan ekonomi dengan pengeluaran pemerintah di Provinsi Lampung. 
+2. Diduga adanya hubungan kausalitas jangka panjang antara tingkat pertumbuhan ekonomi dengan inflasi di Provinsi Lampung 
+3. Diduga adanya hubungan kausalitas jangka panjang antara pengeluaran pemerintah dengan inflasi di Provinsi Lampung. 
+
+G. Sistematika Penulisan 
+
+Adapun sistematika penulisan dalam penelitian ini akan terbagi dalam lima bab yang tersusun sebagai berikut : 
+I. Pendahuluan. 
+Menjelaskan latar belakang masalah, rumusan masalah, tujuan penelitian, manfaat penelitian, serta sistematika penulisan. 
+II. Tinjauan Pustaka 
+Menguraikan secara ringkas landasan teori yang menjelaskan tentang permasalahan yang akan diteliti. Selain itu, bab ini berisi penelitian yang telah dilakukan sebelumnya, untuk dikaji dan dibandingkan dengan penelitian yang sedang dilakukan, kerangka pikir, serta beberapa hipotesis yang akan diuji dalam penelitian tersebut. 14 
+III. Metode Penelitian 
+Memuat tentang metode pencarian dan analisis data yang digunakan dalam penelitian, berserta sumber data dan batasan variabel. 
+IV. Pembahasan dan Hasil Penelitian 
+Menyajikan hasil estimasi data melalui alat analisis yang telah di sediakan. 
+V. Penutup 
+Memuat kesimpulan dan saran setelah melakukan penelitian.
+
+

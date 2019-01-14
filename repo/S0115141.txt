@@ -1,0 +1,589 @@
+﻿Determinan Non Performing Loan (NPL) pada Industri
+Perbankan (Bukti Empiris Perusahaan Go Publik
+di Bursa Efek Indonesia)
+
+
+Abstrak: Penelitian ini bertujuan untuk mengidentifikasi faktor-faktor penentu Non Performing
+Loan (NPL) di sektor perbankan Indonesia. Data dikumpulkan dari 16 bank dengan
+pengamatan selama tahun 2002 sampai 2011. Dari data ditemukan bahwa ada enam variabel
+yang terkait erat dengan variasi NPL untuk periode pengamatan berikutnya. Selain itu, sampel
+diambil dari perusahaan yang terdaftar publik di Indonesia bursa, di mana data tertentu yang
+diimpor dari Direktori Pasar Modal Indonesia (ICMD CD-ROM). Analisis lebih lanjut dilakukan
+dengan menggunakan Pooled EGLS (Cross-section random effects). Hasil kami mencerminkan
+bahwa NPL jelas didorong oleh volatilitas dan fluktuasi faktor ekonomi mikro dan makro.
+Faktor terdiri dari loan to deposit ratio (LDR), capital adequacy ratio (CAR), net interest margin
+(NIM), inflation (inflasi) (INF), Interest rate (suku bunga) (IR), dan exchange rate (nilai tukar)
+(ER) berturut-turut memberikan kontribusi terhadap variasi non performing loan (NPL) di sektor
+perbankan Indonesia.
+Kata Kunci: NPL, CAR, LDR, NIM, INF, IR, ER
+
+Selama beberapa dekade ke
+belakang, sektor perbankan
+Indonesia telah mengalami
+perkembangan yang cukup
+signifikan. Hal ini ditandai
+dengan diberlakukannya paket kebijakan oktober 1998
+yang memfasilitasi dan menstimulasi tumbuh dan
+berkembangnya sektor perbankan di masa orde baru.
+Akan tetapi, perkembangan tersebut tidak lepas dari
+tingginya acaman risiko, yang mana semakin tinggi jumlah bank mengindikasi semakin tingginya tingkat
+perputaran uang dalam skema penyimpanan uang dan
+pendistribusian kredit yang dilakukan oleh bank
+sebagai pihak ketiga.
+Pada tahun 1997, Indonesia mengalami krisis
+moneter yang berakibat negatif terhadap kinerja sektor
+perbankan Indonesia. Data yang diperoleh dari
+Banker, (1998) menyebutkan bahwa Indonesia mengalami
+kekacauan finansial yang merupakan contagious
+effect dari krisis moneter yang berawal dari
+Thailand dan menyebar hingga ke Negara-negara
+Asia Tenggara, Asia Pasifik, dan sekitarnya. Hal ini
+mengindikasikan bahwa tingginya jumlah plafon kredit
+yang disalurkan menunjukkan semakin tingginya
+tingkat risiko yang ditanggung oleh bank. Selain itu,
+melambatnya pola pertumbuhan ekonomi, terdepresiasinya
+nilai rupiah (IDR), dan meningkatnya inflasi
+secara tidak terkendali semakin memperburuk kinerja
+sektor perbankan yang dipicu oleh tingginya kredit
+macet (non performing loan) di Indonesia.
+Topik mengenai non performing loan (NPL)
+telah menarik minat banyak peneliti dalam beberapa
+dekade terakhir. Beberapa studi mengkaji kegagalan
+bank dan menemukan bahwa pengelolaan aset yang
+kurang optimal menjadi penyebab gagalnya bank
+dalam mengelola aktiva produktifnya, sehingga berimplikasi
+pada NPL yang semakin tinggi (Demirguc-
+Kunt, 1989; Barr dan Siens, 1994). Dalam konteks
+ini, bank masih memiliki sejumlah piutang (kredit
+berisiko) yang besar sebelum bank dinyatakan bangkrut.
+Gangguan terhadap kinerja berupa macetnya
+kredit perbankan diduga menjadi faktor utamayang
+menyebabkan suatu bank mengalami kegagalan yang
+berujung pada dilikuidasinya bank tersebut (Messai
+dan Jouini, 2013).
+Upaya minimalisasi terhadap kemungkinan terjadinya
+peningkatan NPL sangat diperlukan untuk memperkuat
+pertumbuhan ekonomi. Ketika kredit berisiko
+dinyatakanmacet dan tidak dapat ditagih, kondisi ini
+akan turut berdampak pada sumber daya yang hilang
+dan terindikasi sebagai asset yang tidak menguntungkan.
+Oleh sebab itu, Hou (2007) menyebutkan bahwa
+tingginya rasio NPL pada sektor perbankan harus
+diantisipasi untuk menghindari penurunan kinerja
+ekonomi. Gejala berupa shock ekonomi yang terjadi
+pada sistem keuangan dapat muncul dari faktor tertentu
+yang dipicu oleh kegagalan bank (idiosyncratic
+shock), maupun ketidakseimbangan ekonomi (systemic
+shock). Secara umum, penelitian-penelitian yang sudah
+dilakukan mengkonfirmasi bahwa kualitas pinjaman
+yang tidak baik cenderung berdampak positif pada
+pelemahan kinerja bank secara khusus, dan juga
+ekonomi suatu Negara secara umum (Jimenez, et al.,
+2006).
+Salas dan Saurina (2002) mengkombinasikan
+faktor makroekonomi dan mikroekonomi sebagai
+prediktor terhadap variasi perubahan yang terjadi pada
+rasio NPL dalam sektor perbankan konvensional di
+Spanyol. Berdasarkan hasil pengamatan yang dilakukannya
+dari tahun 1985 sampai dengan 1997, ditemukan
+bahwa kelambanan dalam ketidakefisienan bank
+dalam mengelola asetnya berdampak pada penurunan
+performa perbankan di tahun berikutnya. Hal serupa
+juga dilakukan oleh Quagliariello, (2007) dengan
+konteks penelitian siklus risiko bank di Italia. Hasil
+kajiannya menunjukkan bahwa risiko pinjaman secara
+langsung dipengaruhi oleh periode resesi yang dialami
+dalam siklus ekonomi. Perbankan cenderung akan
+dengan ketat melakukan pengawasan terhadap aktivitas
+distribusi kredit selama resesi berlangsung. Meskipun
+langkah ini mengurangi jumlah pendapatan,
+namun dampak jika perbankan tidak melakukan pengetatan
+likuiditas pada masa resesi akan jauh lebih besar
+dibandingkan menurunnya pendapatan selama periode
+pengetatan berlangsung (Berge dan Boye, 2007).
+Lebih lanjut, fokus dari banyak penelitian keuangan
+yang meneliti dampak buruknya krisis keuangan terhadap
+NPL telah menjadi batu lompatan dalam investigasi
+faktor determinan NPL. Ahmad dan Bashir
+(2013) menyebutkan bahwa tindakan ekspansi kredit
+yang berlebihan dan tanpa kontrol yang baik akan
+menimbulkan suatu pertanyaan, apakah kualitas kredit
+berisiko yang didistribusikan tersebut benar-benar
+secara akurat telah dievaluasi oleh sistem perbankan?
+Secara umum, tingginya pertumbuhan kredit dapat
+dikaitkan dengan pergeseran kurva permintaan
+(demand) dan penawaran (supply) kredit dari sisi
+kiri ke sebelah kanan. Pada situasi lainnya, deregulasi
+sitem perbankan cenderung menstimulus pelaku
+perbankan untuk dapat memperluas pangsa pasar dan
+meningkatkan target pertumbuhan distribusi kredit.
+Kondisi ini secara langsung akan menyebabkan
+semakin tingginya jumlah kredit yang disalurkan bank
+sebagai bentuk kompetisi di industri perbankan. Hal tersebut sangatlah riskan terhadap kondisi perekonomian,
+terutama dari segi besarnya jumlah kredit yang
+macet dan tidak dapat ditagih.
+Penelitian ini secara khusus dimaksudkan untuk
+melakukan pengujian empiris terkait faktor-faktor
+yang menjadi determinan pada variasi yang terjadi
+dalam non performing loan (NPL). Tingginya fluktuasi
+atau volatilitas NPL dapat dipengaruhi oleh
+banyak hal. Di antaranya seperti faktor mikroekonomi
+yang merupakan cerminan kondisi fundamental perusahan
+maupun faktor makroekonomi yang berasal
+dari kondisi perekonomian secara nasional.Pada
+tahap awal, dilakukan studi literatur sebagai fondasi
+dasar untuk membangun hipotesis dalam investigasi
+faktor determinan NPL. Selanjutnya dilakukan penarikan
+sampel dengan teknik judgement sampling,
+yaitu dengan dukungan data yang diperoleh dari
+Indonesian Capital Market Directory (ICMD CDROM)
+dari tahun 2002 sampai dengan 2011. Analisis
+juga dilakukan dengan mengkombinasikan data time
+series dan cross-sectional berupa analisis data panel
+dengan menggunakan alat analisis statistik yaitu EViews
+versi 7. E-Views digunakan karena kemampuan
+yang lebih baik dalam mengkomparasi ketiga
+model yang terdapat dalam analisis data panel, yaitu
+pooled least square model (PLS), fixed effect
+model (FEM) dan random effect model (REM).
+Loan to Deposit Ratio (LDR), Capital Adequacy
+Ratio (CAR) dan Non Performing Loan
+(NPL)
+Bank yang mengantisipasi tingginya tingkat kehilangan
+modal karena peningkatan NPL, dapat menentukan
+batas optimal pendistribusian kredit dan mengoptimalkan
+tingkat ketersediaan modal dalam bentuk
+kas. Ahmed (1999) meneliti bahwa kehandalan bank
+dalam menentukan batas maksimal penyaluran kredit
+dan jumlah kas yang ditahan mengindikasikan bahwa
+bank tersebut memiliki kekuatan untuk mengontrol
+risiko. Hasan dan Wall (2004) melakukan penelitian
+dengan menggunakan sampel dari 24 Negara dari
+tahun 1993 sampai dengan 2000. Hasil penelitian
+mereka mengungkapkan bahwa tingginya tingkat NPL
+diasosiasikan dengan rendahnya tingkat kecukupan
+modal dan tingginya rasio pinjaman terhadap modal,
+atau yang lebih dikenal dengan loan to deposit ratio
+(LDR). Lebih lanjut, Boudriga, et al. (2009) mempelajari
+LDR dan CAR sebagai faktor penentu
+fluktuasi NPL dari tahun 2002 sampai dengan 2006
+dengan sampel yang diperoleh dari 59 Negara berkembang
+dan sedang berkembang. Hasil studi mereka
+menunjukkan bahwa penentuan batas optimal risiko
+pinjaman terhadap modal, dan pengurangan pemberian
+kredit dengan kriteria seleksi yang ketat dapat menekan
+munculnya risiko NPL yang tinggi. Dengan motif
+dan rasionalisasi yang sejalan dengan penelitian sebelumnya,
+maka disusun hipotesis pertama dan kedua
+sebagai berikut.
+Hipotesis 1 :Meningkatnya Loan to Deposit Ratio
+(LDR) berdampak positif terhadap peningkatan
+NPL.
+Hipotesis 2 : Capital Adequacy Ratio (CAR) yang
+semakin tinggi berimplikasi pada semakin
+rendahnya NPL.
+Net Interest Margin (NIM) dan Non Performing
+Loan (NPL)
+Net Interest Margin (NIM) mengindikasikan
+besarnya selisih tingkat bunga bersih yang diperoleh
+bank atas aktivitasintermediary yang dilakukannya.
+Bank yang memiliki nilai NIM lebih kecil dibandingkan
+bank lainnya dalam satu industri terindikasi sebagai
+bank yang kurang efisien dalam mengoptimalkan nilai
+NIM. Namun, jika bank memiliki nilai NIM yang lebih
+besar dari nilai NIM pada rata-rata industri perbankan,
+juga mengindikasikan bahwa bank terlalu banyak
+mengambil untung dari aktivitasnya sebagai lembaga
+perantara keuangan. Selain itu, bank juga dituntut agar
+dapat beradaptasi dengan perubahan tingkat suku
+bunga yang diberlakukan oleh bank sentral Indonesia.
+Jika bank terlalu cepat meningkatkan besarnya suku
+bunga kredit, cenderung akan mempersulit peminjam
+untuk memenuhi kewajiban jangka pendek yang harus
+dipenuhinya, sehingga semakin tingginya rasio NIM
+sebagai dampak dari diberlakukannya kebijakan moneter
+(perubahan suku bunga) akan berdampak pada
+peningkatan NPL. Oleh sebab itu, diformulasikan hipotesis
+ketiga sebagai berikut.
+Hipotesis 3 : Terjadinya peningkatan Net Interest
+Margin INIM) yang tidak terkendali
+akan berimplikasi pada peningkatan
+NPL.
+
+Inflation (INF) dan Non Performing Loan
+(NPL)
+Hubungan antara faktor makroekonomi dan
+kualitas pinjaman telah diinvestigasi dalam beberapa
+literatur, terutama literatur yang menghubungkan siklus
+hidup bisnis (business life cycle) dengan kestabilan
+kinerja perbankan. Selain itu, kontribusi yang dihasilkan
+oleh inflasi sebagai faktor makroekonomi juga
+telah diidentifikasi sebagai faktor yang berpengaruh
+positif terhadap NPL. Inflasi yang tidak terkendali
+cenderung akan berakibat pada semakin rendahnya
+kemampuan debitur untuk memenuhi sejumlah pinjaman
+yang ditanggungnya pada kreditur, dalam hal
+ini yaitu bank (Cifter, et al., 2009). Kinerja ekonomi
+yang melemah tersebut berdampak pada menurunnya
+kualitas pinjaman pada pihak ketiga yang dimiliki oleh
+bank, sehingga bank harus bijak dalam memutuskan
+strategi yang cocok untuk meminimalisir kemungkinan
+terjadinya NPL yang semakin tinggi. Dengan demikian,
+disusun hipotesis keempat sebagai berikut.
+Hipotesis 4 : Tingginya Inflation(INF) berdampak
+positif terhadap peningkatan yang terjadi
+pada rasio NPL.
+Interest Rate (IR) dan Non Performing Loan
+(NPL)
+Perubahan tingkat suku bunga mempengaruhi
+kemampuan debitur dalam mengembalikan pinjamannya
+pada kreditur. Ahmed, et al. (1999) menyebutkan
+bahwa perbankan, cenderung sangat cepat beradaptasi
+terhadap peningkatan suku bunga kredit dibandingkan
+peningkatan suku bunga simpanan, dan sebaliknya
+penurunan suku bunga kredit cenderung harus melalui
+time lag (kelambanan waktu) sebelum bank benarbenar
+menyesuaikan tingkat suku bunganya dengan
+suku bunga yang dikeluarkan oleh bank sentral. Kondisi
+ini mengimplikasikan bahwa efek dari perubahan
+suku bunga adalah positif, yang mana peningkatan
+suku bunga juga akan berakibat pada semakin tingginya
+rasio NPL karena semakin tingginya jumlah angsuran
+kredit atau bunga pinjaman yang harus dibayarkan
+debitur.Dengan rasionalisasi tersebut, diformulasi
+hipotesis lima sebagai berikut.
+Hipotesis 5 : Interest Rate (IR) yang semakin menurun
+cenderung berdampak positif terhadap
+penurunan rasio NPL.
+Exchange Rate (ER) dan Non Performing Loan
+(NPL)
+Exchange rate atau perbandingan kinerja nilai
+tukar rupiah terhadap mata uang tertentu (Dollar
+Amerika) turut berdampak pada variasi perubahan
+yang terjadi pada rasio NPL di sektor perbankan.
+De Bock dan Dem Yanets (2012) melakukan
+penelitian dengan mengambil sampel dari 25 negara
+berkembang dengan periode observasi dari tahun 1996
+sampai dengan 2010. Mereka menggunakan berbagai
+macam model analisis regresi data panel pada datadata
+tahunan yang diperoleh dari 25 Negara. Salah
+satu variabel makroekonomi yang diteliti adalah
+perubahan nilai tukar Dollar Amerika (US.$) terhadap
+penurunan nilai mata uang lokal (currency
+depreciation). Hasil penelitian mereka menunjukkan
+bahwa melemahnya nilai tukar mata uang lokal
+terhadap Dollar Amerika menunjukkan kontribusi yang
+positif, dimana semakin tingginya jumlah mata uang
+lokal yang harus dikeluarkan untuk mendapatkan 1
+Dollar akan meningkatkan potensi semakin tingginya
+rasio NPL. Secara khusus, kondisi ini terjadi sebagai
+akibat dari pelemahan kondisi ekonomi secara umum,
+dan juga disebabkan oleh besarnya tingkat pinjaman
+yang ditanggung oleh debitur yang bergerak di bidang
+bisnis perdagangan internasional maupun perusahaan
+yang harus memasok bahan baku yang dibayar
+dengan Dollar. Dengan demikian, beban perusahaan
+akan menjadi semakin besar dan memperbesar
+peluang tingginya risiko gagal bayar (NPL) atas
+pinjaman yang diperoleh dari bank. Oleh sebab itu,
+disusun hipotesis keenam sebagai berikut.
+Hipotesis 6 : Tingginya Exchange Rate (ER) dalam
+bentuk depresiasi mata uang Rupiah (IDR)
+terhadap Dollar berakibat pada semakin
+tingginya rasio NPL.
+Keenam hipotesis di atas merupakan kombinasi
+dari dugaan terhadap kontribusi yang dihasilkan oleh
+faktor mikroekonomi dan makroekonomi pada rasio
+NPL sektor perbankan. Hipotesis-hipotesis tersebut disusun ke dalam sebuah model penelitian yang menunjukkan
+secara jelas alur dan proses pengujian hipotesis
+seperti terlihat pada Gambar 1.
+Model di atas merupakan model penelitian yang
+dikembangkan dengan mengadopsi faktor fundamental
+keuangan bank (mikroekonomi) dan faktor eksternal
+(makroekonomi). Faktor mikro dan makroekonomi
+diduga memiliki pengaruh atas variasi yang terjadi
+pada non performing loan (NPL) di sektor perbankan,
+terutama pada 16 bank yang menjadi sampel
+dalam penelitian ini.
+METODE
+Pengumpulan Data
+Penelitian ini dilakukan dengan menggunakan
+data primer yang diperoleh dari Indonesian Capital
+Market Directory (ICMD CD-ROM), dengan periode
+observasi dari tahun 2002 sampai dengan 2011.
+Secara spesifik, pengumpulan data dilakukan secara
+cross-sectional, di mana terdapat sebanyak 16 bank
+yang terdaftar di Bursa Efek Indonesia dan ditetapkan
+sebagai sampel penelitian. Penetapan sejumlah 16
+bank sebagai sampel final diperoleh dengan menerapkan
+judgement sampling technique, dengan syarat
+perusahaan yang ditetapkan sebagai sampel harus terdaftar
+sebagai perusahaan publik dalam periode waktu
+observasi. Penekanan yang mucul dalam metode penarikan
+sample ini mengindikasikan adanya isu kebertahanan
+(survivorships issues) yang bertujuan untuk
+menginvestigasi dan mengidentifikasi faktor determinan
+NPL secara komprehensif.
+Definisi Operasional Variabel
+Investigasi terhadap faktor-faktor yang menjadi
+determinan dalam variasi perubahan NPL ditentukan
+oleh beberapa variabel, di antaranya yaitu loan to
+deposit ratio (LDR), capital adequacy ratio (CAR),
+net interest margin (NIM), inflation (INF), interest
+rate (IR), dan exchange rate (ER). Keenam variabel
+independen tersebut diduga berpengaruh dan mewakili
+faktor fundamental (mikroekonomi) perusahaan maupun
+eksternal (makroekonomi) dari perusahaan yang
+tergabung dalam sektor perbankan nasional di Bursa
+Efek Indonesia. Operasionalisasi dari masing-masing
+variabel dependen dan independen dapat dilihat melalui
+Tabel 1.
+Model Penelitian
+Penelitian ini dilakukan dengan mengkombinasikan
+data deret waktu (time series) dan lintas objek
+(cross-sectional). Dengan demikian, model penelitian
+ini dikembangkan dengan menggunakan pengujian
+data panel yang merupakan kombinasi dari data time
+series dan data cross sectional. Adapun model statistik
+yang digunakan untuk menjelaskan variasi perubahan
+yang terjadi pada NPL dapat diidentifikasi pada
+model 1 dan 2 berikut:
+NPL =  + 1(LDR)i,t +  2(CAR) i,t +  3(NIM) i,t +
+ 4(INF) i,t +  5(IR) i,t +  6(ER) i,t +  (1)
+Non Performing Loan =  + 1(Loan to Deposit
+Ratio)i,t +  2(Capital Adequacy Ratio) i,t +  3(Net
+Interest Margin) i,t +  4(Inflation) i,t +  5(Interest
+Rate) i,t +  6(Exchange Rate) i,t +  (2)
+
+
+Model 1 dan 2 di atas merupakan model penelitian
+yang digunakan pada saat melakukan pengujian
+secara statistik. Investigasi pada pengaruh dari masingmasing
+variabel independen terhadap variabel dependen
+yaitunon performing loan (NPL) dilakukan
+dengan menggunakan analisis data panel (panel data
+analysis regression) yang disediakan oleh E-Views
+versi 7. Alat uji statistik ini dianggap memiliki keunggulan
+karena menyediakan fasilitas untuk menentukan
+model yang layak dalam membandingkan tiga model
+yang tersediadalam analisis data panel. Model-model
+tersebut dikomparasikan untuk menentukan model
+mana yang dapat menunjukkan hasil estimasi output
+yang paling efisien. Ketiga model tersebut terdiri atas
+pooled least square model (PLS), fixed effect model
+(FEM), dan random effect model (REM).
+Ketiga model yang tersedia dalam analisis data
+panel harus dikomparasikan. Pada tahap awal, dilakukan
+analisis data panel dengan terlebih dahulu menggunakan
+FEM model. Kemudian diteruskan dengan
+melakukan uji chow untuk menentukan model mana
+yang paling layak antara FEM dan PLS. Apabila nilai
+signifikansi menunjukkan hasil yang tidak signifikan,
+maka model PLS dianggap sebagai model yang paling
+efisien dibanding FEM. Sebaliknya, jika nilai F statistik
+signifikan pada alpha 5%, maka diteruskan dengan
+menjalankan model REM untuk membandingkan
+antara FEM dan REM. Komparasi antara kedua
+model tersebut dilakukan dengan memanfaatkan uji
+hausman. Justifikasi dilakukan dengan melihat hasil
+signifikansi F satistik dari output uji hausman. Jika
+signikan pada level alpha 5%, maka model FEM dianggap
+lebih baik daripada model REM, sebaliknya jika
+tidak signifikan pada alpha 5%, maka model REM
+dianggap dapat menghasilkan hasil estimasi output
+yang paling efisien dari ketiga model yang ada.
+Chow test
+Chow test merupakan pengujian yang dilakukan
+untuk menjustifikasi komparasi antara model FEM
+dan PLS. Dalam analisis data panel, penentuan model
+harus dilakukan dengan tujuan agar hasil estimasi
+dapat menunjukkan output paling efisien. Hasil komparasi
+kedua model FEM dan PLS dapat dilihat pada
+Tabel 2.
+Hausman Test
+Hausman test merupakan pengujian yang dilakukan
+sebagai tindak lanjut dari hasil uji chow. Jika hasil
+uji chow mengindikasikan bahwa model sementara
+yang paling baik adalah FEM, maka selanjutnya harus
+dilakukan pengujian dengan memanfaatkan model
+REM yang kemudian dibandingkan dengan FEM.
+Komparasi tersebut dilakukan dengan mempekerjakan
+uji hausman dengan outputanalisis sebagai berikut:
+Hasil estimasi dengan menggunakan uji chow
+dan hausman di atas menunjukkan bahwa model
+REM Pooled EGLS (Cross-section random effects)
+dinilai sebagai model yang lebih layak digunakan, dan
+dapat menghasilkan hasil estimasi yang paling efisien
+dibandingkan kedua model lainnya.
+
+HASIL DAN PEMBAHASAN
+Sebelum melakukan analisis data panel, data yang
+diperoleh dari ICMD CD-ROM diolah dengan menggunakan
+analisis deskriptif. Tujuannya adalah untuk
+melihat karakteristik data dari setiap variabel yang
+digunakan. Berikut informasi deksriptif dalam bentuk
+nilai mean, maximum, minimum, jumah observasi, dan
+cross-section dari sampel yang digunakan.
+Analisis Data Panel dengan Menggunakan
+Random Effect Model (REM)
+Pengujian dengan menggunakan sampel konsolidasi
+dari ke-16 perusahaan yang tergabung di Bursa
+Efek Indonesia dilakukan dengan menggunakan REM
+model. Sejalan dengan hasil komparasi model yang
+peroleh melalui output uji chow dan uji hausman,
+direkomendasikan agar sampel final diuji dengan
+menggunakan Model Pooled EGLS (Cross-section
+random effects) sebagaimana gambar 5.
+
+
+
+
+Tabel 5 menunjukkan bahwa analisis regresi
+dilakukan dengan menggunakan random effect model
+(REM) dancross-section random effects. Secara
+spesifik, output penelitian dengan menggunakan
+analisis data panel memberikan hasil yang lebih baik
+dibandingkan dengan analisis ordinary least square
+(OLS), seperti yang diungkapkan oleh Gujarati &
+Porter (2009). Baltagi, (2005) mencatat bahwa analisis
+data panel merupakan kombinasi yang baik, di mana jumlah data yang digunakan cenderung lebih besar
+dan dapat menghasilkan hasil estimasi yang paling
+efisien bila dilakukan dengan prosedur pengujian model
+yang tepat. Selain itu, dengan melakukan analisis
+data panel,peneliti tidak diharuskan untuk melakukan
+uji asumsi klasik yang pada umumnya dilakukan dalam
+analisis data time series.
+Sejalan dengan hasiloutput yang diinformasikan
+oleh Tabel 5, diketahui bahwa hipotesis pertama
+didukung secara statistik. Nilai probabilitas dari signifikansi variabel loan to deposit ratio (LDR)
+menunjukkan hasil yang signifikan pada alpha 5%,
+yaitu dengan nilai koefisien regresi (1LDR) sebesar
+0.004 (p< 0.01). Hasil tersebut mengindikasikan
+bahwa ada hubungan kausalitas positif yang
+ditunjukkan oleh LDR terhadap NPL. Selanjutnya,
+pengujian hipotesis kedua dapat diidentifikasi dari hasil
+nilai probabilitas signifikansi variabel independen
+kedua, yaitu capital adequacy ratio (CAR). Nilai
+signifikansi yang ditunjukkan dari interaksi variabel
+CAR terhadap NPL adalah sebesar 0.079 yang
+signifikan pada level alpha 10% dan nilai koefisien
+regresinya (2CAR) menunjukkan angka yang
+negatif -0.432. Dengan demikian, dapat disimpulkan
+bahwa CAR berkontribusi negatif dan signifikan
+(p<0.05) terhadap NPL. Semakin besar nilai CAR,
+berdampak pada semakin sedikitnya alokasi dana
+yang diberikan dalam bentuk distribusi kredit, dan hal
+ini menyebabkan jumlah kas yang ditahan menjadi
+semakin besar dan semakin rendahnya kredit yang
+dikucurkan pada para peminjam. Dengan demikian,
+risiko NPL dapat diminimalisir. Hasil temuan ini mendukung
+hasil studi yang dilakukan oleh Ahmed, et al.
+(1999); Hasan dan Wall (2004) dan Boudriga, et al.,
+(2009) yang menyebutkan bahwa penentuan batas
+optimal rasio pinjaman terhadap modal, dan pengurangan
+pemberian kredit dengan kriteria yang ketat
+dapat menekan potensi risiko non performing loan
+di sektorperbankan.
+Hipotesis ketiga menduga bahwa net interest
+margin (NIM) berkontribusi secara positif terhadap
+NPL. Hasil yang diperoleh melalui pengujian analisis
+data panel menunjukkan bahwa NIM menunjukkan
+tanda negatif pada koefisien regresi variabel independen
+ketiga (3NIM) yaitu -0.454 dan signifikan pada
+level 10% (p< 0.10). Hasil yang diperoleh ini menunjukkan
+bahwa secara statistik hipotesis penelitian ketiga
+tidak didukung, di mana dugaan hipotesis variabel
+NIM berpengaruh secara positif terhadap NPL,
+namun hasil pengujian statistik menunjukkan tanda
+yang sebaliknya, yaitu negatif.
+Hipotesis keempat menduga bahwa inflation
+(INF) berpengaruh positif terhadap NPL. Hasil pengujian
+statistik di atas menunjukkan output yang konsisten
+dengan hipotesis keempat, yang mana koefisien
+variabel independen keempat (4INF) menunjukkan
+tanda yang positif (0.067). Akan tetapi, hasil ini tidak
+signifikan secara statistik. Selanjutnya variabel independen
+kelima yaitu itu interest rate(IR) diduga berpengaruh
+positif terhadap NPL. Output serupa juga
+ditunjukkan oleh koefisien variabel (5IR) yang bernilai
+positif (0.201) namun tidak signifikan secara statistik.
+Meskipun kedua variabel tersebut tidak signifikan
+secara statistik, namun hasil yang kami dapatkan
+sejalan dengan hasil penelitian yang dilakukan oleh
+Cifter, et al. (2009) dan Ahmad dan Bashir (2012).
+Hipotesis keenam merupakan hipotesis terakhir
+yang menduga bahwa ada hubungan kausalitas positif yang ditunjukkan oleh variabel exchange rate(ER)
+terhadap NPL. Hasil yang diperoleh menunjukan bahwa
+hipotesis keenam didukung secara statistik, dimana
+koefisien variabel independen keenam (6ER) menunjukkan
+tanda yang positif (0.001) dan signifikan (p<
+0.05) pada level alpha 5%. Hasil temuan ini konsisten
+dengan dugaan a priori pada hipotesis enam, dan
+mendukung hasil kajian yang dilakukan oleh De Bock
+dan Demyanets (2012) yang mana pelemahan mata
+uang lokal berdampak pada semakin tingginya biaya
+yang harus dialokasi debitur untuk mengangsur
+kewajibannya.
+Hasil pengujian yang dilakukan secara statistik
+pada data dari 16 bank yang tergabung di Bursa Efek
+Indonesia dalam kurun waktu 2002 sampai dengan
+2011 menunjukkan hasil yang konsisten dengan penelitian
+terdahulu. Di antaranya, hasil yang kami peroleh
+sejalan dengan Salas dan Saurina (2002) yang
+mengkombinasikan faktor makroekonomi dan mikroekonomi
+sebagai prediktor terhadap variasi perubahan
+yang terjadi pada rasio NPL dalam sektor perbankan
+konvensional di Spanyol. Berdasarkan hasil pengamatan
+yang dilakukannya dari tahun 1985 sampai
+dengan 1997, ditemukan bahwa kelambanan dalam
+ketidakefisienan bank dalam mengelola asetnya berdampak
+pada penurunan performa perbankan di tahun
+berikutnya.
+Lebih lanjut, dalam kurun waktu periode pengamatan,
+kami menemukan bahwa ada siklus bisnis,
+yang mana pada siklus tersebut terbentuk dua pola
+berupa pola resesi dan recovery. Pada tahun 2007,
+Indonesia sempat diterpa dampak krisis keuangan
+global yang bermula dari kredit macet hipotek (subprime
+mortage) di Amerika. Periode resesi merupakan
+penyebab utama faktor makroekonomi mengalami
+volatilitas yang tinggi, seperti kurang terkendalinya
+nilai interest rate, inflation dan exchange rate pada
+periode tersebut. Siklus ekonomi yang kami ungkapkan
+ini konsisten dengan hasil penelitian yang dilakukan
+oleh Quagliariello, (2007) dengan konteks penelitian
+siklus risiko bank di Italia, yang mana risiko
+pinjaman secara langsung dipengaruhi oleh periode
+resesi yang dialami dalam siklus ekonomi. Perbankan
+cenderung akan dengan ketat melakukan pengawasan
+terhadap aktivitas distribusi kredit selama resesi
+berlangsung. Meskipun langkah ini mengurangi jumlah
+pendapatan, namun dampak jika perbankan tidak
+melakukan pengetatan likuiditas pada masa resesi
+akan jauh lebih besar dibandingkan menurunnya pendapatan
+selama periode pengetatan berlangsung.
+KESIMPULAN
+Hasil penelitian ini merupakan bukti empiris
+mengenai faktor-faktor yang menjadi determinan
+dalam variasi perubahan yang terjadi pada rasio non
+performing loan (NPL) di sektor perbankan
+Indonesia. Dengan menggunakan sampel penelitian
+yang diperoleh dari Bursa Efek Indonesia, dapat
+diketahui bahwa variasi perubahan NPL atau yang
+lebih dikenal dengan rasio kredit macet disebabkan
+oleh enam faktor, yang terdiri atas loan to deposit
+ratio (LDR), capital adequacy ratio (CAR), net
+interest margin (NIM), inflation (INF), interest rate
+(IR) dan exchange rate (ER).
+Secara rinci, variabel LDR (p< 0.05), dan ER
+(p< 0.05) berpengaruh secara positif dan signifikan
+terhadap NPL. CAR berpengaruh negatif dan signifikan
+(p< 0.01) terhadap NPL. Variabel INF dan IR
+berpengaruh positif namun tidak signifikan secara
+statistik terhadap NPL. Sebaliknya,NIM tidak berpengaruh
+terhadap NPL. Dengan demikian, hasil penelitian
+ini menjadi tambahan referensi yang menguji
+variasi NPL yang disebabkan oleh beberapa faktor
+determinan pada 16 perusahaan yang tergabung dalam
+sektor perbankan di Bursa Efek Indonesia, selama
+kurun waktu dari tahun 2002 sampai dengan 2011.

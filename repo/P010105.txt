@@ -1,0 +1,509 @@
+﻿Studi Komparasi Sistem Isolasi Dasar High-Damping Rubber Bearing dan Friction Pendulum System pada Bangunan Beton Bertulang   
+
+Abstrak 
+
+Perkembangan dari perencanaan bangunan tahan gempa pada beberapa dekade terakhir telah melahirkan suatu inovasi baru yang disebut sistem isolasi dasar.
+
+Dua jenis sistem isolasi dasar yang telah banyak digunakan adalah High-Damping Rubber Bearing (HDRB) dan Friction Pendulum System (FPS).
+
+Tujuan dari studi ini adalah membandingkan kinerja HDRB dan FPS pada kondisi perpindahan rencana dan riwayat pembebanan gempa yang sama serta mempelajari pengaruh kekangan khusus maupun menengah pada bangunan yang sudah dilengkapi dengan sistem isolasi dasar.
+
+Digunakan lima model studi berupa gedung perkantoran hipotetikal dua puluh lima lantai dengan sistem struktur berupa sistem ganda yang terletak di daerah Jakarta dengan kondisi tanah sedang.
+
+Digunakan analisis non-linear riwayat waktu (NLTHA) dengan memanfaatkan tujuh buah riwayat gempa yang telah diskalakan terhadap respon spektra target baik pada Design Basis Earthquake (DBE) maupun Maximum Credible Earthquake Risk Category (MCER).
+
+Parameter-parameter yang dibandingkan meliputi perpindahan atap, gaya geser dasar, perpindahan antar lantai, kondisi kerusakan sendi plastis, rasio redaman efektif, dan kemampuan disipasi energi inelastik dari kedua perangkat tersebut.
+
+Berdasarkan parameter-parameter tersebut, perangkat FPS terbukti dapat bekerja lebih baik dibandingkan dengan HDRB dalam mereduksi gaya gempa.
+
+Selain itu, efek kekangan terbukti tidak lagi memberikan pengaruh yang signifikan pada gedung yang sudah dilengkapi dengan sistem isolasi dasar.
+
+Kata-kata Kunci: Sistem isolasi dasar, High-Damping Rubber Bearing, Friction Pendulum System, Mekanisme, Disipasi Energi, Design Basis Earthquake (DBE), Maximum Credible Earthquake Risk Category (MCER), Analisis Non-Linear Riwayat Waktu  
+
+1. Pendahuluan 
+
+Bangunan-bangunan penting, yang berperan sebagai life-line dan harus tetap beroperasi ketika gempa terjadi, menjadi salah satu pertimbangan dilakukannya penelitian dan pengembangan metode-metode alternatif baru.
+
+Salah satu konsep yang diusulkan dalam meningkatkan kinerja struktur secara signifikan terhadap gaya gempa adalah sistem isolasi dasar.
+
+Konsep utama dari sistem isolasi dasar adalah penerapan suatu elemen fleksibel di dasar bangunan yang mampu meningkatkan periode alami dan redaman struktur secara signifikan.
+
+Deformasi yang timbul ketika gempa kuat terjadi akan terpusat pada elemen fleksibel itu sendiri sedangkan struktur di atasnya akan berdeformasi menyerupai suatu badan kaku (rigid body) (Kelly, 2001).
+
+Pada studi ini, dianalisis model gedung beton bertulang 25 lantai dengan sistem struktur berupa sistem ganda kombinasi antara Sistem Rangka Pemikul Momen Khusus (SRPMK) dan Sistem Dinding Struktural Khusus (SDSK) yang berfungsi sebagai gedung perkantoran dengan kategori risiko II dan terletak di Jakarta dengan kondisi tanah sedang.
+
+Model gedung tersebut divariasikan berdasarkan dua variabel utama yaitu: (i) jenis sistem isolasi dasar yang diterapkan dan (ii) jenis detailing kekangan yang digunakan pada elemen beton bertulang untuk masing-masing model tersebut.
+
+Pada studi ini, diamati secara spesifik mengenai perilaku dari gedung terisolasi baik dari parameter karakteristik dinamiknya, respons struktur yang dihasilkan ketika terjadi gempa, kerusakan sendi plastis yang terjadi, dan pengaruh kekangan elemen terhadap kerusakan struktur terisolasi.
+
+Analisis yang dilakukan adalah analisis nonlinear riwayat waktu (Non Linear Time History Analysis-NLTHA) dengan menggunakan 7 (tujuh) pasang gempa riwayat waktu yang telah diskalakan terhadap respons spektra Jakarta tanah sedang baik pada kondisi desain (Design Based Earthquake- DBE) maupun gempa kuat atau maksimum (Maximum Credible Earthquake-MCER).
+
+2.Dasar Teoretis 
+
+2.1 Perbandingan konsep desain konvensional dengan isolasi dasar 
+
+Konsep desain konvensional umumnya dilakukan dengan memanfaatkan sifat inelastik struktur dalam mendisipasikan energi gempa.
+
+Sifat inelastik ini tentunya sangat ditentukan oleh daktilitas yang dimiliki oleh struktur tersebut.
+
+Konsep pendekatan ini mengizinkan kerusakan terjadi pada elemen-elemen struktur yang memang direncanakan berfungsi sebagai “sekring (pemutus aliran listrik)” untuk membatasi gaya gempa yang masuk ke struktur.
+
+Elemen “sekring” ini harus direncanakan sebaik mungkin agar memiliki daktilitas yang memadai ketika berdeformasi pada kondisi inelastik.
+
+Pendekatan konsep isolasi dasar cukup berbeda dengan pendekatan desain konvensional.
+
+Struktur di atas sistem isolasi dasar umumnya direncanakan untuk tetap bersifat elastik ketika gempa kuat terjadi.
+
+Sumber disipasi energi gempa pada konsep ini bukan berasal dari kerusakan elemen namun dari disipasi energi yang dihasilkan oleh sistem isolasi dasar yang fleksibel.
+
+Perangkat isolasi dasar juga memanfaatkan mekanisme pendisipasian energi yang berbeda dengan bangunan konvensional.
+
+Pada bangunan konvensional, disipasi energi diakomodasi melalui rotasi pada elemen melalui mekanisme lentur (hubungan Momen-Rotasi).
+
+Di sisi lain, perangkat isolasi dasar mendisipasikan energi melalui mekanisme gaya geser dan regangan geser inelastik pada perangkat elemen isolasi dasar yaitu bahan karet dengan redaman tinggi (High Damping Rubber Bearing) dan friction pendulum system yang memanfaatkan prinsip kerja layaknya bandul harmonik sederhana dan memiliki kemampuan recentering.
+
+Dengan konsep isolasi dasar ini, struktur atas mengalami peningkatan kinerja secara signifikan dimana hal ini ditandai dengan penurunan tingkat kerusakan struktur yang terjadi.
+
+2.2 High-Damping Rubber Bearing (HDRB) 
+
+High-damping rubber bearing merupakan salah satu jenis laminated rubber bearing yang terbuat dari campuran senyawa karet dengan nilai rasio redaman yang tinggi.
+
+High-damping rubber bearing memiliki nilai kekakuan awal yang tinggi sehingga mampu mengakomodasi gaya angin dan gempa ringan tanpa berdeformasi secara signifikan.
+
+Dengan meningkatnya eksitasi gempa maka deformasi lateral akan meningkat dan modulus geser dari rubber akan menurun dan menghasilkan sistem isolasi dasar yang efektif (cukup fleksibel untuk memperpanjang periode struktur).
+
+Pada nilai regangan geser 250 hingga 300%, kekakuan horizontal akan meningkat kembali akibat pengaruh hardening effects.
+
+Pengaruh ini berfungsi sebagai “sekring” untuk membatasi deformasi yang melebihi batas gempa maksimum yang direncanakan.
+
+Perangkat HDRB dan kurva histeretik yang dihasilkan diberikan pada Gambar 1 di bawah ini.
+
+Sumber: Fundamental Concepts of Earthquake Engineering :(Villaverde, 2009)
+
+Gambar 1. Perangkat HDRB (atas) dan kurva histeretik yang dihasilkan (bawah)
+
+Pada Gambar 2 ditunjukkan mekanisme pergerakan dan disipasi energi dari perangkat HDRB pada pembebanan siklik.
+
+Nilai kekakuan dan redaman dari HDRB bergantung pada besarnya nilai shear strain yang terjadi.
+
+Pada pemodelan linear, umumnya digunakan pendekatan nilai kekakuan efektif (Keff) dan redaman efektif (ξeff) untuk menggambarkan nilai kekakuan dan redaman pada suatu nilai perpindahan tertentu seperti diperlihatkan pada Gambar 3.
+
+Sumber : FEMA P-751 Chapter 12, Seismically Isolated Structures(3)
+
+Besarnya nilai kekakuan dan redaman efektif berturutturut diberikan pada Persamaan (1) dan (2) sebagai berikut :  
+
+____ =
+____ + _	___ − ___
+___
+= __ − _	_
+__
+___
++ _	 (1)
+____ =
+_
+__
+__
+__ (2)
+__ = ___ − _	___(___ − __)
+__ = (3)
+____ _ __
+_
+_
+
+Dimana besarnya nilai WD dan WS ditentukan melalui Persamaan (3) berikut :
+Dimana :
+Ki : kekakuan awal (initial stiffness)
+Kp : kekakuan paska kelelehan (postyield stiffness)
+uy : deformasi leleh
+umax : deformasi maksimum pada suatu siklus pembebanan tertentu
+WD : energi histeretik (direpresentasikan melalui luasan kurva histeretik)
+WS : energi regangan elastik pada linear equivalent system
+
+2.3 Friction Pendulum System (FPS) 
+
+Salah satu kelebihan utama yang dimiliki oleh perangkat friction pendulum system adalah kemampuannya untuk mengembalikan struktur pada posisi semula setelah gempa berakhir.
+
+Hal ini dapat terjadi karena adanya bagian articulated slider yang bergerak pada suatu permukaan stainless-steel yang berbentuk cekung dengan nilai kelengkungan tertentu.
+
+Dengan adanya tahanan friksi pada kedua permukaan tersebut maka struktur di atas sistem isolasi dasar akan tetap berperilaku layaknya sebuah struktur terjepit (fixed-base structure) pada kondisi beban lateral yang ringan.
+
+Perangkat FPS dan kurva histeretik yang dihasilkan diberikan pada Gambar 4.
+
+Sumber : Modelling Aspects of Structures Isolated With TheFrictional Pendulum System (Jose, et.al., 1998)
+Gambar 4. Perangkat FPS (atas) dan kurva histeretik yang dihasilkan (bawah)
+
+Gambar 5. Mekanisme pergerakan dan pembentukan kurva histeretik pada perangkat FPS
+
+Ketika gaya friksi batas terlampaui, struktur akan bergerak layaknya sebuah bandul harmonik sederhana.
+
+Periode natural dari perangkat FPS dapat didekati dengan persamaan periode alami untuk bandul sederhana sedangkan disipasi energi akan didapatkan dari friksi di antara kedua permukaan yang telah dijelaskan sebelumnya.
+
+Pada Gambar 5 ditunjukkan mekanisme pergerakan dari FPS pada beban siklik akibat gempa.
+
+Nilai kekakuan dan redaman dari FPS bergantung pada besarnya nilai perpindahan yang terjadi pada bearing.
+
+Pada pemodelan linear, umumnya digunakan pendekatan nilai kekakuan efektif (Keff) dan redaman efektif (ξeff) untuk menggambarkan nilai kekakuan dan redaman pada suatu nilai perpindahan tertentu seperti diperlihatkan pada Gambar 6.
+
+Besarnya nilai kekakuan dan redaman efektif berturutturut diberikan pada Persamaan (4) dan (5) sebagai berikut: 
+
+____ =
+____(__)_( ) + _!___
+___
+(4)
+(5)
+____ =
+_
+__
+__
+__
+=
+_
+__
+_(__)___
+____ _ __
+_
+_
+=
+_
+_
+"
+_
+_ + ___
+#
+
+
+Kekakuan setelah FPS mengalami pergerakan dapat dirumuskan sebagai berikut :   
+_! =
+_( )
+# (6)
+
+Dimana :
+
+%&'( ()_) : koefisien friksi dari concave surface
+
+W(t) : gaya aksial yang bekerja pada bearing (fungsi waktu)
+KH : kekakuan setelah FPS mengalami pergerakan (F>μW)
+R : jari-jari kelengkungan dari concave surface
+
+
+3. Metode Penelitian Metode penelitian secara global yang digunakan pada studi ini diberikan pada Gambar 7.
+
+4.Hipotesis 
+
+Berdasarkan dasar teoretis yang telah dikemukakan sebelumnya, dapat dirumuskan hipotesis sebagai berikut ini :  “Struktur yang dilengkapi dengan sistem isolasi dasar akan mengalami peningkatan periode dan nilai rasio redaman efektif pada mode-mode fundamental sehingga percepatan gempa yang akan diterima struktur di atasnya akan berkurang secara signifikan.
+
+Hal ini dapat diamati melalui peningkatan kinerja struktur yang salah satunya ditandai dengan penurunan kerusakan sendi plastis yang terjadi dari hasil NLTHA.
+
+Pengaruh kekangan pada struktur yang sudah dilengkapi dengan sistem isolasi dasar tidak akan mengalami pengaruh yang signifikan karena struktur akan cenderung bersifat elastik sehingga faktor daktilitas tidak menjadi faktor yang menentukan pada kondisi tersebut.
+
+5.Studi Kasus 
+
+5.1 Deskripsi model studi 
+
+Model studi yang digunakan berupa gedung perkantoran hipotetikal 25 lantai dengan tinggi lantai yang tipikal untuk semua lantai adalah 3,80 meter.
+
+Denah bangunan berbentuk simetris dengan masing-masing arah terdiri dari 5 bentang dengan panjang tiap bentang adalah 6 meter.
+
+Dinding geser terletak di keempat sudut bangunan.
+
+Model studi terletak di daerah Jakarta dengan kondisi tanah sedang.
+
+Denah dan tampak bangunan dapat dilihat pada Gambar 8.
+
+Standard yang digunakan sebagai acuan desain elemen beton bertulang, penentuan beban gempa dan gravitasi adalah SNI 2847:2013, SNI 1726:2012, dan SNI 1727- 1989 secara beruturut-turut.
+
+Material utama bangunan berupa beton bertulang dengan mutu beton f’c = 30 MPa untuk kolom dan dinding geser, f’c = 28 MPa untuk balok.
+
+Mutu baja tulangan dengan fy = 400 MPa dan fu = 500 MPa.
+
+Pada studi ini, digunakan total 5 (lima) model gedung dengan deskripsi untuk masingmasing model gedung diberikan pada Tabel 1.
+
+
+Tabel 1. Deskripsi model gedung
+
+Model KeteranganI
+Struktur konvensional (tidak diberikan system isolasi) dengan sistem ganda (SRPMK+SDSK)
+II (a)
+Struktur terisolasi dengan HDRB dengan detailing kekangan khusus
+II (b)
+Struktur terisolasi dengan HDRB dengan detailing kekangan menengah
+III (a)
+Struktur terisolasi dengan FPS dengan detailing kekangan khusus
+III (b)
+
+
+Struktur terisolasi dengan FPS dengan detailing kekangan menengah
+
+ 5.2 Perencanaan elemen struktur 
+
+Seperti telah dijelaskan sebelumnya, pembebanan gempa pada studi ini mengacu pada SNI 1726:2012.
+
+Prosedur pembebanan gempa yang digunakan meliputi prosedur ragam respons pada fase desain dan NLTHA pada fase analisis.
+
+Pada prosedur dengan ragam respons, beban gempa yang digunakan berupa respon spektra Jakarta kondisi tanah sedang seperti diberikan pada Gambar 9.
+
+Seperti yang telah dijelaskan sebelumnya, pada fase analisis akan digunakan prosedur NLTHA dengan 7 (tujuh) pasang riwayat gempa yang didapatkan dari PEER Berkeley (2000) seperti diberikan pada Tabel 2.
+
+Ketujuh riwayat gempa tersebut diskalakan terlebih dahulu terhadap respons spektra Jakarta tanah sedang melalui bantuan software EZ-Frisk 7.62 (2013) melalui fitur spectral-matching.
+
+Proses penskalaan tersebut tidak akan mengubah frekuensi konten dari gempa asli namun hanya terjadi perubahan nilai amplitudo dari percepatan gempa asli pada masing-masing periode dengan faktor skala yang berbeda-beda (ada yang meningkat maupun menurun) sehingga didapatkan hasil akhir spektra yang hampir berhimpit secara sempurna dengan spektra target.
+
+Pada Gambar 10, ditampilkan hasil penskalaan ketujuh riwayat gempa terhadap respons spektra Jakarta tanah sedang yang berperan sebagai spektra target.
+
+ Selanjutnya, layout pemasangan tipikal HDRB pada denah bangunan beserta jenis dan parameter untuk masing-masing tipikal tersebut diberikan pada Gambar 11.
+
+ Parameter mekanis untuk tiap tipikal HDRB pada layout di atas ditampilkan pada Tabel 3.
+
+Tabel 3. Parameter mekanis HDRB berdasarkan data supplier Bridgestone pada kondisi 100% shear strain (Bridgestone Corporation, 2013)
+
+Spesifikasi HDRB (Bridgestone –
+100% shear strain)
+HL 085
+X4R
+HL 100
+X4R
+HL
+110X4R
+Kekakuan Awal
+(kN/m)
+8340 11700 14100
+Kekakuan Paska
+Leleh (kN/m)
+834 1170 1410
+Kuat Leleh (kN) 82.3 114 137
+Kekakuan Efektif
+(kN/m)
+1320 1860 2240
+Rasio Redaman
+Efektif (%)
+22 22 22
+
+Selanjutnya, layout pemasangan tipikal FPS pada denah bangunan beserta jenis dan parameter untuk masing-masing tipikal tersebut diberikan pada Gambar 12.
+
+Gambar 12. Layout pemasangan perangkat FPS pada model gedung III (a) dan III (b)
+
+Parameter mekanis untuk tiap tipikal HDRB pada layout di atas ditampilkan pada Tabel 4.
+
+
+Tabel 4. Properti mekanis FPS pada kondisi gempa desain (periode ulang 500 tahun)
+
+
+Spesifikasi FPS
+Type-
+I
+Type-
+II
+Type-
+III
+Type-
+IV
+Type-
+V
+Jari-jari
+kelengkungan (m)
+7.1 7.1 7.1 7.1 7.1
+Koefisien Friksi 0.02 0.02 0.02 0.02 0.02
+Kekakuan Efektif
+(kN/m)
+2194 1933 1864 1756 1309
+Rasio Redaman
+Efektif(%)
+30 30 30 30 30
+
+
+ 5.3 Analisis nonlinear struktur 
+
+Pemodelan properti elemen nonlinear dilakukan berdasarkan hasil konfigurasi penulangan dari fase desain.
+
+Pemodelan ini meliputi pemodelan : (1) sendi plastis mekanisme lentur M3 balok, (2) sendi plastis mekanisme interaksi PMM kolom, (3) model konstitutif material pada elemen fiber dinding geser dan (4) hubungan bilinear gaya-perpindahan pada elemen isolasi dasar HDRB dan FPS itu sendiri (Powell, 2012).
+
+Limit deformasi dan acceptance criteria untuk tiap elemen telah disesuaikan dengan rekomendasi dari dokumen FEMA 356 (2000).
+
+Properti nonlinear tersebut kemudian diinputkan pada model struktur untuk digunakan dalam analisis nonlinear dengan menggunakan bantuan software CSI Perform 3D (2012).
+
+Setelah proses pemodelan nonlinear dari tiap elemen selesai dilakukan, tahapan selanjutnya adalah melakukan proses NLTHA terhadap kelima model gedung dengan menggunakan 7 (tujuh) riwayat gempa yang telah diskalakan seperti dijelaskan pada bagian sebelumnya.
+
+Dari hasil NLTHA tersebut maka didapatkan respons dan kerusakan untuk masing-masing model yang akan dijelaskan pada bagian selanjutnya.
+
+Untuk masing-masing respon dan kerusakan struktur akan diambil nilai rata-rata dari ketujuh gempa sesuai dengan persyaratan SNI 1726:2012 pasal 12.3.2.
+
+5. 4 Evaluasi roof drift terhadap waktu  
+
+Untuk evaluasi parameter roof drift terhadap waktu yang ditampilkan pada Gambar 13 dan 14 hanya bersumber dari NLTHA dengan satu gempa terbesar saja yaitu gempa Kobe.
+
+Dari kedua gambar tersebut dapat disimpulkan bahwa struktur yang dilengkapi dengan sistem isolasi dasar baik HDRB maupun FPS mengalami reduksi roof drift yang signifikan dibandingkan struktur terjepit.
+
+Pada gempa Kobe dengan kondisi DBE, roof drift model dengan HDRB mengalami penurunan 35.49%
+sedangkan FPS sebesar 49.42% terhadap struktur konvensional.
+
+
+Pada kondisi MCER, roof drift model dengan HDRB mengalami penurunan 36.38% sedangkan FPS sebesar 51.90% terhadap struktur konvensional.
+
+
+Dari hasil tersebut, dapat disimpulkan bahwa perangkat FPS dapat mereduksi roof drift lebih signifikan dibandingkan HDRB.
+
+5.5 Evaluasi base shear 
+
+Dari Gambar 15 dan 16 dapat disimpulkan bahwa struktur yang dilengkapi dengan sistem isolasi dasar akan mengalami reduksi gaya geser dasar yang signifikan jika dibandingkan dengan struktur konvensional (terjepit) hingga mencapai nilai >35% pada DBE dan >30% pada MCER.
+
+Jika dibandingkan dari kinerja terhadap kedua alat (HDRB dan FPS), dapat terlihat bahwa baik pada kondisi DBE maupun MCER, struktur yang dilengkapi dengan FPS memiliki kinerja yang lebih baik dimana hal ini terlihat dari penurunan gaya geser dasar yang lebih signifikan dibandingkan dengan perangkat HDRB.
+
+5.6 Evaluasi inter-story drift  
+
+Berdasarkan Gambar 17 (a) dan (b), dapat terlihat bahwa struktur yang sudah dilengkapi dengan sistem isolasi dasar akan mengalami penurunan simpangan antar lantai yang signifikan dibandingkan struktur terjepitnya baik pada gempa desain maupun maksimum.
+
+Jika dibandingkan antara kinerja perangkat HDRB dan FPS, didapatkan hasil bahwa model gedung yang
+dilengkapi HDRB mampu mereduksi simpangan antar lantai rata-rata hanya sebesar 47.42% dari struktur
+terjepit sedangkan model gedung FPS mereduksi hingga nilai 61.58% pada kondisi DBE.
+
+
+Sedangkan pada kondisi MCER, perangkat HDRB mereduksi sebesar 43.15% dan FPS sebesar 59.91%.Dari besarnya pengurangan simpangan antar lantai tersebut dapat disimpulkan bahwa perangkat FPS bekerja lebih efektif dibandingkan dengan perangkat HDRB.
+
+
+5.7 Evaluasi kerusakan sendi plastis 
+
+Berdasarkan nilai acceptance criteria yang mengacu pada FEMA 356 maka dapat dievaluasi kinerja lokal dari masing-masing elemen struktur untuk tiap model gedung yang merupakan rata-rata dari ketujuh gempa seperti pada gambar berikut.
+
+ Dari Gambar 18 dan 19 dapat dibandingkan jumlah rata-rata kerusakan sendi plastis yang terjadi pada struktur dengan isolasi dasar (HDRB dan FPS) lebih sedikit/minimum dibandingkan dengan kerusakan yang terjadi pada struktur terjepit (model gedung I).
+
+Dari hasil tersebut, dapat disimpulkan bahwa penerapan sistem isolasi dasar pada bangunan konvensional mampu mengurangi kerusakan sendi plastis secara signifikan.
+
+Lebih-lebih lagi, dari Gambar 19 dapat dilihat bahwa model gedung I yang semula mencapai kondisi kinerja life safety (LS) pada kondisi MCER dapat mengalami penurunan kerusakan hingga pada kondisi immediate occupancy (IO) pada model gedung II (a) dan bahkan mendekati kondisi elastik pada model gedung III (a).
+
+Jika dibandingkan kinerja antar perangkat, dapat terlihat dari Gambar 18 dan 19 bahwa struktur yang dilengkapi dengan FPS memberikan kinerja yang lebih baik.
+
+Hal ini ditandai dengan jumlah kerusakan sendi plastis yang terjadi pada struktur yang dilengkapi FPS lebih ringan dibandingkan dengan kerusakan pada struktur yang dilengkapi HDRB.
+
+Pada Gambar 20(a) hingga (c) ditunjukkan ilustrasi pembentukan sendi plastis pada ketiga model gedung akibat gempa Kobe terskala dengan kondisi MCER pada kondisi limit Immediate Occupancy (IO).
+
+5.8 Evaluasi rasio redaman efektif dan disipasi energi inelastik 
+
+Pada bagian ini, dibahas mengenai dua hal utama yaitu rasio redaman efektif dan rasio disipasi energi inelastik.
+
+Pertama, rasio redaman efektif disini menunjukkan besarnya nilai redaman yang mampu dihasilkan oleh perangkat HDRB dan FPS itu sendiri baik pada kondisi DBE maupun MCER.
+
+Diperlukan proses pengecekan antara nilai rasio redaman efektif aktual yang didapatkan dari NLTHA terhadap redaman kapasitas yang didapatkan melalui perhitungan teoritis maupun percobaan laboratorium pada kondisi pembebanan gempa yang sama.
+
+Gambar 20. Plastifikasi elemen struktur akibat beban gempa Kobe kondisi MCER terskala untuk kondisi limit Immediate Occupancy: (a) Model Gedung I, (b) Model Gedung II (a), (c) Model Gedung III (a)
+
+Gambar 21. Kurva histeretik perangkat HDRB (di tengah denah gedung) pada kondisi DBE (kiri)
+dan MCER (kanan)
+
+Gambar 22. Kurva histeretik perangkat FPS (di tengah denah gedung) pada kondisi DBE (kiri)
+dan MCER (kanan)
+
+ Resume dari besarnya rasio redaman efektif untuk perangkat HDRB dan FPS baik pada kondisi DBE maupun MCER diberikan pada Tabel 5 dan 6.
+
+
+Tabel 5. Resume nilai rasio redaman efektif (β) dalam % perangkat HDRB pada kondisi
+DBE dan MCER
+
+Riwayat Gempa Kondisi DBE Kondisi MCER
+Chi-Chi EQ 12.51 9.75
+El-Centro EQ 14.18 11.10
+Kobe EQ 11.69 9.11
+Loma Prieta EQ 18.30 11.72
+Mammoth Lakes
+EQ
+12.28 9.40
+Morgan Hill EQ 12.27 9.88
+Northridge EQ 12.10 10.85
+Rata-rata 13.33 10.26
+
+Tabel 6. Resume nilai rasio redaman efektif (β) dalam % perangkat FPS pada kondisi DBE
+dan MCER
+
+
+Riwayat Gempa Kondisi DBE Kondisi MCER
+Chi-Chi EQ 20.80 14.53
+El-Centro EQ 16.75 14.91
+Kobe EQ 14.90 15.07
+Loma Prieta EQ 22.96 19.74
+Mammoth Lakes
+EQ
+15.04 13.34
+Morgan Hill EQ 16.91 12.70
+Northridge EQ 15.82 15.02
+Rata-rata 17.59 15.04
+
+
+Seperti yang telah dijelaskan sebelumnya, perlu dilakukan pengecekan terhadap besarnya nilai β aktual terhadap β teoritis.
+
+Kondisi dikatakan memenuhi syarat jika nilai β aktual lebih kecil atau sama dengan β teoritisnya.
+
+Proses pengecekan tersebut diberikan pada Tabel 7 dan 8.
+
+Tabel 7. Pengecekan nilai β aktual dan teoritis perangkat HDRB pada kondisi DBE dan MCER
+
+Pengecekan
+Perangkat DBE MCER
+13.33 10.26
+21 22
+OK OK
+
+Tabel 8. Pengecekan nilai β aktual dan teoritis perangkat FPS pada kondisi DBE dan
+MCER
+
+Pengecekan
+Perangkat DBE MCER
+17.59 15.04
+31 18
+OK OK
+
+Dari informasi yang diberikan pada Tabel 5 dan 6, didapatkan nilai β yang dihasilkan perangkat FPS lebih besar dari HDRB sehingga dapat disimpulkan bahwa perangkat FPS mampu mendisipasikan energi gempa secara lebih efektif.
+
+Dari Tabel 7 dan 8, dapat dilihat bahwa nilai β aktual dari analisis NLTHA baik untuk perangkat HDRB maupun FPS memberikan nilai yang rasional (lebih kecil dari nilai β teoritis) sehingga dapat disimpulkan bahwa nilai β aktual tersebut dapat digunakan.
+
+Pada bagian selanjutnya, dibahas mengenai rasio disipasi energi inelastik yang didipasikan melalui perangkat isolasi dasar dibandingkan dengan elemen struktur lainnya meliputi balok, kolom, dan dinding geser.
+
+Rasio disipasi energi inelastik untuk masingmasing model gedung diberikan pada gambar berikut.
+
+Gambar 23. Rasio disipasi energi inelastik model gedung I, II (a), dan III (a) (DBE) secara berurutan
+
+Gambar 24. Rasio disipasi energi inelastik model gedung I, II (a), dan III (a) (MCER) secara berurutan
+
+Jika dibandingkan antara rasio disipasi energi inelastik pada struktur terjepit dan terisolasi (HDRB dan FPS) dapat terlihat bahwa pada struktur terisolasi, disipasi energi hampir seluruhnya terfokus pada perangkat isolasi dasar itu sendiri.
+
+Dari hasil analisis ini dapat disimpulkan bahwa perangkat isolasi dasar sangat efektif dalam mendisipasikan energi gempa (>90% pada kondisi DBE dan >80% pada MCER) sehingga hanya sebagian kecil dari energi gempa yang didisipasikan melalui elemen struktur lainnya.
+
+Dari Gambar 23 dan 24, dapat terlihat bahwa perangkat FPS mampu memberikan rasio disipasi energi yang lebih besar yaitu mencapai angka 95% dimana perangkat HDRB hanya mampu mengakomodasi 93% dari total energi yang didisipasikan pada kondisi DBE.
+
+Pada kondisi MCER, rasio disipasi perangkat FPS juga lebih tinggi yaitu sebesar 95% dibandingkan HDRB yang hanya mampu mendisipasikan 84% energi inelastik.
+
+Berdasarkan data tersebut, dapat disimpulkan bahwa kinerja perangkat FPS dalam mendisipasikan energi lebih baik dibandingkan dengan perangkat HDRB.
+
+5.9 Evaluasi pengaruh kekangan elemen beton bertulang 
+
+Di bawah ini akan diberikan perbandingan simpangan antar lantai dan kerusakan sendi plastis yang terjadi pada struktur terisolasi dengan kekangan khusus dan menengah pada kondisi MCER saja (kondisi paling ekstrim).
+
+Dari Gambar 25 hingga 27 di atas, dapat disimpulkan bahwa hasil NLTHA yang dilakukan terhadap model struktur terisolasi dengan kekangan khusus dan menengah menunjukkan hasil yang hampir sama (tidak ada perbedaan signifikan) baik untuk HDRB maupun FPS.
+
+Hal ini dikarenakan adanya sistem isolasi dasar yang melindungi struktur atas sehingga struktur atas tetap berperilaku elastik.
+
+Pada kondisi elastik, kekangan tidak akan memberikan pengaruh/dampak yang signifikan, baik terhadap respons struktur (dalam hal ini digunakan parameter simpangan antar lantai sebagai perbandingan) maupun kerusakan sendi plastis yang terjadi.
+
+Berdasarkan hasil tersebut, struktur yang sudah dilengkapi dengan sistem isolasi dasar boleh/diizinkan untuk dikurangi persyaratan detailing-nya dengan pertimbangan yang jelas dimana struktur di atas isolasi dasar akan tetap bersifat elastik bahkan ketika gempa maksimum 2500 tahun terjadi sehingga pengaruh kekangan tidak menjadi faktor utama yang menentukan kinerja struktur.
+
+ 6.Kesimpulan 
+
+1. Struktur yang dilengkapi dengan sistem isolasi dasar mengalami penurunan respons struktur yang signifikan baik dari parameter roof drift, gaya geser dasar, maupun simpangan antar lantai jika dibandingkan dengan struktur konvensional.
+
+2. Berdasarkan parameter kerusakan sendi plastis akibat 7 gempa, struktur konvensional memiliki kinerja immediate occupancy pada kondisi DBE dan kinerja life safety pada kondisi MCER.
+
+Sedangkan, struktur yang dilengkapi dengan isolasi dasar baik berupa HDRB maupun FPS memiliki kinerja elastic pada kondisi DBE dan kinerja immediate occupancy pada kondisi MCER.
+
+Dari hasil tersebut dapat disimpulkan bahwa struktur dengan isolasi dasar mengalami penurunan kerusakan jika dibandingkan dengan struktur konvensional Dari segi kerusakan sendi plastis yang terjadi untuk struktur di atas HDRB dan FPS, dapat disimpulkan bahwa struktur yang dilengkapi dengan FPS akan mengalami kerusakan yang lebih ringan dibandingkan struktur yang dilengkapi dengan perangkat HDRB pada eksitasi gempa yang sama.
+
+3. Jika dibandingkan kinerja antara perangkat HDRB dan FPS secara keseluruhan, dapat disimpulkan bahwa perangkat FPS memiliki keunggulan di semua parameter jika dibandingkan kinerja perangkat HDRB.
+
+FPS terbukti mampu memberikan penurunan roof drift, gaya geser dasar, dan simpangan antar lantai lebih signifikan dibandingkan HDRB.
+
+Selain itu, kerusakan yang terjadi pada struktur yang dilengkapi dengan FPS juga lebih ringan dibandingkan dengan kerusakan pada struktur dengan HDRB.
+
+Lebih-lebih lagi, perangkat FPS juga terbukti mampu memberikan rasio redaman efektif dan disipasi energi inelastik yang lebih besar nilainya jika dibandingkan dengan perangkat HDRB.
+
+4. Kekangan khusus dan menengah tidak memberikan pengaruh yang signifikan terhadap respons dan kerusakan struktur yang sudah dilengkapi dengan sistem isolasi dasar yang cenderung memiliki perilaku struktur atas yang mendekati elastik.
+
+Berdasarkan pertimbangan ini maka detailing elemen untuk struktur yang berada di atas sistem isolasi dasar dapat dikurangi.
+
+

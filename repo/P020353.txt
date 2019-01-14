@@ -1,0 +1,108 @@
+﻿ABSTRAK
+Dalam pengukuran data curah hujan, tidak semua titik terdapat alat
+pengukur karena adanya suatu keterbatasan. Dengan adanya keterbatasan tersebut,
+dibutuhkan suatu metode untuk dapat menaksir suatu nilai untuk titik yang tidak
+terukur. Kriging sebagai analisa geostatistika digunakan dalam estimasi suatu
+nilai dalam titik yang tidak tersampel berdasarkan titik-titik sampel yang berada di
+sekitarnya dengan memperhitungkan korelasi spasial menggunakan suatu
+pembobot spasial, dimana korelasinya ditunjukkan melalui variogram. Ordinary
+Kriging adalah metode kriging yang paling banyak digunakan. Dengan
+menggunakan variogram eksperimental yang dibandingkan dengan beberapa
+variogram teoritis (Eksponensial, Gaussian, Spherical) dipilih salah satu model
+semivariogram terbaik untuk mengestimasi nilai yang akan dicari. Dalam
+penelitian ini, dilakukan estimasi curah hujan di Kota Semarang pada bulan
+Februari dimana hasil yang diperoleh adalah nilai curah hujan tiap kecamatan dan
+kelurahan.
+Kata kunci : Ordinary Kriging, Variogram, Curah Hujan
+
+BAB I
+PENDAHULUAN
+1.1 Latar Belakang
+Hujan merupakan sebuah presipitasi berwujud cairan, berbeda dengan
+presipitasi non-cair seperti salju dan batu es. Hujan memerlukan keberadaan
+lapisan atmosfer tebal agar dapat menemui suhu diatas titik leleh es di dekat dan
+di atas permukaan bumi. Hujan terbentuk akibat adanya penguapan air permukaan
+bumi yang berkumpul menjadi gumpalan awan dan jatuh kembali karena tertiup
+angin. Hujan adalah proses kondensasi uap air di atmosfer menjadi butir air yang
+cukup berat untuk jatuh dan biasanya tiba di daratan. Dua proses yang mungkin
+terjadi bersamaan dapat mendorong udara semakin jenuh menjelang hujan, yaitu
+pendinginan udara atau penambahan uap air ke udara. Butir hujan memilik ukuran
+yang beragam mulai dari pepat, mirip panekuk (butir besar), hingga bola kecil
+(butir kecil). Siklus yang dialami air dari air di permukaan bumi (Laut, Sungai,
+Tumbuhan, Sumur, dsb) yang menguap, kemudian menjadi awan, dan jatuh
+kembali menjadi hujan disebut siklus Hidrologi.
+
+Kekurangan maupun kelebihan hujan dapat mengakibatkan dampak luar biasa
+dalam kehidupan. Hujan yang berlebih berdampak pada terjadinya bencana seperti
+banjir dan longsor. Akibatnya adalah akan timbulnya banyak korban jiwa, baik
+karena terkena akibat longsor, maupun karena terisolasi akibat banjir dan wabah
+penyakit yang diakibatkannya. Dilain pihak, apabila terjadi kekurangan hujan,
+maka akan berdampak pada bencana kekeringan. Kekeringan yang berkepanjangan berdampak besar dalam pertanian, sehingga dapat mempengaruhi
+stabilitas pangan di masyarakat akibat menurunnya produksi pertanian baik skala
+besar maupun kecil, sehingga dapat mengakibatkan serentetan gejolak-gejolak
+lain yang dapat terjadi di masyarakat, misalnya adalah peningkatan angka
+kelaparan akibat musim paceklik, peningkatan tindakan kriminal, maupun
+dampak-dampak lain. Oleh karenanya, informasi tentang fenomena hujan sangat
+penting untuk diketahui dan dipelajari.
+
+Banyak atau sedikitnya hujan, dapat diukur melalui sebuah ukuran yang
+disebut dengan curah hujan. Curah hujan adalah ketinggian air hujan yang
+terkumpul pada tempat yang datar, tidak menguap, tidak meresap, dan tidak
+mengalir. Curah hujan satu milimeter artinya dalam luasan satu meter persegi
+pada tempat yang datar tertampung air hujan setinggi satu milimeter atau
+tertampung air hujan sebanyak satu liter (Achmad, 2011). Menurut BMKG
+(2013), curah hujan bulanan dikategorikan menjadi 4 kategori, antara lain kategori
+curah hujan ringan (0 – 100 mm), kategori curah hujan sedang (101 – 300 mm),
+kategori curah hujan tinggi (301 – 400 mm), dan kategori curah hujan sangat
+tinggi (diatas 401mm). Sebagai alat untuk mengukur curah hujan di suatu lokasi
+tertentu, maka dibangunlah pos-pos pemantauan curah hujan. Pemerintah melalui
+BMKG telah membangun pos-pos hujan di berbagai daerah di Indonesia untuk
+meneliti curah hujan di daerah-daerah tersebut, baik untuk pengukuran maupun
+peramalan curah hujan yang nantinya akan dipublikasikan ke masyarakat. Namun
+karena keterbatasan baik biaya maupun tempat, maka tidak semua kota/desa
+memiliki pos hujan sendiri sehingga pos hujan dibangun di daerah yang dianggap mmemiliki potensi dan dapat mewakili daerah di sekitarnya, sebagai contoh adalah
+Kota Semarang yang terdiri atas 16 kecamatan dan 177 kelurahan, hanya memiliki
+pos pemantauan hujan sebanyak 10 pos hujan. Suroso (2006) menggunakan
+Kurva Intensity-Duration-Frequency (IDF) untuk meneliti curah hujan di kawasan
+rawan banjir di Kabupaten Banyumas.
+Secara umum curah hujan di daerah sekitar pos-pos hujan tidak bisa diketahui
+secara pasti karena pengukuran tidak dilakukan di semua lokasi. Oleh karena itu
+diperlukan suatu metode interpolasi yang dapat menghimpun nilai dari pos-pos
+hujan yang diketahui untuk memprediksi perkiraan curah hujan daerah di
+sekitarnya yang tidak memiliki pos hujan. Interpolasi adalah suatu metode
+matematis untuk menduga nilai pada lokasi-lokasi yang datanya tidak tersedia.
+Secara khusus, terdapat suatu metode statistika yang digunakan untuk
+menganalisis data geologi dan terdapat informasi spasial yang disebut dengan
+Geostatistika. Tujuan dari analisis ini adalah untuk memprediksi suatu bagian
+bagian dalam sebuah himpunan yang tersebar secara spasial dari hasil pengukuran
+sehingga dapat dilakukan suatu interpolasi pada data. Secara teori, ada beberapa
+jenis metode interpolasi matematika yang digunakan dalam analisis spasial,
+seperti metode Invers Distance Weighted (IDW), Spline, Kriging, Thiessen
+Polygon, Least Squares Polynomial, dan lain sebagainya.
+Kriging sebagai salah satu metode geostatistika, memanfaatkan nilai spasial
+pada lokasi tersampel dan variogram yang menunjukan korelasi antar titik spasial
+untuk memprediksi nilai pada lokasi lain yang belum tersampel yang mana nilai
+prediksi tersebut tergantung pada kedekatannya terhadap lokasi tersampel.
+Widhita (2008) menggunakan Ordinary Kriging dengan semivariogram
+anisotropik untuk menaksir kandungan cadangan bauksit di daerah Menpawah.
+Berdasarkan latar belakang tersebut, penulis bermaksud untuk mengetahui
+bagaimana mengestimasi curah hujan di Kota Semarang dengan menggunakan
+metode interpolasi Ordinary Kriging.
+
+1.2 Batasan Masalah
+Batasan masalah yang digunakan penulis dalam penelitian ini adalah:
+1. Lokasi spasial yang akan diduga adalah seluruh kecamatan dan kelurahan
+di Kota Semarang, dengan pos hujan Semarang Barat (Staklim) sebagai
+titik kontrol, sedangkan 9 pos hujan lainnya digunakan sebagai titik
+tersampel yang digunakan untuk menduga nilai curah hujan.
+2. Data yang digunakan dalam penelitian ini data curah hujan udara bulanan
+pada bulan Januari – Februari tahun 2013.
+3. Jenis variogram yang digunakan dalam metode ordinary kriging adalah
+variogram isotropik yaitu variogram yang tidak membedakan arah/sudut.
+4. Jenis model variogram teoritis yang dipakai adalah model eksponensial,
+model gaussian, dan model spherical.
+
+1.3 Tujuan Penulisan
+Tujuan dari penulisan tugas akhir ini adalah mengestimasi curah hujan setiap
+kecamatan dan kelurahan di Kota Semarang dengan menggunakan metode
+interpolasi Ordinary Kriging.

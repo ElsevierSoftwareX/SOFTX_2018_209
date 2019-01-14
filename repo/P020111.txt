@@ -1,0 +1,137 @@
+﻿ABSTRAK
+Telah dilakukan penelitian yang berjudul Optimalisasi Citra Magnetic
+Resonance Imaging (MRI) T2 Fast Spin Echo (FSE) dengan Variasi Echo Train
+Length (ETL) pada Kasus Ruptur Tendon Achilles. Tujuan dari penelitian ini adalah
+untuk mengetahui pengaruh variasi Echo Train Length (ETL) terhadap hasil citra
+pemeriksaan MRI enkle dan mengetahui berapa nilai Echo Train Length (ETL)
+yang optimal pada pemeriksaan MRI enkle sehingga dapat menghasilkan citra yang
+optimal. Dalam penelitian ini, variasi ETL yang digunakan adalah 12-20 dengan
+interval 2 pada pembobotan T2 FSE sagittal. Hasil penelitian didapatkan pengaruh
+Echo Train Length (ETL) terhadap kualitas citra MRI enkle sagittal menggunakan
+pembobotan T2 FSE dianalisa pada 25 citra dari lima pasien. Analisa data dilakukan
+secara kuantitatif dengan metode Region Of Interest (ROI) langsung pada citra
+komputer pesawat MRI kemudian dilakukan analisis Signal to Noise Ratio (SNR)
+dan Contras to Noise Ratio (CNR). Signal to Noise Ratio (SNR) paling tinggi
+terdapat pada jaringan lemak (Fat), sedangkan Contras to Noise Ratio (CNR) paling
+tinggi pada jaringan Tendon-Fat dengan nilai ETL 12 pada dua pasien. Uji statistik
+menunjukkan bahwa nilai SNR diperoleh hasil Signifikan pada jaringan Tendon
+sebesar 0.007 (p<0.05), Lemak sebesar 0.364 (p>0.05), Fibula sebesar 0.912
+(p>0.05) dan HeelBone sebesar 0.436 (p>0.05), sedangkan untuk CNR pada
+jaringan Tendon-FAT sebesar 0.041 (p<0.05). Hasil ini menunjukkan bahwa variasi
+ETL dengan pembobotan T2 FSE sagittal memiiliki perbedaan bermakna pada
+jaringan Tendon dan Tendon-Lemak terhadap kualitas citra MRI. SNR dan CNR
+merupakan aspek yang penting dalam proses optimalisasi citra dalam memberikan
+informasi diagnosa.
+Kata Kunci: MRI, Echo Train Length (ETL) , Fast Spin Echo (FSE), perbandingan
+Signal to Noise Ratio (SNR) dan Contras to Noise Ratio (CNR)
+
+BAB I
+PENDAHULUAN
+1.1 Latar Belakang
+Radiodiagnostik merupakan cabang radiologi yang bertujuan untuk
+mendiagnosa suatu kelainan (patol) yang sedang dialami oleh pasien. Peralatan
+pada bidang radiodiagnostik memiliki berbagai macam alat canggih seperti, CTScan,
+Magnetic Resonance Imaging (MRI), Mamografi, Fluroskopi, Angiografi
+dan Pesawat Sinar X-Ray. MRI menjadi modalitas imaging yang utama dalam
+mengevaluasi jaringan lunak, susunan saraf pusat karena kemampuannya untuk
+multiplanar, sehingga memberikan gambaran detail tubuh manusia dengan
+perbedaan yang kontras dan baik dalam pencitraan anatomi.
+Agar hasil citra MRI berkualitas, maka harus memperhitungkan banyak hal
+yang berkaitan dengan teknik penggambaran MRI, salah satunya dalam
+memperhitungkan sekuen-sekuen dan kontras yang sesuai dengan tujuan
+pemeriksaan, seperti penentuan parameter Time Repetition (TR), Time Echo (TE),
+Echo Train Length (ETL), Number of Excitation (NEX), Slice thickness dan masih
+banyak parameter yang dapat mempengaruhi hasil citra MRI(Notosiswoyo dan
+Suswanti ,2004).
+Fast Spin Echo (FSE) merupakan salah satu dari urutan pulsa spin echo (SE)
+dengan waktu scan yang lebih cepat. Pada FSE pemberian pulsa dengan satu kali
+pulsa 90° diikuti dengan multiple 180° rephasing dalam satu time repetition (TR).
+
+Pengaplikasian beberapa pulsa tiap TR akan menghasilkan rangkaian echo yang
+disebut Echo Train Lenght (ETL). Penentuan nilai ETL berpengaruh cukup besar
+pada hasil citra MRI karena melihat pasien yang koperatif dan non-koperatif. Echo
+train yang panjang atau echo train lenght pada pembobotan T2 FSE dapat
+menyebabkan blurring, sehingga mempengaruhi nilai Signal to Noise Ratio (SNR)
+dan contras to noise ratio (CNR) yang merupakan salah satu kelemahan dari FSE
+(Simanjuntak dkk, 2014).
+Magnetic Resonance Imaging (MRI) memiliki peran penting dalam
+mendiagnosa suatu kelainan yang dialami, salah satunya dalam penelitian ini
+kelainan yang ditinjau lebih dalam yaitu tentang kasus Ruptur Tendon Achilles
+dimana Ruptur Tendon merupakan pecah, robek atau terputusnya tendon. Sebagian
+banyak orang yang mengalami kelainan atau kerusakan Ruptur Tendon Achilles
+yang disebabkan oleh banyak pengaruh, salah satunya adalah cedera yang sering
+terjadi pada pergelangan kaki seperti yang dialami oleh pemain sepak bola. Secara
+makroskopis Tendon Achilles atau tendon calcaneus adalah tendon pada bagian
+belakang tungkai bawah dan fungsinya untuk meletakkan otot gastrocnemius dan
+otot soleus ke salah satu tulang penyusunan telapak kaki. Tendon Achilles pada
+tubuh manusia memiliki peranan sangat penting untuk stabilitas waktu berjalan.
+Winer dan Lipscomb melaporkan cedera Tendon Achilles adalah cedera ketiga
+terbanyak dari cedera tendon yang sering dijumpai, dan ini banyak terjadi pada usia
+dekade keempat.
+Lokasi cedera dari Tendon Achilles yang spontan umumnya terjadi antara 2
+sampai 6 cm proksimal dari tempat insersi tendon achilles di calcaneus. Pada tindakan penanganan cedera Tendon Achilles menggunakan immobilisasi dengan
+gibs ataupun hanya dengan tindakan konservatif saja akan menimbulkan banyak
+problem yaitu berupa atrofi dari otot betis, kekakuan sendi, memperlama waktu
+rehabilitasi dan kehilangan waktu kerja yang cukup lama. Dalam penentuan apakah
+Tendon Achilles mengalami cedera yang serius atau hanya cedera ringan hal ini
+dapat dilakukan pemeriksaan dengan menggunakan diagnosa dari pesawat MRI.
+Pemanfaatan Echo Train Lenght (ETL) dalam pemeriksaan MRI dapat
+mempercepat maupun memperlambat suatu pemeriksaan namun cepat ataupun
+lambat dalam pemeriksaan MRI juga akan mempengaruhi hasil citra MRI
+Dalam penelitian ini akan dilakukan studi kasus untuk mencari variasi nilai
+Echo Train Lenght (ETL) yang optimal untuk pemeriksaan MRI Ruptur Tendon
+Achilles karena dalam pengaplikasiannya parameter Echo Train Lenght (ETL) pada
+Rumah Sakit yang memiliki Instalasi Radiologi masih menggunakan nilai Echo
+Train Lenght (ETL) yang universal yaitu digunakan untuk semua pemeriksaan.
+Parameter suatu citra dikatakan optimal adalah dengan ditunjukkan nilai SNR dan
+CNR yang tinggi serta waktu pemeriksaan yang tidak terlalu lama. Oleh karena itu,
+penelitian ini sangat penting untuk dilakukan melihat pengaruh nilai Echo Train
+Lenght (ETL) dalam pemeriksaan MRI sangat besar serta kasus Ruptur Tendon
+Achilles pada rumah sakit memiliki presentase pemeriksaan cukup besar sekitar
+50%. Menurut Simanjuntak dkk (2014) dalam penelitiannya menjelaskan bahwa
+pemanfaatan nilai Echo Train Lenght (ETL) untuk kasus MRI Lumbal yang
+optimal pada nilai 16. Namun tidak dijelaskan bahwa nilai Echo Train Lenght
+(ETL) pada MRI Lumbal dapat digunakan pada kasus MRI Ruptur Tendon Achilles, sehingga dalam penelitian ini dilakukan variasi nilai Echo Train Lenght (ETL) pada
+rentang 12-20 dengan kelipatan 2 satuan melihat penelitian sebelumnya dengan
+harapan mendapatkan nilai Echo Train Lenght (ETL) yang optimal untuk
+mendiagnosa kasus MRI Ruptur Tendon Achilles.
+1.2 Rumusan Masalah
+1. Bagaimana pengaruh nilai variasi ETL yang optimal terhadap citra MRI
+pada pemeriksaan MRI Ruptur Tendon Achilles?
+2. Pada variasi ETL berapa yang mampu menghasilkan citra MRI terbaik
+untuk dapat mendiagnostik suatu kelainan pada enkle?
+1.3 Batasan Masalah
+Agar dalam penelitian ini tidak meluas dan tidak menyimpang dari tujuan,
+maka diambil batasan masalah sebagai berikut :
+1. Obyek penelitian (testi) diharapkan berusia dewasa pada usia 17-50 tahun
+sehingga dapat menghasilkan gambar yang optimal.
+2. Variasi ETL dalam penelitian ini memiliki batasan mulai dari 12, 14, 16,
+18 dan 20 satuan.
+3. Sekuen dalam pengambilan citra MRI menggunakan sekuen T2 Fast Spin
+Echo (FSE) Sagital.
+4. Kasus yang menjadi fokus utama adalah pada kelainan Ruptur Tendon
+Achilles.
+
+1.4. Hipotesis Penelitian
+Berdasarkan rumusan masalah tersebut, dapat dirumuskan hipotesis penelitian
+sebagai berikut:
+1. Variasi nilai waktu Echo Train Lenght (ETL) berpengaruh terhadap waktu
+scaning pemeriksaan MRI Ruptur Tendon Achilles.
+2. Variasi nilai Echo Train Lenght (ETL) berpengaruh terhadap nilai Signal
+to Noise Ratio (SNR) dan nilai Contras to Noise Ratio (CNR) sebagai
+parameter kualitas citra optimal dalam pemeriksaan MRI Ruptur tendon
+Achilles.
+1.5 Tujuan Penelitian
+Dalam penelitian ini bertujuan untuk :
+1. Mengetahui pengaruh variasi Echo Train Lenght (ETL) terhadap hasil
+citra pemeriksaan MRI Ruptur Tendon Achilles.
+2. Mengetahui berapa nilai Echo Train Lenght (ETL) yang optimal pada
+pemeriksaan MRI Ruptur Tendon Achilles sehingga dapat menghasilkan
+citra MRI yang optimal.
+
+1.6 Manfaat Penelitian
+Manfaat penulisan karya ilmiah ini adalah sebagai studi literatur bagi civitas
+akademika tentang pengaruh variasi Echo Train Lenght (ETL) terhadap
+optimalisasi citra gambar T2 FSE Sagital pada kasus Ruptur Tendon Achilles. Hasil
+dari penelitian ini diharapkan dapat menjadi referensi dalam pengambilan citra MRI
+T2 FSE Sagital pada kasus Ruptur Tendon Achilles.

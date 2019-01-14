@@ -1,0 +1,327 @@
+﻿ANALISIS PENGARUH FAKTOR PRODUKSI MESIN DAN TENAGA KERJA
+TERHADAP PRODUKSI OBAT EPEXOL TABLET
+
+ABSTRAK
+Kesehatan merupakan salah satu indikator kesejahteraan manusia sehingga menjadi prioritas dalam pembangunan
+nasional suatu bangsa. Salah satu pendukung kesehatan adalah obat yang dihasilkan oleh industri farmasi. Penelitian ini bertujuan
+untuk mengetahui pengaruh faktor produksi mesin dan tenaga kerja yang digunakan terhadap produksi obat Epexol tablet pada PT.
+Sanbe Farma Bandung sekaligus mengetahui variabel mana yang dominan dalam mempengaruhi produksi obat Epexol tablet.
+Data yang digunakan dalam penelitian merupakan data retrospektif, dari batch record produksi obat Epexol tablet pada tahun
+2012. Alat analisis yang digunakan adalah regresi linear berganda, yang kemudian ditransformasi ke persamaan fungsi produksi Cobb-
+Douglas. Alat pengolah data yang digunakan adalah SPSS. Pengaruh variabel bebas terhadap variabel tergantung dilakukan dengan uji
+F dan uji t dengan tingkat kepercayaan 95% (α = 0,05).
+Hasil penelitian menunjukkan bahwa nilai signifikansi uji F sebesar 0,0001, uji t sebesar 0,028 untuk variabel mesin dan
+0,010 untuk variabel tenaga kerja. Nilai koefisien determinasi R sebesar 0,789 dan R square 0,623 yang berarti variabel mesin dan
+tenaga kerja menyumbang 62,3% pengaruh terhadap produksi obat Epexol tablet. Persamaan fungsi Cobb-Douglas Q = 304979,55
+1
+0,039
+2
+X X0,059. Hasil penelitian dapat disimpulkan bahwa secara bersama sama dan parsial terdapat pengaruh yang signifikan antara
+variabel mesin dan tenaga kerja terhadap jumlah produksi obat Epexol tablet yang dihasilkan. Variabel dominan yang berpengaruh
+terhadap jumlah produksi obat Epexol tablet yang dihasilkan adalah variabel tenaga kerja.
+Kata Kunci: Mesin, Tenaga Kerja, Produksi, Epexol
+
+
+
+
+PENDAHULUAN
+Kesehatan merupakan salah satu
+indikator kesejahteraan manusia sehingga
+menjadi prioritas dalam pembangunan nasional
+suatu bangsa. Hal ini dikarenakan manusia
+yang sehat cenderung lebih produktif, manusia
+yang produktif cenderung lebih sejahtera.
+Salah satu komponen kesehatan yang sangat
+strategis adalah tersedianya obat sebagai bagian
+dari pelayanan kesehatan kepada masyarakat.
+Industri farmasi sebagai industri penghasil obat,
+memiliki peran strategis dalam usaha pelayanan
+kesehatan kepada masyarakat. Seiring dengan
+meningkatnya pendidikan dan tingkat kesadaran
+masyarakat akan arti pentingnya kesehatan, maka industri farmasi dituntut untuk dapat
+menyediakan obat dalam jenis, jumlah dan
+kualitas yang memadai (Priyambodo, 2007).
+Untuk mencukupi kebutuhan pasar
+farmasi yang semakin meningkat, terdapat
+beberapa faktor produksi yang perlu diperhatikan
+perusahaan farmasi sehingga dapat menghasilkan
+produk yang berkualitas sesuai dengan volume
+yang diharapkan, diantaranya adalah tenaga
+kerja yang handal, bahan baku yang berkualitas,
+dan mesin yang sudah terkualifikasi (Herawati,
+2008). Penggunaan faktor produksi yang tidak
+tepat dapat mempengaruhi proses output yang
+dihasilkan. Oleh karena itu analisis faktor
+produksi obat Epexol tablet di PT. Sanbe Farma
+Bandung, untuk mengetahui sejauh mana faktor
+tenaga kerja dan mesin berpengaruh terhadap
+produksi obat Epexol tablet pada PT. Sanbe Farma
+Bandung. PT. Sanbe Farma Bandung dipilih
+sebagai tempat penelitian, karena PT. Sanbe
+Farma Bandung merupakan salah satu industri
+obat yang representative untuk menggambarkan
+pengaruh dari faktor produksi tersebut dan
+juga kooperatif sebagai tempat untuk dilakukan
+penelitian. Obat Epexol tablet dipilih dalam
+penelitian ini karena data produksinya lebih
+lengkap untuk dapat digunakan dalam penelitian
+ini dibanding dengan obat lainnya.
+METODOLOGI
+Penelitian ini dilakukan di PT. Sanbe
+Farma Bandung yang berada di Jalan Industri
+I no. 5, Cimindi, Cimahi. Obyek penelitian
+adalah obat Epexol tablet yang diproduksi
+oleh PT. Sanbe Farma Bandung. Pengambilan
+data dilakukan secara retrospektif dari arsip
+data produksi obat Epexol tablet di PT. Sanbe
+Farma Bandung. Data yang diperoleh dianalisis
+secara deskriptif kuantitatif. Alat analisis yang
+digunakan dalam penelitian ini adalah regresi
+linear berganda (multiple regression linear), yang
+kemudian ditransformasi ke persamaan fungsi
+produksi Cobb-Douglas. Alat pengolah data yang
+digunakan adalah SPSS.
+Jenis penelitian ini termasuk explanatory
+research, penelitian mencoba menjelaskan variabel
+bebas dan variabel tergantung melalui pengujian
+hipotesis. Data menggunakan batch record
+produksi di PT. Sanbe Farma Bandung. Variabel
+dalam penelitian ini adalah variabel tergantung
+dengan simbol Y yaitu produksi obat Epexol tablet
+dan variabel bebas dengan simbol X yaitu faktor
+yang mempengaruhi produksi obat Epexol tablet
+pada PT. Sanbe Farma yang terdiri dari mesin (X1)
+dan tenaga kerja (X2) dalam satuan waktu (jam).
+Analisis data yang digunakan dalam
+penelitian ini yaitu analisis regresi linear
+berganda dari 25 batch data, yang kemudian
+ditransformasi ke persamaan fungsi produksi
+Cobb-Douglas. Model matematis fungsi produksi
+Cobb-Douglas dalam penelitian ini dapat ditulis
+sebagai berikut : LnY= β0 + β1LnX1 + β2LnX2 + e
+(Ulveling dan Fletcher, 1970). Y adalah kuantitas
+produksi obat Epexol selama satu batch produksi
+(tablet), X1 adalah rata-rata waktu mesin terpakai
+per jam yang berproduksi selama satu batch
+produksi (Jam), X2 adalah jumlah jam tenaga kerja
+yang terlibat selama proses produksi selama satu
+batch produksi (Jam), β1 adalah elastisitas mesin,
+β2 adalah elastisitas tenaga kerja, dan e adalah
+error term. Hal pertama yang dilakukan adalah
+melakukan uji asumsi klasik terhadap data yang
+diperoleh kemudian baru dilanjutkan dengan
+uji hipotesis. Uji asumsi klasik ini bertujuan
+agar model yang diestimasi dapat menghasilkan
+estimator BLUE (Best Linear Unbiased Estimator)
+tidak bias dan dapat mencerminkan keadaan yang
+sebenarnya. Pengujian ini meliputi uji normalitas
+data, uji autokorelasi, uji heterokedastisitas, dan
+uji multikolinearitas (Gujarati, 2003). Kemudian
+dilanjutkan dengan Uji F. Uji t untuk mengetahui
+pengaruh dari masing masing variabel bebas
+terhadap variabel tergantung dan pengaruh
+yang paling dominan (Priyatno, 2012). Selain itu
+dilakukan juga Uji koefisien determinasi (R2) dan
+Uji tingkat skala hasil.
+HASIL DAN PEMBAHASAN
+Pengolahan Data
+Pengambilan data dilakukan berdasarkan
+batch record Epexol tablet yang diproduksi selama
+tahun 2012. Data yang diambil sebanyak 25
+batch (Tabel I). Kemudian dari masing masing
+bagian kerja pembuatan tablet Epexol tersebut,
+seperti penimbangan, pencampuran, granulasi,
+pencetakan, stripping, pengecapan sampai
+pengemasan sekunder dilakukan perhitungan
+jam kerja produktif. Jam kerja produktif yang
+dihitung adalah jam kerja produktif yang
+dikerjakan oleh setiap mesin dan yang dilakukan oleh setiap tenaga kerja. Dari masing masing
+bagian kerja tersebut, kemudian dijumlahkan
+sehingga didapatkan total jam kerja mesin dan
+total jam kerja tenaga kerja. Kemudian data diubah
+kedalam bentuk logaritma natural, karena satuan
+masing masing variabel yang berbeda dan agar
+dapat dilakukan analisis dengan menggunakan
+software SPSS.
+Uji Normalitas Data
+Normalitas data merupakan syarat pokok
+yang harus dipenuhi dalam analisis parametrik
+seperti analisis regresi. Hal ini bertujuan untuk
+mengetahui apakah data tersebut berdistribusi
+normal atau tidak. Dalam SPSS, uji normalitas
+dapat menggunakan histogram, P-plot ataupun
+uji Kolmogorov-Smirnov (Priyatno, 2012). Dari
+hasil histogram (Gambar 1), P-Plot (Gambar2)
+maupun Kolmogorov-Smirnov (Tabel II)
+menunjukkan data yang digunakan dalam
+penelitian ini berdistribusi normal.
+Penelitian ini tidak melakukan uji
+autokorelasi, karena data yang digunakan
+merupakan data cross section bukan time series.
+Jika data yang digunakan adalah data runtut
+waktu, maka perlu di uji autokorelasi. Hal ini
+dikarenakan data runtut waktu sering terjadi
+autokorelasi atau hubungan antar anggota
+observasi yang diurutkan menurut waktu
+atau ruang karena gangguan pada seseorang
+individu atau kelompok yang sama pada periode
+berikutnya (Widarjono, 2007).
+Uji Heteroskedastisitas
+Dalam model regresi yang baik
+seharusnya tidak terjadi heteroskedastisitas. Uji
+Heteroskedastisitas dapat dilihat pada scaterplot
+hasil olahan data dari SPSS (Priyatno, 2012).
+Dari plot tersebut dapat dilihat bahwa titik titik
+tidak membentuk pola yang jelas (titik titik
+menyebar diatas dan dibawah angka 0 pada
+sumbu Y), jadi dapat disimpulkan bahwa tidak
+terjadi heteroskedastisitas dalam model regresi
+(Gambar 3).
+Uji Multikolinearitas
+Asumsi klasik yang digunakan pada
+model regresi linear berganda adalah tidak
+adanya multikolinearitas antar variabel bebas
+(Priyatno, 2012). Variabel yang menyebabkan multikolinearitas dapat dilihat dari nilai
+toleransi yang lebih kecil dari 0,1 atau nilai
+VIF yang lebih besar dari nilai 10. Dari data
+dapat dilihat nilai tolerance sebesar 0,603 dan
+nilai VIF sebesar 1,659 sehingga tidak terjadi
+multikolinearitas (Tabel III).
+Uji F Statistik
+Uji F dilakukan untuk menguji
+signifikansi pengaruh variabel jam kerja mesin
+dan jam kerja tenaga kerja terhadap jumlah butir
+tablet yang dihasilkan (Priyatno, 2012). Nilai uji F
+dapat dilihat dari nilai F tabel yang dibandingkan
+dengan F hitung. Cara menentukan nilai F tabel
+yaitu dapat dilihat pada tabel IV, pada tingkat
+signifikansi 0,05 dengan df 1 (jumlah variabel-1)
+= 2 dan df 2 (n-k-1) atau 25-2-1 = 22 (n adalah
+jumlah data dan k adalah jumlah variabel bebas).
+Hasil yang diperoleh dari nilai F tabel yaitu
+3,443. Nilai F hitung > F tabel, maka Ho ditolak.
+Berarti terdapat pengaruh secara bersama sama
+antara jam kerja mesin dan jam kerja tenaga kerja
+terhadap jumlah butir tablet yang dihasilkan.
+Selain itu juga dilakukan uji signifikansi
+pengaruh variabel jam kerja mesin dan jam kerja
+tenaga kerja terhadap jumlah butir tablet yang
+dihasilkan. Jika signifikansinya < dari 0,05, maka
+kesimpulannya ada pengaruh antara variabel jam
+keja mesin dan jam kerja tenaga kerja terhadap
+jumlah butir tablet yang dihasilkan. Begitu pula
+sebaliknya jika nilai signifikansi > 0,05. Diketahui
+nilai signifikansinya 0,0001 jadi kesimpulannya
+ada pengaruh secara bersama sama antara jam
+kerja mesin dan jam kerja tenaga kerja terhadap
+jumlah butir tablet yang dihasilkan. Hal ini sesuai
+dengan penelitian yang dilakukan sebelumnya
+oleh Aliasuddin (2002) bahwa faktor produksi
+seperti modal dan tenaga kerja berpengaruh
+positif terhadap produksi atau output di suatu
+Industri.
+Uji t Statistik
+Uji ini bertujuan untuk mengetahui
+pengaruh secara parsial jam kerja mesin dan jam
+kerja tenaga kerja terhadap jumlah butir obat
+Epexol tablet yang dihasilkan. Nilai uji t dapat
+dilihat dari nilai t tabel yang dibandingkan dengan
+t hitung. Cara menentukan nilai t tabel dapat
+dilihat pada tabel statistik, untuk signifikansi
+0,05/2 = 0,025 dengan derajat kebebasan df = n-k-
+1 atau 25-2-1= 22. Hasil yang diperoleh untuk
+t tabel sebesar 2,074. Nilai t hitung pada kedua
+variabel > t tabel, maka Ho ditolak. Hal ini berarti
+ada pengaruh secara parsial antara variabel jam
+kerja mesin terhadap jumlah butir tablet yang
+dihasilkan dan ada pengaruh secara parsial antara
+jam kerja tenaga kerja terhadap jumlah butir tablet
+yang dihasilkan. Hal ini sesuai dengan penelitian
+yang dilakukan oleh Kurniawan (2010) bahwa
+variabel input tenaga kerja ikut berpengaruh positif terhadap suatu produksi (Tabel V).
+Untuk mengetahui pengaruh yang
+diberikan oleh faktor produksi tersebut
+signifikan atau tiidak, dapat dilihat dari nilai
+signifikansi. Jika nilai signifikansi <0,05 maka
+kesimpulannya ada pengaruh secara parsial
+antara variabel jam kerja mesin terhadap jumlah
+butir tablet yang dihasilkan dan ada pengaruh
+secara parsial antara jam kerja tenaga kerja
+terhadap jumlah butir tablet yang dihasilkan.
+Nilai signifikansi jam kerja mesin sebesar 0,028
+jadi kesimpulannya ada pengaruh secara parsial
+antara jam kerja mesin dengan jumlah butir tablet
+yang dihasilkan, sedangkan untuk variabel jam
+kerja tenaga kerja nilai signifikansinya sebesar
+0,010 jadi kesimpulannya ada pengaruh secara
+parsial antara jam kerja tenaga kerja terhadap
+jumlah butir tablet yang dihasilkan. Hal ini sesuai
+dengan penelitian yang dilakukan sebelumnya
+oleh Bilada (2008) dimana hasil penelitiannya
+menunjukkan bahwa tenaga kerja, dan teknologi
+memberikan pengaruh yang signifikan dan positif
+terhadap output industri farmasi Indonesia. Hasil
+penelitian yang dilakukan oleh Herawati (2008)
+juga menunjukkan hal serupa, dimana faktor
+produksi modal, tenaga kerja, bahan baku dan
+mesin berpengaruh signifikan terhadap produksi
+Glycerine PT. Flora Sawita Chemindo.
+Persamaan Regresi Linear
+Koefisien B terdiri dari nilai konstan
+(harga Y jika nilai X1 dan X2 = 0) dan koefisen
+regresi (nilai yang menunjukkan peningkatan
+atau penurunan variabel Y yang didasarkan pada
+variabel X1 dan X2). Nilai nilai inilah yang masuk
+dalam persamaan regresi linear berganda (Tabel
+VI).
+Dari hasil perhitungan diperoleh
+persamaan regresi linear sebagai berikut : Ln Q =
+12,628 + 0,039 LnX1 + 0,059 LnX2, sehingga dapat
+dibuat fungsi produksi Cobb Douglasnya adalah
+Q = 304979,55 . Persamaan ini digunakan untuk
+menentukan elastisitas dan tingkat skala hasil
+produksi.
+Uji Koefisien Determinasi
+Angka R yang didapat yaitu 0,789 yang
+artinya korelasi antara variabel jam kerja tenaga
+kerja dan jam kerja mesin memiliki hubungan
+cukup kuat. Nilai R Square sebesar 0,623 artinya
+persentase sumbangan pengaruh variabel jam
+kerja mesin dan jam kerja tenaga kerja terhadap
+jumlah butir tablet yang dihasilkan sebesar 62,3%,
+sedangkan sisanya sebesar 37,7% dipengaruhi
+oleh variabel lain yang tidak dimasukkan dalam
+penelitian ini.
+Uji Tingkat Skala Hasil
+Analisis Return To Scale (RTS) dilakukan
+dengan cara menjumlahkan koefisien beta
+standardized dari kedua variabel bebas tersebut,
+perhitungannya adalah RTS = β1 + β2 = 0,039 + 0,059
+= 0,098. Hal ini berarti produksi Epexol tablet di PT.
+Sanbe Farma mengikuti kaidah decreasing return
+to scale. Nilai RTS yang diperoleh 0,098 sehingga
+apabila terjadi penambahan input jam kerja
+mesin dan jam kerja tenaga kerja masing masing
+sebesar 1% maka penambahan jumlah produksi
+hanya sebesar 0,098%. Dari hasil RTS tersebut
+dapat disimpulkan bahwa proses produksi obat
+Epexol tablet tidak mampu memberikan nilai
+tambah dikarenakan proporsi penggunaan input
+terlalu berlebihan tidak proporsional dengan
+hasil produksi (penambahan input hanya akan
+menurunkan hasil produksi). Menurut penelitian
+yang dilakukan oleh Ramadhani (2011) dalam
+kondisi skala hasil produksi yang menurun
+pemakaian input yang berlebihan perlu dilakukan
+perencanaan dan evaluasi input tersebut sehingga
+dapat dikurangi agar dapat mempertahankan
+atau meningkatkan skala hasil produksi.
+
+KESIMPULAN
+Faktor produksi mesin dan tenaga
+kerja secara bersama sama maupun parsial
+berpengaruh positif dan signifikan terhadap
+produksi obat Epexol tablet. Variabel dominan
+yang berpengaruh terhadap produksi obat Epexol
+tablet yang dihasilkan adalah variabel tenaga
+kerja dengan nilai koefisien 0,059.

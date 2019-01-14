@@ -1,0 +1,73 @@
+﻿
+ Penelitian ini bertujuan untuk menguji pengaruh faktor keuangan ( ukuran perusahaan (size), profitabilitas, likuiditas, leverage ) dan non-keuangan ( jaminan (secure), reputasi auditor ) terhadap peringkat obligasi. Hipotesis yang diajukan (1) ukuran perusahaan (size) berpengaruh terhadap peringkat obligasi, (2) profitabilitas berpengaruh terhadap peringkat obligasi, (3) likuiditas berpengaruh terhadap peringkat obligasi, (4) leverage berpengaruh terhadap peringkat obligasi, (5) jaminan (secure) berpengaruh terhadap peringkat obligasi (6) reputasi auditor berpengaruh terhadap peringkat obligasi. 
+Penelitian ini menggunakan 56 perusahaan non-keuangan yang terdaftar di BEI 2010-2013. Data dikumpulkan dengan menggunakan metode purposive sampling terhadap perusahaan non-keuangan yang terdaftar di Bursa Efek Indonesia. Data penelitian dianalisa dengan analisis regresi logistik. 
+Hasil dari penelitian ini berdasarkan analisis regresi logistik menunjukkan bahwa likuiditas dan reutasi auditor berpengaruh terhadap peringkat obligasi. Sedangkan ukuran perusahaan (size), profitabilitas, leverage, jaminan (secure) tidak berpengaruh terhadap peringkat obligasi. 
+Kata kunci : ukuran perusahaan (size), profitabilitas, likuiditas, leverage, jaminan (secure), reputasi auditor, peringkat obligasi
+
+
+
+
+
+ BAB I 
+PENDAHULUAN 
+1.1 Latar Belakang 
+
+Obligasi adalah utang jangka panjang yang akan dibayar kembali pada saat jatuh tempo dengan bunga yang tetap jika ada. Obligasi sering dipandang sebagai investasi yang relatif aman, tetapi tidak tertutup kemungkinan investor mengalami kerugian baik yang berasal dari faktor diluar kinerja perusahaan maupun faktor internal perusahaan, misalnya risiko dana jatuh tempo tidak terbayar tepat waktu (Brigham,Gapenski, dan Daves., 1999). 
+
+Fenomena di Indonesia terjadi beberapa emiten yang mengalami gagal bayar (default) kebetulan memiliki peringkat layak investasi (investment-grade). Tahun 2009, obligasi gagal bayar (default risk) terjadi pada perusahaan yang cukup populer bagi masyarakat. PT. Mobile-8 Telecom Tbk. yang menerbitkan Bond I Year 2007, telah gagal bayar 2 kali untuk kupon 15 Maret 2009 dan 15 Juni 2009 dengan obligasi senilai Rp 675 Miliar yang jatuh tempo Maret 2012 (Kompas, 9 Februari 2010). Per Juni 2008 dan 2009, peringkat obligasi PT. Mobile-8 Telecom Tbk. pada Indonesia Bond Market Directory adalah idBBB+. Per Juni 2010, peringkatnya diturunkan menjadi idD. 
+
+Selanjutnya ada Davomas International Finance Company Pte. Ltd., anak usaha PT. Davomas Abadi Tbk. produsen kakao dan bubuk coklat terbesar di Indonesia, gagal membayar kupon obligasi bernama Guaranteed Senior Secured Notes periode 8 Mei 2009 sebesar 13,09 juta dolar yang jatuh tempo 2011 sebesar 238 juta dolar. Ada lagi obligasi Blue Ocean Resources Pte. Ltd., anak usaha PT. Central Proteinprima Tbk.-produsen dan pengolah udang terbesar di Indonesia, gagal membayar kupon bunga periode 28 Desember 2009 sebesar 17,9 juta dolar yang jatuh tempo tanggal 28 Juni 2012 senilai 325 juta dolar. Pemeringkat Fitch Rating menurunkan obligasinya dari CC menjadi C, akibat anjloknya keuangan tahun 2009. Alasannya ditengarai karena serangan virus, krisis finansial global, tuduhan transhipmen, dan alasan lain. Kisruh di PT. Central Proteinprima Tbk. juga menyangkut gagal bayar obligasi tukar berjaminan (secure convertible) Red Dragon, salah satu pemegang saham PT. Central Proteinprima Tbk., senilai 200 juta dolar yang terbit pada Juni 2007 dengan wali amanat The Bank of New York Mellon. 
+
+Menurut Chan dan Jagadeesh (1999), salah satu alasan mengapa peringkat obligasi yang dikeluarkan oleh agen pemeringkat tersebut bias karena agen pemeringkat tidak melakukan monitor terhadap kinerja perusahaan setiap hari. Agen pemeringkat hanya dapat menilai setelah terjadinya suatu peristiwa yang menyebabkan. perubahan peringkat sehingga menyebabkan para pelaku pasar lebih memperhatikan informasi yang dimiliki perusahaan secara langsung sebagai dasar keputusan investasi obligasi. 
+
+Obligasi-obligasi sebelum ditawarkan, harus diperingkat oleh suatu lembaga atau agen pemeringkat obligasi (Rating Agency) yang menerbitkan peringkat obligasi. Peringkat obligasi menyatakan skala risiko atau tingkat keamanan suatu obligasi yang diterbitkan. Peringkat obligasi merupakan sarana pengawasan aktivitas manajemen (Foster, 1986: 501). Peraturan di Bursa Efek Indonesia menyebutkan bahwa emiten  yang akan melakukan pencatatan efek bersifat utang di bursa wajib memenuhi salah satu ketentuan yaitu: hasil pemeringkatan efek dari lembaga pemeringkat efek yang terdaftar di BAPEPAM sekurang-kurangnya BBB- (investment grade). 
+Menurut Winardi. (2013) Saat ini terdapat dua lembaga pemeringkat yang diakui oleh Bursa Efek Indonesia, yaitu PT PEFINDO (Pemeringkat Efek Indonesia) dan PT Fitch Ratings Indonesia. Dari kedua lembaga pemeringkat tersebut, PT PEFINDO merupakan lembaga pemeringkat yang menerbitkan peringkat obligasi terbanyak. Sehingga penelitian ini menggunakan peringkat obligasi yang dikeluarkan oleh PT PEFINDO. 
+
+Analisis laporan keuangan yang berupa analisis rasio keuangan dan perhitungan statistik dapat dipergunakan untuk mendeteksi under or overvalued suatu sekuritas (Kaplan dan Urwitz, 1979). Penelitian terhadap rasio keuangan di Indonesia banyak dihubungkan dengan harga saham ataupun kinerja perusahaan. Sejumlah penelitian yang meneliti peringkat obligasi di Indonesia masih relatif jarang dilakukan. Hal ini disebabkan karena adanya keterbatasan data obligasi serta pengetahuan para investor terhadap obligasi. Wansley et al. (1992) menyatakan pula bahwa sebagian besar perdagangan obligasi dilakukan melalui pasar negosiasi (over the counter market) dan secara historis tidak terdapat informasi harga yang tersedia pada saat penerbitan atau saat penjualan. 
+Pemilihan variabel-variabel yang diduga dapat mempengaruhi peringkat obligasi mengacu pada beberapa model penelitian terdahulu yang hasilnya tidak konsisten.
+
+Nurhasanah (2003) menghasilkan variabel yang signifikan secara statistik dengan menggunakan MDA ( Multiple Discriminant Analysis ) adalah profitabilitas, leverage, likuiditas, solvensi, produktivitas sedangkan dengan regresi logistik hanya rasio leverage dan solvensi yang signifikan. Adrian (2011) yang menyimpulkan bahwa profitabilitas tidak berpengaruh pada peringkat obligasi dan penelitian Manurung, dkk. (2008) yang menemukan bahwa profitabilitas berpengaruh positif pada peringkat obligasi. Variabel lainnya dalam penelitian Yasa (2007), Adrian (2011) dan Manurung, dkk. (2008) menyimpulkan bahwa likuiditas berpengaruh positif pada peringkat obligasi, sedangkan leverage tidak berpengaruh pada peringkat obligasi. 
+
+Penelitian ini menggunakan faktor keuangan dan faktor non keuangan untuk mengukur apakah faktor-faktor ini berpengaruh signifikan terhadap peringkat obligasi diantaranya adalah faktor keuangan yang terdiri dari ( ukuran perusahaan (size), profitabilitas, likuiditas, dan leverage) sedangkan faktor non-keuangan terdiri dari (jaminan (secure) dan reputasi auditor). 
+Menurut Elton (1995), size (ukuran perusahaan) juga dapat mempengaruhi prediksi peringkat obligasi. Pada penelitian yang dilakukan oleh 
+Horrigan (1966), size perusahaan diproyeksikan dengan total assets. Perusahaan-perusahaan besar kurang berisiko dibandingkan perusahaan-perusahaan kecil karena perusahaan kecil memiliki risiko yang lebih besar. Perusahaan-perusahaan yang mempunyai aset lebih besar cenderung memiliki kemampuan bersaing yang lebih baik dibandingkan dengan perusahaan- perusahaan yang memiliki aset kecil. 
+
+Profitabilitas adalah kemampuan perusahaan memperoleh laba dalam hubungannya dengan penjualan, total aktiva, maupun modal sendiri. Menurut Kamstra et al., (2001), rasio profitabilitas yang diukur dengan return on assets (ROA) mempunyai pengaruh yang positif terhadap pertumbuhan laba karena rasio ini mengukur kemampuan perusahaan dalam menghasilkan laba bersih berdasarkan tingkat aset tertentu. Ketika laba perusahaan tinggi maka akan memberikan peringkat obligasi yang tinggi pula. 
+
+Likuiditas adalah kemampuan perusahaan untuk membayar kewajiban finansial jangka pendek tepat pada waktunya. Burton et al. (1998) menyatakan bahwa tingkat likuiditas yang tinggi akan menunjukkan kuatnya kondisi keuangan perusahaan sehingga secara finansial akan mempengaruhi prediksi peringkat obligasi. 
+Leverage merupakan rasio keuangan yang menunjukkan proporsi penggunaan utang untuk membiayai investasi terhadap modal yang dimiliki. Rasio ini digunakan untuk mengukur sejauh mana perusahaan menggunakan utang dalam membiayai investasinya. Perusahaan yang tidak mempunyai leverage berarti menggunakan modal sendiri 100% (Wisnu, 37 : 2012 ). Semakin tinggi rasio ini berarti sebagian besar aset didanai dari hutang. Kondisi tersebut menyebabkan perusahaan dihadapkan pada default risk atau peringkat obligasi yang rendah.
+
+Jaminan adalah Tingkat risiko yang terkandung dalam sebuah obligasi salah satunya dipengaruhi oleh jaminan. Brister et al. (1994) menyatakan bahwa investor akan menyukai obligasi yang dijamin dibanding obligasi yang tidak dijamin. Sedangkan Dominick (2002) dalam Widya (2005) menyatakan bahwa semakin tinggi aset yang dijaminkan untuk obligasi maka peringkatpun akan membaik sehingga obligasi tersebut aman untuk diinvestasikan. 
+Argumentasi yang mendasari dimasukkannya Reputasi Auditor adalah semakin tinggi reputasi auditor maka akan memberikan hasil audit yang dapat dipercaya sehingga kecil kemungkinan perusahaan mengalami kegagalan (Sejati, 2010). Menurut Nuryaman (2008) dalam Prasetiyo (2010) peran auditor eksternal yaitu memberikan penilaian secara independen dan profesional atas keandalan dan kewajaran penyajian laporan keuangan perusahaan. 
+
+Berdasarkan latar belakang diatas, Peringkat Obligasi sangat penting bagi para investor. Dimana dari penelitian terdahulu terdapat hasil penelitian yang belum konklusif. Maka, judul penitian ini adalah ”pengaruh faktor keuangan dan non-keuangan terhadap peringkat obligasi pada perusahaan non-keuangan yang terdaftar di Bursa Efek Indonesia Tahun 2010-2013” 
+Menurut Pertiwi (2013) Peneliti memilih sektor non-keuangan karena merupakan sektor yang paling dominan di Indonesia dan paling banyak terdaftar di Bursa Efek Indonesia. Dan berdasarkan fenomena yang terjadi diatas dapat diasumsuikan bahwa perusahaan sektor non-keuangan lebih berpotensi gagal bayar dibandingkan perusahaan-perusahaan sektor keuangan. 
+
+1.2 Rumusan Masalah 
+
+Pada saat investor ingin membeli obligasi memerlukan informasi keuangan dari lembaga pemeringkat obligasi. Hal tersebut menjadi dasar pertimbangan apakah obligasi perusahaan tersebut dikategorikan baik atau tidak. Namun ada beberapa emiten yang mengalami gagal bayar meskipun peringkat obligasinya dikatakan baik oleh lembaga pemeringkat obligasi. Untuk mengetahui peringkat obligasi seuatu .perusahaan memerlukan pengukuran dari faktor keuangan dan non-keuangan. 
+Berdasarkan pada hal tersebut, maka rumusan masalah dari penelitian ini adalah : 
+1. Apakah Ukuran perusahaan (size) berpengaruh positif signifikan terhadap peringkat obligasi. 
+2. Apakah Profitabilitas berpengaruh positif signifikan terhadap peringkat obligasi. 
+3. Apakah Likuiditas berpengaruh positif signifikan terhadap peringkat obligasi. 
+4. Apakah leverage berpengaruh positif signifikan terhadap peringkat obligasi. 
+5. Apakah jaminan (secure) berpengaruh positif signifikan terhadap peringkat obligasi. 
+6. Apakah Reputasi Auditor berpengaruh positif signifikan terhadap peringkat obligasi.
+
+1.3 Tujuan Penelitian dan Manfaat Penelitian 
+
+1.3.1 Tujuan Penelitian 
+Tujuan yang ingin dicapai dari penelitian ini adalah : 
+1. Menguji pengaruh faktor keuangan Ukuran perusahaan (size) berpengaruh positif signifikan dalam memprediksi peringkat obligasi yang terdaftar di BEI. 
+2. Menguji pengaruh faktor keuangan Profitabiltas berpengaruh positif signifikan dalam memprediksi peringkat obligasi yang terdaftar di BEI. 
+3. Menguji pengaruh faktor keuangan Likuiditas berpengaruh positif signifikan dalam memprediksi peringkat obligasi yang terdaftar di BEI. 
+4. Menguji pengaruh faktor keuangan Leverage berpengaruh positif signifikan dalam memprediksi peringkat obligasi yang terdaftar di BEI. 
+5. Menguji pengaruh faktor non-keuangan jaminan (secure) berpengaruh positif signifikan dalam memprediksi peringkat obligasi yang terdaftar di BEI. 
+6. Menguji pengaruh faktor non-keuangan reputasi auditor berpengaruh positif signifikan dalam memprediksi peringkat obligasi yang terdaftar di BEI. 
+1.3.2 Manfaat Penelitian 
+
+Adapun manfaat yang dapat diperoleh dari penelitian ini adalah 
+1. Bagi akademisi, penelitian ini dapat digunakan sebagai referensi untuk penelitian selanjutnya mengenai pengaruh pengaruh faktor keuangan dan non-keuangan terhadap peringkat obligasi pada perusahaan non-keuangan yang terdaftar di Bursa Efek Indonesian Tahun 2010-2013. 
+2. Bagi investor, untuk mengetahui peringkat Obligasi pada perusahaan nonkeuangan yang terdaftar di BEI 
+3. Bagi masyarakat, penelitian ini dapat untuk menambah wawasan mengenai kegiatan-kegiatan yang dilakukan perusahaan demi kelangsungan perusahaannya. 
+

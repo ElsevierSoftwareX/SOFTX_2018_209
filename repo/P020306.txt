@@ -1,0 +1,85 @@
+﻿ABSTRAK 
+Kota Semarang adalah ibukota Provinsi Jawa Tengah, Indonesia yang terletak di 6°58 ′0 ″ LU 110°25 ′0 ″BT. Semarang terdiri dari 16 kecamatan, salah satunya adalah Kecamatan Tembalang dengan jumlah kelurahan 12. Semakin bertambahnya tahun, Tembalang menjadi salah satu kecamatan yang cukup padat. Banyaknya penduduk dan aktifitas yang terjadi menyebabkan perubahan lahan di Tembalang. Sehingga berpengaruh pada perubahan nilai/harga tanah di wilayah tersebut. 
+Penelitian ini awalnya dilakukan pembuatan peta zona nilai tanah Kecamatan Tembalang menggunakan software microsoft excel dan software pengolahan SIG. Kemudian untuk pembuatan peta perubahan penggunaan lahan juga menggunakan software pengolahan SIG. 
+Hasil Penelitian menunjukkan dalam rentang waktu tahun 2010 sampai 2013 perubahan nilai tanah akibat perubahan penggunaan lahan terjadi di 19 titik dengan empat tipe perubahan yaitu tegalan menjadi perumahan, tegalan menjadi tanah kosong, sawah menjadi perumahan, tanah kosong menjadi perumahan 
+Kata Kunci : Perubahan lahan, nilai tanah
+
+
+ BAB I 
+PENDAHULUAN 
+1.1 Latar Belakang 
+
+Tembalang terletak di bagian tenggara Kota Semarang. Dahulu Tembalang merupakan wilayah yang tidak padat penduduknya karena masih berupa daerah kebun dan pertanian. Namun semakin majunya jaman telah merubah Kecamatan Tembalang menjadi salah satu wilayah yang berkembang sangat pesat. Menurut catatan, dengan jumlah penduduk 161.803 jiwa, kini 51,26% wilayah Tembalang berupa pemukiman, 23,36% lahan pertanian, 25,38% sisanya merupakan perkantoran, taman, pemakaman, prasarana lain, dan hutan/lahan kosong. Tembalang merupakan salah satu tempat berpusatnya pendidikan. Terhitung ada tujuh puluh delapan SD/sederajat, sepuluh SMP/sederajat, dua SMA/sederajat, serta lima Universitas yang berdiri di wilayah ini. Salah satu perguruan tinggi ternama yang berdiri di wilayah ini adalah Universitas Diponegoro. Semenjak tahun ajaran 2010/2011, Undip memindahkan pusat kegiatan belajar mengajar dari kampus lama di Peleburan ke Tembalang. Hal ini menyebabkan wilayah tersebut menjadi sangat padat. Kepadatan suatu daerah akan menimbulkan beberapa akibat antara lain, meningkatnya kebutuhan ruang lingkup, persaingan dalam mencari keuntungan (buka usaha), meningkatnya sarana prasarana, dan masih banyak lagi. 
+
+Meningkatnya permintaan lahan sangat berpengaruh pada kenaikan harga nilai tanah. Maka melalui tugas akhir saya ini akan dihasilkan informasi perubahan zona nilai tanah akibat perubahaan penggunaan lahan untuk wilayah Kecamatan Tembalang. Apalagi saat ini nilai tanah merupakan informasi penting yang sangat dibutuhkan oleh masyarakat, baik terkait dengan pajak atas properti (PBB, BPHTB, PPh Final), tanah sebagai I-2 agunan kredit, lelang tanah, asuransi properti, pembebasan tanah, merger perusahaan dan berbagai tujuan lain yang terkait dengan nilai tanah. 
+
+1.2 Rumusan Masalah 
+Rumusan masalah dalam penelitian Tugas Akhir ini adalah : 
+1. Bagaimana perubahan penggunaan lahan di Kecamatan Tembalang dalam kurung waktu 2010 dan 2013? 
+2. Bagaimana perubahan zona nilai tanah di Kecamatan Tembalang akibat perubahan penggunaan lahan pada kurung waktu 2010 dan 2013? 
+
+1.4 Tujuan Penelitian 
+Tujuan dari Tugas Akhir ini adalah : 
+1. Untuk mengetahui perubahaan penggunaan lahan di Kecamatan Tembalang tahun 2010 dan 2013. 
+2. Untuk mengetahui perubahan nilai tanah di Kecamatan Tembalang tahun 2010 dan 2013. 
+3. Membuat gambaran zona nilai tanah di Kecamatan Tembalang dalam bentuk peta zona nilai tanah. 
+
+1.5 Batasan Masalah 
+
+Adanya batasan penelitian dalam Tugas Akhir ini agar apa yang menjadi tujuan penelitian dapat terarah dan tepat sasaran. Maka ruang lingkup pembahasan meliputi : 
+1. Wilayah penelitian dilakukan di Kecamatan Tembalang, Kota Semarang. 
+2. Melakukan analisis perubahan nilai tanah akibat penggunaan lahan di Kecamatan Tembalang dalam kurung waktu 2010 dan 2013. 
+3. Data spasial yang digunakan adalah Citra Quickbird Kota Semarang Tahun 2010 dan 2013, Batas Administrasi Kota Semarang. 
+4. Data Tekstual yang digunakan adalah Hasil Survey Data Harga Tanah tahun 2010 dan 2013. 
+5. Software yang digunakan dalam pengolahan data adalah ArcGIS 10. 
+
+1.6 Metodologi Penelitian 
+
+Gambar I.1 Diagram Alir Penelitian I-4 
+Batas 
+Administrasi 
+Citra Quickbird 
+Terektifikasi Tahun 2013 
+Selesai 
+Pengumpulan 
+Data 
+Citra Quickbird 
+Terektifikasi Tahun 2010 
+Data Survey 
+Harga Pasar 2010 
+Data Survey 
+Harga Pasar 2013 
+Peta Zona Awal 
+2010 
+Peta Penggunaan 
+Lahan 2010 
+Peta Penggunaan 
+Lahan 2013 
+Peta Zona Awal 
+2013 
+Peta Zona Nilai 
+Tanah 2010 
+Peta Zona Nilai 
+Tanah 2013 
+Peta Perubahan 
+Penggunaan Lahan 
+2010-2013 
+Analisis Perubahan Zona 
+Nilai Tanah Akibat 
+Perubahan Penggunaan Lahan 
+
+
+
+
+1.7 Sistematika Penulisan Penelitian 
+Dalam Tugas Akhir ini, penulis menguraikan suatu kerangka pembahasan sebagai berikut : 
+BAB 1 PENDAHULUAN 
+Bab ini berisikan tentang pokok-pokok pemikiran penulis mengenai latar belakang, rumusan masalah, tujuan penelitian, batasan penelitian, metodologi penelitian serta sistematika penulisan penelitian. 
+BAB II TINJAUAN PUSTAKA 
+Bab ini akan mengulas tentang definisi tanah, hak atas tanah, nilai dan harga tanah, penilaian tanah, penyesuaian nilai tanah, peta zona nilai tanah, penggunaan lahan, perubahan penggunaan lahan, pengenalan software ArcGIS 10. 
+BAB III PELAKSANAAN 
+Bab ini akan akan diuraiakan mengenai tahapan pelaksanaan pembuatan peta zona nilai tanah, selain itu juga akan membahas perubahan lahan pada Kecamatan Tembalang dalam kurun waktu 2010 dan 2013 dengan menggunakan software ArcGIS. 
+BAB IV HASIL DAN PEMBAHASAN 
+Bab ini akan dibahas mengenai analisis perubahan penggunaan lahan yang terjadi di Kecamatan Tembalang dalam kurung waktu 2010 dan 2013, kemudian akan dibahas tentang perubahan zona nilai tanah akibat perubahan penggunaan lahan. 
+BAB V KESIMPULAN 
+Bab ini akan dibahas tentang kesimpulan dari penyelesaian rumusan masalah yang mana diharapkan dapat bermanfaat bagi penulis dan penelitian yang selanjutnya atau yang serupa.

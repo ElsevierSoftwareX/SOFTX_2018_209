@@ -1,0 +1,436 @@
+﻿Potensi Penggunaan Bambu sebagai Tabung Resonator
+Thermoacoustics Refrigeration
+
+Abstrak
+Thermoacoustic refrigeration merupakan salah satu metode pendinginan yang saat ini banyak
+dikembangkan. Metode ini dapat diaplikasikan untuk mendinginkan makanan dan sayur-sayuran. Beberapa
+komponen-komponen penting dalam thermoacoustic refrigeration diantaranya adalah : tabung resonator,
+stack, pembangkit akustik dan fluida kerja. Keunggulan penggunaan metode thermoacoustic refrigeration
+sebagai metode pendinginan adalah : penggunaan komponen yang lebih sedikit, penghematan energi, dan
+yang paling penting adalah ramah lingkungan. Penelitian-penelitian terbaru banyak memfokuskan pada
+pengembangan tabung resonator dan stack terutama pada hal-hal yang berkaitan dengan bentuk, design,
+ukuran dan material dasar yang digunakan pada pembuatan tabung resonator dan stack. Artikel ini secara
+komprehensif meninjau kondisi perkembangan teknologi yang berkaitan dengan bentuk, design, ukuran dan
+material dasar pada pengembangan thermoacoustic refrigeration. Artikel ini mempunyai kesimpulan bahwa
+penggunaan bambu sebagai tabung resonansi dapat diaplikasikan dengan penelitian yang berkelanjutan
+untuk dapat diaplikasikan juga sebagai thermoacoustic refrigeration untuk makanan dan sayur-sayuran.
+Kata kunci: thermoacoustic refrigeration, bambu, tabung resonansi, stack, makanan dan sayur-sayuran
+
+
+Belakang
+Thermoacoustic refrigeration merupakan salah
+satu metode pendinginan yang saat ini mulai banyak
+dikembangkan. Alasan dilakukan pengembangan
+thermoacoustic refrigeration diantaranya adalah:
+penggunaan komponen yang lebih sederhana,
+penggunaan energi relatif rendah dan yang paling
+penting adalah ramah lingkungan (Bao et al, 2006,
+Ishikawa et al, 1996). Pada dasarnya, thermoacoustic
+refrigeration merupakan fenomena perpindahan
+energi dari dingin ke panas yang dihasilkan dengan
+membangkitkan medan gelombang akustik disekitar
+batas benda padat yang diambil dari sebuah stack
+yang terbuat dari tumpukan benda paralel pada
+perangkat gelombang berdiri (Marx et al 2006)
+dalam pengertian yang lebih mudah di pahami
+adalah gelombang bunyi yang dapat menyebabkan perbedaan suhu karena adanya udara yang melalui
+kanal-kanal kecil dalam perambatannya. Komponenkomponen
+yang digunakan pada thermoacoustic
+refrigeration dapat dilihat skematis pada gambar
+1 (Tijani et al, 2002). Komponen tersebut terdiri
+dari penghasil gelombang akustik yang biasanya
+menggunakan loudspeaker (Pengeras suara),
+resonator yang biasanya berbentuk silinder (tube)
+dan stack yang biasanya menggunakan tumpukan
+plat.
+Penelitian di bidang thermoacoustic baik itu
+thermoacoustic refrigeration maupun thermoacoustic
+heat engine sudah banyak dilakukan terutama
+dalam hal bentuk, design, ukuran dan bahan yang
+digunakan pada pembuatan tabung resonator dan
+stack. Penelitian-penelitian tersebut diantaranya
+adalah : Penggunaan stainlessteel dengan diameter
+luar 18,5 mm dengan variasi panjang dari 4 sampai
+9 m yang menghasilkan bahwa pada panjang 8
+m suhu yang dihasilkan adalah 88,6 K (Tang et
+al, 2006), Sementara itu dalam sebuah penelitian
+menyatakan bahwa syarat sebuah tabung resonator
+harusnya mempunyai unsur : padat, ringan, dan
+cukup kuat. Penggunaan logam silinder dengan
+perbandingan diameter pada penyempitan tabung
+resonator 0,54 dapat mengurangi kehilangan energi
+0,2 watt (Tijani et al 2002), Penelitian lanjutan
+menyebutkan bahwa dengan menggunakan tabung
+resonator dari alumunium mampu menghasilkan
+suhu -65oC dalam waktu 500 menit (Tijani et al,
+2002), Sementara itu dengan bahan dasar tabung
+resonator yang sama hanya berbeda designnya
+diperoleh bahwa tabung resonator yang berbentuk
+silinder ganda (D1 dan D2) dibandingkan dengan
+tabung resonator yang berbentuk lurus (D1=D2)
+dihasilkan osilasi gelombang yang paling baik
+adalah dengan menggunakan tabung resonansi
+yang berbentuk lurus (D1=D2) (Tang et al 2006).
+Penelitian lainnya menyebutkan dengan bahan
+tabung resonator stainlessteel diameter dalam
+0,038m dengan variasi panjang 0,5, 0,6, 0,8,
+1,1, 1,4 m dan fluida kerjanya adalah nitrogen
+menghasilkan bahwa untuk panjang tabung
+resonator 1,4 m menghasilkan beda suhu antara
+sisi dingin dan sisi panas yang paling kecil yaitu
+447K (Hariharan et al, 2013). Eksperimental dengan
+menggunakan tabung resonator akrilik diameter
+4,0 cm dan 5,3 cm dengan variasi ketebalan stack
+0,15 mm, 0,5 mm dan 1 mm yang sudah dilakukan
+dengan menghasilkan beda suhu antara sisi dingin
+dengan panas adalah 14,8oC pada frekuensi 180
+Hz (Putra et al 2013). Sedangkan tabung pyrex
+dengan panjang 175 mm dan diameter dalam 20
+mm sudah digunakan juga pada themoacoustic
+heat engine dengan hasil beda temperatur 170oC
+(Ortins et al, 2012). Selain eksperimental, simulasi
+juga sudah dilakukan diantaranya adalah : simulasi
+berdasarkan hukum thermodinamika ke dua yang
+menghasilkan pembangitan entropi yang rendah
+sangat cocok dengan posisi stack dekat dengan
+tekanan antinode (Piccolo et al, 2013). Simulasi
+lainnya dengan menggunakan analisis CFD
+menghasilkan pembangkitan osilasi terjadi pada
+jarak minimal ¼ dari panjang tabung resonator (Zink
+et al, 2010). Selain itu simulasi untuk mendapatkan
+frekuensi yang tepat juga sudah dilakukan dengan
+menggunakan analisis CFD, dengan kesimpulan
+bahwa frekuensi 300 hz sudah dapat menghasilkan
+gelombang akustik dengan kontruksi stack secara
+paralel dan co-axial. (Yu et al, 2010).
+Negara Indonesia merupakan negara agraris
+yang kaya akan produk-produk pertanian dan
+perkebunan tropika. Udara tropis yang panas
+dan lembab menyebabkan produk pertanian dan
+perkebunan mudah rusak, sehingga memerlukan
+penanganan dengan aplikasi teknologi yang tepat,
+misalnya mesin pendingin. Hal ini merupakan peluang
+untuk mengaplikasikan thermoacoustic refrigeration
+sebagai pendingin untuk produk pertanian seperti
+buah dan sayuran. Selain itu salah satu produk
+pertanian yang banyak dijumpai di Indonesia adalah
+bambu. Penelitian tentang bambu untuk mengetahui
+karakteristik mekanis maupun thermalnya sudah
+banyak dilakukan. Dari hasil penelitian tersebut
+diketahui bahwa jika dibandingkan dengan logam,
+nilai konduktifitas thermal kaca pyrex lebih kecil
+yaitu 1,4 W/m.K maka bambu mempunyai peluang
+untuk digunakan sebagai tabung resonator yang
+mempunyai nilai konduktifitas thermal sampai
+dengan 7,529 W/m.K(Sakaray et al, 2012, Mounika
+et al, 2012, Kiran et al, 2012). Paper ini merupakan
+studi literatur yang membahas state of the art
+dari pengembangan thermoacoustic refrigeration
+dan potensi penggunaan bambu sebagai tabung
+resonator.
+Dasar Teori Tentang Thermoacoustics
+Thermoacoustics adalah sebuah ilmu fisis yang
+memaparkan tentang gelombang bunyi yang dapat
+menyebabkan perbedaan suhu yang biasa disebut
+thermacoustics refrigeration atau perbedaan
+suhu yang dapat menghasilkan gelombang bunyi
+yang biasa disebut thermoacoustic heat engine.
+Gelombang bunyi hanya dilihat sebagai osilasi
+tekanan dan gerak, namun pada saat yang
+bersamaan gelombang bunyi juga terjadi osilasi suhu dalam yang menyebabkan terjadinya gradien suhu.
+Prinsip dasar tentang thermoacustic dapat dilihat
+pada gambar 2a dan 2b. Gambar 2a. merupakan
+skema thermoacoustic refrigeration (Rossing et al,
+2007). Sedangkan pada gambar 2b. merupakan
+skema thermoacoustic heat engine (Rossing et al,
+2007).
+Thermoacoustic refrigeration
+Thermoacoustic refrigeration terjadi apabila
+bunyi merambat melalui kanal-kanal kecil yang
+mengakibatkan panas berosilasi dan mengalir ke
+dan dari dinding kanal. Thermoacoustic refrigeration
+terdiri dari pembangkit akustik bisa dari piston
+maupun loudspeaker, stack terbuat dari kanal-kanal
+agar tercipta perbedaan temperatur sisi panas
+dan dingin, dan juga fluida kerja sebagai media
+penghantar gelombang akustik.
+Prinsip kerja
+Prinsip kerja dari thermoacoustic refrigeration
+terdiri dari 4 tahapan. Pada gambar 3 dapat
+dilihat tahapan kerja thermoacoustic refrigeration
+berdasarkan kondisi kenaikan dan penurunan
+tekanan dan suhu sebagai berikut (Agustina, et al
+2013, Wetzel et al, 1997, Babei et al, 2008):
+1. Kompresi Adiabatik
+Bila gas dikompresi, yang akan terjadi adalah
+kenaikan suhu dan tekanan dari T ke T++ dan
+dari P ke P++.
+2. Perpindahan panas irreversible
+Kenaikan suhu pada gas menyebabkan
+perpindahan panas dari gas ke stack karena
+suhu stack lebih rendah. Sehingga yang terjadi
+adalah penurunan suhu dari T++ menjadi T+
+sedangkan tekanan tetap P++.
+3. Ekspansi Adiabatis
+Perpindahan panas yang terjadi secara terus
+menerus menyebabkan penurunan suhu menjadi
+T- dan tekanan tetap P++. Kemudian gas akan
+mengalami ekspansi dan kembali ke keadaan
+semula yaitu temperatur T- dan tekanan P
+sehingga suhu stack akan lebih tinggi dari suhu
+gas
+4. Perpindahan Panas Irreversibel
+Pada tahapan ini, panas berpindah dari stack
+ke gas sehingga suhu dan tekanan kembali ke
+keadaan awal yaitu T dan P.
+Dari tahapan tersebut terlihat bahwa prinsip
+kerja dari thermoacoustic refrigeration berbeda
+dengan prinsip kerja sistem refrigerasi kompresi
+uap yang memerlukan beberapa peralatan
+diantaranya kompresor, kondenser, katup
+ekspansi dan evaporator.
+Parameter dan persamaan-persamaan pada
+komponen-komponen sistem thermoacoustic
+refrigeration
+Parameter dan persamaaan-persamaan pada
+pembuatan komponen-komponen yang digunakan
+dalam thermoacoustics refrigeration adalah sebagai
+berikut :
+1. Tabung resonator
+Bentuk dan panjang dari resonansi ditentukan
+oleh frekuensi resonansi dan rugi-rugi minimal
+pada dinding dari tabung resonator. Panjang
+tabung resonator biasanya bervariasi terhadap
+panjang gelombang akustik yang dihasilkan, pada
+penelitian-penelitian sebelumnya ditentukan
+panjang resonator adalah , atau dengan
+bentuk-bentuk seperti gambar 4 (Hariharan et al,
+2013, Tijani et al 2002, Ortins et al 2012). panjang
+gelombang ini berkaitan dengan panjang dari
+tabung resonator. Tipe tabung baik yang tertutup
+maupun yang terbuka pada bagian akhir juga
+mempengaruhi persamaan yang digunakan
+seperti yang ditunjukan pada persamaan 1 dan
+2 berikut ini :
+
+
+Persamaan pada tabung yang kedua ujung
+tertutup maupun terbuka (Collard, 2012)
+λ = 2.L [1]
+Persamaan pada tabung yang salah satu
+ujungnya tertutup atau terbuka (Collard et al,
+2012):
+λ = 4.L [2]
+Sedangkan untuk tabung resonator tak terhingga
+mempunyai persamaan sebagai berikut (Collard,
+2012):
+λ = L [3]
+Kemudian parameter frekuensi juga menjadi
+hal yang tidak terpisahkan dalam menentukan
+panjang tabung resonansi, dimana persamaan
+frekuensi dapat ditulis (Ortins, 2012, Pan et al,
+2013):
+[4]
+dimana a dapat dituliskan dengan persamaan
+(Ortins, 2012):
+[5]
+dan tamperatur rata-rata dapat dituliskan (Ortins,
+2012)
+[6]
+Selain panjang tabung resonator, diameter
+tabung resonator merupakan parameter yang
+harus menjadi acuan dalam menentukan
+frekuensi, sehingga dapat dituliskan (Agustina,
+2013):
+[7]
+
+
+Dengan nilai a = 331.4 + 0,6 T (m/s)
+Sedangkan material yang sudah dipakai untuk
+penelitian menggunakan logam, alumunium,
+tembaga, besi, kaca pyrex dan PVC.
+2. Stack
+Material yang digunakan dalam pembuatan stack
+harus mempertimbangkan panas konduksi yang
+terjadi pada stack dan juga gas yang melewati
+stack dan mempunyai efek negatif dalam unjuk
+kerja pendinginan (Tijani et al, 2002, Swift et
+al, 1988). Bentuk-bentuk stack yang sudah
+digunakan pada umumnya dikategorikan menjadi
+2 bentuk, yaitu bentuk paralel dan bentuk circular
+seperti yang terlihat pada gambar 5 tetapi lebih
+disarankan bentuk stack paralel karena mudah
+dalam proses pembuatan (Hariharan et al, 2013).
+Kedalaman penetrasi thermal merupakan salah
+satu faktor yang harus diperhatikan, persamaan
+yang bisa digunakan adalah (Nsofor et al,
+2007):
+[8]
+Sedangkan untuk kedalaman penetrasi
+viskositas dapat dituliskan dengan persamaan
+(Nsofor et al, 2007):
+[9]
+Stack yang pada umumnya mempunyai bagian
+yang tertutup maupun terbuka atau disebut juga
+sebagai porositas seperti yang ditunjukan pada
+gambar 6. Perbandingan antara bagian yang
+terbuka dan yang tertutup disebut Blockage
+Ratio (B) yang besarnya dapat dihitung dengan
+(Konaina et al, 2012, Putra et al 2013):
+[10]
+Parameter lainnya yang penting adalah gradien
+suhu kritis. Gradien suhu kritis ini menentukan
+panjang dari stack yang dapat menghasilkan
+perubahan temperatur akibat adanya gelombang
+akustik yang melalui stack. Besarnya gradien
+suhu kritis dapat ditulis sebagai berikut (Agustina,
+2013, Collard et al, 2012, Wetzel et al 1997):
+[11]
+Sedangkan rasio gradien suhu yang melewati
+kanal stack dan suhu kritis dapat dihitung dengan
+persamaan (Agustina, 2013, Konaina et al 2012,
+Tijani et al, 2002, Wetzel et al, 1997) :
+[12]
+3. Pengeras Suara (Loud Speaker)
+Pada thermoacoustic refrigeration, pengeras
+suara atau loud speaker merupakan alat yang
+digunakan untuk menghasilkan suara yang akan
+dikonversikan ke dalam perubahan suhu melalui
+fluida yang mengalir dalam stack. Parameter dan
+persamaan-persamaan yang digunakan dalam
+perencanaan loud speaker berhubungan dengan
+effisiensi, hal ini dikarenakan loud speaker
+merupakan komponen yang mengkonsumsi
+energi listrik.
+Daya total yang dibutuhkan akustik dapat
+dituliskan dengan persamaan (Konaina et al
+2012) :
+Wt
+= Ws + Wres + Wchx + Whhx [13]
+Selain persamaan diatas, persamaan yang
+digunakan untuk menghitung daya terutapa input
+energi listrik dapat ditulis dengan persamaan
+(Tijani et al, 2002):
+[14]
+Apabila tekanan amplitudo dan kecepatan
+amplitudo diketahui maka (Tijani et al, 2002):
+[15]
+Sehingga effisiensi elektroakustik dapat ditulis
+dengan (Tijani et al, 2002):
+[16]
+4. Fluida kerja
+Fluida kerja dalam thermoacoustic refrigeration\
+
+
+
+
+
+
+
+merupakan media penghantar gelombang akustik
+yang akan dikonversikan menjadi perbedaan
+suhu. Aliran gas yang digunakan sebagai
+media perantara aliran gelombang akustik yang
+akan dikonversikan menjadi perubahan suhu,
+parameter yang harus diperhatikan adalah
+bilangan prandl, yang dapat dituliskan sebagai
+berikut (agustina, 2013):
+[17]
+Faktor lainnya adalah rasio kedalaman penetrasi
+thermal dan kedalaman penetrasi viskos yang
+dapat dituliskan dengan persamaan (Agustina,
+2013, Tijani et al, 2002,):
+[18]
+Thermoacoustics refrigeration berhubungan
+dengan pendinginan, oleh karena itu faktor unjuk
+kerja pada thermoacoustic refrigeration adalah
+koefisien kinerja pendinginan (COP). COP dapat
+dituliskan dengan persamaan (Agustina, 2013,
+Tijani et al, 2002,):
+[19]
+COP juga dapat dinyatakan sebagai kinerja
+karnot atau COPC sebagai berikut (Agustina,
+2013, Paek et al, 2007,):
+[20]
+Aplikasi Bambu Sebagai Tabung Resonator
+Sifat Bambu dibandingkan material resonator
+lainnya
+Pada penjelasan-penjelasan diatas sudah
+dipaparkan mengenai beberapa material yang sudah
+digunakan untuk tabung resonator, diantaranya
+tembaga, aluminium, stainlessteel, besi dan kaca
+pyrex. Pada tabel 1 dapat dilihat perbedaan sifat
+mekanis dan thermal dari Tembaga, aluminium,
+besi (McClintock et al, 1996, Moran et al, 2006),
+stainlessteel (Leffler et al, 1996, Moran et al, 2006),
+kaca pyrex (Leffler et al, 1996, White, 2007, Moran
+et al, 2006) dibandingkan dengan bambu (Mounika
+et al, 2012, Kiran et al, 2012 dan Sakaray et a, 2012,
+Sabbir et al 2011). Pada tabel tersebut dapat dilihat
+untuk jenis logam baik tembaga, alumunium, besi
+maupun stainlessteel mempunyai nilai konduktifitas
+thermal (K) yang tinggi dibandingkan dengan
+kaca pyrex dan bambu. Nilai konduktifitas thermal
+yang tinggi akan menyebabkan kemampuan
+menghantarkan panas yang tinggi juga sehingga
+kemungkinan mengalirkan fluida kerja ke dalam
+stack juga tinggi. Logam-logam tersebut juga
+memunyai nilai tegangan Ultimate (σt) dan tegangan
+Yield (σy) yang tinggi sehingga mempunyai kekuatan
+yang tinggi. Kaca pyrex sebagai tabung resonasi
+sudah banyak diaplikasikan. Jika dilihat dari nilai K,
+σt, dan σy maka sifat kaca pyrex tidak jauh berbeda
+dengan bambu. Hal inilah yang mendasari bahwa
+bambu mempunyai peluang besar untuk dijadikan
+sebagai tabung resonator pada thermoacoustic
+refrigeration.
+Pengembangan thermoacoustic dengan
+menggunakan bambu sebagai tabung
+resonator
+Berdasarkan hasil studi literatur tetang state of the
+art dari thermoaocustic refrigeration, dapat diketahui bahwa selama ini pengembangan thermoacoustic
+refrigeration khususnya pada komponen tabung
+resonator terbuat dari material logam, PVC, akrilik,
+Stainlesssteel dan kaca pyrex. Pada tulisan ini
+menjelaskan tentang belum adanya penelitian yang
+menggunakan bambu sebagai tabung resonator.
+Berdasarkan hal tersebut maka terbuka peluang
+untuk dilakukan penelitian tentang thermoacoustic
+refrigeration dengan tabung resonansi dari bambo
+yang bisa dikatakan sebagai biomaterial.
+Rancangan Thermoacoustik refrigeration dengan
+bambu sebagai tabung resonator dapat dilihat
+pada gambar 7. Bagian-bagian dari alat tersebut
+adalah : 1. Acoustic driven (Pembangkit akustik), 2.
+Dudukan load Speaker, 3. Load Speaker, 4. Bambu,
+5. Storage, 6. DAQ sistem, 7. CPU.
+Pada penelitian awal didapatkan bahwa dengan
+tabung resonator dari bambu dan stack dari
+steel wool panjang 3 cm, posisi stack 2 cm serta
+frekuensi 150 hz seperti yang terlihat pada gambar 8
+menghasilkan suhu maksimum disisi panas 33,4oC
+dan suhu minimum di sisi dingin adalah 30,9oC
+dengan suhu lingkungan 31,8oC [Yulianto, et al
+2013]. Hasil ini menunjukan nilai yang berdekatan
+dengan pengujian thermoacoustic refrigeration
+dengan tabung resonansi PVC dengan stack dari
+lembaran akrilik dengan panjang 11 cm dan posisi
+stack 5,5 cm frekuensi 275 hz yang menghasikan
+beda suhu 1,79oC [Putra, et al 2012] selain itu hasil
+penelitian awal menunjukan fenomena awal yang
+sama dengan tabung resonansi yang terbuat dari
+alumunium dengan stack type circular dari plastik
+film [Newman, et al 2006].
+Simpulan
+Simpulan yang bisa didapatkan dari studi literatur
+pada artikel ini adalah :
+1. Bambu mempunyai peluang digunakan sebagai
+tabung resonator karena mempunyai sifat
+mendekati kaca pyrex.
+2. Parameter-parameter yang harus diperhatikan
+dalam pengembangan thermoacoustic
+refrigeration diantaranya adalah : Daya yang
+diperlukan untuk pembangkitan akustik, panjang
+gelombang, frekuensi, dimensi tabung resonator,
+konduktifitas thermal, kedalaman penetrasi
+akustik, gradien suhu, suhu kritis

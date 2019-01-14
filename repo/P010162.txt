@@ -1,0 +1,563 @@
+﻿Evaluasi Kinerja Seismik Struktur Gedung Asimetris
+dengan Dinding Geser Nonparalel Sebagai Sistem Pengekangan Torsi
+
+Abstrak
+Pertimbangan estetika dan arsitektural dalam perencanaan gedung seringkali mengarah pada dihasilkannya
+bentuk-bentuk ireguler yang kemudian menimbulkan permasalahan ketidakberaturan kinerja seismik bangunan.
+Oleh karenanya, diperlukan metode yang tepat, agar diperoleh desain yang memenuhi kriteria estetika dan kinerja
+seismik. Paper ini menganalisis gedung beton bertulang 10 lantai dengan denah monosimetris yang memiliki sisisisi
+perimeter nonparalel, dan memiliki ketidakberaturan torsi berlebihan sebagai dampak dari eksentrisitas
+struktur. Sebagai upaya menghasilkan ketahanan gempa, akan diajukan metode yang menerapkan konsep-konsep
+pengekangan torsi, yang mana kekakuan dan kapasitas elemen-elemen struktur yang berada pada perimeter
+bangunan ditingkatkan hingga rasio T1θ/T1x < 60%. Pada implementasinya, akan digunakan dinding geser pada
+tiap-tiap perimeternya, termasuk pada sisi perimeter nonparalelnya, meskipun keberadaan dinding geser
+nonparalel juga dikategorikan sebagai ketidakberaturan. Namun pada paper ini, efektivitas metode yang diajukan
+tersebut akan diuji melalui evaluasi kinerja yang menggunakan analisis riwayat waktu nonlinier. Selain itu pada
+paper ini akan direkomendasikan prosedur desain yang paling efektif dan efisien untuk diterapkan. Hasil analisis
+membuktikan bahwa upaya torsional restraint yang diajukan mampu menghasilkan struktur yang memenuhi kriteria
+kinerja seismik yang dipersyaratkan. Selain itu paper ini merekomendasikan analisis kombinasi ragam sebagai
+prosedur desain alternatif bagi struktur tipe torsionally-restrained, yang lebih praktis dari prosedur numerik analisis
+riwayat waktu.
+Kata-kata Kunci: Ketidakberaturan, Perilaku torsi berlebihan, Eksentrisitas struktur, Pengekangan torsi, Dinding
+geser nonparalel, Evaluasi kinerja seismik.
+
+
+1. Pendahuluan
+Pertimbangan estetika dan arsitektural dalam
+perencanaan gedung seringkali mengarah pada
+dihasilkannya bentuk-bentuk ireguler yang kemudian
+menimbulkan permasalahan ketidakberaturan kinerja
+seismik bangunan. Dalam memenuhi sasaran dan kriteria
+estetika dan kinerja seismik tersebut, diperlukan
+metode yang tepat untuk menghasilkan desain yang
+efektif dan efisien. Pada paper ini, dianalisis model
+gedung beton bertulang 10 lantai dengan denah monosimetris
+(hanya memiliki satu sumbu simetris) yang
+memiliki sisi-sisi perimeter nonparalel dan memiliki
+ketidakberaturan torsi berlebihan sebagai dampak dari
+eksentrisitas struktur. Model gedung tersebut akan
+didesain dengan tiga karakteristik sistem pengekangan
+torsi yang berbeda, yakni: (1) torsionally restrained /
+TR; (2) semi-torsionally restrained / Semi-TR; dan (3)
+torsionally unrestrained / TU.
+Secara spesifik, paper ini mensimulasikan perencanaan
+ketiga sistem struktur tersebut, masing-masing dengan
+prosedur desain response spectrum analysis (RSA) dan
+linear time history analysis (LTHA), yang kemudian
+dieksitasi beban gempa kuat dengan menggunakan
+metode nonlinear time history analysis (NLTHA).
+Respon nonlinier struktur hasil analisis tersebut
+kemudian dievaluasi menggunakan prinsip-prinsip
+evaluasi berbasis kinerja (performance-based evaluation).
+Hasil evaluasi tersebut digunakan untuk menentukan
+tipe struktur beserta prosedur desain yang paling
+efektif dan efisien untuk diaplikasikan pada struktur
+dengan ketidakberaturan yang bersangkutan.
+2. Dasar Teoretis
+2.1 Perilaku seismik struktur dengan ketidakberaturan
+torsi
+Fokus permasalahan struktur yang dikaji pada paper ini
+adalah ketidakberaturan torsi yang juga disertai adanya
+sistem nonparalel (ASCE, 2010; BSN, 2012). Adapun
+ketidakberaturan torsi tersebut timbul akibat adanya
+eksentrisitas pusat kekakuan (center of stiffness / CM)
+terhadap pusat massa (center of mass / CM). Adanya
+perilaku tidak beraturan pada struktur tipe ini ditandai
+dengan tidak akuratnya prediksi respon torsional inelastik
+struktur, yang dilakukan pada domain analisis elastik,
+terhadap respon inelastik aktualnya. Hal tersebut
+dibuktikan pada penelitian yang dilakukan oleh Lucchini,
+et.al (2009), yang menganalisis struktur open frame
+asimetris. Komparasi respon prediktif dan aktual
+struktur dilakukan dengan meninjau perpindahan tiaptiap
+frame-nya, sebagaimana ditampilkan pada
+Gambar 1.
+Sedangkan pada penelitian yang dilakukan oleh
+Budiono dan Octaviansyah (2013) telah dikaji beberapa
+model struktur open frame yang diklasifikasikan
+berdasarkan perilaku torsionalnya, yakni: (1) symmetric
+-plan; (2) unsymmetric-plan torsion-stiff; (3) unsymmetric-
+plan torsion-flexible; (4) unsymmetric-plan similarly-
+stiff. Keempat kategori tersebut diklasifikasikan
+berdasarkan periode ragam torsi struktur-nya. Evaluasi
+dilakukan dengan metode modal pushover analysis
+(MPA) yang berupa pendekatan analitis, dan
+dibandingkan dengan metode nonlinear time history
+analysis (NLTHA). Hasil evaluasi menunjukkan bahwa
+pada struktur unsymmetric-plan similarly-stiff, metode
+MPA menunjukkan ketidakakuratan yang sangat besar
+dalam konteks perpindahan inelastik struktur, yakni
+dengan kisaran 40% hingga 50% lebih kecil
+(underestimate) terhadap hasil NLTHA. Fenomena ini
+diakibatkan dominannya ragam getar torsional struktur,
+di mana rasio antara periode ragam pertama translasi
+terhadap torsionalnya cukup besar.
+2.2 Mekanisme pengekangan torsi
+Studi yang dilakukan oleh Paulay (2000) mengenai
+fenomena torsional pada sistem struktur daktail
+mengantarkan pengetahuan bahwa respon torsional struktur pascaelastik dapat ditangani dengan memahami
+mekanisme pemikulan torsi pada elemen-elemen
+strukturnya. Sistem struktur yang efektif dalam
+memikul torsi bangunan adalah sistem struktur yang
+berada pada perimeter bangunan. Sistem tersebut
+memikul torsi dalam bentuk torsional-induced shear.
+Respon torsi bangunan akan cenderung teramplifikasi
+ketika struktur mengalami plastifikasi. Plastifikasi
+maksimum akan terjadi pada sistem pemikul torsi yang
+paralel terhadap gaya geser gempa dominan. Apabila
+sistem pemikul torsi hanya direncanakan pada salah
+satu arah gempa rencana saja, maka ketika gempa dominan
+terjadi pada arah tersebut, maka seluruh sistem
+pemikul torsi akan mengalami plastifikasi dan struktur
+kehilangan resistensi torsinya. Sistem tersebut dikategorikan
+sebagai sistem torsionally unrestrained (TU).
+Sedangkan apabila sistem pemikul torsi didesain pada
+dua arah ortogonal gempa rencana, maka ketika gempa
+dominan terjadi pada salah satu arah, maka sistem pemikul
+torsi pada arah ortogonalnya tidak mengalami plastifikasi
+maksimum, dan masih mampu mengendalikan
+pergerakan torsi bangunan. Sistem tersebut dikategorikan
+sebagai sistem torsionally-restrained (TR).
+Secara parametrik, kedua sifat pemikulan torsi tersebut
+memiliki perbedaan perilaku yang cukup signifikan.
+Paulay (2000) mengajukan suatu bentuk interaksi
+antara gaya geser dasar (base shear) dan gaya torsional
+dasar (base torsion) bangunan, yang disebut dengan
+terminologi Base Shear-Torsion (BST). Pada struktur
+TR, tipikal BST yang terjadi relatif lebih besar daripada
+struktur TU, yang tersebut disebabkan struktur TR
+mampu mengakomodasi pemikulan gaya torsi lebih
+besar dibandingkan struktur TU. Perbandingan BST
+struktur TR dan TU tersebut dibuktikan pada penelitian
+yang dilakukan oleh Ladjinovic dan Folic (2008),
+seperti yang ditampilkan pada Gambar 2.
+
+
+2.3 Evaluasi seismik berbasis kinerja
+Evaluasi kinerja seismik dilakukan untuk mengamati
+respon inelastik struktur, serta menginterpretasikan dan
+menguji ketersesuaian respon tersebut terhadap
+ekspektasi perencanaan seismik yang berkaitan dengan
+fungsi operasional bangunan serta faktor kepentingannya.
+Kuantifikasi level kinerja struktur berdasarkan kriteria
+global diajukan pada dokumen ATC-40, dimana
+parameter yang digunakan berupa drift bangunan dan
+drift inelastiknya (Tabel 1). Sedangkan parameter
+kuantifikasi dengan kriteria lokal diajukan pada FEMA
+356, di mana parameter yang digunakan berupa deformasi
+pada skala elemen. Dokumen FEMA 303/NEHRP
+1997 merekomendasikan suatu bentuk assesment matrix
+terkait ekspektasi kinerja struktur terhadap resiko
+gempa dan faktor kepentingan bangunan, sebagaimana
+ditampilkan pada Gambar 3.
+3. Metode Penelitian
+3.1 Kerangka konseptual penelitian
+Dengan mempertimbangkan seluruh dasar teoretis yang
+telah diuraikan sebelumnya, maka penelitian ini dieksekusi sesuai dengan kerangka konseptual yang
+ditampilkan pada Gambar 4. Penelitian ini mengkaji
+tiga tipe konfigurasi struktur yang representatif
+terhadap sifat pengekangan torsinya, yakni tipe TR, TU,
+serta tipe peralihan keduanya (semi-TR). Model
+struktur Semi-TR tersebut akan mewakili struktur tipe
+torsionally restrained (Paulay, 2000) dan torsion-lateral
+similarly stifff (Budiono dan Octaviansyah, 2013).
+Sedangkan untuk memperoleh kesimpulan terkait
+prosedur desain, maka untuk tiga tipe pengekangan
+torsi tersebut, masing-masing akan didesain dengan
+menggunakan prosedur analisis RSA dan LTHA.
+Dengan demikian, model yang digunakan berjumlah 6
+model bangunan gedung.
+3.2 Metode perencanaan konfigurasi struktur
+Berikut ini adalah metode-metode yang diajukan untuk
+merencanakan konfigurasi elemen struktur dalam
+menghasilkan struktur yang memiliki tipe pengekangan
+torsi TR, TU, dan Semi-TR:
+a. Struktur tipe TR
+Sistem yang difungsikan untuk memikul torsi berupa
+dual-system antara SRPMK dan dinding geser yang
+berada pada seluruh perimeter bangunan. Elemen balok
+dan kolom perimeter didesain memiliki dimensi yang
+lebih besar dibanding elemen di interior bangunan,
+hingga rasio periode T1θ / T1x bernilai maksimum 60%.
+b. Struktur tipe TU
+Sistem yang difungsikan untuk memikul torsi berupa
+dual-system antara SRPMK dan dinding geser yang
+berada pada sisi-sisi perimeter dan inetrior gedung yang
+paralel terhadap sumbu gempa rencana. Elemen balok
+dan kolom pada sistem ini didesain memiliki dimensi
+yang lebih besar dibanding elemen di interior
+bangunan, hingga rasio periode T1θ / T1x bernilai minimum
+80%.
+Gambar 4. Kerangka konseptual penelitian
+c. Struktur tipe Semi-TR
+Sistem yang difungsikan untuk memikul torsi berupa
+dual-system antara SRPMK dan dinding geser yang
+berada pada seluruh perimeter bangunan. Seluruh
+elemen balok dan kolom pada sistem ini didesain
+memiliki dimensi yang sama karena difungsikan sama
+dalam memikul respon torsi dan translasi struktur.
+Rasio periode T1θ / T1x bernilai diantara 60% dan 80%.
+4. Hipotesis
+Mengacu pada dasar teoretis yang dikemukakan sebelumnya,
+maka dirumuskan hipotesis berikut ini:
+“Struktur dengan elemen-elemen perimeter yang
+didesain memiliki dimensi yang relatif besar dan kaku
+dibanding elemen interior lainnya, yang sedemikian
+rupa menghasilkan sifat struktur torsionally restrained/
+TR, mampu mereduksi secara efektif respon torsional
+inelastik yang terjadi ketika bangunan mengalami
+beban gempa kuat. Hal tersebut bertujuan untuk
+meningkatkan kekakuan dan kekuatan torsional
+struktur, serta melemahkan kekakuan dan kekuatan
+struktur pada arah translasional”.
+5. Studi Kasus
+5. 1 Deskripsi model studi
+Model studi berupa gedung perkantoran hipotetikal 10
+lantai, dengan elevasi lantai pertama 4 m, dan tinggi
+lantai tipikal berikutnya 3.5 m. Bentuk grid denah arsitektural
+model studi berbentuk wedge (wedge-shaped
+building), dengan satu sumbu simetris dan asimetris
+terhadap sumbu lainnya. Pada arah X bangunan,
+terdapat 3 bentang yang besarnya bervariasi untuk tiaptiap
+gridnya. Sedangkan pada arah Y, terdapat 5
+bentang, yang masing-masing memiliki panjang 5 m.
+Grid A dan D merupakan grid yang nonparalel terhadap
+kedua sumbu utama gedung. Sedangkan grid-grid
+lainnya paralel dan saling ortogonal terhadap sumbu
+utama gedung.
+
+Adapun material utama bangunan berupa beton bertulang
+dengan mutu beton f’c = 30 MPa, dan mutu baja
+tulangan fy = 400 MPa. Detail dimensi dan lokasi
+elemen struktur ditampilkan pada Tabel 2 dan Gambar
+5. Struktur TR dan Semi-TR didesain memiliki dinding
+geser di keempat sisi perimeternya, termasuk pada sisi
+nonparalel. Sistem dinding geser tersebut merupakan
+komponen utama pemikul torsi yang sangat kaku.
+Sedangkan pada struktur TU, dinding geser tidak
+terdapat pada sisi nonparalelnya, dan hanya didesain
+pada sisi perimeter yang saling paralel.
+5.2 Perencanaan elemen struktur
+Pembebanan gravitasi pada struktur mengacu pada
+Pedoman Pembebanan untuk Rumah dan Gedung 1987,
+Sedangkan pembebanan gempa mengacu pada SNI 03-
+1726-2012. Adapun prosedur pembebanan gempa yang
+digunakan dalam perencanaan adalah prosedur RSA
+dan LTHA. Pada prosedur RSA, beban gempa berupa
+respon spektra Jakarta kelas situs SE (Gambar 6.a).
+Sedangkan pada prosedur LTHA, beban gempa berupa
+akselerasi dasar gempa Tohoku-oki (2011) N-S
+(Gambar 6.b), yang dimodifikasi / diskalakan terhadap
+respon spektra prosedur RSA.
+Perencanaan penulangan elemen struktur dilakukan
+dengan bantuan SAP2000 v.15, sesuai standar ACI 318
+-08. Perencanaan dilakukan sesuai dengan persyaratan
+SNI 03-1726-2012 dan turut meninjau hierarki strong
+column-weak beam untuk mencegah terjadinya soft
+story mechanism pada saat struktur dieksitasi beban
+gempa kuat pada analisis nonlinier.
+5.3 Analisis nonlinier struktur
+Pemodelan properti nonlinieritas elemen struktur
+dilakukan berdasarkan hasil perencanaan penulangan
+pada tahapan sebelumnya. Pemodelan ini meliputi
+pemodelan: (1) sendi plastis mekanisme lentur M3
+balok, (2) sendi plastis mekanisme interaksi PMM
+kolom, dan (3) model konstitutif material pada elemen
+fiber dinding geser. Adapun limit deformasi tiap-tiap
+model propeti nonlinier tersebut bersesuaian dengan
+rekomendasi pada dokumen FEMA 356. Properti
+nonlinier tersebut kemudian diaplikasikan pada model
+struktur untuk analisis nonlinier, dengan menggunakan
+bantuan program CSI Perform-3D.
+Analisis nonlinier pada CSI Perform-3D menggunakan
+prosedur NLTHA dengan menggunakan 2 data akselerasi dasar, yakni: (1) gempa Tohoku-oki (2011)
+N-S (Gambar 7.a); dan (2) gempa El-Centro (1940) NS
+(Gambar 7.b); yang masing-masing dimodifikasi/
+diskalakan terhadap respon spektra Jakarta kelas situs
+SE (SNI 03-1726-2012). Analisis NLTHA untuk gempa
+Tokohu-oki dieksekusi selama 150 detik pertama, dan
+untuk gempa El-Centro dieksekusi selama 10 detik
+pertama.
+5.4 Evaluasi Base Shar Torsion (BST)
+Hubungan gaya geser dan momen torsi dasar riwayat
+waktu (BST) hasil analisis NLTHA gempa Tohoku-oki
+terskala dilaporkan pada Gambar 7 dan Gambar 8.
+Sumbu-x BST tersebut mewakili gaya geser gempa
+riwayat waktu yang dinormalisasi terhadap nilai gaya
+geser maksimumnya, sedangkan sumbu-y mewakili
+momen torsi riwayat waktu yang dinormalisasi terhadap
+gaya geser maksimum dan panjang bentang
+bangunan. Grafik BST tersebut menunjukkan bahwa
+model A0 dan A1 memiliki normalized base torsion
+maksimum sebesar 0.55 dan 0.56. Nilai ini merupakan
+yang terbesar jika dibandingkan model lainnya, yang
+mana model B0 dan B1, menghasilkan normalized base torsion maksimum sebesar 0.48 dan 0.43; serta model
+C0 dan C1, menghasilkan normalized base torsion
+maksimum sebesar 0.35 dan 0.33. Pola serupa juga
+teramati pada analisis NLTHA yang menggunakan
+eksitasi gempa El-Centro terskala, yang mana normalized
+base torsion terbesar dimiliki oleh model A0 dan
+A1 masing-masing keduanya sebesar 0.47. Sedangkan
+nilai terkecil dimiliki oleh model C1, yakni sebesar
+0.31. Dari pola tersebut dapat diamati bahwa hasil
+desain LTHA dan RSA konsisten menunjukkan tipe
+TR memiliki resistensi torsi yang paling besar
+dibandingkan dengan Semi-TR dan TU. Model tipe TR
+dan Semi-TR menghasilkan tahanan torsi masingmasing
+41%- 68% dan 11%-38% lebih besar dari
+model TU.
+Hal-hal tersebut secara konsisten membuktikan bahwa
+sistem struktur TR sangat efektif dalam meningkatkan
+pengekangan torsi. Adanya dinding geser nonparalel
+pada model tipe TR, yang juga dimiliki oleh Semi-TR,
+mampu menghasilkan struktur dengan pengekangan
+torsi yang efektif. Tidak adanya dinding geser nonparalel
+pada model TU mengakibatkan mekanisme
+pengekangan torsi tidak terbangun secara efektif.
+
+
+5.5 Evaluasi target perpindahan struktur
+Perpindahan maksimum / envelope aktual struktur pada
+level denah teratas (lantai 10) hasil NLTHA dilaporkan
+pada Gambar 10 dan Gambar 11. Besaran perpindahan
+yang termonitor dinormalisasi terhadap perpindahan
+pusat massa-nya. Perpindahan aktual tersebut juga
+dikomparasikan dengan nilai perpindahan prediktif,
+yang merupakan hasil perkalian faktor pembesaran
+defleksi (Cd) terhadap perpindahan elastiknya. Dari
+grafik-grafik tersebut, dapat diamati bahwa struktur tipe
+TR (A0 dan A1) secara konsisten menunjukkan
+prediksi respon torsi yang sangat akurat terhadap torsi
+aktualnya. Kurva perpindahan prediksi sangat akurat
+mendekati kurva aktualnya. Sedangkan struktur tipe
+lainnya memiliki error yang cukup signifikan. Kurva
+perpindahan pada model-model tersebut mengalami
+spread yang sangat bervariasi. Adapun keakuratan pada
+struktur tipe TR tersebut dikarenakan lebih fleksibelnya
+respon translasional dibandingkan respon torsionalnya
+yang sangat kaku, atau yang disebut sebagai torsionstiff
+(Budiono dan Octaviansyah, 2013). Sedangkan
+pada struktur tipe Semi-TR dan TU, respon torsionalnya
+cukup dominan.
+5.6 Evaluasi level kinerja dan plastifikasi struktur
+Dengan menggunakan kriteria global ATC-40 (Tabel
+1), level kinerja keenam model studi hasil NLTHA
+dilaporkan pada Tabel 2. Jika mengacu pada assessment
+matrix FEMA 303/NEHRP 1997 (Gambar 3), maka ekspektasi maksimum kinerja bangunan
+perkantoran (kategori resiko I) adalah Collapse Prevention
+(CP). Dengan demikian dapat disimpulkan bahwa
+seluruh model studi memenuhi objektif tersebut. Model
+studi A0 dan B0 merupakan model yang paling
+mendekati ekspektasi tersebut, yakni dengan level
+kinerja Life Safe (LS).
+Plastifikasi dan deformasi struktur ketika level kinerja
+tersebut tercapai ditampilkan pada Gambar 12. Kondisi
+yang ditampilkan pada gambar tersebut merupakan
+hasil analisis NLTHA dengan eksitasi gempa Tohokuoki
+terskala. Jika diamati plastifikasi dari sistem utama
+pemikul torsinya (sebagaimana yang dikemukakan pada
+bagian 3.2), pada model tipe TR (A0 dan A1), plastifikasi
+yang mencapai level IO hanya terjadi pada elemenelemen
+salah satu sisi perimeternya saja, sedangkan
+pada 3 sisi perimeter lainnya, termasuk sisi nonparalelnya,
+masih relatif elastik. Fiber tulangan kedua dinding geser paralelnya teridentifikasi telah mengalami pelelehan
+(lihat Tabel 4). Hal serupa terjadi pada model
+tipe Semi-TR (B0 dan B1), namun pada model-model
+tersebut, plastifikasi level IO merambat masuk ke
+elemen-elemen interior. Kondisi berbeda terjadi pada
+model tipe TU (C0 dan C1) di mana sebagian besar
+sistem pemikul torsinya mengalami plastifikasi, yang
+juga teramati dari terjadinya pelelehan tulangan (lihat
+Tabel 4). Meskipun elemen-elemen pada perimeter
+model-model tersebut masih relatif elastik, elemenelemen
+tersebut tidak efektif memberikan kontribusi
+pengekangan torsi karena dimensinya yang relatif lebih
+kecil dari elemen-elemen interior yang telah mengalami
+plastifikasi.
+Plastifikasi yang terjadi akibat NLTHA El-Centro
+terskala juga memiliki pola yang relatif identik dengan
+hal tersebut. Perbedaan yang terjadi hanya meliputi
+persentase plastifikasi elemen-elemen strukturnya.
+Persentase plastifikasi yang terjadi akibat NLTHA
+kedua eksitasi gempa terskala tersebut dilaporkan pada
+Gambar 12. Terlihat pada gambar tersebut bahwa
+persentase plastifikasi model tipe TR (A0 dan A1)
+cukup konsisten, di mana plastifikasi maksimum terjadi
+pada level IO-LS, dan persentase plastifikasi tersebut
+akibat ekistasi Tohoku-oki 0.6%-1.1% lebih besar dari
+El-Centro. Di lain pihak, pada model tipe TU (C0 dan
+C1), perbedaan cukup besar, bahkan terdapat beberapa
+elemen pada model C1 yang mengalami plastifikasi
+level LS-CP ketika dieksitasi gempa El-Centro; taraf
+plastifikasi sebesar itu tidak terjadi ketika model
+dieksitasi gempa Tohoku-oki.
+Dari Gambar 12 juga teramati adanya perbedaan taraf
+plastifikasi antara model-model yang didesain melalui
+prosedur LTHA (A0, B0, dan C0) dan RSA (A1, B1,
+dan C1). Plastifikasi pada model RSA cenderung
+memiliki taraf kerusakan dan jumlah yang lebih besar.
+Namun demikian, perbedaan tersebut tidak terlalu
+signifikan pada model tipe TR (A0 dan A1). Di lain
+pihak, pada model tipe Semi-TR (B0 dan B1) dan TU
+(C0 dan C1), perbedaan tersebut sangat signifikan. Dari
+aspek ini dapat dinilai bahwa prosedur RSA cukup
+akurat dan efisien untuk digunakan dalam mendesain
+struktur dengan tipe TR. Pada struktur tipe lainnya,
+selisish underestimate RSA terhadap LTHA sangat
+besar, sehingga prosedur RSA tersebut dapat dianggap
+tidak layak untuk digunakan pada tahapan
+perencanaan.
+
+
+5.7 Komparasi efektivitas pengekangan torsi
+Pembahasan evaluasi-evaluasi sebelumnya menunjukkan
+bahwa struktur tipe TR (A0 dan A1) merupakan
+tipe struktur yang mampu memberikan resistensi torsi
+yang sangat maksimal. Selanjutnya, pada bagian ini
+dikomparasikan efektivitas elemen-elemen perimeter
+untuk seluruh tipe struktur dalam memikul torsi inelastik
+struktur. Komparasi dilakukan dengan membandingkan
+persentase distribusi BST struktur pada elemenelemen
+perimeter dan interior, yang sekaligus merepresentasikan
+kontribusi elemen-elemen tersebut dalam
+mekanisme pengekangan torsi struktur. Pada Gambar
+14 dan Gambar 15 diperbandingkan BST ternormalisasi
+struktur pada elemen perimeter dan interior akibat
+eksitasi gempa Tohoku-oki terskala. Dari kedua gambar
+tersebut dapat dilihat bahwa pada elemen-elemen
+perimeter, BST yang terjadi menyerupai BST tipikal
+struktur torsionally-restrained, sedangkan pada elemen
+-elemen interior, BST yang terjadi menyerupai BST
+tipikal struktur torsionally-unrestrained. Dari hasil
+tersebut, dapat dinilai bahwa elemen-elemen perimeter
+secara efektif menghasilkan resistensi torsi dibandingkan
+elemen-elemen interior. Sedangkan pada Tabel 4
+dapat dilihat bahwa kontribusi elemen-elemen perimeter
+tersebut pada model tipe TR dan Semi-TR berkisar
+pada nilai 96%- 98%, dan pada struktur TU hanya 90%
+-92%.
+
+Dengan demikian, dapat disimpulkan bahwa metode
+rekayasa yang efektif dalam menghasilkan
+pengekangan torsi adalah dengan memperkaku dan
+memperkuat seluruh elemen-elemen perimeter
+bangunan, sebagaimana yang diajukan pada struktur TR
+dan Semi-TR, meskipun pada sisi nonparalelnya. Hal
+tersebut juga didukung bahwa dominannya kontribusi
+dinding geser pada sistem ganda pemikul torsi (lihat
+Tabel 4). Selain itu, upaya memperlemah struktur terhadap
+respon lateral / translasional, sebagaimana yang
+diajukan pada struktur TR, juga efektif meningkatkan
+dominasi respon tersebut dibandingkan dengan respon
+torsionalnya.
+
+
+6. Verifikasi Persyaratan SNI 03-1726-2012
+Pada paper ini telah diajukan metode yang dapat
+menghasilkan struktur dengan sistem pengekangan
+torsi yang efektif, yakni dengan menerapkan konsep
+torsional-restraint. Pada dasarnya, SNI 03-1726-2012
+telah mengajukan metode yang berkaitan dengan
+peningkatan resistensi torsi tersebut, yakni dengan
+mempersyaratkan diperhitungkannya faktor amplifikasi
+torsi (Ax) pada perhitungan eksentrisitas desain (ed = eo
++ 5% Ax). Namun demikian persyaratan ini bersifat
+iteratif, di mana nilai Ax tersebut baru diperoleh setelah
+analisis struktur elastik dilakukan, yang mana pada
+awal perhitungan, nilai Ax diasumsikan bernilai 1
+(Gambar 15), dan kemudian analisis elastik diiterasi
+dengan nilai Ax yang baru. Sebagai perbandingan,
+perencanaan model studi yang dilakukan pada
+penelitian ini menggunakan nilai Ax =0, dan upaya
+peningkatan resistensi torsi dilakukan dengan metodemetode
+yang dikemukakan pada bagian 3.2, dengan
+parameter rasio T1θ / T1x sebagai kontrol. Metode yang
+diajukan pada paper ini lebih bersifat straight-forward
+karena peningkatan resistensi torsi telah diantisipasi
+pada tahapan preliminary design konfigurasi dan
+dimensi elemen struktur, dan evaluasi kinerja yang
+telah dibahas sebelumnya menunjukkan bahwa metode
+ini memberikan hasil yang sesuai dengan ekspektasi.
+
+
+7. Komparasi Prosedur Analisis Nonlinier
+Seluruh evaluasi pada bagian-bagian sebelumnya
+mengacu pada respon inelastik struktur hasil analisis
+NLTHA, karena hasil tersebut dapat diapresiasi sebagai
+nilai yang eksak. Namun perlu dipahami bahwa analisis
+tersebut tidak praktis untuk diterapkan. Metode analisis
+yang praktis dan umum digunakan adalah metode pushover
+yang menggunakan beban statis yang dibebankan
+secara inkremental pada struktur sesuai dengan distribusi
+ragam pertamanya, dan perpindahan struktur yang
+dimonitor berupa perpindahan titik pusat massa tiaptiap
+lantai tingkatnya. Namun demikian, sebagai tambahan,
+pada penelitian ini diperoleh adanya temuan misleading
+pada metode pushover, khususnya pada struktur
+selain tipe TR. Pada Tabel 5 dilaporkan selisih perpindahan
+pushover yang ditinjau pada titik kinerja
+(performance point) terhadap perpindahan maksimum
+NLTHA Tohoku-oki. Pada struktur tipe TR, titik kinerja
+pushover bersifat overestimate 18%-42%. Pada
+dasarnya hasil yang overestimate dapat diterima karena
+keputusan yang akan diambil akan bersifat konservatif.
+Pada struktur tipe Semi-TR, tidak ada kecenderungan
+yang pasti antara overestimate atau underestimate.
+Sedangkan pada struktur TU, perpindahan antara model
+C0 dan C1 sangat mendekati satu sama-lain, seakanakan
+tidak terdapat perilaku ketidakberaturan pada
+struktur tersebut (lihat Gambar 16). Namun jika
+dibandingkan dengan NLTHA, hasil tersebut memiliki
+selisih yang sangat signifikan, yakni sekitar 69%. Hasil
+yang bersifat underestimate tersebut tidak dapat
+diterima karena akan berdampak pada adanya kesalahan
+keputusan / misleading jika mengacu pada hasil-hasil
+tersebut tersebut.
+Dari komparasi ini dapat disimpulkan bahwa pushover
+pada struktur tipe Semi-TR dan TU memberikan hasil
+dengan ketidakpastian yang tinggi, bahkan bersifat
+underestimate. Dengan demikian, terhadap struktur
+tersebut, analisis nonlinier yang boleh digunakan adalah
+NLTHA. Hal tersebut juga memeperkuat kesimpulan
+bahwa perilaku ketidakberaturan teramati secara jelas
+pada struktur tipe Semi-TR dan TU.
+8. Kesimpulan
+1. Model struktur TR yang disimulasikan pada paper ini
+terbukti menghasilkan mekanisme pengekangan torsi
+yang sesuai dengan kriteria-kriteria perencanaan berbasis
+kinerja.
+2. Struktur dengan sistem Semi-TR dapat digunakan,
+karena juga terbukti dapat menghasilkan mekanisme
+pengekangan torsi, namun dengan memperhatikan
+ketentuan prosedur analisis desain yang direkomendasikan
+pada Tabel 6.
+3. Struktur dengan sistem TU sangat tidak direkomendasikan
+karena tidak mampu menghasilkan
+mekanisme pengekangan torsi secara efektif.
+4. Prosedur analisis yang direkomendasikan untuk
+digunakan dalam tahapan perencanaan sistem-sistem
+struktur tersebut dirangkum pada Tabel 6.
+5. Analisis nonlinier dengan metode pushover tidak
+dapat digunakan terhadap struktur tipe Semi-TR dan
+TU.
+
+
+Singkatan
+BST base shear-torsion
+LTHA linear time history analysis
+NLTHA nonlinear time history analysis
+PGA peak ground acceleration
+RSA response spectrum analysis
+SRPMK sistem rangka pemikul momen khusus
+TR torsionally restrained
+TU torsionally unrestrained
+Lambang
+Ax faktor amplifikasi torsi
+e, eo, ed eksentrisitas tak terduga, bawaan, desain
+Mt momen torsi seismik dasar
+PMM interaksi aksial, momen sumbu 2, dan sumbu
+3
+R koefisien modifikasi respon
+T1x periode ragam translasi x pertama struktur
+T1θ periode ragam torsi pertama struktur
+Vb gaya seismik dasar

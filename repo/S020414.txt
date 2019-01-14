@@ -1,0 +1,240 @@
+﻿Tujuan utama dari penelitian ini adalah meneliti pengaruh peristiwa perbedaan
+pengumuman hasil quick count Pilpres 2014 terhadap Abnormal Return dan
+Trading Volume Activity antara sebelum dan sesudah peristiwa pengumuman hasil
+quick count Pilpres 2014
+Penelitian ini menggunakan metode event study terhadap lima perusahaan media
+yang terdaftar di Bursa Efek Indonesia . Teknik pengambilan sampel penelitian ini
+menggunakan dengan metode purposive sampling dan meggunakan Capital Asset
+Pricing Model untuk menghitung abnormal return. Periode estimasi yang
+digunakan adalah 40 hari,sedangkan periode peristiwa dalam penelitian ini adalah
+21 hari, yaitu 10 hari sebelum tanggal peristiwa, event date, dan 10 hari sesudah
+pengumuman.
+Hasil analisis yang diperoleh yaitu pada hipotesis pertama tidak terdapat pengaruh
+signifikan pada rata-rata abnormal return sebelum dan sesudah pengumuman
+hasil quick count Pilpres 2014. Sedangkan hipotesis kedua menunjukkan bahwa
+tidak terdapat pengaruh yang signifikan pada rata-rata trading volume activity
+sebelum dan sesudah pengumuman hasil quick count Pilpres 2014.Oleh karena
+itu, peristiwa perbedaan pengumuman hasil quick count Pilpres 2014 tidak
+memberikan perubahan yang signifikan pada kondisi perekonomian di Indonesia
+dan respon pasar cenderung stabil
+Kata kunci : Pengumuman hasil quick count Pilpres 2014, event study,
+Abnormal Return, Trading Volume Activity, Perusahaan media yang terdaftar di
+Bursa Efek Indonesia
+
+I. PENDAHULUAN
+1.1. Latar Belakang
+Pasar modal adalah salah satu proses bisnis yang paling kompleks. Pengertian
+pasar modal menurut Undang-undang Pasar Modal no.8 tahun 1995 yaitu pasar
+modal sebagai suatu kegiatan yang bersangkutan dengan penawaran umum dan
+perdagangan efek, perusahaan publik yang berkaitan dengan efek yang
+diterbitkannya, serta lembaga dan profesi yang berkaitan dengan efek.
+Kegiatan perdagangan di bursa saham seperti jual-beli efek, adalah bagian dari
+aktivitas ekonomi. Saham merupakan surat bukti bahwa kepemilikan atau asetaset
+perusahaan yang menerbitkan saham. Dalam memiliki saham suatu
+perusahaan, maka investor mempunyai hak terhadap pendapatan dan kekayaan
+perusahaan. Saham merupakan salah satu jenis sekuritas yang cukup popular yang
+diperjualbelikan di pasar modal. (Tandellin, 2001)
+Secara umum faktor-faktor yang mempengaruhi harga saham dapat dibagi
+menjadi dua, yaitu faktor internal dan faktor eksternal. Faktor internal merupakan
+faktor yang berasal dari dalam dan dapat dikendalikan oleh perusahaan. Faktor
+eksternal merupakan faktor yang berasal dari luar dan tidak dapat dikendalikan
+oleh perusahaan. Faktor eksternal antara lain: pengumuman dari pemerintah
+seperti perubahan suku bunga tabungan, pengumuman hukum, pengumuman
+industri sekuritas seperti volume atau harga saham perdagangan, dan gejolak
+politik dalam negeri.
+Seiring dengan perkembangan pasar modal di Indonesia, pasar modal sebagai
+suatu instrumen ekonomi akan mudah dipengaruhi oleh lingkungan, salah satunya
+lingkungan politik. Kondisi lingkungan politik seperti adanya pergantian
+pemerintahan, kerusuhan politik, peperangan, atau peristiwa lain yang berkaitan
+dengan kestabilan perekonomian negara dapat menjadi faktor yang berpengaruh
+terhadap pertumbuhan pasar modal.
+Peristiwa politik yang terjadi di sebuah negara merupakan suatu hal menarik
+untuk diamati karena mempunyai pengaruh terhadap berbagai macam aspek,
+diantaranya adalah terhadap kondisi perekonomian negara. Kondisi politik dan
+ekonomi yang kondusif merupakan salah satu faktor penunjang keberhasilan pasar
+modal. Keamanan serta stabilitas politik yang baik akan menciptakan ruang bagi
+pemulihan ekonomi dan investasi di Indonesia.
+Penelitian event study mengamati pengaruh sebuah peristiwa terhadap aktivitas
+saham. Event study merupakan sebuah study yang mempelajari reaksi pasar
+terhadap suatu peristiwa yang informasinya dipublikasikan sebagai pengumuman.
+Event study dapat digunakan untuk menguji kandungan infomasi (information
+content) dari suatu pengumuman dan dapat juga untuk menguji efesiensi pasar
+berbentuk setengah kuat. (Jogiyanto, 2000)
+
+Banyak kejadian yang dapat mempengaruhi harga saham di pasar saat peristiwa
+tersebut terjadi. Peristiwa-peristiwa tersebut memiliki karakteristik yang berbedabeda.
+Ada peristiwa yang dapat berpengaruh lamban terhadap harga saham, yang
+biasanya disebut Corporate Action . Tetapi ada juga peristiwa yang berdampak
+drastis dan seketika terhadap harga saham di pasar. Peristiwa ini tidak terjadi
+secara berulang setiap tahun akan tetapi dapat terjadi sewaktu-waktu, dan
+peristiwa ini disebut insidentil. (Mohammad Samsul, 2006) Peristiwa pemilihan
+Presiden merupakan salah satu peristiwa insidentil yang tidak terjadi secara
+berulang setiap tahunnya akan tetapi dapat terjadi sewaktu-waktu.
+Pemilihan Presiden dan wakil presiden tahun 2014 merupakan salah satu peristiwa
+politik yang diduga mempunyai kandungan informasi yang dapat mempengaruhi
+pasar saham. Pemilihan presiden dan wakil presiden Republik Indonesia tahun
+2014 (bisa disingkat pilpres 2014) diselenggarakan untuk memilih presiden dan
+wakil presiden Indonesia periode 2014 – 2019 yang diikuti oleh dua kandidat
+calon presiden dan wakil presiden. Dua kandidat tersebut adalah pasangan
+Prabowo-Hatta dan Jokowi-Jusuf Kalla. Pemungutan suara diselenggarakan pada
+9 Juli 2014.
+Seiring berkembangnya waktu, hasil dari pemungutan suara pemilu dapat
+diperoleh dengan cepat. Model pengumpulan data dengan perhitungan cepat
+(quick count) untuk mengetahui hasil dari pemilu terus berkembang. Quick count
+merupakan metode pengumpulan data yang dilakukan setelah pemilihan.
+Quick count telah diterapkan di Indonesia sejak 1997 oleh LP3EI (Lembaga
+pelatihan, penelitian, penerangan, ekonomi, dan sosial),kemudian pada saat
+pemilu di tahun 1999, 2004, dan 2009. Quick count dapat memprediksi hasil
+pemilu dengan persentase mendekati dengan hasil real count yang di umumkan
+oleh lembaga pemilihan umum.
+Quick count pilpres 2014 memang tidak mengintervensi pasar modal secara
+langsung, namun peristiwa tersebut merupakan salah satu informasi yang beredar
+dan digunakan oleh pelaku pasar modal untuk memprediksi ekonomi ke depan
+yang akan menentukan return yang diharapkan. Informasi tentang quick count
+pilpres 2014 mempengaruhi pengambilan keputusan investor di pasar modal.
+Hitung cepat (quick count) dilakukan untuk mengetahui hasil pilpres 2014.
+Hasilnya dapat diketahui beberapa jam setelah pemungutan suara berakhir.
+Tabel 1. Hasil Quick Count Pilpres Tahun 2014
+
+Berdasarkan Tabel 1 dapat disimpulkan terdapat empat (Puskaptis, JSI, LSN,
+IRC) lembaga survey yang memenangkan Prabowo - Hatta Rajasa sedangkan
+tujuh (Populi Center, SMRC, Cyrus-CSIS, LSI, RRI, Litbang Kompas, Indikator
+Politik Indonesia) memenangkan pasangan Jokowi - Jusuf Kalla.
+Munculnya perbedaan tersebut membuat kebingungan di masyarakat karena
+berdasarkan pemilu tahun 2005 dan 2009 belum pernah terjadi perbedaan hasil
+quick count. Dan peran media sebagai wadah informasi untuk menyebarluaskan
+hasil quick count turut membantu mempercepat tersebarnya berita tersebut.
+Berbeda dengan pemilu-pemilu sebelumnya peran serta media pada pemilu 2014
+kali ini memiliki peranan penting sebagai wadah untuk berkampanye oleh masingmasing
+calon presiden dan wakil presiden. Melalui media, masyarakat dapat
+dengan mudah mengakses informasi mengenai pilpres 2014. Informasi yang
+berkembang melalui jaringan telekomonikasi seperti internet, surat kabar, majalah
+dan televisi bergerak sangat cepat. Hasil perhitungan cepat (quick count) yang
+disiarkan melalui media memberi kontribusi besar pada Pilpres 2014. Perusahaan
+media yang terjun dalam pertelevisian dan surat kabar serta majalah, bekerja sama
+dengan lembaga-lembaga survey yang ada di Indonesia untuk ikut berpartisipasi
+melihat siapakah pemenang dalam pilpres 2014 melalui hasil quick count yang
+dilaksanakan tanggal 9 Juli 2014.
+
+Tabel 2. Perusahaan Media yang Terdaftar Dalam Bursa Efek Indonesia
+
+Media pertelevisian yang ikut andil dalam penyiaran quick count Pilpres 2014
+adalah TVRI, KOMPAS TV, MNC TV, RCTI, GLOBAL TV, METRO TV,
+TRANS TV, SCTV dan TV ONE. TVRI, KOMPAS TV, dan METRO TV bekerja
+sama dengan lembaga survey seperti Indikator Politik Indonesia, RRI, Litbang
+Kompas, LSI, Cyrus-CSIS, SMRC, dan Populi Center. Sedangkan MNC TV,
+RCTI, GLOBAL TV, dan TV ONE bekerja sama dengan Puskaptis, JSI, LSN,
+dan IRC.
+Berdasar Tabel 1 dapat terlihat bahwa terbentuk dua kubu media. Dimana lima
+media (TVRI, KOMPAS TV,METRO TV, TRANS TV, SCTV) yang bekerja
+sama denga tujuh lembaga survey memenangkan pasangan presiden dan wakil
+presiden Jokowi - Jusuf Kalla, sedangkan empat media lain (MNC TV, RCTI,
+GLOBAL TV, TV ONE) yang bekerja sama dengan 4 lembaga survey
+memenangkan pasangan calon presiden dan wakil presiden Prabowo - Hatta
+Rajasa.
+Setelah hasil pengumuman quick count pada tanggal 9 Juli 2014 sebagian saham
+perusahaan media yang terdaftar di Bursa Efek Indonesia (BEI) mengalami
+penurunan. Apakah penurunan tersebut terjadi disebabkan oleh peristiwa
+pengumuman quick count. Dimana media pertelevisian seperti MNC TV, RCTI,
+GLOBAL TV dimiliki oleh PT Media Nusantara Citra Tbk, media TV ONE
+dimiliki oleh PT Visi Media Asia Tbk dan media SCTV, Indosiar dimiliki oleh PT
+Surya Citra Media Tbk dan majalah politik TEMPO yang dimiliki oleh PT
+Tempo Inti Media Tbk.
+
+Berdasarkan uraian tersebut, maka peneliti tertarik untuk melakukan penelitian
+mengenai pengaruh perbedaan hasil quick count terhadap abnormal return dan
+trading volume activity saham perusahaam media yang terdaftar di Bursa Efek
+Indonesia pada saat pemilu presiden 2014. Oleh karena itu, Penelitian ini berjudul
+“PENGARUH PERBEDAAN HASIL QUICK COUNT PILPRES 2014
+TERHADAP ABNORMAL RETURN DAN TRADING VOLUME ACTIVITY
+SAHAM PERUSAHAN MEDIA YANG TERDAFTAR DI BURSA EFEK
+INDONESIA “ (Event Study).
+1.2. Perumusan Masalah
+Dari latar belakang masalah yang ada, maka permasalahan yang akan dibahas
+pada penelitian ini adalah :
+1. Apakah terdapat perbedaan abnormal return pada saham perusahan media
+yang terdaftar di Bursa Efek Indonesia sebelum dan sesudah perbedaan hasil
+quick count Pilpres 2014 ?
+2. Apakah terdapat perbedaan trading volume activity pada saham perusahan
+media yang terdaftar di Bursa Efek Indonesia sebelum dan sesudah perbedaan
+hasil quick count Pilpres 2014 ?
+
+1.3. Pembatasan Masalah
+Agar permasalahan yang diteliti tidak meluas, maka penulis membatasi penulisan
+ini pada :
+? Saham yang diteliti adalah saham perusahaan media yang terdaftar di
+Bursa Efek Indonesia.
+? Harga saham yang digunakan adalah data harga saham harian pada saat
+penutupan bursa saham.
+
+1.4. Tujuan dan Kegunaan Penelitian
+1.4.1. Tujuan Penelitian
+Dari perumusan masalah di atas maka tujuan penelitian yaitu :
+1. Untuk mengetahui ada tidaknya pengaruh perbedaan hasil quick count
+terhadap abnormal return saham perusahaan media yang terdaftar di Bursa
+Efek Indonesia pada saat Pilpres 2014.
+2. Untuk mengetahui ada tidaknya pengaruh perbedaan hasil quick count
+terhadap trading volume activity saham perusahaan media yang terdaftar di
+Bursa Efek Indonesia pada saat Pilpres 2014.
+
+1.4.2. Kegunaan Penelitian
+Kegunaan yang diharapkan dapat diperoleh dari hasil penelitian ini adalah :
+1. Bahan refrensi atau bukti empiris yang memperkuat penelitian-penelitian
+sebelumnya mengenai studi peristiwa, sehingga dapat menjadi salah satu
+acuan bagi pengembangan penelitian maupun pemikiran-pemikiran di bidang
+pasar modal.
+2. Bahan pertimbangan bagi para investor dalam melakukan transaksi
+perdagangan di pasar modal Indonesia, khususnya apabila terjadi peristiwaperistiwa
+politik yang diperkirakan mempengaruhi pasar. Dalam hal ini
+peristiwa quick count pada pilpres 2014.
+1.5. Kerangka Pikir
+Event study merupakan sebuah teknik penelitian yang memungkinkan untuk
+menilai dan mempelajari pengaruh dari suatu peristiwa terhadap harga saham di
+pasar modal. Event study juga dapat digunakan sebagai alat analisis dalam
+mengetahui adakah reaksi signifikan dalam pasar modal terhadap kejadian yang
+diperkirakan dapat mempengaruhi harga saham suatu perusahaan di pasar modal.
+Seperti permasalahan yang diangkat dalam penelitian ini yakni untuk mengetahui
+ada tidaknya pengaruh perbedaan hasil quick count pilpres 2014 terhadap
+abnormal return dan trading volume activity saham perusahaan media yang
+terdaftar pada Bursa Efek Indonesia diteliti dengan menggunakan event study.
+
+Dalam penelitian ini, untuk mencari nilai beta (ß) sebagai pengukur risiko,
+peneliti menggunakan model CAPM (Capital Assets Pricing Model). Jangka
+waktu pengamatan yang dilakukan dalam penelitian ini antara 30 April -23 Juli
+2014. Jangka waktu pengamatan ini menggunakan periode estimasi dan event
+window. Periode estimasi dimanfaatkan untuk menghitung return saham dari
+sampel dalam keadaan normal. Keadaan normal disini adalah keadaan dimana
+tidak terjadi suatu peristiwa tertentu, yang berpengaruh terhadap sampel saham
+hal ini dimanfaatkan untuk menghitung abnormal return dari sampel pada saat
+peristiwa berlangsung. Event window merupakan periode di dekat peristiwa itu
+terjadi. Jangka waktu yang digunakan dalam penelitian ini yaitu 20 hari dengan
+periode jendela 10 hari sebelum pengumuman hasil quick count pilpres 2014 dan
+10 hari sesudah pengumuman hasil quick count pilpres 2014. Dalam event study,
+reaksi pasar diukur dengan menggunakan abnormal return.
+Besarnya pengaruh sebuah peristiwa terhadap harga saham juga diteliti dengan
+melihat dari perubahan trading volume activity. Perubahan volume perdagangan
+saham diukur dengan Trading Volume Activity (TVA) dengan membandingkan
+jumlah saham yang diperdagangkan periode tertentu, setelah itu rata-rata Trading
+Volume Activity (TVA) dalam kasus ini adalah sebelum pengumuman hasil quick
+count dibandingkan dengan Trading Volume Activity (TVA) sesudah
+pengumuman hasil quick count. Bila terdapat perbedaan yang signifikan berarti
+peristiwa perbedaan hasil quick count pilpres 2014 berpengaruh terhadap volume
+perdagangan saham.
+
+Berdasarkan latar belakang permasalahan dan tujuan yang telah dikemukakan
+penulis pada bagian sebelumnya, maka dapat dibuat kerangka pemikiran sebagai
+berikut :
+
+1.6. Hipotesis
+Pengujian hipotesis dilakukan agar dapat mengetahui apakah perbedaan hasil
+quick count pilpres 2014 memberikan pengaruh terhadap abnormal return dan
+trading volume activity saham perusahaan media yang terdaftar di Bursa Efek
+Indonesia. Dengan demikian, berdasarkan penjelasan latar belakang dan permasalahan yang telah dirumuskan, maka hipotesis yang akan diteliti adalah
+sebagai berikut :
+Hipotesis :
+H1: Diduga terdapat perbedaan yang signifikan pada abnormal return saham
+perusahaan media yang terdaftar di Bursa Efek Indonesia sebelum dan
+sesudah perbedaan pengumuman hasil quick count Pilpres 2014.
+H2: Diduga terdapat perbedaan yang signifikan pada trading volume activity
+saham perusahaan media yang terdaftar di Bursa Efek Indonesia sebelum
+dan sesudah perbedaan pengumuman hasil quick count Pilpres 2014.

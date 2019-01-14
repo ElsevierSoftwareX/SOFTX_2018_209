@@ -1,0 +1,328 @@
+﻿Rancang Bangun dan Uji Kinerja Mekanisme Pengendali Otomatis
+Pedal Rem dan Tuas Transmisi Maju-Mundur pada Traktor Roda
+Empat
+
+Abstrak
+Sampai saat ini sebagian besar traktor roda empat masih dioperasikan secara manual untuk penerapan di
+bidang pertanian. Dengan demikian kelelahan operator dalam mengoperasikan traktor tersebut tidak dapat
+dihindari. Untuk menurunkan tingkat kelelahan operator maka perlu diupayakan mengoperasikan traktor
+secara otomatis untuk gerakan maju maupun mundur. Otomatisasi gerakan maju telah dilakukan pada
+penelitian sebelumnya. Penelitian ini lebih difokuskan pada otomatisasi gerakan mundur dan memperkecil
+radius belok dengan memodifikasi mekanisme pengendali rem dan mekanisme pengendali transmisi majumundur.
+Kedua mekanisme tersebut dikendalikan menggunakan motor DC dengan aktuator H-bridge. Uji
+fungsional dilakukan di laboratoriun dengan cara mengangkat traktor sehingga roda tidak menapak dan
+traktor tidak bergerak meskipun rodanya berputar. Pengujian kinerja mekanisme juga dilakukan di atas
+lahan kering untuk mengetahui kemampuan bergerak maju dan mundur secara otomatis dan berputar
+balik melalui penekanan pedal rem secara otomatis. Hasil pengujian fungsional menunjukkan mekanisme
+bekerja dengan baik dengan waktu penekanan rem 0.47 s untuk rem kiri dan 0.61 s untuk rem kanan. Hasil
+pengujian lapangan menunjukkan bahwa traktor dapat dikendalikan secara otomatis untuk bergerak maju
+dengan kecepatan rata-tara 0.62 m/s, bergerak mundur dengan kecepatan rata-rata 0.63 m/s, berputar
+dengan jari-jari 2.2 m untuk rem kiri dan 2.4 m untuk rem kanan.
+Kata Kunci: otomatisasi, transmisi maju-mundur, pedal rem.
+
+
+Pendahuluan
+Di Negara berkembang seperti Indonesia,
+penggunaan traktor roda empat terbatas pada
+pekerjaan pertanian lahan kering sedangkan untuk
+lahan basah umumnya dikerjakan menggunakan
+traktor roda dua. Sebagian besar traktor roda empat
+dioperasikan secara manual sehingga kelelahan
+operator dalam mengoperasikan traktor tersebut
+tidak dapat dihindari. Kelelahan akan menurunkan
+kemampuan dari operator dalam mengoperasikan
+traktor yang akan berakibat pada penurunan
+kapasitas lapangan traktor. Untuk menurunkan
+resiko kelelahan operator, maka perlu diupayakan
+untuk mengoperasikan traktor secara otomatis.
+Supaya traktor bisa dioperasikan secara otomatis,
+maka perlu dilakukan modifikasi pada beberapa
+mekanisme pengendali di antaranya: roda kemudi,
+pedal kopling, pedal rem, tuas akselerasi, tuas
+implement, dan tuas transmisi maju-mundur.
+Rancang bangun sistem kendali otomatis untuk
+roda kemudi, pedal kopling dan tuas akselerator
+telah dilakukan oleh Desrial et al. (2010), dan
+Desrial et al. (2011). Rancang bangun sistem kendali
+otomatis untuk pedal rem dan tuas implemen telah
+dilakukan oleh Subrata et al. (2012). Hasil pengujian
+dari mekanisme tersebut masih menyisakan
+permasalahan di antaranya: radius belok traktor
+cukup besar karena mekanisme pengendali pedal
+rem masih menyatu antara rem kanan dan rem kiri
+sehingga tidak bisa dioperasikan untuk memperkecil
+radius belok. Selain itu traktor tidak bisa mengatur
+posisi start setelah berbelok sehingga posisi start
+tersebut tidak dimulai dari ujung lintasan. Untuk
+mengatasi permasalahan tersebut, maka perlu
+ditambahkan mekanisme pengendali otomatis untuk
+pedal rem kiri, rem kanan, dan tuas transmisi majumundur.
+Mekanisme pengendali rem kiri dan kanan
+yang dapat dioperasikan secara terpisah akan
+memperkecil radius belok sedangkan mekasinme
+transmisi maju-mundur akan memungkinkan
+traktor bergerak mundur secara otomatis pada saat
+mendeteksi penghalang maupun untuk mengatur
+posisi start pengoperasian implemen.
+Tujuan dari penelitian ini adalah: merancang
+bangun dan menguji kinerja dari mekanisme
+pengendali pedal rem kiri, rem kanan dan tuas
+transmisi maju-mundur pada traktor roda empat.
+Bahan dan Metoda
+Bahan dan Alat
+Bahan yang digunakan dalam penelitian ini
+terdiri dari besi pipa untuk perpanjangan pedal rem,
+besi pelat untuk transmisi maju-mundur, motor DC
+12 V 30 W untuk tenaga penggerak, H-Bridge jenis
+EMS 30A sebagai driver motor DC, mikrokontroler
+ATMega 128 sebagai unit pengendali. Alat yang
+dipergunakan terdiri dari: komputer notebook,
+multitester, timbangan pegas untuk mengukur
+kebutuhan gaya penarik mekanisme yang akan
+dirancang dan traktor roda empat merek Yanmar
+EF453T.
+Perancangan Mekanisme
+Penelitian dilakukan sesuai dengan tahapan
+pada Gambar 1. Beberapa permasalahan yang
+dijumpai pada penelitian terdahulu adalah radius
+belok traktor cukup besar sehingga sulit untuk
+berpindah ke lintasan terdekat. Traktor sulit mengatur
+posisi start setelah berbalik arah sehingga posisi
+awal pengerjaan tidak dimulai dari ujung lintasan.
+Untuk mengatasi masalah tersebut, maka perlu
+dikembangkan mekanisme pengendali otomatis
+untuk pedal rem kiri, rem kanan dan tuas transmisi
+maju-mundur.
+Mekanisme pengendali pedal rem dan tuas
+transmisi maju-mundur dirancang dengan
+mempertimbangkan kemungkinan untuk tetap dapat
+dioperasikan secara manual. Mekanisme pengendali
+pedal rem dirancang berupa tuas yang ditarik kawat
+sling seperti pada Gambar 2. Adapun mekanisme
+pengendali tuas transmisi maju-mundur dirancang
+berupa mekanisme empat batang hubung seperti
+pada Gambar 3. Mekanisme tersebut dipasang di
+bawah tempat duduk operator untuk memudahkan
+pemasangan motor DC.
+Mekanisme pengendali transmisi terdiri dari poros
+utama dan poros penggerak. Poros utama diputar
+dengan torsi T3 sedangkan poros penggerak (poros
+motor DC) diputar dengan torsi T1. Poros utama
+dihubungkan dengan tuas transmisi yang pada awalnya memiliki panjang 5 cm diubah menjadi 27
+cm (R3). Ukuran tersebut merupakan perpanjangan
+maksimum sesuai ruang yang tersedia. Sudut putar
+α3 yang mungkin berdasarkan ruang yang tersedia
+adalah 30°. Waktu yang direncanakan untuk
+menggerakkan poros transmisi dari posisi maju ke
+posisi mundur atau sebaliknya adalah 0.3 s. Poros
+motor dihubungkan dengan tuas sepanjang 13.5 cm
+sehingga membetuk sudut α1 sebesar 60°. Dengan
+demikian kecepatan putar motor yang diperlukan
+adalah 33 rpm.
+Berdasarkan hasil pengukuran gaya pada
+lengan awal (panjang 5 cm), didapat nilai gaya yang
+diperlukan untuk menggerakkan tuas transmisi dari
+posisi netral ke posisi maju adalah 14 kgf atau setara
+dengan 137.2 N, sehingga untuk menggerakkan
+mekanisme ini dibutuhkan torsi motor DC sebesar
+3.43 Nm, dengan rincian:
+T3 = Fawal × Rawal
+T3 = 0.05 × 137.2 = 6.86 Nm
+T1 = F × R1 = 25 N × 0.13 m = 3.43 Nm
+Jika diasumsikan effisiensi motor adalah 70 %,
+maka daya motor yang digunakan adalah sebesar:
+Nilai safety factor yang digunakan adalah 2
+sehingga besarnya daya motor yang dibutuhkan
+sebesar:
+P = P x sf = 17 x 2 = 34 Watt
+Uji Fungsional
+Setelah prototype mekanisme pengendali pedal
+rem dan tuas transmisi maju-mundur selesai dibuat
+kemudian dilakukan pengujian fungsional untuk
+mengetahui apakah kedua mekanisme tersebut
+sudah berfungsi dengan baik sesuai dengan
+tujuan perancangan. Waktu yang dibutuhkan oleh
+sistem otomatis untuk menekan pedal rem dan
+menggerakkan tuas transmisi maju-mundur diukur
+dengan stop watch yang memiliki ketelitian 0.01 s.
+Uji fungsional ini dilakukan di laboratorium dengan
+cara mengangkat traktor sehingga traktor tidak
+berpindah tempat meskipun rodanya berputar.
+Supaya pemindahan gigi transmisi maju-mundur
+berlangsung dengan aman, maka baik pada
+mekanisme pengendali kopling maupun pada
+mekanisme pengendali transmisi dipasang sensor
+limit switch. Mekanisme pengendali transmisi baru
+akan digerakkan jika tuas kopling sudah benarbenar
+tertekan penuh demikian juga tuas kopling
+baru akan dinaikkan jika tuas transmisi sudah pada
+posisi yang tepat.
+Uji Fungsional Mekanisme yang Telah
+Dikembangkan Sebelumnya
+Mekanisme pengendali yang telah dikembangkan
+sebelumnya (Desrial et al., 2010) sangat diperlukan
+supaya traktor dapat dikendalikan secara otomatis
+di atas lahan kering. Oleh karena itu perlu dipastikan
+mekanisme yang telah dikembangkan tersebut
+(pengendali roda kemudi, tuas kopling, dan pedal
+akselerasi) masih berfungsi dengan baik. Jika tidak
+berfungsi dengan baik maka dilakukan modifikasi,
+kemudian dikalibrasi.
+Pengujian Lapangan
+Uji lapangan dilakukan untuk mengetahui
+apakah mekanisme pengendali yang baru dirancang
+dapat bekerja dengan baik atau tidak. Mekanisme
+pengendali transmisi maju-mundur diuji dengan
+menggerakkan traktor ke arah maju selama waktu
+tertentu kemudian transmisinya dipindah secara
+otomatis untuk pergerakan mundur kemudian traktor dibiarkan bergerak mundur selama waktu tertentu.
+Mekanisme pengendali pedal rem diuji dengan cara
+menekan secara otomatik pedal rem kiri atau kanan
+sambil traktor digerakkan maju kemudian diukur
+radius putar yang dihasilkan. Radius putar tersebut
+dibandingkan dengan radius putar pengoperasian
+manual untuk mengetahui apakah mekanisme
+pengereman barfungsi dengan baik atau tidak.
+Pengujian radius putar traktor dilakukan sebanyak
+10 kali ulangan.
+Hasil dan Pembahasan
+Rancangan mekanisme pengendali pedal rem
+dan tuas transmisi maju-mundur telah dibuat dalam
+bentuk prototype seperti terlihat pada Gambar 4
+dan 5.
+Mekanisme pengendali pedal rem yang
+sebelumnya digunakan untuk mengendalikan rem
+secara kesatuan dimodifikasi untuk mengendalikan
+rem kanan sedangkan untuk rem kiri dibuatkan
+mekanisme yang baru sehingga kedua rem bisa
+dikendalikan secara terpisah.
+Mekanisme penggerak pedal rem dan transmisi
+maju-mundur dikendalikan menggunakan rangkaian
+elektronika yang terdiri dari: mikrokontroler
+ATmega128, dan driver motor DC jenis H-bridge
+EMS30A seperti terlihat pada Gambar 6.
+Hasil pengujian berupa waktu yang dibutuhkan
+untuk menggerakkan pedal rem dan tuas transmisi
+disajikan pada Tabel 1.
+Hasil uji fungsional menunjukkan bahwa
+kedua mekanisme berfungsi dengan baik untuk
+menggerakkan pedal rem dan tuas transmisi majumundur.
+Sebelum dilakukan pengujian lapangan, maka
+perlu dicek mekanisme yang telah dikembangkan
+sebelumnya yaitu roda kemudi, pedal kopling, dan
+tuas akselerasi. Hasil pengecekan mendapatkan
+bahwa mekanisme tersebut kurang berfungsi
+dengan baik, terkadang berfungsi terkadang tidak
+berfungsi. Oleh karena itu dilakukan modifikasi pada
+rangkaian limit switch seperti pada Gambar 7.
+Limit switch pada rangkaian awal ternyata saling
+mempengaruhi satu sama lain sehingga tegangan
+motor penggerak mekanisme menjadi rendah dan
+motor tidak bergerak. Namun pada rangkaian hasil
+modifikasi tidak saling mempengaruhi dan terjadi penghentian aliran arus listrik hanya pada saat
+tuas limit switch ditekan. Dengan demikian motor
+akan berhenti hanya jika limit switch ditekan. Arus
+listrik akan mengalir lagi jika polaritas catu daya
+DC dibalik oleh rangkaian H-bridge. Modifikasi
+lain adalah pada catu daya motor DC penggerak
+kopling yang sebelumnya menggunakan dua buah
+accu 12 V diganti dengan rangkaian converter 12
+V ke 24 V dengan kapasitas arus 15 A (Gambar 6).
+Penggunaan dua buah accu memiliki kelemahan
+karena hanya satu accu yang diisi muatan (charge)
+oleh traktor saat beroperasi sedangkan accu yang
+lain tidak di-charge sehingga tidak sampai bertahan
+satu jam jika makanisme kopling digerakkan
+secara intensif. Pada penelitian ini juga dilakukan
+penggantian sensor sudut belok roda depan yang
+awalnya memiliki resolusi 360° per putaran menjadi
+1024° per putaran. Penggantian dilakukan karena
+sensor sudut tersebut rusak. Setelah diganti,
+kemudian dilakukan kalibrasi ulang seperti pada
+Gambar 8.
+Roda kemudi dipergunakan untuk menggerakkan
+roda depan traktor dimana sudut belok yang
+dihasilkan diukur menggunakan absolute rotary encoder. Nilai sudut belok maksimum ke kiri adalah
+57° dengan nilai encoder adalah 167, sedangkan
+nilai sudut belok maksimum ke kanan adalah 42°
+dengan nilai encoder adalah 104. Nilai encoder
+untuk sudut belok 0° adalah 131. Berdasarkan
+hasil kalibrasi sudut belok roda depan didapatkan
+persamaan hubungan antara sudut belok roda
+depan (Y) dengan nilai pembacaan encoder (X)
+adalah: Y = 0.630 X + 131. Selanjutnya persamaan
+tersebut dipergunakan untuk pengendalian sudut
+belok roda depan traktor.
+Hasil Uji Lapangan
+Dalam pengujian lapangan, pada saat traktor
+berputar, kecepatan mesin diturunkan sampai 1000
+rpm, sedangkan roda kemudi diputar ke kanan
+sampai nilai encoder 104 atau diputar ke arah
+kiri sampai nilai encoder 167. Hasil uji lapangan
+diperlihatkan pada Gambar 9 dan Tabel 2.
+Dari hasil pengujian terlihat bahwa pada saat
+rem dikendalikan secara otomatis maka radius putar
+yang dihasilkan lebih besar dari radius putar saat
+rem diinjak secara manual baik putaran arah kiri
+maupun arah kanan. Ini berarti bahwa penekanan
+rem secara otomatis belum mampu mengerem
+roda traktor secara penuh yang disebabkan oleh
+clearance gear reduksi yang terpasang pada
+motor DC. Pada saat tuas menekan limit switch
+maka aliran arus ke motor terhenti sehingga motor
+berhenti berputar dan tuas rem menarik pulley sedikit
+ke atas. Nagasaka et al. (2004) menggunakan
+electrical linear cylinder untuk menggerakkan pedal
+rem maupun transmisi maju-mundur. Mekanisme
+tersebut mampu melakukan pengereman dengan
+baik sehingga radius putarnya menjadi kecil seperti
+halnya radius putar dengan pengereman manual.
+Dalam penelitian ini tidak digunakan electrical linear
+cylinder karena perangkat tersebut lebih rumit dan
+mahal dibandingkan dengan motor listrik DC. Untuk
+memperkecil radius belok, maka motor DC yang
+dipergunakan untuk menggerakkan mekanisme
+pengendali padal rem perlu dilengkapi dengan gear
+cacing atau mekanisme pulley-kawat sling diganti
+dengan mekanisme ulir (baut-mur) sehingga tidak
+tertarik ke atas saat mekanisme menekan limit
+switch.
+Pengujian lapangan juga dilakukan terhadap
+mekanisme pengendali tuas transmisi maju-mundur.
+Traktor digerakkan maju kemudian mundur dengan
+putaran mesin 2000 rpm atau kecepatan maju 0.6 m/s, namun pada saat menggerakkan tuas transmisi
+dari posisi maju ke mundur atau sebaliknya traktor
+dihentikan dengan menekan otomatis pedal kopling
+dan putaran mesin diturunkan menjadi 1000 rpm.
+Traktor digerakkan maju dan mundur selama 5
+s dengan ulangan masing-masing 10 kali. Hasil
+pengujian diperlihatkan pada Tabel 3.
+Hasil pengujian yang dilakukan sebanyak 10
+kali ulangan menunjukkan mekanisme pengendali
+tuas transmisi maju-mundur bekerja dengan
+baik untuk mengendalikan arah gerakan traktor.
+Traktor bergerak mundur secara otomatis dengan
+kecepatan rata-rata 0.63 m /s dan bergerak maju
+secara otomatis dengan kecepatan rata-rata 0.62
+m /s.
+Simpulan dan Saran
+Simpulan
+1. Pada penelitian ini telah dibuat prototipe
+pengendali pedal rem kiri, rem kanan, dan
+tuas transmisi maju-mundur dengan tenaga
+penggerak motor DC.
+2. Hasil pengujian fungsional menunjukkan lama
+waktu yang diperlukan untuk penekanan pedal
+rem kanan lebih lama dibandingkan dengan
+rem kiri yaitu 0.61 s untuk rem kanan dan 0.47 s
+untuk rem kiri. Waktu untuk menggerakkan tuas
+transmisi dari posisi netral ke posisi mundur
+0.23 s, dari posisi netral ke maju 0.18 s, dan dari
+posisi maju ke mundur 0.41 s.
+3. Hasil pengujian lapangan menunjukkan bahwa
+traktor dapat dikendalikan secara otomatis untuk
+bergerak maju dengan kecepatan rata-tara 0.62
+m/s, bergerak mundur dengan kecepatan ratarata
+0.63 m/s, berputar kearah kiri dengan radius
+belok rata-rata 2.2 m dan berputar kearah kanan
+dengan radius belok rata-rata 2.4 m.

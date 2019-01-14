@@ -1,0 +1,539 @@
+﻿Evaluasi Volumetrik Marshall Campuran AC-BC
+(Studi Kasus Material Agregat di Manado dan Minahasa)
+
+
+Abstrak
+Kondisi lapis perkerasan jalan yang ada di Manado dan Minahasa, pada umumnya mengalami kerusakan
+sebelum mencapai umur rencana. Ada beberapa faktor yang bisa mempengaruhi kinerja perkerasan jalan, antara
+lain: proses pengerjaan, mutu material, beban lalu lintas dan kondisi lingkungan. Evaluasi terhadap mutu
+material agregat yang umum digunakan dalam campuran konstruksi perkerasan jalan yang ada di Manado dan
+Minahasa perlu dilakukan karena besarnya pengaruh sifat-sifat fisik agregat terhadap kinerja campuran lapis
+perkerasan jalan. Penelitian ini dilakukan untuk melihat sifat-sifat fisik agregat yang membentuk campuran
+perkerasan jalan yaitu agregat yang berasal dari daerah Sawangan, Kakaskasen, dan Tateli yaitu material
+agregat yang umumnya digunakan pada jalan di Manado dan Minahasa. Untuk mengevaluasi kinerja agregat
+dalam campuran lapisan Aspal Beton (Laston) digunakan analisa Volumetrik. Penelitian ini dilakukan di
+laboratorium dengan melakukan pemeriksaan awal terhadap agregat, kemudian melakukan rekayasa gradasi
+berdasarkan spesifikasi yang dikeluarkan oleh Departemen Kimpraswil tahun 2003, sedangkan variasi
+kandungan aspal dalam campuran bervariasi antara 4,5% hingga 6,5%. Sifat-sifat fisik dan mekanik campuran
+diperoleh dengan pengujian Marshall. Hasil evaluasi volumetrik campuran AC-BC dengan menggunakan
+agregat asal ketiga daerah tersebut menunjukkan agregat asal Sawangan adalah yang terbaik untuk digunakan
+dalam campuran perkerasan jalan dibandingkan dengan agregat yang berasal dari Kakaskasen dan Tateli.
+Kata-kata Kunci: Campuran perkerasan (AC-BC), pengujian volumetrik marshall, agregat.
+
+
+1. Pendahuluan
+Kondisi lapis perkerasan jalan di Sulawesi Utara
+khususnya di daerah Manado dan Minahasa, baik jalan
+nasional maupun jalan propinsi sebagian besar
+mengalami kerusakan sebelum mencapai umur
+rencana. Kondisi ini dapat diakibatkan oleh berbagai
+faktor, antara lain: proses pengerjaan, mutu material,
+beban lalu-lintas dan kondisi lingkungan (AASHTO,
+1993). Faktor-faktor ini bisa secara sendiri-sendiri
+mempengaruhi kinerja konstruksi perkerasan jalan,
+tetapi bisa juga mempengaruhi perkerasan jalan secara
+bersama-sama dan pada akhirnya menyebabkan
+kerusakan permanen. Mutu material pembentuk lapisan
+perkerasan jalan dalam hal ini campuran beton aspal
+lapis pengikat (Laston) atau Asphalt Concrete Binder
+Course (AC-BC) adalah salah satu faktor penentu
+kinerja lapis perkerasan jalan (AASHTO, 1993).
+
+Terutama agregat, mengingat persentase agregat dalam
+campuran perkerasan dapat mencapai 75-85% dari total
+volume campuran atau berkisar 90% dari total berat
+campuran (Shen, et al., 2004). Besarnya persentase ini
+tentunya akan memberikan pengaruh yang besar pula
+pada kinerja konstruksi lapis perkerasan yang
+dibentuknya. Sifat-sifat fisik agregat seperti penyebaran
+ukuran butir (gradasi) sangat mempengaruhi kinerja
+campuran perkerasan seperti: kekuatan, stabilitas, daya
+tahan, permeabilitas, daya dukung, ketahanan terhadap
+kelelahan dan kesanggupan untuk menahan pengaruh
+kelembaban. Di waktu yang lalu, ketika perhatian
+utama banyak diberikan pada lapisan perkerasan
+beraspal, meskipun sifat dari masing-masing lapisan
+beraspal dapat memberikan pengaruh yang besar
+terhadap kinerja lapis perkerasan, namun peranan dari
+gradasi agregat terhadap kelelahan tidak dapat
+disangkal. Namun demikian gradasi agregat dapat
+direkayasa sedemikian rupa sehingga memenuhi
+spesifikasi yang diisyaratkan, tetapi sifat-sifat fisik dan
+mekanik yang lainya dari agregat seperti abrasi, berat
+jenis dan penyerapan aspal adalah sifat-sifat yang tidak
+dapat direkayasa karena sudah melekat sebagaimana
+keberadaan agregat itu, dan sifat-sifat ini akan sangat
+menentukan kinerja campuran konstruksi perkerasan
+jalan, mengingat jumlah aspal yang akan diserap oleh
+agregat dalam suatu campuran sangat ditentukan oleh
+berat jenis agregat dan penyerapannya.
+Ditinjau dari jumlah anggaran yang dialokasikan untuk
+setiap proyek pembangunan prasarana jalan baik jalan
+nasional maupun jalan propinsi, lebih dari sepertiga
+dana pembangunan jalan dihabiskan untuk kebutuhan
+pengadaan agregat. Tingginya biaya yang harus
+dikeluarkan untuk kebutuhan agregat dalam suatu
+campuran lapis perkerasan dan mengingat besarnya
+pengaruh agregat dalam menentukan kualitas campuran
+lapis perkerasan jalan, maka perlu adanya penelitian
+yang komprehensif dan mendalam tentang sifat-sifat
+fisik agregat yang digunakan dalam campuran lapis
+perkerasan dan pengujian lanjutan tentang sifat-sifat
+mekanis dari campuran perkerasan, sehingga kinerja
+campuran dapat memenuhi tugas utama dari suatu lapis
+perkerasan (lapis permukaan) yakni sebagai lapisan
+yang memikul beban dan sebagai lapis tahan aus,
+sehingga umur rencana jalan dapat dicapai sesuai
+dengan yang direncanakan.
+Untuk mengetahui tingkat kelayakan dari agregat yang
+digunakan dalam campuran konstruksi perkerasan
+jalan, pada penelitian ini akan dilakukan pemeriksaan
+sifat-sifat fisik dari material agregat dan
+menghubungkannya dengan analisa Volumetric
+Marshall dari campuran aspal panas jenis AC-BC.
+Dalam penelitian ini material agregat yang digunakan
+adalah yang berasal dari daerah Sawangan, Kakaskasen
+dan Tateli.
+
+
+2. Landasan Teoritis
+2.1.Agregat
+Agregat adalah material batuan yang didefinisikan
+secara umum sebagai formasi kulit bumi yang keras
+dan kenyal (solid). (ASTM, 1995) mendefinisikan
+batuan sebagai suatu bahan yang terdiri dari mineral
+padat, berupa massa berukuran besar atau berupa
+fragmen-fragmen. Agregat, berdasarkan proses
+pembentukannya terdiri dari 2 jenis yaitu agregat alam
+dan agregat buatan. Agregat alam, berdasarkan proses
+pembentukannya, terbagi lagi atas batuan endapan,
+batuan beku dan batuan metamorph. Berdasarkan
+proses pengolahannya agregat dibedakan atas agregat
+alam yang mengalami proses pengolahan terlebih
+dahulu dan agregat buatan. Selain itu agregat juga
+dibagi berdasarkan ukuran butirannya, yaitu:
+a. Agregat kasar, yakni yang tertahan saringan no.4
+atau berukuran > 4,75mm menurut ASTM atau >
+2mm menurut AASHTO.
+b. Agregat halus, yakni yang lolos saringan no.4 atau
+berukuran < 4,75mm menurut ASTM atau < 2mm
+dan > 0,075mm menurut AASHTO.
+c. Bahan pengisi atau filler, termasuk agregat halus
+yang sebagian besar lolos saringan no.200
+Agregat merupakan komponen utama dari konstruksi
+perkerasan jalan yang berfungsi sebagai kerangka atau
+tulangan yang memikul beban yakni beban kendaraan
+yang melewati jalan tersebut. Jumlah agregat dalam
+suatu campuran lapis perkerasan jalan adalah berkisar
+90% dari total berat campuran atau sebesar 75-85%
+dari total volume campuran (Shen et. al, 2004) sisanya
+adalah aspal dan mineral pengisi (filler). Ada dua tugas
+pokok yang harus dipenuhi oleh suatu campuran
+perkerasan jalan yaitu (Puslitbang Prasarana
+transportasi, 2002) :
+1. Kemampuan memikul beban (struktual):
+a. Tahan terhadap perubahan akibat pembebanan
+b. Tahan terhahap gesekan
+c. Mendistribusikan beban kepada lapisan di
+bawahnya
+2. Kemampuan terhadap keausan (non struktural)
+a. Karena adanya beban lalu-lintas
+b. Karena adanya pelapukan
+c. Kerena adanya erosi
+Untuk memenuhi tugas pokok di atas, kualitas dari
+campuran perkerasan jalan sangat tergantung pada :
+a. Kualitas bahan pokok pembentuk campuran
+perkerasan yakni agregat dan aspal
+b. Gradasi, bentuk butiran dan keadaan permukaan
+butiran agregat
+c. Perbandingan jumlah aspal dan agregat dalam
+campuran
+d. Homogenitas dan kesempurnaan adukan dari campuran
+e. Kepadatan campuran
+Kualitas bahan pokok pembentuk campuran
+perkerasan ditentukan oleh sifat-sifat fisik dari
+material tersebut. Sifat-sifat fisik dan kimia material
+agregat meliputi (www,wsdot. Wa/pavementresearch.
+htm):
+a. Ukuran butir atau gradasi adalah distribusi
+ukuran butir agregat. Distribusi ukuran butir
+agregat akan menentukan besarnya rongga
+diantara agregat (VIM) dan Besarnya rongga
+diantara agregat akan mempengaruhi besarnya
+penggunaan aspal dalam campuran yang secara
+langsung akan mempengaruhi besarnya biaya
+pekerjaan konstruksi. Disamping itu distribusi
+ukuran butir agregat juga mempengaruhi daya ikat
+antar agregat yang pada akhirnya akan
+menentukan kinerja dari campuran perkerasan.
+b. Kebersihan dari pertikel halus yang melekat.
+Kondisi agregat yang kurang bersih karena adanya
+partikel-partikel halus berupa lumpur yang
+melekat pada permukaan agregat akan
+mempengaruhi kelekatan aspal terhadap agregat,
+hal ini perlu dihindari agar supaya penyelimutan
+aspal terhadap agregat dapat terjadi dengan
+sempurna, sehingga kekuatan (stabilitas)
+campuran dapat dicapai.
+c. Daya tahan agregat adalah kesanggupan agregat
+untuk menahan pengaruh pembebanan berupa
+beban lalu-lintas dan pemadatan. Tingkat
+kekerasan agregat sangat berpengaruh pada
+kesanggupan konstruksi perkerasan jalan dalam
+memikul beban lalu-lintas, karena fungsi utama
+agregat dalam campuran perkerasan adalah
+sebagai kerangka penopang struktur perkerasan.
+d. Bentuk dan tekstur agregat, stabilitas lapis
+perkerasan jalan sangat dipengaruhi oleh bentuk
+dan tekstur agregat yang membentuk campuran
+perkerasan. Bentuk yang bulat dengan tekstur
+permukaan yang licin akan mengakibatkan
+kurangnya ikatan atara butiran agregat sedangkan
+bentuk persegi dengan permukaan yang kasar
+akan menghasilkan campuran yang saling
+mengikat dan kuat. Bentuk agregat yang pipih
+mengakibatkan campuran kurang kuat memikul
+beban, karena agregat dengan bentuk demikian
+cenderung mudah patah.
+e. Penyerapan agregat, porositas agregat umumnya
+ditandai dengan jumlah air yang diserap ketika
+agregat direndam dalam air. Besarnya volume
+pori dalam partikel agregat akan menentukan
+besarnya penyerapan agregat terhadap aspal
+sehingga membuat campuran aspal menjadi
+kering. Aspal yang menyelimuti agregat akan
+lebih tipis dan mengakibatkan ikatan antar agregat
+mudah terlepas.
+f. Daya lekat terhadap aspal, agregat yang
+digunakan dalam campuran lapis perkerasan
+haruslah memiliki daya lekat terhadap aspal,
+kelekatan aspal pada agregat akan mengakibatkan
+agregat dengan mudah terselimuti oleh aspal dan
+dengan demikian akan tercipta campuran yang
+homogen dan kuat.
+
+
+2.2 Campuran beton aspal sebagai lapis
+perkerasan
+Sebagai salah satu jenis konstruksi lapis perkerasan,
+campuran beton aspal (AC-BC) yang merupakan
+campuran antara agregat, aspal dan abu batu sebagai
+material pengisi yang dicampur pada suhu yang
+panas, haruslah memiliki karakteristik sbb (Asphalt
+Institute, 1993) :
+a. Stabilitas, lapis perkerasan jalan harus memiliki
+kemampuan menerima beban lalu-lintas tanpa
+terjadi perubahan bentuk yang tetap, seperti alur
+ataupun bleeding. Stabilitas lapis perkerasan
+haruslah seimbang dengan besarnya beban lalulintas
+yang menggunakan jalan tersebut.
+b. Durabilitas, lapis perkerasan jalan harus tahan
+terhadap keausan yang diakibatkan oleh pengaruh
+cuaca, adanya air, perubahan suhu ataupun
+keausan karena adanya gesekan antara permukaan
+lapis perkerasan dengan roda kendaraan.
+c. Fleksibilitas, lapis perkerasan jalan harus bersifat
+lentur dalam menerima beban, dalam arti
+perkerasan dapat menerima beban dan mengikuti
+deformasi akibat adanya pembebanan tanpa
+berakibat retak atau perubahan volume.
+d. Kekesatan, lapis perkerasan jalan harus memilki
+permukaan yang tidak licin, sehingga kendaraan
+tidak mudah selip terutama diwaktu basah.
+e. Ketahanan leleh, campuran lapis perkerasan jalan
+diharapkan memiliki ketahanan terhadap
+pembebanan berulang-ulang tanpa mengalami
+alur atau retak.
+f. Kemudahan dalam pelaksanaan, suatu campuran
+lapis perkerasan haruslah mudah untuk dicampur,
+dihampar dan dipadatkan, sehingga kualitas
+campuran dapat dipertahankan mulai saat
+dicampur hingga dihamparkan di lapangan.
+
+Keterangan :
+Va : Volume pori dalam campuran yang dipadatkan
+Vb : Volume aspal dalam campuran yang
+dipadatkan
+Vba : Volume aspal yang terabsorbsi
+Vbc : Volume aspal effektif = Vb – Vba
+Vmb : Volume bulk campuran yang telah dipadatkan
+Vmm : Volume campuran tanpa volume udara
+Vsb : Volume agregat (Bulk)
+Vsc : Volume agregat (efektif)
+Vma : Volume pori antara butiran agregat.
+Untuk melihat apakah suatu campuran perkerasan
+memenuhi semua kriteria di atas, maka dilakukan
+pengujian Marshall yaitu untuk melihat sifat-sifat
+mekanik dari campuran yang meliputi: Stabilitas,
+kelelehan dan rongga udara dalam campuran.
+Analisa Volumetrik Marshall terhadap suatu campuran
+perkerasan adalah untuk melihat sifat-sifat fisik dan
+mekanik campuran perkerasan dan menghubungkannya
+dengan sifat-sifat fisik dari agregat yang membentuk
+campuran tersebut. Sifat fisik agregat yang akan
+ditinjau dalam analisa ini terutama adalah Gradasi,
+Berat jenis dan Penyerapan agregat terhadap aspal,
+Index kepipihan dan kebersihan agregat (Puslitbang
+Prasarana Transportasi, 2002).
+
+
+3. Metodologi Penelitian
+Penelitian ini dilakukan di laboratorium, dimana material
+agregat yang akan diteliti adalah agregat yang
+banyak digunakan pada campuran perkerasan jalan di
+Manado dan Minahasa, yakni berasal dari daerah
+Sawangan, Kakaskasen dan Tateli. Material aspal yang
+digunakan dalam penelitian ini adalah aspal penetrasi
+60/70. Perencanaan komposisi campuran mengikuti
+Gambar 1. Campuran aspal + agregrat yang sudah
+dipadatkan
+Sumber: Sukirman, S., 2003.
+prosedur metode Bina Marga untuk Beton Aspal lapis
+pengikat (AC-BC).
+Adapun prosedur penelitian yang dilakukan pada studi
+ini adalah sebagai berikut:
+Agregat diuji untuk melihat sifat-sifat fisiknya melalui
+analisa saringan, keausan (abrasi), pengujian sand
+equivalen. Dan terhadap aspal dilakukan pengujian
+penetrasi, titik nyala dan titik bakar, titik lembek serta
+daktilitas.
+1. Pengujian lanjutan dilakukan terhadap agregat yaitu
+meliputi analisa saringan, berat jenis dan penyerapan.
+2. Gradasi agregat adalah gradasi menerus
+menggunakan spesifikasi Bina Marga yang diterbitkan
+tahun 2003.
+3. Pembuatan benda uji berdasarkan gradasi agregat
+yang sudah direkayasa dengan variasi kadar aspal
+4,5%, 5%, 5,5%, 6%, 6,5%.
+4. Pemadatan benda uji dan pengujian Marshall
+campuran (AC-BC) dilakukan dengan metode
+kepadatan standar 2 x 75 tumbukan dan pemadatan
+2 x 400 tumbukan yaitu pada kadar aspal dengan
+VIM 6% untuk kepadatan mutlak, masing-masing
+menggunakan penumbuk Marshall konvensional.
+Jumlah sampel untuk tiap variasi kadar aspal adalah
+3 buah, masing-masing 15 buah untuk setiap
+agregat asal Sawangan, Kakaskasen dan Tateli.
+5. Hasil pengujian Marshall campuran menunjukkan
+sifat-sifat mekanik dari campuran yaitu Stabilitas,
+Kelelehan, Hasil bagi Marshall, VMA, VIM dan
+VFB.
+6. Analisa dan pembahasan hasil pengujian.
+
+
+4. Hasil Penelitian dan Pembahasan
+4.1.Hasil penelitian
+Hasil pengujian terhadap agregat asal Sawangan,
+Kakaskasen dan Tateli dapat dilihat pada Tabel 1.
+
+4.2 Pembahasan
+Hasil penelitian menunjukkan bahwa sekalipun gradasi
+dari ketiga agregat dibuat mengikuti spesifikasi
+yang sama, namun karakteristik dari masing-masing
+campuran berbeda-beda. Sebagaimana yang terlihat
+dari nilai-nilai Stabilitas, Kelelehan, Marshall Quotien,
+VMA, VIM dan VFB. Hal ini menunjukkan
+adanya pengaruh dari sifat-sifat fisik agregat yang
+digunakan dalam campuran terhadap karakteristik
+campuran perkerasan.
+
+
+4.2.1 Terhadap stabilitas
+Stabilitas adalah maksimum beban yang dapat
+ditahan oleh campuran beraspal sampai terjadi
+runtuh. Faktor-faktor yang mempengaruhi nilai
+stabilitas antara lain jumlah aspal dalam campuran,
+gradasi agregat, nilai abrasi dan kepipihan agregat.
+Hasil penelitian ditunjukkan (lihat Gambar 3) bahwa
+campuran yang menggunakan agregat asal Sawangan,
+Kakaskasen dan Tateli memiliki nilai stabilitas yang
+memenuhi spesifikasi yang disyaratkan untuk seluruh
+rentang kadar aspal. Stabilitas dari ketiga campuran
+juga menunjukkan kenaikan dengan bertambahnya
+persentase kadar aspal dan mencapai puncaknya pada
+suatu kadar aspal tertentu (kadar aspal optimum),
+setelah itu pertambahan persentase kadar aspal
+mengakibatkan penurunan nilai stabilitas. Hal ini
+menunjukkan suatu hubungan yang rasional antara
+stabilitas dengan persentase kadar aspal. Hasil pengujian
+juga menunjukkan bahwa campuran yang
+menggunakan agregat asal Sawangan memiliki stabilitas
+yang lebih tinggi dibandingkan campuran yang
+menggunakan agregat asal Kakaskasen dan tateli.
+Jika dihubungkan dengan sifat-sifat fisik dari masingmasing
+agregat, agregat asal Sawangan memiliki
+keausan yang lebih rendah dibandingkan dengan
+agregat asal Kakaskasen maupun Tateli, hal ini
+berarti agregat asal Sawangan lebih kuat memikul
+beban dan tidak mudah hancur, apalagi index kepipihannya
+lebih kecil dibandingkan dengan agregat
+yang lain.
+
+
+4.2.2.Terhadap flow
+Flow atau kelelehan plastis merupakan besaran deformasi
+yang terjadi sebelum terjadi keruntuhan. Faktorfaktor
+yang menentukan tinggi rendahnya nilai kelelehan
+(flow) antar lain komposisi agregat, Berat jenis
+dan penyerapan agregat serta kadar aspal dalam campuran.
+Hasil penelitian menunjukkan (lihat Gambar 4)
+bahwa untuk campuran yang menggunakan agregat
+asal Sawangan, nilai kelelehannya (flow) memenuhi
+spesifikasi yang disyaratkan yaitu di atas 3 mm,
+untuk semua rentang kadar aspal. Dari grafik
+hubungan antara kadar aspal dan kelelehan (flow)
+terlihat adanya hubungan yang rasional antara
+persentase kadar aspal dengan kelelehan. Sedangkan
+untuk campuran yang menggunakan agregat asal
+Kakaskasen dan tateli mencapai nilai kelelehan yang
+disyaratkan, yaitu 3 mm, setelah persentase kadar
+aspal mencapai 6,2%. Hal ini berhubungan dengan
+sifat-sifat fisik agregat yang digunakan dalam
+campuran. Agregat asal Sawangan memiliki berat
+jenis dan penyerapan yang kurang dibandingkan
+agregat asal Kakaskasen dan Tateli, berarti aspal yang
+diserap oleh agregat Sawangan sedikit sehingga
+penyelimutan aspal terhadap agregat dapat terjadi
+dengan sempurna dan campuran menjadi solid dan
+kuat. Sedangkan campuran yang menggunakan
+agregat asal Kakaskasen dan Tateli sekalipun
+stabilitasnya rendah dan seharusnya memiliki
+kelelehan yang tinggi, namun karena agregat-agregat
+ini memiliki penyerapan yang tinggi (rongga pada
+butiran agregat besar), mengakibatkan campuran
+memiliki kelelehan yang rendah (tidak mencapai
+spesifikasi yang disyaratkan).
+
+
+4.2.3 Terhadap marshall quotient
+Marshall quotient (MQ) merupakan perbandingan
+antara nilai stabilitas dan flow, artinya nilai MQ
+sangat ditentukan oleh besarnya stabilitas dan flow
+dari campuran. Nilai MQ yang terlalu tinggi
+menandakan campuran yang terlalu kaku sehingga
+perkerasan mudah retak jika dibebani, sedangkan
+nilai MQ yang terlalu rendah menandakan campuran
+yang terlalu plastis dan mudah terjadi perubahan
+bentuk.
+Hasil penelitian menunjukkan (lihat Gambar 5)
+ketiga campuran baik yang menggunakan agregat asal
+Sawangan, Kakaskasen maupun Tateli memiliki nilai
+MQ yang memenuhi spesifikasi yang disyaratkan.
+Untuk campuran yang menggunakan agregat asal
+Sawangan, nilai MQ cenderung meningkat (sedikit)
+seiring dengan bertambahnya persentase kadar aspal,
+sedangkan campuran yang menggunakan agregat asal
+Kakaskasen dan Tateli cenderung menurun (sedikit)
+mulai dari persentase kadar aspal 4,5%-6,5%. Hal ini
+menunjukkan bahwa stabilitas dari campuran yang
+menggunakan agregat asal Sawangan lebih besar
+(sedikit) dibandingkan kelelehannya. Sedangkan
+campuran yang menggunakan agregat asal
+Kakaskasen dan Tateli kelelehannya lebih besar
+(sedikit) dibandingkan dengan stabilitasnya. bahwa
+untuk campuran yang menggunakan agregat asal
+Sawangan, dari nilai MQ ini terlihat bahwa campuran
+yang menggunakan agregat asal Sawangan adalah
+campuran dengan perbandingan stabilitas dan
+kelelehan yang terbaik.
+
+4.2.4 Terhadap rongga udara dalam campuran
+(VIM)
+VIM merupakan volume pori yang masih tersisa setelah
+campuran beton aspal dipadatkan. Besarnya nilai VIM
+dipengaruhi oleh gradasi, berat jenis dan penyerapan
+serta persentasi kadar aspal. Nilai VIM yang terlalu
+besar mengakibatkan kurangnya kekedapan terhadap
+air, sehingga mempercepat penuaan aspal dan
+menurunnya sifat durabilitas beton aspal. Hasil
+penelitian untuk rentang kadar aspal antara 4,5% - 6,5%
+menunjukkan hubungan yang rasional antara persentasi
+kadar aspal dengan nilai VIM untuk masing-masing
+campuran. Namun untuk campuran yang menggunakan
+agregat asal Sawangan, nilai VIM yang memenuhi
+spesifikasi tercapai pada kadar aspal antara 4,5%-5,5%.
+Sedangkan Untuk campuran yang menggunakan
+agregat asal Kakaskasen dan Tateli sekalipun hubungan
+antara persentasi kadar aspal dengan nilai VIM
+menunjukkan suatu hubungan yang rasional, namun
+tidak memenuhi spesifikasi yang disyaratkan untuk
+seluruh rentang kadar aspal 4,5% - 6,5%. Hasil
+penelitian juga menunjukkan bahwa untuk campuran
+yang menggunakan agregat asal Kakaskasen dan Tateli
+akan dicapai nilai VIM yang memenuhi persyaratan
+pada kadar aspal yang lebih tinggi (lihat kecenderungan
+kurva VIM dan Kadar aspal).
+
+
+4.2.5 Terhadap rongga dalam mineral agregat
+(VMA)
+VMA adalah volume pori di dalam beton aspal padat
+jika selimut aspal ditiadakan, termasuk juga volume
+pori di dalam masing-masing butir agregat. Nilai VMA
+akan meningkat jika selimut aspal lebih tebal atau
+agregat yang digunakan bergradasi terbuka. Hasil
+penelitian menunjukkan untuk campuran yang
+menggunakan agregat asal Sawangan, Kakaskasen
+maupun Tateli nilai VMAnya menurun hingga pada
+kadar aspal optimum dan sesudah itu kembali
+meningkat pada kadar aspal yang lebih tinggi. Hal ini
+sejalan dengan teori yang mengatakan bahwa VMA
+akan meningkat jika selimut aspal lebih tebal atau
+persentasi kadar aspal ditingkatkan. Untuk ketiga
+campuran baik yang menggunakan agregat asal
+Sawangan, Kakaskasen maupun Tateli, menunjukkan
+kecenderungan yang sama, karena gradasi dari masingmasing
+agregat yang digunakan dalam campuran adalah
+sama, yaitu sesuai spesifikasi yang berlaku. Hal ini juga
+menunjukkan bahwa agregat Sawangan memiliki
+rongga dalam butiran agregat lebih kecil dibandingkan
+rongga dalam butiran pada agregat asal Tateli dan
+Kakaskasen.
+
+
+4.2.6 Terhadap rongga terisi aspal (VFB)
+VFB merupakan volume pori beton aspal padat yang
+terisi oleh aspal atau volume selimut aspal. Biasa juga
+disebut rongga terisi aspal. VFB dipengaruhi oleh persentase
+kadar aspal serta berat jenis dan penyerapan
+agregat. Hasil penelitian menunjukkan (lihat Gambar
+8) bahwa VFB meningkat seiring dengan bertambahnya
+persentasi kadar aspal untuk semua campuran,
+namun untuk campuran yang menggunakan agregat
+asal Sawangan nilai VFBnya memenuhi persyaratan
+spesifikasi untuk rentang kadar aspal 4,5%-6,5%
+sedangkan untuk campuran yang menggunakan agregat
+asal Kakaskasen nilai VFBnya memenuhi persyaratan
+spesifikasi pada persentasi kadar aspal 6,3%.
+Dan untuk campuran yang menggunakan agregat asal
+Tateli nilai VFB nya tidak memenuhi persyaratan spesifikasi.
+Hal ini disebabkan kerena sifat fisik agregat
+asal Sawangan khususnya berat jenisnya besar
+dibandingkan dengan berat jenis agregat asal
+Kakaskasen dan Taleli. Agregat asal Sawangan memiliki
+berat jenis bulk 2,655>2,5 (syarat min), berat
+jenis SSD 2,68>2,5 (syarat min), berat jenis apparent
+2,75 > 2,5 (syarat min) dibandingkan BJ. Bulk, BJ.
+SSD dan BJ Apparent agregat Kakaskasen 2,355;
+2,375; 2,37 dan Bj. Bulk, BJ. SSD dan BJ. Apparent
+agregat asal Tateli 2,315; 2,385; 2,37 sedangkan
+penyerapannya 1,02% < 3% (syarat maks).
+
+
+5. Kesimpulan
+1. Hasil evaluasi volumetrik marshall campuran ACBC
+yang menggunakan agregat asal Sawangan,
+Kakaskasen dan Tateli, memperlihatkan adanya
+pengaruh yang signifikan dari sifat-sifat fisik agregat
+terhadap pengujian Marshall campuran.
+2. Hasil yang diperoleh mulai dari nilai stabilitas,
+kelelehan, Hasil bagi Marshall, VIM, dan VFB
+menunjukkan bahwa agregat asal Sawangan adalah
+jenis agregat yang terbaik untuk digunakan dalam
+campuran perkerasan Jalan, dibandingkan dengan
+agregat asal Kakaskasen dan Tateli terutama untuk
+digunakan dalam campuran aspal panas, sebagaimana
+yang disyaratkan dalam spesifikasi
+teknik campuran aspal panas (Departemen Kimpraswil
+Direktorat Jenderal Prasarana Wilayah.,
+2004).

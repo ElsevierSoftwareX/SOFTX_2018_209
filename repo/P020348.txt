@@ -1,0 +1,98 @@
+﻿ABSTRAK
+Diberikan graf 𝐺 dengan himpunan titik 𝑉(𝐺) dan himpunan sisi 𝐸(𝐺). Graf total
+dari graf 𝐺 dinotasikan dengan 𝑇(𝐺) didefinisikan sebagai himpunan titik dari
+𝑇 𝐺 adalah 𝑉(𝐺) ∪ 𝑈(𝐺), dengan 𝑈(𝐺) adalah himpunan titik yang diperoleh
+dari penambahan satu titik di setiap sisi 𝑒 = 𝑣𝑖 𝑣𝑗 pada graf 𝐺. Sedangkan
+multiplisitas sikel dari graf total pada graf 𝐺 adalah jumlah maksimal sikel sisi
+yang disjoin dari graf total pada graf 𝐺. Dalam tugas akhir ini, dipelajari tentang
+multiplisitas sikel dari graf total pada graf 𝐶𝑛 , 𝑃𝑛 , dan dibahas tentang
+multiplisitas sikel dari graf total pada graf 𝐹𝑛 . Hasil penelitian ini, telah diketahui
+bahwa multiplisitas sikel dari graf total pada graf 𝐶𝑛 adalah 𝑛 + 1 dan
+multiplisitas sikel dari graf total pada graf 𝑃𝑛 is 𝑛 − 1. Selanjutnya, telah
+dibuktikan multiplisitas sikel dari graf total pada graf 𝐹𝑛 adalah
+𝑛2+ 17𝑛−18
+6
+untuk 𝑛 ganjil atau
+𝑛2+ 16𝑛−18
+6
+untuk 𝑛 genap, dengan 𝑛 adalah titik pada graf 𝐺.
+Kata Kunci : multiplisitas sikel, graf total, graf sikel, graf path, graf kipas.
+
+BAB I
+PENDAHULUAN
+1.1 Latar Belakang
+Matematika dikenal sebagai Mother of Science, karena matematika
+merupakan salah satu cabang ilmu pengetahuan yang mempunyai kelebihan
+dibandingkan cabang – cabang ilmu lainnya. Selain itu matematika juga
+mempunyai banyak manfaat, karena banyak permasalahan dalam kehidupan yang
+dapat diselesaikan dengan menggunakan konsep – konsep matematika. Dengan
+berkembangnya zaman dan kemajuan teknologi, maka matematika ikut pula
+berkembang. Diantara banyaknya bagian matematika yang terus berkembang,
+yang menarik untuk dikaji lebih lanjut adalah teori graf.
+Secara umum graf G adalah himpunan tak-kosong yang berhingga dari
+objek – objek yang disebut titik (vertex) bersama dengan himpunan pasangan takterurut
+yaitu sisi (edge). Himpunan titik G dinotasikan dengan V (G), sedangkan
+himpunan sisi dinotasikan dengan E (G).
+
+Menurut catatan sejarah, masalah jembatan Konigsberg adalah masalah
+yang pertama kali menggunakan graf (1736). Oleh karena itu, Euler (1707-1782)
+menjadi Bapak dari Teori Graf sebagaimana topologi ketika dia merumuskan
+mengenai masalah terkenal yang takterpecahkan di atas. Peristiwa itulah yang
+menjadi tombak sejarah munculnya Teori Graf dan terus berkembang sampai
+sekarang karena kajiannya berhubungan dengan pemecahan masalah sehari – hari.
+
+Meskipun masalah graf telah banyak diteliti oleh para ahli matematika,
+tetapi penelitian tentang multiplisitas sikel dari suatu graf belum banyak dilakukan
+orang, begitu juga multiplisitas sikel dari graf total tertentu. Multiplisitas sikel
+dari graf 𝐺 adalah banyaknya sikel sisi yang disjoin di graf 𝐺 yang dinotasikan
+dengan 𝐶𝑀(𝐺).
+Pada tugas akhir ini akan dibahas tentang multiplisitas sikel dari graf total
+pada graf sikel Cn, graf path Pn, dan graf kipas Fn berdasarkan.
+
+1.2 Rumusan Masalah
+Berdasarkan latar belakang di atas, maka rumusan masalah dalam tugas
+akhir ini adalah sebagai berikut :
+1. Bagaimana mendapatkan multiplisitas sikel dari graf total pada graf
+sikel Cn ?
+2. Bagaimana mendapatkan multiplisitas sikel dari graf total pada graf
+path Pn ?
+3. Bagaimana mendapatkan multiplisitas sikel dari graf total pada graf
+kipas Fn ?
+
+1.3 Pembatasan Masalah
+Permasalahan dalam tugas akhir ini hanya dibatasi pada multiplisitas sikel
+dari graf total pada graf sederhana, berhingga, dan tidak berarah.
+
+1.4 Tujuan Penulisan
+Adapun tujuan dari penulisan tugas akhir ini sebagai berikut :
+1. Mempelajari multiplisitas sikel dari graf total pada graf sikel Cn .
+2. Mempelajari multiplisitas sikel dari graf total pada graf path Pn .
+3. Menentukan multiplisitas sikel dari graf total pada graf kipas Fn .
+
+1.5 Metode Penulisan
+Metode yang digunakan penulis dalam penyusunan tugas akhir ini adalah
+metode tinjauan pustaka (Study Literature), yaitu dengan memahami beberapa
+jurnal mengenai graf dan pustaka-pustaka lain yang melandasi teori tentang graf
+seperti tertera dalam daftar pustaka. Terlebih dahulu penulis akan menjabarkan
+materi-materi dasar yang berkaitan dengan graf, seperti pengertian graf dan
+definisi-definisi yang berkaitan dengan graf. Penulis juga akan memberikan
+pengertian mengenai multiplisitas sikel dari graf total. Selanjutnya, menentukan
+multiplisitas sikel dari graf total pada graf sikel Cn,graf path Pn, dan graf kipas Fn.
+
+1.6 Sistematika Penulisan
+Sistematika penulisan tugas akhir ini meliputi empat bab, yaitu
+pendahuluan, teori penunjang, pembahasan dan penutup.
+Bab I merupakan pendahuluan yang mencakup latar belakang, rumusan
+masalah, pembatasan masalah, tujuan penulisan, metode penulisan dan sistematika
+penulisan.
+\
+Bab II merupakan teori – teori penunjang yang terdiri dari penjelasan
+mengenai pengertian graf, adjacent dan incident, graf terhubung, multiplisitas
+sikel, graf sikel Cn , graf path Pn, dan graf kipas Fn, serta teori – teori lain yang
+berkaitan.
+Bab III merupakan pembahasan tentang bagaimana mendapatkan
+multiplisitas sikel dari graf total pada graf sikel Cn , graf path Pn, dan graf kipas
+Fn, serta bagaimana membuktikan yang telah diperoleh.
+Bab VI merupakan penutup yang berisi kesimpulan dari penulisan karya
+tulis ini, dan juga saran yang diberikan sebagai pertimbangan bagi penulis
+selanjutnya.

@@ -1,0 +1,448 @@
+﻿Optimalisasi Kinerja Portofolio Investasi
+(Studi Kasus pada Dana Pensiun Pertamina)
+
+
+Abstract: Penelitian ini bertujuan untuk menganalisis kinerja investasi portofolio dan
+menganalisis komposisi portofolio investasi yang dapat memberikan hasil optimal. Berdasarkan
+hasil analisis, pengembalian rata-rata portofolio selalu melebihi target dari investasi tahunan.
+Perhitungan optimasi portofolio menggunakan dua asumsi, yaitu meminimalkan risiko portofolio
+dan memaksimalkan rata return portofolio. Rata-rata return sebelum optimalisasi portofolio
+adalah 11,85% dengan risiko 1,18%. Hasil optimasi portofolio dengan menggunakan asumsi
+risiko meminimalkan diperoleh rata-rata return dari 9.61% dengan risiko 0,68% dan rata-rata
+return sebesar 11,85% dengan risiko 0,68%. Sementara itu, hasil dari optimalisasi portofolio
+dengan menggunakan asumsi pengembalian memaksimalkan diperoleh rata-rata return sebesar
+13,00% dengan risiko 1,47% dan rata-rata return 12.59% dengan risiko 1,18%.
+Kata Kunci: dana pensiun, optimalisasi kinerja portofolio, return, resiko
+
+
+Undang-undang Nomor 11
+tahun 1992 tentang Dana
+Pensiun mendefinisikan Dana
+Pensiun sebagai badan hukum
+yang mengelola dan menjalankan
+program yang menjanjikan
+manfaat pensiun. Berdasarkan
+Undang-undang tersebut,
+Indonesia mengenal dua jenis dana pensiun, yaitu dana pensiun pemberi kerja (DPPK)
+dan dana pensiun lembaga keuangan (DPLK). Besarnya
+dana kelolaan dana pensiun mengharuskan pengurus
+dana pensiun melakukan pengelolaan dana pensiun
+secara prudent, profesional, dan produktif. Dana yang
+ada harus diinvestasikan pada sektor-sektor yang
+cepat menghasilkan return sesuai arahan investasi
+yang ditetapkan pendiri dan dewan pengawas. Dengan
+demikian diharapkan return portfolio yang dihasilkan dapat optimal dan mencapai target investasi. Jogiyanto
+(2007) berpendapat bahwa portofolio yang dibentuk
+oleh investor akan dipilih berdasarkan portofolio yang
+optimal dengan harapan untuk memperoleh hasil yang
+maksimal sesuai dengan tingkat risiko yang diinginkan.
+Penelitian ini akan difokuskan pada dana pensiun
+pemberi kerja (DPPK) dengan skema program pensiun
+manfaat pasti (PPMP). Dana pensiun dengan
+skema PPMP mengharuskan dana pensiun untuk
+dapat memperoleh return yang optimal, namun dana
+pensiun juga berkewajiban untuk menjaga kesinambungan
+pelaksanaan program pensiunnya sehingga
+diperlukan evaluasi dalam pengelolaan portfolio investasi
+dana pensiun. Hal ini dilakukan juga untuk mengetahui
+apakah strategi diversifikasi portofolio dan
+alokasi aset yang dilakukan tersebut sudah berjalan
+seharusnya, atau perlu perbaikan sehingga dapat dicapai
+tingkat kinerja portofolio yang optimal pada periode
+yang akan datang. Hal serupa dinyatakan oleh Ardianto
+(2004) dalam penelitiannya yang menyatakan bahwa
+evaluasi kinerja dibutuhkan untuk mengetahui kinerja
+yang dihasilkan mencapai target yang telah ditentukan
+dan juga dimaksudkan untuk dapat menjadi bahan
+pertimbangan dalam menentukan kebijakan investasi
+selanjutnya serta sebagai sarana umpan balik dan
+kontrol.
+Dana pensiun dengan dana kelolaan yang cukup
+besar, harus berpegang pada tiga landasan yang
+menjadi dasar keputusan investasi yaitu return yang
+diharapkan, tingkat risiko dan hubungan antara return
+dan risiko. Dana Pensiun Pertamina sebagai investor
+tentunya harus mengurangi risiko dengan cara melakukan
+diversifikasi investasi. Rizki (2009) membuktikan
+kebenaran akan konsep diversifikasi yang dapat
+menurunkan risiko. Diversifikasi investasi akan memberikan
+manfaat optimum apabila return antar
+investasi dalam satu portofolio berkorelasi negatif.
+Markowitz (1952) dalam penelitiannya telah membuktikan
+bahwa risiko berinvestasi dapat dikurangi
+dengan menggabungkan beberapa aset ke dalam
+sebuah portofolio. Metode Markowitz menunjukkan
+apabila aset-aset keuangan dalam suatu portofolio
+memiliki korelasi return yang lebih kecil dari satu,
+maka risiko portofolio secara keseluruhan dapat
+diturunkan. Institusi keuangan dan juga para investor
+berusaha agar risiko dapat dikuantifikasikan sehingga
+dapat memudahkan dalam pengambilan keputusan
+investasi.
+Berdasarkan Gambar 1 terlihat bahwa total investasi
+Dana Pensiun Pertamina cenderung mengalami
+peningkatan. Disisi lain kita lihat bahwa kenaikan
+total investasi tersebut tidak disertai oleh kenaikan
+return-nya. Hal inilah yang mendasari adanya dugaan
+bahwa komposisi portofolio investasi yang dimiliki oleh
+Dana Pensiun Pertamina masih belum optimal.
+Tujuan penelitian yang dilakukan penulis adalah
+sebagai berikut: (1) Menganalisis kinerja setiap jenis
+instrumen investasi dan portofolio investasi yang
+terbentuk pada Dana Pensiun Pertamina sejak tahun
+2010 hingga tahun 2013. (2) Menganalisis faktorfaktor
+yang mempengaruhi return portofolio investasi
+Dana Pensiun Pertamina. (3) Menganalisis komposisi portofolio investasi (asset allocation) yang dapat
+memberikan return yang paling optimal sehingga
+memberikan return yang tinggi dengan risiko tertentu.
+METODE PENELITIAN
+Pendekatan yang digunakan dalam penelitian ini
+adalah metode studi kasus. Analisis data yang digunakan
+adalah metode deskriptif dan metode kuantitatif
+yang dibatasi atas data portofolio investasi Dana Pensiun
+Petamina dalam kurun waktu Januari 2010 s.d.
+Desember 2014 yang meliputi deposito (deposito on
+call dan deposito berjangka), surat berharga negara,
+obligasi, sukuk, saham, penempatan langsung, serta
+tanah dan bangunan. Data-data tersebut merupakan
+data sekunder yang berasal dari internal Dana Pensiun
+Pertamina.
+Tahapan pengolahan data dan analisis data yang
+dilakukan adalah sebagai berikut: (1) Analisis kinerja
+untuk setiap jenis instrumen investasi dan untuk portofolio
+yang terbentuk pada Dana Pensiun Pertamina
+(Dengan melakukan perhitungan return dan risiko
+setiap jenis investasi, return dan risiko portofolio, dan
+Sharpe ratio). (2) Analisis faktor-faktor yang mempengaruhi
+return portofolio Dana Pensiun Pertamina
+dengan melakukan analisis regresi. (3) Penentuan portofolio
+optimal dengan bantuan Microsoft Excell
+program Solver. Pembatasan (contstrain) yang
+digunakan dalam penelitian ini adalah: (1) Besarnya
+total proporsi seluruh instrumen investasi adalah
+100% atau sama dengan satu. (2) Besarnya proporsi
+jenis instrumen investasi pada deposito lebih dari atau
+sama dengan 5%. (3) Besarnya proporsi jenis instrumen
+investasi pada deposito kurang dari atau sama
+dengan 10%. (4) Besarnya proporsi jenis instrumen
+investasi pada saham, obligasi, surat berharga negara,
+sukuk, penempatan langsung, dan tanah bangunan
+lebih dari atau sama dengan nol. (5) Besarnya proporsi
+jenis instrumen investasi pada saham kurang
+dari atau sama dengan 35%. (6) Besarnya proporsi
+jenis instrumen investasi pada obligasi kurang dari atau
+sama dengan 35%. (7) Besarnya proporsi jenis instrumen
+investasi pada surat berharga negara lebih dari
+atau sama dengan 50%. (8) Besarnya proporsi jenis
+instrumen investasi pada sukuk lebih dari atau sama
+dengan 5%. (9) Besarnya proporsi jenis instrumen
+investasi pada penempatan langsung lebih dari atau
+sama dengan 10%. (10) Besarnya proporsi jenis
+instrumen investasi pada tanah dan bangunan lebih
+dari atau sama dengan 15%.
+HASIL DAN PEMBAHASAN
+Analisis Kinerja Setiap Jenis Investasi
+Needham (2012) berpendapat bahwa trade-off
+antara risiko dan return merupakan langkah yang
+paling penting dalam menentukan strategi investasi
+yang sesuai. Ringkasan average return, risiko, dan
+rata-rata alokasi investasi untuk setiap jenis instrumen
+investasi yang dimiliki oleh Dana Pensiun Pertamina
+selama periode tahun 2010–2013 dapat dilihat pada
+Tabel 1. Dana Pensiun Pertamina termasuk dana pensiun
+yang cukup agresif karena memiliki penempatan
+investasi pada pasar modal dalam komposisi yang
+cukup besar. Berdasarkan Tabel 1 terlihat bahwa selama
+tahun 2010 s.d. 2013 penempatan investasi Dana
+Pensiun Pertamina sebagian besar ditempatkan pada
+surat berharga negara, saham, dan obligasi. Semantara
+itu, sebagian kecil penempatan investasi Dana Pensiun
+Pertamina dilakukan pada deposito, penempatan langsung,
+sukuk, serta tanah dan bangunan. Secara persentase,
+berdasarkan Tabel 1 terlihat bahwa alokasi
+investasi selama periode tahun 2010 s.d 2013 yang
+terbesar adalah penempatan investasi pada surat
+berharga negara (34.27%) dan saham (27.93%). Penempatan
+terbesar selanjutnya adalah pada jenis
+investasi obligasi yang mencapai 24.24%. Jumlah atas
+ketiga penempatan investasi tersebut mencapai 86.44%,
+sedangkan sisanya yaitu sebesar 13.56% tersebar
+pada deposito, sukuk, penempatan langsung, serta
+tanah dan bangunan.
+Pertamina
+Berdasarkan Tabel 1 terlihat bahwa jenis investasi
+yang memberikan average return lebih besar
+dari 10% diperoleh dari penempatan investasi pada
+saham, sukuk, obligasi, dan surat berharga negara.
+Hal ini sejalan dengan besarnya alokasi penempatan
+investasi tersebut dalam portofolio, kecuali alokasi
+instrumen investasi pada sukuk, di mana alokasi investasi
+sukuk selama periode penelitian hanya sebesar
+0.42%, namun average return yang diperoleh adalah
+sebesar 13.33%. Average return untuk intrumen
+investasi yang lainnya, yaitu instrumen investasi pada
+deposito, penempatan langsung, serta tanah dan bangunan tidak mencapai 10%. Penempatan investasi
+ini juga terbilang cukup kecil karena tidak mencapai
+7% untuk setiap jenis instrumen investasi.
+Dari sisi nilai risiko yang dimiliki oleh setiap jenis
+instrumen investasi yang dimiliki oleh Dana Pensiun
+Pertamina menunjukkan hal yang sedikit berbeda,
+dimana saham memiliki risiko yang terbesar, namun
+penempatan langsung dan tanah bangunan memiliki
+risiko yang lebih besar daripada instrumen investasi
+lainnya. Hal ini merupakan anomali atas konsep high
+risk high return, di mana penempatan langsung dan
+tanah bangunan tidak memiliki return yang terbesar,
+namun memiliki risiko yang cukup besar. Sukuk,
+obligasi, dan surat berharga negara memiliki risiko
+yang hampir sama yaitu berkisar antara 0.43%–
+0.61%, dengan return yang juga hampir sama, yaitu berkisar antara 10.36%–13.33%. Risiko ini lebih kecil
+daripada instrumen investasi pada saham. Hal ini
+sejalan dengan konsep high risk high return. Anomali
+atas konsep high risk high return terjadi jika
+kita bandingkan antara risiko yang dimiliki oleh obligasi
+dan surat berharga negara karena return yang dimiliki
+obligasi lebih besar daripada return surat berharga
+negara, namun risiko yang dimiliki oleh obligasi lebih
+kecil daripada surat berharga negara. Hal serupa juga
+terjadi antara jenis investasi penempatan langsung
+dengan tanah dan bangunan. Investasi penempatan
+langsung memiliki return yang lebih kecil daripada
+tanah dan bangunan, namun penempatan langsung
+memiliki risiko yang lebih besar daripada tanah dan
+bangunan.
+Analisis Kinerja Portofolio Investasi
+Tonks (2005) berpendapat bahwa pada dana
+pensiun manfaat pasti, kebijakan portofolio investasi harus lebih berhati-hati karena rasio kecukupan dana
+harus benar-benar dijaga agar tidak merepotkan pendiri
+dan peserta dana pensiun. Hal ini disebabkan oleh
+risiko pendanaan yang terletak pada pemberi kerja karena pemberi kerja bertanggung jawab secara
+penuh atas pendanaan dana pensiun. Pemberi kerja
+berkewajiban untuk membayar iuran normal dan iuran
+tambahan (jika ada). Rasio kecukupan dana (RKD)
+merupakan perbandingan antara kekayaan pendanaan
+dengan kewajiban aktuaria. Rasio kecukupan dana
+yang mencapai lebih dari 100% dapat dikatakan dana
+pensiun dalam keadaan surplus, namun jika rasio kecukupan
+dana kurang dari 100% berarti dana pensiun
+berada dalam kondisi defisit sehingga pendiri selain
+mambayar iuran normal juga diharuskan membayar
+iuran tambahan yang besarannya ditentukan berdasarkan
+perhitungan aktuaris. Rasio kecukupan dana yang
+dapat melebihi 120% dapat digunakan sebagai pengurang
+iuran normal. Selama periode penelitian, Dana
+Pensiun Pertamina belum pernah mencapai rasio
+kecukupan dana diatas 120%, namun masih berada
+dalam kondisi terpenuhi, kecuali yang terjadi pada tahun
+2013, di mana Dana Pensiun Pertamina mengalami
+defisit dengan rasio kecukupan dana hanya sebesar
+96.70%.
+
+Risiko investasi dana pensiun dengan skema
+program pensiun manfaat pasti juga berada pada
+pemberi kerja. Hal ini berbeda dengan dana pensiun
+dengan skema program pensiun iuran pasti, di mana
+risiko investasi ada pada peserta. Berdasarkan
+Gambar 3 terlihat bahwa average return yang
+diperoleh oleh Dana Pensiun Pertamina selalu mencapai
+target investasi yang ditetapkan dalam Rencana
+Kerja Anggaran Perusahaan (RKAP). Namun, return
+portofolio investasi yang telah melebihi target investasi tersebut belum dapat meningkatkan rasio kecukupan
+dana Dana Pensiun Pertamina.
+
+Berdasarkan Tabel 2 terlihat bahwa dalam empat
+tahun terakhir return yang diperoleh oleh Dana Pensiun
+Pertamina berkisar antara 10.09%–12.85% dengan
+risiko sebesar 1.03%–1.32%. Return yang diperoleh
+oleh Dana Pensiun Pertamina merupakan return
+yang cukup besar, namun memiliki risiko yang kecil.
+Analisis Return Relatif terhadap Risiko
+Analisis return relatif terhadap risiko yang digunakan
+dalam penelitian ini adalah Sharpe ratio. Sharpe ratio mengukur seberapa besar excess return yang
+dihasilkan terhadap setiap unit total risiko (Arugaslan,
+et al. 2008). Sharpe ratio yang bernilai positif menunjukkan
+bahwa portofolio investasi yang terbentuk
+mampu memberikan tambahan hasil investasi yang
+lebih besar dari risk free asset. Indikator risk free
+asset yang digunakan dalam penelitian ini adalah
+menggunakan BI rate. Semakin tinggi nilai positif
+sharpe ratio, maka semakin baik kinerja portofolio
+tersebut atau semakin kecil sharpe ratio, maka
+portofolio investasi tersebut semakin berisiko.
+
+Berdasarkan hasil perhitungan diatas, diperoleh
+nilai Sharpe ratio sebesar 4.673. Hal ini berarti
+portofolio yang dimiliki oleh Dana Pensiun Pertamina
+mampu memberikan tambahan hasil investasi yang
+lebih besar dari risk free asset terhadap total risiko
+portofolio investasi yang dimiliki oleh Dana Pensiun
+Pertamina.
+Analisis Faktor-faktor yang Mempengaruhi
+Return Portofolio Dana Pensiun Pertamina
+Uji asumsi klasik dilakukan sebelum dilakukan
+analisis regresi yang meliputi uji normalitas, uji heterokedastisitas,
+uji multikolinieritas, dan uji autokorelasi.
+
+Hasil uji asumsi klasik telah terpenuhi kecuali uji
+normalitas. Pelanggaran ini diatasi dengan melakukan
+transformasi data, yaitu dengan menggunakan transformasi
+akar. Ringkasan hasil uji asumsi klasik disajikan
+pada Tabel 4.
+Uji Asumsi Klasik Sebelum transformasi data
+Setalah transformasi data: (1) Uji normalitas. Sig. KS
+(0.037) < 0.05 (Residual tidak normal) Sig. KS (0.200)
+> 0.05 (Residual normal). (2) Uji autokorelasi. Nilai
+DW 1.948 (Tidak terdapat autokorelasi) Nilai DW
+1.520 (Tidak ada autokorelasi). (3) Uji Heterokedasitas
+Prob. Obs*R-Squared 0.6977 (Tidak ada heterokedasitas)
+Prob. Obs*R-Squared 0.0625 (Tidak ada
+heterokedasitas) (4) Uji Multikolinieritas VIF untuk
+semua peubah < 10 (tidak terjadi multikolinieritas
+antar peubah) VIF untuk semua peubah < 10 (Tidak
+terjadi multikolinieritas antar peubah)
+Berdasarkan Tabel 5 dapat disimpulkan bahwa
+return deposito, obligasi, penempatan langsung, saham,
+surat berharga pemerintah, serta tanah dan bangunan berpengaruh
+signifikan terhadap return portofolio. Sementara
+itu, return sukuk dan return penempatan langsung
+tidak berpengaruh signifikan terhadap return portofolio.
+Hasil uji F menghasilkan nilai probabilitas sebesar
+0.000000 yang berarti bahwa variabel independen (return
+portofolio) secara bersama-sama berpengaruh
+signifikan terhadap variabel dependen (return setiap
+jenis investasi) pada tingkat signifikansi 95%. Nilai
+R-squared yang diperoleh adalah sebesar 0.990311.
+Hal ini berarti return setiap jenis investasi mampu
+menjelaskan return portofolio sebanyak 99.03%, sedangkan
+sisanya dipengaruhi oleh variabel lain yang
+tidak terdapat pada model.
+Analisis Portofolio Optimal
+Penentuan portofolio optimum dengan menggunakan
+tujuh instrumen investasi yang dimiliki oleh Dana Pensiun Pertamina dilakukan dengan menggunakan
+Microsoft Excell program Solver dengan
+menggunakan dua asumsi, yaitu meminimasi standar
+deviasi portofolio dan memaksimasi average return.
+Sebelum dilakukan optimalisasi portofolio, average
+return yang dimiliki oleh Dana Pensiun Pertamina
+adalah sebesar 11.85% dengan risiko investasi sebesar
+1.18%. Tabel 6 memperlihatkan rata-rata alokasi sebelum
+pengukuran optimalisasi dan setelah dilakukan
+pengukuran optimalisasi dengan mengunakan kedua
+asumsi tersebut. Alokasi investasi menggambarkan
+besarnya dana yang harus diinvestasikan oleh investor
+dalam suatu jenis investasi (Eko, 2008).
+Optimalisasi satu dan dua menggunakan asumsi
+yang pertama, yaitu meminimasi risiko portofolio.
+Optimalisasi satu (optimalisasi 1) dilakukan dengan
+menggunakan asumsi minimasi risiko dengan batasan
+seperti telah diungkapkan pada bab Metodologi Penelitian.
+Berdasarkan hasil perhitungan ini diperoleh risiko
+yang sangat kecil yaitu dengan standar deviasi
+sebesar 0.30%. Namun demikian, average return
+yang diperoleh juga mengalami penurunan dari 11.85%
+menjadi 9.61%. Penurunan nilai average return
+bukan merupakan hal yang diinginkan baik oleh pendiri
+dana pensiun maupun oleh pengurus dana pensiun.
+Penurunan hasil investasi dapat menandakan penurunan
+kinerja dari pengurus dana pensiun. Hal ini juga
+berarti dikhawatirkan menambah beban bagi pemberi
+kerja karena risiko pendanaan dan risiko investasi bagi
+dana pensiun dengan skema program pensiun manfaat
+pasti merupakan tanggung jawab pendiri.
+Hasil perhitungan optimalisasi dua (optimalisasi
+dua) juga menggunakan minimasi risiko portofolio,
+namun dalam perhitungan optimalisasi ini ditambahkan
+batasan (constrain) berupa average return portofolio
+adalah lebih dari atau sama dengan average return
+portofolio sebelum optimalisasi (average return
+>= 11.85%). Pada hasil optimalisasi ini diperoleh
+average return sama dengan sebelum dilakukan
+optimalisasi, namun memiliki risiko portofolio yang
+lebih kecil, yaitu 0.68%. Pada hasil perhitungan ini
+diperoleh nilai risiko portofolio yang lebih besar daripada
+nilai risiko portofolio yang dilakukan pada perhitungan
+optimalisasi yang pertama, namun memiliki
+avarage return yang lebih besar.
+Optimalisasi tiga dan empat menggunakan asumsi
+yang kedua, yaitu maksimasi average return portofolio.
+Optimalisasi tiga dilakukan dengan cara maksimasi
+average return portofolio dengan menggunakan
+batasan seperti yang telah dikemukakan pada bab
+Metodologi Penelitian. Berdasarkan Tabel 6 terlihat
+bahwa average return portofolio yang dihasilkan dari
+hasil optimalisasi ini, yaitu 13% adalah lebih besar
+dari pada sebelum dilakukan optimalisasi (11.85%).
+Namun demikian, risiko portofolio juga mengalami
+kenaikan, yaitu dari 1.18% menjadi 1.47%.
+Hasil perhitungan optimalisasi keempat (optimalisasi
+4) dilakukan dengan menggunakan asumsi
+maksimasi average return portofolio dengan tambahan
+batasan (constrain) yaitu risiko portofolio adalah
+kurang dari atau sama dengan risiko portofolio
+sebelum dilakukan optimalisasi (1.18%). Average
+return portofolio yang dihasilkan adalah sebesar
+12.59%.
+Berdasarkan analisis diatas terlihat bahwa hasil
+investasi Dana Pensiun Pertamina belum dapat memberikan
+hasil yang optimal. Hal serupa juga terjadi
+pada penelitian Egbe, et al. (2013) dalam penelitiannya
+pada dana pensiun di Nigeria. Febriyanti (2008)
+juga melakukan perhitungan optimalisasi dengan menggunakan
+perusahaan asuransi sebagai objek penelitian.
+Hasil penelitiannya menyatakan bahwa perusahaan
+asuransi ABC belum memiliki alokasi investasi yang
+dapat memberikan tingkat imbal hasil yang optimal.
+Implikasi Manajerial
+Dana Pensiun Pertamina sebaiknya mempertimbangkan
+untuk meningkatkan batasan investasi untuk instrumen investasi pada sukuk dan obligasi agar dapat
+memberikan hasil yang optimal.
+Dana Pensiun Pertamina sebaiknya mempertimbangkan
+penambahan jumlah investasi pada sukuk
+dan obligasi (asumsi terdapat peningkatan batasan
+maksimal pada kedua jenis instrumen investasi) serta
+mempertimbangkan pengurangan jumlah investasi
+surat berharga negara, tanah dan bangunan, serta
+penempatan langsung.
+Dana Pensiun Pertamina sebaiknya melakukan
+perhitungan optimalisasi portofolio sebelum ditetapkannya
+rencana investasi tahunan untuk tahun berikutnya.
+SIMPULAN DAN SARAN
+Simpulan
+Selama periode penelitian, instrumen investasi
+yang memiliki average return terbesar (secara berurutan),
+yaitu saham, sukuk, obligasi, surat berharga
+negara, deposito, tanah dan bangunan, dan penempatan
+langsung. Dari sisi risiko, instrumen investasi
+yang memiliki risiko terbesar (secara berurutan), yaitu
+saham, penempatan langsung, tanah dan bangunan,
+sukuk, surat berharga negara, obligasi, dan deposito.
+Secara tahunan, sejak tahun 2010 s.d. 2013,
+average return portofolio yang dihasilkan selalu
+melebihi target investasi tahunan yang ditetapkan
+dalam RKAP. Sementara itu, nilai rasio kecupan dana
+(RKD) selalu dalam kondisi dana terpenuhi (lebih dari
+100%), kecuali yang terjadi pada rasio kecukupan
+dana tahun 2013 yang hanya mencapai 96.70%.
+Berdasarkan hasil analisis regresi diperoleh
+kesimpulan bahwa instrumen investasi pada deposito,
+saham, obligasi, surat berharga negara, serta tanah
+dan bangunan memiliki pengaruh yang signifikan
+terhadap return portofolio, sedangkan investasi pada
+sukuk dan penempatan langsung memiliki pengaruh
+yang tidak signifikan terhadap return portofolio.
+Sebelum dilakukan optimalisasi, average return
+portofolio yang dihasilkan adalah sebesar 11.85%
+dengan risiko 1.18%.
+Hasil optimalisasi dengan asumsi meminimalisasi
+risiko portofolio menghasilkan dua alternatif hasil optimalisasi,
+yaitu optimalisasi satu dengan average return
+portofolio sebesar 9.61% dan risiko 0.30% serta
+hasil optimalisasi dua dengan average return portofolio
+11.85% dan risiko 0.68%.
+Hasil optimalisasi dengan asumsi memaksimalisasi
+average return portofolio menghasilkan dua
+alternatif hasil optimalisasi, yaitu optimalisasi tiga
+dengan average return portofolio sebesar 13% dan
+risiko 1.47% serta hasil optimalisasi empat dengan
+average return portofolio sebesar 12.59% dan risiko
+1.18%.

@@ -1,0 +1,112 @@
+﻿ABSTRAK
+Seiring dengan pesatnya kemajuan teknologi internet dan kemudahan dalam akses
+untuk penggunaan teknologi tersebut saat ini, memunculkan gagasan untuk
+pemanfaatannya dalam membantu manajer proyek dalam hal ini yang mewakili pemilik
+proyek/owner sebagai Pejabat Pembuat Komitmen untuk melakukan pekerjaan monitoring
+dan evaluasi pada proyek-proyek yang berada dibawah naungannya. Dalam hal waktu
+kerja, manajer proyek tersebut mempunyai keterbatasan waktu kerja untuk melakukan
+pekerjaan monitoring dan evaluasi setiap hari karena proyek yang tangani seringkali lebih
+dari 1 (satu) yang waktu kegiatan berjalan bersamaan.
+Agar sistem informasi dapat disimpan dan mudah diakses kapan saja secara online,
+maka diperlukan sebuah database server yang dapat menampung data dan informasi yang
+telah dimasukkan ke dalam website. Informasi dalam database selain diperuntukkan bagi
+pemilik proyek juga dapat diakses oleh pihak-pihak lainnya yang mempunyai kepentingan
+tertentu dalam pelaksanaan proyek. Tersedianya sistem laporan kemajuan proyek dan
+informasi pengajuan pembayaran yang terintegrasi untuk memudahkan dan mempercepat
+proses pelaporan kepada pemilik proyek.
+Pengembangan sistem informasi manajemen proyek ini menggunakan metode
+waterfall model yang paling umum digunakan. Pembuatan aplikasi berbasis website
+pemrogramannya menggunakan HTML dan PHP dengan MySQL digunakan sebagai
+database servernya. Tanggapan dan masukan dari calon pengguna turut memberikan andil
+dalam perbaikan dan pengembangan sistem informasi ini agar dapat direalisasikan.
+Sistem yang dihasilkan memberikan informasi kemajuan pekerjaan yang terbaharui
+tiap minggu melalui halaman Dashboard yang diinput oleh penyedia jasa, sistem
+pengarsipan dokumen-dokumen proyek yang terintegrasi dan online dapat diakses
+sewaktu-waktu oleh pihak-pihak yang terlibat. History kegiatan baik masalah dan solusi
+selama pelaksanaan proyek terekam dalam website ini melalui bagian Diskusi dan Foto,
+sehingga dapat menjadi acuan bagi perencanaan dan pelaksanaan proyek-proyek yang
+serupa nantinya.
+Data dan informasi serta dokumen yang tersimpan dalam server memudahkan dan
+mempercepat penyimpanan selain itu juga berfungsi sebagai dokumen cadangan/backup
+dari dokumen fisik/hardcopy dalam bentuk digital. Selain pemahaman tentang pelaksanaan
+proyek, tanggapan dan masukan dari calon pengguna sangat membantu dalam
+pengembangan website. Perlu perbaikan fitur-fitur yang telah ada dan penambahan fiturfitur
+baru yang sesuai dengan kebutuhan pemilik proyek agar sistem informasi manajemen
+proyek berbasis website ini dapat berfungsi maksimal.
+Kata kunci : sistem informasi, manajemen proyek, website, monitoring dan evaluasi
+
+
+BAB I
+PENDAHULUAN
+1.1. Latar Belakang
+Perkembangan di bidang teknologi informasi khususnya teknologi internet dapat
+mempermudah dan membantu berbagai bidang pekerjaan yang terkait dengan kemudahan
+akses, jarak dan waktu. Makin mudahnya akses internet pada masa sekarang turut
+mendorong berbagai industri konstruksi termasuk dikalangan pemerintah ikut serta
+memanfaatkannya.
+Pada proyek pemerintah, setiap kegiatan pengadaan barang/jasa dipimpin oleh
+seorang yang menjabat sebagai Pejabat Pembuat Komitmen (PPK) atau bisa disebut
+sebagai manajer proyek (owner) yang mempunyai kemampuan manajemen untuk
+mengatur atau mengelola suatu kegiatan. Seorang manajer proyek dapat mempunyai
+tanggung jawab untuk melaksanakan lebih dari satu kegiatan mulai proses pra-lelang
+sampai dengan serah terima kegiatan oleh penyedia jasa. Dalam melakukan tugasnya,
+seorang manajer proyek dibatasi oleh kemampuannya terutama dalam hal ketersediaan
+waktu untuk memantau pelaksanaan kegiatan setiap hari. Hal tersebut dapat membuat
+kegiatan pemantauan dan koordinasi dalam proyek tidak berjalan maksimal.
+Koordinasi yang baik sangat diperlukan untuk kesinambungan dan komunikasi antar
+pihak yang terlibat dalam suatu proyek. Oleh karena itu pada masa sekarang ini, dunia
+teknologi informasi dapat membantu dan memberi kemudahan seorang manajer proyek
+untuk melakukan pemantauan dan pengawasan suatu kegiatan dalam lingkungannya.
+Sistem database informasi yang terintegrasi dan mudah diakses dapat dikembangkan
+untuk menyimpan semua informasi proyek yang diperlukan oleh manajer proyek
+(owner/PPK) dibantu oleh seluruh komponen yang terlibat dalam kegiatan yang terkait.
+Berdasarkan beberapa kondisi dalam pengelolaan beberapa proyek, mengelola database
+dokumen proyek dengan baik sangatlah penting dikarenakan setiap pemilik proyek
+memiliki kepentingan dan kebutuhan yang berbeda.
+Sekarang ini telah banyak tersedia perangkat lunak untuk dapat membantu tugastugas
+seorang manajer proyek (owner/PPK) dalam melakukan pemantauan dan
+pengawasan secara offline maupun online. Kebutuhan akan akses informasi yang
+transparan dan cepat seringkali diperlukan pada kondisi dan keadaan tertentu. Dalam
+penelitian ini akan dikembangkan perangkat lunak yang menyesuaikan dengan kebutuhan
+dari pemilik proyek serta situasi dan kondisi di lingkungan proyek.
+
+1.2. Rumusan Permasalahan
+Untuk dapat membantu dalam melaksanakan tugas–tugas seorang manajer proyek
+(owner/PPK) perlu dibangun sebuah sistem informasi yang baik dan terintegrasi berupa
+perangkat lunak sehingga mampu untuk menterjemahkan dan memberikan informasi
+seluruh kegiatan yang ada dilapangan dan dapat diakses secara online. Sistem informasi ini
+harus dibuat sesuai dengan kebutuhan manajer proyek (owner/PPK) bersama timnya selaku
+wakil dari pemilik proyek.
+
+1.3. Maksud dan Tujuan Penelitian
+1.3.1. Maksud Penelitian
+Maksud dari penelitian ini adalah membuat sistem perangkat lunak berbasis website
+untuk pengembangan sistem informasi manajemen proyek yang mampu memberikan
+informasi kepada pihak-pihak proyek khususnya manajer proyek (owner/PPK) terkait
+monitoring dan evaluasi pekerjaan di lapangan.
+
+1.3.2. Tujuan Penelitian
+Tujuan dari penelitian ini adalah :
+1. Tersedianya sebuah database proyek agar dapat menyimpan data dan informasi
+proyek.
+2. Tersedianya sebuah sistem informasi secara online bagi manajer proyek (owner/PPK)
+dan pihak-pihak lain yang terlibat dalam proyek mengenai kemajuan pekerjaan di
+lapangan.
+3. Tersedianya sistem pelaporan proyek konstruksi yang terintegrasi dan tersimpan
+dengan baik serta menyediakan sarana bagi penyedia jasa dalam hal memberikan
+laporan kemajuan pekerjaan dan pengajuan pembayaran hasil pekerjaan.
+1.4. Manfaat Penelitian
+Manfaat penelitian ini adalah dapat memberikan kontribusi bagi Universitas
+Diponegoro dalam penanganan manajemen proyek yang berbasis website di
+lingkungannya dan mempermudah bagi penyedia jasa dalam hal pelaporan bidang jasa
+konstruksi serta menambah ilmu pengetahuan tentang pemanfaatan teknologi informasi
+dalam pengelolaan sebuah proyek khususnya di bidang konstruksi.
+
+1.5. Batasan Penelitian
+Pembahasan pada penelitian ini dibatasi pada proses monitoring dan evaluasi
+pelaksanaan proyek pasca lelang, yakni pada hal penjadwalan, pemantauan kegiatan dan
+sistem pelaporan proyek rekanan penyedia jasa yang berbasis website. Pengendalian
+proyek yang diteliti berada pada pimpinan proyek bidang konstruksi yang ditunjuk sebagai
+wakil pemilik proyek/owner dengan meneliti pengembangan sistem pengawasan dan
+evaluasi proyek yang mempunyai nilai fisik di atas Rp. 1 Milyar, termasuk didalamnya
+pelaporan dan kinerja proyek berbasis website.

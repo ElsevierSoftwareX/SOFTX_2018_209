@@ -1,0 +1,349 @@
+﻿Studi Numerik Usulan Jarak Pengaku Badan Diagonal Link Geser pada
+Struktur Baja Eccentrically Braced Frame Type–D
+
+Abstrak
+Struktur portal baja Eccentrically Braced Frame type–D (EBF-D) dengan link geser berpengaku badan dimodelkan dalam
+penelitian ini menggunakan perangkat lunak MSC Nastran. Pembebanan diberikan secara monotonik dan siklik dengan
+kontrol perpindahan. Model struktur link geser berpengaku badan vertikal didesain dengan jarak pengaku sesuai dengan
+ketentuan AISC 2005. Model yang lain didesain menggunakan link geser berpengaku badan diagonal dengan jarak pengaku
+antara 30tw-d/5 sampai dengan panjang link (e) atau didesain tidak memenuhi syarat AISC 2005. Parameter konfigurasi
+pengaku badan diagonal, jarak pengaku (a), panjang link (e), tebal badan link (tw), tebal sayap link (tf) dan tebal pengaku
+vertikal (tsv) maupun diagonal (tsd) diteliti dalam penelitian ini. Hasil penelitian menunjukkan kinerja struktur portal EBF-D
+link geser berpengaku badan diagonal lebih baik dibandingkan dengan berpengaku vertikal dari segi kekuatan, kekakuan,
+daktilitas maupun penyerapan energi dissipasi akibat beban gempa. Jarak optimal antara pengaku badan vertikal yang
+menggunakan pengaku diagonal diusulkan sebesar 1,6 (30tw-d/5) dengan ketebalan minimum pengaku badan diagonal 5,5
+mm atau sama dengan tebal badan dan 8 mm untuk tebal minimum pengaku vertikal.
+Kata-kata Kunci: Eccentrically Braced Frame type–D (EBF-D), link geser, beban monotonik, beban siklik,
+pengaku badan diagonal, pengaku badan vertikal, kekuatan, kekakuan, daktilitas dan energi
+dissipasi.
+
+1. Pendahuluan
+Penelitian yang pernah dilakukan (Gobarah & Ramadan,
+1991; Kurdi, 2002 juga Popov,1983) menunjukkan
+bahwa sistem Eccentrically Braced Frames (EBF)
+memiliki respons yang lebih baik dari sistem Concentrically
+Braced Frame (CBF) maupun sistem Moment
+Resisting Frame (MRF) ketika menerima beban gempa
+(siklik) pada saat struktur sudah leleh inelastik.
+Konfigurasi ketiga struktur portal MRF, CBF dan EBF
+ditunjukkan pada Gambar 1.
+
+Respon yang baik dari struktur portal EBF disebabkan
+kemampuan menyerap energi yang sangat besar dan
+konsisten tanpa terjadi pengurangan kekakuan sampai
+sejumlah putaran (cycle) yang cukup tinggi (Hjelmstad
+dan Popov, 1983).
+Sistem EBF penyerapan energi melalui mekanisme pembentukan
+sendi plastis pada elemen active link. Kelelehan yang
+terjadi pada active link ini dapat berupa kelelehan geser atau
+lentur dan diijinkan deformasi yang cukup besar. Prilaku
+elemen link dipengaruhi panjang-pendeknya dimana link
+berprilaku sebagai link momen (moment link) atau geser
+(shear link).
+Berdasarkan studi yang telah dilakukan prilaku link sebagai
+link geser (shear link) dengan jarak dan tebal pengaku badan
+didesain sesuai ketentuan Seismic Provisions for Structural
+Steel Buildings terbukti memberikan tingkat dissipasi energi
+yang tinggi serta kapasitas inelastik yang lebih tinggi pula.
+Selanjutnya, dengan kombinasi parameter panjang elemen
+link dan konfigurasi pengaku badan baik vertikal maupun
+diagonal diharapkan diperoleh suatu sistem struktur portal
+EBF-D yang handal dari segi kekuatan, kekakuan, daktilitas
+maupun energi dissipasi saat menerima beban gempa.
+
+
+2. Sistem Struktur Berpenopang Eksentrik
+(EBF)
+Berdasarkan Seismic Provisions for Structural Steel
+Buildings terdapat beberapa bentuk sistem portal EBF yang
+umum digunakan seperti pada Gambar 2.
+
+Penyerapan energi gempa pada sistem EBF-D dilakukan
+melalui mekanisme pembentukan sendi plastis pada elemen
+link. Distribusi gaya struktur portal EBF-D dapat dilihat pada
+Gambar 3. Gaya geser pada link konstan sepanjang elemen
+link sedangkan momen dan gaya aksial cukup kecil. Dari
+gambar menunjukkan indikasi bahwa daerah ujung link yang
+merupakan pertemuan link dan kolom harus menjadi
+perhatian khusus demikian juga daerah sepanjang badan link
+(Okazaki et.al, 2005).
+
+2.1 Elemen link
+Elemen link merupakan bagian dari balok yang direncanakan
+untuk mendissipasi energi saat terjadinya gempa kuat.
+Kelelehan yang terjadi pada elemen link berupa kelelehan
+geser atau kelelehan lentur. Tipe kelelehan ini sangat
+tergantung pada panjang link tersebut (Engelhardt dan
+Popov, 1989 serta Hashemi, 2011). Gambar 4 menunjukkan
+distribusi gaya pada elemen link. Dari gambar, MB
+dan MC adalah momen pada ujung balok dan kolom link.
+Dan V adalah gaya geser link. Gaya aksial karena sangat
+kecil dapat diabaikan. Di dalam kasus ini, dimana persamaan
+momen ujung sama besarnya sehingga MB=MC=M.
+Persamaan statik dari link menjadi Ve = 2M. Untuk link
+dengan elastis-plastis sempurna dengan tidak ada interaksi
+antara momen dan geser, e = 2 Mp/Vp dapat membagi panjang
+link antara link geser dengan link momen. Dimana
+Mp and Vp adalah momen dan kekuatan geser plastis
+sesuai dengan persamaan berikut :
+Vp = 0.60 fy (d – 2tf) tw (1)
+Mp = fy Zp (2)
+Dari persamaan, fy adalah tegangan leleh baja, d adalah
+tinggi penampang link, tw adalah tebal badan, tf adalah
+tebal sayap dan Zp adalah modulus plastis penampang
+(Okazaki et.al, 2005).
+
+
+2.2 Pengaku badan (web stiffner)
+Struktur dikatakan mempunyai prilaku yang baik pada
+kondisi inelastik jika struktur mampu menyerap/
+memancarkan energi dalam jumlah yang besar secara terus
+menerus tanpa mengalami kehilangan kekuatan dan
+kekakuan sampai siklus pembebanan yang tinggi. Tekuk
+badan yang terjadi pada link geser (shear link)
+menimbulkan sejumlah kehilangan kemampuan mendisipasi
+energi dan kapasitas daya dukung beban. Gejala ini
+dapat dikontrol dan diperlambat dengan penambahan
+pengaku badan.
+
+
+a. Pengaku badan vertikal
+Menurut Seismic Provisions for Structural Steel
+Buildings perencanaan pengaku badan vertikal link
+meliputi :
+1. Pengaku pelat badan pada kedua ujung link.
+Dititik pertemuan dengan batang bresing, pada link
+harus dipasang pengaku setinggi badan link dan
+berada dikedua sisi pelat badan link. Pengaku
+tersebut harus mempunyai lebar total tidak kurang
+dari (bf – 2tw) dan ketebalan yang tidak kurang
+dari nilai terbesar dari 0,75tw atau 10 mm, dengan
+bf dan tw adalah lebar pelat sayap dan tebal pelat
+badan link.
+1. Pengaku badan antara link
+Selain pada kedua ujung link, disepanjang link juga
+dibutuhkan pengaku badan antara (link
+intermediate web stiffeners) dengan besar spasi
+tergantung pada sudut rotasi yang terjadi pada link.
+Untuk panjang link (e)  1,6 Mp/Vp jarak pengaku
+badan 30tw – d/5 dengan rotasi sebesar 0,08 rad
+dan jarak pengaku 52tw-d/5 dengan rotasi  0,02
+rad.
+Berdasarkan hasil penelitian (Gobarah dan Ramadan,
+1991) terhadap link pendek terbukti bahwa link dengan
+pengaku badan menghasilkan kemampuan geser yang
+lebih besar dengan loop hysteretic yang lebih gemuk
+dan stabil. Beberapa peneliti lain (Kasai dan Popov,
+1986) telah menetapkan beberapa ketentuan sederhana
+tentang hubungan antara jarak pengaku badan (web
+stiffner spacing) dengan sudut rotasi inelastik maksimum
+(γp) hingga awal terjadinya tekuk badan. Peneliti
+lain (Richards dan Uang, 2002, 2005) juga telah meneliti
+pengaruh rotasi link dan juga ketebalan dari sayap
+link dari struktur EBF.
+Peneliti lain (Bulić et.al., 2011) melakukan pengujian
+secara eksperimental dengan penambahan pengaku
+vertikal pada link geser yang menghasilkan peningkatan
+gaya geser antara 15% s.d 40% pada daerah inelastik.
+Penelitian secara eksperimental (Hjelmstad dan
+Popov, 1983 serta Malley and Popov, 1983) dengan
+variasi panjang link akibat beban gempa menunjukkan
+bahwa pengaku link menjadi elemen penting untuk
+mengontrol dan membatasi tekuk awal pada sayap saat
+badan sudah dalam keadaan inelastis.
+
+
+b. Pengaku badan diagonal
+Penelitian elemen link dengan pengaku badan diagonal
+(Yurisman dkk, 2010) baik secara numerik maupun
+secara eksperimental mulai diteliti. Hasil penelitian
+dihasilkan bahwa penambahan pengaku diagonal
+secara siknifikan berpengaruh kepada kinerja link baik
+kekakuan, kekuatan maupun energi dissipasi.
+Disamping itu ketebalan pengaku dan bentuk geometri
+juga berpengaruh pada kinerja link. Dimana pengujian
+dilakukan hanya untuk model elemen link dan belum
+menggunakan struktur EBF disamping itu usulan jarak
+pengaku diagonal juga belum diusulkan dalam
+penelitian tersebut. Hal ini yang mendorong peneliti
+untuk melakukan penelitian kinerja struktur EBF-D
+dengan link geser berpengaku badan diagonal.
+
+
+3. Kajian Numerik
+Penelitian ini dilakukan secara numerik dengan metode
+elemen hingga non linear. Struktur dimodelkan sebagai
+elemen shell CQUAD dengan menggunakan perangkat
+lunak komputer MSC/ NASTRAN dan dijepit pada kedua
+ujungnya dalam 6 derajat kebebasan : 3 rotasi (Rx, Ry, Rz)
+dan 3 translasi (Tx, Ty, Tz). Pada salah satu ujung balok
+diberi beban perpindahan secara bertahap (incremental).
+Asumsi yang digunakan dalam model menggunakan
+struktur portal EBF-D dengan link geser. Kriteria leleh menggunakan Von Misses dengan hardening rule merupakan
+kombinasi antara isotropic dan kinematic. Deformasi
+besar pada sambungan antara balok dan kolom dipertimbangkan
+dalam model.
+Untuk mengontrol akurasi dari model yang dibuat dan
+asumsi yang digunakan dalam penelitian ini, dilakukan perbandingan
+hasil uji eksperimen dari peneliti Bulić et.al,
+2011. Model struktur EBF-D dimodelkan dengan panjang
+dan tinggi masing-masing 2 meter serta panjang link 300
+mm. Profil yang digunakan profil HEA ukuran 100.100.5.8
+mm dengan tebal pengaku badan vertikal antara 10 mm dan
+pengaku pada ujung link setebal 15 mm serta jarak pengaku
+75 mm. Pemodelan struktur dapat dilihat pada Gambar 5.
+Kurva tegangan dan regangan model diambil dari kurva
+pengujian yang dilakukan oleh peneliti Yurisman dkk, 2010
+sebagaimana Gambar 6. Pembebanan dilakukan secara
+monotonik dan siklik dengan pola pembebanan sesuai AISC
+2005 sebagaimana Gambar 7.
+Selanjutnya dilakukan usulan pemodelan struktur
+menggunakan model link yang diuji secara eksperimental
+oleh peneliti Yurisman dkk., 2010. Struktur di
+modelkan seperti Gambar 8 mengunakan profil WF
+200.100. 5,5.8 mm dengan panjang link 400 mm dan
+tebal pengaku vertikal 8 mm dan pengaku badan
+diagonal 5,5 mm. Modulus elastis (E) yang digunakan
+sebesar 133.082 Mpa dengan poison ratio () sebesar
+0,3. Parameter konfigurasi model pengaku diagonal
+diteliti pertama dalam penelitian ini. Selanjutnya
+diusulkan jarak optimal pemasangan pengaku bandan
+diagonal.
+
+
+
+3.1 Pengaruh konfigurasi model pengaku elemen link
+Elemen link yang digunakan pada model struktur
+Gambar 5 dimodelkan dengan berbagai variasi
+model menggunakan pengaku badan vertikal dan
+diagonal. Gambar konfigurasi elemen link dengan
+pengaku badan vertikal dan diagonal dapat dilihat
+pada Gambar 10. Kinerja masing-masing struktur
+EBF-D ditunjukkan pada Gambar 11. Seluruh
+model yang menggunakan pengaku badan diagonal
+didesain dengan jarak pengaku tidak memenuhi
+jarak yang disyaratkan oleh AISC 2005 atau lebih
+besar dari 30tw-5/d. Dari gambar secara umum
+penambahan pengaku diagonal badan pada daerah
+pengaku vertikal meningkatkan kinerja struktur. Dari
+delapan model elemen link terlihat kinerja terbaik
+dari segi kekuatan, kekakuan serta kestabilan elemen
+link di tunjukkan oleh elemen link dengan pengaku
+diagonal model D200 yang ditempatkan sejauh 1,6
+(30tw-d/5) antara jarak pengaku vertikal. Selanjutnya model ini digunakan untuk membandingkan kinerja
+struktur portal dengan link berpengaku vertikal yang
+didesain sesuai dengan syarat AISC 2005.
+
+
+3.2 Perbandingan kinerja antara struktur portal EBFD
+berpengaku badan vertikal dengan diagonal
+Kinerja struktur EBF-D dengan link geser berpengaku
+badan diagonal yang didesain tidak memenuhi syarat ketentuan
+AISC 2005 yang selanjutnya disebut model D200
+dibandingkan dengan struktur EBF-D dengan link geser
+berpengaku badan vertikal yang selanjutnya disebut model
+V100 dapat dilihat pada Gambar 12 untuk hubungan
+antara gaya dengan perpindahan. Dari gambar terlihat
+bahwa model D200 dengan penambahan pengaku diagonal
+pada daerah pengaku vertikal menyebabkan peningkatan
+gaya pada daerah elastis maupun plastis setelah
+badan elemen link leleh yang diikuti dengan leleh pengaku
+badan diagonal. Penambahan pengaku badan diagonal
+juga meningkatkan kekakuan struktur pada daerah elastis
+maupun plastis sebagaimana Gambar 13.
+
+Kestabilan model D200 juga sangat baik dimana rotasi link
+yang disyaratkan sebesar 0,08 rad pada saat perpindahan 36
+mm dapat dicapai tanpa terjadi tekuk pada link dan pengurangan
+beban yang ditahan struktur sebagaimana dapat dilihat pada Gambar 14 distribusi tegangan Von Misses
+pada saat struktur berotasi sebesar 0,08 rad.
+Nilai daktilitas () yang diperoleh juga sangat baik
+sebagaimana ditujukkan pada Tabel 1. Dengan demikian
+dapat dikatakan bahwa struktur portal model D200 lebih
+baik dibandingkan dengan struktur portal V100 baik dari
+segi kekuatan, kekakuan dan daktilitas.
+Struktur portal model D200 mempunyai kemampuan
+dissipasi energi gempa cukup baik hal ini dapat dilihat dari
+kurva hysteretic yang dihasilkan cukup gemuk, stabil tanpa
+ada pincing dan terlihat efek dari baushinger sebagaimana
+terlihat pada Gambar 15 untuk kurva hubungan antara
+gaya dengan perpindahan. Pada pembebanan siklik rotasi
+link sebesar 0,08 rad sebagaimana yang disyaratkan dapat
+dicapai sehingga struktur dapat dikatakan cukup baik untuk
+menyerap energi gempa. Besarnya energi dissipasi dapat
+dilihat pada Gambar 16. Pengaruh panjang link (e), tebal
+pengaku vertikal (tsv), tebal pengaku diagonal (tsd), tebal
+badan dan tebal sayap diteliti dari model D200 ini.
+
+
+3.3 Pengaruh panjang elemen link
+Panjang elemen link divariasikan antara 300 sampai dengan
+400 mm dimana panjang ini masih dalam batasan sebagai
+panjang elemen link geser. Elemen link dimodelkan dengan
+penambahan pengaku badan diagonal pada daerah antara
+pengaku badan vertikal yang diletakkan pada posisi setengah
+dari panjang link. Jarak pengaku vertikal pada link yang
+menggunakan pengaku badan diagonal didesain tidak
+memenuhi jarak yang disyaratkan AISC 2005 untuk melihat
+kinerja struktur dengan penambahan pengaku diagonal.
+Jarak yang digunakan antara lain 150, 175 dan 200 mm.
+Hasil perbandingan panjang link dengan pengaku badan
+diagonal dapat dilihat pada Gambar 17 dimana kinerja
+terbaik dihasilkan pada elemen link dengan jarak 200 mm
+(model D200) dengan panjang link mendekati nilai 1,6 Mp/
+Vp dan kinerja terendah ditunjukkan untuk jarak 175 mm
+(model D175) yang merupakan jarak antara link terpendek
+dengan link terpanjang.
+
+3.4 Pengaruh ketebalan pengaku link
+Variasi ketebalan pengaku badan baik vertikal yang divariasikan
+dari 5,5 sampai dengan 12 mm dan diagonal yang
+divariasikan dari 4 sampai dengan 10 mm di tunjukkan pada
+Gambar 18. Terlihat bahwa perubahan ketebalan pengaku
+baik vertikal maupun diagonal tidak mempengaruhi penambahan
+beban yang dapat ditahan oleh struktur secara
+signifikan karena fungsi dari pengaku untuk mencegah
+terjadinya tekuk awal pada sayap sehinga elemen link mampu
+berotasi dengan deformasi yang cukup besar tanpa
+kehilangan gaya. Namun demikian ketebalan link tetap harus
+dibatasi untuk mencegah tekuk awal dimana kinerja terbaik
+dihasilkan dengan ketebalan pengaku badan diagonal 5,5
+mm atau sama dengan ketebalan badan link dan ketebalan
+pengaku badan vertikal sebesar 8 mm.
+
+3.5 Pengaruh ketebalan badan link
+Variasi badan link diteliti dari 4 sampai dengan 10 mm
+sebagaimana ditunjukkan Gambar 19. Ketebalan link
+berpengaruh terhadap peningkatan gaya struktur hal ini
+disebabkan link pendek pola keruntuhan atau kelelehan
+terjadi pada badan link. Semakin tebal elemen badan link
+semakin memperlambat laju kelelehan badan yang selanjutnya
+meningkatkan gaya yang dapat ditahan oleh struktur.
+
+
+3.6 Pengaruh ketebalan sayap link
+Variasi ketebalan sayap diteliti dari 8 sampai dengan 12 mm
+sebagaimana ditunjukkan Gambar 20. Pengaruh ketebalan
+sayap juga sangat kecil terhadap kinerja struktur karena
+kelelehan elemen link terjadi pada badan link dan pengaku
+badan baik vertikal maupun diagonal menjaga link agar
+tidak terjadi tekuk pada sayap link.
+
+
+4. Kesimpulan
+1. Kinerja struktur EBF-D dengan pengaku badan diagonal
+lebih baik dibandingkan dengan pengaku vertikal dari
+segi kekuatan, kekakuan, daktilitas maupun energi
+dissipasi.
+2. Penggunaan pengaku badan diagonal pada struktur EBF
+-D yang ditempatkan di daerah untuk jarak pengaku
+vertikal antara 30tw-d/5 sampai dengan panjang link (e),
+menghasilkan kinerja struktur yang optimal jika ditempatkan
+pada 1,6 (30tw-d/5) dimana ketebalan pengaku
+badan diagonal sama dengan badan link atau 5,5 mm
+dan pengaku badan vertikal minimum 8 mm.
+3. Parameter tebal sayap (tf), tebal pengaku baik vertikal
+(tsv) atau diagonal (tsd) tidak berpengaruh signifikan
+terhadap kinerja struktur.
+4. Parameter konfigurasi pengaku diagonal, panjang link
+(e), dan tebal badan (tw) serta tebal sayap di lu

@@ -1,0 +1,128 @@
+﻿Penelitian ini dilakukan untuk membuat suatu sistem pakar yang mampu
+mendiagnosa penyakit pada ayam berdasarkan pengetahuan yang diberikan
+langsung dari pakar/ahlinya. Penelitian ini menggunakan metode perhitungan
+Certainty Factor (CF) dalam menghitung tingkat kepakaran dan dibuat pada
+mobile device platform Android. Data penelitian ini terdiri dari data gejala dan
+data penyakit ayam, serta data aturan. Pada penelitian ini data penyakit ayam
+dibatasi pada penyakit yang disebabkan oleh bakteri (bacterial) yang berjumlah
+19 jenis penyakit dengan 78 jenis gejala dan 184 jenis aturan. Metode inferensi
+yang digunakan yaitu forward chaining (runut maju) dengan menelusuri aturanaturan
+berdasarkan jawaban yang diberikan pengguna dalam bentuk tanda check
+(√). Jawaban pengguna kemudian diproses berdasarkan aturan (rule) dan dihitung
+menggunakan metode certainty factor. Proses penelusuran dilakukan sampai
+didapatkan suatu kesimpulan berupa presentase nilai CF terbesar hingga terkecil
+dari setiap penyakit. Hasil pengujian menunjukkan bahwa: (1) Pengujian
+fungsional dengan menggunakan metode Black Box Equivalence Partitioning
+(EP) mendapatkan hasil sesuai dengan yang diharapkan pada skenario uji di setiap
+kelas uji. (2) Pengujian diagnosa dengan membandingkan hasil perhitungan
+manual dan sistem 99 persen sudah sesuai dan berjalan baik. (3) Pengujian
+kuesioner dengan 31 orang responden yang dibagi menjadi tiga kelompok
+responden menunjukkan; kelompok responden pertama yang terdiri dari pakar
+penyakit ayam mendapatkan rata-rata nilai sebesar 63,33 persen (dikategorikan
+baik), kelompok responden kedua yang terdiri dari para peternak dan mahasiswa
+Peternakan mendapatkan rata-rata nilai sebesar 77,71 persen (dikategorikan baik),
+dan kelompok responden ketiga yang terdiri mahasiswa Ilmu Komputer
+mendapatkan rata-rata nilai sebesar 82 persen (dikategorikan sangat baik).
+Kata Kunci : Sistem Pakar, Certainty Factor, Metode CF, Penyakit Ayam,
+Skala Likert, Android.
+
+BAB I
+PENDAHULUAN
+1.1 Latar Belakang
+Menurut data dari Direktorat Jenderal Peternakan dan Kesehatan Hewan
+Kementerian Pertanian (Ditjenak Kementan) pada tahun 2015 jenis ayam buras,
+ayam ras petelur dan ayam ras pedaging merupakan ternak dengan populasi
+terbanyak yang diusahakan oleh pengusaha ataupun peternak di Indonesia.
+Dalam catatan sejarah perunggasan di Indonesia, pemeliharaan ayam pada musim
+kemarau, musim penghujan, maupun musim pancaroba sama-sama menguras
+energi bagi peternak. Pasalnya pada ketiga musim tersebut kemungkinan sebuah
+penyakit akan menyerang ternak ayam akan semakin tinggi.
+Pada musim penghujan dimana kelembaban tinggi, memicu hampir semua bibit
+penyakit untuk tumbuh subur termasuk kejadian mikotoksikosis maupun infeksi
+cacing. Pada musim kemarau, infeksi saluran pernapasan dan heat stress tak bisa
+dielakkan lagi. Sedangkan pada musim pancaroba kemungkinan penyakit datang
+menjadi semakin tinggi karena pada musim tersebut ayam lebih kesulitan untuk
+beradaptasi. Oleh karena itu, untuk dapat mencegah ataupun menangani suatu
+penyakit diperlukan diagnosa dari para ahli, seperti dokter hewan.
+
+Di Provinsi Lampung, keberadaan dokter hewan masih dinilai sangat minim
+dibandingkan dengan populasi ternak ayam yang tinggi. Kepala Dinas Peternakan
+dan Kesehatan Hewan Provinsi Lampung, Dessy Desmaniar Romas mengatakan,
+pada tahun 2014 pihaknya hanya memiliki 40 dokter hewan. Dari jumlah itu, 12
+orang di antaranya sudah bersatus sebagai Pegawai Negeri Sipil (PNS).
+Sedangkan 28 orang lainnya masih tercatat sebagai Tenaga Harian Lepas (THL).
+Proses diagnosa suatu penyakit pada ternak seharusnya dilakukan oleh seorang
+ahli di bidang tersebut. Namun, keterbatasan jumlah dan sulitnya berinteraksi
+langsung dengan tenaga ahli seperti dokter hewan, membuat sebagian besar
+peternak menangani sendiri permasalahan kesehatan dan penyakit ternaknya.
+Kurangnya pengetahuan tentang penanganan penyakit pada hewan ternak, bisa
+saja mengakibatkan peternak membuat kesalahan dalam mendiagnosa dan
+memberikan obat kepada hewan yang sedang sakit. Oleh karena itu, dibutuhkan
+suatu sistem pakar yang mampu mendiagnosa penyakit pada ternak ayam dengan
+pengetahuan yang berasal langsung dari ahlinya.
+Sistem Pakar (Expert System) merupakan salah satu bagian dari ilmu kecerdasan
+buatan (articifial intelligent) yang cukup berkembang akhir-akhir ini. Berkat
+kemajuan teknologi yang terus mengalami kepesatan, sistem pakar sudah beralih
+menjadi suatu kebutuhan disaat mengalami kesulitan untuk menemui para pakar
+secara langsung.
+Aplikasi sistem pakar dapat mewakili seorang pakar yang ahli dibidangnya untuk
+memberikan solusi terhadap permasalahan yang ada. Dengan aplikasi tersebut,
+pengetahuan pakar dapat disimpan tanpa batas waktu. Selain itu, sistem pakar
+juga dapat meningkatkan produktifitas kerja, menghemat waktu dalam
+menyelesaikan masalah, penyederhanaan solusi untuk kasus-kasus yang kompleks
+dan berulang-ulang. Implementasi sistem pakar dapat dibangun dalam berbagai
+bentuk, seperti berbasis web ataupun mobile.
+Pada era ini perkembangan teknologi berkembang sangat pesat, salah satunya
+perkembangan Operation System (OS) Android pada handphone. Menurut data
+dari Waiwai Marketing, jumlah pengguna Android di Indonesia mencapai angka
+94 persen sedangkan pengguna OS lain seperti iOS (iPhone OS) hanya berkisar 6
+persen. Hal ini menandakan bahwa Android merupakan platform yang paling
+banyak digunakan masyarakat di Indonesia. Selain itu Android dapat
+dimanfaatkan dalam proses implementasi aplikasi sistem pakar karena Android
+merupakan platform terbuka bagi pengembang untuk menciptakan berbagai
+aplikasi bisa dipakai oleh bermacam piranti bergerak.
+Berdasarkan sebuah jurnal yang berjudul “Aplikasi Sistem Pakar Diagnosa
+Kerusakan Pada Sepeda Motor 4 Tak Menggunakan Metode Certainty Factor
+Berbasis Android” (Aryawan dkk, 2013), telah dilakukan penelitian tentang
+aplikasi sistem pakar untuk mendiagnosa sepeda motor berbasis android. Dalam
+hal ini penulis menggunakan metode perhitungan certainty factor dalam
+membangun sistem.
+Dalam jurnal lain yang berjudul “Sistem Pakar Diagnosa Awal Penyakit Kulit
+Pada Sapi Bali dengan Menggunakan Metode Forward Chaining dan Certainty
+Factor” (Supartha dkk, 2014) telah dibangun sebuah sistem pakar diagnosa awal
+penyakit kulit pada sapi berbasis web. Dalam penelitian ini metode forward
+chaining digunakan untuk pengecekan aturan (rule) berdasarkan inputan gejala
+dari pengguna dan diolah dengan basis pengetahuan. Sedangkan metode certainty
+factor digunakan untuk menghitung keakuratan hasil diagnosa penyakit.
+Berdasarkan beberapa jurnal tersebut, maka akan dibuat “Sistem Pakar Untuk
+Mendiagnosa Penyakit Pada Ayam Dengan Menggunakan Metode Certainty
+Factor Berbasis Android”. Data-data yang dibutuhkan seperti nama penyakit,
+gejala penyakit, dan cara penanganannya didapatkan langsung dari ahli/pakar
+yang memahami ilmu tentang penyakit ayam serta buku dan jurnal yang
+mendukung.
+1.2 Rumusan Masalah
+Berdasarkan latar belakang yang telah diuraikan, maka rumusan masalah
+penelitian ini adalah:
+1. Bagaimana membuat sistem pakar untuk mendiagnosa penyakit pada ayam
+dengan menggunakan metode certainty factor?
+2. Bagaimana membuat aplikasi sistem pakar berbasis android?
+1.3 Batasan Masalah
+Batasan masalah dari analisis pengujian ini adalah sebagai berikut:
+1. Sistem pakar yang dibuat dikhususkan untuk mendiagnosa penyakit ayam yang
+disebabkan oleh bakteri (bacterial).
+2. Aplikasi sistem pakar dibuat pada perangkat mobile device platform android.
+3. Sistem pakar dibuat dengan menggunakan metode perhitungan certainty
+factor.
+
+1.4 Tujuan Penelitian
+Tujuan dari penelitian ini adalah sebagai berikut:
+1. Membuat suatu sistem pakar yang mampu mendiagnosa penyakit pada ayam
+yang disebabkan oleh bakteri.
+2. Membuat aplikasi yang dapat memberikan pengetahuan tambahan kepada
+masyarakat khususnya peternak ayam tentang penyakit dan kesehatan pada
+ayam.
+1.5 Manfaat Penelitian
+Manfaat dari penelitian ini adalah membantu peternak ataupun pengusaha ayam
+dalam mendapatkan informasi penyakit ayam dan cara penanganannya
+berdasarkan gejala yang terlihat dengan menggunakan sistem pakar berbasis
+android.

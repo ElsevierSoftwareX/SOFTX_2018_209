@@ -1,0 +1,401 @@
+﻿DETERMINAN PERTUMBUHAN EKONOMI DI PROPINSI ACEH
+
+Abstrak.
+Penelitian ini bertujuan untuk menganalisis pengaruh Pendapatan Asli Daerah, Dana Alokasi Umum, Dana Alokasi Khusus, dan Dana Otonomi Khusus terhadap pertumbuhan ekonomi di Kabupaten/Kota Provinsi Aceh dari tahun 2008 sampai 2011. Pertumbuhan ekonomi sebagai variabel dependen dengan indikator laju pertumbuhan PDRB. Pendapatan asli daerah, dana alokasi umum, dana alokasi khusus, dan dana otonomi khusus sebagai variabel independen. Penelitian ini menggunakan data panel dan alat analisis Fixed Effect Model (FEM) dengan mengambil sampel yaitu 7 Kabupaten dan 3 Kota di Provinsi Aceh. Hasil Penelitian menunjukan bahwa pertumbuhan ekonomi mampu dijelaskan oleh pendapatan asli daerah, dana alokasi umum, dana alokasi khusus, dan dana otonomi khusus sebesar 87,30% (Adj R2).
+Kata Kunci: Pertumbuhan Ekonomi; Pendapatan Asli Daerah; Dana Alokasi Umum; Dana Alokasi Khusus; Dana Otonomi Khusus.
+
+PENDAHULUAN
+Pelaksanaan otonomi daerah merupakan suatu harapan yang baik bagi pelaksanaan pembangunan secara keseluruhan dimana masing- masing daerah memiliki kesempatan untuk mengelola, mengembangkan, dan membangun daerah masing-masing sesuai kebutuhan dan potensi yang dimiliki. Untuk merealisasikan pelaksanaan otonomi daerah ini, Dewan Perwakilan rakyat (DPR) telah menetapkan UU No. 22 Tahun 1999 tentang Pemerintah Daerah dan UU No. 25 Tahun 1999 tentang Perimbangan Keuangan Pemerintah Pusat dan Pemerintah Daerah. UU tersebut kemudian diperbarui menjadi UU No. 32 tentang Pemerintah Daerah dan UU No. 33 Tahun 2004 tentang Perimbangan Keuangan antara Pemerintah Pusat dan Daerah.
+Berdasarkan ketetapan MPR No.XV/MPR/1998, pemerintah telah mengeluarkan kebijakan tentang otonomi daerah pada tanggal 1 Januari 2001 Pemerintah Republik Indonesia secara resmi menyatakan dimulainya pelaksanaan otonomi daerah. Menurut Bratakusumah dan Solihin (2001) otonomi daerah berdasarkan UU No.22 Tahun 1999 lebih bernuansa desentralistik, yang mana daerah propinsi dengan kedudukan sebagai daerah otonom sekaligus wilayah administrasi, yang melaksanakan kewenangan adalah pemerintah pusat yang didelegasikan kepada gubernur.
+Dengan adanya otonomi daerah memunculkan dimensi baru berupa Desentralisasi dan Dekonsentrasi. Menurut UU No.32 Tahun 2004, desentralisasi adalah penyerahan wewenang pemerintah oleh Pemerintah pusat kepada pemerintah daerah otonom untuk mengatur dan mengurus urusan pemerintahan dalam sistem NKRI. Desentralisasi merupakan sebuah alat untuk mencapai salah satu tujuan bernegara, khususnya dalam rangka memberikan pelayanan umum yang lebih baik dan menciptakan proses pengambilan keputusan publik yang lebih demokratis.
+Menurut Kunarjo dalam Chalid (2005) implementasi desentralisasi diwujudkan dalam bentuk Desentralisasi Politik (Politic Decentralization), Desentralisasi Administratif (Administrative Decentralization), Desentralisasi Fiskal (Fiscal Decentralization), dan Desentralisasi Ekonomi (Economic or Market Decentralization). Desentralisasi fiskal merupakan salah satu komponen utama dari desentralisasi. Desentralisasi fiskal merupakan pelimpahan wewenang kepada daerah dalam mengelola sumber-sumber keuangan sendiri, sehingga daerah mempunyai kesempatan yang lebih dalam mengatur rumah tangganya.
+Keputusan menerapakan desentralisasi fiskal menuntut adanya peningkatan ekonomi di daerah, karena prinsip dasar pelaksanaan desentralisasi fiskal di Indonesia adalah Money Follows Functions, yaitu fungsi pokok pelayanan publik didaerahkan, dengan dukungan pembiayaan pusat melalui peyerahan sumber-sumber penerimaan kepada daerah (Siagian, 2010 : 3). Dengan berlakunya kebijakan desentralisasi fiskal antara pemerintah pusat dan pemerintah daerah, memberikan kewenangan yang semakin luas kepada daerah untuk memberdayakan diri terutama berkaitan dengan pengelolaan potensi dan sumber pendananaan. Dengan adanya desentralisasi fiskal pemerintah daerah diharapkan mampu mengelola rumah tangganya sendiri untuk mencapai kemandirian daerah dan diharapkan daerah akan mampu mengembangkan seluruh potensi ekonomi yang ada disetiap daerah. Berdasarkan pandangan ini, pemerintah daerah dipercaya bisa mengalokasikan dana kepada masing- masing sektor dalam ekonomi secara lebih efektif dan efisien dari pada pemerintah pusat (Sumarsono, 2009).
+Berdasarkan pasal 5 No. 33 tahun 2004 pembagian kewenangan dan fungsi antara pemerintah pusat daerah, sudah diberlakukan sejak tanggal 1 januari 2001. Menurut UU No.25 Tahun 2004 mengatur yang kemudian disempurnakan dengan UU No.33 Tahun 2004 tentang sumber penerimaan yang digunakan untuk pendanaan pemerintah daerah dalam pelaksanaan desentralisasi fiskal adalah Pendapatan Asli Daerah (PAD), Dana Alokasi Umum (DAU), dan Dana Alokasi Khusus (DAK), Dana Bagi Hasil (DBH), pinjaman daerah, dan lain-lain penerimaan yang sah.
+Pengukuran akan kemajuan sebuah perekonomian memerlukan alat ukur yang tepat, berupa alat pengukur pertumbuhan ekonomi antara lain yaitu Produk Domestik Bruto (PDB) atau di tingkat regional disebut dengan Produk Domestik Bruto (PDRB) yaitu jumlah barang atau jasa yang dihasilkan oleh suatu perekonomian dalam jangka waktu satu tahun dan dinyatakan dalam harga pasar (Supartoyo dan Tatuh, 2013). Berdasarkan perhitungan komponen PAD, DAU, DAK, dan Dana Otonomi Khusus maka penelitian ini difokuskan pada sepuluh Kabupaten/Kota yaitu: Kabupaten Aceh Pidie, Kabupaten Aceh Tengah, Kabupaten Aceh Timur, Kabupaten Aceh Utara, Kabupaten Bener Meriah, Kabupaten Nagan Raya, Kabupaten Pidie Jaya, Kota Banda Aceh, Kota Sabang, Kota Subulussalam dengan melalui klasifikasi komponen PAD, DAU, DAK, dan Dana Otonomi Khusus dengan membandingkan mulai dari level tertinggi, menengah, dan terendah. Peneliti melihat apakah besarnya PAD, DAU, DAK, dan Dana Otonomi Khusus dengan klasifikasi dari level tertinggi, menengah, dan terendah agar merata dalam penentuan sampel untuk melihat sejauhmana pengaruh terhadap laju pertumbuhan PDRB.
+Tabel 1.
+Pendapatan Asli Daerah Kabupaten/Kota Provinsi Aceh Tahun 2008-2011
+Kabupaten/Kota
+2008
+2009
+2010
+2011
+Aceh Pidie
+12,462,162,816
+13,708,379,09
+15,456,452,000
+22,866,716,295
+Aceh Tengah
+30,366,663,104
+17,975,763,435
+18,535,163,00
+20,780,854,96
+Aceh Timur
+14,311,041,152
+8,364,138,152
+8,935,450,000
+13,667,862,971
+Aceh Utara
+106,145,306,00
+88,012,933,00
+31,209,301,00
+42,269,082,420
+Bener Meriah
+7,879,597,184
+8,509,800,000
+9,688,946,360
+13,046,219,297
+Nagan Raya
+12,642,155,264
+10,768,113,74
+11,006,703,00
+15,992,400,727
+Pidie Jaya
+1,826,387,968
+3,928,237,026
+4,598,655,000
+8,243,166,380
+Banda Aceh
+45,222,400,320
+51,687,351,64
+52,265,730,00
+85,560,269,620
+Sabang
+18,036,142,336
+16,192,154,353
+17,145,365,00
+22,386,740,940
+Subulussalam
+1,875,689,072
+2,618,545,036
+3,361,401,000
+6,830,439,000
+Sumber: Public Expendicture Analysis and Capacity Strengtening Program
+Tabel 1 menunjukan bahwa pertumbuhan Pendapatan Asli Daerah (PAD) Provinsi Aceh tahun 2008-2011 mengalami fluktuasi. Hal ini menunjukkan bahwa pemungutan yang dilakukan oleh lembaga terkait (PECAPP) cukup baik. PAD yang dihasilkan di Aceh cenderung mengalami tingkat fluktuasi yang ekstrim, karena pendapatan asli daerah (PAD) tahun 2008-2011 mengalami selisih PAD yang cenderung besar dari tahun ke tahun. Tingkat fluktuasi ekstrim yang dialami oleh PAD aceh disebabkan oleh penerimaan pajak dan retribusi daerah yang kurang merata antara kabupaten/kota. Dalam UU No. 34 Tahun 2000 pengganti UU No.18 tahun 1997, diatur bahwa penerimaan yang diperoleh oleh kabupaten/kota adalah pajak-pajak yang ditarik dari hotel, restoran, tempat hiburan, reklame, penerangan jalan, penggalian bahan galian, dan pajak parkir. Komponen densentralisasi fiskal yang kedua yaitu Dana Alokasi Umum (DAU). Dana Alokasi Umum (DAU) merupakan transfer dana dari Pemerintah Pusat ke Pemerintah Daerah dalam bentuk bantuan umum (block grand) dengan kriteria alokasi berdasarkan potensi ekonomi daerah dan kebutuhan obyektif daerah.
+Tabel 2.
+Dana Alokasi Umum Kabupaten/Kota di Provinsi Aceh Tahun 2008-2011 (Rp)
+Kota/Kabupaten
+2008
+200
+2010
+2011
+Kab.Aceh Pidie
+355,254,796,288
+390,780,275,917
+425,166,519,000
+487,142,721,000
+Kab.Aceh Tengah
+300,339,527,680
+306,688,558,709
+316,232,601,000
+388,635,894,000
+Kab.Aceh Timur
+325,531,402,240
+356,087,597,548
+380,410,135,000
+439,864,062,963
+Kab.Aceh Utara
+224,974,800,000
+226,980,563,000
+245,998,105,000
+440,388,107,000
+Kab.Bener
+Meriah
+223,797,264,384
+227,320,090,000
+235,968,764,000
+285,406,103,000
+Kab.Nagan Raya
+277,009,793,024
+284,913,831,911
+291,226,672,000
+330,987,205,000
+Kab.Pidie Jaya
+124,563,259,392
+197,409,888,841
+231,101,119,000
+272,626,771,400
+Kota Banda Aceh
+307,002,310,656
+324,442,786,740
+328,073,282,000
+406,480,305,000
+Kota Sabang
+184,666,357,760
+201,244,528,565
+213,091,527,000
+241,679,816,000
+Kota
+Subulussalam
+90,986,570,184
+127,021,282,592
+163,055,995,000
+181,919,378,092
+Sumber: Public Expendicture Analysis and Capacity Strengtening Program
+Tabel 2. menunjukkan bahwa saat pelaksanaan desentralisasi fiskal tahun 2008-2011 penerimaan daerah yang bersumber dari dana perimbangan yang berupa Dana Alokasi Umum (DAU) mengalami peningkatan dari tahun ke tahun, namun Laju Pertumbuhan PDRB Provinsi Aceh mengalami fluktuasi. Dengan tingginya alokasi dana perimbangan yang dialirkan dari pusat ke daerah, pada tataran makro diharapkan akan terjadi pertumbuhan ekonomi yang lebih cepat dan pemerataan pembangunan di semua wilayah Indonesia (Riyanto dan Siregar, 2005). Dengan tinggi nya DAU yang diberikan kepada Pemerintah Daerah Aceh, menunjukkan bahwa tingkat kemandirian Aceh masih sangat rendah.
+Indikator Desentralisasi Fiskal yang ketiga adalah Dana Alokasi Khusus (DAK). Dana Alokasi Khusus (DAK) dialokasikan kepada daerah tertentu untuk membiayai kegiatan khusus yang merupakan urusan daerah, dimana kegiatan khusus tersebut telah disesuaikan dengan fungsi yang telah ditetapkan oleh APBN (Chalid, 2005).
+Tabel 3.
+Dana Alokasi Khusus Kabupaten/Kota di Provinsi Aceh Tahun 2008-2011 (Rp)
+Kota/Kabupaten
+2008
+2009
+2010
+2011
+Kab.Aceh Pidie
+59,091,001,344
+65,000,101,478
+46,610,200,000
+38,492,300,000
+Kab.Aceh Tengah
+52,153,745,408
+31,306,066,011
+32,280,300,000
+37,483,900,000
+Kab.Aceh Timur
+57,761,001,472
+48,135,882,076
+51,423,800,000
+51,643,400,000
+Kab.Aceh Utara
+54,905,000,000
+50,372,000,000
+66,590,000,000
+34,497,900,000
+Kab.Bener
+Meriah
+41,140,998,144
+39,124,000,000
+30,454,500,000
+33,112,300,000
+Kab.Nagan Raya
+43,635,789,824
+29,085,844,503
+29,730,300,000
+31,818,800,000
+Kab.Pidie Jaya
+7,793,399,808
+30,543,287,786
+35,756,000,000
+46,147,800,000
+Kota Banda Aceh
+38,641,999,872
+21,115,320,831
+21,351,600,000
+29,636,400,000
+Kota Sabang
+23,725,199,360
+15,905,017,707
+16,841,325,000
+26,308,000,000
+Kota
+Subulussalam
+14,017,164,122
+19,568,582,061
+25,120,000,000
+30,769,600,000
+Sumber: Public Expendicture Analysis and Capacity Strengtening Program
+Dengan demikian, terdapat penyertaan dana daerah dalam transfer dana dari pusat untuk tujuan tertentu. Terdapat dua jenis transfer dalam hal ini, yakni open-ended matching grants yang terjadi ketika tidak ada batasan bagi bantuan yang tersedia dengan menyesuaikan penyediaan barang-barang publik yang muncul dari eksternalitas dan closed-ending matching transfer, jenis bantuan ini terjadi dana disediakan dalam batas tertentu, biasanya bergantung pada pemberi dana sehingga transfer ini mengakibatkan adanya kontrol terhadap anggaran ( Muluk, 2005).
+
+Tabel 3 menunjukkan Dana Alokasi Khusus yang diterima setiap daerah Kabupaten/Kota Provinsi Aceh tahun 2008-2011 mengalami pergerakan yang fluktuaktif dari tahun ke tahun. Begitu pula dengan Laju Pertumbuhan PDRB yang mengalami fluktuasi. Hal tersebut dikarenakan pengalokasian DAK memperhatikan ketersediaan dana dalam APBN, yang berarti bahwa besaran DAK tidak dapat dipastikan setiap tahunnya. DAK diberikan kepada daerah apabila daerah menghadapi masalah-masalah khusus. Provinsi Aceh merupakan salah satu daerah provinsi di Indonesia yang mempunyai status “otonomi Khusus” pada tahun 2011 melalui UU No. 18 Tahun 2001 tentang Otonomi Khusus bagi Provinsi Aceh. Karakteristik yang mendorong lahirnya otonomi khusus yakni tuntutan pembagian kekayaan alam yang tidak dinikmati daerah, tetapi dikeruk oleh pusat. Daerah yang memiliki kekayaan alam berlimpah justru miskin dan terbelakang.
+Otonomi khusus yang berlaku di Aceh merupakan bentuk desentralisasi asimetris (asymmetrical decentralization), yakni desentralisasi luas baik secara politik, ekonomi, fiskal, dan administrasi, namun tidak seragam dengan wilayah lain dengan mempertimbangkan kekhususan masing-masing daerah (Amir dan Cahyono, 2010 : 7). Dengan status “otonomi khusus” Provinsi Aceh memiliki sumber penerimaan khusus yang dinamakan Dana Otonomi Khusus. Dengan dimulai nya penerimaan khusus pada tahun 2008, Aceh memperoleh tambahan sumber daya fiskal secara signifikan. Dana otonomi khusus menjadi sumber terbesar bagi penerimaan publik Aceh dengan porsi mencapai 62 persen dari anggaran provinsi di tahun 2010, atau sekitar 25 persen dari total anggaran seluruh daerah di Aceh (Provinsi dan Kabupaten/Kota) (Kajian Pengelolaan dan Pemanfaatan Dana Otonomi Khusus Aceh, 2011).
+Desentralisasi fiskal tidak lain pada prinsipnya dimaksudkan sebagai cara bagi pemerintah daerah agar dapat menambah akumulasi modal melalui pendapatan asli daerah, dana perimbangan, dan dana otonomi khusus yang merupakan faktor-faktor dalam peningkatan pertumbuhan ekonomi. Namun kenyataannya masih ada kabupaten/kota di Provinsi Aceh yang mengalami laju pertumbuhan PDRB yang negatif, yaitu di Kabupaten Aceh Timur, Kabupaten Aceh Utara, dan Kota Lhokseumawe. Selain itu makin tingginya bantuan pemerintah pusat dalam bentuk dana perimbangan (transfer grant) kepada pemerintah daerah setiap tahunnya diharapkan dapat meningkatkan pertumbuhan ekonomi di Provinsi Aceh.
+Terkait hal tersebut maka terdapat pendapatan daerah dan dana perimbangan yang diterima oleh Pemerintah Aceh. Empat komponen yang menjadi sumber penerimaan keuangan daerah yaitu, pendapatan asli daerah, dana alokasi umum, dana alokasi khusus, dan dana otonomi khusus. Sesuai dengan status otonomi khusus yang diberikan kepada Aceh maka terdapat penerimaan lain berupa dana otonomi khusus yang tinggi maka PDRB juga akan meningkat sehingga laju pertumbuhan PDRB ikut meningkat.
+METODE
+Berdasarkan uraian pada bab sebelumnya, penelitian ini menganalisis tentang pertumbuhan ekonomi di Provinsi Aceh periode 2008-2011. Untuk mempermudah pemahaman penelitian, adapun variabel-variabel yang digunakan terdiri dari lima variabel. Pertumbuhan ekonomi merupakan variabel terikat atau dependent variable. Sedangkan untuk variabel bebas atau independent variable adalah Pendapatan Asli Daerah (PAD), Dana Alokasi Umum (DAU), Dana Alokasi Khusus (DAK), dan Dana otonomi Khusus.
+Dalam penelitian ini, populasi digolongkan menurut ciri-ciri tertentu dan sesuai dengan keperluan penelitian. Penggolongan dalam penelitian ini dilakukan menurut variabel independen, yaitu Pendapatan Asli Daerah, Dana Alokasi Umum, Dana Alokasi Khusus, dan Dana Otonomi Khusus.
+Cara penentuan sampel yang digunakan adalah dengan mengambil data tahunan masing-masing variabel sebesar 40 observasi dari PAD, DAU, DAK, dan Dana Otonomi Khusus, kemudian agar pengembilan sampel merata pada setiap variabel maka sampel diambil berdasarakan satu kelas tertinggi, satu kelas menengah dan satu kelas terendah disetiap variabel independen. Setelah diklasifikasikan peneliti mendapatkan sepuluh kabupaten/kota antara lain: Kabupaten Aceh Pidie, Kabupaten Aceh Tengah, Kabupaten Aceh Timur, Kabupaten Aceh Utara, Kabupaten Bener Meriah, Kabupaten Nagan Raya, Kabupaten Pidie Jaya, Kota Banda Aceh, Kota Sabang, Kota Subulussalam.
+Metode pengumpulan data sangat penting mempertanggungjawabkan kebenaran ilmiah suatu penelitian, selain itu metode penelitian juga diperlukan untuk memperoleh hasil yang sesuai dengan tujuan penelitian yang dikehendaki. Sumber data dalam penelitian ini berasal dari:
+a. Data Laju Pertumbuhan Ekonomi atas dasar harga konstan tahun 2000 menurut Kabupaten/Kota Provinsi Aceh Tahun 2008-2011 bersumber dari BPS.
+b. Data Realisasi Pendapatan Asli Daerah (PAD) Kabupaten/Kota Provinsi Aceh tahun 2008-2011 bersumber dari Public Expenditure Analysis and Capacity Strengthening Program (PECAPP).
+c. Data Realisasi Dana Alokasi Umum (DAU) Kabupaten/Kota Provinsi Aceh tahun 2008-2011 bersumber dari dari Public Expenditure Analysis and Capacity Strengthening Program (PECAPP).
+d. Data Realisasi Dana Alokasi Khusus (DAK) Kabupaten/Kota Provinsi Aceh tahun 2008-2011 bersumber dari Public Expenditure Analysis and Capacity Strengthening Program (PECAPP).
+e. Data Realisasi Dana Otonomi Khusus Kabupaten/Kota Provinsi Aceh tahun 2008-2011 bersumber dari dari Buku Kajian Pengelolaan dan Pemanfatan Dana Otonomi Khusus Aceh.
+1. Metode Data Panel
+Metode analisis yang penulis gunakan secara umum menganalisis tentang Pengaruh Pendapatan Asli Daerah (PAD), Dana Alokasi Umum (DAU), Dana Alokasi Khusus (DAK) dan Dana Otonomi Khusus terhadap Pertumbuhan Ekonomi Kabupaten/Kota di Provinsi Aceh adalah metode kuantitatif. Data ini berbentuk data time series dari tahun 2008 sampai 2011 dan cross section yang terdiri dari 18 kabupaten dan 5 kota sehingga data yang digunakan adalah pooled data (data panel).
+Gabungan antara data cross section dan data time series disebut data panel atau data pool (Winarno, 2007). Menurut Agus Widarjono (2013) penggunaan data panel dalam sebuah observasi mempunya mempunyai beberapa keuntungan yang diperoleh. Pertama, data panel yang merupakan gabungan dua data time series dan cross section mampu menyediakan data yang lebih besar banyak sehingga akan lebih menghasilkan degree of freedom yang lebih besar. Kedua menggabungkan informasi dari data time series dan cross section dapat mengatasi masalah yang timbul ketika ada masalah penghilangan variabel (omitted-variabel).
+Menurut Widarjono (2013 : 355) secara umum terdapat 3 pendekatan data panel yang sering digunakan:
+a. Model Common Effect
+Teknik yang paling sederhana untuk mengestimasi data panel adalah hanya dengan mengkombinasikan data time series dan data cross section. Dengan hanya menggabungkan data tersebut tanpa melihat perbedaan antar waktu dan individu maka kita bisa menggunakan metode OLS untuk mengestimasi data panel. Metode ini dikenal dengan estimasi Common Effect. Dalam pendekatan ini tidak memperhatikan dimensi individu maupun waktu. Diasumsikan bahwa perilaku data antar variabel sama dalam berbagai kurun waktu (Widarjono, 2013).
+b. Model Fixed-Effect
+Pada Common Effect Model diasumsikan bahwa intersep maupun slope adalah sama baik antar waktu maupun antar variabel. Namun asumsi tersebut jelas akan berbeda, salah satu cara paling sederhana mengetahui adanya perbedaan adalah dengan mengasumsikan bahwa intersep adalah berbeda antar perusahaan sedangkan slope-nya tetap sama antar variabel. Teknik model Fixed Effect adalah teknik mengsetimasi data panel dengan menggunakan variabel dummy untuk menangkap adanya perbedaan intersep. Pengertian Fixed Effect ini didasarkan adanya perbedaan intersep antara variabel namun intersepnya sama antar waktu (time variant). Disamping itu, model ini juga mengasumsikan bahwa koefisien regresi (slope) tetap antar perusahaan dan antar waktu. Metode teknik variabel dummy untuk menjelaskan perbedaan intersep disebut juga dengan teknik Least Square Dummy Variabel (LSDV) (Widarjono, 2013).
+c. Model Random Effect
+Penambahan variabel dummy di dalam model fixed effect bertujuan untuk mewakili ketidaktahuan kita tentang model yang sebenarnya. Namun, ini juga membawa konsekuensi berkurangnya derajat kebebasan (degree of freedom) yang pada akhirnya mengurangi efisiensi parameter. Sehingga masalah tersebut dapat diatasi dengan menggunakan variabel gangguan (error terms) yang dikenal sebagai metode random effect. Di dalam model ini akan mengestimasi data panel dimana variabel gangguan mungkin saling berhubungan antar waktu dan antar individu (Widarjono, 2013 ).
+2. Pemilihan Model Data Panel
+Dalam pemilihan model data panel kita perlu melakukan dua tahap, yaitu dengan membandingkan PLS dengan FEM dan dengan pengujian Hausman test untuk menentukan metode mana yang akan dipakai FEM atau REM.
+a. PLS vs FEM (Uji Chow)
+Chow test yakni pengujian untuk menentukan model Common Effect Model atau Fixed Effect Model (FEM) yang paling tepat digunakan dalam mengestimasi data panel. Uji ini dilakukan untuk mengetahui model Common Effect Model atau FEM yang akan digunakan dalam estimasi. Relatif terhadap Fixed Effect Model, Common Effect Model adalah restrical model dimana ia menerapkan intercept yang sama untuk seluruh individu. Padahal asumsi bahwa setiap unit cross section memiliki perilaku yang sama cenderung tidak realistis mengingat dimungkinkan saja setiap unit tersebut memiliki perilaku yang berbeda. Untuk mengujinya dapat digunakan restricted F-Test, dengan hipotesa sebagai berikut:
+H0 : Model PLS (Restricted)
+H1 : Model Fixed Effect (Undrestricted)
+F = (R2 UR- R2 R)/m
+(1-R2UR)/df
+Di mana:
+R2UR : Unrestricted R2
+R2R : Restructed R2
+m : df for numerator (N-1)
+df : df for denominator (NT-B-K) N : Jumlah Unit Cross section
+T : Jumlah Unit time series
+K : Jumlah koefisien variabel
+
+Dasar penolakan terhadap hipotesis adalah dengan membandingkan F-Statistik dengan F-Tabel. Perbandingan dipakai apabila hasil F hitung lebih besar dari F tabel maka H0 ditolak yang berarti model yang paling tepat digunakan adalah Fixed Effect Model. Begitupun sebaliknya, jika F-hitung lebih kecil dari F tabel maka H0 diterima dan model yang digunkana adalah Common Effect Model.
+b. FEM vs REM (Uji Hausman)
+Setelah selesai melakukan uji Chow dan didapatkan model yang tepat, maka selanjutnya menguji model manakan antara model Fixed Effect atau model Random Effect yang paling tepat, pengujian ini disebut sebagai uji Hausman. Ada beberapa pertimbangan teknis empiris yang dapat digunakan sebagai panduan untuk memilih antara Fixed Effect Model atau Random Effect Model yaitu:
+1. Bila T (jumlah unit time series) besar sedangkan N (jumlah unit cross section) kecil, maka hasil FEM dan REM tidak jauh berbeda. Dalam hal ini pilihan umumnya akan didasarkan pada kenyamanan perhitungan, yaitu FEM.
+2. Bila N besar atau T kecil, maka hasil estimasi kedua pendekatan dapat berbeda signifikan. Jadi, apabila kita pilih dalam penelitian diambil secara acak (random) maka REM harus digunakan, begitu juga sebaliknya.
+3. Apabila cross section error component (€i) berkolerasi dengan variabel bebas X maka parameter yang diperoleh dengan REM akan bias sementara parameter yang diperoleh dengan FEM tidak habis.
+4. Apabila N dan T kecil, dan apabila asumsi yang mendasari REM dapat terpenuhi, maka REM lebih efisien dibandingkan tidak bias. Keputusan penggunaan FEM dan REM dapat pulas ditentukan dengan menggunakan spesifikasi yang dikembangkan dengan Hausman. Spesifikasi ini akan memberikan penilaian dengan menggunakan Chi-square statistik sehingga keputusan pemilihan model akan dapat ditentukan secara statistik.
+
+Operasional Variabel
+Variabel Dependen
+Berdasarkan uraian pada tinjauan pustaka dan hasil penelitian terdahulu yang berkaitan dengan pengaruh desentralisasi fiskal terhadap pertumbuhan ekonomi. Penelitian ini menspesifikasikan variabel dependen dan definisi operasional sebagai “Y” adalah Laju Pertumbuhan PDRB Provinsi Aceh Atas Dasar Harga Konstan 2000 menurut Kabupaten/Kota tahun 2008-2011.
+Variabel Independen
+Berdasarkan uraian pada tinjauan pustaka dan hasil penelitian terdahulu yang berkaitan dengan pengaruh desentralisasi fiskal terhadap pertumbuha ekonomi, maka penelitian ini menspesifikasikan variabel independen dan definisi operasional sebagai berikut:
+Pendapatan Asli Daerah, merupakan penerimaan yang diperoleh daerah dari sumber-sumber dalam wilayah nya sendiri yang dipungut berdasarkan peraturan daerah sesuai dengan perundang- undangan yang berlaku (Anis dan Ardi, 2007). Menurut UU No. 33 Tahun 2004 yang mengatur tentang Perimbangan Keuangan antara Pemerintah Pusat dan Pemerintah Daerah sumber Pendapatan Asli Daerah berasal dari Pajak Daerah, Retribusi daerah, hasil pengelolaan kekayaan daerah yang dipisahkan, dan lain-lain pendapatan yang sah. Data yang digunakan dalam penelitian ini adalah data nominal realisasi PAD Kabupaten/Kota Provinsi Aceh Tahun 2008-2011.
+Dana Alokasi Umum, merupakan salah satu bentuk bentuk penerimaan daerah yang bersumber dari dana perimbangan (Chalid, 2005). Alokasi Dana Alokasi Umum yang diberikan kepada daerah disesuaikan dengan kondisi dan potensi daerah agar tidak terjadi misah lokasi. Pada prinsipnya pemberian DAU dimaksudkan untuk menjaga perimbangan dan pemerataan antar daerah, terutama bagi daerah yang miskin. Data yang digunakan dalam penelitian ini adalah data nominal realisasi Dana Alokasi Umum Kabupaten/Kota Provinsi Nanggroe Aceh Darussalam 2008 - 2011.
+
+Dana Alokasi Khsusus dialokasikan kepada daerah tertentu untuk membiayai kegiatan khusus yang merupakan urusan daerah, dimana kegiatan khusus tersebut telah disesuaikan dengan fungsi yang telah ditetapkan oleh APBN (Chalid, 2005). Kebijakan pemerintah tentang Dana Alokasi Khusus dialokasikan dari APBN dengan tujuan menutupi kesenjangan penyediaan kebutuhan pelayanan dasar sosial yang menjadi kewenangan daerah sesuai dengan peraturan yang berlaku khususnya bagi daerah yang memiliki kemapuan fiskal yang rendah, dan diharapkan akan tercapai keserasian secara bertahap tingkat pelayanan publik diberbagai bidang. Data yang digunakan dalam penelitian ini adalah data nominal realisasi Dana Alokasi Khusus Kabupaten/Kora Provinsi Aceh 2008 - 2011.
+Provinsi Nanggroe Aceh Darussalam memiliki status Otonomi Khusus maka karena status tersebut Aceh menerima alokasi dana otonomi khusus yang diperuntukan untuk membiayai percepatan pembangunan di Aceh. Menurut UU No. 35 Tahun 2008 tentang penetapan Peraturan Pemerintah tentang Pemerintah Aceh, dana otonomi khusus adalah dana yang dialokasikan untuk membiayai pelaksanaan otonomi khusus suatu daerah. Data yang digunakan dalam penelitian ini adalah data nominal realisasi Dana Otonomi Khusus Kabupaten/Kota Provinsi Aceh 2008-2011.
+HASIL DAN PEMBAHASAN
+Estimasi Model Data Panel
+Pendekatan Pooled Least Square (PLS)
+Pengolahan data pertama menggunakan pendekatan Pooled Least Square (PLS), yang digunakan sebagai salah satu persyaratan untuk melakukan uji F-Restricted. Dari hasil pengolahan E-views 7 didapatkan hasil sebagai berikut:
+Tabel 4.
+Regresi Pooled Least Square (PLS)
+R-squared
+0.707043
+Adjusted R-squared
+0.673562
+Sumber: Data diolah
+
+Pendekatan Fixed Effect Model (FEM)
+Setelah dilakukan pengolahan data dengan metode Pooled Least Square (PLS), selanjutnya dilakukan pengolahan data dengan pendekatan Fixeed Effect Model (FEM). Dari pengolahan E-views 7 didapatkan hasil sebagai berikut:
+Tabel 5.
+Regresi Fixed Effect Model (FEM)
+R-squared
+0.915398
+Adjusted R-squared
+0.873097
+Sumber: Data diolah
+Pendekatan Random Effect Model (REM)
+Setelah dilakukan pengolahan data dengan menggunakan metode Pooled Least Square (PLS) dan Fixed Effect Model (FEM), maka selanjutnya dilakukan uji pendekatan Random Model Effect (REM), dari pengolahan E-views 7 didapatkan hasil sebagai berikut:
+Tabel 6.
+Regresi Random Effect Model (REM)
+R-squared
+0.548764
+Adjusted R-squared
+0.497194
+Sumber: Data diolah
+Pengujian hipotesis ini dilakukan untuk mengetahui apakah hipotesis yang telah ditetapkan diterima atau ditolak secara statistik. Pengujian hipotesis ini dilakukan dengan uji statistik t dan Uji Adj R2 (Adjusted R Square). Dengan menggunakan perangkat lunak Eviews 7, ringkasan hasil pengolahan dapat dilihat pada tabel 7.
+Model penelitian yang menggunakan Fixed Effect Model ini dapat dijelaskan melalui persamaan sebagai berikut:
+LAJU PERTUMBUHAN PDRBit = -142.0403 – 3.996993*LNPADit + 8.898529*LNDAUit - 0.634178*LNDAKit + 0.789162*LNOTSUSit + et it
+Dimana :
+Yit = Laju pertumbuhan PDRB daerah i pada periode t
+X1it = LNPAD (Pendapatan Asli Daerah) daerah i pada periode t
+
+
+
+X2it = LNDAU (Dana Alokasi Umum) daerah i pada periode t
+X3it = LNDAK (Dana Alokasi Khusus) daerah i pada periode t
+X4it = LNOTSUS (Dana Otonomi Khusus) daerah I pada periode t
+Etit = error term
+Dari persamaan regresi yang telah diuraikan sebelumnya, dapat ditarik kesimpulan sebagai berikut:
+a. Jika variabel-variabel independen dianggap konstan atau bernilai nol, artinya variabel independen tidak terjadi peningkatan atau penurunan maka besarnya laju pertumbuhan PDRB Provinsi Aceh adalah sebesar -142.0403 atau -142 persen.
+b. Nilai koefisien regresi variabel Pendapatan Asli Daerah sebesar -3.996993, yang berarti setiap peningkatan pendapatan pendapataan asli daerah sebesar 1% akan menurunkan laju pertumbuhan PDRB sebesar -3,99 persen.
+c. Nilai koefisien regresi variabel dana alokasi umum sebesar 8.898529, yang berarti setiap peningkatan dana alokasi umum sebesar 1% maka akan meningkatkan laju pertumbuhan PDRB sebesar 8,9 persen.
+Tabel 7.
+Hasil Estimasi
+Dependent Variable: GROWTH Method: Panel Least Squares
+Date: 06/17/14 Time: 06:21
+Sample: 2008 2011
+Periods included: 4
+Cross-sections included: 10
+Total panel (balanced) observations: 40
+Variable
+Coefficient
+Std. Error
+t-Statistik
+Prob.
+C
+-142.0403
+47.95919
+-2.961691
+0.0065
+LNPAD
+-3.996993
+0.967343
+-4.131928
+0.0003
+LNDAU
+8.898529
+1.876855
+4.741191
+0.0001
+LNDAK
+-0.634178
+0.994997
+-0.637367
+0.5295
+LNOTSUS
+0.789162
+2.243090
+0.351819
+0.7278
+Effects Specification
+Cross-section fixed (dummy variables)
+R-squared
+0.915398
+Mean dependent var
+3.205750
+Adjusted R-squared
+0.873097
+S.D. dependent var
+4.267758
+S.E. of regression
+1.520320
+Akaike info criterion
+3.944935
+Sum squared resid
+60.09567
+Schwarz criterion
+4.536043
+Log likelihood
+-64.89871
+Hannan-Quinn criter.
+4.158661
+F-statistik
+21.64019
+Durbin-Watson stat
+2.760165
+Prob(F-statistik)
+0.000000
+
+d. Nilai koefisien regresi variabel dana alokasi khusus sebesar -0.634178, yang berarti setiap peningkatan dana alokasi khusus sebesar 1% akan menurunkan laju pertumbuhan PDRB sebesar -0,63 persen.
+e. Nilai koefisien regresi variabel dana dana otonomi khusus sebesar 0.789162 atau dibulatkan menjadi 0,79, yang berarti setiap peningkatan dana otonomi khusus sebesar 1% maka akan meningkatkan laju pertumbuhan PDRB sebesar 0,79 persen.
+Berdasarkan hasil analisis regresi data panel, didapatkan koefisien determinasi sebesar 0.873097. Hal ini berarti 87,30% pertumbuhan ekonomi pada 10 Kabupaten/Kota di Provinsi Aceh periode 2008-2011 dapat dijelaskan oleh variabel pendapatan asli daerah, dana alokasi umum, dana alokasi khusus, dan dana otonomi khusus. Sedangkan 12,7% variabel pertumbuhan ekonomi Provinsi Aceh dijelaskan oleh variabel lain yang tidak diteliti dalam penelitian ini. Variabel lain yang mempengaruhi pertumbuhan ekonomi yang tidak terdapat di dalam penelitian ini menurut Adam Smith dalam Sukirno (2006) adalah jumlah penduduk, jumlah barang modal, luas tanah, sumber daya alam, jumlah tenaga kerja, dan teknologi.
+Kabupaten Aceh Pidie
+Nilai koefisien Fixed Effect pada Kabupaten Aceh Pidie adalah -1.385258 sedangkan nilai C adalah -142.0403, ini mengartikan bahwa terdapat perubahan pada pendapatan asli daerah, dana alokasi umum, dana alokasi khusus, dan dana otonomi khusus baik antar darerah maupun antar waktu, maka Kabupaten Aceh Pidie akan mendapatkan pengaruh individu terhadap laju pertumbuhan PDRB sebesar: -143.425 persen.
+Kabupaten Aceh Tengah
+Nilai Koefisien Fixed Effect pada kabupaten Aceh Tengah adalah 0.974665 sedangkan nilai C adalah -142.0403, ini mengartikan bahwa terdapat perubahan pendapatan asli daerah, dana alokasi umum, dana alokasi khusus, dan dana otonomi khusus baik antar daerah maupun antar waktu, maka Kabupaten Aceh Tengah akan mendapatkan pengaruh individu terhadap laju pertumbuhan PDRB sebesar: -141.065635 persen.
+
+Kabupaten Aceh Timur
+Nilai koefisien Fixed Effect pada Kabupaten Aceh Timur adalah 1.896751 sedangkan nilai C adalah -142.0403, ini mengartikan bahwa terdapat perubahan pada pendapatan asli daerah, dana alokasi umum, dana alokasi khusus, dan dana otonomi khusus baik antar daerah maupun antar waktu, maka Kabupaten Aceh Timur akan mendapatkan pengaruh individu terhadap laju pertumbuhan PDRB sebesar: -140.143549 persen.
+Kabupaten Aceh Utara
+Nilai koefisien Fixed Effect pada Kabupaten Aceh Utara adalah -4.790865 sedangkan nilai C adalah -142.0403, ini mengartikan bahwa terdapat perubahan pada pendapatan asli daerah, dana alokasi umum, dana alokasi khusus, dan dana otonomi khusus baik antar daerah maupun antar waktu, maka Kabupaten Aceh Utara akan mendapatkan pengaruh individu terhadap laju pertumbuhan PDRB sebesar: -146.831165 persen.
+Kabupaten Bener Meriah
+Nilai koefisien Fixed Effect pada Kabupaten Bener Meriah adalah 6.127316 sedangkan nilai C adalah -142.0403, ini mengartikan bahwa terdapat perubahan pada pendapatan asli daerah, dana alokasi umum, dana alokasi khusus, dan dana otonomi khusus baik antar daerah maupun antar waktu, maka Kabupaten Bener Meriah akan mendapatkan pengaruh individu terhadap laju pertumbuhan PDRB sebesar: -135.912984 persen.
+Kabupaten Nagan Raya
+Nilai koefisien Fixed Effect pada Kabupaten Nagan Raya adalah -0.419655 sedangkan nilai C adalah -142.0403, ini mengartikan bahwa terdapat perubahan pada pendapatan asli daerah, dana alokasi umum, dana alokasi khusus, dan dana otonomi khusus baik antar daerah maupun antar waktu, maka Kabupaten Nagan Raya akan mendapatkan pengaruh individu terhadap laju pertumbuhan PDRB sebesar: -142.459955 persen.
+Kabupaten Pidie Jaya
+Nilai koefisien Fixed Effect pada Kabupaten Pidie Jaya adalah 1.039422 sedangkan nilai C adalah -142.0403, ini mengartikan bahwa terdapat perubahan pada pendapatan asli daerah, dana alokasi umum, dana alokasi khusus, dan dana otonomi khusus baik antar daerah maupun antar waktu, maka Kabupaten Pidie Jaya akan mendapatkan pengaruh individu terhadap laju pertumbuhan PDRB sebesar: -141.000878 persen.
+Kota Banda Aceh
+Nilai koefisien Fixed Effect pada Kota Banda Aceh adalah -7.142040 sedangkan nilai C adalah -142.0403, ini mengartikan bahwa terdapat perubahan pada pendapatan asli daerah, dana alokasi umum, dana alokasi khusus, dan dana otonomi khusus baik antar daerah maupun antar waktu, maka Kota Banda Aceh akan mendapatkan pengaruh individu terhadap laju pertumbuhan PDRB sebesar: -149.18234 persen.
+Kota Sabang
+Nilai koefisien Fixed Effect pada Kota Sabang adalah -0.834234 sedangkan nilai C adalah -142.0403, ini mengartikan bahwa terdapat perubahan pada pendapatan asli daerah, dana alokasi umum, dana alokasi khusus, dan dana otonomi khusus baik antar daerah maupun antar waktu, maka Kota Sabang akan mendapatkan pengaruh individu terhadap laju pertumbuhan PDRB sebesar: -142.874534 persen.
+Kota Subulussalam
+Nilai koefisien Fixed Effect pada Kota Subulussalam adalah 4.533898 sedangkan nilai C adalah -142.0403, ini mengartikan bahwa terdapat perubahan pada pendapatan asli daerah, dana alokasi umum, dana alokasi khusus, dan dana otonomi khusus baik antar daerah maupun antar waktu, maka Kota Subulussalam akan mendapatkan pengaruh individu terhadap laju pertumbuhan PDRB sebesar: -137.506402 persen.
+SIMPULAN
+Berdasarkan hasil regresi panel data dengan menggunakan model Fixed Effect dijelaskan bahwa pendapatan asli daerah berpengaruh signifikan terhadap pertumbuhan ekonomi di Provinsi Aceh Tahun 2008-2011 pada tingkat keyakinan 95%. Dimana pendapatan asli daerah berpengaruh signifikan dan negatif terhadap pertumbuhan ekonomi sebesar -3,9%, yang berarti kenaikan 1% pendapatan asli daerah akan menurunkan pertumbuhan ekonomi sebesar -3,9%.
+
+
+Dana alokasi umum berpengaruh signifikan dan positif terhadap pertumbuhan ekonomi di Provinsi Aceh tahun 2008-2011 pada tingkat kepercayaan 95%. Dimana dana alokasi umum berpengaruh signifikan dan positif sebesar 8,9%, yang berarti peningkatan 1% dana alokasi umum akan meningkatkan pertumbuhan ekonomi sebesar 8,9%.
+Dana alokasi khusus berpengaruh tidak signifikan dan negatif terhadap pertumbuhan ekonomi di Provinsi Aceh periode 2008-2011 pada tingkat kepercayaan 95%. Dimana dana alokasi khusus berpengaruh tidak signifikan dan negatif sebesar -0,06% yang berarti penurunan 1% dana alokasi khusus akan menurunkan pertumbuhan ekonomi sebesar -0,06%.
+Dana otonomi khusus berpengaruh tidak signifikan dan positif terhadap pertumbuhan ekonomi di Provinsi Aceh tahun 2008-2011 pada tingkat kepercayaan 95%. Dimana dana otonomi khusus berpengaruh tidak signifikan dan positif sebesar 0,7% yang berarti peningkatan 1% dana otonomi khusus akan meningkatkan pertumbuhan ekonomi sebesar 0,7%.
+Berdasarkan hasil regresi data panel dengan menggunakan model Fixed Effect dijelaskan bahwa secara simultan bahwa pendapatan asli daerah, dana alokasi umum, dana alokasi khusus, dan dana otonomi khusus berpengaruh signifikan sebesar 21,64% terhadap pertumbuhan ekonomi di Provinsi Aceh tahun 2008-2011.

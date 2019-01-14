@@ -1,0 +1,206 @@
+﻿Model Integrasi Penjadwalan Produksi Batch dan
+Penjadwalan Perawatan dengan Kendala Due Date
+
+
+Pendahuluan
+Penjadwalan produksi yang tidak mempertimbang-kan aspek perawatan akan menyebabkan sebuah mesin yang seharusnya menjalani perawatan tetap digunakan. Apabila perawatan tidak dilakukan bisa berakibat mesin mengalami break down. Hal ini akan mengganggu kegiatan produksi. Di pihak lain, jadwal perawatan yang tidak mempertimbangkan jadwal produksi akan menyebabkan sebuah mesin yang sedang sibuk harus dihentikan karena harus menjalani perawatan. Hal ini juga mengganggu jadwal produksi yang telah disusun sebelumnya.
+Gambaran nyata dapat dijelaskan pada kasus beri-kut. Perusahaan X mendapatkan order pekerjaan pemesinan (machinery work) dari industri-industri rekanan dalam kuantitas yang besar untuk setiap order. Perusahaan X mengerjakan pekerjaan dalam batch dengan ukuran batch konstan yang ditetap-kan oleh bagian produksi. Sementara itu, bagian perawatan melakukan perbaikan mesin hanya apa-bila terjadi kerusakan pada mesin (reactive main-tenance). Keterlambatan penyerahan pesanan kepada konsumen tidak bisa dihindarkan jika pada saat mesin sedang melakukan kegiatan produksi, mesin harus menjalani perbaikan yang lama karena rusak. Hal seperti ini sering terjadi.
+Dari uraian di atas dapat ditarik beberapa akar masalah yang dihadapi, yaitu, pertama, bagian pe-rawatan belum menerapkan sistem perawatan preventif, meskipun data waktu kerusakan mesin, selang waktu antar kerusakan dan biaya setiap ke-rusakan sudah tercatat dengan baik. Kedua, bagian produksi menjadwal batch dalam ukuran yang konstan, padahal menurut Dobson et al. [1, 2] dan Halim dan Ohta [3, 4], ukuran batch yang tidak konstan akan memberikan flow time yang lebih baik. Ketiga, data menunjukkan bahwa kerusakan mesin terjadi pada saat produksi sedang berlang-sung, sehingga kerusakan mesin mengganggu pro-duktivitas lantai pabrik.
+Penelitian-penelitian yang membahas integrasi pen-jadwalan batch dan penjadwalan perawatan dengan asumsi waktu perawatan deterministik, antara lain dilakukan oleh Abboud et al. [5], Yeh et al. [6], Kim et al. [7], Herbon et al. [8], Iravani dan Deunyas [8], Indrapriatna [10] serta Altendorfer et al. [11]. Ke-samaan masalah yang dibahas adalah penentuan jadwal produksi dan ukuran batch optimal dengan jadwal perawatan mesin telah diketahui sebelum-nya.
+Penelitian-penelitian yang mengintegrasikan pen-jadwalan batch satu mesin dan penjadwalan pera-watan dengan asumsi waktu perawatan probabilistik yang ditentukan dengan metode optimisasi di antaranya adalah Lee dan Rosenblat [12], Wang dan Sheu [13], Tseng [14], Ben-Daya dan Noman [15], Lin dan Hou [16], Chelbi et al. [16], Makhdoum [18], El-Ferik dan Ben-Daya [19], Fitouhi dan Nourelfath, [20] serta Suliman dan Jawad [21]. Penelitian-pene-litian ini sama-sama membahas integrasi penjad-walan batch dan penjadwalan perawatan pada satu mesin terdeteriorasi, single item, tipe produk diskrit, dan keputusan jumlah dan ukuran batch serta waktu perawatan optimal ditentukan oleh trade off dari setup cost, quality cost, restoring cost, holding cost dan rework cost. Dalam model Wang dan Sheu [13], Tseng [14], Ben-Daya dan Noman [15], Lin dan Hou [16] ditambahkan warranty cost. Lee dan Rosenblat [12] menggunakan kebijakan perawatan inspeksi, Wang dan Sheu [13] menggunakan ke-bijakan perawatan disregard the first-s (DTF-s) dan corrective maintenance (CM). Sementara Ben-Daya dan Noman [15] menggunakan kebijakan perawat-an imperfect preventive maintenance (PM) dan CM, Lin dan Hou [16] menggunakan kebijakan perawat-an PM dan CM, Chelbi et al. [16] menggunakan kebijakan age-based PM serta El-Ferik dan Ben-Daya [19] menggunakan kebijakan perawatan PM pada akhir setiap production run atau jika suatu keruakan terjadi, tetapi Makhdoum [18] dan Tseng [14] hanya menggunakan kebijakan perawatan PM. Selanjutnya Fitouhi dan Nourelfath [20] mengguna-kan kebijakan perawatan PM replacement dan CM serta Suliman dan Jawad [21] memperbaiki hasil yang diperoleh oleh Chelbi et al. [16] dengan mengu-sulkan kebijakan perawatan kombinasi antara inspeksi dan age-based PM. Penelitian-penelitian ini tidak melibatkan due date dalam pembahasannya.
+Berdasarkan uraian di atas, maka dapat dilihat bahwa perlu dilakukan pengintegrasian penjad-walan batch dan penjadwalan perawatan preventif (preventive maintenance/PM). Artinya, jadwal pro-duksi dan jadwal preventif ditentukan secara ber-samaan. Penelitian ini mengusulkan model inte-grasi penjadwalan batch dan penjadwalan perawat-an pada sistem manufaktur satu mesin yang mem-produksi sejumlah part sejenis yang harus dikirim secara bersamaan pada saat due date tertentu (common due date). Variabel keputusan model ada-lah jumlah dan jadwal perawatan preventif (preven-tive maintenance/PM), panjang interval antar dua PM yang berurutan (production run) serta jumlah batch, ukuran batch dan jadwal batch produksi pada setiap production run. Fungsi tujuan adalah me-minimisasi total biaya, yang terdiri dari biaya simpan selama part diproses, biaya setup dan biaya PM. Penelitian ini mengasumsikan tidak ada part non conforming selama berproduksi.
+
+
+Biaya simpan dalam Indrapriatna et al. [10] dikembangkan
+dari Halim dan Ohta [4] dapat dijelaskan
+sebagai berikut. Misalkan terdapat q part dari satu
+jenis item akan dijadwal dengan kriteria minimisasi
+waktu tinggal aktual (actual flow time) dan akan
+diserahkan pada suatu due date bersama d, sebagaimana
+ditunjukkan pada Gambar 1.
+Misalkan q part tersebut dibagi menjadi N batch L[i]
+(i = 1, 2, ..., N) dengan ukuran masing-masing batch
+adalah Q[i] (i = 1, 2, ..., N). Diasumsikan bahwa
+bahan baku datang tepat pada saat dibutuhkan,
+yaitu pada saat awal pemrosesan batch, maka biaya
+simpan hanya untuk in-process-batch (batch yang
+masih mengandung part yang belum atau sedang
+diproses) dan completed-batch (seluruh part dalam
+batch sudah selesai diproses). Asumsi untuk inprocess-
+batch adalah bahwa part di dalam suatu
+batch akan menunggu dalam batch tersebut sampai
+seluruh part dalam batch tersebut selesai diproses.
+Indrapriatna et al. [10] merumuskan total biaya
+simpan part untuk satu production run adalah
+sebagaimana ditunjukkan pada Persamaan (1).
+
+
+
+Suku pertama dalam Persamaan (1) adalah total
+biaya simpan untuk semua batch selesai (completed
+batch) dan suku kedua dan ketiga adalah total biaya
+simpan selama part diproses dalam batch (in process
+batch) dalam satu production run.
+Model konseptual dari penjadwalan batch dengan g
+production run akan memiliki susunan batch sebagaimana
+ditunjukkan pada Gambar 2.
+Pengembangan biaya simpan untuk g production
+run yang dikembangkan dari Indrapryatna et al. [10]
+adalah sebagaimana ditunjukkan pada Persamaan
+(2).
+
+
+Duarte dan Soares [22] mensyaratkan PM dalam
+Proposisi 1 tersebut adalah perfect maintenance sehingga
+setelah PM dilaksanakan maka mesin
+menjadi as good as new. Dalam suatu planning
+horizon dengan g production run akan terdapat g
+PM. Setiap PM adalah perfect maintenance. PM
+pertama terjadwal atau PM terakhir yang dilakukan
+tepat saat due date d, untuk menjamin pada
+saat planning horizon berikutnya mesin dalam
+kondisi as good as new. Total biaya PM dinyatakan
+dengan TCPM = g cPM.
+
+
+Fungsi tujuan yang diminimumkan adalah total biaya yang terdiri dari biaya simpan, biaya perawat-an preventif dan biaya setup, yang dirumuskan dengan Persamaan (6). Persamaan (7) menyatakan keseimbangan material di shop, yaitu jumlah part dalam semua batch harus sama dengan jumlah part yang akan dijadwal. Persamaan (8) dan (9) menya-takan waktu mulai semua batch masing-masing pada run pertama dan run selanjutnya. Setiap batch terjadwal harus sedekat mungkin dengan due date d. Persamaan (10) menyatakan waktu proses semua batch dalam setiap production run harus lebih kecil atau sama dengan √ sebagaimana di-rumuskan oleh Duarte dan Soares [22].
+
+
+
+Persamaan (11) menyatakan suatu set kendala
+secara berturut-turut menyatakan waktu mulai PM
+[1] harus tepat saat waktu penyerahan d, waktu
+selesai PM [1] sama dengan d ditambah lamanya
+waktu PM tPM, waktu mulai PM[k] akan sama
+dengan waktu mulai batch pertama pada production
+run ke-k ditambah dengan waktu proses batch
+tersebut, serta waktu selesai PM[k] akan sama
+dengan waktu mulai PM[k] ditambah dengan
+lamanya waktu PM tPM, k = 2, 3, …, g. Asumsi
+yang digunakan adalah PM[1] terjadwal atau PM
+terakhir dilakukan setelah semua batch selesai
+diproses atau tepat saat due date untuk menjamin
+mesin dalam kondisi as good as new pada pengerjaan
+order berikutnya. Kendala (12) menyatakan total
+waktu proses semua part yang dijadwal. Kendala
+(13) menyatakan deklarasi x sebagai panjang waktu
+maksimum antar dua PM berurutan dari Duarte
+dan Soares [22]. Kendala (14) menyatakan total
+waktu setup untuk total N batch dan total waktu
+PM sepanjang planning horizon serta total waktu
+proses harus lebih kecil atau sama dengan due date
+d. Sehingga jumlah batch maksimum untuk g
+production run yang mungkin dapat dihitung
+dengan persamaan.
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+ 
+
+
+ 
+
+
+
+
+
+S
+t tq
+x
+T
+d
+N
+PM 1 (20)
+Kendala (15) menyatakan jumlah run yang layak
+untuk suatu order ukuran q part yang akan dijadwal.
+Kendala (16) menyatakan syarat kenonnegatifan
+variabel keputusan untuk ukuran batch terjadwal.
+Kendala (17) menyatakan kendala binary
+untuk batch terjadwal, dimana variabel binary [ ]
+di set untuk setiap langkah dalam algoritma pencarian
+solusi. Kendala (18) menyatakan eksistensi
+jumlah batch dalam setiap run. Kendala (19) adalah
+kendala binary dimana setiap batch tak kosong
+akan memiliki nilai [ ] dan setiap batch yang
+kosong akan memili nilai [ ]
+Algoritma Pemecahan Model [SISS]
+Model ini termasuk kategori mixed integer non
+linear programming. Solusi analitik tidak dapat
+digunakan, karena teknik analitik mensyaratkan
+fungsi tujuan dan semua fungsi kendala adalah
+kontinu dan terdiferensialkan (Winston [22]). Dalam
+model terlihat ada beberapa kendala yang memuat
+variabel binary [ ] dan Nk yang tidak kontinu.
+Untuk menyelesaikan Model [SISS] dirancang suatu
+algoritma optimisasi dengan melakukan relaksasi
+terhadap variabel binary [ ], dan menetapkan
+nilai [ ] = 1 atau [ ] = 0, untuk
+k = 1, 2, …, g. Ambil Nk = ⌊ ⌋, dengan N dihitung dengan Persamaan (20) untuk k = 1, 2,…, g, dan g
+dihitung dengan Persamaan (15). Setiap relaksasi
+terhadap variabel binary [ ] dan Nk maka model
+akan menjadi problem non linear programming
+biasa. Setiap problem non linear programming
+dalam algoritma diselesaikan dengan software
+Lingo. Software Lingo memberikan solusi local optimal
+untuk setiap iterasi dalam Algoritma [SISS].
+Setiap iterasi dalam Algoritma [SISS] menghasilkan
+sebuah solusi feasible, dan kemudian Algoritma
+[SISS] melakukan pencarian solusi terbaik dari
+solusi-solusi feasible tersebut.
+Algoritma [SISS] yang dikembangkan dimulai
+dengan pemeriksaan kelayakan problem terhadap
+model, dimana jumlah dari total waktu proses,
+jumlah waktu setup minimum dan jumlah waktu
+PM tidak akan melebihi waktu tenggat d. Kemudian
+hitung jumlah production run dan jumlah batch
+maksimum yang mungkin. Perhatikan production
+run pertama dari arah waktu tenggat d, naikkan
+jumlah batch pada production run ini sampai total
+biaya TC meningkat atau jumlah batch maksimum
+tercapai. Lakukan ini untuk production run kedua
+dan seterusnya sampai g production run. Langkah
+akhir tulis solusi optimal dari problem sebagai nilai
+minimum TC dan tulis semua variabel keputusan
+problem. Selengkapnya algoritma untuk Model
+[SISS] adalah sebagai berikut.
+
+
+Hasil dan Pembahasan
+Studi Kasus
+Berikut ini disajikan suatu studi kasus dimana sebagian data berasal dari masalah nyata yang ditinjau dalam penelitian ini. Perusahaan X adalah sebuah industri manufaktur yang memproduksi plate-1 sebagai bagian dari rotary bracket assembly untuk kapal. Proses pada mesin adalah frais single stage.
+Misalkan sistem manufaktur ini harus memroses sejumlah part q = 200 unit, waktu setup antar batch s = 30 menit, waktu proses per part t = 20 menit, panjang interval PM konstan tPM = 60 menit = , parameter bentuk distribusi Weibull β = 1,692820 dan parameter skala α = 2857,142857, laju per-baikan konstan μ = , availabilitas target A = 98%, waktu penyerahan seluruh part d = 5.000, biaya simpan satuan finished part c1 = US$ 0,20 per unit per menit, biaya simpan satuan in process part c2 = US$ 0,10 per unit per menit, biaya satuan PM cPM = US$ 30 per satu kali PM serta biaya satuan setup cs = US$ 3.
+Solusi
+L1 sampai L3 algoritma model memberikan T = 4.000, 4.000 + 2x30 + 1x60 = 4.120 < 5000, x = 2.471,65, sehingga contoh ini layak untuk model.
+L4 memberikan g = 2 dan N1 = N2 = 32.
+L5 dan L6 memberikan [ ] = 101.625,50.
+L7 sampai L18 ditampilkan pada Tabel 1.
+L19 menunjukkan solusi minimal contoh sebagai-mana ditampilkan pada Tabel 2.
+Perbandingan Solusi Studi Kasus dengan Praktek di Lapangan
+Bila Perusahaan X menerapkan jadwal produksi dengan batch konstan dengan ukuran 20 part, dan perawatan mesin dilakukan hanya apabila terjadi kerusakan pada mesin (reactive maintenance). Apabila problem Contoh ini dijadwal dengan batch konstan, dimana 200 part akan dibagi menjadi 10 batch. Jika 10 batch ini dimasukkan ke dalam Algoritma [SISS] maka total biaya untuk ukuran batch konstan ini adalah US$ 93.550,00 (lihat Tabel 3). Sementara dengan metoda yang dikembangkan total biaya adalah US$ 89.531,58. Kerugian lain yang mungkin terjadi dalam praktek di perusahaan tersebut adalah kerusakan mesin terjadi pada saat kegiatan produksi sedang berlangsung. Tentu saja hal ini akan menimbulkan opportunity cost yang menjadi beban perusahaan. Metode yang dikem-bangkan akan memberikan efisiensi biaya paling sedikit 4,3%.
+Analisis Sensitivitas
+Untuk melihat perilaku model terhadap perubahan parameter-parameter model dilakukan analisis sen-sitivitas sebagaimana dapat dilihat pada Tabel 4. Tanda panah pada Tabel 4 menunjukkan perubah-an nilai pada kolom yang berada di atas tanda panah.
+Perubahan pada biaya satuan PM pada q = 200 dan d = 5000 memberikan kesimpulan bahwa urutan batch solusi terbaik algoritma [SISS] akan meng-ikuti metode SPT (short processing time), panjang production run pertama (dari arah due date) lebih besar dari production run kedua, perubahan biaya satuan PM pada model tidak mengubah urutan batch, dan waktu antar dua PM maksimum dimanfaatkan secara maksimal pada production run pertama. Gantt-Chart untuk solusi minimal Contoh dapat dilihat pada Gambar 3.
+Perubahan pada biaya satuan PM pada q = 300, d = 10000) memberikan kesimpulan urutan batch selalu mengikuti metoda SPT (short processing time), panjang production run pertama (dari arah due date) lebih besar dari production run kedua, pro-duction run kedua lebih besar dari production run ketiga. Perubahan biaya satuan PM pada model tidak mengubah urutan batch, serta waktu antar dua PM maksimum dimanfaatkan secara maksimal pada production run pertama (dari arah due date).
+Perubahan pada jumlah part yang dijadwal pada d = 10000 memberikan kesimpulan urutan batch selalu mengikuti SPT dan panjang production run pertama dari awal waktu produksi lebih kecil dari panjang production run berikutnya dan begitu seterusnya sampai waktu due date.
+Perubahan pada biaya simpan finished part c1 pada c2 = 0,1, q = 200 dan d = 5000 memberikan kesim-pulan urutan batch mengikuti SPT, panjang pro-duction run pertama dari awal waktu produksi lebih kecil dari panjang production run berikutnya dan begitu seterusnya sampai waktu due date, dan dengan membesarnya c1 maka diperkirakan jumlah batch akan mengecil dan total biaya TC meningkat dengan tajam.
+
+
+Perubahan pada biaya simpan work in process part c2 pada c1 = 0,2, q = 200 dan d = 5000) memberikan kesimpulan urutan batch mengikuti SPT, dengan membesarnya c2 panjang production run pertama dari awal waktu produksi lebih besar dari panjang production run berikutnya dan begitu seterusnya sampai waktu due date. Membesarnya c2 maka jumlah batch akan membesar.
+Perubahan pada biaya setup antar batch cS pada c1 = 0,2; c2 = 0,1; q = 200 dan d = 5000 memberikan kesimpulan urutan batch mengikuti SPT, panjang interval production run membesar dari awal waktu produksi sampai waktu due date. Panjang produc-tion run pertama (dari arah due date) sama dengan panjang selang antar PM maksimum x, serta dengan membesarnya biaya satuan setup antar batch cS, maka diperkirakan jumlah batch optimal akan mengecil secara lambat.
+
+Simpulan
+Model [SISS] mengintegrasikan penjadwalan batch dan penjadwalan preventive maintenance dengan kriteria minimisasi biaya simpan, biaya setup dan biaya perawatan preventif (preventive maintenance/ PM). Model ini dapat menentukan jadwal produksi batch dan jadwal perawatan preventif (preventive maintenance/PM) secara bersamaan. Model ini mengasumsikan tidak ada part yang nonconforming selama suatu planning horizon.
+Dari solusi Contoh dan analisis sensitivitas model terhadap perubahan parameter-parameter model dapat ditarik beberapa kesimpulan sebagai berikut. Urutan batch solusi terbaik algoritma [SISS] akan mengikuti metoda SPT (short processing time). Perubahan biaya satuan PM tidak mengubah urut-an batch pada solusi terbaik. Panjang production run pertama dari awal waktu produksi lebih besar dari panjang production run kedua dan begitu seterusnya sampai waktu due date, kecuali dengan bertambahnya biaya simpan satuan work in process part c2. Apabila biaya simpan satuan work in process dinaikkan maka pola tersebut akan berlanjut sampai batas nilai biaya tertentu dan selanjutnya pola menjadi sebaliknya.
+Penelitian ini dapat dikembangkan menjadi bebe-rapa topik bahasan lebih lanjut, yaitu: Melepas asumsi bahwa tidak ada part yang non conforming selama berproduksi. Kasus sistem manufaktur multi item yang diproses pada satu mesin. Kasus sistem manufaktur flow shop.

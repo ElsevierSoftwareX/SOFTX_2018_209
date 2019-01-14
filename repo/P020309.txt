@@ -1,0 +1,133 @@
+﻿ABSTRAK
+Angkutan umum merupakan salah satu bagian dari transfortasi perkotaan
+maupun pedesaan yang telah menjadi kebutuhan pokok masyarakat kota yang
+tidak dapat dipisahkan dengan kehidupan masyarakat pada umumnya.
+Objek penelitian ini yaitu berupa aplikasi sistem informasi tentang
+pemetaan trayek angkutan kota dan fasilitas sosial berbasis web dengan studi
+kasus di Kecamatan Rangkasbitung, Banten. Web-based GIS (WebGIS) adalah
+aplikasi sistem informasi geografis (SIG) yang terdistribusi dalam suatu jaringan
+komputer untuk mengintegrasikan dan menyebarluaskan informasi geografis
+secara visual pada World Wide Web. WebGIS dibandingkan dengan desktop SIG
+menawarkan beberapa keuntungan seperti efesiensi biaya, efisiensi beban kerja
+sumber daya manusia untuk instalasi, pemeliharaan dan dukungan teknis,
+pemangkasan kurva pembelajaran untuk pengguna akhir dan keunggulan dalam
+hal integrasi data spasial dan data non spasial.
+
+Hasil penelitian ini berupa sebuah aplikasi SIG berbasis web yang
+memberikan kemudahan kepada masyarakat yang baru pertama kali pergi ke
+Rangkasbitung agar bisa mengetahui rute/trayek angkutan kota yang sedang
+beroperasi dan juga mengetahui fasilitas sosial yang di lalui oleh rute angkot
+tersebut.
+
+Analisis dalam penelitian ini dibagi menjadi dua analisis yaitu trayek
+angkutan kota yang banyak melewati fasilitas sosial dan juga pengujian aplikasi
+SIG berbasis web, dengan dibagi menjadi tiga kelompok yaitu pengujian validasi
+jarak trayek dan tarif angkot, pengujian aplikasi dengan web browser dan
+pengujian usability
+Kata Kunci : Transportasi, Angkutan Kota, Fasilitas Sosial, WebGIS
+
+BAB I
+PENDAHULUAN
+1.1 Latar Belakang
+Rangkasbitung adalah sebuah kecamatan di Kabupaten Lebak dan juga
+merupakan ibu kota dari Kabupaten Lebak yang berada di Provinsi Banten.
+Kecamtan Rangkasbitung berbatasan dengan Kabupaten Serang di sebelah utara,
+Kecamatan Cimarga di sebelah selatan, Kecamatan Cibadak di sebelah barat, dan
+Kecamtan Maja di sebelah timur. Kecamatan Rangkasbitung terletak di antara 6°
+21' 17" LS dan 106° 14' 50" BT. Kecamatan Rangkasbitung meliputi 10 desa dan
+lima kelurahan, antara lain Rangkasbitung Barat, Rangkasbitung Timur, Muara
+Ciujung Barat, Cimangeungteung, Citeras, Kolelet Wetan, Mekarsari, Nameng,
+Pabuaran, Pasirtanjung, Sukamanah, Muara Ciujung Timur, Jatimulya, Cijoro
+Pasir Dan Cijoro Lebak.
+
+Rangkasbitung memiliki tempat yang strategis karena merupakan tempat
+yang dilalui oleh banyak angkutan umum atau bus-bus besar antar provinsi, yang
+menghubungkan banyak tempat, baik di dalam maupun di luar Rangkasbitung.
+Dalam kehidupan sehari-hari pada daerah perkotaan maupun pedesaan identik
+dengan transportasi yang cukup banyak karena itu merupakan salah satu
+kebutuhan dari masyarakat. Untuk masyarakat yang tidak mempunyai alat
+transportasi pribadi maka beralihlah pada alat-alat transportasi umum yang
+menyewakan jasa angkutan umum dengan membayar setiap perjalanannya.
+Angkutan umum adalah kendaraan umum untuk mengangkut barang atau
+orang dari satu tempat ke tempat yang lain, yang disediakan oleh pribadi, swasta,
+atau pemerintahan, yang dapat digunakan oleh siapa saja dengan cara membayar
+atau sewa. Siapapun boleh menaiki angkutan umum asal mampu membayar
+ongkos sesuai rute yang di tempuh ke tempat yang di tuju.
+Dalam pengoperasiannya angkutan umum tidak terlepas dari trayek atau
+rute perjalanan yang akan dilalui setiap harinya. Trayek angkutan adalah lintasan
+kendaraan umum atau rute untuk pelayanan jasa angkutan orang dengan mobil bus atau mobil biasa yang mempunyai asal dan tujuan perjalanan tetap, lintasan
+tetap dan jadwal tetap maupun tidak berjadwal. Berdasarkan peraturan
+perundangan yang berlaku, perijinan untuk trayek angkutan umum agar bisa
+beroperasi di kelompokan atas angkutan trayek tetap dan teratur dan angkutan
+tidak dalam trayek yag dikenal sebagai izin operasi.
+Dari permasalah di atas maka peneliti ingin membuat website yang dapat
+memudahkan masyarakat baik di dalam maupun yang berasal dari luar
+Rangkasbitung terkait untuk penentuan rute trayek angkutan dan juga fasilitas
+sosial yang akan di tuju atau dikunjungi.
+
+1.2 Rumusan masalah
+Rumusan masalah pada penelitian ini adalah :
+1 Trayek angkutan kota (angkot) apa yang paling banyak melewati fasilitas
+sosial yang berada di Kecamatan Rangkasbitung?
+2 Bagaimana melakukan hasil pengujian terhadap aplikasi pemetaan jalur
+trayek angkutan umum (angkot) berbasis webgis di Kecamatan
+Rangkasbitung?
+
+1.3 Pembatasan Masalah
+Untuk menjelaskan permasalahan yang akan dibahas dalam tugas akhir ini
+dan agar tidak jauh dari kajian masalah yang akan dipaparkan, maka pembatasan
+masalah dalam penelitian ini adalah sebagai berikut:
+1 Penelitian dilakukan di Kecamatan Rangkasbitung, Kabupaten Lebak,
+Banten.
+2 Angkutan umum yang dimaksud adalah angkot yang beroperasi di daerah
+Rangkasbitung.
+3 Fasilitas sosial yang diambil koordinat tempatnya adalah sekolah, pasar,
+terminal, rumah sakit, kantor dinas dan lain-lain.
+4 Fasilitas sosial yang ditentukan koordinat tempatnya hanya yang dilewati
+oleh trayek angkutan umum (angkot) saja.
+
+1.4 Tujuan
+Tujuan yang ingin dicapai dari penelitian ini adalah :
+1. Agar dapat mengetahui berapa banyak rute angkutan kota yang beroperasi
+di Kecamatan Rangkasbitung
+2. Untuk mengetahui tempat-tempat fasilitas sosial yang berada di sekitar
+rute trayek angkutan kota
+3. Untuk mengaplikasikan mata kuliah sistem informasi geografis yang
+nantinya dapat memberikan kemudahan kepada masyarat yang berada di
+Kecamatan Rangkasbitung dalam melihat rute angkutan kota yang sedang
+beroperasi di dalam website atau internet.
+
+1.5 Maanfaat
+Manfaat yang ingin dicapai dari penulisan tugas akhir ini adalah :
+1. Mengetahui persebaran fasilitas sosial yang ada di sekitar rute trayek
+angkot yang sedang beroperasi.
+2. Mempermudah masyarakat dalam mengetahui rute trayek angkutan dan
+fasilitas sosial yang ada di Kecamtan Rangkasbitung.
+
+1.6 Sistematika Penulisan Laporan Penelitian
+Penulisan tugas akhir ini di bagi menjadi lima bab yang saling
+menghubungkan. Adapun sistematika penulisan tugas akhir ini sebagai berikut :
+
+BAB I PENDAHULUAN
+
+Mengenai judul, latar belakang, perumusan masalah, pembatasan
+penelitian, tujuan dan manfaat penelitian, pembatasan penelitian dan
+sistematika penulisan laporan.
+
+BAB II TINJAUAN PUSTAKA
+Menjelaskan tinjauan pustaka dan landasan teori yang berkaitan
+dengan penelitian mengenai gambaran umum fasilitas sosial, rute
+trayek angkutan, mapserver, dan website.
+
+BAB III METODOLOGI PENELITIAN
+Menjelaskan uraian jalannya penelitian yaitu tahap persiapan yang
+terdiri dari data penelitian, perangkat penelitian, pelaksanaan
+penelitian dan pengolahan data.
+
+BAB IV HASIL DAN PEMBAHASAN
+Menjelaskan mengenai pembahasan dan hasil penelitian dari
+pembuatan aplikasi website.
+
+BAB V PENUTUP
+Berisi kesimpulan dari hasil penelitian dan saran sebagai masukan
+penelitian selanjutnya.

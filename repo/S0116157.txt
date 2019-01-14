@@ -1,0 +1,1348 @@
+﻿PENGARUH KONVERGENSI, KOMPLEKSITAS AKUNTANSI,
+DAN PROBABILITAS KEBANGKRUTAN TERHADAP
+TIMELINESS DAN MANAJEMEN LABA
+
+konvergensi IFRS, kompleksitas akuntansi dan
+probabilitas kebangkrutan terhadap timeliness dan manajemen laba, Peneltian ini adalah
+penelitian empiris yang menguji perusahaan non-keuangan yang terdaftar di Bursa Efek
+Indonesia antara tahun 2010 dan 2011. Dengan menggunakan regresi berganda random effect,
+penelitian ini menemukan bahwa konvergensi IFRS yang efektif mulai tahun 2011, kompleksitas
+akuntansi dan probabilitas kebangkrutan memperlama penundaan audit dan pengumpulan laporan
+keuangan. Penelitian ini juga menemukan bahwa konvergensi IFRS pada tahun 2011 dan
+kebangkrutan mengurangi tingkat manajemen laba perusahaan. Akan tetapi, kompleksitas
+akuntansi tidak mempengaruhi tingkat manajemen laba.
+Kata kunci: kompleksitas akuntansi, prediksi kebangkrutan, penundaan audit, timeliness, dan
+manajemen laba.
+PENDAHULUAN
+Beberapa tahun terakhir ini, isu globalisasi
+telah menjadi sebuah fenomena yang tidak
+dapat dihindarkan dalam dunia bisnis. Sebagai
+respon atas meningkatnya dampak globalisasi
+yang semakin kuat, para stakeholder dalam
+pasar internasional pun berupaya untuk mempermudah
+dan menyeragamkan bahasa bertransaksi
+dan berinvestasi (bahasa pelaporan
+keuangan dan standar keuangan) secara
+global. Standar pelaporan keuangan dan standar
+akuntansi global haruslah standar yang
+dapat diterima dan dipahami masyarakat
+global sehingga diperlukanlah standar yang
+sama di seluruh dunia.
+IFRS (International Financial Reporting
+Standards) yang dirumuskan oleh IASB
+(International Accounting Standard Board)
+merupakan standar pelaporan keuangan yang
+diperkirakan dapat menjadi jawaban atas permasalahan
+tersebut. Di seluruh dunia, IFRS
+telah diadopsi oleh banyak negara termasuk negara Uni Eropa, Afrika, Asia, Amerika
+Latin, dan Australia. Sejak tahun 2008,
+diperkirakan sekitar delapan puluh negara
+mengharuskan perusahaan yang telah terdaftar
+dalam bursa efeknya menerapkan IFRS dalam
+mempersiapkan dan menyajikan laporan
+keuangannya. Indonesia pun secara bertahap
+merupakan salah satu negara yang sedang
+mengadopsi IFRS. Pengadopsian IFRS di
+Indonesia telah menjadi perhatian utama
+dalam persiapan laporan keuangan bagi
+manajer maupun auditor. Pengadopsian IFRS
+dipercaya dapat memberikan peningkatan
+kualitas pelaporan keuangan dengan meningkatnya
+komparabilitas dan transparansi bagi
+para pengguna. Pada tahun 2011, proses
+konvergensi IFRS semakin mendekati tahap
+pengimplementasian penuh untuk tahun 2012.
+Hal tersebut ditandai dengan efektifnya 16
+PSAK yang telah konvergen dengan IFRS.
+Globalisasi juga membuka kesempatan
+perkembangan bisnis yang begitu pesat
+sehingga mendorong pemilik atau manajemen
+perusahaan untuk mengembangkan usahanya
+dengan strategi bisnis baik jangka panjang
+maupun jangka pendek. Salah satu caranya
+adalah dengan penggabungan beberapa usaha
+yang akhirnya mempengaruhi jumlah anak
+perusahaan yang dimiliki. Bentuk penggabungan
+usaha yang sering dilakukan adalah
+merger dan akusisi dimana strategi ini dipandang
+sebagai salah satu cara untuk mencapai
+beberapa tujuan yang lebih bersifat ekonomis
+dan jangka panjang. Perusahaan yang memilih
+melakukan penggabungan usaha, maka
+perusahaan memilih struktur organisasi yang
+lebih kompleks. Struktur organisasi yang lebih
+kompleks tersebut turut mempengaruhi proses
+pelaporan keuangan akuntansi yang menjadi
+lebih kompleks dari sebelumnya. Laporan
+keuangan perusahaan induk perlu dikonsolidasi
+karena konsolidasi tersebut akan
+merefleksikan substansi ekonomi dari perusahaan
+dibawah kepentingan pengendali yang
+sama. Hasilnya, perbedaan treatment akuntansi
+antara entitas anak akan berkontribusi ke
+manajemen pendapatan, biaya, serta transaksi.
+Di sisi lain, globalisasi juga dapat
+memberikan tantangan bagi perusahaan dan
+organisasi dalam dunia bisnis untuk berusaha
+menjadi yang terbaik dengan menerapkan
+proses bisnis yang lebih efektif dan efesien.
+Keadaan tersebut membuat persaingan bisnis
+global dari tahun ke tahun semakin besar dan
+perusahaan yang berupaya memasuki bisnis
+global semakin banyak. Dengan demikian,
+perusahaan dalam jangka panjangnya bertujuan
+untuk mempertahankan kelangsungan
+hidup (going concern) usahanya. Kelangsungan
+hidup usaha selalu dihubungkan
+dengan kemampuan manajemen dalam
+mengelola perusahaan agar bertahan hidup.
+Keadaan dunia bisnis yang dinamis pada suatu
+titik dapat menghambat perkembangan perusahaan
+yang tidak memiliki daya saing yang
+kuat sehingga pada akhirnya memperlemah
+kondisi keuangan. Kondisi keuangan yang
+melemah secara menerus membuat perusahaan
+tersebut dipertanyakan status going concern
+perusahaan dan bagaimana probabilitas
+kebangkrutannya.
+Keadaan kondisi perusahaan yang
+mengalami turun dan naik itu seiring berkembangnya
+globalisasi harus diinformasikan
+kepada para stakeholder perusahaan yang bersangkutan.
+Laporan keuangan merupakan
+salah satu media yang menjembatani arus
+informasi antara perusahaan dengan stakeholder.
+Salah satu tujuan laporan yang
+dikeluarkan perusahaan ialah untuk memberikan
+informasi yang akan digunakan oleh pengguna
+laporan untuk pengambilan keputusan
+(Kieso dan Weygandt 2011). Informasi
+tersebut akan berguna jika informasi tersebut
+disajikan secara berkualitas. Sebuah laporan
+keuangan dapat dikatakan berkualitas apabila
+dapat memberikan acuan yang baik pada
+pengguna laporan keuangan dalam melakukan
+sebuah tindakan terkait dalam sebuah
+perusahaan serta dalam keterbatasan berupa
+biaya dan materialitas. Kriteria acuan laporan
+keuangan yang baik secara fundamental dibagi
+menjadi dua, yaitu relevance dan reliable.
+Relevan berarti laporan keuangan tersebut
+dapat digunakan dalam proses pengambilan
+keputusan, sedangkan reliable berarti menggambarkan
+dengan jujur transaksi serta
+peristiwa yang terjadi serta bebas dari kesalahan material yang dapat menyesatkan
+dalam pengambilan keputusan. Sedangkan
+faktor faktor yang dapat meningkatkan
+kualitas laporan keuangan adalah understandbility,
+comparability, verifiabilities, dan
+timeliness (Kieso dan Weygandt 2011).
+Konsep ketepatwaktuan (timeliness)
+merupakan kriteria yang harus dipenuhi agar
+laporan keuangan tersebut dikatakan relevan.
+Laporan keuangan yang dapat diakses
+secepatnya tidak akan kehilangan nilai
+ekonominya saat pengambilan keputusan. Di
+Indonesia, dalam rangka pemberian informasi
+yang tepat waktu dan akurat kepada investor
+mengenai kondisi keuangan emiten atau
+perusahaan publik, Badan Pengawas Pasar
+Modal dan Lembaga Keuangan (BAPEPAM
+dan LK), selaku lembaga yang memegang
+fungsi pengawasan terhadap pasar modal dan
+lembaga keuangan, mewajibkan kepada setiap
+emiten dan perusahaan publik yang telah
+terdaftar di Bursa Efek Indonesia (BEI) untuk
+menyampaikan laporan keuangan tahunan
+kepada BAPEPAM dan LK serta mengumumkan
+laporan keuangan tersebut kepada
+publik. Laporan keuangan tahunan tersebut
+wajib diumumkan kepada publik selambatlambatnya
+pada akhir bulan ketiga setelah
+tanggal laporan keuangan tahunan. Hal ini
+telah diatur dalam Lampiran Keputusan Ketua
+BAPEPAM Nomor Kep-36/PM/2003.
+Berdasarkan Lampiran Keputusan
+Ketua BAPEPAM Nomor Kep- 36/PM/2003,
+laporan keuangan yang diumumkan tersebut
+juga harus memuat opini audit dari akuntan
+atas laporan keuangan yang akan memastikan
+bahwa laporan keuangan tersebut tidak
+mengandung salah saji ataupun kecurangan
+yang dapat merugikan kepentingan pemegang
+saham dan pihak lainnya yang berkepentingan.
+Hal ini menunjukkan bahwa ketepatan waktu
+suatu perusahaan publik dalam mengumumkan
+laporan keuangan kepada publik
+turut dipengaruhi oleh lamanya jangka waktu
+penyelesaian audit atas laporan keuangan oleh
+akuntan karena laporan keuangan harus telah
+diaudit terlebih dahulu sebelum dapat diumumkan
+kepada publik.
+Dengan adanya batas waktu penyampaian
+laporan keuangan oleh BAPEPAM-LK,
+auditor mungkin saja menghadapi tekanan dari
+perusahaan untuk mempercepat auditnya
+dalam memenuhi batas waktu tersebut. Padahal
+auditor memerlukan waktu yang lebih panjang
+jika auditor tahu bahwa ia membutuhkan
+prosedur tambahan karena adanya peningkatan
+risiko audit dari observable karateristik audit.
+Ketika manajemen berniat melakukan manajemen
+laba dan auditor gagal mendeteksi
+unobservable karakteristik audit tersebut,
+maka pembatasan waktu audit akan memberikan
+manajemen peluang untuk tetap melakukan
+manajemen laba. Manajemen laba
+sebenarnya adalah hal yang wajar dilakukan di
+setiap perusahaan. Namun, seiring dengan terjadinya
+kecurangan dalam pelaporan
+keuangan, manajemen laba menjadi suatu hal
+yang bermakna negatif. Praktik manajemen
+laba yang tinggi akan mendistorsi kualitas
+akuntansi sehingga menghasilkan kualitas laba
+yang rendah. Akan tetapi, rendahnya manajemen
+laba tidak menjamin kualitas laba yang
+tinggi. Disisi lain, audit delay yang panjang
+mungkin disebabkan oleh adanya perbedaan
+angka antara auditor dengan klien perusahaan
+karena terdapat masalah dalam proses audit.
+Delay yang seperti itu dapat ditangkap oleh
+investor sebagai penurunan kualitas laporan
+keuangan karena investor tidak mendapatkan
+informasi yang diperlukan secara tepat waktu
+(Givoly dan Palmon 1982).
+Dengan demikian, dapat disimpulkan
+bahwa delay yang pendek belum tentu
+memberikan kualitas laba yang lebih baik.
+Namun delay yang panjang juga belum
+menjamin kualitas laba yang lebih baik. Oleh
+karena itu, dengan alasan pentingnya kualitas
+laporan keuangan, maka penelitian ini bermaksud
+meneliti kualitas laba dari sisi dimensi
+timeliness dan manajemen laba. Berdasarkan
+penjabaran tersebut, maka penelitian ini akan
+meneliti pengaruh PSAK yang telah konvergen
+dengan IFRS dan efektif tahun 2011,
+kompleksitas akuntansi, dan probabilitas
+kebangkrutan terhadap kualitas laporan
+keuangan.
+
+TINJAUAN PUSTAKA DAN PERUMUSAN
+HIPOTESIS
+Teori keagenan (agency theory) menyatakan
+bahwa tindakan manajer dipengaruhi oleh
+adanya konflik kepentingan antara agen
+(manajemen) dengan prinsipal (pemilik) yang
+timbul ketika setiap pihak berusaha untuk
+mencapai atau mempertahankan tingkat
+kemakmuran yang dikehendakinya. Lalu teori
+sinyal (signalling theory) membahas bagaimana
+seharusnya sinyal-sinyal keberhasilan
+atau kegagalan manajemen disampaikan
+kepada pemilik. Penyampaian laporan keuangan
+dapat dianggap sebagai sinyal apakah
+agen telah berbuat sesuai dengan kontrak.
+Dalam hubungan keagenan, manajer memiliki
+asimetri informasi terhadap pihak eksternal
+perusahaan seperti kreditor dan investor. Teori
+keagenan juga mengimpikasikan adanya
+asimetri informasi antara agen dan prinsipal.
+Asimetri informasi muncul ketika manajer
+sebagai agen cenderung memiliki informasi
+lebih banyak mengenai informasi internal dan
+prospek perusahaan dimasa yaang akan datang
+daripada informasi yang dimiliki pemegang
+saham atau stakeholder lainnya. Asimetri
+informasi dan konflik kepentingan yang terjadi
+antara prinsipal dan agen mendorong agen
+untuk menyajikan informasi yang tidak
+sebenarnya kepada prinsipal, terutama jika
+informasi tersebut berkaitan dengan pengukuran
+kinerja agen. Salah satu bentuk tindakan
+agen tersebut ialah earning management. Agar
+dapat meminimalkan asimetri informasi yang
+terjadi antara pihak manajer dan stakeholder,
+maka diperlukan laporan keuangan yang
+disampaikan secara teratur dan tepat waktu
+kepada stakeholder. Dalam hubungan tersebut,
+peran auditor diharapkan dapat menciptakan
+serta menerapkan sikap indepedensi untuk
+dapat menjadi penengah dalam menangani
+kepentingan tersebut.
+Salah satu cara yang digunakan entitas
+untuk menggambarkan keadaan dan kinerjanya
+ke pemangku kepentingan adalah dengan
+melalui laporan keuangan. Pada dasarnya,
+tujuan laporan keuangan adalah menyediakan
+informasi yang menyangkut posisi keuangan,
+kinerja, serta perubahan posisi keuangan yang
+bermanfaat bagi pengguna laporan keuangan
+dalam pengambilan keputusan ekonomi.
+Berdasarkan tujuan tersebut, laporan keuangan
+harus memiliki kualitas informasi akuntansi
+yang baik. Menurut FASB, karakteristik
+kualitatif dari informasi akuntansi terdiri dari
+relevance dan reliability. Relevance yaitu
+mengandung unsur predictive value, feedback
+value, dan timeliness. Reliability yaitu mengandung
+unsur verifiable, faithful representation,
+neutrality, comparibility dan consistency.
+Sedangkan menurut IASB, karakteristik
+kualitatif dari informasi akuntansi ialah
+understandability, relevance, reliable, dan
+omparability. Unsur relevance dari IASB
+mengandung unsur materialitas dan ketepatwaktuan
+(timeliness).
+Ketepatan waktu atau timeliness dari
+laporan keuangan merupakan salah satu elemen
+karakteristik kualitatif laporan keuangan
+yang baik dan berguna untuk pengambilan
+keputusan. Laporan keuangan yang tepat
+waktu berarti laporan tersebut tersedia bagi
+para pengambil keputusan sebelum informasi
+dari laporan tersebut kehilangan kapasitasnya
+untuk mempengaruhi keputusan. Jika pengambil
+keputusan memiliki informasi relevan
+lebih awal, maka semakin besar kapasitas
+laporan keuangan untuk mempengaruhi pengambilan
+keputusan. Dan laporan keuangan
+yang tidak memenuhi ketepatwaktuannya akan
+kehilangan kegunaannya. Ketepatan waktu
+tidak menjamin relevansi, namun relevansi
+tidaklah mungkin tanpa ketepatwaktuan. Oleh
+karena itu, ketepatanwaktuan merupakan
+batasan yang penting pada publikasi laporan
+keuangan dan sebagai salah satu kriteria pendukung
+dari sifat kerelevanan. Proses siklus
+akuntansi harus dilakukan secepat mungkin
+untuk menjamin ketersediaan informasi ditangan
+pemakai laporan keuangan. Ketepatan
+waktu mengimpikasikan bahwa laporan
+keuangan seharusnya disajikan pada suatu
+interval waktu untuk menjelaskan perubahan
+dalam perusahaan yang akan mempengaruhi
+pemakai informasi dalam membuat prediksi
+dan keputusan.
+Schwartz dan Soo (1996) mengukur
+timeliness pelaporan berdasarkan pada kepatuhan perusahaan dalam mematuhi peraturan
+pelaporan informasi keuangan yang ditetapkan
+oleh Stock Exchange Commision. Aktas dan
+Kargin (2011) berargumen bahwa informasi
+harus disampaikan sedini mungkin untuk
+dapat digunakan sebagai dasar untuk membantu
+dalam pengambilan keputusan ekonomi
+dan untuk menghindari tertundanya pengambilan
+keputusan tersebut.
+Salah satu cara melihat kualitas
+laporan keuangan adalah dengan cara melihat
+kualitas laba yang dilaporkan. Manajemen
+laba adalah salah satu faktor yang mempengaruhi
+kualitas laba. Laba yang memiliki
+tingkat manajemen laba yang abnormal adalah
+laba yang tidak berkualitas. Scott (2009)
+mendefinisikan manajemen laba adalah
+pilihan yang diambil manajemen terkait kebijakan
+akuntansi ataupun tindakan yang mempengaruhi
+laba yang dilakukan untuk mencapai
+beberapa tujuan khusus dari pelaporan
+laba.
+Menurut Scott (2009), manajemen laba
+dapat dipandang melalui dua perspektif yaitu
+perspektif kontraktual (contractual perspective)
+dan perspektif pelaporan keuangan
+(financial reporting perspective). Dari
+perspektif kontraktual, manajemen laba dapat
+digunakan sebagai cara yang paling mudah
+dilakukan untuk melindungi perusahaan terhadap
+konsekuensi dari kejadian-kejadian
+yang tidak terlihat ketika kontrak sangat kaku
+dan tidak lengkap. Sedangkan melalui
+perspektif pelaporan keuangan, manajer dapat
+mempengaruhi nilai pasar saham dengan
+melakukan manajemen laba. Manajemen laba
+dapat memberikan informasi terhadap pasar
+dan memungkinkan perusahaan mengkomunikasikan
+laba yang diharapkan secara terus
+menerus.
+Berdasarkan kedua perspektif yang
+dikemukakan oleh Scott (2009), manajemen
+laba merupakan suatu alat yang ‘baik’ bagi
+perusahaan. Akan tetapi, praktik manajemen
+laba yang terlalu banyak dapat mengurangi
+kegunaan informasi keuangan bagi investor.
+Hal ini terutama bila manajemen laba dilakukan
+pada sektor pendapatan utama atau pengungkapan
+yang tidak sempurna. Manajemen
+laba juga mempengaruhi motivasi manajer
+untuk memberikan usaha, karena manajer
+dapat menggunakan manajemen laba untuk
+memperlancar kompensasi mereka sepanjang
+waktu dan dengan demikian mengurangi
+risiko kompensasi. Semakin fluktiatif laba bersih
+yang dilaporkan, semakin tinggi kemungkinan
+terjadinya pelanggaran kontrak. Hal ini
+akan memberikan insentif bagi manajer untuk
+melakukan manajemen laba sehingga perusahaan
+dapat mempertahankan rasio keuangan
+dari waktu ke waktu. Selain itu, manajer
+melakukan manajemen laba untuk kepentingan
+pelaporan terhadap pihak eksternal.
+Schipper (1989) mendefinisikan manajemen
+laba sebagai suatu intervensi yang
+memiliki tujuan tertentu dalam proses pelaporan
+keuangan eksternal demi mendapatkan
+keuntungan pribadi baik bagi manajer maupun
+pemegang saham. Menurut Healy dan Wahlen
+(1999), manajemen laba terjadi ketika manajer
+menggunakan judgement dalam pelaporan
+keuangan dan penyusunan transaksi untuk
+merubah laporan keuangan, yang dipertanggungjawaban
+kepada para stakeholder terkait
+performa ekonomi perusahaan, atau untuk
+memepengaruhi hasil kontraktual yang bergantung
+pada angka akuntansi yang dilaporkan.
+Pengaruh Konvergensi IFRS Efektif 2011
+terhadap Timeliness dan Manajemen Laba
+Yaacob dan Che-Amed (2012) menemukan
+bahwa IFRS sebagai regulasi yang baru
+diterapkan akan meningkatkan audit timeliness.
+Penelitian ini juga membuktikan bahwa
+secara umum IFRS merupakan standar yang
+kompleks, dimana kompleksitasnya tidak
+hanya terletak di perlakuan akuntansi tetapi
+juga terletak pada kesulitan yang melekat pada
+pelaporan dan pengungkapan yang mendetil
+dan lengkap.
+Dengan demikian, terdapat effort lebih
+dalam beberapa area pekerjaan terkait penerapan
+IFRS. IFRS, yang lebih menekankan
+pada principled based, penggunaan fair value,
+dan pengungkapan yang detil baik secara
+kuantitatif dan kualitatif membuat penyusunan
+laporan keuangan membutuhkan judgement.
+Dengan adanya judgement tersebut dan perubahan yang signifikan di beberapa area sebelumnya,
+penerapan PSAK efektif di tahun
+2011 yang telah konvergen dengan IFRS
+membuat persiapan laporan keuangan oleh
+manajemen menjadi lebih lama serta
+meningkatkan resiko audit dalam proses auditnya.
+Akibatnya, auditor memerlukan waktu
+yang lebih banyak dalam memverifikasi
+penilaian yang diberikan akuntan dalam
+laporan keuangan. Auditor juga perlu waktu
+untuk menelusuri bukti audit sehingga akan
+memperpanjang waktu untuk mengeluarkan
+laporan audit.
+H1a: Konvergensi IFRS dalam PSAK yang
+efektif tahun 2011 berpengaruh positif
+terhadap audit delay dan report delay
+Glaum et al. (2008), yang meneliti
+pengaruh adopsi IFRS di Jerman terhadap
+kecendrungan manajemen laba, menemukan
+bahwa adopsi IFRS menurunkan intensitas
+manajemen laba dibandingkan saat menggunakan
+local GAAP. Hal ini didukung pula
+dengan penelitian Chen et al. (2010) yang
+meneliti pengaruh IFRS terhadap kualitas
+akuntansi di negara-negara Uni Eropa. Penelitian
+ini menunjukkan bahwa terjadi peningkatan
+kualitas akuntansi setelah pengadopsian
+IFRS di Uni Eropa. Hal ini ditunjukkan
+dengan lebih sedikitnya pengaturan laba
+dengan target tertentu dan absolute discretionary
+accrual yang jauh lebih rendah.
+Dengan demikian, dapat disimpulkan
+bahwa konvergensi IFRS yang terefleksikan
+dalam 16 PSAK efektif 2011 menurunkan
+manajemen laba dan meningkatkan kualitas
+laporan keuangan. IFRS yang lebih meminta
+pengungkapan yang lebih detil dibanding standar
+sebelumnya membuat manajemen harus
+mengungkapkan segala transaksi yang
+sebelumnya off-balance sheet. Pengungkapan
+yang lebih detil juga mengurangi adanya
+asimetri informasi sehingga meningkatkan
+kualitas laba (Zhou dan Lobo 2008) Dengan
+demikian dapat disimpulkan bahwa perilaku
+manajemen laba diduga menjadi lebih sulit
+saat periode PSAK yang telah konvergen
+dengan IFRS dan efektif tahun 2011 dibandingkan
+dengan PSAK sebelumnya yang
+belum konvergen dengan IFRS.
+H1b: Konvergensi IFRS dalam PSAK yang
+efektif tahun 2011 berpengaruh negatif
+terhadap tingkat manajemen laba
+Pengaruh Kompleksitas Akuntansi terhadap
+Timeliness dan Manajemen Laba
+Ng dan Tai (1994) menemukan bahwa perusahaan
+dengan jumlah anak perusahaan yang
+besar akan memiliki audit delay yang lebih
+panjang karena memiliki tingkat kompleksitas
+akuntansi dan audit yang lebih tinggi. Tingkat
+kompleksitas dari operasi perusahaan, yang
+bergantung pada jumlah dan lokasi dari unit
+operasinya (cabang) dan diversifikasi produk
+dan pasar, diduga akan mempengaruhi lama
+waktu auditor untuk menyelesaikan auditnya
+yang pada akhirnya mempengaruhi lama
+waktu perusahaan mempublikasikan laporan
+keuangannya ke publik.
+Oleh karena itu, diduga ada hubungan
+positif antara kompleksitas akuntansi dan
+audit delay. Hipotesis ini didukung oleh
+Ashton et al. (1987) yang menemukan
+hubungan positif signifikan antara kompleksitas
+operasional dari perusahaan dan audit
+delay. Dalam Bamber et al. (1993), kompleksitas
+dari operasional perusahaan diukur dari
+jumlah lini bisnis yang berbeda yang beroperasi
+pada sampel perusahaan.
+H2a : Kompleksitas akuntansi yang diukur
+dengan jumlah anak perusahaan memperpanjang
+audit dan report delay.
+Dyreng et al. (2011) menemukan
+bahwa manajer perusahaan dengan anak
+perusahaan yang tersebar area geografisnya
+cenderung melakukan manajemen laba yang
+lebih tinggi. Ketika manajer memutuskan
+untuk melakukan manajemen laba, mereka
+perlu memutuskan untuk melakukan manajemen
+laba di tingkat pendapatan domestik,
+pendapatan asing atau keduanya. Manajer
+diduga juga mempertimbangkan cost dan
+benefit saat akan melakukan manajemen laba
+seperti kecenderungan ketahuan serta kompensasi
+bonus yang akan didapat.
+
+Thomas et al. (2004) menemukan
+bahwa perusahaan yang memiliki anak perusahaan
+yang lebih banyak cenderung melakukan
+manajemen laba lebih agresif melalui
+transaksi dengan pihak-pihak yang memiliki
+hubungan istimewa dengannya. Ketika perusahaan
+induk memiliki hubungan dominan
+dengan perusahaan afiliasi, perusahaan induk
+dapat mengatur atau menstruktur transaksi
+antara perusahaannya dengan pihak afiliasinya
+sehingga perusahaan dapat mencapai target
+pelaporan laba.
+Dengan demikian dapat disimpulkan
+bahwa perusahaan dengan anak perusahaan
+yang banyak akan meningkatkan kompleksitas
+organisasi dan kemudian meningkatkan
+asimetri informasi antara manajer dan
+investor. Asimetri informasi seperti ini dapat
+membuka peluang melakukan manajemen laba
+karena investor mungkin tidak memiliki
+insentif, sumber daya dan akses yang cukup
+untuk memantau tindakan manajer (Warfield
+et al. 1995)
+H2b : Kompleksitas akuntansi yang diukur
+dengan jumlah anak perusahaan berhubungan
+postif dengan manajemen laba
+Pengaruh Probabilitas Kebangkrutan
+terhadap Timeliness dan Manajemen Laba
+Perusahaan yang diduga memiliki probabilitas
+kebangkrutan yang lebih besar cenderung
+akan mengalami audit delay yang lebih panjang.
+Perusahaan yang mengalami kesulitan
+keuangan cenderung akan menunda pelaporan
+keuangan karena auditor memerlukan waktu
+yang lebih lama dalam proses audit serta
+membutuhkan data tambahan untuk dapat
+menghasilkan opini yang sesuai dengan
+kondisi perusahaan tersebut. Hal ini didukung
+oleh penelitian sebelumnya (Bamber et al.,
+1993; Jaggi dan Tsui 1999; Schwartz dan Soo
+1996; Habib dan Bhuiyan 2011) yang
+menemukan bahwa kesulitan keuangan
+dengan menggunakan proksi probabilitas
+kebangkrutan berpengaruh terhadap audit
+delay. Dengan demikian, semakin rendah
+(besar) nilai dari Altman Z-Score, maka
+semakin tinggi (rendah) kemungkinan
+terjadinya kegagalan dan semakin buruk
+(bagus) kondisi keuangan perusahaan. Kondisi
+keuangan perusahaan yang buruk akan
+membuat auditor meningkatkan resiko
+auditnya dan kemudian memperpanjang waktu
+audit delay.
+H3a : Probabilitas kebangkrutan berhubungan
+positif dengan audit dan reporting delay
+Kegagalan perusahaan menimbulkan
+biaya ekonomi dan sosial yang besar dan
+mempengaruhi banyak pihak (investor, kre -
+ditor, manajemen dan karyawan) (Charitou et
+al. 2007). Hal ini menyebabkan manajer pada
+perusahaan yang mengalami tekanan keuangan
+(financial distressed) mungkin akan
+memanipulasi laporan keuangan perusahaan
+untuk menutupi atau menunda kondisi kesulitan
+keuangan perusahaan (Charitou et al.
+2007). Sweeney (1994) menemukan bahwa
+perusahaan dalam keadaan distressed akan
+melakukan pilihan memanipulasi laba untuk
+menghindari pelanggaran perjanjian hutang.
+Sedangkan penelitian lain menemukan bahwa
+perusahaan dengan masalah perjanjian hutang
+akan menggunakan akrual diskresioner manajemen
+yang lebih tinggi akibat adanya kesulitan
+keuangan (DeFond dan Jiambalvo 1994;
+Dichev dan Skinner 2002). Sebaliknya,
+DeAngelo et al. (1994), dalam penelitiannya
+pada perusahaan terdaftar di NYSE, menemukan
+bahwa para manajer perusahaan yang
+mengalami kerugian dan pengurangan dividen
+secara persisten cenderung melakukan income
+-decreasing untuk mendapatkan kontrak yang
+lebih baik selama renegoisiasi hutang.
+Penelitian- penelitian ini menunjukan
+manajemen melakukan manajemen laba untuk
+menutup-nutupi kondisi keuangan perusahaan
+ataupun menghindari pelanggaran perjanjian
+hutang, ataupun untuk keberhasilan renegosiasi
+hutang. Arah manajemen laba apakah
+menaikan atau menurunkan laba terhantung
+dari insentif yang dimiliki oleh manajemen.
+Oleh karena itu, dapat disimpulkan bahwa perusahaan
+yang mengalami financial distressed
+akan melakukan manajemen laba baik yang
+sifatnya menaikan ataupun menurunkan laba.
+H3b: Probabilitas kebangkrutan berhubungan
+positif dengan manajemen laba.
+
+Karena arah manajemen laba yang dilakukan
+perusahaan dalam kesulitan keuangan dapat
+menaikan atau menurunkan laba maka dalam
+penelitian ini tidak dibedakan arah manajemen
+laba perusahaan. Pengukuran manajemen laba
+yang digunakan adalah nilai absolut dari
+akrual diskresioner.
+METODA PENELITIAN
+Model Penelitian
+Model 1 untuk menguji hipotesis 1a, 2a, dan
+3a
+Model 1a:
+r:...
+Model 1b:
+r:...
+Model 1c:
+r:...
+Hipotesis penelitian yang telah dikemukan
+sebelumnya dapat disajikan dalam bentuk
+hipotesis statistik sebagai berikut
+H1a: 1 > 0, H2a : 2 > 0, H3a : 3 > 0
+Dimana:
+= Intercept
+ARL = jumlah hari dari tanggal berakhirnya
+laporan keuangan hingga tanggal tanda
+tangan opini
+INTRM = jumlah hari dari tanggal tanda
+tangan opini hingga tanggal publikasi di
+BEI
+TPERIOD = jumlah hari dari tanggal berakhirnya
+laporan keuangan hingga
+tanggal publikasi.
+PSAK = Konvergensi IFRS dalam PSAK
+Efektif 2011 (beri nila 1 untuk tahun
+2011 dan beri 0 jika tidak)
+COMPLX = Jumlah anak perusahaan pada
+tahun t
+BANCR = Variabel dummy, 1 jika perusahaan
+memiliki nilai Altman Z Score di bawah
+1.81 dan 0 jika bukan
+GRAYAREA = Variabel dummy, 1 jika
+perusahaan memiliki nilai Altman Z
+Score antara 1.81-2.9 dan 0 jika bukan
+SIZE = Log natural dari total asset pada tahun t
+CROE = ROE tahun sekarang- ROE tahun
+sebelumnya
+KAP = Beri nilai 1 jika auditor dari BIG4, beri
+nilai 0 jika lainnya
+E = Error
+Model 2 untuk menguji hipotesis 1b, 2b, dan
+3b
+Model 2:
+r:...
+Hipotesis penelitian yang telah dikemukan
+sebelumnya dapat disajikan dalam bentuk
+hipotesis statistik sebagai berikut:
+r:...
+dimana:
+DAC = tingkat akrual diskresioner perusahaan
+i pada tahun t yang telah diabsolutkan
+CFO = arus kas operasi dibagi total aset pada
+tahun t
+GROWTH = pertumbuhan perusahaan yang
+diukur dengan persentase perubahan
+penjualan tahun t dibandingkan tahun t-1
+Operasionalisasi Variabel
+Variabel Dependen dalam penelitian ini
+adalah audit dan report delay dan tingkat
+manajemen laba, Konvergensi IFRS dalam
+PSAK Efektif 2011, Kompleksitas Akuntansi,
+dan probabilitas kebangkrutan. Penjelasan
+operasionalisasi variabel dapat dilihat pada
+tabel 1 berikut.
+
+Variabel Dependen
+1 Audit dan Report Delay
+Reporting lag pada penelitian ini dibagi menjadi sub-period dijelaskan dengan notasi (1) AUDITLAG, yaitu jumlah hari
+dari tanggal berakhirnya laporan keuangan hingga tanggal tanda tangan opini, (2) INTERM, yaitu jumlah hari dari tanggal
+tanda tangan opini hingga tanggal publikasi di BEI, dan (3) TPERIOD, yaitu jumlah hari dari tanggal berakhirnya laporan
+keuangan hingga tanggal publikasi laporan. Definisi ini telah digunakan dalam beberapa penelitian sebelumnya (Sengupta
+2004 dan Al-Ajmi 2008).
+2 Manajemen Laba
+Manajemen laba merupakan salah satu ukuran dari kualitas laba. Manajemen laba diukur menggunakan tingkat akrual
+diskresioner manajemen yang dihitung dari Model Jones (1991) yang telah dimodifikasi oleh Kaznik (1999). Alasan
+model Kaznik dipilih karena model Kaznik merupakan model yang memiliki nilai R-Square terbesar diantara model
+lainnya (Siregar dan Utama 2008). Model Kaznik menghitung tingkat akrual diskresioner manajemen melalui tahapan
+sebagai berikut:
+1. Melakukan estimasi atas total akrual yang dinotasikan sebagai berikut
+  '#
+dimana:
+ACit = total akrual perusahaan i pada periode t
+NIBFit = laba bersih perusahaan i pada periode t
+CFOit = arus kas kegiatan operasi perusahaan i pada periode t
+2. Melakukan estimasi tingkat expected accrual yang difungsikan sebagai berikut dengan metode cross-sectional
+
+(
+ 
+)
+(
+	
+ 
+*  + '*  ,
+(
+	 
+ 
+
+(
+	 
+ * # 	-
+dimana:
+ACit = total akrual
+*  + = pendapatan perusahaan i pada periode t dikurangi pendapatan periode t-1
+*  , = account receivable perusahaan i pada periode t dikurangi pendapatan periode t-1
+ = gross property plant dan equipment perusahaan i pada periode t
+* # = arus kas operasi i pada periode t dikurangi arus kas operasi periode t-1
+( = total aktiva perusahaan i pada periode t-1
+- = DAC = nilai residu i pada periode t
+Variabel independen
+3 Konvergensi IFRS dalam PSAK Efektif 2011
+Penelitian sebelumnya yang dijadikan acuan dalam penelitian ini ialah Habib dan Bhuiyan (2011). Adopsi IFRS
+diproksikan menggunakan variabel dummy tahun pengimplementasian. Angka 1 akan diberikan untuk perusahaan yang
+telah mengadopsi IFRS pada PSAK. Karena IFRS di Indonesia dilakukan secara bertahap dan penelitian ini hanya
+berfokus pada PSAK yang efektif di tahun 2011, maka pemberian variabel dummy didasari dengan tahun sebelum dan
+sesudah efektifnya PSAK yang telah konvergen dengan IFRS di tahun 2011. Perusahaan pada tahun 2011 diberikan nilai
+1 sedangkan perusahaan pada tahun 2010 diberikan nilai 0.
+PSAK yang telah konvergen dengan IFRS dan efektif di tahun 2011 adalah PSAK No 1 (Penyajian Laporan
+Keuangan), PSAK No 2 (Laporan Arus Kas), PSAK No 3 (Laporan Keuangan Interim), PSAK No 4 (Laporan Keuangan
+Konsolidasian dan Laporan Keuangan Tersendiri), PSAK No 5 (Segmen Operasi), PSAK No 7 (Pengungkapan Pihak
+Pihak Relasi), PSAK No 8 (Peristiwa setelah Periode Pelaporan), PSAK No 12 (Bagian Partisipasi dalam Ventura
+Bersama), PSAK No 15 (Investasi pada Entitas Asosiasi), PSAK No 19 (Aset Tak Berwujud), PSAK No 22 (Kombinasi
+Bisnis), PSAK No 23 (Pendapatan), PSAK No 25 (Kebijakan Akuntansi, Perubahan Estimasi Akuntansi dan Kesalahan),
+PSAK No 48 (Penurunan Nilai Aset), PSAK No 57 (Provisi, Liabilitas Kontijensi, dan Aset Kontijensi), dan PSAK No 58
+(Aset Tidak Lancar Dimiliki untuk Dijual dan Operasi yang Dihentikan)
+4 Kompleksitas Akuntansi
+Kompleksitas akuntansi pada penelitian ini juga mengacu pada penelitian Yaacob dan Che Ahmad (2012) yang diukur
+dengan jumlah anak perusahaan yang dimiliki oleh perusahaan. Perusahaan dengan jumlah anak perusahaan yang besar
+akan memiliki tingkat kompleksitas akuntansi yang tinggi pada saat konsolidasi laporan keuangan. Akibatnya, tingkat
+kompleksitas audit juga akan lebih tinggi sehingga akan memiliki waktu audit delay yang lebih panjang (Ng and Tai
+1994). Perusahaan dengan anak perusahaan yang banyak juga meningkatkan kompleksitas organisasi dan kemudian
+meningkatkan asimetri informasi antara manajer dan investor. Asimetri informasi seperti ini dapat membuka peluang
+melakukan manajemen laba karena investor mungkin tidak memiliki insentif, sumber daya dan akses yang cukup untuk
+memantau tindakan manajer (Warfield 1995)
+5 Status Probabilitas Kebangkrutan
+Probabilitas kebangkrutan adalah kemungkinan yang tejadi pada perusahaan akibat adanya kesulitan keuangan yang jika
+sangat parah dapat mengakibatkan kebangkrutan. Pada penelitian ini, peneliti akan menggunakan model probabilitas
+kebangkrutan Altman Z-Score karena model ini merupakan model terbaik yang dapat memprediksi kebangkrutan pada
+perusahaan Indonesia dibandingkan model kebangkrutan Zmijewski dan Springate (Setyarno et al. 2006; Hadi dan
+Anggraini 2008). Selain itu, Model Atman merupakan model yang telah diterima dan digunakan secara luas oleh para
+auditor dalam menilai ketepatan pemberian opini going concern (Fanny dan Saputra 2005). Altman Z-Score dihitung
+dengan cara sebagai berikut:
+Z-Score = 1,2 T1 + 1,4 T2 + 3,3 T3 + 0,6 T4 + 0,999 T5
+Keterangan:
+T1 = working capital/total assets
+T2 = retained earning/ total asset
+T3 = earnings before interest and taxes/ total assets
+T4 = market capitalization/ book value of debt
+T5 = sales/total assets
+Dari hasil analisa model altman tersebut, akan diperoleh Z-score dimana:
+· Perusahaan sehat jika Z > 2,99
+· Perusahaan berada di daerah rawan jika Z = 1,81-2,99
+· Perusahaan bangkrut jika Z < 1,81
+Semakin rendah (besar) nilai dari Z-Score, maka semakin tinggi (rendah) kemungkinan terjadinya kegagalan
+dan semakin buruk (bagus) kondisi keuangan perusahaan. Kondisi keuangan perusahaan yang buruk akan membuat
+auditor meningkatkan resiko auditnya dan kemudian memperpanjang waktu audit delay. Kondisi keuangan yang buruk
+akan mendorong perusahaan untuk melakukan income-increasing accrual karena manajer mempunyai motivasi yang kuat
+untuk memanipulasi kinerja opersional perusahaan yang buruk (Burgstahler dan Dichev 1997). Disisi lain, perusahaan
+akan menggunakan decreasing accrual agar dapat melakukan renegosiasi kontrak utang (DeAngelo et al, 1994). Pada
+penelitian ini peneliti menggunakan variable dummy BANCR dimana 1 untuk perusahaan memiliki probabilitas Altman
+Z-Score dibawah 1.81 dan 0 jika bukan. Sedangkan variable dummy GRAYAREA dimana 1 untuk perusahaan yang
+masuk ke daerah rawan, yaitu dengan nilai Altman Z Score antara 1.81 hingga 2.9, dan 0 jika bukan.
+
+Variabel Kontrol
+Variabel kontrol yang digunakan untuk model
+audit dan report delay adalah ukuran
+perusahaan, good and bad news, dan ukuran
+KAP. Sedangkan variabel kontrol untuk model
+manajemen laba ialah variabel ukuran
+perusahaan, ukuran KAP, arus kas operasi dan
+pertumbuhan penjualan. Penjelasan variabel
+kontrol beserta operasionalisasinya dapat
+dilihat pada tabel 2.
+
+Variabel Penjelasan Operasionalisasi Variabel
+Ukuran Perusahaan
+Ukuran perusahaan dapat memiliki hubungan positif maupun
+negatif terhadap audit dan report delay maupun manajemen laba.
+Perusahaan yang relatif besar memiliki sistem kontrol internal yang
+lebih baik pada perusahaan besar sehingga dapat mengurangi
+kecenderungan terjadinya error dalam laporan keuangan. Hal
+tersebut juga memungkinkan auditor untuk mengandalkan sistem
+kontrol internal perusahaan lebih ekstensif dan lebih banyak
+melakukan kerja interim sehinga auditor dapat mengurangi
+pekerjaan audit pada akhir periode pelaporan (Carslaw dan Kaplan
+1991). Di lain pihak, perusahaan besar cenderung lebih bergantung
+pada pembiayaan dari luar perusahaan sehingga lebih sensitif
+terhadap kebutuhan investor akan prosedur audit yang dilakukan
+untuk menjamin laporan keuangan perusahaan. Kompleksitas bisnis
+dan operasional perusahaan besar juga menyebabkan kompleksitas
+audit yang lebih tinggi sehingga memperpanjang waktu audit yang
+diperlukan (Al-Ajmi 2008).
+Perusahaan besar juga memiliki sistem pengendalian
+internal dan audit internal yang lebih kompeten dibandingkan
+perusahaan kecil sehingga mengurangi tingkat manajemen laba
+(Kim et al, 2003). Perusahaan besar juga cenderung memiliki risiko
+litigasi yang lebih besar sehingga memotivasi perusahaan besar
+untuk meningkatkan transparansi dalam pelaporan keuangan. Di
+lain pihak, Moses (1987) menemukan bahwa perusahaan besar
+memiliki peluang yang lebih tinggi untuk meningkatkan laba secara
+artifisial karena kompleksitas bisnis dan operasionalnya
+menyulitkan pengguna laporan keuangan untuk mendeteksi
+manipulasi tersebut. Semakin besar perusahaan, semakin kompleks
+bisnis dan operasional dan semakin rumit sistem informasi sehingga
+kemungkinan auditor mendeteksi manipulasi laba yang dilakukan
+oleh manajemen berkurang..
+Ukuran perusahaan akan diukur
+dengan menggunakan logaritma
+natural dari total aset perusahaan
+
+Variabel Penjelasan Operasionalisasi Variabel
+Good and Bad News
+Perusahaan yang mengalami kenaikan profitabilitas yang tinggi
+cenderung akan mempercepat publikasi laporan keuangannya
+karena hal tersebut merupakan kabar baik, sedangkan perusahaan
+yang mengalami kerugiannya akan menunda publikasi laporan
+keuangannya (Givoly and Palmon 1982; Haw et al., 2000).
+Penelitian ini akan menggunakan
+variabel profitabilitas dengan
+proksi perubahan dari nilai ROE
+dari tahun sebelumnya.
+Arus Kas Operasi
+Variabel ini dimasukkan untuk mengontrol tingkat kinerja yang
+ekstrim dari perusahaan karena arus kas operasional digunakan
+untuk estimasi yang bersifat non-discretionary accrual yang juga
+menentukan besarnya laba yang akan diperoleh. Semakin tinggi kas
+operasi menunjukkan kesempatan untuk memperoleh laba besar
+sehingga manajemen laba akan dilakukan pada kas operasi.
+Perusahaan dengan arus kas operasi yang tinggi cenderung
+memiliki total akrual rendah sehingga mengurangi tingkat
+discretionary accrual (Dechow et al, 1995).
+Arus kas operasi merupakan nilai
+bersih kas yang dihasilkan dari
+kegiatan operasi perusahaan pada
+akhir tahun yang bersangkutan
+dibagi dengan total asset
+perusahaan pada akhir tahun
+yang sama.
+Growth
+Summers dan Sweeney (1998) menemukan bahwa perusahaan
+dengan pertumbuhan yang tinggi cenderung melakukan manajemen
+laba ketika pertumbuhan melambat untuk mempertahankan
+konsistensi pertumbuhan perusahaan.
+persentase perubahan nilai
+penjualan perusahaan pada tahun
+yang bersangkutan dibandingkan
+dengan tahun sebelumnya.
+Ukuran KAP
+KAP yang memiliki hubungan kerjasama dengan The Big Four
+diharapkan memiliki kompetensi dan kualitas yang lebih baik
+sehingga dapat menyelesaikan proses audit lebih cepat (Leventis et
+al, 2005). Selain itu, KAP yang berafiliasi dengan The Big Four juga
+diasumsikan memiliki kualitas audit yang lebih baik sehingga dapat
+mendeteksi tingkat manajemen laba yang dilakukan perusahaan
+(Francis et al, 1999).
+Variabel ukuran KAP akan
+diukur menggunakan variabel
+dummy dimana KAP yang
+bekerja sama dengan The Big
+Four akan diberi kode 1 sedangkan
+KAP lainnya akan diberi
+kode 0.
+
+Metoda Pengolahan Data
+Pengolahan data akan dilakukan dengan
+menggunakan software Microsoft excel dan
+Stata 12.0. Microsoft excel akan digunakan
+sebagai media pengumpulan data baik variabel
+dependen maupun independen. Stata 12.0
+akan digunakan untuk menjalankan multiple
+regression. Adapun langkah-langkah yang
+akan dilakukan meliputi uji pemilihan model
+data panel, uji statistik dan uji ekonometrika.
+HASIL DAN PEMBAHASAN
+Deskripsi Sampel Penelitian
+Sampel yang digunakan dalam penelitian ini
+berasal dari data laporan tahunan yang
+terdaftar pada Bursa Efek Indonesia (BEI)
+pada tahun 2010-2011. Penelitian mengeluarkan
+perusahaan dalam industri keuangan dari
+sampel karena perusahaan industri keuangan
+memiliki karakteristik yang unik dan
+merupakan high regulated company. Proses
+penetapan sampel diringkas dalam tabel 3.
+Statistik Deskriptif
+Tabel 4 menyajikan statistik deskriptif tentang
+variabel yang digunakan. Untuk variabel
+PSAK yang menggunakan variabel dummy
+tahun, rata-rata besaran akrual diskresioner di
+tahun 2010 lebih besar dibandingkan rata-rata
+besaran akrual diskresioner pada tahun 2011.
+Sedangkan rata-rata audit dan report delay di
+tahun 2010 lebih pendek dibandingkan ratarata
+audit dan report delay pada tahun 2011.
+
+Hasil Pengujian Hipotesis
+Hasil pengujian hipotesis ditunjukan di table 5
+dan table 6. Tabel 5 merupakan hasil pengujian
+dampak konvergensi IFRS efektif 2011,
+kompleksitas akuntansi, dan probabilitas
+kebangkrutan terhadap timeliness laporan keuangan.
+Sedangkan tabel 6 merupakan hasil
+pengujian dampak konvergensi IFRS efektif
+2011, kompleksitas akuntansi, dan probabilitas
+kebangkrutan terhadap tingkat manajemen
+laba. Pada tabel 5 juga terlihat bahwa terdapat
+beberapa variabel yang mengalami kekonsistenan
+hasil signifikasi pada model 1a dan
+model 1c. Hal ini dikarenakan pengukuran
+variabel dependen model 1a merupakan
+bagian dari variabel dependen model 1c.
+Sedangkan, untuk model 1b, dapat dilihat
+hanya variabel KAP dan SIZE yang signifikan
+terhadap variabel INTRM. Hal ini disebabkan
+karena variabel independen lainnya yang
+digunakan telah berperan dalam model 1a
+(periode audit delay) sehingga variabel tersebut
+tidak signifikan secara parsial menjelaskan
+variasi dari variabel dependen pada model
+1b. Selain itu, lama waktu penyampaian
+laporan keuangan setelah tanggal tanda tangan
+laporan auditor mungkin lebih dipengaruhi
+oleh keputusan manajemen dan distribusi
+laporan keuangan.
+Analisa Pengaruh Konvergensi IFRS
+Efektif 2011 terhadap Timeliness
+Pengujian hipotesis 1a ditujukan untuk
+melihat pengaruh konvergensi IFRS pada
+PSAK yang efektif 2011 terhadap timeliness
+(audit dan report delay). Hasil regresi pada
+tabel 5 model 1a menunjukkan bahwa variabel
+PSAK berpengaruh positif dan signifikan
+terhadap variabel ARL. Hal ini mengindikasikan
+bahwa penerapan PSAK yang telah
+konvergen dengan IFRS dan efektif pada
+tahun 2011 memperpanjang audit report lag
+sebesar 2.16 hari, dengan variabel lain
+dianggap konstan. Hasil ini mendukung
+hipotesis 1a sehingga hipotesis yang diajukan
+diterima. Pada tabel 5 model 1b dapat dilihat
+bahwa variabel PSAK tidak menunjukkan
+pengaruh yang signifikan terhadap variabel
+INTRM. Hal ini mengindikasikan bahwa pada
+tahun 2011, penerapan PSAK yang telah
+konvergen dengan IFRS dan efektif 2011 tidak
+memperpanjang lama waktu penyampaian
+laporan keuangan setelah tanggal tanda tangan
+laporan auditor, dengan variabel lain dianggap
+konstan. Hal ini dikarenakan penyampaian
+laporan keuangan setelah tanda tangan auditor
+lebih ditentukan oleh keputusan manajemen.
+Pada tabel 4.3 Model 1c dapat dilihat bahwa
+variabel PSAK berpengaruh positif dan
+signifikan terhadap variabel TPERIOD. Hal ini menunjukkan bahwa pada tahun 2011,
+penerapan PSAK yang telah konvergen
+dengan IFRS dan efektif di 2011 memperpanjang
+waktu report delay secara total (penjumlahan
+periode ARL dengan INTRM)
+sebesar 3.13 hari, dengan variabel lain dianggap
+konstan. Hasil ini mendukung hipotesis 1a
+yang menyatakan bahwa konvergensi IFRS
+dalam PSAK yang efektif tahun 2011 berpengaruh
+positif terhadap audit dan report
+delay. Dengan demikian, hipotesis 1a diterima.
+
+Analisa Pengaruh Kompleksitas Akuntansi
+terhadap Timeliness
+Pengujian hipotesis 2a ditujukan untuk melihat
+pengaruh kompleksitas akuntansi yang diukur
+dengan dengan jumlah anak perusahaan
+terhadap timeliness (audit dan report delay).
+Pada tabel 5 model 1a terlihat bahwa variabel
+COMPLX memiliki koefisien positif dan
+signifikan terjadap variabel ARL. Dengan
+demikian, hasil penelitian ini mendukung
+hipotesis 2a sehingga hipotesis 2a diterima.
+Pada tabel 5 model 1b variabel COMPLX
+tidak berpengaruh signifikan terhadap variabel
+INTRM. Hal ini menunjukkan kompleksitas
+akuntansi dari banyaknya anak perusahaan
+tidak memiliki pengaruh signifikan terhadap
+lama waktu penyampaian laporan keuangan
+setelah tanggal tanda tangan laporan auditor.
+Ketidaksignifikanan dari koefisien tersebut
+dapat dijelaskan karena variabel kompleksitas
+sudah berperan dalam menentukan audit delay
+dan keputusan penyampaian laporan keuangan
+biasanya diputuskan oleh manajemen. Hasil
+penelitian ini konsisten dengan penelitian
+yang dilakukan oleh Al-Ajmi (2008). Hasil
+regresi pada tabel 5 model 1c menunjukkan
+bahwa variabel COMPLX berpengaruh positif
+dan signifikan terhadap variabel TPERIOD.
+Dengan demikian, hasil penelitian ini mendukung
+hipotesis 2a yang menyatakan bahwa
+jumlah anak perusahaan memperpanjang audit
+dan report delay sehingga hipotesis 2a diterima.
+Jumlah anak perusahaan yang besar
+akan meningkatkan kompleksitas audit sehingga
+auditor butuh waktu yang lebih panjang
+untuk menjalankan proses audit, seperti
+memverifikasi apakah laporan keuangan konsolidasi
+telah mengungkapkan transaksi
+dengan anak perusahaan. Transaksi dengan
+pihak yang memiliki hubungan istimewa
+(anak perusahaan) dapat meningkatkan risiko
+audit karena auditor bisa saja tidak tanggap
+atas hubungan perusahaan dengan anak perusahaan
+yang tidak dimiliki langsung oleh perusahaan.
+Dengan demikian, jumlah anak perusahaan
+berdampak pada peningkatan audit
+delay. Kompleksitas bisnis juga berpengaruh
+postif signifikan terhadap report delay karena
+perusahaan dengan kompleksitas bisnis dan
+akuntansi yang tinggi menghadapi biaya pemrosesan
+informasi yang banyak sehingga
+memungkinkan memproduksi laporan keuangan
+yang kurang handal untuk memenuhi
+ketepatwaktuan. Hasil penelitian ini sesuai
+dengan penelitian sebelumnya yang dilakukan
+oleh Ng dan Tai (1994), Sengupta (2004) dan
+Al Ajmi (2008).
+Analisa Pengaruh Probabilitas Kebangkrutan
+terhadap Timeliness
+Pengujian hipotesis 3a ditujukan untuk melihat
+pengaruh status probabilitas kebangkrutan
+terhadap timeliness audit dan report delay).
+Pada tabel 5 model 1a variabel BANCR berpengaruh
+positif dan signifikan terhadap variabel
+ARL. Hal ini menunjukkan bahwa
+perusahaan yang diprediksi berada di daerah
+kebangkrutan berdasarkan probabilitas kebangkrutan
+nilai Altman Z Score akan
+memililiki audit delay yang lebih panjang
+sebesar 6.10 hari. Hasil ini mendukung bahwa
+hipotesis 3a bahwa probabilitas kebangkrutan
+berhubungan positif dengan audit delay sehingga
+hipotesis 3a diterima. Sedangkan variabel
+GRAYAREA juga berpengaruh positif dan
+signifikan terhadap variabel ARL. Hal ini berarti
+yang masuk dalam daerah rawan bangkrut
+signifikan memperpanjang audit delay sebesar
+2.6 hari.
+Hasil ini konsisten dengan penelitian
+yang dilakukan Schwartz dan Soo (1986),
+bahwa perusahaan yang mengalami kesulitan
+keuangan dan masalah going concern akan
+mengalami audit delay yang lebih panjang jika
+dibandingkan dengan perusahaan yang tidak
+mengalami kesulitan keuangan. Perusahaan
+yang berada dalam klasifikasi bangkrut menurut
+nilai Altman Z score cenderung mengalami
+kesulitan keuangan sehingga auditor memerlukan
+waktu yang lebih banyak untuk melakukan
+prosedur audit serta mencari tahu rencana
+manajemen terhadap status going concern perusahaan.
+Auditor juga perlu mengevaluasi keefektifan
+rencana manajemen untuk mengurangi
+dampak kondisi dan peristiwa yang
+menyebabkan perusahaan sangsi mempertahankan
+status going concern perusahaan.
+
+Analisa Pengaruh Konvergensi IFRS
+Efektif 2011 terhadap Manajemen Laba
+Pengujian hipotesis 1b ditujukan untuk melihat
+pengaruh konvergensi IFRS pada PSAK
+yang efektif pada tahun 2011 terhadap manajemen
+laba. Pada tabel 6 dapat dilihat bahwa
+variabel PSAK berpengaruh negatif dan
+signifikan terhadap variabel DAC. Hal ini berarti
+bahwa pada tahun 2011, konvergensi
+PSAK yang efektif pada tahun 2011 menurunkan
+tingkat manajemen laba sehingga kualitas
+laba meningkat. Hasil ini sesuai dengan hipotesis
+1b sehingga hipotesis 1b diterima. Hasil
+ini sesuai dengan penelitian Glaum et al.
+(2008) dan Chen et al. (2010) yang menemukan
+bahwa periode setelah perusahaan mengadopsi
+IFRS, perusahaan lebih sedikit melakukan
+manajemen laba.
+Analisa Pengaruh Kompleksitas Akuntansi
+terhadap Manajemen Laba
+Pengujian hipotesis 2b ditujukan untuk melihat
+pengaruh kompleksitas akuntansi terhadap
+manajemen laba. Pada tabel 6 dapat dilihat
+bahwa variabel COMPLX tidak berpengaruh
+signifikan terhadap variabel DAC. Hal ini
+tidak sesuai dengan hipotesis 2b yang
+menyatakan bahwa kompleksitas akuntansi
+berhubungan positif terhadap tingkat manajemen
+laba sehingga hipotesis 2b ditolak.
+
+Penulis menduga kompleksitas akuntansi yang
+diukur dari jumlah anak perusahaan tidak berpengaruh
+signifikan terhadap manajemen laba
+dapat dijelaskan dengan offsetting accruals
+hypothesis. Jiraporn et al. (2008) berpendapat
+bahwa perusahaan yang terdiversifikasi akan
+memiliki arus kas yang tidak berkorelasi
+dengan sempurna sehingga akrual yang
+dihasilkan juga tidak berkorelasi sempurna
+dan cenderung saling mengimbangi dan
+meniadakan (cancel- out) sehingga manajer
+akan sulit untuk mengelola laba dari kedua
+arah.
+Selain itu, jumlah anak perusahaan
+mungkin memang dapat meningkatkan peluang
+perusahaan induk untuk mengatur transaksinya
+melalui anak perusahaannya. Namun, teori
+kontrak menjelaskan bahwa transaksi dengan
+pihak yang berafiliasi dapat menjadi kontrak
+yang efesien (Dunn dan Mayhew 2004; Kuan
+et al. 2010). Pandangan ini didukung oleh
+Gordon dan Henry (2005) dalam Kuan et al.
+(2010) yang berargumen bahwa transaksi
+dengan pihak berelasi secara rasional dapat
+memenuhi permintaan ekonomis perusahaan
+(seperti pengetahuan yang lebih luas dan expertise)
+sehingga keadaan tersebut menciptakan
+ikatan antara perusahaan induk dan anak.
+Konsekuensinya, keadaan tersebut mengurangi
+insentif untuk mengambil tindakan beresiko
+yang dapat merusak hubungannya dengan
+perusahaan seperti tindakan manajemen laba.
+Penulis juga menduga karakterisitik
+unik pada perusahaan yang terdaftar di BEI
+memiliki karakteristik berupa perusahaan
+grup-affiliate dimana jenis perusahaan yang
+memiliki struktur berupa grup dapat
+memberikan benefit untuk anggota group
+berupa sumber daya tak berwujud maupun
+keuangan (Kuan et al. 2010), memfasilitasi
+pembangunan dengan menyediakan struktur
+organisasional yang lebih tepat untuk
+mengatasi kurangnya ketersediaan atas basic
+input dan jasa (Fisman dan Khanna 2004)
+Dengan demikian, manajer tidak melihat
+bahwa transaksi dengan pihak berelasi
+seperti anak perusahaan sebagai area dimana
+mereka dapat memanajemen laba dengan
+mudah. Hasil ini tidak konsisten dengan penelitian
+Thomas et al. (2004) yang menemukan
+transaksi dengan pihak berelasi bagi perusahan
+dengan jumlah anak perusahaan yang
+banyak akan melakukan manajemen laba lebih
+agresif daripada perusahaan dengan anak perusahaan
+yang lebih sedikit.
+Analisa Pengaruh Probabilitas Kebangkrutan
+terhadap Manajemen Laba
+Pengujian hipotesis 3b ditujukan untuk
+melihat pengaruh probabilitas kebangkrutan
+terhadap manajemen laba. Pada tabel 6 dapat
+dilihat bahwa variabel BANCR berpengaruh
+negatif dan signifikan terhadap variabel DAC.
+Hal ini menunjukkan perusahaan yang
+diklasifikasikan akan bangkrut berdasarkan
+Altman Z-Score cenderung menurunkan
+tingkat manajemen labanya Hal ini mendukung
+hipotesis 3b yang menyatakan bahwa
+probabilitas kebangkrutan berpengaruh terhadap
+manajemen laba. Akan tetapi, arah
+koefisien yang negatif tidak sesuai dengan
+ekspektasi sebelumnya. Dengan demikian
+hasil penelitian hipotesis 3b ditolak.
+Hal ini menandakan bahwa perusahaan
+yang mengalami financially distressed tidak
+terbukti melakukan manajemen laba. Hal tersebut
+disebabkan karena perusahaan tersebut
+bertindak lebih konservatif dan berpikir bahwa
+tindakan manajemen laba yang dilakukan oleh
+perusahaan tersebut akan menjadi tidak berguna
+dan tidak terlalu mempengaruhi hasil dan
+kinerja perusahaan. Selain itu, manajer pada
+perusahaan yang mengalami financial distressed
+memiliki ‘ruang’ yang lebih sempit
+dalam menggunakan akrual diskresioner
+karena beberapa operasional perusahaan
+cenderung mengalami kemandekan bahkan
+tidak berjalan lagi. Hasil penelitian ini sesuai
+dengan penelitian yang dilakukan oleh
+Demirkan et al. (2004) yang menemukan
+bahwa perusahaan yang status probabilitas
+bangkrut akan memiliki tingkat akrual diskresioner
+yang lebih kecil. Selain itu, tingkat
+manajemen laba yang rendah pada perusahaan
+yang mengalami financial distress juga mungkin
+disebabkan oleh kesempatan untuk
+melakukan manajemen laba pada perusahaan
+tersebut sangatlah sedikit karena adanya pengawasan dari auditor, bank, investor, pemerintah
+yang lebih ketat. Akhirnya perusahaan tersebut
+tidak memiliki kecendrungan untuk
+melakukan manajemen laba (Bushee 1998).
+Analisa Hasil Pengujian Tambahan
+Untuk menguji sensitivitas dari hasil pengujian
+hipotesis utama, maka dilakukan pengujian
+tambahan dimana model timeliness dan
+manajemen laba akan kembali uji dengan
+memperhitungkan komite audit. Penambahan
+pengujian dengan variabel komite audit
+didasarkan pada penelitian Klein (2002) yang
+menemukan bahwa perusahaan yang membentuk
+komite audit yang bertugas me-review
+laporan keuangan perusahaan dan mengevaluasi
+internal kontrol perusahaan memiliki
+tingkat manajemen laba yang lebih rendah dan
+kualitas laba yang lebih tinggi.
+Peneliti menilai efektivitas komite
+audit berdasarkan penilaian efektivitas komite
+audit yang dikembangkan oleh Hermawan
+(2009) yang meliputi jumlah pertemuan yang
+diadakan oleh komite audit, kehadiran anggota
+komite audit dalam rapat, ukuran komite audit,
+serta jumlah anggota komite audit yang
+memiliki latar belakang akuntansi.
+Hasil pengujian hipotesa menunjukkan
+hasil yang konsisten dengan pengujian
+hipotesis utama untuk setiap model audit
+delay dan manajemen laba. Hasil pengujian
+tambahan ini juga menunjukkan bahwa
+variabel komite audit tidak terbukti mempengaruhi
+variabel audit delay maupun
+besaran akrual diskresioner manajemen secara
+signifikan.
+Hasil serupa ditemukan dalam penelitian
+Fitriasary (2007) dan Al-Ajmi (2008). Al
+Ajmi (2008) menemukan faktor tata kelola
+perusahaan berpengaruh positif dan marginally
+significant terhadap periode interim
+namun tidak signifikan terhadap audit delay
+dan report delay. Fitriasary (2007) menemukan
+bahwa komite audit tidak signifikan berpengaruh
+terhadap manajemen laba. Hal ini
+dikarenakan komite audit di Indonesia masih
+bersifat mandatory saja dan belum kesadaran
+penuh untuk melaksanakan tugasnya dengan
+efektif dan output yang jelas.
+SIMPULAN
+Penelitian ini ditujukan terutama untuk
+memberikan bukti secara empiris mengenai
+pengaruh konvergensi IFRS, kompleksitas
+akuntansi, dan status probabilitas kebangkrutan
+perusahaan terhadap timeliness dan manajemen
+laba. Berdasarkan penelitian mengenai pengaruh
+konvergensi IFRS, kompleksitas akuntansi,
+dan status probabilitas kebangkrutan perusahaan
+terhadap timeliness dan manajemen laba
+yang telah dilakukan, diperoleh kesimpulan
+sebagai berikut: 1) Konvergensi IFRS dalam
+PSAK yang efektif di tahun 2011 memiliki
+pengaruh positif signifikan terhadap audit
+delay dan report delay. 2) Kompleksitas akuntansi
+yang diukur dengan jumlah anak peusahan
+memiliki pengaruh positif signifikan terhadap
+audit delay dan report delay. 3) Perusahaan
+dengan status probabilitas kebangkrutan
+memiliki pengaruh positif signifikan terhadap
+audit delay dan report delay. 4) Konvergensi
+IFRS dalam PSAK yang efektif di tahun 2011
+memiliki pengaruh negatif signifikan terhadap
+tingkat manajemen laba. 5) Kompleksitas
+akuntansi tidak berpengaruh signifikan terhadap
+tingkat manajemen laba. 6) Perusahaan
+dengan status probabilitas kebangkrutan
+memiliki pengaruh negatif signifikan terhadap
+tingkat manajemen laba.
+Adapun keterbatasan penelitian dan
+saran untuk penelitian selanjutnya adalah
+sebagai berikut: 1) Periode sampel yang
+digunakan dalam penelitian ini hanya meliputi
+periode sebelum dan sesudah konvergensi
+IFRS dalam PSAK yang efektif ditahun 2011.
+Sedangkan konvergensi IFRS pada PSAK di
+Indonesia dilakukan secara bertahap sejak
+tahun 2008, sehingga diharapkan untuk penelitian
+selanjutnya periode yang digunakan lebih
+panjang. Dengan demikian dapat terlihat
+kekonsistenan hasil penelitian hingga PSAK
+sepenuhnya konvergen dengan IFRS. 2) Penelitian
+ini hanya menggunakan perusahaan
+dalam industri non-keuangan sehingga
+diharapkan dalam penelitian selanjutnya untuk
+menggunakan perusahaan dalam industri keuangan.
+3) Penelitian ini tidak mengelompokkan
+perusahaan ke dalam sektor-sektor industri.
+Penelitian selanjutnya diharapkan mengelompokkan perusahaan untuk memberi
+penjelasan lebih lanjut apakah akan ada
+pengaruh yang berbeda yang diberikan oleh
+variabel-variabel independen terhadap variabel
+dependen untuk masing-masing sektor. 4)
+Penelitian ini membuktikan bahwa perusahaan
+yang diprediksi bangkrut tidak melakukan
+manajemen laba lebih besar dibandingkan
+dengan yang tidak sehingga kualitas laba yang
+dilaporkan lebih baik. Namun, penelitian ini
+tidak dapat menangkap perusahaan yang telah
+berhasil melakukan manajemen laba dan berhasil
+mengubah nilai Z-Score yang mebuat
+perusahaan bergeser klasifikasinya. Hal ini
+karena probabilitas kebangkrutan dihitung
+dengan angka angka akuntansi yang bersifat
+noisy dimana angka tersebut mungkin telah
+dimanipulasi. 5) Penelitian ini menggunakan
+variabel timeliness dan manajemen laba untuk
+mengukur kualitas laporan keuangan. Penelitian
+selanjutnya diharapkan dapat menggunakan
+ukuran kualitas laporan keuangan lainnya
+seperti value-relevance dan predictive ability.
+6) Kompleksitas Akuntansi dalam penelitian
+ini diukur hanya dengan menggunakan jumlah
+anak perusahaan. Penelitian selanjutnya dapat
+menggunakan ukuran lain seperti jumlah
+diversifikasi segmen operasi maupun geografis.
+7) Probabilitas Kebangkrutan pada
+penelitian ini menggunakan Altman Z-Score
+yang merupakan model dari luar negeri dan
+belum tentu tepat untuk di Indonesia. Penelitian
+selanjutnya dapat dikembangkan dengan
+menggunakan model prediksi kebangkrutan
+lainnya dalam menggambarkan kondisi perusahaan
+serta melakukan uji sensitivitas antara
+model tersebut. 8) Pengukuran akrual diskresioner
+merupakan hasil dari noisy information
+environment sehingga dapat mempengaruhi
+hasil yang diperoleh. Penelitian selanjutnya
+diharapkan dapat mencari model akrual
+diskresioner lain yang lebih valid.

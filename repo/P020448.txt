@@ -1,0 +1,122 @@
+﻿Telah direalisasikan alat yang mampu menghasilkan daya listrik dengan
+menggunakan rangkaian elektroda Cu-Zn dan elektrolit air laut. Desain alat dirancang
+agar dapat dilakukan pengisian dan pengosongan elektrolit air laut sehingga dapat
+digunakan sebagai sumber energi alternatif berkelanjutan. Sel elektrolit yang
+digunakan terdiri atas 40 sel dan 40 pasang elektroda Cu-Zn yang dirangkai secara
+seri. Pengujian alat dilakukan selama 72 jam dengan 3 kali pengisian elektrolit setiap
+24 jam. Pengukuran karakteristik elektrik alat dilakukan saat masih menggunakan
+beban LED 1,2 watt dan tanpa beban atau saat beban dilepas. Hasil pengujian
+menunjukkan bahwa semakin lama alat digunakan maka karakteristik elektrik yang
+dihasilkan akan semakin menurun. Pengujian 24 jam pertama menunjukkan
+persentase penurunan rata-rata tegangan saat beban dilepas (VTb) sebesar 6,47% dan
+persentase penurunan rata-rata daya sebesar 14,24%. Pengujian 24 jam kedua
+menunjukkan persentase penurunan rata-rata VTb dan daya sebesar 5,28% dan
+10,12%. Sementara, pengujian 24 jam ketiga menghasilkan persentase penurunan
+rata-rata VTb dan daya sebesar 4,79% dan 12,62%.
+Kata Kunci: Air laut, elektroda Cu-Zn, sustainable energy.
+
+I. PENDAHULUAN
+A. Latar Belakang
+Sejak ditemukannya energi listrik pada tahun 1800-an, telah banyak dampak
+positif yang dihasilkan dalam berbagai kegiatan manusia. Terdapat banyak
+bentuk kegiatan dan aktivitas manusia yang menggunakan bantuan energi
+listrik, mulai dari aktivitas rumah tangga sampai dengan proses produksi pada
+industri-industri kecil ataupun yang berskala besar (Giancoli, 1998).
+Kebutuhan energi listrik di Indonesia terus meningkat seiring dengan
+perkembangan zaman, hal ini disebabkan oleh pertambahan jumlah penduduk
+dan pertumbuhan ekonomi yang terus meningkat. Berdasarkan data
+ketenagalistrikan nasional tahun 2015 total kapasitas pembangkit yang
+terpasang adalah sebesar 53.585 MW dengan rincian 70% PLN, 5% private
+power utility (PPU) yang merupakan pembangkit terintegrasi, 20%
+independent power producer (IPP) yang merupakan listrik swasta, dan 5%
+pembangkit ijin operasi non BBM. Permintaan listrik diperkirakan meningkat
+dengan laju pertumbuhan 8,8% per tahun. Persentase pemakaian listrik
+pergolongan adalah sebagai berikut, rumah tangga 43%, industri 33%, bisnis
+18% dan publik 6%. Energi listrik di indonesia masih disuplai oleh batubara
+52,8%, gas 24,2%, BBM 11,7%, panas bumi 4,4%, air 6,5%, dan hanya 0,4 %
+berasal dari energi alternatif lainnya (Kementrian Energi dan Sumber Daya
+Mineral, 2015).
+Secara umum sumber energi listrik dapat dihasilkan melalui Gaya Gerak
+Listrik (GGL) induksi Faraday, sel surya, thermoelectric, piezoelecric, dan
+reaksi elektrokimia. GGL induksi Faraday dapat dihasilkan apabila ada
+sebuah magnet yang bergetar pada sebuah kumparan atau sebaliknya,
+sehingga untuk menghasilkan energi listrik ini dibutuhkan sebuah energi
+penggeraknya (Hayt, 2006). Sel surya merupakan piranti untuk mengubah
+energi matahari menjadi energi listrik. Secara sederhana sel surya terdiri dari
+persambungan bahan semikonduktor bertipe p dan n yang jika terkena sinar
+matahari maka akan terjadi aliran elektron yang disebut sebagai aliran arus
+(Yuwono, 2005). Thermoelectric merupakan proses konversi energi listrik
+langsung akibat perbedaan temperatur pada dua material yang bebeda
+(Zuryati, 2009). Piezoelecric merupakan sumber energi listrik yang
+dihasilkan dari tekanan yang diberikan pada bahan piezo-kristal. Sedangkan
+energi listrik pada reaksi elektrokimia dapat terjadi melalui dua elektroda
+yang memiliki beda potensial dan terhubung pada bahan elektrolit (Brady,
+1999).
+Berdasarkan data Kementrian Energi dan Sumber Daya Mineral tahun 2015,
+dapat dilihat bahwa sebagian besar sumber energi listrik di Indonesia masih
+sangat bergantung pada energi bahan bakar fosil yang membutuhkan waktu
+lama untuk dapat diperbaharui, oleh karena itu perlu dilakukan sebuah upaya
+untuk menghasilkan sumber energi alternatif yang berkelanjutan (sustainable
+energy). Energi listrik melalui elektrokimia merupakan salah satu energi
+listrik alternatif yang dapat dihasilkan dengan memanfaatkan proses reduksioksidasi
+dimana elektroda negatif (anoda) akan mengalami reaksi oksidasi
+sehingga elektron yang berada pada permukaan anoda akan terlepas dan
+dibawa oleh ion elektrolit menuju elektroda positif (katoda). Penelitian
+tentang kelistrikan elektrokimia ini merupakan pengembangan dari hasil
+penelitian Alexander Volta. Penelitian Volta memperlihatkan bahwa jika dua
+buah elektroda dengan beda potensial dimasukan ke dalam larutan elektrolit
+larutan asam atau garam maka akan dihasilkan energi listrik. Salah satu bahan
+elektrolit yang melimpah di Indonesia adalah air laut, berdasarkan data
+kementrian kelautan dan perikanan tahun 2008 luas lautan Indonesia adalah
+5,8 juta km² yang terdiri dari, laut teritorial 0,8 juta km², zona ekonomi
+ekslusif 2,7 juta km², dan laut nusantara 2,3 juta km². Indonesia merupakan
+negara kepulauan yang memiliki pulau sebanyak 17.480 dan garis pantai
+sepanjang 95.181 km, sehingga keadaan ini sangat mendukung untuk
+menghasilkan energi alternatif dari elektrolit air laut.
+Analisis karakteristik elektrik air laut sebagai sumber energi listrik terbarukan
+telah diteliti oleh Encep Hudaya (2016), dengan menggunakan 3 variabel
+elektroda yaitu C-Zn, Cu-Al, dan Cu-Zn. Hasil penelitian ini menunjukkan
+bahwa elektrolit air laut yang dihubungkan dengan ketiga pasangan elektroda
+tersebut sudah dapat menghasilkan energi listrik, dengan variasi bahan
+elektroda dan volume air laut. Hasil penelitian ini juga menunjukkan bahwa
+semakin lama penggunaan elektrolit air laut dengan beban yang diberikan
+maka energi listrik yang dihasilkan akan semakin berkurang. Berdasarkan
+hasil penelitian ini maka akan dibuat sebuah desain elektrolit air laut dengan
+menggunakan elektroda Cu-Zn dengan sistem pengisian ulang elektrolitnya,
+hal ini bertujuan untuk menghasilkan energi listrik secara berkelanjutan.
+Inovasi dengan membuat energi listrik dari elektrolit air laut menggunakan
+elektroda Cu-Zn merupakan sebuah energi alternatif yang dapat
+dikembangkan sebagai energi listrik yang mudah didapatkan. Desain yang
+akan dibuat terdiri dari 40 sel air laut dengan sistem tertutup, kemudian
+elektroda dimasukkan pada sel tersebut dengan volume air laut 200 ml setiap
+sel. Daya listrik yang dihasilkan dari penelitian ini diharapkan dapat
+diaplikasikan sebagai energi terbarukan secara berkelanjutan dalam
+kehidupan sehari-hari.
+B. Rumusan Masalah
+Rumusan masalah dalam penelitian ini adalah sebagai berikut.
+1. Bagaimana mendesain dan membuat alat yang dapat menghasilkan energi
+listrik dari air laut dan elektroda Cu-Zn secara tertutup dengan sistem
+berkelanjutan.
+2. Mengetahui karakteristik tegangan maksimum dan arus maksimum dari
+alat yang dibuat serta mengetahui penurunan karakteristik elektrik alat
+setelah dilakukan pengisian ulang elektrolitnya.
+3. Mengetahui lamanya daya listrik yang dapat digunakan setiap pengisian
+ulang elektrolit.
+
+4. Mengetahui sejauh mana kemampuan daya listrik yang dihasilkan untuk
+dimanfaatkan dalam kehidupan sehari-hari.
+C. Tujuan Penelitian
+Tujuan dari penelitian ini adalah sebagai berikut.
+1. Menghasilkan sebuah alat yang dapat menghasilkan daya listrik secara
+berkelanjutan.
+2. Mengetahui daya listrik maksimum yang dapat dihasilkan oleh alat.
+3. Mengetahui penurunan daya listrik yang dihasilkan alat dengan variasi
+waktu dan pengisian ulang elektrolit.
+4. Mengetahui karakterisitik elektrik alat sehingga dapat digunakan sebagai
+sumber energi listrik alternatif.
+D. Manfaat Penelitian
+Manfaat penelitian ini adalah sebagai berikut.
+1. Menghasilkan sebuah alat yang dapat menghasilkan energi listrik
+alternatif secara berkelanjutan.
+2. Memanfaatkan air laut sebagai sumber energi listrik terbarukan secara
+berkelanjutan.

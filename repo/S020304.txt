@@ -1,0 +1,223 @@
+﻿ABSTRAK
+
+Penelitian ini bertujuan untuk mengetahui bagaimana pengaruh dari praktik
+Corporate Social Responsibility (CSR) yang dilakukan oleh perusahaan terhadap
+kinerja keuangan perusahaan (dari sudut pandang akuntansi) dan kinerja pasar
+perusahaan (dari sudut pandang pasar). Dalam penelitian ini, variabel independen
+CSR yang terdiri dari enam aspek dasar CSR menurut Global Reporting Initiative
+(GRI) dan berdasarkan kerangka pemikiran stakeholder Clarkson yaitu dampak
+ekonomi, kepedulian lingkungan, ketenagakerjaan, sosial HAM, kemasyarakatan, dan
+tanggung jawab produk akan diuji pengaruhnya terhadap variabel dependen kinerja
+keuangan perusahaan yang diproksikan oleh penjumlahan Return on Assets (ROA),
+Return On Equity (ROE), dan Return On Sales (ROS), dan variabel kinerja pasar
+perusahaan yang diproksikan oleh Tobin’s q. Dalam penelitian ini digunakan juga
+variabel kontrol yaitu size (ukuran perusahaan), growth (pertumbuhan penjualan), dan
+leverage.
+
+Populasi penelitian ini adalah perusahaan manufaktur yang terdaftar (listing)
+di Bursa Efek Indonesia (BEI) periode tahun 2009-2013 dengan jumlah sampel
+penelitian sebanyak 617 perusahaan yang ditentukan melalui metode purposive
+sampling. Analisis data dalam penelitian ini dilakukan dengan menggunakan uji
+asumsi klasik, sedangkan uji hipotesis dilakukan dengan menggunakan analisis
+regresi linier berganda dengan dua model persamaan.
+
+Hasil penelitian ini menunjukkan bahwa CSR berpengaruh positif dan
+signifikan terhadap kinerja keuangan perusahaan dan terhadap kinerja pasar
+perusahaan. Penelitian ini juga menemukan bahwa size berpengaruh positif signifikan
+terhadap kinerja pasar perusahaan; leverage perusahaan berpengaruh negatif
+signifikan terhadap kinerja keuangan perusahaan, sedangkan berpengaruh positif
+signifikan terhadap kinerja pasar perusahaan; Growth berpengaruh positif dan
+signifikan terhadap kinerja keuangan perusahaan dan kinerja pasar perusahaan.
+Kata kunci: Corporate Social Responsibility (CSR), kinerja perusahaan, size (ukuran
+perusahaan), growth (pertumbuhan penjualan), leverage
+
+BAB I
+PENDAHULUAN
+1.1 Latar Belakang Masalah
+Isu Corporate Social Responsibility (CSR) kini telah menjadi salah satu
+isu penting bukan hanya bagi perusahaan saja namun juga bagi shareholders dan
+stakeholders perusahaan. Salah satu penyebabnya adalah tren globalisasi yang
+terjadi saat ini telah membuat stakeholders meningkatkan permintaannya kepada
+perusahaan untuk mengadopsi praktik CSR (Chapple dan Moon dalam Saleh et al,
+2010). Operasi perusahaan yang berada pada lingkungan masyarakat
+menimbulkan konsekuensi, yaitu tanggung jawab perusahaan terhadap
+masyarakat. Tanggung jawab perusahaan ini contohnya adalah mengurangi
+tingkat pengangguran (dari sisi materil) dan mengontrol aktifitas operasinya agar
+tidak memberikan dampak negatif bagi masyarakat dan lingkungan (dari sisi
+sosial lingkungan) (Anggraini, 2010). Hal ini menyebabkan CSR telah menjadi
+salah satu subjek penting dalam kegiatan perusahaan (Vilanova et al, 2009 dalam
+Saleh et al, 2010).
+Bagi perusahaan yang kurang peduli terhadap lingkungannya akan
+mendapatkan berbagai macam kerugian, baik yang terjadi langsung saat itu
+ataupun yang terjadi di masa yang akan datang. Beberapa kasus dapat dijadikan
+contoh diantaranya adalah demo buruh yang terjadi pada tahun 2013 berpotensi
+menimbulkan kerugian hingga US$ 20 miliar atau 190 Triliun Rupiah (Investordaily, 2015), kebakaran hutan yang berakibat kabut asap bagi
+masyarakat, dan kesalahan dalam labelling kemasan pada obat yang berujung
+kematian pasien dan jatuhnya harga saham perusahaan. Kasus tersebut sebenarnya
+dapat dicegah, diredam atau diatasi dengan menjalankan CSR secara lebih serius.
+Fakta ini menguatkan penjelasan bahwa CSR sangat penting bagi perusaahaan
+untuk mempertahankan operasinya sesuai rencana kerja sehingga tujuan ekonomis
+perusahaan juga dapat optimal tercapai. Secara bersamaan CSR juga seharusnya
+memberikan dampak terhadap stakeholders dan shareholdersnya.
+
+Pemerintah Republik Indonesia juga mendorong perusahaan yang
+beroperasi di Indonesia untuk melaksanakan dan melaporkan kegiatan CSR. Salah
+satu cara yang dilakukan pemerintah sebagai regulator adalah menerbitkan UU
+Perseroan Terbatas No. 40 tahun 2007 tentang Perseroan Terbatas yang
+selanjutnya ditetapkan oleh PP No. 47 Tahun 2012 tentang Tanggung Jawab
+Sosial dan Lingkungan Perseroan Terbatas. Perusahaan asing yang melakukan
+penanaman modal di Indonesia juga wajib melakukan CSR sebagaimana diatur
+dalam UU No. 25 Tahun 2007 tentang Penanaman Modal. Peraturan tersebut
+dijadikan dasar hukum untuk membuat perusahaan yang beroperasi di Indonesia
+menjalankan program kepedulian terhadap lingkungannya sehingga seharusnya
+perusahaan yang beroperasi di Indonesia telah melaksanakan program CSR yang
+diamanatkan undang-undang.
+
+Beberapa penelitian terdahulu juga telah menguatkan fakta bahwa
+menjalankan program CSR memberikan dampak positif terhadap kinerja perusahaan. Hal ini sesuai dengan penelitian yang dilakukan oleh Saleh et al.
+(2008) yang meneliti hubungan antara CSR dengan kinerja perusahaan di Kuala
+Lumpur Stock Exchange (KLSE) Bursa Malaysia, memperoleh hasil bahwa CSR
+tidak mempengaruhi ROA yang akan datang, tetapi berpengaruh positif terhadap
+penilaian pasar di masa yang akan datang, yang dilihat dari Stock Market Return.
+Wijayanti et al. (2011) telah meneliti pengaruh CSR terhadap kinerja perusahaan
+manufaktur yang terdaftar di Bursa Efek Indonesia (BEI) periode tahun 2008.
+Mereka menemukan bahwa CSR tidak berpengaruh signifikan terhadap Return on
+Asset (ROA) dan Earning per Share (EPS) tetapi berpengaruh signifikan positif
+terhadap Return on Equity (ROE).
+
+Inoue dan Lee (2010) menjabarkan penelitian yang lebih mendetail tentang
+aspek-aspek dasar CSR. Penelitian mereka tentang pengaruh aspek-aspek CSR
+(komunitas, keanekaragaman, pegawai, lingkungan, dan produk) terhadap kinerja
+perusahaan jangka pendek dan jangka panjang pada empat sektor industri
+pariwisata di Amerika Serikat yaitu penerbangan, kasino, hotel, dan restoran.
+Hasilnya adalah setiap aspek CSR yang berbeda memiliki pengaruh yang berbeda
+pula terhadap indikator kinerja dan jangka panjang perusahaan. Di Indonesia juga
+telah dilakukam penelitian oleh Hutapea dan Prastiwi (2013) yang menggunakan
+empat aspek dasar CSR yang dijadikan sebagai variabel independen yaitu CSR
+aspek karyawan, CSR aspek keterlibatan komunitas, CSR aspek kualitas produk,
+dan CSR aspek lingkungan. Variabel terikat yang digunakan adalah kepemilikan institusional. Hasilnya adalah setiap aspek CSR tersebut memiliki pengaruh yang
+berbeda-beda terhadap kinerja perusahaan.
+
+Penting untuk dilakukan penelitian kembali terkait dengan pengaruh CSR
+terhadap kinerja perusahaan di Indonesia menggunakan sumber data yang lebih
+baru. Hal ini disebabkan oleh makin besarnya tuntutan stakeholders terhadap
+perusahaan untuk lebih peduli dengan lingkungannya. Penelitian tentang pengaruh
+CSR dalam kinerja pasar juga diperlukan untuk menciptakan keunggulan
+kompetitif perusahaan guna menjawab kondisi persaingan global yang semakin
+ketat. Penelitian ini juga dapat dijadikan sebagai alternatif referensi tentang
+bagaimana pengaruh CSR yang terdiri dari beberapa aspek berbeda berdasarkan
+indeks GRI terhadap kinerja keuangan dan kinerja pasar perusahaan di Indonesia
+serta dapat terlihat juga bagaimana kesadaran perusahaan di Indonesia tentang
+pelaksanaan CSR dalam beberapa tahun terakhir. Alasan penting lainnya adalah
+terdapat hasil yang beragam atas penelitian tentang pengaruh CSR terhadap
+kinerja, sehingga dibutuhkan penelitian terbaru untuk mendapatkan jawabannya
+dengan menggunakan data di Indonesia dalam beberapa tahun terakhir. Beberapa
+alasan tersebut dianggap layak menjadikan penelitian ini penting untuk dilakukan.
+Penelitian ini memiliki beberapa perbedaan dengan penelitian yang
+dilakukan oleh Inoue dan Lee (2010). Pertama, penelitian ini menggunakan enam
+aspek umum (dampak ekonomi, kepedulian lingkungan, ketenagakerjaan, sosial
+HAM, kemasyarakatan, dan tanggung jawab produk) dari Global Reporting
+Initiative (GRI) untuk dasar penentuan nilai CSR sebagai variabel independen,
+sedangkan Inoue dan Lee menggunakan lima aspek yaitu lingkungan, tenaga
+kerja, masyarakat, produk, dan keanekaragaman. Penggunakan enam kategori dari
+GRI lebih sesuai dengan praktik CSR yang dilakukan oleh sebagian besar
+perusahaan di Indonesia dan lebih dari 1.000 perusahaan di 35 negara telah
+menggunakannya (Isaksson & Steimle, 2009) serta mendekati dengan kerangka
+pemikiran stakeholder oleh Clarkson (1995). Kedua, pada penelitian oleh Inoue
+dan Lee (2010) hanya menggunakan pengukuran berbasis Return On Assets
+(ROA) saja untuk mengukur kinerja keuangan perusahaan sehingga dinilai kurang
+akurat, pada penelitian ini menggunakan penjumlahan antara ROA, Return On
+Equity (ROE) dan Return On Sales (ROS) (Orlitzky et al, 2003). Penggabungan
+ketiga rasio profitablitias ini sangat diperlukan untuk mewakili setiap elemen
+penting pada kinerja keuangan perusahaan yaitu pengaruhnya pada aset,
+pengaruhnya pada ekuitas, dan pengaruhnya pada penjualan perusahaan.
+Penggabungan ketiga rasio ini juga dilakukan pada penelitian Yusoff et al. (2013)
+dalam mengukur kinerja keuangan menggunakan data pada perusahaan di
+Malaysia yang masih satu regional dengan Indonesia sehingga memiliki karakter
+perusahaan yang tidak terlalu jauh berbeda. Ketiga, penelitian oleh Inoue dan Lee
+(2010) menggunakan variabel kontrol ukuran perusahaan (size), leverage, dan
+tahun. Penggunaan pertumbuhan penjualan (growth) bukan tahun berdiri
+perusahaan (year) dinilai lebih valid digunakan sebagai variabel kontrol. Sesuai
+dengan teori yang dikemukakan oleh Horne dan Wachowicz (2009) bahwa bila
+penjualan ditingkatkan maka laba dapat dimaksimalkan. Hal ini membuat pertumbuhan penjualan (growth) sebagai variabel kontrol lebih berpengaruh
+terhadap kinerja perusahaan. Berdasarkan pertimbangan tersebut, penelitian ini
+menggunakan size, leverage, dan growth sebagai variabel kontrolnya. Keempat,
+Inoue dan Lee (2010) menggunakan data dari empat sektor industri pariwisata di
+Amerika Serikat yaitu penerbangan, kasino, hotel, dan restoran periode tahun
+1991 hingga 2007. Penggunaan sektor manufaktur di Indonesia pada penelitian ini
+disebabkan karena merupakan sektor mayoritas yang terdaftar di BEI saat ini dan
+paling banyak bersinggungan dengan keenam aspek umum CSR dalam indeks
+GRI. Penelitian ini menggunakan lima tahun (2009-2013) data perusahaan
+manufaktur yang listing di BEI. Penggunaan data yang lebih terkini diperlukan
+untuk mendapatkan hasil yang lebih valid dan juga tuntutan pelaksanaan CSR
+dewasa ini semakin tinggi seperti yang telah disebutkan sebelumnya.
+
+1.2 Rumusan Masalah
+Perusahaan harus menjawab tuntutan stakeholders dalam menjalankan
+program tanggung jawab sosial atau corporate social responsibility (CSR).
+Seringkali hal ini menimbulkan perdebatan jika dikaitkan dengan kinerja
+perusahaan. Beberapa perdebatan tersebut diantaranya tentang apakah CSR
+terbukti memberikan pengaruh positif terhadap kinerja keuangan dan kinerja pasar
+perusahaan dan pelaksanaan CSR seperti apa yang dapat memberikan dampak
+positif terhadap kinerja perusahaan atau CSR berdampak negatif terhadap kinerja
+perusahaan karena penggunaan yang lebih atas sumber daya perusahaan. Terdapat
+beberapa penelitian yang menyimpulkan bahwa CSR dianggap mampu meningkatkan kinerja perusahaan karena dapat meredam konflik kepentingan
+antara manajemen, pemegang saham, dan stakeholders lainnya (Calton dan
+Payne, 2003; Scherer et al., 2006; Harjoto dan Jo, 2011). Pada penelitian lain
+ditemukan bahwa CSR dianggap menjadi penyebab menurunnya kinerja
+perusahaan karena memboroskan sumber daya perusahaan (Barnea dan Rubin,
+2010).
+Berdasarkan hal tersebut, berikut ini adalah rumusan masalah yang akan
+ditelaah lebih lanjut di dalam penelitian ini:
+1. Bagaimana pengaruh CSR terhadap kinerja keuangan perusahaan?
+2. Bagaimana pengaruh CSR terhadap kinerja pasar perusahaan?
+
+1.3 Tujuan Penelitian
+Sesuai dengan rumusan masalah, tujuan dari penelitian ini adalah
+1. Memberikan bukti empiris atas pengaruh CSR terhadap kinerja keuangan
+perusahaan.
+2. Memberikan bukti empiris atas pengaruh CSR terhadap kinerja pasar
+perusahaan.
+
+1.4 Kegunaan Penelitian
+Penelitian ini diharapkan dapat memberikan manfaat, yaitu
+1. Mendorong perusahaan-perusahaan untuk lebih serius serta aktif dalam
+praktik CSR berdasarkan aspek-aspek dasarnya yang dipercaya dapat
+meningkatkan kinerja keuangan perusahaan dan kinerja pasar perusahaan.
+2. Memberikan informasi yang berguna kepada para akademisi di bid\ang
+akuntansi, manajemen, dan bisnis tentang pengaruh CSR yang terdiri dari
+berbagai aspek terhadap kinerja keuangan dan kinerja pasar perusahaaan.
+3. Menyediakan informasi bermanfaat kepada para praktisi mengenai seberapa
+besar pengaruh CSR yang sesuai indeks GRI terhadap kinerja keuangan dan
+kinerja pasar perusahaan untuk dipraktekan dalam kegiatan sehari-sehari.
+
+1.5 Sistematika Penulisan
+Sistematika penulisan dalam penelitian ini dapat diuraikan sebagai berikut:
+
+BAB I : PENDAHULUAN
+Bab ini berisi hal-hal yang meliputi latar belakang masalah,
+rumusan masalah, tujuan penelitian, kegunaan penelitian, serta
+sistematika penulisan dalam penelitian ini.
+BAB II : TELAAH PUSTAKA
+Bab ini berisi telaah pustaka yang membahas masalah yang
+diangkat dalam penelitian ini, mencakup landasan teori sebagai
+kerangka acuan pembahasan masalah, review dari penelitianpenelitian
+terdahulu, kerangka pemikiran, serta hipotesis yang
+akan diuji.
+BAB III : METODE PENELITIAN
+Bab ini berisi variabel-variabel penelitian yang digunakan dan juga
+definisi operasional variabel yang merupakan deskripsi dari masingmasing
+variabel, penentuan populasi dan sampel, jenis dan sumber
+9
+data, metode pengumpulan data, serta metode analisis yang
+merupakan deskripsi model dan mekanisme alat analisis yang
+digunakan dalam penelitian ini.
+BAB III : HASIL DAN ANALISI
+Bab ini berisi tentang deskripsi dari objek penelitian, hasil analisis
+data, serta intepretasi hasil analisis dikaitkan dengan teori yang
+berlaku.
+BAB IV : PENUTUP
+Bab ini berisi simpulan akhir dari hasil analisis data yang telah
+diperoleh, keterbatasan-keterbatasan yang dihadapi dalam penelitian,
+serta saran-saran yang diberikan kepada berbagai pihak yang
+berkepentingan atas hasil dari penelitian ini.

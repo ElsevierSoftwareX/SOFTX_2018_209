@@ -1,0 +1,88 @@
+﻿ABSTRAK
+KAJIAN UNJUK KERJA PEMBANGKIT LISTRIK TENAGA GAS G4 PT
+INDONESIA POWER UNIT BISNIS PEMBANGKITAN BALI
+Kebutuhan listrik rata-rata pulau Bali adalah sebesar 700 MW. Terdiri
+atas kapasitas pembangkit di Bali sebesar 427,59 MW, dan suplai daya dari Jawa
+melalui jaringan kabel laut sebesar 200 MW. Mengingat sangat pentingnya
+pemenuhan kebutuhan listrik dan mahalnya biaya investasi pembangunan
+pembangkit baru maka pembangkit-pembangkit yang sudah ada harus
+dimanfaatkan dengan maksimal, begitu juga dengan PLTG Pesanggaran. Salah
+satu cara untuk menjaga kehandalan sistem pembangkit adalah dengan melakukan
+over houl setelah pembangkit dioperasikan dalam satuan waktu tertentu. Dari
+Hasil pengujian yang dilakukan oleh PT PLN Jasa Sertifikasi diketahui bahwa
+setelah over houl pembangkit justru mengalami penurunan daya dan pemborosan
+bahan bakar, permasalahan inilah yang kemudian menjadi dasar dalam melakukan
+penelitian ini.
+Dari hasil penelitian didapatkan bahwa penyebab penurunan performa dan
+pemborosan bahan bakar dikarenakan adanya kenaikan entalphi setelah proses
+kompresi secara rerata sebasar 2,69 kJ/kg yang memicu pemborosan bahan bakar.
+Besar penurunan performa pembangkit adalah 678,75 kW secara aktual dan
+703,72 kW secara teoritis. Sedangkan pemborosan bahan bakar ditunjukan
+dengan peningkatan Spesifik fuel Consumtion pembangkit dari sebelum dan
+sesudah over houl yaitu 0,3271 menjadi 0,3480 secara aktual dan 0,3259
+menjadi 0,3469 secara teoritis. Akibat adanya penuruan performa dan
+pemborosan bahan bakar potensi kerugian perusahaan mencapai
+Rp. 137.803.325 / hari.
+Kata kunci : pembangkit, bahan bakar, over houl
+
+
+BAB I
+PENDAHULUAN
+1.1 Latar Belakang
+Kebutuhan listrik pada saat beban puncak pada tahun 2013 Bali adalah sebesar
+700 MW. Kebetuhan tersebut dipenuhi dari pembangkitan pembangkit listrik di Bali
+yang terdiri dari tiga lokasi pembangkit yaitu di Pesanggaran, Pemaron dan Gilimanuk.
+Di Power Plan Pesanggaran total daya terpasang adalah 196,19 MW, terdiri atas total
+PLTD sebesar 125,45 MW dan PLTG sebanyak 4 unit dengan total daya terpasang
+sebesar 70,74 MW, PLTG Pemaron 2 x 48,8 MW dan PLTG Gilimanuk sebesar 1 x
+133,80 MW, sehingga total pembangkitan Bali sebesar sebesar 427,59 MW serta
+tambahan beberapa PLTD di Bali Kepulauan.. Untuk memenuhi kebutuhan saat beban
+puncak sisanya berasal dari jaringan interkoneksi Jawa-Bali melalui kabel bawah laut
+sebesar 200 MW lebih. Untuk menjaga keamanan pasokan lisrik di Bali, maka
+keberadaan pembangkit yang ada harus tetap dioperasikan dengan segala konsekuensi
+yang ada.
+Mengingat sangat pentingnya pemenuhan kebutuhan listrik dan mahalnya biaya
+investasi pembangunan pembangkit baru maka pembangkit-pembangkit yang sudah ada
+harus dimanfaatkan dengan maksimal, begitu juga dengan PLTG G4 Pesanggaran.
+Salah satu usaha untuk menjaga kehandalan sistem adalah dengan melakukan perawatan
+berkala dan over houl (OH) setelah pembangkit dioperasikan dalam satuan waktu
+tertentu.
+Untuk mengetahui kehandalan dan keadaan terkini pembangkit yang ada, hal
+pertama yang akan dilakukan adalah audit energi. Audit Energi adalah kegiatan
+penelitian pemanfaatan energi untuk mengetahui keseimbangan energi dan
+mengidentifikasi peluang-peluang penghematan energi. Audit itu dilakukan untuk
+memperoleh kepastian tentang kondisi masing-masing pembangkit dan kapasitasnya.
+Dari hasil audit itu, akan diketahui kapasitas terpasang dan terbangkitkan yang
+sebenarnya pada kondisi sekarang. Selama ini data yang dimiliki pemerintah adalah
+kapasitas terpasang berdasarkan hitungan pada kondisi dulu. Padahal ada sejumlah
+faktor yang bisa mempengaruhi perubahan hitungan itu. Sebuah pembangkit bisa
+mengalami penyusutan kapasitas, misalnya pembangkit yang sebelumnya diketahui 100
+Mega Watt, bisa turun setelah mesin dioperasikan 20-25 tahun. Karena itu penghitungan
+kembali harus dilakukan untuk memperoleh angka yang pasti. Selain itu, audit juga bisa
+dilaksanakan untuk mengetahui pemborosan yang mungkin terjadi. Akibatnya ada biaya
+perawatan dan biaya lain yang seharusnya tidak dikeluarkan bisa dihilangkan.
+PT. Indonesia Power Unit Bisnis Pembangkit Bali pada tahun 2013 melakukan
+over houl terhadap pembangkit listrik tenaga gas G4 dan G3, dari hasil tes running dan
+comisioning terhadap kedua pembangkit yang dilakukan oleh PT PLN Jasa Sertifikasi
+diketahui adanya masalah penurunan performa pembangkit dan pemborosan bahan
+bakar. Hal inilah yang mendorong untuk dilakukan penelitian untuk mencari penyebab
+penurunan performa dan pemborosan bahan bakar tersebut serta solusi yang bisa
+tawarkan untuk menyelesaikan kedua masalah tersebut.
+1.2 Permasalahan
+Dari urian di atas, maka akan diambil beberapa permasalahan sebagai berikut :
+1. Bagaimana penyebab terjadinya penurunan performa pembangkit?
+2. Bagaimana proses pemborosan bahan bakar terjadi?
+3. Bagaimana solusi-solusi untuk menyelesaikan masalah tersebut?
+
+1.4 Tujuan Penelitian
+Adapun tujuan yang ingin dicapai dalam penelitian ini adalah untuk :
+1. Menganalisa dan mengetahui terjadinya penurunan performa pembangkit.
+2. Menganalisa dan mengetahui terjadinya pemborosan bahan bakar pada
+pembangkit.
+1.4 Manfaat Penelitian
+Dari penelitian yang akan dilakukan diharapkan dapat memberikan beberapa
+manfaat seperti tersebut dibawah ini:
+1. Memberikan solusi atas permasalahan penurunan performa dan pemborosan
+bahan bakar pada pembangkit.
+2. Memberikan dasar-dasar audit energy di PT Indoneia Power UBP Bali
+Khususnya ada pembangkit Gas G4.

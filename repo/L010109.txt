@@ -1,0 +1,363 @@
+﻿ABSTRAK
+Ekspresi gen protein selubung tomato infectious chlorosis virus pada Escherichia coli. Penyakit klorosis pada tanaman
+tomat disebabkan oleh Tomato infectious chlorosis virus (TICV). Deteksi TICV dapat dilakukan dengan transkripsi balik (RTPCR)
+dan serologi. Titer TICV dalam jaringan tanaman sangat rendah karena terbatas pada jaringan floem. Deteksi serologi
+membutuhkan antiserum. Di Indonesia antiserum TICV ini belum tersedia. Usaha penyediaan antigen melalui kloning dan
+ekspresi gen protein selubung (CP) merupakan salah satu cara yang menjanjikan dalam produksi antiserum. Penelitian ini
+bertujuan untuk mengekspresikan gen CP TICV sebagai antigen dalam produksi antiserum. Gen CP diamplifikasi dengan
+transkripsi balik (RT-PCR) dari RNA total yang diekstraksi dari daun yang terinfeksi yang berasal dari Cipanas, Kabupaten
+Cianjur, Jawa Barat. Gen CP hasil amplifikasi kemudian di sekuensing, disubkloning ke dalam vektor ekspresi pET 21b,
+ditransformasi ke dalam bakteri Escherichia coli strain BL21 DE3(pLysS) dan diekspresikan dengan diinduksi menggunakan
+IPTG 1 mM selama semalaman pada suhu 37 °C. Purifikasi CP yang mengandung 6xhistag dengan menggunakan NiNTAspin
+column dan hasilnya dikonfirmasi dengan sodium deodecyl sulphate polyacrilamide gel electrophoresis (SDS-PAGE). Hasil
+amplifikasi gen CP berhasil memperoleh fragmen gen CP yang berukuran 750 pb dan diekspresikan pada vektor pET 21b.
+Purifikasi CP yang mengandung 6xhistag menggunakan NiNTA spin column berhasil memperoleh pita CP yang berukuran
+sekitar 29 kDa.
+Kata kunci: ekspresi, gen protein selubung, tomato infectious chlorosis virus (TICV)
+
+PENDAHULUAN
+Tomato infectious chlorosis virus (TICV)
+merupakan salah satu virus yang menyebabkan penyakit
+klorosis pada tanaman tomat. Di Indonesia, penyakit ini
+telah ditemukan di beberapa sentra produksi tomat,
+seperti di Garut, Cipanas-Cianjur, Bogor, Magelang, dan
+Yogyakarta (Sa’adah, 2013; Fitriasari, 2010; Hartono
+& Wijonarko, 2007). TICV merupakan anggota dari
+genus Crinivirus (famili Closteroviridae) (Jacquemond
+et al., 2009).
+Gejala serangan TICV pada tanaman tomat
+ditunjukkan oleh klorosis pada bagian antara tulang daun.
+Jika gejala klorosis sangat parah, daun akan mengalami
+nekrotik (kematian jaringan) dan menjadi rapuh, serta
+ukuran buah menjadi lebih kecil, mudah gugur dan proses
+pemasakan terganggu sehingga hasil panen menurun
+(Wisler et al., 1998). TICV ditularkan dari satu tanaman ke tanaman lainnya oleh serangga vektor Trialeurodes
+vaporariorum (Hemiptera: Aleyrodidae) yang dikenal
+dengan nama kutu kebul rumah kaca secara
+semipersisten (Duffus et al., 1996).
+Deteksi TICV dapat dilakukan dengan reverse
+transcription–polymerase chain reaction (RT-PCR)
+dan hasilnya sangat cepat dan akurat, tetapi deteksi
+tersebut memerlukan bahan-bahan dan peralatan yang
+mahal. Teknik deteksi selain RT-PCR adalah deteksi
+dengan pendekatan serologi yaitu enzyme linked
+immunosorbent assay (ELISA), tissue blot
+immunosorbent assay (TBIA), dan dot blot
+immunosorbent assay (DIBA). Deteksi dengan metode
+ini cepat dan murah. Deteksi secara serologi ini
+memerlukan antiserum. Antiserum TICV belum tersedia
+di Indonesia, sehingga menyulitkan dalam mendeteksi
+virus ini. Usaha ke arah penyediaan antiserum akan
+sangat bermanfaat sebagai sarana dalam mendeteksi
+TICV. Titer TICV pada tanaman sangat rendah karena
+virus ini hanya ditemukan pada jaringan floem.
+Ekspresi gen coat protein (CP) TICV pada
+Escherichia colimenjanjikan tersedianya antigen dalam
+jumlah yang cukup untuk produksi antiserum.
+Keunggulan penyediaan antiserum dengan metode ini
+antara lain: protein yang dihasilkan bersifat spesifik
+sehingga tidak bereaksi terhadap protein tanaman,
+antigen dapat tersedia dalam jumlah yang mencukupi
+setiap saat apabila diperlukan untuk produksi antiserum
+(Cotillon et al., 2005). Melihat keunggulan di atas maka
+diperlukan suatu metode untuk dapat mengekspresikan
+gen CP-TICV yang akan digunakan sebagai antigen
+dalam produksi antiserum. Penelitian ini bertujuan untuk
+mengekspresikan gen protein selubung (CP) TICV pada
+E. coli. Manfaat dari penelitian ini berupa protein
+selubung TICV murni yang dapat digunakan sebagai
+antigen pada tubuh mamalia (kelinci) sehingga terbentuk
+antibodi terhadap TICV yang kemudian dapat digunakan
+sebagai sarana deteksi virus yang bersangkutan.
+METODE PENELITIAN
+Tempat dan Waktu. Penelitian ini dilakukan di
+Laboratorium Virologi Tumbuhan, Departemen Proteksi
+Tanaman, Fakultas Pertanian IPB dan Laboratorium
+Biokimia Balai Besar Bioteknologi dan Sumberdaya
+Genetik Pertanian dari bulan Mei 2012 sampai dengan
+Agustus 2013.
+Tanaman Sumber Virus. Untuk mendapatkan TICV
+isolat Indonesia dilakukan pengumpulan tanaman
+bergejala klorosis dari sentra produksi tomat di daerah
+Cipanas, Kabupaten Cianjur, Provinsi Jawa Barat (1225
+m dpl). Daun tanaman yang terinfeksi TICV diamati
+dan difoto gejalanya, kemudian diambil untuk
+diidentifikasi dengan menggunakan transkripsi balik (RTPCR).
+Amplifikasi Gen CP TICV
+Ekstraksi RNA Total. Ekstraksi RNA total
+dilakukan dengan menggunakanQiagen RNAeasy Plant
+Mini Kit dan dikerjakan sesuai dengan protokol yang
+diberikan (Qiagen, 2003).
+Sintesis complementary (c) DNA. RNA hasil
+ekstraksi digunakan sebagai cetakan dalam sintesis
+cDNA melalui reaksi RT mengikuti metode Fitriasari
+(2010). Siapan cDNA hasil RT digunakan sebagai
+cetakan dalam reaksi PCR.
+PCR. PCR dilakukan dalam volume 25 μl yang
+terdiri dari 12,5 μl Go Tag Green PCR Master mix
+(Thermo Scientific, US), masing-masing 1 μl primer
+(TICV–CP F-Bam no ATG (5’-
+A A T T A A G G A T C C G A A A A
+CTTATCTGGTAATGCAAAC-3’ dan TICV–CP RHind
+5’-AATTAAAAGCTTTTAGCATGGGTG
+TTTCATATC AGCC-3’), 8,5 μl ddH2O dan 2 μl cDNA.
+PCR dilakukan pada Automated Thermal cycler (Gene
+Amp PCR System 9700; PE Applied Biosystem, USA).
+Proses ini didahului dengan denaturasi awal pada 94 ºC
+selama 4 menit, dilanjutkan dengan 30 siklus yang terdiri
+dari denaturasi pada 94 ºC selama 1 menit, penempelan
+primer (annealing) pada 55 ºC selama 1 menit, dan
+pemanjangan (extension) pada 72 ºC selama 2 menit,
+dan diikuti pemanjangan akhir pada 72 ºC selama 10
+menit.
+Elusi Produk PCR. Produk PCR
+dielektroforesis dalam gel agarose 1%. Produk PCR
+dan penanda DNA 1kb (Thermo Scientific, US), masingmasing
+10 μl dan 5 μl dimasukkan ke dalam sumuran
+yang telah disiapkan pada gel agarose. Elektroforesis
+dilakukan selama 30 menit pada 100 V. Produk PCR
+yang telah dielektroforesis kemudian divisualisasi dengan
+UV transluminator. Bagian gel tepat pada produk PCR
+dipotong dan dimasukkan ke tabung mikro yang sudah
+ditambahkan 500 μl buffer DF (HiYield, China), kemudian
+divortex, dan diinkubasi pada suhu 55 ºC sampai gel cair.
+Siapan kemudian dimasukkan ke DF kolom dan
+disentrifugasi dengan kecepatan 8000 rpm selama 1
+menit. Selanjutnya, 500 μlwash buffer (HiYield, China)
+dimasukkan dalam DF kolom dan disentrifugasi dengan
+kecepatan 8000 rpm selama 1 menit. Sebanyak 20 μl
+buffer elusi (HiYield, China) ditambahkan pada tengah
+kolom dan disentrifugasi pada kecepatan 8000 rpm selama 1 menit. Hasil elusi (yang merupakan gen CPTICV)
+disimpan pada suhu -20 ºC sampai akan
+digunakan.
+Penyisipan Gen CP TICV pada Plasmid Vektor
+pET-21b
+Pemotongan Plasmid Vektor pET-21b.
+Plasmid pET-21b dipotong dengan enzim restriksi
+BamH1 danHindIII. Rektan untuk pemotongan plasmid
+dilakukan dengan total volume 20 μl yang terdiri dari 1
+μl plasmid pET-21b, 1 μl enzim BamH1, 1 μl enzim
+HindIII, 2 μl buffer, dan 15 μ l ddH2O. Reaksi
+pemotongan diinkubasi pada suhu 37 ºC selama satu
+malam.
+Ligasi Plasmid dan Insert (Gen CP TICV).
+Gen CP TICV disisipkan ke dalam plasmid pET-21b
+melalui reaksi ligasi mengikuti prosedur (Qiagen, US).
+Campuran ligasi dengan total volume 10 μl terdiri dari 2
+μl plasmid pET-21b, 2 μl hasil elusi gen CP TICV, 1 μl
+enzim T4 ligase, 1 μl buffer ligasi, dan 4 μl ddH2O. Reaksi
+ligasi dilakukan pada suhu 4 ºC selama 16 jam. Hasil
+ligasi akan menghasilkan plasmid pET-21b yang
+mempunyai insert gen CP TICV, yang selanjutnya
+disebut plasmid pET-CP TICV.
+Persiapan Kompeten Sel E. coli strain
+BL21(DE3)pLysS. Stok E. coli strain BL21(DE3)
+pLysS dalam gliserol digores pada media LB agar yang
+mengandung antibiotik ampisilin 50 μ g/ml dan
+kloramfenikol 20 μg/ml, kemudian diinkubasi pada suhu
+37 °C selama satu malam. Satu kultur biakan E. coli
+selama satu malam dipindahkan ke dalam 5 ml Luria
+Bertani (LB) broth yang mengandung antibiotik
+kemudian diinkubasi pada suhu 37 °C selama satu
+malam. Sekitar 2 ml kultur selama satu malam tersebut
+diambil dan dipindahkan ke dalam 40 ml media A (LB,
+MgSO47H2O 10 mM, gukosa 0,2%), lalu diinkubasi
+selama 2 jam. Setelah 2 jam kultur bakteri dipindahkan
+ke tabung falcon steril dan diinkubasi dalam es batu
+selama 10 menit. Biakan yang berada pada tabung falcon
+disentrifugasi dengan kecepatan 4000 rpm, selama 15
+menit pada suhu 4 °C. Supernatan dibuang dan diambil
+peletnya. Pelet diresuspensi dengan 2,5 ml media B (LB,
+glyserol 36%, PEG 7000 12%, dan MgSO47H2O 12
+mM). Siapan bakteri tersebut kemudian
+dipindahpisahkan masing-masing 100 μl ke tabung
+eppendorf 1,5 ml dan disimpan di freezer -80 °C sampai
+digunakan untuk transformasi (Nishimura et al., 2003).
+Transformasi. Transformasi dilakukan dengan
+mencampur 10 μl hasil ligasi dengan 100 μl sel kompeten
+BL21(DE3)pLySs. Terhadap siapan ini berturut-turut
+dilakukan diinkubasi dalam es batu selama 20 menit,
+heat shock pada suhu 42 °C selama 1 menit, lalu
+dipindahkan ke dalam es batu selama 2 menit,
+ditambahkan 500 μl LB cair, dan diinkubasi dengan
+dishaker pada suhu 37 °C selama 4 jam, kemudian
+disentrifus 12.000 rpm 1 menit, supernatan dibuang, pelet
+dan LB yang masih tersisa sampai 100 μl dihomogenasi,
+dan ditumbuhkan dalam media LB agar 20 ml yang telah
+diberi ampisilin 50 μg/ml dan kloramfenikol 20 μg/ml.
+Biakan tersebut diinkubasi pada suhu 37 °C selama satu
+malam (Sambrook & Russel, 2001).
+Konfirmasi Transforman. Transforman yang
+membawa plasmid pET-CP TICV terlebih dahulu
+ditumbuhkan pada 5 ml media LB cair yang mengandung
+50 mg/ml ampisilin dan 20 mg/ml kloramfenikol pada
+suhu 37 °C selama satu malam, kemudian plasmid
+diisolasi dengan metode alkalin lisis (Sambrook &
+Russel, 2001). Konfirmasi dilakukan dengan memotong
+plasmid pET-CP TICV dan koloni PCR.
+Isolasi Plasmid dengan Metode Alkalin Lisis. Satu
+koloni bakteri diinokulasi ke dalam 10 ml LB dan
+diinkubasi selama satu malam pada suhu 37 °C, kemudian
+dipindahkan ke tabung eppendorf 1,5 ml dan
+disentrifugasi 12.000 rpm pada suhu 4 °C selama 2
+menit. Setelah itu supernatan dibuang. Resuspensi pelet
+dengan 100 μl larutan I (50 mM glukosa, 10 mM EDTA,
+25 mM Tris HCl pH 8, 2 mg/ml lisozyme (ditambahkan
+saat akan digunakan)), kemudian divortex, ditambahkan
+200 μl larutan II (0,2 M NaOH, 1% SDS dibuat saat
+akan digunakan), divortex, ditambahkan 150 μl larutan
+III (3 M NaOAc pH 4,8), tabungnya dibolak-balik agar
+bercampur, disentrifus 12.000 rpm selama 5 menit.
+Supernatan dipindahkan ke tabung eppendorf baru,
+ditambahkan 300 μl phenol kloroform, divortex, dan
+disentrifus 12.000 rpm 5 menit. Larutan yang paling atas
+dipindahkan ke tabung yang baru, kemudian ditambahkan
+etanol absolut 2 x volume, sentrifus 12.000 rpm selama
+20 menit, supernatan dibuang, dicuci dengan 800 μl
+etanol 70%, vortex, disentrifus 12.000 rpm 5 menit,
+supernatan dibuang, pelet dikeringanginkan, kemudian
+diresuspensi dengan 30 μl buffer TE atau ddH2 O
+(Sambrook & Russel, 2001).
+Pemotongan pET-CP TICV dengan Enzim
+Restriksi. Plasmid pET-CP TICV dipotong dengan
+enzim restriksi BamH1 dan HindIII prosedur seperti
+pada restriksi yang telah diuraikan sebelumnya. Hasil
+restriksi dielektroforesis pada gel agarose 1% selama
+30 menit dengan tegangan 100 V. Hasil elektroforesis
+divisualisasikan dengan transilluminator ultraviolet dan
+didokumentasikan dengan kamera digital.
+
+Mengkulturkan E. coli Transforman untuk
+Purifikasi Protein CP-TICV. E. coli strain BL21
+(DE3)pLysS yang membawa plasmid rekombinan
+pET21-CP diinokulasi ke dalam 3 ml media LB yang
+mengandung 50 mg/ml ampisilin dan 20 mg/ml
+kloramfenikol. Biakan diinkubasi di dalam orbital
+shaker (75 rpm) pada suhu 37 oC selama satu malam.
+Kemudian sebanyak 100 ml biakan diinokulasikan ke
+dalam 10 ml media LB yang mengandung antibiotik dan
+diinkubasikan di dalam orbital shaker (75 rpm) pada
+suhu 37 oC. Setelah pertumbuhan bakteri mencapai
+OD600 0,5 (kira-kira 5-6 jam), biakan diinduksi dengan 1
+mM isopropil-thio-D-galaktoside (IPTG) dan
+diinkubasikan semalaman. Sel bakteri yang
+mengekpresikan protein rekombinan dipanen dengan
+sentrifugasi (12.000 rpm, 4 oC, 15 menit) dan dilisis
+dengan buffer B-7M urea 300 μl dan turbonuclease
+(Nacalai, Japan) 3 unit/ml kultur (0,4 μl). Sel hasil lisis
+disentrifugasi dengan kecepatan 12.000 rpm pada suhu
+4 oC selama 15 menit. Protein rekombinan yang ada
+dalam supernatan (soluble protein) dan pelet (insoluble
+protein) dianalisis dengan analisis SDS-PAGE.
+Purifikasi CP-TICV. Purifikasi CP-TICV dilakukan
+dengan Qiagen NiNTA spin column pada kondisi
+denaturasi dan dikerjakan sesuai dengan protokol yang
+diberikan (Qiagen, 2008). Setelah diperoleh protein
+murni, dilakukan analisis SDS-PAGE (Laemmli, 1970).
+Elektroforesis dilakukan dengan Biorad power pac 300
+selama 2 jam dengan voltase 150 V. Kemudian gel hasil
+elektroforesis dilepas dari cetakannya dan dimasukkan
+ke dalam larutan staining (coomassie brilliant blue R-
+250, metanol, asam asetat glasial) dan dishaker selama
+satu malam, setelah itu dicuci dengan larutan distaining
+(metanol, asam asetat glasial, aquadest) sampai gel
+terlihat bening dan pita protein terlihat berwarna biru
+selanjutnya hasilnya difoto.
+HASIL DAN PEMBAHASAN
+TICV Isolat Indonesia. Pengumpulan tanaman yang
+bergejala klorosis yang dilakukan di daerah Cipanas,
+Kabupaten Cianjur, Provinsi Jawa Barat berhasil
+mendapatkan tanaman tomat yang terinfeksi TICV
+(Gambar 1). Gejala penyakit klorosis pada tanaman
+tomat ditunjukkan oleh klorosis pada bagian tulang daun
+(interveinal yellowing) yang dimulai pada daun
+terbawah, kemudian berkembang cepat secara merata
+ke daun-daun bagian atas. Serangan klorosis yang parah
+akan menyebabkan nekrotik pada daun (Gambar 1B).
+Hal ini menyebabkan proses fotosintesis terganggu dan
+mengakibatkan penurunan produksi (Wisler et al., 1998).
+Amplifikasi Gen CP TICV. Gen CP berhasil
+diamplifikasi menggunakan sepasang primer spesifik
+(TICV–CP F-Bam no ATG (5’AATTAAGGATCCG
+AAAACTTATCTGGTAATGCAAAC-3’ dan TICV–
+CP R-Hind 5’AATTAAAAGCTTTTAGCAT
+GGGTGTTTCATATCAGCC-3’). Produk PCR
+berukuran sekitar 750 pb yang disajikan dalam Gambar
+2, sesuai dengan hasil penelitian Fitriasari (2010).
+Fragmen gen CP hasil amplifikasi ini telah disekuensing
+(data tidak ditampilkan) dan mempunyai kemiripan
+dengan isolat dari negara lain sebesar 99,4–100%.
+Fragmen gen CP ini selanjutnya digunakan pada tahap
+berikutnya yaitu kloning gen CP TICV.
+Kloning Gen CP TICV. Proses ligasi dan transformasi
+merupakan tahapan utama dalam kloning gen.
+Penggabungan fragmen gen CP TICV ke dalam vektor
+ekspresi pET-21 b merupakan proses ligasi. Hasil ligasi
+antara vektor ekspresi (pET-21b) dengan fragmen gen
+CP TICV diintroduksikan ke dalam bakteri E. coli
+sebagai inangnya yang kemudian ditumbuhkan ke dalam
+media LB agar yang telah diberi antibiotik tertentu.
+
+
+Keberhasilan dalam proses transformasi dapat dilihat
+dari kemampuan tumbuhnya E. coli pada media selektif
+(LB agar yang telah diberi antibiotik ampisilin dan
+klorampenikol). Keberhasilan proses ligasi dapat dilihat
+dari adanya koloni yang berwarna putih. Menurut
+Sambrook & Russel (2001) sel bakteri yang mengandung
+plasmid yang membawa sisipan DNA akan berwarna
+putih (Gambar 3).
+Konfirmasi Transforman. Plasmid rekombinan pET21-
+CP yang membawa gen CP-TICV berhasil dikonstruksi
+dengan menyisipkan gen tersebut pada situs pemotongan
+BamHI/HindIII. Hasil pemotongan plasmid rekombinan
+pET21-CP dengan BamHI/HindIII menghasilkan dua
+fragmen berukuran 5400 bp dan 750 bp yang masingmasing
+adalah vektor ekspresi pET-21b dan gen CP
+TICV (Gambar 4A). Kedudukan gen terletak antara
+T7 setelah start kodon dengan his-tag sebelum stop
+kodon. Fusi his-tag ke dalam protein target berfungsi
+untuk proses purifikasi dan deteksi protein rekombinan
+yang diekspresikan. Klon E. coli strain
+BL21(DE3)pLysS yang positif membawa plasmid
+rekombinan telah berhasil diseleksi dengan PCR
+(Gambar 4B). Satu fragmen tunggal dengan ukuran sekitar 750 pb berhasil diamplifikasi dari koloni tunggal
+klon rekombinan dengan primer TICV–CP F-Bam no
+ATG dan TICV–CP R-Hind.
+Ekspresi Gen CP TICV. Ekspresi diinduksi dengan
+penambahan 1 mM IPTG pada biakan bakteri setelah
+nilai absorbansi pada OD600 mencapai 0,5. Sistem
+pengekspresian pET berada dibawah kendali faktor
+transkripsi T7 dari bakteriofage yang sangat kuat.
+Aktivitas operon lac dapat diinduksi dengan adanya
+laktosa dalam media tumbuh. Dalam transformasi,
+induksi operon lac dilakukan oleh IPTG. IPTG berperan
+sebagai induser sistem kloning yang terlibat dalam
+ekspresi lacZ pada plasmid pET-21-CP (Hogg, 2005).
+Protein rekombinan yang terekspresi ditranslokasikan ke
+dalam membran periplasma. Ekstraksi protein dalam
+membran periplasma dilakukan dengan buffer fosfat
+yang mengandung urea. Hasil analisis dengan SDSPAGE
+menunjukkan over ekpresi gen CP TICV dalam
+sistem ekspresi pET21b (Gambar 5). Pita protein
+berukuran 29 kDa yang diduga sebagai CP TICV
+terdeteksi pada klon yang diinduksi dengan IPTG
+dibanding klon yang tidak diinduksi. Hal ini menunjukkan
+bahwa gen CP TICV telah berhasil diekspresikan dalam
+pET21b dengan E. coli strain BL21(DE3)pLysS.
+Purifikasi Protein CP-TICV. Purifikasi CP TICV
+dilakukan dengan NiNTAspin column yang mengandung his-trap di dalam resinnya. Protein CP TICV yang
+mengandung 6xHistag pada ujung N sikuen asam
+aminonya dapat diikat oleh his-trap, sedangkan protein
+lainnya akan terlepas. Setelah melalui proses pencucian,
+protein rekombinan dalam his-trap dilepaskan dengan
+menggunakan buffer E (8M urea, 0,1 M NaH2PO4, 0,01
+Tris-Cl pH 4,5) sehingga didapatkan protein CP TICV
+murni (Gambar 6).
+SIMPULAN
+Gen CP TICV berhasil diekspresikan pada
+Escherichia coli strain BL21(DE3)pLysS setelah
+diinduksi menggunakan IPTG 1 mM selama satu malam
+pada suhu 37 °C menunjukkan pita protein yang
+berukuran sekitar 29 kDa, serta berhasil dipurifikasi
+dengan NiNTA spin column.

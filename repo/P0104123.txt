@@ -1,0 +1,561 @@
+﻿Kajian Penggunaan Sistem Informasi Customer Service
+dengan Technology Acceptance Model (Studi Kasus Pada
+PT. SMARTFREN Semarang)
+
+
+
+Intisari— PT. Smartfren Telecom, Tbk. adalah operator
+penyedia jasa telekomunikasi berbasis teknologi CDMA yang
+memiliki lisensi selular dan mobilitas terbatas (fixed wireless
+access), serta memiliki cakupan jaringan CDMA EV-DO
+(jaringan mobile broadband yang setara dengan 3G) yang
+terluas di Indonesia. Smartfren juga merupakan operator
+telekomunikasi pertama di dunia yang menyediakan layanan
+CDMA EV-DO Rev. B (setara dengan 3,5G dengan kecepatan
+unduh s.d. 14,7 Mbps) dan operator CDMA pertama yang
+menyediakan layanan Blackberry. Penelitian ini mencakup
+faktor-faktor apa sajakah yang mempengaruhi penggunaan
+sistem informasi customer service dan mengidentifikasi tingkat
+penerimaan sistem informasi customer service pada industri
+telekomunikasi. Faktor-faktor yang mempengaruhi masyarakat
+yang pernah menggunakan sistem informasi customer service
+PT. Smartfren Semarang adalah adanya manfaat untuk
+menggunakan sistem informasi customer service, adanya
+kemudahan dalam menggunakan sistem informasi customer
+service, adanya tujuan di dalam penggunaan sistem informasi
+customer service, frekuensi penggunaan sistem informasi
+customer service, adanya minat untuk menggunakan sistem
+informasi customer service, dan adanya tarif yang sesuai dengan
+manfaat yang diterima dalam menggunakan sistem informasi
+customer service.
+Kata Kunci— TAM, Telekomunikasi, CDMA, Sistem.
+
+
+
+I. PENDAHULUAN
+SI adalah sistem komputer yang menyediakan informasi
+sesuai dengan permintaan pengguna. TI adalah teknologi yang
+digunakan dalam pemerolehan, penyimpanan, pengolahan dan
+pendistribusian informasi dengan cara elektronik (Collin,
+1987). Istilah TI didefinisikan dalam pengertian luas sebagai
+“teknologi” untuk penyimpanan, pengolahan, dan komunikasi
+informasi [1]. Dalam pengertian ini TI adalah kombinasi
+perangkat keras, perangkat lunak, telekomunikasi, dan
+peralatan kantor yang mentransformasikan data ke dalam
+bentuk informasi yang berguna untuk mempercepat proses
+temu-balik. Dengan kata lain, TI merupakan perpaduan antara
+teknologi komputer dan teknologi komunikasi, juga dikenal
+dengan istilah information and communication technology
+(ICT).
+SI dibangun di atas suatu infrastruktur TI. Perkembangan
+TI membuat jangkauan SI tidak lagi terbatas hanya pada
+aktivitas utama suatu organisasi, tetapi menjangkau institusi
+yang berada jauh di luar organisasi. Suatu sistem informasi (SI)
+dapat didefinisikan sebagai serangkain komponen yang saling
+berkaitan yang mengumpulkan (atau menemu-balik),
+mengolah, menyimpan, dan mendistribusikan informasi untuk
+mendukung pengambilan keputusan, koordinasi, pengawasan,
+analisis, dan visualisasi di dalam suatu organisasi [11]
+Perangkat keras komputer, perangkat lunak komputer dan
+teknologi storage (perangkat keras dan lunak) disertai dengan
+teknologi komunikasi (perangkat keras dan lunak) merupakan
+infrastruktur teknologi informasi. Infrastruktur TI tersebut
+menyediakan fondasi atau platform di atas mana suatu
+perusahaan dapat membangun SI yang khas untuk perusahaan
+tersebut [11]. Dengan memiliki infrastruktur TI, organisasi
+memiliki serangkaian teknologi yang melayani kebutuhannya
+untuk pekerjaan yang diinginkan untuk diselesaikan dengan
+suatu SI. Jenis SI antara suatu organisasi dengan organisasi
+lainnya saling berbeda satu sama lain karena perbedaan minat,
+spesialisasi dan tingkatan dalam suatu organisasi.
+Proses kemajuan teknologi informasi yang membawa
+manusia kedalam ekonomi informasi dimana masyarakat pada
+saat ini sering disebut sebagai masyarakat pasca industri
+dimana dalam era informasi saat ini jarak fisik atau jarak
+geografis tidak lagi menjadi faktor pembatas dalam hubungan
+antar manusia atau antar lembaga usaha (Wardiana, 2006).
+Telah dikemukakan sebelumnya oleh Khalil (2002) bahwa era
+informasi inilah yang membuat istilah “distance is dead”
+menjadi nyata. Definisi teknologi sendiri menurut ahli
+dikatakan sebagai sebuah proses kreatif yang melibatkan
+manusia, pengetahuan dan sumber-sumber material untuk
+menyelesaikan masalah dan meningkatkan efisiensi (Hall,
+1994). Kemajuan teknologi khususnya informasi dan
+telekomunikasi saat ini begitu pesat, sehingga memungkinkan diterapkannya cara-cara baru yang lebih efisien untuk
+produksi, distribusi dan konsumsi barang dan jasa
+(Natakusuma, 2002).
+Pemanfaatan teknologi informasi dan komunikasi
+dilingkungan organisasi sudah menjadi kebutuhan bagi tiap
+organisasi untuk mencapai efisiensi dan efektifitas organisasi.
+Berdasarkan tujuan dari penerapan teknologi informasi dan
+komunikasi tersebut maka berbagai bentuk aplikasi teknologi
+informasi dan komunikasi yang tersedia dimanfaatkan antara
+lain aplikasi perkantoran (pengolah kata, perhitungan,
+pengolah grafis), fasilitas komunikasi (email, chatting,
+teleconference), sistem pendukung keputusan dan sistem
+informasi manajemen. Pelayanan pelanggan adalah proses
+pemenuhan kebutuhan, yaitu proses untuk memenuhi
+permintaan konsumen secara keseluruhan. Proses tersebut
+termasuk catatan permintaan baik secara manual ataupun
+elektronik, pembayaran, pemilihan barang, pengiriman dan
+penyediaan barang, serta memberikan pelayanan kepada
+pemakai barang, juga mengatur penanganan untuk barang
+yang dikembalikan konsumen pada saat komplain.
+II.TINJAUAN PUSTAKA
+Bisnis Telekomunikasi yang bergerak di provider kartu
+tentu saja harus memiliki customer service yang baik. Layanan
+purna jual bagi para pelanggan yang menyenangkan akan
+membuat para pelanggan kartu telepon semakin setia memakai
+produk mereka. Bentuk pelayanan pelanggan dalam bisnis ini
+tentu berbeda dengan layanan pelanggan yang dilakukan oleh
+customer service sebuah toko namun dalam pemberian layanan
+tujuannya adalah sama yaitu untuk penerimaan dan kepuasan
+pelanggan. Turban (1996) menyebutkan bahwa sistem
+informasi dapat dikaji dan dianalisis performasinya
+berdasarkan dua pengukuran utama, yaitu efektivitas dan
+efisiensi. Berdasarkan perspektif efisiensi, kajiannya
+berhubungan dengan penggunaan sumber daya yang diberikan
+(sumber daya manusia, mesin, material dan uang) untuk
+menyediakan sistem informasi bagi pengguna (user).
+Sedangkan dari perspektif efektivitas user, kajiannya
+berhubungan dengan penggunaan dan penerimaan sistem
+informasi dalam menyempurnakan misi organisasi.
+Penelitian ini berisi tentang kajian perilaku pengguna (user)
+terhadap penggunaan sistem informasi costumer service.
+Responden pada penelitian ini adalah pengguna kartu smartfren
+dan para karyawan PT. Smartfren Semarang sebagai pengguna
+(user) sistem informasi customer service. Penelitian ini
+menggunakan kerangka pemikiran yang mengadopsi model
+Technology Acceptance Model (TAM). Uji statistik dengan
+metode Structural Equation Modeling (SEM) dilakukan untuk
+menguji hipotesa yang diajukan. Beberapa penelitian telah
+mengukur faktor penerimaan teknologi sebagai alat ukur untuk
+melihat perilaku pengguna dalam melakukan bisnis proses.
+Davis (1989) mengajukan Technology Acceptance Model
+(TAM) untuk menjelaskan dan memprediksi penerimaan dari
+sistem informasi atau teknologi informasi untuk
+mengimplementasikan dilakukan pada PT. Smartfren Semarang.
+Menurut standar ISO 9001 Quality Management System
+kerangka operasional standar yang dibutuhkan pada sebuah
+organisasi call center antara lain:
+1) Network layer, lapisan ini berkaitan dengan aspek IT dan
+mencakup jalur telekomunikasi. Didalam lapisan ini
+terdapat akses nomor telepon rekan-rekan, jalur dan
+sambungan kabel telepon dari STO Telkom sampai call
+center customer service dan juga sambungan kabel, atau
+lebih tepatnya IT link.
+2) Equipment layer, lapisan ini berkaitan dengan teknologi
+di call center customer service dan peralatannya.
+Beberapa diantaranya adalah PABX (private automatic
+branch exchange), system ACD, IVR (interactive voice
+response), system perekam, CTI (computer telephony
+integration), set telepon, komputer dan kelengkapannya,
+termasuk perangkat keras dan lunaknya.
+3) Operational layer, lapisan ini meliputi keseluruhan
+proses call center customer service, mulai dari masuknya
+telepon pelanggan yang mencari informasi, kemudian
+proses yang mengikuti setelah itu, sampai dengan
+pencatatan telepon kedalam aplikasi contact
+management. Setelah itu, permasalahan yang masuk ke
+call center customer service akan ditindaklanjuti untuk
+diselesaikan serta direspons kembali.
+4) Reporting layer, lapisan ini tentang bagaimana
+seharusnya melaporkan kejadian-kejadian yang terjadi
+dan bagaimana pendekatan dalam perjanjian call center
+customer service dikenal dengan istilah service level
+agreement.
+Bisnis proses adalah serangkaian atau sekumpulan aktifitas
+yang dirancang untuk menyelesaikan tujuan strategi sebuah
+organisasi, seperti pelanggan dan pasar (Hollander, Denna dan
+Cherrington, 2000). Dalam bisnis proses informasi mencakup
+tiga aktifitas utama pencatatan data atas transaksi operasi,
+pemeliharaan data referensi yang penting atas kumpulan
+operasional tersebut dan pelaporan informasi yang berguna
+kepada manajemen. Untuk menciptakan sebuah bisnis proses
+yang efektif yang perlu diperhatikan adalah penyesuaianpenyesuaian
+fungsi kerja yaitu sentralisasi dan operasional.
+Sedangkan ruang lingkup sistem informasi customer service
+adalah:
+1) Create service request, pada lingkup ini kegiatan yang
+dilakukan adalah technical consultation request dan
+problem support request.
+2) Process a service request, pada lingkup ini kegiatan
+yang dilakukan adalah pengentryan trouble ticket, jika
+problem tidak dapat di selesaikan pada saat itu juga
+maka ekskalasi problem kepada team engineer (assign
+ticket to engineer team).
+3) Close a service request, pada lingkup ini kegiatan yang
+dilakukan adalah menanyakan dan mengkonfirmasi
+kepada customer dan engineering team apakah problem
+yang dihadapi sudah terselesaikan, jika sudah
+terselesaikan maka trouble ticket untuk customer
+tersebut sudah dapat di tutup (close).
+
+
+
+
+
+
+TABEL I
+JENIS KELAMIN RESPONDEN
+Jenis
+Kelamin Frequency Percent
+Valid
+Percent
+Cumulative
+Percent
+Perempuan 30 30.0 30.0 30.0
+Laki-laki 70 70.0 70.0 100.0
+Total 100 100.0 100.0
+TABEL II
+USIA RESPONDEN
+Usia Frequency Percent Valid
+Percent
+Cumulative
+Percent
+<=25 th 42 42.0 42.0 42.0
+26 - 35 th 55 55.0 55.0 97.0
+36 - 45 th 3 3.0 3.0 100.0
+Total 100 100.0 100.0
+TABEL III
+PEKERJAAN RESPONDEN
+Pekerjaan Frequency Percent
+Valid
+Percent
+Cumulative
+Percent
+Mahasiswa 12 12.0 12.0 12.0
+Pegawai 27 27.0 27.0 39.0
+Dosen 2 2.0 2.0 41.0
+Wiraswasta 47 47.0 47.0 88.0
+Lainnya 12 12.0 12.0 100.0
+Total 100 100.0 100.0
+TABEL IV
+PENDIDIKAN TERAKHIR RESPONDEN
+Pendidikan Frequency Percent Valid
+Percent
+Cumulative
+Percent
+SMU/SMK 6 6.0 6.0 6.0
+Diploma 19 19.0 19.0 25.0
+S1/D4 67 67.0 67.0 92.0
+S2 8 8.0 8.0 100.0
+TABEL IV
+PENDIDIKAN TERAKHIR RESPONDEN
+Pendidikan Frequency Percent Valid
+Percent
+Cumulative
+Percent
+SMU/SMK 6 6.0 6.0 6.0
+Diploma 19 19.0 19.0 25.0
+S1/D4 67 67.0 67.0 92.0
+S2 8 8.0 8.0 100.0
+Total 100 100.0 100.0
+TABEL V
+JABATAN STRUKTURAL RESPONDEN
+Menjabat Frequency Percent Valid Percent Cumulative
+Percent
+Ya 50 50.0 50.0 50.0
+Tidak 50 50.0 50.0 100.0
+Total 100 100.0 100.0
+Adapun hasil analisis hubungan antar variabel dengan
+menggunakan SEM dapat dilihat pada Tabel VI berikut:
+TABEL VI
+HUBUNGAN ANTAR VARIABEL (REGRESION WEIGHTS)
+Hubungan Variabel
+Esti
+mate
+S.E
+.
+C.R. P Label
+PU <-- PEOU ,923 ,117 8,118 *** par_1
+ATU <-- PU ,048 ,055 4,112 *** par_1
+ATU <-- PEOU ,173 ,078 4,708 *** par_1
+ATU <-- T ,235 ,143 1,647 ,100 par_1
+ATU <-- C ,089 ,185 3,217 ,001 par_1
+BITU <-- PU ,308 ,070 8,206 *** par_1
+BITU <-- ATU ,214 ,131 4,084 *** par_1
+AU <-- BITU -,066 ,071 -,936 ,349 par_1
+
+
+
+
+
+
+Interpretasi struktur merupakan pengambilan keputusan hasil
+analisa SEM yang ditinjau secara keseluruhan. Berdasarkan
+Tabel VII Hasil Uji Kesesuaian dapat dilihat nilai hitung yang
+bervariasi untuk setiap hubungan. Hasil interpretasi struktur
+ditabulasi pada Tabel VII Rangkuman Pengaruh Antar Variabel.
+
+
+
+
+
+
+
+TABEL VII
+RANGKUMAN PENGARUH ANTAR VARIABEL
+No
+Hubungan
+variabel
+Nilai
+Hitung
+Perband
+ingan dg
+Nilai sig
+Tingkat
+Pengaruh
+1
+PEOU
+dengan PU
+0,000 < 0,05
+Berpengaruh
+signifikan
+2
+PU dengan
+ATU
+0,000 < 0,05
+Berpengaruh
+signifikan
+3
+PU dengan
+BITU
+0,000 < 0,05
+Berpengaruh
+signifikan
+4 PEOU 0,000 < 0,05 Berpengaruh
+
+dengan
+ATU
+signifikan
+5
+T dengan
+ATU
+0,100 > 0,05
+Tidak
+Berpengaruh
+signifikan
+6
+C dengan
+ATU
+0,001 < 0,05
+Berpengaruh
+signifikan
+7
+ATU
+dengan
+BITU
+0,000 < 0,05
+Berpengaruh
+signifikan
+8
+BITU
+dengan AU
+0,349 > 0,05
+Tidak
+Berpengaruh
+signifikan
+TABEL VIII
+RANGKUMAN TINGKAT HUBUNGAN ANTAR VARIABEL
+Hubungan
+variabel
+Hasil
+Korelasi
+Pearson
+Interval
+Koefisien
+Tingkat
+Hubungan
+PEOU
+dengan PU
+0,632
+0,60 –
+0,799
+Kuat
+PU dengan
+ATU
+0,382
+0,20 –
+0,399
+Lemah
+PU dengan
+BITU
+0,636
+0,60 –
+0,799
+Kuat
+PEOU
+dengan ATU
+0,428
+0,40 –
+0,599
+Cukup
+Kuat
+T dengan
+ATU
+0,377
+0,20 –
+0,399
+Lemah
+C dengan
+ATU
+0,308
+0,20 –
+0,399
+Lemah
+ATU dengan
+BITU
+0,380
+0,20 –
+0,399
+Lemah
+BITU dengan
+AU
+-0,094
+0,00 –
+0,199
+Sangat
+Lemah
+
+
+
+A. Uji hipotesis
+Kesimpulan dari pengujian hipotesis yaitu berupa menerima
+atau menolak hipotesis, berikut hasil hipotesis yang dihasilkan
+berdasarkan analisa data dengan menggunakan SEM:
+1) Pada Tabel VII tingkat pengaruh antara perceived
+ease of use dan perceived usefulness pada angka
+probabilitasnya 0,000 oleh karena angka
+probabilitasnya <0,05 maka dapat diambil keputusan
+bahwa hipotesa H1 diterima dimana hubungan antara
+perceived usefulness berpengaruh signifikan terhadap
+Attitude toward using.
+2) Pada Tabel VII tingkat pengaruh antara perceived
+ease of use dan perceived usefulness pada angka
+probabilitasnya 0,000 oleh karena angka
+probabilitasnya <0,05 maka dapat diambil keputusan
+bahwa hipotesa H2 diterima dimana hubungan antara
+Perceived Ease of Use berpengaruh signifikan
+terhadap Attitude toward using.
+3) Pada Tabel VII tingkat pengaruh antara perceived
+ease of use dan perceived usefulness pada angka
+probabilitasnya 0,000 oleh karena angka
+probabilitasnya <0,05 maka dapat diambil keputusan
+bahwa hipotesa H3 diterima dimana hubungan antara
+perceived ease of use berpengaruh signifikan terhadap
+perceived usefulness.
+4) Pada Tabel VII tingkat pengaruh antara Perceived
+Usefulness dan Behavioural Intention to Use pada
+angka probabilitasnya 0,000 oleh karena angka
+probabilitasnya <0,05 maka dapat diambil keputusan
+bahwa hipotesa H4 diterima dimana hubungan antara
+Perceived Usefulness berpengaruh signifikan terhadap
+Behavioural Intention to Use.
+5) Pada Tabel VII tingkat pengaruh antara Attitude
+Toward Using dan Behavioural Intention to Use pada
+angka probabilitasnya 0,000 oleh karena angka
+probabilitasnya <0,05 maka dapat diambil keputusan
+bahwa hipotesa H5 diterima dimana hubungan antara
+Attitude Toward Using berpengaruh signifikan
+terhadap Behavioural Intention to Use.
+6) Pada Tabel VII tingkat pengaruh antara Behavioural
+Intention to Use dan Actual Usage pada angka
+probabilitasnya 0,349 oleh karena angka
+probabilitasnya >0,05 maka dapat diambil keputusan
+bahwa hipotesa H6 ditolak dimana hubungan antara
+Behavioural Intention to Use tidak berpengaruh
+signifikan terhadap Actual Usage.
+7) Pada Tabel VII tingkat pengaruh antara Terminology
+dan Attitude Toward Using pada angka
+probabilitasnya 0,100 oleh karena angka
+probabilitasnya >0,05 maka dapat diambil keputusan
+bahwa hipotesa H7 ditolak dimana hubungan antara
+Terminology tidak berpengaruh signifikan terhadap
+Attitude Toward Using.
+8) Pada Tabel VII tingkat pengaruh antara Cost dan
+Attitude Toward Using pada angka probabilitasnya
+0,001 oleh karena angka probabilitasnya <0,05 maka
+dapat diambil keputusan bahwa hipotesa H8 diterima
+dimana hubungan antara cost berpengaruh signifikan
+terhadap Attitude Toward Using.
+B. Pembahasan
+Berdasarkan hasil pengolahan dan analisis yang telah
+dilakukan, maka dapat dijelaskan hasilnya adalah sebagai
+berikut:
+1) Faktor kemudahan dalam menggunakan sistem
+informasi customer service (perceived ease of use)
+memiliki hubungan yang signifikan yang sifatnya
+positif dengan kegunaan (perceived usefulness) untuk
+menggunakan sistem informasi customer service.
+2) Faktor kegunakan sistem informasi customer service
+(perceived usefulness) memiliki hubungan yang signifikan yang sifatnya positif dengan sikap user
+(attitude toward using) untuk menggunakan sistem
+informasi customer service.
+3) Faktor kemudahan dalam menggunakan sistem
+informasi customer service (perceived ease of use)
+memiliki hubungan yang signifikan yang sifatnya
+positif dengan sikap user (attitude toward using)
+untuk menggunakan sistem informasi customer
+service.
+4) Faktor kegunaan (perceived usefulness) memiliki
+hubungan yang signifikan yang bersifat positif
+terhadap perilaku user (behavioral intention to use)
+untuk menggunakan sistem informasi customer
+service.
+5) Sikap terhadap sistem informasi customer service
+(attitude toward using) memiliki hubungan yang
+signifikan yang bersifat positif dengan perilaku user
+untuk menggunakan (behavioral intention to use)
+dalam menggunakan sistem informasi customer
+service.
+6) Perilaku user (behavioral intention to use) dalam
+menggunakan sistem informasi customer service
+memiliki hubungan negatif dengan penggunaan riil
+(actual usage) dan hubungan ini tidak signifikan,
+hubungan yang negatif dan sangat lemah antara
+behavioral intention to use dan Actual Usage
+disebabkan user merasakan respon yang cukup lama
+dari solver saat menanggapi keluhan dan pertanyaan
+user dalam penggunaan sistem informasi customer
+service.
+7) Faktor terminologi dalam menggunakan sistem
+informasi customer service memiliki hubungan yang
+tidak signifikan yang bersifat positif dengan sikap
+dalam penggunaan sistem informasi customer service
+(attitude toward using).
+8) Faktor biaya (cost) dalam penggunaan sistem
+informasi customer service memiliki hubungan yang
+signifikan yang sifatnya positif terhadap sikap dalam
+penggunaan sistem informasi customer service
+(attitude toward using).
+V.PENUTUP
+Kesimpulan yang dapat diambil dari penelitian ini yaitu
+Faktor-faktor yang mempengaruhi masyarakat yang pernah
+menggunakan sistem informasi customer service PT. Smartfren
+Semarang adalah adanya manfaat untuk menggunakan sistem
+informasi customer service, adanya kemudahan dalam
+menggunakan sistem informasi customer service, adanya
+tujuan di dalam penggunaan sistem informasi customer service,
+frekuensi penggunaan sistem informasi customer service,
+adanya minat untuk menggunakan sistem informasi customer
+service, dan adanya tarif yang sesuai dengan manfaat yang
+diterima dalam menggunakan sistem informasi customer
+service.
+Berdasarkan hasil penelitian ini adapun saran yang dapat
+diberikan pada penelitian ini adalah :
+1) Diperlukan sosialisasi oleh pihak PT. Smartfren akan
+manfaat penggunaan sistem informasi customer service
+dibandingkan dengan penggunaan jalur lain seperti datang
+ke Gapari, sehingga user memahami cara meggunakan dan
+memiliki sikap positif terhadap penggunaan sistem
+informasi customer service.
+Model penilaian yang digunakan pada penelitian ini dapat
+dikembangkan lagi menjadi lebih luas, bagi peneliti lain yang
+hendak melakukan penelitian tentang sistem informasi
+customer service akan lebih baik jika dilakukan penambahan
+aspek misalnya facilitating condition yang berpengaruh
+terhadap penggunaan sistem informasi customer service dan
+juga obyek penelitian dengan TAM dapat dikembangkan pada
+perangkat keras seperti jaringan dan input/output device
+melalui studi literatur baik melalui jurnal maupun buku.

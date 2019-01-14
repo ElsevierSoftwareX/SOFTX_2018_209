@@ -1,0 +1,63 @@
+﻿Area kecil merupakan himpunan bagian dari populasi dimana suatu peubah menjadi
+perhatian. Pendugaan area kecil didefinisikan sebagai suatu teknik statistika untuk
+menduga parameter area kecil. Metode Empirical Bayes (EB) merupakan salah satu
+metode pendugaan area kecil yang digunakan pada data biner atau cacahan
+Pendugaan pada metode EB didasarkan pada distribusi posterior yang parameternya
+diduga dari data. Metode yang dapat digunakan untuk menduga parameter
+posteriornya adalah Maximum Likelihood Estimation (MLE). Salah satu penerapan
+metode EB untuk data cacahan adalah model Poisson-Gamma. Dalam penelitian ini
+dikaji karakteristik penduga EB dan Mean Square Error (MSE) penduga EB pada
+pendugaan area kecil, baik secara teori maupun empiris melalui data simulasi. Hasil
+penelitian ini menunjukan bahwa penduga EB bersifat bias. Dengan nilai MSE yang
+relatif kecil pada jumlah area berukuran kecil, sedang dan besar.
+Kata Kunci: Area Kecil, Empirical Bayes (EB), Model Poisson Gamma, Metode
+Maximum Likelihood Estimation (MLE).
+
+I. PENDAHULUAN
+1.1 Latar Belakang dan Masalah
+Area kecil merupakan himpunan bagian dari populasi dimana suatu peubah menjadi
+perhatian. Teknik statistika untuk menduga paramater area kecil disebut pendugaan
+area kecil (small area estimation, SAE). Pendugaan sederhana area kecil didasarkan
+pada penerapan model desain penarikan sampel (design-based) disebut sebagai
+pendugaan langsung (direct estimation). Pendugaan langsung menghasilkan
+penduga tak bias namun karena ukuran sampel yang kecil mengakibatkan ragam
+yang besar sehingga tidak dapat memberikan ketelitian yang baik. Dalam
+mengatasi masalah ini, pendugaan area kecil dilakukan dengan metode pendugaaan
+tidak langsung (indirect estimation) yang artinya bahwa penduga tersebut
+mencakup data dari domain yang lain.
+Berbagai metode pendugaan tidak langsung telah dikembangkan untuk
+memperoleh penduga area kecil. Metode yang sering digunakan yaitu penduga
+Bayes Empirik (Empirical Bayes, EB), penduga Bayes Hirerarkhi (Hirerarchical
+Bayes, HB) untuk data biner atau cacahan sedangkan untuk data kontinu yaitu
+penduga prediksi takbias linear terbaik empirik (Empirical Best Linear Unbiased
+Prediction, EBLUP). Pendugaan pada metode EB didasarkan pada distribusi
+posterior yang parameternya diduga dari data. Salah satu metode yang dapat
+digunakan untuk menduga parameter distribusi posterior adalah Maximum
+Likelihood Estimaton (MLE). Metode MLE dapat digunakan untuk menduga
+parameter jika distribusi dari populasinya diketahui.
+Salah satu penerapan metode Empirical Bayes (EB) untuk data cacahan adalah
+model Poisson-Gamma. Model poisson merupakan peluang baku untuk data
+cacahan namun dalam keadaan tertentu rataan dan ragamnya tidak sama, yaitu pada
+saat terjadi overdispersi. Hal ini dapat diatasi dengan informasi tambahan untuk
+mengakomodasi kelebihan ragam dari pengamatan dan dikenal sebagai distribusi
+prior. Distribusi gamma merupakan distribusi yang dapat dipilih sebagai prior.
+Sehingga model poisson menjadi model dua tahap yaitu model Poisson-Gamma.
+Menurut Sadik (2009), penduga yang diperoleh pada pendugaan area kecil perlu
+dievaluasi karena penduga yang diperoleh merupakan penduga berbias namun
+memiliki ragam minimum. Dengan demikian untuk mengevaluasi penduga yang
+baik pada pendugaan area kecil dilakukan menggunakan Mean Square Error
+(MSE). Beberapa penelitian terdahulu seperti penelitian oleh Kismianti (2007),
+Widiarti (2011) dan Partasiwi (2012) mengkaji pendugaan metode EB pada model
+Poisson-Gamma. Namun dalam penelitian-penelitian tersebut belum dikaji bias,
+ragam, dan MSE secara teoritis, sehingga penulis tertarik untuk mengkaji bias,
+ragam dan MSE penduga EB pada model Poisson-Gamma.
+
+1.2 Tujuan Penulisan
+Tujuan penulisan penelitian ini adalah
+1. Mengkaji bias dan ragam pada metode Empirical Bayes untuk pendugaan area
+kecil.
+2. Mengevaluasi Mean Square Error (MSE) pada metode Empirical Bayes untuk
+pendugaan area kecil.
+1.3 Manfaat Penulisan
+Manfaat yang diharapkan dari penelitian ini adalah menambah wawasan lebih
+dalam lagi tentang penduga Empirical Bayes dan pendugaan area kecil.

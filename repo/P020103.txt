@@ -1,0 +1,130 @@
+﻿ABSTRAK
+Masalah pengepakan persegi tiga dimensi dapat diartikan sebagai penempatan
+sejumlah item kecil berbentuk persegi ke dalam satu objek persegi besar dalam
+bentuk tiga dimensi. Tujuan dari permasalahan pengepakan persegi tiga dimensi
+ini adalah untuk meminimalkan penggunaan ruang dari objek besar yang terpakai.
+Skripsi ini bertujuan untuk menyelesaikan masalah pengepakan persegi tiga
+dimensi dengan hibrid algoritma PSO-SA.
+Algoritma PSO memiliki kinerja yang cukup baik dalam memecahkan beberapa
+masalah optimasi. Namun algoritma PSO memiliki masalah yaitu sering
+menemukan solusi optimum lokal bukan optimum global. Untuk mengatasi
+masalah yang muncul pada algoritma PSO, maka algoritma PSO akan digabung
+dengan algoritma simulated annealing (SA). Algoritma SA adalah algoritma
+untuk optimasi yang efektif dalam menghindari perangkap optimum lokal. Hibrid
+algoritma PSO-SA merupakan penggabungan antara algoritma PSO dan SA.
+Hibrid algoritma PSO-SA mencakup beberapa proses, yaitu input parameter,
+generate partikel awal, modifikasi partikel, evaluasi partikel, menentukan
+dan , update partikel dan update suhu. Algoritma berhenti ketika suhu yang
+dikehendaki tercapai.
+Masalah pengepakan persegi tiga dimensi dengan data 5 tipe 81 unit barang, 10
+tipe 106 unit barang dan 20 tipe 129 unit barang diselesaikan dengan program
+C++ hibrid algoritma PSO-SA untuk menyelesaikan masalah pengepakan persegi
+tiga dimensi. Solusi terbaik dari 5 tipe 81 unit barang adalah 890 cm dengan
+parameter , , , dan . Untuk 10 tipe
+106 unit barang diperoleh solusi terbaik adalah 906 cm dengan parameter
+, , , dan . Sedangkan untuk 20 tipe
+129 unit barang diperoleh solusi terbaik adalah 939 cm dengan parameter
+, , , , dan . Berdasarkan hasil
+perhitungan yang diperoleh dari tiga persoalan tersebut menunjukkan bahwa
+semakin besar ukuran swarm maka hasil penggunaan ruang objek besar yang
+diperoleh cenderung lebih baik dan hasil yang diperoleh dari algoritma hibrid
+PSO-SA lebih baik dari algoritma genetik dan hibrid algoritma GA-SA.
+Kata Kunci: Pengepakan persegi tiga dimensi, particle swarm optimization,
+simulated annealing, Hibrid algoritma PSO-SA.
+
+BAB I
+PENDAHULUAN
+1.1 Latar Belakang
+Seiring dengan semakin berkembangnya dunia usaha, dituntut pula
+efisiensi di berbagai bidang untuk menekan biaya yang dikeluarkan dengan
+tujuan untuk meningkatkan laba yang didapat. Beberapa faktor yang sering
+menimbulkan besarnya biaya pengeluaran adalah proses distribusi barang dan
+penyimpanan barang. Untuk mengatasi masalah tersebut, maka dilakukan
+pencarian solusi untuk menekan biaya pengeluaran. Masalah distribusi
+barang dan penyimpanan barang erat kaitannya dengan masalah pengepakan.
+Melalui proses pengepakan yang baik akan memberikan efisiensi pada proses
+penyimpanan barang karena dapat meminimalkan penggunaan ruang
+penyimpanan. Sedangkan dalam proses distribusi, proses pengepakan yang
+baik akan memberikan efisiensi berupa kemampuan dalam memuat dan
+mengirim barang secara maksimal.
+Proses cutting dan packing merupakan proses kombinasi geometri
+antara sejumlah item kecil yang ditugaskan untuk objek yang lebih besar.
+Permasalahan cutting dan packing memiliki dua data standar yang elemennya
+berupa bentuk yang memiliki ukuran dalam dimensi satu atau lebih. Dua data
+standar tersebut adalah objek besar dan item-item kecil (Wascher dkk, 2006).
+Perbedaan antara cutting dan packing adalah masalah cutting merupakan
+permasalahan untuk mendapatkan sejumlah item kecil dari satu atau lebih objek yang besar. Sedangkan masalah packing merupakan permasalahan
+untuk menempatkan sejumlah item kecil ke dalam satu atau lebih objek yang
+lebih besar. Masalah cutting fokus untuk mendapatkan item kecil secara
+optimal dari material seperti kayu, lempengan baja dan kain. Sedangkan
+masalah packing fokus pada penggunaan ruang secara optimal dari tempat
+pengepakan (objek besar) yang disediakan (Sheng Liu dkk, 2014).
+Skripsi ini membahas tentang masalah pengepakan persegi tiga
+dimensi yang dapat diartikan sebagai penempatan sejumlah item kecil
+berbentuk persegi ke dalam satu objek persegi besar dalam bentuk tiga
+dimensi yang bertujuan untuk meminimalkan penggunaan ruang dalam objek
+besar yang terpakai (Bortfeldt dan Gehring, 2001). Beberapa algoritma yang
+pernah digunakan untuk mencari solusi dari masalah pengepakan persegi tiga
+dimensi ini adalah Hybrid Genetic Algorithm (Bortfeldt dan Gehring, 2001)
+dan Tree Search algorithm (Liu,S dkk, 2014).
+Particle Swarm Optimization (PSO) merupakan algoritma yang
+pertama kali diperkenalkan oleh Kennedy dan Eberhart pada tahun 1995. PSO
+memiliki kinerja yang cukup baik dalam memecahkan beberapa masalah
+optimasi. Algoritma PSO memperlihatkan hasil yang lebih baik dalam
+menyelesaikan quadratic assignment problem daripada algoritma ant colony
+optimization (Liu dkk, 2007). Namun algoritma PSO memiliki masalah yaitu
+semua partikel cenderung terjebak dalam optimum lokal, sehingga PSO
+sering menemukan sebuah solusi optimum lokal bukan optimum global (Fang
+dkk, 2007).
+
+Untuk mengatasi masalah yang muncul pada algoritma PSO tersebut,
+maka algoritma PSO akan digabung dengan algoritma simulated annealing
+(SA). Algoritma SA adalah salah satu algoritma untuk optimasi yang dapat
+digunakan untuk mencari pendekatan terhadap solusi optimum lokal dan juga
+efektif dalam menghindari perangkap optimum lokal (Chibante, 2010). Hibrid
+algoritma Particle Swarm Optimization dan Simulated Annealing (PSO-SA)
+telah digunakan pada beberapa permasalahan optimasi, salah satunya adalah
+pada Travelling Salesman Problem. Hibrid algoritma PSO-SA
+memperlihatkan hasil yang lebih baik daripada algoritma simulated
+annealing, algoritma genetic dan algoritma ant colony pada permasalahan
+travelling salesman problem (Fang dkk, 2007). Sehingga diharapkan hibrid
+algoritma PSO-SA juga akan memberikan hasil yang baik pada masalah
+pengepakan persegi tiga dimensi seperti pada travelling salesman problem.
+Berdasarkan uraian yang telah dijelaskan sebelumnya, penulis tertarik
+untuk menyelesaikan masalah pengepakan persegi tiga dimensi pada skripsi
+ini dengan menggunakan metode hibrid algoritma PSO-SA.
+1.2 Rumusan Masalah
+Berdasarkan latar belakang yang telah diuraikan di atas, ada beberapa
+masalah yang dibahas dalam skripsi ini, yaitu:
+1. Bagaimana menyelesaikan permasalahan pengepakan persegi tiga
+dimensi dengan hibrid algoritma PSO-SA?
+
+2. Bagaimana membuat program untuk menyelesaikan masalah
+pengepakan persegi tiga dimensi dengan hibrid algoritma PSO-SA
+dengan software Borland C++?
+3. Bagaimana mengimplementasikan program pada contoh kasus?
+1.3 Tujuan
+Adapun tujuan dari skripsi ini adalah:
+1. Menyelesaikan permasalahan pengepakan persegi tiga dimensi dengan
+hibrid algoritma PSO-SA.
+2. Membuat program untuk menyelesaikan masalah pengepakan persegi
+tiga dimensi dengan hibrid algoritma PSO-SA dengan software
+Borland C++.
+3. Mengimplementasikan program pada contoh kasus.
+1.4 Manfaat
+Adapun manfaat yang diperoleh dari skripsi ini adalah:
+1. Menambah pemahaman dan wawasan tentang masalah pengepakan
+persegi tiga dimensi beserta cara menyelesaikannya.
+2. Menambah pemahaman dan wawasan tentang metode hibrid algoritma
+PSO-SA.
+3. Diharapkan program komputer yang telah dibuat bisa memberikan
+solusi dari masalah pengepakan persegi tiga dimensi.
+1.5 Batasan Masalah
+Adapun batasan masalah dalam skripsi ini, antara lain:
+1. Item kecil dan objek besar keduanya berbentuk rectangular (balok
+atau kubus).
+2. Item kecil masuk ke dalam objek besar satu per satu tanpa proses
+perputaran baik secara vertikal maupun horisontal.
+3. Item kecil diletakkan dengan sisi panjang item kecil sejajar dengan sisi
+lebar objek besar dan sisi tinggi item kecil sejajar dengan sisi tinggi
+objek besar.

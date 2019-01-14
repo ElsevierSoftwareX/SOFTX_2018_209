@@ -1,0 +1,94 @@
+﻿ABSTRAK
+Meningkatnya jumlah penggemar drama, musik dan fashion dari Korea
+berdampak pada semakin tingginya minat masyarakat Indonesia untuk mempelajari
+bahasa Korea. Bahasa Korea hanya mengenal satu jenis huruf yang disebut Hangeul
+yang terdiri dari bermacam-macam karakter dan bentuk yang secara garis besar
+mempunyai tingkat kemiripan yang tinggi antara satu pola karakter dengan yang
+lainnya. Hal ini menyebabkan perlunya untuk mengenal pola-pola huruf Korea
+sebelum mempelajari bahasa Korea lebih lanjut. Skripsi ini menyajikan sebuah
+sistem pengenalan pola huruf Korea menggunakan jaringan saraf Multilayer
+Perceptron dengan Firefly Algorithm sebagai algoritma pelatihannya. Data yang
+digunakan dalam jaringan adalah 96 citra huruf Korea, yang dibagi menjadi dua
+bagian yaitu 72 citra digunakan dalam pelatihan jaringan dan 24 citra digunakan
+dalam uji validasi. Citra huruf Korea sebelumnya dilakukan pengolahan citra untuk
+mengubah citra digital kedalam nilai numerik. Proses pengolahan citra yang
+dilakukan adalah grayscale, biner, thinning dan ekstraksi fitur menggunakan
+diagonal based feature extraction. Hasil pengolahan citra digunakan sebagai input
+pada pelatihan jaringan Multilayer Perceptron dengan Firefly Algorithm. Dari
+proses pelatihan diperoleh parameter-parameter optimal untuk uji validasi dengan
+MSE = 9.984758E-5 dalam iterasi 566. Persentase pengujian jaringan pelatihan
+adalah 100% dan persentase pengujian validasi adalah 100%.
+Kata Kunci : Huruf Korea, Pengolahan Citra, Algoritma Kunang-Kunang,
+Multilayer Perceptron.
+
+BAB I
+PENDAHULUAN
+1.1 Latar Belakang
+Di era globalisasi seperti sekarang ini, kemampuan berbahasa asing sudah
+menjadi suatu keharusan, mengingat semakin banyaknya perusahaan-perusahaan
+asing yang berdiri di Indonesia. Salah satu bahasa asing yang banyak berkembang
+dan dipelajari di Indonesia adalah bahasa Korea. Perkembangan bahasa Korea di
+Indonesia tidak lepas dari pengaruh maraknya hallyu wave (demam Korea) yang
+terjadi di dunia, terutama di Asia Tenggara yang dapat dilihat dengan meningkatnya
+penggemar drama, musik, dan fashion Korea di Indonesia. Hal ini secara tidak
+langsung berdampak pada meningkatnya minat untuk mempelajari budaya dan
+bahasa dari negeri gingseng tersebut (Rostineu, 2014).
+Bahasa Korea termasuk salah satu bahasa yang tidak menggunakan huruf
+Latin dalam kehidupan sehari-hari. Dalam bahasa Korea hanya dikenal satu jenis
+huruf yang dinamakan hangeul. Huruf Korea atau hangeul terdiri dari bemacammacam
+karakter dan bentuk. Huruf Korea memiliki jumlah keseluruhan 40 huruf
+yang terdiri atas 21 vokal dan 19 konsonan. Secara garis besar huruf Korea
+mempunyai tingkat kemiripan yang tinggi antara pola karakter satu dengan yang
+lain, sehingga bagi orang Indonesia yang tidak familiar dengan bentuk huruf Korea
+pasti akan mengalami kesulitan pada saat proses awal belajar bahasa Korea. Oleh
+karena itu, pada penulisan ini akan dibuat sistem pengenalan pola huruf Korea
+untuk mempermudah mengenali pola-pola huruf korea (Rostineu, 2014).
+
+Metode yang dapat digunakan untuk mengenali pola huruf adalah metode
+jaringan saraf tiruan. Metode ini dinilai mampu mempu menghasilkan nilai output
+yang mendekati nilai yang sebenarnya. Jaringan Saraf Tiruan (JST) merupakan
+suatu konsep rekayasa pengetahuan dalam bidang kecerdasan buatan yang didesain
+dengan mengadopsi sistem saraf manusia (Fausett, 1994).
+Dalam JST terdapat proses pembelajaran yang bertujuan untuk melakukan
+pengaturan terhadap bobot-bobot dalam JST sehingga diperoleh bobot akhir yang
+tepat sesuai dengan pola data yang dilatih. Dalam JST terdapat beberapa metode
+pembelajaran, salah satunya adalah Multilayer Perceptron. Multilayer Perceptron
+(MLP) merupakan Jaringan Saraf Tiruan Feedforward yang bekerja dengan cara
+memperbarui bobot-bobot jaringannya kemudian membandingkannya dengan
+target hingga meghasilkan output yang mendekati nilai target (Siang, 2005).
+Pada penelitian sebelumnya, pengenalan pola huruf Korea dilakukan
+menggunakan Multilayer Perceptron dengan algoritma pembelajaran
+Backpropagation. Beberapa penelitian tersebut diantaranya Pengenalan pola huruf
+Korea menggunakan jaringan saraf tiruan propagasi balik dan pengalih bahasa
+Korea-Indonesia (Isha Nindya Hastari, 2010), Pengenalan kata tulisan tangan
+huruf Korea menggunakan jaringan saraf tiruan propagasi balik (Rian Harris
+Nasution, 2014). Algoritma Backpropagation mampu menghasilkan bobot
+interkoneksi yang semakin mendekati bobot yang seharusnya, namun dalam
+implementasinya, proses pencarian bobot yang konvergen menggunakan algoritma
+Backpropagation berjalan lambat sehingga menyebabkan proses pengenalan
+memerlukan waktu yang lama (Brajevic, 2013).
+
+Berdasarkan penelitian sebelumnya, untuk meningkatkan kinerja pelatihan jaringan saraf tiruan, khususnya MLP terdapat ide menggunakan algoritma optimalisasi untuk menentukan bobot optimal dalam tahap pembelajaran JST. Dalam (Bhaiya, 2012), metode pelatihan JST menggunakan Genetic Algorithm (GA) dapat meningkatkan kinerja JST dan mempercepat proses pengklasifikasian wajah dalam proses pelatihan data. Sedangkan dalam (Nandy, 2012), proses update bobot menggunakan Firefly Algorithm (FA) untuk memperoleh bobot optimal JST memerlukan waktu yang relatif lebih singkat dibandingkan menggunakan Genetic Algorithm (GA). Oleh karena itu, pada skripsi ini penulis menggunakan Firefly Algorithm (FA) sebagai algoritma pelatihan pada jaringan saraf MLP. Menurut Yang (2010), Firefly Algorithm (FA) merupakan algoritma yang terinspirasi dari perilaku berkedipnya kunang-kunang. Setiap firefly akan tertarik mendekati firefly yang memancarkan cahaya lebih terang daripada dirinya sendiri. Cahaya yang dipancarkan oleh firefly disebut intensitas cahaya. Intensitas cahaya inilah yang nantinya akan mempengaruhi proses pergerakan setiap firefly. Menurut Broersma (2010), keunggulan Firefly Algorithm (FA) dibanding algoritma lain, yaitu semua variabel yang terbentuk pada persamaan pergerakan firefly menjamin cara kerja algoritma cepat menuju solusi yang optimal. Berdasarkan uraian yang telah dijelaskan sebelumnya, sangat menarik untuk mengimplementasikan Firefly Algorithm sebagai algoritma pelatihan jaringan saraf Multilayer Perceptron untuk sistem pengenalan huruf Korea sehingga diharapkan sistem dapat mengenali pola huruf Korea lebih cepat dan akurat.
+
+1.2 Rumusan Masalah Berdasarkan latar belakang diatas, rumusan masalah dalam penulisan skripsi ini adalah sebagai berikut: 1. Bagaimana mengimplementasikan metode pengolahan citra pada citra huruf Korea sehingga diperoleh pola gambar dari masing-masing huruf? 2. Bagaimana mengimplementasikan Firefly Algorithm sebagai algoritma pelatihan Multilayer Perceptron untuk pengenalan pola huruf Korea? 3. Bagaimana membuat program penerapan Firefly Algorithm sebagai algoritma pelatihan Multilayer Perceptron untuk pengenalan pola huruf Korea? 4. Bagaimana mengimplementasikan program pada contoh kasus? 1.3 Tujuan Tujuan dari penulisan skripsi ini adalah sebagai berikut: 1. Mengimplementasikan metode pengolahan citra pada citra huruf Korea sehingga diperoleh pola gambar dari masing-masing huruf. 2. Mengimplementasikan Firefly Algorithm sebagai algoritma pelatihan Multilayer Perceptron untuk pengenalan pola huruf Korea. 3. Membuat program penerapan Firefly Algorithm sebagai algoritma pelatihan Multilayer Perceptron untuk pengenalan pola huruf Korea. 4. Mengimplementasikan program pada contoh kasus.
+
+1.4 Manfaat
+Manfaat dari penulisan skripsi ini adalah sebagai berikut:
+1. Menghasilkan suatu sistem identifikasi pengenalan pola huruf Korea
+menggunakan Firefly Algorithm dan Multilayer Perceptron.
+2. Menambah ilmu pengetahuan tentang teori-teori matematika khususnya di
+bidang terapan matematika mengenai aplikasi kecerdasan buatan.
+3. Menjadi bahan pertimbangan dan perbandingan untuk penggunaan metode
+lainnya pada masa mendatang.
+1.5 Batasan Masalah
+Batasan yang digunakan dalam skripsi ini adalah :
+1. Data yang digunakan adalah file gambar huruf Korea dengan karakter huruf
+Korea berwarna hitam dan latar belakang berwarna putih.
+2. Citra huruf Korea yang digunakan adalah huruf Korea cetak dari beberapa
+jenis font yang disimpan dalam format jpg
+3. Jenis font yang digunakan adalah font tipe standar yang ada pada Microsoft
+Office Word seperti Dotum, Batang, Gulim, dan Arial Unicode MS.
+4. Huruf Korea yang digunakan adalah huruf vokal dan konsonan Korea yang
+berdiri tunggal, bukan vokal dan konsonan kombinasi, yang berjumlah 24
+huruf
+5. Dimensi citra yang digunakan adalah 40x40 piksel.

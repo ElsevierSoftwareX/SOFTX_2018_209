@@ -1,0 +1,646 @@
+﻿PRODUKSI BIOHIDROGEN DARI HIDROLISAT AMPAS
+TAHU SECARA FERMENTASI ANAEROB MENGGUNAKAN
+KULTUR CAMPURAN
+
+
+Abstrak
+Ampas tahu merupakan produk samping industri pengolahan tahu berbahan dasar kacang kedelai
+(Glysine max). Dalam studi ini, ampas tahu yang telah mengalami perlakuan-awal dengan metode
+yang berbeda dikonversi menjadi hidrogen menggunakan kultur campuran. Pengaruh perlakuan-awal
+asam satu-tahap (0,5% dan 10% berat HCl) dan dua-tahap (tahap I 0,5% dan tahap II 10% berat
+HCl) terhadap sakarifikasi ampas tahu juga diinvestigasi. Lebih lanjut, pengaruh perlakuan awal
+asam satu-tahap maupun dua-tahap terhadap produksi hidrogen dan efisiensi degradasi gula
+tereduksi dibandingkan. Yield total gula-tereduksi 503,73 mg/g ampas tahu diperoleh dari perlakuanawal
+asam dua-tahap. Nilai ini kurang lebih 4 kali lebih tinggi dibanding hasil dari perlakuan-awal
+asam satu-tahap menggunakan 0,5% berat HCl. Studi produksi biohidrogen dilakukan secara batch
+menggunakan kultur campuran dengan kondisi reaksi 35oC dan pH awal 6,5. Hasil percobaan
+menunjukkan, bahwa yield hidrogen kumulatif maksimum 0,928 mmol/g ampas tahu diperoleh dari
+perlakuan asam dua-tahap atau meningkat 1,8 kali dibanding perlakuan satu-tahap menggunakan
+0,5% berat HCl.
+Kata kunci : perlakuan asam; produksi hidrogen; ampas tahu
+
+PENDAHULUAN
+Penipisan cadangan bahan bakar fosil serta
+polusi lingkungan akibat penggunaannya telah
+mendorong upaya-upaya pengembangan bahan bakar
+alternatif yang dapat diproduksi dari sumber-sumber
+terbarukan (Chong dkk., 2009). Gas hidrogen (H2)
+merupakan salah satu kandidat energi yang
+menjanjikan, karena memiliki nilai kalor yang tinggi,
+hanya menghasilkan air ketika dibakar, serta dapat
+diproduksi dari biomassa (Nath dan Das, 2004).
+Permasalahan utama industri biohidrogen
+berbasis biomassa adalah penyediaan suplai substrat
+yang mudah dicerna oleh aksi-aksi enzimatik atau
+mikroorganisme. Diantara beberapa metode
+praperlakuan yang ada, hidrolisis secara kimia
+merupakan metode yang paling umum diaplikasikan
+untuk biomassa lignosellulosik (Taherzadeh dan
+Karimi, 2008). Dengan hidrolisis kimia, laju konversi
+yang tinggi dapat dicapai dalam waktu yang singkat
+baik dengan menggunakan asam ataupun alkali.
+Hidrolisis bahan-bahan sellulosa yang
+dikatalisis asam dipengaruhi oleh berbagai faktor
+seperti: karakteristik bahan, kondisi operasi (jenis dan
+konsentrasi asam, konsentrasi reaktan, temperatur dan
+waktu reaksi) (Kumar dkk., 2009). Telah ada sejumlah
+artikel tentang hidrolisis asam seperti Cao dkk. (2009)
+menggunakan 12,23% H2SO4 untuk menghidrolisis
+tongkol jagung. Perolehan gula tereduksi dalam
+hidrolisat adalah 12,23 g/L dan yield produksi H2
+adalah 2,24 mol/mol gula. Chang dkk. (2011)
+menggunakan tiga jenis asam (H2SO4, HNO3, dan
+HCl) untuk menghidrolisis jerami padi dengan
+konsentrasi 3% (asam/biomassa) pada 150oC selama 1
+jam. Perolehan gula tereduksi dalam hidrolisat adalah
+35-65 g/L dan yield produksi H2 berturut-turut adalah
+0,1911; 0,2906 dan 0,3050 mmol/g jerami. Cui dkk.
+(2010) menggunakan 4% HCl untuk menghidrolisis
+daun poplar. Perolehan gula tereduksi adalah 30% dan
+yield produksi H2 adalah 33,45 mL/g daun poplar.
+Kesuksesan proses fermentasi sangat
+bergantung pada karakteristik substrat bahan organik
+yang digunakan. Berbagai jenis komponen bahan
+organik termasuk lipid, protein dan karbohidrat
+dilaporkan dapat dicerna oleh bakteri penghasil H2.
+Namun demikian, karbohidrat merupakan substrat
+yang paling sesuai untuk fermentasi (de Vrije dan
+Claassen, 2003). Sementara protein dan peptida
+kurang sesuai sebagai substrat untuk produksi H2
+fermentatif. Suatu studi melaporkan, bahwa yield H2
+36–134 mL/g VS diperoleh dari beras, kentang dan
+sellulosa (Dong dkk., 2009). Komposisi susbtrat
+bahan-bahan organik (rasio C/N) juga sangat
+menentukan potensi produksi H2 dan degradabilitas
+substrat. Rojas dkk. (2010) melaporkan, bahwa
+peningkatan rasio C/N dari 40-190 meningkatkan
+yield H2 dari sukrosa.
+Ampas tahu merupakan limbah organik padat
+yang dihasilkan oleh industri pengolahan tahu
+berbahan dasar kacang kedelai (Glysine max.). Dalam
+pemrosesannya, diperkirakan sekitar 2750 ton ampas
+tahu akan dibangkitkan oleh industri ini setiap harinya
+di seluruh Indonesia (Menristek, 2010). Sebagian kecil
+ampas tahu dimanfaatkan sebagai bahan makanan dan
+pakan ternak, sisanya diinsinerasi dan/atau dibuang
+sebagai limbah (Kim dkk., 2010). Namun demikian,
+karena limbah padat ini mengandung bahan organik
+yang tinggi (40-60% karbohidrat), ampas tahu sangat
+potensial dimanfaatkan sebagai bahan baku untuk
+produksi biohidrogen. Heksosa dan pentosa yang
+merupakan molekul gula sederhana penyusun
+sellulosa dan hemisellulosa dapat difermentasi oleh
+bakteri Clostridium melalui jalur glikolitik
+menghasilkan hidrogen (Moreno dan Gomez, 2012).
+Telah ada upaya pemanfaatan ampas tahu
+sebagai substrat organik untuk produksi biohidrogen.
+Noike dan Mizuno (2000) dan Kim dkk. (2010)
+melaporkan yield hidrogen berturut-turut 2,54 dan
+1,87 mol /mol heksosa dari hidrolisat ampas tahu yang
+difermentasi menggunakan kultur campuran. Perlu
+dicatat, bahwa perhitungan yield hidrogen yang
+dilaporkan dalam kedua literatur tersebut didasarkan
+pada konsumsi karbohidrat terlarut. Kelarutan
+karbohidrat dalam air (tanpa penambahan asam) hanya
+sekitar 13% dari massa awal ampas tahu (Kim dkk.
+2010). Noike dan Mizuno (2000) juga melaporkan,
+bahwa fraksi padat yang tidak larut tidak mengalami
+degradasi selama fermentasi H2. Oleh karena itu,
+jumlah produksi gas H2 yang dilaporkan masih jauh
+lebih rendah dibandingkan potensi bioH2 yang
+terkandung dalam substrat ampas tahu. Yield hidrogen
+yang rendah dari bahan-bahan sellulosik secara umum
+berkaitan dengan efisiensi hidrolisis serat sellulosa
+yang rendah (Taherzadeh dan Karimi, 2008).
+Efisiensi hidrolisis bahan-bahan lignosellulosik
+dapat ditingkatkan melalui perlakuan substrat antara
+lain hidrolisis kimia menggunakan asam encer (≤ 1%
+HCl atau H2SO4). Hidrolisis asam encer akan
+menghasilkan solubilisasi substrat secara parsial dan
+pembentukan gula tereduksi sebagai produk akhir
+(Camacho dkk., 1996). Namun, yield maksimum gula
+tereduksi dari hidrolisis sellulosa dengan katalis asamencer
+umumnya kurang dari 20% (Taherzadeh dan
+Karimi, 2008).
+Valdez-Vazquez dan Poggi-Varaldo (2009)
+menggambarkan dasar-dasar produksi hidrogen secara
+fermentatif. Substrat berbasis-gula pertama-tama
+difermentasi menjadi pyruvat, kemudian dikonversi
+lebih lanjut menjadi biomassa, ATP dan produksamping,
+seperti hidrogen, asam-asam lemak volatil
+(VFA) dan alkohol (Moreno dan Gomez, 2012).
+Asetat dan butirat merupakan produk-samping utama
+yang tergabung dengan produksi hidrogen (Nandi dan
+Sengupta, 1998). Secara teoritis, yield hidrogen
+tertinggi jika asetat atau butirat merupakan metabolit
+terlarut tunggal sebagaimana ditunjukkan dalam
+persamaan (1) dan (2) berturut-turut adalah 4 dan 2
+mol H2/mol heksosa (Moreno dan Gomez, 2012).
+C6H12O6 + 2H2O  2CH3COOH + 2CO2 + 4H2 (1)
+C6H12O6  CH3CH2CH2COOH+2CO2 + 2H2 (2)
+
+
+Namun demikian, yield hidrogen aktual boleh
+jadi lebih rendah dibanding nilai teoritisnya. Hal ini
+kemungkinan berkaitan dengan adanya jalur degradasi
+substrat tanpa produksi hidrogen atau hidrogen yang
+diproduksi boleh jadi dikonsumsi untuk menghasilkan
+produk-samping lainnya, seperti propionat (Valdez-
+Vazquez dan Poggi-Varaldo, 2009).
+Dalam studi ini, metode perlakuan awal asam
+dua-tahap dipertimbangkan untuk meningkatkan
+kelarutan karbohidrat. Tahap pertama adalah
+perlakuan asam encer (0,5% berat HCl) sebagaimana
+disarankan oleh Kim dkk. (2010). Dalam tahap kedua,
+fraksi padatan sisa dari praperlakuan tahap pertama
+dihidrolisis kembali menggunakan asam 10% berat
+HCl. Metode praperlakuan dua-tahap dipertimbangkan
+akan mempengaruhi baik konversi ampas tahu
+menjadi gula tereduksi maupun kinerja fermentasi
+untuk produksi hidrogen. Tujuan khusus studi ini
+adalah mengevaluasi pengaruh perlakuan asam satutahap
+(0,5% atau 10% HCl) dan dua-tahap (0,5%
+diikuti dengan 10% HCl) terhadap potensi produksi
+hidrogen dari ampas tahu.
+METODE PENELITIAN
+Perlakuan-Awal Ampas Tahu dengan Asam
+Bahan ampas tahu diperoleh dari pengrajin
+industri tahu yang terdapat di sekitar kota Yogyakarta.
+Sebelum digunakan, ampas tahu dikeringkan dalam
+oven pada temperatur 105oC, kemudian dihaluskan
+menggunakan mesin grinding dan diikuti dengan
+pengayakan untuk menyeragamkan ukuran bahan.
+Bahan ampas tahu kering dihidrolisis secara
+kimia dengan satu-tahap atau dua-tahap menggunakan
+HCl sebagai katalis (Gambar 1). Rancangan percobaan
+perlakuan asam ampas tahu dengan satu-tahap dan
+dua-tahap dapat dilihat dalam Tabel 1.
+Prosedur perlakuan awal ampas tahu
+menggunakan asam ini didasarkan pada percobaan
+Kim dan Lee (2010) yang dimodifikasi. Dalam
+hidrolisis satu-tahap (Gambar 1.A), sejumlah 200 mL
+larutan HCl dengan kadar 0,5% atau 10% berat
+dipanaskan dalam reaktor hingga mencapai titik
+didihnya. Ke dalam larutan ditambahkan ampas tahu
+kering pada ratio 1:20 (g TS/volume) dan dipanaskan
+pada temperatur didihnya (1042oC) selama 30 menit.
+Dalam hidrolisis asam dua-tahap (Gambar 1.B),
+ampas tahu yang telah mengalami hidrolisis
+menggunakan 0,5% HCl (sebagai tahap I) dipisahkan
+dari campuran. Fraksi padatan dihidrolisis kembali
+menggunakan 10% berat HCl (sebagai tahap II)
+sebagaimana tahap I, tetapi dengan rasio fraksi padat
+terhadap pelarut 1:20 (g TS/volume). Pada setiap akhir
+proses hidrolisis, campuran dinetralisasi menggunakan
+larutan 10% CaO.
+Tabel 1. Rancangan percobaan hidrolisis ampas tahu
+Perlakuan Kode Kondisi Operasi
+A
+HA-0 0 % HCl (Kontrol)
+HA-1 0,5% HCl
+HA-2 10% HCl
+B
+HB-0 Tahap I: 0,5% HCl;
+Tahap II : 0 % HCl
+(Kontrol)
+HB-1 Tahap I: 0,5% HCl;
+Tahap II : 10 % HCl
+Keterangan:
+A : Perlakuan asam satu-tahap; rasio
+solid/pelarut 1:20 (g/v); 30 menit
+B : Perlakuan asam dua-tahap;
+Tahap I: Rasio solid/pelarut 1:20 (g/v);
+30 menit
+Tahap II: Rasio solid/pelarut 1:10 (g/v);
+60 menit
+Gambar 1. Diagram hidrolisis asam ampas tahu
+(A). Satu-tahap, (B) Dua-tahap
+
+
+
+Ampas tahu dan fraksi padat ampas tahu yang
+telah mengalami praperlakuan asam satu-tahap
+dianalisis untuk mengetahui kandungan total solid
+(TS), karbohidrat, protein, lemak, kadar air dan abu.
+Sementara hidrolisat juga dianalisis untuk kandungan
+gula tereduksi, furfural, COD serta nitrogen total
+(total-N). Analisis kandungan gula tereduksi
+menggunakan metode DNS (Dinitrosalicyclic Acid)
+(Miller, 1972). Analisis furfural menggunakan metode
+White (1979), dan COD menggunakan metode open
+refluks sesuai dengan metode standar.
+Detoksifikasi Hidrolisat dengan Adsorpsi Karbon
+Aktif
+Untuk menghilangkan furfural, HMF, serta
+senyawa-senyawa fenolik yang bersifat toksik
+terhadap mikroorganisme, hidrolisat dari perlakuanawal
+menggunakan asam pekat (10% HCl)
+dikontakkan dengan karbon aktif (1,5% berat/volum)
+sambil diaduk menggunakan motor pengaduk selama
+satu jam. Hidrolisat yang telah didetoksifikasi
+kemudian disaring dan larutan dikumpulkan untuk
+proses fermentasi (Chang dkk., 2011). Kandungan
+gula tereduksi dan HMF dari hidrolisat juga
+ditentukan.
+Uji Potensi Produksi Biohidrogen
+Mikroorganisme
+Inokulum yang digunakan untuk uji produksi
+H2 adalah sludge yang diperoleh dari buangan instalasi
+pengolahan limbah cair tahu yang memproduksi
+biogas. Sebelum digunakan, sludge disaring terlebih
+dahulu untuk menyisihkan kotoran kasar (seperti pasir
+atau bahan-bahan padat kasar lainnya). Inokulum
+disimpan pada kondisi anaerobik sebelum digunakan.
+Untuk menyeleksi bakteri penghasil hidrogen dari
+sludge anaerobik, dilakukan perlakuan-panas yaitu
+dengan cara mendidihkannya pada temperatur 100oC
+selama 30 menit (Dong dkk., 2009). Konsentrasi total
+solid dan COD inokulum yang digunakan berturutturut
+5,7 g/L dan 3,35 g/L.
+Produksi H2 dengan fermentasi gelap
+Uji potensi produksi H2 dari hidrolisat ampas
+tahu dilakukan dalam reaktor 250 mL dengan volume
+kerja 100 mL. Ke dalam masing-masing reaktor
+ditambahkan hidrolisat ampas tahu yang telah
+mengalami perlakuan awal dengan volume tertentu.
+Jumlah substrat yang ditambahkan didasarkan pada
+volume hidrolisat yang dihasilkan dari 2 g ampas tahu.
+Untuk menghindari pengaruh akibat inhibisi substrat,
+volume substrat dari perlakuan 10% HCl didasarkan
+pada volume hidrolisat yang dihasilkan dari 1 g ampas
+tahu (Tabel 2). Sebanyak 10 mL inokulum yang telah
+mengalami perlakuan-panas, 25 mL nutrien dan
+buffer, serta air destilasi ditambahkan ke dalam tiap
+reaktor sehingga volume campuran akhir 100 mL.
+Konsentrasi nutrien dan buffer dalam medium
+didasarkan pada percobaan Cui dkk. (2010) seperti
+ditunjukkan dalam Tabel 3. Nilai pH awal campuran
+diatur menjadi 6,5 dengan penambahan HCl 5M atau
+NaOH 5M. Selanjutnya campuran di flush dengan gas
+N2 selama 3 menit untuk memastikan kondisi anaerob
+dan terakhir ditutup dengan sumbat karet. Percobaan
+produksi H2 dilakukan dengan menginkubasi
+campuran pada kondisi mesofilik (35-37oC) dalam
+water bath. Laju produksi biogas dan konsentrasi
+biohidrogen dimonitor selama percobaan dengan
+menggunakan 10 mL syringe setiap 20-24 jam.
+Kandungan hidrogen dalam biogas dianalisis
+menggunakan chromatografi gas (GC). Pada setiap
+pengeluaran isi reaktor dilakukan analisis pH, dan
+pada akhir percobaan dilakukan analisis kandungan
+gula tereduksi.
+Tabel 2. Rancangan percobaan uji produksi H2
+Tipe Substrat Basis Perlakuan-awal
+SH1-0 (kontrol) 2 g AT 1 tahap (0% HCl)
+SH1-1 2 g AT 1 tahap (0,5% HCl)
+SH1-2a 1 g AT 1 tahap (10% HCl)
+SH2-0 (kontrol) 2 g AT 2 tahap (0% HCl)
+SHMa 1 g AT 2 tahap (0,5% dan
+10% HCl)
+Keterangan :
+AT : Ampas Tahu, SHM : Hidrolisat campuran dari
+perlakuan 2 tahap
+a hidrolisat setelah detoksifikasi menggunakan karbon aktif
+Tabel 3. Nutrien dan buffer untuk uji produksi H2
+Komponen
+C
+(mg/L)
+Komponen C (mg/L)
+FeCl3 100 CoCl2 21
+CaCl2.2H2O 66 CuCl2.2H2O 10
+MgSO4.7H2O 360 MnCl2.4H2O 30
+NiCl2.6H2O 48 KH2PO4 1000
+ZnCl2 23
+Sumber : Cui dkk. (2010)
+Analisis Data
+Untuk menentukan laju produksi hidrogen dan
+parameter-parameter kunci lainnya dari fermentasianaerob,
+persamaan Gompertz yang dimodifikasi
+diaplikasikan untuk mencocokkan data produksi
+biogas kumulatif. Persamaan Gompertz digunakan
+untuk memprediksi pengaruh faktor perlakuan
+terhadap parameter proses antara lain laju produksi
+biogas maksimum, potensi produksi biogas dan waktu
+adaptasi mikroorganisme (lag time) untuk
+memproduksi biogas (Cui dkk., 2010). Persamaan
+Gompertz yang dimodifikasi ditunjukkan dalam
+persamaan 3.
+H t = Hmaks exp − exp
+Rm e
+Hmaks
+ − t + 1 (3)
+
+
+Tabel 4. Hasil hidrolisis ampas tahu menggunakan asam
+Perlakuan
+Konsentrasi
+HCl (%)
+Berat awal
+sampel
+(g TS)
+Gula Tereduksi
+HMF
+Kadar GT (mg/L)
+(g/L)
+Massa GT
+(mg)
+YGT
+(mg GT/g AT)
+HA-0 (kontrol) 0 % 12,5a 0,498 102,59 8,21 0,756
+HA-1 0,5 % 12,5a 8,333 1799,93 143,99 2,287
+HA-2 10 % 12,5a 24,537 5398,14 431,85 158,838
+HB-0 (kontrol) 0 % 20b 0,138 13,8 0,69 1,497
+HB-1 10 % 20b 46,047 7194,84 359,74 461,525
+Keterangan : GT : Gula tereduksi; YGT : Yield gula tereduksi, TS : total solid; AT : ampas tahu
+a ampas tahu; b fraksi solid
+Dimana H = volume biogas kumulatif (mL), t = waktu
+reaksi (jam), Rm = laju produksi biogas maksimum
+(mL/jam), Hmaks = potensi produksi biogas (mL),
+ = waktu adaptasi (lag time) untuk memproduksi
+biogas (jam).
+HASIL DAN PEMBAHASAN
+Hidrolisis Asam Ampas Tahu
+Berdasarkan hasil uji laboratorium, kandungan
+bahan ampas tahu yang digunakan dalam studi ini
+terdiri dari 34,86% hemisellulosa, 38,61% sellulosa,
+5,64% lignin, 16,37% protein, 7,69% lemak dan
+3,76% abu (basis kering).
+Pengaruh konsentrasi asam terhadap kadar gula
+tereduksi (GT) dari hasil hidrolisis ampas tahu dengan
+satu-tahap atau dua-tahap ditunjukkan dalam Tabel 4.
+Dalam hidrolisis satu-tahap, bilamana 12,5 g ampas
+tahu dikontakkan dengan 0% HCl (kontrol) diperoleh
+hidrolisat dengan kandungan gula tereduksi 0,498 g/L
+dan yield gula tereduksi (YGT) 8,21 mg/g ampas tahu.
+Peningkatan konsentrasi asam menjadi 0,5% dan 10%
+berat HCl, secara signifikan meningkatkan konsentrasi
+gula tereduksi dan yield gula tereduksi. Konsentrasi
+gula tereduksi dan YGT dalam hidrolisat berturut-turut
+adalah 8,333 g/L dan 143,99 mg/g ampas tahu (untuk
+0,5% HCl), dan 24,537 g/L dan 431,85 mg/g ampas
+tahu (untuk 10% HCl). Reaksi hidrolisis bahan-bahan
+sellulosik dalam suasana asam dikontrol oleh
+konsentrasi ion hidrogen (H+) dalam larutan (Mosier
+dkk., 2005). Semakin tinggi jumlah ion hidrogen
+dalam larutan, pemecahan ikatan-ikatan glikosidik
+juga akan meningkat. Dengan demikian, konversi
+fraksi sellulosa menjadi molekul-molekul gula
+tereduksi semakin meningkat. Dalam studi ini
+peningkatan YGT untuk konsentrasi asam 0,5% dan
+10% HCl berturut-turut adalah 17,54 dan 52,6 kali
+dibanding kontrol.
+Pada hidrolisis dua-tahap khususnya tahap ke-
+2, fraksi solid digunakan kembali sebagai substrat
+untuk memproduksi gula terlarut. Hasil analisis
+menunjukkan, fraksi solid hasil dari perlakuan-awal
+menggunakan 0,5% HCl mengandung 6,19%
+hemisellulosa, 55,56% sellulosa, 13,98% lignin,
+16,70% protein, 11,67% lemak dan 6,08% abu (basis
+kering). Dari 20 g fraksi solid yang dihidrolisis
+menggunakan 10% HCl diperoleh hidrolisat dengan
+kandungan gula tereduksi dan YGT berturut-turut
+46,047 g/L dan 359,74 mg GT/g fraksi solid.
+Peningkatan konsentrasi gula tereduksi dan YGT bila
+dibanding dengan kontrol berturut-turut adalah 333,34
+kali untuk konsentrasi gula dan 521,36 kali untuk YGT.
+Menurut Xiang dkk. (2003), dalam hidrolisis asam α-
+sellulosa pada temperatur tinggi, reaksi kimia
+merupakan faktor yang paling berpengaruh dalam
+pembangkitan monomer gula. Hal ini
+mengindikasikan bahwa laju hidrolisis meningkat
+dengan respek terhadap konsentrasi asam.
+Detoksifikasi Hidrolisat
+Penggunaan asam sebagai katalis pada
+temperatur tinggi dalam hidrolisis bahan-bahan
+lignosellulosik dapat membangkitkan produk samping
+seperti furfural, 5-hidroksimetil furfural (HMF), asamasam
+organik serta senyawa-senyawa fenolik.
+Senyawa-senyawa ini dilaporkan bersifat toksik bagi
+mikroorganisme dan mengham batbaik pertumbuhan
+sel maupun produksi hidrogen (Chang dkk., 2011,
+Veeravalli dkk., 2013). Dalam studi ini, konsentrasi
+HMF dalam hidrolisat yang diperoleh dari perlakuan
+ampas tahu menggunakan 0,5% dan 10% HCl
+berturut-turut adalah 2,287 dan 158,838 mg/L.
+Sementara, dari perlakuan fraksi solid menggunakan
+10% HCl diperoleh kandungan HMF 461,525 mg/L
+(Tabel 4).
+Dalam studi awal produksi biohidrogen, tidak
+ada gas hidrogen yang diproduksi dari hidrolisat yang
+disiapkan dari hidrolisis menggunakan asam pekat
+(10% HCl). Hal ini diduga akibat produk samping
+seperti furfural, HMF, dan fenolik yang terkandung
+dalam hidrolisat menginhibisi proses fermentasi.
+Untuk menghilangkan inhibitor tersebut, hidrolisat
+yang diperoleh menggunakan 10% HCl didetoksifikasi
+menggunakan karbon aktif 1,5% berat/volum.
+Sebagaimana ditunjukkan dalam Gambar 2, proses
+detoksifikasi hidrolisat HA-2 mereduksi kandungan
+HMF dari 158,838 mg/L menjadi 12,67 mg/L, dimana
+ekivalen dengan 92,02%. Sementara untuk hidrolisat
+SHM (campuran HA-1 dengan HB-1), konsentrasi
+HMF berkurang dari 23,425 mg/L menjadi 1,946
+mg/L, dimana ekivalen dengan 91,69%. Hidrolisat
+yang telah didetoksifikasi ini kemudian digunakan
+sebagai substrat untuk produksi biohidrogen.
+Produksi Biohidrogen dari Hidrolisat
+Dalam studi ini, hidrolisat ampas tahu yang
+disiapkan dengan perlakuan awal menggunakan asam
+satu-tahap dan dua-tahap digunakan sebagai substrat
+untuk produksi hidrogen. Pada metode pengontakan dua-tahap, hidrolisat dari tahap I (0,5% berat HCl) dan
+tahap II (10% berat HCl) dicampur sebagai hidrolisat
+dua-tahap. Rasio pencampuran hidrolisat ini
+didasarkan pada massa fraksi padatan yang
+dibangkitkan dari hidrolisis tahap I. Karakteristik
+hidrolisat yang digunakan dalam uji potensi produksi
+biohidrogen dapat dilihat dalam Tabel 5.
+Pengaruh Perlakuan-Awal Terhadap Produksi H2
+Pengaruh perlakuan awal ampas tahu
+menggunakan asam dengan metode pengontakan satudan
+dua-tahap terhadap potensi produksi hidrogen
+ditunjukkan dalam Gambar 3(A). Hidrolisat dari 2 g
+ampas tahu kering (basis perhitungan) dengan
+perlakuan asam (0 atau 0,5% HCl) digunakan sebagai
+substrat untuk produksi hidrogen. Untuk menghindari
+efek inhibisi substrat gula tereduksi, hidrolisat dari
+perlakuan asam pekat (10% HCl) digunakan basis 1 g
+ampas tahu kering.
+
+Tabel 5. Karakteristik substrat untuk uji potensi produksi biohidrogen
+Tipe Substrat
+SH1-0 SH1-1 SH1-2a SH2-0 SHMa
+Basis 2 g AT 2 g AT 1 g AT 2 g AT 1 g AT
+GT (mg/L) 165 2833 4294 11 3818
+COD (mg/L) 851,73 6690,20 7000 415,2 6809,56
+N-Total (mg/L) -- 52,36 127,4 -- 157,78
+Protein (mg/L) 215,49 1033,26 2130,88 106,17 1286,05
+HMF (mg/L) 0,250 0,777 2,217 0,117 0,448
+Rasio protein/GT 1,31 0,36 0,496 9,65 0,337
+Keterangan : GT : Gula tereduksi, AT : Ampas Tahu,
+a hidrolisat setelah detoksifikasi menggunakan karbon aktif
+SH1-0 : Hidrolisat dengan perlakuan 1 tahap (0% HCl/kontrol)
+SH1-1 : Hidrolisat dengan perlakuan 1 tahap (0,5 % HCl)
+SH1-2 : Hidrolisat dengan perlakuan 1 tahap (10 % HCl)
+SH2-0 : Hidrolisat dengan perlakuan 2 tahap (0% HCl/kontrol)
+SHM : Hidrolisat campuran dari perlakuan 2 tahap (0,5% HCl dan 10% HCl)
+
+Gambar 2. Detoksifikasi hidrolisat menggunakan karbon aktif. A dan B : Hidrolisat
+HB-1; C dan D : Hidrolisat SHM (Campuran HA-1 dan HB-1).
+
+
+Gambar 3. (A) Volume kumulatif hidrogen dari ampas tahu kering dengan perlakuan asam (HCl) satu- dan duatahap,
+(B) Simulasi data (3A) dengan Persamaan Gompertz,
+Tabel 6. Karakteristik produksi produksi hydrogen pada perlakuan-awal ampas tahu menggunakan asam
+Jenis Substrat Perlakuan-awal
+Parameter Persamaan Gompertz
+ (jam) Rm(mL/jam) Hmaks
+(mL)
+JKE
+SH1-0 1 tahap (0% HCl) 30,00 0,037 0,41 1,26 x 10-7
+SH1-1 1 tahap (0,5% HCl) 14,64 1,407 23,29 0,8072
+SH1-2 1 tahap (10% HCl) 7,91 0,734 9,32 0,5858
+SH2-0 2 tahap (0% HCl) 16,11 0,163 0,05 3,2 x 10-4
+SHM 2 tahap (0,5% dan 10%
+HCl)
+11,39 2,37 20,78 2,39 x 10-5
+Hmaks : Potensi produksi hidrogen (mL), Rm : Laju produksi hidrogen maksimum (mL/jam),
+: Waktu fase adaptasi (jam), JKE : Jumlah kuadrat error.
+
+Uji potensi produksi hidrogen dilakukan dalam
+250 mL botol serum dengan volume kerja 100 mL
+pada temperatur 35oC selama 6 hari (112 jam). Dari
+hasil percobaan diperoleh volume kumulatif H2 dari
+hidrolisat dengan perlakuan asam satu-tahap
+menggunakan 0% HCl (kontrol) adalah 0,41 mL. Bila
+hidrolisat disiapkan dengan perlakuan asam satu-tahap
+menggunakan 0,5% HCl, volume kumulatif H2 yang
+diperoleh dari 2 g ampas tahu adalah 23,07 mL atau
+11,54 mL/g ampas tahu. Namun demikian, volume
+kumulatif H2 berkurang menjadi 9,67 mL/g ampas
+tahu (berkurang 16,17%) bilamana konsentrasi asam
+ditingkatkan menjadi 10% HCl. Peningkatan volume
+kumulatif H2 terobservasi bilamana ampas tahu diberi
+perlakuan awal menggunakan asam dengan metode
+pengontakan dua-tahap. Dari hasil percobaan, volume
+kumulatif H2 dari hidrolisat dengan perlakuan asam
+dua-tahap adalah 20,05 mL atau naik 73,82%
+dibanding perlakuan asam satu-tahap menggunakan
+0,5% HCl.
+Untuk menginvestigasi lebih lanjut pengaruh
+perlakuan awal ampas tahu menggunakan asam
+dengan metode pengontakan satu- dan dua-tahap
+terhadap potensi produksi hidrogen, data dalam
+Gambar 3(A) disimulasi menggunakan Persamaan (3).
+Karakteristik produksi hidrogen dari hasil simulasi
+dengan menggunakan Persamaan Gompertz yang
+dimodifikasi ditunjukkan dalam Gambar 3(B) dan
+Tabel 6.
+Laju produksi hidrogen spesifik berkurang dari
+1,407 menjadi 0,734 mL/jam, bila konsentrasi asam
+dalam perlakuan asam satu-tahap ditingkatkan dari
+0,5% (SH1-1) menjadi 10% HCl (SH1-2). Dibanding
+substrat SH1-1, laju produksi hidrogen spesifik dari substrat SHM (perlakuan asam dua-tahap, 0,5% HCl
+diikuti 10% HCl) dijumpai lebih tinggi 184% (2,37
+mL/jam). Hal ini kemungkinan disebabkan oleh
+perlakuan awal ampas tahu menggunakan HCl
+membangkitkan sejumlah inhibitor seperti furfural,
+HMF, serta senyawa-senyawa fenolik (Cao dkk.,
+2009). Senyawa-senyawa ini dilaporkan dapat
+mempengaruhi metabolisme mikroorganisme,
+pertumbuhan sel serta laju produksi hidrogen
+(Veeravalli dkk., 2013). Dalam studi ini kandungan
+HMF dalam substrat SH1-1, SH1-2 dan SHM
+terdeteksi berturut-turut adalah 0,777, 2,217 dan 0,448
+mg/L.
+Yield H2 dan Konsumsi Substrat
+Yield biohidrogen (YH2) dan konsumsi gula
+tereduksi dari hidrolisat dalam fermentasi gelap
+ditunjukkan dalam Gambar 4. Dalam studi ini, YH2
+tertinggi 0,928 mmol/g ampas tahu awal dijumpai
+dalam fermentasi substrat SHM (Gambar 4A). Alasan
+yang mungkin penyebab naiknya produksi hidrogen
+dalam studi ini antara lain adalah konsentrasi substrat
+(gula tereduksi). Metode pengontakan asam dua-tahap
+membangkitkan gula-tereduksi lebih tinggi dibanding
+pengontakan satu-tahap menggunakan 0,5% berat
+HCl. Telah diketahui, karbohidrat (gula tereduksi)
+merupakan substrat yang paling sesuai untuk
+fermentasi hidrogen. Glukosa dapat menyediakan
+bahan karbon dan dapat difermentasi untuk
+menghasilkan energi yang diperlukan untuk
+pertumbuhan, biosintesis serta aktivitas sel lainnya.
+Pada perlakuan asam satu-tahap, peningkatan
+konsentrasi asam dari 0,5% HCl menjadi 10% HCl
+menghasilkan penurunan YH2 dari 0,515 menjadi
+0,399 mmol/g ampas tahu awal. Hal ini kemungkinan
+berkaitan dengan kehadiran senyawa-senyawa
+inhibitor seperti furfural, HMF, serta senyawasenyawa
+fenolik dalam hidrolisat mempengaruhi
+metabolisme mikroorganisme, pertumbuhan sel
+maupun laju produksi hidrogen (Veeravalli dkk.,
+2013). Kandungan HMF dalam substrat SH1-2 (2,217
+mg/L) yang lebih tinggi dibanding substrat SH1-1
+(0,777 mg/L) dan substrat SHM (0,448 mg/L) diduga
+merupakan penyebab turunnya YH2 dari substrat SH1-
+2. Di samping itu, kandungan maksimum
+hidrogendalam reaktor SH1-2 (4,148%) lebih rendah
+dibanding reaktor SH1-1 (8,37%) dan SHM (7,576%)
+mengindikasikan bahwa reaktor SH1-2 telah
+mengalami inhibisi.
+Perlakuan awal ampas tahu menggunakan
+katalis HCl pada temperatur tinggi, selain
+meningkatkan kandungan gula tereduksi juga
+meningkatkan kandungan protein. Dalam fermentasi
+multi substrat, rasio protein/karbohidrat yang lebih
+tinggi mengakibatkan nilai pH akhir lebih tinggi. Dari
+Gambar 4B, substrat SH1-2 dengan rasio
+protein/glukosa 0,496 menunjukkan nilai pH akhir
+lebih tinggi dibanding substrat SH1-1 dan SHM yang
+memiliki rasio protein/glukosa berturut-turut 0,36 dan
+0,337. Bai dkk. (2004) menjumpai, bahwa protein
+yang tinggi dalam substrat dapat menekan proses
+asidifikasi dan menghasilkan lingkungan yang tidak
+sesuai untuk pertumbuhan sel dan fermentasi
+hidrogen.
+Dalam studi ini, hidrolisat yang mengandung
+gula tereduksi digunakan sebagai substrat untuk
+produksi hidrogen secara fermentatif. Hasil analisis
+gula tereduksi menunjukkan, bahwa pada akhir
+fermentasi substrat SH1-1, SH1-2 dan SHM telah
+terkonversi lebih dari 94% (Gambar 4B). Hal ini
+mengindikasikan, bahwa selain menghasilkan biogas,
+substrat juga dikonversi menjadi produk lain terutama
+yang tergabung dalam produk cairan.
+Gambar 4. (A) Yield hidrogen dari ampas tahu kering dengan perlakuan asam satu- dan dua-tahap, (B) Konversi
+gula.
+
+KESIMPULAN
+Tujuan dari studi ini adalah mengevaluasi
+pengaruh perlakuan asam satu-tahap dan dua tahap
+untuk memproduksi konsentrasi gula-tereduksi
+sebagai substrat untuk produksi biohidrogen. Metode
+perlakuan asam satu-tahap menggunakan 0,5% HCl
+dan 10% HCl menghasilkan YGT berturut-turut 143,99
+dan 431,85 mg/g ampas tahu. Dengan metode
+perlakuan dua tahap, YGT untuk tahap ke-1 (0,5% HCl)
+dan tahap ke-2 (10% HCl) berurut-turut adalah 143,99
+dan 359,74 mg/g ampas tahu. Dengan demikian, yield
+total gula tereduksi dari perlakuan asam dua-tahap
+adalah 503,73 mg/g ampas tahu atau meningkat
+388,7% dibanding perlakuan satu-tahap menggunakan
+0,5% HCl.
+Suatu proses yang terintegrasi untuk
+memproduksi hidrogen dari hidrolisat ampas tahu dan
+fermentasi anaerob diuji coba dalam studi ini. Dengan
+pencampuran hidrolisat tahap ke-1 (0,5% HCl) dan
+tahap ke-2 (10% HCl) menjadi subsrat campuran
+dengan basis 1 gram ampas tahu, diperoleh substrat
+SHM dengan kadar gula tereduksi 12,77 g/L.
+Perlakuan hidrolisat untuk menghilangkan senyawasenyawa
+toksik dari medium sangat diperlukan
+sebelum substrat tersebut dimasukkan ke dalam
+bioreaktor. Dengan menggunakan hidrolisat ampas
+tahu dari perlakuan asam dua-tahap, diperoleh YH2
+sebesar 0,928 mmol/g ampas tahu atau lebih tinggi
+1,8 kali dibanding perlakuan sat-tahap menggunakan
+0,5% HCl.

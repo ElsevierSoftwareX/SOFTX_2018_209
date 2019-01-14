@@ -1,0 +1,32 @@
+
+ ABSTRAK 
+Linear Quadratic Regulator (LQR) pada sistem kontrol optimum bertujuan untuk menstabilkan sistem, sehingga keluaran dari sistem akan menuju keadaan steady state (mantap) dengan meminimumkan indeks performansi. LQR-invinite horizon merupakan kasus khusus dari LQR dalam daerah waktu kontinu dimana waktu terminal dari indeks performansi bernilai takhingga dan keluaran sistem untuk waktu takhingga bernilai nol. Indeks performansi akan dipengaruhi oleh matriks pembobotan. Dalam tugas akhir ini akan dibahas tentang aplikasi algoritma Particle Swarm Optimization (PSO) dan Differential Evolution Algorithm (DEA) untuk menentukan umpan balik keadaan dari sistem lup tertutup dan matriks pembobotan yang menimumkan indeks performansi pada LQR. Algortima PSO merupakan algoritma komputasi yang diinspirasi dari perilaku sosial kawanan burung dan ikan dalam mencari makanan. Sedangkan DEA merupakan algoritma optimasi yang diadopsi dari evolusi dan genetika pada makhluk hidup. Simulasi algoritma PSO akan dibandingkan dengan Differential Evolution Algorithm (DEA). Berdasarkan studi kasus, perbandingan hasil simulasi antara algoritma PSO dan DEA menunjukkan bahwa DEA lebih cepat konvergen ke solusi optimum. 
+Kata kunci : LQR-invinite horizone, Matriks Pembobotan, Particle Swarm Optimization (PSO), Differential Evolution Algorithm (DEA)
+
+
+ BAB I 
+PENDAHULUAN 
+1.1 Latar Belakang 
+
+Dalam pendesainan sistem dan penyelesaian masalah di dalamnya, perlu memilih sebuah solusi sebagai respon optimal dari luasnya kumpulan solusi fisibel, semua solusi tidak mungkin untuk diuji satu per satu dan pengujian seharusnya dilakukan secara stokastik. Di sisi lain, proses stokastik harus dilakukan melalui cara yang mendekati solusi terbaik. Teori kontrol optimum linier kuadratik merupakan metode yang mudah diimplementasikan dalam masalah teknis dan merupakan dasar dari teori kontrol lainnya. Metode kontrol optimum yang sering digunakan adalah Linear Quadratic Regulator (LQR). Dalam LQR masalah fundamentalnya adalah menentukan matriks pembobotan yang menemukan kondisi optimal sistem dalam meminimalkan indeks performansi. Masalah pemilihan matriks pembobotan yang tepat dalam mendesain kontroler telah diperkenalkan pada berbagai macam metode. 
+Pemilihan matriks pembobotan pada LQR adalah sangat penting dan akan mempengaruhi input kontrol. Algoritma Particle Swarm Optimization (PSO) dan Differential Evolution Algorithm (DEA) merupakan algoritma optimasi dan dapat digunakan untuk menentukan matriks pembobotan dalam meminimumkan indeks performansi pada pendesainan LQR. PSO dan DEA dipilih dalam pendesainan LQR, karena PSO dan DEA cukup sederhana dan dianggap mempunyai kecepatan komputasi yang tinggi. Salah satu aplikasi PSO dan DEA dalam sistem kontrol adalah mencari solusi optimum untuk mendesain umpan balik keadaan optimum.
+
+1.2 Perumusan Masalah 
+
+Permasalahan yang akan dibahas dalam tugas akhir ini sebagai berikut : 
+1. Bagaimana cara mendesain umpan balik keadaan dan kontrol umpan balik optimum menggunakan algoritma PSO. 
+2. Bagaimana cara mendesain umpan balik keadaan dan kontrol optimum menggunakan algoritma DEA. 
+3. Bagaimana performansi (kinerja) sistem lup tertutup dengan umpan balik keadaan yang di desain menggunakan algoritma PSO dan DEA. 
+1.3 Pembatasan Masalah 
+
+Adapun pembatasan masalah dalam penulisan tugas akhir ini adalah untuk merancang (mendesain) kontrol umpan balik optimum dengan metode Linear Quadratic Regulator (LQR) menggunakan algoritma Particle Swarm Optimization (PSO) dan Differential Evolution Algorithm (DEA) pada sistem kontrol lup tertutup untuk sistem Linear Time Invariant / LTI (sistem linier yang tidak berubah terhadap waktu). Membandingkan hasil yang diperoleh dan mensimulasikan dengan software MATLAB R2011a. 
+
+1.4 Tujuan Penulisan 
+
+Tujuan dari penulisan tugas akhir ini adalah 
+1. Menentukan matriks pembobotan yang mengoptimalkan fungsi Linear Quadratic Regulator (LQR) pada sistem kontrol yang didesain mengunakan algoritma PSO dan DEA. 
+2. Menentukan umpan balik keadaan optimum dan kontrol optimum pada sistem kontrol yang didesain menggunakan algoritma PSO dan DEA. 
+3. Membandingkan performansi (kinerja) sistem lup tertutup dengan umpan balik keadaan yang didesain menggunakan algoritma PSO dan DEA. 
+1.5 Sistematika Penulisan 
+
+Sistematika penulisan laporan tugas akhir ini dibagi menjadi empat bab yaitu pendahuluan, dasar teori, pembahasan, dan penutup. Pada bab I dibahas pandahuluan yang memuat latar belakang, perumusan masalah, batasan masalah, tujuan penulisan, dan sistematika penulisan. Pada bab II akan dikemukakan dasar teori mengenai matriks, sistem kontrol, kontrol Optimum Linear Quadratic Regulator, dan persamaan aljabar Riccati. Sedang pembahsan tentang aplikasi algoritma Particle Swarm Optimization (PSO) dan Differential Evolution Algorithm (DEA) dalam sistem kontrol optimum, serta studi kasus dipaparkan pada bab III. Terakhir diberikan penutup yang memuat kesimpulan dan saran untuk penelitian lebih lanjut.

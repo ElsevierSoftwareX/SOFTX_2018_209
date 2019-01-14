@@ -1,0 +1,148 @@
+﻿ABSTRAK
+Telah dilakukan penelitian yang berjudul Sintesis dan Karakterisasi
+Nanopartikel Aluminium Oxide (Al2O3) Dari Limbah Aluminium untuk
+Nanofluida. Tujuan dari penelitian ini adalah untuk mengetahui pengaruh suhu
+pemanasan terhadap pembentukan nanopartikel Al2O3 dan pengaruh komposisi
+terhadap karakteristik sifat fisiko-kimia nanofluida Al2O3. Variasi suhu
+pemanasan yang digunakan adalah 6000C, 7000C, dan 8000C. Sedangkan variasi
+komposisi yang digunakan adalah 0.1 gram, 0.2 gram, 0.3 gram, dan 0.5
+gram.Nanopartikel Aluminium Oxide disintesis dengan melakukan pemanasan
+pada Al(OH)3 yang diperoleh dari pengendapan limbah aluminium. Selanjutnya
+nanopartikel Aluminium Oxide yang diperoleh disuspensikan dengan 100 ml
+aquades dan didisperiskan dengan menggunakan ultrasonik untuk menghasilkan
+nanofluida Al2O3. Nanopartikel Al2O3 yang telah diperoleh kemudian dilakukan
+karakteriasasi yaitu uji XRD (X-Ray Diffraction), SAA (Surface Area Analyzer),
+Densitas (Density), Viskositas (Viscosity), CHF(Critical Heat Flux) dan Potensial
+Zeta (Zeta Potential). Data XRD menunjukkan bahwa puncak kristal dari
+nanopartikel Al2O3 adalah gamma alumina dengan ukuran kristal sebesar 6,5 nm
+(Metode Debye-Scherrer). Hasil uji Surface Area dari nanopartikel Al2O3 sebesar
+149,98 m2/gram dan diperoleh ukuran sebesar 11 nm. Berdasarkan data potensial
+zeta, nanofluida paling stabil berada pada pH 6,3 dengan nilai potensial zeta
+sebesar 36,70 - 43,53. Hasil uji densitas diperoleh nilai tertinggi sebesar 1,503
+g/cm3, uji viskositas sebesar 0.92 mPa.s pada variasi komposisi 0.5 gram.
+Penurunan tinggi permukaan nanofluida sebesar 40% setelah 7 hari. Hasil uji CHF
+nanofluida Al2O3 diperoleh peningkatan sebesar 53,21% dibandingkan dengan
+Aquades pada komposisi 0.5 gram .
+Kata kunci : nanopartikel, nanofluida, Al2O3, limbah aluminium, CHF.
+
+BAB I
+PENDAHULUAN
+1.1 Latar Belakang Masalah
+Perkembangan dan kecanggihan teknologi yang begitu pesat pada era
+globalisasi saat ini yang disokong dengan sumber daya alam yang sangat
+memadai dan berpotensi dalam kegunaannya sehingga mampu menopang
+dalam pemenuhan kebutuhan manusia di berbagai bidang salah satunya dalam
+bidang industri. Namun disamping teknologi yang berkembang cukup pesat
+kurang diimbangi dengan efisiensi teknologi yang berkaitan dengan sistem
+perpindahan panas.
+Dalam sistem perpindahan panas khususnya di bidang industri sangat
+penting terkait dengan kinerja performansi pendinginan. Kinerja performansi
+pendinginan merupakan salah satu kebutuhan utama di bidang industri.Kinerja
+performansi pendinginan ditentukan oleh konduktivitas termal. Rendahnya
+konduktivitas termal yang menjadi keterbatasan utama di bidang industri
+sehingga banyak kerugian yang ditimbulkan akibat kurang memperhatikan
+efisiensi kinerja sistem. Sehingga perlu adanya suatu teknik dan cara yang
+mampu menghemat energi dan meningkatkan efisiensi kinerja sistem.
+Kebanyakan bidang industri saat ini masih menggunakan fluida
+konvensional seperti air, oli mesin, etilen glikol sebagai fluida untuk
+perpindahan panas. Penggunaan cairan konvensional tersebut justru
+menghalangi kinerja sistem salah satunya yaitu salah satunya mesin cepat panas dan dalam jangka waktu tertentu akan merusak mesin. Sehingga untuk
+mengurangi kelemahan yang ditimbulkan dari penggunaan fluida
+konvensional maka diperlukan fluida baru yang mampu meningkatkan
+performansi dan kinerja sistem yang digunakan dalam sistem perpindahan
+panas yaitu dikenal dengan istilah nanofluida (Veeranna dan Lakshmi, 2011).
+Nanofluida merupakan suatu bahan yang terdiri dari material yang
+padat yang berukuran antara 1-100 nanometer yang terdispersi dalam suatu
+pelarut/liquid. Kriteria terpenting dalam suatu nanofluida adalah kestabilan
+partikel yang dilihat dari tingkat aglomerasi/penggumpalan tanpa
+menyebabkan perubahan secara kimiawi. Macam-macam nanofluida yang
+telah dipelajari saat ini antara lain nanofluida-alumina, nanofluida-zirkonia,
+dan lain lain. Dari setiap nanofluida memiliki keunikan masing-masing
+bergantung pada partikel penyusunnya (Clement, 2011).
+Keunikan pada nanofluida berpengaruh terhadap besaran-besaran fisis
+yang dimiliki oleh nanofluida antara lain densitas, viskositas, Critical Heat
+Flux (CHF),dan konduktivitas termal (Veeranna dan Lakshmi, 2011). Besaran
+fisis ini merupakan parameter dasar yang penting dalam sistem perpindahan
+panas. Salah satu nanofluida yang bisa digunakan sebagai perpindahan panas
+adalah nanofluida berbasis serbuk Aluminium Oxide (Al2O3).Aluminium Oxide
+(Al2O3) banyak digunakan sebagai bahan refraktori. Hal ini dikarenakan
+Aluminium Oxide (Al2O3) memiliki berbagai keistimewaan yaitu memiliki
+ketahanan korosi yang baik dalam berbagai lingkungan, memiliki sifat bioinertyang sangat baik dan memiliki ketahanan terhadap temperatur yang
+tinggi serta penghambat listrik yang baik (Kagaku et al. 2007).
+Pada proses pembuatan nanopartikelumumnyamenggunakan metode
+sol-gel yaitu suatu metode perubahan fase padat (sol) menjadi fase gelatin
+(gel) melalui mekanisme kimiawi. Namun metode sol gel memiliki beberapa
+kelemahan yaitu waktu yang diperlukan saat proses sintesis cukup lama dan
+biayanya cukup mahal, maka untuk mengatasi hal tersebut maka digunakan
+metode lain yaitu presipitasi (Meor dan Masliana, 2007). Kelebihan yang
+dimiliki oleh metode preispitasi adalah waktu yang diperlukan saat proses
+sintesis cukup singkat dengan menggunakan suhu yang relatif rendah. Selain
+itu juga berkurangnya kadar pelarut pada saat proses sintesis nanopartikel
+yang cukup kecil dibandingkan dengan metode sol-gel (Waludjodjati,2008).
+Pada penelitian Dey pada tahun 2015 terkait sintesis nanopartikel -
+Al2O3 menggunakan suhu pemanasan sebesar 5000C, 6500C, dan 10000C
+menghasilkan nilai optimum terhadap besaran fisis (ukuran partikel dan
+Surface Area) pada suhu antara 6500C - 10000C. Namun nilai dari besaran
+fisis yang dihasilkan kurang signifikan. Pada penelitian Jian-hong terkait
+dengan sintesis nanopartikel -Al2O3dengan menggunakan suhu antara 4000C-
+5000C dengan kenaikan interval 500C menghasilkan Al2O3 dengan fase
+gamma (-Al2O3) dengan ukuran berkisar 50-100 nm sehingga menyarankan
+penggunaan suhu di atas 4000C untuk mendapatkan ukuran yang lebih stabil .
+Penelitianyang dilakukan oleh M.Raja pada tahun 2012 terkait nanofluida
+alumina melakukan variasi komposisi dengan konsentrasi 0.5%, 1.0%, 1.5%, dan 2.0% ternyata hasil yang diperoleh pada konduktivitas termal hanya
+berkisar 0,2-2 W/m.K. Penelitian yang dilakukan oleh Wildan pada tahun
+2012 terkait nanofluida alumina melakukan variasi komposisi dengan
+konsentrasi 0,25%, 0,50%, 0,75%, dan 1,00% ternyata hasil yang diperoleh
+pada konduktivitas termal hanya berkisar 0,6515-0,7263 W/m.K. Sedangkan
+penelitian yang dilakukan oleh Irawan pada tahun 2012 melakukan variasi
+terhadap komposisi 0,2-2,5% dan menghasilkan peningkatan konduktivitas
+termal sebesar 37,49% pada konsentrasi 0,5%. Sehingga untuk memperbaiki
+penelitian sebelumnya,pada penelitian ini digunakan variasi suhu antara 6000C
+-8000C dengan interval 1000C dan variasi komposisi antara 0,10-0,50%
+dengan interval 0.10% dengan harapan bisa memperoleh nilai dari besaran
+fisis yang lebih baik dan sesuai dengan aplikasi.
+Pada penelitian ini, sintesis Aluminium Oxide untuk nanofluida
+meliputi proses pemanasan. Uji yang dilakukan terhadap nanopartikel Al2O3
+meliputi uji XRD dan uji Surface Area Al2O3. Sedangkan karakterisasi sifat
+fisiko-kimia nanofluida Al2O3 meliputi uji densitas, uji viskositas fluida, uji
+Critical Heat Flux (CHF), dan uji stabilitas partikel serta uji potensial zeta.
+1.2 Rumusan Masalah
+Berdasarkan latar belakang masalah, maka perumusan masalah untuk
+penelitian ini adalah
+1. Bagaimana pengaruh variasi suhu pemanasan terhadap pembentukan
+nanopartikel Aluminium Oxide (Al2O3) ?
+
+2. Bagaimana pengaruh komposisi terhadap karakteristik sifat fisiko-kimia
+nanofluida Aluminium Oxide (Al2O3) yaitu densitas, viskositas,Critical
+Heat Flux, dan stabilitas partikel serta potensial zeta?
+1.3 Batasan Masalah
+Agar permasalahan tidak meluas dan menyimpang dari tujuan maka
+perlu dilakukan perdekatan terhadap sistem antara lain:
+1. Proses pemanasan dengan variasi suhu sebesar 6000C, 7000C, dan 8000C
+untuk memperoleh nanopartikel Aluminium Oxide (Al2O3).
+2. Proses sintesis nanopartikel Aluminium Oxide (Al2O3) menggunakan
+logam aluminium dan NaOH dengan perbandingan mol sebesar 1 : 4
+3. Proses sintesis nanofluida Aluminium Oxide (Al2O3), pencampuran pelarut
+dengan nanopartikel Al2O3 dengan variasi komposisi sebesar 0,10 gram,
+0,20 gram, 0,30 gram, dan 0,50 gram.
+4. Uji pembentukan nanopartikel Aluminium Oxide (Al2O3) meliputi uji XRay
+Diffraction (XRD) dan uji Surface Area.
+5. Uji karakteristik sifat fisiko-kimia nanofluida Al2O3meliputi uji densitas,
+uji viskositas fluida, dan uji Critical Heat Flux, serta potensial zeta.
+1.4 Tujuan Penelitian
+Adapun tujuan dari penelitian ini adalah sebagai berikut:
+1. Mengetahui pengaruh variasi suhu pemanasan terhadap pembentukan
+nanopartikel Aluminium Oxide (Al2O3).
+
+2. Mengetahui pengaruh variasi komposisi terhadap sifat fisiko-kimia
+karakteristik nanofluida Aluminium Oxide (Al2O3) yaitu densitas,
+viskositas fluida, Critical Heat Flux, dan stabilitas partikel serta potensial
+zeta.
+1.5 Manfaat Penelitian
+Manfaat dari penelitian ini adalah memberikan informasi terkait
+pengaruh suhu pemanasan terhadap pembentukan nanopartikel alumina dan
+karakteristik sifat fisiko-kimia nanofluida Al2O3yaitu, densitas, viskositas
+fluida, konduktivitas termal, dan stabilitas dan ukuran partikel serta potensial
+zeta Aluminium Oxide (Al2O3), sehingga diperoleh produk nanofluida baru
+yaitu nanofluida dengan performansi dan kinerja yang unggul untuk
+digunakan dalam sistem perpindahan panas (kinerja perfomansi pendinginan).

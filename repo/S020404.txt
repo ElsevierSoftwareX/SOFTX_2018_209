@@ -1,0 +1,198 @@
+﻿Penelitian ini bertujuan untuk memberikan bukti secara empiris komponen Fraud
+Triangle yang diuraikan menjadi jumlah komisaris independen, rasio arus kas
+bebas, rasio perubahan aset, return on assets dan kepemilikan saham orang dalam
+terhadap kecurangan laporan keuangan. Populasi dalam penelitian ini adalah
+seluruh perusahaan sektor konsumsi di Bursa Efek Indonesia Periode 2011-2013,
+perusahaan yang diambil sebagai sampel 12 perusahaan dan jumlah observasi
+yang dilakukan selama tahun 2011-2013 adalah 36 item observasi. Metode
+analisis yang digunakan adalah regresi liner berganda.
+Hasil penelitian menyebutkan bahwa, dari keseluruhan variabel bebas yang ada,
+hanya variabel rasio perubahan aset yang tidak berpengaruh kecurangan laporan
+keuangan, sedangkan variabel lain yaitu jumlah komisaris independen, rasio arus
+kas bebas, return on Assets dan kepemilikan sebagian saham oleh orang dalam
+berpengaruh terhadap kecurangan laporan keuangan pada perusahaan konsumsi di
+Bursa Efek Indonesia. Bagi investor hendaknya mempertimbangkan rasio arus kas
+bebas, karena hasil penelitian menunjukan bahwa rasio arus kas bebas memiliki
+hubungan dengan kecurangan laporan keuangan. Rasio arus kas bebas merupakan
+salah satu pengukuran kinerja perusahaan yang menunjukkan kemampuan aktiva
+perusahaan untuk menghasilkan laba operasi sehingga dimungkinkan terjadinya
+kecurangan financial yang lebih besar peluangnya.
+Kata Kunci : jumlah komisaris independen, rasio arus kas bebas, rasio
+perubahan aset, Return on Assets, kepemilikan sebagian
+saham oleh orang, kecurangan laporan keuangan
+
+
+BAB I
+PENDAHULUAN
+1.1 Latar Belakang Masalah
+Akuntansi dengan produk utamanya laporan keuangan telah lama dirasakan
+manfaatnya sebagai salah satu sarana untuk mengambil keputusan.
+Mengkomunikasikan informasi yang timbul akibat transaksi-transaksi
+(pertukaran) perusahaan dengan entitas ekonomi lainnya merupakan salah satu
+tujuan dari akuntansi. Laporan keuangan merupakan akhir dari proses akuntansi
+yang dirancang untuk memberikan informasi kepada calon investor, calon
+kreditor, pengguna laporan untuk pengambilan keputusan bisnis.
+Penerbitan laporan keuangan secara umum bertujuan untuk memberikan informasi
+mengenai posisi keuangan, kinerja dan arus kas perusahaan. Pelaporan keuangan
+bermanfaat bagi sebagian besar kalangan pengguna laporan dalam rangka
+membuat keputusan-keputusan ekonomi serta menunjukkan pertanggungjawaban
+manajemen atas penggunaan sumber-sumber daya yang dipercayakan kepada
+mereka (Ikatan Akuntan Indonesia, 2009). Tujuan umum laporan keuangan adalah
+menyediakan informasi keuangan yang bermanfaat untuk membantu pengambilan
+keputusan ekonomi (Ghozali dan Chariri, 2007). Dalam bisnis yang makin
+kompetitif, informasi yang termuat dalam laporan tahunan juga sangat penting
+dalam mengefisiensikan pengalokasian dana investasi untuk pemakaian yang paling produktif (Ghozali dan Chairi, 2007). Oleh karena itu, para pelaku bisnis
+harus dapat memberikan informasi yang akurat dan relevan serta terbebas dari
+adanya kecurangan yang akan sangat menyesatkan para pengguna laporan
+keuangan dalam proses pengambilan keputusan. Sayangnya, tidak seluruh pelaku
+bisnis menyadari pentingnya laporan keuangan yang bersih dan terbebas dari
+kecurangan (Ema, 2009).
+
+Munawir (2008) menyatakan bahwa dalam dua dekade terakhir kecurangan
+laporan keuangan telah meningkat secara substansial. Meningkatnya kecurangan
+pada laporan keuangan di satu sisi dapat memberikan keuntungan bagi para
+pelaku bisnis karena mereka dapat melebih-lebihkan hasil usaha (overstated) dan
+kondisi keuangan mereka sehingga laporan keuangan mereka terlihat baik dalam
+pandangan publik. Akan tetapi, meningkatnya kecurangan laporan juga sangat
+merugikan publik yang sangat menggantungkan pengambilan keputusan mereka
+berdasarkan laporan keuangan.
+
+Pentingnya laporan keuangan dalam menunjukkan kinerja perusahaan, maka
+banyak perusahaan yang berusaha untuk menyesatkan investor atau pemilik
+perusahaan dengan memanfaatkan kurangnya informasi yang diterima investor.
+Sebagai contoh di Indonesia dapat dikemukakan kasus yang terjadi pada PT
+Kimia Farma Tbk. Berdasarkan indikasi oleh kementerian BUMN dan
+pemeriksaan Bapepam (Bapepam,2002) ditemukan adanya salah saji dalam
+laporan keuangan yang mengakibatkan lebih saji (overstatement) laba bersih
+untuk tahun yang berakhir 31 Desember 2001 sebesar Rp 32,7 miliar yang merupakan 2,3 % dari penjualan dan 24,7% dari laba bersih. Salah saji ini terjadi
+dengan cara melebih sajikan penjualan dan persediaan pada 3 unit usaha, dan
+menggelembungkan harga persediaan yang telah diotorisasi oleh direktur produksi
+untuk menentukan nilai persediaan pada unit distribusi PT Kimia Farma per 31
+Desember 2001 (Bapepam, 2002).
+
+Karena pentingnya laporan keuangan dalam menunjukkan kinerja perusahaan,
+maka banyak perusahaan yang berusaha untuk menyesatkan investor atau pemilik
+perusahaan dengan memanfaatkan kurangnya informasi yang diterima investor
+(Haryudanto, 2011). Salah satu cara yang sering digunakan untuk menyesatkan
+pemilik perusahaan adalah dengan melakukan kecurangan laporan keuangan.
+Kecurangan laporan keuangan yang tidak terlihat merupakan manipulasi yang
+paling aman karena kegiatannya merupakan hal yang legal dan tidak melanggar
+prinsip akuntansi diterima umum.Walapun legal dan terlihat aman, tetapi
+memiliki dampak yang merugikan bagi perusahaan bila perusahaan ketahuan
+melakukan kegiatan tersebut (Haryudanto, 2011).
+Pendeteksian terhadap kecurangan laporan keuangan tidak selalu mendapatkan
+titik terang karena berbagai motivasi yang mendasarinya serta banyaknya metode
+untuk melakukan kecurangan laporan keuangan (Brennan dan McGrath, 2007).
+Menurut Healy dan Palepu (2003) ada tiga alasan manajemen akan melakukan hal
+tersebut, yaitu, manajer memiliki lebih banyak informasi tentang strategi dan
+operasi bisnis yang dikelolanya, kepentingan manajer yang tidak selaras dengan
+investor, dan tidak sempurnanya aturan akuntansi dan audit.
+
+Menurut teori Cressey ditemukan oleh Dr. Donald R. Cressey (1953) (dikutip oleh
+Skousen et al., 2009), terdapat tiga kondisi yang selalu hadir dalam tindakan
+kecurangan yaitu pressure, opportunity, dan rationalization yang disebut sebagai
+fraud triangle. Ketiga kondisi tersebut merupakan faktor risiko munculnya
+kecurangan dalam berbagai situasi. Komponen kecurangan tidak dapat diteliti
+secara langsung maka harus mengembangkan variabel dan proksi untuk
+mengukurnya. Variabel independen yang dapat digunakan dalam mendeteksi
+kecurangan laporan keuangan antara lain: jumlah komisaris independen, rasio arus
+kas bebas, rasio perubahan aset, return on assets dan kepemilikan saham orang
+dalam.
+
+Penelitian terdahulu telah dilakukan di Indonesia untuk mendeteksi laporan
+keuangan menggunakan fraud triangle, salah satunya penelitian yang dilakukan
+oleh Kurniawati (2009) melakukan penelitian dengan judul Analisis Faktor-Faktor
+yang mempengaruhi Financial Statement Fraud dalam perfekstif Fraud Triangle,
+Penelitian ini dilakukan terhadap 16 Perusahaan Manufaktur yang bergerak di
+sektor Makanan dan minuman dengan periode penelitian 2007-2008 dengan 32
+observasi item laporan keuangan, Alat analisis dalam penelitian ini adalah regresi
+linier berganda sebagai alat perhitungannya. Hasil penelitian menunjukkan bahwa
+variabel external pressure yang diproksikan dengan rasio arus kas bebas tidak
+berpengaruh terhadap financial statement fraud. Penelitian ini juga menunjukkan
+bahwa variabel financial targets yang diproksikan dengan Return On Asset
+berpengaruh terhadap financial statement fraud. Penelitian ini juga membuktikan
+bahwa variabel financial stability yang diproksikan dengan rasio perubahan total asset berpengaruh terhadap financial statement fraud, dan variabel innefective
+monitoring yang diproksikan dengan rasio dewan komisaris independen memiliki
+pengaruh terhadap financial statement fraud.
+Peneliti ingin melakukan penelitian kembali tentang pengaruh komponen fraud
+triangle terhadap kecurangan laporan keuangan. Penelitian yang akan dilakukan
+merupakan pembuktian dari penelitian yang dilakukan Kurniawati (2009).
+Perbedaan dari penelitian sebelumnya yang pertama, Penulis memperpanjang
+tahun pengamatan menjadi 3 Tahun penelitian yang dilakukan pada periode
+terbaru dengan harapan hasil penelitian ini menjadi lebih aktual dibandingkan
+dengan penelitian sebelumnya, perbedaan selanjutnya adalah penulis
+menambahkan variabel Personal Financial Need sebagai variable yang diduga
+mempengaruhi kecurangan dalam laporan keuangan, alasan penulis memilih
+kecurangan laporan keuangan menjadi tema dalam penelitian ini karena
+kecurangan laporan keuangan yang tidak terdeteksi dapat berkembang menjadi
+skandal besar yang merugikan banyak pihak.
+
+Selanjutnya penulis menggunakan seluruh perusahaan sektor konsumsi yang go
+public yang akan menjadi populasi penelitian ini, diambilnya sektor konsumsi
+menjadi objek penelitian ini karena sektor konsumsi merupakan sektor yang tidak
+rentan dari resiko kerugian, seperti yang diungkapkan berikut, Bagian Riset saham
+Harian Bisnis Indonesia dalam laporannya yang berjudul Pasar Prospek Finansial
+Asia Pasifik 2014 menyatakan bahwa pertumbuhan tingkat pengembalian (return)
+pasar saham Indonesia sepanjang tahun 2013 naik menjadi 16,08% dari 14,71% pada tahun 2012. Di sektor konsumsi, dalam beberapa bulan terakhir tahun 2013
+sampai dengan Maret 2014 telah terjadi peningkatan penjualan dan produksi, yang
+berdampak kepada peningkatan kinerja yang secara rata-rata sebesar 5,85% dari
+target 6,8%. Hal ini mengakibatkan alokasi investasi investor asing ke Indonesia
+menjadi meningkat, berdasarkan data yang dikeluarkan oleh Departemen
+Perindustrian (Kompas, 2014).
+
+Berdasarkan uraian di atas, maka penulis tertarik melakukan penelitian yang
+bertujuan mendeteksi kecurangan laporan keuangan menggunakan analisis fraud
+triangle dengan judul penelitian sebagai berikut “Pendeteksian Kecurangan
+Laporan Keuangan Pada Perusahaan Konsumsi di Bursa Efek Indonesia”.
+
+1.2 Perumusan dan Batasan Masalah
+1.2.1 Perumusan Masalah
+Pendeteksian terhadap kecurangan laporan keuangan tidak selalu mendapatkan
+titik terang karena berbagai motivasi yang mendasarinya serta banyaknya metode
+untuk melakukan kecurangan laporan keuangan (Brennan dan McGrath, 2007).
+Berdasarkan latar belakang yang telah diuraikan di atas. Maka perumusan masalah
+pada penelitian ini adalah:
+1. Apakah jumlah komisaris independen berpengaruh terhadap kecurangan
+laporan keuangan pada Perusahaan di Bursa Efek Indonesia?
+2. Apakah rasio arus kas bebas berpengaruh terhadap kecurangan laporan
+keuangan pada Perusahaan di Bursa Efek Indonesia?
+3. Apakah rasio perubahan aset berpengaruh terhadap kecurangan laporan
+keuangan pada Perusahaan di Bursa Efek Indonesia?
+
+4. Apakah return on assets berpengaruh terhadap kecurangan laporan
+keuangan pada Perusahaan di Bursa Efek Indonesia?
+5. Apakah kepemilikan saham orang dalam berpengaruh terhadap
+kecurangan laporan keuangan pada Perusahaan di Bursa Efek Indonesia?
+
+1.2.2 Batasan Masalah
+Batasan masalah dilakukan agar penelitian dan pembahasanya lebih terarah,
+sehingga hasilnya tidak bias dan sesuai dengan harapan peneliti. Adapun ruang
+lingkup penelitiannya adalah menguji komponen Fraud Triangle yang diuraikan
+menjadi jumlah komisaris independen, rasio arus kas bebas, rasio perubahan aset,
+return on assets dan kepemilikan saham orang dalam terhadap kecurangan
+laporan keuangan pada perusahaan konsumsi di Bursa Efek Indonesia Periode
+2011-2013.
+
+1.3 Tujuan dan Manfaat Penelitian
+1.3.1 Tujuan Penelitian
+Berdasarkan permasalahan yang penulis kemukakan di atas, maka dapat
+dijelaskan tujuan dari penelitian ini adalah: Membuktikan secara empiris
+pengaruh jumlah komisaris independen, rasio arus kas bebas, rasio perubahan
+aset, Return on Assets dan kepemilikan sebagian saham oleh orang dalam
+terhadap kecurangan laporan keuangan pada perusahaan konsumsi di Bursa Efek
+Indonesia.
+
+1.3.2 Manfaat Penelitian
+1.3.2.1 Manfaat Teoritis
+- Hasil penelitian ini diharapkan dapat memperluas wawasan dan
+pengetahuan serta bukti empiris mengenai pengaruh penerapan Fraud
+Triangle terhadap kecurangan laporan keuangan.
+- Penelitian ini diharapkan dapat memberikan tambahan pengetahuan dan
+wawasan bagi mereka yang akan melakukan penelitian lebih lanjut
+mengenai kecurangan laporan keuangan.
+
+1.3.2.2 Manfaat Praktis
+- Penelitian ini diharapkan dapat memberikan informasi mengenai
+kecurangan laporan keuangan yang diterapkan oleh perusahaan.
+- Memberikan masukkan kepada para investor sehingga dapat dijadikan
+sebagai salah satu dasar dalam pengambilan keputusan investasi.

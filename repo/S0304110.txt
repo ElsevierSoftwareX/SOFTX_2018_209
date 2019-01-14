@@ -1,0 +1,441 @@
+﻿Penelitian ini bertujuan untuk menganalisis pengaruh dana transfer Dana Alokasi
+Umum (DAU) dan Dana Bagi Hasil (DBH), Pendapatan Asli Daerah (PAD) dan
+Jumlah Penduduk terhadap Belanja Daerah pemerintah kabupaten/kota di Provinsi
+Lampung. Mengetahui dan menganalisis apakah flypaper effect terjadi pada
+belanja pemerintah kabupaten/kota di provinsi Lampung. Menganalisis apakah
+flypaper effect terjadi pada daerah dengan PAD tinggi atau daerah dengan PAD
+rendah.
+Metode yang digunakan dalam penelitian ini adalah menggunakan regresi linier
+berganda Log Natural (Ln) dengan data panel pada 10 (sepuluh) kabupaten/kota di
+Provinsi Lampung selama periode tahun 2006-2012. Data diperoleh dari Laporan
+Realisasi Belanja Daerah pada Laporan Keuangan Pemerintah Daerah yang telah
+diaudit BPK RI dan diserahkan ke DJPK Kemenkeu RI, melalui situs
+http://www.djpk.depkeu.go.id/datadjpk/47/ dan Lampung Dalam Angka yang
+diterbitkan Badan Pusat Statistik.
+Hasil penelitian menunjukkan bahwa PAD, DBH, dan DAU secara bersama-sama
+berpengaruh signifikan terhadap Belanja Daerah kabupaten/kota di Provinsi
+Lampung ; secara parsial PAD dan DAU berpengaruh signifikan dan memiliki
+hubungan positif terhadap belanja daerah, sedangkan DBH secara statistik tidak
+berpengaruh terhadap belanja daerah kabupaten/kota di Provinsi Lampung.
+Variabel Jumlah Penduduk (PDK) dihilangkan dari model regresi karena memiliki
+hubungan linier (multikolinearitas) yang kuat dengan variabel bebas DAU. Nilai
+koefisien DAU lebih besar dari nilai koefisien PAD dan keduanya signifikan, hal
+ini menunjukkan telah terjadi flypaper effect pada belanja daerah kabupaten/kota
+di Provinsi Lampung. Fenomena flypaper effect di Provinsi Lampung tidak
+membedakan kabupaten/kota yang memiliki derajat otonomi fiskal (DOF) rendah
+atau tinggi, karena secara statistik perilaku keduanya dalam membiayai belanja
+daerahnya sama-sama bergantung kepada DAU.
+Kata kunci : Flypaper Effect, DAU, DBH, PAD, Jumlah Penduduk, Belanja
+Daerah.
+
+
+I. PENDAHULUAN
+A. Latar Belakang
+Indonesia memasuki babak baru pengelolaan pemerintahan dari sistem sentralisasi
+menjadi sistem desentralisasi. Bentuk pelaksanaan sistem desentralisasi dimulai
+dengan diberlakukannya otonomi daerah sesuai amanat Undang-Undang Nomor
+22 Tahun 1999 tentang Pemerintahan Daerah dan Undang-Undang Nomor 25
+Tahun 1999 tentang Perimbangan Keuangan Antara Pemerintah Pusat dan
+Pemerintah Daerah, yang mengatur tentang Otonomi Daerah dan Desentralisasi
+Fiskal (Adi, 2006)
+Otonomi daerah mulai dilaksanakan pada awal tahun 2001 dalam rangka
+menyelenggarakan urusan pemerintah yang lebih efisien, efektif dan bertanggung
+jawab. Implementasi otonomi daerah diharapkan dapat meningkatkan
+kesejahteraan dan pelayanan kepada masyarakat, pengembangan kehidupan
+berdemokrasi, keadilan, pemerataan dan pemeliharaan hubungan yang serasi
+antara pusat dan daerah, serta antar daerah (Sidik, 2002).
+Kebijakan otonomi di satu sisi disambut baik oleh sebagian pemerintah daerah,
+namun di sisi lain justru direspon sebaliknya dikarenakan belum siapnya daerah
+memasuki era ini karena rendahnya kapasitas fiskal daerah (Adi, 2007). Terkait
+dengan hal tersebut, pemerintah pusat turut campur tangan melalui pemberian
+transfer dana perimbangan bagi daerah.
+
+Transfer antar pemerintah merupakan fenomena umum yang terjadi di semua
+negara di dunia terlepas dari sistem pemerintahannya (Fisher dalam Kuncoro,
+2007) dan bahkan sudah menjadi ciri yang paling menonjol dari hubungan
+keuangan antara pusat dan daerah. Tujuan utama pemberian dana transfer adalah
+untuk mengatasi kesenjangan fiskal antara pemerintah pusat dengan pemerintah
+daerah, kesenjangan fiskal antar pemerintah daerah, perbaikan sistem perpajakan,
+dan koreksi ketidak-efisienan fiskal (Oates, 1999). Daerah diharapkan mampu
+mengoptimalkan pengelolaan sumber daya tersebut sehingga terjadi peningkatan
+kapasitas fiskal, serta mampu mengurangi ketergantungan kepada pemerintah
+pusat untuk menjadi lebih mandiri (Adi dan Dewi, 2009).
+Dalam perkembangannya tingkat kemandirian daerah justru tidak mengalami
+perbaikan, bahkan cenderung mengalami penurunan. Tingkat kemandirian daerah
+dalam era otonomi justru mengalami penurunan (Adi, 2007). Pemerintah daerah
+semakin menggantungkan diri pada dana alokasi umum (DAU) daripada
+mengupayakan peningkatan pendapatan asli daerah (Wibowo, 2007). Alokasi
+transfer di negara-negara sedang berkembang pada umumnya lebih banyak
+didasarkan pada aspek belanja tetapi kurang memperhatikan kemampuan
+pengumpulan pajak lokal (Naganathan dan Sivagnanam, 1999). Akibatnya dari
+tahun ke tahun pemerintah daerah selalu menuntut transfer yang lebih besar lagi
+dari pusat (Shah, 1994), bukannya mengeksplorasi basis pajak lokal secara lebih
+optimal (Oates, 1999). Keadaan ini juga ditemui pada kasus pemerintah kota dan
+kabupaten di Indonesia. Secara nasional data menunjukkan proporsi pendapatan
+asli daerah (PAD) hanya mampu membiayai belanja pemerintah daerah paling
+tinggi sebesar 20 persen (DJPK, 2012).
+
+
+Pajak daerah dan retribusi daerah seyogyanya mampu membiayai belanja
+pemerintah daerah, walaupun sesungguhnya bukan berarti daerah harus mampu
+membiayai semua belanjanya dari PAD, karena bukan itu yang dimaksud dengan
+kemandirian keuangan daerah. Hal yang penting dalam konteks otonomi daerah
+adalah adanya sumber penerimaan yang cukup signifikan bagi daerah untuk
+memanfaatkannya secara leluasa (Simanjuntak, 2001).
+Dana perimbangan (dana transfer) memberikan kontribusi terbesar terhadap
+pendapatan daerah kabupaten kota di Provinsi Lampung tahun 2013, yaitu sebesar
+78,88% atau Rp 10.297,26 milyar, sedangkan lain-lain pendapatan daerah yang
+sah sebesar 15,18% atau Rp 1.981,10 milyar, dan pendapatan asli daerah
+memberikan kontribusi terendah yaitu sebesar 5,94% atau Rp 775,75 milyar.
+
+
+Dengan memperhatikan data tersebut, maka terlihat bahwa ketergantungan
+pemerintah kabupaten kota di Provinsi Lampung terhadap dana-dana perimbangan
+masih sangat tinggi dan dominan, karena peran pendapatan asli daerah masih
+relatif kecil.
+Dominannya peran transfer relatif terhadap PAD dalam membiayai belanja
+pemerintah daerah sebenarnya tidak memberikan panduan yang baik bagi
+penyelenggaraan pemerintahan, khususnya terhadap aliran transfer itu sendiri.
+Bukti-bukti empiris secara internasional menunjukkan bahwa tingginya
+ketergantungan pada transfer ternyata berhubungan negatif dengan hasil
+pemerintahannya (Mello dan Barenstrein, 2001). Hal ini berarti pemerintah daerah
+sesungguhnya akan lebih berhati-hati dalam menggunakan dana yang digali dari
+masyarakat sendiri daripada uang bantuan (dana transfer) yang diterima dari
+pusat. Fenomena tersebut memperlihatkan bahwa perilaku fiskal pemerintah
+daerah dalam merespon transfer dari pusat menjadi determinan penting dalam
+menunjang efektivitas kebijakan transfer.
+
+
+Analisis perilaku pemerintah daerah dalam merespon transfer dari pemerintah
+pusat ini telah lama mendapat perhatian yang besar dalam literatur Ekonomi
+Keuangan Daerah (misalnya: Tiebout, 1956; McGuire, 1973; Gramlich, 1977;
+Courant, Gramlich, dan Rubinfeld, 1979; Inman, 1979; Oates, 1979, 1994, 1999;
+Schwallie, 1989; Hines dan Thaler, 1995; Fisher, 1996; Duncombe, 1996; dan
+Rosen, 2002 dalam Kuncoro (2007). Pada tataran empiris, kebanyakan studi pada
+bidang ini masih terfokus pada negara-negara maju, misalnya Gramlich dan
+Galper (1973), Logan, (1986), Stine, (1994), Turnbull (1992, 1998), Gamkhar dan
+Oates (1996), Becker (1996), dan Bailey dan Connolly (1998).
+Di sisi lain bukti-bukti empiris khususnya untuk negara sedang berkembang masih
+sangat kurang. Beberapa studi di negara-negara yang baru mulai menerapkan
+otonomi daerah dan desentralisasi fiskal sudah mulai dilakukan, misalnya oleh
+Slack dan Bird (1983) di Kolombia, Naganathan dan Sivagnanam (1999) di India,
+Gallagher (1999) di El Salvador, Gorodnichenko (2001) di Ukraina, Sagbas
+(2001) di Turki, Wantchekon dan Asadurian (2002) di Nigeria, Doessel dan
+Valadkhani (2002) di Fiji, Lima (2003) di Brazil, dan Alderete (2004) di Meksiko.
+
+
+Beberapa penelitian yang dilakukan di Indonesia menemukan respon pemerintah
+daerah berbeda untuk transfer dan pendapatan sendiri seperti pajak. Ketika
+penerimaan daerah berasal dari transfer, maka stimulasi atas belanja yang
+ditimbulkannya berbeda dengan stimulasi yang muncul dari pendapatan daerah
+terutama pajak daerah. Oates dalam Halim ( 2002) menyatakan bahwa ketika
+respon belanja daerah lebih besar terhadap transfer daripada pendapatannya
+sendiri, maka disebut flypaper effect.
+Istilah flypaper effect pertama kali dikemukakan oleh Courant, Gramlich, dan
+Rubinfeld (1979) dalam Kuncoro (2007), untuk mengartikulasikan pemikiran
+Arthur Okun (1930) yang menyatakan “money sticks where it hits”. Sejauh ini,
+belum ada padanan kata “flypaper effect” dalam bahasa Indonesia, sehingga kata
+ini dituliskan sebagaimana adanya tanpa diterjemahkan.
+Dalam terjemahan bebas menurut Wikipedia.org, flypaper efect adalah konsep di
+bidang keuangan negara yang menunjukkan bahwa hibah pemerintah pusat
+kepada kota atau pemerintah daerah penerima mengakibatkan meningkatnya
+tingkat pengeluaran masyarakat lokal lebih dari peningkatan pendapatan asli
+daerah dalam ukuran setara. Sedangkan menurut Wordpress.com flypaper effect
+adalah suatu fenomena pada suatu kondisi ketika pemerintah daerah merespon
+belanja daerahnya lebih banyak berasal dari transfer atau spesifiknya pada transfer
+tidak bersyarat (unconditional grants) daripada pendapatan asli dari daerahnya
+tersebut sehingga akan mengakibatkan “pemborosan“ dalam belanja daerah.
+Koleman (1996) dalam Purnomo (2012) memberikan penjelasan mengenai efek
+dari transfer tidak bersyarat yaitu; “The recent creation of lump-sum welfare
+grants has renewed interest in the effect of intergovermental aid on state and
+local spending. One of the more consistent findings in the empirical literature is
+that lump-sum aid boosts public expenditure more than equivalent increase in
+private income”. Penjelasan tersebut memberikan gambaran bahwa setiap transfer
+tidak bersyarat yang diberikan pemerintah kepada pemerintah daerah merupakan
+konsekuensi atas otonomi daerah yang berlaku, agar tidak menyebabkan
+kesenjangan dalam pelaksanaan pembangunan daerah, walaupun dalam beberapa
+studi empiris banyak ditemukan bahwa transfer tidak bersyarat mengakibatkan
+peningkatan pengeluaran publik melebihi kenaikan pendapatan masyarakatnya.
+Menurut teori Peacock dan Wiseman dalam Purbayu dan Retno (2005)
+menjelaskan bahwa pemerintah daerah senantiasa berusaha memperbesar
+pengeluaran, sedangkan masyarakat tidak suka membayar pajak yang semakin
+besar untuk membiayai pengeluaran pemerintah yang semakin besar tersebut.
+Secara ideal hal tersebut menyebabkan pemungutan pajak yang semakin
+meningkat walaupun tarif pajak tidak berubah, dan meningkatnya penerimaan
+pajak menyebabkan pengeluaran pemerintah juga semakin meningkat. Oleh
+karena itu dalam keadaan normal, meningkatnya pendapatan domestik masyarakat
+menyebabkan pendapatan asli daerah menjadi semakin besar pula. Hal tersebut
+tenyata tidak selalu ideal dan seolah menyimpang dari konteks riil.
+Ditemukannya fenomena flypaper effect mengidentifikasikan bahwa pemerintah
+daerah dalam memenuhi kebutuhan publik senantiasa cenderung lebih merespon
+atas pengeluaran atau belanja daerahnya dari grants atau transfer, dan lebih
+“berhemat” dalam optimalisasi pengeluaran yang berasal dari pendapatan asli
+daerahnya yang merupakan hasil dari kenaikan pendapatan domestik bruto,
+sehingga akan menciptakan kencenderungan pemborosan belanja daerah.
+Flypaper effect juga mempengaruhi kecenderungan belanja pemerintah daerah
+pada periode selanjutnya, sehingga efek tersebut akan berakibat jangka panjang.
+Turnbull (1998) dalam Purnomo (2011) menjelaskan bahwa setiap transfer yang
+bersifat sepadan dengan peningkatan penerimaan masyarakat akan mengakibatkan
+peningkatan yang lebih besar dalam pemenuhan barang atau kebutuhan publik
+untuk masyarakat, sehingga kecenderungan untuk lebih merespon dari dana
+alokasi umum yang bersifat transfer tidak bersyarat tidak dapat dihindari. Hal
+tesebut bertujuan untuk menutupi pemborosan pengeluaran yang tidak sepadan
+dengan peningkatan pendapatan masyarakat, yang sebagian peningkatan
+pendapatan tersebut disetor ke kas negara dan daerah sebagai pajak atau
+pendapatan asli daerahnya.
+Gamkhar and Oates (1996) dalam Junaidi (2012) meneliti tentang flypaper effect
+pemerintah daerah di Flemish. Hasil penelitiannya menyimpulkan bahwa
+elastisitas belanja daerah berpengaruh signifikan secara berbeda antara pemerintah
+daerah (municipal) yang mengalami kenaikan dengan pemerintah daerah yang
+mengalami penurunan DAU (grants). Ketika terdapat pertumbuhan DAU,
+pemerintah daerah membelanjakan belanja daerahnya melebihi tambahan
+pendapatannya yang berasal dari DAU. Sebaliknya ketika DAU turun, belanja
+daerah tidak ikut turun, lalu untuk mendanai belanjanya pemerintah daerah
+mengkompensasikan penurunan DAU melalui kenaikan pajak.
+
+Barnett (1991) et al (2012), meneliti dengan menggunakan dua model selama
+periode 1986 hingga 1989 di pemerintah daerah di luar kota London Inggris.
+Model penelitian dengan variabel dummy daerah yang memperoleh transfer
+(DAU) besar dengan daerah yang memperoleh transfer kecil, dan tanpa variabel
+dummy (konvensional). Hasil penelitian menyimpulkan baik menggunakan model
+konvensional maupun model flypaper effect bahwa nilai koefisien DAU yang
+lebih besar dari nilai koefisien tax. Dan ketika menggunakan dummy variabel,
+nilai koefisien DAU naik lebih besar dibanding nilai koefisien DAU sebelum
+menggunakan dummy DAU. Hasil kedua model menyimpulkan bahwa terjadi
+flypaper effect.
+Realita dari fenomena di atas mempunyai konsekuensi terhadap pemerintah
+daerah di Indonesia, yaitu pemerintah daerah menjadi kurang termotivasi dalam
+memaksimalkan potensi pendapatan asli daerahnya. Selain itu dana alokasi umum
+dengan sifatnya yang tidak bersyarat mengakibatkan tekanan fiskal pada basis
+pajak lokal akan menurun, yang kemudian menyebabkan penerimaan pajak juga
+mengalami penurunan, sementara pengeluaran untuk memenuhi kebutuhan
+publik tetap meningkat.
+Abdul Halim dan Sukriy Abdullah melakukan pengujian adanya flypaper effect
+pada belanja daerah pemerintah kabupaten/kota di pulau Jawa dan Bali pada tahun
+2001. Dari penelitian tersebut diperoleh kesimpulan bahwa flypaper effect terjadi
+pada DAU periode t-1 terhadap Belanja Daerah periode t. Hasil penelitian
+tersebut tidak dapat digeneralisasikan untuk seluruh wilayah Indonesia, karena
+menurut Halim (2002) pemerintah daerah kabupaten/kota di Jawa-Bali memiliki
+kemampuan keuangan berbeda dengan pemerintah daerah kabupaten/kota di luar
+Jawa-Bali.
+Menanggapi hal tersebut, Mutiara Maimunah melakukan penelitian yang sama
+pada pemerintah daerah kabupaten/kota di pulau Sumatera pada tahun 2003 dan
+2004. Hasil yang diperoleh konsisten dengan penelitian Abdul Halim dan Sukriy
+Abdullah yaitu DAU periode t-1 memiliki pengaruh lebih besar dari pada PAD
+periode t-1 terhadap Belanja Daerah periode t. Namun ketika diuji pengaruh
+DAUt dan PADt secara bersama-sama terhadap Belanja Daerah t, hasilnya PAD
+tidak signifikan dan DAU berpengaruh terhadap Belanja Daerah.
+Diah Ayu Kusumadewi (2007) yang melakukan penelitian tentang flypaper effect
+pada DAU dan PAD terhadap belanja daerah kabupaten kota di Indonesia,
+menyimpulkan bahwa pemerintah daerah dalam menetapkan kebijakan belanjanya
+lebih distimulus oleh jumlah DAU yang diterima tahun berjalan daripada PADnya
+sendiri, sehingga membuktikan adanya flypaper effect dalam respon pemerintah
+daerah terhadap DAU dan PAD.
+Hernawan Bayu Purnomo (2011) pada hasil penelitian tentang flypaper effect
+pada pengaruh transfer tidak bersyarat dan PAD terhadap pertumbuhan ekonomi
+daerah kabupaten kota di Kalimantan tahun 2007-2010 menyimpulkan bahwa
+pemerintah kabupaten kota di Kalimantan cenderung sangat reaktif dan begitu
+mengharapkan dana dari pemerintah pusat daripada mengoptimalkan potensi
+sumberdaya yang ada di daerah seluas-luasnya guna meningkatkan PADnya.
+
+Penelitian Afrizawati (2012) tentang analisis flyapaper effect pada belanja daerah
+kabupaten kota di Sumatera Selatan menyimpulkan bahwa pengaruh DAU
+terhadap belanja daerah lebih besar dibandingkan pengaruh PAD terhadap belanja
+daerah. Hal ini mengindikasikan bahwa prilaku pemerintah daerah yang
+cenderung memanipulasi pengeluaran pemerintah setinggi mungkin dengan tidak
+mengupayakan maksimalisasi PAD agar nantinya memperoleh bantuan transfer
+dari pemerintah pusat, sehingga pemerintah daerah merasa lebih mudah untuk
+memaksimalkan belanja daerah daripada menempuh cara untuk memaksimalkan
+PAD.
+Junaidi (2012) pada penelitiannya tentang asimetri pada flypaper effect; bukti
+empiris pemanfaatan DAU pada pemerintah daerah di Indonesia menyimpulkan
+bahwa terjadi perilaku asimetri pemerintah daerah dalam penggantian fiskal,
+ketika DAU meningkat pemerintah daerah membelanjakan tambahan pendapatan,
+namun ketika jumlah DAU berkurang maka belanja daerah tidak berkurang dan
+pemerintah daerah mengkompensasi pengeluaran tersebut melalui tambahan
+pungutan pajak.
+Haryo Kuncoro (2007) yang melakukan penelitian tentang fenomena flypaper
+effect pada kinerja keuangan pemerintah daerah kota dan kabupaten di Indonesia,
+pada kesimpulan hasil penelitian menemukan fakta bahwa peningkatan alokasi
+transfer diikuti dengan penggalian PAD lebih tinggi. Simpulan ini
+mengindikasikan sikap overaktif pemerintah daerah terhadap arti pentingnya
+transfer. Bagi pemerintah pusat, transfer memang diharapkan menjadi pendorong
+agar pemerintah daerah secara intensif menggali sumber-sumber penerimaan
+daerah sesuai kewenangannya. Namun penggalian PAD yang hanya didasarkan
+pada faktor inkremental akan berakibat negatif pada perekonomian daerah.
+Berdasarkan hasil-hasil penelitian di atas terlihat bahwa masih terdapat perbedaan
+kesimpulan antar para peneliti, hal ini disebabkan tiap-tiap daerah memiliki
+karakteristik tersendiri baik dari sisi geografis, kehidupan masyarakat maupun
+kondisi ekonominya. Untuk melengkapi hasil penelitian terduhulu tersebut, saya
+tertarik melakukan penelitian di daerah Lampung khususnya pada kabupaten dan
+kota di Provinsi Lampung, mengenai pengaruh pendapatan asli daerah dan dana
+transfer terhadap belanja daerah.
+
+B. Perumusan Masalah
+Penelitian ini didasarkan pada analogi bahwa transfer pemerintah pusat yaitu dana
+alokasi umum (DAU) dan dana bagi hasil (DBH) kepada pemerintah daerah,
+seharusnya menjadi insentif bagi pemerintah daerah untuk membiayai belanja
+daerah. Adanya peningkatan belanja daerah (seperti pembangunan infrastruktur
+publik) akan meningkatkan pendapatan asli daerah (PAD), sehingga secara
+bertahap pemerintah pusat mengurangi dana transfer tersebut. Kenyataan yang
+terjadi adalah jumlah transfer pemerintah pusat kepada pemerintah daerah
+semakin meningkat tiap tahunnya. Kondisi ini dibarengi dengan rendahnya
+peningkatan PAD pada periode yang sama.
+
+Proporsi PAD, Dana Perimbangan, dan Lain-lain Pendapatan Daerah Yang
+Sah untuk tahun anggaran 2009 sampai dengan 2013 kabupaten kota se-
+Provinsi Lampung terhadap total pendapatan daerah menggambarkan bahwa
+porsi dana perimbangan terhadap total pendapatan daerah sangat dominan
+setiap tahunnya, hal ini mempertegas bahwa pemerintah kabupaten kota di
+Provinsi Lampung masih sangat tergantung dari dana perimbangan.
+Belanja daerah pada dasarnya merupakan fungsi dari penerimaan daerah (Priyo,
+2009). Belanja merupakan variabel terikat yang besarannya akan sangat
+bergantung pada sumber-sumber pembiayaan daerah, baik yang berasal dari
+penerimaan sendiri maupun dari transfer pemerintah pusat. Pertambahan besarnya
+komponen penerimaan seharusnya mempunyai hubungan positif dengan belanja,
+namun bila terjadi hal yang sebaliknya maka diindikasikan terjadi flypaper effect
+(Priyo, 2009).
+Transfer merupakan sarana edukasi bagi pemerintah daerah untuk meningkatkan
+upaya pengumpulan PAD (Sidik, 2001). Melalui pengumpulan PAD itulah
+pemerintah daerah memperoleh penerimaan, dimana penerimaan inilah yang
+kemudian dibelanjakan pemerintah daerah. Indikasi munculnya flypaper effect
+diperkirakan akan mempengaruhi kemampuan daerah dalam menggali PAD-nya.
+Penduduk merupakan subyek pembangunan, meningkatnya jumlah penduduk
+menuntut konsekuensi adanya peningkatan sarana dan prasarana umum, baik dari
+aspek kuantitas maupun kualitas. Perkembangan jumlah penduduk yang semakin
+besar akan memerlukan anggaran yang semakin besar. Agar kualitas pertumbuhan
+ekonomi lebih baik maka pertumbuhan penduduk harus selalu dikendalikan.
+Berdasarkan hal-hal di atas, maka rumusan masalah yang diajukan adalah:
+1. Bagaimanakah dana transfer DAU dan DBH, PAD dan jumlah penduduk
+berpengaruh terhadap belanja pemerintah kabupaten/kota di Provinsi
+Lampung?
+2. Apakah flypaper effect terjadi pada pengelolaan keuangan daerah
+kabupaten/kota di Provinsi Lampung dalam kurun waktu 2006 – 2012?
+3. Apakah flypaper effect terjadi pada daerah dengan PAD tinggi atau daerah
+dengan PAD rendah.
+C. Tujuan dan Manfaat Penelitian
+Berdasarkan latar belakang dan perumusan masalah di atas, maka tujuan
+diadakannya penelitian ini adalah:
+1. Menganalisis pengaruh dana transfer DAU dan DBH, PAD dan jumlah
+penduduk terhadap belanja pemerintah kabupaten/kota di Provinsi Lampung.
+
+2. Mengetahui dan menganalisis apakah flypaper effect terjadi pada belanja
+pemerintah kabupaten/kota di Provinsi Lampung.
+3. Menganalisis apakah flypaper effect terjadi pada daerah dengan PAD tinggi
+atau daerah dengan PAD rendah.
+Penelitian ini nantinya diharapkan dapat memberikan manfaat:
+1. Bagi pemerintah, penelitian ini diharapkan dapat menjadi bukti empiris
+mengenai penerapan sistem perimbangan keuangan antara pemerintah pusat
+dengan pemerintah daerah yang tengah berjalan dan dapat dijadikan acuan
+dalam menetapkan kebijakan selanjutnya.
+2. Bagi masyarakat dan dunia pendidikan, penelitian ini diharapkan dapat berguna
+sebagai khazanah pengetahuan mengenai pengelolaan keuangan daerah,
+khususnya kontribusi teori sebagai bahan referensi dan tambahan informasi
+empiris bagi peneliti-peneliti lainnya yang tertarik pada bidang kajian ini.
+D. Kerangka Pemikiran
+Berdasarkan Undang-Undang Nomor 17 Tahun 2003 tentang Keuangan Negara
+pasal 16 ayat (2) dinyatakan bahwa “APBD terdiri atas anggaran pendapatan,
+anggaran belanja dan pembiayaan” ; selanjutnya pada pasal 17 ayat (3) dan ayat
+(4) disebutkan bahwa “ dalam hal anggaran diperkirakan difisit, ditetapkan
+sumber-sumber pembiayaan untuk menutup defisit tersebut dalam Peraturan
+Daerah tentang APBD; dalam hal anggaran diperkirakan surplus, ditetapkan
+penggunaan surplus tersebut dalam Peraturan Daerah tentang APBD”. Dengan
+demikian, untuk memenuhi kebutuhan masyarakat akan pelayanan publik melalui
+penyelenggaraan pemerintahan dan pembangunan, pemerintah daerah dalam
+menyusun APBD menerapkan prinsip anggaran berimbang. Apabila terjadi
+ketidak seimbangan anggaran, misalnya penerimaan lebih kecil daripada
+belanjanya, maka defisit anggaran akan ditutupi dengan pinjaman daerah atau
+mengajukan tambahan transfer kepada pemerintah pusat. Dalam kasus penerimaan
+lebih besar daripada belanjanya, pemerintah daerah mempunyai sisa lebih yang
+akan digunakan untuk membiayai belanjanya pada tahun anggaran berikutnya.
+Oleh karena itu dengan prinsip anggaran berimbang maka total penerimaan (TP)
+adalah sama dengan total belanja (BD). Belanja daerah pada dasarnya merupakan
+fungsi dari penerimaan daerah (Priyo, 2009). Belanja merupakan variabel terikat
+yang besarannya akan sangat bergantung pada sumber-sumber pembiayaan
+daerah, baik yang berasal dari penerimaan sendiri maupun dari transfer
+pemerintah pusat.
+Sementara itu anggaran total penerimaan pemerintah daerah secara garis besar
+terdiri dari pendapatan asli daerah (PAD), dana transfer (DA) dan penerimaan
+pembiayaan lainnya (PPb). Dana transfer terdiri atas transfer dana bagi hasil
+(DBH) dan transfer dana alokasi umum (DAU) dan dana alokasi khusus (DAK).
+Mempertimbangan hal-hal bahwa 1) dana alokasi khusus adalah dana transfer
+yang penggunaanya diatur khusus oleh pemerintah pusat sehingga pemerintah
+daerah tidak dapat menggunakan dananya untuk kegiatan penyelenggaraan
+pemerintahan lainnya selain seperti yang sudah diatur dalam petunjuk teknis; 2)
+selain proporsinya yang relatif kecil dalam anggaran penerimaan pemerintah
+daerah dan tidak semua pemerintah daerah menggunakan pinjaman daerah untuk
+menutup defisit, maka PPb diasumsikan bersifat eksogen (nilainya ditentukan di
+luar model analisis) , sehingga variabel DAK dan PPb dikeluarkan dari model.
+
+Penduduk (PDK) merupakan subyek pembangunan, meningkatnya jumlah
+penduduk menuntut konsekuensi adanya peningkatan sarana dan prasarana umum,
+baik dari aspek kuantitas maupun kualitas. Perkembangan jumlah penduduk yang
+semakin besar memerlukan anggaran yang semakin besar, sehingga belanja
+daerah untuk penyediaan sarana dan prasarana umum yang dibutuhkan penduduk
+juga semakin besar.
+Kesimpulan hasil penelitian Hadi Sasana (2011), menjelaskan bahwa determinan
+belanja daerah di Kabupaten/Kota Provinsi Jawa Barat dalam era otonomi daerah
+dan desentralisasi fiskal terdiri dari produk domestik regional bruto riil, dana
+perimbangan (DAU dan DBH), pendapatan asli daerah dan jumlah penduduk.
+Berdasarkan penelitian yang dilakukan oleh Diah Ayu Kusumadewi (2007)
+tentang flypaper effect pada DAU dan PAD terhadap belanja daerah kabupaten
+kota di Indonesia, menyimpulkan bahwa pemerintah daerah dalam menetapkan
+kebijakan belanjanya lebih distimulus oleh jumlah DAU yang diterima tahun
+berjalan daripada PADnya sendiri, sehingga membuktikan adanya flypaper effect
+dalam respon pemerintah daerah terhadap DAU dan PAD.
+Hernawan Bayu Purnomo (2011) pada hasil penelitian tentang flypaper effect
+pada pengaruh transfer tidak bersyarat dan PAD terhadap pertumbuhan ekonomi
+daerah kabupaten kota di Kalimantan tahun 2007-2010, menyimpulkan bahwa
+pemerintah kabupaten kota di Kalimantan cenderung sangat reaktif dan begitu
+mengharapkan dana dari pemerintah pusat daripada mengoptimalkan potensi
+sumberdaya yang ada di daerah seluas-luasnya guna meningkatkan PADnya.
+Junaidi (2012) pada penelitiannya tentang asimetri pada flypaper effect; bukti
+
+empiris pemanfaatan DAU pada pemerintah daerah di Indonesia menyimpulkan
+bahwa terjadi perilaku asimetri pemerintah daerah dalam penggantian fiskal,
+ketika DAU meningkat pemerintah daerah membelanjakan tambahan pendapatan,
+namun ketika jumlah DAU berkurang maka belanja daerah tidak berkurang dan
+pemerintah daerah mengkompensasi pengeluaran tersebut melalui tambahan
+pungutan pajak. Selanjutnya Haryo Kuncoro (2007) yang melakukan penelitian
+tentang fenomena flypaper effect pada kinerja keuangan pemerintah daerah kota
+dan kabupaten di Indonesia, menemukan fakta bahwa peningkatan alokasi
+transfer diikuti dengan penggalian PAD lebih tinggi.
+Berdasarkan uraian di atas, maka secara ringkas kerangka pemikiran dalam
+penelitian ini dapat dirumuskan sebagaimana pada Gambar 1.1. di bawah ini.
+
+
+Untuk mengetahui perilaku pemerintah daerah dalam merealisasikan belanja
+daerahnya sekaligus deteksi terhadap fenomena flypaper effect, maka dalam
+penelitian ini akan menggunakan data realisasi belanja daerah, realisasi
+penerimaan Dana Bagi Hasil Pajak/Bukan Pajak dan Dana Alokasi Umum yang
+diterima kabupaten kota Provinsi Lampung dari pemerintah pusat, realisasi
+penerimaan pendapatan asli daerah, dan jumlah penduduk kabupaten kota di
+Provinsi Lampung.
+E. Hipotesis
+Berdasarkan latar belakang, rumusan masalah, dan kerangka pemikiran di atas,
+maka dirumuskan hipotesis sebagai berikut :
+1. Diduga dana transfer DAU, dana transfer DBH, PAD dan jumlah penduduk
+berpengaruh posistif terhadap belanja daerah kabupaten/kota di Provinsi
+Lampung.
+2. Diduga telah terjadi flypaper effect pada belanja pemerintah daerah
+kabupaten/kota di Provinsi Lampung.
+3. Diduga flypaper effect terjadi pada belanja pemerintah daerah kabupaten/kota
+yang PAD-nya rendah dan tinggi.
+F. Ruang Lingkup Penelitian
+Dalam penulisan tesis ini, untuk lebih terarah dan tercapainya tujuan, maka
+penulis melakukan pembatasan ruang lingkup penelitian sebagai berikut :
+
+1. Penulis membahas dan menganalisis perilaku pemerintah daerah dalam
+merespon alokasi dana transfer dari pemerintah pusat yaitu dana bagi hasil
+(DBH), dan dana alokasi umum (DAU) serta penerimaan daerah yang
+bersumber dari pendapatan asli daerah (PAD) dan jumlah penduduk terhadap
+belanja daerah kabupaten kota di Provinsi Lampung, yang mengakibatkan
+terjadinya flypaper effect.
+2. Penulis membatasi memilih 10 daerah Kabupaten/Kota di Provinsi Lampung
+yaitu Kab. Lampung Selatan, Kab. Lampung Tengah, Kab. Lampung Utara,
+Kab. Lampung Timur, Kab. Lampung Barat, Kab. Way Kanan, Kab. Tulang
+Bawang, Kab. Tanggamus, Kota Bandar Lampung dan Kota Metro.
+Pemilihan pada 10 Kabupaten/Kota ini dilakukan dengan pertimbangan
+bahwa umur kebupaten/kota sudah sama atau diatas 10 tahun, sehingga
+dengan rentang waktu yang relatif lama maka data penelitian akan semakin
+bervariasi.

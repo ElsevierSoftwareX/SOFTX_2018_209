@@ -1,0 +1,408 @@
+﻿Prediksi Kandungan Kimia Mangga Arumanis selama Penyimpanan
+dengan Spektroskopi NIR
+
+Abstrak
+Kualitas internal dari produk buah dan sayuran mampu dievaluasi dengan baik secara non destruktif
+menggunakan metode spektroskopi near infrared. Tujuan dari penelitian ini adalah untuk mengembangkan
+model kalibrasi untuk memprediksi kandungan pati, total padatan terlarut dan kadar air buah mangga
+selama penyimpanan menggunakan spektroskopi near infrared dan kemometrik. Spektra reflektan buah
+mangga diukur pada panjang gelombang 1000 nm sampai 2500 nm. Pengaruh metode pra-proses data
+yaitu penghalusan 3 titik, turunan pertama Savitzky-golay 9 titik, serta kombinasi penghalusan 3 titik
+dengan turunan pertama Savitzky-golay 9 titik terhadap ketelitian model kalibrasi juga dianalisis. Model
+prediksi dikembangkan dengan menggunakan regresi partial least square (PLS). Model prediksi dengan
+spektroskopi near infrared yang dikembangkan menghasilkan koefisien korelasi, standard error calibration
+(SEC) dan konsistensi untuk kandungan pati adalah 0.95, 1.20%, dan 86.89% yang diperoleh dari data praproses
+turunan pertama Savitzky-golay 9 titik, untuk total padatan terlarut, yaitu 0.90, 1.34oBrix, dan 86.24%
+yang diperoleh dengan menggunakan kombinasi antara penghalusan 3 titik dan turunan pertama Savitzkygolay
+9 titik, sedangkan untuk kadar air yaitu 0.78, 0.850%, dan 99.74% diperoleh dengan menggunakan
+penghalusan 3 titik. Dapat disimpulkan bahwa model prediksi spektroskopi near infrared untuk menduga
+kandungan internal dari buah mangga arumanis telah dikembangkan dengan baik.
+Kata kunci: spektroskopi near infrared, kualitas internal, kemometrik, mangga, non destruktif
+
+
+Pendahuluan
+
+Evaluasi kualitas dari sayur dan buah merupakan
+isu yang sangat penting di bidang industri pangan.
+Prediksi ketuaan dan kematangan buah merupakan
+bagian penting dari evaluasi kualitas yang
+tergantung dari beberapa faktor seperti kandungan
+pati, total padatan terlarut dan kadar air. Penentuan
+ketuaan dan kematangan buah didasarkan pada
+pengamatan secara visual, sementara untuk
+evaluasi kualitas internal seperti kadar pati dan
+kadar air menggunakan metode destruktif yang
+memerlukan biaya, waktu pengukuran dan
+melibatkan prosedur pengukuran yang rumit. Untuk
+itu, perlu dikembangkan suatu metode yang efisien
+dan non destruktif untuk mengevaluasi kualitas
+internal buah.
+Menurut Saranwong (2004) yang melakukan
+penelitian hubungan kualitas panen dengan kualitas
+buah mangga saat dikonsumsi menyatakan bahwa
+kandungan pati saat dipanen sangat berpengaruh
+terhadap tingkat kemanisan (total padatan terlarut)
+pada buah saat dikonsumsi. Dengan demikian
+parameter kandungan pati saat dipanen sangat
+penting diketahui untuk memperoleh kualitas
+buah saat dikonsumsi. Tetapi, untuk mengetahui
+kandungan pati saat panen biasanya dilakukan
+dengan cara destruktif (metode konvensional)
+dengan analisa laboraturium sehingga kurang
+sesuai untuk penanganan pasca panen buah segar
+yang memerlukan waktu analisis yang cepat dan
+tanpa merusak produk.
+Kemometrik merupakan pengaplikasian
+matematika, prosedur statistik untuk pengolahan
+data dan evaluasi serta interpretasi data dengan
+jumlah yang besar. Kemometrik berfungsi untuk
+mencari korelasi statistik yang baik antara data
+spektra dengan data parameter kimia yang
+melibatkan pra-proses data serta berbagai prosedur
+untuk proses pengembangan model.
+Spektroskopi near infared merupakan metode
+non destruktif yang cepat, mudah digunakan
+(Day dan Fearn 1982). Salah satu keuntungan
+dari spektroskopi near infared adalah dapat
+menganalisis lebih dari satu parameter kualitas
+secara bersamaan. Spektroskopi near infared
+telah digunakan untuk memprediksi kualitas
+internal dari buah seperti apel (Fan et al. 2009);
+buah pir (Nicolai et al. 2008); buah kiwi (Clark et
+al. 2004); peach (Carlomagno et al. 2004; Golic
+dan Walsh 2006); tomat (Pedro dan Ferreira 2005;
+Shao et al. 2007) dan buah alpukat (Clark et al.
+2003). Pendugaan kualitas mangga untuk varietas
+Gedong gincu selama penyimpanan telah dilakukan
+oleh Purwanto et al. (2013a) untuk parameter pH
+dengan nilai koefisien korelasi 0.9042 dan standard
+error prediction (SEP) 0.12. Selanjutnya Purwanto
+et al. (2013b) menduga secara simultan kandungan
+bahan terlarut, kekerasan dan pH yang dikaitkan
+dengan periode waktu konsumsi mangga yang
+paling optimum. Nilai koefisien korelasi dari model
+prediksi yang dikembangkan dihasilkan masingmasing
+untuk kandungan bahan terlarut, pH dan
+kekerasan adalah 0.756, 0.94 dan 0.89.
+Peralatan spektroskopi near infared telah
+dikembangkan untuk merespon kebutuhan
+analisis yang cepat dan sesuai dengan bentuk
+sampel yang berbeda. Meskipun telah mengalami
+perkembangan, spektroskopi near infared
+modern menghasilkan spektra dalam jumlah yang
+besar sehingga banyak mengandung noise dan
+dipengaruhi oleh jumlah variabel fisik, kimia dan
+struktur sampel. Hal ini menyebabkan terjadinya
+kesulitan dalam membedakan spektra (Blanco and
+Villarroya 2002). Spektra near infared mempunyai
+rentang yang besar dan bertumpuk, sehingga tidak
+mungkin dilakukan evaluasi hanya dengan melihat
+grafik panjang gelombangnya. Pada teknologi
+spektroskopi near infared, analisis kemometrik
+memainkan peranan yang penting dalam
+menganalisis spektra yang tumpang tindih. Partial
+Least Square (PLS) merupakan teknik kemometrik
+yang dapat menganalisis informasi besar yang
+tersembunyi dalam data spektra. PLS digunakan
+untuk memperkirakan serangkaian peubah tidak
+bebas (respon) dari peubah bebas (prediktor) yang
+jumlahnya sangat banyak, memiliki struktur sistemik
+linier atau nonlinier dengan atau tanpa data yang
+hilang dan memiliki kolinearitas yang tinggi. Metode
+PLS membentuk model dari peubah-peubah yang
+ada untuk membentuk serangkaian respon dengan
+menggunakan regresi kuadrat terkecil dalam bentuk
+matriks.
+Data spektra yang diperoleh dari spektrometer
+near infared tidak hanya mengandung informasi
+sampel akan tetapi juga mengandung informasi
+latar belakang dan noise (Cen dan He 2007), oleh
+karena itu perlu dilakukan pra-proses sebelum
+membangun model kalibrasi. Pra-proses merupakan
+suatu langkah transformasi data untuk memperbaiki
+spektrum yang kurang baik akibat pembauran cahaya
+saat akuisisi data near infared, noise, gangguan
+dari lingkaran luar serta masalah lainnya sehingga
+menyebabkan informasi yang terkandung dalam
+spektrum menjadi sulit untuk ditelaah. Berbagai
+jenis pra-proses yang biasa dimanfaatkan dalam
+pengolahan data NIR spektroskopi diantaranya
+first derivative Savitsky Golay 9 points (dg1) and
+smoothing 3 points (sa3). Puncak dan lembah
+spektra akan menjadi jelas dengan menggunakan
+dg1 dibandingkan dengan spektra asli (Cen dan
+He 2007). Meskipun penelitian near infared untuk
+buah-buahan sudah banyak dilakukan, namun
+penelitian near infared untuk prediksi kandungan
+kimia mangga arumanis belum dilakukan. Tujuan
+dari penelitian ini adalah mengkaji penggunakan
+spektroskopi near infared dan kemometrik untuk
+memprediksi kandungan kimia mangga ‘Arumanis’
+selama penyimpanan menggunakan metode PLS.
+
+Bahan dan Metode
+Persiapan Bahan
+
+Bahan penelitian berupa mangga ‘Arumanis’
+berasal dari kebun di Indramayu, Jawa Barat dengan
+umur panen 105, 98, 91 dan 84 hari. Pengelompokan
+umur panen ditentukan dari indeks panen secara
+visual berdasarkan pengalaman operator panen
+mangga ‘Arumanis’ dengan pertimbangan tujuan
+pasar. Proses pemanenan mangga dilakukan
+pada pagi hari, selanjutnya sampel buah mangga
+dibungkus dengan koran dan disusun ke dalam
+kardus yang telah dilubangi setiap sisinya.
+Sampel buah mangga diangkut ke Laboratorium
+menggunakan transportasi darat pada kondisi suhu
+ruang dengan waktu perjalanan 8 jam. Setelah
+sampai di Laboratorium, buah mangga diletakkan
+di suhu ruang dan dilakukan sortasi untuk memilih
+sampel yang baik untuk masing-masing kelompok
+umur panen. Untuk masing-masing kelompok
+umur panen digunakan 20 sampel buah mangga
+yang dibagi menjadi 4 untuk sampel pengukuran
+spektra dan pengukuran parameter kualitas secara
+destruktif pada hari penyimpanan ke 0, 3, 6 dan 9.
+
+Akuisisi Data Spektrum NIR
+
+Reflektan NIR pada buah mangga diukur di 3
+titik yang berbeda sebanyak 1 ulangan, dengan
+menggunakan spektrometer NIRFlex N-500, fiber
+optik solid dengan panjang gelombang 1000-2500
+nm dengan interval 0.4 nm. Pengukuran dilakukan
+pada kondisi suhu ruang (25OC). Prinsip pengukuran
+spektra adalah menembakkan cahaya dari
+lampu halogen ke sampel. Sebagian energi yang
+dipantulkan akan diterima oleh detektor sebagai
+data frekuensi getaran dan ditransformasikan
+dengan metode fourier menjadi grafik dan reflektan
+(R) menjadi absorban (log 1/R). Data reflektan yang
+telah diukur disimpan dalam database NIRCal 5.2
+yang merupakan program olah data yang terintegrasi
+dengan spektrometer NIRFlex N- 500.
+
+Pengukuran Parameter Kimia
+
+Pengukuran parameter kualitas secara destruktif
+terdiri dari kandungan pati, TPT (total padatan
+terlarut), dan kadar air. Pengukuran kandungan
+pati (Kim et al. 2003) dilakukan dengan mengambil
+daging buah sekitar 1g, kemudian dibekukan dan
+dilakukan homogenisasi dengan menambah 10
+ml air. Padatan tersuspensi disaring dengan filter
+Millipore "Biomax-10" (10.000 batas nominal berat
+molekul) pada 5000g, selama 90 menit. Kemudian
+diinjeksikan alikuot 10 μL ke kromatografi (HPLC).
+TPT diukur menggunakan alat refractometer.
+Bahan terlebih dahulu dihaluskan dengan cara
+ditumbuk. Setelah itu, cairan dari sampel yang
+telah ditumbuk diletakkan diatas obyek gelas yang
+terdapat pada alat sehingga total padatan terlarut
+dapat terbaca langsung pada display dalam satuan
+OBrix. Pengukuran kadar air sampel mangga
+arumanis dilakukan dengan menggunakan metode
+pengeringan (thermogravitimetri) berdasarkan SNI
+01-3751-2006. Pengukuran kadar air dilakukan
+dengan oven pada suhu 105oC selama 26 jam.
+
+Pra-Proses Data
+
+Pada penelitian ini spektra near infared diolah
+dengan menggunakan pra-proses penghalusan
+setiap 3 titik (sa3), derivatif pertama Savitzky-golay
+9 titik (dg1), dan kombinasi penghalusan setiap 3
+titik dengan derivatif pertama Savitzky-golay 9 titik
+(sa3 dan dg1). Selanjutnya dilakukan kalibrasi dan
+validasi dengan kandungan kimia kandungan pati,
+TPT dan kadar air menggunakan PLS. Pra-proses
+dg1 merupakan metode untuk menghitung turunan
+orde pertama dan orde yang lebih besar yang
+meliputi faktor smoothing didalamnya, sehingga
+dapat menentukan seberapa besar variabel
+yang berdekatan untuk memprediksi pendekatan
+polinomial pada suatu turunan (Karoui et al. 2006).
+Sa3 berfungsi untuk memilih penghalusan fungsi
+dengan teliti tanpa menghilangkan informasi
+spektrum yang ada, mengurangi guncangan
+(noise), dan memperkecil galat (kekeliruan) yang
+terjadi selama pengukuran near infared dan analisis
+kimia laboratorium (Tiaprasit dan Sangpithukwong
+2010). Kombinasi sa3 dan dg1 dapat diterapkan
+untuk mendapatkan bentuk dan model persamaan
+regresi kalibrasi yang optimum, layak, dan dapat
+dipercaya. (Blanco dan Villaroya 2002).
+
+Model Kalibrasi dan Validasi
+
+Tahap kalibrasi dilakukan untuk menentukan
+prediksi antara komposisi kimia mangga arumanis
+dengan data reflektan near infared dengan
+menggunakan metode PLS. Setelah diperoleh
+model persamaan regresi kalibrasi, selanjutnya
+dilakukan tahap validasi dengan menggunakan
+data yang lain. Data sampel yang berbeda tersebut
+dimasukkan ke dalam persamaan regresi kalibrasi,
+sehingga diperoleh data kandungan pati, totak
+padatan terlarut dan kadar air mangga arumanis
+dugaan near infared. Validasi bertujuan untuk
+menguji ketepatan pendugaan komposisi kimia
+dengan persamaan regresi kalibrasi yang telah
+dibangun. Parameter statistik yang digunakan
+untuk mengevaluasi model yang dihasilkan adalah
+coefficient of determination (R2), standard error of
+calibration set (SEC), standard error of validation set
+(SEP), coefficient of variation (CV), ratio prediction
+to deviation (RPD) dan nilai konsistensi (Williams
+and Norris 2001, Saputra et al, 1995). Hasil kalibrasi
+dan validasi yang baik dilihat dari nilai R2 yang
+terbesar, nilai SEC dan SEP terkecil, CV terkecil,
+sedangkan nilai konsistensi model berada pada
+kisaran 80-110% serta nilai RPD terbesar.
+
+Hasil dan Pembahasan
+Karakteristik Spektra NIR Mangga Arumanis
+
+Karakteristik spektra reflektan mangga ‘Arumanis’
+ditunjukkan pada pada Gambar 1. Reflektan mangga
+‘Arumanis’ berkisar antara 0.02 sampai 0.68.
+Semakin tinggi kadar air maka absorbsi semakin
+tinggi dan sebaliknya reflektan semakin kecil.
+Ikatan hidrogen karena atom hidrogen merupakan
+atom yang paling kuat menyerap gelombang NIR
+(Hruschka 1990). Ikatan hidrogen ini dapat berupa
+ikatan C─H, N─H, S─H atau O─H. Tiga lembah
+penyerapan yang terjadi pada panjang gelombang
+1180 nm, 1411 nm dan 1888 nm menunjukkan
+adanya kandungan air (Louw dan Theron 2010).
+Lembah penyerapan ini terjadi karena terdapat
+ikatan O-H (O─H str first overtone) pada panjang
+gelombang tersebut (Osborne et al. 1993). Lembah
+penyerapan juga terjadi pada panjang gelombang
+1756 - 1780 nm, dimana ikatan atom C─H pada
+panjang gelombang tersebut menunjukkan adanya
+kandungan CH2 dan selulosa. Kandungan pati
+terdapat pada panjang gelombang 1450 nm, 2461
+nm, 2488 nm dan 2500 nm. Kandungan pati pada
+panjang gelombang 1450 nm ini sulit terlihat karena
+saling berhimpit dengan kandungan air pada
+panjang gelombang yang sama, kandungan pati ini
+memiliki ikatan O─H. str first overtone (Osborne et
+al. 1993).
+
+
+Pengaruh Pra-proses Data terhadap Kalibrasi
+dan Validasi
+
+Tabel 1 menunjukkan pengaruh pra-proses
+terhadap model kalibrasi yang dihasilkan. Data
+yang ditunjukkan pada Tabel 1 memperlihatkan
+bahwa pra-proses bertahap tidak selalu lebih baik
+dibandingkan pra-proses tunggal. Hal ini disebabkan
+karena komposisi bahan berpengaruh terhadap
+ketepatan jenis pra-proses yang digunakan.
+Dapat ditunjukkan bahwa pra-proses dg1 mampu menghasilkan model PLS kandungan pati yang
+baik dibandingkan sa3 atau kombinasi sa3 dan dg1.
+Penggunaan kombinasi sa3 dan dg1 lebih tepat
+digunakan dalam mengembangkan model PLS
+untuk parameter TPT. Sedangkan pra-proses sa3
+baik digunakan dalam pengembangan model PLS
+untuk kadar air.
+
+
+Model Kalibrasi dan Validasi Kandungan Kimia
+dengan NIR menggunakan PLS
+
+Data yang terukur pada software NirCal dibagi
+2/3 menjadi set kalibrasi dan 1/3 data menjadi set
+validasi dengan total jumlah data yang tersimpan
+sebanyak 237 buah. Kandungan pati terus
+berkurang selama proses pematangan, hal ini
+disebabkan karena ukuran granula pati yang ada di
+dalam kloroplas mengecil. Gambar 2 menunjukkan
+sebaran data yang dihasilkan menggunakan praproses
+dg1 yang memiliki rentang cukup besar yaitu
+antara nilai 2 hingga 16.
+Deskripsi statistik untuk kandungan pati pada
+Tabel 1 menunjukkan bahwa model PLS yang
+dikembangkan dengan menggunakan beberapa
+pra-proses mampu menghasilkan R2 diatas 0.9,
+SEC dan SEP yang kecil, CV yang memenuhi
+standar, nilai RPD diatas 2, serta konsistensi yang
+baik. Dengan demikian dapat dikatakan bahwa
+model yang dikembangkan menghasilkan model
+yang sudah baik. Dari seluruh pra-proses yang
+digunakan, pra-proses dg1 adalah yang terbaik
+dengan nilai R2, SEP, CV, dan RPD sebesar 0.95,
+1.38%, 15.73% dan 3.48.
+Penggunaan pra-proses dg1 lebih efektif
+dibandingkan pra-proses lainnya. Hal ini disebabkan
+karena spektra original dengan informasi kandungan
+pati yang tertutup dapat dimunculkan dengan
+dg1. Penggunaan pra-proses sa3 berfungsi untuk
+menghaluskan spektra, sehingga tidak tepat untuk
+memunculkan informasi pada spektra yang tertutup.
+Untuk pra-proses kombinasi sa3 dan dg1 juga tidak
+sebaik pra-proses tunggal dg1, hal ini disebabkan
+karena pada penggunaan pra-proses sa3 dilakukan
+perhitungan rata-rata pada spektra yang justru
+menutupi informasi pati yang ada.
+Gambar 3 menunjukkan sebaran data yang
+merata dari nilai 5 hingga 20 baik pada set data kalibrasi maupun validasi. Hal ini menunjukkan
+bahwa komposisi data kedua set baik dan mampu
+menghasilkan model PLS yang baik pula. Deskripsi
+statistik TPT pada Tabel 1 menunjukkan bahwa
+penggunaan beberapa pra-proses menghasilkan
+nilai parameter yang baik, sehingga dapat
+dikatakan bahwa model yang dikembangkan sudah
+baik. Dari seluruh pra-proses, kombinasi sa3 dan
+dg1 adalah yang terbaik dibandingkan dengan
+pra-proses tunggal sa3 ataupun dg1. Kombinasi
+sa3 dan dg1 menghasilkan nilai R2, SEP, CV, dan
+RPD sebesar 0.90, 1.55oBrix, 10.50% dan 2.34.
+Penggunaan kombinasi sa3 dan dg1 lebih tepat
+digunakan dibandingkan pra-proses lainnya. Hal
+ini disebabkan karena spektra yang mengandung
+infromasi TPT tertutupi dan terdapat noise, selain
+itu data destrukrif yang didapat terdapat kesalahan
+yang dapat diperbaiki dengan kombinasi sa3 dan
+dg1.
+Hasil deskripsi statistik kadar air pada Tabel 1
+menunjukkan bahwa tidak semua penggunaan
+pra-proses menghasilkan parameter nilai statistik
+yang baik. Penggunaan pra-proses dg1 serta
+kombinasi sa3 dan dg1 menunjukkan bahwa
+model PLS yang dihasilkan tidak baik. Sebaliknya
+pada saat ditambahkan pra-proses sa3 dapat
+menghasilkan nilai R2, SEP, CV, dan RPD masingmasing
+sebesar 0.78, 0.853%, 99.74%, dan 2.11,
+dimana nilai-nilai tersebut menunjukkan model PLS
+yang dikembangkan sudah baik. Jika dilihat dari
+pra-proses yang digunakan, spekra yang memuat
+informasi kadar air tidak tertutup oleh spektra
+lainnya, namun penggunaan pra-proses sa3 ini
+menunjukkan bahwa pengujian desktruktif kadar
+air masih perlu diperbaiki. Gambar 4 menunjukkan
+rentang data yang dihasilkan merata antara 77
+hingga 89. Meskipun nilai-nilai parameter uji statistik
+yang dihasilkan tidak sebaik kandungan pati atau
+TPT, model yang sudah dibangun masih dapat
+digunakan untuk memprediksi kadar air.
+
+
+Simpulan
+Spektra original mangga ‘Arumanis’ menunjukkan
+adanya lembah di panjang gelombang kisaran 1180
+nm, 1411 nm, 1756 - 1780 nm, dan 2461 nm yang
+mengindikasikan ikatan kimia CH2, O-H dan pati.
+Metode near infrared dengan PLS dan pra-proses
+dg1 mampu memprediksi kandungan pati dengan
+nilai R2, SEC, dan konsistensi sebesar 0.95, 1.20%,
+dan 86.89%. Pendugaan total padatan terlarut
+terbaik didapatkan dengan pra-proses kombinasi
+sa3 dan dg1 yang menghasilkan nilai R2, SEC, dan
+konsistensi sebesar 0.90, 1.34oBrix, dan 86,24%.
+Pendugaan kadar air terbaik didapatkan dengan praproses
+sa3 yang menghasilkan nilai R2, SEC, dan
+konsistensi sebesar 0.78, 0.850%, dan 99.74%.

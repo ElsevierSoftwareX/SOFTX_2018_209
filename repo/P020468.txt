@@ -1,0 +1,101 @@
+﻿Produksi migas Indonesia semakin menurun secara bertahap, untuk kembali
+meningkatkan produksi migas diperlukan pencarian cadangan-cadangan baru
+dengan cara melakukan penelitian-penelitian pada cekungan-cekungan frontier.
+Penelitian ini dilakukan menggunakan metode gayaberat. Metode gayaberat
+mengukur variasi percepatan gravitasi yang ditimbulkan dari perbedaan densitas
+antar batuan bawah permukaan. Penelitian gayaberat dilakukan pada di daerah
+Kepulauan Tanimbar dengan tujuan untuk mengetahui : Anomali Bouguer, pola
+sub-cekungan, pola tinggian, struktur geologi bawah permukaan daerah penelitian
+melalui pemodelan 2,5D dan inversi 3D. Pengolahan data yang dilakukan dalam
+penelitian , meliputi : analisis spektal, analisis SVD, pemodelan 2,5D dan
+pemodelan inversi 3D untuk mengetahui struktur bawah permukaan daerah
+penelitian dan model/pola sub-cekungan Tanimbar. Hasil penelitian menunjukkan
+bahwa: (1) Daerah penelitian memiliki anomali Bouguer -46,4-9,6 mGal dengan
+anomali rendah pada bagian tengah, anomali sedang pada bagian tepi Pulau
+Yamdena, anomali tinggi pada bagian tenggara dan barat laut daerah penelitian.
+(2) Jumlah pola sub-cekungan sedimen yang dapat diinterpretasi adalah sebanyak
+6 sub-cekungan. (3) Pola tinggian (basement hight) mempunyai arah relatif timur
+laut-barat daya. (4) Hasil pemodelan bawah permukaan 2,5D menunjukan, a)
+batuan pengisi dari setiap sub-cekungan adalah batuan sedimen tersier, yaitu
+Anggota Napal, Formasi Batimafudi (Tmbm) nilai densitas 2,38 gr/cc, Formasi
+Batimafudi (Tmb) dengan densitas 2,37 gr/cc, Formasi Tangustabun (Tpt) dengan
+densitas 2,42 gr/cc dan batuan yang mengalasi sub-cekungan adalah batuan pratersier
+yakni batubasalt dengan densitas 2,7 gr/cc dari Kompleks Molu (M), b)
+Analisis SVD menunjukkan letak patahan pada model 2,5D relatif sama dengan
+grafik SVD yang diperoleh dari peta anomali SVD.
+Kata Kunci: Gayaberat, Anomali Bouguer, Sub-Cekungan, Pemodelan 2,5D
+
+1. PENDAHULUAN
+A. Latar Belakang
+Indonesia merupakan salah satu negara penghasil minyak bumi, Indonesia
+sempat mencapai kejayaan pada tahun 1995 dengan produksi minyak bumi
+mencapai 1,6 juta barel per hari (bph) , namun seiring berjalannya waktu
+produksi minyak bumi Indonesia semakin menurun secara bertahap
+disebabkan rasio penggantian cadangan migas tidak sebanding dengan migas
+yang dikeluarkan akibatnya cadangan minyak terus merosot. Tahun ini lifting
+minyak bumi Indonesia diperkirakan hanya mencapai 812 ribu barel per hari
+(bph) sementara konsumsi minyak nasional mencapai 1,6 juta barel per hari,
+untuk penutupi kekurangan itu pemerintah terpaksa harus mengimpor.
+Kenyataan di atas sungguh sangat ironi, karena minyak dan gas bumi saat ini
+masih menjadi salah satu sumber energi utama di dunia. Hal ini kemungkinan
+disebabkan karena cekungan-cekungan migas di Indonesia belum di
+ekspolarasi secara optimal. Indonesia adalah salah satu negara yang
+mempunyai potensi hidrokarbon yang besar di dunia, hal ini terlihat dari hasil
+penelitian atlas cekungan sedimen (Tim Atlas Cekungan PSG, 2009) yang
+berhasil memetakan jumlah cekungan sedimen berdasarkan data-data geologi
+dan geofisika, yakni kurang lebih ada 128 cekungan sedimen yang mempunyai
+potensi ekonomi geologi.
+Ada dua langkah untuk meningkatkan produksi migas di Indonesia, yang
+pertama, yaitu dengan mengoptimalkan produksi cekungan-cekungan sedimen
+yang sudah terbukti menghasilkan hidrokarbon dengan cara memanfaatkan
+teknologi-teknologi canggih untuk mengeluarkan hidrokarbon dari perut bumi,
+yang kedua adalah diimbangi dengan pencarian cadangan-cadangan baru
+dengan cara melakukan penelitian-penelitian cekungan-cekungan frontier di
+daerah-daerah yang belum pernah dieksplorasi atau masih sedikit data-data
+geologi ataupun geofisika (Setiadi, 2010).
+Cekungan Tanimbar adalah salah satu cekungan dari 128 cekungan sedimen di
+Indonesia, dari peta cekungan sedimen, diketahui cekungan ini berada pada
+daerah frontier yang terdapat pada Indonesia bagian Timur tepatnya pada
+daerah Kepulauan Tanimbar. Posisi tektonik Kepulauan Tanimbar yang
+memiliki kemiripan dengan cekungan di sekitarnya yang telah terbukti
+menghasilkan hidrokarbon contohnya adalah Lapangan gas Abadi pada blok
+PSC Masela – INPEX yang terletak pada selatan Cekungan Tanimbar, dengan
+demikian cekungan memiliki potensi besar untuk menghasilkan cadangan
+hidrokarbon, oleh karena itu cekungan ini menjadi sangat menarik untuk
+dilakukan penelitian lebih lanjut.
+Metode Gayaberat merupakan salah satu metode pasif geofisika, metode ini
+dilakukan berdasarkan pada anomali gayaberat yang muncul karena adanya
+variasi rapat massa batuan di bawah permukaan. Metode Gayaberat
+merupakan metode yang sangat peka terhadap perubahan ke arah lateral, oleh
+karena itu metode ini sering digunakan untuk memelajari cekungan sedimen,
+kontak intrusi, batuan dasar, struktur geologi, endapan sungai purba, lubang di
+dalam massa batuan dan lain-lain. Dengan melakukan penelitian
+menggunakan metode gayaberat diharapkan dapat diketahui pola subcekungan,
+informasi batas cekungan, struktur dan pola tinggian (Basement
+High), struktur bawah permukaan baik secara 2,5D dan juga 3D. Hal-hal
+tersebut sangat penting sebagai data atau informasi awal mengenai Cekungan
+Tanimbar, yang selanjutnya dapat ditindaklanjuti dengan survei yang
+mempunyai resolusi lebih tinggi.
+B. Tujuan dan Manfaat
+Adapun Penelitian kali ini bertujuan untuk:
+1. Mengetahui anomali Bouguer daerah penelitian
+2. Mengetahui dan mendeliniasi pola sub-cekungan sedimen dari anomali
+gayaberat
+3. Mengetahui pola tinggian daerah penelitian berdasarkan anomali
+gayaberat
+4. Menginterpretasi struktur geologi bawah permukaan daerah penelitian
+melalui pemodelan 2,5D (forward modeling) dan tiga dimensi (inverse
+modeling).
+C. Batasan Masalah
+Adapun batasan masalah dalam penelitian ini adalah:
+
+1. Data yang digunakan dalam penelititian adalah data anomali Bouguer
+lengkap atau data sekunder, artinya data yang telah dilakukan berbagai
+koreksi, sehingga menjadi anomali Bouguer lengkap (ABL), dan bukan
+data observasi hasil pengukuran lapangan.
+2. Analisa patahan SVD berdasarkan peta anomali Bouguer untuk melihat
+sebaran patahan pada daerah penelitian dan analisis pembuatan model
+2,5D.
+3. Untuk lebih memfokuskan pembahasan pada penelitian ini, maka
+pembahasan dibatasi sampai mendapatkan model sub-cekungan
+Kepulauan Tanimbar berdasarkan data anomali Bouguer.

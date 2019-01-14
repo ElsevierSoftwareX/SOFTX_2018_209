@@ -1,0 +1,371 @@
+﻿
+Penentuan Jadwal dan Rute Perjalanan Kapal dengan 
+
+Batasan Waktu dan Jumlah Kunjungan 
+
+
+
+ 
+
+ 
+
+Pendahuluan 
+
+ 
+Penentuan rute kapal merupakan perencanaan 
+urutan pelabuhan yang akan dikunjungi suatu kapal sedangkan istilah penjadwalan digunakan jika 
+waktu kunjungan dan keberangkatan kapal juga 
+dipertimbangkan. Pada umumnya ada batasan 
+waktu kapan kapal harus mengunjungi suatu pelabuhan. Penelitian mengenai penjadwalan dan penentuan rute perjalanan kapal merupakan suatu 
+yang penting dan menjadi fokus penelitian yang terus berkelanjutan. Christiansen et al. memberikan perspektif penelitian di bidang penjadwalan dan 
+penentuan rute perjalanan kapal dengan melakukan studi literatur pada lebih dari 60 literatur. Keputusan yang dibuat pada penelitian yang pernah 
+dilakukan diantaranya adalah penentuan jadwal 
+bongkar muat, dan penentuan rute. Metode yang 
+pernah digunakan dalam penelitian terdahulu diantaranya pemrograman dinamis, simulasi dan pemrograman linear. Christiansen et al. melanjutkan 
+studi literatur yang dilakukan di awal dengan memasukan literatur yang lebih baru pada penelitian 
+yang sudah dilakukan dan melakukan studi dengan 
+lebih rinci. Penelitian mengenai penentuan rute dan 
+penjadwalan diselesaikan dengan beberapa metode 
+heuristik dan metaheuristik untuk dapat menyelesaikan permasalahan di dunia nyata yang lebih 
+kompleks. Bronmo et al. menggunakan model 
+pemrograman integer untuk menentukan rute dan 
+jadwal kapal dengan batasan waktu dan ukuran 
+kargo yang fleksibel. Model mereka diujicobakan 
+dengan menggunakan 8 kasus dengan maksimum 
+waktu pelayaran 120 hari, jumlah kargo 17 dan 
+jumlah kapal sebanyak 7 buah. 
+ 
+
+ 
+
+ 
+
+Metode yang digunakan akan membutuhkan waktu 
+penyelesaian yang lama jika diaplikasikan pada 
+kasus nyata. Korsvik et al. membuat model 
+penentuan jadwal dan rute kapal dengan menggunakan batasan waktu dengan menggunakan 
+Tabu Search sebagai salah satu metode metaheuristik. Mereka menyimpulkan bahwa metode metaheuristik yang mereka gunakan menghasilkan nilai 
+yang lebih baik dari metode pencarian lokal dari 
+penelitian sebelumnya. Agarwal dan Ergun 
+membangun model penyelesaian penjadwalan dan 
+penentuan rute kapal dengan menggunakan metode 
+mixed integer programming. Untuk melakukan 
+efisiensi perhitungan, mereka menyelesaikan model 
+dengan menggabungkan metode greedy heuristic, 
+column generation-based algorithm dan two-phase 
+Benders decomposition-based algorithm. Eksperimen mereka lakukan dengan mensimulasikan 
+permasalahan 20 pelabuhan dan 100 kapal. 
+ 
+Pada penelitian ini model penjadwalan dan penentuan rute pengiriman tidak hanya dimodelkan 
+dan disimulasikan tetapi juga diimplementasikan 
+untuk permasalahan nyata. Berbeda dengan model 
+serupa yang dibangun oleh Bronmo et al. dengan 
+pemrograman linear, maka model pada penelitian 
+ini menggunakan model pemrograman non-linear 
+disebabkan permasalahan di dunia nyata sulit 
+didekati menggunakan model pemrograman linear. 
+Model yang dibuat digunakan untuk menyelesaikan 
+permasalahan penentuan ruta pelayaran di Indonesia Timur dengan karakteristik banyaknya pelabuhan yang dikunjungi dan batasan lain yang kompleks. Hal ini mengakibatkan beberapa batasan perlu ditambahkan dan waktu eksekusi model perlu 
+dipertimbangkan agar efisien. Batasan-batasan 
+yang membuat penelitian ini berbeda pada penelitian sebelumnya seperti Bronmo et al. dan 
+Agarwal dan Ergun adalah waktu kunjungan 
+antar satu kapal dengan kapal berikutnya pada satu 
+pelabuhan tujuan memiliki batasan minimal. Hal 
+ini disebabkan oleh jumlah barang yang diangkut 
+oleh satu kapal akan menjadi kecil jika waktu kunjungan antar kapal terlalu dekat, dan hal ini tidak 
+diinginkan oleh pihak perusahaan pelayaran. Selain 
+itu ada batasan jumlah pelabuhan maksimum yang 
+dapat dikunjugi dalam satu rute pelayaran. 
+ 
+
+Metode Penelitian 
+
+ 
+Pengembangan Model 
+ 
+Model pada penelitian ini menggunakan pengembangan model VRPTW (Vehicle routing problem 
+with time windows). Berbeda dengan model VRPTW 
+pada umumnya dimana time windows adalah 
+batasan waktu kedatangan dan keberangkatan dari 
+alat transportasi, maka pada model di penelitian ini 
+time windows (TW) lebih longgar yaitu batas waktu 
+perjalanan kapal dan waktu minimal kunjungan antara satu kapal dengan kapal berikutnya pada satu 
+pelabuhan tujuan. Selain itu ada batasan jumlah 
+kunjungan pada satu pelabuhan yang disebut sebagai jumlah call. Batsan jumlah call ini dimodelkan 
+dengan memecah lokasi tersebut sesuai jumlah call. 
+Contoh untuk Makassar yang memiliki jumlah call 
+15 kali, sehinga diberi kode MKS.01 hingga MKS.15 
+dan satu kode mewakili satu kali kunjungan Selain 
+itu model juga mempertimbangkan batasan maksimal pelabuhan yang dapat dikunjungi dalam satu 
+rute pelayaran. Rincian kendala ditetapkan perusahaan pelayaran pada model ini dapat diuraikan 
+sebagai berikut: (a) Waktu kunjungan setiap lokasi 
+yang sama berjeda minimal 3 hari. Perusahaan 
+memiliki kebijakan jeda minimal 3 hari antar 
+pengunjungan pelabuhan yang sama. Hal ini mengakibatkan tanggal kunjungan tiap lokasi yang sama 
+harus terpaut minimal 3 hari antara satu dengan 
+yang lainnya. (b) Jangka waktu satu bulan. Jangka 
+waktu penjadwalan untuk satu bulan. Hal ini 
+berarti setiap rute tidak boleh melebihi satu bulan 
+untuk kembali ke Surabaya. Satu bulan menggunakan 31 hari. (c) Batasan maksimal lima lokasi 
+yang dikunjungi. Perusahaan memiliki kebijakan 
+dimana dalam satu rute pelayaran maksimal hanya 
+dapat mengunjungi empat hingga lima lokasi. (d) 
+Kode huruf yang sama tidak boleh bersebelahan. 
+Pelayaran tidak memungkinkan mengunjungi pelabuhan yang sama secara berurutan. Sebagai contoh 
+tidak diperkenankan adanya rute pelayaran 
+MKS.01 dilanjutkan ke MKS.07. 
+ 
+Penyelesaian model penjadwalan dan penentuan rute 
+pelayaran kapal menggunakan insertion heuristic 
+sebagai solusi awal dan perbaikan solusi menggunakan metode Simulated Annealing. Metode 
+insertion heuristic menggunakan metode yang di
+kembangkan oleh Solomon . Konsep algoritma ini 
+adalah dengan menyisipkan pelabuhan yang belum 
+dijadwalkan ke dalam jadwal yang sudah ada 
+dengan mempertimbangkan batasan waktu yang dipunyai dan batasan waktu minimal antar kunjungan. Penyisipan bisa dilakukan baik di awal, di 
+tengah atau di akhir rute yang sudah dibuat dan dipilah penyisipan dengan jarak terpendek. Rincian 
+algoritma insertion heuristic dapat dilihat pada 
+Gambar 1. 
+
+
+Pemilihan pelanggan yang akan disisipkan kedalam 
+rute juga memiliki kriteria pemilihan. Metode insertion heuristic menggunakan dua kriteria, yaitu 
+c1iuj   dan  c2iuj  pada setiap iterasi untuk 
+menyisipkan pelanggan u diantara pelanggan i dan j 
+yang bersebelahan pada rute. Pertama, hitung 
+   untuk setiap pelanggan yang belum ditentukan rutenya, dan dari setiap pelanggan tersebut 
+masing-masing dicarilah posisi penyisipan yang 
+layak dan memiliki    yang paling kecil. Selanjutnya, pelanggan  yang terbaik untuk disisipkan ke dalam rute dipilih dengan menghitung 
+    yang optimal. Kriteria untuk penghitungan    dan    sendiri ada tiga kriteria, 
+yaitu: 
+(a) Tipe yang ini berusaha untuk memaksimalkan 
+keuntungan yang didapat dari menyisipkan pelanggan kedalam rute daripada membentuk rute yang 
+sudah jadi. 
+        –   
+dimana μ ≥ 0; 
+    
+      –  
+                 (3)      
+dimana    dan                 
+  ,  
+      –             (4)        
+dimana:   
+Sebagai contoh apabila       dan 
+   , maka    adalah jarak yang diperoleh 
+dari menyisipkan pelanggan u diantara pelanggan 
+dan . Posisi penyisipan yang paling baik adalah 
+posisi yang meminimalkan kombinasi dari jarak dan 
+waktu penyisipannya. 
+(b) Tipe kedua heuristik ini bertujuan untuk memilih pelanggan yang biaya penyisipannya meminimalkan total jarak dan waktu. 
+           
+dimana     dan                    
+(c) Tipe ketiga heuristik ini juga memperhitungkan 
+aspek seberapa cepat harus dilayaninya seorang 
+pelanggan. 
+     – 
+               
+     
+dimana:      dan      
+                   (8) 
+ 
+Nilai  dan  sama dengan yang ada pada tipe 
+pertama, sedangkan  menunjukkan interval waktu antara dimulainya pelanggan u dan waktu terakhir kendaraan boleh memulai pelayaran. 
+dimana: 
+  
+
+: Waktu pelayanan di pelabuhan sebelum 
+
+        (6) 
+
+ (5)       
+
+(7) 
+
+  
+
+ 
+
+ 
+
+disisipi 
+
+: waktu dimulainya pelayaran yang baru 
+pada pelanggan , ketika pelanggan u 
+disisipkan ke dalam rute 
+
+: Urutan pelabuhan yang sudah terdapat 
+
+di rute tersebut (     ) 
+
+125 
+
+(a) 
+
+ 
+
+
+
+
+Neighborhood Search 3 
+Pada metode penukaran ini akan dilakukan pemindahan satu pelabuhan dari sebuah kapal dan menyisipkannya ke kapal yang berbeda. Penukaran ini 
+pertama mengacak dua kapal yang akan dipilih. 
+Kapal pertama kemudian dibangkitkan angka acak 
+untuk memilih kapal mana yang akan diambil 
+pelabuhannya. Kapal kedua kemudian dibangkitkan pula angka acak untuk memilih posisi mana 
+yang akan disisipi pelabuhan dari kapal pertama. 
+Gambar 5 merupakan contoh Neighborhood 
+Search 3. 
+ 
+
+Hasil dan Pembahasan 
+
+ 
+Data diambil berdasarkan data sekunder dan hasil 
+wawancara. Beberapa data yang diperlukan diantaranya adalah data waktu tempuh, dan data waktu 
+pelayanan di pelabuhan. Contoh data tersebut dapat 
+dilihat di Tabel 1 dan Tabel 2. 
+ 
+Penjadwalan pada perusahaan dibuat berdasarkan 
+kebijakan yang telah dijelaskan sebelumnya. Pertama dimana adanya jumlah call time yang menan-
+dakan tiap pelabuhan pada Indonesia bagian Timur 
+harus dikunjungi berapa kali pada setiap bulannya. 
+Kedua yaitu jeda minimal 3-4 hari pada setiap 
+pengunjungan pelabuhan yang sama. Jeda ini berlaku untuk semua pelabuhan kecuali pada Makassar, 
+dimana hal ini dikarenakan Makassar merupakan 
+salah satu pelabuhan utama yang menghubungkan 
+seluruh Indonesia. Ketiga dimana sebuah kapal tidak diperbolehkan untuk mengunjungi lebih dari 
+empat atau lima pelabuhan sebelum kembali ke 
+Surabaya. Kebijakan ketiga ini supaya sebuah kapal 
+tidak akan memiliki deviasi yang terlalu besar 
+untuk kembali ke Surabaya yang dikarenakan 
+cuaca dan sebagainya. 
+ 
+
+Gambar 3 Contoh neighborhood search 1 
+
+ 
+
+Gambar 4. Contoh neihgborhood search 2 
+
+ 
+
+ 
+
+(b) 
+
+ 
+
+ 
+
+Gambar 2. Algoritma simulated annealing 
+
+ 
+
+Metode penukaran (neighborhood search) menggunakan tiga metode pencarian dimana ketiga metode 
+pencarian tersebut dipilih secara acak pada setiap 
+iterasinya. Ketiga metode pencarian yang digunakan mengacu pada Caric et al. . 
+ 
+Neighborhood Search 1 
+Penukaran Neighborhood Search 1 merupakan metode yang menukarkan dua pelabuhan pada satu 
+kapal yang sama atau disebut dengan Intra Route 
+Exchange. Pencarian ini terlebih dahulu mencari 
+kapal mana yang akan dipilih dan kemudian mengacak dua angka. Hasil pada kedua angka yang terpilih tersebut kemudian ditukar posisinya. Contoh 
+metode penukaran ini dapat dilihat pada Gambar 3. 
+ 
+Neighborhood Search 2 
+Penukaran Neighborhood Search 2 adalah metode 
+yang menukarkan posisi dari satu pelabuhan dari 
+sebuah kapal dengan satu pelabuhan dari kapal 
+yang berbeda atau disebut juga dengan metode Inter 
+Route Exchange. Pencarian ini pertama mengacak 
+dua kapal yang akan dipilih. Masing-masing kapal 
+kemudian dibangkitkan lagi satu angka acak untuk 
+menentukan kapal yang akan ditukarkan dan kemudian ditukarkan posisinya. Gambar 4 merupakan contoh Neighborhood Search 2. 
+
+ 
+
+ 
+Penjadwalan pada perusahaan untuk bagian timur 
+belum memiliki jadwal yang tetap, sehingga tiap 
+bulannya rute yang digunakan hampir semuanya 
+berbeda. 
+ 
+Penjadwalan rute yang digunakan oleh pada perusahaan di bulan April 2016 memiliki total waktu 
+tempuh sebesar 297 hari dan jumlah kapal yang 
+digunakan sebanyak 21 kapal. 
+ 
+Metode penyelesaian solusi awal dengan insertion 
+heuristic menghasilkan solusi seperti pada Tabel 3. 
+Total waktu perjalanan yang ditempuh selama 
+sebulan dari hasil Insertion Heuristic yaitu sebesar 
+264 hari. Tabel 3 menunjukan angka dibawah kode 
+huruf merupakan waktu tiba di lokasi tersebut, 
+sebagai contoh pada Kapal 1 lokasi MKS.15 terdapat angka 3 dibawahnya. Hal ini menunjukkan 
+bahwa MKS.15 dikunjungi pada tanggal 15. Khusus 
+untuk SBY yang terletak paling awal rute kapal, 
+angka dibawahnya adalah waktu berangkat dari 
+kapal tersebut dari Surabaya. 
+ 
+Parameter Simulated Annealing yang digunakan 
+pada penelitian ini adalah sebagai berikut: 
+Suhu Awal (T0) = 2 
+Suhu akhir (Tt) = 0,1 
+Faktor reduksi suhu (k) = 0,9 
+Jumlah looping (L) = 100 
+ 
+Sesuai dengan parameter yang digunakan, model 
+akan melakukan total replikasi sebanyak 29 iterasi, 
+dimana penurunan suhu terjadi sebanyak 29 kali 
+dan pada setiap suhu dilakukan 100 iterasi. Model 
+baru akan selesai mencari neighborhood solution 
+sebanyak 2900 kali. Simulasi dijalankan sebanyak 5 
+kali dengan menggunakan Software Microsoft Excel. 
+Komputer yang digunakan memiliki OS Windows 7 
+Proffesional 32- bit dengan processor Intel(R) 
+Core(TM)2Duo CPU @2,93GHz dan memory 1024 
+Mb RAM. Hasil akhir dari tiap simulasi dapat 
+dilihat pada Tabel 4. 
+
+ 
+Gambar 6 menunjukan rata-rata solusi terbaik SA 
+dari lima kali replikasi dari setiap suhu. Tampak 
+bahwa terjadi penurunan rata-rata solusi terbaik 
+dari suhu awal dan pada suhu 0,16 solusi sudah 
+dalam kondisi konvergen. Hal ini menunjukan bahwa metode SA yang digunakan menghasilkan solusi 
+yang konsisten lebih baik dari satu suhu ke suhu 
+yang lebih kecil dan pada suhu minimal yang 
+ditetapkan solusi sudah konvergen. 
+ 
+Hasil terbaik dari lima running Simulated Annealing di atas dapat dilihat pada Tabel 5. Jadwal pada 
+Tabel 5 menunjukan bahwa pada penjadwalan yang 
+dibuat menggunakan 19 unit kapal dengan jarak 
+tempuh 243 hari. Sebagai contoh untuk kapal pertama jadwal kunjungan menempuh rute SBY-MKSTUL-MRK-TUL-MKS dan kembali ke SBY dengan 
+keberangkatan mulai tanggal satu dan kembali 
+tanggal 27 sehingga menempuh perjalanan selama 
+27 hari. Secara total terjadi penurunan waktu pelayaran sebesar 7,95% dari solusi awal dan jika 
+dibandingkan dengan jadwal yang dimiliki perusahaan saat ini terjadi penurunan sebesar 18,2%. 
+Selain itu jumlah kapal yang dipakai juga lebih 
+sedikit dua buah kapal dibandingkan dengan jadwal 
+yang disusun oleh perusahaan. 
+
+Simpulan 
+
+ 
+
+Penelitian ini mencoba menyusun jadwal dan rute 
+pelayaran kapal dengan mempertimbangkan waktu 
+kedatangan kapal dan jumlah kunjungan pada satu 
+pelabuhan. Jumlah pelabuhan yang akan dikunjungi sebanyak 15 pelabuhan, tetapi dengan adanya 
+kebutuhan kunjungan pada satu pelabuhan yang 
+bisa lebih dari satu, maka jumlah yang lokasi yang 
+dikunjungi sebanyak 62 lokasi. Penyelesaiaan dilakukan dengan menggunakan metode Simulated Annealing. Solusi menunjukan bahwa terjadi penurunan waktu pelayaran sebesar 7,95% pada solusi 
+akhir SA dibandingkan dengan solusi awal. Solusi 
+akhir metode yang diusulkan lebih baik 18,2% 
+dibandingkan jadwal dan rute pelayaran yang dimiliki perusahaan saat ini. Penelitian ini masih 
+menggunakan data waktu pelayaran yang bersifat 
+konstan, akan lebih baik jika mempertimbangkan 
+ketidakpastian waktu pelayaran dan pelayanan di 
+pelabuhan. Selain itu metode lain slain SA dapat 
+dipertimbangkan untuk menghasilkan solusi yang 
+lebih baik dan waktu penyelesaian yang lebih cepat. 
+

@@ -1,0 +1,50 @@
+﻿
+ Garis besar penelitian ini menerangkan tentang rancang bangun berikut pengujian ruang pengering biji kopi skala laboratorium, untuk mengatasi problema yang terjadi pada proses pengeringan biji kopi yang memiliki potensi yang baik di Provinsi Lampung. Jenis ruang pengering yang dibangun adalah tipe cabinet dryer yang terdiri atas rak yang disusun secara bertingkat dengan menambahkan pengarah aliran udara. Penambahan pengarah aliran udara dimaksudkan agar distribusi aliran udara dalam ruang pengering merata. 
+
+Sumber udara panas didapat dari air panas boiler yang ditukar panasnya ke udara menggunakan alat penukar panas. Laju aliran udara masuk ruang pengering divariasikan sebesar 0.49 ; 0.45 ; 0.38 ; 0.22 kg/s. Parameter ini digunakan pada pengujian tanpa beban untuk mengetahui laju aliran udara yang terbaik. Eksperimen dilakukan dengan jenis biji kopi robusta sebanyak 8 kg yang ditinjau dari kadar air awal dan akhir. 
+
+Dari hasil pengujian diketahui bahwa, laju aliran udara yang optimal untuk proses pengeringan adalah 0.22 kg/s. Dengan parameter ini, waktu yang dibutuhkan untuk mencapai temperatur pengeringan 50ºC adalah 25 menit. Proses pengeringan biji kopi dilakukan selama 10 jam dan didapat laju pengeringan sebesar 0.3205 kg/jam. Kadar air awal biji kopi sebelum dikeringkan sebesar 39.5 % dan berkurang menjadi 12.5% setelah dilakukan proses pengeringan biji kopi. 
+Kata kunci : pengeringan, biji kopi, ruang pengering, cabinet dryer
+
+
+
+
+
+ I. PENDAHULUAN 
+1.1 Latar Belakang. 
+Provinsi lampung merupakan salah satu daerah penghasil kopi terbesar di Indonesia. Sebagian besar jenis kopi yang dibudidayakan di Provinsi Lampung adalah jenis kopi robusta. Luas perkebunan kopi robusta sekitar 161677 Ha dengan jumlah produksi 139583 Ton pada tahun 2012 [1]. Dengan produksi sebanyak itu, mayoritas proses pengeringan biji kopi menggunakan metode konvensional. Proses pengeringan konvensional dilakukan dengan meletakan hasil pertanian yang ingin dikeringkan pada suatu media yang berhubungan langsung dengan sinar matahari. Proses pengeringan ini sangat bergantung kepada intensitas sinar matahari. Pengeringan konvensional tidak dapat optimal karena bahan dapat tercemar pada temperatur lingkungan dan kelembaban relatif yang tinggi [2]. Selain itu, perubahan cuaca yang tidak stabil dapat menghambat proses pengeringan biji kopi. Hal itu dikarenakan sebagian besar perkebunan kopi di Provinsi Lampung terdapat pada daerah pegunungan. Suhu udara di daerah pegunungan cenderung rendah. Hal itu menyebabkan proses pengeringan biji kopi memakan waktu yang lama. 
+
+Berbagai problema tersebut membuat kualitas produk kopi menurun, sehingga mayoritas petani kopi di Provinsi Lampung merugi. Untuk itu perlu adanya metode pengeringan non konvensional, yaitu dengan menggunakan alat pengering mekanis. Ada beberapa macam alat pengering, diantaranya dengan menggunakan energi listrik, energi matahari dan energi panas bumi. Di Provinsi Lampung, metode pengeringan menggunakan energi panas bumi belum banyak dikembangkan. Selain itu, terdapat beberapa sumber energi panas bumi yang berdekatan dengan daerah perkebunan kopi.. Air panas yang berasal dari mata air panas atau sumur produksi panas bumi pada suhu yang cukup tinggi dialirkan melalui suatu heat exchanger, yang kemudian memanaskan ruangan pengering yang dibuat khusus untuk pengeringan hasil pertanian. Beberapa produk pertanian dan perkebunan yang dapat diproses dengan pengeringan antara lain padi, kopi dan kayu manis.
+
+
+Pada penelitian ini, penulis membuat suatu prototype ruang pengering tipe cabinet dryer dengan desain dan instalasi alat yang cukup sederhana. Komponen utama sistem pengeringan energi panas bumi adalah ruang pengering dan alat penukar panas (heat exchanger). Ruang pengering merupakan tempat berlangsungnya proses pengeringan dimana terjadi perpindahan massa air bahan ke udara dalam ruang pengering. Alat ini menggunakan media pengering udara panas yang dihasilkan dari alat penukar panas. Fluida panas yang digunakan untuk menaikan temperatur udara adalah air geothermal. Akan tetapi, pada penelitian ini dilakukan pemodelan untuk fluida panas yang digunakan yaitu air panas boiler. Aliran udara panas dalam ruang pengering berlangsung secara paksa dengan bantuan kipas. Oleh karena itu, distribusi aliran udara panas dirancang melalui setiap rak pengering. 
+Ruang pengering dirancang untuk mengeringkan biji kopi dengan kapasitas 25 kg per siklus pengeringan. Jumlah rak pada ruang pengering sebanyak sepuluh buah. Aliran udara panas yang terjadi dalam ruang pengering dapat disimulasikan agar mendapatkan distribusi udara panas yang optimal. Simulasi aliran dilakukan denan menggunakan software Autodesk Simulation CFD 2104™. Dengan menggunakan alat pengering ini, diharapkan dapat mengurangi kadar air yang cukup besar pada biji kopi sebesar 53% sampai 55% sehingga menjadi kadar air akhir pada biji kopi yang dapat memenuhi standar SNI yaitu 12% [3],[4]. 
+
+1.2 Tujuan 
+Secara umum penelitian ini bertujuan untuk merealisasikan alat pengering biji kopi dengan memanfaatkan energi panas bumi, dengan tujuan khusus yang ditargetkan antara lain: 
+1. Merancang dan membuat ruang pengering untuk sistem pengering biji kopi energi panas bumi. 
+2. Mengoptimasi laju aliran udara panas didalam ruang pengering dengan menggunakan simulasi. 
+3. Mengetahui distribusi temperatur udara dan besar perpindahan panas konveksi dalam ruang pengering serta pengaruhnya terhadap pengurangan kadar air biji kopi 
+4. Mengetahui besar efesiensi ruang pengering selama proses pengujian. 
+
+1.3. Batasan Masalah 
+Kajian dalam penelitian ini ditekankan dalam beberapa hal yaitu: 
+1. Metode pengeringan biji kopi menggunakan metode pengeringan basah. 
+2. Biji kopi yang digunakan sebagai bahan uji hanya ditinjau dari kadar air awal dan akhir 
+3. Kadar air dari biji kopi diasumsikan seragam. 
+4. Simulasi laju aliran udara panas menggunakan software Autodesk Simulation CFD 2014. 
+1.4. Sistematika Penulisan 
+Isi dari proposal Tugas Akhir ini terdiri atas beberapa bab dengan substansi yang berbeda-beda sebagai berikut : 
+
+1.4.1 Bab 1 : PENDAHULUAN 
+Latar belakang penelitian ini menjelaskan tentang kondisi cuaca yang tidak menentu di Provinsi Lampung berakibat pengeringan biji kopi secara konvensional tidak optimal serta membutuhkan waktu yang relatif cukup lama. Oleh karena itu, dibutuhkan suatu alat pengering biji kopi yang tidak bergantung dengan keadaan cuaca. Potensi energi panas bumi di Provinsi Lampung dapat dimanfaatkan sebagai sumber energi panas untuk pengeringan biji kopi. Dengan demikian, merancang, membuat serta menguji alat pengering biji kopi energi panas bumi merupakan tujuan utama dari penelitian ini. Untuk memfokuskan penelitian, penelitian ini ditekankan pada beberapa pokok subjek yang terdapat di batasan masalah. 
+
+1.4.2 Bab II : TINJAUAN PUSTAKA 
+Subbab pertama pada bab ini adalah penjabaran terkait biji kopi, dan yang kedua adalah metode pengolahan biji kopi dan penjabaran mengenai proses pengeringan biji kopi yang didalamnya dipaparkan tentang prinsip pengeringan, faktor faktor yang mempengaruhi proses pengeringan, psychrometric chart, perpindahan panas yang terjadi pada proses pengeringan, serta proses perpindahan panas konveksi yang terjadi selama proses pengeringan biji kopi. Subbab terakhir adalah, perancangan ruang pengering tipe cabinet dryer meliputi perancangan dimensi ruang pengering, dan mekanisme distribusi aliran udara.
+
+1.4.3. Bab III : METODOLOGI PENELITIAN 
+Tempat dan waktu penelitian akan dipaparkan dengan jelas pada bab ini.Kemudian terdapat penjelasan rinci mengenai metode penelitian seperti, teknis merancang setiap perangkat pada ruang pengering, teknik mewujudkan rancangan ke produk jadi, dan cara meng-install semua perangkat yang telah dibuat. Selanjutnya ada subbab yang membahas langkah kalibrasi perangkat sebelum dilakukan uji coba, dan metode pengambilan data. Dalam subbab metode pengambilan data akan diuraikan secara terperinci, tahapan untuk mendapatkan laju aliran udara terbaik untuk proses pengeringan. Dilanjutkan metode yang dilakukan, untuk pengujian pengeringan biji kopi. 
+1.4.4. Bab IV : HASIL DAN PEMBAHASAN 
+Hasil penelitian berupa data pengujian ruang pengering berbagai variabel di dalam proses pengeringan, disajikan ke dalam bentuk tabel maupun grafik pada bab ini. Dilengkapi juga dengan analisa pada semua kecenderungan data yang diperoleh dari pengujian yang dilandasi kajian teori ilmiah. 
+1.4.5. Bab V : KESIMPULAN DAN SARAN 
+Pada bab ini diuraikan intisari terhadap semua analisa data percobaan, termasuk saran yang berisi uraian informasi, untuk dilakukan pada penelitian selanjutnya. Semua ini agar pada penelitian berikutnya, pengembangan alat bisa dikaji lebih sempurna dibandingkan saat ini.

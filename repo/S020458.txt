@@ -1,0 +1,123 @@
+﻿Harga saham merupakan ukuran indeks prestasi perusahaan, yaitu sejauh mana manajemen telah berhasil mengelola perusahaan atas nama pemegang saham. Mengingat banyaknya faktor yang mempengaruhi harga saham maka penelitian ini akan meneliti pengaruh profitabilitas yang diwakilkan oleh ROA (Return On Assets) dan struktur modal yang digambarkan oleh DER (Debt to Total Equity Ratio) terhadap harga saham. Tujuan dari penelitian ini adalah untuk mengetahui perkembangan provitabilitas struktu modal dan harga saham serta menganalisis pengaruh provitabilitas dan struktur modal terhadap harga saham pada perusahaan property & real estate yang tergabung dalam indeks kompas 100 periode 2009-2012.
+Sampel penelitian yang digunakan sebanyak 9 perusahaan property & real estate selama 4 tahun, dimana metode yang digunakan adalah purposive sampling yaitu suatu metode pengambilan sampel yang mengambil obyek dengan kriteria tertentu. Analisis yang digunakan adalah analisis data deskriptif dan kuantitatif dengan menggunakan analisa regresi Pooled Least Square Common-Constant. Pengujian hipotesis dilakukan dengan menggunakan uji t.
+Hasil analisis deskriptif menunjukkan bahwa: (1) Perkembangan profitabilitas perusahaan sampel selama periode analisis dalam kategori baik karena sebagian besar ROA mengalami kenaikan setiap tahun (2) Perkembangan struktur modal perusahaan sampel selama periode analisis berada dalam kategori baik karena dominan DER mengalami penurunan setiap tahun (3) Perkembangan harga saham perusahaan sampel selama periode analisis berada dalam kategori baik, karena mengalami peningkatan yang stabil setiap tahunnya.Sedangkan untuk hasil regresi yang digunakan, secara parsial ROA berpengaruh positif signifikan terhadap harga saham dan DER tidak berpengaruh terhadap harga saham. Besarnya koefisien determinasi (R square) adalah 0,1520 yang artinya 15% variabel dependen yaitu harga saham dapat dijelaskan oleh 2 variabel independen yaitu ROA dan DER, sedangkan sisanya sebesar 85% harga saham dijelaskan oleh variabel atau sebab sebab lain diluar model.
+Kata Kunci : Harga saham, Return on Assets (ROA), Debt to Total Equiti Ratio (DER)
+
+
+I. PENDAHULUAN
+1.1 Latar Belakang
+Profitabilitas adalah kemampuan perusahaan menghasilkan laba (keuntungan) dalam waktu tertentu. Kemampuan perusahaan untuk menghasilkan laba dalam kegiatan operasinya merupakan fokus utama dalam penilaian prestasi perusahaan (analisis perusahaan) karena laba perusahaan selain merupakan indikator kemampuan perusahaan memenuhi kewajiban bagi para pemegang saham juga merupakan elemen dalam penciptaan nilai perusahaan yang menunjukkan prospek perusahaan di masa yang akan datang. Semakin tinggi profitabilitas suatu perusahaan maka akan semakin tinggi juga permintaan sahamnya.
+Profitabilitas yang semakin baik, akan membuat investor menjadi semakin percaya untuk kemudian menanamkan modalnya pada perusahaan tersebut. Profitabilitas yang baik akan memberikan keuntungan bagi perusahaan dan pemegang saham. Bagi perusahaan, akan mendapatkan suntikan dana dari investor dan menaikkan nilai pasar perusahaan tersebut. Sedangkan bagi investor, akan mendapatkan keuntungan berupa deviden atau capital gain dari investasi tersebut. Oleh karena itu profitabilitas adalah rasio keuangan yang sangat penting untuk diteliti hubungannya dengan harga saham, terutama bagi perusahaan yang tentunya membutuhkan suntikan dana relatif besar untuk melakukan ekspansi.
+
+Perusahaan dapat memenuhi kebutuhan dananya dengan mengutamakan sumber-sumber dari dalam perusahaan, akan tetapi adakalanya juga kebutuhan dana sudah sedemikian meningkat karena pertumbuhan perusahaan, dan dana internal telah digunakan semua, maka tidak ada pilihan lain selain menggunakan dana yang berasal dari luar perusahaan yang berupa hutang (debt).
+Penggunaan hutang dalam suatu perusahaan akan menaikkan nilai saham, karena adanya kenaikan pajak yang merupakan pos deduksi terhadap biaya hutang, namun pada titik tertentu penggunaan hutang dapat menurunkan nilai saham karena adanya pengaruh biaya kepailitan dan biaya bunga yang ditimbulkan dari adanya penggunaan utang. Struktur modal merupakan salah satu keputusan penting manajer keuangan dalam menjaga dan meningkatkan nilai perusahaan.. Dengan adanya perencanaan yang matang ketika menentukan komposisi sturuktur modal sampai dengan tercapainya struktur modal optimal, diharapkan dapat menjadi informasi keuangan yang baik (good news) perusahaan bagi investor untuk kemudian mau menanamkan modalnya pada perusahaan tersebut.
+Untuk dapat bertahan di tengah - tengah persaingan perdagangan yang semakin sengit, perusahaan perusahaan berlomba untuk melakukan aksi korporasi yang dapat mengembangkan usahanya. Kegiatan tersebut membutuhkan biaya yang relatif banyak, sehingga membutuhkan suntikan dana segar. Pemenuhan kebutuhan dana tersebut biasanya didapatkan dari investor lewat penjualan sahamnya di pasar modal.
+Sebagai sarana untuk melakukan investasi, dalam pasar modal memungkinkan para pemodal (investor) untuk melakukan investasi, membentuk portofolio sesuai
+dengan risiko yang bersedia mereka tanggung dan tingkat keuntungan yang diharapkan. Investasi pada sekuritas juga bersifat liquid (mudah dirubah). Oleh karena itu, penting bagi perusahaan untuk selalu memperhatikan kepentingan para pemilik modal dengan jalan memaksimalkan nilai perusahaan, karena nilai perusahaan merupakan ukuran keberhasilan atas pelaksanaan fungsi-fungsi keuangannya.
+Salah satu aspek yang dinilai oleh investor dalam mengambil keputusan berinvestasi adalah kinerja keuangan. Pada prinsipnya semakin baik prestasi perusahaan maka akan meningkatkan permintaan saham perusahaaan tersebut, sehingga pada gilirannya akan meningkatkan pula harga saham perusahaan. Harga pasar saham merupakan ukuran indeks prestasi perusahaan, yaitu seberapa jauh menajemen telah berhasil mengelola perusahaan atas nama pemegang saham. Dengan demikian harga saham di pasar modal merupakan indikator nilai perusahaan, yaitu bagaimana meningkatkan kekayaan pemegang saham yang merupakan tujuan perusahaan secara umum.
+Analisis fundamental mendasarkan pola perilaku harga saham ditentukan oleh perubahan-perubahan variasi perilaku variabel-variabel dasar kinerja perusahaan. Secara ringkas dapat dikatakan bahwa harga saham ditentukan oleh nilai perusahaan. Apabila kinerja perusahaan baik maka nilai usaha akan tinggi. Dengan nilai perusahaan yang tinggi membuat para investor lebih tertarik untuk berinvestasi, yang akan membuat permintaan akan saham perusahaan meningkat dan tentunya diikuti dengan meningkatnya harga saham.
+
+Industri property di tanah air memang fenomenal. Ketika industri sejenis di Amerika guncang diterjang krisis, di Indonesia situasinya aman-aman saja. Penjualan dan pembangunan rumah berjalan normal. Bahkan penjualan property tahun 2010 naik 12% dibanding tahun sebelumnya. Krisis finansial di Amerika tidak berdampak signifikan terhadap industri property di tanah air. Boleh dibilang perkembangan industri ini masih dalam koridor bagus, artinya ada penjualan dan pembangunan. Target para pengembang untuk menjual hunian pun setiap tahunnya kerap tercapai. (The Marketeers.com, 22 Maret 2012).
+Sejak dua tahun lalu penjualan property naik rata-rata 12% dari tahun sebelumnya. Kebutuhan akan tempat tinggal dan hunian sangat besar, sementara pasokan yang ada belum mencukupi. Sekitar 8 juta rumah dibutuhkan masyarakat Indonesia yang benar-benar belum memiliki rumah. Pasokan yang ada, baru 800 ribu pada tahun ini. Anggota REI (perhimpunan perusahaan Real Estate Indonesia) baru bisa memasok 400 ribu unit dan sisanya 400 ribu unit lagi berasal dari luar REI, seperti anggota asosiasi lain dan rumah swadaya masyarakat. (The Marketeers.com, 22 Maret 2012). Kebutuhan perumahan yang sekarang masih dibutuhkan mencapai 13 juta. Jadi apabila ada yang mau bergerak di perumahan rakyat, sangat tepat. Meskipun di tingkat perumahan kelas menengah masih terjadi kekurangan. Supply apartemen di tahun 2011 hanya 8.000 padahal kebutuhannya 12.000. Tahun depan diperkirakan naik lagi, kebutuhan apartemen naik 50 persen. (The Marketeers, 22 Maret 2012).
+
+
+Dari gambar 1.2 dapat disimpulkan bahwa pergerakan indeks harga saham sektor
+property mengalami kenaikan yang fluktuakif seiring bertambahnya tahun. Titik
+tertinggi yang dicapai adalah pada September 2009 mencapai 6 miliar lembar
+saham yang beredar.
+
+
+Pada gambar 1.3 fluktuasi indeks harga saham sektor property mengalami
+kenaikan yang sangat baik. Tahun 2010 bisa dikatakan adalah awal dari masa
+keemasan sektor property di pasar. Kenaikan ini dibuktikan pada titik tertinggi di
+Mei 2011 yang mencapai 7.500 million shares yang beredar.
+Kebutuhan masyarakat akan tempat tinggal terus meningkat pesat membuat
+perusahaan sektor property dan real estate memiliki ekspektasi yang sangat baik
+di tahun tahun berikutnya. Saham perusahaan sektor ini menjadi sangat menarik
+perhatian para investor di bursa efek. Oleh karena itu, perusahaan sebaiknya
+memberikan informasi yang baik kepada investor lewat laporan keuangan
+perusahaan. Hal itu akan memaksimalkan kepercayaan investor untuk
+menanamkan modalnya di perusahaan tersebut. Semakin naiknya permintaan
+saham, tentu akan diikuti oleh naiknya harga saham, karena nilai dari saham
+tersebut akan naik.
+Pengambilan keputusan investasi tentu saja diawali dengan analisis rasio rasio
+keuangan pada laporan keuangan perusahaan. Profitabilitas dan struktur modal
+termasuk dalam rasio keaungan yang komposisinya menjadi pertimbangan
+penting para investor. Profitabilitas dan struktur modal yang optimal diperkirakan
+mampu menaikkan harga saham. Oleh kerena itu penulis tertarik untuk melakukan
+penelitian dengan judul “Analisis Pengaruh Profitabilitas Dan Struktur Modal
+Terhadap Harga Saham pada Perusahaan Property & Real Estate yang
+Tergabung Dalam Indeks Kompas 100 BEI Periode 2009-2012”. Dalam
+penelitian ini struktur modal diwakili oleh, Debt to Equity Ratio (DER),
+sedangkan untuk rasio profitabilitas diwakili oleh Return On Assets (ROA).
+
+1.2 Rumusan Masalah
+Sesuai dengan latar belakang yang telah terurai sebelumnya, maka berikut adalah
+rumusan masalah dari penelitian ini:
+1. Bagaimana perkembangan profitabilitas pada perusahaan sektor property &
+real estate yang tergabung dalam indeks kompas 100 BEI tahun 2009-2012.
+2. Bagaimana perkembangan struktur modal pada perusahaan sektor property &
+real estate yang tergabung dalam indeks kompas 100 BEI tahun 2009-2012.
+3. Bagaimana perkembangan harga saham pada perusahaan sektor property &
+real estate yang tergabung dalam indeks kompas 100 BEI tahun 2009-2012.
+4. Bagaimana pengaruh return on asset (ROA) terhadap harga saham.
+5. Bagaimana pengaruh debt to equity ratio (DER) terhadap harga saham.
+1.3 Tujuan penelitian
+Sesuai dengan rumusan masalah yang telah terurai sebelumnya, maka tujuan dari
+penelitian ini adalah sebagai berikut:
+1. Untuk mengetahui bagaimana perkembangan profitabilitas pada perusahaan
+sektor property & real estate yang tergabung dalam indeks kompas 100 BEI
+tahun 2009-2012.
+2. Untuk mengetahui bagaimana perkembangan struktur modal pada
+perusahaan sektor property & real estate yang tergabung dalam indeks
+kompas 100 BEI tahun 2009-2012.
+
+3. Untuk mengetahui bagaimana perkembangan harga saham pada perusahaan
+sektor property & real estate yang tergabung dalam indeks kompas 100 tahun
+2009-2012.
+4. Untuk mengetahui bagaimana pengaruh return on asset (ROA) terhadap
+harga saham.
+5. Untuk mengetahui bagaimana pengaruh debt to equity ratio (DER) terhadap
+harga saham.
+1.4 Manfaat penelitian
+Manfaat dari penelitian ini adalah sebagai berikut:
+1. Menambah wawasan dan pengetahuan bagi peneliti sehubungan dengan
+pengaruh profitabilitas dan struktur modal terhadap harga saham perusahaan
+susektor property dan real estate di Bursa Efek Indonesia.
+2. Memberi tambahan bahan pertimbangan bagi investor dalam membuat
+keputusan investasi. Sebab, tingkat profitabilitas dan struktur modal dapat
+dijadikan dasar pengambilan keputusan investasi kerena keduanya mengukur
+kemampuan perusahaan dalam menghasilkan tingkat pengembalian atas
+investasi yang dilakukan pada perusahaan tersebut.
+3. Bahan referensi bagi masyarakat pada umumnya yang dapat digunakan
+sebagai sumber informasi maupun untuk melanjutkan penelitian ini.
+
+1.5 Kerangka Pemikiran
+Pengukuran profitabilitas pada penelitian ini diwakili oleh Return On Asset
+(ROA), dengan alasan bahwa ROA dapat mencerminkan alat ukur kinerja
+keuangan yang baik dan berkesinambungan yang cukup berpengaruh dalam hal
+keputusan investor untuk berinvestasi. Jika diperoleh ROA yang cukup tinggi,
+maka perusahaan tersebut beroperasi secara efektif, hal ini menjadi daya tarik bagi
+investor untuk menanamkan modalnya, yang artinya mengakibatkan kenaikan
+nilai saham perusahaan yang bersangkutan. Kenaikan nilai saham perusahaan
+tersebut diikuti dengan meningkatnya permintaan akan saham tersebut dan diikuti
+dengan naiknya harga saham.Penelitian sebelumnya yang dilakukan oleh
+Haryanto (2003) menyimpulkan bahwa ROA berpengaruh secara signifikan
+terhadap harga saham. ROA menunjukkan keefektifan produktivitas dalam suatu
+perusahaan, sehingga apabila nilai ROA naik akan mengakibatkan harga saham
+naik atau setidaknya harga saham tersebut tetap.
+Selain profitabilitas yang baik untuk menaikkan daya tarik investor, pertimbangan
+yang tidak kalah penting adalah analisis struktur modal. Pada penelitian ini
+struktur modal diwakilkan oleh rasio debt to equty ratio (DER) yang
+menunjukkan sejauhmana modal perusahaan dibiayai oleh hutang. Semakin tinggi
+DER maka akan semakin rendah pendanaan yang dibiayai dari intern perusahaan.
+Semakin tinggi DER maka akan semakin tinggi risiko finansial perusahaan,
+disebabkan perusahaan harus membayar hutang yang akan jatuh tempo. Dalam
+kaitannya dengan harga saham, Daniel Sehate (2009) menyatakan bahwa semakin
+tinggi DER akan menurunkan harga saham, disebabkan para investor khawatir
+menanamkan modalnya pada perusahaan yang memiliki risiko hutang tinggi.
+Sehingga dapat disimpulkan bahwa hubungan DER dengan harga saham adalah
+berpengaruh negatif, yang artinya pada saat nilai DER naik maka harga saham
+turun atau setidaknya tidak berubah.
+Berdasarka uraian tersebut, maka kerangka pemikiran dari penelitian ini dapat
+digambarkan sebagai berikut:

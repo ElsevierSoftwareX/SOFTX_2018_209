@@ -1,0 +1,826 @@
+﻿PENGARUH KARAKTERISTIK PERUSAHAAN TERHADAP
+KEPUTUSAN PENDANAAN (PERBANDINGAN ANTAR
+SUB SEKTOR INDUSTRI MANUFAKTUR)
+
+ Abstrak
+Tujuan penelitian ini adalah untuk menentukan perbedaan antara keputusan keuangan dan
+pengaruh karakteristik perusahaan pada keputusan keuangan di setiap sub-sektor pada perusahaan
+manufaktur di Indonesia. Teknik analisis menggunakan ANOVA dan regresi berganda.
+Berdasarkan hasil analisis dapat disimpulkan bahwa total utang dengan aset dan utang jangka
+pendek dengan total aset memiliki perbedaan signifikan di antara aneka industri, barang konsumsi
+dan industri dasar, dan industri kimia. Hasil riset menunjukkan bahwa utang jangka pendek di
+aneka industri dipengaruhi oleh profitabilitas dan struktur aset, sementara pada industri barang
+konsumsi dipengaruhi oleh ukuran perusahaan, dan untuk industri dasar dan kimia dipengaruhi
+oleh profitabilitas, struktur aset, dan pertumbuhan perusahaan. Utang jangka panjang aneka industri
+dipengaruhi oleh ukuran dan risiko bisnis, sementara pada barang konsumsi dipengaruhi oleh
+profitabilitas, dan untuk industri dasar dan kimia dipengaruhi oleh ukuran, profitabilitas, dan
+struktur aset. Total utang dengan aset di aneka industri dipengaruhi oleh ukuran, profitabilitas,
+struktur aset, dan risiko bisnis, sementara di industri dasar dan kimia dipengaruhi oleh ukuran
+perusahaan dan profitabilitas.
+Kata kunci: karakteristik perusahaan, keputusan keuangan
+PENDAHULUAN
+Sumber pendanaan perusahaan berasal dari
+pendanaan internal dan pendanaan eksternal.
+Pendanaan internal merupakan sumber
+pendanaan yang berasal dari dalam perusahaan
+yang dihasilkan dari laba yang disisihkan perusahaan. Sumber pembiayaan eksternal
+diperoleh perusahaan dengan melakukan
+pinjaman kepada pihak ketiga atau menjual
+sahamnya kepada masyarakat (go public) di
+pasar modal. Sumber pendanaan yang berasal
+dari internal perusahaan pada umumnya tidak
+cukup untuk membiayai aktivitas dan
+pertumbuhan perusahaan. Oleh sebab itu
+perusahaan, menggunakan sumber pendanaan
+yang berasal dari eksternal perusahaan berupa
+utang, walaupun akan berakibat meningkatkan
+risiko keuangan perusahaan.
+Masing-masing perusahaan memiliki
+keputusan pendanaan yang berbeda. Keputusan
+pendanaan tersebut dipengaruhi oleh banyak
+faktor, seperti karakteristik perusahaan atau
+industry, dan kondisi ekonomi. Masing-masing
+perusahaan mempunyai karakteristik berbeda
+karena industrinya yang berbeda, dengan
+demikian keputusan pendanaan antara
+perusahaan atau industri satu dengan lain juga
+berbeda.
+Perusahaan yang terdaftar di Bursa
+Efek Indonesia, dibagi menjadi beberapa
+sektor. Berdasarkan Jakarta Stock Industrial
+Classification (Jasica) Index membagi
+perusahaan-perusahaan tersebut menjadi 9
+sektor, Yaitu: Primary sectors terdiri dari
+sektor agriculture dan sektor pertambangan.
+Secondary sectors terdiri dari sektor industri
+dasar dan kimia, sektor aneka industri dan
+sektor consumer goods property. Tertiary
+Sectors terdiri dari sektor real estate and
+building construction, sektor infrastructure,
+utilities and transportation, sektor keuangan,
+dan sektor trade, services and investment. Di
+antara sektor-sektor tersebut secondary sectors
+atau yang menurut sistematika Indonesia
+Capital Market Direcory (ICMD) disebut
+dengan manufaktur, yang terdiri dari sub sektor
+industri dasar dan kimia, sektor aneka industri
+dan sektor consumer goods yang akan
+dijadikan sebagai objek pada penelitian ini.
+Rata-rata rasio total utang terhadap
+total aktiva tahun 2009-2011 pada sub sektor
+consumer goods 41,36%, sektor aneka industri
+mempunyai rata-rata 89,46%, sektor industri
+dasar dan kimia mempunyai rata-rata 54%.
+Perusahaan yang memiliki relatif lebih banyak
+utang akan memiliki risiko keuangan yang
+lebih tinggi dibandingkan perusahaan yang
+menggunakan sedikit utang. Adanya
+keberagaman struktur keuangan pada masingmasing
+sub sektor tersebut, menarik untuk
+dikaji lebih lanjut, barkaitan dengan faktorfaktor
+apa saja yang memengaruhi keputusan
+pendanaan tersebut.
+Beberapa penelitian menemukan hasil
+yang berbeda mengenai pengaruh karakteristik
+perusahaan terhadap keputusan pendanaan.
+Abor (2007) dan Bokpin dan Arko (2009)
+menemukan bahwa profitabilitas, struktur
+aktiva berpengaruh negatif dan size berpengaruh
+positif terhadap struktur modal di
+Ghana. Chen (2004) pada penelitiannya terhadap
+perusahaan di China menemukan profitabilitas
+dan size berpengaruh negatif terhadap
+struktur modal, tetapi growth dan struktur
+aktiva berpengaruh positif terhadap struktur
+modal. Penelitian Indrajaya dkk (2011) di
+Indonesia menemukan bahwa growth, size,
+struktur aktiva, risiko bisnis berpengaruh
+positif, sedangkan profitabilitas berpengaruh
+negatif terhadap struktur modal. Hal ini dapat
+terjadi karena perbedaan sampel, waktu penelitian,
+dan populasi yang diteliti.
+Penelitian ini hendak mengkaji perbedaan
+keputusan pendanaan antara masingmasing
+sub sektor industri manufaktur yang
+terdaftar di BEI dan pengaruh karakteristik
+perusahaan terhadap keputusan pendanaan pada
+masing-masing sub sektor industri manufaktur
+yang terdaftar di BEI periode 2009 sampai
+2011.
+LANDASAN TEORI DAN PENGEMBANGAN
+HIPOTESIS
+Keputusan Pendanaan
+Keputusan pendanaan adalah keputusan yang
+menyangkut tentang bentuk dan komposisi
+pendanaan yang dipergunakan perusahaan
+(Suad, 1995). Brealey, Myers & Marcus
+(2001:446) menyatakan financing decision
+adalah bentuk dan jumlah dari pendanaan atau
+pembiayaan dari sebuah investasi perusahaan.
+Keputusan pendanaan berkaitan dengan proses
+pemilihan sumber dana yang dipakai untuk
+membelanjai investasi yang direncanakan dari
+berbagai alternatif sumber dana yang tersedia,
+sehingga diperoleh suatu kombinasi pembelanjaan
+yang paling efisien (Sudana, 2009:5).
+Sumber dana perusahaan dibagi
+menjadi dua, yaitu sumber dana internal yang
+berasal dari laba yang ditahan hasil kegiatan
+operasional perusahaan. Sumber dana eksternal berasal dari pinjaman atau penerbitan saham
+perusahaan. Hasil dari keputusan pendanaan
+akan tercermin pada struktur keuangan.
+Struktur keuangan tampak pada neraca sebelah
+kredit, yang terdiri atas utang lancar, utang
+jangka panjang dan modal.
+Perusahaan dihadapkan dua pilihan
+atas keputusan pendanaan dengan utang, yaitu
+menggunakan utang jangka pendek atau utang
+jangka panjang. Secara normatif investasi
+jangka panjang membutuhkan sumber pendanaan
+jangka panjang dan investasi jangka
+pendek membutuhkan sumber pendanaan
+jangka pendek. Halley and Schall, (1979)
+menyatakan “many firms have had both short
+term and long term debt outstanding for a
+considerable period.“ Kebutuhan pendanaan
+perusahaan dapat dipenuhi baik melalui
+pendanaan jangka panjang maupun jangka
+pendek. Tugas manajer keuangan berhubungan
+dengan bagaimana perusahaan mendapatkan
+dan mengelola dana yang dibutuhkan untuk
+mendukung investasi yang dilakukan perusahaan,
+sesuai dengan jangka waktunya.
+Hasil keputusan pendanaan yang
+diambil oleh pihak manajemen tercermin dalam
+struktur keuangan perusahaan yang diukur
+dengan cara sebagai berikut:
+Total debt to asset ratio (DTA), adalah
+perbandingan antara total utang dengan total
+aset yang dimiliki oleh perusahaan.
+  	
+
+
+	
+
+......................................... 1)
+Short term debt to asset ratio (SDTA), adalah
+perbandingan antara total utang jangka pendek
+dengan total asset yang dimiliki oleh
+perusahaan.
+  
+
+
+
+ !" .......................... 2)
+Long term debt to asset ratio (LDTA,) adalah
+perbandingan antara total utang jangka panjang
+dengan total asset yang dimiliki perusahaan
+#  
+$
+%&
+	
+ ........................ 3)
+Karakteristik Perusahaan
+Karakteristik perusahaan merupakan ciri khas
+atau spesifik perusahaan yang dapat mempengaruhi
+kinerja perusahaan. Karakteristik
+perusahaan dapat memengaruhi keputusan
+pemenuhan sumber dana perusahaan (Ozkan,
+2001). Wald (1999), mengemukakan bahwa
+adanya perbedaan karakteristik perusahaan
+akan menyebabkan perbedaan pada komposisi
+struktur keuangan sebuah perusahaan. Karakteristik
+perusahaan yang diteliti pada penelitian
+ini meliputi: size, profitabilitas, struktur aktiva,
+growth, dan risiko bisnis.
+Ukuran perusahaan (Size)
+Ukuran (size) perusahaan menunjukkan besar
+kecilnya ukuran perusahaan pada saat tertentu
+yang dapat dilihat dari jumlah penjualan, atau
+jumlah aktiva yang dimiliki perusahaan. Firm
+size pada penelitian ini diukur menggunakan
+logaritma natural dari penjualan.
+Size = (Ln sales) ............................. 4)
+Nilai penjualan memperlihatkan keberhasilan
+investasi periode masa lalu dan dapat dijadikan
+prediksi pertumbuhan yang akan datang.
+Omran dan Pointon (2009), pada penelitian di
+Mesir dan Buferna (2011) pada penelitiannya
+di Lybia menemukan bahwa size berpengaruh
+positif terhadap keputusan pendanaan. Chen
+(2003) menemukan bahwa size berpengaruh
+positif pada rasio total utang di China, namun
+size juga ditemukan berpengaruh negatif pada
+rasio utang jangka panjang. Mouamer (2011)
+menemukan di Palestina bahwa size berpengaruh
+negatif terhadap utang jangka pendek
+dan total utang. Semakin besar nilai penjualan
+perusahaan memperlihatkan semakin besar
+ukuran perusahaan. Pihak kreditor lebih
+menyukai untuk memerikan pinjaman kepada
+perusahaan besar daripada perusahaan kecil,
+karena lebih dipercaya, sehingga perusahaan
+besar mempunyai peluang yang lebih luas dan
+mudah untuk mendapatkan pinjaman.
+H1: Ukuran perusahaan berpengaruh positif
+terhadap penggunaan utang.
+Profitabilitas
+Profitabilitas menunjukkan kemampuan suatu
+perusahaan untuk memeroleh keuntungan
+dengan menggunakan aktiva, modal atau penjualan.
+Kemampuan perusahaan tersebut merupakan
+hasil dari berbagai kebijakan dan keputusan
+yang dilakukan manajemen dalam
+memanfaatkan berbagai sumber dana atau
+aktiva yang ada. Keputusan pendanaan yang
+tidak tepat akan menimbulkan biaya tetap yang
+tinggi, sehingga profitabilitas perusahaan akan
+menurun. Para investor dan kreditor sangat berkepentingan dalam mengevaluasi kemampuan
+perusahaan untuk menghasilkan laba saat
+ini maupun masa datang. Abor (2007) pada
+penelitiannya di Ghana dan Chen (2003) pada
+penelitian di China menemukan profitabilitas
+berpengaruh negatif terhadap keputusan pendanaan
+dengan utang. Wald (199), menemukan
+bahwa profitabilitas berpengaruh negatif terhadap
+penggunaan utang di Negara Jepang,
+Jerman, Perancis, US dan Inggris. Buferna, et
+al (2005) menemukan bahwa Profitabilitas berpengaruh
+positif terhadap total utang dan utang
+jangka pendek. Brealey, Myers & Marcus
+(2001) menjelaskan kebanyakan perusahaan
+dengan profit besar umumnya meminjam lebih
+sedikit. Hal tersebut bukan karena perusahaan
+mempunyai target debt ratio yang rendah,
+tetapi karena perusahaan tidak memerlukan
+dana dari luar mengingat sumber dana internal
+berupa laba ditahan telah mencukupi kebutuhan
+dana perusahaan. Profitabilitas adalah kemampuan
+perusahaan untuk menghasilkan laba bersih
+dengan total aktiva (ROA), yang diukur
+dengan rumus:
+ROA =
+'(
+)*+(
+	
+,,( .......................................... 5)
+Perusahaan dengan keuntungan yang lebih
+sedikit akan lebih banyak menerbitkan utang
+karena perusahaan tidak mempunyai dana
+internal yang cukup untuk membiayai investasi
+dan operasi perusahaan.
+H2: Profitabilitas berpengaruh negatif terhadap
+penggunaan utang.
+Struktur Aktiva
+Aktiva dapat digolongkan menjadi aktiva
+lancar dan aktiva tetap. Komposisi kedua aktiva
+tersebut terhadap total aktiva akan menentukan
+struktur kekayaan atau lebih dikenal dengan
+struktur aktiva dari sebuah perusahaan. Struktur
+aktiva adalah perimbangan atau perbandingan
+baik dalam artian absolut maupun dalam artian
+relatif antara aktiva lancar dengan aktiva tetap
+(Riyanto, 2001). Struktur aktiva merupakan
+penentuan berapa besar alokasi untuk masingmasing
+komponen aktiva, baik aktiva lancar
+maupun aktiva tetap. Struktur aktiva
+merupakan rasio aktiva tetap dengan total
+aktiva yang dimiliki perusahaan.
+Struktur aktiva =
+
+(-
+	
+ ......................... 6)
+Chen (2003) dalam penelitian menemukan
+struktur aktiva berpengaruh positif terhadap
+penggunaan utang perusahaan di China. Omran
+dan Pointon (2009) menemukan struktur aset
+berpengaruh negatif terhadap total utang dan
+utang jangka pendek pada perusahaan di Mesir.
+Buferna, et al (2005) menemukan pengaruh
+negatif tangibility terhadap long term debt ratio
+dan total debt ratio untuk perusahaan swasta di
+Mesir. Struktur aktiva yang tinggi menunjukkan
+bahwa perusahaan tersebut secara relatif
+memiliki proporsi aktiva tetap yang lebih besar
+dibandingkan aktiva lancar . Aktiva tetap perusahaan
+tesebut dapat dijadikan sebagai jaminan
+kepada kreditor. Jaminan tersebut menjadi
+dasar kepercayaan kreditor untuk memerikan
+lebih banyak pinjaman kepada perusahaan.
+Perusahaan dengan aktiva tetap yang tinggi
+cenderung menggunakan utang jangka panjang
+untuk mendanai kebutuhannya, sedangkan perusahaan
+dengan aktiva lancar yang lebih tinggi
+cenderung menggunakan utang jangka pendek
+untuk mendanai kebutuhan dananya.
+H3: Struktur aktiva berpengaruh postif terhadap
+penggunaan utang.
+Pertumbuhan (growth) perusahaan
+Pertumbuhan (growth) perusahaan merupakan
+pembentuk nilai perusahaan yang tidak bisa
+dijadikan jaminan utang dan bisa menghasilkan
+pendapatan di masa yang akan datang. Growth
+merupakan tingkat pertumbuhan perusahaan
+yang tergantung pada investasi yang dilakukan
+perusahaan dan dapat meningkatkan nilai perusahaan.
+Perusahaan yang mempunyai kesempatan
+tumbuh atau berkembang adalah perusahaan
+yang mempunyai kapasitas ekspansi
+relatif besar, mempunyai kesempatan untuk
+mengembangkan lini produk baru, mampu dan
+berkesempatan mengambil alih perusahaan lain
+atau mampu memelihara dan mengganti aktiva
+perusahaan. Hal ini berarti perusahaan mempunyai
+kesempatan memperluas pangsa pasar,
+sehingga memungkinkan peningkatan penjualan
+dan peningkatan keuntungan perusahaan.
+Penelitian yang dilakukan Chen (2003) di
+China dan Abor (2007) di Ghana, menemukan
+bahwa growth berpengaruh positif terhadap
+utang. Eriotis, et al (2007) menemukan bahwa
+growth mempunyai pengaruh negatif terhadap
+struktur modal perusahaan di Yunani, hasil
+yang sama juga ditemukan Buferna (2005) pada pengaruh negatif growth terhadap utang di
+perusahaan Lybia.
+Pertumbuhan (growth) perusahaan, diukur
+dengan pertumbuhan penjualan perusahaan tiap
+tahun.
+Growth =
+./01
+./023
+./023
+................................ 7)
+Tingkat pertumbuhan penjualan perusahaan
+saat ini dapat dapakai untuk memprediksi
+mengenai kondisi penjualan di masa mendatang.
+Brigham dan Houston (2001), mengatakan
+bahwa perusahaan dengan pertumbuhan
+penjualan yang relatif tinggi dapat menggunakan
+utang lebih banyak dibandingkan dengan
+perusahaan yang pertumbuhan penjualannya
+rendah. Apabila penjualan perusahaan mengalami
+kenaikan, maka kreditor menilai kondisi
+perusahaan mengalami perkembangan. Hal
+tersebut menjadi salah satu pertimbangan
+kreditor untuk memerikan pinjaman kepada
+perusahaan, karena kondisi perusahaan dinilai
+aman dan diharapkan akan mampu membayar
+kewajibannya.
+H4: Pertumbuhan perusahaan berpengaruh
+positif terhadap penggunaan utang.
+Risiko bisnis
+Risiko bisnis adalah risiko yang berkaitan
+dengan keputusan investasi. Beda bidang
+industri yang menjadi bisnis perusahaan
+berbeda pula risiko bisnisnya. Risiko bisnis
+berbeda-beda di antara perusahaan yang satu
+dengan perusahaan yang lain di industri yang
+sama, hal ini karena investasi pada aktiva tetap
+masing-masing perusahaan berbeda-beda.
+Penggunaan aktiva tetap dalam operasi
+perusahaan akan menimbulkan beban tetap
+berupa penyustan yang akan berdampak pada
+operating laverage , sebagai salah satu proksi
+untuk mengukur risiko bisnis perusahaan.
+Perusahan dengan operating leverage yang
+tinggi cenderung mengurangi penggunaan
+utangnya, mengingat risiko bisnis yang timbul
+dari aktivitas operasional perusahaan sudah
+tinggi, dan apabila perusahaan tidak
+mengurangi penggunakan utang, maka risiko
+perusahaan akan bertambah dengan risiko
+keuangan yang timbul dari penggunaan utang.
+Wald (1999), menemukan bahwa risiko
+berpengaruh negatif terhadap utang di Negara
+Amerika Serikat dan Perancis, sedangkan
+pengaruh positif risiko bisnis terhadap utang
+ditemukan di Negara Jepang, Jerman dan
+Inggris. Huang dan Song, menemukan bahwa
+di China perusahaan dengan risiko bisnis yang
+tinggi mempunyai tingkat utang yang tinggi
+pula, hasil yang sama juga di temukan Omran
+dan Pointon (2009) pada perusahaan di Mesir.
+Riskiko bisnis pada penelitian ini diukur
+dengan degree of operating leverage (DOL),
+yaitu besarnya persentase perubahan EBIT
+akibat dari persentase perubahan pada
+penjualan tertentu.
+456 
+ 789:;
+78./ ................................ 8)
+Semakin besar DOL, berarti risiko bisnis
+perusahaan juga akan semakin besar, karena
+jika terjadi perubahan penjualan tertentu akan
+mengakibatkan perubahan EBIT yang lebih
+besar, dan sebaliknya. Risiko bisnis yang besar
+akan berdampak pada fluktuasi pendapatan
+perusahaan, akibatnya perusahaan dengan
+pendapatan yang tidak stabil akan kesulitan
+untuk memperoleh pinjaman dana dari pihak
+kreditor.
+H5: Risiko bisnis berpengaruh negatif terhadap
+penggunaan utang.
+METODE PENELITIAN
+Variabel Penelitian
+Variabel dependen, yaitu keputusan pendanaan.
+Keputusan pendanaan merupakan kebijakan
+yang diambil perusahaan terkait dengan
+penggunaan sumber pendanaan eksternal, yaitu
+utang. Keputusan pendanaan pada penelitian ini
+diukur dengan cara sebagai berikut: a) Total
+debt to asset ratio (DTA), adalah perbandingan
+antara total utang dengan total aset yang
+dimiliki oleh perusahaan yang diukur dengan
+rumus nomor 1). b) Short term debt to asset
+ratio (SDTA), adalah perbandingan antara total
+utang jangka pendek dengan total asset yang
+dimiliki oleh perusahaan yang diukur dengan
+rumus nomor 2). c) Long term debt to asset
+ratio (LDTA,) adalah perbandingan antara total
+utang jangka panjang dengan total asset yang
+dimiliki perusahaan yang diukur dengan rumus
+nomor 3).
+Variabel Independen. a) Ukuran (size)
+perusahaan adalah besarnya perusahaan yang
+diukur dengan rumus nomor 4). b) Profitabilitas
+adalah kemampuan perusahaan untuk menghasilkan
+laba bersih dengan total aktiva yang diukur dengan rumus nomor 5). c) Struktur
+aktiva merupakan rasio aktiva tetap dengan
+total aktiva yang dimiliki perusahaan yang
+diukur dengan rumus nomor 6). d) Pertumbuhan
+(growth) perusahaan, merupakan pertumbuhan
+penjualan perusahaan tiap tahun
+yang diukur dengan rumus nomor 7). e) Risiko
+bisnis, adalah sensitivitas perubahan EBIT
+sebagai akibat perubahan penjualan, yang
+diproksikan dengan degree of operating
+leverage (DOL) yang diukur dengan rumus
+nomor 8)
+Model Analisis
+Penelitian ini menggunakan model analisis
+sebagai berikut: ANOVA untuk mengetahui
+perbedaan rata-rata keputusan pendanaan antar
+masing-masing sub sektor.
+F =
+<=>
+<?>
+@A =
+3BDCDDDD3D1
+DCDDDE>F
+>BCDDDDD>D1
+DCDDDE>F
+GBDCDDDDGD1
+DCDDDE>
+
+1H
+IA = J KLMN1
+LDDDDDODP
+'1
+A
+&
+Keterangan :
+@A = varian keputusan pendanaan antar
+kelompok sub sektor manufaktur
+IA = varian keputusan pendanaan dalam
+kelompok sub sektor manufaktur
+DQDDRD = rata-rata rasio utang (SDTA, LDTA
+atau DTA) gabungan semua sub
+sektor manufaktur
+DSDDTD = rata-rata rasio utang (SDTA, LDTA
+atau DTA) masing-masing sub
+sektor
+UVnufaktur
+QR& = rata-rata rasio utang ((SDTA, LDTA
+atau DTA) pada kelompok j dan
+observasi 
+ke i
+W
+ = banyaknya sampel pada kelompok
+masing-masing sub sektor manufaktur
+N = Total banyaknya sampel
+k = banyaknya kelompok/sub sektor
+Model analisis multiple regression
+untuk menganalisis pengaruh variabel independen
+terhadap variabel dependen. Berikut
+merupakan model regresi berganda yang
+digunakan pada penelitian ini adalah:
+
+ 
+XH YZHH[! YZHA\Q]^YZH_ Y
+ZH`aSb! YZHcSde! Y f .............................. 9)
+
+ 
+XA YZAH[! YZAA\Q]^YZA_ Y
+ZA`aSb! YZAcSde! Y f ......................... 10)
+
+# 
+X_ YZ_H[! YZ_A\Q]^YZ__ Y
+Z_`aSb! Y Z_cSde! Y f .......................... 11)
+Keterangan :
+ = Total debt to assets ratio
+perusahaan i pada tahun t
+
+ = Short term debt to assets ratio
+perusahaan i pada tahun t
+# = Long term debt to assets ratio
+perusahaan i pada tahun t
+dg! = Ukuran Perusahaan (size)
+perusahaan i pada tahun t
+hS5i! = Profitabilitas perusahaan i pada
+tahun t
+dj! = Struktur aktiva perusahaan i pada
+tahun t
+aSb!
+ = Pertumbuhan perusahaan i pada
+tahun t
+Sde! = Risiko perusahaan i pada tahun t
+XHkAk_ = Konstanta Persamaan Regresi
+ZHH lZHc = Koefisien variabel model regresi
+persamaan
+ZAH lZAc = Koefisien variabel model regresi
+persamaan
+f
+ = error
+HASIL DAN PEMBAHASAN
+Deskripsi variabel
+Pada Tabel 1 menunjukkan deskripsi statistik
+data variabel independen maupun depenpen
+pada masing-masing sub sektor industri. Ratarata
+utang jangka pendek yang terbesar yaitu
+pada sub sektor aneka industri yaitu 39.80%,
+rata-rata utang jangka panjang yang terbesar
+adalah sub sektor industri dasar kimia sebesar
+16.33%. Proporsi penggunaan utang pada
+semua sub sektor yang terbesar adalah utang
+jangka pendek. Consumer goods merupakan
+sub sektor dengan mean size, profitabilitas dan
+risiko bisnis terbesar dibandingkan dengan sub
+sektor lainnya.
+
+Analiasis Hasil Penelitian
+Hasil uji ANOVA pada Tabel 2 menunjukkan
+nilai signifikansi dari penggunaan utang jangka
+pendek (SDTA) sebesar 0,002 dan total utang
+(DTA) sebesar 0.006, hal ini berarti terdapat
+perbedaan yang signifikan nilai rata-rata total
+SDTA dan DTA antar ketiga sub sektor, yaitu
+sub sektor aneka industri, consumer goods dan
+industri dasar dan kimia. Rata-rata rasio utang
+jangka pendek terhadap total aset (SDTA),
+menunjukkan terdapat perbedaan yang
+signifikan antara sub sektor aneka industri dan
+consumer goods, dan juga antara sub sektor
+aneka industri dan industri dasar kimia, Sub
+sektor yang memiliki perbedaan yang
+signifikan rata-rata penggunaan total utang
+(DTA), adalah antara sub sektor aneka industri
+dan consumer goods.
+Hasil analisis regresi perusahaan aneka
+industri terlihat pada Tabel 3. Dari tabel
+tersebut dapat dilihat bahwa size dan risiko
+bisnis berpengaruh positif signifikan terhadap
+DTA dan LDTA, sedangkan profitabilitas dan
+struktur aktiva berpengaruh negatif signifikan
+terhadap DTA dan SDTA,
+Tabel 4, menunjukkan hasil analisis
+regresi pada sub sektor consumer goods. Hasil
+analisis regresi sub sektor consumer goods
+menunjukan size berpengaruh positif signifikan
+terhadap SDTA, sedangkan profitabilitas
+berpengaruh negatif signifikan terhadap LDTA.
+
+
+Pada Tabel 5 merupakan hasil analisis regresi
+pada sub sektor industri dasar dan kimia. Hasil
+analisis regresi menunjukkan bahwa size
+berpengaruh positif signifikan terhadap variabel
+DTA dan LDTA. Profitabilitas berpengaruh
+negatif signifikan terhadap ketiga ukuran
+keputusan pendanaan, sedangkan truktur aktiva
+berpengaruh negatif signifikan terhadap SDTA
+dan berpengaruh positif signifikan terhadap
+LDTA. Growth berpengaruh positif signifikan
+terhadap SDTA.
+
+Pembahasan
+Berdasarkan hasil analisis yang dilakukan,
+terdapat perbedaan pengaruh karakteristik
+industri terhadap keputusan pendanaan pada
+masing-masing sub sektor. Keputusan
+pendanaan jangka pendek pada sub sektor
+aneka industri dipengaruhi oleh profitabilitas
+dan struktur aset, pada sub sektor consumer
+goods dipengaruhi oleh size dan pada sub
+sektor industri dasar kimia dipengaruhi oleh
+profitabilitas, struktur aset dan growth. Hal ini
+dikarenakan perusahaan pada sub sektor aneka
+industri dan industri dasar kimia dengan
+profitabilitas yang semakin tinggi, maka
+perusahaan akan memiliki cadangan dana
+internal berupa laba ditahan yang semakin
+besar. Laba ditahan tersebut dapat digunakan
+perusahaan untuk membiayai investasi,
+sehingga penggunaan dana eksternal berupa
+utang jangka pendek menjadi berkurang.
+Profitabilitas berpengaruh negatif terhadap
+keputusan pendanaan jangka pendek ini sesuai
+dengan penelitian yang Abor (2007) dan
+Buferna, et al (2005).
+Keputusan pendanaan jangka pendek
+pada sub sektor aneka industri dan industri
+dasar kimia dipengaruhi oleh struktur aset,
+kedua sub sektor ini merupakan industri dengan
+aset tetap yang tinggi dan lebih mengandalkan
+utang jangka panjang untuk membiayai aset
+tetapnya, sehingga kebutuhan akan utang
+jangka pendek akan menurun seiring dengan
+bertambahnya aset tetap perusahaan. Hasil
+penelitian ini sesuai dengan penelitian Omran
+dan Pointon (2009) dan Mouamer (2011).
+Keputusan Pendanaan jangka pendek pada sub
+sektor industri dasar kimia selain dipengaruhi
+oleh profitabilitas dan struktur aset, juga
+dipengaruhi oleh growth. Hal tersebut
+dikarenakan kreditor menilai pertumbuhan
+penjualan pada sub sektor ini sebagai proyeksi
+atas kemampuan perusahaan untuk melunasi
+utangnya. Perusahaan dengan pertumbuhan
+penjualan yang semakin tinggi akan membutuhkan
+pendanaan yang lebih besar dan
+kreditor juga mempunyai kepercayaan lebih
+tinggi untuk memberikan pinjaman kepada
+perusahaan dengan tingkat pertumbuhan yang
+meningkat. Pengaruh positif growth terhadap
+keputusan pendanaan jangka pendek sesuai
+dengan penelitian Abor (2007) dan Buferna, et
+al (2005).
+
+Keputusan pendanaan jangka pendek
+pada sub sektor consumer goods hanya
+dipengaruhi oleh size, karena sub sektor ini
+merupakan industri dengan keadaan yang
+relatif stabil dibandingan dengan sub sektor
+lainnya. Persaingan untuk memasuki sub sektor
+ini juga lebih ketat dibandingkan dengan sub
+sektor lainnya. Perusahaan besar pada sub
+sektor ini lebih mendominasi dan dipercaya
+pasar, sehingga perusahaan kecil akan kesulitan
+untuk masuk dan berkembang. Oleh karena
+itulah kreditor akan lebih memilih untuk
+memberikan pinjaman kepada perusahaan besar
+dibandingkan dengan perusahaan kecil. Size
+berpengaruh positif terhadap keputusan
+pendanaan ini sesuai dengan penelitian yang
+dilakukan Abor (2007) dan Buferna, et al
+(2005).
+Keputusan pendanaan jangka panjang
+pada masing-masing sub sektor industri
+manufaktur dipengaruhi oleh variabel yang
+berbeda. Keputusan pendanaan jangka panjang
+pada sub sektor aneka industri dipengaruhi oleh
+size dan risiko bisnis, pada sub sektor consumer
+goods hanya dipengaruhi oleh profitabilitas,
+sedangkan keputusan pendanaan jangka
+panjang pada sub sektor industri dasar kimia
+dipengaruhi oleh size, profitabilitas dan struktur
+aset. Hal ini karena perusahaan pada sub sektor
+aneka industri merupakan industri yang
+membutuhkan mesin-mesin yang canggih
+dalam produksinya. Perusahaan pada sub sektor
+aneka industri dengan size yang semakin besar
+akan membutuhkan pendanaan jangka panjang
+yang semakin meningkat. Hal itu dikarenakan
+perusahaan dengan size yang besar mempunyai
+penjualan yang besar, sehingga perusahaan
+membutuhkan pendanaan yang besar untuk
+menambah kapasitas produksi. Kekurangan
+pendanaan ini diperoleh perusahaan dengan
+mengajukan pinjaman kreditor. Kreditor dalam
+hal ini akan lebih memilih untuk memberikan
+pinjaman kepada perusahaan dengan penjualan
+yang besar dibandingkan dengan perusahaan
+dengan tingkat penjualan yang kecil. Pengaruh
+positif size terhadap keputusan pendanaan
+jangka panjang sesuai dengan penelitian Sheikh
+and Wang (2012) dan Abor (2007)
+Keputusan pendanaan jangka panjang
+sub sektor aneka industri juga dipengaruhi
+risiko bisnis yang diproksikan dengan DOL.
+Perusahaan pada sub sektor aneka industri
+merupakan perusahaan padat modal, yaitu
+perusahaan yang menggunakan tenaga kerja
+sedikit dan aktiva tetap yang banyak serta
+canggih. Perusahaan padat modal mempunyai
+DOL yang tinggi dan sensitif terhadap
+perubahan penjualan. Apabila terjadi penurunan
+penjualan, maka perusahaan tersebut
+akan mengalami penurunan EBIT yang lebih
+besar dibandingkan perusahaan dengan DOL
+yang lebih rendah. Penurunan EBIT akan
+berdampak pada penurunan laba ditahan,
+sehingga kebutuhan dana akan dipenuhi dengan
+utang. Meskipun resiko bisnis perusahaan
+besar, perusahaan tetap berani menggunakan
+utang dikarenakan selama periode penelitian
+menunjukkan kondisi perekonomian Indonesia
+yang membaik, dilihat dari pertumbuhan
+ekonomi yang terus mengalami kenaikan tiap
+tahunnya dari 4,6% pada 2009 menjadi 6,5%
+pada 2011 (BPS, 2014). Risiko bisnis berpengaruh
+positif terhadap keputusan pendanaan
+sesuai dengan hasil penelitian Omran dan
+Pointon (2009) dan Huang dan Song.
+Keputusan pendanaan jangka panjang
+pada sub sektor industri dasar kimia dipengaruhi
+oleh size, struktur aset dan profitabilitas.
+Hal ini dikarenakan perusahaan besar dengan
+penjualan yang besar pada sub sektor ini akan
+mendapat kepercayaan yang lebih tinggi dari
+kreditor, sehingga perusahaan akan lebih
+mudah memperoleh tambahan pinjaman jangka
+panjang. Utang jangka panjang tersebut
+digunakan untuk membiayai investasi pada
+aktiva tetap, sehingga ketika struktur aktiva
+meningkat, utang jangka panjang juga meningkat.
+Hasil size berpengaruh positif terhadap
+keputusan pendanaan jangka panjang sesuai
+dengan penelitian Buferna, et al (2005) dan
+Abor (2007). Struktur aktiva berpengauh positif
+terhadap keputusan pendanaan jangka panjang
+sesuai dengan Mouamer (2011) dan Chen
+(2003). Pada sub sektor industri dasar dan
+kimia, keputusan pendanaan jangka panjang
+juga dipengaruhi oleh profitabilitas, sama
+halnya dengan keputusan pendanaan jangka
+panjang pada sub sektor consumer goods. Perusahaan
+dengan kemampuan menghasilkan
+laba yang meningkat justru akan mengurangi
+penggunaan utang jangka panjangnya. Hal tersebut
+dikarenakan perusahaan dengan profitabilitas
+yang tinggi mempunyai kemampuan
+menghasilkan laba yang semakin tinggi,
+sehingga perusahaan memiliki cadangan dana
+internal yang juga semakin besar. Dana internal atau laba ditahan tersebut digunakan untuk
+membiayai investasi perusahaan, sehingga
+kebutuhan perusahaan akan pendanaan eksternal
+perusahaan akan semakin berkurang. Hasil
+ini sesuai dengan penelitian yang dilakukan
+Chen (2003) dan penelitian Sheikh dan Wang
+(2012).
+Keputusan pendanaan total pada
+masing-masing sub sektor dipengaruhi oleh
+variabel-variabel yang berbeda, yaitu sub
+sektor aneka industri dipengaruhi oleh size,
+profitabilitas, struktur aset dan DOL, namun
+keputusan pendanaan total sub sektor consumer
+goods, tidak dipengaruhi oleh variabel yang
+diteliti, sedangkan total pada sub sektor industri
+dasar kimia dipengaruhi oleh size dan
+profitabilitas. Pengaruh karakteristik industri
+tersebut terhadap total utang sub sektor aneka
+industri, dikarenakan variabel-variabel tersebut
+terbukti berpengaruh terhadap keputusan
+pendanaan jangka panjang dan keputusan
+pendanaan jangka pendek perusahaan. Hal
+tersebut menunjukkan bahwa variabel yang
+berpengaruh terhadap keputusan pendanaan
+jangka pendek ataupun keputusan pendanaan
+jangka panjang, berpengaruh juga terhadap
+keputusan pendanaan total perusahaan sub
+sektor aneka industri.
+Keputusan pendanaan total pada sub
+sektor industri dasar kimia dipengaruhi oleh
+size dan profitabilitas. Hal itu karena di antara
+semua variabel karakteristik industri, size dan
+profitabilitas adalah variabel mempunyai
+pengaruh yang konsisten dan signifikan, baik
+terhadap keputusan pendanaan jangka panjang
+dan keputusan pendanaan jangka pendek,
+sedangkan variabel yang lain mempunyai
+pengaruh yang tidak konsisten.
+SIMPULAN
+Berdasarkan hasil analisis dan pembahasan,
+penelitian ini menghasilkan kesimpulan sebagai
+berikut: 1) Total debt to total asset dan short
+term debt to total asset memiliki perbedaan
+yang signifikan antar sub sektor aneka industri,
+consumer goods dan industri dasar dan kimia.
+2) Keputusan pendanaan jangka pendek sub
+sektor aneka industri dipengaruhi oleh
+profitabilitas dan struktur aktiva, pada sub
+sektor consumer goods dipengaruhi oleh size,
+sedangkan sub sektor industri dasar kimia
+dipengaruhi oleh profitabilitas, strutur aktiva
+dan growth. 3) Keputusan pendanaan jangka
+panjang pada sub sektor aneka industri
+dipengaruhi oleh size dan risiko bisnis, pada
+sub sektor consumer goods dipengaruhi
+profitabilitas, sedangkan pada sub sektor
+industri dasar kimia dipengaruhi oleh size,
+profitabilitas dan struktur aktiva. 4) Total debt
+to total asset sub sektor aneka industri
+dipengaruhi oleh size, profitabilitas, struktur
+aktiva dan risiko bisnis, sedangkan pada sub
+sektor industri dasar kimia dipengaruhi oleh
+size dan profitabilitas.

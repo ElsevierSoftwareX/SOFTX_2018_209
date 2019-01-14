@@ -1,0 +1,90 @@
+﻿Graf G disebut graf terhubung jika untuk setiap dua titik yang berbeda di G,
+terdapat suatu path yang menghubungkan dua titik tersebut, jika tidak maka
+disebut graf tidak terhubung. Suatu graf dapat diberi label pada titik atau garisnya.
+Jika hanya titik yang diberi label disebut pelabelan titik, jika hanya garis disebut
+pelabelan garis, dan jika titik dan garis yang diberi label maka disebut pelabelan
+total. Suatu garis pada graf yang memiliki titik awal dan titik akhir sama disebut
+loop, sedangkan dua garis disebut garis paralel jika dua garis tersebut
+menghubungkan dua titik yang sama. Jika diberikan n titik dan m garis, banyak
+graf yang dapat dibentuk, baik terhubung atau tidak terhubung, sederhana ataupun
+tidak. Pada penelitian ini diperoleh rumus untuk menghitung banyaknya graf tak
+terhubung berlabel titik dengan loop atau garis paralel untuk n = 3, 4, dan m ≥ 1
+sebagai berikut:
+a. untuk n = 3, ()
+b. untuk n = 4, ()() () ()
+
+Kata Kunci : graf tak terhubung, pelabelan titik, loop, sisi paralel.
+
+I. PENDAHULUAN
+1.1 Latar Belakang dan Masalah
+Teori graf merupakan salah satu cabang ilmu matematika yang memiliki banyak
+aplikasi dalam berbagai bidang. Dengan menggunakan teori graf dapat
+mempermudah dalam menyelesaikan suatu masalah. Salah satu contoh
+permasalahan yang dapat diselesaikan dengan teori graf yaitu permasalahan
+desain jaringan.
+Pada tahun 1736 teori graf diperkenalkan oleh Leonhard Euler sewaktu
+menyelesaikan masalah Jembatan Konigsberg. Terdapat tujuh jembatan di atas
+sungai Pregel di kota Konigsberg. Masalah Jembatan Konigsberg adalah
+mungkinkah seseorang mulai dari satu daratan, melintasi tepat satu kali setiap
+jembatan yang menghubungkan empat daratan yang dihubungkan oleh tujuh
+jembatan tersebut dan kembali ke tempat semula. Masalah jembatan Konigsberg
+ini dipresentasikan dalam bentuk gambar yang kemudian dikenal sebagai
+representasi graf, dengan titik menyatakan suatu daerah dan garis menyatakan
+jembatan yang menghubungkan dua daerah. Euler membuktikan bahwa tidak
+mungkin melewati setiap jembatan tepat satu kali dan kembali kegaris semula.
+Karena jumlah jembatan yang menghubungkan ganjil, maka tidak mungkin dapat
+melintasi tepat satu kali setiap jembatan yang menghubungkan ke empat daratan
+dan kembali ke tempat semula. Agar dapat melalui setiap jembatan tepat sekali
+diperlukan jumlah jembatan yang menghubungkan setiap daratan berjumlah
+genap. Ilustrasi dalam permasalahan tersebut dan bentuk representasinya dapat
+dilihat pada Gambar 1.
+
+Suatu graf G = G (V,E) didefinisikan sebagai pasangan himpunan (V,E), dengan
+V adalah himpunan titik yang tak kosong dan E adalah himpunan pasangan tak
+terurut (mungkin kosong) dari titik-titik yang disebut garis. Banyaknya titik pada
+G dinotasikan dengan │V│dan banyaknya garis dinotasikan dengan │E│.
+Suatu graf dapat diberi label pada titik atau garisnya. Jika hanya titik yang diberi
+label disebut pelabelan titik, jika hanya garis disebut pelabelan garis dan jika titik
+dan garis yang diberi label disebut pelabelan total. Label pada tiap titik dapat
+berbeda-beda bergantung pada masalah yang dimodelkan.
+
+Graf G disebut graf terhubung jika untuk setiap dua titik yang berbeda di G,
+terdapat suatu path (lintasan) yang menghubungkan dua titik tersebut, jika tidak
+terdapat path (lintasan) yang menghubungkan dua titik tersebut maka disebut graf
+tidak terhubung. Loop merupakan suatu garis pada graf yang memiliki titik awal
+dan titik akhir sama, sedangkan dua garis disebut garis paralel jika dua garis
+tersebut menghubungkan dua titik yang sama.
+Suatu graf yang tidak memuat loop atau garis paralel disebut graf sederhana. Jika
+diberikan n titik m garis maka banyak graf yang dapat terbentuk, baik sederhana
+ataupun tidak, maupun terhubung atau tidak.
+Enumerasi graf pertama kali dilakukan oleh Cayley (1874) sewaktu menemukan
+formula untuk menghitung isomer hidrokarbon. Pada tahun 2007, Bodirsky
+mengenalkan langkah-langkah mengenumerasi graf planar tidak berlabel.
+Untuk menghitung graf berlabel, pada tahun 2014 Rohandi menginvestigasi grafgraf
+tak terhubung berlabel titik tanpa loop dengan banyak titik adalah 3 dan 4,
+dan mendapatkan formula untuk n = 3 dan n = 4 dengan 1 ≤ m ≤10. Pada tahun
+2015, Winarni menginvestigasi banyaknya graf tak terhubung berlabel titik tanpa
+garis paralel. Berdasarkan hasil yang didapat oleh Rohandi (2014) dan Winarni
+(2015) penulis tertarik untuk meneliti banyaknya graf tak terhubung berlabel titik
+dengan loop atau garis paralel untuk n = 3 dan 4 dengan m≥1.
+
+1.2 Batasan Masalah
+Dalam penelitian ini pembahasan dibatasi hanya untuk graf tak terhubung berlabel
+titik dengan loop atau garis paralel jika n = 3 dan 4 dengan m ≥ 1, n adalah
+banyaknya titik pada graf yang dinotasikan │V(G)│= n, sedangkan m adalah
+banyaknya garis pada graf yang dinotasikan │E(G)│= m.
+1.3 Tujuan Penelitian
+Tujuan penelitian ini adalah menentukan banyaknya graf tak terhubung berlabel
+titik dengan loop atau garis paralel jika n = 3 dan 4 dengan m ≥ 1, yaitu:
+1. Mengetahui banyaknya graf yang dapat terbentuk menggunakan n = 3 dan
+4 dengan m ≥ 1.
+2. Mengetahui pola yang terbentuk untuk menentukan bentuk umum graf
+menggunakan n = 3 dan 4 dengan m ≥ 1.
+3. Memberikan konjektur (dugaan) rumus jumlah graf terbentuk untuk n = 3
+dan 4 dengan m ≥ 1.
+1.4 Manfaat Penelitian
+Adapun manfaat yang diperoleh dari penelitian ini adalah:
+1. Menambah wawasan tentang teori graf terutama tentang graf tak
+terhubung dengan loop atau garis paralel.
+2. Sebagai referensi bagi pembaca untuk penelitian selanjutnya dan dapat
+memberikan motivasi dalam mempelajari ilmu matematika dibidang graf.

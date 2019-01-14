@@ -1,0 +1,66 @@
+﻿ABSTRAK 
+Sistem perpipaan sangat penting di dalam dunia industri karena berfungsi untuk mengalirkan fluida kerja untuk proses. Perancangan pada sistem perpipaan mengacu pada ASME B31.3. Pada perancangan sistem perpipaan ini berfungsi untuk mengalirkan PTA (Purified Terephthalic Acid) yang dicampur dengan dari 4 buah discharge pump sampai dengan masuk ke heat exchanger yang pertama untuk diproses lebih lanjut. PTA merupakan bahan dasar pembuatan polyester. Di dalam proses ini dibutuhkan tekanan kerja sebesar 10 MPa, dengan tempertaur mencapai 85. Untuk memenuhi kebutuhan desain, tekanan dan temperatur operasi dinaikan lebih dari 10 %, sehingga memperoleh tekanan desain sebesar 12 MPa, dengan temperatur desain sebesar 105 oC. Perancangan sistem perpipaan harus memperhatikan fleksibilitas dari struktur. Untuk menganalisa tegangan sistem perpipaan menggunakan metode elemen hingga. Pada sistem perpipaan terjadi konsentrasi tegangan pada daerah percabangan dan belokan. 
+Kata kunci : Sistem perpipaan, fleksibilitas, konsentrasi tegangan, metode elemen hingga
+
+
+ BAB I 
+PENDAHULUAN 
+
+1.1 LATAR BELAKANG 
+
+Di dalam sebuah industri diperlukan suatu media untuk mengalirkan fluida dari satu atau beberapa titik ke satu atau beberapa titik lainnya. Dalam hal ini media yang digunakan adalah pipa. Gabungan pipa-pipa yang memiliki panjang total relatif pendek dan digunakan untuk mengalirkan fluida dari suatu peralatan ke peralatan lainnya yang beroperasi pada suatu plant disebut sistem perpipaan (piping system). Pada sistem perpipaan dapat dijumpai komponen-komponen yang melengkapi sistem tersebut, seperti katup, percabangan, elbow, flange, nozzle, reducer, tumpuan, isolasi, dan lain-lain. 
+
+Sistem perpipaan terbagi menjadi dua kategori yaitu piping dan pipeline. Perbedaan keduanya dapat dilihat dari fungsi, lokasi penggunaan serta panjang totalnya. Piping digunakan untuk mengalirkan fluida antara peralatan-peralatan yang beroperasi pada suatu plant. Sedangkan pipeline lebih berfungsi untuk kebutuhan transmisi dan distribusi fluida dari suatu daerah ke daerah lainnya. 
+
+Di dalam merencanakan suatu sistem perpipaan perlu diperhatikan faktor-faktor yang mempengaruhi antara lain: 
+1. Mampu menahan tekanan akibat fluida di dalamnya. 
+2. Mampu mengatasi gaya gesek akibat aliran fluida. 
+3. Mampu mengatasi momen akibat gaya berat pipa (beban statik) dan fluida di dalamnya (beban dinamik) serta akibat gaya-gaya luar. 
+4. Mampu mengatasi beban fatigue. 
+5. Mampu mengatasi beban thermal. 
+6. Mampu mengatasi sifat korosif fluida. 
+Dengan memperhatikan faktor-faktor tersebut pada suatu perencanaan sistem perpipaan dapat memberikan data sebagai acuan untuk perencanaan sistem perpipaan. 
+
+1.2 PERUMUSAN MASALAH 
+
+Sistem perpipaan mempunyai peranan penting dalam suatu industri, diantaranya industri kimia, perminyakan, dan pembangkit listrik. Sistem perpipaan yang digunakan pada industri-industri tersebut pada umumnya adalah sistem perpipaan dengan tekanan tinggi. Karenanya kegagalan pada sistem perpipaan tersebut dapat menyebabkan suatu kerusakan yang cukup besar baik bagi keselamatan manusia maupun kerusakan peralatan lain yang berada di sekitarnya. 
+Melihat pentingnya suatu sistem perpipaan dalam suatu proses industri maka dalam proses perancangan sistem perpipaan banyak hal-hal yang perlu ditinjau dengan berbagai pertimbangan yang mengacu pada peraturan yang telah dibuat seperti pemilihan diameter dan ketebalan pipa sehingga kegagalan yang dapat menyebabkan kerusakan baik bagi manusia maupun peralatan lainnya dapat dihindari. 
+Pendekatan perhitungan dalam analisa matematis sebagai rancangan awal dan membandingkannya dengan analisa software dengan pendekatan metode elemen hingga diharapkan mampu memprediksi besarnya tegangan dan mengetahui daerah kritis yang terdapat pada sistem perpipaan tersebut. 
+
+1.3 TUJUAN PENELITIAN 
+
+Tujuan dari penelitian kali ini adalah: 
+1. Mampu merencanakan sistem perpipaan yakni meliputi diameter pipa, ketebalan pipa, jenis tumpuan dan komponen lainnya yang sesuai dengan standar ASME B31.3 
+2. Mampu menganalisa tegangan-tegangan yang muncul pada sistem perpipaan. 
+
+1.4 BATASAN MASALAH 
+
+Tujuan diberikannya batasan masalah pada penelitian ini dimaksudkan agar pembahasan penelitian lebih maksimal dan terfokus. Adapun batasan masalah pada penelitian ini adalah : 
+1. Perencanaan sistem perpipaan mengacu pada standar ASME B31.3 
+2. Analisa tegangan pada sistem perpipaan akibat beban sustain dan operasi. 
+
+1.5 METODE PENELITIAN 
+
+Metode yang digunakan dalam penelitian ini menggunakan studi simulasi dengan Finite Element Method. Adapun software yang digunakan yaitu CAESAR II dan ANSYS Workbench, dengan tahapan penyajian data awal berupa geometri layout sistem perpipaan yang kemudian dilakukan proses simulasi ke dalam kedua software tersebut. Oleh karena itu, pada pembahasan akan dibagi menjadi dua sub-bab yaitu : 
+1. Menggunakan software CAESAR II, dimana penyajian data yang diberikan berupa grafik tegangan yang diambil dari hasil analisa software tersebut. 
+2. Menggunakan software ANSYS Workbench, dimana penyajian data berupa plot tegangan titik-titik kritis pada sistem perpipaan 
+
+Proses pengolahan data disesuaikan berdasarkan referensi serta standar ASME B31.3. 
+
+1.6 SISTEMATIKA PENULISAN 
+
+Sistematika penulisan terdiri dari : 
+BAB I PENDAHULUAN 
+Berisi tentang latar belakang masalah, tujuan penelitian, pembatasan masalah, metode penelitian dan sistematika penulisan. 
+
+BAB II DASAR TEORI 
+Berisi tentang perancangan produk, definisi sistem perpipaan, jenis-jenis tegangan yang muncul pada sistem perpipaan, dan komponen-komponen pada sistem perpipaan. 
+
+BAB III METODOLOGI PENELITIAN 
+Berisi tentang penyesuaian perencanaan sistem perpipaan dengan standar ASME B31.3. 
+
+BAB IV DATA DAN ANALISA HASIL PENGUJIAN 
+Berisi tentang pengolahan data dan perencanaan menggunakan software CAESAR II dan ANSYS Workbench sehingga dapat diketahui besarnya tegangan-tegangan yang muncul pada sistem perpipaan. 
+BAB V PENUTUP 
+Berisi tentang kesimpulan dari hasil pengujian serta saran yang dapat memperbaiki penelitian selanjutnya. 
+ 

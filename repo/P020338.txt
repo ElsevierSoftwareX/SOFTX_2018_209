@@ -1,0 +1,70 @@
+﻿ABSTRAK 
+Pada saat ini pelayanan sampah di Kabupaten Batang masih terbatas di 11 Kecamatan dari 15 Kecamatan yang ada di Kabupaten Batang. Pelayanan utama yaitu pelayanan dalam Kota meliputi Kecamatan Batang, Warungasem, dan Wonotunggal. Pelayanan luar kota terbatas untuk kawasan pasar saja yaitu di Kecamatan Subah, Banyuputih, Gringsing, Limpung, Tersono, Bawang, Blado, dan Bandar. Informasi mengenai sarana kebersihan berupa TPS dan TPA sangat diperlukan guna menunjang sistem pengelolaan kebersihan di Kabupaten Batang. Dari hasil penelitian diketahui bahwa Kabupaten Batang memiliki 1 buah TPA dan 86 buah TPS. Daerah pelayanan dalam kota memiliki 78 buah TPS dengan total kapasitas 409,57 m3, sedangkan daerah pelayanan luar kota memiliki 8 buah TPS dengan total kapasitas 248,25 m3. Volume sampah yang masuk ke TPA yaitu 122 m3/hari dari dalam kota dan 23 m3/hari dari luar kota. Dari data tersebut diketahui bahwa TPS telah memenuhi daya tampung. Sementara itu dalam kesesuaian penempatan lokasi TPS, diketahui bahwa seluruh TPS di Kabupaten Batang telah sesuai dengan sedikit rekomendasi perbaikan untuk beberapa TPS agar peletakannya tidak di badan jalan. 
+Sementara itu keberadaan TPA Randukuning Kabupaten Batang sampai saat ini masih digunakan. TPA Randukuning berada pada zona tidak layak untuk lokasi TPA. Sebagai alternatif dilakukan pemilihan lokasi TPA rekomendasi dengan memanfaatkan Sistem Informasi Geografis. Penentuan lokasi dilakukan melalui tahapan regional, penyisih, dan penilaian menggunakan SNI 19-3241-1994. Dari hasil pengolahan data diperoleh lokasi layak zona TPA seluas 1.423,11 Ha yang tersebar di beberapa wilayah Kabupaten Batang. Dari zona layak tersebut terpilih 3 lokasi yang dianggap paling layak yaitu berada di Desa Candiareng Kecamatan Warungasem, Desa Kalibalik Kecamatan Banyuputih, dan Desa Banaran Kecamatan Banyuputih. 
+. 
+Kata kunci : TPS, TPA, Sistem Informasi Geografis.
+
+BAB I 
+PENDAHULUAN 
+I.1 Latar Belakang 
+Sampah merupakan suatu hal yang tidak dapat dipisahkan dari kehidupan manusia saat ini. Hampir setiap kegiatan yang dilakukan manusia selalu menghasilkan sampah, terutama pada kegiatan konsumsi. Menurut WHO, sampah adalah sesuatu yang tidak digunakan, tidak dipakai, tidak disenangi atau sesuatu yang dibuang berasal dari kegiatan manusia dan tidak terjadi dengan sendirinya (Chandra, 2007). Sampah membawa dampak yang buruk pada kondisi kesehatan manusia. Bila sampah dibuang secara sembarangan atau ditumpuk tanpa ada pengelolaan yang baik, maka akan menimbulkan berbagai dampak kesehatan yang serius. Aktivitas kota yang semakin meningkat, menimbulkan jumlah sampah yang meningkat. Sebagai akibatnya pengelolaan sampah menjadi lebih sulit dan menjadi masalah terutama di kota-kota besar. Peningkatan jumlah sampah yang tidak terkendali pada akhirnya akan membuat kapasitas tempat pembuangan sementara (TPS) dan Tempat Pembuangan Akhir (TPA) mencapai batas maksimum atau overload. Selain tingginya jumlah sampah, kepedulian masyarakat yang masih rendah dalam penanganan sampah juga menjadi salah satu permasalahan yang terjadi di kebanyakan Kota di Indonesia, tidak terkecuali di Kabupaten Batang. Hal ini dapat terlihat dari banyaknya sampah-sampah yang dibuang di pinggir jalan, lahan kosong, sungai dan tempat-tempat lain selain TPS resmi yang telah disediakan oleh Dinas Cipta Karya Tata Ruang dan Kebersihan Kabupaten Batang. Pembuangan sampah sembarangan seperti ini pada akhirnya akan menimbulkan masalah baru seperti munculnya berbagai penyakit (sarang bibit penyakit), bau menyengat yang sangat mengganggu, nilai estetika yang rendah serta menimbulkan ketidaknyamanan bagi masyarakat sekitar. Hal tersebut merupakan ciri bahawa TPS belum berfungsi maksimal karena penempatan yang kurang tepat dan daya tampungnya yang tidak memadahi. 
+Sampai dengan saat ini, pengelolaan persampahan yang dilakukan oleh pemerintah Kabupaten Batang masih menggunakan pendekatan yang terdiri dari tiga tahapan kegiatan, yakni pengumpulan, pengangkutan dan pembuangan akhir/pengolahan. Dalam tahap pengumpulan inilah TPS (Tempat Penampungan Sementara) dan TPA (Tempat Penampungan Akhir) sampah amat berperan. Pada dasarnya TPS merupakan infrastruktur yang berfungsi untuk menampung sementara sampah-sampah dari sumber sampah sebelum diangkut ke TPA. Oleh karena itu, pengelolaan sampah dari TPS ke TPA harus dilakukan secara maksimal. Mulai dari kebutuhan daya tampung dan penempatan TPS dan TPA yang sesuai, sehingga mampu berfungsi dengan maksimal. TPS harus mampu menampung sementara sampah sebelum diangkut ke TPA, sehingga tidak menimbulkan kelebihan sampah yang bisa mengganggu estetika dan kebersihan lingkungan. Sementara umur TPA akan semakin berkurang seiring dengan pertambahan laju sampah dan habisnya masa layan TPA. Selain itu sesuai UU No 18 Tahun 2008 menyatakan pada BAB XVI Ketentuan Peralihan Pasal 44 bahwa “Pemerintah daerah harus membuat perencanaan penutupan tempat pemrosesan akhir sampah yang menggunakan sistem pembuangan terbuka paling lama 1 (satu) tahun terhitung sejak berlakunya Undang-Undang ini”. Untuk itu perlu juga dicari alternatif lahan untuk TPA. Untuk mendapatkan lokasi TPA yang sesuai dengan persyaratan teknis, ekonomis dan berwawasan lingkungan diperlukan metode yang tepat seperti menempatkan lokasi TPA pada daerah dengan formasi geologi yang sesuai sehingga pencemaran yang timbul dapat dicegah atau diperkecil. Dalam hal ini Indonesia telah memiliki standarisasi dalam memilih lokasi TPA. Ketentuan tersebut dituangkan dalam SNI No.19-3241-1994 tentang tata cara pemilihan lokasi TPA sampah. Untuk itu seluruh TPA di Indonesia harus memenuhi standar yang ada dalam ketentuan tersebut.
+
+Dari permasalahan di atas peneliti ingin melakukan evaluasi mengenai kondisi TPS dan TPA di Kabupaten Batang beserta pemilihan lokasi TPA rekomendasi dengan memanfaatkan Sistem Informasi Geografis. Sistem Informasi Geografis (SIG) mempunyai kemampuan untuk memasukkan, menyimpan, memanggil kembali, mengolah, menganalisis dan menghasilkan data bereferensi geografis atau data geospasial, untuk mendukung pengambilan keputusan dalam perencanaan dan pengelolaan penggunaan lahan, sumber daya alam, lingkungan, transportasi, fasilitas kota, dan pelayanan umum lainnya. Tentunya persebaran TPS dan TPA beserta kondisinya dapat disajikan dengan lebih komunikatif melalui peta dengan bantuan SIG. Pemilihan lokasi TPA juga dapat dilakukan melalui tahapan-tahapan yang dapat dilakukan dengan memanfaatkan kemampuan SIG. Diharapakan dari penelitian ini dapat memberikan kontribusi dan masukan bagi Pemerintah Kabupaten Batang untuk menyelenggarakan sistem pengelolaan sampah yang lebih baik. 
+
+I.2 Rumusan Masalah 
+Berdasarkan latar belakang yang telah diuraikan di atas maka diangkat rumusan masalah sebagai berikut: 
+1. Apakah TPS dan TPA eksisting sudah sesuai ditinjau dari lokasi penempatan dan kapasitasnya? 
+2. Bagaimana memilih lokasi TPA rekomendasi yang sesuai SNI No.19-3241-1994? 
+
+I.3 Tujuan Penelitian 
+Tujuan dari penelitian ini adalah untuk menganalisis persebaran TPS dan TPA eksisiting serta pemilihan TPA rekomendasi di Kabupaten Batang menggunakan Sistem Informasi Geografis dan berpedoman pada SNI No.19-3241-1994. 
+
+I.4 Manfaat Penelitian 
+Manfaat dari kegiatan penelitian ini diharapkan dapat digunakan untuk pengembangan ilmu pengetahuan serta dapat membantu instansi terkait dalam pengambilan keputusan agar tercipta sistem pengelolaan sampah daerah yang lebih baik. I-4 
+I.5 Ruang Lingkup Penelitian 
+Masalah yang dikaji dalam penelitian ini dibatasi oleh batasan-batasan agar jelas ruang lingkupnya, menghindari kesalahan penafsiran, memudahkan dalam menangkap isi, dan sebagai pedoman dalam pelaksanaan penelitian ini. Adapun batasan-batasannya sebagai berikut: 
+1. Menganalisis keberadaan TPS dan TPA eksisting yaitu meliputi kesesuaian lokasi, kondisi fisik, dan kapasitas infrastruktur tersebut. Untuk TPA eksisiting kapasitasnya dianggap telah habis sesuai masa layan perencanaannya yaitu berakhir pada tahun 2005. 
+2. Mengkaji penentuan calon lokasi TPA rekomendasi di Kabupaten Batang. 
+3. TPS dan TPA dalam penelitian ini merupakan TPS dan TPA resmi yang dikelola oleh Dinas Cipta Karya Tata Ruang dan Kebersihan Kabupaten Batang. 
+
+I.6 Metodologi Penelitian 
+Penelitian ini dilakukan di Kabupaten Batang, dengan metode survey langsung ke lapangan dan melalui analisis Sistem Informasi Geografis. Data persebaran TPS diperoleh melalui observasi lapangan dengan bantuan GPS handheld. Dengan berpedoman SNI 19-3241-1994 dapat dilakukan analisis dan overlay sesuai dengan kriteria yang telah ada, dimana pembuangan sampah tidak boleh dilakukan pada danau, sungai dan laut. Kemudian penentuan lokasi Tempat Pemrosesan Akhir (TPA) dilakukan secara bertahap meliputi tahap regional, tahap penyisih dan tahap penilaian. 
+Secara umum penelitian ini dilakukan dalam 5 (lima) tahapan, yaitu: 
+1. Persiapan 
+
+Pada tahap persiapan meliputi pengumpulan data, baik data spasial maupun data atribut. Data yang dibutuhkan antara lain: 
+a. Peta Administrasi Kabupaten Batang. 
+b. Peta Geologi Kabupaten Batang. 
+c. Peta Rawan Bencana. 
+d. Peta Topografi 
+
+e. Data posisi TPS dan TPA di Kabupaten Batang. 
+f. dan data pendukung lainnya 
+2. Survey Lapangan 
+
+Melakukan pengecekan langsung ke lapangan untuk mengetahui posisi dan kondisi TPS dan TPA. Alat yang dibutuhkan yaitu GPS handheld. 
+3. Pengolahan Data 
+
+Dalam tahap ini dilakukan pengolahan data yang telah ada yaitu data spasial dan data atribut menggunakan ArcGIS 9.3. Hasil dari proses ini yaitu berupa peta persebaran TPS dan TPA serta peta lokasi TPA rekomendasi. 
+4. Survey Lapangan 2 
+
+Melakukan survey lapangan ke lokasi TPA rekomendasi untuk kroscek lokasi TPA rekomendasi yang telah diperoleh. 
+5. Analisis 
+
+Setelah pengolahan data maka dilakukan tahap analisis dan dilakukan penarikan kesimpulan. 
+I.7 Sistematika Penulisan Laporan 
+Hasil dari penelitian ini disusun dengan menggunakan sistematika yang terdiri atas tiga bagian, yaitu bagian awal tugas akhir, bagian isi tugas akhir, dan bagian akhir tugas akhir. 
+Bagian awal terdiri dari judul tugas akhir, persetujuan pembimbing, pengesahan kelulusan, pernyataan, motto dan persembahan, prakata, abstrak, daftar isi, daftar tabel, daftar gambar, dan daftar lampiran. 
+Bagian isi tugas akhir ini terdiri atas lima bab yang meliputi: 
+BAB I PENDAHULUAN 
+Bab ini berisi latar belakang, rumusan masalah, tujuan, manfaat, ruang lingkup kajian, metodologi penelitian, dan sistematika penulisan tugas akhir. 
+BAB II TINJAUAN PUSTAKA 
+Berisi tentang dasar-dasar teori yang berhubungan dan bermanfaat bagi penulisan tugas akhir ini. Teori yang digunakan berkaitan dengan proses penelitian serta tinjauan pustaka dari laporan-laporan penelitian sebelumnya yang berhubungan dengan penelitian ini. 
+BAB III PELAKSANAAN PENELITIAN 
+Membahas tentang pelaksanaan penelitian tugas akhir ini, dimulai dari pengadaan data dan cara pengolahan data. 
+BAB IV HASIL DAN PEMBAHASAN 
+Menguraikan tentang penyajian dan pembahasan terhadap hasil penelitian tugas akhir. 
+BAB V PENUTUP 
+Berisi tentang kesimpulan dari penelitian ini dan saran yang direkomendasikan untuk penelitian selanjutnya yang terkait. 
+Bagian akhir dari tugas akhir ini terdiri dari daftar pustaka dan lampiran-lampiran.

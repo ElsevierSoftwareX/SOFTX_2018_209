@@ -1,0 +1,481 @@
+﻿Studi Kinetika Hidrolisis Tandan Kosong Kelapa Sawit (TKKS) dengan Proses Fermentasi Padat Menggunakan Jamur
+Aspergillus niger
+
+Abstrak
+Hidrolisis tandan kosong kelapa sawit (TKKS) menjadi gula sederhana dengan menggunakan jamur Aspergillus niger merupakan alternatif biokonversi lignoselulosa yang potensial. Tujuan penelitian ini adalah mengembangkan model kinetika untuk mendiskripsikan proses fermentasi padat dengan bahan baku TKKS. Tahap pertama, TKKS digiling dan dikelompokkan sesuai ukuran dengan menggunakan ayakan, dengan variasi ukuran antara -30+40 mesh, -40+80 mesh dan -80 mesh. Model kinetika yang telah disusun didasarkan pada reaksi orde satu. Model tersebut dapat menggambarkan secara kuantitatif proses fermentasi tersebut. Selain itu, nilai-nilai parameter dalam kinetika reaksi untuk setiap ukuran partikel juga akan diperoleh dari model tersebut. Semakin kecil ukuran partikel, semakin besar pula konstanta kecepatan reaksi hidrolisis. Sebaliknya konstanta konsumsi gula menurun seiring dengan penurunan ukuran partikel TKKS. Konsentrasi gula sederhana tertinggi yang dihasilkan dalam penelitian ini adalah sebesar 7,847% g/L.
+Kata kunci: Aspergillus niger; kinetika; TKKS; ukuran partikel; fermentasi padat
+
+PENDAHULUAN
+Tandan kosong kelapa sawit (TKKS)
+merupakan salah satu limbah padat yang dihasilkan
+oleh industri kelapa sawit. Indonesia sebagai penghasil
+kelapa sawit terbesar di dunia dengan produksi
+minyak sawit sebesar 27,7 juta ton pada tahun 2013
+(Dirjen Perkebunan RI, 2014) memiliki potensi limbah
+TKKS yang sangat besar. Kandungan selulosa dan
+hemiselulosa yang cukup tinggi pada TKKS (33,25%
+dan 23,24%) (Sudiyani dkk., 2010) menarik untuk
+dikaji lebih lanjut oleh para peneliti menjadi glukosa
+yang merupakan bahan baku energi terbarukan.
+Biokonversi TKKS menjadi glukosa dengan
+solid state fermentation (SSF) lebih memungkinkan
+untuk dilakukan karena sifat TKKS yang liat dan tidak
+mudah larut. Beberapa bakteri, yeast, dan jamur
+seperti Clostridium botilinum (milk), Candida utilis
+(peningkatan protein pakan ternak), Aspergillus
+oryzae (produksi Koji) mampu tumbuh dengan baik
+pada substrat padat dengan sistem SSF (Pandey dkk.,
+2008). Namun jamur merupakan spesies yang paling
+baik beradaptasi untuk proses SSF (Krishna, 2005).
+Jamur Aspergilllus niger merupakan spesies jamur
+yang mampu menghasilkan 20 jenis enzim
+ekstraseluler dan lazim digunakan pada produksi
+enzim selulase. Enzim selulase tersebut mampu
+mendegradasi selulosa menjadi gula sederhana.
+Selain tergantung pada jenis mikroba,
+optimalisasi proses SSF juga dipengaruhi oleh faktor
+pemilihan substrat. Substrat yang sesuai untuk proses
+SSF tergantung pada kristalinitas, ukuran partikel, dan
+porositas (Krishna, 2005). Pengurangan ukuran
+partikel menggunakan mesin penggiling (milling
+machine) akan menghasilkan yield glukosa yang
+semakin tinggi dan bisa menjadi metode pretreatment
+selulosa yang menarik pada hidrolisa enzimatis (Yeh
+dkk., 2010).
+Pengurangan ukuran partikel selulosa akan
+meningkatkan affinitas antara selulosa dan enzim
+sehingga hidrolisa akan berlangsung semakin cepat.
+Kecepatan hidrolisis meningkat dua kali lipat dalam
+10 jam ketika ukuran partikel substrat berkurang dari
+82 menjadi 38 μm (Gan dkk., 2003). Pada penelitian
+Dasari dan Benson (2009) produksi gula pereduksi
+naik 55% selama 72 jam hidrolisa selulosa ketika
+ukuran substrat berkurang dari 590 menjadi 33 μm.
+Beberapa penelitian tentang kinetika hidrolisa
+enzimatis umumnya menggunakan substrat selulosa
+murni (Mitchell dkk., 2011; Yeh dkk., 2010).
+Penelitian ini akan melihat pengaruh ukuran partikel
+substrat TKKS pada produksi gula pereduksi oleh
+Aspergillus niger, parameter kinetika, dan kecepatan
+hidrolisa.
+Fundamental
+Secara khusus reaksi biokimia yang terjadi
+pada proses fermentasi dengan substrat tandan kosong
+kelapa sawit dapat dituliskan sebagai berikut :
+S + E  P (1)
+P  M + Xbaru (2)
+P  B (3)
+dengan S = selulosa, X =Aspergillus niger, P = gula
+sederhana, dan M = senyawa hasil metabolisme
+Aspergillus niger setelah mengkonsumsi gula
+sederhana, B = maintenance sel Aspergillus niger.
+Model kinetika disusun berdasarkan beberapa
+asumsi proses berikut ini:
+1. Jamur Aspergillus niger mengeluarkan enzim
+selulase (E) untuk menghidrolisis selulosa pada
+TKKS menjadi gula sederhana. Reaksi hidrolisis
+selulosa menjadi gula sederhana mengikuti
+persamaan berikut :
+𝜇ℎ =
+𝜇 𝑚𝑎𝑥 ℎ 𝐶𝑆
+𝐾ℎ+𝐶𝑆
+(4)
+2. Sebagian gula yang terbentuk dikonsumsi oleh
+jamur Aspergillus niger untuk pertumbuhan jamur
+dan maintenance. Kecepatan konsumsi gula
+mengikuti persamaan berikut :
+𝜇𝑐 =
+𝜇 𝑚𝑎𝑥𝑐 𝐶𝑃
+𝐾𝑐+𝐶𝑃
+(5)
+Persamaan 4 dan 5 merupakan persamaan
+pertumbuhan jamur yang mengikuti persamaan
+Monod. Persamaan Monod tersebut dapat
+disederhanakan menjadi dua persamaan yang biasa
+dipakai pada pemodelan fermentasi padat.
+Penyederhanaan pertama persamaan tersebut dapat
+dilakukan apabila nilai CS jauh lebih kecil dari Kh
+(CS<<Kh) dan nilai CP jauh lebih kecil dari
+Kc(CP<< KC)sehingga persamaan dapat dianggap
+sebagai kinetika reaksi orde satu (Model 1) seperti
+terlihat pada Tabel 1.
+Persamaan 6 dan 7 disebut sebagai persamaan
+pendekatan orde satu karena konstanta kecepatan
+pertumbuhan spesifik dari mikroba berbanding
+lurus dengan konsentrasi substrat pada nilai rendah
+dan tidak tergantung pada konsentrasi substrat
+pada nilai tinggi. Walaupun persamaan pendekatan
+orde satu lebih mudah digunakan daripada
+persamaan Monod, namun perlu berhati-hati dalam
+penggunaannnya karena bisa menghasilkan
+kesalahanyang cukup besar jika konsentrasi
+substrat tidak relatif lebih kecil daripada nilai
+konstanta Monod (Kh dan Kc).
+Tabel 1. Model kinetika dalam hidrolisis selulosa (μh) dan kinetika dalam konsumsi gula (μc)
+Model 1 Model 2
+Asumsi Persamaan Asumsi Persamaan
+𝐶𝑠 ≪ 𝐾ℎ 𝐶𝑝 ≪ 𝐾𝑐 𝜇ℎ =
+𝜇 𝑚𝑎𝑥 ℎ
+𝐾ℎ
+𝐶𝑠 = 𝑘ℎ 𝐶𝑠 (6)
+𝜇𝑐 =
+𝜇 𝑚𝑎𝑥𝑐
+𝐾𝑐
+𝐶𝑃 = 𝑘𝑐 𝐶𝑃 (7)
+𝐶𝑠 ≫ 𝐾ℎ
+𝐶𝑝 ≫ 𝐾𝑐
+𝜇ℎ = 𝜇𝑚𝑎𝑥 ℎ (8)
+𝜇𝑐 = 𝜇𝑚𝑎𝑥𝑐 (9)
+Penyederhanaan yang kedua adalah apabila nilai
+konsentrasi substrat jauh lebih besar daripada nilai
+konstanta Monod (CS >> Kh dan CP >> KC).
+Sehingga persamaan dapat dianggap sebagai
+kinetika reaksi orde nol (Model 2) seperti terlihat
+pada Tabel 1. Nilai K yang rendah menunjukkan
+bahwa mikroba tersebut mempunyai afinitas tinggi
+untuk substratnya maka laju pertumbuhan spesifik
+tidak dipengaruhi oleh konsentrasi substrat, atau
+orde nol terhadap Cs, dan setara dengan koefisien
+laju pertumbuhan spesifik maksimum.
+3. Neraca massa selulosa disusun dengan asumsi
+bahwa jumlah enzim yang terdapat dalam sistem
+berbanding lurus dengan jumlah jamur Aspergillus
+niger pada sistem.
+𝑑 𝐶𝑆
+𝑑𝑡
+= −𝜇ℎ . 𝐶𝐸 = −𝜇ℎ . 𝛽. 𝐶𝑋 (10)
+4. Neraca massa gula disusun dengan asumsi :
+a. Gula yang terbentuk sebagian dikonsumsi
+untuk pertumbuhan dan maintenance jamur
+Aspergillus niger.
+b. Kecepatan konsumsi gula untuk maintenance
+setara dengan jumlah jamur Aspergillus niger
+𝑑 𝐶𝑃
+𝑑𝑡
+= 𝛽. 𝜇ℎ . 𝐶𝑋. 𝑌𝑃 𝑆 − 𝜇𝑐 . 𝐶𝑋 − 𝜇𝑚𝑎𝑖𝑛 . 𝐶𝑋 (11)
+5. Neraca massa jamur Aspergillus niger disusun
+dengan asumsi bahwa sebagian jamur yang
+terbentuk telah mengalami kematian.
+𝑑 𝐶𝑋
+𝑑𝑡
+= 𝜇𝑐 . 𝐶𝑥 . 𝑌𝑋/𝑃 − 𝛼. 𝐶𝑋 (12)
+6. Pembentukan asam oleh jamur Aspergillus niger
+dari mengkonsumsi gula
+𝑑 𝐶𝐴
+𝑑𝑡
+= 𝜇𝑐 . 𝐶𝑥 . 𝑌𝐴/𝑃 (13)
+METODE PENELITIAN
+Sampel tandan kosong kelapa sawit (TKKS)
+diperoleh dari Balai Besar Teknologi Pati (B2TPBPPT)
+Lampung. Langkah selanjutnya adalah
+pemisahan dengan menggunakan vibrating screen
+dengan ukuran mesh ayakan: 30, 40, dan 80. Hasil
+pengayakan dikelompokkan menjadi tiga variasi
+diameter berdasarkan ukuran mesh ayakan yaitu:
+TKKS yang paling halus -80 mesh, TKKS berukuran-
+40+80 mesh, dan TKKS berukuran -30+40 mesh.
+Perlakuan awal TKKS dilakukan dengan
+perendaman 10 gram TKKS dalam larutan NaOH 10%
+(w/v) pada suhu 900C selama 2 jam. Kemudian
+dilakukan pencucian dan penyaringan dengan air
+hingga pH filtrat netral. Metode ini merupakan
+modifikasi dari metode pretreatment yang telah
+dilakukan oleh Umi Kalsom dkk. (1998). TKKS
+tersebut kemudian dikeringkan dengan oven pada
+suhu 600C selama 24 jam hingga diperoleh berat
+kering yang konstan untuk bahan penelitian
+(Barrington dan Kim, 2008). Selanjutnya TKKS
+tersebut dianalisis kadar lignoselulosa (selulosa,
+hemiselulosa, dan lignin) dengan metode Chesson
+(Datta, 1981).
+Jamur Aspergillus niger yang dijadikan
+indukan diperoleh dari Laboratorium Mikrobiologi
+PAU UGM. Aspergillus niger dibiakkan dalam
+medium PDA (Potato Dextrose Agar) miring,
+kemudian diinkubasi pada suhu 280C selama 7 hari.
+Prosedur fermentasi mengikuti prosedur pada
+penelitian sebelumnya yang dilakukan oleh Widiyanti
+(2014). Aspergillus niger hasil biakan diinokulasikan
+ke dalam substrat dengan menambahkan medium pra
+kultur (garam fisio) dengan komposisi NaCl 0,85% ke
+dalam tabung reaksi yang berisikan biakan jamur.
+Proses fermentasi dilakukan secara batch,
+dengan pengulangan dua kali untuk setiap variasi
+ukuran TKKS. Sebanyak 5 gram TKKS dimasukkan
+dalam setiap erlenmeyer 250 ml dan disterilkan
+terlebih dulu dengan autoclave pada suhu 1210C
+selama 15-20 menit. Medium basal ditambahkan
+sebanyak 16 ml sebagai nutrisi. Komposisi medium
+basal : 4 gram KH2PO4, 1,2 gram MgSO4, 1,2 gram
+CaCl2 dan 2 gram yeast ekstrak. Setiap erlenmeyer
+diinokulasi dengan 4 ml garam fisio yang
+mengandung spora dan diinkubasi pada suhu 280C
+selama 10 hari.
+Pengambilan sampel dilakukan setiap hari,
+dimulai pada hari ke-1 hingga hari ke-10. Setiap
+pengambilan sampel dilakukan pengecekan pH.
+Sampel kemudian disterillisasi dengan autoclave pada
+suhu 1210C selama 20 menit untuk mematikan spora
+dan enzimnya sehingga proses fermentasi terhenti.
+Sampel kemudian diencerkan dengan menambahkan
+25 ml aquadest, dan diaduk agar sampel homogen.
+Proses pemisahan sampel padatan dan cairan
+dilakukan dengan centrifuge pada kecepatan 6000 rpm
+selama 20 menit. Hasil centrifuge disaring dan filtrat
+yang diperoleh kemudian dianalisis gula sederhananya
+dengan metode DNS dengan mengukur absorbansinya
+pada 540 nm (Miller, 1959).
+Pertumbuhan jamur dianalisis secara tidak
+langsung melalui konsentrasi protein dari jamur.
+Analisis protein dilakukan dengan menggunakan
+metode Lowry (Lowry dkk., 1951). Menurut Abd-aziz
+dkk. (2008), korelasi antara konsentrasi protein
+dengan metode Lowry dan berat kering sel dapat
+dihitung dengan persamaan berikut:
+R:...
+(14)
+
+Perhitungan Tetapan Model Kinetika
+Model matematika terdiri dari 4 persamaan
+differensial ordiner (persamaan 8, 9, 10, 11) dan 8
+tetapan. Delapan tetapan dalam persamaan tersebut
+akan ditebak dengan bantuan program MATLAB pada
+kondisi batas: t = 0, CS = CS0, CP= 0, dan Cx = Cx0.
+Algoritma perhitungan ditunjukkan pada Gambar 1.
+Fungsi tujuan Sum Squares of Errors (SSE) sebagai
+berikut:
+𝑆𝑆𝐸 = (𝐶𝑝𝑑𝑎𝑡𝑎 − 𝐶𝑝ℎ𝑖𝑡𝑢 𝑛𝑔 )2 (15)
+HASIL DAN PEMBAHASAN
+Perendaman NaOH sebelum proses fermentasi
+bertujuan untuk merusak struktur lignin pada
+lignoselulosa. Kristalisasi selulosa dan pengerasan
+fibril selulosa oleh lignin membentuk suatu senyawa
+lignoselulosa yang keras sehingga menghambat enzim
+dalam menghidrolisis selulosa. Perlakuan perendaman
+NaOH 10% dilakukan pada suhu 90 0C selama 2 jam.
+Perubahan komposisi lignoselulosa setelah
+perendaman NaOH dapat dilihat pada Tabel 2.
+Hasil analisa lignoselulosa menunjukkan
+penurunan kadar hemiselulosa dari 17,88% menjadi
+13,12% dan penurunan lignin dari 22,28% menjadi
+20,38%. Penurunan tersebut akibat dari rusaknya
+lignin yang membungkus selulosa dan hemiselulosa.
+Sehingga sebagian lignin dan hemiselulosa terlarut
+dalam larutan basa NaOH.
+Besarnya kehilangan hemiselulosa dan lignin
+mengakibatkan persentase selulosa TKKS yang diberi
+perlakuan delignifikasi meningkat dari 35,20% pada
+bahan baku menjadi 55,25% .
+Tabel 2. Perbandingan komposisi lignoselulosa
+sebelum dan sesudah perendaman NaOH
+Komponen
+Komposisi, %
+Sebelum
+perendaman
+NaOH 10%, 90 0C,
+2 jam
+Setelah perendaman
+NaOH 10%, 90 0C,
+2 jam
+Selulosa 35,20 55,25
+Hemiselulosa 17,88 13,12
+Lignin
+Lain-lain*
+22,28
+24,64
+20,38
+11,25
+Lain-lain*: kandungan air dan extractive compound
+Pertumbuhan Jamur Aspergillus Niger Selama
+Proses Solid State Fermentation (SSF)
+Hasil pengamatan visual pertumbuhan jamur
+selama fermentasi berlangsung menunjukkan
+pertumbuhan jamur yang lebih subur terjadi pada
+ukuran partikel yang lebih halus. Hal tersebut
+didukung oleh hasil analisa protein yang semakin
+tinggi konsentrasinya pada ukuran TKKS yang
+semakin halus (Tabel 3).
+
+Tabel 3. Konsentrasi protein pada berbagai
+ukuran TKKS selama proses SSF
+Hari
+ke-
+Konsentrasi protein, g/L
+-80 mesh -40+80 mesh -30+40 mesh
+1 1,534 1,162 0,886
+2 1,822 1,301 1,140
+3 1,467 0,867 0,904
+4 1,382 0,874 0,777
+5 1,385 0,882 0,795
+6 1,345 0,877 0,783
+7 1,482 0,885 0,710
+8 1,518 0,885 0,697
+9 1,435 0,886 0,704
+10 1,448 0,848 0,698
+Pertumbuhan jamur diperoleh dengan
+mengkonversi konsentrasi protein dengan berat kering
+jamur. Hasil perhitungan berat kering sel jamur pada
+berbagai ukuran TKKS selama proses fermentasi
+padat dengan Aspergillus niger dapat dilihat pada
+Gambar 2.
+Gambar 2. Pengaruh ukuran partikel pada
+pertumbuhan jamur.
+Pertumbuhan jamur terlihat naik pada hari 1
+dan 2, kemudian akan berfluktuasi namun tidak
+signifikan hingga hari ke-10. Pola tersebut sama untuk
+masing-masing ukuran partikel. Walaupun terjadi
+fluktuasi namun jumlah kematian dan pertumbuhan
+relatif seimbang, sehingga pertumbuhan jamur dapat
+dianggap mengalami masa stasioner dari hari ketiga
+hingga hari kesepuluh. Semakin halus ukuran partikel,
+pertumbuhan jamur semakin tinggi. Hal tersebut
+sesuai dengan yang dikemukakan oleh Nigam dan
+Pandey (2009) bahwa ukuran partikel yang lebih kecil
+akan memberikan luas area permukaan yang lebih
+besar per volume substrat dan memungkinkan kontak
+penuh antara mikroorganisme dengan nutrisi, sehingga
+pertumbuhan mikroba semakin baik. Pertumbuhan
+jamur tertinggi pada ukuran TKKS -80 mesh yaitu
+sebesar 0,598 gram berat kering jamur (konsentrasi
+protein 1,822 g/L).
+Produksi Gula Sederhana Selama Proses Solid
+State Fermentation (SSF)
+Produksi gula sederhana selama proses
+fermentasi TKKS oleh jamur Aspergillus niger pada
+berbagai ukuran partikel substrat menunjukkan hasil
+yang semakin tinggi pada ukuran partikel yang
+semakin halus (Gambar 3). Konsentrasi gula
+sederhana tertinggi pada ukuran TKKS -80 mesh yaitu
+sebesar 7,847 g/L.
+Gambar 3. Pengaruh ukuran partikel pada produksi
+gula sederhana.
+Model Kinetika Solid State Fermentation pada
+Berbagai Ukuran TKKS
+Pada penelitian ini disusun dua model kinetika
+untuk fermentasi padat TKKS pada berbagai ukuran.
+Kedua model tersebut telah dicoba simulasinya
+dengan data hasil percobaan laboratorium (Cs0, Cx0,
+Cp) dengan penyelesaian menggunakan Matlab 2010a
+(Gambar 1). Hasil dari simulasi kedua model tersebut
+terlihat pada Gambar 4 dan 5.
+Gambar 4. Pengaruh ukuran partikel pada produksi
+gula sederhana hasil eksperimen dan gula sederhana
+hasil perhitungan Model 1.
+Gambar 5. Pengaruh ukuran partikel pada produksi
+gula sederhana hasil eksperimen dan gula sederhana
+hasil perhitungan Model 2.
+
+Perhitungan Cp pada Model 1 menggunakan
+pendekatan reaksi orde satu untuk kinetika hidrolisis
+selulosa dan konsumsi gula oleh jamur menunjukkan
+hasil yang cukup mendekati dengan Cp data
+percobaan.
+Sedangkan Model 2 menggunakan pendekatan
+reaksi orde nol untuk kinetika hidrolisa selulosa dan
+konsumsi glukosa. Apabila dibandingkan terlihat
+bahwa Model 1 lebih mendekati hasil pengujian
+apabila dibandingkan dengan Model 2. Kesesuaian
+Model 1 dengan hasil pengujian produksi gula
+sederhana ditunjukkan oleh nilai sum squares of
+errors (SSE) yang cukup kecil (Tabel 4). Nilai
+parameter reaksi seperti kc, kh dan α menunjukkan
+perubahan pada ukuran TKKS yang berbeda.
+Tabel 4.Hasil perhitungan parameter kinetika Model1
+Parameter
+-80
+mesh
+-40+80 mesh -30+40 mesh
+β 4 4 4
+α 0,00001 0,00021 0,00025
+kh 0,044 0,063 0,078
+kc 2,95 2 1,8
+SSE 19,998 35,789 8,718
+Semakin halus ukuran TKKS, nilai kh semakin
+tinggi. Hal tersebut berarti kecepatan hidrolisis
+selulosa semakin meningkat pada ukuran TKKS yang
+semakin halus. Sedangkan nilai kc semakin turun pada
+ukuran partikel yang semakin halus. Hal tersebut
+menunjukkan kecepatan konsumsi gula oleh jamur
+semakin menurun pada ukuran partikel yang semakin
+halus. Penurunan konsumsi gula oleh jamur membuka
+peluang untuk mengoptimalkan pengambilan produk
+gula sederhana sebagai bahan baku bioethanol. Namun
+perlu dicermati waktu pengambilan tepat untuk
+mendapatkan konsentrasi gula sederhana yang
+optimum. Konstanta kematian sel jamur (α)
+menunjukkan kecepatan kematian jamur selama
+proses fermentasi. Konstanta kematian semakin besar
+pada ukuran partikel yang semakin halus, hal tersebut
+kemungkinan disebabkan pada ukuran yang lebih
+halus terjadi kompetisi jumlah jamur yang lebih
+banyak, dan kondisi pH yang turun lebih signifikan
+(Gambar 7).
+Penelitian tentang pengaruh ukuran partikel
+terhadap kinetika hidrolisa selulosa secara enzimatis
+dengan mengunakan model Michaelis Menten telah
+dilakukan oleh beberapa peneliti (Yeh dkk., 2010;
+Johnston dkk, 1998). Hasil penelitian tersebut juga
+menunjukkan penurunan ukuran partikel selulosa akan
+meningkatkan kecepatan reaksi hidrolisis. Hal tersebut
+terlihat dari nilai μmax yang semakin tinggi pada
+ukuran partikel selulosa yang semakin halus, serta
+nilai Km yang semakin turun pada ukuran partikel
+selulosa yang semakin halus (Yeh dkk., 2010;
+Johnston dkk., 1998). Pada ukuran yang semakin
+kecil, nilai μmax yang semakin naik dan Km yang
+semakin turun akan memberikan nilai Kh pada reaksi
+orde satu yang semakin besar (Persamaan 2).
+Meskipun model kinetika yang dipergunakan sedikit
+berbeda, namun hasil penelitian tersebut menunjukkan
+korelasi yang sama antara ukuran partikel substrat dan
+kecepatan reaksi hidrolisis.
+Hasil penelitian Yeh dkk. (2010) menjelaskan
+bahwa pengurangan ukuran partikel dengan proses
+milling akan meningkatkan yield glukosa pada
+hidrolisis selulosa secara enzimatis. Oleh karena itu
+milling akan menjadi proses pretreatment yang
+menarik untuk dilakukan sebelum proses hidrolisa
+ataupun fermentasi selulosa.
+Produksi Asam Organik Selama Proses Solid State
+Fermentation (SSF)
+Hidrolisis TKKS dengan jamur Aspergillus
+niger yang dilakukan dengan metode solid state
+fermentation (SSF) selain menghasilkan gula
+sederhana juga terbentuk hasil samping berupa asam
+organik. Hasil konsentrasi asam organik diperoleh dari
+perhitungan persamaan 13 dengan menggunakan
+kinetika Model 1.
+Gambar 6. Pengaruh ukuran partikel pada produksi
+asam organik hasil perhitungan Model 1
+Gambar 7. Pengaruh ukuran partikel pada kondisi pH
+selama proses fermentasi TKKS oleh jamur
+Aspergillus niger
+Gambar 6 menunjukkan konsentrasi asam
+organik yang semakin tinggi pada ukuran TKKS yang
+semakin halus. Penumpukan asam organik selama
+proses fermentasi menyebabkan terjadinya penurunan
+pH yang cukup signifikan. Hasil pengamatan pH
+terlihat menurun setiap harinya, dan mulai konstan
+pada kisaran pH 2 pada hari ke-8 (Gambar 7). Pada
+ukuran TKKS yang lebih halus, penurunan pH lebih
+cepat, menunjukkan jumlah asam yang terbentuk lebih
+banyak dan kecepatan pembentukan asam organik
+juga berlangsung lebih cepat.
+KESIMPULAN
+Perendaman NaOH 10% pada suhu 900C
+selama 2 jam mampu mengurangi kadar lignin dari
+22,28% menjadi 20,38% dan kadar hemiselulosa dari
+17,88% menjadi 13,12%. Semakin halus ukuran
+partikel, pertumbuhan jamur semakin baik.
+Pertumbuhan jamur tertinggi pada ukuran TKKS -80
+mesh yaitu sebesar 0,598 gram berat kering jamur
+(konsentrasi protein 1,822 g/L).
+Semakin halus ukuran partikel, konsentrasi
+gula sederhana yang dihasilkan semakin tinggi.
+Konsentrasi gula sederhana tertinggi pada ukuran
+TKKS -80 mesh yaitu sebesar 7,847 g/L. Kinetika
+Model 1 dengan persamaan pendekatan orde satu
+dapat menggambarkan secara kuantitatif proses
+fermentasi. Nilai kh semakin besar pada ukuran TKKS
+yang semakin halus. Nilai kc semakin kecil pada
+ukuran TKKS semakin halus.

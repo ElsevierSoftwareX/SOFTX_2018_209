@@ -1,0 +1,68 @@
+﻿ABSTRAK 
+Pada industri perminyakan, penentuan instalasi perpipaan merupakan suatu hal yang sangat penting dilakukan pada proses transportasi air-minyak. Belokan, pembesaran maupun pengecilan mendadak, pemasangan katup dan berbagai jenis lainnya walaupun menimbulkan kerugian namun sangat sulit untuk dihindari. 
+
+Penelitian ini bertujuan untuk mendapatkan visualisasi pola aliran, koefisien rugi serta penurunan tekanan pada pipa pengecilan mendadak dengan rasio diameter 21:16 cm untuk aliran campuran air-crude oil. Variasi yang diberikan berupa penambahan fraksi volume minyak dalam aliran hingga 10% serta laju aliran yang didasarkan pada bukaan katup ½, 1 ½, and 3 ½ putaran. Visualisasi didapatkan dengan alat bantu seperti kamera dan video perekam. Nilai penurunan tekanan dihitung dari data perbedaan tekanan antara pipa besar dan kecil pada pengecilan mendadak yang diukur dengan manometer U. Koefisien rugi pada pengecilan mendadak dihitung dengan menggunakan tiga metode: analisis berdasarkan profil gradient tekanan, penghitungan dengan mempertimbangkan impuls momentum serta analisis terhadap daerah efektif aliran. 
+
+Pola aliran yang didapat pada pengujian ini adalah aliran inti tipis (thin core flow). yang menggambarkan inti tipis bergelombang dan tidak seragam pada penampang pipa. Lapisan yang terbentuk dekat dengan dinding pipa juga menunjukkan pergeseran inti ke daerah tengah pipa. Hasil penghitungan penurunan tekanan berkisar antara 7000-22000 Pa. Sedangkan nilai rata-rata koefisien rugi kontraksi berkisar antara 0.3-0.9. Kesimpulan dari penelitian ini adalah bahwa pola aliran, koefisien rugi kontraksi serta penurunan tekanan dipengaruhi oleh kecepatan aliran dan penambahan fraksi volume crude oil dalam aliran. 
+
+Kata kunci: pengecilan mendadak, air - crude oil, penurunan tekanan, koefisien 
+rugi kontraksi
+
+
+
+ BAB I 
+PENDAHULUAN 
+1.1 Latar Belakang 
+
+Aliran campuran air - crude oil banyak kita jumpai dalam kehidupan sehari-hari, salah satunya pada industri perminyakan. Aliran ini terdiri dari dua macam zat yang tak dapat bersatu serta berbeda rezim alirannya dan mengalir secara bersamaan dalam suatu saluran. Proses emulsifikasi antara air dan crude oil dalam saluran perpipaan menjadi hal yang menarik untuk diteliti lebih jauh untuk memperkaya keilmuan dan aplikasi yang kiranya dapat dilakukan untuk kehidupan sehari-hari. 
+Pengeboran crude oil dilakukan terhadap sumur-sumur minyak yang berada pada jarak sekitar 2 km di bawah laut. Pada masing-masing sumur, terdiri dari 3 lapisan zat yang disebabkan oleh karena adanya perbedaan densitas. Zona paling atas ditempati oleh gas, zona tengah diisi oleh minyak dan bagian bawah oleh air. Pada awalnya, pipa yang digunakan untuk mentransportasikan akan mengalirkan fase tunggal air. Namun seiring berjalannya waktu, crude oil akan turun dan kemudian mengalir bersama dengan air di dalam pipa hingga membentuk aliran crude oil dalam air (o/w). Pada akhirnya, keberadaan crude oil semakin mendominasi seiring dengan peningkatan fraksi volume crude oil dalam aliran hingga membentuk aliran air dalam crude oil (w/o) dan semakin lama akan mengalirkan fase tungga crude oil di dalam pipa. 
+
+Disamping itu, penentuan instalasi perpipaan merupakan suatu hal yang sangat penting dilakukan pada proses transportasi air – crude oil dari sumur minyak menuju recervoir. Belokan, pembesaran maupun pengecilan mendadak, pemasangan katup dan berbagai jenis variasi lainnya walaupun menimbulkan kerugian namun sangat sulit untuk dihindari. Pada rekayasa ini, untuk menjaga emulsifikasi antara air dan crude oil tetap terjadi di sepanjang pipa, perlu dipastikan bahwa kecepatan aliran di sepanjang pipa ada pada kecepatan tinggi. Jadi, hal yang bisa dilakukan salah satunya adalah pemasangan pipa pengecilan mendadak pada instalasi perpipaan. Dengan demikian, maka perlu diketahui lebih mendalam tentang karakteristik aliran (pola aliran), nilai koefisien rugi kontraksi serta penurunan tekanan yang terjadi pada pengecilan mendadak untuk kepentingan rekayasa lainnya terutama yang erat kaitannya dengan sistem perpompaan. 
+
+1.2 Tujuan 
+
+Tujuan dari Tugas Sarjana ini adalah: 
+a. Mendapatkan pola aliran campuran air – crude oil pada pipa pengecilan mendadak. 
+b. Menghitung penurunan tekanan yang terjadi pada pipa pengecilan mendadak. 
+c. Menghitung nilai koefisian rugi yang terjadi pada pipa pengecilan mendadak. 
+
+1.3 Batasan Masalah 
+
+Dalam penyusunan Tugas Sarjana ini penulis membatasi pada: 
+1. Fluida yang digunakan adalah air dengan densitas 0,996 (g/cm3) serta viskositas dinamik sebesar 0,82 mPa.s dan crude oil dengan densitas 0,806 (g/cm3) serta viskositas dinamik sebesar 9,33 mPa.s. 
+2. Variasi debit aliran yang diberikan adalah bukaan katup sebesar ½, 1 ½, dan 3 ½ putaran (10%, 30% dan 80%). 
+3. Komposisi aliran adalah crude oil dalam air (o/w) dengan variasi penambahan fraksi volume crude oil sebesar 0%,2%,4%,6%,8%, dan 10%. 
+4. Analisa penghitungan mengasumsikan aliran campuran air - crude oil yang mengalir dalam pipa adalah aliran homogen (homogenous flow). 
+5. Nilai koefisian gesek pada dinding pipa PVC dan pipa kaca diasumsikan sama. 
+
+1.4 Metodologi Penelitian 
+
+Adapun metodologi penelitian yang penulis lakukan dalam pembuatan laporan penelitian Tugas Sarjana ini adalah sebagai berikut: 
+1. Studi Pustaka 
+Metode pengumpulan data dilakukan dengan mempelajari referensi-referensi yang berkaitan dengan penyusunan Tugas Sarjana ini. 
+2. Pengujian Laboratorium 
+
+Pengujian ini dilakukan di Laboratorium Termofluida Jurusan Teknik Mesin Universitas Diponegoro dengan cara mendesain dan membuat alat serta melakukan penelitian terhadap obyek pengujian. 
+3. Asistensi dan Konsultasi 
+
+Metode ini bertujuan untuk mendapatkan tambahan pengetahuan, arahan, dan masukan dari dosen pembimbing terkait pelaksanaan pengujian serta penyusunan laporan. 
+4. Pengolahan dan Analisis Data 
+
+Melakukan pengolahan data dan analisis berdasarkan data yang diperoleh serta menyajikan data hasil pengujian dalam bentuk grafik. 
+
+1.5 Sistematika Penulisan 
+
+Sistematika yang digunakan dalam penulisan laporan Tugas Akhir ini meliputi: 
+BAB I PENDAHULUAN 
+Berisi tentang latar belakang, tujuan penelitian, pembatasan masalah, metode penelitian, dan sistematika penulisan. 
+BAB II DASAR TEORI 
+Berisi tentang teori-teori yang menjadi dasar penelitian. 
+BAB III METODOLOGI PENELITIAN 
+Berisi tentang langkah-langkah yang akan dilakukan selama pengujian serta peralatan-peralatan yang digunakan. 
+BAB IV DATA DAN ANALISA 4 
+
+Berisi data-data yang diperoleh selama pengujian berlangsung serta analisa dan pembahasan terhadap hasil pengujian yang berdasar pada tujuan penelitian. 
+BAB V PENUTUP 
+Berisi kesimpulan tentang penelitian yang telah dilakukan serta saran yang diperuntukkan bagi perbaikan pada penelitian selanjutnya. 
+DAFTAR PUSTAKA 
+LAMPIRAN

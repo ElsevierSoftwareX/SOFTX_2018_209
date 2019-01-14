@@ -1,0 +1,64 @@
+﻿Teknologi informasi dapat digunakan sebagai media komunikasi efektif dan efisien antara pengelola sumber daya air dan masyarakat dalam kegiatan pemantauan kualitas air sungai. Wilayah Sungai di Provinsi Lampung terbagi menjadi 3 berdasarkan Keputusan Presiden Nomor 12 tahun 2012 yaitu WS Seputih – Sekampung, WS Mesuji - Tulang Bawang dan WS Semangka.
+Penelitian ini bertujuan untuk melakukan analisa indeks kualitas air dan indeks polutan air untuk menentukan status kualitas air Metode WQI -DOE Malaysia, Storet dan Indeks Pencemaran (IP) pada sungai di WS Seputih – Sekampung (33 lokasi) dan WS Mesuji - Tulang Bawang (19 lokasi). Penelitian ini menggunakan teknologi Sistem Informasi berbasis website sebagai alat memberikan informasi kualitas air sungai kepada masyarakat dan semua pihak yang terlibat dalam pengelolaan sumber daya air.
+Analisis indeks kualitas air dilakukan berdasarkan data uji laboratorium selama kurun waktu 2011 sampai 2013 dengan parameter pH, DO, BOD, COD, TDS, DHL, AN, Arsen, Selenium, Flourida, Minyak dan Total Coliform. Dari hasil analisis diambil kesimpulan bahwa sungai di WS Seputih Sekampung mempunyai kualitas air antara bersih hingga cemar sedang dan sungai di WS
+Mesuji Tulang Bawang mempunyai kualitas air antara bersih sampai cemar berat. Hasil analisis tersebut ditampilkan dalam Sistem Informasi Kualitas Air di Provinsi Lampung yang terkoneksi internet dan dapat diakses pada alamat http://kualitas-air.bl.ee/kualitas/kualitas-air.com.
+Hasil penelitian menunjukan bahwa kondisi kualitas air dipengaruhi oleh tata guna lahan. WS Seputih Sekampung dengan sebagian besar daerah pertanian dan sebagian lagi lahan rawa. Pola penurunan kualitas air lahan budidaya terjadi pada musim basah. Lahan rawa mempunyai kecenderungan sebaliknya, kualitas air akan meningkat disaat musim basah akibat penurunan kadar asam oleh air hujan. WS Mesuji Tulang Bawang mempunyai tata guna lahan sebagian besar lahan budidaya dan sebagian merupakan tanah rawa. Kondisi penurunan kualitas air untuk lahan budidaya mempunyai pola yang sama dengan WS Seputih Sekampung.
+Kata kunci : Wilayah Sungai Seputih Sekampung, WS Mesuji Tulang Bawang, WQI – DOE Malaysia, Storet, IP , Sistem Informasi berbasis website.
+
+
+I. PENDAHULUAN
+A. Latar Belakang
+Air merupakan karunia dari Tuhan Yang Maha Esa dan keberadaannya digunakan untuk seluruh mahluk hidup di muka bumi ini dengan ketersediaannya di alam semesta dalam jumlah yang tetap. Jumlah air di mana diperkirakan 96,5% berupa air laut dan air tawar dengan jumlah 1,7% es di kutub, 1,7% air tanah dan 0,1 % air permukaan dan di udara (Chow dkk., 1988). Air yang dapat dimanfaatkan langsung oleh manusia sekitar 31,1% dari seluruh jumlah air tawar di bumi yang berada di sungai, danau dan penampungan di alam (Shiklomanov, 1998).
+Karakteristik air yang berbeda dengan sumber daya lain karena tidak dapat dibatasi secara administratif dan kegunaannya dipengaruhi ruang, waktu, jumlah dan mutu. Pada kenyataannya seluruh air tawar yang tersedia tidak dapat langsung digunakan karena berbagai kondisi yaitu terlalu banyak, terlalu sedikit dan terlalu kotor (Hatmoko, 2011) dan ketersediaannya tidak sebanding dengan kebutuhan yang terus meningkat seiring dengan pertumbuhan penduduk dunia yang memasuki era eksponensial dimana diperkirakan pada tahun 2050 menjadi 10 miliar pada akhir abad ini (Miller dan Scott, 2009).
+
+Kebutuhan akan air sebagai kebutuhan dasar merupakan hak setiap manusia dimana hak atas air merupakan hak dasar yang dimiliki setiap manusia (Scalon dkk., 2004) dan keberlanjutan kehidupan manusia dipengaruhi oleh ketersediaan air (International Atomic Energy Agency Information Series 2/03/E). Kelestarian air diupayakan untuk mempertahankan keberadaannya dengan pengelolaan yang terpadu dilaksanakan berbasis wilayah sungai yang mengelola dari hulu hingga hilir.
+Kemajuan teknologi informasi dapat digunakan sebagai salah satu alat dalam pengelolaan sumber daya air terpadu sebagai salah satu pilar sesuai amanat UU nomor 7 tahun 2004. Teknologi informasi yang cukup dikenal masyarakat adalah internet berbasis website sebagai media efektif dan efisien dalam memberikan informasi sumber daya air dengan cepat.
+Globalisasi sebagai pemicu perkembangan kemajuan dapat digunakan masyarakat sebagai penerima manfaat sumber daya air untuk ikut aktif dalam pengelolaan SDA. Kesenjangan informasi pengelolaan sumber daya air merupakan bukti belum terbangun koordinasi harmonis antara pemerintah dan masyarakat sehingga kinerja pemerintah dianggap tidak berhasil.
+Sistem Informasi berbasis website dapat digunakan masyarakat untuk mengetahui kondisi sungai di Provinsi Lampung terutama Wilayah Sungai Seputih Sekampung dan Wilayah Sungai Mesuji Tulang Bawang. Sistem ini diharapkan dapat menjadi media interaksi dinamis tentang pengelolaan kualitas air sebagai bagian dari pengelolaan sumber daya air.
+
+B. Identifikasi Masalah
+Pengelolaan wilayah sungai di Indonesia dilaksanakan berdasarkan UU Nomor 7 tahun 2004 dan dijelaskan secara rinci dalam Keputusan Presiden nomor 12 tahun 2012 tentang Penetapan Wilayah Sungai dengan menetapkan status wilayah sungai di seluruh Republik Indonesia. Wilayah sungai merupakan basis pengelolaan sumber daya air dilakukan oleh banyak instansi pemerintah sesuai kewenangannya. Kurangnya koordinasi antar instansi sebagai penggerak dari pengelolaan sumber daya air menyebabkan tumpang tindih kegiatan dengan hasil yang kurang signifikan.
+Upaya pengelolaan SDA menurut Undang-undang Nomor 7 tahun 2004 tentang SDA terdiri dari konservasi, pendayagunaan dan pengendalian daya rusak dengan didukung oleh data dan informasi sumber daya air dan peran serta masyarakat. Data dan informasi merupakan pilar penunjang upaya pengelolaan yang diperkokoh peranan masyarakat sebagai pelaku dan penerima manfaat pengelolaan SDA. Sebuah langkah penting dalam sistem pemantauan kualitas air sebagai bagian dari pengelolaan SDA adalah identifikasi informasi yang diinginkan.
+Data merupakan salah satu unsur yang sangat penting dalam perencanaan pengelolaan sumber daya air disajikan dalam bentuk data SDA sebagai bahan dasar penyajian informasi SDA. Pengumpulan data tanpa tujuan cenderung menciptakan kondisi kaya data tetapi mengalami sindrom miskin informasi (Ward dkk., 1986 dalam Twenter dkk., 2003).
+
+Data yang berhubungan dengan sumber daya air adalah:
+1. Data hidrologi;
+2. Data iklim;
+3. Data kualitas air;
+4. Data cekungan air tanah; dan
+5. Data sumber air.
+Data tersebut tersebar di banyak instansi pemerintah sebagai contoh:
+1. Data iklim dikelola oleh Badan Meteorologi Klimatologi dan Geofisika (BMKG) dan Kementerian Pekerjaan Umum;
+2. Data hidrologi dikelola oleh Kementerian Pekerjaan Umum dan Dinas Pekerjaan Umum Provinsi/Kabupaten/Kota;
+3. Data kualitas air dikelola oleh Kementerian Pekerjaan Umum, Kementerian Lingkungan Hidup dan Badan Pengelolaan Lingkungan Hidup (BPLH) di Provinsi/Kabupaten/Kota; dan
+4. Data cekungan air tanah dikelola oleh Kementerian Energi dan Sumber Daya Mineral (ESDM).
+Data Sumber Daya Air (SDA) seyogyanya menyajikan informasi sumber daya air secara kuantitas dan kualitas yang memberikan gambaran tentang jumlah dan status mutu SDA pada waktu tertentu kepada masyarakat. Data kualitas air adalah data SDA menggambarkan tentang kualitas air yang sangat terbatas ketersediaannya saat ini. Pihak pemerintah mempunyai kendala dalam pelaksanaan pengambilan data kualitas air yaitu keterbatasan dana dan luasnya daerah pematauan sebagai pemicu rendahnya kualitas pengelolaan data sebagai bahan dasar sistem informasi kualitas air.
+
+Data kualitas air yang disajikan dalam bentuk sistem informasi seharusnya dapat diakses dengan mudah dan cepat oleh masyarakat dan semua pihak yang berkepentingan untuk memberikan informasi kualitas air sungai yang dipantau. Informasi yang cepat dan akurat dapat membantu pemerintah dalam mengendalikan pemantauan kualitas air untuk mengurangi dampak kerusakan lingkungan seperti:
+1. Penurunan kualitas air pada sumber air karena pencemaran sebagai akibat meningkatnya lahan kritis disertai laju deforestasi;
+2. Degradasi dasar sungai dampak dari aktivitas penambangan tidak terkendali;
+3. Meningkatnya laju sedimentasi, sampah dan pemanfaatan lahan yang menyebabkan bencana banjir saat musim penghujan; dan
+4. Konflik pemanfaatan air saat kekeringan.
+Penelitian ini bertujuan untuk membuat sistem informasi kualitas air berbasis website yang memberikan informasi tentang kegiatan pemantauan kualitas air Sungai di Wilayah Sungai Provinsi Lampung. Hasil analisa dari data parameter uji laboratorium kualitas air dengan metode Water Quality Index (WQI) DOE Malaysia, Storet dan Indeks Pencemaran (IP) yang kemudian disajikan sebagai informasi sederhana untuk memberikan gambaran kepada masyarakat dan pihak terkait tentang kondisi sungai di WS Provinsi Lampung.
+
+C. Rumusan Masalah
+Berdasarkan latar belakang dan identifikasi masalah di atas, maka masalah dalam penelitian ini dirumuskan sebagai berikut:
+1. Bagaimana kondisi eksisting terkait data kualitas air di Wilayah Sungai Provinsi Lampung;
+2. Bagaimana cara menentukan Indeks Kualitas Air / Water Quality Index (WQI), Storet dan Indeks Pencemaran (IP) di Wilayah Sungai Provinsi Lampung;
+3. Bagaimana cara menyusun hasil analisa Indeks Kualitas Air / Water Quality Index (WQI), Storet dan Indeks Pencemaran (IP) tersebut dalam suatu sistem informasi kualitas air yang informatif dan efektif.
+D. Maksud dan Tujuan
+Maksud dari penelitian ini menyusun suatu sistem informasi kualitas air sungai di Wilayah Sungai Provinsi Lampung.
+Tujuan dari penelitian ini adalah:
+1. Mengumpulkan data kualitas air di wilayah sungai Provinsi Lampung;
+2. Menghitung Indeks Kualitas Air / Water Quality Index (WQI), Storet dan Indeks Pencemaran (IP) sungai di wilayah sungai Provinsi Lampung;
+3. Menyusun sistem informasi mengenai kualitas air di wilayah sungai Provinsi Lampung.
+
+E. Manfaat Penelitian
+1. Manfaat dari penelitian ini menjadi sumber informasi bagi masyarakat tentang kualitas air sungai di Provinsi Lampung;
+2. Memberikan masukan kepada pemerintah tentang pengelolaan sumber daya air berkaitan dengan kualitas air sungai di Wilayah Sungai Provinsi Lampung;
+3. Memberikan masukan kepada Balai Besar Wilayah Sungai Mesuji Sekampung sebagai Unit Pelaksana Teknis Kementerian (UPT) Pekerjaan Umum untuk mengelola wilayah sungai di Provinsi Lampung.
+F. Batasan Masalah
+Penelitian ini dibatasi sebagai berikut:
+1. Wilayah sungai yang diteliti adalah Wilayah Sungai Seputih Sekampung dan Wilayah Sungai Mesuji Tulang Bawang;
+2. Metode perhitungan Indeks Kualitas Air yang digunakan formula DOE (Departement of Environmental) Malaysia dan Indeks Polusi Air menggunakan Storet dan Indeks Pencemaran (IP);
+3. Sistem Informasi yang dibangun berbasis website.

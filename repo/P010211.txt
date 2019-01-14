@@ -1,0 +1,116 @@
+﻿Pendahuluan
+Angka kecelakaan kerja di Indonesia masih ter-golong tinggi. Pada akhir Triwulan IV tahun 2014, angka kecelakaan kerja nasional mencapai 14.519 kasus, dengan jumlah korban kecelakaan mencapai 14.257 orang. Sumber kecelakaan kerja didominasi oleh kecelakaan lalu lintas dalam hubungan kerja, alat kerja mesin serta perkakas kerja tangan (Pusdatinaker ). Caldwell, et al.  menyatakan bahwa faktor kelelahan berpengaruh terhadap ter-jadinya kecelakaan. Kelelahan diidentifikasi sebagai faktor yang berkontribusi terhadap kecelakaan, insiden dan kematian di berbagai kondisi karena adanya penurunan kewaspadaan dan kinerja (Williamson, et al. ). Oleh karena itu, perlu adanya suatu alat pengukuran dan monitoring ke-lelahan kerja, termasuk di dalamnya kelelahan mental.
+Berbagai alat ukur untuk monitoring kelelahan telah diusulkan dalam literatur. Salah satunya adalah alat ukur berbasis uji flicker dengan mengguna-kan indikator Critical Flicker Fusion Frequency (CFFF). Konsep dasar pengukuran flicker dengan menggunakan konsep lampu yang berkedip pada frekuensi tertentu, kemudian frekuensi dari lampu akan meningkat sampai frekuensi tertentu, sehing-ga kedipan lampu terlihat seperti lampu yang kontinu. Frekuensi dari kondisi tersebut dinamakan CFFF. Nilai CFFF mempunyai satuan Hertz (Hz), yang dapat digunakan untuk mengukur efisiensi fungsi sistem saraf pusat atau ketanggapan sistem saraf (cortical arousal) (Kroemer dan Grandjean ).
+Tingkat kelelahan seseorang, khususnya kelelahan mental, dapat diukur dari waktu reaksi dan kondisi mata. Kemampuan mata dalam menerima stimulus dan memproses informasi diatur oleh sistem saraf pusat. Saat kemampuan mata mengalami penurunan dalam menangkap stimulus, yang ditandai dengan ketidakmampuan membedakan lampu berkedip serta waktu reaksi yang besar, mengindikasi-kan adanya penurunan kinerja sistem saraf pusat dan kelelahan (Saito, ). Individu yang mengalami kelelahan akan memiliki nilai CFFF lebih rendah dibandingkan individu normal (Kulinski, et al. ).
+Menurut Kroemer dan Grandjean , adanya penu-runan nilai CFFF sebesar 0,5–6,0 Hz mengindikasi-kan adanya kelelahan yang dialami selama berakivitas. Penurunan nilai CFFF yang cukup besar dapat disebabkan oleh tingkat kelelahan (mental) yang dialami cukup tinggi. Selain itu, pekerjaan
+yang berulang dan kondisi yang monoton, juga
+dapat mempengaruhi penurunan nilai flicker.
+Sementara itu, tidak adanya penurunan nilai CFFF
+mengindikasikan bahwa aktivitas yang dilakukan
+hanya membutuhkan usaha mental tingkat rendah
+hingga sedang (Kroemer dan Grandjean ).
+Alat uji flicker juga dikembangkan mulai dari yang
+hanya bisa digunakan pada laboratorium hingga
+alat yang portabel seperti diusulkan oleh Saito .
+Namun, tidak diketahui validitas alat tersebut
+secara empiris, jika digunakan di lapangan industri.
+Selain itu, alat uji flicker yang dirancang oleh Saito
+, masih memiliki kekurangan yaitu pengkondisian
+jarak pengujian sulit distandarkan, serta tidak
+dapat mendeteksi titik kesalahan yang terjadi.
+Uji flicker memanfaatkan konsep bahwa kelelahan
+dapat menimbulkan penurunan aktivitas kewaspadaan
+dan perhatian, karena adanya reaksi dari
+sistem penghambat yang menurunkan kondisi
+sistem penggerak di bagian cerebral cortex. Adanya
+impuls yang berasal dari kedipan lampu akan
+ditangkap oleh bagian sistem penggerak di cerebral
+cortex. Kemampuan menangkap impuls tersebut
+digunakan untuk mengukur aktivitas saraf pusat
+atau ketanggapan sistem saraf (cortical arousal)
+(Kroemer dan Grandjean ).
+Dalam penelitian ini dilakukan pengembangan alat
+uji flicker untuk mengukur kelelahan mental dan
+hasil rancangan kemudian diujicoba dengan studi
+laboratorium dan studi lapangan untuk memperoleh
+validasi alat ukur secara empiris
+Metode Penelitian
+Pengembangan Alat Ukur
+Dalam penelitian ini, kerangka pengembangan
+produk yang digunakan sebagai acuan adalah model
+system life cycle Chapanis  yang dilengkapi oleh
+model siklus pengembangan produk dari Ulrich dan
+Eppinger . Pada kedua kerangka ini, metode
+pengembangan produk berpusat pada pemenuhan
+kebutuhan, fungsi, prosedur, fitur dan disain lainnya,
+karena adanya kelebihan, kekurangan, dan
+sifat-sifat khusus dari manusia sebagai penggunanya.
+Kerangka usulan dimulai dari evaluasi alat ukur
+eksisting, untuk merancang fungsi dasar produk
+yang akan dijabarkan dalam konsep operasional.
+Bersamaan dengan penjabaran kebutuhan konsep
+operasional dilakukan identifikasi kebutuhan produk
+dengan mempertimbangkan karakteristik pengguna.
+Hasil kedua proses ini adalah spesifkasi kebutuhan
+sistem. Tahapan selanjutnya adalah penentuan
+kriteria performansi yang hendak dicapai yang
+digali dari benchmark sebagai dasar uji usabilitas
+dan penerjemahan konsep produk menjadi prototipe
+sederhana. Beberapa tahapan dapat dilakukan
+paralel karena tidak terkait. Kemudian dilakukan
+uji usabilitas untuk memastikan aspek usabilitas
+produk dan melihat kekurangan produk yang belum
+disadari pada proses pengembangan. Setelah lulus
+uji usabilitas, dilakukan pengujian performansi
+yang dilakukan pada eksperimen di laboratorium
+dan pengujian di lapangan. Hasil dari pengujian
+performansi diperoleh ketercapaian target pengembangan
+produk dan perbaikan konsep produk apabila
+diperlukan. Gambaran tahapan pengembangan
+alat ukur selangkapnya dapat dilihat pada Gambar
+1.
+Evaluasi Alat Ukur Eksisting
+Evaluasi dilakukan terhadap berbagai alat ukur
+yang ada saat ini. Dua alat uji flicker yang dievaluasi
+adalah produk buatan Yagami Scientific
+Instrument Mfg dan portable fatigue meter yang
+diusulkan Saito . Hasil evaluasi alat ukur
+eksisting selengkapnya dapat dilihat pada Tabel 1.
+
+Rancangan Konsep Operasional
+Konsep produk merupakan hasil penurunan ide produk yang dijabarkan menjadi fungsi dasar produk. Hal tersebut akan menjadi dasar dalam melakukan pengembangan produk (Chapanis ). Rancangan konsep operasional ini menjawab kekurangan yang ada dari produk buatan Yagami Scientific Instrument Mfg dan portable fatigue meter yang diusulkan Saito . Kelemahan dari produk buatan Yagami Scientific Instrument Mfg adalah tidak portable dan tidak memiliki mekanisme umpan balik. Sementara kelemahan dari portable fatigue meter yang diusulkan oleh Saito  adalah tidak memiliki mekanisme umpan balik.
+Fungsi dasar produk yang hendak dikembangkan adalah sebagai berikut: (a) Menghasilkan stimulus. (b) Memfasilitasi pengguna untuk merespon stimulus. (c) Validasi input pengguna (d) Memberikan penilaian kondisi kelelahan pengguna.
+Identifikasi Kebutuhan Pengguna
+Bersamaan dengan tahapan pendefinisian konsep operasional dilakukan tahapan identifikasi spesifikasi kebutuhan. Targetnya adalah produk yang akan dibuat memiliki fungsi produk yang dapat memenuhi kebutuhan pengguna, pekerja industri dengan risiko kecelakaan kerja yang tinggi akibat kelelahan, misalnya pengemudi, pekerja konstruksi, pekerja tambang, dan lain-lain. Alat akan diguna-kan di lapangan industri. Untuk itu diperlukan identifikasi kebutuhan pengguna.
+Hasil identifikasi kebutuhan pengguna perlu dipenuhi sebagai berikut: (a) Alat dapat digunakan dengan mudah. (b) Mampu dilihat dalam jarak pandang mata normal dan dapat dilihat oleh buta warna atau tidak. (c) Mampu digunakan secara objektif. (d) Memiliki stimuli suara, dapat diguna-kan di lingkungan yang bising. (e) Alat mampu membedakan apakah pengguna hanya menebak atau memang masih bisa merespon dengan benar. (f) Alat kendali untuk memberikan respon nyaman digunakan oleh tangan. (g) Pengasosiasian sumber stimulus dengan alat kendali untuk memberikan respon dapat digunakan dengan mudah dan benar. (h) Informasi dalam layar kendali mudah untuk dicerna dan dilihat. (i) Proses interpretasi dan penarikan kesimpulan terhadap hasil assesmen dengan mudah dilakukan.
+Penentuan Kebutuhan Sistem
+Pendefinisian kebutuhan sistem dilakukan dengan memanfaatkan informasi hasil rancangan konsep operasional dan identifikasi kebutuhan pengguna. Pada tahapan ini, kebutuhan sistem ditentukan dengan digunakan pendekatan three view of system, yaitu terkait aspek fungsional (fungsi dasar produk), operasional (cara menjalankan fungsi produk), serta fisikal (tampilan yang akan digunakan untuk menjalankan fungsi tersebut) (Chapanis ). Informasi kebutuhan pengguna akan menjadi masukan dalam merancang kebutuhan sistem, baik dari aspek operasional, fungsional maupun fisikal. Hasil penentuan kebutuhan sistem selengkapnya dapat dilihat pada Tabel 2.
+
+Penentuan Kriteria Performansi Produk
+Pengembangan fungsi produk dilakukan dengan mempertimbangkan kelebihan dan kekurangan dari alat yang telah ada sebelumnya dan karakteristik calon pengguna alat. Informasi tersebut berpengaruh pada penentuan kriteria performansi yang hendak dicapai oleh produk yang dirancang. Kriteria performansi digunakan untuk mengukur keter-capaian dan melakukan evaluasi dari kriteria-kriteria yang telah ditetapkan. Penentuan target dila-kukan dengan membandingkan dengan benchmark dan wawancara dengan ahli. Daftar kriteria performansi yang telah disusun dapat dilihat pada Tabel 3.
+Hasil dan Pembahasan
+Pembuatan Prototipe
+Prototipe dibuat dengan bahan styrofoam, kertas, dan beberapa komponen elektronik sederhana. Disain alat yang dirancang terdiri dari dua bagian utama yaitu sumber stimulus dan alat kendali sebagai input. Pada bagian sumber stimulus, ter-dapat tiga buah lampu dengan posisi dan orientasi sudut dapat disesuaikan, serta adanya layar LCD untuk menampilkan status pengukuran. Pada bagian alat kendali terdiri dari tiga tombol dengan orientasi posisi tombol disesuaikan dengan sumber stimulus. Hasil pembuatan prototipe dapat dilihat pada Gambar 2. Gambar teknik untuk prototipe yang dibuat dapat dilihat pada bagian Lampiran 1.
+Pengujian Usabilitas
+Pengujian usabilitas dilakukan bertujuan untuk memastikan produk bersifat user friendly dan mengetahui apakah ada kekurangan produk yang belum disadari pada proses pengembangan. Uji usabilitas dilakukan dilingkungan laboratorium dengan responden berlatar belakang pekerja administrasi. Hal ini sesuai dengan karakteristik calon pengguna, dimana pekerjaan dari calon pengguna memiliki beban kerja fisik mental dan tekanan waktu. Uji usabilitas dilakukan dengan menjalankan beberapa skenario pengguna alat, dengan melibatkan dua peran utama yaitu observer dan responden. Pendataan respon dilakukan dari hasil wawancara dan pengamatan terhadap critical incident (temuan ketidaksesuaian rancangan) selama responden menggunakan alat berdasarkan skenario yang telah disusun. Hasil uji usabilitas mencatat beberapa critical incident berikut: (a) Responden tidak mengatur sudut LED saat melakukan pengujian. (b) Responden tidak mengetahui maksud display headset. (c) Responden merasa tombol kontrol yang berada di samping alat kurang pas. (d) Responden tidak langsung memahami tampilan informasi di LCD
+Setelah mengetahui hasil uji usabilitas, selanjutnya dilakukan rancangan disain prototipe dengan mempertimbangkan hasil uji usabilitas. Beberapa poin perbaikan yang dilakukan pada perancangan produk jadi antara lain bagian LED dibuat lebih menonjol, LED dapat diatur sudut kemiringannya sesuai dengan yang mudah diterima oleh responden, tombol kontrol input dibuat terpisah seperti remote, serta tombol input diletakkan pada bagian pinggir untuk mempermudah proses penekanan pada saat alat digenggam, serta membuat LCD lebih miring, tidak lagi sejajar dengan lampu. Rancangan produk jadi yang digunakan dapat dilihat pada Gambar 3. Gambar teknik untuk rancangan produk usulan yang dibuat dapat dilihat pada bagian Lampiran 2 dan Lampiran 3.
+Pengujian Produk
+Pengujian produk dilakukan melalui eksperimen di laboratorium dan pengujian di lapangan. Tujuan ujicoba adalah untuk melakukan pengujian performansi ketercapaian target pengembangan produk dan perbaikan konsep produk apabila diperlukan. Pada eksperimen di laboratorium, dilakukan dua jenis aktivitas mental yaitu critical reading dan per-hitungan aritmatika kompleks dengan melibatkan 16 orang partisipan. Partisipan melakukan aktivitas critical reading dan perhitungan aritmatika kompleks selama 100 menit.
+Pengambilan data di lapangan dengan melibatkan objek pengemudi bis malam antar kota antar provinsi. Pemilihan objek ini dilandasi karena pekerjaan pengemudi bis memiliki komposisi beban kerja mental, fisik, serta tekanan waktu. Hasil pengujian performansi dari eksperimen di laboratorium dan studi di lapangan selengkapnya, dapat dilihat pada Tabel 4.
+Pembahasan
+Seiring dengan adanya kebutuhan dari sektor industri dan transportasi untuk meminimasi tingkat kecelakaan kerja, maka muncul kebutuhan untuk mengembangkan alat pengukuran kelelahan yang praktis untuk digunakan dan memberikan hasil pengukuran yang mudah diinterpretasikan. Salah satu indikator yang dapat digunakan untuk pengukuran kelelahan adalah berbasis uji flicker. Pengukuran ini menggunakan konsep lampu yang berkedip pada frekuensi tertentu, kemudian frekuensi dari lampu akan meningkat sampai frekuensi ter-tentu, sehingga kedipan lampu terlihat seperti lampu yang kontinu. Frekuensi dari kondisi tersebut dinamakan critical flicker fusion frequency (CFFF). Nilai CFFF mempunyai satuan Hertz (Hz), yang dapat digunakan untuk mengukur efisiensi fungsi sistem saraf pusat atau ketanggapan sistem saraf (cortical arousal) (Kroemer dan Grandjean ).
+Tingkat kelelahan seseorang, khususnya kelelahan mental, dapat diukur dari waktu reaksi dan kondisi mata. Kemampuan mata dalam menerima stimulus dan memproses informasi diatur oleh sistem saraf pusat. Saat kemampuan mata mengalami penurunan dalam menangkap stimulus, yang ditandai dengan ketidakmampuan membedakan lampu ber-kedip serta waktu reaksi yang besar, dapat mengindikasikan adanya penurunan kinerja sistem saraf pusat dan mengindikasikan adanya kelelahan (Saito ).
+
+Pengukuran kelelahan menggunakan indikator CFFF merupakan metode dasar untuk mengukur kelelahan dan saat ini telah banyak diaplikasikan (Sang dan Li ). Penurunan nilai CFFF dibandingkan kondisi sebelum beraktivitas, mengin-dikasikan terjadinya kelelahan (Ikarashi ; Lafere, et al. ; Murata, et al. ; Suarez ). CFFF dapat digunakan sebagai indikator kelelahan, karena menunjukkan penurunan daya proses informasi setelah beraktivitas.
+Pemilihan metode uji kelelahan berbasis uji flicker ini didasarkan atas keterbatasan metode pengukur-an kelelahan berbasis indikator fisiologis, denyut jantung dan tekanan darah untuk digunakan di lapangan kerja terutama untuk kelelahan mental. dengan menggunakan uji flicker.
+Kondisi kelelahan yang dialami oleh setiap pekerja dapat diketahui dari nilai CFFF. Apabila terjadi penurunan nilai CFFF yang signifikan dibanding-kan dengan kondisi sebelum beraktivitas, maka sebaiknya pekerja tersebut melakukan istirahat. Hal ini karena penurunan nilai CFFF yang signifikan mengindikasikan terjadinya kelelahan dan penurunan kewaspadaan. Alat ukur ini diharapkan kedepannya dapat dimanfaatkan di industri untuk kegiatan pengukuran dan monitoring kelelahan secara kontinu sehingga kecelakaan kerja dapat dicegah sedini mungkin.
+Saito  merancang alat pengukur kelelahan berbasis critical flicker frequency (CFF) dan reaction time, dikenal sebagai Portable Fatigue Meter (PFM). Namun, alat ini masih memiliki beberapa keterbatasan, yaitu tidak adanya umpan balik untuk memvalidasi frekuensi kerlipan, serta tidak dapat mendeteksi titik kesalahan yang terjadi. Alat flicker test apparatus yang dikembangkan oleh Yagami Manufacturing, hanya dapat mengukur frekuensi pada tingkat 0-50 Hz, dengan bentuk yang cukup besar sehingga sulit untuk dibawa dan tidak dapat digunakan untuk mengukur secara real time secara langsung. Selain itu, kedua alat ukur tersebut memiliki unsur subjektivitas yang tinggi, yang dapat mempengaruhi output nilai CFFF.
+Oleh karena itu, alat yang dikembangkan bertujuan untuk mengakomodasi kebutuhan, kemampuan dan keterbatasan calon pengguna alat, serta mengisi gap yang tersedia dari alat ukur eksisting. Kriteria alat ukur rancangan yang hendak dipernuhi antara lain: (1) Memiliki disain umpan balik yang dapat menampilkan kondisi pengukuran secara realtime dalam bentuk digital. (2) Terdapat penanda untuk memberikan input di setiap perubahan frekuensi. (3) Dapat berdiri sendiri (stand alone), memiliki ukuran dimensi yang kecil dan ringan, sehingga mudah untuk dipindahkan dan digunakan dimanapun, (4) Memiliki termination rule yang otomatis, seperti terjadi dua kesalahan beruntun. (5) Terdapat lebih dari satu lampu indikator yang digunakan untuk meminimasi aspek subjektivitas pengguna. (6) Posisi lampu indikator pada saat pengukuran yang relatif stabil.
+Dalam penelitian ini, ujicoba alat dilakukan dengan menggunakan eksperimen di laboratorium dan studi di lapangan. Pengambilan data di laboratorium bertujuan untuk mengetahui signifikansi pengaruh aktivitas terhadap nilai CFFF, dengan aktivitas kelelahan yang hendak diukur adalah dominasi kelelahan mental, dengan kegiatan membaca dan berhitung. Pengambilan data di lapangan bertujuan untuk melihat pemanfaatan alat ukur di lapangan dan mengambil data kelelahan dalam kondisi yang lebih real. Kondisi natural responden pada saat bekerja dapat diperoleh, suatu hal yang tidak dapat diperoleh pada saat melakukan eksperimen di laboratorium.
+Dari hasil pengukuran, diperoleh bahwa alat ukur kelelahan usulan sensitif untuk mengukur kelelahan, ditandai dengan melihat adanya penurunan nilai CFFF. Nilai delta CFFF diperoleh dengan cara menghitung selisih dari nilai CFFF partisipan sebelum beraktivitas dengan nilai CFFF reponden setelah beraktivitas. Menurut Kroemer dan Gran-djean , adanya penurunan nilai CFFF sebesar 0,5-6 Hz mengindikasikan adanya kelelahan yang dialami selama beraktivitas. Penurunan nilai CFFF yang cukup besar, dapat disebabkan oleh tingkat kelelahan (mental) yang dialami cukup tinggi. Selain itu, pekerjaan yang repetitif dan kondisi yang monoton, juga dapat mempengaruhi penurunan nilai flicker. Sementara, tidak adanya penurunan nilai CFFF mengindikasikan bahwa aktivitas yang dilakukan hanya membutuhkan usaha mental ting-kat rendah hingga sedang (Kroemer dan Grandjean ).
+Berdasarkan hasil pengujian, baik pengujian eks-perimen laboratorium maupun pengujian di lapang-an kepada pengemudi bis malam, diperoleh hasil nilai delta CFFF yang positif. Nilai delta CFFF positif pada eksperimen untuk aktivitas critical reading sebesar 4,8 Hz dan aktivitas aritmatika kompleks: 5,3 Hz. Penurunan nilai CFFF ini masih berada pada batas penurunan nilai CFFF menurut Kroemer dan Grandjean  sebesar 0,5-6 Hz. Hal ini mengindikasikan bahwa aktivitas yang dilakukan memberikan dampak kelelahan normal yang masih dapat ditoleransi selama beraktivitas. Sementara hasil pengujian di lapangan pada pekerjaan supir bis malam memiliki nilai rentang CFFF sebelum berangkat (sebagai baseline) adalah 18-42 Hz. Sementara nilai CFFF pada kondisi setelah beraktivitas berada pada rentang 10-35 Hz, dengan nilai rataan delta CFFF yaitu sebesar 8,97 Hz, indikasi kelelahan yang tinggi. Hal-hal yang dapat menimbulkan kelelahan dalam aktivitas ini adalah kondisi kerja (seperti kursi pengemudi) yang masih kurang nyaman, kondisi jalan raya selama perjalanan, lama waktu mengemudi dan adanya ke-harusan untuk bekerja di malam hari yang dapat mempengaruhi circadian rhythym. Penelitian sebelumnya oleh Sang dan Li  juga menunjukkan adanya penurunan nilai flicker frequency yang signifikan pada supir bis, mendukung hasil penelitian yang disajikan pada paper ini.
+Perlu dicatat bahwa paper ini juga merekomendasi-kan suatu kerangka tahapan-tahapan perancangan produk yang dikembangkan dari model system life cycle Chapanis  dan model siklus pengembangan produk dari Ulrich dan Eppinger . Saat ini, tahap-an metode perancangan produk terkesan kurang sistematis dan tidak dilandasi oleh referensi ilmiah yang memadai. Kelebihan kerangka yang diusulkan adalah berbasiskan karakteristik ergonomis pengguna (human factors approach), sehingga hasil rancangan dapat dipastikan lebih ergonomis dan memuaskan pengguna. Kerangka ini dapat diguna-kan untuk tahapan-tahapan perancangan produk yang lain.
+Simpulan
+Penelitian ini telah menghasilkan suatu produk usulan untuk pengukuran alat ukur kelelahan berbasis uji flicker. Metode pengembangan alat ukur yang diusulkan berangkat dari kerangka usulan konsep perancangan berbasis human faktor dengan siklus meliputi evaluasi kondisi saat ini, rancangan konsep operasional, identifikasi kebutuhan pengguna, penentuan kriteria kinerja, penentuan kebutuhan sistem, perancangan prototipe, uji usabilitas dan uji akhir produk.
+Hasil pengukuran pada studi laboratorium menunjukkan rentang pengukuran Critical Flicker Fusion Frequency (CFFF) pada 14-40 HZ, dengan rataan penurunan 5,3 Hz untuk aktivitas aritmatika kom-pleks dan 4,8 Hz untuk aktivitas critical reading. Pengukuran pada pengemudi bis malam menunjukkan rentang nilai CFFF adalah 18-40 Hz dengan rataan delta CFFF sebesar 8,97 Hz. Hasil pengujian statistik mengungkapkan bahwa kondisi baseline (sebelum beraktivitas) dan kondisi setelah beraktivitas.
+Hasil pengujian produk menunjukkan bahwa hasil produk rancangan sensitif terhadap kelelahan yang ditandai dengan perubahan nilai CFFF secara konsisten. Produk juga dianggap ergonomis, yang menjadi bukti bahwa tahapan perancangan produk yang dilakukan sudah sistematis menjawab kebutuhan pengguna. Alat ukur kelelahan usulan ini diharapkan kedepannya dapat dimanfaatkan oleh industri untuk kegiatan pengukuran dan monitoring kelelahan secara kontinu, sehingga dapat mencegah terjadinya kecelakaan kerja sedini mungkin.

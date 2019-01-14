@@ -1,0 +1,152 @@
+Smartphone merupakan alat komunikasi dengan kemampuan canggih yang
+mampu mengakses teknologi dan informasi, dan mampu mengolahnya menjadi
+fitur atau aplikasi baru. Pengguna biasanya kesulitan memilih smartphone yang
+ingin dibeli karena banyaknya jenis smartphone, fitur, dan harga. Sehingga
+dibutuhkan sistem pendukung keputusan yang dapat membantu pengguna
+menentukan smartphone sesuai alternatif dan kriteria yang diinginkan. Dalam
+penelitian ini, metode yang digunakan adalah Analitycal Hierarchy Process
+(AHP) dan Technique for Order Preference by Similarity to Ideal Solution
+(TOPSIS), dimana metode AHP digunakan untuk mencari alternatif terbaik
+berdasarkan kriteria yang ditentukan dan metode TOPSIS digunakan untuk
+memilih smartphone berdasarkan konsep bahwa alternatif terbaik tidak hanya
+memiliki jarak terpendek dari solusi ideal positif tetapi juga memiliki jarak terjauh
+dari solusi ideal negatif. Kedua metode ini digunakan karena mampu memilih
+alternatif terbaik sehingga menghasilkan keputusan yang optimal sesuai dengan
+spesifikasi dan dana yang dimiliki pengguna. Dari penelitian yang telah
+dilakukan, pada pengujian kepuasan pengguna saat menggunakan sistem
+pendukung keputusan pemilihan smartphone diperoleh nilai 80.25% dimana
+kepuasan pengguna berada dalam kategori Baik.
+Kata Kunci: Sistem Pendukung Keputusan, AHP, TOPSIS, Smartphone
+
+BAB I
+PENDAHULUAN
+1.1 Latar Belakang
+Dalam era teknologi yang sudah berkembang dengan sangat pesat dan semakin
+modern, terutama dalam bidang Teknologi Informasi dan Komunikasi, handphone
+bukan lagi menjadi barang mewah, namun sudah menjadi kebutuhan setiap
+individu untuk menjadikannya alat komunikasi praktis yang dapat digunakan
+dimanapun dan kapanpun. Dengan semakin banyaknya penemuan baru dalam
+fitur-fitur handphone, saat ini handphone tidak hanya berfungsi sebagai alat
+komunikasi saja, namun sudah mampu menjadi alat yang dapat mengakses
+teknologi dan informasi, bahkan dapat mengolahnya menjadi fitur atau aplikasi
+yang baru. Karena semakin tingginya kemampuan yang dapat dilakukan
+handphone tersebut, maka muncul sebuah konsep telepon seluler pintar atau
+Smartphone.
+
+Smartphone diperkenalkan pertama kali sekitar tahun 1992 dan semakin populer
+di negara-negara maju sejak tahun 2000. Di Indonesia, smartphone mulai populer
+pada tahun 2009 dan penjualannya semakin meningkat dari tahun ke tahun
+(Hilmansyah, 2013). Setiap tahunnya, jumlah penggunaan smartphone terus
+meningkat, terutama smartphone dengan OS Android. Pada Gambar 1.1 berdasarkan analisis dan survei oleh International Data Coorporation (IDC),
+dapat dilihat persentase penjualan smartphone dengan berbagai OS di Indonesia
+dari tahun 2011 quarter 2 sampai 2014 quarter 2.
+
+Gambar 1.1 Persentase Sistem Operasi Perangkat Mobile 2011Q2-2014Q2 di
+Indonesia (Mukhlis, 2014)
+
+Persaingan yang semakin ketat dan kebutuhan masyarakat akan teknologi semakin
+tinggi, maka para vendor smartphone mulai mengeluarkan smartphone dengan
+sistem operasi, tipe, perangkat keras, jaringan, serta fitur-fitur yang canggih, dan
+lebih menarik dengan harga yang semakin terjangkau. Karena hal tersebut,
+konsumen yang hendak membeli smartphone menjadi kebingungan memilih
+smartphone mana yang terbaik diantara smartphone lainnya yang juga memiliki
+fitur-fitur yang tidak berbeda jauh tingkat kualitasnya.
+
+Persentase Sistem Operasi Perangkat Mobile
+2011 Quarter 2-2014 Quarter 2
+
+Saat pembeli melakukan perbandingan kualitas dua sampai tiga smartphone
+mungkin dirasa masih mudah untuk mengetahui smartphone mana yang memiliki
+kualitas terbaik, namun saat membandingkan lebih dari tiga smartphone, pembeli
+akan kesulitan karena harus memeriksa satu persatu spesifikasi smartphone
+berdasarkan spesifikasi yang paling diprioritaskan oleh pembeli tersebut. Tak
+heran jika banyak konsumen yang pada akhirnya menyesal telah memilih
+smartphone yang kurang sesuai dengan kebutuhannya dikarenakan kemajemukan
+tipe, harga, dan spesifikasinya.
+
+Oleh karena itu, untuk membantu masyarakat dalam mengambil keputusan dalam
+memilih smartphone mana yang terbaik sesuai tipe, spesifikasi, dan daya belinya,
+maka diperlukan suatu sistem pendukung keputusan yang mampu memberikan
+solusi terbaik mengenai smartphone apa yang sebaiknya dipilih berdasarkan
+kecocokan kriteria-kriteria yang disediakan sistem dengan pengguna.
+Beberapa penelitian terdahulu dengan mengadopsi metode AHP dan TOPSIS
+telah dilakukan. Penelitian oleh Purba (2015), yaitu mengenai Sistem Pendukung
+Keputusan Pemilihan Smartphone dengan metode Analitycal Hierarchy Process
+(AHP) yang berfungsi untuk memenuhi informasi dan laporan yang dibutuhkan
+oleh konsumen yang ingin membeli smartphone atau sebagai pembanding untuk
+memilih smartphone sesuai keinginan konsumen, dimana dalam melakukan
+perbandingannya digunakan empat kriteria, yaitu kecanggihan sistem, kecepatan
+akses data, fitur pedukung yang lengkap, dan ketahanan baterai yang prima.
+Penelitian oleh Kurniasih (2013), yaitu Sistem Pendukung Keputusan Pemilihan
+
+Laptop dengan metode Technique for Order Preference by Similarity to Ideal
+Solution (TOPSIS) dimana sistem yang dibangun dapat memilih alternatif laptop
+yang terbaik berdasarkan kriteria yang ditentukan. Hasil dari sistem tersebut
+adalah pengurutan nilai alternatif laptop dari yang tertinggi hingga yang terendah.
+Pada penelitian Purba (2015) metode sistem pendukung keputusan pemilihan
+smartphone menggunakan metode AHP dengan menerapkan empat kriteria
+sebagai pembanding. Pada penelitian Kurniasih (2013) sistem pendukung
+keputusannya menggunakan metode TOPSIS yang mampu memilih alternatif
+terbaik dari alternatif laptop lainnya. Oleh karena itu, pada penelitian ini akan
+menggabungkan kedua buah metode tersebut, yaitu metode Analitycal Hierarchy
+Process (AHP) dan metode Technique for Order Preference by Similarity to Ideal
+Solution (TOPSIS) untuk diterapkan dalam sistem pendukung pemilihan
+smartphone. Metode AHP digunakan untuk membandingkan setiap kriteria
+smartphone sehingga diperoleh bobot nilai dari masing-masing kriteria. Metode
+TOPSIS digunakan untuk mencari alternatif solusi yang terbaik dimana alternatif
+solusinya tidak hanya memiliki jarak terpendek dari solusi ideal positif, tetapi juga
+memiliki jarak terpanjang dari solusi ideal negatif, sehingga dalam hal ini
+nantinya akan memberikan solusi pemilihan smartphone sesuai dengan harapan
+pengguna.
+
+1.2 Rumusan Masalah
+Berdasarkan uraian permasalahan yang dijelaskan di latar belakang, maka
+rumusan masalah penelitian ini yaitu bagaimana membangun suatu aplikasi sistem pendukung keputusan pemilihan smartphone berbasis web dengan menerapkan
+metode Analitycal Hierarchy Process (AHP) dan Technique for Order Preference
+by Similarity to Ideal Solution (TOPSIS).
+
+1.3 Batasan Masalah
+Adapun batasan masalah dalam pembuatan sistem pendukung keputusan
+pemilihan smartphone ini adalah sebagai berikut:
+1. Metode yang digunakan adalah metode Analitycal Hierarchy Process
+(AHP) dan Technique for Order Preference by Similarity to Ideal Solution
+(TOPSIS).
+2. Pemilihan kriteria smartphone yang digunakan meliputi merek, harga,
+sistem operasi, jaringan, kamera depan dan belakang, baterai, layar,
+memori, processor, dan RAM.
+3. Jumlah smartphone yang dapat dibandingkan adalah 2 sampai 11
+smartphone.
+4. Output yang dihasilkan sistem berupa smartphone terpilih dengan bobot
+nilai tertinggi, dengan menampilkan merek dan spesifikasinya, serta
+menampilkan urutan ranking smartphone yang menjadi alternatif pilihan
+pengguna.
+
+1.4 Tujuan
+Tujuan yang ingin dicapai dalam pembuatan sistem pendukung keputusan
+pemilihan smartphone ini adalah:
+
+1. Membangun sebuah sistem pendukung keputusan berbasis web yang dapat
+membantu pengguna memilih smartphone, sehingga pengguna dapat
+mengetahui smartphone mana yang terbaik.
+2. Mengimplementasikan metode Analitycal Hierarchy Process (AHP) dan
+Technique for Order Preference by Similarity to Ideal Solution (TOPSIS)
+dalam perhitungan untuk menentukan alternatif terbaik pemilihan
+smartphone.
+
+1.5 Manfaat
+Manfaat dari pembuatan sistem pendukung keputusan pemilihan smartphone ini
+adalah:
+1. Pembeli smartphone akan memperoleh kemudahan dalam menentukan
+smartphone yang seharusnya dipilih berdasarkan keinginan, kebutuhan,
+dan anggaran yang dimilikinya, sehingga pengguna mendapatkan
+spesifikasi terbaik dan tepat sesuai dengan kriteria dan alternatif yang
+dipilih.
+2. Penjual smartphone akan memperoleh kemudahan dalam mencari tahu
+informasi smartphone mana yang lebih unggul dan diminati konsumen.
+Sehingga penjual dapat mempertimbangkan smartphone jenis apa yang
+seharusnya ditambah dan mana yang harus dikurangi stok barangnya.
+3. Vendor pengembang smartphone akan memperoleh informasi apakah
+produknya memiliki spesifikasi lebih unggul dibanding vendor
+pengembang smartphone lain, sehingga untuk pengembangan produk
+selanjutnya, para vendor pengembang smartphone dapat memberikan yang
+lebih baik dan lebih inovatif agar produknya semakin diminati di pasaran.

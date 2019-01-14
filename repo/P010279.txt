@@ -1,0 +1,417 @@
+﻿
+Model Persediaan pada Produk yang Mendekati Masa 
+
+Kadaluwarsa: Mempertimbangkan Diskon Penjualan dan Retur 
+
+
+ 
+ 
+
+ 
+
+ 
+
+Pendahuluan 
+
+ 
+Persediaan merupakan sumber daya yang menganggur, sehingga keberadaannya dapat dipandang 
+sebagai pemborosan dan ini berarti beban bagi 
+suatu unit usaha dalam bentuk biaya yang lebih 
+tinggi (Bahagia  ). Salah satu produk yang sering 
+menyebabkan pemborosan dalam persediaan adalah 
+produk yang memiliki sifat kadaluwarsa. Oleh 
+karena itu, keberadaannya perlu diminimasi. 
+ 
+Mirota Kampus Swalayan adalah sebuah retailer 
+yang menjual berbagai macam produk kebutuhan 
+sehari-hari. Salah satu bagian yang terpenting di 
+swalayan ini adalah bagian produk makanan dan 
+minuman. Sebagai pengelola, pihak Mirota Kampus 
+menaruh perhatian khusus dan pengawasan yang 
+baik pada bagian ini karena menyangkut masa 
+kadaluwarsa produk. Kualitas, kesehatan, dan 
+keselamatan konsumen menjadi dasar pelayanan 
+yang sangat penting untuk diperhatikan bagi pihak 
+pengelola dalam menyediakan produk kepada konsumen. Jika hal ini diabaikan, maka sangat membahayakan konsumen dan berakibat kerugian bagi 
+pengelola. 
+ 
+Dalam menjalankan usahanya, Mirota Kampus 
+Swalayan menjalin kerja sama dengan beberapa 
+pemasok. Bentuk kontrak kerja sama yang disepakati dengan pemasok pun bermacam-macam, diantaranya adalah pemasok mengijinkan pihak 
+Mirota Mirota Kampus untuk melakukan retur pada produk 
+yang mendekati tanggal kadaluwarsa. 
+ 
+ 
+
+ 
+
+
+Produk yang diretur akan diganti/dikirim pada 
+periode pemesanan berikutnya. Selain itu, untuk 
+meningkatkan penjualan dan menghindari kerugian 
+yang lebih besar lagi, mereka bersepakat menetapkan suatu strategi dengan cara memberikan diskon 
+kepada konsumen terhadap produk yang mendekati 
+tanggal kadaluwarsa dengan tingkatan-tingkatan 
+tertentu. Semakin mendekati tanggal kadaluwarsa 
+maka diskon per unit yang diberikan kepada 
+konsumen akan semakin besar. 
+ 
+Semakin banyak produk yang disediakan, maka 
+akan semakin banyak modal yang tertanam yang 
+tidak dapat dipergunakan untuk keperluan lain 
+yang lebih menguntungkan dan semakin besar pula 
+resiko produk yang kadaluwarsa. Semakin sedikit 
+produk yang tersedia, maka kemungkinan terjadinya kekurangan persediaan akan semakin besar. 
+Akibatnya semakin besar pula terjadinya kehilangan kesempatan untuk mendapatkan keuntungan. 
+Oleh karenanya pengendalian persediaan terhadap 
+produk yang memiliki masa kadaluwarsa ini sangat 
+perlu dilakukan untuk menghindari kerugiankerugian yang timbul yang lebih besar lagi akibat 
+kadaluwarsanya produk. 
+ 
+Penelitian mengenai model pengendalian persediaan untuk produk kadaluwarsa secara intensif telah 
+banyak dilakukan oleh beberapa peneliti. Indrianti, 
+et al.   telah melakukan penelitian tentang masalah persediaan bahan baku yang mempertimbangkan faktor kadaluwarsa. Model ini mempertimbangkan bahan baku yang telah kedaluwarsa masih 
+bisa dijual dengan harga yang lebih rendah. Nafisah, et al.   mengembangkan model persediaan 
+deterministik untuk produk yang memiliki masa 
+kadaluwarsa dan produk kadaluwarsa tidak dapat 
+dijual kembali tetapi produk dapat dikembalikan ke 
+pemasok (diretur) sebelum tanggal kadaluwarsa 
+tiba. Produk yang diretur akan diganti/dikirim pada 
+periode pemesanan berikutnya. Kekurangan persediaan diperbolehkan dan diatasi dengan backorder, 
+dimana jumlah yang diatasi secara backorder tersebut sama dengan jumlah produk yang kadaluwarsa. Adapun dalam Singh et al.   telah dikembangkan model persediaan untuk produk kadaluwarsa dimana laju permintaannya konstan tetapi 
+berbeda-beda untuk selang waktu tertentu. 
+Karmakar et al.   telah mengkaji beberapa model 
+persediaan yang mempertimbangkan adanya kekurangan persediaan akibat produk telah mengalami 
+kadaluwarsa dengan pola permintaan yang berbedabeda. 
+ 
+Penelitian tentang persediaan dengan mempertimbangkan faktor kadaluwarsa produk dengan mempertimbangkan diskon yang diberikan oleh pemasok 
+juga telah dilakukan oleh Prasetyo, et al. [6,7]. 
+Dimana dalam kedua penelitian tersebut kasus 
+yang diangkat masih single item. Limansyah et al. 
+  mengembangkan model persediaan untuk kasus 
+multi item dengan pertimbangan prosentase kadaluwarsa dan unit diskon. 
+ 
+Jaya, et al.   menjelaskan bahwa banyak penelitian berikutnya berkembang dengan memperhatikan 
+diskon harga, hal ini disebabkan oleh perlunya 
+pemberian diskon harga untuk meningkatkan 
+penjualan bagi barang yang akan kadaluwarsa. 
+Bramorski   dalam observasinya menemukan 
+bahwa 98% respondennya selalu memperhatikan 
+waktu kadaluwarsa. Pada penelitian tersebut juga 
+menyebutkan bahwa dengan meningkatkan nilai 
+diskon pada produk yang mendekati tanggal 
+kadaluwarsa, responden akan memiki keinginan yang lebih besar untuk membeli produkproduk tersebut. Oleh sebab itu faktor diskon sangat 
+perlu dipertimbangkan dalam penyusunan satu 
+kebijakan. 
+ 
+Pada penelitian-penelitian terdahulu, umumnya 
+diskon yang dipertimbangkan adalah diskon yang 
+diberikan oleh pihak pemasok kepada pengecer. 
+Padahal pada kenyataannya banyak juga pengecer 
+yang memberlakukan diskon terhadap produk yang 
+dijualnya yang mendekati kadaluwarsa. Widyadana 
+et al.   telah melakukan penelitian mengenai 
+model persediaan untuk produk yang memiliki 
+masa kadaluwarsa dengan menerapkan strategi 
+penurunan harga (markdown policy) untuk meningkatkan tingkat permintaan, dimana penurunan 
+harga setiap periodenya berbeda-beda (price dependent demand). 
+ 
+Berdasarkan fenomena permasalahan yang dihadapi Mirota Kampus tersebut, maka pada 
+penelitian ini akan dikembangkan model persediaan 
+
+yang mempertimbangkan faktor pemberian diskon 
+penjualan kepada konsumen atas produk yang mendekati kadaluwarsa dengan tingkatan-tingkatan 
+tertentu. Semakin mendekati tanggal kadaluwarsa maka diskon per unit yang diberikan akan 
+semakin besar, sehingga dengan adanya diskon 
+tersebut permintaannya menjadi berbeda-beda. 
+Selain itu dipertimbangkan pula adanya faktor 
+pengembalian produk. Adanya diskon penjualan per 
+unit ini akan menyebabkan munculnya biaya 
+expired treatment sebagai konsekuensi biaya yang 
+muncul akibat hilangnya sebagian margin keuntungan dari adanya diskon yang diberlakukan. 
+ 
+Susunan pada makalah ini terbagi dalam empat 
+bagian. Bagian pertama pendahuluan, bagian kedua 
+adalah pengembangan model, bagian ketiga contoh 
+numerik dan terakhir adalah kesimpulan dari hasil 
+penelitian yang telah dilakukan. 
+ 
+
+Metode Penelitian 
+
+ 
+Notasi parameter yang digunakan dalam model ini 
+sebagai berikut: 
+TC 
+PC 
+OC 
+HC 
+EC 
+SC 
+
+: total biaya persediaan per tahun 
+: total biaya pembelian per tahun 
+: total biaya pesan per tahun 
+: total biaya simpan per tahun 
+: total biaya kadaluwarsa per tahun 
+: total biaya kekurangan persediaan per 
+
+tahun 
+
+: total biaya retur per tahun 
+
+RC 
+ETC : total expired treatment per tahun 
+ 
+
+: waktu ketika diskon penjualan tahap pertama dimulai 
+
+: waktu ketika diskon penjualan tahap kedua 
+
+dimulai 
+
+: waktu ketika diskon penjualan tahap ketiga 
+
+dimulai 
+
+: panjang siklus dari produk datang hingga 
+
+waktu kadaluwarsa 
+
+: laju kadaluwarsa,   
+: harga beli per unit 
+: biaya simpan 
+: biaya pesan per sekali pesan 
+: biaya backorder 
+: biaya retur per sekali retur 
+: harga jual per unit 
+: biaya retur per unit 
+: rate of interest 
+: profit margin 
+: besar diskon pada tahap perlakuan per
+tama, persen (%) 
+
+Y 
+
+: besar diskon pada tahap perlakuan kedua, 
+
+persen (%) 
+
+Z 
+
+: besar diskon pada tahap perlakuan ketiga, 
+
+persen (%) 
+
+x 
+
+: persentase profit margin yang hilang pada 
+
+tahap pertama perlakuan diskon 
+
+ 64 
+
+
+
+
+y 
+
+z 
+
+: persentase profit margin yang hilang pada 
+
+tahap kedua perlakuan diskon 
+
+: persentase profit margin yang hilang pada 
+
+tahap ketiga perlakuan diskon 
+
+  : profit margin yang hilang per unit setelah 
+
+dikenakan diskon sebesar X % 
+
+  : profit margin yang hilang per unit setelah 
+
+dikenakan diskon sebesar Y % 
+
+  : profit margin yang hilang per unit setelah 
+
+dikenakan diskon sebesar Z % 
+
+  : biaya expired treatment setelah dikenakan 
+
+diskon sebesar X % 
+
+  : biaya expired treatment setelah dikenakan 
+
+diskon sebesar Y % 
+
+  : biaya expired treatment setelah dikenakan 
+
+diskon sebesar Z % 
+
+: saat ketika retur dilakukan 
+: kuantitas pemesanan 
+: kuantitas produk yang di retur 
+: waktu retur optimal 
+
+ 
+Adapun notasi variabel yang digunakan dalam 
+model ini sebagai berikut: 
+ ( ) : laju permintaan 
+ ( ) : level persediaan pada saat   
+ 
+ 
+ 
+ 
+ 
+  : kuantitas pemesanan optimal 
+ 
+Pengembangan Model 
+ 
+Penelitian ini merupakan pengembangan model persediaan yang berbasis studi kasus di Mirota 
+Kampus Swalayan. Model dasar yang digunakan 
+dalam pengembangan model di sini adalah modelnya Nafisah et al  . Dimana dalam model Nafisah 
+et al.   telah dikembangkan model persediaan 
+deterministik, single item yang mempertimbangkan 
+adanya faktor kadaluwarsa dan pengembalian produk. Adapun pada penelitian ini akan dikembang
+kan model persediaan deterministik yang mempertimbangkan kadaluwarsa dan retur, dimana laju 
+permintaannya konstan tetapi berbeda-beda untuk 
+selang waktu tertentu akibat dari adanya diskon 
+penjualan secara bertahap sebelum produk mengalami kadaluwarsa. Model yang diusulkan ini diharapkan dapat menghasilkan kebijakan pengendalian persediaan yang tepat dalam menentukan 
+berapa kuantitas pemesanan produk yang optimal, 
+berapa kuantitas produk yang mendekati kadaluwarsa yang dapat di retur dan kapan retur dilakukan agar dapat meminimasi total biaya persediaan. 
+ 
+Asumsi dasar yang digunakan dalam penelitian ini 
+adalah bahwa laju permintaan, D(t), konstan tetapi 
+berbeda-beda yang merupakan fungsi terhadap 
+waktu, dimana: 
+
+ ( ) 
+
+         
+         
+         
+         
+         
+
+ 
+ 
+
+ 
+ 
+{
+
+  
+
+(1) 
+
+ 
+Berdasarkan Gambar 1 tersebut, terlihat bahwa 
+level persediaan pada model yang direpresentasikan 
+merupakan trapezoidal type demand rate. 
+ 
+Pada saat t = 0, pesanan produk datang sebesar Q 
+sehingga level persediaan mencapai titik maksimum. Kemudian dengan berjalannya waktu, maka 
+level persediaan mulai berkurang dengan adanya 
+permintaan yang datang, laju permintaan tersebut 
+konstan tetapi berbeda-beda untuk setiap periodenya 
+yang mengikuti persamaan (1). Perbedaan laju permintaan tersebut disebabkan karena adanya diskon 
+penjualan secara bertahap yang diberikan perusahaan kepada konsumen untuk meningkatkan tingkat penjualan produk yang mendekati kadaluwarsa. 
+
+Gambar 1. Representasi level persediaan selama satu siklus T 
+
+
+Pada saat  terjadi retur untuk semua produk 
+yang mendekati kadaluwarsa. Pada saat retur 
+dilakukan, level persediaan mencapai titik nol atau 
+ ( ) . Stockout terjadi selama interval ,  - 
+dan diatasi full backorder karena produk yang 
+diretur seluruhnya akan dikirim kembali oleh 
+pemasok secara bersamaan dengan pengiriman 
+pesanan perusahaan pada periode berikutnya. 
+ 
+Biaya kekurangan persediaan (stockout) adalah 
+biaya yang harus dikeluarkan karena terjadinya 
+kekurangan produk akibat dari adanya produk yang 
+di retur. Diasumsikan konsumen loyal, sehingga 
+konsumen mau menunggu untuk dipenuhi permintaannya pada periode yang akan datang (stockout diatasi secara backorder). 
+ 
+Biaya stockout per tahun merupakan perkalian 
+antara biaya backorder /unit/tahun dengan rata-rata 
+jumlah yang diretur selama setahun. 
+ 
+
+ 
+ 
+
+ 
+Biaya Expired Treatment per Tahun 
+ 
+Biaya expired treatment adalah biaya yang hilang 
+akibat dari adanya perlakuan diskon secara bertahap terhadap seluruh produk yang mendekati 
+kadaluwarsa selama satu tahun. 
+ 
+Biaya expired treatment setahun merupakan perkalian antara rata-rata kuantitas yang dikenakan 
+diskon per siklus dengan hilangnya profit margin 
+setelah diberlakukan diskon dan jumlah siklus per 
+tahun. 
+ 
+Profit margin yang hilang per siklus = (profit 
+margin) x (persentase profit margin yang hilang 
+setelah didiskon). 
+ 
+Harga jual = harga beli + profit margin 
+   
+sehingga, profit margin: 
+   
+Asumsi: 
+Profit margin hilang pada diskon tahap pertama 
+perlakuan diskon setelah didiskon sebesar x % dari 
+profit margin pada harga normal 
+ 
+Profit margin hilang pada diskon tahap kedua 
+perlakuan diskon setelah didiskon sebesar y % dari 
+profit margin total pada harga normal 
+ 
+Profit margin hilang pada diskon tahap ketiga 
+perlakuan diskon setelah didiskon sebesar z % dari 
+profit margin total pada harga normal, maka profit 
+margin yang hilang per unit setelah diberlakukan 
+diskon berdasarkan perlakuan diskon yang digunakan yaitu: 
+
+               (24) 
+ 
+Simpulan 
+
+ 
+Pada makalah ini telah dikembangkan suatu model 
+persediaan untuk produk yang mendekati masa kadaluwarsa dengan mempertimbangkan diskon penjualan tiga tahap, dimana semakin mendekati tanggal kadaluwarsa diskon penjualan yang diberikan 
+akan semakin besar selain itu juga mempertimbangkan adanya retur. Adapun laju permintaan 
+yang dipertimbangkan berupa trapezoidal type demand rate. Melalui model ini pihak ritel dapat 
+melihat posisi persediaan ketika diskon diberikan 
+pada setiap tahapan diskon, setelah periode diskon 
+terlebih dahulu ditetapkan. Selain itu, pihak ritel 
+juga dapat menentukan kapan sebaiknya retur 
+dilakukan, berapa jumlah produk yang diretur, dan 
+berapa jumlah pemesanan yang optimal agar total 
+biaya persediaan per periode yang ditimbulkan 
+minimum. Namun demikian, pihak ritel harus cermat dalam mengidentifikasi laju deteriorasi produk 
+( ) dan rentang waktu mulai produk datang hingga 
+produk mengalami kadaluwarsa (T), karena performansi model yang dihasilkan sangat sensitif 
+terhadap nilai-nilai tersebut. 
+ 
+Model ini merupakan model sederhana dari kondisi 
+riil di Mirota Kampus Swalayan yang masih menggunakan banyak asumsi. Sehingga dalam model ini 
+masih banyak kelemahannya. Pengembangan 
+untuk penelitian lanjutan dapat mempertimbangkan beberapa aspek, diantaranya adalah bahwa laju 
+permintaan meningkat pada saat diskon diberikan 
+dan merupakan fungsi harga. Selain itu, perlu dipertimbangkan pula untuk kasus multi item dengan 
+masa kadaluwarsa yang berbeda-beda. Model juga 
+akan semakin dinamis ketika periode diskon, yaitu 
+kapan diskon dimulai dan berapa lama interval 
+diskon diberikan, serta besarnya diskon di setiap 
+tahap dijadikan sebagai variabel keputusan. 
+
+ 
+

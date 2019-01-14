@@ -1,0 +1,376 @@
+﻿PERBAIKAN MAINTENANCE UNTUK TARGET AVAILABILITY PENYALURAN GAS
+DENGAN PENDEKATAN TOTAL PRODUCTIVE MAINTENANCE DI
+PT PERTAMINA GAS AREA JAWA BAGIAN BARAT
+
+
+Abstrak: PT Pertamina Gas merupakan perusahaan yang bergerak pada sektor midstream dan
+downstream pada industri gas di indonesia yang tidak terlepas dari masalah yang berhubungan
+dengan tingkat availability penyaluran gas yang sangat menentukan kualitas dan produktivitas
+perusahaan dalam menyalurkan gas hingga tiba di end user. Adapun maintenance pada mesin
+turbin sering sekali dilakukan secara reaktif dimana mesin diperbaiki jika terjadi kerusakan
+(breakdown maintenance). Hal ini dapat dilihat pada tingkat availability mesin turbin yang
+sangat fluktuatif dan mengalami penurunan pada bulan maret 2013 serta desember 2013. Oleh
+karena itu diperlukan perbaikan maintenance dengan pendekatan Total Productive Maintenance
+(TPM) agar availability penyaluran gas mencapai target. TPM merupakan pendekatan inovatif
+terhadap pemeliharaan yang mengoptimalkan equipment effectiveness, mengeliminasi
+breakdown, dan mendorong tercapainya autonomous maintenance. Adapun berdasarkan hasil
+analisa data primer dan sekunder didapat bahwa program planned maintenance (salah satu pilar
+TPM) merupakan penyebab utama menurunnya availability equipment di PT Pertamina Gas
+Area JBB dikarenakan masalah spare part. Berdasarkan hal ini, agar availability penyaluran gas
+mencapai target, perusahaan perlu menerapkan program Total Productive Maintenance yang
+meliputi focused maintenance, autonomous maintenance dan program pemeliharaan terencana
+(planned maintenance).
+Kata kunci: availability, total productive maintenance, autonomous maintenance, focused
+maintenance, planned maintenance
+
+
+PENDAHULUAN
+PT Pertamina Gas merupakan perusahaan yang bergerak pada sektor midstream dan
+downstream pada industri gas di indonesia. Perusahaan ini merupakan anak perusahaan dari PT
+Pertamina (Persero) yang berperan dalam usaha komersial gas, transportasi gas, pemrosesan gas,
+distribusi gas dan bisnis lain yang berhubungan dengan natural gas dan turunannya. Kesempatan
+bisnis PT Pertamina Gas kedepan sangat terbuka luas dimana suplai gas sekarang ini menjadi
+terbatas. Menyadari akan hal itu, untuk mendukung bisnis kedepan yang semakin tumbuh. Harus
+didukung dengan sistem infrastruktur internal yang handal dan proses produksi yang efektif,
+dimana setiap bagian dari production life cycle harus terjamin dengan operasi yang efektif,
+handal dan efisien.
+Untuk menjamin proses produksi yang efektif, tidak terlepas dari adanya target
+pencapaian perusahaan dalam meningkatkan profit. Sebagaimana target pencapaian profit
+menjadi sasaran dalam peningkatan kinerja sering sekali pihak manajemen mengabaikan
+pentingnya mengeluarkan biaya untuk pemeliharaan peralatan dan mesin. Hal ini dikarenakan
+maintenance dianggap sebagai proses yang non value-added sehingga biaya maintenance sering
+sekali di kurangi untuk berhemat. Hal ini menyebabkan performa mesin menjadi menurun secara
+perlahan sehingga mesin kehilangan efektifitasnya. Padahal dengan meningkatnya performa
+mesin akan sangat menentukan kualitas dan produktivitas perusahaan dalam menyalurkan gas
+hingga tiba di end user. Selain itu, maintenance terhadap peralatan sering sekali dilakukan secara
+reaktif dimana mesin diperbaiki jika terjadi kerusakan (breakdown maintenance). Hal ini dapat
+dilihat pada tingkat availability mesin turbin yang sangat fluktuatif dan mengalami penurunan
+pada bulan maret 2013 serta desember 2013.
+Malik dan Hamsal (2013) mengatakan bahwa aktivitas pemeliharaan menjadi hal yang
+sangat prioritas, karena waktu yang hilang (loss time), kinerja dan kerugian produksi yang
+diakibatkan oleh kerusakan peralatan menjadi hal yang sangat ditakuti karena mengganggu
+jalannya produksi. Tsarouhas (2007) mengatakan bahwa dengan menurunnya downtime pada
+mesin/peralatan, dapat meningkatkan produktivitas.
+Berdasarkan hal ini, perusahaan perlu menerapkan manajemen pemeliharaan yang handal
+dengan pendekatan Total Productive Maintenance agar availability penyaluran gas mencapai
+target. Sebagaimana manajemen pemeliharaan khususnya mesin merupakan salah satu bagian
+yang kritikal untuk mendukung operasional dan produksi Pertamina Gas, maka dari itu perlu
+dilakukan penelitian mengenai Perbaikan Maintenance untuk target availability penyaluran gas
+dengan pendekatan Total Productive Maintenance di PT Pertamina Gas Area Jawa Bagian Barat.
+KAJIAN TEORI
+Menurut Kurniawan (2013), Total Productive Maintenance (TPM) merupakan suatu
+aktivitas pemeliharaan yang mengikutsertakan semua elemen dari perusahaan yang bertujuan
+untuk menciptakan suasana kritis (critical mass) dalam lingkungan industri guna mencapai zero
+breakdown, zero defect, zero accident. TPM adalah suatu metode yang bertujuan untuk
+memaksimalkan efisiensi penggunaan peralatan dan memantapkan sistem pemeliharaan
+preventif yang dirancang untuk keseluruhan peralatan dengan mengimplementasikan suatu
+aturan dan memberikan motivasi kepada seluruh bagian yang berada dalam suatu perusahaan
+tersebut, melalui peningkatan komponensipasi dari seluruh anggota yang terlibat mulai dari
+manajemen puncak sampai kepada level terendah. Selain itu, TPM bertujuan untuk menghindari
+perbaikan secara tiba-tiba dan meminimasi pemeliharaan yang tidak terjadwal. TPM merupakan
+suatu proses untuk memaksimalkan produktivitas penggunaan peralatan, melalui pengurangan
+down time dan perbaikan kualitas serta kapasitas. TPM mengedepankan proses perbaikan dengan mempertimbangkan keamanan, kualitas, pengiriman, biaya dan kreativitas yang melibatkan
+seluruh lini produksi. Mobley (2008), TPM memiliki tujuan antara lain untuk menurunkan
+variasi pada sistem produksi, meningkatkan produktivitas dengan mengeliminasi downtime yang
+tidak terjadwal serta pekerjaan rework yang berlebihan, menurunkan biaya pemeliharaan,
+menurunkan persediaan (inventory), meningkatkan keselamatan (safety), dan meningkatkan
+moral. Ben-Daya (2009), TPM merupakan pendekatan inovatif terhadap pemeliharaan yang
+mengoptimalkan equipment effectiveness, mengeliminasi breakdown, mendorong tercapainya
+autonomous maintenance oleh operator dalam aktivitas sehari-harinya dengan melibatkan
+seluruh pekerja yang ada. Tujuan dari TPM adalah untuk mengurangi 6 kerugian utama (Six Big
+Losses) antara lain : (1) Downtime Losses terdiri atas : a. Breakdown Losses/ Equipment
+Failures yaitu kerusakan mesin/ peralatan secara tiba-tiba atau kerusakan yang tidak diinginkan
+karena menyebabkan kerugian sehingga mesin tidak beroperasi menghasilkan output. Contoh
+losses ini antara lain unplanned maintenance, overheated bearing, motor failure, dsb; b. Setup &
+Adjustment Losses,yaitu kerugian karena pemasangan dan penyetelan. Contoh losses ini antara
+lain setup/ changeover, kekurangan material, penyesuaian yang bersifat major, warm up time,
+dsb. (2) Speed Losses terdiri atas : a. Idling and Minor Stoppage Losses, yaitu kerugian yang
+disebabkan oleh kejadian-kejadian seperti pemberhentian mesin sebentar, kemacetan mesin dan
+idle time dari mesin. Jika operator tidak dapat memperbaiki pemberhentian yang bersifat minor
+stoppage dalam waktu yang ditentukan maka kerugian ini dapat dianggap sebagai breakdown
+losses. Contoh losses ini antara lain minor adjusment, sensor blocked, cleaning/checking,
+component jam, dsb; b. Reduced Speed Losses, yaitu kerugian karena mesin tidak bekerja secara
+optimal (penurunan kecepatan operasi) terjadi jika kecepatan aktual operasi mesin/ peralatan
+lebih kecil dari kecepatan optimal mesin tersebut. Contoh losses ini antara lain penyetelan yang
+tidak sesuai, masalah alignment, dsb. (3) Defect Losses terdiri atas : a. Process Defect, yaitu
+kerugian yang disebabkan karena adanya produk cacat maupun karena kerja produk diproses
+ulang pada tahapan proses; b. Reduced Yield Losses yaitu kerugian yang disebabkan karena
+adanya produk cacat maupun karena kerja produk diproses ulang pada tahapan produksi.
+Inisiatif TPM yang diusulkan oleh Japan Institute of Plant Maintenance (JIPM)
+mengandung 8 pilar rencana implementasi yang menghasilkan peningkatan yang tinggi pada
+produktivitas tenaga kerja melalui program maintenance yang terkendali, penurunan biaya
+pemeliharaan, serta menurunnya waktu set up dan downtime. TPM memberi jalan agar
+perencanaan menjadi bermutu tinggi, mengorganisasi, pengawasan, dan pengendalian
+prakteknya melalui metodologi 8 pilar antara lain autonomous maintenance, focused
+improvement, planned maintenance, quality maintenance, education dan training, safety, health
+dan environment, office TPM serta development management dimana pondasi awal dalam
+menerapkan 8 pilar ini yaitu dengan menerapkan program 5S (Seiri, Seiton, Seiso, Sheiketsu,
+dan Shitsuke) yang ditunjukan pada Gambar 1.
+
+
+METODE
+Jenis penelitian yang digunakan adalah penelitian deskriptif dengan jenis data berupa
+data kualitatif dan kuantitatif. Penelitian ini menggambarkan fenomena target availability
+penyaluran gas tidak tercapai dan mencari solusi bagaimana maintenance yang ada dapat diimprove
+dengan menggunakan konsep Total Productive Maintenance.
+Pengumpulan Data. Teknik pengumpulan data sekunder yang dilakukan antara lain studi
+literatur, studi dokumentasi laporan harian kondisi operasi, laporan jam jalan turbin, laporan
+bulanan maintenance, dan laporan bulanan operasional penyaluran gas sedangkan untuk
+pengumpulan data primer yaitu dengan melakukan wawancara dengan kepala distrik di masingmasing
+Stasiun Kompresor Gas, melakukan diskusi dengan para pekerja di bagian operasi dan
+pemeliharaan terkait penyebab penurunan availability penyaluran gas dan menyebarkan
+kuesioner sebanyak 25 responden di bagian operasi dan pemeliharaan terkait penyebab
+penurunan availability penyaluran gas dengan pendekatan pilar-pilar TPM antara lain focused
+maintenance, autonomous maintenance, planned maintenance, 5S, maintenance prevention,
+serta education & training dimana menggunakan skala likert dengan lima pilihan skala untuk
+metode pengukurannya.
+Pengolahan Data. Teknik pengolahan data yang dilakukan didalam penelitian ini antara lain: (1)
+Menghitung availability penyaluran gas antara lain : a. Equipment Availability (%EA) yaitu
+faktor berbasis waktu yang mengukur kemampuan mesin dalam melakukan kinerja berdasarkan
+fungsinya. Formula yang digunakan untuk pengukuran rasio ini adalah : %EAmesin = {(Total
+Jam-(Schedule Down Timeequip+Unschedule Down Timeequip))/ Total
+Jam}*100%................................. (pers.1); b. Plant Availability (%PA) yaitu faktor berbasis
+waktu yang mengukur kemampuan stasiun penyalur gas dalam melakukan kinerja berdasarkan
+fungsinya. Formula yang digunakan untuk pengukuran rasio ini adalah: %PAofftaker = {(Total
+Jam-(Schedule Down Timeofftaker+Unschedule Down Timeofftaker))/Total
+Jam}*100%................................ (pers.2); (2) Melakukan analisa Focused Maintenance
+antara lain : a. Kerugian Kerusakan Mesin (Breakdown Loss) yaitu jenis kerugian yang
+disebabkan karena kerusakan mesin/peralatan secara tiba-tiba sehingga mesin tidak beroperasi
+menghasilkan output. Formula yang digunakan untuk pengukuran rasio ini adalah:
+r:... .......................... (pers.3); b. Kerugian
+Pemasangan dan Penyetelan Mesin (Setup & Adjustment Loss) yaitu jenis kerugian yang disebabkan karena pemasangan dan penyetelan mesin secara keseluruhan agar mesin dapat
+beroperasi menghasilkan output. Formula yang digunakan untuk pengukuran rasio ini adalah :
+r:.................. (pers.4); c.
+Kerugian Pemberhentian Mesin Sejenak (Idling & Minor Stoppage Loss), yaitu jenis kerugian
+yang disebabkan pemberhentian sebentar setelah itu mesin turbin dapat beroperasi kembali.
+Formula yang digunakan untuk pengukuran rasio ini adalah :
+r:... ............. (pers.5); (3)
+Melakukan analisa Planned Maintenance antara lain dengan menghitung persentase overleap
+schedule yaitu pengukuran jadwal realisasi pemeliharaan dibandingkan dengan jadwal rencana.
+r:... ......... (pers.6); (4)
+Melakukan analisa hasil kuesioner dengan langkah-langkah sebagai berikut : a. Merekapitulasi
+data hasil kuesioner berdasarkan pilihan angka skor likert; b. Menghitung persentase dari skor
+likert menggunakan formula sebagai berikut :
+r:... .................. (pers.7); c.
+Mentabulasikan persentase skor likert dengan menggunakan grafik spider chart dimana pilar
+TPM yang memiliki skor terkecil berada di urutan pertama. Setelah itu melakukan interpretasi
+kriteria skornya berdasarkan interval sebagai berikut : (1) Pilihan skor likert antara skor 1 dan 2
+memiliki interval antara 20% - 40% diinterpretasikan sebagai Very Weak; (2) Pilihan skor likert
+antara skor 2 dan 3 memiliki interval antara 40% - 60% diinterpretasikan sebagai Weak; (3)
+Pilihan skor likert antara skor 3 dan 4 memiliki interval antara 60% - 80% diinterpretasikan
+sebagai Need Improvements; (4) Pilihan skor likert antara skor 4 dan 5 memiliki interval antara
+80% - 100% diinterpretasikan sebagai Effective; (5) Melakukan analisa root cause (diagram
+sebab akibat), analisa ini digunakan untuk menemukan penyebab dari fenomena availability
+penyaluran gas tidak mencapai target.
+
+
+HASIL DAN PEMBAHASAN
+Equipment Availability. Berdasarkan Gambar 2 dan hasil diskusi didapat mesin turbin yang
+mengalami penurunan equipment availability adalah: (1) Mesin turbin B2CT-001B dikarenakan
+terjadi kerusakan exhaust bellow dan mengalami unschedule down time selama 454 jam. Mesin
+turbin ini tidak bisa segera diperbaiki karena menunggu pengadaan material exhaust bellows dan
+collector; (2) Mesin turbin B1CT-001A dikarenakan terjadi high vibration pada kompresor FWD
+sehingga unit kemudian di-overhaul secara tidak terencana. Hal ini dikarenakan program
+planned maintenance yang dijadwalkan di awal tahun tidak bisa dilakukan sesuai dengan
+rencana dikarenakan alokasi anggaran untuk program tersebut dialihkan untuk memperbaiki
+mesin turbin yang mengalami breakdown maintenance; (3) Mesin turbin B1CT-001D
+dikarenakan unit dilakukan overhaul sesuai jadwal pemeliharaan terencana; (4) Mesin turbin
+CCT-001A dikarenakan unit mengalami kerusakan pada air fin cooler dan mengalami
+unschedule down time selama 21028 jam. Mesin turbin ini tidak bisa segera diperbaiki karena
+menunggu pengadaan material air fin cooler; (5) Mesin turbin CCT-002B dikarenakan dilakukan
+pemindahan modul ZF 2084 ke engine lain dan mengalami unschedule down time selama 7696
+jam. Mesin turbin ini tidak bisa segera diperbaiki karena menunggu pengadaan material modul
+ZF 2084.
+Berdasarkan permasalahan diatas, kegiatan breakdown maintenance dapat dilakukan
+secara optimal jika proses pengadaan material tidak menghabiskan waktu lama. Selain itu, jika
+program planned maintenance dilakukan sesuai dengan rencana maka kejadian breakdown dapat
+diminimasi sehingga tingkat availability mesin turbin dapat meningkat.
+
+
+Plant Availability. Berdasarkan Gambar 3 dapat disimpulkan bahwa seluruh mesin turbin dapat
+menyalurkan gas ke konsumen pada periode Januari 2013 hingga Agustus 2014 dengan baik dan
+kontinu. Hal ini dikarenakan terdapat mesin turbin cadangan yang bisa dioperasikan ketika mesin
+turbin utama mengalami breakdown maintenance.
+
+
+Gambar 3. Hasil Persentase Rata-Rata Plant Availability Mesin Turbin PT Pertamina Gas Area
+JBB Januari 2013 s/d Agustus 2014
+Autonomous Maintenance. Dalam penelitian mengenai autonomous maintenance, ditemukan
+bahwa tugas dan tanggung jawab Pws. Ops Shift (Operator) lebih kearah pengoperasian dan
+pengaturan mesin. Selain itu, ditemukan juga bahwa check list operator lebih banyak melakukan
+pencatatan dan pelaporan sehingga jika menemukan ketidaksesuaian maka operator akan
+mencatatnya pada form ketidaksesuaian yang selanjutnya di tindak lanjuti oleh teknisi
+pemeliharaan. Hal ini tidak sesuai dengan konsep TPM yang menyebabkan tidak ditemukannya
+suatu waktu dimana mesin turbin mengalami down time selama < 30 menit yang merupakan
+jenis kerugian pemberhentian sebentar (Idling & Minor Stoppage Loss).
+Focused Maintenance. Analisa focused maintenance dilakukan agar dapat diketahui jenis
+kerugian mana yang perlu dimitigasi sehingga nilai availability dapat ditingkatkan. Adapun
+berdasarkan Gambar 4 menunjukan bahwa mesin turbin yang memiliki persentase breakdown
+loss paling besar adalah mesin turbin CCT-001A sebesar 94% sedangkan yang memiliki persentase setup & adjustment loss paling besar adalah mesin turbin CCT-002B sebesar 66%.
+Berdasarkan gambar diatas juga dapat disimpulkan bahwa persentase breakdown loss lebih besar
+dibandingkan setup & adjustment loss.
+Sumber : Hasil Olah Data (Agustus 2014)
+Gambar 4. Grafik Analisa Focused Maintenance PT Pertamina Gas Area JBB
+Periode Januari 2013 s/d Agustus 2014
+Planned Maintenance. Analisa planned maintenance dilakukan agar dapat diketahui apakah
+terdapat ketidaksesuaian antara jadwal pemeliharaan aktual dengan rencana. Adapun persentase
+overleap schedule yang dijelaskan pada Gambar 5, didapat bahwa terdapat beberapa nilai
+overleap schedule yang lebih besar dari 0% sehingga dapat disimpulkan bahwa pemeliharaan
+preventif tidak berjalan dengan semestinya sehingga kejadian breakdown loss menjadi lebih
+tinggi.
+
+
+Hasil Kuesioner Total Productive Maintenance. Berdasarkan Gambar 6 menunjukan bahwa
+persentase dari kuesioner TPM yang paling rendah terdapat pada bagian planned maintenance
+sedangkan yang paling tinggi terdapat pada bagian komitmen TPM.
+
+
+Analisa Diagram sebab Akibat. Berdasarkan Gambar 7 dan hasil diskusi disimpulkan bahwa
+penyebab terjadinya penurunan availability equipment adalah : (1) Penyebab Terkait Manusia: a.
+Operator dilapangan tidak diberi pelatihan mengenai maintenance; b. Program pelatihan sesuai
+kompetensi pekerja tidak rutin dilakukan; (2) Penyebab Terkait Metode: a. Kejadian failure tidak
+rutin dilakukan analisa 5W+1H; b. Keterlibatan seluruh pekerja dalam kegiatan maintenance
+belum diterapkan secara maksimal; (3) Penyebab Terkait Mesin: a. Kegiatan planned
+maintenance masih belum dilakukan secara optimal sesuai jadwal rencana; b. Pekerja
+maintenance perlu dilakukan pelatihan terkait program predictive maintenance; (4) Penyebab
+Terkait Material: a. Proses pengadaan material yang lama; b. Perlu ditingkatkan sistem material
+manajemen; (5) Penyebab Terkait Lingkungan: a. Perlu ditingkatkan kegiatan 5S/5R sehingga
+menjadi kebiasaan untuk pekerja operasi dan pemeliharaan; b. Perlu ditingkatkan kegiatan
+pembersihan.
+
+
+Penyebab Availability Penyaluran Gas Tidak Mencapai Target. Berdasarkan hasil penelitian
+equipment availability, terdapat beberapa mesin turbin yang mengalami breakdown dan tidak
+bisa diperbaiki dikarenakan proses pengadaan material yang lama. Selain itu, terdapat beberapa
+alokasi anggaran preventive maintenance yang dialihkan untuk memperbaiki mesin turbin
+tersebut sehingga program planned maintenance tidak dilakukan sebagaimana mestinya.
+Walaupun terdapat beberapa mesin turbin yang tidak bisa dioperasikan dalam jangka waktu
+lama, berdasarkan hasil penelitian plant availability, seluruh mesin turbin dapat menyalurkan gas
+ke konsumen pada periode Januari 2013 hingga Agustus 2014 dengan baik dan kontinu. Hal ini
+dikarenakan terdapat mesin turbin cadangan yang bisa dioperasikan ketika mesin turbin utama
+mengalami breakdown maintenance.
+Pada hasil penelitian maintenance dengan TPM yaitu focused maintenance didapat
+bahwa persentase breakdown loss lebih besar dibandingkan setup & adjustment loss. Selain itu,
+pada analisa planned maintenance juga ditemukan terdapat beberapa kegiatan planned
+maintenance yang tidak dilakukan sesuai dengan rencana sehingga dapat disimpulkan bahwa
+pemeliharaan preventif tidak berjalan dengan semestinya yang menyebabkan menurunnya
+performansi dari mesin turbin tersebut dalam melakukan kinerja sesuai fungsinya.
+Selain itu, pada penelitian hasil kuesioner didapat bahwa program planned maintenance
+memiliki skor yang paling kecil dibandingkan pilar-pilar TPM lainnya. Hal ini dikarenakan
+realisasi dari jadwal pemeliharaan terkadang tidak sesuai dengan yang direncanakan dikarenakan
+masalah spare part. Berdasarkan analisa ini dapat disimpulkan bahwa penyebab utama
+availability penyaluran gas tidak mencapai target disebabkan karena program planned
+maintenance yang tidak efektif dikarenakan proses pengadaan material yang lama sehingga
+implementasi dari program ini menjadi tidak optimal.
+Perbaikan Maintenance dengan Pendekatan TPM. Berdasarkan hasil penelitian, agar
+availability penyaluran gas mencapai target, perusahaan perlu menerapkan TPM antara lain : (1)
+Focused Maintenance yaitu dengan membentuk aktivitas perbaikan oleh tim cross-functional
+yaitu sekelompok pekerja dengan keahlian fungsi yang berbeda dimana bekerja untuk tujuan
+bersama. Aktivitas ini dibentuk untuk meminimasi kerugian (losses) yang telah diukur dan
+dievaluasi secara seksama melalui struktur why-why yang digunakan sebagai analisa untuk
+perbaikan interval pekerjaan program planned maintenance serta agar dapat ditingkatkan
+program corrective maintenance dimana kegiatan pemeliharaan dilakukan sebelum terjadi
+breakdown pada mesin turbin; (2) Autonomous Maintenance, dimana tugas dan tanggung jawab
+operator tidak hanya sekedar pengoperasian dan pengaturan mesin utama. Dengan
+mencantumkan uraian jabatan operator sesuai dengan konsep Total Productive Maintenance
+dimana operator dapat melakukan minor repair maka operator menjadi lebih bertanggung jawab
+terhadap operasional mesin turbin, meningkatkan availability mesin turbin sehingga teknisi
+pemeliharaan dapat lebih fokus ke tugas pemeliharaan yang lebih kompleks. Untuk menerapkan
+TPM, operator terlebih dahulu diberi pelatihan mengenai maintenance agar memiliki
+pengetahuan dalam melakukan kegiatan inspeksi dan maintenance yang bersifat minor untuk
+seluruh mesin produksi; (3) Planned Maintenance, dimana pemeliharaan preventive dilakukan
+sesuai dengan semestinya sehingga kejadian breakdown dapat terminimasi. Hal ini harus
+dilakukan sesuai jadwal pemeliharaan yang direncanakan di awal tahun. Adapun perencanaan
+dalam hal sparepart, tenaga kerja harus dilakukan secara optimal sehingga dapat meminimasi
+kerugian diakibatkan setup & adjustment loss. Program planned maintenance ini harus
+dievaluasi tiap tahun berdasarkan analisa focused maintenance sehingga penggantian spare part
+dapat dilakukan sedini mungkin sebelum terjadi failure. Melalui analisa focused maintenance
+juga dapat di tingkatkan kegiatan inspeksi, condition monitoring terhadap mesin turbin untuk
+memprediksi kejadian failure sejak dini (predictive maintenance).
+
+
+Malik dan Hamsal (2013) dalam penelitiannya menunjukan bahwa nilai availability dari
+mesin injeksi di PT. XYZ masih dibawah level world class yaitu 90%, rata-rata nilai availability
+dari line mesin injeksi adalah 83,29%. Faktor yang paling besar mempengaruhi nilai availability
+ini adalah breakdown yang relatif tinggi dikarenakan pemeliharaan preventif yang tidak berjalan
+dengan semestinya sehingga ada beberapa pekerjaan pemeliharaan preventif yang tidak
+dilakukan sehingga berpotensi terjadinya breakdown. Perbaikan yang perlu dilakukan yaitu
+dengan menjaga pelaksanaan yang konsisten untuk aktivitas pemeliharaan preventif dan
+mempermudah proses analisa terjadinya breakdown mesin yaitu dengan melakukan pembagian
+elemen waktu antara aktivitas kerja perawatan yang dilakukan yaitu waktu pemberitahuan saat
+terjadinya kerusakan dan kedatangan personel pemeliharaan, waktu analisa kerusakan, waktu
+penyediaan part/komponen, waktu perbaikan, waktu penyesuaian dan waktu percobaan.
+Dora et al (2012) mengatakan bahwa sebelum dilakukan implementasi TPM,
+maintenance pada perusahaannya dilakukan secara praktek yang tradisional dan hanya dilakukan
+secara breakdown maintenance dimana program pemeliharaan dilakukan ketika mesin
+mengalami kerusakan. Untuk memperbaiki kinerja tersebut, perusahaan mengimplementasikan
+TPM dengan melakukan training, promosi dan mengimplementasikan Jishu Hozen,
+mengidentifikasi abnormal pada peralatan, fokus pada akar penyebab dan mengeliminasi
+permasalahan, membentuk tim secara cross-functional serta meningkatkan pemahaman terkait
+kondisi yang tidak aman.
+Tsarouhas (2007), didalam penelitiannya mengenai implementasi TPM pada perusahaan
+produksi pizza selama 5 tahun menunjukan penurunan pada downtime peralatan yang
+menyebabkan nilai availability meningkat hingga mencapai 91.62% pada tahun ke-4. Hal ini
+disebabkan proses perbaikan berkelanjutan oleh manajemen dilakukan dengan cara menerapkan
+program pemeliharaan yang terdiri atas proactive maintenance dan corrective maintenance,
+menerapkan program pelatihan untuk manajer, teknisi dan operator serta menerapkan
+autonomous maintenance.
+Bangar et al (2013) melakukan penelitian sebelum dan sesudah implementasi TPM dan
+berdasarkan hasil analisanya ditemukan bahwa perusahaan akhirnya dapat menurunkan
+downtime pada mesin, meningkatkan output, availability, dan menurunkan kerugian produksi
+hingga 80%.
+Said et al (2008) berdasarkan hasil analisanya ditemukan bahwa terjadi penurunan OEE
+pada tahun 2006 ke 2007 dari 87.75% menjadi 74.58% yang disebabkan nilai availability yang
+rendah dimana operator tidak melakukan pengecekan mesin sebelum mesin tersebut
+dioperasikan. Solusi untuk melakukan perbaikan yaitu dengan mengaktifkan TPM yang
+didalamnya meliputi autonomous maintenance dan sistem penjadwalan perawatan.
+Krawczyk (2013) mengatakan bahwa jika kegiatan inspeksi dilakukan secara periodik
+sesuai dengan jadwal yang dipersiapkan secara tepat, maka total jam dimana mesin tersebut tidak
+mengalami kegagalan dan tetap beroperasi dapat meningkat. Untuk mencapai hal tersebut,
+operator terlebih dahulu diberi pelatihan mengenai maintenance agar memiliki pengetahuan
+dalam melakukan simple activities yang berhubungan dengan maintenance untuk seluruh mesin
+produksi.
+Berdasarkan hasil penelitian terdahulu diatas terdapat kesesuaian dengan penelitian ini
+dimana tingkat downtime peralatan menjadi relatif tinggi dikarenakan program planned
+maintenance yang tidak dilakukan secara optimal. Solusi dari perbaikan maintenance tersebut
+adalah dengan mengaktifkan TPM yang meliputi focused maintenance dimana kejadian
+breakdown dianalisa akar penyebab, mendorong implementasi autonomous maintenance dimana
+operator dapat melakukan perbaikan yang bersifat minor repair sehingga pekerja pemeliharaan
+lebih fokus ke tugas pemeliharaan yang lebih kompleks dan penerapan program planned
+maintenance yang konsisten agar kejadian breakdown dapat diminimasi.
+
+
+PENUTUP
+Kesimpulan. Berdasarkan hasil pembahasan diatas dapat diraih kesimpulan sebagai berikut :
+Pertama. Berdasarkan hasil pembahasan didapat bahwa program planned maintenance
+merupakan penyebab utama penurunan availability equipment di PT Pertamina Gas Area JBB
+dikarenakan realisasi dari jadwal pemeliharaan tidak sesuai dengan yang direncanakan
+dikarenakan masalah spare part. Kedua. Perusahaan perlu menerapkan TPM yang meliputi
+focused maintenance, autonomous maintenance dan program pemeliharaan terencana (planned
+maintenance) yang konsisten agar availability penyaluran gas mencapai target.
+Saran. Beberapa saran yang diharapkan dapat memberi masukan yang bermanfaat bagi
+perusahaan berdasarkan hasil penelitian ini adalah :
+Saran Bagi Perusahaan: a. Melakukan perhitungan plant availability dan equipment
+availability pada setiap mesin senantiasa dilakukan agar diperoleh informasi terkait program
+pemeliharaan dan perbaikan secara terus-menerus (continous improvement) agar availability
+penyaluran gas meningkat, mencapai zero unplanned shutdown, dan meningkatkan keunggulan
+perusahaan yang kompetitif; b. Senantiasa melakukan mitigasi terhadap kejadian breakdown
+dengan membentuk tim cross-functional sehingga ditemukan akar penyebab permasalahan yang
+dapat dijadikan analisa untuk memperbaiki interval pekerjaan program planned maintenance
+yang terencana dan terevaluasi dengan baik; c. Menyelenggarakan program pelatihan secara
+rutin bagi operator maupun personil maintenance agar kemampuan dan keahlian operator
+meningkat sehingga dapat mendeteksi gejala sebelum terjadi kerusakan, meminimasi equipment
+breakdown, dan mendorong produktivitas operasional dan pemeliharaan perusahaan; d.
+Menanamkan kesadaran kepada seluruh pekerja mulai dari manajemen puncak sampai kepada
+level terendah agar dapat berperan aktif dalam meningkatkan produktivitas dan efisiensi untuk
+perusahaan serta bagi dirinya sendiri dengan membentuk tim change agent yang senantiasa
+memperkenalkan TPM pada acara inhouse meeting, melakukan kampanye, sosialisasi, promosi
+dan reward.
+Saran Bagi Penelitian Selanjutnya. Adapun saran bagi penelitian selanjutnya antara lain : a.
+Perlu dilakukan penelitian ulang pada waktu mendatang setelah perusahaan
+mengimplementasikan program pengembangan total productive maintenance sehingga dapat
+dilakukan analisa sebelum dan sesudah diterapkannya program TPM terhadap indikator
+availability penyaluran gas; b. Untuk pengembangan penelitian selanjutnya disarankan agar
+peneliti berikutnya dapat menambah variabel yang disesuaikan dengan implementasi penerapan
+total productive maintenance diantaranya education & training, safety, health & environment,
+office TPM dan development management.

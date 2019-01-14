@@ -1,0 +1,408 @@
+﻿Audit Proses Perencanaan dan Implementasi
+Sistem Informasi PT Bank XYZ, Tbk dengan
+Menggunakan Cobit Framework
+
+Abstrak: Perkembangan pesat industri keuangan, baik lembaga perbankan dan non perbankan
+dewasa ini dapat dirasakan membawa implikasi persaingan yang semakin ketat. Perkembangan
+tersebut tidak hanya diwarnai dengan gelaran produk dan jasa keuangan yang variatif, tetapi
+juga dengan adanya deregulasi di bidang moneter, kompetensi bisnis, preferensi jasa keuangan
+yang semakin canggih dan perkembangan Teknologi Informasi (TI). Sehubungan dengan hal
+tersebut peranan TI khususnya di bidang Sistem Informasi (SI) menjadi hal yang penting dalam
+mendukung bisnis dan operasional perbankan itu sendiri, serta menjadi faktor dominan dalam
+memenangkan persaingan usaha dan salah satu cara untuk menilai dan mengukur SI adalah
+dengan melakukan audit terhadap SI tersebut. Audit SI yang dilakukan dalam penelitian ini
+adalah mengaudit proses perencanaan dan implementasi SI di PT. Bank XYZ, Tbk (Bank XYZ)
+dengan cara menentukan Critical Success Factor (CSF), Key Gol Indicator (KGI), Key Performance
+Indicator (KPI) dan melakukan pengukuran Maturity Level dengan Skala Likert
+menggunakan Maturity Model yang ada di COBIT Framework. Dari hasil penelitian ini dapat
+disimpulkan bahwa secara keseluruhan proses perencanaan dan implementasi SI di Bank XYZ
+sudah mengikuti kaidah-kaidah yang baik dan benar sesuai dengan COBIT framework dan
+Maturity Level-nya berada diantara level: 2 - Repeatable dan level: 3 - Defined.
+Kata Kunci: CSF, COBIT Framework, Maturity Level, Maturity Model, KPI, KGI
+
+Penggunaan SI di perusahaan yang bergerak dibidang
+bisnis semakin meningkat. SI telah menjadi nyawa bagi
+setiap perusahaan, tidak terkecuali perusahan yang
+bergerak di bisnis perbankan seperti PT. Bank XYZ,
+Tbk (Bank XYZ). Bahkan dalam beberapa tahun
+terakhir ini SI banyak digunakan tidak hanya terbatas
+pada proses operasional tetapi juga sudah digunakan
+di dalam proses bisnis, penentuan strategi bisnis dan
+pengambilan keputusan eksekutif.
+Penerapan SI dapat bermanfaat secara maksimal,
+jika proses perencanaan dan implementasinya
+sesuai dengan tujuan, visi, misi perusahaan, serta
+diterjemahkan ke dalam strategi bisnis dan strategi
+SI. Selain itu keselarasan antara strategi SI terhadap
+strategi bisnis dapat memberikan nilai tambah berupa
+competitiveadvantage dalam persaingan bisnis dan
+karena hal tersebut maka proses perencanaan dan
+implementasi SI menjadi hal yang penting serta harus
+dipastikan sesuai dengan strategis bisnis perusahaan,
+mengikuti kaidah-kaidah yang baik dan benar. Sebagai
+pihak regulator perbankan, Bank Indonesia (BI) melalui
+Surat Edaran No.9/30/DPNP tanggal 12 Desember
+2007 di pasal 15–17juga menuntutpihak Bank untuk
+melaksanakan fungsi audit SI dan hal tersebut
+mendorong munculnya kebutuhan untuk melakukan
+audit SI di perbankan. Selain itu menurut Surendro
+(2005) untuk mengukur seberapa jauh keselarasan
+antara proses bisnis, aplikasi, dan strategi bisnis perusahaan
+maka audit SI menjadi hal yang perlu dilakukan.
+Bank XYZ sebagai salah satu industri perbankan
+di Indonesia dituntut untuk dapat menyusun strategi
+bisnis yang memperhatikan kekuatan dan kelemahan
+yang dimilikinya dalam mencapai keunggulan kompetitif,
+serta melakukan audit SI secara berkala. Untuk
+memenuhi PBI No.9/30/DPNP danIT Strategic Plan
+(ITSP) tahun 2008–2013, Bank XYZ telah melakukan
+audit SI yang dilakukan oleh pihak auditor internal
+dan pihak auditor eksternal secara berkala, dan hasil
+audit SI tersebut dilaporkan ke BI dalam laporan
+semesteran.
+Selain itu O’Brien dan Marakas (2009) menyatakan
+bahwa masalah yang umum ditemukan pada proses
+perencanaan SI adalah kurangnya keterlibatan
+pihak manajemen dan user dalam proses perencanaan,
+mengabaikan visi dan misi dari perusahaan,
+kurang memahami kondisi lingkungan dan internal
+perusahaan, hanya bergantung pada permintaan sebagian
+user saja dan tidak memandang kemajuan dari
+Teknologi Informasi (TI) itu sendiri. Sedangkan masalah
+yang umum ditemukan pada proses implementasi
+SI adalah kualitas sistem yang kurang baik, kurangnya
+komitmen dari pihak manajemen dalam proses implementasi,
+dan adanya penolakan dari user terhadap
+pengembangan dan perubahan SI. Sehubungan dengan
+peran SI yang sangat penting diperusahaan, adanya
+perubahan-perubahan yang terkait dengan lingkungan
+operasi SI, dan ditambah adanya permasalahan diatas,
+maka hal ini mendorong munculnya kebutuhan untuk
+melakukan audit dan kontrol terhadap segala hal yang
+berkaitan dengan SI.
+Bedasarkan kenyataan dan kondisi tersebut di
+atas, penelitian ini mencoba untuk melakukan audit
+pada proses perencanaan dan implementasi SI Bank
+XYZ dengan cara menentukan Critical Success
+Factor (CSF), Key Gol Indicator (KGI), Key Performance
+Indicator (KPI), melakukan pengukuran
+maturity level dan memberikan rekomendasi kepada
+pihak manajemen untuk perbaikan dan peningkatan
+maturity level SI Bank XYZdengan menggunakan
+COBIT framework.
+Pilihan menggunakan COBIT (Control Objectives
+for Information and related Technology) sebagai
+framework dalam penelitian ini bedasarkan analisis
+dan penelitian-penelitian audit SI sebelumnya yang
+telah dilakukan, di mana Fitianahdan Sucahyo (2010)
+telah melakukan benchmarking antara kerangka kerja
+(framework) audit SI yang ada di Queensland Audit
+Office, Champlain (1998) dan kemudian semua
+kerangka audit SI tersebut dipetakan sehingga didapat
+sebuah kesimpulan bahwa COBIT adalah framework
+audit SI yang paling lengkap. Selain itu menurut
+penelitian yang telah dilakukan oleh Syukhri (2003)
+menyatakan bahwa COBIT framework bersifat
+universal sehingga dapat diaplikasikan pada semua
+jenis organisasi.
+METODE
+Ruang lingkup dalam penelitian ini adalah melakukan
+analisis danauditpada domain/proses perencanaan
+(Planning and Organisation-PO) dan implementasi
+(Acquisition and Implementations-AI) SI Bank
+XYZ dalam hal ini Aplikasi Neraca Direktorat/NDIR
+dengan cara menentukan CSF, KGI, KPI dan mengukur maturity level (skala likert) menggunakan maturity
+model yang ada di COBIT framework dengan membuat
+dan menggunakan kuesioner, melakukan wawancara,
+observasi dan studi pustaka.
+Penelitian ini dilakukan di kantor pusat Bank
+XYZ selama dua bulandan menggunakan dua jenis
+data yaitu data primer dan data sekunder. Data primer
+diperoleh dari wawancara, observasi dan pengisian
+kuesioner yang dilakukan oleh responden internal atau
+karyawan Bank XYZ yang dipilih secara purposive
+sampling (sengaja), di mana responden yang dipilih
+berjumlah dua puluh orang dari level staf sampai
+dengan manajemen yang merupakan representative
+manajemen, mempunyai wewenang, keahlian/ kompetensi
+dan menggunakan/sebagai user dari SI NDIR.
+Sedangkan data sekunder diperoleh dengan cara mengumpulkan
+data dan informasi yang terkait dengan
+bidang penelitian ini baik dari media cetak, website,
+jurnal, tesis, disertasi, dokumen internal perusahaan
+dan studi pustaka.
+Metode pengumpulan data dan informasi di
+dalam penelitian ini dilakukan dengan: (1) Melakukan
+Informal Brainstorming Group Sessionyang dilakukan
+secara lansung pada salah satu responden yang
+bertujuan untuk menetukan masing-masing proses dan
+control objective dari proses perencanaan dan implementasi
+SI, serta menentukan CSF, KGI dan KPI.
+(2) Membuat dan menggunakan kuesioner yang dikembangkan
+berdasarkan model kematangan COBIT 4.1
+dan dikaitkan dengan control objective sertaatribut
+kematangan yang mempengaruhinya dan disebarkan
+ke responden. (3) Melakukan wawancara yang dilakukan
+secara lansung ke responden. (4) Melakukan
+observasi yang dilakukan secara langsung pada objek
+yang diteliti dengan mengadakan pengamatan dan
+pencatatan terhadap data dan informasi yang diperlukan
+serta berhubungan dengan proses perencanaan
+dan implementasi SIBank XYZ. (5) Melakukan studi
+pustaka yang diperoleh dengan membaca, mempelajari,
+dan mengutip dari berbagai sumber seperti buku,
+tesis, disertasi, jurnal, dan dokumen internal maupun
+ekternal yang berkaitan dengan penelitian ini.
+Metode analisa data yang dilakukan dalam penelitian
+ini dilakukan dengan mengunakan analisis
+deskriptif menggunakan maturity model yang ada di
+COBIT framework. Pada dasarnya dalam metodologi
+audit/assurance, metodologi pengumpulan data
+dan informasi yang dilakukan adalah meliputi:(1)
+Penelaahan dokumentasi Corporate Plan, Program
+Kerja, Annual Report, ITSP, Kebijakan, Prosedur dan
+Standar Teknik maupun Non-Teknis yang menjadi
+dasar pada proses pengembangan dan implementasi
+SI di Bank XYZ. (2) Informal Brainstorming Group
+Session, kuesioner, wawancara dengan responden
+karyawan Bank XYZ.
+Langkah-langkah yang dilakukan dalam pelaksanaan
+audit SI adalah sebagai berikut: (1) Menentukan
+ruang lingkup dan tujuan dari audit SI, (2) Membuat
+kerangka audit SI, (3) Menentukan control objectives,
+CSF, KGI, KPIsesuai dengan ruang lingkup dalam
+penelitian ini (4) Melakukan audit SI sesuai COBIT
+framework dengan melakukan pengumpulan data dan
+informasi dari responden melalui kuesioner, wawancara
+dan observasi lansung. Dalam pembuatan kuesioner,
+menggunakan deskripsi dari maturity level yang
+ada/tertera di maturity model COBIT dan tujuan dari
+kuesioner ini dibuat adalah untuk mendapatkan informasi
+terkait dengan kondisi perusahaan yang tengah
+diperiksa dengan berbagai skenario yang menggambarkan
+setiap maturity level. Sedangkan setiap deskripsi
+kuesioner tingkat maturity level adalah pernyataan
+yang dapat bernilai sangat tidak baik, tidak baik,
+cukup baik, baik, atau sangat baik dan dapat dilihat
+sebagai suatu pernyataan yang berdiri sendiri. (5) Dari
+penentuan control objectives di atas, maka dibuatkan
+kuesioner untuk disebarkan kepada seluruh responden
+dengan perincian pertanyaan sebagai berikut: (a) PO1:
+Define a strategic IT plan (Menentukan Perencanaan
+Strategi TI) terdiri dari 8 pertanyaan, (b) PO2:
+Define the information architecture (Menentukan
+Arsitektur Informasi), terdiri dari 7 pertanyaan, (c)
+PO3: Determine technological direction (Menentukan
+Arahan Teknologi) terdiri dari 7 pertanyaan, (d)
+PO6: Communicate management aims and direction
+(Mengkomunikasikan Tujuan dan Arah Manajemen)
+terdiri dari 8 pertanyaan, (e) PO7: Manage
+quality human resource (Mengelola SDM TI)terdiri
+dari 13 pertanyaan, (f) PO9: Asses and manage IT
+risks (Menjamin dan Mengelola Resiko-resiko TI)
+terdiri dari 10 pertanyaan, (g) AI2: Acquire and
+maintain application software (Memperoleh dan
+Memelihara Aplikasi Perangkat Lunak) terdiri dari
+12 pertanyaan, (h) AI3: Acquire and maintain
+technology infrastructure (Memperoleh dan Memelihara Teknologi Infrastruktur) terdiri dari 10
+pertanyaan, (i) AI6: Manage changes (Mengatur Perubahan)
+terdiri dari 7 pertanyaan dan (j) AI7: Install
+and accredit solutions and changes (Memasang
+dan Mengakreditasi Solusi dan Perubahan), terdiri dari
+12 pertanyaan. (6) Dari hasil pengisian kuesioner,
+wawancara dan observasi diatas menghasilkan nilai
+pencapaian terhadap standar dan dapat dihitung untuk
+setiap maturity level dengan cara mengumpulkan
+seluruh jawaban dari responden dan dijumlahkan nilai
+pencapaian tersebut dari setiap pernyataan. Penilai
+menggunakan indeks hasil dengan rumus:
+ (Soal)
+INDEKS =
+ (Jawaban)
+Data yang terkumpul dari point 6 di atas kemudian
+di analisismenggunakan panduan yang ada dalam
+melakukan sebuah analisa I Tassurance guide dan
+maturity model dengan skala likert meliputi detailed
+control objective yang disesuaikan dengan keadaan
+dari Bank XYZ (berdasar pada high level control
+objective), dimana modelini dapat mengukur maturity
+level dari level pengembangan manajemen proses.
+Seberapa bagusnya pengembangan dan implementasi
+atau kapabilitas manajemen tergantung pada tercapainya
+tujuan-tujuan COBIT. Menurut IT Governance
+Institute, tingkat kemampuan pengelolaan TI pada
+skala maturity dibagi menjadi enam tingkatan, mulai
+dari level 0 (non-existent), level 1 (initial), level 2 (repeatable),
+level 3 (defined), level 4 (managed) dan level
+5 (optimized). Model yang digunakan untuk mengevaluasi/
+mengaudit berbentuk kuesioner yang berasal
+dari maturity model COBIT serta bergantung pada
+konsep skenario, di mana setiap maturity level dianggap
+sebagai skenario. Pederiva (2003) mengemukakan
+bahwa skenario maturity level mencakup deskripsi
+dari organisasi dan pengontrolan internal perusahaan
+yang memenuhi persyaratan maturity level tertentu.
+Setelah proses analisis dari hasil audit SI selesai, maka
+tahap berikutnya adalah mendokumentasikan temuantemuan
+hasil audit SI dan membuat suatu kesimpulan
+serta rekomendasi dan solusi terhadap hasil audit SI.
+HASIL DAN PEMBAHASAN
+Sesuai dengan ruang lingkup penelitian, maka
+audit SI Bank XYZ dilakukan terhadap proses
+perencanaan dan implementasi. Sedangkan untuk
+penentuan control objective ditentukan bedasarkan
+hasil dari Informal Brainstorming Group
+Sessiondan kebutuhan dari proses bisnis SI Bank
+XYZ. Domain/ proses dan control objectives SI
+Bank XYZ terdapat pada Tabel 1.
+Sesuai dengan rumusan masalah, tujuan dan
+ruang lingkup penelitian ini, maka CSF, KGI dan KPI
+pada proses perencanaan dan implementasi SI di Bank
+XYZ, adalah sebagai berikut: (1) Pada proses
+perencanan membahas mengenai strategi, taktik, dan
+pengidentifikasian dari SI yang bertujuan mendukung
+untuk mencapai tujuan dari bisnis. Realisasi dari visi
+dan strategi SI perlu direncanakan, dikomunikasikan
+dan diatur, serta melihat dari berbagai macam perspektif,
+seperti dari segi organisasi, segi infrastruktur
+teknologi, dan sebagainya, dengan perincian sebagai
+berikut: (a) menentukan perencanaan strategi TI
+(PO1) yang bertujuan untuk mencapai keseimbangan
+optimalisasi antara kebutuhan TI dan pencapaian dari
+tujuan dan kebutuhan rencana jangka panjang, dengan
+mentranslasikan secara periodik menjadi rencana
+operasional dan menetapkan tujuan jangka pendek yang jelas serta kongkrit. CSF, KGI dan KPI untuk
+proses ini dapat dilihat pada Tabel 2, (b) menentukan
+arsitektur informasi (PO2) yang bertujuan untuk melakukan
+optimasi SI dengan membuat model SI dan
+menjamin SI dapat memberikan optimalisasi pemanfaatan
+dan kegunaan dari informasi bagi perusahaan.
+CSF, KGI dan KPI untuk proses ini dapat dilihat pada
+Tabel 3, (c) penentuan arah teknologi (PO3) yang
+mengambil keuntungan dari teknologi yang sedang
+berkembang, sehingga dapat diterapkan pada strategi
+bisnis dengan membangun dan memelihara rencana
+infrastruktur teknologi yang mampu merealisasikan
+kemampuan teknologi dalam mendukung teknologi itu
+sendiri. CSF, KGI dan KPI untuk proses ini dapat
+dilihat pada Tabel 4, (d) mengkomunikasikan tujuan
+dan arah manajemen (PO6) untuk memastikan kesadaran
+dan pemahaman pemakai terhadap SI dengan
+mengkomunikasikan kebijakan dan prosedur kepada
+seluruh karyawan. CSF, KGI dan KPI untuk proses
+ini dapat dilihat pada Tabel 5, (e) mengelola SDM TI
+(PO7) untuk memperoleh dan merawat tenaga kerja
+yang termotivasi dan cakap serta memaksimalkan
+kontribusi SDM untuk proses SI CSF, KGI dan KPI
+untuk proses ini dapat dilihat pada Tabel 6, (f) menjamin
+dan mengelola resiko-risiko TI (PO9) untuk mendukung
+keputusan manajemen melalui pencapaian
+tujuan SI dan merespon ancaman dengan mereduksi
+kompleksitas, melakukan analisis dan indentifikasi
+resiko SI. CSF, KGI dan KPI untuk proses ini dapat
+dilihat pada Tabel 7.
+(2) Pada proses implementasi solusi TI perlu
+diidentifikasi, dikembangkan, diimplementasian, dan
+diintegrasikan ke dalam proses bisnis. Proses ini
+mencakup perubahan dan pemeliharaan terhadap SI,
+dengan perincian sebagai berikut (a) memperoleh dan
+memelihara aplikasi perangkat lunak (AI2) untuk
+menyediakan fungsi terautomasi yang mendukung
+proses bisnis secara efektif dengan mendefinisikan
+kebutuhan operasional terhadap SI. CSF, KGI dan
+KPI dan untuk proses ini dapat dilihat pada Tabel 8,
+(b) memperoleh dan Memelihara Infrastruktur (AI3)
+teknologi untuk menyediakan platform teknologi
+dalam mendukung SI dengan memperolah perangkat
+keras yang sesuai serta pengujian kinerja perangkat keras. CSF, KGI dan KPI untuk proses ini dapat dilihat
+pada Tabel 9, (c) mengatur perubahan (AI6) untuk
+meminimalkan kemungkinan terjadinya kekacauan,
+proses yang tidak terotorisasi dan error, dengan
+membuat sistem yang menyediakan analisis dan
+implementasi terhadap semua perubahan dalam SI.
+CSF, KGI dan KPI untuk proses ini dapat dilihat pada
+Tabel 10, (d) memasang dan mengakreditasi solusi
+dan perubahan (AI7) untuk meyakinkan dan
+mengkonfirmasikan bahwa solusi yang digunakan
+sesuai dengan kebutuhan. CSF, KGI dan KPI untuk
+proses ini dapat dilihat pada Tabel 11.
+Hasil pengukuran Maturity Level untuk proses
+perencanaan dan implementasi SI Bank XYZ
+menggunakan Maturity Model COBIT dapat dilihat
+pada Tabel 12 dengan perincian sebagai berikut: (1)
+Menentukan Perencanaan Strategi TI (PO1), Level:
+Repeatable, perencanaan Strategi TI (dalam hal ini
+NDIR) hanya dilakukan dan dimengerti oleh pihak
+Manajemen, serta belum didokumentasi dan disosialisasikan
+dengan baikdilingkungan internal. (2) Menentukan
+Arsitektur Informasi (PO2), Level: Repeatable,
+proses pendefinisian arsitektur informasi (NDIR)
+dilakukan secara informal dan intuitive. Arsitektur
+informasi dibuat bedasarkan dari masing-masing programmer
+di Divisi TI. (3) Menentukan Arahan Teknologi
+(PO3), Level: Defined, Perencanaan pengembangan
+infrastruktur teknologi sejalan dengan perencanaan
+strategis TI dan di dokumentasikan serta dikomunikasikan
+dengan baik, namun tidak dilakukan
+secara konsisten. (4) Mengkomunikasikan Tujuan dan
+Arah Manajemen (PO6), Level: Defined, Kebijakan,
+prosedur, dan standar kontrol terhadap informasi telah
+dikembangkan secara terstruktur, didokumentasikan,
+dan dikomunikasikan secara baik melalui pelatihan
+formal. (5) Mengelola SDM TI (PO7), Level: Defined.
+
+Kebijakan dan prosedur dari proses reqruitment dan
+job desk serta tanggung jawab masing-masing SDM
+TI sudah terdokumentasi dengan baik. (6) Menjamin
+dan Mengelola Resiko-Resiko TI (PO9), Level:
+Defined Terdapat kebijakan, prosedur, standar dan
+didokumentasikan dengan baik dalam menilai resikorisiko
+TI.(7) Memperoleh dan Memelihara Aplikasi
+Perangkat Lunak (AI2), Level: Defined, Proses akuisisi
+dan pemeliharaan aplikasi sudah didokumentasikan,
+namun dalam proses akuisisi dan pemeliharaan
+yang telah dilakukan belum dapat memberikan solusi
+teknologi yang menyeluruh. (8) Memperoleh dan
+Memelihara Teknologi Infrastruktur (AI3), Level:
+Defined, Proses implementasi dan pemeliharaan
+infrastruktur teknologi telah mendukung kebutuhan
+aktivitas Bank XYZ dan searah dengan strategi sistem
+Bank XYZ.(9) Mengatur Perubahan (AI6), Level:
+Defined, Pengaturan perubahan proses TI terhadap
+aktivitas Bank XYZ telah dilakukan secara formal
+dan didokumentasikan dengan baik. (10) Memasang
+dan Mengakreditasi Solusi dan Perubahan (AI7),
+Level: Defined, Sudah terdapat prosedur instalasi,
+migrasi, konversi, dan akreditasi system dan didokumentasikan
+dengan baik.(10) Menentukan arsitektur
+informasi (PO2) yang bertujuan untuk melakukan
+optimasi SI dengan membuat model SI dan menjamin
+SI dapat memberikan optimalisasi pemamfaatan dan
+kegunaan dari informasi bagi perusahaan.
+Implikasi Manajerial
+Rumusan implikasi manajerial sebagai pertim
+bangan yang diusulkan dari hasil penelitian ini untuk
+mencapai maturity level di level managed - 4 (sudah
+memungkinkannya untuk memantau dan mengukur
+ketaatan pada prosedur sehingga dapat dengan mudah
+ditanggulangi apabila terjadi penyimpangan pada aktivitas.
+Perbaikan proses dilakukan secara konstan.
+Implementasi proses dilakukan secara baik. Otomasi
+dan perangkat yang digunakan terbatas) adalah terdapat
+pada Tabel 13.
+
+KESIMPULAN DAN SARAN
+Kesimpulan
+Berdasarkan hasil penelitian tentang audit proses
+perencanaan dan implementasi sistem informasi PT
+Bank XYZ, Tbk menggunakan Cobit Framework
+dapat dibuat beberapa kesimpulan sebagai berikut :
+(1) Secara keseluruhan proses perencanaan dan
+implementasi SI di Bank XYZsudah selaras dengan
+proses bisnis, aplikasi, strategi bisnis dari Bank XYZ
+dan mengikuti kaidah-kaidah yang sesuai dengan
+COBITframework. (2) Maturity level pada proses
+perencanaan dan implementasi SI Bank XYZ (NDIR)
+untuk PO3, PO6, PO7, PO9, AI2, AI3, AI6 dan AI7
+berada pada level: 3 - Defined. Sedangkan untuk PO1
+dan PO2 berada pada level: 2 - Repeatable.

@@ -1,0 +1,220 @@
+﻿ABSTRAK
+Energi dependensi minyak bumi tidak seiring dengan ketersediaan sumber dayanya, belum lagi
+melambungnya harga dasar minyak mentah serta tingginya tingkat pencemaran menjadi alasan pendorong
+dalam pengembangan alternatif solusi yakni bioenergi. Dalam agenda riset nasional, dinyatakan bahwa
+permasalahan energi nasional jangka panjang menyangkut hal yang berkaitan dengan ketahanan
+ketersediaan dan keberlanjutan penyediaan energi, dapat mendukung pembangunan dan kebutuhan
+seluruh rakyat Indonesia dalam jangka waktu yang panjang. Prioritas di bidang energi adalah dengan
+pencapaian ketahanan energi nasional yang menjamin kelangsungan pertumbuhan nasional melalui
+restrukturisasi kelembagaan dan optimasi pemanfaatan energi alternatif seluas-luasnya. Pemanfaatan
+mikroalga sebagai bahan baku produksi biodiesel memiliki beberapa keuntungan dibanding dengan
+tanaman penghasil minyak lainnya. Namun dalam mengatasi kelangkaan energi dan mewujudkan
+ketahanan energi dengan memanfaatkan energi biomassa yang berasal dari mikroalga masih perlu dikaji
+lebih mendalam mengenai dampak aspek lingkungannya terkait proses produksi biodiesel dari mikroalga
+bersamaan dengan pengembangan proses serta keseluruhan sistem perekayasaan teknologi guna
+memastikan kelayakan teknis demi keberlanjutan sumber daya energi biomassa tsb.
+Lingkup dari penelitian ini adalah kajian daur hidup “cradle to gate”. Perhitungan seluruh
+kebutuhan material dan energi yang diperlukan pada proses produksi biodiesel mikroalga dikonversi
+untuk menghasilkan 1 kg biodiesel mikroalga. Dampak lingkungan yang dikaji terkait produksi biodiesel
+mikroalga adalah global warming potential, eutrophication, dan acidification dengan metode penilaian
+dampak yang digunakan yakni TRACI2, Eco-indicator 99 (I) dan CML Baseline 2000 yang masingmasingnya
+memiliki fokus serta kategori dampak berbeda sehingga memberikan interpretasi hasil berbeda
+pula. Dari hasil penelitian keempat alternatif skenario yang dilakukan yakni Skenario 1 (PBR+dry),
+Skenario 2 (PBR+wet), Skenario 3 (OP+dry) dan Skenario 4 (OP+wet), skenario dengan kontribusi nilai
+tertinggi terhadap dampak lingkungan yang dikaji adalah Skenario 2 dengan nilai kontribusi dampak
+pemanasan global sebesar 100,933 kg CO2 ekuivalen, dampak asidifikasi sebesar 0,66 kg SO2 ekuivalen,
+dan dampak eutrofikasi sebesar 0,05 kg PO43- ekuivalen dan yang memiliki nilai dampak rendah adalah
+Skenario 3 dengan nilai dampak pemanasan global sebesar 41,078 kg CO2 ekuivalen, dampak asidifikasi
+sebesar 0,260 kg SO2 ekuivalen dan dampak eutrofikasi sebesar 0,026 kg PO43- ekuivalen.
+Rekomendasi terkait hasil LCA “cradle to gate” aspek lingkungan guna melakukan upaya
+minimasi dampak akibat proses produksi biodiesel mikroalga yakni dengan melakukan efisiensi energi
+dan penggunaan minimal pupuk dalam produksi biodiesel tentunya berpotensi dalam pengurangan
+dampak lingkungan, pengembangan teknologi dan perekayasaan sistem. Memasangkan fasilitas kultivasi
+mikroalga dengan sumber nutrien yang dibutuhkan mikroalga seperti yang berasal dari air limbah
+merupakan suatu potensi yang dapat dilakukan selain menyisihkan pencemar dalam air limbah, manfaat
+lainnya seperti pemenuhan nutrien untuk mikroalga pun dapat tercukupi. Sistem terbuka merupakan
+metode paling layak untuk mengkultivasi biomassa dalam jumlah besar karena modal biaya sedikit,
+perawatan sederhana dan proses operasi mudah. Kombinasi dari beberapa metode merupakan pilihan
+efektif guna mengurangi penggunaan energi dan biaya dalam pemanenan biomassa alga.
+Kata kunci: Dampak Lingkungan, Biodiesel Mikroalga, Life Cycle Assessment
+“cradle to gate”
+
+BAB I
+PENDAHULUAN
+1.1 Latar Belakang
+Semakin langkanya bahan bakar konvensional, meningkatnya emisi gas
+rumah kaca, serta tingginya harga minyak bumi merupakan suatu rangkaian isu
+terkait energi yang mendesak penyelesaian dengan mengembangkan bahan baku
+alternatif biomassa. Ide pemanfaatan biomassa telah banyak diusung dan ditinjau
+berbagai kalangan praktisi, ilmuwan serta pihak-pihak terkait dalam
+pengembangan energi baru dan terbarukan. Sama halnya dengan di Indonesia,
+terkait sasaran pembangunan iptek dalam RPJMN 2010-2014 yang pertama
+adalah di bidang ketahanan pangan yang selanjutnya ketahanan energi. Dalam
+agenda riset nasional, Indonesia meiliki cadangan berbagai sumber energi walau
+tidak dalam jumlah yang besar. Prioritas di bidang energi adalah dengan
+pencapaian ketahanan energi nasional yang menjamin kelangsungan pertumbuhan
+nasional melalui restrukturisasi kelembagaan dan optimasi pemanfaatan energi
+alternatif seluas-luasnya (Agenda Riset Nasional, 2010).
+
+Faktor pendorong atas pengembangan bioenergi di hampir seluruh belahan
+dunia diantaranya ketahanan pangan, perubahan tata guna lahan dan sumberdaya
+air; keamanan penyediaan energi dan dampak terhadap lingkungan. Dalam
+memproduksi bioenergi alangkah baiknya apabila bahan bakunya tidak
+berkompetisi dengan tanaman pangan, dapat ditumbuhkan di lahan-lahan yang
+kurang produktif sehingga tidak perlu membuka lahan baru atau mengubah lahan
+pertanian menjadi lahan untuk tanaman penghasil minyak (Fraiture, 2007; Cohen
+et al., 2009). Menurut Lin et al. (2011), keamanan penyediaan energi berarti
+energi tersebut harus cukup, terjangkau dan selalu tersedia. Ketergantungan
+terhadap impor bahan bakar fosil merupakan ancaman serius dalam ketahanan
+penyediaan energi nasional sehingga menuntut pemerintah mengeluarkan kebijakan dalam bidang energi dengan meningkatkan produksi dan penggunaan
+sumberdaya energi hayati. Belum lagi dampak terhadap lingkungan terkait
+pembakaran bahan bakar fosil merupakan sumber utama emisi gas rumah kaca
+berakibat pada perubahan iklim. Menurut Wahlund et al. (2004), pengembangan
+bioenergi khususnya biodiesel dilihat dari dampak terhadap lingkungan terkait
+penggunaannya.
+
+Dampak-dampak lingkungan yang diakibatkan oleh produksi biofuel dari
+biomassa tersebut juga sudah banyak dikaji, namun beberapa dari kajian
+lingkungan proses produksi biomassa khususnya mikroalga masih bersifat asumtif
+karena memang belum banyak diproduksi pada skala industri. Dampak terkait
+produksi biofuel tersebut meliputi potensial pemanasan global, penggunaan
+energi, penggunaan air, perubahan tata guna lahan, eutrofikasi, penipisan sumber
+daya abiotik, penipisan lapisan ozon, serta dampak toksisitas terhadap manusia
+(Lardon et al., 2009; Stephenson et al, 2010; Campbell et al., 2010; Jorquera et al.,
+2010; Clarens et al., 2010).
+
+Mikroalga sebagai alternatif pengembangan energi berkelanjutan
+merupakan salah satu dari sekian banyak alternatif sumber bahan baku lipid
+menjanjikan karena efisiensi fotosintesi tinggi dalam memproduksi biomassa;
+memiliki laju produktifitas dan pertumbuhan yang cepat bila dibandingkan dengan
+tanaman penghasil lipid lainnya; kultivasi mikroalga tidak memerlukan lahan
+yang luas dan subur sehingga tidak akan berkompetisi dengan produksi tanaman
+pangan. Mikroalga juga memiliki kemampuan memperbaiki CO2 di atmosfir, flue
+gases atau karbon yang terlarut di dalam selnya selama masa pertumbuhan
+sementara secara bersamaan menangkap energi matahari dengan efisiensi 10-50
+kali lebih besar dibandingkan dengan tanaman terestrial lain, yang tentunya
+merupakan suatu kesempatan emas dalam program pengurangan karbon (Ferrell
+& Reed, 2010 dan Brennan & Owende, 2010).
+Walau bagaimanapun, tinjauan kritis permasalahan produksi biodiesel
+mikroalga seringkali tidak tercantum jelas, berimbas pada pengembangan mikroalga sebagai bahan baku biodiesel menjadi kurang terarah. Mengacu pada
+hal tersebut, maka diperlukan suatu instrumen kajian lingkungan yang salah
+satunya dilakukan dengan kajian daur hidup (Life Cycle Assessment – LCA).
+Penelitian yang dilakukan oleh Kadam (2002), membandingkan kajian lingkungan
+dari proses PLTU batu bara dengan PLTU yang pembakarannya dikombinasikan
+dengan alga. Hasil yang dikemukakan bahwa proses PLTU dengan kombinasi
+pembakaran dengan alga memiliki 4 (empat) dampak yakni potensi pemanasan
+global, penipisan sumber daya alam, potensi asidifikasi udara dan eutrofikasi.
+Emisi CO2, SOx, NOx, partikulat, metan dan konsumsi energi fosil memiliki hasil
+yang lebih rendah namun lebih banyak memerlukan gas dan minyak serta
+eutrofikasi menjadi lebih tinggi. Dalam laporan Aquafuels (2011) yang mengkaji
+7 (tujuh) penelitian LCA terkait alga (Kadam, 2002; Lardon et al., 2009; Clarens
+et al., 2010; Jorquera et al., 2010; Sander & Murthy, 2010; Stephenson et al.,
+2010; dan Campbell et al., 2010) menyatakan hanya sedikit penelitian LCA yang
+dilakukan terkait kurangnya data dari operating plant, sehingga data terkesan
+spekulatif.
+
+Dalam hasil laporan tersebut terdapat beberapa kesimpulan mengenai studi
+LCA yang pernah dilakukan yakni studi-studi tersebut hampir sebagian besar
+mempertimbangkan secara luas dari segi desain konseptual (kecuali Stephenson et
+al., 2010) yang hanya menyediakan informasi mengenai sistem produksi biofuel
+alganya saja; perbandingan yang dilakukan terdapat ketidakkonsistenan penentuan
+batasan sistem dan unit fungsional; studi menggunakan metode alokasi yang
+mungkin diragukan karena terlalu rumit; tidak adanya fasilitas komersil produksi
+biofuel alga membuat data primernya berdasarkan asumsi, dikaji secara sebagian
+bukan berdasar pada proses terintegrasi; dan validitas dari berbagai hasil banyak
+dipertanyakan oleh beberapa ahli di lapangan (Aquafuels, 2011).
+Pengembangan serta inovasi yang diterapkan dalam berbagai skala baik
+laboratorium, pilot plant, maupun skala komersil dari bioenergi yang terbarukan
+dan berkelanjutan, biodiesel dari mikroalga dapat didukung dengan kajian
+lingkungan melalui pendekatan LCA sebagai tolok kajian dalam memandu suatu proses/produk/jasa dengan memperhatikan beberapa faktor pendukung kajian
+seperti kajian secara lengkap dengan penentuan batasan sistem, pendataan
+terhadap input maupun output dalam proses yang jelas, penilaian dampak daur
+hidup produk yang terlepas ke lingkungan serta melakukan uji sensitivitas
+terhadap hasil inventaris data dan kajian dampak terhadap lingkungan.
+Keuntungan yang dapat diperoleh dengan melakukan LCA diantaranya
+adalah mengidentifikasi dampak lingkungan terkait suatu proses atau mengetahui
+hal-hal yang sangat penting diperhatikan yang berdampak pada lingkungan di
+sepanjang daur hidup produk, proses maupun jasa; mendapatkan pemahaman baik
+dampak yang muncul dari hulu ke hilir dari berbagai alternatif pilihan desain
+maupun proses; memberikan informasi dan panduan dalam penentuan keputusan
+sebagai program inovasi; mengkomunikasikan secara lebih efektif dan terpercaya
+terkait tuntutan lingkungan; sebagai tolok ukur, laporan serta jalur perkembangan
+sepanjang waktu; dapat diaplikasikan membandingkan produk, sistem maupun
+proses terutama melihat ‘tapak’nya dengan berbagai alternatif pilihan yang
+relevan (Grierson & Strezov, 2012).
+
+Dalam penelitian ini, penentuan sistem produk meliputi tahapan produksi
+biodiesel mencakup tahap kultivasi mikroalga, pemanenan biomassa, ekstraksi
+sumber lipid hingga pada konversi lipid menjadi biodiesel (Sistem proses
+produksi biodiesel berasal dari biomassa mikroalga dengan variasi pada tahapan
+proses kultivasi menggunakan Photobioreactor (PBR) (Brennan & Owende,
+2010; Dragone et al., 2010; Parvatker, 2013) dan Open Pond oval-shaped (OP)
+(Travieso et al., 2001; Christi, 2007; Dragone et al., 2010) serta tahapan ekstraksi
+dengan pengeringan lalu diekstraksi dengan menggunakan solven dan tanpa
+pengeringan atau dengan biomassa basah dengan prosedur ekstraksi lipid basah
+(Wet Lipid Extraction Procedure – WLEP) (Sathish, 2012)) dari sistem produksi
+yang telah dikaji dengan penentuan tujuan dan batasan sistem yang berbeda.
+Berdasarkan penentuan batasan sistem tersebut, maka dalam penelitian ini
+dilakukan LCA mulai dari produk biodiesel berasal hingga pada produk
+dihasilkan yang selanjutnya direpresentasikan dalam LCA “cradle to gate” dimana tahapan penggunaan biodiesel sampai pada akhir masa penggunaannya
+tidak dibahas lebih lanjut. Kajian lingkungan dengan LCA “cradle to gate”
+dilakukan untuk membandingkan dan mengevaluasi sistem proses produksi
+biodiesel yang berasal dari Mikroalga guna mengkaji komponen atau tahapan
+dalam produksi biodiesel yang berkontribusi terhadap degradasi lingkungan dan
+inefisiensi proses sehingga rekomendasi peluang perbaikan kualitas lingkungan
+dan pengembangan sumber bahan baku energi alternatif berkelanjutan dapat
+dilakukan.
+
+1.2 Perumusan Masalah
+Energi dependensi minyak bumi tidak seiring dengan ketersediaan sumber
+dayanya, belum lagi melambungnya harga dasar minyak mentah serta tingginya
+tingkat pencemaran menjadi alasan pendorong dalam pengembangan alternatif
+solusi yakni bioenergi. Mikroalga bisa dimanfaatkan untuk menghasilkan energi
+menjadi biodiesel. Pemanfaatan mikroalga sebagai bahan baku produksi bahan
+bakar cair memiliki beberapa keuntungan dibanding dengan tanaman penghasil
+minyak lainnya (Brennan & Owende, 2010; Mata et al., 2010; Um & Kim, 2009;
+Dragone et al., 2010). Namun dalam mengatasi kelangkaan energi dan ketahanan
+energi dengan memanfaatkan energi biomassa yang berasal dari mikroalga masih
+perlu dikaji lebih mendalam mengenai dampak aspek lingkungannya terkait
+proses produksi biodiesel dari mikroalga bersamaan dengan pengembangan proses
+serta keseluruhan sistem perekayasaan teknologi guna memastikan kelayakan
+teknis demi keberlanjutan sumber daya energi biomassa tsb.
+
+Kajian LCA “cradle to gate” perlu dilakukan guna mengidentifikasi,
+membandingkan dan mengevaluasi komponen atau tahapan dalam produksi
+biodiesel (Sistem proses produksi biodiesel berasal dari biomassa mikroalga
+dengan variasi pada tahapan proses kultivasi menggunakan Photobioreactor
+(PBR) dan Open Pond oval-shaped (OP) serta tahapan ekstraksi dengan
+pengeringan lalu diekstraksi dengan menggunakan solven dan tanpa pengeringan
+atau dengan biomassa basah dengan prosedur ekstraksi lipid basah (Wet Lipid Extraction Procedure – WLEP)) yang berpotensi pada degradasi lingkungan dan
+inefisiensi proses dapat diketahui sehingga peluang dalam perbaikan kualitas
+lingkungan dan pengembangan sumber bahan baku energi alternatif yang
+berkelanjutan dapat direkomendasikan.
+
+
+1.3 Tujuan
+Tujuan dari penelitian ini adalah:
+
+1. Melakukan evaluasi sistem produksi biodiesel dengan kajian lingkungan
+melalui LCA “cradle to gate” dari proses produksi biodiesel mikroalga
+mulai dari tahapan kultivasi mikroalga, pemanenan biomassa, ekstraksi
+lipid hingga konversi menjadi biodiesel (Sistem proses produksi biodiesel
+berasal dari biomassa mikroalga dengan variasi pada tahapan proses
+kultivasi serta tahapan ekstraksi).
+2. Menyajikan rekomendasi atau usulan terkait aspek lingkungan berdasarkan
+hasil LCA “cradle to gate” guna melakukan upaya minimasi dampak
+akibat proses produksi biodiesel mikroalga.
+
+1.4 Manfaat Penelitian
+Secara umum penelitian ini diharapkan dapat digunakan sebagai rujukan
+memberikan deskripsi kajian lingkungan proses produksi biodiesel pemanfaatan
+mikroalga sebagai alternatif bahan bakunya; dengan melakukan LCA “cradle to
+gate” tersebut, aspek lingkungan dapat teridentifikasi lebih awal dalam
+pengembangan produk dan proses, komponen atau tahapan dalam produksi
+biodiesel yang berpotensi pada degradasi lingkungan dan inefisiensi proses dapat
+diketahui sehingga rekomendasi mengenai peluang dalam perbaikan kualitas
+lingkungan dan pengembangan sumber bahan baku energi alternatif yang
+berkelanjutan dapat dilakukan; serta memberikan sumbangsih terhadap
+perkembangan ilmu pengetahuan.
+
+

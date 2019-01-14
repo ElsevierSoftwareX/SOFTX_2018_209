@@ -1,0 +1,592 @@
+﻿KARAKTERISASI PRODUK BIOMASSA SELULER DALAM BIOREAKTOR MEMBRAN PADA BIODEGRADASI ZAT WARNA AZO REMAZOL BLACK 5
+
+
+Abstrak
+Dalam penelitian ini karakterisasi produk biomassa seluler dalam bioreaktor membran (BRM) anoksik-oksik dalam biodegradasi zat warna Azo Remazol Black 5 (RB 5) pada umur lumpur rendah (SRT) telah dievaluasi. BRM terdiri dari tangki anoksik, kontak, dan stabilisasi serta membran eksternal polysulfone yang diletakkan diantara tangki kontak dan stabilisasi. Umpan yang digunakan adalah campuran zat warna RB 5 dengan konsentrasi 120 mg/L dan ko-substrat limbah tempe dengan COD berkisar antara 2.080-2.400 mg/L. Dengan kombinasi waktu filtrasi dan backwash 1 jam dan 1 menit, BRM dapat beroperasi selama hampir 50 hari dengan fluks rata-rata 9 lmj dan tekanan 0,8-2 bar. Komponen seluler masing-masing tangki diukur sebagai material polimer ekstraseluler (EPS) dan produk mikrobial terlarut (SMP). Efisiensi penyisihan warna pada berkisar antara 66-77%, sedangkan penyisihan COD berkisar pada 44-50%. Perpindahan biomassa antar tangki yang tidak sempurna diperkirakan telah menurunkan kinerja penyisihan senyawa organik BRM, namun perpindahan ini tidak berpengaruh terhadap EPS. Kandungan karbohidrat pada SMP maupun EPS masing-masing tangki nilainya lebih tinggi dibandingkan dengan kadar protein. Karbohidrat yang berasal dari produk-produk hidrolisis merupakan penyebab utama fouling dibandingkan protein. Konsentrasi EPS yang tinggi terdapat pada tangki stabilisasi akibat transfer oksigen yang buruk dalam struktur biofilm saat melewati membran.
+Kata kunci: Bioreaktor Membran (BRM) anoksik-oksik; zat warna azo Remazol Black 5; material polimer ekstraseluler (EPS); produk mikrobial terlarut (SMP); umur lumpur (SRT)
+
+
+PENDAHULUAN
+Industri tekstil merupakan salah satu industri
+yang mengkonsumsi air dalam jumlah yang relatif
+tinggi di dalam prosesnya, sementara air limbah yang
+dihasilkan mengakibatkan pencemaran warna yang
+persistent dan bersifat toksik meskipun konsentrasi
+yang rendah. Tanpa pengolahan, zat warna akan tetap
+di lingkungan untuk perioda yang sangat lama.
+Pengolahan biologi merupakan salah satu alternatif
+pengolahan warna yang sering digunakan selain
+pengolahan fisika-kimia, karena disamping ramah
+lingkungan dan kemampuannya untuk memineralisasi
+warna (Pandey dkk., 2007; Parshetti dkk., 2006).
+Diantara berbagai proses-proses biologi, bioreaktor
+membran (BRM) merupakan pengolahan yang
+potensial dalam pengolahan warna karena
+kemampuannya beroperasi pada umur lumpur (SRT)
+yang tinggi. Pengolahan biologi dengan umur lumpur
+yang tinggi diketahui dapat mengolah senyawa toksik
+atau yang sulit diuraikan (Sipma, 2010). Teknologi
+membran dengan ukuran pori submikron diharapkan
+dapat menahan hampir seluruh biomassa termasuk
+bakteri dan virus pada permukaan membran
+mendukung operasi BRM pada umur lumpur panjang
+(Stephenson dkk., 2000). Namun, permasalahan
+umum yang sering dijumpai pada proses bioreaktor
+membran adalah terjadinya fouling akibat
+penyumbatan pada permukaan dan pori membran.
+Foulingpada membran sebagian besar disebabkan oleh
+material polimer ekstraseluler (EPS) yaitu senyawa
+pembentuk agregat mikroba seperti biofilm, flok dan
+cairan lumpur aktif (Judd, 2006). Mikroorganisme
+dalam flok lumpur aktif berada dalam matriks
+kompleks yang terdiri protein, polisakarida, lemak dan
+asam nukleat, yang disebut sebagai EPS flok (Menniti
+dkk, 2009). EPS menurut Menniti berperan penting
+dalam pembentukan flok lumpur aktif dan
+memberikan stabilitas pada flok dalam lingkungan
+turbulensi tinggi. Ekstraksi EPS atau disebut juga
+produk mikroba terlarut (SMP) merupakan komponen
+sel terlarut yang dilepaskan selama lisis sel dan
+mempunyai pengaruh besar terhadap permeabilitas
+membran. Menniti juga melaporkan, bahwa sebagian
+besar komponen organik dalam pengolahan air limbah
+secara biologi merupakan komponen EPS terlarut
+dibandingkan dengan substrat awal. EPS terlarut
+dianggap sebagai penyebab utama foulant dalam
+sistem BRM (Chang dkk., 2002; Le-Clech dkk.,
+2006).
+Sejauh ini aerasi merupakan metoda yang
+paling umum yang sering digunakan untuk
+meminimasi fouling, sehubungan dengan
+kemampuannya untuk menghasilkan tegangan geser
+pada permukaan membran (Le-Clech dkk., 2006).
+Aerasi yang diberikan melalui pompa mempunyai
+pengaruh shear stress terhadap sel-sel
+mikroorganisme yang dipaparkan, akibatnya matriks
+EPS yang membungkus sel-sel tersebut
+akandilepaskan ke dalam medium (Kim dkk., 2001).
+Turbulensi pompa dapat menginduksi pecahnya flok
+mikroba dan menghasilkan banyak partikel koloid
+halus dan EPS yang dilepaskan berpengaruh besar
+terhadap hambatan membran.
+Penelitian untuk pengolahan zat warna azo
+RB5 telah dilakukan oleh Komala (2008)
+menggunakan bioreaktor membran anoksik-oksik
+yang terdiri dari modifikasi proses lumpur aktif
+kontak-stabilisasi yang dikombinasikan dengan
+membran ultrafiltrasi eksternal. Reaktor anoksik
+digunakan di awal proses berperan untuk proses
+pemotongan gugus azo oleh mikroorganisme aerob
+yang terlebih dahulu diaerasi dan distabilisasi pada
+proses kontak-stabilisasi, sedangkan membran
+ultrafiltrasi secara eksternal digunakan untuk
+menggantikan proses sedimentasi pada proses lumpur
+aktif konvensional.
+Untuk meminimalisasi fouling, pada penelitian
+Komala berikutnya (2011) dilakukan kombinasi waktu
+filtrasi-pencucian 3 jam-1 menit sampai 1 jam-1 menit
+serta pemberian aerasi pada umpan sebesar 0,7-1 bar.
+Adanya aerasi pada membran dapat mendukung
+pertumbuhan mikroorganisme yang melekat pada
+membran dengan suplai oksigen untuk mendegradasi
+ko-substrat, sehingga kinerja BRM meningkat.
+Pemberian aerasi pada umpan membran disertai
+dengan pengaturan waktu filtrasi dan backwash dapat
+menghasilkan fluks stabil dan waktu retensi hidrolis
+(HRT) yang diharapkan, dibanding tanpa aerasi pada
+umpan membran. Dari hasil optimasi parameter
+biologi diperoleh HRT tangki anoksik, kontak dan
+stabilisasi optimum adalah 4, 2, dan 4 jam (Komala,
+2012).
+Dalam penelitian ini akan dikaji lebih jauh
+kinerja BRM anoksik-oksik terhadap penyisihan zat
+warna azo dan senyawa organik pada umur lumpur
+rendah pada kondisi BRM optimum. Selain itu akan
+dievaluasi lebih jauh pengaruh umur lumpur tersebut
+terhadap kinerja membran serta mekanisme fouling
+yang terjadi melalui produk ekstraseluler mikroba EPS
+dan SMP pada masing-masing tangki dalam
+bioreaktor membran.
+METODE PENELITIAN
+Mikroorganisme
+Mikroorganisme yang digunakan adalah
+mikroorganisme tercampur yang berasal dari lumpur
+aktif BRM pada penelitian Komala (2012).
+Mikroorganisme ini berasal dari campuran
+mikroorganisme unit pengolahan lumpur aktif instalasi
+pengolahan air buangan industri tekstil PT Daliatex
+Bandung dan pengolahan industri zat warna Dystar
+Cilegon.Mikroorganisme ini kemudian dibiakkan menggunakan campuran ko-substrat limbah tempe dan
+zat warna sebagai umpan dalam reaktor batch dengan
+volume 5 L dan diaerasi secara aerob. Pembubuhan
+NaOH diberikan pada larutan sampai diperoleh pH
+yang netral. Hasil biakan mikroorganisme dimasukkan
+ke dalam BRM untuk percobaan selanjutnya.
+Ko-substrat dan Zat Warna
+Ko-substrat limbah tempe yang digunakan
+sebagai sumber organik, bersifat asam dengan pH
+antara 4-5, yang berasal dari air limbah hasil
+perebusan tempe. Karakteristik air limbah tempe yang
+diperoleh dari penelitian sebelumnya (Komala dkk,
+2013) dapat dilihat pada Tabel 1. Kandungan organik
+air limbah tempe adalah 5,880 mg COD/L dan 1,865
+mgBOD/L, lebih tinggi dibandingkan dengan COD 4
+g/L yeast extract, yaitu 3,167 mg /L (Komala, 2011).
+Tabel 1. Karakteristik air limbah industri tempe
+Parameter Konsentrasi [mg/L]
+COD 5.880
+BOD 1.865
+NO3 219,69
+NO2 2,15
+NH4 453
+TKN 690
+Cl- 74,3
+PO4
+-3 587
+SO4
+-2 115,78
+Al 7,93
+Ca 9,28
+Fe 10,47
+K 12,76
+Mg 8,81
+Na 10,96
+Sumber : Komala dkk. (2013)
+Pada percobaan batch sebelumnya diperoleh
+ko-substrat limbah tempe optimum berkisar antara
+8%-10% v/v limbah industri tempe terhadap larutan
+substrat total (Komala, 2010). Zat warna yang
+digunakan adalah zat warna azo reaktif Remazol
+Black-5dengan konsentrasi 120 mg/L. Panjang
+gelombang diukur dengan Spectrophotometer
+Shimadzu UV-2600. Panjang gelombang optimum zat
+warna azo Remazol Black 5 diperoleh pada 600 nm.
+Nilai puncak panjang gelombang ini masih berada
+pada rentang 595-609 nm seperti yang diperoleh pada
+beberapa penelitian sebelumnya (You dkk., 2010;
+Komala, 2011; Wulandari, 2013).
+Bioreaktor Membran Anoksik-oksik
+Instalasi bioreaktor membran anoksik-oksik
+(Gambar 1) yang digunakan dalam penelitian ini
+berasal dari penelitan sebelumnya (Komala dkk.,
+2011). Pada penelitian ini membran yang digunakan
+adalah jenis ultrafiltrasi hollow fiber GDP filter yang
+terbuat dari bahan PS (poly sulfone) dengan diameter
+Fiber ID/OD 0,8 mm/2,1 mm, panjang membran 495
+mm, luas membran 0,24 m2. Prosedur operasional
+mengacu kepada penelitian Komala dkk. (2011).
+Umpan dialirkan melalui pompa dengan laju
+aliran 1 L/jam ke dalam tangki anoksik yang
+dilengkapi mixer dengan putaran 40 rpm untuk
+mengaduk larutan. Dari tangki anoksik larutan
+biomassa kemudian secara gravitasi dialirkan ke
+dalam tangki kontak dan diaerasi. Larutan kemudian
+dipompakan ke membran eksternal menggunakan
+pompa diafragma dengan laju alir 1 L/jam dan tekanan
+operasi antara 0,8-2 bar, menghasilkan permeate
+sebagai hasil penyaringan dan retentate berupa
+konsentrasi biomassa yang kemudian masuk ke dalam
+tangki stabilisasi. Aliran dalam membran dilakukan
+secara crossflow dan secara periodik dilakukan
+pencucian dengan air bersih berlawanan arah aliran
+normal dari sel ke lumen membran. Interval pencucian
+dikontrol dengan pengatur waktu dan katup solenoid
+dengan perbandingan waktu 1 jam filtrasi dan 1 menit
+backwash.
+Biomassa dari tangki stabilisasi selanjutnya
+diresirkulasikan ke tangki anoksik dan bercampur
+kembali dengan umpan yang masuk. Waktu retensi
+hidrolis (HRT) tangki anoksik, kontak dan stabilisasi
+dijaga konstan yaitu 4, 2, dan 4 jam. Secara periodik
+fluks diukur dengan menghitung waktu yang
+diperlukan untuk mendapatkan volume tertentu.
+Konsentrasi warna umpan, bak anoksik, kontak,
+stabilisasi dan permeate membran diamati setiap hari,
+setelah kondisi tunak konsentrasi MLVSS, warna, dan
+COD di setiap reaktor diukur berdasarkan APHA
+(1995).
+Umur Lumpur (SRT)
+Umur lumpur dihitung dari perbandingan
+jumlah biomassa dalam bioreaktor dengan jumlah
+biomassa yang meninggalkan bioreaktor (persamaan
+1). Pembuangan lumpur dapat dilakukan di tangki
+stabilisasi, namun jika kadar lumpur di permeate
+cukup tinggi, maka pembuangan lumpur di tangki
+stabilisasi dilakukan dengan memperhitungkan kadar
+lumpur di permeate.
+𝜃𝑐 =
+𝑋𝑎𝑛 .𝑉𝑎𝑛 + 𝑋𝑘 .𝑉𝑘 + 𝑋𝑠 .𝑉𝑠
+𝑞𝑤 .𝑋𝑠 + (𝑄−𝑞𝑤 )𝑋𝑒
+(1)
+Dimana:
+Q = Debit yang masuk (L/hari)
+Xk = Konsentrasi biomassa di tangki kontak (mg/L)
+Vk = Volume tangki kontak (L)
+Xs = Konsentrasi biomassa di tangki stabilisasi (mg/L)
+Vs = Volume tangki stabilisasi (L)
+Xe = Konsentrasi biomassa di permeate (mg/L)
+qw = Debit lumpur yang dibuang (L/hari)
+
+Permeabilitas Membran
+Permeabilitas membran adalah perbandingan
+nilai fluks terhadap tekanan, seperti yang dapat dilihat
+pada persamaan 2.
+𝑃 =
+𝐽
+𝑇𝑀𝑃
+(2)
+Dimana:
+P = permeabilitas [L/m2.jam.bar]
+J = fluks permeasi [L/m2.jam] atau LMJ
+TMP = tekanan lintas membran[bar]atau[Pa]
+Permeabilitas awal membran menggunakan air
+murni (aquades) dilakukan pada berbagai tekanan
+operasi BRM (0,2-0,8 bar). Peralatan yang digunakan
+untuk mengukur permeabilitas membran adalah
+pompa diafragma debit 0,4 L/menit, membran
+ultrafiltrasi dengan luas = 0,24 m2, pressure gauge,
+stopwatch dan gelas ukur. Aquades dipompakan ke
+dalam membran selama 5 menit melalui bagian input.
+Waktu diukur dengan menggunakan stopwatch,
+tekanan diatur pada 0,2 bar. Permeat yang keluar
+ditampung selama waktu tersebut dan volume yang
+tertampung diukur dengan menggunakan gelas ukur.
+Prosedur yang sama dilakukan untuk tekanan 0,4 bar,
+0,6 bar, 0,8 bar.
+Pengukuran EPS dan SMP
+Perubahan kandungan material polimer
+ekstraseluler protein dan karbohidrat dari filtrat (SMP)
+dan sludge (EPSc dan EPSp) lumpur aktif pada
+masing-masing reaktor diukur. Prosedur pengukuran
+EPS dan SMP dilakukan dengan metoda pemanasan
+(Le-Clech dkk., 2006). Sampel berupa larutan
+tersuspensi yang berasal dari reaktor-reaktor tangki
+umpan, anoksik, kontak, permeate dan stabilisasi
+diambil sebanyak 50 ml, lalu disentrifugasi selama 5
+menit pada 5000 g. Supernatant hasil sentrifugasi
+disaring menggunakan kertas saring 1,2 μm.
+Supernatant saring diukur kandungan protein dan
+karbohidratnya sebagai SMPp dan SMPc. Filtrat hasil
+sentrifugasi diberi air deionisasi sampai volume
+seperti sampel awal, kemudian diaduk selama 10
+menit dan dipanaskan selama 10 menit dengan suhu
+80ºC dan disentrifugasi 7000 g selama 10 menit.
+Supernatant hasil sentrifugasi disaring menggunakan
+kertas saring 1,2 μm, Supernatant saring diukur
+kandungan protein dan karbohidratnya sebagai EPSp
+(protein) dan EPSc (karbohidrat).
+SMPp dan EPSp (protein) diukur dengan
+metode Lowry, sedangkan SMPc dan EPSc
+(karbohidrat) diukur dengan prinsip Dubois
+menggunakan Metode Fenol-Sulfat (Le-Clech dkk.,
+2006).
+HASIL DAN PEMBAHASAN
+Permeabilitas Membran
+Dari hasil percobaan uji permeabilitas
+membran awal dengan menggunakan aquadest pada
+tekanan operasi membran 0,2-0,8 bar menghasilkan
+fluks yang berkisar antara 1,4-11,75 lmj. Semakin
+meningkatnya tekanan operasi, nilai fluks semakin
+meningkat akan tetapi tidak demikian halnya dengan
+nilai permeabilitas. Permeabilitas membran yang
+diperoleh melalui regresi pengukuran fluks air bersih
+terhadap tekanan antara 0,2-0,8 bar merupakan nilai
+slope yaitu 14,7 lmj/bar (Gambar 3).
+
+Gambar 3. Permeabilitas membran
+Nilai permeabilitas yang diperoleh relatif
+rendah bila dibandingkan dengan nilai permeabilitas
+membran ultrafiltrasi. Menurut Mulder (1996) nilai
+permeabilitas untuk membran ultrafiltrasi berada pada
+kisaran 50-500 lmj/bar. Rendahnya nilai permeabilitas
+yang diperoleh disebabkan karena tekanan operasi
+BRM yang digunakan relatif kecil dibandingkan
+tekanan operasi membran ultrafiltrasi yang umum
+digunakan yaitu 1,5-2,5 bar (Mulder, 1996).
+Penyisihan Warna dan COD pada Bioreaktor
+Membran Anoksik-oksik
+Hasil pengukuran efisiensi penyisihan warna
+pada SRT 2 dan 5 hari dapat dilihat pada Gambar 4,
+sedangkan jumlah biomassa sebagai VSS dalam
+masing-masing bioreaktor pada umur lumpur tersebut
+diperlihatkan pada Tabel 2.
+Gambar 4. Efisiensi penyisihan warna dan COD
+pada SRT 2 dan 5 Hari
+Tabel 2. Konsentrasi biomassa dalam reaktor pada
+SRT 2 dan 5 hari
+SRT
+(hari)
+VSS (mg/hari)
+Tangki Anoksik
+Tangki
+Kontak
+Tangki
+Stabilisasi
+2 369 440 526
+5 2083 1562 2409
+Efisiensi penyisihan warna pada grafik diatas
+diperoleh dari selisih konsentrasi warna pada tangki
+inlet dan permeat. Terlihat bahwa efisiensi penyisihan
+warna pada bioreaktor membran anoksik-oksik pada
+kondisi SRT 2 hari yaitu 66%, sedangkan pada SRT 5
+hari lebih tinggi yaitu 77%. Sebaliknya penyisihan
+COD pada SRT 2 hari sedikit lebih tinggi
+dibandingkan SRT 5 hari yaitu 50% terhadap 44%.
+Peningkatan umur lumpur dari 2 hari menjadi 5
+hari telah meningkatkan jumlah biomassa keseluruhan
+dalam reaktor. Peningkatan ini juga mengakibatkan
+mikroorganisme yang berperan untuk mendegradasi
+warna khususnya di tangki anoksik semakin
+bertambah, sehingga meningkatkan efisiensi
+penyisihan warna. Komala (2011) mengungkapkan
+mikroorganisme di tangki anoksik merupakan
+mikroorganisme yang paling berperan dalam
+pemutusan warna. Kondisi yang bertolakbelakang
+terjadi pada penyisihan senyawa organik,
+meningkatnya umur lumpur telah menurunkan
+penyisihan senyawa organik. Meskipun konsentrasi
+biomassa meningkat di keseluruhan bioreaktor, namun
+terjadi penurunan biomassa di tangki kontak yang
+masuk dari tangki anoksik. Komala melaporkan
+bahwa mikroorganisme yang hidup di tangki kontak
+adalah mikroorganisme dominan yang melakukan
+penyisihan senyawa organik. Jumlah mikroorganisme
+yang berkurang diperkirakan telah menurunkan
+kinerja BRM keseluruhan dalam menyisihkan
+senyawa organik.
+Hasil yang diperoleh dalam penelitian ini
+sedikit berbeda dengan hasil yang diperoleh Lorenco
+dkk. (2001). Diungkapkan bahwa, peningkatan SRT
+dari 10 hari menjadi 15 hari pada zat warna Remazol
+Briliant Violet 5R pada konsentrasi 100 mg/L dapat
+meningkatkan penyisihan warna maupun penyisihan
+COD, namun ketika digunakan zat warna Remazol
+Black B saat SRT 15 dan 20 hari pada sistem yang
+sama penyisihan warna tetap rendah, tidak terjadi
+peningkatan penyisihan. Diperkirakan bahwa struktur
+Remazol Black B yang lebih kompleks menyebabkan
+tingkat penyisihan warna yang lebih rendah jika
+dibandingkan dengan Remazol Briliant Violet 5R. Hal
+yang sama diperoleh oleh Kapdan dan Ozturk(2005)
+bahwa kenaikan SRT dari 12 hari menjadi 15 dapat
+meningkatkan penyisihan COD dan dekolorisasi
+Remazol Red RR, namun peningkatan SRT dari 15
+hari menjadi 30 hari tidak terdapat peningkatan
+penyisihan COD. Jika dibandingkan penelitian
+tersebut, hasil penelitian yang dilakukan saat ini masih
+berada pada rentang SRT rendah, sehingga kinerja
+penyisihan warna maupun COD masih belum optimal.
+Perpindahan biomassa yang tidak sempurna dari
+tangki anoksik ke tangki kontak serta dari membran ke
+tangki stabilisasi turut menurunkan kinerja penyisihan
+senyawa organik yang diperoleh.
+Kinerja Membran
+BRM anoksik-oksik dapat beroperasi selama
+44 hari dengan fluks rata-rata 11 lmj dan tekanan
+berkisar antara 0,8-2 bar (Gambar 5). Pada hari ke 14
+sd 19, 24-25 dan 41 terjadi permasalahan dalam
+pompa membran dan umpan, sehingga operasi dihentikan. Selama penghentian BRM tersebut aerasi
+pada masing-masing tangki tetap dijalankan untuk
+menjaga biomassa tetap hidup. Dari nilai tersebut
+diperoleh permeabilitas rata-rata 7,36 lmj/bar.
+Gambar 5. Kinerja membran selama 44 hari operasi
+Permeabilitas membran mengalami penurunan
+dari semula 18,2 lmj/bar akibat interaksi membran
+dengan biomassa. Relatif stabilnya nilai permeabilitas
+yang diperoleh disebabkan oleh adanya aplikasi sistem
+autobacwash setiap jam dengan durasi 1 menit selama
+pengoperasian membran. Hal ini dapat dilihat sampai
+40 hari beroperasi nilai fluks masih cukup stabil
+meskipun tekanan mulai naik di atas 2 bar. Fluks
+membran dioperasikan pada fluks konstan agar debit
+yang masuk dan keluar dari BRM sama dan HRT pada
+masing reaktor dapat dijaga stabil. Pada hari-hari
+terakhir nilai fluks meningkat di atas 20 LMJ dan
+tekanan 2,1 bar. BRM yang beroperasi pada fluks
+konstan dan rendah disertai dengan tekanan membran
+konstan dapat mereduksi fouling melalui reduksi gaya
+konvektif terhadap membran (Le-Clech dkk., 2006),
+sehingga BRM dapat beroperasi dalam jangka
+panjang. Laju fluks yang diperoleh dari penelitian ini
+berada di bawah rentang BRM terendam menurut
+Stephenson (2000) yaitu 20-200 Lmj/bar, namun
+masih berada pada rentang spesifik fluks membran
+sidestream UF yang beroperasi pada 1-2 bar dan
+kecepatan crossflow 1,5 m/detik yaitu 90 Lmj/bar, dan
+setelah 80 hari beroperasi turun menjadi 15 Lmj/bar.
+SMP dan EPS
+Limbah tempe yang digunakan sebagai kosubstrat
+pada BRM anoksik-oksik ini memiliki
+kandungan senyawa organik dan nutrien yang tinggi
+bahkan jika dibandingkan dengan yeast extract.
+Namun di pihak lain komponen ini merupakan
+penyebab fouling pada membran. Le-Clech dkk.(2006)
+menyatakan bahwa mekanisme fouling akibat material
+terlarut dan koloid diperkirakan lebih berperan dalam
+penyumbatan pori membran, sedangkan padatan
+tersuspensi berkontribusi terutama pada
+resistensi/hambatan lapisan cake. Pada Gambar 6 dan
+7 dapat dilihat kandungan SMP dan EPS pada masingmasing
+reaktor pada umur lumpur 2 hari. Kandungan
+karbohidrat pada masing-masing tangki memiliki nilai
+yang lebih tinggi jika dibandingkan dengan kadar
+protein baik pada parameter SMP maupun EPS.
+Sementara itu, total SMP (protein dan karbohidrat)
+pada tangki-tangki aerob yaitu tangki kontak dan
+stabilisasi nilainya lebih tinggi dibandingkan dengan
+tangki anoksik. Komponen SMP yang tinggi ini
+merupakan produk dari hidrolisis substrat dan lisis sel
+baik akibat biomassa yang mati dan akibat turbulensi
+aerasi. Hal ini juga ditegaskan oleh Judd (2006) bahwa
+nilai SMP pada proses aerob lebih tinggi dibandingkan
+dengan SMP pada kondisi anaerob. Nielsen dkk.
+(1997) juga melaporkan, bahwa komponen mikroba
+terlarut atau SMP dilepaskan ke dalam larutan akibat
+produk lisis sel, produk hidrolisis dari degradasi
+substrat influen serta erosi akibat turbulensi
+permukaan.
+Gambar 6. Kandungan SMP protein dan karbohidrat
+dalam reaktor
+Gambar 7. Kandungan EPS protein dan karbohidrat
+dalam reaktor
+Jika dilihat dari penyisihan senyawa organik
+sebagai COD, konsentrasi senyawa organik telah
+mengalami penurunan sekitar 44-50% akibat dari
+proses degradasi mikroorganisme dan membentuk
+produk hidrolisis yang bergabung dengan produk lisis
+sel mikroba. Produk mikroba yang paling tinggi dalam
+bioreaktor adalah karbohidrat, komponen koloid
+karbohidrat baik dalam SMP maupun EPS inilah yang
+diperkirakan merupakan komponen dominan dalam
+membran fouling. Sejalan dengan yang dilaporkan
+oleh Drews dkk. (2006a) bahwa fraksi koloid polisakarida menunjukkan potensi fouling yang lebih
+tinggi.
+Konsentrasi protein SMP yang meningkat pada
+permeate setelah melewati membran menunjukkan
+bahwa terdapat kandungan protein biomassa yang
+dilepaskan ke dalam larutan setelah melewati
+membran. Dibandingkan pada tangki-tangki
+sebelumnya kandungan protein pada kisaran 2.000
+mg/L, sedangkan pada permeate nilainya meningkat
+tajam hampir mencapai 9.000 mg/L. Konsentrasi
+protein SMP yang diukur berasal dari suspensi lumpur
+yang terbawa dalam permeat, yang memperlihatkan
+banyaknya protein yang terikat pada biomassa
+tersuspensi dan tertahan ketika berada di membran
+kemudian terbawa aliran melalui permeate. Hal ini
+juga ditegaskan oleh Drews dkk. (2006b), bahwa
+fraksi yang dianalisa sebagai protein juga
+mengandung komponen humus yang biasanya dapat
+melewati membran.
+Oleh karena itu, kandungan protein yang ada
+dalam permeate juga mewakili kandungan protein
+yang tertahan di membran. Kandungan SMP protein
+pada permeate jauh lebih tinggi dibandingkan protein
+dalam umpan yaitu 1.635 mg/L, diperkirakan
+akumulasi protein yang tertahan pada membran
+semakin meningkat dengan berjalannya waktu operasi
+bioreaktor. Nilai SMP yang tinggi juga berkaitan
+dengan waktu tinggal biomassa (HRT) di seluruh
+tangki yaitu 10 jam, yang mengakibatkan kematian
+biomassa meningkat dan berkontribusi terhadap
+pembentukan koloid dan material terlarut.
+Menurut Judd (2006) protein lebih bersifat
+hidrofobik, sedangkan karbohidrat lebih bersifat
+hidrofilik terhadap membran. Akibatnya protein lebih
+banyak dilepaskan ke larutan dibandingkan dengan
+karbohidrat, yang kemudian terbawa ke aliran
+permeate, sedangkan sebagian karbohidrat tertahan
+pada membran. Karbohidrat yang berikatan dengan
+membran tersebut diperkirakan merupakan penyebab
+fouling pada membran. Judd (2006) juga menegaskan
+pada SRT yang rendah senyawa polisakarida SMP
+berperan utama terhadap fouling.
+Umpan yang terdiri dari campuran zat warna
+dan limbah tempe memiliki kandungan karbohidrat
+yang lebih tinggi dibandingkan dengan protein.
+Berbeda dengan komposisi limbah tempe pada
+penelitian sebelumnya (Komala, 2011), dimana
+kandungan protein limbah tempe lebih besar dari
+karbohidrat. Komposisi umpan pada kedua penelitian
+memperlihatkan kecenderungan yang sama terhadap
+komposisi SMP di reaktor-reaktor. Pada umpan
+dengan komposisi protein yang tinggi, maka
+komposisi protein pada reaktor-reaktor pun memiliki
+komposisi SMP protein yang tinggi juga, demikian
+juga pada umpan yang memiliki karbohidrat yang
+tinggi komposisi karbohidrat di reaktor-reaktornya
+juga menunjukkan kandungan karbohidrat yang tinggi.
+Meskipun demikian, kecenderungan yang sama terjadi
+pada permeat, dimana kandungan SMP protein di
+kedua penelitian lebih tinggi dibandingkan kandungan
+karbohidratnya meskipun komposisi umpan berbeda.
+Seperti komposisi karbohidrat dan protein
+dalam umpan, setelah masuk ke dalam tangki-tangki
+dalam BRM anoksik-oksik pola komposisi kedua
+material tersebut dalam EPS tidak berubah. Jumlah
+total karbohidrat dan protein dan komposisinya dalam
+EPS di ketiga tangki terlihat tidak berubah signifikan,
+memperlihatkan tidak terjadi kerusakan pada biomassa
+setelah perpindahan dari masing-masing tangki.
+Konsentrasi EPS karbohidrat pada tangki stabilisasi
+yaitu 5.469 mg/L sedikit mengalami peningkatan
+setelah melalui membran dari semula 4.999 mg/L
+pada tangki kontak. Terjadinya zona anaerobik pada
+lapisan fouling pada membran menyebabkan
+terjadinya peluruhan endogenous, sehingga kondisi ini
+mengakibatkan peningkatan konsentrasi karbohidrat.
+Bakteri-bakteri yang ada pada BRM merupakan
+kombinasi bakteri aerob dan fakultatif anaerob,
+adanya transisi antara kondisi aerobik dan anaerobik
+menyebabkan stress pada bakteri bahkan dapat
+menyebabkan lisis sel, sehingga dihasilkan
+konsentrasi protein dan karbohidrat yang nilainya
+cukup tinggi pada tangki stabilisasi.
+Fenomena lainnya dapat terlihat pada nilai
+EPS protein pada tangki-tangki aerob yaitu tangki
+kontak dan stabilisasi lebih tinggi dibandingkan EPS
+protein tangki anoksik, dan EPS karbohidrat tangki
+stabilisasi lebih tinggi dibandingkan dengan tangki
+anoksik. Namun EPS karbohidrat tangki anoksik
+masih lebih tinggi dibandingkan tangki kontak. Aerasi
+yang dilakukan lebih panjang pada tangki stabilisasi
+dapat meningkatkan kandungan protein maupun
+karbohidrat pada lumpur, jika dibandingkan dengan
+flok yang tanpa adanya aerasi pada tangki anoksik.
+Yun dkk (2006) menyatakan bahwa jumlah
+polisakarida yang diekstraksi dari biofilm aerob lebih
+tinggi jika dibandingkan dengan biofilm anoksik,
+menunjukkan struktur flok aerob lebih kuat jika
+dibandingkan dengan anaerob. Pengukuran kandungan
+SMP dan EPS pada membran dengan cara
+pembedahan membran diperlukan pada penelitian
+selanjutnya, untuk mengetahui secara jelas perubahan
+komposisi protein dan karbohidrat ketika berada pada
+membran.
+KESIMPULAN
+Bioreaktor membran (BRM) aerob-anoksik
+telah dioperasikan untuk biodegradasi zat warna azo
+Remazol Black 5 selama hampir 50 hari menggunakan
+ko-substrat air limbah industri tempe serta umur
+lumpur rendah. BRM beroperasi pada fluks rata-rata 9
+lmj dan tekanan 0,8-2 bar dengan mengaplikasikan
+sistem autobackwash setiap jam filtrasi dengan durasi
+1 menit dan menghasilkan penyisihan warna berkisar
+pada 66-77%, sedangkan penyisihan COD pada
+kisaran 44-50%.Jumlah EPS total di seluruh tangki
+dalam BRM tidak mengalami perubahan signifikan,
+hal ini memperlihatkan tidak terjadi kerusakan pada
+biomassa setelah perpindahan dari masing-masing tangki maupun akibat turbulensi pompa.Kandungan
+karbohidrat SMP dan EPS pada seluruh tangki
+memiliki nilai yang lebih tinggi dibandingkan dengan
+kadar protein, diperkirakan karbohidrat sebagai
+penyebab fouling pada membran.
+Konsentrasi EPS tertinggi terdapat pada tangki
+stabilisasi akibat transfer oksigen yang buruk dalam
+struktur biofilm saat melewati membran.Komposisi
+protein dan karbohidrat dalam umpan mempengaruhi
+komposisi SMP pada masing-masing tangki BRM,
+namun tidak mempengaruhi komposisi SMP pada
+permeate, dimana kandungan protein permeate lebih
+tinggi dibandingkan karbohidrat akibat akumulasi
+protein pada membran yang terbawa pada aliran.

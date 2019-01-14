@@ -1,0 +1,191 @@
+﻿ABSTRAK
+Telah dilakukan penelitian yang berjudul Pengaruh Variasi Waktu Pembalik
+(Time Inversion) terhadap Citra Coronal Studi Pemeriksaan MRI kepala. Tujuan
+dari penelitian ini adalah untuk mengetahui pengaruh variasi waktu pembalik (TI)
+terhadap kualitas citra, yaitu nilai Signal to Noise Ratio (SNR) dan nilai Contras to
+Noise Ratio (CNR) serta mengetahui nilai waktu pembalik (TI) yang tepat untuk
+mendapatkan kualitas citra T1 TIR coronal optimal dalam membantu penegakkan
+identifikasi kelainan saraf epilepsi. Penelitian ini, menggunakan pesawat MRI tipe
+Simens Magneton Essenza 1,5 Tesla. Pengambilan data diperoleh dari dua belas
+responden dengan 5 variasi nilai waktu pembalik (TI) (400 ms, 500 ms, 600 ms,
+700 ms dan 800 ms) dengan memperoleh total 60 citra. Melakukan evaluasi nilai
+SNR dan CNR jaringan dengan pengukuran ROI secara langsung pada perangkat
+MRI. Analisis nilai SNR dilakukan pada jaringan cerebrospinal fluid (CSF), white
+matter (WM), gray matter (GM), hipokampus kanan (Hka), dan hipokampus kiri
+(Hki). Nilai CNR dievaluasi pada jaringan CSF-WM, WM-GM, GM-CSF, dan
+Hka-Hki. Hasil nilai SNR dan CNR dilakukan analisis menggunakan uji MANOVA
+dan uji Korelasi Pearson untuk mengetahui pengaruh variasi TI. Sementara
+penentuan nilai optimal TI dengan analisis matematis yang menghasilkan
+persamaan garis antara nilai SNR dan nilai CNR. Hasil penelitian menunjukkan
+bahwa baik pada kelompok responden normal dan kelompok responden kelainan,
+variasi waktu pembalik (TI) berpengaruh signifikan dan memiliki pengaruh yang
+kuat terhadap nilai SNR dan nilai CNR jaringan yang dievaluasi. Hal ini berbeda
+dengan variasi waktu pembalik (TI) pada nilai CNR jaringan Hka-Hki yang tidak
+memiliki pengaruh pada kelompok responden normal, sedangkan memiliki
+pengaruh yang lemah pada kelompok responden kelainan. Hasil analisis persamaan
+garis nilai SNR dan CNR diperoleh titik potong pada variasi TI 600 ms – 700 ms.
+Berdasarkan hasil penelitian dapat disimpulkan bahwa, waktu pembalik TI
+berpengaruh terhadap nilai kualitas citra coronal T1 TIR dan nilai optimal TI untuk
+pemeriksaan MRI kepala pada citra coronal T1 TIR menggunakan rentang TI
+sebesar 600 ms – 700 ms.
+Kata Kunci: waktu pembalik (TI), nilai SNR, nilai CNR, MRI kepala, citra coronal
+T1 TIR
+
+
+BAB I PENDAHULUAN 1.1 Latar Belakang Masalah Kelainan saraf pada kepala terutama pada bagian otak memiliki klasifikasi dan penyebab yang berbeda-beda. Otak merupakan organ yang sangat penting, karena selain mengontrol diri sendiri dalam fungsi kognitif, juga mengontrol fungsi motorik untuk seluruh organ tubuh. Beberapa kemungkinan kelainan saraf sulit untuk dideteksi secara langsung tanpa pemeriksaan tambahan yang menunjang identifikasi kelainan tersebut. Salah satu kelainan saraf yang sulit diidentifikasi tanpa pemeriksaan yang mendalam adalah kelainan saraf epilepsi karena terjadinya serangan epileptik pada umumnya tanpa adanya faktor yang memprovokasi. Masalah dalam penanganan epilepsi adalah menentukan dengan pasti diagnosis epilepsi sehingga sebelum pengobatan dimulai diagnosis epilepsi harus ditegakkan terlebih dahulu (Mardjono, 2003). Diagnosis dan pengobatan epilepsi tidak dapat dipisahkan sebab pengobatan yang sesuai dan tepat hanya dapat dilakukan dengan diagnosis epilepsi yang tepat pula (Oguni, 2004). Ada 4 cara dokter dalam mendiagnosis kelainan epilepsi antara lain, riwayat kejang, tes fisik, elektroenchepalograph (EEG), dan pemeriksaan tambahan berupa pencitraan otak (Ahmed dkk, 2004). Pemeriksaan tambahan yang dilakukan adalah pemeriksaan radiologi yang merupakan pemeriksaan untuk melengkapi informasi hasil dari EEG. Pemeriksaan radiologi ini, bertujuan untuk melihat kelainan struktural di otak (pencitraan) yang 
+sering disebut sebagai pemeriksaan neuroimaging. Dua yang paling umum
+digunakan dalam pemeriksaan adalah CT-scan dan MRI. Pada penelitian Suwarba
+(2011) menyebutkan bahwa pada anak epilepsi ditemukan hasil CT-scan kepala
+abnormal pada sekitar 7%-24% kasus, sedangkan MRI kepala abnormal ditemukan
+pada hampir 50% epilepsi fokal atau parsial (Gaillar dkk, 2009). MRI adalah teknik
+pilihan yang lebih unggul daripada CT-scan karena dapat mengidentifikasi
+penyebab dasar epilepsi (Alam-Eldeen, 2015). Bila dibandingkan dengan CT-scan,
+MRI lebih sensitif dan secara anatomis akan tampak lebih rinci karena daya pisah
+jaringan lunak MRI lebih tinggi akibat prinsip dasar pencitraan MRI yang mengacu
+pada waktu relaksasi masing-masing jaringan. Berbeda untuk citra yang dihasilkan
+CT-scan yang bergantung pada koefisien adsropsi radiasi suatu jaringan, dimana
+CT-scan kurang sensitif dalam mendeteksi perbedaan daya adsropsi beberapa
+jaringan yang memiliki struktur atom hampir mirip.
+Magnetic Resonance Imaging (MRI) merupakan teknik pencitraan penampang
+tubuh berdasarkan prinsip resonansi magnetik inti atom hidrogen akibat pemberian
+sinyal radio frekuensi (RF) yang memiliki frekuensi sesuai dengan frekuensi presesi
+(lanmor frequency) (Westbrook dkk, 2011). Ketika pemberian RF dihentikan maka
+atom hidrogen tubuh akan mengalami relaksasi atau kembali ke posisi semula
+(recovery), melepaskan energi yang diserap, dan menimbulkan signal yang akan
+diproses menjadi citra. Teknik pencitraan MRI relatif komplek karena gambar yang
+dihasilkan bergantung pada banyak parameter. Bila pemilihan parameternya tepat,
+kualitas gambar detail tubuh manusia akan tampak jelas, sehingga anatomi maupun
+patologi jaringan tubuh dapat dievaluasi secara teliti (Notosiswoyo dkk, 2004).
+
+
+
+Salah satu manfaat dari MRI yaitu, mampu membandingkan hipokampus
+kanan dan kiri. Selain itu, abnormalitas MRI otak yang paling banyak ditemukan
+pada penderita epilepsi parsial adalah sklerosis hipokampus (Foldvary, 1999).
+Fokus pemeriksaan pada kelainan epilepsi, adalah pada lobus temporalis tepatnya
+pada bagian hipokampus. Pemeriksaan kelainan pada hipokampus dengan pencitran
+MRI optimal adalah pada perpotongan coronal, dimana menghasilkan pencitraan
+dengan perpotongan pada sumbu Y (Reiser dkk, 2013). Kelainan saraf epilepsi
+dapat dideteksi secara anatomis (letak kelainan) dengan pengaturan pembobotan T1
+pada pencitraan MRI. T1 merupakan waktu relaksasi yang dibutuhkan atom
+hidrogen suatu jaringan untuk kembali pada posisi bidang magnetisasi longitudinal
+hingga mencapai posisi pemulihnya sebesar 63%. Pembobotan T1 diperoleh
+dengan pengaturan parameter echo time (TE) dan repetition time (TR) bernilai
+pendek. Karakteristik dari image T1 weighted adalah lemak nampak terang dan air
+nampak gelap karena kedua jaringan tersebut memiliki posisi pemulihnya masingmasing
+akibat adanya fenomena relaksasi yang ditimbulkan setelah pemberian
+gelombang radio frekuensi dihentikan.
+Menurut Westbrook (2011), nilai pembobotan T1 untuk menghasilkan citra
+yang lebih jelas mendeteksi kelainan secara anatomis yaitu, dengan mengatur
+parameter TE sebesar 10-20 ms dan parameter TR > 3000 ms. Selain itu,
+menggunakan sekuen pulsa Inversion Recovery (IR) agar hasil citra lebih jelas dan
+detail (Westbrook dkk, 2011). Inversion Recovery merupakan sekuen pulsa
+penginversi atom hidrogen sebesar 180° dari sumbu-z posistif ke arah sumbu-z
+negatif yang dilanjutkan dengan pulsa transisi sebesar 90° dan repashing sebesar
+180° yang merupakan variasi dari sekuen pulsa spin echo. Oleh karena itu, waktu
+yang dibutuhkan untuk masing-masing jaringan berelaksasi ke posisi semula cukup
+lama. Pemberian gelombang radio frekuensi penginversi 180° menghasilkan
+perbedaan kontras yang jelas antara lemak dan air karena saturasi penuh dari vektor
+lemak dan air telah tercapai pada permulaan setiap repetisi. Sekuen pulsa IR
+memperbesar sinyal dari struktur-struktur hiperintens yang diibaratkan sebagai
+hasil dari injeksi kontras. Waktu antara pulsa pembalik 180° yang pertama dan
+pulsa 90° dikenal sebagai waktu pembalik atau time inversion (TI). Variasi nilai
+time inversion (TI) dapat mengontrol sinyal jaringan yang berbeda sehingga
+menghasilkan perbedaan kontras yang sangat jelas. Kontras gambar yang
+dihasilkan pada pembobotan T1 juga bergantung dari pengaturan panjang
+pendeknya time inversion (TI) (Westbrook dkk, 2011).
+Penelitian Melhem (1998), mengungkapkan bahwa hasil deteksi lesi otak pada
+pencitraan MRI dengan TI sebesar 683 ms, namun pada penelitian ini tidak terfokus
+pada kelainan lesi otak kasus epilepsi. Pada penelitian Phal (2008) mengenai
+perbandingan keunggulan citra MRI 1,5 T dengan 3 T kasus epilepsi perpotongan
+coronal dan penelitian Alam-Eldeen (2015) menyebutkan keunggulan MRI
+daripada CT-scan dalam kasus epilepsi dengan pencitraan FLAIR menggunakan
+pengaturan TI panjang yaitu > 1700 ms. Penelitian lain, yaitu Hou (2005)
+menggunakan citra T1 dengan sekuen pulsa IR pada nilai TI sebesar 430 ms
+menghasilkan kontras yang terbaik. Selain itu, menurut Westbrook (2011) untuk
+menghasilkan kontras citra terbaik dalam pembobotan citra T1 dengan
+mengaplikasikan sekuen pulsa Inversion Recovery (IR), menggunakan rentang nilai
+TI medium antara 400 ms sampai 800 ms.
+Oleh karena itu, pada penelitian kali ini dilakukan analisis variasi time
+inversion (TI) rentang medium yaitu, 400 ms sampai 800 ms terhadap citra T1
+weighted True Invers Recovery (T1 TIR) coronal studi pemeriksaan MRI kepala
+sebagai identifikasi kelainan saraf epilepsi. Variasi nilai TI (time inversion) akan
+berpengaruh terhadap nilai signal to noise ratio (SNR) dan nilai contras to noise
+ratio (CNR) yang merupakan parameter kualitas hasil citra MRI untuk
+menghasilkan citra yang cukup jelas dan detail. Hasil dari penelitian ini diharapkan
+dapat menghasilkan kualitas citra T1 TIR yang optimal pada pemeriksaan MRI
+kepala dalam mendeteksi kelainan epilepsi.
+1.2 Rumusan Masalah
+Bedasarkan latar belakang masalah, dapat dirumuskan sebagai berikut:
+1. Bagaimana pengaruh nilai waktu pembalik TI (time inversion) terhadap
+nilai signal to noise ratio (SNR) jaringan sebagai parameter penentu
+kualitas citra sehingga mampu memperjelas hasil pemeriksaan MRI
+kepala?
+2. Bagaimana pengaruh nilai waktu pembalik TI (time inversion) terhadap
+nilai contras to noise ratio (CNR) jaringan sebagai parameter penentu
+kualitas citra sehingga mampu memperjelas hasil pemeriksaan MRI
+kepala?
+
+
+
+3. Pada variasi nilai waktu pembalik TI (time inversion) berapa yang mampu
+menghasilkan kualitas citra optimal sebagai acuan pemeriksaan MRI
+kepala untuk melengkapi informasi adanya suatu kelainan saraf epilepsi?
+1.3 Batasan Masalah
+Agar pembahasan dalam tugas akhir ini tidak meluas dan tidak menyimpang
+dari tujuan, maka diambil batasan masalah sebagai berikut:
+1. Fokus pemeriksaan deteksi anatomis pada lobus temporalis tepatnya
+daerah hipokampus pasien pemeriksaan MRI kepala untuk mendeteksi
+kelainan saraf epilepsi.
+2. Pencitraan anatomis pembobotan T1 dengan parameter echo time (TE)
+sebesar 63 ms dan parameter repetition time (TR) > 3000 ms yaitu sebesar
+7000 ms sesuai dengan pengaturan pemeriksaan MRI kepala citra T1 TIR
+Rumah Sakit Haji Surabaya.
+3. Sekuen pulsa yang digunakan adalah inversion recovery (IR) untuk
+menghasilkan kontras perbedaan citra yang jelas dan detail sebagai
+pemeriksaan identifikasi kelainan saraf epilepsi.
+4. Pesawat MRI yang digunakan adalah Pesawat Simens Magneton Essenza
+1,5 T.
+5. Pasien testi merupakan pasien scan brain MRI pada Rumah Sakit Haji
+Surabaya.
+6. Film pencetak hasil citra adalah film single emulsi jenis dry view dengan
+ukuran 35cm x 43 cm.
+
+
+
+1.4 Hipotesis Penelitian
+Berdasarkan rumusan masalah tersebut, dapat dirumuskan hipotesis penelitian
+sebagai berikut:
+1. Waktu pembalik TI (time inversion) memiliki pengaruh terhadap nilai
+signal to noise ratio (SNR) jaringan dalam pemeriksaan MRI kepala.
+2. Waktu pembalik TI (time inversion) memiliki pengaruh terhadap nilai
+contras to noise ratio (CNR) jaringan dalam pemeriksaan MRI kepala.
+3. Waktu pembalik TI (time inversion) berpengaruh terhadap hasil kualitas
+citra untuk menentukan hasil optimal dalam pemeriksaan MRI kepala
+sehingga mampu mengidentifikasi kelainan saraf epilepsi.
+1.5 Tujuan Penelitian
+Tujuan umum penelitian adalah:
+Mengetahui pengaruh waktu pembalik TI (time inversion) terhadap hasil
+kualitas citra T1 TIR coronal serta mendapatkan hasil citra optimal dalam
+mengidentifikasi kelainan saraf epilepsi pada pemeriksaan MRI kepala.
+Tujuan khusus penelitian adalah:
+1. Mengetahui pengaruh waktu pembalik TI (time inversion) terhadap nilai
+signal to noise ratio (SNR) jaringan pada pemeriksaan MRI kepala.
+2. Mengetahui pengaruh waktu pembalik TI (time inversion) terhadap nilai
+contras to noise ratio (CNR) jaringan pada pemeriksaan MRI kepala.
+3. Mengetahui nilai waktu pembalik (TI) yang tepat dalam menghasilkan
+kualitas citra yang optimal pada pemeriksaan MRI kepala sebagai
+pendeteksi kelainan saraf epilepsi.
+
+
+
+1.6 Manfaat Penelitian
+Manfaat dari penelitian ini adalah memberikan informasi terkait pengaruh
+waktu pembalik (TI) terhadap waktu relaksasi atom hidrogen suatu jaringan
+sehingga menghasilkan kualitas citra optimal pada pemeriksaan MRI kepala dengan
+memperhitungkan nilai SNR (sinyal amplitudo masing-masing jaringan) sebagai
+hasil kejelasan citra dan nilai CNR (perbedaan sinyal amplitudo pada dua jaringan
+yang berbeda) sebagai hasil kontras perbedaan citra jaringan yang detail. Oleh
+karena itu, akan diperoleh citra pemeriksaan MRI kepala yang unggul dalam
+membedakan antara jaringan yang mengalami kelainan dengan jaringan normal
+sehingga mampu membantu penegakkan diagnosis suatu kelainan.

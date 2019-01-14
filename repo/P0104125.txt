@@ -1,0 +1,543 @@
+﻿Perancangan dan Simulasi Energi Meter Digital Satu Phasa
+Menggunakan Sensor Arus ACS712
+
+
+Intisari— Energi meter adalah alat ukur untuk mengukur dan
+mengetahui kekuatan energi listrik yang digunakan pada beban /
+peralatan listrik yang terhubung melalui waktu yang diberikan.
+Energi meter digital saat ini di Indonesia berkembang sangat
+pesat, peneliti melakukan penelitian untuk mengembangkan
+sistem yang dapat menghitung daya dan biaya. Makalah ini
+menjelaskan desain dan simulasi energi meter digital
+menggunakan sensor arus ACS712 . Adapun motivasi penelitian
+ini didasarkan pada layanan pengisian Hand-Phone (HP) di
+tempat-tempat transit perjalanan seperti restoran. Biaya
+pengisian HP dikenakan dengan tidak adanya standar yang
+jelas. Dengan peralatan ini, biaya pengisian dapat diatur
+berdasarkan konsumsi tenaga listrik, serta bentuk fisiknya yang
+portable, selain itu biaya per – KWH dapat dimasukkan. Pada
+pelaksanaan penelitian ini ada beberapa tahapan yang harus
+dilalui, salah satunya adalah Tahap awal, yang menekankan
+pada desain konseptual dari algoritma dan perangkat keras.
+Hasil dari tahap awal ini berupa tes simulasi algoritma yang
+menunjukkan nilai rata-rata error kurang dari 1 %, hal ini
+berarti algoritma dapat bekerja dengan baik serta dapat
+digunakan untuk langkah berikutnya (pengembangan).
+Kata Kunci— Energy meter digital, Sensor arus ACS712, Daya,
+Biaya, Simulasi.
+
+
+PENDAHULUAN
+Di Indonesia yang berwenang untuk menyediakan energi
+listrik adalah Perusahaan Listrik Negara (PLN). PLN
+merupakan Badan Usaha Milik Negara (BUMN) yang
+berfungsi memberikan pelayanan kepada masyarakat dan juga
+mencari keuntungan sehingga tidak membebani keuangan
+Negara [1]. Untuk mendapatkan nilai konversi besaran energi
+listrik yang digunakan oleh masyarakat menjadi besaran nilai
+dapat diperhitungkan dibutuhkan sebuah alat yang disebut
+dengan KWH (Kilo-Watt-Hour) meter[2]-[3].
+KWH meter / energi meter merupakan alat ukur untuk
+menghitung dan mengetahui daya energi listrik yang terpakai
+pada beban/peralatan listrik yang terhubung selama waktu
+tertentu [4] . Pada perkembangannya, perancangan energi
+meter ini telah mengalami kemajuan yang pesat, terutama
+pada teknologi energi meter digital [5]-[10]. Salah satunya
+adalah penelitian yang dilakukan oleh Fondra Dwi [11] berupa
+sistem pemantauan konsumsi energi listrik berdasarkan
+metode pengukuran arus dengan mikrokontroler sebagai
+pengolah nilai arus untuk mendapatkan pemakaian daya
+menggunakan software Borland Delphi 7.
+Sistem ini akan mengirimkan data hasil olahan tersebut
+secara serial ke database Microsoft Access 2003 untuk
+menyimpan dan hanya menampilkan nilai daya yang terpakai.
+Sedangkan dalam penelitian ini akan dirancang suatu
+sistem energi meter digital yang telah diembeddkan algoritma
+untuk mendeteksi arus, tegangan dan menghitung daya,
+selanjutnya akan dikonversikan kedalam besaran Rupiah.
+Dengan kata lain alat ini dirancang untuk mengetahui biaya
+pemakai suatu alat elektronik sehingga akan diketahui beban
+pemakaian dan nilai rupiahnya.
+Adapun motivasi perancangan alat ini didasarkan adanya
+jasa charging Hand-Phone (HP) ditempat-tempat transit
+perjalanan seperti di rumah makan. Adapun Biaya charging
+yang dikenakan bervariasi tanpa adanya standar yang jelas.
+Dengan adanya alat ini, biaya charging dapat ditetapkan
+berdasarkan pemakaian daya listrik. Alat ini akan bersifat
+portable (mudah dibawa kemana-mana) serta dapat diatur
+besaran biaya per-KWHnya.
+Tahapan awal penelitian ini menekankan pada konsep
+desain algoritma dan perangkat keras, yang selanjutnya akan
+disimulasi untuk validasi sistem menggunakan software
+Proteus.
+II. ENERGI METER DIGITAL
+Pinsip kerja dari energi meter digital adalah diawali dengan
+mendeteksi arus melalui sensor dan tegangan yang berasal
+dari jala - jala listrik, selanjutnya sinyal keluaran dari sensor
+arus dan tegangan tersebut akan dikondisikan sehingga
+membentuk beda phasa melalui rangkaian XOR, kemudian
+sinyal inputan tersebut akan berubah menjadi tegangan DC,
+dilanjutkan masuk ke ADC mikrokontroller untuk dikonversi
+menjadi sinyal digital. Sinyal digital tersebut lalu diproses
+oleh mikrokontroler dan ditampilkan ke LCD berupa total
+daya energi listrik beserta nilai konversinya dalam rupiah.
+KWH meter digital ini dirancang dengan metode perkalian
+yang dihasilkan dari pembacaan arus beban oleh sensor arus dan pembacaan tegangan melalui sensor tegangan atau
+transformator. Disamping itu alat ini juga memperhitungkan
+faktor daya beban yang diperoleh dengan mencari selisih atau
+pergeseran fasa antara sinyal arus dan tegangan yang
+dihasilkan oleh sensor tersebut. Sehingga untuk proses
+pengolahan sinyal terdapat tiga parameter sinyal, yakni sinyal
+arus, sinyal tegangan, dan beda fasa kedua sinyal tersebut.
+Rangkaian ketiga parameter sinyal tersebut dapat dilihat pada
+diagram blok yang ditunjukkan pada Gbr 1.
+Gbr 1. Digram Blok KWH meter digital
+Pada rangkaian KWH meter terdapat sensor arus dan sensor
+tegangan. Sensor arus memiliki sirkuit sambungan di dalam
+meter dan bagian dari elemen ukur yang dialiri arus yang
+berasal dari saluran yang tersambung ke meter. Sedangkan
+sensor tegangan adalah sebuah transformator yang mampu
+menurunkan tegangan sesuai dengan kebutuhan ADC, sensor
+tegangan juga merupakan bagian dari elemen ukur dan catu
+daya untuk meter.
+A. KWH Meter
+Pada meteran digital digunakan banyaknya impuls yang
+terindikasi pada lampu led untuk menghitung besarnya daya
+yang terpakai pada beban. Jumlah impuls yang biasa
+digunakan pada meter satu fasa adalah 900 putaran/KWH
+atau 900 kedipan pada lampu LED yang terhubung sebagai
+indikator. Kecepatan putaran dasar atau banyaknya kedipan
+lampu LED dinyatakan dalam putaran per menit pada waktu
+meter berada dalam kondisi acuan dan dialiri arus dasar.
+Arus dasar merupakan nilai arus yang dijadikan dasar untuk
+menetapkan unjuk kerja meter (Id). Sedangkan batas
+maksimum arus merupakan nilai arus tertinggi yang diizinkan
+mengalir secara kontinu dan persyaratan ketelitian masih
+terpenuhi (Im). Pada metode ini digunakan konstanta meter
+yang menyatakan hubungan antara energi yang dihitung oleh
+meter dengan jumlah putaran piringannya (nyala lampu LED).
+Konstanta meter tersebut dinyatakan dalam jumlah
+putaran/KWH atau jumlah kedip/KWH.
+B. Meter Satu Phasa
+Meter statik energi aktif dapat dioperasikan dan
+dikendalikan untuk mengalirkan energi listrik sesuai dengan
+sistem pembayaran yang disepakati antara PLN dan pelanggan,
+umumnya digunakan pada meter prabayar. Meter statik energi
+aktif merupakan meter yang arus dan tegangannya
+menimbulkan suatu proses pada elemen – elemen elektronik,
+untuk menghasilkan frekuensi pulsa keluaran yang
+proporsional dengan besaran energi aktif yang diukur.
+Meter energi untuk kebutuhan rumah tangga merupakan
+meter statik fase tunggal terkoneksi langsung (direct
+connected meter) dengan cara pengawatan dua kawat. Meter
+harus mempunyai kemampuan mendeteksi dan mengukur
+energi dan daya listrik secara total dari dua arah (forward dan
+reverse). Acuan untuk perhitungan pemakaian KWH
+menggunakan nilai arus terbesar dari hasil pengukuran sensor
+arus pada fase (L) dan netral (N) yang dapat dilihat pada Gbr
+2.
+Gbr 2. Pengkawatan pada Meter Satu Phasa
+C. Daya
+Berdasarkan hukum Ohm, untuk mencari daya maka
+diperlukan :
+P = V x I (1)
+Sehingga untuk mencari nilai energi aktif:
+Wa = V x I x Cos ſ x t (2)
+Wa = P x t (3)
+Dimana : P = Daya (Watt)
+V = Tegangan (Volt)
+I = Arus (Ampere)
+Wa = Energi Aktif (Watt-Hour)
+t = Waktu (Jam)
+D. Faktor Daya
+Perancangan alat penentu faktor daya dilakukan dengan
+mengubah arus dan tegangan yang awalnya berupa gelombang
+sinusoida menjadi pulsa. Pulsa merupakan gelombang yang
+berfungsi sebagai pembentuk sinyal – sinyal digital yang
+berupa 1 dan 0. Sedangkan gelombang sinusoida adalah gelombang bolak – balik, dimana pada gelombang tersebut
+berlaku rumus dalam persamaan (4):
+v(t) = Vm sin ωt (4)
+Grafik dari gelombang sinus akan ditunjukkan pada Gbr 3.
+[12]:
+R:…
+Gbr 3. Gelombang Sinusoida
+Amplitudo pada gelombang – gelombang sinusoida
+merupakan Vm . Frekuensi radian atau frekuensi sudut adalah
+ω. Dalam Gbr 3. v(t) = Vm sin ωt diatas digambarkan sebagai
+fungsi ωt. Fungsi tersebut berulang setiap 2π radian.
+Sedangkan jika Vm sin ωt merupakan fungsi dari t dan
+periodenya adalah T, periode tersebut dapat dinyatakan di
+dalam derajat. Sebuah gelombang sinus yang mempunyai
+periode T harus melakukan 1/T hertz. Satu hertz identik
+dengan 1 cycle per detik. Maka berlaku rumus seperti yang
+ditunjukkan pada persamaan (5).
+(5)
+Ada 2π radian (360o) pada 1 cycle, sehingga berlaku
+hubungan antara frekuensi dan frekuensi radian yang dapat
+dilihat pada persamaan (6).
+ω = 2πf = (6)
+Bentuk yang lebih umum dari persamaan (6) dapat dilihat
+pada persamaan (7).
+Vm sin (ωt + θ) (7)
+Dimana sebuah sudut phasa θ merupakan (ωt + θ).
+Jika tegangan dan arus kedua – duanya merupakan fungsi
+sinusoida waktu, plot dari keduanya terhadap skala waktu
+akan menunjukkan pergeseran diantara keduanya kecuali
+dalam hal resistansi murni. Pergeseran ini merupakan sudut
+phasa dan besarnya tidak lebih dari 90o atau π/2radian. Sudut
+phasa antara arus dan tegangan ini selalu digambarkan sebagai
+bagaimana arus i terhadap v seperti yang dapat dilihat pada
+Gbr 4. [12].
+
+
+
+Perbedaan gelombang yang ditunjukkan pada Gbr 4 akan
+menghasilkan sudut phasa, dimana sudut phasa dari
+gelombang sinus tersebut merupakan perputaran vektor
+dengan θ radian counter clockwise dari 0 (horizontal) pada
+waktu t = 0. Ketika amplitudo puncak, Vp, frekuensi, f, dan
+sudut phasa dari gelombang sinus diberikan, nilai pada waktu
+t dapat dihitung pada persamaan (8).
+v(t) = Vp sin (ωt – θ) (8)
+Kondisi sinyal antara arus dan tegangan biasa disebut
+dengan istilah lagging (tertinggal) seperti yang terlihat pada
+Gbr 5, dan leading (mendahului) seperti pada Gbr 6.
+Gelombang sinusoida berbeda phasa apabila arus mendahului
+atau tertinggal. Jika antara arus dan tegangan tidak terdapat
+perbedaan dalam sudut phasanya berarti rangkaian tersebut
+adalah sephasa.
+
+
+
+Faktor daya dari suatu rangkaian adalah cos θ, atau
+perbandingan dari daya rata –rata terhadap daya nyata yang
+dapat dilihat pada persamaan (9). θ juga dinamakan sudut
+faktor daya, dimana sudut ini hanya untuk mengetahui kondisi
+mendahului atau tertinggalnya tegangan terhadap arus.
+
+
+PF = (9)
+Keterangan :
+PF = Power Factor (Faktor Daya)
+P = Daya rata - rata = VI cos θ
+S = Daya nyata = VI
+E. Faktor Daya
+Sensor ACS712 Low Current Sensor Breakout ini yang
+merupakan produk dari Allegro mempunyai tingkat
+pengukuran arus dari rentang mili hingga 5 ampere, dan telah
+dilengkapi dengan penguat sehingga memudahkan pengguna
+untuk mengukur arus. Keluaran ACS712 Low Current Sensor
+Breakout terhadap arus yang disensor dapat dilihat pada Gbr 7.
+[13].
+Gbr 7. Keluaran ACS712 Low Current Sensor Breakout terhadap Arus yang
+Diukur oleh Sensor.
+Dalam penelitian energi meter digital yang akan dibuat ini,
+akan dirangkai menggunakan sebuah sensor arus ACS712
+dengan rangkaian tambahan berupa dioda, kapasitor, dan
+resistor sebagai penyearah yang dapat berfungsi agar
+pembacaan arus dapat menjangkau mili ampere. Adapun
+rangkaian rangkaian tersebut dapat dilihat pada Gbr 8.
+Gbr 8. Rangkaian Sensor Arus dan Penyearah Gelombang
+F. Rangkaian Sensor Tegangan
+Selain menggunakan sensor arus, pengukuran juga
+menggunakan transformator tegangan. Transformator
+tegangan digunakan untuk mengukur tegangan. Transformator
+adalah suatu alat listrik yang dapat memindahkan dan
+mengubah energi listrik dari satu atau lebih rangkaian listrik
+ke rangkaian listrik yang lain melalui suatu gandengan magnet
+dan berdasarkan prinsip induksi-elektromagnet [12].
+Dalam penelitian yang dilakukan oleh [3], rangkaian yang
+digunakan menggunakan sensor arus ACS712T ELC 05B
+dengan transformator step down sebagai komponen utama
+dalam pembuatan KWH meter. Dalam pengujiannya, ia
+mengambil beberapa sampel beban dengan pertambahan besar
+daya 100 W yang dilakukan sebanyak 5 kali percobaan.
+Transformator yang digunakan pada rangkaian ini adalah
+transformer step-down 2 Ampere, dari transformator tegangan,
+nilai tegangan 220 volt akan disearahkan dengan penyearah
+gelombang penuh untuk menghasilkan tegangan DC murni
+yang kompatibel terhadap tegangan yang dibutuhkan oleh
+ADC. Sehingga rangkaian tersebut dapat dilihat pada Gbr 9.
+Gbr 9. Sensor Tegangan dan Penyearah Gelombang
+Gbr 10. Rangkaian Pembentuk Beda Phasa
+G. Rangkaian Pengkondisi Sinyal Pembentuk Beda Phasa
+Untuk membuat sinyal sinusoidal keluaran dari sensor arus
+dan tegangan menjadi sinyal persegi, maka dibuatlah
+rangkaian pengkondisi sinyal dengan rangkaian blok yang
+terhubung dengan gerbang XOR, terbentuknya sinyal persegi
+akan mempermudah untuk menentukan beda fasa.
+Pembentukan sinyal persegi dilakukan dengan metode Zero
+Crossing Detector, rangkaian tersebut dapat dilihat pada Gbr 10, yang merupakan rangkaian pengkondisi sinyal keluaran
+dari sensor arus dan tegangan (transformator), rangkaian
+tersebut akan menghasilkan salah satu faktor yang berperan
+penting dalam perhitungan daya, yakni faktor daya. Sinyal
+yang dihasilkan oleh sensor akan langsung dilewatkan pada
+rangkaian Zero Crossing Detector, sebelum masuk ke
+rangkaian pengkondisi sinyal masing - masing.
+Dioda pada rangkaian berfungsi untuk memotong tegangan
+dibawah sumbu nol agar dapat diproses melalui gerbang XOR
+yang akan menghasilkan selisih kedua pulsa masukan, dan
+membentuk perbedaan fasa antara arus dan tegangan.
+Besarnya daya yang diserap oleh beban akan ditentukan
+dengan menggunakan tiga parameter utama yaitu, arus,
+tegangan, dan faktor daya. Sinyal yang dibutuhkan oleh ADC
+dari ketiga faktor pembentuk daya tersebut adalah tegangan
+DC, untuk itu pulsa dari beda fasa akan diubah menjadi
+tegangan konvensional. Tegangan dari frekuensi gelombang
+kotak tersebut akan diubah dengan menggunakan konverter
+frekuensi ke tegangan, rangkaian frekuensi ke tegangan akan
+diimplementasikan dengan IC 2917 seperti ditunjukkan pada
+Gbr 11. [14].
+Gbr 11. Rangkaian Konverter Frekuensi ke Tegangan
+LM2917 adalah IC single chip konverter fasa ke tegangan
+atau sering disebut rangkaian tachogenerator statis yang
+didesain dengan pemakaian komponen eksternal seminimal
+mungkin namun dapat menghasilkan tegangan keluaran yang
+optimal [15].
+Tachogenerator statis mengambil pulsa dari pembangkit
+frekuensi masukan melalui komparator pertama. Input
+inverting pada komparator pertama dihubungkan dengan
+ground melalui sebuah kapasitor seri dan masukan non
+inverting mendapat masukan sinyal gelombang kotak. Dengan
+rangkaian yang demikian maka komparator pertama ini
+berfungsi sebagai detektor penyilang nol (zero crossing
+detector) yang membandingkan gelombang persegi pada input
+non inverting dengan acuan tegangan nol volt pada masukan
+inverting. Keluaran dari komparator pertama ini diumpankan
+pada charge pump yang berfungsi mengubah frekuensi
+menjadi tegangan pada saat sinyal input berubah keadaan.
+H. Mikrokontroler
+Mikrokontroler adalah salah satu dari bagian dasar dari
+suatu sistem komputer. Meskipun mempunyai bentuk yang
+jauh lebih kecil dari suatu komputer pribadi dan komputer
+mainframe, mikrokontroler dibangun dari elemen-elemen
+dasar yang sama [16]. Seperti umumnya komputer,
+mikrokontroler adalah alat yang mengerjakan instruksiinstruksi
+(program) yang diberikan kepadanya. Program ini
+menginstruksikan komputer untuk melakukan jalinan yang
+panjang dari aksi-aksi sederhana untuk melakukan tugas yang
+lebih kompleks [17].
+Salah satu tipe mikrokontroler yang memiliki fitur
+memuaskan adalah ATmega 32. Mikrokontroler ini telah
+banyak digunakan pada penelitian robot bergerak otonom
+dengan alasan downloader yang mudah dibuat dan digunakan,
+serta ukuran flash memory yang lumayan besar, yakni 32 KB.
+Karena kelebihan yang dimilikinya, maka mikrokontroler
+ATmega 32 dipilih sebagai unit pemrosesan utama yang akan
+digunakan pada penelitian ini dan untuk mengetahui susunan
+standar pin dari ATmega 32 beserta sistem minimumnya dapat
+dilihat pada Gbr 12.
+Gbr 12. Susunan Standar ATmega 32 dan Sistem minimumnya
+Untuk merancang sistem minimum sebuah mikrokontroller
+dibutuhkan beberapa komponen tambahan untuk membuat
+mikrokontroller tersebut menjadi terintegrasi. Komponen yang
+dibutuhkan dalam aplikasi rangkaian sistem minimim tersebut
+yaitu rangkaian pembangkit frekuensi kerja mikrokontroller
+yang diaplikasikan dengan kristal 8 MHz. Sebuah system reset
+yang aktif tinggi untuk memulai siklus kerja baru pada setiap
+perubahan interuksi kerja mikrokontroller.
+III. DESIGN KWHMETER
+Sebuah perancangan perangkat keras merupakan hal yang
+fundamental yang harus dilakukan sebelum
+mengimplementasikan program yang akan dibuat pada sistem.
+Perangkat keras yang akan dirancang pada KWH meter digital
+ini meliputi perancangan sistem dan perancangan design.
+Bentuk dari KWH meter digital yang akan dibuat pada
+penelitian ini dapat dilihat pada Gbr 13.
+
+
+
+Gbr 13. Rancangan KWH Meter Digital
+Rancangan KWH meter digital seperti yang ditunjukkan
+pada Gbr 14 tersebut merupakan rancangan luar dari sistem
+yang digunakan pada KWH meter. Pada perancangan tersebut
+akan dibuat sebuah kotak yang digunakan sebagai penutup
+rangkaian pada sistem. Kotak akan dibuat dengan
+menggunakan kaca plastik (mika), kemudian terdapat LCD
+yang akan menampilkan output, LED yang berfungsi sebagai
+indikator, LED merah akan menghitung nilai impuls,
+sedangkan LED hijau akan berfungsi untuk mengindikasikan
+apakah alat siap digunakan. Kemudian terdapat tombol reset,
+serta MCB (Mini Circuit Breaker) yang berfungsi sebagai
+pemutus arus apabila terjadi overload. Sebagai input
+digunakan beban 2 buah lampu dengan sambungan parallel
+yang terhubung pada jala – jala AC.
+A. Perancangan Energi Meter
+Pengukuran daya yang terpakai oleh beban harus terlebih
+dahulu dilakukan untuk dapat menampilkan berapa jumlah
+tagihan biaya yang harus dibayar oleh konsumen tehadap
+pemakaian jumlah energi listrik. Tegangan yang diukur dari
+jala – jala listrik yang terpasang pada beban akan masuk ke
+sensor tegangan atau transformator, kemudian dilakukan
+pengukuran arus dengan menggunakan sensor ACS712, maka
+akan didapatkan daya yang terukur. Kemudian tegangan dan
+arus yang dihasilkan pada rangkaian akan dikalikan cos θ
+terukur. Daya yang terukur dari hasil pengukuran tegangan,
+arus, dan cos θ yang didapatkan dimasukkan ke rangkaian
+pengali, maka akan dihasilkan daya aktif yang terukur pada
+beban dalam satuan Watt.
+Untuk dapat menghitung jumlah pemakaian energi listrik
+yang digunakan, maka data hasil pengukuran nilai daya
+tersebut diubah dalam bentuk data frekuensi dengan
+menggunakan Voltage to Frekuensi Converter. Sehingga
+menghasilkan keluaran yang berupa jumlah pulsa yang
+nilainya sebanding dengan jumlah energi yang terpakai tiap
+detik. Karena yang diinginkan adalah jumlah energi yang
+terpakai tiap jam (Watt – Hour), maka data frekuensi yang
+dihasilkan diubah ke dalam (Watt – Hour) dengan rangkaian
+impuls, dimana perhitungan nilai impuls 900 kedip sama
+dengan 1KWH, sehingga nantinya akan dihasilkan jumlah
+pulsa keluaran yang nilainya sebanding dengan nilai jumlah
+pemakaian energi dalam 1 jam pada keluaran rangkaian
+pembagi tersebut.
+Untuk menampilkan atau memberikan informasi nilai
+rupiah biaya tagihan yang harus dibayarkan terhadap
+pemakaian jumlah energi listrik secara digital, maka harus
+diinputkan data – data biaya per KWH. Data – data tersebut
+kemudian akan dikalikan dengan pulsa – pulsa keluaran
+sebagai data Watt-Hour yang dihasilkan pada gambar blok
+diagram diatas, sehingga akan dihasilkan jumlah pulsa
+keluaran yang dijadikan sebagai data tagihan biaya pemakaian
+jumlah energi listrik.
+Di dalam tarif dasar listrik dalam dalam pemakaian rumah
+tangga berdasarkan Peraturan Menteri Energi dan Sumber
+Daya Mineral nomor 07 tahun 2010 tentang tarif tenaga listrik
+yang disediakan oleh perusahaan perseroan PT PLN maka
+didapatkan tarif dasar seperti pada Tabel I.
+TABEL I
+TARIF DASAR LISTRIK UNTUK KEPERLUAN RUMAH TANGGA
+Dari tabel I maka akan digunakan batas daya untuk
+keperluan rumah tangga sebesar 450 VA dengan biaya
+pemakaian masing – masing blok memiliki tarif yang berbeda.
+Untuk blok 1 dengan daya yang digunakan 0-30 KWH adalah
+Rp.169,00, untuk blok 2 dengan daya 30-60 KWH adalah
+Rp.360,00, sedangkan untuk blok 3 dengan daya pemakaian
+diatas 60 KWH biayanya adalah Rp.495,00. Data – data harga
+ini dapat berubah sesuai dengan yang dikehendaki. Hal ini
+memungkinkan terjadi apabila di kemudian hari terjadi
+petubahan biaya tagihan jumlah pemakaian energi listrik
+ataupun data harga akan diubah dengan batas daya diatas 450
+VA.
+Dari perbedaan tarif pada blok – blok tersebut, maka
+diperlukan suatu kontrol data harga per KWH. Dari
+pembacaan KWH maka dapat ditentukan harga per KWH blok
+mana yang akan dikirimkan ke rangkaian pengali untuk
+dikalikan dengan jumlah pulsa dari data – data Watt-Hour.
+Untuk blok diagram keseluruhan, maka dapat dilihat pada Gbr
+14.
+
+B. Perancangan Perangkat Lunak
+Perancangan perangkat lunak memegang peranan yang
+sangat penting dalam hal perhitungan dan pengolahan
+matematis dari keseluruhan program. Perancangan perangkat
+lunak ini terdiri dari algoritma pembacaan nilai sensor arus,
+algoritma pembacaan nilai sensor tegangan, algoritma
+perhitungan nilai impuls. Masing – masing perancangan
+perangkat lunak selanjutnya akan diuraikan sebagai berikut.
+1.Algoritma Pembacaan Nilai Sensor Arus
+Rangkain sensor arus dengan penyearah gelombang akan
+menghasilkan nilai ADC sebagai nilai kalibrasi sensor, yang
+nantinya akan membentuk sebuah persamaan dalam
+pembacaan sensor arus. Pembacaan nilai ADC pada sensor
+arus akan diuraikan pada flowchart seperti yang ditunjukkan
+pada Gbr 15.
+2.Algoritma Pembacaan Nilai Sensor Tegangan
+Rangkaian sensor tegangan atau transformator seperti yang
+telah dijelaskan pada tinjauan pustaka mengenai rangkaian
+transformator yang digunakan akan menghasilkan nilai ADC
+sebagai nilai kalibrasi, nilai tegangan yang terbaca dapat
+membentuk sebuah persamaan dalam pembacaan sensor
+tegangan. Pembacaan nilai ADC pada sensor tegangan akan
+diuraikan pada flowchart seperti yang ditunjukkan pada Gbr
+16.
+
+
+3.Algoritma Perhitungan Nilai Impuls
+Untuk menentukan perancangan algoritma perhitungan nilai
+impuls, maka dilakukan percobaan dengan menggunakan 4
+buah lampu yang masing – masing memiliki nilai 65 watt,
+dimana setiap penambahan beban satu lampu akan dihitung
+waktu kedip LED per 9 kali kedip, impuls yang digunakan
+pada kwh meter ini adalah 900 kedip per kwh, sehingga untuk
+mempersingkat waktu percobaan 9 kedip akan dianggap naik
+per 1 kwh, untuk hasil percobaan tersebut dapat dilihat pada
+TABEL II.
+
+
+Dari hasil percobaan yang ditunjukkan oleh Tabel II, maka
+didapat nilai impuls per kedip dengan beban yang ditambah
+setiap kenaikan 0.065 kilo-watt.
+C. Metode Perhitungan Nilai Error pada KWH Meter
+Arus yang mengalir dengan tegangan tertentu dalam waktu
+tertentu akan menghasilkan energi. Konsep perhitungan energi
+sesungguhnya ditunjukkan pada persamaan (10). Sedangkan
+energi berdasarkan jumlah impuls KWH meter digital
+ditunjukkan pada persamaan (11).
+Energi perhitungan (E1) = r:… (10)
+Keterangan :
+V = Tegangan Kerja (volt)
+I = Arus pada beban (ampere)
+Pf = Faktor Daya
+t = Durasi waktu pemakaian beban (detik)
+Energi pengukuran (E2) = r:… (11)
+Apabila terjadi selisih antara energi hasil pengukuran
+terhadap energi hasil perhitungan, menunjukkan bahwa
+terjadinya atau terdapat nilai error pada KWH meter tersebut.
+Hal ini ditunjukkan pada persamaan (12).
+Error KWH meter = r:…  % (12)
+Dari persamaan (12) maka dibuatlah tabel sebagai
+penghitung hasil ukur dengan pembanding nilai hitung yang
+sebenarnya.
+IV.DATA HASIL PENGUJIAN DAN ANALISA
+Pada percobaan sementara ini digunakan beban induktif
+dengan menggunakan motor DC, beban kapasitif yang
+menggunakan kapasitor, dan juga digunakan beban resistif
+(resistor) murni yang menghasilkan cos phi 1, namun
+demikian sesuai dengan penjelasan sebelumnya, nilai cos phi
+yang digunakan sebagai pengali adalah 0,8. Berikut hasil
+pengukuran pada alat KWH meter digital yang akan
+ditunjukkan pada TABEL III, IV, dan tabel V.
+Pada tabel III, hasil ukur pada KWH meter digital dengan
+beban resistif menunjukkan nilai error dengan rata – rata yang
+kurang dari 1%. Hal ini berarti bahwa hasil pengujian pada
+simulasi sukses dan tidak mengalami kendala. Beban resistor
+dipasang secara parallel dengan masing – masing beban
+bernilai 1kΩ, beban dipasang secara parallel dikarenakan
+resistor hanya menyimpan tegangan yang masuk, kemudian
+akan membuang tegangan sehingga menjadi panas.
+TABEL III
+HASIL UKUR PADA KWH METER DIGITAL DENGAN BEBAN RESISTIF
+TABEL IV
+HASIL UKUR PADA KWH METER DIGITAL DENGAN BEBAN KAPASITIF
+Pada tabel IV hasil ukur yang diperoleh pada KWH meter
+digital dengan beban kapasitif menunjukkan nilai error 0,8.
+Hal ini berarti bahwa hasil pengujian pada simulasi sukses dan
+tidak mengalami kendala. Beban kapasitor dapat dirangkai
+secara seri maupun parallel dengan masing – masing beban
+bernilai 10pF, hal ini dikarenakan kapasitor mampu
+menampung nilai tegangan yang masuk, kemudian setelah
+penuh kapasitor akan melewatkan tegangan tersebut.
+TABEL V
+HASIL UKUR PADA KWH METER DIGITAL DENGAN BEBAN INDUKTIF
+Pada tabel V, hasil ukur yang didapat pada KWH meter
+digiital dengan beban induktif menyatakan bahwa pengujian dengan simulasi sukses dan tidak mengalami kendala. Hal ini
+ditunjukkan dengan nilai error yang didapat kurang dari 1%.
+Pada rangkaian simulasi, beban induktor dipasang secara seri
+dengan masing – masing induktansi bernilai 1H, hal ini
+dikarenakan induktor hanya melewatkan tegangan yang
+masuk (by pass) induktor tidak dapat menampung tegangan
+yang masuk, sehingga semakin banyak kumparan yang
+digunakan maka arus yang mengalir akan semakin sedikit.
+V. KESIMPULAN
+Algoritma yang dibuat pada sistem KWH meter digital
+dapat berjalan dengan baik, hal ini ditunjukkan pada hasil
+pengujian sementara pada sistem yang menghasilkan rata –
+rata nilai error kurang dari 1%. Pada rangkaian simulasi
+digunakan beban tunggal resistor, kapasitor, dan induktor
+dengan penambahan hingga 10 buah pada masing – masing
+rangkaian, dan menggunakan nilai cos phi sementara yang
+ditetapkan yaitu 0,8 , sehingga data yang diperoleh
+menghasilkan nilai yang statik. Daya yang diperoleh dari hasil
+pengujian pada rangkaian akan menentukan nilai impuls,
+semakin besar daya yang digunakan maka akan semakin cepat
+kedipan LED (impuls) pada KWH meter digital.

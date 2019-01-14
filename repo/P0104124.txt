@@ -1,0 +1,306 @@
+﻿Evaluasi Pelaksanaan Manajemen Risiko Teknologi
+Informasi pada Kantor Arsip Daerah Kota Samarinda
+dengan Menggunakan The Risk IT Framework
+
+
+
+Intisari—Kantor Arsip Daerah Kota Samarinda telah
+menerapkan teknologi informasi komputerisasi dalam mencapai
+tujuan organisasinya. hal tersebut mengandung manfaat dan
+juga mempunyai risiko yang berpotensi menimbulkan kerugian
+dan menyebabkan gangguan dalam kegiatan untuk mencapai
+tujuan institusi tersebut. Untuk mengetahui apakah suatu
+insitusi tersebut sudah melakukan pencegahan terjadinya
+kesalahan dan meminimalkan kerugian maka perlu dilakukan
+evaluasi terhadap proses manajemen risiko teknologi informasi.
+Framework yang digunakan dalam melakukan evaluasi
+manajemen risiko teknologi informasi pada penelitian ini adalah
+Risk IT pada penelitian ini melakukan deskripsi tingkat
+kematangan kondisi saat ini serta merumuskan program untuk
+meningkatkan kondisi kematangan manajemen risiko TI dari
+tingkat kematangan saat ini menuju tingkat kematangan yang
+diharapkan pada Kantor Arsip Daerah Kota SamarindaHasil
+pada penelitian ini didapatkan proses pelaksanaan manajemen
+risiko teknologi informasi pada Kantor Arsip Daerah Kota
+Samarinda ada yang sesuai target dan ada yang belum sesuai
+target. Hal ini ditunjukan dengan atribut tingkat kematangan
+teknologi informasi yang sebagian besar berada pada tingkat
+kematangan repeatable but intuitive dan defined process. Pada
+penelitian ini juga telah dirumuskan beberapa program tiap
+domain untuk meningkatkan kondisi kematangan menuju yang
+diharapkan pada Kantor Arsip Daerah Kota Samarinda
+Ata kunci— Domain, Evaluasi, Kematangan, Risiko, Risk IT
+
+
+I. PENDAHULUAN
+Seiring dengan kemajuan jaman, penggunaan teknologi
+informasi di setiap instansi tidak dapat dihindarkan lagi.
+Dengan menggunakan teknologi informasi diharapkan dapat
+memudahkan suatu instansi dalam mencapai tujuannya.
+Penerapan teknologi informasi yang dilakukan suatu instansi
+atau organisasi diharapkan akan menghasilkan suatu sistem
+yang dapat dimanfaatkan sebagai sarana penunjang dalam
+mendukung proses pencapaian tujuan organisasi. Teknologi
+informasi digunakan untuk mengolah dan menghasilkan
+informasi yang berguna untuk mengambil keputusan dalam
+suatu instansi atau organisasi yang berbasiskan teknologi
+informasi, proses pengelolaan dapat menjadi semakin ringkas
+dan cepat.
+Kantor Arsip Kota Samarinda adalah suatu instansi di
+bawah pemerintah Kota Samarinda yang bertugas mengelola
+arsip di Daerah Kota Samarinda. Kantor Arsip Daerah Kota
+Samarinda selama ini telah menggunakan teknologi informasi
+untuk menunjang operasional instansi dan memudahkan
+pengelolaan bagi pihak kantor arsip. Kantor Arsip Daerah
+Kota Samarinda dalam mencapai tujuan organisasinya
+menerapkan teknologi informasi dengan melakukan
+komputerisasi. Kantor Arsip mempunyai 2 server yang
+berfungsi sebagai tempat penyimpanan arsip yang ada. Untuk
+mempermudah dalam penyimpanan arsip, instansi mempunyai
+software sistem informasi manajemen kearsipan (SIMPAN).
+SIMPAN mempermudah proses untuk pencarian arsip dan
+penyimpanan arsip. Proses kegiatan yang terkomputerisasi
+tersebut selain mengandung manfaat tentunya juga dapat
+mempunyai risiko yang berpotensi menimbulkan kerugian dan
+menyebabkan gangguan dalam kegiatan untuk mencapai
+tujuan instansi tersebut. Untuk meminimalkan risiko tersebut
+maka perlu adanya manajemen risiko, sedangkan untuk
+mengetahui apakah suatu instansi tersebut sudah melakukan
+pencegahan terjadinya kesalahan dan meminimalkan kerugian maka perlu dilakukan evaluasi terhadap proses manajemen
+risiko teknologi informasi.
+Dalam melakukan evaluasi manajemen risiko teknologi
+informasi maka diperlukan suatu metodologi atau framework.
+Terdapat beberapa framework dalam melakukan evaluasi
+manajemen risiko teknologi informasi, salah satunya yaitu
+Risk IT. Pada The Risk IT Framework keselarasan manajemen
+risiko bisnis yang berhubungan dengan TI dan manajemen
+risiko manajemen perusahaan lebih banyak dibahas, serta
+lebih rinci juga model prosesnya yang dilengkapi dengan
+praktek manajemen dan model kematangan [1]. Oleh karena
+itu pada penelitian ini akan menggunakan The Risk IT
+Framework dalam melakukan evaluasi manajemen risiko
+teknologi informasi.
+Dari latar belakang di atas maka perlu dilakukan penelitian
+evaluasi manajemen risiko teknologi informasi pada kantor
+arsip Kota Samarinda dengan menggunakan The Risk IT
+Framework.
+II. EVALUASI MANAJEMEN RISIKO TI
+Terdapat beberapa penelitian sebelumnya tentang evaluasi
+manajemen risiko teknologi informasi yang dapat dijadikan
+sebagai acuan pustaka pada penelitian ini. Ada yang
+menggunakan metode Risk IT dan ada juga yang
+menggunakan metode Manajemen risiko teknologi lainnya.
+Telah dilakukan penelitian tentang evaluasi manajemen
+risiko teknologi informasi menggunakan The Risk IT
+Framework di Biro Umum Sekretariat Daerah Provinsi Nusa
+Tenggara Barat yang meliputi tata kelola risiko, evaluasi
+risiko, dan Respon Risiko [2]. Peneliti mengukur tingkat
+kematangan kondisi manajemen risiko teknologi informasi.
+Hasil tingkat kematangan yang diperoleh menunjukkan
+derajat kualitas pelaksanaan manajemen risiko teknologi
+informasi dan dapat digunakan sebagai bahan untuk
+melakukan perbaikan-perbaikan pada aspek yang kurang baik.
+Telah dilakukan penelitian tentang manfaat manajemen
+risiko teknologi informasi dalam mendukung pelayanan
+publik dengan menggunakan pendekatan kerangka kerja
+Information Technologi Infrastructure Library (ITIL ver.3.0)
+[3]. Peneliti mencoba melihat hubungan antara proses-proses
+manajemen risiko dengan keberlangsungan layanan publik.
+Peneliti melakukan evaluasi manajemen risiko teknologi
+informasi dan melakukan analisis menggunakan metode
+OCTAVE-S yang meliputi identifikasi, analisis, dan
+perencanaan [4]. Evaluasi yang dilakukan mempermudah
+perencanaan, pemeliharaan dan pengembangan teknologi
+informasi perusahaan serta memperkecil risiko yang mungkin
+terjadi
+Pada penelitian ini sebelumnya dilakukan evaluasi
+manajemen risiko teknologi informasi dengan pendekatan
+observasi, wawancara dan metode OCTAVE-S. Hasil evaluasi
+terlihat manajemen risiko telah efektif dan efisien [5].
+Telah dilakukanelakukan penelitian tentang pemodelan
+framework manajemen risiko teknologi informasi untuk
+perusahaan di negara berkembang [6].
+Risiko adalah “combination of the probability of an event
+and its consequence” [7].
+Melakukan evaluasi manajemen risiko di suatu instansi
+diperlukan suatu framework atau kerangka. Terdapat beberapa
+framework yang dapat salah satunya adalah Risk IT. Jika
+dibandingkan dengan Cobit, definisi Risk IT adalah “While
+COBIT sets good practices for the means of risk management
+by providing a set of controls to mitigate IT risk, Risk IT sets
+good practices for the ends by providing a framework for
+enterprises to identify, govern and manage IT risk” [1].
+Model proses Risk IT dibagi menjadi 3 domain yaitu tata
+kelola risiko (risk governance), evaluasi risiko (risk
+evaluation), dan respon risiko (risk response) [1]. Tiap
+domain tersebut terdiri dari proses dengan tiap domain dan
+proses mempunyai suatu tujuan dan beberapa aktivitas kunci
+Tingkat kematangan pada framework Risk IT merupakan
+gambaran kepada pihak perusahaan kondisi saat ini dan
+kemungkinan ke depannya seperti apa. Kondisi tersebut di
+angka level tertentu. Gambaran kondisi yang ada tersebut
+dapat meningkatkan yang kurang dan mempertahankan yang
+baik [1].
+III.METODOLOGI
+Penelitian ini dilakukan melalui beberapa tahapan sebagai
+berikut :
+1) Studi pendahuluan: Studi literatur teori, penelitian
+terdahulu mengenai evaluasi manajemen risiko teknologi
+dengan Risk IT. Serta melakukan observasi dan wawancara
+pada obyek penelitian di Kantor Arsip Daerah Kota
+Samarinda.
+2) Perencanaan penelitian: Pada tahapan ini peneliti
+melakukan rancangan penelitian berupa proposal. Menentukan
+data apa saja yang akan diambil, metode pengolahan data serta
+analisisnya.
+3) Identifikasi responden: Pada tahapan ini melakukan
+identifikasi responden dengan bantuan diagram responsible,
+Accountable, Consulted and/or Informed (RACI).
+4) Pembuatan instrumen pengambilan data: Pembuatan
+instrumen pengambilan data dengan membuat kuesioner dan
+daftar pertanyaan wawancara yang disusun dengan mengacu
+pada famework Risk IT.
+5) Pengambilan data: Pengambilan data melalui
+kuesioner dan wawancara yang telah dibuat pada tahap 4 dan
+reponden yang telah ditentukan pada tahap 3. Pada kuesioner
+tersedia pilihan jawaban a, b, c d, e dan f. Nilai jawaban
+tersebut merupakan tingkat kematangan yang semakin
+meningkat dari a ke f terhadap suatu atribut pada proses
+pengelolaan risiko teknologi informasi.
+6) Pengolahan dan analisis data: Perhitungan hasil
+kuesioner serta menentukan tingkat kematangan dan
+menganalisa kondisi kematangan sekarang serta tingkat
+kematangan yang diharapkan untuk tiap domain dan atribut.
+7) Perancangan usulan pengembangan dan perbaikan:
+Usulan pengembangan manajemen risiko teknologi informasi
+berdasarkan tingkat kematangan kondisi saat ini untuk menuju
+kondisi yang lebih baik.
+
+
+
+
+8) Kesimpulan dan saran: Pada tahapan ini melakukan
+kesimpulan dan saran dari hasil penelitian yang telah
+dilakukan.
+IV. HASIL DAN PEMBAHASAN
+Dari hasil penelitian diperoleh risiko penggunaan perangkat
+teknologi Informasi pada pada Kantor Arsip Daerah Kota
+Samarinda antara lain aplikasi software tidak dapat berjalan
+dengan baik, adanya gangguan VIRUS, adanya gangguan
+koneksi Jaringan lokal dan Internet, terbatasnya kapasitas
+penyimpanan data pada server, gangguan listrik padam, human
+error akibat kekurangan SDM.
+Hasil kuesioner tingkat kematangan domain tata kelola
+dapat dilihat pada Tabel I berikut.
+
+
+Hasil Perbedaan tingkat kematangan pada tata kelola risiko
+saat ini dan yang diharapkan dapat dilihat pada Tabel II
+berikut ini.
+
+
+TABEL I
+JAWABAN KUESIONER DOMAIN TINGKAT KEMATANGAN TATA KELOLA
+
+
+Hasil jawaban kuesioner tingkat kematangan pada domain
+evaluasi risiko dapat dilihat pada tabel 3 berikut.
+
+
+TABEL II
+PERBEDAAN TINGKAT KEMATANGAN TATA KELOLA RISIKO SAAT INI DAN
+YANG DIHARAPKAN.
+
+
+Hasil jawaban kuesioner tingkat kematangan pada domain
+evaluasi risiko dapat dilihat pada tabel 3 berikut.
+
+TABEL III
+JAWABAN KUESIONER DOMAIN TINGKAT KEMATANGAN EVALUASI RISIKO
+
+Hasil Perbedaan tingkat kematangan pada evaluasi risiko
+saat ini dan yang diharapkan dapat dilihat pada tabel 4 berikut
+ini.
+TABEL IV
+PERBEDAAN TINGKAT KEMATANGAN EVALUASI RISIKO SAAT INI DAN YANG
+DIHARAPKAN
+
+
+Hasil jawaban kuesioner tingkat kematangan pada domain
+respon risiko dapat dilihat pada Tabel V berikut.
+TABEL V
+JAWABAN KUESIONER DOMAIN TINGKAT KEMATANGAN RESPON RISIKO
+
+
+
+Hasil Perbedaan tingkat kematangan pada Respon Risiko
+ini dan yang diharapkan dapat dilihat pada Tabel VI berikut
+ini.
+TABEL VI
+PERBEDAAN TINGKAT KEMATANGAN RESPON RISIKO SAAT INI DAN YANG
+DIHARAPKAN
+
+
+
+Pada penelitian ini nilai tingkat kematangan saat ini untuk
+tiap domain dan atribut mempunyai hasil yang berbeda beda.
+Untuk lebih lengkapnya hasil Tiap domain dapat dijelaskan
+sebagai berikut :
+A. Domain Tata Kelola Risiko
+Hasil nilai pada tiap atribut merupakan pengolahan data
+dari jawaban kuesioner yang mencerminkan kondisi saat ini.
+Nilai rata-rata merupakan nilai dari rata-rata tiap atribut. Nilai
+dari atribut Tata Kelola Risiko rata-rata 2 atau dibulatkan
+menjadi 2. Nilai 2 berarti kondisi tingkat kematangan Tata
+kelola risiko saat ini berada di kriteria tingkat kematangan
+Repeatable but intituitive. Hal ini berarti tingkat kematangan
+tata kelola risiko berada dalam kondisi proses pengembangan
+kedalam tahapan yang prosedur dan serupa diikuti oleh pihakpihak
+yang berbeda untuk pekerjaan yang sama. Tidak
+terdapat pelatihan formal atau pengkomunikasian prosedur
+standar dan tanggung jawab diserahkan kepada individu
+masing-masing. Terdapat tingkat kepercayaan yang tinggi
+terhadap pengetahuan individu sehingga kemungkinan terjadi
+error sangat besar.
+B. Domain Evaluasi Risiko
+Hasil nilai pada tiap atribut merupakan pengolahan data
+dari jawaban kuesioner yang mencerminkan kondisi saat ini.
+Nilai rata-rata merupakan nilai dari rata-rata tiap atribut. Nilai
+dari atribut Evaluasi Risiko rata-rata 3 atau dibulatkan
+menjadi 3. Nilai 3 berarti kondisi tingkat kematangan Tata
+kelola risiko saat ini berada di kriteria tingkat kematangan
+Defined. Hal ini berarti tingkat kematangan Evaluasi Risiko di
+instansi ini berada dalam kondisi Prosedur distandarisasi dan
+didokumentasikan kemudian dikomunikasikan melalui
+pelatihan. Kemudian diamanatkan bahwa proses-proses
+tersebut harus diikuti. namun penyimpangan tidak mungkin
+dapat terdeteksi. Prosedur sendiri tidak lengkap namun sudah
+memformalkan praktek yang berjalan.
+C. Domain Respon Risiko
+Hasil nilai pada tiap atribut merupakan pengolahan data
+dari jawaban kuesioner yang mencerminkan kondisi saat ini.
+Nilai rata-rata merupakan nilai dari rata-rata tiap atribut. Nilai
+dari atribut Respon Risiko rata-rata 2 atau dibulatkan menjadi
+2. Nilai 2 berarti kondisi tingkat kematangan Respon Risiko
+saat ini berada di kriteria tingkat kematangan Repeatable but
+intituitive.
+IV. KESIMPULAN DAN SARAN
+Dari hasil penelitian dapat disimpulkan bahwa kondisi
+tingkat kematangan saat ini di Kantor Arsip Daerah Kota
+Samarinda untuk domain Tata Kelola Risiko rata-rata
+repeatable but intuitive, domain Evaluasi Risiko rata-rata
+defined, sedangkan domain Respon Risiko rata-rata
+repeatable but intuitive.
+Saran pada penelitian ini adalah :
+1. Evaluasi pelaksanaan manajemen risiko teknologi
+informasi perlu dilakukan secara terus menerus dan
+terjadwal.
+2. Hasil evaluasi dan program perbaikan dapat dijadikan
+masukan untuk program kerja instansi kantor arsip Daerah
+Kota Samarinda agar pengelolaan manajemen risiko TI
+lebih baik.
+3. Perlu dilakukan penelitian dengan menggunakan
+framework manajemen risiko yang lain untuk menjadi
+pembanding.
+4. Program perbaikan perlu dipantau pelaksanaannya agar
+sesuai dengan harapan yang diinginkan.

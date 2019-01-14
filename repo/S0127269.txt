@@ -1,0 +1,326 @@
+﻿KEBIJAKAN MONETER DALAM MENGATASI INFLASI DI INDONESIA
+
+
+Abstrak
+Penelitian ini bertujuan untuk menganalisis mekanisme transmisi kebijakan moneter
+di Indonesia dalam mengendalikan inflasi, baik dilihat dari sisi syariah maupun
+konvensional. Alat analisis yang dipakai dalam penelitian ini adalah dengan Vector
+Autoregessive (VAR). Hasil penelitian VAR ini dilakukan dengan Uji Impulse
+Response Function (IRF) dan Uji Forecast Error Variance Decomposition (FEVD).
+Hasil IRF menunjukan bahwa pada konvensional (Model I) variabel SBI
+memberikan dampak negatif dan obligasi memberikan dampak positif terhadap inflasi
+(IHK), sedangkan pada sisi syariah (Model II) memberikan dampak positif dalam
+menurunkan inflasi. Gejolak pada mekanisme transmisi moneter syariah lebih
+cepat mereda dan stabil dibandingkan pada mekanisme transmisi kebijakan
+moneter konvensional. Untuk hasil uji FEVD pada model I menaikkan inflasi sebesar
+43,86%, sedangkan pada model II mampu menurunkan inflasi (IHK) sebesar
+25,77%. Sehingga mekanisme transmisi kebijakan moneter syariah lebih baik
+dibandingkan mekanisme transmisi kebijakan moneter konvensional.
+Kata Kunci: moneter syariah; moneter konvensional; VAR; FEVD; IRF
+
+PENDAHULUAN
+Goncangan yang terjadi pada perekonomian global dapat mempengaruhi
+kondisi perekonomian nasional. Untuk mengurangi dampak goncangan
+perekonomian global terhadap perekonomian dalam negeri, dibutuhkan
+kebijakan yang efektif dan efisien baik kebijakan moneter maupun kebijakan
+fiskal diikuti dengan berbagai kebijakan ekonomi lainnya. Fokus penerapan
+kebijakan moneter di Indonesia sesuai dengan UU no. 23 tahun 1999 yang
+kemudian telah diubah dalam UU No. 3 tahun 2004 mengenai kebijakan
+moneter, disebutkan bahwa Bank Indonesia diberi amanah sebagai otoritas
+moneter ganda yang dapat menjalankan kebijakan moneter konvensional
+maupun syariah, maka kebijakan moneter yang ditempuh menggunakan dual
+monetary policy yakni konvensional dan syariah dengan tujuan utama kebijakan
+moneter di Indonesia adalah untuk mencapai dan memelihara kestabilan nilai
+rupiah, yaitu kestabilan harga (inflasi) dan nilai tukar rupiah.
+Target atau sasaran inflasi merupakan tingkat inflasi yang harus dicapai
+oleh Bank Indonesia. Pada tahun 2011 dan tahun 2012 memiliki tingkat
+inflasi aktual yang sangat baik sebesar 3.79% dan 4.30%, yaitu dibawah
+target inflasi. Sedangkan pada tingkat inflasi aktual tahun 2013 dan 2014
+menunjukan angka secara umum telah mencapai 8.38% dan 8.36%, hal ini
+menunjukan tingkat inflasi yang kurang baik dikarenakan angka inflasi ini
+jauh dari target tahun tersebut. Selain itu tingkat inflasi hampir mendekati angka
+10%. Sedangkan untuk tahun 2015, nilai tukar rupaiah meningkat sebesar Rp
+13,500/dollar AS. Dalam hal ini dapat dikatakan target pencapaian inflasi pemerintah
+kurang maksimal dalam dua tahun terakhir ini, yaitu menuju sasaran inflasi yang
+rendah dan stabil.
+Pemerintah menggunakan kebijakan moneter sebagai pengendali inflasi, yaitu
+stabilisasi harga. Oleh karena itu dibutuhkan adanya mekanisme tranasmisi
+kebijakan moneter beserta instrumen-instrumen yang digunakan. Terbentuknya
+sistem monter syariah diharapkan menjadi solusi dari kegagalan yang diakibatkan
+oleh sistem moneter konvensional yang terpaku pada sistem bunga. Sistem bunga
+membawa kegiatan perekonomian dalam tindak spekulasi yang akan menghambat
+perekonomian sektor riil untuk berkembang dan akhirnya pertumbuhan ekonomi
+tidak berdiri dengan kuat atau rapuh meskipun angka pertumbuhan ekonomi tinggi.
+Asumsinya adalah dengan adanya kebijakan moneter syariah, kebijakan moneter khususnya di Indonesia akan terbebas dari sistem bunga dan diharapkan dapat
+mencapai tujuan moneter yang lebih baik. Dalam penelitian ini mengkhususkan dengan
+menggunakan mekanisme transmisi moneter jalur harga aset. Penelitian dengan
+menggunakan jalur harga aset masih sedikit sekali dilakukan. Namun, terdapat
+studi mengenai bekerjanya transmisi moneter melalui saluran harga aset dilakukan
+oleh Idris dkk (2002). Mengatakan bahwa harga tanah dan properti sebetulnya
+merupakan indikator yang lebih baik untuk mengkaji saluran harga aset tersebut
+namun terbentur masalah data maka digunakanlah harga saham. Keterbatasan data
+tersebut maka penelitian ini menggunakan variabel obligasi dan sukuk sebagai
+indikator harga aset.
+Kebijakan moneter melalui jalur harga aset adalah suatu kebijakan moneter yang
+juga akan mempengaruhi perkembangan harga-harga aset lain, baik harga aset
+financial seperti obligasi dan harga saham, maupun aset fisik khususnya harga
+properti dan emas. Perubahan suku bunga dan nilai tukar maupun besarnya
+investasi di pasar uang rupiah dan valuta asing akan berpengaruh pula terhadap
+volume dan harga obligasi, saham dan aset fisik tersebut, dan selanjutnya
+perkembangan tersebut akan berdampak pada berbagai aktivitas di sektor riil.
+Pengaruh harga aset pada konsumsi dan investasi akan mempengaruhi pula
+permintaan agregat dan pada akhirnya akan menentukan tingkat output riil dan
+inflasi dalam ekonomi. (Warjiyo, 2004).
+Sebagai otoritas moneter, Bank Indonesia biasanya akan memainkan dan
+mengatur jumlah uang beredar untuk menstabilkan ekonomi moneter
+negara. Jumlah uang beredar yang stabil akan menekan tingginya angka
+inflasi. Uang yang beredar dalam suatu negara amat penting. Dalam arti
+luas, uang beredar adalah uang yang di dalamnya termasuk aset keuangan yang
+memenuhi fungsinya sebagai uang dengan tingkat liquiditas yang berbeda satu
+sama lain. Data terakhir pada tahun 2014 dari Bank Indonesia jumlah uang beredar
+(M2) mencapai Rp 4.170.731 miliar, meningkat dari tahun sebelumnya sebanyak
+Rp 3.730.197 miliar. Hal tersebut terjadi karena naik turunnya angka pelipat
+gandaan uang tidaklah bersifat konstan. Angka tersebut senantiasa berubah-ubah
+sejalan dengan pola interaksi antara otoritas, bank umum dan masyarakat. Dalam
+pengendalian mekanisme transmisi kebijakan moneter diperlukan instrumen –
+instrumen untuk mengatur jumlah uang yang beredar. Salah satunya dalam penelitian
+ini adalah dengan instrumen Operasi Pasar Terbuka (OPT), dengan OPT sebagai instrumen moneter secara tidak langsung, dapat mempengaruhi sasaran
+operasionalnya yaitu suku bunga atau jumlah uang beredar secara lebih efektif.
+Dengan menggunakan Sertifikat Bank Indonesia (SBI) sebagai instrument
+moneter konvensional dan Sertifikat Bank Indonesia Syariah (SBIS) sebagai
+instrumen moneter syariah. Dengan Sertifikat Bank Indonesia (SBI) dan Sertifikat
+Bank Indonesia Syariah (SBIS) bank sentral melakukakan kegiatan jual beli
+surat-surat berharga dengan pelaku pasar, baik di pasar primer maupun
+sekunder yang dijadikan instrumen operasional tidak langsung utama pengendalian
+moneter.
+Untuk mengendalikan inflasi, jumlah uang yang beredar (M2) agar lebih efektif dan
+bermanfaat harus disalurkan dalam kegiatan ekonomi. Seperti yang telah disebutkan
+sebelumnya, di Indonesia memiliki berbagai macam saluran, salah satunya adalah
+melalui saluran harga aset yang akan digunakan dalam penelitian ini. Dimana
+melalui perubahan-perubahan instrumen moneter dan target operasionalnya
+mempengaruhi berbagai variabel ekonomi dan keuangan sebelum akhirnya
+berpengaruh ke tujuan akhir inflasi. (Bank Indonesia, 2015).
+Bank sentral menjalankan kebijakan moneter, mereka melakukan serangkaian
+pengaturan atau penyesuaian ekonomi yang bekerja di pasar barang maupun pasar
+aset. Penerapan kebijakan moneter mempengaruhi pembelanjaan, output, dan
+penyerapan sumber daya (employment) dalam jangka pendek, yang berujung pada
+perubahan tingkat harga dalam jangka menengah dan jangka panjang. Adapun
+pengaruhnya kebijakan moneter yang dilakukan BI dalam mempengaruhi harga
+aset sebelum hasil akhir menentukan tingkat inflasi.
+Menurut Pohan (2008), menjaga kestabilan nilai uang ini bukanlah masalah yang
+sederhana, karena uang berkaitan erat dengan hampir seluruh aspek dalam
+perekonomian. Dan alasan ini pula, proses kebijakan moneter sampai menyentuh
+kepada sektor riil menjadi masalah yang sangat kompleks dan tidak mudah pula
+menjaga stabilitas harga pada kondisi inflasi yang aman. Proses ini kemudian
+lazim disebut sebagai mekanisme transmisi kebijakan moneter, yang
+merupakan saluran penghubung kebijakan moneter ke perekonomian riil.
+Permasalahan mengenai mekanisme transmisi kebijakan moneter ini masih merupakan
+topik yang menarik dan menjadi perdebatan, baik di kalangan akademis maupun
+para praktisi seperti Taylor: 2000, Warjiyo dan Agung: 2002, Muelgini: 2004,
+Mishkin: 2004, Doni Satria dan Solikin M. Juhro:2011, serta Ascarya: 2012. 
+
+Menariknya Mekanisme Transmisi Kebijakan Moneter selalu dikaitkan dengan dua
+pertanyaan. Pertama, apakah kebijakan moneter dapat mempengaruhi ekonomi riil di
+samping pengaruhnya terhadap harga. Kedua, jika jawabannya ya, maka melalui
+mekanisme transmisi yang manakah pengaruh kebijakan moneter terhadap
+ekonomi riil tersebut terjadi. (Deswita, 2013).
+Pada penelitian ini akan menganalisis dan mengolah data dengan uji Vector
+Autoregressive (VAR). VAR merupakan model ekonometrika yang digunakan dalam
+analisis kebijakan makroekonomi dinamik dan stokastik. VAR merupakan sistemsistem
+persamaan yang memperlihatkan setiap variabel sebagai fungsi linier dari
+konstanta dan nilai lag (lampau) dari variabel itu sendiri, serta nilai lag dari
+variabel lain yang ada dalam sistem (Siregar dan Irawan, 2005). Variabel penjelas
+dalam VAR meliputi nilai lag dari variabel lain yang ada dalam sistem VAR yang
+membutuhkan identifikasi retriks untuk mencapai persamaan melalui interpretasi
+persamaan. (Ajija,dkk, 2011).
+Asumsi yang harus dipenuhi dalam analisis VAR adalah semua variabel tak bebas
+bersifat stasioner, semua sisaan bersifat white noise, yaitu memliki rerataan nol,
+ragam konstan, dan diantara variabel tak bebas tidak ada korelasi. Uji
+kestasioneran data dapat dilakukan melalui pengujian terhadap ada tidaknya unit
+root dalam variabel dengan diuji Augmented Dekey fuller (ADF), adanya unit root
+akan menghasilkan persamaan atau model regresi yang lancung. (Ajija,dkk, 2011).
+Pendekatan VAR sangat lazim digunakan untuk meneliti dampak kebijakan
+moneter terhadap variabel ekonomi lainnya yang banyak ditunjuk oleh peneliti
+lain untuk menganalisa hubungan dan dampak kebijakan moneter. Seperti
+dalam penelitian ini yang menggunakan alat transmisi kebijakan moneter
+konvensional dan syariah melalui jalur aset dalam mempengaruhi stabilitas harga
+(inflasi).
+Pendekatan yang digunakan untuk mengatasi persamaan regresi lancung adalah
+dengan melakukan deferensiasi atas variabel endogen dan eksogennya. Sehingga
+diperoleh variabel yang stasioner dengan derajat l(n). Kestasioneran data melalui
+pendefernsian belum cukup, kita perlu mempertimbangkan keberadaan hubungan
+jangka panjang dan pendek dalam model. (Ajija,dkk, 2011). Pendeteksian
+keberadaan kointegrasi ini dapat dilakukan dengan metode Johansen atau Engel
+Grenger. Jika variabel-variabel tidak terkointegrasi, maka dapat diterapkan VAR
+standar yang hasilnya akan identik dengan OLS, setelah memastikan variabel tersebut sudah stasioner pada derajat yang sama. Jika pengujian membuktikan
+terdapat vektor kointegrasi, maka dapat diterapkan ECM untuk single equation atau
+VECM untuk sistem equation.
+Model yang digunakan dalam penelitian ini dibagi menjadi dua model, yaitu
+mekanisme transmisi moneter konvensional dan syariah. Dengan model pertama
+yaitu mekanisme transmisi moneter konvensional melalui jalur harga aset
+terhadap inflasi dan model kedua yaitu mekanisme transmisi moneter syariah
+melalui jalur harga aset terhadap inflasi. Model I dan II dijabarkan dalam tabel sebagai
+berikut:
+Tabel 1
+Model Penelitian Mekanisme Transmisi Moneter Melalui Jalur Harga Aset
+Model Penjabaran
+I IHKt = f (SBIt, M2t, Obligasit)
+II IHKt = f (SBISt, M2t, Sukukt)
+HASIL DAN PEMBAHASAN
+Hasil dari uji stationer untuk keenam variabel menyimpulkan bahwa tidak ada
+variabel yang stationer pada tingkatan level. Untuk alasan tersebut, maka
+dilakukan uji integrasi pada first difference. Pada tingkat first difference semua
+veriabel telah stasioner, yaitu variabel LSBI, LSBIS, LM2, LOBL, LSKK dan LIHK.
+Hal ini diihat dari nilai probabilitas ADF seluruh variabel, yaitu menunjukkan nilai
+kurang dari α = 0,05, maka semua variabel tidak terjadi unit root pada tingkat first
+difference. Hasil menunjukan bahwa tidak terdapat hubungan kointegrasi pada Model I.
+Hal ini dikarenakan nilai probabilitas berada diatas nilai probabilitas α = 5%. Sehingga
+untuk uji selanjutnya tidak dapat lanjut untuk uji jangka panjang yaitu pada uji VECM,
+namun hanya sampai uji VAR saja.
+Hasil lain menunjukan bahwa juga tidak terdapat hubungan kointegrasi pada
+Model II. Hal ini dikarenakan nilai probabilitas berada diatas nilai probabilitas α
+= 5%. Sehingga untuk uji selanjutnya tidak dapat lanjut untuk uji jangka panjang
+yaitu pada uji VECM, namun hanya sampai pada uji VAR saja. Dari hasil uji kointegrasi
+sebelumnya terbukti bahwa tidak terdapat kointegrasi pada kedua model.
+Untuk itu digunakanlah model VAR untuk menganalisis responsivitas Inflasi (IHK)
+terhadap instrumen moneter dalam mekanisme transmisi moneter. Dengan  analisis VAR dapat diketahui hubungan jangka pendek saja antar
+variabel.
+Berdasarkan hasil empiris dapat diketahui bahwa, variabel inflasi (IHK) memiliki
+pengaruh yang besar terhadap variabel itu sendiri. Berdasarkan hasil terlihat bahwa
+variabel mekanisme transmisi moneter seperti M2 dan obligasi dalam jangka
+pendek dapat mempengaruhi IHK sebagai indikator inflasi.Hal tersebut
+dikarenakan nilai t-statistik pada setiap variabel lebih besar dari nilai ttabelnya.
+Sedangkan variabel mekanisme transmisi moneter SBI dalam jangka
+pendek tidak memiliki pengaruh terhadap IHK sebagai indikator inflasi. Dalam
+hal sebaliknya SBI dalam jangka pendek dipengaruhi oleh IHK sebagai indikator
+inflasi.
+Hasil impulse response function (IRF) untuk alur transmisi kebijakan moneter
+ganda menunjukan, jika mengalami tren negatif artinya adalah variabel tersebut
+mempengaruhi kenaikan inflasi (IHK), sedangkan jika mengalami tren positif artinya
+adalah variabel tersebut mempengaruhi penurunan inflasi (IHK). Hasil IRF pada
+variabel-variabel dalam Model I adalah sebagai berikut: pertama, SBI pada awal
+periode menunjukan tren negatif hingga pada periode ketiga menunjukan tren
+positif. Lalu pada periode ke-20 kembali pada tren negatif dan stabil juga permanen.
+Kedua, M2 pada awal peride menunjukan tren positif, namun pada periode ke-20
+menunjukan tren negatif dan stabil juga permanen. Ketiga, obligasi pada awal
+periode menunjukan tren negatif, hingga pada periode ke-23 menunjukan tren
+positif dan stabil juga permanen.
+Sedangkan untuk model 2, hasil impulse response function (IRF) untuk alur transmisi
+kebijakan moneter ganda menunjukan, jika mengalami tren negatif artinya
+adalah variabel tersebut mempengaruhi kenaikan inflasi, sedangkan jika
+mengalami tren positif artinya adalah variabel tersebut mempengaruhi
+penurunan inflasi. Hasil IRF pada variabel-variabel dalam Model 2 adalah
+sebagai berikut: pertama, SBIS pada awal periode menunjukan tren
+negatif, hingga pada periode ke- 21 menunjukan tren positif dan stabil
+juga permanen. Kedua, M2 pada awal periode menunjukan tren positif, namun
+pada periode ke-8 menunjukan tren negatif dan stabil juga permanen. Ketiga, Sukuk
+pada awal periode menunjukan tren negatif, hingga pada periode ke-21 menunjukan
+tren positif dan stabil juga permanen.
+
+
+Hasil penelitian IRF ini menunjukan kesamaan dengan penelitian yang
+dilakukan oleh Ascarya mengenai transmisi moneter pada jalur suku bunga (2012),
+dalam uji IRF nya menunjukan bahwa semua variabel konvensional memberikan
+dampak inflationer terhadap inflasi dan bersifat permanen. Pada sisi lain, semua
+variabel syariah memiliki dampak positif dalam pengertian berdampak menurunkan
+inflasi dan juga bersifat permanen. Meskipun pada jalur yang berbeda dalam
+mekanisme transmisi moneternya, namun memiliki kesimpulan dalam uji IRF
+yang sama.
+Hasil Variance Decomposition menunjukkan variabel apa saja dan seberapa
+besar variabel tersebut memengaruhi variabel inflasi (IHK), dalam alur
+mekanisme transmisi moneter jalur harga aset konvensional. Pada periode
+pertama terlihat bahwa inflasi dapat dijelaskan oleh SBI sebesar 4.55%
+sampai pada periode akhir inflasi dapat dijelaskan oleh SBI sebesar 18.67%.
+Selanjutnya dapat dilihat periode pertama inflasi dapat dijelaskan oleh M2
+sebesar 0.042% dan semakin peningkatan pengaruh pada periode akhir
+sebesar 12.08%. Selanjutnya dapat dilihat pula periode pertama inflasi dapat
+dijelaskan oleh obligasi sebesar 0.33% dan meningkat sebesar 13.12% pada akhir
+periode. Periode pertama inflasi dapat dijelaskan oleh inflasi itu sendiri sebesar
+95.09% dan semakin menurun pengaruh pada periode akhir sebesar 56.13%. Jadi
+pada model I, Variabel inflasi sebagai indikator inflasi sebagian besar dipengaruhi
+oleh variabel SBI sebesar 18.67%. Hal ini mengindikasikan bahwa sepanjang
+periode tersebut pengaruh variabel SBI, M2 dan emisi obligasi terhadap inflasi akan
+semakin besar. Hal ini dikarenakan inflasi mendapatkan pengaruh langsung dari
+semua variabel yang diajukan tersebut sebagai instrumen dan jalur moneter
+konvensional yang berpengaruh pada transmisi moneter. Hal ini juga memberikan
+kesimpulan dari tabel bahwa variabel- variabel konvensional meliputi SBI (18.67%),
+M2 (12.07%), obligasi (13.12%) yang memberikan sumbangan negatif (menaikan)
+inflasi sebesar 43.86%.
+Hasil variance decompotition dari variabel inflasi untuk model II menjelaskan pada
+periode pertama terlihat bahwa inflasi dapat dijelaskan oleh SBIS sebesar 3.75% dan
+di periode akhir terjadi penurunan, inflasi dapat dijelaskan oleh SBIS sebesar 3.18%.
+Pada periode pertama inflasi dapat dijelaskan oleh M2 sebesar 0.019% dan semakin
+peningkatan pengaruh pada periode akhir sebesar 11.65%. Pada periode pertama
+inflasi dapat dijelaskan oleh sukuk sebesar 0.55% dan mengalami kenaikan sebesar 10.94%. Periode pertama inflasi dapat dijelaskan oleh inflasi itu sendiri sebesar
+95.99% dan semakin menurun pengaruh pada periode akhir sebesar 74.22%. Jadi
+pada model II, Variabel inflasi sebagian besar dipengaruhi oleh variabel jumlah uang
+beredar (M2) sebesar 11.65%.
+Dalam periode tersebut pengaruh variabel SBIS, M2 dan emisi sukuk
+terhadap inflasi akan semakin besar. Inflasi mendapatkan pengaruh
+langsung dari semua variabel yang diajukan tersebut sebagai alat
+mekanisme transmisi moneter jalur harga aset syariah. Hal ini juga memberikan
+kesimpulan bahwa variabel-variabel syariah meliputi SBIS (3.18%), M2 (11.65%),
+sukuk (10.94%) yang memberikan sumbangan positif (menurunkan) inflasi sebesar
+25.77 %.
+Hasil uji variance decomposite dalam penelitian ini pada transmisi moneter
+syariah jalur aset yang memiliki pengendalian menurunkan inflasi (IHK) yang lebih
+besar dibanding pengendalian menurunkan inflasi (IHK) transmisi moneter syariah
+pada jalur suku bunga pada penelitian yang dilakukan oleh Ascarya
+(2012). Pada mekanisme transmisi moneter pada jalur harga aset
+menyumbang penurunan inflasi sebesar 25.77%, sedangkan mekanisme transmisi
+moneter pada jalur suku bunga hanya menyumbang penurunan inflasi sebesar
+6.21%.
+Mekanisme transmisi moneter konvensional pada jalur harga aset memilki
+penyumbang menaikan inflasi lebih kecil dibanding mekanisme transmisi
+moneter konvensional pada jalur suku bunga. Pada mekanisme transmisi
+moneter konvensional pada jalur harga aset menyumbang kenaikan
+inflasi (IHK) sebesar 43.86%. Sedangkan mekanisme transmisi moneter
+konvensional pada jalur suku bunga menyumbang kenaikan inflasi (IHK)
+sebesar 48.25%. Sehingga mekanisme transmisi moneter jalur harga aset
+syariah memiliki alat atau instrumen moneter yang lebih baik untuk
+mengendalikan inflasi (IHK) dibanding mekanisme transmisi moneter jalur
+harga aset konvensional.
+Variabel-variabel konvensional tersebut masih sangat dipengaruhi oleh tingkat suku
+bunga yang ditentukan dalam mekanisme pasar, terlihat bahwa dari
+karakterisik SBI dapat diperdagangkan dipasar sekunder yang memiliki pula
+sifat spekulatif. Sedangkan obligasi adalah jual beli surat utang dimana tidak memiliki aset berwujud tertentu dalam kegiatan investasinya dan tentunya harga
+obligasi dipengaruhi oleh tingkat suku bunga bank. Sehingga tidak diragukan lagi
+bahwa model I dengan variabel-variabel konvensional berdampak menimbulkan
+inflasi.
+Sedangkan mekanisme transmisi moneter syariah melalui jalur harga aset dalam
+mengendalikan inflasi dengan uji IRF (model 2), variabel-variabel syariah yaitu
+SBIS, M2 dan sukuk yang dijadikan indikator memiliki dampak positif dalam arti
+variabel-variabel tersebut mengurnagi dampak kenaikan IHK sebagai indikator inflasi
+dan bersifat permanen pada periode tersebut. Begitu pula dengan SBIS pada akhir
+periode mendekati negatif dalam mempengaruhi inflasi, namun pada sisi syariah ini
+berhasil mempengaruhi menurunkan inflasi sebesar 25.77%. Dengan begitu
+implikasinya adalah ketika inflasi berhasil diturunkan maka daya beli
+masyarakat akan barang dan jasa akan meningkat. Dalam uji VAR penelitian kali
+ini menyimpulkan masih lebih efektif mekanisme transmisi moneter syariah di
+bandingkan dengan konvensionl dan masih lebih baik menggunakan saluran
+harga aset dibanding saluran suku bunga untuk mekanisme transmisi moneter
+dalam mengendalikan inflasi (IHK).
+SIMPULAN
+Hasil estimasi VAR dapat disimpulkan bahwa pada mekanisme transmisi moneter
+syariah (model II) tidak memiliki pengaruh baik dari variabel mekanisme transmisi
+moneter syariah terhadap inflasi (IHK) maupun variabel inflasi terhadap variabel
+mekanisme transmisi moneter syariahnya. Dalam uji variance decomposition dalam
+mekanisme transmisi moneter konvensional model I terhadap inflasi, variabel yang
+diajukan pada model I penelitian ini dapat disimpulkan bahwa variabel-variabel
+konvensional meliputi SBI (18.67%), M2 (12.07%), obligasi (13.12%) yang
+memberikan sumbangan negatif (menaikan) inflasi sebesar 43.86%. Sedangkan
+Dalam uji variance decomposition dalam mekanisme transmisi moneter model II
+terhadap inflasi, variabel-variabelnya juga memberikan kesimpulan bahwa variabelvariabel
+syariah meliputi SBIS (3.18%), M2 (11.65%), sukuk (10.94%) yang
+memberikan sumbangan positif (menurunkan) inflasi sebesar 25,77 %. Sehingga
+dapat dikatakan bedasarkan hasil uji VAR dalam penelitian ini, alur mekanisme
+transmisi moneter syariah melalui jalur harga aset memiliki mekanisme
+yang lebih baik dibanding dengan alur mekanisme transmisi moneter
+konvensional melalui jalur harga aset dalam mempengaruhi IHK sebagai
+indikator inflasi.
+Perlunya memperhatikan instrumen-instrumen moneter yang diambil bank sentral,
+baik instrumen kebijakan moneter konvensional maupun instrumen kebijakan
+moneter syariah guna mengatur jumlah uang yang beredar. Karena instrumen yang
+digunakan dalam mekanisme transmisi moneter baik konvensional maupun syariah
+pada jalur harga aset tersebut ternyata belum berpengaruh cukup besar dalam
+mengendalikan inflasi.

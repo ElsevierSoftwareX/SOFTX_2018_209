@@ -1,0 +1,70 @@
+
+ Masalah dalam penelitian ini adalah membangun aplikasi client untuk server penjualan pulsa elektronik pada perusahaan server pulsa Maxrefil sehingga dapat meminimalisir tingkat kegagalan dalam proses transaksi. Tujuan dari penelitian ini adalah membangun aplikasi client untuk server penjualan pulsa elektronik berbasis android. 
+Pengembangan aplikasi ini menggunakan metode waterfall. Metode ini bersifat sistematis atau secara berurutan dalam membangun sistem atau aplikasi. Hasil dari penelitian ini adalah aplikasi client untuk server penjualan pulsa elektronik. Pengujian sistem dilakukan untuk memeriksa program aplikasi secara keseluruhan, mulai dari desain sampai penerapan coding aplikasi. 
+Hasil pengujian aplikasi ini adalah aplikasi dapat di pasang dan berjalan dengan baik pada perangkat Android versi ICS, Jelly Bean, dan Kitkat. Tingkat keberhasilan aplikasi dalam memberikan kemudahan dalam melakukan transaksi penjualan pulsa dengan persentase sangat baik sebesar 60%, baik sebesar 35%, dan cukup sebesar 5%. Tingkat keberhasilan aplikasi dalam meminimalisir kegagalan dalam melakukan transaksi penjualan pulsa dengan persentase sangat baik sebesar 90%, dan baik sebesar 10%. 
+Kata kunci : Pulsa Elektronik, Android, Metode Waterfall.
+
+
+BAB I
+PENDAHULUAN
+1.1 Latar Belakang
+
+Pembangunan Teknologi Informasi dan Komunikasi (TIK) pada hakekatnya
+ditujukan untuk meningkatkan kesejahteraan masyarakat dalam rangka
+membangun peradaban bangsa. Kenyataan menunjukkan bahwa teknologi
+informasi dan komunikasi telah membawa perubahan penting dalam perkembangan
+peradaban (Julian, 2009).
+
+Salah satu bentuk perkembangan teknologi adalah bentuk dari alat telekomunikasi
+jarak jauh yang mudah di gunakan dimana saja. Alat ini bernama telepon selular.
+Telepon selular berfungsi mempermudah komunikasi jarak jauh dengan
+pengguna lainnya. Telepon selular tidak hanya digunakan untuk berkomunikasi,
+kemajuan pada bidang teknologi menjadikan telepon selular menjadi sebuah alat
+yang mempunyai fasilitas mendekati personal computer (Ridwan Fauzi, 2012).
+Penggunaan telepon selular membutuhkan pulsa untuk beban pembiayaan.
+Pulsa adalah media penghubung untuk berkomunikasi, sistem perhitungan dalam
+menentukan tarif atau biaya. Fungsi pulsa adalah sebagai satuan biaya untuk
+melakukan komunikasi, mengirim pesan short message service, dan multimedia
+message service yang digunakan pada telepon selular. Pulsa juga berfungsi untuk
+pembayaran listrik, telepon rumah, dan PPOB (payment poin online bank). Pulsa digunakan pada alat penghubung, yaitu telepon selular. Pengisian pulsa dilakukan
+dengan sistem pengisian pulsa elektronik. Sistem pengisian pulsa elektronik
+dilakukan dengan mengirim sms kepada server agen pulsa dengan menggunakan
+telepon selular, dengan melakukan pengiriman sms berupa format sms yang sudah
+ditentukan oleh tiap server.
+
+Maxrefil adalah salah satu perusahan server pulsa yang menyediakan jasa pengisian
+pulsa yang digunakan oleh telepon selular. Pengisian pulsa dilakukan dengan cara
+pengiriman format transaksi permintaan pulsa yang di kirimkan oleh para agen
+pulsa kepada server pulsa yang di miliki oleh Maxrefil. Pengetikan format
+permintaan pembelian pulsa di ketik atau di tulis dengan menggunakan aplikasi
+perpesanan yang ada pada setiap telepon selular. Namun, kesalahan penulisan
+format sms masih terjadi dalam sistem pengisian pulsa, yang menyebabkan
+kegagalan dalam proses pengisian pulsa. Kesalahan tersebut berakibat kegagalan
+pengiriman pulsa ke nomor tujuan pengisian pulsa. Untuk meminimalisir kesalahan
+yang terjadi saat melekukan transaksi pengisian pulsa, oleh karena itu dibuatlah
+sebuah aplikasi penjualan pulsa berbasis android yang memudahkan user atau agen
+pengisian pulsa dalam melakukan proses transaksi pembelian pulsa.
+
+1.2 Rumusan Masalah
+Berdasarkan latar belakang tersebut, rumusan masalah dalam penelitian ini adalah
+membangun aplikasi client untuk server penjualan pulsa elektronik pada
+perusahaan server pulsa Maxrefil sehingga dapat meminimalisir tingkat kegagalan
+dalam proses transaksi.
+
+1.3 Batasan Masalah
+Batasan masalah dalam penelitian ini adalah sebagai berikut.
+1. Aplikasi yang dibangun mendapatkan input nomor tujuan penjualan pulsa dan
+nominal pulsa.
+2. Aplikasi yang dibangun dirancang untuk mengirimkan data pemesanan pulsa
+berupa data teks SMS (Short Message Service).
+3. Aplikasi mengimplementasikan format penulisan transaksi pada perusahaan
+server pulsa Maxrefil.
+
+1.4 Tujuan
+Tujuan dari penelitian ini adalah membangun aplikasi client untuk server penjualan
+pulsa elektronik berbasis android.
+
+1.5 Manfaat
+Manfaat dalam penelitian ini adalah memberikan kemudahan agen pulsa dalam
+melakukan transaksi penjualan pulsa dan meminimalisir kegagalan pembelian pulsa
+dalam proses transaksi penjualan pulsa.

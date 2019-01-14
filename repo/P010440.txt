@@ -1,0 +1,90 @@
+﻿
+ Informational Dashboard untuk Monitoring Sistem Drainase secara Real-Time
+
+
+
+ Intisari— Saluran drainase dimanfaatkan untuk mengalirkan kelebihan air, baik yang berasal dari air hujan maupun air limbah. Saat ini pengelolaan dan proses monitoring saluran drainase dilakukan secara manual, sehingga terdapat beberapa kekurangan yaitu: monitoring kondisi drainase tidak dilakukan secara kontinu, membutuhkan personel yang cukup banyak untuk memantau semua kondisi drainase, data tidak tersimpan dengan baik, serta tidak dapat mengetahui kondisi drainase secara cepat. Aplikasi monitoring berbasis web yang didukung oleh informational dashboard mampu memberikan data dan informasi mengenai kondisi drainase secara efektif dan efisien. Sistem monitoring juga dilengkapi dengan visualisasi dalam bentuk peta, sehingga pengguna dapat secara langsung mengetahui kondisi terkini setiap stasiun pemantau melalui visualisasi dua dimensi. 
+Kata Kunci— Informational Dashboard, Monitoring Sistem Drainase, Real Time. 
+I. PENDAHULUAN 
+
+Drainase berasal dari kata to drain dengan pengertian pengeringan yang berfungsi untuk mengalirkan kelebihan air yang tidak termanfaatkan, baik air hujan maupun air limbah . Saluran drainase ini dapat berupa saluran alami seperti sungai, maupun saluran yang sengaja dibangun seperti parit, gorong-gorong atau pipa. Banyak manfaat dari adanya saluran drainase ini, di antaranya adalah menghindari terjadinya banjir, mengurangi kelebihan air pada suatu daerah, mengendalikan erosi tanah, dan lain sebagainya. 
+Saat ini beberapa drainase yang ada sudah dikelola dan 
+ dipantau oleh tim monitoring untuk melakukan pengecekan kondisi drainase di lapangan. Pengecekan dilakukan untuk memeriksa penyumbatan saluran drainase, kerusakan drainase, atau kejadian lainnya yang menyebabkan saluran drainase tidak berfungsi dengan baik. Namun pengelolaan dan pemantauan tersebut masih dilakukan secara manual dan terkadang tidak dilakukan secara kontinu, sehingga banyak drainase yang mengalami pendangkalan, penyumbatan, bahkan kerusakan sehingga menimbulkan banjir lokal di beberapa kawasan. 
+Berdasarkan kondisi tersebut, terdapat beberapa permasalahan pada pengelolaan drainase secara manual, yaitu monitoring kondisi drainase tidak dilakukan secara kontinu, membutuhkan personel yang cukup banyak untuk memantau semua kondisi drainase, data tidak tersimpan dengan baik, serta tidak dapat mengetahui kondisi drainase secara cepat. Kekurangan tersebut dapat berdampak pada lambatnya penanganan dan pengambilan keputusan jika terjadi permasalahan pada kondisi drainase. 
+Dalam makalah ini dibangun sistem pemantau kondisi drainase di beberapa titik, dengan memanfaatkan dan menggabungkan beberapa teknologi berikut ini. 
+1. Memanfaatkan jaringan sensor nirkabel untuk membangun beberapa sensor yang dapat memberikan data secara real-time dan otomatis mengenai kondisi drainase. Parameter yang akan dipantau berupa level air, tingkat kedangkalan serta kondisi curah hujan di sekitar kawasan drainase. Sensor yang digunakan pada makalah ini adalah Wireless Sensor Network (WSN). Pemilihan teknologi ini dikarenakan adanya kebutuhan data yang cepat atau real-time. Teknologi WSN memiliki tingkat efisiensi yang lebih tinggi dibandingkan dengan teknologi lainnya. 
+2. Menggunakan komunikasi GSM untuk proses pengiriman data secara real-time dan otomatis dari node sensor utama ke database server. Komunikasi GSM dipilih untuk memudahkan komunikasi dari node ke database server. Data yang berasal dari node dapat secara langsung disimpan dalam database server. Selain itu teknologi komunikasi GSM juga sudah umum digunakan oleh masyarakat, sehingga proses monitoring dapat dilakukan secara mudah, murah dan cepat , dibandingkan dengan penggunaan SMS atau Radio Telemetry . 
+3. Menampilkan informasi kondisi drainase melalui informational dashboard, sehingga memudahkan pengguna dalam membaca data serta mempercepat proses pengambilan keputusan. Adanya aplikasi berbasis web dapat mempermudah pengaksesan infomasi oleh tim monitoring di manapun dan kapanpun, karena selain  
+dapat diakses melalui personal computer, aplikasi web juga dapat diakses melalui perangkat mobile dan laptop. 
+
+
+Beberapa penelitian terkait monitoring sistem drainase telah dilakukan, di antaranya oleh La Ode Syamsul Iman, dkk , yang mengembangkan sistem database untuk melakukan pencatatan kondisi saluran drainase di wilayah Jakarta, dengan tujuan deteksi dini perubahan fenomena lingkungan. Sedangkan penelitian mengenai pemanfaatan sensor untuk level air, curah hujan, dan debit air juga sudah banyak dilakukan, namun pada makalah ini digunakan secara bersamaan dan terintegrasi untuk menghasilkan informasi yang lengkap mengenai kondisi drainase saluran air. Sedangkan penggunaan information dashboard untuk monitoring dilakukan pada kasus yang berbeda, sehingga pada makalah ini digabungkan beberapa teknologi secara bersamaan untuk menghasilkan informasi yang real-time, mudah didapat, serta kontinu. Selain itu pemanfaatan informational dashboard juga memungkinkan pengambilan keputusan yang lebih cepat dan akurat. 
+II. WIRELESS SENSOR NETWORK DAN INFORMATIONAL DASHBOARD 
+
+Beberapa referensi yang digunakan pada makalah ini di antaranya mengenai pembuatan jaringan sensor nirkabel untuk sensor level air, sensor cuaca, serta sensor debit air. Serta visualisasi data dengan menggunakan informational dashboard. 
+A. Wireless Sensor Network 
+
+Wireless Sensor Network (WSN) merupakan teknologi pemantauan yang terdiri atas node sensor yang tersebar dan dikoordinasikan menggunakan sebuah sistem jaringan nirkabel. Setiap node memiliki kemampuan untuk pengolahan data (mikrokontroler, CPU atau chip DSP), memiliki memori (program, data, memori flash), RF transceiver, sistem catu daya (baterai atau sel surya), dan melibatkan satu atau lebih sensor serta aktuator . Sistem WSN memiliki tingkat efisiensi lebih tinggi dibandingkan dengan sistem jaringan berbasis kabel dari segi biaya, fleksibilitas, dan reliabilitas serta diprediksi akan menggantikan teknologi hybrid (berbasis kabel dan nirkabel) dalam beberapa tahun mendatang . 
+B. Informational Dashboard 
+
+Informational dashboard merupakan alat yang digunakan untuk menyajikan informasi dalam bentuk diagram, indikator visual, ataupun grafik berupa informasi yang ringkas, dinamis serta relevan . Tujuan penggunaan informational dashboard di antaranya adalah untuk mempercepat proses pengambilan keputusan, mengukur kinerja, memonitor proses yang sedang berjalan, dan memprediksi kondisi di masa mendatang. Beberapa prinsip yang harus diperhatikan dalam membuat dashboard adalah: 
+1. Menyajikan informasi dengan key performance indicator (KPI) yang spesifik. 
+2. Mengintegrasikan beberapa informasi dalam layar tunggal. 
+3. Bersifat interaktif dan informasi yang saling terintegrasi. 
+4. Dapat melakukan beberapa hal sekaligus yaitu analisis, monitoring, serta prediksi. 
+5. Bersifat personal, yaitu bergantung pada kebutuhan pengguna. 
+6. Memungkinkan kolaborasi dan komunikasi antar bagian. 
+III. HASIL DAN PEMBAHASAN 
+
+Pada bagian ini akan dilakukan pembahasan yang dimulai dari penjelasan mengenai metode yang digunakan, proses perancangan dan implementasi sistem, serta hasil implementasi. Pada bagian ini fokus utama yang akan dibahas adalah mengenai proses pengembangan informational dashboard berbasis web untuk monitoring sistem drainase. Sedangkan proses pembuatan sensor dan hasil pengujian sensor level air, debit air, dan curah hujan tidak akan dibahas pada kesempatan ini. 
+A. Metode Pembangunan Informational Dashboard 
+
+Proses pembangunan informational dashboard untuk monitoring sistem drainase secara real-time ini menggunakan pendekatan prototyping. Hasil yang diharapkan melalui pendekatan ini adalah perancangan yang user friendly dan fungsionalitas yang relevan dengan kebutuhan pengguna. Beberapa tahapan yang dilakukan di antaranya adalah melakukan identifikasi kebutuhan pengguna, melakukan analisis dan perancangan, perancangan prototipe, serta melakukan evaluasi prototipe. 
+1) Identifikasi Kebutuhan: Pada tahapan ini dilakukan proses identifikasi kebutuhan fungsional dan kebutuhan nonfungsional sistem yang akan dibangun. Kebutuhan fungsional merupakan kebutuhan utama pengguna terhadap sistem, sedangkan kebutuhan nonfungsional merupakan kebutuhan yang dimanfaatkan untuk meningkatkan performa sistem pada saat digunakan. Kebutuhan fungsional dan nonfungsional informational dashboard untuk monitoring sistem drainase ditunjukkan pada Tabel I. 
+2) Analisis dan Perancangan: Setelah mendapatkan daftar kebutuhan sistem, selanjutnya dilakukan perancangan dengan menggunakan pendekatan berorientasi objek. Proses perancangan dibantu dengan beberapa diagram object  
+oriented, di antaranya dengan menggunakan usecase diagram dan E-R Diagram. 
+
+
+Gbr. 2 merupakan conceptual diagram yang menggambarkan arsitektur sistem monitoring drainase yang akan dibangun. Sistem terdiri atas seperangkat hardware berupa beberapa node sensor yang bertugas mengumpulkan data, serta software berbasis web yang dapat diakses oleh client melalui browser. Komunikasi antar server, yaitu dari web sever ke database server, maupun komunikasi dari client ke web server menggunakan protokol HTTP. Sementara komunikasi yang digunakan dari node sensor ke database server sebagai tempat penyimpanan data menggunakan koneksi GSM. Pada makalah ini database server yang digunakan adalah MySQL, sedangkan web server yang digunakan adalah Apache, melalui pemrograman web berbasis PHP. Database akan secara otomatis diisi oleh data dari node sensor melalui koneksi GSM. Namun pada aplikasi ini juga tetap disediakan menu administrator untuk proses input secara manual.
+
+Pada Gbr. 3, use case diagram menggambarkan aktifitas yang dapat dilakukan oleh aktor-aktor yang terlibat dalam aplikasi ini. Ada tiga aktor yang terlibat. Yang pertama adalah node sensor yang bertugas mengirimkan data mengenai kondisi semua drainase yang ada. Aktor kedua, yang merupakan pengguna sistem, yaitu tim monitoring yang akan menggunakan data tersebut. Use case yang tersedia untuk pengguna tim monitoring terdiri atas pengaksesan terhadap detail data dari level air, debit air, serta curah hujan, dengan terlebih dahulu dapat memilih periode laporan. Juga dapat melihat data terkini mengenai kondisi semua drainase melalui use case dashboard. Aktor yang ketiga adalah administror, yang dapat membuat aplikasi menjadi semakin dinamis.
+
+Perancangan data secara logic digambarkan melalui E-R diagram pada Gbr. 4. Terdapat tiga entitas dan dua relationship. Tiga entitas tersebut terdiri atas entitas lokasi yang digunakan untuk penyimpanan lokasi drainase, stasiun yang merupakan stasiun tempat node sensor diletakkan, serta entitas sensor. Sedangkan yang menghubungkan ketiga entitas tersebut adalah relationship kejadian yang digunakan untuk mencatat data setiap sensor pada setiap stasiun dan lokasi. Cardinalitas semua entitas tersebut adalah one to many. 
+3) Perancangan informational dashboard: Dashboard yang akan dibangun ditujukan untuk pengguna sistem yaitu tim monitoring yang bertugas melakukan pengawasan kondisi  
+drainase. Isi dashboard ini meliputi informasi mengenai kondisi level air, debit air, serta curah hujan di suatu daerah berdasarkan daerah yang dipilih oleh pengguna. Tampilan utama dashboard yang dibuat memanfaatkan diagram Box Plot. Pemilihan diagram ini dilakukan dengan mempertimbangkan kebutuhan penyajian data yang dapat merangkum informasi yang detail mengenai distribusi nilai dari setiap parameter yang dimonitor. Dengan menggunakan diagram ini juga pengguna bisa secara langsung melihat rangkuman data rata-rata, maksimal, serta data minimal dari setiap ukuran dalam parameter drainase. Berikut contoh penggunaan diagram Box Plot. Selain itu, informational dashboard yang menampilkan kondisi terkini mengenai level air, debit air, dan curah hujan juga dihubungkan ke peta yang ada di Google Map, sehingga pengguna dapat secara real-time mengetahui kondisi terkini semua drainase yang ada pada wilayah tersebut. 
+
+
+
+4) Perancangan Prototype: Sistem yang akan dibangun menggunakan perancangan berbasis layout. Pada makalah ini digunakan tiga lapisan informasi (tiga layout), yang terdiri atas layout yang menampilkan infomasi secara keseluruhan (summary), layout yang memberikan informasi multidimensi dalam bentuk hirarki, serta layout yang menampilkan informasi lebih detail. B. Hasil 
+
+Sistem monitoring drainase yang dibangun berfungsi untuk memantau kondisi drainase di beberapa titik secara real-time dan kontinu dengan memanfaatkan jaringan sensor nirkabel. Beberapa node sensor yang disebar di beberapa titik akan dikomunikasikan dan akan mengirimkan data pada server mengenai kondisi drainase. Parameter yang akan dipantau berupa level air pada drainase, tingkat kedangkalan drainase, serta kondisi curah hujan di sekitar kawasan drainase. Adanya sistem otomatis ini diharapkan dapat memantau kondisi drainase secara real-time, kontinu, serta dapat menyimpan data dengan baik. 
+Komunikasi data yang dilakukan pada monitoring sistem drainase ini dilakukan melalui tiga cara sebagai berikut. 
+1. Sensor mengirimkan data secara otomatis dan periodik berdasarkan waktu yang telah ditentukan. 
+2. Sensor akan mengirimkan data berdasarkan permintaan pengguna aplikasi, yang dilakukan dengan cara memilih menu tampil data dari aplikasi. 
+3. Sensor akan mengirimkan data secara otomatis jika terjadi. 
+
+Gbr. 6, Gbr. 7, dan Gbr. 8 merupakan dokumentasi proses pemasangan sensor di beberapa lokasi.
+
+Selain mengimplementasikan alat ukur curah hujan, dalam kegiatan ini juga dilakukan studi tentang kondisi curah hujan di Pekanbaru dengan mempelajari data curah hujan Pekanbaru selama 10 tahun terakhir. Gbr. 9 menunjukkan data curah hujan Pekanbaru selama 10 tahun terakhir (Sumber: Stasiun Pemantau cuaca BMKG Pekanbaru). 
+Jenis pengguna aplikasi ini dibedakan ke dalam dua kelompok yaitu admin database serta petugas monitoring drainase atau pihak yang membutuhkan informasi sistem ini.
+
+
+ddUser admin diberikan hak untuk mengelola data drainase serta data master lainnya, seperti daerah aliran sungai, stasiun pemantau, waktu kejadian, dan lain-lain. 
+• User petugas diberi hak akses untuk dapat melihat status dan kondisi drainase secara real-time dalam bentuk dashboard.
+
+
+Aplikasi ini memiliki dua menu utama yang terdiri atas Menu Dashboard dan Menu Informasi Detail. Pada tampilan dashboard terdapat tampilan laporan real-time dari ketiga sensor dalam bentuk peta. Pada peta tersebut terdapat beberapa marker yang menandakan titik stasiun pemantau dari ketiga sensor yang sudah dipasang. Tampilan ini sangat bermanfaat bagi tim monitoring untuk melihat kondisi terkini sistem drainase di berbagai tempat. Adanya dashboard ini juga dapat mempercepat proses pengambilan keputusan terkait kondisi drainase. 
+Menu utama yang kedua adalah “Informasi Detail”, yang terdiri atas tiga submenu yaitu Level Air, Debit Air, dan Curah Hujan. Pada masing-masing submenu tersebut ditampilkan informasi rinci mengenai kondisi sensor berdasarkan periode tertentu. 
+Pada setiap submenu Curah Hujan, Level Air dan Debit air, laporan ditampilkan dalam bentuk grafik garis dan grafik batang. Informasi yang terdapat dalam setiap grafik tersebut meliputi informasi mengenai nilai maksimum curah hujan, nilai rata-rata curah hujan, serta nilai minimun curah hujan per periode tertentu. Data-data tersebut dapat dimanfaatkan untuk melihat pola kondisi setiap drainase dari waktu ke waktu, sehingga tim monitoring dapat melakukan penanggulangan sejak awal atau usaha preventif untuk mencegah kerusakan pada sistem drainase berdasarkan pola tersebut.
+
+
+IV.KESIMPULAN 
+Kegiatan monitoring kondisi drainase yang dilakukan melalui aplikasi web dengan informational dashboard digunakan untuk monitoring dan evaluasi untuk memonitor kondisi drainase secara real-time. Selain itu kegiatan monitoring juga dilakukan untuk mendukung strategic planning terkait pengelolaan sistem drainase. Kegiatan monitoring dan evaluasi kondisi drainase ini perlu dilakukan secara real-time dan kontinu agar dapat digunakan untuk pengambilan keputusan yang akurat dan tepat waktu. Dengan adanya aplikasi ini, proses monitoring yang dilakukan oleh tim monitoring secara umum bermanfaat untuk: 
+1. mempercepat dan mempermudah dalam mendapatkan informasi mengenai kondisi terkini sistem drainase, 
+2. meningkatkan efisiensi dan efektifitas proses monitoring, dan 
+3. memudahkan dalam pengambilan keputusan terkait pengelolaan sistem drainase. 
+
+
+
+
+

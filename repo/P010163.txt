@@ -1,0 +1,431 @@
+﻿Pengujian Perumusan Code API (American Petroleum Institute) untuk Joint
+Baja Tubular tidak Digrout dan Digrout dengan Metoda Elemen Hingga
+
+
+Abstrak
+Offshore Platform biasanya menggunakan struktur baja tubular sebagai komponen utama penyusunnya. Kerusakan
+dapat terjadi pada bagian joint tubular, salah satu cara untuk memperbaikinya adalah dengan sistem grouted joint.
+Sistem grouted joint ini dianggap efektif karena biayanya yang tidak terlalu mahal dibandingkan dengan cara yang
+lain serta tidak mengganggu kegiatan operasional platform karena pengerjaannya tidak menghasilkan api.
+Perumusan mengenai kapasitas dari tubular joint (tanpa grout dan dengan grout) sudah dirumuskan di dalam API
+RP 2A WSD (American Petroleum Institute Recommended Practice 2A Working Stress Design) 2007. Hasil perhitungan
+manual berdasarkan code API ini akan dicek dan dibandingkan serta dianalisis dengan hasil dari
+pemodelan elemen hingga. Dari hasil analisis diperoleh kenaikan kapasitas aksial tarik rata-rata yaitu 52,75%
+(min. -6% dan maks. 116%).Kenaikan kapasitas aksial tekan rata-rata yaitu 343,75% (min. 230% dan maks.
+468%). Kenaikan kapasitas momen lentur searah bidang rata-rata yaitu 68,88% (min. 36% dan maks. 98%).
+Kenaikan kapasitas momen lentur keluar bidang rata-rata yaitu 220,50% (min. 71% dan maks. 577%). Sedangkan
+perbedaan hasil antara perhitungan manual berdasarkan API dan pemodelan elemen hingga memiliki perbedaan
+rata-rata sebesar 19% (min. 2% dan maks 42%).
+Kata-kata Kunci: API, Joint tubular, Pemodelan elemen hingga, Sistem grouted joint.
+
+1. Pendahuluan
+Offshore Platform sudah sangat banyak digunakan di
+dunia industri eksploitasi minyak dan gas bumi dengan
+kondisi lingkungan yang sangat bervariasi. Pada
+umumnya struktur Offshore Platform ini menggunakan
+struktur baja tubular sebagai komponen utama
+penyusunnya. Hal ini dikarenakan banyak keuntungan
+jika menggunakan baja tubular ini seperti beratnya
+yang ringan, kekuatannya yang tinggi, kemudahan
+dalam pelaksanaan konstruksinya, dan bentuknya yang
+bulat akan meminimalisir kontak dengan gaya-gaya
+yang bekerja di laut (angin, arus, dan gelombang).
+Pada struktur baja tubular ini terdapat chord member
+dan bracing member, biasanya bracing member di las
+ke permukaan chord member untuk membentuk suatu
+hubungan yang dinamakan tubular joint. Dalam kasus tubular joint ini chord member memegang peranan
+sebagai kekuatan utama yang menopang joint ini
+sedangkan bracing member sebagai tempat beban (gaya
+luar) bekerja. Pada satu joint (sambungan) dapat terdiri
+dari beberapa bracing member, banyaknya bracing
+member yang menempel pada joint tersebut serta arah
+menempelnya bracing tersebut akan menentukan jenis
+dari suatu joint. Pada umumnya desain tubular joint
+mengikuti bentuk-bentuk alphabetical yang sudah
+umum dipakai diantaranya X, T, DT, K, Y, dan lainlain.
+Dalam kasus ini akan dikembangkan analisis dengan
+menggunakan finite element method (metoda elemen
+hingga) yaitu dengan menggunakan software finite
+element yaitu Abaqus/CAE 6.10. Pemilihan metoda
+elemen hingga ini digunakan karena lebih efisien
+dibandingkan dengan menggunakan metoda eksperimental,
+karena jika melakukan metoda eksperimental
+membutuhkan banyak benda uji untuk mendapatkan
+analisis yang diinginkan dan tentunya itu akan
+memakan waktu dan biaya yang tidak sedikit. Walaupun
+hasil eksperimental akan memberikan hasil yang
+sebenarnya (real) dibandingkan dengan analisis elemen
+hingga, oleh karena itu dalam kajian ini akan dilakukan
+verifikasi dengan perumusan API RP 2A WSD
+(American Petroleum Institute Recommended Practice
+2A Working Stress Design) (2007) yang berdasarkan
+hasil eksperimental yang telah dilakukan sebelumnya.
+Offshore platform dapat mengalami kerusakan akibat
+beban-beban yang terjadi maupun akibat kondisi lingkungan
+laut seperti korosi, dll. Hal ini pun dapat terjadi
+pada bagian joint tubular pada platform tersebut. Untuk
+menanggulanginya dapat dilakukan berbagai macam
+usaha perbaikan diantaranya pengelasan kembali, pencopotan
+joint member yang mengalami kerusakan,
+penggantian joint yang rusak dengan yang baru atau
+dengan cara melakukan grouting pada jont yang rusak
+tersebut. Cara-cara tersebut memiliki kelebihan dan
+kekurangan masing-masing. Dalam hal ini akan dianalisa
+cara perbaikan dengan menerapkan sistem grouted
+joint. Cara grouted joint ini dianggap paling efektif
+karena biayanya yang tidak terlalu mahal dibandingkan
+dengan cara yang lain serta tidak mengganggu kegiatan
+operasional platform karena tidak menghasilkan api
+dalam pengerjaannya. Selain itu jika ada suatu kasus
+platform existing yang bebannya akan ditambah dan
+setelah dianalisis strukturnya menjadi tidak kuat, maka
+sistem grouted joint ini dapat menjadi salah satu pilihan
+jenis perkuatan yang dapat dilakukan.
+Perbaikan dengan metoda grouted joint selain dapat
+mengembalikan kekuatan dari joint yang rusak tersebut,
+juga dapat meningkatkan kapasitasnya. Hal ini dikarenakan
+dengan adanya grout akan menambah kekakuan
+dari tubular joint tersebut sehingga otomatis kekuatan
+dari joint tersebut akan meningkat.
+2. Dasar Teoretis
+2.1 Grouted tubular joints
+Grouted tubular joints adalah hal yang biasa dilakukan
+pada struktur offshore platform existing dan menggrouting
+joint adalah cara yang cukup murah dan efektif
+untuk memperkuat struktur lama. Walaupun belum
+banyak code-code offshore yang membahas mengenai
+kapasitas grouted joints. Pada tahun 1990-an banyak
+petunjuk mengenai grouted joint berdasarkan hasil
+eksperimen dan engineering approximations. Eksperimen
+yang banyak dilakukan adalah mengenai doubleskin
+joints yang menahan beban aksial, tetapi MSL
+(1997) mengeluarkan sesuatu data hasil eksperimen
+mengenai fully grouted joints, terutama yang menahan
+momen lentur bracing.
+Menurut API Recommended Practice 2A-WSD (API
+RP 2A-WSD) (2007) ada 2 jenis grouted joints yaitu
+fully grouted joints dan double-skin joints. Sistem fully
+grouted joints diterapkan pada joint yang bukan terletak
+pada leg sedangkan sistem double-skin joints diterapkan
+pada joint yang chord membernya bukan leg member.
+API mensyaratkan pula minimum kekuatan grout
+adalah 41,4 MPa.
+
+
+2.2 Perhitungan kapasitas tubular joints
+2.2.1 Tahanan dasar
+Karakteristik dari tahanan untuk simple tubular joints
+API (2007) diberikan sebagai berikut:
+Keterangan:
+Pa = Kapasitas desain gaya aksial pada joint
+Ma = Kapasitas desain momen lentur pada joint
+Qf = Faktor aksi chord = 1
+Qu = Faktor penguatan
+Fyc = Tegangan leleh dari member chord pada joint
+FS = Safety Factor = 1.6
+2.2.2 Faktor penguatan Qu
+Faktor penguatan ini bergantung pada jenis joint dan
+gaya yang bekerja pada joint tersebut API (2007),
+seperti terlihat pada Tabel 1.
+
+2.2.3 Formulasi untuk grouted joints
+Untuk grouted joints pada umumnya cara perhitungan
+kapasitasnya sama dengan tubular joint biasa hanya
+saja ada perbedaan pada nilai Qu. Nilai Qu untuk perhitungan grouted joints API (2007) diberikan sesuai
+dengan Tabel 2.
+
+Pada perumusan Tabel 2 tidak ada untuk kondisi
+aksial tekan, hal ini dikarenakan grouted joints sangat
+kuat menahan beban aksial tekan sehingga nantinya
+kapasitas joint dalam menahan gaya aksial tekan
+bergantung dari kekuatan bracing member.
+
+Pada perumusan Tabel 2 tidak ada untuk kondisi aksial
+tekan, hal ini dikarenakan grouted joints sangat kuat
+menahan beban aksial tekan sehingga nantinya kapasitas
+joint dalam menahan gaya aksial tekan bergantung
+dari kekuatan bracing member.
+2.3 Metoda elemen hingga
+Untuk membuat model elemen hingga yang tepat dan
+dapat diandalkan untuk menganalisis suatu model,
+diperlukan suatu pembagian elemen (mesh) yang tepat.
+Biasanya pembagian mesh ini dilakukan dalam rentang
+yang jauh lebih rapat di area yang akan mendapatkan
+tegangan yang lebih besar. Sedangkan untuk area yang
+tegangan nya tidak besar, dilakukan mesh dengan jarak
+yang relatif renggang untuk menghemat CPU time.
+Untuk kasus tubular joint daerah yang akan mengalami
+tegangan yang terbesar adalah daerah perpotongan antara
+brace dan chord. Oleh karena itu pada daerah ini
+akan dipartisi (di-mesh) dengan sangat rapat jika
+dibandingkan dengan daerah yang jauh dari daerah
+intersection chord dengan bracing.
+Untuk jenis mesh yang digunakan, Shubin et al (2013)
+menggunakan jenis C3D8I (Hex Linear Incompatible
+Modes). Menurut Shubin et al (2013), hal ini dikarenakan
+elemen ini mempunyai keuntungan di dalam hal
+menentukan masalah kontak. Sedangkan Van der Vegte
+et al (2002) memodelkan tubular joint di dalam Abaqus
+menggunakan elemen C3D20R (Hex Quadratic 20
+solid elements Reduced Integration).
+Elemen yang mempunyai titik (node) di tiap pojoknya.
+seperti kubus 8 titik (terlihat pada Gambar 3a)
+menggunakan interpolasi linier di setiap arah dan sering
+disebut sebagai elemen linier atau elemen orde satu.
+Elemen yang mempunyai titik derajat kebebasan di tiap pojok dan juga di tengah-tengah setiap sisinya seperti
+kubus 20 titik (terlihat pada Gambar 3b) menggunakan
+interpolasi kuadratik di setiap arah dan sering disebut
+sebagai elemen kuadratik atau elemen orde dua. Elemen
+bidang empat modifikasi dengan titik (node) di tiap
+pojok dan juga di tengah-tengah setiap sisinya, seperti
+tetrahedron 10 titik (terlihat pada Gambar 3c)
+menggunakan interpolasi orde dua modifikasi dan
+sering disebut sebagai elemen orde dua modifikasi.
+Sesuai dengan pembahasan di Abaqus/CAE 6.10
+dijelaskan bahwa Elemen C3D8I (Hex Linear Incompatible
+Modes) adalah yang paling sesuai untuk menggambarkan
+kontak dan elemen ini mempunyai akurasi
+yang baik serta mempunyai CPU-Time yang lebih kecil.
+Sehingga dengan menggunakan elemen ini diharapkan
+dapat menghemat waktu pemodelan elemen hingga dan
+tetap mendapatkan hasil yang baik dan sesuai.
+2.4 Penentuan kegagalan dan kapasitas maksimum
+tubular joint
+Berdasarkan artikel ilmiah yang ditulis oleh D.A
+Pecknold et al (2001) telah dipelajari dan diteliti
+sebelumnya bahwa untuk menentukan kegagalan suatu tubular joint ditetapkanlah suatu parameter pembatas.
+Dalam hal ini adalah suatu formulasi perpindahan
+(untuk gaya aksial) dan rotasi (untuk momen lentur)
+yang dinamakan Batas Deformasi Yura. Dengan
+formulasi sebagai berikut:
+Keterangan:
+3 = perpindahan (displacement) maksimum pada
+joint
+β = d/D (perbandingan diameter bracing dengan
+chord)
+Fy = tegangan leleh baja tubular
+E = modulus elastisitas baja tubular
+f   = rotasi maksimum pada joint
+Cara untuk menentukan kapasitas maksimum dengan
+menggunakan persamaan Batas Deformasi Yura adalah
+dengan menghitung nilai 3 dan 4 pada joint tersebut
+lalu tarik titik itu pada kurva (gaya vs perpindahan atau
+momen vs rotasi) yang telah di plot sebelumnya.
+Berikut ini adalah contoh penentuan kapasitas aksial
+joint berdasarkan kriteria kegagalan Batas Deformasi
+Yura:
+Dalam contoh ini didapatkan 3 = 6mm. Lalu tarik
+sejajar sumbu y sampai menyentuh kurva lalu baca
+nilai tersebut pada sumbu y. Maka didapatkanlah kapasitas
+maksimum dari joint tubular tersebut berdasarkan
+Yura Displacement Limit. Jika ada nilai yang lebih
+tinggi dibandingkan dengan titik fail tersebut, maka
+nilai yang lebih tinggi itu adalah kapasitas maksimumnya.
+3. Metode Penelitian
+Dengan mempertimbangkan seluruh dasar teoretis yang
+telah diuraikan sebelumnya, maka akan dilakukan
+metoda penelitian yang akan bersifat kualitatif sesuai
+dengan kerangka konseptual yang ditampilkan pada
+Gambar 5.
+
+
+
+
+4. Hipotesis
+Berdasarkan dasar teoretis yang dikemukakan sebelumnya,
+maka dirumuskan hipotesis berikut ini: “Hasil
+pemodelan elemen hingga akan memberikan hasil yang
+tidak berbeda jauh dengan hasil perhitungan kapasitas
+tubular joint (tanpa grout dan dengan grout) yang
+didasarkan pada perumusan API. Hal ini dikarenakan
+perumusan pada code API berdasarkan pada hasil
+eksperimen dan juga metoda elemen hingga yang sebelumnya
+pernah dilakukan. Selain itu sistem grouted
+joint dapat mengembalikan atau bahkan dapat meningkatkan
+kapasitas dari joint tubular karena keberadaan
+grout akan meningkatkan kekakuan dan dapat mempertahankan
+bentuk joint tersebut pada saat beban bekerja.”
+5. Studi Kasus
+5.1 Deskripsi model studi
+Dalam paper ini akan dimodelkan 4 variasi nilai β (d/D)
+dan γ (D/2T) dengan masing-masing terdiri dari grouted
+dan ungrouted tubular joint serta diberikan 4 pembebanan
+(aksial tekan, aksial tarik dan momen lentur
+searah bidang serta momen lentur keluar bidang). Hal
+ini bertujuan untuk melihat bagaimana hubungan nilai β
+dan γ terhadap kapasitas tubular joint (dengan grout
+dan tanpa grout). Dalam paper ini, jenis elemen hingga
+yang digunakan adalah C3D8I sama dengan jenis
+elemen hingga yang digunakan Shubin et al (2013).
+Gambar 6 akan menunjukkan konfigurasi dari tubular
+joint yang akan dimodelkan dalam paper ini dan Tabel
+3 akan berisi rangkuman dari properti dan dimensi
+pemodelan yang akan diteliti dan dianalisis:
+Dimensi model akan dibuat sesuai dengan konfigurasi
+pada Gambar 6 hal ini dikarenakan sesuai dengan
+penelitian dan eksperimen yang dilakukan oleh Shubin
+et al (2013) dan MSL (1997). Gambar 6. Konfigurasi dari tubular joint yang akan
+dimodelkan
+Boundary condition yang diaplikasikan dalam
+pemodelan ini adalah kedua sisi chord diberikan
+tahanan sendi-roll lalu sisi-sisi yang dipotong simetris
+diberikan tahanan Xsymm (menahan translasi arah x
+dan rotasi arah y dan z).
+Properti material grout yang digunakan memiliki
+kekuatan tekan sebesar 41,4 MPa sesuai dengan
+persyaratan minimum API. Selain itu dalam penelitian
+ini diasumsikan bond yang terjadi antara baja tubular
+dengan grout adalah non-slip bonding. Kondisi ini
+dianggap kondisi yang ideal yang diharapkan terjadi
+sedangkan jika yang terjadi adalah kondisi slip bonding,
+diperlukan penelitian lebih lanjut.
+Dalam bagian 5.2 akan menampilkan contoh hasil
+pemodelan elemen hingga model A berupa distribusi
+tegangan (stress) yang terjadi pada tubular joint (tanpa
+grout dan dengan grout) dan bentuk dari deformasi yang
+terjadi pada joint akibat adanya perpindahan atau rotasi
+yang diberikan. Serta kurva hasil plot gaya vs perpindahan
+dan momen lentur vs rotasi untuk menentukan
+kapasitas dari joint.
+
+Terlihat dari hasil visualisasi model A (Gambar 7,
+Gambar 9, Gambar 11, Gambar 13) bahwa dengan
+adanya grout akan membuat adanya distribusi stress
+yang juga diberikan kepada grout tersebut sehingga
+kapasitas dari tubular joint meningkat. Sedangkan dari
+gambar kurva untuk semua pembebanan (Gambar 10,
+Gambar 12, Gambar 14) menunjukkan peningkatan
+kapasitas tubular joint setelah di grout kecuali untuk
+kapasitas aksial tarik (Gambar 8) yang mengalami
+sedikit penurunan. Tetapi hal ini sesuai dengan perumusan
+API RP 2A WSD 2007, nilai Qu untuk kapasitas
+tarik ungrout adalah 30β sedangkan untuk grout 2.5βγ,
+dalam kasus tertentu, di mana nilai 30β > 2.5βγ akan
+menyebabkan kapasitas tarik ungrout masih lebih besar
+jika dibandingkan dengan kapasitas tarik grout.
+5.2.1 Verifikasi pemodelan model A
+Khusus untuk model A, spesifikasi model ini sama
+seperti spesifikasi jurnal yang ditulis oleh Shubin et al
+(2013), hanya saja pada jurnal tersebut hanya menampilkan
+kurva gaya tekan vs perpindahan untuk ungrout
+tubular joint, berikut hasilnya:
+
+
+Pada jurnal tersebut ditulis bahwa hasil eksperimental
+memberikan hasil: 134,72 kN dan hasil metoda elemen
+hingga yang mereka lakukan memberikan hasil: 133,54
+kN. Sedangkan hasil output elemen hingga dari model
+A ini memberikan hasil 132,72 kN. Hasil ini menunjukkan
+perbedaan yang sangat kecil antara hasil yang
+didapatkan Shubin et al dengan model A yang diteliti,
+perbedaanya kurang dari 2%. Hal ini menunjukkan
+bahwa pemodelan elemen hingga yang dilakukan
+sudah benar.
+5.3 Rangkuman hasil pemodelan dan perhitungan
+manual berdasarkan API
+Tabel 4 s/d Tabel 7 akan menunjukkan rangkuman
+hasil dari keempat pemodelan tubular joint (tanpa
+grout dan dengan grout) yang telah dihitung masingmasing
+kapasitasnya. Baik menggunakan perhitungan
+manual berdasarkan API maupun dengan
+menggunakan hasil dari pemodelan elemen hingga dan
+untuk semua jenis pembebanan (aksial tekan, aksial
+tarik dan momen lentur searah bidang serta momen
+lentur keluar bidang).
+
+
+6. Kesimpulan
+1. Dengan adanya grout pada joint tubular akan memberikan
+peningkatan kapasitas untuk semua jenis
+pembebanan (aksial tekan, aksial tarik dan momen
+lentur searah bidang serta momen lentur keluar
+bidang). Hal ini sudah dibuktikan dari hasil analisa
+pemodelan elemen hingga dan perhitungan manual
+berdasarkan API RP 2A WSD 2007. Kecuali kapasitas
+tarik pada joint dengan dimensi tertentu. Hal ini
+sesuai dengan perumusan API RP 2A WSD 2007,
+nilai Qu untuk kapasitas tarik ungrout adalah 30β
+sedangkan untuk grout 2.5βγ, dalam kasus tertentu,
+di mana nilai 30β > 2.5βγ akan menyebabkan kapasitas
+tarik ungrout masih lebih besar jika dibandingkan
+dengan kapasitas tarik grout.
+Berdasarkan Tabel 4 s/d Tabel 7 dapat disimpulkan
+pula peningkatan kapasitas akibat adanya grout:
+a. Peningkatan kapasitas tarik rata-rata: 52,75%
+(min. -6% dan maks. 116%).
+b. Peningkatan kapasitas tekan rata-rata: 343,75%
+(min. 230% dan maks. 468%).
+c. Peningkatan kapasitas momen lentur searah
+bidang rata-rata: 68,88% (min. 36% dan maks.
+98%).
+d. Peningkatan kapasitas momen lentur keluar
+bidang rata-rata: 220,50% (min. 71% dan maks.
+577%).
+2. Dari hasil penelitian dan analisis yang telah
+dilakukan diperoleh perbedaan antara perhitungan
+manual berdasarkan code API RP 2A WSD 2007
+dengan hasil pemodelan elemen hingga memberikan
+hasil yang pada umumnya tidak berbeda jauh,
+maksimum 42% (hanya ada 1 data) dan minimum
+2% sedangkan rata-rata perbedaan sebesar 19%.
+3. Untuk parameter kekuatan tubular joint yaitu γ
+(D/2T), makin kecil nilai γ akan meningkatkan
+kapasitas dari tubular joint tersebut untuk semua
+jenis pembebanan (hal ini berlaku untuk kondisi
+tanpa grout maupun dengan grout). Hal ini dikarenakan
+makin kecil γ akan meningkatkan kekakuan
+radial (radial stiffness) sehingga kekuatan joint akan
+meningkat.
+4. Untuk parameter kekuatan tubular joint yaitu β (d/
+D), makin besar nilai β akan meningkatkan kapasitas
+dari tubular joint tersebut untuk semua jenis
+pembebanan (hal ini berlaku untuk kondisi tanpa
+grout maupun dengan grout). Hal ini dikarenakan
+makin besar β mengindikasikan ukuran brace member
+yang semakin besar yang sehingga gaya yang
+diterima dapat semakin besar juga sehingga otomatis
+kapasitas joint akan meningkat.
+5. Dalam paper ini, diambil beberapa contoh kasus
+joint tubular tanpa grout yang dimodelkan
+menggunakan jenis elemen hingga C3D20R untuk
+kasus kapasitas tekan A, kapasitas tarik C, kapasitas
+momen lentur searah bidang A, dan kapasitas
+momen lentur keluar bidang D. Ternyata diperoleh
+hasil yang mendekati dengan analisis menggunakan
+elemen C3D8I. Perbedaan terbesar terjadi pada
+kapasitas momen lentur keluar bidang D yaitu 14%
+sedangkan perbedaan terkecil terjadi pada kapasitas
+tekan A yaitu 0,3%.
+Singkatan
+API American Petroleum Institute
+API RP 2A WSD American Petroleum Institute
+Recommended Practice 2A
+Working Stress Design
+CAE Computer-aided Engineering
+CPU Central Processing Unit
+MSL Master Science Laboratory
+D Diameter chord member
+d Diameter bracing member
+E Modulus elastisitas baja tubular
+Fy Tegangan leleh pada baja tubular
+Fyc Tegangan leleh chord member pada joint
+FS Safety factor
+g Gap (celah)
+Ka Faktor sudut joint
+Ma Kapasitas desain momen lentur pada joint
+Pa Kapasitas desain gaya aksial pada joint
+Qg Faktor celah
+Qβ Faktor geometri
+Qf Faktor aksi chord
+Qu Faktor penguatan
+T Ketebalan chord member
+t Ketebalan bracing member
+β Perbandingan diameter chord member
+dengan bracing member
+γ Perbandingan diameter chord member
+dengan tebal chord member
+δ Perpindahan (displacement) maksimum pada
+joint
+f Rotasi maksimum pada joint
+θ Sudut antara chord member dengan bracing
+member

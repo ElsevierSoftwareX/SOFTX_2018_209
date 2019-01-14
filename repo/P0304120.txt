@@ -1,0 +1,126 @@
+﻿Analisis data hujan merupakan awal analisis dari setiap perencanaan
+bangunan air, maka analisis terhadap data hujan perlu dilakukan secara teliti.
+Namun, pada kenyataannya di dalam suatu Daerah Aliran Sungai (DAS) yang
+akan dilakukan perencanaan memiliki jumlah stasiun (kerapatan jaringan stasiun
+hujan) yang bervariasi. Oleh karena itu, penting untuk dilakukan penelitian yang
+bertujuan untuk menganalisis seberapa besar pengaruh jumlah stasiun terhadap
+hujan rancangan yang dihasilkan.
+Penelitian ini dilakukan pada DAS Way Sekampung (4.999,2 km2) yang
+memiliki 28 stasiun pencatat hujan. Untuk mendapatkan hujan wilayah (rerata
+DAS) digunakan metode Poligon Thiessen. Dalam penelitian ini dilakukan
+analisis frekuensi dimana untuk melihat pengaruh jumlah stasiun, dilakukan dua
+skenario, yaitu: (1) pengurangan jumlah stasiun hujan berdasarkan curah hujan
+maksimum untuk 28 stasiun keseluruhan DAS, (2) pengurangan jumlah stasiun
+hujan berdasarkan stasiun pada daerah hulu, tengah, dan hilir.
+Berdasarkan hasil analisis frekuensi menggunakan 28 stasiun, sebaran hujan
+yang cocok pada DAS Way Sekampung adalah Log Pearson III. Hasil penelitian
+juga menunjukkan bahwa peningkatan jumlah stasiun yang digunakan akan
+menghasilkan data hujan rancangan yang semakin baik karena tingkat
+penyimpangannya akan semakin kecil. Beberapa faktor yang mempengaruhi
+besarnya nilai hujan rancangan yang dihasilkan adalah adanya pengaruh
+pemilihan metode yang digunakan dalam menentukan hujan wilayah (rerata DAS)
+dan metode distribusi frekuensi yang digunakan.
+Kata kunci : Daerah Aliran Sungai Way Sekampung (DAS Way Sekampung),
+Hujan Rancangan, Jumlah Stasiun.
+
+I. PENDAHULUAN
+A. Latar Belakang
+Data hidrologi merupakan data yang menjadi dasar dari perencanaan kegiatan
+Pengelolaan Sumber Daya Air (SDA) di wilayah sungai, seperti perencanaan
+bangunan irigasi, bagunan air, pengelolaan sungai, pengendalian banjir dan
+lain-lain. Oleh karena itu, data hidrologi perlu dikelola ke dalam suatu sistem
+hidrologi agar tersedia informasi SDA yang akurat, benar dan tepat waktu
+bagi semua pihak yang berkepentingan. Analisis hidrologi merupakan
+parameter yang dominan dan memerlukan penanganan yang sangat cermat.
+Ketepatan dan kecermatan analisis mensyaratkan keakuratan data hidrologi
+itu sendiri.
+Dalam mempersiapkan data hidrologi secara umum, terdapat 2 (dua) masalah
+yang sering ditemui yaitu :
+1. Ketetapan tentang jumlah stasiun hujan dan stasiun hidrometri (stasiun
+pengamatan) yang akan digunakan dalam analisis, termasuk di dalamnya
+pola penyebaran stasiun dalam DAS yang ditinjau.
+2. Berapa besar ketelitian yang dapat dicapai oleh suatu jaringan
+pengamatan dengan kerapatan tertentu.
+Kedua masalah tersebut merupakan masalah yang penting dan merupakan
+masalah awal yang harus dipecahkan sebelum analisis hidrologi dilakukan.
+
+Perencanaan, pengelolaan dan pengembangan sumber daya air selalu
+memerlukan analisis terhadap variabel hidrologi seperti curah hujan.
+Beberapa cara yang digunakan untuk menganalisis data hidrologi seperti
+analisis frekuensi, hidrograf satuan, pengalihragaman curah hujan menjadi
+debit, perhitungan debit rancangan merupakan cara terbaik untuk mengetahui
+debit pada suatu Daerah Aliran Sungai (DAS).
+Menurut Harto (1993) hujan merupakan komponen masukan yang paling
+penting dalam proses hidrologi, karena jumlah kedalaman hujan tersebut
+yang akan dialihragamkan menjadi aliran di sungai, baik melalui limpasan
+permukaan, aliran antara, maupun sebagai aliran air tanah. Untuk
+mendapatkan perkiraan besar hujan yang terjadi di seluruh DAS, diperlukan
+data kedalaman hujan dari banyaknya stasiun hujan yang tersebar di seluruh
+DAS. Kerapatan data hujan dan jumlah stasiun pencatat hujan dalam suatu
+DAS akan memberikan perbedaan dalam besaran hujan yang didapatkan.
+Harto (1986) mendapatkan bahwa perbedaan panjang data yang dipergunakan
+dalam analisis hidrologi memberikan penyimpangan yang cukup berarti
+terhadap perkiraan hujan dengan kala ulang tertentu. Analisis data hujan
+yang merupakan awal analisis dari setiap perencanaan maupun perancangan
+bangunan-bangunan hidrolika, maka analisis terhadap data hujan ini perlu
+dilakukan secara teliti. Kesalahan pada analisis ini akan terbawa ke analisis
+berikutnya.
+
+Menurut Harto (1993) beberapa kesalahan yang sangat sering dijumpai dalam
+data hidrologi antara lain :
+1. Jaringan stasiun hujan
+Jumlah stasiun hujan dalam suatu DAS akan menentukan kecermatan
+informasi data hujan yang akan digunakan dalam analisis.
+2. Kelengkapan data hujan
+Setiap upaya pengumpulan data hujan, hampir selalu dijumpai sejumlah
+data yang hilang. Data yang hilang tersebut harus diperlakukan dengan
+cara yang benar agar dalam analisis selanjutnya kesalahan yang terjadi
+dapat dikurangi.
+3. Panjang data hujan
+Selain kelengkapan data, panjang data hujan yang tersedia berpengaruh
+terhadap kecermatan suatu jenis hitungan tertentu, antara lain ketelitian
+terhadap analisis frekuensi.
+4. Kepanggahan data
+Kepanggahan (konsistensi) data merupakan salah satu syarat mutlak bagi
+satu seri data hujan, sebelum data tersebut dianalisis lebih jauh. Data dari
+setiap stasiun hujan harus diuji dengan cara-cara yang berlaku sehingga
+apabila diperlukan, dapat dilakukan perlakuan khusus terhadap data
+tersebut.
+5. Cara analisis
+Prosedur analisis yang dilakukan harus dipilih dengan tepat dan mengikuti
+cara-cara terbaru yang dikenal dalam hidrologi.
+
+Untuk keperluan analisis data hujan pada suatu DAS diperlukan data
+pengukuran curah hujan yang panjang dari stasiun pencatat hujan, tetapi
+sering dijumpai data yang tersedia tidak lengkap atau bahkan tidak ada sama
+sekali. Jika data yang digunakan sebagai input untuk analisis hidrologi yaitu
+data hujan yang diperoleh dari stasiun pencatat hujan selalu bertambah setiap
+tahunnya, maka kajian tentang pengaruh jumlah stasiun hujan terhadap
+besaran hujan rancangan yang akan terjadi perlu diketahui.
+B. Tujuan Penelitian
+Tujuan dari penelitian tesis ini yang berjudul “Pengaruh Jumlah Stasiun
+Hujan dalam Analisis Hidrologi terhadap Hujan Rancangan (Studi Kasus :
+DAS Way Sekampung)” adalah :
+1. Menganalisis pengaruh jumlah stasiun hujan pada DAS Way Sekampung
+dalam analisis hidrologi terhadap hujan rancangan yang dihasilkan oleh 28
+stasiun sampai 3 stasiun.
+2. Menganalisis pengaruh jumlah stasiun hujan pada Sub DAS Way
+Sekampung bagian Hulu, Tengah dan Hilir.
+C. Batasan Masalah
+Mengacu pada judul tesis tersebut, maka batasan masalah dalam penelitian
+ini adalah :
+1. Lokasi penelitian adalah DAS Way Sekampung.
+2. Data curah hujan yang digunakan dalam analisis hidrologi adalah data
+curah hujan yang didapat dari Stasiun Pos Hujan, pada DAS Way
+
+Sekampung terdapat 28 Stasiun Pos Hujan. Data hujan yang digunakan
+tahun 1991 sampai dengan tahun 2011 (tahun 2007 tidak digunakan dalam
+analisis karena tidak terdapat data hujan pada semua stasiun pos hujan).
+3. Metode yang digunakan untuk menghasilkan hujan rerata pada DAS
+adalah Metode Polygon Thiessen.
+4. Analisis hidrologi dilakukan untuk mendapatkan hujan rancangan dengan
+kala ulang tertentu.
+D. Manfaat Penelitian
+Manfaat penelitian ini adalah untuk mengetahui pengaruh panjang data dan
+jumlah stasiun pencatat hujan dalam menghasilkan hujan rancangan sehingga
+dapat diketahui karakteristik hujan DAS Sekampung.

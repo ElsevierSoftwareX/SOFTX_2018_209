@@ -1,0 +1,82 @@
+﻿Analisis untuk data skala ordinal biasanya dilakukan dengan menghitung
+persentase frekuensi atau rata-ratanya berdasarkan bobot yang telah ditentukan.
+Akan tetapi cara tersebut menghasilkan nilai yang sulit ditafsirkan ke dalam
+makna yang sebenarnya dan menimbulkan ketidakpastian. Sistem Inferensi Fuzzy
+merupakan proses penarikan kesimpulan berdasarkan logika fuzzy yang
+merupakan salah satu cara untuk melakukan analisis sistem yang mengandung
+kesamaran (fuzziness) serta konsep tidak pasti. Salah satu metode yang digunakan
+dalam sistem inferensi fuzzy ialah metode Sugeno orde nol. Metode ini
+menggunakan konsekuen bernilai konstan dan fuzzy singleton. Penelitian ini
+bertujuan untuk menganalisis sistem inferensi fuzzy Metode Sugeno orde nol
+untuk data skala ordinal dengan lima tingkatan. Adapun tahapan dalam sistem
+inferensi fuzzy metode Sugeno orde nol untuk data ordinal yaitu ; menentukan
+variabel dan himpunan fuzzy, fuzzifikasi, pembentukan aturan fuzzy dengan fungsi
+implikasi, dan defuzzifikasi. Pada data hasil survey tingkat kepuasan siswa
+terhadap pelayan pada aspek kejelasan pelayanan, diperoleh hasil akhir sebesar 56
+yang berarti Cukup Puas.
+Kata kunci : Data ordinal, Logika Fuzzy, Metode Sugeno Orde Nol, Sistem
+Inferensi Fuzzy.
+
+data ordinal. Menurut
+Agresti (2007), data ordinal merupakan data dengan penggolongan berdasarkan
+suatu kategori dan adanya penataan di dalamnya, misalnya dengan menetapkan
+nilai pada setiap tingkatan kategori. Contohnya dalam mengukur respon dari
+responden terhadap suatu pernyataan : sangat tidak setuju = 1, tidak setuju = 2,
+netral = 3, setuju = 4, dan sangat setuju = 5. Nilai (1,2,3,4, dan 5) tersebut
+hanyalah simbol untuk membedakan tingkatan kategori mulai dari tingkatan
+terendah sampai tertinggi ataupun sebaliknya, sehingga menimbulkan
+ketidakpastian.
+Pada umumnya analisis yang digunakan peneliti untuk data skala ordinal ialah
+dengan menghitung persentase frekuensi atau dengan menghitung rata-ratanya
+berdasarkan bobot yang telah ditentukan. Akan tetapi cara tersebut menghasilkan
+nilai yang sulit ditafsirkan ke dalam makna yang sebenarnya dan menimbulkan
+ketidakpastian. Misalkan dalam analisis hasil kuisioner survei respon masyarakat
+terhadap suatu kebijakan, peneliti memberikan bobot pada masing-masing
+levelnya seperti ; Sangat Tidak Setuju = 1, Tidak Setuju = 2, Netral = 3, Setuju =
+4 dan Sangat Setuju = 5. Setelah dilakukan perhitungan, ternyata diperoleh ratarata
+sebesar 3,5. Berdasarkan bobot yang telah ditentukan sebelumnya, nilai 3,5
+tidak terdapat dalam pembobotan. Oleh karena itu sulit untuk menafsirkannya.
+Jika dilihat, nilai 3,5 berada diantara level Netral dan Setuju. Hal inilah yang
+menimbulkan ketidakpastian serta terkadang mengakibatkan kesalahan dalam
+penafsiran makna yang sebenarnya. Oleh karena itu penggunaan logika (kaidah)
+fuzzy pada analisis dana skala ordinal sangat dianjurkan., sebab logika fuzzy
+memperhatikan setiap pergeseran nilai dalam tiap level dari kategori data ordinal
+tersebut serta dapat mengetahui nilai keanggotaan yang dapat digunakan untuk
+penentuan level pada ketegori tersebut.
+Logika fuzzy merupakan salah satu cara untuk melakukan analisis sistem yang
+mengandung kesamaran (fuzziness) serta konsep tidak pasti dalam bentuk
+linguistik seperti “sedikit”, “lumayan”, dan “sangat”. Dalam logika fuzzy,
+pengambilan keputusan dan kesimpulan dilakukan dengan sistem inferensi yang
+disebut dengan sistem inferensi fuzzy, yang merupakan proses penarikan
+kesimpulan berdasarkan penalaran logika fuzzy.
+Sistem Inferensi Fuzzy (Fuzzy Inference System) dapat dilakukan dengan
+menggunakan beberapa metode, yaitu Metode Mamdani, Metode Tsukamoto, dan
+Metode Sugeno. Dalam perkembangannya, metode Sugeno dibagi menjadi dua,
+yaitu metode Sugeno orde nol dan metode Sugeno orde satu. Perbedaan dari
+metode-metode tersebut dapat dilihat pada proses komposisi aturan dan proses
+defuzzifikasinya. Metode Sugeno orde nol memiliki ciri khusus dibanding dengan
+kedua metode lainnya. Pada metode ini konsekuen atau output dalam sistem
+inferensi bukan merupakan himpunan fuzzy melainkan konstanta. Selain itu, pada
+metode ini konsekuen menggunakan fungsi keanggotan singleton. Singleton
+merupakan fungsi keanggotaan yang mempunyai support tunggal. Serta pada
+proses akhir metode ini, hasil akhir diperoleh dengan menghitung rata-rata
+terbobot. Berdasarkan hal tersebut, penulis tertarik untuk menggunakan metode
+Sugeno orde nol dalam penelitian ini. Masalah pada penelitian ini adalah
+bagaimana cara menganalisis sistem inferensi fuzzy dengan metode Sugeno orde
+nol untuk data berskala ordinal. Oleh karena itu dalam penelitian ini penulis
+tertarik untuk menganalisis sitem inferensi fuzzy dengan metode Sugeno orde nol
+untuk data berskala ordinal.
+1.2 Batasan Masalah
+Adapun batasan masalah pada penelitian ini yaitu data skala ordinal yang
+digunakan adalah data skala ordinal dengan lima tingkatan (level), serta
+menggunakan fungsi representasi linear turun pada tingkatan (level) paling
+rendah, linear naik pada tingkatan (level) tertinggi, dan segitiga untuk tingkatan
+(level) diantaranya.
+1.3 Tujuan Penelitian
+Tujuan dari penelitian ini adalah menganalisis sistem inferensi fuzzy dengan
+metode Sugeno orde nol untuk data skala ordinal.
+
+Manfaat dari penelitian ini adalah :
+1. Memberikan informasi tentang tahapan-tahapan dalam sistem inferensi fuzzy
+metode Sugeno orde nol untuk data skala ordinal.
+2. Dapat mengaplikasikannya pada kasus yang berkaitan dengan penelitian ini.

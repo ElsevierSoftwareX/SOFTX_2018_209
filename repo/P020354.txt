@@ -1,0 +1,91 @@
+﻿ABSTRAK
+Data time series yang dipengaruhi oleh beberapa kejadian yang disebut intervensi
+akan mengakibatkan perubahan pola data pada satu waktu t. Analisis intervensi
+terdiri dari dua fungsi yaitu fungsi step dan fungsi pulse. Intervensi fungsi step
+merepresentasikan sebuah kejadian intervensi yang memiliki pengaruh jangka
+panjang sedangkan intervensi fungsi pulse merepresentasikan sebuah kejadian
+intervensi yang terjadi pada suatu waktu tertentu. Model intervensi fungsi step
+dibentuk berdasarkan : waktu tunda terjadinya intervensi (b), lamanya intervensi
+berpengaruh (s), dan pola efek intervensi yang terjadi setelah b+s periode (r).
+Pemodelan intervensi dilakukan setelah diperoleh model ARIMA (Autoregressive
+Integrated Moving Average). Model ARIMA ini digunakan untuk menentukan
+orde intervensi b, s, dan r. Dalam penelitian ini analisis intervensi fungsi step
+digunakan untuk mengkaji data jumlah benda pos pada periode Januari 2006
+sampai dengan Februari 2011. Berdasarkan hasil analisis, model ARIMA yang
+dihasilkan adalah ARIMA (0,1,1). Berdasarkan residual respon intervensi
+diperoleh nilai b = 4, s = 0, r = 2 yang digunakan untuk membentuk model
+intervensi dengan menggunakan metode kuadrat terkecil.
+Kata kunci: ARIMA, model intervensi, fungsi step
+
+BAB I
+PENDAHULUAN
+1.1 Latar Belakang
+Menurut Makridakis (1988) penggunaan metode peramalan yang tepat akan
+menghasilkan nilai peramalan yang mendekati nilai empiris atau dapat dikatakan
+menghasilkan error minimum. Penentuan metode ini dilakukan atas dasar pola
+plot time series data masa lalu yang menunjukkan ada atau tidaknya pola trend,
+musiman, siklus, atau stasioner.
+Menurut Makridakis (1988) metode Box-Jenkins pertama kali
+diperkenalkan oleh George Box dan Gwilym Jenkins pada tahun 1976. Metode ini
+akan menghasilkan model Autoregressive Integrated Moving Average (ARIMA)
+yang digunakan untuk peramalan deret berkala univariat dengan sifat stasioner
+dalam rata-rata maupun varian. Peristiwa yang terjadi di luar dugaan atau
+kebijakan yang dikeluarkan oleh sebuah instansi merupakan bentuk intervensi
+yang akan menyebabkan pola data berubah pada satu waktu (Nuvitasari, 2009).
+Perubahan data yang ekstrim dapat dikaji dengan menggunakan analisis
+intervensi. Menurut Budiarti (2013) pengaruh dari adanya intervensi ini dapat
+bersifat sementara atau jangka panjang. Keduanya dibedakan oleh lamanya
+pengaruh intervensi terhadap perubahan pola data. Analisis intervensi fungsi step
+digunakan untuk intervensi yang bersifat jangka panjang, misalnya penetapan
+kenaikan tarif dasar listrik terhadap pemakaian listrik rumah tangga. Pemakaian
+listrik di rumah tangga akan menurun dan terus ada dibawah pemakaian listrik
+sebelum terjadi kenaikan tarif dasar listrik. Sedangkan analisis intervensi fungsi
+pulse digunakan untuk intervensi yang bersifat jangka pendek atau sementara,
+seperti bencana alam gunung merapi akan berpengaruh terhadap jumlah
+pengiriman kargo berupa bantuan pada satu waktu tertentu.
+Menurut Ihsan (2013) Senior Technical Advisor DHL Express Indonesia
+Ahmad Mohammad di Semarang mengatakan pada tahun 2010 terjadi lonjakan
+kegiatan bisnis di beberapa area perindustrian, termasuk Semarang. Kota
+Semarang masuk dalam daftar kota yang memberikan kontribusi dalam
+perkembangan bisnis logistik. Keberadaan industri-industri garmen dan tekstil
+berskala besar di Semarang menjadi pendukung munculnya agen-agen logistik
+yang membantu dalam proses pengiriman barang maupun surat-surat penting
+yang berkaitan dengan bisnis. Kota Semarang memiliki area yang strategis
+sehingga sangat mudah dijangkau dari berbagai arah. Selain itu, Kota Semarang
+juga memiliki tiga jalur akses pengiriman, yaitu melalui udara, darat, dan laut.
+Letak Kota Semarang yang berada di tengah-tengah Pulau Jawa menjadikan kota
+ini sebagai pos kegiatan bisnis terutama di area Jawa Tengah. Proses
+pendistribusian barang maupun surat-surat (mail) akan lebih mudah jika dilakukan
+melalui jalur darat (trucking) karena selain letak Kota Semarang yang mudah
+dijangkau melalui akses jalur darat, prosedur pengiriman melalui jalur darat lebih
+sederhana dibandingkan pengiriman melalui jalur udara. Manajer Operasi PT.
+Gapura Angkasa Cabang Bandara Ahmad Yani Semarang, Fajar Nugroho Adi
+mengatakan bahwa seiring dengan meningkatnya kegiatan bisnis di Indonesia
+khususnya area Jawa Tengah para agen logistik beralih ke jalur pengiriman
+melalui darat (trucking) karena lebih cepat, mudah, dan barang langsung sampai
+ke tangan konsumen. Penurunan kegiatan pengiriman melalui udara menurun
+sejak bulan September 2008, namun penurunan yang ekstrim terjadi pada bulan
+Maret 2010. Peralihan akses jalur pengiriman melalui darat oleh beberapa agen
+logistik dapat menjadi sebuah intervensi yang terjadi pada saat t = Maret 2010
+terhadap jumlah benda pos yang dikirim melalui jalur udara di Semarang. Oleh
+karena itu, penulis akan mencoba mengaplikasikan metode analisis intervensi
+fungsi step untuk mengetahui model intervensi dan menduga jumlah benda pos
+yang dikirim ke Kota Semarang.
+
+
+1.2 Perumusan Masalah
+Berdasarkan uraian di atas, maka rumusan masalah yang akan dibahas
+adalah :
+1. Bagaimana cara menentukan model intervensi fungsi step pada peralihan
+akses jalur pengiriman melalui darat (trucking) terhadap jumlah pengiriman
+benda pos ke Semarang?
+2. Bagaimana hasil peramalan jumlah pengiriman benda pos ke Semarang
+dengan menggunakan model intervensi fungsi step?
+
+1.3 Tujuan Penelitian
+Tujuan dari penelitian ini adalah :
+1. Mendapatkan model intervensi fungsi step pada peralihan akses jalur
+pengiriman melalui darat (trucking) terhadap jumlah pengiriman benda pos
+ke Semarang.
+2. Mengetahui hasil peramalan jumlah pengiriman benda pos ke Semarang
+dengan menggunakan model intervensi fungsi step.

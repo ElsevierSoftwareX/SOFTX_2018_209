@@ -1,0 +1,366 @@
+﻿KAJIAN PERUBAHAN PENGGUNAAN LAHAN DAN
+HARGA LAHAN DI WILAYAH SEKITAR PINTU TOL
+UNGARAN
+
+
+Abstrak: Pengoperasian seksi 1 Jalan Tol Semarang-Solo menyediakan alternatif akses
+jaringan jalan antara Kota Semarang dengan wilayah hinterland-nya yaitu Ungaran.
+Peningkatan aksesibilitas jalan dari Semarang ke Ungaran telah secara mutlak akan
+berdampak terhadap penggunaan lahan di sekitarnya. Peningkatan terlihat dari meningkatnya
+lahan-lahan baru baik di Kelurahan Kalirejo maupun Kelurahan Sidomulyo. Perubahan
+penggunaan lahan turut serta berdampak terhadap peningkatan harga lahan. Penelitian ini
+bertujuan untuk mengkaji perkembangan penggunaan dan harga lahan di Kelurahan Kalirejo-
+Sidomulyo sebagai akibat dari keberadaan pintu tol Ungaran. Metode yang digunakan dalam
+penelitian ini adalah metode penelitian kuantitatif dengan metode observasi dan telaah
+dokumen sebagai pendukung. Selain itu, penelitian ini juga menggunakan pendekatan
+pemodelan spasial dengan software ArcGIS. Analisis spasial berfungsi untuk mengetahui
+perubahan penggunaan lahan yang terjadi di Kelurahan Kalirejo-Sidomulyo tahun 2003, 2011
+dan 2014. Hasil penelitian menunjukkan bahwa keberadaan pintu tol Ungaran telah memicu
+terjadinya perubahan lahan non terbangun menjadi lahan terbangun. Perubahan juga terjadi
+pada harga lahan di Kelurahan Kalirejo-Sidomulyo . Selain itu, pembangun yang pesat telah
+menumbuhkan sub pusat baru yang terletak di Kelurahan Kalirejo.
+Kata Kunci: Perubahan Penggunaan Lahan, Perubahan Harga Lahan, Pintu Tol Ungaran
+
+PENDAHULUAN
+Penyelenggaraan infrastruktur transportasi merupakan hal yang sangat vital dalam pembangunan karena berfungsi sebagai sarana untuk memperlancar dan mendukung aktivitas masyarakat. Pembangunan infrastruktur transportasi diarahkan untuk menjembatani kesenjangan antar wilayah dan mendorong pemerataan hasil-hasil pembangunan. Pembangunan infrastruktur transportasi akan secara mutlak berdampak terhadap perubahan lahan di wilayah sekitarnya. Pengoperasian seksi 1 Jalan Tol Semarang-Solo menyediakan alternatif akses jaringan jalan antara Kota Semarang dengan wilayah hinterland-nya yaitu Ungaran. Peningkatan aksesibilitas jalan dari Semarang ke Ungaran telah secara mutlak akan berdampak terhadap penggunaan lahan di sekitarnya. Menurut Soedarto dalam(Wicakssono, 2011), salah satu faktor yang mempengaruhi perubahan penggunaan lahan adalah transportasi. Transportasi baik berupa prasarana maupun sarana, menjadi suatu pertimbangan dalam menentukan lokasi-lokasi aktivitas. Perubahan lahan di daerah Ungaran semakin cepat dikarenakan Ungaran telah menjadi bagian dari fenomena suburbanisasi dari Kota Semarang. Suburbanisasi dapat diindikasikan sebagai perkembangan daerah pinggiran kota. Kota Semarang mengalami kecenderungan penurunan built up area dan konsentrasi penduduk berada di kisaran 3-5 km. Namun, pertumbuhan penduduk di jarak 4-5 km mengalami peningkatan yang cukup signifikan. Akibatnya, pembangunan perumahan mulai muncul di daerah pinggiran,khususnya Ungaran (Handayani & Rudiarto, 2014)
+Lokasi pintu tol Ungaran yang berada di Desa Kalipasir, Kelurahan Kalirejo telah berdampak terhadap pergeseran yang signifikan dari catchment area menjadi area perekonomian dan permukiman. Perubahan penggunaan lahan pasca adanya jalan tol Semarang-Ungaran tidak terjadi disepanjang koridor jalan tol tetapi berada di wilayah sekitar gerbang jalan tol yang terletak di Desa Kalipasir, Kelurahan Kalirejo. Berbeda dengan jenis jalan lainnya, jalan tol hanya memiliki satu arah untuk keluar-masuk jalan tol yaitu dari pintu tol. Lokasi pintu tol Ungaran yang berada di Desa Kalipasir, Kelurahan Kalirejo telah berdampak terhadap pergeseran yang signifikan dari lahan pertanian menjadi area perekonomian dan permukiman. Perkembangan pemanfaatan lahan tidak hanya dapat dilihat di Kelurahan Kalirejo tetapi juga Kelurahan Sidomulyo yang terletak di sebelah barat Kelurahan Kalirejo sekaligus yang menjadi wilayah penghubung antara pintu tol Ungaran dengan jalan arteri Semarang-Solo.
+Konversi lahan yang meningkat terjadi karena permintaan (demand) lahan di wilayah tersebut yang semakin meningkat karena keberadaan Jalan Tol Semarang-Solo yang memberikan kemudahan aksesibilitas dan keefisiensian waktu menuju Kota Semarang sebagai pusat aktivitas perkotaan komersial. Permintaan (demand) lahan yang meningkat sementara penawaran (supply) lahan adalah tetap mengakibatkan terjadi kenaikan harga lahan. Kenaikan harga lahan memberikan tekanan terhadap lahan pertanian. Selain itu, kemampuan masyarakat yang berbeda untuk mengakses lahan dapat menimbulkan pemanfaatan lahan non terbangun menjadi terbangun yang tidak sesuai dengan RTRW Kabupaten Semarang. Dalam jangka panjang, pembangunan prasarana transportasi atau penyediaan sarana transportasi akan mempengaruhi bentuk dan pola penggunaan lahan sebagai akibat tingkat aksesibilitas yang meningkat. Menurut Tamin (1997), pembangunan suatu areal lahan akan menyebabkan timbulnya lalu-lintas yang akan mempengaruhi prasarana transportasi, sebaliknya adanya prasarana transportasi yang baik akan mempengaruhi pola penggunaan lahan. Selain itu juga interaksi antara penggunaan lahan dengan transportasi sangat dipengaruhi oleh peraturan dan kebijakan pemerintah dalam rangka mengendalikan perkembangan penggunaan lahan. Oleh karena itu, apabila pembangunan yang terjadi tidak dikendalikan akan menimbulkan dampak pada harga dan perubahan penggunaan lahan, baik dari segi kualitas maupun kuantitas. Berdasarkan permasalahan yang telah dirumuskan, maka pertanyaan penelitian adalah: “Bagaimana perubahan penggunaan dan harga lahan di Kelurahan Kalirejo-Sidomulyo sebagai akibat dari keberadaan pintu tol Ungaran?”. Oleh karena itu perlu dilakukan kajian mengenai perkembangan penggunaan lahan dan harga lahan di wilayah sekitar pintu tol Ungaran dengan wilayah studi Kelurahan Kalirejo-Sidomulyo. Berikut merupakan peta administrasi Kelurahan Kalirejo-Sidomulyo.
+
+Data dan Metode
+Pada penelitian untuk mengetahui perkembangan harga dan penggunaan lahan di Kelurahan Kalirejo dan Sidomulyo menggunakan pendekatan pemodelan spasial. Pendekatan ini akan menggambarkan kondisi eksisting wilayah studi. Dalam mengumpulkan, mengungkapkan berbagai masalah dan tujuan yang hendak dicapai penelitian ini dilakukan pendekatan kuantitatif. Menurut (Sugiyono, 2009), metode penelitian kuantitatif dapat diartikan sebagai metode penelitian yang berlandaskan pada filsafat positivisme, digunakan untuk meneliti pada populasi atau sampel tertentu.
+Metode analisis merupakan langkah selanjutnya untuk mengolah data primer maupun sekunder yang telah diperoleh. Metode analisis yang digunakan yakni deskriptif kuantitatif, analisis spasial penggunaan lahan, analisis struktur ruang, serta analisis paired sample t-tets. Analisis deskriptif kuantitatif ini yang digunakan dengan cara mendeskripsikan dan menggambarkan data yang terkumpul. Statistik deskriptif digunakan untuk melengkapi dan mendeskripsikan data statistik. Data yang umumnya digunakan dalam analisis ini adalah berupa angka, gambar, tabel dan juga diagram. Dalam menganalisis perubahan harga dan penggunaan lahan di Kelurahan Kalirejo-Sidomulyo statistik deskriptif dapat digunakan untuk menjelaskan perbedaan harga dan guna lahan yang terjadi.Analisis spasial ini menggunakan pengelolaan citra satelit dengan metode penginderaan jauh. Dimana dengan analisis ini dapat melihat perkembangan penggunaan lahan tahun 2003, 2011, dan 2014 dengan citra satelit. Analisis struktur ruang digunakan untuk mengetahui perkembangan penggunaan lahan di Kelurahan Kalirejo-Sidomulyo dan bentuk perkembangannya. Metode analisis data yang digunakan pengujian hipotesis adalah metode uji t-test sampel berpasangan (paired sample t-test) dengan menggunakan bantuan Software SPSS for Windows. Analisis ini digunakan untuk mengetahui perubahan harga lahan yang terjadi di Kelurahan Kalirejo dan Sidomulyo
+HASIL DAN PEMBAHASAN
+Identifikasi Pembangunan Pintu Tol Ungaran
+Jalan tol Semarang-Solo akan menghubungkan Kota Semarang, Salatiga, dan Surakarta serta melewati 3 kabupaten, yaitu Kabupaten Semarang, Kabupaten Boyolali dan Kabupaten Sukoharjo. Pembangunan jalan tol dimulai pada tahun 2009 oleh Jasa Marga dengan total lintasan sepanjang 72,64 km. Jalan tol ini merupakan bagian dari Jalan Tol Trans Jawa yang menghubungkan Jalan Tol Semarang dengan Jalan Tol Solo-Ngawi yang juga telah mulai konstruksi.
+
+Gambar 2. Peta Tata Guna Lahan Di Kelurahan Kalirejo Tahun 2003, 2011 Dan 2014
+Pembangunan Jalan Tol Semarang-Solo membutuhkan biaya investasi sebesar 6,1 triliun rupiah, biaya konstruksi 2,4 triliun rupiah, dan biaya pengadaan tanah 800 miliar rupiah.Pembangunan jalan tol Semarang-Solo terbagi menjadi 5 seksi. Saat ini baru beroperasi dua seksi yaitu seksi 1 dan 2. Konstruksi tol seksi I Semarang (Tembalang-Ungaran) dimulai pada awal tahun 2009. Jalan tol Semarang-Solo tahap I seksi I ruas Semarang- Ungaran memiliki panjang 11,9 km yang dioperasikan pada tanggal 17 November 2011, sedangkan untuk seksi II Ungaran-Bawen sudah beroperasi sejak 4 April 2014. Beroperasinya jalan tol seksi 1 memiliki salah satu pintul tol terletak di Desa Kalipasir, Kelurahan Kalirejo. Adanya pintu tol Ungaran berdampak terhadap perubahan penggunaan lahan wilayah sekitarnya yaitu kelurahan Kalirejo-Sidomulyo.
+Identifikasi dan Analisis Perubahan Penggunaan Lahan
+Penyediaan jaringan jalan merupakan hal yang penting dalam mempercepat laju pembangunan. Pembangunan Jalan Tol Semarang-Solo dengan salah satu pintu tol terletak di Desa Kalipasir memberikan dampak perubahan penggunaan lahan di Kelurahan Kalirejo. Tidak hanya Kelurahan Kalirejo tetapi perubahan juga terjadi di Kelurahan Sidomulyo.Gambar 2 bahwa telah terjadi perubahan penggunaan lahan dari tahun 2003 sampai dengan tahun 2014. Perubahan dapat dilihat dari meningkatnya lahan terbangun yang digunakan untuk kegiatan komersial, permukiman dan perkantoran dan jasa. Perubahan dari tahun 2003 hingga tahun 2011 masih banyak terjadi di Kelurahan Sidomulyo dibandingkan dengan Kelurahan Kalirejo. Meskipun pada tahun 2011 sudah mulai beroperasinya pintu tol Ungaran. Namun, tahun 2011 sampai dengan 2014 perubahan penggunaan lahan mulai terlihat tidak hanya terjadi di Kelurahan Sidomulyo tetapi juga Kelurahan Kalirejo. Besaran luas perubahan penggunaan lahan selengkapnya dapat dilihat pada Tabel 1 berikut ini:
+
+Tabel 1. Penggunaan Lahan Tahun 2003, 2011 Dan 2014
+Penggunaan Lahan
+Tahun
+Perubahan
+2003-2011
+2011-2014
+2003
+2011
+2014
+%
++/-
+%
++/-
+Lahan Non Terbangun
+273.57
+244.47
+215.33
+-11%
+-
+-12%
+-
+Aktivitas Kota
+2.33
+1.85
+6.00
+-21%
+-
+225%
++
+Aktivitas Non Kota
+267.92
+242.62
+204.02
+-9%
+-
+-16%
+-
+Lahan kosong
+3.32
+0.00
+5.32
+-100%
+-
+532%
++
+Lahan Terbangun
+89.62
+118.72
+147.86
+32%
++
+25%
++
+Industri
+1.10
+1.29
+1.29
+18%
++
+0%
+0
+Komersial
+4.12
+8.23
+16.33
+100%
++
+98%
++
+Perkantoran dan Jasa
+10.71
+11.18
+12.03
+4%
++
+8%
++
+Permukiman
+73.69
+98.02
+118.20
+33%
++
+21%
++
+Total
+363.19
+363.19
+363.19
+0%
+0
+0%
+0
+Sumber: Analisis Penyusun, 2015
+Perubahan pada lahan non terbangun pada tahun 2003 sampai dengan tahun 2011 mengalami penurunan hingga 10% dan mencapai 12% dari tahun 2011 hingga 2014 dengan dominasi perubahan terjadi pada penggunaan lahan non terbangun aktivitas non kota. Lahan non terbangun aktivitas non kota terdiri dari lahan sawah dan tegalan. Sedangkan perubahan lahan terbangun dari tahun 2003 hingga 2011 mengalami peningkatan 32% sehingga rata-rata tiap tahun perubahan terjadi sebesar 4% dan perubahan lahan terbangun dari tahun 2011 hingga 2014 mencapai 25% dengan rata-rata perubahan setiap tahunnya mencapai 8.3%. Perubahan lahan terbangun sendiri didominasi oleh penggunaan lahan untuk komersial dan permukiman. Lahan komersial mengalami peningkatan dari tahun 2003 sampai dengan 2014 yaitu dengan perubahan mencapai 100% pada tahun 2003-2011 dan 98% dari tahun 2011 sampai 2014. Lahan permukiman mengalami perubahan terbesar kedua setelah komersial yaitu 33% dari tahun 2003 sampai 2011 dan 21% dari tahun 2011 sampai 2014. Meskipun perubahan lahan permukiman pada tahun 2011-2014 berbeda jauh dari tahun 2003-2011 tetapi setiap tahunnya perubahan lahan permukiman mencapai 7% sedangkan di tahun 2003-2011 hanya sekitar 4,12% setiap tahunnya. Penambahan dan pengurangan luas lahan terjadi dikarenkan adanya konversi lahan menjadi penggunaan lahan lainnya, maka untuk mengetahui luas konversi penggunaan lahan dibuat suatu matriks konversi lahan. Lebih jelasnya untuk mengetahui luas konversi lahan dari tahun 2003 sampai dengan tahun 2014 dapat dilihat pada Tabel 2 dan Tabel 3 sebagai berikut:
+Tabel 2. Matriks Konversi Penggunaan Lahan Tahun 2003-2011
+Penggunaan Lahan 2003
+Penggunaan Lahan Tahun 2011
+Penggunaan Lahan 2003
+1
+2
+3
+4
+5
+6
+7
+1
+2.33
+1.85
+0.00
+0.00
+0.00
+0.00
+0.49
+0.00
+2.33
+2
+267.92
+0.00
+240.16
+0.20
+2.68
+0.00
+1.02
+23.87
+267.92
+3
+1.10
+0.00
+0.00
+1.10
+0.00
+0.00
+0.00
+0.00
+1.10
+4
+4.12
+0.00
+0.00
+0.00
+4.12
+0.00
+0.00
+0.00
+4.12
+5
+3.32
+0.00
+1.89
+0.00
+0.00
+0.00
+0.00
+1.42
+3.32
+6
+10.71
+0.00
+0.57
+0.00
+0.47
+0.00
+9.67
+0.00
+10.71
+7
+73.69
+0.00
+0.00
+0.00
+0.96
+0.00
+0.00
+72.73
+73.69
+Penggunaan Lahan 2011
+363.19
+1.85
+242.62
+1.29
+8.23
+0.00
+11.18
+98.02
+363.19
+Sumber: Analisis Penyusun, 2015
+Tabel 3. Matriks Konversi Penggunaan Lahan Tahun 2011-2014
+Penggunaan Lahan 2011
+Penggunaan Lahan Tahun 2014
+Penggunaan Lahan 2011
+1
+2
+3
+4
+5
+6
+7
+1
+1.85
+1.85
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+1.85
+2
+242.62
+4.15
+204.02
+0.00
+4.17
+5.32
+0.86
+24.11
+242.62
+3
+1.29
+0.00
+0.00
+1.29
+0.00
+0.00
+0.00
+0.00
+1.29
+4
+8.23
+0.00
+0.00
+0.00
+8.23
+0.00
+0.00
+0.00
+8.23
+5
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+6
+11.18
+0.00
+0.00
+0.00
+0.00
+0.00
+11.18
+0.00
+11.18
+7
+98.02
+0.00
+0.00
+0.00
+3.94
+0.00
+0.00
+94.09
+98.02
+Penggunaan Lahan 2014
+363.19
+6.00
+204.02
+1.29
+16.33
+5.32
+12.03
+118.20
+363.19
+Sumber: Analisis Penyusun, 2015
+Keterangan:
+1. Lahan Non Terbangun Aktivitas Kota
+2. Lahan Non Terbangun Aktivitas Non Kota
+3. Industri
+4. Komersial
+5. Lahan kosong
+6. Perkantoran dan Jasa
+7. Permukiman
+
+Konversi penggunaan lahan tahun 2003 dan 2011 didominasi dari perubahan lahan non terbangun aktivitas non kota yang berubah menjadi lahan untuk industri, komersial, perkantoran dan jasa serta permukiman. Konversi tertinggi terjadi pada perubahan lahan aktivitas non kota menjadi permukiman yang mencapai 23.87 Ha. Konversi juga terjadi pada penggunaan lahan kosong yang menjadi permukiman dan aktivitas non kota, konversi lahan perkantoran dan jasa menjadi aktivitas non kota dan komersial, konversi lahan permukiman untuk kegiatan komersial.Sementara itu dari tahun 2011 hingga 2014 konverrsi lahan masih didominasi dengan konversi lahan aktivitas non kota yang merupakan lahan non terbangun yang terdiri dari lahan sawah dan tegalan. Konversi lahan non terbangun aktivitas non kota pada tahun 2014 telah berubah untuk lahan non terbangun aktivitas kota, komersial, lahan kosong, perkantoran dan jasa serta permukiman. Sama halnya yang terjadi dari tahun 2003 hingga 2011 yaitu konversi lahan non terbangun aktivitas non kota didominasi perubahannya menjadi lahan permukiman yang mencapai 24.11 Ha. Selain itu, konversi lahan juga terjadi pada perkantoran dan jasa yang menjadi tegalan dan lahan permukiman yang menjadi komersial.
+Analisis Keberadaan Pintu Tol Ungaran Terhadap Perubahan Penggunaan Lahan
+Pintu tol di Ungaran terletak di Kelurahan Kalirejo tepatnya di Desa Kalipasir. Keberadaan pintu tol telah memberikan dampak terhadap perubahan pemanfaatan lahan di wilayah sekitarnya yaitu Kelurahan Kalirejo dan Sidomulyo. Sebelumnya telah diketahui perubahan yang terjadi di Kelurahan Kalirejo-Sidomulyo secara keseluruhan, tetapi belum diketahui radius pengaruh pintu tol terhadap penggunaan lahan di Kelurahan Kalirejo-Sidomulyo. Berdasarkan hal itu, maka untuk mengetahui dilakukan analisis perubahan lahan berdasarkan radius letak wilayah dari pintu tol Ungaran. Jarak dari pintu tol Ungaran diklasifikasikan menjadi 5 (lima) yaitu jarak 0-100 meter, 100-500 meter, 500-1000 meter, 1000-1500 meter dan > 1500 meter. Selengkapnya dapat dilihat pada Gambar 3.
+Sumber: Analisis Penyusun, 2015
+
+Apabila dilihat dari perkembangan penggunaan lahan di Kelurahan Kalirejo-Sidomulyo terdapat perbedaan perkembangan penggunaan lahan dari pintu tol Ungaran. Pada Gambar 3 dapat dilihat perbedaan perkembangaan di area I, II, III dan IV. Dibandingakan dengan area lainnya, Area II terlihat perubahan yang disignifikan. Hal ini dikarenakan ada beberapa faktor yang berhubungan dengan penggunaan lahan kota sebagaimana disebutkan oleh (Chapin & Kaiser, 1979) yaitu:
+Sistem Aktivitas Kota
+Pada tahun 2003, penggunaan lahan lebih intensif terjadi di Area I dan III pada jarak > 500 meter dari letak pintu tol Ungaran saat ini. Penyebabnya adalah area dilalui Jalan Arteri Semarang-Solo yang telah menjadi pusat perkembangan wilayah Ungaran. Selain itu, Area I merupakan sub pusat Kelurahan Sidomulyo yang terdapat pusat perkantoran pemerintah kabupaten yang berada di Jalan A.Yani sehingga mendorong aktivitas di wilayah sekitarnya. Berbeda dengan Area II dan IV yang belum memiliki aksesibilitas yang memadai maupun sub pusat aktivitas sehingga perkembangan wilayahnya cenderung lambat.
+Saat beroperasinya pintu tol Ungaran, perkembangan pada Area II dan IV belum terlihat secara signifikan. Sementara Area I dan III terus mengalami peningkatan terhadap lahan-lahan terbangun. Setelah tiga tahun beroperasinya pintu tol Ungaran, perubahan terlihat jelas di Area II khusunya pada jarak 100-500 meterdari pintu tol Ungaran, dimana pada jarak tersebut Area I, III, dan IV tidak mengalami perubahan sama sekali. Pada Area II peruban terlihat dengan munculnya lahan-lahan baru berupa ruang terbuka dan komersial serta peningkatan luas lahan permukiman. Peningkatan aktivitas tersebut mendorong perkembangan wilayah sekitanya.
+Sistem Pengembangan Lahan
+Perubahan penggunaan lahan dari tahun 2003 hingga 2011 di Area II dan IV belum terlalu signifikan, pemerintah dengan memanfaatkan keberadaan pintu tol Ungaran membangun pusat aktivitas berupa ruang terbuka/ alun-alun yang terletak kurang dari 500 meter dari pintu tol Ungaran. embangunan ini merupakan upaya pemerintah dalam mengatasi ketimpangan wilayah yang berada dibagian timur. Sebagaimana tercantum dalam Peraturan Daerah no. 6 tahun 2011 tentang Rencana Tata Ruang Wilayah (RTRW) Kabupaten Semarang Tahun 2011-2013 dalam Bab III disebutkan salah satu strategi penataan ruang wilayah Kabupaten Semarang yaitu dengan meningkatkan fungsi dan peran perkotaan Ungaran terutama bagian timur sebagai pusat kegiatan ekonomi baru dan kawasan permukiman pendukung kawasan metropolitan daerah. Adanya alun-alun juga mendorong perubahan penggunaan wilayah sekitar, khususnya di Jalan MT.Haryono semakin cepat. Alun-alun kini telah menjadi sub pusat baru di wilayah Kalirejo. Peluang ini juga dimanfaatkan oleh developer untuk melakukan pembukaan lahan-lahan baru untuk pembangunan perumahan. Terbukti di Area I dan II dalam jarak 100-500 meter telah bermunculan perumahan baru seperti The Amaya dan Sidosari Town. Saat ini juga masih banyak proses pembukaan lahan dengan mengeringkan lahan sawah sehingga siap untuk dibangun..
+Sistem Lingkungan Fisik
+Perubahan penggunaan lahan di setiap area dan disetiap jarak dari pintu tol Ungaran berbeda-beda. Salah satu faktornya adalah kondisi topografi area tersebut. Pada Gambar 4.8 dapat dilihat di Area I dan III pada jarak 100-500 meter memiliki kontur sangat rapat yang artinya area tersebut memiliki topografi yang curam. Kontur yang rapat juga dapat dilihat di Area IIdan IV pada radius > 1000 meter. Berbeda dengan Area II dan IVpada jarak 100-500 meter yang memiliki kontur yang cenderung renggang yang artinya area tersebut datar. Topografi datar juga dapat dilihat pada Area I dan III pada jarak >500 meter. Topografi menjadi faktor dalampenggunaan lahan. Sebab topografi yang datar memberikan kemudahan dalam pengembangan wilayah. Selain itu juga dalam segi ekonomi dapat mengurangi biaya dalam penggunaan lahan. Terbukti dari area I, II, III dan IV penggunaan lahannya lebih cepat terjadi diarea dengan topografi datar.
+Analisis Perkembangan dan Struktur Ruang
+Kelurahan Kalirejo-Sidomulyo sebagai wilayah yang terdampak dari perkembangan Kota Semarang mengalami perubahan secara fisik. Proses perubahan lahan menunjukkan perkembangan wilayah tersebut. Berdasarkan peta tata guna lahan tahun 2003, 2011 dan 2014 diketahui bahwa pola perkembangan Kelurahan Kalirejo-Sidomulyo mengikuti alur jaringan jalan. Pada kajian pustaka telah disebutkan menurut (Yunus, 2000), secara garis besar ada tiga macam proses perluasan kekotaan, yaitu perembetan konsentris (concentric development), perembetan memanjang (ribbon development) dan perembetan meloncat (leap frog development). Tipe perkembangan Kelurahan Kalirejo-Sidomulyo merupakan perembetan Memanjang (ribbon development). Tipe ini menunjukkan ketidakmerataan perembetan areal kekotaan disemua bagian sisi-sisi luar dari pada daerah kota utama. Perembetan paling cepat terlihat di sepanjang jalur transportasi yang ada, khususnya yang bersifat menjari (radial) dari pusat kota .
+Sumber: Analisis Penyusun, 2015
+Gambar 4. Peta Perkembangan Penggunaan Lahan Tahun 2003, 2011 Dan 2014
+Apabila ditinjau secara bentuk fisik kotanya, Kelurahan Kalirejo-Sidomulyo memiliki pola jaringan jalan berbentuk spinal secara umum dan grid pada daerah perumahan. Pola jaringan jalan dengan pola tulang daun telah menjadi ruang yang paling strategis untuk melakukan kegiatan produktif, seperti perdagangan, perkantoran dan jasa komersial. Dari tahun 2003, 2011 sampai dengan 2014 struktur ruang Kelurahan Kalirejo-Sidomulyo tetap Multiple-Nuclei Concept. Menurut McKenzie (dalam Chapin, 1979) teori banyak pusat ini didasarkan pada pengamatan lingkungan sekitar yang sering terdapat suatu kesamaan pusat dalam bentuk pola guna lahan kota daripada satu titik pusat yang dikemukakan pada teori sebelumnya. Dalarn teori ini pula McKenzie menerangkan bahwa kota meliputi pusat kota, kawasan kegiatan ekonomi, kawasan hunian dan pusat lainnya.
+
+Identifikasi dan Analisis Perubahan Harga Lahan
+Perubahan penggunaan lahan pertanian yang marak terjadi sangat erat kaitannya dengan land rent, paradigma bahwa nilai ekonomi lahan dari aspek lokasi lebih memberikan surplus ekonomi yang besar dibandingkan dengan kualitas lahannya menjadi faktor utama yang mengakibatkan semakin tingginya perubahan fungsi lahan pertanian ke sektor non pertanian. Pembangunan pintu tol Ungaran telah berdampak terhadap kenaikan harga lahan di wilayah sekitarnya. Menurut data dari NJOP kemudian dilakukan analisis Paired-Sample T-Test. Analisis ini digunakan sebab pada penelitian ini melibatkan dua pengukuran pada subjek yang sama terhadap pengaruh atau perlakuan tertentu yaitu sebelum dan sesudah pembangunan jalan tol. Berikut hasil analisis paired-sample t-test menggunakan software SPSS:
+Berdasarkan hasil analisis Paired-Sample T-Test diketahui nilai sig .000 < 0.05, maka dapat disimpulkan ada hubungan yang signifikan sebelum dan sesudah adanya pintu tol Ungaran. Dapat juga dilihat kekuatan korelasinya menunjukkan korelasi yang sangat tinggi (.991) pada tahun 2003-2011 dan (.998) pada tahun 2011-2014. Berdasarkan uji t diperoleh harga lahan antara tahun 2003 dan 2011 berbeda nyata pada tingkat kepercayaan 95%.
+
+Tabel 4. Paired Samples Statistics Tahun 2003-2011 Mean N Std. Deviation Std. Error Mean Pair 1 Tahun_2003 1.53E5 579 173701.459 7218.786 Tahun_2011 2.60E5 579 251969.559 10471.497 Sumber: Analisis Penyusun, 2015 Tabel 5. Paired Samples Correlations Tahun 2003-2011 N Correlation Sig. Pair 1 Tahun_2003 & Tahun_2011 579 .991 .000 Tabel 6. Paired Samples Test Tahun 2003-2011 Paired Differences t df Sig. (2-tailed) Mean Std. Deviation Std. Error Mean 95% Confidence Interval of the Difference Lower Upper Pair 1 Tahun_2003 -Tahun_2011 -1.075E5 83110.431 3453.952 -114277.781 -100710.129 -31.122 578 .000 Sumber: Analisis Penyusun, 2015 Tabel 7. Paired Samples Statistics Tahun 2011-2014 Mean N Std. Deviation Std. Error Mean Pair 1 Tahun_2011 2.60E5 579 251969.559 10471.497 Tahun_2014 3.01E5 579 278649.594 11580.282 Sumber: Analisis Penyusun, 2015 Tabel 8. Paired Samples Correlations Tahun 2011-2014 N Correlation Sig. Pair 1 Tahun_2011 & Tahun_2014 579 .998 .000 Sumber: Analisis Penyusun, 2015 Tabel 9. Paired Samples Test Tahun 2011-2014 Paired Differences t df Sig. (2-tailed) Mean Std. Deviation Std. Error Mean 95% Confidence Interval of the Difference Lower Upper Pair 1 Tahun_2011 - Tahun_2014 -4.099E4 30893.749 1283.900 -43509.589 -38466.231 -31.925 578 .000
+Sumber: Analisis Penyusun, 2015
+
+Hubungan Penggunaan Lahan dan Harga Lahan
+Interaksi penggunaan lahan dan harga lahan dilakukan dengan mengidentifikasi dominasi penggunaan lahan dari sub pusat kota. Interaksi penggunaan lahan dan harga berpusat dari penggerak pengembangan wilayah yaitu sub pusat Kelurahan Kalirejo-Sidomulyo. Terdapat dua sub pusat yang terletak disetiap Kelurahan. Sub pusat I di Kelurahan Sidomulyo terletak di Jalan A.Yani dan sub pusat II di Kelurahan Kalirejo terletak di Jalan MT. Haryono.
+Dominasi penggunaan sub pusat I sedikit berbeda sub pusat II. Penggunaaan lahan dominan sub pusat I pada tahun 2003 yaitu perkantoran dan jasa dalam jarak 0-100 meter, permukiman pada jarak 100-400 meter dan aktivitas non kota pada jarak 100-600 meter. Pada tahun 2011 dan 2014 penggunaan lahan dominan ada dua yaitu perkantoran dan jasa dan permukiman. Pada sub pusat II penggunaan lahan dominan pada tahun 2003 sama dengan tahun 2011 yaitu permukiman pada jarak 0-100 meter dan 100-600 berupa aktivitas non kota. Tahun 2014, terjadi perubahan penggunaan lahan dominan yaitu jarak 0-50 meter berupa komersial, 50-200 meter penggunaan lahan permukiman dan 200-600 sama dengan tahun sebelumnya yaitu aktivitas non kota.
+Harga lahan yang memiliki jarak dekat dengan sub pusat lebih tinggi dibandingkan dengan wilayah yang terletak jauh dari pusat kota. Namun, hal ini tidak terjadi di sub pusat I dimana mulai jarak 400 meter sampai dengan 600 meter harga tanah mengalami peningkatan. Hal ini dikarenakan letak wilayah tersebut dekat dengan Jalan Arteri Semarang-Solo yang juga menjadi pusat perkembangan wilayah Ungaran. Hubungan antara penggunaan lahan, harga dan jarak dari sub pusat disajikan dalam bentuk grafik yang menunjukkan fluktuasi perubahan setiap pengunaan lahan disetiap jarak.
+
+
+KESIMPULAN
+Pengoperasian seksi 1 Jalan Tol Semarang-Solo menyediakan alternatif akses jaringan jalan antara Kota Semarang dengan wilayah hinterland-nya yaitu Ungaran. Peningkatan aksesibilitas jalan dari Semarang ke Ungaran telah secara mutlak berdampak terhadap penggunaan lahan di sekitarnya. Peningkatan terlihat dari meningkatnya lahan-lahan baru baik di Kelurahan Kalirejo maupun Kelurahan Sidomulyo. Perubahan penggunaan lahan tidak saja mempengaruhi perkembangan struktur kota di Kelurahan Kalirejo-Sidomulyo tetapi turut serta berdampak terhadap peningkatan harga lahan. Penelitian ini bertujuan untuk mengkaji perkembangan penggunaan dan harga lahan di Kelurahan Kalirejo-Sidomulyo sebagai akibat dari keberadaan pintu tol Ungaran.
+Penyediaan jaringan jalan merupakan hal yang penting dalam mempercepat laju pembangunan.. Pembangunan Jalan Tol Semarang-Solo dengan salah satu pintu tol terletak di Desa Kalipasir memberikan dampak perubahan penggunaan lahan di Kelurahan Kalirejo. Tidak hanya Kelurahan Kalirejo tetapi perubahan juga terjadi di Kelurahan Sidomulyo. Penggunaan lahan di Kelurahan Kalirejo-Sidomulyo dibagi menjadi dua yaitu penggunaan lahan terbangun yang terdiri dari permukiman, perdagangan dan jasa, fasilitas umum, instansi pemerintah, industri dan kawasasan militer, dan penggunaan lahan tak terbangun yang terbagi menjadi dua yaitu aktivitas kota (makam dan RTH) dan aktivitas non kota (sawah dan tegalan).
+Perubahan pada lahan non terbangun pada tahun 2003 sampai dengan tahun 2011 mengalami penurunan hingga 10% dan mencapai 12% dari tahun 2011 hingga 2014 dengan dominasi perubahan terjadi pada penggunaan lahan non terbangun aktivitas non kota. Lahan non terbangun aktivitas non kota terdiri dari lahan sawah dan tegalan. Sedangkan perubahan lahan terbangun dari tahun 2003 hingga 2011 mengalami peningkatan 32% sehingga rata-rata tiap tahun perubahan terjadi sebesar 4% dan perubahan lahan terbangun dari tahun 2011 hingga 2014 mencapai 25% dengan rata-rata perubahan setiap tahunnya mencapai 8.3%. Perubahan lahan terbangun sendiri didominasi oleh penggunaan lahan untuk komersial dan permukiman. Lahan komersial mengalami peningkatan dari tahun 2003 sampai dengan 2014 yaitu dengan perubahan mencapai 100% pada tahun 2003-2011 dan 98% dari tahun 2011 sampai 2014. Lahan permukiman mengalami perubahan terbesar kedua setelah komersial yaitu 33% dari tahun 2003 sampai 2011 dan 21% dari tahun 2011 sampai 2014. Meskipun perubahan lahan permukiman pada tahun 2011-2014 berbeda jauh dari tahun 2003-2011 tetapi setiap tahunnya perubahan lahan permukiman mencapai 7% sedangkan di tahun 2003-2011 hanya sekitar 4,12% setiap tahunnya. Peningkatan ini terjadi diikarenakan meningkatnya bangkitan dan tarikan yang terjadi di Kelurahan Kaklirejo-Sidomulyo. Kelurahan Kalirejo-Sidomulyo yang mengalami peningkatan lahan permukiman merupakan akibat dari perkembangan Kota Semarang yang menuju arah pinggiran didorong juga dengan keberadaan Jalan Tol yang memberikan efisiensi jarak dan waktu antara Kota Semarang sebagai pusat aktivitas ekonomi masyarakat dan Kelurahan Kalirejo-Sidomulyo sebagai tempat tinggal masyarakat.
+Setelah beroperasinya jalan tol Semarang-Solo seksi I pada tahun 2011 perkembangan penggunaan lahan sudah bergeser yang semula hanya terfokuskan di Jalan Arteri Semarang-Solo dan Jalan Jend. A. Yani, kini menjadi di sepanjang jalan keluar-masuk pintu tol yaitu Jalan MT. Haryono, Jalan Jend A. Yani, dan Jalan Soeprapto. Hal ini telah mendorong munculnya sub pusat baru di Kelurahan Kalirejo. Sebelum adanya pintu tol Ungaran sub pusat hanya ada di Kelurahan Sidomulyo sebagai pusat memicu perkembangan wilayah. Perkembangan fisik Kelurahan Kalirejo-Sidomulyo membentuk sebuah struktur kota yang berupa Multiple-Nuclei Concept (teori banyak pusat).
+Perubahan penggunaan lahan pertanian yang marak terjadi sangat erat kaitannya dengan land rent, paradigma bahwa nilai ekonomi lahan dari aspek lokasi lebih memberikan surplus ekonomi yang besar dibandingkan dengan kualitas lahannya menjadi faktor utama yang mengakibatkan semakin tingginya perubahan fungsi lahan pertanian ke sektor non pertanian. Pembangunan pintu tol Ungaran telah berdampak terhadap kenaikan harga lahan di wilayah sekitarnya. Harga lahan tertinggi ada di sub pusat dengan penggunaan lahan sebagai perdagangan dan jasa dan permukiman.

@@ -1,0 +1,128 @@
+﻿ABSTRAK
+Pengolahan biologi anaerob merupakan tahapan awal yang efektif menangani limbah berkadar BOD5 dan
+COD tinggi seperti limbah cair tapioka. Kondisi asam serta tingginya CN- akibat keberadaan HCN dan
+cyanoglucoside dalam akar ubi kayu ditengarai menghambat pengolahan biologi. Penelitian ini mengkaji
+pengaruh pengaturan pH dan penurunan kadar CN- melalui pre-klorinasi fresh feed terhadap waktu
+aklimatisasi dan penurunan kadar COD operasi anaerobic baffled reactor 2 baffle serta besarnya nilai
+parameter kinetika reaksi. Secara garis besar, penelitian ini terbagi menjadi tahapan pre-treatment,
+aklimatisasi batch sampai tercapai steady state dan aplikasi operasi kontinu. Hasil penelitian menunjukkan
+bahwa limbah dengan COD influen 8000 mg/L dan pH 4,84 memerlukan 9 hari aklimatisasi untuk
+menurunkan COD menjadi 954 mg/L. Penurunan waktu aklimatisasi dan peningkatan besarnya
+penghilangan COD dapat dilakukan dengan pengaturan pH fresh feed. pH 8 merupakan kondisi pH influen
+terbaik dengan hasil 6 hari aklimatisasi diperlukan untuk memperoleh kadar COD efluen 347 mg/L. Preklorinasi
+fresh feed pada pH 8 dengan penambahan kaporit berdasar perbandingan mol Cl2:CN- 1:1
+mereduksi waktu aklimatisasi hingga menjadi 5 hari dengan kadar COD efluen 230 mg/L. Aplikasi proses
+kontinu yang dioperasikan pada waktu tinggal saat aklimatisasi mencapai steady state menghasilkan
+penurunan kadar polutan lebih besar. Pre-klorinasi influen menghasilkan pertumbuhan bakteri terbaik
+dengan nilai μmax 2,579/hari, Ks 19,336 mg/L BOD, KI 0,864 mg/L CN- dan yield 10,728 mg VSS/mg
+BOD.
+Kata kunci: limbah cair tapioka; anaerobic baffled reactor; aklimatisasi; COD; preklorinasi; pengaturan pH
+
+
+BAB I
+PENDAHULUAN
+1.1. Latar Belakang
+Tahapan pencucian akar ubi kayu dan ekstraksi pati proses industri tapioka akan
+menghasilkan limbah cair (Mai, 2006). Senyawa organik berkadar tinggi terdapat dalam air
+limbah proses ekstraksi pati (Seejuhn, 2002). Kadar Biological Oxygen Demand (BOD) sebesar
+3000-7500 mg/L (Setyawati et al., 2011) dengan kisaran rasio BOD/COD 0,6-0,8 (Seejuhn,
+2002) terkandung di dalamnya. Pemrosesan 400 ton ubi kayu menjadi tapioka juga dapat
+menghasilkan limbah cair berkadar sianida (CN-) 10-40 mg/L (Mai, 2006).
+Jika bahan organik berkonsentrasi tinggi yang belum diolah dibuang ke badan air, maka
+bakteri akan menggunakan oksigen terlarut dalam air untuk proses pembusukannya sehingga
+dapat mematikan kehidupan dan menimbulkan bau busuk dalam air (Sugiharto, 1987). Selain itu,
+kehadiran 1 mg/L CN- sudah dapat bersifat fatal pada ikan (Mai, 2006). Kebanyakan
+mikroorganisme pada proses pengolahan air limbah secara biologi pun sudah tidak mampu
+beradaptasi dengan adanya kehadiran 30 mg/L CN- (Sugiharto, 1987). Sementara air tanah di
+dekat industri tapioka tercatat ada yang mengandung 1,2-1,6 mg/L CN- (Mai, 2006).
+Proses aerasi lumpur aktif dapat menghasilkan penurunan kadar Chemical Oxygen
+Demand (COD) tinggi dalam waktu singkat. Limbah cair tapioka dengan kisaran kadar COD
+965-2355 mg/L yang diolah dalam bak aerasi lumpur aktif selama 24 jam menjadi turun
+konsentrasinya hingga hanya menjadi 29-70 mg/L (Mai, 2006). Namun, supply udara sebesar 43-
+123 m3 diperlukan untuk menguraikan 1 kg BOD dalam proses aerasi (Sugiharto, 1987).
+Besarnya keperluan nutrien dan tingginya produksi lumpur juga membuat metode aerasi lumpur
+aktif tidak sesuai untuk menangani air limbah berkadar COD tinggi (Mai, 2006).
+Proses anaerob menghasilkan lumpur dan memerlukan nutrien lebih sedikit dibandingkan
+metode aerob. Senyawa organik juga dapat dikonversi menjadi gas metana (CH4) dalam
+anaerobic digestion (Mai, 2006). Oleh karena itu, metode anaerob sesuai digunakan sebagai
+pengolahan pendahuluan untuk menangani limbah berkadar BOD dan COD tinggi (Seejuhn,
+2002).
+Sistem Anaerobic Baffled Reactor (ABR) merupakan suatu metode anaerob yang terbukti
+mampu menangani laju pembebanan organik tinggi dengan waktu pengolahan relatif singkat.
+Rangkaian baffle vertikal dapat memaksa air limbah kontak dengan mikroorganisme dalam
+lumpur dan mengurangi kemungkinan terjadinya wash out (Movahedyan et al., 2007). Namun,
+kelemahan umum metode anaerob yaitu lambatnya laju pertumbuhan mikroorganisme akibat
+tingginya sensitivitas bakteri terhadap pH dan toksik masih ditemui (Seghezzo, 2004).
+Keberhasilan bioreaktor anaerob menurunkan kadar polutan limbah secara stabil
+tergantung kepada kemampuan kultur mikroorganisme untuk dapat melakukan adaptasi
+(aklimatisasi) dengan substrat yang akan diolah dan kondisi operasi pengolahan yang akan
+diterapkan. Hal yang perlu diperhatikan adalah waktu aklimatisasi dan jumlah benih dalam
+lumpur yang cukup (Schuner and Jarvis, 2009; Alexiou, 1998). Tingginya kandungan toksik
+dalam substrat juga dapat membuat proses adaptasi mikroorganisme terhadap substrat yang akan
+diolah dalam sistem anaerobic digestion berlangsung lebih lama (Schuner and Jarvis, 2009).
+
+
+1.2. Perumusan Masalah
+Proses pembuatan 1 ton tepung tapioka dapat menghasilkan 12 m3 limbah cair dengan
+kisaran pH 4,5-5 (Mai, 2006). Karakter tersebut dapat menyulitkan performa pengolahan reaktor
+anaerob. Aktivitas mikroba penghasil CH4 (methanogen) yang berperan menghasilkan penurunan
+nilai COD hingga lebih dari 70 % total reduksi COD sistem anaerobic digestion akan terhambat
+pada kondisi pH di luar kisaran 6,5-7,2 (Hudson, 2010; Appels et al., 2008). Penurunan pH
+influen limbah cair tapioka dari kisaran nilai 6,7-7,1 menjadi 6,1 mampu menurunkan
+penghilangan kadar COD sistem anaerobic digestion dari 81-89 % hingga hanya menjadi 20 %
+(Mai, 2006).
+CN- juga tercatat merupakan inhibitor metabolisme dalam pengolahan anaerob. Penurunan
+laju hidrolisis sistem anaerobic digestion dapat terjadi dengan adanya peningkatan kadar CNinfluen
+(Mai, 2006). Kajian mengenai penurunan kadar CN- limbah cair tapioka telah banyak
+dilakukan. Riyanti dkk. (2010) menyebutkan bahwa klorinasi dengan dosis 5 mg Ca(OCl)2 tiap
+100 ml limbah pada kondisi terbaik yaitu pH 8 dan waktu kontak 1 jam mampu menghilangkan
+89 % kadar COD dan menurunkan kadar CN- dari 51,77 mg/L menjadi 30,08 mg/L. Sementara
+Muktasimbillah (1997) menyatakan bahwa klorinasi menggunakan 20 mg/L klor (Cl2) pada pH 8
+dapat menurunkan kadar CN- dari 2,48 mg/L menjadi 0,22 mg/L. Namun, pengaruh pre-klorinasi
+limbah cair tapioka terhadap pengolahan sistem ABR belum pernah dikaji.
+Penelitian pengolahan limbah cair tapioka sistem ABR terdahulu pun masih
+mengindikasikan belum berjalannya proses dengan baik. Pengaturan pH pada kondisi netral
+dalam pengolahan limbah pati hanya tercatat mampu menurunkan kadar COD dari nilai 6526-
+6875 mg/L hingga menjadi 2150-2650 mg/L (Movahedyan et al., 2007). Kadar COD efluen
+tersebut masih berada di atas 1000 mg/L sehingga membuat proses pengolahan lanjutan aerasi
+lumpur aktif tidak berjalan optimal (Davis and Cornell, 1991). Penurunan kadar COD limbah
+cair tapioka juga dapat menurun dari 92 % menjadi 83 % jika kadar COD influen ditingkatkan
+dari 2000-5000 mg/L menjadi 7000 mg/L (Ferraz et al., 2009).
+Kajian lebih lanjut mengenai pengaruh pengaturan pH dan pre-klorinasi fresh feed
+terhadap proses aklimatisasi dan kualitas efluen pengolahan limbah cair tapioka sistem ABR
+perlu dilakukan. Dengan adanya proses penurunan kadar CN- sebelum limbah diproses dalam
+pengolahan biologi, diharapkan aktivitas mikroba dalam menurunkan kadar polutan menjadi
+lebih cepat. Sementara, pengaturan pH bertujuan supaya proses pre-klorinasi menjadi lebih
+efektif dan mencegah terjadinya penurunan aktivitas mikroba akibat karakter pH limbah yang
+rendah.
+
+Kajian dalam pengolahan limbah cair tapioka sistem ABR pada penelitian ini ditinjau dari
+:
+1. Bagaimana pengaruh pengaturan pH dan proses pre-klorinasi fresh feed terhadap waktu
+aklimatisasi diperlukan untuk mencapai kondisi steady state ?
+2. Bagaimana pengaruh pengaturan pH dan proses pre-klorinasi fresh feed terhadap kualitas
+efluen ?
+3. Bagaimana pengaruh pengaturan pH dan proses pre-klorinasi fresh feed terhadap besarnya
+nilai parameter kinetika reaksi ?
+
+1.2. Tujuan Penelitian
+Secara umum, tujuan penelitian ini adalah untuk mengkaji kinerja pengolahan limbah cair
+tapioka metode ABR guna peningkatan efisiensi pengolahan limbah cair tapioka yang sudah
+ada.
+Secara lebih spesifik, tujuan penelitian ini adalah untuk :
+a. Mengkaji pengaruh pengaturan pH dan pre-klorinasi fresh feed terhadap waktu aklimatisasi.
+b. Mengkaji pengaruh pengaturan pH dan pre-klorinasi fresh feed terhadap kualitas efluen
+pengolahan limbah cair tapioka sistem ABR.
+c. Dapat mengestimasi nilai parameter kinetika reaksi dengan melakukan pengamatan terhadap
+fenomena yang terjadi selama proses aklimatisasi.
+
+1.3. Batasan Masalah
+Untuk dapat lebih fokus dalam mencapai tujuan penelitian dan karena keterbatasan waktu,
+maka ditetapkan batasan masalah sebagai berikut :
+a. Penentuan dosis kaporit hanya dilakukan berdasarkan stoikiometri reaksi.
+b. Tidak akan dilakukan variasi waktu tinggal limbah cair tapioka pada operasi kontinu sistem
+ABR.
+c. Kualitas efluen yang dianalisa terdiri dari parameter kualitas air yang terdapat dalam
+Peraturan Daerah Propinsi Jateng No 10 Tahun 2004.
+d. Perbandingan kualitas efluen antara proses aklimatisasi batch dan operasi kontinu hanya
+dilakukan pada kondisi saat dihasilkan kadar COD efluen stabil.

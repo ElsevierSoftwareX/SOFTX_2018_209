@@ -1,0 +1,384 @@
+﻿Karakterisasi Arang dan Gas-gas Hasil Pirolisis Limbah Kelapa Sawit
+
+
+Abstrak
+Cangkang dan tandan kosong kelapa sawit (TKKS) merupakan sumber bioenergi yang potensial karena
+mengandung lignoselulosa (selulosa, hemiselulosa dan lignin) sehingga dapat dikonversi menjadi cairan, arang
+atau gas mampu bakar melalui proses pirolisis. Suhu pengoperasian pada proses pirolisis akan mempengaruhi
+komposisi cairan, arang dan gas serta karakteristik hasil pirolisis tersebut. Tujuan dari penelitian ini adalah
+untuk mengkarakterisasi produk pirolisis cangkang dan tandan kelapa sawit yang dipengaruhi oleh suhu pirolisis.
+Penelitian dilakukan dengan menggunakan reaktor pirolisis skala lab, yang didesain khusus agar suhunya dapat
+dikendalikan. Suhu pirolisis dikendalikan pada level 300°C, 400°C, 500°C dan 600°C, kemudian hasil pirolisis
+diukur dan dianalisa. Hasil penelitian menunjukkan bahwa pirolisis cangkang menghasilkan fraksi massa arang
+, cairan dan gas dalam rentang 34.99 - 63.78%, 22.76 - 43.28% dan 13.47 - 21.73% secara berturut-turut.
+Sedangkan pirolisis TKKS menghasilkan fraksi massa arang, cairan dan gas dalam rentang 30.66 – 64.76%,
+16.25 – 29.16% dan 18.98 – 44.49% secara berturut-turut. Peningkatan suhu menghasilkan peningkatan nilai
+kalor arang hasil pirolisis cangkang dan TKKS dengan rentang antara 25.64 – 29.60 kJ/g dan 24.50 – 27.86 kJ/g.
+Tetapi, nilai kalor gas pirolisis menurun seiring dengan peningkatan suhu pirolisis dengan rentang 12.18 kJ/g
+– 20.05 kJ/g dan 11.98 kJ/g – 15.94 kJ/g untuk pirolisis cangkang dan TKKS. Nilai kalor gas tidak menghitung
+gas H2 yang mungkin menyebabkan fenomena tersebut. Peningkatan suhu pirolisis cangkang kelapa sawit
+mengakibatkan peningkatan konsentrasi gas CO pada rentang 2.8% - 18.42% sementara konsentrasi gas
+CH4 meningkat pada suhu 400°C namun menurun kembali dengan rentang 0.89% - 2.84%. Peningkatan suhu
+pirolisis TKKS meningkatkan konsentrasi gas CO dan CH4 pada rentang 3.81% - 15.74% dan 0.29% - 0.76%.
+Kata Kunci: pirolisis, cangkang kelapa sawit, tandan kosong kelapa sawit, arang, gas mampu bakar
+
+
+
+
+Pendahuluan
+Biomassa menjadi sumber energi terbarukan
+untuk mensubstitusi bahan bakar fosil serta
+mengatasi kerusakan lingkungan. Limbah kelapa
+sawit merupakan biomassa yang melimpah di
+Indonesia. Menurut Badan Pusat Statistik produksi
+kelapa sawit di Indonesia pada tahun 2014
+mencapai 29.34 juta ton. Pengolahan tandan buah
+segar menghasilkan limbah berupa cangkang
+(6.7%) dan TKKS (22.5 %).
+Cangkang dan TKKS mengandung lignoselulosa
+(selulosa, hemiselulosa dan lignin) yang dapat
+dikonversi menjadi bahan bakar sebagai sumber
+energi (Omar et al. 2011). Konversi lignoselulosa
+dapat dilakukan dengan beberapa cara yaitu
+pembakaran langsung, gasifikasi, liquefaksi,
+torefaksi dan pirolisis. Pada penelitian ini proses
+konversi akan dilakukan secara pirolisis karena
+menghasilkan produk dalam bentuk arang, cairan
+dan gas yang memiliki fungsi tersendiri. Komposisi
+produk-produk tersebut dapat dikendalikan dengan
+menggunakan kendali proses.
+Pirolisis adalah penguraian kandungan kimia
+biomassa dengan pemanfaatan panas tanpa
+adanya campuran oksigen pada suhu sekitar
+200°C – 600°C. Produk yang dihasilkan berupa
+arang, cairan dan gas (Silva et al. 2012). Menurut
+Klass (1998) umumnya gas yang dihasilkan terdiri
+dari H2, CO2, CO, CH4, C2H6, C2H4, gas organik
+dan uap air. Proses pirolisis lignoselulosa biomassa
+terdiri dari empat tahapan yaitu pelepasan uap air,
+dekomposisi hemiselulosa, dekomposisi selulosa
+dan dekomposisi lignin. Dekomposisi hemiselulosa
+biasanya terjadi pada suhu 220°C – 315°C. Selulosa
+terdekomposisi pada suhu 315°C – 400°C dan lignin
+biasanya terdekomposisi pada suhu 150°C sampai
+suhu 900°C (Yang et al. 2006).
+Penelitian yang dilakukan Razuan et al. (2010)
+menunjukkan bahwa proses pirolisis dengan suhu
+500°C dan 700°C yang diaplikasikan pada oil
+palm stone dan palm kernel cake meningkatkan
+nilai kalor pada arang seiring dengan peningkatan
+suhu pirolisis. Konsentrasi gas H2 meningkat,
+CH4 mengalami peningkatan sampai suhu 600°C
+setelah itu mengalami penurunan sedang gas CO
+dan CO2 mengalami penurunan seiring dengan
+meningkatnya suhu pirolisis. Penelitian dengan
+bahan sekam padi dilakukan oleh Park et al. (2014).
+Peningkatan suhu pirolisis meningkatkan jumlah
+gas namun menurunkan jumlah dan nilai kalor arang
+yang dihasilkan. Konsentrasi CO dan CO2 yang
+terbentuk mengalami penurunan sedangkan H2 dan
+CH4 mengalami peningkatan seiring meningkatnya
+suhu. Ginting (2014) menggunakan bahan TKKS.
+Pirolisis dilakukan dengan suhu 200°C – 450°C.
+Hasil yang diperoleh adalah nilai kalor gas mampu
+bakar yang terbentuk berupa H2, CO dan CH4
+meningkat dengan meningkatnya suhu pirolisis.
+Hasil pirolisis biomassa dipengaruhi oleh
+beberapa hal antara lain jenis bahan (meliputi
+komposisi komponen serta lignoselulosa), ukuran,
+suhu, laju pemanasan dan sebagainya. Tujuan
+penelitian ini adalah untuk mengetahui karakteristik
+produk yang dihasilkan khususnya arang dan gas
+mampu bakar dari pirolisis limbah kelapa sawit
+pada berbagai perlakuan suhu.
+Bahan dan Metode
+Waktu dan Tempat Penelitian
+Penelitian ini dilaksanakan pada bulan Oktober
+2014 hingga April 2015 di laboratorium Pindah
+Panas dan Massa, Departemen Teknik Mesin
+dan Biosistem, Institut Pertanian Bogor. Analisis
+laboratorium dilakukan di Laboratorium Pengujian Hasil Hutan Pusat Penelitian dan Pengembangan
+Keteknikan Kehutanan dan Pengolahan Hasil
+Hutan Bogor dan Laboratorium Ilmu dan Teknologi
+Pakan, Departemen Ilmu Nutrisi dan Teknologi
+Pakan, Institut Pertanian Bogor.
+Bahan dan Alat
+Bahan yang digunakan dalam penelitian ini
+adalah cangkang dan TKKS yang diperoleh dari
+hasil pengolahan tandan buah segar dari pabrik
+kelapa sawit Kebun Cikasungka PTPN VIII, Cigudeg,
+Bogor. Proses pengecilan ukuran dilakukan secara
+manual untuk bahan TKKS agar diperoleh ukuran
+bahan sebesar 3-4 cm.
+Proses pirolisis dilakukan dengan alat pirolisis
+skala lab berukuran Ø 10 cm dan tinggi 40 cm
+dengan rangkaian seperti ditunjukkan pada
+Gambar 1. Peralatan pengujian dilengkapi dengan
+peralatan ukur menggunakan termokopel tipe K dan
+termostat digital (Omron E5CZ) sebagai pengendali
+suhu elemen pemanas (heater) pada reaktor dan
+alat gas analyzer Merk Lancom 4 untuk mengukur
+komposisi gas yang dihasilkan. Peralatan pengujian
+juga dilengkapi dengan kondensor dengan fluida
+berupa air dingin 18°C.
+Metode
+Pirolisis pada biomassa diharapkan dapat
+meningkatkan densitas energi yang terkandung
+pada hasilnya karena akan menghasilkan kerja
+yang lebih baik dibandingkan dengan pembakaran
+langsung biomassa tersebut. Perbedaan perlakuan
+suhu pada pirolisis dilakukan untuk mengetahui
+perlakuan yang lebih baik dalam menghasilkan
+produk pirolisis yang ingin diprioritaskan untuk
+dihasilkan.
+Pirolisis dilakukan dengan sistem batch. Bahan
+dimasukkan ke dalam reaktor dan dipanaskan
+dengan heater pada suhu 300°C, 400°C, 500°C dan
+600°C. Bahan yang digunakan pada tiap perlakuan
+adalah 1000g cangkang sawit dan 300g TKKS. Arus
+listrik heater dikendalikan dengan termostat digital.
+Titik pengukuran suhu di dalam reaktor
+ditunjukkan oleh Gambar 2. Titik T1, T2, T3 dan T4
+adalah titik-titik pengukuran suhu di dalam reaktor
+yang dicatat tiap menit selama proses pirolisis. Titik
+T1 berada tepat di tengah reaktor (pusat reaktor),
+titik T2 berada di tengah jari-jari reaktor (0.5R), titik
+T3 berada 1 cm dari dinding dalam reaktor dan
+T4 ditempelkan pada dinding dalam reaktor dan
+merupakan titik dimana suhu pirolisis dikontrol. Dari
+hasil pencatatan akan diperoleh laju pemanasan
+tiap titik. Laju pemanasan dan suhu perlakuan akan
+dikorelasikan dengan hasil pirolisis yang diperoleh.
+Reaktor kemudian didiamkan sampai mencapai
+suhu lingkungan. Produk pirolisis berupa padatan
+dan cairan ditimbang sedangkan gas dihitung
+dengan prinsip kesetimbangan massa. Fraksi
+massa produk dihitung sesuai dengan persamaan
+(1), (2) dan (3).
+(1)
+(2)
+(3)
+Gas pirolisis yang terbentuk diukur dan dicatat
+secara otomatis pada komputer kemudian dihitung
+dengan menggunakan rumus integrasi simpson
+dengan menerapkan prinsip luas kurva yang
+terbentuk oleh diagram persentase gas, dengan
+rumus seperti pada persamaan (4).
+(4)
+h = interval tiap data
+f0 = data pertama
+fganjil = data ganjil (f1, f3, f5 dst)
+fgenap = data genap (f2, f4, f6 dst)
+fn = data terakhir
+Analisis ultimat untuk mengetahui besarnya
+persentase karbon, hidrogen, nitrogen, dan
+oksigen yang terkandung pada cangkang dan
+TKKS dilakukan menggunakan alat GCMS Pirolisis
+Shimadzu tipe GCMS-QP2010. Analisis Proksimat
+untuk mengetahui kadar air, zat terbang (volatile
+metter), karbon tetap dan abu dilakukan dengan
+menggunakan termogravimetri analyzer. Analisis
+lignoselulosa TKKS dilakukan untuk mengetahui
+persentase kandungan selulosa menggunakan
+metode Norman Jenkins, lignin dengan standar
+TAPPI, T 6 m – 59 (ASTM), hemiseluloa
+menggunakan standar ASTM 1104-56 dan ASTM
+1103-60. Analisis ultimat, proximat dan lignoselulosa
+dilakukan di Laboratorium Pengujian Hasil Hutan
+Pusat Penelitian dan Pengembangan Keteknikan
+Kehutanan dan Pengolahan Hasil Hutan Bogor.
+Analisis nilai kalor arang dilakukan di Laboratorium
+Ilmu dan Teknologi Pakan, Departemen Ilmu Nutrisi
+dan Teknologi Pakan, Institut Pertanian Bogor
+dengan menggunakan alat bomb calorimeterParr
+6200.
+
+
+
+
+Hasil dan Pembahasan
+Karakteristik Cangkang dan Tandan Kosong
+Kelapa Sawit
+Perbandingan hasil analisis ultimat, proksimat
+dan nilai kalor cangkang dan TKKS yang digunakan
+dalam penelitian ini dengan beberapa penelitian
+lainnya ditunjukkan oleh Tabel 1 dan 2. Rasio atom
+O/C dan H/C yang diperoleh dari analisis ultimat
+dapat digunakan untuk menunjukkan besarnya
+nilai kalor yang dapat dimanfaatkan dari bahan
+bakar tertentu. Semakin kecil nilai rasio O/C dan
+H/C maka nilai kalor yang terkandung di dalam
+suatu bahan bakar tertentu akan semakin besar,
+dan sebaliknya. Dari hasil terlihat bahwa nilai kalor
+cangkang dan TKKS relatif lebih besar dibandingkan
+dengan literatur pembanding dikarenakan tingginya
+persentase atom C yang terkandung di dalamnya.
+Kandungan karbon tetap (fixed carbon) dan zat
+terbang (vollatile matter) dari analisis proksimat akan
+berpengaruh pada kandungan energi biomassa.
+Semakin besar perbandingan antara karbon tetap
+dan zat terbang, semakin besar pula energi kimia
+yang dapat dilepaskannya. Sementara itu, kadar air
+dan kadar abu adalah komponen-komponen yang
+dapat mempengaruhi kualitas bahan bakar (Silva et
+al. 2012).
+
+
+Pirolisis Cangkang dan Tandan Kosong Kelapa
+Sawit
+Proses pirolisis telah dilakukan dan berlangsung
+pada suhu 300°C, 400°C, 500°C dan 600°C
+dengan menggunakan bahan cangkang dan TKKS.
+Sumber panas yang digunakan dalam proses
+pirolisis berasal dari heater. Panas dari heater listrik
+mengalir secara konduksi dengan arah horizontal
+melalui dinding reaktor yang kemudian dialirkan ke
+biomassa berupa cangkang dan TKKS.
+Persamaan regresi linear dan laju pemanasan
+pirolisis cangkang dan tandan kelapa sawit
+ditunjukkan oleh Tabel 4 dan 5 pada titik T1, T2
+dan T3. Dari Tabel 4 dapat dilihat bahwa pirolisis
+yang terjadi pada cangkang kelapa sawit secara
+umum lebih lambat dibandingkan pirolisis TKKS.
+Hal ini dapat terlihat dari laju pemanasan yang
+kurang dari 10°C/menit, sementara pada pirolisis
+TKKS , laju pemanasan yang terjadi diatas 10°C/
+menit. Perbedaan laju pemanasan yang terjadi
+bergantung pada karakteristik bahan dan suhu
+yang diaplikasikan pada bahan.
+Laju pemanasan pada pirolisis dan suhu
+perlakuan dapat mempengaruhi hasil pirolisis. Laju
+pirolisis yang lebih cepat dan suhu perlakuan yang
+tinggi akan meningkatkan jumlah cairan dan gas
+pada hasil pirolisis, sementara laju pirolisis yang
+lebih lambat dan suhu perlakuan yang rendah akan meningkatkan jumlah arang.
+Terdapat dua fase dalam laju pemanasan
+yaitu fase pengeringan bahan dan laju pirolisis itu
+sendiri. Laju pemanasan pada Tabel 4 dan 5 adalah
+laju pemanasan pada fase pirolisis. Dikarenakan
+posisi T3 paling dekat dengan sumber panas maka
+selama fase pengeringan, bahan yang berada
+di titik T3 mengalami peningkatan suhu lebih
+tinggi yang berdampak pada penguapan vollatile
+matter lebih banyak dibandingkan bahan pada titik
+T1 dan T2 sehingga pada saat fase pirolisis, laju
+pemanasan titik T3 lebih rendah dibandingkan yang
+lain. Sementara pada pirolisis tandan kelapa sawit
+dengan suhu yang lebih tinggi, laju pemanasan
+cenderung lebih merata bahkan semakin rata pada
+suhu yang semakin tinggi. Hal ini dikarenakan
+karakteristik tandan yang lebih lunak ditandai dengan
+lebih rendahnya kadar lignin yang terkandung serta
+porositas yang lebih tinggi sehingga perambatan
+kalor dari heater semakin mudah.
+Karakteristik Hasil Pirolisis Limbah Kelapa
+Sawit
+Fraksi massa dari proses pirolisis cangkang
+dan TKKS pada kondisi pemanasan yang berbeda
+ditunjukkan pada Gambar 3. Fraksi massa arang,
+cairan dan gas hasil pirolisis cangkang kelapa sawit
+secara berturut-turut adalah 34.99 - 63.78%, 22.76
+- 43.28% dan 13.47 - 21.73%. Fraksi massa arang,
+cairan dan gas hasil pirolisis TKKS secara berturutturut
+adalah 30.66 - 64.76%, 16.25 - 29.16% dan
+18.98 - 44.49%.
+Penggunaan bahan baku yang berbeda serta
+jenis pirolisis dapat mempengaruhi persentase
+produksi arang, cairan dan gas pada proses
+pirolisis tersebut. Gambar 3 menunjukkan bahwa
+persentase produksi cairan pada pirolisis cangkang
+lebih banyak daripada persentase produksi cairan
+pada pirolisis TKKS namun kebalikannya pada
+persentase produksi gas. Pada persentase produksi
+arang, pirolisis cangkang menghasilkan arang yang
+lebih sedikit dibandingkan pirolisis tandan kosong
+pada suhu 300°C dan 400°C sedangkan pada suhu
+500°C dan 600°C terjadi sebaliknya.
+Laju pemanasan yang lebih lambat pada pirolisis
+cangkang kelapa sawit berdampak pada lebih
+tingginya persentase arang yang diperoleh dari
+hasil pirolisis dibandingkan dengan pirolisis TKKS,
+sementara itu persentase gas TKKS lebih besar
+dibandingkan persentase gas yang diperoleh pada
+pirolisis cangkang kelapa sawit.
+Peningkatan suhu pirolisis menurunkan
+presentase produksi arang yang diakibatkan oleh
+devolatilisasi lanjutan dari volatile matter yang
+tersisa pada arang. Hal ini sesuai dengan penelitian
+sebelumnya yang dilakukan Sukiran et al. (2009)
+dan Abnisa et al. (2011). Sebaliknya, peningkatan
+suhu pirolisis meningkatkan produksi cairan dan
+gas karena adanya penambahan devolatilisasi zat
+terbang dari arang.
+Karakteristik Arang dan Gas-Gas Hasil Pirolisis
+Tabel 6 dan 7 menunjukkan karakteristik
+arang hasil pirolisis cangkang dan TKKS pada
+kisaran suhu 300°C – 600°C. Peningkatan suhu
+pirolisis pada cangkang kelapa sawit berdampak
+pada meningkatnya nilai kalor arang. Hal ini juga
+berlangsung pada pirolisis tandan kelapa sawit
+kecuali pada suhu 600°C dimana nilai kalor arang
+lebih rendah dibandingkan dengan nilai kalor arang
+pada suhu perlakuan yang lain. Peningkatan nilai
+kalor arang yang beriringan dengan peningkatan
+suhu pirolisis dapat diakibatkan karena peningkatan
+suhu pirolisis meningkatkan penguapan volatile
+matter sehingga mengakibatkan penurunan kadar
+air dan menyisakan karbon pada arang sehingga
+berakibat pada peningkatan nilai kalor arang
+tersebut. Penurunan nilai kalor arang pada pirolisis
+TKKS suhu 600°C terjadi karena vollatilematter
+yang terkandung mengalami devolatilisasi lanjutan
+dan lebih banyaknya lignin yang terdekomposisi.
+Hasil perhitungan nilai kalor spesifik gas
+hasil pirolisis cangkang dan tandan kelapa sawit ditunjukkan oleh Tabel 8 dan 9. Dari nilai kalor
+spesifik gas yang diperoleh, hanya pirolisis
+cangkang kelapa sawit pada suhu 300°C yang
+melebihi nilai kalor biomassa yang digunakan ,
+sedangkan pada perlakuan lainnya tidak ada nilai
+kalor spesifik gas yang melebihi nilai kalor biomassa.
+Hal ini disebabkan karena gas H2 yang tidak terukur
+sehingga nilai kalor spesifik gas yang dihitung
+bukan nilai kalor spesifik gas yang sebenarnya.
+Hasil penelitian Ginting (2014) menunjukkan bahwa
+peningkatan suhu pirolisis TKKS meningkatkan
+konsentrasi gas H2 dengan rentang 0.5% - 21.46%
+sehingga diasumsikan bahwa nilai kalor spesifik
+gas akan lebih tinggi dibandingkan nilai kalor
+biomassa yang digunakan. Pelepasan gas H2
+sendiri disebabkan oleh terurainya komponen
+selulosa dan lignin yang terjadi pada suhu yang
+lebih tinggi. Selulosa terurai pada suhu 315°C –
+400°C dan lignin pada suhu 150°C – 900°C (Basu,
+2010). Peningkatan suhu pirolisis cangkang kelapa
+sawit mengakibatkan peningkatan konsentrasi
+gas CO pada rentang 2.86% - 18.42% sementara
+konsentrasi gas CH4 meningkat pada suhu
+400°C namun menurun kembali dengan rentang
+0.89% - 2.84%. Peningkatan suhu pirolisis TKKS
+meningkatkan konsentrasi gas CO dan CH4 pada
+rentang 3.81% - 15.74% dan 0.29% - 0.76%.
+Simpulan
+Pirolisis cangkang menghasilkan fraksi massa
+arang, cairan dan gas pada rentang 34.99 - 63.78%,
+22.76 - 43.28% dan 13.47 - 21.73%. Pirolisis TKKS
+menghasilkan fraksi massa arang, cairan dan gas
+pada rentang 30.66 - 64.76%, 16.25 - 29.16% dan
+18.98 - 44.49%. Peningkatan suhu pirolisis pada
+cangkang dan TKKS mengakibatkan peningkatan
+nilai kalor arang yang dihasilkan kecuali pada
+pirolisis TKKS pada suhu 600°C yaitu dengan
+kisaran antara 25.64 – 29.60 kJ/g untuk cangkang
+kelapa sawit dan 24.50 – 27.86 kJ/g untuk TKKS.
+Sementara itu nilai kalor spesifik gas mengalami
+penurunan seiring peningkatan suhu pirolisis yang
+diakibatkan tidak terukurnya gas H2 yang dihasilkan
+proses pirolisis cangkang dan TKKS dengan
+rentang 12.18 – 20.05 kJ/ g gas dan 11.98 – 15.94
+kJ/ g gas untuk pirolisis cangkang dan TKKS secara
+berturut-turut. Berdasarkan nilai kalor spesifik hasil
+pirolisis untuk menghasilkan arang maka suhu
+pirolisis terbaik untuk cangkang dan TKKS adalah
+500°C, sedangkan untuk menghasilkan gas suhu
+pirolisis terbaik untuk cangkang dan tandan kelapa
+sawit adalah 300°C.

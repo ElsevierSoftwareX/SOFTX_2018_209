@@ -1,0 +1,136 @@
+﻿Telah direalisasikan sistem perbandingan perhitungan kekasaran permukaan
+kulit tangan dengan metode analisis statistik dan dimensi fraktal. Perhitungan
+dilakukan berdasarkan line profile citra permukaan kulit tangan yang diolah
+menggunakan software Matlab 7.8. Perhitungan analisis statistik berupa Mean
+Absolute Value (MAV) Variance (VAR) dan Standard Deviation (STD) yang
+dibandingkan dengan nilai dimensi fraktal berupa metode Higuchi, Katz dan
+Box Counting. Nilai statistik yang kecil, akan diperoleh nilai dimensi fraktal
+yang kecil dan menunjukkan kualitas kulit yang baik. Klasifikasi kulit dibagi
+atas 3 katagori yaitu kasar, sedang dan halus. Berdasarkan 10 Sampel uji, 9
+diantaranya kualitas sedang dan 1 sampel kualitas halus.
+Kata kunci: Line Profile, Higuchi, Katz dan Box Countin
+
+BAB I
+PENDAHULUAN
+A. Latar Belakang
+Kulit merupakan lapisan terluar tubuh, dimana kulit adalah organ terbesar dari
+sistem yang menutupi tubuh. Kulit memiliki beberapa lapisan jaringan ectodermal
+dan penjaga otot-otot yang mendasarinya (Marks and Jeffery, 2006). Kulit adalah
+organ yang esensial dan vital serta merupakan cerminan kesehatan dan kehidupan.
+Kulit berfungsi untuk melindungi bagian-bagian tubuh sebelah dalam dari
+pengaruh luar. Selain itu, kulit juga berfungsi mengatur suhu tubuh dan sebagai
+indra peraba. Melalui indra peraba dapat dirasakan sakit, panas, atau dingin
+apabila sesuatu menyentuh kulit (Djuanda, 2007).
+
+Manusia memiliki jenis kulit yang bervariasi, tergantung pada iklim, umur, ras
+dan lokasi tubuh. Kulit pada bagian tangan merupakan salah satu bagian tubuh
+manusia yang sering mendapatkan perhatian, khususnya kaum wanita agar tampil
+menarik. Permukaan kulit yang halus dan bersih adalah dambaan setiap wanita.
+Berbagai cara perawatan kulit diusahakan, misalkan perlakuan pemberian lotion
+kulit, melapisi dengan tabir sinar ultraviolet (UV), pemakaian sabun kecantikan
+hingga perawatan salon dilakukan agar kulit menjadi halus dan tambah bersih. Namun demikian, penilaian kehalusan atau kekasaran kulit tangan
+sejauh ini masih bersifat kualitatif. Akibatnya persepsi kehalusan atau kekasaran
+kulit tangan dari setiap orang dapat berbeda – beda karena tidak ada ukuran
+kuantitatif yang menjadi pedoman. Oleh karena itu, metode penilaian kuantitatif
+kehalusan atau kekasaran kulit tangan sangat penting dilakukan agar diperoleh
+standar penilaian yang jelas.
+
+Seiring berkembangnya zaman, pengukuran tingkat kekasaran kulit tangan sudah
+mulai dilakukan. Pada bidang dermatologi, terdapat alat ukur yang secara khusus
+dioptimalkan untuk pengukuran dan pemeriksaan kulit manusia yang tepat tanpa
+perlu replika. Derma TOP-blue merupakan alat yang menggunakan LED biru
+sebagai sumber cahaya. Alat ini disorotkan pada kulit yang ingin diukur
+kekasarannya dan memungkinkan hasil representasi struktur kulit dengan kontras
+yang optimal (Breuckmann, 2004). Namun persediaan yang masih terbatas di
+Indonesia dan biaya penggunaan yang cukup mahal menyebabkan alat ini kurang
+begitu diminati. Selain itu, kekasaran permukaan kulit juga dapat diukur dengan
+dermatoscopy digital yang menerapkan metode microscope application. Alat ini
+menggunakan sistem lensa untuk memperbesar profil dari permukaan kulit.
+Dermatoscopy digital terdiri dari digital microscope yang berfungsi untuk
+mengambil dan mengolah gambar permukaan kulit yang kemudian dilakukan
+proses skin analyzer untuk mendapatkan deskripsi tekstur mikro-topografi kulit
+sehinga diperoleh informasi tingkat kekasaran kulit berdasarkan hasil gambar
+(Suprijanto dkk, 2011). Pada penelitian tersebut, sampel yang digunakan berupa
+replika kulit, kulit muda dan kulit tua, serta analisa tujuh kulit dengan anti kerut
+kosmetik. Diperoleh hasil pengukuran kekasaran pada replika kulit dan perbandingan kulit tua dan muda, sedangkan analisa anti kerut enam dari tujuh
+sampel kulit berhasil diidentifikasi dan satu sampel gagal. Dikarenakan proses
+yang kurang sederhana dan peralatan yang sulit ditemukan menyebabkan alat ini
+kurang diminati dan tidak dikembangkan.
+
+Metode lain yang menarik digunakan untuk menentukan tingkat kehalusan atau
+kekasaran kulit adalah metode dimensi fraktal. Dimensi fraktal (Fractal
+Dimention, FD) diperoleh berdasarkan profil permukaan kulit. Permukaan kulit
+yang halus memiliki nilai dimensi satu, sedangkan kulit yang kasar memiliki nilai
+dimensi lebih dari satu. Dimensi fraktal adalah dimensi dengan nilai pecahan.
+Bentuk fraktal terdiri dari sub-unit yang menyerupai struktur dari keseluruhan
+objek, begitu pula dengan kulit. Tidak seperti garis satu dimensi, bidang dua
+dimensi dan ruang tiga dimensi, dimensi fraktal memiliki nilai dimensi diantara
+dimensi satu dan dua atau antara dimensi dua dan tiga. Fraktal tidak memiliki
+deskripsi nilai tetap tetapi sebagian kecil diketahui dengan dimensi integral
+(Goldberger et al, 2002). Dimensi fraktal memiliki berbagai jenis metode
+perhitungan, namun tidak semua metode dapat digunakan. Metode perhitungan
+dimensi fraktal yang dapat digunakan untuk menghitung kekasaran permukaan
+kulit tangan diantaranya adalah metode Higuchi, Katz dan Box Counting.
+Penetuan kekasaran kulit juga dapat dilakukan dengan perhitungan matematis
+berupa analisis statistik. Analisis statistik merupakan suatu metode yang lebih
+mudah dan cepat untuk menghitung nilai kekasaran suatu permukaan berdasarkan
+bentuk sinyal, amplitudo, frekuensi dan durasi dalam beberapa parameter terbatas
+(Ericka, 2011). Analisis statistik yang dilakukan berfungsi sebagai pembanding dari hasil perhitungan dimensi fraktal. Perhitungan analisis statistik yang
+digunakan yaitu berupa perhitungan Mean Absolute Value (MAV), Variance
+(VAR) dan Standard Deviation (STD). Sehingga pada penilitian ini akan
+dilakukan perbandingan perhitungan kekasaran permukaan kulit tangan antara
+analisis statistik dan dimensi fraktal dengan menggunakan kamera dan komputer
+pribadi.
+
+B. Rumusan Masalah
+Berdasarkan latar belakang masalah, dapat diperoleh rumusan masalah sebagai
+berikut:
+1. Bagaimana proses sistem akuisisi data citra permukaan kulit menggunakan
+kamera dan komputer pribadi ?
+2. Bagaimana perhitungan analisis statistik untuk menentukan kekasaran
+permukaan kulit tangan dengan bahasa pemrograman Matlab ?
+3. Bagaimana perhitungan dimensi fraktal untuk menentukan kekasaran
+permukaan kulit tangan dengan bahasa pemrograman Matlab ?
+4. Bagaimana perbandingan hasil kekasaran permukaan kulit tangan antara
+perhitungan analisis statistik dan dimensi fraktal ?
+
+C. Tujuan Penelitian
+Adapun tujuan dari penelitian ini adalah sebagai berikut :
+1. Membuat sistem akuisisi data kekasaran permukaan kulit menggunakan
+kamera dan komputer pribadi.
+2. Menghitung kekasaran permukaan kulit tanngan berdasarkan analisis
+statistik dengan perhitungan Mean Absolute Value (MAV), Standard
+Deviation (STD) dan Variance (VAR).
+3. Menghitung kekasaran permukaan kulit tangan berdasarkan dimensi fraktal
+dengan metode Box Counting, Higuchi dan Katz.
+4. Membandingkan hasil perhitungan kekasaran permukaan kulit tangan antara
+analisis statistik dan dimensi fraktal.
+
+D. Batasan Masalah
+Adapun batasan masalah pada penelitian ini adalah sebagai berikut :
+1. Perancangan program pencitraan permukaan kulit tangan dengan
+menggunakan perangkat lunak Matlab untuk perhitungan dimensi fraktal
+dan analisis statistik.
+2. Penentuan nilai kekasaran permukaan kulit tangan berdasarkan analisis
+statistik dengan perhitungan Mean Absolute Value (MAV), Standard
+Deviation (STD) dan Variance (VAR).
+3. Penentuan nilai kekasaran permukaan kulit tangan berdasarkan perhitungan
+dimensi fraktal dengan metode Box Counting, Higuchi dan Katz.
+4. Perbandingkan tingkat kekasaran permukaan kulit antara hasil perhitungan
+analisis statistik dan dimensi fraktal.
+
+
+E. Manfaat Penelitian
+Manfaat dari penelitian ini adalah sebagai berikut :
+1. Kekasaran permukaan kulit tangan dapat diketahui berdasarkan analisis
+statistik citra kulit dengan perhitungan Mean Absolute Value (MAV),
+Standard Deviation (STD) dan Varience (VAR).
+
+2. Kekasaran permukaan kulit tangan dapat diketahui berdasarkan perhitungan
+dimensi fraktal profil citra kulit dengan metode Box Counting, Higuchi dan
+Katz.
+3. Mengetahui metode yang lebih efesien untuk menentukan kekasaran
+permukaan kulit tangan.
+4. Diperoleh perbandingan hasil perhitungan kekasaran permukaan kulit
+tangan antara analisis statistik dan dimensi fraktal.
+

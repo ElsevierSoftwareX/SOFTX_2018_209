@@ -1,0 +1,203 @@
+﻿Aplikasi Teknik Polymerase Chain Reaction (PCR) Menggunakan Primer Degenerate dan Spesifik Gen AV1 Untuk Mendeteksi Begomovirus Pada Tomat
+(Lycopersicon esculentum Mill.)
+
+
+ABSTRAK
+Hasil penelitian sebelumnya menunjukkan bahwa Infeksi virus begomovirus di beberapa tanaman sayuran termasuk tanaman tomat. Namun demikian, penelitian yang memberikan informasi mengenai deteksi dan infeksi dari virus begomovirus yang menginfeksi tanaman tomat dengan menggunakan teknik PCR masih perlu diteliti lebih lanjut. Tujuan dari penelitian adalah untuk mendeteksi begomovirus yang menginfeksi tanaman tomat di beberapa daerah produksi tomat dari Jawa Timur, Jawa Tengah, Yogyakarta, dan Jawa Barat menggunakan teknik PCR dengan primer degenerate dan spesifik. Amplifikasi PCR genom begomovirus dilakukan dengan menggunakan sepasang degenerate primer yaitu PAL1v1978-F dan PAR1c715-R, serta primer spesifik adalah AV1-F/R. Konfirmasi virus dilakukan dengan teknik penularan virus oleh vektor kutu kebul ke tanaman sehat. Hasil penelitian menunjukkan bahwa sampel-sampel tanaman tomat bergejala yang dikoleksi dari beberapa daerah di Jawa Timur, Jawa Tengah, Jawa Barat dan D.I. Jogjakarta mengindikasikan adanya infeksi oleh Begomovirus setelah dideteksi menggunakan teknik PCR dengan primer degenerate. Hasil amplifikasi PCR menggunakan primer spesifik AV1-F/R untuk mendeteksi genus Begomovirus menunjukkan bahwa semua sampel tanaman koleksi menghasilkan amplikon yang berukuran 780 bp. Konfirmasi virus melalui penularan dengan vektor kutu kebul di rumah kaca dari sampel tanaman sakit dan positif PCR menunjukkan terjadinya proses penularan virus yang ditandai dengan munculnya gejala-gejala pada tanaman yang sehat.
+Kata kunci: Begomovirus, Lycopersicon esculentum, Primer degenerate, Tehnik PCR.
+
+
+
+PENDAHULUAN
+Tomat (Lycopersicon esculentum Mill.) merupakan salah satu tanaman sayuran yang banyak dibudidayakan di Indonesia dan termasuk dalam lima besar komoditas sayuran penting di samping kubis, bawang putih, kacang kapri dan cabai. Pengembangan tanaman tomat di lapangan banyak menghadapi kendala biotik dan abiotik. Kendala biotik yang banyak ditemukan saat ini adalah serangan penyakit keriting daun yang disebabkan oleh infeksi Tomato (yellow) leaf curl virus (TYLCV/ToLCV) dari genus Begomovirus dengan gejala berupa tanaman menjadi kerdil, pengurangan ukuran daun, penggulungan daun ke atas, daun menguning, klorosis pada tepi daun, burik (mottling) dan pengguguran bunga. TYLCV/ ToLCV diidentifikasi pertama kali pada tahun 1997 di Florida Selatan dan merupakan ancaman yang serius pada produksi tomat, baik di lapang maupun rumah kaca. (Polston et al., 1999).
+Penyakit yang disebabkan oleh infeksi TYLCV/ToLCV ini dapat menyebabkan terjadi kehilangan hasil sampai 100% pada tanaman tomat budidaya, baik di daerah tropis maupun sub-tropis (Moriones et al., 2000). Di Indonesia, TYLCV/ToLCV dilaporkan menginfeksi tanaman tomat hampir 90-100% dan telah menyebabkan kehilangan hasil sekitar 50-100% (AVRDC Centerpoint newsletter-spring 2003 issue). Sedangkan menurut hasil penelitian Sudiono et al. (2001), serangan virus tersebut pada tanaman tomat di daerah Bogor dan sekitarnya dapat mencapai 50-70%.
+Spesies TYLCV/ToLCV dimasukkan ke dalam genus Begomovirus dan famili Gemini-viridae (kelompok Geminivirus). Di dalam klasifikasinya, famili Geminiviridae dibagi menjadi empat genus yang berbeda yaitu Mastrevirus, Curtovirus, Topocuvirus dan Begomovirus berdasarkan organisasi genetik, tanaman inang dan vektor yang menginfeksi (van Regenmortel et al., 1999). Begomovirus ditularkan oleh serangga vektor kutu kebul/whitefly (Bemisia tabaci Gennadius dari ordo Hemiptera, famili Aleyrodidae) dan menginfeksi tanaman dikotil. Begomovirus memiliki sebuah genom DNA utas tunggal dan berbentuk sirkuler serta berukuran relatif kecil yang dibungkus (encapsidated) dalam sebuah partikel geminate. Genom dari Begomovirus dapat berupa monopartit (Mediterania, Amerika Tengah dan Utara, serta sebagian negara di Asia) atau bipartit (Thailand) (Fauquet & Stanley, 2005). Begomovirus ditularkan dengan cara penularan persisten sirkulatif (Idris et al., 2001; Brown & Czosnek, 2002).
+Gen AV1 menyandikan protein selubung (coat protein) dan merupakan gen yang terletak pada utas viral-sense dari Begomovirus monopartite termasuk Tomato (yellow) leaf curl virus (Horrison BD, 1985). Produksi protein selubung diregulasi oleh gen AC2. Protein selubung mempunyai beberapa fungsi dan merupakan dasar dari metode serologi untuk deteksi dan identifikasi Begomovirus.
+Dengan ditemukannya beberapa kejadian penyakit yang berasosiasi dengan Begomovirus di beberapa daerah sentra produksi tomat dan hal ini berpotensi menjadi ancaman yang serius pada produksi tomat, maka sangat diperlukan pengembangan teknik deteksi Begomovirus pada tanaman dalam hubungannya dengan pengendalian penyakit. Secara tradisional, metode serologi telah menjadi cara yang rutin digunakan untuk deteksi dan diagnosis virus. Namun demikian, metode deteksi secara serologi mempunyai beberapa kelemahan diantaranya adalah rendahnya titer dari antigen, adanya reaksi silang antibodi dengan antigen heterolog dan adanya pengaruh pengaturan produksi antibodi oleh lingkungan dan tahap perkembangan (Pico et al., 1999) Kemajuan di bidang biologi molekuler telah menghadirkan beberapa teknik yang dapat digunakan untuk deteksi dan identifikasi virus, salah satunya adalah Polymerase Chain Reaction (PCR). Teknik ini sangat sensitif dan spesifik untuk deteksi dan identifikasi patogen-patogen tanaman. Teknik PCR juga dapat digunakan untuk mengetahui mengenai komposisi populasi patogen dan diversitas genetik virus (Rojas et al., 1993).
+Tujuan penelitian adalah untuk mendeteksi Begomovirus yang menginfeksi tanaman tomat pada beberapa daerah produksi tomat di Jawa Timur, Daerah Istimewa Jogjakarta, Jawa Tengah dan Jawa Barat menggunakan teknik PCR dengan primer degenerate dan primer spesifik gen AV1.
+BAHAN DAN METODE
+Sampel-sampel tanaman tomat sakit yang diduga terinfeksi Begomovirus yang digunakan dalam penelitian ini diambil dari beberapa daerah di Jawa Timur (Malang dan Blitar), Jawa Tengah (Sragen), Daerah Istimewa Jogjakarta (Kaliurang) dan Jawa Barat (Bandung, Sukabumi dan Bogor).
+Isolasi DNA Total (virus dan tanaman) dari Tanaman Sakit
+Isolasi DNA virus dan DNA genom total dari tanaman sakit dilakukan menggunakan metode yang dikembangkan oleh Doyle & Doyle (1990) yang telah dimodifikasi, yaitu dengan penambahan 2% polyvinil pyrolidone (PVP). Sebanyak 3 g daun tanaman digerus dengan bantuan nitrogen cair sampai halus. Hasil gerusan dimasukkan ke dalam tabung mikro 1,5 ml dan ditambahkan dengan 700 l bufer ekstraksi (20 mM EDTA, 100 mM Tris-HCl pH 8.0, 1,4 M NaCl, 2% CTAB, 2% PVP, dan 0,2% Mercapto-ethanol) dan diinkubasi selama 60 menit pada penangas air 65 0C sambil membolak balik tabung setiap 15 menit. Selanjutnya komponen kontaminan (protein, polisakarida, senyawa fenolik, dan lain-lain) didenaturasi dengan menambahkan larutan fenol: kloroform: isoamilalkohol (25:24:1) (v/v/v) sebanyak 700 l. Selanjutnya tabung dibolak-balik secara hati-hati selama 5 menit, kemudian suspensi disentrifugasi selama 15 menit dengan kecepatan 12000 rpm. Supernatan diambil dan dipindahkan ke tabung mikro 1,5 ml yang baru. Ke dalam tabung ditambahkan 0.7x volume isopropanol dingin dan dibolak-balik perlahan-lahan. Untuk mengendapkan DNA, dilakukan sentrifugasi selama 10 menit pada kecepatan 12000 rpm. Endapan DNA yang terbentuk kemudian dicuci dengan etanol 70% dan disentrifugasi kembali selama 5 menit pada 12000 rpm. Setelah itu pelet DNA dikeringkan pada oven selama 10 menit pada suhu 50 0C dan dilarutkan kembali dengan bufer TE 1x. Suspensi DNA yang sudah larut siap digunakan dalam tahapan PCR.
+Amplifikasi DNA virus dengan primer degenerate
+Amplifikasi DNA dengan teknik PCR dilakukan sesuai dengan prosedur dari Rojas et al. (1993) menggunakan sepasang primer degenerate universal untuk identifikasi kelompok Geminivirus secara umum yaitu PAL1v1978 dan PAR1c715. Sekuen basa primer PAL1v1978 (Forward): 5’ GCATCTGCAGGCCCACATYGT CTTYCCNGT 3’ dan PAR1c715 (Reverse): 5’ GATTTCTGCAGTTDATRTTYTCRTCCATCCA 3’. Total volume reaksi PCR adalah 25 l yang mengandung 2-5 ul DNA genomik cetakan, dNTPs dengan konsentrasi 25 M, primer Forward dan Reverse masing-masing dengan konsentrasi 0,2 uM, MgCl2 dengan konsentrasi 1,5 mM, enzim Taq DNA polymerase 0,15 unit dalam larutan bufer 1X (20 mM Tris-HCl pH 8.0, 100 mM KCl, 0,1 mM EDTA, 1 mM DTT, 50% glycerol, 0,5%, Tween 20, dan 0,5% nonidet P40). Setiap reaksi ditutup dengan mineral oil untuk mencegah penguapan. Reaksi amplifikasi dilakukan dengan mesin PCR (PCT-100, MJ Research Inc. USA) dengan program sebagai berikut: tahap denaturasi pada suhu 94 0C selama 1 menit, penempelan primer pada suhu 50 0C selama 1 menit, dan pemanjangan/ sintesis DNA pada suhu 72 0C selama 3 menit. Tahapan program PCR tersebut diulang sebanyak 30 siklus. Pada tahap terakhir proses PCR dilakukan pemanjangan akhir pada suhu 72 0C selama 3 menit. Setelah proses PCR selesai, sampel disimpan pada suhu 4 0C atau bisa langsung divisualisasi dengan elektroforesis gel.
+Amplifikasi DNA virus dengan primer spesifik gen AV1
+Amplifikasi gen AV1 yang dimiliki secara spesifik oleh Begomovirus dilakukan menggunakan teknik PCR mengikuti prosedur yang dikembangkan Liu et al. (2006). Pasangan primer spesifik gen AV1 yang digunakan adalah primer AV1-F (5’-TAATTCTAGATGTCGAAGC GACCCGCCGA-3’) dan primer AV1-R (5’-GGCCGAATTCTTAATTTTGAACAGAATCA-3’). Ukuran produk amplifikasi PCR dari gen AV1 adalah 780 bp. Reaksi amplifikasi dilakukan dengan total volume 25 ul mengandung 2-5 ul DNA cetakan, dNTPs dengan konsentrasi 25 M, primer F dan R masing-masing dengan konsentrasi 0,2 uM, MgCl2 dengan konsentrasi 1,5 mM, enzim Taq DNA polymerase 0,15 unit dalam larutan buffer 1x (20 mM Tris-HCl pH 8.0, 100 mM KCl, 0,1 mM EDTA, 1 mM DTT, 50% glycerol, 0,5%, Tween 20, dan 0,5% nonidet P40). Reaksi amplifikasi dilakukan dengan mesin PCR (MJ Research) dengan program sebagai berikut: denaturasi pada suhu 94 0C selama 1 menit, penempelan primer pada suhu 55 0C selama 2 menit, dan pemanjangan/ sintesis DNA pada suhu 72 0C selama 2 menit. Tahapan program PCR tersebut diulang sebanyak 30 siklus. Pada tahap terakhir proses PCR dilakukan pemanjangan akhir pada suhu 72 0C selama 10 menit. Setelah proses PCR selesai, sampel dianalisis dengan gel elektroforesis.
+Visualisasi hasil amplifikasi DNA
+Hasil PCR baik dengan primer degenerate atau primer spesifik divisualisasikan dengan elektroforesis gel agarosa 1% pada 0,5x bufer TBE (Tris-Boric acid-EDTA). Sebanyak 10 l produk PCR dari masing-masing sampel ditambahkan dengan 2 l loading dye dan dicampur sempurna, kemudian dimasukkan ke dalam sumur di dalam gel. Untuk menentukan ukuran dari produk PCR disertakan juga DNA standar (100 bp atau 1 kb plus ladder, Invitrogen) sebagai pembanding. Sampel DNA tersebut dielektroforesis dengan tegangan 90 volt selama kurang lebih 1,5 jam. Setelah itu, agarosa gel diwarnai pada larutan etidium bromida (10 mg L-1) selama 10 menit dan dicuci dengan air selama 20-30 menit. Agarosa gel kemudian divisualisasi dengan Chemidoc gel system (Biorad).
+Konfirmasi infeksi Begomovirus melalui penularan oleh vektor kutu kebul
+Tanaman-tanaman yang telah dideteksi dengan teknik PCR, selanjutnya dikonfirmasi dengan teknik penularan virus oleh vektor kutu kebul ke tanaman sehat. Masing-masing tanaman sakit ditempatkan pada kurungan kedap serangga yang telah berisi tanaman tomat muda. Begomovirus tidak bisa ditularkan secara mekanis dan hanya bisa ditularkan oleh vektor serangga tertentu, utamanya kutu kebul (Bemisia tabaci). Ke dalam kurungan dimasukkan vektor kutu kebul sebanyak 10 ekor untuk menularkan virus dari tanaman sakit ke tanaman sehat dan dibiarkan selama 7 hari. Setelah proses penularan selesai, bibit tomat dikeluarkan dari kurungan dan diberi perlakuan insektisida untuk memusnahkan kutu kebul yang masih menempel. Bibit tomat selanjutnya dipindahkan ke dalam pot dan dipelihara di dalam rumah kasa. Pengamatan gejala terinfeksi Begomovirus dilakukan 2 minggu setelah inokulasi. Data yang dikumpulkan pada pengamatan ini adalah (+), yang berarti tanaman terinfeksi dan (-), berarti tanaman tidak terinfeksi.
+HASIL dan PEMBAHASAN
+Morfologi gejala pada tanaman tomat sakit yang diduga terinfeksi oleh Begomovirus menunjukkan adanya variasi morfologi gejala dari setiap lokasi yang berbeda (Gambar 1). Deskripsi gejala dominan dari tanaman tomat sakit yang dapat diamati di lapang dari masing-masing lokasi ditampilkan pada Tabel 1.
+
+
+
+
+Gambar 1. Morfologi gejala pada tanaman tomat yang diduga terinfeksi oleh Begomovirus yang ditemukan di lapang: (a). Wanasari, Sukabumi (b). Cibitung, Bogor (c). Karangpandan, Sragen (d). Kaliurang, Daerah Istimewa Jogjakarta (e). Batu, Malang dan (f). Pare, Blitar
+
+
+
+
+
+Untuk mengidentifikasi adanya infeksi virus pada sampel daun bergejala maka dilakukan amplifikasi PCR menggunakan primer degenerate PAL1v1978 dan PAR1c715 dan primer spesifik gen AV1. Hasil amplifikasi PCR dengan menggunakan primer PAL1v1978 dan PAR1c715 pada tanaman tomat sakit yang dikoleksi dari daerah Malang (daerah Pujon dan Batu) dan Blitar (daerah Pare) ditampilkan pada Gambar 2. Hasil menunjukkan bahwa dari 15 sampel koleksi dari Malang diperoleh 8 sampel yang membentuk pita DNA hasil amplifikasi yang berukuran 1500 bp (Gambar 2A). Sedangkan dari 7 sampel tanaman yang dikoleksi dari Blitar diperoleh 5 sampel yang menunjukkan pita DNA dengan ukuran yang sama (Gambar 2B).
+
+
+
+
+
+Hasil ampifikasi PCR pada 15 dan 7 sampel tanaman yang dikoleksi dari daerah Sragen, Jawa Tengah dan Kaliurang, Daerah Istimewa Yogyakarta ditampilkan pada Gambar 3. Dari daerah Sragen diperoleh 5 sampel (Gambar 3A) dan dari daerah Kaliurang diperoleh 3 sampel (Gambar 3B) yang menunjukkan adanya pita DNA berukuran 1500 bp.
+Hasil analisis PCR untuk sampel-sampel dari daerah Sukabumi dan Lembang (Jawa Barat) ditampilkan pada Gambar 4. Hasil menunjukkan bahwa hanya terdapat 6 sampel yang menunjukkan pita DNA dengan ukuran yang diharapkan (sekitar 1500 bp) yaitu sampel yang berasal dari Wanasari, Sukabumi (sampel no. 1, 2, 4, 5, 7 dan 9). Sementara itu, 7 sampel yang berasal dari Lembang, Jawa Barat (sampel 10-16) tidak menunjukkan adanya pita DNA hasil amplifikasi.
+Hasil analisis PCR menggunakan primer PAL1v1978 dan PAR1c715 untuk sampel-sampel tanaman dari daerah Cibitung dan Gunung Putri (Bogor) ditampilkan pada Gambar 5. Dari daerah Cibitung terdapat 8 sampel yang di analisis (no. 1-8) dan semua sampel menunjukkan pita DNA dengan ukuran yang diharapkan (1500 bp). Sedangkan 7 sampel dari Gunung Putri, diperoleh 5 sampel tanaman tomat yang positif PCR.
+
+
+
+
+Tabel 1. Deskripsi gejala dominan pada tanaman tomat sakit yang ditemukan di beberapa lokasi pengambilan sampel
+Daerah pengambilan sampel
+Deskripsi gejala
+Jawa Timur
+Malang
+Daun menguning, berukuran kecil, keriting, dan klorosis, serta tanaman kerdil
+Blitar
+Daun berbentuk seperti mangkuk (cupping), cenderung keriting dan tanaman kerdil
+Jawa Tengah
+Sragen
+Daun keriting, menggulung ke bawah, mosaik dan tanaman kerdil
+D.I. Jogjakarta
+Kaliurang
+Daun sangat menggulung ke atas, menguning, dan tanaman kerdil
+Jawa Barat
+Bogor
+Daun berbentuk bulat seperti mangkuk (cupping), kecil-kecil, sangat keriting dan tanaman kerdil
+Sukabumi
+Daun hijau pucat dan menguning pada tepinya, mosaik, dan tanaman kerdil
+Lembang
+Daun sedikit menggulung, mosaik dan tanaman cenderung kerdil
+
+
+
+
+
+Gambar 3. Gel elektroforesis fragmen DNA produk amplifikasi PCR menggunakan primer PAL1v1978 dan PAR1c715 pada sampel tanaman tomat sakit yang dikoleksi dari daerah Sragen, Jawa Tengah (A) dan Kaliurang, D.I. Yogyakarta (B). M = marka 1 kb plus.
+
+
+
+Gambar 4. Gel elektroforesis fragmen DNA produk amplifikasi PCR menggunakan primer PAL1v1978 dan PAR1c715 pada tanaman tomat sakit yang dikoleksi dari Wanasari, Sukabumi (1-9) dan Pagerwangi dan Mekarwangi, Lembang (10-16), M = marka 1 kp plus.
+
+
+
+Gambar 5. Gel elektroforesis fragmen DNA produk amplifikasi PCR menggunakan primer PAL1v1978 dan PAR1c715 pada tanaman tomat sakit yang dikoleksi dari Cibitung (1-8) dan Gunung Putri (9-15), Bogor, M = Marka 1 Kb plus.
+
+
+Adanya sampel-sampel tanaman tomat yang menunjukkan positif PCR juga dapat menggambarkan frekuensi kejadian penyakit yang disebabkan oleh infeksi virus. Frekuensi kejadian penyakit dihitung berdasarkan jumlah tanaman yang positif PCR dibandingkan dengan jumlah sampel tanaman yang diamplifikasi. Frekuensi kejadian penyakit dari beberapa daerah pengambilan sampel menunjukkan adanya variasi yang berkisar antara 0-100% (Tabel 2).
+
+
+Hasil amplifikasi PCR menggunakan primer spesifik AV1-F/R untuk mendeteksi genus Begomovirus pada tanaman-tanaman yang sebelumnya telah positif terinfeksi Geminivirus (berdasarkan hasil PCR dengan primer degenerate) menunjukkan bahwa semua sampel koleksi menghasilkan amplikon yang berukuran seperti yang diharapkan yaitu sekitar 780 bp. Sampel-sampel yang diamplifikasi PCR menggunakan primer spesifik AV1-F/R merupakan sampel yang mewakili dari daerah koleksi.
+
+
+
+
+Tabel 2. Frekuensi kejadian penyakit yang disebabkan oleh infeksi Geminivirus dari beberapa lokasi pengambilan sampel berdasarkan hasil amplifikasi PCR
+Daerah pengambilan sampel
+Analisis PCR
+Frekuensi kejadian penyakit (%)**
+Jawa Timur
+- Batu, Malang
+- Pujon, Malang
+- Pare, Blitar
+4/8*
+4/7
+5/7
+50,0
+57,1
+71,4
+Jawa Tengah
+- Karang pandan 1, Sragen
+- Karang pandan 2, Sragen
+3/9
+2/6
+33,3
+33,3
+D.I. Jogjakarta
+- Kaliurang
+3/7
+42,9
+Jawa Barat
+- Cibitung, Bogor
+- Gunung puteri, Bogor
+- Wanasari, Sukabumi
+- Pagerwangi, Lembang
+8/8
+4/7
+6/9
+0/7
+100,0
+57,1
+66,7
+0
+Keterangan: * a/b : a sampel menunjukkan positif PCR dari b sampel yang diuji ** dihitung berdasarkan nilai a/b x 100%
+
+
+Gambar 6. Gel elektroforesis fragmen DNA produk amplifikasi PCR menggunakan primer AV1-F dan AV1-R pada tanaman tomat sakit. 1=Batu, Malang, 2=Pujon, Malang, 3=Pare, Blitar, 4=Karangpandan, Sragen, 5= Kaliurang, DIY, 6=Cibitung, Bogor-1, 7=Gunung Putri, Bogor, 8=Wanasari, Sukabumi dan M = Marka 1 Kb plus.
+
+
+
+
+Hasil verifikasi virus melalui penularan dengan vektor kutu kebul di rumah kaca dari masing-masing sampel diperoleh informasi bahwa semua sampel dari perwakilan tanaman sakit yang positif PCR menunjukkan terjadinya proses penularan virus yang ditandai dengan munculnya gejala-gejala pada tanaman yang sehat (Gambar 7, Tabel 4). Morfologi atau tipe gejala yang umum dijumpai pada tanaman tomat yang terinfeksi oleh Begomovirus adalah helaian daun menggulung/ keriting, tanaman menjadi kerdil dengan arah cabang dan tangkai daun cenderung tegak. Anak daun menjadi berukuran kecil-kecil, mengkerut dan terdapat cekungan pada pinggir daun dengan atau tanpa warna kuning. Bunga dan buah sering tidak terbentuk, kalaupun terbentuk buahnya jarang dan ukurannya kecil (Green & Kaloo, 1994).
+
+
+
+Pada penelitian ini, tipe gejala tanaman tomat yang diduga terinfeksi Begomovirus tersebut juga ditemukan dan teridentifikasi di beberapa daerah sentra produksi tomat di Jawa dan Daerah Istimewa Jogjakarta. Dari deskripsi gejala yang berhasil diidentifikasi pada tanaman tomat sakit dari masing-masing daerah tersebut menunjukkan adanya variasi tipe gejala yang muncul, baik dari morfologi dan keparahan gejala. Di daerah Cibitung (Bogor), hampir seluruh tanaman tomat menunjukkan morfologi gejala seperti terinfeksi Begomovirus yang sangat parah dimana daun-daun menjadi sangat keriting, kecil-kecil dan tanaman menjadi kerdil (Tabel 1). Sementara itu, di daerah Pagerwangi (Lembang), tipe gejala yang diamati pada tanaman sakit tidak terlalu spesifik (Tabel 1).
+
+
+Tabel 3. Hasil analisis PCR dengan primer AV1-F/R dan konfirmasi penularan virus dari sampel tanaman sakit ke tanaman sehat dengan vektor kutu kebul di rumah kaca
+Sampel dari daerah
+Analisis PCR
+(AV1-F/R)
+Penularan dengan vektor
+kutu kebul
+Jawa Timur
+- Batu, Malang
+- Pujon, Malang
+- Pare, Blitar
++
++
++
++
++
++
+Jawa Tengah
+- Karangpandan,
+Sragen
++
++
+D.I. Jogjakarta
+- Kaliurang
++
++
+Jawa Barat
+- Cibitung,Bogor
+- Gunung puteri,
+Bogor
+- Wanasari,
+Sukabumi
++
++
++
++
++
++
+Keterangan: + PCR = menghasilkan amplikon 780 bp + Penularan = tanaman sehat menjadi terinfeksi dan muncul gejala
+
+
+
+
+
+Adanya perbedaan tipe gejala yang muncul yang diduga akibat infeksi Begomo-virus dipengaruhi oleh beberapa faktor. Seperti telah dijelaskan oleh Agrios (1997) bahwa keparahan gejala yang diakibatkan oleh infeksi virus tergantung pada beberapa hal diantaranya umur tanaman pada saat terinfeksi, lingkungan yang sesuai untuk perkembangan virus dan virulensi dari virus yang menyerang tanaman tersebut serta keberadaan dari vektor serangga sebagai agen penularan virus.
+Hasil amplikasi PCR menunjukkan bahwa teknik ini telah dapat diaplikasikan untuk mendeteksi keberadaan Begomovirus pada sampel-sampel tanaman tomat sakit yang dikumpulkan dari beberapa daerah sentra produksi tomat di Jawa dan Daerah Istimewa Jogjakarta. Dengan menggunakan primer degenerate PAL1v1978 dan PAR1c715 yaitu primer universal untuk mengidentifikasi kelompok Geminivirus secara umum (dimana Begomovirus merupakan salah satu anggotanya) telah berhasil terdeteksi sampel-sampel tanaman tomat yang terinfeksi oleh kelompok virus tersebut. Seperti diketahui bahwa kelompok Geminivirus terdiri dari 4 genus yang berbeda (Mastrevirus, Curtovirus, Topocuvirus dan Begomovirus) berdasarkan organisasi genetik, tanaman inang dan vektor yang menginfeksi (van Regenmortel et al., 1999). Oleh karena itu, setelah positif PCR dengan primer PAL1v1978 dan PAR1c715 selanjutnya sampel-sampel tanaman sakit tersebut dideteksi kembali dengan primer AV1-F/R yang secara spesfik mengamplifikasi gen AV1 dari Begomovirus untuk memastikan bahwa virus tersebut adalah Begomovirus. Hasil menunjukkan bahwa sampel-sampel yang positif PCR dengan primer universal PAL1v1978 dan PAR1c715 ternyata juga positif PCR meng-gunakan primer spesifik AV1-F/R dan ini mengindikasikan secara benar bahwa virus yang menginfeksi tanaman tomat tersebut adalah Begomovirus, anggota dari kelompok Geminivirus.
+Untuk lebih mendukung data analisis PCR yang diperoleh, maka pada penelitian ini juga dilakukan konfirmasi virus melalui penularan dengan vektor serangga dari tanaman sakit ke tanaman sehat. Begomovirus merupakan kelompok virus yang secara spesifik ditularkan oleh vektor serangga kutu kebul (Bemisia tabaci) dari genus Bemisia dengan sifat penularan persisten, sirkulatif dan non-propagatif dan tidak bisa ditularkan melalui penularan mekanis (van Regenmortel et al., 1999). Hasil pengujian menunjukkan bahwa virus dari tanaman sakit dapat ditularkan ke tanaman sehat oleh serangga vektor kutu kebul. Hal ini mengindikasikan secara kuat bahwa virus yang menginfeksi tanaman tomat dari sampel koleksi adalah Begomovirus.
+Aplikasi teknik PCR untuk sangat membantu di dalam kegiatan deteksi Begomo-virus karena teknik ini mempunyai kelebihan dibandingkan dengan beberapa teknik yang lain seperti serologi atau hibridisasi asam nukleat. Salah satu kelebihan tersebut adalah bahwa teknik ini relatif mudah dilakukan karena Begomovirus atau kelompok Geminivirus secara umum mempunyai genom yang berupa DNA. Begomovirus melakukan replikasi melalui sebuah DNA intermediet yang berbentuk sirkuler dan utas ganda (Gutierrez, 2000). Bentuk replikatif inilah yang dapat bertindak sebagai sebuah DNA cetakan untuk ampli-fikasi PCR. Teknik PCR juga mempunyai tingkat spesifisitas yang relatif tinggi. Hal ini didasarkan pada penggunaan primer yang digunakan untuk yaitu primer degenerate PAL1v1978 dan PAR1c715 (Rojas et al., 1990) yang secara spesifik akan menempel pada utas sense komplementer sekuen ORF AL1 dan utas sense ORF AR1 dari bentuk replikatif genom Geminivirus dan primer AV1-F/R yang secara lebih spesifik menempel pada gen AV1 dari Begomovirus. Jadi hanya genom Begomo-virus saja yang akan terdeteksi ketika diampli-fikasi dengan primer-primer tersebut dan bukan virus dari kelompok yang lain. Selain itu, teknik PCR hanya membutuhkan sedikit sampel DNA dan deteksinya tidak dipengaruhi oleh tahap perkembangan dan lingkungan. Sementara itu, teknik serologi kurang ideal ketika digunakan untuk mendeteksi Begomo-virus karena memiliki kesulitan di dalam produksi antiserum yang berkualitas tinggi (Khan & Ahmad, 2005) dan juga karena Begomovirus hanya terkonsentrasi pada jaringan floem dan berada dalam konsentrasi yang rendah pada tanaman inang. Selain itu, antiserum yang digunakan terkadang me-nunjukkan adanya reaksi silang dengan genus dari Geminivirus yang lain. Meskipun memiliki banyak kelebihan, namun teknik PCR juga mempunyai kelemahan diantaranya adalah teknik ini relatif mahal dibandingkan dengan teknik serologi dan tidak dapat digunakan untuk menentukan lokasi akumulasi virus pada jaringan tanaman, seperti halnya teknik hibridisasi in situ. Telah dilaporkan sebelumnya bahwa teknik amplifikasi PCR berhasil di-gunakan untuk mendeteksi Begomovirus pada tanaman tomat (Rojas et al., 1993; Aidawati et al., 2005) atau cabai (Hidayat et al., 2006), namun hanya terbatas pada penggunaan primer universal PAL1v1978 dan PAR1c715 dan tidak dikombinasikan dengan primer spesifik seperti halnya pada penelitian ini. Selain itu, koleksi tanaman sakit yang dilakukan mencakup daerah yang berbeda. Pada penelitian ini, selain di daerah Jawa Tengah dan Jawa Barat, juga telah terdeteksi adanya penyakit yang berasosiasi dengan Begomovirus di daerah Jawa Timur, dan Daerah Istimewa Jogjakarta.
+Berdasarkan hasil amplifikasi PCR juga diperoleh informasi frekuensi kejadian penyakit yang berasosiasi dengan Begomovirus pada daerah-daerah koleksi (Tabel 2). Frekuensi kejadian penyakit di daeah Cibitung (Bogor) adalah 100% yang berarti bahwa dari semua sampel yang diamplifikasi menunjukkan positif terinfeksi Begomovirus (Tabel 2). Hal ini didukung oleh adanya morfologi gejala yang sangat parah yang ditemukan di daerah tersebut (Tabel 1). Adanya gejala yang parah diduga disebabkan oleh proses terjadinya infeksi Begomovirus pada saat tanaman masih muda. Sebaliknya, di daerah Lembang frekuensi kejadian penyakitnya adalah 0% yang berarti dari tanaman-tanaman yang dikoleksi dari daerah tersebut tidak terinfeksi oleh Begomovirus meskipun tanaman-tanaman tersebut mempunyai gejala seperti terinfeksi. Gejala-gejala yang muncul pada tanaman tomat sakit di daerah Lembang kemungkinan disebabkan oleh infeksi virus lain, kekurangan unsur hara atau reaksi tanaman karena penyemprotan insektisida.
+Dengan terdeteksinya Begomovirus pada pertanaman tomat di beberapa daerah, maka penelitian yang lebih mendetail perlu dilakukan. Informasi mengenai identitas dan keragaman genetik dari isolat-isolat Begomovirus yang telah berhasil dideteksi tersebut perlu dikaji lebih lanjut.
+KESIMPULAN
+Sampel-sampel tanaman tomat bergejala yang dikoleksi dari beberapa daerah di Jawa Timur, Jawa Tengah, Jawa Barat dan D.I. Jogjakarta mengindikasikan adanya infeksi oleh Begomovirus setelah dideteksi menggunakan teknik PCR dengan primer degenerate. Hasil amplifikasi PCR menggunakan primer spesifik AV1-F/R untuk mendeteksi genus Begomovirus menunjukkan bahwa semua sampel tanaman koleksi menghasilkan amplikon yang berukuran 780 bp. Konfirmasi virus melalui penularan dengan vektor kutu kebul di rumah kaca dari sampel tanaman sakit dan positif PCR menunjukkan terjadinya proses penularan virus yang ditandai dengan munculnya gejala-gejala pada tanaman yang sehat.

@@ -1,0 +1,41 @@
+ABSTRAK
+PERANCANGAN ALAT UJI DETEKTOR EMISI GAS BUANG
+YANG DILENGKAPI DENGAN INTERFACE KOMUNIKASI USB
+Dalam penggunaan motor bensin bisa menghasilkan jenis polutan gas yang berbahaya, itulah dampak dari penggunaan motor bensin. Hasil dari pembakaran kendaraan bermotor mengakibatkan pencemaran udara juga semakin meningkat. Gas HC, CO, CO2 dan O2 adalah jenis gas yang sering dimonitoring oleh pendeteksi emisi gas buang, namun bentuk alat yang sudah digunakan tidak efisien karena tidak bisa digunakan secara portable.
+Pada Tesis ini dirancang sebuah alat yang mampu mendeteksi langsung emisi gas buang pada motor bensin menggunakan sensor MQ-4, MQ-7 dan MQ-135. Sensor tersebut menghasilkan output berupa tegangan analog yang akan dikonversi ke bentuk digital. Oleh sebab itu sensor MQ dipakai sebagai dasar pembuatan alat pendeteksi.
+Output sensor yang berupa tegangan analog dialirkan ke rangkaian ADC untuk dikonversi ke bentuk digital. Data kemudian dilanjutkan ke rangkaian mikrokontroller ATMega328 yang kemudian ditampilkan pada layar LCD dan melalui interface komunikasi usb bisa mendapatkan data emisi gas buang pada kendaraan dan ditampilkan pada PC, bahwa hasil uji gas HC, CO dan O2 yang diperoleh dari alat yang direncanakan sama secara statistik dengan hasil alat uji miliki BPPTD, sedangkan hasil uji gas CO2 berbeda antara hasil uji alat yang dibuat dengan alat BPPTD.
+Kata kunci: Mikrokontroller ATMega328, Sensor emisi gas, Usb interface
+
+
+
+BAB I
+PENDAHULUAN
+1.1. Latar Belakang
+Sering bertambahnya jumlah kendaraan bermotor mengakibatkan pencemaran udara juga semakin meningkat. Hal ini menyebabkan kondisi udara tidak sepenuhnya bersih, karena gas buang hasil dari pembakaran kendaraan mengandung racun yang berbahaya bagi lingkungan, terutama karbon monoksida (CO) dan juga hidrokarbon (HC) yang sangat berbahaya bagi lingkungan. (BAPEDAL. 1997).
+Tingginya angka pencemaran udara di berbagai kota besar di Indonesia saat ini semakin memprihatinkan. Fakta menunjukkan bahwa bahan-bahan pencemar udara seperti PM (Particulate Matter), CO (Carbon Monoxyde), HC (Hidrocarbon), dan O2 (Ozon) kini telah melampaui ambang batas baku mutu udara ambient. Jenis-jenis polutan di atas selain mengurangi kenyamanan secara umum juga berpengaruh buruk pada kesehatan. Peningkatan polutan ditaksir telah meningkatkan biaya kesehatan yang dikeluarkan oleh masyarakat hingga mencapai 1.7 trilyun rupiah per tahun. Itu hanya dampak akibat pencemar PM, belum lagi bila menghitung jumlah kerugian yang dikeluarkan akibat macet, stress, penurunan IQ anak-anak dan lain sebagainya. (BAPEDAL. 1997).
+Hasil penelitian lebih lanjut mengungkap bahwa kendaraan bermotor merupakan kontributor terbesar yang bertanggung jawab atas menurunnya kualitas udara yang kita hirup. Data menunjukkan bahwa jumlah kendaraan bermotor baik mobil maupun sepeda motor hingga tahun 2005 tercatat telah mencapai angka 35 juta unit, dengan pertumbuhan mencapai 15-20% per tahun. Bisa dibayangkan jumlah pencemar yang menjadi beban lingkungan bila pemerintah kita tidak melakukan suatu tindakan preventif untuk memperbaiki kondisi tersebut. (BAPEDAL. 1997).
+
+Pada negara-negara yang memiliki standard emisi gas buang kendaraan yang ketat, ada 5 unsur dalam gas buang kendaraan yang akan diukur yaitu senyawa HC, CO, CO2, O2 dan senyawa NOx. Sedangkan pada negara-negara yang standar emisinya tidak terlalu ketat, hanya mengukur 4 unsur dalam gas buang yaitu senyawa HC, CO, CO2 dan O2.
+Dalam mendukung usaha pelestarian lingkungan hidup, negara-negara didunia mulai menyadari bahwa gas buang kendaraan merupakan salah satu polutan atau sumber pencemaran udara terbesar, Untuk bisa mengetahui kondisi gas buang pada kendaraan bisa di tes dengan alat uji emisi untuk mengetahui tingkat emisi pada gas buang kendaraan. Namun kebanyakan alat yang ada sangatlah tidak efisien dalam penggunaan karena bentuknya yang besar. (BPM Arends & H. Brenschot. 1980).
+Oleh sebab itu dibuat alat uji detektor emisi gas buang pada kendaraan, agar dapat mengetahui tingkat penataan terhadap nilai ambang batas emisi gas buang, Melalui interface komunikasi usb dapat dengan bantuan aplikasi komputer diupayakan untuk menentukan hasil uji emisi gas buang kendaraaan secara detail.
+1.2. Rumusan Masalah
+Seperti yang sudah dijelaskan di atas bahwa gas buang hasil dari pembakaran kendaraan mengandung racun yang berbahaya bagi kesehatan dan lingkungan. Oleh sebab itu diperlukan alat untuk mendeteksi gas buang pada kendaraan yang lebih efisien dan mudah digunakan, sehingga kita bisa mendeteksi gas buang pada kendaraan kita. Maka yang menjadi permasalahan pada penelitian ini adalah bagaimana cara merancang alat pendeteksian gas buang kendaraan dengan akurat ?
+
+1.3. Tujuan Penelitian
+Perancangan dan pembuatan alat uji detektor emisi gas buang pada kendaraan ini bertujuan untuk membuat alat uji detektor emisi gas buang pada kendaraan, sehingga bisa dibaca datanya secara langsung di komputer melalui koneksi usb.
+Perancangan dan pembuatan sistem detektor emisi gas buang pada kendaraan ini mempunyai tujuan sebagai berikut :
+Tujuan dari penelitian ini adalah
+1. Mendeteksi tingkat emisi gas buang pada kendaraan bermotor yang kemudian akan ditampilkan pada LCD.
+2. Menghubungkan alat uji detektor emisi gas buang ke PC dan menampilkan hasil deteksi di zedgraph.
+3. Untuk mengetahui dan membandingkan pollutant yang terjadi oleh alat rancangan yang menggunakan mikrokontroller dengan yang ada dibengkel BPPTD Bali .
+1.4. Manfaat Penelitian
+Manfaat yang didapat dari perancangan alat uji detektor emisi gas buang ini adalah :
+a. Bagi masyarakat
+? Dapat mengetahui tingkat emisi gas buang pada kendaraan bermotor dan dapat mengetahui kondisi mesin.
+? Membantu dalam detektor emisi gas buang.
+? Membantu pemerintah untuk mengurangi jumlah kendaraan yang tidak memenuhi standard uji emisi.
+
+? Dengan melakukan uji emisi dan perawatan kendaraan secara teratur, kita dapat menghemat bahan bakar sebanyak 5% dan juga menjadikan kondisi udara lebih bersih.
+b. Bagi pendidikan
+? Sebagai cara untuk mengembangkan ilmu pemrograman mikrokontroller yang dimiliki.
+? Sebagai pengembangan alat uji emisi yang sudah ada dan dapat digunakan sebagai alat pembelajaran bagi dunia pendidikan karena rangkaian dalam alat ini dapat dipelajari dengan mudah.

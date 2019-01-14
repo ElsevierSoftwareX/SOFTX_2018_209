@@ -1,0 +1,447 @@
+﻿Model Jaringan Saraf Tiruan Kuat Tekan Beton Porus
+dengan Material Pengisi Pasir
+
+Abstrak
+Beton porus adalah salah satu beton ringan dan bentuk dasarnya merupakan perpaduan antara pasir, semen, air
+(campuran dasar) dan foam (biasanya 0,1-1,0 mm diameter). Penelitian ini difokuskan pada aplikasi jaringan
+saraf tiruan (JST) untuk memprediksi kuat tekan beton porus. Metode JST dapat menangkap interaksi yang
+kompleks antara variabel input/output dalam suatu sistem tanpa pengetahuan sebelumnya dari sifat interaksi dan
+tanpa harus secara eksplisit mengasumsikan bentuk model. Makalah ini menjelaskan data penelitian yang ada,
+seleksi data dan proses pelatihan model JST, dan validasi. Hasil penelitian menunjukkan bahwa kuat tekan beton
+porus dapat diprediksi lebih akurat, mudah dan cepat dari densitas beton porus, rasio pasir dan semen dan
+distribusi ukuran partikel pasir.
+Kata-kata Kunci: Jaringan saraf tiruan, densitas, beton porus, rasio pasir-semen.
+
+1. Pendahuluan
+Di masa kini dan mendatang, fokus penelitian bahan
+bangunan baik untuk struktur dan non struktur di
+seluruh dunia adalah mencari bahan bangunan yang
+ringan, tahan lama, mudah digunakan, ekonomi dan
+sekaligus lebih ramah lingkungan (Tarun, 2005). Bahan
+alternatif yang memiliki potensi untuk memenuhi
+semua persyaratan ini adalah beton porus. Beton porus
+adalah beton spesifik yang berisi lebih dari 20%
+volume udara. Hal ini dicapai dengan penggabungan
+surfaktan berbusa ke dalam campuran dasar mortar
+sehingga memiliki ruang rongga yang homogen
+(Ramamurthy et al., 2009).
+Kelebihan beton porus dibanding beton normal. yakni
+densitasnya dapat dirancang dengan kisaran 400-1800
+kg/m3, mudah mengalir, mudah menyamakan level
+tanpa usaha kompaksi dan mudah dipompa. Beton
+porus konvensional umumnya mempunyai kuat tekan
+yang rendah (antara 1 dan 10 MPa), sangat sesuai
+digunakan sebagai partisi, isolasi, perata level,
+material perkerasan beton penutup permukaan tanah
+dengan tujuan agar air dapat dengan mudah mengalir
+ke bawahnya, dan dengan demikian kelebihan air
+permukaan akan dapat kembali terserap ke dalam
+tanah, daripada hanya terbuang ke laut. Beton Porus
+ini sudah dipakai di negara lain sejak lebih dari 30
+tahun yang lalu pada aplikasi jalan raya, lapangan
+parkir maupun dinding bantaran sungai.
+
+Belum ada metode standar untuk merancang komponen
+campuran beton porus (Kearsley and Mostert, 2005).
+Untuk beton normal, aplikator hanya menentukan kuat
+tekan tertentu dan rasio air semen yang disesuaikan
+dengan standar yang digunakan. Namun, beton porus
+selain kuat tekan juga harus memperhatikan densitas
+karena prosentase volume udara sebagai variabel yang
+variatif menentukan densitasnya. Pengurangan volume
+rongga akan menghasilkan peningkatan kuat tekan dan
+densitas beton porus. Penambahan pasir di komposisi
+campuran akan memberikan nilai ekonomis beton
+porous, namun karena pasir bersifat pengisi maka akan
+mengurangi kekuatan. Untuk beton porus dengan
+densitas rendah diperlukan pembatasan jumlah pasir
+yang dimasukkan ke proporsi campuran beton karena
+jumlah pasir yang berlebihan akan mengganggu
+stabilitas foam dalam campuran (Hamidah et al., 2005).
+Desain proporsi campuran, kontrol kualitas dan kuat
+tekan dianggap sebagai properti yang paling berharga
+pada beton porus. Prediksi kuat tekan beton adalah hal
+penting dalam konstruksi beton modern dan dalam
+rekayasa aplikasi lapangan. Selama bertahun-tahun,
+banyak metode telah dikembangkan untuk
+memprediksi kekuatan beton. Model matematis
+Abrams sangat dikenal dengan sebutan hukum Abrams
+adalah perumusan yang sangat penting dalam evaluasi
+kekuatan beton, desain campuran beton dan
+pengendalian mutu beton.
+Beberapa penelitian telah dilaporkan dalam literatur
+terbuka untuk memprediksi sifat beton porus (Nehdi et
+al., 2001) yaitu dari pengetahuan proporsi
+campurannya. Kunci utama pemodelan kekuatan beton
+porus adalah pengetahuan dan pemahaman volume
+ruang total (porositas) di dalam struktur beton porus.
+Hoff (1972) telah mendefinisikan porositas beton porus
+yang terbuat dari pasta semen sebagai bagian parsial
+dari total volume sebesar rongga udara dan air yang
+teruapkan. Gambar 1 menunjukkan model porositas
+beton porus yang disarankan oleh Hoff. Model ini
+dibangun dalam teori porositas seperti ditunjukkan
+pada Persamaan (1).
+
+Seperti telah dibahas bahwa porositas mempunyai
+dampak yang cukup besar terhadap kuat tekan beton
+porus. Model Balshin diadopsi untuk
+mempresentasikan korelasi kekuatan dengan porositas,
+nilai porositas menggabungkan air yang teruapkan
+dengan rongga udara. Model Balshin kekuatanporositas
+beton porus dinyatakan serupa dengan
+persamaan.
+y
+= 
+0 (1-n)b (2)
+Gabungan persamaan porositas (secara teori) antara
+Persamaan 1 dan Persamaan 2 dapat ditulis sebagai:
+Tam et al. (1987) menyatakan pada proses hidrasi
+bahwa rasio air yang tidak teruapkan dengan semen
+bervariasi 0,18-0,23. Untuk menyederhanakan perhitungan,
+rasio air yang tidak teruapkan dengan semen
+dinyatakan sebesar 0,2. Hal ini juga memenuhi model
+Hoff (1972), Kearsley dan Wainwright (2001 and
+2002) dan Nambiar (2008).
+Alternatif lain adalah pemodelan dengan Jaringan
+Syaraf Tiruan (JST). JST dapat memodelkan
+kekomplekan dan kenonlinieran dengan cara
+sederhana (Biyanto dan Santosa, 2004), sehingga dapat
+dijadikan alternatif untuk memodelkan prediksi kuat
+tekan beton porus.
+Tujuan penelitian ini adalah membangun suatu metode
+untuk memprediksi kuat tekan beton porus yang
+mempunyai bahan penyusun variatif terdiri dari bahan
+mortar dan foam yang memberikan dampak komplek
+terhadap properti beton porus dengan menggunakan
+JST. Dari penelitian ini diharapkan JST sebagai salah
+satu metode prediksi komposisi material penyusun
+beton porus kuat tekan beton porus dan sekaligus dapat
+menentukan sebelum diaplikasikan di lapangan.
+2. Jaringan Saraf Tiruan
+Pemodelan dengan jaringan saraf tiruan (JST) adalah
+pemodelan Black Box dimana input dipasangkan
+dengan output yang sesuai. Di dalam jaringan saraf
+tiruan terdiri dari sambungan (connections) dan
+elemen pemrosesan (neuron).
+Untuk pemodelan sistem, ada beberapa keuntungan
+menggunakan jaringan saraf tiruan (Murray et al.
+1992) yaitu:
+a. Sistem Nonlinear. Jaringan saraf tiruan mempunyai
+kemampuan untuk memetakan hubungan yang
+tidak linier, sehingga sangat menjanjikan untuk
+mengatasi permasalahan kontrol nonlinier.
+b
+w c w
+c v
+y ( k)( S )ρ γ
+σ σ dc( . ρ S )
+
+
+
+
+ 
+ 
+
+1 1
+1 0
+
+b. Pembelajaran dan beradaptasi. Jaringan saraf tiruan
+yang telah dilatih menggunakan satu set data akan
+mampu mengeluarkan output sama atau mendekati
+output pasangan input yang diberikan, bahkan
+mampu mengeluarkan output dengan input yang
+belum pernah dilatihkan. Jaringan saraf tiruan
+mampu juga dilatih on-line.
+c. Sistem Multivariabel. Jaringan saraf tiruan aplikable
+untuk multi-variabel proses.
+Struktur jaringan saraf tiruan yang umum adalah multi
+layer perceptron (MLP). Gambar 2 menggambarkan
+struktur MLP, yang terdiri dari input, hidden dan output
+layer.
+Cybenko (1989) mengatakan bahwa model JST yang
+menggunakan fungsi aktifasi hiperbolik tangent pada
+sebuah hidden layer dan fungsi linier pada output layer
+-nya, dapat memprediksi dengan akurat semua sistem
+yang dimodelkan.
+Dalam rangka menentukan bobot misalnya output ŷi
+dihubungkan dengan input φi, maka memerlukan suatu
+usaha yang disebut pelatihan/pembelajaran (training/
+learning). Dalam training bobot disesuaikan agar
+memperoleh output jaringan yang sesuai dengan output
+proses atau target. Algoritma pembelajaran ini
+akan terus menyesuaikan bobot sampai target yang
+diinginkan tercapai.
+Secara matematis MLP dapat ditulis:
+Algoritma pembelajaran yang digunakan dalam
+penelitian ini adalah algoritma Levenberg Marquardt.
+Meskipun algoritma ini lebih kompleks dibandingkan
+algoritma backpropagation, tetapi algoritma ini dapat
+memberikan hasil yang lebih baik. Penurunan algoritma ini dapat dilihat pada Norgaard dkk. (1999)
+dan dapat dijelaskan sebagai berikut :
+Data training adalah satu set input u(k) yang
+berpasangan dengan output yang diinginkan y(k). atau
+dapat ditulis:
+ZN = {[u(k),y(k)] |k=1,… ,N} (5)
+Tujuan pembelajaran ini menentukan bobot yang
+mungkin dari pasangan data yang diberikan :
+ZN  w (6)
+Sehingga jaringan akan mengeluarkan perkiraan
+output y(k) yang sama atau mendekati output y(k).
+Perkiraan error akan didekati dengan mean square
+error criterion:
+Bobot yang diperoleh :
+wi bobot saat ini, f(i) adalah arah pencarian dan (i)
+adalah besar langkah.
+Levenberg Marquardt adalah metoda standar untuk
+minimisasi dari mean square error criterion. Pada
+algoritma ini mempunyai parameter l untuk menjaga
+konvergensi. Harga l dikontrol dengan rasio antara
+penuruan harga aktual dan harga prediksi.
+Dimana :
+G menunjukan gradien kriteria dengan mengacu pada
+bobot dan R adalah pendekatan dari Hessian. Jika rasio
+mendekati satu, L(i) (w(i) + f) mendekati VN, dan 
+seharusnya dikurangi dengan beberapa faktor. Begitu
+juga sebaliknya jika rasio kecil atau negatif maka 
+sebaiknya ditambah.
+Algoritma Levenberg Marquardt dapat diringkas
+sebagai berikut:
+
+1. Pilih vektor bobot awal w(0) dan harga awal (0).
+dimana w adalah bobot dan  diberikan harga awal
+2. Tentukan arah pencarian, dimana I adalah matrik
+identitas
+maka diperoleh f dan dimasukkan ke:
+Jika fungsi objektif pada iterasi saat ini lebih kecil
+dari iterasi sebelumnya atau VN (w(i) + f(i), ZN) <
+VN (w(i), ZN) sehingga bobot saat ini telah
+ditambahkan menjadi bobot yang baru w(i+1) = w
+(i) + f(i) maka arah pencarian yang baru adalah arah
+pencarian yang lama (i+1) = (i). Jika tidak maka
+mencari  baru harus dicari dari harga r.
+Jika r(i) > 0.75 maka (i) = (i)/2.
+Jika r(i) < 0.25 maka (i) = 2 (i).
+Dimana V dihitung dari persamaan Levenbergmarquard
+L
+3. Jika kriteria tercapai, maka perhitungan berhenti.
+Jika kriteria belum tercapai maka mengulangi
+langkah no 2.
+3. Metode Penelitian
+Produksi beton porus tersusun dari material semen, air,
+foam pembentuk pori dan agregat halus. Semen Type I
+digunakan sebagai pengikat pasir, agregat halus. Foam
+pembentuk pori mengggunakan material berbasis
+sintetis oleh Pemasok MBT Sdn.Bhd, Malaysia.
+Densitas dirancang dari volume foam yang bervariasi
+sehingga menghasilkan densitas beton porus antara 800
+-1600 kg/m3. Selisih densitas antar tiap benda uji
+diberikan persyaratan maksimum 100 kg/m3. Proporsi
+campuran beton porus tergantung dari: densitas yang
+direncanakan, rasio pasir-semen dan rasio air-semen
+dan jumlah foam ditambahkan dapat dihitung dengan
+menggunakan lembar perhitungan dikembangkan
+sebagai berikut:
+1000 = C/RDc+C(w/c)+[C(p/c)]/RDp+[C(s/c)]/RDs+Vf
+(18)
+Rasio pasir-semen direncanakan tujuh nilai yaitu 0,25,
+0,5, 0,75, 1.0, 1.5 dan 2.0. Pasir sebagai bahan pengisi
+mempunyai 4 distribusi ukuran partikel pasir dengan
+batas ukuran diameter: 0,15- 0,4 mm, 0,3-0,6 mm, 0,4-
+0,85 mm, 0,6-1,2 mm. Rasio air-semen dijaga konstan
+pada 0,5 untuk semua campuran. Hasil eksperimen uji
+kuat tekan beton porus yang dilaksanakan Hamidah et
+al.(2005) dipresentasika pada Gambar 3 s.d. 9.
+LWFC f f ρ CC(w/c)C(p/c)C(s/c)C(p/c)(w/)pC(s/c)(w/)sRDV
+(17)
+Gambar 3. Hasil eksperimen beton porus dengan ukuran partikel pasir 0,15-.0,4 mm
+R(w(i)  λ(i) I f (i)  G(w(i) ) (12)
+arg min ( , N )
+w N
+w V w Z
+w(i1)  w(i)  (i) f (i)
+(13)
+(14)
+( , ) ( )
+( , ) ( , )
+( ) ( ) ( ) ( )
+( ) ( ) ( )
+( )
+i N i i i
+N
+i i N
+N
+i N
+i N
+V w Z L w f
+r V w Z V w f Z
+ 
+ 
+ (15)
+       
+
+
+
+
+Pelaksanaan pembuatan beton porus mempunyai tiga
+tahap proses. Untuk persiapan mortar (lihat Gambar
+7), agregat pertama kali dicampur dengan setengah air
+diikuti dengan penambahan semen. Sisa air itu
+kemudian dituangkan dalam campuran. Dalam
+persiapan pembuatan foam, konsentrat foam dicampur
+air dengan perbandingan volume 1:30, campuran ini
+dimasukkan ke dalam tangki dengan tekanan udara 5
+bar untuk menghasilkan foam dengan densitas 110 kg/
+m3. Volume foam yang sudah terukur sesuai dengan
+perencanaan segera ditambahkan ke campuran mortar
+dan dicampur sampai tidak ada tanda-tanda fisik dari
+foam di permukaan dan foam tercampur merata di
+dalam campuran. Konsistensi beton porus segar diukur dengan menggunakan spread test. Beton berbusa diisi
+ke dalam cetakan dengan ukuran 100 mm x 100 mm x
+100 mm (lihat Gambar 8). Benda uji kubus dibuka
+dari cetakannya pada keesokan harinya dan benda uji
+dilakukan perawatan dengan air, dengan memasukkan
+benda uji di bak air sampai pada usia uji kuat tekan
+yang ditentukan
+Tes beton porus segar dievaluasi dengan spread test
+sesuai dengan ASTM-230. Cetakan kerucut terpotong
+diletakkan di atas piring kaca, diisi dengan pasta dan
+diangkat. Diameter aliran memberikan informasi
+tingkat kemudahan pelaksanaan dari campuran.
+Spread test ditunjukkan pada Gambar 9.
+
+Model JST untuk memprediksi kuat tekan beton
+berbusa dikembangkan menggunakan MATLAB 7.1.
+Model yang diusulkan berbasis jaringan saraf tiruan
+ditunjukkan pada Gambar 10. Data input terdiri dari
+distribusi ukuran partikel pasir, rasio pasir-semen,
+densitas dan kuat tekan sebagai output.
+4. Hasil dan Diskusi
+4.1 Model jaringan saraf tiruan
+Model jaringan saraf ini menggunakan struktur FIR
+(Finite Impulse Response). Model ini mempunyai
+karakter permodelan dengan memasukkan variabel
+model input dari input itu sendiri. Persamaan output
+model dapat dinyatakan sebagai berikut:
+Model jaringan saraf tiruan beton porus menggunakan
+MLP, dilatih oleh algoritma Marquardt. Pelatihan
+Marquard dilakukan sebanyak 200 kali iterasi. Model
+neural dilatih dengan data pelatihan untuk
+menentukan nilai bobot. Lalu, bobot tetap akan
+digunakan untuk validasi model saraf menggunakan
+data input output lainnya. Kebaikan identifikasi
+sistem diukur dengan menggunakan Root Mean
+Square Error (RMSE), yang dapat ditulis sebagai
+berikut:
+Gambar 11 menunjukkan bahwa RMSE terbaik
+1.23x10-5 untuk pelatihan dan 2.31x10-5 untuk
+validasi diproduksi oleh JST dengan hidden node 10.
+Jadi, JST dengan 10 hidden node digunakan model
+sebagai perawatan beton dengan air.
+
+Model jaringan syaraf yang dilatih juga divalidasi pada
+satu set data yang tidak digunakan untuk pelatihan
+jaringan (Gambar 12). Menggunakan nilai tetap bobot
+yang diperoleh pada tahap pelatihan, jaringan saraf
+menghasilkan output diperkirakan dari data input baru
+dalam tahap validasi. (Gambar 13)
+Dengan demikian, model jaringan syaraf tiruan bisa
+menangani nonlinier dan kompleksitas perubahan distribusi
+ukuran partikel pasir, rasio pasir- semen dan
+densitas dengan RMSE terbaik. Berdasarkan hasil di
+atas, juga sangat mudah dan sederhana untuk mengembangkan
+model nonlinier menggunakan JST, dan
+memerlukan sedikit waktu komputasi. Koefisien
+korelasi, R menunjukkan proporsi variasi dari nilai
+prediksi yang dapat dikaitkan dengan hubungan linier
+dengan nilai aktual dan diberikan dengan rumus:
+Hubungan kuat tekan prediksi dengan kuat tekan aktual
+hasil eksperimen ditunjukkan Gambar 14. Koefisien
+korelasi 0,9496, dan didistribusikan merata pada kedua
+sisi dari garis, yang menunjukkan kinerja model yang
+sangat baik.
+5. Kesimpulan
+1. Pengembangan model menggunakan jaringan syaraf
+tiruan untuk memprediksi kuat tekan beton porus,
+yang terdiri dari 3 variabel input dan 1 variabel
+output, telah disajikan dalam makalah ini.
+2. Struktur model adalah Perseptron multilayer. Secara
+umum, jaringan saraf dirancang dapat
+mengantisipasi nonlinier dan interaksi yang
+kompleks antara variabel input/output dari beton
+porus.
+3. Model jaringan syaraf tiruan memberikan hasil yang
+baik dalam pemodelan dengan RMSE = 1.23x10-5
+untuk perawatan dengan air dalam tahap pelatihan.
+4. Pada tahap validasi, RMSE = 2.31x10-5 untuk
+perawatan dengan air. Oleh karena itu, model
+jaringan syaraf tiruan dapat digunakan sebagai
+model alternatif dalam mengembangkan alat untuk
+memprediksi kuat tekan beton porus.
+
+
+
+
+Notasi
+n = porositas dalam teori,
+dc = densitas beton,
+c
+= berat jenis semen,
+w = berat satuan air,
+k = rasio air-semen (rasio dalam berat),
+VT = total volume,
+Va = volume rongga udara,
+Ve = volume penguapan air
+Vnw = volume air yang bereaksi secara kimia
+Vc = volume semen
+Vv = volume rongga udara
+Vs = volume benda padat
+y
+= kuat tekan material dengan porositas
+0
+= kuat tekan material tanpa porositas
+b = variabel yang bernilai 3
+JST = Jaringan Saraf Tiruan
+a/c = rasio udara-semen dalam volume
+b = pangkat eksponen
+dc = densitas beton
+K = konstanta empiris
+Kp = faktor mewakili peningkatan volume gel
+semen terhidrasi relatif terhadap volume
+asli dari semen..
+m = konstanta empiris
+n = Jumlah titik data
+Sd = standard deviasi sampel
+U = tertimbang jumlah input neuron
+Wi = koneksi kuat antara neuron pada lapisan i
+dan lapisan sebelumnya
+w/c = rasio air-semen dalam volume
+xi = nilai variable input
+xt = transformasi x
+x = nilai uji rata-rata
+y = neuron output
+ = derajad hidrasi
+w = berat satuan air
+ = perkalian konstan
+y =
+kuat tekan;
+0
+= kuat tekan teori dengan porositas nol
+c
+= berat jenis semen
+φ = input external
+nφ = jumlah input pada input layer
+nh = jumlah hidden neurons pada hidden layer
+W and w = bobot
+f and F = fungsi aktifasi untuk hidden layer dan output
+layer
+Yi = harga actual
+= harga output prediksi dari model
+N = jumlah data
+U1 = distribusi ukuran partikel pasir
+U2 = rasio semen dengan pasir
+U3 = densitas
+R2 = koefisien korelasi
+Sxy = kovarian x dengan y
+Sxx = varians x
+Syy = varians y

@@ -1,0 +1,512 @@
+﻿Analisis Kriteria Penting Berjenjang untuk Seleksi
+Enterprise Resource Planning (ERP) pada Industri
+Otomotif
+
+Abstrak: Seleksi ERP merupakan gerbang pertama yang sangat penting dalam siklus adopsi
+ERP, mempengaruhi implementasi dan merupakan salah satu critical success factors. Enam
+kriteria penting berjenjang untuk seleksi ERP dikembangkan meliputi penggunaan standar
+Internasional kualitas produk software ISO25010, kualitas guna ISO25010, vendor-konsultan,
+fit strategi dengan teori delta model, manajemen perubahan dan biaya. Survei pakar dan uji
+one-way ANOVA dilakukan untuk menentukan validitas kriteria. Hasilnya menunjukkan bahwa
+enam kriteria tersebut merupakan kriteria penting dalam seleksi ERP untuk industri otomotif
+dan relatif sama penting satu dengan lainnya.
+Kata Kunci: seleksi ERP, kriteria penting berjenjang, standar kualitas ISO25010, delta model
+Enterprise Resource Planning
+(ERP) adalah salah satu teknologi
+sofware aplikasi terintegrasi
+yang paling populer di
+dunia bisnis untuk mendukung
+layanan operasional lintas fungsi
+dan departemen di suatu perusahaan.
+ERP juga memfasilitasi
+transaksi lintas perusahaan
+di satu grup dalam satu sistem
+sehingga proses bisnis menjadi lebih singkat, real time,
+transparan dan memudahkan proses konsolidasi.
+Soffer, et al. (2003) mendefinisikan ERP sebagai
+suatu software terintegrasi dengan komponen berbeda
+atau modul-modul yang digunakan untuk perencanaan,
+produksi, penjualan, pemasaran, distribusi, akuntansi,
+manajemen sumberdaya manusia, manajemen
+proyek, manajemen inventori, manajemen pemeliharaan
+dan servis, manajemen transportasi dan e-commerce.
+ERP adalah sistem informasi yang terintegrasi secara komprehensif berintikan berbagai modul yang dapat
+dikonfigurasi untuk mengotomatiskan aliran barang,
+informasi dan sumber keuangan di antara semua fungsi
+dalam organisasi manufaktur pada database yang
+sama, selain integrasi tujuan utamanya adalah untuk
+meningkatkan dukungan pengambilan keputusan,
+reduksi biaya aset, menerima informasi lebih akurat
+dan cepat, dan mempertahankan flexibilitas dengan
+meningkatkan kepuasan pelanggan (Karande dan
+Cakraborty, 2012). Karakteristik atau atribut penting
+suatu sistem informasi dan aplikasi agar bisa dikatakan
+sebagai ERP (Shehab, et al., 2004) adalah kemampuannya
+untuk: (1) Mengotomatisasi dan mengintegrasikan
+proses bisnis lintas fungsi dan lokasi. (2) Memungkinkan
+implementasi dari semua variasi praktek
+bisnis terbaik untuk meningkatkan produktifitas. (3)
+Mempunyai satu data umum yang terpusat untuk
+mengurangi duplikasi, kesalahan dan biaya. (4) Menghasilkan
+informasi dan akses dalam lingkungan realtime
+untuk memfasilitasi keputusan yang cepat dan
+tepat.Modul ERP terus berkembang, beberapa modul
+yang sering digunakan perusahaan dalam implementasi
+adalah modul FICO (Financial Accounting),
+SD (Sales & Distribution), MM (Material Management),
+PP (Production Planning). Modul lainnya
+adalah PM (Plant Maintenance), PS (Project
+System), QM (Quality Management), WM (Warehouse
+Management), LE (Logistic Execution), FM
+(Fund Management), HRD (Human Resource
+Development). Selain itu ada yang dikembangkan
+khusus untuk industri tertentu, dikarenakan proses
+yang menjadi karakteristik yang berbeda di industri
+tersebut, misalnya retail, otomotif, oil & gas, mills
+product, dan lainnya. Pembagian modul yang ada,
+berbeda untuk ERP satu dengan lainnya. Banyak
+perusahaan bisnis yang telah mengadopsi ERP dan
+di Indonesia, hal ini sudah dimulai dari tahun 1995
+ketika perusahaan dalam grup astra mengimplementasikan
+SAP ERP untuk mengatasi tidak terintegrasinya
+supply chain management (SCM) internal
+perusahaan mulai dari pemasaran, penjualan, perencanaan
+produksi, bahan baku, hingga inventori dan
+manajemen unit jadi, keuangan dan biaya produksi.
+Saat ini ratusan perusahaan di Indonesia telah menggunakan
+ERP. Studi Panorama (2013) menunjukkan
+bahwa 40% proyek ERP masih mengalami kegagalan.
+Ghosh (2012) mengidentifikasi bahwa salah satu
+penyebab kegagalan adalah seleksi paket ERP yang
+tidak tepat dan ini berpengaruh terhadap kegagalan
+implementasi (Phusavat, et al., 2009; Gupta dan
+Kumar, 2012). Seleksi sistem ERP merupakan salah
+satu critical success factors dalam adopsi (Al-fawaz,
+et al., 2010; Sanchez dan Bernal, 2013), kriteria yang
+digunakan dalam seleksi berpengaruh terhadap kesuksesan
+adopsi ERP (Tsai, et al., 2012; Jayawickrama
+dan Yapa, 2013). Beard dan Sunmer (2004) menyatakan
+bahwa tidak sedikit perusahaan yang mengadopsi
+ERP justru kehilangan daya saingnya karena mengadopsi
+best practice dan meninggalkan keunikan
+proses bisnis yang menjadi daya saing perusahaan.
+Keadaan ini disebut dengan ’common system paradox’,
+perusahaan mengadopsi best practice dari ERP
+dan hanya mendapatkan keunggulan daya saing yang
+seimbang dengan perusahaan terbaik lain dalam
+industri. Vorst (2012) menyatakan bahwa seleksi ERP
+harus mencakup faktor keselarasan terhadap strategi
+perusahaan, yaitu adopsi ERP harus dapat menjadi
+enabler strategi perusahaan. Pengembangan sistem
+ERP harus merefleksikan keunggulan daya saing perusahaan
+(Taskin, 2011; Uwizeyemungu dan Raymond,
+2012). Karena itu sangat penting untuk mengembangkan
+kriteria utama atau determinan dalam seleksi ERP,
+sebagai pintu gerbang pertama dalam siklus adopsi
+ERP, termasuk keselarasan dengan strategi. Dengan
+demikian kriteria tersebut dapat digunakan sebagai
+referensi oleh perusahaan yang hendak mengadopsi
+ERP maupun perusahaan yang akan mengembangkan
+sistem ERP yang telah dimiliki termasuk seleksi
+konsultan implementasi. Banyak peneliti sebelumnya
+telah melakukan penelitian dalam menentukan kriteria
+seleksi ERP, sebagaimana ditunjukkan pada Tabel 1.
+Tiga kriteria yang banyak digunakan dalam seleksi
+ERP adalah fungsi (fitur), vendor - konsultan dan
+biaya. Beberapa peneliti menambahkan kriteria lain
+seperti kesesuaian terhadap strategi dan manajemen
+perubahan. Sayangnya peneliti yang menggunakan
+kriteria keselarasan terhadap strategi belum mendasarinya
+dengan tinjauan literatur dengan referensi
+utama teori strategi (Helm dan Hall, 2006). Lien dan
+Chan (2007) menggunakan ISO9126 tentang standar
+kualitas software menggantikan kriteria fitur namun
+belum diperbarui dengan ISO25010 yang menambahkan
+dua karakteristik baru yaitu compatibility dan security. Hax dan Wilde (2003) memperkenalkan
+teori strategi ”Delta Model” dengan strategi grup
+meliputi Best Product, Total Customer Solution dan
+System Lock-In yang dikenal dengan istilah ”The
+Triangle”. Delta model adalah teori strategi yang
+merupakan pelengkap dari teori industrial organisation
+(IO) Porter dan resources based view (RBV)
+dengan sudut pandang perkembangan pesat teknologi
+informasi dan komunikasi (Ludviga dan Chirjevskis,
+2010). Dalam penelitian ini dikembangkan kriteria
+penting seleksi ERP meliputi standar kualitas Internasional
+ISO25010 yaitu standar kualitas produk software
+ERP yang terdiri dari delapan karakteristik dan
+kualitas guna ERP yang terdiri dari lima karakteristik,
+fit strategi yang dilandasi oleh tinjauan teori strategi
+delta model, vendor - konsultan, manajemen perubahan
+dan biaya. Kriteria kualitas guna ditambahkan
+dengan tujuan untuk mengukur bagaimana konsep
+solusi yang ditawarkan oleh vendor-konsultan untuk
+menjawab tantangan kebutuhan calon pengguna ERP
+dilakukan di awal sebelum implementasi ERP meskipun
+seringkali benefit adopsi ERP dicapai beberapa
+saat setelah terlewati fase ’Go Live’ dan sistem digunakan
+di operasional dengan baik. Untuk menunjukkan
+bahwa konsep solusi vendor-konsultan dapat mencapai
+tujuan kualitas guna perlu dilakukan pembuktian
+dengan metode proof of concept (POC), yaitu dengan
+disepakati bersama skenario proses bisnis tertentu,
+dikonsep, didemonstrasikan, merepresentasikan solusi
+dan dinilai. Dengan demikian kriteria kualitas guna
+dapat dimanfaatkan untuk memprediksi solusi yang
+dihasilkan oleh vendor-konsultan.
+METODE
+Penelitian ini merupakan studi kasus kriteria seleksi
+berjenjang dan kriteria penting untuk seleksi ERP
+pada industri otomotif, menggunakan metode survei
+pakar. Pemilihan pakar menggunakan penarikan contoh
+bertujuan (purposive sampling). Pakar yang
+dipilih harus mempunyai kompetensi di bidang ERP
+lebih dari sepuluh tahun dan berpengalaman di industri
+otomotif. Daftar pakar dibuat melalui jaringan konsultan
+dan pengguna SAP ERP. Dari daftar pakar didapatkan
+14 pakar yang memenuhi kriteria kompetensi,
+pengalaman lebih dari 10 tahun dan berpengalaman
+dalam implementasi ERP di industri otomotif. Survei
+dilakukan selama tiga bulan (Juni–Agustus 2014)
+dengan mengisi kuesioner yang dikirimkan melalui
+email. Sebelum dikirimkan kuesioner telah diujicobakan
+ke beberapa pakar untuk mendapatkan umpan
+balik pemahaman untuk perbaikan kuesioner. Pakar
+menentukan penilaian bobot dari sangat kurang penting
+(VL), kurang penting (L), cukup penting (M), penting
+(H) dan sangat penting (VH) yang masing-masing
+memiliki skala krispi 0,1; 0,2667; 0,5; 0,7333 dan 0,9.
+Skala ini merupakan nilai krispi dari proses defuzzy dengan metode center of gravity (CoG) dari fungsi
+keanggotaan triangular fuzzy yang banyak digunakan
+oleh peneliti (Asgari, et al., 2011; Chu, et al., 2011).
+Analisis deskripsi digunakan untuk mendapatkan
+gambaran umum responden pakar. Uji one way
+ANOVA digunakan untuk mengetahui apakah
+terdapat perbedaan nilai tengah skor nilai atau relatif
+penting secara statistik antar kriteria yang digunakan.
+HASIL
+Analisis Deskripsi
+Responden pakar merupakan ahli SAP ERP
+Indonesia di industri otomotif. Enam pakar merupakan
+konsultan bebas, satu direktur, dua general manager,
+empat manajer dan 1 lainnya, Gambar 1. Selain jabatan
+atau profesi, gambaran responden pakar dari pengalaman
+adalah semua pakar telah berpengalaman
+dalam implementasi ERP selama 13 tahun lebih. Sebanyak
+71% responden mempunyai pengalaman 15
+tahun lebih dan 14% berpengalaman di atas 17 tahun,
+dapat dilihat pada Gambar 2. Selain dari lamanya
+terlibat implementasi dalam tahun, pengalaman
+banyaknya siklus implementasi ERP juga penting dan
+mencerminkan pengalaman responden.
+
+Semakin banyak siklus implementasi konsultan
+akan semakin berpengalaman dalam menjalani
+tahapan implementasi mulai dari business blueprint,
+realisation, final preparation dan go live. Gambar
+3 menunjukkan semua responden telah memiliki siklus
+implementasi minimal lima kali. Kelompok responden
+terbanyak memiliki banyak siklus implementasi 11-
+15 kali sebanyak 43% responden. 
+
+Sebanyak 21% responden mempunyai pengalaman
+siklus implementasi di atas 15 kali dan sebanyak
+36% mempunyai pengalaman siklus implementasi 5-
+10 kali. Gambaran lain yang perlu dilihat adalah kompetensi
+responden yang diukur dari dua hal yaitu sertifikasi
+atau pelatihan modul ERP yang didapatkan dan
+area kerja di mana responden menjadi konsultan atau
+terlibat implementasi. Meskipun seharusnya linier,
+seorang konsultan yang mendapatkan sertifikasi di
+modul SD tentunya menjadi konsultan untuk area modul
+yang sama yaitu SD. Namun tidak jarang dijumpai
+seorang konsultan dapat menguasai lebih dari satu
+modul, biasanya modul yang masih terkait. Sertifikasi
+atau pelatihan yang telah diikuti oleh responden tersebar
+di berbagai modul dengan komposisi terbanyak
+ada di modul FICO dan MM, diikuti dengan modul
+SD dan manajemen proyek. Dapat dipahami bahwa
+setiap perusahaan memerlukan kedua modul FICO
+dan MM, sedangkan beberapa modul lain tergantung
+dari jenis industri, misalnya perusahaan jasa tentunya tidak akan menggunakan modul PP yang digunakan
+untuk fungsi produksi.
+
+Beberapa responden memang memiliki lebih dari
+satu keahlian modul sehingga bekerja di modul lain.
+Setiap konsultan modul yang telah berpengalaman
+juga mendapatkan tugas untuk menjadi manajer
+proyek sehingga mempunyai keahlian manajemen
+proyek, hal ini nampak dari jumlah responden yang
+bekerja atau menjadi penanggung jawab manajemen
+proyek jauh lebih banyak dari yang bersertifikasi.
+Gambaran sebaran modul dan area kerja memberikan
+representasi sudut pandang modul yang berbeda
+dalam ERP sehingga dapat memberikan penilaian
+yang utuh dan lengkap.
+
+Analisis Berjenjang dan Uji one-way ANOVA
+Skor hasil penilaian dari keempat belas responden
+pakar di rata-rata untuk masing-masing kriteria seleksi. Karena masing-masing kriteria seleksi mempunyai
+jenjang hirarki maka kalkulasi dilakukan di setiap jenjang
+hirarki. Prasyarat dari uji one-way ANOVA
+adalah sebaran data harus normal dan mempunyai
+ragam homogen dalam kelompok kriteria. Semua
+perubah diuji kenormalan dengan menggunakan uji
+Rian-Joiner dan uji Kolmogorov Smirnov. Semua
+peubah menghasilkan nilai p-value > 0,1 untuk uji
+Rian-joiner dan p-value > 0,150 untuk uji Kolmogorov
+Smirnov, data diolah dengan bantuan paket aplikasi
+Minitab 14. Secara statistik sebaran data dapat disimpulkan
+menyebar normal. Sedangkan hasil pengujian
+ragam homogen menunjukkan bahwa semua peubah
+yang diuji menghasilkan nilai p-value > 0,05 kecuali
+kelompok peubah biaya, mendapatkan nilai p-value
+= 0,003 dari uji Barlett’s dan p-value = 0,002 dari uji
+Levene’s. Dengan demikian kecuali kelompok peubah
+biaya, uji one-way ANOVA dapat dijalankan untuk
+semua kelompok peubah kriteria sedangkan untuk
+peubah biaya, karena jumlah peubah dalam jenjang
+ini hanya dua peubah, maka dapat dilakukan uji t ragam
+tidak homogen untuk menguji kesamaan nilai tengah.
+Hasil uji data normal dan homogen dapat dilihat pada
+Tabel 2, tidak semua peubah yang diuji kenormalan
+ditampilkan di tabel.
+
+PEMBAHASAN
+Kriteria Utama Level 1
+Pada Gambar 6 dapat dilihat nilai skor penilaian
+dan Gambar 7 persentase bobot enam kriteria utama
+seleksi ERP. Kriteria penting kualitas produk software
+(ISO25010) menempati urutan pertama terpenting
+diikuti oleh fit strategi dan vendor-konsultan. Skor
+mendekati penilaian sangat penting. Kriteria manajemen
+perubahan, kualitas guna dan biaya masingmasing
+menempati urutan terpenting berikutnya
+dengan skor penilaian sedikit di atas penting. Hasil uji
+one-way ANOVA Tabel 3 menunjukkan bahwa antar
+kriteria penting level 1 ini tidak ada perbedaan nyata
+secara statistik. Hal ini dapat dilihat dari nilai p-value
+yang dihasilkan sebesar 0,546 jauh lebih besar dari
+nilai standar  = 0,05 (sebagai nilai toleransi galat
+menolak hipotesis bahwa skor penilaian relatif sama).
+
+Dengan demikian dapat dinyatakan skor nilai keenam
+kriteria relatif sama atau tidak cukup data untuk
+menyatakan berbeda nyata secara statistik. Pakar
+memberikan penilaian bahwa keenam kriteria sangat
+penting digunakan dalam proses seleksi ERP dengan
+rata-rata skor mendekati penilaian sangat penting.
+Persentase yang dihasilkan dari studi ini dapat dijadikan
+referensi untuk penghitungan bobot penilaian
+dalam seleksi ERP. Namun tidak mengapa keenam
+kriteria ini diberikan bobot persentase yang sama
+sesuai hasil uji one-way ANOVA bahwa keenam kriteria
+tersebut relatif sama penting. Kriteria kualitas
+guna (ISO25010) relatif sama penting dengan kriteria
+kualitas produk, vendor-konsultan, fit strategi, manajemen
+perubahan dan biaya. Kriteria kualitas guna ini
+merupakan kriteria baru yang belum pernah diteliti
+oleh peneliti sebelumnya termasuk oleh Lien and Chan
+(2007). Kualitas guna akan memprediksi penggunaan
+sistem ERP setelah ’Go Live’ sehingga kegagalan
+seleksi dapat dikurangi.
+
+Kriteria Penting Kualitas Produk Software
+(ISO25010)
+Gambar 8 menunjukkan skor penilaian dan Gambar
+9 menunjukkan bobot delapan karakteristik yang
+merupakan kriteria dalam jenjang kualitas produk software
+ERP (ISO25010).
+Nilai skor tiga tertinggi didapatkan secara berurut
+masing-masing oleh kriteria functional suitability,
+reliability dan security dan mendapatkan proporsi
+bobot tertinggi di antara kriteria lainnya masing-masing
+13,5%, 13,42% dan 13,42%. Dua skor nilai yang tidak
+masuk dalam kriteria penting adalah portabiity dan
+maintainability dengan skor kurang dari 0,733. Dari hasil ini, kriteria functional suitability dan reliability
+memperkuat beberapa penelitian sebelumnya (Keil,
+et al., 2006; Sudzina, 2008; Ratkevicius, 2011) sebagai
+kriteria penting, sedangkan security muncul sebagai
+kriteria penting baru dalam seleksi ERP yang diindikasikan
+oleh lima peubah dengan tiga peubah terpenting
+secara berurutan adalah integrity, confidentiality
+dan accountability. Hasil uji one-way ANOVA ditunjukkan
+pada Tabel 4, didapatkan nilai p-value = 0,023
+yang mengkonfirmasi secara statistik terdapat perbedaan
+nilai tengah (p-value <  = 0,05). Dengan demikian
+penentuan bobot delapan karakteristik dari
+ISO25010 dapat merujuk pada hasil ini dan tidak boleh
+dibagi secara merata antar delapan kriteria.
+Salah satu hasil ini juga memperkuat kembali
+semua penelitian sebelumnya bahwa kriteria functional
+suitability sebagai kriteria penting yang harus
+digunakan dalam seleksi. Tiga indikator penting dalam
+kriteria ini berurutan dari skor tertinggi adalah
+correctness, appropriateness dan completeness.
+
+Meskipun hasil uji one-way ANOVA ketiga kriteria
+ini tidak menunjukkan adanya perbedaan nilai
+tengah (p-value = 0,428), dapat dilihat pada Tabel 5,
+namun skor nilai yang didapatkan lebih dari 0,733 yang
+berarti dalam rentang nilai penting sangat penting dan
+relatif sama.
+
+Kriteria Kualitas Guna ERP (ISO25010)
+Pada Gambar 12 dapat dilihat skor nilai dan Gambar
+13 menunjukkan bobot lima karakteristik dalam
+jenjang kriteria kualitas guna (ISO25010).
+
+Tiga indikator terpenting dalam kualitas guna
+(ISO25010) adalah kriteria effectiveness, efficiency
+dan satisfaction dengan mendapatkan skor lebih dari
+0,733. Sedangkan kriteria freedom from risk dan
+contact coverage termasuk indikator yang mendapatkan skor kurang dari 0,733 dan dari hasil uji one-way
+ANOVA didapatkan nilai p-value = 0,090 maka tidak
+cukup bukti secara statistik adanya perbedaan skor
+nilai tengah kriteria dalam jenjang kualitas guna. Hasil
+selengkapnya dapat dilihat di Tabel 6.
+
+Tiga kriteria penting yang harus dimiliki oleh
+vendor dan konsultan adalah metodologi implementasi,
+kompetensi dan project management. Ketiga kriteria
+ini mendapatkan skor nilai lebih dari 0,733. Kriteria
+lain adalah vendor-konsultan mempunyai accelarated
+tools dan profile yang baik. Hasil uji one-way ANOVA
+Tabel 7 menunjukkan bahwa kelima kriteria vendorkonsultan
+tidak berbeda nyata secara statistik pada
+taraf  = 0,05 (p-value = 0,069 >  ) sehingga kelima
+kriteria tersebut relatif sama penting. Hasil ini perlu
+menjadi perhatian bagi vendor-konsultan bahwa profile
+perusahaan menjadi prioritas terendah dalam seleksi
+dan terutama konsultan harus mengembangkan
+sendiri metodologi implementasi dengan merujuk
+metodologi vendor, dengan pengalaman yang dimiliki
+dalam berbagai implementasi dapat menciptakan metodologi
+yang lebih efektif dan efisien. Sedangkan
+kompetensi yang harus dimiliki konsultan adalah
+sesuai dengan modul dan industri yang diinginkan calon
+pengguna sistem ERP, tidak jarang bersifat subyektif,
+menginginkan figur konsultan tertentu.
+
+Kriteria Fit Strategi
+Pada Gambar 16 menunjukkan skor dan Gambar
+17 merupakan persentase bobot tiga kriteria dalam
+fit strategi. Grup strategi best product masih menjadi
+kriteria dasar strategi dengan mendapatkan skor lebih
+dari 0,733 dan bobot 37,29%. Dalam kriteria ini terdapat
+dua strategi yang sudah tidak asing lagi dalam
+dunia bisnis yaitu strategi low cost dan differentiation.
+Sedangkan dua strategi lainnya mendapatkan
+skor kurang dari 0,733 dan lebih dari 0,5 masih masuk
+dalam kategori rentang cukup penting-penting.
+
+Strategi customer integration mendapatkan skor
+dan bobot tertinggi dalam kriteria strategi grup total
+customer solution, sedangkan restricted access
+menjadi strategi terpenting dalam grup strategi system
+lock in, Tabel 11. Kriteria fit strategi dimaksudkan
+supaya adopsi ERP selaras dengan strategi yang
+dijalankan perusahaan, baik dalam kondisi kini maupun
+perencanaan strategi ke depan. Strategi low cost
+perusahaan otomotif selama ini identik dengan sistem
+Kanban dan Just In Time (JIT) guna mencapai tingkat
+inventori yang optimal. Untuk membangun keselarasan
+dengan strategi, keduanya harus terfasilitasi
+secara optimal dalam sistem ERP. Demikian pula
+dengan strategi differentiation dan customer integration.
+Hasil uji one-way ANOVA pada Tabel 8
+didapatkan p-value = 0,057 sehingga pada taraf  =
+0,05 hasil uji menunjukkan tidak ada perbedaan nyata
+nilai tengah skor secara statistik. Hasil sebaliknya
+terjadi untuk pengambilan taraf  = 0,1 dengan resiko
+peluang kesalahan menolak hipotesis nilai tengah
+sama sebesar 5,7%.
+
+Kriteria Manajemen Perubahan
+Manajemen perubahan sering disebut sebagai
+faktor yang terlupakan dalam adopsi ERP. Sedikit
+peneliti memasukkan kriteria ini dalam seleksi ERP
+di antaranya Vorst (2012). Faktor budaya dan pendidikan
+menjadi unsur penting dalam kesuksesan adopsi
+ERP dalam mengatasi resistensi. Gambar 18 menunjukkan
+skor nilai jenjang manajemen perubahan dan
+Gambar 19 nilai persentasenya.
+
+Kriteria dalam jenjang manajemen perubahan
+yaitu perform transition plan, communication strategy
+& planning dan impact mapping & transition
+plan menjadi tiga kriteria yang mendapatkan skor nilai
+dan bobot tertinggi dengan persentase bobot lebih dari
+20%. Hasil uji one-way ANOVA pada Tabel 9 didapatkan
+p-value = 0,880 jauh melebihi  = 0,05 maupun
+ = 0,1 sehingga uji ini mengkonfirmasi tidak ada
+perbedaan nyata nilai tengah skor secara statistik, lima
+kriteria dalam jenjang manajemen perubahan tersebut
+relatif sama penting.
+
+Kriteria Biaya
+Biaya merupakan kriteria yang tidak pernah
+ditinggalkan dalam seleksi ERP, namun beberapa
+penelitian sebelumnya menunjukkan bukan merupakan
+kriteria terpenting. Gambar 20 menunjukkan skor nilai
+dan Gambar 21 menunjukkan bobot kriteria dalam
+jenjang biaya. Kriteria financing akhir-akhir ini menarik
+untuk diperhitungkan, karena adopsi ERP saat
+ini sudah bukan lagi dominasi perusahaan besar tetapi
+telah menyentuh banyak perusahaan kecil menengah
+yang dari sisi keuangan memerlukan bantuan dari
+lembaga financing. Kemudahan pembayaran bisa
+didapatkan dari perusahaan konsultan implementasi
+maupun dari pihak ketiga, di mana mereka sudah mulai
+menyadari bahwa sistem ERP merupakan suatu aset
+perusahaan yang tidak kalah nilainya dengan aset fisik
+perusahaan lainnya. Namun demikian tentunya biaya
+total masih menjadi pertimbangan utama dengan
+mendapatkan porsi 59,82%. Sedangkan kriteria
+financing 40,18%. Jika harga sudah tidak bisa ditawar
+lagi masih bisa diberikan kemudahan dalam waktu
+pembayaran.
+
+Hasil uji ragam homogen menunjukkan adanya
+perbedaan ragam antara biaya total dan financing
+sehingga untuk menguji adanya perbedaan nilai tengah
+skor, digunakan teknik lain yaitu uji t ragam tidak
+homogen. Hasilnya dapat dilihat pada Tabel 10. Dari
+hasil uji t didapatkan nilai p-value = 0,006 yang menunjukkan
+adanya perbedaan nyata nilai tengah skor secara
+statistik. Biaya total merupakan kriteria penting
+dalam seleksi ERP sedangkan financing merupakan
+kriteria cukup penting dalam seleksi ERP.
+
+Hasil lengkap survei disajikan pada Tabel 11,
+meliputi kriteria jenjang kualitas produk software,
+kualitas guna, vendor-konsultan, fit strategi, manajemen perubahan dan biaya. Hasil ini dapat dijadikan
+referensi dalam penentuan bobot kriteria terutama
+dalam seleksi ERP, khususnya di industri otomotif dan
+turunannya.
+
+
+KESIMPULAN DAN SARAN
+Kesimpulan
+Hasil penelitian ini melengkapi penelitian sebelumnya,
+memperkuat kriteria seleksi ERP sebelumnya
+yaitu kriteria fungsionalitas, vendor-konsultan dan
+biaya. Tiga kriteria utama yang banyak digunakan dan
+munculnya kriteria baru security sebagai kriteria penting
+yang berada dalam jenjang kualitas produk
+software (ISO25010), memperdalam kriteria fit strategi
+dengan tinjauan teori strategi delta model untuk
+menjaga keselarasan strategi perusahaan dalam adopsi
+ERP, melengkapi kriteria dengan standar kualitas
+Internasional produk software (ISO25010) dan kualitas
+guna (ISO25010) terbaru dan tidak melupakan
+kriteria manajemen perubahan yang sangat berperanan
+penting dalam adopsi ERP untuk mengatasi resistensi.
+Hasil survei pakar menunjukkan enam kriteria yaitu
+kualitas produk software, kualitas guna ERP, fit strategi,
+vendor-konsultan, manajemen perubahan dan
+biaya mempunyai tingkat relatif penting yang sama.
+Kriteria penting ini perlu dipadukan dengan metodologi
+dan pendekatan dalam tahap langkah proses seleksi
+ERP sehingga penggunaannya mendapatkan arahan
+dan panduan yang jelas.

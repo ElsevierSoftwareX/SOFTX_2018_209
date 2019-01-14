@@ -1,0 +1,400 @@
+﻿Alat Pelesap Energi Gempa Uniaksial
+
+Abstrak
+Suatu invensi berupa alat pelesap energi gempa uniaksial dikembangkan dan dibahas secara rinci. Alat tersebut
+dimaksudkan untuk melindungi struktur bangunan gedung dari kerusakan yang berlebih pada saat kejadian
+gempa. Energi gempa input pada struktur bangunan gedung direncanakan untuk dimusnahkan oleh alat yang
+merupakan bagian dari bresing tahan tekuk. Bresing tersebut dipasang pada portal yang merupakan bagian dari
+rangka pemikul beban gempa. Alat dapat dipasang pada struktur bangunan gedung baru ataupun eksisting,
+tanpa memerlukan modifikasi signifikan. Alat dibuat cukup ringkas demikian sehingga memudahkan perawatan,
+operasi, dan perbaikan bila diperlukan. Alat tersebut telah dipatenkan.
+Kata-kata Kunci: Alat pelesap energi gempa, rangka pemikul beban gempa, bresing tahan tekuk.
+
+1. Pendahuluan
+Bahwasanya sebagian besar wilayah Indonesia terletak
+pada zona cincin api (ring of fire) telah disadari oleh
+banyak peneliti. Ciri dari wilayah ini adalah adanya
+aktifitas kegempaan (dan gunung api) dengan intensitas
+yang tinggi. Hal ini terkait dengan keberadaan beberapa
+lempeng tektonik yang saling beradu dengan laju
+pergerakan (slip rate) yang besar (dapat mencapai
+50~70 mm per tahun dalam kasus Pulau Sumatera dan
+Jawa). Keadaan ini pada beberapa waktu terakhir, terutama
+sejak gempa Aceh tahun 2004, telah menyebabkan
+gempa-gempa lain yang tidak kalah gentingnya,
+seperti gempa Nias 2005, gempa Jogja 2006, juga gempa
+Pangandaran pada tahun yang sama; gempa Jawa
+Barat dan gempa Padang 2009; gempa Sumatera Barat
+2010 dan 2012. Pada kejadian gempa-gempa tersebut
+telah banyak struktur bangunan gedung yang mengalami
+kegagalan dari kategori sedang hingga berat;
+bahkan keruntuhan menyeluruh dapat dijumpai dengan
+mudah disana-sini, menyebabkan korban jiwa yang
+cukup masif.
+Kerusakan struktur bangunan gedung pada umumnya
+terjadi karena kelemahan detailings pada bagian komponen
+struktur yang seharusnya berfungsi menyerap
+energi gempa. Bagian tersebut dapat terletak pada
+balok di muka kolom, pertemuan balok-kolom, dan
+ujung kolom/dinding geser bagian bawah dari kolom/
+dinding geser dasar. Ini adalah bagian-bagian kritis
+yang perlu mendapat perhatian khusus karena merupakan
+pusat-pusat pelesap energi gempa pada saat
+kejadian gempa. Ironisnya, justru bagian-bagian ini
+yang seringkali mengalami kegagalan pada peristiwa
+kejadian gempa. Kegagalan bagian-bagian tersebut
+dalam memikul gaya-gaya gempa beresiko terjadinya
+kegagalan struktur bangunan gedung secara menyeluruh.
+Beberapa upaya telah dilakukan untuk menekan
+resiko akibat kejadian gempa, antara lain, dengan
+memperkenalkan peta gempa Indonesia pasca 2003,
+yang diiringi dengan pengkinian peraturan
+perencanaan bangunan tahan gempa. Namun upaya ini
+tidak akan membuahkan hasil seperti yang diharapkan
+tanpa disertai dengan kendali mutu konstruksi untuk
+menghasilkan struktur bangunan gedung seperti yang
+seharusnya.
+Upaya lain dapat berupa penambahan alat pelesap
+energi gempa sebagai tambahan dari yang telah disebutkan
+sebelumnya. Termasuk yang cukup lazim adalah menggunakan isolasi dasar (base isolation)
+(Buckle, 2000), redamanan viskoelastis solid
+(viscoelastic solid damper) (Symans, M.D., dkk, 2008),
+redaman friksi (friction damper), redaman fluida (fluid
+damper), dan redaman metal (metallic damper). Pada
+makalah ini dibahas alat pelesap energi gempa uniaksial
+yang merupakan invensi dari jenis redaman metal.
+Pada prinsipnya alat tersebut dipasang pada bresing
+tahan tekuk yang digunakan pada struktur bangunan
+gedung. Akibat gaya-gaya gempa yang bekerja maka
+bresing tersebut akan memikul gaya-gaya aksial. Bila
+gaya aksial melampaui suatu nilai tertentu maka alat
+pelesap energi akan berdeformasi secara plastis dan
+oleh karenanya menyerap energi gempa pada struktur
+bangunan gedung. Selengkapnya keadaan tersebut
+dijelaskan berikut ini.
+2. Portal Pemikul Gempa pada Struktur
+Bangunan Gedung dengan Bresing dan
+Alat Pelesap Energi Gempa Uniaksial
+Pada Gambar 1 (a) diperlihatkan suatu portal yang
+merupakan bagian dari struktur bangunan gedung.
+Dianggap bahwa portal tersebut merupakan bagian dari
+rangka pemikul beban gempa. Pada portal tersebut
+diperlihatkan adanya bresing dengan alat pelesap
+energi. Secara tipikal portal tersebut dapat dimodelkan
+sebagai terlihat pada Gambar 1 (b) dengan tinggi H
+dan lebar bentang L. Pada pembebanan lateral portal
+akan mengalami goyangan sebesar L, dan oleh karenanya
+panjang diagonal yang semula S0 akan berubah
+menjadi S. Deformasi aksial bresing adalah S=S-S0
+dapat didekati dengan Persamaan (1).
+
+Mengingat Persamaan. 2 maka Persamaan (1) berubah
+menjadi Persamaan (3) yang bersifat nir-dimensi.
+Dimana ar = L / H adalah nisbah persegi (aspect ratio),
+adalah Dr = L / H nisbah simpangan (drift ratio), dan
+p = ar
+2 + 1 adalah suatu parameter. Untuk memudahkan
+ilustrasi, disajikan Gambar 2 sebagai bentuk grafis dari
+Persamaan (3), dan Tabel 1 yang memperlihatkan
+besar deformasi aksial bresing untuk beberapa nilai
+nisbah persegi dan simpangan.
+
+
+Nisbah simpangan (drift ratio) ditentukan berdasarkan
+kategori kinerja (performance category), indeks kerusakan
+(damage index) struktur bangunan gedung yang
+diijinkan, dan jenis struktur bangunan gedung
+(Mangkoesoebroto, 2007) yang ditinjau. Sebagai ilustrasi
+Tabel 2 memberikan gambaran untuk menentukan
+nisbah simpangan. Termasuk bangunan dengan
+kategori kinerja I adalah bangunan-bangunan biasa,
+seperti rumah tinggal, apartemen, kantor, dan lainlain;
+kategori kinerja III adalah jenis bangunan yang
+diharapkan tetap beroperasi selama dan sesudah kejadian
+gempa, seperti rumah sakit, pos polisi, gedung
+tanggap darurat, tempat penyimpanan material berbahaya,
+dan lain-lain. Sedangkan kategori kinerja II adalah
+untuk bangunan-bangunan yang terletak diantaranya.
+Selanjutnya nisbah persegi (aspect ratio)
+berkaitan dengan konfigurasi gedung yang ditinjau.
+
+Deformasi aksial bresing pada Tabel 1 harus dapat
+diakomodasi oleh alat pelesap energi gempa uniaksial.
+Deformasi aksial tersebut pertama-tama diubah
+menjadi deformasi geser murni dengan harapan
+bahwa hukum kekekalan masa dapat dipenuhi untuk
+menekan peluang terjadinya kerusakan pada alat.
+Rincian mekanisme geser murni dibahas secara
+lengkap pada bagian berikut ini.
+3. Kekekalan Masa dan Keadaan
+Tegangan
+Pertama-tama persamaan tegangan efektif dan kriteria
+leleh von Mises dapat dinyatakan seperti pada
+Persamaan (4) (Cook and Young, 1985).
+       2
+yw
+2
+3 1
+2
+2 3
+2
+1 2
+2
+e f
+2
+  1          (4)
+
+
+Dimana 1, 2 dan 3 adalah tegangan utama, dan fyw
+adalah kuat leleh pelat badan (web). Untuk keadaan dua
+dimensi atau tegangan bidang (3≈0); dengan 2 = α 
+dan lakukan penyederhanaan maka Persamaan (4)
+tereduksi menjadi Persamaan (5).
+Dimana α = 2 / .
+Gambar 3 menunjukkan suatu kupon yang berada
+dalam keadaan tegangan bidang (3≈0) dalam arah
+sumbu utamanya, sebelum dan setelah berdeformasi.
+Pada keadaan ini maka regangan pada ketiga arah sumbu
+utama dapat dinyatakan dengan Persamaan (6)
+(Cook and Young, 1985).
+
+Dimana E adalah modulus elastisitas,  adalah nisbah
+Poisson, dan yw adalah regangan leleh pelat badan
+(web). Akibat deformasi yang dialaminya, panjang
+kupon yang semula ℓ1, ℓ2, ℓ3, berubah sesuai Persamaan
+(7).
+
+Masa kupon sebelum dan sesudah deformasi masing
+masing adalah  0   V 0    1  2  3
+  V   1 2  3 1  1 1   2 1   3 
+dan
+, dimana V0 dan V masing-masing adalah volume kupon
+sebelum dan setelah deformasi, dan  adalah rapat
+masa. Dalam teori plastisitas klasik von Mises, rapat
+masa senantiasa dapat dianggap konstan (tak-mampat)
+(Wilson, 2002). Nisbah masa setelah dan sebelum
+deformasi dapat dinyatakan dengan Persamaan (8).
+
+
+Dimana O  1 dalam keadaan leleh dan dengan substitusi Persamaan
+(5). Mengingat  adalah bilangan kecil (jauh lebih kecil
+satu) maka Persamaan (8) dapat didekati dengan
+Persamaan (9).
+
+Agar kekekalan masa terpenuhi maka M / M0 = 1 atau
+(1αv) + αvαv(1+α) = 0 dan diperoleh Persamaan
+(10). Secara skematis Persamaan (10) memberikan
+keadaan tegangan seperti yang ditunjukkan
+pada Gambar 4. Gambar 4 (a) adalah keadaan
+tegangan untuk 2 = 1, dan Gambar 4 (c) adalah
+keadaan tegangan geser murni yang berasosiasi, dan
+didapat menggunakan lingkaran Mohr (Gambar 4 (b)).
+
+Secara grafis Persamaan (5) dan (9) diilustrasikan pada
+Gambar 5. Kurva masa vs. 2/1 (bawah) diturunkan
+untuk nilai-nilai E=200 GPa, ν=0,29 dan fyw=240
+MPa. Terlihat bahwa kekekalan masa hanya terpenuhi
+untuk keadaan geser sederhana, α = 2 / 1 = -1, yang
+(uniaksial dan biaksial) tidak terpenuhi kekekalan masa.
+Hal ini menunjukkan bahwa mekanisme pelesapan
+energi hanya dapat dilakukan secara berkelanjutan pada
+keadaan geser sederhana.
+
+
+
+4. Analisis Pelat Dalam Geser Sederhana
+Alat pelesap energi gempa pada makalah ini terdiri atas
+bagian yang paling mendasar berupa pelat metal yang
+bekerja dalam modus geser sederhana (Gambar 6).
+Terlihat pada gambar tersebut sebuah pelat metal berukuran ℓ  h yang tetap (fixed) pada sisi dasarnya
+dan diberikan simpangan sebesar u1=  = h pada sisi
+atasnya, dimana  adalah gradien geser; dan u1=  x2
+pada setiap garis horisontal diantaranya, pada posisi
+x2; disini simpangan pada arah x2, u2(x2)=0. Dengan
+demikian gradien simpangan diberikan pada
+Persamaan (11), dan matriks regangan pada
+Persamaan (12).
+
+Dengan transformasi koordinat pada Persamaan (13)
+maka diperoleh matriks regangan untuk =p/4 pada
+Persamaan (14).
+Gambar 7 (kiri) memberikan ilustrasi bahwa kupon
+pada Gambar 6 yang mengalami geser sederhana
+sesuai Persamaan (12), sama dengan mengalami deformasi
+pada Gambar 7 (kanan) sesuai Persamaan (14).
+Gunakan inversi dari Persamaan (6) dan substitusikan
+1=11, 2=22 untuk mendapatkan Persamaan (15).
+Substitusikan Persamaan (15) ke Persamaan (4) dan
+selesaikan untuk diperoleh Persamaan (16).
+
+mana
+
+  yw
+yw
+f
+adalah regangan leleh pelat, dan fyw adalah kuat leleh.
+
+Sebagai ilustrasi, untuk material baja BJ37 dengan
+karakteristik mekanik pada Gambar 8 (fyw=240 MPa)
+diperoleh gradien geser y=0,0018 pada saat leleh.
+Dengan demikian deformasi geser pada sisi atas pelat
+(Gambar 6 untuk pelat metal berdimensi ℓ h = 300 
+75 mm2) menjadi u1y(x2=h)==y h=0,0018  75mm=
+0,135 mm (pada saat leleh).
+Mengingat uw  170 yw maka pada saat ultimate diharapkan
+dapat tercapai u1u (x2=h) ≈ 100 u1y (x2=h) =
+100 × 0,135 mm = 13,5 mm. Nilai ini memberikan
+Setengah dari gradien geser ultimate, u/2, akan
+menyebabkan 12,max pada pelat (lihat Gambar 7 (kiri)),
+dan 12,max tersebut harus dibandingkan terhadap 11 dari
+uji tarik uniaksial, karena pada kasus tersebut
+dibawah batas ultimate uw=20% (Gambar 8) sehingga
+deformasi geser pada pelat adalah sekira 13,5 mm; dan
+nilai ini dikalikan duaª seharusnya lebih besar daripada
+nilai S pada Tabel 1. Bila tidak terpenuhi maka keperluan
+tersebut dapat dipenuhi dengan cara meningkatkan
+h=75 mm menjadi 150 mm sehingga diperoleh 2u1u =
+kasus Dr=L/H=2,0% dan ar=L/H=0,75).
+5. Kajian Numerik Alat Pelesap Energi
+Gempa Uniaksial
+Isometri alat pelesap energi gempa uniaksial diperlihatkan
+pada Gambar 9 (kiri) dan potongannya pada
+Gambar 9 (tengah) dan (kanan). Terlihat alat tersebut
+berbentuk palang (cruciform) yang terbuat dari empat pelat metal. Mengingat cara kerjanya bersifat simetri
+atau asimetri maka kajian numerik hanya dilakukan
+terhadap satu pelat metal saja (lihat Gambar 10).
+Pelat metal pada gambar tersebut bekerja pada
+keadaan tegangan geser sederhana.
+
+Dengan demikian pelat memenuhi persyaratan
+kekompakan penampang untuk material baja ataupun
+perunggu.
+Dimensi flens ditentukan menurut keseimbangan gaya
+pada Persamaan (17).
+Karakteristik mekanik material baja dan perunggu
+yang digunakan pada pelat diperlihatkan pada
+Gambar 11. Kurva garis penuh adalah data aktual,
+sedangkan kurva garis putus-putus adalah input pada
+program ADINA. Rincian data material disajikan
+pada Tabel 3.
+
+Pelat pada Gambar 10 diberikan riwayat gradien
+geser sebagai fungsi dari step waktu, (t), seperti
+ditunjukkan pada Gambar 12. Kajian numerik
+dilakukan dengan bantuan perangkat lunak ADINA
+8.7, dan hasilnya diperlihatkan pada Gambar 13
+untuk sebaran geser pada pelat akibat (t) pada step
+waktu t=195. Terhadap elemen E pada pelat (lihat
+Gambar 13) dilakukan observasi untuk parameter
+regangan geser. Elemen E dipilih sebagai rujukan
+karena merupakan lokasi dengan regangan geser
+maksimum (untuk material baja).
+Riwayat regangan geser, xy, pada elemen E sebagai
+fungsi dari gradien geser, , dengan anggapan
+penguatan regangan kinematik (kinematic hardening)
+diperlihatkan pada Gambar 14 untuk material baja
+dan perunggu. Terlihat bahwa regangan geser maksimum
+pada elemen E adalah sekira dua kali gradien
+geser yang diberikan untuk kedua jenis material yang
+ditinjau. Untuk material baja gradien geser sebesar 
+=0,18 memberikan regangan geser maksimum sekira
+xy,max =0,32, dan nilai tersebut sudah mendekati batas
+fraktur untuk kurva baja pada Gambar 11. Sebalik,
+untuk material perunggu, batas fraktur tersebut
+tercapai pada xy,max =0,52 (Gambar 11) dengan
+gradien geser sebesar =0,25 (Gambar 14). Hal ini
+penting karena persyaratan 2u1u(x2=h)³ S, dapat pula
+dicapai dengan cara memilih material yang lebih
+daktail daripada baja, dalam hal ini perunggu, selain
+dengan cara memperbesar dimensi tinggi, h, dari pelat
+metal seperti yang telah diulas sebelumnya.
+Tegangan geser, xy, pada elemen E (Gambar 13)
+sebagai fungsi dari regangan geser, xy, diperlihatkan Pelat pada Gambar 10 diberikan riwayat gradien
+geser sebagai fungsi dari step waktu, (t), seperti
+ditunjukkan pada Gambar 12. Kajian numerik
+dilakukan dengan bantuan perangkat lunak ADINA
+8.7, dan hasilnya diperlihatkan pada Gambar 13
+untuk sebaran geser pada pelat akibat (t) pada step
+waktu t=195. Terhadap elemen E pada pelat (lihat
+Gambar 13) dilakukan observasi untuk parameter
+regangan geser. Elemen E dipilih sebagai rujukan
+karena merupakan lokasi dengan regangan geser
+maksimum (untuk material baja).
+Riwayat regangan geser, xy, pada elemen E sebagai
+fungsi dari gradien geser, , dengan anggapan
+penguatan regangan kinematik (kinematic hardening)
+diperlihatkan pada Gambar 14 untuk material baja
+dan perunggu. Terlihat bahwa regangan geser maksimum
+pada elemen E adalah sekira dua kali gradien
+geser yang diberikan untuk kedua jenis material yang
+ditinjau. Untuk material baja gradien geser sebesar 
+=0,18 memberikan regangan geser maksimum sekira
+xy,max =0,32, dan nilai tersebut sudah mendekati batas
+fraktur untuk kurva baja pada Gambar 11. Sebalik,
+untuk material perunggu, batas fraktur tersebut
+tercapai pada xy,max =0,52 (Gambar 11) dengan
+gradien geser sebesar =0,25 (Gambar 14). Hal ini
+penting karena persyaratan 2u1u(x2=h)³ S, dapat pula
+dicapai dengan cara memilih material yang lebih
+daktail daripada baja, dalam hal ini perunggu, selain
+dengan cara memperbesar dimensi tinggi, h, dari pelat
+metal seperti yang telah diulas sebelumnya.
+Tegangan geser, xy, pada elemen E (Gambar 13)
+sebagai fungsi dari regangan geser, xy, diperlihatkan dimana eI, ee, dan eh masing-masing adalah rapat energiª
+(energy density) input, elastik/regangan, dan histeresis.
+Rapat energi input dan histeresis (eI, eH) sebagai fungsi
+dari gradien geser, , diperlihatkan pada Gambar 17,
+yang menunjukkan hubungan linier diantara keduanya,
+baik untuk material baja maupun perunggu. Terlihat
+bahwa material baja mampu melesap energi sekira empat
+kali dari material perunggu, atau sebanding dengan
+nisbah kuat lelehnya, untuk anggapan penguatan regangan
+kinematik. Sedangkan, nisbah eI/eH sebagai fungsi
+dari gradien geser, , ditunjukkan pada Gambar 18,
+yang menunjukkan efektifitas pelesapan energi; semakin
+mendekati nilai satu semakin efektif suatu material
+dalam melesap energi (lihat Persamaan 18(b)).
+Sungguhpun material perunggu lebih kecil dalam
+melesap energi, namun dari Gambar 18 terlihat bahwa
+perunggu lebih efektif melesap energi daripada material
+baja. Keduanya sangat efektif melesap energi terutama
+untuk nilai gradien geser ||>0,05.
+
+6. Kesimpulan
+1. Suatu alat pelesap energi gempa uniaksial telah
+dikembangkan dan dikaji. Pada dasarnya alat tersebut
+adalah bagian dari suatu bresing tahan tekuk
+yang dipasang pada portal yang merupakan bagian
+dari rangka pemikul beban gempa dari struktur
+bangunan gedung.
+2. Pada saat kejadian gempa bresing akan mengalami
+deformasi aksial. Deformasi aksial tersebut selanjut
+diubah menjadi mekanisme geser sederhana yang
+kemudian menyebabkan suatu komponen palang
+(cruciform) yang terbentuk dari empat pelat metal
+melakukan pemusnahan energi.
+3. Pemusnahan energi dilakukan dalam mekanisme
+geser sederhana karena hanya dalam mekanisme ini
+kekekalan masa dapat terpenuhi. 
+
+
+Dua jenis material baja dan perunggu sebagai
+pembentuk komponen pelesap energi telah dikaji
+secara rinci. Material baja dapat melesap energi lebih
+besar daripada perunggu, tetapi material perunggu
+melesap energi lebih efektif daripada baja. Kedua
+material menunjukkan efektifitas pelesapan energi
+pada gradien geser diatas 5%. Mengingat daktilitas
+material perunggu yang lebih besar daripada baja
+maka dimensi alat dapat dibuat lebih kecil daripada
+bila digunakan material baja. Sungguhpun demikian,
+perencanaan rinci alat perlu dilakukan dengan
+mempertimbangkan beberapa faktor antara lain
+kompleksitas struktur bangunan gedung dan keadaan
+gempa pada tapak dimaksud.
+Alat dapat dipasang pada struktur bangunan gedung
+yang baru ataupun yang telah ada, tanpa memerlukan
+modifikasi yang signifikan. Alat direncanakan mudah
+perawatan, operasi, dan perbaikan bila diperlukan.
+Pengembangan alat tersebut merupakan invensi baru
+dan telah dipatenkan dengan nomor P00201300086.

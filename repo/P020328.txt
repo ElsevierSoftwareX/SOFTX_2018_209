@@ -1,0 +1,116 @@
+﻿ABSTRAK
+Pengklasifikasian merupakan salah satu metode statistik dalam pengelompokan
+suatu data yang disusun secara sistematis. Masalah klasifikasi muncul ketika
+terdapat sejumlah ukuran yang terdiri dari satu atau beberapa kategori yang tidak
+dapat diidentifikasikan secara langsung tetapi harus menggunakan suatu ukuran.
+Metode klasifikasi yang biasa digunakan dalam penelitian-penelitian untuk
+menganalisa suatu masalah atau kejadian adalah metode analisis regresi logistik.
+Namun metode pengklasifikasian ini memberikan pendugaan parameter yang
+tidak stabil. Untuk memperoleh parameter yang stabil pada model regresi logistik
+multinomial digunakan pendekatan bootstrap yaitu metode bootstrap aggregating
+(bagging). Tujuan dari penelitian ini adalah untuk melihat perbandingan ketepatan
+klasifikasi model regresi logistik multinomial dan model bootstrap aggregating
+menggunakan data Keluarga Berencana Kota Semarang. Dari hasil bagging
+regresi logistik multinomial diperoleh ketepatan klasifikasi terbesar pada replikasi
+bootstrap 50 kali yaitu 51%, model ini mampu menurunkan kesalahan klasifikasi
+hingga 2% dibandingkan dengan model regresi logistik multinomial dengan
+ketepatan klasifikasi sebesar 49%.
+Kata kunci : regresi logistik, bootstrap aggregating, ketepatan klasifikasi
+
+BAB I
+PENDAHULUAN
+1.1. Latar Belakang
+
+Pengklasifikasian merupakan salah satu metode statistik dalam
+pengelompokan suatu data yang disusun secara sistematis. Masalah klasifikasi
+muncul ketika terdapat sejumlah ukuran yang terdiri dari satu atau beberapa
+kategori yang tidak dapat diidentifikasikan secara langsung tetapi harus
+menggunakan suatu ukuran. Masalah klasifikasi sering dijumpai dalam kehidupan
+sehari-hari, seperti pengklasifikasian data pada bidang akademik dalam kasus
+klasifikasi program studi mahasiswa baru, pada bidang sosial dalam kasus
+klasifikasi tingkat kepuasan kerja karyawan, pada bidang ekonomi dalam kasus
+klasifikasi tingkat kemiskinan masyarakat, pada bidang perbankan dalam kasus
+klasifikasi kredit bermasalah, maupun pada bidang lainnya.
+Terdapat beberapa metode klasifikasi yang biasa digunakan dalam
+penelitian-penelitian untuk menganalisa suatu masalah atau kejadian. Salah
+satunya yaitu metode analisis regresi logistik. Pada regresi logistik akan diperoleh
+suatu model logistik yang digunakan untuk menjelaskan hubungan antara
+prediktor dan respon (yang bersifat dikotomus atau ada dua kategori/kelompok),
+serta untuk mengelompokkan obyek ke dalam salah satu dari dua kategori respon.
+Dalam perkembangannya, regresi logistik dapat juga digunakan untuk respon
+kategori lebih dari dua kelompok, yang dikenal dengan regresi logistik
+polikotomus/multinomial. Regresi logistik merupakan sebuah metode analisis statistik untuk menggambarkan hubungan antara variabel prediktor dengan
+variabel respon yang mempunyai dua atau lebih kategori dengan variabel
+prediktor yang menggunakan skala kategorik maupun interval (Hosmer dan
+Lemeshow, 1989).
+
+Regresi logistik membentuk persamaan atau fungsi dengan pendekatan
+Maximum Likelihood, yang memaksimalkan peluang pengklasifikasian objek
+yang diamati menjadi kategori yang sesuai kemudian mengubahnya menjadi
+koefisien regresi yang sederhana. Dalam hal ini regresi logistik tidak memodelkan
+secara langsung variabel respon dengan variabel prediktor-prediktornya,
+melainkan melalui transformasi variabel respon ke variabel logit yang merupakan
+natural log dari Odds Rasio. Metode analisis regresi logistik dalam beberapa
+literatur klasifikasi sering disebut sebagai model klasik/parametrik. Metode
+pengklasifikasian ini memberikan pendugaan parameter yang tidak stabil, artinya
+jika terdapat perubahan dalam data set menyebabkan perubahan yang signifikan
+pada model (Breiman, 1994). Untuk memperoleh parameter yang stabil pada
+model regresi logistik multinomial digunakan pendekatan bootstrap yaitu metode
+Bootstrap Aggregating (Bagging). Bagging diperkenalkan oleh Breiman (1994)
+adalah metode untuk memperbaiki kekuatan prediksi dari beberapa penduga atau
+algoritma tertentu seperti Regresi atau pohon klasifikasi. Bagging regresi logistik
+bekerja dengan cara mengambil sampel berukuran n dari data asli berukuran n
+secara acak dengan pengembalian sebanyak B kali dan memodelkan Regresi
+logistik untuk setiap sampel pada setiap B pengulangan.
+
+Metode yang dinyatakan terbaik dalam perbandingan antara regresi
+logistik multinomial dengan Bagging Regresi logistik multinomial biasanya adalah metode yang memiliki tingkat kesalahan klasifikasi (missclassified) lebih
+kecil. Tingkat kesalahan klasifikasi dapat diketahui dari hasil ketepatan prediksi
+masing-masing metode yang dibandingkan dengan data aktualnya. Untuk lebih
+jelasnya bagaimana Regresi Logistik Multinomial dan Bootstrap Aggregating
+Regresi Logistik Multinomial bekerja dan metode mana yang lebih baik dalam
+memprediksi maka penulis mencoba mengaplikasikannya pada data keluarga di
+kota Semarang 2013. Data tersebut merupakan data sekunder yang diambil dari
+pemutakhiran data keluarga Januari 2013-Januari 2014 (MDK) yang dilakukan
+oleh BKKBN Jawa Tengah.
+
+Variabel yang digunakan adalah faktor yang mempengaruhi pemilihan alat
+kontrasepsi pada wanita, antara lain: umur istri, umur suami, umur anak terakhir,
+jumlah anak hidup, tingkat pendidikan formal suami dan istri, jenis pekerjaan
+suami, jenis pekerjaan istri, dan tingkat kesejahteraan keluarga. Faktor-faktor
+tersebut akan mempengaruhi penggunaan alat kontrasepsi, variabel diukur dalam
+skala kategori, sedangkan alat kontrasepsi wanita, yaitu IUD, Kondom, Suntikan,
+MOW, MOP, Implant, dan Pil sebagai variabel yang dipengaruhi juga bersifat
+kategori (Sulistio, 2010).
+
+1.2. Rumusan Masalah
+Berdasarkan latar belakang yang telah diuraikan, maka beberapa masalah
+yang akan dibahas dalam penelitian ini adalah sebagai berikut
+1. Bagaimana langkah-langkah pemodelan regresi logistik multinomial?
+2. Bagaimana bentuk model regresi logistik multinomial dalam pemilihan
+metode kontrasepsi di kota Semarang?
+3. Bagaimana proses Bootstrap Aggregating pada model regresi logistik
+multinomial dalam pemilihan metode kontrasepsi di kota Semarang?
+4. Bagaimana perbandingan ketepatan klasifikasi model Regresi Logistik
+Multinomial dan model Bootstrap Aggregating Regresi Logistik
+Multinomial dalam pemilihan metode kontrasepsi di kota Semarang?
+
+
+1.3. Batasan Masalah
+Ruang lingkup penelitian ini adalah mengkaji dan membandingkan model
+Regresi Logistik Multinomial dan Bootstrap Aggregating Regresi Logistik
+Multinomial dalam menganalisis masalah klasifikasi pemilihan metode
+kontrasepsi di kota Semarang dari pemutakhiran data keluarga Januari 2013-
+Januari 2014 (MDK) yang dilakukan oleh BKKBN Jawa Tengah.
+
+
+1.4. Tujuan Penulisan
+Tujuan dari penulisan ini adalah
+1. Mengetahui bentuk model dan ketepatan klasifikasi Regresi Logistik
+Multinomial dalam pemilihan metode kontrasepsi di kota Semarang.
+2. Mengetahui proses Bootstrap Aggregating pada model Regresi Logistik
+Multinomial dan ketepatan klasifikasi dalam pemilihan metode
+kontrasepsi di kota Semarang.
+3. Membandingkan ketepatan klasifikasi model Regresi Logistik
+Multinomial dan model Bootstrap Aggregating Regresi Logistik
+Multinomial dalam pemilihan metode kontrasepsi di kota Semarang.

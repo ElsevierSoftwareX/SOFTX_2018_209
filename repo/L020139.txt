@@ -1,0 +1,188 @@
+﻿ABSTRAK
+Tujuan penelitian ini untuk mengetahui potensi serbuk cangkang keong bakau
+(Telescopium sp) sebagai adsorben ion logam Cu2+ pada air limbah sintetik
+ditinjau dari kapasitas adsorpsinya berdasarkan variasi waktu kontak. Ini
+dilengkapi dengan karakteristik morfologi dan kandungannya sesudah adsorpsi
+dengan SEM-EDX, perbandingan nilai kapasitas adsorpsinya dengan dua serbuk
+cangkang hewan pembanding, kepiting bakau (Scylla sp) dan udang vannamei
+(Litopenaeus vannamei), serta tipe isoterm adsorpsi pada ketiga adsorben.
+Percobaan dilakukan skala laboratorium pada volume limbah 0,025 l; massa
+adsorben 0,5 g; dan variasi waktu kontak 0,5; 1; 2; 3; dan 4 jam. Data kapasitas
+adsorpsi dengan serbuk cangkang keong bakau diuji dengan uji T. Data kapasitas
+adsorpsi ketiga adsorben diuji dengan Anova-One Way (α = 0,05) dilanjutkan
+dengan uji Duncan (α = 0,05). Hasil uji statistik menunjukkan ada beda signifikan
+dari kapasitas adsorpsi serbuk cangkang keong bakau berdasarkan variasi waktu
+kontak dan antara ketiga adsorben. Waktu kontak optimum adalah 2 jam dan
+adsorben dengan kapasitas adsorpsi terbesar adalah serbuk cangkang keong bakau
+dengan hasil 4,5868 mg/g. Hasil uji SEM menunjukkan serbuk cangkang keong
+bakau memiliki permukaan berongga dan terdapat gumpalan tajam. Kandungan
+unsurnya terdiri atas C, O, Ca, dan Cu. Tipe isoterm adsorpsi pada ketiga
+adsorben mendekati isoterm adsorpsi Langmuir dan Freundlich.
+Kata kunci: adsorpsi; cangkang keong bakau, kepiting bakau, dan udang
+vannamei; tembaga; waktu kontak.
+
+BAB I
+PENDAHULUAN
+1.1 Latar Belakang
+Surabaya sebagai salah satu kota di pesisir utara pulau Jawa
+memanfaatkan sebagian wilayahnya untuk menjadi kawasan wisata, seperti pada
+wilayah Kenjeran dengan wisata bahari sampai wilayah Gunung Anyar dan
+Wonorejo dengan kawasan bakaunya. Khususnya pada kawasan bakau, selain
+sebagai tempat wisata, kawasan tersebut juga banyak dimanfaatkan oleh warga
+menjadi daerah pertambakan. Banyaknya tambak di kawasan tersebut membuat
+biota khasnya dapat dengan mudah dijumpai, salah satunya yaitu keong bakau
+(Telescopium sp) (Badan Lingkungan Hidup Kota Surabaya, 2010).
+Keong bakau merupakan salah satu jenis gastropoda yang hidup di air
+payau atau hutan bakau. Hewan ini dapat banyak ditemukan di daerah tambak
+yang dekat dengan mulut sungai. Keong bakau dianggap sebagai hewan yang
+memiliki nilai ekonomis di sebagian pesisir Jawa Timur karena bisa dikonsumsi,
+seperti di Madura (Hafiludin, 2012). Namun di sisi lain, banyaknya jumlah keong
+bakau di tambak wilayah Gunung Anyar, Surabaya, belum dimanfaatkan. Padahal,
+sebagai salah satu hewan lunak yang memiliki cangkang, cangkang tersebut
+mengandung senyawa kitin yang juga berikatan dengan kalsium karbonat
+(CaCO3) (Hendrawan & Rachmawani, 2011; Sanjaya & Yuanita, 2007).
+Kitin merupakan polisakarida terbanyak kedua di alam setelah selulosa.
+Kitin dapat banyak dijumpai pada hewan avertebrata laut dan darat, serta beberapa
+genus jamur. Khusus untuk kitin dari cangkang keong bakau, berdasarkan hasil
+penelitian Hendrawan & Rachmawani (2011) yang menggunakan cangkang keong
+bakau dari kawasan konservasi bakau Kota Tarakan menghasilkan rendemen
+sebesar 19,916%. Sementara, hasil penelitian Panggalo dkk. (2016) yang
+menggunakan cangkang keong bakau dari daerah Palu menghasilkan rendemen
+sebesar 27,72%. Hasil tersebut menunjukkan jika kandungan kitin bisa berbeda
+pada suatu cangkang jika diambil dari lokasi yang berbeda, salah satunya karena
+dipengaruhi oleh lingkungan tempat tinggal. Kitin umumnya tidak berbentuk
+murni, melainkan suatu kombinasi bersama dengan substansi lain seperti protein,
+kalsium karbonat, dan pigmen-pigmen lainnya. Karena itulah pemanfaatan kitin
+umumnya terbatas dan baru bisa lebih luas jika dibentuk menjadi kitosan melalui
+proses isolasi (Sugita dkk., 2009).
+Di samping kitin dan kitosan, cangkang keong bakau utamanya tersusun
+atas kalsium karbonat yang menyebabkan cangkang tersebut dapat keras. Kalsium
+karbonat yang terkandung pada cangkang tersebut mencapai 65-70% (Siregar,
+2009). Kalsium karbonat memiliki manfaat mampu mengadsorpsi zat pencemar
+pada air limbah, khususnya ion logam berat (Anugerah & Iriany, 2015).
+Pemanfaatan kalsium karbonat yang terdapat di bahan-bahan alami seperti
+cangkang telur dan cangkang hewan dari kelompok crustacea dan gastropoda
+telah banyak dilakukan di berbagai bidang, antara lain pada bidang industri karena
+bersifat mengurangi platisitas, penyusutan, dan pemuaian pada bahan pondasi
+seperti semen dan besi. Kalsium karbonat juga mampu menetralisir keasaman
+tanah dan menjadi korektor pH pada air. Selain itu pada bidang lingkungan,
+kalsium karbonat dapat menjadi adsorben logam berat. Teknik adsorpsi juga
+menjadi salah satu upaya untuk mengatasi kontaminan logam berat di lingkungan
+dengan biaya yang dikeluarkan relatif tidak besar dan tidak menimbulkan racun
+(Sanjaya & Yuanita, 2007).
+Kontaminasi logam berat di lingkungan merupakan masalah besar saat ini.
+Khususnya dari sektor industri, telah terjadi peningkatan jumlah dan jenis
+pencemar yang masuk ke lingkungan perairan sehingga dapat menyebabkan
+terganggunya kesetimbangan lingkungan (Sanjaya & Yuanita, 2007). Logam berat
+telah menjadi salah satu sumber pencemar lingkungan perairan sejak lama karena
+sifatnya yang sulit didegradasi, dapat terakumulasi dalam organisme perairan
+tersebut, dan mudah terakumulasi di sedimen yang menyebabkan konsentrasinya
+selalu lebih tinggi dari konsentrasi logam dalam air. Keberadaan logam berat
+dalam perairan salah satunya bisa bersumber dari pembuangan air limbah industri,
+diantaranya seperti industri penyamakan kulit, pelapisan logam, tekstil, kertas,
+sampai cat (Sumardjo, 2006).
+Industri-industri penghasil limbah dengan kandungan logam berat seperti
+industri baja, penyamakan kulit, dan cat, banyak terdapat di Jawa Timur, di
+antaranya seperti Sidoarjo dan Gresik yang termasuk wilayah pesisir. Salah satu
+logam berat yang terkandung pada air limbahnya yaitu logam tembaga (Cu). Cu
+yang termasuk logam esensial sebenarnya dibutuhkan oleh biota perairan untuk
+mendukung pertumbuhan dan perkembangannya, namun jika dalam jumlah
+berlebih akan bersifat racun. Untuk menghindari hal tersebut, baku mutu
+kandungan Cu untuk air limbah industri diatur dalam Peraturan Menteri
+Lingkungan Hidup Republik Indonesia No.5 Tahun 2014 tentang Baku Mutu Air
+Limbah, dimana nilainya berada di rentang 0,5 – 1 ppm. Namun, masih ada
+industri penghasil limbah dengan kandungan logam berat yang merasa kesulitan
+menurunkan nilai pencemarnya agar mencapai baku mutu. Hal ini disebabkan
+antara lain tingginya nilai kandungan logam maupun biaya yang harus
+dikeluarkan untuk pengolahan. Padahal, untuk mencegah akumulasi kandungan
+logam berat supaya tidak melebihi batas amannya di perairan, perlu adanya upaya
+menurunkan kandungan tersebut sejak dari sumbernya (Rahmadani dkk., 2011).
+Ratih (2015) menggunakan abu cangkang keong mas (Pomacea
+canaliculata l.) yang mengandung kalsium karbonat 61,09% dan telah diaktifkan
+dengan NaCO3 10% untuk mengadsorpsi logam tembaga dalam air Sungai Deli.
+Hasil penelitian menunjukkan bahwa dengan 0,5 g abu cangkang keong mas yang
+ditambahkan ke 20 ml air sampel dalam waktu kontak optimum 45 menit, terjadi
+penurunan kadar logam Cu sebesar 91,51%. Sementara, Ahmad dkk. (2012),
+menggunakan serbuk limbah cangkang telur yang mengandung kalsium karbonat
+mencapai 85-95% untuk mengadsorpsi Cu2+ dari larutan sintetik Cu2+ 60 ppm.
+Hasil penelitian tersebut menunjukkan adanya penurunan kadar Cu2+ pada larutan
+sintetik dari 94% menjadi 17,72%.
+Dari uraian di atas, perlu adanya penelitian lebih lanjut mengenai potensi
+serbuk cangkang keong bakau untuk mengadsorpsi logam berat, khususnya Cu,
+yang terkandung pada air limbah. Sebagai pembanding, penelitian ini juga
+menggunakan serbuk cangkang kepiting bakau (Scylla sp) yang mengandung
+18,70-32,20% kitin dan 53,70-78,40% kalsium karbonat, serta udang vannamei
+(Litopenaeus vannamei) yang mengandung 15-30% kitin dan 45-50% kalsium
+karbonat (Anggreini, 2010; Sugita dkk., 2009). Adanya cangkang hewan
+pembanding dalam penelitian ini dilakukan karena cangkang kepiting bakau dan
+udang vannamei sudah jamak dipakai sebagai adsorben logam berat dengan
+diisolasi kitinnya menjadi kitosan, maupun dengan memanfaatkan kalsium
+karbonat yang terkandung di dalamnya. Hasil ini nantinya diharapkan dapat
+menambah referensi terkait potensi pemanfaatan cangkang keong bakau dan
+menjadi alternatif untuk mengadsorpsi kandungan logam Cu pada perairan. Pada
+penelitian ini digunakan limbah sintetik yang mengandung Cu.
+1.2 Rumusan Masalah
+Rumusan masalah pada penelitian ini antara lain:
+1. Apakah ada perbedaan kapasitas adsorpsi ion logam Cu2+ pada air limbah
+sintetik menggunakan serbuk cangkang keong bakau (Telescopium sp)
+berdasarkan variasi waktu kontak dan berapa waktu kontak yang optimum?
+2. Bagaimana karakteristik serbuk cangkang keong bakau (Telescopium sp)
+sesudah digunakan untuk adsorpsi ion logam Cu2+ berdasarkan SEM-EDX?
+3. Apakah ada perbedaan kapasitas adsorpsi ion logam Cu2+ pada air limbah
+sintetik antara menggunakan adsorben serbuk cangkang keong bakau
+(Telescopium sp), kepiting bakau (Scylla sp), dan udang vannamei
+(Litopenaeus vannamei) dan adsorben mana yang menghasilkan kapasitas
+adsorpsi terbesar pada waktu kontak optimum adsorben tersebut?
+
+4. Apakah tipe isoterm adsorpsi yang terjadi pada adsorpsi ion logam Cu2+ oleh
+serbuk cangkang keong bakau (Telescopium sp), kepiting bakau (Scylla sp),
+dan udang vannamei (Litopenaeus vannamei)?
+1.3 Asumsi Penelitian
+Asumsi penelitian ini adalah cangkang keong bakau mengandung senyawa
+kitin dan kalsium karbonat yang dapat menjadi adsorben alami logam berat pada
+air limbah, salah satunya ion logam Cu2+. Adsorpsi ion logam Cu2+ oleh serbuk
+cangkang keong bakau dipengaruhi faktor waktu kontak untuk mencapai kapasitas
+adsorpsi optimum. Perbedaan kandungan kitin dan kalsium karbonat pada
+cangkang keong bakau dengan dua hewan pembandingnya, kepiting bakau dan
+udang vannamei, akan menghasilkan nilai kapasitas adsorpsi ion logam Cu2+ yang
+berbeda.
+1.4 Hipotesis
+Hipotesis statistik pada penelitian ini adalah:
+1. H0a : Tidak ada perbedaan signifikan kapasitas adsorpsi ion logam Cu2+ pada
+air limbah sintetik menggunakan serbuk cangkang keong bakau
+(Telescopium sp) berdasarkan variasi waktu kontak.
+H1a : Ada perbedaan signifikan kapasitas adsorpsi ion logam Cu2+ pada air
+limbah sintetik menggunakan serbuk cangkang keong bakau
+(Telescopium sp) berdasarkan variasi waktu kontak.
+
+2. H0b : Tidak ada perbedaan signifikan pada kapasitas adsorpsi ion logam Cu2+
+pada air limbah sintetik antara menggunakan adsorben serbuk cangkang
+keong bakau (Telescopium sp), kepiting bakau (Scylla sp), dan udang
+vannamei (Litopenaeus vannamei).
+H1b : Ada perbedaan signifikan pada kapasitas adsorpsi ion logam Cu2+ pada
+air limbah sintetik antara menggunakan adsorben serbuk cangkang keong
+bakau (Telescopium sp), kepiting bakau (Scylla sp), dan udang vannamei
+(Litopenaeus vannamei).
+1.5 Tujuan Penelitian
+Tujuan dari penelitian ini antara lain:
+1. Mengetahui ada tidaknya perbedaan kapasitas adsorpsi ion logam Cu2+ pada air
+limbah sintetik menggunakan serbuk cangkang keong bakau (Telescopium sp)
+berdasarkan variasi waktu kontak dan waktu kontaknya yang optimum.
+2. Mengetahui karakteristik serbuk cangkang keong bakau (Telescopium sp)
+sesudah digunakan untuk adsorpsi ion logam Cu2+ berdasarkan SEM-EDX.
+3. Mengetahui ada tidaknya perbedaan kapasitas adsorpsi ion logam Cu2+ pada air
+limbah sintetik antara menggunakan adsorben serbuk cangkang keong bakau
+(Telescopium sp), kepiting bakau (Scylla sp), dan udang vannamei
+(Litopenaeus vannamei) dan mengetahui adsorben yang menghasilkan
+kapasitas adsorpsi terbesar pada waktu kontak optimum adsorben tersebut.
+4. Mengetahui tipe isoterm adsorpsi yang terjadi pada adsorpsi ion logam Cu2+
+oleh serbuk cangkang keong bakau (Telescopium sp), kepiting bakau (Scylla
+sp), dan udang vannamei (Litopenaeus vannamei).
+1.6 Manfaat Penelitian
+Manfaat dari penelitian ini antara lain:
+1. Memberikan informasi tentang potensi cangkang keong bakau yang bisa
+bernilai ekonomi lebih dengan dimanfaatkan sebagai adsorben logam berat
+Cu2+ pada air limbah.
+2. Memberikan alternatif pengolahan limbah yang mengandung logam berat Cu2+
+kepada industri terkait penggunaan serbuk cangkang keong bakau agar dapat
+memenuhi baku mutu.

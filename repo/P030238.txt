@@ -1,0 +1,149 @@
+﻿ABSTRAK
+ANALISA NUMERIK SISTEM PENGERINGAN DAGING
+DENGAN MENGGUNAKAN
+ALAT PENGERING ENERGI SURYA
+
+
+Energi surya merupakan sumber energi yang tidak pernah habis, sehingga
+menjadi potensi sumber energi untuk berbagai kebutuhan. Manfaat terbesar
+dari pemanfaatan energi surya adalah karena energi ini berkelanjutan dan
+bebas dari polusi. Salah satu pemanfaatan energi surya adalah sistem
+pengering. Pengeringan merupakan metode pengawetan dengan cara
+pengurangan kadar air dari bahan sampai batas yang diinginkan sehingga
+dapat memperpanjang daya simpan. Sistem pegeringan sudah dikenal luas dari
+jaman dulu terutama pengeringan terbuka. Menyadari pentingnya proses
+pengeringan terhadap produk untuk keperluan penyimpanan dalam waktu
+lama, maka dikembangkan alat pengering daging energi surya. Alat pengering
+daging energi surya dianalisa menggunakan pemodelan simulasi CFD untuk
+mengetahui proses pengeringan yang terjadi di dalam alat pengering tersebut.
+Tujuan dari penelitian ini adalah untuk untuk memperoleh sistem
+pengering daging energi surya yang optimal. Salah satu manfaat penggunaan
+simulasi menggunakan CFD adalah ukuran alat dapat dimodifikasi sedemikian
+rupa tanpa memerlukan biaya yang besar. Proses simulasi dilakukan dalam
+beberapa tahap yaitu pembentukan geometri dari alat pengering, meshing
+geometri yang sudah terbentuk, penentuan kondisi batas dan analisa
+menggunakan software Fluent. Penelitian dilakukan dalam dua hari. Besaranbesaran
+yang dipakai dalam analisa pada Fluent diperoleh melalui hasil
+perhitungan dengan mengacu pada pengukuran temperatur udara yang masuk
+pada inlet alat pengering. Hasil dari simulasi dituangkan ke dalam bentuk
+gambar dan grafik.
+Dari hasil pengukuran dan perhitungan, diperoleh berat daging
+keseluruhan yang dikeringkan adalah 25kg dan massa akhir daging setelah
+dikeringkan adalah 7,1kg dengan penurunan kadar air sebesar 17,9kg. Untuk
+mengeringkan daging sampai mencapai massa akhir 7,1kg dibutuhkan waktu
+9,178 jam. Dalam melakukan analisa menggunakan simulasi CFD, ketelitian
+dalam pembentukan geometri awal sangat menentukan hasil simulasi. Agar
+hasil simulasi yang diperoleh dapat lebih dipertanggung jawabkan, perlu
+dilakukan penelitian secara eksperimental untuk membandingkan hasil yang
+diperoleh melalui simulasi.
+Kata kunci: Energi surya, Sistem pengering, simulasi, CFD
+
+BAB I
+PENDAHULUAN
+1.1 Latar Belakang
+Energi surya merupakan sumber energi yang tidak pernah habis, sehingga
+menjadi potensi sumber energi untuk berbagai kebutuhan. Menipisnya
+ketersediaan cadangan energi minyak bumi memberi peluang sekaligus
+tantangan untuk dapat memanfaatkan energi surya dengan berbagai bentuk
+pilihan teknologi dari yang sederhana dan murah hingga teknologi tinggi yang
+memerlukan modal besar. Tidak seperti bahan bakar fosil, energi surya adalah
+sumber energi bersih yang tidak akan mencemari planet kita. Manfaat terbesar
+dari pemanfaatan energi surya adalah karena energi ini berkelanjutan dan
+bebas dari polusi. Energi berkelanjutan berarti kita dapat memastikan bahwa
+kita tetap bisa memenuhi kebutuhan energi kita dan menjamin keselamatan
+planet ini untuk generasi mendatang. Penggunaan energi surya akan
+mengurangi kebutuhan energi tak terbarukan, menciptakan lapangan kerja dan
+merangsang pertumbuhan ekonomi.
+
+Salah satu pemanfaatan energi surya adalah sistem pengering.
+Pengeringan merupakan metode pengawetan dengan cara pengurangan kadar
+air dari bahan sampai batas yang diinginkan sehingga dapat memperpanjang
+daya simpan. Biasanya proses pengeringan merupakan suatu proses akhir dari
+suatu deretan operasi proses dan setelah pengeringan, bahan siap untuk
+disimpan atau dijual. Sistem pegeringan sudah dikenal luas dari jaman dulu
+terutama pengeringan terbuka. Untuk dapat mengurangi akibat negatif dari
+sistem pengeringan terbuka seperti kerusakan akibat kotoran dan gangguan
+dari binatang maka dikembangkan sistem pengeringan tertutup dengan tetap
+menggunakan energi surya sebagai sumber energinya.
+Teknologi pengeringan berkembang sangat pesat sekarang ini. Kemajuan
+ini telah banyak memberikan kemudahan dalam proses pengeringan. Dalam
+perkembangan teknologi, telah dikembangkan alat pengering rumput laut
+dengan kapasitas 25 kg dengan menggunakan panas sinar matahari sebagai
+sumber energi utamanya, (Suryana,2012). Menyadari pentingnya proses
+pengeringan terhadap produk untuk keperluan penyimpanan dalam waktu
+lama, kami akan menggunakan alat tersebut untuk dapat digunakan
+mengeringkan daging. Daging akan dikeringkan dengan diiris - iris tipis
+sehingga mempunyai dimensi 6 cm x 6 cm x 0,5 cm dengan berat 40 gram
+untuk setiap irisan daging. Proses selanjutnya adalah menganalisa alat tersebut
+dengan menggunakan pemodelan simulasi CFD untuk mengetahui pola aliran
+udara pengering di dalam alat tersebut sehingga akan diketahui proses
+pengeringan yang terjadi di dalam alat pengering tersebut. Ide dasar dari
+sistem pengering ini adalah mengintegrasikan fungsi penyerap panas (kolektor
+surya) dalam ruang pengering. Gelombang pendek dari sinar matahari masuk
+melalui dinding-dinding transparan pada bangunan sistem pengering dan
+selanjutnya diserap oleh kolektor surya serta komponen-komponen lain di
+dalam sistem pengering. Hal tersebut akan menyebabkan meningkatnya suhu
+udara di dalam ruang pengering. Udara panas tersebut kemudian digunakan
+sebagai media pengering untuk memanaskan dan menguapkan kandungan air
+yang terdapat pada daging sapi.
+Daging merupakan salah satu bahan makanan hewani yang sangat disukai
+oleh berbagai kelompok usia. Daging merupakan sumber asam amino
+essensial dan mineral. Komposisi kimia daging sapi terdiri dari air 75%,
+protein 19%, lemak 2.5%, nitrogen terlarut non protein 1.65%, dan bahanbahan
+anorganik 0.65%, (Badan Standarisasi Nasional,SNI 01-3947-1995).
+Daging memiliki kadar air yang cukup tinggi sehingga merupakan salah satu
+bahan makanan yang cepat busuk. Untuk dapat memperpanjang daya pakai
+dan umur simpan dari daging tersebut, maka daging tersebut dikeringkan.
+Setelah dikeringkan, daging kering atau yang sering disebut dendeng tetap
+memiliki kandungan gizi seperti protein, lemak, karbohidrat yang merupakan
+sumber kalori. Seiring perkembangan jaman, kami bermaksud untuk membuat
+daging tersebut lebih berdaya guna dan tidak cepat busuk sehingga bisa
+digunakan dalam waktu yang relatif lebih lama dari daging segar.
+Agar dapat dibuat suatu alat pengering yang sesuai dengan kebutuhan,
+diperlukan suatu perencanaan yang matang dalam mendesain alat tersebut.
+
+Untuk dapat menekan biaya desain dan biaya produksi dari pembuatan alat
+pengering, salah satu cara yang digunakan adalah dengan menggunakan
+simulasi komputer. Simulasi komputer yang digunakan untuk memprediksi
+pola aliran udara pengering di dalam alat pengering adalah Computational
+Fluid Dynamic (CFD). Pemanfaatan simulasi komputer ini diharapkan mampu
+untuk menghasilkan alat pengering yang sesuai dengan kebutuhan melalui
+hasil analisa CFD.
+1.2 Rumusan Masalah
+Berdasarkan latar belakang di atas dapat dirumuskan permasalahan dalam
+menganalisa alat pengering daging yaitu :
+1. Bagaimana pola aliran udara di dalam alat pengering tersebut apabila
+daging yang akan dikeringkan disusun segaris dalam ruang pengering
+sehingga nantinya proses pengeringan daging yang terjadi dapat diketahui.
+2. Dengan diketahuinya pola aliran udara di dalam ruang pengering, berapa
+lama waktu yang diperlukan untuk mengeringkan daging tersebut.
+1.3 Batasan Masalah
+Agar dalam penulisan karya tulis ini dapat lebih terarah dan mencapai
+sasaran yang diinginkan, maka permasalahan akan dibatasi sebagai berikut :
+
+1. Sistem pengering yang dianalisa adalah sistem pengering dengan
+menggunakan energi surya dan menggunakan daging sapi sebagai
+bahan yang dikeringkan.
+2. Hanya menganalisa udara panas yang masuk ke dalam ruang pengering.
+3. Program simulasi CFD yang digunakan adalah Fluent 6.3.26 dan
+software Gambit 2.2.30 untuk menganalisa pola aliran udara dan
+distribusi suhu udara pengering di dalam sistem pengering.
+4. Model aliran di dalam alat pengering dianggap laminer.
+5. Udara lingkungan dianggap konstan (300C).
+6. Kecepatan udara masuk kolektor diasumsikan konstan 0,6 m/dt.
+1.4 Tujuan Penelitian
+Secara umum, tujuan dari penelitian ini adalah menganalisa sistem
+pengering daging untuk mengetahui pola aliran udara dan distribusi suhu
+udara pengering yang melalui barisan daging yang tersusun segaris dengan
+menggunakan pemodelan simulasi CFD (Computational Fluid Dynamic)
+sehingga dapat dihasilkan daging kering yang sesuai dengan spesifikasi
+persyaratan mutu dendeng yang dikeluarkan oleh Dewan Standarisasi
+Nasional tahun 1992.
+1.5 Manfaat Penelitian
+Manfaat yang diperoleh dari penelitian ini adalah dapat dihasilkan suatu
+desain sistem pengering daging yang optimal dengan melakukan pemodelan
+simulasi menggunakan CFD (Computational Fluid Dynamic) sehingga
+kegagalan biaya pembuatan alat secara manual dan kerugian waktu pembuatan
+alat dapat ditekan. Dengan menggunakan pemodelan simulasi CFD, kita dapat
+dengan mudah mengubah parameter dari alat pengering daging untuk
+memperoleh hasil pengeringan yang lebih baik.

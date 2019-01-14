@@ -1,0 +1,25 @@
+﻿
+ Misalkan 𝑅 adalah ring dengan 𝑅≠0. Suatu ring merupakan ring divisi jika setiap elemen yang tidak nol merupakan unit. 𝑈(𝑅) merupakan grup dari semua elemen unit di 𝑅. Kemudian 𝑟𝑎𝑑 𝑅 adalah irisan dari semua ideal maksimal kiri pada ring 𝑅 (ekuivalen dengan irisan dari semua ideal maksimal kanan pada ring 𝑅). Dengan mengingat bahwa irisan dari ideal adalah ideal maka rad 𝑅 merupakan ideal di 𝑅, sehingga dapat dibentuk suatu ring faktor 𝑅/𝑟𝑎𝑑 𝑅. Ring 𝑅 merupakan ring lokal jika memenuhi 𝑅/𝑟𝑎𝑑 𝑅 merupakan ring divisi yang ekuivalen dengan 𝑅\𝑈(𝑅) adalah ideal di 𝑅. 
+Kata Kunci: Ring, ideal maksimal, ring divisi, ring kuosen, unit.
+
+
+
+ I. PENDAHULUAN 
+1.1 Latar Belakang 
+Struktur aljabar adalah himpunan atau beberapa himpunan yang dilengkapi dengan suatu operasi atau beberapa operasi yang memenuhi aksioma-aksioma tertentu. Seperti pada bagian ilmu matematika yang lain, masalah konkret dan contoh menjadi peran penting dalam pengembangan struktur aljabar. Beberapa kajian di dalam struktur aljabar yaitu grup, ring, ideal, ring kuosen, radikal dan ring lokal. 
+
+Grup adalah suatu himpunan dengan operasi biner yang memenuhi aksioma-aksioma tertentu. Berdasarkan jumlah elemen-elemennya, grup dibagi menjadi dua yaitu grup hingga ( finite group) dan grup tak hingga (infinite group). Grup hingga adalah grup yang elemennya berhingga sedangkan grup tak hingga adalah grup yang jumlah elemen-elemennya tak hingga. 
+Ring 𝑅 terbentuk dari grup abel dengan operasi penjumlahan dan operasi perkalian yang memenuhi beberapa aksioma. Ring 𝑅 dikatakan ring divisi jika setiap elemen tak nol di 𝑅 memiliki invers terhadap operasi perkalian. 
+
+Sebarang subhimpunan 𝑆 di ring 𝑅 yang juga merupakan ring terhadap operasi yang sama pada R disebut subring. Bentuk khusus dari subring disebut ideal. Irisan dari semua ideal maksimal pada 𝑅 disebut radikal 𝑅 (𝑟𝑎𝑑 𝑅). Dengan  adanya ideal dalam suatu ring dapat dibentuk suatu ring baru yang disebut ring kuosen. 
+Jika 𝑅/𝑟𝑎𝑑 𝑅 adalah ring divisi maka ring R disebut ring lokal. Masih banyak cara untuk membuktikan suatu ring R adalah ring lokal. Hal inilah yang menjadikan ketertarikan penulis untuk mengaji tentang karakteristik suatu ring R merupakan ring lokal. 
+
+1.2 Tujuan Penelitian 
+Adapun tujuan dari penelitian ini yaitu mengaji sifat-sifat dari ring lokal. 
+1.3 Manfaat Penelitian 
+Adapun manfaat penelitian ini adalah: 
+1. Menambah pengetahuan dan pengalaman penulis agar dapat mengembangkan ilmu yang diperoleh selama mengikuti perkuliahan di Fakultas Matematika dan Ilmu Pengetahuan Alam Universitas Lampung. 
+2. Memberikan sumbangan pemikiran dalam rangka memperluas dan memperdalam pengetahuan ilmu matematika khususnya ring lokal. 
+3. Memberikan motivasi bagi pembaca dan peneliti untuk mengaji lebih dalam permasalahan yang berhubungan dengan struktur aljabar khususnya ring lokal.
+1.4 Batasan Masalah 
+Pada penelitian ini hanya akan dibahas sifat-sifat dari ring lokal pada ring yang non komutatif.

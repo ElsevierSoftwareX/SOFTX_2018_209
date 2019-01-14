@@ -1,0 +1,40 @@
+﻿
+ Penyakit tanaman padi dapat diketahui dari gejala-gejala yang ditimbulkannya, untuk mengetahui secara tepatnya, dibutuhkan seorang pakar/ahli pertanian. Jumlah dan penyebaran pakar saat ini sangat terbatas dan belum bisa mengatasi permasalahan ini secara maksimal, sehingga diperlukan suatu sistem yang berisi pengetahuan kemampuan layaknya seorang pakar pertanian. Pada penelitian ini dirancang sistem pakar berbasis web dengan metode inferensi forward chaining dan faktor kepastian (certainty factor). Data yang diolah dalam sistem ini adalah sebanyak 16 penyakit dengan 26 gejala penyakit. Sistem yang telah dikembangkan mempunyai keunggulan dalam kemudahan akses dan kemudahan pemakaian serta menampilkan tingkat kepastian dari hasil diagnosa dengan persentasi kepuasan pengguna sebesar 81%. 
+Kata Kunci – forward chaining, pakar, penyakit padi, sistem pakar.
+
+
+ BAB I 
+PENDAHULUAN 
+1.1 Latar Belakang 
+
+Indonesia merupakan Negara Agraris yang memiliki potensi yang baik dibidang pertanian. Sebagian besar penduduk Indonesia bekerja sebagai petani. Namun saat ini area persawahan sudah jarang sekali kita temui terutama di daerah perkotaan. Banyak lahan persawahan yang sudah menjadi pabrik-pabrik ataupun perumahan. Berkurangnya area sawah membuat hasil produksi menjadi menurun, belum lagi dengan banyaknya penyakit yang ada pada tanaman di persawahan.
+
+Berdasarkan Gambar 1.1 produksi bahan pangan yang terdiri dari: padi, jagung dan ubi kayu meningkat selama 2003 sampai dengan 2008 dan tanaman padi merupakan tanaman yang paling produktif di antara tumbuhan-tumbuhan serealia lainnya. Dikarenakan tingginya tingkat kebutuhan penduduk Indonesia akan padi, maka petani perlu dukungan yang maksimal untuk dapat menghasilkan padi yang berkualitas baik dengan kuantitas panen yang maksimal pula. Salah satu masalah yang dihadapi petani secara umum yaitu masalah dalam mengatasi serangan penyakit terhadap tanaman padi mereka (Hanani, 2009). 
+
+Jika petani tersebut memiliki pengetahuan lebih mengenai serangan penyakit, maka serangan tersebut ini akan langsung dapat diatasi. Sebaliknya jika petani kurang memiliki pengetahuan mengenai serangan penyakit, maka petani tersebut cenderung membutuhkan bantuan orang yang lebih ahli untuk mengatasi masalah ini. Pada kenyataannya, saat ini banyak petani Indonesia yang membutuhkan bantuan para ahli untuk mengatasi masalah pertanian mereka, tetapi jumlah ahli dan penyebarannya terbatas menyebabkan permasalahan ini belum dapat diatasi dengan maksimal. 
+Sebelumnya beberapa peneliti telah melakukan perancangan tentang sistem pakar diagnosa penyakit tanaman padi ini. Diantaranya “Sistem Pakar Diagnosa Penyakit Tanaman Padi Berbasis Web dengan Forward dan Backward Chaining” oleh Honggowibowo (2009), “An Expert System for Diagnosis of Diseases in Rice Plant” oleh Sarma, dkk. dan “Rancang Bangun Sistem „Permadi‟ : Peringatan Dini Serangan Hama Tanaman Padi Berbasis Data Historis Klimatologi” oleh Wahyono,dkk.(2012). Dari ketiga penelitian tersebut, belum ada penelitian yang menerapkan faktor kepastian (Certainty Factor) dalam proses pengambilan keputusannya. Certainty Factor menunjukkan ukuran kepastian terhadap suatu fakta atau aturan. Certainty Factor membuat penggunanya mendapat solusi dari permasalahannya dan dapat mengukur sesuatu apakah pasti atau tidak pasti dalam mendiagnosa (Kusrini, 2008). 
+
+Pada penelitian ini dilakukan perancangan sistem pakar yang diharapkan dapat menjadi acuan bagi petani atau orang yang ingin belajar bertani tahu bagaimana cara mengidentifikasi penyakit padi beserta solusinya sebelum bertanya pada seorang pakar agar memperoleh produksi secara maksimal dengan menerapkan faktor kepastian (Certainty Factor) dalam pengambilan keputusannya. Sistem Pakar tanaman padi adalah sistem yang dapat mengidentifikasi penyakit tanaman padi berdasarkan gejala-gejala yang ada serta memberikan solusi berdasarkan jenis penyakit layaknya seorang pakar. Dengan bantuan sistem pakar, diharapkan bahwa orang awam pun dapat menyelesaikan masalah yang cukup rumit yang sebenarnya hanya dapat diselesaikan dengan bantuan para ahli. 
+
+1.2 Rumusan Masalah 
+
+Berdasarkan latar belakang yang telah dijelaskan, maka rumusan masalah yang dibahas yaitu bagaimana membangun program aplikasi berbasis web yang dapat digunakan untuk mengidentifikasi penyakit padi berdasarkan gejala yang diberikan dan dapat memberikan solusi penanganan terhadap penyakit yang menyerang tanaman padi? 
+
+1.3 Batasan Masalah 
+
+Hal-hal yang menjadi batasan dalam pengembangan sistem ini adalah sebagai berikut: 
+1. Sistem yang dibangun hanya dapat mendiagnosa penyakit yang sering menyerang tanaman padi secara umum. 
+2. Sistem yang dibangun menggunakan Metode Forward Chaining, yakni mengidentifikasi penyakit tanaman padi berdasarkan gejala yang diberikan oleh sistem. 
+
+1.4 Tujuan Penulisan 
+
+Tujuan pengembangan sistem ini adalah membangun program aplikasi yang dapat mengidentifikasi penyakit yang menyerang tanaman padi berdasarkan gejala yang diberikan dan memberikan solusi terhadap penyakit yang menyerang tanaman padi dengan mendistribusikan pengetahuan manusia ke dalam sistem. 
+
+1.5 Manfaat Penulisan 
+
+Dengan adanya program aplikasi yang dibuat ini, diharapkan dapat memberikan manfaat antara lain: 
+1. Mempermudah pengguna (masyarakat luas) untuk mengetahui jenis-jenis penyakit tanaman padi. 
+2. Mempermudah pengguna (masyarakat luas) untuk mengetahui bagaimana cara menangani penyakit yang menyerang tanaman padi mereka. 
+
+3. Membantu petani untuk menekan terjadinya kerugian bahkan gagal panen pada tanaman padi mereka. 
+

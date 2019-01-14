@@ -1,0 +1,1350 @@
+﻿Pengaruh Tenure, Rotasi dan Spesialisasi Kantor Akuntan
+Publik (KAP) Terhadap Kualitas Audit: Perbandingan Sebelum
+dan Sesudah Regulasi Rotasi KAP di Indonesia
+
+
+
+ABSTRAK
+Indonesia merupakan negara yang menerapkan peraturan rotasi audit (akuntan
+publik) yang bertujuan untuk meningkatkan kualitas audit. Penelitian ini bertujuan untuk
+menguji pengaruh rotasi audit dan lamanya mengaudit terhadap kualitas audit. Kualitas
+audit diukur dengan empat kualitas laba (predictive value, timeliness, representational
+faithfulness dan netralitas). Sampel penelitian adalah perusahaan-perusahaan yang
+terdaftar di Bursa Efek Indonesia selama periode sebelum regulasi rotasi audit diberlakukan
+yaitu tahun 1999-2001 dan periode paska regulasi yaitu tahun 2004-2008. Hasil pengujian
+membuktikan bahwa pada periode sebelum regulasi, tidak ada pengaruh lamanya
+mengaudit terhadap kualitas audit. Namun setelah periode regulasi, lamanya mengaudit
+memiliki hubungan convex dengan kualitas audit dari sudut pandang netral sampai dengan
+timeliness. Penelitian ini juga menemukan bahwa secara umum tidak ada pengaruh rotasi
+akuntan publik dengan kualitas audit, 2 dari 8 persamaan regresi menunjukkan rotasi
+audit menurunkan kualitas audit pada periode sebelum dan sesudah regulasi. Spesialisasi
+memiliki pengaruh positif terhadap kualitas audit. Kewajiban untuk melakukan rotasi audit
+tidak cukup efektif untuk meningkatkan kualitas audit.
+Kata kunci: Audit Quality, Audit Rotation, Audit Tenure, Specialization, Quadratic model.
+
+PENDAHULUAN
+Berbagai skandal laporan keuangan menimbulkan
+rendahnya persepsi publik terhadap kualitas
+audit. Untuk itu pemerintah berusaha membuat
+berbagai aturan untuk mengatasi masalah
+tersebut, salah satunya adalah mengenai keharusan
+melakukan pergantian (rotasi) akuntan publik
+(AP) atau kantor akuntan publik (KAP). Publikasi
+pada website Earnest and Young pada maret 2013
+menyebutkan bahwa Uni Eropa, India dan Amerika
+Serikat saat ini sedang mempertimbangkan
+untuk mewajibkan rotasi KAP, Brazil, Cina,
+Belanda dan Turki baru-baru ini memperbaiki
+aturan mandatory rotation. Sedangkan Kanada,
+Republik Ceko, Korea, Latvia, Singapura dan Republik Slowakia awalnya mengadopsi rotasi
+wajib bagi KAP tapi kemudian menghapusnya.
+Aturan rotasi AP dan KAP diberlakukan di
+Indonesia sejak tahun 2002 yang membatasi masa
+perikatan suatu KAP dengan kliennya maksimal
+lima tahun berturut-turut dan AP maksimal tiga
+tahun berturut-turut. Aturan ini direvisi pada
+tahun 2008 di mana pembatasan masa pemberian
+jasa KAP diubah menjadi maksimal enam tahun
+berturut-turut.
+Rotasi KAP di Indonesia menarik untuk
+diteliti karena di Indonesia, perusahaan tidak
+hanya berkewajiban melakukan rotasi akuntan
+publik, tetapi juga rotasi kantor akuntan publik.
+Aturan rotasi di Indonesia memungkinkan suatu
+KAP melakukan perubahan nama dengan mengubah
+komposisi Akuntan Publik sehingga jumlah
+Akuntan Publiknya melebihi 50% dari Akuntan
+Publik yang telah menjadi partner sebelumnya,
+maka KAP tersebut dapat dianggap sebagai KAP
+baru sehingga seluruh kliennya dianggap sebagai
+klien baru dan KAP tersebut dapat terus memberikan
+jasa audit kepada perusahaan tersebut.
+Dengan aturan ini, banyak KAP melakukan perubahan
+komposisi partner audit untuk menyiasati
+keharusan melakukan rotasi. Hasil penelitian
+Siregar et al. (2009) menunjukkan bahwa sebagian
+besar rotasi yang terjadi setelah tahun 2003
+adalah rotasi semu. Yang dimaksud dengan rotasi
+semu pada penelitian ini adalah perubahan nama
+KAP dengan cara mengubah komposisi partner
+audit sehingga seolah-olah telah terjadi rotasi,
+padahal KAP-nya tidak berubah. Sedangkan yang
+dimaksud dengan rotasi riil adalah jika benarbenar
+terjadi pergantian KAP yang mengaudit
+suatu perusahaan, bukan hanya perubahan komposisi
+partner atau perubahan nama KAP.
+Tabel 1 berikut menyajikan data mengenai
+rotasi auditor pada periode sebelum dan setelah
+dikeluarkannya aturan rotasi auditor berdasarkan
+observasi terhadap 1.846 firm year sejak tahun
+1999 sampai 2007. Dari tabel tersebut terlihat
+bahwa terjadi peningkatan rotasi AP dan rotasi
+KAP yang sangat signifikan setelah dikeluarkannya
+aturan rotasi.
+Tabel 1. Rotasi Auditor Periode 1999-2007 di Indonesia
+Tahun Rotasi AP
+Rotasi
+KAP
+Rotasi
+KAP Riil
+Rotasi KAP
+Semu
+1999 0 11 11
+2000 2 9 9
+2001 0 14 14
+2002 Mulai aturan rotasi
+2003 Mulai aturan rotasi
+2004 125 106 47 59
+2005 111 84 42 42
+2006 120 123 48 75
+2007 68 29 29 0
+Total 426 376 200 176
+Pengaruh rotasi audit terhadap kualitas audit
+masih menjadi perdebatan. Pendukung rotasi
+berpendapat bahwa rotasi dapat meningkatkan
+independensi. Hal ini sesuai dengan temuan
+Gavious (2007) bahwa hubungan jangka panjang
+antara auditor dan klien akan menimbulkan
+masalah independensi, sehingga perlu dibuat
+aturan rotasi. Penentang rotasi berpendapat
+bahwa kewajiban rotasi dapat menurunkan kompetensi
+kareena kewajiban rotasi akan menimbulkan
+risiko pelaksanaan audit di bawah standar
+karena auditor belum memahami kliennya. St.
+Pierre dan Anderson (1984) menemukan bahwa
+banyak kesalahan-kesalahan audit dan perbuatan
+melawan hukum auditor terjadi pada tahun-tahun
+awal penugasan audit.
+Hubungan jangka waktu pemberian jasa
+audit (tenure) dengan kualitas audit juga masih
+menjadi perdebatan. Ada yang berpendapat bahwa
+semakin panjang tenure, kualitas audit semakin
+turun (hubungan negatif), namun juga ada yang
+berpendapat sebaliknya bahwa semakin panjang
+tenure, kualitas audit semakin meningkat (hubungan
+positif). Hubungan negatif antara lain didukung
+oleh Davis et al,(2002) yang menemukan bukti
+bahwa semakin panjang tenure, kualitas pelaporan
+keuangan semakin rendah karena hubungan
+auditor dan manajemen semakin dekat, sehingga
+manajemen memperoleh fleksibilitas yang lebih
+tinggi untuk membuat laporan keuangan yang
+sesuai dengan keinginannya. Hubungan positif
+didukung antara lain oleh Geiger dan Raghunandan
+(2002) yang menemukan bahwa banyak
+kegagalan audit terjadi pada tahun-tahun awal
+perikatan audit. Semakin panjang tenure, kualitas
+audit akan semakin baik. Carcello dan Nagy
+(2004) juga menemukan bahwa kecurangan pelaporan
+keuangan lebih sering terjadi pada tiga
+tahun awal perikatan audit. Ketika tenure semakin
+panjang, auditor akan semakin memahami
+perusahaan, kecurangan manajemen semakin berkurang,
+dan kualitas laporan keuangan semakin
+baik.
+Sebagian besar penelitian mengenai hubungan
+tenure dengan kualitas audit menghipotesiskan
+hubungan yang berbentuk linier positif atau linier
+negatif. Dalam penelitian ini diduga bahwa hubungan
+tenure dan kualitas audit adalah kuadratik
+(concave atau conveks). Artinya, ada titik optimal
+dalam pemberian jasa audit. Sebelum mencapai
+titik optimal, tenure dapat berhubungan positif
+(negative) dengan kualitas audit, setelah mencapai
+titik optimal, tenure dapat berhubungan negatif
+(positif) dengan kualitas audit. Wibowo dan
+Rosietta (2009) menguji bentuk nonlinier ini
+dengan menggunakan earning surprise benchmark
+sebagai proksi kualitas audit, namun belum dapat membuktikan secara signifikan bentuk hubungan
+kuadratik tersebut. Fitriany dan Wibowo (2009)
+mengunakan kualitas laba (akrual diskresioner)
+sebagai proksi kualitas audit dan berhasil membuktikan
+bentuk hubungan kuadratik concave
+antara kualitas audit dan tenure. Siregar et al.
+(2009) menemukan hubungan kuadratik untuk
+kualitas audit yang diukur dengan akrual diskresioner,
+namun tidak untuk Earnings Response
+Coefficient (ERC). Davis et al. (2009) meneliti
+hubungan kuadratik antara tenure dan akrual
+diskresioner yang dilakukan oleh perusahaan
+dalam rangka meet atau beat earnings forecasts
+pada periode sebelum dan setelah SOX. Hasil
+penelitiannya menyimpulkan bahwa pada periode
+sebelum SOX, tenure dan manajemen laba berhubungan
+kuadratik, tapi setelah SOX, hubungan
+kuadratik tersebut tidak terbukti. Penelitian ini
+juga berusaha memberi landasan teori yang lebih
+kuat dari bentuk hubungan nonlinier tersebut.
+Pada umumnya studi tentang pengaruh
+rotasi tidak membedakan antara rotasi semu dan
+rotasi riil. Di Indonesia, masalah ini penting
+karena pada rotasi semu yang berubah hanya
+komposisi partnernya saja sedangkan pada rotasi
+riil benar-benar terjadi pergantian KAP. Bentuk
+hubungan concave antara tenure dan kualitas
+audit sebenarnya telah diteliti oleh Wibowo dan
+Rosietta (2009), Fitriany dan Wibowo (2009),
+Siregar et al. (2009). Ketiga penelitian tersebut
+menghitung tenure KAP berdasarkan nama KAP,
+tidak memperhatikan apakah perubahan nama
+KAP tersebut hanyalah bersifat semu. Penelitian
+ini mengukur tenure riil, bukan tenure semu.
+Variabel lain yang diteliti pada penelitian ini
+adalah spesialisasi auditor. Penelitian terdahulu
+menyimpulkan bahwa spesialisasi auditor pada
+industri tertentu dapat meningkatkan kemampuan
+auditor dalam menentukan keandalan laporan
+keuangan klien dan estimasi-estimasinya (Hammrsley
+2006) dan menghasilkan nilai akrual diskresioner
+yang lebih kecil serta earnings response
+coefficients yang lebih besar (Krishnan 2003 dan
+Balsam et al. 2003).
+Kualitas audit dapat diukur dari sisi input,
+output dan proses. Pada penelitian ini kualitas
+audit akan diukur output yaitu kualitas laba yang
+dihasilkan. Semakin baik kualitas laba yang
+dihasilkan dari suatu proses audit, semakin baik
+kualitas audit tersebut. Penelitian ini mengikuti
+Velury & Jenkins (2006) yang membagi kualitas
+laba menjadi empat dimensi yaitu predictive value,
+neutrality, timeliness dan representational faithfulness.
+Penelitian ini bertujuan untuk meneliti (1)
+Bagaimanakah pengaruh tenure KAP terhadap
+kualitas audit; (2) Apakah hubungan tenure KAP
+dan kualitas audit berbentuk kuadratik; (3) Bagaimanakah
+pengaruh rotasi KAP terhadap kualitas
+audit; (4) Bagaimanakah pengaruh spesialisasi
+auditor terhadap kualitas audit.
+Penelitian ini diharapkan dapat memberi
+kontribusi untuk pengembangan model penelitian
+selanjutnya, agar tidak hanya terbatas pada model
+yang berbentuk linier saja. Diharapkan penelitian
+ini dapat memberi masukan bagi Departemen
+Keuangan dan IAPI untuk pengembangan regulasi
+jasa akuntan publik di Indonesia.
+Teori Keagenan dan Kualitas Audit
+Teori keagenan dari Jensen dan Meckling
+(1976) menjelaskan hubungan kontraktual antara
+pemilik/pemegang saham dengan agen/manajer.
+Dalam kontrak, agen harus bekerja sesuai delegasi
+wewenang dari pemilik/pemegang saham. Namun,
+karena ada motivasi kepentingan pribadi (self
+interest) yang dalam kenyataannya manajer tidak
+selalu bertindak sesuai keinginan pemilik. Salah
+satu penyebabnya adalah moral hazard (keinginan
+manajer bertindak untuk kepentingan pribadi).
+Hal ini dapat terjadi karena adanya asimetri
+informasi antara manajer dan pemilik. Oleh
+karena itu, dibutuhkan pihak ketiga yang independen
+sebagai mediator yaitu eksternal auditor
+yang akan memberikan opini atas kewajaran
+laporan keuangan yang dibuat manajer. Penggunaan
+auditor eksternal yang independen diharapkan
+dapat mengurangi agency cost (Jensen
+dan Meckling 1976; Watts dan Zimmerman 1986).
+Stewardship hypothesis dalam Watt dan
+Zimmerman (1986) menyatakan bahwa laporan
+keuangan dan auditing dibutuhkan untuk memeriksa
+kejujuran dan reliability laporan yang dibuat
+manajer dan sebagai alat untuk memonitor kontrak
+antara manajer dan pemilik. Manajer akan
+berusaha untuk memilih auditor yang dapat membangun
+image manajer sebagai the good steward.
+Di sisi lain, dalam moral hazard hypothesis
+manajer mempunyai kecenderungan untuk memaksimalkan
+tingkat kesejahteraannya dengan
+mengorbankan tingkat kesejahteraan pemilik.
+Manajer cenderung memilih auditor yang memberi
+keleluasaan pada manajer untuk memilih
+prosedur akuntansi yang disukai manajer. Namun,
+sekaligus juga bersedia memberi opini audit yang
+menguntungkannya.
+Masalah keagenan auditor bersumber pada
+mekanisme kelembagaan. Auditor ditunjuk oleh
+pihak manajemen untuk melakukan audit bagi
+kepentingan pemegang saham, tetapi jasa audit
+dibayar oleh manajemen (Gavious, 2007). Hal ini
+menciptakan benturan kepentingan yang tidak
+bisa dihindari auditor. Mekanisme kelembagaan ini menimbulkan ketergantungan auditor kepada
+kliennya sehingga auditor dapat kehilangan independensinya
+dan harus mematuhi berbagai
+keinginan klien dengan harapan perikatan auditnya
+di masa depan tidak terputus.
+Palmrose (1984) serta Healy dan Lys (1986)
+menyatakan bahwa kualitas audit merupakan
+indikator utama dalam pemilihan auditor. Artinya,
+kualitas pelayanan jasa auditor yang diberikan
+terhadap klien merupakan dasar pertimbangan
+utama dalam memilih auditor. Konsisten dengan
+teori keagenan, manajemen perusahaan senantiasa
+ingin memuaskan keinginan investor dengan
+memilih auditor yang dapat merefleksikan citra
+manajer yang baik di mata investor.
+Di lain pihak, terdapat masalah keagenan
+dari sisi auditor di mana auditor memiliki kepentingan
+mempertahankan dan meningkatkan pendapatan
+jasa auditnya dengan memenuhi keinginan
+klien audit, terutama klien jangka panjang. Hal
+ini dilakukan dalam rangka menjamin kelanjutan
+perikatan auditnya sehingga terjamin pendapatan
+auditor tersebut. Insentif untuk bekerja sama
+dengan manajemen yang curang berasal dari ketergantungan
+ekonomi tersebut. Jadi, dalam kepentingan
+ekonomi, perikatan audit jangka panjang
+akan menimbulkan kedekatan dan loyalitas
+antara auditor dan klien. Hal ini akan menurunkan
+objektifitas audit dan menurunkan independensi
+auditor. Masalah yang perlu diperhatikan
+adalah jika auditor dipertahankan dalam jangka
+waktu lama, kemungkinan besar auditor tersebut
+akan merasa nyaman sehingga objektifitas audit
+akan terganggu (Mautz dan Sharaf 1961).
+Namun demikian, auditor tetap harus mempertimbangkan
+risiko litigasi dan reputasi yang
+muncul dalam memaksimalkan profitabilitasnya
+(Reynolds dan Francis 2001). Kegagalan audit
+dapat berakibat pengenaan sanksi terhadap auditor
+oleh regulator yang akan merusak reputasi
+auditor. Regulator (pemerintah) berperan sebagai
+pelindung kepentingan publik dengan mengeluarkan
+kebijakan/regulasi agar kualitas audit tetap
+terjaga.
+Pengaruh Tenure terhadap Kualitas Audit
+Mautz dan Sharaft (1961) menyatakan
+bahwa dengan panjangnya hubungan antara
+auditor dengan kliennya akan memengaruhi
+independensi auditor karena objektifitas auditor
+akan menurun seiring dengan berjalannya waktu.
+Turunnya objektivitas ini akan meningkatkan
+kemungkinan kegagalan mendeteksi kesalahan
+pada laporan keuangan. Turunnya objektivitas
+dapat disebabkan oleh beberapa hal. Pertama,
+semakin lama auditor berhubungan dengan klien
+akan mengakibatkan auditor mulai bertindak
+sebagai pendukung manajemen. Sebagai konsekuensinya,
+auditor tidak memandang asersi yang
+disampaikan manajemen dengan professional
+skepticism yang tepat, akan tetapi akan memandang
+dalam perspektif pendukung manajemen.
+Kedua, semakin lama hubungan auditor dengan
+klien, auditor akan kurang sensitif dan gagal
+untuk menemukan data dan bukti baru yang
+diperlukan guna mendukung judgement auditor.
+Perilaku ini dapat mengakibatkan auditor gagal
+untuk merevisi judgement yang salah pada tahuntahun
+sebelumnya dan mungkin juga gagal memberikan
+judgement yang lebih tepat seiring dengan
+perubahan situasi bisnis klien. Argumen paling
+akhir adalah bahwa kemampuan untuk menahan
+klien akan menjadi insentif bagi auditor untuk
+tidak terlalu mempermasalahkan sengketa dengan
+klien dan cenderung mengakomodir keinginan
+klien dengan tujuan agar mendapatkan keuntungan
+ekonomi berupa tidak pindahnya klien ke
+auditor lain.
+Berdasarkan berbagai penelitian sebelumnya,
+terdapat dua pendapat yang bertentangan mengenai
+hubungan antara tenure dan kualitas audit.
+Pendapat pertama mengatakan bahwa jangka
+waktu penugasan audit berhubungan negatif
+dengan kualitas audit dengan argumen bahwa
+semakin panjang jangka waktu audit, auditor
+semakin dekat (familiar) hubungan auditor
+dengan klien. Kedekatan ini dapat menyebabkan
+auditor dan klien punya peluang untuk mengkompromikan
+pilihan akuntansi dan pelaporan
+klien. Hal ini akan mengurangi independensi
+auditor, yang berarti menurunkan kualitas audit
+(Mautz dan Sharaft,1961; Kaplan 2004; Gavious
+2007; Gietzmann dan Sen 2001; Dopuch et al.
+2001; Chi et al. 2005).
+Pendapat kedua mengatakan bahwa jangka
+waktu penugasan audit berhubungan positif
+dengan kualitas audit. Dengan kata lain, semakin
+panjang tenure, kualitas audit akan semakin
+meningkat. Hubungan positif antara tenure dan
+kualitas audit disebabkan karena: (i) banyak
+kesalahan-kesalahan audit dan perbuatan melawan
+hukum auditor terjadi pada tahun-tahun
+awal penugasan audit, semakin lama, kualitas
+audit akan semakin baik (St Pierre dan Anderson
+1984)); (ii) penugasan baru akan meningkatkan
+start-up costs sehingga akan meningkatkan biaya
+audit secara keseluruhan (Davis et al. (2002); (iii)
+rotasi menimbulkan risiko pelaksanakan audit di
+bawah standar karena auditor belum memahami
+kliennya secara mendalam (Francis dan Simon
+1987; Balvers et al. 1988; Beatty 1989; Craswell et
+al. 1995).
+Pada umumnya penelitian tersebut menghipotesiskan
+hubungan tenure dan kualitas audit berbentuk linier positif atau linier negatif.
+Penelitian ini memprediksi bahwa hubungan
+tenure dan kualitas audit adalah berbentuk
+kuadratik dan kualitas audit akan meningkat
+dengan semakin lama jangka waktu penugasan
+audit sampai titik optimal tertentu, yang kemudian
+dengan bertambahnya jangka waktu audit,
+kualitas audit akan turun karena independensi
+auditor menjadi berkurang.
+Ada beberapa peneliti telah mencoba bentuk
+hubungan nonlinier tersebut seperti Davis et al.
+(2009). Namun, Davis et al. (2009) hanya menggunakan
+satu proksi kualitas audit (akrual diskresioner).
+Wibowo dan Rosietta (2009) mencoba
+bentuk nonlinier dengan earning surprise benchmark
+sebagai proksi kualitas audit, namun belum
+dapat membuktikan secara signifikan bentuk
+hubungan kuadratik tersebut. Fitriany dan
+Wibowo (2009) serta Siregar et al. (2009)
+menemukan hubungan nonlinier dengan proksi
+akrual diskresioner saja. Pada penelitian ini akan
+diuji model kuadratik dengan pengukuran kualitas
+audit yang lebih banyak (4 proksi kualitas laba).
+Model kuadratik ini dikembangkan dari
+definisi kualitas audit yang disampaikan oleh De
+Angelo (1981a) yang menyatakan bahwa kualitas
+audit adalah kemampuan auditor mendeteksi
+kesalahan dalam laporan keuangan dan kemudian
+melaporkannya kepada pengguna laporan keuangan.
+Peluang mendeteksi kesalahan tergantung
+pada kompetensi auditor sedangkan keberanian
+melaporkannya tergantung pada independensi
+auditor.
+Hubungan kompetensi dan tenure diprediksikan
+berbentuk positif. Semakin panjang tenure,
+auditor akan semakin memiliki kompetensi
+karena auditor semakin memahami internal
+control, sistem informasi akuntansi, dan risiko
+spesifik perusahaan. Fitriany dan Rossieta (2009)
+menemukan bahwa tenure signifikan berpengaruh
+negatif terhadap akrual diskresioner. Pada tahun
+pertama penugasan, kualitas audit masih rendah,
+yang mungkin disebabkan karena auditor belum
+terlalu memahami kondisi klien, namun dengan
+semakin panjang tenure (yaitu tahun ke-2 dan ke-
+3), kualitas audit terus meningkat. Namun pada
+tahun ke-4, pengaruh audit tenure terhadap
+kualitas audit tidak signifikan.
+Auditor yang belum mempunyai pemahaman
+klien yang mendalam cenderung akan bergantung
+pada estimasi dan keterangan yang diberikan oleh
+pihak perusahaan yang diaudit (Gul et al. 2007).
+Hal ini sesuai dengan SPAP (2001) yang menyatakan
+bahwa perolehan pengetahuan tentang bisnis
+yang diperlukan auditor merupakan proses berkelanjutan
+dan bersifat kumulatif. Karena adanya
+learning process, tambahan pengetahuan yang
+didapat pada tahun awal dapat lebih banyak atau
+lebih sedikit daripada tahun-tahun berikutnya.
+Oleh karenanya, pada penelitian ini hubungan
+tenure dan kompetensi dihipotesiskan positif dan
+dapat berbentuk cembung atau cekung, seperti
+tampak pada Gambar 1. Gambar 1 kiri menunjukan
+bahwa tambahan (delta) pengetahuan yang
+didapat pada tahun awal penugasan lebih sedikit
+daripada tahun-tahun berikutnya. Sedangkan
+Gambar 1 kanan menunjukan bahwa tambahan
+(delta) pengetahuan yang didapat pada tahuntahun
+awal penugasan lebih banyak daripada
+tahun-tahun berikutnya.
+Gambar 1. Hubungan Tenure dan Kompetensi
+Hubungan tenure dan independensi dihipotesiskan
+berbentuk negatif karena secara umum
+semakin panjang tenure, semakin familiar (dekat)
+hubungan auditor dan klien, sehingga auditor
+menjadi semakin tidak kritis/tidak independen.
+Hal ini dapat dijelaskan dengan teori Low-Balling
+(De Angelo 1981a). Untuk mendapatkan dan
+mempertahankan klien baru, auditor mengenakan
+biaya audit yang lebih rendah pada tahun-tahun
+awal masa pemberian jasa audit. Biaya audit ini
+akan meningkat seiring dengan bertambahnya
+masa perikatan. Maka auditor dengan tenure yang
+rendah akan lebih tolerir untuk menjaga hubungan
+dengan klien agar kerja sama mereka dapat
+berjalan panjang dan kerugian auditor pada
+tahun-tahun awal dapat tertutupi. Hal ini akan
+berdampak pada rendahnya kualitas audit dan
+kualitas laba (Gul et al. 2007). Berbagai penelitian
+lainnya juga telah menemukan bahwa semakin
+panjang tenure, independensi semakin turun
+(Gavious 2007; Gietzmann dan Sen 2001; Dopuch
+et al. 2001; Chi et al. 2005). Penurunan independensi
+ini berbeda-beda pada setiap kasus. Pada
+tahun-tahun awal penugasan audit, penurunan
+independensi dapat lebih cepat atau lebih lambat.
+Hal ini dapat digambarkan pada gambar 2 kiri
+yang menunjukkan penurunan independensi yang
+lebih lambat pada tahun-tahun awal penugasan
+sedangkan gambar 2 kanan menunjukan penurunan
+independensi yang lebih cepat pada tahun
+awal penugasan (tenure).
+
+Gambar 2. Hubungan Tenure dan Independensi
+Kualitas audit adalah kombinasi dari kompetensi
+dan independensi auditor (De Angelo, 1981a).
+Jika gambar 1 dan 2 digabung, dapat menghasilkan
+beberapa pilihan kurva seperti tampak pada
+gambar 3. Gambar 3.a menunjukkan bahwa pada
+awal masa penugasan (tenure) sampai titik optimal,
+peningkatan kompetensi lebih tinggi dari
+pada penurunan independensi sehingga kompetensi
+lebih dominan memengaruhi kualitas audit
+dibandingkan independensi. Kurva kualitas audit
+akan naik. Setelah titik optimal, dengan semakin
+panjangnya hubungan auditor dengan klien,
+mengakibatkan auditor dan klien semakin familiar,
+sehingga masalah independensi lebih dominan
+memengaruhi kualitas audit dibandingkan
+kompetensi, maka kurva kualitas audit akan
+turun, hubungan tenure dan kualitas audit berbentuk
+concave seperti tampak pada gambar 3.a.
+Hubungan tenure dan kualitas audit juga
+dapat berbentuk conveks seperti gambar 3.b
+tergantung mana yang lebih dominan antara
+independensi dan kompetensi, selain itu juga
+tergantung pada bentuk kurva independensi dan
+kompetensi, apakah cembung atau cekung.
+Gambar 3. Hubungan tenure dan kualitas audit
+Ket: I: Independensi, K: Kompetensi, KA: Kualitas Audit
+Berdasarkan penjelasan di atas, dapat dihipotesiskan
+bahwa hubungan kualitas audit dan
+tenure KAP berbentuk kuadratik (concave atau
+conveks), tergantung pada periode tersebut, mana
+yang lebih dominan, kompetensi atau independensi,
+sehingga hipotesis penelitian adalah sebagai
+berikut:
+H1: Tenure KAP berpengaruh secara kuadratik
+terhadap kualitas audit.
+Pengaruh Rotasi terhadap Kualitas Audit
+Terdapat argumen yang menentang dan
+mendukung aturan rotasi. Penelitian yang menentang
+aturan rotasi diantaranya adalah St
+Pierre dan Anderson (1984) yang menyatakan
+bahwa banyak kesalahan-kesalahan audit dan
+perbuatan melawan hukum auditor terjadi pada
+tahun-tahun awal penugasan audit dan Davis et
+al. (2002) yang menyatakan bahwa meningkatnya
+frekuensi pergantian auditor akan meningkatkan
+biaya audit secara keseluruhan. Namun ada juga
+pihak yang pro (setuju) dengan penerapan aturan
+rotasi seperti Gietzmann dan Sen (2001) yang
+menemukan bahwa walaupun aturan kewajiban
+rotasi KAP memiliki biaya tinggi, namun aturan
+tersebut meningkatkan independensi auditor melebihi
+biaya di pasar secara relatif pada beberapa
+klien besar.
+Berdasarkan berbagai penjelasan dan literatur
+di atas di mana terdapat argumen yang
+menyatakan bahwa rotasi audit dapat berpengaruh
+positif dan dapat pula berpengaruh negatif,
+maka hipotesis sehubungan pengaruh rotasi audit
+terhadap kualitas audit bersifat dua arah (twotails).
+Penelitian ini akan menguji rotasi rotasi
+KAP (Kantor Akuntan Publik), sehingga hipotesisnya
+adalah:
+H2: Rotasi KAP berpengaruh terhadap kualitas
+audit.
+Pengaruh Spesialisasi Auditor terhadap
+Kualitas Audit
+Auditor spesialis artinya auditor tersebut
+memiliki pengalaman yang banyak dalam mengaudit
+klien dalam industri yang sama. Pengalaman
+ini berdampak pada meningkatnya pemahaman
+auditior tentang risiko audit spesifik pada
+industri tersebut. Spesialisasi ini dapat meningkatkan
+efisiensi dan efektivitas dalam penentuan
+kehandalan laporan keuangan klien dan estimasiestimasinya
+sehingga auditor akan mempunyai
+kemampuan mendeteksi kesalahan atau ketidaknormalan
+pada industri yang diauditnya, sehingga
+biasanya lebih sedikit melakukan kesalahan dibandingkan
+dengan auditor yang bukan spesialis
+(Solomon et al. 1999).
+Auditor spesialis akan selalu berusaha melindungi
+reputasinya dengan meningkatkan ketaatan
+terhadap standar audit relatif terhadap non
+spesialis (Carcello dan Nagy 2004). Auditor yang
+spesialis dalam industri tertentu akan lebih
+percaya diri dalam menentukan inherent risk,
+memiliki kemampuan yang lebih tinggi dalam
+mendeteksi error dan financial fraud. Oleh karena
+itu perusahaan yang diaudit oleh auditor yang spesialis akan menghasilkan kualitas laba yang
+lebih baik karena nilai akrual diskrisioner yang
+lebih rendah dan earnings response coefficients
+yang lebih besar (Balsam 2003).
+Dengan demikian peneliti memprediksi
+bahwa terdapat hubungan positif antara spesialisasi
+auditor dengan kualitas audit. Sehingga hipotesis
+yang diajukan adalah:
+H3: Spesialisasi auditor berpengaruh positif terhadap
+kualitas audit.
+METODE PENELITIAN
+Model Penelitian
+KAit = a0 + a1TENUREit + a2TENURESQit
++
+3ROTATIONit + a4SPECit+ V_CONTROL
++ εit
+KAit: Kualitas Audit; TENURE: jangka waktu
+penugasan KAP (tahun); TENURESQ: TENURE
+dikuadratkan; ROTATION: dummy variable,1 jika
+terjadi rotasi audit, 0 lainnya; SPEC: dummy
+variable, 1 jika perusahaan diaudit oleh auditor
+spesiali, 0 lainnya.
+Operasionalisasi Variabel
+Kualitas Audit
+Kualitas audit memiliki banyak dimensi,
+dapat dilihat dari output, proses audit, input. Pada
+penelitian ini kualitas audit akan diukur berdasarkan
+output yaitu dari kualitas laba yang dihasilkan.
+Semakin baik kualitas laba yang dihasilkan
+dari suatu proses audit, semakin baik kualitas
+audit tersebut. Penelitian ini mengikuti Velury &
+Jenkins (2006) yang membagi kualitas laba menjadi
+empat dimensi yaitu predictive value, timeliness,
+neutrality, dan representational faithfulness.
+Laba dikatakan berkualitas jika memiliki nilai
+reliability (neutrality dan representational faithfulness)
+dan relevansi (predictive value dan timeliness).
+Neutrality
+Informasi laba yang netral artinya laba harus
+memberi informasi yang tidak bias. Laba dikatakan
+netral jika laba tidak dikelola untuk tujuan
+tertentu (tidak ada manajemen laba). Untuk mengukur
+manajemen laba sebagian besar penelitian
+menggunakan ukuran akrual diskresioner karena
+prinsip akuntansi yang berlaku umum memberikan
+fleksibilitas bagi manajemen dalam melakukan
+akrual (Subramanyam, 1996). Penelitian ini
+menggunakan model Kasnik (1999) untuk mengukur
+nilai akrual diskresioner karena berdasarkan
+penelitian Siregar (2005) dan Siregar et al. (2009),
+model Kasnik memberi hasil yang lebih baik
+dibandingkan model lainnya. Dalam penelitian ini
+digunakan nilai absolut dari akrual diskresioner
+(ABS_DAC) karena yang dilihat adalah besarnya
+manajemen laba, bukan arahnya (Siregar, 2005).
+Hubungan akrual diskresioner dengan kualitas
+audit adalah berbanding terbalik dimana semakin
+tinggi tingkat akrual diskresioner, semakin besar
+manajemen laba, yang berarti semakin buruk
+kualitas laba. Kualitas laba yang buruk menunjukkan
+kualias audit yang juga buruk. Model
+penelitian menjadi:
+ABS_DACit= a0 + a1TENUREit + a2TENURESQit
++ a3ROTATIONit + a4SPECit + a5BIG4it
++
+a6LEVit + a7GROWTHit +a8SIZEit
++
+a9D_LOSSit
++ a10CFOit
++ εit
+(1)
+dimana:
+ABS_DACit: absolut discretionary accruals;
+TENURE: jangka waktu penugasan KAP (tahun);
+TENURESQ: TENURE dikuadratkan; ROTATION:
+dummy variable,1 jika terjadi rotasi audit, 0
+lainnya; SPEC: dummy variable,1 jika equal perusahaan
+diaudit oleh auditor spesialis (memiliki
+market share lebih dari 10% di industri berdasarkan
+total asset klien) and 0 lainnya; BIG4:
+dummy variable, 1 jika perusahaan diaudit oleh
+Big4, 0 lainnya; LEV: tingkat leverage (debt-tototal
+asset); GROWTH: pertumbuhan perusahan
+(price-to-book value); SIZE: ukuran perusahaan
+(natural log total assets); D_LOSS: 1: jika perusahaan
+mengalami kerusian; CFO: Cash Flow.
+Hubungan kuadratik concave (conveks) terbukti
+jika koefisien a1 signifikan positif (negatif)
+dan koefisien a2 signifikan negatif (positif).
+Representational Faithfulness
+Representational faithfullness dapat diartikan
+sebagai keharusan laporan keuangan untuk menyajikan
+secara jujur transaksi dan peristiwa
+lainnya yang seharusnya disajikan. Dimensi ini
+menunjukkan bahwa nilai laba yang dilaporkan
+merupakan hasil penyesuaian antara ukuran
+(measure) atau deskripsi dengan fenomena yang
+direpresentasikannya. Karena laba disajikan untuk
+menangkap nilai ekonomis suatu perusahaan,
+maka representational faithfullness dari angka
+laba dapat dilihat dengan menguji hubungan
+antara laba dengan return saham atau disebut
+sebagai earnings response coefficient (Velury dan
+Jenkins 2006). Untuk menghitung ERC adalah CARit= a0 + a1UEit koefisien alpha (a) merupakan
+ERC dari tiap perusahaan, sehingga model
+penelitian menjadi:
+CARi,t = a0 + a1UEit + a2UEitTENUREit +
+a3UEit*TENURESQit
++ a4UEt*ROTATIONit +
+a5SPECit + a6BIG4it
++ a7LEVit + a8GROWTHit +
+a9SIZEit
++ a10D_LOSSit
++ a11STDEVit
++ εit
+(2)
+dimana:
+CARit : Cumulative Abnormal Return (weekly);
+UEit : Unexpected Earning
+Predictive value
+Prediktabilitas laba adalah kualitas informasi
+yang membantu pengguna laporan keuangan
+memprediksi hasil dimasa depan dengan berdasarkan
+dari kejadian masa lalu dan sekarang
+dengan lebih baik. Untuk menguji apakah laba
+memiliki predictive value, dapat dilihat pada
+hubungan antara current earnings dan operating
+cash flow di masa mendatang (Velury Jenkins,
+2006). Semakin besar hubungan antara laba tahun
+berjalan dengan arus kas masa mendatang,
+semakin besar tingkat prediktabilitas laba. Velury
+dan Jenkins (2006) merumuskan cara untuk
+menghitung predictive value sebagai berikut
+CFOi,t+
+= a0 + a1INCit + e sehingga model penelitian
+menjadi:
+CFO i,t+1= a0 + a1 INCit + a2 INCit*TENUREit +
+a3INCit*TENURESQit
++ a4INCit*ROTATIONit
++ a5SPECit + a6BIG4it
++ a7LEVit + a8GROWTHit +
+a9SIZEit
++ a10D_LOSSit
++ εit
+(3)
+dimana:
+CFOi,t+1: arus kas operasi (diskala dengan total
+aset) paa akhir tahun t+1; INC: laba sebelum pospos
+luar biasa dan discontinued operation diskala
+dengan total aset.
+Timeliness
+Collins et al. (1994) and Gelb and Zarowin
+(2002) menyatakan bahwa earnings dengan tingkat
+timeliness yang rendah akan menghasilkan
+hubungan yang rendah antara current returns dan
+current earnings. Lundholm and Myers (2002)
+menyatakan bahwa informative disclosure (transparent
+earnings) akan menyebabkan current
+returns lebih merefleksikan informasi mengenai
+future earnings. Penelitian ini mengikuti Raonic et
+al. (2004), Dimitropoulos et al. (2008) dan Ding dan
+Stowoly (2006) dalam menentukan timeliness of
+earnings. Earnings dikatakan timely ketika
+earnings merefleksikan informasi yang diberikan
+ke market dalam menilai harga saham suatu
+perusahaan. Model econometric untuk menentukan
+timeliness of earnings adalah EPSit=a0 + a1Rit,
+sehingga model menjadi:
+EPSit = a0 + a1 Rit + a2 Rit*TENUREit +
+a4Rit*TENURESQit
++ a6 Rit*ROTATIONit +
+a7SPECit + a4BIG4it
++ a6LEVit + a9GROWTHit +
+a4SIZEit
++ a4D_LOSSit
++ εit
+(4)
+Dimana:
+EPSit: earnings per share scaled by beginning rice;
+Rit: return mingguan
+Hubungan kuadratik concave (conveks) pada
+model 1 terbukti jika koefisien a1 signifikan positif
+(negatif) dan koefisien a2 signifikan negatif
+(positif). Sedangkan pada model 2 sd 4 hubungan
+kuadratik concave (conveks) terbukti jika koefisien
+a2 signifikan positif (negatif) dan koefisien a3
+signifikan negatif (positif).
+TENURE: jangka waktu penugasan KAP oleh
+perusahaan (dalam satuan tahun). Diukur
+tenure riil
+ROTASI: dummy variable, 1 jika terjadi pergantian
+KAP riil
+SPEC: Spesialisasi audit diukur dengan persentase
+klien go public yang diaudit
+oleh suatu KAP pada suatu industri
+tertentu dan kemudian dilakukan
+pembobotan (weighting) berdasarkan
+total aset untuk perusahaan go public
+dengan rumus sebagai berikut: Spesialisasi
+= (jumlah klien KAP di
+industri tersebut/jumlah seluruh
+emiten di industri) x (rerata aset klien
+KAP di industri tersebut/rerata aset
+seluruh emiten di industri tsb). Suatu
+KAP dikatakan spesialis jika KAP
+tersebut menguasai 10 % market share
+(Siregar et al, 2009).
+Variabel Kontrol
+Variabel control untuk setiap model tersebut
+ada perbedaan karena dependen variabelnya berbeda.
+Berikut adalah variabel kontrol yang digunakan:
+Tabel 3. Variabel Kontrol
+Proksi Kualias Audit Variabel control
+1 Predictability SIZE_E, GROWTH, LEV,
+SIZE_KAP, LOSS
+2 Netralitas SIZE_E, GROWTH, LEV,
+SIZE_KAP, LOSS, CFO
+3 Representational
+faithfulness
+SIZE_E, GROWTH, LEV,
+SIZE_KAP, LOSS,
+MKT_RISK
+4 Timeliness SIZE_E, GROWTH, LEV,
+SIZE_KAP, LOSS
+
+
+
+
+Ukuran Perusahaan (SIZE)
+Penelitian terdahulu menemukan ukuran
+perusahaan secara negatif signifikan mempengaruhi
+besaran akrual diskresioner perusahaan
+(Siregar, 2005). Lyss dan Watt (1994) berpendapat
+bahwa semakin buruk kondisi informasi asimetri
+pada suatu perusahaan, semakin leluasa manajer
+untuk mengambil keputusan tanpa terdeteksi oleh
+sistem pengendalian organisasi. Selain itu
+penelitian-penelitian terdahulu (Lyss dan Watt,
+1994, Shu, 1999) menemukan adanya hubungan
+positif antara ukuran perusahaan dengan risiko
+litigasi sehingga memotivasi perusahaan besar
+untuk meningkatkan transparansi dalam pelaporan
+keuangan yang berarti memudahkan auditor
+untuk mengaudit perusahaan sehingga hubungannya
+dengan kualitas audit positif.
+Di lain pihak, Lobo dan Zhou (2006) menemukan
+bahwa perusahaan besar memiliki
+peluang yang lebih tinggi untuk meningkatkan
+laba secara artifisial karena kompleksitas bisnis
+dan operasionalnya menyulitkan pengguna laporan
+keuangan untuk mendeteksi manipulasi tersebut.
+Semakin besar perusahaan, semakin kompleks
+bisnis dan operasional dan semakin rumit
+sistem informasi sehingga kemungkinan auditor
+mendeteksi manipulasi laba yang dilakukan oleh
+manajemen berkurang, akibatnya semakin besar
+kemungkinan kualitas audit yang dilakukan akan
+kurang baik.
+Berdasarkan argumen di atas, dalam penelitian
+ini diperkirakan bahwa ukuran perusahaan
+bisa berpengaruh positif maupun negatif terhadap
+kualitas audit. Variabel ini diukur dengan logaritma
+natural total aset.
+Pertumbuhan Perusahaan (GROWTH)
+Chen (2004) menemukan bahwa perusahaan
+dengan tingkat pertumbuhan yang semakin tinggi
+akan cenderung memiliki nilai absolut akrual yang
+semakin tinggi pula. Summers dan Sweeney
+(1998) menyatakan bahwa manajer cenderung
+memanipulasi laporan keuangan ketika pertumbuhan
+melambat untuk mempertahankan
+konsistensi pertumbuhan perusahaan. Salah satu
+ukuran yang digunakan adalah market to book
+ratio, yang merupakan ekspektasi pasar tentang
+pertumbuhan perusahaan. Salah satu cara untuk
+meningkatkan harga pasar saham adalah dengan
+melakukan manajemen laba melalui akrual
+diskresioner. Semakin tinggi manajemen laba,
+berarti kualitas laba semakin buruk. Kualitas laba
+adalah sebagai proksi kualitas audit yang berarti
+dengan semakin rendah kualitas laba, kualitas
+audit juga semakin rendah. Arah tanda koefisien
+variabel GROWTH diekspektasi positif. Diukur
+dengan PBV.
+Leverage (LEV)
+DeFond dan Jiambalvo (1994) membuktikan
+bahwa perusahaan dengan tingkat hutang yang
+tinggi memiliki insentif untuk meningkatkan laba
+secara artifisial untuk memenuhi debt covenant.
+Namun demikian di sisi lain keberadaan kreditor
+juga dapat menjadi alternatif monitoring melalui
+penyedia dana eksternal yang memiliki dorongan
+dan kemampuan untuk memonitor aktivitas
+perusahaan (Larcker dan Richardson, 2006 dalam
+Jiang et al., 2008). Becker et al. (1996) menemukan
+bahwa tingkat hutang berhubungan negatif
+dengan nilai absolut akrual diskresioner.
+Semakin tinggi manajemen laba, berarti
+kualitas laba semakin buruk. Kualitas laba adalah
+sebagai proksi kualitas audit yang berarti dengan
+semakin rendah kualitas laba, kualitas audit juga
+semakin rendah dan sebaliknya. Maka dalam
+penelitian ini diperkirakan bahwa tingkat hutang
+bisa berpengaruh positif maupun negatif terhadap
+kualitas audit.
+Kerugian (LOSS)
+LOSS mencerminkan kondisi keuangan
+perusahaan. Perusahaan yang mengalami kerugian
+punya insentif lebih besar untuk melakukan
+manajemen laba dengan melakukan big bath
+(Kallapur et al, 2008). Manajemen laba yang semakin
+besar menunjukkan kualitas audit yang
+kurang baik. Sehingga hubungan LOSS dengan
+kualitas audit diprediksikan negatif.
+Cash Flow from Operation (CFO)
+CFO mencerminkan kondisi kas perusahaan.
+Perusahaan yang memiliki kondisi kas yang baik
+akan memiliki kualitas laba yang baik pula, begitu
+pula sebaliknya (Velury dan Jenkins, 2006). Lobo
+dan Zhou (2006), serta Becker et al., (1998)
+menyatakan bahwa perusahaan dengan kinerja
+arus kas operasional yang bagus memiliki kemungkinan
+yang lebih kecil untuk melakukan
+manipulasi laba yang tinggi secara artifisial.
+Sebaliknya, perusahaan dengan arus kas operasional
+yang buruk lebih mungkin melakukan
+manipulasi laba yang tinggi secara artifisial untuk
+mengirim signal positif bagi investor. Dalam penelitian
+ini diperkirakan bahwa CFO berpengaruh
+negatif terhadap kualitas audit.
+Teknologi Audit KAP (Big-4)
+Blokdijk et al. (2006) menyatakan bahwa
+kualitas audit adalah fungsi dari tiga faktor
+produksi, yaitu kualitas input, intensitas input dan teknologi yang tersedia untuk mentransformasi
+input menjadi output. Kualitas input ditunjukkan
+oleh keahlian, pengetahuan dan pengambilan
+keputusan dalam menyelenggarakan audit, seperti
+sumber daya manusia (O’Keefe et al.,1994).
+Intensitas input adalah jumlah jam kerja auditor
+dalam melaksanakan proses audit (Hackenbrack
+dan Knechel, 1997). Sedangkan teknologi auditor
+adalah audit program, audit software, dan teknologi
+lain yang membantu proses audit. Pada
+penelitian ini teknologi audit akan diukur dari
+afiliasi dengan KAP Asing. KAP yang memiliki
+afiliasi dengan Big 4 akan memperoleh audit
+program dan audit software serta peer review dari
+Big 4 dengan kualitas yang lebih baik dibandingkan
+dengan KAP lainnya. Sehingga
+ekspektasi penelitian ini adalah perusahaan yang
+diaudit oleh KAP yang merupakan affiliasi Big 4
+akan memiliki kualitas audit yang lebih baik
+dibandingkan dengan KAP non affiliasi.
+Risiko Pasar (MKT_RISK)
+Untuk mengukur risiko pasar dapat digunakan
+beta. Namun karena perhitungan ERC dapat
+menimbulkan multikolinieritas dengan BETA,
+maka digunakan standar deviasi return saham
+sebagai pengukur risiko pasar. Semakin besar
+risiko pasar, semakin besar risiko suatu perusahaan,
+semakin besar pula risiko auditnya. Ini
+berarti semakin tinggi risiko audit. Semakin
+rendah kualitas auditnya. Diprediksi koefisien
+MKT_RISK memiliki tanda negatif. MKT_RISK
+diukur dengan standard deviasi dari return saham
+mingguan (STDEV).
+Pengujian Model
+Pengujian dilakukan dengan balanced panel
+karena balanced panel mengakomodasi informasi
+baik yang terkait dengan variabel–variabel cross
+section maupun time series. Data panel secara
+substansial mampu menurunkan masalah omittedvariables
+(Gujarati, 2003). Dilakukan Hausman-
+Test untuk mengetahui apakah model tersebut
+menggunakan random effect atau fixed effect.
+Untuk data panel, hanya perlu diuji multikolinieritas,
+autokorelasi dan heteroscedacitas tidak perlu
+diuji.
+Multikolinieritas sering muncul pada model
+regresi berganda yang menggunakan variabel
+interaksi. Variabel interaksi adalah perkalian aritmatik
+dari dua atau lebih variabel bebas, sehingga
+akan berkolerasi tinggi dengan salah satu atau
+kedua variabel asalnya. Pada penelitian ini, bila
+ada masalah multikolinieritas akibat faktor interaksi
+diatasi dengan teknik centering (Cronbach,
+1987), di mana setiap nilai observasi data dari
+variabel dikurangi dengan nilai rata-rata (mean)
+dari observasi secara keseluruhan. Centering
+hanya dilakukan untuk variabel yang memiliki
+nilai Variance Inflation Factor (VIF) yang tinggi.
+Uji multikolinieritas dapat dilihat dari koefisien
+korelasi atau nilai VIF hasil regresi. Sesuai
+ketentuan disiplin ilmu statistik, nilai VIF yang
+baik harus lebih kecil dari 10 (Gujarati, 2003).
+Pada penelitian ini, untuk variabel yang merupakan
+hasil interaksi dari dua variabel, ada beberapa
+yang memiliki nilai VIF di atas 10. Multikolinieritas
+tetap ada walaupun sudah dilakukan
+centering. Menurut Gujarati (2003) jika ada masalah
+multikolinieritas dapat dilakukan dua cara
+yaitu tidak melakukan apa-apa dan mengikuti
+beberapa rule of thumb. Blanchard dalam Gujarati
+(2003) menyatakan bahwa multikolinieritas adalah
+God’s will, bukan merupakan masalah bagi
+OLS dan teknik statistik lainnya. Terkadang data
+yang tersedia memang mengandung multikolinieritas.
+Oleh karena itu, analisis statistik tetap
+dapat dilanjutkan. Alat statistic yang digunakan
+adalah eviews.
+HASIL PENELITIAN DAN PEMBAHASAN
+Sampel Penelitian
+Penelitian ini menggunakan sampel perusahaan
+yang terdaftar di Bursa Efek Indonesia
+(BEI) pada tahun 1999 sampai 2008. Metode
+pemilihan sampel adalah purposive sampling
+dengan kriteria perusahaan terdaftar di BEI
+selama periode observasi, tidak termasuk dalam
+industri keuangan (bank, sewa guna usaha, asuransi,
+investasi) karena industri tersebut memiliki
+struktur laporan keuangan yang berbeda sehingga
+ukuran kualitas laba yang digunakan tidak dapat
+disamakan dengan industri lainnya, mempunyai
+tanggal tutup buku 31 Desember, mempunyai
+data yang lengkap untuk pengukuran keseluruhan
+variabel. Prosedur pemilihan sampel dapat
+dilihat pada Tabel 4. Total sampel adalah 824
+perusahaan (103 perusahaan yang sama setiap
+tahun untuk ke-4 pengukuran kualitas audit).
+Statistik Deskriptif
+Tabel 5 menyajikan statistik deskriptif pada
+periode pra. Pada pra-regulasi, tenure KAP
+(TENURE) rata-rata 6.2 tahun, nilai maksimum
+21 tahun, minimum 1 tahun. Angka rata rata
+mendekati ketentuan maksimal tenure yang
+diijinkan oleh KMK yaitu 6 tahun. Pada periode
+praregulasi hanya sekitar 9% perusahaan sampel
+yang melakukan pergantian KAP, kebanyakan perusahaan hanya mengalami pergantian Audit
+Partner (32%). Perusahaan sampel yang diaudit
+oleh auditor spesialisasi dan yang bukan spesialis,
+jumlahnya berimbang yaitu 59% dan 41% dan
+sebagian besar perusahaan sampel (86%) diaudit
+oleh KAP yang termasuk dalam Big-4 (Big-5).
+Pada periore pascaregulasi, tenure KAP rill
+rata-rata adalah 6.93 tahun, minimum 1 tahun,
+dan maksimum 20 tahun. Persentase perusahaan
+sampel yang melakukan rotasi partner dan KAP
+mengalami peningkatan dibandingkan periode
+sebelum regulasi (50% dan 15% setelah regulasi
+dibandingkan 32% dan 9% sebelum regulasi).
+Perusahaan sampel yang diaudit oleh auditor
+spesialisasi dan yang bukan spesialis berimbang
+yaitu 50% dan 50%. Perusahaan sampel yang
+diaudit oleh KAP Big-4 (Big-5)mengalami penurunan
+yang signifikan dibandingkan sebelum
+regulasi (57% sesudah penerapan dan 86% sebelum
+penerapan).
+
+
+
+Ket: CFO t+1: Arus Kas Operasi (diskalakan terhadap total asset) untuk perusahaan i pada tahun t+1; INC: Laba
+sebelum pos luar biasa dan operasi yang dihentikan (diskalakan terhadap total asset) untuk perusahaan i pada tahun
+t; EPS: Laba per lembar saham; R: return saham; ABSDAC: Nilai absolut akrual diskresioner perusahaan i pada
+waktu t; CAR: Cummulative Abnormal Return selama periode 12 bulan yang berakhir pada 3 bulan setelah tahun
+fiscal; UE: Unexpected Earnings, merupakan selisih laba akuntansi yang direalisasi dengan laba akuntansi yang
+diekspektasi oleh pasar; TENURE: Jangka waktu penugasan KAP pada suatu perusahaan pada tahun tertentu
+(jumlah tahun).; ROTATION: 1 jika terjadi rotasi KAP riil, 0 tidak terjadi rotasi KAP rill; SPEC: dummy variabel, 1:
+jika perusahaan tergolong spesialis, 0 lainnya; BIG4: KAP yang mengaudit Perusahaan, 1:BIG-4, 0 lainnya; LEV:
+Total utang dibagi dengan total asset; GROWTH: Persentase pertumbuhan penjualan dari tahun sebelumnya; SIZE:
+Ukuran Perusahaan diukur dengan Total Aset; DLOSS: Dummy variabel, 1 apabila perusahaan mengalami kerugian,
+dan 0 lainnya; STDEV: Dummy variabel, 1 apabila perusahaan mengalami kerugian, dan 0 lainnya; CFO Arus Kas
+Operasi (diskalakan terhadap total asset) untuk perusahaan i pada tahun t.
+
+
+
+
+
+
+
+
+
+
+Hasil Regresi
+Pengaruh Tenure KAP terhadap Kualitas
+Audit
+Netralitas
+Tabel 6 menunjukkan hasil regresi untuk
+kualitas audit yang dilihat dari sisi netralitas
+(DAC). Pada periode praregulasi tidak ditemukan
+hubungan kuadratik antara tenure KAP dan
+kualitas audit. Hubungan yang ditemukan adalah
+linier positif antara TENURE dengan akrual
+diskresioner (DAC) atau dengan kata lain
+berhubungan negatif dengan kualitas audit yang
+dilihat dari sisi netralitas (lihat tabel 6). Semakin
+panjang tenure, semakin besar akrual diskresioner
+atau semakin rendah kualitas audit. Hal ini
+kemungkinan disebabkan karena dengan semakin
+panjangnya tenure, hubungan auditor dengan
+klien semakin dekat, sehingga independensi
+auditor menurun. Hasil ini konsisten dengan
+temuan Knechel dan Vanstraelen (2007) yang
+menemukan hubungan negatif antara tenure dan
+kualitas audit.
+Tabel 6. Hasil Regresi Model 1 (Netralitas)
+DepVar: DAC
+DAC = c + bTENURE + aTENURESQ
+Minimum point : -b/2a = -0.270/(2x-0.013) = 10.1 years
+Pada periope pascaregulasi, Tabel 6 menunjukkan
+bahwa variabel TENURE bernilai signifikan
+positif dan TENURESQ signifikan negatif.
+Hal ini menunjukkan bahwa TENURE verhubungan
+concave dengan akrual diskresioner
+(lihat gambar 4).
+Karena tenure berhubungan concave dengan
+akrual diskresioner, dimana akrual diskresioner
+berbanding terbalik dengan kulitas audit, maka
+dapat disimpulkan bahwa tenure berhubungan
+convex dengan kualitas audit (lihat gambar 5).
+Gambar 4. Hubungan Tenure KAP dan akarual
+diskresioner pascaregulasi (dari sisi netralitas)
+Gambar 5. Hubungan tenure KAP dan kualitas audit
+pada periode pascaregulasi (dari sisi netralitas)
+Titik minimum dari kurva tersebut, yaitu
+pada saat tenure KAP 10 tahun (perhitungan lihat
+pada tabel 6). Hal ini menunjukkan bahwa
+kualitas audit akan turun terus sampai masa
+penugasan KAP mencapai 10 tahun. Setelah 10
+tahun, baru kualitas audit akan naik. Dengan
+relatif lamanya waktu yang diperlukan sebelum
+kualitas audit naik (membutuhkan waktu 10
+tahun), sebenarnya pola hubungan antara tenure
+KAP dan kualitas audit dari sisi netralitas tidak
+berbeda antara periode pra dan pascaregulasi,
+sama-sama berhubungan negatif.
+Representational Faithfulness
+Tabel 7 menyajikan hasil pengujian dengan
+kualitas laba dari sisi Representational Faithfullness
+sebagai ukuran kualitas audit. Hasil pengujian
+menunjukkan bahwa pada periode pra dan
+pasca regulasi variable TENURE dan TENURESQ
+tidak signifikan yang artinya tidak ada
+hubungan antara panjangnya tenure dengan kualitas
+audit dari sisi Representational Faithfullness.
+
+
+
+
+
+Tabel 7. Hasil Regresi Model 2 (Representational
+Faithfullness)
+DepVar: CAR
+Predictability
+Tabel 8 menyajikan hasil pengujian dengan
+kualitas laba dari sisi predictability sebagai
+ukuran kualitas audit. Hasil pengujian juga
+menunjukkan bahwa variable TENURE dan
+TENURESQ tidak signifikan pada periode pra dan
+pasca regulasi, yang artinya tidak ada hubungan
+signifikan antara panjangnya tenure dengan kualitas
+audit dari sisi prediktability.
+Tabel 8. Hasil Regresi Model 3 (Prediktabilitas)
+Dep.Var: CFO
+Timeliness
+Tabel 9 menunjukkan bahwa pada periode
+pascaregulasi, variabel RTENURE signifikan
+negatif dan variabel TENURESQ signifikan
+positif. Hasil ini menunjukkan adanya hubungan
+kuadratik conveks antara tenure KAP dan kualitas
+audit dari sisi timeliness.
+Tabel 9. Hasil Regresi Model 4 (Timeliness)
+DepVar: EPS
+EPS = c + bRTENURE + aRTENURESQ
+Minimum point: -b/2a = -(-0.003) / (2x0.001) = 1.5 years
+Perhitungan diatas menunjukkan bahwa titik
+minimum adalah 1,5. Hasil ini menunjukkan
+bahwa pada 1.5 tahun awal penugasan, kualitas
+audit dari sisi timeliness turun dahulu, setelah itu
+kualitas audit akan naik.
+Temuan ini konsisten dengan temuan St.
+Pierre dan Anderson (1984) bahwa pada tiga
+tahun awal periode penugasan, kualitas audit
+masih rendah. Rendahnya kualitas audit karena
+auditor belum memahami kliennya secara mendalam
+(Francis dan Simon 1987; Balvers et al.
+1988; Beatty 1989; Craswell et al. 1995).
+Gambar 6. Hubungan tenure KAP dan kualitas audit
+pada periode pascaregulasi (dari sisi timeliness)
+Pengaruh Rotasi KAP terhadap Kualitas
+Audit
+Hipotesis 2 yang menyatakan bahwa rotasi
+KAP berpengaruh terhadap kualitas audit tidak
+terbukti pada penelitian ini, kecuali untuk kualitas
+audit yang dilihat dari sisi netralitas pada periode
+praregulasi (lihat variable ROTASI pada table 6)
+dan pada periode padcaregulasi untuk kualitas
+audit yang dilihat dari sisi timeliness. Tidak
+terbuktinya pengaruh rotasi KAP terhadap kualitas
+audit menunjukkan bahwa dengan adanya
+rotasi KAP, kualitas audit tidak berubah. Hal ini
+mungkin disebabkan karena dengan adanya rotasi
+KAP, disatu sisi independensi KAP meningkat
+(karena KAP dan klien belum terlalu familiar),
+namun di sisi lain kompetensi KAP masih rendah
+(karena KAP belum cukup memiliki pengetahuan
+mengenai risiko dan karakteristik bisnis klien).
+Peningkatan independensi sama besarnya dengan
+penurunan kompetensi, sehingga secara total,
+kualitas audit tidak berubah.
+Terbuktinya pengaruh rotasi terhadap kualitas
+audit yang dilihat dari sisi netralitas pada
+periode praregulasi menunjukkan bahwa pada
+periode praregulasi, jika terjadi rotasi KAP, maka
+akrual diskresioner akan meningkat, yang artinya kualitas audit turun. Hal ini mungkin disebabkan
+karena KAP yang baru belum cukup memiliki
+pengetahuan mengenai risiko dan karakteristik
+bisnis perusahaan sehingga terlalu tergantung
+pada asersi manajemen sehingga meningkatkan
+manajemen laba (Gul at al. 2007). Pada periode
+pascaregulasi untuk kualitas audit yang dilihat
+dari sisi timeliness juga ditemukan hasil yang
+sama bahwa ROTASI berpengaruh negative
+terhadap kualitas audit.
+Pengaruh Spesialisasi Audit terhadap
+Kualitas Audit
+Pada tabel 6 dapat dilihat bahwa pada
+periode praregulasi, variabel spesialisasi berpengaruh
+positif terhadap akrual diskresioner. Hasil ini
+menunjukkan bahwa semakin spesialis seorang
+auditor, maka semakin besar akrual diskresioner
+pada perusahaan yang diauditnya. Hubungan
+positif spesialisasi dengan akrual diskresioner
+berarti ada hubungan negatif antara spesialisasi
+dengan kualitas audit. Temuan ini bertentangan
+dengan prediksi awal dimana spesialisasi diprediksikan
+berhubunagn positif dengan kualitas audit.
+Hal ini mungkin disebabkan karena kurangnya
+independensi auditor spesialis. Selain mencerminkan
+tingginya kompetensi, spesialisasi juga mencerminkan
+independesi. Temuan ini sesuai dengan
+hasil penelitian Kallapur et al. (2008) mengenai
+efek audit market concentration terhadap kualitas
+audit di mana semakin tinggi market concentration,
+semakin rendah kualitas audit. Pada umumnya,
+KAP spesialis menguasai pangsa pasar pada
+suatu industri. Untuk mempertahankan market
+power di suatu industri tertentu, maka ada
+kemungkinan KAP spesialis terpaksa mengorbankan
+independensinya demi mempertahankan
+kliennya. Penurunan kualitas audit yang disebabkan
+karena penurunan independensi ini lebih
+besar dibandingkan kenaikan kualitas audit
+karena spesialisasinya. Jadi, walaupun auditornya
+spesialis, karena independensi mereka terganggu,
+kualitas audit justru turun.
+Setelah adanya regulasi, spesialisasi partner
+berpengaruh positif terhadap kualitas audit dari
+sisi prediktabilitas (Tabel 8). Dengan adanya
+aturan rotasi, terjadi perubahan tingkat konsentrasi
+pasar audit pada periode pascaregulasi.
+Berdasarkan penelitian Zef dan Siregar (2010),
+terjadi perubahan struktur pasar audit di
+Indonesia dari monopoli (2000-2001) menjadi
+oligopoli kuat sampai tahun 2005 (tahun penelitian
+hanya sampai 2005). Perubahan struktur
+pasar ini menyebabkan perubahan market concentration.
+Menurut Kallpur et al. (2008) semakin
+rendah market concentration, semakin tinggi
+kualitas audit. Dengan adanya regulasi, market
+concentration akan berkurang. Maka, auditor
+harus meningkatkan kualitas audit (spesialisasi)
+agar dapat bersaing di pasar audit (memperoleh
+klien baru).
+Variabel spesialisasi tidak memengaruhi
+tingkat representational faithullness (respons
+investor terhadap laba suatu perusahaan), baik
+sebelum maupun setelah regulasi diberlakukan.
+Hal ini mungkin disebabkan informasi mengenai
+spesialisasi industri auditor tidak dapat diketahui
+secara eksplisit oleh pasar seperti penjelasan
+berikut. Penentuan tingkat spesialisasi berbedabeda.
+Palmrose (1986) dan Dunn, dan Mayhew
+(2000) mengidentifikasi auditor spesialis berdasarkan
+dominasi KAP pada pangsa pasar dan
+penjualan klien di suatu industri. Hogan dan Jeter
+(1999) dan Mayhew dan Wilkins (2002) menentukan
+auditor spesialis berdasarkan dominasi total
+aset perusahaan klien di suatu industri. Balsam et
+al. (2003) menentukan auditor spesialis berdasarkan
+dominasi dalam jumlah klien dalam suatu
+industri. Perbedaan penentuan auditor spesialis
+ini juga diduga membuat pasar menginterpretasikan
+spesialis dengan cara yang berbeda-beda
+sehingga tidak tertangkap hubungan antara spesialisasi
+industri auditor dengan koefisien respons
+pasar.
+Untuk kualitas audit dari sisi timeliness,
+variable SPESIALISASI ditemukan berpengaruh
+positif terhadap kualitas audit baik sebelum
+maupun setelah regulasi (tabel 9). Hasil ini menunjukkan
+bahwa semakin spesialis auditor yang
+mengaudit suatu perusahaan, semakin baik kualitas
+audit dimana current return lebih mampu
+merefleksikan future earnings.
+KESIMPULAN DAN SARAN
+Pada periode praregulasi, hubungan tenure
+KAP dengan kualitas audit dari netralitas berbentuk
+linier negatif, yang artinya semakin
+panjang tenure KAP, semakin rendah kualitas
+audit. Untuk kualitas audit dari sisi lainnya,
+tenure KAP tidak ditemukan berpengaruh secara
+signifikan terhadap kualitas audit.
+Pada periode pascaregulasi, ditemukan
+hubungan kuadratik convex antara tenure KAP
+dan kualitas audit dari sisi netralitas dan timeliness.
+Dari sisi netralitas, pada awal penugasan
+audit, kualitas audit akan turun dahulu sampai 10
+tahun, baru kemudian naik. Sedangkan dari sisi
+timeliness, penurunan kualitas audit terjadi
+sampai tahun ke-1.5, setelah itu kualitas audit
+naik. Dari sisi representational faithfullness dan
+predictability, tenure KAP tidak signifikan memengaruhi
+kualitas audit.
+
+
+Untuk variabel rotasi, pada periode praregulasi,
+rotasi KAP ditemukan berpengaruh negatif
+terhadap kualitas audit dari sisi netralitas, belum
+ditemukan pengaruh terhadap pengukuran kualitas
+audit yang lain. Pada periode pascaregulasi
+ditemukan pengaruh positif rotasi KAP terhadap
+kualitas audit dari sisi timeliness. Sehingga dapat
+disimpulkan secara umum bahwa rotasi KAP
+belum berpengaruh terhadap kualitas audit.
+Temuan ini membuktikan bahwa aturan rotasi
+belum dapat meningkatkan kualitas audit, sehingga
+pemerintah perlu memikirkan langkahlangkah
+untuk meningkatkan kualitas audit.
+Regulasi mengenai rotasi KAP perlu dipertimbangkan
+kembali.
+Pada periode praregulasi, spesialisasi KAP
+berpengaruh negatif terhadap kualitas audit dari
+sisi netralitas, namun berpengaruh positif dari sisi
+timeliness. Kondisi pada praregulasi bertentangan
+dengan prediksi awal, kemungkinan walaupun
+auditor spesialis, namun memiliki independensi
+yang rendah sehingga kualitas audit juga rendah.
+Hal ini mungkin disebabkan karena adanya usaha
+auditor spesialis untuk mempertahankan market
+power di suatu industri tertentu yang mengakibatkan
+penurunan independensi.
+Pada periode pascaregulasi, spesialisasi KAP
+meningkatkan kualitas audit dari sisi prediktabilitas
+dan timeliness. Hal ini kemungkinan karena
+adanya regulasi rotasi dan aturan pembatasan
+jasa non-audit serta semakin meningkatnya standar
+audit sehingga menyebabkan peningkatan
+independensi dan kompetensi auditor spesialis.
+Keterbatasan penelitian ini antara lain: penelitian
+ini menggunakan sampel hanya perusahaan
+yang terdaftar di Bursa Efek Indonesia, maka
+generalisasi hasil penelitian pada perusahaan tertutup
+harus dilakukan secara hati-hati. Kualitas
+audit sangat sulit diukur, penelitian ini menggunakan
+kualitas laba sebagai proksi dari kualitas
+audit yang banyak digunakan peneliti sebagai
+proksi kualitas audit. Penelitian selanjutnya dapat
+menggunakan proksi kualitas audit yang lain yang
+lebih merepresentasikan kualitas audit, misalnya
+memasukkan unsur kepatuhan pada Standar
+Profesional Akuntan Publik (SPAP). Penelitian ini
+belum memasukkan aspek Corporate Governance
+(CG) di dalam model seperti efektifitas komite
+audit, struktur kepemilikan saham perusahaan,
+efektifitas komisaris, indeks CG, dan lain lain.
+Dapat juga dilakukan pengujian dengan mempertimbangkan
+perbedaan karakteristik antar-industri.
+ 
+

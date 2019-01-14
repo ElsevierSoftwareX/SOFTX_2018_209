@@ -1,0 +1,363 @@
+﻿DAMPAK PROGRAM BANTUAN SOSIAL
+TERHADAP PERTUMBUHAN EKONOMI DAN
+KEMISKINAN KABUPATEN TERTINGGAL DI
+INDONESIA
+
+Abstrak: Persoalan daerah tertinggal dan masalah ketimpangan pembangunan
+merupakan permasalahan disparitas wilayah yang membahayakan kesatuan nasional.
+Tujuan penelitian ini adalah mengkaji dinamika kemiskinan dan dinamika bantuan
+sosial di daerah tertinggal, menganalisis pengaruh bantuan sosial Kementerian daerah
+tertinggal terhadap pertumbuhan ekonomi di daerah tertinggal, dan menganalisis
+hubungan antara pertumbuhan ekonomi dengan penurunan kemiskinan di kabupaten
+tertinggal di Indonesia. Hasil penelitian menunjukkan terjadi dinamika kenaikan dan
+penurunan penduduk miskin di daerah tertinggal di Indonesia dalam kurun waktu
+tahun 2010-2013. Dari hasil analisis regresi model data panel pertumbuhan ekonomi
+diketahui bahwa variabel bantuan kelembagaan sosial dan budaya, bantuan
+infrastruktur, dan bantuan ekonomi dan dunia usaha signifikan meningkatkan
+pertumbuhan ekonomi di daerah tertinggal, sedangkan bantuan sumberdaya manusia
+dan bantuan daerah khusus tidak signifikan didalam meningkatkan pertumbuhan
+ekonomi di daerah tertinggal. Dari hasil analisis regresi model data panel kemiskinan
+diketahui bahwa variable PDRB tidak signifikan mempengaruhi tingkat kemiskinan,
+yang signifikan mempengaruhi tingkat kemiskinan di daerah tertinggal adalah variabel
+jumlah pengangguran, IPM, dan share sektor jasa
+Kata Kunci: Daerah tertinggal, bantuan sosial, kemiskinan, pertumbuhan ekonomi,
+data panel
+
+Pendahuluan
+Persoalan daerah tertinggal adalah salah satu dampak dari masalah
+ketimpangan pembangunan yang dapat membahayakan kesatuan nasional. Menurut
+Bappenas, daerah tertinggal ditandai dengan rendahnya aksesibilitas pelayanan
+sarana dan prasarana ekonomi dan sosial serta letak geografis yang relatif terpencil
+atau wilayah yang miskin sumberdaya alam atau rawan bencana (Bappenas, 2013).
+Secara makro ketimpangan pembangunan yang signifikan terjadi antara desa-kota,
+antara Kawasan Timur Indonesia (KTI) dan Kawasan Barat Indonesia (KBI), antara
+wilayah Jawa dan luar Jawa, dan sebagainya (Bappenas, 2013).
+Sejak tahun 2009 diberikan dana bantuan sosial kepada daerah tertinggal
+dengan total Rp 1,41 triliun sampai tahun 2013(Kementerian PDT, 2013). Dana
+bantuan sosial diberikan untuk mempercepat pembangunan daerah tertinggal,
+kegiatan yang dilakukan diarahkan pada sektor produktif atau investasi pada bidang
+social overhead, seperti pembangunan jalan, fasilitas kesehatan, pendidikan dan
+prasarana infrastruktur lainnya (Aziz, 1994).
+Rata-rata pertumbuhan ekonomi daerah tertinggal berfluktuatif dengan ratarata
+5 persen pertahun, dengan tingkat kemiskinan yang masih tinggi dari rata-rata
+kemiskinan nasional yaitu 16,13 persen. Kebijakan percepatan pembangunan daerah
+tertinggal sangat diperlukan mengingat masih banyaknya kabupaten yang masuk
+kategori sebagai daerah tertinggal, yakni 133 kabupaten atau 32,2 persen dari jumlah
+kabupaten di Indonesia.
+Studi mengenai dampak pemberian bantuan sosial perlu dilakukan untuk
+mengetahui sejauh mana efektifitas dari pemberian bantuan sosial tersebut dalam
+mengatasi permasalahan daerah tertinggal. Berdasarkan kondisi tersebut, tujuan
+penelitian ini adalah : (1) Mengkaji dinamika kemiskinan, perekonomian, dan bantuan
+sosial di kabupaten tertinggal di Indonesia (2) Menganalisis pengaruh program
+bantuan sosial Kementerian PDT terhadap pertumbuhan ekonomi kabupaten
+tertinggal di Indonesia, (3) Menganalisis hubungan antara pertumbuhan ekonomi
+dengan penurunan kemiskinan di kabupaten tertinggal di Indonesia.
+Metode Penelitian
+Jenis dan Sumber Data
+Data yang digunakan dalam penelitian ini adalah data sekunder dari berbagai
+publikasi Badan Pusat Statistik (BPS), diantaranya publikasi PDRB, angka IPM,
+jumlah penduduk miskin, jumlah penduduk, tingkat pengangguran, share sektor pertanian, industri dan jasa. Data mengenai bantuan sosial yang digunakan dalam
+penelitian ini bersumber dari Kementrian PDT.
+Teknik Analisis Data
+Analisis Deskriptif – Kualitatif
+Analisis deskriptif didalam penelitian ini digunakan untuk mengkaji dinamika
+kemiskinan, perekonomian dan dana bantuan sosial di kabupaten tertinggal yang
+merujuk pada data tingkat kemiskinan, pertumbuhan ekonomi dan data bantuan
+sosial dari data BPS dan Kementerian PDT dari tahun 2009 sampai dengan 2013
+pada daerah-daerah tertinggal yang berada di wilayah Barat (KBI) maupun Timur
+Indonesia (KTI).
+Analisis Kuantitatif – Regresi Data Panel
+Pada penelitian ini analisis regresi yang digunakan adalah analisis regresi data
+panel yaitu data time series selama 5 tahun bantuan sosial KPDT, serta data cross
+section dari masing-masing kabupaten tertinggal di Indonesia. Variabel-variabel lain
+yang mempengaruhi pertumbuhan ekonomi juga dimasukkan didalam model ini.
+Pemilihan faktor-faktor yang mempengaruhi pertumbuhan ekonomi, didasarkan oleh
+berbagai variabel yang digunakan dalam penelitian-penelitian terdahulu, dimana
+variabel-variabel tersebut berpengaruh signifikan terhadap pertumbuhan ekonomi:
+PDRBit = β0+ β1 Lag PDRB it +β2POPit+ β3bantuan Daerah khususit+ β4 bantuan
+Infrasit+ β5 bantuan ekonomiit + β6 bantuan sdmit + β7 bantuan
+kelembagaan it + ε it
+PDRBit = PDRB kabupaten ke-i periode ke-t (Rp)
+bantuan sdm it = bantuan pengembangan sumberdaya kabupaten ke-i tahun ke-t (Rp)
+bantuan Infras it = bantuan infrastruktur kabupaten ke-i tahun ke-t (Rp)
+bantuan ekonomi it = bantuan ekonomi dan dunia usaha kabupaten ke-i tahun ke-t (Rp)
+Bantuan daerah khusus it = bantuan pengembangan daerah khusus kabupaten ke-i tahun ke-t (Rp)
+bantuan kelembagaan it = bantuan sosial dan kelembagaan kabupaten ke-i tahun ke-t
+POP it = pertumbuhan penduduk kabupaten ke-i tahun ke-t (ribu jiwa)
+Lag PDRB it = Nilai PDRB tahun sebelumnya kabupaten ke-i tahun ke-t (Rp)
+Sedangkan model data panel untuk kemiskinan dalam penelitian ini adalah sbb:
+(Y) it = β0 +β1 PDRBit + β2Pengangguranit + β3 IPMit + β4share sector pertanian it +
+β5 share sektor industri it + β6 share sektor jasa it + εit
+Y it = Tingkat kemiskinan kabupaten ke-i periode ke-t (%)
+PDRB it = PDRB Kabupaten ke-i periode ke-t (Rp)
+Pengangguran it = Tingkat pengangguran kabupaten ke-i periode ke-t (%)
+IPM it = Nilai IPM kabupaten ke-i periode ke-t (indeks)
+Agrishare it = Share sektor pertanian dalam PDRB (%)
+Industri Share it = Share sektor industri dalam PDRB (%)
+Jasa Share it = Share sektor jasa dalam PDRB (%)
+
+Hasil Dan Pembahasan
+Dinamika Kemiskinan, Pertumbuhan Ekonomi dan Bantuan Sosial di KBI dan KTI
+1.Dinamika Kemiskinan
+Rata-rata penurunan kemiskinan tertinggi di KBI adalah Provinsi Sumatera
+Barat sebesar 9 persen. Penurunan penduduk miskin diiringi dengan peningkatan
+perekonomian, dimana rata-rata pertumbuhan ekonomi tahun 2009-2013 sebesar
+6,05 persen, lebih tinggi dari rata-rata pertumbuhan ekonomi daerah tertinggal di KBI
+4,95 persen. Ketimpangan antar golongan masyarakat tidak terlalu besar, disebabkan
+mata pencaharian alternatif memberikan sumbangan cukup besar terhadap
+pendapatan rumah tangga, khususnya rumah tangga miskin yang menyebabkan
+tingkat ketimpangan di sumatera barat tidak terlalu besar (Amar, 2002).
+Provinsi Sumatera Utara dan Kepulauan Riau mengalami peningkatan
+persentase jumlah penduduk miskin, dengan rata-rata peningkatan sebesar 14 persen
+dan 21 persen. Peningkatan kemiskinan diiringi dengan kecilnya pertumbuhan
+ekonomi di Kepulauan Riau yaitu 3,22 persen yang paling rendah dibandingkan
+dengan 10 provinsi lainnya yang berada di KBI. Pertumbuhan ekonomi yang kecil
+juga dialami Provinsi Sumatera Utara yaitu sebesar 4,04 persen. Artinya terdapat
+korelasi antara peningkatan persentase kemiskinan dengan pertumbuhan ekonomi di
+kedua provinsi tersebut. Rendahnya pertumbuhan ekonomi antara lain disebabkan
+kecilnya nilai tambah sektor unggulan daerah, kecilnya peningkatan pengeluaran
+pemerintah, dan tingginya tingkat pengangguran ( Simamora dan Sirojuzilam, 2008)
+Provinsi Kalimatan Timur mengalami penurunan persentase penduduk miskin
+paling tinggi di KTI yaitu 11 persen. Penurunan kemiskinan diiringi dengan
+peningkatan pertumbuhan ekonomi sebesar 6,25 persen. Penerapan Kebijakan progrowth,
+pro-poor dan pro-human development mampu meningkatkan kesejahteraan
+masyarakat, ditandai dengan peningkatan pertumbuhan PDRB perkapita secara
+signifikan, peningkatan indeks IPM serta menurunnya persentase penduduk miskin di
+hampir seluruh kabupaten di Kalimantan timur (Amarullah, 2012).
+2.Dinamika Pertumbuhan Ekonomi
+Rata-rata pertumbuhan ekonomi kabupaten tertinggal di Kawasan Barat
+Indonesia adalah 4,95 persen selama periode 2009-2013. Rata-rata tertinggi dicapai
+oleh Provinsi Jawa Timur, dengan nilai pertumbuhan 6,12 persen. Sektor yang
+memicu perkembangan perekonomian di jawa Timur adalah jasa pengangkutan dan
+sektor bahan-bahan setengah jadi yang mampu menyumbang output 125 Trilyun
+bagi Jawa Timur (I dewa, 2013)
+Rata-rata pertumbuhan ekonomi terendah adalah Kepulauan Riau dengan
+3,22 persen. Kabupaten Natuna dan Kepulauan Anambas di kepualauan riau memiliki
+tingkat pertumbuhan yang selalu meningkat, hanya saja persentase pertumbuhannya
+tidak signifikan. Sektor yang berkembang adalah industri pengolahan, namun masih
+terdesentralisasi di Kota Batam, sehingga multiplier efek nya tidak berimbas pada
+kabupaten tertinggal. Berkembangnya sektor industri menyebabkan kontribusi sektor
+pertanian dalam perekonomian semakin kecil, sedangkan tenaga kerja masih
+dominan berada disektor pertanian, inilah yang menyebabkan mengapa
+pertumbuhan ekonomi menjadi lambat di Kepulauan Riau ( Maryanti, 2009).
+
+Gambar 1 Rata-Rata Pertumbuhan Ekonomi Kabupaten Tertinggal Di Kawasan Barat
+Indonesia Tahun 2009-2013 (Persen)
+Persentase pertumbuhan ekonomi daerah tertinggal di KTI adalah 6,93
+persen. Rata-rata Pertumbuhan ekonomi tertinggi adalah Papua Barat dengan 27,12
+persen. Kondisi berbeda terjadi di Provinsi Papua yang mengalami penurunan
+pertumbuhan ekonomi sebesar 3,14 persen.
+Gambar 2 Rata-Rata Pertumbuhan Ekonomi Kabupaten Tertinggal Di Kawasan Timur Indonesia
+Tahun 2009-2013 (Persen)
+Kabupaten Mimika merupakan penyumbang terbesar PDRB Provinsi Papua
+namun tidak mampu keluar dari kondisi status tertinggal, walaupun potensi
+sumberdaya alam tambang emas yang dimilikinya sangatlah berpotensi untuk
+mensejahterakan masyarakatnya. Disisi lain kebijakan otonomi khusus yang
+diberikan untuk provinsi belum berhasil meningkatkan perekonomian dan
+kesejahteraan masyarakat. Kegagalan tersebut antara lain disebabkan : (1) adanya
+ketidaksamaan dalam pemahaman dan persepsi tentang otonomi khusus antara
+pemerintah daerah, pemerintah pusat, dan masyarakat, (2) terlambatnya penyusunan
+peraturan pelaksanaan baik dalam bentuk peraturan pemerintah (PP), Peraturan
+Daerah (Perda), (3) kebijakan otonomi khusus membuka peluang bagi beberapa pihak
+yang tidak bertanggung jawab untuk melakukan korupsi dan pemborosan dana
+otonomi khusus ( Wulandari dan Sulistio, 2013).
+
+3.Dinamika Bantuan Sosial
+Sampai tahun 2013 telah diberikan bansos ke 183 daerah dengan persentase
+untuk pengembangan SDM sebanyak 5 persen, peningkatan infrastruktur 36 persen,
+pembinaan ekonomi dan dunia usaha 20 persen, pembinaan lembaga sosial dan
+budaya 4 persen dan pengembangan daerah khusus sebanyak 35 persen.
+Gambar 3 Persentase Dari Masing-Masing Bantuan Sosial yang Disalurkan Kementerian PDT
+Tahun 2010-2013
+Bantuan pembangunan infrastruktur merupakan bantuan yang paling besar
+diberikan untuk daerah tertinggal. Bantuan Pembangunan infrastruktur daerah
+tertinggal melalui penyediaan sarana dan prasarana transportasi, informasi dan
+telekomunikasi, sosial, ekonomi dan energi diharapkan menjadi stimulan kegiatan
+utama perekonomian. Percepatan pembangunan infrastruktur daerah tertinggal
+sangat diperlukan untuk mengurangi ketimpangan pembangunan dengan daerah non
+tertinggal. Bantuan infrastruktur ekonomi seperti pembangunan jaringan jalan,
+transportasi, listrik, berkontribusi terhadap output kedaerahan, pendapatan dan
+pertumbuhan lapangan kerja, serta meningkatkan kualitas hidup. Pengeluaran di
+bidang infrastruktur berpengaruh secara positif terhadap kinerja makro ekonomi
+karena kenaikan biaya pengeluaran di bidang infrastruktur mengurangi biaya
+produksi perusahaan, menstimulasi investasi, produktivitas dan pertumbuhan
+ekonomi. Dalam hal ini pemerintah tidak menciptakan lapangan kerja secara
+langsung namun membantu menciptakan suasana kondusif dalam investasi.
+70 persen dari total bantuan infrastruktur diberikan untuk daerah tertinggal di
+KTI, dan 30 persen diberikan untuk daerah tertinggal di KBI. Bantuan infrastruktur
+paling besar diberikan untuk provinsi Nusa Tenggara Timur. Ketertinggalan
+pembangunan di provinsi NTT cukup tinggi, dimana semua kabupaten yang ada di
+Provinsi NTT masuk dalam status kabupaten tertinggal. Berbagai program dilakukan
+untuk meningkatkan pembangunan di NTT, namun terdapat berbagai keterbatasan
+untuk mengembangkan potensi daerah NTT ( Wehelmina et al, 2013), antara lain
+sarana transportasi dan pelabuhan laut yang mengakibatkan 5 (lima) pulau terdepan
+NTT tidak dapat dimanfaatkan potensinya secara baik. Sarana perhubungan antar
+pulau besar ke pulau kecil masih sangat terbatas dan tradisional.
+Bantuan infrastruktur untuk provinsi NTT dilakukan untuk pembangunan
+perumahan dan pemukiman, pembangunan air minum, serta pembangunan sanitasi.
+Infrastruktur sosial secara mendetail dilakukan di Flores Timur dan Ende dengan pengembangan infrastruktur sarana dan prasarana air bersih. Pembangunan ekonomi
+produktif juga dilakukan, yaitu peruntukan kawasan pertanian yang terdiri atas
+kawasan tanaman pangan, hortikultura dan perkebunan seperti cengkeh, kelapa,
+kopi, jambu mete, vanili dan kemiri. Produk pertanian tanaman pangan adalah salah
+satu sektor utama bagi peningkatan ketahanan pangan dan kesejahteraan petani di
+NTT. Di beberapa Kabupaten seperti di kabupaten Ngada dikembangkan industri
+pembuat tepung pisang, yang diberikan di Kecamatan Golewa, Watuwawi Desa Were
+III dan Desa Sobo. Infrastruktur penunjang seperti pembangunan irigasi juga
+dibangun, antara lain di kabupaten Sumba Timuruntuk rehabilitasi irigasi di Kambera
+Kelurahan Mauliru dan Kelurahan Lambanapu.
+Analisis Pengaruh Bantuan Sosial Terhadap Perekonomian Kabupaten Tertinggal
+Hasil Estimasi menunjukkan bahwa bantuan infrastruktur, bantuan ekonomi
+dan dunia usaha, dan bantuan kelembagaan sosial pada taraf nyata 5 persen
+mempengaruhi tingkat pertumbuhan ekonomi di kabupaten tertinggal. Sedangkan
+bantuan sumberdaya manusia dan bantuan daerah khusus tidak signifikan
+mempengaruhi pertumbuhan ekonomi.
+Tabel 1 Hasil Estimasi Pengaruh Bantuan Sosial Terhadap Pertumbuhan Ekonomi
+Variabel Koefisien t-Stat Prob
+Intercept -1395,689 -38,26774 0,0000
+Jumlah Penduduk 0,002015 24,36362 0,0000
+Bantuan Daerah Khusus
+2,38 E-08
+0,636428 0,5423
+Bantuan Infrastruktur
+18,87898
+2,348317 0,0468
+Bantuan Ekonomi
+1,03E-08
+3,465684 0,0085
+Bantuan SDM
+1,35E-07
+1,055130 0,3222
+Bantuan kelembagaan Sosial
+9,49 E-06
+9,182494 0,0000
+Lag Pdrb
+9,428536
+51,85352 0,0000
+R2 0,995821
+Adjusted R2 0,992164
+F-Stat 272,3222
+Prob(F-Stat) 0,000000
+DW-Stat 1,709869
+Koefisien regresi jumlah penduduk 0,002015, artinya setiap kenaikan seribu
+jumlah penduduk meningkatkan nilai pdrb sebesar 0,002015 miliar. Pertumbuhan
+ekonomi dipengaruhi oleh dua faktor, yaitu faktor ekonomi, dan faktor non ekonomi
+salah satunya adalah faktor kependudukan (Jhingan, 2000). Penduduk merupakan
+unsur penting dalam usaha untuk meningkatkan produksi dan mengembangkan
+kegiatan ekonomi (Sukirno,1985). Jumlah penduduk yang terus bertambah akan
+memperbesar jumlah tenaga kerja, dan pertumbuhan tersebut memungkinkan negara
+atau daerah untuk menambah produksi (Rosyetti, 2009). Hasil analisis ini didukung
+oleh hasil penelitian sebelumnya oleh Savas (2008) yang menyatakan bahwa terdapat
+hubungan yang kuat dan positif antara pertumbuhan penduduk dengan pertumbuhan
+ekonomi.
+Koefisien regresi bantuan infrastruktur 18,87898. Artinya, setiap kenaikan 1
+Miliar bantuan meningkatkan nilai PDRB 18,87898 miliar. Perpres No 90 Tahun
+2006, menjadi dasar hukum pelaksanaan Percepatan Pembangunan Infrastruktur Pedesaan Daerah Tertinggal (P2IPDT), P2IPDT merupakan kegiatan pokok dari
+pemerintah kepada daerah tertinggal di bidang pembangunan infrastruktur melalui
+penyediaan sarana dan prasarana transportasi, informasi dan telekomunikasi, sosial,
+ekonomi dan energi. Canning dan Pedroni (1999) serta Seetanah, Ramessur dan
+Rojid (2009) menyatakan bahwa infrastruktur transportasi merupakan infrastruktur
+yang menyumbang kontribusi terbesar pada pertumbuhan. Efek pembangunan
+infrastruktur terhadap perekonomian akan dirasakan dalam jangka menengah dan
+jangka panjang (Sari, 2011).
+Koefisien regresi bantuan kelembagaan dan sosial 9,49 E-06, artinya kenakan 1
+miliar bantuan meningkatkan nilai PDRB sebesar 9,49 miliar. Muhammad dan Sufri
+(2013) menyatakan bahwa dalam rangka menunjang kelembagaan masyarakat desa,
+dilakukan kegiatan : (1) pelatihan partisipatif kelompok, dan (2) sosialisasi serta
+pendampingan. Penguatan kelembagaan melalui kegiatan pendampingan
+dibutuhkan untuk penguatan kelembagaan masyarakat desa dan kegiatan
+pemberdayaan. Kegagalan suatu program bisa terjadi karena tidak adanya
+pendampingan ataupun karena pendampingan tersebut dilakukan oleh orang yang
+kapasitasnya terbatas. Program dan kegiatan diarahkan untuk meningkatkan
+kapasitas kelembagaan masyarakat desa melalui pengembangan kualitas SDM dan
+penguatan organisasi masyarakat desa, dilakukan dengan pemberiaan pembinaan,
+pengendalian, evaluasi dan penyusunan laporan kegiatan lembaga, dan dilaksanakan
+dengan kerjasama antara kementerian PDT, pendamping manajemen nasional
+(PMN), tenaga pendamping provinsi (TPP), tenaga pendamping kabupaten (TPK),
+tenaga fasilitator desa (TFD), serta instansi terkait lainnya (Kementerian PDT, 2013).
+Koefisien regresi bantuan ekonomi dan dunia usaha 1,03E-08, artinya adalah
+kenaikan bantuan 1 miliar akan meningkatkan nilai PDRB sebesar 1,03 miliar.
+Kegiatan terkait bantuan ini adalah pengembangan produk atau komoditas unggulan
+daerah, pemberian bantuan kredit dengan syarat yang tidak memberatkan, , bantuan
+keahlian, penyuluhan, dan melalui usaha-usaha pengembangan kewirausahaan.
+Pengembangan komoditas unggulan memberikan nilai tambah yang tinggi sehingga
+meningkatkan perekonomian masyarakat (Azwartika dan Sardjito. 2013), ditambah
+dengan kemudahan akses untuk mendapatkan kredit usaha tani menyebabkan
+meningkatnya produktifitas kegiatan usaha tani masyarakat (Sisilia , Aritonang,
+Kurniati, 2012). Pengembangan produk atau komoditas unggulan daerah menjadi
+program utama bantuan ekonomi dan dunia usaha, seperti yang dilakukan di Nusa
+Tenggara Timur dan Sumatera Selatan, dimana dikembangkan perkebunan kakao,
+karet, jagung dan penangkapan ikan untuk membantu perekonomian masyarakatnya.
+Analisis Pengaruh Pertumbuhan Ekonomi Terhadap Penurunan Kemiskinan Di Kabupaten
+Tertinggal Di Indonesia
+Hasil estimasi menunjukkan bahwa variabel PDRB tidak signifikan
+mempengaruhi tingkat kemiskinan di daerah tertinggal. Variabel yang signifikan
+mempengaruhi tingkat kemiskinan di daerah tertinggal adalah tingkat pengangguran,
+ipm, dan share sektor jasa
+Variabel tingkat pengangguran berkorelasi positif terhadap jumlah penduduk
+miskin di kabupaten tertinggal di Indonesia. Nilai koefisien regresi pengangguran
+sebesar 0,306213 yang berarti setiap kenaikan pengangguran sebesar 1 persen, akan
+meningkatkan jumlah penduduk miskin sebesar 0.306213 persen. Ditingkat regional
+sektor non riil tumbuh sangat cepat sedangkan sektor riil yang mampu menyerap
+tenaga kerja malah tumbuh lambat (BPS, 2014). Dengan lambatnya pertumbuhan
+sektor riil daya serap tenaga kerja menjadi sangat rendah, ditambah dengan kenaikan harga BBM semakin menurunkan daya saing sektor riil dan semakin menurunkan
+kemampuan daya beli masyarakat. Rendahnya daya serap perekonomian terhadap
+tenaga kerja berakibat semakin meningkatnya tingkat pengangguran, yang diiringi
+dengan peningkatan tingkat kemiskinan. Untuk mengurangi tingkat pengangguran
+akibat rendahnya pertumbuhan sektor riil maka pemerintah harus menciptakan
+pertumbuhan ekonomi tinggi dan berkualitas untuk menyerap tenaga kerja. Kualitas
+SDM didaerah tertinggal menunjukkan peningkatan yang dapat dilihat dari
+peningkatan kualitas hidup dan mutu pendidikan, meskipun masih belum merata
+dibeberapa wilayah tertentu (Mangedaby dan Sugiri, 2014). Beberapa hal yang
+menyebabkan kondisi ini antara lain belum tersedianya pendidikan dasar secara
+merata di daerah tertinggal. kondisi ini menyebabkan banyaknya tenaga kerja yang
+tidak berkualitas dan munculnya kelompok pengangguran yang permanen (Lukman,
+2009).
+Nilai koefisien regresi IPM sebesar -1.477 yang berarti setiap kenaikan 1
+indeks IPM akan menurunkan jumlah penduduk miskin sebesar 1, 477 persen. Hasil
+evaluasi RPJMN 2010-2014 oleh BAPPENAS, peningkatan kualitas SDM di daerah
+tertinggal ditunjukkan dengan peningkatan rata-rata indeks pembangunan manusia
+menjadi 67,48 (Bappenas 2014). Program peningkatan kualitas SDM berada di bawah
+Deputi 1 Kementerian PDT, kegiatan yang dilakukan adalah pemberdayaan dan
+pelatihan untuk meningkatkan keterampilan masyarakat. Hasil studi oleh Eleonora,
+Muhammad, Arip (2014) dengan judul human development and poverty in Papua
+province, juga menyatakan bahwa pemberian bantuan untuk peningkatan pendidikan
+dan kualitas kesehatan dapat meningkatkan kualitas sumberdaya manusia dan dapat
+menurunkan kemiskinan.
+Tabel 2 Hasil Estimasi Model Kemiskinan
+Variabel Koefisien t-Stat Prob
+Intercept 150,3139 6,681331 0,0000
+PDRB -1,51E-06 -0,066362 0,9471
+Pengangguran 0,306213 1,779405 0,0758
+IPM -1,477162 -4,384534 0,0000
+Jasa -0,035118 -2,659057 0,0000
+Industri -0,001950 -0,559357 0,5762
+Agrishare -0,001569 -0,258120 0,7964
+R2 0,993351
+Adjusted R2 0,990809
+F-Stat 390.8981
+Prob(F-Stat) 0,000000
+DW-Stat 1,895216
+Koefisien regresi sektor jasa -0,035118 , artinya 1 persen kenaikan nilai
+sektor jasa dalam pdrb akan menurunkan tingkat kemiskinan dikabupaten tertinggal
+0,035118 persen. Struktur pertumbuhan ekonomi Indonesia pada umumnya lebih
+banyak dihela oleh pertumbuhan di sektor nontradble (jasa) dan konsumsi. Pada saat
+terjadi krisis 1997-1998, sektor jasa merupakan salah satu sektor yang mampu
+bertahan dan dapat menyerap tenaga kerja, khususnya tenaga kerja yang pindah dari
+sektor formal ke sektor informal (Suradi, 2011). Sektor informal dalam sektor jasa
+memiliki keunggulan, yaitu merupakan sektor yang dinilai tahan terhadap resesi dan
+dapat menjadi kekuatan ekonomi nasional (Kasali, 2010). Di Negara berkembang seperti indonesia sektor informal memang lebih banyak menyerap tenaga kerja
+dibandingkan dengan sektor formal ( Suradi, 2011). Pada tahun 2010 sekitar 90,8 juta
+penduduk Indonesia bekerja di sektor informal, jumlah tersebut sekitar 50,7 juta
+merupakan jenis usaha informal (Kasali, 2010).
+Kesimpulan Dan Saran
+Kesimpulan
+1. Dinamika penduduk miskin dan pertumbuhan ekonomi antara KBI dan KTI
+berfluktuasi selama tahun 2010-2013. Dinamika bantuan sosial , jika dilihat dari
+share bansos selama tahun 2010-2013, bantuan infrastruktur menjadi bantuan
+yang mempunyai porsi paling besar dalam pembagian bansos.
+2. Bantuan sosial yang signifikan mempengaruhi pertumbuhan ekonomi daerah
+tertinggal adalah bantuan ekonomi dan dunia usaha, bantuan kelembagaan sosial
+budaya, dan bantuan infrastruktur.
+3. PDRB daerah tertinggal tidak signikan mempengaruhi tingkat kemiskinan di
+daerah tertinggal. Variabel yang signifikan mempengaruhi Tingkat kemiskinan
+didaerah tertinggal adalah tingkat pengangguran, IPM, dan share sektor jasa.

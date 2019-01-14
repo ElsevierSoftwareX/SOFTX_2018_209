@@ -1,0 +1,977 @@
+﻿
+ 
+
+IMPLEMENTASI UJI COBA MODUL-MODUL STATISTIKA 
+
+BERBASIS SPREADSHEET UNTUK MAHASISWA 
+
+JURUSAN AKUNTANSI POLITEKNIK 
+
+Abstrak 
+
+Tujuan penelitian ini untuk mengetahui hasil penilaian ahli terhadap draf modul-modul mata 
+kuliah statistika berbasis spreadsheet untuk mahasiswa Jurusan Akuntansi Politeknik yang telah 
+dihasilkan pada penelitian tahap sebelumnya (tahap pertama), untuk mengetahui bagian dari 
+modul yang perlu direvisi, dan untuk mengetahui hasil uji coba terbatas dari draf modul-modul 
+tersebut. Instrumen yang digunakan untuk penilaian terdiri atas lima aspek yaitu aspek 
+pendahuluan, pembelajaran, isi, tugas, evaluasi, penilaian, dan rangkuman. Uji coba terbatas 
+dilakukan pada dua kelompok mahasiswa Jurusan Akuntansi Politeknik Negeri Bali. Hasil 
+penelitian menunjukkan penilaian ahli materi yaitu secara keseluruhan modul-modul 
+dikategorikan baik dan tiap-tiap modul dari tujuh modul dikategorikan baik. Bagian dari modul-modul yang perlu direvisi terutama dalam hal kecukupan contoh yang disertakan pada aspek isi, 
+tingkat kesulitan soal pada aspek tugas, evaluasi, penilaian, dan ketepatan dalam penjelasan 
+materi teoritis pada aspek pembelajaran. Hasil uji coba secara keseluruhan modul-modul mata 
+kuliah statistika ini memberikan nilai yang lebih baik secara signifikan bagi mahasiswa yang 
+menggunakan modul dibandingkan mahasiswa yang tidak menggunakan modul. Semua modul 
+memberikan nilai yang lebih baik secara signifikan kecuali modul Regresi dan Korelasi. 
+
+Kata kunci: Implementasi, Statistika, modul, berbasis spreadsheet 
+
+ 
+ 
+PENDAHULUAN 
+
+Sejumlah faktor yang menentukan keberhasilan proses belajar di sebuah perguruan 
+tinggi di antaranya adalah keberadaan bahan 
+ajar. Salah satu bentuk bahan ajar adalah 
+modul. Menurut Nasution (Danuri, 2015, pp. 
+36–46) modul adalah suatu unit lengkap dan 
+dapat berdiri sendiri serta terdiri atas suatu 
+rangkaian kegiatan belajar yang disusun untuk 
+membantu mahasiswa mencapai sejumlah 
+tujuan yang dirumuskan secara khusus dan 
+jelas. Selanjutnya, Purwanto (2007, p. 9) menyebutkan bahwa modul merupakan bahan 
+ajar yang dirancang secara sistematis berdasarkan kurikulum tertentu serta memungkinkan dipelajari secara mandiri. Rizkiawan 
+(2014, pp. 1–2) menyatakan penggunaan modul memiliki pengaruh tinggi sekali terhadap 
+hasil belajar siswa. Hal serupa dari Ali, Ghazi, 
+Khan, Hussain, & Faitma (2010, p. 53) yang 
+menyimpulkan bahwa pengajaran menggunakan modul lebih efektif dibandingkan metode 
+tradisional khususnya untuk pelajaran Biologi 
+karena siswa diberikan kesempatan belajar 
+menurut level kemampuan dan kebutuhannya. 
+Keberadaan modul dalam pembelajaran, diharapkan menjadi sumber belajar yang mampu mengatasi masalah keterbatasan waktu, 
+sumber daya dan keberagaman kompetensi 
+siswa seperti yang dinyatakan Rhosyida & 
+Jailani (2014, pp. 34–47). 
+
+Beberapa penelitian menunjukkan bahwa penggunaan modul dalam pembelajaran 
+dapat meningkatkan prestasi belajar peserta 
+didik. Mujiati (2013, pp. 390–397) menyimpulkan materi pada modul dapat membantu 
+siswa mengembangkan kemampuan berpikir, 
+pemecahan masalah, dan mengembangkan 
+keterampilan intelektual. Kesimpulan serupa 
+dikemukan Wicaksono, Widoretno, & 
+Nurmiyati (2015, pp. 60–66) bahwa penggunaan modul pada pembelajaran think pair 
+share (berpikir mandiri, berpasangan, berbagi) 
+berpengaruh signifikan terhadap pemahaman 
+konsep peserta didik. Dengan demikian, diharapkan bisa meningkatkan prestasi siswa. 
+
+Untuk Mata Kuliah Statistika yang 
+diberikan pada banyak program studi di perguruan tinggi, modul-modul yang digunakan 
+bisa berbasiskan spreadsheet. Perangkat lunak 
+spreadsheet digunakan secara luas termasuk 
+dalam bidang pendidikan khususnya dalam 
+pembelajaran. Mata kuliah yang materi pembelajarannya berisi perhitungan-perhitungan 
+tabel bisa menggunakan perangkat lunak 
+spreadsheet seperti mata kuliah akuntansi, 
+statistika dan lain-lain. Nash & Quon (1996, 
+pp. 1–2) menyatakan ada beberapa keuntungan penggunaan spreadsheets dalam pengajaran statistika antara lain: (1) pengajar bisa 
+menyiapkan template terlebih dahulu agar 
+bisa diikuti siswa untuk perhitungan tertentu; 
+(2) pada spreadsheet, hasil kalkulasi bisa segera berubah ketika data diubah, (3) spreadsheet adalah alat komputasi umum yang baik 
+sehingga sering diprogram untuk menghitung 
+kalkulasi yang tidak standar; (4) paket program spreadsheet sekarang menyediakan perhitungan statistik yang umum, (5) paket program spreadsheet merupakan alat yang berguna 
+untuk entri data, edit, dan manipulasi sebelum dimasukkan ke paket program statistik 
+yang standar. Dalam pembelajaran Statistika, 
+spreadsheet dapat digunakan untuk semua 
+topik sebagai contoh regresi seperti digambarkan oleh Laviolette (1994, pp. 1–13). 
+Martin & College (2008, pp. 1–37) juga mengembangkan untuk pembelajaran regresi 
+multipel menggunakan spreadsheet. Spreadsheet juga mendukung kegiatan belajar mengajar di bidang bisnis khususnya matematika 
+bisnis seperti dikembangkan oleh May (2015, 
+pp. 1–16). Demikian juga dengan Santoso 
+(2008, pp. 110–116) yang menyimpulkan bahwa penggunaan spreadsheet dalam pengajaran 
+Sistem Pengambilan Keputusan untuk mahasiswa peminatan Sistem Informasi atau 
+ekuivalennya dianggap layak untuk dipertimbangkan oleh staf pengajar yang selama ini 
+mengajarkan mata kuliah 
+tersebut secara 
+tradisional. Suatu dokumen spreadsheet untuk 
+menghitung harga penawaran juga telah dibuat dan diusulkan sebagai salah satu bahan 
+yang dapat digunakan dalam demonstrasi kelas atau tugas. 
+
+Walaupun keberadaan modul-modul 
+penting dalam proses pembelajaran namun 
+belum semua mata kuliah yang ada di perguruan tinggi dilengkapi dengan modul-modul 
+termasuk mata kuliah Statistika di Jurusan 
+Akuntansi Politeknik Negeri Bali (PNB). 
+Sampai Tahun Akademik 2016 Program Studi 
+Akuntansi Manajerial, Jurusan Akuntansi 
+PNB belum mempunyai sumber belajar berupa modul-modul statistika. Mata kuliah 
+Statistika yang merupakan bagian dari matematika secara umum dan mendukung mata 
+kuliah yang lainnya mengandung materi yang 
+penuh dengan rumus-rumus yang panjang. 
+Banyak mahasiswa di perguruan tinggi khususnya mahasiswa Jurusan Akuntansi Politeknik yang kesulitan memahami dan melakukan perhitungan-perhitungan untuk mendapat 
+hasil dari rumus-rumus tersebut. Untuk memudahkannya maka diperlukan tabel-tabel 
+untuk mengelaborasi rumus-rumus panjang 
+tersebut dan bisa dengan mudah diterapkan 
+pada paket program spreadsheet. 
+
+Oleh karena itu, perlu dikembangkan 
+modul-modul mata kuliah statistika berbasis 
+spreadsheet yang inovatif dan diharapkan 
+bisa diterapkan pada pembelajaran di Jurusan 
+Akuntansi PNB maupun di perguruan tinggi 
+vokasi lainnya melalui penelitian ini. Tahap 
+pertama penelitian sudah berjalan dan menghasilkan draf modul-modul statistika berbasis 
+spreadsheet yang sudah mendapat validasi 
+awal. Tahap selanjutnya adalah penilaian atau 
+validasi dari ahli materi sebelum dilakukan uji 
+coba terbatas. 
+
+Berdasarkan latar belakang permasalahan tersebut, maka yang menjadi pokok permasalahan dalam penelitian ini adalah: (a) 
+bagaimana hasil penilaian ahli terhadap draf 
+modul-modul mata kuliah statistika berbasis 
+spreadsheet, (b) apa saja yang perlu direvisi 
+terhadap draf modul-modul mata kuliah statistika berbasis spreadsheet, dan (c) bagaimana hasil uji coba terbatas dan respon mahasiswa terhadap modul-modul mata kuliah 
+statistika berbasis spreadsheet 
+
+Adapun tujuan yang ingin dicapai penelitian ini adalah: (a) mengetahui hasil penilaian ahli terhadap draf modul-modul mata 
+kuliah statistika berbasis spreadsheet, (b) 
+mengetahui yang perlu direvisi terhadap draf 
+modul-modul mata kuliah statistika berbasis 
+spreadsheet, dan (c) mengetahui hasil uji coba 
+terbatas dan respon mahasiswa 
+terhadap 
+modul-modul mata kuliah statistika berbasis 
+spreadsheeet untuk mahasiswa Jurusan Akuntansi Politeknik Negeri Bali. 
+
+METODE PENELITIAN 
+
+Penelitian ini merupakan tahap kedua 
+dari pengembangan modul statistika berbasis 
+spreadsheet untuk mahasiswa Jurusan Akuntansi Politeknik. Tahap pertama dengan tahapan analisis kurikulum, analisis kebutuhan dan 
+validasi awal sudah terlaksana dengan hasil 
+
+
+Indeks 
+
+tujuh draf modul yang sudah mendapat validasi awal dengan judul modul: Data Statistik, 
+Distribusi Frekuensi, Ukuran Pemusatan, 
+Ukuran Dispersi, Regresi dan Korelasi, Time 
+Series, dan Angka 
+(Wijana & 
+Suardani, 2015, pp. 173–182). Pada tahap 
+kedua ini, draf ke tujuh modul yang sudah 
+mendapat validasi awal direvisi kemudian 
+dinilai atau divalidasi oleh ahli materi. Penilaian atau validasi ahli materi diadopsi dari 
+Sungkono (2016, pp. 1–16) yang menggunakan lima aspek penilaian yaitu aspek pendahuluan, pembelajaran, isi, tugas, evaluasi, 
+penilaian, dan rangkuman. Setiap aspek penilaian terdiri atas beberapa item untuk diberikan skor dengan menggunakan skala Likert 
+skala 5. Kemudian hasil penilaian pada setiap 
+aspek dicari rata-rata skornya dan kategorinya. Kriteria kategori hasil penilaian yang digunakan mengacu kepada Sukardjo (Admadja 
+& Marpanaji, 2016, pp. 173–183) yaitu 
+“Sangat Baik” apabila X>4,08, “Baik“ apabila 
+3,36<X≤4,08, “Cukup“ apabila 2,64<X≤3,36, 
+“Kurang“ apabila 1,92<X≤2,64, dan “Sangat 
+Kurang“ apabila X≤1,92. Modul yang sudah 
+divalidasi kemudian diuji coba secara terbatas 
+pada dua kelompok kecil mahasiswa. Tahap 
+ketiga adalah dengan melakukan uji coba 
+lapangan dengan melibatkan lebih banyak 
+mahasiswa. Langkah terakhir pada tahap ini 
+adalah dengan membuat prototipe dari modul 
+statistika berbasis spreadsheet. 
+
+Populasi penelitian adalah 
+
+seluruh 
+mahasiswa semester II program studi Diploma 
+IV Akuntansi Manajerial, Jurusan Akuntansi, 
+Politeknik Negeri Bali tahun akademik 2015/ 
+2016 sebanyak empat kelas atau sebanyak 100 
+orang. Dari empat kelas atau sebanyak 100 
+orang mahasiswa yang ada, diambil sampel 
+menggunakan metode cluster dengan terlebih 
+dahulu mengambil dua kelas secara acak. 
+Selanjutnya, dari setiap kelas yang terpilih 
+diambil 17 orang dijadikan sampel sebagai 
+peserta uji coba secara terbatas sehingga banyak sampel seluruhnya menjadi 34 orang. 
+Sampel dari kelas yang pertama disebut grup I 
+tempat modul diuji cobakan sedangkan sampel dari kelas yang kedua disebut grup II 
+tempat modul tidak diterapkan. 
+
+Data yang dikumpulkan berupa hasil tes 
+evaluasi (nilai) pada setiap modul mengunakan skala 100. Data tersebut terlebih dahulu 
+dianalisis secara deskriptif, dengan menggambarkan statistik (nilai rata-rata dan deviasi standar) dari setiap grup pada setiap modul. 
+Selanjutnya, diuji beda nilai rata-rata pada 
+setiap modul dan keseluruhan modul antara 
+grup I dan grup II dengan menggunakan uji t. 
+Kriteria bahwa mean nilai grup I lebih besar 
+secara siginifikan dari mean nilai grup II 
+apabila nilai tHitung lebih besar dari tTabel atau 
+t(32,5%) =1,70. 
+
+HASIL DAN PEMBAHASAN 
+
+Dari hasil penilaian ahli materi, untuk 
+modul-modul secara keseluruhan skor rataratanya 3,98 dengan skor tertinggi 4,20 untuk 
+aspek Pendahuluan dan skor terendah 3,64 
+untuk aspek Rangkuman seperti dapat dilihat 
+pada Tabel 1. 
+
+Tabel 1. Hasil Penilaian Ahli Materi 
+
+Secara Keseluruhan 
+
+No Aspek yang Dinilai 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+Pendahuluan 
+
+Pembelajaran 
+
+Isi 
+
+Tugas, evaluasi, penilaian 
+
+Rangkuman 
+
+Skor rata-rata keseluruhan 
+
+Skor 
+
+rata-rata 
+
+4,20 
+
+4,00 
+
+4,16 
+
+3,88 
+
+3,64 
+
+3,98 
+
+Dengan demikian, secara keseluruhan 
+modul-modul statistika ini dikategorikan baik 
+oleh ahli materi karena skor rata-ratanya lebih 
+besar dari 3,36 dan lebih kecil dari atau sama 
+dengan 4,08. Untuk aspek penilaian pertama 
+yaitu Pendahuluan yang terdiri atas 5 item 
+penilaian diberikan skor rata-rata 4,2 dengan 
+skor tertinggi 5,0 dan skor terendah 3,1. 
+Dengan demikian, secara keseluruhan untuk 
+aspek Pendahuluan modul-modul statistika ini 
+dikategorikan baik oleh ahli materi karena 
+skor rata-ratanya lebih besar dari 3,36 dan 
+lebih kecil dari atau sama dengan 4,08. Untuk 
+aspek penilaian kedua yaitu Pembelajaran 
+dengan 10 item penilaian diberikan skor ratarata 4,0 dengan skor tertinggi 5,0 dan skor 
+terrendah 3,3. Dengan demikian, secara keseluruhan untuk aspek Pembelajaran modulmodul statistika ini dikategorikan baik oleh 
+ahli materi karena skor rata-ratanya lebih 
+besar dari 3,36 dan lebih kecil dari atau sama 
+dengan 4,08. Untuk aspek penilaian ketiga 
+yaitu Isi dengan 7 item penilaian diberikan 
+skor rata-rata 4,2 dengan skor tertinggi 5,0 
+dan skor terrendah 3,0. Dengan demikian, 
+secara keseluruhan untuk aspek Isi modulmodul statistika ini dikategorikan baik oleh 
+ahli materi karena skor rata-ratanya lebih 
+besar dari 3,36 dan lebih kecil dari atau sama 
+dengan 4,08. Untuk aspek penilaian keempat 
+yaitu Tugas, evaluasi, penilaian dengan 6 item 
+penilaian diberikan skor rata-rata 3,9 dengan 
+skor tertinggi 5,0 dan skor terrendah 3,0. 
+Dengan demikian, secara keseluruhan untuk 
+aspek Tugas, evaluasi, penilaian modul-modul 
+statistika ini dikategorikan baik oleh ahli 
+materi karena skor rata-ratanya lebih besar 
+dari 3,36 dan lebih kecil dari atau sama dengan 4,08. Aspek penilaian kelima yaitu 
+Rangkuman dengan 4 butir penilaian diberikan skor rata-rata 3,6 dengan skor tertinggi 
+5,0 dan skor terrendah 2,0. Dengan demikian, 
+secara keseluruhan untuk aspek Rangkuman 
+modul-modul statistika ini dikategorikan baik 
+oleh ahli materi karena skor rata-ratanya lebih 
+besar dari 3,36 dan lebih kecil dari atau sama 
+dengan 4,08. 
+
+Dari hasil penilaian ahli materi berdasarkan modul-modul, skor rata-rata tertinggi 
+diberikan ahli materi untuk modul I dengan 
+judul Data Statistik dan skor rata-rata terendah 
+untuk modul Regresi dan Korelasi seperti 
+dapat dilihat pada Tabel 2. Berdasarkan informasi pada Tabel 2, semua modul dikategorikan baik oleh ahli materi karena semua 
+skor rata-ratanya lebih besar dari 3,36 dan 
+lebih kecil dari atau sama dengan 4,08 
+
+Tabel 2. Hasil Penilaian Ahli Materi 
+
+Berdasarkan Modul 
+
+Modul 
+
+Judul 
+
+Skor Rata
+I 
+
+II 
+
+III 
+
+IV 
+
+V 
+
+VI 
+
+Data Statistik 
+
+Distribusi Frekuensi 
+
+Ukuran Pemusatan 
+
+Ukuran Dispersi 
+
+Regresi dan Korelasi 
+
+Time Series 
+
+VII 
+
+Angka Indeks 
+
+ 
+
+rata 
+
+4,09 
+
+4,02 
+
+3,94 
+
+3,99 
+
+3,92 
+
+3,97 
+
+3,94 
+
+Sejalan dengan hasil penilaian ahli 
+materi, cukup banyak saran perbaikan yang 
+diberikan dengan rekapan seperti digambarkan pada Tabel 3. 
+
+
+Tabel 3. Rekapitulasi Saran Perbaikan 
+
+Berdasarkan Aspek-Aspek 
+
+No Aspek yang Dinilai 
+
+1 
+2 
+3 
+4 
+5 
+
+Pendahuluan 
+Pembelajaran 
+Isi 
+Tugas, evaluasi, penilaian 
+Rangkuman 
+
+Banyak 
+Revisi 
+
+7 
+15 
+9 
+8 
+15 
+
+Berdasarkan Tabel 1 tentang hasil penilaian ahli materi secara keseluruhan dan 
+Tabel 3 tentang rekapitulasi banyak saran 
+perbaikan berdasarkan aspek-aspek, bisa dilihat terdapat hubungan antara keduanya yaitu 
+aspek yang mendapat skor rata-rata tertinggi 
+(4,20) adalah aspek Pendahuluan mendapat 
+saran perbaikan yang paling sedikit (7 buah) 
+sedangkan aspek yang mendapat skor rata-rata 
+terendah (3,64) adalah Rangkuman mendapat 
+saran perbaikan yang paling banyak (15 buah). 
+Saran perbaikan yang diberikan oleh 
+ahli materi pada aspek Perdahuluan khususnya dalam hal berkaitan dengan modul yang 
+lain yang prerekuisit pada modul II, modul III, 
+sampai dengan modul VII. Perbaikan sudah 
+dilakukan antara lain dengan menambahkan 
+penyebutan modul Data Statistik pada kemampuan dasar yang harus dimiliki untuk 
+mempelajari modul II (Distribusi Frekuensi). 
+Pada modul III ditambahkan penyebutan 
+modul Data Statistik dan Distribusi Frekuensi 
+pada kemampuan dasar yang harus dimiliki 
+untuk mempelajari modul III (Ukuran Pemusatan). Pada modul IV ditambahkan penyebutan modul Data Statistik, Distribusi 
+Frekuensi, dan Ukuran Pemusatan pada kemampuan dasar yang harus dimiliki untuk 
+mempelajari modul IV (Ukuran Dispersi). 
+Pada modul V ditambahkan penyebutan modul Data Statistik, Ukuran Pemusatan, dan 
+Ukuran Dispersi pada kemampuan dasar yang 
+harus dimiliki untuk mempelajari modul V 
+(Regresi dan Korelasi). Pada modul VI ditambahkan penyebutan modul Data Statistik, 
+Ukuran Pemusatan, dan Ukuran Dispersi, 
+Regresi dan Korelasi pada kemampuan dasar 
+yang harus dimiliki untuk mempelajari modul 
+VI (Time Series). Sedangkan, pada modul VII 
+ditambahkan penyebutan modul Data Statistik 
+dan Ukuran Pemusatan pada kemampuan 
+dasar yang harus dimiliki untuk mempelajari 
+modul VII (Angka Indeks). 
+
+ 
+
+Pada aspek Pembelajaran saran perbaikan yang diberikan oleh ahli materi, khususnya 
+dalam hal kejelasan sasaran pengguna pada 
+semua modul dan dalam hal ketepatan dalam 
+penjelasan materi teoretis pada modul II, 
+modul III, sampai dengan modul VI, dan 
+dalam hal ketepatan dalam penjelasan materi 
+praktis pada modul V, modul VI dan modul 
+VII. Perbaikan sudah dilakukan antara lain 
+dengan menambahkan pengguna modul ini 
+adalah mahasiswa Jurusan Akuntansi Politeknik khususnya Jurusan Akuntansi Politeknik 
+Negeri Bali. 
+
+Ahli materi juga menyarankan perbaikan pada aspek isi, khususnya dalam hal berkaitan dengan cakupan (keluasan dan kedalaman) isi materi pada modul I, modul IV, dan 
+modul VII. Pada modul I disarankan perlunya 
+tambahan contoh variabel acak pada populasi, 
+pada modul IV perlu ditambahkan materi angka baku, dan pada modul VII perlu ditambahkan materi tentang indeks harga gabungan 
+dengan rata-rata relatif. Saran lainnya pada 
+aspek isi adalah berkaitan dengan item kejelasan dan kecukupan contoh yang disertakan 
+pada modul I, modul II dan modul III. Pada 
+modul I disarankan perlunya tambahan contoh 
+contoh lebih aktual tentang jenis data, pada 
+modul II perlu ditambahkan contoh distribusi 
+frekuensi dengan tampilan satu angka di 
+belakang koma, dan pada modul III perlu 
+ditambahkan interpretasi pada semua contohcontoh ukuran letak. 
+
+Selanjutnya, pada aspek Tugas, evaluasi, penilaian saran perbaikan yang diberikan 
+oleh ahli materi, khususnya dalam hal tingkat 
+kesulitan soal pada modul III, modul VI dan 
+modul VII dan dalam hal proporsi soal latihan/tes dengan isi materi pada modul I. Saran 
+pada modul III agar ditambahkan soal yang 
+lebih sulit demikian juga pada modul VI dan 
+modul VII. Pada modul I juga perlu ditambahkan soal tentang pengantar statistika sesuai 
+dengan isi modul. 
+
+Terakhir ,ahli materi juga menyarankan 
+perbaikan pada aspek Rangkuman khususnya 
+dalam hal kejelasan 
+rangkuman modul 
+(komprehensif) pada modul I, modul III, dan 
+modul IV dan daftar pustaka pada semua 
+modul. Pada modul I, modul III, dan modul 
+IV disarankan perlunya rangkuman yang lebih 
+rinci dan pada semua modul perlu ditambahkan daftar pustaka yang merupakan referensi 
+dari modul-modul tersebut. 
+
+
+Dengan menggunakan modul yang 
+telah direvisi, uji coba terbatas dilakukan 
+dengan hasil untuk modul I dengan judul 
+“Data Statistik” adalah nilai rata-rata kelom
+pok bermodul (
+1=80,47) lebih besar daripada nilai rata-rata kelompok tidak bermodul 
+
+(
+2=74,35). Setelah dilakukan uji beda ratarata dengan uji t diperoleh nilai t hitung = 1,723 
+lebih besar daripada tTabel atau t(32,5%) =1,70 
+artinya nilai rata-rata untuk modul I kelompok bermodul lebih tinggi secara signifikan 
+daripada nilai rata-rata kelompok tidak bermodul. 
+
+Hasil uji coba terbatas selengkapnya 
+untuk modul I sampai dengan modul VII dan 
+keseluruhan ditampilkan pada Tabel 4 dan 
+Tabel 5. 
+
+Tabel 4. Hasil Uji Coba Modul-Modul 
+
+Grup I 
+s1 
+
+Grup II 
+s2 
+
+Modul 
+
+I 
+II 
+III 
+IV 
+V 
+VI 
+VII 
+Keseluruhan 
+
+1 
+80,47 
+82,53 
+80,47 
+81,06 
+84,76 
+77,88 
+82,00 
+81,31 
+
+2 
+74,35 
+75,65 
+74,88 
+74,12 
+80,82 
+71,65 
+75,41 
+75,27 
+
+9,57 
+9,70 
+8,65 
+12,41 
+14,49 
+7,01 
+9,70 
+8,77 
+
+11,08 
+11,12 
+10,12 
+11,24 
+12,86 
+7,83 
+8,54 
+8,16 
+
+Tabel 5. Hasil Uji Coba Modul-Modul 
+
+Modul 
+
+ I 
+II 
+III 
+IV 
+V 
+VI 
+VII 
+Keseluruhan 
+
+Thitung Ttabel 
+1,70 
+1,72 
+1,70 
+1,92 
+1,70 
+1,73 
+1,71 
+1,70 
+1,70 
+0,84 
+1,70 
+2,45 
+2,21 
+1,70 
+1,70 
+2,08 
+ 
+
+Keterangan 
+
+Signifikan 
+Signifikan 
+Signifikan 
+Signifikan 
+Tidak Signifikan 
+Signifikan 
+Signifikan 
+Signifikan 
+
+Dari Tabel 4 bisa dilihat bahwa pada 
+semua modul, grup I (kelompok bermodul) 
+mendapat nilai rata-rata lebih besar daripada 
+grup II (kelompok tidak bermodul) dan secara 
+lebih jelas bisa dilihat pada Gambar 1. 
+
+ 
+
+ 
+
+
+277 
+
+90,00
+
+85,00
+
+80,00
+
+75,00
+
+70,00
+
+65,00
+
+Bermodul
+
+Tidak Bermodul
+
+Gambar 1. Grafik Nilai RataRataKelompok Bermodul danTidak 
+
+Bermodul 
+
+Tabel 5 menunjukkan bahwa setelah 
+dilakukan uji beda rata-rata dengan uji t 
+diperoleh nilai t hitung yang lebih besar dari 
+tTabel atau t(32,5%) =1,70 pada semua modul 
+kecuali pada modul V. Artinya, nilai rata-rata 
+grup I (kelompok bermodul) lebih besar secara signifikan daripada nilai rata-rata kelompok tidak bermodul kecuali pada modul V dan 
+secara lebih jelas bisa dilihat pada Gambar 2. 
+
+3,00
+
+2,50
+
+2,00
+
+1,50
+
+1,00
+
+0,50
+
+t hitung
+
+t tabel
+
+ 
+
+ 
+
+Gambar 2. Grafik Hasil Uji t 
+
+Hasil uji coba terbatas untuk keseluruhan modul, grup I (kelompok bermodul) men
+dapat rata-rata (
+1=81,31) lebih besar daripada nilai rata-rata kelompok tidak bermodul 
+
+(
+2=75,27) seperti ditampilkan pada Tabel 
+4. Setelah dilakukan uji beda rata-rata dengan 
+uji t diperoleh nilai t hitung = 2,08 lebih besar 
+daripada tTabel atau t(32,5%) =1,70 seperti ditampilkan pada Tabel 5. Artinya, nilai rata-rata 
+untuk modul secara keseluruhan, kelompok 
+bermodul lebih tinggi secara signifikan daripada nilai rata-rata kelompok tidak bermodul. 
+Dengan demikian, bisa dikatakan modul-modul statistika berbasis spreadsheet ini bisa 
+memberikan prestasi yang lebih baik secara 
+terbatas pada kelompok mahasiswa Jurusan 
+Akuntansi Politeknik Negeri Bali. 
+
+Perbedaan prestasi grup I dan grup II 
+secara lebih jelas bisa dilihat dari sebaran 
+nilainya seperti pada Tabel 6, Tabel 7, dan 
+Gambar 3 dengan menggunakan kategori 
+menurut Politeknik Negeri Bali (2013, pp. 1146). 
+
+Selanjutnya dalam penelitian ini juga 
+ditanyakan respon mahasiswa yang masuk 
+grup I (kelompok bermodul) terhadap penggunaan modul statistika berbasis spreadsheet 
+dengan hasil seperti pada pada Tabel 8, Tabel 
+9, dan Tabel 10. 
+
+Tabel 8. Respon Mahasiswa Bahwa 
+Modul Berbasis Spreadsheet 
+
+Mempermudah Belajar Statistika. 
+
+Tabel 6. Sebaran Nilai Hasil Uji Coba 
+
+Terbatas Grup I 
+
+Kategori 
+
+Rentang 
+
+Freku- 
+Ensi 
+
+A 
+AB 
+B 
+BC 
+C 
+D 
+E 
+
+81 ke atas 
+
+76 – 80 
+66 – 75 
+61 -65 
+56 – 60 
+41 – 55 
+
+40 ke bawah 
+
+Jumlah 
+
+8 
+3 
+5 
+1 
+0 
+0 
+0 
+17 
+
+% 
+
+47,1 
+17,6 
+29,4 
+5,9 
+0 
+0 
+0 
+
+100 
+
+Tabel 7. Sebaran Nilai Hasil Uji Coba 
+
+Terbatas Grup II 
+
+Kategori 
+
+Rentang 
+
+A 
+AB 
+B 
+BC 
+C 
+D 
+E 
+
+81 ke atas 
+
+76 – 80 
+66 – 75 
+61 -65 
+56 – 60 
+41 – 55 
+
+40 ke bawah 
+
+Jumlah 
+
+Freku- 
+Ensi 
+4 
+2 
+8 
+3 
+0 
+0 
+0 
+17 
+
+% 
+
+23,5 
+11,8 
+47,1 
+17,6 
+
+0 
+0 
+0 
+
+100 
+
+Gambar 3. Grafik Sebaran Nilai Uji 
+Coba Terbatas Grup I dan Grup II 
+
+ 
+
+Kategori 
+
+Frekuensi 
+
+Sangat Setuju 
+
+Setuju 
+
+Cukup Setuju 
+Kurang Setuju 
+Tidak Setuju 
+
+Jumlah 
+
+6 
+11 
+0 
+0 
+0 
+17 
+
+% 
+
+35,3 
+64,7 
+
+0 
+0 
+0 
+
+100 
+
+Tabel 8 menunjukkan sebagaian besar 
+mahasiswa di grup I (64,7%) setuju bahwa 
+modul berbasis spreadsheet mempermudah 
+dalam belajar statistika. Selanjutnya dominan 
+dari mereka (58,8%) merasa bahwa penggunaan modul berbasis spreadsheet bisa menghemat waktu dalam belajar statistika seperti 
+ditampilkan pada Tabel 9. Hal ini tentu mendukung harapan modul sebagai bahan ajar 
+yang bisa mengatasi masalah keterbatasan 
+waktu seperti diutarakan Rhosyida & Jailani 
+(2014, pp. 35–47). 
+
+Tabel 9. Respon Mahasiswa bahwa Modul 
+
+Berbasis Spreadsheet bisa 
+
+Menghemat Waktu dalam Belajar 
+
+Statistika 
+
+Kategori 
+
+Frekuensi 
+
+Sangat Setuju 
+
+Setuju 
+
+Cukup Setuju 
+Kurang Setuju 
+Tidak Setuju 
+
+Jumlah 
+
+6 
+10 
+1 
+0 
+0 
+17 
+
+% 
+
+35,3 
+58,8 
+5,9 
+0 
+0 
+
+Penggunaan modul berbasis spreadsheet juga bisa membuat mahasiswa mandiri 
+dalam belajar statistika seperti ditampilkan 
+pada Tabel 10. 
+
+ 
+
+ 
+
+Tabel 10 menunjukkan paling banyak 
+dari mahasiswa (41,2%) merasa bahwa penggunaan modul berbasis spreadsheet bisa 
+membuat mandiri dalam belajar statistika. Hal 
+
+
+ini sejalan dengan pendapat Purwanto (2007, 
+p. 9). 
+
+Tabel 10. Respon Mahasiswa Bahwa 
+Modul Berbasis Spreadsheet 
+Membuat Mahasiswa Mandiri 
+
+Belajar Statistika. 
+
+% 
+
+17,6 
+41,2 
+35,3 
+
+0 
+5,9 
+100 
+
+Kategori 
+
+Frekuensi 
+
+3 
+7 
+6 
+0 
+1 
+17 
+
+Sangat Setuju 
+
+Setuju 
+
+Cukup Setuju 
+Kurang Setuju 
+Tidak Setuju 
+
+Jumlah 
+
+SIMPULAN 
+
+Simpulan 
+
+Berdasarkan hasil yang telah dicapai 
+pada bab-bab sebelumnya maka dapat diambil 
+simpulan sebagai berikut: (1) Hasil penilaian 
+ahli adalah secara keseluruhan modul-modul 
+dikategorikan baik dengan skor rata-rata 3,98 
+dan seluruh modul dari tujuh modul dikategorikan baik karena setiap modul dengan skor 
+rata-ratanya lebih besar daripada 3,36 dan 
+lebih kecil atau sama dengan 4,08, (2) Perbaikan/revisi yang masih diperlukan untuk 
+meningkatkan kualitas modul-modul mata 
+kuliah statistika ini adalah pada aspek pendahuluan khususnya dalam hal keterkaitan 
+dengan modul yang lain yang prerekuisit, 
+pada aspek pembelajaran khususnya dalam 
+hal kejelasan sasaran pengguna, pada aspek isi 
+khususnya dalam hal cakupan (keluasan dan 
+kedalaman) isi materi, pada aspek tugas, 
+evaluasi, penilaian khususnya dalam hal tingkat kesulitan soal, dan pada aspek rangkuman 
+khususnya dalam hal kejelasan rangkuman 
+serta daftar pustaka, dan (3) Hasil uji coba 
+modul-modul mata kuliah statistika ini adalah 
+secara keseluruhan modul-modul mata kuliah 
+statistika ini memberikan nilai yang lebih baik 
+secara signifikan bagi mahasiswa yang dijadikan sampel untuk menggunakan modul dibandingkan mahasiswa yang dijadikan sampel 
+tidak menggunakan modul. Dari tujuh buah 
+modul, semuanya memberikan nilai yang 
+lebih baik secara signifikan bagi mahasiswa 
+yang dijadikan sampel untuk menggunakan 
+modul dibandingkan mahasiswa yang dijadikan sampel tidak menggunakan modul kecuali 
+pada modul V yang hasilnya tidak signifikan. 
+Respon mahasiswa yang menggunakan modul 
+adalah sebagaian besar dari mereka setuju 
+bahwa modul berbasis spreadsheet bisa 
+mempermudah (64,7%), lebih hemat waktu 
+(58,8%) dan membuat mandiri (41,2%) dalam 
+belajar statistika. 
+

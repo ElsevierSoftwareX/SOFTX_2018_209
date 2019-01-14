@@ -1,0 +1,70 @@
+﻿ABSTRAK 
+Kota Semarang adalah ibukota Provinsi Jawa Tengah, Indonesia yang menjadi salah satu kota besar di Indonesia. Struktur geologi yang cukup mencolok di wilayah Kota Semarang berupa kelurusan-kelurusan dan kontak batuan yang tegas merupakan pencerminan struktur sesar baik geser mendatar dan normal cukup berkembang di bagian tengah dan selatan kota. Sehingga sering terjadi bencana alam salah satunya tanah longsor. Dengan itu maka di buat pemetaan bencana tanah longsor guna mengurangi kerugian akibat bencana melalui peta. 
+
+Pada pembuatan peta risiko bencana tanah longsor ini dilakukan dengan beberapa tahapan yaitu pemodelan peta ancaman, pemodelan kerentanan, pemodelan kapasitas, serta pemodelan risiko. Pemodelan ancaman dihasilkan dari pembobotan menggunakan overlay. Pemodelan kerentanan dan kapsitas dihasilkan mengacu pada telaah dokumen dengan penilaian kerentanan menggunakan pembobotan. Sedangkan pada pemodelan peta risiko diproses dengan menggunakan rumusan Peraturan Kepala Badan Penanggulangan Bencana Alam (PERKA BNPB) No. 2 Tahun 2012 dan VCA (Vulnerability Capacity Analysis) modifikasi untuk mementukan klasifikasi risiko bencana tanah longsor. 
+
+Hasil penelitian untuk menentukan pemodelan risiko bencana tanah longsor menggunakan metode matriks penentuan kelas sesuai dengan rumusan VCA modifikasi menghasilkan risiko rendah seluas 126,003 hektar di delapan kelurahan, tingkat risiko sedang seluas 323,141 hektar di sepuluh kelurahan dan lima belas kelurahan pada 475,127 hektar ditingkat risiko tinggi. 
+
+Kata Kunci : Bencana Tanah Longsor, Peta Risiko, VCA
+
+
+ BAB I 
+PENDAHULUAN 
+I.1 Latar Belakang 
+
+Bencana alam adalah salah satu fenomena yang dapat terjadi setiap saat, dimanapun dan kapanpun sehingga menimbulkan risiko atau bahaya terhadap kehidupan manusia, baik kerugian harta benda maupun korban jiwa manusia (Nugroho. dkk, 2009). Bencana tanah longsor merupakan salah satu bencana alam geologi yang dapat menimbulkan korban jiwa dan kerugian material yang sangat besar, seperti terjadinya pendangkalan, terganggunya jalur lalu lintas, rusaknya lahan pertanian, permukiman, jembatan, saluran irigasi dan prasarana fisik lainnya. 
+
+Pengertian tanah longsor itu sendiri adalah perpindahan material pembentuk lereng berupa batuan, bahan rombakan, tanah, atau material campuran tersebut, bergerak ke bawah atau ke luar lereng (SNI 13-7124-2005). Tanah longsor terjadi kerena ada gangguan kestabilan pada tanah/ batuan penyusun lereng. Gangguan kestabilan lereng tersebut dapat dikontrol oleh kondisi morfologi (terutama kemiringan lereng), kondisi batuan/tanah penyusun lereng, dan kondisi hidrologi atau tata air pada lereng. Secara umum kejadian longsor disebabkan oleh dua faktor yaitu faktor pendorong dan faktor pemicu. Faktor pendorong adalah faktor-faktor yang mepengaruhi kondisi material sendiri, sedangkan faktor pemicu adalah faktor yang menyebabkan bergeraknya material tersebut. 
+Potensi terjadinya pada lereng tergantung pada kondisi batuan dan tanah penyusunannya, struktur geologi, curah hujan dan penggunaan lahan. Tanah longsor umumnya terjadi pada musim hujan dengan curah hujan yang tinggi. Tanah yang kasar akan lebih berisiko terjadi longsor karena tanah tersebut mempunyai kohesi agregat tanah yang rendah. 
+
+Mengingat kejadian bencana alam di daerah Kota Semarang beberapa akhir ini seperti tanah longsor yang terjadi di beberapa kecamatan. Dan juga dilihat dari karateristik wilayah Kota Semarang maka dilakukan pemetaan daerah risiko tanah longsor dengan pemanfaatan Sistem Informasi Geografis (SIG) yang bertujuan untuk memberikan informasi lokasi-lokasi yang memiliki risiko bencana tanah longsor. Pada kenyataannya Badan Penanggulangan Bencana Daerah belum memiliki peta risiko bencana. Padahal adanya pemetaan risiko bencana menjadi sangat penting dalam penataan penanggulangan bencana yang matang, terarah dan terpadu (Nugraha, 2013). 
+
+Pemetaan risiko bencana adalah kegiatan pembuatan peta yang merepresentasikan dampak negatif yang dapat timbul berupa kerugian materi dan non materi pada suatu wilayah apabila terjadi bencana (Aditya, 2010). Diperlukan data yang valid diperlukan untuk proses pemetaan risiko sehingga dapat mempresentasikan kondisi sebenarnya di lapangan. 
+Sistem Informasi Geografis adalah sistem informasi khusus yang mengelola data yang memiliki informasi spasial (bereferensi keruangan). Atau dalam arti yang lebih sempit adalah sistem komputer yang memiliki kemampuan untuk membangun, menyimpan, mengelola dan menampilkan informasi berefrensi geografis, misalnya data yang diidentifikasi menurut lokasinya, dalam sebuah database. Para praktisi juga memasukkan orang yang membangun dan mengoperasikannya dan data sebagai bagian dari sistem ini. 
+
+Perkembangan Sistem Informasi Geografis (SIG) mampu menyediakan informasi data geospasial seperti objek dipermukaan bumi secara cepat, sekaligus menyediakan sistem analisis keruangan yang akurat. Sehingga dapat dilakukan upaya mitigasi bertujuan mencegah risiko yang berpotensi menjadi bencana atau mengurangi efek dari bencana ketika bencana itu terjadi. 
+
+I.2 Maksud dan Tujuan Penelitian 
+
+Maksud dan tujuan dari penelitian ini adalah 
+1. Melakukan penyusunan peta risiko bencana tanah longsor. 
+2. Untuk mengetahui daerah mana saja yang termasuk kedalam daerah risiko bencana longsor Kota Semarang. Dengan adanya pemetaan ini dapat tetap menjaga kelestarian lingkungan agar tidak terjadi longsor.
+
+I.3 Perumusan Masalah 
+
+Permasalahan yang muncul dari latar belakang penelitian yang telah dijabarkan sebelumnya adalah sebagai berikut : 
+1. Bagaimana cara untuk penentuan daerah risiko bencana tanah longsor dengan sistem informasi geografis? 
+2. Bagaimana melakukan pemodelan risiko bencana tanah longsor Kota Semarang? 
+3. Bagaimana pemodelan risiko bencana tanah longsor terhadap hasil penilaian tingkat risiko bencana tanah longsor? 
+4. Bagaimana sebaran pemodelan risiko bencana tanah longsor Kota Semarang? 
+
+I.4 Ruang Lingkup Penelitian 
+
+Untuk menjelaskan permasalahan yang akan dibahas di dalam tugas akhir ini dan agar tidak terlalu jauh dari kajian masalah yang dipaparkan, maka ruang lingkup dalam penelitian ini antara lain : 
+
+1. Daerah penelitian tugas akhir adalah Kota Semarang dengan unit terkecil daerah risiko yaitu kelurahan yang terancam bencana tanah longsor. Sebagai sampel yaitu Semarang bagian atas adalah Kecamatan Banyumanik, Semarang bagian tengah diwakili oleh Kecamatan Candisari dan Gajah Mungkur serta Kecamatan Semarang Barat mewakili Semarang bagian bawah dengan alasan bahwa daerah tersebut banyak terjadi kejadian tanah longsor. 
+2. Pengolahan data penelitian dengan menggunakan sistem informasi geografis. 
+3. Validasi dengan wawancara langsung dan data sekunder dari BPBD Kota Semarang yang hasilnya dijadikan acuan mengenai kondisi sebenarnya. 
+4. Data sekunder yang digunakan adalah tahun 2010 dan 2012 dengan asumsi tidak ada perubahan yang berarti pada data tersebut. 
+5. Penilaian dan kriteria risiko mengacu pada Peraturan Kepala Badan Nasional Penanggulangan Bencana Nomor 02 Tahun 2012 Tentang Pedoman Umum Pengkajian Risiko Bencana 
+I.5 Metodologi Penelitian 
+
+Suatu penelitian membutuhkan pendekatan metodologi. Secara harfiah metodologi adalah suatu kerangka pendekatan pola pemikiran dalam menyusun sebuah studi. Tujuan yang ingin dicapai adalah untuk mengarahkan proses dalam penalaran bagi hasil-hasil yang ingin dicapai nantinya. Flowchart metodologi penelitian dapat digambarkan seperti gambar 1.1. 
+Gambar 1.1 Diagram Alir Penelitian 
+
+I.6 Sistematika Penulisan Laporan 
+
+Adapun sistemtika dalam penulisan laporan tugas akhir ini adalah sebagai berikut:
+
+BAB I PENDAHULUAN 
+Pada bab ini akan diuraikan mengenai pokok-pokok pikiran penulisan tugas akhir yang berisi mengenai latar belakang, maksud dan tujuan, perumusan masalah, ruang lingkup penelitian, metodologi penelitian dan sistematika penulisan laporan. 
+
+BAB II TINJAUAN PUSTAKA 
+Pada bab ini dijelaskan mengenai dasar teori yang berkaitan dengan penelitian yaitu mengenai bencana tanah longsor, penyebab terjadinya tanah longsor, faktor-faktor pengontrol terjadinya tanah longsor, proses terjadinya tanah longsor, pemetaan risiko bencana, analisis risiko bencana, SIG serta pengenalan software SIG. 
+
+BAB III METODOLOGI PENELITIAN 
+Pada bab ini dijelaskan mengenai gambaran umum lokasi penelitian, jalannya penelitian mulai dari tahap persiapan, pengumpulan data dan bahan, tahap pelaksanaan, metode penelitian serta pengolahan. 
+BAB IV HASIL DAN ANALISIS 
+Pada bab ini akan diuraikan mengenai hasil serta analisis dari masing-masing parameter yaitu ancaman, kerentanan dan kapasitas hingga analisis peta risiko bencana tanah longsor kota semarang. 
+BAB V PENUTUP 
+Pada bab ini dijelaskan mengenai kesimpulan dari hasil penelitian dan saran serta masukan untuk penelitian selanjutnya.

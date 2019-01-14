@@ -1,0 +1,692 @@
+﻿
+Pengembangan Metode Penstrukturan Masalah Berbasis Cognitive 
+
+Map dan Strategic Choice Approach dan Penerapannya pada 
+
+Masalah Manajemen Rantai Pasok 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+Pendahuluan 
+
+ 
+Tiga rangkaian kegiatan – merumuskan apa yang 
+diketahui, apa yang ditanyakan, serta merumuskan 
+jawaban sering dijumpai pada kegiatan pendidikan 
+dasar, menengah dan tinggi. Pada hakekatnya, 
+kegiatan ini adalah bentuk perumusan masalah 
+(problem formulation) atau penstrukturan masalah 
+(problem structuring). Pentingnya perumusan atau 
+penstrukturan masalah dinyatakan oleh David 
+Hilbert melalui ungkapannya “A perfect formulation 
+of a problem is already half its solution” (Reid ). 
+ 
+Lalu apakah yang disebut dengan masalah itu 
+sendiri? Terdapat banyak definisi masalah, namun 
+pada hakekatnya, sesuatu itu dikatakan sebagai 
+masalah ketika sekurang-kurangnya manusia menjawab “YA” terhadap salah satu dari ketiga pertanyaan berikut: Apakah sesuatu itu tidak disukai 
+adanya? Apakah sesuatu itu ingin ditiadakan keberadaannya? Apakah sesuatu itu (berpotensi) menimbulkan kesulitan dan atau kerugian? (Prayitno 
+). 
+ 
+Berdasarkan tingkat kerumitannya, masalah terbagi kedalam masalah yang terstruktur dengan 
+baik (well-defined problems), sehingga dapat diselesaikan dengan teknik penyelesaian masalah yang 
+sederhana, serta masalah yang tidak terstruktur 
+dengan baik (ill-structrured problems) yang memiliki 
+karakteristik lebih kompleks dan sangat serius. 
+ 
+ 
+
+ 
+
+Ciri-ciri permasalahan yang terstruktur dengan 
+baik adalah dimilikinya kejelasan dalam ketiga 
+aspek ciri permasalahan yang terstruktur dengan 
+baik adalah dimilikinya kejelasan dalam ketiga 
+aspek berikut ini: (i) kejelasan akan gambaran 
+tentang keadaan sekarang, (ii) kejelasan akan 
+gambaran tentang keadaan yang diharapkan, dan 
+(iii) kejelasan tentang bagaimana cara untuk 
+beranjak dari keadaan sekarang menuju keadaan 
+yang diharapkan (Johns dan Sak ) dan (Basarah 
+dan Susanto ). Permasalahan yang tidak terstruktur dengan baik adalah permasalahan yang 
+tidak memenuhi sekurang-kurangnya satu dari 
+ketiga aspek tersebut. Permasalahan yang tidak terstuktur, membutuhkan teknik atau metode khusus 
+untuk penyelesaiannya. 
+ 
+Salah satu area yang didalamnya terdapat banyak 
+permasalahan yang tidak terstrukur adalah manajemen rantai pasok (Supply Chain Management). 
+Manajemen rantai pasok adalah metode atau 
+pendekatan integratif untuk mengelola aliran produk, informasi dan uang secara terintegrasi yang 
+melibatkan banyak pihak mulai dari hulu hingga 
+hilir yang terdiri atas supplier, pabrik, jaringan 
+distribusi maupun jasa-jasa logistik. (Pujawan ). 
+Permasalahan manajemen rantai pasok bersifat (i) 
+kompleks, (ii) seringkali tidak terstruktur, sehingga 
+(iii) pemecahannya memerlukan pendekatan sistem 
+(systems approach) (Pujawan ). 
+ 
+Apakah yang dimaksud dengan pernyataan “manajemen rantai pasok bersifat kompleks”? W.R. Ashby, 
+salah satu tokoh Systems Thinking (berpikir system) 
+seperti dikutip oleh Daellenbach mendefinisikan 
+kompleksitas sebagai jumlah atau kuantitas informasi yang diperlukan untuk mendeskripsikan 
+atau menggambarkan atau menyatakan sesuatu 
+(Daellenbach et al., ). Bahwa manajemen rantai 
+pasok bersifat kompleks, hal ini didukung oleh 3 
+pernyataan berikut. Pertama, pada hakekatnya 
+masalah manajemen rantai pasok bersifat kompleks 
+dan mengundang implikasi keputusan strategis 
+jangka panjang (Ates and Cevik ). Kedua, 
+masalah rantai pasok adalah salah satu masalah 
+yang kompleks yang memerlukan prosedur 
+pencarian solusi yang baru, karena ia menggabungkan beberapa submasalah yang berbeda, seperti 
+distribusi, lokasi dan alokasi, transportasi, dan perencanaan produksi agar mengarah pada pemecahan masalah rantai pasok secara menyeluruh 
+dalam kesatuan” (Gokhan et al., ). Ketiga, rantai 
+pasok adalah jaringan entitas bisnis yang kompleks, 
+mencakup aliran produk dan jasa, serta aliran 
+keuangan dan informasi yang menyertainya, dari 
+hulu ke hilir (Serdarasan ). 
+ 
+Bahwa masalah rantai pasok seringkali bersifat illstructured, hal ini didukung oleh 2 pernyataan 
+berikut. Pertama, karena kompleksnya permasalahan logistik dan rantai pasok, sehingga permasalahan hulu dan hilir rantai pasokan dapat dikategorikan sebagai permasalahan yang tidak terstruktur. 
+(Gupta dan Evans ). Kedua, desain strategi 
+bisnis yang baru, inovasi untuk berkembang lebih 
+baik, serta mengembangkan konsep dan penerapan 
+rantai pasok yang baru, merupakan permasalahanpermasalahan yang komplek, tidak terstruktur dan 
+merupakan tantangan bagi perusahaan untuk 
+dapat menjadi keunggulan bersaing dengan kompetitornya(Baer et al., ). 
+ 
+Sebagai konsekuensi dari kompleksitas dan sifat illstructured yang melekat pada masalah manajemen 
+rantai pasokan, maka penyelesaian masalah ini tak 
+dapat lagi dilakukan secara parsial atau fragmentaris, melainkan memerlukan suatu pendekatan 
+yang menyeluruh (holistic) yang dikenal sebagai 
+pendekatan yang bersifat sistemik. Hal ini sejalan 
+dengan 5 pernyataan berikut ini. Pertama, manajemen rantai pasok adalah seni dan ilmu pengetahuan tentang mengelola jaringan yang kompleks 
+sehingga untuk dapat mengelolanya dengan baik 
+satu sama lain, diperlukan pendekatan system 
+(Cutting-Decelle et al., ). Kedua, because of the 
+systems foundations of the quest for supply chain 
+integration and because of the presumed interdependencies between the factors inhibiting that integration, a systems perspective is occupied (Bakker et al., 
+). Ketiga, pendekatan sistem untuk analisis rantai pasok dan meningkatkan kinerjanya, berdasar 
+pada pemikiran bahwa penyelesaian harus dilakukan secara menyeluruh bukan parsial pada sub 
+sistem yang ada (Sweeney [14, 15]). Keempat, salah 
+satu yang menjadi kendala dalam operasionalisasi 
+rantai pasok adalah ketidakhadiran sistem dalam 
+pengelolaannya. Keadaan ini mengakibatkan pelak
+sanaan manajemen rantai pasok yang tercerai-berai 
+dan lemahnya integrasi antar rantai pasok 
+(Szymczak, et al., ). Kelima, untuk dapat mengetahui titik-titik kegagalan dalam pelaksanaan 
+rantai pasok, sistem dalam pengelolaan rantai pasok 
+haruslah berdasar pada pemahaman yang menyeluruh tentang manajemen rantai pasok dan dapat 
+mengakomodasi seluruh titik dalam jaringannya 
+(Ghadge et al., ). 
+ 
+Penelitian ini bermula dari penelitian awal (Basarah 
+dan Susanto ), dengan memasukkan 3 koreksi 
+berikut. Pertama, pelaksanaan curah pendapat 
+(brainstorming) ulang dengan menambah pemangku kepentingan perusahaan sebagai partisipan, 
+sehingga didapat narasi permasalahan yang baru. 
+Kedua, pembentukan peta kognitif (cognitive map) 
+yang baru. Ketiga, penerapan pendekatan SCA 
+terhadap peta kognitif yang baru, sehingga didapatkan alternatif-alternatif solusi bagi akar permasalahan yang baru.” 
+ 
+Terdapat 3 butir kontribusi dari penelitian yang 
+dilakukan. Pertama, penelitian ini mengembangkan 
+metode penstrukturan masalah untuk mengubah 
+masalah yang semula bersifat tidak terstruktur 
+menjadi masalah yang terstruktur. Metode yang 
+dikembangkan secara fisik terdiri atas 9 (sembilan) 
+langkah. Kedua, penelitian ini menunjukkan bahwa 
+metode yang dikembangkan dapat diterapkan pada 
+penstrukturan masalah manajemen rantai pasok di 
+Perseroan Terbatas X, yang hasilnya adalah 
+terpilihnya masalah prioritas utama. Ketiga, metode 
+yang dikembangkan dapat memberi rekomendasi 
+pemilihan satu opsi penyelesaian masalah, diantara 
+sekian opsi-opsi lainnya yang teridenifikasi. 
+ 
+
+Metode Penelitian 
+
+ 
+Soft Systems Thinking 
+ 
+Pendekatan Hard Systems Thinking tidak diragukan lagi kontribusinya dalam pemecahan masalah 
+operasional, namun disadari bahwa pendekatan ini 
+perlu diimbangi atau dilengkapi dengan pendekatan 
+Soft Systems Thinking. Pendekatan Soft System 
+Thinking dipergunakan karena permasalahan yang 
+dihadapi oleh manusia ternyata kompleks dan tidak 
+terstruktur (Daellenbach et al., ). Masalah manajerial umumnya bersifat sistemik, dalam arti melibatkan interaksi dari banyak komponen sistem. 
+Adapun setiap komponen sistem memiliki pemangku kepentingannya masing-masing, sehingga masalah manajerial akan melibatkan banyak pemangku 
+kepentingan. 
+ 
+Soft System Thinking pertama kali dirintis sekitar 
+tahun 1950 dengan konsep Gaming dari The Rand 
+Corporatio Soft System Thinking dan telah mengalami perkembangan yang cukup pesat melalui kontribusi beberapa ilmuwan yang ahli dalam bidangnya 
+seperti John Friend, Checklands, dan John Mingers 
+dengan konsep Multimethodoolgy pada tahun 1995 
+(Daellenbach et al. ). 
+ 
+Salah satu pendekatan Soft System Thinking yang 
+mengakomodasi wisdom dari banyak pemangku kepentingan dalam suatu organisasi adalah Strategic 
+Choice Approach (SCA). SCA dikembangkan oleh 
+John Friend dan Allen Hickling dengan bukunya 
+yang terkenal yaitu Planning under Pressure: A 
+Strategic Choice Approach. Berikut ini disampaikan 
+garis besar dari metode SCA tersebut. 
+ 
+Strategic Choice Approach 
+ 
+Metode SCA dikembangkan untuk menyelesaikan 
+permasalahan yang kompleks, tidak terstruktur 
+dan memerlukan pendekatan sistem dalam penyelesaiannya. Penggalian informasi yang dibutuhkan 
+dalam penerapan metode ini didapat dari suatu 
+kelompok diskusi yang diisi oleh pemangku kepentingan dan orang-orang yang kompeten yang terlibat dalam permasalahan tersebut. Kelompok diskusi ini akan memformulasikan temuan-temuan 
+dan hasil diskusi kelompok tersebut (Daellenbach et 
+al. ). Tujuan metode SCA adalah untuk mendapatkan deskripsi sistem dari permasalahan yang 
+ada, dengan mempertimbangkan berbagai macam 
+sumber ketidakpastian, seperti ketidakpasian tentang hal teknis, politis, struktur, yang seringkali 
+membuat suatu permasalahan menjadi sulit untuk 
+dipecahkan (Mingers ). Metode SCA terdiri atas 
+4 modus yaitu shaping, designing, comparing dan 
+choosing. Keempat modus ini bersifat komplementer 
+serta dapat dijalankan secara fleksibel (Daellenbach 
+et al. ). Pada modus shaping dilakukan pemilihan 
+area keputusan dan fokus permasalahan (Friend 
+dan Hickling 
+). Area keputusan pada 
+hakekatnya adalah akar masalah dari keseluruhan 
+permasalahan sistemik yang dihadapi. Fokus permasalahan pada hakekatnya adalah kumpulan area 
+keputusan yang akan diselidiki lebih mendalam. 
+Pada modus designing dilakukan identifikasi terhadap tindakan-tindakan apa saja yang dapat digunakan untuk memecahkan fokus permasalahan 
+terpilih. Pada modus designing dilakukan penilaian 
+kelayakan dari setiap kombinasi aksi untuk ditindaklanjuti. Pada modus comparing dilakukan perbandingan antar kombinasi aksi-aksi yang layak, 
+yang dihasilkan dari modus designing. Dari hasil 
+perbandingan pada modus comparing akan didapat 
+kombinasi aksi terpilih, pemilihan inilah yang 
+disebut dengan modus choosing yang akan disertai 
+dengan paket-paket komitmen atau rencana kerja. 
+Langkah kerja dalam metode SCA dapat dilihat 
+pada Gambar 1. 
+
+ 
+
+
+
+ 
+
+Gambar 1. Tahapan metode Strategic Choice Approach 
+(Daellenbach et al. ) 
+ 
+Metode SCA telah banyak digunakan oleh para 
+peneliti dan praktisi antara lain meliputi (Friend 
+dan Hickling ): (1) Penataan masa depan dari 
+Notting Hill Carnival oleh Jonathan Rosenhead. (2) 
+Penentuan prioritas dalam area kebijakan lingkungan oleh Frans Evers. (3) Pengembangan strategi pelayanan konsumen air oleh Richard Ormerod. 
+ 
+Objek Penelitian 
+ 
+Objek penelitian adalah Perseroan Terbatas X, suatu perusahaan manufaktur dan distribusi pelapis 
+dan kimia bangunan yang memiliki kantor pusat di 
+kota Bandung dengan 30 kantor cabang di seluruh 
+Indonesia. Jumlah tenaga kerja yang ada saat ini 
+sekitar 2000 orang. Jumlah karyawan tersebut terdiri atas sekitar 800 orang tenaga kerja tetap, dan 
+sekitar 1200 orang tenaga kerja waktu tertentu. 
+Pengelolaan rantai pasok pada perusahaan ini 
+dikelola oleh Divisi Supply Chain Management, 
+yang membawahi 6 (enam) department yaitu department procurement, warehouse, production, inventory, transportation dan department customer 
+accomodation 
+ 
+
+Hasil dan Pembahasan 
+
+ 
+Usulan Metode Penstrukturan Masalah di PT 
+X dan Ilustrasi Penerapannya 
+ 
+Penelitian ini mengusulkan penggunaan cognitive 
+map dan SCA sebagai basis dari pengembangan 
+metode penstrukturan masalah yang diusulkan. 
+Usulan lainnya adalah perumusan 9 (sembilan) 
+langkah, yang terkait satu sama lain, bagi metode 
+penstrukturan masalah ini. Kesembilan langkah 
+yang terkait satu sama lain adalah sebagai berikut: 
+
+
+
+
+Langkah-1. Memilih fasilitator yang akan memandu 
+jalannya diskusi dan membentuk focus group discussion dalam perusahaan untuk mendapatkan 
+informasi yang komprehensif tentang permasalahan 
+yang dihadapi; 
+Langkah-2. Melakukan brainstorming yang berkaitan dengan masalah terkait, sehingga dihasilkan 
+suatu narasi atau deskripsi dari permasalahan yang 
+sedang dihadapi; 
+Langkah-3. Membuatan peta kognitif berdasar pada 
+hasil narasi permasalahan yang dihasilkan pada 
+Langkah-2; 
+Langkah-4. Mengidentifikasi akar masalah pada 
+peta kognitif yang dihasilkan pada Langkah-3, sebagai masukan untuk metode SCA; 
+Langkah-5. Menggali opini peserta diskusi kelompok untuk memberikan hubungan antar akar masalah yang telah diidentifikasi pada Langkah 4 
+(proses ini disebut shaping); 
+Langkah-6. Menentuan fokus masalah hubungan 
+antar akar masalah yang telah dihasilkan pada 
+Langkah-5; 
+Langkah-7. Menghasilkan pilihan-pilihan keputusan berdasar kombinasi fokus masalah yang dihasilkan pada Langkah-6, sehingga didapat matriks keputusan (proses ini disebut designing); 
+Langkah-8. Melakukan perbandingan antar pilihanpilihan keputusan yang dihasilkan pada Langkah-7 
+(proses ini disebut comparing) hingga didapat pilihan keputusan yang memungkinkan untuk dilaksanakan, dengan mempertimbangkan keadaan perusahaan saat ini. Perbandingan ini didasarkan 
+pada besaran yang disebut skor total keseluruhan; 
+Langkah-9. Berdasarkan skor total keseluruhan 
+untuk setiap pilihan keputusan yang dihasilkan 
+pada Langkah-8, kelompok diskusi merekomendasikan pilihan keputusan dengan skor total keseluruhan terbesar sebagai pilihan keputusan yang akan 
+dijalankan (proses ini disebut choosing). 
+ 
+Berikut ini adalah ilustrasi penerapan usulan metode penstrukturan masalah pengelolaan rantai pasokan dengan metode SCA berbasis peta kognitif 
+pada Perseroan Terbatas X. 
+ 
+Hasil Eksekusi Langkah-1: 
+ 
+Fasilitator yang dipilih adalah peneliti, yaitu Iwan 
+Mu’min Basarah, yang juga adalah karyawan dari 
+department human capital strategic di perusahaan. 
+Peserta diskusi kelompok dipilih atas dasar kepentingan terhadap permasalahan yang dihadapi. 
+Kompetensi anggota kelompok dipastikan sesuai 
+dengan bidang yang dikuasainya. Peserta kelompok 
+diskusi yang telah ditunjuk itu adalah kepala-kepala dari divisi supply chain management, selling and 
+marketing, kepala department national sales, inventory, warehouse, transportation, customer acco
+modation, human capital operational, dan kepala 
+bagian learning and development. 
+ 
+Hasil Eksekusi Langkah-2: 
+ 
+Masukan bagi Langkah-2 ini adalah informasi dari 
+setiap peserta diskusi. Setiap peserta diskusi menyampaikan sudut pandangnya atas permasalahan 
+yang sedang dihadapi perusahaan berdasarkan posisi mereka dalam organisasi. Dinamika kelompok 
+yang muncul dalam langkah ini dicermati dengan 
+baik oleh fasilitator dan ditulis kembali sehingga 
+menjadi suatu narasi permasalahan. 
+ 
+Narasi permasalahan inilah yang merupakan keluaran dari Langkah-2 ini. Setiap kalimat yang 
+menjadi bagian dari narasi ini diberi notasi atau 
+penomoran pernyataan. Penomoran ini ditujukan 
+bagi kemudahan penyusunan peta kognitif kelak 
+pada Langkah-3. Narasi permasalahan yang telah 
+terbentuk disampaikan kembali kepada anggota 
+kelompok untuk mendapatkan persetujuan. 
+ 
+Hasil Eksekusi Langkah-3: 
+ 
+Pada langkah ini fasilitator meminta anggota kelompok untuk melihat keterkaitan atau hubungan 
+kausal atau hubungan sebab-akibat antar pernyataan pada narasi permasalahan. Hubungan ini dinyatakan dengan simbol panah berarah. Pangkal 
+panah menyatakan pernyataan yang menjadi penyebab. Ujung panah menyatakan pernyataan akibat. Keluaran dari langkah ini adalah peta kognitif 
+seperti yang terlihat pada Gambar-2. Sebagai catatan, beberapa ikon pada peta kognitif disertai 
+simbol lingkaran, hal ini sebenarnya merupakan 
+hasil dari Langkah-4 yang akan diterangkan lebih 
+lanjut pada bahasan langkah tersebut. 
+ 
+Hasil Eksekusi Langkah-4: 
+ 
+Keluaran dari langkah ini adalah didapatkannya 
+sekelompok akar masalah. Sekelompok akar masalah diperoleh dari peta kognitif dengan jalan 
+mencari pernyataan yang secara grafis tak pernah 
+ditusuk oleh sebuah panahpun, artinya tak dipengaruhi oleh pernyataan lain. Akar masalah inilah yang 
+pada Gambar 2 diberi simbol lingkaran, seperti 
+telah diulas pada pembahasan hasil eksekusi Langkah-3. Sekelompok akar masalah yang didapat adalah (lihat Gambar-1): Tingginya biaya persediaan 
+bahan baku; Tingginya biaya persediaan barang 
+jadi;Tingginya biaya transportasi ke kantor cabang; 
+Tingginya biaya transportasi ke konsumen; Rendahnya kompetensi tenaga kerja yang terlibat dalam 
+pengelolaan rantai pasokan, serta. Belum berjalannya pengembangan kompetensi kepada karyawan 
+yang terlibat dalam proses rantai pasokan secara 
+keseluruhan. 
+
+ 
+
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+Gambar 2. Peta kognitif dari permasalahan rantai pasokan di Perseoran Terbatas X 
+
+ 
+
+Gambar 3. Hubungan antar akar masalah pengelolaan rantai pasokan di Perseroan Terbatas X. 
+
+ 
+
+
+
+
+
+Hasil Eksekusi dari Langkah 5: 
+ 
+Diskusi kelompok dilakukan untuk menentukan 
+hubungan antar akar masalah yang telah dihasilkan pada Langkah 4. Proses diskusi ini bertujuan 
+untuk mengetahui hubungan sebab-akibat atau 
+keterkaitan, baik langsung maupun tidak langsung, 
+antar akar masalah tersebut. Akar masalah dilambangkan dengan lingkaran dan dua akar masalah yang memiliki hubungan sebab-akibat dihubungkan dengan tanda panah berarah. Dua akar 
+masalah dikategorikan sebagai memiliki hubungan 
+sebab-akibat bila terdapat bangunan silogisme yang 
+bermula dari sebab dan berakhir pada akibat. 
+Silogisme adalah adalah suatu argumen yang terdiri 
+atas premis-premis-premis 
+
+A mengakibatkan B 
+B mengakibatkan C 
+
+yang darinya dapat diturunkan konklusi atau 
+kesimpulan: 
+ 
+Berikut ini adalah beberapa silogisme yang didapat 
+dari diskusi kelompok tersebut. 
+
+A mengakibatkan C 
+
+ 
+
+Silogisme 1. 
+Rendahnya kompetensi tenaga kerja yang terlibat 
+dalam pengelolaan rantai pasok (khususnya kompetensi dalam perencanaan produksi) mengakibatkan 
+terjadinya banyak kesalahan dalam penjadwalan 
+proses produksi. Terjadinya banyak kesalahan 
+dalam penjadwalan proses produksi mengakibatkan 
+banyaknya kesalahan perencanaan kebutuhan bahan baku. Banyaknya kesalahan perencanaan kebutuhan bahan baku mengakibatkan banyaknya 
+kesalahan pada penjadwalan pembelian bahan baku. Banyaknya kesalahan pada penjadwalan pembelian bahan baku mengakibatkan banyaknya terjadi kesalahan pembelian bahan baku. Banyaknya 
+terjadi kesalahan pembelian bahan baku mengakibatkan banyaknya kedatangan bahan baku yang 
+tidak dibutuhkan untuk proses produksi. Banyaknya kedatangan bahan baku yang tidak dibutuhkan 
+mengakibatkan tingginya persediaan bahan baku di 
+gudang bahan baku. Tingginya biaya persediaan 
+bahan baku di gudang bahan baku mengakibatkan 
+tingginya persediaan bahan baku di gudang tersebut. 
+ 
+Berdasarkan sekumpulan premis ini, maka dengan 
+prinsip silogisme, didapatkan hubungan sebabakibat yang pertama (sebagai salah satu keluaran 
+dari Langkah-5 ini), yaitu rendahnya kompetensi 
+tenaga kerja yang terlibat dalam pengelolaan rantai 
+pasok mengakibatkan tingginya biaya persediaan 
+bahan baku di gudang bahan baku. 
+ 
+Silogisme 2. 
+Rendahnya kompetensi tenaga kerja dalam pengelolaan rantai pasok mengakibatkan banyaknya 
+
+terjadi kesalahan pada perencanaan kebutuhan 
+persediaan barang jadi di kantor cabang penjualan. 
+Banyaknya terjadi kesalahan pada perencanaan kebutuhan persediaan barang jadi di kantor cabang 
+penjualan mengakibatkan banyaknya kesalahan 
+informasi yang disampaikan ke gudang kantor 
+pusat untuk pengiriman barang jadi ke kantor 
+cabang. Banyaknya kesalahan informasi kebutuhan 
+barang jadi yang akan dikirimkan ke kantor cabang 
+mengakibatkan banyaknya kesalahan pengiriman 
+barang jadi ke gudang kantor cabang. Banyaknya 
+kesalahan pengiriman barang jadi ke gudang kantor 
+cabang mengakibatkan banyaknya pengiriman 
+barang yang sebenarnya tidak dibutuhkan di 
+gudang kantor cabang. Banyaknya pengiriman 
+barang yang sebenarnya tidak dibutuhkan di 
+gudang kantor cabang mengakibatkan tingginya 
+persediaan barang jadi di gudang kantor cabang. 
+Tingginya persediaan barang jadi di gudang kantor 
+cabang mengakibatkan tingginya biaya persediaan 
+barang jadi di gudang tersebut. 
+ 
+Berdasarkan sekumpulan premis ini, maka dengan 
+prinsip silogisme, didapatkan hubungan sebabakibat yang kedua (sebagai salah satu keluaran dari 
+Langkah-5 ini), yaitu rendahnya kompetensi tenaga 
+kerja yang terlibat dalam pengelolaan rantai pasok 
+mengakibatkan tingginya biaya persediaan barang 
+jadi di gudang kantor cabang. 
+ 
+Silogisme 3. 
+Rendahnya kompetensi tenaga kerja yang terlibat 
+dalam pengelolaan rantai pasok akan mengakibatkan sering terjadinya kesalahan pada perencanaan 
+kebutuhan persediaan barang jadi di kantor cabang 
+penjualan. Sering terjadinya kesalahan pada perencanaan kebutuhan persediaan barang jadi di kantor 
+cabang penjualan mengakibatkan banyaknya kesalahan informasi yang disampaikan ke gudang 
+kantor pusat untuk pengiriman barang jadi ke 
+kantor cabang. Banyaknya kesalahan informasi 
+yang disampaikan ke gudang kantor pusat untuk 
+pengiriman barang jadi kekantor cabang mengakibatkan banyaknya kesalahan pengiriman barang 
+jadi ke kantor cabang. Banyaknya kesalahan pengiriman barang jadi ke kantor cabang mengakibatkan 
+banyaknya pengiriman barang yang sebenarnya 
+tidak dibutuhkan di gudang kantor cabang. Banyaknya pengiriman barang yang sebenarnya tidak 
+dibutuhkan di gudang kantor cabang menyebabkan 
+tingginya biaya transportasi pengiriman barang jadi 
+dari gudang kantor pusat ke gudang kantor cabang. 
+ 
+Berdasarkan sekumpulan premis ini, maka dengan 
+prinsip silogisme, didapatkan hubungan sebab-akibat yang ketiga (sebagai salah satu keluaran dari 
+Langkah-5 ini), yaitu rendahnya kompetensi tenaga 
+kerja yang terlibat dalam pengelolaan rantai pasok 
+mengakibatkan tingginya biaya transportasi pengiriman barang jadi dari gudang kantor pusat ke 
+gudang kantor cabang. 
+ 
+Silogisme 4. 
+Rendahnya kompetensi tenaga kerja yang terlibat 
+dalam pengelolaan rantai pasok khususnya tenaga 
+administrasi pergudangan di kantor cabang penjualan dalam melakukan penyusunan rencana 
+pengiriman ke toko besi akan mengakibatkan kesalahan dalam penyusunan rute kirim ke toko. Kesalahan dalam penyusunan rute kirim ke toko akan 
+mengakibatkan pengiriman yang tidak berurutan. 
+Pengiriman yang tidak berurutan akan mengakibatkan tingginya kebutuhan bahan bakar yang 
+dipergunakan untuk pengiriman. Tingginya kebutuhan bahan bakar yang dipergunakan akan 
+membuat tingginya biaya bahan bakar. Tinggnya 
+biaya bahan bakar akan menyebabkan tingginya 
+biaya transportasi dari gudang kantor cabang ke 
+konsumen atau toko besi. 
+ 
+Berdasarkan sekumpulan premis ini, maka dengan 
+prinsip silogisme, didapatkan hubungan sebab-akibat yang keempat (sebagai salah satu keluaran dari 
+Langkah-5 ini), yaitu rendahnya kompetensi tenaga 
+kerja yang terlibat dalam pengelolaan rantai 
+pasokan mengakibatkan tingginya biaya transportasi pengiriman barang jadi dari gudang kantor 
+cabang ke konsumen. 
+ 
+Silogisme 5. 
+Belum berjalannya program pengembangan kompetensi kepada karyawan yang terlibat dalam pengelolaan rantai pasok mengakibatkan tidak tersampaikannya materi-materi pelatihan yang seharusnya 
+telah diterima oleh tenaga kerja yang terlibat dalam 
+pengelolaan rantai pasok. Tidak tersampaikannya 
+materi pelatihan tentang pengelolaan rantai pasok 
+kepada tenaga kerja yang terlibat akan mengakibatkan rendahnya kompetensi tenaga kerja yang 
+terlibat dalam pengelolaan rantai pasok. 
+ 
+Berdasarkan sekumpulan premis ini, maka dengan 
+prinsip silogisme, didapatkan hubungan sebab-akibat yang kelima (sebagai salah satu keluaran dari 
+Langkah-5 ini), yaitu belum berjalannya pelatihan 
+kepada karyawan yang terlibat dalam pengelolaan 
+rantai pasok mengakibatkan rendahnya kompetensi 
+tenaga kerja yang terlibat dalam pengelolaan rantai 
+pasok. 
+ 
+Kelima hasil silogisme dapat dinyatakan dalam 
+Gambar 3 yang menyatakan hubungan sebab-akibat antar akar masalah yang berhasil diidentifikasi 
+pada Langkah-4. 
+
+Hasil Eksekusi dari Langkah 6: 
+ 
+Keluaran dari langkah ini adalah fokus masalah. 
+Untuk mendapatkan akar masalah yang akan 
+menjadi fokus masalah, diusulkan aturan sederhana (rule of thumbs) sebagai berikut: (i) Urutkan 
+akar masalah dimulai dengan akar masalah yang 
+paling banyak memiliki kaitan dengan akar 
+masalah yang lain; (ii) Pilihlah akar-akar masalah 
+yang memiliki banyak kaitan dengan akar masalah 
+lain sebagai fokus masalah; (iii) Bila akar masalah 
+yang terpilih pada (ii) pun memiliki akar masalah 
+penyebabnya, maka akar masalah penyebab inipun 
+menjadi focus masalah. 
+ 
+Penerapan rule of thumbs (i) terhadap Gambar 3 
+yang dihasilkan pada Langkah-5 akan menghasilkan informasi bahwa masalah “Belum berjalannya 
+program pengembangan kepada karyawan yang 
+terlibat dalam proses rantai pasok” memiliki kaitan 
+paling banyak dengan akar masalah lainnya yaitu 
+sebanyak 4 akar masalah lainnya, sehingga 
+berdasar kaidah (ii) ia menjadi fokus masalah. Akar 
+masalah “Belum berjalannya pelatihan kepada karyawan yang terlibat dalam proses rantai pasok 
+secara keseluruhan” hanya memiliki kaitan dengan 
+satu akar masalah lainnya, maka berdasar butir (iii) 
+hal ini pun dapat menjadi fokus masalah. 
+ 
+Jadi, yang menjadi keluaran dari Langkah-6 ini 
+adalah fokus masalah yaitu “Rendahnya kompetensi 
+tenaga kerja yang terlibat dalam pengelolaan rantai 
+pasokan” dan “Belum berjalannya pengembangan 
+kompetensi karyawan yang terlibat dalam proses 
+rantai pasokan”. Kedua fokus masalah terpilih ini 
+disebut Decision Area dari metode penstrukturan 
+masalah yang tengah dibahas. 
+ 
+Hasil Eksekusi dari Langkah 7: 
+ 
+Berdasarkan kedua fokus masalah 
+ini, maka 
+anggota diskusi diminta untuk merumuskan alternatif pemecahan masalah bagi setiap fokus masalah 
+tersebut. Sebagai langkah awal, untuk mendapatkan alternatif pemecahan masalah, anggota kelompok diskusi diminta untuk mengidentifikasi faktor 
+faktor yang menjadi penyebab munculnya masalah 
+tersebut. Untuk masalah “Rendahnya kompetensi 
+tenaga kerja yang terlibat dalam pengelolaan rantai 
+pasokan”, anggota kelompok diskusi berhasil mengidentifikasi penyebabnya yaitu: (i) Sejak direkrut, 
+karyawan belum pernah diberi pelatihan tentang 
+pengelolaan rantai pasok; (ii) Penempatan karyawan yang tidak tepat pada posisi dan kompetensinya, mengakibatkan kompetensi karyawan 
+tersebut rendah untuk area pengelolaan rantai 
+pasokan; (iii) Program pengembangan karyawan di 
+area pengelolaan rantai pasok yang tidak ber-
+kelanjutan. 
+
+ 
+
+
+
+Dari hasil diskusi kelompok, diperoleh alternatif 
+pemecahan masalah “Rendahnya kompetensi tenaga kerja yang terlibat dalam pengelolaan rantai 
+pasokn”, sebagai berikut: (i) Diberikan pelatihan dasar tentang pengelolaan rantai pasok bagi karyawan 
+yang berada di area pekerjaaan pengelolaan rantai 
+pasok; (ii) Dilakukan rotasi dan mutasi kepada 
+karyawan yang tidak tepat penempatannya; (iii) 
+Disusun program pengembangan yang berkelanjutan dan dipastikan evaluasi program pengembangannya dilakukan secara berkelanjutan juga. 
+ 
+Untuk fokus masalah “Belum berjalannya program 
+pengembangan kepada karyawan yang terlibat dalam proses rantai pasok dan penjualan”, anggota 
+kelompok diskusi berhasil mengidentifikasi penyebabnya yaitu: (i) Karyawan yang bersangkutan 
+tidak mendapatkan ijin dari atasan untuk mengikuti program pengembangan dengan alasan sibuk 
+dengan pekerjaan operasionalnya; (ii) Keterbatasan 
+fasilitator yang memiliki kompetensi dalam menyampaikan materi yang diinginkan. 
+ 
+Dari hasil diskusi kelompok, diperoleh alternatif 
+pemecahan masalah “Belum berjalannya program 
+pengembangan kepada karyawan yang terlibat dalam proses rantai pasok dan penjualan” berikut: (i) 
+Memberikan pengertian dan koordinasi kepada 
+atasan terkait pentingnya pengembangan karyawan 
+
+secara keseluruhan untuk meningkatkan kinerja 
+karyawan tersebut dan kinerja perusahaan secara 
+keseluruhan walaupun kondisi operasional pekerjaannya sangat sibuk; (ii) Berkoordinasi dan bekerjasama dengan fasilitator eksternal dan atau konsultan untuk menjadi fasilitator yang bisa memberikan pelatihan dan pengembangan kepada karyawan. 
+ 
+Jika disusun dalam bentuk matriks, maka akan 
+diperoleh alternatif solusi dari pemecahan masalah 
+seperti dinyatakan pada Tabel 1. Keluaran dari 
+Langkah-7 adalah pilihan-pilihan keputusan yang 
+bisa diambil sebagai berikut: (i) Koordinasi dengan 
+atasan karyawan yang bersangkutan untuk diberikan pelatihan dasar tentang pengelolaan rantai 
+pasok bagi karyawan baru yang berada di area 
+pekerjaaan pengelolaan rantai pasok; (ii) Koordinasi 
+dengan atasan karyawan yang bersangkutan untuk 
+melakukan rotasi dan mutasi kepada karyawan 
+yang tidak tepat penempatannya; (iii) Koordinasi 
+dengan atasan karyawan yang bersangkutan untuk 
+menyusun program pengembangan yang berkelanjutan dan dipastikan evaluasi program pengembangannya dilakukan secara berkelanjutan juga; (iv) 
+Bekerjasama dengan fasilitator eksternal dan atau 
+konsultan untuk memberikan pelatihan dasar 
+tentang pengelolaan rantai pasok bagi karyawan 
+baru yang berada di area pekerjaaan pengelolaan 
+rantai pasok; (v) Bekerjasama dengan fasilitator 
+eksternal dan atau konsultan melakukan rotasi dan 
+mutasi kepada karyawan yang 
+tepat 
+penempatannya; (vi) Bekerjasama dengan fasilitator 
+eksternal dan atau konsultan untuk menyusun 
+program pengembangan yang berkelanjutan dan 
+dipastikan evaluasi program pengembangannya dilakukan secara berkelanjutan juga. 
+ 
+Hasil Eksekusi dari Langkah 8: 
+ 
+Dalam proses membandingkan pilihan keputusan 
+yang akan diambil, pertama-tama para peserta 
+diskusi kelompok secara bersama-sama menentukan kriteria yang akan digunakan dalam memilih 
+pilihan keputusan tersebut. Kriteria yang dihasilkan adalah: 
+Kriteria-1: Efektifitas keputusan yang akan diambil 
+berkaitan dengan dampak hasil pengembangan; 
+Kriteria-2: Kondisi keuangan perusahaan. 
+ 
+Berdasar hasil diskusi kelompok dan dengan mengikuti langkah-langkah pada metode The Analytical 
+Hierarchy Process dari Thomas Saaty (Winston ) 
+didapatkan 3 hasil berikut. 
+ 
+
+Berdasarkan 2 pillihan keputusan dengan nilai 
+tertinggi yang diperoleh yaitu Pilihan ke-i dan 
+Pilihan ke-iii, maka selanjutnya dilakukan analisis 
+the uncertainty area. 
+ 
+The uncertainty area (UA) adalah deskripsi dari setiap sumber ketidakpastian yang mungkin muncul 
+dan mengakibatkan kesulitan dalam penentuan 
+penyelesaian permasalahan. (Friend dan Hickling 
+). Dalam menentukan the uncertainty area dari 
+permasalahan pengelolaan rantai pasokan yang 
+dihadapi oleh Perseroan Terbatas X ini, fasilitator 
+mengajak anggota kelompok untuk berdiskusi 
+mengenai kemungkinan-kemungkinan ketidakpastian yang akan muncul berkaitan dengan pelaksanaan 2 pilihan keputusan yang diambil. Hasil diskusi tersebut dapat dilihat pada Tabel 3. 
+ 
+Hasil Eksekusi dari Langkah 9: 
+ 
+Oleh karena skor total keseluruhan dari Pilihan-i 
+adalah yang tertinggi, maka diputuskan untuk memilih langkah “Koordinasi dengan atasan karyawan 
+yang bersangkutan untuk diberikan pelatihan dasar 
+tentang pengelolaan rantai pasok bagi karyawan 
+baru yang berada di area pekerjaan pengelolaan 
+rantai pasok.” sebagai rencana yang akan direkomendasikan kepada pihak manajemen Perseroan 
+Terbatas X untuk dijalankan. Inilah yang menjadi 
+keluaran dari langkah-8. 
+ 
+Keluaran dari Langkah-9 adalah pilihan keputusan 
+yang akan dibuatkan rencana kerjanya. 
+ 
+
+Simpulan 
+
+ 
+Berdasarkan pada studi kasus manajemen rantai 
+pasok di Perseroan Terbatas X, maka dapat disim
+pulkan dua hal berikut ini. Pertama, yang menjadi 
+fokus masalah adalah “Rendahnya kompetensi 
+tenaga kerja yang terlibat dalam pengelolaan rantai 
+pasok” dan “Belum berjalannya pengembangan 
+kompetensi karyawan yang terlibat dalam proses 
+rantai pasok”, dua fokus masalah terpilih ini 
+menjadi decision area dari penelitian ini. Kedua, 
+dari proses comparing dan choosing, dipilih opsi 
+“koordinasi dengan atasan karyawan yang bersangkutan untuk diberikan pelatihan dasar tentang 
+pengelolaan rantai pasok bagi karyawan baru yang 
+berada di area pekerjaan pengelolaan rantai pasok” 
+sebagai rencana yang akan direkomendasikan 
+kepada pihak manajemen untuk dijalankan. 
+ 
+Langkah-5 hingga Langkah-8 dari usulan metode 
+penstrukturan masalah adalah langkah-langkah 
+pada metode SCA. Langkah-langkah ini dapat secara interaktif dijalankan dengan perangkat lunak 
+“STRAD” (STRategic ADviser), sehingga metode 
+usulan ini dapat dikombinasikan dengan perangkat 
+lunak ini dalam penerapannya. 
+

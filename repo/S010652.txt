@@ -1,0 +1,1111 @@
+﻿PEMODELAN SKENARIO KEBIJAKAN PENGENTASAN KEMISKINAN DI
+INDONESIA DENGAN METODE PROMETHEE
+
+ABSTRAK
+Salah satu tantangan dalam kebijakan pengentasan kemiskinan adalah mengembangkan program
+yang bersifat multidimensi baik dari sisi input, proses dan output yang akan menghasilkan alternatif
+kebijakan pengentasan kemiskinan terbaik. Hal ini penting mengingat kemiskinan adalah masalah
+multidimensi dan kriteria yang harus dipertimbangkan bervariasi. Penelitian ini bertujuan untuk
+mengatasi tantangan tersebut dengan menerapkan analisis mutli-kriteria pada kriteria input, proses
+dan ouput. Metode PROMETHEE (Preference Ranking Organization Methode for Enrichment Evaluation),
+digunakan untuk menilai berbagai pola program pengentasan kemiskinan yang dikembangkan oleh
+pemerintah, lembaga zakat dan sektor swasta. Selain itu, satu alternatif kebijakan baru, yaitu
+kebijakan hibrida diperkenalkan untuk dibandingkan dengan kebijakan yang ada. Hasil penelitian
+menunjukkan bahwa pola program zakat mempunyai kinerja yang baik dalam aspek waktu yang
+diperlukan untuk memberantas kemiskinan, kelengkapan program, ketepatan sasaran, kepuasan
+terhadap waktu penerimaan program, kepuasan terhadap proses penerimaan program, ketersediaan
+data, serta biaya pengelolaan. Sebaliknya, program pengentasan kemiskinan yang diprakarsai oleh
+sektor swasta, yaitu CSR tampil baik dalam aspek manajemen, biaya pengelolaan, ketersediaan data
+serta kepuasan terhadap waktu penyerahan program; sedangkan pola program pemerintah unggul
+dalam aspek: kelengkapan program dan ketersediaan dana. Secara keseluruhan, kebijakan baru yang
+diperkenalkan yaitu pola program hybrid menawarkan kinerja terbaik pada seluruh aspek
+pengelolaan program pengentasan kemiskinan.
+Kata kunci: pengentasan kemiskinan, hibrida, PROMETHEE
+
+PENDAHULUAN
+Kemiskinan terus menjadi agenda pembangunan
+berkelanjutan/SDGs (Sustainaible
+Development Goals) yang merupakan kelanjutan
+dari MDGs (Millineum Development
+Goals). Hal ini menunjukkan bahwa pemberantasan kemiskinan masih menjadi kesepakatan
+sebagian besar negara-negara di
+seluruh dunia. Demikian pula Indonesia.
+Kemiskinan di Indonesia merupakan
+permasalahan yang cukup pelik. Meskipun
+ekonomi tumbuh dan berkembang selama
+beberapa tahun terakhir dan berbagai langkah
+kebijakan pengurangan kemiskinan
+telah dilakukan, namun nampaknya belum
+membuahkan hasil yang signifikan. Targettarget
+kemiskinan yang ditetapkan oleh
+pemerintahpun hampir tidak pernah tercapai.
+Kemiskinan tetap menjadi masalah
+sosial yang paling persistence yang sulit
+ditanggulangi sebagaimana kemiskinan
+“abadi” yang terjadi di Afrika (Korankye,
+2014). Gambar 1 menunjukkan kondisi kemiskinan
+dan perubahannya selama 10 tahun
+terakhir di Indonesia. Jika dilihat dari
+prosentase, jumlah penduduk miskin memang
+mengalami penurunan, namun dengan
+pengurangan yang cenderung menurun
+dan melambat sehingga secara nyata
+jumlah penduduk miskin tetap meningkat.
+Rata-rata penurunan jumlah penduduk miskin
+selama kurun waktu ini hanya sebesar
+0,56% per tahun. Data pada tahun 2015
+bahkan mencatat jumlah penduduk miskin
+pada Maret 2015 meningkat menjadi 11,22%
+dari total penduduk (28,59 juta jiwa), yang
+berarti mengalami penambahan dibanding
+September 2014 yang sebesar 10,96% (27,737
+juta jiwa) ((BPS, 2015). Jumlah kemiskinan
+itupun masih menggunakan kategori garis
+kemiskinan dari pendapatan kurang US$ 1
+per hari. Jika perhitungan menggunakan
+standar Bank Dunia yakni pendapatan US$
+1,9 per hari, maka jumlah penduduk miskin
+akan mencapai 42% atau hampir 100 juta
+jiwa.
+Kemiskinan tidak hanya menggambarkan
+keadaan ketidakmampuan dan ketidak
+berdayaan individu dalam memenuhi kebutuhan
+dasarnya, namun juga merupakan
+suatu proses yang komplek dengan banyak
+dimensi, mulai dari aspek ekonomi, sosial
+maupun budaya. Dilihat dari dinamikanya,
+kemiskinan dapat sementara, namun jika
+dibiarkan akut dapat menjadi persisten dan
+menjebak generasi penerus.
+Dasgupta (2007) menyatakan kemiskinan
+adalah suatu jalur berlumpur berbentuk
+spiral, ketika seseorang atau suatu keluarga
+masuk ke jalur itu maka akan sulit keluar
+bahkan cenderung merosot ke bawah. Untuk
+menangani permasalahan yang multi
+dimensional ini diperlukan upaya yang
+berkelanjutan yang didukung oleh kebijakan
+yang komprehensif meliputi aspek input,
+proses dan output.
+
+Dengan pendekatan ini, maka penanggulangan
+kemiskinan akan mampu membawa
+orang miskin keluar dari kemiskinannya,
+yang ditunjukkan oleh kemampuannya
+dalam menyelesaikan permasalahannya
+secara mandiri tanpa tergantung pihak
+lain.
+Di Indonesia, upaya mengatasi kemiskinan
+telah dilakukan oleh pemerintah
+sejak tahun 1970-an hingga saat ini melalui
+berbagai program baik yang bersifat bantuan
+sosial maupun yang bersifat pemberdayaan
+masyarakat. Upaya-upaya untuk
+mengatasi masalah sosial ekonomi ini juga
+dilakukan oleh lembaga-lembaga yang memiliki
+kepedulian terhadap kemiskinan.
+Salah satunya adalah lembaga zakat. Sebagai
+negara berpenduduk Muslim terbanyak
+di dunia, potensi zakat di Indonesia
+mencapai Rp.217 triliun per tahun dengan
+peningkatan rata-rata 10% (Mubarok dan
+Fanani, 2014). Zakat telah menjadi alternatif
+terbaik dalam mengatasi kemiskinan dan
+kesenjangan sebagaimana hasil penelitian
+Ariyani et al. (2015) dan Bremer, 2013 sebagaimana
+dikutip oleh Ariyani et al. (2016)
+Zakat tidak hanya sekedar sarana untuk
+memperbaiki kesejahteraan sosial bagi
+masyarakat miskin, tetapi juga menjadi
+sistem dan mekanisme untuk mengatur
+ketidaksetaraan ekonomi dan sosial yang
+kontinyu.
+Lembaga zakat di Indonesia baik yang
+beraviliasi kepada pemerintah seperti Baznas
+(Badan Amil Zakat Nasional) beserta
+jajarannya di daerah (Bazda) maupun lembaga-
+lembaga zakat swasta, melalui pendayagunaan
+zakat telah berkontribusi cukup
+besar dengan melakukan pengembangan
+program-program yang sangat variatif
+dan inovatif.
+Pihak lain yang juga terlibat dalam
+penanggulangan kemiskinan di Indonesia
+adalah sektor swasta melalui program
+corporate social responsibility (CSR). CSR merupakan
+umpan balik kepada masyarakat
+sehubungan dengan aktifitas perusahaan
+yang tidak jarang menjadi pemicu munculnya
+kemiskinan. Gagasan bahwa perusahaan
+harus memikul tanggung tanggung
+jawab di luar kepentingan stakeholders adalah
+konsep lama dan menuntut komitmen
+yang tinggi (The Economist, 2008). Jika dikelola
+dengan tepat CSR akan memungkinnya
+bertransformasi menjadi CCRR (Corporate
+Community Resource Responsibility) yang
+menjadi dasar terbangunnya tanggung jawab
+pembangunan ekonomi masyarakat
+(CEE-Community Economic Responsibilty)
+(Fauzi, 2012). Berdasarkan pada pemikiran
+ini, CSR dapat menjadi model yang tepat
+dalam pengembangan kemampuan ekonomi
+sosial masyarakat, khususnya masyarakat
+lokal di sekitar perusahaan.
+Konfigurasi keterlibatan pihak-pihak
+dalam penanggulangan kemiskinan di Indonesia
+menunjukkan adanya komitmen sosial
+yang sangat baik, maka jika ide dan program-
+program pengentasan kemiskinan
+benar-benar disusun dan dieksekusi dengan
+komitmen yang tinggi disertai dengan
+pengelolaan yang tepat, maka pemberantasan
+kemiskinan akan mungkin terwujud,
+namun dikarenakan lemahnya koordinasi
+di antara pihak-pihak tersebut, maka program-
+program sangat variatif dan pada
+aspek pelaksanaan memunculkan berbagai
+permasalahan.
+Berbagai hasil penelitian terdahulu diantaranya
+menyatakan bahwa pelaksanaan
+penanggulangan kemiskinan di Indonesia
+tidak koordinatif, masing-masing pihak
+berjalan sendiri-sendiri, tidak komprehensif
+dalam memenuhi kebutuhan orang
+miskin yang serba kekurangan, masih berorientasi
+kepada bantuan sosial serta tidak
+berkelanjutan. Beberapa penelitian bahkan
+mengatakan terjadi tumpang tindih (overlapping)
+antar program, ego sektoral, ambiguitas,
+tidak terpadu, tidak merata, memicu
+konflik struktural maupun konflik horisontal
+di kalangan masyarakat, serta parsial
+baik dalam: program, aturan, acuan, kriteria
+penerima manfaat, maupun pengelolaannya
+(Dolles, 2010; Muktasam dan Nurjannah,
+2011; Pusat Studi Sosial Asia Tenggara-
+UGM, 2014).
+
+Berdasarkan berbagai permasalahan di
+atas, maka sangat bijak sekiranya dapat
+dirancang suatu upaya terpadu yang melibatkan
+pihak-pihak tersebut secara konsisten
+yang didukung oleh koordinasi yang
+memadai. Tujuannya tidak lain adalah agar
+seluruh potensi dan sumber daya dapat
+dimanfaatkan secara efektif dan efisien. Untuk
+itu dapat dipertimbangkan kemungkinan
+dikembangkannya pola penanggulangan
+kemiskinan dengan model hybrid yaitu
+model kombinasi antara pola program pemerintah,
+pola zakat dan pola CSR sebagai
+representasi dari upaya terpadu tersebut.
+Ide model hybrid merupakan ide yang
+relatif baru. Agar terdukung oleh argumentasi
+ilmiah, maka ide ini perlu dievaluasi
+untuk dibandingkan dengan pola programprogram
+eksisting. Salah satu pendekatan
+adalah dengan melakukan perbandingan
+pemeringkatan terhadap pola programprogram
+eksisting dan pola model hybrid
+sehingga diketahui mana pola yang merupakan
+pola terbaik. Pola program terbaik
+nantinya dapat ditetapkan sebagai raw
+model pola program pengentasan kemiskinan
+dalam menghadapi kemiskinan yang
+persistence.
+Berdasarkan urian permasalahan tersebut,
+penelitian ini bertujuan untuk: (1)
+menentukan pola program terbaik di antara
+pola program pemerintah, pola program
+zakat, pola program CSR dan pola model
+hybrid; (2) mengetahui atribut-atribut yang
+menjadi sumber keunggulan pola programprogram
+tersebut. Untuk mendukung proses
+pemeringkatan dan memberikan analisis
+lebih rinci baik terhadap program-program
+eksisting maupun program model hybrid
+digunakan kaidah sains yakni melalui pendekatan
+multi criteria analysis dengan menggunakan
+metode PROMETHEE (Preference
+Ranking Organization Method for Enrichment
+Evaluation) yang dikembangkan oleh Brans
+dan Vincke (1985). Metode Promethee merupakan
+metode yang banyak digunakan
+untuk mengkaji secara mendalam potensi
+alternatif-alternatif melalui prinsip yang disebut
+outranking, yaitu proses pemeringkatan
+alternatif-alternatif melalui perbandingan
+nilai dengan mempertimbangkan preferensi
+pengambil keputusan (Brans et al.
+1986). Metode PROMETHEE semakin banyak
+diminati dalam praktek keputusan
+multi-kriteria dan peneliti yang tertarik
+pada aspek sensitivitas karena praktis dan
+fleksibel (Behzadian et al. 2010).
+
+
+
+TINJAUAN TEORETIS
+Kemiskinan dan Kerangka Kebijakan
+Pengentasan Kemiskinan
+Kemiskinan dapat didefinisikan melalui
+berbagai perspektif. Menurut Komisi
+Hak Asasi Manusia PBB, kemiskinan dapat
+dinyatakan dalam tiga cara yang berbeda
+Sarshar, 2010 sebagaimana dikutip oleh
+Khan (2014). Pertama, kemiskinan adalah
+situasi di mana terjadi kelangkaan fasilitas
+penting akibat dari pendapatan yang tidak
+memadai. Kedua, kemiskinan terjadi karena
+kegagalan memenuhi kebutuhan dasar.
+Ketiga dan yang lebih modern, kemiskinan
+menggambarkan kurangnya kesempatan.
+Dari sisi pengukuran, kemiskinan umumnya
+diukur sebagai kemiskinan absolut atau
+relatif. Kemiskinan absolut mengacu pada
+standar garis kemiskinan yang ditetapkan
+konsisten dari waktu ke waktu dan antar
+negara. Bank Dunia sejak 2008 mendefinisikan
+kemiskinan sebagai hidup kurang dari
+US $1,9 perhari, sedangkan kemiskinan relatif
+adalah kemiskinan yang pengukurannya
+didasarkan pada kemerataan distribusi
+pendapatan.
+Kajian secara luas terhadap kemiskinan
+telah dilakukan oleh berbagai kalangan baik
+akademisi, ekonom bahkan politisi, namun
+hingga saat ini belum ditemukan suatu
+rumusan kebijakan dan program yang dianggap
+paling berdayaguna, demikian pula
+teori yang membahas hal tersebut. Diantara
+sedikitnya teori dan konsep kebijakan pengentasan
+kemiskinan, Bradshaw (2007)
+menyatakan bahwa penyusunan kebijakan
+pengentasan kemiskinan memerlukan kajian
+komprehensif terhadap berbagai faktor
+yang menentukan keberhasilannya, yang meliputi aspek: pelaku, proses, evaluasi
+serta dasar teori yang relevan.
+Menurut Rank dalam Sameti et al.
+(2012) memahami konsep dan penyebab
+sebenarnya dari kemiskinan penting dan
+sangat berguna dalam merancang program
+pengentasan kemiskinan yang efektif. Menurutnya
+penyebab kemiskinan dapat dikelompokkan
+dalam empat faktor utama,
+yaitu: faktor individu, budaya, lingkungan,
+dan struktural. Sementara itu Schiller (2008),
+Laderchi, Saith dan Stewart, 2003 dalam
+Sameti et al. (2012) menyatakan cara kita
+mengkonsep dan mengukur kemiskinan
+akan mempengaruhi dalam merancang kebijakan
+dan program pengentasan kemiskinan.
+Kebijakan pengentasan kemiskinan
+yang efektif memerlukan penjabaran yang
+lebih operasional dalam bentuk program.
+Terhadap hal ini Dasgupta (2007) menyatakan
+bahwa desain program pengentasan
+kemiskinan yang tepat harus memenuhi
+kriteria berikut: (1) spesifik, artinya suatu
+program tidak cocok untuk segala situasi
+dan harus disesuaikan dengan institusi
+lokal, (2) relevan dengan permasalahan, (3)
+berbasis sumber daya lokal, (4) memahami
+konsekuensi yang tidak diinginkan atas
+pelaksanaan suatu program, (5) didasari
+oleh kesadaran bahwa kemiskinan adalah
+suatu sistuasi sebab akibat, tidak berdiri
+sendiri.
+Chambers et al. sebagaimana dikutip
+oleh Muktasam dan Nurjannah (2011) menyatakan
+keberhasilan program pengentasan
+kemiskinan sangat ditentukan oleh: (1)
+kesadaran terhadap nilai-nilai lokal, (2)
+pendekatan yang terintegrasi dan menyeluruh,
+serta (3) bersifat pengembangan
+sumberdaya manusia. Sedangkan faktorfaktor
+penyebab kegagalan program adalah:
+(1) pendekatan 'target' dan 'top-down'; (2)
+bias 'outsiders'; (3) kurangnya partisipasi; (4)
+pendekatan yang tidak holistik; dan (5) ilusi
+investasi. Lebih mendasar Bradshaw (2007)
+menyatakan membantu orang miskin penekanannya
+adalah kepada penyediaan
+dukungan dan layanan yang menyeluruh
+untuk mencapai "swasembada”, sehingga
+mampu melahirkan kemandirian bagi penerimanya.
+Pramanik dalam Hasan dan Khan
+(2007) menyatakan, agar berhasil, kebijakan
+dan program pengentasan kemiskinan perlu
+didukung dengan strategi yang tepat. Terdapat
+dua jenis strategi yang dapat diterapkan
+dalam kebijakan pengentasan kemiskinan,
+yaitu: (a) strategi tidak langsung yang
+berupa kebijakan makro untuk menjamin
+pertumbuhan ekonomi berkelanjutan, menyediakan
+kesempatan kerja, meningkatkan
+pendapatan per kapita dan mengurangi
+kemiskinan, dan (b) strategi langsung, yang
+merupakan kerangka kebijakan mikro berupa
+penyediaan bantuan yang diperlukan
+oleh penduduk miskin. Keterpaduan dua
+strategi ini akan melahirkan kebijakan anti
+kemiskinan yang efektif.
+
+
+Zakat dan Pengentasan Kemiskinan
+Zakat adalah mekanisme distribusi kekayaan
+dari orang kaya kepada orang
+miskin yang didukung oleh kewajiban
+agama. Menurut Bremer,2013 dalam
+Ariyani et al. (2016), struktur zakat secara
+eksplisit mendorong terjadinya kesetaraan
+dan keadilan sosial melalui kedua ujung
+spektrum pendapatan. Di ujung atas, zakat
+berfungsi untuk mencegah overconcentration
+dan akumulasi kekayaan yang berlebihan
+melebihi kebutuhan keluarga pada keluarga-
+keluarga mampu, sedang pada ujung
+bawah, zakat menentukan kategori pada
+populasi masyarakat yang membutuhkan
+dan seharusnya menerima bantuan. Dalam
+tatanan sistem ekonomi yang berlaku saat
+ini zakat menjadi sistem nilai yang berperan
+dalam mengatasi permasalahan distribusi
+pendapatan selain pajak dan transfer. Zakat
+juga merupakan sistem penggerak ekonomi
+yang akan menginisiasi masyarakat untuk
+mengelola sumber daya yang dimilikinya
+dalam mencapai taraf kehidupan yang lebih
+baik (Damilola, 2015).
+Kewajiban mengeluarkan zakat tidak
+pernah usang baik dari sisi waktu maupun
+kondisi masyarakat. Kewajiban tersebut tetap harus dilaksanakan meskipun para
+penerima zakat telah sejahtera. Konsepsi ini
+menjadikan zakat sebagai aset dan "dana
+abadi" yang sangat potensial untuk memerangi
+kemiskinan (Ali, 2010).
+Al-Qardawi dalam Ali (2010) menyatakan
+pembayaran zakat yang dilakukan oleh
+seseorang secara tidak langsung akan memberi
+kebaikan terhadap pembayar zakat itu
+sendiri, diantaranya perasaan bahagia, yang
+menurut Andreoni perasaan bahagia ketika
+memberi disebut warm glow sebagaimana
+dikutip oleh List (2011).
+Ali (2010) menyatakan zakat dapat meningkatkan
+agregate demand dan meningkat
+kan capital stock yang pada gilirannya akan
+meningkatkan pertumbuhan ekonomi. Dalam
+konteks makro zakat memberi efek
+terhadap akumulasi kapital melalui peningkatkan
+rasio modal tenaga kerja, meningkatkan
+potensi ekonomi dan sosial bagi
+para penerimanya. Untuk itu upaya mentransformasikan
+zakat dari sebatas nilai dan
+kewajiban relijius menjadi salah satu instrumen
+pembangunan ekonomi perlu dilakukan
+guna mencapai kemakmuran bagi
+seluruh masyarakat.
+
+
+Peran Sektor Swasta dalam Pengentasan
+Kemiskinan
+Sektor swasta dapat berperan penuh
+dalam upaya penanggulangan kemiskinan.
+(Dobers dan Halme, 2009) Peran tersebut
+dapat diwujudkan dengan berinvestasi
+dalam lingkungan sesuai dengan kebijakan
+bisnis dan kesadaran untuk melaksanakan
+tanggung jawab kepada seluruh stakeholder.
+Carroll (1979) sebagaimana dikutip oleh
+Sharma dan Kiran (2013) menyatakan tanggung
+jawab sosial bisnis meliputi ekspektasi
+dalam aspek ekonomi, hukum, etika serta
+organisasi. Pemikiran ini telah melahirkan
+konsep Corporate Social Responsibility (CSR).
+The World Business Council for
+Sustainable Development (WBCSD) mendefinisikan
+CSR sebagai komitmen bisnis
+untuk memberikan kontribusi bagi pembangunan
+ekonomi berkelanjutan, melalui
+kerjasama dengan para karyawan serta
+perwakilan mereka, keluarga, komunitas
+setempat maupun masyarakat umum untuk
+meningkatkan kualitas kehidupan dengan
+cara yang bermanfaat. CSR mempunyai
+potensi dalam mengurangi dampak negatif
+keberadaan bisnis terutama dalam mengatasi
+persoalan kemiskinan yang kompleks
+ini.
+
+
+Model Kelembagaan Hybrid
+Semakin terlibatnya masyarakat dan
+sektor swasta dalam penanganan permasalahan-
+permasalahan publik memerlukan
+tata kelola yang lebih baik untuk memfasilitasi
+berbagai perbedaan yang ada dalam
+sektor pemerintah, swasta dan masyarakat.
+Williamson, 1991 sebagaimana dikutip
+oleh German (2010) menyatakan bahwa
+model kelembagaan pemerintah dan
+swasta berbeda. Model pemerintah sangat
+regulated, terstruktur, dengan aktifitas yang
+direncanakan (intentional ordering), sementara
+model swasta dicirikan dengan fleksibel
+dan spontaneus. Untuk mengatasi
+perbedaan di antara ke dua model tersebut
+serta dalam meningkatkan efektivitas peran
+masing-masing lembaga, Williamson menyarankan
+untuk mengkombinasikan keduanya.
+Model kelembagaan kombinasi ini
+disebut model hybrid.
+Altman dan Cochrane (2003) dalam
+Russell (2011) menyatakan model hybrid
+merupakan model kelembagaan yang tepat
+dalam mengatasi permasalahan yang kompleks
+dimana banyak aktor terlibat, melalui
+kemampuannya dalam meningkatkan koordinasi
+dan interdependensi. Hal ini terjadi
+karena pengaturan model hybrid (hybrid
+arrangement) akan menjadikan sumber daya
+terkumpul (pooled resources) sehingga
+potensi untuk terselesaikannya permasalahan
+semakin baik (Menard dan Shirley, 2014).
+Menurut Elsner (2004) dalam Proff
+(2015) model hybrid akan memfasilitasi
+terjadinya collective learning di antara berbagai
+institusi yang rendah dalam koordinasi
+dan kerjasama. German (2010) menyatakan
+dengan menerapkan model hybrid
+maka interdependensi antar lembaga akan muncul melalui koordinasi dan kerjasama
+yang intensif tanpa menghilangkan otonomi
+masing-masing. Pemahaman tentang peran
+dan pendekatan yang koordinatif dalam
+model hybrid, mendorong pihak-pihak dapat
+membuat kemajuan yang realistis dalam
+menghadapi kompleksnya tugas-tugas (Mc
+Kague et al. 2015). Pache dan Santos (2013)
+menyatakan strategi hibrida memungkinkan
+legitimasi kepada para pemangku
+kepentingan eksternal tanpa harus terlibat
+dalam negosiasi yang mahal. Inisiatif penerapan
+model hybrid dalam pengembang
+an kebijakan penanggulangan kemiskinan
+akan melahirkan program-program komprehensif,
+berjangka panjang, berkelanjutan
+dan berfokus pada hasil.
+
+
+Metode PROMETHEE
+PROMETHEE adalah salah satu metode
+pembuatan keputusan multikriteria yang
+semakin populer digunakan oleh peneliti
+(Keyser dan Peeters, 1996). Metode ini
+menggunakan konsep outranking (urutan)
+sebagai dasar pengambilan keputusan, dimana
+urutan ditetapkan berdasarkan prinsip
+apakah suatu alternatif “mendominasi”
+atau “didominasi” oleh alternatif lainnya.
+Suatu alternatif mendominasi ketika melakukan
+kinerja lebih baik daripada alternatif
+yang lain setidaknya pada satu kriteria
+dan tidak lebih buruk pada kriteria lainnya,
+sedangkan didominasi terjadi jika suatu
+alternatif melakukan kinerja lebih buruk
+daripada alternatif yang lain setidaknya
+pada satu kriteria dan tidak lebih baik pada
+kriteria lainnya (Hersh, 2006). Dengan
+mempertimbangkan preferensi pengambil
+keputusan, metode ini mampu mengantisipasi
+adanya bounded rationality dan
+incomplete information yang dihadapi oleh
+pengambil keputusan dalam hal informasi,
+kemampuan kognitif dan waktu Bouyssou
+dan Perny (1992).
+Dibandingkan dengan metode analisis
+multikriteria yang lain, PROMETHEE merupakan
+metode yang efisien dengan memberikan
+interpretasi langsung dari parameter
+dan hasil analisis sensitivitas
+(Amponsah et al. 2012; Al-Rashdan et al.
+1999; Goumas dan Lygerou, 2000). Selain
+itu, PROMETHEE juga menawarkan konsep
+dan aplikasi yang sederhana, fleksibel,
+hasilnya stabil, interpretasinya mudah, serta
+dapat digunakan untuk mengolah data baik
+kuantitatif, kualitatif maupun data stokastic
+(Schwartz dan Göthner, 2009 sebagaimana
+dikutip oleh Şehitoğlu dan Özdemir, 2013),
+sedangkan menurut Huylenbroeck (1995)
+gabungan antara pendekatan fungsi preferensi
+ELECTRE dan PROMETHEE akan
+menghasilkan sebuah kerangka kerja yang
+komprehensif untuk pengambilan keputusan
+multikriteria yang dapat diterapkan
+untuk semua jenis masalah baik pada data
+ordinal atau kardinal.
+Sebagai pendekatan pengambilan keputusan,
+PROMETHEE menggunakan kriteria
+dan skala ukuran yang relevan berdasarkan
+preferensi pembuat keputusan.
+Menurut Brans dan Vinke (1985), Hersh
+(2006) terdapat enam jenis fungsi preferensi
+mewakili preferensi pengambil keputusan
+sebagaimana pada Gambar 2. Penentuan
+tipe preferensi menggambarkan kesesuaian
+pemilihan parameter yang dicerminkan
+dalam dua nilai-nilai ambang batas, yaitu:
+indifference threshold dan preference threshold
+(Figuera, Yose, et al, 2005 dalam Wimmler et
+al. 2015). Indifference threshold menggambarkan
+penyimpangan terbesar antara dua
+alternatif yang oleh pembuat keputusan
+dianggap diabaikan, sedangkan preference
+threshold mewakili penyimpangan terkecil
+antara dua alternatif yang dianggap cukup
+oleh pembuat keputusan untuk menghasilkan
+preferensi mutlak (Kangas dan Pykäläinen,
+2001 dalam Şehitoğlu dan Özdemir,
+2013).
+Secara mathematis, urutan peringkat
+pada metode PROMETHEE didasarkan
+pada besarnya nilai aliran keluar (leaving
+flow/Φ+) dan aliran masuk (entering flow/Φ-)
+(Fauzi, 2015). Leaving flow menggambarkan
+keunggulan alternatif, sementara entering
+flow menggambarkan kelemahan alternatif.
+Berdasarkan kedua aliran tersebut diperoleh dua tipe peringkat yaitu partial preorder
+dan complete preorder.
+Partial preorder atau disebut PROMETHEE
+I menyatakan bahwa suatu alternatif
+merupakan alternatif yang lebih baik dibandingkan
+alternatif lain jika mempunyai
+aliran keluar lebih tinggi dan aliran masuk
+lebih rendah, namun pada kondisi tertentu
+dapat terjadi indifference yaitu jika arus
+preferensi leaving flow dan entering fow
+keduanya sama, dan dalam beberapa kasus
+aliran preferensi ini tidak selalu menghasilkan
+informasi yang konsisten (Brans et
+al., 1986).
+
+Menyadari adanya kemungkinan inkonsistensi
+tersebut, maka terdapat PROMETHEE
+II (complete preorder), yang didasarkan
+pada net flow(Φn), yaitu selisih
+antara leaving flow (Φ+) dan aliran masuk
+(Φn). Φn yang lebih tinggi menggambarkan
+alternatif yang lebih baik. PROMETHEE II
+akan menghasilkan pemeringkatan yang
+lengkap dan memvisualisasikan urutan seluruh
+alternatif sehingga jelas alternatif
+mana yang mendominasi dan yang didominasi.
+Brans et al. (1986) menyadari bahwa
+terdapat kemungkinan bagian informasi
+relevan yang cukup banyak hilang ketika
+menentukan net flow yang akan mempengaruhi
+hasil keputusan. Untuk mengatasi
+persoalan ini ia merekomendasikan untuk
+menerapkan PROMETHEE I dan PROMETHEE
+II secara bersamaan guna menentukan
+keputusan yang tepat.
+
+
+Penelitian Terdahulu
+Penelitian tentang program pengentasan
+kemiskinan pemerintah, zakat dan CSR
+telah dilakukan oleh peneliti-peneliti terdahulu.
+Beberapa penelitian-penelitian tersebut
+dapat dijadikan sebagai rujukan
+untuk menegaskan pentingnya penelitian
+ini dilakukan. Beik (2009) dalam penelitiannya
+menyatakan bahwa zakat merupakan
+salah satu solusi alternatif dalam mengurangi
+kemiskinan, namun, potensi dana
+yang besar dan peningkatannya dari tahun
+ke tahun yang cukup baik tidak disertai
+dengan realisasi dalam pengumpulannya
+(kurang dari 0,02% dari potensi zakat yang
+ada) sehingga mengurangi kemampuannya
+dalam memerangi kemiskinan. Salah satu
+penyebab dari hal ini adalah banyak diantara
+masyarakat yang masih mempertahankan
+pola penyaluran zakat secara
+tradisional yaitu penyaluran zakat secara langsung tanpa melalui lembaga zakat.
+Pusat Studi Sosial Asia Tenggara Pusat
+Studi Perdesaan dan Kawasan Universitas
+Gadjah Mada (2013) dalam penelitiannya
+yang berjudul Efektivitas Program Pengentasan
+Kemiskinan di 15 Kabupaten/
+Kota di Indonesia meyatakan bahwa program
+pengentasan kemiskinan memperagakan
+model kebijakan yang tidak koordinatif
+dan parsial, baik dalam hal aturan, acuan,
+kriteria penerima manfaat, dan pengelolaannya.
+Implementasi program pengentasan
+kemiskinan masih memperlihatkan adanya
+ego sektoral, overlapping, ambiguitas, konflik
+struktural, dan memicu konflik horisontal
+di kalangan masyarakat.
+Penelitian yang dilakukan oleh Muktasam
+dan Nurjannah (2011) yang berjudul
+Kajian Kritis Atas Fenomena Dan Program
+Pengentasan Kemiskinan Pada Masyarakat
+Sekitar Hutan Di Pulau Lombok menyatakan
+bahwa program-program pengentasan
+kemiskinan pemerintah sebagian besar tidak
+dirasakan manfaatnya oleh masyarakat
+dan gagal. Faktor-faktor yang menyebabkan
+kegagalan program diantaranya: tidak ada
+kegiatan pemantauan, tidak dilanjutkan setelah
+proyek selesai, tidak ada pembinaan,
+pengelolaan program kurang optimal, mental
+pengelola tidak serius membantu, tidak
+ada hasilnya.
+METODE PENELITIAN
+Obyek Penelitian
+Obyek penelitian ini berupa 3 pola
+program pengentasan kemiskinan, yakni
+pola program pemerintah meliputi 11
+program, terdiri dari: Program Keluarga
+Harapan (PKH), Program Bantuan Beras
+untuk Rakyat Miskin (Raskin), Program
+Jaminan Kesehatan (Jamkesmas), Pogram
+Bantuan Operasi Sekolah (BOS), Program
+Bantuan Siswa Miskin (BSM), serta PNPM
+Perdesaan, PNPM Perkotaan, Pengembangan
+Infrastruktur Sosial Ekonomi Wilayah
+(PISEW), Pengembangan Usaha Agribisnis
+Perdesaan (PUAP), PNPM Generasi, dan
+PNPM Pariwisata. Pola kedua adalah pola
+program zakat, terdiri dari programprogram
+zakat Badan Amil Zakat Nasional
+(Baznas), program-program zakat Lembaga
+Amil Zakat (LAZ) Dompet Dhuafa, program-
+program zakat Majelis Amil Zakat
+(MAZ) Baitussalam dan CSR terdiri dari
+program CSR PT.Antam, Tbk dan program
+CSR PT. Pertamina, Tbk.
+
+
+Metode Pengumpulan Data
+Pengumpulan data dilakukan melalui
+beberapa metode, sebagai berikut: (1) diskusi
+mendalam secara berkelompok dengan
+metode world cafe. Dipandu seorang fasilitator,
+24 orang peserta yang terdiri dari
+pengelola program zakat, konsultan CSR,
+dosen dan mahasiswa program pascasarjana,
+berkontribusi dalam diskusi tentang
+kondisi upaya pengentasan kemiskinan
+dan criteria evaluasi program pengentasan
+kemiskinan. Secara berkala peserta
+berpindah dari suatu meja ke meja yang
+lain. Perpindahan berlangsung dalam tiga
+putaran. Perpindahan ini memungkinkan
+diskusi berlangsung secara silang dan
+berkembang. Pada sesi akhir, ide-ide utama
+dan kemungkinan tindak lanjutnya dibahas
+dan disampaikan dalam forum pleno; (2)
+wawancara mendalam dengan pengelola
+program pemerintah, program zakat dan
+program CSR serta penerima program; (3)
+melakukan observasi proses pelaksanaan
+program.
+Dari data yang cukup beragam tersebut
+kemudian diekstraksi untuk memperoleh
+gambaran yang lebih aktual tentang pelaksanaan
+pengelolaan program pengentasan
+kemiskinan eksisting. Untuk keperluan
+analisis, data hasil ekstraksi kemudian diskoring
+dengan menggunakan skala kualitatif
+lima poin (sangat baik-buruk). Hasil
+skoring menjadi masukan (entry) pada
+software PROMETHEE.
+
+
+Kriteria Evaluasi
+Kriteria evaluasi terhadap pola program
+pengentasan kemiskinan yang digunakan
+pada penelitian ini terdiri dari
+sembilan atribut meliputi aspek input,
+proses dan output. Kriteria pada aspek input adalah: kualitas data, ketersediaan
+dana serta kelengkapan program. Kriteria
+pada aspek proses berupa: rata-rata waktu
+yang diperlukan untuk mengeluarkan
+orang miskin dari kemiskinannya (time to
+exit from proverty), biaya pengelolaan dan
+manajemen. Kriteria pada aspek output
+meliputi: ketepatan sasaran, kepuasan penerima
+program terhadap waktu penyerahan
+program dan kepuasan penerima program
+terhadap proses penerimaan program.
+Sesuai prosedur metode PROMETHEE,
+pada setiap kriteria evaluasi ditetapkan
+fungsi preferensi dan nilai ambang batas
+(threshold). Mengingat ketersediaan data
+yang bersifat kualitatif, maka dari ke 6 tipe
+preferensi hanya tipe “linier” dan “usual”
+yang digunakan. Guna mendukung proses
+pengambilan keputusan selanjutnya ditetapkan
+kriteria untuk menetapkan arah
+tujuan keputusan apakah dimaksimumkan
+atau diminimumkan. 2 kriteria yaitu waktu
+yang diperlukan untuk mengentaskan
+kemiskinan dan biaya pengelolaan dinilai
+dengan kriteria minimum, 7 kriteria yang
+lain dinilai dengan kriteria maksimum.
+Gambar 3 menunjukkan entry pada software
+PROMETHEE yang merangkum hasil
+skoring, kriteria evaluasi dan fungsi preferensi
+yang digunakan dalam penelitian ini.
+Selain ketiga pola program eksisting juga
+dinilai pola model hybrid sebagai pembanding.
+Secara lengkap tahapan analisis pemeringkatan
+pola program pengentasan
+kemiskinan menggunakan metode PROMETHEE
+sebagaimana pada gambar 4.
+
+
+ANALISISIS DAN PEMBAHASAN
+Urutan Peringkat Pola Program Pengentasan
+Kemiskinan
+Hasil analisis perbandingan antara pola
+program pemerintah, pola zakat, pola CSR
+dan pola model hybrid menghasilkan partial
+ranking sebagaimana pada Gambar 5. Pada
+bar sebelah kiri (Gambar 5 sebelah kiri)
+menunjukkan urutan peringkat pola program
+berdasarkan Φ+ (leaving flow) sedangkan
+bar sebelah kanan menunjukkan urutan
+peringkat berdasarkan Φ- (entering flow).
+Atas dasar kedua aliran tersebut, hubungan
+dominasi preorder parsial (PROMETHEE I)
+dapat diketahui. Analisis pada Φ+ menunjukkan
+bahwa pola model hybrid berada
+pada peringkat teratas disusul oleh pola
+zakat, pola CSR pada urutan berikutnya
+dan disusul kemudian oleh pola program
+pemerintah pada peringkat terakhir. Analisis
+pada Φ- menunjukkan urutan tersebut
+tidak mengalami perubahan. Temuan ini
+menunjukkan kekuatan dari pola model
+hybrid yang mendominasi pola program
+lainnya.
+Urutan peringkat pada PROMETHEE I
+didukung pula oleh hasil analisis PROMETHEE
+II (complete preorder). Urutan peringkat
+pada PROMETHEE II yang didasarkan
+pada net flow, menjadi kompromi terbaik
+(best-compromise solution) dalam menentukan
+pemeringkatan. Dari analisis net flow
+diketahui pola model hybrid merupakan
+pola yang mempunyai nilai Φn paling besar
+dibandingkan dengan pola program lainnya.
+Dari temuan ini maka, pola model
+hybrid mendominasi program lainnya.
+Sementara, pola program zakat berada pada
+urutan kedua, disusul kemudian oleh pola
+CSR pada peringkat ke tiga, dan pola program
+pemerintah yang memiliki net flow
+terendah berada pada peringkat terakhir.
+Hasil analisis PROMETHEE II menggambarkan
+bahwa pola model hybrid adalah
+pola program terbaik dibandingkan dengan
+pola zakat, pola CSR maupun model pemerintah.
+Metode PROMETHEE merupakan metode
+pengambilan keputusan yang komprehensif,
+selain menentukan hubungan outranking,
+juga memberikan ilustrasi tentang
+kriteria yang menjadi sumber keunggulan
+dan kelemahan masing-masing pola program.
+Untuk mengetahui kriteria yang menjadi
+sumber keunggulan dan kelemahan
+pola program disajikan Gambar 6.
+
+Gambar 6 menunjukkan bahwa pola program
+zakat memiliki keunggulan hampir
+pada seluruh kriteria evalusi kecuali pada
+kriteria ketersediaan dana. Keunggulan
+pola zakat kemungkinan disebabkan oleh
+aturan agama yang telah mengarahkan
+dengan jelas target penerima zakat serta
+mekanisme pembagian zakat sehingga berdampak
+terhadap efektivitas manajemen,
+efisiensi dalam biaya pengelolaan serta
+waktu yang diperlukan untuk mengeluarkan
+mustahik (penerima zakat) dari kemiskinannya.
+Kelemahan dalam hal dana
+sangat mungkin disebabkan oleh masih
+banyaknya pembayar zakat yang membayarkan
+zakatnya secara langsung kepada
+penerima tanpa melalui lembaga zakat.
+Temuan tentang kelemahan pola zakat ini
+menguatkan hasil penelitian terdahulu yang
+dilakukan oleh Beik (2009).
+Pola CSR yang berada pada urutan
+ketiga unggul pada kriteria biaya pengelolaan
+dan manajemen. Keunggulan pola CSR
+kemungkinan disebabkan oleh budaya
+organisasi sektor swasta yang efisien serta
+kinerja manajemen yang baik. Pada kriteria
+lainnya, yaitu: ketersediaan dana, waktu
+yang diperlukan untuk pengentasan kemiskinan,
+ketepatan sasaran, dan kelengkapan
+program. Kelemahan program CSR
+kemungkinan disebabkan oleh kebutuhan
+untuk program CSR di wilayah remote yang
+relatif besar dibandingkan dengan ketersediaan
+dana yang relatif terbatas, sehingga
+mempengaruhi kualitas serta ragam program
+yang dirancang. Kelemahan pada
+kriteria waktu pengentasan yang diperlukan
+untuk pengentasan kemiskinan serta
+ketepatan sasaran, sangat mungkin disebabkan
+oleh fokus perhatian perusahaan terhadap
+isue pengentasan kemiskinan yang
+relatif masih rendah pada lembaga perusahaan,
+terkesan hanya memenuhi aturan
+dan perundangan meskipun ada potensi
+peningkatan kesadaran dari waktu ke
+waktu. Pendistribusian program CSR hanya
+kepada calon penerima yang menyerahkan
+proposal saja, juga menjadi alasan kuat
+rendahnya kinerja CSR pada ketepatan
+sasaran.
+
+
+
+Pola program pemerintah mempunyai
+keunggulan dalam kriteria kelengkapan
+program dan ketersediaan dana. Keunggulan
+pola program pemerintah kemungkinan
+terutama disebabkan oleh ketersediaan
+anggaran belanja negara untuk pengentasan
+kemiskinan yang cukup besar sehingga
+dapat dirancang berbagai program yang
+sangat lengkap. Sementara itu beberapa
+atribut menjadi sumber kelemahan program
+pemerintah yaitu: biaya pengelolaan, manajemen,
+ketepatan sasaran, kepuasan terhadap
+waktu penyerahan program, kepuasan
+terhadap proses penerimaan program,
+ketersediaan data, serta waktu yang diperlukan
+untuk mengeluarkan si miskin
+dari kemiskinan. Temuan ini menguatkan
+hasil-hasil penelitian terdahulu, diantaranya
+penelitian yang dilakukan oleh Pusat Pusat
+Studi Sosial Asia Tenggara Pusat Studi
+Perdesaan dan Kawasan Universitas Gadjah
+Mada, pada tahun 2013 dan Muktasam dan
+Nurjannah pada tahun 2011.
+Pola model hybrid yang merupakan
+model kombinasi dari pola program yang
+ada (eksisting) memiliki keunggulan pada
+seluruh kriteria, yakni waktu pengentasan
+kemiskinan yang cepat, ketersediaan data,
+ketersediaan dana, kelengkapan program,
+biaya pengelolaan, kepuasan terhadap waktu
+penyerahan program, manajemen, ketepatan
+sasaran, serta kepuasan terhadap
+proses penerimaan program. Temuan tentang
+keunggulan pola model hybrid ini
+sesuai dengan pernyataan para peneliti
+terdahulu tentang model hybrid yang menjadi
+alternatif terbaik model kelembagaan
+tatkala berhadapan dengan banyak aktor
+yang terlibat dalam penyelesaian permasalahan
+yang kompleks (German, 2010;
+Proff, 2015; Menard dan Shirley, 2014).
+Gambar 7 selanjutnya memberikan
+gambaran opsi pola program dalam bidang
+tiga dimensi berdasarkan aksis kriteria.
+Seperti terlihat pada pada Gambar 7 tersebut,
+pola hybrid mempunyai keunggulan
+pada criteria: kelengkapan program, waktu
+yang diperlukan dalam pengentasan kemiskinan,
+ketersediaan data, dan ketepatan
+sasaran, sedangkan pola program zakat
+yang berada dekat dengannya unggul pada
+kriteria kepuasan terhadap proses penerimaan
+program dan manajemen. Pola
+program zakat yang berada dalam kuadran yang dekat dengan pola hybrid menunjukkan
+keduanya hampir memiliki karakter
+yang sama. Di sisi lain pola program
+pemerintah dan pola program CSR kurang
+berada dalam kluster yang sama. Pada
+kuadran dimana pola program pemerintah
+berada, terlihat kriteria ketersediaan dana
+menunjukkan sebagai sumber keunggulan,
+sementara pola program CSR pada analisa
+ini tidak mempunyai keunggulan. Hasil
+analisis ini dapat menjadi dasar bagi arah
+pengembangan model program pengentasan
+kemiskinan di masa yang akan datang.
+Gambar 8 mempertegas posisi opsi.
+terhadap proyeksi pengembangan program
+pengentasan kemiskinan yang tepat sasaran.
+Pada Gambar 8 terlihat pola hybrid lebih
+dekat pada proyeksi ketepatan sasaran dibandingkan
+jarak proyeksi yang jauh, sebagaimana
+pola program pemerintah maupun
+pola program CSR. Jarak proyeksi
+terdekat berikutnya adalah skema pola
+program zakat. Meskipun jarak pola program
+CSR relatif agak jauh dengan ketepatan
+sasaran, namun dikarenakan pola
+manajemen yang baik, kesadaran yang semakin
+tinggi dari perusahaan terhadap
+tanggung jawab sosial, serta wilayah operasi
+yang relatif terbatas memungkinkan
+skema program dengan pola CSR akan lebih
+mudah menyesuaikan dalam merancang
+program yang tepat sasaran. Sementara
+untuk pola program pemerintah berada
+pada posisi yang berjarak paling jauh
+dengan aksis ketepatan sasaran sehingga
+dapat disimpulkan bahwa untuk menuju ke
+pola model hybrid memerlukan upaya yang
+cukup keras dibandingkan dengan pola
+lainnya agar berhasil.
+Analisis selanjutnya untuk menunjukkan
+keunggulan masing-masing pola program,
+dilakukan dengan menggunakan peta
+RADAR sebagaimana terlihat pada Gambar
+9, pola model hybrid hampir unggul pada
+seluruh criteria. Hal ini ditunjukkan oleh
+radar yang melebar ke luar. Pola program
+zakat unggul pada kriteria kelengkapan
+program, ketersediaan data, kepuasan terhadap waktu penyerahan program, waktu
+untuk pengentasan kemiskinan, ketepatan
+sasaran dan manajemen. Pola CSR unggul
+pada kriteria ketersediaan dana, manajemen
+dan kepusasan terhadap proses penerimaan
+program. Pola program pemerintah unggul
+pada kriteria ketersediaan dana, kelengkapan
+program, ketersediaan data dan ketepatan
+sasaran.
+
+
+Analisis Sensitifitas
+Bobot yang ditetapkan pada kriteria
+evaluasi mencerminkan prioritas pembuat
+keputusan. Mengingat tujuan yang berbeda,
+bobot pada satu kriteria dapat berbeda
+antara satu pembuat keputusan dengan
+pembuat keputusan yang lain. Metode
+PROMETHEE tidak memberikan pedoman
+khusus dalam penentuan bobot ini, namun
+adanya bounded rationality dan incomplete
+information pada pembuat keputusan dapat
+mengakibatkan hasil pemeringkatan menjadi
+kurang stabil. Dalam rangka menilai
+ketahanan hasil pemeringkatan yang diperoleh
+dari algoritma PROMETHEE perlu
+dilakukan uji sensitivitas (Schwartz dan
+Göthner, 2009 dalam Şehitoğlu, Y., Özdemir,
+O.C. 2013). Uji ini untuk mengetahui
+pengaruh variasi bobot kriteria pada hasil
+akhir pemeringkatan.
+Hasil pemeringkatan dikatakan mempunyai
+ketahanan yang baik (robust) apabila
+variasi bobot tidak menyebabkan urutan
+peringkat mengalami perubahan.
+Untuk menguji hasil pemeringkatan
+PROMETHEE II yang menggunakan bobot
+walking weight (default), dilakukan manipulasi
+terhadap bobot kriteria dengan menggunakan
+bobot equal. Hasil pemeringkatan
+dengan perubahan bobot ini menunjukkan
+tidak adanya perubahan urutan hasil
+PROMETHEE II sebagaimana terlihat pada
+Gambar 10. Dengan demikian urutan peringkat
+pola program yang menetapkan
+pola hybrid pada urutan pertama, diikuti
+oleh pola zakat pada urutan kedua, pola
+CSR pada urutan ketida dan pola program
+pemerintah yang berada pada urutan terakhir
+merupakan pemeringkatan yang
+robust.
+
+
+SIMPULAN dan SARAN
+Simpulan
+Hasil pemeringkatan terhadap pola
+program pemerintah, pola zakat, pola CSR
+dan pola model hybrid, menempatkan pola
+hybrid berada pada peringkat pertama baik
+pada partial ranking maupun complete ranking.
+Temuan ini menunjukkan bahwa pola
+model hybrid yang merupakan model
+kombinasi dari berbagai pola program-program
+eksisting merupakan pola program
+pengentasan kemiskinan terbaik.
+Pola model hybrid menunjukkan keung
+gulan pada seluruh aspek yang dianalisis.
+Dibandingkan dengan pola model hybrid,
+pola zakat lemah dalam aspek ketersediaan
+dana namun unggul pada seluruh aspek
+yang dianalisis. Pola program pemerintah
+hanya unggul pada kriteria ketersediaian
+dana dan kelengkapan program, sedangkan
+pola CSR unggul pada kriteria manajemen
+dan pencapaian target.
+Hasil pemeringkatan ini memberi
+gambaran yang jelas bagi pengambil kebijakan
+bahwa pola pengentasan kemiskinan
+secara parsial yang dilaksanakan selama
+ini kurang menjamin efektivitas upaya
+pengentasan kemiskinan. Sebaliknya model
+hybrid yang merupakan perwujudan dari
+pola kombinasi dan partisipatif merupakan
+alternatif terbaik. Pola model hybrid akan
+menjamin terjadinya koordinasi diantara
+pihak-pihak yang terlibat dalam penanggulangan
+kemiskinan yang selama ini
+lemah. Penerapan pola model hybrid akan
+mewujudkan penanggulangan kemiskinan
+dapat di lakukan secara terpadu dan berkelanjutan.
+
+
+Saran
+Berdasar pada simpulan penelitian,
+saran-saran sebagai implikasi dari penelitian
+ini terhadap kebijakan pengentasan kemiskinan
+di Indonesia dapat diuraikan
+sebagai berikut. Menanggapi kemiskinan
+yang multidimensional, maka kriteria keberhasilan
+program pengentasan kemiskinan
+harus komprehensif. Tidak hanya meliputi
+kecukupan dan penyerapan anggaran
+atau berkurangnya jumlah orang miskin,
+namun kebijakan yang terkait dengan aspek
+data dan kualitas program pada sisi input,
+aspek waktu yang diperlukan untuk mengentaskan
+kemiskinan, biaya pengelolaan
+serta manajemen pada sisi proses, serta aspek
+ketepatan sasaran, kepuasan terhadap
+waktu penerimaan program dan kepuasan
+terhadap proses penerimaan program menjadi
+variabel yang krusial untuk diaplikasikan.
+Dari sini, maka aspek hulu dari kebijakan
+menjadi penting sebagai indikator
+keberhasilan pengentasan kemiskinan.
+Sebagaimana terlihat pada analisis metode
+Promethee, bentuk preferensi pengambil
+keputuasan akan berimplikasi pada
+perlunya semacam threshold atau ambang
+batas dalam penentuan kriteria evauasi
+program pengentasan kemiskinan yang
+dapat ditoleransi baik oleh penyedia, pengguna
+maupun pengelola. Pola model hybrid
+sebagai pola terbaik memberikan implikasi
+terhadap entingnya lembaga atau institusi
+alternatif yang dapat mensinergikan keunggulan-
+keunggulan dari pola program yang
+ada. Kebijakan yang mendorong pengembangan
+institusi ini harus diinisiasi oleh pemerintah
+pusat dengan political will dan
+politik anggaran yang kuat.

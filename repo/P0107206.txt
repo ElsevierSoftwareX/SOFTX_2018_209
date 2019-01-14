@@ -1,0 +1,423 @@
+﻿PENGOLAHAN LINDI DENGAN PROSES OKSIDASI LANJUT
+BERBASIS OZON
+
+Abstrak
+Dampak negatif TPA adalah timbulnya lindi dengan karakteristik yang kompleks. Pengolah lindi yang
+banyak digunakan di Indonesia adalah pengolahan biologi. Tujuan penelitian ini untuk mencari
+efektivitas teknik oksidasi dengan O3 dan oksidasi lanjut berupa O3/H2O2 0,6 gr/L, serta O3/UV.
+Sample lindi diambil dari inlet instalasi pengolah lindi TPA Sarimukti dengan pengenceran 10 kali.
+Reaktor dioperasikan selama 3 jam dengan interval per 30 menit. Hasil karakterisasi sampel
+memperlihatkan bahwa lindi memiliki nilai BOD/COD 0,2. Nilai DHL pada setiap perlakuan
+menunjukan tingkat penurunan 8-11%. Tingkat penurunan terbesar yaitu pada proses O3/H2O2. Untuk
+penyisihan terhadap COD ketiga variasi memberikan trend yang sama. Efisiensi penyisihan COD
+tertinggi sebesar 28,9% adalah pada O3/H2O2. Peningkatan BOD untuk O3 dan O3/UV memberikan
+hasil yang relatif sama sehingga disimpulkan bahwa proses yang dilakukan sudah berhasil dalam
+meningkatkan biodegradibilitas lindi. Berdasarkan hasil konsentrasi sisa ozon, pengukuran DHL dan
+penyisihan COD, maka disimpulkan bahwa variasi O3/H2O2 memberikan hasil yang lebih baik.
+Penambahan H2O2dan pemaparan sinar UV merupakan inisiator pada reaksi dekomposisi ozon
+sehingga terbentuk oOH yang merupakan bahan dengan daya oksidasi terbesar dalam airsehingga
+bisa meningkatkan proses oksidasi yang lebih baik.Karakteristik lindi yang kompleks menyebabkan
+diperlukan penelitian yang lebih dalam terkait dengan komposisi senyawa organik.
+Kata kunci: teknik oksidasi lanjutan; lindi; radikal OH; laju dekomposisi ozon; efisiensi penyisihan
+
+PENDAHULUAN
+Teknik pengurugan (landfilling) merupakan
+teknik pengolahan akhir sampah yang biasa digunakan
+di Indonesia, bahkan di dunia. Teknik pengurugan
+telah dibangun sebanyak 150.000 di seluruh dunia
+(Kurniawan dkk., 2006). Menurut AMPL (2008), salah satu isu utama bidang persampahan di Indonesia
+adalah menurunnya kualitas manajemen di Tempat
+Pemrosesan Akhir Sampah (TPAS), dimana TPAS
+yang didesain dengan sanitary landfill dan control
+landfill pada prakteknya menjadi open dumping.
+Dampak negatif dari sistem pengurugan adalah
+timbulnya lindi akibat dari proses dekomposisi materi
+sampah dan air eksternal yang masuk ke dalam
+timbunan sampah. Lindi mengandung bahan organik
+baik yang biodegradable ataupun non biodegradable,
+mengandung ammonia, logam berat, bahkan
+berdasarkan tes toksikologi, lindi merupakan bahan
+yang berbahaya bagi kesehatan (Renou dkk., 2008).
+Permasalahan lindi di Indonesia menjadi
+semakin kompleks dan menimbulkan permasalahan
+sosial, akibat penanganannya yang tidak tepat.
+Kondisi ini diperparah dengan diterapkannya sistem
+pengurugan open dumping yang dapat menyebabkan
+kuantitas lindi semakin besar. Menurut statistika
+persampahan tahun 2008, hanya 42% TPAS di
+Indonesia yang memiliki fasilitas pengolahan lindi
+yang berfungsi dengan baik, dan pada umumnya
+sistem pengolahan yang masih berfungsi adalah sistem
+pengolahan fisik-kimia, sementara pengolahan biologi
+yang masih berfungsi hanya 2% (Kementrian
+Lingkungan Hidup, 2008).
+Pengolah lindi yang banyak digunakan di
+Indonesia hingga saat ini adalah kontak stabilisasi,
+yang dipilih berdasarkan kesederhanaan serta iklim
+tropis yang cukup panas. Salah satu kekurangan dari
+pengolahan biologi yaitu membutuhkan lahan yang
+luas (Wu dkk., 2004). Lebih lanjut, karakter lindi akan
+berubah sesuai dengan umur timbulan sampah,
+sehingga proses pengolahan harus menyesuaikan
+dengan perubahan karakter lindi tersebut. Lindi
+merupakan limbah yang sulit untuk secara langsung
+diolah secara biologi (Cortez dkk., 2010; Mahmud
+dkk., 2012).
+Teknik oksidasi lanjut merupakan teknik yang
+dapat diterapkan untuk menyisihkan warna,
+mengurangi kandungan bahan organik, serta merubah
+lindi menjadi lebih mudah didegradasi (Renou dkk.,
+2008). Ozon merupakan salah satu oksidator yang
+kuat memiliki nilai E0 sebesar 2,07 Volt, bahkan ozon
+akan terdekomposisi menjadi OH· yang merupakan
+oksidator terkuat di dalam air dengan nila E0 sebesar
+2,8 Volt. Proses ozonisasi maupun proses oksidasi
+lanjut dengan mempercepat dekomposisi ozon
+menjadi OH·, merupakan salah satu upaya yang
+dianggap akan efektif untuk mengolah lindi. Adapun
+reaksi dekomposisi ozon adalah (Von Gunten, 2003):
+O3 + OH- HO2
+- + O2 (1)
+O3 + HO2
+- OH· + O2· + O2 (2)
+Pada penelitian ini akan diteliti dan
+dibandingkan penyisihan lindi dengan teknik ozonisasi
+konvensional dan oksidasi lanjut (AOP) berupa
+O3/H2O2, serta O3/UV. Sampel lindi berasal dari
+tumpukan sampah yang muda, tepatnya dari TPA
+Sarimukti Bandung. Tujuan dari penelitian ini adalah
+untuk identifikasi pengaruh karakteristik lindi,
+mengetahui respon sampel lindi ketika proses
+berlangsung serta efektifitas proses ozonisasi
+konvensional dan AOP berbasiskan ozon melalui
+parameter kunci berupa BOD, COD, Daya Hantar
+Listrik (DHL) serta Total Organic Carbon (TOC).
+METODE PENELITIAN
+Sampel berasal dari TPAS Sarimukti yang
+terletak di Kecamatan Cipatat Kabupaten Bandung
+Barat, memiliki luas 25,2 Ha serta memproses sampah
+sebanyak 1.200 ton/hari. TPAS ini melayani sebagian
+besar sampah dari Cekungan Bandung, terutama
+wilayah Kota Bandung, Kota Cimahi dan Kabupaten
+Bandung Barat. Sampel lindi yang digunakan
+berasaldari Inlet unit pengolahan lindi TPAS
+Sarimukti. Sebelum diteliti sampel tersebut terlebih
+dahulu diencerkan sebanyak 10 kali.
+Penelitian akan dilakukan secara semi batch,
+dimana suplai gas ozon akan dilakukan secara
+menerus ke kontaktor batch yang berisi lindi sebanyak
+1 liter. Percobaan semi batch akan memberikan
+informasi mengenai titik kritis penurunan konsentrasi
+dengan gradien terbesar, sebelum mengalami
+kelandaian (Fernando, 1995). Rangkaian alat
+penelitian yang digunakan pada penelitian ini adalah
+tabung oksigen dengan kapasitas 1 m3, yang akan
+mengalirkan O2 dengan debit sebesar 3 L/menit ke
+ozon generator. Oksigen akan dirubah menjadi ozon
+pada ozon generator tipe 0ZF-1G, dengan daya 200 W
+dan tegangan 220 Volt. Selanjutnya, ozon pada fase
+gas akan dilarutkan pada ozon kontaktor, dimana
+sampel disimpan sebanyak 1 liter. Ozon kontaktor
+dilengkapi filter disc dengan diameter pori 60-100
+μm. Ozon kontaktor juga dilengkapi dengan valve
+yang berguna untuk pengambilan sampel air setiap 30
+menit selama 180 menit. Ozon yang masih tersisa
+pada fase gas akan diuraikan pada ozon dekomposer
+yang berisi larutan KI.
+Pada proses AOP dengan O3/H2O2, maka pada
+kontaktor akan ditambahkan H2O2 sebanyak 0,6 gr/L,
+sementara pada proses AOP dengan O3/UV akan
+dipaparkan sinar UV yang berasal dari lampu UV C
+berdaya 15 watt yang memiliki panjang gelombang
+kurang dari 280 nm. Lampu ini berfungsi untuk
+mempercepat pembentukan OH· dalam air. Jarak sinar
+lampu UV dengan kontaktor yaitu sebesar 10 cm.
+Skema rangkaian alat penelitian ditampilkan pada
+Gambar 1.
+Pengukuran konsentrasi sisa ozon pada fase
+cair dilakukan berdasarkan standard metode 4500-O3,
+yaitu dengan metode Indigo Calorimetric Methode
+(ICM). Pemeriksaan TOC dilakukan di Laboratorium
+air PDAM Kota Bandung dan hanya dilakukan pada
+sampel awal dan pada titik kritis ketika efisiensi
+pengolahan tercapai pada proses ozonisasi
+konvensional.
+
+Efektifitas proses ozonisasi konvensional dan
+AOP akan ditentukan berdasarkan pengukuran
+parameter BOD, COD, dan Daya Hantar Listrik
+(DHL) pada setiap interval 30 menit selama 180
+menit. Perubahan pH dan alkalinitas juga diukur untuk
+melihat respon dari lindi terhadap variasi proses
+ozonisasi. Kerangka penelitian dapat dilihat pada
+Tabel 1.
+HASIL DAN PEMBAHASAN
+Karakterisasi Sampel Lindi
+Karakteristik lindi TPA Sarimukti setelah
+diencerkan dapat dilihat pada Tabel 2. Alkalinitas
+merupakan kemampuan air untuk menetralkan asam.
+Nilai total alkalinitas pada sampel lindi sangat tinggi
+yaitu 1300 mg/L yang dimungkinkan karena
+konsentrasi ammonia yang tinggi pula. Alkalinitas
+menyatakan adanya kandungan senyawa karbonat dan
+bikarbonat. Senyawa ini pada proses ozonisasi air
+lindi berfungsi sebagai inhibitor (Fernando, 1995),
+akibatnya proses reaksi berantai dekomposisi ozon
+menjadi OH· dapat terhambat (Von Gunten, 2003),
+seperti pada reaksi di bawah:
+OH· + CO3CO3· + OH- (3)
+OH· + HCO3 CO3· + H2O (4)
+Reaksi 3 dan 4 memberikan informasi bahwa
+reaksi antara karbonat atau bikarbonat dengan OH·
+menghasilkan CO3· yang akan menghentikan reaksi
+berantai (Von Gunten, 2003).
+
+Kandungan amonia pada sampel lindi
+sangatlah tinggi hal ini menunjukan terjadinya proses
+amonifikasi, dikarenakan 70% komposisi sampah di
+Indonesia adalah bahan organik (Raharjo, 2009),
+sehingga bakteri heterotropik akan merubah organik
+nitrogen dalam tumpukan sampah menjadi amonia.
+Konsentrasi tersebut termasuk dalam kisaran amonia
+yang terkandung dalam lindi pada TPA aktif seperti
+yang disebutkan oleh Renou (2008) yaitu dapat
+mencapai 13.000 mg/L.
+Kandungan TOC pada sampel sebesar 85,58
+mg/L. Perbandingan BOD/COD pada sampel hanya
+0,2, hal ini mengindikasikan lindi didominasi oleh
+kandungan bahan organik non-biodegradble. Rasio
+BOD5/COD yang kurang dari 0,5, mengindikasikan
+proses pengolahan sebaiknya tidak menggunakan
+proses biologi namun fisik-kimia (Tchobanoglous
+dkk., 2003).
+Parameter DHL mengindikasikan kandungan
+anion dan kation untuk menghantarkan arus listrik
+yang dialirkan ke dalam air terkandung pada sampel
+yaitu sebesar 51,2 μS/cm yang merupakan pengukuran
+hasil pengenceran 10 kali. Nilai tersebut termasuk
+kategori rendah jika dibandingkan dengan lindi dari
+TPA lainnya di Indonesia yaitu sekitar 1.000-40.000
+μS/cm. Ion-ion utama yang menyebabkan kandungan
+daya hantar listrik adalah ion hydrogen H+ dan
+hidroksida OH- selain dari adanya kandungan fosfat
+dan nitrat. Kedua ion tersebut memiliki peran dalam
+proses ozonisasi seperti pada reaksi (1) dan (3).
+Konsentrasi sisa ozon
+Konsentrasi sisa ozon pada proses ozonisasi
+konvensional, O3/H2O2 dan O3/UV dapat dilihat pada
+Gambar 2.
+Gambar 2. Konsentrasi sisa ozon pada proses ozonisasi
+konvensional dan AOP
+Pada gambar tersebut, setelah menit ke-30,
+terlihat perbedaan konsentrasi sisa ozon yang
+signifikan antara proses konvensionaldan proses AOP.
+Terlihat bahwa pada proses AOP laju dekomposisi
+ozon lebih cepat dibandingkan dengan ozonisasi
+konvensional. Penambahan H2O2 berperan sebagai
+inisiator pada reaksi dekomposisi ozon sehingga
+terbentuk OH· yang merupakan bahan dengan daya
+oksidasi terbesar dalam air (Von Gunten, 2003).
+Ketika H2O2 dilarutkan dalam air, maka akan
+terdisosiasi menjadi ion hidroperoksida, lalu akan
+menghasilkan radikal superoksida yang merupakan
+promotor reaksi berantai (Von Gunten, 2003).
+H2O2 HO2
+- + H+ (5)
+HO2
+- + O3 H● + O2
+●- + O2 (6)
+Proses O3/UV memiliki trend nilai konsentrasi
+sisa ozon yang hampir sama dengan O3/H2O2. Sinar
+UV yang diberikan pada sampel akan diserap oleh
+ozon dan menghasilkan H2O2 sebagai hasil
+intermediate yang kemudian akan terdekomposisi
+menjadi OH radikal. Reaksi yang terjadi antara ozon
+dengan UV dapat dilihat pada persamaan reaksi
+dibawah ini (Savant, 2003):
+O3 + UV + H2O  H2O2 + O2 (7)
+H2O2 + UV  2 OH • (8)
+Perubahan pH dan Alkalinitas
+Respon lindi pada proses ozonisasi diukur
+melalui dinamika pH, dan alkalinitas pada proses
+ozonisasi konvensional dan proses AOP. Derajat
+keasaman, merupakan parameter universal yang
+digunakan untuk mengukur intensitas asam dan basa
+dari larutan. Lebih dari itu, pengukuran pH merupakan
+cara untuk mengukur konsentrasi ion H, lebih tepatnya
+aktifitas ion H. Sementara alkalinitas menyatakan
+kandungan bahan karbonat dan bikarbonat yang
+terdapat pada sampel. pH lindi merupakan parameter
+penting karena ion hidroperoksida menginisiasi
+dekomposisi ozon. Sementara karbonat dan bikarbonat
+dapat menghambat reaksi dekomposisi ozon.
+Gambar 3. Perubahan pH pada proses ozonisasi
+konvensional dan AOP
+Gambar 3 menunjukan pH air meningkat
+seiring penambahan waktu kontak pada setiap proses
+yang ada. Perbedaan pH antara ke-3 proses tidaklah
+besar. Pada proses ozonisasi, kenaikan pH selalu
+memiliki efek yang positif terhadap penyisihan COD
+(Fernando, 1995), tergantung dari jenis reaksi yang
+berlangsung. Berdasarkan Fernando (1995), pada
+reaksi langsung, kenaikan pH mengindikasikan adanya kehadiran senyawa yang dapat langsung
+beraksi dengan ozon seperti ditunjukkan pada reaksi 1.
+Reaksi tidak langsung, terjadi antara produk
+dekomposisi ozon yaitu OH· dengan senyawa lainnya.
+Reaksi ini terjadi ketika OH· yang dihasilkan dari
+reaksi 2 bereaksi dengan senyawa yang terdapat pada
+lindi. Sehingga dapat disimpulkan bahwa kenaikan pH
+dapat terjadi pada reaksi antara ozon secara langsung
+ataupun pada produk dekomposisinya yaitu OH·
+dengan senyawa yang terdapat pada lindi. Kenaikan
+nilai pH hingga pada kisaran range 8-9 akan
+mempercepat proses dekomposisi ozon (Kurniawan
+dkk., 2006) seperti terlihat pada Gambar 2.
+Hasil pengukuran alkalinitas menunjukkan
+fenomena yang berbeda dengan pH, alkalinitas
+mengalami penurunan seperti terlihat pada Gambar 4.
+Seperti ditunjukan pada reaksi 3 dan 4, pada proses
+ozonisasi menurut Acero dan Von Gunten (2000),
+karbonat dan bikarbonat dapat bereaksi dengan produk
+dekomposisi ozon dan menghasilkan karbonat radikal
+yang menjadi pemutus reaksi berantai pembentukan
+OH·. Oleh karena itu karbonat dan bikarbonat akan
+digunakan sebagai reaktan pada proses ozonisasi baik
+konvensional maupun AOP sehingga akan mengalami
+penurunan konsentrasi seiiring penambahan waktu
+kontak.
+Percobaan dilakukan secara semi batch.
+Gambar 3 dan 4 menunjukan perubahan pH dan
+alkalinitas memiliki perbedaan gradien pada menit ke
+90, dimana perubahan pH dan alkalinitas setelah menit
+tersebut lebih landai dibandingkan sebelum menit ke-
+90.
+Gambar 4. Perubahan alkalinitas pada proses
+ozonisasi konvensional dan AOP
+Efektifitas proses ozonisasi konvensional dan AOP
+Pengukuran DHL mengindikasikan
+pengukuran bahan anorganik dalam sampel lindi,
+sementara pengukuran COD mengindikasikan
+penurunan bahan organik pada sampel lindi.
+Konduktivitas dapat menunjukkan jumlah kehadiran
+ion secara total, pergerakan dan valensi ionnya.
+Tingginya kandungan DHL biasanya menunjukkan
+tingkat pencemaran pada air. Berdasarkan Sehah
+(2008), air lindi diindikasikan banyak mengandung
+senyawa asam, basa dan garam yang terlarut sehingga
+terpecah menjadi ion positif dan ion negatif yang
+meningkatkan DHL. Kandungan DHL pada sampel
+setelah diencerkan adalah 51,2 μS/cm, dimana
+menurut Pidriansy (2012), kandungan DHL pada
+sekitar sumur terdekat dengan TPA berkisar 132,5 dan
+1420 μS cm-1 dan tergolong tinggi.
+DHL merupakan indikator adanya kandungan
+zat- zat terlarut berupa kation dan anion yang bisa
+menghantarkan arus listrik. Pada Gambar 5, untuk
+ketiga variasi proses, terjadi penurunan DHL dengan
+nilai yang tidak berbeda secara signifikan, yaitu antara
+45,8-47,1 μmhos/L atau turun sekitar 8-11% dari
+kondisi awal. Meskipun demikian penurunan yang
+terbesar ada pada proses O3/H2O2.
+Gambar 5. Pengukuran DHL
+Penurunan DHL terjadi akibat dari terlepasnya
+kation dan anion yang kemudian mengendap dalam
+kondisi basa, dimana berdasarkan Gambar 3, pH
+mengalami kenaikan hingga diatas 9 pada seluruh
+proses. Fenomena ini menguatkan penelitian
+Rezagama dan Notodarmojo (2012).
+Grafik pengukuran COD dapat dilihat pada
+Gambar 6. Berdasarkan gambar tersebut, ketiga
+variasi memberikan trend dengan kecenderungan yang
+sama. Gambar 6 memberikan informasi, pada seluruh
+variasi, terdapat dua tahapan penyisihan. Titik kritis
+pada proses ozonisasi konvensional yaitu pada menit
+ke-60, dimana konsentrasi COD mencapai 275 mg/L,
+sementara hingga menit ke 180 efisiensi penurunan
+COD mencapai 18,74%. Pada proses O3/UV, titik
+kritis terjadi hingga menit ke 120, dimana COD turun
+hingga 264,41 mg/L. Hasil terbaik ditunjukan oleh
+proses O3/H2O2, dimana titik kritis terjadi pada menit
+ke 150, COD turun hingga mencapai 231,46 mg/L
+(28,9%). Sebagai perbandingan, maka dilakukan
+pengukuran TOC pada titik kritis pada proses
+ozonisasi konvensional, dan nilai TOC turun sebesar
+46% menjadi 44,65 mg/L. Fenomena tersebut
+dipengaruhi oleh konsentrasi sisa ozon. Nilai
+konsentrasi sisa ozon yang lebih kecil
+mengindikasikan jumlah OH· yang lebih dominan dan
+dominasi produk dekomposisi itu secara berturut turut
+dominan pada proses O3/H2O2, kemudian O3/UV dan
+ozonisasi konvensional. Proses ozonisasi yang disertai
+penambahan H2O2 akan menghasilkan proses dimana OH· akan lebih dominan dibandingkan dengan ozon
+itu sendiri, sehingga spesies ini akan lebih dominan
+berperan pada proses ini dengan daya oksidasi yang
+lebih baik (Cortez, dkk, 2010).
+Gambar 6. Pengukuran COD
+Reaksi tidak langsung melalui OH· berperan
+lebih dominan dalam penyisihan bahan organik untuk
+menghasilkan efisiensi penyisihan yang lebih baik.
+Penelitian ini menguatkan hasil penelitian Renou
+(2008), dimana teknik oksidasi lanjut merupakan
+teknik yang dapat diterapkan untuk menyisihkan
+kandungan bahan organik.
+Reaksi antara OH· dan bahan organik dapat
+menyebabkan efek terhadap stabilitas ozon. Setelah
+reaksi antara OH· dan bahan organik terjadi maka
+fraksi dari bahan organik menjadi carbon center
+radical. Reaksi carbon center radical dengan oksigen
+akan menyebabkan pembentukan superoxide radical,
+yang akan bereaksi dengan ozon membentuk OH
+radikal kembali (Von Gunten, 2003).
+Parameter lain yang mengukur tingkat
+efektivitas proses ozon adalah BOD yang
+menunjukkan indikator bahan organik yang bisa di
+degradasi secara biologi. Hasil pengukuran BOD
+untuk ketiga variasi dapat dilihat pada Gambar 7.
+Gambar 7. Pengukuran BOD
+Berdasarkan Gambar 7 terlihat bahwa terjadi
+peningkatan BOD untuk variasi ozon konvensional
+dan variasi O3/UV. Variasi O3/H2O2, terjadi deviasi
+terlihat dimana pada menit ke nol terjadi perbedaan
+yang signifikan dengan kedua variasi lainnya. Hal ini
+disebabkan karena ternyata dalam metoda pengukuran
+BOD yang digunakan, senyawa H2O2 diduga dapat
+berperan sebagai senyawa pengganggu terhadap
+pengukuran BOD.
+Gambar 7 memberikan indikasi bahwa proses
+yang dilakukan sudah berhasil dalam meningkatkan
+biodegradibilitas lindi. Peningkatan BOD dengan
+proses ozon konvensional memberikan hasil yang
+lebih baik dari AOP. Proses penyisihan bahan organik
+secara langsung dengan ozon diduga bisa
+meningkatkan tingkat biodegradibilitas lindi. Di sisi
+lain proses AOP seharusnya memberikan hasil yang
+lebih baik dibandingkan ozonisasi konvensional
+karena proses tersebut menginisiasi pembentukan
+OH·. Adanya radiasi UV tidak hanya mengaktifkan
+molekul ozon untuk membentuk OH radikal tetapi
+juga membuat senyawa organik mudah untuk
+dioksidasi (Li dkk., 2010). Fenomena tersebut
+mengindikasikan perlunya penelitian lanjutan untuk
+meneliti proses AOP terhadap penyisihan BOD,
+karena proses AOP melalui ozonisasi dapat
+meningkatkan kualitas lindi hingga siap untuk
+didegradasi secara biologi (Tizaoui dkk., 2007).
+Tizaoui (2007) menyatakan bahwa penambahan H2O2
+memerlukan dosis optimum untuk proses oksidasi,
+sementara pada proses O3/UV, diperlukan penelitian
+lanjutan mengenai jarak antara sumber sinar UV dan
+ozon kontaktor.
+KESIMPULAN
+Proses ozonisasi pada lindi akan menaikan
+nilai pH sementara alkalinitas akan menurun.
+Pengolahan lindi dapat dilakukan dengan proses
+ozonisasi konvensional maupun AOP berbasiskan
+ozon. Proses AOP dapat meningkatkan proses
+dekomposisi ozon, sehingga OH· akan lebih dominan
+mengoksidasi polutan yang terdapat pada lindi.
+Proses ozonisasi dan AOP bisa digunakan
+untuk menyisihkan DHL dan COD, sebaliknya BOD
+akan meningkat dan menunjukan biodegrabilitas lindi
+meningkat sehingga lebih siap untuk pengolahan
+lanjutan berupa pengolahan biologi. Hasil terbaik
+pengolahan lindi ditunjukan pada proses O3/H2O2.

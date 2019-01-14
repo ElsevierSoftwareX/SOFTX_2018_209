@@ -1,0 +1,57 @@
+﻿1 
+ BAB I 
+PENDAHULUAN 
+1.1 Latar Belakang 
+
+Dalam teknologi fabrikasi modern, kecenderungan miniaturisasi semakin meningkat. Hal ini ditunjukkan dengan produk-produk, alat dan instrumen yang diproduksi saat ini mengarah ke dimensi yang semakin mengecil. Alasan mengapa orang melakukan miniaturisasi, salah satunya yaitu dikarenakan semakin tingginya tingkat mobilitas manusia maka peralatan-peralatan yang digunakan perlu dibuat semakin kecil namun handal dalam fungsi dan kinerjanya. Hal ini membuat peneliti dan produsen peralatan berlomba membuat peralatan dan komponen berukuran mikro. Efek lanjut dari produk yang berukuran kecil/mikro adalah berimbas pada peralatan produksi yang dibutuhkan yang juga semakin mengecil. Imbas lainnya adalah berkurangnya konsumsi energi yang digunakan, mengurangi lahan yang dibutuhkan baik untuk produksi maupun penyimpanan, mengurangi kebutuhan akan material bahan baku, mengurangi polusi, yang pada akhirnya berarti mengurangi biaya produksi secara total (Geiger dkk, 2001). 
+
+Gambar 1.1. Contoh Peralatan Micro-Manufacturing (Qin, 2006) 
+
+Untuk mengantisipasi kecenderungan miniaturisasi pada fabrikasi modern, Lab Metrologi Industri Jurusan Teknik Mesin Undip telah mengawali melakukan penelitian proses pembuatan miniatur komponen. Usaha ini sebagai langkah awal menuju pembuatan komponen mikro. Pada tahap pertama penelitian, telah berhasil mendesain dan membuat mesin drop hammer forging, mendesain dan menghasilkan cetakan tipe closed die upset forging serta melakukan eksperimen pembuatan miniatur komponen berbahan kawat Aluminium murni memakai proses cold dan hot upset forging. 
+
+Gambar 1.3 menunjukkan hasil produk penelitian yang diperoleh dimana secara visual produk yang dihasilkan cukup baik. Dari nilai kekasaran permukaan produk yang dihasilkan, seperti ditampilkan pada tabel 1.1, trend yang terjadi sudah baik hanya saja belum mampu memenuhi standar kekasaran minimal baik untuk proses cold dan hot dengan dimensi yang dimeter head 2,86mm. 
+
+
+Gambar 1.2. Produk Cold Upset Forging tampak samping (a) tampak atas (b) produk miniatur dibandingkan dengan uang Rp 200,- (c) produk miniatur dibandingkan jarum pentul(d) (Rusnaldy dkk,. 2010) 
+Percobaan awal dengan alat yang didesain dan dibuat sendiri menghasilkan produk yang cukup baik (lihat gambar 1.2). Namun jika dianalisa lebih detail lagi maka akan terlihat ternyata dimensi produk belum sesuai dengan dimensi yang diinginkan. Hal ini dapat dilihat pada gambar 1.3a dan 1.3b. Kualitas dimensi produk belum memenuhi kriteria awal karena diameter head terlalu kecil yang mana mengindikasikan juga cetakan atas tidak terisi penuh. 
+Selain kualitas dimensi yang belum sesuai dengan spesifikasi produk, muncul juga cacat lipatan di posisi siku pada hasil proses cold upsetting dan barreling yang cukup besar ukurannya pada keduanya. Barreling yang cukup besar ini bisa menimbulkan resiko cacat pada head produk, berupa retakan sehingga juga berpengaruh pada kekuatan produk itu sendiri. Barreling yang cukup besar mengindikasikan adanya tahanan gesekan yang cukup besar yang menghambat laju aliran deformasi material. Selain itu beberapa produk juga mengalami adanya kemunculan flash padahal secara perhitungan tidak ada volume berlebih untuk proses upsetting ini. 
+Gambar 1.3. Profil produk yang dihasilkan dari proses cold upset forging (a) Profil produk yang dihasilkan dari proses hot upset forging (b) [Rusnaldy dkk,. 2010] Tipe komponen hasil proses upsetting (c) 
+
+
+Dari tabel 1.1 terlihat bahwa dari sisi dimensi produk yang dihasilkan belum memuaskan. Dua parameter utama terkait dimensi head yaitu diameter dan tebal head ternyata jauh dari target. Faktor barreling dan cacat lain sesungguhnya juga berimbas ke aspek geometri. 
+Beberapa hipotesa penyebab kurang sempurnanya produk upset forging diatas adalah: 
+1.1.1 Ukuran dimensi (diameter dan tebal head) yang belum tercapai. 
+Faktor yang perlu dikaji terkait permasalahan ini adalah kesesuaian volume benda kerja dengan volume ruang cetakan. Jika volume tersebut telah terpenuhi, pertanyaan selanjutnya apakah rasio diameter dan tinggi silinder benda kerja awal sudah tepat. Hal ini karena proses upset forging memerlukan parameter diameter awal minimal yang harus dipenuhi untuk mencapai dimensi akhir produk yang diinginkan. 
+Kedua adalah apakah cetakan mengalami keausan/cacat sehingga merubah penampang cetakan dan ini bisa berarti perubahan volume cetakan serta profil penampang yang akan berpengaruh terhadap laju deformasi material. 
+Yang ketiga adalah faktor energi pembentukan apakah cukup untuk mendeformasi material secara optimal, atau bahkan cenderung berlebih sehingga berakibat memperpendek umur cetakan karena energi berlebih tersebut ditransfer ke cetakan sehingga cetakan akan mengalami kegagalan/cacat. 
+1.1.2 Barreling. 
+Barreling terjadi karena gesekan yang besar antara benda kerja dengan dinding cetakan. Adanya barreling yang besar berarti adanya hambatan yang besar terhadap laju deformasi material. Sehingga hal ini juga berpengaruh pada kualitas permukaan produk yang dihasilkan serta berpengaruh terhadap pencapaian dimensi geometri produk. Pengujian aspek friction/gesekan pada posisi seperti ini saat ini masih dalam proses penelitian dan kendala yang belum terpecahkan secara memuaskan (pelumasan dan gesekan secara micro). 
+1.1.3 Cacat lain (Lipatan) 
+Cacat ini kemungkinan terjadi akibat dari aspek Upset rasio, principle strain yang tidak sesuai atau penampang cetakan yang berubah. Adanya cacat juga berimbas pada profil /dimensi produk yang tidak sesuai. 
+Melihat hampir semua cacat yang terjadi berkaitan dengan pencapaian dimensi produk maka pada penelitian ini difokuskan untuk mengkaji aspek penyebab timbulnya cacat dimensi produk pada hasil proses upset forging dengan titik berat difokus. Aspek kekasaran permukaan walaupun penting, bisa dikesampingkan dahulu karena aspek kepresisian dimensi haruslah diutamakan (Lange dkk, 1985). 
+Untuk mengkaji hal ini, penulis akan menggunakan pendekatan kajian perhitungan dengan rumus, pengujian dimensi dengan menggunakan alat-alat ukur yang diperlukan (CMM, micrometer) serta analisis menggunakan metode elemen hingga dengan software deform 2D v8.1. Penggunaan pendekatan elemen hingga sebagai pendekatan dasar dalam metal forming telah dikonstruksikan tahapannya oleh Kobayasi dkk (1989) dan Bathe (1996) serta telah diaplikasikan oleh Dixiet dkk (2002). 
+
+1.2 Tujuan Penelitian 
+
+Tujuan penelitian ini adalah untuk mengetahui penyebab cacat dimensi produk (diameter dan tebal head) hasil proses cold upset forging yang dilakukan di Lab Metrologi Industri Teknik Mesin Undip. 
+1.3 Batasan Masalah 
+
+Batasan dalam penelitian ini adalah: 
+a. Proses yang dianalisa adalah proses cold upset forging 
+b. Analisa yang dilakukan terkait produk terbatas pada faktor penyebab tidak sempurnanya yaitu dimensi diameter dan tebal head produk. 
+c. Material yang digunakan sebagai bahan uji adalah kawat aluminium murni berdiameter 1,5 mm panjang 5,06 mm dengan sifat-sifat fisik yang telah diketahui. 
+d. Material Dies adalah Baja SKD 11 dan dikerjakan dengan mesin EDM yang ada di Lab Produksi dan Jasa Politeknik Negeri Semarang. 
+e. Proses Upsetting dilakukan dengan sistem pengerjaan dingin yaitu temperatur 20oC (cold working). Variasi beban yang digunakan 75N, 85N, 95N, 105N,115N, 125N dan variasi kecepatan berdasar ketinggian jatuh beban sebesar 25 mm, 50 mm, dan 75mm. 
+f. Proses Upsett forging menggunakan mesin yang ada di Lab Metrologi dan Kontrol kualitas jurusan Teknik Mesin Undip yang menggunakan sistem drop hammer yang memanfaatkan gaya gravitasi untuk energi pembentukannya. 
+g. Pemakaian Software Deform digunakan untuk mensimulasikan proses dengan mengontrol parameter input material serta parameter input proses. 
+
+1.4 Manfaat Penelitian 
+
+Dari hasil penelitian ini diharapkan manfaat sebagai berikut : 
+a. Memberikan informasi atas faktor utama penyebab cacat dimensi produk sehingga kedepan bisa dilakukan antisipasi baik pada tahapan desain dan proses agar hal ini tidak terjadi lagi. 
+b. Mengetahui sejauh mana batasan kemampuan Lab Metrologi Industri untuk membuat produk miniatur. 
+c. Mengetahui batasan kemampuan mesin drop hammer forging yang sedang dikembangkan serta sarana pendukungnya dalam rangka meneliti proses microforming untuk pembuatan produk micro part. 
+
+1.5 Sistematika Penulisan 
+Penyusunan tesis ini terbagi atas 5 bab. Bab-bab tersebut adalah: bab I pendahuluan, bab II tinjauan pustaka, bab III metodologi penelitian, bab IV 7 
+analisa dan pembahasan, serta bab V kesimpulan dan saran. Pendahuluan berisi tentang latar belakang, tujuan penelitian, manfaat penelitian, batasan masalah dan sistematika penulisan. Tinjauan pustaka berisi tentang forging, upset forging, penelitian proses upset forging, drop hammer forging, Cacat pada proses tempa (forging), Aluminium. Metodologi penelitian berisi tentang pengambilan data produk eksperimen, pengolahan data desain dan eksperimen, simulasi FEM, Pembahasan dan diagram alir penelitian. Validasi dan hasil simulasi, Simulasi FEM berdasarkan data hasil pengukuran produk eksperimen untuk menentukan nilai blow efficiency, Simulasi FEM berdasarkan data desain produk dan cetakan dengan nilai Blow efficiency 20,5%, analisa gaya upsetting yang terjadi pada proses cold upset forging Analisa batas toleransi perubahan dimensi pada cetakan dibahas pada bagian analisa dan pembahasan. Sedangkan pada bagian akhir tesis ini akan ditutup dengan kesimpulan dan saran. Daftar pustaka berisi tentang daftar bahan-bahan pustaka yang digunakan sebagai rujukan atau acuan dasar penulisan tesis, sedangkan lampiran berisi tentang data hasil perhitungan proses simulasi.

@@ -1,0 +1,175 @@
+﻿ABSTRAK
+Beton sebagai lapis perkerasan jalan kaku dapat diproduksi di pabrik beton (readymix) atau
+diproduksi di lokasi pekerjaan (site mix ). Pada pekerjaan beton site mix terdapat risiko cukup
+besar yang dapat mempengaruhi pencapaian kualitas beton. Proyek peningkatan jalan beton di
+Kabupaten Grobogan Tahun Anggaran 2008 sebagian besar menggunakan beton site mix , terjadi
+kerusakan beton seperti permukaan jalan yang aus dan berlubang. Kerusakan yang terjadi dapat
+disebabkan adanya faktor risiko pada bahan penyusun beton, pencampuran bahan, pelaksanaan
+pengecoran dan pada perawatan beton serta dapat dipengaruhi oleh pengendalian kualitas selama
+pelaksanaan.
+Tujuan penelitian ini adalah mengkaji hubungan antara sumber risiko (x1), pengendalian (x2) dan
+kualitas (y) pada beton site mix dan menentukan faktor risiko yang muncul sebagai sumber risiko
+pada beton site mix . Faktor risiko kemudian dikelompokkan sesuai kategori risiko, yang dibagi
+dalam empat kategori yaitu risiko high, significant, moderate dan low. Metode penelitian ini
+dengan cara distribusi kuesioner kepada Dinas Bina Marga Kabupaten Grobogan. Sebagai data
+pendukung digunakan data hasil uji beton di lokasi yaitu pengujian hammer dan pengujian core
+drill. Kombinasi pengujian hammer dan core drill dibuat suatu kurva tertentu pada grafik rebound -
+strength (MPa) yang digunakan sebagai pendukung pencapaian kualitas beton site mix .
+Berdasarkan analisa hubungan antara sumber risiko (x1) dan pengendalian (x2) terhadap kualitas (y),
+diperoleh hasil bahwa kualitas beton tidak banyak dipengaruhi oleh adanya risiko tetapi lebih
+dominan dipengaruhi oleh pengendalian selama pekerjaan. Hasil pemetaan risiko menunjukkan
+bahwa faktor risiko kadar lumpur pada pasir, pelaksanaan campuran harus sesuai job mix, ketelitian
+alat penakar, perlindungan selama pengecoran, pemadatan dan perawatan beton termasuk kategori
+risiko high (H). Faktor risiko sumber dan kualitas air yang digunakan, Faktor Air Semen (FAS),
+ketelitian proporsi dan perlindungan arus lalu lintas termasuk kategori risiko Significant (S). Faktor
+risiko berat kemasan semen (kg/zak), ketelitian penakar dan volume air, properties agregat,
+pelaksanaan pencampuran dan metode pengecoran termasuk kategori risiko Moderate (M).
+Sedangkan pada kategori Low (L) tidak ditemukan faktor risiko pada kategori tersebut. Semua
+faktor risiko tersebut perlu pengendalian rutin untuk menjaga kualitas beton sesuai spesifikasi.
+Dari pengujian hammer sebanyak 862 titik didapatkan kuat tekan rata-rata sebesar 305,72 kg/cm2.
+Dari pengujian core drill sebanyak 82 titik didapatkan kuat tekan rata-rata sebesar 77,04 kg/cm2.
+Evaluasi mutu beton dengan kurva pada grafik rebound - strength, didapatkan hasil kuat tekan
+beton sebesar 182,40 kg/cm2 (≈15,14 MPa). Mutu beton yang lebih rendah dari spesifikasi (300
+kg/cm2) menyebabkan kondisi jalan beton mengalami kerusakan.
+Kualitas beton site mix tidak dipengaruhi sumber risiko secara langsung, tetapi lebih dominan
+dipengaruhi oleh pengendalian. Karena faktor-faktor risiko pada bahan penyusun beton dan
+pelaksanaannya dianggap bukan sebagai faktor yang dapat mempengaruhi kualitas beton site mix .
+Kata kunci: risiko, jalan beton, site mix , pengendalian, kualitas
+
+
+1
+BAB I
+PENDAHULUAN
+1.1 Latar Belakang
+Jalan merupakan infrastruktur yang menghubungkan satu daerah dengan
+daerah lain yang sangat penting dalam sistem pelayanan masyarakat
+(Wirahadikusumah, 2007). Lapisan perkerasan jalan berfungsi untuk menerima
+beban lalu lintas dan menyebarkannya ke lapisan di bawahnya kemudian diteruskan
+ke tanah dasar. Berdasarkan bahan pengikatnya, lapisan perkerasan jalan dibagi
+menjadi dua kategori yaitu lapisan perkeraan lentur dan lapisan perkerasan kaku.
+Perkerasan lentur (flexible pavement) adalah perkerasan jalan yang
+menggunakan aspal sebagai bahan pengikat material pasir dan split. Perkerasan
+kaku adalah perkerasan jalan yang menggunakan bahan pengikat dari semen
+sebagai struktur utama dan lapis aus permukaan, yang kemudian dikenal dengan
+perkerasan kaku beton semen (rigid pavement). Kombinasi antara dua jenis
+perkerasan ini disebut perkerasan komposit (composite pavement) dimana sebagai
+lapis bawah digunakan struktur beton sedangkan sebagai lapis permukaan
+digunakan aspal.
+Pada ruas jalan Pantura Semarang – Demak dipakai perkerasan komposit
+(composite pavement), sebagai lapis pondasi digunakan lapis perkerasan kaku
+(rigid pavement) dan untuk mendapatkan kenyamanan saat berkendara digunakan
+lapis perkerasan aspal (flexible pavement). Beton yang dipakai pada perkerasan
+kaku berasal dari perusahaan beton siap pakai (ready mix). Hasil yang diperoleh
+cukup baik dan mampu melayani volume lalu lintas yang besar dan berat.
+Di Kabupaten Grobogan pada ruas jalan Godong – Purwodadi km 51.5
+berdasarkan data terletak pada deposit tanah ekspansif (Pardoyo, 2004). Dinas Bina
+Marga Provinsi Jawa Tengah sudah melaksanakan perbaikan jalan dengan alternatif
+pemakaian geomembran atau geotextile pada ruas jalan tersebut dan pada ruas jalan
+Purwodadi – Blora. Hasil yang didapatkan tidak cukup maksimal dan masih terjadi
+kerusakan jalan. Kerusakan tersebut berupa kerusakan dini struktur perkerasan,
+retak longitudinal dan ketidakstabilan timbunan (longsor) yang merupakan masalah
+tipikal pada tanah ekspansif (Pardoyo, 2004). Pada beberapa titik di ruas jalan yang
+sama, dilakukan pekerjaan perkerasan jalan dengan beton yang hasilnya cukup baik
+dan tidak terjadi kerusakan akibat kondisi tanah dasarnya yang ekspansif.
+Perkerasan beton semen mempunyai beberapa keunggulan antara lain,
+cocok untuk lalu lintas berat, lebih tahan terhadap cuaca panas, tidak terjadi
+deformasi dan tahan terhadap pengaruh air. Kelemahan pada perkerasan kaku
+antara lain pada masa pelaksanaan, karena setelah pengecoran diperlukan waktu
+sekitar 30 hari untuk mencapai kekuatan rencana sebelum dibuka untuk lalu lintas.
+Hal ini dapat menggangu kelancaran lalu lintas terutama pada jalan dengan lalu
+lintas padat (Dachlan, 2009). Biaya konstruksi jalan beton sedikit lebih mahal
+dibandingkan pada perkerasan lentur (Waluyo, 2008) dan perkerasan kaku tidak
+memerlukan lapis ulang seperti pada perkerasan lentur.
+Beton merupakan campuran antara semen, agregat halus, agregat kasar dan
+air dengan atau tanpa bahan tambahan lainnya (Supriyatna, 2006). Metode
+pengadukan dapat dibedakan menjadi dua yaitu manual dan masinal. Pengadukan
+manual dilakukan dengan tangan atau alat sederhana seperti cangkul, sekop dan alat
+lainnya. Sedangkan pengadukan masinal dengan memanfaatkan bantuan alat aduk
+seperti concrete mixer (yang dikenal dengan istilah molen) atau pada batching
+plant (Mulyono, 2004: 219). Beton yang diproduksi dengan mesin dapat dilakukan
+di perusahaan beton siap pakai (ready mix) atau diproduksi di lokasi pekerjaan (site
+mix). Pekerjaan beton site mix dapat dilakukan secara manual menggunakan alat
+pengaduk tenaga manusia atau menggunakan mesin molen dengan kapasitas kecil.
+Pada pelaksanaan peningkatan jalan beton di Kabupaten Grobogan Tahun
+Anggaran 2008, sebagian banyak beton yang digunakan dibuat di lokasi pekerjaan
+(site mix) menggunakan mesin molen.
+Proses pencampuran material beton dapat dilaksanakan dengan
+mengunakan perbandingan berat atau perbandingan volume sesuai rancangan
+campuran beton (job mix design) yang dilakukan di Laboratorium. Pembuatan
+beton dengan perbandingan berat didapatkan dengan menimbang material,
+sedangkan dengan perbandingan volume atau takaran didapatkan dengan
+menggunakan alat penakar (contoh : dolak atau ember) sesuai dengan proporsi
+campuran. Pekerjaan beton site mix sering memakai perbandingan volume daripada
+memakai perbandingan berat dengan alasan kemudahan selama pelaksanaan.
+
+Pada tahun 2004 sampai 2007 Dinas Bina Marga Kabupaten Grobogan
+melaksanakan peningkatan jalan di beberapa wilayah dengan perkerasan kaku
+dengan beton ready mix. Sedangkan pada tahun 2008 pekerjaan peningkatan jalan
+beton sebagian besar menggunakan beton yang diproduksi di lokasi pekerjaan atau
+dikenal sebagai beton site mix. Dengan pertimbangan bahwa wilayah peningkatan
+jalan lebih banyak di daerah dan kendala akses untuk pengiriman beton ready mix.
+Sebelum pelaksanaan pekerjaan, Dinas Bina Marga Kabupaten Grobogan
+bekerjasama dengan tim independen melaksanakan pelatihan pengendalian kualitas
+beton. Tujuan utamanya memberikan pengetahuan dan pemahaman tentang
+perilaku beton agar selama pelaksanaan diperoleh hasil yang baik sesuai dengan
+sasaran proyek yaitu pekerjaan konstruksi yang tepat biaya, tepat waktu dan tepat
+mutu sesuai spesifikasi. Pelatihan ini diikuti oleh semua pihak-pihak yang terlibat
+pada proyek yaitu Dinas Bina Marga, Konsultan Supervisi dan Kontraktor
+Pelaksana. Materi pelatihan antara lain pembuatan rancangan campuran beton (mix
+design), kontrol kualitas pekerjaan beton, pembuatan sampel uji beton, perawatan
+beton dan pengujian beton keras di lokasi pekerjaan.
+Selama pekerjaan berlangsung, Kontraktor Pelaksana membuat sampel uji
+beton berbentuk kubus atau silinder dari beton yang sama dengan beton yang dicor
+di lokasi, sehingga bisa mewakili kekuatan beton di lokasi. Hasil pengujian sampel
+menunjukkan bahwa sebagian besar hasilnya lebih rendah dari spesifikasi.
+Pengujian sampel beton dijadikan catatan kualitas dan evaluasi selama pekerjaan
+berlangsung, sehingga dapat diketahui lebih awal jika terjadi penyimpangan mutu.
+Apabila hasil pemeriksaan benda uji belum terpenuhi, maka dapat diambil
+langkah perbaikan di lokasi untuk meningkatkan kekuatan tekan. Jika langkah ini
+tidak terpenuhi maka diambil langkah untuk memastikan bahwa struktur beton
+masih mempunyai daya dukung beban rencana yang cukup dengan cara
+menganalisa ulang struktur atau dengan menguji cara tidak merusak (Mulyono,
+2004: 268). Pengujian dengan cara tidak merusak (nondestructive test) dilakukan
+dengan metode uji palu beton (hammer test) pada beton di lokasi. Hasil pengujian
+hammer menunjukkan bahwa rata-rata kekuatan beton lebih tinggi dari spesifikasi,
+tetapi kondisi aktual jalan terjadi kerusakan.
+ 
+1.2 Rumusan Masalah
+Rumusan masalah dalam penelitian ini, beton dengan metode site mix
+mempunyai kecenderungan mendapatkan hasil yang kurang sempurna seperti
+permukaan aus dan retak. Pencapaian yang kurang sempurna tersebut dapat
+disebabkan adanya faktor risiko pada bahan penyusun beton, pencampuran bahan,
+pelaksanaan pengecoran dan perawatan beton, dapat juga dipengaruhi oleh
+pengendalian selama pelaksanaan. Untuk itu diperlukan kajian antara risiko,
+pengendalian dan kualitas dalam usaha memperoleh kualitas beton site mix yang
+baik dan sesuai spesifikasi.
+1.3 Tujuan Penelitian
+Penelitian ini dilakukan dengan tujuan sebagai berikut :
+1. Menganalisa hubungan antara sumber risiko dengan kualitas beton site mix.
+2. Menganalisa hubungan antara pengendalian dengan kualitas beton site mix
+3. Menganalisa hubungan antara sumber risiko, pengendalian dan kualitas beton
+site mix.
+4. Menentukan faktor risiko pada kategori risiko atau pemetaan risiko pada
+pekerjaan beton site mix.
+
+
+1.4 Manfaat Penelitian
+Dari hasil penelitian ini diharapkan dapat diperoleh manfaat sebagai berikut :
+1. Memberikan pemahaman tentang risiko dan pengaruhnya sebagai alat bantu
+dalam pengambilan keputusan dalam meningkatkan kualitas beton site mix.
+2. Analisa risiko dapat dijadikan referensi pelaksanaan beton site mix.
+3. Pemetaan faktor risiko sesuai kategori risiko dapat dipakai sebagai pengetahuan
+pada saat studi kelayakan proyek yang menggunakan beton site mix.
+1.5 Hipotesis
+Hipotesis dalam penelitian ini adalah sebagai berikut :
+1. Kualitas pekerjaan beton site mix dipengaruhi adanya sumber risiko pada
+material, proses pembuatan dan pengendalian yang cukup besar selama proses
+konstruksi.
+
+2. Beton site mix mempunyai batas penerimaan risiko yang masih dapat
+dikendalikan dengan pengendalian kualitas.
+1.6 Batasan Masalah
+Batasan permasalahan dalam penelitian ini adalah proyek peningkatan jalan
+beton (rigid pavement) yang dilaksanakan di Kabupaten Grobogan pada Tahun
+Anggaran 2008 dengan spesifikasi mutu beton rencana K300, yang pelaksanaan
+pekerjaan beton dilakukan secara site mix dengan menggunakan mesin molen.

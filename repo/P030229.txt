@@ -1,0 +1,106 @@
+﻿ABSTRAK
+MANAJEMEN PEMELIHARAAN TRANSFORMATOR TEGANGAN
+MENENGAH BERBASIS ANALISIS KANDUNGAN GAS TERLARUT
+(DGA)
+Seiring dengan usia, minyak transformator akan mengalami penurunan
+kualitas isolasi. Hal ini terjadi karena dua faktor, yaitu adanya pengaruh tegangan
+(voltage stress) dan pemanasan (thermal stress). Akibatnya didalam minyak akan
+terbentuk kontaminan yang dapat berupa partikel padat, gas ataupun cair.
+Keberadaan kontaminan ini dapat menurunkan kualitas dielektrik minyak
+transformator. Penurunan kualitas dielektrik minyak akan menyebabkan gangguan
+internal transformator.
+Untuk menghindari gangguan maka perlu dibuat suatu manajemen
+pemeliharaan terhadap transformator-transformator tersebut. Pendekatan sederhana
+untuk menentukan prioritas pemeliharaan transformator dibahas dalam tesis ini.
+Pendekatan ini mengadopsi metode pembobotan dan skoring sederhana pada test
+DGA dan tes tegangan tembus. Pembebanan transformator dan suhu operasi juga
+dianggap sebagai parameter keputusan. Pendekatan ini diterapkan dalam manajemen
+perawatan 29 trafo distribusi yang memasok sebuah bandara internasional.
+Hasil penelitian menunjukkan dari 29 transformator yang di uji, satu
+transformator berada pada prioritas 2 , dua transformator berada pada prioritas 3 ,
+dan 26 transformator berada pada prioritas 4. Penanganan pekerjaan preventif
+terhadap transformator yang masuk dalam kondisi kritis dengan melakukan treatment
+/pemurnian kembali kondisi minyak transformator, dan membuat jadwal
+pemeliharaan berkala terhadap transformator yang masih dalam katagori normal.
+Pendekatan sederhana ini sangat berguna dalam membantu para engineer
+dalam penentuan jadwal pemeliharaan transformator .Pendekatan yang dibahas di
+sini dapat diperluas dengan menambahkan parameter lainnya untuk menunjang
+pengambilan keputusan dalam manajemen aset.
+Kata Kunci : Transformator, DGA, Jadwal Pemeliharaan.
+
+
+BAB 1
+PENDAHULUAN
+I.1 Latar Belakang.
+Salah satu komponen sistem tenaga listrik dalam penyaluran energi listrik
+adalah transformator. Didalam transformator diantaranya terdapat inti / core,
+kumparan primer , kumparan sekunder, dan minyak transformator. Kumparan dan
+inti transformator tenaga dan transformator distribusi direndam dalam minyak
+transformator, karena minyak transformator mempunyai sifat sebagai media
+pemindah panas dan bersifat pula sebagai isolator (Suryadiman, Moh. 2006 ).
+Seiring dengan usia, minyak transformator akan mengalami penurunan
+kualitas. Hal ini terjadi karena dua faktor, yaitu adanya pengaruh tegangan
+(voltage stress) dan pemanasan (thermal stress). Akibatnya di dalam minyak
+akan terbentuk kontaminan yang dapat berupa partikel padat, gas ataupun cair.
+Keberadaan kontaminan ini dapat menurunkan kualitas dielektrik minyak
+transformator. Penurunan kualitas dielektrik minyak akan menyebabkan gangguan
+internal transformator (Wiwoho, Cahyo , 2008).
+Untuk mencegah terjadinya gangguan internal transformator, maka perlu
+dilaksanakan tindakan pencegahan dengan melaksanakan inspeksi berupa
+Breakdown Voltage (BDV) test , dan Dissolved Gas Analysis (DGA). Dengan
+melakukan uji tegangan tembus minyak akan dapat diketahui kemampuan
+dielektrik dari minyak transformator, sedangkan dengan melakukan tes DGA akan
+diketahui kandungan gas terlarut yang membahayakan dalam minyak
+transformator. Setelah mendapatkan hasil pengukuran tegangan tembus dan
+kandungan gas dalam minyak transformator, dapat ditarik suatu kesimpulan
+mengenai kondisi dari transformator tersebut.
+Metode yang dipakai untuk menganalisis kandungan gas terlarut adalah metode
+TDCG , metode Key Gas, metode Roger Ratio, dan metode Segitiga Duval. Dari
+hasil interpretasi masing masing metode tadi kemudian dibuat suatu metode
+skorsing / perengkingan dengan menggunakan metode analisis DGA dengan
+TDCG, Keygas, Roger ratio, segitiga Duval, tegangan tembus , pembebanan
+transformator serta suhu , untuk membuat suatu keputusan dalam menentukan
+prioritas manajemen perawatan transformator distribusi di PT. Angkasa Pura I
+(Persero) Bandara Internasional Ngurah Rai , Bali.
+Sebelumnya belum pernah ada suatu metode perawatan yang dipakai,
+cuma melaksanakan perawatan rutin berkala setiap tahun dengan melakukan
+pembersihan dan tes tegangan tembus saja , dalam masa waktu perawatan setahun
+tidak diketahui keadaan transformator yang sebenarnya. Sehingga petugas
+melakukan perawatan secara acak tanpa mengetahui transformator mana yang
+harus diberi perawatan. Model perawatan seperti ini sangat berbahaya karena
+kalau tidak diketahui trafo mana yang kritis dan perawatan yang diberikan
+ternyata pada transformator yang masih normal, tiba-tiba saja dalam masa
+perawatan seluruh transformator , transformator yang kritis tadi mengalami
+gangguan karena belum mendapat giliran perawatan. Sehingga kerugian secara
+material menjadi sangat besar.
+Untuk mengatasi masalah tersebut perlu dibuat suatu manajemen
+perawatan transformator distribusi, agar bisa dibuat suatu jadwal perawatan yang
+jelas sesuai permasalahan masing-masing transformator dan tingkat kekritisannya.
+
+1.2 Rumusan Masalah
+Bagaimana menentukan prioritas perawatan transformator distribusi dengan
+menggunakan metode kandungan gas terlarut (DGA) , tegangan tembus,
+pembebanan dan suhu ?
+1.3 Tujuan
+Adapun tujuan dari penelitian ini adalah untuk menentukan prioritas
+perawatan transformator distribusi dengan menggunakan metode kandungan gas
+terlarut (DGA), tegangan tembus, pembebanan dan suhu.
+1.4 Batasan Penelitian
+Penelitian dilakukan hanya di PT. Angkasa Pura I (Persero) Bandara Internasional
+Ngurah Rai , Bali didasarkan pada :
+- Uji DGA , dengan metode interpretasi TDCG, Key Gas , Roger Rasio,
+Duval Triangel.
+- Uji tegangan tembus , pada tegangan kerja 20 KV
+- Pembebanan transformator, saat pengambilan sampel minyak
+dilaksanakan.
+- Suhu minyak transformator, saat pengambilan sampel minyak
+dilaksanakan.
+
+1.5 Manfaat Penelitian
+Adapun manfaat dari penelitian ini adalah :
+1. Dapat mengetahui lebih awal kondisi transformator distribusi,
+kegagalan / kerusakan transformator bekerja dapat dicegah sedini
+mungkin.
+2. Membantu PT. Angkasa Pura I (Persero) Bandara Ngurah Rai untuk
+memberikan rekomendasi terhadap perawatan transformator distribusi
+di semua gardu yang ada di Bandara Ngurah Rai .

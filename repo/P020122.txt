@@ -1,0 +1,174 @@
+﻿ABSTRAK
+Kapsul komersial yang terbuat dari gelatin memiliki ketahanan terhadap air sangat
+rendah. Oleh karena itu, diperlukan alternatif material kapsul untuk meningkatkan
+kinerja tersebut. Penelitian ini bertujuan untuk membuat dan mengkarakterisasi
+komposit alginat-kitosan dan plasticizer PEG sebagai cangkang kapsul. Natrium
+alginat diekstraksi dari rumput laut coklat (Sargassum sp.) melalui jalur asam
+alginat. Cangkang kapsul dibuat dengan 5 variasi (b/b) perbandingan
+alginat:kitosan yakni 2:1; 3:1; 4:1; 5:1; 1:3 (b/b) ditambah dengan plasticizer PEG
+20% (b/v). Karakterisasi yang dilakukan meliputi uji sifat mekanik, uji swelling
+air, uji disolusi, uji FTIR, dan uji SEM. Dari hasil uji mekanik yang dilakukan
+dalam penelitian ini diperoleh cangkang kapsul optimal yaitu dengan komposisi
+perbandingan alginat-kitosan 2:1 (b/b) yang memiliki nilai stress sebesar 1,05x103
+kN/m2, nilai strain sebesar 0,11, nilai Modulus Young sebesar 9,61x103 kN/m2,
+dan persentase swelling air sebesar 72,26%. Hasil uji disolusi menggunakan 3
+media disolusi pH (1,2; 4,5; 6,88) menggunakan obat paracetamol memiliki
+persentase release masing-masing sebesar 79,53%; 98,81%; 73,42%, sedangkan
+kapsul komersil yakni 85,31%, 85,68%, 75,95%. Dengan demikian, komposit
+natrium alginat-kitosan dapat digunakan sebagai cangkang kapsul.
+Kata kunci : alginat, kitosan, polyethylene glycol, cangkang kapsul
+
+BAB I
+PENDAHULUAN
+1.1 Latar Belakang
+Obat adalah zat yang digunakan untuk diagnosis, mengurangi rasa sakit,
+serta mengobati atau mencegah penyakit pada manusia atau hewan. Obat masuk
+ke dalam tubuh melalui darah dan akan menimbulkan efek jika digunakan dengan
+benar (Ansel, 1985). Pelepasan obat dalam plasma darah dengan kadar yang
+tinggi dapat menimbulkan efek samping. Bentuk sediaan alternatif diperlukan
+untuk dapat digunakan mengurangi efek samping dari obat dan mencegah
+akumulasi kadar obat yang terlalu tinggi dalam darah secara tiba-tiba (Shargel,
+2005).
+Berbagai macam zat dapat digunakan sebagai matriks sediaan drug release
+yang diharapkan memberikan pelepasan obat sesuai dengan konsentrasi efektif
+dalam darah. Metode pelepasan obat dibagi menjadi beberapa metode yakni oral,
+sublingual, inhalasi, rektal, pervaginam, parenteral, dan topikal atau lokal.
+Masyarakat umum banyak yang menggunakan metode oral karena mudah, aman,
+dan ekonomis. Bentuk sediaan konvensional yang diberikan secara oral umumnya
+berupa bentuk padat (seperti: serbuk, granul, pellet, mikrokapsul, kapsul, tablet)
+dan cair (larutan, suspensi, emulsi). Kapsul banyak digunakan karena
+kepraktisannya untuk memberikan kenyamanan bagi konsumen obat. Obat yang
+memiliki rasa tidak enak seperti pahit, anyir, manis dan bau dapat dihindari jika
+dibuat dalam bentuk kapsul. Selain itu cangkang kapsul juga berfungsi untuk
+menjaga bahan aktif dari pengaruh lingkungan sehingga bisa menjaga
+stabilitasnya (Gadri et al, 2012).
+Bentuk sediaan cangkang kapsul konvensional yang banyak digunakan
+yakni gelatin tetapi dapat juga terbuat dari pati atau bahan lain yang sesuai
+(Depkes RI, 1995). Tulang sapi, kulit sapi, dan kulit babi adalah bahan yang biasa
+digunakan untuk memperoleh gelatin, sehingga untuk vegetarian, Yahudi, Muslim
+dan Hindu tidak dapat mengkonsumsi gelatin tersebut. Sumber lain telah
+menemukan yang lebih relevan untuk mendapatkan gelatin, yaitu gelatin dari
+tulang dan kulit ikan (Gomez, 2002). Tetapi, gelatin dari tulang ikan jauh lebih
+rapuh dan waktu disolusinya sangat singkat (Haetami et al, 2013).
+Berbagai macam polimer, baik sintetis maupun alami, telah diteliti dan
+dikembangkan dalam sistem pelepasan obat. Polimer yang digunakan diharapkan
+bersifat biodegredable dan biocompatible. Untuk memenuhi sifat ini,
+pengembangan polimer mengarah pada pemamfaatan polimer alami. Penelitipeneliti
+banyak memanfaatkan interaksi antar polimer untuk mengembangkan
+sifat-sifat polimer yang menguntungkan sehingga dapat dicapai sifat-sifat yang
+diharapkan (Mitpracha, 2008).
+Sintesis cangkang kapsul menggunakan gelatin dari tulang ikan nila dan
+tuna pernah dilakukan oleh Haetami. Dari hasil ketahanan kapsul di dalam air,
+kapsul dari gelatin tulang ikan nila dan tuna memiliki waktu yang cukup lama
+yakni 31 menit. Menurut Kapsulindo Nusantara (2007) ketahanan dalam air untuk
+cangkang kapsul komersial yang terbuat dari gelatin hewan berkisar 15 menit.
+Ketahanan cangkang kapsul terhadap air sangat dipengaruhi oleh sifat fisik dan
+viskositas bahan baku pembuatan cangkang. Cangkang kapsul yang terbuat dari
+gelatin tulang sapi memiliki ketahan dalam air selama 42 menit. Gelatin tulang
+sapi memiliki viskositas 4,7 cps. Semakin tinggi nilai viskositas bahan pembuatan
+cangkang, maka ketahanan cangkang kapsul dalam air akan semakin lama.
+Menurut hasil penelitian Haetami pada tahun 2013, gelatin tulang nila memiliki
+viskositas yang lebih tinggi (4,25 cPs) daripada gelatin tulang nila (3,75 cPs).
+Kelemahan dari kapsul gelatin tulang ikan nila-tuna yakni cangkang kapsul sangat
+mudah pecah sehingga tidak dapat memberikan perlindungan terhadap benturan
+fisik. Kemudian, Malviya pada tahun 2011 juga melakukan penelitian untuk
+menguji efektivitas kombinasi natrium alginat-kitosan dalam bentuk tablet.
+Kombinasi antara kitosan-natrium alginat menggunakan interaksi ionik yang
+dapat meningkatkan kinerja drug release dari tablet hanya dengan 2 menit
+pelepasan obat bisa mencapai 40 %.
+Pada tahun 2012, Gadri melakukan sintesis kapsul HPMC-karaginan yang
+mempunyai performa drug release lebih cepat jika dibandingkan dengan kapsul
+gelatin menggunakan obat ketoprofen sebagai zat aktif yang diuji. Kapsul HPMCkaraginan
+memiliki proteksi terhadap perubahan kelembaban yang lebih baik
+dibanding gelatin (Richardson, 2011). Hal ini menyebabkan terjadi penurunan
+kadar ketoprofen yang lebih baik pada kapsul HPMC-karaginan, tetapi kecepatan
+disolusi pada kapsul HPMC-karaginan lebih rendah dibandingkan kapsul gelatin.
+Hal ini disebabkan karena kapsul HPMC-karaginan dapat berinteraksi dengan
+kalium dalam medium disolusi sehingga menghalangi pelepasan obat dari kapsul
+(Ku, 2011).
+
+Dari penelitian mengenai drug release yang banyak di kembangkan,
+sebagian besar material drug release menggunakan polimer alginat, karaginan,
+kitosan, dan beberapa polimer alami lainnya. Indonesia memiliki potensi yang
+besar dalam pengembangan drug release dari polimer alam ini. Indonesia adalah
+negara kepulauan terbesar di dunia karena memiliki luas laut dan jumlah pulau
+yang besar. Indonesia memiliki laut yang begitu luas. Panjang pantai Indonesia
+mencapai 95.181 km dengan luas wilayah laut 5,4 juta km2, mendominasi total
+luas teritorial Indonesia sebesar 7,1 juta km2 (Anynomous, 1998). Potensi tersebut
+menempatkan Indonesia sebagai negara yang dikaruniai sumber daya kelautan
+yang besar termasuk kekayaan keanekaragaman hayati dan non hayati kelautan
+terbesar.
+Salah satu keanekaragaman hayati yang dimiliki oleh laut Indonesia yakni
+rumput laut yang sangat banyak dimanfaatkan untuk industri pangan karena
+mempunyai nutrisi yang tinggi. Tetapi potensi rumput laut sangatlah banyak jika
+dimanfaatkan menjadi fungsi yang lain. Khususnya rumput laut coklat
+(Sargassum sp.) yang didalamnya terdapat senyawa alginat yang sifatnya sangat
+suka dengan air (hidrofilik) sehingga alginat sangat mudah untuk terurai di dalam
+tubuh.
+Natrium alginat merupakan polimer anionik alami yang diektraksi dari
+rumput laut coklat. Struktur natrium alginat terdiri dari ikatan 1,4 β-D-Manuronat
+dan α-L-guluronat. Alginat banyak dipelajari dan digunakan dalam bidang
+kesehatan karena memiliki sifat biocompatible, toksisitas rendah dan murah. Di
+bidang farmasi, Alginat banyak digunakan sebagai stabiliser dan pembentuk gel.
+
+Selain itu, alginat juga digunakan sebagai material drug release, khususnya dalam
+bentuk oral (Lee, 2012).
+Polimer alam lain yang bisa dimanfaatkan sebagai cangkang kapsul yakni
+polimer hasil deasetilasi dari kitin. Kitosan merupakan produk turunan dari
+polimer kitin yaitu produk samping (limbah) dari pengolahan industri perikanan,
+khususnya udang dan rajungan (Wardaniati, 2009). Kitosan telah banyak
+digunakan sebagai material drug release tunggal karena sifat biocompatible,
+biodegradability, toksisitas rendah dan dapat disintesis dengan mudah (MaO et
+al., 2010). Meskipun kapsul dengan kombinasi alginat-kitosan banyak memiliki
+keuntungan seperti meningkatkan kemampuan drug release dan mengurangi
+ketergantungan pH, tetapi proses pembentukannya lama (Park et al., 2008).
+Sedangkan, Cook pada tahun 2011 melaporkan bahwa kedua polimer baik kitosan
+dan natrium alginat merupakan biopolimer kompleks dengan massa jenis tinggi.
+Oleh karena itu, kombinasi natrium alginat-kitosan dapat memperbesar waktu
+kapsul di daerah peluruhan obat yakni mengontrol pelepasan obat dalam
+pencernaan manusia.
+Pada tahun 2014, Hartaty melakukan penelitian mengenai efek dari
+penambahan gliserol sebagai plasticizer untuk karakterisasi kombinasi hidrogel
+kitosan-natrium alginat sebagai penutup luka. Berdasarkan penelitian ini,
+penambahan gliserol menyebabkan ketebalan, elongasi dan absorption ability dari
+hidrogel meningkat dan regangan pada hidrogel menurun. Plasticizer sering
+digunakan untuk meningkatkan fleksibilitas dari polimer. Gliserol dan sorbitol
+sering digunakan sebagai plasticizer karena sifat stability dan edibility yang
+dimiliki oleh keduanya (Bangyekan, 1998).
+Pada penelitian ini akan diekstraksi natrium alginat dari rumput laut coklat
+(Sargassum sp.). Natrium alginat tersebut akan dikompositkan bersama dengan
+kitosan dan ditambahkan plasticizer polyethylene glycol (PEG) dan akan
+digunakan lima variasi perbandingan volume natrium alginat dan kitosan yang
+digunakan yaitu 2:1 ; 3:1 ; 4:1 ; 5:1 ; 1:3. Hasil sintesis akan dikarakterisasi
+dengan uji morfologi menggunakan SEM (Scanning Electron Microscopy), uji
+spektroskopi menggunakan FTIR (Fourier Transformed Infra Red), dan uji sifat
+mekanik melalui uji tarik dan swelling air. Sementara itu, efektivitas material drug
+release akan diuji menggunakan uji disolusi dan uji SEM (Scanning Electrone
+Microscopy) digunakan untuk uji morfologi kapsul dan uji spekroskopi kapsul
+menggunakan FTIR (Fourier Transformed Infra Red).
+1.2 Rumusan Masalah
+Berdasarkan latar belakang yang telah diuraikan, maka dapat dirumuskan
+permasalahan sebagai berikut :
+1. Apakah komposit natrium alginat-kitosan dan PEG dapat digunakan sebagai
+material drug release?
+2. Bagaimana pengaruh variasi komposisi natrium alginat-kitosan dan PEG
+terhadap sifat mekanik drug release?
+3. Bagaimana karakteristik kapsul natrium alginat-kitosan dan PEG sebagai
+material drug release dibandingkan dengan kapsul komersial?
+
+1.3 Tujuan
+Tujuan dari penelitian ini adalah:
+1. Mengetahui kemampuan komposit natrium alginat-kitosan dan PEG
+sebagai material drug release
+2. Mengetahui pengaruh variasi komposisi natrium alginat-kitosan dan PEG
+terhadap sifat mekanik drug release
+3. Mengetahui karakterisik kapsul natrium alginat-kitosan dan PEG sebagai
+material drug release dibandingkan dengan kapsul komersial
+1.4 Manfaat
+Penelitian ini diharapkan dapat memberikan kontribusi pengembangan
+ilmu pengetahuan khusunya pada bahasan drug release yang aman dan murah.
+Penelitian tentang drug release dari komposit natrium alginat-kitosan dan PEG
+dapat memberikan pengetahuan mengenai drug release yang berasal dari bahan
+alami memanfaatkan kekayaan alam yang ada di Indonesia. Selain itu, penelitian
+ini juga dapat memberikan kontribusi berupa data-data untuk digunakan pada
+penelitian lebih lanjut.

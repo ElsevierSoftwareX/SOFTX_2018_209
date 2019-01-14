@@ -1,0 +1,89 @@
+﻿Perpustakaan Universitas Lampung (Unila) sudah menggunakan sistem
+otomasi perpustakaan berbasis SLiMS (Senayan Library Management System).
+SLiMS adalah perangkat lunak sistem perpustakaan sumber terbuka, berbasis web,
+multi platform dan gratis.
+SLiMS yang digunakan Unila belum memiliki sistem informasi usulan
+buku baru. Selama ini proses usulan buku baru dilakukan dengan cara membuat
+daftar buku yang didistribusikan melalui CD berisi katalog buku. CD tersebut
+akan diterima oleh pihak fakultas dan proses pengajuannya menggunakan
+pengisian form. Proses ini menjadi lama disebabkan proses berbasis kertas serta
+belum menggunakan teknologi informasi.
+Tujuan penelitian ini adalah membangun Sistem Usulan Buku Baru untuk
+Perpustakaan Unila yang memanfaatkan basis data SLiMS. Dan
+mengimplementasikan Sistem Informasi Usulan Buku Baru di perpustakaan
+Unila.
+Metode RAD (Rapid Application Development) digunakan sebagai metode
+penelitian. Tahapan RAD yaitu identifikasi sasaran dan informasi kebutuhan,
+bekerja sama sekaligus berinteraksi dengan pengguna untuk desain sistem,
+membangun sistem dan terakhir implementasi sistem. Semua tahapan ini
+dilakukan dalam iterasi waktu antara 60 – 90 hari.
+Semua fitur yang terdapat didalam Sistem Usulan Buku Baru ini telah
+melewati tahapan revisi melalui uji coba terhadap pengguna. Sistem informasi
+yang dibangun, dapat berinteraksi dengan database SLiMS untuk mengakses data
+user dan data bibliography yang terdaftar dalam database SLiMS di perpustakaan
+Unila. Sehingga pengelolaan User dilakukan oleh SLiMS dan informasi buku
+yang telah tersedia dapat disajikan dan digunakan oleh sistem usulan buku baru.
+Kata kunci : Usulan, Buku, SLiMS, Otomasi, Perpustakaan
+
+BAB I
+PENDAHULUAN
+1.1 Latar Belakang Masalah
+Perpustakaan adalah institusi pengelola koleksi karya tulis, karya cetak,
+dan/atau karya rekam secara profesional dengan sistem yang baku guna
+memenuhi kebutuhan pendidikan, penelitian, pelestarian, informasi, dan rekreasi
+para pemustaka (UU No.43 tahun 2007).
+Senayan Library Management System (SLiMS) adalah perangkat lunak
+sistem otomasi perpustakaan dengan sumber terbuka yang berbasis web yang
+multi platform dan gratis untuk digunakan. Aplikasi SLiMS ini dibangun untuk
+perpustakaan yang memiliki koleksi, anggota, dan staf yang banyak. SliMS
+bekerja di lingkungan jaringan lokal intranet maupun internet yang berbasis web
+dan multi platform. SLiMS dirancang sesuai dengan standar pengelolaan koleksi
+perpustakaan, misalkan standar pendeskripsian katalog berdasarkan ISBD
+(International Standard Bibliographic Descriptions) yang juga sesuai dengan
+aturan pengatalogan Anglo-American Cataloging Rules. Untuk dapat
+menggunakan layanan SLiMS cukup mudah, persyaratannya adalah komputer
+yang telah di instal SLiMS dapat di akses melalui jaringan komputer/internet.
+Perpustakaan Universitas Lampung (Unila) sudah menggunakan sistem
+otomasi perpustakaan berbasis SLiMS. Sistem tersebut digunakan untuk
+pengolahan data perpustakaan. Sistem SLiMS di Unila dapat digunakan oleh
+anggota perpustakaan yang sudah terdaftar. SLiMS yang digunakan Unila belum
+memiliki sistem informasi usulan buku baru.
+Perpustakaan Unila setiap tahun mengeluarkan anggaran untuk pengadaan
+buku baru yang ditujukan untuk dosen, mahasiswa, dan karyawan. Bagian
+pengadaan bahan pustaka mengkaji atau mengumpulkan judul buku baru yang
+sesuai dengan fakultas-fakultas yang ada di Unila. Kumpulan kajian judul buku
+baru tersebut dikelompokkan ke dalam satu folder dan dilakukan burning dalam
+bentuk hardcopy CD. Bagian pengadaan bahan pustaka melakukan survey melalui
+ketua prodi (program study) dengan CD tersebut. Setelah melakukan pemilihan,
+masing-masing ketua prodi mengembalikan CD tersebut kepada Bagian
+Pengadaan Bahan Pustaka beserta form pemilihan. Bagian Pengadaan Bahan
+Pustaka memproses form pemilihan tersebut untuk pengadaan buku baru.
+Pengusulan buku baru pada perpustakaan Unila masih memiliki beberapa
+kelemahan. Proses pengkajian, pemilihan, dan pengadaan buku baru tersebut
+membutuhkan waktu yang lama. Karena masih berbentuk form dan
+didistribusikan melalui CD, proses laporan cenderung lama dan susah dikontrol
+disebabkan penyimpanan data (database) belum terpusat. Oleh karena itu,
+diperlukan pengembangan sistem berupa penambahan fitur yang terdapat dalam
+SLiMS Unila untuk usulan buku baru dan sebagai pendukung sistem SLiMS pada
+perpustakaan sehingga dapat membantu dalam permasalahan yang terjadi.
+Pengembangan sistem baru tersebut terhubung dengan database SLiMS sehingga
+memudahkan operator agar tidak perlu entry data dua kali.
+
+Berdasarkan kondisi di atas perlu dibuat aplikasi Sistem Informasi Usulan
+Buku Baru di Perpustakaan Unila berbasis SLiMS. Sistem ini diharapkan mampu
+melakukan interaksi dengan SLiMS yang sudah ada di perpustakaan Unila
+sehingga mudah terkontrol dan cepat.
+1.2 Tujuan Penelitian
+Tujuan dari penelitian ini adalah :
+1. Membangun Sistem Usulan Buku Baru untuk Perpustakaan Unila yang
+memanfaatkan basis data SliMS.
+2. Mengimplementasikan sistem informasi di perpustakaan Unila.
+1.3 Manfaat Penelitian
+Manfaat dari penelitian ini adalah terbangunnya Sistem Informasi yang
+memberikan kemudahan untuk anggota perpustakaan UNILA untuk dapat
+mengajukan usulan buku baru atau melalui proses administrasi manual, tanpa
+harus datang ke perpustakaan.
+1.4 Rumusan Masalah
+Rumusan masalah dalam penelitian ini adalah bagaimana membangun
+Sistem Informasi Usulan Buku Baru di Perpustakaan Universitas Lampung
+(Unila) yang memanfaatkan basis data SliMS yang ada.

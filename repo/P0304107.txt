@@ -1,0 +1,23 @@
+﻿Generalized Beta II (GB2) mempunyai empat parameter yaitu parameter skala (𝑏), dan parameter bentuk (𝑎,𝑝,𝑞). Parameter dari GB2 diduga dengan meneggunakan metode Maximum Likelihood Estimation (MLE). MLE merupakan metode estimasi parameter suatu distribusi, dengan cara memilih penduga-penduga yang nilai-nilai parameternya diestimasi dengan memaksimumkan fungsi kemungkinannya. Karena tidak dapat diselesaikan secara analitik, sehingga digunakan metode iterasi untuk mendapatkan dugaan bagi parameter-parameternya. Metode iterasi yang digunakan adalah Metode Newton Raphson, dan dengan bantuan software R. Penelitian ini bertujuan untuk menduga parameter distribusi GB2, membandingkan bias, dan ragam. Berdasarkan simulasi hasilnya menunjukkan bahwa bias menjadi lebih kecil dan selang kepercayaan menjadi lebih pendek ketika ukuran sampel lebih besar.
+Kata Kunci : Distribusi Generalized Beta II (GB2), Metode Maximum Likelihood Estimation (MLE), Newton Raphson.
+
+
+I. PENDAHULUAN
+1.1 Latar Belakang
+Statistik adalah metode atau ilmu yang mempelajari suatu proses dalam merencanakan, mengumpulkan, menganalisis, dan mempresentasikan data. Statistik dikelompokkan menjadi dua macam, yaitu statistik deskriptif dan statistik inferensia. Statistik deskriptif adalah metode-metode yang berkaitan dengan pengumpulan dan penyajian suatu gugus data sehingga memberikan informasi yang berguna, sedangkan statistik inferensia mencakup semua metode yang berhubungan dengan analisis sebagian data untuk kemudian sampai pada peramalan atau penarikan kesimpulan mengenai keseluruhan gugus data populasinya.
+Statistik inferensia adalah salah satunya meliputi pendugaan parameter. Untuk mengetahui karakteristik populasi atau disebut dengan parameter biasanya mengukurnya tidak secara langsung melainkan dengan cara mengambil sebagian kecil dari populasi (sampel) kemudian mengukurnya. Selanjutnya hasil pengukuran sampel tersebut digunakan untuk menduga ukuran sebenarnya (ukuran populasi atau parameternya). Dalam melakukan pendugaan parameter dari suatu distribusi dapat dilakukan dengan beberapa metode, salah satu diantaranya adalah Metode
+
+Kemungkinan maksimum atau sering dikenal dengan sebutan Maximum Likelihood Estimation (MLE).
+Penggunaan metode MLE merupakan metode yang paling efisien dan sering memberikan pendugaan yang baik, karena prinsip dari metode MLE adalah memilih salah satu nilai dari parameternya untuk memaksimumkan fungsi kemungkinan atau memaksimumkan informasi. Dalam penduga parameter dari suatu distribusi ada penduga parameter yang tidak dapat diselesaikan secara analitik, sehingga perlu diselesaikan dengan cara numerik. Salah satu cara yang digunakan adalah dengan teknik iteratif yaitu Metode Newton Raphson. Metode Newton Raphson sering digunakan karena metode ini lebih sederhana dan mempunyai konvergensi yang cepat.
+Generalized Beta II (GB2), awalnya diusulkan oleh Majumder dan Chakravarty pada tahun 1990 sebagai reparameterisasi, pada tahun 1993 dan 1995 McDonald dan Mantrala mengamati bahwa model Majumder-Chakravarty adalah setara dengan distribusi GB2 dengan empat parameter (di dalam Kleiber, and Kotz, 2003). GB2 diantaranya digunakan pada bidang matematika ekonomi dan asuransi, kesehatan dan industri, prinsip ekonomi mikro (model neoklasik mengoptimalkan perilaku perusahaan), sehingga memberikan beberapa alasan mengapa distribusi tersebut dapat diamati.
+
+Dengan demikian peneliti tertarik untuk melakukan penelitian mengenai pendugaan parameter distribusi Generalized Beta II empat parameter (GB2) menggunakan metode Maximum Likelihood Estimation (MLE).
+1.2 Batasan Masalah
+Pada penelitian ini, permasalahan dibatasi pada pendugaan, selang kepercayaan, ketakbiasan, dan ragam penduga parameter GB2 dari masing-masing ukuran data dengan dengan bantuan Software R.
+1.3 Tujuan Penelitian
+Tujuan dari penelitian ini adalah:
+1. Menduga parameter distribusi GB2 dengan menggunakan metode Maximum Likelihood Estimation (MLE)
+2. Membandingkan bias, ragam, selang kepercayaan dan nilai duga untuk data berukuran 20, 30, 50, 100 dan 500
+
+1.4 Manfaat Penelitian
+Manfaat dari penelitian ini adalah untuk memperdalam pemahaman mengenai statistika inferensia khususnya pendugaan parameter distribusi GB2 bagi si peneliti, dan untuk memberikan sumbangan pemikiran bagi peneliti lain yang akan melakukan penelitian lebih lanjut.

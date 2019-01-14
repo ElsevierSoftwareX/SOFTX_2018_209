@@ -1,0 +1,111 @@
+Jantung merupakan organ tubuh yang berfungsi memompa darah keseluruh tubuh
+dan kembali ke jantung. Apabila proses ini terganggu maka inilah yang disebut
+dengan sakit jantung, untuk mengatasi gangguan jantung secara tiba-tiba maka
+dibutuhkan alat yang disebut dengan Elektrodiograf. EKG merupakan sebuah
+grafik yang menunjukan rekaman listrik jantung pada manusia, selain itu aktifitas
+kelistrikan jantung pada manusia dapat dibuat perangkat prototipe dengan kisaran
+masukan tegangan 0 s.d 5 Volt. Pada penelitian ini telah buat sebuah prototipe
+sistem instrumentasi akuisisi data EKG 12 lead berbasis komputer. Rancangan
+akuisisi menggunakan mikrokontroler ATMega16 sebagai pengontrol utama, USB
+to serial RS232 sebagai media komunikasi interfacing komputer. Proses analisis
+sinyal dimulai dari menentukan tegangan masukan dari masing-masing 12 lead
+kemudian akan dikomunikasikan secara serial di simpan dalam bentuk data teks
+dan grafik dengan frekuensi maksimal 50 Hz. Pada prototipe ini mendapatkan
+keluaran frekuensi 30 Hz untuk tegangan masukan 2,5 Volt dan 50 Hz untuk
+tegangan 5 Volt.
+Kata Kunci: ATMega16, Elektrokardiograf (EKG), Frekuensi, Jantung,.
+
+I. PENDAHULUAN
+1.1. Latar Belakang
+Jantung merupakan salah satu rongga organ berotot yang memompa darah ke
+pembuluh darah secara teratur dan berulang. Letak jantung berada di sebelah kiri
+bagian dada diantara paru-paru kanan dan paru-paru kiri. Massa jantung kurang
+lebih 300 gram atau kira-kira sebesar kepalan tangan. Jantung berfungsi
+memompa darah ke seluruh tubuh dan kemudian kembali ke jantung. Maka jika
+peredaran ini terganggu maka inilah yang disebut dengan sakit jantung (Jatmiko,
+2013).
+
+Penyakit jantung merupakan salah satu penyakit yang paling mematikan bagi
+manusia. Ciri-ciri orang yang terkena penyakit jantung biasanya sering kelelahan,
+sering berkeringat, mual berlebihan, merasa cemas dan tegang, nyeri dada, denyut
+jantung tidak teratur, sakit kepala, sesak nafas, dan pembengkakan perut dan kaki,
+itulah yang disebut dengan sakit jantung (Harjana, 2004). Penyakit jantung dapat
+dideteksi secara dini melalui alat medis yang disebut Elektrokardiografi (EKG).
+EKG sangat efektif untuk merekam aktivitas kelistrikan jantung pada manusia
+(Knneth, 1998).
+
+EKG merupakan alat yang mendeteksi perubahan-perubahan potensial listrik pada
+jantung manusia. Kegunaan EKG adalah untuk mengetahui kelainan-kelainan
+irama jantung (aritmia), kelainan miokardium (infark, hipertrophy atrial dan
+ventrikel), pengaruh atau efek obat-obat jantung, gangguan elektrolit, dan
+gangguan peradangan pada lapisan pelindung jantung (perikarditis). Prinsip kerja
+dari EKG adalah merekam sinyal listik yang terkait dengan aktivitas jantung dan
+menghasilkan grafik rekaman tegangan listrik terhadap waktu. EKG yang normal
+menunjukan pembelokan atau defleksi yang dihasilkan dari aktivitas atrial
+sebagai perubahan kecenderungan tegangan atau voltage dan polaritas (positif
+dan negatif) terhadap waktu (Aston, 1991).
+Najeb dkk (2005) membuat rancangan sistem akuisisi data 12 kanal untuk EKG
+12 lead. Proses perekaman dari setiap lead dipilih dengan menggunakan
+multiplekser MPC506. Alat ini menampilkan semua rekaman dari 12 lead standar
+tetapi tidak dilengkapi dengan sistem cerdas. Raka (2009) membuat realisasi
+EKG berbasis komputer untuk akuisisi data isyarat elektris jantung 6 lead, akan
+tetapi pada penelitian tersebut masih kurang lengkap karena masih munggunakan
+akuisisi data hanya dengan 6 lead. Agung (2005) merancang akuisisi data isyarat
+EKG 12 lead menggunakan interface paralel PPI 8225 sebagai kendali proses
+komunikasi paralel. Surtono (2011) membuat akuisisi data sinyal EKG melalui
+sound card yang dilakukan dengan teknik modulasi amplitude akan tetapi sound
+card komputer hanya mampu mencuplik sinyal analog pada rentang frekuensi
+sinyal audio diatas 20 Hz, karena energi sinyal EKG cukup dominan dibawah 30
+Hz.
+
+Pada penelitian ini telah dibuat sebuah sistem instrumentasi akuisisi data EKG 12
+lead berbasis komputer. Namun masukan signal EKG 12 lead bukan berasal dari
+tubuh manusia, melainkan berasal dari sinyal generator (pembangkit signal). Alat
+yang telah direalisasikan adalah dengan menggunakan mikrokontroler ATmega16
+sebagai pengontrol utama, pembangkit sinyal 5 volt sebagai masukan dengan dua
+masukan dan satu keluaran yang dikemas dalam satu rangkaian terpadu, rangkaian
+pemilih 12 lead dengan menggunakan multiplexer 4052. Jaringan wilson
+bertujuan untuk mengurangi jumlah resistor yang berlebihan pada rangkaian.
+rangkaian pengubah sinyal sandapan yang disebut dengan rangkaian pemilih lead.
+Pembuatan simulasi alat dilakukan karena cukup fleksibel dengan sistem
+instrumentasi akuisisi data EKG 12 lead berbasis komputer melalui komunikasi
+USB to serial RS232 konektor DB9. Konektor DB9 merupakan salah satu sistem
+komunikasi serial dari USB RS232 yang mampu mengirimkan data sebanyak satu
+bit dalam setiap satu waktu.
+
+1.2. Tujuan Penelitian
+Tujuan penelitian adalah sebagai berikut:
+1. Membuat rangkaian pemilih Lead EKG 12 lead menggunakan rangkaian
+wilson yang dikendalikan secara digital oleh mikrokontroler.
+2. Membuat interfacing sinyal EKG 12 lead ke komputer secara serial dengan
+menggunakan mikrokontroler ATMega16.
+3. Merekam dan menampilkan sinyal EKG 12 lead ke komputer dengan
+menggunakan software Delphi7.
+
+1.3. Manfaat Penelitian
+Adapun manfaat yang diharapkan dari penelitian ini adalah sebagai berikut:
+1. Tersedianya suatu alat prototype sistem akuisisi data EKG dari 12 lead, yang
+dapat diaplikasikan pada pembelajaran instrumen medis pada jurusan fisika
+dan medis.
+2. Tersedianya suatu alat yang dapat membantu para medis dalam menganalisa
+detak jantung, sehingga mengurangi kesalahan para medis dalam mendiagnosis
+keadaan jantung.
+
+1.4. Rumusan Masalah Penelitian
+Berdasarkan uraian latar belakang tersebut dapat dibuat rumusan masalah sebagai
+berikut:
+1. Bagaimana merancang sebuah sistem instrumentasi akuisisi data EKG 12 lead
+berbasis komputer dengan menggunakan mikrokontroler.
+2. Bagaimana membuat desain interfacing sinyal EKG 12 lead pada komputer
+untuk akuisisi sinyal yang disimulasikan dari pembangkit sinyal.
+3. Bagaimana menampilkan rekaman EKG 12 lead pada layar komputer untuk
+mengetahui keluaran tegangan akan sama dengan masukan tegangan.
+
+1.5. Batasan Penelitian
+Batasan masalah dalam penelitian ini adalah sebagai berikut.
+1. Membuat rangkaian pemilih Lead EKG 12 lead dengan menggunakan IC4052
+sebagai pengontrol pemilihan 12 lead yang akan direkam.
+2. Membaca sinyal EKG 12 lead pada komputer dengan menggunakan software
+Delphi.
+3. Hanya menampilkan sinyal EKG 12 lead pada komputer dalam bentuk
+simulasi gelombang dari pembangkit sinyal (sinyal generator).

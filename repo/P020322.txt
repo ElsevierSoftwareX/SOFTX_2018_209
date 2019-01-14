@@ -1,0 +1,145 @@
+﻿ABSTRAK
+Knapsack merupakan suatu tempat yang digunakan untuk memuat suatu obyek
+dengan ukuran yang sama atau kurang dari kapasitasnya. Secara umum,
+permasalahan knapsack adalah bila diberikan sebuah tempat dengan kapasitas W dan
+n obyek yang mempunyai berat, maka akan dicari keuntungan maksimal dengan
+jumlah berat obyek tidak melebihi kapasitas knapsack. Salah satu permasalahan
+knapsack yaitu persoalan 0-1 knapsack . Persoalan 0-1 knapsack ditemukan pada CV.
+Cilacap dengan tujuan mencari dan menganalisis solusi dan keputusan optimal.
+Pencarian solusi dan keputusan optimal menggunakan algoritma greedy dan
+pemrograman dinamik. Berdasarkan solusi dan keputusan optimal, dapat diketahui
+efisiensi dari algoritma greedy dan pemrograman dinamik untuk persoalan 0-1
+knapsack pada CV. Cilacap. Hasil yang didapat adalah pemrograman dinamik lebih
+efisien dengan solusi dan keputusan yang optimal. Dalam hal ini, pemrograman
+dinamik membagi persoalan 0-1 knapsack menjadi beberapa tahap dan pada setiap
+tahap menghasilkan optimum lokal yang akan mengarah pada optimum global.
+Sedangkan untuk algoritma greedy masih terdapat kemungkinan menghasilkan solusi
+yang tidak optimal, dalam kaitannya dengan pilihan optimum lokal pada setiap
+langkah belum tentu berakhir dengan optimum global.
+Kata kunci : persoalan 0-1 knapsack, pemrograman dinamik, algoritma greedy
+
+BAB I
+PENDAHULUAN
+1.1 Latar Belakang
+Permasalahan program linier telah ada dan berkembang sejak lama
+.Perumusan masalah program linier beserta penyelesaiannya secara sistematis
+ditemukan pada tahun 1947 oleh George B. Dantizg yang mengembangkan
+metode simpleks untuk keperluan angkatan udara Amerika Serikat. Banyak orang
+memanfaatkan program linier dalam berbagai bidang sehingga pemakaiannya
+pada sektor masyarakat meluas dengan cepat .
+Program linier merupakan suatu metode yang digunakan untuk
+menyelesaikan masalah pengalokasian sumber daya yang terbatas. Masalah
+pengalokasian sumber daya ini akan muncul manakala seseorang harus
+menentukan tingkat kegiatan-kegiatan yang akan dilakukan, dimana masingmasing
+kegiatan membutuhkan sumber daya yang sama sedangkan jumlahnya
+terbatas. Apabila hanya ada satu sumber daya yang harus dialokasikan pada
+permasalahan program linier, maka permasalahan tersebut disebut dengan
+permasalahan knapsack .
+
+Permasalahan knapsack adalah suatu permasalahan dalam menentukan
+pemilihan obyek yang masing-masing mempunyai bobot atau berat (weight) untuk
+dimuat dalam sebuah media penyimpanan tanpa melebihi kapasitas media
+penyimpanan tersebut sehingga diperoleh hasil yang optimal dan keuntungan
+maksimum (profit) . Permasalahan knapsack mempunyai beberapa jenis yaitu
+persoalan 0-1 knapsack, persoalan fractional knapsack, persoalan knapsack terbatas, dan persoalan knapsack tidak terbatas. Dalam tugas akhir ini akan
+dibahas persoalan 0-1 knapsack yang mempunyai ciri setiap barang hanya
+tersedia satu unit, akibatnya barang harus diambil atau tidak sama sekali.
+Persoalan 0-1 knapsack dapat diselesaikan menggunakan beberapa algoritma,
+diantaranya adalah dengan algoritma greedy dan pemrograman dinamik.
+Algoritma greedy adalah algoritma yang memecahkan masalah langkah
+per langkah. Pada setiap langkah, algoritma greedy mengambil pilihan yang
+terbaik yang dapat diperoleh saat itu tanpa memperhatikan konsekuesi kedepan
+dan berharap bahwa dengan memilih optimum lokal pada setiap langkah akan
+berakhir dengan optimum global .
+
+Sedangkan pemrograman dinamik adalah suatu metode pemecahan
+masalah dengan cara menguraikan solusi menjadi sekumpulan langkah (step) atau
+tahapan (stage) sedemikian sehingga solusi dari persoalan dapat dipandang dari
+serangkaian keputusan yang saling berkaitan. Dalam menyelesaikan masalah
+pemrograman dinamik tidak terdapat rumusan matematika dengan simbol yang
+pasti, tetapi di tiap-tiap permasalahan mempunyai persamaan dengan simbol
+tertentu tergantung pada pendefinisian awal. Berbeda dengan program linier yang
+mempunyai rumusan matematika untuk menyelesaikan tiap-tiap permasalahan.
+Algoritma greedy dan pemrograman dinamik dapat digunakan untuk
+menyelesaikan masalah di suatu perusahaan, salah satu masalah pada perusahaan
+adalah menentukan banyaknya barang yang akan dijual. Barang yang akan dijual,
+dapat berupa pesanan dari konsumen. Pemilihan barang dengan harga dan
+keuntungan yang tepat sangat penting dalam menjamin kelangsungan hidup
+usahanya. Salah satu perusahaan yang mengalami permasalahan ini adalah CV.
+
+Cilacap, selalu berusaha untuk memenuhi banyaknya pesanan perusahaan
+rekanannya guna menjamin kebutuhan bagi kelancaran CV. Penentuan barang
+pesanan yang akan dipenuhi terlebih dahulu sangat mempengaruhi pengolahan
+keuntungan awal. CV. Cilacap menganggarkan sejumlah dana untuk membeli
+pesanan barang-barang yang akan dijual kembali. Pihaknya tidak menghitung
+keuntungan awal yang diperoleh, karena pihak CV memenuhi pesanan dengan
+cara membeli satu persatu pesanan dari harga yang lebih tinggi terlebih dahulu.
+Permasalahan di CV. Cilacap dapat disebut sebagai persoalan 0-1 knapsack
+dengan dana yang dianggarkan sebagai sumber daya yang harus dialokasikan dan
+jumlah total keuntungan awal sebagai fungsi tujuan. Algoritma greedy dan
+pemrograman dinamik dapat digunakan untuk menentukan banyaknya masingmasing
+pesanan yang akan dibeli terlebih dahulu agar keuntungan awal yang
+diperoleh optimal. Dalam tugas akhir ini akan dianalisis tentang persoalan 0-1
+knapsack pada CV. Cilacap menggunakan algoritma greedy dan pemrograman
+dinamik deterministik dengan perhitungan manual dan bantuan perangkat lunak
+(software) MATLAB.
+Dari latar belakang di atas, maka penulis menyusun tugas akhir dengan
+judul“Analisis Persoalan 0-1 Knapsack pada CV. Cilacap dengan Algoritma
+Greedy dan Pemrograman Dinamik”.
+
+1.2 Perumusan Masalah
+Berdasarkan latar belakang tersebut, dapat dirumuskan permasalahan yaitu
+mencari dan menganalisis solusi dan keputusan optimal pada persoalan 0-1
+knapsack di CV. Cilacap. Persoalan 0-1 knapsack di CV. Cilacap yang dibahas
+adalah permasalahan pemesanan komputer oleh perusahaan rekanan. Terdapat 6
+paket komputer sesuai dengan pesanan, tujuan dari CV. Cilacap yaitu mencari
+keuntungan awal optimal dengan jumlah harga dasar ( harga pokok) yang kurang
+dari atau sama dengan Rp. 70.000.000 sebagai kendala.
+
+1.3 Pembatasan Masalah
+Dalam pembahasan tugas akhir ini, masalah akan dibatasi adalah hanya
+mencari dan menganalisis solusi dan keputusan optimal pada persoalan 0-1
+knapsack di CV. Cilacap dengan algoritma greedy dan pemrograman dinamik.
+Dalam menyelesaikan persoalan 0-1 knapsack di CV. Cilacap, algoritma greedy
+menggunakan 3 strategi. Sedangkan dengan algoritma pemrograman dinamik,
+persoalan dibagi terlebih dahulu menjadi jumlah tahap yang sesuai dengan jenis
+pesanan perusahaan rekanan CV. Cilacap kemudian dibentuk persamaan rekursif
+dan dilakukan perhitungan.
+
+1.4 Tujuan dan Manfaat
+1.4.1 Tujuan
+Berdasarkan latar belakang yang telah dikemukakan, maka tujuan yang
+akan dibahas adalah :
+1. Untuk mencari dan menganalisis persoalan 0-1 knapsack pada CV. Cilacap
+dengan algoritma greedy dan pemrograman dinamik agar diperoleh solusi dan
+keputusan optimal dari pemesanan komputer oleh perusahaan rekanan
+CV. Cilacap. Perhitungan dilakukan dengan menggunakan perhitungan
+manual dan bantuan software MATLAB.
+
+2. Untuk membandingkan algoritma greedy atau pemrograman dinamik yang
+lebih mangkus (efficient) dalam menyelesaikan persoalan 0-1 knapsack pada
+CV. Cilacap berdasarkan solusi dan keputusan optimal yang sudah
+didapatkan.
+
+1.4.2 Manfaat
+Manfaat yang didapat dari penelitian ini adalah dapat mengetahui solusi
+dan keputusan optimal dari persoalan 0-1 knapsack di CV Cilacap. Dapat
+Mengetahui effisiensi dari kedua algoritma, yaitu algoritma yang paling efektif
+pada persoalan 0-1 knapsack di CV. Cilacap berdasarkan solusi dan keputusan
+optimal.
+
+1.5 Sistematika Penulisan
+Sistematika dalam penulisan tugas akhir ini dengan judul “Analisis
+Persoalan 0-1 Knapsack pada CV. Cilacap dengan Algoritma Greedy dan
+Pemrograman Dinamik” terbagi dalam lima bab yaitu : Bab I Pendahuluan, berisi
+tentang latar belakang masalah, perumusan masalah, pembatasan masalah, tujuan
+dan manfaat , dan sistematika penulisan. Bab II Teori Penunjang, terdiri dari enam
+subbab yaitu pengertian algoritma, model program linier, pemrograman bilangan
+bulat (Integer Programming), permasalahan knapsack, algoritma greedy, dan
+algoritma pemrograman dinamik. BAB III Metodologi Penelitian, menjelaskan
+tentang metodologi yang berisi metode pengumpulan data dari persiapan,
+pelaksanaan penelitian, dan analisis hasil. Pada BAB IV diberikan hasil dan
+pembahasan yang menjelaskan tentang hasil pengolahan data dari persoalan 0-1
+knapsack dengan algoritma greedy dan pemrograman dinamik. Sedangkan pada pembahasan berisi tentang analisis penyelesaian persoalan 0-1 knapsack pada CV.
+Cilacap dengan kedua algoritma tersebut. Bab V Penutup, berisi tentang
+kesimpulan dan saran yang diambil berdasarkan bab-bab sebelumnya.

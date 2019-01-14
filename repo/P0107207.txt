@@ -1,0 +1,593 @@
+﻿ADSORPSI LOGAM SENG DAN TIMBAL PADA LIMBAH CAIR
+INDUSTRI KERAMIK OLEH LIMBAH TANAH LIAT
+
+Abstrak
+Industri keramik menghasilkan limbah glasir dan limbah tanah liat. Limbah glasir mengandung
+logam berat yang berasal dari proses pewarnaan keramik dan berpotensi mencemari lingkungan.
+Kandungan logam berat pada limbah glasir PT.X yaitu Cd (0,013 mg/L); Cu (0,033 mg/L); Pb (1,20
+mg/L); dan Zn (7,00 mg/L). Limbah tanah liat digunakan sebagai adsorben yang berguna mengurangi
+kadar logam berat pada limbah glasir.Penelitian ini dilakukan dalam skala laboratorium
+menggunakan metode batch adsorpsi untuk menentukan dosis adsorben dan waktu kontak yang efektif
+dalam mengolah limbah glasir agar memenuhi persyaratan Peraturan Menteri Negara Lingkungan
+Hidup Nomor 16 Tahun 2008 tentang baku mutu air limbah bagi usaha dan/atau kegiatan industri
+keramik. Hasil penelitian menunjukan dosis efektif adsorben sebesar 5 g/L dan waktu kontak 15 menit
+dengan kondisi pH 8 dan kecepatan pengadukan 150 rpm. Kadar logam setelah diadsorpsi telah
+mencapai baku mutu yaitu sebesar 0,614 mg/L dan 2,07 mg/L untuk Pb dan Zn dengan efisiensi
+pengurangan kadar logam Pb sebesar 61% dan Zn sebesar 9,8%. Dari hasil penelitian didapatkan
+data bahwa limbah tanah liat berpotensi dijadikan adsorben untuk mengurangi kandungan logam
+pada limbah cair industri keramik.
+Kata kunci : adsorpsi; limbah tanah liat; logam berat
+
+
+PENDAHULUAN
+Perkembangan industri yang pesat menjadi
+salah satu penyebab meningkatnya fluks zat logam di
+dalam lingkungan. Hal ini mengkhawatirkan karena
+logam berat bersifat tidak terurai dan persisten.
+Paparan kontaminasi logam berat yang hadir,
+meskipun dalam konsentrasi rendah di lingkungan,
+dapat menjadi berbahaya bagi kesehatan manusia
+(Jain, 2004). Timbal (Pb) bersifat non-biodegradable
+di lingkungan dan dapat mengakumulasi terutama
+pada tulang, otak, ginjal dan otot serta dapat
+menyebabkan beragam kelainan seperti anemia, penyakit ginjal, gangguan saraf, mual bahkan
+kematian (Sahu dkk., 2013). Seng (Zn) dapat
+menyebabkan dehidrasi, ketidakseimbangan elektrolit,
+sakit perut, mual dan pusing (Veli dan Alyuz, 2007).
+Dalam penelitian ini, larutan yang diambil
+berasal dari limbah glasir industri keramik. Dalam
+proses pengglasiran, bahan mentah yang digunakan
+terdiri dari bahan pembentuk, pelebur, pengental dan
+pewarna. Logam timbal dan seng biasanya ditemukan
+pada bahan pelebur yang digunakan dalam bentuk
+timbal oksida (PbO) dan seng oksida (ZnO) (Sundari,
+2009). Logam-logam yang dipakai sebagai glasir
+berpotensi mengkontaminasi badan air apabila tidak
+diolah secara tepat.
+Berbagai macam teknologi telah dikembangkan
+untuk menyisihkan logam berat dari air limbah.
+Teknik konvensional yang biasanya digunakan adalah
+proses fisik-kimiawi, seperti presipitasi, oksidasi,
+reduksi, ekstraksi pelarut, ekstraksi elektrolisis,
+penguapan, osmosis, pertukaran ion dan adsorpsi
+(Jang-Soon dkk., 2010). Reverse osmosis meskipun
+sangat efektif, merupakan proses yang membutuhkan
+biaya yang besar. Presipitasi kimia tidak cocok
+digunakan jika polutan yang hadir dalam jumlah
+banyak dan juga akan menghasilkan banyak lumpur
+dalam proses ini. Proses adsorpsi merupakan salah
+satu metode yang paling sering dilakukan untuk
+penyisihan logam beracun dalam air limbah (Mahitti,
+2008). Adsorpsi merupakan proses fisik-kimiawi
+dimana adsorbat, dalam hal ini pencemar,
+terakumulasi di permukaan padatan yang disebut
+adsorben. Proses adsorpsi cocok untuk air limbah
+dengan logam konsentrasi rendah dan industri dengan
+keterbatasan biaya (Gupta dan Bhattacharyya, 2008;
+Salem dan Sene, 2011; Yuan dan Liu, 2013).
+Salah satu tantangan dari teknologi adsorpsi
+adalah pemilihan alternatif adsorben yang ekonomis
+dan efisien untuk meminimalisir biaya operasi di
+negara berkembang (Yusoff dkk., 2014). Tanah liat
+telah menarik perhatian untuk mengadsorpsi logam
+berat dalam air yang terkontaminasi dengan biaya
+rendah (Sari dkk., 2007; Bhattacharyya dan Gupta,
+2008; Ali dkk., 2012). Tanah liat merupakan
+aluminium silikat hidroksida yang membentuk fraksi
+koloid (<2μm) dari tanah, sedimen, batuan dan air.
+Tanah liat memiliki luas permukaan yang besar,
+kestabilan fisik dan mekanis, struktur lapisan teratur,
+kapasitas penukaran kation (cation exchange capacity)
+yang besar, sehingga tanah liat merupakan material
+yang baik sebagai adsorben (Tanabe 1981; Pinnavaia
+1983, Gupta dan Bhattacharyya, 2008).
+Pada penelitian sebelumnya banyak melakukan
+studi untuk mengetahui kemampuan adsorpsi logam
+oleh tanah liat murni. Montmorillonite dan kaolinite
+telah digunakan sebagai adsorben untuk menyisihkan
+timbal, cadmium, dan nikel (Srivastava, 1989; Veli
+dan Alyuz, 2007; Gupta dan Bhattacharyya, 2008).
+Kapasitas adsorpsi dari timbal dan cadmium lebih
+besar pada montmorillonite (Pb=0,68; Cd=0,72 mg/g)
+dibandingkan pada kaolinite (Pb=0,12; Cd=0,32 mg/g)
+(Veli dan Alyuz, 2007). Penelitian oleh Gupta dan
+Bhattacharyya (2008) menyatakan bahwa kapasitas
+adsorpsi yang didapatkan sesuai dengan isoterm
+Langmuir dimana Pb (II), Cd (II) dan Ni (II) adalah
+pada rentang 6,8-11,5 mg/g (dengan kaolinite) dan
+21,1-31,1 mg/g (dengan montmorillonite). Tanah liat
+jenis kaolin telah digunakan sebagai adsorben untuk
+menyerap logam timbal (Pb), didapatkan nilai qe
+untuk Pb oleh kaolin murni sebesar 5,2 mg/g dan
+untuk kaolin teraktivasi asam sebesar 6,3 mg/g.
+Meskipun data mengenai kemampuan adsorpsi
+tanah liat sudah cukup banyak (Adebowale dkk.,
+2006; Bhattacharyya dan Gupta, 2006; Etci dkk.,
+2010; Salem dan Sene, 2011), sampai saat ini belum
+banyak studi yang dilakukan mengenai potensi
+pemakaian adsorben dari tanah liat yang didaur ulang.
+Adsorben daur ulang yang banyak diteliti berkisar
+pada adsorben berbasis karbon aktif (Gupta dan Ali,
+2004; Sahu dkk., 2013; Yuan dan Liu, 2013).
+Perbedaan penelitian ini dengan penelitian
+sebelumnya yaitu tanah liat yang digunakan sebagai
+adsorben berasal dari limbah industri keramik PT.X.
+Limbah tanah liat berasal dari proses pembentukan
+(shaping) keramik sebelum tanah liat mengalami
+proses pengeringan (drying). Hal ini dapat
+meningkatkan nilai fungsi dari limbah tanah liat
+sebagai adsorben logam berat. Konsep zero waste dan
+rendahnya biaya pengolahan ini merupakan
+keuntungan dari penggunaan limbah tanah liat sebagai
+adsorben. Penelitian ini dilakukan dalam skala
+laboratorium untuk mencari pH, dosis adsorben, dan
+waktu kontak yang paling efektif untuk menurunkan
+kandungan logam berat pada limbah glasir, sehingga
+memenuhi baku mutu. Baku mutu yang digunakan
+yaitu Peraturan Mentri Lingkungan Hidup Nomor 16
+Tahun 2008 tentang Baku Mutu Air Limbah Bagi
+Usaha dan/atau Kegiatan Industri Keramik. Pada
+peraturan ini baku mutu untuk logam, yaitu Pb (1
+mg/L), Co (0,6 mg/L), Cd (0,1 mg/L) dan Cr (1
+mg/L). Berdasarkan baku mutu ini kadar logam Pb
+pada limbah industri keramik di atas kadar yang
+ditetapkan sehingga perlu dilakukan pengolahan agar
+kadarnya sesuai dengan baku mutu yang telah
+ditetapkan.
+METODE PENELITIAN
+Pada studi ini, tanah liat sebagai adsorben dan
+air limbah yang mengandung logam berat sebagai
+adsorbat berasal dari limbah tanah liat industri
+keramik PT. X, yaitu industri keramik skala menengah
+yang memproduksi tableware dan dekorasi. Limbah
+tanah liat yang digunakan sebagai adsorben dihasilkan
+dari proses pembentukan (shaping) keramik sebelum
+tanah liat mengalami proses pengeringan (drying).
+Sedangkan, limbah glasir industri keramik dari PT. X
+sendiri digunakan sebagai adsorbat. Pemeriksaan
+terdahulu menunjukkan bahwa kandungan logam berat
+yang terkandung dalam air limbah tersebut cukup
+tinggi, yaitu Pb 1,2 mg/L; Zn 7,0 mg/L; Cd 0,013
+mg/L dan Cu 0,033 mg/L. Limbah glasir ini dihasilkan dari proses pewarnaan keramik. Sampel limbah glasir
+yang diambil dari tempat pengumpulan limbah cair
+proses glasir kemudian ditempatkan pada lemari
+pendingin dengan suhu 4oC sebelum dipreparasi untuk
+tahap selanjutnya.
+Karakterisasi dan Preparasi Adsorben
+Tanah liat tidak dimodifikasi secara kimiawi
+agar dapat menghasilkan adsorben dengan biaya
+rendah. Tanah liat hanya dipanaskan di oven dengan
+suhu 105oC selama 48 jam kemudian disaring
+menggunakan saringan nomor 100 ASTM (150 μm)
+(Mobavu, 2011). Kandungan kimiawi dari tanah liat
+tersebut dikarakterisasi sebelum percobaan adsorpsi
+dengan menggunakan X-Ray Diffraction Shimadzu
+XRD-7000 di Laboratorium Universitas Islam Negeri
+Jakarta. Kemudian morfologi permukaan dari
+adsorben sebelum dan sesudah proses adsorpsi diamati
+dengan menggunakan Scanning Electron Microscope
+FE-SEM FEI INSPECT F50 dan komposisi logam
+diamati dengan Energy Dispersive X-Ray EDAX EDS
+Analyzer di Laboratorium Uji Departemen Teknik
+Metalurgi dan Material, Universitas Indonesia.
+Batch Adsorpsi, Variasi pH, Dosis Adsorben dan
+Waktu Kontak
+Percobaan batch adsorpsi dilakukan pada suhu
+ruang, yaitu 25°C. Pada percobaan, tanah liat yang
+telah dipreparasi dimasukan sebanyak 0,5 gram
+(kecuali pada variasi dosis adsorben) sebagai adsorben
+dalam 250 ml labu erlenmeyer dan ditambahkan 100
+ml sampel glasir industri keramik. pH awal larutan
+adalah 8. Larutan tersebut diberikan beberapa
+perlakuan, diantaranya variasi pH, dosis adsorben dan
+waktu kontak.
+Variasi pH yang dilakukan adalah 6, 8 dan 12,
+dengan menambahkan 0,1 M NaOH atau 0,1 M HCl
+untuk menyesuaikan variasi pH tersebut. Rentang pH
+tersebut didasarkan pada beberapa penelitian terdahulu
+yang dilakukan oleh Etci dkk. (2009), Bhattacharyya
+dan Gupta (2006), serta Veli dan Alyuz (2007)
+menyatakan bahwa pH optimum dalam mengadsorpsi
+logam dengan tanah liat adalah lebih dari 6. Parameter
+pH diukur dengan pH meter merek Eutech
+menggunakan metode SNI 06-6989.11-24. Setelah
+didapatkan pH optimum, variasi dosis adsorben yang
+dilakukan adalah 5, 10, 15, 20, dan 25 g/L. Setelah
+didapatkan pH dan dosis adsorben optimum, variasi
+waktu kontak yang dilakukan adalah 15, 30, 60, 90
+dan 120 menit. Setiap perlakuan variasi, larutan
+diletakkan pada shaker (range kecepatan 0-200 rpm)
+diputar dengan kecepatan 150 rpm selama 60 menit
+(kecuali untuk variasi waktu kontak) kemudian
+disentrifugasi dengan alat sentrifugasi 80-2B (range
+kecepatan 0-4000 rpm) kecepatan 4000 rpm selama 10
+menit.
+Karakterisasi dan Preparasi Adsorbat
+Sampel limbah glasir sebagai adsorbat dianalisa
+sebelum dan sesudah adsorpsi. Sebelum dilakukan
+pengukuran, sampel limbah glasir dipreparasi terlebih
+dahulu. Sampel sebanyak 50 ml dimasukan ke dalam
+beaker glass 100 ml, kemudian ditambahkan 5 ml
+HNO3(p) serta 3-5 batu didih dan ditutup dengan
+cover glass. Larutan tersebut dipanaskan dengan
+hotplate pada suhu 150°C hingga volume sampel ±25
+ml, setelah itu didinginkan hingga mencapai suhu
+ruang. Jika sampel belum jernih, ditambahkan 5 ml
+HNO3 (p) kemudian didinginkan dan disaring dengan
+filter 0,45 mikron ke dalam labu ukur 100 ml
+kemudian ditambahkan air suling hingga tera.
+Pengukuran logam berat yang terkandung pada sampel
+diukur dengan menggunakan Atomic Absorption
+Spectroscopy (AAS) di Laboratorium Teknik
+Lingkungan, Departemen Teknik Sipil, Universitas
+Indonesia sesuai dengan metode SNI 06-6989.8-2004
+untuk logam Pb dan SNI 06-6989.7-2004 untuk logam
+Zn (Sdiri dkk, 2012).
+Analisis dan Pengolahan Data
+Untuk mengetahui persentase penyisihan
+konsentrasi logam Pb dan Zn digunakan persamaan
+(1) dimana Co adalah konsentrasi logam berat awal
+(mg/L) dan Ce adalah konsentrasi logam berat pada
+kesetimbangan setelah diadsorpsi (mg/L).
+Penurunan konsentrasi 􀵌 􀭇􀰬􀬿􀭇􀱛
+􀭇􀰬
+x100% (1)
+Isoterm Langmuir dan Freundlich digunakan
+untuk mengetahui sifat adsorpsi dari adsorben yang
+digunakan terhadap adsorbat. Pada isoterm Langmuir,
+diasumsikan adsorpsi yang terjadi membentuk lapisan
+tunggal (monolayer) serta semua situs dan
+permukaannya bersifat homogen. Persamaan isoterm
+Langmuir sebagai berikut
+q􀭣 􀵌 􀭚􀱣􀭏􀭇􀱛
+􀬵􀬾􀭏􀭇􀱛
+(2)
+dimana qe merupakan konsentrasi adsorbat teradsorpsi
+dalam setiap gram adsorben (mg/g); Ce adalah
+konsentrasi logam berat setelah diadsorpsi (mg/L); K
+adalah konstanta dan Vm merupakan kapasitas
+monolayer (Veli dan Alyuz, 2007).
+Pada isoterm Freundlich diasumsikan adsorpsi
+yang terjadi membentuk lapisan monolayer dari
+molekul-molekul adsorbat pada permukaan adsorben
+namun situs-situs aktif pada permukaan adsorben
+bersifat heterogen. Persamaan isoterm Freundlich
+sebagai berikut
+q􀭣 􀵌 K􀭤C􀭣
+􀬵􀵗􀭬 (3)
+dimana qe adalah konsentrasi adsorbat teradsorpsi
+dalam setiap gram adsorben (mg/g); Ce adalah
+konsentrasi logam berat setelah diadsorpsi; Kf
+merupakan konstanta Freundlich dan 1􀵗n adalah
+intensitas adsorpsi (Veli dan Alyuz, 2007).
+HASIL DAN PEMBAHASAN
+Kandungan kimia tanah liat sebagai adsorben
+pada Tabel 1 menunjukkan bahwa adsorben
+mengandung kaolinite (Al2(Si2O5)(OH)4) yang
+mempunyai kemampuan untuk mengikat kation sehingga dapat digunakan sebagai adsorben dalam
+adsorpsi logam. Namun demikian, pada tanah liat ini
+terdapat pengotor dalam jumlah yang cukup besar,
+yaitu quartz. Berdasarkan hasil pengukuran XRD
+dapat dilihat bahwa kandungan quartz mendominasi
+sedangkan kandungan kaolinitenya sebesar 28,4%.
+Pada tanah liat terdapat pengotor dalam jumlah yang
+cukup besar, hal ini mungkin bisa menjadi salah satu
+penyebab berkurangnya daya adsorpsi dari adsorben.
+Adanya pengotor pada permukaan adsorben dapat
+menghalangi adsorbat untuk masuk ke dalam pori
+adsorben dan berinteraksi dengan adsorben. Pada
+limbah tanah liat yang digunakan sebagai adsorben
+juga terdapat kandungan lain selain kaolinite seperti
+kation organik, yang dapat berkompetisi dengan
+logam untuk memperebutkan sisi aktif adsorben
+sehingga mengakibatkan pengurangan kemampuan
+adsorpsi logam (Cruz-Guzman dkk., 2006).
+Kandungan kaolinite yang relatif rendah
+dibandingkan kandungan quartz pada adsorben
+ternyata tetap dapat menghasilkan kualitas adsorpsi
+yang sesuai kebutuhan. Hasil adsorpsi logam dengan
+menggunakan tanah liat daur ulang dengan variasi pH
+antara 6, 8, dan 12 dan dosis adsorben 5-25 mg/L serta
+waktu kontak 15-120 menit disajikan pada Tabel 2.
+Dari hasil tersebut, dapat dilihat bahwa penyisihan
+logam berat dari air limbah meningkat dengan
+peningkatan pH. Hal ini dikarenakan semakin
+meningkatnya pH maka meningkat pula sisi aktif
+adsorben yang berguna dalam mengikat logam
+(Bhattacharyya dan Gupta, 2008). Meningkatnya pH
+mengurangi konsentrasi H+ sehingga mengurangi
+kompetisi antara ion logam dan proton dalam proses
+adsorpsi pada permukaan partikel (Adebowale dkk.,
+2006).
+Tabel 1. Variasi pH pada proses adsorpsi logam Pb
+dan Zn
+pH
+Kadar logam (mg/L)
+Pb Zn
+Kadar awal 2.288 2.943
+6 1.996 2.602
+8 1.22 2.423
+12 0.886 2.297
+Penyisihan logam paling optimum didapatkan
+pada pH 12 dengan kadar Pb yang sudah memenuhi
+baku mutu. Penyisihan Pb dan Zn yang melonjak pada
+pH 12 dapat disebabkan oleh 2 mekanisme, yaitu
+adsorpsi dan juga presipitasi pada saat yang
+bersamaan. Menurut Stumm dan Morgan (1996), pada
+pH 12, kelarutan Pb dan Zn serta kesetimbangan spesi
+hidroksida dan karbonat dari Pb dan Zn akan bergeser
+ke arah padatan. Adanya mekanisme presipitasi ini
+dapat memberikan hasil penyisihan maksimum,
+dibandingkan dengan proses adsorpsi pada pH 8
+dimana kadar Pb pada limbah setelah adsorpsi adalah
+1,20 mg/L. Kadar tersebut masih berada di atas baku
+mutu yaitu 1 mg/L. Namun, pemilihan pH dilakukan
+bukan berdasarkan penyisihan maksimum, namun
+berdasarkan pH optimum dimana kondisi percobaan
+yang diharapkan bukanlah untuk mencapai kadar Pb
+dan Zn yang dapat memenuhi baku mutu, namun lebih
+diarahkan untuk pH bagi percobaan dosis dan waktu
+kontak optimum selanjutnya. Untuk itu, pH 8
+dianggap cukup baik karena penyisihan Pb sudah
+mencapai 47% dan penyisihan Zn sudah mencapai
+17%. Selain itu, larutan tidak perlu disesuaikan
+keasamannya karena pH 8 adalah pH campuran
+adsorben dan adsorbat sebelum penyesuaian. Pada pH
+ini, pengolahan limbah glasir tidak membutuhkan
+pengaturan pH sehingga mengurangi biaya
+pengolahan limbah untuk memenuhi Peraturan
+Menteri Negara Lingkungan Hidup Nomor 16 Tahun
+2008 tentang Baku Mutu Air Limbah Bagi Kegiatan
+Usaha dan/atau Kegiatan Industri Keramik, dimana
+baku mutu untuk pH limbah adalah 6-9.
+Pada studi ini, pH yang dipakai berkisar pada
+rentang yang cenderung lebih basa dibandingkan
+rentang pH yang pada umumnya digunakan pada
+percobaan adsorpsi logam berat yaitu pH 3-6. Hal ini
+dilakukan berdasarkan dua pertimbangan utama, yaitu
+karena percobaan ini dilakukan untuk pemenuhan
+kadar logam berat terhadap baku mutu pemerintah dan
+bukan mencari efisiensi adsorpsi maksimum. Selain
+itu, kadar awal logam Pb dan Zn tidak terlalu tinggi
+dibandingkan dengan baku mutu pemerintah sehingga
+kebutuhan penyisihan logam tidak terlalu banyak.
+Meskipun pada pH yang cenderung basa dapat
+memicu penyisihan logam berat melalui mekanisme
+presipitasi, namun karena kadar logam yang tidak
+terlalu tinggi pada percobaan ini akan kecil
+kemungkinannya menyebabkan presipitasi, khususnya
+pada pH 8, sehingga untuk diskusi selanjutnya,
+mekanisme penyisihan lewat presipitasi dapat
+diabaikan dan diskusi selanjutnya akan dibahas
+sebagai proses adsorpsi.
+Tabel 2. Kandungan adsorben tanah liat dengan XRD
+Silikon oksida (quartz) Silicon
+oksida
+Aluminum silikat hidroksida
+(kaolinite)
+Formula SiO2 SiO2 Al2(Si2O3)(OH)4
+Total number of Peaks 28 198 198
+Peaks in range 21 198 158
+Peaks matched 19 54 53
+Intensity scale factor 1 0,06 0,14
+Quantity (weight %) 68,55 3,06 28,4
+
+
+Berbeda dengan penelitian yang dilakukan oleh
+Adebowale dkk. (2006) yang menyatakan bahwa
+waktu kontak optimum adsorpsi logam Pb dengan
+kaolin dimodifikasi dan tidak dimodifikasi berturutturut
+adalah 8 dan 20 menit dengan persentase
+penyisihan adalah 94,8% dan 78,7%. Sari dkk. (2007)
+juga mendapatkan waktu optimum adsorpsi logam Pb
+dengan tanah jenis kaolin adalah 30 menit dengan
+pesentase penyisihan mencapai 98%. Selain
+disebabkan karena perbedaan jenis kaolin yang
+digunakan sebagai adsorben, perbedaan konsentasi
+awal adsorbat (dalam hal ini adalah logam Pb) yang
+akan diadsorpsi juga menjadi penyebab perbedaan
+waktu kontak optimum yang didapatkan.
+Dalam menentukan waktu kontak optimum
+untuk proses adsorpsi, pertimbangan yang diambil
+adalah penyisihan logam dan efisiensi unit proses PT.
+X yang menghasilkan limbah glasir dalam jumlah
+sedikit sehingga dapat dibuat pengolahan secara
+mekanis dengan sistem batch. Waktu kontak yang
+digunakan dalam mendesain pengolahan limbah glasir
+di industri keramik PT. X ini tidak mempengaruhi
+ukuran bak adsorpsi karena pelaksanaan adsorpsi
+dilakukan berdasarkan metode batch setiap beberapa
+bulan. Namun tentunya, waktu kontak tetap
+mempengaruhi efektivitas biaya energi yang
+digunakan dalam pengadukan oleh impeller. Oleh
+karena itu, penulis mengambil waktu kontak optimum
+15 menit. Pada waktu kontak ini, kadar logam Pb dan
+Zn sudah memenuhi baku mutu yang telah ditetapkan.
+Isoterm Adsorpsi
+Mekanisme adsorpsi ditentukan dengan
+mengevaluasi keseimbangan data adsorpsi yang
+diperoleh dari percobaan. Hubungan kesetimbangan
+antara jumlah logam yang diadsorpsi oleh adsorben
+dapat ditunjukan melalui adsorpsi isoterm (Bulut dkk.,
+2008). Mekanisme adsorpsi berdasarkan isoterm
+Langmuir dan Freundlich untuk logam Pb dan Zn
+disajikan pada Tabel 3. Dari persamaan linear isoterm
+Langmuir pada gambar maka didapatkan nilai
+kapasitas monolayer (Vm) dan konstanta Langmuir
+(k). Sedangkan dari persamaan logaritma isoterm
+Freundlich pada gambar maka didapatkan nilai
+konstanta Freundlich (Kf).
+Meskipun Isoterm Langmuir memiliki
+koefisien korelasi yang cukup baik, namun kedua
+isotherm tersebut kurang dapat dipakai untuk
+menjelaskan fenomena adsorpsi yang terjadi. Dari
+hasil percobaan didapatkan kapasitas monolayer
+maksimum dalam mengadsorpsi logam Pb dan Zn
+berturut-turut adalah 0,013 dan 0,043 mg/g tanah liat
+sebagai adsorben. Hasil ini cukup berbeda jika
+dibandingkan dengan penelitian yang dilakukan oleh
+Adebowale dkk. (2006) yang menyatakan bahwa
+kapasitas monolayer kaolin dalam mengadsorpsi
+logam Pb mencapai 19,27 mg/g. Begitu pula pada
+penelitian Sari dkk. (2007), kapasitas monolayer
+kaolin yang didapatkan dalam mengadsorpsi logam Pb
+adalah 31,75 mg/g. Penelitian Etci dkk. (2009), pada
+temperatur 25oC, kapasitas monolayer kaolin bahkan
+mencapai 83,33 mg/g. Nilai R2 pada ketiga penelitian
+tersebut mencapai 0,99. Hal ini disebabkan karena
+pada penelitian tersebut jenis kaolin yang digunakan
+merupakan kaolin murni dan juga adsorbat yang
+digunakan adalah limbah cair buatan. Sedangkan
+limbah cair yang digunakan pada penelitian ini adalah
+limbah glasir serta adsorben yang digunakan
+merupakan daur ulang limbah tanah liat yang
+bersumber dari industri keramik yang tidak dapat
+dihindari kemungkinan terdapat ion logam selain Pb
+dan Zn yang dapat menjadi kompetitor dalam proses
+adsorpsi.
+
+Pada percobaan, dosis optimum telah dilakukan
+beberapa kali dan menunjukkan tren yang sama yaitu
+penambahan dosis adsorben tidak selalu berbanding
+lurus dengan penurunan kadar logam berat. Hal ini
+dikarenakan adsorben berasal dari limbah yang
+memungkinkan terdapat banyak pengotor yang dapat
+berkompetisi dengan logam untuk memperebutkan sisi
+aktif adsorben sehingga mengakibatkan pengurangan
+kemampuan adsorpsi logam. Berdasarkan alasan
+diatas, maka meskipun menunjukan R2 yang tidak
+mendekati 1, percobaan dapat dianggap valid karena
+adsorben yang bertambah tidak selalu berbanding
+lurus dengan daya adsorpsi logam, karena adsorben
+yang digunakan berasal dari limbah. Selain itu, karena
+menggunakan limbah, maka ada kemungkinan di
+adsorben juga terdapat pengotor lain termasuk logam.
+Pada penelitian Yussof dkk. (2014), kapasitas
+adsorpsi logam Pb dengan menggunakan adsorben
+daur ulang seperti serbuk kayu pohon durian yaitu
+20,37 mg/g, sabut kelapa yaitu 2,76 mg/g dan tandan
+kelapa sawit yaitu 4,48 mg/g. Pada penelitian Sahu
+dkk. (2013), kapasitas adsorpsi logam Pb dengan
+menggunakan adsorben daur ulang dari limbah lumpur
+merah yang berasal dari industri alumunium yaitu
+6,0273 mg/g. Selain itu, Gupta dan Ali (2004)
+mendapatkan kapasitas adsorpsi logam Pb dengan
+menggunakan adsorben daur ulang berupa fly ash dari
+limbah industri gula yaitu 2,50 mg/g. Perbedaan
+kapasitas ini tidak terlalu signifikan jika dibandingkan
+dengan kapasitas yang didapatkan pada penelitian ini.
+Perbedaan tersebut kemungkinan disebabkan oleh
+perbedaan jenis dan karakteristik dari adsorben yang
+digunakan. Selain itu, perbedaan kemungkinan juga
+disebabkan karena kondisi lingkungan saat proses
+adsorpsi seperti pH, temperatur, waktu kontak,
+dosis/konsentrasi logam sebelum adsorpsi dan dosis
+adsorben. Berdasarkan adsorpsi isoterm maka
+didapatkan data pengurangan logam Zn2+ < Pb2+. Hasil
+ini sesuai dengan percobaan Baker dkk. (2008)
+dimana didapatkan hasil adsorpsi Zn2+ < Cu2+ < Cd2+
+< Pb2+. Kation timbal membentuk senyawa kompleks
+stabil dengan oksigen yang terdapat pada tanah liat.
+Selain itu, energi hidrasi timbal lebih lemah
+dibandingkan dengan seng (-1,481 kJ/mol dan -2,406
+kJ/mol untuk Pb dan Zn secara berurutan) sehingga
+seng lebih memiliki afinitas tinggi untuk air.
+Karakterisasi Adsorben Teradsorpsi Adsorbat
+Karakteristik morfologi adsorben sebelum dan
+setelah teradsorpsi adsorbat dengan kondisi optimum,
+yaitu pH 8, dosis adsorben 5 g/L dan waktu kontak 15
+menit, disajikan pada Gambar 2. Karakteristik
+morfologi ini dilakukan dengan analisis Scanning
+Electron Microscopy (SEM). Analisis SEM berguna
+untuk mengobservasi tampak morfologi permukaan
+dari adsorben sebelum dan sesudah adsorpsi logam
+(Yusoff dkk., 2014). Terlihat pada Gambar 2, tanah
+liat sebagai adsorben sebelum dan sesudah teradsorpsi
+logam Pb pada magnifikasi 5000 kali.Tidak tampak
+perubahan morfologi pada permukaan tanah liat
+sebagai adsorben sesudah proses. Hal ini
+menunjukkan bahwa proses presipitasi logam yang
+terjadi tidak signifikan. Proses adsorpsi ini diperkuat
+dengan hasil analisis Energy Dispersive X-Ray (EDX)
+yang didapatkan pada tanah liat sebelum dan sesudah
+teradsorpsi (lihat Tabel 4). Berdasarkan hasil analisis
+EDX, terdeteksi keberadaan logam Pb yang meningkat
+secara signifikan pada tanah liat setelah proses
+adsorpsi. Proses adsorpsi dengan menggunakan
+adsorben daur ulang ini terlihat lebih efektif untuk
+penyisihan logam Pb dibandingkan dengan logam Zn.
+Selain terlihat dari hasil analisa AAS, hal ini juga
+dapat dilihat dari hasil EDX yang tidak menemukan
+logam Zn pada adsorben karena kadarnya yang berada
+di bawah batas pengukuran. Selain itu, dari hasil EDX
+ini dapat dilihat bahwa terjadi peningkatan Na dan Ca
+setelah proses adsorpsi sebesar dengan kisaran 2-3%
+dan 5-6%. Peningkatan Na dan Ca ini dapat terjadi
+melalui proses adsorpsi namun juga secara presipitasi.
+
+Desain Unit Pengolahan Limbah Cair pada
+Industri Keramik PT. X
+Desain unit pengolahan limbah cair pada
+industri keramik PT.X didasarkan pada data hasil
+percobaan skala laboratorium yang telah dilakukan.
+Limbah yang dihasilkan dapat ditampung dalam bakbak
+penyimpanan. Pada desain ini akan dibuat tangki
+multifungsi dengan kapasitas maksimum 200 liter
+(Gambar 3). Tangki multifungsi ini berguna sebagai
+tangki penyimpanan dan pemrosesan limbah glasir.
+Limbah glasir yang dihasilkan oleh industri keramik
+PT. X akan ditampung selama 3 bulan, baru kemudian
+dilakukan pengolahan. Limbah glasir ditampung
+selama 3 bulan dengan mempertimbangkan efektivitas
+pengolahan karena limbah glasir yang dihasilkan
+industri ini sangat kecil dan juga tidak stabil
+berdasarkan proses produksi yang tergantung kepada
+permintaan konsumen. Selain itu, waktu penampungan
+yang lama tidak akan menimbulkan dampak yang
+buruk karena kadar organik dan zat volatil yang
+rendah.
+Adsorben yang digunakan diambil dari limbah
+tanah liat yang dihasilkan oleh industri
+kemudiandipanaskan pada oven dengan suhu 105oC
+selama 48 jam. Setelah tanah liat kering
+kemudiantanah liat disaring menggunakan saringan
+berukuran 150 μm. dosis adsorben yang diberikan
+pada limbah glasir adalah berdasarkan hasil analisa
+skala laboratorium yaitu 5 g/L.
+Limbah glasir kemudian akan diolah secara
+mekanis menggunakan impeller dengan kecepatan
+pengadukan 150 rpm selama 15 menit. Setelah diaduk
+selama 15 menit, limbah glasir akan didiamkan di
+dalam tangki untuk kemudian mengalami proses sedimentasi. Selama proses sedimentasi, limbah
+akandidiamkan kurang lebih selama 6 jam. Padatan
+akan mengendap di bawah sedangkan bagian
+supernatant dapat dibuang menggunakan pipa
+langsung ke saluran kota dekat pabrik. Lumpur hasil
+pengolahan akan diserahkan ke pihak ketiga karena
+lumpur banyak mengandung logam berat yang
+berpindah. Pihak ketiga yang dimaksud merupakan
+pihak yang telah memiliki izin dari pemerintah untuk
+mengolah limbah B3. Pada industri ini tidak dibuat
+pengolahan lumpur karena akan membutuhkan banyak
+biaya untuk mengolah lumpur dan lumpur yang
+dihasilkan oleh industri ini juga jumlahnya sedikit.
+Hal ini dikarenakan volume limbah glasir yang
+dihasilkan pada PT. X kecil. Pada bagian bawah
+tangki akan disediakan bak penampung lumpur untuk
+menampung lumpur yang dihasilkan.
+KESIMPULAN
+Berdasarkan hasil penelitian dapat disimpulkan
+bahwa tanah liat daur ulang dari industri keramik
+tableware dapat dipakai sebagai adsorben logam berat
+dari limbah glasir keramik tersebut. Didapatkan data
+yaitu pada pH 8, dosis adsorben 5 g/L dan waktu
+kontak selama 15 menit merupakan kondisi efektif
+dalam menyisihkan logam Pb dan Zn agar memenuhi
+baku mutu. Adsorben dari tanah liat yang
+mengandung 28,4% kaolinite dapat menyisihkan
+sekitar 44% logam Pb dan 23% logam Zn. Dari hasil
+penelitian ini, kadar logam Pb dan Zn yang
+terkandung pada limbah yang teradsorpsi telah
+memenuhi baku mutu yang telah ditetapkan oleh
+Kementerian Lingkungan Hidup, yaitu 1 mg/L untuk
+Pb dan 5 mg/L untuk Zn.

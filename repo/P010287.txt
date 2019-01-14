@@ -1,0 +1,445 @@
+﻿Kriteria Pemilihan Pemasok Menggunakan
+Analytical Network Process
+
+Pendahuluan
+Salah satu faktor kesuksesan sebuah perusahaan
+adalah pemilihan pemasok (Gencer and Gurpinar
+[8]). Pemilihan pemasok yang tepat dapat menjamin
+ketersediaan bahan baku untuk menjaga lintasan
+produksi. Menurut Ghoddsypour and O’Brien [9] pemilihan
+pemasok merupakan masalah pengambilan
+keputusan penting agar mendapatkan pemasok
+yang dapat meningkatkan daya saing perusahaan.
+Dapat dikatakan pemilihan pemasok adalah salah
+satu aktivitas penting pada bagian pengadaan untuk
+mencapai keunggulan bersaing (Amid et al. [1]).
+Pemilihan pemasok adalah permasalahan multi kriteria
+dimana setiap kriteria yang digunakan mempunyai
+kepentingan yang berbeda dan informasi
+mengenai hal tersebut tidak diketahui secara tepat.
+Dalam hal ini pemilihan pemasok yang berdasarkan
+penawaran harga yang rendah sudah tidak efisien
+lagi. Untuk mendapatkan kinerja rantai pasok yang
+maksimal harus menggabungkan kriteria lain yang
+relevan dengan tujuan perusahaan (Ng [14]).
+Analisis keputusan pemilihan pemasok harus meliputi
+strategi dan faktor operasional seperti faktor
+tangible dan intangible (Cebi and Bayraktar [3]), sedangkan
+menurut Amid et al [1] pemilihan pemasok yang bersifat multi kriteria harus meliputi faktor
+kualitas dan kuantitas. Pada umumnya terdapat
+beberapa kriteria yang mempengaruhi dalam pemilihan
+pemasok, misalnya dalam hal kualitas meliputi
+pengiriman, kinerja masa lalu, garansi, harga,
+kemampuan teknik, dan kondisi finansial (Hapsari
+dan Suparno [10]). Menurut Yoserizal dan Singgih
+[19] pemilihan pemasok yang tepat tidak hanya
+pemasok yang dapat memberikan material yang
+berkualitas, tepat waktu, dan harga terjangkau
+namun juga harus memberikan service yang optimal
+baik dari segi responsif, kelancaran komunikasi dan
+informasi. Lin [13] mengembangkan kriteria harga,
+kualitas, service, ketepatan pengiriman, dan kepercayaan
+sebagai dasar pemilihan pemasok. Amid et
+al. [1] menerapkan kriteria biaya, kualitas, dan
+service.
+Pemilihan pemasok adalah masalah pengambilan
+keputusan yang melibatkan multi-person. Input
+diperoleh dari pendapat para ahli yang mempunyai
+cara pandang, tanggung jawab, pengalaman sebagai
+pengambil keputusan. Penilaian kriteria diputuskan
+oleh bagian manajemen dan bagian produksi berdasarkan
+strategi rantai pasoknya (Amid et al. [1]).
+Proses pengambilan keputusan dapat diterjemahkan
+dengan pendekatan sistematis dan logika untuk
+mendapatkan prioritas dan bobot (Tam and Tumala
+[16]).
+Lunar Cipta Kreasi merupakan perusahaan yang
+bergerak di bidang kerajinan. Lunar Cipta Kreasi
+memperoleh bahan baku dari beberapa pemasok
+untuk mengantisipasi pemesanan berlebih.
+
+
+Pemilihan pemasok di Lunar Cipta Kreasi hanya
+didasarkan oleh spesifikasi material. Dalam produksinya
+Lunar Cipta Kreasi mendasarkan pada pesanan
+dengan jangka waktu yang ditetapkan di dalam
+kontrak. Dalam hal ini Lunar Cipta Kreasi akan
+memilih pemasok yang mampu memberikan spesifikasi
+material yang diinginkan dengan harga
+yang kompetitif untuk memenuhi pesanan. Dalam
+prakteknya sering bahan baku diperoleh dari
+beberapa pemasok tergantung pada kuantitas dan
+kualitas yang dibutuhkan. Namun seiring dengan
+persaingan yang semakin ketat, perusahaan dituntut
+tidak hanya mempertimbangan harga namun
+juga kriteria lain seperti kualitas, service dan lainlain.
+Penelitian ini ditujukan untuk memunculkan sejumlah
+kriteria dalam pemilihan pemasok dengan
+mengambil studi di perusahaan kerajinan Lunar
+Cipta Kreasi, Yogyakarta. Pengambilan keputusan
+pemilihan pemasok yang saat ini dijalankan perusahaan
+masih bersifat intuitif sehingga tidak dapat
+terdapat konsistensi dalam kriteria pemilihan pemasok
+yang digunakan.
+Berbagai metode dapat digunakan dalam permasalahan
+pemilihan pemasok yang melibatkan
+banyak kriteria. Ng Wang L [14] melakukan pembobotan
+multi kriteria dalam pemilihan pemasok
+menggunakan metode data envelopment analysis
+(DEA). Lin [13] menggunakan analytic network
+process (ANP) dan similarity to ideal solution (TOPSIS)
+untuk menghasilkan bobot dan rangking
+pemasok sedangkan program linear digunakan untuk
+mengalokasikan permintaan setiap pemasok.
+Chen [5] mengembangkan strategi kompetitif dalam
+rantai pasok dengan menggunakan analisis SWOT
+untuk mendapatkan kerangka kriteria dan indikator
+pemilihan pemasok. Dewayana dan Budi [7]
+menyatakan jika kriteria yang akan digunakan
+untuk mengevaluasi pemasok mempunyai hubungan
+keterkaitan maka metode yang tepat digunakan
+adalah ANP, namun jika kriteria tersebut tidak
+mempunyai hubungan keterkaitan maka metode
+yang tepat untuk digunakan adalah Analytical Hierarchy
+Porcess (AHP)
+Hasil observasi memberikan informasi bahwa Lunar
+Cipta Kreasi perlu menata ulang sistem evaluasi
+pemilihan pemasok. Kriteria yang digunakan harus
+disesuaikan dengan kebutuhan, obyektifitas dan keberadaan
+sumber daya perusahaan. Kriteria yang
+digunakan Lunar Cipta Kreasi mempunyai hubungan
+keterkaitan satu sama lain maka metode yang
+tepat untuk digunakan adalah ANP. Selain itu ANP
+juga dapat digunakan untuk memprediksi bentuk
+hubungan antar kriteria yang ditinjau.
+Menurut Bayazit [2] ANP mampu memperbaiki
+kelemahan dari AHP dalam hal kemampuan mengakomodasi
+keterkaitan antar kriteria pada proses
+evaluasi pemilihan pemasok. Melalui metode ANP
+akan diperoleh bobot pada seluruh kriteria yang
+digunakan dalam pemilihan pemasok (Yoserizal dan
+Singgih [19]). Hasil dari pembobotan ini dapat
+digunakan sebagai input dalam menyusun strategi
+dalam rantai pasok khususnya pemilihan pemasok
+terutama bagi bahan baku yang relatif kritis yang
+tentunya membutuhkan hubungan jangka panjang.
+Penelitian ini ditujukan untuk memunculkan
+kriteria yang tepat dalam pemilihan pemasok dan
+menguji bobot dan prioritas kriteria yang relevan.
+Selain itu juga penelitian ini didasarkan pada suatu
+asumsi bahwa cenderung terjadi perbedaan kepentingan
+antara strata jabatan yang berbeda dalam
+mempertimbangkan kriteria yang lebih diprioritaskan
+dalam pemilihan pemasok. Selanjutnya hasil
+penelitian ini digunakan sebagai dasar pertimbangan
+atau masukan bagi perusahaan untuk menentukan
+kebijakan strategis rantai pasok khususnya
+dalam dalam hal pemilihan pemasok.
+Metode Penelitian
+Penelitian ini ditujukan untuk memunculkan
+sejumlah kriteria dalam pemilihan pemasok dan
+menguji apakah terdapat perbedaan kepentingan
+terhadap prioritas kriteria dimaksud dari strata jabatan
+yang berbeda. Tahap pertama adalah mengidentifikasi
+kriteria yang digunakan dalam pemilihan
+pemasok sesuai dengan tujuan perusahaan.
+Tahap ini dilakukan melalui brainstorming bersifat
+terbuka sehingga dapat menambahkan kriteria
+yang dinggap penting bagi Lunar Cipta Kreasi.
+Kriteria setiap perusahaan akan berbeda dan
+tergantung pada strategi rantai pasok yang diterapkan
+(Wang et al. [17]). Celebi [4] dalam penelitiannya
+menggunakan faktor kualitatif dan kuantitatif
+yang ditentukan dari literatur dan keahlian manajer
+perusahaan sebagai pengambil keputusan.
+Tahap kedua adalah menentukan hubungan ketergantungan
+antar kriteria yang dibantu dengan penyebaran
+kuesioner. Hubungan mempengaruhi
+antar kriteria digambarkan dengan anak panah
+(Chung et al. [7]). Interdepensi antar dua kriteria disebut
+outer dependence yang digambarkan oleh garis
+dengan dua anak panah sedangkan inner dependence
+digambarkan dengan loop (Sarkins [28] yang
+dikutip dari Chung et al. [6]). Dari hubungan ini
+dapat digunakan untuk membuat model jaringan
+untuk analisis kriteria dalam pemilihan pemasok.
+Tahap ketiga adalah menentukan responden untuk
+melakukan perbandingan berpasangan antar kriteria
+yang mempunyai tanggung jawab mengenai
+keputusan pemilihan pemasok. Penilaian perbandingan berpasangan antar kriteria dibantu
+dengan penyebaran kuesioner. Menurut (Celebi [4])
+perbandingan berpasangan dinilai oleh karyawan
+dan manajer yang berwenang dalam pengambilan
+keputusan. Pendapat dari berbagai pihak yang berkepentingan
+terhadap hubungan dengan pemasok
+tersebut diuji konsistensinya satu per satu. Selanjutnya
+dari penilaian responden direkapitulasi dengan
+rerata geometrik.
+Responden yang dimaksud dalam penelitian ini
+adalah pihak produksi yaitu research and development,
+quality control, kepala produksi, dan manajer
+produksi natural bags. Pihak research and development
+bertugas dalam dalam mendesain model body
+tas dan memilih pemasok. Pihak quality control
+melakukan inspeksi body natural bags sebelum dikirim
+ke perusahaan. Pihak kepala produksi mengawasi
+jalannya proses produksi natural bags. Pihak
+manajer produksi natural bags menentukan spesifikasi
+natural bags dan menyetujui desain dari bagian
+research and development.
+Dalam menguji perbedaan hasil pembobotan kriteria
+maka dilakukan penilaian kedua yang dilakukan
+oleh pihak manajemen (direktur operasional) yang
+mempunyai tanggung jawab terhadap keseluruhan
+produksi di perusahaan. Hubungan antar para
+pengambil keputusan dapat ditunjukkan pada bagan
+struktur organisasi (lihat Gambar 1).
+Dalam Analytical Network Process (ANP), responden
+melakukan perbandingan berpasangan dari elemen
+yang mempunyai hubungan ketergantungan berdasarkan
+kriteria kontrolnya. Skala penilaian 1-9, nilai
+1 berarti kedua kriteria sama penting sedangkan
+nilai 9 berarti mendominasi seluruh kriteria
+(Jharkharia dan Shankar [11]). Perbandingan invers
+ditunjukkan dengan nilai resiprokal, jika aij = 1/ aij. -
+Hal yang terpenting dalam metode Analytical Network
+Process (ANP) adalah menghitung bobot
+prioritas. Bobot prioritas adalah suatu bilangan
+desimal di bawah satu dengan total prioritas untuk
+kriteria dalam satu kelompok sama dengan 1. Cara
+yang paling akurat dalam penghitungan bobot prioritas untuk matriks perbandingan yaitu dengan
+operasi matematis berdasarkan operasi matriks dan
+vektor yang dikenal dengan nama eigen vector.
+A . w =  maks. w (1)
+dimana A adalah matriks perbandingan berpasangan,
+w adalah eigen vektor, maks adalah eigen value
+terbesar dari A (Chung et al. [6]).
+Tahap keempat adalah mengolah data kuesioner
+perbandingan berpasangan. Untuk membantu proses
+perhitungan digunakan perangkat lunak super
+decisions. Hasil tahap keempat menghasilkan bobot
+lokal dan bobot global untuk melihat seberapa besar
+pengaruh kriteria yang digunakan terhadap pemilihan
+pemasok.
+ANP merupakan metode terbaru dari pengambilan
+keputusan multi kriteria yang mampu menjelaskan
+interaksi secara sistematis terutama permasalahan
+dalam strategi rantai pasok. Selain itu ANP dapat
+digunakan tidak hanya dalam mengatasi inner
+dependences dalam kriteria namun juga dapat memberikan
+jalan untuk memperoleh banyak informasi
+bagi pengambil keputusan. Jadi metode ini dapat
+memberikan pandangan bagi perusahaan untuk
+mengevaluasi dan menentukan pemilihan pemasok
+yang tepat (Lang [12]).
+Penelitian penunjang yang dijadikan dasar penentuan
+kriteria adalah Dewayana dan Budi [7] menggunakan
+kriteria harga, potongan harga, ketepatan
+waktu, reabilitas barang, kualitas barang, kualitas
+penyerahan barang, cara pembayaran, tenggang
+waktu pembayaran, komunikasi, dokumentasi, responsif.
+Hapsari dan Suparno [10] menggunakan kriteria
+kualitas, waktu pengiriman, jumlah pengiriman,
+packaging, garansi dan layanan pengaduan,
+prosedur komplain, responsif, sistem komunikasi,
+harga, frekuensi pengiriman, kapasitas produksi,
+pembayaran, struktur organisasi, finansial, dan
+history. Yoserizal dan Moses [19] menggunakan kriteria
+kualitas, waktu pengiriman, jumlah pengiriman,
+packaging, keringanan waktu pembayaran, sistem
+komunikasi, prosedur complain, responsif, garansi dan layanan pengaduan, informasi teknis,
+harga, diskon, green product, dan green process.
+Kriteria dari ketiga penelitian tersebut dimodifikasi
+sesuai dengan keadaan dan tujuan melalui diskusi
+dengan pihak perusahaan. Kriteria pemilihan
+pemasok Lunar Cipta Kreasi disajikan pada Tabel 1.
+
+
+Hasil dan Pembahasan
+Pengumpulan Data
+Dalam proses ANP, dilakukan penyebaran kuesioner
+untuk menentukan hubungan ketergantungan
+antar kriteria yang dinilai oleh responden dari pihak
+produksi dan pihak manajemen. Hasil kuesioner
+digunakan untuk menggambarkan hubungan antar
+kriteria sebagaimana disajikan dalam Tabel 2 dan
+Tabel 3.
+Pada Tabel 2 penilaian dilakukan oleh pihak
+produksi dimana terdapat 4 jumlah responden yaitu
+dari bagian research and development, quality
+control, kepala produksi natural bags, dan kepala
+bagian divisi natural bags, sehingga jika dalam
+suatu sel, jumlah responden yang memilih (Vij) lebih
+dari atau sama dengan Q (N/2 = 2), maka disimpulkan
+ada hubungan saling ketergantungan antar
+kriteria (Wibowo [18]). Sebagai contoh pada sel HKK,
+nilai Vij = 4 berarti ada pengaruh dari (H)
+terhadap (KK).
+Pada Tabel 3 penilaian dilakukan oleh pihak
+manajemen dimana hanya terdapat satu responden
+yaitu pihak manajemen. Simbol centang (√) menunjukkan
+bahwa kedua kriteria mempunyai hubungan
+mempengaruhi sedangkan simbol silang (X) menunjukkan
+tidak ada hubungan antara kedua kriteria.
+Pengolahan Data
+Hubungan ketergantungan antar kriteria digunakan
+untuk membuat model jaringan (network) antar
+kriteria sebagai dasar pemilihan pemasok yang
+tersaji pada Gambar 2. Gambar tersebut menunjukkan
+keterkaitan kriteria dalam kluster (inner dependence)
+dan antar kluster (outer dependence). Keterkaitan
+antar kriteria tersebut digunakan untuk
+menyusun kuesioner perbandingan berpasangan
+antar kriteria dan kluster. Hasil perbandingan berpasangan
+yang telah diuji dengan rataan geometrik
+digunakan sebagai masukan ke perangkat lunak
+Super Decisions.
+Keluaran dari perangkat lunak Super Decisions
+yang berupa kolom limiting digunakan untuk menunjukkan
+bobot global. Bobot lokal kriteria
+diperoleh dari hasil prioritas akhir pada kolom
+normalized by cluster. Dari bobot global ini dapat
+dihitung bobot lokal kluster dengan cara membagi
+nilai bobot global dengan bobot lokal kriteria. Hasil
+perhitungan bobot lokal dan bobot global dapat
+dilihat pada Tabel 4 untuk penilaian bagian produksi
+dan Tabel 6 untuk penilaian pihak manajemen.
+Bobot kriteria pemilihan pemasok pada dasarnya
+menunjukkan urutan prioritas atau pengaruh kriteria
+dalam pemilihan pemasok. Semakin besar bobot
+suatu kriteria maka semakin tinggi prioritas atau
+semakin besar pengaruh kriteria tersebut dalam
+proses pemilihan pemasok, dan sebaliknya.
+Strategi rantai pasok digunakan sebagai perencanaan
+dan pengendalian aliran material atau informasi
+dan aktivitas logistik secara internal dan eksternal.
+Proses pengadaan, operasi, dan kegiatan lain
+harus terintegrasi dalam rantai pasok dan strategi
+yang diterapkan mampu mendukung sistem manajemen untuk membantu perkembangan hubungan
+jangka panjang, membangun komitmen, kepercayaan,
+komunikasi, kerjasama antara perusahaan dan
+pemasok (Lang et al. [12]).
+Penting bagi perusahaan untuk melakukan pemilihan
+pemasok secara efektif agar dapat mengurangi
+biaya produksi secara signifikan. Seperti halnya
+Lunar Cipta Kreasi, dalam melakukan pemilihan
+pemasok juga berorientasi pada pentingnya kelangsungan
+hubungan dan konsistensi menjaga produktivitas
+dan mutu produknya. Dalam hal ini perusahaan
+juga harus bekerja sama dengan pemasok
+agar mampu meningkatkan kepuasaan bagi pelanggan
+(Lin [13]). Dapat dikatakan pemilihan pemasok
+merupakan keputusan strategis bagi perusahaan
+untuk terus mengembangkan usahanya sebagaimana
+bagi Lunar Cipta Kreasi. Dalam hal ini perlu
+bagi Lunar Cipta Kreasi untuk menyusun strategi
+rantai pasoknya dengan menekankan kepada
+kriteria kinerja, kualitas, ketepatan pengiriman dan
+sistem komunikasi yang digunakan.
+
+
+Berdasarkan hasil observasi diketahui bahwa
+pemilihan pemasok oleh Lunar Cipta Kreasi masih
+mengacu pada aspek kualitas sesuai dengan spesifikasi.
+Pengambilan keputusan seperti ini menimbulkan
+masalah dalam hal ketidaktepatan waktu
+pengiriman, spesifikasi bahan baku tidak sesuai
+dengan kesepakatan, ketidakprofesionalan dalam
+menjalankan kerjasama dan lain-lain. Oleh karena
+itu dilakukan penelitian ini untuk mengurangi
+kesalahan dalam pemilihan pemasok yang nantinya
+akan berakibat pada proses produksi perusahaan.
+Menurut pihak produksi Lunar Cipta Kreasi,
+kriteria-kriteria yang dianggap penting dalam pemilihan
+pemasok adalah kinerja masa lalu, harga,
+sistem komunikasi, dan keprofesionalan pemasok.
+Kriteria-kriteria tersebut menyumbang bobot yang
+paling besar (pada Tabel 5). Menurut pihak
+manajemen kriteria yang dianggap penting adalah
+waktu pengiriman, kualitas konsisten, harga, dan
+jumlah pengiriman (pada Tabel 7).
+Kondisi ini menunjukkan bahwa terjadi perbedaan
+sudut pandang dalam kriteria yang digunakan
+untuk pemilihan pemasok. Spesifikasi material yang
+awalnya dianggap penting bagi perusahaan ternyata
+memberikan bobot terkecil. Hal ini menunjukkan
+bahwa kriteria yang digunakan selama ini sudah
+tidak relevan lagi. Kriteria untuk pemilihan
+pemasok pun perlu disesuaikan lagi.
+Berdasarkan Tabel 6 dan Tabel 7 juga menunjukkan
+bahwa kriteria harga masih menjadi prioritas dalam
+pemilihan pemasok baik menurut pihak produksi
+maupun pihak manajemen. Namun pihak produksi
+lebih menekankan kriteria kinerja masa lalu sebagai
+kriteria terpenting. Kinerja masa lalu ini terkait
+dengan catatan penting hubungan yang terjadi
+antara pemasok dan perusahaan. Pihak manajemen
+menganggap waktu pengiriman adalah kriteria terpenting
+dalam pemilihan pemasok.
+Dalam mengkaji dua sudut pandang yang berbeda
+tersebut diperlukan pendekatan dari sisi kepentingan
+perusahaan untuk jangka pendek maupun jangka
+panjangnya. Pemahaman ini dapat dijelaskan
+melalui jaringan pada Gambar 2. Sebagimana
+terlihat bahwa kluster hubungan pemasok dipengaruhi
+oleh kluster kualitas. Artinya bagi bagian produksi
+sesaat setelah menentukan macam atau tingkat
+kualitas yang diinginkan (sesuai spesifikasi)
+maka tentunya akan menentukan hubungan yang
+dapat berlanjut dengan referensi salah satunya
+ialah kinerja masa lalu. Kluster hubungan pemasok
+juga berpengaruh terhadap kluster ketepatan
+dengan kriteria waktu dan jumlah atau kuantitas
+yang dikirim. Nampak bahwa asumsi ini memiliki
+latar belakang akan kepentingan bagian produksi
+dalan jangka pendek agar dapat memenuhi target
+order.
+Di sisi lain pihak manajemen memandang waktu
+pengiriman sebagai prioritas pertama. Hal ini terkait
+dengan pemahaman bahwa dengan pengiriman
+yang tepat waktu maka akan menjamin kelancaran
+lintasan produksi sehingga jadwal pengiriman dapat
+segera ditetapkan. Dalam hal ini jelas bahwa pihak
+manajemen lebih mengutamakan kepentingan jangka
+panjang yaitu agar diperoleh kepercayaan dan
+loyalitas dari pelanggan.
+Dua cara pandang yang berbeda tersebut memerlukan
+perlakuan yang seimbang sehingga dapat ditekankan
+arti penting penyelarasan persepsi agar perencanaan
+rantai pasok Lunar Cipta Kreasi dapat
+mempertimbangkan aspek kelancaran lintasan produksi
+dan tercapainya kepuasan pelanggan atas
+dasar ketepatan waktu pengirimannya. Hal ini dapat
+diatasi dengan melibatkan pemasok dalam akses
+pasar yang dilayani oleh Lunar Cipta Kreasi.
+Harapan bahwa aktivitas rantai pasoknya dapat
+memberikan keberhasilan untuk memenuhi dua
+prioritas yang berbeda tersebut dapat tercapai.
+Hasil penentuan prioritas kriteria ini dapat digunakan
+bagi Lunar Cipta Kreasi sebagai dasar pemilihan
+pemasok. Pemilihan pemasok yang sesuai
+dengan kriteria yang diinginkan oleh perusahaan
+akan membuka peluang kemitraan jangka panjang.
+Kemitraan jangka panjang dapat menjaga komitmen
+antar kedua belah pihak sehingga dapat menjamin
+aliran material dengan spesifikasi material
+yang sesuai baik dalam tingkat kualitas, waktu dan
+jumlah pengirimannya. Risiko pun dapat diminimalisir
+sehingga memperlancar arus produksi dan
+mengurangi biaya produksi perusahaan.
+Simpulan
+Penting bagi perusahaan yang menjadi obyek
+penelitian di sini untuk melakukan evaluasi terhadap
+kriteria yang berpengaruh dalam pemilihan pemasok. Dalam hal ini perlu penyelasaran cara
+pandang terhadap kriteria dimaksud dari dua strata
+jabatan yang berbeda yang juga mewakili tingkat
+kepentingan yang berbeda. Kriteria yang selama ini
+digunakan dapat disimpulkan sudah tidak relevan
+lagi karena kriteria tersebut tidak memberikan kehandalan
+dalam kontinuitasnya. Oleh karena itu,
+pemilihan pemasok berdasarkan kriteria yang tepat
+yang sesuai dengan kebutuhan dalam kepentingan
+jangka waktunya, serta efektif ialah akan berpengaruh
+secara gradual dalam mengurangi biaya produksi,
+meningkatkan produktifitas dan kepuasan
+konsumen.

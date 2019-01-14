@@ -1,0 +1,191 @@
+﻿EVALUASI STATUS VIRULENSI ISOLAT Bacillus anthracis ASAL
+NUSA TENGGARA DAN PAPUA MENGGUNAKAN METODE POLYMERASE CHAIN REACTION MULTIPLEX
+
+ABSTRAK Penelitian ini bertujuan mengevaluasi status virulensi 22 isolat Bacillus anthracis (B. anthracis) asal Nusa Tenggara dan Papua menggunakan metode polymerase chain reaction (PCR) multiplex dengan dua pasang primer nukleotida yang memiliki target amplifikasi gen spesifik pada kedua plasmid. Ektraksi DNA dilakukan dengan metode lisis panas. Pasangan primer PA5 dan PA8 digunakan untuk mengamplifikasi gen pagA pada pXO1, sedangkan pasangan primer 1234 F dan 1301 R mengamplifikasi gen capABC pada pXO2. Hasil reaksi PCR menghasilkan dua pita DNA berukuran sekitar 600 dan 800 bp pada 20 isolat. Namun, dua isolat lain, masing-masing hanya memiliki salah satu dari kedua ukuran pita DNA tersebut. Sebagian besar koleksi isolat asal Nusa Tenggara dan Papua (91%) masih memiliki kedua plasmid secara lengkap (pXO1+/2+) dan karena itu bersifat virulen, sedangkan dua isolat lain (9%) telah kehilangan salah satu plasmid virulennya sehingga bersifat avirulen. Disimpulkan bahwa PCR multiplex dengan dua pasang primer dengan target amplifikasi pada plasmid dapat digunakan untuk evaluasi status virulensi isolat B. anthracis. ____________________________________________________________________________________________________________________ Kata kunci: Bacillus anthracis, plasmid, PCR multiplex, virulensi
+
+PENDAHULUAN
+Antraks adalah penyakit bakteri yang menyerang herbivora dan mamalia lainnya, termasuk manusia. Bakteri penyebab antraks adalah Bacillus anthracis (B. anthracis), bersifat Gram positif, berbentuk batang, nonmotil, dan membentuk spora (WHO, 2008a). Virulensi sebagian besar strain B. anthracis dihubungkan dengan dua megaplasmid yaitu pXO1 dan pXO2, masing-masing berukuran 181.677 dan 94.830 bp (Ravel et al., 2009). Kehilangan salah satu plasmid ini menyebabkan strain berubah menjadi avirulen atau mengalami atenuasi secara nyata (WHO, 2008a). Plasmid pXO1 diperlukan untuk sintesis tiga protein toksin antraks yaitu edema factor (EF), lethal factor (LF), dan protective antigen (PA). Ketiga protein tersebut bekerja dalam kombinasi biner untuk menghasilkan dua toksin antraks yaitu toksin edema yang merupakan kombinasi PA dan EF; dan toksin letal sebagai kombinasi PA dan LF (Young dan Collier, 2007; Koehler, 2009). Plasmid pXO2 membawa gen yang diperlukan untuk sintesis asam poly-D-glutamic, komponen utama kapsula yang berfungsi sebagai antifagositosis (Koehler, 2009). Wilayah Nusa Tenggara, kecuali Bali, hingga kini masih merupakan daerah endemis antraks sedangkan Papua pernah mengalami kasus antraks pada babi di Kabupaten Paniai pada 1983 tetapi sudah dinyatakan bebas sejak 2003. Wabah antraks di NTB tercatat pertama kali di Pulau Sumbawa pada 1917, di NTT terjadi pertama kali di Rote pada 1887 (Akoso, 2009; Putra, 2011). Meski upaya-upaya pengendalian telah dilaksanakan, kasus antraks di Sumbawa, Sumba, dan Flores masih sering terjadi bahkan cenderung berulang hampir setiap tahun (Djohar, 2010; Putra, 2011). Di samping kajian epidemiologis, kajian-kajian bakteriologis, khususnya menyangkut virulensi B. anthracis yang sering menyerang di daerah ini perlu dilakukan agar dapat digunakan dalam perbaikan strategi pengendalian penyakit antraks.
+Konfirmasi keberadaan kedua plasmid virulen B. anthracis merupakan prosedur standar dalam diagnosis terhadap dugaan antraks (WHO, 1998; Inoue et al., 2004). Di masa lalu, upaya konfirmasi ini dilakukan dengan menginokulasi hewan coba yang rentan seperti mencit atau marmut dan diamati gejala sakit atau mati hewan tersebut minimal selama 24 jam (WHO, 2008a). Namun seiring dengan menguatnya isu-isu kesejahteraan hewan dan risiko propagasi agen infeksius secara berlebihan sehingga berpeluang mencemari lingkungan maka penggunaan hewan coba dalam uji-uji patogenisitas tersebut sudah mulai dihindari dan digantikan dengan metode lain yang lebih ramah lingkungan. Metode molekuler berupa polymerase chain reaction (PCR) selain tidak merusak lingkungan, juga memberikan hasil konfirmasi yang jauh lebih cepat dan tepat dibandingkan uji-uji konvensional.
+Metode PCR multiplex merupakan varian PCR yang memanfaatkan lebih dari satu pasang primer untuk mengamplifikasi beberapa target sequence sekaligus dalam satu reaksi (Elnifro et al., 2000). Hal ini dimaksudkan untuk meningkatkan sensitivitas dan spesifitas PCR dibandingkan bila hanya menggunakan satu pasang primer sebagaimana pada PCR standar (PCR uniplex). Metode PCR multiplex untuk diagnosis antraks sudah dikembangkan, antara lain yang memanfaatkan 3 pasang primer (Ko et al., 2003), 5 pasang primer (Ramisse, 1996) dan 8 pasang primer (Kumar et al., 2012) dengan target amplifikasi gen pada kedua plasmid (pXO1 dan pXO2), dan kromosom. Namun penggunaan primer yang terlalu banyak ini kurang efisien jika hanya digunakan untuk mengonfirmasi virulensi isolat B. anthracis, tetapi sering ditemui kesulitan secara teknis berupa terjadinya primer dimer sehingga produk target tidak teramplifikasi secara sempurna (Elnifro et al., 2000). Pembacaan profil DNA hasil amplifikasi sequence dengan multiprimer juga menjadi sulit karena sering ditemukan pita DNA yang tumpang-tindih (Ramisse et al., 1996). Penelitian ini bertujuan mengetahui status virulensi dari isolat-isolat B. anthracis yang berhubungan dengan kasus antraks di Nusa Tenggara dan Papua dalam rentang waktu isolasi tahun 1996-2012 menggunakan metode PCR multiplex yang memanfaatkan dua pasang primer nukleotida. Upaya konfirmasi ini penting mengingat beberapa isolat dalam koleksi tersebut belum dikarakterisasi secara molekuler sejak diisolasi. MATERI DAN METODE
+Isolat Bacillus anthracis
+Dua puluh dua isolat B. anthracis digunakan dalam penelitian ini yang terdiri atas 20 isolat koleksi Balai Besar Penelitian Veteriner, Bogor, dan 2 isolat hasil isolasi kasus lapang (Tabel 1). Konfirmasi fenotipe terhadap B. anthracis dilakukan melalui uji-uji karakteristik koloni dan sifat hemolitik pada tripticase soy agar (TSA) mengandung 5% darah domba, pertumbuhan pada kaldu alkalis, serta pewarnaan Gram, spora, dan kapsula. Untuk pengujian kapsula, koloni bakteri ditumbuhkan pada media TSA dengan natrium bikarbonat 0,8% dan diinkubasi pada CO2 5%. Seluruh prosedur pengujian ini mengacu pada panduan WHO (2008a) dan dilakukan di ruangan biosafety level (BSL 2 plus), Laboratorium Antraks, Balitvet, Bogor.
+Ekstraksi DNA
+Deoxyribonucleic acid (DNA) dari setiap isolat B. anthracis diekstraksi dengan metode lisis panas (Keim et al., 2000; Hoffmaster et al., 2002). Kuman B. anthracis ditumbuhkan pada media nutrien agar atau agar darah, diinkubasikan 16-18 jam, diambil satu ose penuh (loop full) dan dilarutkan ke dalam 250-500 μl nuclease free water kemudian diaduk dengan vortex sampai homogen. Suspensi tersebut dipanaskan pada suhu 100° C selama 10 menit, selanjutnya disentrifugasi selama 2 menit dengan kecepatan 12.000-14.000 rpm. Supernatan yang diperoleh digunakan sebagai template DNA. Proses sentrifugasi dikerjakan di dalam kabinet pengaman hayati BSL2 untuk mencegah kemungkinan penyebaran aerosol. Supernatan yang diperoleh ditransfer ke dalam tabung mikrosentrifus baru dan disimpan pada suhu -20° C hingga digunakan. Polymerase Chain Reaction Multiplex Dua pasang primer dengan target masing-masing pada pXO1 dan pXO2 digunakan dalam teknik PCR multiplex ini. Kedua pasang primer tersebut adalah pasangan PA5/PA8 dan 1234F/1301R (Tabel 2) merupakan primer rujukan WHO untuk mengonfirmasi keberadaan plasmid pXO1 dan pXO2 (WHO, 1998; Inoue et al., 2004). Primer-primer tersebut disintesis oleh 1st BASE FBCO, Singapore.
+Metode amplifikasi PCR merujuk pada prosedur yang digambarkan WHO (1998) dengan modifikasi seperlunya. Reaksi PCR dilangsungkan di dalam tabung PCR volume 50 μl per reaksi. Komposisi kit PCR (Invitrogen), primer, dan template sebagai berikut: 5 μl PCR buffer 10x; 1,5 μl MgCl2 (50 mM); 1 μl dNTP mix (10 mM); 1 μl primer (10 pM) masing-masing; 0,25 μl Tag DNA polimerase; 33,25 μl nuclease free water; dan 5 μl DNA template. Parameter reaksi PCR yang digunakan adalah denaturasi awal pada 94° C selama 2 menit; 35 siklus amplifikasi yang terdiri atas denaturasi pada 94° C selama 1 menit, annealing pada 55° C selama 1 menit, dan ekstensi pada 72° C selama 1 menit; serta ekstensi akhir pada suhu 72° C selama 7 menit. Produk PCR yang terbentuk dievaluasi dengan melakukan elektroforesis. Sepuluh mikroliter produk PCR dicampur dengan 2 μl loading dye dan selanjutnya dielektroforesis pada gel agarose 1,5% (1,5 g agarose dalam 100 ml TAE buffer) yang ditambahkan etidium bromide 0,5 μg/ml bersama 100-bp ladder (Invitrogen) sebagai marker. Elektroforesis dilakukan pada tegangan 120 V selama 50 menit. Visualisasi DNA menggunakan transluminator ultraviolet (UV) dan hasilnya didokumentasikan dengan kamera digital Canon EOS 550D.
+HASIL DAN PEMBAHASAN
+Karakter Fenotipe B. anthracis
+Gambaran karakter fenotipe yang diamati pada semua isolat uji, kecuali respons terhadap pewarnaan kapsula dan pertumbuhan mada media bikarbonat relatif sama antara isolat satu dengan yang lain dan sesuai dengan yang digambarkan dalam WHO (2008b). Koloni B. anthracis yang tumbuh pada media agar darah berdiameter 2-3 mm, nonhemolitik, berwarna putih keabu-abuan dengan tepi yang tidak rata karena adanya penjuluruan-penjuluran halus. Pada pewarnaan Gram, bakteri berbentuk batang dengan sudut yang jelas, membentuk rantai, dan bersifat Gram positif. Pada pewarnaan dengan metode Ziehl-Neelsen spora berwarna merah, sedangkan sel vegetatif biru.
+
+
+Pertumbuhan kultur pada nutrient broth menunjukkan kekeruhan menyerupai benang kapas terutama di bagian dasar dan tengah tabung. Pada media agar bikarbonat, semua koloni tampak mukoid kecuali koloni isolat nomor 18. Pada pewarnaan kapsula dengan polychrome methylene blue, terbentuk materi berwarna pink mengitari bacilli yang hitam kebiruan. Kapsula ditemukan pada hampir semua isolat, kecuali isolat nomor 18. Hasil pewarnaan ini memperkuat temuan tentang tekstur koloni yang kasar pada media bikarbonat sebelumnya sebagai indikasi absennya kapsula dan plasmid pXO2 pada isolat tersebut (WHO, 2008a). Meski secara fenotipe telah terbukti, isolat yang terindikasi kehilangan pXO2 ini tetap diikutkan dalam uji PCR multiplex untuk konfirmasi secara molekuler.
+
+PCR Multiplex Keberadaan plasmid pXO1 dan pXO2 pada isolat-isolat uji disajikan pada Gambar 1. Hasil visualisasi menunjukkan bahwa kedua pasang primer yang digunakan serta parameter reaksi PCR multiplex yang diprogramkan sudah tepat sehingga mampu mengamplifikasi target-target sequence yang diinginkan. Dua pita DNA berukuran masing-masing sekitar 600 dan 850-bp ditemukan pada hampir semua isolat uji kecuali pada dua isolat uji asal Nusa Tenggara Barat (NTB). Pada lajur 9 dan 20 terlihat hanya satu pita, yang mengindikasikan kedua isolat tersebut telah kehilangan salah satu dari dua plasmid virulennya. Isolat 02/727 asal NTB yang diisolasi di tahun 2002 kehilangan plasmid pXO1, sedangkan isolat 12/010 asal NTB yang diisolasi pada tahun 2010 kehilangan plasmid pXO2. Penelitian ini juga berhasil mengonfirmasi status virulensi dua isolat lapang baru (isolat nomor 20 dan 21), yang diisolasi dari sampel tanah di sekitar kerbau yang mati dengan dugaan antraks di Kecamatan Kota Baru, Ende, NTT pada Juni 2012. 
+
+Strain virulen B. anthracis dicirikan oleh adanya dua plasmid virulen yaitu pXO1 dan pXO2 (WHO, 2008a). Strain yang kehilangan salah satu dari dua plasmid tersebut umumnya bersifat avirulen dan biasanya merupakan strain vaksin. Strain-strain vaksin tersebut adalah B. anthracis strain tipe Sterne yang kehilangan pXO2, dan strain tipe Pasteur yang kehilangan pXO2 (Koehler, 2009). Di samping strain-strain vaksin yang avirulen tersebut, beberapa peneliti telah mengamati strain-strain lapang virulen yang berubah menjadi avirulen karena kehilangan salah satu atau bahkan kedua plasmidnya. Antwerpen et al. (2011) menguji 40 isolat dan menemukan 27 isolat kehilangan kedua plasmid virulen (pXO1-/pXO2-); 4 isolat kehilangan salah satu plasmid 4 isolat (pXO2+), sementara hanya 9 isolat yang masih memiliki kedua plasmid lengkap (pXO1+/pXO2+). Fenomena hilangnya plasmid virulensi pada sejumlah koleksi isolat lapang juga dilaporkan oleh Marston et al. (2005) dan Jula et al. (2011).
+Seluruh isolat dalam penelitian ini, termasuk kedua isolat yang kehilangan plasmid tersebut, adalah isolat yang dikultur dan diisolasi langsung dari kasus antraks klinis di lapangan. Menarik untuk dicermati bahwa ada 2 isolat (isolat nomor 18 dan 19) berasal dari kasus yang sama namun hanya isolat nomor 18 yang kehilangan plasmid pXO2. Hal ini mengindikasikan bahwa faktor eksternal memicu hilangnya plasmid tersebut. Faktor eksternal penyebab hilangnya plasmid virulen pada dua isolat dalam penelitian ini tidak dapat dijelaskan dengan pasti. Namun demikian, faktor lama penyimpanan dan pasase berulang sering dijadikan alasan hilangnya plasmid isolat B. anthracis (Marston et al., 2005; Antwerpen et al., 2011). Di samping itu, dibuktikan bahwa penyimpanan isolat B. anthracis pada media kultur biasa, lebih rentan mengalami kehilangan plasmid dibandingkan penyimpanan secara liofilisasi (Marston et al., 2005). Faktor usia isolat mungkin menjadi alasan tingginya proporsi isolat yang mengalami kehilangan plasmid pada peneltian Antwerpen et al. (2011) yaitu 31/40 atau 77,5% dibandingkan pada peneltian ini sebesar 2/22 atau 1%. Isolat-isolat dalam penelitian ini usia penyimpanannya rata-rata masih kurang dari 10 tahun. Kehilangan plasmid dan virulensi ini diduga bersifat tidak dapat balik (irreversible) atau sebaliknya, sehingga perlu diteliti dengan inokulasi isolat mutan pada hewan coba yang peka dan kemudian dikonfirmasi secara fenotipe dan molekuler. Konfirmasi molekuler tidak saja berkaitan dengan keberadaan pita plasmid pXO1 dan pXO2 tetapi juga dilakukan sequencing untuk memastikan sequence nukleotida gen target pada kedua plasmid tersebut. 
+
+KESIMPULAN
+Aplikasi PCR multiplex dengan memanfaatkan primer yang memiliki target pada gen dalam plasmid pXO1 dan pXO2 dapat mengonfirmasi status virulensi isolat-isolat Bacillus anthracis. Sebagian besar koleksi isolat asal Nusa Tenggara dan Papua (91%) masih memiliki kedua plasmid secara lengkap (pXO1+/2+) dan karena itu bersifat virulen, sedangkan dua isolat lain (9%) telah kehilangan salah satu plasmid virulennya sehingga bersifat avirulen.
+
+
+Tabel 2. Urutan nukleotida primer yang digunakan untuk mengamplifikasi gen pada pXO1 dan pXO2
+Target gen
+Primer*
+Sekuens primer (5ʹ-3ʹ)
+Ukuran amplikon (bp)
+pagA
+PA 5
+PA 8
+TCCTAACACTAACGAAGTCG
+GAGGTAGAAGGATATACGGT
+596
+Cap
+1234F
+1301R
+CTGAGCCATTAATCGATATG
+TCCCACTTACGTAATCTGAG
+846
+*WHO (1998)
+Gambar 1. Hasil amplifikasi gen pagA dan cap dengan metode PCR multiplex memperlihatkan dua pita DNA masing berukuran sekitar 600 dan 850 bp yang mengonfirmasi adanya plasmid pXO2 dan pXO1 (Lajur 2 - 11, dan 13 - 24 adalah isolat-isolat yang diuji; Lajur 25 adalah kontrol positif; Lajur 26 adalah kontrol negatif; Lajur 1, 12, dan 27 adalah Marker DNA ladder 100-bp).
+
+
+Tabel 1. Isolat Bacillus anthracis yang digunakan dan hasil uji keberadaan plasmidnya*
+No
+Kode Isolat
+Sumber
+Asal/Daerah
+Tahun Isolasi
+Status Plasmid
+1.
+BCC 2494
+Tulang
+NTT
+2004
+pXO1+/2+
+2.
+03/231
+Tanah
+NTB
+2003
+pXO1+/2+
+3.
+Kupang
+-
+-
+-
+pXO1+/2+
+4.
+01/351
+Tanduk dan tanah
+BPPV Bali
+2001
+pXO1+/2+
+5.
+NTB
+-
+NTB
+-
+pXO1+/2+
+6.
+Sumbawa
+-
+Sumbawa, NTB
+-
+pXO1+/2+
+7.
+BCC2476
+Sapi
+NTT
+1999
+pXO1+/2+
+8.
+02/727
+Sapi
+NTB
+2002
+pXO1-/2+
+9.
+BCC2475
+Tanduk dan tanah
+NTB
+1999
+pXO1+/2+
+10.
+01/352
+Tanah
+NTT
+2001
+pXO1+/2+
+11.
+-
+Babi
+Irian Jaya/Papua
+1983
+pXO1+/2+
+12.
+07/1360
+Tanah bercampur darah domba
+NTB
+2007
+pXO1+/2+
+13.
+07/1360
+Tanah bercampur darah domba
+NTB
+2007
+pXO1+/2+
+14.
+06/052
+Kulit telinga kambing
+NTB
+2006
+pXO1+/2+
+15.
+05/1284
+Kulit dan tanah
+Sumbawa, NTB
+2005
+pXO1+/2+
+16.
+BCC2486
+Kulit telinga sapi
+Raba, Bima, NTB
+2003
+pXO1+/2+
+17.
+BCC2472
+Kuda
+NTT
+1996
+pXO1+/2+
+18.
+12/010
+Tanah
+NTB
+2010
+pXO1+/2+
+19.
+12/010
+Darah kapur
+NTB
+2010
+pXO1+/2-
+20
+Ende1**
+Tanah bercampur darah kerbau
+Ende, NTT
+2012
+pXO1+/2+
+21
+Ende2**
+Tanah bercampur darah kerbau
+Ende, NTT
+2012
+pXO1+/2+
+22.
+Sabu NTT
+Tanah
+Sabu, NTT
+2011
+pXO1+/2+
+*Isolat koleksi Balai Besar Penelitna Veteriner, Bogor; **Isolasi dari sampel dugaan kasus antraks di Ende, NTT; - Data tidak tersedia; pXO1-/2+: isolat kehilangan plasmid pXO1; pXO1+/2-: isolat kehilangan plasmid pXO2.

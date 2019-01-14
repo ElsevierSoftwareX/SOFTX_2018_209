@@ -1,0 +1,1673 @@
+2018/06/17 00:53:58 Running Thrift Server at: 127.0.0.1:43525
+2018/06/17 00:53:59 Running Websocket Server at: 0.0.0.0:40435
+2018/06/17 00:58:39 Service MappingFile_step2: Started
+2018/06/17 00:59:26 http: panic serving 182.1.127.4:51836: runtime error: invalid memory address or nil pointer dereference
+goroutine 566 [running]:
+net/http.(*conn).serve.func1(0xc42872d360)
+	/usr/lib/go-1.8/src/net/http/server.go:1721 +0xd0
+panic(0x7676a0, 0x97b920)
+	/usr/lib/go-1.8/src/runtime/panic.go:489 +0x2cf
+main.NewStateManagerHandler.func2.1(0x958ac0, 0xc42004a380, 0xc42000b800)
+	/var/www/ndo/plansys/components/thrift/server/state.go:149 +0x476
+net/http.HandlerFunc.ServeHTTP(0xc4200ab640, 0x958ac0, 0xc42004a380, 0xc42000b800)
+	/usr/lib/go-1.8/src/net/http/server.go:1942 +0x44
+net/http.(*ServeMux).ServeHTTP(0x9856e0, 0x958ac0, 0xc42004a380, 0xc42000b800)
+	/usr/lib/go-1.8/src/net/http/server.go:2238 +0x130
+net/http.serverHandler.ServeHTTP(0xc420084580, 0x958ac0, 0xc42004a380, 0xc42000b800)
+	/usr/lib/go-1.8/src/net/http/server.go:2568 +0x92
+net/http.(*conn).serve(0xc42872d360, 0x958f80, 0xc4200493c0)
+	/usr/lib/go-1.8/src/net/http/server.go:1825 +0x612
+created by net/http.(*Server).Serve
+	/usr/lib/go-1.8/src/net/http/server.go:2668 +0x2ce
+2018/06/17 00:59:42 Service MappingFile_step2: Stopped
+2018/06/17 01:02:02 Service MappingFile: Started
+2018/06/17 01:02:16 Service MappingFile: Stopped
+2018/06/17 01:03:01 Service MappingFile: Started
+2018/06/17 01:03:17 websocket: close 1001 (going away)
+2018/06/17 01:03:44 Service MappingFile: Stopped
+2018/06/17 01:05:06 Service MappingFile: Started
+2018/06/17 01:06:16 websocket: close 1001 (going away)
+2018/06/17 01:06:19 websocket: close 1001 (going away)
+2018/06/17 01:06:22 http: panic serving 182.1.127.4:52445: runtime error: invalid memory address or nil pointer dereference
+goroutine 1162 [running]:
+net/http.(*conn).serve.func1(0xc4289dcd20)
+	/usr/lib/go-1.8/src/net/http/server.go:1721 +0xd0
+panic(0x7676a0, 0x97b920)
+	/usr/lib/go-1.8/src/runtime/panic.go:489 +0x2cf
+main.NewStateManagerHandler.func2.1(0x958ac0, 0xc42004a8c0, 0xc42000bb00)
+	/var/www/ndo/plansys/components/thrift/server/state.go:149 +0x476
+net/http.HandlerFunc.ServeHTTP(0xc4200ab640, 0x958ac0, 0xc42004a8c0, 0xc42000bb00)
+	/usr/lib/go-1.8/src/net/http/server.go:1942 +0x44
+net/http.(*ServeMux).ServeHTTP(0x9856e0, 0x958ac0, 0xc42004a8c0, 0xc42000bb00)
+	/usr/lib/go-1.8/src/net/http/server.go:2238 +0x130
+net/http.serverHandler.ServeHTTP(0xc420084580, 0x958ac0, 0xc42004a8c0, 0xc42000bb00)
+	/usr/lib/go-1.8/src/net/http/server.go:2568 +0x92
+net/http.(*conn).serve(0xc4289dcd20, 0x958f80, 0xc4212041c0)
+	/usr/lib/go-1.8/src/net/http/server.go:1825 +0x612
+created by net/http.(*Server).Serve
+	/usr/lib/go-1.8/src/net/http/server.go:2668 +0x2ce
+2018/06/17 01:09:36 websocket: close 1001 (going away)
+2018/06/17 01:11:48 Service MappingFile_step2: Started
+2018/06/17 01:11:49 Service MappingFile_step2: Stopped
+2018/06/17 01:22:31 websocket: close 1001 (going away)
+2018/06/17 01:26:02 Service MappingFile: Stopped
+2018/06/17 01:31:32 websocket: close 1001 (going away)
+2018/06/17 01:34:56 Service RunKamil: Started
+2018/06/17 01:35:48 Service RunKamil: Stopped
+2018/06/17 01:37:39 Service MappingFile: Started
+2018/06/17 01:37:39 Service MappingFile: Stopped
+2018/06/17 01:37:46 websocket: close 1001 (going away)
+2018/06/17 01:37:50 Service MappingFile: Started
+2018/06/17 01:38:49 Service MappingFile: Stopped
+2018/06/17 01:44:01 Service MappingFile: Started
+2018/06/17 01:44:20 websocket: close 1001 (going away)
+2018/06/17 01:44:36 websocket: close 1001 (going away)
+2018/06/17 01:45:25 Opening: /var/www/html/assets/builder-chat.buntdb
+2018/06/17 01:45:25  Opened: /var/www/html/assets/builder-chat.buntdb
+2018/06/17 02:10:42 read tcp 172.104.33.198:40435->182.1.127.4:52440: read: connection reset by peer
+2018/06/17 02:50:32 read tcp 172.104.33.198:40435->182.1.127.4:54627: read: connection reset by peer
+2018/06/17 02:50:32 CException: Properti "CConsoleApplication.user" tidak didefinisikan. in /var/www/html/plansys/framework/base/CComponent.php:130
+Stack trace:
+#0 /var/www/html/plansys/framework/base/CModule.php(105): CComponent->__get('user')
+#1 /var/www/html/plansys/modules/builder/websockets/CollabWs.php(28): CModule->__get('user')
+#2 /var/www/html/plansys/commands/WsCommand.php(57): CollabWs->disconnected(Array, ''read tcp 172.1...')
+#3 [internal function]: WsCommand->actionDisconnected('builder/collab', '3', 'ekrmhdvgf6osd1t...', '3', ''read tcp 172.1...')
+#4 /var/www/html/plansys/framework/console/CConsoleCommand.php(172): ReflectionMethod->invokeArgs(Object(WsCommand), Array)
+#5 /var/www/html/plansys/framework/console/CConsoleCommandRunner.php(71): CConsoleCommand->run(Array)
+#6 /var/www/html/plansys/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run(Array)
+#7 /var/www/html/plansys/framework/base/CApplication.php(185): CConsoleApplication->processRequest()
+#8 /var/www/html/plansys/framework/yiic.php(33): CApplication->run()
+#9 /var/www/html/plansys/yiic.php(21): require_once('/var/www/html/p...')
+#10 {main}
+2018/06/17 03:21:57 websocket: close 1001 (going away)
+2018/06/17 03:48:21 read tcp 172.104.33.198:40435->61.94.198.21:55270: read: no route to host
+2018/06/17 04:03:56 read tcp 172.104.33.198:40435->61.94.198.21:55248: read: connection timed out
+2018/06/17 04:03:56 CException: Properti "CConsoleApplication.user" tidak didefinisikan. in /var/www/html/plansys/framework/base/CComponent.php:130
+Stack trace:
+#0 /var/www/html/plansys/framework/base/CModule.php(105): CComponent->__get('user')
+#1 /var/www/html/plansys/modules/builder/websockets/CollabWs.php(28): CModule->__get('user')
+#2 /var/www/html/plansys/commands/WsCommand.php(57): CollabWs->disconnected(Array, ''read tcp 172.1...')
+#3 [internal function]: WsCommand->actionDisconnected('builder/collab', '3', 'ekrmhdvgf6osd1t...', '4', ''read tcp 172.1...')
+#4 /var/www/html/plansys/framework/console/CConsoleCommand.php(172): ReflectionMethod->invokeArgs(Object(WsCommand), Array)
+#5 /var/www/html/plansys/framework/console/CConsoleCommandRunner.php(71): CConsoleCommand->run(Array)
+#6 /var/www/html/plansys/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run(Array)
+#7 /var/www/html/plansys/framework/base/CApplication.php(185): CConsoleApplication->processRequest()
+#8 /var/www/html/plansys/framework/yiic.php(33): CApplication->run()
+#9 /var/www/html/plansys/yiic.php(21): require_once('/var/www/html/p...')
+#10 {main}
+2018/06/17 04:39:11 websocket: close 1001 (going away)
+2018/06/17 04:39:11 websocket: close 1001 (going away)
+2018/06/17 04:39:11 CException: Properti "CConsoleApplication.user" tidak didefinisikan. in /var/www/html/plansys/framework/base/CComponent.php:130
+Stack trace:
+#0 /var/www/html/plansys/framework/base/CModule.php(105): CComponent->__get('user')
+#1 /var/www/html/plansys/modules/builder/websockets/CollabWs.php(28): CModule->__get('user')
+#2 /var/www/html/plansys/commands/WsCommand.php(57): CollabWs->disconnected(Array, ''websocket: clo...')
+#3 [internal function]: WsCommand->actionDisconnected('builder/collab', '3', 'ekrmhdvgf6osd1t...', '4', ''websocket: clo...')
+#4 /var/www/html/plansys/framework/console/CConsoleCommand.php(172): ReflectionMethod->invokeArgs(Object(WsCommand), Array)
+#5 /var/www/html/plansys/framework/console/CConsoleCommandRunner.php(71): CConsoleCommand->run(Array)
+#6 /var/www/html/plansys/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run(Array)
+#7 /var/www/html/plansys/framework/base/CApplication.php(185): CConsoleApplication->processRequest()
+#8 /var/www/html/plansys/framework/yiic.php(33): CApplication->run()
+#9 /var/www/html/plansys/yiic.php(21): require_once('/var/www/html/p...')
+#10 {main}
+2018/06/17 13:34:40 websocket: close 1001 (going away)
+2018/06/17 13:35:03 websocket: close 1001 (going away)
+2018/06/17 13:35:15 websocket: close 1001 (going away)
+2018/06/17 13:35:48 error: websocket: close 1006 (abnormal closure): unexpected EOF, user-agent: Mozilla/5.0 (Linux; Android 6.0.1; ASUS_Z008D Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.158 Mobile Safari/537.36 
+2018/06/17 14:20:07 Service MappingFile_step2: Started
+2018/06/17 14:20:26 websocket: close 1001 (going away)
+2018/06/17 14:21:03 websocket: close 1001 (going away)
+2018/06/17 14:59:56 websocket: close 1001 (going away)
+2018/06/17 15:13:51 Service MappingFile_step2: Stopped
+2018/06/17 16:48:47 read tcp 172.104.33.198:40435->61.94.198.21:50220: read: no route to host
+2018/06/17 16:50:42 websocket: close 1001 (going away)
+2018/06/17 23:15:28 Service MappingFile: Stopped
+2018/06/18 03:45:47 websocket: close 1001 (going away)
+2018/06/18 03:45:54 Service MappingFile_step2: Started
+2018/06/18 04:41:37 Service MappingFile_step2: Stopped
+2018/06/18 04:44:00 read tcp 172.104.33.198:40435->61.94.198.21:4165: read: no route to host
+2018/06/18 11:05:28 websocket: close 1001 (going away)
+2018/06/19 04:40:54 websocket: close 1001 (going away)
+2018/06/19 04:50:15 websocket: close 1001 (going away)
+2018/06/19 04:53:46 Service InsertFile: Started
+2018/06/19 04:53:46 InsertFile params: 
+{
+  "data": [
+    {
+      "content": "Jakarta, Kompas.com - Anak- anak kerap mengisi baris kedua kendaraan saat bepergian dengan mobil bersama keluarga. Bagi yang membawa anak kecil di bawah 10 tahun harus biasanya punya aktivitas yang terkadang membuat repot. Menjadi berbahaya ketika luput dari pengawasan orang tua. Hal yang kerap dilakukan adalah membuka jendela dan mengeluarkan anggota tubuh. Bahkan secara tidak sengaja menarik tuas pembuka pintu dari dalam. Keduanya punya efek yang berbahaya jika dibiarkan. [Baca juga : Mudik, Euforia, Mimpi Buruk dan Kali Kenteng] Untuk masalah pertama bisa diatasi dengan mengaktifkan tombol pengunci jendela. Lokasinya ada di bagian dekat tuas atau tombol pengemudi. Solusi untuk persoalan kedua sebenarnya juga cukup mudah jika Anda menyempatkan diri membaca buku panduan.\r\n\r\nTempatnya mudah dijangkau, yaitu di setiap daun pintu baris kedua. Buka pintu belakang (pintu tengah) lalu lihat sudut sebelah kiri. Tuas kunci pengaman anak ditempatkan di bagian tersebut. [Baca juga : Pahami Fitur Overdrive saat Berkendara] Saat tuas pengaman aktif bisa mencegah pintu dibuka dari kabin atau pintu hanya bisa dibuka dari luar. Sebaliknya, jika tuas kuncinya berada di posisi terbuka maka pintu tersebut bisa dibuka dari dalam dan luar. Nah, jika sudah tahu pastikan saat membawa anak-anak apalagi duduk di jok kedua atau ketiga, tuas kunci berada dalam posisi mengunci, agar menghindari hal yang tidak diinginkan",
+      "id": "2309"
+    }
+  ]
+} 
+
+2018/06/19 04:53:54 Service InsertFile: Stopped
+2018/06/19 04:54:05 websocket: close 1001 (going away)
+2018/06/19 06:28:36 read tcp 172.104.33.198:40435->180.247.159.14:27055: read: connection timed out
+2018/06/19 08:48:09 read tcp 172.104.33.198:40435->180.247.159.14:55073: read: connection reset by peer
+2018/06/19 11:47:51 websocket: close 1001 (going away)
+2018/06/19 11:48:05 websocket: close 1001 (going away)
+2018/06/19 12:07:39 websocket: close 1001 (going away)
+2018/06/19 12:09:53 websocket: close 1001 (going away)
+2018/06/19 12:38:48 read tcp 172.104.33.198:40435->180.247.159.14:63271: read: connection reset by peer
+2018/06/19 12:39:19 read tcp 172.104.33.198:40435->180.247.159.14:64926: read: connection reset by peer
+2018/06/19 13:06:35 read tcp 172.104.33.198:40435->180.247.159.14:51225: read: connection reset by peer
+2018/06/19 13:18:24 read tcp 172.104.33.198:40435->180.247.159.14:51268: read: connection reset by peer
+2018/06/19 13:36:41 Service UpdateMappingFileWord: Started
+2018/06/19 13:36:41 UpdateMappingFileWord params: 
+{
+  "fileid": "2309",
+  "isWord": "Y",
+  "tagNew": "nomina",
+  "tagOld": "|n|",
+  "wordNew": "jakartaw",
+  "wordOld": "jakarta"
+} 
+
+2018/06/19 13:36:41 Service UpdateMappingFileWord: Stopped
+2018/06/19 13:37:09 websocket: close 1001 (going away)
+2018/06/19 15:23:49 read tcp 172.104.33.198:40435->180.247.159.14:65117: read: connection timed out
+2018/06/20 00:47:57 read tcp 172.104.33.198:40435->180.247.159.14:54709: read: connection reset by peer
+2018/06/20 09:49:45 Service UpdateMappingFileWord: Started
+2018/06/20 09:49:45 UpdateMappingFileWord params: 
+{
+  "fileid": "2309",
+  "isWord": "Y",
+  "tagNew": "nomina,a",
+  "tagOld": "|n|",
+  "wordNew": "jakarta",
+  "wordOld": "jakarta"
+} 
+
+2018/06/20 09:49:45 Service UpdateMappingFileWord: Stopped
+2018/06/20 09:50:28 Service UpdateWord: Started
+2018/06/20 09:50:28 UpdateWord params: 
+{
+  "fileid": "2309",
+  "isWord": "Y",
+  "tagNew": "nomina,adv",
+  "tagOld": "|n|",
+  "wordNew": "jakarta",
+  "wordOld": "jakarta"
+} 
+
+2018/06/20 09:50:28 Service UpdateWord: Stopped
+2018/06/20 09:51:41 Service UpdateWord: Started
+2018/06/20 09:51:41 UpdateWord params: 
+{
+  "fileid": "2309",
+  "isWord": "Y",
+  "tagNew": "nomina,adv",
+  "tagOld": "|n|",
+  "wordNew": "jakarta",
+  "wordOld": "jakarta"
+} 
+
+2018/06/20 09:51:41 Service UpdateWord: Stopped
+2018/06/20 09:51:47 websocket: close 1001 (going away)
+2018/06/20 09:56:03 Service UpdateWord: Started
+2018/06/20 09:56:03 UpdateWord params: 
+{
+  "fileid": "2309",
+  "isWord": "Y",
+  "tagNew": "|n|,adv",
+  "tagOld": "|n|",
+  "wordNew": "jakarta",
+  "wordOld": "jakarta"
+} 
+
+2018/06/20 09:56:03 Service UpdateWord: Stopped
+2018/06/20 09:56:08 websocket: close 1001 (going away)
+2018/06/20 09:57:02 Service UpdateWord: Started
+2018/06/20 09:57:02 UpdateWord params: 
+{
+  "fileid": "2309",
+  "isWord": "Y",
+  "tagNew": "|n|,|adv|",
+  "tagOld": "|n|",
+  "wordNew": "jakarta",
+  "wordOld": "jakarta"
+} 
+
+2018/06/20 09:57:02 Service UpdateWord: Stopped
+2018/06/20 09:57:48 Service UpdateWord: Started
+2018/06/20 09:57:48 UpdateWord params: 
+{
+  "fileid": "2309",
+  "isWord": "Y",
+  "tagNew": "|n|,|adv|",
+  "tagOld": "|n|",
+  "wordNew": "jakarta",
+  "wordOld": "jakarta"
+} 
+
+2018/06/20 09:57:48 Service UpdateWord: Stopped
+2018/06/20 09:57:55 websocket: close 1001 (going away)
+2018/06/20 09:59:38 Service UpdateWord: Started
+2018/06/20 09:59:38 UpdateWord params: 
+{
+  "fileid": "2309",
+  "idMappingFile": 6523962,
+  "isWord": "Y",
+  "tagNew": "|n|",
+  "tagOld": "|n|",
+  "wordNew": "jakarta",
+  "wordOld": "jakarta"
+} 
+
+2018/06/20 09:59:39 Service UpdateWord: Stopped
+2018/06/20 10:39:14 Service UpdateWord: Started
+2018/06/20 10:39:14 UpdateWord params: 
+{
+  "fileid": "2309",
+  "idMappingFile": 6523962,
+  "isWord": "Y",
+  "tagNew": "|n|,|adv|",
+  "tagOld": "|n|",
+  "wordNew": "jakartas",
+  "wordOld": "jakarta"
+} 
+
+2018/06/20 10:39:15 Service UpdateWord: Stopped
+2018/06/20 10:39:24 websocket: close 1001 (going away)
+2018/06/20 10:43:52 Service UpdateWord: Started
+2018/06/20 10:43:52 UpdateWord params: 
+{
+  "fileid": "2309",
+  "idMappingFile": 6523964,
+  "isWord": "Y",
+  "tagNew": "|x|,|n|",
+  "tagOld": "|x|",
+  "wordNew": "kompas",
+  "wordOld": "kompas.com"
+} 
+
+2018/06/20 10:43:53 Service UpdateWord: Stopped
+2018/06/20 10:44:00 websocket: close 1001 (going away)
+2018/06/20 11:09:59 websocket: close 1001 (going away)
+2018/06/20 11:12:55 Service UpdateWord: Started
+2018/06/20 11:12:55 UpdateWord params: 
+{
+  "fileid": "2309",
+  "idMappingFile": 6523969,
+  "isWord": "Y",
+  "tagNew": "|a|,|n|",
+  "tagOld": "|a|",
+  "wordNew": "kerapx",
+  "wordOld": "kerap"
+} 
+
+2018/06/20 11:12:57 Service UpdateWord: Stopped
+2018/06/20 11:14:49 Service UpdateWord: Started
+2018/06/20 11:14:49 UpdateWord params: 
+{
+  "fileid": "2309",
+  "idMappingFile": 6523971,
+  "isWord": "Y",
+  "tagNew": "|n|,|a|",
+  "tagOld": "|n|",
+  "wordNew": "bariss",
+  "wordOld": "baris"
+} 
+
+2018/06/20 11:14:49 Service UpdateWord: Stopped
+2018/06/20 11:14:56 websocket: close 1001 (going away)
+2018/06/20 11:16:08 Service UpdateWord: Started
+2018/06/20 11:16:08 UpdateWord params: 
+{
+  "fileid": "2309",
+  "idMappingFile": 6523977,
+  "isWord": "Y",
+  "tagNew": "|a|,|n|",
+  "tagOld": "|a|",
+  "wordNew": "mobilnya",
+  "wordOld": "mobil"
+} 
+
+2018/06/20 11:16:08 Service UpdateWord: Stopped
+2018/06/20 11:16:55 Service UpdateWord: Started
+2018/06/20 11:16:55 UpdateWord params: 
+{
+  "fileid": "2309",
+  "idMappingFile": 6523977,
+  "isWord": "Y",
+  "tagNew": "|n|",
+  "tagOld": "|a|",
+  "wordNew": "mobilnya",
+  "wordOld": "mobil"
+} 
+
+2018/06/20 11:16:59 websocket: close 1001 (going away)
+2018/06/20 11:17:50 Service UpdateWord: Stopped
+2018/06/20 11:17:51 websocket: close 1001 (going away)
+2018/06/20 11:43:55 Service UpdateWord: Started
+2018/06/20 11:43:55 UpdateWord params: 
+{
+  "fileid": "2309",
+  "idMappingFile": 6523977,
+  "isWord": "Y",
+  "tagNew": "|a|",
+  "tagOld": "|a|",
+  "wordNew": "mobil",
+  "wordOld": "mobilnya"
+} 
+
+2018/06/20 11:44:48 Service UpdateWord: Stopped
+2018/06/20 11:47:15 Service UpdateWord: Started
+2018/06/20 11:47:15 UpdateWord params: 
+{
+  "fileid": "2309",
+  "idMappingFile": 6523977,
+  "isWord": "Y",
+  "tagNew": "|a|",
+  "tagOld": "|a|",
+  "wordNew": "mobilnya",
+  "wordOld": "mobil"
+} 
+
+2018/06/20 11:48:13 Service UpdateWord: Stopped
+2018/06/20 11:49:18 Service UpdateWord: Started
+2018/06/20 11:49:18 UpdateWord params: 
+{
+  "fileid": "2309",
+  "idMappingFile": 6523977,
+  "isWord": "Y",
+  "tagNew": "|a|",
+  "tagOld": "|a|",
+  "wordNew": "mobil",
+  "wordOld": "mobilnya"
+} 
+
+2018/06/20 11:50:23 Service UpdateWord: Stopped
+2018/06/20 11:50:27 Service UpdateWord: Started
+2018/06/20 11:50:27 UpdateWord params: 
+{
+  "fileid": "2309",
+  "idMappingFile": 6523977,
+  "isWord": "Y",
+  "tagNew": "|a|",
+  "tagOld": "|a|",
+  "wordNew": "mobilnya",
+  "wordOld": "mobil"
+} 
+
+2018/06/20 11:51:23 Service UpdateWord: Stopped
+2018/06/20 11:52:04 Service UpdateWord: Started
+2018/06/20 11:52:04 UpdateWord params: 
+{
+  "fileid": "2309",
+  "idMappingFile": 6523977,
+  "isWord": "Y",
+  "tagNew": "|a|",
+  "tagOld": "|a|",
+  "wordNew": "mobil",
+  "wordOld": "mobilnya"
+} 
+
+2018/06/20 11:53:00 Service UpdateWord: Stopped
+2018/06/20 12:12:05 read tcp 172.104.33.198:40435->180.247.159.14:61594: read: connection reset by peer
+2018/06/20 12:55:39 read tcp 172.104.33.198:40435->180.247.159.14:65456: read: connection timed out
+2018/06/20 12:55:39 read tcp 172.104.33.198:40435->180.247.159.14:62761: read: connection timed out
+2018/06/20 12:55:53 read tcp 172.104.33.198:40435->180.247.159.14:53763: read: connection timed out
+2018/06/20 12:57:56 read tcp 172.104.33.198:40435->180.247.159.14:15674: read: connection timed out
+2018/06/20 13:07:29 read tcp 172.104.33.198:40435->180.247.159.14:55145: read: connection reset by peer
+2018/06/20 13:18:55 read tcp 172.104.33.198:40435->180.247.159.14:55160: read: connection reset by peer
+2018/06/20 13:32:04 read tcp 172.104.33.198:40435->180.247.159.14:55175: read: connection timed out
+2018/06/20 13:41:33 read tcp 172.104.33.198:40435->180.247.159.14:59930: read: connection reset by peer
+2018/06/20 13:47:10 read tcp 172.104.33.198:40435->180.247.159.14:59448: read: connection reset by peer
+2018/06/20 13:55:57 read tcp 172.104.33.198:40435->180.247.159.14:58447: read: connection timed out
+2018/06/20 14:17:57 read tcp 172.104.33.198:40435->180.247.159.14:61821: read: connection reset by peer
+2018/06/20 14:24:32 read tcp 172.104.33.198:40435->180.247.159.14:57916: read: connection reset by peer
+2018/06/20 14:59:54 read tcp 172.104.33.198:40435->180.247.159.14:64951: read: connection timed out
+2018/06/20 15:00:21 read tcp 172.104.33.198:40435->180.247.159.14:64403: read: connection timed out
+2018/06/20 15:00:35 read tcp 172.104.33.198:40435->180.247.159.14:61339: read: connection timed out
+2018/06/20 16:07:29 read tcp 172.104.33.198:40435->180.247.159.14:65329: read: connection timed out
+2018/06/20 22:43:12 read tcp 172.104.33.198:40435->180.247.159.14:65338: read: connection timed out
+2018/06/20 22:43:12 read tcp 172.104.33.198:40435->180.247.159.14:9861: read: connection timed out
+2018/06/20 22:43:26 read tcp 172.104.33.198:40435->180.247.159.14:54699: read: connection timed out
+2018/06/21 05:42:33 Service UpdateWord: Started
+2018/06/21 05:42:33 UpdateWord params: 
+{
+  "fileid": "2309",
+  "idMappingFile": 6523962,
+  "isWord": "Y",
+  "tagNew": "|n|,|adv|",
+  "tagOld": "|n|",
+  "wordNew": "jakartas",
+  "wordOld": "jakartas"
+} 
+
+2018/06/21 05:42:38 Service UpdateWord: Stopped
+2018/06/21 05:43:06 Service UpdateWord: Started
+2018/06/21 05:43:06 UpdateWord params: 
+{
+  "fileid": "2309",
+  "idMappingFile": 6523962,
+  "isWord": "Y",
+  "tagNew": "|n|,|v|",
+  "tagOld": "|n|",
+  "wordNew": "jakartas",
+  "wordOld": "jakartas"
+} 
+
+2018/06/21 05:43:12 Service UpdateWord: Stopped
+2018/06/21 05:43:48 Service UpdateWord: Started
+2018/06/21 05:43:48 UpdateWord params: 
+{
+  "fileid": "2309",
+  "idMappingFile": 6523962,
+  "isWord": "Y",
+  "tagNew": "|n|,|a|",
+  "tagOld": "|n|",
+  "wordNew": "jakartas",
+  "wordOld": "jakartas"
+} 
+
+2018/06/21 05:43:53 Service UpdateWord: Stopped
+2018/06/21 05:44:20 Service UpdateWord: Started
+2018/06/21 05:44:20 UpdateWord params: 
+{
+  "fileid": "2309",
+  "idMappingFile": 6523962,
+  "isWord": "Y",
+  "tagNew": "|n|,|adv|",
+  "tagOld": "|n|",
+  "wordNew": "jakartas",
+  "wordOld": "jakartas"
+} 
+
+2018/06/21 05:44:24 Service UpdateWord: Stopped
+2018/06/21 05:44:40 Service UpdateWord: Started
+2018/06/21 05:44:40 UpdateWord params: 
+{
+  "fileid": "2309",
+  "idMappingFile": 6523962,
+  "isWord": "Y",
+  "tagNew": "|a|",
+  "tagOld": "|n|",
+  "wordNew": "jakartas",
+  "wordOld": "jakartas"
+} 
+
+2018/06/21 05:44:46 Service UpdateWord: Stopped
+2018/06/21 05:45:51 Service UpdateWord: Started
+2018/06/21 05:45:51 UpdateWord params: 
+{
+  "fileid": "2309",
+  "idMappingFile": 6523971,
+  "isWord": "Y",
+  "tagNew": "|n|,|pron|",
+  "tagOld": "|n|",
+  "wordNew": "baris",
+  "wordOld": "baris"
+} 
+
+2018/06/21 05:45:56 Service UpdateWord: Stopped
+2018/06/21 05:47:34 websocket: close 1001 (going away)
+2018/06/21 05:47:48 websocket: close 1001 (going away)
+2018/06/21 05:49:19 websocket: close 1001 (going away)
+2018/06/21 05:52:44 websocket: close 1001 (going away)
+2018/06/21 05:55:49 websocket: close 1001 (going away)
+2018/06/21 05:56:03 websocket: close 1001 (going away)
+2018/06/21 05:56:06 websocket: close 1001 (going away)
+2018/06/21 06:22:15 websocket: close 1001 (going away)
+2018/06/21 06:22:15 CException: Properti "CConsoleApplication.user" tidak didefinisikan. in /var/www/html/plansys/framework/base/CComponent.php:130
+Stack trace:
+#0 /var/www/html/plansys/framework/base/CModule.php(105): CComponent->__get('user')
+#1 /var/www/html/plansys/modules/builder/websockets/CollabWs.php(28): CModule->__get('user')
+#2 /var/www/html/plansys/commands/WsCommand.php(57): CollabWs->disconnected(Array, ''websocket: clo...')
+#3 [internal function]: WsCommand->actionDisconnected('builder/collab', '3', '5i23058rklg4706...', '5', ''websocket: clo...')
+#4 /var/www/html/plansys/framework/console/CConsoleCommand.php(172): ReflectionMethod->invokeArgs(Object(WsCommand), Array)
+#5 /var/www/html/plansys/framework/console/CConsoleCommandRunner.php(71): CConsoleCommand->run(Array)
+#6 /var/www/html/plansys/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run(Array)
+#7 /var/www/html/plansys/framework/base/CApplication.php(185): CConsoleApplication->processRequest()
+#8 /var/www/html/plansys/framework/yiic.php(33): CApplication->run()
+#9 /var/www/html/plansys/yiic.php(21): require_once('/var/www/html/p...')
+#10 {main}
+2018/06/21 06:55:38 read tcp 172.104.33.198:40435->180.247.159.14:58370: read: connection timed out
+2018/06/21 06:55:38 CException: Properti "CConsoleApplication.user" tidak didefinisikan. in /var/www/html/plansys/framework/base/CComponent.php:130
+Stack trace:
+#0 /var/www/html/plansys/framework/base/CModule.php(105): CComponent->__get('user')
+#1 /var/www/html/plansys/modules/builder/websockets/CollabWs.php(28): CModule->__get('user')
+#2 /var/www/html/plansys/commands/WsCommand.php(57): CollabWs->disconnected(Array, ''read tcp 172.1...')
+#3 [internal function]: WsCommand->actionDisconnected('builder/collab', '3', '5i23058rklg4706...', '5', ''read tcp 172.1...')
+#4 /var/www/html/plansys/framework/console/CConsoleCommand.php(172): ReflectionMethod->invokeArgs(Object(WsCommand), Array)
+#5 /var/www/html/plansys/framework/console/CConsoleCommandRunner.php(71): CConsoleCommand->run(Array)
+#6 /var/www/html/plansys/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run(Array)
+#7 /var/www/html/plansys/framework/base/CApplication.php(185): CConsoleApplication->processRequest()
+#8 /var/www/html/plansys/framework/yiic.php(33): CApplication->run()
+#9 /var/www/html/plansys/yiic.php(21): require_once('/var/www/html/p...')
+#10 {main}
+2018/06/21 07:03:49 read tcp 172.104.33.198:40435->180.247.159.14:2989: read: connection timed out
+2018/06/21 07:04:30 read tcp 172.104.33.198:40435->180.247.159.14:56234: read: connection timed out
+2018/06/21 07:24:45 read tcp 172.104.33.198:40435->180.247.159.14:49900: read: connection timed out
+2018/06/21 07:31:32 read tcp 172.104.33.198:40435->180.247.159.14:5291: read: no route to host
+2018/06/21 07:31:32 CException: Properti "CConsoleApplication.user" tidak didefinisikan. in /var/www/html/plansys/framework/base/CComponent.php:130
+Stack trace:
+#0 /var/www/html/plansys/framework/base/CModule.php(105): CComponent->__get('user')
+#1 /var/www/html/plansys/modules/builder/websockets/CollabWs.php(28): CModule->__get('user')
+#2 /var/www/html/plansys/commands/WsCommand.php(57): CollabWs->disconnected(Array, ''read tcp 172.1...')
+#3 [internal function]: WsCommand->actionDisconnected('builder/collab', '3', '5i23058rklg4706...', '7', ''read tcp 172.1...')
+#4 /var/www/html/plansys/framework/console/CConsoleCommand.php(172): ReflectionMethod->invokeArgs(Object(WsCommand), Array)
+#5 /var/www/html/plansys/framework/console/CConsoleCommandRunner.php(71): CConsoleCommand->run(Array)
+#6 /var/www/html/plansys/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run(Array)
+#7 /var/www/html/plansys/framework/base/CApplication.php(185): CConsoleApplication->processRequest()
+#8 /var/www/html/plansys/framework/yiic.php(33): CApplication->run()
+#9 /var/www/html/plansys/yiic.php(21): require_once('/var/www/html/p...')
+#10 {main}
+2018/06/21 07:42:52 websocket: close 1001 (going away)
+2018/06/21 07:42:52 CException: Properti "CConsoleApplication.user" tidak didefinisikan. in /var/www/html/plansys/framework/base/CComponent.php:130
+Stack trace:
+#0 /var/www/html/plansys/framework/base/CModule.php(105): CComponent->__get('user')
+#1 /var/www/html/plansys/modules/builder/websockets/CollabWs.php(28): CModule->__get('user')
+#2 /var/www/html/plansys/commands/WsCommand.php(57): CollabWs->disconnected(Array, ''websocket: clo...')
+#3 [internal function]: WsCommand->actionDisconnected('builder/collab', '3', '5i23058rklg4706...', '3', ''websocket: clo...')
+#4 /var/www/html/plansys/framework/console/CConsoleCommand.php(172): ReflectionMethod->invokeArgs(Object(WsCommand), Array)
+#5 /var/www/html/plansys/framework/console/CConsoleCommandRunner.php(71): CConsoleCommand->run(Array)
+#6 /var/www/html/plansys/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run(Array)
+#7 /var/www/html/plansys/framework/base/CApplication.php(185): CConsoleApplication->processRequest()
+#8 /var/www/html/plansys/framework/yiic.php(33): CApplication->run()
+#9 /var/www/html/plansys/yiic.php(21): require_once('/var/www/html/p...')
+#10 {main}
+2018/06/21 07:46:50 read tcp 172.104.33.198:40435->180.247.159.14:50103: read: connection timed out
+2018/06/21 07:47:31 read tcp 172.104.33.198:40435->180.247.159.14:49896: read: connection timed out
+2018/06/21 07:49:53 websocket: close 1001 (going away)
+2018/06/21 07:49:53 CException: Properti "CConsoleApplication.user" tidak didefinisikan. in /var/www/html/plansys/framework/base/CComponent.php:130
+Stack trace:
+#0 /var/www/html/plansys/framework/base/CModule.php(105): CComponent->__get('user')
+#1 /var/www/html/plansys/modules/builder/websockets/CollabWs.php(28): CModule->__get('user')
+#2 /var/www/html/plansys/commands/WsCommand.php(57): CollabWs->disconnected(Array, ''websocket: clo...')
+#3 [internal function]: WsCommand->actionDisconnected('builder/collab', '3', 'fm65e8jr63bltbk...', '3', ''websocket: clo...')
+#4 /var/www/html/plansys/framework/console/CConsoleCommand.php(172): ReflectionMethod->invokeArgs(Object(WsCommand), Array)
+#5 /var/www/html/plansys/framework/console/CConsoleCommandRunner.php(71): CConsoleCommand->run(Array)
+#6 /var/www/html/plansys/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run(Array)
+#7 /var/www/html/plansys/framework/base/CApplication.php(185): CConsoleApplication->processRequest()
+#8 /var/www/html/plansys/framework/yiic.php(33): CApplication->run()
+#9 /var/www/html/plansys/yiic.php(21): require_once('/var/www/html/p...')
+#10 {main}
+2018/06/21 08:51:54 read tcp 172.104.33.198:40435->180.247.159.14:50878: read: connection reset by peer
+2018/06/21 08:52:58 read tcp 172.104.33.198:40435->182.1.113.121:50213: read: connection reset by peer
+2018/06/21 08:52:58 read tcp 172.104.33.198:40435->182.1.113.121:50214: read: connection reset by peer
+2018/06/21 09:03:17 read tcp 172.104.33.198:40435->180.247.159.14:9357: read: connection timed out
+2018/06/21 09:05:34 read tcp 172.104.33.198:40435->180.247.159.14:50736: read: connection timed out
+2018/06/21 09:10:48 read tcp 172.104.33.198:40435->180.247.159.14:10705: read: connection timed out
+2018/06/21 09:14:22 websocket: close 1001 (going away)
+2018/06/21 09:14:25 websocket: close 1001 (going away)
+2018/06/21 09:34:30 Service UpdateImportFile: Started
+2018/06/21 09:34:30 Service UpdateImportFile: Stopped
+2018/06/21 09:34:52 websocket: close 1001 (going away)
+2018/06/21 09:38:18 Service UpdateImportFile: Started
+2018/06/21 09:38:24 Service UpdateImportFile: Stopped
+2018/06/21 09:47:03 Service InsertFile: Started
+2018/06/21 09:47:03 InsertFile params: 
+{
+  "data": [
+    {
+      "content": "Jakarta, Kompas.com - Anak- anak kerap mengisi baris kedua kendaraan saat bepergian dengan mobil bersama keluarga. Bagi yang membawa anak kecil di bawah 10 tahun harus biasanya punya aktivitas yang terkadang membuat repot. Menjadi berbahaya ketika luput dari pengawasan orang tua. Hal yang kerap dilakukan adalah membuka jendela dan mengeluarkan anggota tubuh. Bahkan secara tidak sengaja menarik tuas pembuka pintu dari dalam. Keduanya punya efek yang berbahaya jika dibiarkan. [Baca juga : Mudik, Euforia, Mimpi Buruk dan Kali Kenteng] Untuk masalah pertama bisa diatasi dengan mengaktifkan tombol pengunci jendela. Lokasinya ada di bagian dekat tuas atau tombol pengemudi. Solusi untuk persoalan kedua sebenarnya juga cukup mudah jika Anda menyempatkan diri membaca buku panduan.\r\n\r\nTempatnya mudah dijangkau, yaitu di setiap daun pintu baris kedua. Buka pintu belakang (pintu tengah) lalu lihat sudut sebelah kiri. Tuas kunci pengaman anak ditempatkan di bagian tersebut. [Baca juga : Pahami Fitur Overdrive saat Berkendara] Saat tuas pengaman aktif bisa mencegah pintu dibuka dari kabin atau pintu hanya bisa dibuka dari luar. Sebaliknya, jika tuas kuncinya berada di posisi terbuka maka pintu tersebut bisa dibuka dari dalam dan luar. Nah, jika sudah tahu pastikan saat membawa anak-anak apalagi duduk di jok kedua atau ketiga, tuas kunci berada dalam posisi mengunci, agar menghindari hal yang tidak diinginkan",
+      "id": "2310"
+    }
+  ]
+} 
+
+2018/06/21 09:47:59 Service InsertFile: Stopped
+2018/06/21 09:49:00 Service UpdateWord: Started
+2018/06/21 09:49:00 UpdateWord params: 
+{
+  "fileid": "2310",
+  "idMappingFile": 6524201,
+  "isWord": "Y",
+  "tagNew": "|n|",
+  "tagOld": "|n|",
+  "wordNew": "jakartas",
+  "wordOld": "jakarta"
+} 
+
+2018/06/21 09:49:25 websocket: close 1001 (going away)
+2018/06/21 09:49:46 websocket: close 1001 (going away)
+2018/06/21 09:50:00 Service UpdateWord: Stopped
+2018/06/21 09:56:33 Service UpdateWord: Started
+2018/06/21 09:56:33 UpdateWord params: 
+{
+  "fileid": "2310",
+  "idMappingFile": 6524201,
+  "isWord": "Y",
+  "tagNew": "|n|",
+  "tagOld": "|n|",
+  "wordNew": "harian",
+  "wordOld": "jakartas"
+} 
+
+2018/06/21 09:56:48 websocket: close 1001 (going away)
+2018/06/21 09:57:29 Service UpdateWord: Stopped
+2018/06/21 09:58:46 Service UpdateWord: Started
+2018/06/21 09:58:46 UpdateWord params: 
+{
+  "fileid": "2310",
+  "idMappingFile": 6524201,
+  "isWord": "Y",
+  "tagNew": "|n|",
+  "tagOld": "|n|",
+  "wordNew": "Jkt",
+  "wordOld": "harian"
+} 
+
+2018/06/21 09:58:56 websocket: close 1001 (going away)
+2018/06/21 09:59:35 websocket: close 1001 (going away)
+2018/06/21 09:59:42 Service UpdateWord: Stopped
+2018/06/21 10:00:02 Service UpdateWord: Started
+2018/06/21 10:00:02 UpdateWord params: 
+{
+  "fileid": "2310",
+  "idMappingFile": 6524201,
+  "isWord": "Y",
+  "tagNew": "|n|",
+  "tagOld": "|n|",
+  "wordNew": "jakartas",
+  "wordOld": "jkt"
+} 
+
+2018/06/21 10:00:09 websocket: close 1001 (going away)
+2018/06/21 10:00:33 websocket: close 1001 (going away)
+2018/06/21 10:00:56 websocket: close 1001 (going away)
+2018/06/21 10:01:00 Service UpdateWord: Stopped
+2018/06/21 10:01:54 Service UpdateWord: Started
+2018/06/21 10:01:54 UpdateWord params: 
+{
+  "fileid": "2310",
+  "idMappingFile": 6524203,
+  "isWord": "Y",
+  "tagNew": "|v|",
+  "tagOld": "|x|",
+  "wordNew": "kompas",
+  "wordOld": "kompas.com"
+} 
+
+2018/06/21 10:02:00 websocket: close 1001 (going away)
+2018/06/21 10:02:12 websocket: close 1001 (going away)
+2018/06/21 10:02:20 websocket: close 1001 (going away)
+2018/06/21 10:02:50 Service UpdateWord: Stopped
+2018/06/21 10:11:18 Service UpdateWord: Started
+2018/06/21 10:11:18 UpdateWord params: 
+{
+  "fileid": "2310",
+  "idMappingFile": 6524203,
+  "isWord": "Y",
+  "tagNew": "|n|",
+  "tagOld": "|x|",
+  "wordNew": "Kompas",
+  "wordOld": "kompas"
+} 
+
+2018/06/21 10:11:42 Service UpdateWord: Started
+2018/06/21 10:11:42 UpdateWord params: 
+{
+  "fileid": "2310",
+  "idMappingFile": 6524203,
+  "isWord": "Y",
+  "tagNew": "|n|",
+  "tagOld": "|x|",
+  "wordNew": "Kompass",
+  "wordOld": "kompas"
+} 
+
+2018/06/21 10:11:57 websocket: close 1001 (going away)
+2018/06/21 10:12:05 websocket: close 1001 (going away)
+2018/06/21 10:12:20 websocket: close 1001 (going away)
+2018/06/21 10:12:28 Service UpdateWord: Stopped
+2018/06/21 10:13:19 Service UpdateWord: Stopped
+2018/06/21 10:13:20 websocket: close 1001 (going away)
+2018/06/21 10:14:00 Service UpdateWord: Started
+2018/06/21 10:14:00 UpdateWord params: 
+{
+  "fileid": "2310",
+  "idMappingFile": 6524203,
+  "isWord": "Y",
+  "tagNew": "|n|",
+  "tagOld": "|x|",
+  "wordNew": "Jawa Poss",
+  "wordOld": "kompass"
+} 
+
+2018/06/21 10:14:09 websocket: close 1001 (going away)
+2018/06/21 10:14:44 websocket: close 1001 (going away)
+2018/06/21 10:14:58 Service UpdateWord: Stopped
+2018/06/21 10:15:28 Service UpdateWord: Started
+2018/06/21 10:15:28 UpdateWord params: 
+{
+  "fileid": "2310",
+  "idMappingFile": 6524203,
+  "isWord": "Y",
+  "tagNew": "|n|",
+  "tagOld": "|x|",
+  "wordNew": "Kompas",
+  "wordOld": "jawa poss"
+} 
+
+2018/06/21 10:15:38 websocket: close 1001 (going away)
+2018/06/21 10:15:42 websocket: close 1001 (going away)
+2018/06/21 10:16:32 Service UpdateWord: Stopped
+2018/06/21 10:20:23 Service UpdateWord: Started
+2018/06/21 10:20:23 UpdateWord params: 
+{
+  "fileid": "2310",
+  "idMappingFile": 6524203,
+  "isWord": "Y",
+  "tagNew": "|n|,|v|",
+  "tagOld": "|n|",
+  "wordNew": "Kompas.com",
+  "wordOld": "kompas"
+} 
+
+2018/06/21 10:20:31 websocket: close 1001 (going away)
+2018/06/21 10:21:21 Service UpdateWord: Stopped
+2018/06/21 10:21:57 websocket: close 1001 (going away)
+2018/06/21 10:21:58 websocket: close 1001 (going away)
+2018/06/21 10:25:01 Service UpdateWord: Started
+2018/06/21 10:25:01 UpdateWord params: 
+{
+  "fileid": "2310",
+  "idMappingFile": 6524203,
+  "isWord": "Y",
+  "tagNew": "|n|,|v|",
+  "tagOld": "|n|",
+  "wordNew": "Kompas",
+  "wordOld": "Kompas.com"
+} 
+
+2018/06/21 10:25:05 websocket: close 1001 (going away)
+2018/06/21 10:25:05 Service UpdateWord: Stopped
+2018/06/21 10:26:24 Service UpdateWord: Started
+2018/06/21 10:26:24 UpdateWord params: 
+{
+  "fileid": "2310",
+  "idMappingFile": 6524203,
+  "isWord": "Y",
+  "tagNew": "|n|,|v|",
+  "tagOld": "|n|",
+  "wordNew": "Kompas",
+  "wordOld": "Kompas.com"
+} 
+
+2018/06/21 10:26:27 Service UpdateWord: Stopped
+2018/06/21 10:26:29 websocket: close 1001 (going away)
+2018/06/21 10:27:02 Service UpdateWord: Started
+2018/06/21 10:27:02 UpdateWord params: 
+{
+  "fileid": "2310",
+  "idMappingFile": 6524201,
+  "isWord": "Y",
+  "tagNew": "|n|",
+  "tagOld": "|n|",
+  "wordNew": "Jakarta",
+  "wordOld": "jakartas"
+} 
+
+2018/06/21 10:27:04 Service UpdateWord: Stopped
+2018/06/21 10:27:07 websocket: close 1001 (going away)
+2018/06/21 10:27:33 Service UpdateWord: Started
+2018/06/21 10:27:33 UpdateWord params: 
+{
+  "fileid": "2310",
+  "idMappingFile": 6524201,
+  "isWord": "Y",
+  "tagNew": "|n|,|v|",
+  "tagOld": "|n|",
+  "wordNew": "Jakarta",
+  "wordOld": "jakartas"
+} 
+
+2018/06/21 10:28:31 Service UpdateWord: Stopped
+2018/06/21 10:36:51 websocket: close 1001 (going away)
+2018/06/21 10:42:43 websocket: close 1001 (going away)
+2018/06/21 10:53:39 read tcp 172.104.33.198:40435->180.247.159.14:15457: read: connection timed out
+2018/06/21 11:38:42 read tcp 172.104.33.198:40435->180.247.159.14:16259: read: connection timed out
+2018/06/21 11:38:42 read tcp 172.104.33.198:40435->180.247.159.14:51942: read: connection timed out
+2018/06/21 15:37:38 read tcp 172.104.33.198:40435->180.247.159.14:2105: read: connection reset by peer
+2018/06/21 20:25:16 read tcp 172.104.33.198:40435->180.247.159.14:52498: read: connection timed out
+2018/06/21 20:25:16 read tcp 172.104.33.198:40435->180.247.159.14:52610: read: connection timed out
+2018/06/22 20:49:22 read tcp 172.104.33.198:40435->180.247.159.14:26547: read: connection timed out
+2018/06/22 20:49:22 read tcp 172.104.33.198:40435->180.247.159.14:53870: read: connection timed out
+2018/06/23 07:46:33 websocket: close 1001 (going away)
+2018/06/23 07:46:33 websocket: close 1001 (going away)
+2018/06/23 08:15:29 Service DeleteFile: Started
+2018/06/23 08:15:29 DeleteFile params: 
+null 
+
+2018/06/23 08:15:29 Service DeleteFile: Stopped
+2018/06/23 08:18:49 Service DeleteFile: Started
+2018/06/23 08:18:49 DeleteFile params: 
+null 
+
+2018/06/23 08:18:49 Service DeleteFile: Stopped
+2018/06/23 08:32:43 Service DeleteFile: Started
+2018/06/23 08:32:43 DeleteFile params: 
+null 
+
+2018/06/23 08:32:43 Service DeleteFile: Stopped
+2018/06/23 08:33:12 Service DeleteFile: Started
+2018/06/23 08:33:12 DeleteFile params: 
+null 
+
+2018/06/23 08:33:12 Service DeleteFile: Stopped
+2018/06/23 08:33:18 websocket: close 1001 (going away)
+2018/06/23 08:34:21 Service DeleteFile: Started
+2018/06/23 08:34:21 DeleteFile params: 
+null 
+
+2018/06/23 08:34:21 Service DeleteFile: Stopped
+2018/06/23 08:34:25 websocket: close 1001 (going away)
+2018/06/23 08:35:08 Service DeleteFile: Started
+2018/06/23 08:35:08 DeleteFile params: 
+null 
+
+2018/06/23 08:35:12 websocket: close 1001 (going away)
+2018/06/23 08:35:16 http: panic serving 180.247.159.14:16077: runtime error: invalid memory address or nil pointer dereference
+goroutine 16958 [running]:
+net/http.(*conn).serve.func1(0xc4200c5400)
+	/usr/lib/go-1.8/src/net/http/server.go:1721 +0xd0
+panic(0x7676a0, 0x97b920)
+	/usr/lib/go-1.8/src/runtime/panic.go:489 +0x2cf
+main.NewStateManagerHandler.func2.1(0x958ac0, 0xc42004a1c0, 0xc42000ae00)
+	/var/www/ndo/plansys/components/thrift/server/state.go:149 +0x476
+net/http.HandlerFunc.ServeHTTP(0xc4200ab640, 0x958ac0, 0xc42004a1c0, 0xc42000ae00)
+	/usr/lib/go-1.8/src/net/http/server.go:1942 +0x44
+net/http.(*ServeMux).ServeHTTP(0x9856e0, 0x958ac0, 0xc42004a1c0, 0xc42000ae00)
+	/usr/lib/go-1.8/src/net/http/server.go:2238 +0x130
+net/http.serverHandler.ServeHTTP(0xc420084580, 0x958ac0, 0xc42004a1c0, 0xc42000ae00)
+	/usr/lib/go-1.8/src/net/http/server.go:2568 +0x92
+net/http.(*conn).serve(0xc4200c5400, 0x958f80, 0xc4212089c0)
+	/usr/lib/go-1.8/src/net/http/server.go:1825 +0x612
+created by net/http.(*Server).Serve
+	/usr/lib/go-1.8/src/net/http/server.go:2668 +0x2ce
+2018/06/23 08:35:59 Service DeleteFile: Stopped
+2018/06/23 08:38:09 websocket: close 1001 (going away)
+2018/06/23 08:38:32 Service DeleteFile: Started
+2018/06/23 08:38:32 DeleteFile params: 
+null 
+
+2018/06/23 08:38:32 Service DeleteFile: Stopped
+2018/06/23 08:38:37 websocket: close 1001 (going away)
+2018/06/23 08:41:09 Service InsertFile: Started
+2018/06/23 08:41:09 InsertFile params: 
+{
+  "data": [
+    {
+      "content": "Jakarta, Kompas.com - Anak- anak kerap mengisi baris kedua kendaraan saat bepergian dengan mobil bersama keluarga. Bagi yang membawa anak kecil di bawah 10 tahun harus biasanya punya aktivitas yang terkadang membuat repot. Menjadi berbahaya ketika luput dari pengawasan orang tua. Hal yang kerap dilakukan adalah membuka jendela dan mengeluarkan anggota tubuh. Bahkan secara tidak sengaja menarik tuas pembuka pintu dari dalam. Keduanya punya efek yang berbahaya jika dibiarkan. [Baca juga : Mudik, Euforia, Mimpi Buruk dan Kali Kenteng] Untuk masalah pertama bisa diatasi dengan mengaktifkan tombol pengunci jendela. Lokasinya ada di bagian dekat tuas atau tombol pengemudi. Solusi untuk persoalan kedua sebenarnya juga cukup mudah jika Anda menyempatkan diri membaca buku panduan.\r\n\r\nTempatnya mudah dijangkau, yaitu di setiap daun pintu baris kedua. Buka pintu belakang (pintu tengah) lalu lihat sudut sebelah kiri. Tuas kunci pengaman anak ditempatkan di bagian tersebut. [Baca juga : Pahami Fitur Overdrive saat Berkendara] Saat tuas pengaman aktif bisa mencegah pintu dibuka dari kabin atau pintu hanya bisa dibuka dari luar. Sebaliknya, jika tuas kuncinya berada di posisi terbuka maka pintu tersebut bisa dibuka dari dalam dan luar. Nah, jika sudah tahu pastikan saat membawa anak-anak apalagi duduk di jok kedua atau ketiga, tuas kunci berada dalam posisi mengunci, agar menghindari hal yang tidak diinginkan",
+      "id": "2311"
+    }
+  ]
+} 
+
+2018/06/23 08:42:03 Service InsertFile: Stopped
+2018/06/23 13:08:50 Service DeleteFile: Started
+2018/06/23 13:08:50 DeleteFile params: 
+null 
+
+2018/06/23 13:09:05 websocket: close 1001 (going away)
+2018/06/23 13:09:33 websocket: close 1001 (going away)
+2018/06/23 13:09:42 Service DeleteFile: Stopped
+2018/06/23 17:35:00 read tcp 172.104.33.198:40435->180.247.159.14:59430: read: connection timed out
+2018/06/24 05:05:28 read tcp 172.104.33.198:40435->180.247.159.14:63638: read: connection reset by peer
+2018/06/24 05:09:16 read tcp 172.104.33.198:40435->180.247.159.14:62559: read: connection timed out
+2018/06/24 05:50:00 read tcp 172.104.33.198:40435->180.247.159.14:4695: read: connection timed out
+2018/06/24 06:00:28 read tcp 172.104.33.198:40435->180.247.159.14:63982: read: connection timed out
+2018/06/24 06:17:48 read tcp 172.104.33.198:40435->182.1.103.227:64071: read: connection reset by peer
+2018/06/24 07:02:30 read tcp 172.104.33.198:40435->180.247.159.14:64693: read: connection reset by peer
+2018/06/24 07:11:01 read tcp 172.104.33.198:40435->180.247.159.14:7013: read: connection timed out
+2018/06/24 07:59:56 read tcp 172.104.33.198:40435->180.247.159.14:64864: read: connection timed out
+2018/06/24 08:06:37 websocket: close 1001 (going away)
+2018/06/24 08:36:48 read tcp 172.104.33.198:40435->180.247.159.14:65039: read: connection timed out
+2018/06/24 16:11:33 Service InsertFile: Started
+2018/06/24 16:11:33 InsertFile params: 
+{
+  "data": [
+    {
+      "content": "Jakarta, Kompas.com - Anak- anak kerap mengisi baris kedua kendaraan saat bepergian dengan mobil bersama keluarga. Bagi yang membawa anak kecil di bawah 10 tahun harus biasanya punya aktivitas yang terkadang membuat repot. Menjadi berbahaya ketika luput dari pengawasan orang tua. Hal yang kerap dilakukan adalah membuka jendela dan mengeluarkan anggota tubuh. Bahkan secara tidak sengaja menarik tuas pembuka pintu dari dalam. Keduanya punya efek yang berbahaya jika dibiarkan. [Baca juga : Mudik, Euforia, Mimpi Buruk dan Kali Kenteng] Untuk masalah pertama bisa diatasi dengan mengaktifkan tombol pengunci jendela. Lokasinya ada di bagian dekat tuas atau tombol pengemudi. Solusi untuk persoalan kedua sebenarnya juga cukup mudah jika Anda menyempatkan diri membaca buku panduan.\r\n\r\nTempatnya mudah dijangkau, yaitu di setiap daun pintu baris kedua. Buka pintu belakang (pintu tengah) lalu lihat sudut sebelah kiri. Tuas kunci pengaman anak ditempatkan di bagian tersebut. [Baca juga : Pahami Fitur Overdrive saat Berkendara] Saat tuas pengaman aktif bisa mencegah pintu dibuka dari kabin atau pintu hanya bisa dibuka dari luar. Sebaliknya, jika tuas kuncinya berada di posisi terbuka maka pintu tersebut bisa dibuka dari dalam dan luar. Nah, jika sudah tahu pastikan saat membawa anak-anak apalagi duduk di jok kedua atau ketiga, tuas kunci berada dalam posisi mengunci, agar menghindari hal yang tidak diinginkan",
+      "id": "2312"
+    }
+  ]
+} 
+
+2018/06/24 16:11:38 websocket: close 1001 (going away)
+2018/06/24 16:12:19 websocket: close 1001 (going away)
+2018/06/24 16:12:26 Service InsertFile: Stopped
+2018/06/24 16:17:00 websocket: close 1001 (going away)
+2018/06/24 16:20:36 Service SyncFile: Started
+2018/06/24 16:21:19 websocket: close 1001 (going away)
+2018/06/24 16:23:16 websocket: close 1001 (going away)
+2018/06/24 16:36:13 websocket: close 1001 (going away)
+2018/06/24 16:37:24 Service SyncFile: Stopped
+2018/06/24 16:53:12 websocket: close 1001 (going away)
+2018/06/24 16:57:49 read tcp 172.104.33.198:40435->180.247.159.14:7041: read: connection reset by peer
+2018/06/24 17:39:14 Service SyncFile: Started
+2018/06/24 17:40:01 Service SyncFile: Stopped
+2018/06/24 17:40:48 Service SyncFile: Started
+2018/06/24 17:40:59 Service SyncFile: Stopped
+2018/06/24 17:41:55 Service SyncFile: Started
+2018/06/24 18:54:45 websocket: close 1001 (going away)
+2018/06/24 18:55:53 http: panic serving 180.247.159.14:62516: runtime error: invalid memory address or nil pointer dereference
+goroutine 30204 [running]:
+net/http.(*conn).serve.func1(0xc429262820)
+	/usr/lib/go-1.8/src/net/http/server.go:1721 +0xd0
+panic(0x7676a0, 0x97b920)
+	/usr/lib/go-1.8/src/runtime/panic.go:489 +0x2cf
+main.NewStateManagerHandler.func2.1(0x958ac0, 0xc42004a0e0, 0xc42000ae00)
+	/var/www/ndo/plansys/components/thrift/server/state.go:149 +0x476
+net/http.HandlerFunc.ServeHTTP(0xc4200ab640, 0x958ac0, 0xc42004a0e0, 0xc42000ae00)
+	/usr/lib/go-1.8/src/net/http/server.go:1942 +0x44
+net/http.(*ServeMux).ServeHTTP(0x9856e0, 0x958ac0, 0xc42004a0e0, 0xc42000ae00)
+	/usr/lib/go-1.8/src/net/http/server.go:2238 +0x130
+net/http.serverHandler.ServeHTTP(0xc420084580, 0x958ac0, 0xc42004a0e0, 0xc42000ae00)
+	/usr/lib/go-1.8/src/net/http/server.go:2568 +0x92
+net/http.(*conn).serve(0xc429262820, 0x958f80, 0xc421204b80)
+	/usr/lib/go-1.8/src/net/http/server.go:1825 +0x612
+created by net/http.(*Server).Serve
+	/usr/lib/go-1.8/src/net/http/server.go:2668 +0x2ce
+2018/06/24 19:02:07 websocket: close 1001 (going away)
+2018/06/24 19:15:35 Service SyncFile: Stopped
+2018/06/24 19:27:56 websocket: close 1001 (going away)
+2018/06/24 19:31:27 Service MappingFile: Started
+2018/06/24 19:31:43 Service MappingFile: Stopped
+2018/06/24 19:34:03 Service SyncFile: Started
+2018/06/24 19:34:04 Service SyncFile: Stopped
+2018/06/24 19:39:21 websocket: close 1001 (going away)
+2018/06/24 19:39:31 websocket: close 1001 (going away)
+2018/06/24 19:39:44 websocket: close 1001 (going away)
+2018/06/24 19:42:01 Service SyncFile: Started
+2018/06/24 19:42:03 Service SyncFile: Stopped
+2018/06/24 19:44:29 Service SyncFile: Started
+2018/06/24 19:44:29 Service SyncFile: Stopped
+2018/06/24 19:44:39 Service SyncFile: Started
+2018/06/24 19:53:03 Service SyncFile: Stopped
+2018/06/24 19:54:42 Service UpdateWord: Started
+2018/06/24 19:54:42 UpdateWord params: 
+{
+  "fileid": "2312",
+  "idMappingFile": 6524679,
+  "isWord": "Y",
+  "tagNew": "|n|",
+  "tagOld": "|n|",
+  "wordNew": "jakartas",
+  "wordOld": "jakarta"
+} 
+
+2018/06/24 19:54:45 Service UpdateWord: Stopped
+2018/06/24 19:54:55 websocket: close 1001 (going away)
+2018/06/24 19:58:51 Service UpdateWord: Started
+2018/06/24 19:58:51 UpdateWord params: 
+{
+  "fileid": "2312",
+  "idMappingFile": 6524679,
+  "isWord": "Y",
+  "tagNew": "|n|",
+  "tagOld": "|n|",
+  "wordNew": "Jakarta",
+  "wordOld": "jakartas"
+} 
+
+2018/06/24 19:58:54 Service UpdateWord: Stopped
+2018/06/24 19:59:20 Service UpdateWord: Started
+2018/06/24 19:59:20 UpdateWord params: 
+{
+  "fileid": "2312",
+  "idMappingFile": 6524679,
+  "isWord": "Y",
+  "tagNew": "|n|",
+  "tagOld": "|n|",
+  "wordNew": "jakartas",
+  "wordOld": "jakarta"
+} 
+
+2018/06/24 19:59:23 Service UpdateWord: Stopped
+2018/06/24 20:00:54 Service UpdateWord: Started
+2018/06/24 20:00:54 UpdateWord params: 
+{
+  "fileid": "2312",
+  "idMappingFile": 6524679,
+  "isWord": "Y",
+  "tagNew": "|n|",
+  "tagOld": "|n|",
+  "wordNew": "Jakarta",
+  "wordOld": "jakartas"
+} 
+
+2018/06/24 20:00:57 Service UpdateWord: Stopped
+2018/06/24 20:01:32 Service UpdateWord: Started
+2018/06/24 20:01:32 UpdateWord params: 
+{
+  "fileid": "2312",
+  "idMappingFile": 6524679,
+  "isWord": "Y",
+  "tagNew": "|n|",
+  "tagOld": "|n|",
+  "wordNew": "jakartas",
+  "wordOld": "jakarta"
+} 
+
+2018/06/24 20:01:33 Service UpdateWord: Stopped
+2018/06/24 20:02:21 Service UpdateWord: Started
+2018/06/24 20:02:21 UpdateWord params: 
+{
+  "fileid": "2312",
+  "idMappingFile": 6524679,
+  "isWord": "Y",
+  "tagNew": "|n|",
+  "tagOld": "|n|",
+  "wordNew": "jakartas",
+  "wordOld": "jakarta"
+} 
+
+2018/06/24 20:02:23 Service UpdateWord: Stopped
+2018/06/24 20:02:54 Service UpdateWord: Started
+2018/06/24 20:02:54 UpdateWord params: 
+{
+  "fileid": "2312",
+  "idMappingFile": 6524679,
+  "isWord": "Y",
+  "tagNew": "|n|",
+  "tagOld": "|n|",
+  "wordNew": "jakartas",
+  "wordOld": "jakarta"
+} 
+
+2018/06/24 20:02:56 Service UpdateWord: Stopped
+2018/06/24 20:05:28 Service UpdateWord: Started
+2018/06/24 20:05:28 UpdateWord params: 
+{
+  "fileid": "2312",
+  "idMappingFile": 6524679,
+  "isWord": "Y",
+  "tagNew": "|n|",
+  "tagOld": "|n|",
+  "wordNew": "jakartas",
+  "wordOld": "jakarta"
+} 
+
+2018/06/24 20:05:30 Service UpdateWord: Stopped
+2018/06/24 20:07:48 Service UpdateWord: Started
+2018/06/24 20:07:48 UpdateWord params: 
+{
+  "fileid": "2312",
+  "idMappingFile": 6524679,
+  "isWord": "Y",
+  "tagNew": "|n|",
+  "tagOld": "|n|",
+  "wordNew": "jakartas",
+  "wordOld": "jakarta"
+} 
+
+2018/06/24 20:07:50 Service UpdateWord: Stopped
+2018/06/24 20:10:08 Service UpdateWord: Started
+2018/06/24 20:10:08 UpdateWord params: 
+{
+  "fileid": "2312",
+  "idMappingFile": 6524679,
+  "isWord": "Y",
+  "tagNew": "|n|",
+  "tagOld": "|n|",
+  "wordNew": "jakartas",
+  "wordOld": "jakarta"
+} 
+
+2018/06/24 20:10:10 Service UpdateWord: Stopped
+2018/06/24 20:10:39 Service UpdateWord: Started
+2018/06/24 20:10:39 UpdateWord params: 
+{
+  "fileid": "2312",
+  "idMappingFile": 6524679,
+  "isWord": "Y",
+  "tagNew": "|n|",
+  "tagOld": "|n|",
+  "wordNew": "jakartas",
+  "wordOld": "jakarta"
+} 
+
+2018/06/24 20:10:42 Service UpdateWord: Stopped
+2018/06/24 20:10:58 Service UpdateWord: Started
+2018/06/24 20:10:58 UpdateWord params: 
+{
+  "fileid": "2312",
+  "idMappingFile": 6524679,
+  "isWord": "Y",
+  "tagNew": "|n|",
+  "tagOld": "|n|",
+  "wordNew": "Jakarta",
+  "wordOld": "jakartas"
+} 
+
+2018/06/24 20:11:01 Service UpdateWord: Stopped
+2018/06/24 20:11:14 Service UpdateWord: Started
+2018/06/24 20:11:14 UpdateWord params: 
+{
+  "fileid": "2312",
+  "idMappingFile": 6524679,
+  "isWord": "Y",
+  "tagNew": "|n|",
+  "tagOld": "|n|",
+  "wordNew": "Jakartas",
+  "wordOld": "jakarta"
+} 
+
+2018/06/24 20:11:18 Service UpdateWord: Stopped
+2018/06/24 20:12:26 Service UpdateWord: Started
+2018/06/24 20:12:26 UpdateWord params: 
+{
+  "fileid": "2312",
+  "idMappingFile": 6524917,
+  "isWord": "Y",
+  "tagNew": "|x|",
+  "tagOld": "|x|",
+  "wordNew": "diinginkans",
+  "wordOld": "diinginkan"
+} 
+
+2018/06/24 20:12:29 Service UpdateWord: Stopped
+2018/06/24 20:13:06 Service UpdateWord: Started
+2018/06/24 20:13:06 UpdateWord params: 
+{
+  "fileid": "2312",
+  "idMappingFile": 6524681,
+  "isWord": "Y",
+  "tagNew": "|x|",
+  "tagOld": "|x|",
+  "wordNew": "kompas",
+  "wordOld": "kompas.com"
+} 
+
+2018/06/24 20:13:09 Service UpdateWord: Stopped
+2018/06/24 20:17:24 Service UpdateWord: Started
+2018/06/24 20:17:24 UpdateWord params: 
+{
+  "fileid": "2312",
+  "idMappingFile": 6524917,
+  "isWord": "Y",
+  "tagNew": "|x|",
+  "tagOld": "|x|",
+  "wordNew": "diinginkan",
+  "wordOld": "diinginkans"
+} 
+
+2018/06/24 20:17:26 Service UpdateWord: Stopped
+2018/06/24 20:18:17 Service UpdateWord: Started
+2018/06/24 20:18:17 UpdateWord params: 
+{
+  "fileid": "2312",
+  "idMappingFile": 6524917,
+  "isWord": "Y",
+  "tagNew": "|x|",
+  "tagOld": "|x|",
+  "wordNew": "diinginkan",
+  "wordOld": "diinginkans"
+} 
+
+2018/06/24 20:18:19 Service UpdateWord: Stopped
+2018/06/24 20:19:44 Service UpdateWord: Started
+2018/06/24 20:19:44 UpdateWord params: 
+{
+  "fileid": "2312",
+  "idMappingFile": 6524917,
+  "isWord": "Y",
+  "tagNew": "|x|",
+  "tagOld": "|x|",
+  "wordNew": "diinginkan",
+  "wordOld": "diinginkans"
+} 
+
+2018/06/24 20:19:46 Service UpdateWord: Stopped
+2018/06/24 20:20:25 Service UpdateWord: Started
+2018/06/24 20:20:25 UpdateWord params: 
+{
+  "fileid": "2312",
+  "idMappingFile": 6524917,
+  "isWord": "Y",
+  "tagNew": "|x|",
+  "tagOld": "|x|",
+  "wordNew": "diinginkanx",
+  "wordOld": "diinginkans"
+} 
+
+2018/06/24 20:20:28 Service UpdateWord: Stopped
+2018/06/24 20:20:50 Service UpdateWord: Started
+2018/06/24 20:20:50 UpdateWord params: 
+{
+  "fileid": "2312",
+  "idMappingFile": 6524917,
+  "isWord": "Y",
+  "tagNew": "|x|",
+  "tagOld": "|x|",
+  "wordNew": "diinginkan",
+  "wordOld": "diinginkanx"
+} 
+
+2018/06/24 20:20:54 Service UpdateWord: Stopped
+2018/06/24 20:21:46 Service UpdateWord: Started
+2018/06/24 20:21:46 UpdateWord params: 
+{
+  "fileid": "2312",
+  "idMappingFile": 6524679,
+  "isWord": "Y",
+  "tagNew": "|n|",
+  "tagOld": "|n|",
+  "wordNew": "Jakarta",
+  "wordOld": "jakartas"
+} 
+
+2018/06/24 20:21:50 Service UpdateWord: Stopped
+2018/06/24 20:22:02 Service UpdateWord: Started
+2018/06/24 20:22:02 UpdateWord params: 
+{
+  "fileid": "2312",
+  "idMappingFile": 6524681,
+  "isWord": "Y",
+  "tagNew": "|x|",
+  "tagOld": "|x|",
+  "wordNew": "Kompas.com",
+  "wordOld": "kompas"
+} 
+
+2018/06/24 20:22:06 Service UpdateWord: Stopped
+2018/06/24 20:23:57 Service UpdateWord: Started
+2018/06/24 20:23:57 UpdateWord params: 
+{
+  "fileid": "2312",
+  "idMappingFile": 6524681,
+  "isWord": "Y",
+  "tagNew": "|n|",
+  "tagOld": "|x|",
+  "wordNew": "kompas.com",
+  "wordOld": "kompas.com"
+} 
+
+2018/06/24 20:23:59 Service UpdateWord: Stopped
+2018/06/24 20:25:47 Service UpdateWord: Started
+2018/06/24 20:25:47 UpdateWord params: 
+{
+  "fileid": "2312",
+  "idMappingFile": 6524679,
+  "isWord": "Y",
+  "tagNew": "|n|",
+  "tagOld": "|n|",
+  "wordNew": "jakartas",
+  "wordOld": "jakarta"
+} 
+
+2018/06/24 20:25:50 Service UpdateWord: Stopped
+2018/06/24 20:27:18 Service UpdateWord: Started
+2018/06/24 20:27:18 UpdateWord params: 
+{
+  "fileid": "2312",
+  "idMappingFile": 6524679,
+  "isWord": "Y",
+  "tagNew": "|n|",
+  "tagOld": "|n|",
+  "wordNew": "Jakarta",
+  "wordOld": "jakartas"
+} 
+
+2018/06/24 20:27:20 Service UpdateWord: Stopped
+2018/06/24 20:27:45 Service UpdateWord: Started
+2018/06/24 20:27:45 UpdateWord params: 
+{
+  "fileid": "2312",
+  "idMappingFile": 6524679,
+  "isWord": "Y",
+  "tagNew": "|n|",
+  "tagOld": "|n|",
+  "wordNew": "jakartas",
+  "wordOld": "jakarta"
+} 
+
+2018/06/24 20:27:49 Service UpdateWord: Stopped
+2018/06/24 20:28:25 Service UpdateWord: Started
+2018/06/24 20:28:25 UpdateWord params: 
+{
+  "fileid": "2312",
+  "idMappingFile": 6524679,
+  "isWord": "Y",
+  "tagNew": "|n|",
+  "tagOld": "|n|",
+  "wordNew": "Jakarta",
+  "wordOld": "jakartas"
+} 
+
+2018/06/24 20:28:30 Service UpdateWord: Stopped
+2018/06/24 20:55:07 Service UpdateWord: Started
+2018/06/24 20:55:07 UpdateWord params: 
+{
+  "fileid": "2312",
+  "idMappingFile": 6524679,
+  "isWord": "Y",
+  "tagNew": "|n|",
+  "tagOld": "|n|",
+  "wordNew": "jakartas",
+  "wordOld": "jakarta"
+} 
+
+2018/06/24 20:55:11 Service UpdateWord: Stopped
+2018/06/24 20:58:49 Service UpdateWord: Started
+2018/06/24 20:58:49 UpdateWord params: 
+{
+  "fileid": "2312",
+  "idMappingFile": 6524679,
+  "isWord": "Y",
+  "tagNew": "|n|",
+  "tagOld": "|n|",
+  "wordNew": "Jakarta",
+  "wordOld": "jakartas"
+} 
+
+2018/06/24 20:58:52 Service UpdateWord: Stopped
+2018/06/24 20:59:35 Service UpdateWord: Started
+2018/06/24 20:59:35 UpdateWord params: 
+{
+  "fileid": "2312",
+  "idMappingFile": 6524679,
+  "isWord": "Y",
+  "tagNew": "|n|",
+  "tagOld": "|n|",
+  "wordNew": "jakartas",
+  "wordOld": "jakarta"
+} 
+
+2018/06/24 20:59:38 Service UpdateWord: Stopped
+2018/06/24 20:59:51 Service UpdateWord: Started
+2018/06/24 20:59:51 UpdateWord params: 
+{
+  "fileid": "2312",
+  "idMappingFile": 6524679,
+  "isWord": "Y",
+  "tagNew": "|n|",
+  "tagOld": "|n|",
+  "wordNew": "Jakarta",
+  "wordOld": "jakartas"
+} 
+
+2018/06/24 20:59:54 Service UpdateWord: Stopped
+2018/06/24 21:00:30 Service UpdateWord: Started
+2018/06/24 21:00:30 UpdateWord params: 
+{
+  "fileid": "2312",
+  "idMappingFile": 6524679,
+  "isWord": "Y",
+  "tagNew": "|n|",
+  "tagOld": "|n|",
+  "wordNew": "jakartas",
+  "wordOld": "jakarta"
+} 
+
+2018/06/24 21:00:33 Service UpdateWord: Stopped
+2018/06/24 21:00:46 Service UpdateWord: Started
+2018/06/24 21:00:46 UpdateWord params: 
+{
+  "fileid": "2312",
+  "idMappingFile": 6524679,
+  "isWord": "Y",
+  "tagNew": "|n|",
+  "tagOld": "|n|",
+  "wordNew": "Jakarta",
+  "wordOld": "jakartas"
+} 
+
+2018/06/24 21:00:48 Service UpdateWord: Stopped
+2018/06/24 21:01:59 Service UpdateWord: Started
+2018/06/24 21:01:59 UpdateWord params: 
+{
+  "fileid": "2312",
+  "idMappingFile": 6524679,
+  "isWord": "Y",
+  "tagNew": "|n|,|s|",
+  "tagOld": "|n|",
+  "wordNew": "jakarta",
+  "wordOld": "jakarta"
+} 
+
+2018/06/24 21:02:00 Service UpdateWord: Stopped
+2018/06/24 21:02:08 Service UpdateWord: Started
+2018/06/24 21:02:08 UpdateWord params: 
+{
+  "fileid": "2312",
+  "idMappingFile": 6524679,
+  "isWord": "Y",
+  "tagNew": "|n|",
+  "tagOld": "|n|",
+  "wordNew": "jakartas",
+  "wordOld": "jakarta"
+} 
+
+2018/06/24 21:02:11 Service UpdateWord: Stopped
+2018/06/24 21:02:25 Service UpdateWord: Started
+2018/06/24 21:02:25 UpdateWord params: 
+{
+  "fileid": "2312",
+  "idMappingFile": 6524679,
+  "isWord": "Y",
+  "tagNew": "|n|,|x|",
+  "tagOld": "|n|",
+  "wordNew": "jakartas",
+  "wordOld": "jakartas"
+} 
+
+2018/06/24 21:02:27 Service UpdateWord: Stopped
+2018/06/24 21:02:37 Service UpdateWord: Started
+2018/06/24 21:02:37 UpdateWord params: 
+{
+  "fileid": "2312",
+  "idMappingFile": 6524679,
+  "isWord": "Y",
+  "tagNew": "|n|",
+  "tagOld": "|n|,|x|",
+  "wordNew": "jakartas",
+  "wordOld": "jakartas"
+} 
+
+2018/06/24 21:02:38 Service UpdateWord: Stopped
+2018/06/24 21:02:51 Service UpdateWord: Started
+2018/06/24 21:02:51 UpdateWord params: 
+{
+  "fileid": "2312",
+  "idMappingFile": 6524679,
+  "isWord": "Y",
+  "tagNew": "|n|",
+  "tagOld": "|n|",
+  "wordNew": "Jakarta",
+  "wordOld": "jakartas"
+} 
+
+2018/06/24 21:02:54 Service UpdateWord: Stopped
+2018/06/24 21:03:28 Service DeleteFile: Started
+2018/06/24 21:03:28 DeleteFile params: 
+null 
+
+2018/06/24 21:04:00 websocket: close 1001 (going away)
+2018/06/24 21:04:20 Service DeleteFile: Stopped
+2018/06/24 21:05:21 Service SyncFile: Started
+2018/06/24 21:05:23 Service SyncFile: Stopped
+2018/06/24 21:05:38 Service SyncFile: Started
+2018/06/24 21:05:40 Service SyncFile: Stopped
+2018/06/24 21:05:57 Service SyncFile: Started
+2018/06/24 21:05:59 Service SyncFile: Stopped
+2018/06/24 21:07:59 Service SyncFile: Started
+2018/06/24 21:08:26 websocket: close 1001 (going away)
+2018/06/24 21:08:51 Service SyncFile: Stopped
+2018/06/24 21:10:26 Service SyncFile: Started
+2018/06/24 21:10:53 websocket: close 1001 (going away)
+2018/06/24 21:11:13 Service SyncFile: Stopped
+2018/06/24 21:11:40 websocket: close 1001 (going away)
+2018/06/24 21:12:03 Service SyncFile: Started
+2018/06/24 21:12:18 Service SyncFile: Stopped
+2018/06/24 21:17:42 Service SyncFile: Started
+2018/06/24 21:18:12 Service SyncFile: Started
+2018/06/24 21:18:20 Service SyncFile: Started
+2018/06/24 21:18:24 websocket: close 1001 (going away)
+2018/06/24 21:18:27 http: panic serving 182.1.74.247:59048: runtime error: invalid memory address or nil pointer dereference
+goroutine 45773 [running]:
+net/http.(*conn).serve.func1(0xc4212590e0)
+	/usr/lib/go-1.8/src/net/http/server.go:1721 +0xd0
+panic(0x7676a0, 0x97b920)
+	/usr/lib/go-1.8/src/runtime/panic.go:489 +0x2cf
+main.NewStateManagerHandler.func2.1(0x958ac0, 0xc42004a1c0, 0xc42872c400)
+	/var/www/ndo/plansys/components/thrift/server/state.go:149 +0x476
+net/http.HandlerFunc.ServeHTTP(0xc4200ab640, 0x958ac0, 0xc42004a1c0, 0xc42872c400)
+	/usr/lib/go-1.8/src/net/http/server.go:1942 +0x44
+net/http.(*ServeMux).ServeHTTP(0x9856e0, 0x958ac0, 0xc42004a1c0, 0xc42872c400)
+	/usr/lib/go-1.8/src/net/http/server.go:2238 +0x130
+net/http.serverHandler.ServeHTTP(0xc420084580, 0x958ac0, 0xc42004a1c0, 0xc42872c400)
+	/usr/lib/go-1.8/src/net/http/server.go:2568 +0x92
+net/http.(*conn).serve(0xc4212590e0, 0x958f80, 0xc421209640)
+	/usr/lib/go-1.8/src/net/http/server.go:1825 +0x612
+created by net/http.(*Server).Serve
+	/usr/lib/go-1.8/src/net/http/server.go:2668 +0x2ce
+2018/06/24 21:18:33 Service SyncFile: Stopped
+2018/06/24 21:18:33 Service SyncFile: Stopped
+2018/06/24 21:18:33 Service SyncFile: Stopped
+2018/06/24 21:20:03 Service SyncFile: Started
+2018/06/24 21:20:44 Service SyncFile: Stopped
+2018/06/24 21:20:46 websocket: close 1001 (going away)
+2018/06/24 21:20:51 Service SyncFile: Started
+2018/06/24 21:21:04 Service SyncFile: Stopped
+2018/06/24 21:21:19 Service SyncFile: Started
+2018/06/24 21:21:43 Service SyncFile: Stopped
+2018/06/24 21:22:11 websocket: close 1001 (going away)
+2018/06/24 21:30:50 Service MappingFile_step2: Started
+2018/06/24 21:30:51 Service MappingFile_step2: Stopped
+2018/06/24 21:31:35 Service MappingFile: Started
+2018/06/24 21:31:51 Service MappingFile: Stopped
+2018/06/24 21:31:54 websocket: close 1001 (going away)
+2018/06/24 21:32:01 Service MappingFile_step2: Started
+2018/06/24 21:32:03 Service MappingFile_step2: Stopped
+2018/06/24 21:34:40 websocket: close 1001 (going away)
+2018/06/24 21:35:31 websocket: close 1001 (going away)
+2018/06/24 21:42:42 Service SyncFile: Started
+2018/06/24 21:42:57 websocket: close 1001 (going away)
+2018/06/24 21:43:24 websocket: close 1001 (going away)
+2018/06/24 21:44:08 websocket: close 1001 (going away)
+2018/06/24 21:44:37 websocket: close 1001 (going away)
+2018/06/24 21:44:50 Service SyncFile: Stopped
+2018/06/24 21:45:11 Service SyncFile: Started
+2018/06/24 21:45:11 Service SyncFile: Stopped
+2018/06/24 21:45:14 websocket: close 1001 (going away)
+2018/06/24 21:45:34 Service SyncFile: Started
+2018/06/24 21:45:34 Service SyncFile: Stopped
+2018/06/24 21:45:36 websocket: close 1001 (going away)
+2018/06/24 21:46:14 Service SyncFile: Started
+2018/06/24 21:46:16 Service SyncFile: Stopped
+2018/06/24 21:47:08 Service SyncFile: Started
+2018/06/24 21:47:12 websocket: close 1001 (going away)
+2018/06/24 21:47:44 Service SyncFile: Stopped
+2018/06/24 21:48:38 Service SyncFile: Started
+2018/06/24 21:48:46 websocket: close 1001 (going away)
+2018/06/24 21:49:26 Service SyncFile: Stopped
+2018/06/24 21:50:19 Service SyncFile: Started
+2018/06/24 21:50:23 Service SyncFile: Stopped
+2018/06/24 21:52:29 Service SyncFile: Started
+2018/06/24 21:52:43 Service SyncFile: Stopped
+2018/06/24 21:54:30 Service SyncFile: Started
+2018/06/24 22:03:42 read tcp 172.104.33.198:40435->182.1.74.247:51558: read: connection reset by peer
+2018/06/24 22:12:49 read tcp 172.104.33.198:40435->180.247.159.14:61869: read: no route to host
+2018/06/24 22:16:01 websocket: close 1001 (going away)
+2018/06/24 22:16:02 websocket: close 1001 (going away)
+2018/06/24 23:48:38 Service SyncFile: Stopped
+2018/06/25 04:07:41 Service UpdateWord: Started
+2018/06/25 04:07:41 UpdateWord params: 
+{
+  "fileid": "70",
+  "idMappingFile": 150090,
+  "isWord": "Y",
+  "tagNew": "|t|",
+  "tagOld": "|p|",
+  "wordNew": "dan",
+  "wordOld": "dan"
+} 
+
+2018/06/25 04:07:43 Service UpdateWord: Stopped
+2018/06/25 04:08:34 Service UpdateWord: Started
+2018/06/25 04:08:34 UpdateWord params: 
+{
+  "fileid": "70",
+  "idMappingFile": 150090,
+  "isWord": "Y",
+  "tagNew": "|p|",
+  "tagOld": "|t|",
+  "wordNew": "dan",
+  "wordOld": "dan"
+} 
+
+2018/06/25 04:08:36 Service UpdateWord: Stopped
+2018/06/25 04:20:15 Service UpdateWord: Started
+2018/06/25 04:20:15 UpdateWord params: 
+{
+  "fileid": "70",
+  "idMappingFile": 150079,
+  "isWord": "Y",
+  "tagNew": "|adv|",
+  "tagOld": "|t|",
+  "wordNew": ":",
+  "wordOld": ":"
+} 
+
+2018/06/25 04:20:16 Service UpdateWord: Stopped
+2018/06/25 04:22:28 Service UpdateWord: Started
+2018/06/25 04:22:28 UpdateWord params: 
+{
+  "fileid": "70",
+  "idMappingFile": 150079,
+  "isWord": "Y",
+  "tagNew": "|t|",
+  "tagOld": "|adv|",
+  "wordNew": ":",
+  "wordOld": ":"
+} 
+
+2018/06/25 04:22:30 Service UpdateWord: Stopped
+2018/06/25 04:35:19 websocket: close 1001 (going away)
+2018/06/25 04:38:56 websocket: close 1001 (going away)
+2018/06/25 05:48:52 websocket: close 1001 (going away)
+2018/06/25 06:28:40 read tcp 172.104.33.198:40435->117.102.229.142:53386: read: connection timed out
+2018/06/25 06:29:07 read tcp 172.104.33.198:40435->117.102.229.142:60072: read: connection timed out
+2018/06/25 06:34:21 read tcp 172.104.33.198:40435->117.102.229.142:60612: read: connection timed out
+2018/06/25 06:46:22 read tcp 172.104.33.198:40435->114.125.100.145:60128: read: connection reset by peer
+2018/06/25 06:53:46 websocket: close 1001 (going away)
+2018/07/06 02:19:15 Service SyncFile: Started
+2018/07/06 05:16:30 Service SyncFile: Stopped
+2018/07/06 06:25:41 Service SyncFile: Started
+2018/07/06 09:33:43 Service SyncFile: Stopped
+2018/08/07 09:03:55 Service InsertSentences: Started
+2018/08/07 09:03:55 Service InsertSentences: Stopped
+2018/08/07 09:04:09 Service InsertSentences: Started
+2018/08/07 09:04:09 Service InsertSentences: Stopped
+2018/08/07 09:05:31 Service InsertSentences: Started
+2018/08/07 09:05:31 Service InsertSentences: Stopped
+2018/08/07 09:05:39 Service InsertSentences: Started
+2018/08/07 09:05:39 Service InsertSentences: Stopped
+2018/08/07 09:05:46 Service InsertSentences: Started
+2018/08/07 09:05:46 Service InsertSentences: Stopped
+2018/08/07 09:06:02 Service InsertSentences: Started
+2018/08/07 09:06:02 Service InsertSentences: Stopped
+2018/08/07 09:09:55 Service InsertSentences: Started
+2018/08/07 09:09:55 Service InsertSentences: Stopped
+2018/08/07 09:10:06 Service InsertSentences: Started
+2018/08/07 09:10:06 Service InsertSentences: Stopped
+2018/08/07 09:10:28 Service InsertSentences: Started
+2018/08/07 09:10:28 Service InsertSentences: Stopped
+2018/08/07 09:12:55 Service InsertSentences: Started
+2018/08/07 09:12:55 Service InsertSentences: Stopped
+2018/08/07 09:15:11 Service InsertSentences: Started
+2018/08/07 09:20:04 Service InsertSentences: Stopped
+2018/08/07 09:21:02 Service InsertSentences: Started
+2018/08/07 09:21:02 Service InsertSentences: Stopped
+2018/08/07 09:21:04 websocket: close 1001 (going away)
+2018/08/07 09:21:21 Service InsertSentences: Started
+2018/08/07 09:21:21 Service InsertSentences: Stopped
+2018/08/07 09:23:14 websocket: close 1001 (going away)
+2018/09/19 23:38:47 websocket: not a websocket handshake: 'upgrade' token not found in 'Connection' header
+2018/09/19 23:38:47 websocket: not a websocket handshake: request method is not GET
+2018/09/19 23:39:13 websocket: not a websocket handshake: 'upgrade' token not found in 'Connection' header
+2018/09/24 01:51:45 Service DeleteFile: Started
+2018/09/24 01:51:45 DeleteFile params: 
+null 
+
+2018/09/24 01:53:48 Service DeleteFile: Stopped
+2018/09/24 01:55:08 Service DeleteFile: Started
+2018/09/24 01:55:08 DeleteFile params: 
+null 
+
+2018/09/24 01:57:13 Service DeleteFile: Stopped

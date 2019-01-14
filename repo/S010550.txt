@@ -1,0 +1,794 @@
+﻿APPRAISAL KEBERLANJUTAN MULTIDIMENSI PENGGUNAAN
+LAHAN UNTUK SAWAH DI KARAWANG - JAWA BARAT
+
+ABSTRAK
+Kedaulatan pangan nasional sangat bergantung pada penyediaan beras dari lahan sawah di Pulau
+Jawa. Banyak faktor berpengaruh terhadap keputusan petani untuk melanjutkan penggunaan lahan
+sawahnya. Penelitian ini bertujuan untuk menganalisis keberlanjutan penggunaan lahan sawah,
+faktor penentu dan kebijakan peningkatan keberlanjutannya. Penelitian dilakukan di Karawang, salah
+satu sentra produksi padi Jawa Barat. Metodologi yang digunakan adalah multi-dimensional scalling
+(MDS) menggunakan 43 atribut dari 5 dimensi (ekologi, sosial, ekonomi, teknologi dan hukum, dan kelembagaan). Terhadap atribut sensitif hasil
+analisis MDS, dilakukan analisis prospektif
+untuk menentukan faktor kunci keberlanjutan.
+Prioritas kebijakan peningkatan keberlanjutan
+disusun berdasarkan letak faktor kunci pada
+diagram prospektif. Hasil penelitian
+menunjukkan bahwa penggunaan lahan untuk
+sawah di Karawang saat ini kurang
+berkelanjutan. Peningkatan keberlanjutan
+penggunaan lahan untuk sawah dapat dilakukan
+melalui intervensi dan perbaikan kinerja,
+diutamakan pada atribut sensitif hasil analisis
+leverage yang meliputi 16 atribut. Prioritas
+kebijakan diarahkan pada 5 faktor kunci hasil
+analisis prospektif. Kebijakan yang disarankan
+berdasarkan faktor kunci tersebut adalah
+pengetatan terhadap permohonan izin
+mendirikan bangunan baru, pelaksanaan
+Rencana Tata Ruang Wilayah kabupaten secara
+konsisten dan delineasi lahan pertanian pangan
+berkelanjutan, penyuluhan kepada masyarakat,
+revitalisasi peran BULOG, pemberian subsidi,
+dan bantuan modal usaha kepada petani.
+Kata kunci: Perencanaan penggunaan lahan,
+Pembangunan berkelanjutan, Lahan pertanian
+
+
+
+
+PENGANTAR
+Beras merupakan pangan pokok bagi
+95% penduduk Indonesia (Swastika et al.,
+2007) yang berjumlah lebih dari 237 juta jiwa
+(BPS, 2010). Dengan tingkat konsumsi
+mencapai 113 kg/kapita/tahun, kebutuhan
+beras Indonesia sangat tinggi. Lebih dari
+95% beras dihasilkan dari lahan sawah
+(Swastika et al., 2007) mengimplikasikan
+pentingnya lahan sawah. Persoalannya, dari
+lahan sawah di Indonesia yang seluas
+13.835.252 ha (BPS, 2014), seluas 6.467.073 ha atau 10% produksi padi Jawa Barat (BPS,
+2013). Persoalan penggunaan lahan untuk
+sawah di Karawang hampir sama dengan
+persoalan yang dihadapi di sentra produksi
+padi lain di Pulau Jawa, sawah telah secara
+signifikan berkurang dalam beberapa tahun
+terakhir. Hasil penelitian Widiatmaka et al.
+(2013) menunjukkan bahwa lahan sawah di
+Karawang telah berkurang dari 120.865 ha
+pada tahun 2000, menjadi 95.926 ha pada
+tahun 2011. Pengurangan ini berakibat
+berkurangnya kemampuan wilayah untuk
+mengekspor beras keluar wilayah, yang jika
+dihitung pengurangannya mencapai 10%
+dalam dekade terakhir. Bagi Karawang,
+tekanan terhadap lahan lebih berat karena
+kedekatan lokasinya dengan ibukota negara,
+Jakarta. Kedekatan wilayah pertanian
+dengan kota besar memperbesar peluang
+konversi lahan (Hidajat et al., 2013) karena
+rendahnya land rent lahan pertanian,
+dibandingkan dengan penggunaan lahan
+untuk industri dan pemukiman.
+Pertanian umumnya dan penyediaan
+pangan khususnya dapat ber kelanjutan,
+perlu diterapkan konsep pembangunan
+berkelanjutan (sustainable
+deve lop ment). Pembangunan berkelanjutan
+adalah pembangunan yang dapat memenuhi
+kebutuhan saat ini tanpa mengorbankan kemampuan
+generasi mendatang untuk
+memenuhi kebutuhan mereka (WCED,
+1987). Dalam substansi konsep ini, aspek
+ekologi, sosial dan ekonomi harus dapat
+terpenuhi secara simultan agar tidak terjadi
+trade-off diantara kepentingan yang berbeda
+(Munasinghe, 1993). Dalam penerapan
+selanjutnya, aspek pembangunan
+berkelanjutan tidak hanya sebatas aspek
+ekologi, ekonomi dan sosial saja, namun
+dapat bertambah tergantung kebutuhan
+wilayah yang sedang dikaji. Sebagai contoh,
+Pitcher et al. (2013) menambahkan dimensi
+teknologi, etika dan kelembagaan.
+Keberlanjutan di bidang pertanian merujuk
+pada sistem pertanian yang layak secara
+ekonomi, mampu meningkatkan kualitas
+hidup petani dan masyarakat pedesaan, dan
+memperbaiki kualitas lingkungan (European
+Commission, 2010; Fauzi dan Oxtavianus,
+2014). Pertanian berkelanjutan telah menjadi
+isu sentral pembangunan berkelanjutan
+yang menyangkut pengembangan sistem
+manusia–lingkungan yang kompleks
+(Pollock et al. 2008; Wu et al., 2010). Dalam
+hal penggunaan lahan untuk sawah, karena
+pentingnya perannya sebagai pemasok
+pangan, penggunaan lahan perlu dilakukan
+secara bijaksana (Yoon, 2009; Kim et al., 2006).
+Banyak metoda telah dikembangkan
+untuk menilai keberlanjutan (Zhou et al.,
+2010; Sikdar, 2012). Penilaian dapat dilakukan
+misalnya melalui evaluasi daur
+pertumbuhan (life cycle assessment)
+(Panichelli et al., 2009; Hou et al., 2011),
+pengambilan keputusan multi-kriteria
+(Nzila et al., 2012), analisis tapak ekologi
+(ecological footprint) (Stoeglehner dan
+Narodoslawsky, 2009) dan lain-lain.
+Keberlanjutan penggunaan lahan, beberapa
+metoda empiris diterapkan oleh Braimoh
+dan Osaki (2010) dan Salazar-Ordonez et al.
+(2013). Salah satu metoda cepat (appraisal)
+untuk mengukur keberlanjutan antara lain
+digunakan oleh Kavanagh (2001) dan
+Pitcher et al. (2013). Metoda appraisal ini
+mengukur status keberlanjutan
+(sustainability status) secara cepat melalui
+analisis dari berbagai sudut pandang atau
+dikenal dengan multidimensi, dengan
+menyertakan parameter atau atribut ekologi,
+ekonomi, sosial, etika, dan lain-lain.
+Kajian bertujuan, yaitu (1) mengukur
+indeks dan status keberlanjutan
+multidimensi penggunaan lahan sawah; (2)
+mengukur indeks keberlanjutan masingmasing
+dimensi (ekologi, ekonomi, sosial,
+teknologi, dan hukum serta kelembagaan);
+(3) mengidentifikasi atribut/avariabel
+penggunaan lahan sawah yang sensitif
+terhadap perubahan; dan (4) melihat
+variabel yang dominan dalam sistem
+penggunaan lahan sawah untuk
+menentukan strategi peningkatan
+keberlanjutannya. Tercapainya tujuan ini di
+Karawang akan menjadi pembelajaran bagi
+penjagaan penggunaan lahan untuk sawah
+di Indonesia guna menjaga kecukupan
+pangan nasional.
+atau 46,7% berada di Pulau Jawa. Dari luas
+tersebut, lahan sawah di Pulau Jawa
+memproduksi 52,6% total produksi padi
+Indonesia. Angka-angka ini menunjukkan
+tingginya ketergantungan Indonesia
+terhadap produksi padi dari lahan sawah di
+Pulau Jawa.
+Dengan luas Pulau Jawa yang kurang
+dari 7% luas wilyah Indonesia, artinya
+lahannya terbatas, ketergantungan ini
+sangat berisiko bagi kedaulatan pangan
+nasional. Padahal, berbagai persoalan
+kompleks dihadapi oleh lahan sawah di
+Pulau Jawa.
+Pulau ini merupakan pulau dengan penduduk
+terpadat, menyebabkan tekanan yang
+sangat tinggi terhadap lahan. Kebutuhan
+infrastruktur seperti perumahan, jalan dan
+industri telah menyebabkan terjadinya
+konversi lahan pertanian yang sangat tinggi.
+Data periode 1989 sampai 2000 menunjukkan
+bahwa konversi lahan sawah di Pulau Jawa
+mencapai 1,07 juta ha (Abdurachman et al.,
+2005). Jika fenomena ini berlanjut, kedaulatan
+pangan Indonesia terancam, mengingat
+upaya menurunkan tingkat konsumsi beras
+misalnya, diperkirakan masih memerlukan
+waktu lama. Meskipun pemerintah telah
+menerbitkan UU No. 41 Tahun 2009 tentang
+Perlindungan Lahan Pertanian Pangan Berkelanjutan,
+tetapi implementasinya masih
+jauh dari harapan karena kompleksnya
+permasalahan. Ini dibuktikan dengan masih
+terus berlangsungnya konversi lahan sampai
+saat ini.
+Uraian tersebut menunjukkan pentingnya
+menjaga keberlanjutan penggunaan
+lahan sawah di Pulau Jawa. Upaya tersebut
+perlu menempatkan petani sebagai pelaku
+utama produksi. Petani padi di Jawa merupakan
+petani berlahan sempit, rata-rata
+kepemilikan lahannya hanya 0,3 ha/petani
+(Susilowati et al., 2008). Sempitnya
+kepemilikan lahan menyebabkan sawah
+tidak mampu menopang kehidupan petani.
+Banyak isu kompleks yang menentukan
+keputusan petani untuk melanjutkan penggunaan
+lahannya untuk sawah, mulai dari
+aspek fisik hingga aspek sosial dan
+ekonomi. Oleh karena itu, upaya menjaga
+keberlanjutan penggunaan lahan untuk
+sawah perlu dilihat secara komprehensif
+dari berbagai aspek, terutama pertimbangan
+dari sisi petani sebagai pelaku utama
+produksi.
+Di Pulau Jawa, beberapa wilayah secara
+tradisional merupakan sentra produksi padi.
+Jawa Barat merupakan salah satu provinsi
+penghasil beras utama, pada tahun 2012
+misalnya menghasilkan 12.083.162 ton padi
+(BPS, 2013) atau 17% dari produksi padi
+nasional. Salah satu sentra padi penting di
+Jawa Barat adalah Karawang yang pada
+tahun 2012 menghasilkan 1.069.012 ton padi, Wilayah Penelitian
+Penelitian dilakukan di Kabupaten
+Karawang, Jawa Barat. Secara geografis,
+wilayah studi terletak antara 107º 02’107
+º
+40` BT dan 5º 56`-6º 34` LS, memanjang ke
+selatan mulai dari pantai utara Pulau Jawa.
+Luas wilayah kabupaten adalah 175.327 ha
+dan secara administratif terdiri dari 30
+kecamatan. Wilayah ini memiliki tanah yang
+subur, terbentuk dari bahan induk vulkanik
+di bagian selatan dan aluvium di bagian
+utara. Topografinya relatif datar, kelas
+lereng datar (0-3%) mencakup 83,6%
+wilayah dan ketinggian <12 m di atas
+permukaan laut mencakup 57,6% wilayah.
+Iklimnya tergolong tropika basah, dengan
+curah hujan tahunan berkisar dari 1.300
+sampai 3.200 mm/tahun. Bulan terbasah
+adalah Februari, dengan curah hujan 485
+mm/bulan, sedangkan bulan terkering ada
+lah Juli dengan curah hujan 5 mm/bulan.
+Wilayah ini secara tradisional merupakan
+sentra produksi padi, baik karena kesuburan
+tanahnya maupun infrastruktur irigasi yang
+baik
+.
+Data primer diperoleh dari survai
+lapangan, wawancar.a mendalam (depth
+interview) dan kuesioner. Data primer untuk
+penghitungan juga diperoleh dari peta yang
+dihasilkan dari penelitian karena penelitian
+ini terintegrasi dengan penelitian perubahan
+penggunaan lahan di Karawang
+(Widiatmaka et al., 2013; 2014). Responden
+terdiri dari 2 (dua) kelompok. Kelompok
+responden pertama adalah responden
+petani, secara total ada 82 responden yang
+diambil secara acak, namun ada sampel dari
+semua kecamatan di Karawang. Jumlah
+responden ini tidak dimaksudkan untuk
+mewakili populasi (jumlah) petani secara
+statistik karena wawancara dengan petani
+lebih bersifat kualitatif untuk mendalami
+kriteria “baik” dan “buruk” (Pitcher et al.,
+2013). Data dari kelompok responden
+pertama ini digunakan untuk analisis indeks
+keberlanjutan. Kelompok responden kedua
+adalah staf pemerintah kabupaten yang
+terkait dengan penggunaan lahan sawah,
+yaitu dari Dinas Pertanian, Bappeda,
+penyuluh pertanian, ketua kelompok tani,
+dan pemuka masyarakat. Sebanyak 18
+orang berpartisipasi dalam Focus Group
+Discussion (FGD) bagi kelompok kedua ini,
+yang kemudian diikuti dengan wawancara
+mendalam, dilaksanakan pada November
+2014. Data dari responden kedua digunakan
+untuk penentuan prioritas kebijakan dalam
+analisis prospektif, yang metoda analisisnya
+disajikan pada paragraf “metoda analisis”.
+Data sekunder yang digunakan mencakup
+hasil penelitian, laporan dan dokumen dari
+berbagai instansi di Karawang.
+Analisis utama yang digunakan adalah
+analisis keberlanjutan menggunakan metoda
+multi-dimensional scalling (MDS). Dalam metoda
+ini, dilakukan proses ordinasi menggunakan
+teknik ordinasi yang dalam
+penelitian ini di sebut Rapid Appraisalfor
+Paddy Field Land Use (Rap-LANDUSE),
+yang merupakan modifikasi dari Rap-FISH
+(Kavanagh, 2001; Pitcher et al., 2013). Teknik
+ordinasi menggunakan parameter yang
+diukur dengan teknik penskalaan (Fauzi
+dan Ana, 2005). Pendekatan MDS dipandang
+cukup stabil dibandingkan beberapa metoda
+multivariate lain (Pitcher dan Preikshot, 2001;
+Pitcher et al., 2013).
+Tahapan analisis mencakup: (1) penentuan
+atribut; dalam penelitian ini digunakan
+43 atribut pada 5 dimensi yang
+dianalisis, yaitu 12 atribut dimensi ekologi,
+11 atribut dimensi ekonomi, 6 atribut
+dimensi sosial, 7 atribut dimensi teknologi
+dan 7 atribut dimensi hukum dan kelembagaan;
+(2) penilaian setiap atribut dalam
+skala ordinal (scoring) berdasarkan kriteria
+keberlanjutan pada setiap dimensi; (3)
+analisis ordinasi Rap-LANDUSE dengan
+metoda MDS, menggunakan SPSS untuk
+menentukan ordinasi dan nilai stress, (4)
+penilaian indeks dan status keberlanjutan
+penggunaan lahan untuk sawah, baik secara
+multidimensi maupun pada setiap dimensi;
+(5) analisis kepekaan atau sensitivitas (leverage
+analysis) untuk menentukan atribut yang
+sensitif mempengaruhi keberlanjutan; (6)
+analisis Monte Carlo untuk mengecek dan
+memperhitungkan ketidakpastian; dan
+(7) analisis prospektif untuk menentukan faktor kunci keberlanjutan, yang kemudian
+digunakan untuk menyusun prioritas
+kebijakan untuk meningkatka keberlanjutan.
+Atribut yang digunakan pada setiap
+dimensi disajikan pada Tabel 1. Atribut ini
+diturunkan dari referensi yang membahas
+pembangunan di pedesaan (UN, 2007; FAO,
+2011; Simkova, 2012), maupun dari hasil
+observasi lapangan. Atribut dalam setiap
+dimensi dikelaskan berdasarkan kriteria
+kedalam “baik” dan “buruk” menggunakan
+konsep dari Fisheries Centre (2002). Setiap
+atribut yang berada dalam kondisi baik
+diberi skor 3 (atau 2, tergantung kisaran
+yang didefinisikan pada setiap atribut),
+sedangkan yang paling buruk diberi skor 0,
+dalam kisaran 0 sampai 3 (atau 2). Skor
+definitifnya adalah nilai modus, yang
+kemudian dianalisis untuk menetapkan titik
+yang mencerminkan posisi relatif
+keberlanjutan terhadap titik “baik” dan
+“buruk” menggunakan teknik ordinasi
+statistik multidimensi. Skor penduga untuk
+setiap dimensi diekspresikan dalam skala
+0% (buruk) dan 100% (baik), yang kemudian
+dikelompokkan dalam 4 kategori: 0-25%
+tergolong kategori tidak berkelanjutan,
+25,01-50% tergolong kurang berkelanjutan,
+50,01-75% tergolong berkelanjutan, dan 75,01-
+100% tergolong sangat berkelanjutan.
+Teknik ordinasi dalam MDS
+didasarkan pada jarak Eucledian, yang
+dalam ruang berdimensi n dapat ditulis
+sebagai (Pitcher dan Preikshot, 2001):
+
+Konfigurasi atau ordinasi sebuah
+obyek atau titik dalam MDS kemudian
+diaproksimasi dengan meregresikan jarak
+Eucledien (dij) dari titik i ke titik j, dengan
+titik asal (σij) sebagaimana persamaan
+berikut (Pitcher dan Preikshot, 2001).
+
+Teknik yang digunakan untuk
+meregresikan persamaan tersebut adalah
+algoritma ALSCAL (Alder et al., 2000).
+Metoda cocok untuk penskalaan
+multidimensi dan tersedia hampir di semua
+perangkat lunak statistik seperti SPSS dan
+SAS. Metoda ALSCAL mengoptimasi jarak
+kuadrat (jarak
+kuadrat = dijk) terhadap kuadrat data (titik
+awal = oijk), yang dalam tiga dimensi (i, j, k)
+ditulis dalam formula yang disebut S-Stress
+berikut (Alder et al., 2000):
+
+Analisis leverage atau sensitivitas
+dilakukan untuk melihat atribut yang paling
+sensitif yang berpengaruh terhadap indeks
+keberlanjutan pada setiap dimensi. Atribut
+yang sensitif diperoleh dengan mengubah
+ordinasi Root Mean Square ( R M S )
+p a d a sumbu X atau skala
+keberlanjutan. Semakin besar perubahan
+RMS karena hilangnya atribut tertentu,
+berarti atribut semakin sensitif perannya
+bagi keberlanjutan. Atribut yang terletak
+pada nilai tengah atau lebih besar diambil
+untuk perumusan kebijakan.
+Pada tahap berikutnya, analisis Monte
+Carlo digunakan untuk menduga pengaruh
+kesalahan (galat) pada tingkat kepercayaan
+95%, atau dengan kata lain,
+memperhitungkan ketidakpastian
+(uncertainty). Metoda Monte Carlo
+menggunakan sekelompok algoritma yang
+menghubungkan sampel acak untuk
+mendapatkan hasil numerik; simulasi
+dilakukan beberapa kali untuk mendapatkan
+distribusi probabilistik (Robert dan Casella,
+2004). Nilai indeks Monte Carlo kemudian
+diperbandingkan dengan nilai indeks MDS.
+Ketepatan (goodness of fit) dalam
+analisis MDS dicerminkan oleh nilai S-stress
+dan koefisien determinasi (R2), yang juga
+dapat digunakan untuk melihat apakah
+diperlukan penambahan atribut, atau atribut
+yang ada telah mencerminkan akurasi setiap
+dimensi yang dianalisis dikaitkan dengan
+situasi aktual. Nilai S-stress yang rendah
+menunjukkan good fit, sedangkan nilai Sstress
+tinggi mencerminkan sebaliknya (Fauzi
+dan Anna, 2005). Model dikatakan baik atau
+hampir baik jika hasil analisis menghasilkan
+nilai S-stress kurang dari 0,25 (S <0,25), dan
+R2 mendekati 1 (100%) (Pitcher, 2013).
+
+Atribut yang sensitif berdasarkan hasil
+analisis MDS kemudian dianalisis meng
+gunakan analisis prospektif, untuk
+menetapkan faktor kunci untuk perumusan
+kebijakan, didasarkan pada tingkat ketergantungan
+dari output (Bourgeois dan Jesus,
+2004). Untuk melihat pengaruh antar faktor
+dalam sistem, digunakan matriks (Gambar
+1a) Expert atau stakeholder terlibat secara
+langsung dalam proses penentuan
+pengaruh, dengan mengisi matriks dengan
+nilai 0-3.
+Untuk menentukan faktor kunci,
+digunakan program analisis prospektif yang
+akan menunjukkan tingkat pengaruh dan
+ketergantungan faktor dalam sistem
+(Gambar 1b).
+
+Dalam Gambar 1b, kuadran (1)
+berisi variabel penentu (driving variable),
+yang memiliki pengaruh kuat namun
+ketergantungan yang kurang kuat, sehingga
+dapat dikategorikan sebagai variabel yang
+kuat (powerfull) dalam sistem. Pada kuadran
+(2), terdapat variabel penghubung (leverage
+variable), yang memiliki pengaruh kuat
+dengan ketergantungan yang juga kuat,
+variabel ini juga dikategorikan powerfull.
+Pada kuadran (3), terdapat variabel bebas
+(marginal variables) yang memiliki pengaruh
+maupun ketergantungan kecil, sehingga
+bebas di dalam sistem. Pada kuadran (4),
+terdapat variabel terikat (output variables),
+yang memiliki pengaruh kecil namun
+ketergantungan terhadap sistem tinggi.
+
+PEMBAHASAN
+Keberlanjutan Multidimensi
+Hasil analisis menggunakan Rap-
+LANDUSE disajikan dalam bentuk kitediagram
+(Gambar 2). Indeks keberlanjutan
+dimensi ekologi, ekonomi dan hukum
+dan kelembagaan tergolong kurang berkelanjutan;
+indeks keberlanjutan dimensi
+sosial dan dimensi teknologi tergolong
+berkelanjutan. Indeks multidimensi keseluruh
+an penggunaan lahan untuk sawah di
+Karawang adalah 46,54 atau kurang
+berkelanjutan. Status keberlanjutan multidimensi
+yang kurang berkelanjutan disebabkan
+relatif rendahnya indeks masing-masing
+dimensi. Hanya dimensi sosial dan dimensi
+teknologi yang indeks keberlanjutannya
+relatif baik, sementara tiga dimensi lain memiliki
+indeks keberlanjutan yang kurang baik.
+Untuk meningkatkan indeks keberlanjutan,
+intervensi dapat dilakukan pada atribut yang
+sensitif.
+
+Hasil analisis keberlanjutan pada
+masing-masing dimensi, ekologi, ekonomi,
+sosial, teknologi dafn hukum dan kelembagaan
+penggunaan lahan untuk sawah di
+Karawang berturut-turut disajikan pada
+Gambar 3 (a sampai e).
+Pada dimensi ekologi bahwa analisis
+terhadap 12 atribut menghasilkan nilai indeks
+keberlanjutan 46, 40 yang berarti kurang berkelanjutan,
+indeks terletak di antara nilai
+25-50 (Gambar 3a). Hal ini menunjukkan
+bahwa kondisi ekologi penggunaan lahan
+untuk sawah di Kabupaten Karawang
+saat ini kurang mendukung untuk terus
+dilakukannya penggunaan lahan untuk
+sawah. Berdasarkan analisis leverage terhadap
+atribut dimensi ekologi (Gambar 4), 4
+(empat) atribut yang paling sensitif terhadap
+tingkat keberlanjutan dari dimensi ekologi
+adalah tekanan penggunaan lahan untuk
+industri dan pemukiman (RMS = 2,0878),
+akurasi datangnya musim hujan (RMS =
+2,4861), saluran irigasi (RMS = 2,4435), dan
+frekuensi penanaman (RMS = 2,6765).
+Intervensi terhadap ke-4 atribut sensitif ini
+akan lebih berpengaruh terhadap kenaikan
+indeks keberlanjutan dari dimensi ekologi,
+dibandingkan intervensi terhadap atribut
+lain  Hasil analisis keberlanjutan pada
+masing-masing dimensi, ekologi, ekonomi,
+sosial, teknologi dafn hukum dan kelembagaan
+penggunaan lahan untuk sawah di
+Karawang berturut-turut disajikan pada
+Gambar 3 (a sampai e).
+Pada dimensi ekologi bahwa analisis
+terhadap 12 atribut menghasilkan nilai indeks
+keberlanjutan 46, 40 yang berarti kurang berkelanjutan,
+indeks terletak di antara nilai Analisis terhadap 11 atribut dari
+dimensi ekonomi menghasilkan nilai indeks
+keberlanjutan 42,41, yang berarti
+kurang berkelanjutan (Gambar 3b). Hal
+ini mengandung pengertian bahwa fungsi
+sumberdaya lahan sawah di Kabupaten
+Karawang lebih kecil nilai ekonominya (land
+rent) dibandingkan dengan nilai ekonomi
+penggunaan lahan lain. Tiga atribut yang
+paling sensitif untuk peningkatan keberlanjutan
+dari dimensi ekonomi (Gambar
+4) meliputi stabilitas harga (RMS = 3,0179),
+pendapatan dari usaha tani padi (RMS =
+2,9668), dan kepemilikan tabungan (RMS =
+2,1191).
+Hasil analisis terhadap enam atribut
+menunjukkan bahwa nilai indeks keberlanjutan
+dimensi sosial sebesar 52,68 yang
+berarti cukup berkelanjutan (Gambar 3c).
+Berdasarkan analisis leverage terhadap atribut
+sosial, atribut yang dinilai paling sensitif
+terhadap tingkat keberlanjutan dari dimensi
+sosial adalah partisipasi keluarga dalam
+usahatani padi (RMS = 2,9902) (Gambar 4).
+Relatif baiknya kehidupan bermasyarakat di
+antara sesama petani, rukunnya kehidupan
+bertetangga dan tingkat partisipasi masyarakat
+yang relatif baik menyebabkan
+dimensi sosial cukup berkelanjutan. Hal ini
+dapat dijadikan modal sosial untuk lebih
+meningkatkan keberlanjutan dimensi sosial.
+Hasil analisis 7 (tujuh) atribut menghasilkan
+nilai indeks keberlanjutan dimensi
+teknologi sebesar 56,57 yang berarti cukup
+berkelanjutan (Gambar 3d). Berdasarkan
+analisis leverage terhadap atribut teknologi,
+atribut yang sensitif terhadap keberlanjutan
+dari dimensi teknologi adalah ketersediaan
+teknologi tepat guna (RMS = 0,8718)
+(Gambar 4). Cukup berkelanjutannya
+dimensi teknologi antara lain didukung oleh
+ketersediaan berbagai teknologi pertanian
+padi, antara lain di Badan Litbang
+Kementerian Pertanian (Balitbangtan, 2015).
+Akan tetapi, dewasa ini belum semua
+teknologi yang tersedia telah diterapkan
+secara praktikal pada tingkat petani,
+sehingga kemungkinan untuk peningkatan
+keberlanjutan dari sisi teknologi masih
+terbuka. Hasil analisis terhadap 7 (tujuh) atribut
+menghasilkan nilai indeks keberlanjutan
+dimensi hukum dan kelembagaan sebesar
+29,24 yang berarti kurang berkelanjutan
+(Gambar 3e). Berdasarkan analisis leverage
+terhadap atribut kelembagaan diperoleh
+atribut yang sensitif terhadap tingkat
+keberlanjutan dari dimensi kelembagaan
+(Gambar 4) adalah (i) penegakan hukum
+(RMS = 5,5696), (ii) konsistensi penggunaan
+lahan dengan Rencana Tata Ruang Wilayah
+(RTRW) (RMS= 4,7496), (iii) lembaga
+keuangan dan koperasi (RMS= 4,3161), (iv)
+kelompok tani (RMS= 4,1322), (v) kebiasaan
+dan adat istiadat (RMS = 3,9404), (vi) kejelasan
+RTRW (RMS= 3,8530), dan (vii) penyuluhan
+tentang konversi lahan (RMS= 3,6519). Sangat
+rendahnya dimensi hukum dan kelembagaan
+di sektor pertanian tampaknya merupakan
+cerminan dari kehidupan bernegara bidang
+hukum dan kelembagaan di berbagai sektor
+lain, yang di Indonesia masih sangat lemah,
+tercermin pula dari berbagai fakta peristiwa
+hukum dan kelembagaan akhir-akhir ini
+yang cukup memprihatinkan (Kompas, 30
+Januari 2015). Dengan demikian, hasil analisis menunjukkan
+bahwa pada kelima dimensi
+(ekologi, ekonomi, sosial, teknologi, dan
+hukum & kelembagaan) terdapat atribut
+yang berperan sebagai faktor sensitif
+(leverage factor) yang berada di setiap dimensi
+secara parsial (Tabel 2). Untuk meningkatkan
+status keberlanjutan penggunaan lahan
+untuk sawah di wilayah penelitian, maka
+terhadap ke-16 atribut tersebut perlu dilakukan
+intervensi. Untuk melakukan
+intervensi
+terhadap atribut sebanyak itu,
+tentu diperlukan pemrioritasan. Untuk itu,
+analisis prospektif akan membantu memilih
+atribut kunci yang perlu diprioritaskan
+penanganannya. Pembandingan hasil analisis MDS dengan
+hasil analisis Monte Carlo pada taraf
+kepercayaan 95% (Tabel 3) menunjukkan
+selisih nilai yang sangat kecil (0,25%), atau
+tidak lebih dari 5%. Dengan kata lain,
+tingkat kepercayaan terhadap indeks total
+(multidimensi) ter hadap indeks setiap
+dimensi lebih dari 95%. Ini berarti bahwa
+model analisis MDS yang dihasilkan
+memadai untuk menduga keberlanjutan
+penggunaan lahan untuk sawah di
+Karawang. Beda nilai
+yang kecil juga menunjukkan bahwa pengaruh
+kesalahan terhadap pembuatan skor pada
+setiap atribut, kesalahan yang diakibatkan
+karena kurangnya pemahaman, perbedaan
+opini, atau penilaian dari peneliti yang saling
+berbeda, kesalahan pemasukan data atau data
+yang hilang, dan kesalahan posedur yang
+dapat mempengaruhi stabilitas proses analisis
+MDS, relatif kecil. Proses analisis data yang
+dilakukan secara berulang juga relatif stabil
+(Fauzi et al., 2005; Pitcher et al., 2013).
+
+Ketepatan Analisis (Goodness of fit)
+Dari hasil analisis Rap-LANDUSE
+diperoleh koefisien determinasi (R2)
+antara 94,08%-95,28% atau lebih besar dari
+80%,bahkan mendekati 100%.Ini berarti
+model pendugaan indeks keberlanjutan baik
+dan memadai digunakan (Kavanagh, 2001;
+Pitcher et al., 2013), nilai S-stress antara 0,14-
+0,16. Nilai koefisien determinasi ini mendekati
+nilai 95-100% dan nilai S-stress yang lebih
+kecil dari 0,25 menunjukkan model analisis
+MDS yang diperoleh memiliki ketepatan
+yang tinggi (goodness of fit) (Fisheries.com,
+1999). Nilai S-stress dan koefisien determinasi
+hasil analisis Rap-LANDUSE disajikan pada
+Tabel 4.
+
+Faktor Kunci Keberlanjutan dan
+Strategi Peningkatan Keberlanjutan
+Analisis
+prospektif yang dilakukan
+terhadap atribut sensitif menghasilkan
+diagram prospektif (Gambar 5). Berdasarkan
+letak atribut sensitif dalam diagram tersebut,
+selanjutnya diperoleh faktor kunci untuk
+penyusunan prioritas penanganan untuk
+meningkatkan keberlanjutan penggunaan
+lahan untuk sawah. Berdasarkan diagram
+tersebut, 3 atribut yang memiliki pengaruh
+maupun ketergantungan kuat sebagai
+berikut: (1) tekanan dari penggunaan
+lahan untuk industri dan pemukiman, (2)
+penegakan hukum, dan (3) penyuluhan
+untuk mengontrol konversi lahan. Sementara
+itu, prioritas kedua adalah pada atribut
+yang memiliki pengaruh kuat, walaupun
+tingkat ketergantungannya relatif lebih
+rendah, meliputi: (1) stabilitas harga dan (2)
+pendapatan dari usaha tani padi. Berdasarkan
+atribut kunci inilah kebijakan prioritas dapat
+disusun untuk meningkatkan keberlanjutan
+penggunaan lahan sawah (Tabel 5).
+Kelihatannya, faktor kunci pada
+kuadran pertama saling terkait. Aspek
+tekanan dari penggunaan lahan oleh
+industri dan pemukiman, penegakan
+hukum dan pemahaman masyarakat
+tentang konversi lahan merupakan masalah
+yang saling berkaitan. Dalam hal tekanan
+oleh penggunaan lahan industri dan
+pemukiman, faktor ini merupakan faktor
+eksternal yang sangat sulit ditolak, bahkan
+semakin lama akan semakin intensif bagi
+Karawang sehubungan dekatnya lokasi
+dengan ibukota Jakarta dan kepentingan
+komersial yang semakin meningkat.
+Kawasan-kawasan industri yang telah ada
+saat ini bahkan diperkirakan akan semakin
+memicu perkembangan kawasan kearah
+industrialisasi, artinya semakin menekan
+penggunaan lahan untuk sawah. Faktor
+tekanan lahan urban oleh penggunaan lahan
+modern perkotaan ini selalu terjadi pada
+banyak wilayah agraris (Hidajatet al., 2013).
+Untuk Karawang khususnya dan bahkan
+Indonesia pada umumnya, hal ini bertambah
+parah dengan lemahnya penegakan hukum
+(Koran Tempo, 2014). Penegakan hukum
+dalam konteks penelitian di pedesaan ini
+adalah pengendalian penggunaan lahan.
+Penegakan hukum akan berjalan efektif,
+apabila 5 pilar hukum berjalan baik (Juwana,
+2006; Sanjoto, 2008; Manan, 2008), yakni
+instrumen hukumnya, aparat penegak
+hukumnya, faktor lingkup masyarakat yang
+terkena peraturan hukum, faktor kebudayaan
+atau legal culture, dan fasilitas yang dapat
+mendukung pelaksanaan hukum. Dalam
+kondisi saat ini, ke-5 pilar hukum tersebut
+masih perlu diperbaiki.
+
+Peningkatan pendapatan petani merupakan
+faktor kunci lain, yang berdasarkan
+hasil analisis terletak pada kuadran kedua
+bahwa petani merupakan salah satu bagian
+masyarakat berpenghasilan rendah atau
+bahkan miskin, telah banyak dianalisis
+(Harianto, 2007; Hermawan, 2012). Tulisan
+ini dengan jelas menunjukkan sangat
+perlunya petani kita dibantu untuk dapat
+meningkatkan pendapatannya. Jika tidak,
+dengan mengingat ketergantungan pangan
+kita kepada lahan sawah, bahaya penyediaan
+pangan kedepan akan sangat nyata.
+Karena saling terkaitnya faktor tersebut,
+kebijakannya pun perlu dilakukan secara
+terpadu. Pada Tabel 5 disajikan kebijakan
+utama yang hendaknya diprioritaskan untuk
+peningkatan keberlanjutan penggunaan
+lahan sawah. Dalam hal penggunaan lahan,
+penegakan hukum perlu dimulai dari
+masalah perizinan. Pengetatan perizinan
+bukan berarti melarang dikeluarkannya
+izin pembangunan untuk industri, oleh
+karena industri dan pemukiman faktanya
+juga merupakan kebutuhan pembangunan,
+namun pemberian izin perlu benar-benar
+memperhatikan tata ruang. Wilayah yang
+sudah ditetapkan dalam RT RW sebagai
+kawasan pertanian perlu ditaati, demikian
+pula izin penggunaan lahan untuk industri
+dan pemukiman dapat diberikan hanya pada
+wilayah yang peruntukannya urban. Hal ini
+sekaligus untuk mendorong agar RT RW
+ditaati. Dewasa ini, Kabupaten Karawang
+belum menetapkan wilayah Lahan Pertanian
+Pangan Berkelanjutan (LP2B) sesuai
+ketentuan UU No. 41/2009, oleh karena
+itu delineasi dan penetapan LP2B perlu
+didorong agar segera dilakukan. Bersamaan
+dengan hal tersebut, pemahaman masyarakat
+terhadap dampak konversi lahan, terutama
+bagi keberlanjutan mata pencahariannya
+perlu ditingkatkan melalui penyuluhan.
+
+Dalam aspek ekonomi, upaya peningkatan
+pendapatan petani dapat dilakukan
+dari dua sisi. Di satu sisi, hendaknya petani
+tidak dibiarkan bersaing sendiri di pasar
+yang semakin bebas. Peran Pemerintah
+sebagai regulator dan stabilisator harga beras
+masih diperlukan, karena itu rivitalisasi
+terhadap lembaga seperti BULOG perlu
+dilakukan. Selain itu, subsidi kepada petani
+perlu ditingkatkan, baik subsidi langsung
+maupun tidak langsung. Dibandingkan
+dengan petani lain di seluruh dunia, petani
+Indonesia relatifkurang beruntung karena
+rendahnya subsidi di sektor pertanian.
+Karena itu kedepan, kebijakan yang lebih
+berpihak kepada petani perlu didorong.
+
+
+SIMPULAN
+Kondisi saat ini penggunaan lahan
+untuk sawah di Karawang berada pada
+status kurang berkelanjutan. Dimensi sosial
+dan dimensi teknologi mempunyai kinerja
+cukup berkelanjutan sedangkan dimensi
+ekonomi, sosial, dan kelembagaan dan
+hukum menunjukkan kinerja yang kurang
+berkelanjutan.
+Sejumlah atribut dinilai sensitif (leverage
+attribute) bagi keberlanjutan penggunaan
+lahan sawah di Karawang. Peningkatan
+keberlanjutan penggunaan lahan sawah di
+Karawang dapat dilakukan dengan
+melakukan intervensi dan perbaikan
+kinerja, diutamakan pada atribut sensitif.
+Analisis prospektif terhadap atribut sensitif
+menemukan faktor kunci untuk peningkataan
+keberlanjutan penggunaan lahan sawah.
+Faktor kunci ini meliputi tekanan dari
+penggunaan lahan oleh industri dan
+pemukiman, penegakan hukum yang masih
+lemah, pemahaman masyarakat terhadap
+konversi lahan, stabilitas harga beras dan
+pendapatan dari usahatani. Sejumlah
+strategi disarankan berdasarkan faktor
+kunci tersebut, yaitu pengetatan terhadap
+permohonan izin mendirikan bangunan
+baru, pelaksanaan rencana tataruang wilayah
+Kabupaten secara konsisten dan delineasi
+lahan pertanian pangan berkelanjutan,
+penyuluhan kepada masyarakat, revitalisasi
+peran BULOG,pemberian insentif kepada
+petani dan bantuan modal usaha.

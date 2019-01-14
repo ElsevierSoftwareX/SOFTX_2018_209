@@ -1,0 +1,126 @@
+Abstrak
+Kota Semarang sebagai Ibukota Provinsi Jawa Tengah telah menjadi magnet
+bagi masyarakat yang bertempat tinggal di kota-kota sekitarnya untuk mencari
+penghidupan. Hal ini dapat terlihat dengan jelas bahwa setiap hari pada jam-jam sibuk
+(masuk kerja dan pulang kerja) jalanan di Kota Semarang selalu ramai dan cenderung
+terjadi kemacetan. Kemacetan jalan tersebut umumnya terjadi di jalan nasional yang
+merupakan jalan penghubung utama antara Kota Semarang dengan kota-kota lain, baik
+secara konstelasi maupun nasional. Fenomena kemacetan tersebut juga terjadi di Jalan
+Walisongo, Jalan Perintis Kemerdekaan dan Jalan Kaligawe.
+Kota Semarang telah memiliki solusi agar kemacetan yang terjadi di ketiga
+jalan tersebut dapat teratasi yaitu dengan cara membangun Jalan Lingkar Luar Kota
+Semarang. Dampak dari pembangunan jalan lingkar luar terhadap lalu lintas
+dievaluasi dari perbandingan kinerja jaringan jalan antara kondisi eksisting dengan
+adanya jalan lingkar luar.
+Dari hasil analisis yang telah dilakukan, berdasarkan volume arus lalu lintas
+dari pembebanan menunjukkan bahwa pada saat ini ruas Jalan Walisongo, Jalan
+Kaligawe dan Jalan Perintis Kemerdekaan mempunyai kinerja yang kurang stabil
+(0.7< V/C > 0.8). Dengan adanya jalan lingkar luar mengakibatkan perubahan pola
+pergerakan kendaraan yang berdampak pada kinerja ketiga ruas jalan tersebut. Pada
+kajian Jalan Lingkar Luar Utara didapatkan bahwa terjadi perubahan pola pergerakan
+kendaraan pada Jalan Walisongo dan Jalan Kaligawe, dimana perbaikan kinerja pada
+kedua ruas tersebut dari kondisi tidak stabil (0.7<V/C>0.8) menjadi kondisi stabil
+bebas (V/C < 0.6) dan akan terjadi sampai tahun 2027. Dengan demikian, (secara
+kinerja) rencana pembangunan jalan lingkar luar utara dapat memperbaiki kinerja
+Jalan Walisongo dan Jalan Kaligawe.
+Pada kajian Jalan Lingkar Luar Selatan didapatkan bahwa tidak terjadi
+perubahan pola pergerakan kendaraan yang cukup signifikan pada Jalan Walisongo
+dan Jalan Perintis Kemerdekaan. Rute rencana pembangunan jalan lingkar luar
+selatan tersebut tidak cukup membantu memperbaiki kinerja kedua jalan tersebut diatas
+dikarenakan masih terdapat alternatif yang masih memungkinkan dalam pemilihan rute
+perjalanan oleh pengemudi yang dianggap masih menjadi pilihan utama yaitu dengan
+menggunakan jalan tol ataupun jalan alternatif lainnya seperti jalan Prof Hamka
+(Jalan Ngaliyan-Boja), jalan Gunungpati-Manyaran, sehingga dapat direkomendasikan
+bahwa pembangunan Jalan Lingkar Luar Selatan sampai pada Tahun 2027 masih
+belum menjadi prioritas dibangun.
+Kata Kunci: lalu-lintas, pemilihan rute, pembebanan lalu-lintas.
+
+BAB I
+PENDAHULUAN
+1.1 Latar Belakang
+Kota Semarang sebagai Ibukota Provinsi Jawa Tengah telah menjadi magnet
+bagi masyarakat yang bertempat tinggal di kota-kota sekitarnya untuk mencari
+penghidupan. Hal ini dapat terlihat dengan jelas bahwa setiap hari pada jam-jam sibuk
+(masuk kerja dan pulang kerja) jalanan di Kota Semarang selalu ramai dan cenderung
+terjadi kemacetan. Meskipun ada keterkaitan antara pemanfaatan ruang dengan motif
+perjalanan yang dilakukan, namun apabila jaringan jalan yang ada sudah tidak dapat
+lagi menampung aktivitas perjalanan yang dilakukan oleh masyarakat, secara otomatis
+terjadi permasalahan lalu-lintas dan salah satu permasalahan tersebut adalah kemacetan
+lalu-lintas.
+Kemacetan jalan tersebut umumnya terjadi di jalan nasional yang merupakan
+jalan penghubung utama antara Kota Semarang dengan kota-kota lain, baik secara
+konstelasi regional (Kendal, Boja, Ungaran, Purwodadi, dan Demak) maupun nasional
+(Jakarta, Solo, Yogyakarta, Surabaya). Fenomena kemacetan tersebut juga terjadi di
+Jalan Walisongo, Jalan Perintis Kemerdekaan dan Jalan Kaligawe. Jalan-jalan tersebut
+merupakan jalan akses utama yang sering digunakan oleh pemakai jalan untuk
+melewati Kota Semarang.
+Hasil studi yang dilakukan oleh Putro (2009) menyatakan bahwa tingkat
+pelayanan jalan (level of service) di Kota Semarang sudah rendah. Jalan-jalan kolektor
+primer penghubung antarkota seperti Jalan Walisongo, Jalan Perintis Kemerdekaan dan
+Jalan Kaligawe tingkat pelayanan jalannya (LOS) telah mencapai 0,7. Ini artinya jalan
+dalam kondisi macet terbatas hingga macet padat di atas 1,0. Keadaan demikian terjadi
+hampir sepanjang hari, terutama pada jam-jam sibuk jam 7.00 sampai 9.00 pagi dan
+jam 16.00 sampai jam 18.00 sore. Kemacetan disebabkan disamping kapasitas jalan
+yang tidak mampu menampung arus lalulintas juga oleh penggunaan badan jalan yang
+menghambat arus lalu-lintas seperti parkir, ngetem, dan berjualan di badan jalan. Moda
+angkutan jalan yang paling mempengaruhi tingkat pelayanan jalan di semua titik
+pengamatan adalah sepeda motor diikuti mobil baik umum maupun pribadi.
+Kota Semarang telah memiliki solusi agar kemacetan yang terjadi di ketiga jalan
+tersebut dapat teratasi yaitu dengan cara membangun Jalan Lingkar Kota Semarang.
+
+Dalam dokumen Masterplan Transportasi Kota Semarang Tahun 2009-2029, Kota
+Semarang akan memiliki tiga jalan lingkar kota, yaitu jalan lingkar dalam (inner ring
+road), jalan lingkar tengah (middle ring road) dan jalan lingkar luar (outer ring road).
+Masing-masing jalan lingkar tersebut memiliki fungsi yang berbeda. Jalan lingkar
+dalam berfungsi untuk memperlancar arus perjalanan di dalam kota. Jalan lingkar
+tengah berfungsi sebagai pengumpan dan penyangga (buffer) bagi lalu-lintas di wilayah
+sekitarnya. Sedangkan jalan lingkar luar berfungsi sebagai pemisah pergerakan
+perjalanan dalam kota dan luar kota. Diharapkan dengan dibangunnya jalan lingkar ini
+akan dapat mengakomodasi perjalanan yang terjadi di Kota Semarang dan mengurangi
+kemacetan lalu-lintas.
+Sebelum jalan lingkar tersebut terealisasi, ketidaknyaman perjalanan harus tetap
+dirasakan oleh pengguna jalan. Karena itulah, perlu dilakukan kajian untuk
+mengalihkan sebagian besar kendaraan pada jalur Jalan Walisongo, Jalan Perintis
+Kemerdekaan, dan Jalan Kaligawe Kota Semarang agar melalui jalan alternatif yang
+akan dibangun yaitu Jalan Lingkar Luar Utara dan Selatan Kota Semarang.
+
+
+1.2 Rumusan Masalah
+Berdasarkan pada latar belakang dan pembatasan masalah tersebut diatas
+dengan demikian dapat dirumuskan masalah yang akan dikaji yaitu seberapa besar
+pengalihan lalu-lintas dari Jalan Lingkar Luar Kota Semarang terhadap lalu-lintas
+Jalan Walisongo, Jalan Perintis Kemerdekaan dan Jalan Kaligawe?
+
+1.3 Tujuan dan Sasaran
+Tujuan dari penelitian Kajian Lalu-Lintas Jalan Lingkar Luar Kota Semarang
+Terhadap Jalan Walisongo, Jalan Perintis Kemerdekaan, dan Jalan Kaligawe adalah
+mengetahui dampak pembangunan Jalan Lingkar Luar terhadap tingkat pelayanan Jalan
+Walisongo, Jalan Perintis Kemerdekaan, dan Jalan Kaligawe.
+Adapun sasaran yang hendak dicapai dari dilakukannya kajian ini adalah
+sebagai berikut:
+1. Analisis kinerja jalan eksisting, yaitu Jalan Walisongo, Jalan Perintis
+Kemerdekaan, Jalan Kaligawe.
+2. Melakukan simulasi pembebanan jaringan akibat pembangunan jalan lingkar luar.
+3. Mengetahui konstribusi pengalihan lalu lintas Jalan Lingkar Luar terhadap Jalan
+Walisongo, Jalan Perintis Kemerdekaan, dan Jalan Kaligawe.
+4. Mengetahui tingkat pelayanan di Jalan Lingkar Luar terhadap Jalan Walisongo,
+Jalan Perintis Kemerdekaan, dan Jalan Kaligawe.
+
+1.4 Ruang Lingkup Wilayah
+Ruang lingkup wilayah yang akan diteliti adalah jaringan jalan Kota Semarang
+khususnya ruas Jl. Walisongo, Jl. Perintis Kemerdekaan dan Jl. Kaligawe. Gambaran
+ilustrasi wilayah yang akan dikaji terdapat pada Gambar I-1 pada halaman 5.
+
+1.5 Pembatasan Masalah
+Berdasarkan perumusan masalah tersebut diatas, maka fokus penyusunan
+penelitian ini adalah besaran pengalihan arus lalu-lintas oleh Jalan Lingkar Luar Kota
+Semarang terhadap jalan akses masuk di Jalan Walisongo, Jalan Perintis Kemerdekaan,
+dan Jalan Kaligawe Kota Semarang.
+Kajian besaran pengalihan lalu-lintas oleh jalan lingkar luar Kota Semarang
+terhadap Jalan Walisongo, Jalan Perintis Kemerdekaan dan Jalan Kaligawe akan
+dibatasi pada hal-hal berikut ini:
+1. Jaringan jalan yang distudikan adalah Jalan Walisongo, Jalan Perintis
+Kemerdekaan, dan Jalan Kaligawe yang ada di Kota Semarang.
+2. Dalam kajian yang akan dilakukan penulis menitik beratkan pada besaran
+pengalihan lalu-lintas sebelum dan sesudah ada Jalan Lingkar Luar Kota
+Semarang.

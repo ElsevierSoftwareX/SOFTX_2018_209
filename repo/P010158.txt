@@ -1,0 +1,268 @@
+﻿Penelitian Eksperimental Geser-Friksi
+Sambungan Tiang Kayu Lontar (Borassus flabellifer) dengan Batu
+pada Rumah Tradisional Ammu Hawu (NTT)
+
+
+Abstrak
+Ammu Hawu sebagai rumah tradisional asli Indonesia memiliki sistem struktur tiang-tiang di atas pondasi batu.
+Jenis pondasi batu/umpak yang sering digunakan pada bangunan tradisional mampu meningkatkan kinerja
+struktur secara keseluruhan akibat gaya lateral. Perilaku ini dikenal sebagai sistem base isolation, cara populer
+untuk melindungi struktur dari gaya lateral yang ditimbulkan akibat gempa. Penelitian ini bertujuan untuk mengetahui
+parameter nilai friksi yang terjadi pada sambungan tiang dengan batu. Penelitian ini dilakukan melalui
+pengujian eksperimental di laboratorium dengan jumlah benda uji 3 (tiga) buah. Pengujian dilakukan dengan
+memberikan beban aksial konstan (terdapat 3 variasi beban aksial untuk masing-masing benda uji) dan beban
+lateral bertahap sampai dengan kondisi permukaan penampang kayu Lontar (Borassus flabellifer) dan batu
+mengalami kondisi slip. Nilai friksi dihitung dengan membandingkan kedua beban tersebut. Hasil penelitian
+menunjukkan besarnya friksi yang terjadi antara kayu Lontar berbentuk silindris dengan batu adalah sebesar m =
+0,35. Nilai friksi yang diperoleh dari penelitian ini direkomendasikan sebagai parameter nilai friksi antara kayu
+Lontar dengan batu.
+Kata-kata Kunci: Ammu hawu, kayu lontar (borassus flabellifer), batu, nilai friksi, eksperimental.
+
+1. Pendahuluan
+Ammu Hawu merupakan rumah tradisional masyarakat
+Sabu yang terletak di pulau Sabu, Propinsi Nusa
+Tenggara Timur. Pulau sabu merupakan pulau kecil
+yang dikelilingi laut sehingga beriklim tropis. Iklim ini
+sangat sesuai untuk tumbuhnya tanaman sejenis palem.
+Jenis yang paling banyak tumbuh adalah pohon Lontar.
+Lontar digunakan sebagai bahan utama untuk struktur
+rumah tradisional Ammu Hawu. Rumah dengan tipologi
+seperti perahu terbalik berfungsi sebagai tempat tinggal.
+Bentuk rumah panggung dengan tinggi kurang lebih 1,5
+m dari muka tanah. Kayu Lontar (Borassus flabellifer)
+utamanya digunakan sebagai tiang-tiang struktur yang
+berdiri di atas umpak/batu. Rumah tradisional Ammu
+Hawu dibuat berdasarkan pengetahuan turun temurun, salah satunya adalah teknologi yang memanfaatkan
+batu sebagai pondasi rumah.
+Meskipun pada jaman dulu belum ada teori-teori
+struktur, namun nenek moyang kita dapat menciptakan
+pondasi yang mampu mempertahankan struktur
+bangunan sehingga tidak runtuh pada saat terjadi
+gempa besar. Sebagai contoh rumah Omo Hada yang
+terdapat di Nias, Sumatera Utara dan Uma Lengge yang
+terdapat di Mbawa, Nusa Tenggara Barat. Kedua
+rumah tradisional asli Indonesia ini menggunakan
+umpak/batu sebagai pondasi, tiang-tiang hanya diletakkan
+di atas umpak/batu tanpa menggunakan sambungan
+khusus, hal ini terbukti, rumah tradisonal Omo Hada
+ketika terjadi gempa Nias (tahun 2005) dengan
+kekuatan 8,7 skala Ritcher tidak mengalami keruntuhan
+secara struktural (Suara Merdeka, 2005). Penelitian
+tersebut menunjukkan bahwa tiang-tiang rumah yang
+ditanam memiliki tegangan yang besar ketika mendapat
+beban gempa (Pudjisuryadi, dkk., 2007). Hal ini
+menyebabkan terjadinya kegagalan komponen struktur.
+Apabila tiang-tiang penyangga struktur hanya
+bertumpu pada batu, maka tegangan yang terjadi jauh
+lebih kecil sehingga tidak menyebabkan kegagalan
+struktur.
+Tiang-tiang yang bertumpu pada sebuah batu berlaku
+sebagai base isolation pada rumah tradisional. Sistem
+ini disebut base isolation karena tiang-tiang tidak
+bersentuhan langsung dengan tanah, melainkan
+bertumpu pada sebuah batu. Akibatnya rumah
+tradisional ini dapat bergeser dari tempat asalnya ketika
+menerima beban lateral gempa. Selain itu dapat
+menimbulkan efek redaman terhadap getaran gempa
+bumi (Pudjisuryadi, dkk., 2007). Hal ini menjadi sangat
+penting untuk diteliti, bagaimana suatu struktur dapat
+bertahan dengan pondasi yang hanya diletakkan pada
+sebuah batu.
+Pada masa sekarang telah berkembang teori yang
+menyatakan bahwa base isolation merupakan cara
+populer untuk melindungi struktur bangunan terhadap
+gaya gempa. Sistem ini merupakan kumpulan elemen
+struktural substansial yang memisahkan suatu
+suprastruktur dari substruktur yang bertumpu pada
+tanah bergetar sehingga melindungi integritas struktur
+bangunan atau non-bangunan (Datta, 2010). Prinsip
+tersebut dapat dilihat pada penerapan umpak batu
+sebagai pondasi pada Gambar 1. Keberadaan umpak
+batu sebagai pondasi mampu menimbulkan efek
+gesekan yang diakibatkan oleh tahanan antara batu
+dengan kayu sebagai elemen struktural, namun belum
+diketahui secara pasti besar gesekan yang terjadi pada
+sistem tersebut. Penelitian ini bertujuan untuk mengetahui
+parameter nilai friksi yang terjadi antara tiang
+kayu Lontar yang berpenampang silindris dengan batu.
+Penelitian ini dilakukan melalui pengujian eksperimental
+di laboratorium dengan jumlah benda uji
+sebanyak 3 (tiga) spesimen, pengujian dilakukan
+dengan memberikan beban aksial konstan (terdapat 3
+variasi beban aksial untuk masing-masing benda uji)
+dan beban lateral bertahap sampai dengan kondisi
+permukaan penampang kayu Lontar dengan batu
+mengalami kondisi slip. Nilai friksi dihitung dengan
+membandingkan kedua beban tersebut.
+
+2. Tinjauan Literatur
+Tiang-tiang/kaki-kaki dari rumah tradisional Ammu
+Hawu tidak ditanam ke dalam tanah melainkan sengaja
+dibuat bertumpu di atas sebuah batu. Pertemuan antara
+kaki-kaki rumah tradisional yang terbuat dari kayu
+dengan pondasi dibawahnya yang terbuat dari batu
+inilah berpotensi menimbulkan gaya gesek/friksi. Gaya
+gesek tersebut dapat terjadi ketika bangunan menerima
+gaya lateral (Lase, 2005). Ilustrasi pada Gambar 2
+menunjukkan dua benda yang bersentuhan memiliki
+suatu nilai yang menentukan besarnya gaya gesek dua
+benda tersebut. Nilai inilah yang disebut dengan
+koefisien gesek. Selain koefisien gesek antara dua benda,
+faktor lain yang mempengaruhi besarnya gaya gesek
+antara dua benda adalah gaya normal/aksial. Dari dua
+faktor tersebut, gaya gesek dapat dirumuskan dengan
+Persamaan 1 (Hibbeler, 2007) yang mana notasi m
+merupakan koefisien friksi antara dua benda yang
+bersentuhan, N merupakan gaya axial, dan F merupakan
+beban lateral: 
+
+Pada penelitian ini, perletakan dari rumah tradisional
+dibuat sebagai Coulomb friction. Hal ini dikarenakan
+perletakan dari rumah tradisional mengandalkan
+gesekan antara kaki-kakinya yang terbuat dari kayu
+dengan pondasi batu untuk menahan gaya lateral dari
+gempa. Tipe perletakan seperti ini serupa dengan
+perletakan rol, hanya saja perletakan rol sama sekali
+tidak memberikan reaksi ketika menerima beban
+lateral, sedangan perletakan Coulomb friction memberikan
+reaksi ketika menerima beban lateral. Reaksi
+yang diberikan oleh perletakan Coulomb friction
+tersebut berasal dari gaya gesek antara kayu Lontar
+dengan batu.
+
+3. Metodologi
+3.1 Penyiapan benda uji
+
+Benda uji yang digunakan adalah kayu Lontar
+(Borassus flabellifer) utuh dengan diameter 25 cm
+dan panjang 1 m, batu kali dengan permukaan kasar
+dan cenderung datar berukuran lebih besar dari 25
+cm. Jumlah benda uji adalah sebanyak 3 spesimen.
+
+3.2 Set up benda uji
+Gambar 3 menjelaskan proses set up benda uji. Batu
+dijepit pada bagian bawahnya dengan menggunakan
+baja siku, tiang kayu Lontar diletakkan tepat
+diatasnya dengan mengekang bagian atas tiang.
+Beban aksial dipasang tepat diatas tiang dengan memberi
+rol agar jack tidak slip ketika terjadi gaya lateral.
+Beban lateral dipasang pada tiang bagian bawah yang
+terdekat pada sambungan tiang dengan batu dan
+diberi kekangan (kabel pengait). Alat-alat pengukuran
+deformasi yaitu LVDT (Linier Variable Differential
+Transducer) kapasitas 50 mm, dipasang pada tiang
+bagian bawah untuk mengukur deformasi.
+
+3.3 Uji friksi
+Uji friksi dilakukan dengan memberikan beban aksial
+konstan sebesar 1 ton, 2 ton, dan 3 ton. Beban lateral
+diberikan sedekat mungkin dengan pondasi batu.
+Untuk menguji besar gesekan yang terjadi, beban
+lateral diberikan pada sambungan, dengan mendorong
+tiang sehingga terjadi pergeseran antara tiang dengan
+batu. LVDT akan menunjukkan besar deformasi yang
+terjadi. Nilai koefisien gesekan diperoleh dengan
+membandingkan beban lateral dengan beban aksial
+(Gambar 4).
+
+4. Hasil dan Pembahasan
+Pada Gambar 5 dijelaskan sistem struktur rumah
+tradisional Ammu Hawu seluruhnya merupakan
+struktur atas, karena seluruh struktur berdiri diatas
+permukaan tanah dengan pondasi batu (Wewadu
+Pejadi Gari). Struktur dibentuk dari tiang utama
+(Teru Duru), tiang induk (Tebeka), tiang anak (Geri
+Tie Rou), balok lantai, balok atap, dan rangka atap.
+Pada Gambar 6 dijelaskan ilustrasi gaya yang bekerja
+pada sambungan tiang dengan batu dapat
+menimbulkan gaya gesek. Tiang-tiang struktur hanya
+diletakkan pada batu (Wewadu Pejadi Gari) tanpa
+sambungan khusus. Sambungan antara tiang dengan
+batu bukan merupakan sambungan mekanis, karena
+tidak terdapat pengaku maupun alat sambung lain
+sebagai penguat sambungan. Sambungan bekerja
+mengandalkan gesekan antara permukaan tiang
+dengan batu. Beban/gaya aksial sebesar N (Newton)
+merupakan berat bangunan yang berkontribusi menahan
+gaya lateral gempa sebesar F (Newton), akibat
+dari kekasaran permukaan antara sambungan
+menimbulkan tahanan sebesar m yang disebut dengan
+koefisien geser friksi.
+
+Ilustrasi pada Gambar 6 dimodelkan pada skala
+pengujian seperti pada Gambar 7 dan Gambar 8.
+Tes eksperimental dilakukan dengan menggunakan
+mesin portal test yang direkayasa dengan menambahkan
+alat bantu uji agar sesuai dengan perilaku yang
+diinginkan (sesuai dengan kondisi riil). Alat uji
+dilengkapi dengan load cell yang memberikan beban
+lateral pada arah horisontal dan beban aksial apada arah
+vertikal. Dua bua baja Canal untuk menahan tiang agar
+tidak terjadi translasi. Permukaan tiang atas diberi roll
+untuk mencegah terjadinya rotasi, sedangkan kekangan
+pada baja siku pada perletakkan batu/umpak agar tidak
+bergeser dari posisinya. Pengujian dilakukan melalui
+kontrol displacement dengan uji monotonik. Pada kondisi
+ini efek dinamis diabaikan karena kecepatan pembebanan
+yang diberikan sangat kecil. Tiang Lontar diletakkan
+pada sebuah batu dengan asumsi seluruh permukaan
+kayu tepat menyentuh permukaan batu secara
+penuh. Batu sebagai pondasi ditahan sehingga tidak
+mengalami displacement. Bagian batang yang terdekat  dengan batu diberi gaya dorong secara bertahap
+sehingga menimbulkan reaksi antara permukaan kayu
+Lontar dengan batu. Tiang diberi beban aksial sebesar
+1 ton, 2 ton, dan 3 ton masing-masing pada jenis benda
+uji yang berbeda seperti pada Gambar 9. Tiang
+bagian bawah yang paling dekat dengan pondasi batu
+diberi beban lateral sehingga terjadi pergeseran pertama
+dan posisi tiang bergeser dari posisi semula.
+Hasil uji ketiga spesimen tersebut ditunjukkan pada
+Gambar 10, untuk mengetahui reaksi pertama dari pemberian beban lateral dicari dengan membandingkan
+hubungan antara beban lateral dengan displacement
+yang terjadi pada setiap spesimen dengan beban
+aksial yang diberikan. Untuk mengetahui nilai friksi
+pada masing-masing pembebanan ditentukan pada
+kondisi linier, hal ini berdasarkan kondisi riil bahwa
+perhitungan rasio beban lateral terhadap aksial adalah
+menggunakan rentang pembebanan pada saat kayu
+belum mengalami slip atau belum terlepas dari
+dudukan batu. 
+
+Kurva hubungan beban lateral dengan peralihan ditinjau
+pada rentang kurva elastik. Setelah kondisi elastik,
+pengujian tetap diteruskan dan terjadi slip yang
+signifikan antara permukaan tiang dengan permukaan
+batu terutama pada spesimen 2 dan 3. Hal ini
+menyebabkan bentuk kurva tidak berbentuk linier.
+Sama halnya pada pengujian dengan beban aksial 1
+ton, untuk pengujian dengan beban aksial 2 ton ini
+seluruh spesimen diuji dari rentang beban elastik
+sampai dengan benda uji mengalami slip. Untuk
+Spesimen 2 dan Spesimen 3 pengujian dihentikan
+pada saat sesaat benda uji mengalami slip. Sedangkan
+untuk Spesimen 1 hasil kurva pengujian yang
+diperoleh adalah berbentuk bilinier. Hasil pengujian
+dengan beban aksial 3 ton memperlihatkan bahwa
+untuk spesimen 2, pasca rentang kurva elastik terjadi
+penurunan beban yang signifikan, dikarekana terjadi
+slip saat pengujian di laboratorium.
+Masing-masing spesimen menunjukkan nilai friksi
+yang tidak berbeda signifikan. Nilai friksi terendah
+sebesar 0,18 dan tertinggi sebesar 0,59. Rata-rata nilai
+friksi sambungan antara tiang kayu Lontar dengan
+batu adalah sebesar 0,35. Jika dilihat dari pertambahan
+beban aksial pada masing-masing spesimen tidak
+ada kecenderungan nilai friksi semakin membesar.
+Penambahan beban aksial tidak menentukan pertambahan
+nilai friksi.
+
+5. Kesimpulan
+1. Hasil pengujian memperlihatkan bahwa
+perbandingan antara beban lateral dengan aksial
+adalah konstan, tidak berpengaruh pada penambahan
+beban aksial.
+2. Hasil penelitian dalam tulisan ini adalah nilai
+Koesifien Friksi antara tiang Rumah Adat Tradisional
+Ammu Hawu yang terbuat dari kayu Lontar
+dengan batu yang menjadi pondasi (diatas tanah)
+yaitu sebesar 0,35.

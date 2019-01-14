@@ -1,0 +1,362 @@
+﻿PENYEDIAAN AIR BERSIH PADA KAWASAN RAWAN AIR
+BERSIH DI PESISIR UTARA LAMONGAN
+
+Abstrak:Permukiman di pesisir Utara Kabupaten Lamongan merupakan salah satu kawasan rawan
+air bersih yang ada di Jawa Timur.Selama ini, distribusi air bersih dilakukan melalui sambungan
+rumah yang diperoleh dari PDAM dan HIPPAM, namun pelayanan yang didapatkan ini masih
+sangat rendah dan jauh dibawah standar pelayanan minimum. Penelitian ini bertujuan untuk
+merumuskanarahan penyediaan air bersih pada kawasan rawan air di permukiman pesisir Utara
+di Kabupaten Lamongan.Metode yang digunakan dalam penelitian ini yaitu analisis statistik
+deskriptif untuk mengidentifikasi kebutuhan dan cakupan pelayanan air bersih, analisis regresi
+spasial dengan GWR (Geographically Weighted Regresion)untuk menentukan faktor-faktor yang
+berpengaruh dalam penyediaan air bersih dan analisis deskriptif untuk merumuskan arahan
+penyediaan air bersih di pesisir Utara Lamongan.
+Kata Kunci : air bersih, distribusi pelayanan, kawasan rawan air bersih, permukiman pesisir
+
+Pendahuluan
+Kawasan rawan air bersih di permukiman pesisir Utara Lamongan mempunyai
+karakteristik sebagai berikut: angka kepadatan penduduk relatif sedang, kondisi rumah
+umumnya kurang baik dan cenderung kumuh (dinding tidak permanen, lantai ubin dan tanah,
+atap genteng), kepadatan bangunan sangat tinggi dan terkonsentrasi di sepanjang pantai,
+prasarana dan sarana sangat terbatas, terutama yang berada di dalam areal permukiman(Dinas
+Pekerjaan Umum Tata Ruang dan Cipta Karya, 2007).
+
+Kondisi topografi Kabupaten Lamongan sangat tidak menguntungkan bagi penyediaan air bersih. Pada saat musim penghujan sebagian wilayah tertentu mengalami banjir, dipihak lain apabila musim kemarau sangat sulit mendapatkan air bersih. Pelayanan penyediaan air bersih di Kabupaten Lamongan masih terkendala (Dinas Pekerjaan Umum Tata Ruang dan Cipta Karya, 2007):
+1. Terbatasnya sumber daya manusia dan tenaga ahli di bidang air bersih
+2. Kurangnya sarana dan prasarana pendukung
+3. Cakupan pipa distribusi dan tersier, khususnya di Lamongan sudah tidak sesuai dengan jumlah pelanggan yang ada
+4. Masih terbatasnya jaringan pipa yang ada disamping kondisi pipanya yang sudah tua
+Masalah lain yang dihadapi terkait pelayanan air bersih disebabkan karena(Badan Perencanaan Pembangunan Daerah Kabupaten Lamongan, 2011):
+1. Belum terpenuhinya air bersih terutama air minum secara merata di KabupatenLamongan seperti di wilayah pantura dengan intensitas kegiatan yang tinggi, kebutuhanair minum dipenuhi dengan membeli air galon dan wilayah selatan yang jauh dari jangkauan juga belum terpenuhi air bersih;
+2. Kondisi air bersih yang selama ini digunakandi sebagian wilayah Kabupaten Lamongan terutama bagian utara merupakan air payau sehingga tidak dapat dimanfaatkan untuk air minum;
+3. Sumber-sumber air yang ada baik dari sungai maupun mata air belum mendapat pengelolaan secara terpadu terutama untuk memenuhi kebutuhan air minum;
+4. Kurangnya pengelolaan air bersih dan pendistribusiannya kepada masyarakat; serta;
+5. Peraturan yang menyangkut kelestarian sumber daya air yang ada di Kabupaten Lamongan masih kurang diberlakukan.
+Dalam rumusan Strategi Pembangunan Permukiman dan Infrastruktur Permukiman (SPPIP)Kabupaten Lamongan,terdapat beberapa permasalahan terkait peningkatan distribusi pelayanan air bersih yaitu jarak antara sumber air baku dengan wilayah pelayanan relatif jauh, kapasitas produksi air belum mencukupi kebutuhan, tingkat kebocoran tinggi, pengelola air minum tidak sehat, serta sumber-sumber air yang ada baik dari sungai maupun mata air belum mendapat pengelolaan secara terpadu terutama untuk memenuhi kebutuhan air minum, kurangnya pengelolaanair bersih dan pendistribusiannya kepada masyarakat, dan peraturanyang menyangkut kelestarian sumber daya air yang ada masih kurang diberlakukan. Kelemahan tersebut seharusnya dapat diminimalkan karena pelayanan distribusi air bersih di permukiman pesisir Utara Lamongan telah dikelola oleh PDAM unit Brondong dan Paciran serta PU Cipta Karya melalui pembangunan HIPPAM Desa. Selain itu, air baku di Lamongan cukup tersedia seperti Bengawan Solo, telaga dan waduk(Badan Perencanaan Pembangunan Daerah Kabupaten Lamongan, 2012).
+Karena letaknya berada di pesisir, sebagian besar masyarakat menggunakan sumur air dangkal pada kedalaman 2-3 meter yang memiliki kualitas air asin/payau untuk kegiatan MCK, sedangkan untuk keperluan masak dan minum masyarakat membeli air isi ulang berupa galon ataupun membeli dari orang yang menjajakan secara keliling air bersih berupa jerigen-jerigen, serta membeli kepada rumah tangga yang telah terlayani oleh PDAM.Berdasarkan fakta tersebut, maka penelitian ini dilakukan untuk merumuskan arahan penyediaan air bersih pada kawasan rawan air bersihdi permukiman pesisir Utara Lamongan.
+Jenis pelayanan air (yang memberi pengaruh terhadap konsumsi air) dikenal beberapa jenis untuk 2 kategori fasilitas penyediaan air bersih, yaitu(Kodoatie, 2005):
+
+1. Kategori fasilitas perpipaan, meliputi:
+a. Sambungan Langsung, dicirikan adanya kran yang disediakan sampai di dalam rumah atau bangunan.
+b. Sambungan halaman, dicirikan adanya kran yang disediakan sampai halaman saja.
+c. Sambungan umum, merupakan pelayanan umum berupa kran atau merupakan bak air yang disediakan bagi sekelompok rumah atau bangunan,diletakkan di tempat-tempat strategis sesuai fungsinya sebagai pelayanan umum, contohnyadi persimpangan jalan. Sambungan umum melayani sekitar 250-500 jiwa dengan radius jangkauan pelayanan sekitar 200 m untuk daerah padat dan 500m untuk area dengan permukiman terpencar.
+Jaringan pipa ini terbagi menjadi 2,yaitu:
+i. Jaringan pipa transmisi:
+Jaringan ini menghubungkan WTP (Water Treatment Plant/Unit Pengolahan Air) dan stasiun pompa booster. Di stasiun pompa booster air dari WTP pertama-tama dialirkan ke reservoir dan kemudian dengan menggunakan pompa booster air dipompakan ke jalur distribusi untuk disalurkan kepada pelanggan.
+ii. Jaringan pipa distribusi:
+Jaringan ini merupakan jaringan pipa yang langsung tersambung kepada pelanggan. Dalam pengoperasiannya, tekanan air yang mengalir melalui pipa distribusi diatur sesuai dengan konsumsi pelanggan. Sewaktu konsumsi air meningkat pada siang hari (pada pukul 08.00-16.00) tekanan ditingkatkan aliran air di kran pelanggan. Sebaliknya, waktu penggunaan rendah pada malam hari (pada pukul 16.00-08.00), tekanan dilakukan untuk melindungi jaringan dari tekanan yang berlebihan. Penurunan tekanan dilakukan dengan mengalirkan air ke reservoir hingga tekanan air dari WTP ke stasiun pompa booster selalu tetap sepanjang hari dan malam.
+2. Kategori fasilitas non perpipaan, meliputi: sumur umum, mobil air, mata air, yang pengelolaannya diperuntukkan untuk umum (secara teknis pelayanan sama dengan sambungan umum).
+Pemenuhan kebutuhan air bersih masyarakat, dapat dilakukan dengan cara pemanfataan sumber daya air, yang dapat dikelompokkan kedalam 2 (dua) cara, yaitu(Kammerer, 1976):
+1. Mengalirkan air dari sumber ke tempat pengguna atau pelayanan umum. Pemanfaatan ini digunakan bagi kebutuhan air perkotaan yang meliputi kebutuhan untuk kegiatan domsetik dan kegiatan umum, yang dikenal dengan pelayanan umum. Pelayanan ini dilakukan oleh pemerintah kota setempat yang pelaksanaannya dilakukan oleh PDAM dengan pemanfaatan dan pendistribusian ke daerah pelayanan atau pelanggan. Pelayanan ini dikenakan tarif menurut sistem meteran.
+2. Mengusahakan sendiri dengan menggali sumur (sumur gali maupun sumur bor). Cara ini banyak dilakukan penduduk untuk mencukupi kebutuhan domestik, niaga maupun industri. Pada daerah perumahan yang tidak terjangkau oleh pelayanan umum, umumnya masyarakat mengusahakan sendiri kebutuhan air melalui sumur gali ataupun sumur bor, sedangkan untuk sebagian masyarakat berpenghasilan rendah memanfaatkan air sungai untuk kebutuhan mencuci dan mandi.
+Berdasarkan sistem dasar penyediaan air bersih, terdapat 4 unit dalam pengelolaannya, yaitu unit air baku, unit produksi, unit distribusi, dan unit pelayanan.Unit pelayananmerupakan ujung terakhir dari sistem yang langsung bersentuhan dengan pelanggan, terkait dengan sambungan rumah, dimana keandalan sistem penyediaan air bersih dapat dilihat dari indikator terpenuhinya kebutuhan air di unit pelayanan yang ditinjau dari aspek kualitas, kuantitas, dan kontinuitas(Masduqi, 2007).
+Metode
+Penelitian ini dilakukan dengan pendekatan positivisme. Jenis penelitian adalah deskriptif. Penelitian deskriptif memberikan rincian gambaran yang spesifik dari sebuah situasi, kondisi sosial atau sebuah hubungan (Neuman, 2007). Data yang dibutuhkan dalam penelitian ini didapat melalui survey primer dan sekunder.
+Identifikasi kebutuhan air bersihdan cakupan pelayanan air bersih permukiman pesisir Utara Lamongan dilakukan dengan perhitungan matematis. Teknik yang digunakan untuk menganalisis faktor-faktor yang mempengaruhi distribusi cakupan pelayanan air bersih permukiman pesisir Utara Lamonganadalah regresi spasial dengan GWR (Geographically Weighted Regression) dan analisisdeskriptif, sedangkan perumusan arahan penyediaan air bersih pada kawasan rawan air bersih di permukiman pesisir Utara Lamongan dilakukan dengan analisis deskriptif.
+Hasil Dan Pembahasan
+A. Identifikasi Kebutuhan Air Bersih Permukiman Pesisir Utara Lamongan
+Dari perhitungan kebutuhan domestik air bersih pada 16 kelurahan pesisir Utara Lamongan, dibutuhkan 78,71 lt/dt air bersih, berdasarkan jumlah penduduk, serta standarProgram Pembangunan Prasarana Kota Terpadu (P3KT) Dinas Pekerjaan Umum Cipta Karya Daerah Provinsi Jawa Timur,pada kategori pedesaan dan ibu kota kecamatan dengan konsumsi air 60 lt/org/hari, sehingga dihasilkan kebutuhan air bersih permukiman pesisir Utara Lamongan seperti pada Gambar 1.
+Sumber: Hasil Perhitungan, 2013
+Gambar 1. Kebutuhan Air Bersih Permukiman Pesisir Utara Lamongan
+Jika dilihat dari tingkat kebocoran air bersih eksisting, maka kebutuhan air bersih 103,82 lt/dt. Dalam tabel di bawah ini terdapat jumlah masing-masing kebutuhan air bersih berdasarkan kebutuhan air bersih serta kapasitas terpasang terkait sumber air bersih yang ada di permukiman pesisir Utara Lamongan.
+
+Dengan mempertimbangkan kondisi eksisting yang ada pada lapangan terkait tingkat kebocoran fisik yang ada yaitu 32%, maka penambahan terhadap kebutuhan terhadap penambahan kapasitas adalah sebagai berikut:
+Tabel 1.Pengelola Pelayanan Air Bersih, Kebutuhan Air Bersih, dan Jumlah Kapasitas Terpasang Masing-Masing Kelurahan/Desa
+Pengelola
+Kelurahan/Desa
+Kebutuhan Berdasarkan Penambahan Kapasitas Terhadap Kebocoran Air
+Jumlah Kapasitas Debit Sumber Air(lt/dt)
+PDAM
+Brondong
+12,64
+20
+Sedayulawas
+12,97
+Blimbing
+15,91
+Kandangsemangkon
+6,90
+Sub Total
+48,42
+20
+HIPPAM
+Labuhan
+5,58
+3
+Lohgun
+2,83
+2
+Banjarwati
+7,23
+2
+Tunggul
+4,13
+3
+Weru Komplek:
+8,77
+Paloh
+1,13
+10
+Weru
+4,10
+Werulor
+1,42
+Sidokumpul
+2,12
+Sub Total
+28,54
+20
+Konvensional
+Kranji
+6,57
+Kemantren
+4,43
+Paciran
+14,27
+Sidokelar
+1,59
+Sub Total
+26,86
+0
+TOTAL
+103,82
+40
+Sumber: Hasil Perhitungan, 2013
+Cakupan Pelayanan Air Bersih Permukiman Pesisir Utara Lamongan
+Cakupan pelayanan air bersih di permukiman pesisir utara Lamongan dihitung dari prosentase perbandingan antara jumlah penduduk yang terlayani air bersih dengan jumlah penduduk keseluruhan. Data yang digunakan adalah jumlah penduduk tahun 2012. Dari hasil perhitungan,dapat diketahui bahwa cakupan pelayanan yang diberikan oleh PDAM pada Kelurahan/Desa Sedayulawas sebesar 0,25%, Brondong 14,53%, Blimbing 10,29%, dan Kandangsemangkon 0,32%. Untuk cakupan pelayanan HIPPAM Desa Desa Lohgung 38,83%, Labuhan 45,99%, Tunggul 26,50%, Banjarwati 63,36%, dan Weru Komplek (Paloh, Werulor, Weru dan Sidokumpul) sebesar 20,88%. Untuk Kelurahan/Desa yang tidak memperoleh pelayanan keduanya yaitu Kranji, Kemantren, Paciran dan Sidokelar cakupan pelayanan sebesar 0%.
+Analisis Faktor-Faktor yang Mempengaruhi Distribusi Pelayanan Air Bersih Permukiman Pesisir Utara Lamongan
+Dalam menganalisis faktor-faktor yang mempengaruhi distribusi pelayanan air bersih di permukiman pesisir Utara Lamongan, dilakukan dengan menggunakan analisis GWR, melalui minitab dan software R, yang dilakukan untuk memperoleh variabel penentu yang signifikan mempengaruhi pelayanan air bersih pada setiap kelurahan/desa pada wilayah penelitian.
+Berikut adalah tabel terkait variabel respon dan prediktor yang akan digunakan dalam
+analisa GWR.
+Tabel 2. Variabel yang Diduga Mempengaruhi Distribusi Pelayanan Air Bersih
+Permukiman Pesisir Utara Lamongan
+Variabel Respon dan Prediktor Variabel yang Diduga Mempengaruhi Distribusi Pelayanan Air
+Bersih Perpipaan
+Y1 Cakupan pelayanan air bersih perpipaan kelurahan/Desa
+X1 Luas permukiman (Ha)
+X2 Jumlah tahapan penduduk prasejahtera (sangat miskin) dan
+sejahtera I (miskin) (KK)
+X3 Kepadatan penduduk (jiwa/km2)
+X4 Alokasi dana peningkatan prasarana air bersih
+X5 Ketinggian wilayah pelayanan
+X6 Jarak sumber produksi air bersih perpipaan terhadap lokasi
+permukiman tiap Kelurahan/Desa (meter)
+X7 Jumlah sumber air bersih potensial pada tiap kelurahan/desa
+dalam pemenuhan pelayanan air bersih
+X8 Jumlah Persebaran permukiman
+X9 Tarif pelayanan air bersih/bulan (rupiah)
+X10 Debit Sumber Air Bersih (lt/dt)
+X11 Kelerengan Sumber Air Bersih
+Sumber: Analisis, 2013
+Analisis faktor-faktor yang mempengaruhi distribusi cakupan pelayanan air bersih permukiman
+pesisir Utara Lamongan dilakukan melalui beberapa tahap berikut:
+1. Regresi Linier
+Berdasarkan data yang ada dilakukan pengujian untuk menentukan model terbaik dengan
+regresi stepwise sehingga didapatkan enam variabel prediktor yang berpengaruh yaitu X3, X4,
+X6, X7, X10 dan X11.Hasil dari pengujian secara serentak dari model regresi stepwise ini
+menyatakan bahwa secara serentak variabel prediktor tersebut berpengaruh terhadap model
+regresi karena nilai signifikansi yang kurang dari α = 20%
+-10 -5 0 5 10
+99
+95
+90
+80
+70
+60
+50
+40
+30
+20
+10
+5
+1
+RESI1
+Percent
+Mean -1.88738E-15
+StDev 4.954
+N 16
+KS 0.094
+P-Value >0.150
+Probability Plot of RESI1
+Normal
+Sumber: Hasil Analisis, 2013
+Gambar 2.Grafik Plot Berdistribusi Normal
+
+2. Uji Residual Berdistribusi Normal
+Berdasarkan grafik plot dibawah, menunjukkan bahwa data yang digunakan berdistribusi
+normal, dan dapat dilanjutkan pada tahap selanjutnya yaitu uji efek spasial.
+3. Uji Efek Spasial
+Efek spasial dari pelayanan air bersih mamiliki aspek lokasi secara heterogeniti yang
+ditunjukkan oleh hasil pengujian Breusch-Pagan test lebih kecil dari toleransi kesalahan 20%.
+Nilai Uji Moran’s I yang lebih besar dari 20% mengindikasikan bahwa distribusi pelayanan air
+bersih tidak terjadi berdasarkan dependensi antar Kelurahan/Desa (Tabel 3.).Hasil uji Breusch-
+Pagan yang signifikan sehingga pendekatan yang dilakukan adalah pendekatan berbasis titik.
+Tabel 3.Nilai Signifikansi Uji efek Spasial
+Pengujian Nilai Signifikansi
+Breusch-Pagan *0.0903
+Moran’s I 0.9938
+Sumber: Hasil Analisis, 2013
+4. Model GWR
+Fungsi pembobot yang digunakan adalah fungsi pembobot yang diperoleh dari Gaussian
+Adaptive yaitu pada AIC yaitu 92,00665 karena terkait dengan error, pada adaptive Gaussian
+AIC yang dihasilkan minimumdan nilai 2 R yang dihasilkan maksimum yaitu 0.9707974.
+5. Menentukan Model Terbaik antara GWR dan Regresi Stepwise
+Tahap terakhir dalam analisis faktor yang mempengaruhi distribusi cakupan pelayanan air
+bersih di permukiman pesisir Utara Lamongan adalah penentuan model terbaik antara GWR
+dan Regresi Stepwise.
+Tabel 4.Perbandingan Model Stepwise dan GWR
+Kriteria Regresi Stepwise GWR
+R2 93,15% 97,07%
+SSE 368,07 156,94
+Sumber: Hasil Analisis, 2013
+Hal tersebut ditunjukkan karena nilai R2 atau nilai koefisien determinasi model GWR lebih
+besar daripada model regresi stepwise. Nilai R2 pada model GWR adalah sebesar 97,07%;
+artinya model GWR mampu menjelaskan 97,07% variabel-variabel yang berpengaruh terkait
+dengan pendistribusian air bersih yang ada di permukiman pesisir Utara Lamongan lebih baik
+dari pada model regresi stepwise yang hanya mampu menjelaskan sebesar 93,15% variabelvariabel
+yang berpengaruh terkait dengan pendistribusian air bersih yang ada di permukiman
+pesisir Utara Lamongan.
+
+Gambar 3. Pemetaan Analisis GWR berdasarkan Variabel yang Berpengaruh terhadap Distribusi Pelayanan Air Bersih di Permukiman Pesisir Utara Lamongan
+Selain itu model GWR lebih baik daripada model regresi stepwise karena nilai SSE yang dihasilkan oleh model GWR lebih kecil daripada nilai SSE yang dihasilkan oleh regresi stepwise. Nilai SSE model GWR sebesar 156,9407 sementara nilai SSE model regresi stepwise adalah sebesar 368,0765.
+Dari Gambar 3 di atas dapat diketahui bahwa ada 6 variabel yang berpengaruh terhadap distribusi pelayanan air bersih di permukiman pesisir Utara Lamongan, yang mana variabel yang berpengaruh secara global adalah variabel jumlah sumber air bersih dan kelerengan sumber air bersih, sedangkan variabel yang berpengaruh secara lokal adalah variabel kepadatan penduduk, alokasi dana peningkatan pelayanan air bersih, jarak sumber air bersih perpipaan terhadap lokasi permukiman dan debit sumber air bersih. Variabel yang terpilih dalam analisis GWR akan diolah dengan analisis deskriptif untuk mendapatkan faktor yang mempengaruhi distribusi pelayanan air bersih. Berikut adalah pengelompokan kelurahan/desa berdasarkan kesamaan faktor yang mempengaruhi.
+Tabel 5.Pengelompokan Kelurahan/Desa berdasarkan KesamaanFaktor yang Mempengaruhi Distribusi Pelayanan Air Bersih Permukiman Pesisir Utara Lamongan
+Kelurahan/
+Desa
+Faktor yang Mempengaruhi
+Blimbing
+Alokasi dana peningkatan prasarana air bersih dalam peningkatan akses terhadap air bersih
+Jarak permukiman (wilayah pelayanan) terhadap bangunan pengolahan sumber air bersih
+Jumlah sumber air yang menjadi prioritas masyarakat untuk peningkatan pelayanan air bersih.
+Debit sumber air bersih terkait kebutuhan air bersih masing-masing Kelurahan/Desa
+Kondisi kelerengan sumber air bersih terhadap wilayah pelayanan yang membutuhkan distribusi air bersih.
+Brondong, Sedayulawas, Lohgung, Labuhan, Kandangsemangkon, Paciran
+Kepadatan penduduk tinggi pada permukiman padat nelayan dan perkampungan pesisir Utara Lamongan
+Alokasi dana peningkatan prasarana air bersih dalam peningkatan akses terhadap air bersih
+Jarak permukiman (wilayah pelayanan) terhadap bangunan pengolahan sumber air bersih
+Jumlah sumber air yang menjadi prioritas masyarakat untuk peningkatan pelayanan air bersih.
+Debit sumber air bersih terkait kebutuhan air bersih masing-masing Kelurahan/Desa
+Kondisi kelerengan sumber air bersih terhadap wilayah pelayanan yang membutuhkan distribusi air bersih.
+Sidokelar, Weru, Paloh, Sidokumpul, Weru Lor
+Jumlah sumber air yang menjadi prioritas masyarakat untuk peningkatan pelayanan air bersih.
+Kondisi kelerengan sumber air bersih terhadap wilayah pelayanan yang membutuhkan distribusi air bersih.
+Kranji, Tunggul
+Kepadatan penduduk tinggi pada permukiman padat nelayan dan perkampungan pesisir Utara Lamongan
+Alokasi dana peningkatan prasarana air bersih dalam peningkatan akses terhadap air bersih
+Jumlah sumber air yang menjadi prioritas masyarakat untuk peningkatan pelayanan air bersih.
+Debit sumber air bersih terkait kebutuhan air bersih masing-masing Kelurahan/Desa
+Kondisi kelerengan sumber air bersih terhadap wilayah pelayanan yang membutuhkan distribusi air bersih.
+Banjarwati
+Alokasi dana peningkatan prasarana air bersih dalam peningkatan akses terhadap air bersih
+Jumlah sumber air yang menjadi prioritas masyarakat untuk peningkatan pelayanan air bersih.
+Debit sumber air bersih terkait kebutuhan air bersih masing-masing Kelurahan/Desa
+Kondisi kelerengan sumber air bersih terhadap wilayah pelayanan yang membutuhkan distribusi air bersih.
+Kemantren
+Alokasi dana peningkatan prasarana air bersih dalam peningkatan akses terhadap air bersih
+Jumlah sumber air yang menjadi prioritas masyarakat untuk peningkatan pelayanan air bersih.
+Kondisi kelerengan sumber air bersih terhadap wilayah pelayanan yang membutuhkan distribusi air bersih
+Sumber:Analisa, 2013
+Simulasi Model Pelayanan Air Bersih Permukiman Pesisir Utara Lamongan
+Berdasarkan hasil output GWR, melalui faktor pembobot Gaussian Adaptif diperoleh persamaan model untuk tiap-tiap kelurahan/desa.Persamaan model GWR merupakan persamaan model untuk masing-masing kelurahan/desa dengan menggunakan hasil standarisasi, sehingga perlu untuk mengubah hasil persamaan tersebut dengan data awal sebelum dilakukan standarisasi, yang dipaparkan pada Tabel 6, sehingga dapat dilakukan proses simulasi ketika menggunakan model yang telah dikembalikan kepada data awal.
+
+Arahan Penyediaan Air Bersih pada Kawasan Rawan Air Bersih di Permukiman Pesisir Utara Lamongan
+Tahap terakhir dari penelitian ini adalah perumusan arahan penyediaan air bersih pada kawasan rawan air bersih di permukiman pesisir Utara Lamongan, yang dilakukan dengan analisis deskriptif. Analisa ini bertujuan untuk memberikan arahan spesifik terhadap Kelurahan/Desa yang ada di permukiman pesisir Utara Lamongan terkait distribusi pelayanan air bersih berdasarkan simulasi model untuk tiap Kelurahan/Desa dari tahapan analisis sebelumnya, kebijakan terkait, dan teori/best practice.
+Arahan untuk keenambelaskelurahan/ desa ini akan dibagi menjadi 2, yaitu berdasarkan sumber pendistribusiannya (PDAM dan HIPPAM) dan kesamaan faktor yang mempengaruhi. Adapun arahan yang dirumuskan berdasarkan masing-masing faktor yang mempengaruhi adalah sebagai berikut:
+Tabel 6.Contoh Simulasi Persamaan GWR Kelurahan Brondong
+Model Persamaan GWR
+Y=11,036-(3,66x10-4)X3+(2,054x10-7)X4
+-(1,39x103)X6+23,027X7+2,193X10-3,198X11
+Simulasi Model
+Dalam simulasi ini dijelaskan bahwa:
+Y = persentase cakupan pelayanan air bersih di setiap kelurahan/desa di permukiman pesisir Utara Lamongan.
+ Interpretasi Model: Kepadatan Penduduk:
+Dalam simulasi ini X3 adalah kepadatan penduduk, dimana X3 disini dianggap 1 yang mewakili satuan luas kepadatan penduduk
+Y = 11,036 - (3,66x10-4)X3
+Y = 11,036 - (3,66x10-4)(1)
+Y = 11,035
+Maka, semakin bertambahnya 1 satuan luasan kepadatn penduduk maka akan mempengaruhi perubahan cakupan pelayanan air bersih sebesar 11,035
+Alokasi dana penyediaan air bersih:
+Dalam simulasi ini X4 adalah Alokasi dana penyediaan air bersih, dimana X4 disini dianggap 1 yang mewakili rupiah dalam setiap pengalokasian dana.
+Y = 11,036 + (2,054x10-7)X4
+Y = 11,036 + (2,054x10-7)(1)
+Y = 11,0360002056
+Maka, semakin bertambahnya satuan rupiah dalam pengalokasian dana akan mempengaruhi cakupan pelayanan air bersih sebesar 11,0360002056
+Jarak sumber produksi air bersih perpipaan terhadap lokasi permukiman:
+Dalam simulasi ini X6 adalah jarak sumber produksi air bersih perpipaan terhadap lokasi permukiman dianggap 1 yang mewakili satuan meter.
+Y = 11,036 - (1,39x10-3 ) X6
+Y = 11,036 - (1,39x10-3 )(1)
+Y = 11,034
+Maka, semakin meningkatnya satuan 1 meter jarak sumber produksi air bersih terhadap permukiman maka akan mempengaruhi cakupan pelayanan air bersih sebesar 11,034
+
+Jumlah Sumber Air Bersih:
+Dalam simulasi ini X7 adalah jumlah sumber air bersih, dimana X7 disini dianggap 1 yang mewakili satu jumlah sumber air. Y = 11,036 + 23,027 X7 Y = 11,036 + 23,027 (1) Y = 34,036 Maka, dengan bertambahnya satu sumber air akan mempengaruhi cakupan pelayanan air bersih sebesar 34,036 Debit Sumber Air Bersih:
+Dalam simulasi ini X10 adalah debit sumber air bersih, dimana X10 disini dianggap 1 yang mewakili liter per detik. Y = 11,036 + 2,193X10 Y = 11,036 + 2,193 (1) Y = 13,229 Maka, dengan bertambahnya satu lt/dt debit sumber air bersih maka akan mempengaruhi cakupan pelayanana air bersih sebesar 13,229 Kelerengan Sumber Air Bersih:
+Dalam simulasi ini X11 adalah kelerengan sumber air bersih, dimana X11 disini dianggap 1 yang mewakili satu persentase kelerengan wilayah.
+Y = 11,036 – 3,198X11
+Y = 11,036 – 3,198 (1)
+Y = 7,838
+Maka, dengan bertambahnya satu persen kelerengan akan mempengaruhi cakupan pelayanan air bersih sebesar 7,838
+Sumber: Hasil Analisa 2013
+Tabel 7.Arahan Penyediaan Air Bersih pada Kawasan Rawan Air Bersih
+di Permukiman Pesisir Utara Lamongan
+Faktor yang Mempengaruhi Distribusi Air Bersih
+Arahan
+1. Kepadatan penduduk pada permukiman padat Nelayan dan perkampungan pesisir Utara Lamongan
+a. Pemerataan kepadatan penduduk pada masing-masing wilayah sesuai dengan penetapan zoning regulation dan aturan terkait.
+b. Mempertahankan kondisi kepadatan permukiman eksisting dan meratakan kepadatan penduduk dalam rangka mengurangi intensitas pengambilan air tanah di suatu daerah secara berlebihan.
+2. Alokasi dana peningkatan prasarana air bersih dalam peningkatan akses terhadap air bersih
+a. Mengalokasikan dana untuk peningkatan jaringan pipa transmisi dan tersier.
+b. Mengalokasikan dana untuk peningkatan kapasitas produksi atau peningkatan debit sumber air.
+c. Melakukan investasi dan kerjasama antara pemerintah daerah, pemerintah propinsi ataupun bantuan luar negeri untuk pengembangan HIPPAM.
+d. Menyusun pedoman pola investasi dan sistem pembiayaan pengembangan prasarana air bersih melalui sistem BOT (Build Operate Transfer) ataupun BOOT (Build Operate Own Transfer), ataupun konsesi penuh, untuk pemeliharaan jaringan PDAM serta pengembangan dan penyehatan PDAM.
+3. Jarak permukiman (wilayah pelayanan) terhadap bangunan pengolahan sumber air bersih
+a. Mengembangan distribusi pipa tersier ± 800 meter kepada Kelurahan Brondong terutama wilayah permukiman padat nelayan.
+b. Mengembangkan jaringan air bersih distribusi pipa transmisi dari sumber Sudetan Bengawan Solo PDAM untuk Desa Sedayulawas antara 3.000-5.000 meter
+c. Mengembangan jaringan distribusi air bersih dengan pipa transmisi ± 2.000-2.100 meter dari sumber air bersih PDAM kepada Desa Kandangsemangkon
+d. Mengembangan distribusi pipa tersier ± 2.900-4.300 meter kepada Desa Paciran terutama wilayah permukiman padat nelayan.
+e. Pengembangan distribusi pipa tersier dari sumber air bersih PDAM untuk Kelurahan Blimbing terutama wilayah permukiman padat nelayan.
+f. Peningkatan jaringan pipa transmisi sepanjang ± 900 meter untuk Kelurahan Blimbing.
+g. Mengembangkan jaringan perpipaan tersier ke rumah-rumah (SR) dengan partisipasi masyarakat dari sumber air bersih dengan pengelolaan HIPPAM Desa.
+
+Faktor yang Mempengaruhi Distribusi Air Bersih
+Arahan
+4. Jumlah sumber air prioritas masyarakat untuk peningkatan pelayanan air bersih
+a. Melakukan konservasi berupa penghijauan disekitar sumber air bersih sumur bor PDAM Unit Brondong-Paciran di Kelurahan Blimbing.
+b. Memprioritaskan Sudetan bengawan Solo sebagai sumber baru untuk PDAM untuk peningkatan distribusi pelayanan air bersih di permukiman pesisir Utara Lamongan.
+c. Membuat sumur bor air bersih, melalui pengembangan HIPPAM yang memiliki kontribusi dalam penyediaan air bersih selain PDAM dan menempatkan sumber air tanah yang dikembangkan melalui HIPPAM dengan tower air yang dengan permukiman penduduk serta pada wilayah yang memiliki potensi air sedang (5lt/dt).
+d. Mengembangkan HIPPAM dengan sumber embung dan waduk penangkapan air hujan (PAH) untuk desa/kelurahan yang memiliki sumber air tanah langka, serta memanfaatkan simpanan air embung dan waduk secara efektif dan selektif untuk mengatasi kekeringan air bersih di musim kemarau.
+5. Debit Sumber Air Bersih Terkait Kebutuhan Air Bersih Masing-Masing Kelurahan/Desa
+a. Mengoptimalkan idle capacity/kelebihan kapasitas produksi dari sumber air tanah PDAM sebesar 5 lt/dt, pengoptimalan pada wilayah pelayanan yang belum memiliki sambungan tersier namun telah dilewati oleh jaringan pipa transmisi.
+b. Penambahan debit sumber air bersih atau kapasitas produksi di Kelurahan Blimbing menjadi 25 lt/dt.
+c. Menambahkan debit aliran air bersih dari sumber air bor PDAM di Kelurahan Blimbing untuk Kelurahan Brondong menjadi 13 lt/dt.
+d. Menambah debit aliran air bersih dari sumber air PDAM untuk Desa Sedayulawas menjadi 10 lt/dt, Desa Kandangsemangkon menjadi 7 lt/dt, untuk Desa Paciran menjadi 14 lt/dt melalui jaringan PDAM dari sumber Sudetan Bengawan Solo.
+e. Penambahan debit sumber air Desa Lohgung, menjadi 3lt/dt dan pengoptimalan kapapasitas produksi yang ada.
+f. Pengoptimalan debit sumber air bersih melalui HIPPAM Desa Labuhan, dengan menggunakan kapasitas produksi yang belum terpakai pada tower I.
+g. Menambahkan debit aliran air bersih dari sumber air bor PDAM untuk Desa Kranji yaitu 4 lt/dt melalui jaringan PDAM.
+h. Mengoptimalkan idle capacity/kelebihan kapasitas produksi dari sumber air tanah Desa Tunggul, Labuhan, Lohgung, pada wilayah pelayanan di sekitar sumber air bersih.
+6. Kondisi Kelerengan Sumber Air Bersih Terhadap Wilayah Pelayanan yang Membutuhkan Distribusi Air Bersih.
+a. Mendistribusikan sistem distribusi pelayanan air bersih dari sumber air PDAM di Kelurahan Blimbing dengan Sumber air Tanah menuju permukiman di Kelurahan Brondong dengan sistem grafitasi.
+b. Memanfaatkan topografi wilayah yang berbukit bukit dengan cara mengoptimalkan sistem kinerja pompa distribusi, di Kelurahan Blimbing.
+c. Mendistribusikan air bersih dengan sistem pompa distribusi dari sumber air sudetan Bengawan Solo, untuk Desa Sedayulawas, Kandangsemangkon, dan Desa Paciran dengan kondisi topografi yang berbukit-bukit.
+d. Memanfaatkan tower HIPPAM desa dari sumber air tanah dengan kondisi yang lebih tinggi sehingga dapat mengoptimalkan sistem pendistribusian dengan sistem gravitasi.
+e. Meletakkan embung penangkapan air hujan di tempat yang memiliki kelerengan lebih tinggi daripada wilayah pelayanan (permukiman penduduk), sehingga dapat dilakukan dengan sistem distribusi melalui gravitasi.
+Sumber: Hasil Analisis, 2013
+Simpulan
+Adapun kesimpulan dari penelitian ini adalah:
+1. Kebutuhan air bersih untuk permukiman pesisir Utara Lamongan yaitu 103,82 lt/dt, dengan kapasitas terpasang yang ada yaitu 40 lt/dt. Cakupan pelayanan air bersih untuk masing-masing kelurahan/desa di permukiman pesisir Utara Lamongan masih kurang dari target cakupan pelayanan yang ditargetkan oleh Kabupaten Lamongan pada tahun 2016 yaitu <75%. Dari hasil GWR diperoleh 2 variabel yang berpengaruh secara global dan 4 variabel yang berpengaruh secara lokal.
+2. Adapun arahan penyediaan air bersih melaui pengelolaan PDAM, pada wilayah pelayanan Kelurahan Brondong, Blimbing, Desa Sedayulawas, Kandangsemangkon adalah sebagai berikut:
+a. Memberikan sumber air bersih prioritas baru melalui pengelolaan PDAM dari sumber air Sudetan Bengawan Solo yang bermuara di Desa Sedayulawas dengan pengembangan IPA untuk Desa Sedayulawas, Kandangsemangkon, dan Paciran.
+b. Mengoptimalkan sumber air tanah PDAM di Kelurahan Blimbing untuk Kelurahan Blimbing dan Brondong.
+c. Sistem distribusi yang digunakan untuk Sudetan Bengawan Solo adalah sistem distribusi pompa penguat tekanan (booster pump) karena letak wilayahnya yang jauh dari wilayah pelayanan dan cenderung berbukit-bukit, sedangkan sumber air tanah PDAM dengan memanfaatkan kelerengan wilayah yang berbukit dilakukan dengan cara mengoptimalkan sistem kinerja pompa distribusi dan penggunaan sistem gravitasi pada beberapa wilayah pelayanan yang topografinya lebih rendah dibandingkan dengan wilayah pelayanan (permukiman penduduk).
+d. Memanfaatkan kapasitas produksi yang belum terpakai dengan memanfaatkan sumber air tanah di Kelurahan Blimbing yang dikelola PDAM, serta penurunan tingkat kebocoran dalam proses pendistribusian air bersih kepada masyarakat (terutama kebocoran pada jaringan pipa induk distribusi yang sudah tua/di atas 20 tahun).
+e. Mengoptimalkan wilayah pelayanan pada wilayah yang belum terlayani oleh sambungan distribusi air bersih tetapi sudah tersedia jaringan perpipaannya (pipainduk)
+f. Memperkecil jarak sumber air bersih dengan pengembangan jaringan pipa kepada lokasi-lokasi potensial terutama pada wilayah yang memiliki jumlah dan kepadatan penduduk tinggi di permukiman nelayan
+3. Arahan penyediaan air bersih melalui pengelolaan HIPPAM Desa, pada wilayah pelayanan Desa Weru Komplek, Lohgung, Labuhan, Tunggul dan Banjarwati adalah sebagai berikut:
+a. Memberikan sumber air prioritas untuk masyarakat agar mengurangi penggunaan sumur dangkal yang mayoritas digunakan, sehingga akan menurunkan tingkat intrusi air laut, memanfaatkan sumber air tanah dengan pengelolaan melalui HIPPAM dapat dilakukan dengan menggunakan air tanah dengan potensi sedang yaitu pada potensi (5lt/dt) serta alternatif sumber air berupa penampungan air hujan (PAH) melalui pengembangan embung atau bangunan tadah hujan untuk kelurahan/desa dengan potensi air tanah langka yang memiliki rata-rata curah hujan yang cukup potensial yaitu 1250 mm/thn.
+b. Peningkatan pelayanan distribusi air bersih dengan pemanfaatan secara optimum debit yang ada serta penambahan debit sesuai dengan kebutuhan masyarakat.
+c. Mengoptimalkan jaringan pipa distribusi induk yang sudah ada dengan caramenambah jaringan pipa distribusi yang langsung menuju tiap-tiap sambungan rumah (masyarakat) yaitu peningkatan jaringan pipa tersier untuk yang dilayani oleh HIPPAM melalui partisipasi masyarakat.
+d. Memanfaatkan tower HIPPAM desa dari sumber air tanah dengan kondisi yang lebih tinggi sehingga dapat mengoptimalkan sistem pendistribusian dengan sistem gravitasi.
+
+Gambar 4. Peta Arahan Penyediaan Air Bersih pada Kawasan Rawan Air Bersih melalui PDAM di Permukiman Pesisir Utara Lamongan
+4. Memperluas cakupan pelayanan pada wilayah potensial yaitu pada permukiman padat dan perkampungan nelayan yang berpotensial membutuhkan distribusi pelayanan air bersih baik dari pelayanan HIPPAM Desa ataupun PDAM.
+5. Pengalokasian dana dalam bentuk kerja sama dan investasi dari pihak swasta maupun Jasa Tirta dengan Pemerintah Daerah Kabupaten Lamongan serta Pemerintah Provinsi untuk penyehatan PDAM dan pengembangan HIPPAM Desa.

@@ -1,0 +1,211 @@
+﻿KAJIAN EMPIRIS MEKANISME REAKSI HIDROGEN PEROKSIDA DENGAN IODIDA PADA SUASANA ASAM
+
+ABSTRAK
+Penelitian ini bertujuan untuk mengetahui order reaksi I- dalam mekanisme reaksi hidrogen peroksida dengan iodida pada suasana asam, mengetahui hukum laju, dan menunjukkan peran H+ dalam reaksi. Percobaan penentuan order reaksi dilakukan dengan metode isolasi menggunakan spektrofotometer UV-Vis. Order reaksi diperoleh dari nilai r yang mendekati satu dari hasil regresi liniernya. Hukum laju berupa penjumlahan atau bukan ditentukan dari ada tidaknya gas O2. Sementara peran H+ dalam reaksi ditentukan dari pengamatan pH dalam waktu 60 menit.
+Hasil percobaan menunjukkan bahwa mekanisme reaksi memiliki hukum laju berupa pecahan, dimana I- dapat berorder 0 dan 1. Selain itu hukum laju dalam kondisi percobaan ini cenderung bukan merupakan penjumlahan dengan tidak didapatkannya gas O2 dan nilai kobs yang relatif sama pada order yang sama. Peran H+ teramati bukan sebagai katalis melainkan pereaksi.
+Kata kunci : hukum laju, mekanisme reaksi, metode isolasi, order reaksi, peran H+.
+
+PENDAHULUAN
+Reaksi hidrogen peroksida dengan iodida merupakan salah satu reaksi kompleks yang sering ditemukan dalam buku-buku kimia terutama pada pembahasan mengenai kinetika reaksi. Penelitian mengenai reaksi ini telah dipelajari setidaknya sejak tahun 1866 oleh Harcourt dan Esson (Harcourt dan Esson, 1867 dalam Liebhafsky and Mohammad, 1933). Reaksi hidrogen peroksida dengan iodida bergantung pada suasana campuran. Pada suasana basa, reaksi dihasilkan produk O2 sedangkan pada suasana asam didapatkan produk berupa I3- (Lestari, 2003).
+Pada suasana asam Liebhafsky and Mohammad (1933) dalam reaksinya menyatakan hukum laju reaksi merupakan penjumlahan dan berorder satu terhadap masing-masing pereaksi. Reaksi hidrogen peroksida dengan iodida pada suasana asam dinyatakan dalam reaksi yang tercantum dalam persamaan (1):
+H2O2(aq) + 2H+(aq) + 3I-(aq) 2H2O(l) + I3-(aq) (1)
+Liebhafsky and Mohammad (1933) mengusulkan reaksi tersebut berlangsung melalui dua tahap reaksi yang berbeda dan berlangsung bersamaan seperti tercantum pada persamaan (2) dan (3).
+Reaksi 1
+H2O2(aq)+ H+(aq)+ I-(aq) HOI(aq) + H2O(l) (2)
+Reaksi 2
+H2O2(aq) + I-(aq) H2O(l) + IO-(aq) (3)
+Hukum laju dari reaksi tersebut menurut Liebhafsky and Mohammad (1933) adalah:
+ν = ka [H+][H2O2][I-] + kb [H2O2][I-].
+Sementara itu, Copper and Koubek (1998) berpendapat penjabaran dari reaksi 1 dimungkinkan berlangsung sesuai mekanisme yang tercantum pada persamaan (4) dan (5).
+H2O2(aq) + H+(aq) H3O2+(aq)cepat-setimbang (4)
+H3O2+(aq)+ I-(aq) H2O(l) + HOI(aq) lambat (5)
+Setelah zat antara HOI terbentuk, reaksi berlangsung mengikuti mekanisme reaksi Copper and Koubek (1998) (persamaan (6), (7), (8)).
+HOI(aq) + I-(aq) I2(aq) + HO-(aq) cepat (6)
+
+H+(aq)+ HO-(aq) H2O(l) cepat-setimbang (7)
+I2(aq) + I-(aq) I3-(aq) cepat-setimbang (8)
+Pembuktian terhadap mekanisme reaksi yang diusulkan dapat dilakukan dengan merujuk pada hukum lajunya. Pada reaksi komplek akan lebih tepat jika dilakukan dengan pendekatan keadaan mantap. Berdasarkan Pendekatan Keadaan Mantap, hukum laju yang didapatkan dari reaksi yang digunakan Copper and Koubek (1998) seperti tampak pada persamaan (9).
+R:... (9)
+Pendekatan dengan keadaan mantap dari mekanisme yang diberikan dimungkinkan dapat memberikan order reaksi I- bernilai satu atau nol bergantung pada konsentrasinya. Hakim (2013) dalam percobaannya untuk membuktikan reaksi Levine (2009) mendapatkan H2O2 dapat berorder nol. Didapatkannya kondisi H2O2 dapat berorder nol ini dirasa menarik untuk diteliti lebih lanjut untuk mengetahui apakah I- juga dapat berorder nol atau tidak. Selama ini reaksi masih sering dianggap berorder satu terhadap I-.
+Selain reaksi dinyatakan berorder satu, hukum laju mekanisme reaksi juga dinyatakan sebagai bentuk penjumlahan. Liebhafsky and Mohammad (1933) menyatakan hukum laju penjumlahan berasal dari reaksi antara H+, I-, dan H2O2 serta reaksi yang lain terjadi yakni antara H2O2 dan I-. Hasil percobaan Lestari (2003) menunjukan bahwa reaksi hidrogen peroksida dengan iodida sangat bergantung pada suasana campuran. Pada suasana mendekati netral, produk reaksi teramati merupakan gas O2 dan I3-. Produk reaksi ini terus berlanjut hingga suasana yang lebih asam. Sedangkan pada suasana cukup basa, produk reaksi teramati hanya berupa gas O2, adapun I3- tidak teramati. Reaksi hidrogen peroksida dengan iodida pada suasana basa ini kemudian terbukti sebagai reaksi dekomposisi H2O2 yang dikatalisis oleh I-. Berdasarkan hasil ini, maka pengusulan Copper and Koubek (1998) bahwa reaksi yang lajunya tidak dipengaruhi H+ sebagai reaksi tidak terkatalisis H+ adalah kurang tepat bila produk reaksi tetap dinyatakan I3-.
+Sebuah pendekatan yang cukup bagus adalah apabila reaksi yang lajunya tidak dipengaruhi H+dianggap sebagai reaksi dekomposisi H2O2 yang dikatalisis oleh iodida.
+Menurut Lestari (2003), reaksi ini dimungkinkan mengikuti mekanisme pada persamaan (10) dan (11).
+H2O2(aq) + I-(aq) H2O(l) + OI-(aq) lambat (10)
+H2O2(aq)+ OI-(aq) H2O(l)+ O2(g) + I-(aq) cepat (11)
+
+Hukum laju dalam reaksi hidrogen peroksida dengan iodida dalam suasanan asam perlu diteliti lebih lanjut karena Liebhafsky and Mohammad (1933) dan beberapa penelitian setelahnya tidak menyebutkan adanya O2 dalam reaksi tersebut.
+Permasalahan berikutnya yang masih belum jelas adalah peranan H+ dalam reaksi.Copper and Koubek (1998) menyatakan bahwa H+ bertindak sebagai katalis. Dalam percobannya Copper and Koubek (1998) menjelaskan reaksi tidak terkatalisis H+ dengan suatu buffer asetat sedangkan untuk menjelaskan reaksi terkatalisis H+ digunakan asam nitrat. Bila dicermati kembali, reaksi menggunakan buffer asetat masih terdapat H+ yang berpengaruh dalam campuran. Selain itu, asam nitrat dapat bertindak sebagai oksidator sehingga sangat mungkin akan didapatkan nilai kobs yang berbeda dibandingkan pada kondisi percobaan menggunakan buffer asetat. Berdasarkan persamaan stokiometri yang diajukan, H+ juga diisyaratkan bukan sebagai katalis karena tidak dihasilkan kembali. Atas dasar hal ini, dirasa perlu untuk dilakukan penelitian mengenai peran H+ dalam reaksi ini.
+METODE PENELITIAN
+Metode yang digunakan dalam penelitian ini adalah metode eksperimen yang dilakukan di laboratorium. Bahan yang digunakan dalam penelitian ini adalah larutan H2O2 30%, H2SO4 96%, KI buatan Merck, I2 buatan Merck,dan aquades sebagai pelarut. Konsentrasi awal pereaksi yang digunakan sesuai pada metode isolasi yakni salah satu pereaksi dibuat kecil sementara pereaksi yang lain dibuat besar dan konsentrasinya dianggap tetap. Dalam hal ini, konsentrasi I- kecil sementara H2SO4 dan H2O2 dibuat besar dan nilainya dianggap tetap. Percobaan dibagi menjadi empat bagian yaitu penentuan panjang gelombang maksimum dan absorbtivitas molar, pembuktian mekanisme reaksi ditinjau dari order reaksi I- , penentuan hukum laju, dan penentuan peran H+ dalam reaksi.
+Data penentuan panjang gelombang berupa absorbansi dari beberapa panjang gelombang yang muncul. Absorbansi I3- diukur dengan spektrofotometer UV mini- 1240. Hasil percobaan digunakan untuk penentuan panjang gelombang maksimum dan order reaksi I-. Absorbtivitas molar I3- didasarkan pada hubungan absorbansi dengan konsentrasi yang dirumuskan sebagai Abs = ε.b.C dengan ε merupakan absorptivitas molar dan b ketebalan kuvet sedangkan C konsentrasi sampel.
+Volume O2 diukur dengan sistem pengukur volume untuk penentuan hukum laju. Sistem pengukuran volume O2 terdiri dari sebuah buret ukuran 50 mL yang dipasang terbalik ditempatkan diatas gelas piala berisi minyak tanah penuh. Buret lalu diisi dengan minyak tanah. Setelah itu dikunci dan dihubungkan dengan sistem reaksi (erlenmeyer 100 mL) melalui pipa kapiler dan selang plastik. Gelas piala diisi kembali dengan minyak hingga penuh. Ini dimaksudkan bila ada gas O2 yang mendorong minyak dalam buret, minyak dalam gelas akan tumpah. Sistem pengukur volume dapat dilihat seperti gambar di bawah. Selanjutnya pengukuran pH dilakukan dengan pH meter pada rentang waktu 60 menit untuk menentukan peran H+ dalam reaksi.
+PEMBAHASAN
+Reaksi antara H2O2 dengan I- pada suasana asam dilakukan pada berbagai konsentrasi I- dan konsentrasi H2O2 dan H+ yang sama. Laju reaksi diamati berdasarkan berkurangnya konsentrasi I3-. Percobaan diawali dengan penentuan panjang gelombang maksimum dengan mereaksikan I- dan I2 sehingga didapat data panjang gelombang dan absorbtivitas molar. Hasil penentuan panjang gelombang didapat adanya serapan I3- pada panjang gelombang 290,5 nm dengan absorbansi 0,6096 dan panjang gelombang 352,0 nm pada absorbansi 0,4126. Panjang gelombang yang digunakan untuk analisis kuantitatif adalah panjang gelombang maksimum dengan absorbansi maksimum yakni pada 290,5 nm. Percobaan penentuan absorbtivitas dilakukan dengan mengamati absorbansi pada beberapa variasi konsentrasi I3-. Hasil perhitungan dengan memplotkan nilai absorbansi vs konsentrasi I3- didapatkan slope bernilai 1,41 x 104. Hubungan absorbansi (Abs) dengan konsentrasi adalah Abs = ε.b.C. Nilai slope pada kurva absorbansi vs konsentrasi yang didapatkan merupakan perkalian panjang sel kuvet (b) dengan absorbtivitas molar (ε) I3-. Dengan panjang sel kuvet (b) 1 cm, absorbtivitas molar I3- pada panjang gelombang 290,5 nm adalah sebesar 1,41 x 104 M-1cm-1.
+Penentuan order reaksi dengan metode integral dan diperoleh harga koefisien regresi (r) yang dirangkum di Tabel 1 untuk reaksi order 0, order 1, dan order 2. Harga r yang mendekati 1 atau -1 adalah order reaksi yang sesungguhnya
+Pada kondisi percobaan tersebut I- dapat berorder nol dan satu serta dapat mengalami perubahan order reaksi dari nol menjadi satu. Perubahan order reaksi dikarenakan pada awal reaksi, I- dengan konsentrasi relatif besar memberikan order nol, dan memberikan order satu diakhir reaksi dengan konsentrasinya yang berkurang. Percobaan sesuai dengan hukum laju persamaan yaitu padakonsentrasi I- relatif lebih besar sehingga nilai k-1/k2 diabaikan maka didapat I- berorder nol dan ketika I- relatif lebih kecil dibanding k-1/k2, nilai I- diabaikan maka akan didapat I- berorder satu. Mekanisme reaksi yang diyakini Copper and Koubek terbukti dengan dilihat dari order reaksi I-.
+
+Tabel 1. Hasil perhitungan percobaan dengan variasi konsentrasi I- pada kondisi H+ 0,008M dan H2O2 0,002M
+I-/M
+Order reaksi I-
+Koeffisien regresi (r)
+Awal reaksi
+Akhir reaksi
+0,00030
+0
+-0,9938
+-0,9894
+1
+-0,9889
+-0,9546
+2
+0,9729
+0,8298
+0,00027
+0
+-0,9964
+-0,9908
+1
+-0,9945
+-0,9804
+2
+0,9836
+0,9474
+0,00024
+0
+-0,9967
+-0,9874
+1
+-0,9940
+-0,9925
+2
+0,9850
+0,9830
+0,00021
+0
+-0,9952
+-0,9849
+1
+-0,9925
+-0,9896
+2
+0,9804
+0,9761
+0,00018
+0
+-0,9865
+-0,9768
+1
+-0,9933
+-0,9848
+2
+0,9896
+0,9674
+0,00015
+0
+-0,9892
+-0,9794
+1
+-0,9921
+-0,9845
+2
+0,9884
+0,9682
+Pembuktian hukum laju mekanisme reaksi untuk menentukan hukum laju berupa penjumlahan atau tidak. Reaksi penjumlahan yang dimaksudkan adalah reaksi hidrogen peroksida dengan iodida dengan adanya H+ dan tanpa adanya H+. Reaksi dengan adanya H+ terbukti dengan adanya serapan I3- pada spektrofotometri. Jika merupakan penjumlahan, reaksi hidrogen peroksida dengan iodida tanpa adanya H+ akan dihasilkan gas O2. Hukum laju jika merupakan penjumlahan seperti tercantum dalam persamaan (9).
+Perhitungan jumlah O2 yang dihasilkan didasarkan pada penurunan volume minyak tanah dalam buret. Percobaan dilakukan pada tiga konsentrasi yang berbeda seperti pada Tabel 2 dan Tabel 3.
+Tabel 2. Hasil percobaan pengukuran O2 pertama
+I- M
+H2SO4 /M
+H2O2 /M
+Volume O2
+4,05×10-5
+6×10-4
+3×10-4
+Tidak teramati
+3,15×10-5
+6×10-4
+3×10-4
+Tidak teramati
+2,25×10-5
+6×10-4
+3×10-4
+Tidak teramati
+
+Hasil percobaan tidak didapatkan volume O2 yang teramati. Pengukuran penentuan hukum laju dilakukan kembali dengan memperbesar konsentrasi seperti pada Tabel 3 pada perbandingan mol pereaksi yang sama seperti pada Tabel 2.
+Tabel 3. Hasil percobaan pengukuran O2 kedua
+H+ /M
+H2O2 /M
+I- M
+Volume O2
+4,76
+1,19
+0,16
+Tidak teramati
+4,76
+1,19
+0,12
+Tidak teramati
+4,76
+1,19
+0,09
+Tidak teramati
+Tidak adanya gas O2 yang dihasilkan menunjukkan bahwa dalam keadaan konsentrasi tersebut tidak terjadi reaksi langsung antara H2O2 dengan I- tanpa adanya H+ sehingga hanya ada satu mekanisme yang terjadi yaitu mekanisme yang menghasilkan I3-. Hasil ini tidak menutupi kemungkinan pada kondisi H+ yang lebih besar akan didapatkan hukum laju penjumlahan. Kemungkinan yang terjadi dalam kondisi percobaan ini adalah pereaksi H+ yang terlalu besar dimungkinkan masih bereaksi dengan bereaksi dengan H2O2 dan I- sehingga hanya dihasilkan produk I3-.
+Kemungkinan reaksi yang terjadi adalah seperti tercantum pada persamaan (12).
+H2O2(aq) + I-(aq)+ H+(aq) H2O(l)+ HOI(aq) lambat(12)
+Setelah zat antara HOI terbentuk, reaksi berlangsung mengikuti mekanisme reaksi (6) sampai (8). Hukum laju bukan penjumlahan dan akan memberikan satu nilai kobs yaitu k yang didapatkan dari reaksi hidrogen peroksida dengan iodida dengan adanya H+. Tabel 4 menunjukkan kobs pada awal reaksi dan akhir reaksi.
+Tabel 4. Nilai kobs awal dan akhir reaksi percobaan dengan variasi konsentrasi I- pada kondisi H+ 0,008M dan H2O2 0,002M
+I-
+(M)
+Order I- awal reaksi
+Order I- akhir reaksi
+kobs awal
+kobs akhir
+0,00030
+0
+0
+9,69 x10-7 M.s-1
+5.56x10-7 M.s-1
+0,00027
+0
+0
+8,27x10-7 M.s-1
+4,61x10-7 M.s-1
+0,00024
+0
+1
+7,09x10-7 M.s-1
+0,0431 s-1
+0,00021
+0
+1
+7,33x10-7 M.s-1
+0,0454 s-1
+0,00018
+1
+1
+0,0308 s-1
+0,0528 s-1
+0,00015
+1
+1
+0,0270 s-1
+0,0496 s-
+
+Nilai kobs yang sebenarnya lebih dipilih pada awal reaksi. Untuk kepentingan lain, perbandingan nilai kobs pada saat I- berorder satu dipilih pada akhir reaksi karena nilai I- berorder satu pada konsentrasi yang menghasilkan dua order teramati pada akhir reaksi. Perbandingan akan lebih mudah dilakukan jika ada kondisi yang sama. Perhitungan secara statistik dengan uji anava membuktikan bahwa nilai kobs pada order yang sama memenuhi hipotesis data tidak berbeda signifikan. Hal ini sesuai dengan hukum laju bukan penjumlahan dengan didapat nilai k yang sama pada order yang sama.
+Penentuan peran H+ dilakukan dengan pengamatan terhadap pH campuran dengan konsentrasi seperti tercantum dalam Tabel 5.
+Tabel 5. Nilai pH pada konsentrasi H2SO4 6x10-4 M,
+H2O2 3x10-4 M, dan I- 6,3x10-4 M
+Awal reaksi
+30 menit
+60 menit
+3,04
+3,15
+3,16
+3,08
+3,10
+3,13
+3,08
+3,10
+3,14
+Hasil menunjukan bahwa pH larutan semakin meningkat selama reaksi berlangsung. Kenaikan pH menunjukkan berkurangnya H+ selama reaksi. Jika H+ merupakan katalis maka nilai pH akan cenderung tetap karena H+ akan dihasilkan kembali dalam reaksi. Hasil percobaan menunjukkan H+ terkonsumsi dalam reaksi tersebut sehingga akan lebih tepat jika dikatakan H+ ikut bereaksi sebagai pereaksi bukan sebagai katalis reaksi.
+KESIMPULAN
+Berdasarkan hasil penelitian dan pembahasan, kesimpulan yang dapat diambil dari penelitian ini adalah mekanisme reaksi yang diusulkan konsisten terhadap hukum laju percobaan ditinjau dari order reaksi I- yaitu I- dapat berorder nol dan satu. Hukum laju mekanisme dalam kondisi percobaan cenderung sebagai bentuk bukan penjumlahan dimana H+ dalam reaksi cenderung bukan sebagai katalis, melainkan sebagai pereaksi.

@@ -1,0 +1,520 @@
+﻿Pendahuluan
+Seiring dengan meningkatnya skala industri pertanian, berbagai pekerjaan penting seperti persiapan tanah, penyemaian bibit, pemeliharaan tanaman, pemanenan, dan transportasi hasil industri sudah tidak dapat dilakukan lagi tanpa bantuan mesin, apabila ingin ada peningkatan efektivitas dan efisiensi pekerjaan (Rijk ). Pemakaian mesin pada industri pertanian sudah mulai dilakukan sejak awal abad ke 16 (animal-drawn) dan berkembang pesat sampai dengan akhir abad ke 19 dengan digunakannya mesin-mesin bertenaga uap. Mekanisasi ini menandai fase pertama dari revolusi pertanian. Selanjutnya Mazoyer dan Roudart  menyebutkan bahwa fase kedua terjadi saat memasuki abad ke 20 yang berbentuk motorisasi dari berbagai mesin pertanian. Di masa mendatang trend penggunaan peralatan bermesin/bermotor dalam pertanian masih terus akan meningkat mengingat kompleksitas pertanian yang juga meningkat (Kutzbach ). Review terkini mengenai mekanisasi dan motorisasi pertanian di berbagai negara terdokumentasi dalam berbagai literatur, misalnya Soni dan Ou  untuk kawasan Asia.
+
+
+Pemeliharaan, baik yang bertujuan untuk peningkatan produktifitas maupun peningkatan keselamatan, merupakan salah satu hal yang penting di dalam penggunaan mesin-mesin pertanian (Guo dan Geng ). Beberapa contoh studi tentang strategi pemeliharaan peralatan pertanian diantaranya yang dikaitkan dengan optimisasi biaya pemeliharaan (Moris ; Khoubbakht et al. ) serta yang dikaitkan dengan asesmen untuk keselamatan (Javadi dan Rostami ). Secara umum, pemeliharaan merupakan upaya yang mampu mengatasi terjadinya kerusakan yang tidak terencana - disebut sebagai upaya pemeliharaan preventif/preventive maintenance (PM) - dan mampu mengembalikan kendaraan pada kondisi terbaiknya - disebut sebagai upaya pemeliharaan korektif/corrective maintenance (CM) (Pierskalla dan Voelker ; Valdez-Flores dan Feldman ; Husniah et al.,   Iskandar dan Husniah ). Berbagai kebijakan PM untuk produk yang mengalami degradasi karena umur (deteriorasi) telah banyak diteliti (Barlow dan Hunter ; Barlow et al.. ; Pierskalla dan Voelker ; Beichelt ; Boland, ; Husniah et al.. ; Nggada ). Hal ini dikarenakan kebijakan pemeliharaan preventif mampu memperlambat proses degradasi produk. Khusus untuk peralatan pertanian, review terkini dapat dilihat pada Khodabakhshian . Di sisi lain, upaya pemeliharaan membutuhkan fasilitas dan sumber daya yang tidak murah. Bagi perusahaan hal ini dapat menjadi kendala karena mahalnya investasi yang dikeluarkan. Pada kondisi ini, melakukan inhouse maintenance service bukan solusi yang ekonomis lagi. Alternatif lain adalah dengan melakukan maintenance out sourcing dengan keuntungan
+selain dapat menjamin ketersediaan maksimum
+juga lebih ekonomis (Murthy dan Ashgarizadeh,
+; Ashgarizadeh dan Murthy ; Rinsaka
+dan Sandoh, ).
+Penelitian kebijakan pemeliharaan yang telah dikembangkan
+umumnya didasarkan pada skala
+tunggal, seperti umur atau penggunaan, dan hanya
+beberapa yang mempertimbangkan skala multipel,
+seperti umur dan penggunaan secara simultan
+(Gertsbakh ; Nat et al. ; Frickenstein dan
+Whitaker ). Dewasa ini, karena ada kecenderungan
+garansi diberikan dalam perioda yang lebih
+lama (contoh: 3-5 tahun) atau berdasarkan penggunaan
+yang lebih panjang (contoh: 30.000-90.000
+km), maka sudah selayaknya kebijakan pemeliharaan,
+baik in-house maintenance service maupun
+maintenance out sourcing, mempertimbangkan
+garansi dua dimensi. Dalam hal ini garansi dua
+dimensi didefinisikan sebagai garansi yang diberikan
+di mana batas garansi berdasarkan dua skala,
+seperti umur peralatan dan penggunaan peralatan.
+Misalnya pada kendaraan bermotor, garansi habis
+jika kendaraan tersebut sudah mencapai usia 5
+tahun atau penggunaannya sudah mencapai 50.000
+km (mana saja yang tercapai lebih dulu).
+Kebanyakan penelitian terdahulu mengenai strategi
+pemeliharaan alat-alat industri oleh Husniah et al.
+di atas berfokus pada model kebijakan pemeliharaan
+untuk peralatan bergaransi dua dimensi, di
+mana pada model-model tersebut karakteristik
+penggunaan dari konsumen sudah dipertimbangkan.
+Dari sekian banyak literatur yang dikembangkan
+mempunyai anggapan upaya pemeliharaan
+dilakukan oleh pemilik mesin industri (in-house
+maintenance service). Kenyataannya, melakukan inhouse
+maintenance service sudah banyak ditinggalkan
+karena berbagai alasan diantaranya investasi
+fasilitas dan teknisi yang mahal, mesin industri
+yang semakin canggih dan kompleks sehingga perlu
+perlakuan khusus.
+
+Di lain pihak, banyak konsumen menginginkan
+jaminan bahwa peralatan industrinya atau peralatan
+pertaniannya selalu dalam kondisi baik
+tanpa perlu melakukan upaya pemeliharaan sendiri.
+Untuk itu, penelitian tentang strategi pemeliharaan
+peralatan industri ini perlu dilakukan
+dengan mempertimbangkan kebijakan pemeliharaan
+jika upaya pemeliharaan dilakukan oleh pihak
+lain, yakni oleh original equipment manufacturer
+(OEM) atau independent agent, sekaligus melibatkan
+keberadaan garansi. Hal ini sudah mulai menjadi
+pilihan bagi pemilik dalam melakukan pemeliharaan
+terhadap peralatannya, dan untuk bidang
+pertanian beberapa OEM sudah mulai menawarkan
+pelayanan seperti ini, misalnya extended warranty
+schedule yang ditawarkan oleh pemanufaktur
+Kubota untuk pemeliharaan traktor, wheel loader,
+excavator dan berbagai mesin pertanian lainnya
+(Kubota ). Hal serupa juga ditawarkan oleh
+pemanufaktur Komatsu berupa pelayanan extended
+maintenance (Komatsu ). Mengingat pentingnya
+layanan ini, di beberapa negara parktek ini, yang
+kadang-kadang juga disebut “servive/maintenance
+contract” dibebaskan dari beberapa jenis pajak
+(Department of Revenue ) yang dimaksudkan
+untuk mendukung kelancaran kontrak pelayanan
+ini. Hal ini juga nampaknya akan menjadi trend di
+negara-negara berkembang yang masih mengandalkan
+sektor pertanian dalam roda perekonomiannya.
+Untuk keperluan tersebut di atas, di dalam makalah
+ini dibahas mengenai sebuah model tentang kebijakan
+pemeliharaan preventif (PM) berbasis kontrak
+pemeliharaan dengan garansi dua dimensi.
+Model ini bersifat studi eksploratif dan antisipatif,
+yang mungkin masih belum populer di bidang
+pertanian, tetapi sudah biasa di lakukan di bidang
+pertambangan dan transportasi. Strategi optimal
+yang akan ditentukan dikembangkan dari sisi pemanufaktur
+dan konsumen dengan mempertimbangkan
+consumer usage pattern. Metode penelitian
+yang dipakai adalah pemodelan matematika
+(Meyer ), dengan melalui tahapan formulasi
+model dan analisis model sebagimana yang akan
+dijelaskan pada bagian berikut ini.
+Metode Penelitian
+Formulasi Model Kebijakan Pemeliharaan
+Strategi yang dibahas dalam pengembangan model
+kebijakan adalah pemeliharaan dan penggantian
+pengembangan dari Djamaludin et al. . Sebelum
+dilakukan formulasi model, berikut akan dijelaskan
+beberapa notasi dan simbol yang akan digunakan
+pada formulasi model tersebut, yang dirangkum
+dalam Tabel 1.
+Pertama akan ditinjau strategi pemeliharaan dan
+penggantian periodik untuk laju pemakaian konstan
+yang diberikan, kemudian strategi untuk berbagai
+nilai laju pemakaian. Misalkan menunjukkan
+nilai maksimum dari useful life produk. Lebih jauh
+lagi, pemanufaktur dan konsumen memiliki informasi
+yang lengkap dan sempurna tentang keandalan
+produk. Asumsikan bahwa pemanufaktur memiliki
+tiga pilihan maka konsumen memiliki beberapa
+pilihan sebagaimana terlihat pada Tabel 2 di
+mana tingkat pemeliharaan preventif mempunyai
+tingkat mutu yang berbeda. Dalam hal ini diasumsikan
+tingkat mutu kontrak pemeliharaan (1/Blue)
+kurang dari tingkat mutu kontrak pemeliharaan
+(2/Silver), dan tingkat mutu kontrak pemeliharaan
+(2/Silver) kurang dari tingkat mutu kontrak pemeliharaan
+(3/Gold).
+
+Produk atau peralatan yang dipertimbangkan bersifat
+reparabel dan dijual dengan garansi dua
+dimensi NFRW (Non Free Replacement Warranty)
+dengan area garansi , ) , ). Semua kerusakan
+yang terjadi di dalam area , )
+, ) akan direktifikasi oleh pemanufaktur tanpa
+membebankan ongkos kepada pembeli. Produk
+memiliki masa pakai selama , dan ongkos rektifikasi
+pada interval , ) setelah garansi berakhir
+ditanggung oleh pembeli. Pendekatan pemodelan
+kerusakan dua dimensi dapat dilihat pada Husniah
+dan Iskandar . Peralatan bersifat reparabel,
+setiap kerusakan dianggap direktifikasi dengan perbaikan
+minimal (minimal repair), yakni laju kerusakan
+setelah perbaikan sama dengan sebelum
+terjadi kerusakan. Diasumsikan bahwa lama waktu
+melakukan rektifikasi relatif kecil dibandingkan
+dengan waktu rata-rata antar kegagalan/Mean
+Time Between Failure (MTBF) sehingga dapat diabaikan.
+Opsi Pemeliharaan Preventif
+Pertama akan dimodelkan kasus ketika tidak melakukan
+pemeliharaan preventif atau tanpa PM,
+yakni;
+Pilihan C. Misalkan ( ), ( )- menyatakan
+fungsi distribusi kerusakan (fungsi densitas) peralatan.
+Berdasarkan Barlow dan Hunter  terjadinya
+kerusakan sepanjang waktu mengikuti
+NHPP (non-homogeneous poisson process) dengan
+fungsi intensitas ( )
+( )
+( )
+. Dalam hal ini
+diasumsikan bahwa tindakan PM terjadi pada
+selang waktu yang pendek sehingga dapat dimodelkan
+terjadi sepanjang waktu secara kontinu.
+Misalkan untuk laju penggunaan y tertentu, laju
+kerusakan peralatan yang menjadi objek perhatian
+ketika pemeliharaan peralatan tersebut dilakukan
+tanpa PM, baik sebelum atau pun setelah garansi,
+adalah ( ). Grafik kerusakannya terhadap waktu
+ditunjukan pada Gambar 1 untuk pilihan C (tidak
+melakukan PM, baik sebelum atau pun setelah
+garansi). Selanjutnya akan dipertimbangkan pilihan
+A dan B (yaitu melakukan PM). Pada pilihan A, PM
+dilakukan sejak peralatan dibeli. Pada pilihan B,
+PM dilakukan setelah garansi berakhir. Jika tingkat
+pemeliharaan dibatasi pada , dan
+misalkan ( ) menunjukkan laju kerusakan dari
+pemeliharaan yang sudah dilakukan dengan tingkat
+pemeliharaan , maka grafik kerusakan peralatan
+untuk masing-masing pilihan ditunjukkan pada
+Gambar 1 (untuk masing-masing pilihan A dan B).
+Dalam hal ini laju kerusakan dengan PM untuk A
+(baik sebelum atau pun setelah garansi) akan
+kurang dari laju kerusakan dengan PM untuk B
+(hanya setelah garansi berakhir). Begitu pula laju
+kerusakan dengan PM untuk B akan kurang dari
+laju kerusakan tanpa PM untuk C, sehingga
+diperoleh ( ) ( ) ( ). Sehingga diperoleh
+laju kerusakan untuk ke tiga pilihan adalah:
+
+
+
+Catatan: Dalam hal ini ( ) ( ) merupakan
+fungsi naik terhadap . Untuk , ( )
+merupakan fungsi naik terhadap artinya walaupun
+dilakukan upaya pemeliharaan yang maksimum,
+laju kerusakan tetap naik terhadap waktu/
+umur produk. Secara umum situasi pilihan A, B,
+dan C dapat terlihat pada Gambar 1.
+
+Ongkos Pemeliharaan Preventif
+Pada bagian ini akan ditentukan ekspektasi ongkos
+PM selama siklus hidup mesin bagi pemilik mesin
+(buyer) dan ekspektasi ongkos garansi pemanufaktur
+(seller) untuk ke tiga pilihan pemeliharan di
+atas. Misalkan menyatakan ongkos per satuan
+waktu untuk tingkat pemeliharaan yang merupakan
+fungsi naik terhadap . Selanjutnya misalkan
+menyatakan rata-rata ongkos setiap perbaikan,
+di mana ongkos perbaikan ini bergantung
+pada banyaknya kerusakan pada interval , ).
+Kerusakan direktifikasi dengan perbaikan minimal
+dan waktu perbaikan diabaikan, maka ekspektasi
+banyaknya kerusakan,* ( )+, dinyatakan sebagai
+integral dari fungsi laju kerusakan pada interval
+( ). Ekspektasi banyaknya kerusakan selama
+garansi adalah ∫ ( )
+sedangkan setelah
+garansi berakhir ∫ ( )
+. Ongkos PM untuk
+pilihan A, B, C berturut-turut adalah (
+) dan nol. Melihat opsi pemeliharaan pada Tabel
+2, diperoleh pemilihan strategi berikut:
+( ) ( ) ( )
+( ) (4)
+( ) ( ) ( )
+( ) (5)
+( ) ( ) ( )
+( ) (6)
+Hasil dan Pembahasan
+Analisis Model Kebijakan Pemeliharaan
+Strategi PM Konsumen
+Misalkan menyatakan parameter yang menyatakan
+waktu penggantian untuk laju pemakaian .
+Konsumen memiliki strategi pemeliharaan dan
+penggantian periodik untuk suatu laju pemakaian
+yang diberikan, yang didefinisikan sebagai berikut:
+Strategi A dibedakan menjadi tiga berdasarkan
+kontrak pemeliharaan blue (A1), silver (A2) dan
+golden (A3). Masing-masing kontrak memiliki tingkat
+pemeliharaan untuk blue, untuk silver
+dan untuk golden, dari saat produk dibeli sampai
+produk diganti apabila umurnya mencapai (
+). Apabila produk tersebut mengalami kerusakan
+pada umur , dengan , maka produk diperbaiki
+dengan perbaikan minimal.
+Hal ini berlaku pula untuk Strategi B, baik blue
+(B1), silver (B2) dan golden (B3) namun tingkat
+pemeliharaan ini dilakukan setelah garansi berakhir.
+Pada Strategi C, konsumen tidak membeli kontrak
+pemeliharaan (blue (C1), silver (C2) ataupun golden
+(C3)).
+Catatan: Tingkat pemeliharaan
+menunjukkan
+keandalan yang didapat dimana semakin meningkat
+tingkat pemeliharaan yang dilakukan maka keandalan
+yang diperoleh semakin tinggi, yakni
+.
+Ekspektasi Ongkos PM per Siklus
+Nilai ekspektasi ongkos pemeliharaan preventif per
+siklus bagi konsumen untuk suatu nilai laju pemakaian
+adalah ( ). Nilai ini untuk masingmasing
+strategi dengan dengan diberikan
+oleh:
+Strategi A: Jika konsumen membeli kontrak pemeliharaan
+dari awal garansi
+( ) ∫
+( )
+(7)
+Strategi B: Jika konsumen membeli kontrak pemeliharaan
+setelah garansi berakhir:
+( ) ∫ ( ( )
+( )
+( )) ( ) (8)
+Strategi C: Jika konsumen tidak membeli kontrak
+pemeliharaan:
+( ) ∫ ( )
+(9)
+Nilai optimal untuk pada Strategi A dan B
+didapat dengan meminimumkan ekspektasi ongkos
+( ) dan ( ) Dalam hal ini, jika
+bersifat kontinu, maka nilai optimal ekspektasi
+ongkos per siklus, , diperoleh melalui turunan pertama
+dari ekspektasi ongkos per siklus terhadap .
+
+Nilai optimal merupakan titik interior dari
+[0, -, atau jika tidak memenuhi syarat maka
+bernilai nol (tidak ada PM) atau bernilai
+(maksimum PM). Di lain pihak, jika
+bersifat
+diskrit maka nilai optimal
+diperoleh melalui
+evaluasi dari ekspektasi ongkos per siklus terhadap
+berbagai nilai dan kemudian dilakukan perbandingan
+terhadap ekspektasi ongkos per siklus
+yang diperoleh (lihat contoh simulasi numerik).
+Nilai ekspektasi ongkos garansi bagi pemanufaktur
+( ) untuk suatu nilai laju pemakaian , dari
+setiap strategi yang diberikan adalah:
+Ekspektasi ongkos untuk strategi A,
+( ) ∫
+( )
+(10)
+Ekspektasi ongkos untuk strategi B,
+( ) ∫
+( )
+(11)
+Ekspektasi ongkos untuk strategi C,
+( ) ∫
+( )
+(12)
+( ) ( ), ekspektasi ongkos garansi bagi
+pemanufaktur pada Strategi A lebih kecil dibandingkan
+pada Strategi B dan C. Pemanufaktur akan
+lebih diuntungkan apabila konsumen melakukan
+PM selama garansi. Dari sisi konsumen, apabila
+merupakan variabel kontinu, maka mencari nilai
+optimal
+dan , untuk ( ) sebarang
+dengan prosedur analitik sulit diperoleh, akan tetapi
+untuk kasus ( )
+yang diketahui berdistribusi
+tertentu dapat dilakukan sebagaimana pada contoh
+kasus distribusi Weibull berikut
+Contoh Kasus Kerusakan Distribusi Weibull
+Dalam bagian ini dibahas kasus khusus untuk
+yang mengikuti fungsi distribusi Weibull. Sebenarnya
+ada beberapa distribusi peluang yang dapat
+menggambarkan reliabilitas dan availabilitas dari
+suatu sistem peralatan, seperti distribusi Weibull
+(dengan dua atau tiga parameter), distribusi eksponensial
+dan distribusi lognormal. Namun studi
+kasus untuk peralatan pertanian (sugarcane 7000
+series chopper harvester) yang telah dilakukan memperlihatkan
+bahwa dengan menggunakan tes
+goodness of fit pada ReliaSoft Weibull++6, keseluruhan
+subsistem (ada sembilan subsistem) dari
+peralatan yang diuji tersebut memperlihatkan
+bahwa uji kecocokan terbaik diberikan untuk
+distribusi Weibull (Najafi et al., ). Selain itu juga
+pada studi kasus “tillage equipment” untuk pencangkulan
+tanah, distribusi Weibull sangat baik
+menggambarkan distribusi reliabilitas alat tersebut
+(Olaoye dan Adekanye, ). Referensi lainnya juga
+menunjukkan bahwa distribusi Weibull adalah yang
+paling umum dijumpai dalam peralaatan pertanian
+(Alcock, ; An dan Xiangming ).
+Selanjutnya diketahui bentuk distribusi Weibull
+adalah ( ) ( ⁄ ) di mana
+merupakan parameter bentuk. Efek dari PM pada
+distribusi kerusakan dimodelkan pada perubahan
+parameter skala . Apabila tingkat pemeliharaan
+dilakukan selama siklus hidup produk, maka
+distribusi kerusakan menjadi distribusi Weibull
+dengan parameter bentuk dan parameter skala
+, dimana:
+.
+/
+dengan (13)
+Selanjutnya pengaruh laju penggunaan pada distribusi
+kerusakan dengan tingkat pemeliharaan m
+dimodelkan oleh AFT/Accelerated Failure Time
+(Husniah dan Iskandar, ), sehingga fungsi distribusi
+kerusakan kondisional untuk laju pemakaian
+dan tingkat pemeliharaan , yakni ( ( )),
+diberikan oleh ( ( )) ( ⁄ ( ))
+dengan ( ) ( ⁄ )
+( ⁄ ) ( ⁄( ))
+Fungsi hazard yang bersesuaian dengan ( ( ))
+diberikan oleh:
+( ) ( ( ))
+, ( ⁄ ) -
+=
+[ .
+/
+]
+(14)
+Selanjutnya, karena semua perbaikan bersifat
+minimal (lihat juga Husniah et al. ), maka
+( ) ( ( ))dengan fungsi hazard kumulatif
+diberikan oleh:
+∫ ( )
+[ .
+/
+]
+(15)
+Ekspektasi ongkos siklus hidup dari sisi konsumen
+untuk laju penggunaan diberikan oleh:
+Strategi A, jika konsumen membeli kontrak pemeliharaan
+dari awal garansi
+( ) ∫
+( )
+∫
+[ .
+/
+]
+( )
+.
+/ ⁄ (16)
+Strategi B, jika konsumen membeli kontrak pemeliharaan
+setelah garansi berakhir
+( ) ∫ . ( )
+( )
+( )/ (
+∫
+[ .
+/
+]
+∫
+[ (
+)
+]
+
+
+Selanjutnya ekspektasi ongkos garansi bagi pemanufaktur,
+untuk suatu nilai laju pemakaian , diberikan
+oleh ( ) dengan nilai untuk setiap strategi
+diberikan oleh:
+Ekspektasi ongkos garansi untuk Strategi A,
+( ) ∫
+( )
+∫
+* (
+)
++
+( )
+(19)
+Ekspektasi ongkos untuk Strategi B dan Strategi C
+( ) ( ) ∫ ( )
+∫
+[ .
+/
+]
+( )
+(20)
+Simulasi Numerik dengan Kerusakan Berdistribusi
+Weibull
+Dalam contoh hipotetikal ini dimisalkan
+(tahun) dan ( m), sehingga ;
+Reliabilitas disain: ( 4 10 Km per tahun),
+(tahun) dan ; Model AFT: ; , -
+(
+). Diasumsikan bernilai diskrit
+dengan kriteria pada Tabel 3 dan parameter lainnya
+pada Tabel 4.
+Hasil simulasi diperlihatkan pada Tabel A.1 dan
+Tabel A.2 (lihat Lampiran). Beberapa ringkasan
+hasil yang diperoleh dari analisis dan simulasi
+numerik di atas untuk kasus distribusi Weibull
+dapat disampaikan sebagai berikut. Hasil simulasi
+untuk laju penggunaan (Tabel A1 pada
+Lampiran), jika ongkos korektif kurang dari 420
+strategi optimalnya adalah tidak melakukan PM
+selama siklus hidup produk (Strategi C). Sedangkan
+jika ongkos korektif lebih dari 500 strategi optimalnya
+adalah melakukan PM sepanjang siklus hidup
+produk (Strategi A). Selain itu, terdapat variasi pada
+tingkat pemeliharaan optimal yang dihasilkan,
+semakin tinggi ongkos korektif maka tingkat pemeliharaan
+pada strategi A dengan jenis kontrak blue
+juga semakin meningkat. Sebagai ilustrasi, pada
+ongkos korektif kurang dari 600 strategi optimalnya
+adalah A dengan kontrak blue pada tingkat pemeliharaan
+1, sedangkan untuk ongkos korektif sama
+dengan 700 level dan ongkos korektif lebih dari 600
+tingkat pemeliharaan kontrak blue masing-masing
+2 dan 3. Selanjutnya untuk laju penggunaan y>1
+(Tabel A2 pada Lampiran), jika ongkos korektif
+kurang dari 40 strategi optimalnya adalah melakukan
+PM garansi berakhir (Strategi B), sedangkan
+jika ongkos korektif lebih dari 60 strategi optimalnya
+adalah melakukan PM sepanjang siklus hidup
+produk (Strategi A) dengan jenis kontrak pemeliharaan
+gold pada tingkat pemeliharaan bervariasi
+dari 7 (ongkos korektif lebih dari 60), 8 (ongkos
+korektif lebih dari 120) dan 9 (ongkos korektif lebih
+dari 340). Semakin tinggi ongkos korektif maka
+tingkat pemeliharaan pada Strategi A juga semakin
+meningkat.
+
+Simpulan
+Keberhasilan proses industri sangat bergantung
+kepada keandalan peralatan yang dipakai pada
+proses industri tersebut. Di dalam makalah ini telah
+dibahas sebuah model matematika mengenai
+kebijakan pemeliharaan peralatan yang digunakan
+pada proses industri. Model yang dibuat bertujuan
+menentukan strategi terbaik pemeliharaan preventif
+(PM) berbasis kontrak (maintenance service contract) untuk menentukan biaya pemeliharaan
+optimal, baik dari sisi pemakai peralatan (konsumen)
+maupun dari sisi pembuat peralatan (pemanufaktur),
+telah dikembangkan. Model yang dikembangkan
+ini telah berhasil menentukan pilihan
+terbaik yang dapat meningkatkan keandalan melalui
+pemeliharaan preventif dengan biaya yang
+minimum. Maintenance service contract sudah mulai
+menjadi pilihan bagi pemilik peralatan industri di
+bidang pertambangan dan transportasi dalam melakukan
+pemeliharaan terhadap peralatannya.
+Untuk bidang pertanian beberapa OEM sudah
+mulai menawarkan pelayanan seperti ini, misalnya
+extended warranty schedule yang ditawarkan oleh
+pemanufaktur Kubota untuk pemeliharaan traktor,
+wheel loader, excavator dan berbagai mesin pertanian
+lainnya. Hal serupa juga ditawarkan oleh pemanufaktur
+Komatsu berupa pelayanan extended
+maintenance. Dalam makalah ini diberikan contoh
+perhitungan numerik mengenai perhitungan pemilihan
+opsi pada pemeliharaan preventif berbasis
+kontrak, dengan data hipotetikal yang tipikal sering
+muncul dalam berbagai analisis keandalan peralatan
+pertanian. Simulasi numerik tersebut memperlihatkan
+bahwa strategi optimal sangat bergantung
+pada pola pemakaian peralatan, akan tetapi secara
+umum dapat diperoleh opsi optimal yang dapat
+meningkatkan keandalan peralatan dengan biaya
+minimum. Hal ini mengindikasikan bahwa kebijakan
+yang optimal mempunyai potensi untuk menunjang
+keberhasilan mekanisasi industri pertanian
+melalui strategi pemeliharaan aset/peralatan pertanian
+yang efektif, yakni mengurangi laju kerusakan
+peralatan sehingga pemakaian peralatan sebagai
+mesin produksi juga bisa optimal.
+Contoh dalam simulasi numerik memperlihatkan
+adanya keterkaitan yang kuat antara ongkos korektif
+pada PM dengan strategi yang harus dipilih.
+“Insight” ini perlu diuji lebih jauh lagi secara analitis
+untuk memperoleh hasil yang lebih kuat untuk
+berbagai distribusi kerusakan peralatan pada berbagai
+bidang pertanian/kehutanan, mengingat bahwa
+bidang yang berbeda akan mempunyai consumer
+usage pattern yang berbeda.

@@ -1,0 +1,554 @@
+﻿ 
+Algoritma Genetika untuk Mengoptimasi Penjadwalan 
+
+Pembersihan Jaringan Penukar Panas 
+
+ 
+
+ 
+
+ 
+
+Pendahuluan 
+
+ 
+Engineering Sciences Data Unit (ESDU) melaporkan 
+bahwa fouling pada Jaringan Penukar Panas (JPP) 
+di refineri atau Crude Preheat Train (CPT) adalah 
+masalah serius yang belum tepecahkan (ESDU ), 
+yang menyebabkan peningkatan konsumsi energi 
+dan menghabiskan triyunan dollar per tahun. 
+Untuk sebuah unit refineri dengan kapasitas 
+100,000 bbl/ hari, penurunan coil inlet temperature 
+(CIT) karena fouling sebesar 1 K menyebabkan 
+sekitar ₤ 25,000 untuk penambahan biaya bahan 
+bakar yang harus dibakar dan sekaligus penambahan 750te karbon dioksida pertahun (Yeap ). 
+Berdasarkan pertimbangan secara ekonomi dan 
+lingkungan tersebut, maka untuk mengurangi efek 
+fouling adalah melakukan pembersihan JPP secara 
+berkala. (Smaïli et al. ; Georgiadis et al. ; Lavaja 
+et al. ; Markowski et al. ; Sanaye et al. ; 
+Georgiadis et al. ). 
+ 
+Namun, terlalu sering dibersihkan akan menambah 
+biaya pembersihan/perawatan, sebaliknnya, jika 
+tidak dibersihkan akan kehilangan banyak energi 
+dan masalah lingkungan. Optimasi jadwal pembersihan wajib dilakukan. Optimasi jadwal pembersihan bertujuan untuk menentukan berapa banyak 
+pembersihan pada setiap penukar panas dalam 
+periode yang ditinjau, yang dipengaruhi oleh biaya 
+pembersihan, energi yang hilang saat pembersihan 
+dan energi yang direkoveri. 
+ 
+
+ 
+
+ 
+
+ 
+Optimasi ini memerlukan tiga komponen yaitu 
+model JPP yang terpercaya, model fouling yang valid 
+dan teknik optimisasinya (Smaïli et al. ; Sanaye et 
+al. ; Georgiadis et al. ). 
+ 
+Model JPP yang biasanya dipakai adalah lumped-parameter model (Ishiyama et al. ). Model fouling 
+bisa dimodelkan dengan beberapa metode. Model 
+regresi (Smaïli et al. ; Sanaye et al. ; Georgiadis 
+et al. ), model semi-empirikal (seperti model 
+Panchal ) atau Jaringan Saraf Tiruan (JST) 
+(Riverol et al. , Lalot , Aminian et al. , 
+Smaïli et al. ) adalah pemodelan yang biasa 
+dipakai. Namun untuk tujuan penjadwalan pembersihan biasanya model linear dan asimtotik adalah 
+yang di pakai regresi (Smaïli, et al. ; Sanaye et al. 
+, Georgiadis et al. ). JST digunakan untuk 
+memprediksinya, karena ketidaklinearan fouling 
+(Riverol et al. , Lalot  Aminian et al. . 
+ 
+Optimasi jadwal pembersihan masuk dalam kelas 
+Mixed Integer Non-Linear Programming (MINLP) 
+karena mengandung dua tipe variable yaitu diskrit 
+dan kontinu yang nonlinear Lavaja et al.  
+Markowski et al. , Georgiadis et al. , Smaïli et al. 
+. Sering kali model menghasilkan non konvek 
+output, sehingga tidak menjamin solusi yang global-
+optimum. 
+ 
+Beberapa teknik optimasi telah digunakan untuk 
+memecahkan masalah optimasi penjadwalan pembersihan. Kompleksitas masalah MINLP tergantung 
+pada bentuk fungsi tujuan. Optimasi jadwal pembersihan memiliki multi-atribut tujuan yaitu memaksimalkan penghematan energi untuk diambil 
+dan meminimalkan biaya pembersihan. Kadang-kadang model yang digunakan menghasilkan non-konvek output. Oleh karena itu, solusi yang global-
+optimal belum tentu tercapai. Masalah MINLP 
+adalah NP-complete, yaitu termasuk dalam kelas 
+masalah sulit secara teoritis dan karena itu sangat 
+sulit untuk dipecahkan. Ini menginspirasi (Georgiadis et al. ) untuk menyederhanakan model non-
+linear menjadi 
+linear dan dipecahkan dengan 
+menggunakan MILP. Tentu saja, akurasi dari model 
+linear lebih rendah dibandingkan dengan model non-
+linear. Berkenaan dengan masalah di atas, dan 
+mempertimbangkan bahwa 
+jadwal pembersihan 
+setiap penukar panas dipengaruhi oleh jadwal 
+pembersihan penukar panas yang lain di dalam JPP, 
+maka MILP baru diusulkan oleh Lavaja et al. 
+(Lavaja et al. ). Dalam pendekatan ini, model 
+didekomposisi dan diselesaikan secara berurutan. 
+Prosedur ini menghasilkan penghematan energi 
+yang lebih baik di pabrik yang sama dibandingkan 
+demgan metode yang digunakan dalam karya 
+(Smaïli et al. ). Oleh karena itu, teknik untuk 
+menangani nonlinear dan kompleksitas MINLP 
+diperlukan. 
+ 
+Dalam rangka mencapai solusi global optimal, 
+penelitian sebelumnya telah menggunakan algoritma tertentu untuk memecahkan masalah MINLP 
+seperti branch and bound (BB), generalized benders 
+decomposition (GBD) dan outer approximation (OA) 
+yang tersedia dalam paket perangkat lunak komersial. Dalam rangka untuk membuat linearisasi dan 
+dekomposisi model, metode ini membutuhkan pengetahuan dari sistem yang akan dioptimalkan. 
+ 
+Genetic Algorithm (GA) adalah teknik yang menjanjikan untuk memecahkan masalah MINLP nonlinear 
+dan kompleks. Ini telah digunakan untuk optimasi 
+pada masalah teknik kimia antara lain penjadwalan 
+batch plant (Smaïli et al. ), desain yang optimal 
+dari penukar panas (Tayal et al. ), optimasi 
+fermentasi glukosa menjadi asam glukonat (Cheema 
+et al. ), pemeliharaan penjadwalan dalam sistem 
+tenaga (Negnevitsky et al. ), penjadwalan sumber 
+daya (Syswerda et al. ), optimasi penjadwalan 
+proses kilang (Sim et al. ), dan penjadwalan 
+kedatangan minyak mentah (Guy et al. ). Secara 
+umum, GA adalah teknik optimasi yang paling 
+efisien dalam hal evaluasi fungsi. Solusi dari 
+masalah MINLP menggunakan GA telah terbukti 
+menjadi pendekatan yang valid untuk masalah non-
+konvek di mana waktu komputasi tidak menjadi 
+masalah (Costa et al. ). 
+ 
+Oleh karena, masalah optimasi ini termasuk sebagai 
+masalah MINLP, dimana masalah MINLP secara 
+umum adalah non-konvek dengan banyak lokal 
+optimum. Metode konvensional tidak menjamin 
+solusi global optimal karena non-konvek output dan 
+
+kompleksitas sistem, dan bahkan ada kemungkinan 
+akan tidak ada hasil yang diharapkan pada akhir 
+optimasi. Kondisi tersebut memicu penggunaan 
+teknik optimasi seperti Genetic Algorithm (GA) 
+untuk pemecahan optimasi jadwal pembersihan JPP 
+yang menjamin hasil yang mendekati global optimum akan diteliti. 
+ 
+
+Metode Penelitian 
+
+ 
+Crude Preheat Train (CPT) 
+ 
+JPP yang dipelajari adalah sebuah CPT yang berisi 
+sebelas penukar panas pada sebuah refineri. Setiap 
+penukar panas mempunyai multiple shell yang 
+tergabung secara seri dan/atau paralel, seperti 
+terlihat pada Gambar 1. Data diambil dari plant 
+historian dalam Distributed Control System (DCS) 
+meliputi 81 tag number selama empat tahun. Data 
+terdiri dari temperatur, laju aliran dan properti 
+masing-masing fluida pada penukar panas. Data 
+diproses untuk merekoveri data yang hilang, 
+membuang data outlier dan data rekonsiliasi. 
+ 
+Untuk membangun optimasi jadwal pembersihan 
+diperlukan tiga komponen yaitu model CPT, Model 
+fouling dan metode optimasinya. Kebanyakan simulasi penukar panas menggunakan lumped-parameter 
+model (Ishiyama ). Performansi penukar panas 
+dihitung dengan persamaan-persamaan berikut ini; 
+
+
+ 
+Masalah MINLP pada kasus menentukan jadwal 
+pembersihan yang optimal untuk semua penukar 
+panas di JPP secara serentak diselesaikan dengan 
+menggunakan GA. Seperti telah dibahas sebelumnya 
+bahwa ukuran, nonlinear, kompleksitas dan keberadaan variabel kontinu dan diskrit pada masalah 
+optimasi ini memerlukan penggunaan GA untuk 
+memecahkannya. Fungsi biaya termasuk biaya 
+kehilangan energi karena fouling dan pembersihan, 
+biaya pembersihan yang beragam mengikuti ukuran, 
+dan biaya tambahan karena penambahan tekanan 
+yang ditanggung pompa karena fouling dipertimbangkan dalam penelitian ini. 
+ 
+GA mulai bekerja dengan membuat sebuah generasi 
+yang terdiri dari 100 kromosom dengan genotip yang 
+dipilih secara acak dan selanjutnya akan diproses 
+mengikuti algoritma seleksi, kawin, mutasi, elitism, 
+sampai 100 iterasi, dan menghasilkan evolusi 10000 
+fitness pada 100 kromosom sepanjang iterasi seperti 
+terlihat pada Gambar 6. Solusi optimal penjadwalan 
+pembersihan untuk semua penukar panas yang 
+diperoleh pada akhir iterasi, ditunjukkan pada Tabel 
+2. Tabel 2 adalah fenotip berupa 
+interval 
+pembersihan dalam satuan bulan. Terlihat bahwa 
+semua penukar panas harus dibersihkan dalam 
+perode tertentu, dimulai E-08 dan E-10 yang paling 
+sering dibersihkan (setiap 5 bulan) sampai E-11 yang 
+paling jarang dibersihkan (setiap 29 bulan). 
+ 
+Elitsm telah menyimpan fenotipe terbaik hasil GA 
+sepanjang generasi. Fenotip terbaik memiliki nilai 
+fitness yang mampu menurunkan energi yang hilang 
+saat kondisi optimal sebesar IDR 48,1 Milyar 
+sehingga menghasilkan penghematan sebesar IDR 
+14,1 Milyar atau kenaikan effisiensi 23% selama 
+periode 44 bulan. Penghematan biaya sebesar 23% 
+dihitung dari potensi energi maksimum (teoritis). 
+Kontribusi masing-masing penukar panas dalam 
+pengambilan energi saat kondisi jadwal pembersihan 
+yang optimal ditunjukkan pada Tabel 3. 
+ 
+Penukar panas E-01 dibersihkan dua kali selama 
+periode 44 bulan dan itu mampu mengurangi 
+kerugian dari IDR 18,7 Milyar pada kondisi kotor 
+dimana JPP tidak dibersihkan sama sekali selama 
+44 bulan. Kerugian bila dibandingkan dengan 
+kondisi tidak ada pembersihan yaitu IDR 7,6 Milyar, 
+maka penghematan sebesar IDR 11,1 Milyar dicapai 
+oleh satu penukar panas saja dan harus dicatat di 
+sini bahwa tidak ada efek interaksi pada penukar 
+panas dalam segala kondisi operasi. 
+ 
+Penukar panas E-05 menjalani 4 pembersihan dan 
+telah mengurangi kerugian bersih dari IDR 8,2 
+Milyar menjadi IDR 3,6 Milyar menghasilkan 
+penghematan IDR 4,9 Milyar. 
+
+
+
+
+ 
+Tabel 3. Energi yang diambil per penukar panas saat JPP terjadwal pembersihannya dengan optimal. 
+
+Gambar 2. Evolusi fitness pada kromosom sepanjang iterasi 
+
+ 
+
+ 
+
+ 
+Penukar panas E-08 lebih banyak mengambil energi 
+saat kondisi jadwal pembersihan optimal daripada 
+saat kondisi bersih. Hal ini terutama disebabkan 
+oleh LMTD yang tinggi pada penukar penukar panas 
+ini, karena penukar panas lainnya mengalami 
+fouling yang berat. Seperti yang terlihat pada Tabel 
+3, E-08 sendiri mampu memberikan penghematan 
+bersih IDR 16 Milyar. 
+ 
+Pernukar panas E-10 memerlukan pembersihan 8 
+kali dan dapat mengurangi bersih dari dari IDR 1,97 
+Milyar ke IDR 1,64 Milyar dan menyebabkan 
+keuntungan sebesar IDR 0,31 Milyar. 
+ 
+Semua penukar panas lainnya telah mengalami 
+kerugian saat kondisi kondisi pembersihkan terjadwal secara optimal. Namun, pengaruh tidak 
+
+langsung terhadap kinerja penukar panas lainnya 
+telah menghasilkan penghematan bersih sampai 
+IDR 14,1 Milyar. 
+ 
+Dapat diamati bahwa, hanya penukar panas E-01, 
+E-05, E-08 dan E-10 yang mampu memberikan 
+keuntungan saat dioptimasi. Hal ini membuktikan 
+bahwa optimasi jadual pembersihan penukar panas 
+pada JPP adalah masalah yang susah dipecahkan. 
+Energi yang bisa diambil saat bersih, kotor dan 
+jadual pembersihan teroptimasi dapat dilihat pada 
+Gambar 3. 
+ 
+
+
+
+ 
+
+Gambar 3. Energi yang diambil saat bersih. kotor dan dengan jadwal pembersihan yang optimal. 
+
+ 
+
+ 
+Gambar 3. menunjukkan jumlah energi yang bisa 
+diambil saat kondisi bersih sebesar 80,1 GW dan di 
+saat kotor 63,5 GW, yang mempuyai arti bahwa 
+potensi energi yang masih mungkin bisa diambil dari 
+
+
+JPP ini adalah sebesar 16.6 GW. Hasil optimasi 
+menunjukkan bahwa dengan optimasi jadwal pembersihan yang optimal, maka terlihat hasil optimasi 
+energi yang bisa diambil kembali adalah sangat 
+dekat dengan nilai maksimum energi yang mungkin 
+bisa diambil. Pengambilan energi kembali sebesar 
+70,9 GW telah dicapai dengan mengoptimasi jadwal 
+pembersihan penukar panas pada JPE secara serentak. Pengambilan kembali energi ini tidak bisa mencapai pengambilan sepenuhnya disebabkan tujuan 
+optimasi adalah pengehematan dalam IDR yang sebesar-besarnya, yang meliputi penghematan karena 
+pengambilan energi kembali dikurangi biaya pembersihan, sesuai Persamaan (10) 
+ 
+Dari uraian di atas bisa digaris bawahi bahwa, sebuah masalah MINLP pada kasus optimasi jadwal 
+pembersihan telah dirumuskan dan pemodelan penukar panas pada JPP telah dibangun bersama 
+model prediksi fouling. Jumlah variabel optimasi 
+sangat berkurang melalui penggunaan interval pembersih untuk masing-masing penukar panas. Secara 
+alami dari masalah optimasi yang merupakan masalah MINLP yang susah dipecahkan dengan metode 
+deterministik, telah dipecahkan dengan menggunakan metode metaheuristik yaitu GA sederhana. 
+Penggunaan GA untuk memecahkan masalah optimasi tidak melibatkan perkiraan atau asumsi untuk 
+menyederhanakan masalah. Terpenting adalah, 
+sebagai salah satu metaheuristik, GA akan 
+selalu memberikan solusi pada setiap akhir optimasi 
+dan bisa dilanjutkan untuk mendapatkan solusi 
+yang lebih optimal sampai hasil yang secara aplikasi 
+bisa mendekati global optimum. 
+ 
+Dari optimasi yang dilakukan secara serempak/ 
+simultan untuk semua penukar panas mengunakan 
+
+GA, dapat diamati bahwa pelaksanaan jadwal pembersihan yang optimal menghasilkan penghematan 
+bersih sekitar IDR 14,1 Milyar atau peningkatan 
+efisiensi 23% selama periode 44 bulan. 
+ 
+
+Simpulan 
+
+ 
+Dari penelitian ini dapat disimpulkan bahwa, 
+sebagai salah satu algoritma metaheuristic, GA telah 
+memberikan solusi pada optimasi jadual pembersihan secara simultan dan memastikan pencapaian 
+mendekati global optimum dengan memberikan 
+penghematan ekonomi sekitar IDR 14,1 Milyar 
+dalam periode 44 bulan. 
+
+Fouling merupakan fenomena yang komplek,
+keberadaannya tergantung pada kondisi operasi,
+geometri peralatan dan properti dari fluida. Pada
+peneiltian ini fouling diprediksi menggunakan persamaan
+sederhana (Kern and Seaton ), yang
+merupakan fungsi exponensial yag berbeda-beda
+untuk setiap peralatan penukar panas. Persamaan
+ini bisa ditulis sebagai berikut:
+( ) ( ) (9)
+dimana:
+: resistansi fouling
+: konstanta hasil fitting data untuk masingmasing
+penukar panas
+Jumlah pembersihan atau bisa ditulis sebagai
+interval pembersihan dan jadwal pembersihan,
+diperoleh dengan memaksimalkan fungsi tujuan
+sebagai berikut: (Lavaja et al ).
+Σ Σ ( )
+Σ Σ ( )
+(10)
+dimana:
+: biaya energy
+: biaya pembersihan
+: jumlah penukar panas dalam JPP
+: beban kalor
+: status dari masing-masing penukar panas, 1
+jika unit bekerja dan 0 jika unit tidak bekerja
+: 1,2 … NE nomor penukar panas
+: periode operasi kondisi bersih
+: periode operasi kondisi teroptimasi
+: inlet
+: outlet
+Persamaan di atas dipengaruhi oleh dua komponen
+biaya yaitu biaya pembersihan ( ) yang tergantung
+dari ukuran penukar panas dan biaya energi ( ).
+Dalam aplikasi ini lama pembersihan adalah lima
+hari, dimana penukar panas akan di-bypass. Periode
+yang ditinjau dalam optimasi jadual pembersihan ini
+adalah 4 tahun dan diskritisasi waktu ( ) dilakukan
+untuk selang 30 hari.
+GA untuk optimasi penjadualan pembersihan
+penukar panas dalam JPP
+Dalam rangka memecahkan permasalahan MINLP
+pada penjadualan pembersihan JPP, GA sederhana
+digunakan untuk memberikan solusi optimum pada
+11 penukar panas seperti pada Gambar 1, dengan
+meminimumkan fungsi tujuan pada Persamaan 10.
+Periode jadual pembersihan diperkirakan antara 1
+bulan sampai 32 bulan sekali yang direpresentasikan
+dalam 5 bit koromosom seperti pada Tabel 1.
+Jadi untuk keseluruhan 11 penukar panas dalam
+JPP jumlah bit total adalah 55 bit. Nilai fitness
+didapat dengan mensimulasikan JPP (Persamaan 1 -
+10) dalam kondisi fouling dengan berbagai skenario
+pembersihan dalam satu frame waktu dari 0 sampai
+tF.
+Langkah-langkah untuk solusi optimisasi penjadualan
+pembersihan JPP bisa dijelaskan secara singkat
+sebagai berikut:
+L1 GA membuat sebuah 100 individu dalam sebuah
+polulasi yang masing-masing terdiri dari 5 bit
+dan diisi secara random.
+L2 Menghitung fitness untuk semua penukar panas
+dalam JPP dalam kondisi bersih dan kotor
+menggunakan Persamaan 10 .
+L3 Proses GA sederhana
+a. Pemilihan pasangan individu yang akan di
+jadikan orang tua menggunakan roulete
+wheel.
+b. Proses kawin pada GA mengunakan satu
+titik perkawinan (point crossover) dengan Pc =
+0,7 (Probabilitas kawin) maka pasangan
+orang tua akan terpilih secara random. Jika
+terakhir hanya ada satu individu, maka
+individu tersebut akan disalin dan dikawinkan
+dengan salinan yang telah dibuat.
+c. Mutasi kedua anak pada lokus mengunakan
+flip mutasi dengan Pm = 0,001 (probabilitas
+mutasi) dan dari hasil mutasi ini akan
+menjadi polulasi yang baru.
+L4 Ganti polulasi lama dengan populasi yang baru.
+L5 Menghitung nilai fitness mengunakan Persamaan
+10 untuk stiap kromosom dalam populasi
+L6 Mekanisme elitsm akan menyimpan 5% individu
+yang mempunyai fitness terbaik. Sisanya
+yang 95% akan diproses oleh GA secara normal
+melalui proses seleksi, kawin dan mutasi.
+L7 Kriteria berhenti. Jika generasi mencapai 100
+generasi, maka proses optimasi dihentikan. Ini
+bisa diartikan kondisi optimum telah tercapai,
+karena pada optimasi sistem ini hasil-hasil yang
+mendekati global optimum sudah mulai tercapai
+saat generasi 40 atau sekitar iterasi 4000 karena
+dalam satu generasi ada 100 indvidu, seperti
+terlihat pada Gambar 6. Selanjutnya hasil
+optimasi akan disimpan dan jika tidak, maka
+kembali ke L3.
+Hasil dan Pembahasan
+Masalah MINLP pada kasus menentukan jadwal
+pembersihan yang optimal untuk semua penukar
+panas di JPP secara serentak diselesaikan dengan
+menggunakan GA. Seperti telah dibahas sebelumnya
+bahwa ukuran, nonlinear, kompleksitas dan keberadaan
+variabel kontinu dan diskrit pada masalah
+optimasi ini memerlukan penggunaan GA untuk
+memecahkannya. Fungsi biaya termasuk biaya
+kehilangan energi karena fouling dan pembersihan,
+biaya pembersihan yang beragam mengikuti ukuran,
+dan biaya tambahan karena penambahan tekanan
+yang ditanggung pompa karena fouling dipertimbangkan
+dalam penelitian ini.
+GA mulai bekerja dengan membuat sebuah generasi
+yang terdiri dari 100 kromosom dengan genotip yang
+dipilih secara acak dan selanjutnya akan diproses
+mengikuti algoritma seleksi, kawin, mutasi, elitism,
+sampai 100 iterasi, dan menghasilkan evolusi 10000
+fitness pada 100 kromosom sepanjang iterasi seperti
+terlihat pada Gambar 6. Solusi optimal penjadwalan
+pembersihan untuk semua penukar panas yang
+diperoleh pada akhir iterasi, ditunjukkan pada Tabel
+2. Tabel 2 adalah fenotip berupa interval
+pembersihan dalam satuan bulan. Terlihat bahwa
+semua penukar panas harus dibersihkan dalam
+perode tertentu, dimulai E-08 dan E-10 yang paling
+sering dibersihkan (setiap 5 bulan) sampai E-11 yang
+paling jarang dibersihkan (setiap 29 bulan).
+Elitsm telah menyimpan fenotipe terbaik hasil GA
+sepanjang generasi. Fenotip terbaik memiliki nilai
+fitness yang mampu menurunkan energi yang hilang
+saat kondisi optimal sebesar IDR 48,1 Milyar
+sehingga menghasilkan penghematan sebesar IDR
+14,1 Milyar atau kenaikan effisiensi 23% selama
+periode 44 bulan. Penghematan biaya sebesar 23%
+dihitung dari potensi energi maksimum (teoritis).
+Kontribusi masing-masing penukar panas dalam
+pengambilan energi saat kondisi jadwal pembersihan
+yang optimal ditunjukkan pada Tabel 3.
+Penukar panas E-01 dibersihkan dua kali selama
+periode 44 bulan dan itu mampu mengurangi
+kerugian dari IDR 18,7 Milyar pada kondisi kotor
+dimana JPP tidak dibersihkan sama sekali selama
+44 bulan. Kerugian bila dibandingkan dengan
+kondisi tidak ada pembersihan yaitu IDR 7,6 Milyar,
+maka penghematan sebesar IDR 11,1 Milyar dicapai
+oleh satu penukar panas saja dan harus dicatat di
+sini bahwa tidak ada efek interaksi pada penukar
+panas dalam segala kondisi operasi.
+Penukar panas E-05 menjalani 4 pembersihan dan
+telah mengurangi kerugian bersih dari IDR 8,2
+Milyar menjadi IDR 3,6 Milyar menghasilkan
+penghematan IDR 4,9 Milyar.
+
+Penukar panas E-08 lebih banyak mengambil energi
+saat kondisi jadwal pembersihan optimal daripada
+saat kondisi bersih. Hal ini terutama disebabkan
+oleh LMTD yang tinggi pada penukar penukar panas
+ini, karena penukar panas lainnya mengalami
+fouling yang berat. Seperti yang terlihat pada Tabel
+3, E-08 sendiri mampu memberikan penghematan
+bersih IDR 16 Milyar.
+Pernukar panas E-10 memerlukan pembersihan 8
+kali dan dapat mengurangi bersih dari dari IDR 1,97
+Milyar ke IDR 1,64 Milyar dan menyebabkan
+keuntungan sebesar IDR 0,31 Milyar.
+Semua penukar panas lainnya telah mengalami
+kerugian saat kondisi kondisi pembersihkan terjadwal
+secara optimal. Namun, pengaruh tidak
+langsung terhadap kinerja penukar panas lainnya
+telah menghasilkan penghematan bersih sampai
+IDR 14,1 Milyar.
+Dapat diamati bahwa, hanya penukar panas E-01,
+E-05, E-08 dan E-10 yang mampu memberikan
+keuntungan saat dioptimasi. Hal ini membuktikan
+bahwa optimasi jadual pembersihan penukar panas
+pada JPP adalah masalah yang susah dipecahkan.
+Energi yang bisa diambil saat bersih, kotor dan
+jadual pembersihan teroptimasi dapat dilihat pada
+Gambar 3.
+Gambar 3. menunjukkan jumlah energi yang bisa
+diambil saat kondisi bersih sebesar 80,1 GW dan di
+saat kotor 63,5 GW, yang mempuyai arti bahwa
+potensi energi yang masih mungkin bisa diambil dari JPP ini adalah sebesar 16.6 GW. Hasil optimasi
+menunjukkan bahwa dengan optimasi jadwal pembersihan
+yang optimal, maka terlihat hasil optimasi
+energi yang bisa diambil kembali adalah sangat
+dekat dengan nilai maksimum energi yang mungkin
+bisa diambil. Pengambilan energi kembali sebesar
+70,9 GW telah dicapai dengan mengoptimasi jadwal
+pembersihan penukar panas pada JPE secara serentak.
+Pengambilan kembali energi ini tidak bisa mencapai
+pengambilan sepenuhnya disebabkan tujuan
+optimasi adalah pengehematan dalam IDR yang sebesar-
+besarnya, yang meliputi penghematan karena
+pengambilan energi kembali dikurangi biaya pembersihan,
+sesuai Persamaan (10)
+Dari uraian di atas bisa digaris bawahi bahwa, sebuah
+masalah MINLP pada kasus optimasi jadwal
+pembersihan telah dirumuskan dan pemodelan penukar
+panas pada JPP telah dibangun bersama
+model prediksi fouling. Jumlah variabel optimasi
+sangat berkurang melalui penggunaan interval pembersih
+untuk masing-masing penukar panas. Secara
+alami dari masalah optimasi yang merupakan masalah
+MINLP yang susah dipecahkan dengan metode
+deterministik, telah dipecahkan dengan menggunakan
+metode metaheuristik yaitu GA sederhana.
+Penggunaan GA untuk memecahkan masalah optimasi
+tidak melibatkan perkiraan atau asumsi untuk
+menyederhanakan masalah. Terpenting adalah,
+sebagai salah satu metaheuristik, GA akan
+selalu memberikan solusi pada setiap akhir optimasi
+dan bisa dilanjutkan untuk mendapatkan solusi
+yang lebih optimal sampai hasil yang secara aplikasi
+bisa mendekati global optimum.
+Dari optimasi yang dilakukan secara serempak/
+simultan untuk semua penukar panas mengunakan
+GA, dapat diamati bahwa pelaksanaan jadwal pembersihan
+yang optimal menghasilkan penghematan
+bersih sekitar IDR 14,1 Milyar atau peningkatan
+efisiensi 23% selama periode 44 bulan.
+Simpulan
+Dari penelitian ini dapat disimpulkan bahwa,
+sebagai salah satu algoritma metaheuristic, GA telah
+memberikan solusi pada optimasi jadual pembersihan
+secara simultan dan memastikan pencapaian
+mendekati global optimum dengan memberikan
+penghematan ekonomi sekitar IDR 14,1 Milyar
+dalam periode 44 bulan.
+ 
+ 
+

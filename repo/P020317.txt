@@ -1,0 +1,110 @@
+﻿ABSTRAK
+
+Kurs atau nilai tukar mata uang sangat penting dalam perekonomian. Jenis kurs ada tiga
+macam, yaitu kurs jual, kurs beli, dan kurs tengah. Kurs dibutuhkan untuk menentukan
+sesuatu yang perlu dilakukan yang berkaitan dengan kurs itu misalnya keputusan investasi
+jangka pendek, keputusan penganggaran modal, keputusan pembiayaan jangka panjang,
+dan penilaian laba. Oleh karena itu, perlu dilakukan upaya untuk memprediksi besarnya
+kurs untuk satu hari ke depan. Permasalahan yang dihadapi adalah cara untuk memprediksi
+besarnya kurs yang menghasilkan nilai prediksi dengan tingkat kesalahan yang minimal.
+Tugas Akhir ini menggunakan metode Fuzzy Time Series (FTS) untuk memprediksi
+besarnya kurs. Hasilnya berupa data kurs yang terprediksi untuk tiap jenis kurs sampai satu
+hari ke depan. Tingkat keakuratan hasil prediksi diukur dengan nilai AFER (Average
+Forecasting Error Rate). Hasil prediksi menunjukkan bahwa nilai AFER untuk tiap jenis
+kurs dengan berbagai macam masukan yang berbeda menghasilkan nilai AFER antara
+0,05845% sampai 0,06887%. Ini berarti bahwa nilai hasil prediksi sangat akurat karena
+jika semakin dekat dengan 0% maka hasil prediksi semakin akurat.
+
+Kata kunci : Fuzzy Time Series, Kurs, AFER.
+BAB I
+PENDAHULUAN
+I.1. Latar Belakang
+
+Nilai tukar mata uang suatu negara merupakan salah satu indikator penting
+dalam suatu perekonomian. Nilai tukar juga mempunyai implikasi yang luas, baik
+dalam konteks ekonomi domestik maupun internasional, mengingat hampir semua
+negara di dunia melakukan transaksi internasional. Valuta asing yang sering disebut
+dengan akronim valas pada dasarnya adalah mata uang asing (foreign currencies).
+Dalam pandangan awam semua valuta asing dapat digunakan sebagai alat
+pembayaran luar negeri. Namun hanya mata uang tertentu yang dapat digunakan
+sebagai mata uang untuk membayar transaksi internasional. Persoalan yang sangat
+penting diperhatikan dalam masalah valuta asing ini adalah Kurs (exchange rate).
+Sebagaimana dimaklumi bahwa tiada suatu bangsa pun di dunia ini yang dapat
+mencukupi semua konsumsinya dari hasil produksinya sendiri, meskipun ada pula
+beberapa komoditi yang hasilnya melebihi kebutuhan dalam negeri sehingga dapat
+diekspor. Oleh karena itu suatu bangsa pasti memerlukan mata uang asing dalam
+transaksi internasionalnya. Kebutuhan akan uang asing yang kemudian disebut valas
+ini akan menimbulkan persoalan yang cukup pelik yaitu menentukan seberapa besar
+nilai tukar dari mata uang satu negara terhadap mata uang negara lain (Suprapto,
+2005).
+
+Tujuan dilakukannya prediksi kurs mata uang adalah untuk mengetahui kirakira
+besar nilai tukar mata uang di waktu yang akan datang yang bersifat harian.
+Setelah data hasil prediksi diperoleh, pihak-pihak yang berkepentingan dapat
+mengambil langkah-langkah strategis yang sekiranya perlu dilakukan agar tidak
+mengalami kerugian yang cukup besar. Misal pada perusahaan multinasional, dapat
+ditentukan keputusan pembiayaan jangka pendek, keputusan investasi jangka
+pendek, keputusan penganggaran modal, keputusan pembiayaan jangka panjang dan
+penilaian laba yang semua keputusan tersebut dipengaruhi oleh perubahan nilai tukar
+mata uang. Untuk data kurs yang dipakai diperoleh dari koran dan situs resmi yang
+memuat data kurs dari waktu ke waktu.
+
+
+Penelitian untuk masalah prediksi telah lama dilakukan, seperti penelitian
+untuk prediksi jumlah penduduk di suatu daerah dan prediksi jumlah pendaftar pada
+suatu universitas (Abbasov, 2003 dan Chen, 2004). Penelitian tersebut menggunakan
+metode Fuzzy Time Series (FTS). Penggunaan metode FTS dalam masalah prediksi
+telah terbukti bahwa hasil prediksinya sangat akurat yang diindikasikan dengan nilai
+AFER (Average Forecasting Error Rate) yang sangat kecil (Jilani, 2007). Salah satu
+cara untuk mengetahui tingkat akurasi prediksi adalah dengan menghitung nilai
+AFER. Nilai AFER adalah suatu nilai yang menyatakan persentase selisih antara data
+prediksi dengan data asli. Dengan nilai AFER yang semakin kecil berarti tingkat
+akurasi prediksi terhadap data asli semakin mendekati kebenaran meskipun
+sebenarnya jarang sekali kasus prediksi yang nilai AFER-nya 0% (Stevenson, 2009).
+Dalam Tugas Akhir ini diimplementasikan metode FTS untuk memprediksi
+besarnya kurs Rupiah terhadap Dollar Amerika.
+
+I.2. Rumusan Masalah
+Berdasarkan uraian latar belakang di atas, Tugas Akhir ini membahas proses
+pembuatan aplikasi yang dapat membantu memprediksi besarnya kurs Rupiah
+terhadap Dollar Amerika menggunakan metode FTS dalam kurun waktu prediksi
+yang telah ditentukan.
+
+I.3. Tujuan dan Manfaat
+Tujuan yang dicapai adalah menghasilkan aplikasi yang dapat membantu
+memprediksi besarnya kurs dalam kurun waktu prediksi tertentu menggunakan
+metode FTS sehingga bisa dilakukan langkah-langkah strategis yang berkaitan
+dengan perubahan nilai tukar mata uang.
+Adapun manfaat yang akan diperoleh Tugas Akhir ini adalah aplikasi yang
+baru diharapkan mampu memprediksi besarnya kurs secara lebih akurat dengan nilai
+AFER yang kecil terhadap data asli.
+
+I.4. Ruang Lingkup
+Ruang lingkup pengembangan aplikasi prediksi prediksi kurs menggunakan
+metode FTS adalah sebagai berikut :
+1) Aplikasi yang dibuat berbasis desktop.
+2) Bentuk implementasinya menggunakan bahasa pemrograman Visual Basic .NET
+dengan Sistem Manajemen Basis Data Microsoft Access.
+3) Data yang dipakai adalah data kurs Rupiah terhadap Dollar Amerika pada bulan
+Oktober 2010.
+4) Proses prediksi dilakukan dalam model waktu harian.
+5) Proses prediksi menggunakan metode FTS.
+6) Output berupa data hasil prediksi untuk tiap data kurs harian ditambah hasil
+prediksi untuk satu hari kemudian setelah tanggal terakhir dalam basis data dan
+nilai AFER untuk masing-masing hasil prediksi.
+
+I.5. Sistematika Penulisan
+Sistematika yang digunakan dalam penulisan tugas akhir ini adalah:
+BAB I : Merupakan pendahuluan yang berisi latar belakang, rumusan masalah,
+tujuan dan manfaat, ruang lingkup serta sistematika penulisan.
+BAB II : Merupakan teori-teori penunjang yang berisi tentang kurs mata uang,
+data berkala/time series, himpunan fuzzy, fungsi keanggotaan fuzzy,
+peramalan dengan metode FTS, DFD, Flowchart dan Microsoft Visual
+Studio 2008.
+BAB III : Berisi analisis kebutuhan, analisis metode, perancangan basis data,
+pemodelan fungsional, perancangan proses prediksi dan perancangan
+antarmuka aplikasi.
+BAB IV : Merupakan penjelasan tentang kebutuhan pembangunan aplikasi,
+implementasi, pengujian dan analisis dari aplikasi prediksi kurs
+menggunakan metode FTS.
+BAB V : Merupakan penutup yang berisi kesimpulan dan saran.

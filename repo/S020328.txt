@@ -1,0 +1,469 @@
+﻿Abstrak
+Kredit Usaha Rakyat (KUR) Mikro pada BRI Unit Kendal Kota
+merupakan kredit program pemerintah yang memiliki peranan penting dalam
+memberikan bantuan modal bagi pelaku UMKM di Kecamatan Kota Kendal.
+Sehingga perlu dijaga dari permasalahan pengembalian agar tidak mengganggu
+keberlanjutan penyaluran KUR Mikro. Penelitian ini bertujuan untuk menganalisis
+faktor – faktor yang memiliki pengaruh terhadap tingkat kelancaran pengembalian
+Kredit Usaha Rakyat (KUR) Mikro pada BRI unit Kendal Kota. Faktor – faktor
+tersebut adalah Usia, Jenis Kelamin, Jumlah Tanggungan Keluarga, Besar Pinjaman,
+Jenis Usaha, dan Lama Usaha.
+
+Data yang digunakan dalam penelitian adalah data sekunder dengan
+sampel yang meliputi 83 debitur KUR Mikro BRI Unit Kendal Kota pada tahun 2013.
+Alat analisis yang digunakan adalah regresi logistik.
+Hasil penelitian menunjukkan kelancaran pengembalian pinjaman
+disebabkan karakteristik debitur, karakteristik pinjaman, dan karakteristik usaha.
+Variabel Jumlah Tanggungan Keluarga, Besar Pinjaman dan Lama Usaha memiliki
+pengaruh terhadap tingkat kelancaran pengembalian KUR Mikro pada BRI Unit
+Kendal Kota. Hasil analisis diperoleh Jumlah Tanggungan Keluarga lebih besar dari 4
+orang, besar pinjaman kurang dari 6 juta rupiah, dan lama usaha kurang dari 7 tahun
+lebih berpotensi menimbulkan masalah pengembalian pinjaman. Pihak Bank
+diharapkan memperhatikan variabel – variabel tersebut dalam analisis pemberian
+kredit. Sedangkan variabel Usia, Jenis Kelamin dan Jenis Usaha tidak memiliki
+pengaruh terhadap tingkat kelancaran pengembalian KUR Mikro pada BRI Unit
+Kendal Kota.
+Kata kunci : Kredit Usaha Rakyat (KUR) Mikro, kelancaran pengembalian
+pinjaman, jumlah tanggungan keluarga, besar pinjaman, lama usaha.
+
+BAB I
+PENDAHULUAN
+1.1 Latar Belakang Masalah
+Kredit sebagai tambahan modal bagi pelaku usaha, memiliki peranan
+penting dalam pertumbuhan ekonomi suatu Negara. Kredit berasal dari bahasa
+Yunani “Credere” yang berarti kepercayaan. Pengertian kredit berkembang menjadi,
+kemampuan untuk melaksanakan suatu pembelian atau mengadakan suatu pinjaman
+dengan suatu janji pembayarannya akan dilakukan ditangguhkan pada suatu jangka
+waktu yang disepakati. Menurut Undang – undang No.7 Tahun 1992 tentang
+perbankan, Kredit adalah penyediaan uang atau tagihan yang dapat dipersamakan
+dengan itu, berdasarkan persetujuan kesepakatan pinjam-meminjam antara bank
+dengan pihak lain yang mewajibkan pihak peminjam untuk melunasi hutangnya
+setelah jangka waktu tertentu dengan jumlah bunga, imbalan atau pembagian hasil
+keuntungan.
+Salah satu target penyaluran kredit yang bertujuan untuk peningkatan
+pertumbuhan ekonomi adalah pemberian kredit pada UMKM. Sesuai dengan
+Instruksi Presiden Republik Indonesia Nomor 6 Tahun 2007 tentang Kebijakan
+Percepatan Pengembangan Sektor Riil dan Pemberdayaan Usaha Mikro, Kecil dan
+Menengah, disebutkan pada point I tentang Peningkatan Akses UMKM pada Sumber
+Pembiayaan. Salah satu kebijakan pada kebijakan yang ada pada poin ini adalah
+“Meningkatkan kapasitas kelembagaan dan akses UMKM pada sumber pembiayaan”.
+
+Pada kebijakan tersebut, pemerintah merencanakan sebuah program yang
+bermanfaat bagi UMKM yaitu pengembangan skema kredit investasi bagi UMKM.
+Dengan berjalannya program tersebut, diharapkan akan mampu mencapai beberapa
+sasaran yang dampaknya dapat dirasakan langsung oleh UMKM. Beberapa sasaran
+tersebut antara lain adalah 1). Tersedianya skema pembiayaan investasi melalui kredit
+program bagi UMKM. 2). Tersedianya sumber dana untuk kredit investasi UMKM.
+3). Kredit investasi UMKM tersalurkan secara efektif.
+
+Sektor UMKM dipilih oleh Pemerintah sebagai sektor yang perlu mendapat
+perhatian lebih karena menurut beberapa ahli dan pengamat ekonomi menyebutkan
+bahwa UMKM merupakan kekuatan dari perekonomian Indonesia. Meskipun dampak
+UMKM terhadap pertumbuhan ekonomi tidak terlalu tinggi, namun penyebaran efek
+yang dirasakan di masyarakat sangat luas. Salah satu efek dari penguatan UMKM
+tersebut adalah terciptanya lapangan pekerjaan yang cukup besar, dan mampu
+mengurangi angka pengangguran.
+
+Studi empiris membuktikan bahwa UMKM memiliki peranan penting dalam
+menyelamatkan kondisi perekonomian di masa krisis ekonomi yang melanda
+Indonesia pada tahun 1998. Menurut Setiawan(2011), sektor UMKM merupakan
+katup pengaman bagi para Tenaga Kerja yang menjadi korban Pemutusan Hubungan
+Kerja (PHK) yang diakibatkan oleh banyaknya industri besar yang mengalami kolaps
+pada masa krisis. Adanya UMKM mampu menyelamatkan beberapa tenaga kerja
+sehingga tidak sampai menganggur.
+
+UMKM mampu mengurangi jumlah pengangguran melalui penyerapan
+tenaga kerja yang selama ini belum mampu diserap oleh industri besar karena kualitas
+SDM yang masih rendah. Berdasarkan data dari Kementerian Koperasi dan UMKM,
+unit usaha UMKM sampai dengan tahun 2012 telah mampu menyerap tenaga kerja
+sebesar 107.657.509 atau sebesar 97,16% dari total tenaga kerja yang mampu diserap
+oleh UMKM dan usaha Besar.
+
+Perkembangan jumlah UMKM di Indonesia tumbuh sangat pesat.
+Berdasarkan data dari Kementerian Koperasi dan Usaha Mikro Kecil Menengah,
+jumlah UMKM di Indonesia sampai dengan tahun 2012 mencapai angka 56.534.592
+unit usaha. Angka tersebut mengalami pertumbuhan sebesar 1.328.147 unit dari tahun
+sebelumnya. Jumlah unit usaha mikro, kecil, dan menengah pada tahun 2012 tersebut
+memiliki proporsi 99,99% dari total unit usaha UMKM dan usaha Besar.
+UMKM di Indonesia masih sarat dengan kelemahan yang menyebabkan
+mereka sulit untuk mengembangkan usahanya. Beberapa kelemahan yang ada pada
+UMKM tersebut antara lain adalah kelemahan dalam akses modal, akses teknologi,
+akses pasar, manajemen keuangan serta sumber daya manuusia. Menurut
+Setiawan(2011), kondisi UMKM di Indonesia secara umum adalah sebagai berikut :
+1. Struktur organisai dan manajemen sederhana
+2. Memiliki modal terbatas dan kemampuan memperoleh sumber dana
+rendah
+3. Sistem pembukuan keuangan sangat sederhana
+4. Kurang membedakan antara aset pribadi dan aset perusahaan
+5. Menghadapi persaingan yang tinggi sehingga marjin keuntungan rendah.
+Selain kelemahan – kelemahan tersebut menurut Partomo (2004), UMKM memiliki
+keunggulan dalam fleksibilitas dan kemampuan menyesuaikan diri terhadap kondisi
+pasar yang berubah dengan cepat dibanding dengan perusahaan skala besar yang
+umumnya birokratis.
+
+Peran pemerintah sangat dibutuhkan dalam upaya memberdayakan UMKM
+di Indonesia agar lebih memiliki daya saing dalam perekonomian Indonesia.
+Setiawan(2011) menyebutkan ada tiga peran penting Pemerintah dalam upaya
+pemberdayaan tersebut yaitu 1).Mendorong pertumbuhan ekonomi secara aktif,
+2).Menciptakan iklim usaha yang kondusif, 3).Membuka akses terhadap sumber
+dinamika pertumbuhan internal UMKM itu sendiri, seperti pembiayaan dan kredit,
+akses pasar, teknologi, dan perbaikan manajemen.
+
+Upaya Pemerintah dalam pemberdayaan UMKM adalah dengan
+diluncurkannya salah satu Program Pemerintah dalam Pembiayaan UMKM yang
+diberi nama Kredit Usaha Rakyat (KUR). Kredit Usaha Rakyat merupakan salah satu
+solusi yang ditawarkan oleh pemerintah untuk mengatasi masalah permodalan yang
+sering dihadapi oleh UMKM. Kredit Usaha Rakyat (KUR) diluncurkan oleh Presiden
+pada tanggal 5 November 2007 dengan jaminan kredit dari pemerintah melalui PT
+Askrindo dan Perum Jamkrindo. Tujuan Pemerintah meluncurkan program Kredit
+Usaha Rakyat adalah untuk meningkatkan sektor riil dan memberdayakan UMKM.
+Dalam pelaksanaannya program Kredit Usaha Rakyat yang memiliki tujuan
+untuk memberdayakan UMKM ini menemui berbagai kendala. Kendala yang sering
+muncul adalah adanya persepsi yang kurang baik di masyarakat tentang KUR.
+
+Menurut Bank Indonesia dalam “Serba-serbi Kredit Usaha Rakyat”, menyebutkan
+bahwa ada beberapa kendala yang umum dihadapi dalam penyaluran Kredit Usaha
+Rakyat antara lain adalah :
+1. Adanya persepsi bahwa KUR merupakan kredit yang dijamin
+sepenuhnya dan bantuan dari pemerintah. Maka muncul moral hazard di
+masyarakat debitur yang kurang memikirkan kewajiban pengembalian
+yang menimbulkan adanya kredit macet.
+2. Masyarakat beranggapan bahwa penyaluran KUR tanpa agunan selalu
+sebesar 5-juta rupiah. Namun sebenarnya besarnya penyaluran KUR
+sesuai dengan penilaian Bank terhadap kemampuan usaha dari calon
+debitur, agar debitur tidak terbebani dalam pengembalian.
+3. Banyak calon debitur (UMKM) yang sudah pernah atau sedang
+menikmati kredit / pembiayaan dari perbankan.
+4. Banyak calon debitur yang tidak dapat memenuhi persyaratan dari Bank
+seperti identitas diri yang tidak cukup maupun kondisi usaha yang belum
+layak untuk mendapatkan kredit.
+5. Beberapa Bank yang kantornya hanya terdapat di kota, penyaluran KUR
+terkendala karena keterbatasan untuk menjangkau lokasi calon debitur
+yang relatif jauh.
+Kendala penyaluran KUR point pertama merupakan kendala yang
+berpotensi mengakibatkan munculnya kredit macet pada program Kredit Usaha
+Rakyat yang cukup tinggi. Hal ini dapat dilihat dari tingginya Non Performing Loan
+(NPL) Kredit UMKM pada data yang ditunjukkan oleh Bank Indonesia. Non
+Performing Loan (NPL) adalah salah satu indikator untuk menilai kinerja bank,
+karena apabila NPL tinggi menunjukkan indikator gagalnya sebuah Bank dalam
+mengelola bisnis. Indikator gagalnya sebuah bank tersebut antara timbul masalah
+Likuiditas (ketidakmampuan membayar pihak ketiga), Rentabilitas (utang tidak bisa
+ditagih), serta Solvabilitas (modal berkurang).
+
+Kredit UMKM menjadi penyumbang NPL terbesar apabila dibandingkan
+dengan kredit non-UMKM. Besarnya NPL kredit non-UMKM sampai April 2013
+adalah mencapai 36.770 Milliar Rupiah atau 1,58% dan Nilai NPL kredit UMKM
+adalah 21.631 Milliar Rupiah atau sebesar 3,8%. Besarnya NPL pada kredit
+perbankan sebesar 58.401 Milliar Rupiah atau sebesar 2,01%. NPL kredit UMKM
+menjadi yang paling besar dibandingkan dengan kredit – kredit lainnya.
+
+Tingginya kredit macet yang terjadi pada penyaluran KUR menunjukkan
+bahwa program KUR ini belum bisa berjalan seperti yang diharapkan Pemerintah.
+Tingginya kredit macet pada penyaluran program KUR ini dapat dilihat dari besarnya
+NPL pada Kredit KUR dari masing - masing Bank Pelaksana. Berikut ini dapat
+dilihat tabel tingkat NPL dari masing - masing Bank Pelaksana KUR hingga bulan
+Maret 2013.
+
+Berdasarkan tabel 1.1, dapat dilihat bahwa Bank Rakyat Indonesia
+merupakan Bank Pelaksana yang memiliki peranan paling besar dalam penyaluran
+Kredit Usaha Rakyat kepada Koperasi dan UMKM. Hal tersebut dapat dilihat dari
+plafon BRI (KUR Ritel + KUR Mikro) mencapai 65,3 Triliun rupiah dengan rincian
+13,6 Triliun rupiah pada KUR Ritel, dan 51,7 Triliun rupiah pada KUR Mikro.
+
+Dilihat dari besarnya nasabah, Bank Rakyat Indonesia mampu menjangkau jumlah
+debitur terbesar yaitu mampu menyalurkan Kredit Usaha Rakyat kepada 7.621.256
+debitur di seluruh Indonesia.
+Bank Rakyat Indonesia menjadi Bank pelaksana dengan jumlah nasabah
+paling besar apabila dibandingkan dengan Bank Pelaksana yang lain. Namun
+besarnya jumlah nasabah tersebut juga dibarengi dengan tingginya angka outstanding
+kredit di Bank Rakyat Indonesia. Angka outstanding tersebut bisa dilihat dari nilai
+NPL Bank Rakyat Indonesia dikalikan dengan jumlah nasabah yang menjadi debitur
+KUR Bank Rakyat Indonesia.
+Penyaluran KUR yang telah berjalan 6 tahun mampu menjangkau para
+pelaku UMKM yang berada di seluruh Provinsi di Indonesia, meskipun besarnya
+penyaluran dari masing – masing provinsi tidak sama. Penyebaran tersebut
+konsentrasi terbesar masih berada di Pulau Jawa, tingginya konsetrasi di Pulau Jawa
+juga menyebabkan tingginya NPL KUR yang terjadi di Pulau Jawa. Berikut ini
+disajikan data distribusi penyaluran KUR di seluruh Provinsi di Indonesia sampai
+Maret 2013.
+
+Berdasarkan tabel 1.2, nilai penyaluran dana KUR masih terkonsentrasi di
+Pulau Jawa. Penyaluran KUR tersebut terbesar berada pada Provinsi Jawa Tengah.
+
+Nilai outstanding kredit Provinsi Jawa Timur menjadi yang paling tinggi
+dibandingkan dengan Provinsi – Provinsi lain, yaitu mencapai 6,1 Trilliun Rupiah.
+Dilihat berdasarkan jumlah debitur, Provinsi Jawa Tengah merupakan
+Provinsi yang mampu menyalurkan dana KUR terbesar. Jumlah debitur KUR pada
+Provinsi Jawa Tengah mencapai 1.935.377 nasabah, yang masih tinggi apabila
+dibandingkan Provinsi Jawa Timur yang mampu menyalurkan KUR kepada
+1.420.848 nasabah. Posisi Jawa Tengah menjadi Provinsi yang mampu memperoleh
+jumlah nasabah terbesar dibandingkan provinsi – provinsi lain disebabkan oleh
+banyaknya industri – industri kecil yang bergerak di bidang barang maupun jasa.
+Jumlah UMKM di Provinsi Jawa Tengah dari tahun ke tahun mengalami
+perkembangan, sampai Triwulan I 2013 jumlah UMKM di Jawa Tengah mencapai
+83.179 unit usaha. Jumlah tersebut mengalami pertumbuhan sebesar 3,22% dari akhir
+tahun 2012. Perkembangan jumlah UMKM di Provinsi Jawa Tengah dari tahun 2009
+– sampai Triwulan I 2013 dapat dilihat pada tabel berikut.
+
+Berdasarkan tabel 1.3, jenis UMKM Perdagangan di Jawa Tengah memiliki
+jumlah terbesar dibandingkan bidang lainnya. Bank Indonesia menyebutkan bahwa
+pertumbuhan sektor perdagangan di Jawa Tengah pada triwulan I mencapai 9,2%.
+Pertumbuhan sektor perdagangan disebabkan oleh peningkatan penyelenggaraan
+MICE (Meeting, Incentive, Convention, dan Exhibition) di perhotelan, dan hari libur
+panjang. Pertumbuhan sektor perdagangan didorong oleh pertumbuhan perekonomian
+Indonesia, dan stabilitas politik yang mendorong kepercayaan pembeli.
+Bank Indonesia menyebutkan bahwa peningkatan pertumbuhan kredit
+sektor perdagangan menjadi salah satu indikasi meningkatnya kinerja sektor
+perdagangan. Sektor jasa dan perdagangan di Jawa Tengah menjadi sektor penerima
+pinjaman KUR dengan jumlah debitur terbesar. Tabel dibawah menampilkan data
+realisasi KUR di Jawa Tengah periode Agustus 2013 pada semua sektor.
+
+Pada tabel 1.4, dapat dilihat bahwa sektor jasa dan perdagangan merupakan
+sektor yang menjadi debitur terbesar pada penyaluran KUR. Persentase sektor Jasa
+dan perdagangan pada penerima KUR di Jawa Tengah mencapai 76.34% dari
+keseluruhan debitur KUR di Jawa Tengah. Total UMKM yang menjadi Debitur KUR
+di Jawa Tengah sampai Agustus 2013 pada semua sektor telah mencapai 1.866.302
+unit.
+Bank pelaksana penyaluran KUR di Jawa Tengah masih didominasi oleh
+Bank – Bank BUMN. Meskipun Bank milik Pemerintah Daerah dan Bank-bank yang
+merupakan anak perusahaan dari Bank BUMN juga ikut berperan dalam penyaluran,
+tetapi kemampuan memperoleh debitur masih kalah dengan Bank – Bank BUMN.
+Data debitur dari Bank – Bank Pelaksana dalam penyaluran KUR di Jawa Tengah
+dapat dilihat pada tabel berikut ini.
+
+Dari tabel 1.5 dapat dilihat bahwa Bank Rakyat Indonesia memiliki peranan
+penting dalam penyaluran KUR di Jawa Tengah. Jumlah debitur KUR Bank Rakyat
+Indonesia sampai 31 Agustus 2013 mencapai 1.760.111 debitur. Jumlah tersebut
+sangat tinggi apabila dibandingkan dengan Bank pelaksana yang lain, dengan
+persentase debitur KUR BRI 72,16% dari keseluruhan debitur KUR di Jawa Tengah.
+Kesuksesan Bank Rakyat Indonesia ini tentunya didorong oleh unit kerja BRI yang
+mampu menjangkau sampai ke Desa - desa.
+Penyaluran KUR di Jawa Tengah berdampak pada peningkatan Jumlah
+UMKM dan Realisasi Kredit UMKM di seluruh Kabupaten/Kota di Jawa Tengah.
+Kabupaten Kendal menjadi salah satu Kabupaten yang memperoleh manfaat adanya
+penyaluran KUR. Kabupaten Kendal yang secara geografis berbatasan langsung
+dengan Kota Semarang, menjadi daerah pendukung perekonomian Kota Semarang.
+Pemerintah Kabupaten Kendal berupaya meningkatkan daya saing dan pemasaran
+produk UMKM yang menjadi produk unggulan maupun non-unggulan melalui
+berbagai pembinaan dan promosi.
+
+Perkembangan UMKM di Kabupaten Kendal sampai saat ini dinilai cukup
+pesat, hal ini dapat dilihat pada tabel 1.6. Jumlah usaha Mikro, Kecil dan Menengah
+dari tahun 2008 sampai dengan tahun 2012 terus mengalami kenaikan. Pada tahun
+2012, UMKM di Kabupaten Kendal mencapai angka 17.688 unit. Hal tersebut
+menunjukkan keberhasilan Pemerintah dalam pembinaan UMKM.
+Peningkatan jumlah UMKM di Kabupaten Kendal didukung oleh realisasi
+kredit UMKM di Kabupaten Kendal yang mengalami peningkatan tiap tahun.
+Penyaluran kredit UMKM di Kabupaten Kendal adalah sebagai berikut.
+
+Pada gambar 1.2 dapat dilihat realisasi kredit UMKM di Kabupaten Kendal
+dari tahun 2003 sampai dengan 2013 memiliki tren yang meningkat. Realisasi kredit
+UMKM pada tahun 2003 adalah Rp. 464.957 dan pada tahun 2013 adaah Rp.
+1.158.481 Meskipun pada tahun 2011 mengalami penurunan yang cukup besar yaitu
+dari Rp. 1.687.037 juta pada tahun 2010 menjadi Rp. 844.834 juta pada tahun 2011.
+Peningkatan realisasi kredit UMKM tersebut menunjukkan bahwa UMKM di
+Kabupaten Kendal sangat bergantung terhadap penyaluran kredit UMKM.
+
+Realisasi kredit UMKM di Kabupaten Kendal juga termasuk realisasi Kredit
+Usaha Rakyat (KUR) Mikro Bank Rakyat Indonesia Cabang Kendal. Penyaluran
+KUR Mikro pada tiap – tiap Unit Kerja Bank Rakyat Indonesia di wilayah Kabupaten
+Kendal ditunjukkan pada tabel 1.7. Penyaluran KUR Mikro pada Bank Rakyat
+Indonesia Cabang Kendal dari tahun 2012 ke tahun 2013 mengalami peningkatan.
+Jumlah KUR Mikro di Kabupaten Kendal pada Bank Rakyat Indonesia Cabang
+Kendal pada tahun 2013 adalah sebesar Rp. 60.189.038.273.
+Pada tabel 1.7 dapat dilihat jumah pinjaman KUR Mikro pada tiap – tiap
+Unit kerja BRI di wilayah BRI Cabang Kendal. BRI Unit Pemuda memiliki jumlah
+penyaluran KUR tertinggi di Kabupaten Kendal yaitu sebesar Rp. 3.438.586.682.
+BRI Unit Kendal Kota menjadi bank penyalur KUR Mikro di Kabupaten Kendal
+dengan jumlah debitur bermasalah paling tinggi. BRI Unit Kendal Kota memiliki
+debitur bermasalah sebesar 119 orang debitur dari 491 debitur, atau sebesar 24%.
+Penyaluran Kredit Usaha Rakyat dinilai sudah berhasil dan efektif karena
+telah mampu mendanai usaha pada semua sektor. Namun adanya debitur bermasalah
+pada tabel 1.7 merupakan suatu masalah yang perlu diteliti tentang faktor – faktor
+yang menjadi penyebab pengembalian KUR yang tidak lancar. Adanya pengembalian
+kredit yang tidak lancar dapat mengganggu kelancaran pihak Bank Pelaksana dalam
+menyalurkan kembali dana KUR ke calon debitur lain yang membutuhkan tambahan
+modal. Masalah kelancaran pengembalian kredit harus bisa dicegah hingga seminimal
+mungkin, supaya dana KUR bisa tetap bergulir.
+
+Untuk menjaga kelancaran dan berhasilnya program KUR dari adanya
+kredit yang tidak lancar, maka perlu dilakukan analisis untuk mengetahui faktor –
+faktor yang diduga dapat mempengaruhi tingkat kelancaran pengembalian KUR.
+Faktor – faktor yang diduga mempengaruhi tingkat kelancaran pengembalian kredit
+menurut Dendawijaya (2003) dapat dilihat melalui analisis kredit dengan prinsip 6C,
+yaitu character, capital, capacity, conditions of economy, collateral, constraints.
+Menurut Nawai dan Shariff (2010), faktor – faktor yang mempengaruhi tingkat
+kelancaran pengembalian kredit dibagi menjadi empat faktor, yaitu : karakteristik
+peminjam (usia, tingkat pendidikan, gender, pengalaman usaha, pendapatan bulanan),
+karakteristik usaha, karakteristik pinjaman (jumlah pinjaman, metode pengembalian,
+periode pengembalian), dan karakteristik pemberi pinjaman (sanksi, monitoring,
+biaya transaksi).
+Pada penelitian ini, faktor – faktor yang diduga memiliki pengaruh terhadap
+tingkat kelancaran pengembalian KUR Mikro pada BRI Unit Kendal Kota dibagi
+menjadi Karakteristik Peminjam (Usia, Jenis Kelamin, Jumlah Tanggungan
+Keluarga), Karakteristik Pinjaman (Besar Pinjaman), dan Karakteristik Usaha (Jenis
+Usaha, Lama Usaha). Berdasarkan tabel 1.8 dapat dilihat bahwa terdapat perbedaan
+sebaran debitur pada masing – masing variabel independen. Debitur Lancar memiliki
+sebaran usia lebih tinggi dari kategori Debitur Tidak Lancar. Jenis Kelamin laki – laki
+memiliki persentase yang lebih tinggi dibandingkan perempuan pada Debitur Lancar
+dan Debitur Tidak Lancar. Sebaran Jumlah Tanggungan Keluarga pada kategori
+Debitur Lancar lebih kecil dari sebaran Jumlah Tanggungan Keluarga pada kategori
+
+Debitur Tidak Lancar. Besar pinjaman pada Debitur Lancar memiliki sebaran yang
+lebih tinggi dari kategori Debitur Tidak Lancar. Debitur dengan Jenis Usaha
+Perdagangan memiliki persentase yang lebih tinggi dibandingkan Non-Perdagangan
+pada kategori Debitur Lancar dan Debitur Tidak Lancar. Lama Usaha pada Debitur
+Lancar memiliki sebaran yang lebih tinggi dibandingkan pada kategori Debitur Tidak
+Lancar. Maka perbedaan sebaran variabel independen antara kategori Debitur Lancar
+dan Debitur Tidak Lancar diduga memiliki pengaruh terhadap tingkat kelancaran
+pengembalian KUR Mikro pada BRI Unit Kendal Kota.
+
+1.2 Rumusan masalah Penelitian
+Kredit Usaha Rakyat (KUR) Mikro yang direalisasikan oleh Bank Rakyat
+Indonesia difokuskan untuk pengusaha kecil yang memang membutuhkan tambahan
+modal usaha. Meskipun KUR telah dijamin oleh pemerintah, tetapi penjaminan
+tersebut tidak sepenuhnya karena pemerintah hanya menjamin sebesar 70%,
+sedangkan 30% nilai kredit yang mengalami macet tersebut ditanggung oleh pihak
+bank pelaksana.
+Terjadi kesalahan persepsi di masyarakat tentang program KUR, masyarakat
+beranggapan bahwa KUR merupakan bantuan pemerintah. Persepsi tersebut
+berpotensi mengakibatkan munculnya kredit macet yang diakibatkan oleh adanya
+moral hazard di masyarakat yang kurang memiliki rasa tanggung jawab atas
+kewajiban pengembalian kredit kepada pihak Bank. Persepsi tersebut kemungkinan juga terjadi pada penyaluran KUR di Kabupaten Kendal. Terdapat fenomena bahwa
+24% debitur KUR Mikro pada BRI Unit Kendal Kota tidak dapat melakukan
+pengembalian dengan lancar. BRI Unit Kendal Kota memiliki debitur bermasalah
+dengan jumlah paling tinggi dibandingkan dengan semua BRI Unit di Wilayah kerja
+BRI Cabang Kendal.
+
+Fenomena ini merupakan sesuatu yang menarik untuk diteliti tentang faktor
+– faktor yang mempengaruhi kelancaran pengembalian kredit. Masalah dalam
+kelancaran pengembalian kredit akan berdampak pada meningkatnya NPL Bank
+Pelaksana dan kelancaran bergulirnya program KUR. Faktor – faktor yang diduga
+mempengaruhi tingkat kelancaran pengembalian kredit menurut Dendawijaya (2003)
+dapat dilihat melalui analisis kredit dengan prinsip 6C, yaitu character, capital,
+capacity, conditions of economy, collateral, constraints.
+Menurut Nawai dan Shariff (2010), faktor – faktor yang mempengaruhi
+tingkat kelancaran pengembalian kredit dibagi menjadi empat faktor, yaitu :
+karakteristik peminjam (usia, tingkat pendidikan, gender, pengalaman usaha,
+pendapatan bulanan), karakteristik usaha, karakteristik pinjaman (jumlah pinjaman,
+metode pengembalian, periode pengembalian), dan karakteristik pemberi pinjaman
+(sanksi, monitoring, biaya transaksi). Menurut penelitian Triwibowo (2009), faktor –
+faktor yang mempengaruhi kelancaran pengembalian kredit juga dikelompokkan
+menjadi karakteristik personal, karaktestik usaha, dan karakteristik kredit.
+Terdapat kesenjangan penelitian (research gap) dari beberapa penelitian
+terdahulu yang menganalisis faktor – faktor yang berpengaruh terhadap tingkat kelancaran pengembalian pinjaman. Research gap yang terdapat pada penelitian
+terdahulu adalah sebagai berikut :
+
+1. Variabel Usia peminjam, berdasarkan penelitian Asih(2007),
+Muhammamah(2008), Triwibowo(2009), Samti(2011), Lubis dan
+Rachmina(2011), dan Nastiti(2013), disimpulkan bahwa usia tidak
+berpengaruh signifikan terhadap tingkat kelancaran pengembalian
+kredit. Sedangkan penelitian yang dilakukan Mokhtar,dkk(2009), Nawai
+dan Shariff(2010) menunjukkan bahwa Usia memiliki pengaruh
+signifikan positif terhadap tingkat kelancaran pengembalian kredit.
+
+2. Variabel Jenis Kelamin Peminjam, berdasarkan penelitian yang
+dilakukan oleh Muhammamah(2008), Agustania(2009), dan
+Samti(2011), dapat disimpulkan bahwa Jenis Kelamin tidak berpengaruh
+signifikan. Sedangkan menurut penelitian Mokhtar,dkk(2009), Nawai
+dan Shariff(2010), dan Lubis dan Rachmina(2011) menunjukkan bahwa
+Jenis Kelamin peminjam memiliki pengaruh yang signifikan terhadap
+tingkat kelancaran pengembalian kredit.
+
+3. Variabel Jumlah Tanggungan Keluarga, berdasarkan penelitian yang
+dilakukan oleh Asih(2007), Muhammamah(2008), Agustania(2009),
+Lubis dan Rachmina(2011), serta Samti(2011) dapat disimpulkan bahwa
+jumlah tanggungan keluarga tidak berpengaruh signifikan terhadap
+tingkat kelancaran pengembalian kredit. Sedangkan menurut penelitian
+yang dilakukan Triwibowo(2009), variabel tanggungan keluarga
+berpengaruh signifikan negatif terhadap tingkat kelancaran
+pengembalian kredit.
+
+4. Variabel Besar Pinjaman, berdasarkan penelitian yang dilakukan
+Muhammamah(2008), menunjukkan besar pinjaman tidak berpengaruh
+terhadap tingkat kelancaran pengembalian kredit. Sedangkan
+berdasarkan penelitian yang dilakukan Asih (2007), Sinaga (2007),
+Agustania(2009) dan Nawai dan Shariff(2010),dapat disimpulkan
+bahwa variabel besar pinjaman memiliki pengaruh signifikan positif
+terhadap tingkat kelancaran pengembalian kredit.
+
+5. Variabel Jenis Usaha, berdasarkan penelitian yang dilakukan oleh
+Mokhtar(2009), Nawai dan Shariff(2010), dan Lubis dan
+Rachmina(2011) disimpulkan bahwa jenis usaha memiliki pengaruh
+terhadap tingkat kelancaran pengembalian kredit. Menurut Nawai(2010),
+jenis usaha debitur merupakan termasuk ke dalam karakteristik usaha.
+
+6. Variabel Lama Usaha, penelitian Nawai dan Shariff(2010) menunjukkan
+bahwa variabel lama usaha memiliki pengaruh terhadap tingkat
+kelancaran pengembalian kredit. Sedangkan berdasarkan penelitian yang
+dilakukan oleh Asih(2007), Muhammamah(2008), Triwibowo(2009),
+Samti(2011), dan Nastiti(2013) dapat disimpulkan bahwa terdapat
+pengaruh yang tidak signifikan dari variabel lama usaha terhadap tingkat
+kelancaran pengembalian kredit.
+
+Rumusan masalah (research problem) dalam penelitian ini adalah terdapat
+24% debitur KUR Mikro BRI Unit Kendal Kota yang memiliki masalah dalam
+pengembalian pinjaman. BRI Unit Kendal Kota memiliki 119 debitur KUR
+bermasalah dalam pengembalian, yang merupakan jumlah yang paling tinggi
+dibandingkan seluruh BRI Unit di wilayah Kerja BRI Cabang Kendal. Adanya
+perbedaan hasil penelitian terkait dengan faktor – faktor yang mempengaruhi
+kelancaran pengembalian kredit. Maka fenomena tersebut perlu diteliti faktor – faktor
+yang mempengaruhinya agar mampu memimalkan risiko pembiayaan.
+
+Berdasarkan kesenjangan penelitian (research gap) dan rumusan masalah
+(research problem), maka diperoleh pertanyaan penelitian (research question)
+sebagai berikut :
+1. Bagaimanakah pengaruh variabel usia peminjam terhadap kelancaran
+pengembalian KUR Mikro BRI Unit Kendal Kota?
+2. Bagaimanakah pengaruh variabel jenis kelamin peminjam terhadap
+kelancaran pengembalian KUR Mikro BRI Unit Kendal Kota?
+3. Bagaimanakah pengaruh variabel jumlah tanggungan keluarga
+peminjam terhadap kelancaran pengembalian KUR Mikro BRI Unit
+Kendal Kota?
+4. Bagaimanakah pengaruh variabel besar pinjaman terhadap kelancaran
+pengembalian KUR Mikro BRI Unit Kendal Kota?
+5. Bagaimanakah pengaruh variabel jenis usaha peminjam terhadap
+kelancaran pengembalian KUR Mikro BRI Unit Kendal Kota?
+
+6. Bagaimanakah pengaruh variabel lama usaha peminjam terhadap
+kelancaran pengembalian KUR Mikro BRI Unit Kendal Kota?
+1.3 Tujuan dan Manfaat Penelitian
+1.3.1 Tujuan Penelitian
+Berdasarkan masalah yang menjadi latar belakang penelitian, tujuan
+penelitian yang ingin dicapai adalah :
+1. Menganalisis pengaruh variabel usia peminjam terhadap kelancaran
+pengembalian KUR Mikro pada BRI Unit Kendal Kota.
+2. Menganalisis pengaruh variabel Jenis kelamin peminjam terhadap
+kelancaran pengembalian KUR Mikro pada BRI Unit Kendal Kota.
+3. Menganalisis pengaruh variabel jumlah tanggungan keluarga peminjam
+terhadap kelancaran pengembalian KUR Mikro pada BRI Unit Kendal
+Kota.
+4. Menganalisis pengaruh variabel besar pinjaman terhadap kelancaran
+pengembalian KUR Mikro pada BRI Unit Kendal Kota.
+5. Menganalisis pengaruh variabel jenis usaha terhadap kelancaran
+pengembalian KUR Mikro pada BRI Unit Kendal Kota.
+6. Menganalisis pengaruh variabel lama usaha peminjam terhadap
+kelancaran pengembalian KUR Mikro pada BRI Unit Kendal Kota.
+
+1.3.2 Manfaat Penelitian
+Penelitian ini diharapkan memberikan manfaat bagi pihak – pihak yang
+berkepentingan sebagai berikut :
+a. Bagi pihak Bank
+Diharapkan dapat memberikan gambaran tentang keadaan KUR Mikro
+bagi pengambil kebijakan dalam memutuskan setiap pemberian kredit.
+Dengan mengetahui hasil pengaruh dari variabel independen, diharapkan
+pemberi keputusan kredit dapat menyalurkan kredit yang lebih efektif.
+Sehingga dapat meminimalkan kredit yang tidak lancar, maka
+bergulirnya kredit dapat bermanfaat bagi pihak yang membutuhkan
+tambahan modal.
+b. Bagi Akademisi
+Hasil penelitian ini dapat digunakan sebagai referensi bagi akademisi
+yang ingin melakukan penelitian selanjutnya. Penelitian ini juga
+diharapkan dapat memberikan manfaat bagi masyarakat pada umumnya
+dan dapat digunakan sebagai bahan tambahan informasi dan
+pengetahuan mengenai dunia perbankan.
+c. Bagi Penulis
+Penelitian ini bermanfaat memberikan tambahan wawasan bagi penulis
+di bidang perbankan. Serta dapat menerapkan disiplin ilmu yang di
+dapat di perkuliahan, berpikir kritis dan sistematis, dan mampu
+mengaplikasikan teori.

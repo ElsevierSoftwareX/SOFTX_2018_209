@@ -1,0 +1,232 @@
+﻿Abstrak
+Bukit Semarang Baru di Kecamatan Mijen, Kota Semarang adalah permukiman
+skala besar yang di dalamnya dikembangkan fungsi tempat bekerja, berbelanja,
+pendidikan, dan rekreasi. Pengembangan kawasan tersebut menyebabkan
+peningkatan emisi dari aktifitas transportasi dan industri. Emisi kendaraan
+bermotor dan cerobong industri berpengaruh pada konsentrasi polutan dalam
+udara ambien di kawasan sekitarnya. Penelitian ini bertujuan untuk mengetahui
+kondisi kualitas udara, pola dan model sebaran polutan udara pada wilayah studi.
+Penelitian ini dilakukan dengan pengukuran udara ambien pada 15 titik sampling
+di wilayah studi. Pengambilan sampel dilakukan pada pagi, siang, sore, dan
+malam hari. Variabel yang diukur adalah NO2, SO2, CO, dan debu. Hasil analisis
+kualitas udara diketahui dari angka Indeks Standar Pencemaran Udara dan
+dipetakan dengan ArcGIS 10. Pola sebaran polutan udara dipetakan dengan Surfer
+10. Selain berdasarkan pengukuran dilakukan juga perhitungan Model Dispersi
+Gauss sumber bergerak dan sumber tidak bergerak. Sumber bergerak berasal dari
+kondisi transportasi, sedangkan sumber tidak bergerak berasal dari cerobong
+industri. Konsentrasi NO2 tertinggi di Jalan Ngaliyan – Boja sebesar 79,770
+ìg/Nm3, angka Indeks Standar Pencemaran Udara (ISPU) yang didapatkan
+termasuk pada kategori baik. Konsentrasi SO2 tertinggi di Main Gate sebesar
+91,424 ìg/Nm3, angka ISPU yang didapatkan yaitu 52 termasuk kategori sedang.
+Konsentrasi CO tertinggi didapatkan pada Graha Taman Bunga dan Main Gate
+sebesar 6,866 ìg/Nm3, angka ISPU yang didapatkan yaitu 69 termasuk kategori
+sedang. Konsentrasi debu tertinggi di Sportclub sebesar 363,444 ìg/Nm3, angka
+ISPU yang didapatkan yaitu 190 termasuk kategori tidak sehat.
+Kata kunci: Model Dispersi Gauss, ArcGIS 10, analisis sebaran pencemaran
+Udara
+
+BAB I
+PENDAHULUAN
+1.1 Latar Belakang
+Setyawan (2002) menerangkan bahwa secara umum pembangunan
+permukiman berskala besar akan memberikan pengaruh, baik positif maupun
+negatif. Peningkatan pendapatan Pemerintah Daerah melalui pajak dan retribusi
+daerah, perluasan lapangan usaha dan kerja merupakan dampak positif dari
+keberadaannya. Selain itu juga penyediaan sarana dan prasarana perkotaan akan
+dapat mengurangi beban pemerintah daerah. Di samping itu, dampak negatif yang
+ditimbulkan juga cukup banyak antara lain masalah konversi lahan (pertanian
+menjadi non pertanian), transportasi (kemacetan dan ketidakteraturan), dan
+aktifitas industri. Aktifitas transportasi dan industri tersebut dapat menimbulkan
+pencemaran udara pada kawasan tersebut.
+
+Agustina (2007) menyatakan bahwa perwujudan kota baru saat ini sebagian
+besar merupakan permukiman berskala besar yang merupakan respon dari pihak
+swasta dalam memenuhi permintaaan hunian atau tempat tinggal, yang dilengkapi
+dengan berbagai sarana dan prasarana penunjangnya. Selain itu, kota baru saat ini
+berkembang menjadi suatu landasan pemikiran konseptual untuk menyelesaikan
+masalah perumahan dan permukiman kota di berbagai negara di dunia, termasuk
+diantaranya Indonesia.
+Mardusari, dkk (1998) menjelaskan bahwa Kawasan Bukit Semarang Baru
+termasuk dalam Bagian Wilayah Kota (BWK) IX yang mempunyai luas lahan
+sekitar 1000 hektar, berlokasi di Kecamatan Mijen, Kota Semarang dirancang
+sebagai suatu kawasan multifungsi yaitu pembangunan permukiman skala besar
+yang di dalamnya dikembangkan pula fungsi tempat bekerja, tempat berbelanja,
+pendidikan, dan rekreasi, dengan menganut konsep “KOTA TAMAN”
+sebagaimana dikembangkan oleh Ebenezer Howard. Konsep tersebut dalam
+aplikasinya menggabungkan suatu tatanan penuh kehidupan penduduk perkotaan
+dalam suatu bentuk alami yang mana permukaan tanah, kaki bukit, lembah, gunung, sungai akan tetap dilestarikan, dan badan air atau kolam sebagai fungsi
+rekreasi.
+
+Pada saat ini dampak terhadap kualitas udara ambien dari Kawasan Bukit
+Semarang Baru disebabkan oleh kegiatan operasi terkait dengan pengoperasian
+fasilitas atau utilitas kota. Sebagai kawasan multifungsi yang di dalamnya
+difungsikan sebagai tempat bekerja, pendidikan, dan rekreasi akan menyebabkan
+peningkatan aktifitas transportasi. Selain itu, aktifitas industri yang semakin
+berkembang akan mempengaruhi kualitas udara ambien pada kawasan tersebut.
+Sesuai dengan Peraturan Daerah Kota Semarang Nomor 14 Tahun 2011
+tentang Rencana Tata Ruang Wilayah Kota Semarang Tahun 2011-2031, Kota
+Semarang merupakan salah satu kota dengan tingkat perkembangan yang cukup
+pesat dengan pertumbuhan ekonomi dan aktifitas penunjangnya menjadi orientasi
+dari perkembangan kota ini. Kota Semarang menggunakan sistem pembagian
+wilayah yang dikenal dengan Bagian Wilayah Kota (BWK). Sistem ini dilakukan
+dengan penentuan fungsi-fungsi tertentu dilengkapi sarana dan prasarananya yang
+ditujukan untuk menunjang perkembangan fungsi pada kawasan tersebut.
+Pada masing-masing BWK yang berada di Kota Semarang memiliki karakter
+yang berbeda-beda sesuai dengan fungsi kawasan. Dalam Rencana Tata Ruang
+Wilayah Kota Semarang Tahun 2011-2031 terdapat 10 BWK di Kota Semarang
+yang masing-masing diarahkan dengan fungsi antara lain kawasan perkantoran,
+perdagangan, dan jasa di BWK I, BWK II, dan BWK III, pendidikan kepolisian
+dan olah raga di BWK II, transportasi udara dan transportasi laut di BWK III,
+industri di BWK IV dan BWK X, pendidikan di BWK VI dan BWK VIII,
+perkantoran militer di BWK VII, dan kantor pelayanan publik di BWK IX.
+Kecamatan Mijen merupakan salah satu kecamatan yang termasuk dalam
+BWK IX dengan luas kurang lebih 6.213 (enam ribu dua ratus tiga belas) hektar.
+Sesuai dengan Rencana Tata Ruang Wilayah Kota Semarang Tahun 2011-2031
+untuk BWK IX difungsikan sebagai sub pusat pelayanan kota yang dilengkapi
+dengan sarana lingkungan perkotaan skala pelayanan BWK yang meliputi sarana
+perdagangan dan jasa, sarana pendidikan, sarana kesehatan, sarana peribadatan,
+dan sarana pelayanan umum. Selain itu diperuntukan sebagai pengembangan pusat lingkungan, kawasan perumahan dengan kepadatan rendah, kawasan
+peruntukan tanaman hortikultura, pengembangan budidaya perikanan,
+pengembangan kawasan perkantoran, dan rencana kawasan industri.
+Menurut Jiunn-der Duh, dkk (2008) setiap tahun 1,5 miliar warga perkotaan
+menghirup udara yang melebihi standar World Health Organization (WHO),
+dengan lebih dari 800.000 (delapan ratus ribu) kematian setiap tahun karena
+polusi udara perkotaan. Collins, dkk (2000); Pickett, dkk (2001); Groffman, dkk
+(2004); Mills (2007) menyatakan bahwa dampak pembangunan perkotaan juga
+merusak ekosistem lokal dan global dengan mengurangi dan merusak habitat
+alam, dan memodifikasi aliran energi dan siklus nutrisi.
+Parker (1981) menyatakan bahwa udara bersih mempunyai komposisi kimia
+yang terdiri dari 78% nitrogen, 20% oksigen, 0,93% argon, 0,03% karbon
+monoksida, dan sisanya terdiri dari neon, helium, metan dan hidrogen yang
+merupakan senyawa yang berasal dari berbagai proses alamiah seperti gunung
+berapi, aerosol lautan, partikel-partikel debu tanah, proses peluruhan dan
+dekomposisi senyawa organik, reaksi kimia di atmosfer, dan proses-proses
+alamiah lainnya. Menurut Pusarpedal (2011), pencemaran udara adalah masuknya
+zat-zat dalam wujud gas dan partikel ke dalam atmosfer dari aktifitas lain di luar
+proses alamiah sehingga mengubah komposisi alamiah semula.
+
+Menurut Parker (1981), udara dikatakan normal dan dapat mendukung
+kehidupan manusia apabila komposisinya seperti tersebut di atas, sedangkan udara
+dikatakan telah tercemar apabila telah terjadi perubahan terhadap komposisi di
+atas terutama terjadi penambahan gas lain yang menimbulkan gangguan. Hal ini
+sesuai dengan Pasal 1 ayat (1) Peraturan Pemerintah Nomor 41 Tahun 1999
+tentang Pengendalian Pencemaran Udara, pencemaran udara adalah masuknya
+atau dimasukkannya zat, energi, dan/atau komponen lain ke dalam udara ambien
+oleh kegiatan manusia, sehingga mutu udara ambien turun sampai ke tingkat
+tertentu yang menyebabkan udara ambien tidak dapat memenuhi fungsinya.
+Wardani (2003) menerangkan bahwa perubahan kualitas udara yang
+berhubungan dengan emisi dapat terjadi dari produk sampingan aktifitas industri.
+Produk sampingan yang diemisikan dari setiap sumber yang ada akan tersebar diatmosfer melalui transformasi kimiawi yang dipengaruhi oleh faktor meteorologi
+kawasan. Emisi yang masuk ke dalam atmosfer akan dapat berpindah dari titik
+asal sumbernya ke arah lain di sebelah hilirnya yang membentuk pola persebaran
+polutan udara ambien. Keberadaan ruang terbuka semakin berkurang dengan
+berkembangnya industri yang diikuti dengan perkembangan jumlah kendaraan
+bermotor sebagai sarana perhubungan dan juga bertambahnya jumlah bangunan
+(pabrik, perumahan, pusat perdagangan, jasa, dan terminal). Hal ini dapat
+menyebabkan kualitas udara semakin menurun karena konsentrasi emisi yang
+semakin meningkat sebagai akibat dari dihasilkannya berbagai macam polusi.
+Menurut Bunawas, dkk (1999) salah satu bahan pencemar udara adalah debu
+yang mempunyai diameter 0,1 ìm sampai dengan 100 ìm dan menjadi perhatian
+bersama khususnya debu yang dihasilkan oleh pengolahan bahan padat dari
+industri. Partikel udara dalam wujud padat yang berdiameter kurang dari 10 ìm
+yang biasanya disebut dengan PM10 (particulate matter) dan kurang dari 2,5 ìm
+yang disebut dengan PM2,5 diyakini oleh para pakar lingkungan dan kesehatan
+masyarakat sebagai pemicu timbulnya infeksi saluran pernafasan karena partikel
+padat PM10 dan PM2,5 dapat mengendap pada saluran pernafasan daerah bronki
+dan alveoli.
+
+Dalam UNEP (1994) dijelaskan bahwa partikel debu yang berdiameter
+kurang dari 10 ìm (PM10) sangat memprihatinkan karena memiliki kemampuan
+yang lebih besar untuk menembus ke dalam paru-paru. Rambut di dalam hidung
+dapat menyaring debu yang berukuran lebih besar dari 10 ìm. PM10 diperkirakan
+berada antara 50% sampai dengan 60% dari partikel melayang yang mempunyai
+diameter sampai 45 ìm total suspended particulate (TSP). Partikel yang lebih
+besar dari 10 ìm seperti TSP, tidak terhirup ke dalam paru-paru. Partikel di bawah
+2,5 ìm (PM2,5) tidak tersaring dalam sistem pernapasan bagian atas dan
+menempel pada gelembung paru-paru sehingga dapat menurunkan pertukaran gas.
+Berdasarkan Surat Keputusan Gubernur Jawa Tengah Nomor 8 Tahun 2001
+tentang Baku Mutu Udara Ambien di Jawa Tengah, baku mutu untuk PM10 adalah
+150 ìg/Nm3 (24 jam), PM2,5 adalah 65 ìg/Nm3 (24 jam), sedangkan TSP adalah
+230 ìg/Nm3 (24 jam).
+
+Prayudi, dkk (2011) menyatakan bahwa yang dimaksud dengan pencemaran
+udara adalah apabila udara mengalami perubahan komposisi terutama terjadi
+penambahan gas lain yang menimbulkan gangguan. Hal tersebut dikaitkan dengan
+baku mutu udara bahwa apabila kualitas udara mendekati atau memenuhi
+persyaratan seperti tersebut dalam baku mutu, maka tidak akan terjadi kerusakan
+atau kerugian yang diakibatkan oleh udara.
+
+Jenis parameter pencemar udara didasarkan pada baku mutu udara ambien
+menurut Surat Keputusan Gubernur Jawa Tengah Nomor 8 Tahun 2001 tentang
+Baku Mutu Udara Ambien di Jawa Tengah meliputi sulfur dioksida (SO2), karbon
+monoksida (CO), nitrogen dioksida (NO2), oksidan (O3), hidrokarbon (HC), PM10,
+PM2,5, TSP (debu), Pb (timah hitam), dan dustfall (debu jatuh). Analisis dan
+evaluasi kadar kontaminan udara semakin penting mengingat pengaruh polutan
+terhadap kesehatan. Cemaran kimia pada udara seperti gas SO2, H2S, NH3, NOx,
+dan debu dapat mengganggu kesehatan para pekerja pabrik, peneliti di
+laboratorium, dan masyarakat sekitar.
+
+Menurut Bakar (2006), Model Dispersi Gauss merupakan salah satu model
+perhitungan yang banyak digunakan untuk mensimulasikan pengaruh emisi
+terhadap kualitas udara. Model Dispersi Gauss merupakan bentuk persamaan
+matematika yang dapat dimasukkan ke dalam perhitungan variabel yang bersifat
+fisik dan diberikan informasi yang lebih detail mengenai sumber cemaran pada
+suatu daerah yang diteliti. Menurut Pasquill (1961) dan Gifford (1976), model ini
+banyak digunakan untuk menilai dampak adanya sumber pencemaran udara
+terhadap kualitas udara lokal dan perkotaan.
+
+Menurut KLH (2010), informasi yang dipakai untuk mengindikasikan kondisi
+kualitas udara ambien salah satunya adalah Indeks Standar Pencemar Udara
+(ISPU). ISPU adalah angka yang tidak mempunyai satuan yang menggambarkan
+kondisi kualitas udara ambien di lokasi dan waktu tertentu yang didasarkan
+kepada dampak terhadap kesehatan manusia, nilai estetika dan makhluk hidup
+lainnya. Kadar polutan yang didapatkan dari hasil pengukuran kemudian diubah
+ke dalam angka ISPU. Dari hasil perhitungan tersebut dapat disimpulkan kategori
+dari kualitas udara pada suatu kawasan. Sesuai dengan Keputusan Kepala Bapedal Nomor 107 Tahun 1997 tentang Perhitungan dan Pelaporan serta Informasi Indeks
+Standar Pencemar Udara ada 5 kategori yaitu baik pada rentang 0 – 50 dengan
+warna hijau, sedang pada rentang 51 – 100 dengan warna biru, tidak sehat pada
+rentang 101 – 199 dengan warna kuning, sangat tidak sehat pada rentang 199 –
+299 dengan warna merah, dan berbahaya pada rentang 300 – 500 dengan warna
+hitam.
+
+Berdasarkan latar belakang tersebut maka dilakukan penelitian dengan judul
+Analisis Pemetaan Kualitas Udara Ambien menggunakan Perangkat Lunak
+ArcGIS 10 dan Model Dispersi Gauss dengan Studi Kasus di Kawasan Bukit
+Semarang Baru Kecamatan Mijen.
+
+1.2 Perumusan Masalah
+Kawasan Bukit Semarang Baru pada tahap operasionalnya menghasilkan
+emisi dan debu yang menyebar ke lingkungan ambien. Sebaran emisi dan debu
+tersebut dapat menimbulkan keluhan dari masyarakat. Oleh karena itu, perlu
+dilakukan pengukuran untuk mengetahui sebaran emisi dan debu sehingga dapat
+dilakukan upaya pengendalian agar tidak menimbulkan gangguan bagi masyarakat
+di sekitar kawasan. Perumusan masalah pada penelitian ini adalah sebagai berikut:
+a) Bagaimana kondisi kualitas udara di Kawasan Bukit Semarang Baru?
+b) Bagaimana pola sebaran polutan udara di Kawasan Bukit Semarang Baru?
+c) Bagaimana model yang menggambarkan pola sebaran polutan udara di
+Kawasan Bukit Semarang Baru?
+
+1.3 Tujuan Penelitian
+Adapun tujuan dari penelitian ini adalah untuk:
+1. Menganalisis kondisi kualitas udara di Kawasan Bukit Semarang Baru.
+2. Menganalisis pola sebaran polutan udara di Kawasan Bukit Semarang
+Baru.
+3. Menggambarkan pola sebaran polutan udara di Kawasan Bukit Semarang
+Baru dengan menggunakan Model Dispersi Gauss
+
+1.4 Manfaat Penelitian
+Adapun manfaat penelitian ini akan diuraikan menjadi manfaat akademik dan
+manfaat praksis.
+
+1.4.1 Manfaat Akademik
+Penelitian ini menganalisis teori-teori tentang pola dan model sebaran
+polutan udara yang berkaitan dengan kualitas udara pada kawasan penelitian
+terhadap permasalahan yang sebenarnya terjadi di lapangan, sehingga dapat dicari
+penyelesaiannya dan juga diharapkan menjadi salah satu metode analisis dalam
+melakukan evaluasi terhadap pelaksanaan kegiatan serta menjadi sebuah referensi
+akademik.
+
+1.4.2 Manfaat Praksis
+Hasil penelitian ini diharapkan dapat digunakan sebagai masukan bagi
+pemrakarsa dan pemerintah dalam upaya pengendalian pencemaran udara
+Kawasan Bukit Semarang Baru.

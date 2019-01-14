@@ -1,0 +1,481 @@
+﻿Analisis Numerik Link Panjang dengan Penambahan Pelat Sayap Tepi terhadap Peningkatan Kinerja Struktur Rangka Baja Berpengaku Eksentrik  
+
+Abstrak
+
+Mengantisipasi kerusakan bangunan akibat gaya gempa, banyak model konstruksi bangunan yang terus dikembangkan dan diteliti hingga sekarang, salah satunya struktur bangunan rangka baja berpengaku eksentrik yang menggunakan elemen link sebagai bagian elemen struktur yang berfungsi untuk menyerap energi gempa.
+
+Kegagalan pada link panjang yang lebih dominan disebabkan oleh momen menyebabkan terjadinya kegagalan yang lebih awal akibat fraktur dan tekuk pada zona di ujung – ujung link terutama pada sayap.
+
+Untuk mengatasi kegagalan awal yang lebih cepat, maka dilakukan inovasi dengan menambah pengaku sayap pada tepi link.
+
+Penambahan pelat pengaku sayap tepi pada link panjang mempunyai beberapa keuntungan diantaranya; kemudahan dalam pengerjaan dan pengelasan yang minimal sehingga mengurangi pengaruh tegangan sisa akibat proses pengelasan.
+
+Penelitian ini mengkaji secara numerik dengan menggunakan perangkat lunak MSC Nastran/ Patran terhadap kinerja link panjang untuk beberapa variasi model link yang dianalisis.
+
+Parameter yang dianalisis meliputi variasi yaitu: panjang link, penambahan pelat sayap tepi beserta konfigurasi pemodelannya, tebal pelat dan kombinasi dengan pengaku badan vertikal.
+
+Hasil analisis pada model modifikasi penambahan pelat pengaku tepi dapat meningkatkan kinerja link panjang dibandingkan dengan model link standar pada variabel : daktilitas, kekuatan, disipasi energi dan kekakuan.
+
+   1.Pendahuluan 
+
+Struktur rangka baja berpengaku eksentrik EBF diperkenalkan sejak tahun 1970-an dan terus dilakukan kajian pengembangannya hingga sekarang ini.
+
+Penelitian awal yang dilakukan mengenai perilakunya dalam berbagai beban siklik dan monotonik telah dilakukan oleh Popov (1988), Hjelmstad (1984) dan Engelhardt (1992), mereka adalah pelopor awal tentang penelitian struktur rangka baja berpengaku eksentrik (SRBE/EBF).
+
+Rangka baja berpengaku eksentrik (EBF) mempunyai kekakuan elastik yang sangat baik (excellent elastic stiffness) dibawah pembebanan lateral sedang dan mempunyai daktilitas yang bagus (good ductility) saat dibebani beban gempa yang besar (Ghobarah dan Ramadhan,1990-1991).
+
+Bagian yang diisolasi antara segmen pengaku (bracing) atau antara pengaku dengan kolom dinamakan dengan link.
+
+Sistem rangka berpengaku eksentrik (SRBE/EBF) merupakan pengembangan lebih lanjut dari sistem rangka penahan gaya lateral.
+
+Sistem ini dikembangkan untuk menyempurnakan sistem-sistem struktur sebelumnya MRF dan CBF, dimana sistem struktur MRF memiliki daktilitas dan kapasitas energi dissipasi yang besar dan stabil namun memiliki kekakuan yang rendah, disisi lain CBF memiliki kekakuan yang besar namun mempunyai daktilitas dan kapasitas dissipasi energi yang rendah.
+
+Perbandingan perilaku ketiga sistem struktur seperti ditampilkan dalam ilustrasi pada Gambar 1.
+
+2.Perilaku Elemen Link 
+
+2.1 Panjang link pada kelelehan kritis 
+
+Elemen link direncanakan untuk mendisipasi energi akibat gaya gempa.
+
+Elemen link didesain sebagai balok pendek dengan gaya geser yang bekerja berlawanan arah pada kedua ujungnya.
+
+Kelelehan pada link dapat disebabkan oleh gaya geser atau lentur.
+
+Gaya geser yang bekerja pada kedua ujung link berlawanan arah, sedangkan momen yang bekerja pada kedua ujung link mempunyai arah dan besaran nilai yang sama.
+
+Kurva defleksi yang dihasilkan berbentuk huruf S dengan titik netral kurva terdapat pada tengah bentang.
+
+Besaran nilai momen yang bekerja pada kedua ujung link adalah 0,5 kali besar gaya geser dikali dengan panjang link.
+
+Gambar 2 memperlihatkan gaya yang bekerja pada link.
+
+Gambar 2 di samping menunjukkan free body diagram dari sebuah link.
+
+Mengabaikan pengaruh gaya aksial dan interaksi antara momen dan gaya geser dalam link, bentuk tumpuan sendi lentur (flexural hinges form) pada kedua ujung dari link ketika kedua momen pada ujung – ujung link telah mencapai kapasitas sebagai momen plastis, Mp.
+
+Sebuah tumpuan pada saat kapasitas geser telah mencapai kapasitas geser plastis yaitu, Vp, maka kapistas momen dan gaya geser plastis pada link dapat dihitung dengan persamaan sebagai berikut
+
+__ = ___ (1)
+__ = __	_ (2)
+
+Dengan Alw = Luas area badan link = (d-2tf)tw, ,y=Tegangan geser link = 0,6Fy.
+
+Gambar 1.Perbandingan perilaku tiga sistem struktur baja penahan gempa (Moestopo, 2006)
+
+Gambar 2.Gaya – gaya yang bekerja pada link (Popov dan Engelhart, 1988)
+
+Perspektif kriteria disain link dianggap sebagai balok yang terkekang pada kedua ujungnya, panjang link dalam kondisi seimbang (balance link length) dinyatakan dengan persamaan sebagai berikut : 
+
+_0 = 2__⁄__
+
+Pada link pendek, e < e0 akan terbentuk sebuah sendi geser pada kedua ujungnya.
+
+Begitu juga untuk link panjang jika e > e0 maka akan terbentuk sebuah sendi lentur pada kedua ujungnya juga.
+
+Hubungan gaya geser terhadap momen plastis adalah sebagai berikut : 
+
+_0 = 2__⁄__ (3) _ = 2__⁄_   
+
+
+2.2 Kapasitas deformasi link 
+Panjang dari elemen link yang dinotasikan dengan simbol huruf e, selalu dinormalisasi sebagai rasio perbandingan antara kapasitas momen plastis (Mp) dengan kapasitas gaya geser plastis (Vp).
+
+Normalisasi dari panjang link ini dinotasikan dengan simbol N, yang didefinisikan sebagai panjang link tanpa dimensi (non demensional link length) atau rasio panjang link.
+
+Mengingat kinerja yang tinggi pada elemen link untuk semua kinerja pada struktur EBF, maka banyak sekali dilakukan kajian penelitian secara analitis dan eksperimental terhadap perilaku struktur rangka EBF atau elemen link terhadap perilakunya akibat pengaruh beban gempa.
+
+Terdapat tiga tipe dari link menurut (AISC 2010), yaitu : link pendek (shear link), link menengah (shear-flexural) dan link panjang (flexural).
+
+Link pendek dalam penerapannya sangat dianjurkan karena mempunyai keunggulan dalam hal daktilitas (ductility), kekakuan (stiffness) dan kekuatan (strength).
+
+Berdasarkan mekanisme memberikan sebuah gambaran bahwa pada link terdapat sudut rotasi inelastic (mp) pada kedua ujung-ujungnya.
+
+Sudut rotasi link adalah sudut rotasi plastis yang terbentuk antara link dengan bagian dari balok diluar link.
+
+Link membutuhkan deformasi yang mencukupi untuk mengakomodasikan kebutuhan tersebut.
+
+Hasil pengujian menunjukkan bahwa kapasitas sudut rotasi link tergantung dari panjang link itu sendiri, semakin pendek sebuah link maka semakin besar kapasitas rotasinya (Kasai dan Popov, 1986b).
+
+Klasifikasi link berdasarkan panjang nilai e diperlihatkan pada Gambar 3. dan sudut rotasi link seperti diperlihatkan pada Gambar 4.
+
+Pada link panjang, momen ujung telah mencapai momen plastis (Mp) sebelum gaya geser mengalami kelelehan.
+
+Keruntuhan yang terjadi pada link panjang disebabkan oleh deformasi lentur yang merupakan akibat terjadinya tekuk pada sayap (flens), tekuk pada badan (web) dan tekuk akibat torsi lateral.
+
+Akibat regangan yang sangat besar pada kedua ujung link maka besar kemungkinan terjadinya fraktur pada sambungan las ujung pada saat terjadi mode keruntuhan batas (the ultimate failure mode).
+
+Gambar 3. Klasifikasi link berdasarkan ukuran panjang link (Bruneau, dkk, 2011)
+
+Dengan L = bay width, h = story height, =p = plastic story drift, =p = plastic story drift angle, rad (=(p/h), /p = plastic link rotation angle, rad
+
+ Gambar 4.Sudut rotasi link (AISC, 2010)   
+
+
+Hasil penelitian menyimpulkan bahwa kegagalan dominan hasil test spesimen adalah akibat keretakan (fracture) yang terjadi pada sayap link pada daerah sambungan link dengan kolom.
+
+Kegagalan pada hubungan yang terjadi pada tingkatan dari sudut rotasi inelastik yang tidak cukup memadai untuk diterapkan pada aplikasi kegempaan.
+
+Oleh karena itu mereka merekomendasikan bahwa link panjang yang melebihi e > 1.6Mp/Vp yang dihubungkan dengan kolom tidak digunakan dalam struktur EBF.
+
+Dikarenakan penempatan link yang dihubungkan dengan kolom tidak cocok digunakan, berdasarkan bukti yang ada bahwa link panjang dapat memberikan kapasitas inelastis jika ditempatkan berada antara kedua pengaku.
+
+Keuntungan dari segi arsitektural dan kemampuan dari struktur rangka EBF dengan link panjang yang dapat mengakomodasikan bukaan ruang yang besar pada bentang yang diberikan pengaku, membuat tipe ini menjadi sangat popular bagi desainer bangunan.
+
+Melalui hasil penelitian yang telah dilakukan menunjukan bahwa kinerja dari link ini tidak sebaik dibandingkan dengan link pendek.
+
+Engelhardt dan Popov (1992) yang melakukan investigasi pertama kali terhadap kinerja link panjang.
+
+Penelitian mengenai link panjang yang dilakukan oleh Arce (2002), Okazaki (2004), Gobharah A, dkk (1991), Ozhendekci D, dkk (2008), Daneshmand, dkk (2012), Mohebkhah, dkk (2014) menunjukkan bahwa daktilitas (ductility), kekuatan (strength), kekakuan (stiffness) serta kapasitas absorpsi energi dari link panjang lebih kecil dari link pendek.
+
+Hasil penelitian juga juga menyiratkan bahwa link yang sangat panjang dapat berperilaku dalam cara yang berbeda dibandingkan dengan link yang sedikit melewati batas panjang dari link panjang.
+
+Daneshmand A, dkk (2012) melakukan kajian numerik terhadap dua atau lebih kelompok dengan beberapa karakteristik lainnya pada link panjang.
+
+Hasil penelitian yang dilakukan dinyatakan bahwa spesifikasi pengaku dan rasio kelangsingan pada link balok adalah sebagai parameter geometris yang paling signifikan berpengaruh terhadap kinerja pada link menengah.
+
+Hasil penelitian yang didapat serta hasil-hasil penelitian sebelumnya menunjukkan bahwa beberapa link menengah gagal dalam mencapai kapasitas rotasi sesuai dengan peraturan.
+
+Model link panjang menunjukkan bahwa perilaku link tidak sensitif terhadap penempatan pengaku pada satu sisi atau kedua sisi pada badan link, hal ini berlawanan dengan link menengah.
+
+
+2.3 Stabilitas penampang 
+
+Dalam memikul beban siklik akibat gempa, sebuah penampang harus mampu berdeformasi plastik secara stabil untuk menghasilkan jumlah penyerapan energi yang besar.
+
+Hal ini harus dijamin oleh kekompakan pelat-pelat penampang terhadap bahaya tekuk akibat bekerjanya gaya tekan yang berulang-ulang.
+
+SNI 03- 1729-02 mensyaratkan nilai kelangsingan (slenderness ratio) dari pelat sayap dan pelat badan penampang baja yang memikul beban gempa, disamping syarat nilai kelangsingan untuk penampang non-seismik.
+
+Hasil penelitian selanjutnya menunjukkan perlunya memperketat kelangsingan pelat badan pada penampang baja yang memikul beban gempa.
+
+Hal ini telah tertuang pada peraturan AISC 341-10.
+
+Hasil kajian numerik yang dilakukan oleh Richards dan Uang (2005) untuk link pendek, menengah dan panjang, dan membandingkan dengan hasil kajian eksperimental yang dilakukan oleh Arce (2002), memberikan suatu hasil verifikasi yang berbeda.
+
+Pengujian yang dilakukan oleh Arce (2002) untuk link panjang dengan rasio tebal dan lebar sayap yang tidak sesuai dengan persyaratan.
+
+Hasil penelitian menunjukkan bahwa terjadinya degradasi kekuatan akibat tekuk lokal yang terjadi pada sayap, tetapi sudut rotasi yang diperoleh lebih besar dari batas minimum persyaratan.
+
+3.Pengaku Link 3.
+
+1 Pengaku badan vertikal dan diagonal 
+
+Penelitian yang dilakukan Hjelmstad dan Popov, 1984, mengamati tentang perilaku inelatis, tekuk dan pasca tekuk pada spesimen pengujian elemen link.
+
+Penelitian dilakukan untuk mengontrol efek yang merusak akibat tekuk inelastik pada link.
+
+Penelitian dengan menambahkan pengaku vertikal pada web link ternyata dapat mengontrol atau menghilangkan pengaruh tekuk inelastis pada link.
+
+Kontrol efektif dari pengaruh tekuk dapat meningkatkan kemampuan link aktif dalam dissipasi energi.
+
+Berdasarkan ukuran panjang link menurut ketentuan spesifikasi AISC 2010 untuk pengaku penuh pada kedua kedua sisi badan link pada brasing diagonal pada ujung-ujung link, lebar pengaku tidak boleh kurang dari (bf – 2tw) dan dengan ketebalan tidak boleh kurang dari 0,75tw atau 10 mm, dimana bf adalah lebar sayap dan tw adalah tebal pelat badan link.
+
+Yurisman, dkk (2010) melaporkan dalam hasil penelitiannya bahwa terdapat pengaruh yang signifikan terhadap kinerja link geser diakibatkan ketebalan dan konfigurasi dari pengaku diagonal.
+
+Makin tinggi nilai ketebalan pengaku diagonal maka kemampuan link dalam menahan gaya geser semakin meningkat, begitu juga dalam hal dissipasi energi.
+
+Disamping itu juga dilaporkan bahwa dengan menghilangkan pengaku vertikal tidak mempunyai pengaruh terhadap kinerja link.
+
+Pola kegagalan akibat fraktur dari specimen benda uji yang menggunakan pengaku badan diagonal terdapat pada join ujung link pada bagian yang tidak terdapat pengaku diagonal.
+
+Sudut rotasi link pada hasil penelitian tidak memenuhi persyaratan sebesar 0,08.
+
+Nidiasari (2010) dalam hasil kajian numeriknya terhadap link panjang melaporkan bahwa terjadinya peningkatan kekuatan, kekakuan dan dissipasi energi terhadap link dengan penambahan pengaku diagonal.
+
+Juga dilaporkan bahwa konfigurasi pengaku vertikal pada badan link panjang tidak menyebabkan peningkatan kekuatan, kekakuan dan energi dissipasi pada elemen link.
+
+Pengaku vertikal pada link hanya berfungsi untuk mencegah terjadinya tekuk pada badan.
+
+Kegagalan link disebabkan karena leleh pada sayap link pada daerah tumpuan.
+
+Danesh dan Shakerpoor (2012) melakukan studi secara numerik untuk perlakuan modifikasi link panjang dengan menambahkan pengaku diagonal pada kedua ujung link.
+
+Selain menambahkan pengaku diagonal untuk perkuatan pada badan link, juga dilakukan perkuatan (reinforcement) pada sayap bagian atas dan bawah pada bagian ujung-ujung link.
+
+Berdasarkan perbandingan hasil analisis dari beberapa model, dilaporkan bahwa tidak terbentuk sendi plastis pada kedua ujung-ujung link.
+
+Tegangan dan regangan pada kedua ujung tersebut berada di bawah batas limit.
+
+Dengan tidak terbentuknya sendi plastis pada kedua ujung link, maka keruntuhan secara getas (britle) dapat dicegah.
+
+Nilai kekuatan, daktilitas dan dissipasi energi serta sudut rotasi inelastis secara signifikan dapat ditingkatkan dibandingkan dengan spesimen link standar.
+
+3.2 Pengaku sayap tepi 
+
+Kelemahan pada link panjang disebabkan oleh terbentuknya sendi plastis pada sayap pada zona pengelasan di ujung link dan selanjutnya disertai oleh kegagalan yang disebabkan oleh, fraktur pada sayap, tekuk sayap, tekuk torsi lateral (lateral tosrional buckling) (Enggelhardt, dkk, 1992., Arce, 2002., Okazaki, 2004, 2005, 2006, 2009., Richards, dkk, 2005, Yurisman, dkk., 2010., Nidiasari, dkk, 2010., Daneshmand, dkk, 2012., Danesh, dkk, 2012., Mohebkhah, dkk, 2014).
+
+Kegagalan ini dapat diperlambat dengan melakukan penambahan pengaku lateral pada link.
+
+Penambahan pengaku lateral yang telah dilakukan adalah penambahan pengaku diagonal (Yurisman, dkk, 2010; Nidiasari, 2010; Danesh, dkk, 2012) untuk perkuatan pada badan link dan juga penambahan pelat tambahan pada sayap untuk memperkuat sayap link (Danesh, dkk, 2012).
+
+Berdasarkan hasil penelitian Yurisman, dkk, (2010) dan Danesh, dkk, (2012), tentang perkuatan pada link untuk meningkatkan kinerja.
+
+Dapat disimpulkan adanya usaha untuk memperlambat terjadinya kegagalan pada bagian ujung-ujung link.
+
+Perkuatan pada ujung-ujung link terutama pada konsep link panjang, dikarenakan kegagalan awal diawali pada terbentuknya sendi plastis pada bagian sayap link.
+
+Kegagalan pada link panjang yang didominasi oleh kegagalan pada sayap atas dan bawah, dikarenakan momen maksimum yang terbentuk di ujung pada struktur link.
+
+Sedangkan berdasarkan konsep properties penampang wide flange (WF), diagram tegangan memberikan gambaran bahwa tegangan leleh dan plastis pertama sekali akan terbentuk pada tepi terluar profil, yaitu pada bagian serat-serat terluar bagian atas dan bawah dari penampang WF.
+
+Untuk menghindari kegagalan akibat terbentuknya sendi plastis, penulis melakukan penambahan pelat pengaku pada bagian terluar dari sayap link.
+
+Penambahan pengaku ini memberikan keuntungan ganda pada kinerja link, yaitu peningkatan kemampuan link dalam mengatasi terjadinya fraktur atau tekuk pada sayap akibat gaya lentur dan juga meningkatkan kemampuan pelat badan link dalam menerima gaya geser.
+
+Penambahan pelat tepi ini akan meningkatkan nilai kekakuan link, dikarenakan terjadinya penambahan penampang dari profil WF.
+
+Keuntungan lainnya yang diperoleh pada penambahan pengaku tepi jika dibandingkan dengan penambahan pengaku diagonal adalah jumlah luasan pengelasan yang lebih sedikit, sehingga dampak residual stress akibat pengelasan menjadi kecil.
+
+4.Pola Pembebanan dan Kondisi Batas 
+
+4.1 Pola pembebanan 
+
+Pola pembebanan yang digunakan untuk analisis nonlinier secara numerik dan eksperimental menggunakan pola pembebanan AISC 2010 sama dengan peraturan AISC 2005 yang mengadopsi pola pembebanan yang diusulkan oleh Richards dan Uang (2004, 2006) telah dibuktikan kinerjanya berdasarkan hasil penelitian ekperimental dengan melakukan pembandingan terhadap berbagai jenis pola pembebanan oleh Okazaki (2004).
+
+Pola pembebanan berdasarkan AISC 2002 menyebabkan kegagalan fraktur lebih awal pada bagian badan link pendek.
+
+Pola pembebanan yang diusulkan oleh Richards dan Uang (2004, 2006) secara signifikan mengurangi rotasi kumulatif dan sedikit siklus inelastis besar untuk mencapai rotasi link maksimum.
+
+Hasil penelitian yang dilakukan dengan pola pembebanan yang diusulkan tersebut mengidentifikasikan bahwa kapasitas perencanaan rotasi link diperoleh lebih besar dari yang dianggap saat ini (Okazaki, dkk, 2005).
+
+Perbandingan pola pembebanan AISC 2010 dan 2005 diperlihatkan pada Tabel 1.
+
+4.2 Kondisi batas 
+
+Pengujian terhadap kinerja link panjang secara numerik dilakukan terhadap benda uji berupa link panjang yang kedua ujungnya dimodelkan dapat memikul momen.
+
+Salah satu ujungnya berupa jepit sedangkan ujung lainnya dapat berpindah mengikuti arah gaya terpusat yang bekerja bolak-balik pada arah tegak lurus sumbu link dengan 6 derajat kebebasan yaitu : 3 dalam rotasi (Rx, Ry, Rz) dan 3 dalam translasi (Tx, Ty, Tz) seperti diperlihatkan pada Gambar 5.
+
+Perpindahan ini akan menimbulkan momen ujung yang searah dan gaya geser yang berlawanan arah pada kedua ujung link.
+
+Tabel 1. Pola pembebanan pada link dan portal EBF
+
+
+
+Load
+Step
+(a) Proposed/AISC 2010 (b) AISC 2002
+Peak link rotation
+angle (rad)
+Number of
+cycles
+Peak link rotation
+angle (rad)
+Number of
+cycles
+1 0.00375 6 0.0025 3
+2 0.005 6 0.005 3
+3 0.0075 6 0.01 3
+4 0.01 6 0.02 2
+5 0.015 4 0.03 2
+6 0.02 2 0.04 2
+7 0.03 2 0.05 2
+8 0.04 1 0.06 2
+9 0.05 1 0.07 2
+10 0.07 1 0.08 2
+11 0.09* 1 0.09 2
+
+* Peningkatan pembebanan selanjutnya dengan penambahan 0,02 rad untuk 1 siklus pada setiap langkah. Richards dan Uang (2006), AISC
+(2010).
+
+  5.Kajian Numerik 
+
+Kajian numerik dilakukan dengan metode elemen hingga non linear dengan menggunakan perangkat lunak MSC PATRAN/NASTRAN 2012, elemen link dimodelkan sebagai elemen shell CQUAD.
+
+Kriteria leleh menggunakan Von Misses Criterion dengan hardening rule yaitu kombinasi antara isotropic dan kinematic (combine).
+
+Non linearitas geometri mempertimbangkan deformasi dan regangan besar yang terjadi pada analisis model.
+
+Kurva tegangan – regangan baja sebagai input pada perangkat lunak menggunakan data hasil pengujian Yurisman, dkk (2010) yang telah dimodifikasi dengan model Ramberg-Osgood seperti diperlihatkan pada Gambar 6.
+
+Modulus elastisitas (E) yang digunakan sebesar 133082 Mpa dan angka poisson ratio (() sebesar 0,3.
+
+Perilaku model link diprediksikan secara global dan degradasi kekuatan didapati pada saat terjadi tekuk (buckling) pada sayap, badan dan pengaku pada link dengan kontrol pada nilai regangan kritis.
+
+5.1 Benda uji 
+
+Benda uji yang dianalisis dalam kajian ini divariasikan dalam beberapa model konfigurasi.
+
+Model konfigurasi benda uji dibedakan berdasarkan dari perbedaan pengaku badan dan pengaku sayap yang ditambahkan pada link panjang.
+
+Adapun variasi benda uji meliputi panjang link standar yang dibedakan berdasarkan rasio panjang link; variasi penambahan pengaku sayap pada ujung – ujung link masing – masing satu pasang ; variasi penambahan pengaku sayap pada ujung – ujung link masing – masing dua pasang dan variasi penambahan kombinasi pengaku sayap dan pengaku badan.
+
+Penambahan pengaku sayap tepi divariasikan lagi dengan membedakan ketebalan pelat pengaku dan posisi lubang yang diberikan untuk masing – masing model.
+
+Profil baja yang digunakan untuk model link adalah WF 200.100.5,5.8 dengan rasio panjang link seperti diperlihatkan pada Tabel 2.
+
+Jarak pengaku vertikal yang diberikan pada semua link yang dianalisis sesuai dengan persyaratan AISC 2010 yaitu dengan panjang 1,5 bf dan ketebalan pengaku badan vertikal sebesar 10 mm.
+
+ Gambar 6.Kurva tegangan – regangan  
+
+5.2 Perilaku link standar 
+
+Kinerja link panjang standar dengan variasi rasio panjang link diperlihatkan pada Tabel 3.
+
+Untuk link panjang standar dengan rasio yang berbeda seperti pada Gambar 7 menunjukkan kinerja yang berbeda, dimana semakin besar rasio panjang link maka semakin menurun kinerja link yang ditunjukkan semakin menurunnya kekuatan pada kondisi elastis dan plastis.
+
+Kegagalan yang terjadi pada link panjang disebabkan gaya momen yang dominan pada ujung – ujung link.
+
+Hasil analisis menunjukkan bahwa pola kegagalan pada link panjang lebih disebabkan oleh fraktur dan tekuk pada sayap di ujung – ujung link akibat konsentrasi tegangan yang sangat besar pada ujung – ujung link, hal ini sesuai dengan kajian literatur yang telah diuraikan.
+
+Nilai overstrength yang dicapai berkisar pada 1,5 dan sudut rotasi plastis yang dicapai sebesar 0,03.
+
+
+Tabel 2. Rasio panjang link
+
+Profil
+Baja
+H
+(mm)
+b
+(mm)
+tw
+(mm)
+tf
+(mm)
+Zp
+(mm3)
+Mp =
+Zp.fy
+Vp =
+0,6.Aw.fy
+e = ρ.Mp/Vp
+(mm) ρ
+200.100.5,5.8 200 100 5.5 8 200152 66050160 200376 900 2.73
+1000 3.03
+1100 3.34
+1200 3.64
+1300 3.94
+1400 4.25
+Tabel 2. Rasio panjang link
+e
+H
+150 150
+
+
+
+Gambar 7. Link panjang standar
+
+
+No. Model e NNNNVy Vp Mp Vn Over- VP
+(mm) (kN) (kN) (kN-mm) (kN) strength (rad)
+1 ST01 900 2.73 166.0 221.1 66050.16 146.78 1.506 0.03
+2 ST02 1000 3.03 147.8 200.9 66050.16 132.10 1.521 0.03
+3 ST03 1100 3.34 130.1 184.4 66050.16 120.09 1.536 0.03
+4 ST04 1200 3.64 117.1 169.1 66050.16 110.08 1.536 0.03
+5 ST05 1300 3.94 104.4 157.6 66050.16 101.62 1.551 0.03
+6 ST06 1400 4.25 92.4 144.3 66050.16 94.36 1.529 0.03
+7 ST07 1500 4.55 83.9 133.9 66050.16 88.07 1.521 0.03
+
+
+Tabel 3. Kinerja link panjang standar berdasarkan rasio panjang link
+
+
+ 5.3 Link dengan penambahan pengaku sayap tepi satu pasang 
+
+Link dengan penambahan pengaku sayap tepi dengan pemberian lubang yang dibedakan seperti pada Gambar 8.
+
+Variabel th, r dan Bh merupakan nilai yang dapat divariasikan, yang mana penulis mengusulkan batasan nilai tersebut yaitu : 0,1H VVth hh0,2H ; 0,2bf ffBh hh0,4bf dan r = ½Bh.
+
+Model MPPV dan MPDV menggunakan nilai th = 0,15 H = 30 mm; nilai Bh = 0,3bf = 30 mm dan nilai r = 15 mm.
+
+Perbandingan kinerja link dengan penambahan pengaku sayap tepi satu pasang menunjukkan kinerja yang lebih baik dibandingkan dengan link standar.
+
+Sebagai pembanding yang digunakan adalah model dengan panjang link yang sama yaitu model link standar ST02.
+
+Penambahan pengaku tambahan dapat meningkatkan nilai kekuatan pada saat leleh dan saat plastis, begitu juga dengan nilai rotasi inelastis seperti diperlihatkan pada Tabel 4.
+
+Pada empat model link yang dianalisis dengan bukaan lubang yang berbeda dan ketebalan pengaku sayap tepi.
+
+Hasil analisis menunjukkan bahwa terdapat kecenderungan kinerja yang sama untuk model MPPV02 dan MPDV09, dimana kekuatan pada saat leleh dan plastis serta sudut rotasi yang mendekati sama.
+
+Sedangkan terdapat perbedaan untuk model MPPV03 dan MPDV10 dimana mencapai sudut rotasi plastis sebesar 0,4.
+
+Perbedaan ini dikarenakan penambahan pengaku dengan ketebalan yang lebih kecil menyebabkan terjadinya zona plastisifikasi yang lebih memanjang, dimana zona ujung–ujung link ikut memberikan kontribusi terhadap terjadinya plastisifikasi.
+
+Sedangkan pada model dengan ketebalan yang lebih besar dari 6 mm, bagian ujung–ujung link tidak memberikan sumbangan terhadap terjadinya plastisifikasi, sehingga bagian yang mengalami plastisifikasi hanya terdapat pada zona diluar pengaku tambahan seperti diperlihatkan pada Gambar 9 diagram distribusi regangan plastis.
+
+Tabel 4. Perbandingan kinerja link model MPPV dengan MPDV
+
+No. Model
+P1 e Vy Vp Mp Vn Over- OP
+(mm) (mm) (kN) (kN) (kN-mm) (kN) strength (rad)
+1. MPPV02 8 1000 167.3 262.0 66050.16 132.10 1.984 0.03
+2. MPPV03 6 1000 163.9 255.7 66050.16 132.10 1.936 0.04
+3. MPDV09 8 1000 168.5 259.9 66050.16 132.10 1.967 0.03
+4. MPDV10 6 1000 164.4 265.4 66050.16 132.10 2.009 0.04
+
+a. Model MPPV03 b. Model MPPV02
+
+Gambar 9. Diagram distribusi regangan plastis
+
+5.4 Link dengan penambangan pengaku sayap tepi dua pasang 
+
+Kinerja link dengan penambahan pelat pengaku sayap tepi sebanyak empat pasang menunjukkan peningkatan kinerja yang lebih baik dibandingkan dengan model dengan dua pasang.
+
+Hal ini dikarenakan zona kegagalan didepan sayap pengaku tambahan dapat diperpanjang lagi menuju ke tengah bentang badan link sehingga kegagalan dapat diperlambat.
+
+Meskipun sudut rotasi plastis yang dicapai sama dengan model link pengaku sayap tepi dua pasang yaitu 0,4, akan tetapi model ini mempunyai kekuatan maksimal yang jauh lebih besar.
+
+Dikarenakan konsep kegagalan pada link panjang dominan disebabkan oleh momen, dengan momen terbesar terdapat pada ujung – ujung link dan menurun secara linear menuju ke tengah bentang link.
+
+Oleh sebab itu ketebalan pengaku sayap tepi tambahan dapat dibedakan antara bagian luar (P1) dan bagian dalam (P2) seperti ditunjukkan pada Gambar 10.
+
+Pengaturan ketebalan pelat tambahan luar (P1) dan pelat tambahan dalam (P2) yang berbeda yaitu mengikuti konsep distribusi momen pada link, sehingga diharapkan zona plastisifikasi pada link dapat lebih panjang.
+
+Hasil analisis antara model MPDV03 dan Model MPDP03 memberikan nilai yang mendekati sama, baik pada nilai kekuatan pada saat leleh, plastis dan sudut rotasi plastis.
+
+Akan tetapi model MPDV03 mempunyai loop akhir kurva histeretik penuh pada sudut rotasi 0,04, hal ini berbeda dengan model MPDP03 dimana loop akhir kurva histeretik tidak penuh.
+
+Oleh karenanya dalam konsep disipasi energi, model MPDV03 lebih baik dibandingkan dengan model MPDP03.
+
+Perbedaan ini disebabkan oleh bidang kontak yang lebih kecil pada model lubang ujung (MPDV03) dibandingkan dengan model tanpa lubang ujung (MPDP03).
+
+Akibat kecilnya area kontak pada pelat pengaku tambahan menyebabkan pelat lebih maksimal dalam menerima gaya sehingga lebih memungkinkan terjadinya plastisifikasi.
+
+Tabel 5. Perbandingan kinerja link model MPDV03 dengan MPDP03
+
+
+No. Model
+P1 P2 e Vy Vp Mp Vn Over- PP
+(mm) (mm) (mm) (kN) (kN) (kN-mm) (kN) strength (rad)
+1. MPDV03 10 6 1000 190.71 297.59 66050.16 132.10 2.253 0.04
+2. MPDP03 10 6 1000 190.49 307.51 66050.16 132.10 2.328 0.04
+
+Gambar 10. Link panjang dengan penambahan dua pasang pengaku sayap tepi
+
+5.5 Link dengan penambahan pengaku sayap tepi dua pasang dan variasi pengaku badan vertikal 
+
+Penambahan pengaku badan vertikal pada zona pertengahan bentang dengan variasi benda uji model MPPP05 dan MPPP11 seperti diperlihatkan pada Gambar 11 tidak memberikan efek terhadap peningkatan kinerja link, hal ini bisa dilihat pada Tabel 6.
+
+Data menunjukkan bahwa nilai kekuatan pada saat elastis dan plastis tidak menunjukkan perbedaan yang signifikan jika dibandingkan dengan model tanpa penambahan pengaku vertikal seperti pada model MPDV03.
+
+Akibat diberikannya perkuatan dengan penambahan pengaku badan vertikal pada pertengahan bentang, maka plastisifikasi yang diharapkan terjadi pada zona pertengahan bentang mengalami penurunan sehingga kegagalan akhir/kritis bergeser pada ujung - ujung link, sehingga mengakibatkan loop akhir pada kurva histeretik tidak penuh.
+
+Pola kegagalan tersebut sama untuk model MPPP05 dan MPPP11, dimana kegagalan kritis terjadi pada ujung-ujung link dan berbeda dengan model MPDV03 dengan kegagalan kritis pada zona pertengahan bentang link.
+
+Perbandingan pola kegagalan kritis antara model MPDV03 dengan MPPP05 diperihatkan pada Gambar 12 diagram distribusi regangan kritis.
+
+6. Perbandingan Kinerja Link 
+
+Kinerja link yang standar dan link dengan penambahan pengaku sayap tepi untuk tiga model yaitu ST02, MPDV03 dan MPPV03 dilihat berdasarkan diagram kurva histeretik Gambar 13 dan disipasi energi Gambar 14.
+
+Kurva histeretik untuk ketiga model menunjukkan bentuk yang bagus (gemuk) tanpa terjadinya pinching, juga terlihat efek baushinger untuk ketiga model.
+
+Model MPDV03 menunjukkan kinerja yang paling baik, berdasarkan nilai kekuatan, sudut rotasi dan energi disipasi yang lebih tinggi dibandingkan dengan model lainnya.
+
+  7.Kesimpulan 
+
+1. Pengaruh penambahan pelat pengaku sayap tepi pada link panjang yang dipasang satu pasang atau dua pasang pada ujung – ujung link pada kedua sisinya dapat meningkatkan kinerja link menjadi lebih baik dari segi kekuatan, daktilitas, kekakuan dan disipasi energi.
+
+2. Model dengan lubang bukaan luar dan tanpa bukaan luar pada pelat pengaku sayap tepi menunjukkan nilai kinerja yang hampir sama dalam kekuatan akan tetapi menunjukkan nilai yang berbeda pada disipasi energi, dimana kinerja link dengan pengaku sayap tepi tambahan dengan bukaan luar lebih bagus dalam disipasi energi dibandingkan dengan pengaku sayap tepi tanpa bukaan lubang diluar.
+
+3. Kinerja link dengan penambahan pengaku sayap tepi dua pasang pada ujung-ujung link menunjukkan kinerja yang lebih baik dibandingkan dengan penambahan pengaku sayap tepi satu pasang.
+
+4. Kombinasi penambahan pelat pengaku sayap tepi dan penambahan pengaku badan vertikal pada zona pertengahan bentang link menyebabkan terjadinya penurunan kinerja link dalam disipasi energi.
+
+5. Untuk mengontrol terjadinya kegagalan pada link panjang, posisi penempatan pengaku sayap tepi tambahan serta ketebalan pelat pengaku yang digunakan merupakan variabel yang berpengaruh terhadap peningkatan kinerja link.
+
+
+

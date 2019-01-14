@@ -1,0 +1,62 @@
+﻿Penelitian ini bertujuan untuk merancang dan membangun prototype alat terapi
+autis dengan variasi terapi yang dapat dipilih agar pada saat melakukan terapi
+lebih bervariasi. Jenis terapi dan variasi ditentukan berdasarkan opsional keypad
+yang dipilih.
+Prototype alat terapi autis memiliki spesifikasi 5 buah pilihan terapi yaitu 2 terapi
+berasal dari hasil pengambilan data di ancol (low cut off dengan durasi terapi 70
+menit dan low cut on dengan durasi terapi 47 menit), dan 2 terapi berasal dari
+terapi gelombangotak.com (SMR Stimulation dan SMR Stimulation Classic). DAT
+Prototype memiliki 3 buah variasi terapi yaitu variasi Brust, Click dan Whistle
+yang digunakan untuk variasi terapi pada saat terapi berlangsung.
+Hasil rata-rata perbedaan antara masukan dan keluaran dari sistem berkisar antara
+1,90E-05 dB hingga 0,0012 dB pada intensitas kiri, 2,06E-05 hingga 0,0012 dB
+pada intensitas kanan, 0,8272 dB hingga 9,1446 dB pada gain kiri dan 1,5573 dB
+hingga 9,1092 dB pada gain kanan.
+Kata kunci : terapi, opsional, variasi, spektrum sinyal, frekuensi, gain.
+
+BAB I
+PENDAHULUAN
+1.1 Latar Belakang Masalah
+Perkembangan teknologi di dunia elektronika pada bidang kesehatan telah
+berkembang dengan cepat. Pada dunia kesehatan, peralatan yang canggih sangat
+dibutuhkan untuk mengobati berbagai macam penyakit. Efisiensi dari suatu alat
+medis sangat dibutuhkan untuk menyembuhkan penyakit ringan hingga penyakit
+yang kronis. Autis merupakan salah satu dari lima tipe gangguan perkembangan
+pervasive atau PDD (Pervasive Developmental Disorders), yang ditandai dengan
+tampilnya abnormalitas pada domain interaksi sosial dan komunikasi. Terapi
+lumba-lumba merupakan salah satu terapi yang digunakan untuk mengurangi
+gangguan perkembangan pada penderita autis. Pada tahun 1970 DR. Besty Smith
+memulai terapi lumba-lumba setelah melihat efek terapi lumba-lumba terhadap
+saudaranya yang mengalami gangguan saraf. Kemudian terapi lumba-lumba
+dikembangkan oleh Dr Nathanson di The Dolphin Human Therapy center di
+Florida, Amerika.
+Pada Tugas Akhir ini, akan dirancang alat yang dapat mengeluarkan gelombang
+suara terapi lumba-lumba pada saat melakukan terapi pada penderita autis.
+Gelombang suara tersebut dihasilkan dengan menggunakan perangkat Arduino
+Uno sebagi pengontrol keluaran suara. Dengan demikian, terapi yang dilakukan
+akan lebih mudah dilakukan diruangan tanpa harus masuk ke dalam kolam lumbalumba
+atau di dalam air.
+1.2 RUMUSAN MASALAH
+Pada penelitian ini akan dibahas masalah mengenai bagaimana merancang dan
+membangun Prototype alat terapi autis berbasis Arduino dengan keypad sebagai
+pilihan untuk menentukan jenis dan variasi terapi yang digunakan. Masalah yang
+diperhatikan pada penelitian ini yaitu :
+1. File terapi yang digunakan sebagai masukan DAT Prototype.
+2. Arduino Shield yang digunakan untuk interface antara Arduino dengan
+sdcard.
+1.3 TUJUAN
+Tujuan dari penelitian ini adalah
+1. Merancang dan membangun Prototype alat terapi autis dengan suara lumbalumba,
+sebagai referensi untuk alat terapi autis.
+2. Menganalisa kesesuaian hasil data suara yang dihasilkan oleh Prototype.
+1.4 BATASAN MASALAH
+Pada tugas akhir ini, memiliki batasan-batasan masalah sebagai berikut :
+
+1. Gelombang suara yang di gunakan yaitu gelombang suara lumba-lumba.
+2. Gelombang suara yang digunakan merupakan jenis file berformat .mp3.
+1.5 MANFAAT
+Manfaat yang dapat diambil melalui tugas akhir ini yaitu :
+1. Terapi autis yang sebelumnya dilakukan di dalam air akan lebih mudah
+diterapkan karena media tempat untuk terapi tidak didalam air.
+2. Dapat digunakan untuk terapi dengan beberapa pilihan variasi terapi agar
+terapi lebih bervariasi setiap kali melakukan terapi.

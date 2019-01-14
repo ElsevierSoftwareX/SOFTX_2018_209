@@ -1,0 +1,128 @@
+﻿ABSTRAK
+Telah dilakukan deteksi getaran menggunakan Fiber Bragg Grating (FBG)
+berbasis modulasi intensitas. Prinsip kerja sensor adalah getaran dari sumber getar
+menyebabkan FBG bergetar sehingga periode kisi FBG akan berubah-ubah.
+Perubahan periode kisi mengakibatkan posisi spektrum panjang gelombang
+cahaya pantulan dari FBG bergeser secara periodik. Di sisi lain, ketika FBG tidak
+bergetar spektrum pantulan FBG tetap. Lebar spektrum sumber cahaya yang
+digunakan lebih sempit dan di dalam lebar spektrum pantulan FBG. ketika lebar
+spektrum pantulan FBG bergeser secara periodik, maka intensitas sumber
+sebagian akan keluar masuk secara periodik dari lebar spektrum pantulan FBG.
+Dengan demikian intensitas cahaya yang diterima oleh detektor akan berubahubah
+sesuai dengan frekuensi getaran sumber. Dari hasil karakterisasi didapatkan
+lebar spektrum pantulan FBG dengan panjang gelombang 1604,738 nm adalah 2,8
+nm dan lebar spektrum laser dioda adalah 0,13 nm. Desain sensor dibuat dengan
+menempelkan FBG pada kantilver yang terbuat dari lempengan perunggu
+(bronze). Kantilever tersebut kemudian digetarkan oleh sumber getar berupa
+speaker jenis bass. Hasil penelitian menunjukkan bahwa jangkauan frekuensi
+yang dapat dideteksi oleh sensor adalah 10-1750 Hz dengan resolusi 10 Hz, offset
+sebesar 0,138 Hz dan stabilitas yang sangat baik. Selain itu dari hasil eksperimen
+didapatkan nilai frekuensi resonansi kantilever adalah 190 Hz, Hal tersebut
+mendekati nilai frekuensi resonansi kantilever secara perhitungan yakni sebesar
+160,53 Hz dengan nilai error 15,5 %.
+Kata kunci : FBG (Fiber Bragg Grating), Sensor vibrasi, Modulasi intensitas
+
+BAB I
+PENDAHULUAN
+1.1 Latar Belakang
+Serat optik merupakan media transmisi cahaya atau gelombang
+elektromagnetik. Saat ini serat optik tidak hanya berfungsi sebagai media
+transmisi dalam sistem komunikasi saja, tetapi berkembang sebagai perangkat
+optik dengan fungsi yang lebih beragam. Perangkat optik tersebut dapat berupa
+fiber coupler, fiber interferometer, dan Fiber Bragg Grating (FBG). Fiber
+coupler merupakan perangkat optik yang dapat membagi daya optik, diantaranya
+Y-coupler, Star coupler, dan Directional coupler. Fiber interferometer merupakan
+perangkat optik yang memanfaatkan fenomena interferensi cahaya, serta FBG
+yang dapat berfungsi sebagai reflector panjang gelombang. Pemanfaatan
+perangkat optik tersebut banyak digunakan sebagai multiplexing dan
+demultiplexing pada perangkat WDM (Wave Division Multiplexing), optical
+switching, dan sensor.
+Pemanfaatan serat optik sebagai sensor telah banyak dilakukan dan
+dikembangkan. Aplikasi sensor serat optik bekerja berdasarkan prinsip modulasi
+intensitas, modulasi panjang gelombang, dan modulasi fase sumber cahaya yang
+digunakan dalam sensor tersebut. Prinsip-prinsip tersebut bertumpu pada kinerja
+serat optik sebagai sensor pergeseran. Di sisi lain juga terdapat sensor serat optik
+dengan memanfaatkan rugi-rugi daya karena adanya gangguan seperti lekukan
+atau bengkokan. Selain itu terdapat sensor serat optik yang bekerja berdasarkan
+property dari serat itu sendiri seperti FBG, yakni dengan memanfaatkan
+perubahan respon cahaya yang direfleksikan dan atau ditransmisikan FBG akibat
+adanya perubahan objek yang diukur oleh sensor.
+FBG adalah jenis serat optik yang memiliki variasi indeks bias yang
+terdistribusi dalam bentuk kisi atau grating (johanes.2000). Saat diberi cahaya
+polikromatis maka FBG akan merefleksikan panjang gelombang cahaya tertentu
+yang disebut gelombang bragg, dan mentransmisikan panjang gelombang lainnya.
+Cahaya yang direfleksikan ini bergantung pada jarak antar kisi. Beberapa
+kelebihan dari FBG antara lain mudah dalam fabrikasi, mempunyai kestabilan
+yang baik, berukuran kecil, tidak terpengaruh gelombang elektromagnetik dan
+mudah terhubung ke jaringan (Ismail, 2011). FBG banyak diaplikasikan untuk
+sensor pengukuran, seperti sensor strain dan sensor temperatur. FBG beroperasi
+berdasarkan property FBG untuk merubah karakteristik panjang gelombang akibat
+adanya strain atau perubahan temperatur pada glass fiber. Saat ini aplikasi FBG
+tidak hanya sebagai sensor strain dan temperatur saja, tetapi berkembang menjadi
+berbagai macam sensor seperti sensor level, sensor kecepatan, dan sensor vibrasi.
+Sensor vibrasi merupakan salah satu sensor yang dapat memberikan
+informasi berupa parameter getaran yang dapat direspon oleh sensor. Informasi
+tersebut nantinya digunakan untuk kepentingan percobaan, mengantisipasi
+kemungkinan adanya bahaya seperti gempa bumi atau menghindari terjadinya
+kerusakan material dan mesin yang sangat fatal. Berbagai jenis sensor vibrasi
+telah banyak dikembangkan mulai dari metode mekanik, elektrik sampai metode
+akustik seperti sensor geophone, piezoelectric, dan akselerometer. Metode optik
+merupakan salah satu metode yang digunakan untuk mengatasi permasalahan
+pada sensor vibrasi dalam kondisi yang terbatas atau kurang sensitifnya sensor
+vibrasi dengan metode non optik. Metode optik yang biasanya digunakan untuk
+sensor vibrasi berupa sensor serat optik antara lain : directional coupler, fiber
+interferometer dan FBG.
+Pada umumnya, sensor FBG bekerja dengan cara mendeteksi perubahan
+panjang gelombang cahaya yang dipantulkan. Hal itu terjadi karena periode kisi
+FBG berubah akibat rangsangan dari luar, sehingga mengakibatkan pergeseran
+panjang gelombang Bragg. Metode ini membutuhkan bebapa perangkat yang
+cukup mahal seperti sumber cahaya Broadband, OSA (Optical Spectrum
+analyzer) dan rangkaian Interrogator system. Pada penelitian ini, FBG
+diaplikasikan sebagai sensor vibrasi berbasis modulasi intensitas laser dioda.
+Prinsip tersebut didasarkan pada sumber cahaya yang digunakan mempunyai lebar
+spektrum yang lebih sempit dari spektrum pantulan FBG dan berada di dalam
+rentang spektrum pantulan FBG. Dengan demikian spektrum cahaya laser dioda
+yang dikopling dalam FBG di pengaruhi oleh respon cahaya refleksi FBG.
+Perubahan periode kisi akibat getaran akan mengakibatkan perubahan respon
+cahaya refleksi FBG. Saat lebar dan kedudukan spektrum sumber cahaya tetap
+maka intensitas sumber yang direfleksikan FBG akan berubah. Dengan
+memanfaatkan prinsip modulasi intensitas tersebut, mekanisme kerja sensor lebih
+sederhana pembacaanya dan relatif lebih murah.
+
+
+
+1.2 Rumusan Masalah
+Berdasarkan uraian latar belakang diatas, dapat disimpulkan beberapa
+rumusan masalah sebagai berikut :
+1. Apakah FBG dengan berbasis modulasi intensitas dapat digunakan
+sebagai sensor vibrasi?.
+2. Berapakah jangkuan frekuensi, daerah linier, dan resolusi sensor vibrasi
+dengan menggunakan FBG berbasis modulasi intensitas?.
+1.3 Batasan Masalah
+Batasan masalah dalam penelitian ini adalah :
+1. FBG yang digunakan dalam penelitian ini adalah FBG singlemode jenis
+uniform dengan panjang gelombang bragg adalah 1604,738 nm dan
+reflektansi >50%.
+2. Kantilever yang digunakan berupa lempengan perunggu (bronze).
+3. Sumber laser yang digunakan memiliki spektrum sempit yang berada
+dalam rentang panjang gelombang spektrum refleksi FBG.
+4. Rentang frekuensi yang dapat di ukur adalah 10 Hz - 1750 Hz.
+5. Pengukuran dibatasi pada temperatur ruangan dengan suhu 20° C
+
+
+1.4 Tujuan Penelitian
+Beberapa tujuan dari penelitian ini adalah :
+1. Merancang sensor vibrasi dengan memanfaatkan FBG berbasis modulasi
+intensitas.
+2. Mengetahui jangkuan frekuensi, daerah linier, dan resolusi sensor vibrasi
+dengan menggunakan FBG berbasis modulasi intensitas.
+1.5 Manfaat Penelitian
+Manfaat penelitian ini adalah mengaplikasikan FBG sebagai sensor vibrasi
+dengan teknik yang relatif sederhana dan dengan biaya yang relatif ekonomis
+yaitu dengan modulasi intensitas. Hasil perancangan sensor vibrasi menggunakan
+FBG ini nantinya dapat diterapkan dalam bidang-bidang tertentu seperti
+konstruksi jembatan, pendeteksian gempa, monitoring getaran mesin berskala
+besar dan lain sebagainya. Dengan mengetahui karakteristrik FBG yang
+diaplikasikan sebagai sensor vibrasi diharapkan dapat digunakan sesuai dengan
+aplikasinya dalam berbagai bidang kerja dan dapat bermanfaat dalam
+perkembangan teknologi dan ilmu pengetahuan.

@@ -1,0 +1,149 @@
+﻿ABSTRAK
+Penelitian berupa perencanaan ini bertujuan menghitung masa layanan, jumlah
+sampah yang dapat dilayani, merancang landfill site menggunakan prinsip
+sanitary landfill, menghitung stabilitas lereng, dan menghitung Bill of Quantity
+(BoQ) dari TPA Srabah, Kabupaten Trenggalek. Perhitungan proyeksi timbulan
+sampah menggunakan metode eksponensial. Perancangan landfill site berupa
+penentuan zona, blok operasi, dimensi sel, lapisan dasar, lapisan penutup, tanggul,
+instalasi perpipaan lindi, dan ventilasi emisi gas. Hasilnya, landfill site memiliki
+masa layanan 6 tahun, panjang 120 m, lebar 112 m, dengan 3 zona operasi dan
+setiap zonanya memiliki 2 blok operasi. Dimensi selnya memiliki panjang 6,15 m,
+lebar 5 m, dan tinggi 1,6 m. Lapisan dasar meliputi lapisan kerikil, geotekstil,
+geomembran, dan tanah setempat yang dipadatkan. Lapisan penutup meliputi
+tanah, kerikil, pasir, dan tanah humus. Instalasi perpipaan lindi berpola tulang
+ikan. Ventilasi emisi gas meliputi ventilasi horisontal dan vertikal. Nilai stabilitas
+lereng pengurugan sampah sebesar 3,322. BoQnya meliputi kebutuhan tanah
+galian, tanah urugan, lapisan geotekstil dan geomembran, tanah pemadatan, beton,
+serta paving block sebesar 22738,41 m3; 38363,52 m3; 29226,05 m2; 18262,5 m3;
+1217,5 m3; dan 974 m2. Kebutuhan lainnya, yaitu pipa, aksesoris pipa, serta
+casing drum sebanyak 77 buah, 180 buah, dan 159 buah.
+Kata kunci: Bill of Quantity, nilai stabilisasi lereng, landfill site, masa layanan,
+Tempat Pemrosesan Akhir Srabah.
+
+BAB I
+PENDAHULUAN
+1.1 Latar Belakang
+Kasus-kasus yang menyangkut masalah kebersihan setiap tahunnya selalu
+meningkat di Indonesia. Sampah adalah salah satu faktor penyebab masalah
+kebersihan. Meningkatnya pertumbuhan penduduk dan aktivitasnya, memberi
+kontribusi signifikan pada peningkatan volume sampah yang berkembang secara
+eksponensial (Bakar, 2014). Layanan Pengadaan Secara Elektronik (LPSE)
+Kementerian Pekerjaan Umum melansir pada tahun 2016, Pemerintah Kabupaten
+Trenggalek mulai mengupayakan perluasan pada lahan operasi Tempat
+Pemrosesan Akhir (TPA) Srabah yang merupakan fasilitas pemrosesan akhir di
+Kabupaten Trenggalek. Oleh karena itu, dibutuhkan perencanaan yang tepat pada
+perluasan TPA yang direncanakan oleh pemerintah Kabupaten Trenggalek
+sehingga dapat terus melakukan upaya pemrosesan akhir sampah.
+TPA Srabah sebagai fasilitas yang melayani pemrosesan akhir sampah
+Kabupaten Trenggalek masih menerapkan metode controlled landfill dalam
+pengoperasiannya. Hal ini belum sesuai dengan salah satu target pemerintah
+Kabupaten Trenggalek melalui program Percepatan Pembangunan Sanitasi
+Pemukiman (PPSP) pada tahun 2014, yaitu pemanfaatan TPA dengan sistem
+sanitary landfill (Kelompok Kerja Percepatan Pembangunan Sanitasi Pemukiman,
+2012). Undang-Undang No. 18 Tahun 2008 juga mengamanatkan bahwa paling
+lambat pada tahun 2013 setiap pemerintah daerah/kota sudah memiliki TPA
+yang memenuhi kaidah teknis maupun lingkungan (Kementerian Koordinator
+Bidang Perekonomian Republik Indonesia, 2013).
+Sistem penutup lapisan akhir yang diterapkan di TPA Srabah yang terlihat
+pada zona pasifnya belum memenuhi kaidah teknik. Kemiringan lereng yang
+dibangun dari pengurugan sampah tahap akhir masih lebih dari 30%. Lapisan
+penutup akhir TPA harus direncanakan dengan kemiringan 1:3 (Kementerian
+Pekerjaan Umum, 2013a). Hal ini mengakibatkan terjadi friksi yang menyebabkan
+longsor dan dapat memperpendek umur TPA. Seperti bencana pada TPA
+Leuwigajah di Bandung pada Februari 2005. Bencana tersebut menyebabkan
+longsornya 2,7 juta m3 sampah dan menimpa puluhan rumah masyarakat,
+sehingga 147 orang meninggal akibat insiden ini dan sejumlah korban mengalami
+cedera (The International Solid Waste Association, 2013). Kestabilan lereng hasil
+penumpukan sampah yang tidak tepat merupakan salah satu penyebab terjadinya
+bencana ini. Oleh karena itu, dibutuhkan kontrol kestabilan lereng dalam setiap
+perancangan landfill site suatu TPA (Nazhary & Warih, 2011).
+Landfill dengan metode controlled landfill juga tidak menutup
+kemungkinan mencemari air tanah. Sistem pembuangan akhir sampah dengan
+cara menghampar sampah pada kavling yang telah disediakan setebal 60-100 cm
+yang dipadatkan dan kemudian ditutup dengan tanah setebal ± 40 cm. Pencemaran
+sumber air terjadi karena adanya perkolasi lindi yang berasal dari sampah yang
+dibuang ke landfill (Bagchi, 2004). Pencemaran sumber air oleh sampah terjadi
+karena sampah yang dibuang dan tertimbun di landfill mengalami dekomposisi
+yang bersama air hujan menghasilkan cairan lindi (Sarudji, 2010). Kasus
+pencemaran lindi seperti ini terjadi di TPA Benowo, kadar Timbal (Pb) pada
+garam dari tambak garam di sekitar TPA menunjukkan nilai rata-rata yang telah
+melebihi persyaratan nilai maksimal pencemaran logam Pb dalam garam bahan
+baku untuk industri garam yodium, yaitu 10 mg/kg sesuai dengan SNI 01-4435-
+2000 (Kristiyaningsih & Sudarmaji, 2008).
+Masalah lainnya, yaitu tidak dapat dikendalikannya perpindahan emisi gas
+dari sampah dalam landfill, bau yang ditimbulkan, dan gangguan visual
+(Environmental Protection Agency, 2000). Emisi gas yang paling sering ditemui
+ialah emisi gas metana. Kasus pencemaran gas metana yang terjadi di TPA Sumur
+Batu Kota Bekasi, konsentrasi rata-rata gas metana di salah satu titik sampling
+menunjukkan nilai sebesar 328.004,3 μg/m3. Baku mutu untuk konsentrasi gas
+metan di udara ambien dari negara bagian Delware, Amerika Serikat menjelaskan
+bahwa pencemaran gas metan yang diperbolehkan sebesar 160 μg/m3 (Lestari
+dkk., 2013).
+Menindak lanjuti masalah-masalah yang disebabkan oleh TPA, perlu
+adanya perhatian dalam pengembangan dan penelitian lebih mendalam.
+Pengembangan dan penelitian tentang pemilihan lokasi TPA yang memenuhi
+persyaratan, perencanaan TPA yang memadai, konstruksi TPA yang sesuai
+dengan perencanaan, dan pengoperasian sesuai dengan standar. Metode yang
+berkembang pada beberapa dekade terakhir mengenai perancangan landfill site
+dan pengelolaan TPA, yaitu sanitary landfill (Kementerian Koordinator Bidang
+Perekonomian Republik Indonesia, 2013).
+
+
+
+Rancangan landfill site dengan prinsip sanitary landfill merupakan hasil
+pertimbangan dari semua aspek lingkungan yang mungkin berdampak terhadap
+kehadiran landfill site di sekitarnya. Aspek-aspeknya, yaitu perlindungan terhadap
+air dan tanah, pengelolaan lindi, pengendalian gas, kestabilan landfill site,
+estimasi investasi pada pembangunan fasilitas TPA, serta aspek penampilan visual
+dan pemandangan dari landfill site (Environmental Protection Agency, 2000).
+Sanitary landfill telah banyak diterapkan di negara-negara Asia Tenggara,
+seperti Malaysia, Vietman, Thailand, dan Singapura (United Nation Environment
+Programme, 2002). Jepang merupakan salah satu negara di luar Asia Tenggara
+yang telah mengaplikasikan sanitary landfill dengan baik. Pemilihan ini
+dikarenakan kelebihan sanitary landfill dalam upaya menekan potensi
+pencemaran air konsumsi publik dan air tanah, serta kemungkinan dampak pada
+lingkungan karena gas, bau, dan hama (Ministry of Environment, 2014).
+Oleh karena itu pada perancangan landfill site ini, dipilihlah prinsip
+sanitary landfill dan direncanakan Bill Of Quantity (BoQ) secara terpadu.
+Perancangan landfill site juga dilakukan perhitungan kestabilan lereng serta
+direncanakan dengan tepat, untuk meminimalisasi risiko terjadinya longsor akibat
+penumpukan sampah. Skripsi ini dapat menjadi pilihan dan solusi perancangan
+yang dapat diacu pada upaya pembangunan landfill site baru di TPA Srabah
+sesuai rencana pemerintah Kabupaten Trenggalek, sehingga dapat memenuhi
+kebutuhan pengelolaan sampah di Trenggalek dan dapat memenuhi kriteria TPA
+yang representatif dan memenuhi kaidah teknis maupun lingkungan.
+
+
+
+1.2 Rumusan Masalah
+Rumusan masalah dari skripsi ini, yaitu:
+1. Berapa lama masa layanan landfill site baru TPA Srabah dan jumlah sampah
+yang dapat ditangani?
+2. Bagaimanakah rancangan landfill site TPA Srabah dengan menggunakan
+prinsip sanitary landfill?
+3. Berapa nilai stabilitas lereng timbulan sampah pada perancangan landfill site
+TPA Srabah dengan menggunakan prinsip sanitary landfill?
+4. Bagaimana rincian Bill of Quantity (BoQ) pada perancangan landfill site pada
+TPA Srabah dengan menggunakan prinsip sanitary landfill?
+1.3 Tujuan
+Tujuan dari skripsi ini, yaitu:
+1. Mengetahui lama masa layanan landfill site baru TPA Srabah dan jumlah
+sampah yang dapat ditangani.
+2. Mengetahui rancangan landfill site TPA Srabah dengan menggunakan prinsip
+sanitary landfill .
+3. Mengetahui nilai stabilitas lereng timbulan sampah pada perancangan landfill
+site TPA Srabah dengan menggunakan prinsip sanitary landfill.
+4. Mengetahui rincian Bill of Quantity (BoQ) pada perancangan landfill site pada
+TPA Srabah dengan menggunakan prinsip sanitary landfill.
+
+
+
+1.4 Ruang Lingkup
+Ruang lingkup dari skripsi ini, yaitu:
+1. Perancangan landfill site dengan prinsip sanitary landfill di TPA Srabah.
+2. Proteksi pencemaran air tanah dengan perancangan instalasi pengumpul lindi.
+3. Perancangan ventilasi penyaluran emisi sampah.
+4. Bill of Quantity (BOQ), antara lain:
+a. landfill site,
+b. instalasi pengumpul lindi,
+c. ventilasi penyalur emisi sampah.

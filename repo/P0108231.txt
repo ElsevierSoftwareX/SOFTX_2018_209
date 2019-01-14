@@ -1,0 +1,402 @@
+﻿INDUSTRIALISASIPERIKANAN DALAM
+PENGEMBANGAN WILAYAH DI JAWA TIMUR
+
+
+Abstrak:Ketimpangan pembangunan, kemiskinan dan pengangguran merupakan salahsatu
+masalah Provinsi Jawa Timur. Disisi yang lainProvinsi Jawa Timur mempunyai potensi
+perikanan yang besar.Penelitian ini bertujuanuntuk menganalisis peran subsektor perikanan
+dalam perekonomian daerah di Provinsi Jawa Timur, mengetahui faktor yang mempengaruhi
+pembangunan perikanan dan menyusun strategi pembangunan subsektor perikanan dalam
+pengembanganwilayah di Provinsi Jawa Timur.Pengolahan data menggunakan analisis
+deskriptif, input-output (I-O) dan regresi linier berganda.Subsektor pengolahan ikan
+memberikan pengganda tenaga kerja, output dan nilai tambah terbesar diantara subsektor
+perikanan. Subsektor perikanan darat memberikan keterkaitan total terbesar diantara
+subsektor perikanan, sedangkan subsektor perikanan laut memberikan nilai output terbesar
+diantara subsektor perikanan. Tenaga kerja dan anggaran kelautan dan perikanan
+memberikan pengaruh positif terhadap pembangunan perikanan.Strategi pembangunan
+perikanan harus dilakukan secara simultan antara perikanan laut, darat dan pengolahan.
+Strategi industrialisasi perikanan diharapkan meningkatkan nilai tambah perikanan dan
+mengurangi ketimpangan pembangunan, kemiskinan dan pengangguran.
+Kata kunci:industrialisasi, peran perikanan, pembangunan, Jawa Timur
+
+Pendahuluan
+Pertumbuhan pembangunan di Jawa Timur relatif tinggi jika dibandingkan dengan kabupaten/kota di Indonesia. Namun pertumbuhan pembangunan belum terjadi secara merata sehingga terjadi ketimpangan pembangunan diantara kabupaten/kota di Jawa Timur(Z. Arifin 2009; Miradani 2010; Warda and Cahyono 2013). Selain itu, angka kemiskinan di Jawa Timur sampai dengan bulan September 2013 mencapai 4.865.820 jiwa atau sebesar 17,04% dari jumlah penduduk miskin di Indonesia, sementara itu pada Agustus 2012 jumlah pengangguran terbuka di Jawa Timur sebanyak 819.563 jiwa([BPS] Badan Pusat Statistik Jawa Timur 2013). Salahsatu tujuan pembangunan selain pertumbuhan dan berkelanjutan adalah unsur pemerataan, sehingga usaha pemerataan pembangunan merupakan salahsatu strategi pembangunan yang dilakukan(Todaro and Smith 2006). Dalam mendukung upaya pemerataan pembangunan diperlukan strategi prioritas pembangunan dengan mengutamakan keunggulan komparatif maupun kompetitif suatu sektor perekonomian di suatu daerah(Arifien, Fafurida, and Noekent 2012). Sektor perikanan sebagai salahsatu sektor perekonomian di Jawa Timur mempunyai potensi yang besar. Potensi pemanfaatan sumberdaya perikanan tangkap di Provinsi Jawa Timur terbagi dalam dua wilayah pengelolaan perikanan (WPP) yaitu WPP 573 yang berada di selatan dan WPP 712 yang berada di utara Provinsi Jawa Timur. Berdasarkan data hasil penangkapan tahun 2012 WPP 712 yang berada di utara Provinsi Jawa Timur telah mengalami lebih tangkap (over fishing) sehingga aktivitas penangkapan ikan harus dikurangi untuk menjamin keberlanjutan sumberdaya ikan yang ada. Sementara itu WPP 712 yang berada di Selatan Jawa Timur masih dapat dikembangkan lebih lanjut mengingat tingkat pemanfaatan baru mencapai 77,95% dari potensi pemanfaatan lestari([KKP] Kementerian Kelautan dan Perikanan 2013). Pada bidang perikanan budidaya, tingkat pemanfaatan lahan untuk kegiatan perikanan budidaya di Provinsi Jawa Timur sampai dengan tahun 2012 masih mencapai 22,03% dari luas lahan yang berpotensi untuk kegiatan perikanan budidaya([DPK] Dinas Perikanan dan Kelautan Provinsi Jawa Timur 2013). Pengembangan perikanan budidaya diharapkan dapat dilakukan secara intensif khususnya untuk budidaya laut, kolam dan mina padi, sedangkan untuk tambak hampir mendekati potensi optimal. Sementara itu budidaya pada perairan umum telah melewati batas optimal pemanfaatan lahan sehingga perlu pengurangan/pembatasan kegiatan budidaya agar tidak mengganggu keseimbangan lingkungan. Potensi besar perikanan yang dimiliki Jawa Timur belum diimbangi dengan kontribusi terhadap PDRB Jawa Timur yang masih pada kisaran 1,76% pada tahun 2012([BPS] Badan Pusat Statistik Jawa Timur 2013). Sementara itu pada rentang waktu yang sama kontribusi PDB subsektor perikanan terhadap total PDB nasional cenderung stabil pada angka 2,2%([KKP] Kementerian Kelautan dan Perikanan 2013). Masih rendahnya kontribusi sektor perikanan terhadap pembentukan PDRB Jawa Timur merupakan tantangan tersendiri bagaimana meningkatkan nilai tambah produk perikanan. Dalam skala nasional, Provinsi Jawa Timur sampai dengan tahun 2012 masih menjadi kontributor terbesar Produk Domestik Bruto (PDB) subsektor perikanan nasional dengan kontribusi sebesar 11,98%([KKP] Kementerian Kelautan dan Perikanan 2013). Sebagai kontributor PDB subsektor perikanan terbesar, Provinsi Jawa Timur tentunya mempunyai peranan penting dalam perkembangan perikanan nasional. Kebijakan makro pembangunan perikanan di Indonesia dikenal dengan industrialisasi kelautan dan perikanan yang merupakan integrasi sistem produksi hulu dan hilir untuk meningkatkan skala dan kualitas produksi, produktivitas, daya saing, dan nilai tambah sumber daya kelautan dan perikanan secara berkelanjutan ([KKP] Kementerian Kelautan dan Perikanan 2012).
+
+Pembangunan subsektor perikanan di Provinsi Jawa Timur, kedepannya diharapkan dapat menjadi sektor strategis untuk meningkatkan pengembangan perekonomian daerah melalui peningkatan peranan dan keterkaitan dengan sektor-sektor lain dalam internal wilayah. Keterkaitan subsektor perikanan harus ditingkatkan agar mampu menarik sektor-sektor di hulunya (sektor yang memiliki keterkaitan ke belakang) dan mendorong sektor-sektor di hilirnya (sektor yang memiliki keterkaitan ke depan). Semakin kuat keterkaitan subsektor perikanan dengan sektor-sektor lain, akan makin besar pula pengaruhnya dalam perkembangan wilayah Provinsi Jawa Timur. Provinsi Jawa Timur sebagai salahsatu kekuatan perikanan nasional saat ini dihadapkan dengan tren penurunan peran subsektor perikanan terhadap total PDRB dan pertumbuhan subsektor perikanan yang cenderung lebih kecil dari rata-rata pertumbuhan nasional.Namun demikian subsektor perikanan tentunya masih mempunyai peran yang cukup penting dalam pengembangan wilayah di Jawa Timur karena mampu menyerap tenaga kerja yang banyak dan potensi sumberdaya perikanan masih banyak.Oleh karena itu, perlu dilakukan kajian mengenai pembangunan subsektor perikanan sebagai salah satu upaya untuk mengoptimalkan potensi perikanan dalam pengembangan wilayah di Jawa Timur. Berdasarkan latar belakang dan permasalahan, kemudian dirumuskan beberapa tujuan penelitian sebagai berikut. 1. Menganalisis peran subsektor perikanan dalam perekonomian daerah di Provinsi Jawa Timur 2. Mengetahui faktoryang mempengaruhi pembangunan perikanan di Jawa Timur 3. Menyusun strategi pembangunan subsektor perikanan dalam kerangka pengembangan wilayah di Provinsi Jawa Timur.
+Metode Penelitian
+Sumber dan Jenis Data
+Penelitian ini menggunakan data sekunder sebagai sumber data. Data sekunder yang dikumpulkan meliputi dokumen RTRW Provinsi Jawa Timur, Potensi dan Pemanfaatan Sumberdaya Perikanan di Provinsi Jawa Timur tahun 2004-2012. Demografi penduduk di Provinsi Jawa Timur, Tabel I-O Provinsi Jawa Timur tahun 2010 dan PDRB Provinsi Jawa Timur Tahun 2010-2012.
+Metode Analisis Data
+Pendekatan analisis data dilakukan melalui deskriptif kuantitatif.Pengolahan data dilakukan dengan menggunakan analisis input-output (I-O) dan regresi linier berganda.Analisis Input-Output (I-O) untuk mengetahui peranan subsektor perikanan dan keterkaitannya dengan sektor-sektor lain; analisis regresi linierberganda untuk mengetahui faktor yang mempengaruhi produksi perikanan. Beberapa parameter teknis yang dapat diperoleh melalui analisis I-O adalah(Rustiadi, Saefulhakim, and Panuju 2011): 1. Keterkaitan langsung ke belakang (direct backward linkage) (DBL) yang menunjukkan efek permintaan suatu sektor terhadap perubahan tingkat produksi sektor-sektor yang menyediakan input antara bagi sektor tersebut secara langsung. 2. Keterkaitan langsung ke depan (direct forward linkage) (DFL) yang menunjukkan banyaknya output suatu sektor yang dipakai oleh sektor-sektor lain. 3. Keterkaitan ke belakang tidak langsung (indirect backward linkage) (IBL) yang menunjukkan pengaruh tidak langsung dari kenaikan permintaan akhir satu unit sektor tertentu yang dapat meningkatkan total output seluruh sektor perekonomian.
+
+4. Keterkaitan ke depan tidak langsung (indirect forward linkage) (IFL), yaitu peranan
+suatu sektor dalam memenuhi permintaan akhir dari seluruh sektor perekonomian.
+5. Multiplier adalah koefisien yang menyatakan kelipatan dampak langsung dan tidak
+langsung dari meningkatnya permintaan akhir suatu sektor sebesar satu unit terhadap
+produksi total semua sektor ekonomi suatu wilayah.
+a. Output multiplier (OM), merupakan dampak meningkatnya permintaan akhir suatu
+sektor terhadap total output seluruh sektor di suatu wilayah.
+b. Total value added multiplier (VAM) atau PDRB multiplier adalah dampak
+meningkatnya permintaan akhir suatu sektor terhadap peningkatan PDRB.
+c. Income multiplier (IM), yaitu dampak meningkatnya permintaan akhir suatu sektor
+terhadap peningkatan pendapatan rumah tangga di suatu wilayah secara
+keseluruhan.
+d. Labour multiplier (LM), merupakan dampak meningkatnya tenaga kerja suatu
+sektor terhadap total tenaga kerja seluruh sektor di suatu wilayah.
+Analisis regresi untuk menyusun model pengembangan subsektor perikanan
+menggunakan data panel. Analisis regresi dengan data panel digunakan untuk mengetahui
+pengaruh jumlah tenaga kerja perikanan, belanja pemerintah bidang kelautan dan
+perikanan terhadap produksi perikanan. Unit analisis dalam menyusun model umum
+pengembangan perikanan secara on-farm adalah seluruh kab/kota di Jawa Timur yang
+memiliki kegiatan usaha perikanan yaitu sebanyak 38 kab/kota yang dikelompokkan
+menurut klaster pengembangan wilayah di Jawa Timur. Periode waktu yang digunakan
+sebanyak sembilan tahun yaitu mulai tahun 2004 sampai dengan tahun 2012. Data
+ditabulasi dan diolah secara matematik menggunakan program komputer (software) Eviews
+7. Adapun model umum pengembangan perikanan secara on-farm di Provinsi Jawa
+Timur melalui pendekatan jumlah produksi adalah sebagai berikut :
+lnPPit = lnβ1+β2lnTKit +β3lnKP+μit .................................................................... (1)
+dimana :
+PP = Produksi perikanan (ton); β1 = Intercept; TK =Jumlah tenaga kerja
+perikanan (orang); KP = Anggaran belanja pemerintah daerah dan pusat dalam bidang
+kelautan dan perikanan (juta Rp); μ = error term; β2,β3= koefisien kemiringan parsial; i=
+kab/kota; t = tahun
+Terdapat tiga metode regresi dasar pada analisis data panel, yaitu Common Pooled
+Least Square, Fixed Effect Regression, dan Random Effect . Untuk mengetahui metode yang
+paling sesuai dapat dilakukan dengan uji Chow, uji Hausmann, dan uji Lagrange Multiplier
+(LM).
+Uji Chow digunakan untuk memilih model antara common effect dengan fixed
+effect.Uji statistik F (Chow test) yang dapat dilakukan adalah sebagai berikut (Baltagi 2005):
+r:... …...........................................................(2)
+dimana :
+R2
+UR = mengacu pada unrestricted model ; R2
+R : mengacu pada restricted model ;
+n= jumlah unit cross section; T = jumlah unit waktu; K = jumlah parameter yang
+akan diestimasi
+Jika Ho diterima, maka model pool (common). Jika Ho ditolak, maka model fixed
+effect. Jika ternyata hasil perhitungan F stat ≥ F (n-1,nT-n-K), berarti Ho ditolak, artinya
+intersep untuk semua cross section tidak sama. Dalam hal ini, FEM digunakan untuk
+mengestimasi persamaan regresi.
+Uji Hausman digunakan untuk memilih antara Fixed Effect Model (FEM) atau
+Random Effect Model (REM). Hipotesis dari uji Hausman adalah:
+Ho : estimator random konsisten
+Ha : estimator random tidak konsisten
+
+Dimana Ho diterima artinya REM lebih baik digunakan daripada FEM, dan sebaliknya. Maka Ho diterima/ ditolak jika: X2tab > X2hit : Ho diterima X2tab < X2hit : Ho ditolak Untuk mendapatkan nilai X2hit diambil dari perbedaan nilai beta dan covarian setiap metode. Uji statistik Hausman dilakukan adalah(Greene 2012): 𝐻= 𝛽 𝐹𝐸𝑀−𝛽 𝑅𝐸𝑀 𝑉 𝛽 𝐹𝐸𝑀 −𝑉 𝛽 𝑅𝐸𝑀 −1 𝛽 𝐹𝐸𝑀−𝛽 𝑅𝐸𝑀 ~𝑋2(𝑘)....................(3) Uji statistik Hausman ini mengikuti distribusi chi-square (X2) dengan degrees of freedom sebanyak k di mana k adalah jumlah variabel independen. Jika nilai statistik Hausman lebih besar dari nilai kritisnya maka model yang tepat adalah FEM, sedangkan sebaliknya bila nilai statistik Hausman lebih kecil dari nilai kritisnya maka model yang tepat adalah REM. Uji Lagrange Multiplier (LM) digunakan untuk memilih antara OLS tanpa variabel dummy atau memilih random effect. Uji Lagrange Multiplier (LM) yang dapat dilakukan adalah (Breusch and Pagan 1980): 𝐿𝑀=𝑛𝑇2(𝑇−1) 𝑒𝑖𝑡𝑛𝑖=1 𝑛𝑖=1 𝑒𝑖𝑡2𝑛𝑖=1𝑛𝑖=1−1 2.............................................................................(4) dimana : n = jumlah individu ; T = jumlah periode waktu; e = residual metode OLS Jika perhitungan LM > X2 dengan satu derajat kebebasan, maka Ho ditolak, artinya REM bisa digunakan untuk mengestimasi persamaan regresi. Uji Statistik Uji kriteria statistik dilakukan dengan uji F (uji serempak), uji t (uji parsial) dan uji koefisien determinasi (R2). Uji Asumsi Klasik Uji asumsi klasik dilakukan untuk mengetahui persyaratan sebuah model yang akan digunakan. Setelah memutuskan untuk menggunakan suatu model tertentu, maka dapat dilakukan pengujian terhadap asumsi yang digunakan dalam model; 1. Uji Normalitas Uji normalitas dilakukan untuk mengetahui apakah data variabel berdistribusi normal atau tidak. Uji normalitas dilakukan menggunakan jarque bera test. Jika nilai chi square lebih kecil daripada chi square tabel maka data disebut normal(Koizumi, Okamoto, and Seo 2009). 2. Uji Multikolinearitas Salah satu asumsi dari model regresi berganda adalah bahwa tidak ada hubungan linear sempurna antara peubah bebas dalam model tersebut, jika hubungan tersebut ada maka peubah bebasnya dikatakan multikolinearitas sempurna. Apabila hal tersebut terjadi maka dugaan parameter koefisien regresi masih mungkin dapat diperoleh, tapi interpretasinya jadi sulit. Gejala multikolinearitas terjadi jika nilai VIF lebih besar dari 10. 3. Uji Heteroskedasitas
+Nilai dugaan parameter dalam model regresi diasumsikan bersifat BLUE (Best Linier Unbiased Estimate), maka Var (ui) harus sama dengan σ2 (konstan), atau semua residual atau error mempunyai varian yang sama, yang disebut dengan homoskedastisitas. Sedangkan bila varian tidak konstan atau berubah-ubah disebut dengan heteroskedastisitas. Untuk mendeteksi adanya heteroskedastisitas dapat menggunakan metode GLS cross section weights yaitu dengan membandingkan sum square resid pada weighted statistics dengan sum square resid unweighted statistics. Jika sum square resid pada weighted statistics lebih kecil dari sum square resid unweighted statistics, maka terjadi heteroskedastisitas (Greene 2002). 4. Uji Autokorelasi Autokorelasi adalah korelasi yang terjadi antar observasi dalam satu peubah atau korelasi antara error masa yang lalu dengan error saat ini. Autokorelasi dapat mempengaruhi efisiensi dari penduganya. Untuk mengetahui ada atau tidaknya autokorelasi dilakukan dengan membandingkan nilai DW-hitung dan DW-tabel. Korelasi serial ditemukan jika error dari periode waktu yang berbeda saling berkorelasi.
+Hasil dan Pembahasan
+Gambaran Umum
+Sesuai dengan dokumen RPJP wilayah pembangunan di Jawa Timur dibagi dalam delapan kawasan klaster. Namun dalam penelitian ini hanya menganalisis tujuh klaster pembangunan karena klaster kedelapan pada dasarnya secara administratif sudah tercakup dalam klaster yang lain. Klaster pembangunan dalam rangka menciptakan pusat pertumbuhan baru dan pemerataan wilayah Provinsi Jawa Timur meliputi : a. Klaster 1 (Agropolitan Madura) yang terdiri dari Kabupaten Bangkalan, Sampang, Pamekasan dan Sumenep. b. Klaster 2 (Agropolitan Ijen) yang terdiri dari Kabupaten Jember, Situbondo, Bondowoso, dan Banyuwangi. c. Klaster 3 (Agropolitan Bromo, Tengger, Semeru) yang terdiri dari Kabupaten Malang, Kabupaten Pasuruan, Probolinggo, Lumajang, Kota Malang, Kota Pasuruan, dan Kota Probolinggo. d. Klaster 4 (Agropolitan Wilis) yang terdiri dari Kota Madiun, Kabupaten Madiun, Magetan, Ngawi, Ponorogo, dan Pacitan. e. Klaster 5 (Metropolitan) yang terdiri dari Kota Surabaya, Kota Batu, Kabupaten Sidoarjo, Kota Mojokerto dan Kabupaten Mojokerto. f. Klaster 6 (Segitiga Emas) yang terdiri dari Tuban, Lamongan, Bojonegoro dan Gresik. g. Klaster 7 (RegionalKelud) yang terdiri dari Kabupaten Jombang, Kabupaten Kediri, Nganjuk, Trenggalek, Tulungagung, Blitar, Kota Kediri dan Kota Blitar. Tabel 1 Potensi Perikanan Tangkap dan Budidaya di Jawa Timur tahun 2012
+No.
+Kegiatan Usaha Perikanan
+Jumlah Pelaku Usaha (orang)
+Produksi (ton)
+1
+Tangkap Laut
+226,303
+367,921.10
+2
+Tangkap Perairan Umum Daratan
+25,546
+13,881.50
+3
+Budidaya Tambak
+36,852
+170,433.81
+4
+Budidaya Laut
+79,610
+563,087.40
+5
+Budidaya Kolam
+104,229
+110,269.16
+6
+Budidaya Karamba
+1,337
+428
+7
+Budidaya Jaring apung
+4,007
+11,700.50
+8
+Budidaya Sawah tambak
+42,125
+66,101.70
+9
+Budidaya Minapadi
+6,581
+7,153.30
+Jumlah
+526,590
+1,310,977
+Sumber : Dinas Perikanan dan Kelautan Provinsi Jawa Timur, 2013 .
+Pembangunan ekonomi wilayah yang mengacu pada klaster pembangunan diharapkan dapat mengakselerasi pemerataan pembangunan dengan mengotimalkan keunggulan masing-masing klaster.Pada sektor perikanan, akselerasi pembangunan dilaksanakan melalui strategi industrialisasi perikanan.Industrialisasi perikanan sebagai usaha peningkatan kinerja usaha perikanan dilaksanakan baik pada perikanan on-farm maupun off-farm. Kondisi terkini menunjukkan bahwa usaha perikanan di Jawa Timur mampu menyerap tenaga kerja yang banyak baik melalui kegiatan on-farm maupun off-farm. Kegiatan on-farm meliputi perikanan tangkap dan budidaya. Jumlah tenaga kerja perikanan on-farm di Jawa Timur lebih banyak terdistribusi pada perikanan tangkap laut dan budidaya kolam. Sementara itu produksi perikanan lebih didominasi oleh hasil budidaya laut dan perikanan tangkap laut. Usaha pasca panen atau off-farm perikanan memanfaatkan output perikanan on-farm baik dari perikanan tangkap maupun budidaya. Usaha pengolahan ikan di Jawa Timur pada tahun 2011 mencapai 10.384 unit usaha. Usaha pengolahan ikan terbanyak adalah penggaraman, pengasapan dan pemindangan. Berbagai usaha pengolahan ikan tersebar hampir merata di seluruh wilayah Jawa Timur. Tabel 2 Potensi Pengolahan Ikan di Jawa Timur tahun 2011
+No.
+Jenis Kegiatan Pengolahan
+Jumlah Unit Pengolahan Ikan (unit)
+Jumlah Pengolah (orang)
+Produksi (ton)
+1
+Pengalengan
+45
+17,845
+9,574
+2
+Pembekuan
+190
+60,243
+26,803
+3
+Penggaraman
+2,569
+85,685
+121,760
+4
+Pemindangan
+2,151
+50,415
+315,655
+5
+Pengasapan
+2,365
+17,873
+20,923
+6
+Fermentasi
+897
+11,355
+3,814
+7
+Pereduksian
+248
+11,803
+1,429
+8
+Surimi
+162
+4,799
+47
+9
+Olahan Lainnya
+1,757
+46,688
+108,890
+Jumlah
+10,384
+306,706
+608,895
+Sumber : Dinas Perikanan dan Kelautan Provinsi Jawa Timur, 2012 Usaha pengolahan perikanan di Jawa Timur melibatkan tenaga kerja dalam jumlah yang banyak mencapai 306.706 orang. Jumlah usaha penggaraman terbanyak berada di Kabupaten Bangkalan (295 unit), pengasapan terbanyak di Kabupaten Tulungagung (531 unit), pemindangan terbanyak di Kabupaten Sumenep (385 unit). Produksi ikan olahan di Jawa Timur pada tahun 2011 mencapai 608.895 ton dengan produk terbanyak berupa ikan pindang yang mencapai 315.655 ton (52% dari total produksi ikan olahan).
+Peran Subsektor Perikanan
+Peran subsektor perikanan dalam perekonomian di Jawa Timur dapat diketahui dari analisis tabel input-output. Tabel input-output Jawa Timur 2010 yang terdiri dari 110 sektor dilakukan agregasi menjadi 27 sektor mengacu pada struktur PDRB di Jawa Timur dengan memunculkan subsektor perikanan laut, subsektor perikanan darat dan subsektor pengolahan ikan. Hasil agregasi 27 sektor selanjutnya dilakukan proses pemutakhiran (updating) ke tahun 2012 untuk mendapatkan hasil yang lebih terkini. Proses pemutakhiran menggunakan metode RAS dengan melalui 10 tahap iterasi. Sektor perekonomian mempunyai keterkaitan dengan sektor lain baik ke belakang maupun kedepan baik secara langsung maupun tidak langsung. Keterkaitan sektor perekonomian dapat dilihat pada Gambar 1 dan Gambar 2.
+Pada sektor perikanan, subsektor pengolahan ikan mempunyai keterkaitan kebelakang lebih besar daripada subsektor perikanan laut dan darat. Keterkaitan ke belakang total subsektor pengolahan ikan sebesar 4,02247, yang terdiri dari keterkaitan ke belakang langsung sebesar 2,05119 dan keterkaitan ke belakang tidak langsung sebesar 1,97128. Hal ini berarti bahwa setiap kenaikan satu satuan unit output subsektor pengolahan ikan, akan membutuhkan peningkatan penggunaan input dari sektor lain maupun dari subsektor pengolahan ikan sendiri secara langsung sebesar 2,05119 rupiah dan 1,97128 rupiah secara tidak langsung, atau sebesar 4,02247 rupiah secara total.
+
+Gambar 1. Keterkaitan ke Belakang Sektor Perekonomian di Jawa Timur tahun 2012 Dengan kata lain, kenaikan satu unit output subsektor pengolahan ikan, akan mengakibatkan tambahan penggunaan input pada subsektor pengolahan ikan. Tambahan input tersebut menyebabkan harus adanya tambahan output dari sektor yang akan digunakan sebagai input oleh subsektor pengolahan ikan. Peningkatan penggunaan input tersebut merupakan peningkatan output sektor lain, sehingga pada akhirnya akan mengakibatkan tambahan output pada perekonomian secara total sebesar 4,02247 rupiah. Beberapa sektor perekonomian yang terkait dengan pengolahan ikan diantaranya adalah industri bahan tambahan, pabrik es, industri bahan pengemas, serta industri mesin pengolahan dan pengemasan (Poernomo and Heruwati 2011).
+
+
+Perikanan laut mempunyai keterkaitan kedepan paling besar jika dibandingkan dengan perikanan darat dan pengolahan ikan. Keterkaitan ke depan total subsektor perikanan laut sebesar 2,91273 terdiri dari keterkaitan ke depan langsung sebesar 0,45619 dan keterkaitan ke depan tidak langsung sebesar 2,45654. Hal ini menunjukan bahwa setiap kenaikan satu satuan unit output sektor perikanan laut, maka tambahan output tersebut akan didistribusikan sebagai input ke subsektor lainnya dan subsektor perikanan laut itu sendiri sehingga akan menaikkan output sektor-sektor tersebut secara langsung sebesar 0,45619 rupiah dan secara tidak langsung sebesar 2,45654 rupiah. Dengan kata lain setiap kenaikan satu unit output subsektor perikanan laut, maka tambahan output tersebut akan didistribusikan kepada sektor yang menggunakan input dari subsektor perikanan laut, sehingga mendorong peningkatan proses produksi subsektor tersebut karena adanya input yang lebih banyak. Peningkatan output dari sektor yang menggunakan input dari subsektor perikanan laut tersebut akan lebih lanjut didistribusikan ke subsektor-subsektor lain sehingga akan mengakibatkan tambahan output pada perekonomian secara total sebesar 2,91273 rupiah. Dalam perekonomian di Jawa Timur, sektor yang memiliki keterkaitan total terbesar adalah subsektor lembaga keuangan tanpa bank sebesar 8,84228 kemudian subsektor air bersih sebesar 8,78032 dan subsektor bank sebesar 8,54376, sehingga subsektor-subsektor tersebut merupakan sektor unggulan dalam perekonomian karena besarnya dampak (multiplier efect) yang ditimbulkan dari perkembangan subsektor tersebut. Dalam sektor perikanan, angka keterkaitan total subsektor perikanan laut, baik kedepan maupun kebelakang, relatif kecil yaitu sebesar 5,27934 (peringkat 24). Angka tersebut menunjukan bahwa untuk setiap kenaikan satu satuan unit output subsektor perikanan laut akan berdampak terhadap peningkatan output perekonomian sebesar 5,27934 rupiah. Sementara itu subsektor perikanan darat mempunyai nilai keterkaitan total sebesar 7,66248 (peringkat 6), pengolahan ikan sebesar 5,54531 (peringkat 20) dari 27 subsektor perekonomian di Jawa Timur. Industrialisasi perikanan laut dan darat dapat mendorong beberapa industri pendukungnya seperti industri kapal dan galangan, industri alat tangkap, industri perbekalan (BBM, es, airbersih, logistik), industri mesin dan suku cadang, serta industri jasa terkait, sementara dalam perikanan darat terkait dengan industri benih, industri pakan, industri pupuk, industri obat-obatan, serta industri perlengkapan budidaya (karamba, tanki, kincir, dan lain-lain) (Poernomo and Heruwati 2011). Pembangunan perikanan secara sinergi dan terintegrasi khususnya terhadap sektor yang terkait dengan perikanan dapat memberikan dampak yang lebih besar dalam pengembangan perikanan lebih lanjut(T. Arifin and Suryawati 2013). Dampak pengganda terdiri dari dampak pengganda output, nilai tambah bruto, pendapatan dan tenaga kerja. Besarnya nilai pengganda menunjukkan elastisitas permintaan akhir sektor tertentu terhadap perubahan komponen pengganda. Angka pengganda output terbesar berada pada sektor pemerintahan umum dengan nilai 2,14232. Dampak pengganda output subsektor perikanan laut berada pada peringkat 21, perikanan darat berada pada peringkat delapan sedangkan pengolahan ikan berada pada peringkat lima. Rendahnya angka pengganda output sektor perikanan khususnya perikanan laut dan darat menunjukan bahwa perubahan permintaan akhir pada sektor perikanan pengaruhnya tidak terlalu besar terhadap pembentukan output sektor-sektor dalam perekonomian, atau dengan kata lain bahwa dari sisi penciptaan output kemampuan sektor perikanan dalam perekonomian rendah.
+Rendahnya angka pengganda output subsektor perikanan khususnya subsektor perikanan laut menunjukan bahwa masih belum optimalnya pemanfaatan output dari subsektor perikanan laut yang erat kaitannya dengan  masih sedikitnya output dari subsektor perikanan laut yang melalui proses pengolahan. Keadaan ini tergambar dari kecilnya permintaan antara pada subsektor perikanan laut dan tingginya permintaan akhir pada konsumsi rumah tangga yang menunjukan bahwa output dari subsektor perikanan laut lebih banyak dipasarkan atau dikonsumsi secara langsung.
+_____________________________________________________________________
+Sumber : Data diolah, 2015 Gambar 3. Nilai Dampak Pengganda Subsektor Perikanan di Jawa Timur Tahun 2012 Dampak pengganda nilai tambah bruto terbesar berada pada sektor bangunan dengan nilai 2,67969 yang berarti bahwa setiap satu satuan peningkatan permintaan akhir sektor bangunan akan mengakibatkan kenaikan nilai tambah bruto secara keseluruhan sektor perekonomian sebesar 2,67969 satuan. Dampak pengganda nilai tambah bruto subsektor perikanan laut berada pada peringkat 15, perikanan darat berada pada peringkat enam sedangkan pengolahan ikan berada pada peringkat dua.Dampak pengganda nilai tambah bruto pada subsektor pengolahan ikan relatif besar yang menunjukkan bahwa subsektor pengolahan ikan merupakan salah satu subsektor yang efektif dalam meningkatkan nilai tambah bruto. Dampak pengganda pendapatan terbesar berada pada subsektor pengolahan ikan dengan nilai 3,72274 yang berarti bahwa setiap satu satuan peningkatan permintaan akhir subsektor pengolahan ikan akan mengakibatkan kenaikan nilai pendapatan secara keseluruhan sebesar 3,72274 satuan. Dampak pengganda pendapatan subsektor perikanan laut berada pada peringkat 15, perikanan darat berada pada peringkat delapan. Tingginya dampak pengganda pendapatan pada subsektor pengolahan ikan menunjukkan bahwa usaha pengolahan ikan mampu memberikan tambahan pendapatan yang tinggi bagi pelaku usaha subsektor pengolahan ikan. Sementara itu, rendahnya nilai angka pengganda pendapatan rumah tangga di subsektor perikanan laut menunjukan bahwa balas jasa atau upah tenaga kerja pada sektor perikanan masih rendah. Hal ini disebabkan oleh rendahnya kondisi kualitas sumber daya manusia pada sektor perikanan yang terkait dengan tingkat pendidikan, pendayagunaan, produktivitas, daya saing, dan budaya etos kerja yang rendah, serta rendahnya tingkat teknologi yang digunakan sehingga mengakibatkan rendahnya efisiensi proses produksi. Dampak pengganda tenaga kerja terbesar berada pada subsektor pengolahan ikan dengan nilai 38,64531 yang berarti bahwa setiap satu juta peningkatan permintaan akhir subsektor pengolahan ikan akan mengakibatkan kenaikan jumlah tenaga kerja sebanyak 39 orang. Dampak pengganda tenaga kerja pendapatan subsektor perikanan laut berada pada peringkat enam dengan nilai 6,04248; perikanan darat berada pada peringkat 23 dengan nilai 1,46402.
+Tingginya angka pengganda tenaga kerja pada subsektor pengolahan ikan menunjukkan besarnya dampak dari perubahan permintaan akhir terhadap penyerapan tenaga kerja. Angka pengganda tenaga kerja yang tinggi pada pengolahan ikan juga diikuti oleh subsektor perikanan laut dengan nilai 6,04. Tingginya angka pengganda tenaga kerja pada subsektor perikanan khususnya pengolahan ikan dan perikanan laut menunjukkan bahwa besarnya permintaan akhir pada sektor pengolahan ikan dan perikanan laut mampu menyerap tenaga kerja yang banyak. Hasil dampak pengganda pendapatan menunjukkan bahwa ikan darat memberikan nilai yang tertinggi diantara ketiga sektor perikanan, hal ini menunjukkan bahwa pengembangan sektor ikan darat mempunyai peluang yang besar untuk menggerakkan perekonomian di Jawa Timur. Angka pengganda tenaga kerja pada sektor pengolahan mempunyai nilai tertinggi diantara ketiga sektor sehingga pengembangan usaha pengolahan ikan dapat berperan sebagai usaha yang mampu menyerap tenaga kerja sektor perikanan. Strategi industralisasi perikanan diharapkan mampu meningkatkan keterkaitan sektor perikanan baik terhadap sektor perikanan sendiri maupun dengan sektor ekonomi yang lain. Semakin besar keterkaitan yang dihasilkan akan memberikan nilai tambah sektor perikanan yang lebih banyak.
+Faktor Pembangunan Perikanan
+Model pembangunan perikanan on-farm secara umum mencakup kegiatan produksi perikanan tangkap maupun budidaya baik di darat maupun di laut. Estimasi faktor-faktor yang mempengaruhi pembangunan subsektor perikanan on-farm dalam kerangka pengembangan wilayah di Provinsi Jawa Timur menurut klaster wilayah pengembangan pembangunan meliputi jumlah tenaga kerja perikanan, dan anggaran belanja pada bidang kelautan dan perikanan (APBDKP dan DAKKP). Model data panel statis yang terpilih untuk analisis model pembangunan perikanan on-farm menggunakan proksi produksi perikanan adalah fixed effectmodel berdasarkan uji Chow dengan p-value sebesar 0,0000 dan uji Hausman dengan p-value yang lebih kecil dari 0,05 pada masing-masing klaster. Hasil pendugaan yang mempengaruhi produksi perikanan di Jawa Timur menurut klaster dapat dilihat pada tabel 3 berikut. Produksi perikanan di Jawa Timur dipengaruhi oleh jumlah tenaga kerja, anggaran belanja perikanan secara positif.Peningkatan jumlah tenaga kerja, dan anggaran belanja bidang perikanan dapat meningkatkan produksi perikanan di Jawa Timur.Besarnya pengaruh faktor-faktor tersebut dapat dilihat dari besarnya koefisien regresi yang dimiliki dan arah dari nilai koefisien tersebut.Semakin besar nilai koefisiennya, semakin besar pula pengaruh variabel tersebut sesuai dengan arah nilainya, begitu juga sebaliknya. Berdasarkan hasil analisis regresi linier berganda di atas menunjukkan bahwa tenaga kerja memberikan pengaruh positif terhadap produksi perikanan di semua klaster. Hal ini sesuai dengan teori produksi yang menyatakan bahwa tambahan input tenaga kerja memberikan pengaruh positif terhadap produksi. Sementara itu variabel anggaran belanja bidang perikanan dan kelautan juga memberikan pengaruh positif pada enam klaster dan memberikan pengaruh negatif pada satu klaster yaitu klaster tiga. Variabel tenaga kerja memberikan nilai elastisitas antara 0,26 sampai dengan 0,78 sedangkan elastisitas anggaran belanja bidang perikanan dan kelautan berkisar antara 0,07 sampai dengan 0,32. Nilai elastisitas ini menunjukkan bahwa setiap kenaikan tenaga kerja sebesar satu persen akan menyebabkan kenaikan produksi perikanan sebesar 0,30 sampai dengan 0,78 persen dengan asumsi variabel yang lain tetap.
+Variabel anggaran belanja perikanan menunjukkan pengaruh yang relatif kecil terhadap produksi perikanan yang ditunjukkan dengan rendahnya nilai elastisitas.Bahkan, variabel belanja perikanan pada klaster tiga menunjukkan hubungan yang negatif dengan artian peningkatan belanja perikanan tidak mampu meningkatkan produksi perikanan pada klaster tiga. Relatif kecilnya pengaruh belanja perikanan terhadap peningkatan produksi megindikasikan bahwa belum efektifnya alokasi penggunaan anggaran belanja perikanan dalam mendukung peningkatan produksi perikanan. Tabel 3.Hasil Pendugaan Model Pembangunan Perikanan on-farm di Jawa Timur, 2004-2012
+Koefisien
+Klaster
+1
+2
+3
+4
+5
+6
+7
+c
+0.307631
+3.505144
+3.183736
+1.20305
+3.118038
+4.619255
+2.812681
+lnTK
+0.777932
+0.304262
+0.735077
+0.627881
+0.345508
+0.392383
+0.269407
+lnKP
+0.274341
+0.317987
+-0.108259
+0.072437
+0.135966
+0.160237
+0.377775
+Uji Pemilihan Model
+Chow test
+F statistic
+15.256562
+64.491624
+391.902254
+323.904453
+1506.8063
+78.852721
+345.559132
+Probability
+(0.0000)
+(0.0000)
+(0.0000)
+(0.0000)
+(0.0000)
+(0.0000)
+(0.0000)
+Hausman test
+Chi square
+25.095986
+22.708033
+6.274457
+6.051679
+8.612709
+6.433775
+6.061583
+Probability
+(0.0000)
+(0.0000)
+(0.0434)
+(0.0485)
+(0.0135)
+(0.0401)
+(0.0483)
+Keputusan
+FEM
+FEM
+FEM
+FEM
+FEM
+FEM
+FEM
+Uji Kesesuaian Model
+Uji t
+c
+0.086342
+2.292356
+5.889663
+9.414231
+6.486417
+2.719211
+44.21988
+(0.9318)
+(0.0291)
+(0.0000)
+(0.0000)
+(0.0000)
+(0.0108)
+(0.0000)
+lnTK
+2.137917
+2.064277
+10.95922
+43.99752
+4.844948
+2.284126
+37.24267
+(0.0408)
+(0.0477)
+(0.0000)
+(0.0000)
+(0.0000)
+(0.0296)
+(0.0000)
+lnKP
+3.690545
+5.223113
+-6.729366
+3.48581
+6.579847
+5.76896
+108.377
+(0.0028)
+(0.0000)
+(0.0000)
+(0.0011)
+(0.0000)
+(0.0000)
+(0.0000)
+Uji F
+F
+14.0179
+157.7283
+2722.686
+1097.866
+2717.283
+1306.687
+1647.509
+(0.0000)
+(0.0000)
+(0.0000)
+(0.0000)
+(0.0000)
+(0.0000)
+(0.0000)
+R2
+0.700268
+0.963354
+0.997527
+0.99405
+0.997675
+0.995429
+0.995836
+Uji Asumsi Klasik
+Normalitas
+Jarque Berra
+1.800944
+4.907594
+5.510667
+5.149396
+5.750949
+3.177097
+5.645157
+(0.406378)
+(0.85967)
+(0.063588)
+(0.076177)
+(0.056389)
+(0.204222)
+(0.059452)
+Multikolinearitas
+Maks. VIF
+1.864
+1.614
+9.455
+3.713
+6.655
+1.610
+3.162
+Heterokedastisitas
+SSR W/SSR U
+3.359
+18.633
+9.664
+4.462
+4.234
+17.503
+7.000
+Autokorelasi
+DW
+1.669
+1.621
+1.939
+1.927
+1.788
+1.602
+2.207
+Sumber : Data diolah (2015)
+Uji asumsi klasik pada model pembangunan on-farm yang diestimasi diperoleh bahwa model yang dihasilkan telah memenuhi persamaan regresi linier berganda yang BLUE karena beberapa asumsi klasik dalam regresi linier dapat dipenuhi. Beberapa asumsi klasik yang menjadi syarat regresi linier adalah data terdistribusi normal ditunjukkan dengan nilai probabilitas Jarque Berra yang lebih besar dari 0,05. Tidak ada hubungan linier yang nyata antar variabel, ditunjukkan dengan nilai VIF maksimal yang kurang dari 10. Asumsi selanjutnya adalah tidak terjadi heterokedastisitas yang ditunjukkan dengan perbandingan nilai sumsquare resid weighted yang lebih besar dari nilai sumsquare resid unweighted. Sementara itu asumsi tidak terjadi autokorelasi ditunjukkan dengan nilai durbin watson (dw) yang terdapat dalam wilayah terima h0 sehingga disimpulkan tidak terjadi autokorelasi.
+
+Strategi Pembangunan Subsektor Perikanan
+Berdasarkan analisis input-output dan regresi linier berganda dapat dirumuskan strategi pembangunan perikanan di Jawa Timur sebagai berikut. Dalam hubungan keterkaitan baik kebelakang maupun kedepan, perikanan laut dan darat relatif baik dalam keterkaitan kedepan sementara pengolahan ikan sebagai sektor yang mempunyai keterkaitan kebelakang terbesar diantara semua sektor. Kondisi ini menunjukkan bahwa jika ingin mengembangkan subsektor pengolahan ikan maka harus menyediakan input yang diperlukan oleh usaha pengolahan ikan. Oleh karena itu upaya peningkatan output subsektor perikanan laut dan perikanan darat harus simultan dengan pengembangan pengolahan ikan. Berbagai permasalahan logistik penyediaan input usaha pengolahan ikan yang terkadang memaksa terjadinya impor bahan baku ikan olahan harus dapat dikurangi atau diatasi dengan mengoptimalkan input yang berasal dari hasil domestik. Subsektor pengolahan ikan memberikan pengganda output, pendapatan, nilai tambah dan tenaga kerja yang terbesar diantara subsektor perikanan. Oleh karena itu peningkatan investasi usaha pengolahan ikan bisa menjadi prioritas dalam memacu pembangunan ekonomi di Jawa Timur khususnya pada subsektor perikanan. Salahsatu indikator pembangunan perikanan ditentukan dengan tingginya output perikanan yang dihasilkan. Hasil regresi produksi perikanan secara umum menunjukkan bahwa tenaga kerja dan anggaran belanja bidang kelautan dan perikanan memberikan pengaruh positif pada sebagian besar klaster pembangunan ekonomi di Jawa Timur. Nilai elastisitas tenaga kerja perikanan yang inelastis memerlukan upaya peningkatan produktivitas melalui peningkatan kapasitas keterampilan sumberdaya manusianya maupun adopsi inovasi teknologi. Sementara itu elastisitas anggaran belanja bidang kelautan dan perikanan yang lebih rendah daripada elastisitas tenaga kerja mengindikasikan perlunya evaluasi terhadap alokasi penggunaan anggaran pemerintah agar lebih efektif dalam meningkatkan kuantitas maupun kualitas produksi perikanan.
+Kesimpulan
+Sektor perikanan yang terdiri dari subsektor perikanan laut dan subsektor perikanan darat (on-farm) dan pengolahan ikan (off-farm) mempunyai peran yang berbeda dalam memacu pembangunan ekonomi wilayah di Jawa Timur. Subsektor pengolahan ikan memberikan pengganda tenaga kerja, output dan nilai tambah yang terbesar diantara subsektor perikanan.Subsektor perikanan darat memberikan keterkaitan total yang terbesar diantara subsektor perikanan, sedangkan subsektor perikanan laut memberikan nilai output terbesar diantara subsektor perikanan. Pembangunan perikanan secara on-farm berhubungan nyata dengan jumlah tenaga kerja dan besarnya anggaran pembangunan bidang kelautan dan perikanan walaupun dengan nilai elastisitas yang kurang dari satu.Dalam menentukan prioritas pembangunan perikanan hendaknya memperhatikan nilai elastisitas ketersediaan jumlah tenaga kerja dan besarnya anggaran pembangunan bidang kelautan dan perikanan di suatu daerah pada masing-masing klaster sebagai perhatian utama agar lebih optimal dalam mencapai tujuan pembangunan perikanan. Strategi pembangunan perikanan harus dilakukan secara simultan antara perikanan laut, darat dan pengolahan. Hal ini karena pengolahan ikan sangat memerlukan dukungan perikanan laut dan darat sebagai input begitu juga dengan perikanan laut dan darat yang memerlukan berbagai usaha pengolahan ikan untuk dapat memanfaatkan outputnya. Oleh karena itu strategi industrialisasi perikanan diharapkan dapat meningkatkan nilai tambah perikanan secara signifikan(Budiawan 2013; Istifadah 2012).

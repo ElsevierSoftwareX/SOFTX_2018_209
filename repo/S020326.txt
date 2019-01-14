@@ -1,0 +1,156 @@
+﻿ABSTRAK
+Garam merupakan salah satu komoditas pertanian yang mempunyai potensi
+untuk dikembangkan. Hal ini ditunjukan dengan kenaikan kebutuhan garam nasional
+setiap tahunnya. Kecamatan Kaliori, Kabupaten Rembang dipilih sebagai lokasi
+penelitian karena memiliki angka produksi garam yang relatif tinggi. Penelitian ini
+bertujuan untuk mengidentifikasi faktor-faktor yang mempengaruhi produksi garam,
+mengidentifikasi pengaruh dari faktor-faktor produksi tersebut terhadap produksi
+garam, serta memperoleh estimasi nilai efisiensi teknis, harga, dan ekonomis dari
+faktor-faktor produksi garam tersebut.
+
+Penelitian ini dilakukan menggunakan metode analisis efisiensi produksi
+dengan model fungsi produksi Cobb-Douglas dengan bantuan program Frontier 4.1c,
+uji Return to Scale, dan analisis pendapatan Usaha (R/C Ratio). Sedangkan metode
+pengumpulan data dilakukan dengan metode interview, observasi, dan dokumentasi.
+Hasil penelitian ini menunjukan nilai Return to scale (RTS) sebesar 0,83601
+(decreasing Return to Scale) bahwa proporsi penambahan faktor produksi memiliki
+nilai yang lebih besar dibandingkan dengan nilai produksi yang diperoleh. Pertanian
+garam di Kecamatan Kaliori relatif menguntungkan seperti ditunjukan oleh nilai R/C
+ratio sebesar 2.3642. Berdasarkan hasil analisis diperoleh bahwa efisiensi teknik
+produksi garam rata-rata mencapai 0,9421, efisiensi harga produksi garam rata-rata
+mencapai 7,8112, dan efisiensi ekonomi produksi garam rata-rata mencapai 7,3535.
+Efisiensi ekonomi ini nilainya lebih besar dari 1, oleh karena itu disimpulkan bahwa
+pertanian garam di Kecamatan Kaliori, Kabupaten Rembang belum efisien, sehingga
+untuk mencapai efisien secara keseluruhan perlu adanya penambahan input.
+Kata kunci : Faktor-Faktor Produksi, Pertanian Garam, Stochastic Frontier
+Analysis Efisiensi Teknis, Efisiensi Harga, Efisiensi Ekonomi
+
+
+BAB I
+PENDAHULUAN
+1.1 Latar Belakang
+Indonesia merupakan negara kepulauan, luas wilayah laut lebih besar
+daripada daratan, sehingga masa depan akan lebih banyak ditentukanpada
+kemampuan memanfaatkan sumber daya laut seperti garam. Garam merupakan
+salah satu komoditas pertanian yang mempunyai potensi untuk dikembangkan,
+karena tingginya kebutuhan akan garam. Kebutuhan garam nasional digunakan
+untuk konsumsi, untuk industri CAP (Chlor Alkali Plant), industri aneka pangan,
+pengeboran minyak, serta kebutuhan lainnya. Kebutuhan garam nasional kian
+mengalami kenaikan setiap tahun. Perkembangan kebutuhan garam nasional
+tahun 2008-2011dapat dilihat pada tabel 1.1.
+
+Dari tabel 1.1 tampak bahwa kebutuhan garam nasional selalu mengalami
+kenaikkan tiap tahunnya. Baik kebutuhan untuk industri CAP, garam konsumsi,
+industri aneka pangan, pengeboran minyak, maupun kebutuhan garam lainnya
+cenderung mengalami peningkatan. Hanya pada tahun 2011 kebutuhan garam
+konsumsi dan kebutuhan lainnya tidak mengalami peningkatan dari tahun
+sebelumnya. Berdasarkan kondisi tersebut maka produksi garam nasional harus
+juga ditingkatkan guna memenuhi kebutuhan garam nasional tersebut. Namun
+kenyataannya produksi garam dalam negeri belum mampu mencukupi seluruh
+kebutuhan garam nasional. Hal ini membuat Indonesia harus mengimpor garam
+dari beberapa negara, antara lain Australia dan Singapura (Dinas Perindustrian
+dan Perdagangan Provinsi Jawa Tengah, 2010). Hal ini menimbulkan
+keprihatinan mendalam karena Indonesia belum mampu memenuhi kebutuhan
+permintaan garam dalam negeri. Kebutuhan garam dalam negeri hanya dapat
+diimbangi melalui impor garam dari luar negeri. Kondisi kebutuhan, produksi dan
+impor garam nasional tahun 2007-2009 dapat dilihat pada tabel 1.2.
+
+Dari tabel 1.2 kita melihat bahwa kebutuhan garam nasional terus
+mengalami peningkatan. Peningkatan tersebut juga terjadi pada kondisi produksi
+dan impor garam nasional. Ketidakmampuan produksi garam nasional dalam
+memenuhi kebutuhan garam nasional mengakibatkan angka impor garam yang
+juga mengalami peningkatan. Persentase impor garam nasional bahkan mencapai
+50% dari total kebutuhan garam nasional. Prosentase produksi garam terhadap
+kebutuhan garam nasional pada tahun 2008 sebesar 43,72% dan pada tahun 2009
+sebesar 49,53%.Angka impor garam tersebut hanya dapat ditekan apabila
+produksi garam dalam negeri mengalami kenaikan yang lebih signifikan.
+Untuk memenuhi kebutuhan garam nasional, impor garam memang
+bukanlah satu-satunya solusi. Banyak hal yang dapat dikaji untuk mendorong
+produksi garam dalam negeri yang masih rendah. Kajian terhadap faktor-faktor
+produksi dapat dilakukan guna meningkatkan efisiensi produksi garam nasional.
+Beberapa faktor yang berhubungan erat dengan produksi garam, antara lain luas
+lahan, tenaga kerja, peralatan pertanian, dan pengalaman petani.
+Total luas lahan produksi garam di Indonesia sebesar 14.899 Ha, dimana
+11.390 Ha terdapat di pulau Jawa, dan sisanya 3.509 Ha terdapat di luar pulau
+Jawa (Dinas Perindustrian dan Perdagangan Provinsi Jawa Tengah, 2013). Dari
+data luas lahan tersebut tampak bahwa pulau Jawa memiliki potensi dalam
+peningkatan produksi garam nasional. Khusus untuk daerah Jawa Tengah,
+kebutuhan konsumsi garam untukrumahtanggadanindustritahun 2009 mencapai
+107.832 ton, dan produksi garam dapat mencapai 347.585 ton. Dari jumlah tersebut maka kebutuhan garam Jawa Tengah hanya 31% dari total jumlah
+produksi garam di Jawa Tengah. Pada tahun 2009 total produksi garam jawa
+tengah sebesar 347.000 ton atau sebesar 25,3% dari produksi garam nasional. Hal
+ini dapat tercapai karena Jawa Tengah memiliki banyak sentra pertanian garam.
+Sentra pertanian garam dapat diamati dari adanya Industri Kecil dan
+Menengah (IKM) di wilayah kabupaten/kota di Jawa Tengah. IKM merupakan
+produsen garam mulai dari garam mentah hingga garam siap saji. Keberadaan
+IKM secara tidak langsung dapat mempengaruhi kekuatan petani. Berikut adalah
+tabel produksi industri kecil dan menengah (IKM) di beberapa kabupaten/kota di
+Jawa Tengah:
+
+Berdasarkan tabel 1.3, produksi garam tertinggi terdapat di daerahPati yang
+mampu menyumbangkan 83,3 % dari total produksi garam Jawa Tengah. Sedangkan
+kabupaten Rembang mampu menghasilkan 14,9 % dari total produksi garam Jawa
+Tengah. Hal ini dapat terjadi karena kabupaten Pati memiliki luas lahan yang lebih
+luas serta jumlah IKM yang jauh lebih banyak dari kabupaten Rembang. Kondisi
+industri kecil dan menengah (IKM) kabupaten/kota di Jawa Tengah terdapat pada
+tabel 1.4.
+
+Dari tabel 1.4 tampak bahwa kabupaten Pati memiliki luas area terbesar
+dibanding kabupaten dan kota lainnya di Jawa Tengah. Begitu pula dengan
+jumlah industry kecil dan menengah yang terdapat di kabupaten Pati. Sehingga
+jumlah produksi per-industri di kabupaten Rembang lebih besar dari pada di
+kabupaten Pati. Produksi garam per-IKM di kabupaten Rembang dapat diihat
+pada tabel 1.5.
+
+Berdasarkan tabel 1.5, kabupaten Rembang memiliki jumlah produksi
+garam per IKM tertinggi dibandingkan kabupaten lainnya yaitu sebesar 4.800 ton
+per IKM. Hal ini menunjukan bahwa IKM di kabupaten rembang memiliki
+jumlah produksi yang lebih besar dibandingkan IKM di kabupaten lainnya.
+Kabupaten Rembang memiliki 5 kecamatan yaitu kecamatan Kaliori, Rembang,
+Lasem, Sluke, dan Sarang. Jumlah produksi garam per kecamatan di kabupaten
+Rembang dapat dilihat pada tabel 1.6.
+
+Dari data pada tabel 1.6 tampak bahwa produksi garam tertinggi berada di
+kecamatan Kaliori sebesar 70.426,5 ton. Jumlah produksi tersebut setara dengan
+56% dari total produksi garam di kabupaten Rembang. Kecamatan-kecamatan
+lain seperti Rembang, Lasem, Sluke, dan Sarang hanya menghasilkan masingmasing
+17%, 22%, 2%, dan 3% dari total produksi garam kabupaten Rembang.
+Hal ini menunjukan bahwa kecamatan kaliori memiliki produktivitas yang paling
+baik dibandingkan kecamatan lainnya. Alasan ini yang mendorong penulis
+menjadikan kecamatan Kaliori sebagai lokasi penelitian mengenai efisiensi
+penggunaan faktor-faktor produksi garam.
+
+1.2 Rumusan Masalah
+Rumusan masalah dalam penulisan penelitian ini mengenai “Analisis Efisiensi
+Penggunaan Faktor-Faktor Produksi Garam Di Kecamatan Kaliori, Kabupaten
+Rembang” adalah kebutuhan garam yang semakin meningkat setiap tahun, namun
+tidak diimbangi dengan peningkatan produksi garam nasional, sehingga nilai impor
+garam masih tinggi. Untuk itu perlu dilakukan penelitian mengenai efisiensi
+penggunaan faktor-faktor produksi garam, guna meningkatkan produksi garam dalam
+negeri. Pertanyaan dari masalah yang saya angkat di atas, antara lain:
+1. Apa saja faktor-faktor produksi yang mempengaruhi produksi garam?
+2. Bagaimana pengaruh dari faktor-faktor produksi tersebut dalam produksi garam?
+3. Bagaimana estimasi nilai efisiensi teknis, harga, dan ekonomis dari faktor-faktor
+produksi garam tersebut?
+
+1.3 Tujuan dan Kegunaan Penelitian
+Tujuan dalam penulisan penelitian mengenai “Analisis Efisiensi Penggunaan
+Faktor-Faktor Produksi Garam Di Kecamatan Kaliori, Kabupaten Rembang” adalah :
+1. Untuk menganalisis faktor-faktor apa saja yang mempengaruhi produksi garam.
+2. Untuk menganalisis pengaruh dari faktor-faktor produksi terhadap produksi
+garam.
+3. Untuk mengestimasi nilai efisiensi teknis, harga, dan ekonomis dari analisis
+fungsi produksi dan efisiensi teknis.
+Kegunaan penelitian ini antara lain:
+1. Akademisi
+Penelitian ini diharapkan akan memberikan sumbangan ilmu pengetahuan bagi
+para pelajar.
+2. Pemerintah
+Hasil penelitian ini diharapkan agar pemerintah dapat lebih memberi perhatian
+dan bantuan kepada petani garam rakyat di Kecamatan Kaliori, Kabupaten
+Rembang sehingga para petani dapat meningkatkan kualitas dan kuantitas
+produksi garam.
+3. Masyarakat
+Hasil penelitian ini diharapkan dapat memberikan pengetahuan kepada
+masyarakat mengenai faktor-faktor produksi apa saja yang efisien dalam
+produksi garam.

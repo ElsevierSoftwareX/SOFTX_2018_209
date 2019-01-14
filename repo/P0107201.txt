@@ -1,0 +1,164 @@
+﻿PENGOLAHAN PRIMER LIMBAH TEKSTIL DENGAN ELEKTROKOAGULASI DAN ANALISA BIAYA OPERASI
+
+
+
+Abstrak
+Limbah industri tekstil di area pinggir kota Surabaya mempunyai karakteristik dengan perbandingan COD dan BOD = 5.57. Limbah jenis ini sulit untuk dibiodegradasi. Studi ini mempelajari teknologi elektrokoagulasi untuk mengolah limbah tekstil dengan menghilangkan warna, Total Suspended Solid (TSS) dan Chemical Oxygen Demand (COD). Percobaan Batch pada suhu kamar dilakukan untuk mempelajari pengaruh pH, jarak elektroda pada penghilangan warna,TSS dan COD dan membandingkan biaya operasinya jika menggunakan pengolahan kimia. Effisiensi penghilangan tertinggi untuk warna (91,96%), TSS (49,17%), dan COD (29,67%) terjadi pada pH awal 4.0 dan jarak elektroda 2 cm dengan elektroda Al/Al. Waktu optimum penghilangan warna adalah 10 menit. Laju penurunan COD adalah rCOD = - 0,0053 C , dengan C adalah konsentrasi COD. Jumlah sludge yang dihasilkan dari pengolahan elektrokoagulasi 3,4% lebih sedikit dibandingkan menggunakan bahan kimia. Biaya yang digunakan untuk pengolahan dengan elektrokoagulasi 52,35% lebih murah dibandingkan jika menggunakan koagulasi dengan bahan kimia (tawas).
+Kata kunci : penurunan warna; laju degradasi COD; elektrokoagulasi; limbah tekstil; penurunan TSS
+
+PENDAHULUAN
+Air limbah industri tekstil yang banyak melibatkan proses pewarnaan benang mempunyai kandungan warna yang cukup besar dan sangat menggangu lingkungan jika dibuang ke badan air. Limbah jenis ini umumnya mempunyai perbandingan COD/BOD lebih besar dari 6. Perbandingan COD/BOD yang cukup besar ini menyebabkan limbah jenis ini sulit dibiodegradasi. Limbah cair di salah satu industri pewarnaan benang di area pinggiran kota Surabaya memiliki kandungan COD sebesar 1700 ppm dalam pH 8,62-11,4 dengan kandungan TSS (Total Suspended Solid) sebesar 17180 ppm dan memiliki BOD sebesar 250 ppm (Riadi, 2013). Limbah yang banyak mengandung zat warna tekstil ini beracun, karsinogen dan dapat menyebabkan mutagen pada biota air (Yuksel dkk., 2012). Kandungan COD pada limbah industri tekstil yang diijinkan untuk dibuang ke badan air menurut Keputusan Gubernur Jawa Timur nomor 45 tahun 2002 dalam air yaitu, untuk COD : 150 mg/l sedangkan BOD : 50 mg/l. Beberapa metode yang dilakukan untuk mengolah limbah industri tekstil seperti adsorbsi, koagulasi dan flokulasi, dan oksidasi kimiawi (Jia dkk., 1999). Akhir-akhir ini, banyak penelitian yang menggunakan elektrokoagulasi untuk mengolah air limbah sintetis (Yuksel dkk., 2012; Alaton dkk., 2002) yang digunakan sebagai primary treatment. Elektrokoagulasi mulai dipilih karena mengurangi jumlah sludge yang dihasilkan dan efektif untuk menghilangkan warna dan COD, dan dipertimbangkan lebih murah dibandingkan pengolahan secara kimiawi pada pengolahan primer. Pengendapan secara kimiawi sebagai pengolahan awal ini menimbulkan sludge dalam jumlah cukup besar, juga air limbah akan mengandung bahan kimia yang berbahaya bila masuk ke badan air (Siregar, 2005). Penelitian ini bertujuan untuk mempelajari pengaruh pH dan jarak elektroda Al/Al pada efisiensi penghilangan TSS (Total Suspended Solid), COD (Chemical Oxygen Demand), dan warna untuk limbah tekstil. Di samping itu, laju penurunan COD pada proses elektrokoagulasi dipelajari dan biaya operasi antara elektrokoagulasi dan koagulasi dengan bahan kimia juga dianalisa. Bahan elektroda yang umum digunakan pada elektrokoagulasi adalah alumunium dan besi. Jika Alumunium digunakan, oksidasi alumunium menghasilkan Al3+ yang terhidrolisa membentuk hidroksida dan ini tergantung pada pH (Yuksel dkk., 2012). Reaksi yang terjadi (dengan logam Al/Al sebagai anoda dan katoda) adalah sebagai berikut :
+Anoda - Al :
+Al (s ) Al 3+ + 3e- (1)
+karena Al3+ punya kelarutan yang rendah pada pH netral, maka Al (OH)3 akan mengendap secara homogen melalui proses sebagai berikut (Mochelhoff dkk., 2013):
+Al 3+ (aq) + H2O Al (OH)2+ + H+ (2)
+Al (OH)2+ + 2 H2O Al (OH)3 + 2 H+ (3)
+Katoda- Al :
+2 H2O + 2 e- H2 (g) + 2 OH- (4)
+Sehingga reaksi keseluruhan menjadi:
+Al+5H2O + 2e- Al(OH)3 + H2 + 2OH- + 3H+ + 3e- (5)
+Ion-ion Al3+ dan OH- yang dihasilkan dari reaksi elektroda (reaksi 1 dan 4), bereaksi untuk membentuk berbagai species polimer hydroxo dan monomer hydroxo, yang akhirnya diubah menjadi Al(OH)3 sesuai dengan kinetika pengendapan yang kompleks. Dari reaksi tersebut akan dihasilkan gas, buih, dan flok Al(OH)3 pada anoda. Metode electrocoagulation ini sudah dilakukan untuk zat warna pada industri tekstil dengan 81% penghilangan COD dan 97% penghilangan TSS yang menggunakan elektroda Al/Al (Yuksel dkk., 2012). Metode ini juga digunakan pada air buangan hasil pencucian container yang mengangkut bahan kimia cair, dengan 80% penghilangan COD dan 92% penghilangan warna yang menggunakan elektroda Fe/Al (Kara, 2013).
+METODE PENELITIAN
+Percobaan Batch dengan Elektrokoagulasi
+Percobaan elektrokoagulasi dilakukan pada sebuah reaktor flexi glass dengan dimensi reaktor adalah 120 x 120 x100 mm3. Elektroda (anoda dan katoda) yang digunakan adalah Al/Al (tipe Al 1100) dengan ukuran 8 cm x 8 cm dan tebal 2 mm. Elektroda dihubungkan dengan DC Power Supply dengan voltase alat dijaga pada 10 volt. pH percobaan diamati dengan pH probe. Conductivity meter digunakan untuk mengukur konduktivitas limbah. Reaktor yang berisi limbah 800 mL diaduk dengan magnetic bar yang berukuran 40 mm. Percobaan dilakukan pada suhu kamar. Jarak elektroda diatur pada 2, 3, dan 4 cm dan pH awal diatur untuk pH 4, 5, 6, dan 7.
+Analisa Warna, TSS, dan COD
+Analisa untuk warna dilakukan dengan menggunakan UV-Vis spectrophotometer pada panjang gelombang 655 nm. Analisa untuk total suspended solid (TSS) dilakukan dengan metode berat kering di dalam oven pada suhu 105oC selama 2 jam. Analisa COD dilakukan dengan menggunakan reagen pereaksi COD yang terdiri dari kalium bikromat dan larutan asam sulfat yang sudah dicampur dengan Ag2SO4 dan dipanaskan pada reaktor COD 148oC selama 2 jam (Clesceri dkk., 1998). Pengukuran COD dilakukan dengan menggunakan spectrophotometer degan panjang gelombang 620 nm.
+HASIL DAN PEMBAHASAN
+Limbah tekstil yang digunakan mempunyai karakteristik limbah seperti terlihat pada Tabel 1.
+Tabel 1. Karaketristik limbah tekstil yang digunakan pada percobaan
+Parameter
+Besaran
+pH
+10,7
+COD
+1280 ppm
+BOD
+230 ppm
+TSS
+7200 ppm
+Konduktivitas
+7,12-7,77 mS/cm
+Pengaruh Jarak Elektroda (Al-Al) pada Penghilangan TSS (Total Suspended Solid), COD dan Warna
+Ada 3 proses yang terjadi selama proses elektrokoagulasi : 1) reaksi elektrolitik pada permukaan elektroda; 2) pembentukan koagulan pada fasa aqueous; 3) adsorpsi polutan terlarut atau koloidal ke koagulan dan penghilangannya menggunakan sedimentasi atau flotasi dari flok-flok ketika gelembung H2 dihasilkan oleh katoda. Reaksi (1) adalah reaksi oksidasi yang terjadi pada anoda, reaksi (4) merupakan reaksi reduksi yang dihasilkan dari reduksi air pada katoda. Ion ion yang dihasilkan oleh reaksi (1) dan (4) akan menetralkan muatan muatan polutan dan menginisiasi koagulasi. Al3+ juga berekasi dengan ion ion hidrogen, yang membentuk spesies spesies monomer dan polimer dari Al-hidroksida. Apabila jarak elektroda (d) semakin kecil, arus listrik akan semakin besar. Dengan semakin besar arus listrik, larutnya anoda akan naik, sehingga jumlah kompleks “hydroxo cationic” akan naik dan menyebabkan TSS dan zat warna yang ada akan membentuk gumpalan yang lebih besar dengan terbentuk flok yang lebih banyak dan mengakibatkan jumlah sludge akan lebih banyak, sehingga TSS yang dihilangkan juga lebih banyak (Tabel 2). Polutan yang merupakan zat warna tersebut akan membentuk ligands yang mengikat pada alumunium hidroksida dengan reaksi sebagai berikut (Dalvand dkk., 2011) : Dye-H + (OH)OAl(s) Dye-OAl(s) + H2O (6) Dengan terikatnya zat warna pada proses elektrokogulasi, maka konsentrasi COD yang terdapat pada limbah juga akan menurun. Penghilangan warna, TSS, dan COD mempunyai pola yang sama, semakin dekat jarak eletroda, penghilangan warna, TSS dan COD semakin tinggi (Gambar 1 dan Gambar 2). Karena semakin jauh jarak antara elektroda maka reaksi ionisasi antar elektroda akan semakin lambat sehingga penurunan COD tidak akan efektif (Khandegar dan Saroha, 2013). Dengan pH awal limbah diatur pada pH 7,0, efisiensi penghilangan TSS, warna dan COD yang terbaik dilakukan dengan jarak elektroda 2 cm. Dari Gambar 2 dapat dijelaskan bahwa elektrokoagulasi yang paling efektif adalah pada penghilangan warna, diikuti dengan TSS dan COD. Dengan demikian zat warna akan berfungsi sebagai ligands dan melakukan ikatan kimiawi dengan “hydrous alumunium“ seperti pada reaksi (6). Gambar 1. Profil penurunan COD pada berbagai jarak elektroda dan pH awal 7 Gambar 2. Persentase penurunan intensitas warna, TSS, dan COD pada pH awal 7.0 Pengaruh pH pada Penghilangan TSS (Total Suspended Solid), COD, dan Warna Pada proses elektrokoagulasi terbentuk Al(OH)3 yang bersifat basa pada reaksi oksidasi dan reduksi secara keseluruhan, maka pH limbah mengalami kenaikan. Untuk limbah dengan pH awal 4, 5, 6, dan 7 mengalami kenaikan berturut turut sampai pH 8, 9, 1, 10, 6, dan 12 dalam waktu 60 menit.
+
+Dari Tabel 3 dapat dilihat jika pH semakin kecil, maka penghilangan TSS, warna, dan COD semakin baik. Hal ini dapat dijelaskan bahwa pada pH yang lebih kecil dari 4,7, Al3+ akan banyak terbentuk sesuai dengan diagram potential pH untuk Al-H2O seperti nampak pada Gambar 3. Efisiensi tertinggi untuk penghilangan TSS, warna dan COD ditemukan pada pH 4.0 dengan jarak elektroda 2 cm, dengan penghilangan TSS, warna dan COD berturut turut adalah 49,17%; 91,96% dan 29,67%. Profil persentase penghilangan warna untuk jarak elektroda 2 cm pada berbagai pH awal dapat dilihat pada Gambar 4. Dalam waktu 10 menit pertama, proses penghilangan warna sudah terjadi dengan %penghilangan mencapai hampir 90%, kondisi ini terjadi pada pH 4 dan 5 dengan jarak elektroda 2 cm. Pola penghilangan yang paling efektif dengan metoda elektrokoagulasi ini adalah penghilangan warna, yang diikuti dengan penghilangan TSS dan baru kemudian penghilangan COD seperti nampak pada Gambar 5.
+Gambar 3. Hubungan pH dan potensial untuk Al-H2O (Mechelhoff dkk, 2013)
+Gambar 4. Profil penghilangan warna pada berbagai variasi pH dan jarak elektroda 2 cm
+Laju Penurunan COD (Chemical Oxygen Demand)
+Jika reaksi degradasi COD diasumsikan orde satu, maka konstanta laju penurunan COD dapat dicari dengan model reaksi orde satu sistem batch : dC/dt = -kd.C, dengan C = konsentrasi COD. Dengan menggunakan metode integrasi, dapat dilakukan plotting kurva ln C/Co sebagai sumbu y dan t sebagai sumbu x. Dari hasil plotting akan didapat persamaan y = ax + b dimana nilai a merupakan nilai kd (konstanta laju degradasi). Gambar 6 menunjukkan bahwa penurunan COD yang terbaik terjadi pada pH awal 4, dan Gambar 7 menunjukkan hasil plotting kurva ln C/Co terhadap waktu bahwa kinetika degradasi COD dengan pH awal 4, mengikuti orde satu.
+Gambar 5. Profil penghilangan warna, TSS dan COD pada berbagai pH awal dengan jarak elektroda 2 cm
+Gambar 6. Profil penurunan COD pada berbagai pH awal
+Gambar 7. Profil laju penurunan COD, d =2 cm dan pH awal=4
+Dengan menggunakan model regresi diperoleh besarnya konstanta degradasi COD limbah tekstil pada pH awal = 4 dan jarak elektroda 2 cm adalah 0,0053 (1/menit), dengan laju degradasi adalah : rCOD = [-0,0053C] (mg)/(liter menit), dengan C adalah konsentrasi COD. Laju penurunan COD dihitung pada
+kondisi penghilangan COD yang terbaik, seperti
+tertulis pada Tabel 3.
+Perhitungan Biaya Operasi pada Penghilangan
+TSS dengan Elektrokoagulasi Dibandingkan
+dengan Chemical Treatment
+Total Suspended Solid yang dihilangkan
+dengan metode elektrokoagulasi berupa sludge yang
+terbaik diperoleh pada kondisi pH awal 4,0 dan jarak
+elektroda 2 cm dengan jumlah 2,043 gram. Perbedaan
+sludge yang dihasilkan untuk mengolah limbah
+dengan volume yang sama (800 mL) antara metode
+elektrokoagulasi dan metode kimiawi (menggunakan
+tawas) 3,4% lebih sedikit jika menggunakan metode
+elektrokoagulasi. Jumlah sludge yang dihasilkan jika
+menggunakan tawas sebagai koagulan adalah 2,115
+gram. Perbedaan ini disebabkan karena sludge yang
+dihasilkan dengan elektrokoagulasi mengandung
+ikatan air yang lebih sedikit dan tidak ada sulfat yang
+ikut mengendap sebagai sludge. Pada penelitian ini,
+jumlah alumunium yang digunakan juga diamati.
+Penurunan massa alumunium dipengaruhi oleh
+besarnya arus listrik dan lamanya waktu
+elektrokoagulasi. Dari persamaan (7) dapat diketahui
+bahwa semakin besar jarak elektroda (d) maka jumlah
+alumunium yang terlarut semakin kecil.
+
+
+n.F.d.
+V.A.t.Mr
+w
+(7)
+Tabel 4 menunjukan jumlah alumunium
+terlarut (yang terpakai) untuk koagulasi total
+suspended solid dengan kondisi operasi jarak antar
+elektroda 4 cm jumlahnya lebih sedikit dibandingkan
+pada jarak antar elektroda 2 dan 3 cm. Demikian juga
+dengan pH yang lebih rendah, jumlah Alumunium
+yang membentuk Al3+ akan lebih banyak (Gambar 3).
+Arus yang digunakan pada elektrokoagulasi pada
+kondisi pH awal 4,0 dan jarak elektroda 2 cm, adalah
+1,78 Ampere. Konsumsi listrik yang digunakan adalah
+1,78 ampere x 10 volt = 17,8 VA = 0,018 KVA =
+0,018 KW. Dengan waktu operasi optimum untuk
+menghilangkan warna 10 menit, maka besaran energi
+yang digunakan adalah 0,003 KWh. Dengan tarif
+Rp. 1496 per KWh, maka biaya yang digunakan untuk
+menghilangkan TSS dan warna sebesar Rp. 4,5,-
+untuk 800 mL limbah. Pemakaian energi listrik yang
+digunakan adalah 0,003 KWh/2,043 gram suspended
+solid atau 0,0015 KWh/gram suspended solid yang
+dihilangkan. Alumunium yang digunakan adalah 1,2
+gram untuk 800 mL limbah, harga Alumunium per
+gram Rp. 50,-. Biaya yang dikeluarkan Rp. 60,-.
+Jumlah HCl 1 M yang digunakan untuk membuat pH
+=4 dari pH awal limbah 10 adalah sebanyak 0,8 mL
+untuk 800 mL limbah. Biaya yang dibutuhkan untuk
+menurunkan pH sampai pH = 4,0 adalah Rp. 0,3,-.
+Total biaya yang dibutuhkan untuk mengolah limbah
+(800 mL) dengan elektrokoagulasi Rp. 64,8,-
+Tabel 4 Massa alumunium yang terpakai
+Jarak antar
+elektroda (cm)
+pH awal
+Massa Alumunium yang
+terpakai (gram)
+2
+4 1,1990
+5 1,1187
+6 1,0221
+7 1,1302
+3 7 0,7438
+4 7 0,7128
+Jika dibandingkan dengan menggunakan
+koagulasi (Alumumium sulfat/tawas), dibutuhkan 40
+ml tawas 10 % untuk limbah 800 ml pada kondisi
+operasi yang sama, sludge yang terbentuk sebesar
+1,321 gram. Dengan harga tawas Rp 3000/kg, maka
+biaya pamakaian tawas Rp. 12,- untuk 800 mL limbah.
+Biaya listrik yang digunakan untuk pengadukan 800
+mL limbah selama 20 menit untuk 250 watt (0,083
+KWh) adalah sebesar Rp. 124,-. Total biaya yang
+dibutuhkan untuk mengolah 800 mL limbah adalah
+Rp. 136,-
+Dengan demikian biaya yang digunakan untuk
+menghilangkan warna dan TSS untuk limbah tekstil
+jika menggunakan pengolahan kimiawi 52,35% lebih
+mahal jika dibandingkan dengan menggunakan
+elektrokoagulasi.
+KESIMPULAN
+Metode elektrokoagulasi yang paling efektif
+untuk pengolahan limbah tekstil adalah penghilangan
+warna, kemudian diikuti dengan penghilangan TSS
+dan COD. Efisiensi penghilangan yang terbesar terjadi
+pada penghilangan warna, dan diikuti dengan
+penghilangan TSS dan penghilangan COD. Proses ini
+terjadi pada berbagai pH awal percobaan yaitu : 4, 5,
+6, dan 7. Urutan efektifitas penghilangan warna, TSS
+dan COD ini juga terjadi konsisten pada berbagai
+jarak elektroda yang digunakan sebagai parameter
+percobaan. Kondisi operasi yang terbaik untuk
+penghilangan warna, TSS, dan COD terjadi pada pH
+awal 4,0 dan jarak elektroda 2 cm. Waktu operasi
+optimum untuk penghilangan warna adalah 10 menit.
+Laju penurunan COD pada kondisi pH awal 4,0 dan
+jarak elektroda 2 cm adalah :
+rCOD = [- 0.0053C] (mg)/(liter menit). Jumlah sludge
+yang terbentuk dari pengolahan 800 mL limbah tekstil
+dengan teknologi elektrokoagulasi 3,4% lebih sedikit
+jika dibandingkan dengan koagulasi menggunakan
+bahan kimia. Biaya operasi untuk mengolah limbah
+dengan elektrokoagulasi 52,35% lebih murah
+dibandingkan dengan koagulasi dengan bahan kimia.

@@ -1,0 +1,45 @@
+﻿
+ Telah dilakukan validasi metode analisis potensi antioksidan β-karoten dari mikroalga Dunaliella sp. dengan teknik linear sweep voltammetry. Penelitian ini bertujuan untuk memperoleh metode dan informasi unjuk kerja metode analisis dengan teknik linear sweep voltammetry. Elektroda yang digunakan pada penelitian ini yaitu elektroda kerja emas (Au), elektroda bantu platina (Pt), dan elektroda reference perak/perak klorida (Ag/AgCl). Jendela potensial dari oksidasi β-karoten adalah 0 mV – 1000 mV dengan scan rate 100 mV/s dan range arus 10 μA. Elektrolit yang digunakan adalah larutan NaNO3 0,4 M. Parameter uji validasi metode ini meliputi linieritas, presisi, akurasi, dan batas deteksi. Hasil penelitian menunjukkan bahwa validasi metode analisis memiliki nilai koefisien korelasi (r) 0,982 ; %RSD adalah 7,8% dan hasil %perolehan kembali adalah 112% serta batas deteksi metode analisis ini adalah 0,6 mM. Kelebihan dari metode ini adalah dapat menghitung koefisien aktivitas antioksidan dari β-karoten. Koefisien aktivitas antioksidan dari β-karoten memiliki nilai 0,333. 
+Kata kunci : Validasi metode, linear sweep voltammetry, β-karoten, mikroalga Dunaliella sp.
+
+
+
+ I. PENDAHULUAN 
+A. Latar Belakang 
+
+Semakin tingginya tuntutan jaman terhadap aktivitas dunia kerja cenderung akan memaksa masyarakat untuk berpindah ke hal-hal yang bersifat cepat dan instan termasuk dalam hal pola makan. Pola makan yang tidak tepat akan menyebabkan akumulasi jangka panjang terhadap radikal bebas di dalam tubuh. Pengaruh gaya hidup yang kurang baik, stress dan polusi lingkungan meningkatkan kebutuhan tubuh akan zat gizi dan fitonutrisi sebagai pelindung dari radikal bebas 
+(PDPERSI, 2003). 
+
+Radikal bebas adalah atom atau molekul yang tidak stabil dan sangat reaktif karena mengandung satu atau lebih elektron tidak berpasangan pada orbital terluarnya. Untuk mencapai kestabilan atom atau molekul, radikal bebas akan bereaksi dengan molekul disekitarnya untuk memperoleh pasangan elektron. Senyawa ini terbentuk dari dalam tubuh dan dipicu oleh berbagai macam faktor. Oleh karena itu, tubuh memerlukan suatu substansi penting yaitu antioksidan yang mampu menangkap radikal bebas tersebut sehingga tidak dapat menginduksi suatu penyakit (Winarsi, 2007). 
+
+Antioksidan merupakan zat yang mampu memperlambat atau mencegah proses oksidasi. Zat ini secara nyata mampu memperlambat atau menghambat oksidasi zat yang mudah teroksidasi meskipun dalam konsentrasi rendah. Antioksidan juga bermanfaat sebagai senyawa - senyawa yang melindungi sel dari efek berbahaya radikal bebas oksigen reaktif. Jika berkaitan dengan penyakit, maka radikal bebas ini dapat berasal dari metabolisme tubuh maupun faktor eksternal lainnya. 
+Beberapa studi dan penelitian tentang radikal bebas menyatakan bahwa status antioksidan dapat ditingkatkan melalui penyediaan bahan makanan tambahan (suplemen) untuk mengurangi beberapa risiko penyakit yang terjadi akibat radikal bebas (Ferguson et al., 2004). Di dalam tubuh manusia terdapat senyawa yang disebut antioksidan yaitu senyawa yang dapat menetralkan radikal bebas, seperti: enzim SOD (Superoksida 2 Dismutase), gluthatione, dan katalase. Antioksidan juga dapat diperoleh dari asupan makanan yang banyak mengandung vitamin C, vitamin E dan β–karoten serta senyawa fenolik. Bahan pangan yang dapat menjadi sumber antioksidan alami, seperti rempah-rempah, coklat, biji-bijian, 
+buah-buahan, sayur-sayuran seperti buah tomat, pepaya, jeruk (Prakash, 2001). Mikroalga Dunaliella sp. merupakan salah satu hasil laut yang memiliki kandungan β–karoten dan merupakan agen antioksidan (Abidin dan Rondonuwo, 2009). 
+
+Mikroalga merupakan organisme tumbuhan berukuran seluler yang umumnya dikenal dengan sebutan fitoplankton (Kawaroe et al., 2010). Dengan perairan Indonesia yang sangat luas, Indonesia memiliki potensi untuk mengembangkan produksi mikroalga secara luas dengan kultivasi mikroalga secara mandiri. Mikroalga Dunaliella sp. merupakan mikroalga air laut populer sebagai produsen antioksidan terbaik (β–karoten) hingga 12 % dari berat keringnya (Ben-Amotz, 1999). Hasil penelitian yang dilakukan oleh Abd El-Baky et al. (2007), ditemukan bahwa Dunaliella sp. mengakumulasi jumlah karotenoid yang tinggi (12,6% berat kering), termasuk β–karoten (60,4% dari karotenoid total). 
+
+Pada beberapa riset sebelumnya, telah dilakukan studi tentang antioksidan menggunakan voltammetri. Kesesuaian voltammetri untuk pengujian antioksidan dalam matriks biologi sudah ditinjau secara ekstensif, seperti : uji aktivitas dalam beberapa sampel yang mengandung antioksidan menggunakan differential pulse voltammetry (Korotkova et al., 2002) dan studi elektrokimia vitamin A dengan menggunakan teknik voltammetri siklik (Tan, 2010). Dari penelitian-penelitian tersebut perlu dilakukan pengujian laboratorium. 
+
+Metode pengukuran yang dipilih harus metode yang telah diuji dan divalidasi oleh laboratorium penguji (Garfield et al., 2000). Hal ini sesuai dengan sistem manajemen mutu standar nasional Indonesia-17025 (SNI-17025) tahun 2005 mengharuskan laboratorium pengujian dalam menganalisis bahan menggunakan metode pengukuran yang valid. Validasi metode adalah sebuah proses yang penting dari program jaminan mutu hasil uji dimana sifat-sifat dari sebuah metode ditentukan dan dievaluasi secara obyektif (Garfield et al., 2000). Dengan adanya validasi ini, dapat diketahui suatu metode layak atau tidak untuk digunakan. 
+
+Tan, 2010 melakukan studi elektrokimia vitamin A dengan menggunakan teknik voltammetri siklik, β–karoten dianalisis dan dibandingkan dengan beberapa 4 bentuk utama vitamin A ; retinol, retinal, asam retinoat, retinil asetat, dan retinyl palmitate. Kajian terhadap studi elektrokimia β–karoten oleh Tan, 2010 hanya dilakukan sebatas membandingkan antioksidan dari beberapa bentuk vitamin A tersebut, studi elektrokimia ini memberikan informasi metode voltammetri yang selektif yaitu senyawa vitamin A menunjukkan perilaku voltammetri yang sangat berbeda meskipun perbedaan struktural hanya sedikit. Voltammetri linear menghasilkan informasi berupa arus oksidasi, arus reduksi, luas permukaan elektroda serta potensial oksidasi dan reduksi. Penelitian Korotkova et al., 2002 memberikan informasi bahwa potensi antioksidan dapat dinyatakan dalam koefisien aktivitas antioksidan yang merupakan slop dari perubahan konsentrasi berbanding densitas arus reduksi oksigen. Densitas arus reduksi merupakan hasil bagi dari arus yang dihasilkan dengan luas permukaan eletroda pada proses pemindaian voltammetri. 
+
+Sebagai studi awal pada penelitian ini dilakukan analisis potensi antioksidan pada beberapa konsentrasi β–karoten. Penelitian ini merupakan penelitian lanjutan dari studi elektrokimia vitamin A dengan menggunakan teknik voltammetri siklik (Tan, 2010) akan tetapi pada penelitian ini menggunakan sampel yang berbeda, yaitu ekstraksi mikroalga Dunaliella sp menggunakan teknik voltammetri linear. Beberapa parameter uji diantaranya : akurasi, presisi, linearitas, dan batas deteksi untuk mendapatkan metode analisis yang valid, cepat, sederhana, dan biaya yang relatif murah. Potensi antioksidan β–karoten dinyatakan dalam koefisien aktivitas antioksidan. 5 
+
+
+B. Tujuan Penelitian 
+
+Tujuan dari penelitian ini adalah untuk memperoleh metode dan informasi unjuk kerja metode analisis potensi antioksidan β–karoten dari mikroalga Dunaliella sp. dengan teknik voltammetri linear. 
+
+C. Manfaat Penelitian 
+
+Manfaat dari penelitian ini adalah : 
+1. Memberikan informasi unjuk kerja metode analisis potensi antioksidan 
+
+β–karoten dari mikroalga Dunaliella sp. 
+2. Memberikan metode analisis potensi antioksidan β–karoten dari mikroalga Dunaliella sp. menggunakan voltammetri linear yang tervalidasi. 
+
+D. Hipotesis Penelitian 
+
+Hipotesis dari penelitian ini adalah : 
+Respon arus yang dihasilkan dari oksidasi β–karoten sebanding dengan kenaikan konsentrasi β–karoten.

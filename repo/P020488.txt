@@ -1,0 +1,35 @@
+﻿Magnesium memiliki sifat ringan, keuletan yang baik serta ketahanan korosi yang baik. Namun magnesium sangat mudah terbakar karena magnesium rektif terhadap oksigen dan senyawa lain terutama berbentuk serbuk. Seperti diketahui bahwa suhu penyalaan magnesium pada tekanan atmosfir berada dibawah titik cairnya yaitu 623 oC. Salah satu cara untuk mengetahui penyalaan dengan menggunakan aplikasi thermografi. Thermografi juga mampu menangkap peristiwa penyalaan pada saat proses pemesinan.
+Pengambilan data dilakukan dengan melakukan pemesinan batang magnesium AZ31 dengan berbagai kondisi pemesinan bubut dan kelembapan udara 73 %. Dari hasil eksperimen, temperatur naik seiring dengan kenaikan kecepatan potong pada berbagai laju pemakanan dan kedalaman potong. Disamping itu pemesinan magnesium diperoleh penyalaan pada kecepatan potong 180 m/min menghasilkan suhu 553,235 oC dan kecepatan potong 200 m/min menghasilkan suhu 620,675 oC. Kedua penyalaan terjadi pada gerak makan 0,05 mm/rev serta kedalaman potong 0,05 mm.
+Histogram akan menunjukkan titik puncak tertinggi pada area terang apabila terjadi penyalaan. Semakin tinggi kecepatan potong maka suhu akan meningkat pula. Seiring tingginya kecepatan potong yang digunakan, memiliki peranan penting terjadinya penyalaan. Dengan begitu perlu dihindari penggunaan beberapa parameter tersebut yang memungkinkan terjadinya penyalaan.
+Kata kunci: magnesium AZ31, thermografi, penyalaan, bubut, distribusi suhu, histogram
+
+I. PENDAHULUAN
+A. Latar Belakang
+Kebutuhan material dalam industi semakin lama semakin meningkat, dan jenis material yang dapat digunakan di berbagai aplikasi industri juga bertambah. Magnesium merupakan salah satu logam non-fero yang sering digunakan pada beberapa aplikasi produksi industri. Salah satu sifat yang diunggulkan dalam magnesium yaitu karena magnesium memiliki kepadatan rendah, keuletan yang baik, kekuatan menengah serta ketahanan korosi yang baik. Kelebihan lainnya yaitu apabila magnesium digunakan sebagai unsur pemadu pada beberapa material, magnesium dapat memperbaiki karakteristik mekanik, fabrikasi dan karakteristik pengelasan pada alumunium ( Buldum, 2011).
+Mempertimbangkan akan kelebihan magnesium tersebut, maka penelitian mengenai magnesium sudah dikembangkan untuk aplikasi kedokteran. Magnesium berbasis paduan memiliki sejumlah keunggulan yang membuat menarik ketika mempertimbangkan bedah implan. Alasan utama yaitu kepadatan yang rendah dengan beratnya yang ringan. Dimana paduan berbasis magnesium biasanya sepertiga padat seperti paduan berbasis titanium dan hanya seperlima dari baja tahan karat (stainless steel) dan khrom-kobalt alloy, sehingga magnesium memiliki potensi sebagai implan bedah ringan ( C.K Seal, 2011 ).
+
+Selain aplikasi pada bidang kesehatan, peran magnesium sangat banyak juga digunakan pada industri trasportasi, seperti mobil. Ada peningkatan minat dalam konstruksi ringan dibandingkan dengan tahun 1990 karena komitmen industri otomotif untuk mencapai pengurangan 25 % dalam konsumsi bahan bakar rata-rata untuk semua mobil baru ( C.Blawert, 2004 ). Sehingga dengan mengganti bagian kendaraan berbahan baja atau besi terutama pada komponen mesin, menjadi berbahan magnesium akan menjadikan kendaraan lebih ringan. Dampak dari pengurangan berat ini dapat menghemat penggunaan bahan bakar.
+Walaupun magnesium merupakan salah satu logam yang ringan namun logam magnesium sangat mudah terbakar, dan akan lebih mudah untuk menyala ketika magnesium dijadikan bubuk atau diiris menjadi irisan tipis. Magnesium AZ31 diketahui mempunyai suhu penyalaan pada tekanan atmosfir berada dibawah titik cairnya yaitu 623 oC. Pada tekanan 500 Psi, suhu penyalaan mendekati titik cairnya yaitu 650 oC (White & Ward, 1966).
+Hans Kurt Tonshoff, dkk dalam buku berjudul Technology of Magnesium and Magnesium Alloys melakukan pengamatan suhu pada mesin bubut dengan parameter Vc=2100 m/min, f=0.01-0.5 mm, dan d=0.2 mm mengutarakan bahwa semkain rendah gerak makan yang diberikan, maka suhu geram akan mendekati titik penyalaan (Thonsoff H.K., 2001). Sebagian peneliti telah melakukan studi resistansi penyalaan paduan magnesium dengan penambahan unsur kalsium (Ca). Hasil menunjukkan suhu penyalaan naik 250 oC akan tetapi terjadi penurunan sifat tarikan. Peneliti lain menambahkan berilium dan unsur langka bumi untuk menaikkan suhu penyalaan namun penambahan unsur-unsur tersebut akan menaikkan biaya produksi (Zhengdkk, 2000).
+Dengan menyampingkan hal itu, magnesium masih tetap memiliki keunggulan lain seperti pemesinan yang baik, mampu cor dan mampu las yang baik. Sehingga sangat penting untuk mengetahui permulaan penyalaan pada magnesium agar dapat mengurangi terjadinya penyalaan pada magnesium pada saat dilakukan proses pemesinan (Anonim,2013). Sedangkan untuk mengetahui distribusi suhu yang terjadi pada pahat, geram dan benda kerja dapat diketahui dengan metode pengukuran tidak langsung atau yang biasa dikenal sebagai metode thermografi, dengan metode ini diharapkan dapat mengetahui parameter batas pemesinan dengan menggunakan proses pencitraan, sehingga didapat suatu batas maksimum dari parameter pemesinan (M.Haris, 2013).
+Oleh sebab itu pada penelitian tugas akhir ini akan dilakukan pengujian pada proses pemesinan terhadap mesin bubut dengan menggunakan metode inspeksi pencitraan, sehingga penulis mengambil judul : “ karakterisasi penyalaan magnesium az31 pada proses bubut menggunakan aplikasi thermografi ”.
+B. Tujuan
+Adapun tujuan dari dilakukanya penelitian ini yaitu :
+1. Mengetahui parameter yang mempengaruhi permulaan penyalaan pada magnesium AZ31.
+2. Mengetahui secara jelas distribusi panas yang terjadi pada material AZ31 saat dilakukan proses pemesinan.
+
+C. Batasan Masalah
+Adapun batasan masalah pada tugas akhir ini sebagai berikut :
+1. Pengujian dilakukan dengan menggunakan mesin bubut dengan material magnesium AZ31.
+2. Pengujian dititik beratkan pada proses pemesinan dan parameter pemesinan yang berlaku pada mesin bubut.
+3. Proses pemesinan dilakukan dengan dry machining tanpa pendingin.
+D. Sistematika Penulisan
+Penulisan tugas akhir ini disusun menjadi lima bab. Adapun sistematika penulisannya adalah sebagai berikut :
+Bab I adalah pendahuluan yang berisikan uraian latar belakang penelitian tugas akhir, tujuan penelitian tugas akhir, batasan masalah dan sistematika penulisan.
+Bab II adalah tinjauan pustaka yang berisikan uraian tinjauan pustaka yang dijadikan sebagai landasan teori untuk mendukung penelitian ini.
+Bab III adalah metodologi yang berisikan uraian metode tentang langkah-langkah, alat dan bahan yang dilakukan untuk mencapai hasil yang diharapkan dalam penelitian ini.
+Bab IV adalah hasil dan analisa yang berisikan uraian hasil dan membahas yang diperoleh dari penelitian ini.
+
+Bab V adalah simpulan dan saran yang berisikan uraian kesimpulan dari hasil dan pembahasan sekaligus memberikan saran yang dapat menyempurnakan penelitian ini.
+Daftar Pustaka adalah berisikan literatur-literatur atau referensi yang diperoleh penulis untuk mendukung penyusunan laporan penelitian ini.
+Lampiran berisikan beberapa hal yang mendukung penelitian.

@@ -1,0 +1,820 @@
+﻿DETEKSI FINANCIAL STATEMENT FRAUD DENGAN ANALISIS FRAUD
+TRIANGLE PADA PERUSAHAAN MANUFAKTUR YANG TERDAFTAR
+DI BURSA EFEK INDONESIA
+
+Abstrak
+Tujuan penelitian ini adalah untuk menguji pengaruh fraud triangle dalam menjelaskan fenomena
+kecurangan laporan keuangan. Penelitian ini terdiri dari tujuh variabel independen yang diadopsi
+dari penelitian (Skousen, Smith, dan Wright 2009). Empat variabel dari elemen pressure
+(financial stability, personal financial need, external pressure,dan financial target). Dua variabel
+dari elemen opportunity (nature of the industry dan effective monitoring) dan satu variabel dari
+elemen rationalization. Berdasarkan analisis regresi logistic dari 36 perusahaan yang melakukan
+fraud dan 54 perusahaan yang tidak melakukan fraud selama 2011 sampai 2013 menyimpulkan
+bahwa ada pengaruh positif antara financial stability (ACHANGE) anad external pressure (LEV)
+terhadap financial statement fraud, sementara effective monitoring (IND) memiliki pengaruh
+negatif terhadap financial statement fraud. Hasil ini memberikan dukungan kepada fraud
+triangle theory dalam menjelaskan fenomena financial statement fraud.
+Kata kunci: fraud, opportunity, pressure, rationalization
+PENDAHULUAN
+Menurut Association of Certified Fraud
+Examiners (ACFE), fraud adalah tindakan
+penipuan atau kekeliruan yang dibuat oleh seseorang
+atau badan yang mengetahui bahwa
+kekeliruan tersebut dapat mengakibatkan
+beberapa manfaat yang tidak baik kepada
+individu atau entitas. Ernst & Young (2009)
+menemukan bahwa kasus fraud yang terjadi
+dilakukan oleh pemilik perusahaan atau dewan
+direksi. Selain itu, ACFE juga menemukan
+bahwa lebih dari setengah pelaku fraud adalah
+manajemen. Jika financial statement fraud memang sebuah masalah yang signifikan,
+auditor sebagai pihak yang bertanggungjawab
+harus dapat mendeteksi aktivitas kecurangan
+sebelum akhirnya berkembang menjadi skandal
+akuntansi yang sangat merugikan.
+Skandal akuntansi telah berkembang
+secara luas, seperti halnya di Amerika Serikat.
+Spathis (2002) menjelaskan bahwa di USA,
+kecurangan akuntansi yang menimpa Enron
+menimbulkan kerugian yang sangat besar di
+hampir seluruh industri. Skandal akuntansi
+tersebut diperkirakan menimbulkan kerugian
+bagi Enron sebesar US$50 miliar, ditambah
+lagi kerugian investor sebesar US$32 miliar
+dan ribuan pegawai Enron harus kehilangan
+dana pensiun mereka sekitar US$1 miliar.
+Indonesia sebagai negara dengan kondisi
+ekonomi yang belum stabil juga terkena
+wabah meluasnya kasus skandal akuntansi.
+Berdasarkan indikasi oleh Kementerian
+BUMN dan pemeriksaan Bapepam
+(BAPEPAM 2002) ditemukan adanya salah
+saji dalam laporan keuangan yang mengakibatkan
+lebih saji (overstatement) laba bersih
+untuk tahun yang berakhir 31 Desember
+2001 sebesar Rp 32,7 miliar yang merupakan
+2,3 % dari penjualan dan 24,7% dari laba
+bersih. Maraknya skandal kecurangan akuntansi
+di Indonesia juga diindikasikan dengan
+adanya likuidasi beberapa bank, diajukannya
+manajemen BUMN dan swasta ke pengadilan,
+kasus kejahatan perbankan, manipulasi pajak,
+korupsi di komisi penyelenggara pemilu, dan
+DPRD (Soselisa dan Mukhlasin 2008).
+Pendeteksian terhadap financial statement
+fraud tidak selalu mendapatkan titik
+terang karena berbagai motivasi yang mendasarinya
+serta banyaknya metode untuk
+melakukan financial statement fraud (Brennan
+dan McGrath 2007). Corporate governance
+seringkali dikaitkan dengan fraudulent financial
+reporting. Pernyataan itu dibuktikan
+dengan penelitian Dechow, Sloan, dan Sweeney
+(1996) yang menemukan bahwa kejadian
+kecurangan paling tinggi terjadi pada perusahaan
+yang lemah corporate governancenya,
+seperti perusahaan yang lebih didominasi oleh
+orang dalam dan cenderung tidak memiliki
+komite audit. Temuan Dechow, Sloan, dan
+Sweneey (1996) diperkuat kembali oleh Dunn
+(2004) yang menyimpulkan bahwa kecurangan
+lebih mungkin terjadi ketika ada
+konsentrasi kekuasaan di tangan orang dalam.
+Dalam rangka memberikan solusi terhadap
+kelemahan dalam prosedur pendeteksian
+kecurangan di dunia, American Institute
+Certified Public Accountant (AICPA
+2002) menerbitkan Statement of Auditing
+Standards No. 99 (SAS No. 99) mengenai
+Consideration of Fraud in a Financial Statement
+Audit pada Oktober 2002. Tujuan
+dikeluarkannya SAS No.99 adalah untuk
+meningkatkan efektivitas auditor dalam mendeteksi
+kecurangan dengan menilai pada
+faktor risiko kecurangan perusahaan. Faktor
+risiko kecurangan yang diadopsi dalam SAS
+No.99 didasarkan pada teori faktor risiko
+kecurangan (Cressey 1953).
+Menurut teori Cressey (1953), terdapat
+tiga kondisi yang selalu hadir dalam tindakan
+fraud yaitu pressure, opportunity dan rationalization
+yang disebut sebagai fraud triangle.
+Ketiga kondisi tersebut merupakan faktor risiko
+munculnya kecurangan dalam berbagai situasi.
+Penelitian di Indonesia tentang deteksi
+kecurangan telah dilakukan sebelumnya oleh
+Sukirman dan Maylia (2013) yang menunjukkan
+bahwa financial stability (ACHANGE),
+external pressure (LEV) dan financial target
+(ROA) dan nature of industry (RECEIVABLE)
+tidak berpengaruh terhadap fraud. Hanya satu
+variabel yang berpengaruh terhadap fraud
+yaitu audit report yang merupakan proksi dari
+rasionalisasi.
+Penelitian ini berbeda dengan yang
+dilakukan Sukirman dan Maylia (2013) dalam
+beberapa hal. Pertama, Sukirman dan Maylia
+(2013) mengidentifikasi perusahaan melakukan
+fraud berdasarkan daftar resmi perusahaan
+yang melakukan pelanggaran sesuai dengan
+laporan Bapepam, sedangkan penelitian ini
+membedakan perusahaan dalam kelompok
+sampel fraud dan non fraud berdasarkan perhitungan
+Model Beneis-M Score (Beneish
+1997). Kedua, variabel independen yang digunakan
+untuk mendeteksi kecurangan dalam
+penelitian Sukirman dan Maylia (2013) terdiri
+dari 5 (lima) variabel, sedangkan penelitian ini menggunakan 7 (tujuh) variabel. Ketiga,
+variabel pengukur rasionalisasi dalam penelitian
+Sukirman dan Maylia (2013) menggunakan
+audit report, sedangkan dalam penelitian
+ini menggunakan pergantian auditor.
+Mengacu pada SAS No. 99 (AICPA
+2002), faktor tekanan yang digunakan dalam
+penelitian ini terdiri dari financial stability,
+external pressure, personal financial need dan
+financial targets. Faktor peluang terdiri dari
+nature of industry dan effective monitoring,
+sedangkan organizational structure tidak
+digunakan sebagai variabel pengukur peluang,
+karena alasan kesulitan data. Faktor yang
+ketiga adalah rasionalisasi. Oleh karena itu
+tujuan penelitian ini adalah untuk mendeteksi
+financial statement fraud dengan analisis
+fraud triangle. Untuk mencapai tujuan tersebut,
+penelitian ini menguji apakah faktor
+tekanan yang terdiri dari financial stability,
+personal financial need, external pressure dan
+financial target dan faktor peluang yang terdiri
+dari nature of industry dan effective
+monitoring serta variabel rasionalisasi mempengaruhi
+financial statement fraud.
+TINJAUAN PUSTAKA DAN PERUMUSAN
+HIPOTESIS
+Fraud Triangle Theory
+Fraud triangle theory merupakan suatu gagasan
+tentang penyebab terjadinya kecurangan yang
+dikemukakan oleh Cressey (1953) yang
+dinamakan fraud triangle. Fraud triangle
+menjelaskan tiga faktor yang hadir dalam setiap
+situasi fraud, yaitu pressure, opportunity dan
+rationalization seperti disajikan pada gambar 1.
+Menurut SAS No.99 (AICPA, 2002)
+terdapat 4 (empat) jenis kondisi yang umum
+terjadi pada pressure yang dapat mengakibatkan
+kecurangan, yaitu financial stability,
+external pressure, personal financial need,
+dan financial targets. Sedangkan opportunity
+terdiri dari 3 (tiga) kategori kondisi, yaitu
+nature of industry, ineffective monitoring, dan
+organizational structure. Komponen terakhir
+yang menyebabkan terjadinya kecurangan
+(fraud) adalah rasionalisasi. Rasionalisasi
+menyebabkan pelaku kecurangan mencari
+pembenaran atas perbuatannya.
+Pressure
+Opportunity
+Rationalization
+Gambar 1: Fraud Triangle (Cressey 1953)
+Financial Stability dan Financial Statement
+Fraud
+Menurut SAS No. 99 (AICPA 2002), manajer
+menghadapi tekanan untuk melakukan financial
+statement fraud ketika stabilitas keuangan
+(financial stability) terancam oleh keadaan
+ekonomi, industri, dan situasi entitas yang
+beroperasi. Financial stability merupakan
+keadaan yang menggambarkan kondisi ketidakstabilan
+keuangan perusahaan (Skousen et al.
+2009).
+Manajemen seringkali mendapatkan
+tekanan untuk menunjukkan bahwa perusahaan
+telah mampu mengelola aset dengan baik
+sehingga laba yang dihasilkannya juga banyak
+dan nantinya akan menghasilkan return yang
+tinggi pula untuk investor. Dengan alasan
+demikian, manajemen memanfaatkan laporan
+keuangan sebagai alat untuk menutupi kondisi
+stabilitas keuangan yang buruk dengan melakukan
+fraud.
+Penelitian yang dilakukan oleh
+Skousen et al. (2009) menunjukkan bahwa
+persentase perubahan total aset (ACHANGE)
+berpengaruh positip terhadap financial statement
+fraud. Berdasarkan uraian tersebut,
+diajukan hipotesis sebagai berikut:
+H1: Financial Stability berpengaruh positif
+terhadap Financial Statement Fraud.
+Personal Financial Need dan Financial
+Statement Fraud
+Personal financial need merupakan suatu
+kondisi ketika keuangan perusahaan turut
+dipengaruhi oleh kondisi keuangan para eksekutif
+perusahaan (Skousen et al. 2009).
+Beasley (1996), Committee of Sponsoring
+Organizations of the Treadway Commission (COSO) (1999), dan Dunn (2004) menunjukkan
+bahwa ketika eksekutif perusahaan memiliki
+peranan keuangan yang kuat dalam perusahaan,
+personal financial need dari eksekutif
+perusahaan tersebut akan turut terpengaruh
+oleh kinerja keuangan perusahaan.
+Adanya kepemilikan saham oleh orang
+dalam perusahaan menyebabkan yang bersangkutan
+merasa punya hak klaim atas penghasilan
+dan aktiva perusahaan sehingga akan
+mempengaruhi kondisi keuangan perusahaan.
+Ketidakjelasan pemisahan antara pemilik dan
+kontrol dari perusahaan memicu para manajer
+sewenang-wenang menggunakan dana perusahaan
+untuk kepentingan pribadi. Contoh
+kepentingan pribadi yang merupakan tekanan
+yang dialami para manajer yang akan mendorong
+terjadinya kecurangan laporan
+keuangan antara lain tekanan keuangan,
+tekanan kebiasaan buruk dan tekanan berkaitan
+dengan pekerjaan. Semakin tinggi persentase
+kepemilikan saham oleh orang dalam
+maka praktek fraud dalam memanipulasi
+laporan keuangan semakin bertambah.
+Penelitian yang dilakukan oleh
+Skousen et al. (2009) menunjukkan bahwa
+persentase kepemilikan saham oleh orang
+dalam (OSHIP) berpengaruh positif terhadap
+financial statement fraud. Berdasarkan uraian
+tersebut, diajukan hipotesis berikut:
+H2: Personal Financial Need berpengaruh
+positif terhadap Financial Statement Fraud.
+External Pressure dan Financial Statement
+Fraud
+External pressure merupakan tekanan yang
+berlebihan bagi manajemen untuk memenuhi
+persyaratan atau harapan dari pihak ketiga.
+Menurut SAS No. 99, saat tekanan berlebihan
+dari pihak eksternal terjadi, maka terdapat
+risiko kecurangan terhadap laporan keuangan.
+Hal ini didukung oleh pendapat Skousen et al.
+(2009) yang menyatakan bahwa salah satu
+tekanan yang seringkali dialami manajemen
+perusahaan adalah kebutuhan untuk mendapatkan
+tambahan utang atau sumber pembiayaan
+eksternal agar tetap kompetitif, termasuk
+pembiayaan riset dan pengeluaran pembangunan
+atau modal.
+Person (1999) menyatakan bahwa
+leverage (LEV) yang lebih besar dapat dikaitkan
+dengan kemungkinan yang lebih besar
+untuk melakukan pelanggaran terhadap perjanjian
+kredit dan kemampuan yang lebih rendah
+untuk memperoleh tambahan modal
+melalui pinjaman. Pernyataan tersebut juga
+diperkuat oleh Lou dan Wang (2009) yang
+menyatakan bahwa ketika perusahaan mengalami
+tekanan eksternal perusahaan, dapat
+diidentifikasi risiko salah saji material yang
+lebih besar akibat kecurangan.
+Penelitian yang dilakukan oleh
+Skousen et al. (2009) menunjukkan bahwa
+persentase total hutang terhadap total aset
+(LEV) berpengaruh positif terhadap financial
+statement fraud. Berdasarkan uraian tersebut,
+diajukan hipotesis sebagai berikut:
+H3: External Pressure berpengaruh positif
+terhadap Financial Statement Fraud.
+Financial Target dan Financial Statement
+Fraud
+Menurut SAS No.99 (AICPA, 2002), financial
+target adalah risiko adanya tekanan berlebihan
+pada manajemen untuk mencapai target keuangan
+yang dipatok oleh direksi atau manajemen,
+termasuk tujuan-tujuan penerimaan
+insentif dari penjualan maupun keuntungan.
+Skousen et al. (2009) mengatakan bahwa
+Return on asset (ROA) sering digunakan dalam
+menilai kinerja manajer dan dalam menentukan
+bonus, kenaikan upah, dan lain-lain.
+Semakin tinggi ROA yang ditargetkan
+perusahaan, maka semakin rentan manajemen
+akan melakukan manipulasi laba yang menjadi
+salah satu bentuk kecurangan sehingga
+memiliki hubungan positif dengan kecurangan
+laporan keuangan. Berdasarkan uraian tersebut,
+diajukan hipotesis sebagai berikut:
+H4: Financial Targets berpengaruh positif
+terhadap Financial Statement Fraud.
+Nature of Industry dan Financial Statement
+Fraud
+Nature of Industry merupakan keadaan ideal
+suatu perusahaan dalam industri. Pada laporan
+keuangan terdapat akun-akun tertentu yang
+besarnya saldo ditentukan oleh perusahaan berdasarkan suatu estimasi, misalnya akun
+piutang tak tertagih dan akun persediaan
+usang. Summers dan Sweeney (1998) mencatat
+bahwa akun piutang dan persediaan
+memerlukan penilaian subjektif dalam memperkirakan
+tidak tertagihnya piutang.
+Summers dan Sweeney, (1998) juga menyatakan
+bahwa manajer akan fokus terhadap
+kedua akun tersebut jika berniat melakukan
+manipulasi pada laporan keuangan.
+Penelitian yang dilakukan oleh
+Summers dan Sweeney (1998) menunjukkan
+bahwa rasio perubahan dalam piutang usaha
+(RECEIVABLE) berpengaruh positif terhadap
+financial statement fraud. Berdasarkan uraian
+tersebut, diajukan hipotesis sebagai berikut:
+H5: Nature of Industry berpengaruh positif
+terhadap Financial Statement Fraud.
+Effective Monitoring dan Financial Statement
+Fraud
+Fraud dapat diminimalkan salah satunya
+dengan mekanisme pengawasan yang baik.
+Komite audit dipercaya dapat meningkatkan
+efektifitas pengawasan perusahaan. Beasly,
+Dana dan Terry (2010) menyatakan bahwa
+anggota komite audit yang lebih besar dapat
+mengurangi insiden fraud.
+Penelitian yang dilakukan oleh
+Skousen et al. (2009) menunjukkan bahwa
+proporsi anggota komite audit independen
+(IND) berpengaruh negatif terhadap kecurangan
+laporan keuangan. Berdasarkan uraian
+tersebut, diajukan hipotesis sebagai berikut:
+H6: Effective monitoring berpengaruh negatif
+terhadap Financial Statement Fraud.
+Rationalization dan Financial Statement Fraud
+Auditor adalah pengawas penting dalam laporan
+keuangan. Informasi tentang perusahaan
+yang terindikasi terjadi kecurangan, biasanya
+juga diketahui dari auditor. Perusahaan yang
+melakukan fraud lebih sering melakukan pergantian
+auditor, karena manajemen perusahaan
+cenderung berusaha mengurangi kemungkinan
+pendeteksian oleh auditor lama
+terkait tindak kecurangan laporan keuangan.
+Lou dan Wang (2009) menyatakan
+bahwa sebuah perusahaan bisa mengganti
+auditor untuk mengurangi kemungkinan pendeteksian
+kecurangan laporan keuangan oleh
+pihak auditor. Loebbecke, Eining, dan
+Willingham (1989) menunjukkan bahwa 36
+persen dari kecurangan dalam sampel mereka
+dituduhkan dalam dua tahun awal masa
+jabatan auditor. Berdasarkan uraian tersebut,
+diajukan hipotesis sebagai berikut:
+H7: Rationalization berpengaruh positif
+terhadap Financial Statement Fraud.
+Kerangka Pemikiran Teoritis
+Dari uraian di atas dapat digambarkan dalam
+kerangka pemikiran teoritis seperti pada
+Gambar 2 di bawah.
+METODA PENELITIAN
+Populasi dan Sampel Penelitian
+Populasi dalam penelitian ini adalah
+perusahaan yang terdaftar (listed) di Bursa Efek
+Indonesia (BEI) tahun 2011-2013. Metode
+pengambilan sampel menggunakan metode
+purposive sampling dengan kriteria berikut:
+1. Perusahaan manufaktur yang terdaftar di
+Busa Efek Indonesia berturut-turut selama
+periode tahun 2011 - 2013.
+2. Perusahaan yang menyajikan annual
+report lengkap dalam website perusahaan
+atau website BEI secara berturut-turut
+selama periode pengamatan.
+3. Perusahaan terindikasi melakukan manipulasi
+(fraud) minimal 1 kali dalam 3
+tahun pengamatan.
+Untuk menentukan apakah perusahaan
+terindikasi melakukan manipulasi (fraud) atau
+tidak, peneliti menggunakan model perhitungan
+Beneish M-Score. Jika Benesih M-Score lebih
+besar dari -2.22 mengindikasikan bahwa
+laporan keuangan telah dimanipulasi dan jika
+skor lebih kecil dari -2.22 maka perusahaan
+dikategorikan sebagai perusahaan yang tidak
+melakukan manipulasi (non fraud).
+
+Sumber : Data Diolah, 2015
+Berdasarkan kriteria tersebut, jumlah
+perusahaan manufaktur yang terindikasi
+melakukan fraud minimal 1 kali dalam 3
+tahun pengamatan adalah sebanyak 30
+perusahaan, sehingga sampel keseluruhan
+selama 3 tahun sebanyak 90 sampel. Dari 90
+sampel terpilih, kemudian diklasifikasikan
+menjadi 2 kelompok sampel, yaitu kelompok
+perusahaan yang terindikasi melakukan fraud
+sebanyak 36 dan yang tidak melakukan fraud
+54. Adapun proses pemilihan sampel disajikan
+pada tabel 1.
+Definisi dan Pengukuran Variabel Penelitian
+Variabel dependen
+Variabel dependen dalam penelitian ini adalah
+financial statement fraud (FRAUD) yang
+diukur dengan menggunakan model Beneish
+M-Score. Beneish M-Score diukur dengan
+menggunakan 8 (delapan) rasio keuangan
+untuk mengidentifikasikan apakah perusahaan
+memiliki indikasi untuk memanipulasi pendapatan
+dalam laporan keuangan (Beneish
+1997). Delapan rasio keuangan dan pengukurannya
+disajikan pada tabel 2.
+Setelah dilakukan perhitungan kedelapan
+rasio tersebut, kemudian diformulasikan
+kedalam rumus Beneish M Score Model:
+M-Score = -4.84 + 0.920 DSRI + 0.528 GMI +
+0.404 AQI + 0.892 SGI + 0.115
+DEPI - 0.172 SGAI - 0.327 LVGI
++ 4.697 TATA
+
+Jika Benesih M-Score lebih besar dari -2.22,
+dikategorikan sebagai perusahaan yang melakukan
+fraud. Sedangkan jika skor lebih kecil
+dari -2.22, dikategorikan sebagai perusahaan
+yang tidak melakukan fraud (non fraud).
+Selanjutnya perusahaan yang melakukan fraud
+diberi skor 1 dan yang tidak melakukan fraud
+(non fraud) diberi skor 0.
+Variabel independen
+Variabel independen dalam penelitian ini
+merupakan variabel yang dikembangkan dari
+ketiga komponen fraud triangle, yaitu (1)
+Pressure, (2) Opportunity dan (3) Rationalization.
+Pada penelitian ini pengukuran variabel
+independen mengacu pada Skousen et al.
+(2009), akan tetapi tidak memasukkan variabel
+organizational structure, karena kesulitan
+memperoleh data. Tabel 3 berikut menyajikan
+variabel independen dan pengukurannya.
+
+Metode Analisis Data
+Metode analisis data yang digunakan untuk
+menguji hipotesis adalah model regresi
+logistik dengan rumus:
+FRAUD = α + β1 . ACHANGE + β2 . OSHIP +
+β3 . LEV + β4 . ROA + β5 .
+RECEIVABLE + β6 . IND + β7 .
+AUDCHANGE + €
+Keterangan :
+FRAUD: variabel dummy, kode 1 (satu) untuk
+perusahaan yang melakukan kecurangan laporan
+keuangan, kode 0 (nol) untuk yang tidak
+α : konstanta
+β : koefisien variabel
+ACHANGE: rasio perubahan aset selama dua
+tahun
+OSHIP : komposisi saham yang dimiliki manajemen
+LEV : rasio leverage
+ROA : rasio return on asset (ROA)
+RECEIVABLE: rasio perubahan piutang usaha
+IND : proporsi dewan komisaris independen
+AUDCHANGE : pergantian auditor
+€ : error term
+Selain itu juga dilakukan pengujian tambahan
+yaitu dengan Independent Sample T-Test untuk
+menguji perbedaan karakteristik dari kedua
+kelompok sub sampel fraud dan non fraud
+berdasarkan 7 (tujuh) variabel independen.
+HASIL DAN PEMBAHASAN
+Deskripsi Data
+Sebelum dilakukan pengujian hipotesis,
+terlebih dahulu disajikan deskripsi data variabel
+penelitian yang meliputi nilai minimum,
+maksimun, mean dan standar deviasi pada tabel
+4. Panel A menyajikan deskripsi data untuk
+total sampel, Panel B untuk sub sampel fraud
+dan Panel C untuk sub sampel non fraud.
+
+Hasil uji hipotesis penelitian dengan model
+regresi logistik disajikan pada tabel 5.
+Langkah pertama yang dilakukan adalah
+menilai kelayakan model regresi. Berdasarkan
+hasil uji Hosmer and Lemeshow diperoleh
+nilai Chi-square sebesar 13,415 dengan sig
+0,098. Hal ini menunjukkan bahwa model
+mampu memprediksi nilai observasi karena
+cocok dengan data observasinya.
+Langkah kedua adalah menilai keseluruhan
+model regresi dengan membandingkan
+nilai -2 Log Likelihood Block Number = 0
+dan -2 Log Likelihood Block Number = 1.
+Adanya penurunan yang signifikan nilai -2
+Log Likelihood Block Number = 0 sebesar
+121,143 menjadi 101,682 pada model -2 Log
+Likelihood Block Number = 1, menunjukkan
+bahwa model regresi dengan memasukkan
+semua variabel independen lebih baik atau
+dengan kata lain model yang dihipotesiskan fit
+dengan data.
+Prediksi ketepatan model juga dapat
+menggunakan matrik klasifikasi yang menghitung
+nilai estimasi yang benar dan yang
+salah pada variable dependen. Matrik klasifikasi
+menunjukkan kekuatan prediksi dari
+model regresi untuk memprediksi kemungkinan
+terjadinya kecurangan. Hasil nilai Uji
+klasifikasi disajikan pada tabel 6.
+Berdasarkan tabel 6 di atas menunjukkan
+bahwa secara keseluruhan 71,1% sampel
+dapat diprediksikan dengan tepat oleh model
+regresi logistik ini. Tingginya persentase ketepatan
+tabel klasifikasi tersebut mendukung
+tidak adanya perbedaan yang signifikan terhadap
+data hasil prediksi dan data observasinya
+yang menunjukkan sebagai model regresi
+logistik yang baik.
+Langkah selanjutnya adalah menguji
+pengaruh dari masing-masing variabel independen
+terhadap variabel dependennya.
+
+Pengaruh Financial Stability Terhadap
+Financial Statement Fraud
+Berdasarkan tabel 05, koefisien variabel
+ACHANGE bernilai positif 3,152 dengan nilai
+signifikansi 0,047, artinya financial stability
+(ACHANGE) berpengaruh positif signifikan
+terhadap financial statement fraud. Hasil ini
+mengindikasikan bahwa semakin tinggi
+kondisi ketidakstabilan keuangan perusahaan,
+maka kemungkinan perusahaan melakukan
+financial statement fraud juga semakin tinggi.
+Hasil ini sesuai dengan pernyataan
+Skousen et al. (2009) bahwa manajer menghadapi
+tekanan untuk melakukan financial statement
+fraud ketika stabilitas keuangan (financial
+stability) terancam oleh keadaan ekonomi,
+industri, dan situasi entitas yang beroperasi.
+Artinya dengan adanya ketidakstabilan keuangan,
+akan memicu terjadinya pelanggaranpelanggran
+yang dilakukan manajemen.
+Loebbecke et al. (1989) menunjukkan
+bahwa kasus dimana perusahaan mengalami
+pertumbuhan industri di bawah rata-rata,
+manajemen mungkin melakukan manipulasi
+laporan keuangan untuk meningkatkan prospek
+perusahaan. Kondisi perusahaan yang
+tidak stabil akan menimbulkan tekanan bagi
+manajemen karena kinerja perusahaan terlihat
+menurun di mata publik sehingga akan menghambat
+aliran dana investasi di tahun mendatang.
+Pengaruh Personal Financial Need
+Terhadap Financial Statement Fraud
+Koefisien regresi personal financial need
+(OSHIP) adalah -0,401 dengan signifikansi
+sebesar 0,895, maka dapat disimpulkan bahwa
+personal financial need (OSHIP) tidak berpengaruh
+signifikan terhadap financial statement
+fraud. Hasil ini kemungkinan disebabkan
+karena masih rendahnya rata-rata kepemilikan
+manajerial dalam perusahaan sampel, yaitu
+sebesarr 0,062571 atau 6,2571%.
+Kepemilikan manajerial yang rendah
+mengindikasikan bahwa pada perusahaan
+sampel telah terjadi pemisahan yang jelas
+antara pemegang saham sebagai pemilik yang
+mengontrol jalannya perusahaan dan manajer
+sebagai pengelola perusahaan. Adanya pemisahan
+yang jelas menyebabkan manajer tidak
+mempunyai kemampuan yang cukup untuk
+melakukan kecurangan laporan keuangan.
+Hasil penelitian ini tidak sesuai dengan penelitian
+yang dilakukan oleh Skousen et al.
+(2009) yang menyimpulkan bahwa persentase
+kepemilikan saham oleh orang dalam (OSHIP)
+berpengaruh positif terhadap financial statement
+fraud.
+Pengaruh External Pressure Terhadap
+Personal Financial Need
+Koefisien regresi variabel LEVERAGE bernilai
+positif 2,994 dengan nilai signifikansi
+sebesar 0,049 sehingga dapat disimpulkan
+bahwa external pressure (LEVERAGE) berpengaruh
+positif signifikan terhadap financial
+statement fraud. Artinya semakin besar
+tekanan dari pihak eksternal maka akan
+meningkatkan potensi manajemen untuk
+melakukan kecurangan laporan keuangan.
+Hasil penelitian ini sejalan dengan
+pendapat Person (1999) yang menyatakan
+bahwa leverage (LEV) yang lebih besar dapat
+dikaitkan dengan kemungkinan yang lebih
+besar untuk melakukan pelanggaran terhadap
+perjanjian kredit dan kemampuan yang lebih
+rendah untuk memperoleh tambahan modal
+melalui pinjaman. Hasil ini juga mendukung
+pendapat Lou dan Wang (2009) yang menyatakan
+bahwa ketika perusahaan mengalami
+tekanan eksternal perusahaan, dapat diidentifikasi
+risiko salah saji material yang lebih
+besar akibat kecurangan. Hasil penelitian ini
+sesuai dengan penelitian Skousen et al. (2009)
+yang menyimpulkan bahwa external pressure
+(LEVERAGE) berpengaruh positif terhadap
+financial statement fraud.
+Pengaruh Financial Target Terhadap
+Financial Statement Fraud
+Koefisien variabel ROA bernilai positif 2,608
+dengan signifikansi sebesar 0,545, maka dapat
+disimpulkan bahwa financial target (ROA)
+tidak berpengaruh signifikan terhadap financial
+statement fraud. Artinya bahwa besar kecilnya
+tingkat ROA yang ditargetkan perusahaan tidak
+mempengaruhi manajemen untuk melakukan
+kecurangan laporan keuangan.
+
+Hasil penelitian ini berbeda dengan
+temuan Skousen et al. (2009) yang menyimpulkan
+bahwa financial target (ROA) berpengaruh
+positif terhadap financial statement
+fraud. Tidak berpengaruhnya ROA terhadap
+financial statement fraud pada penelitian ini
+kemungkinan disebabkan karena manajer
+menganggap bahwa besarnya target ROA
+perusahaan masih dinilai wajar dan bisa dicapai.
+Manajer tidak menganggap bahwa
+target ROA tersebut sebagai target keuangan
+yang sulit untuk dicapai sehingga besarnya
+target ROA tidak memicu terjadinya kecurangan
+laporan keuangan yang dilakukan oleh
+manajemen.
+Pengaruh Nature of Industry Terhadap
+Financial Statement Fraud
+Koefisien variabel RECEIVABLE bernilai
+positif 0,059 dengan nilai signifikansi sebesar
+0,994, maka dapat disimpulkan bahwa nature
+of industry (RECEIVABLE) tidak berpengaruh
+signifikan terhadap financial statement
+fraud, rtinya bahwa besar kecilnya rasio perubahan
+dalam piutang usaha tidak memicu
+manajemen untuk melakukan kecurangan
+laporan keuangan.
+Hasil penelitian ini berbeda dengan
+penelitian yang dilakukan oleh Summers dan
+Sweeney (1998) yang menyimpulkan bahwa
+nature of industry (RECEIVABLE) berpengaruh
+positif terhadap financial statement fraud.
+Tidak berpengaruhnya variabel nature
+of industry (RECEIVABLE) terhadap financial
+statement fraud pada penelitian ini
+kemungkinan disebabkan nilai rata-rata perubahan
+piutang usaha (RECEIVABLE) pada
+sub sampel fraud dan sub sampel non fraud
+besarnya tidak jauh berbeda, yaitu masingmasing
+sebesar 0,012911 pada sub sampel
+fraud dan 0,007122 pada sub sampel non
+fraud. Hal ini mengindikasikan bahwa perusahaan
+yang masuk dalam kelompok sub
+sampel fraud maupun sub sampel non fraud
+mempunyai sifat industri yang tidak berbeda,
+sehingga RECEIVABLE tidak dapat digunakan
+untuk mendeteksi terjadinya kecurangan
+laporan keuangan dalam perusahaan.
+Pengaruh Effective Monitoring Terhadap
+Financial Statement Fraud
+Koefisien variabel effective monitoring (IND)
+sebesar -22,705 dengan nilai signifikansi sebesar
+0,009, maka disimpulkan bahwa effective
+monitoring (IND) berpengaruh negatiF
+signifikan terhadap financial statement fraud.
+Artinya bahwa semakin tinggi efektifitas
+pengawasan perusahaan akan menurunkan
+potensi manajemen untuk melakukan kecurangan
+laporan keuangan.
+Hasil penelitian ini sesuai dengan
+Skousen et al. (2009) yang menyimpulkan
+bahwa effective monitoring (IND) berpengaruh
+negatip terhadap financial statement fraud.
+Fraud dapat diminimalkan salah satunya
+dengan mekanisme pengawasan yang baik.
+Komite audit dipercaya dapat meningkatkan
+efektifitas pengawasan perusahaan. Artinya
+bahwa semakin besar proporsi komite audit
+independen, maka proses pengawasan yang
+dilakukannya akan semakin efektif sehingga
+akan menurunkan potensi manajemen untuk
+melakukan kecurangan laporan keuangan.
+Pengaruh Rationalization Terhadap Financial
+Statement Fraud
+Koefisien variabel AUDCHANGE bernilai
+positif 0,984 dengan nilai signifikansi sebesar
+0,228, maka dapat disimpulkan bahwa rationalization
+(AUDCHANGE) tidak berpengaruh
+signifikan terhadap financial statement fraud.
+Artinya bahwa pergantian auditor yang dilakukan
+perusahaan tidak dapat digunakan
+untuk mendeteksi terjadinya kecurangan
+laporan keuangan dalam perusahaan.
+Hasil penelitian ini berbeda dengan
+temuan Sorenson et al. (1983) dan Skousen et
+al. (2009) yang menunjukkan bahwa rationalization
+(AUDCHANGE) berpengaruh positif
+terhadap financial statement fraud. Hasil ini
+kemungkinan disebabkan karena perusahaan
+sampel yang melakukan pergantian auditor,
+bukan disebabkan perusahaan ingin mengurangi
+kemungkinan pendeteksian kecurangan
+laporan keuangan oleh auditor lama, tetapi
+lebih dikarenakan perusahaan ingin mentaati
+Peraturan Menteri Keuangan Republik
+Indonesia Nomor 17/PMK.01/2008 pasal 3 ayat 1 yang menyatakan bahwa pemberian
+jasa audit umum atas laporan keuangan dari
+suatu entitas dapat dilakukan paling lama
+untuk 6 (enam) tahun buku berturut-turut oleh
+KAP yang sama dan 3 (tiga) tahun berturutturut
+oleh auditor yang sama kepada satu klien
+yang sama.
+Pengujian Tambahan
+Pengujian tambahan dilakukan dengan uji
+beda Independend Sample T-Test untuk
+menguji apakan masing-masing variabel
+independen dalam penelitian ini mempunyai
+karakteristik yang berbeda secara signifikan
+pada kedua kelompok sub sampel penelitian.
+Hasil pengujian dengan Independent Sample
+T-Test disajikan pada tabel 7.
+Berdasarkan tabel 7 di atas, dapat
+disimpulkan bahwa variabel external pressure
+(LEV) dan effective monitoring (IND) berbeda
+secara signifikan pada subsampel perusahaan
+yang melakukan fraud dan yang tidak melakukan
+fraud. Artinya berdasarkan uji beda
+Independent sample T-Test, kedua variabel
+tersebut dapat digunakan untuk mendeteksi
+potensi kecurangan yang terjadi pada perusahaan.
+Semakin tinggi leverage dan semakin
+kecil proporsi komite audit independen, maka
+potensi terjadinya kecurangan laporan keuangan
+dalam perusahaan akan semakin
+tinggi. Hasil ini mendukung hasil pengujian
+hipotesis ketiga dan keenam dengan menggunakan
+analisis regresi logistik.
+SIMPULAN
+Berdasarkan pengujian terhadap 7 (tujuh)
+hipotesis yang dilakukan dengan menggunakan
+analisis regresi logistik, disimpulkan sebagai
+berikut: 1) Financial stability
+(ACHANGE) dan external pressure (LEVERAGE)
+berpengaruh positif signifikan terhadap
+kecurangan laporan keuangan. Hal ini
+mengindikasikan bahwa perusahaan yang
+mempunyai ketidakstabilan keuangan dan
+tekanan eksternal yang tinggi, manajemen
+mempunyai potensi yang lebih tinggi dalam
+melakukan kecurangan laporan keuangan.
+2)Variabel effective monitoring (IND) berpengaruh
+negatif signifikan terhadap financial
+statement fraud. Hasil ini mengindikasikan
+bahwa semakin besar proporsi komite audit
+independen, maka proses monitoring terhadap
+peusahaan semakin efektif sehingga akan
+menurunkan potensi manajemen untuk melakukan
+kecurangan laporan keuangan. 3)
+Variabel personal financial need (OSHIP),
+financial target (ROA), nature of industry
+(RECEIVABLE) dan rationalization
+(AUDCHANGE) tidak berpengaruh signifikan
+terhadap kecurangan laporan keuangan. Artinya
+keempat variabel tersebut tidak mampu
+mendeteksi potensi kecurangan yang terjadi
+dalam perusahaan manufaktur.
+
+Implikasi
+Penelitian ini memberi kontribusi bagi pihakpihak
+yang berkepentingan terhadap deteksi
+financial statement fraud, seperti auditor dan
+pemerintah dalam menilai potensi terjadinya
+fraud dalam perusahaan. Semakin tinggi
+perubahan total aset dan LEVERAGE serta
+semakin rendah proporsi komite audit
+independen dalam perusahaan, maka potensi
+terjadinya kecurangan laporan keuangan
+perusahaan tersebut semakin besar.
+Keterbatasan dan Saran
+Dalam penelitian ini terdapat beberapa keterbatasan
+yang kemungkinan dapat mempengaruhi
+hasil penelitian, antara lain: 1) Variabel
+yang digunakan untuk mendeteksi financial
+statement fraud pada penelitian ini hanya
+sebatas variabel yang dikembangkan dari
+Fraud Triangel Theory, yaitu tekanan, kesempatan
+dan rasionalisasi. Disarankan untuk
+menambahkan variabel independen yang dapat
+digunakan untuk mendeteksi terjadinya financial
+statement fraud, misalnya manajemen
+laba, perataan laba dan unexpected audit fee
+seperti digunakan dalam penelitian Hribar,
+Kravet, dan Wilson (2014). 2) Pengukuran
+variabel rasionalisasi dengan menggunakan
+proksi pergantian auditor (AUDITCHANGE),
+sebaiknya dikaji secara lebih baik untuk
+memastikan bahwa pergantian auditor tersebut
+bukan disebabkan karena perusahaan melaksanakan
+Peraturan Menteri Keuangan Republik
+Indonesia Nomor 17/PMK.01/2008
+pasal 3 ayat 1. Caranya adalah hanya mengelompokkan
+sebagai sampel perusahaan yang
+melakukan pergantian auditor (AUDITCHANGE)
+untuk perusahaan yang melakukan
+pergantian auditor dan laporan keuangan
+tahun sebelumnya mendapatkan opini selain
+wajar tanpa pengecualian (unqualified opinion).

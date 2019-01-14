@@ -1,0 +1,114 @@
+﻿ABSTRAK
+Tujuan dari skripsi ini adalah menyelesaikan masalah alokasi lahan yang didasarkan
+pada pengepakan dua dimensi persegi dengan menggunakan firefly algorithm (FA).
+Permasalahan alokasi lahan dapat digambarkan dengan penempatan lahan komponen
+ke dalam lahan yang tersedia. Pada lahan yang tersedia dialokasikan lahan komponen
+dengan dimensi fleksibilitasnya. Tujuan permasalahan alokasi lahan adalah
+meminimalkan total area lahan tersedia yang terpakai akibat dari penempatan lahan
+komponen pada lahan tersedia. Firefly algorithm adalah algoritma yang terinspirasi
+dari perilaku kunang-kunang. Proses firefly algorithm diawali dengan inisialisasi
+parameter, kemudian membangkitkan populasi awal firefly secara random, menghitung
+tinggi lahan yang terpakai dengan menggunakan algoritma pengisian rekursif,
+menghitung nilai intensitas cahaya, membandingkan intensitas cahaya tiap firefly,
+update solusi baru, menentukan G-best, dan proses berlanjut sampai maksimal iterasi
+dipenuhi. Data yang digunakan adalah data 13 lahan komponen dan data kedua adalah
+data 75 lahan komponen. Program firefly algorithm untuk permasalahan alokasi lahan
+dibuat dengan bahasa pemograman C++ pada Borland C++ 5.02. Fungsi tujuan terbaik
+berdasarkan firefly algorithm didapatkan untuk data kecil diperoleh 85 feet, sedangkan
+untuk data besar diperoleh 247 feet.
+Kata Kunci: Alokasi Lahan, Firefly Algorithm, Metaheuristik.
+
+BAB I
+PENDAHULUAN
+1.1 Latar Belakang
+Pada era sekarang ini banyak alokasi penggunaan lahan yang tidak
+efisien dan tidak sesuai dengan tata letak lahan yang baik. Hal tersebut
+menimbulkan dampak negatif, diantaranya meningkatnya ketidakteraturan
+tata letak lahan yang rapi, kerusakan lingkungan, dan hilangnya lahan yang
+seharusnya dapat digunakan secara optimal. Penggunaan lahan dapat
+diartikan sebagai proses alokasi sejumlah aktivitas atau fungsi lahan yang
+berbeda (pertanian, industri, rekreasi atau konservasi) ke dalam unit area
+yang lebih spesifik (Stewart et al, 2007).
+Masalah penataan lahan (land allocation problems) yakni digunakan
+untuk mengendalikan segala bentuk efisiensi lahan yang telah ditetapkan,
+agar terwujudnya tata letak lahan yang rapi, aman, nyaman produktif, dan
+berkelanjutan. Untuk meminimalkan dampak negatif yang terjadi, perlu
+dilakukan suatu upaya pencegahan. Salah satunya dengan membuat
+penyelesaian yang dapat mengoptimalkan alokasi penggunaan lahan yang
+didasarkan pada pengepakan segi empat dua dimensi (Callaghan, 1999). 
+
+Masalah pengepakan dua dimensi sendiri memiliki berbagai macam
+jenis, diantaranya pengepakan segi empat dua dimensi. Secara khusus,
+masalah pengepakan segi empat dua dimensi telah banyak diteliti dalam
+beberapa dekade terakhir, karena memiliki berbagai aplikasi dalam industri,
+misalnya industri kayu, kaca dan kain, koran paging, perencanaan lantai dan
+sebagainya (Chan & Markov, 2004)
+Masalah pengepakan segi empat dua dimensi bertujuan meminimalkan
+panjang tumpukan item yang dikemas dalam objek persegi dua dimensi atau
+meminimalkan area yang ‘terbuang’ akibat dari penempatan item pada suatu
+objek persegi dua dimensi tersebut (Hopper and Turton, 1999).
+Permasalahan land allocation yang didasarkan pada prosedur
+permasalahan pengepakan dua dimensi ini, secara umum ada dua langkah
+untuk menyelesaikan masalah penataan lahan (land allocation problems).
+Pertama adalah menentukan jumlah total lahan dari setiap lahan komponen,
+dan kedua adalah menentukan lokasi yang optimal dari setiap masing-masing
+lahan komponen sehingga penggunaan dari lahan yang tersedia menjadi
+optimal. Lahan komponen adalah suatu lahan yang akan dialokasikan ke
+dalam suatu area lahan, yaitu lahan yang tersedia (Callaghan, 1999).
+Agar penataan lahan (land allocation) optimal, maka diperlukan adanya
+optimasi. Salah satu penerapan dari optimasi pengepakan segi empat dua
+dimensi ini adalah dengan menggunakan metode metaheuristik. Metode metaheuristik dapat didefinisikan sebagai metode lanjut (advanced) berbasis
+heuristic untuk menyelesaikan persoalan optimisasi secara efisien. Salah satu
+dari metode metaheuristik tersebut adalah firefly algorithm (Talbi, 2009).
+Salah satu dari metode metaheuristik tersebut adalah Firefly Algorithm
+(FA). Firefly Algorithm (FA) terinspirasi dari perilaku berkedipnya kunangkunang.
+Setiap kunang-kunang akan tertarik untuk bergerak mendekati
+kunang-kunang yang memancarkan cahaya yang lebih terang daripada
+dirinya sendiri. Algoritma ini mengamati kunang-kunang pada titik
+posisinya, yaitu titik awal kunang-kunang dan titik akhir pergerakan kunangkunang.
+Cahaya yang dipancarkan oleh kunang-kunang disebut intensitas
+cahaya. Intensitas cahaya inilah yang nantinya akan mempengaruhi proses
+pergerakan dari setiap kunang-kunang (Yang, 2008).
+Secara khusus, meskipun Firefly Algorithm memiliki banyak kemiripan
+dengan algoritma lain yang didasarkan pada kecerdasan kawanan, seperti
+yang terkenal: Particle Swarm Optimization (PSO), Artificial Bee Colony
+optimization (ABC), dan Bacterial Foraging Algorithm (BFA), algoritma ini
+jauh lebih sederhana baik dalam konsep dan implementasi. Selain itu Firefly
+Algorithm sangat efisien dan dapat mengungguli algoritma konvensional
+lainnya, seperti Genetic Algorithm, untuk memecahkan banyak masalah
+optimasi (Ilmamsyah, 2012).
+
+Untuk itu penulis tertarik untuk mengangkat masalah land allocation
+yang didasarkan pengepakan segi empat dua dimensi dengan menggunakan
+firefly algorithm.
+. 1.2 Rumusan Masalah
+Berdasarkan uraian latar belakang di atas, maka penulis merumuskan
+permasalahan dalam proposal skripsi ini adalah sebagai berikut:
+1. Bagaimana menyelesaikan masalah pendekatan firefly algorithm
+untuk persoalan land allocation?
+2. Bagaimana membuat program dari pendekatan firefly algorithm
+untuk persoalan land allocation?
+3. Bagaimana mengimplementasikan program tersebut pada contoh
+kasus ?
+1.3 Tujuan
+Tujuan dari proposal skripsi ini adalah sebagai berikut:
+1. Menyelesaikan masalah pendekatan firefly algorithm untuk
+persoalan land allocation.
+2. Membuat program dari pendekatan firefly algorithm untuk persoalan
+land allocation.
+3. Mengimplementasikan program pada contoh kasus.
+
+1.4 Manfaat
+Manfaat dari proposal skripsi ini adalah sebagai berikut:
+1. Menambah wawasan tentang persoalan Riset Operasional khususnya
+untuk masalah pendekatan firefly algorithm untuk persoalan land
+allocation.
+2. Memberikan gambaran tentang optimasi masalah land allocation
+dengan firefly algorithm (FA).
+1.5 Batasan masalah
+Batasan masalah dari proposal skripsi ini adalah sebagai berikut:
+1. Lahan komponen dan lahan yang tersedia berbentuk persegi.
+2. Tidak mempertimbangkan aktifitas antar lahan komponen dan hanya
+memperhatikan penempatan.
+3. Setiap lahan komponen sudah dipersiapkan fasilitas yang dibutuhkan
+oleh lahan komponen tersebut.

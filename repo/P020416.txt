@@ -1,0 +1,64 @@
+﻿Misalkan 𝐺 graf terhubung dengan 𝑉(𝐺) himpunan titik pada graf 𝐺. Misalkan
+𝑊 = (𝑤1, 𝑤2, … , 𝑤𝑘 ) himpunan titik pada graf 𝐺 yang anggotanya telah
+ditentukan. Representasi titik 𝑢, untuk setiap 𝑢 ∈ 𝑉(𝐺) terhadap 𝑊 yang
+dinotasikan 𝑟(𝑢|??) di 𝐺 adalah (𝑢|𝑊) = (𝑑(𝑢, 𝑤1), 𝑑(𝑢, 𝑤2), … , 𝑑(𝑢, 𝑤𝑘 )).
+Himpunan 𝑊 disebut himpunan pemisah pada 𝐺 jika untuk setiap 𝑢, 𝑣 pada 𝐺 dan
+𝑢 ≠ 𝑣 mengakibatkan 𝑟(𝑢|𝑊) ≠ 𝑟(𝑣|𝑊). Dimensi metrik pada 𝐺, yang
+dinotasikan dengan 𝑑𝑖??(𝐺), adalah kardinalitas minimum dari semua himpunan
+pemisah pada 𝐺.
+Kata Kunci: dimensi metrik, himpunan pemisah, representasi titik
+
+
+1
+1. PENDAHULUAN
+1.1 Latar Belakang dan Masalah
+Teori Graf merupakan salah satu cabang ilmu matematika yang dapat
+diaplikasikan untuk membantu menyelesaikan suatu permasalahan dalam
+kehidupan nyata. Suatu permasalahan akan lebih mudah dimengerti dan lebih
+sederhana apabila dapat direpresentasikan dalam bentuk graf sehingga lebih
+mudah mencari solusi dari setiap permasalahan tersebut. Beberapa contoh
+permasalahan dalam kehidupan sehari-hari yang dapat direpresentasikan
+dengan teori graf adalah masalah penjadwalan, penggambaran struktur
+organisasi, penentuan jalur transportasi terpendek, penggambaran struktur
+kimia, dan lain-lain.
+
+Suatu Graf 𝐺 adalah suatu pasangan himpunan (𝑉, 𝐸) dimana 𝑉(𝐺) adalah
+himpunan tak kosong dan berhingga dari objek-objek yang disebut titik
+(vertex), dan 𝐸(𝐺) adalah himpunan dari pasangan tak terurut dari titik-titik
+berbeda di 𝑉 yang disebut sisi (edge). Setiap sisi menghubungkan tepat dua
+titik dan setiap titik dapat memiliki banyak sisi yang menghubungkannya
+dengan titik yang lain.
+
+Salah satu kajian dalam teori graf adalah dimensi metrik. Untuk titik 𝑢 dan 𝑣
+dalam graf terhubung 𝐺, jarak 𝑑(𝑢, 𝑣) adalah panjang dari lintasan terpendek
+antara 𝑢 dan 𝑣 pada 𝐺. Untuk himpunan terurut 𝑊 = (𝑤1, 𝑤2, … , 𝑤𝑘 ) dari
+titik-titik dalam graf terhubung 𝐺 dan titik 𝑣 pada 𝐺, 𝑟(𝑣|𝑊) =
+(𝑑(𝑣, 𝑤1), 𝑑(𝑣, 𝑤2), … , 𝑑(𝑣, 𝑤𝑘 )) menunjukkan representasi dari 𝑣 pada 𝑊.
+Himpunan 𝑊 dinamakan himpunan pembeda (resolving set) 𝐺 jika titik-titik 𝐺
+mempunyai representasi berbeda. Kardinalitas minimum dari himpunan
+pembeda disebut dimensi metrik dari 𝐺 dinotasikan dengan 𝑑𝑖𝑚(𝐺) (Permana
+dan Darmaji, 2012).
+
+Berdasarkan uraian di atas, penulis ingin melakukan penelitian tentang dimensi
+metrik pada beberapa kelas graf dan beberapa aplikasi dimensi metrik dengan
+merujuk pada jurnal Chartrand dan Zhang (2003). Oleh karena itu, penulis
+memilih Studi tentang Dimensi Metrik pada Suatu Graf dan beberapa
+Aplikasinya sebagai judul penelitian.
+
+
+1.2 Tujuan Penelitian
+Tujuan penulisan ini adalah mengetahui dimensi metrik pada suatu graf dan
+beberapa aplikasinya.
+
+1.3 Batasan Masalah
+Dalam penelitian ini pembahasan dibatasi hanya untuk sifat-sifat dimensi
+metrik, dimensi metrik pada beberapa kelas graf, dan aplikasi dimensi metrik.
+
+1.4 Manfaat Penelitian
+Manfaat yang diharapkan dari hasil penelitian ini adalah:
+1. Menambah pengetahuan penulis tentang dimensi metrik suatu graf dan
+aplikasinya.
+2. Memberikan sumbangan pemikiran untuk memperluas dan memperdalam
+wawasan di bidang aplikasi graf, khususnya dimensi metrik suatu graf.
+3. Memberikan masukan bagi para penulis lain yang ingin lebih lanjut
+mengkaji tentang dimensi metrik suatu graf.

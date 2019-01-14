@@ -1,0 +1,50 @@
+﻿
+ABSTRAK 
+Proses antrian adalah suatu proses yang berhubungan dengan kedatangan seorang pelanggan pada suatu fasilitas pelayanan, kemudian menunggu dalam suatu baris (antrian) apabila semua pelayannya sibuk, dan akhirnya meninggalkan fasilitas tersebut setelah memperoleh pelayanan. Proses antrian dapat terjadi dimana saja, termasuk di Padepokan Silaturahmi Semarang. Padepokan Silaturahmi pada waktu-waktu tertentu dihadapkan pada situasi dimana pasien yang datang tidak dapat dilayani secara langsung sehingga pasien harus menunggu dan terjadi penumpukan pasien. Oleh karena itu, diperlukan penerapan teori antrian pada sistem pelayanan di Padepokan Silaturahmi. Dari hasil analisis, model antrian yang digunakan di Padepokan Silaturahmi adalah Multi Channnel Single Phase dimana sistem antrian yang terdapat pada tahap pembekaman untuk laju kedatangan berdistribusi Poisson dan laju pelayanan berdistribusi Eksponensial. Model antrian terbaik pada sistem pelayanan Padepokan Silaturahmi yaitu (M/M/2) : (GD/∞/∞) untuk hari Senin sampai dengan Minggu. 
+Kata kunci : Proses antrian, sistem antrian, model antrian, Padepokan Silaturahmi.
+
+
+ BAB I 
+PENDAHULUAN 
+1.1. Latar Belakang 
+
+Pelayanan kesehatan berkualitas merupakan pelayanan kesehatan yang memuaskan pemakai jasa pelayanan. Hal ini dapat berupa pemeliharaan dan peningkatan pelayanan kesehatan yang berkualitas dengan mengikutsertakan peran aktif seluruh masyarakat. Salah satu contohnya adalah Padepokan Silaturahmi. 
+
+Padepokan Silaturahmi merupakan perusahaan yang bergerak di bidang pengobatan yang menggunakan metode pengobatan secara islami, yaitu dengan Bekam (Al-Hijamah), Berdoa bersama (Ruqyah), Transfer energi batu panas (Al-Qyah), dan Ramuan tradisional. Padepokan Silaturahmi mempunyai misi memberikan pelayanan kesehatan yang berkualitas dan terjangkau oleh masyarakat dalam rangka meningkatkan derajat kesehatan masyarakat. 
+
+Sistem terapi yang diterapkan pada Padepokan Silaturahmi menganjurkan pasien melakukan pengobatan sampai beberapa kali tergantung dari seberapa berat penyakit yang diderita pasien. Penanganan pasien baru dilakukan langsung setelah mendaftar, kecuali untuk pasien baru yang datangnya bersamaan dengan jadwal para pasien terapi. Permasalahan yang sering terjadi adalah terjadinya antrian pada saat pembekaman. Menurut  [3], proses antrian adalah teori yang menyangkut studi matematis dari antrian-antrian atau baris penungguan. Formasi baris-baris penungguan ini tentu saja merupakan suatu fenomena biasa yang terjadi apabila kebutuhan akan suatu pelayanan melebihi kapasitas yang tersedia untuk menyelenggarakan pelayanan itu. Sedangkan tujuan sebenarnya dari teori antrian adalah meneliti kegiatan dari fasilitas pelayanan dalam rangkaian kondisi random dari suatu sistem antrian yang terjadi. 
+
+Pihak Padepokan Silaturahmi perlu melakukan upaya peningkatan kualitas pelayanan. Hal ini dimaksudkan agar citra Padepokan Silaturahmi tersebut baik di mata pasien yang pada akhirnya dapat menjaga loyalitas pasien. Kualitas yang terjaga dapat memberikan suatu dorongan kepada pelanggannya untuk menjalin ikatan yang kuat dengan perusahaan (Padepokan Silaturahmi). Dalam jangka panjang, adanya ikatan ini memungkinkan perusahaan memahami dengan seksama harapan pelanggan dan kebutuhannya. 
+Sebuah tempat pelayanan kesehatan tidak hanya dituntut untuk menyediakan tenaga medis yang handal tetapi juga harus mampu memberikan suatu sistem pembekaman yang tidak memakan waktu lama hingga pelayanan yang diberikan. Elemen tersebut dapat mempengaruhi pandangan pasien terhadap kualitas pelayanan Padepokan Silaturahmi. 
+
+Salah satu masalah yang sering dijumpai oleh Padepokan Silaturahmi berasal dari tahap pembekaman. Hal ini diindikasikan dengan adanya antrian pasien yang cukup panjang dan seringkali tidak teratur. Lamanya prosedur pelayanannya seringkali menimbulkan ketidaknyamanan bagi pasien. Jika hal ini tidak segera ditangani, maka akan menjadi suatu masalah yang serius bagi pihak Padepokan Silaturahmi karena dapat mempengaruhi kepuasan pasien dalam memperoleh layanan kesehatan. Untuk mengatasi terjadi antrian panjang pada pembekaman adalah dengan cara menerapkan teori antrian pada sistem pelayanan di Padepokan Silaturahmi. Oleh karena itu, perlu dilakukan penelitian dimana antrian tersebut terjadi. 
+
+1.2. Perumusan Masalah 
+
+Berdasarkan latar belakang di atas maka dapat diambil perumusan masalah sebagai berikut : 
+1. Menentukan rata-rata waktu tunggu dalam antrian dan rata-rata waktu tunggu dalam sistem di Padepokan Silaturahmi ? 
+2. Bagaimana menentukan model antrian yang tepat di Padepokan Silaturahmi ? 
+3. Berapakah jumlah tenaga medis yang ideal pada tahap pembekaman sehingga sistem pelayanan di Padepokan Silaturahmi dapat bekerja secara optimal ? 
+
+1.3. Pembatasan Masalah 
+
+Batasan-batasan dalam penelitian adalah : 
+1. Penelitian difokuskan pada tahap pembekaman. Hal ini dilatarbelakangi antrian yang terjadi pada tahap pembekaman dinilai kurang teratur. 
+2. Dalam penelitian ini dapat didefinisikan bahwa pasien adalah sebagai pelanggan (customer) yang akan menerima proses pelayanan dan Padepokan Silaturahmi sebagai fasilitas pelayanan. 
+3. Ruang lingkup penelitian mencangkup kedatangan pasien, pelayanan, disiplin antrian, dan jumlah fasilitas pelayanan yang tersedia.. 
+
+1.4. Tujuan Penelitian 
+Tujuan yang ingin dicapai dalam penelitian ini adalah : 
+1. Melakukan analisis dalam menentukan pola kedatangan dan pola pelayanan untuk menentukan model antrian di Padepokan Silaturahmi. 
+2. Melakukan analisis dengan menggunakan teori antrian untuk mengetahui model antrian yang tepat di Padepokan Silaturahmi. 
+3. Menentukan jumlah tenaga medis yang ideal pada tahap pembekaman sehingga sistem pelayanan di Padepokan Silaturahmi dapat bekerja secara optimal. 
+
+1.5. Manfaat Penelitian 
+Manfaat yang diperoleh dari penelitian ini adalah : 
+1. Penelitian ini diharapkan dapat menjadi bahan pembelajaran dan pengembangan pengetahuan bagi penulis serta aplikasi ilmu secara langsung yang diperoleh selama kuliah. 
+2. Bagi Padepokan Silaturahmi, penelitian ini diharapkan dapat menjadi pertimbangan serta masukan dalam menentukan kebijakan untuk meningkatkan kualitas pelayanan. 
+3. Penelitian ini diharapkan dapat menjadi referensi bagi penelitian selanjutnya. 
+
+1.4. Sistematika Penulisan 
+
+Sistematika penulisan Penelitian Tugas Akhir ini dibagi menjadi lima bab yaitu : Bab I Pendahuluan, berisi tentang latar belakang masalah, perumusan masalah, pembatasan masalah, tujuan penelitian, manfaat penelitian dan sistematika penulisan. Bab II Tinjauan Pustaka, menjelaskan tentang teori-teori dasar antrian yang akan dijadikan acuan dalam menyelesaikan permasalahan yang diteliti. Bab III Metode Penelitian, menjelaskan tentang data dan hal-hal yang mendukung dalam pengumpulan dan pengambilan data, serta metode analisis yang digunakan. BAB IV Hasil dan Pembahasan, berisi tentang gambaran umum Padepokan Silaturahmi, hasil penelitian dan analisis yang dilakukan yaitu analisis pola kedatangan pelanggan, analisis pelayanan, penentuan model antrian, analisis ukuran kinerja sistem dan penentuan jumlah tenaga medis yang ideal. Bab V Penutup, berisi tentang kesimpulan dari hasil penelitian dan saran-saran sebagai masukkan untuk pengembangan penelitian selanjutnya.

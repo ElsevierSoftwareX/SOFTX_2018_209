@@ -1,0 +1,30 @@
+
+ Meningkatnya kebutuhan energi dunia dan berkurangnya ketersediaan bahan bakar fosil mendorong kita untuk menemukan energi terbarukan yang ramah lingkungan, salah satunya energi panas bumi. Salah satu daerah potensi energi panas bumi adalah di daerah Wai Selabung, Kabupaten Oku Selatan, Provinsi Sumatera Selatan dengan luas daerah 15 km2. Penyelidikan Gayaberat, Magnetotelurik, dan Geokimia dimaksudkan sebagai upaya mendapatkan gambaran potensi energi tersebut dengan melihat struktur patahan dan sistem panas bumi daerah penyelidikan. Pembentukan sistem panas bumi daerah Wai Selabung dipengaruhi oleh lingkungan vulkanik dan tektonik yang searah sesar Sumatera. Hasil analisa SVD anomali Bouguer residual menunjukan terdapat dua patahan turun dan sebuah patahan naik berarah barat laut-tenggara di daerah Kota Dalam dan Teluk Agung, dan sebuah pola patahan naik hasil SVD anomali Bouguer regional di daerah Sinarmarga. Berdasarkan hasil inversi 3D anomali Bouguer didapatkan dua buah reservoar dengan densitas 1,4-1,7 gr/cm3 dan volume total 15,7 km3 pada kedalaman 1000 meter, Cap rock dengan densitas 2-2,4 gr/cm3 dan resestivitas <20 ohm berupa alterasi vulkanik, dan Heat source dengan densitas 2,4-2,9 gr/cm3 berupa intrusi lava Tebat gayat. Kompilasi terpadu menunjukan temperatur reservoir berdasarkan geotermometer Na-K-Mg sebesar 170oC sehingga didapatkan potensi energi kelas cadangan terduga sebesar 182 MWe. 
+Kata kunci : Panas bumi, Patahan, Gayaberat, Geokimia
+
+
+
+ I. PENDAHULUAN 
+A. Latar Belakang 
+Kebutuhan akan energi yang sangat tinggi pada abad 21 saat ini dan ketersediaan bahan bakar fosil yang semakin berkurang memaksa kita untuk mencari energi terbarukan yang ramah lingkungan. Panas bumi sebagai energi terbarukan dan ramah lingkungan mulai digunakan pada abad 20 saat listrik diproduksi pertama kali dari uap panas bumi di Laderelo, Italia pada tahun 1904. Seiring perjalanan waktu populasi global telah bertambah 2,59 milyar pada tahun 1951 hingga 6,3 milyar pada tahun 2003, dan konsumsi energi global dari 2.710 juta ton metrik batu bara hingga 15.178 juta ton metrik pada tahun yang sama (Harsh dan Sukanta, 2007). 
+
+Indonesia kaya akan potensi panas bumi dry-steam dan hot-water terhubung dengan banyaknya gunung berapi sepanjang 7.000 km yang berbatasan dengan lempeng Indo-australia arah selatan. Konvergensi dan pergerakan strike-slip sepanjang batas lempeng dipercayai mengakibatkan konsentrasi yang besar sistem panas bumi temperatur tinggi dekat dengan pinggir lempeng di Sumatra, Jawa, Nusa Tenggara, dan Halmahera.
+
+Setidaknya ada 70 potensi panas bumi yang sudah diidentifikasi. Salah satunya adalah potensi panas bumi di daerah Wai Selabung, Kabupaten Oku Selatan, Provinsi Sumatra Selatan yang dijadikan sebagai bahan penelitian. Tatanan tektonik daerah penelitian termasuk ke dalam jalur magmatik Sumatra bagian selatan dengan lingkungan vulkanik. Pembentukan sistem panas bumi daerah Wai Selabung dipengaruhi oleh aktivitas vulkanik dan tektonik yang searah dengan sesar Sumatra. Penelitian ini telah dilakukan oleh tim penyelidik Pusat Sumber Daya Geologi Bandung, di daerah panas bumi Wai Selabung Kabupaten Oku Selatan, Provinsi Sumatra Selatan dan merupakan daerah yang diduga memiliki cadangan panas bumi (Pusat Sumber Daya Geologi, 2011). 
+
+Untuk mendeteksi daerah panas bumi tersebut kita menggunakan metode gayaberat. Metode gayaberat adalah metode pasif yang didalamnya termasuk pengukuran akselerasi gayaberat bumi. Variasi dalam gayaberat didasarkan pada perubahan densitas lateral dari batuan bawah permukaan disekitar titik pengukuran. Metode ini bekerja saat target bawah permukaan memiliki densitas yang sangat berbeda dengan densitas daerah sekitarnya (Pedro dan Jose, 2009). 
+Pada penelitian sebelumnya telah diperoleh model 2D anomali Bouguer lengkap dan anomali Bouguer residual struktur bawah permukaan. Permodelan diasosiasikan dengan informasi geologi di daerah tersebut sehingga didapatkan informasi struktur bawah permukaan daerah penelitian. Pada saat ini dibutuhkan model 3D sistem panas bumi Wai Selabung untuk dapat menganalisis sistem panas bumi daerah tersebut secara akurat.
+
+Pada penelitian ini akan dilakukan pemodelan inversi 3D anomali Bouguer lengkap dan melakukan filter Second Vertical Derivative anomali Bouguer lengkap, anomali Bouguer regional dan residual dikorelasikan dengan data resestivitas Magnetotelurik dan data geokimia daerah penelitian. Hal ini dilakukan untuk mengetahui struktur patahan dan model 3D sistem panas bumi beserta karakteristik sistem panas bumi daerah Wai Selabung. 
+
+B. Tujuan Penelitian 
+Tujuan dari penelitian ini adalah : 
+1. Mengetahui struktur patahan daerah penelitian berdasarkan data Second Vertical Derivative anomali Bouguer, anomali Bouguer regional, dan anomali Bouguer residual. 
+2. Mendapatkan model inversi 3D anomali Bouguer daerah penelitian dihubungkan dengan model konseptual sistem panas bumi dan dikorelasikan dengan data resestivitas Magnetotelurik sehingga mendapatkan model sistem panas bumi daerah penelitian. 
+3. Mendapatkan volume reservoar, tipe fluida reservoar, asal fluida reservoar, temperatur fluida reservoar dan estimasi potensi energi sumberdaya kelas cadangan terduga dari analisis data geokimia daerah penelitian.
+
+C. Batasan Masalah 
+Penelitian ini dibatasi pada pengolahan dan analisis data gaya berat untuk mendapatkan struktur patahan daerah Wai Selabung menggunakan filter Second Vertical Derivative dan model sistem panas bumi dengan pemodelan inversi 3D berdasarkan data gayaberat daerah Wai Selabung dikorelasikan dengan data resestivitas Magnetotelurik dan data geokimia untuk analisis karakteristik reservoar. 
+
+D. Manfaat Penelitian 
+Penelitian ini diharapkan dapat bermanfaat sebagai salah satu informasi struktur bawah permukaan daerah Wai Selabung yang dapat digunakan sebagai referensi penelitian lanjutan dan sebagai data pendukung dalam pengembangan daerah panas bumi Wai Selabung.

@@ -1,0 +1,912 @@
+﻿KAJIAN HACCP (Hazard Analysis and Critical Control Point) PENGOLAHAN
+JAMBU BIJI DI PILOT PLANT SARI BUAH UPT. B2PTTG – LIPI SUBANG
+
+
+ABSTRAK
+Buah jambu biji mempunyai kandungan vitamin C dan beta karoten yang berkhasiat sebagai antioksidan dan dapat
+meningkatkan daya tahan tubuh. Salah satu pemanfaatan buah jambu biji adalah dengan mengolahnya menjadi sari
+buah. Pilot plant UPT. B2PTTG-LIPI Subang merupakan salah satu model pengolahan buah jambu biji menjadi sari
+buah. Dalam pengoperasiannya dibutuhkan penerapan HACCP untuk meningkatkan kualitas dan keamanan produk
+sari buah. Oleh karena itu dilakukan kajian HACPP. Kajian HACCP dilakukan menggunakan Panduan Penyusunan
+Rencana HACCP dengan proses penyusunannya mengikuti 7 prinsip sistem HACCP yang direkomendasikan oleh
+Standar Nasional Indonesia. Hasil kajian menunjukkan bahwa yang ditetapkan sebagai CCP adalah proses sortasi dan
+pencucian (untuk menghilangkan bahaya pada bahan baku jambu biji), proses sterilisasi dan pengisian merupakan CCP
+untuk produk jadi (sari buah jambu biji). Keseluruhan CCP ini harus mendapatkan pengawasan optimal antara lain:
+penanganan bahan baku, kontrol kebersihan operator, penggunaan air yang sesuai dengan persyaratan, dan memastikan
+kecukupan panas saat sterilisasi sari buah. Dalam pelaksanaannya, proses verifi kasi sangat penting untuk dilakukan
+agar dapat mengetahui efektifi tas penerapan HACCP. Penerapan HACCP yang sesuai diharapkan akan meningkatkan
+kualitas dan keamanan produk sari buah jambu biji.
+Kata kunci: Sari buah, jambu biji, HACCP
+
+
+PENDAHULUAN
+Buah jambu biji merupakan buah yang banyak digemari
+oleh masyarakat Indonesia. Buah jambu biji diketahui
+mempunyai kandungan vitamin C dan beta karoten sehingga
+dapat berkhasiat sebagai antioksidan dan meningkatkan daya
+tahan tubuh (Riana, 2000; Pdpersi, 2004). Menurut Rahmat
+dkk. (2006) kandungan jambu biji dalam 100 gram adalah
+vitamin A 792 IU, vitamin B1 0,05 mg, vitamin C 183,5
+mg, vitamin E 1,12 mg, asam folat 14 mcg, mineral seperti
+kalsium 20 mg, fosfor 25 mg, besi 0,31 mg, seng 0,23 mg, CU
+0,103 mg selenium 0,6 mg, senyawa fenolik seperti β-karoten
+374μg dan likopen 5204 μg. Melihat dari kandungan nutrisi
+jambu biji tersebut diatas dan juga manfaat yang dihasilkan
+oleh buah jambu biji, maka buah ini berpotensi untuk
+dikembangkan menjadi bahan baku industri olahan pangan
+selain untuk dikonsumsi secara segar. Salah satu pemanfaatan
+buah jambu biji yang jumlahnya melimpah saat panen raya
+adalah dengan mengolah buah jambu biji menjadi sari buah
+sebagai produk akhir.
+Aspek mutu dan keamanan pangan merupakan
+masalah utama dalam produksi dan pemasaran buahbuahan
+(Widaningrum dan Winarti, 2007). Secara spesifi k
+dapat disebutkan bahwa buah-buahan Indonesia umumnya
+mempunyai masalah dalam hal mutu yang tidak konsisten
+dan mengandung kontaminan. Padahal, jaminan keamanan
+pangan merupakan suatu keharusan karena pangan termasuk
+kebutuhan dasar yang paling penting dan sangat esensial
+dalam kehidupan manusia. Oleh karena itu dalam industri
+pengolahan makanan dan minuman, penerapan sistem
+keamanan pangan yang meliputi: cara produksi makanan yang
+baik (GMP), sanitasi dan HACCP memiliki peranan yang
+sangat penting. Hal ini bertujuan untuk mencegah terjadinya
+keracunan dan penyakit yang diakibatkan oleh makanan atau
+minuman. Menurut Winarno (2002), lebih dari 90% terjadi
+penyakit diakibatkan oleh makanan yang terkontaminasi
+mikrobiologi (food born deseases).
+Salah satu model pengolahan buah biji jambu menjadi
+sari buah adalah Pilot Plant UPT. B2PTTG-LIPI Subang. Pilot
+plant pengolahan sari buah jambu biji sudah mulai beroperasi
+sejak tahun 1986. Pilot plant yang memiliki luas bangunan
+yaitu 450 m2 dengan peralatan lengkap dengan bahan logam
+stainless hibah dari negara Italia dengan pabrikasi peralatan di
+Bertuzzi, Italia. Kapasitas untuk satu lini produksi pengolahan
+sari buah mencapai maksimal 1000 – 2000 liter per hari.
+Namun yang sekarang digunakan hanya 600 – 1000 liter per
+hari, dengan salah satu varian sari buah yang diproduksi yaitu
+jambu biji.
+Seiring dengan tuntutan akan produk yang aman
+dan memiliki kulitas yang baik, maka Pilot Plant ini telah
+menerapkan sistem GMP (Good Manufacturing Practices),
+namun belum memiliki sistem analisa resiko bahaya yang
+mungkin timbul pada setiap tahapan produksi yaitu HACCP
+(Hazard Analysis Critical Control Points). HACCP merupakan
+suatu piranti (sistem) yang digunakan untuk menilai bahaya
+dan menetapkan sistem pengendalian yang memfokuskan
+pada pencegahan (Muhandri dan Kadarisman, 2008). Salah
+satu alasan mengenai pentingnya penerapan sistem HACCP
+pada industri pangan adalah karena bahan-bahan yang
+digunakan serta selama proses produksi memiliki peluang
+terjadinya pencemaran yang dapat membahayakan konsumen.
+Pencemaran tersebut dapat berupa pencemaran fi sik, kimia,
+maupun mikrobiologi. HACCP dapat diterapkan pada seluruh
+rantai pangan dari produk primer sampai pada konsumsi akhir
+dan penerapannya harus dipandu oleh bukti secara ilmiah
+terhadap resiko kesehatan manusia (BSN,1998).
+Kajian ini bertujuan untuk mengidentifi kasi titik-titik
+bahaya yang terdapat pada bahan baku yang digunakan
+dan tahapan proses pengolahan sari buah jambu biji dengan
+menggunakan tujuh prinsip HACCP sehingga proses produksi
+dapat dikendalikan dan menghasilkan produk yang bermutu.
+METODE PENELITIAN
+Kajian ini dilakukan pada tahun 2013 terhadap Pilot
+plant sari buah jambu biji di UPT-B2PTTG LIPI, Subang,
+Jawa Barat. Studi HACCP pada proses produksi sari buah
+jambu biji skala pilot ini menggunakan Panduan Penyusunan
+Rencana HACCP (BSN-Pedoman 1004-1999), daftar bahan
+baku dan bahan penunjang, bagan alir proses produksi, tabel
+penentuan tingkat resiko dan CCP decision tree. Sedangkan
+proses penyusunannya, mengikuti 7 prinsip sistem HACCP
+yang direkomendasikan oleh Standar Nasional Indonesia
+(1998) yang dikeluarkan oleh BSN (1999), meliputi:
+1. Prinsip 1: Analisis bahaya dan pencegahannya
+2. Prinsip 2: Identifi kasi Critical Control Points (CCP) di
+dalam proses
+3. Prinsip 3: Menetapkan batas kritis untuk setiap CCP
+4. Prinsip 4: Menetapkan cara pemantauan CCP
+5. Prinsip 5: Menetapkan tindakan koreksi
+6. Prinsip 6: Menyusun prosedur verifi kasi
+7. Prinsip 7: Menetapkan prosedur pencatatan
+(dokumentasi)
+Analisis bahaya dilakukan dengan cara mendaftarkan
+semua bahaya yang mungkin terdapat dalam bahan baku dan
+tahap proses dengan mengacu pada referensi yang terkait
+(jurnal, buku, dokumen standarisasi dan hasil penelitian
+lainnya). Bahaya-bahaya yang teridentifi kasi kemudian
+ditabulasikan ke dalam sebuah tabel disertai sumber bahaya,
+tingkat resiko dan tindakan pencegahannya. Tingkat resiko
+ditentukan berdasarkan seberapa besar akibat yang akan ditimbulkan oleh suatu bahaya dan seberapa sering bahaya
+tersebut kemungkinan terjadi. Setiap tahapan proses ditentukan
+termasuk CCP atau tidak melalui pertimbangan tingkat resiko
+dan berdasarkan jawaban atas pertanyaan dari CCP decision
+tree. Tahap proses yang tidak termasuk CCP, dapat termasuk
+control point (CP) yang berarti tahapan tersebut apabila tidak
+dikendalikan dengan baik dapat menyebabkan kecacatan dari
+segi kualitas (Widaningrum dan Winarti 2008).
+HASIL DAN PEMBAHASAN
+Deskripsi Produk
+Buah jambu biji (Psidium guajava L.) merupakan
+jenis buah tropis yang menjadi sumber vitamin C tinggi
+dalam bentuk asid askorbik, dengan jumlah yang lebih tinggi
+dibandingkan buah-buahan yang lain (Wachu, 2006). Buah
+jambu biji mengandung 3 hingga 6 kali lebih banyak vitamin C
+nya dibandingkan jeruk, 10-30 kali lebih banyak dibandingkan
+pisang. Jambu biji, menurut penelitian (Wachu, 2006), juga
+mengandung vitamin A dalam jumlah yang banyak. Jambu
+biji merah memiliki kandungan vitamin A lebih tinggi, sekitar
+3,1 mg/100 g dibandingkan dengan jambu biji berwarna putih.
+Buah ini dapat dikonsumsi secara segar atau diolah menjadi
+sari buah. Sari buah adalah minuman ringan yang dibuat dari
+sari buah dan air minum dengan atau tanpa penambahan gula
+dan bahan tambahan makanan yang diizinkan (BSN ,1995).
+Produk sari buah minimal harus memiliki 30% bubur buah
+segar (pulp). Adapun deskripsi produk sari buah jambu biji
+yang diproduksi oleh Pilot Plant Pengolahan Sari Buah –
+Bertuzzi di B2PTTG – LIPI dapat dilihat pada Tabel 1.
+Diagram Alir Proses Pengolahan Sari Buah Jambu Biji
+Diagram alir proses merupakan suatu urutan tahapan
+kerja dalam proses produksi pembuatan sari buah jambu biji
+dapat dilihat pada Gambar 1.
+
+
+
+
+Tabel 1. Deskripsi produk sari buah jambu biji
+Kriteria Keterangan
+Nama produk Sari buah jambu biji
+Nama merk dagang Juz
+Komposisi
+Air
+Bubur buah (pulp)
+Gula putih
+CMC
+Asam sitrat
+Essence Jambu Biji
+Pewarna makanan merk butterfl y colour food
+Pengawet (Na-Benzoate)
++ 50-60% v/v
+Min. 30% b/v
+10 – 12%
+500 ppm
+1000 ppm
+1 ml/liter
+0,05 – 0,1 gram/liter
+300 ppm
+Pengemas primer Cup plastik
+Pengemasan sekunder Dus karton
+Masa kadaluarsa 6 bulan
+Kondisi penyimpanan Suhu ruang (+ 27oC)
+Tujuan konsumen Umum
+Cara penyiapan konsumsi Dikonsumsi langsung
+
+
+
+
+
+
+
+
+
+
+
+270Tabel 2. Analisa bahaya pada bahan baku produksi
+No. Bahan baku Bahaya
+Bahaya terhadap
+Penyebab bahaya
+Penting tidaknya
+Tindakan pengendalian
+Keselamatan Mutu
+Peluang
+(T/S/R)
+Keparahan
+(T/S/R)
+Penting/
+tidak
+(T/S/R)
+1 Jambu biji
+Fisik : pasir, ranting
+pohon, tanah, serangga
+Kimia : patulin dari
+kapang,
+Mikrobiologi : kapang
+(Aspergillus sp,
+Penicillium sp)
+Ya Ya
+Penanganan pasca panen
+yang tidak tepat,
+Fungi/Kapang/bakteri
+yang menempel pada
+buah
+T T T
+Mengurangi benturan dengan
+perbaikan pengemasan,
+melakukan proses pencucian
+dan sortasi sebelum proses
+pengemasan
+2 Air
+Kimia : logam berat
+Mikrobiologi :
+Bakteri E.Coli, Shigella
+sp.,V. cholerae
+Ya Ya
+Residu logam berat
+dalam air, air yang
+digunakan tidak bersih
+atau tidak sesuai dengan
+persyaratan untuk air
+minum
+T T T
+Tidak menggunakan air kotor
+atau permukaan, Melakukan
+proses ultrafi ltrasi,
+melakukan proses ozonisasi
+3 Gula Pasir
+Kimia : logam berat
+Fisik : benang, semut, fi lth
+(rambut, potongan bagian
+tubuh serangga)
+Ya Ya
+Kualitas gula pasir yang
+rendah/jelek
+R S S
+Menggunakan gula pasir
+yang berkualitas baik, putih
+bersih dan sedikit atau tidak
+mengandung kontaminasi
+fi sik
+4 Asam Sitrat Kimia : logam berat Ya Ya
+Kualitas asam sitrat
+yang rendah/jelek
+R S S
+Menggunakan asam sitrat
+berkualitas baik
+5 CMC
+Kimia :
+logam berat
+- Ya
+Kualitas CMC yang
+rendah/jelek
+R R R
+Menggunakan CMC
+berkualitas baik
+6 Essence
+Kimia :
+logam berat
+- Ya
+Kualitas essence yang
+rendah/jelek
+R R R
+Menggunakan essence
+dengan kualitas baik dan
+food grade
+7 Pewarna Makanan
+Kimia :
+logam berat, pewarna
+sintetik
+- Ya
+Penggunaan pewarna
+yang tidak diijinkan
+untuk pangan
+R R R
+Menggunakan pewarna yang
+food grade
+8
+Pengawet
+(Na-Benzoate)
+Kimia : dosis yang
+berlebihan
+Ya Ya
+Tingkat ketelitian
+penimbangan oleh
+operator
+S S S
+Melakukan penimbangan
+dengan cermat dan sesuai
+dengan standar yang berlaku
+Keterangan : T = Tinggi, S = Sedang, R = Rendah
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tabel 3. Analisis bahaya terhadap tahapan proses kegiatan pembuatan sari buah jambu biji
+No.
+Tahapan
+proses
+Bahaya
+Bahaya terhadap
+Penyebab bahaya
+Penting tidaknya
+Tindakan pengendalian
+Keselamatan Mutu
+Peluang
+(T/S/R)
+Keparahan
+(T/S/R)
+Penting/tidak
+(T/S/R)
+1 Sortasi
+Mikrobiologi : S.aureus,
+bakteri pembusuk
+Ya Ya
+Tangan operator
+yang tidak bersih,
+penanganan bahan
+baku yang tidak baik
+T S T
+Mencuci tangan sebelum
+menyentuh bahan, penangan
+bahan baku dengan baik
+2 Pencucian
+Kimia : logam berat,
+Mikrobiologi :
+Bakteri E.coli, kapang/
+jamur
+Ya Ya
+Penggunaan air
+yang tercemar/kotor,
+masih adanya kapang
+atau jamur yang
+menempel pada buah
+jambu biji
+T S T
+Lakukan pencucian secara
+berulang, dan air yang digunakan
+harus air bersih sesuai dengan
+persyaratan air minum
+3 Pemotongan
+Kimia :
+Logam berat
+Mikrobiologi : Bakteri,
+kapang/jamur
+Ya Ya
+Alat pemotong yang
+sudah tidak layak,
+pembersihan bagian
+mahkota dan tangkai
+yang tidak sempurna
+T R S
+Gunakan alat pemotong dari
+bahan stainless steel, lakukan
+pembersihan atau pemotongan
+bagian mahkota dan tangkai
+dengan baik
+4 Pembuburan
+Kimia : Logam berat
+Mikrobiologi : Bakteri,
+kapang/jamur
+Ya Ya
+Alat pembubur
+(chopper) terjadi gesekan
+antara balingbaling
+penghancur
+dengan dinding
+chopper, pencucian
+atau pembersihan
+alat kurang sempurna
+S S S
+Lakukan pengecekan terhadap
+alat sebelum digunakan,
+lakukan pencucian sebelum dan
+sesudah pemakaian alat, lakukan
+pencucian dengan larutan anti
+bakteri dan anti jamur
+5 Pemisahan biji
+Kimia : Logam berat
+Mikrobiologi : Bakteri,
+kapang/jamur
+Ya Ya
+Alat pemisah biji
+(pulper) terjadi gesek
+an antara balingbaling
+pemisah
+dengan dinding
+screen (saringan
+berbahan logam
+stainless), pencucian
+atau pembersihan
+alat kurang sempurna
+S S S
+Lakukan pengecekan terhadap
+alat sebelum digunakan,
+lakukan pencucian sebelum dan
+sesudah pemakaian alat, lakukan
+pencucian dengan larutan anti
+bakteri dan anti jamur
+
+
+
+
+
+
+
+
+
+
+
+No.
+Tahapan
+proses
+Bahaya
+Bahaya terhadap
+Penyebab bahaya
+Penting tidaknya
+Tindakan pengendalian
+Keselamatan Mutu
+Peluang
+(T/S/R)
+Keparahan
+(T/S/R)
+Penting/tidak
+(T/S/R)
+6 Pengenceran
+Kimia :
+Logam berat
+Mikrobiologi : bakteri
+E.coli, Shigella sp.,V.
+cholerae
+Tidak Tidak
+Air yang digunakan
+tercemar logam
+berat, tidak bersih
+atau tidak memenuhi
+persyaratan air
+minum
+R R R
+Tidak menggunakan air kotor
+atau permukaan, Melakukan
+proses ultrafi ltrasi, melakukan
+proses ozonisasi
+7 Pengkondisian
+Tidak teridentifi kasi
+bahaya
+Tidak Tidak - - - -
+8 Sterilisasi
+Mikrobiologi : kapang/
+jamur pembentuk spora,
+bakteri thermofi lik
+Ya Ya
+Waktu dan suhu
+pemanasan yang
+tidak sesuai
+kebutuhan.
+T T T
+Pengaturan suhu dan waktu
+pemanasan yang sesuai
+9 Pengisian
+Fisik : Rambut, debu
+Mikrobiologi : S.aureus,
+E.coli, kapang/jamur
+Ya Ya
+Operator tidak
+menggunakan
+masker dan tutup
+kepala, alat yang
+digunakan tidak
+bersih sempurna,
+ruang pengemasan
+yang tidak bersih dan
+tidak tertutup
+T T T
+Pengawasan terhadap operator,
+pembersihan alat sebelum dan
+sesudah digunakan, ruangan
+pengemasan harus bersih dan
+tertutup, pemasangan exhaust fan
+di ruang pengemas
+10 Pengemasan
+Tidak teridentifi kasi
+bahaya
+Tidak Tidak
+
+
+
+
+
+
+
+Identifi kasi Bahaya untuk Bahan Baku
+Proses pengolahan sari buah jambu biji menggunakan
+bahan baku buah jambu biji dan bahan tambahan pangan
+lain, yaitu CMC sebagai bahan penstabil, asam sitrat sebagai
+bahan pengasam, Na-Benzoate sebagai pengawet, gula
+pasir sebagai pemanis, essence jambu biji sebagai penguat
+aroma/fl avor, pewarna makanan sebagai penguat warna.
+Air digunakan dalam proses pencucian buah jambu biji dan
+sebagai pengencer. Bahaya-bahaya yang teridentifi kasi pada
+bahan baku seperti disajikan pada Tabel 2.
+Bahan baku buah jambu biji mengandung bahaya
+mikrobiologi yang berasal dari jamur yang menempel pada
+buah jambu terutama dalam kondisi lembab. Jamur buah biji
+jambu yang banyak ditemui adalah Aspergillus sp menghasilkan
+mikotoksin patulin. Mikotoksin merupakan senyawa organik
+beracun hasil metabolisme sekunder dari kapang (fungi, jamur,
+cendawan). Senyawa tersebut dapat mengganggu kesehatan
+manusia dan hewan dengan berbagai bentuk perubahan klinis
+dan patologis (BSN, 2009). Mikotoksin perlu dikendalikan
+melalui penanganan prapanen sampai pascapanen (Miskiyah,
+dkk, 2010). Konsumsi produk pangan yang terkontaminasi
+mikotoksin dapat menyebabkan terjadinya mikotoksikosis,
+yaitu gangguan kesehatan pada manusia dan hewan dengan
+berbagai bentuk perubahan klinis dan patologis, misalnya
+dapat menyebabkan penyakit kanker hati, degenerasi hati,
+demam, pembengkakan otak, ginjal, dan gangguan syaraf
+(Rahayu2006). Oleh karena itu bahaya cemaran pada buah
+jambu biji dapat dikendalikan dan dihilangkan melalui tahapan
+CCP yaitu sortasi dan pencucian.
+Bahan baku yang lainnya adalah air. Mutu air yang
+digunakan untuk proses pengolahan harus memiliki mutu
+seperti mutu air minum (Deptan, 2000). Menurut Buckle
+(1987), air minum harus bersih dan jernih, tidak berwarna,
+tidak berbau, dan tidak mengandung bahan tersuspensi atau
+kekeruhan. Sedangkan menurut Soekarto (1990), persyaratan
+air minum yang terpenting adalah harus bebas dari bakteri dan
+senyawa kimia yang berbahaya serta tidak berwarna, tidak
+berbau, tidak menimbulkan rasa aneh dan tidak keruh. Menurut
+Permenkes No. 416/Menkes/Per/IX/1990 disebutkan bahwa
+jumlah total coliform pada air sumur (sumur bor) adalah 0/ 100
+ml. Air digolongkan sebagi bahan baku yang memiliki tingkat
+resiko yang tinggi dan peluang keparahan yang tinggi sehingga
+perlu dikendalikan melalui tahapan CCP pada proses sterilisasi.
+Dalam proses pembuatan sari buah biji jambu, digunakan air
+yang sudah mengalami ozonisasi dan ultrafi ltrasi sehingga
+terbebas dari kontaminasi kimia maupun mikrobiologi.
+Bahan baku selanjutnya adalah gula pasir. Cemaran
+yang diidentifi kasi pada bahan baku ini dalah cemaran kimia,
+yaitu keberadaan logam berat dan cemaran fi sik yang dapat
+berupa benang, semut, fi lth (rambut, potongan bagian tubuh
+serangga). Menurut Casmin (2003), cemaran kimia pada gula
+pasir dapat berupa keberadan belerang dioksida. Haryadi
+(2001), menyatakan bahwa cemaran kimia umumnya tidak
+dapat dikurangi atau dihilangkan selama pegolahan. Cemaran
+kimia hanya dapat ditekan seminimal mungkin melalui
+spesifi kasi dan pengawasan bahan baku yang ketat terhadap
+penyedia bahan baku. Sedangkan untuk meminimalisir adanya
+cemaran fi sik dapat dilakukan dengan menggunakan gula
+pasir yang berkualitas baik, sedikit, atau tidak mengandung
+kotoran terutama kontaminan fi sik. Dapat pula melakukan
+tindakan pengayakan atau penyaringan sebelum penggunaan
+gula pasir pada proses pengkondisian.
+Bahan tambahan pangan yang digunakan pada
+pembuatan sari buah jambu biji antara lain asam sitrat,
+CMC, essence, pewarna makanan, dan bahan pengawet (Nabenzoat).
+Menurut Munaro (2002), asam sitrat berfungsi
+untuk memberikan cita rasa asam, menurunkan pH bahan,
+dan berperan sebagai chelating dan sequestering agent. Pada
+pembuatan sari buah jambu biji ini asam sitrat berfungsi
+untuk memberikan sedikit cita rasa asam dan menurunkan
+pH sehingga dapat meningkatkan daya awet produk. Hal ini
+dikarenakan pada pH rendah, beberapa mikroba perusak tidak
+dapat bertahan hidup. CMC sebagai bahan penstabil untuk
+mencegah terbentuknya endapan di dasar sari buah. Essence
+ditambahkan untuk memperkuat cita rasa sari buah jambu
+biji, pewarna makanan diberikan untuk mempertegas warna
+sari buah pada produk akhir, dan Na- benzoat ditambahkan
+sebagai bahan pengawet. Cemaran yang diidentifi kasi pada
+bahan tambahan ini antara lain cemaran kimia berupa logam
+berat dan penggunaan dosis secara berlebihan. Oleh karena
+itu harus dihindari penggunaan bahan tambahan pangan
+dengan kualitas yang rendah. Penggunaan asam sitrat, CMC,
+essence, pewarna makanan, dan bahan penggawet harus
+yang memiliki kualitas yang baik. Pada penggunaan pewarna
+makanan dapat menjadi bahaya kimia apabila pewarna
+makanan yang digunakan adalah pewarna makanan yang tidak
+diizinkan untuk makanan (misalnya pewarna tekstil) yang
+dapat mengakibatkan pengaruh yang buruk bagi kesehatan
+konsumen. Begitu pula penggunaan Na-benzoat sebagai bahan
+pengawet. Penggunaan Na-benzoat harus sesuai dengan batas
+penggunaan yang diperbolehkan. Penggunaan Na-benzoat
+yang diizinkan adalah maksimal 600 ppm (Peraturan Menkes
+No. 722/Menkes/Per/IX/88). Tindakan pengendalian yang
+dapat dilakukan adalah melakukan penimbangan yang teliti
+dan seksama sehingga bahan pengawet yang ditambahkan
+pada produk tepat sesuai dosis tidak berlebihan.
+Penetapan CCP untuk Pengendalian (Prinsip 2)
+Identifi kasi bahaya proses yang dhasilkan pada proses
+pembuatan sari buah jambu biji (Tabel 3), selanjutnya
+dilakukan penentuan CCP, batas kritis, tindakan pemantauan dan tidakan koreksi (Tabel 4) yang merupakan prinsip 3, 4,
+dan 5 dalam sistem HACCP.
+Proses pertama dalam pembuatan sari buah biji
+jambu adalah sortasi (CCP 1). Kegiatan ini berfungsi untuk
+memisahkan segala cemaran fi sik dan biologi yang ada pada
+buah jambu, seperti tanah, batu, kerikil, daun, serangga, dan
+lain-lain. Sortasi juga dilakukan untuk memisahkan buah yang
+sudah busuk, mengandung kapang, dan buah yang rusak/lunak
+karena benturan dengan buah yang masih bagus. Bahaya yang
+diidentifi kasi pada tahapan ini adalah bahaya mikrobiologi
+yaitu adanya S. aureus atau bakteri pembusuk yang berasal
+dari penanganan bahan baku yang tidak baik atau kontamitasi
+tangan operator. Manusia yang sehat saja merupakan sumber
+mikroba seperti Streptococcus dari kotoran dan Staphylococcus
+dari kulit, hidung, mulut dan tenggorokan. Setiap kali tangan
+pekerja kontak dengan bagian-bagian tubuh yang mengadung
+mikroba patogen, maka tangan tersebut akan terkontaminasi
+dan ketika tangan kontak dengan makanan, kontaminasi segera
+terjadi. Kontaminasi juga terjadi melalui udara dari pernapasan,
+mulut, dan juga dari pakaian. Proses sortasi ini dinilai memiliki
+tingkat keparahan yang sedang, dengan tindakan pengendalian
+berupa penanganan bahan baku yang baik dan menjaga
+kebersihan operator saat melakukan tahapan ini.
+Tahapan kedua setelah sortasi adalah pencucian (CCP
+2). Tahapan ini diidentifi kasi dapat membawa bahaya kimia
+berupa logam berat dan bahaya mikrobiologi berupa bakteri
+E. coli dan kapang. Kedua bahaya ini dapat muncul dari
+penggunaan air yang tercemar dan masih adanya kapang
+atau jamur yang menempel pada buah jambu biji. Tingkat
+keparahan dari bahaya ini dinilai sedang dan digolongkan
+sebagai CCP. Tindakan pengendalian yang dapat dilakukan
+adalah pencucian buah secara berulang dan air yang digunakan
+harus air bersih sesuai dengan persyaratan air minum. Menurut
+Soekarto (1990) persyaratan air minum yang terpenting adalah
+harus bebas dari bakteri dan senyawa kimia yang berbahaya
+serta tidak berwarna, tidak berbau, tidak menimbulkan rasa
+aneh dan tidak keruh. Menurut Permenkes No. 416/Menkes/
+Per/IX/1990 disebutkan bahwa jumlah total coliform pada air
+sumur (sumur bor) adalah 0/100 ml. Air yang digunakan pada
+pengolahan sari buah biji jambu ini adalah air sumur bor yang
+sudah di hilangkan bakterinya secara ozonisasi dan ultrafi ltasi.
+Tahapan selanjutnya adalah pemotongan. Tahapan
+ini memiliki resiko bahaya kimia berupa logam berat yang
+dapat berasal dari pisau pemotong dan bahaya mikrobiologi
+berupa kapang/ jamur yang dapat berasal dari pembersihan
+makota dan tangkai buah jambu biji yang tidak sempurna.
+Tahapan ini dinilai memiliki tingkat keparahan yang rendah.
+Tindakan pengendalaian yang dapat dilakukan adalah dengan
+menggunakan alat pemotong yang bersih, tidak berkarat, dan
+terbuat dari logam stainless. Selain itu perlu penghilangan
+bagian mahkota dan tangkai yang sempurna.
+Setelah pemotongan dilakukan pembuburan dan
+pemisahan biji. Kedua tahapan ini menggunakan alat chopper.
+Resiko bahaya yang diidentifi kasi adalah cemaran kimia dan
+mikrobiologi. Cemaran kimia dapat berasal dari gesekan
+antara baling-baling penghancur pada chopper dengan
+dinding chopper. Cemaran mikrobiologi dapat berasal dari
+kontaminasi silang bila chopper tidak dibersihkan sempurna.
+Hal ini dapat diatasi dengan pembersihan dan pencucian
+setiap bagian chopper menggunakan larutan anti bakteri dan
+anti jamur yang direkomendasikan untuk produk pangan.
+Setelah dilakukan pemisahan biji, dilakukan
+pengenceran. Penambahan air saat pengenceran ini diidentifi kasi
+memiliki tingkat keparahan yang rendah, cemaran-cemaran
+pada proses ini sudah diatasi melalui proses selanjutnya. Air
+yang digunakan pada proses pengenceran, harus air yang
+memenuhi persyaratan air minum. Pada pengolahan sari
+buah jambu biji di UPT. B2PTTG digunakaan air yang telah
+mengalami proses ultrafi ltrasi dan ozonisasi. Selanjutnya
+dilakukan proses pengkondisian yaitu penambahan bahan
+tambahan pangan dan pencampuran sari buah dengan gula
+pasir yang dilakukan dalam tangki homogenizer.
+Tahapan selanjutnya adalah sterilisasi (CCP 3).
+Tahapan ini merupakan tahapan yang diidentifi kasi memilili
+resiko bahaya dan tingkat keparahan yang tinggi. Hal ini
+terkait dengan kecukupan panas yang diterima sari buah
+sehingga dapat membunuh mikroba patogen dan mikroba
+pembusuk. Suhu pemansan yang digunakan adalah 90-100oC
+selama 5-10 menit. Apabila suhu atau waktu sterilisasi yang
+dilakukan kurang dari suhu dan waktu yang telah ditetapkan,
+dikhawatirkan masih ada mikroba yang mencemari produk
+sehingga mempengaruhi kemanan pangan pada produk akhir.
+Oleh karena itu tahapan ini dinilai sebagai CCP.
+Setelah mengalami sterilisasi dalam pipa yang
+langsung terhubung dengan mesin pengemas, sari buah biji
+jambu langsung terisi dalam kemasan plastik berukuran
+220 ml. Pada tahap pengisian ini (CCP 4) diidentifi kasi
+juga memiliki tingkat peluang bahaya dan keparahan yang
+tinggi. Hal ini dikarenakan dapat terjadinya kontaminasi
+fi sik dan mikrobiologi. Kontaminasi fi sik dapat berupa
+cemaran fi lth (rambut, potongan tubuh serangga, dan debu).
+Kontaminasi mikrobiologi dapat terjadi akibat kontaminasi
+silang antara sari buah dengan kemasan yang tidak bersih.
+Kedua kontaminasi dapat berasal dari ruang pengemas yang
+tidak bersih, tidak tertutup, dan operator yang bertugas
+untuk mengecekan apakah terdapat kebocoran kemasan atau
+tidak. Setelah proses pengemasan selesai, dilakukan proses
+pengepakan dan distribusi.
+Berdasarkan uraian diatas, disimpulkan bahwa
+tahapan proses yang dikategorikan sebagai CCP adalah proses
+sortasi, pencucian, sterilisasi dan pengisian. Setiap tahapan
+proses yang termasuk CCP ini dapat dilihat pada Tabel 4.
+
+
+
+
+
+
+
+
+
+Tabel 4. Matriks Critical Control Point (
+CCP) pada proses pengolahan sari buah jambu biji
+No Tahap
+CCP
+No.
+Jenis bahaya
+Batas kritis
+(prinsip 3)
+Monitoring
+(prinsip 4) Tindakan koreksi
+(prinsip 5)
+Catatan/
+dokumentasi
+Metoda Frekuensi Objek Personal
+1 Sortasi 1 Mikrobiologi
+< 1% kapang yang
+terlihat pada buah jambu
+biji, tidak ada bagian
+yang busuk, lunak atau
+rusak
+Observasi
+visual buah
+jambu biji
+Setiap Proses/
+setiap pengiriman
+bahan baku
+Jambu biji QC
+Buang buah yang
+memiliki prosentasi
+kapang/busuk >
+1%. Bersihkan alat
+dan tingkatkan
+pemeriksaan
+Log book
+bahan baku
+2 Pencucian 2
+Mikrobiologi
+Kimia
+Buah jambu biji bersih .
+Tidak ditemui kapang,
+Air yang digunakan
+memenuhi persyaratan
+air minum.
+Buah bersih dari
+mikotoksin patulin
+(maks 50ppb)
+Observasi buah
+secara sensori
+Pengecekan alat
+ultrafi ltrasi air
+Observasi buah
+secara sensori
+Setiap proses
+Setiap proses
+Setiap proses
+Air dan
+Jambu biji
+QC
+Lakukan pencucian
+secara berulang
+Lakukan proses
+pemanasan air
+pada suhu 100oC
+(mendidih), jika alat
+ultrafi ltrasi tidak
+berfungsi
+Lakukan ulang
+proses pencucian
+Log book
+proses harian,
+log book
+maintanance
+3 Sterilisasi 3 Mikrobiologi
+Suhu dan waktu
+pemanasan harus tepat
+(T= 110oC, t= 5-10
+menit), serta tidak
+ditemukannya spora dan
+bakteri thermofi lik mati
+Pengecekan
+suhu dengan
+thermometer
+dan stopwatch
+untuk lama
+sterilisasi
+Setiap proses
+Sari buah
+jambu biji
+QC
+Lakukan proses
+kalibrasi pada
+thermometer THE
+secara berkala
+Log book
+proses,
+thermometer
+action log
+4 Pengisian 4 Mikrobiologi
+Sari buah jambu biji
+terkemas sempurna,
+tidak ada bocor atau
+cacat.
+Operator memakai
+perlengkapan lengkap
+(masker, tutup kepala,
+jas lab dan sarung
+tangan
+Cek secara
+visual, lakukan
+pengecekan
+terhadap
+alat sebelum
+digunakan.
+Operator
+menggunakan
+perlengkapan
+lengkap
+Setiap proses
+Sari buah
+dsn operator
+pengemas
+QC
+Sari buah yang
+tidak terkemas
+sempurna di
+reject, pengawasan
+terhadap operator
+Log book
+proses,
+log book
+pengemasan
+
+
+
+
+
+
+Verifi kasi dan dokumentasi (Prinsip 6 dan 7)
+Setelah analisis bahaya dan penetapan CCP selesai
+dilakukan dan telah didokumentasikan dalam rencana
+HACCP, maka tahap selanjutnya dilakukan penetapan
+prosedur verifi kasi dan dokumentasi. Proses verifi kasi dan
+dokumentasi dilakukan oleh B2PTTG bekerjasama dengan
+Dinas Kesehatan Kabupaten Subang – Jawa Barat yang
+bertujuan untuk memantau efektifi tas penerapan HACCP
+pada pengolahan sari buah jambu biji. Proses verifi kasi dapat
+dilakukan dengan menganalisa setiap tahapan prose sang
+diidentifi kasi sebagai CCP. Dokumentasi dilakukan secara
+internal dan terkontrol.
+KESIMPULAN
+Hasil kajian HACPP terhadap produksi sari buah jambu
+biji di Pilot Plant Sari Buah B2PTTG menunjukkan bahwa
+yang ditetapkan sebagai CCP adalah proses sortasi, pencucian,
+sterilisasi dan pengisian. Oleh karena itu harus dilakukan
+penanganan bahan baku yang baik, kontrol kebersihan
+operator, penggunaan air yang sesuai dengan pesyaratan,
+dan memastikan kecukupan panas saat sterilisasi sari buah.
+Dalam pelaksanaannya, proses verifi kasi sangat penting untuk
+dilakukan agar dapat mengetahui efektifi tas penerapan HACCP.
+Penerapan HACCP yang sesuai diharapkan akan meningkatkan
+kualitas dan keamanan produk sari buah jambu biji.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

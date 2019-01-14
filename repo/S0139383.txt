@@ -1,0 +1,383 @@
+﻿Pengembangan Media Pembelajaran IPS Berbasis Website
+untuk Siswa Kelas VII Madrasah Tsanawiyah Negeri
+
+Abstrak : Tujuan penelitian menghasilkan pengembangan media pembelajaran IPS berbasis website kelas VII untuk siswa MTs. Negeri Gorontalo dan mengetahui keefektifan pembelajaran. Metode yang digunakan dalam penelitian ini adalah pendekatan Reserch and Development (R&D). Langkah dalam penelitian adalah melalui penggunaan model ADDIE, dimana proses-proses pengembangannya yaitu: Analysis, Design, Development, Implentation, dan Evaluation. Hasil penelitian ini ditunjukkan: Penilaian materi yang digunakan berdasarkan validasi oleh 5 orang ahli. 0.80-0.95 dengan tingkat reliabilitasnya 0.80 menunjukkan materi tersebut sangat layak digunakan, Penilaian media yang digunakan berdasarkan validasi oleh 5 orang ahli 0.65-0.95 dengan tingkat reliabilitasnya 0.80 sehingga ini menunjukkan media tersebut sangat layak digunakan.
+Kata Kunci : Pengembangan Pembelajaran, IPS, Berbasis Website.
+
+PENDAHULUAN
+Perkembangan teknologi komunikasi dan informasi dinilai sangat besar pengaruhnya dalam mengubah proses pembelajaran. Teknologi informasi memegang peranan penting, khususnya dalam memberikan inovasi dalam pembelajaran. Pemanfaatan teknologi informasi diharapkan akan membentuk siswa dalam proses belajar secara mandiri. Proses pengembangan pembelajaran tentnya berbeda-beda untuk setiap pelajaran, disesuaikan dengan sifat atau konsep mata pelajaran tersebut. Semakin abstrak konsep suatu pelajaran maka akan semakin sulit untuk mengajarkan konsep tersebut kepada siswa. Salah satunya mata pelajaran IPS terdapat banyak sekali konsep-konsep materi yang membutuhkan visualisasi untuk mudah dipahami oleh siswa.
+Peneliti menemukan bahwa pembelajaran IPS di MTs. Negeri Gorontalo, belum sesuai harapan dan siswa masih kurang berminat dalam mengikuti pembelajaran IPS. Mulai dari persiapan, pelaksanaan sampai evaluasi tidak ada inovasi yang berarti. Kemudian dari segi media pembelajaran, dalam pelajaran IPS sebagian besar guru belum menggunakannya secara optimal. Tenaga pendidik dalam melakukan pembelajaran lebih banyak masih bersifat konvensional, menggunakan buku dan lembar kerja siswa (LKS) sehingga siswa merasa jenuh dan tenaga pendidik masih mendominasi jalannya pembelajaran dan belum memanfaatkan sumber belajar berbasis internet secara maskimal sehingga pembelajaran yang dilakukan cenderung kurang menarik siswa.
+Padahal dari observasi awal yang dilakukan peneliti fasilitas internet sudah tersedia di lingkungan sekolah MTs Negeri Kota Gorontalo, namun fasilitas ini masih kurang diminati oleh guru mata pelajaran dikarenakan minimnya pengetahuan guru IPS dalam menggunakan fasilitas internet terutama pembelajaran berbasis website, akibatnya, banyak kritikan ditujukan kepada guru IPS terutama dalam daya kreasi pembelajaran pada proses pembelajaran. Dari angket yang diberikan kepada 25 orang siswa yang diambil sebagai sampel, 80% siswa menyatakan membutuhkan media pembelajaran interaktif yang dapat dijadikan sebagai media pembelajaran secara mandiri. Proses pembelajaran membutuhkan media pembelajaran yang menarik dan menyenangkan sebagai sumber belajar mandiri siswa. Melalui media pembelajaran yang menarik, secara psikologis siswa akan menjadi tertarik dan bersemangat untuk belajar baik didalam kelas maupun diluar kelas. Salah satu upaya untuk mengembangkan proses pembelajaran menarik dan menyenangkan ialah melalui pembelajaran berbasis website sebagai sumber belajar siswa.
+Beberapa hasil penelitian terdahulu yang relevan dengan penelitian ini antara lain, Roni Faslah (2011) dengan judul Pemanfaatan Internet dalam Pengembangan Konsep IPS dan Impilikasinya Terhadap Pembelajaran Bermakna. Hasil penelitiannya menunjukkan bahwa media media berbentuk komik sebagai sumber belajar geografi layak digunakan dalam pembelajaran. Terbukti ahli materi geografi menilai sangat baik dengan rerata skor 4,83. Ahli media menilai sangat baik dengan rerata skor 4,34. Guru mata pelajaran geografi menilai sangat baik dengan rerata skor 4,27. pada uji coba lapangan, pembelajaran geografi dengan media komik berhasil meningkatkan rata-rata nilai tes siswa dari 76,17 (pre-test) menjadi 84,67 (post-test).
+Eko Rizqa Sari (2012) dengan judul Pengembangan Media Pembelajaran geografi berbantuan komputer dengan materi hidrosfer untuk siswa SMA kelas X. Hasil penelitiannya menunjukkan bahwa pengembangan media pembelajaran geografi dengan materi sub tema perairan darat pada siswa SMA kelas X layak digunakan dalam pembelajaran. Terbukti ahli materi geografi menilai baik dengan rerata skor 3,79 dan 3,56. Ahli media menilai baik dengan rerata skor 3,83; 4,2 dan 3,83. Guru mata pelajaran geografi menilai sangat baik untuk aspek isi dan kebahasaan dengan rerata skor 4,25; 4,33 dan 4,17. Penilaian siswa pada uji coba kelompok kecil menilai baik pada aspek pembelajaran, tampilan, isi, dan pemrograman dengan rerata skor 3,9; 4,12; 3,87 dan 3,87. Rata-rata hasil pre test uji coba lapangan menunjukkan skor 52,5 dan post test 85,42.
+Rusman (2013:291) menjelaskan, bahwa World Wide Web (www) atau sering disebut web atau website mulai diperkenalkan tahun 1990-an. Fasilitas ini merupakan kumpulan dokumentasi terbesar yang tersimpan dalam berbagai server yang terhubung menjadi satu jaringan. Dokumen ini dikembangkan dalam format hypertext dengan menggunakan HTML (Hyper Text Markup Language). Melalui format ini dimungkinkan terjadinya link dari satu dokumen ke dokumen lainnya.
+Pembelajaran berbasis web yang populer dengan sebutan web-based treaning (WBT) atau kadan disebut web-based education (WBE) dapat didefinisikan sebagai aplikasi teknologi web dalam dunia pembelajarn untuk sebuah proses pendidikan. Secara sederhana dapat dikatakan bahwa semua pembelajaran dengan memanfaatkan teknologi internet dan selam proses belajar dirasakan terjadi oleh yang mengikutinya maka kegiatan itu dapat disebut sebagai pembelajaran berbasis web.
+Pembelajaran berbasis media website merupakan bagian dari pemanfaatan internet dalam dunia pendidikan dan merupakan suatu kegiatan pembelajaran yang memanfaatkan media situs (website) yang bisa diakses melalui jaringan internet.Pembelajaran berbasis media websitejugamerupakan suatu kegiatan pembelajaran yang memanfaatkan media situs (Website) yang bisa di akses melalui jaringan internet. Pembelajaran berbasis media websiteatau yang dikenal juga dengan “web based learning” merupakan salah satu jenis penerapan dari pembelajaran elektronik (e-learning)
+Mengembangkan pembelajaran berbasis web yang efektif, memerlukan penerapan suatu pendekatan sistem dan prinsip-prinsip desain pembelajaran. Menurut Kristof & Satran, dalam hal pengembangan pembelajaran berbasis web merumuskan apa yang ingin diperbuat audience dan memutuskan bagaimana sistem dapat tercapai dengan cara terbaik. Siswa harus diperhitungkan dalam proses desain bila pengembangan pembelajaran digunakan sebagai panduan umum dalam menghasilkan pembelajaran berbasis web karena salah satu dari tugas pengembangan model apapun adalah “kenalilah sasaran anda” Rusman (2013:294).
+Pembelajaran adalah proses suatu kombinasi yang tersusun meliputi unsur-unsur manusiawi, material, fasilitas, perlengkapan dan prosedur yang sangat mempengaruhi untuk mencapai tujuan pembelajaran. Pembelajaran adalah proses interaksi peserta didik dengan pendidik dan sumber belajar pada sutu lingkungan belajar. (Undang-Undang Republik Indonesia Nomor 20 Tahun 2003, 2003:7), Istilah pembelajaran sebagai “Instruction is a set of event that affect learners in such a way that learning is facilitated. (Gagne, 1988:77) Pembelajaran pada hakikatnya merupakan proses interaksi antara guru dengan siswa. Baik interaksi secara langsung seperti kegiatan tatap muka maupun secara tidak langsung, yaitu dengan menggunakan berbagai media pembelajaran. Didasari oleh adanya perbedaan interaksi tersebut, maka kegiatan pembelajaran dapat dilakukan dengan menggunakan berbagai pola pembelajaran. Sejalan dengan pendapat diatas menurut Komara (2014:30) Pembelajaran adalah suatu usaha untuk membuat peserta didik belajar atau suatu kegiatan untuk membelajarkan peserta didik. Dengan kata lain pembelajaran merupakan upaya untuk menciptakan kondisi agar terjadinya kegiatan belajar. Dalam pendekatan sistem, pembelajaran merupakan suatu kesatuan dari komponen-komponen pembelajaran yang tidak dapat dipisahkan antara yang satu dengan yang lainya, karena satu sama lain saling mendukung, dan komponen tersebut dapat menunjang kualitas pembelajaran. Menurut Oemar Hamalik (M. Asrori Ardiansyah: 2013) bahwa pembelajaran sebagai suatu sistem artinya suatu komponen-komponen yang berinteraksi dan berinterelasi antara satu sama lain dan dengan keseluruhan itu sendiri untuk mencapai tujuan pembelajaran yang telah ditetapkan sebelumnya. Pembelajaran sebagai suatu sistem yang terdiri dari komponen-komponen terdiri dari : (1) siswa; (2) guru; (3) tujuan; (4) materi; (5) metode; (6) sarana/alat; (7) evaluasi; (8) lingkungan/konteks. Masing-masing komponen itu sebagai bagian yang berdiri sendiri, namun dalam berproses dikesatuan sistem mereka saling bergantung dan bersama-sama untuk mencapai tujuan (Soetopo, 2005:143). Pembelajaran merupakan suatu proses menciptakan kondisi yang kondusif agar terjadi interaksi komunikasi belajar mengajar anatara guru dan peserta didik, dan komponen pembelajaran lainya untuk mencapai tujuan pembelajaran. Hal tersebut sejalan dengan pandangan Hamalik (2003:30) mengatakan bahwa “Pembelajaran sebagai suatu kombinasi yang tersusun meliputi unsur manusia, material, fasilitas, perlengkapan, dan prosedur yang saling mempengaruhi untuk mencapai tujuan pembelajaran. Kemudian Sudjana (2004:28) mengemukakan tentang pengertian pembelajaran bahwa: “Pembelajaran dapat diartikan sebagai setiap upaya yang sistematik dan sengaja untuk menciptakan agar terjadinya kegiatan interaksi edukatif antara dua pihak, yaitu antara peserta didik (warga belajar) dan pendidik (sumber belajar) yang melakukan kegiatan pembelajaran. dari pernyataan diatas, pembelajaran pada dasarnya merupakan suatu proses interaksi komunikasi anatara sumber belajar, guru dan peserta didik. Interaksi komunikasi itu dilakukan baik secara langsung dalam kegiatan tatap muka maupun secara tidak langsung dengan menggunakan media. Istilah “Ilmu Pengetahuan Sosial”, disingkat IPS, merupakan nama mata pelajaran di tingkat sekolah dasar dan menengah atau nama program studi di perguruan tinggi identik dengan istilah “social studies”. Istilah IPS di sekolah dasar merupakan nama mata pelajaran yang berdiri sendiri sebagai integrasi dari sejumlah konsep disiplin ilmu sosial, humaniora, sains bahkan berbagai isu dan masalah sosial kehidupan Swasono (2013: 20).
+IPS adalah suatu bahan kajian terpadu yang merupakan penyederhanaan, adaptasi, seleksi dan modifikasi diorganisasikan dari konsep-konsep ketrampilan ketrampilan Sejarah, Geografi, Sosiologi, Antropologi, dan Ekonomi (Puskur, 2001: 9). Fakih Samlawi & Bunyamin Maftuh (1999: 1) menyatakan bahwa IPS merupakan mata pelajaran yang memadukan konsep-konsep dasar dari berbagai ilmu sosial disusun melalui pendidikan dan psikologis serta kelayakan dan kebermaknaannya bagi siswa dan kehidupannya. Ilmu Pengetahuan Sosial (IPS) merupakan salah satu mata pelajaran wajib dalam pendidikan di tingkat dasar maupun menengah di Indonesia. IPS di luar negeri lebih dikenal dengan social studies, social education, social studies education, dan sebagainya. Wesley (Swasono, 2013:32) menyatakan bahwa “the social studies are the social sciences simplified for pedagodical purpose”. Jadi IPS menurut Wesley lebih mengarah kepada penyederhanaan ilmu-ilmu sosial yang bertujuan pada kemampuan pedagogik.
+Tujuan pembelajaran Pendidikan IPS untuk tingkat sekolah diungkapkan oleh Somantri (Noman S. 2011: 44) bahwa: “suatu penyederhanaan disiplin ilmu-ilmu sosial, psikologis, filsafat, ideologi negara dan agama yang diorganisasikan dan disajikan secara ilmiah dan psikologis untuk tujuan pendidikan”. Selain itu tujuan dari mata pelajaran IPS yaitu sebagai berikut:
+1) Mengenal konsep-konsep yang berkaitan dengan kehidupan masyarakat dan lingkungannya; 2) memiliki kemampuan dasar untuk berfikir logis dan kritis, rasa ingin tahu, inkuiri, memecahkan masalah, dan ketrampilan dalam kehidupan sosial; 3) memiliki komitmen dan kesadaran terhadap nilai-nilai sosial dan kemanusiaan; dan, 4) memiliki kemampuan berkomunikasi, bekerjasama dan berkompetisi dalam masyarakat yang majemuk, ditingkat lokal, nasional, dan global.
+Tujuan utama Ilmu Pengetahuan Sosial ialah untuk mengembangkan potensi peserta didik agar peka terhadap masalah sosial yang terjadi di masyarakat, memiliki sikap mental positif terhadap perbaikan segala ketimpangan yang terjadi, dan terampil mengatasi setiap masalah yang terjadi sehari-hari baikyang menimpa dirinya sendiri maupun yang menimpa masyarakat. Tujuan tersebut dapat dicapai manakala program-program pelajaran IPS di sekolahdiorganisasikan secara baik. Dari rumusan tujuan tersebut dapat dirinci sebagaiberikut (Noman S. 2011: 54).
+Website merupakan fasilitas internet yang menghubungkan dokumen dalam lingkup lokal maupun jarak jauh. Dokumen pada website disebut dengan web page dan link dalam website memungkinkan pengguna bisa berpindah dari satu page ke page lain (hyper text), baik diantara page yang disimpan dalam server yang sama maupun server diseluruh dunia. Pages diakses dan dibaca melalui browser seperti Netscape Navigator atau Internet Exploler berbagai aplikasi browser lainnya.
+Pembelajaran berbasis web yang populer dengan sebutan web-based treaning (WBT) atau kadan disebut web-based education (WBE) dapat didefinisikan sebagai aplikasi teknologi web dalam dunia pembelajarn untuk sebuah proses pendidikan. Secara sederhana dapat dikatakan bahwa semua pembelajaran dengan memanfaatkan teknologi internet dan selam proses belajar dirasakan terjadi oleh yang mengikutinya maka kegiatan itu dapat disebut sebagai pembelajaran berbasis web. Pembelajaran berbasis media website merupakan bagian dari pemanfaatan internet dalam dunia pendidikan dan merupakan suatu kegiatan pembelajaran yang memanfaatkan media situs (website) yang bisa diakses melalui jaringan internet. Kelebihan belajar dengan menggunakan internet antara lain adalah sebagai berikut :
+1) Memungkinkan setiap orang dimanapun, kapan pun, untuk mempelajari apapun.
+2) Pembelajar dapat belajar sesuai dengan karakteristik dan langkahnya dirinya sendiri karena pembelajaran berbasis web membuat pembelajaran bersifat individual
+3) Kemampuan untuk membuat tautan (link), sehingga pembelajar dapat mengakses informasi dari berbagai sumber, baik didalam maupuan diluar lingkunganbelajar.
+4) Sangat potensial sebagai sumber belajar bagi pembelajar yang tidak memiliki cukup waktu untuk belajar.
+5) Dapat mendorong pembelajar untuk lebih aktif dan mandiri di dalam belajar.
+6) Menyediakan sumber belajar tambahan yang dapat digunakan untuk memperkaya materi pembelajaran.
+7) Menyediakan mesin pencari yang dapat digunakakn untuk mencari informasi yang mereka butuhkan.
+8) Isi materi pelajaran dapat di-update dengan mudah.
+Menurut Rusman (2009:118), ada lima kelebihan pembelajaran berbasis web yaitu: Access is evailable anytime, anywhere, aroud the globe (akses tersedia kapanpun, di seluruh dunia)Internet telah menjadi sebuah sarana komunikasi dua arah yang sangat banyak digunakan. Kini seorang peserta didik memiliki akses yang sangat besar terhadap informasi apapun, termasuk informasi pembelajaran.
+Dalam penelitian ini diajukan pertanyaan sebagai berikut; (1) Bagaimana hasil media pembelajaran IPS berbasis website untuk siswa MTs. Negeri Gorontalo Kelas VII pokok bahasan kegiatan ekonomi? (2) Bagaimana keefektifan pembelajaran IPS berbasis website untuk siswa SMP/MTs kelas VII pokok bahasan kegiatan ekonomi. METODE PENELITIAN
+Metode yang digunakan dalam penelitian adalah Metoede Penelitian Pengembangan (Reserch and Development atau R&D) dengan menggunakan model ADDIE (analysis, desaign, development, implementation, evaluation). Metode penelitian ini digunakan untuk menghasilkan produk tertentu, dan menguji keefektifan produk tersebut. Model ADDIE terdiri dari lima tahap yaitu :
+1). Tahap Analisa (Analyze)
+Pada tahap analisis biasanya meliputi pelaksanaan analisis kebutuhan, identifikasi masalah dan merumuskan tujuan. pada tahap analisis, pengembang mengidentifikasi kesenjangan antara kondisi pembelajar saat ini seperti pengetahuan, ketrampilan dan prilaku dengan hasil yang diinginkan. Selain itu juga penting untuk mempertimbangkan karakteristik pebelajar. Tujuan, pengalaman dan bagaimana hal ini daman dimanfaatkan dalam proses pembelajaran. Pada tahap ini dilakukan analisis tujuan sesuai dengan kebutuhan yang dicapai.
+Tahap analisis merupakan suatu proses yang akan mendefinisikan apa yang akan dipelajari pelajar maka untuk mengetahui atau menentukan apa yang harus dipelajari kita harus mengetahuI beberapa kegiatan, diantaranya adalah melakukan analisis kebutuhan, mengidentifikasi masalah , melakukan analisis tugas oleh karena itu keluaran (output) yang akan dihasilkan adalah beberapa karakteristik pebelajar, identifikasi kesenjangan , identifikasi kebutuhan dan analisis tugas yang rinci berdasarkan kebutuhan.
+Tahap analisa terdiri dari 2 tahap, yaitu : 1) analisis kerja (performance analysis) pengembangan menganalisis ketrampilan, pengetahuan dan motivasi belajar siswa pada proses pembelajaran, 2) analisis kebutuhan (need analysis), pada langkah ini pengembang menganalisis kebutuhan dan permasalahan belajar yaitu berupa materi yang relevan, web pembelajaran, media presentasi,pembelajaran, strategi pembelajaran, motivasi belajar dan kondisi belajar.
+2) Desain (Design)
+Pada tahap desain terdiri dari perumusan tujuan umum yang dapat diukur, mengklasifikasikan pembelajar menjadi beberapa tipe, memilih aktifitas pembelajar dan memilih media. Pada tahap desain pengembang merencanakan tujuan belajar, proses penilaian, kegiatan pembelajaran dan isi pembelajaran. Tujuan biasanya di tetapkan untuk tiga domain, yaitu kognitif (berpikir), psikomotor (gerak) dan efektif (sikap) pertimbangan dalam proses ini meliputi kegiatan memilih media dan strategi pembelajaran yang akan digunakan dalam proses pembelajaran berbasis penggabungan (blended) .
+Pada tahap ini yaitu mendesain bahan ajar sedemikian rupa dengan merumuskan tujuan pembelajaran baik umum maupun khusus selanjutnya mengembangkan butir-butir tes atau soal untuk mengukur tingkat kemajuan mahasiswa dan tingkat pencapaian tujuan yang telah dirumuskan, dan yang terakhir mengembangkan strategi pembelajaran. Pengembangan pembelajaran berbasis penggabungan (blended) ini juga didesain dengan memperhatikan prinsip-prinsip desain pesan agar dapat menarik perhatian siswa.
+Pada proses ini pengembang merekayasa model pembelajaran IPS berbasis website sedemikian rupa dengan merumuskan tujuan pembelajaran baik umum maupun khusus. Selanjutnya mengembangkan butir-butir tes atau soal yang digunakan untuk mengukur tingkat kemajuan siswa dan tingkat pencapaian tujuan yang telah dirumuskan. Dan terakhir mengembangkan strategi pembelajaran. Pengembangan pembelajaran model pembelajaran IPSberbasis website juga didesain untuk memperhatikan prinsip-prinsip desain pesan agar dapat menarik perhatian siswa.
+3) Pengembangan (Development )
+Tahap pengembangan meliputi menyiapkan material untuk pebelajar dan pengajar sesuai dengan spesifikasi produk yang dikembangkan. Paa tahap pengembangan. Yaitu mengembangkan produk sesuai dengan materi dan tujuan yang akan disampaikan dalam pembelajaran, begitu pula dengan lingkungan belajar lain yang akan mendukung proses pembelajaran, semuanya harus disiapkan dalam tahap ini.
+Pengembangan berupaya menyusun dan merekayasa media pembelajaran berdasarkan informasi yang telah diperoleh dari berbagai tahap sebelumnya. Pengembang memodifikasi media yang telah ada berupa Layanan dari Googleuntuk media pembelajaran, media presentasi, panduan operasional siswa dan tenaga pendidik, serta menentukan media dan strategi siswa yang disesuaikan dengan karakteristik siswa dalam pembelajaran model pembelajaran IPS berbasis website.
+4) Implementasi (Implementation)
+Tahap implementasi meliputi pengiriman atau penggunaan produk pengembangan untuk diaplikasikan dalam proses pembelajaran yang sudah didesain sedemikian rupa pada tahap desain. Pada tahap ini sering diasosiasikan dengan penyelenggaraan program pembelajaran. Langkah ini memilki makna adanya penyampaian materi pembelajaran dari guru kepada siswa..
+Selain itu pada tahap implementasi langkah pertama yang dilakukan adalah melakukan validasi model pembelajaran. Model pembelajaran IPS berbasiswebsite divalidasi terlebih dahulu kepada para ahli, yakni ahli isi, ahli desain, dan ahli media pembelajaran. Setelah dilakukan validasi dan dinyatakan layak sebagai media pembelajaran maka uji coba akan dilakukan pada uji coba perorangan kelompok kecil dan lapangan yaitu siswa MTsN. Kota Gorontalo dalam uji lapangan ini selain menggunakan angket sebagai pengumpul data, pengembang juga mengadakan proses pembelajaran dengan menggunakan media yang sudah dikembangkan.
+5) Evaluasi ( Evaluation)
+Pada langkah ini pengembang melakukan klarifikasi data yang didapat dari angket berupa tanggapan dari siswa, serta terhadap kompetensi, pengetahuan dan keterampilan dan sikap yang harus dimiliki oleh siswa pada siswa setelah mengikuti kegiatan pembelajaran.
+Pada tahap evaluasi meliputi 2 bentuk evaluasi yaitu evaluasi formatif dan sumatif dan kemudian dilakukan revisi apabila diperlukan. Evaluasi yang dilakukan pada penelitian pengembangan kali ini yaitu evaluasi formatif pada tiap fase pengembangan yaitu selanjutnya dilakukan revisi untuk mengetahui apakah produk pengembangan apakah sudah valid untuk diaplikasikan dalam pembelajaran. Pada tahap evaluasi desainer melakukan evaluasi terhadap produk pengembangan yang meliputi isi / materi, media pembelajaran yang dikembangkan serta evaluasi terhadap efektifitas dan keberhasilan media yang dikembangkan.
+HASIL PENELITIAN DAN PEMBAHASAN
+Hasil penelitian atau analisis data penelitian sebagaimana yang dipaparkan sebelumnya akan dijadikan pijakan untuk melakukan kajian atau analisis lebih lanjut tentang pengembangan media pembelajaran berbasis website. Dengan menggunakan model ADDIE yang telah dibuat cukup layak dijadikan suatu produk penelitian pengembangan khusunya mata pelajaran IPS. Pengembangan media pembelajaran berbasis website ini dilakukan melalui serangkaian proses atau tahapan kegiatan berdasarkan teori pengembangan model ADDIE.
+Hasil penelitian menunjukkan bahwa pembelajran IPS berbasis website yang telah dirancang peneliti dan divalidasi oleh para ahli diperoleh hasilnya berupa pembelajaran yang valid dan realiabel baik dianalisis secara teoritik maupun empiris dengan kesimpulan sangat layak digunakan. Inti dari pengembangan pembelajaran berbasis website berdasarkan model ADDIE. Yakni terletak pada langkah 3 yang disebut tahap pengembangan (development). Hal ini disebabkan karena pada tahap ini produk yang telah dirancang oleh peneliti divalidasi oleh para ahli. Validasi ini berupa saran atau masukan para ahli yang disertai penilaian dalam bentuk skor-skor terhadap masing-masing perangkat. Saran atau masukan para ahli dijadikan dasar untuk revisi perngakat dan skor penilaian para ahli atau panelis diolah secara statistic untuk dijadikan dasar pengambilan keputusan apakah perangakt tersebut valid atau reliabel
+Adapun analisis deskriptif dari hasil pengembangan pembelajaran IPS dengan menggunakan model ADDIE dapat didasarkan pada 4 hal pokok yakni: 1) hasil validasi materi yang digunakan dalam pembelajran website oleh para ahli, 2) hasil validasi media pembelajaran website oleh para ahli, 3) hasil respon guru oleh guru IPS melalui pengamatan penerapan pembelajaran IPS berbasis website di kelas, 4) hasil respon siswa melalui penerapan pembelajaran IPS berbasis website dalam kelompok kecil siswa di kelas (Wilkinson (1994). Keempat hal tersebut merupakan gambaran profesionalisme seorang guru dalam merencanakan pembelajaran, melaksanakan serta mengevaluasi pembelajaran.
+Perencanaan merupakan kegiatan awal yang harus dilakukan setiap orang jika ingin melakukan kegiatan. Pada umumnya keberhasilan suatu program ditentukan oleh seberapa besar kualitas perencanaan yang dibuatnya. Dalam penelitian ini perencanaan yang dilakukan oleh peneliti tiadak lain termasuk dalam tahap analisis. Dalam tahap ini peneliti menganalisis setiap kebutuhan siswa, masalah yang dihadapi, kompetensi yang dimiliki siswa serta hasil yang yang akan dicapai. Tahap ini pun yang menjadi dasar dilakukan oleh peneliti sebelum peneliti melaksanakan proses pembelajaran.
+Untuk melihat dan menilai secara keseluruhan respon dan tanggapan peserta didik terhadap kualitas isi, kualitas bahasa, dan kualitas penyajian produk bahan ajar menggunakan instrumen berupa angket. Untuk lebih jelasnya dituangkan dalam tabel 4.1
+
+Tabel 4.1 Tabulasi Hasil Respon Siswa Terhadap Pembelajaran Berbasis Website.
+No
+Aspek yang direspon
+Respon Siswa
+Ya
+Tidak
+A.
+Apek Kebahasaan
+1
+Apakah kalian senang dengan unsur kebahasaan materi pelajaran yang ada pada website ini? 100%
+-
+2
+Menurut kalian, apakah suasana pembelajaran berbasis website dengan bahasa seperti ini memudahkan kalian belajar secara mandiri? 100%
+-
+3
+Apakah bahasa atau kalimat yang digunakan dalam website pembelajaran ini mudah dipahami? 100%
+-
+4
+Apakah kalian tertarik dengan penampilan tulisan, ilustrasi/gambar, video yang disajikan dalam website pembelajaran ini? 96%
+4%
+B.
+Apek Pemrograman
+5
+Apakah kalian senang dengan pembelajaran berbasis website? 100%
+-
+6
+Apakah pemilihan menu pada materi pembelajaran berbasis website ini jelas ? 100%
+-
+7
+Apakah tulisan pada materi pembelajaran berbasis website ini mudah dipahami ? 100%
+-
+8
+Apakah materi pada website ini mudah untuk dicari/telusuri? 92%
+8%
+C.
+Apek Tampilan
+9
+Apakah kalian tertarik dengan tampilan website ini? 100%
+-
+10
+Apakah background, warna dan gambar dalam website ini menarik? 100%
+-
+11
+Apakah ukuran gambar, huruf dan jenis huruf dalam website ini sesuai? 100%
+-
+12
+Apakah anda tertarik dengan video serta gambar yang tersaji dalam website ini? 100%
+-
+D.
+Apek Keterlaksanaan
+13
+Apakah dengan pembelajaran menggunakan website ini, kalian dapat termotivasi untuk mengikuti pembelajaran IPS?
+100%
+-
+14
+Apakah website ini memuat contoh yang lebih nyata sehingga teraplikasikan dalam kehidupan sehari-hari?
+100%
+-
+15
+Apakah website ini memudahkan pembelajaran untuk digunakan kapan saja dan dimana saja?
+88%
+12%
+
+
+
+
+
+Berdasarkan Tabel 4.1, aspek kebahasaan yang memiliki nilai 100% terdiri dari 3 komponen sedangkan 1 komponen bernilai 96%, aspek pemograman yang memilki nilai 100% terdiri dari 3 komponen sedangkan 1 komponen memiliki nilai 92%, komponen tampilan keseluruhannya memilki nilai 100% sedangkan aspek keterlaksanaan yang memilki nilai 100% terdiri dari 3 komponen sedangkan 1 komponen memilki nilai 88% tertarik dengan pembelajaran berbasis website.
+Selanjutnya berdasarkan respon siswa ini peneliti melakukan revisi produk yang berupa revisi penampilan tulisan, ilustrasi/gambar, video yang disajikan, revisi materi pada website sehingga mudah untuk dicari/telusuri serta revisi website untuk memudahkan pembelajaran sehingga dapat digunakan kapan saja dan dimana saja. Sedangkan untuk revisi materi peneliti menambah beberapa sumber belajar sehingga sumber belajar yang digunakan bukan hanya satu melainkan bebrapa sumber belajar yang relevan. Sehingga hasil dari revisi produk ini dapat dilihat dengan meningkatnya hasil respon siswa terhadap pembelajaran berbasis website. Untuk melihat respon siswa setelah produk di revisi seperti digambarkan pada tabel 4.2
+
+Tabel 4.2 Tabulasi Hasil Respon Siswa Terhadap Pembelajaran Berbasis WebSite (setelah revisi produk)
+No
+Aspek yang direspon
+Respon Siswa
+Ya
+Tidak
+A.
+Apek Kebahasaan
+1
+Apakah kalian senang dengan unsur kebahasaan materi pelajaran yang ada pada website ini? 100%
+-
+2
+Menurut kalian, apakah suasana pembelajaran berbasis website dengan bahasa seperti ini memudahkan kalian belajar secara mandiri? 100%
+-
+3
+Apakah bahasa atau kalimat yang digunakan dalam website pembelajaran ini mudah dipahami? 100%
+-
+4
+Apakah kalian tertarik dengan penampilan tulisan, ilustrasi/gambar, video yang disajikan dalam website pembelajaran ini? 100%
+-
+B.
+Apek Pemrograman
+5
+Apakah kalian senang dengan pembelajaran berbasis website? 100%
+-
+6
+Apakah pemilihan menu pada materi pembelajaran berbasis website ini jelas ? 100%
+-
+7
+Apakah tulisan pada materi pembelajaran berbasis website ini mudah dipahami ? 100%
+-
+8
+Apakah materi pada website ini mudah untuk dicari/telusuri? 100%
+-
+C.
+Apek Tampilan
+9
+Apakah kalian tertarik dengan tampilan website ini? 100%
+-
+10
+Apakah background, warna dan gambar dalam website ini menarik? 100%
+-
+11
+Apakah ukuran gambar, huruf dan jenis huruf dalam website ini sesuai? 100%
+-
+12
+Apakah anda tertarik dengan video serta gambar yang tersaji dalam website ini? 100%
+-
+D.
+Apek Keterlaksanaan
+13
+Apakah dengan pembelajaran menggunakan website ini, kalian dapat termotivasi untuk mengikuti pembelajaran IPS?
+100%
+-
+14
+Apakah website ini memuat contoh yang lebih nyata sehingga teraplikasikan dalam kehidupan sehari-hari?
+100%
+-
+15
+Apakah website ini memudahkan pembelajaran untuk digunakan kapan saja dan dimana saja?
+100%
+-
+
+Berdasarkan tabel 4.2 dapat dilihat bahwa setelah dilakukan revisi produk diperoleh bahwa keseluruhan aspek memilki nilai 100%. Artinya bahwa siswa tertarik dalam menggunakan pembelajaran IPS berbasis Website, sehingga produk tersebut tidak perlu direvisi lagi.
+a. Uji Coba Produk Pada Para Ahli
+Pada uji coba ahli ini ada dua orang ahli yang dilibatkan yaitu (1) ahli materi, (2) ahli media. Pada penelitian ini, yang dikelompokkan dalam ahli materi terdiri dari ahli bahasa, guru mata pelajaran IPS, Instruktur MGMP IPS, Wakil kepala sekolah dalam hal ini kurikulum, serta dosen IPS. Sedangkan untuk ahli media terdiri dari : Dosen media pembelajaran, Ahli website, Ahli e-learning, ahli psikologi pendidikan, Ahli jaringan. Penilaian dilakukan dengan cara memberikan angket berupa lembar instrumen respon kepada para ahli yang mencakup angket penilaian materi serta penilaian media yang digunakan. Angket diisi oleh para ahli setelah melihat dan mengggunakan materi dan media pembelajaran website yang dikembangkan. Penilaian terhadap media pembelajaran website. Rata-rata hasil penilaian dari guru mata pelajaran IPS diuraikan sebagai berikut :
+Tabel 4.3 Tabulasi Hasil Angket Guru Dalam Pembelajaran
+IPS Berbasis WebSite
+No
+Aspek yang direspon
+Respon Guru
+Ya
+Tidak
+A.
+Apek Pembelajaran
+1
+Apakah materi pada website ini sesuai dengan Kompetensi Inti (KI), Kompetensi Dasar (KD), dan Indikator Pencapaian Kompetensi?
+√
+2
+Apakah indikator keberhasilan di website ini tepat sesuai dengan materi?
+√
+3
+Apakah urutan penyajian materi serta pemberian latihan sudah sesuai?
+√
+4
+Apakah pada sajian materi dengan memanfaatkan gambar dan video memberikan kontribusi yang baik pada website tersebut?
+√
+B.
+Apek Kebahasaan
+5
+Apakah website ini telah menyesuaikan dengan bahasa dengan tingkat berfikir peserta didik?
+√
+6
+Apakah dengan tata bahasa dan ejaan pada materi di dalam website memudahkan materi untuk dipahami?
+√
+7
+Apakah kelugasan bahasa dan istilah dalam website ini sudah sesuai?
+√
+8
+Apakah materi pada website ini mampu mendorong rasa ingin tahu?
+√
+C.
+Apek Kelengkapan Media
+9
+Apakah website ini memuat kelengkapan daftar materi?
+√
+10
+Apakah website ini memiliki kelengkapan judul dan keterangan judul?
+√
+11
+Apakah website ini dilengkapi dengan gambar dan video?
+√
+D.
+Apek Keterlaksanaan
+12
+Apakah dengan pembelajaran menggunakan website ini, kalian dapat termotivasi untuk mengikuti pembelajaran IPS?
+√
+13
+Apakah website ini memuat contoh yang lebih nyata sehingga teraplikasikan dalam kehidupan sehari-hari?
+√
+14
+Apakah website ini telah relevan sebagai media pembelajaran?
+√
+15
+Apakah website ini memudahkan pembelajaran untuk digunakan kapan saja dan dimana saja?
+√
+Rerata
+87%
+13%
+
+Berdasarkan tabel 4.3 dapat digambarkan bahwa dari hasil respon siswa terhadap pembelajaran berbasis website ini memperoleh nilai sebesar 87% pada kategori Ya dan 13 % berada pada kategori Tidak. Jika melihat perolehan nilai tersebut maka berdasarkan respon guru tersebut peneliti melakukan revisi. Revisi dilakukan pada penyesuaian tata bahasa dengan tingkat berpikir siswa serta penggunaan bahasa yang mudah dimengerti oleh siswa.Untuk penggunaan bahasa dalam materi yang diajarkan menggunakan kalimat yang lugas, sederhana tidak terlalu sulit untuk dipahami sehingga sesuai dengan tingkat berpikir siswa .
+Hasil revisi tersebut menghasilkan adanya peningkatan perolehan niali menjadi 100% disetiap aspek yang dinilai. Respon guru tersebut seperti dituangkan dalam Tabel 4.4.
+Tabel 4.4 Instrumen Angket Guru Dalam Pembelajaran
+Berbasis WebSite
+No
+Aspek yang direspon
+Respon Guru
+Ya
+Tidak
+A.
+Apek Pembelajaran
+1
+Apakah materi pada website ini sesuai dengan Kompetensi Inti (KI), Kompetensi Dasar (KD), dan Indikator Pencapaian Kompetensi?
+√
+2
+Apakah indikator keberhasilan di website ini tepat sesuai dengan materi?
+√
+3
+Apakah urutan penyajian materi serta pemberian latihan sudah sesuai?
+√
+4
+Apakah pada sajian materi dengan memanfaatkan gambar dan video memberikan kontribusi yang baik pada website tersebut?
+√
+B.
+Apek Kebahasaan
+5
+Apakah website ini telah menyesuaikan dengan bahasa dengan tingkat berfikir peserta didik?
+√
+6
+Apakah dengan tata bahasa dan ejaan pada materi di dalam website memudahkan materi untuk dipahami?
+√
+7
+Apakah kelugasan bahasa dan istilah dalam website ini sudah sesuai?
+√
+8
+Apakah materi pada website ini mampu mendorong rasa ingin tahu?
+√
+C.
+Apek Kelengkapan Media
+9
+Apakah website ini memuat kelengkapan daftar materi?
+√
+10
+Apakah website ini memiliki kelengkapan judul dan keterangan judul?
+√
+11
+Apakah website ini dilengkapi dengan gambar dan video?
+√
+D.
+Apek Keterlaksanaan
+12
+Apakah dengan pembelajaran menggunakan website ini, kalian dapat termotivasi untuk mengikuti pembelajaran IPS?
+√
+13
+Apakah website ini memuat contoh yang lebih nyata sehingga teraplikasikan dalam kehidupan sehari-hari?
+√
+
+14
+Apakah website ini telah relevan sebagai media pembelajaran?
+√
+15
+Apakah website ini memudahkan pembelajaran untuk digunakan kapan saja dan dimana saja?
+√
+Rerata
+100%
+-
+Berdasarkan tabel 4.4 dapat dilihat bahwa setelah dilakukan revisi produk diperoleh bahwa keseluruhan aspek memilki nilai 100%. Artinya bahwa berdasarkan respon guru penggunaan pembelajaran IPS berbasis Website dapat memberikan hasil yang baik khususnya dalam meningkatkan hasil belajar siswa, sehingga produk tersebut tidak perlu direvisi lagi.
+B. Efektivitas Model
+Dalam tahap ini yang dilakukan oleh peneliti adalah dengan mengevaluasi keefektifan produk yang diterapkan pada satu kelas serta membandingkan hasilnya tersebut dengan kelas yang tidak dibelajarkan dengan menggunakan produk tersebut. Hasil dari pantauan yang dilakukan oleh peneliti dimana dengan menggunakan pembelajaran berbasis website pada mata pelajaran IPS, diantaranya: siswa lebih mudah dalam belajar mandiri tanpa merasa ada orang lain yang mengamati tingkat kesulitan tugas yang dikerjakannya serta siswa bisa mengetahui kompetensi mana yang telah tercapai dan kompetensi mana yang belum tercapai. Untuk lebih jelasya berikut ini hasil evaluasi keefektifan produk yang dicantumkan dalam tabel 4.5
+Tabel 4.5 Penilaian Keefektifan Produk Pembelajaran Berbasis Website
+NO
+ASPEK YANG DIAMATI
+KATEGORI
+YA
+TIDAK
+1
+Pembelajaran mampu membangkitkan minat atau motivasi belajar siswa
+√
+2
+Pembelajaran mampu rangsangan kepada siswa untuk lebih percaya diri dalam melakukan interaktif dengan guru
+√
+3
+Siswa mampu belajar mandiri,
+√
+4
+Memilki hasrat keingintahuan yang cukup besar sehingga tidak mudah menyerah.
+√
+5
+Mampu bekerja secara kelompok, serta pembelajaran
+√
+6
+Menghasilkan siswa yang memilki dedikasi bergairah serta aktif dalam melaksanakan tugas.
+√
+Jumlah
+100%
+-
+Dari data di atas menunjukkan bahwa pembelajaran berbasis web site sangat efektif digunakan khususnya dalam mata pelajaran IPS. Hal ini sejalan dengan pendapat yang dikemukakan Daryanto Daryanto (2009; 419) mengemukakan bahwa pembelajaran berbasis website dikatakan berhasil apabila; 1)pembelajran meningkatkan psikologi pendidikan siswa berupa minat dan motivasi belajar siswa,2) mengefektifkan pemberian rangsangan kepada siswa untuk lebih percaya diri dalam melakukan interaktif dengan guru, 3) siswa mampu belajar mandiri, 4)memilki hasrat keingintahuan yang cukup besar sehingga tidak mudah menyerah, 5)mampu bekerja secara kelompok. Dan berdasarkan hasil penilaian kefektifan pembelajaran web site ini Nampak bahwa setiap aspek yang diamati memilki nilai sebesar
+100%. Sehingga dapat di simpulkan bahwa pembelajaran dengan berbasis web site sudah layak untuk digunakan khusunya pada mata pelajaran IPS di kelas VII MTs Negeri Kota Gorontalo. Di samping itu juga untuk melihat kefektifan pembelajaran IPS berbasis website, peneliti membandingkan dengan kelas yang tidak menggunakan pembelajaran dengan berbasis website. Perbandingan tersebut dapat diuraikan dalam tabel berikut ini. Tabel 4.6. Perbandingan Kefektifan Pembelajaran Berbasis Website No
+Kelas Yang Menggunakan Pembelajaran Berbasis Website
+Kelas Yang Tidak Menggunakan
+Pembelajaran Berbasis Website
+1
+Penggunaan pembelajaran berbasis website memberikan penghargaan diri siswa yang artinya siswa lebih percaya diri dalam berinteraksi dengan guru.
+Siswa hanya duduk diam dan tidak nampak interaktif antara guru dan siswa
+2
+Siswa lebih mudah dalam belajar mandiri tanpa
+merasa ada orang lain yang mengamati tingkat kesulitan tugas yang dikerjakannya
+Siswa belum mampu belajar mandiri karena
+dalam hal ini siswa hanya bertindak sebagai penerima informasi
+3
+Siswa mampu bekerja secara kelompok karena memberikan manfaat bagi siswa yang memilki kemampuan lebih rendah untuk membangun kepercayaan dirinya yang diperoleh dari siswa lainnya.
+Siswa belum mampu bekerja secara
+keompok
+4
+siswa bisa mengetahui kompetensi mana yang telah tercapai dan kompetensi mana yang belum tercapai
+Siswa belum bisa mengetahui kompetensi yang dicapai
+Berdasarkan tabel 4.6 maka pembelajaran berbasis website memberikan dampak positif selama proses pembelajaran berlangsung dibandingkan
+dengan kelas yang belum menggunakan pembelajaran berbasis website.
+KESIMPULAN Berdasarkan hasil penelitian pengembangan pembelajaran yang berbasis website pada materi kegiatan ekonomi, maka dapat diambil kesimpulan sebagai berikut. 1. Pengembangan pembelajaran IPS berbasis website menggunakan model ADDIE cukup
+efektif untuk dapat dimanfaatkan sebagai media pembelajaran. 
+
+2. Penilaian validator ahli tentang materi pembelajaran IPS berbasis web cukup tinggi sehingga sangat layak digunakan.
+3. Penilaian ahli media yang menyatakan bahwa media tersebut sangat layak digunakan
+4. Hasil uji coba kelompok kecil yang dilakukan pada 25 orang peserta didik mencapai 100% yang tertarik dengan pembelajaran berbasis website ini dengan kategori layak sekali untuk digunakan dalam pembelajaran IPS.
+5. Hasil respon guru IPS pada pengamatan pembelajaran berbasis website ini mencapai 100% dengan kategori layak sekali sehingga dapat digunakan dalam pembelajaran IPS.

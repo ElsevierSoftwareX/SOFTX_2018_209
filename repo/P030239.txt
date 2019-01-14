@@ -1,0 +1,76 @@
+﻿BAB I
+PENDAHULUAN
+1.1. Latar Belakang
+Dunia industri di Indonesia berkembang dengan begitu cepat, demikian
+juga perkembangan pada bidang konstruksi. Baja konstruksi sebagai komponen
+utama konstruksi memegang peranan yang sangat penting pada bidang tersebut.
+Bidang konstruksi sekarang ini mengarah pada penekanan biaya produksi dan
+mempercepat proses produksinya. Hal ini jelas bertujuan untuk meningkatkan
+efektifitas, efisiensi, dan produktifitas perusahaan yang akhirnya akan
+meningkatkan profit bagi perusahaan itu sendiri.
+Salah satu tahapan kerja dalam pembangunan konstruksi adalah pekerjaan
+sambungan yaitu menyambung satu bagian konstruksi dengan bagian konstruksi
+yang lainnya. Penyambungan dapat dilakukan dengan proses las (weld joint),
+sambungan keling (rivet joint) maupun sambungan mur baut (bolt nut joint). Pada
+pekerjaan sambungan dengan keling maupun mur baut diawali dengan proses
+pelubangan. Besar kecilnya lubang dan jumlah lubang sangat tergantung pada
+besar kecilnya konstruksi yang juga berkaitan dengan besar kecilnya beban yang
+diterima bagian konstruksi tersebut. Secara umum besar diameter lubang untuk
+konstruksi baja bangunan bertingkat umumnya dapat mencapai diameter 24 mm.
+Pembuatan lubang keling atau baut dengan diameter besar atau lebih besar dari 10
+mm umumnya dibuat melalui tiga tahapan proses perbesaran lubang, yaitu
+dimulai dengan diameter bor 4 mm kemudian diameter 10 mm dan yang terakhir
+diameter yang dikehendaki yaitu 18 mm, 22 mm, atau 24 mm. Proses tersebut
+membutuhkan banyak waktu yaitu waktu untuk proses pengeboran itu sendiri
+yang dilakukan bertahap sesuai diameter lubang ditambah dengan waktu untuk
+penggantian mata bor.
+Penelitian-penelitian sebelumnya mengenai proses pengeboran telah
+banyak dilakukan, antara lain oleh : Wei Zhang dan Fengbao He, 2003, meneliti
+tentang pengaruh perubahan drill point pada twist drill guna menimimalkan panas
+yang timbul pada saat melakukan pengeboran material manganese steel. Hasil
+dari perubahan drill point tersebut adalah menambah umur twist drill 33% lebih
+lama dibandingankan conventional drill. J.Pradeep Kumar dan P.Packiaraj, 2012,
+meneliti tentang kekasaran lubang hasil pengeboran akibat dari keausan mata bor
+sebagai efek perbedaan drilling parameter seperti : cutting speed, feed, dan
+diameter bor. Hasilnya adalah parameter pengeboran sangat mempengaruhi
+kekasaran permukaan, keausan bor, material removal rate dan penyimpangan
+diameter lubang . Liao dan Lin, 2007, meneliti tentang bebutuhan minimum
+cutting fluid pada pemotongan menggunakan material High Speed Milling
+hardened Steel dan pengaruhnya pada keausan mata potong insert carbide.
+Hasilnya adalah proses pemotongan dengan lubrication memperpanjang umur
+pahat, memperkecil gaya potong dan kekasaran permukaannya lebih halus. K.
+Ramesh, 2012 , meneliti tentang kestabilan pahat boring pada proses pembubutan,
+yang di fokuskan pada pemberian material yang dapat mengurangi pengaruh
+getaran yang di akibatkan proses pemotongan pahat. Namun semua penelitian
+diatas terfokus pada faktor parameter pemotongan terhadap lubang yang
+dihasilkan. Pada penelitian ini nanti akan di fokuskan pada perancangan dan
+pembuatan pahat bor multidiameter yang disesuaikan dengan kebutuhan lubang
+pada baja konstruksi dan pengujiannya pada mesin bor magnet.
+1.2. Perumusan Masalah
+Dalam rangka meningkatkan kecepatan kerja dalam pembuatan sebuah
+lubang, maka akan dirancang sebuah pahat bor multidiameter yang bisa membuat
+lubang pada baja konstruksi, dimana hasil rancangan tersebut dapat menghasilkan
+lubang dengan sekali proses pengeboran, dan prototipe hasil rancangan pahat bor
+multidiameter kemampuannya dalam membuat lubang akan diinvestigasi.
+1.3. Tujuan Penelitian
+Tujuan dari penelitian ini adalah merancang pahat bor multidiameter yang
+mampu membuat lubang diameter 24 mm pada material baja lunak ( Mild Steel )
+dengan sekali proses pengeboran.
+1.4. Manfaat Penelitian
+Manfaat dari penelitian ini adalah pahat bor multidiameter yang dihasilkan
+dapat membantu dalam pengerjaan pembuatan lubang pada baja konstruksi,
+dengan waktu yang lebih cepat , menurunkan beban kerja operator dan
+menghasilkan lubang pengeboran yang masuk dalam batasan toleransi
+sambungan mur baut, sehingga tidak diperlukan lagi proses pengeboran yang
+berulang-ulang dengan mengganti-ganti diameter mata bor.
+
+1.5. Ruang Lingkup Penelitian
+Untuk membatasi permasalahan yang terjadi berkaitan dengan penelitian,
+ada beberapa hal yang menjadi batasan yaitu :
+1. Ketebalan pelat yang akan dibuat lubang pada baja konstruksi
+maksimal 10 mm dengan diameter lubang 24 mm.
+2. Material yang akan di buat lubang adalah baja lunak ( Mild Steel ).
+3. Putaran spindle diasumsikan konstan ( 320rpm, sesuai mesin bor
+magnet ).
+4. Pemakanan (feeding) dilakukan secara manual, dan diasumsikan
+konstan.

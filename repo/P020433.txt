@@ -1,0 +1,117 @@
+﻿Medan magnet merupakan medan konservatif yang ada disekitar magnet.
+Keberadaan magnet dan dampaknya dapat kita lihat disekitar kita, misalnya
+defleksi jarum kompas sebagai akibat dari medan magnet bumi. Untuk
+mendeteksi dan mengukur kuat medan, diperlukan alat instrumentasi yang
+dirancang untuk itu.
+Alat instrumentasi pengukuran ini dibuat dengan menggunakan sensor pendeteksi
+medan magnet yang menggunakan prinsip effect hall dan untuk mengolah dan
+menampilkan sinyal yang diperoleh dari sensor digunakan sistem mikrokontroler
+ATMega8535. Nilai output sensor tidak langsung diolah oleh mikrokontroler
+melainkan melewati serangkaian penguat sinyal. Untuk menguatkan sinyal
+masukan dipergunakan IC LM324 pada rangkaian differensial dan summing
+amplifier untuk menjumlahkan output dari LM324 dan tegangan referensi. Untuk
+menampilkan nilai kuat medan magnet digunakan LCD 16x2. Rangkaian power
+supply dirancang khusus untuk alat instrumentasi ini.
+Hasil pengukuran yang diperoleh sesuai dengan hasil pengukuran dengan Gauss
+meter standar yang juga digunakan sebagai alat kalibrasi. Error pengukuran pada
+perancangan instrumentasi ini adalah 18,18%.
+Kata kunci : Effect hall, differensial, summing amplifier, mikrokontroler
+ATMega8535,power supply,sensor UGN3503
+
+
+I. PENDAHULUAN
+1.1. Latar Belakang
+Perkembangan ilmu pengetahuan dan teknologi sangat pesat dan
+berhubungan erat dengan kebutuhan manusia. Dalam hal ini kebutuhan manusia
+banyak berhubungan dengan barang - barang elektronika, mulai dari kebutuhan
+rumah tangga sampai dengan alat komunikasi, sedangkan setiap peralatan listrik
+bereaksi terhadap medan elektromagnetik. Tanpa kita sadari bahwa alat - alat
+tersebut memancarkan gelombang elektromagnetik yang tidak dapat kita rasakan
+melalui indera secara langsung. Sesuai dengan konsepnya bahwa Gelombang
+elektromagnetik adalah gelombang yang tidak memerlukan medium untuk
+merambat, dapat merambat dalam ruang hampa, Keberadaan gelombang
+elektromagnetik didasarkan pada hipotesis Maxwell (James Clark Maxwell) “Jika
+medan magnet dapat menimbulkan medan listrik, maka sebaliknya, perubahan
+medan listrik dapat menyebabkan medan magnet.” Menurut NASA Reference
+Publication 1374, Juli 1995, pada awal – awal sistem ABS (Antilock Braking
+Systems) digunakan, beberapa mobil yang dilengkapi dengan ABS memiliki
+masalah besar pada pengereman disepanjang jalan tertentu dari Autobahn Jerman.
+System dipengaruhi oleh pemancar radio terdekat.[12] Penelitian telah dilakukan
+oleh Gunawan Sukaca, yaitu tentang perancangan alat pendeteksi medan magnet
+pada peralatan listrik rumah tangga. Penelitian tersebut menekankan pada ada atau
+tidaknya medan magnet pada suatu peralatan listrik pada jarak 10 cm dengan tidak
+memperhatikan berapa besar kuat medan magnet yang ada. Penelitian lainnya
+yang telah dilakukan yaitu tentang perancangan dan pembuatan detektor medan
+magnet menggunakan sensor UGN3503 berbasis PC oleh Maya Fatmawati dari
+UIN Maulana Malik Ibrahim Malang. Pada penelitiannya didapatkan nilai berapa besar kuat medan magnetik dari pemancar medan magnet. Namun pada
+penelitiannya alat yang telah selesai dibuat bersifat tetap, tidak portable, tidak
+dapat dibawa-bawa. Berdasarkan penelitian-penelitian sebelumnya, diperlukan
+alat yang dapat mendeteksi adanya medan magnetik dan menampilkan kuat
+medan tersebut dalam bentuk digital dan alat tersebut bersifat portable.
+
+1.2. Tujuan Penelitian
+Tujuan dari penelitian tugas akhir ini adalah sebagai berikut :
+1. Merancang sebuah alat instrumentasi pengukuran kuat medan magnetik
+2. Untuk memperoleh nilai gauss data real time dari setiap perubahan kuat
+medan magnet yang terdeteksi dari suatu sumber medan magnetik
+
+1.3. Manfaat Penelitian
+Manfaat yang diperoleh dari penelitian ini antara lain :
+1. Diperoleh sebuah alat instrumentasi pengukuran kuat medan magnetik yang
+dapat digunakan untuk penelitian tentang manfaat ataupun dampak dari
+besar medan magnet yang terukur dari sumber medan.
+2. Diperoleh data nilai gauss dari suatu sumber medan magnet
+
+1.4. Rumusan Masalah
+Dalam penelitian ini dapat dirumuskan masalah sebagai berikut:
+1. Melakukan simulasi tentang rangkaian yang akan dipergunakan dalam
+pembuatan alat
+2. Melakukan penyesuaian antara datasheet sensor tentang sensitivitas
+terhadap perubahan medan magnet dengan nilai minimum yang dapat
+ditampilkan alat pada LCD
+3. Membuat suatu rangkaian tambahan untuk menguatkan sinyal masukan
+pada mikrokontroler
+4. Membuat dual power supply agar rangkaian penguat sinyal masukan dapat
+Bekerja
+
+1.5. Batasan Masalah
+Adapun batasan masalah dalam penelitian tugas akhir ini adalah sebagai berikut:
+1. Alat ini hanya untuk mendeteksi kuat medan magnet
+2. Sumber tegangan yang dapat digunakan untuk supply tegangan alat hanya
+tegangan AC 220V
+3. Alat yang dibuat hanya mampu mendeteksi kuat medan magnetik dengan
+batasan frekuensi maksimum 23 KHz sesuai dengan batasan maksimum
+sensor UGN 3503 yang digunakan untuk pembuatan alat.
+
+1.6. Hipotesis
+1. Besar kuat medan magnet minimum yang dapat terbaca alat adalah 1 Gauss
+pada kutub selatan dan -1 Gauss pada kutub utara
+2. Besar kuat medan magnet maksimum yang dapat terbaca alat adalah 900
+Gauss pada kutub selatan dan -900 Gauss pada kutub utara
+3. Jarak maksimum yang dapat terdeteksi oleh alat adalah 10 cm
+4. Alat yang dibuat mampu dipergunakan dengan menggunakan sumber
+tegangan DC 9 V
+
+1.7. Sistematika Penulisan
+Sistematika penulisan penelitian ini terdiri dari beberapa bab, yaitu :
+BAB I PENDAHULUAN
+Bab ini menguraikan tentang latar belakang, tujuan, manfaat, rumusan masalah,
+batasan masalah, hipotesis, dan sistematika penulisan.
+BAB II TINJAUAN PUSTAKA
+Pada bab ini dijelaskan secara garis besar tentang teori dasar yang berhubungan
+dengan alat yang akan dibuat, serta rumus-rumus pendukung dalam pembuatan
+alat
+BAB III METODE PENELITIAN
+Memuat langkah-langkah yang dilakukan pada penelitian, diantaranya waktu dan
+tempat penelitian, alat dan bahan, komponen dan perangkat penelitian, prosedur
+kerja, perancangan, dan pengujian sistem.
+BAB IV HASIL DAN PEMBAHASAN
+Bagian ini berisi mengenai hasil pengujian dan membahas terhadap data-data hasil
+pengujian yang diperoleh serta analisis terhadap data hasil pengujian
+
+BAB V SIMPULAN DAN SARAN
+Bab ini akan menyimpulkan semua kegiatan dan hasil-hasil yang diperoleh selama
+proses pembuatan dan pengujian sistem serta saran-saran yang sekiranya
+diperlukan untuk menyempurnakan penelitian berikutnya.
+DAFTAR PUSTAKA
+LAMPIRAN

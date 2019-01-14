@@ -1,0 +1,78 @@
+﻿I. PENDAHULUAN
+1.1 Latar Belakang
+
+Peramalan merupakan suatu hal yang dilakukan untuk mengukur ketidak pastian
+masa depan sebagai upaya membantu perusahaan atau pemerintah untuk
+mengambil suatu keputusan. Peramalan pada umumnya dilakukan pada data time
+series. Data time series adalah data yang terurut berdasarkan waktu. Peramalan
+pada data time series adalah peramalan dengan menggunakan analisa pola
+hubungan antar variabel yang akan diramalkan berdasarkan waktu.
+Salah satu metode untuk melakukan peramalan pada data time series yaitu
+Autoregressive Integrated Moving Average (ARIMA). Metode ARIMA adalah
+metode peramalan yang dikembangkan oleh George Box dan Gwilym Jenkins
+yang sering juga disebut metode runtun waktu Box-Jenkins. Model ARIMA
+adalah model gabungan dari model Autoregressive (AR) dan Moving Average
+(MA). Secara umum model ARIMA dituliskan dengan notasi ARIMA (p,d,q),
+dimana p menyatakan orde dari proses AR, d menyatakan orde dari difference
+(pembedaan) yang dilakukan agar data stasioner, dan q menyatakan orde dari
+proses MA. Untuk mendapatkan model ARIMA dilakukan dengan tiga tahap
+strategi permodelan yaitu Idetifikasi, Penaksiran, dan Pengujian (Pankratz, 1991).
+2
+Kelebihan dari metode ARIMA yaitu dapat digunakan untuk semua pola data time
+series. ARIMA menggunakan nilai pada masa lalu dan masa sekarang dari
+variabel dependen untuk menghasilkan peramalan jangka pendek yang akurat.
+ARIMA baik digunakan jika observasi dari deret waktu (time teries) secara
+statistik berhubungan satu sama lain.
+Data Indeks Harga Konsumen (IHK) atau Consumer Price Index (CPI)
+merupakan salah satu data time series. IHK merupakan nomor indeks yang
+digunakan untuk mengukur harga rata-rata dari barang dan jasa yang dikonsumsi
+oleh rumah tangga (household). IHK seringkali digunakan untuk mengukur
+tingkat inflasi dan juga seringkali digunakan sebagai pertimbangan untuk
+penyesuaian gaji, upah, uang pensiun, dan lainnya. Di Indonesia badan yang
+bertugas untuk menghitung IHK adalah Badan Pusat Statistik (BPS).
+Penghitungan IHK dimulai dengan mengumpulkan harga dari barang dan jasa,
+kemudian mengubah angka tersebut menjadi sebuah indeks tunggal yang
+mengukur seluruh tingkat harga.
+
+Peramalan IHK dengan berbagai bentuk analisis dan informasi yang dihasilkan
+besar dampaknya untuk membantu dan menunjang kegiatan sosial ekonomi di
+Indonesia. Namun, hasil dari suatu peramalan tidak benar 100%, selalu terdapat
+nilai kesalahan yang dihasilkan. Walaupun hasil peramalan tidak selalu tepat,
+peramalan telah banyak digunakan untuk membantu dengan baik dalam berbagai
+bidang, misalnya saja perencanaan, dan pengambilan keputusan, salah satunya
+adalah peramalan IHK itu sendiri. Besarnya pengaruh IHK terhadap laju inflasi
+ekonomi akan berdampak terhadap kemajuan perekonomian Indonesia.
+Berdasarkan hal ini penulis tertarik untuk melakukan peramalan nilai IHK.
+Besarnya pengaruh IHK dan kelebihan model ARIMA yang dapat digunakan
+untuk semua pola data time series menjadi alasan penulis untuk melakukan
+permodelan time series dan peramalan dengan metode ARIMA.
+
+1.2 Batasan Masalah
+Mengingat banyaknya metode peramalan yang dapat digunakan, maka fokus
+penelitian ini adalah melakukan Time Series Modelling dengan ARIMA.
+Selanjutnya model ARIMA (p,d,q) akan digunakan untuk meramalkan nilai IHK
+dan indeks harga komoditas kesehatan selama enam periode ke depan.
+
+1.3 Tujuan Penelitian
+Berdasarkan latar belakang yang telah dijelaskan sebelumnya, maka tujuan dari
+penelitian ini adalah :
+1. Mengetahui tahap-tahap analisis data runtun waktu (time series)
+menggunakan metode ARIMA.
+2. Mendapatkan model ARIMA terbaik yang dapat digunakan untuk
+memprediksi nilai IHK dan indeks harga komoditas kesehatan kota Bandar
+Lampung pada periode yang akan datang.
+
+3. Menerapkan peramalan dengan menggunakan model ARIMA untuk
+meramalkan nilai IHK dan indeks harga komoditas kesehatan kota Bandar
+Lampung.
+
+1.4 Manfaat Penelitian
+Manfaat dari penelitian ini adalah :
+1. Dapat mengetahui bagaimana tahap atau prosedur analisis data time series
+menggunakan ARIMA.
+2. Dapat mengetahui model terbaik ARIMA (p,d,q) yang dapat digunakan
+untuk meramalkan nilai IHK dan indeks harga komoditas kesehatan kota
+Bandar Lampung.
+3. Dapat mengetahui prediksi atau hasil ramalan nilai IHK dan indeks harga
+komoditas kesehatan kota Bandar Lampung dengan menggunakan model
+ARIMA (p,d,q).

@@ -1,0 +1,139 @@
+﻿Kebocoran jaringan pipa air dapat menyebabkan kerugian finansial yang besar
+bagi pihak pengguna sistem perpipaan. PDAM umumnya menggunakan metode
+manual untuk mendeteksi letak kebocoran pipa, seperti dengan melihat secara
+kasat mata jika terjadi genangan air yang berada diatas jaringan pipa. Penelitian
+bertujuan untuk menghasilkan metode guna merancang alat yang dapat
+mendeteksi letak kebocoran pipa secara cepat dan akurat. Metode dilakukan
+dengan menggunakan dua buah sensor flowmeter yang ditempatkan sebelum dan
+sesudah titik kebocoran pipa untuk merekam data selisih debit air masuk dan
+keluar (ΔQ). Data hasil ditransmisikan ke komputer menggunakan jaringan
+berbasis TCP/IP. Hasil yang diperoleh menunjukkan bahwa semakin kecil nilai
+selisih debit air masuk dan keluar (ΔQ) maka akan semakin jauh letak kebocoran
+pipa (X). Penurunan besar diameter lubang bocor (D) sebesar 43% mengakibatkan
+penurunan nilai selisih debit air masuk dan keluar (ΔQ) sebesar 21%. Berdasarkan
+hasil tersebut disimpulkan bahwa alat deteksi letak kebocoran pipa menggunakan
+teknologi sensor flowmeter dapat membedakan letak titik kebocoran pada pipa air
+secara akurat dan efektif.
+Kata kunci: kebocoran, debit air, sensor flowmeter, TCP/IP, WIZ110SR
+
+I. PENDAHULUAN
+A. Latar Belakang
+Jaringan pipa merupakan sarana transportasi fluida-fluida penting seperti air
+minyak, dan gas. Kebocoran jaringan pipa dapat menyebabkan kerugian
+finansial yang besar bagi pihak pengguna sistem perpipaan, seperti PDAM
+Way Rilau Bandarlampung. Berdasarkan data PDAM Way Rilau
+Bandarlampung bulan Februari 2015 didapatkan bahwa tingkat kebocoran pada
+proses distribusi sebesar 39,3%. Hal ini dapat dilihat dari perbedaan antara
+jumlah air bersih yang didistribusikan oleh PDAM Way Rilau Bandarlampung
+dengan jumlah air yang terjual kepada pelanggan. Total kapasitas produksi
+PDAM Way Rilau Bandarlampung sebesar 1.426.825 m3 dengan jumlah air
+yang didistribusikan sebesar 1.288.185 m3. Sedangkan jumlah air yang dijual
+kepada pelanggan hanya sebesar 781.114 m3, jadi kehilangan air mencapai
+39,3% yaitu sebesar 507.071 m3 (PDAM Way Rilau Bandarlampung, Februari
+2015). Angka kebocoran ini melebihi batas pada kriteria desain yang
+ditetapkan oleh Dirjen Cipta Karya tahun 1988 sebesar 15-30%.
+Tingkat kebocoran tersebut terdiri dari kebocoran fisik dan nonfisik.
+Kebocoran fisik adalah kebocoran yang disebabkan oleh bocornya pipa dan
+perlengkapannya. Sedangkan kebocoran nonfisik adalah kebocoran yang
+disebabkan oleh pencurian air, sambungan liar, pembacaan meter yang tidak
+benar, dan akurasi meter yang rendah.
+Dalam mendeteksi kebocoran pipa, PDAM umumnya masih menggunakan
+sistem manual, yaitu dengan melihat secara kasat mata jika terjadi genangan air
+yang berada diatas saluran pipa PDAM, atau dari laporan masyarakat tentang
+adanya kebocoran atau tidak mengalirnya air di rumah mereka sedangkan
+menurut data distribusi pasokan air cukup tersedia. Dari laporan tersebut
+ditindaklanjuti dengan turun ke lapangan secara langsung untuk melihat
+kondisi di lapangan. Akan tetapi cara ini merupakan cara yang memakan waktu
+yang lama, karena suatu jaringan pipa bisa saja mencakup area yang cukup luas
+dan kompleks.
+Di era kemajuan teknologi ini, bukan hal yang tidak mungkin sistem deteksi
+kebocoran pipa dilakukan secara cepat dan otomatis. Hal ini didukung dengan
+teori-teori fisika dan penelitian-penelitian terkait yang telah dilakukan. Santoso,
+dkk. (2013) melakukan pengujian deteksi kebocoran pipa menggunakan
+teknologi Differential Pressure Transducer (DPT) yang ditempatkan sebelum
+dan sesudah titik kebocoran untuk merekam beda tekanan. DPT dihubungkan
+dengan peralatan pengkondisi sinyal dan ADC yang menghasilkan data beda
+tekanan. Dari penelitian tersebut diperoleh bahwa pada kondisi pipa bocor
+menghasilkan beda tekanan lebih tinggi dibandingkan kondisi pipa tidak bocor.
+Sadeghioon, et al. (2014) melakukan pengujian dengan mengembangkan
+jaringan sensor wireless bawah tanah (Underground Wireless Sensor
+Network/UWSN) berbasis Force Sensitive Resistor (FSR) untuk memantau
+kebocoran pipa menggunakan jaringan nirkabel. Prinsip pengujian ini hampir
+sama dengan penelitian Santoso, dkk. tersebut diatas, perbedaannya pada
+deteksi beda tekanan sebelum dan sesudah titik kebocoran digunakan teknologi
+Force Sensitive Resistor (FSR) dan pemantauan kondisi kebocoran pipa
+menggunakan jaringan nirkabel.
+Penelitian dengan objek fluida berbeda yaitu gas dilakukan oleh Kirom, dkk.
+(2013) dengan memonitoring kebocoran gas berbasis TCP/IP. Dalam hal ini,
+sistem deteksi kebocoran gas dikombinasikan dengan jaringan berbasis TCP/IP
+yang menghasilkan sistem monitoring secara terpusat sehingga menambah
+efisiensi dan kecepatan transimisi data. Secara umum metode jaringan berbasis
+TCP/IP hampir sama dengan metode jaringan nirkabel, perbedaannya jaringan
+berbasis TCP/IP menggunakan kabel Unshielded Twisted Pair (UTP) sebagai
+media transmisi data, sedangkan jaringan nirkabel tanpa menggunakan kabel
+apapun. Kelebihan metode jaringan berbasis TCP/IP dibanding metode
+jaringan nirkabel terletak pada biaya pengujian yang lebih murah.
+Kemudian dalam teori fisika mengenai persamaan kontinuitas untuk aliran tak
+mampu-mampat, jika tidak terjadi akumulasi penambahan maupun
+pengurangan fluida dalam suatu volume (wadah), laju aliran fluida yang masuk
+ke dalam volume tersebut harus sama dengan laju aliran yang keluar dari
+volume (Munson, dan Young, 2004). Oleh sebab itu, jika terjadi suatu
+kebocoran dalam sistem distribusi fluida maka akan terjadi perbedaan antara
+debit fluida masuk, dan debit fluida keluar.
+
+Baghdadi dan Mansy (1988) melakukan pemodelan secara matematis dan
+pengujian eksperimental untuk menentukan letak kebocoran pipa. Pengujian
+eksperimental dilakukan dengan menggunakan pipa PVC yang permukaannya
+halus dengan panjang 12 m dan diameter dalam 26 mm, tiga buah orifice meter
+untuk mengukur debit air masuk, dan tabung pitot untuk mengukur debit air
+keluar. Titik kebocoran berada pada jarak X dari alat ukur debit air masuk.
+Berdasarkan hal yang dilakukannya tersebut diperoleh bahwa letak kebocoran
+pipa merupakan fungsi dari debit fluida masuk dan debit fluida keluar pada
+pipa.
+Berdasarkan hal yang disajikan diatas, penulis melakukan suatu inovasi dengan
+menggunakan dua buah sensor flowmeter yang ditempatkan sebelum dan
+sesudah titik kebocoran pipa untuk merekam perbedaan debit air. Dalam hal ini,
+sensor flowmeter dihubungkan dengan pengkondisi sinyal dan ADC yang
+menghasilkan data beda debit air, kemudian hasil tersebut ditransmisikan ke
+komputer menggunakan jaringan berbasis TCP/IP untuk mendeteksi letak
+kebocoran pipa.
+B. Rumusan Masalah
+Rumusan masalah dalam penelitian adalah:
+1 bagaimana pengaruh selisih debit air masuk dan keluar terhadap letak
+kebocoran pipa ?
+2 bagaimana pengaruh besar lubang kebocoran terhadap letak kebocoran
+pipa ?
+
+3 bagaimana kelebihan dan kekurangan sensor flowmeter model FS300A
+yang diaplikasikan pada alat deteksi letak kebocoran pipa PVC berbasis
+TCP/IP ?.
+C. Tujuan Penelitian
+Tujuan penelitian adalah:
+1 mengetahui pengaruh selisih debit air masuk dan keluar terhadap letak
+kebocoran pipa;
+2 mengetahui pengaruh besar lubang kebocoran terhadap letak kebocoran
+pipa;
+3 mengetahui kelebihan dan kekurangan sensor flowmeter model FS300A
+yang diaplikasikan pada alat deteksi letak kebocoran pipa PVC berbasis
+TCP/IP.
+D. Manfaat Penelitian
+Manfaat penelitian adalah untuk merealisasikan alat yang dapat mendeteksi
+letak kebocoran pipa secara cepat dan akurat menggunakan sensor flowmeter
+dan transmisi data berbasis TCP/IP yang berguna untuk mengoptimalkan
+sistem deteksi letak kebocoran pipa agar tidak terjadi kerugian finansial yang
+besar akibat kehilangan produk fluida.
+
+E. Batasan Penelitian
+Batasan masalah penelitian adalah sebagai berikut.
+1. Pipa yang digunakan yaitu pipa PVC berukuran ¾ inchi.
+2. Pipa diletakkan dengan sudut kemiringan sebesar 1º.
+3. Sensor flowmeter yang digunakan yaitu sensor flowmeter model FS300A
+dengan jangkauan pengukuran 1 sampai 60 liter/menit.
+4. Sensor flowmeter berjumlah dua buah dan ditempatkan sebelum dan
+sesudah titik kebocoran pipa.
+5. Akuisisi data berbasis mikrokontroler ATmega 16 yang diintegrasikan
+dengan WIZ110SR sebagai komunikasi berbasis TCP/IP ke komputer.
+6. Kebocoran buatan dilakukan dengan menggunakan lubang berdiameter 21
+mm, 12 mm, dan 8 mm.
+7. Kebocoran buatan hanya satu titik pada jarak yang diukur dari sensor
+flowmeter sesudah titik kebocoran.

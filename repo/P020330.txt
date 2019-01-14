@@ -1,0 +1,123 @@
+﻿ABSTRAK
+Data tersensor adalah data pada variabel tak bebas yang memiliki sebagian
+pengamatan yang bernilai kurang dari atau sama dengan nol dan sebagian lainnya
+memiliki nilai tertentu atau lebih dari nol. Model regresi tobit adalah model statistik
+yang dapat mengatasi permasalahan dimana variabel bebasnya banyak bernilai nol
+atau disebut data tersensor. Dalam penelitian ini dilakukan pemodelan konsumsi telur
+atau susu di Kabupaten Magelang dengan menggunakan regresi tobit. Data yang
+digunakan dalam penelitian ini adalah data sekunder yang berasal dari Data Susenas
+Kabupaten Magelang tahun 2013. Hasil akhir pemodelan akhir menunjukkan bahwa
+tingkat pendidikan kepala rumah tangga, jumlah pengeluaran untuk makanan dalam
+satu bulan, jumlah balita dalam satu rumah tangga dan lapangan pekerjaan kepala
+rumah tangga berpengaruh signifikan terhadap pengeluaran rumah tangga untuk
+konsumsi telur atau susu dengan nilai koefisien determinasi ( ) sebesar 60,31%.
+Sedangkan sisanya 39,69% dipengaruhi oleh variabel lain yang tidak diteliti dalam
+penelitian ini seperti selera makan konsumen dan faktor kesehatan.
+Kata Kunci: Konsumsi Telur atau Susu, Regresi Tobit, Data Tersensor
+
+BAB I
+PENDAHULUAN
+1.1 Latar Belakang
+
+Peningkatan kualitas sumber daya manusia tidak terlepas dari salah satu
+faktor yaitu faktor kesehatan, dan protein menjadi salah satu indikator utama. Hal
+ini disebabkan karena fungsi protein sebagai zat pembangun. Sumber protein
+hewani lebih baik daripada protein nabati, dikarenakan protein hewani
+mempunyai beberapa keunggulan yaitu mempunyai komposisi asam amino yang
+lebih lengkap dan nilai cerna protein yang lebih baik daripada bahan pangan
+nabati. Sumber protein hewani yang sangat dikenal oleh masyarakat antara lain
+telur dan susu (Ariningsih, 2004). Telur atau susu merupakan sumber protein yang
+sangat penting dan dibutuhkan oleh tubuh manusia. Oleh sebab itu, Kementrian
+Kesehatan RI menyarankan kepada masyarakat untuk mengkonsumsi telur atau
+susu setiap harinya guna memenuhi gizi yang seimbang.
+Menurut Yuwanta (2010), semakin meningkatnya jumlah penduduk di
+Indonesia, semakin meningkat pula kebutuhan akan protein hewani asal ternak.
+Telur merupakan salah satu protein hewani yang peredarannya mudah dijangkau
+masyarakat dengan harga relatif murah, serta tahan lama. Oleh karena itu telur
+merupakan alternatif utama dalam usaha memenuhi kebutuhan pangan berkualitas
+akan protein hewani. Tingkat konsumsi telur masyarakat Indonesia rata-rata
+berkisar 110 butir per kapita pertahun. Angka tersebut masih rendah bila
+dibanding dengan tingkat konsumsi telur di negara lain. Misalnya Malaysia
+dengan tingkat konsumsi telurnya mencapai 311 butir per kapita pertahun.
+
+
+Termasuk juga dengan India yang tingkat konsumsi telurnya mencapai 175 butir
+per kapita pertahun.
+Kebutuhan akan protein dalam tubuh selain pada telur juga terdapat pada
+susu. Secara nasional, Indonesia masih rendah dalam hal konsumsi susu. Tercatat
+pada tahun 2011 konsumsi susu di Indonesia mencapai 12,85 liter per kapita
+pertahun. Jumlah itu meningkat dibandingkan tahun 2010 yaitu 11,95 liter susu
+per kapita pertahun. Meski begitu jumlah konsumsi susu di Indonesia masih lebih
+rendah dibandingkan sejumlah negara lain di Asia seperti Malaysia (50,9 liter),
+India (47,1 liter), Singapura (44,5 liter), Thailand (33,7 liter), Vietnam (14,3 liter),
+dan Filipina (13,7 liter). Rendahnya konsumsi susu di Indonesia, berdampak pada
+rendahnya kualitas gizi balita dan anak. Indonesia masih menghadapi
+permasalahan gizi nasional, tercatat hasil survei yang dilakukan oleh SEAFAST
+Center-IPB pada tahun 2007 menyebutkan 5,4% rata-rata anak balita terindikasi
+gizi buruk dan gizi kurang sebesar 13% (Antara News, 2010).
+
+Menurut penelitian yang dilakukan oleh Laily (2010), pembelian dan
+konsumsi makanan berprotein termasuk susu dapat dipengaruhi oleh beberapa
+faktor antara lain pendidikan tertinggi kepala rumah tangga, usia kepala rumah
+tangga, proporsi pengeluaran makanan, serta rata-rata pengeluaran perkapita.
+Menurut Daya (1974), konsumsi susu bukan hanya terbatas pada orang asing saja,
+melainkan orang Indonesia pun menyukainya. Hal itu disebabkan karena susu
+merupakan salah satu bahan makanan yang lezat, mudah dicerna dan bernilai gizi
+yang cukup tinggi. Akan tetapi tingkat konsumsi susu di Indonesia masih rendah,
+hal ini dikarenakan kurangnya ketersediaan susu siap minum, rendahnya produksi susu dalam negeri, kurang terjangkaunya harga susu oleh sebagian masyarakat
+Indonesia, dan kurangnya kesadaran akan manfaat meminum susu. Sampai saat
+ini produksi susu dalam negeri masih belum mampu mencukupi seluruh
+permintaan konsumen di dalam negeri. Pada tahun 2009 produksi susu dalam
+negeri hanya mampu memenuhi 25,11% dari total kebutuhan nasional (Antara
+News, 2010).
+
+Salah satu wujud peningkatan pembangunan kesehatan yaitu program
+perbaikan gizi masyarakat, yang pada saat ini sedang dilakukan oleh pemerintah
+Kabupaten Magelang. Kabupaten Magelang memiliki luas wilayah 1.085,73 km2
+dengan jumlah penduduk 1.181.916 jiwa (BPS, 2013). Dengan banyaknya jumlah
+penduduk tersebut maka semakin banyak pula konsumsi yang dilakukan oleh
+penduduk di Kabupaten Magelang. Salah satu indikator perbaikan gizi masyarakat
+yaitu konsumsi telur atau susu. Berdasarkan hasil Susenas tahun 2013 yang
+dilakukan oleh BPS Kabupaten Magelang, rumah tangga yang mengalokasikan
+pengeluaran untuk konsumsi telur atau susu sebesar 73,21%, sedangkan sisanya
+26,79% tidak mengalokasikan pengeluaran untuk konsumsi telur atau susu.
+Kesadaran masyarakat untuk mengkonsumsi telur atau susu yang masih
+sangat rendah ini yang mengakibatkan banyak rumah tangga tidak
+mengalokasikan pengeluarannya untuk konsumsi telur atau susu. Hal inilah yang
+akan menyebabkan banyak data bernilai nol yang kemudian disebut sebagai data
+campuran atau data tersensor. Data tersensor adalah data pada variabel respon
+yang memiliki sebagian pengamatan yang bernilai kurang dari atau sama dengan
+nol dan sebagian lainnya memiliki nilai tertentu atau lebih dari nol (Greene, 2003). Model statistik yang dapat menggambarkan keadaan data seperti contoh di
+atas adalah Model Regresi Tobit
+Penelitian mengenai regresi tobit sudah pernah dilakukan oleh Laily
+(2010) mengenai makanan berprotein, Rini (2010) mengenai pendapatan
+perempuan, kemudian Hanief (2010) mengenai pengeluaran biaya kesehatan
+rumah tangga, dan Neser (2011) mengenai biaya pendidikan. Berdasarkan uraian
+tersebut, penulis tertarik menerapkan metode regresi tobit untuk mengetahui
+variabel-variabel yang berpengaruh terhadap pengeluaran rumah tangga untuk
+konsumsi telur atau susu di Kabupaten Magelang serta memodelkannya.
+
+1.2 Perumusan Masalah
+Permasalahan yang diangkat dalam penelitian Tugas Akhir ini dapat
+dirumuskan sebagai berikut:
+1. Bagaimana model pengeluaran rumah tangga untuk konsumsi telur atau susu di
+Kabupaten Magelang menggunakan regresi tobit?
+2. Variabel-variabel apa saja yang berpengaruh terhadap pengeluaran rumah
+tangga untuk konsumsi telur atau susu di Kabupaten Magelang menggunakan
+regresi tobit?
+
+1.3 Pembatasan Masalah
+Pembatasan masalah dalam penelitian ini adalah variabel dalam
+pemodelan merupakan variabel yang diduga mempengaruhi pengeluaran
+konsumsi telur atau susu di Kabupaten Magelang. Variabel-variabel yang
+digunakan antara lain Tingkat Pendidikan Kepala Rumah Tangga, Jumlah
+Pengeluaran Makanan dalam Satu Bulan, Jumlah Anggota Rumah Tangga,
+Jumlah Balita, Rata-Rata Pengeluaran Per Kapita, dan Lapangan Pekerjaan
+Kepala Rumah Tangga. Semua variabel yang dipakai di Kabupaten Magelang
+diambil data dalam triwulanan selama kurun waktu tahun 2013.
+
+1.4 Tujuan Penelitian
+Tujuan yang ingin dicapai dalam penelitian ini adalah mendapatkan model
+pengeluaran rumah tangga serta mengetahui variabel-variabel yang berpengaruh
+terhadap konsumsi telur atau susu di Kabupaten Magelang menggunakan regresi
+tobit.

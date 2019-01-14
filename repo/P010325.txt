@@ -1,0 +1,357 @@
+﻿Penggolongan Mangga cv Arumanis Berdasarkan Mutu Internal
+selama Penyimpanan Dingin dengan Near Infrared Reflectance
+Spectroscopy (NIRS)
+
+
+Abstrak
+Tujuan dari penelitian ini adalah mengkaji metoda NIRS untuk menggolongkan mangga cv Arumanis
+berdasarkan mutu internal selama penyimpanan dingin (suhu rendah). Reflektan Mangga pada hari panen
+(H0), 12 hari penyimpanan (H12) dan 22 hari penyimpanan (H22) diukur dengan NIR Spektrometer pada
+panjang gelombang 1000-2500 nm, diikuti segera dengan pengukuran sifat fisiko kimia mangga seperti TPT,
+total asam dan rasio gula asam, kekerasan dan susut bobot. Analisis unsupervised PCA dan pra pengolahan
+spektra NIR digunakan untuk menggolongkan mangga H0, H12 dan H22 dan Mahalanobis Distance
+digunakan untuk memvalidasi hasil tersebut. Hasil penelitian menunjukkan bahwa selama penyimpanan
+dingin, spektra reflektan mangga mengalami penurunan mengindikasikan adanya peningkatan absorpsi
+NIR oleh kandungan kimia mangga. Hasil analisa fisiko kimia mangga menunjukkan TPT, rasio gula asam
+dan susut bobot meningkat, sedangkan total asam dan kekerasan menurun selama penyimpanan dingin.
+NIRS dan analisis PCA dengan pretreatment quantile normalization dan smoothing serta Mahalanobis
+Distance dapat menggolongkan mangga yang baru dipanen (H0) dan yang telah disimpan 12 hari (H12)
+dan 22 hari (H22) berdasarkan mutu internalnya dengan ketepatan 87%.
+Kata Kunci : mangga, mahalanobis distance, quantile normalization, smooting, unsupervised PCA
+
+Pendahuluan
+Indonesia merupakan salah satu produsen dan
+eksportir mangga yang menonjol di dunia selain
+India, China, Thailand, Filipina, Pakistan, dan
+Meksiko dengan negara tujuan ekspor Taiwan,
+Hongkong, dan Negara-negara Timur Tengah.
+Salah satu mangga komersial yang dikembangkan
+untuk komoditas ekspor adalah mangga Arumanis,
+dengan ciri khasnya tekstur yang lembut, daging
+tebal dan creamy, cita rasa yang khas, dan hampir
+tidak berserat. Selama transportasi mangga
+ke negara importir membutuhkan waktu yang
+lama sehingga diperlukan penanganan selama
+pengiriman tersebut untuk mempertahankan mutu
+buah mangga sesuai dengan permintaan pasar.
+Salah satu penanganan yang diupayakan
+untuk menjaga kualitas mangga agar sesuai
+dengan keinginan dan permintaan pasar adalah
+melakukan penyimpanan dingin pada suhu rendah.
+Mangga Arumanis merupakan buah klimaterik yang
+dipanen pada saat matang fisiologis (green mature)
+dimana pada saat penyimpanan terus mengalami
+pematangan dan penuaan yang mempengaruhi
+kandungan fisikokimia seperti total padatan terlarut
+(TPT), kandungan total asam, kekerasan, susut
+bobot dan rasio gula asam.
+Penggolongan mangga Arumanis telah
+dilakukan untuk tujuan sortasi dan grading secara
+visual berdasarkan berat dan ukuran (Firdaus,
+2014). Penggolongan secara nondestruktif mangga
+Arumanis telah dilakukan oleh Sandra (2005)
+melakukan penggolongan dengan menggunakan
+image processing dan jaringan syaraf tiruan dan
+Ahmad (2002) menggunakan image processing.
+Namun penelitian ini lebih mendeteksi perubahan
+mutu luar buah untuk memprediksi mutu internal
+buah.
+Teknik NIRS diketahui mampu menggolongkan
+buah berdasarkan kandungan internalnya secara
+nondestruktif dan objektif. Kemampuan NIRS
+ditunjang oleh penggunaan analisa kemometrik
+untuk untuk mengekstrak informasi yang berguna
+pada spektra (Guidetti et al. 2012). Salah satu
+analisis kemometrik yang sering digunakan adalah
+principal component analysis (PCA) sebagai analisis
+kualitatif dari data. PCA dapat mengurangi kuantitas
+dari spektrum data tanpa terjadi overfitting dan
+pengurangan informasi yang dibutuhkan (Osborne
+et al. 1993).
+Pada mangga, teknik NIRS telah digunakan
+untuk memprediksi sifat fisikokimia selama proses
+pascapanen (Schmilovitch et al. 2000; Purwanto
+et al. 2013a dan 2013b; Watanawan et al, 2014).
+Sedangkan PCA telah banyak digunakan untuk
+analisis spektrum data NIR. Beghi et al. (2013)
+telah menggunakan analisa PCA pada karakterisasi
+buah zaitun berdasarkan TPT dan kekerasannya
+dengan NIR. Zulfahrizal et al. (2013) telah berhasil
+membedakan spektrum biji kakao tumpukan dengan
+individu dan mendeteksi tingkat fermentasi biji kakao
+dengan NIR dan analisis PCA. PCA telah digunakan
+untuk analisa spektrum NIR untuk penentuan
+indeks fisiologi mangga (Scmilovich et al. 2000),
+mengklasifikasi tingkat kematangan berdasarkan
+umur petik mangga (Kienzle et al. 2011 dan 2012),
+dan klasifikasi mangga berdasarkan varietas (Jha
+et al. 2013).
+Penggolongan buah mangga berdasarkan mutu
+internal selama penyimpanan dingin pada suhu
+rendah tanpa merusak dengan teknik NIRS belum
+pernah dilakukan. Oleh karena itu tujuan penelitian
+ini adalah (1) mengkaji teknik NIRS dan analisis
+PCA untuk menggolongkan buah mangga arumanis
+berdasarkan mutu internal selama penyimpanan
+dingin (suhu rendah), dan (2) melakukan validasi
+penggolongan mangga dengan metode Mahalonobis
+Distance.
+Bahan dan Metode
+Persiapan Bahan
+Penelitian ini menggunakan mangga cv
+Arumanis dengan umur 90 hari setelah bunga mekar
+(HSBM) sebanyak 84 buah dengan tingkat ukuran
+sedang (berat 350-400gr). Buah berasal dari kebun
+petani mangga di Cirebon, Jawa Barat. Mangga
+dipanen pada pagi hari kemudian dikemas dengan
+menggunakan peti kayu dan ditransportasikan
+menuju laboratorium selama 8 jam perjalanan.
+Kemudian sampel dimasukkan ke cold storage
+pada suhu 8OC dan 13OC dan disimpan selama 12
+dan 22 hari. Sampel mangga berjumlah 84 buah
+dibagi menjadi 5 kelompok, yaitu mangga yang
+baru dipanen (H0) berjumlah 40 buah, mangga
+yang disimpan 12 hari dan 22 hari, pada suhu 8OC
+dan 13OC (H12T8, H12T13, H22T8, dan H22T13)
+masing masing 11 buah.
+Akuisisi Data Spektrum NIR
+Pengukuran spektra reflektan dilakukan dengan
+menggunakan NIRFlex N-500 fiber optik solid yang
+dilengkapi oleh software pendukung seperti software
+NIRWare operator dan NIRWare management
+console. Pengambilan reflektan NIR diukur pada 3
+titik untuk masing-masing buah.
+Analisis Kandungan Fisikokimia
+Kandungan fisiko kimia yang dianalisis adalah
+total padatan terlarut (TPT), kekerasan (N), total
+asam (%), susut bobot (%), dan rasio gula asam.
+TPT dinalisis dengan portable digital refractometer
+Atago PR 201 (AOAC 1994), kekerasan diukur
+dengan Rheometer model CR 300 DX-L dengan
+probe (diameter = 5 mm), total asam diukur dengan
+mentitrasi 100 ml sari buah mangga yang telah
+diteteskan indikator phenolphthalein dengan NaOH
+0.1 N dan total asam dihitung menurut prosedur
+AOAC (1995). Susut bobot dihitung dengan perbedaan berat mangga sebelum disimpan dan
+setelah disimpan dihitung dengan persamaan Jan
+dan Rab (2012). Nilai rasio gula asam dihitung
+dengan membandingkan nilai TPT dan total asam.
+Metode Klasifikasi Buah Mangga Selama
+Penyimpanan
+Pada penelitian ini digunakan adalah metode
+unsupervised PCA untuk menggolongkan
+mangga Arumanis selama penyimpanan. Metode
+unsupervised PCA mengklasifikasikan sampel
+hanya berdasarkan spektra tanpa dipengaruhi
+faktor lain (Roggo et al. 2007). PCA merupakan
+analisis matematika yang memisahkan data spektra
+menjadi komponen orthogonal yang terbentuk dari
+spektra terpilih dan score plots antara komponen
+utama (PCs) yang berbeda. Kemudian PCs ini
+diplotkan untuk melihat perbedaan dari kelompokkelompok
+sampel sehingga sampel dapat
+digolongkan berdasarkan umur simpan setelah
+disimpan pada suhu rendah. PC1 menjelaskan
+varian yang maksimum diantara semua kombinasi
+linier dan PC2 menjelaskan varian data sisanya dan
+seterusnya.
+Mangga digolongkan menjadi beberapa
+kelompok yaitu H0 merupakan mangga saat baru
+dipanen, H12 adalah mangga pada saat 12 hari
+penyimpanan, dan H22 adalah mangga yang
+telah disimpan 22 hari (Gambar 1). Jumlah sampel
+mangga yang digunakan untuk penggolongan ini
+adalah 54 sampel (30 sampel H0, 6 sampel H12
+untuk masing-masing suhu 8OC dan 13OC, dan 6
+sampel H22 untuk masing-masing suhu 8OC dan
+13OC).
+Pengolahan data spektra menggunakan
+unscramble software® X version 10.3 (CAMO,
+Norway). Sebelum dilakukan penggolongan
+dengan PCA, maka spektra diberikan pretreatment.
+Pretreatment yang digunakan Mean Normalization
+(MN) dan Smoothing (SA). Normalisasi dapat
+mentransformasi vektor spektra menjadi 0-1 dan
+dapat menghilangkan variasi baseline akibat
+perbedaan ukuran sampel. Sedangkan SA
+merupakan operasi moving average yang dapat
+memperbaiki visual spektra dan menghilangkan
+noise dengan menghitung rata-rata dari masingmasing
+gelombang (Nicolai et al. 2007, Andasuryani
+et al. 2013).
+Penggolongan dengan Mahalanobis Distance (MD)
+Untuk menguji hasil penggolongan mangga
+Arumanis selama penyimpanan dengan metode
+PCA maka dilakukan validasi terhadap buah mangga
+yang berbeda sebanyak 30 sampel berasal dari H0,
+H12 dan H22 masing masing 10 sampel. Validasi
+dilakukan menggunakan metode Mahalanobis
+distance (MD). MD merupakan metode perhitungan
+jarak dengan menghitung space antara variabel asli
+dan space komponen utama (PCs) (Maesschalck
+et al. 2000). Perhitungan MD ini berdasarkan
+Maesschalck et al. (2000) dengan langkah awal
+menghitung varian dan covarian matriknya,
+kemudian MD dirumuskan dengan Persamaan 1.
+
+Dimana xi1 merupakan mean dari PC1, xi2
+merupakan mean dari PC2, σ1 adalah varian PC1,
+σ2 adalah varian PC2, sedangkan xi1 adalah mean
+PC1 yang akan digolongkan dan xi2 adalah mean
+PC2 yang akan digolongkan.
+
+Hasil dan Pembahasan
+Karakteristik Spektra Mangga Arumanis
+Reflektan spektra mangga untuk kelompok hari
+penyimpanan ke-0 (H0), hari ke-12 (H12, gabungan
+H12T8 dan H12T13), dan hari ke-22 (H22, gabungan
+H22T8 dan H22T13) disajikan pada Gambar 2.
+Secara umum bentuk dan tipikal reflektan selama
+penyimpanan sama terdiri dari beberapa puncak
+dan lembah. Masing-masing puncak dan lembah
+dapat diinterpretasikan memiliki kandungan
+kimia yang berbeda. TPT berada pada panjang
+gelombang 1215 dan 1750 nm yang menunjukkan
+adanya ikatan C-H yang mengindikasikan adanya
+gula-gula sederhana. Kandungangan asam
+berada pada panjang gelombang 1350 dan 2200
+yang menunjukkan adanya ikatan C-H yang
+mengindikasikan adanya berbagai asam organik.
+Sedangkan air berada pada panjang gelombang
+1180, 1411, dan 1940 nm yang menunjukkan
+adanya ikatan O-H (Osborne 1993; chen dan He
+2007).
+Dari Gambar 2 dapat dilihat penurunan nilai
+spektra reflektan mangga H0, H12, dan H22.
+Penurunan nilai spektra reflektan ini disebabkan
+adanya peningkatan penyerapan oleh kandungan
+kimia mangga selama penyimpanan (TPT, kadar
+air, total asam) (Tabel 1). Suhu berpengaruh
+terhadap perubahan sifat fisikokimia buah selama
+penyimpanan. Semakin rendah suhu penyimpanan
+maka akan memperlambat laju metabolisme
+buah mangga. Dapat dilihat pada Tabel 1, buah
+yang disimpan pada suhu 13OC (T13) mengalami
+penurunan kekerasan dan total asam, serta
+kenaikan TPT, susut bobot, dan rasio gula asam
+yang lebih cepat daripada suhu 8OC (T8).
+Penggolongan Mangga Berdasarkan Lama
+Penyimpanan
+Selama penyimpanan pada suhu rendah,
+buah mengalami perubahan fisik dan kimia.
+Penggolongan berdasarkan hari penyimpanan
+mangga untuk H0, H12, dan H22 tanpa treatment
+dapat dilihat pada Gambar 3. Penggolongan tanpa
+treatment kurang mampu menggolongkan mangga
+dengan baik, karena masih ada tumpang tindih
+antar PCs pada setiap kelompok hari penyimpanan.
+Total data varian dapat dijelaskan oleh dua PCs
+yaitu PC1 sebesar 94% dan PC2 sebesar 5%.
+
+Spektrum asli dari NIR mengandung
+background dan noise selain informasi yang
+terkandung di dalamnya. Untuk itu perlu dilakukan
+pretreatment sebelum digolongkan (Chen dan
+He 2007). Pretreatment yang dipilih adalah
+Mean Normalization (MN) dan Smoothing (SA).
+Penggunaan pretreatment ini bertujuan untuk
+mengurangi pengaruh interferensi gelombang,
+noise dan informasi yang tidak diperlukan pada
+spektra.
+Penggolongan mangga berdasarkan umur
+simpan (Gambar 4) setelah spektra diberi perlakuan
+MN dan SA dapat memisahkan kelompok mangga
+dengan baik. Penggolongan H0, H12, dan H22
+dapat dibedakan dengan keragaman sebesar 87%
+dimana PC1 menjelaskan keragaman 72% dan PC2
+menjelaskan keragaman 15%. Mangga yang belum
+disimpan dapat dipisahkan dengan mangga yang
+disimpan 12 hari dan 22 hari. Namun mangga pada
+H12 tidak terpisah dengan baik dengan mangga
+H22, masih terdapat irisan masing-masing PC
+antara H12 dan H22. Hal ini menunjukkan bahwa
+mangga yang disimpan selama 12 dan 22 hari
+mengalami perubahan mutu internalnya. Perubahan
+mutu internal ditandai dengan berubahnya sifat fisik
+dan kandungan kimianya selama penyimpanan
+seperti meningkatnya TPT, menurunnya kandungan
+asam, menurunnya kekerasan dan berkurangnya
+kandungan air. Perubahan fisikokimia pada
+mangga selama penyimpanan juga dijelaskan oleh
+beberapa peneliti seperti Rathore et al. (2007);
+Baloch et al. (2012); dan Islam (2014). Suhu juga
+berpengaruh terhadap nilai dari spektra dimana
+spektra mengalami pergeseran saat suhu simpan
+lebih tinggi (13OC). Buah yang disimpan pada
+suhu yang lebih rendah akan menghambat laju
+metabolismenya sehingga menghambat perubahan
+mutu internal mangga selama penyimpanan (Tabel
+1).
+
+Penggolongan buah mangga selama
+penyimpanan lebih baik saat data spektra dirataratakan
+(Gambar 5). Pada pengelompokan tanpa
+Pretreatment varian dapat dijelaskan oleh 2 PCs
+sebesar 99%.
+Setelah diberi pretreatment MN dan SA maka
+pengelompokan lebih baik (Gambar 6). Buah dapat
+digolongkan dengan total varian dari perlakuan
+ini yang dijelaskan oleh 2 PCs sebesar 91%
+dimana PC1 menjelaskan varian sebesar 76%
+dan PC2 sebesar 15%. Penggunaan beberapa
+pretreatment dapat memperbaiki kinerja PCA
+dalam menggolongkan seperti yang telah dilakukan
+Zulfahrizal et al. (2014) untuk menggolongkan
+kakao fermentasi dan yang tidak fermentasi dengan
+menggunakan pretreatment Multiplicative Scatter
+Correction (MSC) dan Standard Normal Variate
+(SNV).
+Penggolongan Berdasarkan Nilai Mahalanobis
+Distance (MD)
+Hasil penggolongan dengan metode PCA
+menghasilkan model terbaik setelah data spektra
+dirata-ratakan dan perlakuan Pretreatmen NM
+dan SA. Untuk menguji model ini dapat digunakan
+untuk sampel yang lain maka dilakukan validasi
+dengan metode Mahalanobis Distance (MD).
+Tabel 2 menunjukkan parameter yang digunakan
+untuk menghitung nilai MD dari sampel H0, H12,
+dan H22. Nilai MD dihitung dengan menggunakan
+Persamaan 1.
+Jumlah sampel yang digunakan untuk validasi
+ini adalah 30 buah mangga yang terdiri dari 10 buah
+untuk masing-masing mangga yang baru dipanen
+(H0), H12, H22. Kemudian dihitung nilai PC1dan
+PC2 (Tabel 3) dengan metode PCA dan perlakuan
+Pretreatmen NM dan SA. Nilai PCs yang telah
+didapat dari masing-masing sampel yang akan
+digolongkan kemudian dilakukan perhitungan jarak
+dengan Persamaan 1 terhadap nilai parameter
+hitung (Tabel 2). Hasil validasi penggolongan
+mangga baru dengan MD dapat dilihat pada Tabel
+4.
+Nilai MD menunjukkan jarak posisi sampel baru
+terhadap nilai tengah dari PCs masing-masing
+mangga yang telah disimpan yang didapatkan dari
+analisis PCA-nya. Dari Tabel 4 dapat dilihat bahwa
+sampel H0 dapat terpisah 100% dengan sampel H12 dan H22. Sedangkan sampel H22 dan H12 dari 20
+sampel yang diprediksi NIR hanya 16 sampel yang
+tepat 4 sampel lain saling berpotongan. Perpotongan
+yang terjadi antara mangga yang disimpan hari ke-
+12 dan hari ke-22 sesuai dengan penggolongan
+dengan metode PCA (Gambar 6). Dari 30 sampel
+spektra yang diprediksi dengan NIR ini maka
+yang dapat digolongkan dengan tepat adalah 26
+buah. Dengan demikian penggolongan mangga cv
+Arumanis berdasarkan lama penyimpanan dengan
+metode NIR dan analisis PCA dan MD ini dapat
+menggolongkan mangga dengan tepat 86.67%.
+Simpulan
+Dari penelitian yang telah dilakukan dapat
+disimpulkan bahwa metoda NIRS dengan analisis
+PCA, pretreatment Mean Normalization dan
+Smoothing dan MD dapat menggolongkan mangga
+yang baru dipanen (H0) dengan mangga yang telah
+disimpan dingin selama 12 dan 22 hari (H12 dan
+H22) berdasarkan mutu internalnya dengan tingkat
+akurasi 87%.

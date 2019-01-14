@@ -1,0 +1,639 @@
+﻿
+
+Kekerabatan Genetik Caplak Rhiphicephalus (Boophilus)
+microplus Asal IndonesiaBerdasarkan Sekuen Internal
+
+
+Abstrak
+
+Rhiphicephalus (Boophilus) microplus (R.microplus) merupakan ektoparasit yang merugikan karena
+selain mengisap darah, berperanan sebagai vektor Babesia sp, Theleria sp. dan Anaplasma sp. pada ternak
+sapi. Beragamnya jenis dan adanya kompleks spesies yang berkerabat dekat seringkali identifikasi
+secara morfologi tidak mudah dilakukan, sehingga diperlukan metode molekuler. Penelitian ini bertujuan
+untuk mengetahui urutan sekuen Internal Transcribed Spacer-2 (ITS2) dari R. microplus, yang dapat
+digunakan untuk identifikasi, dan mengetahui hubungan kekerabatan genetik caplak asal Indonesia.
+Amplifikasi DNA dilakukan dengan menggunakan primer BOO2 forward dan BOO2 reverse. Fragmen
+daerah ITS2 sepanjang 1099 nt diperoleh dari hasil penjajaran berganda nukleotida sampel R. microplus
+dengan sekuen dari caplak lain yang diambil dari Genebank menggunakan perangkat lunak Clustal W,
+dan selanjutnya dianalisis menggunakan program MEGA versi 6. Jarak genetik berdasarkan sekuen
+nukleotida ditentukan dengan metode Kimura 2–parameter, menghasilkan jarak genetik intra spesies
+terkecil 0%, paling tertinggi 1,2%, dan rataannya 0,33%. Konstruksi pohon filogenetik berdasarkan sekuen
+ITS2 menggunakan metoda Neighbour joining dapat membedakan inter dan intra spesies caplak. Caplak
+dari berbagai wilayah yang ada di Indonesia adalah kompleks spesies yang memiliki kekerabatan lebih
+dekat dengan R. microplus asal India, Laos, Afrika Selatan, China, dan R. australis asal Australia.
+
+Kata-kata kunci: caplak, ektoparasit, Rhiphicephalus (Boophilus) microplus, ITS2
+
+ABS
+PENDAHULUAN
+
+Caplak Rhipicephalus (Boophilus) microplus
+dikelompokan dalam genus Boophilus, famili
+Ixodidae, ordo Acarina, kelas Arachnida,
+subfilum Chelicerata (Hoogstraal dan
+Aeschlimann, 1982). Caplak R. (Boophilus)
+microplus (R.microplus) merupakan salah satu
+ektoparasit yang secara ekonomis penting,
+karena menyebabkan kerugian pada ternak.
+Caplak tersebut berparasit terutama pada sapi–
+sapi yang ada di wilayah Asia Timur, Asia
+Selatan, Asia Tenggara, Australia, Amerika
+Tengah, Amerika Selatan, Afrika Timur, Afrika
+Selatan (Kolonin, 2009). Serangan caplak
+umumnya terjadi karena ternak dipelihara
+secara ekstensif dan tidak dikandangkan.
+Caplak R. microplus merupakan caplak yang
+menyerang ternak sapi, kerbau dan hewan liar
+dengan distribusi luas tersebar di berbagai
+wilayah di Indonesia (Sigit et al., 1983). Selain
+mengisap darah dan menyebabkan kerusakan
+kulit, menurut Bock et al. (2008), caplak
+R.microplus terbukti sebagai penyebar
+babesiosis (Babesia bovis dan B. bigemina) dan
+anaplasmosis (Anaplasma marginale) (Peter et
+al., 2005; De la Fuente et al., 2008), terutama
+pada ternak sapi. Data prevalensi babesiosis di
+wilayah Kalimantan, Sulawesi, Sumatra, dan
+Timor berdasarkan hasil pemeriksaan serologi
+adalah 96% (Sukanto et al., 1993)
+
+Caplak R. microplus pertama kali
+dideskripsikan oleh Canestrini dengan nama
+Boophilus micropla (Cooley, 1946). Setelah
+nama tersebut, caplak ini mempunyai beberapa
+nama sinonim, tergantung pada pencirian yang
+dideskripsikan oleh penelitinya di masa itu.
+Beberapa nama-nama yang diberikan pada
+caplak ini di antaranya adalah : Haemaphysalis
+micropla, Rhiphicephalus micropla (Canestrini,
+1890), Boophilus australis (Fuller, 1901),
+Margaropus annulatus australis (Fuller, 1912).
+
+Nama Rhipicephalus (Boophilus) microplus
+ditetapkan sebagai nama sinonim caplak B.
+microplus berdasarkan urutan sekuen
+nukleotida dan analisis morfologinya, terungkap
+bahwa genus Rhiphicephalus pengelom-
+pokannya bersifat parafiletik (berbeda tetua/
+ancestor), genus Boophilus ada di dalam
+kelompok genus Rhipicephalus, sehingga posisi
+genus Boophilus berubah menjadi subgenus
+Rhiphicephalus atau Boophilus ( Murell et al.,
+2000; Beati dan Keirans, 2001, Murell dan
+Barker, 2003)
+
+Sebagian genus caplak merupakan
+kompleks spesies yang berkerabat dekat,
+seringkali membuat identifikasi tidak mudah,
+terlebih lagi pada spesimen yang mengalami
+kerusakan, pada stadium pradewasa ataupun
+pada caplak yang kenyang darah (Nava et al.,
+2009). Adanya kelemahan karakter morfologi
+tersebut, mendorong digunakannya metode
+molekuler, karena karakter urutan basa DNA
+diketahui relatif lebih konsisten dibandingkan
+karakter morfologi (Hillis et al., 1996). Urutan
+basa DNA dapat pula digunakan untuk
+membangun hubungan filogenetik atau
+mengungkap kekerabatan di dalam jenis (intra
+spesies) dan dengan jenis–jenis lainnya
+(interspesies).
+
+Pada DNA inti eukariot terdapat sekuen
+gen yang lestari (conseved) yaitu gen penyandi
+untuk kompononen RNA ribosom 18S, 5.8S dan
+28S (Gambar 1).
+
+Di antara sekuen penyandi tersebut
+dipisahkan oleh spacer (pembatas), yaitu daerah
+yang disebut Internal Transcribed Spacer (ITS1
+dan ITS2) (Hillis dan Dixon, 1991; Rumer et al.,
+2011). Sekuen rDNA regio ITS berkembang lebih
+cepat dan memungkinkan terjadinya
+keragaman di antara spesies maupun populasi.
+Urutan sekuen ITS2 dari R. microplus asal
+Indonesia belum banyak diteliti. Penelitian ini
+bertujuan untuk mengetahui urutan sekuen
+ITS2 dari R. microplus sebagai salah satu
+metode identifikasi spesies dan mengetahui
+hubungan kekerabatannya berdasarkan variasi
+sekuen-sekuennya dengan cara membanding-
+kannya terhadap sekuen sekuen asal negara
+lain.
+
+METODE PENELITIAN
+
+Sampel yang digunakan adalah 10 larva
+caplak R. microplus dan R. pilans . Caplak
+R.pilans digunakan sebagai sampel
+pembanding, karena mirip R.microplus. Larva
+diperoleh dari hasil menetaskan telur – telur
+yang dikeluarkan oleh caplak betina engorged
+(kenyang darah). Caplak betina ini diperoleh dari
+ternak sapi simpo (simmental dan peranakan
+PO), sapi PO, sapi Bali dan kerbau (Bubalus sp)
+(Tabel 1). Caplak betina tersebut diteguhkan
+dengan kunci identifikasi Anastos (1950).
+
+Isolasi dan purifikasi DNA dilakukan
+menggunakan kit Genomic® DNA Mini Kit
+(Tissue) GT 100. Larva dimasukkan dalam
+tabung 2 mL, kemudian dihaluskan dengan
+plastic pestle. Hasil gerusan ditambah 20 µL
+Proteinase K dan buffer digesti yang ada pada
+kit, kemudian diinkubasi pada suhu 55ºC dalam
+penangas air selama satu malam. Proses
+selanjutnya dilakukan sesuai prosedur. Hasil
+isolasi DNA dideteksi dengan diimigrasikan
+pada gel agarosa 1,2% dengan menggunakan
+buffer 1xTBE (89 mM Tris, 89mM asam borak
+dan 2 mM EDTA, pH 8,0). Pengamatan DNA
+
+dilakukan dengan bantuan sinar ultra violet (l
+= 260 nm) setelah gel diwarnai dengan cybersave
+(Invitrogen) .
+
+Amplifikasi DNA dilakukan dengan
+menggunakan primer forward BOO2 (BOOF)
+dan primer reverse BOO2 (BOOR). Desain
+primer oligonukleotida untuk sekuen ITS2
+dilakukan berdasarkan database urutan R.
+microplus (Kode akses Genbank NC_002811).
+Program primer 3 output (http://www
+genome.wi.mit.edu /cgi.in/ primr3. cgi/
+results_from-primer3) digunakan sebagai dasar
+untuk menyeleksi primer-primer mana saja
+yang diperkirakan memberikan kemungkinan
+hasil yang baik. Pasangan primer yang dipilih
+berasal dari sekuen urutan ITS2 yang memiliki
+kesamaan nukleotida yang tinggi. Selanjutnya
+primer dianalisis menggunakan software Design
+Oligoprimer. Urutan basa primer untuk
+mengamplifikasi sekuen ITS2 disajikan pada
+Tabel 2. Total DNA hasil ekstraksi digunakan
+sebagai cetakan DNA untuk proses amplifikasi,
+menggunakan Polymerase chain reaction
+(PCR). Amplifikasi dilakukan dengan volume
+total 50 µL terdiri dari 25 µL campuran pereaksi
+PCR Kappa , 3 µL DNA (100-300ng) / DNA
+template, 2 µL primer BOO2 F dan BOO2 R
+(10 pmol) dan 20 µL ddH20.
+Amplifikasi dimulai dari denaturasi awal
+ 
+selama lima menit pada suhu 94o C, selanjutnya
+diikuti dengan 94oC selama 30 detik utuk
+denaturasi, 55 oC selama 45 detik untuk
+penempelan primer (annealing), 72oC selama
+satu menit 20 detik untuk pemanjangan
+(elongation); amplifikasi dilakukan sebanyak
+35 siklus kemudian diakhiri lima menit pada
+72oC. Produk PCR dideteksi dengan cara
+dimigrasikan pada gel agarosa 1,2% dengan
+buffer TBE. Pengamatan dilakukan dengan
+bantuan sinar UV (λ = 260 nm) setelah gel
+diwarnai dengan cybersave. Penanda DNA
+dengan ukuran 100 pb digunakan sebagai
+penunjuk bobot pasangan basa. Produk PCR
+hasil amplikasi dikirim ke Macrogen, Korea
+untuk diketahui urutan basa penyusun sekuen
+ITS2.
+
+
+
+
+Gambar 1 Gen rDNA multikopi yang berulang secara tandem (Hwang dan Kim, 1999).
+NTS= non transcriber spacer
+ITS = Internal trancriber spacer
+
+IGS= intergenic spacer
+ETS = External trancriber spacer
+
+311
+
+
+Tabel 1. Daftar spesimen yang digunakan sebagai sampel penelitian.
+
+Spesies
+
+ Asal
+
+Jumlah sampel
+
+Inang
+
+R.microplus
+R.microplus
+
+B.microplus
+B.microplus
+
+R. microplus
+R. microplus
+R.microplus
+
+R.microplus
+R.microplus
+R.microplus
+R.pilans
+Total spesimen
+
+Makassar, Sulawesi Selatan
+Banjarmasin, Kalimantan Selatan
+Banjarmasin, Kalimantan Selatan
+Papua
+Suka Bumi , Jawa Barat
+Tanah Toraja, Sulawesi Selatan
+Denpasar, Bali
+Lombok, NusaTenggara Barat
+Kupang (Kupang 1, 2 dan 3)
+Kupang
+Riau
+Bengkulu
+Tanah laut, Kalimantan Selatan
+Sukabumi, Jawa Barat
+
+312
+
+1
+2
+1
+1
+1
+1
+1
+1
+3
+1
+1
+1
+1
+1
+17
+
+Sapi
+Sapi
+Kebau
+Sapi
+Sapi
+
+Kerbau
+
+Sapi
+Sapi
+Sapi
+Kebau
+Sapi
+Sapi
+Sapi
+Sapi
+
+
+
+Tabel 2. Susunan basa primer, annealing dan melting temperature primer BOO2F
+
+dan BOO2R
+
+Susunan basa
+
+5’ GTC TGA GGG TCG GAT CAC AT 3’
+5’ CTA CTC GGG GAA TCC CTG TT 3’
+
+Primer
+
+BOO2F
+BOO2R
+
+∑Basa
+
+20
+20
+
+Tm (oC)
+
+Ta (oC)
+
+60.5
+60.5
+
+55
+55
+
+Keterangan BOO2F = primer forward
+
+BOO2R= Primer reverse
+
+Tm= Temperature melting
+Ta= Temperatur annealing
+
+Tabel 3. Nomer akses (Accession Number)
+sekuen internal trancriber spacer-2
+(ITS2) caplak dari GeneBank yang
+digunakan sebagai pembanding
+penyejajaran runutan nukleotida
+
+Spesies
+
+Nomer
+Akses
+Genbank
+
+ Asal
+
+R.microplus
+R.microplus
+B.microplus
+B.microplus
+B.microplus
+R. microplus
+R. microplus
+R.microplus
+R.microplus
+R.Australis
+R. australis
+R. evertsi
+R. sanguineus
+R. appendiculatus U97707
+
+KC503265 Palu Sulawesi
+KC503266 Palu Sulawesi
+Afrika Selatan
+U97715
+U97714
+Brazil
+India
+JX974346
+U97713
+Kenya
+JF758640 Henan Cina
+KC503272 Cambodia
+KC503277 Laos
+Kc503268 Australia
+JQ412216 Australia
+U97701
+JQ625707 Cina
+
+Kenya
+
+Zimbabwe
+
+Hasil perunutan nukleotida diedit secara
+manual berdasarkan kromatogram. Alignment
+(penyejajaran) runutan nukleotida yang sudah
+diedit dengan beberapa runutan seken ITS2
+genus Rhipicehalus yang terdapat pada
+GenBank dengan menggunakan Clustal W yang
+
+terintergrasi dalam Molecular Evolutionary
+Genetics Analysis (MEGA 6) (Tamura et al.,
+2013). Deskripsi perbandingan runutan
+nukelotida dan analisis rekonstruksi filogeni
+menggunakan metode Neighbor-Joining,
+berdasarkan model substitusi Kimura-2-
+paramater dengan bootstrap sebanyak 1000
+ulangan.
+
+HASIL DAN PEMBAHASAN
+
+Letak penempelan primer BOO2F berada
+di daerah 5,8 S dan pada sebagian sekuen dari
+ITS2, penempelan primer BOO2R ada di daerah
+28 SRNA. Amplifikasi fragmen rDNA R.
+microplus dengan teknik PCR menggunakan
+primer BOO2F dan BOO2R menghasilkan
+ukuran sekitar 1240 bp. Fragmen sepanjang
+1099 bp diperoleh dari hasil penjajaran berganda
+nukleotida R .microplus dengan caplak
+pembanding. Jumlah nukleotida R. microplus
+total menurut data nukleotida di Genebank,
+bervariasi antara 1144-1151 nt (Genebank
+accession no. U97712-5), sehingga daerah ITS2
+yang teramplifikasi dalam penelitian ini
+merupakan sekuen parsial.
+
+Kepekaan regio ITS sebagai marka
+molekuler telah dibuktikan untuk membedakan
+dan menganalisis hubungan kekerabatan antar
+spesies, populasi dari subfamili Rhipicephalianae
+(Barker 1998) dan caplak Ixodes (Fukunaga,
+2000). Gaps menunjukkan adanya insersi dan
+delesi, pebedaan nukleotida di antara caplak R
+microplus antara 0-12 nukleotida (Tabel 4).
+Sampel dari Banjarmasin1, Tanah Toraja
+(kerbau), Tanah Laut, Riau dan Bengkulu tidak
+memiliki perbedaan nukleotida, mirip dengan
+spesimen R. microplus dari : Palu, Sulawesi
+KC 503266, Afrika Selatan dan China. Sampel
+dari Kupang 3 memiliki beda tujuh nukleotida,
+yaitu dengan Riau, Makassar, Bengkulu, Tanah
+Laut, Palu Sulawesi, dan Banjarmasin. Jika
+dibandingkan dengan R.microplus dari
+GeneBank perbedaan terbesar adalah 12
+nukleotida, yaitu antara R. microplus asal
+Kenya dengan Kupang.
+
+Penentuan jarak genetik.menggambarkan
+kedekatan genetik antar spesies maupun
+intraspesies (Tabel 5). Persentase jarak genetik
+dapat digunakan untuk mengetahui status
+spesies, spesies yang sama atau berbeda spesies.
+Jarak genetik antara sampel dan out group
+yang terkecil (0%) menunjukkan tidak adanya
+perbedaan urutan nukleotidanya. Jarak genetik
+terbesar terdapat pada sampel R. microplus dari
+Kupang (Kb) dengan Kenya sebesar 1,2 %
+(0,012). Sampel dari Riau, Banjarmasin 2, dan
+Bengkulu memiliki jarak genetik terkecil
+dengan India dan Laos yaitu sebesar 0%, yang
+menunjukkan kekerabatan yang sangat dekat.
+Sampel dari Banjarmasin 1, dan Tanah Toraja
+memiliki kekerabatan paling dekat dengan isolat
+Afrika Selatan dan spesimen Cina. Jarak genetik
+ini sesuai dengan penelitian Barker (1998),
+berdasarkan sekuen ITS2 di antara populasi R.
+microplus perbedaannya sebesar 0,8-1,1%.
+Jarak genetik antara spesies R. microplus
+dengan R. annulatus antara 5-6%, sedangkan
+dengan R.decoloratus antara 0,90-0,95%.
+Perbedaan jarak genetik semakin besar jika
+dibandingkan dengan spesies yang dikelom-
+pokkan dalam sub genus Rhipicephalus
+(Rhipicephalus), jarak genetik R. microplus dan
+R. sanguineus antara 12,7-13,5%.
+
+Pengelompokan taksa dalam satu klaster
+menggambarkan kedekatan kekerabatannya.
+Semakin tinggi kemiripan urutan nukleo-
+tidanya, semakin tinggi similiritasnya menye-
+babkan posisinya ada dalam percabangan pohon
+filogeni menjadi berdekatan. Filogram pada
+Gambar 2. menunjukkan cabang utama
+pertama adalah Genus Rhipicephalus (A)
+terbagi menjadi dua subcabang, yaitu subcabang
+pertama (B) yang berisi spesies sub genus
+Rhipicephalus (Boophilus), dengan sub cabang
+yang terdiri dari spesies R. microplus, R.
+annulatus, dan R. decoloratus. Cabang C adalah
+Subgenus Rhiphicephalus (Rhipicephalus)
+dengan spesies-spesiesnya.
+
+Caplak R. Boophilus dalam filogram
+berdasarkan sekuen nukleotida ITS2 terpisah
+menjadi dua kelompok/klaster (Gambar 2).
+Masing-masing klaster terdiri dari sub cabang
+. Sub genus Rhipicephalus (Boophilus) (B)
+menunjukkan monofiletik dengan dukungan
+kuat nilai bootstrap (100%). Sub genus
+Rhipicephalus (Boophilus) terdiri dari enam
+spesies yaitu: R. microplus, R. annulatus, R.
+
+australis R. decoloratus, R. geigyi, dan R. kohlsi
+( dua spesies terakhir ini tidak dicantumkan
+dalam filogram). Filogram menunjukkan caplak
+R. microplus lebih dekat dengan R. annulatus
+daripada R. decolaratus.
+
+Klaster pertama R. microplus terdiri atas
+subcabang yang terdiri dari R. australis BMU
+97712, R. microplus Brasil, Kenya, dan R.
+australis KC503268. Kedudukan R. australis
+didukung nilai bootstrap 71%, sehingga masih
+bisa berubah posisinya dalam pohon filogenetik.
+Sampel Kupang (1,2,3, kb ), Bali, Sukabumi,
+Lombok, Banjarmasin (Kb) dan Papua berada
+dalam satu kelompok dengan R. australis
+BMU97712. Cabang kedua terdiri atas R.
+microplus Riau, Bengkulu, dan Banjarmasin 2,
+berada dalam satu kelompok dengan caplak
+India, Laos, dan Kamboja.
+
+Klaster kedua R. microplus terdiri dari
+caplak asal Afrika Selatan dan China. Caplak
+asal Tanah Toraja (kerbau), Banjarmasin,
+Papua , Makasar dan Tanah Laut berada dalam
+satu kelompok dengan caplak asal Afrika dan
+China. Klaster kedua ini lebih rendah nilai
+bootstrapnya daripada klaster pertama,
+sehingga dalam filogram kedudukannya sangat
+lemah.
+
+Caplak tersebut diperoleh dari ternak sapi
+dan kerbau, namun antara caplak yang
+berinangkan sapi ataupun kerbau tidak
+membentuk klaster tersendiri, perbedaan inang
+tidak berpengaruh terhadap beragamnya
+urutan DNA, sedangkan kedudukan caplak R.
+pilans tampak berkerabat dekat dengan R.
+sanguineus, didukung dengan nilai bootstrap
+100%
+
+Burger (2014) mengungkapkan berdasarkan
+analisis sekuen ITS2, gen sitokrom oksidase1
+dan 16S RNA, R. microplus adalah kompleks
+spesies. Kompleks spesies merupakan spesies-
+spesies yang mirip sehingga tidak dapat
+dibedakan secara morfologi, namun dapat
+diidentifikasi melalui pendekatan biologi dan
+molekuler. Pada Gambar 2 diperlihatkan R.
+microplus, R. australis dan R. annulatus
+berada dalam satu kelompok, didukung nilai
+bootstrap 100%. Beberapa caplak telah berhasil
+diidentifikasi sebagai kompleks spesies yaitu
+caplak anjing R. sanguineus (Liu et.al., 2013).
+Anggota spesies kompleks mempunyai biologi,
+bio-ekologi, habitat, penyebaran, dan kerentanan
+terhadap agen infeksi yang tidak sama.
+
+Caplak tersebar sangat luas di berbagai
+wilayah di Indonesia, dengan ragam klimatologi,
+biogeografi, dan faktor lingkungan sangat
+mungkin menimbulkan terjadinya pola struktur
+genetik yang berbeda pada populasi caplak yang
+ada di wilayah tersebut. Isolasi geografi
+merupakan salah satu penyebab awal suatu
+spesiasi, yang merupakan contoh dari
+keragaman genetik. Spesiasi pada organisme
+disebabkan karena faktor ekologi dan biografi
+diikuti oleh isolasi reproduksi. Fenomena
+tersebut telah diamati terjadi pada persilangan
+antara caplak strain Boophilus microplus Afrika
+Selatan dengan strain dari Australia yang
+menghasilkan keturunan steril (Labruna et al.,
+2009). Caplak R. microplus asal Australia
+dinyatakan berbeda berdasarkan genetik
+maupun reproduksi dengan caplak asal
+Amerika, Afrika, dan Asia. Caplak R.
+microplus yang ada di Australia dinyatakan
+
+bukan spesies R. microplus, melain spesies R.
+australis (Angus, 1996).
+
+Hasil penelitian ini memperlihatkan
+adanya posisi hubungan filogenetik antara
+beberapa spesies R. microplus dari wilayah yang
+berbeda ataupun dari tempat yang sama.
+Perbedaan genetik mungkin terdapat antar
+individu dalam populasi, antar populasi di dalam
+daerah yang sama atau daerah geografi yang
+berbeda. Sekuen ITS dapat digunakan untuk
+membedakan caplak secara individual maupun
+dalam populasi dari berbagai lokasi geografis
+yang berbeda (Wesson et al., 1993; Brahma et
+al., 2013). Diversitas genetik diperlukan bagi
+suatu populasi atau spesies untuk menghadapi
+perubahan lingkungan. Variasi genetik dalam
+populasi dapat terjadi karena adanya aliran gen
+
+ke dalam dan ke luar populasi ( Morjan dan
+Rieseberg, 2004). Hal tersebut didukung dengan
+adanya mobilitas / lalulintas perdagangan ternak
+antar pulau dan adanya persilangan ternak,
+yang bertindak sebagai inang caplak.
+
+Caplak R. microplus awalnya berasal dari
+Asia menyebar ke berbagai benua melalui ternak
+sapi. Caplak tersebut menyebar di Amerika
+Selatan dan Amerika Tengah, termasuk
+Meksiko, dan menimbulkan permasalahan yang
+besar di Brasil (Evans, 1992). Hal tersebut juga
+terjadi di sebagian besar Asia Selatan dan juga
+di Cina. Di Afrika Selatan, penyebaran caplak
+dimulai dari Madagaskar melalui pengiriman
+sapi-sapi yang berasal dari Asia Selatan.
+(Spicket dan Fivaz, 1992). Caplak kemudian
+menyebar ke pesisir Mozambik, Kenya,
+Tanzania, Zambia, Zimbabwe dan Afrika
+Timur. Kemiripan sekuen DNA ITS2 caplak
+R microplus yang ada di wilayah Indonesia
+dengan caplak asal negara lain disebabkan
+adanya persilangan sapi lokal dengan sapi
+impor untuk perbaikan genetik dan adanya
+kebutuhan daging. Masuknya ternak sapi terse-
+but ke wilayah Indonesia juga disertai dengan
+ektoparasitnya. Filogram yang terbentuk dapat
+memperjelas terjadinya pemisahan dan penge-
+lompokan individu caplak yang berasal dari
+populasi dengan kondisi georafi yang berbeda,
+meskipun dengan jarak genetik yang kecil.
+
+SIMPULAN
+
+ Filogram caplak R.(Boophilus) microplus
+berdasarkan urutan sekuen nukletida ITS2,
+dapat membedakan inter dan intra spesies.
+Caplak R. microplus asal Indonesia adalah
+kompleks spesies. Jarak genetik populasi caplak
+R. microplus adalah 0-1,2%, dengan rataan
+0,05%. Caplak-caplak R. microplus yang
+ditemukan di wilayah Indonesia berkerabat
+dekat dengan caplak R. microplus asal India,
+Afrika Selatan, Laos, China, Kamboja dan R.
+australis asal Australia.
+
+
+
+
+Gambar 2. Filogram sekuen ITS 2 R.microplus dan out group dari GeneBank menggunakan
+metode Neighbor-Joining dengan bootstrap 1000 kali. Angka yang terdapat pada
+cabang pohon menunjukkan nilai Bootstrap .
+A=Genus Rhipicephalus grup; B =subgenus Rhipicephalus (Boophilus); C=sub genus
+Rhipicephalus (Rhipicephalus); kb= kerbau

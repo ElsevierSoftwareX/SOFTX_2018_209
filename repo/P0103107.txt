@@ -1,0 +1,486 @@
+﻿Analisis Sistem Heat Pump Kompresi Uap untuk Pengeringan Gabah
+
+Abstrak
+Pengeringan heat pump merupakan sistem pengeringan yang berpotensi menghemat energi terutama
+apabila konfigurasinya sesuai. Tujuan dari penelitian ini adalah mengembangkan sistem heat pump
+kompresi uap (HPKU) untuk pengeringan gabah dan mendapatkan konsumsi energi yang rendah dari
+berbagai konfigurasi sistem. Untuk itu pada penelitian ini didesain sebuah model sistem pengering heat
+pump yang konfigurasinya dapat diubah-ubah untuk pengeringan gabah. Hasil percobaan memperlihatkan
+bahwa rasio peningkatan specific moisture extraction rate yang memperhitungkan konsumsi energi
+mekanik dan termal (SMERTot) terhadap pengering pemanas resistif untuk berbagai konfigurasi tersebut
+adalah 159 – 329%. Metode pengeringan heat pump siklus terbuka dengan pengoperasian HPKU yang
+intermittent memberikan specific moisture extraction rate yang hanya memperhitungkan konsumsi energi
+termal (SMERT) dan SMERTot yang paling tinggi yaitu masing-masing 7.06 dan 5.06 kg/kWh. Pengoperasian
+intermittent tidak banyak mempengaruhi laju pengeringan, tetapi secara nyata menurunkan konsumsi
+energi. Penempatan inlet udara lingkungan sebelum evaporator dan sebelum kondensor pada siklus
+tertutup memberikan SMERTot yang berbeda yaitu 4.01 dan 3.07 kg/kWh. Penggunaan udara lingkungan
+dengan menggunakan konveksi paksa melalui penukar panas dapat meningkatkan SMERTot, sedangkan
+penggunaan aliran udara dari keluaran pengering dapat menurunkan nilai SMERTot.
+Kata kunci: Pengeringan gabah, sistem heat pump kompresi uap, specific moisture extraction rate (SMER)
+
+
+Latar Belakang
+Pengeringan adalah penurunan kadar air
+bahan sampai batas tertentu yang diinginkan
+atau aman sehingga batas tersebut bebas dari
+serangan mikroba, enzim dan insekta yang
+merusak (Henderson dan Perry 1982). Secara
+lebih luas pengeringan merupakan proses yang
+terjadi secara serempak antara perpindahan panas
+dari udara pengering ke massa uap air dari bahan
+yang dikeringkan (Hall 1970, Brooker et al. 1981).
+Mekanisasi pada pengeringan padi relatif tertinggal
+dibandingkan dengan tahapan pascapanen
+diantaranya mesin penggilingan. Hal tersebut
+disebabkan oleh mahalnya biaya pengeringan
+artifisial gabah yang terutama disebabkan oleh
+biaya energinya, sedangkan nilai tambah yang
+diberikan oleh pengering ditinjau dari sisi kecepatan
+pengolahannya tidak terlalu besar, sehingga opsi
+penjemuran masih menjadi pilihan utama karena
+biaya operasional yang relatif murah.
+Sistem HPKU diharapkan dapat mengatasi
+permasalahan utama tersebut, karena sistem
+ini mendapatkan panas yang diserap dari suhu
+lingkungan. Selain digunakan untuk meningkatkan
+kuantitas panas (dibandingkan input panasnya)
+sistem HPKU memiliki kemampuan dehumidifikasi
+udara yang digunakan untuk pengeringan. Umumnya
+pengeringan dengan sistem HPKU mengkonsumsi
+energi yang lebih hemat dibandingkan pengering
+konvensional (Aveces-Sabiro 1992, Harchegani et
+al. 2012), walaupun ada juga penelitian lain yang
+memperlihatkan peningkatan konsumsi energi
+sehubungan dengan waktu yang terlalu lama
+(Pal et al. 2010). Akan tetapi sehubungan dengan
+suhu yang relatif rendah maka kompensasi yang
+diperoleh adalah kualitas pengeringan yang lebih
+baik (Goh et al. 2011). Rossi et al. (1992) membuat
+pengeringan sayuran dengan pengeringan
+heat pump dan pengeringan konvensional
+menggunakan heater listrik dan dapat penghemat
+energi 40% dan waktu proses. Mellmann and Furll,
+(2008) melaporkan hasil penelitiannya dengan
+penghematan energi dari 30% sampai dengan
+50% dari biaya produk. Pengeringan dengan
+sistem HPKU untuk mengeringkan gabah memiliki
+potensi untuk digunakan secara lebih efisien, dan
+umumnya dilakukan pada suhu yang lebih rendah
+dari pengeringan konvensional sehingga dapat
+mempertahankan kualitas.
+Siklus dalam pengoperasian HPKU secara
+umum mencakup siklus resirkulasi dan terbuka.
+Pada siklus resirkulasi, sebagian energi yang
+berasal dari pengering dimanfaatkan kembali
+sedangkan pada siklus terbuka pemanasan hanya
+mengandalkan suhu dari lingkungan. Zigler et al.
+(2009) melakukan penelitian pengeringan tanaman
+obat dan rempah-rempah dengan menggunakan
+pengeringan batch yang ditambah dengan sistem
+heat pump, dimana pengeringan heat pump
+dengan sistem siklus resirkulasi dilanjutkan dengan
+pengeringan konvensional dan melaporkan hasil
+penelitian tahap awal dengan konsumsi energi
+primer dapat dikurangi 40% sampai dengan 55%
+dengan menggunakan sistem heat pump. Aceves-
+Saborio (1993) menyatakan walaupun pada
+umumnya konsumsi energi sistem siklus resirkulasi
+lebih rendah, tidak ada jaminan apakah siklus
+resirkulasi ini menguntungkan. Ketergantungan
+pada kondisi udara lingkungan menyebabkan
+kondisi yang demikian.
+Penelitian ini bertujuan mengembangkan
+pengeringan gabah dengan sistem HPKU untuk
+mendapatkan konsumsi energi yang paling rendah
+per massa air yang diuapkan dari berbagai konfigurasi
+sistem HPKU yang mencakup penggunaan penukar
+panas dengan udara lingkungan atau udara ekshaus
+pada pengoperasian siklus terbuka dan resirkulasi
+serta membandingkannya dengan pengeringan
+gabah konvensional yang menggunakan pemanas
+resistif.
+Bahan dan Metode
+Tempat dan Waktu Penelitian
+Penelitian ini dilaksanakan mulai bulan
+Desember 2014 sampai Oktober 2015. Percobaan
+dilakukan di Laboratorium Teknik Energi Terbarukan
+Departemen Teknik Mesin dan Biosistem, IPB
+Bogor.
+Bahan dan Alat
+Bahan yang digunakan dalam penelitian ini
+adalah gabah varietas Ciherang dengan kadar
+air 22 – 24% b.b. dan alat ukur yang digunakan
+termokopel tipe T, pressure gauge, rotameter,
+multimeter CD 800a, moisture tester, clamp meter,
+power analyzer Lutron DW-6091, timbangan digital,
+oven, anemometer Kanomax, climd master model A
+541, recorder Yokogawa type MV-1000 dan type MV-
+2000. Dimana kalibrasi suhu termokopel dilakukan
+dengan menggunakan thermometer glass standart
+untuk suhu rendah dan suhu tinggi dengan Oil bath.
+Model Pengering dengan Sistem HPKU
+Gambar 1 memperlihatkan skema desain dari
+sistem pengering HPKU yang dilengkapi dengan
+penukar panas dengan udara lingkungan atau
+udara ekshaus (HE) dengan pengoperasian siklus
+terbuka dan siklus resirkulasi. Pada siklus terbuka
+katup gate (A) dan (B) ditutup dan katup gate (C)
+dan (D) dibuka, dimana udara lingkungan masuk
+ke sistem HPKU mengalir ke pengering dan ke luar
+lingkungan. Pada siklus resirkulasi aliran udara
+bersirkulasi dari sistem HPKU ke pengering dengan
+katup gate (B) dibuka, dan katup gate (A) atau (D)
+dibuka sesuai dengan konfigurasi yang diinginkan
+yaitu udara lingkungan masuk sebelum kondensor
+atau evaporator dan katup gate (C) dibuka untuk membuang udara dalam jumlah yang sama dengan
+yang masuk. Dan untuk menghindari masuknya
+cairan refrigerant ke dalam kompresor maka
+digunakan receiver sebelum kompresor.
+Saluran udara dari sistem pengering tersebut
+dibuat berbentuk segi empat ukuran (30 x 30) cm
+bahan plat baja 0.6 mm memudahkan pembentukan
+konstruksi dan diinsulasi polyurethane foam 5 mm
+untuk meminimalkan kontak dengan udara luar.
+Saluran udara HPKU ke ruang pengering bagian
+tengah sistem antara evaporator dan kondensor
+dipasang HE yang tujuannya mempercepat pindah
+panas udara dari lingkungan model sistem HPKU
+sistem terbuka dan resirkulasi. Sirkulasi udara dari
+ruang pengering ke sistem HPKU menggunakan
+pipa PVC ukuran 4 inchi dengan panjang 350 cm,
+pengering model silinder dengan diameter 82 cm,
+tinggi 90 cm, jarak bagian plenum atas dan bawah
+23 cm.
+Gambar 1 memperlihatkan pengukuran suhu
+sistem HPKU dilakukan pada titik aliran udara
+masuk (1) dan keluar (2) evaporator, masuk (2) dan
+keluar (3) heat exchanger, masuk (3) dan keluar
+(4) kondensor. Pengukuran suhu plenum dilakukan
+pada bagian bawah, tengah dan atas. Pengukuran
+suhu bola basah dan bola kering di sistem HPKU
+dan pengering dilakukan untuk mengetahui
+kelembaban relatif dan data suhu yang terekam di
+recorder setiap 10 menit selama kira-kira 12 jam.
+Neraca Energi pada Pengeringan Heat Pump
+Kompresi Uap dengan Sistem Resirkulasi
+HPKU untuk pengeringan pada sirkulasi
+sistem resirkulasi murni harus menggunakan
+kondensor eksternal untuk membuang kelebihan
+panas sedemikian hingga HPKU dapat bekerja
+dengan stabil. Pada penelitian ini HPKU tidak
+dilengkapi kondensor eksternal, sehingga untuk pengoperasian sistem resirkulasi sebagian udara
+dari lingkungan harus dialirkan melalui komponen
+HPKU dengan jumlah udara pengeringan harus
+dibuang yang sama besar. Udara lingkungan dapat
+dialirkan melalui inlet sebelum kondensor atau
+sebelum evaporator yang secara skematik masingmasing
+ditunjukkan oleh Gambar 2 dan 3.
+Neraca energi untuk sistem HPKU adalah:
+(1)
+Keterangan :
+= Laju pindah panas kondensor (kW)
+= Laju pindah panas evaporator (kW)
+= Kerja kompresor (kW)
+Oleh karena itu, jika seluruh panas dari/ke
+kondensor atau evaporator mengalir dari/ke udara
+di dalam sistem heat pump maka persamaan
+neraca untuk sistem Gambar 2 adalah:
+(2)
+Atau
+(3)
+Keterangan :
+= Laju aliran udara masuk evaporator (kg/s)
+= Laju aliran udara lingkungan masuk
+kondensor dan evaporator (kg/s)
+hci = Entalpi udara masuk kondensor (kJ/kg)
+hco = Entalpi udara keluar kondensor (kJ/kg)
+hei = Entalpi udara masuk evaporator (kJ/kg)
+heo = Entalpi udara keluar evaporator (kJ/kg)
+hamb = Entalpi udara lingkungan (kJ/kg)
+Sedangkan persamaan neraca untuk sistem
+Gambar 3 adalah:
+(4)
+Atau:
+(5)
+Sehingga secara neraca energi, kedua skema ini
+dapat diterapkan.
+Percobaan Pengering Sistem Heat Pump
+Kompresi Uap
+Pengeringan gabah dengan sistem HPKU
+dilakukan dengan 9 model konfigurasi dan satu
+model perlakuan dengan sistem pemanas resistif
+sebagai pembanding, antara lain sebagai berikut :
+Percobaan Model Pengering dengan Pemanas
+Resistif
+Gambar 4 menunjukkan udara lingkungan
+disalurkan ke ruang pengering menggunakan
+saluran udara yang dipasang menyatu dengan
+ruang pengering dibuat pendek untuk mengurangi
+kehilangan panas akan tetapi tidak mengganggu
+penyebaran udara ke ruang pengering. Ukuran
+diameter saluran di bagian depan saluran sesuai
+dengan lubang keluaran udara dari blower dan
+diinsulasi untuk mengurangi kehilangan panas
+saluran udara melalui pemanas resistif dengan
+daya 2 kW, suhu pengering diatur otomatis
+menggunakan termostat suhu antara 40oC–45oC,
+sedangkan pengukuran konsumsi energi listrik
+dengan menggunakan power analyzer, clamp meter
+dan multimeter.
+
+
+
+Perhitungan Specifik Moisture Extraction Rate
+(SMER) dan Penentuan Laju Pengeringan
+Nilai SMER merupakan rasio jumlah massa
+air yang diuapkan dari bahan terhadap energi
+listrik yang digunakan (kg/kWh). Nilai SMER
+dapat dinyatakan dalam dua ekspresi, yaitu untuk
+konsumsi energi listrik yang hanya digunakan untuk
+maksud pemanasan:
+(6)
+Keterangan :
+SMERT = Specific Moisture Extraction Rate termal
+(kg/kWh)
+Wair = Jumlah massa air yang diuapkan (kg)
+ET = Energi yang digunakan sistem HPKU
+(kWh)
+dan untuk konsumsi energi listrik yang digunakan
+untuk total energi yaitu untuk pemanasan dan
+mekanik (blower), yaitu :
+(7)
+Keterangan :
+SMERTot = Specific Moisture Extraction Rate total
+(kg/kWh)
+ETot = Energi yang digunakan sistem HPKU
+dan Blower (kWh)
+Jumlah air yang diuapkan dihitung dari:
+(8)
+Keterangan :
+mf = Kadar air awal (% b.b.)
+mi = Kadar air akhir (% b.b.)
+Wi = Berat bahan (kg)
+Laju pengeringan dalam (kg/s) dinyatakan
+sebagai:
+(9)
+Keterangan :
+= Laju pengeringan (kg/s)
+Δt = Waktu pengeringan (jam)
+Hasil dan Pembahasan
+Konsumsi Energi untuk Setiap Konfigurasi
+Hasil pengukuran konsumsi energi dan rasio
+energi terhadap pengeringan dengan pemanas
+resistif serta SMERT dan SMERTot untuk masingmasing
+metode pengujian yang dilakukan dapat
+dilihat pada Tabel 2. Pengeringan dilakukan pada
+kadar air awal rata-rata 24% b.b. dan kadar air
+akhir rata-rata 13.36 - 14.34% b.b. Laju aliran udara
+pengering yang digunakan adalah 0.125 kg/s serta
+massa gabah yang dikeringkan sebanyak 150 kg
+per konfigurasi pengujian pada tebal tumpukan
+gabah 0.6 m. Waktu pengeringan yang dibutuhkan
+untuk keseluruhan konfigurasi relatif sama yaitu
+antara 11–12 jam. Penurunan kadar air yang paling
+cepat dari 9 konfigurasi yang dilakukan adalah pada
+konfigurasi II yaitu merupakan pengeringan siklus
+terbuka dengan HE yang menggunakan konveksi
+bebas udara lingkungan dengan waktu 11 jam.
+Pada sistem HPKU nilai SMERT diperoleh 3.39–
+7.06 kg/kWh dan SMERTot berkisar 2.45–5.06 kg/
+kWh. Nilai ini jauh lebih tinggi dibandingkan dengan
+hasil percobaan dari (Harchegani et al. 2012) pada
+pengeringan gabah dimana nilai SMER 0.1 kg/
+kWh. Kemungkinan penyebab rendahnya SMER
+pada percobaan tersebut mungkin disebabkan oleh 
+jumlah massa gabah yang jauh lebih rendah, namun
+pada makalah tersebut tidak dijelaskan berapa
+jumlah massa gabah yang dikeringkan. Bahkan
+pada produk lain dengan kadar air yang lebih tinggi
+seperti kayu dan pisang (Prasertsan dan Sean-saby
+1998) memperoleh SMER dalam kisaran 0.34–0.57
+kg/kWh. Penghematan energi yang cukup signifikan
+pada penelitian ini kemungkinan justru disebabkan
+oleh pengoperasian HPKU yang tidak kontinyu
+akibat terjadinya kondisi over-pressure pada
+kompresor HPKU. Dengan blower yang secara
+kontinyu beroperasi, tumpukan gabah tetap dialiri
+oleh udara lingkungan yang pada percobaan ini
+memiliki rata-rata suhu dari 30.4 – 31.9oC dengan
+RH 63 – 68%. Oleh karena itu, ketika kompresor tak
+beroperasi untuk beberapa saat, penurunan kadar
+air masih berlangsung dengan cukup baik. Bahkan
+pada pengeringan dengan pemanasan resistif
+dengan suhu dan kelembaban udara lingkungan
+yang demikian masih memiliki SMERTot yang cukup
+tinggi yaitu sebesar 1.54 kg/kWh.
+
+
+
+Dibandingkan dengan pengering yang
+menggunakan pemanas resistif, nilai SMERTot dari
+seluruh konfigurasi pengering HPKU berkisar antara
+159 – 329%, yang berarti keefektifan per satuan
+energi yang digunakan oleh pengering HPKU
+mencapai lebih dari tiga kali lipat. Nilai SMERT
+bahkan lebih tinggi lagi, yaitu mencapai hampir
+empat kali lipat. Hal ini dapat dipahami karena
+COP sistem HPKU umumnya lebih dari 1. Dari
+seluruh konfigurasi pengering HPKU, konfigurasi
+VI merupakan konfigurasi yang paling menghemat
+konsumsi energi yaitu dengan SMERTot dan SMERT
+masing-masing adalah 7.06 dan 5.06. Hal ini
+disebabkan pada konfigurasi ini, perbedaan waktu
+pengeringannya tidak signifikan dibandingkan
+dengan penurunan energi dengan cara intermittent.
+Pengoperasian dengan Siklus Sistem
+Resirkulasi
+Sistem siklus yang digunakan (resirkulasi
+atau terbuka) nampaknya tidak terlalu banyak
+mempengaruhi SMER. Akan tetapi dilihat dari
+SMERTot pada konfigurasi IV, V dan VIII, untuk
+siklus resirkulasi lebih baik digunakan dengan input
+udara lingkungan dari evaporator (4.01 kg/kWh)
+dibandingkan dengan input udara dari kondensor
+(2.46 dan 3.07 kg/kWh). Walaupun persamaan (2)
+dan (4) memperlihatkan kedua konfigurasi ini sama
+secara neraca energi, perbedaan dapat disebabkan
+oleh kerja kompresor yang berbeda saat menerima
+kondisi yang berbeda pada komponen evaporator
+dan juga kondensornya.
+Efek dari Penggunaan HE
+Maksud dari penukar panas (HE) yang
+ditempatkan di antara evaporator dan kondensor
+adalah untuk meningkatkan panas sensibel setelah
+udara didehumidifikasi di evaporator. Penukar
+panas dioperasikan dengan menggunakan udara
+lingkungan atau udara dari ekshaus pengering.
+Pengaliran udara lingkungan dapat menggunakan
+blower atau konveksi bebas. Pada siklus terbuka
+yaitu pada konfigurasi I, II, III dan VII, nilai SMERT
+masing-masing adalah 3.45, 3.31, 2.45 dan 4.19.
+Walaupun dari konfigurasi I dan II tidak nampak
+efek dari penukar panas, efek ini cukup signifikan
+ketika mengalirkan udara dalam penukar panas
+dengan udara ekshaus (konfigurasi III) dengan
+udara lingkungan menggunakan blower (konfigurasi
+VII). Pengaliran udara menggunakan udara
+ekshaus tidak membantu konservasi energi karena
+perpindahan panasnya memiliki driving force beda
+suhu antara bagian dalam dan luar HE. Walaupun
+entalpi dari udara keluaran pengering lebih tinggi
+dari udara lingkungan, suhunya lebih rendah.
+Efek Pengoperasian Intermittent Selama
+Proses Pengeringan Heat Pump Kompresi Uap
+Gambar 5 memperlihatkan perubahan suhu dan
+RH terhadap waktu pengeringan pada sistem HPKU
+siklus sistem resirkulasi, dimana Gambar 5a adalah
+untuk konfigurasi II yang merupakan pengoperasian
+kontinyu, Gambar 5b buntuk konfigurasi VI dengan
+pengoperasian intermittent untuk sistem HPKU
+dan Gambar 5c untuk konfigurasi IX dengan
+pengoperasian intermittent baik untuk sistem HPKU
+maupun blowernya.
+Gambar 5a memperlihatkan bahwa akibat kondisi
+over-pressure yang menyebabkan kompresor
+berhenti sementara, suhu plenum (udara pengering)
+berfluktuasi selama proses pengeringan. Misalnya
+menit ke 110 – 150 terjadi over-pressure sehingga
+sistem HPKU mati dan suhu plenum turun dari 40oC
+ke 31oC, sedangkan nilai kelembaban relatif naik
+dari 40% ke 60%, padahal suhu lingkungan antara
+jam 08.00–13.00 cenderung meningkat dari 26.3oC
+ke 33.8oC. Dengan kondisi ini nilai rata-rata suhu
+plenumnya 38.63oC, dengan kelembaban relatif
+43% dan kelembaban mutlak 0.0163 kg/kg u.k.
+Konfigurasi VI dilakukan dengan 120 menit sistem
+HPKU dioperasikan dan 30 menit dimatikan selama
+proses pengeringan. Selama pengeringan blower tetap dioperasikan. Gambar 5b memperlihatkan
+bahwa pada kondisi dimatikan, dengan segera suhu
+plenum turun ke kondisi lingkungan seperti yang
+dapat dilihat pada 30 menit pertama yaitu menit ke
+120-150 kelembaban relatif naik dari 36% ke 50%
+suhu turun dari 42oC ke 30oC. Namun demikian nilai
+rata-rata suhu masih mencapai 39.64oC dengan
+kelembaban relatifnya 36% dan kelembaban mutlak
+0.0142 kg/kg u.k.
+Pada konfigurasi IX, perlakuannya hampir sama
+dengan konfigurasi VI akan tetapi pada saat heat
+pump tidak dioperasikan, blower juga dimatikan.
+Sebagaimana halnya dengan konfigurasi VI ketika
+pengoperasian HPKU dan blower dihentikan, suhu
+plenum menurun sedangkan kelembabannya
+meningkat. Karena blower pada konfigurasi ini
+juga dimatikan peningkatan suhu plenumnya
+menjadi lebih lambat sehingga rata-rata suhu
+pengeringannya sedikit lebih rendah yaitu 37.72oC
+dengan kelembaban relatif 44%.
+Walaupun terdapat perbedaan suhu dan
+kelembaban rata-rata pada konfigurasi II, VI dan IX,
+secara keseluruhan penurunan kadar air bahan (%
+b.b.) terhadap waktu pengeringan tidak terpengaruh
+secara signifikan (Gambar 6). Penurunan kadar air
+pada 180 menit pertama hampir sama untuk ketiga
+konfigurasi. Perlambatan penurunan kadar air pada
+menit ke 90–180 pada konfigurasi II disebabkan
+oleh tidak beroperasinya kompresor pada menit
+ke 120 selama kira-kira 30 menit. Selanjutnya
+penurunan kadar air pada konfigurasi ini tidak
+terlalu cepat dibandingkan pada konfigurasi VI dan
+IX ketika HPKU sedang dioperasikan.
+Perlambatan penurunan kadar air tidak terlalu
+signifikan pada konfigurasi VI pada saat HPKU
+tidak dioperasikan akan tetapi cukup signifikan
+untuk konfigurasi IX. Hal ini disebabkan oleh tidak
+digunakannya blower pada konfigurasi IX sehingga
+penurunan kadar air cenderung tidak terjadi pada
+saat tersebut. Akan tetapi ketika pengoperasian
+HPKU sedang berjalan, penurunan kadar air pada
+konfigurasi ini cukup cepat.
+Pada studi ini, secara umum dapat dilihat bahwa
+pengoprasian HPKU secara intermittent pada
+berbagai konfigurasi tidak berpengaruh terhadap
+suhu udara pengering dan penurunan kadar air.
+Namun demikian, pengoperasian intermittent
+memberikan efek penurunan konsumsi energi
+yang cukup signifikan, sehingga Konfigurasi VI
+dan IX merupakan konfigurasi yang nilai SMERTot
+paling tinggi. Jika dibandingkan dengan konfigurasi
+II, nilai SMERTot dari kedua konfigurasi tersebut
+kira-kira mencapai 1.5 kali lipat. Selain itu, karena
+kondisi udara lingkungan yang cukup potensial,
+penggunaan blower secara kontinyu (konfigurasi
+VI) lebih menguntungkan dibandingkan dengan
+penggunaan blower secara intermittent (konfigurasi
+IX).
+
+
+Seluruh kondisi udara pengeringan yang
+dihasilkan oleh seluruh konfigurasi heat pump
+kompresi uap dan pemanas resistif pada studi ini
+hampir sama yaitu suhu 35.7 - 37.9oC dan RH
+35.4 - 45.9oC sehingga juga memberikan waktu
+pengeringan yang hampir sama yaitu 11 – 12 jam.
+Rasio peningkatan SMERTot terhadap pengering
+pemanas resistif untuk berbagai konfigurasi
+pengering heat pump kompresi uap yang digunakan
+pada studi ini adalah 159 – 329%. Tingginya nilai
+SMERTot baik dari pengering heat pump kompresi
+uap maupun pemanas resistif disebabkan oleh
+pengoperasian yang intermittent pada kondisi suhu
+dan kelembaban udara lingkungan yang memadai.
+Metode pengeringan heat pump dengan sistem
+terbuka dengan pengoperasian heat pump kompresi
+uap yang intermittent memberikan SMERT dan
+SMERTot yang paling tinggi yaitu masing-masing
+7.06 dan 5.06 kg/kWh. Pengoperasian intermittent
+tidak banyak mempengaruhi laju pengeringan,
+tetapi secara nyata menurunkan konsumsi energi.
+Penempatan inlet udara lingkungan pada
+sebelum evaporator lebih baik dibandingkan inlet
+sebelum kondensor pada siklus tertutup yang
+ditunjukan oleh SMERTot berturut-turut 4.01 dan
+3.07 kg/kWh. Penggunaan udara lingkungan
+dengan menggunakan konveksi paksa pada
+penukar panas akan meningkatkan SMERTot,
+sedangkan penggunaan aliran udara dari keluaran
+alat pengering akan menurunkan nilai SMERTot.

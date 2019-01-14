@@ -1,0 +1,607 @@
+﻿ 
+ 
+
+KAJIAN SINTESIS DAN KARAKTERISASI METAL-ORGANIC FRAMEWORKS 
+
+MOF-5 SEBAGAI MATERIAL PENYIMPAN HIDROGEN 
+
+ 
+
+ABSTRAK 
+
+Metal-organic frameworks (MOFs) merupakan polimer koordinasi berpori yang 
+tersusun atas senyawa penghubung organik berupa ligan bi-dan polidentate yang berikatan 
+dengan unit anorganik berupa klaster logam-oksida maupun kation logam yang berperan 
+sebagai secondary building unit (SBU) membentuk struktur/jaringan tak terbatas. Karena 
+porositas dan luas permukaan yang tinggi, stabilitas termal yang baik, dan adanya situs 
+metal tak jenuh maupun faktor ligan yang menarik interaksi dengan gas, MOFs memiliki 
+potensi untuk diaplikasikan sebagai material penyimpan hidrogen. Salah satu jenis MOFs 
+yang telah banyak dipelajari adalah [Zn4O(benzena-1,4-dikarboksilat)3] yang disebut 
+sebagai MOF-5. Variasi metode sintesis telah banyak dikembangkan untuk mendapatkan 
+hasil yang optimum. Karakterisasi terhadap MOF-5 dari beberapa langkah sintesis seperti 
+kristalinitas, kapasitas, stabilitas serta perilaku quantum dot telah dirangkum pada review 
+ini. 
+
+Kata kunci : karakterisasi, MOF-5, penyimpan hidrogen, sintesis 
+ 
+ 
+ 
+
+
+
+ 
+
+ 
+PENDAHULUAN 
+
+ 
+
+ 
+
+Energi yang digunakan saat ini, sebagian besar menggunakan bahan bakar fosil 
+
+yang tidak dapat diperbarui dengan cepat. Pertumbuhan penduduk yang tinggi berimbas 
+
+pada konsumsi energi yang meningkat. Hal ini menyebabkan bahan bakar fosil semakin 
+
+menipis, sehingga dibutuhkan energi alternatif yang sustainable untuk menggantikan peran 
+
+bahan bakar fosil (Yadav et al., 2015). 
+
+Sebagai elemen yang paling melimpah, hidrogen adalah salah satu sumber energi 
+
+yang menjanjikan (Eberle et al., 2009) sebagai pengganti energi fosil. Energi kimia per 
+
+massa dari hidrogen tiga kali lebih besar dibandingkan bahan bakar lainnya (Schlapbach 
+
+and Züttel, 2001). Selain memiliki kapasitas energi yang besar, penggunaan hidrogen 
+
+sebagai energi alternatif juga dapat mengurangi polusi udara yang disebabkan oleh gas 
+
+buang hasil dari penggunaan bahan bakar fosil. 
+
+Teknologi penyimpanan hidrogen dengan biaya rendah yang memberikan kapasitas 
+
+penyimpanan yang tinggi dan memiliki kinetika yang cepat merupakan faktor yang penting 
+
+dalam pengembangan penggunaan hidrogen untuk transportasi (Hu and Ruckenstein, 
+
+2006). Teknologi yang umum digunakan adalah kompresi gas hidrogen dan penyimpanan 
+
+hidrogen cair dalam tangki cryogenical (Rowsell and Yaghi, 2005), tetapi masih kurang 
+
+efektif karena membutuhkan tekanan yang tinggi dan suhu yang sangat rendah (Züttel, 
+
+2003). Penyimpanan hidrogen juga dapat dilakukan secara kimia, antara lain dengan 
+
+menggunakan material clathrate hydrogen hydrate dan metal hydride. Namun, secara 
+
+kinetika, pembentukan clathrate hydrogen hydrate relatif lambat sehingga isi ulang 
+
+hidrogen sulit dilakukan untuk diaplikasikan pada sel bahan bakar kendaraan (Hu and 
+
+Ruckenstein, 2006), sedangkan metal hydride memerlukan biaya yang besar, mudah 
+
+terpengaruh oleh pengotor dan memiliki kapasitas reversible gravimertic yang rendah 
+
+(Rowsell and Yaghi, 2005). Material lain yang saat ini menarik untuk dipelajari dan 
+
+memiliki potensi untuk penyimpanan hidrogen adalah metal-organic frameworks (MOFs). 
+
+Salah satu jenis MOFs yang telah banyak diteliti adalah MOF-5 (Zn4O(BDC)3; BDC = 
+
+benzena-1,4-dikarboksilat) yang memiliki kestabilan termal, area permukaan yang tinggi, 
+
+dan kapasitas penyimpanan hidrogen yang baik (Xin et al., 2010). MOF-5 memiliki 
+
+struktur kubik kristalin berpori dengan klaster Zn4O sebagai simpul (node) yang 
+
+dihubungkan dengan ligan bidentat benzena-1,4-dikarboksilat (Li et al., 1999). 
+
+ 
+
+ 
+
+METODE PENELITIAN 
+
+Pencampuran langsung dengan trietilamin (TEA) 
+
+ Zink(II) nitrat heksahitrat (Zn(NO3)2.6H2O) dan asam tereptalat (H2BDC) 
+
+dilarutkan dalam N,N’-dimetilformamida (DMF) dengan pengadukan sedang, kemudian 
+
+TEA ditambahkan ke dalam larutan di bawah kondisi agitasi. Sistem tertutup dan diaduk 
+
+pada temperatur ruang selama 2 jam. Produk berwarna putih disentrifugasi dan dicuci 
+
+dengan DMF dan dikeringkan pada 373 K selama 3 - 4 jam (Li et al., 1999). 
+
+Difusi lambat (slow diffusion) menggunakan TEA (tri etil amina) 
+
+MOF-5 disintesis dengan difusi trietilamina (NEt3) ke dalam larutan Zn(NO3)2 dan 
+
+tereptalat 
+
+asam 
+(H2BDC) dalam pelarut DMF/klorobenzena yang menyebabkan 
+deprotonasi H2BDC dan bereaksi dengan Zn2+. Campuran kemudian ditambah dengan 
+
+sejumlah kecil hidrogen peroksida. Hasil yang diperoleh berupa kristal kubik tak berwarna 
+
+dengan rumus [Zn4O(BDC)3•(DMF)8(C6H5Cl)]. DMF dan klorobenzena menjadi guest 
+
+pada host MOF-5 (Li et al., 1999). 
+
+Sintesis solvotermal 
+
+MOF-5 disintesis dengan pemanasan menggunakan metode solvotermal dengan 
+
+menggunakan autoklaf (teflon berbalut dengan stainless steel). Zink(II) nitrat tetrahidrat 
+
+(Zn(NO3)2•4H2O) dan H2BDC dilarutkan dalam1-methyl-2-pyrrolidone. Campuran reaksi 
+
+dimasukan ke dalam autoklaf dan diaduk di bawah gas nitrogen hingga diperoleh larutan 
+
+bening. Larutan tersebut dipanaskan dengan cepat pada temperatur sintesis yang berkisar 
+
+368-408 K, dengan waktu optimum pemanasan hingga 36 menit (Choi et al., 2008). 
+
+Sintesis solvotermal lainnya dengan cara Zn(NO3)2•6H2O dan H2BDC dilarutkan 
+
+dalam DMF. Larutan tersebut kemudian dimasukkan ke dalam autoklaf dan dipanaskan 
+
+pada 373 K selama 24 jam. Produk reaksi didinginkan pada temperatur ruang, padatan 
+
+kemudian dikumpulkan dengan sentrifugasi, dicuci dengan DMF dan dikeringkan pada 
+
+temperatur ruang (Li et al., 2009). 
+
+Sintesis pada suhu ruang 
+
+Sintesis MOF-5 pada suhu ruang (room temperatur synthesis) dilakukan dengan 
+
+pembuatan larutan asam tereptalat dan tri-etil-amin dalam DMF yang disiapkan secara 
+
+terpisah dengan larutan garam zink asetat hidrat Zn(OAc)2·2H2O, kemudian larutan garam 
+
+ditambahkan kedalam larutan organik dengan pengadukan selama lebih dari 15 menit, 
+
+terjadi pembentukan endapan, dan campuran terus diaduk selama 2,5 jam yang cepat pada 
+
+temperatur ambien. Endapan disaring dan direndam dengan DMF semalaman. Larutan 
+disaring kembali dan direndam dalam CHCl3. Pelarut diganti 3 kali setelah: 2 hari, 3 hari, 
+
+dan 7 hari. Pelarut didekantasi dan produk diberi tekanan 10 mTorr selama semalam untuk 
+
+menguapkan pelarut yang tersisa (Tranchemontagne et al., 2008). 
+
+ 
+
+PEMBAHASAN 
+
+Kondisi sintesis 
+
+Kondisi sintesis mempengaruhi kualitas pembentukan MOF-5. Pada sintesis dengan 
+
+metode pencampuran langsung dan metode difusi lambat dengan TEA menunjukkan 
+
+bahwa TEA berperan penting dalam sintesis, dimana semakin besar perbandingan antara 
+
+TEA dan H2BDC makin besar, kristalinitas MOF-5 yang terbentuk makin tinggi. 
+
+Berdasarkan penelitian Li et al. (2009), kondisi optimum untuk memperoleh kristalinitas 
+
+relatif yang tinggi dengan metode pencampuran langsung maupun dengan metode difusi 
+
+lambat dengan TEA yaitu (Zn(NO3)2.4H2O)/H2BDC= 2/1; TEA/H2BDC= 7,91/1; dan 
+
+DMF/H2BDC= 258,5/1; dengan waktu reaksi masing-masing 2 jam dan 48 jam. Hal ini 
+
+jauh berbeda pada metode solvo/hidrotermal. TEA yang berperan sebagai basa tidak terlalu 
+
+dibutuhkan pada sintesis solvotermal Li et al., (2009) dan sintesis pada temperatur ruang 
+
+dengan garam Zn(OAc)2·2H2O (Tranchemontagne et al., 2008). Pada sintesis solvotermal, 
+
+dengan tidak adanya TEA dapat meningkatkan kristalinitas MOF-5 (Li et al., 2009). 
+
+Morfologi 
+
+Morfologi MOF-5 diamati dengan scanning electron microscopy (SEM) (Gambar 1). 
+
+Sampel yang disintesis dengan pencampuran langsung dan difusi lambat TEA terdiri dari 
+
+partikel kecil tak beraturan, sedangkan kenampakan sampel yang disintesis secara 
+
+solvotermal mempunyai kristalinitas lebih baik dan terdiri dari partikel yang lebih besar. 
+
+Porositas dan Kristalinitas 
+
+Karena disorder, besarnya rongga yang terukur melalui analisis single X-Ray untuk 
+
+MOF-5 hasil sintesis dengan guest DMF dan C6H5Cl (Li et al., 1999) tidak menunjukkan 
+
+nilai yang sesungguhnya, sehingga tidak dapat digunakan untuk menentukan struktur yang 
+
+sebenarnya (Eddaoudi et al., 2001). Dari Tabel 1, penentuan secara langsung stabilitas 
+
+frameworks dilakukan dengan MOF-5 dengan guest DMF dan kloro benzene, MOF yang 
+
+didesolvasi, dan MOF dalam kondisi vakum. 
+
+ 
+
+
+Gambar 1. Hasil analisis SEM dari sampel MOF-5 yang disintesis dengan metode: (a) 
+pencampuran langsung dengan TEA; (b) difusi lambat (slow diffusion) TEA; (c) sintesis 
+
+ 
+
+solvotermal (Li et al., 2009). 
+
+Tabel 1. Data kristal untuk MOF-5 (Eddaoudi et al., 2001). 
+
+ 
+
+[Zn4O(BDC)3• 
+
+(DMF)8(C6H5Cl)] 
+
+desolvasi 
+
+[Zn4O(BDC)3] 
+desolvasi 573 K 
+
+T (K) 
+space group 
+
+a (Ǻ) 
+Z 
+V (Ǻ3) 
+ρ (g/cm3) 
+R, Rw 
+
+maks./min.(e-/ 
+Ǻ3) 
+
+hasil sintesis 
+
+213 ± 2 
+
+ 
+
+25,6690(3) 
+8 
+16913,2(3) 
+1,2 
+0,11; 0,31 
+
+penuh 
+
+169 ± 2 
+
+selama 24 jam di udara 
+149 ± 2 
+
+ 
+
+ 
+
+25,8849(3) 
+8 
+17343,6(3) 
+0,59 
+0,023; 0,026 
+
+25,84,96(3) 
+8 
+17272,7(3) 
+0,59 
+ 
+
+1,56/-0,45 
+
+0,25/-0,17 
+
+ 
+
+vakum 
+
+165 ± 2 
+
+ 
+
+25,8556(3) 
+8 
+17284,8(3) 
+0,59 
+0,019; 
+0,024 
+0,20/-0,30 
+
+Kristal dari desolvasi pemanasan penuh di udara pada 573 K selama 24 jam 
+
+menunjukkan morfologi dan kristalinitas yang tidak berbeda dari kristal dari desolvasi 
+
+tanpa pemanasan. Hal ini menunjukkan bahwa MOF-5 stabil dan rigid dengan pori 
+
+permanen karena meski tanpa adanya guest, struktur kristal dapat dianalisis dengan akurasi 
+
+yang tinggi menggunakan difraksi sinar-X. Kristal yang ditempatkan dalam keadaan 
+
+vakum menunjukkan struktur kristal yang tepat untuk MOF-5 dengan R = 0,019. Jarak 
+
+antara gugus fenil pada MOF-5 diilustrasikan sebagai pori bulat yang berdiameter 15,2 Ǻ, 
+
+yang lebih besar dari diameter kinetik dari H2 (Gambar 2). 
+
+Gambar 2. Pori (bulatan kuning) pada MOF-5 berdiameter 15,2 Ǻ lebih besar dari ukuran 
+molekul hidrogen (ungu, jari-jari atom van der Waals 1,2 Ǻ) (atom C: hitam, H: putih, O: 
+
+ 
+
+merah, Zn: tetrahedra biru) (Rowsell and Yaghi, 2005). 
+
+Gambar 3. Difraktogram dari MOF-5, warna hitam menunjukkan difraksi simulasi kristal 
+
+ 
+
+MOF-5, warna merah dan biru difraksi MOF-5 yang disintesis dengan metode sintesis 
+
+pada temperatur ruang, masing-masing dengan bahan awal garam Zn(NO3)2•4H2O, 
+
+Zn(OAc)2•2H2O (Tranchemontagne et al., 2008). 
+
+Gambar 3 menunjukkan perbandingan difraktogram dari kristal yang disintesis 
+
+dengan metode sintesis pada temperatur ruang dengan difraksi simulasi kristal MOF-5. 
+
+Teramati bila kristalinitas MOF-5 yang disintesis dengan metode sintesis pada temperatur 
+
+ruang tidak berbeda dengan MOF-5 simulasi kristal MOF-5. 
+
+Sifat Termal 
+
+MOF-5 memiliki kristalinitas dan stabilitas termal yang tinggi. Stabilitas termalnya 
+
+dapat mencapai 673 K dari pengukuran TGA (Thermogravimetric Analysis) (Gambar 4). 
+
+Dari analisis difraksi sinar X sebelumnya (Tabel 1) juga menunjukkan kristalinitas MOF-5 
+
+tidak berubah setelah dipanaskan 573 K. 
+
+
+
+ 
+
+ 
+
+Gambar 4. Kurva TGA MOF-5 yang disintesis dari 3 metode yang berbeda (Li et al., 
+
+ 
+
+2009). 
+
+Sampel MOF-5 yang disintesis dengan 3 metode yang berbeda (pencampuran 
+
+langsung dengan TEA, difusi lambat (slow diffusion) TEA dan sintesis solvotermal) 
+
+menunjukkan kurva thermogravimetric (TG) yang mirip. Diasumsikan hilangnya massa 
+
+dibawah 523 K terjadi akibat hilangnya DMF dari framework. Pada temperatur diatas 523 
+
+K, kurva TG hanya berubah sedikit. Kehilangan massa selanjutnya menunjukkan 
+
+kerusakan framework. Sampel yang disiapkan dengan metode pencampuran langsung 
+
+dengan TEA atau dengan metode difusi lambat (slow diffusion) TEA mengalami kerusakan 
+
+saat dipanaskan hingga temperatur 673 K, sedangkan sampel yang disiapkan dengan 
+
+metode sintesis solvotermal mengalami kerusakan saat dipanaskan hingga temperatur 773 
+
+K. Stabilitas termal dari MOF-5 yang disintesis dengan metode sintesis solvotermal lebih 
+
+tinggi daripada MOF-5 yang disintesis dengan metode lainnya (Li et al., 2009). 
+
+Spektra UV-Vis 
+
+Bordiga et al. 
+
+(2004) melaporkan spektra UV-Vis dari MOF-5 dan 
+
+membandingkannya dengan spektra UV-Vis dari ZnO dan garam dinatrium tereptalat 
+
+(Gambar 3). Pada ZnO, band gap yang lebar berada di daerah UV dekat dengan bilangan 
+
+gelombang 26300 cm-1. Transisi elektronik yang terjadi adalah transisi transfer muatan 
+
+ligan ke logam (ligan to metal charge transfer, LMCT) yang diilustrasikan seperti O2-Zn2+ 
+
+→ O-Zn+. Garam dinatrium tereptalat menunjukkan serapan yang intens dan kompleks, 
+
+mulai dari 31000 cm-1 dan serapannya melebar ke daerah UV. Transisi elektronik yang 
+
+terjadi yaitu transisi π → π* pada cincin aromatik yang terkonjugasi oleh 2 gugus 
+
+karboksilat (CO2
+
+-). 
+
+
+
+ 
+
+ 
+
+Gambar 5. Spektra UV-Vis dari ZnO (garis putus-putus), garam dinatrium tereptalat 
+
+ 
+
+(titik-titik) dan MOF-5 (garis tegas) (Bordiga et al., 2004). 
+
+Pada MOF-5 terdapat dua karakteristik utama: maksimum, berada pada 34500 cm-1 
+
+yang menunjukkan serapan bagian organik dan 28600 cm-1 yang menunjukkan serapan 
+
+dari bagian anorganik. Serapan pada 28600 cm-1 menunjukkan transisi O2-Zn2+ → O-Zn+. 
+
+Bila dibandingkan dengan serapan pada ZnO, terjadi pergeseran biru (blue shift) sebesar 
+
+2300 cm-1 pada MOF-5 karena perilaku ZnO quantum dot. Hal ini terjadi karena ikatan 
+
+antara Zn dan O dari BDC sehingga terbentuk susunan -Zn-O-Zn-O- yang memiliki pola 
+
+yang mirip yang teramati pada ETS-10 titanosilikat yang memiliki –Ti-O-Ti-O- yang 
+
+menyebabkan pergeseran biru (Bordiga et al., 2004). 
+
+Penyerapan Hidrogen pada MOF 
+
+Rosi et al. (2003) menunjukkan penyerapan hidrogen pada MOF-5 terjadi pada 2 
+
+binding site yaitu pada klaster anorganik, Zn4O, dan pada linker organiknya, BDC, dengan 
+
+menggunakan metode spektroskopi inelastic neutron scattering seperti yang ditunjukkan 
+
+pada Gambar 6. Spektrum dari MOF-5 tanpa guest (blangko) berkurang pada setiap 
+
+percobaan. Pengurangan yang paling signifikan di dekat 4 meV muncul dari puncak pada 
+
+daerah sampel blangko, yang tidak dapat dihilangkan dengan pemanasan di bawah kondisi 
+
+vakum. Penetapan transisi menggunakan model potensial dan mengamati pergeseran isotop 
+
+yang dari spektrum D2 pada MOF-5. Puncak pada 10,3 dan 12,1 meV ditetapkan sebagai 
+
+transisi 0-1 untuk dua binding site utama (I dan II, dilabeli pada spektra). Penetapan 
+
+puncak transisi tentatif lainnya adalah 4,4 meV (1-2, binding site II); 15,5 meV (0-2, 
+
+binding site II); 7,5 meV (1-2, binding site I); 17,5 meV (0-2, binding site I) dan 14,5 meV 
+
+(H2 padat). 
+
+ 
+
+Gambar 6. Spektra Inelastic Neutron Scattering (INS) (T = 10 K) untuk penyerapan 
+
+ 
+
+hidrogen pada MOF-5 dengan loading 4 H2 (atas), 8 H2 (tengah) dan 24 H2 (bawah) per 
+
+unit formula [Zn4O(BDC)3] diperoleh pada spektrometer Quasielastic Neutron 
+
+Spectroscopy (QENS) pada Intense Pulsed Neutron Source (IPNS). MOF-5 
+
+dikelompokkan menjadi sisi I dan II yang ditunjukkan pada skema di pojok kanan atas 
+
+(Rosi et al., 2003). 
+
+Pada tahun 2005, Yang dan Zhong dengan studi simulasi molekul sistematis 
+
+menjelaskan bahwa klaster anorganik metal-oksida merupakan binding site yang lebih 
+
+disukai pada MOF dan efek linker organik lebih terlihat pada penambahan tekanan. Lebih 
+
+lanjut dengan metode studi komputasi, Yang dan Zhong (2006) menyatakan mekanisme 
+penyerapan hidrogen pada MOF secara umum sama. Pertama, hidrogen menempati bagian 
+
+tengah pori pada MOF, kemudian dengan bertambahnya tekanan hidrogen akan mulai 
+
+terserap pada sisi klaster anorganik dan dengan tekanan yang lebih besar, hidrogen akan 
+
+mulai terserap pada bagian linker organiknya. 
+
+MOF-5 yang disintesis dengan menggunakan metode solvotermal menunjukkan 
+
+adsorpsi hidrogen 1,3 % massa H2 pada temperatur 77 K dengan tekanan 1 atm menurut 
+
+Rowsell et al. (2004). Perbandingan kapasitas penyimpanan hidrogen MOF-5 dari 3 
+
+metode sintesis yang berbeda ditunjukkan pada Gambar 7. Nilai penyimpanan hidrogen 
+
+mencapai 3,20 % massa untuk MOF-5 hasil sintesis melalui pencampuran langsung dengan 
+
+TEA, 2,63 % massa untuk MOF 5 yang disintesis dengan slow diffusion TEA, dan 3,60 % 
+
+massa untuk metode solvotermal pada tekanan 1,74 MPa dan temperatur 77 K (Li et al., 
+
+2009). MOF-5 menunjukkan bertambahnya kapasitas penyerapan hidrogen 7,1 % pada 77 
+
+K dengan tekanan 40 bar, dan pada 100 bar total penyerapan hidrogen pada MOF-5 dapat 
+
+mencapai 10 % massa berdasarkan pengamatan pada penyimpanan volumetrik dengan 
+
+densitas 66 g L-1 (Kaye et al., 2007). 
+
+Gambar 7. Desorpsi isoterm hidrogen pada temperatur 77 K pada sampel MOF-5 yang 
+
+ 
+
+disintesis dengan 3 metode yang berbeda setelah guest organik dikeluarkan (Li et al., 
+
+2009). 
+
+Penyerapan hidrogen pada MOF-5 akan berkurang drastis dengan adanya air, 
+
+karena ikatan koordinasi logam Zn dan oksigen lemah sehingga mudah diserang oleh 
+
+molekul air. Penambahan gugus hidrofobik, seperti gugus metil, pada linker organik secara 
+
+signifikan membuat struktur MOF-5 menjadi kurang sensitif terhadap air tanpa 
+
+menurunkan kapasitas penyerapan hidrogennya (Yang et al., 2011). 
+
+Upaya peningkatan kapasitas penyimpanan hidrogen dapat dilakukan dengan 
+
+beberapa cara. Doping kation Li terhadap MOF dapat meningkatkan binding energy H2 
+sehingga kapasitas penyerapan hidrogen lebih tinggi (Dalach et al., 2008). Efek spillover 
+
+dengan loading nanopartikel Pt (Kim et al., 2015) atau impregnasi dengan Pd pada MOF-5 
+
+(Sabo et al., 2007) dapat mendisosiasi molekul H2 dan meningkatkan kapasitas penyerapan 
+
+hidrogen pada MOF melalui pembentukan metal hidrida pada pori MOF. Selain dengan 
+
+efek spillover, Purewal et al. (2012) menunjukkan bahwa dengan densifikasi MOF-5 juga 
+
+dapat meningkatkan kapasitas penyerapan hidrogen. Kapasitas penyerapan tertinggi yang 
+
+diperoleh yaitu pada pellet yang memiliki densitas 0,31 g/cm3. Berbagai upaya 
+
+pengembangan material penyimpan hidrogen ini merupakan wujud kontribusi para 
+
+ilmuwan untuk menunjang penggunaan hidrogen sebagai bahan bakar alternatif yang 
+
+ramah lingkungan. 
+
+ 
+
+KESIMPULAN 
+
+Metal-organic framework jenis MOF-5 merupakan material hibrid berpori yang 
+
+terdiri dari klaster anorganik Zn4O dengan linker berupa ligan bidentat, benzena-1,4-
+
+karboksilat (BDC) yang memiliki kristalinitas dan stabilitas yang baik. Diameter MOF-5 
+
+15,2 A, sehingga dapat mengadsorpsi hidrogen 1,3 % massa H2 pada temperatur 77 K 
+
+dengan tekanan 1 atm dan beberapa upaya untuk meningkatkan kapasitas penyerapan 
+
+hidrogen telah dilakukan. MOF-5 memiliki sifat termal yang baik dengan stabilitas termal 
+
+hingga 400 oC dan kristalinitasnya tidak berubah saat dipanaskan hingga 300 oC. Beberapa 
+
+metode sintesis telah dikembangkan dan menunjukkan produk MOF-5 yang memiliki sifat 
+
+sedikit berbeda. Berdasarkan metode yang telah diulas, sintesis solvotermal memberikan 
+
+hasil MOF-5 yang memiliki sifat yang relatif lebih baik dari pada metode lainnya. Spektra 
+
+UV-Vis dari MOF-5 menunjukkan perilaku quantum dot yang menyebabkan pergeseran 
+
+biru pada serapan di bagian anorganiknya (klaster Zn4O). 
+
+ 

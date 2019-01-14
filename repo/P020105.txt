@@ -1,0 +1,107 @@
+﻿ABSTRAK
+Hepatitis B merupakan peradangan hati yang disebabkan oleh virus
+Hepatitis B (VHB). Penyakit ini dapat dicegah dengan cara memberikan vaksinasi
+kepada individu yang sehat sehingga memiliki kekebalan tubuh permanen
+terhadap VHB. Individu yang terinfeksi dan menularkan VHB juga dapat
+disembuhkan dengan memberikan obat antiviral. Namun demikian, individu yang
+sembuh dapat terinfeksi VHB kembali. Dalam skripsi ini diasumsikan individu
+yang sembuh atau telah diberi vaksin tidak bisa menjadi rentan kembali terhadap
+penyakit. Adapun tujuan dari skripsi adalah untuk menganalisis model penyebaran
+penyakit Hepatitis B serta mencari input kontrol yang optimal berupa usaha
+vaksinasi dan pengobatan dengan obat antiviral.
+Berdasarkan analisis model tanpa input kontrol diperoleh dua titik
+setimbang, yaitu titik setimbang nonendemik (bebas penyakit) �0 dan titik
+setimbang endemik �∗. Kestabilan titik setimbang ditentukan oleh bilangan
+reproduksi dasar �0. Bilangan �0 ini merupakan tolok ukur terjadi atau tidaknya
+penularan penyakit. Titik setimbang nonendemik �0 akan stabil asimtotis jika
+�0 < 1 dan titik setimbang endemik akan cenderung stabil asimtotis jika �0 > 1.
+Selanjutnya dengan menggunakan Prinsip Maksimum Pontryagin diperoleh syarat
+cukup eksistensi optimal kontrol berupa usaha pemberian vaksin dan 2 berupa
+usaha pengobatan. Hasil simulasi numerik menunjukkan pemberian kontrol
+dan 2 secara bersamaan dapat meminimalkan jumlah populasi yang terinfeksi
+Hepatitis B dengan biaya minimal.
+Kata Kunci: Model matematika, Hepatitis B, vaksin, pengobatan, optimal
+kontrol.
+
+BAB I
+PENDAHULUAN
+1.1 Latar Belakang
+Pada abad ke 20 ini, sejarah mencatat bahwa di era globalisasi diiringi
+dengan semakin banyaknya penduduk di berbagai belahan bumi yang terserang
+berbagai jenis penyakit. Penyakit ini menyerang penduduk baik di negara maju
+ataupun di negara berkembang seperti Indonesia. Penyakit tersebut terdiri dari
+penyakit menular dan tidak menular. Penyakit seperti HIV/AIDS, Tuberculosis,
+SARS, MERS, dan Demam Berdarah termasuk dalam kategori penyakit menular,
+sedangkan dalam kategori penyakit tidak menular diantaranya penyakit Jantung,
+Stroke dan Darah Tinggi. Salah satu penyakit menular lain yang sangat berbahaya
+dan merupakan suatu masalah kesehatan yang banyak dihadapi dalam praktik
+sehari-hari adalah penyakit Hepatitis (Soewignjo dan Stephanus, 1999).
+Hepatitis merupakan infeksi atau peradangan hati yang disebabkan oleh
+beberapa jenis virus, yaitu virus hepatitis A, B, C, D, E, G dan TT (Soewignjo
+dan Stephanus, 1999). Virus Hepatitis B yang selanjutnya disingkat VHB,
+merupakan virus yang paling berbahaya karena memiliki tingkat infeksi 50 – 100
+kali lebih menular dibandingkan dengan virus HIV. VHB menyerang tubuh
+manusia dengan menginfeksi sel hepatosit (sel hati). Saat orang terinfeksi virus
+ini, maka orang tersebut rentan terhadap beberapa jenis penyakit hati seperti
+matinya sel-sel hati (nekrosis hati), kacaunya struktur hati (sirosis hati) hingga
+kanker hati (Robbins, dkk, 2007).
+
+Pada tahun 2014, World Health Organization (WHO) memperkirakan 2
+milyar penduduk dunia telah terinfeksi VHB dan lebih dari 240 juta diantaranya
+mengalami hepatitis kronis atau menahun. Lebih dari 780.000 orang meninggal
+setiap tahun akibat Hepatitis B. Besarnya tingkat penularan oleh infeksi VHB
+menandai bahwa virus ini berbahaya dan harus dicegah penyebarannya.
+Virus Hepatitis B pertama kali ditemukan oleh Baruch Blumberg pada
+tahun 1965. Blumberg dkk melakukan penelitian untuk mencari antibodi yang
+timbul terhadap lipoprotein. Selanjutnya penelitian terkait pencegahan penyakit
+berbahaya seperti Hepatitis B dilakukan oleh para ahli biologi dan matematika
+yaitu dengan membentuk model matematika. Model matematika yang sering
+digunakan untuk mempelajari dinamika VHB cenderung berfokus pada sel
+hepatosit yang sehat, VHB, dan sel yang terinfeksi. Sebagian besar model
+merumuskan infeksi VHB sebagai proses aksi massa antara VHB dan sel
+hepatosit sehat. Beberapa model yang digunakan juga mengasumsikan bahwa
+penambahan atau masuknya sel hepatosit yang sehat hanya berasal dari luar sel
+dan selalu bernilai konstan (Soewignjo dan Stephanus, 1999).
+Beberapa model matematika terkait penyakit Hepatitis B telah ditemukan.
+Model matematika ini berguna untuk mengetahui perilaku penyebaran penyakit
+Hepatitis B dalam suatu populasi. Di samping itu, model matematika dapat
+digunakan untuk memprediksi kondisi permasalahan pada masa yang akan datang.
+Pada paper yang ditulis oleh Dontwi dkk telah dikaji model penyebaran penyakit
+Hepatitis B dengan adanya vaksin, akan tetapi belum mengkaji model yang
+menggunakan perpaduan adanya usaha pemberian vaksin dan obat. Berdasarkan hal ini, penulis tertarik untuk menambah input kontrol berupa obat antiviral pada
+model penyebaran penyakit Hepatitis B dengan adanya vaksin.
+1.2 Rumusan Masalah
+Berdasarkan latar belakang yang telah diuraikan sebelumnya, rumusan
+masalah yang akan dikaji adalah sebagai berikut:
+1. Bagaimana analisis model penyebaran penyakit Hepatitis B dengan adanya
+vaksin?
+2. Bagaimana bentuk optimal kontrol dari model penyebaran penyakit Hepatitis B
+dengan adanya vaksin?
+3. Bagaimana interpretasi model berdasarkan simulasi numerik untuk
+penyelesaian model penyebaran penyakit Hepatitis B tanpa dan dengan optimal
+kontrol?
+1.3 Tujuan
+Adapun tujuan dari rumusan masalah di atas adalah sebagai berikut:
+1. Untuk menganalisis model penyebaran penyakit Hepatitis B dengan adanya
+vaksin.
+2. Untuk mengetahui bentuk optimal kontrol dari model penyakit Hepatitis B
+dengan adanya vaksin.
+3. Menginterpretasikan model berdasarkan simulasi numerik untuk penyelesaian
+model penyakit Hepatitis B tanpa dan dengan optimal kontrol.
+
+1.4 Manfaat
+Manfaat yang diperoleh dari penelitian ini diantaranya:
+1. Menambah wawasan keilmuan mahasiswa khususnya mengenai model
+penyakit Hepatitis B dengan vaksin.
+2. Membantu para pengambil keputusan untuk merumuskan ide-ide terbaik untuk
+mencegah, mengendalikan dan membasmi penyakit Hepatitis B.
+3. Informasi serta wawasan keilmuan yang diperoleh dari penulisan skripsi ini
+dapat dilanjutkan sebagai bahan penelitian atau skripsi selanjutnya dengan
+berbagai modifikasi.
+1.5 Batasan
+Batasan merupakan hal yang selalu ada dalam suatu penelitian. Batasan
+dalam suatu penelitian bertujuan agar penelitian tersebut terarah dalam mencapai
+tujuan penelitian. Batasan dalam penelitian ini adalah sebagai berikut:
+1. Model dasar yang digunakan diambil dari paper yang ditulis oleh Dontwi, dkk
+(2014).
+2. Input kontrol berupa obat antiviral dan vaksin.

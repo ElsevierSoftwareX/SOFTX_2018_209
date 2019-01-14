@@ -1,0 +1,60 @@
+﻿Metode gayaberat digunakan untuk mengukur variasi percepatan gravitasi yang timbul dari perbedaan densitas antar batuan bawah permukaan. Penelitian ini dilakukan pada daerah Kalimantan Timur dengan tujuan untuk : Mengetahui Anomali Bouguer daerah penelitian, Mengetahui struktur patahan daerah panasbumi TG-11 berdasarkan analisis data gayaberat, dan mengetahui struktur bawah permukaan daerah penelitian melalui pemodelan 2,5D. Pengolahan data yang dilakukan dalam penelitian, meliputi : analisis spektral, analisis SVD dan pemodelan 2,5D untuk mengetahui struktur bawah permukaan daerah penelitian. Hasil dari penelitian menunjukan bahwa : (1) Nilai anomali Bouguer Lengkap berkisar antara (37.7 sampai 76.1) mGal. Anomali rendah menempati daerah pada bagian barat laut hingga tenggara. Anomali sedang menempati arah barat laut hingga tenggara mengikuti kontur anomali rendah. Serta Anomali tinggi ini menempati arah barat laut hinga tenggara. (2) Hasil SVD menunjukan arah patahan hampir sejajar dengan patahan yang ada dipeta geologi regional. (3) Hasil pemodelan bawah permukaan 2,5D menunjukan, a) Batuan yang terdapat pada daerah penelitian yaitu : terdapat 4 jenis pada daerah penelitian yang diidentifikasikan sebagai formasi sajau (TQps) dengan kedalaman 0 sampai 150 meter di bawah permukaan, formasi domaring (Tmpd) dengan kedalaman 150 sampai 1000 meter dibawah permukaan, formasi birang ( Tomb) dengan kedalaman 1000 sampai 1200 meter dibawah permukaan dan formasi sembakung (tes) dengan kedalaman berfariasi mulai dari 0 sampai 1900 meter dibawah permukaan dengan kedalaman basemant lebih dari 1900 meter dibawah permukaan. Sistem panasbumi daerah penelitian merupakan sistem yang diakibatkan oleh sesar. Kata kunci : Gayaberat, Anomali Bouguer,Pemodelan 2,5D
+
+BAB I PENDAHULUAN A. Latar Belakang Indonesia terletak pada jalur vulkanik memiliki sekitar 200 buah gunung api yang dapat berpotensi menjadi sumber energi panasbumi, sehingga Indonesia merupakan salah satu negara di dunia yang kaya akan energi panasbumi. Total potensi panasbumi dunia menurut World Geothermal Congress (WGC) 2010, setara dengan 40.000 Gwe, sedangkan kebutuhan energi dunia setara dengan 15.000 Gwe, sehingga energi panasbumi secara logika dapat mengatasi keperluan energi dunia. Potensi panasbumi yang sedemikian besarnya belum dioptimalkan pemanfaatannya, bukan hanya di Indonesia namun juga negara-negara di dunia. Energi panasbumi berpotensi menggantikan energi fosil sebagai sumber energi. Potensi panasbumi Indonesia yang mencapai 27 GWE jika keseluruhan sumber dayanya dipakai akan dapat menggantikan BBM (Bahan Bakar Minyak) sekitar 12 milyar barel. Sumber daya sebesar 27.000 MWE merupakan cadangan energi panasbumi terbesar di dunia (40% dari seluruh cadangan sumber energi panasbumi dunia). Namun, potensi tersebut belum dimanfaatkan secara optimal, bahkan sampai saat ini Indonesia baru memanfaatkan kurang dari 1.500 MWE.
+
+Eksplorasi di Indonesia baru dilakukan pada tahun 1970 dengan tujuan untuk
+menemukan dan mengembangkan sistem panasbumi temperatur tinggi. Eksplorasi
+sumber panasbumi yang berhubungan dengan fumarol aktif dan medan solfatara
+dengan tujuan menghasilkan listrik kali pertama direncanakan pada tahun 1918.
+Pemboran eksplorasi awal dilakukan oleh Volcanological Survey of Indonesia (VSI)
+dari kolonial Geological Survey of Indonesia (GSI) di Kawah Kamojang, Jawa, pada
+tahun 1926. Selama awal PELITA (1969-1974), Volcanological Survey of Indonesia
+(VSI) menyelesaikan pendataan panasbumi di Sumatera, Sulawesi, dan Pulau
+Halmahera. Kemudian berdasarkan Dekrit Presiden 16/1974, Pertamina mulai
+mengembangkan eksplorasi panasbumi dari tahun 1974 dan bertanggung jawab atas
+semua eksplorasi panasbumi di Jawa dan Bali. Sejak saat itu, eksplorasi dan
+eksploitasi panasbumi semakin berkembang di Indonesia.
+Dalam suatu eksplorasi panasbumi, metode geofisika merupakan salah satu metode
+utama yang digunakan untuk mendeteksi keberadaan suatu sistem panasbumi.
+Dalam eksplorasi panasbumi, metode geofisika yang digunakan biasanya adalah
+metode selain metode seismik aktif. Hal ini dikarenakan sebagian besar lapangan
+panasbumi berada pada daerah vulkanik dimana sebagian besar batuan penyusunnya
+adalah batuan beku dan metamorf. Selain itu, kondisi bawah permukaan daerah
+vulkanik yang umumnya tidak membentuk perlapisan sehingga sulit dideteksi
+menggunakan metode seismik aktif. Metode-metode yang umum digunakan
+diantaranya metode resistivitas, metode magnetik, metode gravitasi, dan juga metode
+elektromagnetik.
+
+Metode gravitasi atau gaya berat digunakan untuk mengetahui atau mengidentifikasi
+sistem panasbumi dan struktur geologi bawah permukaan bumi berdasarkan nilai
+densitas batuan. Adanya struktur geologi ini bisa mengakibatkan adanya variasi
+massa jenis batuan yang ada dibawah permukaan. Penurunan struktur bawah
+permukaan ini didasarkan pada hubungan anomali Bouguer gravitasi yang
+merefleksikan variasi rapat massa (density) di bawah permukaan ke arah horizontal
+dan geometri (bentuk) benda dari anomalinya sendiri eksplorasi gaya berat dimulai
+pada awal abad 20, yang digunakan pada saat penemuan minyak dan gas bumi
+pertama kali. Sejak saat itu, metode gaya berat mengalami banyak pengembangan
+baik dalam hal instrumentasi, akuisisi data, pengolahan data, dan interpretasi data.
+Penelitian menggunakan metode gaya berat dilakukan pada daerah panasbumi Sajau
+kabupaten Kalimantan Timur. Dalam eksplorasi energi panasbumi, metode gaya
+berat dapat mendeteksi perbedaan densitas batuan di bawah permukaan yang
+membentuk suatu sistem panasbumi. Metode gaya berat juga dapat digunakan untuk
+membuat model struktur bawah permukaan yang akan digunakan sebagai acuan
+untuk melakukan interpretasi. Dengan melakukan interpretasi tersebut diharapkan
+dapat memberikan informasi dan gambaran yang lebih baik tentang kondisi daerah
+prospek panasbumi Sajau.
+
+B. Tujuan Penelitian
+Adapun tujuan dari penelitian ini adalah:
+1. Mengetahui Anomali Bouguer Daerah panasbumi “TG-11”.
+2. Mengetahui struktur patahan Daerah panasbumi “TG-11” berdasarkan analisis
+SVD.
+3. Mengetahui Struktur bawah permukaan berdasarkan pemodelan 2D Anomali
+Bouguer.
+C. Batasan Masalah
+Batasan dari penelitian ini adalah:
+1. Penelitian ini menitikberatkan pada interpretasi bawah permukaan panasbumi
+menggunakan metode gaya berat pada daerah penelitian.
+2. Data topografi diambil dari data SRTM Indonesia area Sajau Kalimantan Timur
+3. Interpretasi struktur ditentukan menggunakan Anomali Bougeur dan Anomali
+Residiual Second Vertical Derivative (SVD).

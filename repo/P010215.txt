@@ -1,0 +1,714 @@
+﻿Pendahuluan
+Beberapa isu-isu lingkungan seperti perubahan lingkungan
+(Climate Change), menurunnya keanekaragaman
+hayati (biodiversity), pencemaran lingkungan
+karena adanya B3 (Bahan Berbahaya dan Beracun),
+keterbasan jumlah sumber daya alam serta masalah
+waste yang merupakan efek samping dari kegiatan
+industri secara global, mengharuskan manusia untuk
+berpikir kreatif dan inovatif. Dikarenakan masalah
+keterbatasan sumber daya alam serta meminimasi
+jumlah waste, maka Mutha dan Pokharel 
+mengusulkan perusahaan harus mengimplementasikan
+beberapa hal antara lain legislation, social responsibility,
+corporate imaging, environmental concern,
+economic benefit dan customer awareness. Konsep
+tersebut diharapkan perusahaan mampu menciptakan
+produk yang ramah lingkungan dengan
+memanfaatkan secondary material sebagai bahan
+baku.
+Beberapa teknik telah dikembangkan untuk mengatasi
+permasalahan tersebut. Reverse Logistics (RL)
+merupakan salah satu teknik yang cukup mendapatkan
+perhatian dan dianggap sesuai dengan
+permasalahan e-waste. RL telah diimplementasikan
+sekitar tahun 1980an. Telah banyak perusahaanperusahaan
+yang menyatakan keberhasilan implementasi
+RL dan mendapatkan banyak manfaat.
+
+
+Stock  menganalisis RL merupakan salah satu
+cara untuk mengurangi biaya, meningkatkan pendapatan
+dan membantu untuk memperoleh keuntungan
+pasar. Di sisi lain, Chouinard et al.,  menyatakan
+bahwa dengan integrasi yang baik antara
+RL dengan sistem informasi yang tepat akan memberikan
+informasi yang up-date diantara para pelaku
+supply chain. Survei yang dilakukan oleh
+Moore  terhadap 125 perusahaan manufaktur, dihasilkan
+bahwa RL memberikan dampak positif terhadap
+perndapatan perusahaan melalui remanufacturing
+sekitar 50-70%. Kepuasan konsumen dan peningkatan
+performance perusahaan juga naik secara
+signifikan setelah perusahaan mengimplementasikan
+RL (Pollock ). Kumar dan Putnam  lewat
+penelitiannya mendapatkan hasil bahwa implementasi
+RL telah memberikan keuntungan sebesar 74%
+untuk energy savings, 90% untuk penggunaan natural
+resources, 97% reduksi mining waste, 88% reduksi
+air emission dan 76% untuk water reduction.
+Lebih banyak manfaat yang didapatkan antara lain
+asset utilization, asset recovery, profit maximization,
+to fulfill the environmental obligations serta customer
+relations management telah dikemukakan
+oleh Rakesh Verma . Pendapat yang sama juga
+dikemukakan oleh Wrap  bahwa implementasi
+RL akan memberikan dampak yang siginifikan bagi
+perusahaan seperti bagaimana pengelolaan manajemen
+limbah, serta keselamatan serta kesehatan
+kerja.
+
+Disain framework ini sangat perlu dilakukan, dikarenakan
+tidak ada parameter yang jelas untuk setiap
+tingkat kematangan implementasi RL. Karakteristik
+serta batasan yang jelas diperlukan guna
+menumbuhkan effort bagi perusahaan untuk meningkatkan level dan strategi. Rancangan Framework
+Maturity of RL ini penting dikarenakan beberapa
+fenomena antara lain:
+(1) Banyaknya klaim atas keberhasilan implementasi
+RL di beberapa perusahaan, meskipun tidak
+dijelaskan indikator atau parameter yang jelas tentang
+kesuksesan tersebut. Adapun macam-macam
+klaim tersebut antara lain: Penelitian dari Rose et
+al.  yang menyatakan bahwa Kodak dan Xerox
+berhasil mengimplementasikan RL di perusahaannya,
+dengan hanya mengandalkan keterlibatan
+third parties services. Wu dan Cheng  melaporkan
+bahwa AT & T Network System Division telah
+berhasil menghemat $100 million dalam 19 bulan
+setelah mengimplementasikan RL HP Plant Patners
+dapat mengurangi sekitar 18 million pound material
+dari tempat pembuangan akhir dengan berkolaborasi
+dengan UPS sebagai collection center (Wu dan
+Cheng ).
+(2) Banyaknya peneliti yang menyatakan kunci
+sukses implementasi RL. Namun klaim tersebut
+hanya didasarkan dari obyek yang diteliti saja
+belum bersifat umum dan terstandarisasi. Hal ini
+menyebabkan tiap-tiap peneliti memiliki tolok ukur
+yang berbeda-beda dalam menentukan kunci keberhasilan
+implementasi RL. Adapun pernyataan kunci
+sukses implementasi RL antara lain: Ho et al. 
+menyimpulkan bahwa kunci sukses implementasi
+RL terdiri dari 4 faktor yaitu: Company background
+(number of staff, business field, roles in the SC),
+degree of recognition and perception (recognition of
+RL, perception of RL) dan internal and external
+factors. Internal factor yang terdiri dari company
+finances and resources support dan company human
+resources support. Faktor external terdiri dari business
+partners in SC and government support. Lau
+dan Wang  menyatakan bahwa terdapat 2 faktor
+kunci keberhasilan RL antara lain external factors:
+public awareness, legislation, support of SC partners
+dan internal factors: company policies, strategic
+planning, top management commitment, resistance
+to change, information and technological systems,
+financial resources, personnel resources, performance
+metrics dan quality of return product.
+Metode Penelitian
+Konsep Reverse Logistics (RL)
+Reverse Logistics (RL) menurut Rogers dan Tibben
+ adalah “Process of planning, implementing and
+controlling the efficient, cost-effective flow of raw
+materials, in-process inventory, finished goods and
+related information from the point of consumption to
+the point of origin for the purpose of recapturing
+value or proper disposal”. Konsep di atas menggambarkan
+bahwa RL adalah sebuah proses perencanaan,
+implementasi sekaligus pengontrolan mulai
+dari unsur raw material, proses kerja sampai
+menjadi sebuah produk jadi sampai produk tersebut
+habis masa pakainya dengan informasi sebagai
+penunjang.
+Dalam studinya deBrito et al.  menyatakan beberapa
+kondisi produk yang dapat dikategorikan
+dalam RL. Adapun sebab-sebab produk mengalami
+RL dapat disebabkan karena beberapa hal antara
+lain: manufacturing return, commercial return (B2B
+and B2C), B2B adalah short-life product dan B2C
+adalah product quality, product recall, warranty
+return, service return, end-of-use return, dan end-oflife
+return. Rogers dan Tibben  mengemukaan
+bahwa aktivitas dalam reverse logistics adalah
+”processing returned merchandise due to damage,
+seasonal inventory, restock, salvage, recalls, and
+excess inventtory. It also includes recycling programs,
+hazardous material programs, obsolete equipment
+disposition, and asset recovery”. Kriteria di atas
+menjelaskan bahwa RL memiliki ruang lingkup
+yang cukup besar untuk kategori produk yang harus
+dikembalikan ke perusahaan mulai dari kesalahan
+pada proses manufaktur, produk-produk yang memiliki
+umur ekonomis yang relatif singkat, produkproduk
+dengan kesalahan spesifikasi baik bentuk,
+fungsi ataupun yang lainnya, adanya sistem
+jaminan apabila produk yang diterima oleh konsumen
+tidak sesuai dengan spesifikasi yang ditawarkan.
+Kemudian adanya bagian dari layanan/ service yang
+diberikan oleh perusahaan kepada konsumen sebagai
+bagian dari layanan customer satisfaction, adanya
+produk yang habis masa pakainya dan hidupnya
+sehingga kesemuanya di atas perlu adanya
+proses lanjutan untuk mengantisipasi menumpuknya
+barang akibat tidak sesuai fungsi, jumlah, standar
+dan spesifikasi lainnya.
+Grounded Theory (GT)
+Heath dan Cowley , Walker dan Myrick ,
+Bernon et al. , dan Denk et al.  telah
+mengambil kesimpulan dari Glaser dan Strauss,
+bahwa GT adalah “Research methodology findings
+emphasize the qualitative theory of observation data
+in the field with empirical inductive method (the
+theory of amount of data), which is the discovery or
+construction generative theory using the data as
+evidence”. GT adalah sebuah teorisasi data. Teorisasi
+data adalah sebuah metode penyusunan teori yang
+berorientasi tindakan/ interaksi/proses yang benarbenar
+terjadi di lapangan. Penelitian ini bertolak
+dari bagaimana implementasi yang terjadi di
+lapangan. Penelitian ini bertolak dari suatu teori
+yang bertujuan untuk melihat phenomena atau
+kejadian suatu teori yang bertujuan untuk menguji luar biasa yang terjadi di lapangan. Teori yang dihasilkan
+harus sesuai dengan prosedur dan terencana
+serta sistematis. Metode ditemukan, dikembangkan
+dan dibuktikan melalui sebuah proses
+pengumpulan data yang sistematis dan analisis
+data tentang fenomena yang ada. Oleh karena itu
+kumpulan data, analisis dan teori akan saling
+mempengaruhi satu sama lain.
+Penelitian GT memberikan peneliti suatu kemampuan
+untuk menurunkan atau menciptakan sebuah
+teori dalam konteks data yang telah dikumpulkan.
+Istilah Grounded Theory pertama kali diperkenalkan
+oleh Glaser dan Strauss pada tahun 1967.
+Dalam bukunya yang berjudul The Discovery of
+Grounded Theory Strategies for Qualitative Research.
+Strauss dan Corbin  menyimpulkan bahwa
+GT adalah sebuah teori yang diturunkan dari
+data yang secara sistematis dikumpulkan dan dianalisis
+dan data tersebut berasal dari proses
+pengamatan di lapangan. Perbedaan antara metode
+GT dengan metode lainnya adalah pada pendekatan
+filosofis, yaitu adanya hubungan kontinu antara
+pengumpulan data dan analisis data hubungan
+yang berkesinambungan antara proses pengumpulan
+data dan analisis data.
+Desain framework maturity of RL ini dikembangkan
+dari pendekatan GT. Banyaknya bukti-bukti implementasi
+RL walaupun sangat sederhana, memungkinkan
+sebuah teori baru dapat dimunculkan. Proses
+induksi merupakan langkah penting bagi
+seorang peneliti untuk menelaah data-data yang
+ada menjadi sebuah teori. Berdasarkan penelitian
+Heath dan Cowley , imaginasi dan kreatifitas
+peneliti sangat membantu untuk memunculkan
+sebuah teori baru. Sebuah data digunakan untuk
+menyelesaikan sebuah permasalahan. Hal ini
+membuat sebuah teori baru akan lebih masuk akal.
+GT juga akan mampu mengenali tidak hanya
+analytical generalization tetapi statistical generalization
+sehingga teori yang dibentuk akan sangat tepat
+terhadap permasalahan yang terjadi (Bernon et al.
+). Randall dan Mello  melaporkan bahwa
+kemampuan dari GT adalah untuk mengatasi
+behavioral dimensions at the individual, organizational
+dan inter-organizational level. Manfaat lain
+yang dapat diambil dari GT ini adalah GT mampu
+mengevaluasi kekakuan dan kredibilitas suatu teori
+sehingga lebih fleksibel (Manuj dan Pohlen ).
+Agar penelitian lebih sistematis dan terstruktur,
+maka proses pengambilan data yang dilakukan
+dilapangan ataupun tidak harus memiliki suatu
+mekanisme tersendiri proses pengambilan data
+primer (pengamatan langsung di lapangan) atau
+data sekunder (data perusahaan dan studi literatur)
+harus memiliki mekanisme tersendiri. Hal ini
+bertujuan untuk menghindari bias yang terlalu
+besar antara data yang satu dengan yang lainnya.
+Antar data akan dapat mendukung data lainnya
+untuk memunculkan sebuah teori yang baru.
+Gambar 1 menjelaskan langkah-langkah yang dilakukan
+dalam GT. Terdapat 4 langkah yaitu: (1)
+Fase pengumpulan data: Pada fase ini dilakukan
+tinjauan ulang literatur teknis Tinjauan ulang
+terhadap literatur yang memiliki persamaan content
+dan topik yang sama. Hal ini dimaksudkan untuk
+mengetahui sejauh mana kajian literatur atas
+phenomena yang terjadi. Langkah berikutnya ada-luar biasa yang terjadi di lapangan. Teori yang dihasilkan
+harus sesuai dengan prosedur dan terencana
+serta sistematis. Metode ditemukan, dikembangkan
+dan dibuktikan melalui sebuah proses
+pengumpulan data yang sistematis dan analisis
+data tentang fenomena yang ada. Oleh karena itu
+kumpulan data, analisis dan teori akan saling
+mempengaruhi satu sama lain.
+Penelitian GT memberikan peneliti suatu kemampuan
+untuk menurunkan atau menciptakan sebuah
+teori dalam konteks data yang telah dikumpulkan.
+Istilah Grounded Theory pertama kali diperkenalkan
+oleh Glaser dan Strauss pada tahun 1967.
+Dalam bukunya yang berjudul The Discovery of
+Grounded Theory Strategies for Qualitative Research.
+Strauss dan Corbin  menyimpulkan bahwa
+GT adalah sebuah teori yang diturunkan dari
+data yang secara sistematis dikumpulkan dan dianalisis
+dan data tersebut berasal dari proses
+pengamatan di lapangan. Perbedaan antara metode
+GT dengan metode lainnya adalah pada pendekatan
+filosofis, yaitu adanya hubungan kontinu antara
+pengumpulan data dan analisis data hubungan
+yang berkesinambungan antara proses pengumpulan
+data dan analisis data.
+Desain framework maturity of RL ini dikembangkan
+dari pendekatan GT. Banyaknya bukti-bukti implementasi
+RL walaupun sangat sederhana, memungkinkan
+sebuah teori baru dapat dimunculkan. Proses
+induksi merupakan langkah penting bagi
+seorang peneliti untuk menelaah data-data yang
+ada menjadi sebuah teori. Berdasarkan penelitian
+Heath dan Cowley , imaginasi dan kreatifitas
+peneliti sangat membantu untuk memunculkan
+sebuah teori baru. Sebuah data digunakan untuk
+menyelesaikan sebuah permasalahan. Hal ini
+membuat sebuah teori baru akan lebih masuk akal.
+GT juga akan mampu mengenali tidak hanya
+analytical generalization tetapi statistical generalization
+sehingga teori yang dibentuk akan sangat tepat
+terhadap permasalahan yang terjadi (Bernon et al.
+). Randall dan Mello  melaporkan bahwa
+kemampuan dari GT adalah untuk mengatasi
+behavioral dimensions at the individual, organizational
+dan inter-organizational level. Manfaat lain
+yang dapat diambil dari GT ini adalah GT mampu
+mengevaluasi kekakuan dan kredibilitas suatu teori
+sehingga lebih fleksibel (Manuj dan Pohlen ).
+Agar penelitian lebih sistematis dan terstruktur,
+maka proses pengambilan data yang dilakukan
+dilapangan ataupun tidak harus memiliki suatu
+mekanisme tersendiri proses pengambilan data
+primer (pengamatan langsung di lapangan) atau
+data sekunder (data perusahaan dan studi literatur)
+harus memiliki mekanisme tersendiri. Hal ini
+bertujuan untuk menghindari bias yang terlalu
+besar antara data yang satu dengan yang lainnya.
+Antar data akan dapat mendukung data lainnya
+untuk memunculkan sebuah teori yang baru.
+Gambar 1 menjelaskan langkah-langkah yang dilakukan
+dalam GT. Terdapat 4 langkah yaitu: (1)
+Fase pengumpulan data: Pada fase ini dilakukan
+tinjauan ulang literatur teknis Tinjauan ulang
+terhadap literatur yang memiliki persamaan content
+dan topik yang sama. Hal ini dimaksudkan untuk
+mengetahui sejauh mana kajian literatur atas
+phenomena yang terjadi. Langkah berikutnya adalah pemilihan kasus sebagai penelitian awal untuk
+membuktikan phenomena dengan bukti-bukti yang
+ada melalui data primer, sekunder dan melihat
+langsung ke lapangan. (2) Fase penyusunan data:
+Fase ini dilakukan 3 langkah yaitu open coding,
+axial coding dan selective coding. Tujuannya adalah
+pengelompokkan bukti-bukti yang ada dengan teori
+yang akan dibangun.pengelompokkan bukti-bukti
+yang terjadi di lapangan sehingga teori yang akan
+dibangun sesuai dengan tujuan yang diinginkan dan
+permasalahan yang terjadi. (3) Fase analisis data:
+Pada fase ini teori telah dibangun dari bukti-bukti
+yang terjadi di lapangan, karena GT merupakan
+metode induksi yaitu menciptakan sebuah teori
+baru yang didasarkan atas phenomena yang terjadi.
+Hal ini terjadi karena teori atau metode yang ada
+sekarang ini kurang mampu untuk menganalisisnya,
+tentunya dengan analisa serta pembahasan
+yang melibatkan orang-orang yang berkompeten di
+bidangnya. (4) Fase perbandingan literatur: Fase ini
+merupakan fase terakhir. Teori yang dibentuk tetap
+harus dilakukan kajian secara literatur dengan
+mempertimbangkan kelebihan serta kelemahan
+yang ada.
+Pengumpulan Data
+Dalam proses desain framework ini diperlukan
+kuesioner untuk menilai implementasi RL yang
+telah dilakukan oleh ketiga perusahaan elektronika
+konsumsi (sesuai dengan peta panduan (road map)-
+Pengembangan Klaster Industri Prioritas Industri
+Elektronika dan Telematika, tahun 2010 - 2014
+yang dikeluarkan oleh Departemen Perindustrian.
+Dalam buku tersebut terdapat klaster industri
+elektronika konsumsi yaitu semua produk elektronika
+yang banyak digunakan pada tingkat rumah
+tangga). Adapun perusahan elektronika konsumsi
+yang dijadikan obyek penelitian adalah PT. SA, PT.
+PCB dan PT. GMEI. Di samping itu, pengamatan
+secara langsung ke area perusahaan memberikan
+manfaat untuk menghindari perbedaan persepsi antara
+peneliti dengan perusahaan. Setelah kuesioner
+dikumpulkan maka dilakukan uji statistik yang
+meliputi uji kecukupan data, uji validitas dan uji
+reliabilitas. Setelah kesemua data valid dan reliable
+maka desain framework dimulai dengan metode
+Grounded Theory (GT). Uji statistik yang dilakukan
+adalah uji validitas dan relibilitas untuk melihat sejauh
+mana hasil kuesioner tidak bias dan responden
+mengerti atas pertanyaan dari kuesioner sehingga
+dapat mengurangi kesalahan pada waktu pengisian.
+Adapun langkah-langkah dalam GT antara lain:
+Fase pengumpulan data, fase penyusunan data, fase
+analisis data dan fase perbandingan literatur. Data
+yang dihasilkan dari penyebaran kuesioner tersebut
+merupakan data ordinal, untuk itu digunakan
+Method of Successive Interval (MSI) untuk
+mengubah ke data interval. MSI dibagi menjadi 7
+tahapan yaitu: menghitung frekuensi (F), menghitung
+proporsi (P), menghitung proporsi kumulatif
+(PK), Mencari nilai Z, Menghitung densitas F (z),
+mengitung scale value (sc) dan menghitung nilai
+hasil penskalaan.
+Hasil dan Pembahasan
+Dari rangkaian tahapan yang telah dilakukan
+dalam metode GT, maka framework baru telah terbentuk
+berdasarkan atas fenomena yang terjadi dan
+perbandingan dengan literatur yang ada.
+Berikut adalah tahapan dari metode GT untuk
+pengembangan framework.
+Langkah pertama yang harus dilakukan adalah fase
+pengumpulan data. Data yang dikumpulkan disesuaikan
+dengan tujuan yang akan dicapai.
+Tinjauan Ulang Literatur Teknis
+Tinjauan ulang literature teknis dilakukan dengan
+tujuan agar penelitian yang dilakukan memiliki
+kontribusi kebaruan. Sehingga lileratur teknis dikumpulkan
+dan dianalisa untuk mempertegas
+bahwa penelitian yang dilakukan belum pernah
+diteliti orang lain. Di samping itu, tujuan lainnya
+adalah melihat sejauh mana perkembangan penelitian
+dengan ruang lingkup yang sama.
+Pada tahun 1990 sampai dengan tahun 2008, penelitian
+RL berkisar pada ruang lingkup RL input, RL
+structure, RL process dan RL organization. Sekitar
+tahun 2008 sampai dengan 201, ruang lingkupnya
+sudah mulai berkembang. Adapun area cakupannya
+adalah masalah-masalah seperti customer satisfaction,
+secondary material, pricing, waste dan sustainability
+environment. Tahun 2011 sampai sekarang,
+masalah-masalah seperti framework, flexibility,
+corporate sosial responsibility (CSR), waste,
+policy (company, government, global), secondary
+material dan sustainability environment mulai
+terfokuskan.
+Pemilihan Kasus
+Kasus yang dipilih adalah kasus yang sering terjadi
+pada saat ini. Penelitian ini diharapkan dapat
+menyelesaikan permasalahan yang ada. Adapun kejadian
+yang ada adalah banyak perusahaan yang
+menganggap implementasi RL yang telah mereka
+lakukan nya sukses. Namun sampai saat ini belum
+ada metode atau framework yang dapat mengukur
+sampai sejauh mana tingkat kesuksesan yang telah
+dicapai.Menyusun Protokol Pengumpulan Data
+Fase selanjutnya adalah menyusun protokol pengumpulan
+data. Penyusunan yang sistematis akan
+membantu peneliti untuk sistematika pengumpulan
+data yang diperlukan untuk penelitiannya. Datadata
+yang diambil berasal dari beberapa sumber
+seperti yang terlihat pada Tabel 1 yaitu berasal dari
+data primer, sekunder dan peneliti melihat langung
+ke lapangan untuk menangkap fenomena yang terjadi
+di lapangan. Adapun protokolnya dapat dilihat
+pada Tabel 1.
+Fase Penyusunan Data
+Fase pengumpulan data terdiri dari 2 coding yaitu
+open coding dan axial coding.
+Open Coding
+Open coding: proses merinci, menguji, membandingkan,
+konseptualisasi, dan melakukan kategorisasi
+data. Disamping itu terdapat pelabelan fenomena
+serta penamaan kategori tersebut sehingga proses
+pengelompokkan peristiwa dapat ter-cluster dengan
+jelas seperti yang terlihat pada Tabel 2.
+Axial Coding
+Axial coding: mengidentifikasi suatu fenomena
+sentral, mengeksplorasi kondisi kausal, menspesifikasi
+strategi-strategi mengidentifikasi konteks dan
+kondisi yang mempengaruhi dan mendeskripsikan
+konsekuensi-konsekuensi untuk fenomena tersebut.
+Dalam Tabel 3 dijelaskan bahwa sebuah masalah
+akan dicari akar permasalahannya, solusi yang ditawarkan
+sampai dengan konsekwensi yang terjadi
+atas permasalahan tersebut.
+Fase Analisis Data
+Pada fase ini adalah sebuah fase yang menghasilkan
+sebuat teori baru. Teori yang dapat dibentuk adalah
+sebuah framework yang berfungsi sebagai alat
+pengukur tingkat keberhasilan implementasi RL.
+Disamping itu juga framework ini juga membantu
+perusahaan meningkatkan level maturity dari
+implementasi RL karena framework ini dilengkapi
+dengan 5 RL Aspek yang dibagi kedalam 21 indikator
+yang jelas.
+Fase Perbandingan Literatur
+Dalam tahap ini, framework sudah terbentuk, perbandingan
+dengan literature yang ada diperlukan
+untuk mengetahui kelebihan serta kekurangan dari
+desain framework yang sudah ada. Fase ini sangat
+penting sebagai bagian dari future research. Membandingkan
+framework yang telah dibuat dengan
+penelitian yang lain akan memungkinkan terjadi
+diskusi untuk kesempurnaan disain framework
+yang akan datang. Hal dimungkinkan karena keterbatasan
+informasi yang dimiliki oleh peneliti sebelumnya.
+Setelah melewati metode GT maka desain Framework
+RL maturity level yang terbentuk (Gambar 2).
+Gambar 2 menjelaskan bahwa framework ini terdiri
+dari 5 tingkatan yang terdiri dari Level 1: Conventional;
+Level 2: Managed; Level 3: Developed; Level
+4: Innovative dan Level 5: Optimized. Untuk melihat
+sampai sejauh mana desain framework maturity ini
+mempunyai standarisasi yang jelas dan harus ada
+dalam setiap desain framework maturity, maka
+dilakukan komparasi terhadap beberapa penelitian
+sejenis. Antara lain penelitian yang telah dilakukan oleh Kwak dan Ibbs ; Constantinescu dan Iacob
+; Grim ; Tan et al. ; Dadhich dan
+Chauhan . Adapun beberapa kesamaannya
+antara lain sebagai berikut:
+Kwak dan Ibbs : Terdapat 5 tingkatan maturity
+levels yang terdiri dari initiating, planning,
+executing, controlling dan closing.
+Setiap level terdapat assessment indicators yaitu
+integration, scope, time, cost, quality, communication,
+human resources, risk, dan procurement
+Constantinescu dan Iacob : Dikembangkan
+sebuah framework yaitu capability maturity model
+integration. Dalam frameworknya terdapat 6
+capability levels yaitu: Level 0: Incomplete, Level 1:
+Performed, Level 2: Managed, Level 3: Defined,
+Level 4: Quantitatively managed dan Level 5:
+Optimizing.
+Di samping itu juga framework ini dibagi kedalam
+22 process area yang terkelompok kedalam 4 area.
+Grim : Framework yang dikembangkan oleh
+Terry Grim ini diaplikasikan pada foresight services.
+Dalam framework yang dikembangkan level maturity
+dibagi kedalam 5 level yaitu: Lavel 1: Ad Hoc,
+aware, capable, mature dan world class.
+Pada Level 2 dibagi ke dalam 3 assessment
+indicators, level 3 terdapat 3, Level 4 terdapat 4 dan
+Level 5 terdapat 3 assessment indicators.
+Tan et al., : Dalam framework yang dibuatnya
+yaitu The Enterprise Business Intelligence Maturity
+(EBIM). Model terdapat 5 level maturity yaitu: Level
+initial, repeatable, defined, managed dan optimizing.
+Di samping itu terdapat 4 assessment indicators
+yang terdiri dari information quality, master data
+management, warehousing architecture, dan analytic.
+Adapun persamaan dari beberapa penelitian
+maturity di atas adalah: (1) Setiap maturitynya
+memiliki tingkatan yang jelas Contoh: Level 1, Level
+2 dan lain-lain. (2) Setiap level/tingkatan memiliki
+nama yang mewakili tingkatan tertentu Contoh:
+Level Conventional, Level Managed. (3) Informasi
+yang jelas untuk tiap-tiap tingkatan. (4) Setiap tingkatan
+memiliki KPI (Key Performance Indicators).
+Dapat diaplikasikan dalam proses kerja dan mempunyai
+fungsi penilaian.
+Studi Kasus
+Terdapat 3 perusahaan elektronika konsumsi yang
+dipakai sebagai obyek penelitian untuk mengukur
+serta menilai framework yang telah disusun oleh
+peneliti. Adapun perusahan-perusahaan tersebut
+adalah PT.PCB, PT. SA dan PT.GMEI. Perusahaanperusahaan
+tersebut bergerak dalam perusahaan
+elektronik konsumsi seperti pembuatan TV, AC,
+Lemari Es, Video, Mesin Cuci dan Lampu. Data
+yang dikumpulkan oleh peneliti berasal dari data
+primer berupa pengisian kuesioner oleh pihak
+manajemen perusahaan, interview secara langsung
+dan pengamatan langsung di lapangan. Sedangkan
+data sekunder didapatkan dari akses informasi
+lewat internet, rekapan data dari beberapa service
+center/ station dan data-data dari perusahaan itu
+sendiri. Berikut ini adalah gambaran umum alur RL
+untuk perusahaan elektronika konsumsi khususnya
+produk TV secara umum yang dilakukan oleh PT.
+PCB.
+
+Gambar 3 menjelaskan tentang alur RL pada
+produk TV, Lampu dan Video yang dilakukan oleh
+tiga perusahaan elektronika konsumsi. Produk yang
+dikembalikan oleh konsumen dapat melalui tiga
+alternatif tempat yaitu kepada distribution center
+(DC) yang berupa toko, service center (SC) ataupun
+third parties services (TPS). Dari tempat-tempat
+tersebut apabila produk sudah tidak dapat lagi di
+repair maka akan dikumpulkan di collection center
+(CC). Selanjutnya produk tersebut akan dikirim ke
+recycled center (RC). Dari RC produk yang sudah
+mengalami disassembly sehingga bentuk fisiknya
+menjadi komponen-komponen, akan dikirimkan ke
+Factory untuk dilakukan proses selanjutnya.
+Dari hasil uji validitas dan reliabilitas dapat
+disimpulkan bahwa data ini valid karena r hitung >
+r tabel. Dengan DF=N-2 dengan tingkat kepercayaan
+95% atau probabilitas 0,05 maka didapatkan
+nilai r tabel (tabel r) didapatkan hasil 0,4227. Nilai
+corrected item-total correlation didapatkan bahwa
+nilainya lebih besar dari r tabel, oleh karena itu
+maka data PT.PCB, PT. SA dan PT. GMEI adalah
+valid. Untuk melihat apakah data ini dikatakan
+reliable maka nilai Cronbach’s alpha harus > 0,6
+(Tavakol dan Dennick . Nilai Cronbach’s alpha
+based on standardized item nilainya sebesar 0,891.
+Tabel 6, 7 dan 8 menunjukkan hasil dari transformasi
+nilai ordinal ke nilai interval dengan menggunakan
+metode MSI untuk PT.PCB, PT.SA dan
+PT. GMEI. Adapun nilainya yang didapat antara
+lain berturut-turut: 2,049; 2,061 dan 2,061. Dalam
+Tabel 7 dan 8 didapatkan angka yang sama yaitu
+2,061. Hal dikarenakan total nilai yang didapatkan
+oleh kedua perusahaan dalam pengisian kuesioner
+memiliki nilai yang sama. Dalam perhitungan MSI
+akan dihasilkan nilai yang sama. Akan tetapi apabila
+ditelaah lebih lanjut ada beberapa aspek yang
+nilainya berbeda. Aspek information technology dan
+business process memiliki nilai yang berbeda. PT S.A
+memiliki nilai information technology lebih tinggi
+dibandingkan PT. G.M.E.I sebaliknya PT. G.M.E.I
+memiliki nilai business process lebih tinggi dari PT
+S.A, walaupun nilai akhir MSI menunjukkan angka
+yang sama seperti Table 7 dan 8.
+
+Tabel 5 adalah hasil dari brainstorming dengan
+beberapa pihak antara lain peneliti, perusahaan,
+pakar reverse logistics dan pemerintah. Dari hasil
+diskusi maka didapatkan hasil untuk assesstment
+process dibagi ke dalam 5 process area dan 21
+assesstment indicators.
+Pembahasan Lima Aspek dalam Level
+Managed
+Dari hasil perhitungan MSI yang menunjukkan
+perusahaan masih pada level 2, maka berikut ini
+adalah karakteristik Level Managed yang dilihat
+dari kelima aspek meliputi information technology,
+production planning, distribution, business process
+dan environmental.
+Aspek Information Technology
+Paradigma berfikir perusahaan yang masih awam
+tentang konsep RL. Informasi tentang RL masih
+sangat sulit didapatkan, RL GDSS (Group Discussion
+Support System) masih jarang ada sehingga
+wacana, manfaat serta informasi terbaru RL sangat
+sulit didapatkan.
+Antara manfaat yang akan dirasakan oleh perusahaan
+dengan biaya yang dikeluarkan sesuai konsep
+RL tidak akan sebanding.
+Aspek Production Planning
+Sistem manajemen inventory masih sangat sederhana
+sehingga memungkinkan ketidakseimbangan
+antara demand dan supply karena part sering mengalami
+keterlambatan. Perusahaan mulai mengarahkan
+produknya berbasis digital/ICT sehingga
+lebih ramah lingkungan dan hemat energy. Produk
+memiliki kualitas sedang.
+Aspek Distribution
+Perusahaan telah memiliki fasilitas distribusi yang
+sederhana yang melingkupi collection center,
+recycled center serta distributor dalam hal ini adalah
+retailer untuk memudahkan forward dan reverse
+berjalan dengan baik.
+Dalam 1 kota hanya terdapat 1 service center resmi
+milik perusahaan. Ada kalanya dalam 1 kota juga belum ada tetapi perusahaan telah menjalin
+kerjasama dengan pihak ketiga.
+Aspek Business Process
+Perusahan telah memiliki visi dan misi untuk
+pegembangan perusahaan. Mulai pengembangan
+produk, penjualan produk, training karyawan. Tetapi
+kesemua konsep ini untuk mendorong terciptanya
+produk yang terbuat dari virgin material
+bukan pemanfaatan sencodary material dan waste
+yang dihasilkan dari proses produksi atau setelah
+produk habis masa pakainya.
+Aspek Environmental
+Sistem pengolahan limbah yang sifatnya masih sederhana.
+Manajemen waste telah diterapkan oleh
+perusahaan dalam setiap lini perusahaan. Perusahaan
+ikut serta mendukung dan mensukseskan peraturan
+perundang-undangan tentang lingkungan
+hidup.
+Dari penentuan parameter transformasinya maka
+ketiga perusahaan menduduki Level 3 atau Developed.
+Adapun ciri-ciri perusahaan pada level ini
+dari ke lima aspek di atas adalah: (1) aspek information
+technology, perusahaan mengerti dan memahami
+konsep reverse logistics dan mengaplikasikannya
+secara sederhana. Perusahaan bekerja
+sama dengan pihak ke-3 dalam perbaikan produk
+dan menangani masalah klaim serta garansi produk
+dengan integrasi IT yang semakin baik. (2) aspek
+production planning sistem manajemen inventory
+pada perusahaan masih sangat sederhana sehingga
+memungkinkan ketidakseimbangan antara demand
+dan supply karena part sering mengalami keterlambatan.
+Terdapat manajemen inventori (ketersediaan
+part) dan waktu untuk servis sehingga tidak melampaui
+due date (3) aspek distribution, perusahaan
+sudah terbentuk sistem informasi manajemen (SIM)
+yang handal sehingga pelaku-pelaku reverse dapat
+memonitor perkembangan dan saling memberikan
+informasi-informasi terbaru Perusahaan memiliki
+>2 service center/station di tiap-tiap kota dan
+manajemen distribusi yang telah berjalan dengan
+baik. (4) aspek business process. Perusahaan tidak
+hanya memiliki customer service/station, tetapi
+perusahaan sudah memiliki strategi untuk meningkatkan
+kepuasan konsumen. Perusahaan sudah
+melakukan proses edukasi reverse logistics untuk
+tahap yang masih dasar atau sederhana. (5) aspek
+environmental. Perusahaan sudah memiliki sistem
+pengolahan limbah Tingkat 1/ Primary Treatment
+yaitu sistem pengolahan limbah yang memastikan
+zat-zat berbahaya yang digunakan pada proses
+produksi diolah sedemikian rupa sehingga aman
+bagi lingkungan. Ikut serta mengkampayekan
+kelestarian lingkungan dan mendukung program
+pemerintah.
+Hasil untuk Level 3 ini sudah dikonfirmasi dengan
+Perusahaan serta pengamatan langsung pada
+service center serta wawancara dengan konsumen
+yang telah menggunakan produk dari ketiga
+perusahaan.
+Simpulan
+Dalam pengembangan framework untuk mengukur
+tingkat keberhasilan implementasi reverse logistics
+ini terdapat 5 level yaitu Level Conventional,
+Managed, Developed, Innovative dan Level Optimized.
+Agar supaya pengukuran implementasi RL
+ini dapat terukur secara sistematis maka framework
+dibagi kedalam lima RL aspect antara lain:
+Information technology, production planning, distribution,
+business process dan environmental. Penentuan
+RL aspect ini didasarkan atas klaim beberapa
+perusahaan yang telah sukses dan mendapatkan
+manfaat dari implementasi RL. Dikarenakan tidak
+adanya strandarisasi ataupun parameter yang jelas
+dalam proses klaim tersebut, maka framework ini
+dilengkapi dengan 21 assessment categories untuk
+memudahkan perhitungan setiap levelnya.
+Selain itu dalam penelitian ini didisain model RL
+yang diterapkan pada tiga industri elektronika.
+Konsumsi ini khususnya perusahaan lokal menempati
+level ke 2 yaitu Level Managed. Pada tingkatan
+ini perusahaan masih dalam taraf belajar konsep
+RL secara menyeluruh yang meliputi manfaat, ketersediaan
+SDM, modal, perubahan konsep berfikir
+sampai perubahan teknologi dan penggunaan material.
+Pada dasarnya perusahaan pada level ini sudah
+mengaplikasikan secara tidak langsung konsep RL,
+tetapi dalam strategi perusahaan konsep RL
+belumlah dimengerti dengan baik, baik di tingkat
+top management sampai lower management. Di
+samping itu peran serta pemerintah sebagai regulator
+sangat diperlukan untuk mendorong perusahaan
+dan masyarakat untuk ikut mensukseskan
+implementasi RL. Adapun nilai yang didapat
+dengan menggunakan metode MSI adalah berturutturut
+dari PT.PCB, PT.SA dan PT.GMEI adalah
+2,0491; 2,0613 dan 2,0613.

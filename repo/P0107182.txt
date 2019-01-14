@@ -1,0 +1,617 @@
+﻿Sintesis Biomaterial Hydroxyapatite dengan Proses Flame Spray
+Pyrolysis Disertai Penambahan Aditif Organik
+
+Abstrak
+Hydroxyapatite merupakan biomaterial yang seringkali diaplikasikan dalam biomedis sebagai bahan
+implant karena sifatnya yang biocompatible, bioactivity, dan memiliki afinitas yang kuat terhadap
+biopolimer. Oleh karena itu parameter morfologi serta kristalinitas partikel menjadi parameter penting
+untuk dikontrol. Penambahan aditif organik pada prekursor HAp dengan etilen glikol, polietilen glikol
+400, serta urea merupakan alternativ agar memperbaiki ukuran, morfologi, serta meningkatkan
+kristalinitas partikel HAp. Peralatan utama flame spray pyrolysis meliputi ultrasonic nebulizer, reaktor
+flame, dan eletrostatik precipitator. Jumlah aditif organik yang digunakan pada eksperimen antara lain
+30%, 50%, dan 100% massa prekursor. Hasil SEM dan XRD menunjukkan bahwa HAp yang disintesis
+dengan penambahan bahan aditif memiliki ukuran lebih kecil daripada tanpa menggunakan aditif dan
+tingkat kristalinitasnya lebih baik dibandingkan tanpa aditif. Selain itu HAp yang disintesis dengan
+penambahan aditif PEG sebanyak 30% memiliki ukuran rata-rata partikel yang terkecil yaitu sebesar
+114 nm dengan ukuran kristal mencapai 16,6 nm serta memiliki morfologi bulat dengan tingkat
+aglomerasi yang rendah.
+Kata kunci: aditif organic; flame spray pyrolysis; hydroxyapatite; morfology
+
+
+PENDAHULUAN
+Hydroxyapatite atau yang disebut HAp
+merupakan material yang seringkali digunakan di
+dalam aplikasi biomedis sifatnya yang biocompatible,
+bioactivity, dan memiliki afinitas yang relatif kuat
+terhadap biopolimer (Cho dan Kang, 2008). Rumus
+molekul hidroxypapatite berupa Ca10(PO4)6(OH)2
+dengan struktur kristal hexagonal dipyramidal. HAp
+memiliki specific gravity 3,08 serta berbentuk serbuk
+yang berwarna putih. Di dalam dunia biomedis,
+material HAp memiliki peranan yang penting karena
+dapat meregenerasi cacat tulang yang diakibatkan oleh
+kecelakaan. Pada umumnya bagian tulang yang rusak
+akibat kecelakaan akan digantikan dengan implant
+logam atau diisi dengan material bioactive (Ataol dkk.,
+2015; Paital dan Dahotre, 2009). Hydroxyapatite juga
+banyak digunakan untuk memperbaiki dan
+merekontruksi bagian tulang manusia yang rusak
+terutama sebagai tulang pengganti dalam pengisian
+tulang (Descamps dkk., 2008). Ketika HAp
+diimplankan di dalam tubuh manusia, kalsium di dalam
+HAp memberikan kontribusi pada pengikatan HAp
+pada jaringan tulang yang hidup (An dkk., 2007).
+Selain penggunaannya di dunia biomedis, material
+HAp juga dapat digunakan sebagai material penukar
+ion yang dapat memisahkan kandungan ion logam
+berat yang berbahaya di dalam air limbah (Suzuki dkk.,
+1993).
+Hidroxyapatite pada umumnya dapat disintesis
+dengan beberapa metode yaitu metode basah (wet base
+method), metode kering (dry base method), dan proses
+temperatur tinggi (Cho dan Rhee, 2013; Sadat dkk.,
+2013; Setiawan dkk., 2014). Metode basah terdiri dari
+metode presipitasi kimia, sol gel, dan hidrolisis.
+Metode kering terdiri dari metode solid state, sintesis
+mekano-kimia. Metode basah seperti sol gel,
+hidrotermal, dan presipitasi seringkali diaplikasikan
+dalam sintesis HAp karena relatif mudah diterapkan,
+murah, temperatur proses relatif rendah, serta
+menghasilkan air sebagai produk samping (Ataol dkk.,
+2015; Cho dan Rhee, 2013; ´Slósarczyk dkk., 1996).
+Metode basah pada umumnya tidak menggunakan
+pelarut organik sehingga dari sisi efektivitas biaya
+relatif murah dan ramah lingkungan (Mohn dkk.,
+2011). Namun penggunaan metode basah memiliki
+beberapa kelemahan yaitu morfologi dan ukuran
+partikel produk sangat dipengaruhi oleh parameter
+eksternal seperti temperatur dan pH larutan, kemurnian
+dan kristalinitas produk HAp yang rendah (Cho dkk.,
+2009). Pada Metode kering melibatkan pencampuran
+bubuk prekursor kering yang dilanjukan dengan
+tahapan milling dan sintering campuran prekursor pada
+temperatur tinggi (Tofighi dan Palazzolo, 2005).
+Metode kering memiliki kelebihan yaitu produk yang
+dihasilkan memiliki kristalinitas yang tinggi. Namun
+metode tersebut memiliki yield yang relatif lebih
+rendah dibandingkan dengan metode basah dan
+menghasilkan partikel dengan morfologi yang tidak
+teratur serta ukuran yang besar (Cho dan Kang, 2008;
+Sadat dkk., 2013). Bahkan produk HAp yang disintesis
+dengan metode kering memiliki kompatibilitas yang
+rendah atau cukup sulit berinteraksi dengan cairan
+tubuh ketika diaplikasikan dalam biomedis (Zhou dan
+Lee, 2011).
+Sintesis HAp dapat dilakukan dengan
+menggunakan proses temperatur tinggi antara lain
+dengan metode spray pyrolysis dan flame spray
+pyrolysis (Cho dan Rhee, 2013). Spray pyrolysis
+memiliki beberapa kelebihan diantaranya prosesnya
+produksi partikel berlangsung secara kontinyu, partikel
+produk berbentuk bola, homogen, tidak membentuk
+agregat, dan distribusi ukuran seragam (Cho dan Kang,
+2008). Namun sintesis dengan metode spray pyrolysis
+memiliki kelemahan antara lain kemungkinan
+terbentuknya partikel hollow cukup besar hal ini
+disebabkan penggunaan sumber pemanas furnace
+sehingga distribusi temperatur hampir seragam
+sepanjang reaktor. Hal ini menyebabkan evaporasi
+pelarut di dalam droplet menjadi lebih cepat
+(Widiyastuti dkk., 2007). Selain itu, ukuran produk
+sangat ditentukan oleh ukuran droplet dan konsentrasi
+yang prekursor yang masuk ke reaktor (Okuyama dan
+Lenggoro, 2003). Oleh karena itu, spray pyrolysis
+hanya dapat diaplikasikan pada konsentrasi prekursor
+yang relatif rendah agar diperoleh partikel berukuran
+nanometer sehingga dapat menurunkan laju produksi.
+Produksi nanopartikel dengan metode spray
+pyrolysis pada konsentrasi larutan prekursor yang
+tinggi dengan penambahan aditif organik merupakan
+strategi untuk memproduksi partikel berukuran
+nanometer. Penambahan aditif pada spray pyrolysys
+dilakukan untuk memperbaiki karakteristik dari
+partikel. Namun penggunaan aditif organik pada spray
+pyrolysis dinilai kurang efektif. Hal ini disebabkan
+temperatur operasi reaktor spray pyrolysis relatif
+rendah bila dibandingkan dengan temperatur yang
+dihasilkan dengan metode flame. Bahkan metode spray
+pyrolysis memiliki laju pemanasan prekursor yang
+relatif rendah dibandingkan dengan metode flame
+spray pyrolysis sehingga dekomposisi bahan aditif
+organik berlangsung kurang sempurna (Purwanto dkk.,
+2008 ; Cho dan Rhee, 2013; Itatani dkk., 2004). Proses
+dekomposisi yang kurang sempurna dari aditif organik
+tersebut menyebabkan timbulnya kontaminasi produk
+dan menghasilkan partikel dengan ukuran mikrometer
+akibat tekanan gas hasil dekomposisi yang tidak cukup
+kuat menekan dinding partikel agar terpecah (Cho dan
+Rhee, 2013).
+Metode sintesis partikel dengan flame spray
+pyrolysis memiliki beberapa keunggulan bila
+dibandingkan dengan metode spray pyrolysis antara
+lain memiliki temperatur yang relatif tinggi,
+kristalinitas dan kemurnian produk yang tinggi, waktu
+tinggal partikel yang relatif sangat singkat hanya beberapa milidetik bila dibandingkan dengan spray
+pyrolysis yang memiliki waktu tinggal dalam orde
+detik dengan metode basah (sol gel) berlangsung
+hingga 12-15 jam. Hal ini memungkinkan produksi
+partikel berukuran nanometer pada skala besar
+(Pratsinis, 1998; Fathi dkk., 2008). Proses flame
+memiliki temperatur dan laju pemanasan yang tinggi
+sehingga memungkinkan reaksi psikokimia di dalam
+prekursor berlangsung secara cepat (Purwanto dkk.,
+2008). Dengan kondisi tersebut memungkinkan
+dekomposisi material organik dapat berlangsung
+secara cepat dan sempurna menghasilkan gradien
+tekanan gas yang cukup besar di dalam partikel yang
+mampu memecah dinding partikel sehingga mengarah
+pada pembentukan partikel berukuran nanometer.
+Pada penelitian sebelumnya Trommer dkk.
+(2009) berhasil mensintesis partikel HAp dengan
+metode flame spray pyrolysis dengan menggunakan
+prekursor kalsium asetat dan ammonium phosfat pada
+rasio molar Ca/P sebesar 1,67 disertai penambahan
+aditif etanol dan proses annealing HAp pada
+temperatur 600oC selama 2 jam. Hasil penelitian
+menunjukkan morfologi partikel HAp berbentuk
+aggregat dengan ukuran kristal rata-rata 24 nm. Itatani
+dkk. (2004) mempelajari proses pembentukan partikel
+pada spray pyrolysis pada temperatur yang tinggi
+menyebabkan partikel HAp memiliki morfologi
+berbentuk bola dengan struktur hollow serta partikel
+teraglomerasi. An dkk (2007) berhasil mensintesis
+partikel HAp nanopartikel dengan penambahan aditif
+garam natrium nitrat (NaNO3) pada prekursor larutan
+kalsium fosfat. Purwanto dkk (2008) mensintesis
+partikel YAG-Ce dengan metode flame spray pyrolysis
+disertai aditif urea pada prekursor dan menghasilkan
+partikel dengan morfologi nanometer, menggumpal,
+serta tingkat kemurnian yang tinggi. Cho dkk (2009)
+meneliti mekanisme pembentukan HAp dengan proses
+spray pyrolysis dengan penambahan PEG 10000 pada
+larutan prekursor. hasil penelitian menunjukkan
+adanya sisa karbon akibat PEG sehingga perlu
+dilakukan pemanasan pada 650oC selama 3 jam untuk
+menghilangkan pengotornya. Ataol dkk (2015)
+melaporkan bahwa kristalinitas dan luas permukaan
+spesifik partikel dari HAp yang disintesis dari
+prekursor larutan kalsium acetat dan tributil phosfat
+menggunakan metode flame spray pyrolysis sebanding
+dengan rasio dari mol Ca/P.
+Pada dasarnya penambahan aditif dilakukan
+untuk memperoleh partikel berukuran nano dan
+memperbaiki karakteristik dari partikel produk. Hal ini
+disebabkan penambahan aditif secara langsung
+menyebabkan dekomposisi bahan organik
+menghasilkan tekanan gas yang mengarah pada
+pecahnya partikel ke ukuran nano serta peningkatan
+suhu flame (Purwanto dkk., 2008). Pada penelitian
+sebelumnya penggunaan aditif hanya terbatas pada
+bahan etanol dan PEG 10000 dan NaNO3. Penggunaan
+etanol sebagai aditif pada proses flame spray pyrolysis
+memiliki kelemahan yaitu sifatnya yang mudah
+terbakar dan membahayakan bila menggunakan
+nebulizer sebagai proses atomisasi larutan
+prekursornya sehingga hanya direkomendasikan pada
+konsentrasi rendah. Selain itu penggunaan aditif PEG
+10000 memiliki berat melekul yang relatif tinggi
+sehingga pada sintesis HAp menyebabkan kontaminasi
+jika suhu operasi terlalu rendah dan membutuhkan
+pemanasan ulang untuk menghilangkan sisa
+kontaminan karbon. Bahkan penggunaan PEG 10000
+pada konsentrasi tinggi menyebabkan viskositas
+larutan prekursor meningkat dan menyebakan ukuran
+droplet saat atomisasi menjadi lebih besar. Penggunaan
+aditif NaNO3 menyebabkan kontaminasi garam Na
+pada HAp sehingga partikel perlu dilakukan
+pembilasan dengan air untuk memisahkan Na dari
+partikel (An dkk., 2007; Cho dan Rhee, 2013). Pada
+penelitian ini difokuskan pada sintesis partikel HAp
+dengan metode flame spray pyrolysis disertai dengan
+penambahan aditif organik seperti urea, etilenglikol,
+dan PEG 400 yang belum dilakukan oleh peneliti
+terdahulu terutama dalam mensintesis partikel HAp
+dengan metode flame spray pyrolysis. Beberapa
+kelebihan yang dimiliki oleh ketiga aditif tersebut
+antara lain ekonomis serta dapat terdekomposisi pada
+temperatur operasi flame sehingga tidak memerlukan
+post treatment tambahan. Dengan mengatur jumlah
+aditif organik tersebut pada prekursor dapat
+memodifikasi ukuran, morfologi produk, dan
+memperbaiki kristalinitas partikel (Vidyasagar dan
+Naik, 2016). Dengan pemakaian aditif diharapkan
+dapat mereduksi ukuran partikel dan meningkatkan
+kristalinitas HAp. Stanley (2014) melaporkan bahwa
+dengan mereduksi ukuran HAp dan meningkatkan
+kristalinitas akan meningkatkan dan memperbaiki
+adhesi sel hidup pada material. Sebagai prekursor
+sintesis HAp pada penelitian ini menggunakan larutan
+kalsium nitrat dan diammonium hidrogen phosfat
+dengan perbandingan mol Ca/p 1,67. Selain itu akan
+dianalisis bagaimana pengaruh penambahan aditif
+tersebut terhadap morfologi dan tingkat kristalinitas
+dari partikel. Diharapkan dengan penelitian ini dapat
+memberikan informasi tentang pengaruh penambahan
+aditif organik pada sintesis HAp terhadap morfologi
+dan kristalinitas HAp terutama dalam proses produksi
+skala besar di industri dengan metode flame spray
+pyrolysis.
+METODE PENELITIAN
+Material HAp yang disintesis dengan
+menggunakan metode flame spray pyrolysis disintesis
+dari larutan kalsium fosfat dengan rasio mol Ca/P
+sebesar 1,67. Besarnya konsentrasi larutan prekursor
+yang digunakan dalam sintesis HAp sebesar 0,1
+mol/liter. Larutan ini dibuat dengan cara melarutkan
+14,75 g kristal Ca(NO3)2.4H2O (99,99% berat Merck
+KGaA, Germany) dan 4,95 g (NH4)2HPO4(99,99%
+berat Merck KGaA, Germany) dalam 1000 ml air.
+Setelah terbentuk larutan kalsium fosfat, maka
+ditambahkan 2,4 ml larutan HNO3 (60% berat Merck
+KGaA, Germany) dengan tujuan untuk melarutkan
+seluruh endapan dari kalsium fosfat yang terbentuk.
+
+Setelah terbentuk larutan prekursor selanjutnya
+dilarutkan satu jenis aditif dari tiga jenis aditif yang
+akan digunakan. Bahan aditif yang ditambahkan pada
+prekursor antara lain berupa urea (99% Berat Merck
+KgaA, Germany), etilenglikol (99% Berat Merck
+KGaA, Germany) dan polietilen glikol atau PEG (99%
+Berat Merck KGaA, Germany) berat molekul 400.
+Variasi penambahan aditif yang digunakan antara lain
+30%, 50%, dan 100% dari total massa prekursor yang
+dilarutkan.
+Larutan prekursor yang mengandung aditif
+tersebut selanjutnya dinebulasi menggunakan
+ultrasonic nebulizer (OMRON NE-U17, Jepang) untuk
+menghasilkan droplet yang akan dialirkan bersama
+dengan gas pembawa (carrier gas) menuju reaktor
+diffusion flame seperti pada Gambar 1. Gas pembawa
+dalam hal ini berupa udara pada laju alir 1 L/min.
+Energi panas didalam reaktor flame dihasilkan melalui
+pembakaran bahan bakar LPG 12 kg yang diproduksi
+PT. Pertamina dengan udara sebagai oxidizernya. Laju
+alir dari gas LPG dan oxidizer diatur dengan
+menggunakan flow meter (KUFLOC RK 1200,
+Jepang) masing-masing sebesar 1,5 L/min dan 3 L/min.
+Gas hasil pembakaran selanjutnya dialirkan menuju
+electrostatic precipitator yang berfungsi sebagai
+penangkap partikel sehingga partikel dapat terpisah
+dari flue gas. Gas hasil pembakaran selanjutnya
+dialirkan menuju pendingin untuk diturunkan suhunya
+sehingga terbentuk kondensat yang ditampung dalam
+water trap. Sedangkan penggunaan pompa vakum
+(Vacuum Krisbow PUMP 1/3 HP) untuk menghisap
+gas dalam tabung sehingga sirkulasi gas menjadi lebih
+lancar.
+Gambar 1. Set Up peralatan Flame Spray Pyrolysys
+Partikel yang dihasilkan pada eksperimen ini
+terkumpul dalam electrostatic precipitator berupa
+serbuk untuk selanjutnya dianalisa morfologi dan
+derajat kristalnya. Analisa kemurnian dan derajat
+kristalnya menggunakan XRD (X-ray Diffraction)
+X’Pert RINT 2200 V Philiph CuKα (λ=1,5418 Å).
+Analisis XRD pada HAp dilakukan interval sudut 10o-
+60o dengan lebar step 0,01o dan laju scan 0,5 s/step.
+Ukuran kristal dari partikel HAp berdasarkan analisa
+XRD dihitung dengan persamaan Debye–Scherrer
+(Vidyasagar dan Naik, 2016) sebagai berikut:
+
+
+B Cos
+Dc .
+ 0,9. (1)
+Dengan λ merupakan panjang gelombang XRD (0,154
+nm), θ sudut difraksi, dan B merupakan FWHM (full
+width at half maksimum) atau lebar puncak pada
+setengah intensitas maksimum dalam radian.
+Sedangkan untuk morfologi dan ukuran partikel
+dianalisis dengan menggunakan SEM (scanning
+electron microscope) Zeiss Evo MA LS series
+dioperasikan pada 20 KV.
+Sifat termal dari bahan aditif etilen glikol,
+Polietilen glikol, dan urea dianalisis dengan
+menggunakan metode TG-DTA (DTG-60H,
+Shimadzu). Pada prinsipnya analisis TG-DTA
+(thermogravimetry and differential thermal analysis)
+dapat mencatat perubahan massa dan panas material
+secara simultan selama proses pemanasan sehingga
+dapat diketahui temperatur dekomposisi material
+tersebut. Laju pemanasan pada analisis TG-DTA
+tersebut sebesar 10oC/menit dengan massa bahan aditif
+sebanyak 4 mg. Analisis TG-DTA dilakukan pada
+interval temperatur 25-600oC dengan atmosfer
+nitrogen pada laju alir 50 ml/min serta menggunakan
+pan aluminium sebagai tempat sampelnya.
+HASIL DAN PEMBAHASAN
+Analisis Sifat Termal Bahan Aditif
+Gambar 2 menunjukkan grafik TG-DTA untuk
+bahan aditif urea. Dari grafik TG menunjukkan bahwa
+pemanasan menyebabkan terjadinya penurunan massa
+akibat proses dekomposisi yang terjadi urea. Proses
+dekomposi dapat ditunjukkan dari grafik TG urea yang
+dimulai pada interval temperatur 130-400oC.
+Pemanasan pada temperatur 130oC menyebabkan urea
+meleleh sebagaimana ditunjukkan munculnya peak
+pada grafik DTA. Pada temperatur 240oC urea akan
+terdekomposisi menjadi biuret dan produk volatil
+sehingga terjadi penurunan massa sampel menjadi 30%
+dari massa mula-mula.
+Hal ini dapat diverifikasi dengan munculnya
+peak grafik DTA pada suhu 240oC. Selain itu, dari
+grafik DTA pada suhu sekitar 370oC mendeteksi peak
+yang disebabkan oleh dekomposisi menjadi asam
+cyanuric, ammelamide, melamin (Schaber dkk., 2004).
+Dari proses dekomposisi tersebut terjadi
+penurunan massa urea hingga menjadi 3% dari massa
+awal. Proses dekomposisi sempurna terjadi pada suhu
+400oC. Reaksi keseluruhan dari sampel urea akibat
+adanya proses pemanasan dengan adanya air dapat
+ditulis sebagaimana (Purwanto dkk., 2008):
+NH2CONH2 + H2O 2NH3 + CO2
+
+Dari hasil analisis DTA menunjukkan bahwa
+dalam proses dekomposisi urea tersebut akan
+dilepaskan panas sebesar 10,836 J/mg.
+Gambar 3 menunjukkan grafik TG-DTA untuk
+bahan aditif etilen glikol (EG). Pemanasan pada suhu
+200oC menyebabkan etilen glikol mencapai titik
+didihnya. Hal ini menyebabkan terjadinya penguapan
+etilen glikol dari fasa liquid menjadi fase uap. Dari
+perubahan fase tersebut menyebabkan pada terjadinya
+kehilangan massanya mendekati 100%. Dapat dilihat
+bahwa sampel EG akan terdekomposisi pada suhu
+200oC dan panas yang dilepaskan sebesar 3,885 J/mg.
+Selain itu pada temperatur tinggi dekomposisi
+termal dari etilen glikol terjadi dengan reaksi
+dekomposisi global sebagai berikut:
+C2H4(OH)2 2CO2 + 3H2O
+Gambar 4 menunjukkan grafik TG-DTA untuk
+bahan aditif PEG 400. Dekomposisi dari sample PEG
+dimulai pada temperatur 200oC dan mencapai
+dekomposisi sempurna pada temperatur sekitar 380oC.
+Hal ini dapat ditunjukkan dari grafik TG pada interval
+suhu tersebut terjadi penurunan massa yang cukup
+signifikan sehingga dapat diindikasikan bahwa telah
+terjadi reaksi dekomposisi PEG tersebut (Wang dkk.,
+2007).
+Dekomposisi PEG diasumsikan terjadi pada
+ikatan –C-O- dan –C-C- dan PEG memiliki struktur
+ikatan rantai lurus yang terdiri dari 66% ikatan –C-Odan
+33% ikatan –C-C- dengan energi ikatan yang
+hampir sama besarnya dengan range 82-83 Kcal/mol.
+Dekomposisi dari PEG menghasilkan gas COxHy, H2,
+dan H2O (Kwon, 2006). Besarnya panas yang
+dilepaskan dari analisa DTA untuk sample PEG 400
+sebesar 12,213 J/mg
+Dari nilai suhu dekomposisi dan panas
+pembakaran yang dibebaskan dapat dilihat bahwa
+semakin besar berat molekul aditif, maka suhu
+dekomposisi dan panas pembakaran semakin
+meningkat.
+Analisis SEM dan XRD
+Gambar 5 menunjukkan morfologi dari partikel
+HAp yang disintesis tanpa melalui penambahan aditif.
+Hasil SEM tersebut menunjukkan bahwa morfologi
+partikel yang seragam berbentuk bulat dense, tidak
+teraglomerasi, serta memiliki diameter berkisar antara
+0,4 μm-1,3 μm. Adanya perbedaan ukuran ini
+disebabkan droplet yang dihasilkan oleh ultrasonik
+nebulizer tidak memiliki ukuran yang seragam
+sehingga ketika memasuki reaktor flame akan
+memiliki laju penguapan pelarut yang berbeda (Rajan
+dan Pandit, 2001). Droplet dengan ukuran yang lebih
+kecil akan menghasilkan laju evaporasi pelarut dan
+dekomposisi prekursor yang lebih cepat bila
+dibandingkan dengan droplet yang berukuran besar
+sehingga akan dihasilkan ukuran partikel HAp yang
+tidak seragam. Selain itu distribusi temperatur dalam
+reaktor flame yang berbeda baik dalam arah aksial
+maupun arah radial yang juga memberikan kontribusi
+terhadap laju evaporasi droplet yang berbeda sehingga
+mengarah pada perbedaan ukuran partikel (Widiyastuti
+dkk., 2010).
+
+Gambar 2. TG-DTA dari sampel urea Gambar 3. TG-DTA dari sample etilen glikol (EG)
+Gambar 4. TG-DTA dari sample PEG 400
+Gambar 5. SEM HAp tanpa penambahan aditif
+Gambar 6. SEM SEM HAp pada jumlah EG (a) 30%, (b) 50% dan (c) 100% massa prekursor
+
+Gambar 6 menunjukkan morfologi partikel
+HAp yang disintesis dengan aditif EG. Berdasarkan
+dari SEM diameter rata-rata dari partikel yang
+disintesis dengan penambahan EG 30, 50 dan 100%
+berat prekursor antara lain sebesar 580, 400, dan 350
+nm. Morfologi partikel yang disintesis dengan
+penambahan EG menunjukkan morfologi berbentuk
+bola dan tidak teraglomerasi. Penambahan EG dapat
+menjadi strategi untuk menghasilkan partikel HAp
+berukuran nanometer. Dari SEM tersebut
+menunjukkan bahwa meningkatnya jumlah EG yang
+ditambahkan pada prekursor dapat menurunkan ukuran
+partikel HAp. Hal ini disebabkan akibat terjadinya
+dekomposisi dari EG pada temperatur yang tinggi di
+dalam flame.
+Dari pengujian TG-DTA untuk sampel EG
+menunjukkan bahwa pada pengaruh panas EG akan
+terdekomposisi menghasilkan gas CO2 dan H2O. Dari
+persamaan reaksi dekomposisi EG menunjukkan setiap
+mol EG yang terdekomposisi akan menghasilkan tiga
+mol gas. Gas yang dihasilkan dari dekompsisi tersebut
+selanjutnya akan memberikan tekanan pada dinding
+partikel sehingga partikel akan terpecah. Hal ini dapat
+dilihat pada Gambar 6 pada penambahan 30, 50, dan
+100% terdapat partikel kecil yang yang dihasilkan
+akibat pecahnya partikel besar dimana jumlah partikel
+yang pecah lebih banyak ditemui pada penambahan
+aditif 100%.
+Berdasarkan Gambar 7 hasil perhitungan
+menunjukkan bahwa diameter rata-rata partikel HAp
+yang disintesis dengan variasi penambahan PEG 400
+sebanyak 30, 50, dan 100% dari total massa prekursor
+masing-masing sebesar 114, 540, dan 599 nm. Dari
+hasil tersebut menunjukkan bahwa penambahan 30%
+PEG 400 merupakan cara efektif untuk menghasilkan
+partikel HAp yang tidak teraglomerasi dan memiliki
+ukuran terkecil. Dari segi morfologi partikel dapat
+dilihat bahwa hampir pada semua konsentrasi aditif
+PEG 400 ini memiliki berbentuk bulat dengan tingkat
+aglomerasi yang terlihat sangat jelas pada penambahan
+PEG 50% dan 100%. Hal ini menunjukkan bahwa
+dengan meningkatkan jumlah PEG yang dilarutkan
+menyebabkan ukuran partikel meningkat.
+Hasil serupa telah dilaporkan Zhang dkk.
+(2012) pada sintesis HAp menggunakan PEG dengan
+proses hidrotermal. Bahwa penggunaan aditif PEG
+dapat mempengaruhi proses pertumbuhan kristal,
+morfologi, dan ukuran HAp. Semakin tinggi
+konsentrasi PEG yang dilarutkan maka ukuran partikel
+dan kristalinitas HAp yang semakin meningkat.
+Hal ini disebabkan PEG 400 bersifat sebagai
+surfaktan non-ionik yang dapat membentuk rantai
+panjang dalam larutan air serta dapat berperan sebagai
+template pada proses pembentukan HAp. Melekul
+PEG dapat membentuk chelate dengan Ca2+. Larutan
+PEG dalam bentuk PEG-OH mampu menarik
+Ca2+ yang dilepaskan Ca(NO3)2 membentuk ikatan
+PEG-O-Ca2+-O-PEG. Selanjutnya, PEG-O-Ca2+-OPEG
+bereaksi dengan PO4
+3- yang dilepaskan dari
+(NH4)2HPO4 menghasilkan inti kristal HAp sehingga
+menyebabkan pertumbuhan kristal lebih cepat (Zhang
+dkk., 2012).
+Selain itu, penambahan PEG di dalam larutan
+yang mengandung air dapat mengarah pada
+meningkatnya viskositas dari larutan tersebut (Tello
+dkk., 1994). Meningkatnya viskositas larutan
+cenderung meningkatkan ukuran droplet yang
+dihasilkan pada proses atomisasi oleh ultrasonik
+nebulizer (Rajan dan Pandit, 2001).
+Hasil SEM untuk aditif PEG menunjukkan
+bahwa penambahan aditif memainkan peranan yang
+penting terutama dalam pembentukan HAp ukuran nanometer pada proses flame. Hal ini disebabkan
+ketika memasuki zona flame pada temperatur tinggi
+terjadi reaksi dekomposisi PEG. Proses dekomposisi
+tersebut disertai dengan pelepasan panas serta produk
+gas hasil dekomposisi ke dinding partikel HAp.
+Berdasarkan hasil TG-DTA menunjukkan
+bahwa dekomposisi PEG akibat pemanasan akan
+menghasilkan gas COxHy, H2, dan H2O. Jumlah gas
+hasil dekomposisi tersebut dipengaruhi oleh berat
+melekul dari PEG. Semakin besar berat melekul PEG
+maka gas yang dihasilkan semakin banyak. Sejumlah
+gas yang dihasilkan tersebut akan menghasilkan
+tekanan internal pada dinding partikel sehingga
+menyebabkan partikel terpecah (Purwanto dkk., 2008;
+Vidyasagar dan Naik, 2016; Kwon, 2006).
+Berdasarkan Gambar 8 dari hasil analisa SEM,
+partikel HAp yang disintesis dengan aditif urea
+diperoleh partikel berbentuk bulat dan terlihat adanya
+aglomerasi seiring dengan meningkatnya jumlah aditif
+urea yang ditambahkan pada prekursor.
+Gambar 7. SEM HAp pada jumlah PEG (a) 30%, (b) 50%, dan (c) 100% massa prekursor
+Gambar 8. SEM HAp pada jumlah urea (a) 30%, (b) 50%, dan (c) 100% massa prekursor
+
+Berdasarkan hasil perhitungan menunjukkan
+bahwa meningkatnya ukuran partikel HAp akibat
+peningkatan konsentrasi aditif urea terjadi pada
+konsentrasi 30 dan 50% dengan masing-masing ukuran
+sebesar 162 dan 230 nm. Pada konsentrasi aditif urea
+sebesar 100% dari massa prekursor diperoleh ukuran
+rata-rata HAp sebesar 187 nm. Dari hasil tersebut
+menunjukkan bahwa penambahan 30% urea
+merupakan cara efektif untuk menghasilkan partikel
+HAp dengan tingkat aglomerasi yang rendah dan
+memiliki ukuran terkecil.
+Pada penambahan aditif sebanyak 30% dari
+massa prekursor diperoleh ukuran yang lebih kecil bila
+dibandingkan dengan penambahan aditif sebanyak 50
+dan 100%. Hal ini disebabkan bahwa penambahan
+aditif urea pada konsentrasi tinggi pada larutan
+prekursor akan meningkatkan viskositas larutan
+sehingga proses atomisasi larutan oleh nebulizer akan
+menghasilkan ukuran partikel yang lebih besar. Hasil
+penelitian serupa diperoleh oleh Purwanto dkk. (2008)
+pada sintesis nanopartikel YAG:Ce dengan aditif urea
+menunjukkan bahwa meningkatkan konsentrasi urea
+akan meningkatkan ukuran partikel bahkan pada
+konsentrasi urea yang tinggi aglomerasi dari partikel
+YAG:Ce semakin besar. Penambahan urea pada
+prekursor menyebabkan terdekomposisi pada
+temperatur tinggi menghasilkan asam cyanuric, asam
+cyanuric, ammelamide, melamin.
+Dengan reaksi dekomposisi sempurna
+menghasilkan gas NH3 dan CO2 pada temperatur 400oC
+sebagaimana mekanisme reaksinya telah dijelaskan
+sebelumnya pada analisis TG-DTA urea. Dari ketiga
+jenis aditif yang digunakan, pada penggunaan PEG
+dengan jumlah 30% massa prekursor menghasilkan
+ukuran partikel HAp terkecil yaitu sebesar 114 nm.
+Dengan menurunnya ukuran partikel HAp maka luas
+permukaan partikel semakin besar sehingga proses
+adsorpsi protein akan meningkat dan memperbaiki
+adhesi sel pada material yang menyebabkan sifat
+bioaktive dan biokompatibilitas akan semakin baik
+(Brunner dkk., 2006; Stanley, 2014).
+Gambar 9 menunjukkan hasil XRD partikel
+HAp yang disintesis dengan aditif EG, PEG 400 dan
+urea memiliki kristalinas yang tinggi bila dibandingkan
+dengan HAp yang disintesis tanpa menggunakan aditif.
+Hal ini ditunjukkan dengan intensitas peak yang
+meningkat serta menurunnya FWHM (full width at half
+maximum) dari kristal HAp. Semakin rendah lebar peak
+pada setengah intesitas maksimal (FWHM) maka
+kristalinitas semakin tinggi sehingga ukuran kristal
+semakin besar (Vidyasagar dan Naik, 2016).
+Berdasarkan perhitungan dengan persamaan
+Debye-Scherrer ukuran kristal terbesar pada
+penambahan aditif EG, PEG, dan urea sebanyak 100%
+massa prekursor dengan masing-masing sebesar 41,2,
+34,4, dan 37,5 nm. Dari ketiga grafik XRD tersebut
+menunjukkan bahwa meningkatkan jumlah aditif yang
+ditambahkan pada prekursor akan meningkatkan
+ukuran kristal. Dengan tingkat kristalinitas yang
+semakin tinggi akan mengarah pada ukuran kristal yang
+semakin besar sehingga akan diperoleh produk HAp
+dengan kualitas yang tinggi.
+Gambar 9. XRD HAp dengan aditif (a) EG (b) PEG
+400 dan (c) Urea
+
+Analisis DTA menunjukkan bahwa ketiga jenis
+aditif tersebut akan melepaskan panas pada saat
+mengalami dekomposisi termal. Pelepasan panas
+tersebut akan meningkatkan suhu partikel HAp
+sehingga mengarah pada pertumbuhan kristal menjadi
+lebih besar. Selain itu penambahan aditif organik
+menyebabkan pada terjadinya perubahan dalam
+kinetika pertumbuhan kristal yang menyebabkan laju
+pertumbuhan dari nuklealisasi semakin cepat dan
+menyebabkan aggregasi partikel. Oleh karena itu
+penambahan aditif secara langsung dapat
+meningkatkan kristalinitas partikel serta dapat
+mengubah morfologi dari partikel.
+KESIMPULAN
+Partikel HAp dapat disintesis dengan
+penambahan bahan aditif etilen glikol (EG), polietilen
+glikol (PEG 400), dan urea dengan menggunakan
+metode flame spray pyrolysis. Jenis prekursor yang
+digunakan dalam sintesis partikel HAp yaitu
+Ca(NO3)2.6H2O dan (NH4)2HPO4 dengan
+perbandingan mol Ca/P sebesar 1,67. Hasil penelitian
+menunjukkan partikel HAp yang disintesis dengan
+penambahan bahan aditif organik akan memiliki
+ukuran yang lebih kecil bila dibandingkan tanpa
+penambahan aditif. Selain itu meningkatkan jumlah
+aditif PEG dan urea pada prekursor akan mengarah
+pada ukuran rata-rata partikel yang lebih besar
+sedangkan pada penambahan aditif EG menyebabkan
+ukuran rata-rata partikel mengecil. Hasil terkecil dari
+partikel HAp yang diperoleh yaitu sebesar 114 nm
+dengan ukuran kristal 16,6 nm melalui penambahan
+aditif PEG sebanyak 30% massa prekursor. Dari sisi
+morfologi secara umum meningkatkan aditif hingga
+100% massa prekursor menyebabkan aglomerasi
+partikel meningkat. selain itu meningkatkan jumlah
+aditif yang ditambahkan baik EG, PEG 400 dan urea
+dapat meningkatkan kristalinitas dan ukuran kristal
+HAp.

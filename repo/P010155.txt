@@ -1,0 +1,448 @@
+﻿Observasi Garis Freatis pada Model Bendungan
+Berdasarkan Kepadatan Tanah Melalui Model Fisik
+
+Abstrak
+Kestabilan tubuh bendung tergantung pada besar kecilnya rembesan yang terjadi. Tujuan penelitian ini adalah
+untuk melihat dan mengamati pola aliran garis freatis yang terjadi pada tubuh bendungan serta menghitung
+debit rembesan yang dihasilkan. Penelitian ini menggunakan model tubuh bendungan yang terbuat dari tanah
+lempung kekuning-kuningan dengan memvariasikan tingkat kepadatan tanah sebesar 60%, 65%, dan 70%.
+Penelitian uji model menggunakan bejana kaca setebal 10 mm dengan panjang 180 cm, lebar 44 cm, dan tinggi
+68 cm dengan skala 1 : 25 dari prototipenya. Penelitian ini memiliki 3 variasi tinggi air tampungan, yaitu 35 cm,
+45 cm, dan 55 cm. Pola aliran rembesan ini dianalisis dengan menggunakan teori perhitungan aliran yaitu
+metode Dupuit, metode Schaffernak, dan metode Cassagrande. Pada penelitian ini, pada kondisi kepadatan tanah
+60%, 65%, dan 70% hanya pada kondisi air tampungan 55 cm yang dapat memenuhi metode Cassagrande. Besar
+debit yang dihasilkan menurut perhitungan dan penelitian masing-masing untuk kepadatan 60%, 65%,70%
+adalah 6,015 x 10-6 cm3/det dan 8,07 x 10-6 cm3/det, 5,806 x 10-6 cm3/det dan 7,80 x 10-6 cm3/det, 5,372 x 10-6 cm3/
+det dan 7,21 x 10-6 cm3/det. Perbedaan debit dari hasil perhitungan dan penelitian menunjukkan kalibrasi
+pemodelan belum sempurna. Hasil yang didapat menunjukkan bahwa semakin tinggi tingkat kepadatan tanah
+pada tubuh bendungan maka semakin kecil debit rembesan yang dihasilkan.
+Kata-kata Kunci: Pola aliran garis freatis, debit rembesan, bendungan, kepadatan tanah.
+
+Pendahuluan
+Kapasitas tampungan bendungan yang besar dan elevasi
+muka air yang tinggi, dapat mengatur besar aliran ke
+sebelah hilirnya menjadi lebih merata sepanjang tahun.
+Bendungan/waduk juga dapat berfungsi sebagai sarana
+pengendali banjir yang efektif, dapat menggerakkan
+turbin PLTA, keperluan lain seperti air baku, kebutuhan
+irigasi, perikanan, dan pariwisata.
+Dalam merencanakan sebuah bendungan, perlu diperhatikan
+stabilitasnya terhadap bahaya longsoran, erosi
+lereng, dan kehilangan air akibat rembesan melalui tubuh bendungan. Setiap bendungan pasti mengalami
+rembesan air, namun bagaimana pengaruh rembesan air
+terhadap bendungan sangat tergantung pada bentuk dan
+jenis bahan timbunan bendungan. Volume rembesan air
+yang terlalu besar, mengakibatkan pengoperasian bendungan
+menjadi terganggu, hingga rawan terjadi longsor
+bahkan keruntuhan.
+Keruntuhan bendungan homogen tanah kemungkian
+besar terjadi diakibatkan oleh timbulnya gaya-gaya
+yang terdapat pada prilaku rembesan air. Penelitian ini
+bertujuan untuk mengamati pola aliran garis freatis
+pada tubuh bendungan dan menghitung debit rembesan
+yang terjadi. Pemodelan tubuh bendungan ini divariasikan
+berdasarkan kepadatan tanah dengan tipe bendungan
+urugan homogen,dimana jenis tanah yang
+digunakan adalah tanah lempung kekuning-kuningan.
+Model tubuh bendungan berbentuk trapesium dengan
+variasi kepadatan tanah sebesar 60%, 65%, dan 70%
+yang didapat dari hasil perbandingan antara Uji Standar
+Proctor dan Sand Cone Test. Gejala pengaruh garis
+depresi (tekanan) air rembesan dianalisis dengan
+menggunakan teori aliran Dupuit, Schaffernak, A.
+Casagrande.
+
+
+2. Karakteristik Tanah dan Rembesan
+Pemilihan tanah dalam kelompok atau subkelompok
+yang menunjukkan sifat yang sama akan sangat membantu
+dalam penelitian. Klasifikasi tanah didasarkan
+atas ukuran partikel yang diperoleh dari analisis
+saringan (Das, 1995) dan analisis mineralogi serta plastisitas
+tanah (Chen, and Baladi, 1985).
+Menurut Wesley (2012), permeabilitas didefinisikan
+sebagai sifat bahan berpori yang memungkinkan aliran
+rembesan dari cairan yang berupa air atau minyak
+mengalir lewat rongga pori. Koefisien permeabilitas
+(coefficient of permeability, k) tergantung dari beberapa
+faktor, yaitu: kekentalan cairan, distribusi ukuran pori,
+distribusi ukuran butir, angka pori, kekasaran permukaan
+butiran tanah, dan derajat kejenuhan tanah.
+Harga koefisien permeabilitas untuk tiap-tiap tanah
+bernilai variasi.Tanah termasuk bahan yang permeable
+sehingga air dapat mengalir melalui pori-pori tanah. Uji
+permeabilitas dengan tinggi energi turun (falling-head)
+lebih cocok untuk tanah berbutir halus.
+Pada pembuatan tubuh bendungan tipe urugan homogen,
+tanah dipadatkan untuk meningkatkan berat volumenya.
+Pemadatan berfungsi untuk meningkatkan
+kekuatan tanah, mengurangi besarnya rembesan air
+yang terjadi, mengurangi besarnya penurunan tanah
+yang tidak diinginkan, dan meningkatkan kemantapan
+lereng timbunan. Pada perencanaan, kepadatan tanah
+lapangan diambil sebesar 90-95% kepadatan tanah
+laboratorium. Berat volume kering maksimum didapat
+dari hasil percobaan dengan uji Proctor atau dimodifikasi
+di laboratorium (Bowles, 1993).
+Erosi internal dan piping pada main-dam merupakan
+penyebab kegagalan bendungan kedua setelah aliran
+yang melewati puncak bendungan (overtopping flow).
+Untuk bendungan baru, potensi erosi internal dan
+piping dapat dikontrol dengan desain yang baik dan
+pembangunan bendungan dan penyediaan filter untuk
+mencegah rembesan melalui main-dam. Namun
+banyak bendungan yang ada tidak dilengkapi dengan
+filter dan rentan terhadap kegagalan erosi internal,
+dengan kemungkinan yang meningkat umur bendungan
+(Anonim, 2011).
+Kemiringan rata-rata lereng waduk (sebelah hulu dan
+hilir) adalah perbandingan antara panjang garis vertikal
+yang melalui tumit masing-masing lereng. Kemiringan
+lereng urugan harus ditentukan sedemikian rupa agar
+stabil terhadap longsoran. Hal ini sangat tergantung
+pada jenis material urugan seperti yang diberikan pada
+Tabel 1. Kestabilan urugan harus diperhitungkan terhadap
+frekuensi naik turunnya muka air, rembesan, dan
+tahan terhadap gempa.
+Metode penelurusan garis freatis dapat diamati dengan
+menggunakan model fisik bendungan maupun dengan
+metode elemen hingga. Noori dan Khaleel (2011)
+melakukan evaluasi rembesan dan stabilitas bendungan
+Duhok pada Sungai Rubar dengan menggunakan
+metode elemen hingga melalui program komputer bernama
+SEEP2D. Hasil yang diperoleh yaitu jalur rembesan
+permukaan bebas, jumlah rembesan melalui bendungan,
+distribusi tekanan air pori, head total pengukuran
+dan efek anisotropi bahan inti bendungan urugan
+Duhok.
+A. Casagrande memberikan metode perhitungan rembesan
+yang melewati tubuh bendungan yang didasarkan
+pada pengujian model (Hardiyatmo, 2006:257).
+Parabola AB berawal dari titik A’ dengan A’A = 0,3
+(AD) yang dapat dilihat pada Gambar 1.
+Garis freatis atau garis depresi sebagai garis batas kejenuhan
+pada struktur tubuh bendungan. Garis freatis
+akan memisahkan daerah yang mengalami rembesan
+dengan daerah yang tidak mengalami rembesan. Garis
+ini dihubungkan oleh dua titik kritis, titik yang pertama
+adalah titik pertemuan antara muka air banjir (MAB)
+dengan sisi hulu bendungan, sedangkan titik yang
+kedua adalah titik setinggi garis miring yang disebut
+titik a yang terletak di bagian hilir bendungan. Cassagrande
+memberikan formula untuk mendapatkan nilai
+a sebagai berikut:
+dengan :
+a = tinggi garis kemiringan hilir dari dasar
+bendungam (m);
+d = jarak lintasan rembesan di dasar bendungan,
+jarak E-C (m);
+H = tinggi muka air banjir MAB (m); dan
+ttt= sudut kemiringan lereng hilirbendungan (º).
+
+
+Tabel 1. Kemiringan lereng berdasarkan jenis material
+Sumber: (Hardiyatmo, 2006)
+Keterangan:
+CH = Lempung inorganik dengan plastisitas tinggi;
+CL = Lempung inorganik dengan plastisitas rendah-sedang, lempung lanauan, pasiran, dan kerikilan;
+SC = Kerikil lempungan, campuran pasir;
+GC = Kerikil lempungan, campuran kerikil;
+GM = Kerikil lanauan; dan
+SM = Pasir lanauan.
+
+
+Darcy mengusulkan hubungan antara kecepatan dan
+gradien hidrolik sebagai berikut:
+v = ki (2)
+Debit rembesan (q) dinyatakan dalam persamaan:
+q = kiA (3)
+dengan :
+v = kecepatan air (cm/det);
+q = debit rembesan (cm3/dt);
+i = gradient hidrolik;
+k = koefisien permeabilitas (cm/det); dan
+A = luas penampang aliran.
+Beberapa metode diberikan untuk menentukan
+besarnya rembesan yang yang melewati bendungan
+dengan urugan tanah homogen.
+
+
+2.1 Metode dupuit
+Dupuit menganggap bahwa gradient hidrolik (i) adalah
+sama dengan kemiringan permukaan freatis dan
+besarnya konstan dengan kedalamannya, yaitu i = dz/
+dx, sehingga didapatkan persamaan:
+dengan :
+H1 = tinggi muka air di hulu bendungan (m); dan
+H2 = tinggi muka air di hilir bendungan (m).
+
+
+2.2 Metode schaffernak
+
+Schaffernak mengganggap bahwa permukaan freatis
+merupakan garis yang memotong garis kemiringan hilir pada jarak a dari dasar lapisan kedap air. Dari
+anggapan Dupuit, gradient hidrolik i = dz/dx = tg α.
+Maka didapatkan persamaan:
+2.3 Metode Sassagrande
+Casagrande mengusulkan cara untuk menghitung rembesan
+lewat tubuh bendungan yang didasarkan pada
+pengujian model. Besarnya debit rembesan dapat ditentukan
+dengan persamaan
+q = ka sin2 α (6)
+
+
+3. Kalibrasi Pemodelan
+Menurut Adidarma (2004) untuk menilai kedekatan atau
+kecocokan data hasil pemodelan dengan data hasil
+pengamatan, dilakukan uji kecocokan dengan
+menggunakan fungsi objektif atau fungsi kesalahan
+yang merupakan persamaan dari perhitungan dan
+pengamatan menggunakan Kesalahan Absolute Ratarata
+(KAR). Persamaan untuk menghitung KAR
+menggunakan persamaan berikut:
+dengan:
+Qcomp = debit hasil perhitungan;
+Qobs = debit hasil pengamatan; dan
+N = banyak data pengamatan.
+
+
+4. Skenario Pemodelan
+Penelitian ini dimulai dengan pekerjaan persiapan uji
+laboratorium, pembuatan model, dan running
+pemodelan di laboratorium. Analisa data dilakukan
+setelah semua pengukuran selesai dikerjakan. Data yang
+dianalisis berupa pengamatan garis freatis yang terjadi
+pada tubuh bendungan yaitu pola aliran rembesan dan
+gradien hidrolik aliran, data debit rembesan, dan kalibrasi
+pemodelan. Selengkapnya metode penelitian ini
+ditunjukkan pada Gambar 2. Pada penelitian ini
+dilakukan uji laboratorium yaitu uji pemadatan tanah
+dan uji permeabilitas, serta dilanjutkan dengan pembuatan
+model.
+a. Uji pemadatan tanah
+Uji pemadatan tanah dilakukan pada Laboratorium
+Mekanika Tanah Fakultas Teknik Universitas Syiah
+Kuala dengan uji Proctor dan di lapangan dengan uji
+Sand Cone.
+b. Uji permeabilitas dengan tinggi energi turun
+(Falling-head)
+Pada uji permeabilitas falling head, tanah benda uji dimasukkan
+di dalam tabung. Pipa pengukur didirikan di
+q = kz _
+__ = k a sin α tg α (5)
+___ = 1
+_ ____(_____ − ____)
+____ (7)
+atas benda uji. Air dituangkan melalui pipa pengukur
+dan dibiarkan mengalir melewati benda uji. Ketinggian
+air pada awal pengujian (h1) pada saat waktu t1= 0 dicatat.
+Pada waktu tertentu (t2) setelah pengujian berlangsung,
+muka air menjadi h2.
+
+c. Pembuatan model
+Pada penelitian ini digunakan model dengan tubuh
+bendungan tipe urugan homogen menggunakan tanah
+lempung kekuning-kuningan. Model fisik yang
+dirancang pada penelitian ini merujuk pada penelitian
+Kusnan (2008). Kemiringan lereng sesuai dengan
+referensi yaitu bagian hulu 1 : 3 dan kemiringan
+lereng bagian hilir 1 : 2,25 dan memiliki permeabilitas
+sebesar 4,9 × 10-7cm/det.
+Pada saat pembentukan,tanah dipadatkan dengan
+menggunakan balok kayu seberat 3 kg. Tanah dipadatkan
+per lapisan (10 cm per lapisan) dengan jumlah
+tumbukan yang bervariasi berdasarkan tingkat
+kepadatan tanah. Untuk tanah dengan kepadatan 60%
+ditumbuk sebanyak 5 kali ditempat yang sama dan
+dengan tinggi jatuh yang sama. Pada tingkat
+kepadatan 65% tanah ditumbuk sebanyak 10 kali,
+sedangkan untuk kepadatan tanah 70% tanah ditumbuk
+sebanyak 15 kali di tempat yang sama dengan
+tinggi jatuh yang sama. Sketsa model bendungan
+dapat dilihat pada Gambar 3.
+
+Pembuatan model dilakukan sebagai berikut:
+a. Pengadaan bahan penelitian meliputi air, tanah,
+pasir, karet, dan aspal.
+b. Persiapan peralatan yang digunakan pada
+penelitian yaitu berupa bejana kaca sebagai alat
+model fisik dengan ketebalan 10 mm dan ukuran
+panjang, lebar, dan tinggi wadah yaitu180 cm x 44
+cm x 68 cm.
+c. Selang-selang yang berfungsi sebagai pizometer
+dipasang pada dinding arah memanjang kaca.
+Jumlah yang dipasang sebanyak 9 selang dengan
+jarak setiap selang 10 cm.
+d. Bahan-bahan berupa pasir, karet, dan aspasl
+dihamparkan sebagai dasar bejana alat model fisik.
+e. Tanah ditimbun per lapisan dengan tinggi 10 cm
+dan ditumbuk dengan menggunakan balok seberat
+3 kg sesuai dengan kepadatan. Tanah ditimbun
+hingga membentuk trapesium dengan lebar 44
+cm, panjang 134,4 cm, dan tinggi 68 cm.
+Pembentukan tubuh bendung tersebut berdasarkan
+variasi kepadatan tanah yang direncanakan.
+f. Air diisi pada bagian hulu tubuh bendungan
+sebagai daerah genangan dengan variasi tinggi
+muka air 35 cm, 45 cm, dan maksimum 55 cm.
+g. Pengamatan garis aliran pada tubuh bendungan
+diamati melalui selang yang dipasang pada kaca.
+Kenaikan air pada selang dilakukan tiap 30 menit
+selama 8,5 jam sampai aliran konstan dan
+diperoleh debit rembesan dari tubuh bendungan.
+h. Observasi dilakukan sebanyak 9 kali dengan variasi
+tingkat kepadatan tanah yaitu 60%, 65%, dan
+70%, serta variasi tinggi air tampungan 35 cm, 45
+cm, dan 55 cm.
+i. Debit observasi yang ditampung di dalam gelas
+ukur dibandingkan dengan debit hasil analitis dari
+perhitungan sebagai kalibrasi model alat uji fisik.
+
+
+5. Hasil dan Pembahasan
+5.1 Pola aliran garis freatis
+Pola aliran garis freatis dengan tingkat kepadatan
+tanah diamati dengan 3 variasi tinggi air tampungan,
+yaitu 35 cm, 45 cm, dan 55 cm. Pada masing-masing
+tinggi air tampungan, terjadi perbedaan bentuk pola
+aliran, hal ini disebabkan karena besarnya tekanan
+yang terjadi berbeda yang disebabkan oleh pengaruh
+tinggi air tampungan tersebut. Dari ketiga variasi
+tersebut, hanya tinggi air maksimum 55 cm yang
+dapat memenuhi salah satu teori garis aliran rembesan,
+yaitu Metode Cassagrande karena garis aliran
+yang terbentuk memenuhi persyaratan dari metode
+tersebut. Grafik kenaikan air pada selang dengan
+interval waktu 30 menit pada tinggi tampungan 55
+cm untuk masingmasing kepadatan diberikan pada
+Gambar 4.
+Garis aliran mulai melengkung pada selang pengamatan
+pertama dan memotong tubuh bendungan
+bagian hilir. Pada tinggi tampungan 35 cm dan 45 cm
+tidak ada metode yang memenuhi, hal ini disebabkan
+oleh garis aliran yang tidak sampai pada tubuh
+bendung bagian hilir. Keterbatasan lamanya waktu
+pengamatan menjadi salah satu penyebab hal tersebut.
+Bila waktu pengamatan diperpanjang, diyakini
+bahwa akan terdapat debit rembesan pada kaki hilir
+bendungan baik pada tinggi tampungan 35 cm maupun
+45 cm. Pada penelitian ini kenaikan air pada
+selang diamati selama 8,5 jam sampai aliran konstan
+dan diperoleh debit rembesan dari tubuh bendungan.
+
+
+Hasil yang diperoleh berupa sketsa gambar terjadinya
+rembesan dalam tubuh bendungan. Pola aliran dengan
+tingkat kepadatan tanah 60%, 65%, dan 70% diamati
+dengan 3 variasi tinggi air tampungan, yaitu 35 cm, 45
+cm, dan 55 cm. Selengkapnya pola aliran dan bentuk
+gradien hidrolik dari masing-masing sudut dapat dilihat
+pada Gambar 5, 6, dan 7.
+Dari ketiga variasi tersebut, hanya tinggi air maksimum
+55 cm yang dapat memenuhi salah satu teori garis aliran
+rembesan, yaitu metode Cassagrande. Dalam
+metode Cassagrande harus memenuhi persyaratan garis
+aliran yang terbentuk mulai melengkung pada selang
+pengamatan pertama dan memotong tubuh bendungan
+bagian hilir. Hal ini disebabkan karena garis aliran
+yang tidak sampai pada tubuh bendung bagian. Dari
+ketiga garis freatis, aliran air pada tubuh bendungan
+mulai konstan pada pukul 15.00 WIB. Uji model tubuh
+bendungan ini dilakukan mulai puluk 9.30 pagi sampai
+18.00. Keterbatasan lamanya waktu pengamatan menjadi
+salah satu penyebab hal tersebut.
+Dari grafik hubungan antara tinggi muka air
+tampungan dan jarak, maka diperoleh gradient hidrolik
+garis freatis dengan masing-masing tingkat kepadatan
+tanah 60%, 65%, dan 70% adalah 6,3733, ,4067, dan
+pada kepadatan tanah 70% adalah sebesar 6,295.
+
+
+5.2 Debit rembesan
+Besarnya debit yang terjadi dihitung dengan langkah
+perhitungan metode Cassagrande, yang merupakan
+teori yang memenuhi garis aliran freatis yang telah
+dijelaskan pada bagian sebelumnya. Besarnya debit
+analitis dan debit observasi diberikan pada Tabel 2.
+
+
+Dari hasil analitis dan observasi, rembesan yang
+paling besar terjadi pada tingkat kepadatan tanah 60%
+dengan tinggi air tampungan 55 cm, sedangkan rembesan
+terkecil terjadi pada tanah dengan tingkat
+kepadatan 70%.Besarnya rembesan yang terjadi
+dipengaruhi oleh tingkat kepadatan tanah, tinggi air
+tampungan, dan juga tinggi dari tubuh bendungan itu
+sendiri.
+
+Tanah dengan kadar air yang optimum jika ditambah
+kepadatannya menghasilkan rembesan yang kecil, hal
+ini disebabkan karena angka pori dari tanah tersebut
+semakin berkurang, sehingga mempertinggi kuat
+geser tanah dari tubuh bendungan itu sendiri. Semakin
+tinggi tingkat kepadatan tanah, maka semakin kecil
+nilai koefisien permeabilitas dan debit rembesan yang
+dihasilkan. Dengan hasil yang telah didapatkan pada
+penelitian ini, maka tingkat kepadatan tanah terbaik
+untuk debit rembesan terkecil terjadi pada tingkat
+kepadatan tanah 70%.
+
+
+5.3 Kalibrasi pemodelan
+Debit yang didapatkan dari perhitungan berbeda dari
+debit yang dihasilkan dari penelitian. Debit yang
+didapatkan dari perhitungan lebih kecil dari debit
+hasil penelitian. Hubungan antara debit analitis
+dengan debit observasi dapat dilihat pada Gambar 8.
+Dari grafik tersebut dapat dilihat bahwa
+perbandingan hasil debit analitis dengan debit
+observasi memiliki trend yang sama walaupun hasil
+yang didapatkan sedikit berbeda. Perbedaan tersebut
+dikarenakan karena peralatan yang digunakan dalam
+penelitian ini masih memiliki kekurangan dalam
+ketelitian. Grafik kalibrasi pemodelan dapat dilihat
+pada Gambar 9.
+
+
+Pada grafik tersebut terlihat bahwa debit observasi
+melalui uji model fisik lebih besar dari debit hasil analitis.
+Hal ini disebabkan oleh beberapa faktor, yaitu
+kepadatan tanah yang belum memenuhi standar,
+ketepatan alat, dan lamanya waktu pengamatan. Namun
+pola aliran dan debit rembesan yang diperoleh dari hasil
+observasi telah sesuai dengan trend analitis. Uji
+kedekatan atau kecocokan data hasil analitis dan
+observasi dengan menggunakan fungsi objektif atau
+fungsi kesalahan menghasilkan nilai Kesalahan Absolut
+Rata-rata (KAR) sebesar 0,25. Hal ini memberikan
+informasi bahwa estimasi ketelitian penelitian yang
+merupakan faktor dari kepadatan tanah, ketepatan alat,
+dan lamanya waktu pengamatan adalah sebesar 0,75.
+
+
+6. Kesimpulan
+1. Dari hasil penelitian, tingkat kepadatan tanah tubuh
+bendungan yang menghasilkan rembesan terkecil
+yaitu kepadatan 70%. Semakin tinggi tingkat
+kepadatan pada tubuh bendungan, maka semakin
+kecil rembesan yang terjadi. Hal ini disebabkan
+karena semakin padat timbunan tanah, maka
+semakin kecil rongga pori dari tanah tersebut
+sehingga menghambat atau memperlambat jalannya
+air dari tanah itu sendiri dan juga kuat geser tanah
+semakin besar.
+2. Sebaliknya, semakin kecil tingkat kepadatan tanah
+semakin besar debit rembesan yang dihasilkan. Hal
+ini disebabkan karena butiran tanah memiliki rongga
+yang mudah dilalui oleh air, sehingga mempercepat
+terjadinya rembesan air yang melalui tubuh
+bendungan. Dengan demikian, tingkat kepadatan
+tanah sangat mempengaruhi besar kecilnya debit
+rembesan yang terjadi. Untuk pengelolaan
+(management) debit rembesan yang terjadi dengan
+membangun konstruksi drainase pada kaki bendungan.
+Hal ini memiliki keuntungan secara konstruksi
+yang berimbas pada faktor finansial. Karena
+konstruksi drainase yang diperlukan pada kaki bendungan
+tidak terlalu besar, namun cukup efisien dan
+efektif dalam pengelolaannya.

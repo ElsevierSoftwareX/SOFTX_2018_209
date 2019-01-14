@@ -1,0 +1,421 @@
+﻿PENGGUNAAN ELEKTRODA PASTA KARBON TERMODIFIKASI ZEOLIT UNTUK ANALISIS LOGAM Cu SECARA VOLTAMETRI PELUCUTAN ANODIK
+
+
+ABSTRAK
+Pada penelitian ini telah dilakukan pengukuran logam Cu(II) menggunakan elektroda pasta karbon (EPK) tanpa dan termodifikasi zeolit dengan metode voltametri pelucutan anodik. Parameter yang diamati yaitu kondisi optimum (waktu deposisi dan laju pindai), komposisi modifier zeolit yang ditambahkan, dan uji validitas elektroda kerja. EPK termodifikasi zeolit pada kondisi pengukuran optimum digunakan untuk menentukan konsentrasi ion logam Cu dalam sampel air limbah pembuatan gong. Hasil penelitian menunjukkan waktu deposisi optimum 410 detik dan laju pindai optimum 7,5 mV/s untuk elektroda pasta karbon tanpa modifikasi. Komposisi optimum modifier zeolit adalah 20% dari berat grafit yang digunakan, waktu deposisi dan laju pindai yang menghasilkan arus puncak tertinggi masing-masing diperoleh pada 380 detik dan 10 mV/s. Hasil uji validasi elektroda pasta karbon termodifikasi yaitu limit deteksi pengukuran larutan standar Cu(II) adalah 46,13 ppb, lebih rendah dibandingkan dengan elektroda pasta karbon tanpa modifikasi, yaitu 99,93 ppb. Hasil pengukuran menggunakan EPK termodifikasi zeolit memiliki keberulangan (presisi) dan perolehan kembali (akurasi) yang baik. Pengukuran kadar logam Cu(II) dalam air limbah pembuatan gong yang diukur menggunakan EPK termodifikasi zeolit adalah 93,54 ± 0,87 ppb.
+Kata Kunci : logam Cu, elektroda pasta karbon, voltametri pelucutan anodik, zeolit.
+
+PENDAHULUAN
+Logam berat merupakan salah satu jenis zat pencemar di perairan. Hal ini disebabkan sifat-sifat logam berat yang tidak dapat terurai. Dalam kadar rendah, logam berat pada umumnya sudah beracun bagi makhluk hidup. Logam berat menjadi berbahaya disebabkan oleh sistem bioakumulasi, yaitu peningkatan konsentrasi unsur kimia di dalam tubuh makhluk hidup (Wuana and Okiemen, 2011). Salah satu logam berat yang sering mencemari lingkungan adalah logam Cu. Persenyawaan Cu digunakan dalam berbagai industri seperti pewarnaan tekstil, penyepuhan, pelapisan, dan pembilasan pada industri perak. Banyaknya industri yang menggunakan logam berat sebagai bahan baku maupun bahan tambahan mengakibatkan jumlah bahan pencemar meningkat. Oleh karena itu, identifikasi kandungan logam berat di lingkungan sangat penting dilakukan untuk mengurangi dampak logam berat bagi kesehatan manusia dan lingkungan.
+Berbagai metode telah digunakan untuk analisis logam berat antara lain menggunakan teknik Atomic Absorption Spectrophotometry (AAS) (Firmansyah et al., 2012). Metode ini memiliki kelemahan yakni peralatan besar, biaya operasi yang tinggi, sulit untuk diterapkan di lapangan, dan limit deteksinya tinggi sehingga sulit mendeteksi kandungan logam yang jumlahnya sedikit. Berdasarkan hal tersebut diperlukan adanya metode alternatif yang mudah untuk analisis logam berat antara lain menggunakan metode voltametri. Voltametri merupakan salah satu metode elektroanalisis yang digunakan untuk mengetahui informasi elektrokimia dari analit dengan cara memberikan potensial sehingga dapat diketahui hubungan antara arus yang dihasilkan terhadap potensial yang diberikan. Keuntungan metode ini adalah analisis yang cepat, instrumentasi sederhana, limit deteksi rendah, dan murah (Wang, 2001).
+Analisis logam berat dengan teknik voltametri memerlukan elektroda kerja. Salah satu elektroda kerja yang sering digunakan yaitu elektroda pasta karbon (EPK). Elektroda ini memiliki beberapa kelebihan yaitu memiliki rentang potensial yang lebar sehingga dapat mendeteksi berbagai jenis logam, tidak menghasilkan arus latar belakang yang mengganggu analisis, memiliki luas permukaan yang bervariasi, inert, murah, dan cocok dalam identifikasi berbagai logam. Kinerja elektroda pasta karbon dapat ditingkatkan dengan cara dimodifikasi secara kimia. Modifikasi secara kimia bertujuan untuk meningkatkan laju transfer elektron ke permukaan elektroda (Harvey, 2000 dan Wang, 2001). Beberapa elektroda pasta karbon telah dimodifikasi secara kimia untuk menentukan kandungan logam berat seperti penelitian yang telah dilakukan oleh Hastuti et al. (2012) dan Marcolino et al. (2007). Pemilihan modifier yang tepat sangat penting dalam pembuatan elektroda pasta karbon karena berperan dalam reaktivitas elektroda tersebut. Salah satu modifier yang dapat digunakan dalam elektroda pasta karbon adalah zeolit. Zeolit yang digunakan merupakan zeolit alam yang diperoleh dari Kabupaten Ende, Pulau Flores, Provinsi Nusa Tenggara Timur. Keberadaan batuan ini sangat berlimpah dan belum dimanfaatkan dengan baik. Oleh karena itu dalam penelitian dilakukan pemanfaatan sumber daya alam untuk pengembangan metode analisis logam dengan metode voltametri, yaitu dengan menghaluskan batuan zeolit kemudian ditambahkan dalam campuran elektroda pasta karbon untuk pengukuran konsentrasi Cu.
+Menurut Putra et al. (2013) arus puncak yang dihasilkan dari analisis menggunakan elektroda pasta karbon termodifikasi sangat dipengaruhi oleh komposisi modifier, waktu deposisi, dan parameter operasional yang lain. Pada komposisi optimum modifier akan dihasilkan sensitivitas terbaik, reprodusibilitas, dan kestabilan pengukuran. Oleh karena itu, sangat penting menentukan kondisi optimum elektroda pasta karbon termodifikasi sebelum penggunaannya lebih lanjut. Selain itu, tujuan dari pengukuran analitik adalah untuk memperoleh hasil yang konsisten, reliable, dan data yang akurat. Oleh karena itu, diperlukan adanya uji validitas sebelum menerapkan sebuah metode baru ke lingkungan. Hasil dari metode validasi yang dilakukan dapat digunakan untuk mengetahui kualitas, reliabilitas, dan konsistensi dari hasil pengukuran, yang merupakan bagian dari pengukuran analitik yang baik (Huber, 2007).
+Dalam penelitian ini dilakukan analisis logam Cu menggunakan metode voltametri pelucutan anodik/anodic stripping voltammetry (ASV) dengan elektroda pasta karbon yang termodifikasi zeolit alam (EPKZ). Elektroda pasta karbon yang digunakan dioptimasi, kemudian dilakukan uji validitas. Untuk tujuan aplikasi, metode voltametri pelucutan anodik dengan elektroda pasta karbon yang termodifikasi zeolit digunakan untuk analisis logam Cu(II) dalam sampel limbah pembuatan gong yang diambil dari sentra industri gong di Desa Tihingan, Kecamatan Banjarangkan, Kabupaten Klungkung, Bali.
+
+METODE PENELITIAN
+Alat dan bahan
+Alat yang digunakan adalah adaptor DC (Intra Universal), mikropipet (Socorex), neraca analitik (Shimadzu tipe AUW220D), pH meter (Senz Digital), Potensiostat Ingsens 1030, pengaduk magnetic (Thermoline), wadah sel voltametri (Pyrex), tabung elektroda (Pyrex) dan karet silikon penyangga elektroda. Bahan yang digunakan adalah parafin cair dan grafit (Wako), akuabides, K3Fe(CN)6, K4Fe(CN)6, KCl, dan CuSO4.5H2O (Merck), kawat platina, kawat perak, dan kawat tembaga (Nilaco), dan tabung teflon. Elektroda pembanding yang digunakan adalah Ag/AgCl (KCl 0,1 M). Zeolit yang digunakan sebagai modifier adalah zeolit alami yang diperoleh dari Kabupaten Ende, Pulau Flores, Nusa Tenggara Timur.
+Pembuatan elektroda kerja
+Penelitian ini dilakukan dengan menggunakan 2 jenis elektroda kerja yaitu EPK tanpa modifikasi dan termodifikasi zeolit. Elektroda pasta karbon dibuat dengan mencampurkan 100 mg serbuk grafit dengan 35 μL parafin cair. Campuran digerus sampai merata sehingga diperoleh pasta karbon. EPK termodifikasi zeolit dibuat dengan mencampurkan 100 mg campuran serbuk grafit dan zeolit dengan komposisi bervariasi kemudian ditambahkan 35 μL parafin cair. Variasi komposisi zeolit yang digunakan adalah 5 %, 10 %, 15 %, 20 %, 25 % dan 30 %, 35 %, dan 40 % dari berat grafit yang digunakan dalam pembuatan elektroda pasta karbon.
+Ke dalam tabung elektroda kerja yang terbuat dari tabung teflon dan kawat tembaga sebagai konduktor, dimasukkan pasta karbon dengan ketinggian 5 mm. Bagian bawah elektroda pasta karbon tersebut dihaluskan pada kertas sampai permukaannya halus dan mengkilap. Elektroda dimasukkan ke dalam sel voltametri yang berisi 10 mL larutan standar logam 1 ppm dengan larutan elektrolit asam 0,1 M.
+Optimasi komposisi zeolit
+Penentuan komposisi zeolit optimum dilakukan dengan metode ASV dengan EPKZ sebagai elektroda kerja. EPKZ termodifikasi zeolit dimasukkan ke dalam sel voltametri yang berisi 10 mL larutan standar logam 1 ppm. Pengukuran dilakukan pada potensial deposisi -1,2 V dan waktu diam (quite time) 20 s. Komposisi modifier zeolit yang menghasilkan arus puncak paling tinggi pada analisis digunakan untuk analisis selanjutnya.
+Penentuan waktu deposisi
+Penentuan waktu deposisi dalam analisis larutan standar logam dilakukan dengan metode voltametri pelucutan anodik menggunakan EPK dan EPKZ sebagai elektroda kerja.
+
+Waktu deposisi elektroda dibuat bervariasi dengan potensial deposisi -1,2 V dan waktu diam (quite time) 20 s. Pengukuran waktu deposisi untuk larutan standar logam Cu(II) dilakukan pada rentang potensial dari -400 mV sampai 200 mV. Voltamogram pada waktu deposisi yang menghasilkan arus puncak paling tinggi dipilih untuk analisis selanjutnya.
+Penentuan laju pindai
+Elektroda dimasukkan ke dalam sel voltametri yang berisi larutan standar kemudian dilakukan pengukuran arus pada waktu deposisi optimum. Pengukuran dilakukan menggunakan EPK dan EPKZ pada potensial deposisi -1,2 V, waktu diam (quite time) 20 s, dan rentang potensial dari -400 mV sampai 200 mV. Laju pindai optimum ditentukan dengan membuat plot antara laju pindai dengan arus puncak tiap voltamogram.
+Penentuan rentang konsentrasi linear
+Penentuan rentang konsentrasi linear dilakukan dengan membuat larutan standar Cu konsentrasi 5, 10, 50, 100, 200, 500, 1000, 2000, dan 4000 ppb. Setiap larutan diukur dengan metode ASV menggunakan EPK dan EPKZ. Selanjutnya, dibuat persamaan garis regresi linear antara konsentrasi larutan dengan arus puncak yang dihasilkan dari masing-masing pengukuran. Rentang konsentrasi linear adalah rentang konsentrasi logam yang menghasilkan persamaan garis y= a + bx dengan nilai r2 mendekati 1. Nilai a merupakan intersep dan b adalah slope. Nilai b ditentukan melalui Persamaan berikut.
+r: ................................................................................................... (1)
+Nilai x merupakan konsentrasi larutan standar dan y adalah arus puncak yang dihasilkan ketika pengukuran. Nilai intersep diperoleh melalui Persamaan 2.
+r: .......................................................................................................... (2)
+Nilai a merupakan intersep, y adalah arus yang dihasilkan, b merupakan nilai slope, dan x adalah konsentrasi standar.
+Penentuan limit deteksi
+Untuk menentukan limit deteksi, dilakukan analisis arus puncak pada kurva linear. Limit deteksi ditentukan melalui Persamaan 3 (Hibbert and Gooding, 2006).
+r: ............................................................................................................ (3)
+r: ................................................................................................... (4)
+LD merupakan limit deteksi, Sy/x adalah standar deviasi, b merupakan slope, dan
+adalah nilai y yang diperoleh dari persamaan garis.
+
+Penentuan keberulangan EPK termodifikasi zeolit
+Uji keberulangan dilakukan dengan mengukur arus puncak larutan standar logam Cu(II), pada kondisi optimum secara berulang sebanyak 10 kali dengan metode ASV. Nilai Standard Deviation (SD), Relative Standard Deviation (RSD), dan Coefficient Variation (CV) dari beberapa ulangan dihitung menggunakan persamaan berikut (Hibbert and Gooding, 2006).
+r: ........................................................................................................... (5)
+r: ............................................................................................................... (6)
+r: .................................................................................................. (7)
+Prediksi CV menurut Horwitz dihitung sesuai dengan Persamaan berikut.
+r: ............................................................................................ (8)
+C merupakan konsentrasi analit dengan menghilangkan dimensinya.
+Keberulangan pengukuran dihitung menggunakan rasio Horwitz (HorRat) sebagai berikut.
+r: .............................................................................................. (9)
+Nilai rasio Horwitz yang dapat diterima untuk keberulangan pengukuran yang baik berada pada rentangan 0,5 - 2 (AOAC, 2011).
+Penentuan persen perolehan kembali EPK termodifikasi zeolit
+Persen perolehan kembali ditentukan dengan membandingkan antara konsentrasi hasil pengukuran dengan konsentrasi hasil perhitungan. Persen perolehan kembali dihitung menggunakan persamaan sebagai berikut.
+r: .............................. (10)
+Nilai persen perolehan kembali yang mendekati 100 % menunjukkan akurasi pengukuran yang baik.
+Analisis sampel air limbah pengolahan gong dengan EPK termodifikasi zeolit
+Sampel yang digunakan dalam penelitian ini adalah sampel air yang diperoleh dari industri pengolahan gong, di Desa Tihingan, Kecamatan Banjarangkan, Kabupaten Klungkung, Bali. Pengukuran kadar sampel dihitung dengan membuat kurva adisi standar yaitu plot antara arus yang dihasilkan terhadap konsentrasi larutan standar yang ditambahkan. Konsentrasi logam Cu(II) pada sampel air limbah ditentukan dengan membuat garis ekstrapolasi sampai berpotongan di sumbu x. Titik perpotongan di sumbu x tersebut sebanding dengan konsentrasi sampel.
+
+PEMBAHASAN
+Elektroda pasta karbon dibuat dengan mencampurkan 100 mg serbuk grafit dengan
+35 μL parafin cair. Penambahan parafin cair berfungsi sebagai pengikat. Jika pengikat
+yang digunakan jumlahnya berlebih maka akan menurunkan laju transfer electron karena
+bersifat isolator, sehingga terdapat arus latar belakang. Jika cairan pengikat jumlahnya
+terlalu sedikit dalam campuran maka laju transfer elektron berlangsung sangat cepat
+sehingga tidak dapat dideteksi, dan dapat menyebabkan pasta karbon jatuh ke dalam
+larutan.
+Penentuan Komposisi Optimum Modifier Zeolit
+Voltamogram hasil pengukuran terhadap larutan standar logam 1 ppm dengan
+variasi komposisi zeolit menggunakan EPKZ ditunjukkan pada Gambar 1.
+-0,4 -0,3 -0,2 -0,1 0,0 0,1 0,2
+0
+5
+10
+15
+20
+0 5 10 15 20 25 30 35 40 45
+12
+13
+14
+15
+16
+17
+18
+19
+20
+Ip (μA)
+Komposisi (%)
+I (μA)
+Potensial (V)
+5 %
+10 %
+15 %
+20 %
+25 %
+30 %
+35 %
+40 %
+Gambar 1. Voltamogram Larutan Standar Cu(II) 1 ppm dengan Variasi Komposisi Zeolit.
+Berdasarkan voltamogram yang dihasilkan, komposisi optimum modifier untuk
+logam Cu(II) sebesar 20 % dari berat grafit yang digunakan. Penambahan zeolit dapat
+meningkatkan arus puncak yang dihasilkan karena zeolit memiliki struktur yang
+berongga/berpori. Adanya struktur yang berongga tersebut menyebabkan zeolit memiliki
+kemampuan untuk mengadsorpsi atau menjebak ion logam ke dalam struktur zeolit. Oleh
+karena itu, zeolit dapat menjadi mediator transfer elektron pada permukaan elektroda dan
+dapat digunakan sebagai modifier dalam elektroda pasta karbon. Komposisi optimum
+zeolit pada elektroda pasta karbon berbeda-beda disebabkan oleh kerapatan/densitas pasta
+karbon yang terbentuk. Pada komposisi zeolit optimum, densitas pasta karbon yang terbentuk merupakan densitas terbaik sehingga laju transfer elektron pada permukaan
+elektroda berlangsung lebih cepat.
+Penentuan Waktu Deposisi Optimum
+Penentuan waktu deposisi optimum elektroda kerja bertujuan untuk mengetahui
+waktu terbaik analit yang dianalisis terdeposisi di permukaan elektroda kerja. Waktu
+deposisi optimum ditentukan dengan cara mengukur arus puncak yang dihasilkan dari
+larutan standar dengan waktu deposisi bervariasi. Menurut Fischer et al. (1999), arus
+puncak semakin meningkat pada waktu deposisi yang semakin lama karena jumlah ion
+logam yang terdeposisi pada permukaan elektroda kerja semakin tinggi hingga menjadi
+jenuh pada waktu deposisi tertentu. Voltamogram larutan standar Cu(II) 1 ppm yang
+diukur dengan EPK tanpa dan termodifikasi zeolit ditunjukkan pada Gambar 2.
+-0,4 -0,3 -0,2 -0,1 0,0 0,1 0,2
+0
+5
+10
+15
+20
+25
+280 320 360 400 440
+8
+12
+16
+20
+24
+Ip (μA)
+Waktu deposisi (s)
+I (μA)
+Potensial (V)
+290 s
+320 s
+350 s
+380 s
+410 s
+440 s
+-0,4 -0,3 -0,2 -0,1 0,0 0,1 0,2
+0
+4
+8
+12
+16
+20
+280 320 360 400 440
+8
+10
+12
+14
+16
+18
+Ip (μA)
+Waktu deposisi (s)
+I (μA)
+Potensial (V)
+290 s
+320 s
+350 s
+380 s
+410 s
+440 s
+Gambar 2. Voltamogram Larutan Standar Cu(II) 1 ppm dengan Variasi Waktu Deposisi
+Menggunakan EPK (a) dan EPKZ (b).
+Berdasarkan voltamogram tersebut dapat diketahui bahwa waktu deposisi optimum
+larutan standar logam Cu(II) yang diukur menggunakan EPK adalah 410 s, dan EPKZ
+adalah 380 s. Gambar 2, menunjukkan pada pengukuran ion Cu(II) menggunakan EPKZ
+terjadi penurunan waktu deposisi optimum. Hal ini menunjukkan bahwa penambahan
+zeolit pada EPK menyebabkan terjadinya transfer elektron lebih cepat dibandingkan EPK
+tanpa zeolit.
+Lama waktu deposisi berpengaruh terhadap arus puncak yang dihasilkan. Arus
+puncak mengalami peningkatan sampai mencapai waktu deposisi tertentu, kemudian arus
+puncak menurun. Hal ini menunjukkan sebelum waktu deposisi optimum ion logam belum
+terdeposisi seluruhnya, sedangkan setelah waktu deposisi optimum permukaan elektroda
+telah jenuh dengan ion logam dan telah tercapai kesetimbangan reaksi redoks pada
+permukaan elektroda.
+
+Penentuan Laju Pindai Optimum
+Selain waktu deposisi, sangat penting menentukan laju pindai optimum untuk
+analisis analit. Tujuan penentuan laju pindai optimum adalah untuk mengetahui kecepatan
+pindai analisis terbaik sehingga arus puncak yang dihasilkan adalah arus puncak dari analit
+yang terdeposisi optimum pada permukaan elektroda. Laju pindai diperoleh dari hasil
+pembagian antara periode pulsa dengan kenaikan pulsa. Nilai periode pulsa diatur tetap
+yaitu 3 mV, sedangkan kenaikan pulsa bervariasi. Besarnya laju pindai mempengaruhi
+waktu sampling arus ketika terjadi deposisi dan pelucutan pada permukaan elektroda.
+Selain itu, besarnya laju pindai mempengaruhi waktu analisis. Makin besar laju pindai,
+makin cepat waktu analisis.
+Laju pindai ditentukan dengan cara membuat plot antara arus puncak yang
+dihasilkan dari pengukuran larutan standar pada berbagai kecepatan pindai. Pengukuran
+larutan standar logam Cu(II) 1 ppm dengan elektroda kerja EPK dan EPKZ terdapat dalam
+dalam Gambar 3.
+-0,4 -0,3 -0,2 -0,1 0,0 0,1 0,2
+0
+5
+10
+15
+20
+25
+30
+35
+5 10 15 20 25 30
+10
+15
+20
+25
+30
+35
+Ip (μA)
+Laju pindai (mV/s)
+I (μA)
+Potensial (V)
+30 mV/s
+15 mV/s
+10 mV/s
+7.5 mV/s
+6 mV/s
+-0,4 -0,3 -0,2 -0,1 0,0 0,1 0,2
+0
+10
+20
+30
+40
+50
+60
+70
+80
+5 10 15 20 25 30
+30
+40
+50
+60
+70
+80
+ip (μA)
+Laju pindai (mV/s)
+I (μA)
+Potensial (V)
+30 mV/s
+15 mV/s
+10 mV/s
+7.5 mV/s
+6 mV/s
+Gambar 3. Voltamogram Larutan Standar Cu(II) 1 ppm dengan Variasi Laju Pindai
+Menggunakan EPK (a) dan EPKZ (b).
+Berdasarkan voltamogram tersebut, diketahui bahwa laju pindai optimum untuk
+larutan standar Cu(II) 1 ppm yang diukur menggunakan EPK adalah 7,5 mV/s. Laju pindai
+optimum larutan standar Cu(II) 1 ppm yang diukur menggunakan EPK termodifikasi
+adalah 10 mV/s. Hal ini menunjukkan bahwa penambahan modifier zeolit pada elektroda
+pasta karbon dapat meningkatkan laju pindai untuk pengukuran logam Cu(II) disebabkan
+oleh penambahan modifier dalam elektroda pasta karbon yang dapat mempercepat
+terjadinya transfer elektron ke permukaan elektroda.
+Selain itu, setelah laju pindai optimum terjadi penurunan arus puncak yang
+dihasilkan. Menurut Corn and Brown (1981), semakin tinggi laju pindai, semakin tinggi
+arus puncak yang dihasilkan. Hal ini disebabkan pada laju pindai yang tinggi lapisan difusi yang terbentuk akan tipis sehingga transfer elektron di sekitar permukaan elektroda kerja
+berlangsung dengan baik. Namun, jika laju pindai terlalu tinggi maka lapisan difusi yang
+terbentuk di sekitar permukaan elektroda terlalu tipis sehingga transfer elektron tidak
+berlangsung dengan baik dan analit tidak teroksidasi seluruhnya. Sebaliknya laju pindai
+yang terlalu rendah akan mempertebal lapisan difusi pada permukaan eletroda kerja
+sehingga transfer elektron menjadi terhambat.
+Penentuan Rentang Konsentrasi Linear
+Penentuan rentang konsentrasi linear bertujuan untuk mengetahui rentang
+konsentrasi yang memberikan hubungan linear antara sinyal yang dihasilkan oleh
+instrumen dengan konsentrasi analit. Rentang konsentrasi linear larutan standar Cu(II)
+ditentukan dengan membuat larutan standar dengan rentang konsentrasi 5 – 4000 ppb.
+Pengukuran arus puncak dilakukan pada kondisi optimum. Data hasil pengukuran dibuat
+kurva kalibrasi yaitu plot antara konsentrasi larutan standar pada sumbu x dengan arus
+puncak pada sumbu y. Kurva kalibrasi larutan standar Cu(II) yang diukur menggunakan
+EPK ditunjukkan pada Gambar 4.
+0 1000 2000 3000 4000
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+y = 0,0088x + 2,2458, r
+2
+= 0,9391
+Ip (μA)
+Konsentrasi (ppb)
+Gambar 4. Hasil Pengukuran Larutan Standar Cu(II) pada Konsentrasi 5 - 4000 ppb
+dengan EPK.
+Gambar 4 menunjukkan hasil pengukuran larutan standar Cu(II) pada konsentrasi
+5 - 4000 ppb. Pada konsentrasi 5-50 ppb, arus puncak tidak mengalami kenaikan yang
+signifikan, sehingga pada konsentrasi tersebut instrumen tidak dapat memberikan respon
+yang baik. Nilai koefisien korelasi larutan standar pada rentang konsentrasi 5 - 4000 ppb
+belum mendekati 1, sehingga pada rentang tersebut bukan merupakan rentang konsentrasi
+linear.
+
+Jika dibuat kurva pada rentang konsentrasi 50 - 1000 ppb, kenaikan arus puncak
+berbanding lurus dengan kenaikan konsentrasi, sehingga memberikan hubungan yang
+linear antara konsentrasi dengan arus puncak. Jika data pada rentang 50 - 1000 ppb
+dihubungkan dan dibuat kurva kalibrasi maka diperoleh persamaan garis seperti pada
+Gambar 5.
+0 200 400 600 800 1000
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+y = 0,0166x - 0,226, r
+2
+= 0,9972
+Ip (μA)
+Konsentrasi (ppb)
+Gambar 5. Hasil Pengukuran Larutan Standar Cu(II) pada Konsentrasi 50 - 1000 ppb
+dengan EPK.
+Gambar 5 menunjukkan hubungan linear antara konsentrasi standar dengan arus
+puncak yang dihasilkan. Hal ini dibuktikan dengan nilai koefisien korelasi yang mendekati
+satu. Dengan demikian, rentang konsentrasi linear yang dipilih untuk larutan standar logam
+Cu(II) yang diukur menggunakan EPK adalah 50 - 1000 ppb.
+0 1000 2000 3000 4000
+0
+10
+20
+30
+40
+50
+y = 0,0114x + 4,6174, r2= 0,9574
+Ip (μA)
+Konsentrasi (ppb)
+Gambar 6. Hasil Pengukuran Larutan Standar Cu(II) pada Konsentrasi 5 - 4000 ppb
+dengan EPKZ.
+
+Rentang konsentrasi linear larutan standar Cu(II) menggunakan elektroda kerja
+EPKZ ditentukan dengan cara yang sama. Kurva kalibrasi larutan standar Cu(II) yang
+diukur dengan EPKZ ditunjukkan pada Gambar 6. Gambar 6 menunjukkan pada
+konsentrasi di atas 1000 ppb arus puncak tidak mengalami kenaikan yang signifikan
+dengan kenaikan konsentrasi sehingga nilai koefisien korelasi larutan standar pada rentang
+konsentrasi tersebut tidak mendekati satu. Dengan demikian rentang tersebut bukan
+merupakan rentang konsentrasi linear.
+Jika dibuat kurva pada konsentrasi 5 - 1000 ppb kenaikan arus puncak berbanding
+lurus dengan kenaikan konsentrasi, sehingga memberikan hubungan yang linear antara
+konsentrasi dengan arus puncak. Jika data arus puncak pada konsentrasi tersebut
+dihubungkan dan dibuat kurva kalibrasi maka diperoleh persamaan garis seperti pada
+Gambar 7.
+0 200 400 600 800 1000 1200
+0
+5
+10
+15
+20
+25
+y = 0,0190x + 2,8631, r2= 0,9985
+Ip (μA)
+Konsentrasi (ppb)
+Gambar 7. Hasil Pengukuran Larutan Standar Cu(II) pada Konsentrasi 5 - 1000 ppb
+dengan EPKZ.
+Gambar 7 menunjukkan hubungan linear antara konsentrasi dengan arus puncak
+yang dibuktikan dengan nilai koefisien korelasi yang mendekati satu yaitu 0,9985. Dengan
+demikian rentang konsentrasi linear untuk larutan standar logam Cu(II) yang diukur
+menggunakan EPK termodifikasi zeolit berada pada rentangan 5 - 1000 ppb. Dari Gambar
+5 dan Gambar 7 diketahui bahwa rentang konsentrasi linear EPK adalah 50 - 1000 ppb,
+yang lebih sempit dibandingkan EPKZ, yaitu dari 5 - 1000 ppb. Rentang konsentrasi linear
+yang lebih lebar menandakan bahwa EPKZ dapat digunakan untuk analisis logam dalam
+sampel dengan konsentrasi yang lebih bervariasi (lebih rendah) dibandingkan EPK.
+
+Penentuan Limit Deteksi
+Limit deteksi merupakan konsentrasi terkecil dari analit yang memberikan signal,
+dan bisa dibedakan dengan signal blanko. Penentuan limit deteksi berdasarkan data dari
+rentang konsentrasi linear. Perhitungan limit deteksi dilakukan menggunakan Persamaan 3.
+Hasil perhitungan menunjukkan limit deteksi pengukuran larutan standar Cu(II)
+menggunakan EPK adalah 99,93 ppb, sedangkan pengukuran dengan EPKZ diperoleh nilai
+limit deteksi yang menurun menjadi 46,13 ppb. Hal ini menandakan bahwa EPKZ dapat
+mendeteksi konsentrasi logam dalam sampel dengan konsentrasi yang lebih rendah.
+Limit deteksi menunjukkan kadar minimum ion logam Cu(II) yang dapat terdeteksi
+oleh instrumen. Jika kadar ion logam dalam sampel lebih rendah dari limit deteksi, maka
+sulit membedakan arus puncak yang dihasilkan oleh blanko dengan arus puncak yang
+dihasilkan oleh analit.
+Penentuan Keberulangan Pengukuran
+Keberulangan pengukuran adalah salah satu uji presisi yang menunjukkan derajat
+kesesuaian antara hasil uji individual yang diukur melalui penyebaran hasil individual dari
+rata-rata jika prosedur ditetapkan secara berulang. Keberulangan pengukuran ditentukan
+dengan menggunakan larutan standar logam 1 ppm pada kondisi optimum sebanyak 10 kali
+pengulangan menggunakan elektroda kerja EPKZ. Selanjutnya dibuat plot antara
+pengulangan dengan arus puncak yang dihasilkan pada masing-masing pengukuran. Kurva
+arus puncak keberulangan ditunjukkan pada Gambar 8.
+0 2 4 6 8 10
+-20
+-10
+0
+10
+20
+30
+40
+50
+60
+Ip (μA)
+Pengulangan ke-
+Gambar 8. Hasil Pengukuran Keberulangan Larutan Standar Cu(II).
+Dari data yang diperoleh kemudian dihitung nilai standard deviation (SD), relative
+standar deviation (RSD), dan persen coeficient variation (CV) dari masing-masing larutan
+standar logam. Nilai CV kemudian disubstitusi ke dalam persamaan sehingga diperoleh rasio Horwitz (Horrat). Nilai rasio Horwitz untuk larutan standar Cu(II) adalah 0,67. Berdasarkan peraturan AOAC (2011), nilai keberulangan dapat diterima jika nilai rasio Horwitz berada pada rentangan 0,5 - 2. Dengan demikian, pengukuran keberulangan larutan standar logam Cu(II), menggunakan EPKZ dengan teknik voltametri pelucutan anodik memenuhi syarat dan dapat diterima.
+Penentuan Persen Perolehan Kembali
+Penentuan persen perolehan kembali bertujuan untuk mengukur ketepatan pengukuran instrumen terhadap hasil sebenarnya. Data arus puncak kemudian disubstitusi ke dalam persamaan garis linear sehingga diperoleh kadar logam berdasarkan pengukuran instrumen. Selanjutnya dihitung nilai persen perolehan kembali dan standar deviasi dari larutan standar logam. Hasil perhitungan persen perolehan kembali larutan standar Cu(II) adalah 104,03 ± 2,01 %. Berdasarkan peraturan AOAC (2011), nilai persen perolehan kembali yang dapat diterima untuk pengukuran analit berada pada rentang 80 - 110 %. Oleh karena itu penentuan persen perolehan kembali larutan standar logam Cu(II) menggunakan EPK termodifikasi zeolit dengan teknik voltametri pelucutan anodik memenuhi syarat dan dapat diterima.
+Penentuan Kadar Logam Cu(II) dalam Sampel dengan Metode Standar Adisi
+Sampel yang digunakan dalam penelitian ini adalah air limbah pembuatan gong yang diambil dari Desa Tihingan, Kecamatan Banjarangkan, Kabupaten Klungkung, Bali. Sampel diambil langsung dari bak penampungan limbah. Pada saat sampling dilakukan pengukuran pH. Air limbah pembuatan gong tersebut memiliki pH 8,3. Hal ini menunjukkan pH air limbah pembuatan gong bersifat basa. Sampel ditampung kemudian ditambahkan 3 tetes asam. Tujuan penambahan asam adalah untuk mengawetkan sampel dan menjaga analit tetap dalam bentuk ionnya.
+Data arus puncak yang dihasilkan kemudian dibuat kurva adisi standar dan dihitung untuk mendapatkan persamaan garis. Kurva adisi standar dan persamaan garis hasil pengukuran sampel ditunjukkan pada Gambar 9. Berdasarkan persamaan garis yang diperoleh, kadar logam dapat diketahui dengan mensubstitusi nilai y = 0 ke dalam persamaan garis. Hasil perhitungan menunjukkan kadar logam Cu(II) dalam air limbah pembuatan gong adalah 93,54 ± 0,87 ppb. Hasil yang diperoleh tersebut tidak melebihi konsentrasi Cu yang diperbolehkan dalam Baku Mutu Air Limbah Bagi Usaha Dan/Atau Kegiatan Industri Pelapisan Logam Dan Galvanis, sebesar 500 ppb. Nilai tersebut terdapat dalam Peraturan Menteri Lingkungan Hidup Republik Indonesia Nomor 5 Tahun 2014 Tentang Baku Mutu Air Limbah.
+
+Gambar 9. Kurva Adisi Standar Pengukuran Larutan Standar Cu(II).
+KESIMPULAN
+Berdasarkan hasil penelitian yang diperoleh dapat disimpulkan bahwa waktu
+deposisi dan laju pindai mempengaruhi arus puncak. Komposisi optimum zeolit yang
+digunakan sebagai modifier dalam pembuatan EPKZ untuk pengukuran ion Cu(II) adalah
+20%. Limit deteksi pengukuran logam Cu(II), menggunakan EPKZ lebih rendah
+dibandingkan EPK. Penggunaan EPKZ memiliki keberulangan (presisi) dan perolehan
+kembali (akurasi) yang baik. Kandungan logam Cu(II) pada air limbah pembuatan gong
+yang dianalisis dengan EPK termodifikasi zeolit pada kondisi optimum masing-masing
+adalah 93,54 ± 0,87 ppb.

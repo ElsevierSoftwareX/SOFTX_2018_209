@@ -1,0 +1,198 @@
+﻿ABSTRAK
+Pada industri pertambangan di Indonesia terjadi peningkatan jumlah kecelakaan
+kerja. Salah satu perusahaan tambang batubara, PT. Duta Tambang Rekayasa (DTR) di
+Kalimantan Utara mencatat 79 kasus kecelakaan kerja terjadi di tahun 2012, 63 kasus di
+tahun 2013 dan 47 kasus di tahun 2014. Hal ini bertentangan dengan target perusahaan
+yakni zero accident. Saat ini, DTR telah memiliki sistem K3 yangtelah dijalanakan
+melalui program safety tahunan. Namun, program tersebut belum pernah dievaluasi
+dalam rangka melihat efektifitas dan efisiensi program.
+Penelitian ini bertujuan untuk menemukan critical success factor (CSF) yang
+dapat dibentuk dari program safety. Agar CSF tersebut menjadi bermakna maka
+dilakukan pula analisa PDCA. Analisa tersebut bertujuan untuk menghasilkan output
+program safety yang lebih komprehensif. Metode yang digunakan dalam penelitian ini
+adalah deskriptif kualitatif dengan tiga responden utama dari pihak manajemen DTR yang
+terkait K3, yakni Kepala Teknik Tambang, Safety Supervisor & Safety Superitendent.
+Metode analisa yang digunakan untuk menemukan CSF adalah AHP kemudian hasil
+tersebut dianalisa dengan prinsip PDCA.
+Hasil penelitian menunjukkan urutan prioritas CSF yaitu (1) Safety Prevention
+and Control System, (2) Safety Commitment, (3) Safety Arrangement, (4) Worker
+Participation. Berdasarkan analisa tersebut, dapat diusulkan program safety yang lebih
+detail sesuai elemennya. Pada elemen Safety Prevention and Control System mencakup
+risk assesment, penyusunan SOP/JSA, HSE internal training, in house safety training,
+internal training PPGD, noisy asessment, medical stock taking, pengecekan APAR, PPE
+stock taking, rambu-rambu safety, emergency drill, first aider team, safety reporting,
+medical reporting, internal & eksternal audit, pelaporan pada pemerintah. Pada elemen
+Safety Commitment dilakukan penyusunan safety golden rules, inspeksi gabungan
+departemen dan sosialisasi KPI; sedangkan pada elemen Safety Arrangement dilakukan
+safety induction, sosialisasi dan penyusunan prosedur, penyuluhan kesehatan, kegiatan
+bulan K3, investigasi kecelakaan, ketersediaan APD, peralatan dan perlengkapan K3.
+Terakhir pada elemen Worker Participation dilakukan inspeksi sidak terencana, safety
+reward, recognition & punishment rules, safety talk, P2K3 (Panitai Pembina K3) meeting,
+weekly meeting.
+Saran yang dapat diberikan kepada perusahaan secara konsisten
+melakukan tinjau ulang agar program tepat sasaran dan efektif melalui (1) safety
+prevention and control system dan (2) kualitas APD (Alat Pelindung Diri). Untuk
+penelitian selanjutnya, diusulkan melakukan gap analysis untuk melihat
+kesenjangan CSF menurut manajemen dan CSF menurut karyawan pelaksana.
+Keywords: Critical Success Factors, program safety, PDCA, AHP
+
+BAB I
+PENDAHULUAN
+1.1. Latar Belakang Masalah
+Pada tahun 2008 organisasi perburuhan internasional menulis sebuah
+artikel berjudul Hidup Saya, Pekerjaan Saya, Pekerjaan yang Aman dengan
+headline “Empat pekerja tambang meninggal dalam ledakan!” (Organisasi
+Perburuhan Internasional, 2008). Artikel tersebut membeberkan fakta bahwa
+kecelakaan kerja masih terjadi walaupun telah banyak upaya positif untuk
+mengurangi resiko kecelakan kerja. Pada industri pertambangan, kecelakaan kerja
+masih menjadi fokus utama kendati saat ini teknologi dan sistem manajemen K3
+(Keselamatan dan Kesehatan Kerja) lebih terorganisir dan melibatkan banyak
+pihak. Pengusaha, pemerintah dan karyawan telah melakukan sinergi untuk
+mengurangi angka kecelakaan kerja di industri pertambangan.
+Ramli (2013), seorang ahli K3 di industri pertambangan juga menyatakan
+hal serupa. Data dari ILO (International Labour Organization) mencatat 337 juta
+kecelakaan kerja di berbagai dunia. Indonesia sebagai ladang tambang bahan
+mineral, gas bumi dan minyak tentu tidak lepas dari permasalahan tersebut. Data
+kecelakaan kerja menurut laporan Jamsostek menyebutkan terjadi peningkatan
+jumlah kasus kecelakaan kerja sejak tahun 2007 sampai tahun 2011. Data tersebut
+tidak termasuk laporan kecelakaan dari perusahaan tambang tradisional yang
+belum tersentuh BPJS Ketenagakerjaan (Jamsostek). Berikut jumlah kecelakaan
+kerja di Indonesia berturut-turut dari tahun 2007 hingga tahun 2011.
+
+Tabel I.1 Angka Kecelakaan Kerja di Indonesia Tahun 2007-2011
+Sumber: Ramli (2013: 4)
+Paparan fakta diatas tentu menggugah berbagai pihak di industri
+pertambangan. Peningkatan jumlah kecelakaan kerja mengindikasi bahwa
+pekerjaaan, lingkungan kerja dan karyawan tidak dalam kondisi aman. Hal
+tersebut dapat merusak citra perusahaan sehingga perusahaan tidak lagi menarik
+dimata investor. Selain itu, tingginya angka kecelakaan kerja menunjukkan
+adanya cost yang terbuang untuk memperbaiki kerusakan setelah terjadi
+kecelakaan. Cost yang dikeluarkan tentu tidaklah sedikit mengingat efek dari
+kecelakaan kerja tidak hanya aset produksi tetapi juga nyawa manusia. Oleh
+karena itu, keselamatan kerja merupakan hal yang wajib dilakukan oleh seluruh
+pekerja dan mendapat prioritas utama para pelaku industri pertambangan.
+Di Indonesia, industri pertambangan telah menjadi tumpuan perekonomian
+nasional maupun daerah. Pertambangan secara signifikan memberikan
+sumbangsih pada pemasukan pendapatan negara. Pendapatan negara yang
+dimaksud adalah pendapatan bruto, pendapatan masyarakat, penciptaan tenaga
+kerja dan kontribusi fiskal untuk pemerintah pusat maupun daerah. Pentingnya
+industri pertambangan tersebut menjadi perhatian pemerintah untuk menjaga dan
+mempertahankan kualitas dan kuantitas pertambangan di Indonesia.
+Salah satu pertambangan di Indonesia yang memiliki nilai tinggi adalah
+pertambangan batubara. Tambang batubara tersebar hampir di semua pulau-pulau
+besar di Indonesia, seperti pulau Kalimantan. Pulau Kalimantan memiliki banyak
+lokasi pertambangan batubara, salah satunya di Kalimantan Timur dan Utara. Di
+provinsi ini, terdapat perusahaan-perusahaan tambang skala besar seperti Kaltim
+Prima Coal (KPC) dan Berau Coal. Di samping itu, ada pula tambang-tambang
+batubara skala kecil seperti Duta Tambang Rekayasa, Pipit Mutiara Jaya dan
+Dewa Ruci Mandiri.
+PT. Duta Tambang Rekayasa (DTR) merupakan perusahan pertambangan
+batubara, anak perusahaan dari PT. Medco Energi Mining International (MEMI),
+lini bisnis tambang dari PT. Medco Energi Internasional. DTR terletak di
+Kabupaten Nunukan, Kalimantan Utara dengan lahan tambang seluas 1.700
+hektar. DTR memulai produksi pertambangan sejak tahun 2012 sesuai dengan
+Surat Keputusan Bupati Nunukan Nomor. 46 Tahun 2010, tertanggal 2 Februari
+2010.
+DTR baru beroperasi tahun 2012 dan saat ini masih membangun
+sistem manajemennya guna mencapai tujuan utama untuk berkontribusi terhadap
+kinerja perusahaan induk, MEMI. Untuk meraih tujuan tersebut, sekarang ini
+DTR sedang membangun sistem, kebijakan dan regulasi agar produksinya dapat
+
+berjalan sesuai dengan target yang ditetapkan MEMI. Salah satu aspek penting
+dalam upaya DTR memenuhi target adalah kualitas keselamatan kerja tenaga
+kerja. Kualitas keselamatan kerja tenaga kerja begitu penting karena aspek
+tersebut menjadi tolok ukur kredibilitas sebuah perusahaan. Hal tersebut berarti
+perusahaan ditantang untuk memastikan produksi berjalan lancar, target
+terpenuhi dan tenaga kerja dapat bekerja aman dan selamat agar dapat
+berkontribusi maksimal pada perusahaan.
+Sejak awal berdirinya, DTR telah memiliki sasaran dalam rangka
+menjaga kualitas keselamatan kerja. Sasaran-sasaran tersebut adalah zero
+fatality, menurunkan lost time injury, frequency rate, severity rate, mengurangi
+kerusakan harta benda akibat kecelakaan, kesalahan pengoperasian peralatan,
+kurangnya perwatan peralatan sehingga berpotensi mengakibatkan kecelakaan
+serta memastikan semua bahaya atau resiko terhadap kesehatan dikelola dengan
+efektif. Selama tahun 2012 sampai tahun 2014, perusahaan mencatat beberapa
+kasus kecelakaan kerja masih terjadi di lingkungan site batubara. Berikut jumlah
+kecelakan kerja dari tahun 2012 sampai tahun 2014.
+
+Tabel I.2 Grafik Kasus Kecelakaan Kerja PT. Duta Tambang Rekayasa tahun 2012-2014
+Sumber: Laporan YTD Desember 2014 Departmen HSE PT. Duta Tambang Rekayasa
+Berdasarkan diatas, terjadi 79 kasus di tahun 2012, 63 kasus di tahun 2013
+dan 47 kasus di tahun 2014. Walaupun terjadi penurunan jumlah kasus
+kecelakaan, perusahaan kurang puas terhadap kinerja safety. Fakta tersebut
+mengarah pada pertanyaan tentang seberapa efisien dan efektif program safety
+yang telah dijalankan oleh DTR. Secara teknis, departemen HSE (Health, Safety
+and Environment) menjadi motor penggerak berdirinya kebijakan, peraturan dan
+menerapkan haluan-haluan keselamatan dan kesehatan kerja. Seluruh kebijakan
+dan regulasi tersebut bertujuan untuk mencapai zero fatality. Departemen ini
+telah melakukan berbagai upaya dalam rangka meningkatkan kualitas safety
+culture melalui program safety perusahaan. Adapun upaya-upaya yang dilakukan
+antara lain safety talk, emergency drill, safety training, pemberian APD, sidak
+safety, pengadaan kantin sehat, senam atau olahraga dan medical check up
+berkala. Di sisi lain, departmen ini juga membuat analisa berupa risk assesment,
+
+hazard identification, job safety analysis dan mencanangkan program safety
+behaviour.
+Penerapan beberapa aktivitas tersebut diatas tidak hanya berhenti pada
+berjalannya program namun juga meluas ke arah ketepatan dan efisiensi
+program. Sekarang ini, departemen HSE memiliki tantangan baru untuk
+menjawab apakah program tersebut telah tepat guna, tepat sasaran dan efisien.
+Tepat guna dan tepat sasaran berarti program yang dijalankan tersebut memang
+membantu mencapai zero fatality sesuai dengan kebijakan K3 pemerintah dan
+perusahaan. Efisiensi berarti program safety bukan merupakan pemborosan
+budget melainkan investasi yang signifikan terhadap pencapaian zero fatality.
+Tantangan DTR dalam memastikan program safety berjalan dengan
+tepat dan efisien tidak hanya terbatas pada upaya menjaga integritas perusahaan
+namun juga ada tuntutan untuk memenuhi syarat dalam sertifikasi OHSAS
+18001: 2007. Dalam OHSAS terdapat poin perencanaan, terdapat syarat
+perusahaan harus membuat, menerapkan dan memelihara tujuan dari program
+manajemen K3 yang didalamnya mengatur penangung jawab K3. Pada poin
+yang lain tentang penerapan dan operasi, terdapat poin tentang kewajiban
+perusahaan memberikan pelatihan dan edukasi serta menyediakan sarana agar
+seluruh anggota perusahaan memahami pentingnya keselamatan kerja.
+Disamping persyaratan OHSAS, ada pula kewajiban perusahaan untuk
+menjaga keselamatan pekerja dari Kementrian Energi dan Sumber Daya Mineral
+terkait penilaian pengeloaan keselamatan pertambangan. Dalam buku pedoman
+Kementrian ESDM, jelas terdapat poin program keselamatan kerja yang menjadi
+
+aspek penting penilaian. Persyaratan yang diajukan oleh kementrian juga jelas,
+yakni perusahaan wajib memiliki program safety tahunan yang sah dan telah
+disosialisasikan serta memiliki beberapa aspek wajib. Aspek wajib tersebut
+diantaranya inspeksi, pemeriksaan kecelakaan, pendidikan dan pelatihan,
+kesehatan kerja, penyusuan SOP, kesiapan keadaan gawat darurat, ketersediaan
+peralatan dan perlengkapan K3, kampanye K3, internal dan eksternal audit,
+pengendalian resiko dan pelaporan administrasi K3 ke pemerintah. Selain itu,
+perusahaan juga wajib melaksanakan evaluasi dan memerhatikan implementasi
+program safety yang telah disusun.
+Paparan diatas menunjukkan pentingnya program safety yang tepat
+dan efisien. Ketepatan dan efisiensi program safety tersebut penting adanya
+untuk melihat sejauh mana sumber daya perusahaan telah digunakan sesuai
+sasarannya. Salah satu cara untuk mengetahui ketepatan dan efisiensi program
+safety adalah identifikasi critical success factors (CSF). Menurut Aksorn dan
+Hadikusumo (2008), ada beberapa CSF yang dapat memberikan pengaruh
+terhadap penerapan program safety. Hasil dari analisa CSF ini kemudian
+dibuatlah analisa PDCA (plan-do-check-act). Analisa PDCA digunakan karena
+dapat membantu peneliti menelaah penyusunan program lebih dalam terutama
+demi perkembangan kualitas suatu program. Tujuan lainya agar program safety
+yang akan diusulkan dapat menyentuh end to end dari proses bisnis. Oleh karena
+itu, hasil akhir dari penelitian ini adalah rekomendasi program safety
+berdasarkan prinsip smart safety.
+
+1.2. Perumusan Masalah
+Rumusan masalah dari penelitian ini adalah sebagai berikut:
+1. Apa sajakah critical success factors pada penerapan program safety di
+PT. Duta Tambang Rekayasa?
+2. Usulan apa sajakah yang dapat diberikan untuk perbaikan program
+safety sesuai analisa PDCA (Plan-Do-Check-Action)?
+1.3. Tujuan dan Manfaat Penelitian
+Adapun tujuan dari penelitian ini adalah sebagai berikut:
+1. Mengetahui critical success factors pada penerapan program safety
+2. Memberikan usulan perbaikan program safety sesuai dengan prioritas
+critical success factors
+Adapun manfaat penelitian ini adalah sebagai berikut.
+1. Identifikasi critical success factors pada program safety akan
+menunjukkan ketepatan program sehingga mendorong peningkatan
+kualitas keselamatan dan kesehatan pekerja.
+2. Usulan perbaikan program safety akan memberikan wacana yang lebih
+mendalam dan luas dengan mempertimbangkan factor sumber daya
+manusia serta budget perusahaan.

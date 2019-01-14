@@ -1,0 +1,473 @@
+﻿Rancang Bangun Prototipe Sistem Pemantau Kondisi
+Kesehatan Pasien Berbasis Web
+
+Intisari—Prototipe pemantau kesehatan berbasis web ini
+dibangun untuk memantau kesehatan pasien secara jarak jauh
+dalam waktu nyata (realtime). Perangkat keras arduino
+digunakan untuk mengambil data fisik pasien dan mengubah
+menjadi data elektronik kemudian dikirimkan melalui
+perangkat jaringan ethernet shield ke server untuk diolah lebih
+lanjut. Hasil penelitian data fisik suhu tubuh dan denyut nadi
+pasien dapat ditampilkan ke halaman web dalam bentuk
+informasi angka maupun grafik dalam hitungan detik (+ 28
+detik), sedangkan informasi adanya alarm yang dikirim melalui
+SMS dapat diterima dalam detik (+ 62 detik). Sistem pemantau
+kondisi kesehatan pasien ini dapat diakses dari berbagai macam
+perangkat seperti notebook, smartphone dan perangkat lain yang
+mendukung aplikasi flash di web. Evaluasi yang dilakukan
+menunjukkan kemampuan sistem untuk mengukur suhu tubuh
+maupun denyut nadi dengan tidak ada perbedaan bermakna
+dibandingkan dengan pengukuran manual pada tingkat
+signifikansi 5% (p>0,05). Kesimpulan dari penelitian ini adalah
+Sistem pemantau kesehatan pasien berbasis web dapat
+memberikan informasi medis dalam waktu nyata, dimana saja,
+kapan saja dengan hasil pengukuran yang dapat
+dipertanggungjawabkan.
+Kata Kunci— arduino, realtime, sistem pemantau kesehatan.
+I. PENDAHULUAN
+Pemantauan kondisi kesehatan pasien sangat penting
+terutama bagi para pasien yang sedang menderita penyakit
+kronis atau pasien yang telah menjalani operasi karena pada
+masa tersebut merupakan masa kritis bagi pasien. Pemantauan
+tersebut biasanya dilakukan di ruang ICU (Intensive Care Unit)
+selama 24 jam secara terus menerus. Hal tersebut kebanyakan
+hanya dilakukan di rumah sakit-rumah sakit besar selain
+karena peralatan yang digunakan relatif mahal juga
+membutuhkan tenaga medis yang memadai baik dari segi
+jumlah maupun mutu.
+Di rumah sakit besarpun kadangkala ruang ICU tidak
+mampu menampung jumlah pasien yang sangat banyak,
+sedangkan di ruang rawat inap pemantauan kondisi pasien
+masih dilakukan secara manual antara lain pengukuran suhu
+tubuh (temperature), pengukuran denyut nadi, pengukuran
+tekanan darah (tensi) dan lain-lain, sehingga dapat
+mengurangi efektifitas pemeriksaan. Petugas kesehatan atau
+perawat harus mencatat hasil pengukuran tersebut,
+menggambar grafik untuk menunjukkan perkembangan
+kondisi pasien kemudian melaporkan ke pihak dokter yang
+merawat pasien saat melakukan kunjungan (visite). Kondisi
+pelayanan kesehatan di daerah tentunya tidak lebih baik dari
+kondisi pelayanan di rumah sakit di kota besar seperti
+digambarkan di atas. Perkembangan TIK yang pesat dapat
+dimanfaatkan untuk membantu mengatasi permasalahan di
+atas. Bagaimana agar dokter tetap dapat memantau kondisi
+pasien meskipun saat tidak melakukan kunjungan pasien,
+dimana saja dan kapan saja (anywhere anytime). Dokter dapat
+melihat secara visual perkembangan kondisi pasien, dan dapat
+segera menganalisis informasi tersebut tanpa menunggu
+laporan dari perawat dan dalam waktu nyata (real time) serta
+informasi yang dihasilkan dapat dipercaya (accurate).
+Beberapa hasil penelitian mengenai cara melakukan
+pemantauan kondisi kesehatan jarak jauh telah banyak ditulis
+dalam jurnal maupun tesis, seperti ditunjukkan pada Tabel I.
+Para peneliti yaitu Paulo Goncalves [1], S. Nourizadeh [2],
+Wei Chen [3] dan M. Kasim [4] melakukan penelitian dengan
+fokus yang berbeda-beda baik pada obyek, lokasi, sensor,
+transmisi, display output dan aplikasi yang digunakan.
+Sistem yang dibangun pada penelitian ini ditujukan untuk
+pasien yang bersifat umum atau pasien-pasien yang
+membutuhkan perhatian / pantauan seperti yang dirujuk oleh
+dokter. Sensor yang digunakan untuk pengukuran suhu tubuh
+menggunakan IC DS18B20 [5] yang dapat dirangkai secara
+paralel dengan metode oneWire [6], yang akan memudahkan
+penambahan perangkat serta lebih efisien. Pada transmisi data
+akan digunakan protokol TCP/IP serta display output
+menggunakan screen monitor dengan aplikasi berbasis web.
+Tujuan dari penelitian ini yaitu:
+a. Menghasilkan prototipe alat pemantau kesehatan pasien
+yang dapat diakses dimana saja, kapan saja (anywhere
+anytime).
+b.Menghasilkan prototipe yang dapat memberikan informasi
+medis dalam waktu nyata (real time)
+c.Menghasilkan informasi medis yang dapat dipercaya /
+akurat (accurate).
+
+
+II. METODOLOGI
+Permasalahan yang dikaji pada penelitian ini adalah
+merancang sebuah prototipe sistem pemantau kondisi
+kesehatan pasien berbasis web. Rancangan sistem yang dibuat
+diharapkan dapat meningkatkan kualitas layanan.
+A. Jalan Penelitian
+Pada penelitian ini dilakukan langkah-langkah yang
+meliputi:
+1) Studi literatur.
+2) Analisis sistem yang ada.
+3) Perancangan Sistem.
+4) Identifikasi kebutuhan user.
+5) Proses Bisnis dan identifikasi aktor.
+6) Pembuatan Usecase.
+7) Pembuatan Data Flow Diagram (DFD).
+8) Pembuatan Relationship Diagram (ERD)
+9) Pembuatan modul akuisisi data
+10) Pembuatan modul sistem informasi web based
+11) Pembuatan modul SMS gateway
+12) Pengujian sistem dan tes skenario.
+13) Analisis hasil pengujian dan membuat kesimpulan.
+B. Identifikasi Kebutuhan User
+Dari hasil analisis sistem kebutuhan user adalah sebagai
+berikut :
+1) Adanya suatu perangkat yang dapat memantau kondisi
+pasien selama 24 (dua puluh empat) jam sehari.
+2) Informasi kondisi pasien dapat diakses dari mana saja,
+kapan saja (anywhere, anytime) sehingga dokter tidak
+harus berada di ruang monitor pasien, tapi dapat
+mengakses dari lingkungan rumah sakit atau bahkan dari
+tempat tinggal dokter.
+3) Hak akses selain diberikan pada dokter dapat juga
+diberikan pada user yang lain seperti perawat atau
+keluarga pasien sesuai aturan dan priviledge.
+4) Informasi yang ditampilkan antara lain tanda vital tubuh
+[7], yang pada prototipe ini informasi yang ditampilkan
+adalah suhu tubuh dan denyut nadi.
+5) Informasi yang diberikan dapat memberikan gambaran
+kondisi saat itu atau dalam waktu nyata (real time).
+6) Informasi medis yang diberikan dapat dipercaya/ akurat
+(accurate).
+7) Bila hasil pengukuran kondisi pasien ada yang diluar
+batas yang diijinkan sistem dapat memberikan informasi
+kepada user.
+8) Aplikasi dirancang agar mampu memantau kondisi
+pasien yang memiliki penyakit kritis yang mengancam
+jiwa, atau setelah mengalami suatu prosedur
+pembedahan besar, sehingga membutuhkan 24 (dua
+puluh empat) jam perawatan dan pemantauan.
+C. Alur Penggunaan Sistem dan Identifikasi Aktor.
+Gbr. 1 Alur penggunaan sistem
+Alur penggunaan sistem yang dilakukan seperti
+ditunjukkan pada Gbr. 1. Proses dimulai dengan pendaftaran
+di bagian depan, kemudian dokter memeriksa terlebih dahulu
+apabila diperlukan rawat inap dan diperlukan pemantauan
+maka pasien akan masuk ke ruang rawat inap. Kemudian
+perawat akan memastikan bahwa data pasien sudah ada di
+dalam database. Bila sudah lengkap maka perawat akan
+memasang perangkat ke tubuh pasien. Informasi kondisi akan
+ditampilkan di aplikasi berbasis web yang dapat dipantau oleh
+tenaga ahli medis dimanapun. Dengan informasi tersebut
+perawat juga dapat melakukan konsultasi secara jarak jauh.
+Prototipe sistem dilengkapi pula dengan sistem alarm yang
+akan memberikan informasi lewat sms kepada tenaga ahli
+medis / dokter yang berhak apabila kondisi pasien melampaui
+batas normal yang sudah ditetapkan.
+Keluarga pasien juga dapat memantau melalui web untuk
+pasien tertentu tanpa harus masuk ke dalam ruangan yang
+dapat mengganggu pasien yang perlu istirahat yang cukup
+serta mencegah masuknya kuman dari luar yang dibawa
+pengunjung yang dapat mengakibatkan infeksi bagi pasien.
+
+Identifikasi aktor ditunjukkan seperti pada Tabel II. Aktoraktor
+yang berperan dalam sistem ini antara lain administrator,
+dokter, perawat dan keluarga pasien.
+
+D. Data Flow Diagram (DFD)
+Data Flow Diagram (DFD) merupakan representasi grafik
+dari sebuah sistem, yang meliputi komponen-komponen dari
+sistem, alian-aliran data, asal, tujuan dan penyimpanan dari
+data tersebut. DFD pada dasarnya digambarkan dalam bentuk
+hierarki [8]. Yaitu, DFD yang pertama (sering dinamakan
+sebagai DFD peringkat 0 atau diagram konteks)
+menggambarkan sistem secara keseluruhan. DFD-DFD
+berikutnya sesungguhnya merupakan penghalusan dari
+diagram konteks, memberikan gambaran yang semakin rinci
+dari diagram konteks, dan hal ini akan berlanjut ke peringkatperingkat
+selanjutnya. Pada Gbr. 2 ditunjukkan DFD Level 0
+yang dapat dijelaskan sebagai berikut.
+DFD peringkat 0 (diagram konteks) memperlihatkan
+perangkat lunak/ sistem pemantau kondisi kesehatan pasien
+sebagai suatu gelembung tunggal. Masukan (input) berupa
+halaman konfigurasi sistem dan sensor-sensor. Sedangkan
+keluaran (output) berupa tampilan informasi di web dan alarm
+notifikasi SMS. Fungsi sistem pemantau kondisi kesehatan
+pasien memungkinkan pengguna untuk melakukan
+konfigurasi terhadap sistem, memungkinkan pengguna
+memantau kondisi kesehatan pasien melalui tampilan
+informasi di web berdasarkan data hasil konversi sensor.
+Pengguna juga akan menerima notifikasi SMS bila data dari
+hasil konversi sensor diluar batas yang ditetapkan.
+
+
+
+E. Rancangan Sistem Keseluruhan
+Rancangan sistem secara keseluruhan ditunjukkan
+seperti pada Gbr. 3. Rancangan digambarkan dalam blok-blok
+diagram antara lain : akuisisi data, sistem informasi kesehatan
+pasien, SMS gateway dan client. Blok akuisisi data berfungsi
+untuk mengambil data dari pasien dengan perangkat yang
+digunakan antara lain sensor suhu, sensor denyut nadi, arduino
+dan ethernet shield.
+
+
+
+
+Prototipe sistem pemantau kesehatan pasien berbasis web
+ini dibangun menggunakan perangkat keras berbasis arduino
+[9] yang dilengkapi ethernet shield dan perangkat lunak
+berbasis web. Perangkat keras arduino digunakan untuk
+mengambil data fisik pasien dan mengubah menjadi data
+elektronik dan dikirimkan ke server melalui perangkat
+jaringan ethernet shield untuk diolah lebih lanjut.
+Pengambilan data fisik pasien berupa suhu digunakan sensor
+DS18B20 [5], sedangkan denyut nadi digunakan sensor
+pulsesensor [10]. Perangkat lunak berbasis web yang
+dibangun menggunakan framework codeigniter [11] dan
+penampil grafik PHP/SWF Charts [12] digunakan untuk
+mengolah data menjadi informasi medis yang siap saji dalam
+bentuk angka maupun grafik. Informasi ini bisa diakses
+melalui jaringan berbasis web kapan saja dan dimana saja oleh
+pihak tenaga medis dan pihak pasien yang berhak.
+SMS gateway digunakan untuk mengirimkan pesan
+notifikasi kepada pengguna yang mempunyai hak untuk
+menerima informasi bilamana kondisi pasien berada diluar
+batas normal. SMS gateway yang digunakan adalah Gammu SMSD [13].Pesan akan dikirim melalui jaringan seluler
+menggunakan modem usb.
+F. Pembuatan Modul Akuisisi Data
+Rangkaian sensor suhu menggunakan IC DS18B20 dengan
+mode catu daya normal (normal power) seperti ditunjukkan
+pada Gbr. 4. Jalur OneWire dihubungkan pada pin 7 arduino.
+
+
+Gbr. 4 Rangkaian Sensor Suhu
+Sedangkan program arduino dibuat berdasarkan diagram
+alir seperti ditunjukkan pada Gbr. 5 yang terdiri dari tiga
+bagian yaitu bagian deklarasi variabel, bagian setup, dan
+bagian loop. Pada bagian deklarasi library yang harus
+dimasukkan adalah SPI, Ethernet, Client, DallasTemperature
+dan OneWire. Pada bagian ini juga dideklarasikan pin-pin
+arduino yang digunakan serta setting ethernet seperti alamat ip,
+port, alamat hardware dan alamat client.
+Pada bagian setup dituliskan kode program yang melakukan
+initialisasi beberapa perangkat seperti serial, ethernet, sensor
+dan fungsi-fungsi yang dipanggil oleh main program.
+Resolusi sensor dipasang menggunakan ketelitian 12 bit.
+Resolusi bit ini mempengaruhi waktu proses konversi suhu.
+Semakin tinggi resolusi bit waktu yang dibutuhkan proses
+konversi suhu akan semakin lama. Sebagai contoh resolusi 12
+bit waktu yang dibutuhkan untuk konversi suhu 750 ms. Tabel
+hubungan resolusi bit dengan waktu konversi ditunjukkan
+seperti Tabel III.
+
+
+Pada bagian loop dituliskan kode program utama. Bagian
+ini akan berjalan terus-menerus melakukan proses seperti
+yang sudah dirancang pada diagram alir yaitu mengecek
+sensor, mengecek client, meminta data sensor kemudian
+menuliskannya ke dalam database.
+
+
+G. Pembuatan Modul Sistem Informasi Web based
+Pembuatan sistem informasi web based ini menggunakan
+framework codeigniter. Dengan tampilan informasi grafik
+menggunakan PHP/SWF Charts [12]. Langkah-langkah
+pembuatan modul ini dijelaskan sebagai berikut.
+1) Memasang Xampp [14].
+2) Membuka dan menyalin file CodeIgniter_1.7.2.zip di
+direktori c:\xampp\htdocs.
+3) Mengubah nama direktori CodeIgniter_1.7.2 menjadi
+ehealth.
+4) Meletakkan file-file Charts di direktori ehealth.
+5) Melakukan konfigurasi ulang pada file-file autoload.php,
+config.php, database.php dan routes.php
+6) Membuat tabel-tabel di database ehealth.
+7) Melakukan pembuatan kode program.
+8) Melakukan uji coba pada masing-masing menu dan
+tampilan grafik.
+Kode program dibuat dengan menggunakan php, untuk
+menampilkan informasi di web data yang akan ditampilkan
+dihasilkan dari querydatabase. Hasil query kemudian ditampilkan dalam bentuk grafik garis dengan bantuan
+pemroses grafik PHP/SWF Charts. Proses ini kemudian
+diulang atau dilakukan update setiap detik.
+H. Pembuatan Modul SMS Gateway
+SMS gateway yang digunakan adalah Gammu SMSD [13].
+Pada prinsipnya bila sistem akan mengirim pesan, data-data
+yang akan dikirim dimasukkan ke dalam tabel outbox
+kemudian service gammu akan mengirimkannya lewat modem
+usb. Untuk memasang service Gammu SMSD ini dilakukan
+langkah-langkah sebagai berikut.
+1) Membuka file gammu.rar ke direktori aplikasi web
+dipasang yaitu di c:\xampp\htdocs\ehealth\gammu.
+2) Melakukan konfigurasi ulang pada file gammurc untuk
+setting com port dan speed.
+3) Melakukan konfigurasi ulang pada file smsdrc untuk
+setting database.
+4) Membuat tabel-tabel di database ehealth.
+5) Membuat service gammu.
+6) Mengaktifkan service tersebut.
+7) Melakukan uji coba service gammu.
+I. Pengujian Sistem dan Tes Skenario.
+Untuk melakukan pengujian sistem dan tes skenario
+dilakukan langkah-langkah berikut:
+1) Menghubungkan rangkaian pengujian dengan topologi
+seperti diagram pada Gbr. 6.
+2) Mengecek dan menyamakan waktu antara komputer,
+web server dan database MySQL
+3) Menghubungkan perangkat client ke jaringan wireless
+router alamat ip 198.168.1.1 dengan SSID (Service Set
+Identifier) ehealth
+4) Memasang DHCP wireless router pada posisi enable.
+5) Mengecek koneksi dari Local Area Connection server
+ke modul akuisisi data yaitu dengan melakukan ping
+dari server alamat ip 192.198.0.5 ke modul akuisisi
+data alamat ip 192.168.0.7.
+6) Mengecek koneksi Wireless Network Connection dari
+server aplikasi ke notebook ke dengan melakukan ping
+dari server aplikasi, alamat ip 192.168.1.3 ke alamat ip
+notebook. alamat ip notebook dilihat terlebih dahulu
+karena ip dinamis.
+7) Mengecek koneksi dari Wireless Network Connection
+dari server aplikasi ke smartphone dengan melakukan
+ping dari server aplikasi, alamat ip 192.198.1.3 ke ip
+smartphone. alamat ip smartphone dilihat terlebih
+dahulu karena ip dinamis.
+8) Mengecek modul arduino dengan membuka serial
+monitor dari IDE arduino.
+9) Mengecek database dengan bantuan aplikasi
+phpmyadmin dengan cara membuka tabel–tabel yang
+berisi data suhu dan denyut nadi apakah terisi dengan
+baik.
+10) Memeriksa halaman web dari notebook dan smartphone
+melalui browser menuju alamat
+http://192.168.1.3/ehealth.
+11) Membuka menu-menu sistem informasi dan
+mengujinya.
+12) Mencatat waktu proses pada masing-masing bagian.
+a. Pada bagian akuisisi data mencatat waktu proses
+dari saat pengukuran oleh sensor sampai hasil data
+disimpan di database,
+b. Pada bagian aplikasi web mencatat waktu proses
+dari saat pengambilan data di database hingga
+ditampilkan di web.
+c. Pada bagian SMS gateway mencatat waktu proses
+dari saat data masuk ke database sampai informasi
+diterima pengguna.
+13) Melakukan evaluasi data atas hasil pengujian sistem.
+14) Evaluasi pada hasil pengukuran sistem dilakukan
+menggunakan uji signifikansi t test untuk
+membandingkan hasil pengukuran sistem dengan
+pengukuran manual. Nilai t hitung didapatkan dari
+“(1)”. Nilai t tersebut dapat juga didapatkan dari rumus
+statistik yang ada pada Excell. Pengujian t test tersebut
+menggunakan tingkat signifikansi 5%.
+r:...
+n1 dan n2 adalah banyaknya data dari sampel 1 dan 2
+s adalah pooled standard deviation, didapatkan dari “ (2)”.
+r:...
+df adalah derajat bebas (degree of freedom) = (n1 + n2 –
+2)
+III. HASIL PENELITIAN DAN PEMBAHASAN.
+A. Hasil Pengujian Akses Informasi dalam Waktu Nyata.
+Pada pengujian ini dilakukan dengan kondisi sebagai
+berikut.
+1) Sensor suhu DS18B20 dipasang dengan
+menggunakan resolusi ketelitian 12 bit.
+2) Serial arduino dipasang dengan kecepatan 9600 bps.
+3) Pemasangan perangkat dengan topologi jaringan
+seperti ditunjukkan pada Gbr. 6.
+4) Hubungan perangkat arduino, ethernet shield dan
+sensor ditunjukkan seperti pada Gbr. 7.
+5) Pemasangan perangkat di tubuh pasien ditunjukkan
+seperti pada Gbr. 8. Sensor denyut nadi dipasang di
+ujung jari, sensor suhu diletakkan di ketiak.
+
+
+Dari hasil pengujian didapatkan bahwa waktu yang
+dibutuhkan untuk proses pengambilan data dari fisik pasien
+sampai masuk ke dalam database rata-rata 3 detik.
+Hasil pengujian digambarkan dengan grafik seperti
+ditunjukkan pada Gbr. 9.
+
+
+IV.KELEBIHAN DAN KETERBATASAN SISTEM
+A. Kelebihan Sistem
+1) Prototipe sistem pemantau kesehatan pasien ini mudah
+dipasang dimana saja, karena ukurannya kecil dan tidak
+membutuhkan ruangan yang besar.
+2) Sensor-sensor dipasang di tubuh pasien selama
+pemantauan sehingga dapat mengatasi keterbatasan
+jumlah tenaga medis serta mengurangi waktu
+pengukuran sehingga lebih efisien.
+3) Untuk melihat informasi kondisi kesehatan pasien,
+dapat menggunakan personal computer/ PC, notebook,
+tablet, smartphone atau perangkat-perangkat bergerak
+lainnya yang dapat menampilkan web browser yang mendukung aplikasi flash sehingga dapat diakses dari
+mana saja (anywhere).
+4) Informasi kondisi kesehatan pasien dapat dilihat
+sewaktu-waktu (anytime) dalam waktu nyata (realtime).
+5) Hasil informasi kondisi kesehatan pasien langsung
+berupa visualisasi dalam bentuk grafik sehingga mudah
+digunakan sebagai dasar pemantauan.
+6) Hasil informasi kondisi kesehatan pasien dapat
+dipertanggungjawabkan (accurate).
+7) Prototipe sistem pemantau kesehatan pasien ini
+menggunakan sensor suhu DS18B20 yang bisa
+dirangkai secara paralel dengan menggunakan teknologi
+OneWire. Dengan demikian sangat memudahkan dalam
+penambahan sensor. Untuk penambahan sensor tidak
+perlu melakukan penambahan arduino sehingga lebih
+murah.
+8) Sistem dibuat dengan tampilan yang mudah dimengerti
+sehingga memudahkan petugas ataupun keluarga pasien
+yang diberi akses untuk melihat,.
+9) Apabila diperlukan keluarga pasien dapat melihat
+informasi kondisi kesehatan pasien dari luar ruang
+perawatan sehingga mengurangi kontak fisik antara
+pasien dengan pihak luar yang berarti mengurangi
+resiko terjadinya infeksi pada pasien serta mengurangi
+gangguan dari suara-suara pengunjung.
+B. Keterbatasan Sistem
+1) Sensor yang memberikan informasi tanda vital tubuh
+(vital signs) belum semua terpasang, baru 2 (dua)
+sensor yang terpasang yaitu sensor suhu dan sensor
+denyut nadi.
+2) Kondisi fisik pasien belum terlihat secara visual.
+3) Database yang digunakan untuk menyimpan data-data
+dari sensor masih tersimpan secara lokal di tempat
+pengukuran, belum menggunakan sistem dengan
+database yang terpusat.
+4) Jalur dari ethernet shield ke server masih menggunakan
+kabel
+5) Perlu pelatihan tambahan untuk tenaga medis yang
+bekerja bila di daerah kekurangan petugas.
+V. KESIMPULAN DAN SARAN
+A. Kesimpulan
+Berdasarkan hasil penelitian yang diperoleh selama
+melakukan penelitian maka dapat diambil kesimpulan sebagai
+berikut:
+1) Sistem pemantau kondisi kesehatan berbasis web mampu
+menampilkan informasi suhu dan denyut nadi pasien
+hingga ke halaman web dalam bentuk angka maupun
+grafik dalam waktu rata-rata 28 detik, sedangkan informasi
+adanya alarm yang dikirim melalui SMS dapat diterima
+rata-rata 62 detik, sehingga sistem pemantau kondisi
+kesehatan berbasis web mampu memberikan informasi
+dalam waktu nyata (real-time).
+2) Sistem pemantau kondisi kesehatan berbasis web dapat
+diakses dari berbagai macam perangkat seperti notebook,
+smartphone dan perangkat yang mendukung aplikasi flash
+di web, sehingga sistem ini dapat diakses dimana saja
+(anywhere). Selain itu sistem ini juga dapat diakses kapan
+saja (anytime)
+3) Sistem pemantau kondisi kesehatan berbasis web mampu
+mengukur suhu tubuh maupun denyut nadi dengan tidak
+ada perbedaan bermakna dibandingkan dengan pengukuran
+manual pada tingkat signifikansi 5% (p>0,05), sehingga
+sistem ini dapat menghasilkan informasi medis yang dapat
+dipercaya / akurat (accurate).
+B. Saran
+Beberapa hal yang dapat dikembangkan supaya prototipe
+ini bisa menjadi lebih baik antara lain.
+1) Informasi tanda vital tubuh (vital signs) yang lain dapat
+ditampilkan pada monitor, dengan menambahkan sensor
+yang sesuai, seperti:
+a. Informasi untuk memantau oksigen saturasi (SpO2).
+b. Informasi tekanan darah.
+c. Informasi tambahan di luar vital signs adalah EKG
+(electrocardiogram) untuk memonitor aktivitas
+jantung secara elektrik.
+2) Kondisi fisik pasien dapat ditampilkan/ dimonitor secara
+visual dengan menambahkan kamera (ip cam).
+3) Prototipe sistem dapat dikembangkan dengan
+menggunakan sistem database yang terpusat.
+4) Jalur dari ethernet shield ke server dapat diganti nirkabel
+dengan mengganti perangkat ethernet shield dengan wifi
+shield supaya lebih fleksibel serta lebih memudahkan
+instalasi.

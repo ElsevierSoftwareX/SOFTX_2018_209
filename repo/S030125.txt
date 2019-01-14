@@ -1,0 +1,156 @@
+﻿ABSTRAK
+Di antara negara Asia Tenggara, Indonesia adalah negara dengan pertumbuhan
+properti hunian tertinggi sepanjang tahun 2013, di atas Malaysia dan Singapura.
+Pertumbuhan properti didukung rencana pemerintah dalam pembangunan
+infrastruktur.
+PT PD merupakan perusahaan properti di Surabaya, yang tergabung dalam grup
+pengembang terkemuka di Surabaya dan Jakarta. Pada tahun 2012 - 2013 PT PD
+mengalami lonjakan pemesanan rumah yang menimbulkan kewajiban untuk
+menyerahkan rumah jadwal, desain serta kualitas sesuai yang telah dijanjikan. Terdapat
+hambatan yang dapat menyebabkan proyek tidak terlaksana tepat waktu sehingga
+penyerahan rumah ke pembeli terlambat dan tidak sesuai dengan desain dan kualitas
+yang dijanjikan.
+Penelitian ini bertujuan menganalisa dengan menggunakan EMV terhadap
+risiko yang pernah terjadi pada proses pembangunan 282 rumah tahun 2012-2013 di
+PT PD dan menentukan respon/usaha utuk mengurangi kejadian risiko dan kerugian
+perusahaan akibat kejadian risiko usaha. Penelitian dimulai dengan klasifikasi dan
+variabel resiko, deskripsi dan pengukuran dampak resiko dengan EMV, serta mitigasi
+resiko.
+Resiko dalam pembangunan rumah diklasifikasikan ke dalam 21 variabel resiko
+yaitu 12 variabel resiko kegiatan desain, 4 variabel resiko kegiatan pengadaan dan 5
+variabel resiko kegiatan konstruksi. Variabel resiko dengan EMV terbesar dari masingmasing
+klasifikasi resiko adalah : Gambar struktur tidak sesuai untuk dinding belakang
+(D5), Prosedur tender tidak benar (P1), dan Supervisor pengawas masih baru dan tidak
+mengisi check list dengan benar (K4).
+
+BAB I
+PENDAHULUAN
+1.1. Latar Belakang
+Indonesia memimpin Asia Tenggara (ASEAN) dalam daftar negara
+dengan pertumbuhan properti hunian tertinggi sepanjang 2013. Dalam daftar
+Global House Price Index keluaran Knight Frank, Indonesia tercatat mengalami
+pertumbuhan harga rumah tahunan dua digit, yakni sebesar 11,5% pada kuartal
+keempat 2013 dari periode yang sama tahun sebelumnya. Posisi Indonesia jauh di
+atas Malaysia (10,1%), dan Singapura (1,9%).
+Survei Harga Properti Residensial terbitan Bank Indonesia menunjukkan
+penjualan properti residensial pada kuartal II 2014 tumbuh 36,65%
+dibandingkan kuartal I 2014 sebesar 15,33% (quarter to quarter). Peningkatan
+penjualan terutama terlihat untuk rumah tipe menengah, yang disebabkan masih
+tingginya kebutuhan terhadap hunian. Peningkatan penjualan properti
+juga tercermin dari penyaluran kredit pemilikan rumah (KPR) dan kredit
+pemilikan apartemen (KPA) pada kuartal II yang naik 5,9% dibandingkan kuartal
+sebelumnya.
+Prospek bisnis properti tahun 2015 diprediksi tetap tumbuh positif, bahkan
+diperkirakan bakal terangkat seiring pembangunan proyek infrastuktur oleh
+Pemerintahan Jokowi-JK. Pemerintahan Jokowi-JK telah memasang rencana
+pembangunan jalan tol sepanjang 1.000 kilometer (km), jalan baru 2.650 km, dan
+pemeliharaan jalan 46.770 km. Tidak hanya itu, pemerintah berencana
+
+membangun 15 bandara baru, 24 pelabuhan baru, jalur kereta api (KA) sepanjang
+3,258 km di Jawa, Sumatera dan Kalimantan. Pemerintah juga akan membangun
+bus rapid transit (BRT) di 29 kota dan membangun angkutan massal cepat di
+kawasan perkotaan, yaitu di enam kota metropolitan dan 17 kota besar.
+“Dukungan pemerintah menumbuhkan optimisme industri untuk tetap tumbuh
+signifikan. Dengan itu, saya yakin sektor properti akan makin diminati sebagai
+piihan investasi terbaik,” ucap Direktur Utama PT Pancanaka Indonesia,
+Muhammad Sulhan Fauzi. (Baca : Pengembang Optimistis Industri Properti
+Bertumbuh).
+PT PD berdiri sejak tahun 1983 adalah perusahaan properti yang memiliki
+tanah di Surabaya Barat dan Timur. Perusahaan tergabung dalam grup
+pengembang terkemuka di Surabaya dan Jakarta. Pertumbuhan pendapatan
+perusahaan sejak tahun 2010 sampai dengan 2014 sebesar CAGR 31%
+merupakan bukti keberhasilan perusahaan dalam mengelola perusahaannya
+Perumahan PD yang telah berkembang pesat terletak di Surabaya Timur
+dan Barat, merupakan hunian yang eksklusif terbagi dalam beberapa cluster
+dengan lokasi dan fasilitas yang premium yaitu club house, ballroom, education
+center, mall, lapangan golf, jalan yang lebar dan resor serta entertainment yang
+melengkapi fasilitas perumahan menjadikan perumahan tersebut pilihan yang
+tepat untuk kalangan menengah keatas. Perumahan PT PD berdekatan dengan
+pusat perbelanjaan terkemuka baik di Surabaya Timur maupun di Surabaya Barat,
+menyempurnakan fasilitas yang dimiliki Perusahaan serta memberikan jaminan
+kenaikan nilai investasi bagi pembelinya. Perusahaan masih memiliki sejumlah
+
+cadangan tanah di Surabaya Timur dan Barat yangjuga berdekatan dengan
+perumahan terkemuka di Surabaya. Kenaikan “Marketing Sales” perusahaan dari
+tahun 2010 sampai dengan 2014 adalah sebesar CAGR 42 %.
+Di sisi lain lonjakan pemesanan rumah menimbulkan kewajiban untuk
+menyerahkan rumah dengan jadwal, design serta kualitas sesuai yang telah
+dijanjikan. Ketepatan waktu pembukaan suatu lahan baru, pematangan tanah dan
+pengembangan infrastruktur serta pembangunan rumah sangat berperan untuk
+suatu perusahaan properti agar tetap terjamin kenaikan nilai properti serta
+kemampuan bersaing dalam industri properti. Cara yang dapat dilakukan untuk
+tetap terbaik dalam kompetisi adalah dengan memberikan servis/pelayanan yaitu
+dengan melaksanakan proyek sesuai dengan jangka waktu dan spesifikasi yang
+telah ditetapkan pada pesanan penjualan, sehingga hubungan baik dengan
+pelanggan (customer relation) tetap dapat dipertahankan.
+Dalam pelaksanaan proyek tersebut seringkali terdapat hambatanhambatan
+yang pada akhirnya dapat menyebabkan proyek tidak dapat terlaksana
+sesuai dengan waktu yang direncanakan sehingga penyerahan rumah ke pembeli
+pun terlambat dan tidak sesuai dengan design dan kualitas yang dijanjikan.
+Hambatan utama adalah resiko serta ketidakpastian yang dapat berasal baik dari
+dalam maupun luar perusahaan, yaitu resiko di setiap tahapan pembangunan mulai
+dari perencanaan desain, penyusunan Rencana Anggaran Biaya (RAB), urutan/
+cara dan jadwal pengerjaan, tender pekerjaan untuk penentuan kontraktor yang
+qualified, penentuan material dan ketersediaan supply dan ketersediaan human
+
+resources seperti project manager, construction manager dan supervisor proyek
+yang qualified untuk memonitor pekerjaan di lapangan.
+Kesalahan dalam design, resiko dalam penunjukan kontraktor, kesalahan
+pemilihan material, keterlambatan material, urutan/ cara pengerjaan rumah tidak
+sesuai dengan yang direncanakan dan supervisi project manager dan team atas
+kontruksi tidak cermat akan menyebabkan kenaikan biaya konstruksi yaitu
+pengerjaan ulang serta keterlambatan dari jadwal pekerjaan yang sudah
+ditetapkan, yang ujungnya akan berakibat pada keterlambatan penyerahan rumah
+kepada pembeli/ konsumen. Pada tahun 2012 dan 2013, biaya dampak dari
+kesalahan tersebut (termasuk opportunity cost) adalah sebesar Rp 17.627.680.712
+(Tujuh belas milyar enam ratus dua puluh tujuh ribu enam ratus delapan puluh
+ribu tujuh ratus dua belas rupiah).
+Resiko dapat memberikan pengaruh yang besar terhadap produktivitas,
+kinerja, kualitas dan biaya dari proyek. Kompleksitas desain dan perencanaan,
+ketersediaan sumber daya, iklim lingkungan, lingkungan ekonomi dan politik,
+serta peraturan perundang-undangan adalah contoh ketidakpastian yang akan
+dihadapi untuk proyek-proyek dengan skala besar. Ketidakpastian tersebut, jika
+tidak dikelola dengan baik akan mempengaruhi proyek secara keseluruhan, baik
+dari segi financial seperti realisasi biaya jauh di atas Rencana Anggaran Biaya
+(RAB) yang menyebabkan kenaikan harga pokok rumah yang pada akhirnya
+berpengaruh pada marjin perusahaan, dan dampaknon-financial seperti reputasi/
+image yang kurang baik karena kualitas rumah serta keterlambatan
+penyerahannya.
+
+Permasalahan-permasalahan di atas yang menyebabkan perusahaan
+memerlukan sebuah teknik yang efisien yang dapat memitigasi resiko-resiko yang
+muncul pada saat proyek dilaksanakan, yaitu manajemen resiko. Sehingga dengan
+mitigasi resiko, perusahaan semakin berkembang yang pada akhirnya
+meningkatkan keuntungan perusahaan. Mitigasi resiko adalah proses
+penggabungan pencegahan kerugian atau kehilangan kontrol untuk mengurangi
+resiko (Berk, 2012). Program manajemen resiko pertama-tama bertugas
+mengidentifikasikan resiko-resiko yang dihadapi, sesudah itu mengukur atau
+menentukan besarnya resiko itu dan kemudian barulah dapat dicarikan jalan untuk
+menghadapi atau menangani resiko itu (Darmawi, 2014). Implementasi dari
+manajemen resiko ini membantu perusahaan dalam mengidentifikasi resiko sejak
+awal dan membantu membuat keputusan untuk mengatasi resiko tersebut
+(Australia/New Zealand Standards, 2004), selain itu juga membantu perusahaan
+dalam memberikan pemahaman yang jelas resiko-resiko yang spesifik terkait
+proyek, menciptakan data historis untuk membantu prosedur manajemen resiko di
+masa depan (Smith, Merna, Jobling, 2006).
+1.2. Rumusan Masalah
+Berdasarkan latar belakang dan identifikasi permasalahan di atas, maka
+rumusan masalah pada penelitian ini adalah:
+1. Evaluasi dan analisa biaya resiko yang terjadi pada pembangunan rumah
+di PT PD dengan menggunakan metode Expected Monetary Value (EMV).
+2. Respon yang tepat untuk memitigasi resiko sehingga kerugian perusahaan
+dapat diminimalkan.
+
+1.3. Tujuan Penelitian
+Tujuan penelitian ini adalah:
+1. Menganalisa dengan menggunakan EMV terhadap resiko yang pernah
+terjadi pada proses pembangunan rumah di Perumahan PT PD.
+2. Menentukan respon/ usaha yang tepat utuk memitigasi kejadian resiko dan
+kerugian perusahaan akibat kejadian resiko tersebut.
+1.4. Manfaat Penelitian
+1. Dengan mengetahui respon/ usaha yang tepat dalam pengelolaan esiko
+maka manajemen PT PD dapat memperkecil kemungkinan (probability)
+dan dampak (impact) terhadap resiko yang ada hingga pada tingkat yang
+dapat diterima (acceptable).
+2. Potensi kerugian perusahaan dapat dikurangi dengan dilakukan respon
+resiko yang tepat dan sesuai.

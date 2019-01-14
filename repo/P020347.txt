@@ -1,0 +1,57 @@
+﻿
+ ABSTRAK 
+Sistem pakar adalah sistem berbasis komputer yang menggunakan pengetahuan, fakta, dan teknik penalaran dalam memecahkan masalah yang biasanya hanya dapat dipecahkan oleh seorang pakar dalam bidang tertentu. Penerapan metode fuzzy - Mamdani dalam sistem pakar bertujuan untuk merepresentasikan pengetahuan pakar pada lingkungan yang tidak pasti, tidak lengkap, dan sangat kompleks. Salah satu aplikasi dari sistem pakar dengan menggunakan fuzzy-Mamdani adalah untuk mendeteksi penyakit jantung koroner ( PJK ). PJK merupakan pembunuh nomor satu di Indonesia. Jumlah pasien yang begitu banyak membuat peran tenaga medis seringkali mengalami keterbatasan dalam pendeteksian PJK. Dalam tugas akhir ini dibuat program aplikasi sistem pakar untuk mendeteksi penyakit jantung koroner dengan menggunakan fuzzy– Mamdani. Faktor – faktor resiko yang mempengaruhi timbulnya penyakit jantung koroner adalah usia, kadar LDL, kadar kolesterol total, kadar HDL, kadar trigliserida, tekanan darah sistolik, dan tekanan darah diastolik. Dari faktor resiko tersebut akan diperoleh output presentase resiko seseorang terkena penyakit jantung koroner. 
+Kata kunci : Sistem pakar, fuzzy – Mamdani, penyakit jantung koroner
+
+
+
+ BAB I 
+PENDAHULUAN 
+1.1 LATAR BELAKANG 
+
+Pengidap penyakit jantung di Indonesia terus meningkat, menurut dr M. Arif Nugroho, Sp.JP, FIHA penyakit jantung koroner (PJK) merupakan pembunuh nomor satu di Indonesia. PJK adalah penyakit jantung yang disebabkan oleh penyempitan arteri koroner, mulai dari terjadinya kekakuan arteri (akterosklerosis) maupun yang sudah terjadi penimbunan lemak (plaque) pada dinding arteri koroner, baik disertai gejala klinis atau tanpa gejala sekalipun. Pendeteksian PJK membutuhkan biaya yang mahal sehingga banyak orang tidak peduli dengan kesehatan jantungnya, akibatnya banyak penderita PJK yang terlambat mendapatkan penanganan. 
+Ada beberapa faktor yang menyebabkan seseorang berpotensi terkena serangan jantung, seperti merokok, pola makan, tekanan darah tinggi, diabetes melitus, kurang olahraga, obesitas, riwayat keluarga, dan sebagainya. Penderita PJK yang kadar kolesterolnya di atas normal, frekuensi makannya dua kali dalam sehari sedangkan yang kadar kolesterolnya di bawah rata-rata, frekuensi makannya tiga kali dalam sehari. 
+
+Namun bukan tidak mungkin penyakit ini bisa dicegah. Cara pencegahannya dengan bergaya hidup sehat. Ini dapat dilakukan dengan olahraga teratur, tidak merokok, pola makan yang teratur, rutin memeriksakan kesehatan jantung, dan sebagainya. Peningkatan pengetahuan dan perubahan perilaku pada masyarakat dapat dilakukan dengan penyuluhan dan pendidikan kesehatan. Dengan begitu, masyarakat dapat memahami PJK dan cara menghindarinya agar tidak terjangkit. 
+Dalam hal ini peran dokter sangat diperlukan, namun seringkali dokter mengalami keterbatasan dalam melakukan konsultasi penyakit dengan pasien yang jumlahnya begitu banyak. Untuk itu, dibangun suatu aplikasi sistem pakar yang dapat mendeteksi PJK menggunakan fuzzy-Mamdani. Penerapan fuzzy-Mamdani dalam sistem pakar bertujuan untuk merepresentasikan pengetahuan pakar pada lingkungan yang tidak pasti, tidak lengkap, dan sangat kompleks. 
+
+Aplikasi sistem pakar ini diharapkan dapat membantu dokter dalam pendeteksian PJK. Namun sistem pakar untuk mendeteksi PJK menggunakan fuzzy-Mamdani bukanlah untuk menggantikan peran seorang dokter, akan tetapi hanya digunakan sebagai pelengkap dan alat bantu yang masih terbatas karena aplikasi ini bekerja tidak seperti halnya seorang dokter yang dapat mendiagnosis penyakit dengan suatu aksi atau gerakan. Penelitian ini diharapkan dapat membantu masyarakat, mahasiswa kedokteran atau dokter muda dalam melakukan diagnosis terhadap PJK. 
+1.2 PERUMUSAN MASALAH 
+
+Berdasarkan paparan-paparan di atas, penulis mencoba menggali rumusan masalah, yaitu “Bagaimana merancang suatu aplikasi sistem pakar untuk mendeteksi PJK menggunakan fuzzy-Mamdani”. 
+
+1.3 PEMBATASAN MASALAH 
+Agar pembahasan tidak meluas maka perlu pembatasan masalah yang akan dikaji, yaitu : 
+1. Aplikasi sistem pakar yang dibuat menggunakan bahasa pemrograman Matlab dan tidak terhubung ke dalam jaringan (lokal maupun internet). 
+2. Variabel untuk mendeteksi PJK yaitu berdasarkan usia, kadar LDL, kadar kolesterol total, kadar HDL, kadar trigliserida, tekanan darah sistolik, tekanan darah diastolik. Tidak akan dibahas mengenai PJK secara mendalam. 
+3. Memberikan hasil seberapa persen seseorang dapat terkena PJK. 
+4. Hanya akan dibahas mengenai fuzzy-Mamdani. 
+5. Menggunakan waterfall sebagai model pengembangan sistem. 
+6. Dokter umum, dokter muda, mahasiswa kedokteran bertindak sebagai user dari aplikasi ini. 
+7. Defuzzifikasi menggunakan metode centroid. 
+
+1.4 TUJUAN PENULISAN 
+Tujuan penulisan Tugas Akhir ini adalah : 
+1. Mengidentifikasi PJK menggunakan sistem pakar. 
+2. Menghasilkan software aplikasi berbasis sistem pakar fuzzy-Mamdani untuk mendeteksi PJK. 
+3. Memberikan hasil seberapa persen seseorang dapat terkena PJK.
+
+1.5 MANFAAT PENULISAN 
+Manfaat penulisan tugas akhir ini adalah : 
+1. Sebagai bahan untuk menambah pengetahuan dan wawasan yang diperoleh dibangku kuliah tentang penerapan sistem pakar. 
+2. Mendapatkan cara yang lebih efisien dalam mendeteksi PJK dengan mengaplikasikan software sistem pakar untuk mendeteksi PJK tersebut. 
+3. Menjadi bahan dan kerangka acuan bagi mahasiswa serta sebagai tambahan pustaka mengenai sistem pakar. 
+
+1.6 SISTEMATIKA PENULISAN 
+Sistematika penulisan yang digunakan dalam tugas akhir ini terbagi menjadi beberapa pokok bahasan, yaitu : 
+BAB I : PENDAHULUAN 
+Bab ini berisi tentang latar belakang masalah, perumusan masalah, pembatasan masalah, tujuan penulisan, manfaat penulisan dan sistematika penulisan. 
+BAB II : TEORI PENUNJANG 
+Bab ini berisi penjelasan mengenai PJK, Artificial Intelligence, Sistem Pakar, logika Fuzzy dan Matlab. 
+BAB III : PEMBAHASAN 
+Bab ini membahas proses analisis dan perancangan aplikasi yang berisi analisis sistem pakar, mulai dari identifikasi masalah, perancangan data dan proses, serta perancangan antar muka. 
+
+BAB IV : IMPLEMENTASI DAN PENGUJIAN 
+Bab ini membahas tahap implementasi dan pengujian yang berisi implementasi fungsi, implementasi antarmuka, dan pengujian aplikasi deteksi PJK. 
+BAB V : PENUTUP 
+Bab ini berisi kesimpulan yang berkaitan dengan aplikasi yang dibuat dan saran untuk pengembangan lebih lanjut.

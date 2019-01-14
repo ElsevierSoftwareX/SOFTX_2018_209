@@ -1,0 +1,943 @@
+﻿NodeXL dalam Penelitian Jaringan Komunikasi
+Berbasis Internet
+
+Abstrak: Paradigma determinisme teknologi yang dikembangkan oleh Toronto School mengamini
+bahwa teknologi memengaruhi bentuk komunikasi sekaligus memunculkan implikasi tersendiri.
+Salah satu implikasi tersebut adalah terbentuknya komunitas-komunitas virtual di internet. Artikel
+ini mengulas penggunaan salah satu perangkat lunak yang dikembangkan untuk menangkap
+fenomena tersebut, baik secara teoritis maupun aplikasinya di bidang Ilmu Komunikasi. NodeXL,
+perangkat lunak open source yang dikembangkan oleh beberapa pakar dari Oxford Internet
+Institute dan Stanford University, menawarkan sebuah wacana penelitian baru. Tulisan ini
+bertujuan mengenalkan penggunaan NodeXL kepada kalangan akademikus tentang untuk analisis
+jaringan komunikasi di internet.
+Kata Kunci: analisis jaringan komunikasi, CMC, NodeXL, Toronto School
+Selama ini, penelitian mengenai jaringan
+komunikasi terbatas pada arus informasi
+dalam komunikasi kelompok atau
+komunikasi antar pribadi melalui interaksi
+langsung (tidak termediasi). Tulisan ini
+ingin mengenalkan metode penelitian
+jaringan komunikasi pada media sosial,
+khususnya, dan computer mediated
+communication, umumnya.
+Teori determinisme teknologi
+menjabarkan bahwa teknologi merupakan
+pangkal perubahan kehidupan masyarakat.
+McLuhan menyatakan bahwa medium is
+the message, artinya media komunikasi
+yang digunakan oleh masyarakat menandai
+peradaban pada masa itu. McLuhan (dalam
+Griffin, 2003, h. 342-343) menyusun
+sejarah perkembangan masyarakat menjadi
+empat era, yaitu era kesukuan, era tulisan,
+era cetak, dan era elektronik.
+Sejarah menunjukkan perubahan besar
+akibat penemuan teknologi baru. Di Eropa, abad ke-15, pemakaian mesiu, penemuan
+mesin cetak, dan kompas menjadi prasyarat
+perkembangan masyarakat modern (Suseno,
+1992, h. 59). Menurut Hamersma, seperti
+dinyatakan Suseno (1992, h. 59), penemuan
+mesiu menandai titik akhir kekuasaan
+feodal, penemuan mesin cetak mengakhiri
+eksklusivitas pengetahuan, dan penemuan
+kompas memungkinkan penjelajahan yang
+lebih luas. Lebih lanjut, Frans Magnis
+Suseno berpendapat bahwa penemuan ketiga
+teknologi tersebut berhubungan erat dengan
+tiga hal selanjutnya, yaitu kapitalisme,
+subjektivitas modern, dan rasionalisme.
+Perubahan teknologi komunikasi
+berjalan linier dengan perkembangan
+masyarakat. Tehrain (dalam Nugroho,
+2010, h. 24-25) melakukan pemetaan
+perkembangan tersebut secara jelas. Dia
+menjelaskan keterkaitan antara perubahan
+struktur masyarakat, teknologi komunikasi,
+paradigma kultural, kepemimpinan elit,
+komunikasi mobilitif, dan insitusi
+komunikasi akumulatif .
+Tabel 1 menjelaskan paparan Tehrain
+terkait perubahan teknologi komunikasi
+dan dampaknya pada struktur masyarakat.
+Muncul dan berkembangnya komunitas
+masyarakat tersebut linier dengan
+perkembangan dan perubahan penggunaan
+teknologi komunikasi. Masyarakat
+band merupakan masyarakat prabicara.
+Masyarakat ini melakukan komunikasi
+melalui sistem tanda yang belum dapat
+dikategorikan sebagai ‘berbicara’.
+Kekuatan magic merupakan paradigma
+kultural yang paling dominan pada masa
+ini. Pemimpin masyarakat adalah mereka
+yang bertubuh besar, kuat secara  sik, dan
+dianggap mampu melindungi masyarakat.
+Pada perkembangan selanjutnya, media
+komunikasi muncul saat masyarakat tribal
+mulai berbicara. Komunitas masyarakat
+tribal dipimpin oleh seorang raja atau chief.
+
+
+
+
+
+
+
+Tabel 1 Revolusi Komunikasi dan Perubahan Historis: Suatu Pandangan Sistematis
+Sistem/struktur secara
+umum
+Teknologi
+Komunikasi/
+Media
+Paradigma kultural/
+epistemologis
+integratif
+Kepemimpinan elit
+komunikasi mobilitif
+Institusi/struktur
+komunikasi akumulatif
+Masyarakat Band Prabicara Magic supernatural Orang besar Hunting bands
+Masyarakat Tribal Bicara Mitologi alam Raja/chief Tribal
+Masyarakat Agraris Tulisan Agama: kata-kata Kependetaan Gereja
+Masyarakat
+Komersial Perkotaan
+Percetakan Sains Ilmuwan Universitas/polls
+Masyarakat Industri
+Media massa
+(cetak &
+elektronik)
+Ideologi: tindakan Ideologi/pembujuk
+Organisasi massa:
+pabrik, perusahaan,
+parpol, serikat buruh
+Masyarakat Pasca
+Industrial
+Cybernetic Teknologi: program Teknolog
+Perusahaan
+transnasional, birokrasi
+pemerintah, litbang
+Masyarakat Informasi
+Komputersatelit
+Informatik: pilihan Pekerja informasi
+Jaringan komunikasi
+elektronik: data base
+tersentralisir dan
+pondok elektronik
+Sumber: Tehrain (dalam Nugroho, 2010, h. 24-25)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pada masa ini, muncul mitologi-mitologi
+alam yang digunakan sebagai paradigma
+kultural dan penyatu masyarakat.
+Masyarakat pun mulai mengenal agama.
+Kemudian, masyarakat agraris mulai
+menetap, bercocok tanam, dan mengenal
+tulisan sebagai media komunikasi. Agama
+muncul sebagai paradigma kultural yang
+sangat dominan. Hal-hal yang disampaikan
+oleh pemimpin agama atau tertulis di kitab
+suci menjadi pedoman tertinggi perilaku
+masyarakat. Gereja pun muncul sebagai
+institusi komunikasi akumulatif yang
+sangat penting bagi masyarakat (Eropa).
+Era tulisan berkembang pesat setelah
+alat percetakan ditemukan. Sains lahir dan
+menggeser peran sentral agama sebagai
+jawaban atas persoalan masyarakat.
+Ilmuwan muncul menjadi  gur pemimpin
+di masyarakat. Scholae, seminarium, dan
+universitas berkembang menjadi institusi
+komunikasi akumulatif sentral dalam
+masyarakat.
+Kemunculan masyarakat industri
+didorong oleh perkembangan teknologi
+media cetak di awal kemunculan media
+massa. Ideologi menjadi paradigma
+kultural yang menyatukan masyarakat.
+Kepemimpinan tidak lagi terletak pada
+orang tertentu. Masyarakat digerakkan oleh
+berbagai ideologi yang disebarkan melalui
+media massa. Konsumerisme merupakan
+salah satu ideologi yang menggerakkan
+masyarakat. Kebutuhan baru diciptakan
+oleh kaum kapitalis melalui periklanan
+demi terjualnya komoditas-komoditas
+yang jumlahnya berlebih karena diproduksi
+massal dengan teknologi industrial. Pabrik
+dan organisasi buruh menjadi institusi
+dominan dan pusat kegiatan masyarakat.
+Masyarakat pasca industri berkomunikasi
+melalui jaringan cybernetic.
+Teknologi menjadi paradigma kultural
+dominan. Program software banyak
+membantu kerja manusia. Teknolog
+menjadi pemimpin masyarakat. Perusahaan
+transnasional, birokrat pemerintah, serta
+divisi penelitian dan pengembangan
+(litbang) menjadi institusi yang diacu
+masyarakat. Kita bisa merasakan peran
+publikasi rating AC Nielsen menjadi
+patokan utama media dalam menentukan
+jumlah penonton program televisi.
+Lancarnya penyebaran informasi
+berkat dukungan infrastruktur media
+massa yang semakin bagus memunculkan
+masyarakat informasi. Masyarakat ini
+menjadikan teknologi komputer dan
+satelit sebagai tumpuan perkembangan
+medium komunikasi. Informatika menjadi
+paradigma kultural dominan. Jaringan
+komunikasi elektronik pun menjadi institusi
+dominan dalam masyarakat. Para pemilik
+media informasi dan pekerja di bidang
+itu menjadi leader masyarakat. Besarnya
+kekuasaan para pengendali informasi ini
+mendorong kajian terhadap perkembangan
+teknologi komunikasi mutakhir dan
+fenomena komunikasi melalui internet.
+Saat ini, internet mampu menyediakan
+beragam cara berkomunikasi yang dapat
+menghubungkan orang-orang dari berbagai
+belahan dunia. Salah satunya adalah cara
+berkomunikasi dalam website jaringan
+sosial. Mengikuti istilah Castells, cara
+berkomunikasi ini muncul sebagai sebuah serendipity. Istilah ini digunakan Castells
+(2004; 2010) untuk menjelaskan bahwa
+terbentuknya sebuah jaringan komunikasi
+atau komunitas dalam dunia virtual
+sebagai sebuah kebetulan belaka. Teori
+ini memicu banyak pihak melakukan
+penelitian mendalam mengenai fenomena
+terbentuknya jaringan komunikasi dalam
+wujud komunitas virtual.
+Sebelum menelaah lebih jauh, kita patut
+mengetahui peta mengenai jenis komunikasi
+dalam media virtual. Choudhuri, dkk.
+(dalam Furht, 2010, h. 63-64), menyebutkan
+beberapa jenis komunikasi dalam jaringan
+sosial sebagai berikut:
+1. Messages
+Jenis komunikasi ini terdapat dalam
+situs sosial MySpace dan Facebook. Pada
+kedua situs jaringan sosial tersebut para
+pengguna dapat memanfaatkan  tur yang
+ada untuk mengirim pesan singkat pada
+pro l teman atau di “dinding” Facebook.
+Biasanya pesan tersebut singkat dan dapat
+dilihat secara terbuka oleh semua teman
+(kecuali pemilik akun memberlakukan
+setting khusus).
+2. Blog comments/replies
+Fitur comment dan reply yang disediakan
+berbagai website blogging, seperti
+Engadget, Huf ngton Post, Slashdot,
+Mashable, atau Meta lter memberikan bukti
+substansial mengenai proses komunikasi
+bolak-balik antar pengguna.
+3. Conversations around shared media
+artifact
+Beberapa situs sosial, seperti Flickr
+dan Youtube, memungkinkan penggunanya
+berbagi artefak. Melalui Flickr, pengguna
+dapat mengunggah sesuatu menggunakan
+kontak yang dimilikinya dan melihat umpan
+balik atau respons pengguna lain. Youtube
+memungkinkan penggunanya mengunggah
+video dan dapat mengklasi kasikannya
+dalam berbagai kategori. Kegiatan
+komunikasi di kedua website tersebut
+berpusat pada perbincangan tentang artefak
+media yang diunggah sebagai bentuk
+feedback atas media.
+4. Social actions
+Beberapa situs sosial, seperti Digg atau
+Del.icio.us, melibatkan partisipasi pengguna
+dalam berbagai aksi sosial. Digg, misalnya,
+memungkinkan pengguna memilih pada
+shared artikel, biasanya berita, melalui aksi
+sosial yang disebut “menggali”. Modus yang
+kurang lebih sama juga dimiliki Facebook,
+misalnya pada  tur status pengguna, foto,
+video, dan kemampuan berbagi link.
+5. Micro-blogging
+Jenis komunikasi ini terlihat pada
+Twitter. Situs sosial ini menyediakan  tur
+tweet yang dibatasi maksimal 140 karakter.
+Bentuk komunikasi khas Twitter adalah
+fasilitas @reply, @mention, hastag (#), dan
+ tur “RT” atau re-tweet. Fasilitas tersebut
+memungkinkan keleluasaan penyebaran
+informasi antarpengguna. Selain itu, seorang
+pengguna juga terkoneksi dengan pengguna
+lain melalui hubungan atensi (followers) dan
+informasi (friends). Bentuk jaringan arus
+komunikasi dan informasi tersebut telah
+membentuk sebuah network society.
+Tulisan ini menelaah jenis komunikasi
+yang terakhir dan berusaha menjawab pertanyaan utamanya, yaitu bagaimana Ilmu
+Komunikasi menangkap fenomena mricoblogging
+sebagai salah satu ranah kajian
+komunikasi? Fokus telaah bukan pada efek
+yang timbul, namun pada proses pembentukan
+jaringan komunikasi dalam media sosial.
+PEMBAHASAN
+Dari Penelitian Efek ke Analisis Jaringan
+Komunikasi
+Jauh sebelum munculnya konvergensi
+media, Rogers dan Kincaid (dalam Rogers,
+1986, h. 200) telah menyadari adanya arah
+tren komunikasi --yang seringkali lebih
+riil dalam menjelaskan realitas dari yang bersifat linier menjadi konvergen. Model
+komunikasi konvergen menggantikan
+model komunikasi linier. Di dalam hal
+ini, konvergen dapat diartikan sebagai
+kecenderungan dua atau lebih partisipan
+komunikasi (tidak lagi disebut komunikator
+dan komunikan) yang bergerak menuju
+fokus terciptanya pemahaman bersama.
+Proses komunikasi konvergen ini
+membutuhkan teknik analisis baru. Di dalam
+konteks komunikasi digital, teori efek mulai
+dirasa kurang dapat menangkap fenomena
+komunikasi kontemporer. Rogers (1986, h.
+204-205) menguraikan perbedaan antara
+analisis efek dan analisis jaringan (tabel 2).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tabel 2 Perbedaan Penelitian Efek dan Analisis Jaringan
+Communication Effects Research Communication Network Analysis
+The model upon which
+research is based
+Linear model Convergence model
+Unit of analysis Individuals Some type of interpersonal link
+Main dependent variabels Effects of communication (knowledge,
+attitudes, and/or overt behavior)
+1) Who interacts with whom
+2) Agreement and understanding among
+the individuals in the network
+Main independent variabels Characteristics of the individuals Indichies of communications structure
+(e.g. interconnectedness)
+Sumber: Rogers (1986, h. 204-205)
+
+
+
+
+
+
+
+
+Rogers (1986, h. 204-205) menjelaskan
+perbedaan signi kan antara model penelitian
+efek dan penelitian analisis jaringan melalui
+beberapa kategori, yaitu model dasar
+penelitian, unit analisis, variabel dependen
+utama, dan variabel independen utama.
+Model dasar penelitian efek bersifat
+linier, yaitu berjalan lurus dari satu titik ke
+titik lain dan pengaruh datang dari media
+menuju audiens. Penelitian efek berfokus
+pada pengaruh media massa pada individu
+sebagai unit analisis utama. Variabel
+dependen yang paling banyak diteliti adalah
+efek komunikasi yang meliputi pengetahuan,
+sikap dan perilaku. Sedangkan varibel bebas
+(independent) yang sering digunakan adalah
+karakteristik individual.
+Model penelitian analisis jaringan
+bersifat konvergen, yaitu komunikasi tidak
+dipandang sebagai proses yang berjalan
+lurus, namun melingkar. Penelitian berfokus
+pada keterhubungan interpersonal sebagai
+unit analisis utama. Perhatian penelitian
+analisis jaringan lebih pada siapa terhubung
+dengan siapa dan persoalan kesepahaman
+antarindividu dalam sebuah jaringan sebagai
+variabel dependen. Sedangkan variabel
+bebas yang khas adalah struktur komunikasi
+atau keterhubungan antarpeserta jaringan.
+Fokus perhatian pada jaringan
+komunikasi yang begitu luas ini telah
+menandai kelahiran era baru komunikasi.
+Di Indonesia, dalam konteks yang lebih
+spesi k, internet juga telah menumbuhkan
+bentuk baru jurnalisme, yakni online news.
+Jika McLuhan mengatakan bahwa medium
+is the message, maka Castells menangkap
+fenomena komunikasi berbasis internet ini
+dengan mengatakan bahwa network is the
+message (Castells, 2009, h. 339).
+Tiga Lapis Analisis Media Sosial
+Virtual Consulting (http://www.
+virtuco.co.id) membagi analisis terhadap
+media sosial dalam tiga level (gambar 2).
+Pada lapis pertama, kajian dilakukan
+terhadap media itu sendiri. Kajian tersebut
+melakukan evaluasi dan pengukuran
+kesuksesan sebuah akun (brand maupun
+pribadi) di media sosial. Tiga pengukuran
+yang dilakukan adalah reach, engagement,
+dan virality. Melalui ketiga pengukuran
+tersebut kinerja sebuah akun dapat diukur.
+Reach merupakan metric yang mengukur
+jangkauan akun terhadap audiens. Metric
+ini mengukur total fans/followers, total
+views, dan informasi mengenai demogra
+audiens untuk mengukur jangkauan.
+Engagement mengukur seberapa aktif
+akun tertentu membuat pesan (content) dan
+seberapa banyak feedback-nya. Sedangkan
+virality berupaya melihat keberhasilan
+sebuah kampanye atau pesan dengan topik
+tertentu yang dikelompokkan dalam hastag
+yang sama.
+Lapis kedua menganalisis percakapan
+yang terjadi di media sosial. Tahap analisis
+ini masih jarang dilakukan karena problem
+ketersediaan teknologi yang memadai.
+Selama ini, kita dapat melihat jumlah
+followers atau mentions, namun belum
+sampai pada isi yang dibicarakan dan
+kecenderungan isi dari tweet tersebut.
+Sementara itu, lapis tiga menganalisis
+jaringan komunikasi yang terjadi. Komunitas
+yang terbentuk membuka peluang untuk
+upaya koordinasi. Di dalam proses branding
+dan marketing, mengelola komunitas calon
+pelanggan merupakan langkah penting untuk
+meningkatkan image dan penjualan. Analisis
+ini dapat mengetahui orang atau akun
+paling berpengaruh dan mengidenti kasi
+jaringan komunikasi yang terjalin.
+Keberhasilan me nunjukkan visualisasi
+jaringan komunikasi akan membuka peluang
+terhadap kemungkinan-kemungkinan lain
+untuk menganalisis terbentuknya komunitas
+jaringan komunikasi.
+Penelitian Terdahulu: Social Network-
+Hyperlink Analysis
+Pada era 1990-an, Page Rank dan
+Hyperlink-Induced Topic Search (HITS)
+merupakan alat yang digunakan untuk
+melakukan pemetaan peringkat website.
+Perkembangannya, muncul berbagai
+software yang digunakan untuk melakukan
+pemetaan website dengan jangkauan
+analisis yang lebih luas dan tidak sekadar
+menentukan peringkat. Hal itu salah
+satunya didorong oleh hadirnya social
+media sebagai pengembangan konsep
+micro-blogging yang memungkinkan caracara
+berkomunikasi lebih luas. Penelitian
+yang dikembangkan untuk menangkap
+fenomena struktur jaringan komunikasi
+internet pun semakin luas.
+Pada bagian ini penulis banyak
+mengutip tulisan dari Han Woo Park
+(2003) dalam jurnal Connections Volume 25
+No. 1 yang berjudul “Hyperlink Network
+Analysis: A New Method for the Study
+of Social Structure on the Web”. Tulisan
+tersebut memberikan banyak uraian tentang
+berbagai penelitian yang menggunakan
+metode hyperlink analysis di beberapa
+bidang ilmu. Penulis akan menguraikan
+perkembangan social network analysis
+(SNA) dan mendeskripsikan beberapa
+penelitian terdahulu yang menggunakan
+metode tersebut.
+Tumbuhnya masyarakat informasi
+dengan komputer dan satelit sebagai
+teknologi komunikasi yang paling dominan
+mendorong lahirnya pekerja informasi
+sebagai pemimpin elit komunikasi
+mobilitif dan menentukan. Keberhasilan
+Presiden Amerika Serikat Barack Obama
+dalam memanfaatkan social media ketika
+memenangi pemilu sering digunakan
+sebagai contoh untuk menjelaskan
+fenomena tersebut.
+Bersamaan dengan perkembangan
+tersebut, menurut Tehrain, pangkalan data yang tersentralisir dan jaringan komunikasi
+elektronik telah tumbuh menjadi institusi
+akumulasi informasi paling dominan saat ini
+(dalam Nugroho, 2010, h. 24-25). Maka tidak
+mengherankan jika SNA tumbuh sebagai
+metode yang banyak digunakan untuk
+menganalisis berbagai fenomena Computer
+Mediated Communication (CMC).
+Hyperlink, sebagai koneksi, mewakili
+jaringan antara orang, organisasi, atau
+negara-bangsa. Di dalam penelitian ini,
+hyperlink mewakili jaringan antar portal
+news dengan situs lain. Melalui hyperlink,
+sebuah situs individu memainkan peran
+seorang aktor yang bisa memengaruhi
+kepercayaan situs lain, prestise, otoritas
+atau kredibilitas (Furht, 2010).
+NodeXL dan Metode Penelitian Analisis
+Jaringan Sosial
+NodeXL adalah sebuah program open
+source yang merupakan social network
+analysis plug in untuk Microsoft Excel
+2007 (http://www.codeplex.com/NodeXL).
+Program NodeXL diperuntukkan bagi
+para pemakai Excel agar dapat mudah
+mengadopsi program ini dengan pengurutan,
+penyaringan, dan penciptaan formula untuk
+menghasilkan visualisasi jaringan.
+Software ini merupakan hasil
+kolaborasi kerja antara Connected Action
+Consulting Group, Microsoft Research,
+University of Maryland, Cornell University,
+Stanford University, dan Oxford University
+(http://www.connectedaction.net).
+Penggunaan NodeXL meluas hingga
+analisis jaringan dan alat visualisasi
+dengan memasukkan perpustakaan metrik
+jaringan dasar (misalnya derajat, tindakan
+sentralitas, dan clustering dasar) dan gra k
+ tur visualisasi. Data dapat dimasukkan
+atau diimpor ke template NodeXL dan
+cepat ditampilkan sebagai gra k. Hal
+ini menjawab kebutuhan para peneliti
+dan masyarakat pada umumnya untuk
+menganalisis dan memvisualisasikan
+jaringan media sosial, email, thread,
+hyperlink analysis, Youtube, maupun Flikr
+(Smith, et. all., h. 2009).
+Data yang dikumpulkan dalam
+penelitian ini terfokus pada data egocentric
+network. Proses pengumpulan data pada
+software NodeXL tersebut menggunakan
+ tur NodeXL> Import> From Twitter
+User’s Network. Setelah itu, muncul
+tampilan yang menunjukkan pilihan untuk
+menampilkan egocentric network dari akun
+Twitter yang kita inginkan.
+Kolom isian paling atas diisi
+dengan nama akun Twitter yang kita
+inginkan. Selanjutnya, ada pilihan untuk
+mengeksplorasi arus informasi-followers
+(“Person following the users”), arus atensifriends
+(“Person followed by the users”),
+atau keduanya (“both”). Di bawahnya
+terdapat teks Add an edge for: Follows,
+Replies-to dan Mentions relationships.
+Informasi tentang jaringan ada pada
+pilihan pertama: follows. Pilihan kedua
+dan ketiga tidak dipilih karena lebih cocok
+untuk mendapatkan data tentang jaringan
+informasi (yang bukan merupakan fokus
+dalam penelitian ini).
+Pengumpulan data tentang “closed
+triad” dapat dilakukan dengan memilih
+level 1,5 pada pilihan Levels to include.
+Selanjutnya, karena penelitian ini berfokus
+ pada jaringan dan bukan aktivitas, maka
+pada kolom cek Add a Latest Tweet column
+to the Vertices worksheet dikosongkan.
+Terakhir, untuk mengakses data dari
+Twitter API, kita memerlukan sebuah
+whitelisted dengan menggunakan data
+akun Twitter yang telah kita miliki. Setelah
+itu klik OK dan muncul sebuah gra k yang
+menunjukkan jaringan dari akun Twitter
+yang kita inginkan. Berdasarkan data
+egocentric network tersebut, kita dapat
+mengolah lebih lanjut tiga variabel yang
+ingin diteliti: closed triad, beetwenness
+centrality, dan eigenvector centrality.
+Contoh penelitian: Eksplorasi hubungan
+kekuasaan dalam jaringan akun Twitter
+Konsep tentang siapa yang berkuasa
+dalam sebuah network society sangat
+ditentukan oleh de nisi dari kekuasaan itu
+sendiri. Merujuk pada pemikiran Castells
+(2004, h. 31), penelitian ini mende nisikan
+kekuasaan sebagai sebuah kapasitas
+struktural untuk menggerakkan kehendak
+seseorang melebihi kehendak aktor-aktor
+lainnya (power is the structural capacity to
+impose one’s will over another’s will).
+Di dunia jaringan, kemampuan untuk
+melakukan kontrol atas kehendak aktor
+lainnya tergantung pada dua mekanisme
+kekuasaan. Pertama, kemampuan untuk
+memprogram/me-reprogram network,
+dan, kedua, kemampuan untuk melakukan
+interkoneksi dengan berbagai network
+lainnya (Castells 2004, h. 32). Aktor
+dengan kemampuan kontrol atas program
+disebut programmers dan aktor dengan
+kemampuan interkoneksi antar jaringan
+disebut sebagai switchers. Penelitian ini
+memfokuskan eksplorasi kekuasaan pada
+peran switchers dalam jaringan akun
+Twitter.
+Eksplorasi kekuasaan dalam jaringan
+akun Twitter dimulai dengan melihat bentuk
+interkoneksi antar akun. Secara teoritis,
+terdapat dua jenis hubungan dalam sebuah
+jaringan sosial (lebih tepatnya adjacendy
+matrix). Tsvetovat dan Kouznetsov dalam
+Social Network Analysis for Stratups (2011,
+h. 3) membedakan dua jenis hubungan,
+yaitu simetris dan asimetris. Barash dan
+Golder (dalam Hansen, Shneiderman dan
+Smith, 2011, h. 150-151) menyatakan
+adanya hubungan simetris dan asimetris
+yang terjadi di Twitter, yakni hubungan
+yang terjadi pada ego-followers, egofriends,
+dan relasi yang terbentuk dalam
+bentuk @reply.
+Di dalam sebuah hubungan egofollowers
+maupun ego-friends dibutuhkan
+adanya hubungan saling terkoneksi
+sehingga hubungan itu bersifat dua pihak.
+Cara kerja dari  tur followers dan friends
+ini mirip dengan  tur yang ada di blog,
+yakni subscribers dan subscriptions. Hal
+itu juga analog dengan perbandingan antara
+tweets di Twitter dengan posts di blog.
+Di sisi lain,  tur @reply tidak selalu
+menuntut adanya hubungan timbal balik.
+Hubungan asimetris ini sangat erat
+kaitannya dengan kajian tentang celebrity.
+Analoginya adalah bahwa seorang
+“selebritas” tidak selalu membalas atensi
+dari para penggemarnya. Di berbagai
+hal, karakteristik tersebut membentuk
+Twitter sebagai media percakapan, sebagai perpanjangan dari Twitter sebagai media
+massa. Berikut ini adalah desain penelitian
+yang dapat dibuat.
+a. Jenis penelitian
+Penelitian ini dilakukan dengan
+metode hyperlink network analysis (HNA)
+untuk mengeksplorasi jaringan komunikasi
+yang terjadi antara mobile news dari portal
+news account online di Indonesia dengan
+account lainnya pada Twitter. Dengan
+demikian, jenis penelitian ini adalah
+eksploratif (exploratory).
+HNA merupakan salah satu metode
+yang lebih spesi k, turunan dari Social
+Network Analysis (SNA). Pada dasarnya,
+SNA berfokus pada pola hubungan antar
+manusia, organisasi, atau negara-bangsa
+(Wasserman & Katherine, 1994). Pendekatan
+penelitian ini cepat dikembangkan dalam
+dua puluh tahun terakhir, terutama dalam
+Sosiologi (Galaskiewicz & Wasserman,
+1993) dan Ilmu Komunikasi (Rogers &
+Kincaid, 1981).
+Secara lebih detil, Park (2003, h. 51)
+menjelaskan posisi HNA dan SNA dalam
+tipe jaringan berdasarkan perbedaan de nisi
+konsep, operasional pengukuran, dan isi
+dari hubungan. Park membagi tipe jaringan
+dalam lima jenis analisis, sebagai turunan
+spesi k dari SNA, yakni social network,
+communication network, computer mediated
+network, internet network, dan hyperlink
+network. Masing-masing tipe tersebut
+memiliki bentuk keterhubungan, pengukuran,
+dan de nisi konsep yang berbeda.
+Jika diilustrasikan dalam sebuah
+gambar, hubungan antara social network,
+communication network, internet, dan
+hyperlink network dapat digambarkan
+seperti pada gambar 5. Berdasarkan
+ilustrasi tersebut terlihat ruang lingkup yang
+semakin spesi k dan sempit dari social
+network sampai ke hyperlink network.
+
+
+Tabel 3 Defi nisi Konsep, Pengukuran, dan Hubungan Tiap Tipe Jaringan
+Type of Network Conceptual Defi nition Operational Measure Content of Relational/Link
+Social Network A set of people (organization or other
+social entities) connected by a set of
+relationships
+Individual, groups,
+organizations, nation
+states
+Any kind of social relation
+Communication
+Network
+A network composed of interconected
+individuals linked by paterned  ows
+of information
+Same as above, but
+generally focuses on
+individual people
+Communication and
+information
+Computer-Mediated
+Network
+A speci c type of communication
+network in which individuals are
+interconected by computer systems
+Same as above, but
+also includes computer
+systems
+Same as above, but restricted
+to computer as channel of
+information  ow
+Internet Network A communication network connected
+by the internet among computer
+systems
+Same as above, but
+focuses on internet users
+Same as above, but restricted
+to internet as channel of
+information  ow
+Hyperlink Newtork An extention of traditional
+communication network in that,
+it focuses on the structure of a
+social system based on the shared
+hyperlinks among websites
+Same as above, but
+focuses on the websites
+which represent
+individual, groups,
+organizations, nation
+states
+Same as above, but restricted
+to hyperlink as channel of
+information  ow
+Sumber: Park (2003, h. 51)
+
+
+
+
+
+
+
+
+
+
+b. Unit analisis
+Unit analisis dalam penelitian
+bermetode hyperlink network analysis
+membatasi pertukaran informasi tersebut
+pada hyperlink sebagai saluran aliran
+informasi (Park, 2003, h. 51). Pertukaran
+informasi tersebut dibatasi dalam ruang
+lingkup social media Twitter. Dengan
+demikian, secara lebih teknis, node dalam
+penelitian ini adalah Twitter account yang
+terhubung dengan akun mobile news yang
+diteliti.
+c. Populasi dan sampel
+Populasi dalam penelitian ini adalah
+semua follower dari account di Twitter
+yang diteliti. Sampel diambil dengan
+menggunakan metode total sampling.
+Penelitian ini mengharuskan adanya total
+sampling karena jaringan komunikasi akan
+menjadi berbeda hasilnya jika ada beberapa
+anggota (node) yang dihilangkan.
+d. Variabel penelitian
+Variabel yang digunakan dalam
+penelitian dapat memakai beberapa konsep
+pengukuran (metric) yang ada. Sebuah
+penelitian dapat menggunakan pengukuran
+centrality dan penghitungan closed triad
+dari pada followers yang menujukkan
+adanya keterhubungan di antara para
+penerima informasi.
+Centrality merupakan pengukuran
+yang digunakan untuk menentukan node
+yang paling prominent. Hal itu dapat
+diartikan sebagai aktor yang paling
+banyak terhubung dengan aktor lainnya.
+Data tentang jumlah closed triad, tingkat
+between-ness centrality, dan eigenvector
+centrality diperoleh dari data egocentrik
+network masing-masing akun mobile news.
+(1) Closed triad dalam ego network
+Di dalam sebuah jaringan, dasar dari
+analisis dan jaringan tersebut adalah sebuah
+dyad, yaitu hubungan antara dua node atau
+aktor yang terhubung oleh sebuah vertec
+yang secara eksklusif tidak terhubung
+dengan aktor lain. Jenis hubungan yang
+lain adalah triads.
+Berbeda dengan hubungan dyad,
+hubungan triads melibatkan tiga aktor dan
+tiga dyad (khusus dalam closed triads).
+Terdapat beberapa jenis triads, yakni closed triad, open triad, conected pair,
+dan unconnected. Menurut Georg Simmel
+(dalam Kitts & Huang, 2010), hubungan
+triads tidak bisa digantikan oleh jenis
+hubungan dyad, baik dari segi tingkat
+solidaritas, proses penyelesaian kon ik,
+maupun proses difusi informasi (mengacu
+pada teori difusi inovasi dari Rogers).
+Secara teknis, penentuan pengukuran
+closed triad akan berimplikasi pada
+saat pengumpulan data. Pada proses
+pengumpulan data menggunakan NodeXL
+harus dipilih “level to include” sejumlah 1.5
+(closed triads). Untuk mendeteksi closed
+triad yang dimiliki oleh sebuah akun mobile
+news di Twitter, maka harus dihitung jumlah
+link yang masuk dan keluar. Langkah yang
+ditempuh adalah dengan mengklik calculate
+graph metric. Kemudian beri tanda cek
+pada in-degree, out-degree, kemudian klik
+Compute Metric.
+(2) Between-ness centrality
+Between-ness centrality berbicara
+tentang jumlah ties yang terhubung secara
+berpasangan atau timbal balik (connect
+pair of the nodes). Jika dalam degree
+centrality tidak terlalu diperhitungkan ties
+yang masuk dan keluar, maka variabel
+arah tersebut menjadi variabel yang
+diperhitungkan. Pengukuran ini dilakukan
+untuk melihat terutama tingkat popularitas,
+kontrol, dan power dari aktor.
+Pengukuran untuk between-ness
+centrality dihitung dengan rumus sebagai
+berikut:
+r:...
+
+Dimana:
+= adalah jumlah terpendek
+path dari s ke t,
+= adalah jumlah terpendek
+dari path terpendek dari s
+ke t yang melalui vertex v
+Di dalam penelitian ini penghitungan
+between-ness centrality menggunakan
+software NodeXL versi 1.0.1.215, sekaligus
+bersama dengan penghitungan eigenvector
+centrality.
+(3) Eigenvector centrality
+Eigencector centrality merupakan
+pengukuran atas seberapa penting sebuah
+node/aktor (dalam penelitian ini akun
+Twitter). Google PageRank merupakan
+salah satu jenis pengukuran dari eigenvector
+centrality. Pengukuran eigenvector
+centrality dengan memakai adjacency matrix menggunakan rumus:
+Dengan:
+R:...
+Xi = skor dari node ke i
+Ai, jxj = menunjukkan matrik
+adjacency dari jaringan.
+Ai, j = menunjukkan ada tidaknya
+hubungan (adjacent) node ke i terhadap
+node ke j. Dalam penelitian ini akan
+digunakan binary code yakni, 1 untuk
+menunjukkan adanya hubungan, dan
+Ai, j = 0 jika tidak ada hubungan.
+M (i) = sejumlah node yang terhubung
+dengan node ke i
+N = jumlah total dari semua nodes
+Di dalam penelitian ini, penghitungan
+between-ness centrality dan eigenvector
+centrality dapat diperoleh sekaligus dengan
+properti yang berbeda dari ties dalam gra k.
+Caranya adalah dengan tahap sebagai
+berikut: klik pada tombol Graph Metrics
+menu, kemudian cek pada eigenvector
+centrality dan between-ness centrality
+sekaligus.
+Kemungkinan Baru dengan Meng guna kan
+NodeXL
+NodeXL membuka beberapa
+kemungkinan baru dalam menganalisis
+jaringan komunikasi yang terbentuk
+dalam masyarakat cyber melalui media
+sosial. Pertama, NodeXL memberikan
+data yang cukup detail terkait akun yang
+terlibat dalam sebuah jaringan komunikasi.
+Pengumpulan data menghasilkan dua sheet
+utama: edges dan vertices. Pada sheet edges
+terdapat data nama akun, identitas akun
+(sesuai dengan yang ditulis oleh pemilik
+akun), jenis hubungan (reply, mention,
+retweet, dan follow). Sedangkan pada sheet
+vertices terdapat data tentang jaringan yang
+terbentuk. Hal ini tidak mudah didapatkan
+jika menggunakan metode manual.
+Kedua, NodeXL memberikan
+visualisasi jaringan data yang
+memungkinkan analisis jaringan yang lebih
+luas. Tidak hanya soal analisis, namun
+visualisasi data dalam jumlah node yang
+tidak terbatas. Karena adanya kemungkinan
+partisipan komunikasi yang berjumlah
+ribuan, bahkan jutaan (hingga tak terbatas),
+software ini membantu memetakan
+jaringan komunikasi yang terbentuk dalam
+masyarakat virtual tersebut.
+Ketiga, mudahnya pengukuran
+hubungan antar node. Identi kasi aktor/
+node yang dominan, pengukuran kedekatan
+antar node, dan pengaruh node dalam
+jaringan dapat dioperasikan dengan
+mudah menggunakan software ini. Maka,
+kemudahan untuk mengukur peran node
+dalam jaringan menjadi mudah, mengingat
+proses difusi informasi juga dapat dijelaskan
+secara kuantitatif.
+SIMPULAN
+Teknologi internet telah membuka
+ruang-ruang baru dalam berkomunikasi.
+Media sosial yang pada periode awal
+kemunculannya dipandang hanya sebagai
+hiburan belaka telah dianggap sebagai
+sebuah peluang baru. Teknologi tersebut
+menuntut cara dan metode baru dalam
+menangkap fenomena komunikasi, dalam hal ini jaringan komunikasi yang terbentuk
+dalam komunitas virtual. NodeXL
+memberikan beberapa tawaran untuk
+melakukan penelitian pada objek media
+sosial dengan pendekatan yang lebih luas.
+Kita dapat melakukan analisis isi media
+hanya dengan menggunakan pendekatan
+kecenderungan isi media (analisis isi dan
+analisis framing), atau dapat menggunakan
+metode yang lebih lengkap, yakni pada
+bagaimana jaringan komunikasi dan
+analisis aktor-aktor yang terlibat dalam
+sebuah jaringan komunikasi virtual.
+Harapannya, akan semakin terbuka peluang
+untuk memanfaatkan dan mengevaluasi
+penggunaan sosial media seluas-luasnya
+untuk kepentingan kemajuan masyarakat
+dan kajian-kajian keilmuan pada new media
+dengan pendekatan ilmu sosial.

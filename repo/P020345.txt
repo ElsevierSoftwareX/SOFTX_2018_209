@@ -1,0 +1,56 @@
+﻿ABSTRAK 
+Bantalan gelinding merupakan bagian yang sangat penting dari sebuah mesin yang berputar. Kerusakan pada bantalan gelinding akan menyebabkan suara berisik dan menurunkan kinerja mesin pada saat beroperasi. Pada saat ini, metode yang paling efektif digunakan untuk mendiagnosa kerusakan bantalan gelinding adalah dengan analisis getaran. Kerusakan bantalan gelinding bisa dideteksi dari frekuensi karakteristik bantalan sebagai akibat dari interaksi cacat dengan elemen gelinding. Kerusakan pada bantalan gelinding akan menyebabkan getaran transient pada saat cacat tersebut mengenai bola. 
+
+Penelitian ini membahas model getaran transient pada bantalan gelinding dengan variasi bentuk cacat berupa lubang silindris dan kubus. Cacat dimodelkan pada ring luar bantalan gelinding dan dianalisis dengan bantuan metode elemen hingga. Analisis model getaran tersebut disajikan dalam bentuk perbandingan respon amplitudo getaran bantalan gelinding tanpa cacat dan yang mengalami cacat lubang silindris maupun kubus. Dengan perbedaan dari luas area cacat dihasilkan sinyal getaran pada cincin luar bantalan bola yang berbeda. 
+
+Kata kunci : bantalan gelinding, cincin luar, getaran transient.
+
+
+ BAB I 
+PENDAHULUAN 
+1.1 Latar Belakang 
+
+Bantalan gelinding merupakan bagian yang sangat penting dari suatu bagian mesin yang berputar. Karena digunakan secara luas dan penting, kerusakan bantalan gelinding sering menjadi penyebab kerusakan mesin. Oleh karena itu, pemantauan kondisi bantalan menjadi hal yang penting, sehingga bantalan gelinding dapat diganti sebelum mengalami kerusakan secara menyeluruh. Bantalan gelinding mudah mengalami aus karena adanya kontak antara logam dengan logam. Deteksi dini dari kerusakan bantalan sangat penting untuk mencegah terjadinya kerusakan pada suatu mesin. 
+Analisis getaran digunakan sebagai alat diagnostik untuk memperkirakan kerusakan dan tingkat kerusakan bantalan gelinding. Karena bantalan digunakan untuk mesin – mesin yang berotasi, kerusakan dapat dideteksi dari frekuensi karakteristik cacat yang dihasilkan akibat interaksi dari cacat dengan elemen gelinding. Frekuensi tersebut dapat dihitung secara analitis, dan cacatnya berbeda yang ada pada lintasan luar atau lintasan dalam pada bantalan. 
+Pada tugas sarjana ini cincin luar bantalan bola diberikan suatu cacat yang berupa lubang berbentuk silinder yang dimodelkan dengan metode elemen hingga dengan bantuan software ANSYS. Hasil analisa getaran tersebut dibandingkan dengan analisis getaran bentuk cacat yang berbeda, sehingga didapatkan perbandingan tingkat kerusakan dari cacat pada cincin luar bantalan bola. 
+Mekanisme pembebanan pada bantalan bola adalah beban disalurkan oleh elemen gelinding dari ring dalam menuju ke cincin luar. Besarnya pembebanan pada tiap bola tergantung dengan geometri dari bantalan dan jenis beban yang diterapkan. Dalam tugas sarjana ini pembebanan hanya pada pembebanan radial.
+Parameter geometri untuk bantalan bola dalam tugas sarjana ini adalah sebagai berikut: 
+
+Tabel 1.1 Spesifikasi bantalan bola Diameter cincin dalam 
+44 mm 
+Diameter cincin luar 
+71 mm 
+Diameter bola 
+13.494 mm 
+jumlah bola 
+8 
+
+
+
+Tujuan Penulisan 
+Tujuan tugas sarjana ini adalah: 
+1. Memodelkan bentuk cincin luar bantalan bola disertai bentuk cacatnya. 
+2. Menganalisa respon getaran akibat cacat pada cincin luar bantalan bola dengan bantuan program metode elemen hingga ANSYS. 
+
+1.3 Batasan Masalah 
+Tugas sarjana ini mengambil batasan masalah sebagai berikut: 
+1. Jenis bantalan bola yang digunakan adalah jenis bantalan bola alur dalam baris tunggal tipe 6307. 
+2. Cacat hanya terjadi pada cincin luar bantalan bola. 
+3. Pembahasan meliputi analisa pada kondisi beban radial, membandingkan dua variasi ukuran cacat yang berbeda sehingga mengetahui seberapa tingkat kerusakan pada bantalan bola. 
+4. Tidak membahas mekanisme kontak. 
+
+1.4 Metode Penelitian 
+Metode penelitian yang digunakan untuk menyelesaikan tugas sarjana ini adalah sebagai berikut: 
+
+1. Studi literatur 
+
+Studi literatur ini dilakukan dengan mempelajari penelitian – penelitian tentang analisa cacat pada cincin luar bantalan bola yang telah dilakukan sebelumnya. 3 
+Sehingga dapat menentukan langkah – langkah yang akan dilakukan dalam proses pemodelan cacat getaran pada cincin luar bantalan bola. 
+
+2. Simulasi 
+
+Setelah diketahui parameter geometri dan data – data distribusi beban pada bantalan bola, kemudian dapat dilakukan simulasi. Simulasi model cacat bantalan bola dilakukan menggunakan software ANSYS. Simulasi ini bertujuan untuk mengetahui model getaran dari suatu cacat pada cincin luar bantalan bola. Kemudian dari beberapa bentuk model getaran cacat tersebur dapat dibandingkan. 
+
+3. Konsultasi 
+
+Melakukan konsultasi dan diskusi dengan dosen pembimbing secara berkala untuk mencari solusi dari permasalahan yang dihadapi pada waktu pemodelan untuk mendapatkan masukan – masukan dan saran dalam penyempurnaan pengolahan data dan analisis dalam laporan tugas sarjana.

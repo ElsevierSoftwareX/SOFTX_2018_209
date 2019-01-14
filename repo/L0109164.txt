@@ -1,0 +1,276 @@
+﻿Model Dinamik Pengelolaan Jasa Ekosistem Waduk Koto Panjang Kabupaten Kampar Riau
+
+1. Pendahuluan
+Jasa ekosistem didefinisikan sebagai manfaat langsung dan tidak langsung yang diperoleh manusia dari ekosistem dan diklasifikasikan sebagai jasa penyediaan (provisioning services) yaitu produk yang diperoleh dari ekosistem; jasa cultural (cultural services) yaitu manfaat nonmaterial yang diperoleh manusia dari ekosistem; jasa regulating (regulating services) yaitu manfaat yang diperoleh dari regulasi proses ekosistem; dan jasa supporting (supporting services) yaitu manfaat yang diperlukan untuk produksi semua jasa ekosistem lainnya (de Groot et al. 2002, Millennium Ecosystem Assessment 2003, The Economics of Ecosystems and Biodiversity 2010, Costanza et al. 2011).
+Ekosistem Waduk Koto Panjang terletak pada dua wilayah kewenangan yaitu Kecamatan XIII Koto Kampar (Provinsi Riau) dan Kecamatan 50 Kota (Propinsi Sumatera Barat). Ekosistem Waduk Koto Panjang memiliki fungsi utama sebagai pembangkit listrik tenaga air, disamping itu ekosistem Waduk Koto Panjang juga dimanfaatkan untuk kegiatan perikanan budidaya Keramba Jaring Apung (KJA), perikanan tangkap dan wisata. Adanya kegiatan perikanan budidaya KJA, perikanan tangkap dan wisata diharapkan tidak mengganggu fungsi utama ekosistem Waduk Koto Panjang sebagai pembangkit tenaga listrik. Permintaan atas jasa ekosistem Waduk Koto Panjang terus meningkat sehingga trade off antar jasa tersebut akan menjadi faktor penting. Adanya peningkatan jumlah permintaan terhadap produksi perikanan budidaya, perikanan tangkap dan wisata akan menyebabkan penurunan kemampuan ekosistem Waduk Koto Panjang dalam menyediakan jasa ekosistem akibat degradasi lingkungan
+Kompleksitas jasa ekosistem waduk Koto Panjang, menjadikan model dinamik sebagai suatu pendekatan analisis yang diharapkan dapat menggambarkan nilai ekonomi dari jasa-jasa ekosistem tersebut. Pemodelan (modelling) dapat diartikan sebagai suatu perwakilan atau abstraksi dari sebuah obyek atau situasi aktual (Eriyatno 2003).
+
+Istilah lainnya disebut tiruan model dunia nyata yang dibuat virtual (Sterman 2000). Model dinamik merupakan model yang dapat dikembangkan untuk menunjukkan perubahan over time atas pertambahan dan pengurangan. Model ini juga merefleksikan perubahan melalui simulasi ataupun berdasarkan waktu real dan menghitung komponen secara konstan dengan memasukkan beberapa alternatif tindakan yang akan datang (Eriyatno 1989). Model dinamik mampu menelusuri jalur waktu dari peubah-peubah model. Model dinamik lebih sulit dan kompleks dalam pembuatannya, namun memberikan kekuatan yang lebih tinggi pada analisis dunia nyata.
+2. Metode Penelitian
+Jenis dan Sumber Data
+Jenis data yang dibutuhkan dalam model dinamik pengelolaan jasa ekosistem Waduk Koto Panjang, terdiri atas; data primer dan data sekunder, yang bersumber dari instansi/badan dan dinas/lembaga terkait. Jenis dan sumber data, lebih rinci dapat dilihat pada Tabel 1.
+Metode Pengumpulan Data
+Metode pengumpulan data dilakukan dengan metode studi literatur dan metode survei. Metode studi literatur dimaksudkan untuk mengumpulkan data sekunder. Sedangkan metode survei dilakukan dengan pendekatan observasi dan wawancara. Metode pengumpulan data lebih rinci dapat dilihat pada Tabel 2.
+Metode Analisis Data
+Metode analisis data dilakukan dengan pendekatan system dynamics dengan bantuan software (powersim) lebih rinci dapat dilihat pada Tabel 3.
+
+Tabel 1 Jenis dan sumber data
+Aspek kajian
+Variabel
+Jenis data
+Sumber data
+Pemodelan
+- Pertumbuhan penduduk
+- Potensi ikan (stok)
+- Budidaya KJA
+- Penangkapan ikan
+- Wisata
+- Data sekunder
+- Data primer
+Kab.Kampar dalam Angka 2015
+Dinas Perikanan Kab.Kampar
+Dinas Pariwisata Kab.Kampar
+Wawancara
+Tabel 2 Metode pengumpulan data
+Aspek kajian
+Variabel
+Jenis data
+Metode pengumpulan
+Pemodelan
+- Pertumbuhan penduduk
+- Potensi ikan (stok)
+- Budidaya KJA
+- Penangkapan ikan
+- Wisata
+- Data sekunder
+- Data primer
+Studi literatur
+Observasi dan wawancara
+Tabel 3 Metode pengumpulan data model dinamik
+Aspek kajian
+Variabel
+Metode Analisis
+Output
+Pemodelan
+- Pertumbuhan penduduk
+- Potensi ikan (stok)
+- Budidaya KJA
+- Penangkapan ikan
+- Wisata
+- Sistem dinamik
+- Simulasi produksi ikan dari kegiatan penangkapan dan budidaya KJA
+- Simulasi pendapatan dari jasa-jasa ekosistem
+- Simulasi surplus konsumen dari jasa-jasa ekosistem
+- Simulasi nilai ekonomi dari jasa-jasa ekosistem
+
+
+
+3. Hasil dan Pembahasan
+Validasi Model
+Model yang baik adalah model yang merepresentasikan kondisi sebenarnya, atau model yang memiliki kemiripan dengan kondisi aktual (Muhammadi et al. 2001). Untuk mengetahui ketepatan model yang dikembangkan dengan kondisi aktual dilakukan pengujian validitas dari model tersebut. Uji validasi dilakukan terhadap 3 sub model utama (main model), yakni; sub-model pertumbuhan penduduk, sub model perkembangan KJA dan sub model produksi tangkapan ikan.
+Nilai MAPE validasi sub model pertumbuhan penduduk diperoleh 0,31% yang menunjukkan nilai yang kurang dari 5%. Dengan demikian dapat disimpulkan bahwa simulasi model pertumbuhan penduduk yang dilakukan valid dan sangat tepat sesuai dengan dunia nyatanya. Morecroft (2007) menyebutkan bahwa nilai MAPE <5%, maka suatu model dapat diklasifikasi sangat tepat menggambarkan kondisi sesungguhnya. Hal tersebut juga tampak pada grafik antara data aktual dan data hasil simulasi model dalam kurun waktu tahun 2010 hingga 2014. Secara grafik seperti pada Gambar 1.
+Nilai MAPE validasi sub model perkembangan KJA diperoleh 0,77% yang menunjukkan nilai yang kurang dari 5%. Dengan demikian dapat disimpulkan bahwa simulasi model perkembangan KJA yang dilakukan valid dan sangat tepat sesuai dengan dunia nyatanya. Morecroft (2007) menyebutkan bahwa nilai MAPE <5%, maka suatu model dapat diklasifikasi sangat tepat menggambarkan kondisi sesungguhnya. Hal tersebut juga tampak pada grafik antara data aktual dan data hasil simulasi model dalam kurun waktu tahun 2010 hingga 2014. Secara grafik seperti pada Gambar 2.
+Nilai MAPE validasi sub model produksi tangkapan ikan diperoleh 3,00% yang menunjukkan nilai yang kurang dari 5%. Dengan demikian dapat disimpulkan bahwa simulasi model produksi tangkapan ikan yang dilakukan valid dan sangat tepat sesuai dengan dunia nyatanya. Morecroft (2007) menyebutkan bahwa nilai MAPE <5%, maka suatu model dapat diklasifikasi sangat tepat menggambarkan kondisi sesungguhnya. Hal tersebut juga tampak pada grafik antara data aktual dan data hasil simulasi model dalam kurun waktu tahun 2010 hingga 2014. Secara grafik seperti pada Gambar 3.
+
+
+Gambar 1. Grafik validasi sub model pertumbuhan penduduk.
+Gambar 2. Grafik validasi sub model perkembangan KJA.
+Gambar 3. Grafik validasi sub model produksi tangkapan ikan.
+Gambar 4. Grafik simulasi model produksi ikan (hasil tangkapan dan budidaya KJA)
+
+
+
+Simulasi Model
+Simulasi model dilakukan dalam kurun
+waktu tahun 2010 hingga 2020. Simulasi
+tersebut meliputi; produksi ikan, pendapatan,
+surplus konsumen dan nilai ekonomi. Simulasi
+dimaksudkan untuk memberikan gambaran
+secara temporal seiring terjadinya
+pertambahan dan pengurangan dalam suatu
+mode.
+Model produksi ikan digambarkan dari
+empat komponen utama yakni; produksi
+tangkapan nelayan mesin, produksi tangkapan
+nelayan dayung, produksi tangkapan
+wisatawan dan produksi budidaya KJA. Hasil
+simulasi dalam kurun waktu tahun 2010 hingga
+2020 terlihat pada Gambar 4.
+Hasil analisis menunjukkan bahwa model
+produksi tangkapan nelayan, baik nelayan
+mesin maupun nelayan dayung mengalami
+peningkatan sampai batas daya dukung.
+Sedang model produksi budidaya KJA relatif
+datar, tetapi tetap meningkat sampai batas
+daya dukung. Kondisi berbeda terjadi pada
+model produksi tangkapan wisatawan dimana
+karena jumlah tangkapan yang relatif kecil
+yakni 0,5 kg per orang per trip menyebabkan
+rendahnya nilai produksi ikan yang dihasilkan.
+
+
+
+Simulasi model pendapatan didasarkan
+pada model produksi ikan. Hasil simulasi
+dalam kurun waktu tahun 2010 hingga 2020
+terlihat pada Gambar 5. Hasil menunjukkan
+bahwa diawal tahun simulasi terjadi
+peningkatan yang cukup signifikan khususnya
+dari tahun 2010 ke tahun 2011, namun
+setelahnya terjadi pelambatan dalam
+peningkatan pendapatan untuk semua
+komponen kegiatan. Kondisi tersebut terjadi
+hingga tahun 2017 dan setelah itu tetap.
+Model surplus konsumen merupakan
+simulasi model yang didasarkan pada
+pendapatan yang memungkinkan dapat
+diperoleh dari kegiatan produksi ikan, baik
+kegiatan penangkapan ikan maupun kegiatan
+budidaya ikan di KJA. Perilaku model surplus
+konsumen umumnya mengikuti model
+pendapatan. Surplus konsumen merupakan
+kelebihan atau perbedaan antara kepuasaan
+total (total utility) yang dinikmati konsumen dari
+mengkonsumsikan sejumlah barang tertentu
+dengan pengorbanan totalnya untuk
+memperoleh atau mengkonsumsikan jumlah
+barang tersebut (Boediono 1999). Sedang
+menurut Mankiw and Gregory (2003) bahwa
+surplus konsumen adalah kerelaan pembeli
+untuk membayar dikurangi dengan jumlah yang
+sebenarnnya dibeli pembeli. Hasil simulasi
+dalam kurun waktu tahun 2010 hingga 2020
+terlihat pada Gambar 6.
+Hasil simulasi model surplus konsumen
+menunjukkan bahwa diawal tahun simulasi
+terjadi peningkatan yang cukup signifikan
+khususnya dari tahun 2010 ke tahun 2017,
+namun setelahnya terjadi pelambatan menjadi
+tetap. Model nilai ekonomi merupakan simulasi
+model yang didasarkan pada surplus
+konsumen yang berpotensi diterima dari
+pemanfaatan jasa-jasa ekosistem Waduk Koto
+Panjang. 
+
+
+Hasil simulasi model nilai ekonomi
+menunjukkan bahwa diawal tahun simulasi
+yakni tahun 2010 hingga tahun 2012 nilai
+ekonomi yang diperoleh dari kegiatan
+pemanfaatan jasa-jasa ekosistem Waduk Koto
+Panjang masih relatif rendah, namun pada
+tahun 2012 nilai ekonomi pemanfaatan jasajasa
+ekosistem mengalami peningkatan yang
+signifikan, tetapi selanjutnya melambat dan
+menjadi tetap. Grafik simulasi juga
+menunjukkan bahwa nilai ekonomi total yang
+dapat diterima dari pemanfaatan jasa-jasa
+ekosistem Waduk Koto Panjang adalah Rp.3,3
+milyar. Hasil simulasi dalam kurun waktu tahun
+2010 hingga 2020 terlihat pada Gambar 7.
+Skenario Model
+Skenario model dimaksudkan untuk
+melihat perubahan kenaikan ataupun
+penurunan nilai ekonomi dari jasa-jasa
+ekosistem Waduk Koto Panjang. Perubahan
+nilai ekonomi tersebut akan sangat membantu
+dalam optimalisasi potensi khususnya jasa-jasa
+ekosistem Waduk Koto Panjang. Skenario
+dilakukan dalam dua hal yakni peningkatan
+jumlah budidaya KJA dan peningkatan jumlah
+wisatawan. Peningkatan tersebut dimaksudkan
+untuk melihat perubahan signifikan terhadap
+nilai ekonomi yang dapat diterima dari
+pemanfaatan jasa-jasa ekosistem Waduk Koto
+Panjang. Peningkatan jumlah budidaya KJA
+diskenariokan meningkat 30 % yakni fraksi
+pertumbuhan KJA sebelumnya adalah 1,25%
+dinaikkan menjadi 1,625%. Sedang jumlah
+wisatawan dinaikkan jumlahnya sebesar 100%,
+sehingga totalnya menjadi 26.280 orang.
+Peningkatan jumlah KJA dan jumlah
+wisatawan yang menangkap ikan
+memungkinkan dilakukan mengingat daya
+tampung limbah di waduk yang relatif masih
+sangat besar, bila dibandingkan dengan total
+limbah yang ada saat ini. Peningkatan jumlah
+KJA dengan menaikkan fraksi pertumbuhannya
+menjadi 1,625%, akan terbentuk 2.492 unit KJA
+pada tahun 2020, dengan kenaikan jumlah
+pembudidaya menjadi 88 orang. Lebih rinci
+seperti pada Gambar 8.
+
+Berdasarkan Gambar 9, tampak bahwa
+perkembangan unit KJA dari tahun ke tahun
+mengalami peningkatan yang signifikan.
+Namun demikian peningkatan unit KJA tersebut
+akan memberikan dampak berupa peningkatan
+limbah dari kegiatan KJA di dalam waduk.
+Grafik peningkatan limbah dari kegiatan KJA
+sebelum dan setelah skenario seperti pada
+Gambar 10.
+Peningkatan jumlah KJA tersebut akan
+meningkatkan limbah di waduk pada tahun
+2020 sebesar 39,35% atau meningkat menjadi
+183.005,44 ton dari 131.328,45 ton sebelum
+skenario dilakukan. Kenaikan limbah KJA
+sudah melewati daya tampung limbah
+95.179,82 ton pada tahun 2019 sedang
+berdasarkan skenario sudah melewati daya
+tampung pada tahun 2017 Disisi lain,
+peningkatan unit KJA tersebut, akan
+memberikan peningkatan nilai ekonomi
+kegiatan KJA. Grafik pertambahan nilai
+ekonomi KJA disajikan pada Gambar 11.
+
+Gambar 11. Grafik simulasi skenario model perkembangan KJA (peningkatan nilai ekonomi)
+Grafik simulasi peningkatan nilai
+ekonomi KJA mengalami peningkatan dari
+tahun 2010 sampai 2016 selanjutnya nilai
+ekonomi menjadi tetap. Pada tahun 2020 nilai
+ekonomi KJA akan diperoleh sebesar Rp.1,56
+milyar dari sebelumnya Rp.908 juta atau
+meningkat sebanyak 71,8%.
+Skenario yang juga dilakukan adalah
+meningkatkan nilai ekonomi kegiatan wisata.
+Skenario dilakukan dengan menaikkan jumlah
+wisatawan yang potensial sebesar 100% dari
+jumlah sebelumnya 13.140 orang menjadi
+26.280 orang wisatawan. Secara grafik
+penambahan tersebut akan meningkatkan nilai
+ekonomi potensial kegiatan wisata. Lebih rinci
+seperti pada Gambar 12.
+
+
+Gambar 12. Grafik simulasi skenario model peningkatan wisatawan (peningkatan nilai ekonomi)
+Hasil simulasi model skenario seperti
+pada Gambar 12 diatas, menunjukkan
+peningkatan nilai tambah yang signifikan. Hal
+tersebut tampak bahwa pada tahun 2020 nilai
+ekonomi wisata akan meningkat menjadi 2,9
+milyar rupiah dari sebelumnya 2,2 juta rupiah
+atau meningkat sebesar 1.344%.
+4. Kesimpulan
+Model dinamik pengelolaan jasa-jasa
+ekosistem Waduk Koto Panjang berdasarkan
+daya dukung, diperoleh bahwa grafik
+pertumbuhan nilai ekonomi akan mencapai
+puncaknya pada nilai Rp.3,3 milyar. Nilai
+ekonomi tersebut merupakan nilai ekonomi
+total dari empat kegiatan utama pemanfaatan
+jasa-jasa ekosistem Waduk Koto Panjang,
+yakni; budidaya KJA sebesar Rp.1,1 milyar,
+wisata sebesar Rp.1,6 milyar penangkapan
+ikan oleh nelayan perahu dayung sebesar
+Rp.60 juta dan penangkapan ikan oleh nelayan
+perahu mesin sebesar Rp.489 juta. Model
+skenario yang dikembangkan dengan
+meningkatkan pertumbuhan KJA sebesar 30%
+dan wisatawan 100%, berhasil meningkatkan
+nilai ekonomi total sebesar Rp.5,08 milyar dari
+sebelumnya yang hanya sekitar Rp.3,3 milyar
+atau meningkat sekitar 53,95%. Kenaikan nilai
+ekonomi tersebut diperoleh dari peningkatan
+nilai ekonomi kegiatan KJA sebesar Rp.1,56
+milyar dan peningkatan nilai ekonomi kegiatan
+wisata sebesar Rp.2,9 milyar.

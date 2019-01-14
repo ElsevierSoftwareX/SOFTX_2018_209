@@ -1,0 +1,119 @@
+﻿ABSTRAK
+Penelitian yang berjudul “Pembuatan Peta Zona Rawan Tanah Longsor di
+Kota Semarang dengan Melakukan Pembobotan Parameter” ini dilatarbelakangi
+oleh data yang didapat dari BPBD (Badan Penanggulangan Bencana Daerah)
+Kota Semarang, yaitu terhitung sejak Januari hingga Juni 2012 (kurun waktu 6
+bulan) terdapat 20 kejadian tanah longsor. Untuk itu perlu dibuat peta zona rawan
+longsor guna menghasilkan informasi mengenai posisi yang berkaitan dengan
+tingkat kerawanan longsornya di kota Semarang. Peta ini dapat digunakan sebagai
+bahan acuan dalam pengambilan keputusan guna tindakan pencegahan terjadinya
+tanah longsor di daerah yang rawan, sehingga mengurangi jumlah korban jiwa
+maupun materi dan juga perencanan dalam pembangunan sarana dan prasarana.
+Penelitian ini menggunakan data citra pengindraan jauh dan SIG (Sistem
+Informasi Geografis) dengan melakukan pembobotan terhadap parameter yang
+mempengaruhi terjadinya longsor, yaitu: kelerengan, penggunaan lahan, jenis
+tanah, dan curah hujan.
+
+Hasil dari Penelitian ini adalah peta kerawanan longsor yang dibagi
+menjadi lima kelas kerawanan, yaitu: tidak rawan, agak rawan, cukup rawan,
+rawan, dan sangat rawan. Dan informasi yang didapatkan adalah sebagian besar
+wilayah kota Semarang masuk dalam kelas “Agak Rawan”, yaitu 60,51%
+(23266,315 ha), sedangkan sisanya masuk dalam kelas “Tidak Rawan” sebesar
+24,66% (9480,007 ha), “Cukup Rawan” 13,32% (5120,050 ha), “Rawan” 1,20
+(463,091 ha), dan “Sangat Rawan” 0,31% (120,547).
+
+Kata kunci: Tanah longsor, Peta, Sistem Informasi Geografis, Kota Semarang
+
+BAB I
+PENDAHULUAN
+1.1 Latar Belakang
+Indonesia sebagai wilayah kepulauan yang secara geografis terletak di
+garis khatulistiwa ini, berada pada pertemuan Lempengan-lempengan tektonik
+utama dunia, yaitu: Lempeng Eurasia, India Autralia, dan Samudra Pasifik yang
+memiliki kemungkinan untuk saling menumbuk. Tumbukan ini membentuk
+palung samudera, lipatan, punggungan dan patahan di busur kepulauan, sebaran
+gunung api, dan sebaran sumber gempa bumi.
+Gunung api yang ada di Indonesia berjumlah 129. Angka itu merupakan
+13% dari jumlah gunung api aktif dunia. Dengan demikian Indonesia rawan
+terhadap bencana letusan gunung api dan gempa bumi.
+Letusan gunung berapi ini menghasilkan jenis tanah pelapukan. Tanah ini
+memiliki komposisi sebagian besar lempung dengan sedikit pasir dan bersifat
+subur. Tanah pelapukan yang berada di atas batuan kedap air pada
+perbukitan/punggungan dengan kemiringan sedang hingga terjal berpotensi
+mengakibatkan tanah longsor pada musim hujan dengan curah hujan berkuantitas
+tinggi. Jika perbukitan tersebut tidak ada tanaman keras berakar kuat dan dalam,
+maka kawasan tersebut rawan bencana tanah longsor. Ditambah lagi curah hujan
+yang tinggi dan topografi berbukit yang memiliki tingkat kecuraman tinggi akan
+menjadi pemicu untuk semakin terjadinya bencana tanah longsor.
+Penelitian ini dilakukan melihat kondisi Semarang (dalam Penelitian ini
+kota Semarang) yang memiliki faktor-faktor pemicu terjadinya bencana tanah
+longsor dan ditambah lagi kejadian tanah longsor yang kerap terjadi, seperti yang
+lansir oleh www.jatengtime.com. Berdasarkan data BPBD (Badan
+Penanggulangan Bencana Daerah) Kota Semarang, terhitung sejak Januari hingga
+Juni 2012 (kurun waktu 6 bulan), kota Semarang mengalami 113 kejadian
+bencana, diantaranya 68 kejadian kebakaran, 4 kejadian banjir, 10 kejadian pohon
+tumbang, 2 kejadian puting beliung, dan sisanya angka yang sangat mengejutkan,
+yaitu 20 kejadian tanah longsor.
+
+1.2 Perumusan Masalah
+Masalah yang dirumuskan dalam Penelitian ini adalah:
+1. Bagaimana memetakan daerah/zona yang rawan longsor dengan
+menggunakan metode pembobotan parameter?
+2. Di daerah mana sajakah di kota Semarang yang memiliki potensi
+longsor?
+
+1.3 Tujuan Penelitian
+Tujuan dilakukannya Penelitian ini adalah:
+1. Membuat peta zona rawan tanah longsor di kota Semarang.
+2. Menghasilkan informasi untuk mengetahui zona rawan tanah longsor
+di kota Semarang.
+
+1.4 Manfaat Penelitian
+Manfaat dilakukannya Penelitian ini adalah sebagai bahan acuan dalam
+pengambilan keputusan guna tindakan pencegahan terjadinya tanah longsor di
+daerah yang rawan, sehingga mengurangi jumlah korban jiwa maupun materi dan
+juga perencanan dalam pembangunan sarana dan prasarana.
+
+1.5 Ruang Lingkup Penelitian
+Adapun ruang lingkup yang digunakan sebagai pembatasan masalah dalam
+penelitian ini adalah sebagai berikut:
+1. penelitian mengkaji bencana tanah longsor,
+2. daerah kajian adalah kota Semarang,
+3. menggunakan metode pembobotan parameter (Kusratmoko, 2002),
+4. menggunakan 4 parameter, yaitu: kelerengan, penggunaan lahan,
+erodibilitas (jenis tanah), dan curah hujan.
+
+1.6 Metodologi Penelitian
+Pembuatan metodologi Penelitian ini bertujuan untuk mengetahui
+kerangka umum kerja, yang digunakan sebagai langkah-langkah dalam
+melakukan Penelitian. Flowchart Metodologi Penelitian tersedia pada Gambar
+Gambar 1.1 Diagram alir penelitian
+
+1.7 Sistematika Penulisan Laporan
+Laporan Tugas Akhir ini dibagi menjadi 5 bab yang saling berhubungan
+satu sama lain. Adapun sistematika penulisan laporan Tugas Akhir ini adalah
+sebagai berikut :
+
+
+BAB I PENDAHULUAN
+Pada bab ini akan diuraikan mengenai pokok-pokok pikiran penulisan
+tugas akhir yang berisi mengenai latar belakang, perumusan masalah,
+ruang lingkup penelitian, tujuan penelitian, manfaat penelitian, metodologi
+penelitian, dan sistematika penulisan laporan.
+BAB II DASAR TEORI
+Pada bab ini dijelaskan landasan teori yang berkaitan dengan penelitian,
+yaitu mengenai faktor-faktor pengontrol terjadinya gerakan tanah, proses
+terjadinya gerakan masa tanah, analisis longsor dengan SIG, dan yang
+terakhir adalah klasifikasi tingkat bahaya longsor (pembotan parameter)
+yang akan menjadi metode dalam penelitian ini.
+BAB III PELAKSANAAN PENELITIAN
+Pada bab ini dijelaskan mengenai jalannya penelitian mulai dari tahap
+persiapan, pengumpulan alat dan bahan, pengolahan data, dan survey
+lapangan.
+BAB IV HASIL DAN PEMBAHASAN
+Pada bab ini akan diuraikan mengenai hasil analisis dari masing-masing
+parameter, yaitu kelerengan, penggunaan tanah, erodibilitas, dan curah
+hujan.
+BAB V PENUTUP
+Pada bab ini dijelaskan mengenai kesimpulan dari hasil penelitian dan
+saran sebagai masukan penelitian selanjutnya.

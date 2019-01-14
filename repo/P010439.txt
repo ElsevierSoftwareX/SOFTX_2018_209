@@ -1,0 +1,172 @@
+﻿
+ Metode Elemen Hingga dan Elemen Batas 
+untuk Antena Celah pada Pemandu Gelombang
+
+
+ Intisari— Pada rentang frekuensi yang semakin tinggi, pengaruh ketebalan dinding pemandu gelombang semakin mempengaruhi karakteristik antena celah pemandu gelombang. Makalah ini menyajikan analisis numeris terhadap antena celah pemandu gelombang dengan menyertakan ketebalan dinding pemandu gelombang menggunakan metode elemen hingga (finite flement fethod) untuk analisis bagian dalam celah dan metode elemen batas (foundary flement fethod) pada daerah permukaan celah. Dengan menggunakan prinsip ekuivalensi medan, perhitungan dilaksanakan hanya pada bagian dinding pemandu gelombang yang terpotong. Penyelesaian kedua metode tersebut digunakan untuk menghitung medan listrik pada permukaan celah dan selanjutnya digunakan untuk menghitung parameter ekuivalen jaringan antena celah. Hasil yang didapatkan menunjukkan kesesuaian dengan hasil pengujian dan pengukuran yang diperoleh dari referensi. 
+Kata Kunci— Antena celah pemandu gelombang, metode elemen hingga, metode elemen batas, metode gabungan, antena celah sisi. 
+I. PENDAHULUAN 
+
+Antena celah pemandu gelombang (slotted waveguide antenna) adalah antena yang berupa celah pada dinding pemandu gelombang [1]. Celah dirancang agar memotong garis aliran arus pada dinding dalam pemandu gelombang, sehingga ada sebagian gelombang elektromagnetik yang terpancar keluar atau teradiasi ke ruang bebas. Antena celah banyak digunakan pada teknologi radar [2] karena kemampuannya yang dapat ringkas, ringan, dapat memancarkan daya yang besar, dapat bekerja pada frekuensi tinggi, dan memiliki efisiensi radiasi yang tinggi pula. 
+Celah pada pemandu gelombang dapat dibuat pada sisi panjang atau sisi pendek penampang pemandu gelombang 
+ agar celah memotong aliran arus pada dinding pemandu gelombang. Antena celah pada sisi panjang lebih mudah dibuat dan dirancang namun memerlukan ruang yang lebih luas ketika disusun dalam larik antena yang melibatkan beberapa pemandu gelombang. Oleh karena itu antena celah pada sisi pendek lebih efektif untuk menyusun larik antena.
+
+
+ Secara umum, pemandu gelombang memiliki garis arus pada sisi sempit sejajar dengan penampang pemandu gelombang, sehingga celah harus dibuat miring agar memotong garis arus, seperti ditunjukkan oleh Gbr. 1(a). Oleh karena sisi sempit pemandu gelombang berukuran lebih kecil daripada setengah panjang gelombang, maka ada bagian celah antena yang diperluas pada bagian bawah dan atas sisi panjang pemandu gelombang untuk mencapai panjang resonan antena. Adanya bagian celah di atas dan bawah ini menyebabkan analisis antena jenis ini menjadi lebih sulit daripada antena celah pada sisi panjang. 
+Ada beberapa metode numeris yang digunakan untuk analisis antena celah sisi pendek antara lain pada [3] dan [4] dengan menggunakan metode elemen batas (boundary element method) atau biasa disebut juga sebagai method of moment (MoM). Pada analisis dengan metode ini, dinding pemandu gelombang dianggap sebagai permukaan saja atau ketebalan dinding yang dapat diabaikan. 
+Seiring perkembangan teknologi telekomunikasi yang dapat menggunakan frekuensi yang semakin tinggi, maka antena celah juga dirancang pada frekuensi yang lebih tinggi. Akibatnya pengaruh ketebalan dinding pemandu gelombang menjadi sangat mempengaruhi kinerja antena dan perlu disertakan dalam proses perancangan. Metode numerik domain waktu beda hingga (finite difference time domain/FDTD) digunakan untuk menyertakan pengaruh ketebalan dinding pemandu gelombang pada [5]. Catina dkk. menggunakan MoM berdasarkan integral permukaan yang dipublikasi pada [6]. Selanjutnya terdapat beberapa kombinasi gabungan metode untuk analisis tersebut, antara lain dengan metode gabungan metode elemen hingga (finite element method/FEM) dengan MoM pada [7], serta gabungan metode MoM dan integral batas [8]. 
+Pada makalah ini digunakan gabungan metode elemen hingga dan metode elemen batas yang juga telah digunakan pada [9] untuk menganalisis antena celah pada sisi panjang pemandu gelombang. Pada analisis ini proses komputasi dilakukan para ruang celah dengan memanfaatkan prinsip ekuivalen medan, sehingga proses perhitungan dapat dilakukan dengan lebih cepat daripada menganalisis pada seluruh bagian pemandu gelombang seperti pada [5]. 
+Susunan penulisan pada makalah ini terdiri atas pendahuluan, penjelasan matematis metode numeris yang digunakan, dan analisis hasil komputasi.
+
+
+
+II. PRESENTASI MATEMATIS METODE NUMERIS 
+Metode elemen batas merupakan metode yang efisien untuk menganalisis antena celah pada pemandu gelombang, namun metode ini tidak dapat menyertakan ketebalan dinding karena fungsi Green yang digunakan menjadi sangat rumit. Untuk itu maka metode ini harus digabungkan dengan metode lain, salah satunya adalah metode elemen hingga. Tahap komputasi meliputi, penerapan prinsip ekuivalen medan, penerapan persamaan variasional reaksi, perhitungan medan dalam celah, perhitugan medan permukaan internal dan eksternal, perhitungan gelombang datang, dan penyelesaian gabungan. 
+A. Prinsip Ekuivalen Medan 
+
+Berdasarkan prinsip ekuivalen medan [10], celah antenna dapat diasumsikan diselimuti oleh konduktor elektrik murni (perfect electric conductor). Kontinyuitas medan pada permukaan batas dapat diterapkan dengan menempatkan lempeng arus magnet Me pada permukaan luar dan Mi pada permukaan dalam celah, seperti ditunjukkan oleh Gbr 2. Metode ini memisahkan domain menjadi tiga daerah yaitu daerah internal, eksternal, dan celah (cavity). Dalam hal ini, distribusi arus pada dinding pemandu gelombang yang berdekatan dengan celah sama dengan distribusi arus pada celah yang berbatasan langsung dengannya. Oleh karena itu, distribusi medan pada antena celah dapat diselesaikan dengan menerapkan teori medan elektromagnetis pada daerah celah saja. 
+Kondisi kontinyu pada komponen tangensial medan magnet pada permukaan celah dapat dituliskan sebagai:
+
+
+(1) pada )()()(cavintinc×=×+× 
+(2) eeeSrHnrHn pada 0)()(extcav=×+×
+
+
+
+dengan Hinc(r), Hint(r), Hext(r), dan Hcav(r) menunjukkan kuat medan magnet, secara berurutan, gelombang datang, gelombang pada daerah internal, daerah eksternal, dan daerah celah. Sedangkan ni dan ne menunjukkan unit vektor normal terhadap permukaan internal dan eksternal. 
+Dengan memperkenalkan fungsi Green jenis magnetik [11], medan magnet dapat dituliskan sebagai 
+(3) ')'()',()(dsjrMrrGrH⋅=∫ωε 
+dengan adalah fungsi Green dyadic jenis magnetik, ω menunjukkan frekuensi sudut, dan ε menunjukkan permiti-vitas medium. )',(rrG
+Selanjutnya (3) disubstitusikan pada (1) dan (2) sehingga diperoleh (4) dan (5) berikut: 
+(4) [] )(')'()',( ')'()',()',( inccavintcavrHnrMrrGnrMrrGrrGn×=⋅×+⋅−×∫∫∫∫iesiisidsjdsjωω 
+(5) []0')'()',()',( ')'()',( extcavcav=⋅−×+⋅×∫∫∫∫dsjdsjeseeserMrrGrrGnrMrrGnωω 
+Lempeng arus magnet ekuivalen M berhubungan dengan kuat medan listrik sesuai persaman M=E×n. Oleh karena itu, medan magnet pada celah antena dapat dihitung dengan menyelesaikan persamaan di atas. Namun fungsi Green untuk daerah celah tidak terdefinisi, sehingga untuk menyelesaikan persamaan tersebut harus dilakukan dengan cara lain, yaitu menggabungkannya dengan metode elemen hingga. 
+B. Persamaan Variasional Reaksi 
+
+Formulasi metode elemen hingga diambil dari persamaan variasional seperti pada [7] yang diturunkan dari [12]. Medan listrik pada daerah celah dapat dicari dari persamaan variasional sebagai berikut: 
+(6) ()()()0 '0=⋅−×∇⋅+×⋅+×⋅=∫∫∫∫∫∫∫ΩΩΗΗΗdjdsdseiSeSiEEEEnEnδωεδδδδψ 
+dengan adalah sembarang medan uji dari sumber arus yang menimbulkan E dan H. 
+
+
+Dengan menggunakan medan magnet pada permukaan internal dan eksternal yang telah dijelaskan pada (4) dan (5), serta medan magnet dalam daerah celah yang didefinisikan sebagai maka (6) dapat diubah ke dalam bentuk seperti (7). EH×∇−=)/1(0ωμj
+
+
+
+Persamaan (8) menunjukkan empat bagian penyelesaian yaitu daerah rongga celah, permukaan internal, permukaan eksternal, dan gelombang datang yang penyelesaiannya akan dijelaskan pada bagian selanjutnya.
+
+Sudut α menyatakan kemiringan celah yaitu sebesar θ pada sisi sempit dan 0 pada sisi lebar, seperti terlihat pada Gbr.1 (b). Sedangkan u adalah unit vektor normal pada permukaan seperti ditunjukkan oleh Gbr. 3. 
+C. Formulasi Medan pada Rongga Celah 
+
+Dalam analisis ini celah diasumsikan sempit sehingga medan sepanjang lebar celah dianggap konstan. Oleh karena itu, integral volume pada (8) sebagai persamaan medan pada rongga celah dapat disederhanakan menjadi integral bidang sebagai berikut: 
+()()ΩΩΩΩΩΩΩΩAdkwAdkwAdwdkAAA∫∫∫∫∫∫∫∫∫⋅++∇⋅∇+=⋅−∇⋅∇−2222222 1φφφφφφφφvv
+
+(9) +∇⋅∇+=⋅−∇⋅∇−2222222 1φφφφφφφφvv 
+dengan w adalah lebar celah dan AΩ adalah luasan penampang celah pada arah ketebalan dinding pemandu gelombang. 
+Selanjutnya (9) diselesaikan dengan metode elemen hingga dengan langkah-langkah sesuai dengan [13] yaitu diskretisasi, pemilihan fungsi interpolasi, formulasi sistem persamaan, dan penyelesaian. 
+Langkah pertama adalah diskretisasi yaitu membagi daerah permasalahan menjadi daerah kecil yang berbentuk silinder triangular seperti pada Gbr. 4. 
+Setelah proses diskretisasi, formulasi untuk tiap elemen dapat disusun dari (9) menjadi (10).
+
+Langkah kedua adalah interpolasi standar berdasarkan koordinat lokal pada tiap elemen. Parameter yang tidak diketahui dijabarkan sebagai 
+(12) Σ==31)()()(iieiLrrφφ 
+dengan adalah parameter yang tidak diketahui pada node 1, )(eiφ2, dan 3 dari elemen e, seperti ditunjukkan pada Gbr 4. Sedangkan Li menunjukkan fungsi bentuk node i yang didefinisikan seperti pada (13).
+
+Ae adalah luasan elemen Ae=(b1c2−b2c3)/2. Fungsi bentuk ini memiliki karakteristik linear seperti ditunjukkan oleh Gbr. 5. 
+Selanjutnya tiga integral pada (11) dapat diselesaikan secara analitis dengan formula dasar integral daerah segitiga.
+
+Integral pada (15) selalu bernilai nol karena arah vektor v selalu tegak lurus terhadap bidang Ae. 
+Hasil perhitungan dari (14) hingga (15) disusun dalam matriks yang selanjutnya disebut matriks G. 
+D. Formulasi Medan pada Permukaan Internal 
+
+Medan yang terkait dengan permukaan internal adalah integral kedua dan keempat pada (8) yang secara berurutan menunjukkan integral medan karena lempeng arus magnetik internal dan medan masukan gelombang pada ujung pemandu gelombang atau gelombang datang. Untuk lebih singkatnya kedua integral disebut integral gelombang datang dan integral arus magnetik. 
+Metode elemen batas diimplementasikan untuk menghitung parameter tidak diketahui dari kedua integral tersebut. Untuk penyelesaian ini, luasan permukaan internal didiskretisasi menjadi luasan-luasan kecil mengikuti diskretisasi pada metode elemen hingga. Demikian juga, digunakan fungsi basis yang kompatibel dengan fungsi bentuk pada metode elemen hingga. Oleh karena karakteristik fungsi bentuk pada metode elemen hingga adalah linear, maka pada bagian metode elemen batas digunakan fungsi basis yang bersifat linear yaitu fungsi basis segitiga, sebagai berikut:
+
+dengan H0 adalah amplitude gelombang datang ternormalisasi, a adalah lebar pemandu gelombang, dan k10 adalah impedans gelombang mode dominan pada pemandu gelombang. 
+(24) 2210kak−=π 
+dengan k adalah jumlah gelombang pada ruang bebas. 
+Langkah selanjutnya, medan datang (23) disubstitusikan pada (21). Perlu diketahui bahwa permukaan pada bagian dinding bawah, atas, dan sisi memiliki medan magnet yang berbeda sesuai (23). Setiap bagian kemudian diselesaikan secara analitis dengan penyelesaian integral parsial masing-masing untuk N1 dan N2. 
+Penyelesaian medan pada celah di sisi atas dan bawah adalah 
+(25) ()()()211010int212121100)(1)sin(1)cos( )1(cosxxxxxzkkexkxkxxkxkxxxxekjeH−+−−−⋅−±=−−ωεθω 
+(26) ()()()211010int212121100)(2)sin(1)cos( )1(cosxxxxxzkkexkxkxxkxkxxxxekjeH−−−−−⋅−±=−−ωεθω 
+Tanda ± menunjukkan nilai positif untuk sisi atas dan nilai negatif untuk sisi bawah. Selanjutnya penyelesaian pada bagian sisi dinding ditunjukkan pada (27) dan (28).
+
+Untuk integral arus magnetik pada permukaan internal seperti ditunjukkan oleh (22), digunakan persamaan Green yang memiliki persamaan matematis sebagai berikut [11]:
+
+Parameter adalah tensor unit, a dan b adalah dimensi pemandu gelombang, serta ψm adalah faktor Neumann yang memiliki nilai ψm=1 jika m=0 dan ψm=1 jika m≠0 . Operator ∇∇ adalah operasi dyadic yang didefinisikan sebagai zzyyxxˆˆˆˆˆˆ++=I
+
+Untuk menyederhanakan penulisan, fungsi Green internal (29) dapat ditulis dalam bentuk matriks sebagai berikut:
+
+Untuk menyederhanakan penulisan, fungsi Green internal (29) dapat ditulis dalam bentuk matriks sebagai berikut:
+
+Sebagai catatan, penyelesaian bagian ini dapat diselesaikan secara analitis baik untuk bagian pada sisi atas, bawah, atau samping. Bagian samping atau celah pada dinding sempit pemandu gelombang diselesaikan dengan bantuan formulasi penyelesaian integral eksponensial dan trigonometri [15] sebagai berikut:
+
+
+
+E. Formulasi Medan pada Permukaan Eksternal 
+Medan pada permukaan eksternal atau permukaan radiasi ditunjukkan oleh integral ketiga (8). Bagian ini memiliki bentuk yang sama dengan pada bagian permukaan internal, namun tanpa adanya medan gelombang datang dan menggunakan fungsi Green yang berbeda. Prosedur awal seperti pada permukaan internal, yaitu:
+
+Fungsi Green yang digunakan adalah fungsi Green konduktor bersudut 90o atau [11] sebagaimana juga digunakan pada [7]. Fungsi ini diderivasi untuk menyertakan efek hamburan oleh adanya suatu sudut tunggal di sekitar daerah medan dan sumber. Fungsi ini diformulasikan dalam bentuk yang disederhanakan dan mengikuti sistem koordinat sebagaimana ditunjukkan oleh Gbr. 6, menjadi sebagai berikut:
+
+dengan k adalah jumlah gelombang ruang bebas, δ0adalah konstanta yang bernilai 1 jika v=0 dan bernilai nol untuk nilai v lain. Tanda ± berarti bahwa nilainya sama dengan +1 ketika sumber dan medan pengamatan berada pada sisi pemandu gelombang yang sama, dan bernilai (−1)n jika sumber dan medan berada pada sisi yang berbeda. 
+Fungsi didefinisikan sebagai (39), )1,,1(+−=vvvgμμ
+(39) 2220)2();',max( );',min(' cos)()(2)',,',(hkrrrrrrdhzzhrHrJzzrrgMmMm−===−=∫∞ηηημμμ 
+dengandansecara berturut-turut adalah fungsi Bessel dan fungsi Hankel jenis kedua. μJ)2(μH
+Aplikasi fungsi Green eksternal ini terkait dengan letak sumber dan medan yang memiliki empat buah kemungkinan seperti diilustrasikan pada Gbr. 7. 
+Jika titik sumber dan medan terletak pada dua sisi yang berbeda seperti ditunjukkan Gbr. 7(a), maka hamburan karena sudut dihitung dengan Fungsi Green eksternal sedangkan hamburan sudut lain dibaikan. Jika kedua titik terletak pada sisi yang sama, seperti Gbr. 7(b), perhitungan dilakukan dengan fungsi Green paruh ruang (half space Green’s function) yang didefinisikan sebagai berikut:
+
+Jika kedua titik berada pada sisi sempit pemandu gelombang seperti pada Gbr. 7(c), maka medan dihitung berdasarkan hamburan dari kedua sudut dengan fungsi Green eksternal dikurangi fungsi Green paruh ruang. Terakhir, jika titik sumber dan medan berada pada sisi yang berseberangan seperti Gbr 7(d), maka pengaruh hamburan diabaikan. 
+Penyelesaian integral dilakukan menggunakan fungsi basis yang sama seperti pada permukaan internal yang dapat dinyatakan dalam bentuk berikut: 
+(41) dsdsuNGuNYiSSuuieijeeext''cos)'(cos)()(αα∫∫∫∫= 
+dengan Guu dihitung sesuai dengan fungsi Green eksternal seperti dijelaskan di atas. 
+Berbeda dengan permukaan internal, fungsi Green eksternal memiliki bentuk yang sangat kompleks dan tidak dapat diselesaikan secara analitis. Oleh karena itu, perhitungan integral dilakukan dengan metode pendekatan integral kuadrat Gauss (Gauss quadrature integral approxi-mation0.
+
+
+F. Penyusunan Matriks dan Finalisasi 
+Perhitungan medan pada rongga celah dengan metode elemen hingga dan perhitungan pada permukaan internal dan eksternal yang dilakukan dengan metode elemen batas kemudian disusun dalam suatu matriks global sesuai dengan hubungan pada (8). Persamaan variasional kemudian dapat dinyatakan dalam bentuk: 
+(42) [][][][][]incTThFφφφψ−=21' 
+dengan [φ] menyatakan vektor yang terdiri atas parameter tidak diketahui dari seluruh node pada diskretisasi dan pangkat T menunjukkan fungsi transpose vektor. 
+Proses selanjutnya, kondisi stasioner persamaan variasional ditentukan dengan menghitung turunan pertama (8) dengan menerapkan kondisi batas yaitu medan listrik pada kedua ujung bernilai nol.
+
+Prosedur terakhir adalah menyelesaikan persaman linear (43) yang dilakukan dengan metode eliminasi Gauss (Gaussian elimination method). 
+Dari proses perhitungan ini dapat diketahui distribusi medan listrik di seluruh bagian antena celah. Nilai yang diperoleh dapat digunakan untuk menghitung parameter-paramater lain yang perlu diketahui, seperti parameter jaringan ekuivalen, pola radiasi, dan sebagainya 
+III. HASIL DAN PEMBAHASAN 
+
+Tahap pengujian metode numeris yang digunakan dilakukan melalui beberapa tahap, meliputi perhitungan distribusi medan elektrik, perhitungan parameter jaringan ekuivalen, dan penelaahan pengaruh variasi beberapa parameter, antara lain sudut kemiringan, panjang celah, dan frekuensi kerja. Parameter antena yang digunakan mengikuti parameter yang digunakan pada [7], sehingga hasil yang diperoleh dapat dievaluasi dengan membandingkan dengan hasil numeris dan pengukuran pada makalah tersebut. 
+A. Distribusi Medan Elektrik pada Antena Celah 
+
+Pada bagian ini, antena celah dibuat pada pemandu gelombang standar yang bekerja pada frekuensi X-band. Pemandu gelombang tersebut memiliki ukuran lebar a = 0,9 inci = 22,86 mm, tinggi b = 0,4 inci = 10,16 mm, dan ketebalan dinding t = 0,05 inci = 1,27 mm dan bekerja pada frekuensi 9,375 GHz atau panjang gelombang λ = 32 mm. 
+Dimensi fisik celah antena terdiri atas sudut kemiringan θ = 15o, lebar celah w = 0,0625 inci = 1,5875 mm, dan bagian perpanjangan pada sisi atas dan bawah sebesar Δ = 0,14 inci = 3,556 mm. Panjang total antena dapat dihitung dengan persamaan 
+(44) ttbL−++=Δ2cosθ 
+yaitu sebesar 0,696 inchi = 17,66 mm atau 0,5524λ. 
+Metode numeris diimplementasikan pada antena tersebut dengan membagi penampang rongga celah menjadi dua lapisan dan 64 elemen segitiga. Penyelesaian metode numeris menghasilkan medan listrik seperti ditunjukkan oleh Gbr. 8. 
+Dari Gbr.8 dapat dilihat bahwa distribusi medan listrik sepanjang celah bersifat sinusoidal yang memiliki nilai maksimum pada titik tengah celah dan menyusut pada ujung-ujungnya. Medan pada garis luar, garis tengah, dan garis dalam memiliki sedikit perbedaan yang disebabkan oleh ketebalan dinding pemandu gelombang. Adanya ujung runcing pada pojok pemandu gelombang menyebabkan singularitas dalam metode numeris, sehingga menyebabkan medan listrik mengalami variasi di sekitar daerah tersebut. 
+Secara teoretis, antena celah yang disimulasikan memiliki karakteristik yang sama dengan antena dipole setengah gelombang, sehingga distribusi medan listrik bersifat sinusoidal. Hasil yang didapatkan menunjukkan bahwa hasil perhitungan memiliki sifat yang mendekati teori. 
+B. Parameter Jaringan Ekuivalen 
+
+Selanjutnya distribusi medan listrik pada antena celah digunakan untuk menghitung parameter jaringan ekuivalen, karena parameter tersebut dapat diukur dengan lebih akurat daripada medan listrik, sehingga hasil perhitungan dapat dijustifikasi keakuratannya dengan hasil pengukuran. 
+Antena celah pada pemandu gelombang dapat dimodelkan sebagai hambatan paralel pada saluran transmisi dua kawat [12]. Saluran transmisi tersebut memiliki karakteristik admitans G0 yang terhubung paralel dengan admitans Y antena celah. 
+(45) jbgGY+=0 
+dengan g dan b adalah konduktans dan suseptans celah antena. Parameter ini menunjukkan distribusi daya antena celah. Antena celah bersifat resonans jika memiliki nilai Y/G0 riil, atau suseptans b sama dengan nol. 
+Nilai admitans dapat dihitung sebagai hubungan antara admitans ternormalisasi dengan koefisien pantul Γ yang diberikan oleh [12] 
+(46) Γ1Γ20+−=GY 
+Koefisien pantul ini berhubungan dengan distribusi medan listrik yang diperoleh dari perhitungan (47) Γβωμπ 
+dengan n adalah unit vektor normal pada lapisan internal antena celah. 
+Dengan menggunakan hubungan (46) dan (47) maka parameter jaringan ekuivalen antena celah dapat dihitung dari distribusi medan listrik yang didapatkan dari metode numeris. 
+Untuk validasi hasil perhitungan maka nilai konduktans dan suseptans hasil perhitungan dibandingkan dengan hasil dari [3] yang menggunakan metode elemen batas dan [7] yang menggunakan metode gabungan FEM dan MoM. Hasil perbandingan disajikan pada Gbr. 9. Hasil yang dipaparkan adalah hasil perhitungan untuk beberapa variasi panjang antena celah.
+
+Dari hasil pada Gbr. 9 tampak bahwa hasil perhitungan pada makalah ini memiliki nilai antara nilai-nilai yang dihasilkan pada beberapa referensi. Titik potong grafik suseptans dengan garis y=0 menunjukkan panjang resonans antenna celah. Perhitungan pada penelitian ini menghasilkan panjang resonans celah sebesar 0,517λ, sedangkan [3] dan [7] masing-masing menghasilkan panjang resonans 0,508λ dan 0,552λ. Hasil tersebut menunjukkan bahwa hasil perhitungan memiliki perbedaan 1,7% terhadap [3] dan 6,4% terhadap [7]. 
+perbedaan 1,7% terhadap [3] dan 6,4% terhadap [7].
+
+
+Secara umum dapat disimpulkan bahwa hasil perhitungan telah memiliki pola yang sama dengan hasil dari referensi. Perbedaan yang terjadi disebabkan oleh perbedaan metode yang digunakan serta perbedaan fungsi-fungsi yang digunakan selama perhitungan. Dalam hal ini tidak ada solusi analitis dari perhitungan sehingga untuk menguji kebenaran perhitungan harus dilakukan dengan membandingkan dengan hasil pengukuran. 
+Untuk memvalidasi lebih lanjut, hasil perhitungan juga dibandingkan dengan hasil pengukuran pada[16]. Agar dapat dibandingkan, digunakan dimensi dan variasi yang sama, dalam hal ini digunakan parameter antena sama dengan perhitungan sebelumnya dengan menetapkan panjang bagian pada sisi atas dan bawah sebesar Δ = 3,5 mm serta dengan sudut kemiringan berkisar antara 5o sampai dengan 45o. Hasil perhitungan beserta perbandingannya dengan referensi dapat dilihat pada Gbr. 10. Hasil perbandingan menyatakan bahwa metode pada penelitian ini memiliki galat maksimum 0,37, sedangkan hasil pada [7] memiliki galat terbesar terhadap pengukuran sebesar 0,38. Namun, secara keseluruhan rerata galatnya pada pada penelitian ini sebesar 0,020 lebih besar daripada rerata galat pada [7] yaitu 0,016. Hal ini disebabkan oleh beberapa penyederhanaan iterasi yang diberlakukan untuk memperkecil waktu komputasi. Namun dapat diamati bahwa perbedaan antara hasil perhitungan dengan pengukuran juga terjadi pada perhitungan dari [7]. 
+Secara umum dapat disimpulkan bahwa metode yang digunakan telah dapat diaplikasikan dengan hasil yang memiliki kesamaan pola dengan hasil pengukuran maupun dengan beberapa referensi. Antena celah pada pemandu gelombang pada implementasinya lebih banyak digunakan dalam bentuk larik antena yang disusun dari beberapa antenna celah sebagai elemen. Penelitian ini hanya menganalisis satu elemen antena celah, namun hasil yang didapatkan dapat dikembangkan penelitian lanjutan yang memilik kemampuan untuk menganalisis larik antena. 
+IV.KESIMPULAN 
+
+Kombinasi metode elemen hingga dan metode elemen batas telah diimplementasikan pada antena celah pada pemandu gelombang. Berdasarkan prinsip ekuivalen medan, daerah komputasi dibatasi hanya pada daerah rongga celah. Sistem matematis persamaan gelombang pada daerah tersebut dijabarkan dari persamaan variasional reaksi, dan diselesaikan menggunakan metode elemen hingga untuk daerah rongga celah, dan metode elemen batas untuk permukaan batas antara celah dan dinding pemandu gelombang. 
+Penyelesaian numeris dapat digunakan untuk menghitung distribusi medan listrik pada antena celah, dan selanjutnya digunakan untuk menghitung parameter jaringan ekuivalen yaitu konduktans dan suseptans. Hasil perhitungan kedua parameter tersebut memiliki kesesuaian dengan hasil perhitungan dari beberapa metode numeris lain serta hasil pengukuran yang telah dipublikasi pada beberapa referensi. 
+Metode yang diusulkan pada penelitian ini telah memberikan hasil yang sesuai dengan penelitian lain untuk analisis antena tunggal, sehingga dapat digunakan untuk analisis larik antena pada penelitian selanjutnya di masa yang akan datang.
+
+
+
+
+v

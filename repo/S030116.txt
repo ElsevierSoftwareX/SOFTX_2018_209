@@ -1,0 +1,189 @@
+﻿ABSTRAK
+Penelitian ini berupaya memberikan alternatif kepada Manajemen Rumah Sakit
+PHC Surabaya untuk memperoleh informasi biaya yang lebih akurat dalam
+menentukan unit cost per produknya. Hingga saat ini Rumah Sakit PHC Surabaya
+belum pernah melakukan perhitungan unit cost secara update. Dalam menetapkan
+tarif masih menggunakan dasar perhitungan unit cost dengan sistem tradisional
+(double distribution) yang disusun pada tahun 2005 dan di-update setiap dua
+tahun sekali sesuai dengan kebijakan dan pertimbangan manajemen. Analisa
+dilakukan dengan melakukan perhitungan unit cost beberapa produk instalasi
+kamar operasi berdasarkan tahap-tahap sistem Time Driven Activity Based Costing
+(TDABC), dan kemudian menganalisa kelemahan dan kelebihan informasi biaya
+yang dihasilkan. TDABC lebih simple dalam implementasinya dibandingkan
+dengan sistem yang digunakan saat ini, karena lebih fokus pada proses bisnis dan
+waktu yang digunakan oleh produk itu sendiri.
+Melalui informasi biaya berdasarkan TDABC, Manajemen rumah sakit dapat
+mengevaluasi aktivitas yang mempunyai value added dan yang non value added
+dengan pendekatan Activity Based Management (ABM), serta membantu dalam
+proses menentukan tarif yang kompetitif karena TDABC mencerminkan proses
+bisnis dan waktu masing-masing aktivitas produk tersebut. Berdasarkan
+kesimpulan yang dihasilkan maka saran-saran yang bisa diajukan dari penelitian
+ini adalah perlu dipertimbangkan oleh Manajemen Rumah Sakit PHC Surabaya
+untuk memperbaiki sistem informasi biaya per produk dari sistem yang digunakan
+saat ini ke sistem TDABC secara bertahap agar dapat mendukung dan memberi
+kemudahan pada Manajemen rumah sakit dalam menetapkan tarif yang
+kompetitif, efisiensi dan meningkatkan profitabilitas rumah sakit.
+Kata Kunci: Time Driven Activity Based Costing, Pricing, dan Activity Based
+Management.
+
+BAB 1
+PENDAHULUAN
+1.1 Latar Belakang
+Rumah sakit sebagai institusi yang bergerak di bidang pelayanan kesehatan
+terus mengalami perubahan. Awalnya rumah sakit merupakan lembaga yang
+berfungsi sosial, namun kemudian rumah sakit menjadi suatu industri yang
+bergerak dalam bidang pelayanan kesehatan. Dewasa ini semakin banyak rumah
+sakit baru yang bermunculan, semua berkompetisi untuk menarik konsumen agar
+menggunakan jasanya. Beberapa ciri keinginan konsumen dalam memperoleh
+pelayanan kesehatan adalah dari kelengkapan alat yang dimiliki suatu rumah sakit
+dan harga yang kompetitif.
+Industri rumah sakit tidak berbeda dengan industri yang lain, tarif tetap
+menjadi pertimbangan utama disamping layanan yang diperoleh konsumen.
+Dalam penentuan tarif, rumah sakit harus mempunyai perhitungan unit cost
+masing-masing produknya, karena dengan melakukan perhitungan unit cost dapat
+memberikan informasi biaya kepada Manajemen rumah sakit dalam penentuan
+kebijakan tarif serta mendukung upaya peningkatan profitabilitas rumah sakit.
+Sumber utama pendapatan sebuah rumah sakit adalah dari aktivitasnya
+dalam memberikan layanan kesehatan, pengobatan dan perawatan. Pendapatan
+rumah sakit diperoleh dari tarif yang harus dibayar oleh pengguna jasa dikalikan
+dengan jumlah kunjungan pengguna jasa atau jumlah tindakan yang telah
+
+dikerjakan. Penentuan tarif merupakan keputusan yang dapat mempengaruhi
+profitabilitas suatu rumah sakit.
+Rumah sakit sebagai sistem dipengaruhi berbagai faktor lingkungan baik
+hukum dan perundangan, politik, ekonomi, maupun sosial budaya. Dengan
+demikian rumah sakit dapat menjadi unit pelaksana pemerintah dalam
+memberikan pelayanan publik ataupun sebagai institusi pelayanan swasta.
+(Soeroso, 2003:11). Hal ini menuntut Manajemen rumah sakit untuk melakukan
+perhitungan unit cost atas produknya untuk mendukung Manajemen dalam
+pengambilan keputusan guna menghadapi persaingan. Apabila rumah sakit
+terjebak dalam persaingan dengan menetapkan tarif yang lebih rendah dari para
+pesaingnya dan mengabaikan perhitungan unit cost maka akan berpengaruh
+terhadap kinerja profitabilitasnya. Dengan memiliki perhitungan unit cost yang
+tepat dan akurat maka Manajemen dapat mengelola biaya lebih baik karena
+mendapatkan informasi yang akurat untuk melakukan perbaikan proses,
+penentuan harga, pelayanan pada pasien maupun peningkatan profitabilitas.
+Penentuan unit cost dalam analisis biaya diperlukan untuk mengetahui
+besarnya biaya yang benar-benar dibutuhkan untuk menghasilkan suatu produk
+baik berupa barang ataupun jasa, disamping tujuan lainnya seperti menilai
+efisiensi dalam anggaran (Supriyanto, 2000). Informasi unit cost digunakan untuk
+menentukan tarif. Tarif merupakan suatu sistem atau model pembiayaan yang
+paling utama pada sebuah rumah sakit, sehingga penentuan tarif pelayanan
+menjadi suatu keputusan yang sangat penting.
+
+Rumah Sakit PHC Surabaya merupakan anak perusahaan dari
+PT. Pelabuhan Indonesia III (Persero) sejak September 1999. Adapun layanan
+Rumah Sakit PHC Surabaya meliputi: Instalasi Rawat Jalan, Instalasi Gawat
+Darurat, Instalasi Kamar Operasi, Instalasi Rawat Inap, Instalasi Penunjang
+Medis, Instalasi Farmasi dan Instalasi Gizi. Instalasi kamar operasi memegang
+komposisi pendapatan sebesar 17% dari total pendapatan rumah sakit, sehingga
+akan sangat mempengaruhi kinerja profitabilitas rumah sakit apabila terjadi
+penurunan pendapatan pada instalasi kamar operasi, karena layanan kamar operasi
+juga memberikan kontribusi dalam pelayanan unit penunjang yang lainnya dan
+meningkatkan utilisasi kamar pada instalasi rawat inap.
+Tarif yang berlaku di rumah sakit PHC saat ini berdasarkan perhitungan
+unit cost dengan metode tradisional yang disusun pada tahun 2005 dan
+selanjutnya disesuaikan setiap dua tahun sekali atau sesuai kebijakan Manajemen
+berdasarkan tarif kompetitif antar rumah sakit pesaing. Adapun rumah sakit yang
+dianggap sebagai pesaing rumah sakit PHC Surabaya adalah rumah sakit Adi
+Husada Undaan dan Mitra Keluarga, karena memiliki kesamaan kelas yaitu kelas
+B, kesamaan segmen pasar yaitu menengah ke atas. Perhitungan unit cost per
+produk saat ini dibutuhkan oleh Manajemen rumah sakit agar bisa digunakan
+sebagai acuan dalam menetapkan kebijakan tarif dan mengelola biaya yang lebih
+baik.
+Rumah sakit merupakan suatu bisnis yang unik dan padat karya, sekitar
+30% dari total biaya adalah fixed cost. Sehingga dalam kondisi apa pun rumah
+sakit harus mampu menanggung biaya tersebut. Jika Manajemen rumah sakit tidak
+
+melakukan cost management dengan tepat maka akan terjadi inefisiensi bahkan
+kerugian. Bersaing melalui tarif tidaklah mudah, karena tarif layanan kesehatan
+bersifat rata-rata dan saling menengok rumah sakit yang dianggap sebagai
+pesaing, namun demikian jika rumah sakit dalam menentukan tarif berpedoman
+pada perhitungan unit cost yang tepat maka rumah sakit akan tetap survive and
+bahkan berkembang.
+Tabel 1.1
+Perkembangan Usaha RS.PHC selama 5 Thn terakhir
+U R A I A N 2007 2008 2009 2010 2011 2012 R ata2
+PERTUMBUHAN LABA RUGI USAHA
+P endapatan Usaha K otor 102% 133% 116% 110% 115% 120% 116%
+R eduksi P endapatan 120% 171% 26% 95% 107% 87% 101%
+P endapatan Usaha B ersih 102% 132% 117% 110% 115% 120% 116%
+B iaya Usaha 104% 129% 117% 110% 119% 120% 116%
+LABA / RUGI KOTOR 76% 185% 114% 110% 78% 124% 114%
+S elis ih Diluar Usaha -36% 1841% 78% 112% 45% 199% 373%
+LABA / RUGI S E BE LUM PAJAK 72% 150% 124% 109% 83% 118% 109%
+Sumber data: RS. PHC Surabaya
+Tabel perkembangan usaha RS. PHC Surabaya menunjukkan bahwa rasio
+pertumbuhan pendapatan dan biaya minimal sama atau bahkan rasio pertumbuhan
+biaya melebihi rasio pertumbuhan pendapatan seperti yang terjadi pada tahun
+2007 dan 2011. Apabila hal tersebut berkelanjutan maka akan mengganggu
+profitabilitas rumah sakit.
+Pendapatan rumah sakit adalah bersumber dari tarif layanan yang telah
+ditetapkan oleh Manajemen. Biaya rumah sakit terdiri dari biaya langsung dan
+biaya tidak langsung yang digunakan untuk menghasilkan suatu produk layanan
+kesehatan. Rasio pertumbuhan pendapatan dan biaya yang relatif sama bisa
+dikarenakan kebijakan penetapan tarif yang kurang tepat, kurang optimalnya
+pemanfaatan kapasitas yang tersedia atau terjadinya inefisiensi.
+Saat ini Rumah Sakit PHC Surabaya dalam menetapkan tarifnya masih
+berdasarkan unit cost yang dihitung dengan menggunakan sistem tradisional
+(double distribution) yang disusun sejak tahun 2005 dan selanjutnya disesuaikan
+setiap dua tahun sekali dengan mempertimbangkan adanya inflasi dan tarif rumah
+sakit pesaing. Mengingat pentingnya penentuan unit cost suatu produk agar
+diperoleh data yang akurat, maka diperlukan alat yang tepat untuk menentukan
+unit cost tersebut yaitu Akuntansi Biaya. Akuntansi Biaya memberikan informasi
+penting bagi para manajer untuk merencanakan, mengendalikan dan juga
+menentukan biaya atas produk yang dihasilkan.
+Penentuan unit cost dengan menggunakan akuntansi biaya tradisional
+berpotensi tidak sesuai ketika diterapkan pada perusahaan yang mempunyai
+keanekaragaman produk seperti pada rumah sakit. Pada tahun 1980-an metode
+Activity Based Costing System (ABC system) menjadi bahan pembicaraan yang
+menarik oleh kalangan akademik, konsultan dan para manajer karena dianggap
+mampu menutupi kelemahan metode alokasi biaya tradisional, namun metode
+ABC system ini memiliki kelemahan dalam penerapannya.
+Tahun 2004, Kaplan dan Anderson mengembangkan inovasi baru terhadap
+sistem ABC yang disebut Time Driven ABC (TDABC) untuk mengatasi
+kelemahan sistem tradisional ABC. Pendekatan TDABC mengidentifikasi
+berbagai departemen, biaya, serta kapasitas praktis. Sistem TDABC memperbaiki
+kekurangan yang timbul dari sistem tradisional ABC. TDABC memberikan
+informasi proses bisnis suatu produk serta sumber daya yang digunakan.
+Berdasarkan uraian tersebut, maka masalah yang akan diteliti adalah penentuan
+unit cost pada instalasi kamar operasi berdasarkan sistem TDABC sebagai solusi
+alternatif informasi Manajemen untuk meningkatkan kualitas pengambilan
+keputusan strategis.
+1.2. Rumusan Masalah
+Berdasar uraian tersebut, rumusan masalah yang diajukan dalam penelitian
+ini adalah:
+1. Bagaimana informasi unit cost instalasi kamar operasi Rumah Sakit
+PHC Surabaya yang saat ini digunakan sebagai dasar pengambilan
+keputusan Manajemen?
+2. Bagaimana informasi unit cost berbasis Time Driven Activity Based
+Costing dapat memberikan informasi biaya yang lebih baik sebagai
+dasar pengambilan keputusan tarif pada instalasi kamar operasi Rumah
+Sakit PHC Surabaya?
+3. Bagaimana informasi unit cost berbasis Time Driven Activity Based
+Costing dapat digunakan sebagai alat untuk Manajemen biaya yang
+lebih baik pada instalasi kamar operasi Rumah Sakit PHC Surabaya?
+1.3. Tujuan Penelitian
+Penelitian ini dilakukan dengan beberapa tujuan sebagai berikut:
+
+1. Mengevaluasi informasi unit cost di instalasi kamar operasi RS. PHC
+Surabaya saat ini yang digunakan sebagai dasar pengambilan keputusan
+Manajemen.
+2. Memberikan informasi biaya yang lebih baik yang bisa digunakan sebagai
+dasar pengambilan keputusan tarif pada instalasi kamar operasi Rumah Sakit
+PHC Surabaya.
+3. Memberikan informasi unit cost berbasis Time Driven Activity Based Costing
+yang dapat digunakan sebagai alat untuk Manajemen biaya yang lebih baik
+pada instalasi kamar operasi Rumah Sakit PHC Surabaya.
+1.4. Manfaat Penelitian
+Penelitian ini diharapkan dapat memberi manfaat:
+1. Manfaat teoritik adalah penelitian ini memberikan kontribusi pada ilmu
+akuntansi Manajemen khususnya pada industri jasa layanan kesehatan dalam
+menentukan unit cost berbasis Time Driven Activity Based Costing pada
+instalasi kamar operasi, sehingga bisa mendukung Manajemen rumah sakit
+dalam mengambil keputusan-keputusan strategis dalam menghadapi
+persaingan.
+2. Manfaat praktis adalah penelitian ini dapat dijadikan dasar atau referensi
+dalam pengambilan keputusan tarif pada instalasi kamar operasi rumah sakit
+PHC Surabaya dan dalam melakukan Manajemen biaya yang lebih baik guna
+menghadapi persaingan serta meningkatkan profitabilitas rumah sakit.

@@ -1,0 +1,961 @@
+﻿ANALISIS OPTIMALISASI PENGADAAN TANDAN BUAH SEGAR (TBS)
+SEBAGAI BAHAN BAKU PRODUKSI CRUDE PALM OIL (CPO) DAN PALM
+KERNEL (PK)DI PMKS SEI KANDANG PT. ASIATIC PERSADA-AMS GROUP
+
+
+
+
+
+Abstrak. Sebagai perusahaan minyak agribisnis sawit, PT. AMS melalui anak perusahaannya,
+PT. Asiatic Persada bertujuan meningkatkan keuntungan perusahaan dari penjualan CPO dan
+Kernel yang diproses di PMKS Sei Kandang. Ketersediaan bahan baku tandan buah segar
+(TBS) PMKS Sei Kandang tidak optimal sehingga produksi CPO dan PK juga tidak optimal
+dan berakibatkeuntungan perusahaan tidak maksimal. Penelitian ini bertujuan memberikan
+masukan untuk optimalisasi pengadaan TBS dengan konsep pemrograman linear (LP).
+Melalui pendekatan optimal EOQ pembelian TBS luar selama 2014 masih dibawah standard
+optimal sehingga PMKS Sei Kandang seharusnya melakukan kebijakan kombinasi pengadaan
+bahan baku TBS dari kebun sendiridan melakukan pembelian TBS luar.
+Kata kunci: Optimalisasi, pemrograman liniar, CPO, kernel, FFB.
+PENDAHULUAN
+Prospektif keberlanjutan bisnis perkebunan kelapa sawit tidak perlu diragukan. Sejak
+1911 ketika dimulai usaha perkebunan sawit di Sumatera Utara, bisnis tersebut terbukti masih
+bisa bertahan dan bahkan menjadi salah satu sektor komoditas andalan perekonomian
+Indonesia. Sektor ini juga mampu menyerap tenaga kerja yang cukup besar. Produksi kelapa
+sawit Indonesia yang dikelola oleh perkebunan besar sejak tahun 2004 terus meningkat
+dibandingkan 5 komoditas perkebunan lainnya (Tabel 1). Dimana produksi sawit dibagi
+menjadi 2 yaitu minyak sawit (CPO) dan biji inti sawit (Kernel).
+Hasil olahan tandan buah segar (TBS) perlu mendapat perhatian karena meskipun
+Indonesia belum sepenuhnya unggul dalam produk hilir (biodisel, minyak goreng, mentega)
+tetapi CPO dan Kernel merupakan komoditas ekspor utama dari sektor perkebunan. Peran
+industri perkebunan negara, rakyat dan swasta dalam skala kecil maupun besar tidak terlepas dari perkembangan luas areal total perkebunan kelapa sawit yang meningkat. Luas areal
+menurut
+Tabel 1.Produksi Perkebunan Indonesia Menurut Jenis Tanaman, 2004-2013
+Tahun
+Minyak
+Sawit
+Biji Sawit
+Gula Tebu
+Karet
+Kering
+Teh
+Coklat
+Kopi
+2004 8,479 1,862 2,052 404 126 55 29
+2005 10,119 2,140 2,242 432 128 55 25
+2006 10,962 2,363 2,307 555 115 67 29
+2007 11,438 2,593 2,624 578 117 69 24
+2008 12,478 2,829 2,668 586 113 63 28
+2009 13,873 3,146 2,334 522 107 68 29
+2010 14,038 3,183 2,289 541 100 65 29
+2011 15,198 3,446 2,244 630 95 68 22
+2012 16,818 3,364 2,593 583 92 53 29
+2013* 17,391 3,648 2,555 670 96 55 30
+Sumber: BPS (2015)
+
+
+
+
+
+
+Status kepemilikan di 2014* untuk PBR (Perkebunan Rakyat) mencapai seluas 4,55
+juta Ha atau 41% dari total luas areal, milik negara (PBN) seluas 0,75 juta Ha atau 8 % dari
+total luas areal, milik swasta (PBS) seluas 5,66 juta Ha atau 51 %. Data tersebut menunjukkan
+dominasi perusahaan swasta dalam bisnis perkebunan kelapa sawit di Indonesia (Dirjenbun,
+2014).
+Pada tahun 2013 Indonesia menjadi negara nomor satu pengekspor minyak sawit
+mentah dengan volume ekspor minyak sawit 26,7 juta ton dengan nilai US $ 19,1 Juta (47%
+perdagangan minyak sawit internasional).Sementara Malaysia menjadi urutan kedua memiliki
+21,7 juta ton (39 % dari minyak sawit internasional Perdagangan) seperti yang disajikan pada
+Gambar 1.
+
+
+Wilayah Indonesia dominan penghasil sawit adalah Sumatera terutama Riau. Sasaran
+jangka panjang meliputi perluasan pengembangan produk akhir, penciptaan pusat keunggulan
+untuk industri oleokimia, penguasaan pasar, konsolidasi industri yang ramah lingkungan, dan
+integrasi industri kelapa sawit di Kalimantan Timur, Kalimantan Tengah, Kalimantan Barat.
+(Rifai dkk, 2014).
+
+
+PT Agro Mandiri Semesta (AMS Plantation) merupakan salah satu industri
+perkebunan swasta di Indonesia yang turut berperan sebagai penghasil minyak sawit mentah
+melalui salah satu anak perusahaannya yaitu PT Asiatic Persada (PT ASP) yang unit
+bisnisnya berlokasi di Jambi. Sumber pendapatan perusahaan terutama dari penjualan CPO
+(minyak sawit mentah) dan Palm Kernel (biji inti kelapa sawit).
+Bahan baku TBS yang diolah oleh PMKS Sei Kandang berasal dari dua sumber yaitu
+TBS yang dihasilkan oleh kebun sendiri dan pembelian dari luar kebun (pihak ketiga) yang
+biasanya dari masyarakat sekitar yang memiliki kebun sawit dalam skala kecil. Pada tahun
+2014 TBS kebun hanya dapat memasok 78% dan pembelian TBS sebesar 3% dari target yang
+ditetapkan manajemen pabrik. Akibat pasokan TBS yang kurang optimal maka produksi CPO
+dan PK juga tidak optimal sehingga mengakibatkan keuntungan perusahaan tidak maksimal,
+dimana periode 2014 loss profit mencapai 29%. Salah satu tujuan yang ingin dicapai PT.
+AMS sebagai perusahaan agribisnis adalah memperoleh keuntungan maksimal dari
+penjualan CPO dan PK. Penelitian ini bertujuan menganalisis optimalisasi pengadaan bahan
+baku TBS di PMKS Sei Kandang dan pemanfaatan sumberdaya terbatas yang dimiliki
+perusahaan untuk mencapai produksi yang optimal melalui pendekatan linear progamming.
+KAJIAN TEORI
+Perkembangan Perkebunan Kelapa Sawit Indonesia. Kelapa sawit (Elaeis) adalah
+tanaman perkebunan penting penghasil minyak makanan, minyak industri, maupun bahan
+bakar nabati (biodiesel). Usaha perkebunan kelapa sawit rakyat umumnya dikelola dengan
+model kemitraan dengan perusahaan besar swasta dan perkebunan negara (inti–plasma).
+Produktivitas kebun sawit rakyat rata-rata 16 ton TBS/ha, sementara potensi produksi
+bila menggunakan bibit unggul sawit bisa mencapai 30 ton TBS/ha. Produktivitas CPO
+(Crude Palm Oil) perkebunan rakyat hanya mencapai rata-rata 2,5 ton CPO per ha dan 0,33
+ton minyak inti sawit (PKO) per ha. Di sisi lain, Perkebunan Negara rata-rata menghasilkan
+4,82 ton CPO per hektar dan 0,91 ton PKO per hektar, dan perkebunan swasta rata-rata
+menghasilkan 3,48 ton CPO per hektar dan 0,57 ton PKO per hektar (Kiswanto dkk, 2008).
+Buah yang dipanen dalam bentuk tandan disebut dengan tandan buah segar (TBS).
+Bentuk, susunan, dan komposisi tandan sangat ditentukan oleh jenis tanaman dan
+kesempurnaan penyerbukan. Buah sawit yang berukuran 12-18 gr/butir, dapat dipanen setelah
+berumur enam bulan terhitung sejak penyerbukan. Setiap pohon kelapa sawit berpotensi
+menghasilkan 10-12 TBS/pohon setiap tahunnya. Bunga betina membutuhkan waktu antara
+4,5 sampai 6 bulan untuk mengembangkan dari bunga mekar ke kematangan. Sintesis minyak
+dalam mesocarp terjadi 15-16 minggu setelah bunga mekar dan selesai pada sekitar 20 sampai
+22 minggu (Kassim dkk, 2012).
+Proses Produksi CPO dan Kernel. Dua jenis minyak dapat diperoleh dari bahan baku
+tandan kelapa sawit segar buah (TBS) yaitu CPO (minyak sawit) dan PKO (minyak inti
+sawit). Buah sawit adalah buah berbiji, oval, dan berisi kernel yang benih (biji). Kernel
+dikelilingi oleh buah dinding terbuat dari cangkang keras (endocarp), berserat bubur buah
+atau minyak bearing jaringan (mesocarp) dan kulit seperti yang ditunjukkan pada Gambar 2
+(Subramaniam dkk, 2010).
+
+Proses pengolahan tandan kelapa sawit menjadi minyak sawit dapat dilakukan dengan
+cara yang sederhana. Selain itu, proses pengolahannya dapat pula menggunakan teknologi
+tinggi yang biasa digunakan perkebunan-perkebunan besar untuk menghasilkan minyak sawit
+mentah (CPO) dengan kualitas ekspor. Tujuan pengolahan kelapa sawit adalah untuk
+menghasilkan minyak sawit dan inti sawit dengan mutu yang baik dan rendemen yang
+optimum. Proses produksi CPO secara umum terdiri dari proses penerimaan TBS, proses
+perebusan, penebahan, pengadukan, pengolahan minyak, pengolahan biji sampai proses
+penyimpanannya (Lubis, 2008).
+Manajemen Pengadaan Bahan Baku. Manajemen bahan baku sangat penting untuk kinerja
+keseluruhan proses manufaktur. Manajemen yang efisien dan perencanaan yang efektif akan
+menentukan tingkat aktivitas, turn-over, dan keuntungan dalam suatu perusahaan. Penentuan
+kuantitas pemesanan ekonomis (EOQ), tingkat re-order, dan minimum/maksimum tingkat
+stok sangat penting dalam manajemen bahan baku. Manajemen material (perencanaan,
+pengendalian, pengorganisasian, mengarahkan) diperlukan untuk mencapai efisiensi dalam
+pengadaan, transportasi, penyimpanan, dan pemanfaatan masukan dari organisasi manufaktur
+karena merupakan kegiatan produksi dan manajemen (Akindipe, 2014).
+Ekstraksi bahan baku biasanya dikelola langsung oleh industri, sedangkan transportasi
+umumnya diserahkan kepada pihak ketiga. Waktu pengiriman yang lama akan meningkatkan
+inefisiensi rantai pasokan. Oleh karena itu dampak ekonomi utama adalah meningkatnya
+durasi dan biaya jasa transportasi, terjadinya kenaikan biaya pengadaan bahan baku, dan
+akibatnya berdampak pada harga yang harus dibayar oleh pelanggan dari produk jadi. Efek
+penting lainnya adalah penundaan dalam proses pengiriman berupa ketidakpatuhan dengan
+rute dan jadwal harian yang direncanakan (Marque dkk, 2012).
+
+
+Hasil produksi pabrik minyak sawit tergantung dari mutu TBS yang diolah. Oleh
+sebab itu dilakukan penyortiran agar nilai % OER & KER baik. Kriteria TBS dapat
+diklasifikasikan sebagai berikut (Sumber: SOP/POM-ASP/2013): (a) TBS mentah (Unripe):
+Adalah TBS yang membrondol kurang dari 1 brondol per kilogram janjang (Gambar 3). (b)
+TBS Masak (Ripe): Adalah TBS yang warnanya kemerahan dan membrondol paling sedikit 1
+brondolan per kilogram janjang dan paling banyak 25 % (Gambar 4). (c) TBS terlalu masak
+(Over ripe): Adalah TBS yang membrondol lebih dari 25 % hingga maksimum 75 % (Gambar
+5). (d) Janjang Kosong: Adalah TBS yang membrondol lebih dari 75% (Gambar 6). (e) TBS
+Abnormal: Adalah TBS yang gagal berkembang menjadi TBS masak normal, antara lain:
+TBS parthenokarhi (> 50% brondol parthenokarphi), TBS batu dan TBS sakit (Gambar 7). (f)
+TBS tangkai panjang: Adalah TBS yang memiliki panjang gagang lebih dari 2 cm diukur dari
+potongan yang terdekat dengan sisi permukaan TBS (Gambar 8). (g) TBS dimakan tikus:
+Adalah TBS yang dimakan tikus yaitu: terdapat lebih dari 3 (tiga) brondol dalam satu janjang
+bekas keratan baru gigitan tikus (Gambar 9).
+Pabrik Minyak Kelapa Sawit (PMKS) merupakan pabrik yang mengolah kelapa sawit
+dengan metode dan aturan tertentu hingga menghasilkan Crude Palm Oil (CPO) dan Palm
+Kernel Oil (PKO). Dalam proses pengolahan tersebut, perusahaan berupaya mengoptimalkan
+jumlah rendemen CPO dan PKO. Salah satu sistem manajemen yang diterapkan untuk
+mendapatkan jumlah rendemen yang optimal adalah menekan terjadinya kehilangan minyak
+(oil losses) pada CPO dan kehilangan Kernel (losses PKO) selama proses produksi (Devani
+dan Marwiji, 2014).
+Model Optimalisasi Produksi. Perancangan sistem perencanaan dan pengendalian produksi
+untuk agroindustri perlu memperhatikan karakteristik dari bahan baku yang khas tersebut.
+Faktor musiman menyebabkan pentingnya penjadwalan tanam untuk jenis tanaman yang
+cepat panen. Jenis tanaman seperti kelapa sawit yang berumur panjang dan produktivitas yang
+tinggi, serta variasi jumlah buah siap panen mengharuskan pentingnya prakiraan jumlah
+panen dari setiap kebun. Sistem perencanaan produksi pada agroindustri CPO menggunakan
+sistem dorong. Model perencanaan produksi adalah kegiatan memproduksi minyak sawit mentah untuk setiap periode berdasarkan jumlah pasokan TBS(Hadiguna dan Machfud,
+2008).
+Proses pemanenan kelapa sawit meliputi pekerjaan memotong tanda buah segar
+(TBS), memungut brondolan, dan mengangkut dari pohon ke tempat pengumpulan hasil
+(TPH) serta ke pabrik. Pelaksanaan panen dan pengangkutan ke pabrik perlu dilakukan
+dengan baik sehingga diperoleh buah dengan rendemen minyak yang tinggi dengan kualitas
+minyak yang baik. TBS yang ada di TPH harus segera diangkut ke pabrik untuk diolah. Buah
+yang tidak segera diolah akan mengalami kerusakan. Alat angkut yang dapat digunakan dari
+kebun kepabrik diantaranya adalah lori, traktor, dan truk. Setelah TBS sampai di pabrik,
+segera dilakukan penimbangan. Penimbangan penting dilakukan terutama untuk mendapatkan
+angka-angka yang berkaitan dengan produksi, pembayaran upah pekerja, dan perhitungan
+rendemen minyak sawit (Sukadi dan Widyaiswara, 2014).
+Akindipe (2014) dalam penelitiannya menemukan ada masalah operasional penting
+dalam pengelolaan bahan baku di organisasi manufaktur. Perbaikan manajemen bahan baku
+ditujukan untuk mencapai efisiensi dalam praktek operasional. Masalah ketersediaan bahan
+baku secara eksplisit memperhitungkan penjadwalan dan kapasitas produksi secara bersamasama
+dan dipertimbangkan sebagai strategi manufaktur yang berusaha untuk menggabungkan
+pemenuhan target produksi (Grigoriev dkk, 2005). Haloho (2008) menggunakan peramalan
+dan linear progamming untuk tingkat alternatif kombinasi pengadaan Tandan Buah Segar
+(TBS) dalam memproduksi Crude Palm Oil dan Palm Kernel pada tahapan setelah kegiatan
+replanting. Disimpulkanbahwa tingkat produksi optimal didapatkan dari kebun sendiri agar
+keuntungan yang diperoleh mengalami kenaikan.
+Optimalisasi merujuk pada studi permasalahan yang mencoba mencari solusi optimal,
+yaitu penyelesaian yang tidak melanggar batasan-batasan yang ada, yang mempunyai nilai
+tujuan terbesar atau terkecil, tergantung dari fungsi tujuannya yaitu maksimal atau minimal.
+Sedangkan nilai optimal adalah nilai dari sebuah program linier dari sebuah fungsi tujuan
+yang bersesuaian dengan solusi optimalnya (Muspa dan Handyga, 2014).Mukhopadhyay and
+Adrijit (2014) dalam penelitiannya melakukan perumusan optimalisasi produksi dengan
+pengadaan bahan baku melalui pendekatan Economic Quantity Order (EOQ) untuk
+menentukan jumlah pembelian (order quantity) dan kapan harus memesan kembali (titik
+pemesanan ulang).
+Linear Progamming. Banyak aplikasi dalam bisnis dan ekonomi melibatkan proses yang
+disebut optimasi, yaitu mencari biaya minimum, keuntungan maksimum, atau penggunaan
+sumber daya minimal. Salah satu jenis masalah optimasi disebut pemrograman linear. Sebuah
+masalah pemrograman linear terdiri atas dua dimensi yaitu fungsi obyektif linear dan sistem
+linear kesenjangan yang disebut kendala. Fungsi tujuan memberikan jumlah yang akan
+dimaksimalkan (atau diminimalkan), dan kendala menentukan sekumpulan solusi yang layak
+(Jayalakshmi dan Pandian, 2012).
+Murugan dkk (2013) berhasil mengembangkan model pemrograman linear yang
+akurat untuk mengoptimalkan perencanaan produksi.Balogun dkk (2012) dalam penelitiannya
+menggunakan teknik pemrograman linear untuk memperoleh keuntungan maksimal dari
+produksi minuman ringan untuk Nigeria Bottling Company Nigeriadengan hasil optimal yang
+diperoleh dengan menggunakan metode simplex.
+Formulasi model dengan metode simplex dapat dipecahkan dengan menggunakan
+program komputer LINDO. Cara penggunaan program ini yaitu dengan memasukkan formulasi model matematika yang sudah dibuat ke dalam program sehingga dihasilkan tabel
+simpleks awal dan selanjutnya diadakan iterasi sampai mencapai solusi yang optimum
+(Leatimia dkk, 2013).
+METODE
+Penelitian ini menggunakan desain penelitian kuantitatif deskriptif dengan pendekatan
+studi kasus (case study). Variabel dalam penelitian ini merupakan penjabaran dari fungsi pada
+analisis optimalisasi dalam linear progamming operation research dasar sebagaimana
+disajikan pada Tabel 2.
+Data penelitian merupakan data sekunder yang dikumpulkan secara langsung dari
+pihak PMKS Sei Kandang dan POM (Palm Oil Mill) Department. Data berupa laporan
+perusahaan (Januari sd Desember 2014) mengenai bahan baku TBS, penjualan CPO-PK,
+tenaga kerja, kapasitas pabrik, dan biaya produksi serta data pendukung dari berbagai literatur
+dan web resmi lembaga terkait (BPS).
+Populasi penelitian ini adalah semua unit bisnis di PT AMS. Pada penelitian ini
+sampel yang diambil adalah unit bisnis PT Asiatic Persada dengan PMKS Sei kandang
+dengan pertimbangan: (a) PMKS Sei kandang sudah lama dibangun dan kapasitas olah paling
+besar (60 ton/jam) di antara PMKS lainnya sehingga cukup berpengaruh dalam pendapatan
+perusahaan dari penjualan produk. (b) Dari populasi unit bisnis PT AMS yang tersebar di
+bebarapa wilayah, lokasi PT ASP paling dekat dari unit bisnis lainnya yaitu Jambi, dan luasan
+kebun, PT ASP memiliki 4 kebun dan luas totalnya 13,094 Ha, paling luas diantara unit bisnis
+tanah mineral. (c) Keterbatasan penulis dalam menentukan sampel secara acak karena unit
+bisnis PT AMS cukup banyak.
+Data yang diperoleh dianalisis dengan tahap: (a) Analisis gross margin. Gross margin
+menggambarkan kemampuan PMKS Sei Kandang untuk dapat menghasilkan laba kotor.
+Analisis ini disusun dengan membuat kalkulasi selisih hasil penjualan CPO dan PK dengan
+biaya produksi (biaya pengadaan TBS dan pengelolaan). Gross margin dapat diformulasikan
+sebagai berikut : π = TR – TC
+
+
+Dimana :
+Π = Profit
+TR = Total revenue (penjualan)
+TC = Total cost
+
+
+
+
+Tabel 2. Definisi Operasional dan Pengukuran Variabel
+Variabel Definisi Operasional
+Satuan
+Terukur
+1. Variabel Keputusan
+a. CPO sebagai produk berupa minyak sawit mentah per kg yang
+dihasilkan dari pengolahan TBS sebagai pendapatan pertama
+perusahaan.
+Kg
+b. PK (Palm Kernel) PK diinilai sebagai produk berupa bijih sawit inti yang
+dihasilkan dari pengolahan TBS sebagai pendapatan kedua
+perusahaan.
+Kg
+c. Harga Jual CPO Nilai Jual CPO/Kg yang disepakati terhadap penjual. Rp/Kg
+d. Harga Jual PK Nilai Jual PK/Kg yang disepakati terhadap penjual. Rp/Kg
+e. Biaya pengadaan bahan
+baku TBS dari kebun
+sendiri
+Biaya pengadaan TBS yang dikeluarkan oleh PMKS dari
+kebun sendiri.
+Rp/Kg
+TBS
+f. Biaya pengadaan bahan
+baku TBS dari pembelian
+Biaya pengadaan TBS yang dikeluarkan PMKS dari pembelian
+diluar kebun.
+Rp/Kg
+TBS
+g. Biaya pengolahan TBS Biaya yang dikeluarkan dari proses pengolahan bahan baku /
+TBS untuk menjadi CPO dan PK
+Rp/kg TBS
+2. Variabel Tujuan :
+Maksimasi profit Profit dalam penelitian ini adalah gross margin (laba kotor)
+yang diperoleh dari selisih penjualan CPO dan PK dengan
+biaya produksi (biaya pengadaan TBS dan pengelolaan).
+Rp
+3. Variabel Kendala :
+a. Ketersediaan TBS TBS merupakan bahan baku untuk memproduksi CPO dan PK. Kg
+b. Kapasitas olah PMKS Kemampuan pabrik untuk mengolah TBS sehingga
+menghasilkan CPO dan PK.
+Ton
+TBS/Jam
+c. Kuota pembeliaan TBS
+luar
+Pasokan TBS dari luar kebun merupakan salah satu alternatif
+untuk meningkatkan sumber ketersediaan bahan baku dalam
+pengolahan CPO dan PK.
+Ton/Hari
+d.Ketersediaan tenaga kerja
+pengolahan
+Tenaga kerja yang digunakan untuk proses pengolahan
+disesuaikan dengan kapasitas pabrik dengan kebutuhan
+proses pengolahan harian.
+Jumlah
+Orang
+e.Rendemen CPO dan PK Persentase nilai CPO dan PK yang dihasilkan dari setiap
+kilogram TBS yang diolah.
+%
+
+
+
+
+
+
+
+
+
+
+
+
+b)Analisis optimalisasi dengan linear programming. Dengan menggunakan metode linear
+programming untuk membantu dalam menyelesaikan optimalisasi yaitu memformulasikan
+permasalahan yang ada ke dalam bentuk persamaan linear sebagai berikut: (1) Menentukan
+variabel keputusan
+X1 : Produksi CPO yang dihasilkan perbulan (kg)
+X2 : Produk PK yang dihasilkan perbulan (kg)
+P1 : Harga CPO/kg yang dijual perbulan
+P2 : Harga PK/kg yang dijual perbulan
+X3 : Biaya pengadaan bahan baku TBS/Kg dari kebun sendiri
+X4 : Biaya pengadaan bahan baku TBS/Kg dari pembelian
+X5 : Biaya pengolahan TBS/Kg
+Variabel keputusan pada penelitian ini merupakan alternatif yang diupayakan untuk
+dioptimalkan, namun variabel keputusan (harga dan biaya) dianggap tetap dan mengikuti data
+sekunder yang ada di perusahaan. Bahan baku TBS dan produk yang dihasilkan ditujukan
+untuk dioptimalkan. Jumlah bahan baku TBS (kg) optimal dihitung berdasarkan biaya
+pengadaan TBS (Kg/TBS) baik dari kebun sendiri maupun pembelian luar.
+
+Tabel 3. Data Aktual untuk Dasar Variabel Keputusan
+Bulan
+CPO
+(Kg)
+PK (Kg)
+Harga
+CPO
+(Rp/Kg)
+Harga
+PK
+(Rp/Kg)
+Biaya
+Kebun
+Sendiri
+(Kg/TBS)
+Biaya
+Pembelian
+Luar
+(Kg/TBS)
+Biaya
+Pengolahan
+(Kg/TBS)
+Jan (1) 3,048,403 755,990 8,800 5,765 452 1,937 93
+Feb (2) 3,469,290 818,580 9,039 6,183 470 1,983 96
+Maret (3) 3,856,950 907,380 9,429 6,582 470 2,079 96
+April (4) 4,352,310 1,030,900 8,560 5,989 466 1,940 96
+Mei (5) 4,484,620 1,030,440 8,427 5,800 473 1,930 97
+Juni (6) 4,314,060 907,872 8,620 5,883 461 1,863 95
+Juli (7) 3,750,050 792,463 8,357 5,050 462 1,866 95
+Agst (8) 5,370,470 1,174,810 7,636 4,370 444 1,646 91
+Sept (9) 5,526,620 1,179,240 7,915 3,771 461 1,536 94
+Okt (10) 4,923,090 1,102,950 7,861 4,248 492 1,643 101
+Nov (11) 4,157,772 950,940 7,850 4,600 484 1,674 94
+Des (12) 3,921,460 872,990 7,425 4,713 482 1,632 94
+
+
+
+
+
+(2)Menentukan variabel tujuanModel matematis dirumuskan guna mendapatkan keuntungan
+maksimal. Nilai keuntungan maksimum sebagai model matematis linear dari variabel
+keputusan, dirumuskan sebagai selisih dari penjualan CPO dan PK yang dihasilkan dengan
+biaya yang dikeluarkan untuk proses produksi yaitu :
+
+
+
+Maksimisasi (Z) = (TR - TC)
+TR = (ΣX1*P1)ij + (ΣX2*P2)ij
+TC = (ΣX3)ij + (ΣX4)ij + (ΣX5)ij
+TR – TC = (ΣX1*P1)ij + (ΣX2*X2)ij - (ΣX3)ij - (ΣX4)ij - (ΣX5)ij
+Keterangan:
+Z : Nilai variabel tujuan maksimum keuntungan (Rp)
+TR = Total revenue (pendapatan kotor dari penjualan CPO dan PK)
+TC = Total cost (biaya pengadaan bahan baku dan pengolahan)
+X1 : jumlah CPO per bulan yang dihasilkan dari proses pengolahan TBS (Kg)
+X2 : jumlah PK per bulan yang dihasilkan dari proses pengolahan TBS (Kg)
+P1 : Harga CPO per Kg (Rp/kg)
+P2 : Harga PK per Kg (Rp/kg)
+X3 : Biaya pengadaan TBS dari kebun sendiri (Rp/Kg TBS)
+X4 : Biaya pengadaan TBS dari pembelian luar kebun (Rp/Kg TBS)
+X5 : Biaya pengolahan pengolahan TBS menjadi CPO dan PK (Rp/Kg TBS)
+i : Sumber bahan baku ke-i (1,2,3...12)
+j : Bulan produksi (Januari sd Desember)
+
+
+
+
+
+
+(3)Menentukan variabel kendala dan mengekspresikan dalam persamaan hubungan linier dari
+variabel keputusan yang mencerminkan keterbatasan sumberdaya masalah yang dapat
+dirumuskan :
+r:...
+
+Keterangan:
+X: variabel keputusan yang memiliki batasan kriteria untuk dioptimalkan
+B: Nilai Sebelah Kanan (RHS) variabel Kendala yang membatasi kriteria
+pengambilanvariabel keputusan.
+I: Sumber bahan baku ke-i (1,2,3...12)
+j : Bulan produksi (Januari sd Desember)
+
+
+
+
+
+
+Variabel kendala dalam penelitian ini di antaranya: ketersediaan TBS, Kapasitas olah
+PMKS, kuota pembeliaan TBS luar, ketersediaan tenaga kerja pengolahan, serta rendemen
+CPO dan kernel.Perhitungan nilai keuntungan dan numerik dari data penjualan CPO-PK,
+biaya dan data non linear menggunakan Ms. Excel. Sedangkan analisis linear
+progammingmenggunakan tools Lindo(Linier Interactive Discrete Optimizer). Ada 3 jenis
+analisa sebagai output dari LINDO yaitu: (a) Analisis primal dilakukan untuk mengetahui
+nilai setiap variable keputusan yang diperoleh serta mengetahui sumber-sumber pemborosan
+yang terdapat di PMKS. Nilai pemborosan dilihat dari nilai reduce cost yang ada. Analisis
+primal dilakukan untuk mengetahui kombinasi pengadaan bahan baku TBS dari tiap sumber
+dalam pengolahan CPO dan PKO yang optimal untuk diproduksi pada PMKS sehingga
+diperoleh keuntungan yang maksimum (Roselina, 2011). Bagian pertama hasil olahan Lindo
+memuat 3 informasi yaitu (Siswanto, 2006) : (1) Objective function value yaitu nilai variabel
+tujuan dibawah label objective function value (2) Nilai optimal variabel keputusan dibawah
+label value (3) Reduce cost dibawah label reduce cost memberikan informasi nilai yang harus
+diturunkan agar nilai variabel keputusan menjadi positif. (b) Analisis Dual, nilai dual berperan
+dalam pengambilan keputusan terutama dalam hal pembelian sumberdaya. Slack/surplus
+adalah kelebihan atau penurunan keuntungan dari tiap pengadaan sumberdaya yang selama ini
+dihadapi oleh perusahaan atau organisasi. Analisis dual dilakukan untuk menilai sumberdaya
+yang digunakan dalam pengadaan TBS dengan melihat nilai slack/surplus dan nilai dualnya
+(dual price) (Roselina, 2011). Slack atau surplus menunjukkan nilai slack atau surplus
+masing-masing variabel kendala ketika nilai variabel tujuan mencapai nilai ekstrem. Nilai
+dual price menjelaskan perubahan yang akan terjadi pada nilai variabel tujuan bila ruas kanan
+variabel kendala berubah 1 unit (Siswanto, 2006) (c) Analisis Sensitivitas, Sensitivitas
+menjelaskan sampai sejauh mana variabel tujuan dan nilai ruas kanan variabel kendala boleh
+berubah tanpa harus mempengaruhi nilai optimal yang sudah diperoleh. Ada 2 macam analisis
+sensitivitas, a) pertama analisis sensitivitas koefisien variabel tujuan yang menjelaskan
+perubahan nilai variabel tujuan yang tidak mengubah nilai optimal variabel keputusan dan b)
+analisa nilai ruas kanan (RHS). Nilai dual price mencerminkan nilai variabel tujuan yang
+diakibatkan oleh perubahan setiap unit ruas kanan variabel kendala (Siswanto, 2006).
+Pengaruh perubahan dapat dilihat dari selang kepekaan minimum (allowable decrease) dan
+selang kepekaan maksimum (allowable increase). Semakin sempit selang kepekaan tingkat
+keuntungan atau ketersediaan sumberdaya, menunjukan bahwa nilai tersebut paling peka
+dalam mengubah solusi optimal (Roselina, 2011).
+
+HASIL DAN PEMBAHASAN
+Kondisi aktual dan optimal bahan baku TBS di PMKS Sei Kandang. Aktivitas
+pengadaan bahan baku secara garis besar dapat dibedakan menjadi aktivitas pengadaan bahan
+baku dari kebun sendiri dan aktivitas pengadaan bahan baku dari pembelian. Analisis primal
+dilakukan untuk mengetahui kombinasi pengadaan bahan baku TBS dari tiap sumber dalam
+pengolahan CPO dan PK yang optimal untuk diproduksi pada PMKS Sei Kandang sehingga
+diperoleh keuntungan yang maksimum. Hasil analisis primal diperoleh nilai optimal TBS
+PMKS Sei Kandang dari kebun sendiri disajikan pada Tabel 4.
+
+
+
+
+
+
+Tabel 4. Nilai optimal TBS dari kebun sendiri Tahun 2014
+Bulan Nilai Aktual (Kg) Nilai Optimal (Kg) Selisih (Kg)
+Januari 14,939,618 14,772,727 166,891
+Februari 16,208,530 16,250,000 -41,470
+Maret 18,019,014 18,055,556 -36,542
+April 20,524,264 20,312,500 211,764
+Mei 20,702,196 20,312,500 389,696
+Juni 20,109,993 20,312,500 -202,507
+Juli 17,466,549 18,055,556 -589,007
+Agustus 26,168,810 27,083,334 -914,524
+September 25,854,892 27,083,334 -1,228,442
+Oktober 21,776,750 23,214,286 -1,437,536
+November 18,756,723 20,312,500 -1,555,777
+Desember 17,661,543 18,055,556 -394,013
+Rata-rata 19,849,073 20,318,362 -469,289
+
+
+
+
+
+
+Hasil analisis primal TBS kebun menunjukkan nilai reduce cost selama 12 bulan
+adalah nol yang artinya tidak ada pemborosan dari pengadaan TBS dari kebun. Bahan baku
+TBS dari kebun sendiri dari analisa primal sebanyak 9 bulan mengalami kekurangan dari
+kondisi optimalnya yaitu pada bulan Februari, Maret; Juni sd Desember dan ketersediaan TBS
+dari kebun sendiri rata-rata kekurangan 469,289 kilogram/bulan (-2,36% dari kebutuhan
+optimal).
+Manajemen PMKS Sei Kandang sebaiknya melakukan manajemen pengadaan bahan
+baku TBS tanpa mengesampingkan kualitas dari 4 kebun yang dimilikinya mengingat hal
+tersebut akan berkaitan langsung dengan quantity dan quality CPO dan PK yang dihasilkan.
+Adanya kekurangan pasokan bahan baku TBS dari kebun sebagai sumber utama bisa
+disebabkan oleh beberapa hal diantaranya :(1) Umur tanaman kelapa sawit, Menurut standard
+PPKS (Pusat Penelitian Kelapa Sawit) produksi kelapa sawit maksimal pada umur 15
+tahun.Produksi pada umur 20 tahun mulai menurun dan di tahun berikutnya perlu program
+replanting. Umur tanaman kebun ke PMKS Sei Kandang terbilang tua sehingga menyebabkan
+produksi TBS menurun. Padahal produksi dari kebunmerupakan supply TBS utama. (2)
+Rotasi panen, Kriteria umum tandan buah yang dapat dipanen adalah berdasarkan jumlah
+brondolan yang terlepas dari tandannya dan jatuh ke tanah secara alami atau dengan istilah
+lain menghasilkan brondolan dalam jumlah tertentu. Pusingan/rotasi panen buah merupakan
+salah satu aspek atau faktor yang paling menentukan di lapangan untuk mendapatkan
+produksi TBS per hektar yang tinggi dan biaya per kilogram yang rendah serta FFA yang
+rendah. Pusingan potong buah harus dijaga/dipertahankan 7 (tujuh) hari. Hal tersebut dilakukan agar kuantitas dan kualitas produksi dapat tercapai, namun rotasi panen juga harus
+didukung dengan ketersediaan tenaga panen yang cukup. (3) Pengangkutan hasil panen TBS,
+TBS hasil pemanenan harus segera diangkut ke PMKS untuk diolah lebih lanjut.
+Pengangkutan yang tepat akan membantu supply TBS sebagai bakun baku tetap tersedia
+untuk proses produksi. Selain itu pengangkutan TBS dapat mempengaruhi kualitas minyak
+yang dihasilkan. Buah yang tidak segera diolahkandungan asam lemak bebas (ALB) nya
+semakin meningkat dan dapat memperkecil kadar rendemen CPO dan PK.
+Bahan baku TBS di PMKS Sei Kandang tidak hanya bersumber dari kebun sendiri
+tetapi juga dari pembelian luar kebun. Manajemen tidak semata-mata melakukan pembelian
+TBS setiap bulannya. Menurut informasi departemen trading yang menjadi pertimbangan
+adalah biaya pembelian TBS dan juga persaingan perusahaan lain dalam pembelian TBS luar.
+PMKS Sei Kandang selama 2014 hanya melakukan pembelian di bulan November dan
+Desember. Nilai optimal analisa primal pembelian TBS luar dapat dilihat pada Tabel 5.
+Pengadaan bahan baku TBS dari pembelian secara keseluruhan disarankan untuk
+dilakukan pada bulan Januari sd April dan Juni sd Oktober untuk memenuhi nilai optimal
+bahan baku untuk diolah menjadi CPO dan PK sehingga penjualannya mencapai keuntungan
+maksimal. Bulan Mei, November, dan Desember memiliki nilai reduce cost> 0 yang artinya
+bahwa pasokan TBS pembelian tetap layak untuk dilakukan tetapi tidak memberikan
+keuntungan optimal bagi perusahaan terutama di bulan November. Selama 2014 PMKS hanya
+melakukan 3% saja dari kebutuhan aktual. Oleh karena itu dari analisa primal disarankan
+PMKS melakukan kombinasi.
+
+
+
+
+
+Tabel 5. Hasil analisis optimal bahan baku TBS pembelian Tahun 2014
+Bulan Aktual(Kg) Nilai Optimal(Kg) Reduce cost(Rp/Kg)
+Januari 0 4,166,667 0
+Februari 0 4,583,334 0
+Maret 0 5,000,000 0
+April 0 5,000,000 0
+Mei 0 0 13
+Juni 0 5,000,000 0
+Juli 0 5,000,000 0
+Agustus 0 2,916,666 0
+September 0 2,916,666 0
+Oktober 0 0 0
+November 1,147,000 0 26,426
+Desember 1,014,000 0 24,799
+Rata-rata 180,083 4,322,917 4,270
+* Sumber: data diolah
+
+
+
+
+
+Untuk melakukan pengadaan bahan baku yaitu selain dari kebun sendiri juga
+melakukan pembelian TBS luar.Mukhopadhyay (2014) dalam penelitiannya mengemukan
+“efisiensi pengadaan bahan baku dari pembelian untuk pendapatan seketika bisa dirumuskan
+dengan pendekatan optimal order quantity (EOQ)” yang dirumuskan sebagai berikut :
+Q = √(2C0*D)/(Ch(1-D/P))
+Keterangan :
+D = permintaan per tahunC0 = biaya pemesanan per pesanan
+Q =besarnya pesananCh = biaya penyimpanan per unit per tahun
+p = production rated =demand rate = D/Jumlah hari kerja setahun
+Berdasarkan rumus diatas, maka nilai optimal pembelian TBS luar yaitu :
+D = Kebutuhan TBS 2014 = 306,000,000 Kg
+C0 =Biaya pengadaan TBS 2014 = Rp 114,963,420,038,-
+Ch = Biaya penyimpanan dianggap sama dengan biaya pengolahan = Rp 22,844,515,995,-
+p = Kap. Olah PMKS 1 tahun = 60*20*25*12*1000= 360,000,000 Kg
+d = 306,000,000/(25*12) = 793,963 (dibulatkan)
+Q = √(2*306,000,000* Rp 114,963,420,038)/(Rp 22,844,515,995*(1-793,963))
+= 55,575 kg / hari
+Jadi pembelian TBS luar optimal selama 2014 = 55,575 * 25
+= 1,389,379 Kg / bulan
+= 5,4% dari kebutuhan / bulan
+
+
+
+
+
+
+
+
+
+Dengan demikian, pembelian 3% yang dilakukan oleh PMKS Sei Kandang masih
+dibawah batas optimal. Agar optimal TBS PMKS Sei Kandang sebaiknya melakukan
+pembelian TBS luar 5,4% (pada bulan Januari sd April dan Juni sd Oktober) dan sisanya 94,6
+% pengadaan bahan baku TBS harus dioptimalkan dari 4 kebun sendiri milik PT ASP.
+Kondisi sumberdaya terbatas di PMKS Sei Kandang. Chairunnisa (2013) mengemukaan
+dalam penelitiannya “perusahaan harus memperhatikan faktor-faktor/sumber produksinya
+agar volume produksi yang dihasilkan semakin meningkat. Produksi yang dihasilkan harus
+baik. Oleh karena itu, proses pengolahan produksi dari bahan baku hingga barang jadi
+membutuhkan beberapa faktor produksi diantaranya modal, tenaga kerja, bahan baku dan
+mesin”. Pada penelitian ini ada 5 variabel kendala sebagai sumberdaya terbatas yang diamati
+yaitu :a)Ketersediaan Bahan Baku TBS, Bahan baku menurut Chairunnisa (2013) adalah
+barang-barang yang dibeli untuk digunakan dalam proses produksi dan juga bahan dasar yang
+digunakan untuk memproduksi suatu barang. Bahan baku yang digunakan di proses produksi
+ini, yaitu Tandan Buah Segar (TBS). TBS merupakan produk utama kebun kelapa sawit dan
+bahan baku utama PMKS untuk memproduksi CPO dan kernel. Rendemen dan mutu produk
+hasil dari PMKS tergantung kepada mutu bahan baku TBS yang masuk ke pabrik dari kebun
+ataupun pembelian dan sistem pengolahan di PMKS. TBS di panen jika dipenuhi kriteria
+sebagai berikut: “Untuk tiap 1 kg berat tandan terdapat 1 brondolan lepas di TPH yang bukan
+brondolan parthenokarpi atau brondolan muda karena serangan tikus atau penyakit”, misalnya
+BJR (berat janjang rata-rata) blok adalah 10 kg maka buah yang dapat dipanen pada blok
+tersebut apabila brondolan yang lepas ada 10 butir brondolan di TPH. Jika ada 9 brondolan
+saja, maka dianggap buah mentah” (SOP Agronomy AMS/2013).
+Kekurangan pasokan TBS akan menjadi kendala dalam siklus produksi PMKS Sei
+Kandang untuk memenuhi target produk yang dihasilkan.Analisis dualmenghasilkan nilai
+slack/surplus nol terjadi pada bulan Januari, Februari, dan Oktober yang artinya besarnya
+ketersediaan bahan baku TBS pada bulan tersebut mempengaruhi nilai optimal sebagai
+kendala aktif terkait produksi CPO dan kernel dan pada bulan tersebut memang pasokan TBS
+dari kebun cukup rendah dan tidak dilakukan penambahan bahan baku dari pembelian TBS
+luar. (b) Kapasitas olah PMKS Sei Kandang, Pabrik minyak kelapa sawit terdiri dari unit-unit
+proses atau dikenal dengan stasiun-stasiun, memerlukan tindakan-tindakan mekanis, fisika
+dan kimia dalam mengolah tandan buah segar (TBS) menjadi CPO dan Kernel. Hal-hal yang
+perlu diperhatikan dalam pengolahan adalah efisiensi ekstraksi minyak dan inti sawit, kualitas
+produksi dan randemen, sedangkan kualitas produksi berpengaruh terhadap daya saing pasar.
+
+
+Kapasitas olah PMKS bisa menjadi kendala apabila tidak mampu pemanfaatannya tidak
+diperhatikan sesuai kebutuhan produksi. Pabrik merupakan sumberdaya yang dimanfaatkan
+untuk mengolah TBS menjadi CPO dan PK. Kapasitas pabrik ditentukan oleh kapasitaskapasitas
+mesin yang terdapat didalamnya.
+Tandan buah segar (TBS) terdiri dari komponen kimia yang sebagian besar mudah
+mengalami perubahan-perubahan kimia akibat pengaruh dalam maupun luar. Keadaan ini
+memerlukan cara-cara pengolahan yang cermat dan teliti sehingga produksi PMKS dapat
+memenuhi keinginan konsumen dan bersaing di pasar. Mesin merupakan faktor produksi
+yang menentukan kelancaran suatu proses produksi. Agar proses produksi berjalan secara
+efisien, maka mesin yang digunakan dalam proses produksi harus dapat digunakan dengan
+baik. Mesin olah TBS dapat berproduksi sesuai dengan kapasitas terpasang mesin tersebut.
+Kapasitas produksi perusahaan biasanya menggunakan tingkat kapasitas nyata atau kapasitas
+pengoperasian yang sudah ditentukan. Pemanfaatan kapasitas pabrik per bulan selama tahun
+2014 disajikan pada Tabel 6.
+Pada Tabel 6 persentase pemanfaatan kapasitas diperoleh dari rasio penggunaan
+kapasitas pabrik pada kondisi aktual dengan jumlah kapasitas pabrik setiap bulannya. Hasil
+pendekatan linear progamming menunjukkan bahwa pada kondisi saat ini, kapasitas PMKS
+Sei Kandang rata-rata baru digunakan sebesar 67% persen dari kapasitas maksimalnya. Hal
+ini menunjukkan 33% kapasitas pabrik yang belum digunakan. Hasil analisa dual bulan
+Agustus dan September memiliki nilai nol dan memiliki nilai dual prices. Hal ini
+menunjukkan kendala aktif yang akan mempengaruhi variabel tujuan.
+
+
+
+
+
+
+
+Tabel 6. Hasil Analisis OptimalisasiPemanfaatan Kapasitas PMKS Sei Kandang
+Bulan
+Kapasitas
+PMKS
+(kg)
+PemanfaatanKapasitas
+PMKSAktual (Kg)
+Persentase
+Pemanfaatan
+Kapasitas Olah
+PMKS (%)
+Januari 30,000,000 14,939,618 50
+Februari 30,000,000 16,208,530 54
+Maret 30,000,000 18,019,014 60
+April 30,000,000 20,524,264 68
+Mei 30,000,000 20,702,196 69
+Juni 30,000,000 20,109,993
+67
+Juli 30,000,000 17,466,549 58
+Agustus 30,000,000 26,168,810 87
+September 30,000,000 25,854,892 86
+Oktober 30,000,000 21,776,750 73
+November 30,000,000 19,903,723 66
+Desember 30,000,000 18,675,543 62
+Rrrata-rata 30,000,000 240,349,882 67
+
+
+
+Tabel 7. Jam Olah PMKS Sei Kandang 2014
+Month Work Days Processing (Hour)
+TBS Process
+(Kg)
+Jan 25 10 14,939,618
+Feb 25 11 16,208,530
+Mar 26 12 18,019,014
+Apr 24 14 20,524,264
+Mei 26 14 20,702,196
+Jun 26 13 20,109,993
+Jul 26 12 17,466,549
+Agu 26 17 26,168,810
+Sep 25 17 25,854,892
+Okt 26 15 21,776,750
+Nov 25 13 19,903,723
+Des 25 12 18,675,543
+TOTAL 305 160 240,349,882
+* Sumber : Data PT ASP 2014
+
+
+
+
+
+
+
+PMKS Sei Kandang memiliki kapasitas olah 60 ton/jam dengan waktu olah 20 jam/hari.
+Kapasitas oleh per bulan belum mencapai 20 jam. Evaluasi kinerja pengolahan di PMKS guna
+memperkuat daya saing untuk produk yang dihasilkan perlu dilakukan. Pemanfaatan kapasitas
+PMKS Sei Kandang belum optimal selain disebabkan pasokan bahan baku yang kurang baik
+dari kebun sendiri maupun pembelian TBS luar juga disebabkan sistem perawatan yang
+kurang baik dan berkesinambungan sehingga menyebabkan kerusakan pada alat-alat/mesin.
+Akibatnyaterjadi penurunan jam olah dan kapasitas olah CPO dan kernel. (c) Kuota
+Pembelian TBS, Kebijakan perusahaan menetapkan batasan kuota pembelian TBS untuk
+mengoptimalkan keuntungan PMKS dengan tetap menjaga kontinuitas proses produksi.
+Selain itu PT ASP menyadari bahwa umur tanaman kelapa sawit mayoritas diatas 20 tahun.
+Dengan demikian diperlukan alternantif supply bahan baku TBS. Kuota pembelian TBS dari
+manajemen department trading HO adalah maksimum 5.000.000 kg/bulan. Meskipun ada
+kebijakan tersebut PMKS Sei Kandang tidak serta merta melakukan pembelian tersebut dan
+bisa menjadi kendala dengan 2 hal yang menjadi pertimbangan yaitu: (1) Harga beli TBS
+luar/Kg dikhawatirkan akan menambah biaya pengadaan bahan baku. (2) Seringnya PMKS
+Sei Kandang kalah bersaing dengan PMKS milik perusahaan lainnya yang bergerak dalam
+pengolahan kelapa sawit (Tabel 8).
+
+
+
+
+
+
+
+
+
+
+Tabel 8. Jumlah PMKS di Jambi
+
+N
+O
+Kabupaten Jambi
+Jumlah (Unit)
+Perusahaan PMKS
+B1a tang Hari 3 3
+M2u aro Jambi 8 10
+B3u ngo 4 4
+S4a rolangun 1 1
+M5e rangin 2 5
+T6a njab Barat 5 6
+T7e bo 3 4
+Ju mlah 26 33
+
+
+Analisis dual menunjukkan nilai slack/surplus nol terjadi pada bulan Maret-April;
+Juni-Juli yang artinya jika dilakukan pembelian TBS maka dapat memenuhi kuota pembelian
+TBS luar pada bulan tersebut dan akan mempengaruhi nilai optimal sebagai kendala aktif.
+Nilai slack/surplus setiap bulan berbeda, hal ini menunjukkan bahwa perusahaan dapat
+menggunakan batasan maksimal kuota TBS pembelian yaitu 5.000.000 kg/Bulan. (d)
+Ketersediaan tenaga kerja pengolahan di PMKS Sei Kandang, Tenaga kerja merupakan salah
+satu faktor yang terpenting dalam proses produksi untuk menghasilkan barang maupun jasa di
+samping faktor produksi modal, teknologi dan sumber daya alam. Tenaga kerja dibutuhkan
+untuk melakukan proses transformasi dari bahan menjadi barang jadi yang dikehendaki oleh
+perusahaan. Tenaga kerja berperan sebagai suatu faktor yang berbeda dengan bahan baku
+serta mesin maupun modal. Pada penelitian ini yang dimaksud dengan tenaga kerja adalah
+jumlah jam kerja karyawan yang secara langsung mempengaruhi proses produksi pengolahan
+TBS di PMKS Sei Kandang.
+Tenaga kerja pengolahan termasuk variabel kendala karena bagian dari sumberdaya
+yang dimiliki perusahaan dan memiliki peran penting sebagai pelaku aktif dalam
+operasionalisasi setiap proses produksi CPO dan PK yang dimulai dari penggunaan mesin
+hingga penjualan produk. Nilai slack/surplus dual price ketersediaan tenaga kerja pengolahan
+selama 12 bulan adalah 0 menunjukkan bahwa tenaga kerja pengolahan merupakan kendala
+sangat aktif. (e) Rendemen CPO dan Kernel, Rendemen merupakan perolehan dari minyak
+sawit mentah/crude palm oil (CPO) ataupun inti sawit/palm kernel dari proses pengolahan
+tandan buah segar (TBS) kelapa sawit di pabrik yang dibandingkan dengan jumlah tandan
+buah segar (TBS) yang diolah yang dinyatakan dalam satuan persen. Rendemen CPO dan
+kernel termasuk kendala karena terkait mutu TBS sebagai bahan baku untuk digunakan
+sebagai produk yang akan dijual, semakin tinggi nilai rendemen maka menunjukan kualitas
+TBS tersebut baik untuk produksi jumlah CPO dan Kernel.
+TBS diolah di PMKS untuk diambil minyak dan intinya. CPO dan kernel merupakan
+produk setengah jadi dan harus diolah lebih lanjut untuk dijadikan produk turunan lainnya.
+TBS terdiri dari komponen kimia yang sebagian besar mudah mengalami perubahanperubahan
+kimia akibat pengaruh dalam maupun luar. Keadaan ini memerlukan cara-cara
+pengolahan yang cermat dan teliti sehingga produksi PMKS dapat memenuhi keinginan
+konsumen dan bersaing di pasar. Minyak sawit dan inti sawit yang diproduksi oleh PMKS
+masih mendapat perlakukan lanjut pada industri hilir. Kualitas bahan baku tersebut juga
+mempengaruhi keberhasilan dalam pengolahan lanjutan dimana perusahaan menetapkan
+target rendemen CPO 24% dan kernel 5,5%. Stasiun proses pengolahan yang ada di PMKS
+Sei Kandang terdiri dari : (1) Stasiun Penerimaan (fruit reception): sebelum diolah di PMKS
+TBS dari kebun dan pembelian diterima distasiun penerimaan buah. dapat diketahui mutu
+TBS yang akan diolah dan sangat menentukan kualitas produk CPO dan kernel, dimana yang
+paling utama terutama sortasi terhadap kebersihan TBS dan buah mentah. (2) Stasiun
+Perebusan (sterilizer): TBS dipanaskan dengan uap pada temperatur tinggi dengan tujuan
+menghentikan perkembangan asam lemak bebas (ALB) atau free fatty acid (FFA),
+pemudahkan pemipilan pengolahan lanjut. (3) Stasiun Pemipilan (stripper): pemipilan adalah
+proses pelepasan brondolan agar lepas dari tandannya, brondolan yang keluar akan ditampung
+dan dilanjutkan ke stasiun lainnya. (4) Stasiun Pencacahan (digester) dan pengempaan
+(presser) : brondolan yang telah terpipil dari stasiun stripper diangkut kebagian digester untuk
+dicacah dan di pressing hingga minyak dengan mudah dapat dipisahkan dari daging buah. (5)
+Stasiun Pemurnian (clarifer): minyak dari proses pengempaan masih perlu dibersihakn dari kotoran baik yang berupa padatan (solid) ataupun lumpur (sludge) sehingga diperoleh minyak
+dengan kualitas baik dan dapat dijual dengan harga layak. (6) Stasiun pemisahan biji dan
+kernel: proses pemisahan biji-serabut dari ampas pengempaan untuk memperoleh biji sbersih
+mungkin, kemudian dari biji tersebut menghasilkan inti sawit (kernel).
+Pengolahan TBS menjadi CPO melewati berbagai proses produksi. Hasil pengolahan
+data menunjukkan nilai rataan dual priceadalah 8.327. Nilai dual price tersebut memiliki arti
+jika rendemen CPO mengalami peningkatan/penurunan sebesar 1% maka PMKS memiliki
+kontribusi peningkatan keuntungan sebesar sebesar Rp 8,327 /kg/bulan dari CPO yang
+dihasilkan. Oleh karena itu peningkatan pasok TBS perlu diperhatikan karena persentase CPO
+merupakan perbandingan CPO yang dihasilkan terhadap TBS yang diolah.
+Melalui proses pemurnian minyak di stasiun pemurnian diharapkan dapat diperoleh
+produksi CPO yang berkualitas baik dengan kehilangan minyak yang minimal. Standard
+kualitas CPO yang ditetapkan di AMS Group adalah sebagai berikut:
+
+FFA (Kadungan asam lemak bebas) : < 3.50 %
+Kadar air (moisture) : < 0.15 %
+Kadar kotoran (dirt) : < 0.015 %
+DOBI (indek pemucatan warna CPO) : > 2.00 %
+Dengan total kehilangan minyak (oil losses) maksimum adalah:
+Oil losses di decanter solid : 0.10 % terhadap TBS
+Oil losses di sludge : 0.35 % terhadap TBS
+
+
+Salah satu sistem manajemen yang diterapkan untuk mendapatkan jumlah rendemen
+yang optimal adalah menekan terjadinya kehilangan minyak (oil losses) pada CPO selama
+proses produksi (Devani dan Marwiji, 2014). Selain itu pengangkutan TBS setelah dipanen
+dari kebun juga mempengaruhi mutu TBS, karena TBS yang dipanen harus segera diangkut
+ke PMKS agar bisa langsung direbus untuk menekan kadar FFA.
+Pengolahan kernel sebagai produk kedua diperoleh dari ampas press yang telah
+dicacah, dimana pemisahan nut di PMKS Sei Kandang menggunakan metode berat jenis.
+Dengan adanya daya hisap dari blower maka bagian dari ampas yang berat jenisnya ringan
+terhisap dan jatuh di fibre cyclone sedangkan yang berat jenisnya lebih tinggi masuk ke
+polishing drum (bijih inti/kernel). Pengutipan kernel meliputi aspek kegiatan pemecahan biji,
+pemisahan kernel dari cangkang, pengeringan serta penyimpanan kernel. Kebijakan yang
+ditetapkan oleh AMS Group adalah: (a) Melalui proses pemecahan biji diharapkan diperoleh
+efisiensi pemecahan yang optimum dengan mempertimbangkan broken kernel. (b) Pemisahan
+kernel dengan cangkang diharapkan diperoleh kernel dengan kualitas sesuai standard dan
+kehilangan kernel seminimal mungkin. (c) Dengan pengeringan diharapkan kadar air kernel
+produksi sesuai standard sehingga lebih tahan disimpan.
+Standard kualitas kernel yang ditetapkan AMS Group adalah sebagai berikut :
+Kadar air kernel : max 7.00 % terhadap sampel
+Kadar kotoran : max 7.00 % terhadap sampel
+Kernel pecah (broken kernel) : max 15.00 % terhadap sampel.
+Total kehilangan kernel (kernel losses) di stasiun pemisahan kernel maksimal adalah:
+Kernel losses di dry shell : 2.5 % terhadap sampel
+Kernel losses di wet shell : 3.0 % terhadap sampel
+Rata-rata nilai dual price untuk kendala rendemen kernel adalah 5.765. Nilai dual
+price tersebut berarti untuk setiap kenaikan 1% rendemen kernelakan memberikan kontribusi
+peningkatan keuntungan sebesar Rp 5.765/Kg/bulan dari kernel yang dihasilkan.
+
+
+Sensitivitas dilakukan untuk mengetahui sejauh mana perubahan variabel keputusan
+dan kendala terhadap pencapaian nilai variabel tujuan. Pengaruh perubahan dapat dilihat dari
+selang kepekaan yang terdiri atas batas minimum (allowable decrease) dan batas maksimum
+(allowable increase). Hasil olahan senitivitas dengan menggunakan program LINDO terdiri
+atas dua bagian yaitu: (a) Analisis sensitivitas variabel tujuan, Keputusan yang berhubungan
+dengan perolehan keuntungan yaitu selang perubahan pengadaan TBS diperbolehkan agar
+solusi optimal dalam perencanaan pengadaan bahan baku tetap berlaku. Jika variabel
+memiliki batasan kenaikan nilai jumlah CPO dan kenel yang tidak terhingga (infinity) dan
+batas penurunan yang diperbolehkan sebesar nilai tertentu, hal ini menunjukkan bahwa
+seberapapun kenaikan produksi CPO di perusahaan tidak akan mempengaruhi solusi optimal
+pada kondisi model aktual. Sedangkan untuk variabel secara keseluruhan memiliki batasan
+kenaikan sebesar nilai tertentu dan batas penurunan yang tidak terhingga (infinity) memiliki
+arti bahwa sebenarnya pada kondisi aktual tidak menguntungkan bila diadakan. Berdasarkan
+analisis sensitivitasmenunjukkan bahwa variabel keputusan yang dapat mempengaruhi nilai
+variabel tujuan yaitu produksi CPO dan PK bulan Mei, dan pembelian TBS luar bulan
+Agustus dan September karena harga CPO, PK, dan pembelian TBS luar berada diselang
+kepekaan penurunan dan kenaikan maksimum. (b) Analisis sensitivitas ruas kanan (variabel
+kendala), Analisis sensitivitas ruas kanan kendala atau sering disebut dengan Right Hand Side
+(RHS) berkaitan dengan status sumberdaya yang terbatas dalam mengoptimalkan pengadaan
+bahan baku TBS untuk produksi CPO dan PK. Haloho (2008) menyatakan, “apabila suatu
+sumberdaya merupakan kendala pembatas, maka sumberdaya tersebut memiliki nilai
+kenaikan dan penurunan sebesar nilai hasil analisis sensitivitasnya dan sebaliknya, jika
+sumberdaya tersebut merupakan kendala bukan pembatas, maka akan memiliki nilai
+kenaikan/penurunan yang tidak terbatas (infinity)”.
+
+
+
+
+
+
+Tabel 9. Analisis Sensitivitas RHS Variabel kendala
+N
+o
+Variabel Kendala Nilai RHS
+Rata-Rata
+Allowable
+Increase
+Rata-Rata
+Allowable
+Decrease
+Status
+K1et ersediaan bahan
+baku TBS
+0
+1,258,333 2,275,000
+Peka
+K2ap asitas olah PMKS 30.000.000 2 , 0 8 3 , 3 3 4 2,916,666 Peka
+K3u ota Pembelian 5.000.000 410,880 5,000,000 Peka
+Te4n aga kerja
+pengolahan
+1.625 464 873 Peka
+5
+a
+Rendemen CPO 0 Infinity 4,945,578 Kurang peka
+5
+b
+Rendemen PK 0 Infinity 1,099,605 Kurang peka
+
+
+
+Haloho (2008) dalam penelitiannya juga menyatakan, “semakin sempit selang
+kepekaan tingkat keuntungan atau ketersediaan sumberdaya, menunjukan bahwa nilai tersebut
+paling peka dalam mengubah solusi optimal”. Hasil perhitungan menunjukkan bahwa urutan
+variabel kendala yang paling peka mempengaruhi nilai optimal tujuan adalah : (1)
+Ketersediaan tenaga kerja pengolahan.
+
+
+Rataan nilai dual price untuk kendala tenaga kerja sebesar Rp 19.160.803 yang artinya
+jika ketersediaan tenaga kerja ditambah atau meningkatkan jumlah satu HOK tiap bulannya,
+maka PMKS memiliki peluang untuk meningkatkan keuntungan sebesar Rp
+19.160.803/bulan. (2) Ketersediaan bahan baku TBS, Tahun 2014 kebun hanya mampu
+menyediakan 78% dan keraguan manajemen untuk melakukan pembelian TBS luar sehingga
+dari analisa dual diperoleh rata-rata perbulan bahan baku TBS PMKS Sei Kandang -469,289
+Kg. (3) Kuota pembelian TBS luar, Kuota pembelian TBS 5000 Ton/Bulan belum
+sepenuhnya dimanfaatkan karena pertimbangan akan biaya pembelian TBS/kg. Dimana
+selama 2014 PMKS hanya melakukan pembelian TBS luar bulan November dan Desember
+sebesar 3% dari kebutuhan, dan melalu analisa EOQ optimalnya pembelian yang dilakukan
+oleh PMKS Sei Kandang adalah 5,4%. (4) Kapasitas olah PMKS, Pada pembahasan hasil dual
+output LINDO memang rata-rata kapasitas olah PMKS Sei Kandang ditahun 2014 baru
+digunakan 67%. Hal ini menunjukkan bahwa masih terdapat rata-rata 23 % kapasitas pabrik
+yang belum digunakan yang memang disebabkan karena bahan baku TBS yang belum
+optimal.
+Perbandingan Keuntungan Aktual dan Optimal PMKS Sei Kandang. Optimalisasi
+pengadaan TBS diukur dari adanya peningkatan laba kotor perusahaan. Hasil olahan data
+yang disajikan pada Tabel 10menunjukkan nilai variabel tujuan pada kondisi optimal
+Rp382.177.000.000,- sedangkan keuntungan aktual Rp 345.166.399.188,-. Ada selisih laba
+kotor sebesar Rp 37.010.600.812,- atau dapat dikatakan 10,87% dapat dioptimalkan melalui
+linear progamming. Selisih nilai keuntungan optimal dan aktual disebabkan adanya 4 dari 6
+variabel kendala yang peka terhadap pencapaian nilai optimal variabel tujuan yang dijelaskan
+pada analisis sensitivitas sebelumnya.
+
+
+
+Tabel 10. Perhitungan Selisih Keuntungan Aktual dan Optimal PMKS Sei Kandang
+N
+o
+Keterangan Keuntungan
+1K eadaan optimal PMKS Sei Kandang Rp 382.177.000.000,-
+2K eadaan aktual PMKS Sei Kandang Rp 345.166.399.188,-.
+3S elisih keuntungan Rp 37.010.600.812,-
+4O ptimal Keuntungan 10,72%
+
+
+
+PENUTUP
+Berdasarkanpendekatan analisis linear progamming diketahui bahwa ketersediaan
+bahan baku TBS rata-rata perbulan mengalami kekurangan. Melalui pendekatan optimal EOQ
+pembelian TBS luar selama 2014 masih dibawah standard optimal sehingga PMKS Sei
+Kandang perlu memperbaiki kebijakan kombinasi pengadaan bahan baku TBS dari kebun
+sendiridan melakukan pembelian TBS dari luar.
+Dari pendekatan analisis linear progamming sensitivitas variabel kendala,
+pemanfaatan sumberdaya terbatas yang berpengaruh terhadappencapaian keuntungan
+perusahaan sehingga perlu dievaluasi yaituketersediaan tenaga kerja pengolahan, ketersediaan
+bahan baku TBS, kuota pembelian TBS luar, dan kapasitas olah PMKS.

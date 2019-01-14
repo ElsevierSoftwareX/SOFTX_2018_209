@@ -1,0 +1,1065 @@
+﻿Pengembangan Media Computer Assisted Instruction (CAI) Untuk Perhitungan
+Volume Pekerjaan dan Analisis Biaya Bahan Pada Kompetensi Keahlian Teknik
+Konstruksi Batu Beton
+
+Abstrak: Penelitian dan pengembangan ini bertujuan untuk menghasilkan media Computer
+Assisted Instruction (CAI) yang dapat membantu siswa kelas XI SMK (Sekolah Menengah
+Kejuruan) dalam proses pemahaman pada pembelajaran perhitungan volume pekerjaan
+dan analisis biaya bahan. Penelitian dilaksanakan di SMK N 4 Rorotan Jakarta Utara.
+Model pengembangan yang digunakan merupakan gabungan dari model Dick dan Carey,
+dan model Hannafin dan Peck. Hasil evaluasi formatif: ahli, satu-satu, kelompok kecil, dan
+uji lapangan menyatakan bahwa produk tersebut telah dianalisis secara keseluruhan dan
+memiliki kategori “baik”. Hal ini dapat disimpulkan bahwa media CAI yang dikembangkan
+dalam rangka membantu siswa dalam proses pemahaman pada pembelajaran dapat membantu
+guru pada saat mengajar materi..
+Keywords: Pengembangan, Pembelajaran, Media, CAI
+PENDAHULUAN
+Dalam Sekolah Menengah Kejuruan (SMK)
+terdapat beberapa kompetensi keahlian, salah
+satunya kompetensi keahlian Teknik Konstruksi Batu
+Beton (TKBB). Kompetensi keahlian ini mendidik
+siswanya agar siap memiliki kemampuan dalam
+membuat konstruksi bangunan, merencanakan,
+menghitung biaya dan keperluan dalam membangun
+sebuah bangunan yang baik dan standar, serta
+melaksanakan pembangunan sebuah bangunan
+dengan konstruksi yang telah dirancang dengan
+baik. Dalam pembelajaran, siswa sering dihadapkan
+dengan perhitungan volume pekerjaan dan analisis
+biaya bahan untuk menentukan kebutuhan bahan
+pasangan konstruksi batu berdasarkan gambar kerja.
+Menurut Susanta (2014: 13), perhitungan
+volume pekerjaan saat membangun rumah atau
+bangunan lainnya harus mempunyai sarana dasar
+yaitu gambar. Dari gambar tersebut dapat dihitung
+volume dan biaya total pembangunannya yang
+diwujudkan dalam Rencana Anggaran Biaya
+(RAB). Perhitungan volume pekerjaan dan biaya
+bahan bangunan terbilang rumit karena banyak poin dan item pekerjaan yang harus dihitung yang
+masing-masing item terkadang saling terkait. Media
+pembelajaran untuk perhitungan volume pekerjaan
+dan analisis biaya bahan juga tidak mempunyai objek
+gambar perinci. Hal ini sangat membingungkan siswa
+karena tidak mempunyai bayangan gambar bangunan
+yang mereka hitung, sehingga pembelajaran menjadi
+kurang efektif. Banyak siswa yang memiliki nilai di
+bawah standar Kriteria Ketuntasan Minimal (KKM).
+Selain itu, pengulangan materi perhitungan volume
+pekerjaan dan biaya bahan bangunan di luar sekolah
+harus dibangun dalam diri siswa, agar siswa dapat
+menghitungnya dengan baik dan benar.
+Beberapa masalah tersebut di atas sangat
+mengganggu, apalagi kenyataanya SMK
+mengutamakan pengembangan kemampuan
+siswa untuk dapat bekerja dalam bidang tertentu,
+kemampuan beradaptasi di lingkungan kerja, dan
+kemampuan mengembangkan diri di kemudian hari.
+Tanpa mengesampingkan komponen pembelajaran
+yang lain, media menjadi faktor penting dalam
+tersampaikan atau tidaknya suatu materi pelajaran.
+Jenis media penunjang yang dapat digunakan dalam
+proses pembelajaran perhitungan volume pekerjaan
+dan biaya bahan bangunan rumah adalah media CAI
+yang disusun secara sistemik dan sistematis karena
+dilakukan validasi oleh para ahli, serta evaluasi secara
+satu-satu, kelompok kecil, dan uji lapangan. Agar
+penelitian ini dapat dilaksanakan secara sistemik
+dan sistematis, maka penelitian ini difokuskan pada
+bagaimana menghasilkan sebuah produk berupa
+media CAI mengenai materi perhitungan volume
+pekerjaan dan analisis biaya bahan bangunan rumah
+pada kompetensi keahlian TKBB di SMK N 4 Jakarta.
+Menurut Molenda (2008: 93), “CAI program
+followed a drill and practice or tutorial format similar
+to teaching machines or programmed instruction
+book: small units of information followed by a
+question and the student’s response”. Menurut Russel
+dalam Rusman (2012: 97), media CAI adalah sistem
+komputer yang dapat menyampaikan pembelajaran
+secara individual dan langsung kepada para siswa
+dengan cara berinteraksi dengan mata pelajaran yang
+diprogramkan ke dalam sistem komputer. Menurut
+Rusman (2012: 97), media CAI adalah bentuk
+penyajian bahan-bahan pembelajaran keahlian atau
+keterampilan dalam satuan unit-unit kecil, sehingga
+mudah dipelajari dan dipahami oleh siswa. Menurut
+Hannafin dan Peck (1988: 5), media CAI adalah “any
+instance in which instructional content or activities
+are delivered via computer”. Menurut Arsyad (2011:
+96) bahwa CAI adalah pembelajaran di mana peran
+komputer sebagai pembantu tambahan dalam belajar;
+pemanfaatannya meliputi penyajian informasi isi
+pelajaran, latihan, atau keduanya.
+Tujuan dari penelitian pengembangan ini
+adalah menghasilkan produk berupa media CAI yang
+dikemas dalam bentuk CD yang digunakan untuk
+dapat membantu siswa dalam upaya memahami
+materi yang disajikan oleh guru.
+Menurut Seels and Richey (1994:38),
+pengembangan adalah proses penerjemahan
+spesifikasi desain ke dalam bentuk fisik. Seels and
+Richey mendefinisikan penelitian pengembangan
+sebagai suatu pengkajian sistematik terhadap
+pendesain, pengembangan dan evaluasi program,
+proses dan produk pembelajaran yang harus
+memenuhi kriteria validitas kepraktisan, dan
+efektifitas. Menurut Gay (1996: 10) mendefinisikan
+penelitian pengembangan “is not to formulate or test
+theory but to develop effective products for use in
+school. Products are developed to meet specific needs
+and according to detailed specification. Product are
+field test and revised until a prespecified level of
+effectiveness is achieved”. Menurut Akker dan Plomp
+(1999: 4) mendefinisikan penelitian pengembangan
+“by its two fold purpose: (a) supporting the
+development of prototypical products (including
+providing empirical evidence for their effectiveness),
+and (b) generating methodological directions for the
+design and evaluation of such products”.
+Menurut Borg dan Gall (1983: 772)
+mendefinisikan penelitian pengembangan “is a
+process used to develop and validate educational
+products. The steps of this process are usually
+referred to as the R&D cycle, which consists of
+studying research finding pertinent to the product
+to be developed, developing the products based on
+these findings, field testing it in the setting where
+it will be used eventually, and revising it to correct
+the definienci s found in the field-testing stage. In
+more rigorous programs R&D, this cycle repeated
+until the field-test data indicate that the product
+meets its behaviourly defined objectives”. Menurut
+Sugiyono (2011: 297) penelitian pengembangan
+merupakan metode penelitian yang digunakan
+untuk menghasilkan produk tertentu, dan menguji
+keefektifan produk tersebut. Selanjutnya, agar dapat menghasilkan produk tertentu digunakan penelitian
+yang bersifat analisis kebutuhan dan untuk menguji
+keefektifan produk tersebut supaya dapat berfungsi
+di masyarakat luas, maka diperlukan penelitian untuk
+menguji keefektifan produk tersebut.
+Dari definisi-definisi di atas, dapat disimpulkan
+bahwa pengembangan adalah merupakan upaya
+dalam meningkatkan kemampuan teknis, teoretis,
+konseptual melalui pendidikan dan latihan.
+Pengembangan dimaksudkan agar mencapai tujuan
+yang diinginkan guna meningkatkan fungsi, manfaat,
+dan aplikasi ilmu pengetahuan dan teknologi yang
+telah ada, atau menghasilkan teknologi baru yang
+dirancang menggunakan sebuah desain.
+Dengan adanya sebuah model akan memudahkan
+dalam menyusun dan menerapkan langkah-langkah
+untuk mencapai hasil yang diinginkan dengan baik.
+Menurut Pribadi (2009: 86) model adalah sesuatu
+yang menggambarkan adanya pola berpikir dan
+biasanya menggambarkan keseluruhan konsep yang
+saling berkaitan.
+Model pengembangan yang digunakan untuk
+mengembangkan produk media CAI untuk mata
+pelajaran konstruksi batu ini merupakan gabungan
+dari model Dick dan Carey, dan model Hannafin dan
+Peck. Namun langkah-langkah yang ada dalam kedua
+model tidak semuanya digunakan karena disesuaikan
+dengan kebutuhan penelitian dan pengembangan,
+pembatasan materi dalam penelitian dan keterbatasan
+waktu dalam penelitian.
+Menurut Dick dan Carey (2009: 3) “all of
+which receive input from preceding steps and provide
+output for the next steps. All of the components work
+together to either produce effective instruction”.
+Sedangkan Hannafin dan Peck (1988: 60) “combines
+these activities into four phases: needs assessment,
+design, development and implementation, and
+evaluation and revision.
+Gambar 1: Tahapan Model Dick dan Carey
+Gambar 2: Tahapan Model CDM Hannafin dan Peck
+Gambar 3: Tahapan Model Gabungan Dick dan Carey,
+dan Hannafin dan Peck
+Menurut Kemp dan Dayton dalam Prawiradilaga
+(2012: 68), belajar sebagai suatu proses yang terjadi
+pada seseorang sebagai suatu pengalaman. Menurut
+Gagne (2005: 3), menyatakan bahwa belajar adalah
+proses yang mengarah pada perubahan dalam perilaku
+dan kemampuan siswa yang dapat tercermin dalam
+perilaku. Menurut Heinich, Smaldino, dan Russel
+(2004: 6), menyatakan bahwa belajar merupakan
+perkembangan dari pengetahuan, keterampilan, atau
+sikap seorang individu ketika berinteraksi dengan
+informasi dan lingkungan. Menurut Driscoll dalam
+Smaldino (2011: 11), mendefinisikan belajar sebagai
+perubahan terus menerus dalam kemampuan yang
+berasal dari pengalaman pemelajar dan interaksi aksi
+pemelajar dengan dunia.
+Miarso (2004: 62), menyebut belajar sebagai 
+objek formal Teknologi Pendidikan. Belajar baginya dimaknai secara luas. Belajar secara pribadi, untuk
+pengayaan diri dan belajar yang diselenggarakan
+oleh organisasi. Selanjutnya, pembelajaran, media
+pembelajaran, pengajar, lingkungan serta sumber
+belajar adalah faktor-faktor yang dapat mendukung
+terjadinya proses belajar.
+Pembelajaran menurut Miarso (2004: 545)
+adalah suatu usaha yang disengaja, bertujuan,
+dan terkendali agar orang lain belajar atau terjadi
+perubahan yang relatif menetap pada diri orang
+lain. Menurut Kemp dan Smellie (1989: 16),
+mendefinisikan pembelajaran adalah pengalaman
+individu untuk setiap orang. Menurut Heinich,
+dkk (2004: 7-8), pembelajaran merupakan suatu
+susunan informasi dan lingkungan yang tidak hanya
+pembelajaran itu berlangsung, akan tetapi juga
+metode, media, dan teknologi yang dibutuhkan itu
+merupakan untuk menyampaikan informasi dan
+membimbing siswa dalam proses pembelajaran.
+Menurut Schunk (2012: 3), pembelajaran merupakan
+perubahan yang bertahan lama dalam perilaku, atau
+dalam kapasitas berperilaku dengan cara tertentu,
+yang dihasilkan dari praktik atau bentuk-bentuk
+pengalaman lainnya. Menurut Gagne (2005: 183),
+selama proses membangun peta mata pelajaran,
+keterampilan yang perlu diajarkan mungkin tidak
+dapat dicapai dalam waktu pembelajaran tunggal.
+Dalam kasus ini, peta dapat dibagi menjadi dua
+peta mata pelajaran, masing-masing mewakili satu
+periode pengajaran.
+Dari definisi-definisi yang telah dijelaskan
+dapat disimpulkan bahwa belajar dan pembelajaran
+merupakan separangkat proses bersifat internal bagi
+setiap pribadi yang merupakan hasil transformasi
+rangsangan yang berasal dari peristiwa eksternal di
+lingkungan pribadi yang bersangkutan. Pembelajaran
+ini dimaksudkan sebagai faktor eksternal belajar, atau
+stimuli dalam konteks luas dan mendalam. Dengan
+demikian, semakin beragam faktor yang dianggap
+mempengaruhi proses belajar. Termasuk di dalamnya
+adalah teknologi itu sendiri.
+Menurut Rusman (2012: 169), media adalah
+pengantar pesan dari pengirim ke penerima pesan,
+dengan demikian media merupakan wahana penyalur
+informasi belajar atau penyalur pesan. Menurut
+Gagne dalam Sadiman (2010: 6), media adalah
+berbagai jenis komponen dalam lingkungan siswa
+yang dapat merangsangnya untuk belajar. Menurut
+Gerlach dan Ely dalam Arsyad (2011: 3), media
+apabila dipahami secara garis besar adalah manusia,
+materi, atau kejadian yang membangun kondisi yang
+membuat siswa mampu memperoleh pengetahuan,
+keterampilan, atau sikap. Association of Education and
+Communication Technology (AECT) dalam Miarso
+(2004: 457), mendefinisikan media adalah segala
+bentuk dan saluran untuk proses transmisi informasi.
+Menurut Molenda dan Russel dalam Sanjaya (2012:
+57), “media is a channel of communication. Derived
+from the latin world for’between’, the term refers to
+anything that carries information between a source
+and a receiver”.
+Dari definisi-definisi di atas, dapat disimpulkan
+bahwa media adalah saluran komunikasi yang
+membawa informasi dari sumber ke penerima.
+Dengan keberadaan media sebagai saluran dalam
+menyampaikan pesan, maka media dapat digunakan
+dalam pembelajaran yang didalamnya terdapat proses
+penyampaian informasi berupa pesan atau materi
+pelajaran, sehingga siswa dapat lebih mudah dalam
+memahami materi pelajaran. Menurut Briggs dalam
+Miarso (2004: 457-458), berpendapat bahwa media
+pembelajaran adalah sarana untuk memberikan
+perangsang bagi si belajar supaya proses belajar
+terjadi. Menurut Gagne dalam Arsyad (2011: 4),
+media pembelajaran adalah meliputi alat yang secara
+fisik digunakan untuk menyampaikan isi materi
+pengajaran. Menurut Miarso (2004: 458), media
+pembelajaran adalah segala sesuatu yang digunakan
+untuk menyalurkan pesan serta dapat merangsang
+pikiran, perasaan, perhatian, dan kemauan si belajar
+sehingga dapat mendorong terjadinya proses belajar
+yang disengaja, bertujuan, dan terkendali.
+Dari beberapa definisi di atas, dapat disimpulkan
+bahwa media pembelajaran adalah segala sesuatu
+yang digunakan untuk menyampaikan informasi
+pembelajaran sehingga merangsang pikiran,
+perasaan, perhatian, dan kemauan siswa untuk belajar
+dan mencapai sebuah tujuan pembelajaran.
+Bentuk CAI sangat beragam sesuai dengan
+karakteristik materi dan tujuan yang hendak dicapai.
+Kemp dan Dayton dalam Hannafin dan Peck (1988:
+139-157) menjelaskan beberapa bentuk media CAI,
+yaitu (1) Tutorial, program bentuk tutorial mengikuti
+sistem tutor yang dilakukan oleh guru atau instruktur,
+namun tanpa keberadaan instruktur. Interaksi
+yang terjadi hanya antara siswa dengan materi
+yang disajikan dengan sangat komunikatif seolaholah
+ada tutor yang mengarahkan pembelajaran tersebut. (2) Drill-and-practice, bentuk drill-andpractice
+memungkinkan siswa untuk meningkatkan
+kemahiran mengenai suatu konsep, aturan, atau
+prosedur yang telah diajarkan sebelumnya melalui
+latihan dan contoh. (3) Simulation, program simulasi
+mencoba untuk menyerupai proses dinamis yang
+terjadi di dunia nyata, sehingga seolah-olah siswa
+sedang mengalami pengalaman seperti kejadian
+sesungguhnya tanpa harus menghadapi risiko yang
+sebenarnya. (4) Instructional Games atau permainan
+pembelajaran, program ini memuat permainanpermainan
+yang terkait dengan materi pelajaran.
+Permainan dirancang dan disesuaikan dengan
+materi yang sedang dipelajari agar dapat membantu
+pencapaian tujuan pembelajaran siswa.
+Menurut Rusman (2012: 112-124), bentuk media
+CAI, yaitu (1) Drill and Practice, program drills akan
+ditanamkan kebiasaan tertentu dalam bentuk latihan.
+Dengan latihan yang terus menerus, maka akan
+tertanam dan kemudian akan menjadi kebiasaan.
+Flowchart untuk menuangkan konten dan sistem
+pembelajaran berbasis komputer ke dalam program
+CAI dilakukan melalui pembuatan bagan alur. (2)
+Tutorial, program tutorial pada dasarnya sama dengan
+program bimbingan yang bertujuan memberikan
+bantuan kepada siswa agar dapat mencapai hasil
+belajar secara optimal. (3) Simulasi, program ini
+menampilkan materi pelajaran yang dikemas dalam
+bentuk simulasi-simulasi pembelajaran dalam bentuk
+animasi yang menjelaskan konten secara menarik,
+hidup, dan memadukan unsure teks, gambar, audio,
+gerak, dan paduan warna yang serasi harmonis. (4)
+Instructional Games, program ini untuk menyediakan
+pengalaman belajar yang memberikan fasilitas belajar
+untuk menambah kemampuan siswa melalui bentuk
+permainan yang mendidik.
+Bentuk pembelajaran yang ditampilkan pada
+pengembangan CAI ini adalah drill and practice
+yang di variasikan dengan simulasi. Penyampaian
+materi dengan drill and practice dipilih karena
+dengan sistem ini, siswa dapat menerima materi
+sekaligus dan akan dapat berlatih untuk melatih
+keterampilan dalam berhitung serta daya ingat
+siswa dalam materi yang telah disajikan. Dan
+untuk menjelaskan perhitungan suatu bangunan
+akan menggunakan simulasi bangunan rumah.
+Sistem penjelasan materi ini dipilih karena dengan
+simulasi siswa dapat mempunyai gambaran visual.
+Hal ini dapat membangkitkan motivasi siswa dalam
+belajar, sehingga proses belajar pun akan efektif dan
+mempunyai variasi dalam proses belajar.
+Gambar 4: Bentuk CAI Drill dan Practice, dan Simulation
+Menurut Hannafin dan Peck (1988: 8-10),
+aplikasi media CAI memiliki kekuatan sebagai
+berikut: (1) Meningkatkan interaksi, media CAI
+mampu menimbulkan interaksi antara siswa dan
+komputer. Siswa akan mencari, memilih menemukan informasi-informasi yang berkaitan
+dengan materi pembelajaran. Komputer juga mampu
+memberikan respon-respon yang menjadikan siswa
+seolah-olah sedang berinteraksi dengan seorang
+pengajar. (2) Bersifat individual, dengan media
+CAI siswa dapat menentukan sendiri apa yang akan
+mereka lakukan pertama kali, informasi apa yang
+ingin mereka ketahui dan kapan dia akan mengakhiri
+proses belajar. Sehingga pembelajaran menjadi
+lebih relevan dengan minat dan kebutuhan siswa.
+(3) Kelebihan secara administratif dan efektivitas
+biaya, media CAI cenderung lebih hemat dari segi
+administratif dan biaya, karena siswa tidak perlu
+mengeluarkan waktu, tenaga dan biaya lebih hanya
+untuk mencari sebuah informasi pembelajaran.
+Pendistribusian aplikasi program juga relatif tidak
+memakan biaya yang besar, materi program dapat
+di duplikat menggunakan Flash Disk atau CD yang
+biasa dibawa secara fleksibel. (4) Memberikan
+motivasi, komputer mampu memberikan ilustrasi,
+animasi, musik, narasi dan tampilan menarik yang
+juga disertai dengan respon-respon yang dapat memberi “kejutan” kepada siswa, menjadikan siswa
+termotivasi untuk mencari hal-hal lain yang lebih
+menarik dan membantu proses belajarnya. (5) Umpan
+balik yang segera, pengembang media CAI dapat
+merancang sebuah situasi belajar yang menuntut
+siswa melakukan sesuatu dan mendapatkan umpan
+balik positif langsung setelah siswa melakukan
+sesuatu. Hal ini akan mampu membuat siswa merasa
+nyaman karena memperoleh penghargaan akan apa
+yang telah dia lakukan. (6) Mudah menyimpan data
+(kemajuan siswa), program pembelajaran berbantuan
+komputer yang telah diprogram secara otomatis
+memungkinkan dapat merekam dan menyimpan
+kemampuan tiap siswa. Data ini dapat digunakan
+untuk mengevaluasi baik untuk siswa ataupun untuk
+program itu sendiri. (7) Integritas pembelajaran,
+seorang pengajar tidak akan dapat menyampaikan
+hal yang sama persis untuk yang kedua kalinya.
+Sedangkan komputer yang telah terprogram dapat
+menyampaikan informasi berulang-ulang tanpa
+ada kesalahan. Sehingga dengan penyampaian
+materi melalui komputer, informasi yang diperoleh
+siswa akan utuh. (8) Kendali siswa, siswa yang
+menggunakan aplikasi program pembelajaran
+berbantuan komputer dapat mengendalikan sendiri
+situasi belajar yang mereka kehendaki, siswa juga
+dapat mengatur kecepatan belajar atau juga memilih
+topik-topik yang menarik untuk mereka pelajari.
+Di satu sisi, CAI memang memiliki kelebihan
+yang menjadikannya lebih efektif. Namun di sisi
+lain, menurut Hannafin dan Peck (1988: 10-13), CAI
+juga memiliki kelemahan antara lain: (1) Hardware
+yang mahal, untuk menjalankan aplikasi program
+pembelajaran berbantuan komputer dibutuhkan
+komputer. Namun saat ini komputer masih menjadi
+barang yang tergolong mahal bagi sekelompok orang.
+Sehingga sebelum mengembangkan sebuah program
+pembelajaran berbantuan komputer, pengembang
+harus melihat latar belakang calon penggunanya, baik
+dari segi ekonomi maupun sosial budaya. Apakah
+mereka mampu menggunakan program tersebut.
+(2) Kesulitan menyajikan materi, kesulitan yang
+dimaksud adalah yang berkaitan dengan perangkat,
+yakni komputer. Aplikasi program pembelajaran
+berbantuan komputer tidak dapat dijalankan tanpa
+adanya komputer. (3) Bergantung pada kemampuan
+membaca dan visual, pembelajaran berbantuan
+komputer sangat membutuhkan kemampuan
+membaca dan visual dari siswanya, karena sebagian
+besar penyajian materi dalam aplikasi program
+berupa teks, gambar, animasi dan ilustrasi. (4) Grafik
+yang tidak realistik, terkadang aplikasi program
+pembelajaran berbantuan komputer menampilkan
+grafik atau gambar yang tidak sesuai dengan
+kenyataan. Bisa karena memang kekurangan dalam
+proses pengembangannya, atau juga karena faktor
+teknis seperti resolusi monitor yang kurang, warna
+yang terbatas atau spesifikasi komputer yang rendah.
+(5) Membutuhkan kemampuan pengembangan
+tambahan, dalam mengembangkan pembelajaran
+berbantuan komputer dibutuhkan kemampuan
+tambahan untuk menjadikan pembelajaran yang
+efektif seperti kemampuan merancang strategi dan
+evaluasi pembelajaran. (6) Waktu pengembangan
+yang lama, pengembangan pembelajaran berbantuan
+komputer harus melalui tahapan-tahapan mulai dari
+analisis, perancang konsep, memproduksi, menguji
+coba, mengevaluasi sampai dengan merevisi
+produk. Sehingga membutuhkan waktu yang relatif
+lebih lama. (7) Terbatasnya belajar insidental,
+pembelajaran berbantuan komputer merupakan
+pembelajaran yang terprogram, pembelajaran harus
+selalu mengikuti apa yang telah ada di dalamnya.
+Sehingga membatasi terjadinya pembelajaran lain
+yang mampu menambah pengetahuan siswa. Untuk
+mengatasi hal ini, maka dibutuhkan sebuah strategi
+dalam pelaksanaan pembelajaran tersebut. (8)
+Persepsi hanya dari input yang telah di program,
+segala sesuatu yang terprogram di dalam aplikasi
+program pembelajaran berbantuan komputer telah
+di input dan tidak memiliki nilai toleransi, sehingga
+untuk hal-hal tertentu seperti menjawab sebuah
+pertanyaan, siswa harus menjawab sesuai dengan
+apa yang telah di input. Jika tidak, maka jawaban
+akan dianggap salah walaupun maksud dari jawaban
+tidak jauh berbeda. Sehingga dalam pengembangan
+permainan, kuis atau evaluasi harus diarahkan pada
+hal-hal yang memiliki jawaban objektif.
+METODE PENELITIAN
+Tujuan penelitian ini adalah untuk menghasilkan
+produk berupa media CAI untuk siswa kompetensi
+keahlian TKBB kelas XI. Penelitian ini telah
+dilaksanakan di SMK N 4 Rorotan Jakarta Utara
+selama 2 bulan dengan rencana dari bulan November
+2014 – November 2015.
+Sasaran penelitian ini adalah siswa kelas XI
+pada kompetensi keahlian TKBB dan juga guru mata pelajaran konstruksi batu di SMK N 4 Jakarta Utara.
+Penelitian ini dikembangkan untuk dapat membantu
+siswa dalam upaya memahami materi yang disajikan
+oleh guru. Dengan adanya media CAI ini siswa dapat
+memahami dan bisa mempraktikan cara menghitung
+volume pekerjaan dan analisis biaya bahan bangunan
+rumah, serta dapat memotivasi siswa dalam
+mempelajari materi perhitungan volume pekerjaan
+dan analisis biaya bahan dan dapat membantu siswa
+untuk mencapai standar KKM.
+Penelitian ini menggunakan metode penelitian
+dan pengembangan (Research and Development).
+Menurut Sugiyono (2011: 297), metode penelitian
+pengembangan adalah metode yang digunakan untuk
+menghasilkan produk tertentu dan menguji keefektifan
+produk tersebut. Dalam menguji keefektifan produk
+dilakukan dengan uji coba. Orientasi kegiatan uji
+coba produk ini adalah untuk memperoleh sejumlah
+data dan informasi yang berfungsi sebagai bahan
+masukan terhadap perbaikan atau revisi produk,
+sehingga menghasilkan produk media CAI yang
+layak dan berkualitas untuk kegiatan pembelajaran.
+Dalam mengembangkan media CAI ini, akan
+dipakai model Dick dan Carey, karena model ini
+memiliki keunggulan dalam penjelasan proses
+desain pembelajaran, namun memiliki kelemahan
+dalam penjelasan proses pengembangan produk.
+Selain itu, model pengembangan yang digunakan
+dalam penelitian ini juga menggunakan model
+pengembangan CAI oleh Hannafin dan Peck
+yaitu model CAI Design Model (CDM). Model
+pengembangan yang dikembangkan oleh Hannafin
+dan Peck memiliki keunggulan dalam penjelasan
+secara rinci proses pengembangan produk CAI,
+namun memiliki kelemahan dalam penyusunan
+desain pembelajarannya. Untuk menutupi kelemahan
+tersebut maka dalam penelitian ini dikombinasikan
+dengan model desain Dick dan Carey dan model
+pengembangan Hannafin dan Peck. Dapat disimpulkan
+bahwa penggabungan kedua model tersebut dalam
+pengembangan media CAI ini bertujuan untuk saling
+menutupi kelemahan masing-masing model sehingga
+tahapan pengembangan dapat terpenuhi.
+Langkah-langkah dari model gabungan Dick
+dan Carey dan model CDM Hannafin dan Peck adalah
+(1) Mengidentifikasi tujuan pembelajaran umum, (2)
+Analisis pembelajaran, (3) Identifikasi karakteristik
+siswa dan konteks pembelajaran, (4) Rumuskan
+tujuan pembelajaran khusus, (5) Mengembangkan
+instrumen penilaian, (6) Mengembangkan
+strategi pembelajaran, (7) Mengembangkan dan
+memilih materi pelajaran, (8) Desain produk,
+(9) Pengembangan produk, (10) Mendesain dan
+melakukan evaluasi formatif, (11) Melakukan revisi
+terhadap draf program pembelajaran.
+HASIL PENELITIAN DAN PEMBAHASAN
+Tahap Identifikasi Tujuan Pembelajaran Umum
+Dalam hal ini, materi perhitungan volume
+pekerjaan dan biaya bahan bangunan memiliki tujuan
+pembelajaran umum atau dapat juga kita sebut dengan
+standar kompetensi yang juga disesuaikan dengan
+kurikulum yang telah ditetapkan oleh Pemerintah
+yaitu “siswa dapat menganalisis besaran bahan dan
+biaya pasangan konstruksi bangunan berdasarkan
+gambar kerja.”
+Tahap Analisis Pembelajaran
+Pada materi perhitungan volume pekerjaan dan
+analisis biaya bahan bangunan terdapat keterkaitan
+dan hubungan sub pokok bahasan satu dengan yang
+lainnya. Keterkaitan dan hubungannya dapat dilihat
+melalui gambar peta kompetensi berikut:
+Gambar 2: Peta Kompetensi
+Berdasarkan peta kompetensi di atas,
+menterjemahkan gambar kerja suatu bangunan rumah
+type 21 merupakan pemahaman (C1), melakukan
+perhitungan volume pekerjaan bangunan rumah type
+21 berdasarkan gambar kerja merupakan penerapan
+(C2), dan menganalisis biaya bahan bangunan rumah
+type 21 berdasarkan gambar kerja merupakan analisis
+(C3).
+HASIL PENELITIAN DAN PEMBAHASAN
+Tahap Identifikasi Tujuan Pembelajaran
+Umum
+Dalam hal ini, materi perhitungan volume
+pekerjaan dan biaya bahan bangunan memiliki
+tujuan pembelajaran umum atau dapat juga kita
+sebut dengan standar kompetensi yang juga
+disesuaikan dengan kurikulum yang telah
+ditetapkan oleh Pemerintah yaitu “siswa dapat
+menganalisis besaran bahan dan biaya pasangan
+konstruksi bangunan berdasarkan gambar kerja.”
+Tahap Analisis Pembelajaran
+Pada materi perhitungan volume pekerjaan
+dan analisis biaya bahan bangunan terdapat
+keterkaitan dan hubungan sub pokok bahasan satu
+dengan yang lainnya. Keterkaitan dan
+hubungannya dapat dilihat melalui gambar peta
+kompetensi berikut:
+Berdasarkan peta kompetensi di atas,
+menterjemahkan gambar kerja suatu bangunan rumah
+type 21 merupakan pemahaman (C1), melakukan
+perhitungan volume pekerjaan bangunan rumah type
+21 berdasarkan gambar kerja merupakan penerapan
+(C2), dan menganalisis biaya bahan bangunan rumah
+type 21 berdasarkan gambar kerja merupakan analisis (C3).
+
+
+Tahap Identifikasi Karakteristik Siswa dan
+Konteks Pembelajaran
+Dalam hal ini kompetensi dari materi perhitungan
+volume pekerjaan dan biaya bahan bangunan rumah
+adalah setelah siswa mempelajarinya, siswa dapat
+menentukan dan menghitung bahan dan biaya
+pasangan konstruksi bangunan berdasarkan gambar
+kerja sehingga dapat memecahkan masalah yang
+berkaitan dengan perhitungan volume pekerjaan dan
+biaya bahan bangunan rumah.
+Peneliti melakukan analisis dengan menyebarkan
+angket dan melakukan wawancara terhadap guru serta
+siswa. Dari hasil analisis didapatkan data sebagai
+berikut: (1) Analisis karakteristik siswa yaitu siswa
+kelas XI TKBB dengan rentang usia rata-rata berusia
+16-17 tahun atau pada masa tahap operasional formal,
+dalam hal ini anak mampu berpikir lebih abstrak, logis
+dan idealistis. Menurut Santrock (2009: 57), kualitas
+abstrak dari pemikiran operasional formal terlihat
+nyata dalam pemecahan masalah secara verbal.
+Berdasarkan angket dan wawancara, kebanyakan dari
+mereka sangat menyukai mata pelajaran yang bersifat
+praktik. Sedangkan mata pelajaran yang tidak mereka
+sukai yaitu mata pelajaran yang bersifat teori. Mereka
+menganggap materi perhitungan volume pekerjaan
+dan biaya bahan bangunan lebih sulit dibandingkan
+materi lain pada mata pelajaran konstruksi batu.
+Mereka juga sangat bosan dengan metode ceramah
+yang digunakan oleh guru saat menyampaikan materi
+pelajaran, sehingga ketika menghadapi tes siswa saling
+bekerja sama dalam menentukan cara penyelesaian
+dengan menggunakan rumus tersebut. (2) Analisis
+lingkungan pembelajaran yaitu berdasarkan hasil
+wawancara dengan guru, SMK N 4 Jakarta Utara
+memiliki sarana dan prasarana yang cukup lengkap
+untuk menunjang proses pembelajaran. Mereka
+mempunyai ruang multimedia. Di dalam ruang
+multimedia tersedia berbagai komputer yang dapat
+digunakan untuk menggunakan CAI. Selain itu, guru
+merekomendasikan media yang akan dikembangkan
+ini hanya sebagai sarana penyampaian materi tentang
+perhitungan volume pekerjaan dan biaya bahan
+bangunan saja. Namun di saat-saat tertentu, media ini
+juga dapat dijadikan bahan untuk proses pembedahan
+sebuah konstruksi bangunan rumah type 21, dengan
+menampilkan media yang kemudian diikuti dengan
+diskusi antara guru dan siswa. (3) Analisis isi materi
+yaitu dalam hal ini materi yang akan disajikan dalam
+media CAI adalah tentang perhitungan volume
+pekerjaan dan biaya bahan bangunan rumah type 21.
+Menurut sebagian siswa, materi perhitungan volume
+pekerjaan dan biaya bahan merupakan materi yang
+cukup sulit, dalam hal ini siswa sering lupa dan
+tertukar dalam perhitungan dengan menggunakan
+rumus. 4) Analisis guru yaitu guru sangat sulit
+menjelaskan materi jika hanya menggunakan
+verbalistis saja, khususnya untuk perhitungan volume
+pekerjaan dan biaya bahan. Guru kurang mampu
+menghadirkan sesuatu yang abstrak dari materi,
+dalam hal ini perhitungan volume pekerjaan dan biaya
+bahan bangunan berupa fondasi, lantai, dinding, dan
+atap. Untuk itu guru menginginkan adanya media
+yang dapat memvisualisasikan perhitungan volume
+pekerjaan dan biaya suatu bangunan yang berbentuk
+rumah.
+Tahap Merumuskan Tujuan Pembelajaran
+Khusus
+Adapun rumusan tujuan instruksional khusus
+yang dianggap sesuai bagi media CAI ini, antara lain:
+(1) Apabila siswa diberikan tes tertulis mengenai
+pokok bahasan gambar kerja suatu bangunan rumah
+type 21, siswa dapat menterjemahkan gambar kerja
+suatu bangunan rumah minimal 80% benar. (2)
+Apabila siswa diberikan tes tertulis mengenai pokok
+bahasan perhitungan volume pekerjaan bangunan
+rumah type 21 berdasarkan gambar kerja, siswa
+dapat melakukan perhitungan volume pekerjaan
+bangunan rumah minimal 80% benar. (3) Apabila
+siswa diberikan tes tertulis mengenai pokok bahasan
+analisa biaya bahan bangunan pada rumah type 21
+berdasarkan gambar kerja, siswa dapat menganalisis
+biaya bahan bangunan rumah berdasarkan gambar
+kerja minimal 80% benar.
+Tahap Mengembangkan Instrumen Penilaian
+Dalam pengembangan ini evaluasi hasil belajar
+dilakukan oleh guru mata pelajaran konstruksi batu
+sebagai ahli materi karena peneliti tidak mengetahui
+banyak tentang materi. Hal penting yang dilakukan
+dalam evaluasi hasil belajar adalah menentukan
+instrumen evaluasi yang akan digunakan untuk
+mengukur performa siswa dalam mencapai tujuan
+pembelajaran yang telah dirumuskan.
+Tahap Mengembangkan Strategi Pembelajaran
+Strategi pembelajaran dalam model
+pengembangan ini terdapat empat komponen, antara lain: (1) Urutan kegiatan pembelajaran, urutan
+kegiatan pembelajaran ini terdiri atas beberapa
+komponen yaitu pendahuluan, penyajian, dan
+penutup. Pada komponen pendahuluan, terdiri
+atas tiga langkah, yaitu: penjelasan singkat tentang
+isi pelajaran, penjelasan relevansi isi pelajaran,
+penjelasan tentang tujuan pembelajaran. Pada
+komponen penyajian juga terdiri atas tiga langkah,
+yaitu: uraian materi, contoh, dan latihan. Sedangkan
+pada komponen penutup terdiri atas dua langkah,
+yaitu: tes formatif dan umpan balik, dan tindak
+lanjut. (2) Metode pembelajaran, berfungsi sebagai
+cara dalam menyajikan (menguraikan, memberikan
+contoh, dan memberi latihan) isi pelajaran kepada
+siswa untuk mencapai tujuan tertentu. Metode
+yang akan digunakan dalam pembelajaran ini,
+yaitu: ceramah, tanya jawab dan praktek. (3) Media
+pembelajaran, adalah alat yang digunakan untuk
+menyalurkan pesan kapada para siswa agar penjelasan
+yang diberikan dapat dimengerti dengan baik. Media
+yang akan digunakan pada strategi Instruksional ini
+adalah komputer. (4) Waktu, Penghitungan waktu
+ini digunakan untuk membagi waktu setiap langkah
+dalam pendahuluan, penyajian, dan penutup. Selain
+itu, dapat menentukan jangka waktu program secara
+keseluruhan. Dalam pengembangan CAI ini waktu
+yang dibutuhkan oleh siswa adalah kurang lebih 6
+jam pelajaran (270 menit).
+Tahap Mengembangkan dan Memilih Materi
+Pelajaran
+Pada tahap ini, peneliti mencari sumber materi
+yang disesuaikan dengan kurikulum yang digunakan,
+dapat berasal dari buku pedoman atau dari internet.
+Disamping itu juga, peneliti mengumpulkan bahan
+lain yang akan digunakan seperti gambar-gambar
+yang menjelaskan tentang meteri tersebut yang
+dapat diperoleh dari internet. Kemudian, audio
+berupa sound effect, musik atau instrumental, lagu
+yang dibutuhkan untuk memperkaya materi dan
+program pembelajaran. Musik atau instrumental
+yang akan dijadikan backsound yang bertujuan
+untuk memberikan suasana yang nyaman saat siswa
+mempelajari materi yang terdapat dalam media CAI
+tersebut yang dapat diperoleh dari Internet. Selain
+itu, video juga dibutuhkan agar materi yang disajikan
+tidak statis dan menimbulkan kesan yang nyata. Selain
+itu, peneliti juga harus menyediakan seperangkat
+speaker aktif, microphone untuk merekam narasi
+yang nanti dibutuhkan untuk memperkaya materi
+beserta program yang dapat mengatur equalizer dari
+microphone tersebut.
+Tahap Mendesain Produk
+Pada tahap ini peneliti melakukan tahapan
+pra produksi, yaitu (1) Penyusunan Garis Besar
+Program Media (GBPM), Pada tahapan ini, kegiatan
+yang dilakukan adalah penyusunan GBPM dengan
+pengidentifikasian terhadap program. Dengan
+pengidentifikasian program maka ditentukanlah
+judul, sasaran tujuan dan materi yang akan
+dituangkan dalam media CAI ini. Setelah disusun
+GBPM, kemudian dapat disusun Jabaran Materi
+(JM) yang akan ditampilkan dalam media CAI
+ini. (2) Pembuatan flowchar , Selanjutnya, tahap
+ini merupakan tahap penyusunan flowchar . Pada
+proses pembuatan flowchar diawali dari penyusunan
+flowchar yang disesuaikan dengan materi yang akan
+ditampilkan setelah itu dilakukan pengkajian oleh ahli
+materi yaitu guru SMK N 4 Jakarta Utara. Setelah itu,
+peneliti melakukan revisi flowchar apabila ada dan
+melakukan penyusunan kembali sesuai hasil kajian
+bersama ahli materi. (3) Pembuatan storyboard,
+dalam storyboard ini peneliti membagi materi atas
+beberapa slide, yang tiap slide-nya dibagi lagi atas
+audio dan visual. Di dalam bagian audio terbagi atas
+teks yang diaudiokan serta audio untuk backsound dan
+materi yang nantinya akan ditampilkan lewat audio.
+Di dalam bagian visual terdiri atas teks, navigasi
+dan ilustrasi. Di bagian teks merupakan materi yang
+nantinya akan disajikan yang berupa teks. Dibagian
+navigasi merupakan tombol-tombol yang tampil
+dalam slide serta keterangan tambahan tentang
+tombol tersebut. Di bagian ilustrasi merupakan
+cakupan tentang gambar dan motion graphics untuk
+membantu menjelaskan materi yang akan tampil
+pada tiap slide materi yang ditampilkan.
+Tahap Pengembangan Produk
+Pada proses pengembangan produk ini, untuk
+mengolah desain pada CAI, peneliti menggunakan
+aplikasi Adobe Photoshop CS6, Adobe Flash CS6,
+Adobe Audition CS6, Adobe Illustrator CS6 untuk
+mendesain cover dan membuat ilustrasi, Logic Pro
+untuk proses rekaman suara narasi, dan Cinema 4D
+Studio untuk membuat animasi 4D bangunan rumah
+type 21.
+
+Tahap Mendesain dan Melakukan Evaluasi
+Formatif
+Dalam menyusun instrumen tes formatif ini
+peneliti melakukan tiga kegiatan yaitu: membuat
+desain tes formatif, menyusun kisi-kisi tes dan
+menuliskan tes formatif. Setelah tes formatif
+selesai dibuat, peneliti juga melakukan validasi dan
+melaksanakan tes formatif sesuai dengan desain
+yang telah dibuat. (1) Desain formatif, pada tahap
+desain tes formatif ini peneliti menentukan aspek
+yang akan dievaluasi, merumuskan kriteria untuk
+masing-masing aspek, menentukan jenis instrumen
+yang akan digunakan, dan pihak yang akan dijadikan
+responden. (2) Menulis kisi-kisi instrumen tes, setelah
+desain dibuat langkah selanjutnya adalah menuliskan
+kisi-kisi instrumen tes formatif untuk masing-masing
+aspek. (3) Penulisan tes formatif, langkah selanjutnya
+setelah membuat kisi-kisi instrumen tes formatif
+peneliti membuat tes dengan mengacu pada kisikisi
+yang ada. (4) Pelaksanaan tes formatif, peneliti
+melakukan evaluasi formatif melalui empat tahap
+yaitu: a) review oleh ahli, evaluasi satu-satu (oneto-
+one evaluation), evaluasi kelompok kecil (small
+group evaluation), dan uji coba lapangan (field
+group).
+Hasil Uji Kelayakan Produk Media CAI
+Evaluasi oleh para ahli (expert judgment) untuk
+menilai kelayakan media CAI yang dikembangkan.
+Penilaian ini akan menjadi dasar untuk memperbaiki
+media CAI yang dinilai kurang baik oleh para ahli.
+Para ahli yang diminta menilai media CAI ini adalah
+mereka yang memiliki latar belakang keahlian dalam
+bidang desain pembelajaran, media pembelajaran dan
+materi perhitungan volume pekerjaan dan analisis
+biaya bahan.
+Uji Kelayakan Expert Review
+Tahap uji coba ini dilakukan dengan
+melibatkan Bapak Dr. Ir. Rusmono sebagai ahli
+desain pembelajaran. Bapak Drs. Suharyono R.,
+Ibu Dra. Daryati, MT, Ibu Lenggogeni, MT sebagai
+ahli materi. Bapak Dr. M. Sukardjo, M.Pd, Bapak
+Hamidillah Aji, MT, Bapak Tri Budi, S.Pd sebagai
+ahli media. Berikut merupakan hasil rekapitulasi
+yang didapat dari expert review:
+Tabel 1: Hasil Rekapitulasi Ahli Desain Pembelajaran
+Masukan dari ahli desain pembelajaran adalah
+agar ditambahkan simulasi agar siswa terlibat
+dalam proses pembelajaran dan media CAI menjadi
+interaktif.
+Tabel 2: Hasil Rekapitulasi Para Ahli Materi
+Masukan dari ahli materi 1 adalah gambar detail
+pondasi seharusnya pondasi memanjang tidak seperti
+gambar pondasi tampak. Masukan dari ahli materi 2
+adalah gambar anstamping disesuaikan dengan bahan
+yang digunakan (batu kali). Masukan dari ahli materi
+3 adalah analisis biaya diganti dengan analisis BOQ
+(Bill of Quantity), kemudian tulisan diatur sehingga
+tidak menimbulkan miskonsepsi.
+Tabel 3: Hasil Rekapitulasi Para Ahli Media
+Masukan dari ahli media 1 adalah font dengan
+background kurang kontras, kemudian font di main
+menu agar dibesarkan supaya dapat terlihat dengan
+jelas. Masukan dari ahli media 2 adalah ikon exit
+diganti dengan ikon pintu (door). Masukan dari ahli
+media 3 adalah pada penggunaan tombol, tombol
+next dan prev diletakkan di depan, kemudian pop
+up 3 materi pada main menu diberi cahaya memutar
+kotak pop up agar bisa menunjukkan materi yang
+harus di klik.
+desain tes formatif, menyusun kisi-kisi tes dan
+menuliskan tes formatif. Setelah tes formatif
+selesai dibuat, peneliti juga melakukan validasi dan
+melaksanakan tes formatif sesuai dengan desain
+yang telah dibuat. (1) Desain formatif, pada tahap
+desain tes formatif ini peneliti menentukan aspek
+yang akan dievaluasi, merumuskan kriteria untuk
+masing-masing aspek, menentukan jenis instrumen
+yang akan digunakan, dan pihak yang akan
+dijadikan responden. (2) Menulis kisi-kisi
+instrumen tes, setelah desain dibuat langkah
+selanjutnya adalah menuliskan kisi-kisi instrumen
+tes formatif untuk masing-masing aspek. (3)
+Penulisan tes formatif, langkah selanjutnya setelah
+membuat kisi-kisi instrumen tes formatif peneliti
+membuat tes dengan mengacu pada kisi-kisi yang
+ada. (4) Pelaksanaan tes formatif, peneliti
+melakukan evaluasi formatif melalui empat tahap
+yaitu: a) review oleh ahli, evaluasi satu-satu (oneto-
+one evaluation), evaluasi kelompok kecil (small
+Ibu Dra. Daryati, MT, Ibu Lenggogeni, MT
+sebagai ahli materi. Bapak Dr. M. Sukardjo, M.Pd,
+Bapak Hamidillah Aji, MT, Bapak Tri Budi, S.Pd
+sebagai ahli media. Berikut merupakan hasil
+rekapitulasi yang didapat dari expert review:
+Tabel 1: Hasil Rekapitulasi Ahli Desain
+Pembelajaran
+Masukan dari ahli desain pembelajaran
+adalah agar ditambahkan simulasi agar siswa
+terlibat dalam proses pembelajaran dan media CAI
+menjadi interaktif.
+No. Aspek Rerata
+1. Desain Pembelajaran 3,44
+2. Konten 3,71
+3. Pengelolaan dan Navigasi 3,25
+4. Penampilan 3,50
+5. Grafis, Video, dan Audio 3,50
+Skor Akhir 3,50
+Tabel 2: Hasil Rekapitulasi Para Ahli Materi
+Masukan dari ahli materi 1 adalah gambar
+detail pondasi seharusnya pondasi memanjang
+tidak seperti gambar pondasi tampak. Masukan
+dari ahli materi 2 adalah gambar anstamping
+disesuaikan dengan bahan yang digunakan (batu
+kali). Masukan dari ahli materi 3 adalah analisis
+biaya diganti dengan analisis BOQ (Bill of
+Quantity), kemudian tulisan diatur sehingga tidak
+menimbulkan miskonsepsi.
+Tabel 3: Hasil Rekapitulasi Para Ahli Media
+Masukan dari ahli media 1 adalah font dengan
+background kurang kontras, kemudian font di main
+menu agar dibesarkan supaya dapat terlihat dengan
+jelas. Masukan dari ahli media 2 adalah ikon exit
+diganti dengan ikon pintu (door). Masukan dari ahli
+media 3 adalah pada penggunaan tombol, tombol
+next dan prev diletakkan di depan, kemudian pop
+up 3 materi pada main menu diberi cahaya memutar
+kotak pop up agar bisa menunjukkan materi yang
+harus di klik.
+desain tes formatif, menyusun kisi-kisi tes dan
+menuliskan tes formatif. Setelah tes formatif
+selesai dibuat, peneliti juga melakukan validasi dan
+melaksanakan tes formatif sesuai dengan desain
+yang telah dibuat. (1) Desain formatif, pada tahap
+desain tes formatif ini peneliti menentukan aspek
+yang akan dievaluasi, merumuskan kriteria untuk
+masing-masing aspek, menentukan jenis instrumen
+yang akan digunakan, dan pihak yang akan
+dijadikan responden. (2) Menulis kisi-kisi
+instrumen tes, setelah desain dibuat langkah
+selanjutnya adalah menuliskan kisi-kisi instrumen
+tes formatif untuk masing-masing aspek. (3)
+Penulisan tes formatif, langkah selanjutnya setelah
+membuat kisi-kisi instrumen tes formatif peneliti
+membuat tes dengan mengacu pada kisi-kisi yang
+ada. (4) Pelaksanaan tes formatif, peneliti
+melakukan evaluasi formatif melalui empat tahap
+yaitu: a) review oleh ahli, evaluasi satu-satu (oneto-
+one evaluation), evaluasi kelompok kecil (small
+Ibu Dra. Daryati, MT, Ibu Lenggogeni, MT
+sebagai ahli materi. Bapak Dr. M. Sukardjo, M.Pd,
+Bapak Hamidillah Aji, MT, Bapak Tri Budi, S.Pd
+sebagai ahli media. Berikut merupakan hasil
+rekapitulasi yang didapat dari expert review:
+Tabel 1: Hasil Rekapitulasi Ahli Desain
+Pembelajaran
+Masukan dari ahli desain pembelajaran
+adalah agar ditambahkan simulasi agar siswa
+terlibat dalam proses pembelajaran dan media CAI
+menjadi interaktif.
+No. Aspek Rerata
+1. Desain Pembelajaran 3,44
+2. Konten 3,71
+3. Pengelolaan dan Navigasi 3,25
+4. Penampilan 3,50
+5. Grafis, Video, dan Audio 3,50
+Skor Akhir 3,50
+Tabel 2: Hasil Rekapitulasi Para Ahli Materi
+Masukan dari ahli materi 1 adalah gambar
+detail pondasi seharusnya pondasi memanjang
+tidak seperti gambar pondasi tampak. Masukan
+dari ahli materi 2 adalah gambar anstamping
+disesuaikan dengan bahan yang digunakan (batu
+kali). Masukan dari ahli materi 3 adalah analisis
+biaya diganti dengan analisis BOQ (Bill of
+Quantity), kemudian tulisan diatur sehingga tidak
+menimbulkan miskonsepsi.
+Tabel 3: Hasil Rekapitulasi Para Ahli Media
+Masukan dari ahli media 1 adalah font dengan
+background kurang kontras, kemudian font di main
+menu agar dibesarkan supaya dapat terlihat dengan
+jelas. Masukan dari ahli media 2 adalah ikon exit
+diganti dengan ikon pintu (door). Masukan dari ahli
+media 3 adalah pada penggunaan tombol, tombol
+next dan prev diletakkan di depan, kemudian pop
+up 3 materi pada main menu diberi cahaya memutar
+kotak pop up agar bisa menunjukkan materi yang
+harus di klik.
+
+Uji Kelayakan Pengguna
+Setelah dilakukan uji coba ahli, maka langkah
+selanjutnya adalah uji coba pengguna secara bertahap
+yaitu evaluasi satu-satu (one-to-one evaluation),
+evaluasi kelompok kecil (small group evaluation),
+dan uji coba lapangan (field evaluation). Hasil uji
+kelayakan pengguna adalah sebagai berikut:
+Masukan dari siswa pada uji one to one ini
+adalah mengenai pada bagian simulasi, ketika batang
+pondasi diatur menjadi suatu denah bangunan,
+kemudian tidak bisa digerakan kembali batang
+pondasi tersebut. Berdasarkan hasil wawancara,
+didapatkan informasi bahwa media CAI ini dapat
+membantu pembelajaran siswa sekaligus membantu
+dalam penyelesaian pekerjaan rumah. Selanjutnya,
+media CAI ini juga bisa membantu siswa dalam
+proses pemahaman materi.
+Masukan dari siswa pada uji small group ini
+adalah mengenai warna font ukuran bangunan pada
+gambar denah kurang terlihat jelas.
+
+Masukan dari siswa pada uji field yaitu suara
+narasi pada bagian evaluasi yang terlampau cepat
+ketika menjelaskan cara pengisian jawaban pada
+bagian evaluasi.
+Hasil Uji Coba Efektifitas Pembelajaran
+Perhitungan Volume Pekerjaan dan Analisis Biaya
+Bahan
+Pada uji coba lapangan ini dilakukan untuk
+mengetahui efektifitas media CAI. Efektifitas diukur
+dengan menggunakan pretest dan posttest untuk
+mendapatkan pendapat siswa mengenai media
+CAI ini, serta menganalisis hasil belajar dengan
+menggunakan pretest dan posttest.
+Uji coba lapangan dilakukan pada 19 orang
+siswa. Sebelum mendapatkan materi yang terdapat
+pada media CAI, siswa diminta untuk menjawab
+soal pretest. Kemudian, setelah mendapatkan materi
+yang terdapat pada media CAI tersebut siswa diminta
+untuk menjawab soal posttest.
+
+Berdasarkan hasil rekapitulasi data pretest dan
+posttest di atas, diperoleh peningkatan yaitu 34,28.
+Secara umum dapat disimpulkan bahwa pembelajaran
+perhitungan volume pekerjaan dan analisis biaya
+bahan dengan menggunakan media CAI yang
+dikembangkan ini efektif dalam rangka pencapaian
+KKM siswa dan juga dapat membantu siswa dalam
+proses pemahaman pada pembelajaran perhitungan
+volume pekerjaan dan analisis biaya bahan. Selain
+itu, bisa membantu guru pada saat mengajar materi
+perhitungan volume pekerjaan dan analisis biaya
+bahan.
+Pembahasan
+Produk yang dikembangkan dalam penelitian
+ini adalah media CAI perhitungan volume pekerjaan
+dan analisis biaya bahan. Media CAI ini terdiri dari 3
+pokok bahasan, antara lain gambar kerja, perhitungan
+volume, dan analisis biaya. Materi disajikan dengan
+gambar 4D, animasi, narasi, video, audio dan musik
+latar. Media ini dikembangkan dengan memperhatikan karakteristik siswa dan karakteristik media CAI yang
+efektif, sehingga siswa dapat mengakses materi
+secara acak dan bebas, sehingga kemajuan proses
+pembelajaran dapat disesuaikan dengan minat dan
+kemampuan masing-masing siswa.
+KESIMPULAN
+Hasil penelitian ini dapat disimpulkan bahwa
+pengembangan media CAI perhitungan volume
+pekerjaan dan analisis biaya bahan telah diselesaikan
+dengan menggunakan validasi beberapa tahap. Proses
+desain adalah langkah awal memulai pengembangan,
+yaitu pengumpulan data, sasaran, materi dan
+komponen penunjang lainnya. Proses kedua adalah
+produksi, proses ini merupakan proses bahwa semua
+telah dikumpulkan disusun dalam sebuah produk
+awal.
+Kemudian proses berikutnya adalah evaluasi
+oleh ahli desain pembelajaran, ahli materi, ahli media,
+uji coba satu-satu, uji coba kelompok kecil uji coba
+lapangan. Pada uji kelayakan expert review yang
+dilakukan oleh ahli desain pembelajaran didapatkan
+skor 3,50, ahli materi didapatkan skor 3,71, dan ahli
+media didapatkan skor 3,68 yang menunjukkan media
+CAI dinilai baik. Pada uji kelayakan pengguna, yaitu
+uji coba satu-satu didapatkan skor 3,66, uji coba
+kelompok kecil didapatkan skor 3,50, dan uji coba
+lapangan didapatkan skor 3,59 yang menunjukkan
+media CAI dinilai baik.
+Kemudian dilakukan uji coba efektifitas
+pembelajaran perhitungan volume pekerjaan
+dan analisis biaya bahan yang diukur dengan
+menggunakan pretest dan posttest yang dilakukan
+oleh siswa pada uji coba lapangan. Pada uji efektifitas
+terdapat rerata nilai pretest sebesar 48,42 dan rerata
+nilai posttest 82,70. Dari hasil nilai antara pretest
+dan posttest terjadi peningkatan yaitu 34,28. Hal
+ini menunjukkan bahwa terdapat perbedaan yang
+signifikansi antara skor pretest dan posttest.
+Secara umum dapat disimpulkan bahwa
+pembelajaran perhitungan volume pekerjaan dan
+analisis biaya bahan dengan menggunakan media
+CAI yang dikembangkan ini, efektif dalam rangka
+membantu siswa dalam proses pemahaman pada
+pembelajaran perhitungan volume pekerjaan dan
+analisis biaya bahan. Selain itu, bisa membantu
+guru pada saat mengajar materi perhitungan volume
+pekerjaan dan analisis biaya bahan.
+Implikasi
+Media CAI perhitungan volume dan analisis
+biaya bahan akan menjadi media CAI suplemen dan
+dapat dimanfaatkan untuk melaksanakan kegiatan
+pembelajaran di kelas. Kemudian, materi yang
+dikembangkan dalam media CAI perhitungan volume
+pekerjaan dan analisis biaya bahan ini dapat digunakan
+oleh siswa dalam meningkatkan keterampilan dalam
+menghitung volume serta menganalisis biaya bahan
+dan upah pekerja. Penggunaan media CAI perhitungan
+volume pekerjaan dan analsisi biaya bahan ini juga
+dapat mengefektifkan waktu pembelajaran.

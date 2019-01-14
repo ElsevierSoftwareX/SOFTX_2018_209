@@ -1,0 +1,59 @@
+﻿
+ Teknik Koreksi Posisi dan Bentuk Objek Citra dalam Basis Waktu-Bilangan Gelombang
+
+
+ Intisari—Pada kasus citra radar, citra merupakan hasil konvolusi antara sumber gelombang dan koefisien refleksi objek, di mana di antaranya merupakan representasi dari besaran konduktivitas listrik dan konstanta dielektrik objek. Citra muncul akibat dari konsep hamburan (scattering) di mana tanpa adanya peristiwa hamburan maka tidak akan ada citra radar. Citra hasil pengukuran biasanya tidak merepresentasikan posisi dan bentuk kondisi objek yang sebenarnya. Untuk mengembalikan citra kepada posisi dan bentuk yang sebenarnya diperlukan teknik yang tepat agar objek kembali pada posisi dan bentuk yang sebenarnya. 
+Makalah ini menyajikan teknik koreksi citra dalam basis waktu dan bilangan gelombang (T-K) pada kondisi objek berupa lapisan tanah yang miring dan objek pendifraksi berupa logam yang berbentuk bulat. Koreksi citra dalam basis T-K dilakukan dengan cara melakukan transformasi Fourier pada citra asal (medan gelombang F(t,k)) pada ruang dimensi x ke ruang dimensi k yang menghasilkan medan gelombang baru F(t,k). Medan gelombang F(t,k) kemudian dikoreksi untuk setiap bilangan gelombangnya dengan mengubahnya terlebih dahulu menjadi medan gelombang baru Q(τ,k). Lalu pada medan gelombang ini dilakukan transformasi Fourier untuk mendapatkan seksi terkoreksi q(τ,x) 
+Hasil koreksi citra dalam basis T-K memberikan hasil posisi dan bentuk citra yang sesuai berdasarkan kondisi yang 
+ sesungguhnya. Hal ini dapat dipastikan karena citra yang digunakan merupakan citra sintetik yang posisi dan kondisi awalnya sudah diatur dan diketahui sebelumnya. 
+Kata Kunci— Koreksi Posisi, Koreksi Bentuk, Transformasi Fourier, Migrasi Data Basis T-K. 
+I. PENDAHULUAN 
+
+Koreksi data citra asal adalah proses yang bertujuan untuk menempatkan posisi reflektor (citra) pada posisi yang sebenarnya. Koreksi dilakukan dengan mengimplementasikan algoritme migrasi data pada domain T-K  dengan jalan menempatkan kembali event-event citra pada waktu dan lokasi yang tepat, sehingga didapatkan suatu hasil penampang gambar yang mendekati kondisi sebenarnya. 
+Proses kesalahan posisi dan bentuk citra untuk bidang reflektor miring terjadi akibat perubahan kemiringan yang terekam di citra, dikarenakan sifat penjalaran gelombang yang menjalar ke segala arah, di mana gelombang akan lebih dulu terekam di radargram berasal dari posisi terdekat dari posisi pengambilan data. Proses koreksi citra pada objek dengan penampang miring dapat diilustrasikan seperti Gbr. 1, Gbr. 2, dan Gbr. 3.
+
+Gbr. 1 menjelaskan posisi penampang objek yang memiliki bentuk kemiringan ∅. Proses akuisisi citra menghasilkan bentuk citra yang tampak seperti pada Gbr. 2. Proses koreksi citra pada Gbr. 2 menggunakan teknik migrasi data pada domain T-K , dan akan mengembalikannya ke posisi dan bentuk yang sebenarnya, seperti yang terlihat pada Gbr. 3.
+
+
+
+Konsep dari koreksi citra pada basis T-K ini adalah dengan mengubah suatu persamaan yang berada pada basis t,x,z menjadi t,k,z melalui transformasi Fourier yang kemudian dikembalikan lagi menjadi t,x,z melalui inverse transformasi Fourier. Berikut akan diberikan rumusan matematis secara lengkap: 
+Ditinjau persamaan gelombang (Helmholtz)  untuk medan magnet berikut.
+
+
+Jika kemudian diasumsikan bahwa gelombang yang membentuk citra ditinjau adalah gelombang monokromatik lalu diselesaikan dengan menggunakan teori separasi variabel  dengan
+
+
+III. KONSEP DASAR BEDA HINGGA DARI KOREKSI CITRA SEISMIK DALAM BASIS T-K 
+Teknik koreksi citra seismik dengan metode beda hingga dalam basis T-K dapat dijelaskan melalui teknik matematis berikut ini. Ditinjau persamaan berikut:
+
+
+
+IV.DIAGRAM TEKNIK KOREKSI CITRA DALAM BASIS T-K 
+Pada (14) ditemukan persamaan dengan dua buah indeks sehingga lebih baik jika dianggap I sebagai sebuah matriks. Permasalahan yang timbul akibat syarat batas diketahui untuk variabel t dan τ diselesaikan dengan menggunakan hubungan t, τ dengan t1 dan t2 yang merupakan perputaran 450 ditambah penskalaan sebesar sehingga dapat dihasilkan diagram pada Gbr. 4 dan dengan diasumsikan kolom di bawah baris pertama berharga 0. 2 
+Dari (16) dapat disimpulkan bahwa elemen ke akan diketahui jika elemen , dan diketahui. Bila digambarkan sebagai sebuah matriks yang jelas relevan dari definisi t1 dan t2, didapatkan bahwa sebuah elemen matriks yang tidak diketahui dapat dicari jika tiga buah elemen tetangganya diketahui. 1j2jI11j2jI−1j12jI−11j12jI−−
+
+Gbr. 4 Diagram komputasi koreksi hasil modifikasi . 
+Urutan pengerjaan pada Gbr. 4 adalah sebagai berikut. Kotak no1 dihitung terlebih dahulu, karena tiga tetangganya diketahui, yaitu berharga P, 0, dan 0. Kemudian kotak no1 ini digunakan untuk menghitung kotak nomor dua dan kotak nomor dua digunakan untuk menghitung kotak nomor tiga, dan seterusnya. 
+V. SIMULASI 
+
+Simulasi dibuat dengan mempertimbangkan kecepatan rambat gelombang pada suatu media. Tabel I berisi informasi kecepatan rambat dan konstanta dielektrik media .
+
+Gbr. 5 menunjukkan citra sintetik yang merepresentasikan kecepatan rambat gelombang pembentuk citra pada media miring berbahan concrete, dengan besaran kecepatan gelombang merambat pada media sebesar 80x106 meter/detik. Citra pada Gbr. 5 masih merupakan citra asal yang belum mengalami proses koreksi posisi, seperti yang dijelaskan oleh Gbr. 2. 
+Proses koreksi posisi citra dilakukan dengan proses migrasi dengan beberapa kecepatan migrasi agar dapat terlihat perbedaan pengaruh kecepatan rambat gelombang migrasi terhadap bentuk posisi sebenarnya. 
+Gbr. 6 menunjukkan hasil koreksi posisi dan bentuk citra buatan ketika digunakan kecepatan rambat gelombang migrasi 80x106 meter/detik, di mana kecepatan tersebut sama dengan kecepatan rambat gelombang pada media sintetik concrete. Didapatkan hasil koreksi posisi citra terbaik, citra mengalami koreksi posisi dan kemiringan lapisan sesuai bentuk yang sebenarnya serta tidak terjadi distorsi bentuk pada hasil migrasi.
+
+Gbr. 7 menunjukkan hasil ketika digunakan kecepatan rambat gelombang migrasi 60x106 meter/detik, di mana kecepatan migrasi tersebut lebih kecil daripada kecepatan rambat media sintetik yang dibuat. Didapatkan hasil koreksi posisi yang kurang tepat. Walaupun perubahan kemiringan juga terjadi tetapi panjang kemiringan media lebih panjang dibanding posisi sebenarnya.
+
+Pada Gbr. 8, ketika digunakan kecepatan rambat gelombang migrasi 100x 106 meter/detik, di mana kecepatan migrasi tersebut lebih besar daripada kecepatan media sintetik yang dibuat, didapatkan hasil koreksi posisi yang kurang tepat. Walaupun perubahan kemiringan terjadi tetapi panjang kemiringannya lebih pendek dibandingkan posisi yang sebenarnya. 
+Dari hasil koreksi posisi menggunakan migrasi data dalam domain T-K terlihat bahwa perbedaan kecepatan rambat gelombang migrasi yang digunakan untuk koreksi posisi citra memiliki pengaruh terhadap bentuk posisi citra yang sebenarnya. Secara umum hasil migrasi data menunjukkan hasil yang baik. Hal ini dikarenakan migrasi data pada basis T-K sangat baik dalam mengatasi data-data yang memiliki jenis perlapisan yang miring. 
+Gbr. 9 menunjukkan citra sintetik yang merepresentasikan simulasi kecepatan rambat gelombang pembentuk citra terdifraksi ketika bertemu dengan suatu objek logam, dengan besaran kecepatan gelombang perambat pada objek logam tersebut sebesar 90x106 meter/detik. Citra pada Gbr. 9 masih merupakan citra asal yang belum mengalami proses koreksi bentuk. Proses koreksi bentuk citra dilakukan dengan memigrasinya dengan beberapa kecepatan rambat gelombang migrasi agar dapat terlihat perbedaan pengaruh kecepatan rambat gelombang migrasi terhadap bentuk objek sebenarnya. 
+Gbr. 10 menunjukkan hasil ketika digunakan kecepatan rambat gelombang migrasi 90x106 meter/detik, di mana kecepatan tersebut sama dengan kecepatan rambat gelombang ketika terdifraksi oleh objek sintetik berupa logam di bawah tanah. Didapatkan hasil koreksi bentuk objek citra terbaik. Citra mengalami koreksi bentuk objek sesuai bentuk yang sebenarnya serta tidak terjadi distorsi bentuk pada hasil migrasi.
+
+Pada Gbr. 11, ketika digunakan kecepatan rambat gelombang migrasi 70x106 meter/detik, di mana kecepatan migrasi tersebut lebih kecil daripada kecepatan rambat objek sintetik yang dibuat, didapatkan hasil koreksi bentuk yang kurang tepat. Walaupun koreksi bentuk tetap terjadi tetapi terjadi distorsi yang cukup besar terhadap bentuk objek yang sebenarnya. 
+Pada Gbr. 12, ketika digunakan kecepatan rambat gelombang migrasi 110x106 meter/detik, di mana kecepatan migrasi tersebut lebih besar daripada kecepatan rambat objek sintetik yang dibuat, didapatkan hasil koreksi bentuk yang kurang tepat. Walaupun koreksi bentuk tetap terjadi tetapi terjadi distorsi terhadap bentuk objek yang sebenarnya. 
+Dari hasil koreksi bentuk menggunakan migrasi data dalam domain T-K terlihat bahwa perbedaan kecepatan rambat gelombang migrasi yang digunakan untuk koreksi bentuk citra memiliki pengaruh terhadap bentuk posisi citra yang sebenarnya. 
+VI.KESIMPULAN 
+
+Makalah ini menyediakan pendekatan teknik koreksi posisi dan bentuk citra dengan menggunakan migrasi data pada domain T-K untuk dapat memberi gambaran dan mengenali keberadaan objek yang berada di bawah permukaan tanah dalam dua skenario, yaitu skenario citra sintetik dalam bentuk lapisan tanah miring dan skenario citra sintetik dalam bentuk objek logam yang tertanam di dalam tanah. 
+Berdasarkan hasil yang diperoleh, koreksi citra pada basis T-K memiliki kelebihan pada keakuratan harga amplitudo reflektor untuk reflektor yang memiliki kemiringan yang amat curam. Sedangkan kekurangan dari metode koreksi T-K ini adalah ketidakmampuannya untuk menangani variasi kecepatan lateral yang ada. Proses dari koreksi T-K ini adalah dengan menggunakan metoda beda hingga pada basis waktu (T) dan bilangan gelombang (K). Koreksi T-K menjadi efisien dengan penggunaan metoda beda hingga  akibat sederhananya implementasi dari metode tersebut. 
+Metode ini dapat dikembangkan untuk keperluan pendeteksian objek-objek komersial seperti sumber mineral hidrokarbon maupun objek-objek non komersial seperti forensik, arkeologi, lingkungan, dan lain sebagainya.

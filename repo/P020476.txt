@@ -1,0 +1,88 @@
+﻿Kapasitor adalah peralatan listrik yang dapat menghasilkan daya reaktif yang
+diperlukan oleh beban sehingga aliran daya reaktif di saluran dapat berkurang
+dengan kata lain kapasitor bermanfaat menaikkan faktor daya, memperbaiki profil
+tegangan serta mengurangi rugi-rugi. Penempatan kapasitor dengan kapasitas
+kapasitor yang berdasarkan arus beban dapat memimisasi rugi-rugi dan perbaikan
+profil tegangan.
+Skripsi ini bertujuan menentukankapasitas dan penempatan lokasi banyak
+kapasitor paralel dengan menggunakan perhitungan arus reaktif.Studi kasus ini
+dilakukan pada penyulang Badai GI Teluk Betung dan analisis aliran daya
+menggunakan software MATPOWER 4.2.
+Dari hasil simulasi dapat disimpulkan bahwa dengan pemasangan kapasitor
+paralel pada sistem distribusi di penyulang Badai di GI Teluk Betung dapat
+mengurangi rugi-rugi total daya aktif dan reaktif. Sebelum pemasangan kapasitor
+didapat rugi-rugi daya aktif total sebesar 211,690 kW dan daya reaktif total
+sebesar 190,457 kVAR. Hasil simulasi menunjukkan bahwa penempatan optimal
+banyak kapasitor paralel adalah pada bus 43 dan 2. Setelah penempatan dua
+kapasitor diperoleh rugi-rugi daya aktif sebesar 163,025 kW dengan presentase
+pengurangan 22,99% dan rugi-rugi daya reaktif total sebesar 146,873 kVAR
+dengan presentase sebesar 22,88%.
+Kata kunci : kapasitor paralel, perhitungan arus reaktif, rugi-rugi daya, GI Teluk
+Betung.
+
+I. PENDAHULUAN
+1.1 Latar Belakang
+Pada masa sekarang listrik merupakan salah satu energi yang di perlukan
+bahkan menjadi suatu kebutuhan pokok bagi setiap masyarakat dalam
+kehidupan sehari-hari. Listrik juga merupakan salah satu unsur untuk
+meningkatkan perekonomian dan kesejahteraan masyarakat. Pada era
+modern ini dan dalam kurun waktu kedepan penggunaan listrik akan
+semakin meningkat dikarenakan bertambahnya penduduk dan penggunaan
+elektronik disetiap rumah tangga juga munculnya industri-industri baru.
+Dalam rumah tangga maupun industri, listrik sangat diperlukan untuk
+penerangan, komunikasi, dan lain lain. Berbagai beban listrik jenis induktif
+membutuhkan daya reaktif dari sumber, sehingga bila beban listrik induktif
+ini semakin meningkat, maka rugi-rugi akibat arus reaktif juga semakin
+meningkat dan berkontribusi pada peningkatan rugi-rugi secara keseluruhan.
+Salah satu cara yang dilakukan untuk mengurangi rugi-rugi daya reaktif
+adalah dengan kompensasi daya reaktif. Menempatkan kapasitor paralel
+pada saluran distribusi adalah salah satu hal yang dilakukan untuk
+kompensasi daya reaktif.
+
+Dalam melakukan penempatan kapasitor paralel perlu mempertimbangkan
+rugi-rugi daya aktif total sistem distribusi, sehingga perbaikan tegangan
+pada semua bus dan dapat menghemat energi. Kapasitas kapasitor yang
+akan dipasang dan beban yang terhubung juga mempengaruhi penempatan
+optimal kapasitor pararel. Menempatan kapasitor berdasakan besar arus
+beban pada setiap bus hanya memperbaiki kondisi pada bus tersebut, tetapi
+tidak memaksimalkan pengurangan rugi-rugi dan perbaikan profil tegangan
+dari seluruh sistem.
+Dalam skripsi ini, masalah penempatan banyak kapasitor pararel untuk
+meminimalkan kerugian optimal sistem distribusi diselesaikan dengan
+menggunakan pehitungan arus reaktif. Arus reaktif antara sumber dan bus
+sebagai lokasi penempatan kapasitor dijadikan sebagai acuan untuk
+menentukan kapasitas kapasitor. Studi kasus yang digunakan adalah
+penyulang Badai di Gardu Induk Teluk Betung, Bandar Lampung.
+1.2 Tujuan Penelitian
+Tujuan penelitian ini adalah
+1. Memperbaiki faktor daya untuk menaikkan tegangan dan dapat
+meminimalisir rugi-rugi pada saluran.
+1.3 Rumusan Masalah
+Secara garis besar rumusan permasalahan tujuan penelitian ini adalah :
+1. Adanya beban bersifat induktif yang akan menyerap daya reaktif, yang
+kemudian akan dapat menimbulkan jatuh tegangan pada sisi penerima.
+
+1.4 Batasan Masalah
+Berdasarkan latar belakang maka batasan masalah pada penulisan skripsi ini
+yaitu :
+1. Analisis dilakukan dengan menggunakan perhitungan arus reaktif.
+2. Jaringan yang digunakan adalah penyulang Badai.
+3. Peneitian ini hanya membahas masalah teknis, tidak membahas dari
+segi ekonomis.
+1.5 Manfaat Penelitian
+Dari penelitian ini dapat diperoleh manfaat sebagai berikut :
+1. Memperbaiki faktor daya untuk memperbaiki jatuh tegangan dan rugirugi
+arus beban reaktif dapat diminimalisir.
+1.6 Kerangka Pemikiran
+Dalam kerangka pemikiran skripsi ini penempatan optimal banyak kapasitor
+paralel untuk mengurangi total rugi-rugi daya aktif dan total rugi-rugi energi
+yang minimum pada sistem distribusi daya listrik dapat dilakukan dengan
+pemasangan kapasitor paralel untuk meminimalkan kerugian daya aktif
+yang terjadi pada sistem distribusi daya listrik.
+
+1.7 Hipotesis
+Dengan penempatan kapasitor pada sistem distribusi daya listrik dan dengan
+menggunakan perhitungan arus reaktif, penempatan banyak kapasitor
+tersebut dapat mengurangi rugi-rugi daya aktif secara optimal dan
+mengurangi rugi-rugi energi pada sistem distribusi pada penyulang Badai di
+Gardu Induk Teluk Betung.

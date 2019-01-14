@@ -1,0 +1,37 @@
+Distribusi Generalized Eksponensial (GE) memiliki dua parameter yaitu dan
+yang masing-masing adalah parameter bentuk dan parameter skala. Distribusi
+generalized log-logistik (GLL) memiliki empat parameter yaitu parameter
+( , , , ), dengan adalah parameter lokasi, adalah parameter skala,dan
+( , )adalah parameter bentuk. Distribusi eksponensial memiliki parameter
+sebagai parameter skala. Tujuan dari penelitian ini adalah melakukan pendekatan
+distribusi Generalized Eksponensial dan distribusi Generalized Log-
+Logistik terhadap distribusi eksponensial dengan menyamakan fungsi pembangkit
+momen dan fungsi karakteristik dari distribusi - distribusi tersebut. Berdasarkan
+hasil yang diperoleh baik menurut analitik maupun grafik menggunakan software
+R 3.2.0, distribusi eksponensial dapat didekati oleh distribusi Generalized
+Eksponensial dan distribusi Generalized Log-Logistik dengan melakukan
+reparameterisasi pada kedua distribusi tersebut pada fungsi pembangkit momen
+dan fungsi karakteristiknya.
+Kata kunci : Distribusi eksponensial, Distribusi Generalized Eksponensial,
+Distribusi Generalized Log-Logistik, Fungsi Pembangkit Momen, Fungsi
+Karakteristik.
+
+1
+I. PENDAHALUAN
+1.1 Latar Belakang
+Pemodelan statistik telah banyak digunakan dalam berbagai bidang seperti dalam bidang ilmu pengetahuan, biologi, tekhnologi, kedokteran, tekhnik, manajemen dan berbagai bidang yang mencakup pengetahuan manusia. Model paling dasar dan banyak digunakan adalah distribusi peluang, yang menghubungkan nilai dari variabel-variabel pokok untuk peluang terjadinya variabel tersebut. Untuk mengkaji hubungan suatu distribusi dengan distribusi lainnya berdasarkan fungsi pembangkit momen yang dibentuk, diperlukan konsep-konsep dan teori yang mendukung.
+Konsep-konsep ataupun metode yang dapat digunakan untuk melakukan pendekatan dari dua distribusi ialah dengan menyamakan fungsi pembangkit momennya, fungsi kumulatif distribusi, fungsi karakteristikya dan dengan teori dalil limit pusat. Pada penelitian ini yang akan digunakan adalah metode pendekatan melihat nilai fungsi pembangkit momen dan nilai fungsi karakteristiknya karena memiliki bentuk yang sederhana sehingga lebih efisien dalam mengkaji kasus khusus suatu distribusi.
+Distribusi Generalized eksponensial (GE) pertama kali diperkenalkan oleh Gupta dan Kundu pada tahun 1999. Distribusi ini diambil dari salah satu fungsi
+kepadatan kumulatif yang digunakan pada abad 19 (Gompertz-Verhulst) untuk membandingkan tabel kematian dan menghasilkan laju pertumbuhan penduduk.
+Distribusi GE memiliki parameter a sebagai alat untuk mengestimasi nilai kegagalan awal, dimana semakin besar nilai a maka distribusi tersebut mendekati distribusi normal. Berbeda dengan distribusi eksponensial biasa yang memiliki parameter , dimana semakin besar nilai maka distribusi tersebut berbentuk linier negatif.
+Distribusi eksponensial berperan penting dalam teori antrian dan masalah-masalah keterandalan, contohnya yaitu: jarak antara waktu menunggu sampai tiba difasilitas pelayanan seperti pada bank, loket tiket kereta api, rambu lalu lintas, dan sebagainya, dan lamanya waktu sampai rusaknya suku cadang mesin, lampu dan lain-lain.
+Distribusi Generalized Log Logistic (GLL) merupakan salah satu model distribusi umum yang kurang populer dibandingkan dengan distribusi lainnya. Namun, tidak sedikit peneliti yang menggunakan distribusi GLL dalam menganalisis data kelangsungan hidup. Distribusi GLL dapat digunakan sebagai dasar dari model waktu kegagalan dipercepat dengan memungkinkan a berbeda antara kelompok-kelompok. Distribusi GLL cukup potensial untuk dikembangkan, baik dalam teoritis maupun aplikasi.
+Karakterisasi distribusi juga dapat dilakukan dengan melihat hubungan dari distribusi yang bersangkutan dengan distribusi lain yang sudah dikenal luas. Ojo dan Olapade (2003) telah membuktikan teorema hubungan antara distribusi GLL
+dengan distribusi t dan F. Distribusi GLL merupakan salah satu model perumuman yang memiliki potensi yang baik untuk menyesuaikan dengan data kelangsungan hidup. Distribusi GLL merupakan bentuk perumuman dari distribusi log logistik dengan penambahan dua parameter baru Sehingga teorema hubungan antara distribusi GLL dengan distribusi lainnya yang sudah terkenal dapat dikaji lebih lanjut.
+Dari latar belakang diatas, peneliti ingin mengkaji hubungan antara distribusi GE dan distribusi GLL terhadap distribusi eksponensial dengan metode pendekatan pada nilai fungsi pembangkit momen dan fungsi karakteristiknya.
+1.2 Batasan Masalah
+Pada penelitian ini, permasalahan dibatasi pada pengkajian hubungan antara distribusi GE dan distribusi GLL terhadap distribusi eksponensial dengan metode pendekatan pada nilai fungsi pembangkit momen dan fungsi karakteristiknya.
+1.3 Tujuan Penelitian
+Tujuan dari penelitian ini adalah melakukan pendekatan distribusi GE dan distribusi GLL terhadap distribusi eksponensial dengan menyamakan fungsi pembangkit momen dan fungsi karakteristik dari distribusi - distribusi tersebut.
+1.4 Manfaat Penelitian
+Manfaat dari penelitian ini adalah dapat memahami bahwa suatu distribusi dapat didekati dengan distribusi lainnya berdasarkan fungsi pembangkit momen dan fungsi karakteristik yang dibentuk oleh distribusi distribusi tersebut.

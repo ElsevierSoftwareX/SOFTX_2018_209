@@ -1,0 +1,97 @@
+﻿
+
+ Aplikasi Pengumpulan Data Survei 
+Memanfaatkan SMS Gateway
+
+
+ Intisari— Aplikasi untuk mengumpulkan data survei yang memanfaatkan teknologi SMS ini digunakan untuk memudahkan proses survei dan pengolahan datanya. Penyurvei cukup mengirimkan data via SMS dan hasilnya langsung diolah di server dan ditampilkan di komputer berbasis web. Pembuatan aplikasi ini dilatarbelakangi keadaan survei yang selalu dilakukan secara manual menggunakan kertas dan lebih berisiko dalam keabsahan data dan pengolahannya. Operator harus memasukkan banyak data, mengolah, dan menampilkan hasilnya. Aplikasi ini dibuat berbasis web dengan antarmuka yang menarik dan memudahkan pengguna dalam mengoperasikan sistem. Selain itu, aplikasi ini juga dibuat secara generik sehingga bisa diimplementasikan untuk kebutuhan survei yang lebih beragam dan tidak hanya spesifik di satu kasus. Aplikasi pengumpulan data survei ini dibuat menggunakan bahasa pemrograman PHP dengan framework CodeIgniter, javascript, serta basis data MySQL untuk penyimpanan data. Pembuatan aplikasi ini dapat memudahkan pengguna dalam melakukan survei, mengolah data serta mengatasi berbagai macam masalah yang muncul ketika menggunakan proses survei yang manual dengan kertas. 
+Kata Kunci— aplikasi survei, CodeIgniter, PHP, MySQL, SMS gateway. 
+I. PENDAHULUAN 
+
+Teknologi yang terdapat pada ponsel saat ini berkembang dengan sangat pesat. Komunikasi saat ini dapat dilakukan lewat bluetooth, Wi-Fi, SMS, video call, bahkan sekarang 
+ semua data disimpan dan diakses lewat cloud. Dari semua teknologi komunikasi yang ada di dalam ponsel, masih ada teknologi lama yang layak digunakan seperti SMS. 
+SMS saat ini masih banyak digunakan sebagai media broadcast karena harganya yang semakin murah. SMS sebagai salah satu media komunikasi telah populer dan penggunaannya telah dimanfaatkan untuk berbagai macam aplikasi, seperti pencatatan kWh-meter, pendataan nilai tenaga listrik, dan alarm pengamanan kendaraan jarak jauh . SMS yang nampaknya sederhana karena hanya berbasiskan teks ternyata mempunyai berbagai macam manfaat yang dapat memberikan kemudahan dan membantu berbagai pekerjaan manusia. Teknologi SMS pada ponsel bisa digabungkan dengan sebuah aplikasi yang memanfaatkan basis data, sehingga data-data yang dikirimkan dari SMS dapat direkam dalam sistem dan diolah, serta hasilnya ditampilkan sebagai sebuah informasi yang lebih bermanfaat. 
+Aplikasi ini dirancang dan dibuat sesuai dengan metode pada perancangan perangkat lunak. Siklus hidup pengembangan sistem dimulai dari tahapan analisis sistem, dilanjutkan dengan desain sistem, implementasi sistem, dan terakhir pemeliharaan sistem . 
+
+Basis data digunakan sebagai tempat penyimpanan data yang direpresentasikan dalam tabel dan rekaman. Basis data merupakan kumpulan dari data yang berhubungan dan saling menunjuk, dirancang, dan dibuat untuk memperkecil pengulangan dan mengurangi pengubahan data . 
+Operasi dalam basis data dilakukan secara lebih mudah lewat sistem manajemen basis data. Sistem manajemen basis data adalah perangkat lunak yang didesain untuk menjalankan tugas lebih mudah. Dengan menyimpan data pada sistem manajemen basis data dibandingkan dengan sekumpulan file sistem operasi, kita bisa menggunakan fitur dari sistem manajemen basis data untuk mengatur data secara handal dan efisien .
+
+
+ SMS merupakan salah satu fitur GSM yang dikembangkan dan distandarisasi oleh ETSI (European Telecommunications Standards Institute). Pada saat mengirim pesan SMS dari ponsel, pesan SMS tersebut tidak langsung dikirim ke ponsel tujuan akan tetapi dikirim terlebih dahulu ke SMS Center (SMSC) dengan prinsip untuk mengirim atau menerima pesan singkat.
+
+Dengan adanya suatu server SMS (SMS Centre/SMSC), pengguna dapat mengetahui status dari SMS yang dikirim, apakah telah sampai atau gagal diterima oleh ponsel tujuan. Apabila ponsel tujuan dalam keadaan aktif dan menerima SMS yang dikirim, maka ia akan mengirim kembali pesan konfirmasi ke SMSC yang menyatakan bahwa SMS telah diterima, kemudian SMSC mengirimkan kembali status tersebut kepada pengirim. Akan tetapi, jika ponsel tujuan dalam keadaan tidak aktif atau di luar jangkauan, SMS yang dikirimkan akan disimpan pada SMSC sampai periode validitas terpenuhi . Mekanisme kerja SMS ditunjukkan oleh Gbr. 1. 
+II. PERANCANGAN SISTEM 
+A. Perancangan Sistem 
+
+Aplikasi pengumpulan data survei yang akan dirancang memanfatkan teknologi SMS Gateway yang digunakan untuk menerima dan mengirimkan SMS dari ponsel dan ke ponsel. SMS yang diterima dari ponsel akan diteruskan untuk diolah datanya lalu hasilnya ditampilkan di komputer. Distribusi data SMS ditunjukkan dalam Gbr. 2.
+
+Pada Gbr. 2 ditunukkan, pengguna mengirimkan data survei dalam format SMS ke server, kemudian server menerima dan mengolah datanya serta mengirimkan kembali informasi kepada pengguna sekaligus menampilkannya di layar komputer sehingga administrator mampu memonitor data dengan mudah dan cepat. 
+Analisis kebutuhan dalam pengembangan sistem informasi pengolahan data survei berbasis SMS adalah sebagai berikut. 
+1. Pengelolaan data-data pengguna, klien, nomor ponsel, referensi, parameter, dan tabel yang digunakan untuk menyimpan data survei dari masing-masing klien. 
+2. Pengelolaan dan pemonitoran data SMS untuk tiap-tiap klien beserta petanya. 
+3. Menampilkan data SMS yang telah diolah dalam bentuk grafik sehingga mampu didapat statistik atau gambaran secara numerik. 
+B. Perancangan Kebutuhan Perangkat Keras dan Lunak 
+
+Perangkat keras dan perangkat lunak yang digunakan untuk membangun aplikasi pengolahan data survei adalah sebagai berikut.
+
+
+1. Satu unit komputer dengan spesifikasi minimal setara dengan Intel Pentium III 800 MHz. 
+2. Ponsel Sony Ericsson W308i sebagai modem. 
+3. Gammu, engine SMS Gateway versi 1.27.90 untuk sistem operasi Windows XP. 
+4. Apache webserver, PHP5.0, serta MySQL 5.0 untuk basis data. 
+5. PHP framework CodeIgniter 1.7. 
+C. Perancangan Proses 
+Perancangan proses menggambarkan aliran data dalam sistem yang akan digunakan. Gambaran sistem dan aliran data dibuat menggunakan Diagram Alir Data (DAD). Dengan menggunakan DAD, dapat digambarkan sistem dari level yang paling rendah (dekomposisi). DAD ini dibuat dari level yang paling global yaitu diagram konteks, kemudian baru diturunkan ke bentuk yang lebih detail. 
+1) Diagram Konteks Level 0: Hasil perancangan diagram konteks perancangan sistem informasi pengolahan data survei ini ditunjukkan pada Gbr. 3. Diagram ini menggunakan dua entitas luar yaitu pengguna dan administrator, serta satu proses yang mencakup keseluruhan dari sistem. 
+
+
+Diagram pada Gbr. 3 menunjukkan bahwa sistem berinteraksi dengan dua entitas luar yaitu pengguna dan administrator. Entitas pengguna merupakan penyurvei atau pengguna yang mengirimkan data-data survei via SMS. Sedangkan entitas administrator merupakan entitas yang mengolah sistem, menambahkan data, memperbaharui data, atau menghapus data yang dikirimkan oleh pengguna. Hasil olahan data SMS ditampilkan dalam bentuk tabel dan grafik yang memudahkan pemonitoran dan pengecekan informasi. Pada tahapan selanjutnya, proses yang lebih detail akan dijabarkan pada DAD level 1. 
+2) Diagram Alir Data Level 1: Pada DAD level ini digambarkan tiga proses, seperti yang ditunjukkan oleh Gbr. 4, dengan dua entitas yang saling berinteraksi. Ketiga proses tersebut adalah sebagai berikut. 
+
+
+
+1. Login, merupakan proses pada saat administrator akan masuk ke dalam sistem. 
+2. Olah Data, berisi seluruh proses pengolahan data (menambah, mengubah, dan menghapus). Proses ini menyimpan data ke delapan tabel, yaitu users, client, pbk, list_referensi, params, table_sms, inbox, dan outbox. 
+3. Kirim/Terima SMS, dilakukan oleh pengguna, yaitu proses mengirimkan SMS dan mendapatkan kembali informasi dari data yang telah dikirimkan. Proses ini menyimpan data ke tabel inbox dan outbox. 3) Diagram Alir Data Level 1 Proses Olah Data: DAD level 1 proses olah data merupakan penjabaran dari proses olah data yang ditunjukkan oleh Gbr. 4. Proses olah data ini meliputi pengolahan data klien, pengguna, ponsel, referensi, parameter, dan tabel. DAD level 1 proses olah data ini ditunjukkan oleh Gbr. 5. Administrator sebagai pemegang kendali dapat melaksanakan keseluruhan proses olah data yang ada, yaitu menambah, mengubah, dan menghapus data yang ada di enam modul di atas. 
+
+
+
+
+D. Struktur Tabel 
+Aplikasi ini dibuat dengan struktur tabel sebagai berikut. 
+1) Tabel client: Tabel ini digunakan untuk menyimpan hasil operasi data klien. Tabel ini merupakan tabel utama karena beberapa tabel menggunakan referensi dari tabel client ini. 
+2) Tabel users: Tabel ini digunakan untuk menyimpan hasil operasi data pengguna. Data-data pengguna yang digunakan untuk login ke dalam sistem disimpan dalam tabel ini. 
+3) Tabel phonebook: Tabel ini digunakan untuk menyimpan data nomor ponsel. 
+
+4) Tabel list_referensi: Tabel ini digunakan untuk menyimpan data referensi yang digunakan oleh tabel referensi yang lain maupun tabel parameter. 
+5) Tabel parameter: Tabel ini digunakan untuk menyimpan data parameter yang digunakan beserta relasinya dengan referensi. 
+6) Tabel data_sms: Tabel ini digunakan untuk menyimpan data nama tabel yang digunakan untuk keperluan survei beserta format SMS untuk tiap klien. 
+7) Tabel jenis_survei: Tabel ini merupakan tabel referensi jenis survei yang digunakan pada tabel client. 
+8) Tabel ref_(nama referensi): Tabel ini merupakan tabel yang digunakan untuk menyimpan data-data referensi yang digunakan oleh tabel parameter. Tabel ini dibuat secara dinamis pada saat menambahkan jenis referensi. 
+
+
+
+4) Tabel list_referensi: Tabel ini digunakan untuk menyimpan data referensi yang digunakan oleh tabel referensi yang lain maupun tabel parameter. 
+5) Tabel parameter: Tabel ini digunakan untuk menyimpan data parameter yang digunakan beserta relasinya dengan referensi. 
+6) Tabel data_sms: Tabel ini digunakan untuk menyimpan data nama tabel yang digunakan untuk keperluan survei beserta format SMS untuk tiap klien. 
+7) Tabel jenis_survei: Tabel ini merupakan tabel referensi jenis survei yang digunakan pada tabel client. 
+8) Tabel ref_(nama referensi): Tabel ini merupakan tabel yang digunakan untuk menyimpan data-data referensi yang digunakan oleh tabel parameter. Tabel ini dibuat secara dinamis pada saat menambahkan jenis referensi. 
+
+
+
+Dari Tabel I diketahui bahwa jumlah waktu yang dicatat mulai dari SMS masuk sampai mengirimkan balasan bersifat linear, artinya semakin banyak data SMS yang masuk maka waktu yang dibutuhkan juga semakin banyak. 
+Dari Tabel I juga terlihat waktu yang digunakan untuk memproses SMS yang masuk. Dalam kasus nyata yang melibatkan sejumlah besar data, sangat mungkin terjadi berbagai macam masalah dalam pemrosesan SMS terutama pada saat menerima SMS, mengolah SMS, dan menyimpannya ke dalam tabel sampai dengan mengirimkan balasan SMS. Masalah bisa berupa overload beban kerja modem karena terlalu banyak data yang masuk dan dikirimkan sehingga sangat mungkin terjadi kondisi hang pada modem yang mengakibatkan proses penerimaan dan pengiriman SMS terhenti. Oleh karena itu, untuk mengantisipasi hal tersebut pada saat pelaksanaan survei bisa digunakan GSM modem daripada ponsel yang difungsikan sebagai modem karena kapasitas dan kemampuan pemrosesan SMS yang lebih andal. Selain itu, juga bisa dilakukan pembagian beban kerja ke dalam beberapa modem sehingga bisa memperkecil terjadinya overload pada tiap modem. 
+B. Pengujian Aplikasi 
+
+Berikut hasil implementasi perancangan aplikasi pengolah data survei yang telah dibuat menggunakan bahasa pemrograman PHP. Total ada sembilan fitur yang tersedia dalam aplikasi ini. Tampilan halaman Manajemen Klien dapat dilihat pada Gbr. 6. 
+Tampilan halaman Manajemen Tabel dapat dilihat pada Gbr. 8. Manajemen tabel berisi format SMS yang ditentukan untuk melakukan survei.
+
+Gbr. 6 Halaman Manajemen Klien. 
+Tampilan halaman Manajemen Parameter dapat dilihat pada Gbr. 7. 
+Gbr. 7 Halaman Manajemen Parameter. 
+
+
+Tampilan halaman Manajemen Data SMS dapat dilihat pada Gbr. 9. Manajemen SMS berisi daftar SMS yang masuk. SMS yang masuk akan dipilah sesuai format dan disesuaikan dengan field di dalam tabel. Tampilan halaman Manejemen Laporan dapat dilihat pada Gbr. 10. Laporan ditampilkan dalam bentuk grafik supaya lebih mudah dilihat. Grafik juga dibuat dengan dua parameter sehingga data dapat ditampilkan dalam beberapa kombinasi. Sedangkan tampilan halaman Manajemen Referensi dapat dilihat pada Gbr. 11. 
+IV.KESIMPULAN 
+
+Dari tabel pengujian diketahui bahwa waktu yang digunakan untuk memproses SMS relatif singkat dengan hasil statistik yang langsung bisa terlihat tanpa melewati pengolahan secara manual. Aplikasi ini dibuat secara generik sebagai engine sehingga implementasinya tidak hanya terbatas pada satu kasus survei saja tetapi dapat digunakan untuk berbagai macam kasus dan kebutuhan.

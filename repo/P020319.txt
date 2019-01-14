@@ -1,0 +1,48 @@
+﻿ABSTRAK 
+Dinas Perindustrian dan Perdagangan (Dinperindag) Jawa Tengah merupakan unsur pelaksana otonomi daerah di bidang perindustrian dan perdagangan yang berkedudukan di bawah dan bertanggung jawab kepada Gubernur melalui Sekretaris Daerah (SEKDA). Dinperindag mempunyai tugas pokok melaksanakan urusan pemerintahan daerah bidang perindustrian dan perdagangan berdasarkan asas otonomi daerah dan tugas pembantuan. Media publikasi dan interaksi yang mudah diakses dibutuhkan untuk mendekatkan hubungan Dinperindag dengan masyarakat, khususnya masyarakat niaga. Aplikasi e-Government Berbasis Web Model Government-to-Citizen (G2C) pada Dinas Perindustrian dan Perdagangan Provinsi Jawa Tengah yang diberi nama GovINDAG dikembangkan dengan bahasa pemrograman HTML, PHP, CSS, dan JavaScript. Aplikasi ini menyajikan data perdagangan dan perindustrian, serta menyediakan fasilitas interaksi bagi masyarakat pengguna aplikasi. Aplikasi ini dapat digunakan sebagai media publikasi dan interaksi yang mudah diakses untuk memperbaiki mutu pelayanan pada masyarakat. 
+Kata kunci: e-Government, Aplikasi Berbasis Web, GovINDAG
+
+BAB I PENDAHULUAN 
+I.1. Latar Belakang 
+
+Dinas Perindustrian dan Perdagangan (Dinperindag) Jawa Tengah merupakan unsur pelaksana otonomi daerah di bidang perindustrian dan perdagangan yang berkedudukan di bawah dan bertanggung jawab kepada Gubernur melalui Sekretaris Daerah (SEKDA). Dinperindag mempunyai tugas pokok melaksanakan urusan pemerintahan daerah bidang perindustrian dan perdagangan berdasarkan asas otonomi daerah dan tugas pembantuan. (Pemerintah Provinsi Jawa Tengah, 2008) Dalam melaksanakan tugas dan fungsinya, diperlukan berbagai kanal akses yang dapat mempermudah interaksi antara pihak Dinperindag dengan masyarakat, serta dibutuhkan media publikasi yang mudah diakses. Semakin meningkatnya taraf kehidupan masyarakat menuntut kemudahan-kemudahan dalam melakukan berbagai interaksi. Dengan didukung oleh kemajuan teknologi informasi yang sedemikian pesat serta era globalisasi yang datang lebih cepat, lahirlah konsep e-Government. Internet merupakan bentuk teknologi informasi yang paling umum digunakan dalam e-Government, tapi bukan satu-satunya. E-Government adalah suatu mekanisme interaksi modern antara pemerintah dengan masyarakat dan kalangan lain yang berkepentingan yang melibatkan penggunaan teknologi informasi (terutama Internet) dengan tujuan memperbaiki mutu pelayanan yang telah berjalan. Teknologi informasi ini dapat melayani bermacam-macam kebutuhan atau tujuan, misalnya pengiriman layanan yang lebih baik dari pemerintah kepada warga, interaksi yang meningkat dengan kalangan bisnis dan industri, pemberian kuasa kepada masyarakat atas akses informasi, atau pengelolaan pemerintahan yang lebih efisien. 
+
+Sebelum bergabung menjadi Dinas Perindustrian dan Perdagangan Jawa Tengah pada bulan Juli 2008, Dinas Perdagangan pernah memiliki beberapa halaman web di situs resmi pemerintah Jawa Tengah (www.jawatengah.go.id, tanggal akses terakhir 26 Januari 2010). Akan tetapi, info yang ditampilkan masih terbatas, yaitu berupa informasi mengenai profil Dinas Perdagangan, serta data perdagangan dan perindustrian yang tidak ter-update. Kini Dinperindag memiliki situs resmi yang berada dalam situs Jawa Tengah yang baru (http://dinperindag.jatengprov.go.id). Akan tetapi, informasi yang terdapat pada halaman web Dinas Perdagangan yang lama justru tidak ditampilkan pada situs Dinperindag yang baru. Dengan pengembangan e-Government, diharapkan dapat menunjang kinerja Dinperindag dalam hal pelayanan terhadap masyarakat. 
+
+I.2. Rumusan Masalah 
+Dari latar belakang tersebut di atas maka masalah yang dapat dirumuskan adalah e-Government model Government-to-Citizen seperti apa yang dibutuhkan oleh Dinperindag Jawa Tengah untuk memperluas penyebaran informasi kepada masyarakat serta fasilitas apa yang perlu ada di dalamnya agar informasi yang ditampilkan selalu up-to-date. 
+
+I.3. Tujuan Dan Manfaat 
+Tujuan pengembangan situs e-Government dalam tugas akhir ini adalah menghasilkan situs e-Government model Government-to-Citizen yang mudah di-update guna mendukung pelayanan publik dengan kualitas yang memuaskan dan dapat diakses kapan saja dengan mudah dan cepat untuk memperluas penyebaran informasi dan bersifat interaktif. Manfaat yang ingin dicapai dalam penulisan tugas akhir ini yaitu: 
+1) Bagi penulis 
+
+Penulis dapat menerapkan teknologi informasi untuk memberikan kemudahan pada masyarakat dengan mengembangkan sebuah situs e-Government yang dapat dikembangkan lagi oleh pihak Dinperindag Jawa Tengah di kemudian hari. 
+2) Bagi Dinperindag Jawa Tengah 
+
+Dinperindag Jawa Tengah memiliki media publikasi yang mudah diakses dan di-update sebagai bentuk penerapan e-Government dalam rangka mendekatkan hubungan pemerintah dan masyarakat dengan penyebaran informasi seluas-luasnya. 
+3) Bagi masyarakat 
+
+Masyarakat Jawa Tengah dapat memperoleh lebih banyak informasi yang berhubungan dengan perindustrian dan perdagangan Jawa Tengah dengan lebih cepat dan mudah. 
+
+I.4. Ruang Lingkup 
+Ruang lingkup aplikasi yang dibangun meliputi: 
+1) E-Government yang dibangun memanfaatkan teknologi Internet berbasis web dengan model G2C (Government-to-Citizen) yang mencakup penyebaran informasi kepada masyarakat dan bersifat interaktif. 
+2) Fungsi yang disediakan dalam situs ini adalah fungsi publikasi dan fungsi interaksi. Fungsi publikasi berisi informasi dan data umum Dinperindag. Fungsi interaksi berupa search engine dan kanal diskusi tidak langsung yaitu kolom kritik, saran, dan pertanyaan. 
+
+I.5. Sistematika Penulisan 
+Sistematika penulisan yang digunakan dalam tugas akhir ini terbagi dalam beberapa pokok bahasan, yaitu : 
+
+BAB I PENDAHULUAN 
+Berisi tentang latar belakang masalah, rumusan masalah, tujuan dan manfaat penulisan tugas akhir, ruang lingkup masalah, dan sistematika penulisan. 
+
+BAB II LANDASAN TEORI 
+Berisi penjelasan singkat yang berhubungan dengan topik dan konsep yang mendukung pengembangan sistem. 
+
+BAB III ANALISIS DAN PERANCANGAN 
+Membahas proses pengembangan e-Government Berbasis Web Model Government-to-Citizen (G2C) pada Dinas Perindustrian dan Perdagangan Jawa Tengah dan hasil yang didapatkan pada tahap analisis dan perancangan. 
+
+BAB IV IMPLEMENTASI DAN PENGUJIAN 
+
+Membahas proses pengembangan e-Government Berbasis Web Model Government-to-Citizen (G2C) pada Dinas Perindustrian dan Perdagangan Jawa Tengah dan hasil yang didapat pada tahap implementasi. Bab ini juga berisi rincian pengujian e-Government Berbasis Web Model Government-to-Citizen (G2C) pada Dinas Perindustrian dan Perdagangan Jawa Tengah yang dibangun dengan Acceptance Test. 4 
+BAB V PENUTUP 
+Berisi kesimpulan yang diambil berkaitan dengan sistem yang dikembangkan dan saran-saran untuk pengembangan sistem lebih lanjut.

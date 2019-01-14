@@ -1,0 +1,202 @@
+﻿PAJAK DAERAH DAN PENGARUHNYA TERHADAP PDRB
+DI PROPINSI KALIMANTAN TIMUR
+
+
+Abstrak.
+Penelitian ini bertujuan untuk melihat pengaruh pajak daerah, retribusi daerah, belanja
+modal dan tingkat partisipasi angkatan kerja terhadap produk domestik regional
+bruto (PDRB) di Kabupaten/Kota Propinsi Kalimantan Timur selama periode 2004-
+2013. Penelitian ini menggunakan data panel dengan pemilihan model terbaik
+adalah Fixed Effect Model (FEM). Hasil penelitian ini menunjukan bahwa variabel
+pajak daerah dan retribusi daerah berpengaruh signifikan dan memiliki hubungan
+yang positif secara statistik terhadap produk domestik regional bruto (PDRB).
+Sedangkan belanja modal tidak memiliki pengaruh yang signifikan terhadap
+produk domestik regional bruto (PDRB). Untuk variabel tingkat partisipasi angkatan
+kerja (TPAK) berpengaruh signifikan namun memiliki hubungan yang negatif
+terhadap produk domestik regional bruto (PDRB). Berdasarkan hasil penelitian
+diperoleh nilai koefisien determinasi
+sebesar 98.42% artinya variabel pajak daerah,
+retribusi daerah, belanja modal dan TPAK dalam penelitian ini dapat menjelaskan
+variabel dependen yaitu produk domestik regional bruto (PDRB).
+Kata Kunci: Pajak Daerah; PDRB; Data Panel; Model Efek Tetap
+
+
+
+PENDAHULUAN
+Pertumbuhan ekonomi merupakan suatu proses dimana terdapat peningkatan kemampuan dari perekonomian suatu negara dalam memproduksi output yaitu barang dan jasa yang diwujudkan dalam bentuk peningkatan pendapatan nasional. Pertumbuhan ekonomi merupakan salah satu indikator yang penting dalam melakukan analisis tentang pembangunan ekonomi yang terjadi pada suatu negara atau suatu daerah dalam periode waktu tertentu sehingga tercapai kesejahteraan masyarakat.
+Pertumbuhan ekonomi suatu daerah biasanya ditunjukkan dengan meningkatkan produksi barang dan jasa yang diukur dengan Produk Domestik Regional Bruto (PDRB). PDRB merupakan jumlah nilai tambah yang dihasilkan oleh seluruh unit usaha atau sektor-sektor ekonomi dalam suatu wilayah dan periode waktu tertentu. Oleh karena itu pertumbuhan ekonomi disuatu wilayah itu sama dengan pertumbuhan PDRB di wilayah tersebut (BPS, 2011). PDRB yang dijadikan sebagai tolak ukur pertumbuhan ekonomi di dalam sistem pemerintahan desentralisasi ternyata belum mampu dihasilkan dengan baik oleh daerah-daerah di Indonesia meskipun sistem Pemerintahan desentralisasi sudah berjalan cukup lama, salah satunya di Propinsi Kalimantan Timur.
+Propinsi Kalimantan Timur memiliki peranan penting dalam perekonomian nasional terutama terkait dengan sektor industri minyak dan gas bumi. Meskipun propinsi Kalimanan Timur merupakan propinsi yang memiliki sumber daya alam yang melimpah. Namun, potensi-potensi ini belum dapat dioptimalkan secara baik. Hal ini dapat dilihat PDRB yang tinggi namun laju pertumbuhan ekonominya memiliki nilai paling kecil diantara propinsi lainnya di Pulau Kalimantan. Secara umum PDRB Kalimantan Timur selalu meningkat setiap tahunnya dan PDRB Kalimantan Timur memiliki PDRB yang terbilang sangat besar jika dibandingkan dengan propinsi- propinsi lain yang terdapat di pulau Kalimantan. Namun, besarnya nilai PDRB ini justru laju pertumbuhan PDRBnya menunjukan angka yang masih tergolong kecil dan jauh tertinggal jika dibandingkan dengan propinsi lain di pulau Kalimantan seperti Kalimantan Barat, Kalimantan Tengah dan Kalimantan Selatan.
+Hal ini dikarenakan perekonomian Kalimantan Timur masih ditopang oleh produksi sektor migas dan batubara, ketika kedua sektor tersebut melambat, perekonomian Kalimantan Timur hanya tumbuh 1.59% sepanjang tahun 2013. Perlambatan yang terjadi dimulai pada tahun 2011 dan tiga tahun berturut- turut setelahnya, bahkan mengantarkan Kalimantan Timur sebagai daerah dengan pertumbuhan ekonomi terendah se-Indonesia. Dengan kondisi seperti itu diperlukan keseriusan pemerintah daerah Kalimantan Timur dengan lebih menggali dan memanfaatkan sumber- sumber potensial untuk meningkatkan output berupa barang dan jasa dan kondisi keuangan daerahnya khususnya nilai PDRB dan pertumbuhan ekonomi pada Kabupaten/Kota Propinsi Kalimantan Timur.
+Tabel 1. PDRB Atas Dasar Harga Konstan Kabupaten/Kota
+Propinsi Kalimantan Timur Tahun 2004-2013 (dalam jutaan)
+Kabupaten/Kota
+2010
+2011
+2012
+2013
+Rata-rata 2004-2013
+Rata-rata 2004-2013
+(%)
+Paser
+5,670,576
+6,285,681
+6,827,145
+7,281,880
+4,921,145.0
+11.82
+Kutai Kartanegara
+29,169,411
+29,426,708
+30,428,221
+30,653,253
+28,389,348.0
+1.40
+Kutai Timur
+16,978,570
+18,919,768
+21,319,122
+22,050,861
+15,855,911.3
+11.85
+Berau
+4,602,169
+4,967,314
+5,364,332
+5,761,194
+3,987,252.5
+6.61
+PPU
+1,984,292
+2,216,080
+2,296,179
+2,382,347
+1,902,050.8
+4.72
+Balikpapan
+16,205,278
+17,410,846
+17,846,455
+18,779,454
+15,232,902.4
+5.04
+Samarinda
+11,754,186
+13,373,036
+13,721,721
+14,801,018
+11,312,346.9
+6.31
+Bontang
+22,957,709
+21,037,449
+19,519,453
+18,276,790
+23,299,948.4
+-3.78
+Sumber: BPS Propinsi Kalimantan Timur (diolah)
+Tabel 1 nilai PRDB pada masing-masing kabupaten/kota setiap tahunnya meningkat, kecuali Kota Bontang yang nilai PDRB menurun dari tahun 2010-2013, walau begitu Kota Bontang menduduki daerah yang memiliki rata-rata PDRB dari tahun 2004-2013 kedua tertinggi setelah Kabupaten Kutai Kartanegara yaitu sebesar Rp. 23,299,948,400,000. Namun, tingginya angka PDRB ini tidak diikuti dengan laju pertumbuhan ekonominya yang menduduki pringkat terbawah diantara kabupaten/kota lainnya yaitu sebesar -3,75%. Hal ini disebabkan oleh terus menurunnya produksi gas alam cair dari PT. Badak NGL. Kabupaten yang memiliki rata-rata nilai PDRB tertinggi yaitu Kutai Kartanegara sebesar Rp. 28,389,348,000,000 dengan laju pertumbuhan yaitu sebesar 1.40%. Daerah yang memiliki nilai PDRB terendah terdapat di Kabupaten Penajam Paser Utara sebesar Rp. 1,902,050,800,000 dengan rata- rata laju pertumbuhannya sebesar 4.72%. Hal ini menunjukan bahwa Penajam Paser Utara walaupun memiliki nilai PDRBnya terendah dibanding daerah lain namun pertumbuhan ekonominya setiap tahun mengalami peningkatan yang cukup baik.
+Fluktuasinya pertumbuhan ekonomi di masing-masing Kabupaten/Kota di propinsi Kalimantan Timur ini menunjukkan kinerja perekonomian yang cukup baik tetapi masih kurang optimal pemanfaatan dalam pengelolaan penerimaan keuangan daerah. Hal ini menunjukan bahwa era desentralisasi fiskal dimana daerah diberi wewenang dalam mengurus keuangan daerahnya ternyata banyak kabupaten/kota yang belum mampu menunjukan perubahan yang signifikan terhadap output barang maupun jasa yang dihasilkan dan pertumbuhan ekonominya. Pajak merupakan salah satu sumber pendapatan pemerintah. Artinya penerimaan pajak daerah digunakan pemerintah untuk membangun sarana dan prasarana sektor publik yang dapat dimanfaatkan oleh masyarakat dalam menunjang kegiatan ekonomi masyarakat yang dapat meningkatkan pertumbuhan ekonomi.
+Tabel 2. Realisasi Penerimaan Pajak Daerah Kabupaten/Kota
+Propinsi Kalimantan Timur Tahun 2004-2013
+Kabupaten/Kota
+2009
+2010
+2011
+2012
+2013
+Paser
+1,959,508
+3,573,050
+14,755,527
+14,683,832
+11,916,000
+Kutai
+Kartanegara
+13,524,254
+9,793,296
+13,970,525
+36,821,737
+26,250,000
+Kutai Timur
+7,679,497
+4,772,008
+22,904,548
+26,395,606
+23,420,000
+Berau
+8,456,651
+4,725,512
+18,941,210
+22,941,240
+22,086,500
+PPU
+511,758
+775,449
+839,183
+3,127,733
+2,548,631
+Balikpapan
+76,186,347
+88,442,340
+170,370,071
+259,940,182
+245,025,371
+Samarinda
+49,492,790
+59,240,448
+109,428,926
+159,827,941
+160,351,629
+Bontang
+16,000,408
+15,126,014
+27,908,405
+36,145,579
+37,459,000
+Sumber: BPS Kalimantan Timur
+Tabel 2 menunjukan realisasi penerimaan pajak daerah yang diperoleh masing-masing kabupaten/kota selama pelaksanaan desentralisasi fiskal di propinsi Kaliamantan Timur mengalami fluktuasi, namun cenderung menurun. Pada tahun 2010 di kabupaten Kutai Kartanegara penerimaan pajak menurun sebesar Rp.9,793,296,000 dibanding tahun 2009 sebesar Rp. 13,524,254,000 atau terjadi penurunan sebesar -27.59% dan pada tahun yang sama terjadi penerimaan pajak yang menurun di Kabupaten Berau dari Rp. 8,456,651,000 tahun 2009 menjadi Rp. 4,725,512,000 pada tahun 2010. Pemungutan pajak daerah rata-rata terbesar terdapat di Kota Balikpapan sebesar Rp 105,619,656,010 dan disusul oleh Kota Samarinda dengan nilai rata-rata penerimaan pajak daerah sebesar Rp. 68,824,438,100 dikarenakan pada tahun 2012 kedua kota tersebut sudah memberlakukan pungutan pajak bumi dan bangunan perkotaan dan pedesaan (PBB-P2) sehingga menambah pendapatan penerimaan pajak daerah kedua kota tersebut.
+Berdasarkan data yang ada berbanding terbalik dengan teori Solow dan Swan dimana penerimaan pajak daerah dibeberapa kabupaten/kota Propinsi seperti Kabupaten Paser, Kutai Kartanegara, Kutai Timur, Berau mengalami penurunan pada tahun 2009 dan 2013 diikuti Penajam Paser Utara dan Kota Balikpapan mengalami penurunan pada tahun 2013. Berdasarkan teori dimana pajak daerah ini masuk kedalam faktor-faktor produksi khususnya akumulasi modal. Apabila penerimaan pajak meningkat maka akan meningkatkan output berupa barang dan jasa yang dihasilkan (PDRB) karena pajak daerah ini digunakan sebagai modal untuk kegiatan produksi yang akan menghasilkan output berupa barang maupun jasa. Namun, berdasarkan data yang ada pajak daerah di beberapa kabupaten kota cenderung menurun namun PDRB di kabupaten/kota tersebut meningkat setiap tahunnya. Hal berbeda terjadi pada Kota Bontang dimana PDRB kota tersebut mengalami penurunan pada tahun 2010-2013 namun penerimaan pajak daerah di Kota Bontang justru mengalami peningkatan. Hal ini berarti terdapat gap antara teori dan data yang ada.
+Selain pajak daerah, retribusi juga merupakan komponen penting dalam pendapatan asli daerah (PAD) yang diharapkan akan dapat meningkatkan pertumbuhan ekonomi. Retribusi daerah adalah pungutan daerah sebagai pembayaran atas jasa atau pemberian izin tertentu yang khusus disediakan dan/atau diberikan oleh pemerintah daerah untuk kepentingan orang pribadi atau badan (Darise,2009). Berdasarkan data yang ada berbanding terbalik dengan teori Sollow dan Swan dimana penerimaan retribusi daerah dibeberapa kabupaten/kota Propinsi cenderung mengalami penurunan. Berdasarkan teori dimana retribusi daerah masuk kedalam faktor-faktor produksi khususnya akumulasi modal. Apabila penerimaan retribusi meningkat maka akan meningkatkan output berupa barang dan jasa yang dihasilkan (PDRB) karena retribusi daerah ini digunakan sebagai modal untuk menghasilkan besaran output berupa barang maupun jasa. Namun, berdasarkan data yang ada retribusi daerah di beberapa kabupaten kota cenderung menurun akan tetapi PDRB di kabupaten/kota tersebut meningkat setiap tahunnya. Hal ini berarti terdapat gap antara teori dan data yang ada. Diduga menurunnya realisasi penerimaan retribusi daerah ini disebabkan kurang aktifnya pemerintah daerah untuk memungut retribusi daerah.
+Faktor ketiga dalam penelitian ini dari sisi pengeluaran yang mempengaruhi pertumbuhan regional adalah belanja modal. Belanja modal digunakan untuk pengeluaran yang dilakukan dalam rangka pengadaan asset tetap berwujud yang mempunyai nilai manfaat lebih dari 1 tahun untuk digunakan dalam kegiatan pemerintahan (Darise, 2012). Perhatian dan fokus pemerintah daerah dalam mempercepat realisasi anggaran khususnya pos belanja modal menjadi semakin penting karena belanja modal merupakan bagian dari komponen investasi pemerintah, sehingga dapat meningkatkan multiplier effect yang lebih besar untuk meningkatkan output berupa barang dan jasa. Pada dasarnya belanja modal bersifat produktif dan bersentuhan langsung dengan kepentingan publik sehingga dapat menstimulus perekonomian di daerah yang bersangkutan (BI, 2014).
+Data menunjukan realisasi belanja modal di Kabupaten/kota Kalimantan Timur berfluktuasi yang naik turun di beberapa kabupaten di Kalimantan Timur. Realisasi belanja modal rata-rata tertinggi dari tahun 2004-2013 terdapat di Kabupaten Kutai Kartanegara sebesar Rp. 1,848,648,846,200. Tingginya realisasi belanja modal di Kabupaten Kutai Kertanegara ini juga berdampak pada tingginya rata-rata nilai PDRB dari tahun 2004-2013 di Kutai Kartanegara. Realisasi pengeluaran belanja modal terendah terdapat di Kota Bontang dengan rata-rata Rp. 326,004,433,500 namun, nilai rata-rata PDRBnya berada diposisi tiga terbesar. Dengan kata lain, belanja modal yang tepat sasaran dan berfokus pada kegunaan dan manfaat akan berdampak nantinya terhadap nilai PDRB. 
+
+
+Berdasarkan berbagai penjelasan di atas, maka penelitian ini berupaya untuk melihat pengaruh pajak daerah, retribusi daerah, belanja modal, dan tingkat partisipasi angkatan kerja (TPAK) terhadap PDRB di Kabupaten/Kota di Propinsi Kalimantan Timur Tahun 2004-2013. Selain itu juga melihat seberapa besar pengaruh pajak daerah, retribusi daerah, belanja modal, dan tingkat partisipasi angkatan kerja (TPAK) terhadap PDRB di Kabupaten/Kota di Propinsi Kalimantan Timur Tahun 2004-2013.
+METODE
+Populasi dalam penelitian ini adalah seluruh kabupaten/kota di Propinsi Kalimantan Timur. Menurut Sugiyono (2007), Sampel merupakan bagian dari jumlah dan karakteristik yang dimiiki oleh pupulasi. Sebuah sampel yang ditemukan tidak selalu memenuhi persyaratan dalam variabel penelitian sehingga diperlukan pula besaran peluang representatifnya sebuah kelompok sampel dalam sebuah populasi penelitian. Sampel yang digunakan dalam penelitian ini adalah delapan Kabupaten/Kota di Propinsi Kalimantan Timur. Delapan kabupaten/kota tersebut adalah Kabupaten Paser, Kabupaten Kutai Kartanegara, Kabupaten Kutai Timur, Kabupaten Berau, Kabupaten Penajam Paser Utara, Kota Balikpapan, Kota Samarinda dan Kota Bontang. Terdapat dua kabupaten yang tidak termasuk ke dalam objek penelitian yaitu Kabupaten Mahakam Ulu dan Kabupaten Kutai Barat, dikarenakan Kabupaten Mahakam Ulu pada tahun 2012 merupakan hasil pemekaran dari kabupaten induk yakni Kabupaten Kutai Barat. Sehingga kedua Kabupaten tersebut tidak dimasukan ke dalam penelitian.
+Terdapat tiga pendekatan yang dapat digunakan dalam mengestimasi data panel, yaitu : 1) pendekatan OLS biasa (Pooled Least Square), 2) pendekatan efek tetap (Fixed Effect Model), dan 3) pendekatan efek acak (Random Effect Model). Ada dua tahap dalam memilih metode data panel. Pertama kita harus membandingkan PLS dengan FEM terlebih dahulu, teknik yang dipergunakan adalah uji Chow. Kemudian dilakukan uji F-test. Jika hasil menunjukkan model PLS yang diterima, maka model PLS lah yang akan dianalisa. Tapi jika model FEM yang diterima, maka tahap kedua dijalankan, yakni melakukan perbandingan lagi dengan model REM. Setelah itu dilakukan pengujian dengan Hausman test untuk menentukan metode mana yang akan dipakai, apakah FEM atau REM.
+Model persamaan yang akan diestimasi pada penelitian ini sebagai berikut:
+Ln(PDRBit) = β0 + β1 Ln(PDit) + β2 Ln(RDit) + β3 Ln(BMit) + β4 TPAKit
++ eit
+Dimana:
+PDRBit : PDRB atas dasar harga konstan daerah i pada periode t
+PDit : Pajak Daerah di daerah i pada periode t
+RDit : Retribusi Daerah di daerah i pada periode t
+BMit : Belanja Modal di daerah i pada periode t
+HASIL DAN PEMBAHASAN
+Pertumbuhan PDRB di beberapa kabupaten/kota di Propinsi Kalimantan Timur mengalami fluktuasi selama pelaksanaan desentralisasi fiskal tahun 2004-2013. Pada tahun 2007 pertumbuhan ekonomi di beberapa kabupaten dan kota seperti Kabupaten Kutai Kartanegara, Kabupaten Berau, Kabupaten Bontang dan Kota Balikpapan mengalami sedikit penurunan dibandingkan tahun sebelumnya karena adanya kenaikan bahan bakar minyak (BBM). Hampir semua pertumbuhan PDRB di kabupaten/kota mengalami peningkatan selama 10 tahun terakhir, walaupun peningkatannya tidak terlalu signifikan.
+Pertumbuhan PDRB tertinggi terdapat di Kabupaten Kutai Kartanegara dengan nilai rata-rata sebesar Rp. 28,389,348,000,000. Hal ini dikarenakan perekonomian Kutai Kartanegara masih didominasi oleh sektor pertambangan dan penggalian yang mencapai lebih dari 77%. Namun, tingginya nilai PDRB Kabupaten Kutai Kartanegara tidak diikuti perkembangan laju pertumbuhan ekonominya dengan rata-rata sebesar 1.40%. Sedangkan PDRB terendah terdapat di Kabupaten Penajam Paser Utara, walaupun memiliki nilai PDRB terendah tetapi laju pertumbuhan ekonomi di Kabupaten Penajam Paser Utara setiap tahunnya mengalami peningkatan yang positif terlebih pada tahun 2011 perekonomian Kabupaten Penajam Paser Utara tumbuh sebesar 11,68%. Untuk mengetahui model panel yang akan digunakan, maka digunakan uji F-Restricted dengan cara melihat nilai probabilitas (P-Value) F-Statistik lebih kecil dari tingkat signifikansi α = 5%. Sebelum melihat nilai probabilitas (P-Velue) F-Statistik lebih kecil dari tingkat signifikansi α = 5%. Hasil yang diperoleh menunjukkan F-statistik adalah 250.279310 dengan d.f (7.68) dan nilai probabilitas F-Statistik sebesar 0.0000, yang berarti bahwa nilai probabilitas F-Statistik lebih kecil dari tingkat signifikansi α 5% (0.0000 < 0.05). Maka H0 ditolak, sehingga model panel yang digunakan adalah Fixed Effect Model.
+Untuk mengetahui model panel yang akan digunakan, maka digunakan uji Hausman, pengujian ini untuk menentukan model paling tepat digunakan di antara FEM dengan REM. Berdasarkan hasil uji Hausman pada tabel 4.2 diatas, didapatkan Chi-Square statistic sebesar 13.134980 dengan probabilitas 0.0106 dan d.f. 4 (9.487). Dikarenakan Chi-hitung lebih besar dari pada Chi-tabel dan nilai probabilitas Chi-Square statistik lebih kecil dari nilai α 5% (0.0106 < 0.05) maka H0 ditolak. Dapat disimpulkan bahwa model terbaik yang dapat digunakan untuk model penelitian adalah Fixed Effect Model. Model data panel yang digunakan dalam penelitian ini adalah dengan menggunakan model Fixed Effect Model (FEM) dapat di jelaskan melalui persamaan sebagai berikut:
+LnPDRB = 23.89799 + 0.168040 LnPD + 0.075098 LnRD + 0.044606 LnBM
+– 0.012619 TPAK + e
+Pengujian ini dilakukan untuk menguji apakah variabel independen (pajak daerah, retribusi daerah, belanja modal dan tingkat partisipasi angkatan kerja) berpengaruh secara parsial terhadap variabel dependennya (PDRB), yaitu dengan membandingkan masing-masing nilai t-statistik dari regresi dengan t-tabel dalam menolak atau menerima hipotesis. Pada tingkat keyakinan α = 5%, maka diperoleh t- tabel (1.99). Hasil pengujian hipotesis dengan menggunakan uji t dengan variabel independen yaitu pajak daerah, retribusi daerah, belanja modal dan TPAK terhadap produk domestik regional bruto (PDRB) secara parsial, sebagai berikut:
+1. Variabel Pajak Daerah memiliki t-statistik > t-tabel (7.301374 > 1.99) atau nilai probabilitas Pajak Daerah lebih kecil dari tingkat keyakinan α = 5% (0.0000 < 0.05) yang berarti bahwa H0 ditolak, yang berarti bahwa Pajak Daerah berpengaruh signifikan terhadap PDRB.
+2. Variabel Retribusi Daerah memiliki t-statistik > t-tabel (2.129477> 1.99) atau nilai probabilitas Retribusi Daerah lebih kecil dari tingkat keyakinan α = 5% (0.0368 < 0.05) yang berarti bahwa H0 ditolak, yang berarti bahwa Retribusi Daerah berpengaruh signifikan terhadap PDRB.
+3. Variabel Belanja Modal memiliki t-statistik < t-tabel (1.381558 <1.99) atau nilai probabilitas Belanja Modal lebih besar dari tingkat keyakinan α = 5% (0.1716 > 0.05) yang berarti bahwa H0 diterima, yang berarti bahwa Belanja Modal tidak berpengaruh secara signifikan terhadap PDRB.
+4. Variabel TPAK memiliki t-statistik > t-tabel (-2.662180 > 1.99) atau nilai probabilitas TPAK lebih kecil dari tingkat keyakinan α = 5% (0.0097 < 0.05) yang berarti bahwa H0 ditolak, yang berarti bahwa TPAK berpengaruh signifikan terhadap PDRB.
+Hasil analisis mendapatkan koefisien determinasi sebesar 0.984202 atau 98,42%. Hal ini terlihat bahwa 98.42% Produk Domestik Regional Bruto di 8 kabupaten/kota di Kalimantan Timur dapat dijelakan oleh pajak daerah, retribusi daerah, belanja modal dan tingkat partisipasi angkatan kerja. Sedangkan sisanya (100% - 98.42% = 1.58%) Produk Domestik Regional Bruto (PDRB) dijelaskan oleh variabel lain yang tidak diteliti dalam penelitian ini.
+Berdasarkan hasil dari estimasi yang menggunakan Fixed Effect Model dapat disimpulkan bahwa hasil regresi yang dihasilkan cukup baik untuk menjelaskan perkembangan PDRB di 8 Kabupaten/Kota propinsi Kalimantan Timur periode 2004-2013. Namun dari seluruh variabel yang diteliti terdapat satu variabel yang tidak berpengaruh signifikan dan satu variabel yang memiliki kolerasi yang negatif terhadap PDRB. Variabel pajak daerah dan retribusi daerah berpengaruh positif dan signifikan terhadap PDRB, variabel belanja modal tidak berpengaruh signifikan terhadap PDRB dan variabel TPAK berpengaruh negatif dan signifikan terhadap PDRB.
+Pajak Daerah menunjukkan tingkat kemandirian suatu daerah karena pajak daerah berasal dari daerah itu sendiri sehingga dapat membiayai pembangunan daerahanya. Pada hasil penelitian ini, diperoleh bahwa pajak daerah berpengaruh   positif dan signifikan terhadap PDRB dengan tingkat signifikansi 5%. Nilai koefisien yang diperoleh sebesar 0.168040 yang berarti bahwa apabila pajak daerah meningkat 1%, maka akan menaikan PDRB sebesar 0.168040%. Hal tersebut sesuai dengan hipotesis bahwa pajak daerah berpengaruh signifikan terhadap Produk Domestik Regional Bruto.
+Dengan adanya peningkatan pajak daerah melalui partisipasi masyarakat yang turut serta berpartisipasi membayar pajak daerah dan aktifnya pemerintah daerah menarik pajak daerah serta adanya objek pajak baru berupa pajak bumi dan bangunan perkotaan dan perdesaan (PBB-P2). Maka, akan meningkatkan penerimaan pajak daerah, yang nantinya akan digunakan untuk kegiatan produksi sehingga akan menghasilkan output berupa barang maupun jasa, sehingga akan meningkatkan PDRB. Penelitian ini sejalan dengan teori Solow-Swan, dimana pertumbuhan ekonomi tergantung pada penyediaan faktor-faktor produksi, salah satunya adalah akumulasi modal dalam hal ini adalah pajak daerah. Berdasarkan teori tersebut diketahui bahwa variabel input khususnya pajak daerah memiliki peranan penting karena akan menentukan besarnya jumlah output yang dihasilkan. Hal ini disebabkan pajak daerah digunakan sebagai modal untuk melakukan pembangunan sehingga akan merangsang kegiatan ekonomi dan akan menghasilkan output berupa barang maupun jasa yang pada akhirnya akan meningkatkan pertumbuhan ekonomi (produksi PDRB). Penelitian ini juga sejalan dengan penelitian yang dilakukan Amelia (2008) dan Andres Rodriguez dan Anne Kroijer (2009) bahwa pajak daerah berpengaruh positif dan signifikan terhadap Pertumbuhan ekonomi.
+Dalam penelitian ini, retribusi daerah berpengaruh positif dan signifikan terhadap PDRB dengan tingkat signifikansi 5%. Nilai koefisien retribusi daerah sebesar 0.075098 yang berarti bahwa apabila retribusi daerah meningkat 1%, maka akan meningkatkan PDRB sebesar 0.075098%. Hal ini sesuai dengan hipotesis bahwa retribusi daerah berpengaruh signifikan terhadap Produk Domestik Regional Bruto. Dengan adanya peningkatan retribusi daerah dan tegasnya pemerintah daerah setempat menarik retribusi daerah, maka akan meningkatkan pendapatan di daerah tersebut. Dengan meningkatnya pendapatan asli daerah yang berasal dari daerah itu sendiri, akan turut membantu daerah untuk meningkatkan pembiyaan pembangunan yang ada di daerah, yang berarti akan meningkatkan kegiatan ekonomi. Sehingga, berakibat pada peningkatan PDRB suatu daerah tersebut.
+Penelitian ini sejalan dengan teori Solow-Swan, dimana pertumbuhan ekonomi tergantung pada penyediaan faktor-faktor produksi, salah satunya adalah akumulasi modal dalam hal ini adalah retribusi daerah. Berdasarkan teori tersebut diketahui bahwa variabel input khususnya retribusi daerah memiliki peranan penting karena akan menentukan besarnya jumlah output yang dihasilkan. Hal ini disebabkan retribusi daerah digunakan sebagai modal untuk melakukan pembangunan sehingga akan merangsang kegiatan ekonomi yang pada akhirnya akan meningkatkan PDRB. Penelitian ini juga sejalan dengan penelitian yang dilakukan Lucky (2011), Amelia (2008), bahwa retribusi daerah berpengaruh positif dan signifikan terhadap pertumbuhan ekonomi di daerah.
+Dalam penelitian ini, belanja modal memiliki pengaruh yang positif namun tidak signifikan terhadap PDRB dengan tingkat signifikansi 5%. Nilai koefisiennya sebesar 0.044606. Hal ini tidak sesuai dengan hipotesis penelitian yang menyatakan bahwa belanja modal berpengaruh signifikan terhadap Produk Domestk Regional Bruto (PDRB). Belanja modal yang tidak berpengaruh signifikan terhadap PDRB dimungkinkan disebabkan masih timpangnya anggaran belanja modal yang dikeluarkan oleh pemerintah daerah, dimana hanya Kabupaten Kutai Kartanegara yang anggaran belanja modalnya tinggi, sedangkan kabupaten/kota lainnya dalam pengeluaran anggaran belanja modalnya jauh dibawah Kabupaten Kutai Kartanegara. Hal ini mengindikasikan masih kecilnya pos-pos pengeluaran anggaran belanja modal yang masih tidak merata dan masih timpangnya pengeluaran belanja modal di setiap daerah Propinsi Kalimantan Timur.
+Tenaga kerja yang diwakili oleh tingkat partisipasi angkatan kerja berpengaruh signifikan dengan tingkat signifikansi 5% terhadap PDRB dengan nilai probabilitas 0.0097 dan memiliki kolerasi yang negatif. Koefisien TPAK sebesar -0.012619, yang berarti bahwa untuk setiap kenaikan pada tingkat partisipasi angkatan kerja (TPAK) sebesar 1%, maka akan menurunkan Produk Domestik Regional Bruto (PDRB) sebesar 0.012619 %.
+
+Hal tersebut bertolak belakang dengan hipotesis peneliti dimana TPAK dapat meningkatkan produk domestik regional bruto. Berdasarkan pengamatan yang dilakukan peneliti, pengaruh negatif TPAK terhadap PDRB dapat disebabkan pada tahun 2007 dan 2013 tingkat partisipasi angkatan kerja di kabupaten/kota Propinsi Kalimantan Timur mengalami penurunan hal ini terjadi karena pada tahun tersebut terjadi kenaikan harga BBM dan adanya gejolak perekonomian dunia yang mengakibatkan perekonomian di Kalimantan Timur juga menurun. Fluktuasinya tingkat partisipasi angkatan kerja yang naik turun dapat disebabkan oleh pemerintah dan angkatan kerja yang kurang keterampilan, dalam hal ini pemerintah daerah di 8 kabupaten/kota di propinsi Kalimantan Timur belum mampu memenuhi kebutuhan lapangan pekerjaan yang diharapkan dan kurangnya keterampilan yang dimiliki tenaga kerja sehingga tidak memenuhi persyaratan yang dibutuhkan oleh penyedia lapangan pekerjaan hal ini terlihat dari masih kecilnya angka persentase angkatan kerja di 8 kabupaten/kota propinsi Kalimantan Timur.
+Selain itu, pertambahan penduduk yang setiap tahunnya meningkat juga dapat meningkatkan jumlah tingkat partisipasi angkatan kerja (TPAK) yang merupakan indikator dari jumlah tenaga kerja yang tersedia, tanpa diimbangi dengan bertambahnya lapangan pekerjaan dan kemampuan keterampilan yang dimiliki para pekerja. Sehingga akan meningkatkan pengangguran yang secara langsung menurunkan pendapatan perkapita dan berdampak pada menurunnya pertumbuhan ekonomi karena jumlah output yang dihasikan juga menurun (produksi PDRB). Penelitian ini sejalan dengan teori pertumbuhan neo-klasik bahwa apabila populasi bertambah, fungsi produksi agregat akan memperlihatkan hasil yang menurun (decreasing returns) apabila salah satu faktor ditambah. Dalam teori ini mengemukakan bahwa semakin banyak orang yang bekerja dengan menggunakan modal yang tetap pada akhirnya, setiap tambahan tenaga kerja akan menambah total output yang semakin sedikit, sehingga setiap unit tambahan tenaga kerja akan menghasikan produk marjinal yang semakin menurun, dengan semakin menurunnya output marjinal yang dihasilkan maka akan menurunkan pendapatan dengan semakin kecilnya pendapatan yang diterima maka akan berdampak pada penurunan pertumbuhan ekonomi (PDRB).
+
+Penelitian ini sejalan dengan penelitian yang dilakukan Amelia (2013), bahwa tingkat partisipasi angkatan kerja (TPAK) memiliki kolerasi yang negatif dan signifikan terhadap Produk Domestik Regional Bruto (PDRB). Namun penelitian ini tidak sejalan dengan teori Solow yang mengemukakan bahwa kombinasi antara jumlah modal dan tenaga kerja yang digunakan akan menghasilkan output yang berbeda. TPAK adalah salah satu faktor yang mempengaruhi besaran output suatu kegiatan perekonomian, sehingga semakin banyak masyarakat yang berproduktif, maka akan menghasilkan output yang tinggi pula yang mempengaruhi PDRB
+SIMPULAN
+Berdasarkan hasil estimasi regresi data panel model FEM dapat diketahui dan dijelaskan secara bersama-sama bahwa pajak daerah, retribusi daerah, belanja modal dan tingkat partisipasi angkatan kerja (TPAK) berpengaruh signifikan terhadap PDRB periode 2004-2013. Dengan diperoleh nilai F- statistik sebesar 385.1204 dengan nilai probabilitas sebesar 0.000000 pada tingkat signifikansi 5%. Berdasarkan hasil regresi data panel data panel model FEM, secara parsial diperoleh bahwa pajak daerah berpengaruh signifikan dan positif terhadap PDRB di 8 kabupaten/kota propinsi Kalimantan Timur. Berdasarkan hasil regresi data panel data panel model FEM, secara parsial diperoleh bahwa retribusi daerah berpengaruh signifikan dan positif terhadap PDRB di 8 kabupaten/kota propinsi Kalimantan Timur.
+Berdasarkan hasil regresi data panel data panel model FEM, secara parsial diperoleh bahwa belanja modal tidak berpengaruh signifikan terhadap PDRB di 8 kabupaten/kota propinsi Kalimantan Timur. Berdasarkan hasil regresi data panel data panel model FEM, secara parsial diperoleh bahwa tingkat partisipasi angkatan kerja (TPAK) berpengaruh signifikan dan negatif terhadap PDRB di 8 kabupaten/kota propinsi Kalimantan Timur.

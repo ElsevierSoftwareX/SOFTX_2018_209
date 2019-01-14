@@ -1,0 +1,704 @@
+﻿ 
+
+ 
+
+KARAKTERISTIK BIOMASSA Chlorella sp TERIMOBILISASI PADA KITOSAN 
+
+UNTUK ADSORPSI KROMIUM(III) DALAM LARUTAN 
+
+ 
+ 
+
+ABSTRAK 
+
+Pada penelitian ini dikaji karakteristik biosorben yang dibuat dari bahan dasar 
+biomassa mikroalga Chlorella sp terimobilisasi pada kitosan (Chlo-Kit) untuk adsorpsi ion 
+kromium(III) dalam larutan. Adsorben Chlo-Kit dibuat dengan tahapan metode: pelarutan 
+kitosan membentuk hidrogel, imobilisasi biomassa pada kitosan hidrogel, pembentukan 
+beads dan pengikatan silang adsorben menggunakan epiklorohidrin. 
+
+Hasil karakterisasi secara FT-IR dan SEM-EDAX menunjukkan bahwa imobilisasi 
+biomassa pada kitosan melibatkan mekanisme interaksi elektrostatik antara gugus-gugus 
+fungsional pada kedua bahan penyusun tersebut. Biomassa terimobilisasi pada kitosan 
+menunjukkan stabilitas yang lebih tinggi dalam medium asam dibandingkan biomassa tak-
+terimobilisasi. Adsorpsi ion logam Cr(III) pada Chlo-Kit terjadi pada pH optimum 4-5 dan 
+mengikuti dengan baik model isoterm adsorpsi Langmuir. Nilai kapasitas adsorpsi 
+maksimum pada Chlo-Kit adalah sebesar 68,965 mg/g, sekitar 91% lebih tinggi 
+dibandingkan pada biomassa Chlorella. 
+
+Kata kunci : adsorpsi, biomassa Chlorella terimobilisasi pada kitosan, kromium(III) 
+
+ 
+ 
+PENDAHULUAN 
+
+ 
+ 
+Kromium merupakan jenis logam berat pencemar yang berbahaya karena 
+
+akumulasi kromium dapat mengakibatkan kanker paru-paru, luka bernanah kronis serta 
+
+kerusakan selaput tipis hidung. Keberadaan kromium dalam lingkungan perairan terutama 
+
+sebagai limbah dari elektroplating, cat, tinta, penyamakan kulit, pewarnaan tekstil, dan 
+
+buangan limbah cair industri kimia (Modrzejewska and Kaminsky, 1999). Beberapa teknik 
+
+yang digunakan untuk mengambil maupun mengurangi kadar logam berat kromium dari 
+
+buangan industri di akuatik antara lain dengan teknik pengendapan secara kimia, 
+
+koagulasi, kompleksasi, ekstraksi pelarut, pemisahan dengan membran, pertukaran ion dan 
+
+adsorpsi (Reddad et al., 2003). Adsorpsi merupakan metode yang banyak dikembangkan 
+
+untuk rekoveri logam berat dalam sistem perairan dikarenakan prinsip kerjanya yang relatif 
+
+sederhana dengan biaya yang relatif murah. 
+
+Berbagai jenis biomassa telah diteliti untuk adsorpsi ion logam berat diantaranya 
+
+adalah dari jenis jenis bakteri (Hussein et al., 2004), alga (Donmez and Aksu, 2002; Aksu, 
+
+2001; Gupta et al., 2001; Singh et al., 2001), fungi (Cabuk et al., 2005; Bayramoglu et al., 
+
+2002; Bai and Abraham, 2001; Gabriel et al., 2001; Lacina et al., 2003; Guangyu and 
+
+Viraraghavan, 2000) dan khamir (Koumanova et al. dalam Bayramoglu, 2003). Metode 
+
+biosorpsi mempunyai banyak keuntungan dibandingkan metode yang lain, karena : (1) 
+
+biaya operasi rendah, (2) kelimpahan biomassa tinggi, (3) efektif diterapkan pada sistem 
+
+larutan encer, dan (4) menghasilkan efluen yang minimum (Gupta et al., 2000; 
+
+Bayramoglu et al., 2003). 
+
+Salah satu jenis biomassa mikroalga yang berpotensi dikembangkan untuk adsorpsi 
+
+logam berat di lingkungan perairan adalah biomassa dari jenis mikroalga Chlorella sp 
+
+(Aksu, 2001; Aksu and Donmez, 2006, Nacorda et al., 2010). Situs aktif adsorpsi pada 
+
+jenis mikroalga umumnya adalah karboksil, amina, imidazol, fosfat, sulfhidril, sulfat dan 
+
+hidroksil (Fourest, 1996; Donmez and Aksu, 2002; Aksu, 2001; Gupta et al., 2001; Singh 
+
+et al., 2001; Aksu and Donmez, 2006). Dari berbagai kemungkinan gugus aktif tersebut, 
+
+karboksil dilaporkan memegang peran penting pada pengikatan ion logam (Doshi et al., 
+
+2006; Kuyucak and Volesky, 1988). 
+
+Pemanfaatan biomassa mikroalga sebagai adsorben logam berat mempuyai 
+
+keunggulan kompetitif dalam hal potensi, kelimpahan dan ‘murah’ namun pemanfaatan 
+
+secara langsung mempunyai kelemahan dalam hal ukurannya sangat kecil, kekuatan 
+
+mekanis rendah, serta penggunaan ulang yang terbatas sehingga diperlukan material 
+
+pendukung untuk meningkatkan kekuatan mekanis biomassa. Salah satu material 
+pendukung yang dapat digunakan adalah kitosan. Kitosan mempunyai karakteristik unik 
+
+antara lain dalam hal hidrofilitas, biodegradabilitas, biokompatibilitas, dan sifat non-toksik. 
+
+Keutamaan kitosan terletak pada gugus –NH2 dan –OH yang dapat bertindak sebagai situs 
+
+pengkhelat ion logam. Berbagai penelitian menunjukkan selektivitas dan kapasitas kitosan 
+
+yang tinggi terhadap ion logam berat (Udaybhaskar, 1990; Ngah and Liang, 1999; Gao et 
+
+al., 2000; Guibal, 2004; Li and Bai, 2006, Rinaudo, 2006). 
+
+Kombinasi kedua jenis material adsorben menjanjikan stabilitas fisikokimia yang 
+
+tinggi disertai peningkatan efektivitas adsorpsi sebagai bentuk kompleksasi antara gugus 
+
+fungsional (ligan) dengan ion logam. Kitosan dan biomassa Chlorella merupakan jenis 
+
+polisakarida alami yang mempunyai kemiripan struktur kimia penyusun utama, sehingga 
+
+interaksi kitosan-biomassa diharapkan lebih efektif karena bio-kompatibilitasnya yang 
+
+tinggi. 
+
+Berdasarkan pemaparan diatas, maka penelitian ini mempunyai dua tujuan. Tujuan 
+
+pertama adalah preparasi adsorben biomassa Chlorella sp terimobilisasi pada kitosan. 
+
+Adapun tujuan kedua adalah mengkaji karakteristik adsorben tersebut untuk adsorpsi 
+
+kromium(III) dalam larutan. 
+
+ 
+
+METODE PENELITIAN 
+
+Peralatan analisis meliputi: Timbangan analitik (Mettler AE 160), spatula, labu 
+
+ukur, gelas piala 100 mL, gelas ukur, pipet volum, pipet tetes, bol pipet, statip, siring, 
+
+pengaduk magnet, labu semprot, pH meter, pH universal, corong plastik, oven, cawan 
+
+porselin, alat penggerus (lumpang), ayakan ukuran 80 mesh (Resth), Spektrofotometer 
+
+Inframerah (Shimadzu FTIR-Prestige 21), Spektrofotometer serapan atom (Perkin Elmer 
+
+3101). 
+
+Bahan analisis meliputi: Kitosan BM medium DD 85% (Sigma), CH3COOH glasial 
+
+(Merck), CrCl3.5H2O (Merck), akuades, akuabides, epiklorohidrin (Aldrich), NaOH 
+
+(Merck), etanol pa, Na2EDTA (Merck), kertas saring Whatman no. 42. 
+
+Preparasi biomassa Chlorella sp 
+
+ Biomassa alga yang digunakan pada penelitian ini adalah mikroalga dari jenis 
+
+Chlorella sp. Biomassa mikroalga diperoleh dari Balai Budaya Laut, Lampung. Biomassa 
+
+dicuci beberapa kali menggunakan akuades dan dikeringkan hingga tercapai berat konstan. 
+
+Agregat biomassa digerus untuk dan diayak dengan ukuran 80 mesh untuk dipergunakan 
+
+lebih lanjut. 
+
+ 
+
+Preparasi biomassa terimobilisasi pada kitosan 
+
+Sebanyak 1,0 gram kitosan serbuk dilarutkan dalam 20 mL larutan asam asetat 
+
+2,5%, kemudian ditambahkan 1,0 gram biomassa kedalam gel dan diaduk selama 30 
+
+menit. Campuran heterogen dalam bentuk gel diubah menjadi bentuk beads dengan cara 
+
+koagulasi pada campuran NaOH 2 M dan 5 tetes etanol. Butiran yang dihasilkan dicuci 
+
+dengan akuades hingga netral dan dilakukan crosslinking menggunakan epiklorohidrin 
+
+pada pH 10 selama 12 jam. Selanjutnya butiran dicuci bersih sampai netral, dan dikering 
+
+anginkan hingga didapat berat konstan. Karakterisasi adsorben yang dihasilkan dilakukan 
+
+dengan FT-IR dan SEM-EDAX. 
+
+Uji stabilitas biosorben 
+
+ Penentuan stabilitas dilakukan dengan menghitung berat adsorben terlarut pada 
+
+beberapa konsentrasi asam asetat. Sebanyak 0,1 gram biosorben diinteraksikan dengan 10 
+
+mL larutan asam asetat pada konsentrasi masing-masing 1%, 2,5% dan 5%. Interaksi 
+
+dilakukan dengan cara pengadukan pada kecepatan 120 rpm selama 120 menit. 
+
+Karakterisasi adsorpsi kromium(III) pada Chlo-Kit 
+
+Uji pengaruh pH adsorpsi. 
+
+Pengaruh pH adsorpsi dilakukan dengan cara menginteraksikan sebanyak 0,05 
+
+gram biosorben Chlo-Kit dengan 10 mL larutan kromium(III) selama 60 menit pada variasi 
+
+pH larutan 2-9. Pengaturan pH dilakukan dengan menambahkan larutan 0,01M HNO3 atau 
+
+0,01M NaOH. Selanjutnya biosorben dipisahkan dengan cara penyaringan dan kandungan 
+
+ion krom tersisa dalam larutan ditentukan secara spektrofotometri serapan atom. Ion krom 
+
+yang terjerap pada biosorben ditentukan berdasarkan selisih konsentrasi sebelum dan 
+
+sesudah adsorpsi melalui spektrofotometri serapan atom. 
+
+ 
+
+Penentuan isoterm adsorpsi. 
+
+Penentuan kapasitas adsorpsi dilakukan dengan cara menginteraksikan sebanyak 
+
+0,05 gram biosorben Chlo-Kit dengan 10 mL larutan ion Cr(III) logam pada waktu kontak 
+
+120 menit dan pH diatur 5 dengan konsentrasi ion logam yang divariasi pada kisaran 5-
+
+1000 mg/L. Selanjutnya adsorben dipisahkan dengan cara penyaringan dan kandungan 
+
+logam sisa teradsorpsi ditentukan secara spektrofotometri serapan atom. 
+
+Penentuan kapasitas adsorpsi ion logam pada adsorben dilakukan menggunakan 
+
+persamaan isoterm adsorpsi Langmuir (Oscik, 1982) : 
+dengan Ceq adalah konsentrasi krom(III) pada kesetimbangan (mg/L), n adalah jumah 
+
+krom(III) teradsorpsi per gram biosorben (mg/g), am adalah kapasitas maksimum adsorpsi 
+
+(mg/g) dan K adalah konsntanta kesetimbangan adsorpsi Langmuir (L/g). 
+
+ 
+
+PEMBAHASAN 
+
+Hasil karakterisasi Chlo-Kit 
+
+Biomassa Chlorella pada penelitian ini diimobilisasikan pada kitosan dalam bentuk 
+
+gel. Kitosan terlebih dahulu dilarutkan dalam asam asetat untuk menata ulang susunan 
+
+polimer kitosan. Pada proses pelarutan kitosan, sebagian ikatan hidrogen antar molekul 
+
+putus dan membuat rantai polimer teregang, mengakibatkan pori-pori kitosan terbuka 
+
+sehingga dmeningkatkan fleksibilitasnya untuk berinteraksi dengan gugus fungsional 
+
+biomassa. Perubahan gugus fungsional biomassa Chlorella, kitosan beads dan Chlo-Kit 
+
+yang dikarakterisasi melalui spektrofotometri FT-IR disajikan melalui Gambar 1. 
+
+Pada struktur kitosan terdapat gugus fungsi alkohol, amina, amida dan eter yang 
+
+dapat terlibat dalam pembentukan ikatan hidrogen inter dan atau intra-molekular. Ikatan 
+
+hidrogen tersebut berperan penting dalam menentukan keadaan padatan atau gel pada 
+
+kitosan. Spektrum kitosan (Gambar 1b) memperlihatkan puncak-puncak antara lain pada 
+
+bilangan gelombang 3387 cm-1 sebagai serapan karakteristik dari overlaping vibrasi O-H 
+
+dan N-H stretching, pada bilangan gelombang 1658 cm-1 sebagai serapan karakteristik dari 
+
+vibrasi C=O stretching dalam gugus amida; dan 1579 cm-1 merupakan vibrasi N-H bending 
+
+dari gugus amina primer. Spektrum FT-IR dari biomassa Chlorella (Gambar 1a) 
+
+memperlihatkan dua puncak serapan tajam pada bilangan gelombang 1643 cm-1 dan 1427 
+
+cm-1. Puncak ini merupakan karakteristik vibrasi stretching simetri dan anti-simetri dari 
+
+gugus karboksilat (Sastrohamidjojo, 1993; Doshi et al., 2006). Pita-pita serapan yang lain 
+
+ditunjukkan melalui puncak tajam dan lebar pada 3441 cm-1 (O-H stretching), 2924 cm-1 
+
+(stretching dari C-H alifatik) dan puncak 1111 cm-1 dan 1018 cm-1 (C-O stretching). 
+
+ 
+
+
+Gambar 1. Spektrum FT-IR dari (a) biomassa; (b) kitosan dan (c) biomassa terimoblisasi 
+
+pada kitosan (Chlo-Kit). 
+
+ 
+
+Spektrum dari biomassa terimobilisasi pada kitosan (Gambar 1c) memperlihatkan 
+
+karakteristik yang berbeda dibandingkan spektrum kitosan dan biomassa individual. 
+
+Perubahan ini dapat diamati pada daerah sekitar 3500-3450 cm-1 dan 1650-1500 cm-1. 
+
+Puncak serapan di bilangan gelombang 3450 cm-1 mengalami penurunan intensitas serapan 
+
+yang mengindikasikan perusakan ikatan hidrogen dari kitosan dan pembentukan ikatan 
+
+hidrogen baru antara kitosan-biomassa. Vibrasi stretching gugus karboksilat dari biomassa 
+
+(Gambar 1a) bergeser dari 1643 cm-1 dan 1427 cm-1 masing-masing menjadi 1589 cm-1 dan 
+
+1442 cm-1. Pergeseran dan penguatan pita serapan C=O dan C-O ini menunjukkan 
+
+keterlibatan gugus karboksilat dari biomassa dalam berinteraksi dengan kitosan. Puncak 
+
+serapan baru muncul di 1535 cm-1 yang merupakan vibrasi N-H bending dan dapat 
+
+diindikasikan sebagai konfirmasi terbentuknya ion –NH3
+
++. Berdasarkan hasil karakterisasi 
+
+FT-IR pada biosorben Chlo-Kit hasil penelitian, diperkirakan bahwa imobilisasi biomassa 
+
+Chlorella pada kitosan melibatkan interaksi elektrostatik antara gugus karboksilat pada 
+
+biomassa dengan gugus amina terprotonasi pada kitosan. Hasil yang serupa didapatkan 
+oleh Liu et al. (2011) yang meneliti mekanisme interaksi kitosan dengan biomassa 
+
+Sargassum serta Li and Bai (2006) yang meneliti pengikatan ion pada adsorben kitosan-
+
+selulosa. 
+
+Karakterisasi biosorben Chlo-Kit juga dilakukan menggunakan metode Scanning 
+
+Electron Microscopy (SEM) untuk mengetahui gambaran dari morfologi permukaan 
+
+biosorben dan hasilnya disajikan melalui Gambar 2. 
+
+ 
+
+ 
+
+ Gambar 2. Foto SEM dari (a) biomassa, (b) kitosan, dan (c) Chlo-Kit. 
+
+Hasil SEM pada Gambar 2 memperlihatkan bahwa struktur morfologi permukaan 
+
+biomassa terimobilisasi pada kitosan (Chlo-Kit) lebih padat dan kompak dibandingkan 
+
+bahan dasar kitosan atau biomassa. Kitosan berperan sebagai material pendukung bagi 
+
+biomassa sehingga mobilitas biomassa menjadi berkurang (immobil). Melalui proses 
+
+imobilisasi, densitas adsorben yang dihasilkan lebih meningkat sehingga dapat diharapkan 
+
+stabilitas Chlo-Kit juga meningkat. 
+
+Stabilitas fisiko-kimia biosorben Chlo-Kit 
+
+ 
+
+Salah satu parameter yang menunjukkan kualitas suatu jenis biosorben adalah 
+
+stabilitas yang dimilikinya. Stabilitas atau kekuatan mekanis berkaitan dengan potensi 
+
+aplikatif biosorben untuk pengolahan limbah cair industri mengandung logam berat yang 
+
+umumnya bersifat sedikit asam. Hasil uji stabilitas biosorben Chlo-Kit dandai dalam 
+
+beberapa konsentrasi asam asetat ditunjukkan melalui Tabel 1. 
+
+Tabel 1 memperlihatkan bahwa stabilitas biosorben Chlorella terimobilisasi pada 
+
+kitosan (Chlo-Kit) lebih tinggi dibandingkan biomassa yang tidak diimobilisasi. Secara 
+
+teoritis, imobilisasi membuat struktur biosorben menjadi lebih rigid sehingga kekutan 
+
+mekanisnya meningkat. Imobilisasi biomassa Chlorella pada kitosan mampu mengurangi 
+
+potensi disintegrasi biomassa terutama oleh perubahan keasaman larutan. Hasil ini 
+
+didukung oleh hasil foto SEM adsorben seperti disajikan melalui Gambar 2, dimana 
+
+biosorben Chlo-Kit menunjukkan morfologi yang lebih padat dibandingkan biomassa 
+
+Chlorella. 
+
+
+Tabel 1. Persen berat Chlo-Kit dan biomassa Chlorella terlarut pada beberapa konsentrasi 
+
+asam asetat 
+
+Adsorben 
+
+Biomassa Chlorella terimobilisasi pada 
+kitosan (Chlo-Kit) 
+
+Biomassa Chlorella 
+
+ 
+ 
+
+Konsentrasi Asam 
+
+Berat Adsorben 
+
+Asetat (% v/v) 
+
+Terlarut (%) 
+
+0 
+1 
+2,5 
+5 
+
+0 
+1 
+2,5 
+5 
+
+1,112 
+5,980 
+6,000 
+6,827 
+
+3,422 
+8,012 
+16,008 
+18,016 
+
+Karakteristik adsorpsi krom(III) pada Chlo-Kit 
+
+Pengaruh pH adsorpsi. Keasaman media merupakan faktor penting dalam 
+
+adsorpsi ion logam karena distribusi spesies komplek ion logam yang berbeda pada pH 
+
+larutan yang berbeda. Pada penelitian ini, pengaruh pH adsorpsi dilakukan dengan cara 
+
+memvariasi pH medium adsorpsi pada kisaran 2-9. Pengaturan pH medium dilakukan 
+
+dengan menambahkan larutan HCl atau NaOH 0,1M dan hasil penelitian disajikan melalui 
+
+Gambar 3. 
+
+Berdasarkan profil pH pada Gambar 3, terlihat bahwa adsorpsi ion logam krom(III) 
+
+pada Chlo-Kit meningkat dengan kenaikan pH dan mencapai kondisi optimum pada pH 4-
+
+5. Pada pH yang sangat asam, adsorpsi relatif rendah karena jumlah ion-ion H+ dalam 
+
+larutan sangat besar sehingga terjadi adsorpsi kompetitif dengan ion krom(III) untuk 
+
+berikatan dengan situs aktif biosorben. Di sisi lain, pada pH di bawah 3 gugus-gugus 
+
+fungsional pada biomassa dan kitosan terprotonasi menjadi spesies yang bermuatan positif 
+
+sedangkan distribusi ion krom(III) juga didominasi oleh spesies kromium bermuatan 
+positif Cr3+ dan Cr(OH)2
+
++ (Sperling et al., 1992) sehingga interaksi didominasi oleh 
+
+tolakan elektrostatik antara adsorben-adsorbat. Dengan meningkatnya pH larutan, muatan 
+
+parsial positif adsorben berkurang sehingga lebih banyak situs aktif yang dapat diakses 
+oleh ion krom(III) dan jumlah ion logam yang teradsorpsi meningkat hinggá tercapai 
+
+kondisi optimum pada pH 4-5. 
+
+
+kontrol_teradsorpsi 
+mengendap 
+teradsorpsi 
+
+2 
+
+4 
+
+6 
+
+8 
+
+10 
+
+pH media adsorpsi 
+
+ 
+
+ 
+
+Gambar 3. Pengaruh pH terhadap adsorpsi krom(III) pada Chlo-Kit. 
+
+ 
+
+Pada pH yang tinggi (diatas 7), adsorpsi menurun dengan signifikan. Hal ini 
+
+dikarenakan terjadinya tolakan elektrostatik antara spesies krom(III) yang negatif dengan 
+
+situs aktif adsorben yang juga terdeprotonasi menjadi bermuatan negatif. Diatas pH 7,0 
+
+sebagian besar ion Cr(III) juga terendapkan sebagai Cr(OH)3 dengan terlewatinya harga 
+
+Ksp Cr(OH)3 dalam larutan, sehingga jumlah ion teradsorpsi berkurang dengan drastis. 
+
+Pada pH yang tinggi, gugus hidroksida merupakan ligan yang lebih efektif dibandingkan 
+
+gugus aktif karboksilat dan amina amina, sehingga ion logam lebih tertarik untuk berikatan 
+
+dengan ligan hidroksida mengakibatkan proses pengendapan lebih dominan daripada 
+
+proses adsorpsi dalam larutan. 
+
+Isoterm adsorpsi krom(III). Model 
+
+isoterm adsorpsi digunakan untuk 
+
+menentukan kapasitas adsorpsi dan menunjukkan korelasi antara aktifitas adsorbat dengan 
+
+jumlah zat teradsorpsi pada temperatur konstan. Model isoterm Langmuir mengasumsikan 
+
+bahwa permukaan adsorben adalah homogen dan besarnya energi adsorpsi ekuivalen untuk 
+
+setiap situs adsorpsi. Adsorpsi secara kimia terjadi karena adanya interaksi antara situs 
+
+aktif adsorben dengan zat teradsorpsi dan hanya terjadi pada lapisan penyerapan tunggal 
+(monolayer) pada permukaan dinding sel adsorben (Oscik, 1982). Kurva isoterm adsorpsi 
+
+krom(III) pada Chlo-Kit, biomassa Chlorella dan kitosan disajikan melalui Gambar 4. 
+
+Menurut Langmuir dalam Oscik (1982), pada permukaan adsorben terdapat 
+
+sejumlah situs aktif yang proporsional dengan luas permukaan penyerapan. Dengan 
+
+memperbesar konsentrasi ion yang dikontakkan sementara berat adsorben tetap, adsorpsi 
+
+ion logam meningkat secara linear sampai konsentrasi tertentu. Bila situs adsorpsi telah 
+
+jenuh dengan adsorbat, maka kenaikan konsentrasi relatif tidak meningkatkan jumlah zat 
+
+teradsorpsi atau tercapai kondisi kesetimbangan adsorpsi-desorpsi. 
+
+ 
+)
+g
+/
+g
+m
+
+(
+ 
+i
+s
+p
+r
+o
+s
+d
+a
+r
+e
+t
+ 
+)
+I
+I
+I
+(
+
+m
+o
+r
+K
+
+ 
+
+50 
+
+40 
+
+30 
+
+20 
+
+10 
+
+0 
+
+0 
+
+biomassa 
+kitosan 
+Chlo-Kit 
+
+50 
+
+100 
+
+150 
+
+200 
+
+250 
+
+300 
+
+350 
+
+Konsentrasi Kesetimbangan (mg/L) 
+
+ 
+
+Gambar 4. Isoterm adsorpsi krom(III) pada biomassa, kitosan dan Chlo-Kit. 
+
+Gambar 4 memperlihatkan bahwa terjadi peningkatan adsorpsi pada konsentrasi 
+
+kesetimbangan sampai dengan sekitar 100 mg/L Diatas konsentrasi tersebut, adsorpsi 
+
+relatif tidak bertambah secara signifikan yang menandakan terjadi kesetimbangan adsorpsi-
+
+desorpsi. Perhitungan menggunakan persamaan isoterm adsorpsi Langmuir menghasilkan 
+
+harga kapasitas maksimum adsorpsi seperti ditunjukkan melalui Tabel 2 . 
+
+Tabel 2. Kapasitas adsorpsi krom(III) pada biomassa, kitosan dan Chlo-Kit 
+
+Adsorben 
+
+Kapasitas adsorpsi 
+
+(mg/g) 
+
+R2 
+ 
+
+Biomassa terimobilisasi pada kitosan (Chlo-Kit) 
+Biomassa Chorella 
+Kitosan 
+
+68,965 
+36,101 
+49,751 
+
+0,975 
+0,980 
+0,957 
+
+
+Adsorpsi ion logam krom(III) pada ketiga jenis adsorben mengikuti dengan baik 
+
+model isoterm adsorpsi Langmuir yang ditunjukkan dengan harga koefisien korelasi (R2) 
+
+dengan tingkat kepercayaan diatas 0,95. Hal ini mengindikasikan bahwa adsorpsi krom(III) 
+
+pada biomassa Chlorella, kitosan dan Chlo-Kit terutama terjadi melalui mekanisme 
+
+adsorpsi kimia pada permukaan monolayer adsorben. Tabel 1 juga memperlihatkan bahwa 
+
+adsorpsi krom(III) pada Chlo-Kit meningkat lebih dari 90% dibandingkan pada biomassa 
+
+Chlorella yang tidak terimobilisasi. Peningkatan kapasitas adsorpsi ini menunjukkan 
+
+kontribusi dari kitosan. Pada proses adsorpsi, kitosan tidak hanya berperan sebagai 
+
+material pendukung bagi biomassa Chlorella namun juga berperan dalam pengikatan ion 
+
+logam krom(III). Situs-situs aktif yang dimiliki oleh kitosan (amina dan hidroksil) dikenal 
+
+sebagai ligan yang mempunyai kemampuan sangat baik dalam mengikat ion logam 
+
+terutama dari golongan transisi seperti krom(III). Imobilisasi biomassa Chlorella pada 
+
+kitosan menghasilkan biosorben Chlo-Kit yang menunjukkan peningkatan kapasitas untuk 
+
+adsorpsi ion krom(III) sebagai bentuk sinergi situs-situs aktif dari masing-masing biomassa 
+
+dan kitosan. 
+
+ 
+
+KESIMPULAN 
+
+Biosorben dari bahan dasar biomassa mikroalga Chlorella sp terimobilisasi pada 
+
+kitosan (Chlo-Kit) telah berhasil dibuat untuk adsorpsi ion kromium(III) dalam larutan. 
+
+Biosorben Chlo-Kit dibuat melalui metode pelarutan kitosan dalam asam asetat, 
+
+imobilisasi biomassa pada kitosan hidrogel, pembentukan beads dan pengikatan silang 
+
+adsorben menggunakan epiklorohidrin. 
+
+Imobilisasi biomassa pada kitosan diperkirakan melibatkan mekanisme interaksi 
+
+elektrostatik antara gugus amina terprotonasi dari kitosan dengan gugus karboksilat dari 
+
+biomassa sehingga stabilitas biosorben Chlo-Kit yang dihasilkan meningkat dibandingkan 
+
+biomassa Chlorella tidak terimobilisasi. Adsorpsi krom(III) pada Chlo-Kit terjadi secara 
+
+optimum pada pH optimum 4-5 dan mengikuti dengan baik model isoterm adsorpsi 
+
+Langmuir. Perhitungan nilai kapasitas adsorpsi menunjukkan bahwa adsorpsi krom(III) 
+
+pada Chlo-Kit berlangsung lebih efektif sebagai bentuk sinergi gugus-gugus fungsional 
+
+pada biomassa dan kitosan dengan nilai am sebesar 68,965 mg/g dibandingkan pada kitosan 
+
+(am = 49,751 mg/g) dan pada biomassa tidak terimobilisasi (am = 36,101 mg/g). 
+
+ 

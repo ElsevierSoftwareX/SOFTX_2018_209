@@ -1,0 +1,795 @@
+﻿EVALUASI POLA RUANG
+BERBASIS KERAWANAN BANJIR
+DI KABUPATEN PIDIE
+
+Abstrak : Kabupaten Pidie merupakan salah satu Kabupaten di Provinsi Aceh yang sering dilanda
+banjir. Banyaknya bencana alam yang terjadi khususnya banjir dengan berbagai faktor penyebab
+mendorong semakin pentingnya peran pengurangan resiko bencana. Perencanaan penggunaan
+lahan yang tepat dan sesuai dengan mempertimbangkan aspek bencana khususnya banjir penting
+untuk dilakukan dan terintegrasi dalam rencana tata ruang. Tujuan penelitian ini adalah untuk
+menentukan faktor pembentuk rawan banjir, memetakan sebaran wilayah rawan banjir,
+menganalisis keterkaitan penggunaan lahan terhadap wilayah rawan banjir dan menganalisis
+keterkaitan rencana pola ruang RTRW terhadap wilayah rawan banjir. Penentuan faktor
+pembentuk rawan banjir menggunakan analisis multikriteria. Analisis spasial digunakan untuk
+analisis tingkat kerawanan banjir, keterkaitan penggunaan lahan pada wilayah rawan banjir dan
+keterkaitan rencana pola ruang pada wilayah rawan banjir. Hasil analisis menunjukkan faktor
+utama pembentuk potensi rawan banjir adalah tutupan/penggunaan lahan (0,408), curah hujan
+(0,266), lereng (0,184). Persentase luas wilayah berdasarkan potensi kerawanan banjir adalah
+37,75 % mendominasi kelas agak rawan, disusul kelas tidak rawan 30 % dan sedang 22,76 %.
+Tutupan/penggunaan lahan berdasarkan potensi kerawanan banjir adalah kelas tidak rawan
+(99,99 %) dan kelas agak rawan (97,57 %) didominasi oleh tutupan/penggunaan lahan berupa
+hutan, kelas kerawanan sedang (51,07 % ) dan 92,65 % kelas rawan didominasi oleh kebun
+campuran, 97 % kelas kerawanan sangat rawan didominasi oleh permukiman. Rencana pola
+ruang berdasarkan potensi kerawanan banjir adalah 95,44 % kawasan lindung mendominasi kelas
+tidak rawan dan agak rawan. Untuk kawasan budidaya 71,20 % mendominasi kelas kerawanan
+sedang, rawan dan sangat rawan.
+Kata kunci : analisis multikriteria, banjir, pola ruang, tutupan/penggunaan lahan
+
+Pendahuluan
+Indonesia merupakan negara yang memiliki potensi bencana yang sangat tinggi. Frekuensi kejadian bencana terus mengalami peningkatan dari tahun ke tahun terutama yang berkaitan dengan bencana hidrometeorologi seperti banjir, kekeringan, tanah longsor, kebakaran hutan/lahan, puting beliung dan gelombang pasang. Bencana hidrometeorologi terjadi rata-rata hampir 80 % dari total bencana yang terjadi di Indonesia setiap tahunnya (BNPB 2014). Banjir merupakan salah satu dari bencana hidrometeorologi yang sering terjadi di Indonesia. Kabupaten Pidie merupakan salah satu Kabupaten di Provinsi Aceh yang sering dilanda banjir. Berdasarkan data dari Badan Penanggulangan Bencana Daerah Kabupaten Pidie (BPBD 2014) dalam empat tahun terakhir (2011-2014) sebanyak 39 kali kejadian banjir menggenangi 241 desa di 22 kecamatan telah mengakibatkan 12 orang meninggal, 1.835 rumah, 5.185 ha lahan pertanian dan 50 km jalan serta berbagai fasilitas sarana prasarana infrastruktur pemerintah, publik maupaun masyarakat rusak. Kemunculan berbagai bencana ternyata antara lain dipicu oleh kerusakan ekosistem alam sebagai akibat pengabaian tata ruang (Deviana et al. 2007). Pengelolaan lahan yang kurang tepat, penataan penguasaan lahan yang kurang bijaksana serta penebangan hutan yang tidak terkendali menjadi bagian dari terjadinya banjir, erosi, tanah longsor, hilangnya kesuburan tanah maupun banyaknya lahan tidur yang kontra produktif dan mengganggu keseimbangan ekosistem (Riyadi 2011). Banyaknya bencana alam yang terjadi di Indonesia khususnya banjir dengan berbagai faktor penyebab mendorong semakin pentingnya peran pengurangan resiko bencana. Hyogo Framework for Action (HFA; Kerangka Aksi Hyogo), yang diputuskan pada Konferensi Pengurangan Resiko Bencana Dunia di Kobe pada tahun 2005, juga mengamanatkan perencanaan guna lahan (land use planning) atau perencanaan tata ruang sebagai salah satu alat untuk pengurangan resiko bencana (UNISDR 2005). Berbagai masalah yang berkaitan dengan banjir dan banyak aplikasi lainnya membuktikan bahwa masalah ini dapat diselesaikan melalui studi perencanaan dan proyek detil tentang daerah rawan banjir. Menentukan wilayah rawan banjir sangat penting bagi pengambil keputusan untuk perencanaan atau pengelolaan kegiatan (Yalcin dan Akyurek GA 2004). Untuk itu perencanaan penggunaan lahan yang tepat dan sesuai dengan mempertimbangkan aspek bencana khususnya banjir penting untuk dilakukan dan terintegrasi dalam rencana tata ruang.
+Berangkat dari hal tersebut perlu dilakukan suatu penelitian terkait pola ruang berbasis kerawanan banjir untuk mengetahui faktor-faktor yang mempengaruhi terjadinya banjir dan wilayah yang berpotensi terjadinya rawan banjir di Kabupaten Pidie agar dapat menjadi bahan informasi baik bagi masyarakat maupun bagi pemerintah sebagai bahan evaluasi dalam kebijakan penyusunan rencana tata ruang (RTRW) dan sebagai upaya pencegahan atau mitigasi dalam penyelenggaraan penanggulangan bencana khususnya banjir. Tujuan penelitian ini adalah : 1) menentukan faktor pembentuk rawan banjir di Kabupaten Pidie; 2) memetakan sebaran wialayah yang berpotensi terjadinya rawan banjir di Kabupaten Pidie; 3) menganalisis keterkaitan penggunaan lahan (eksisting) terhadap wilayah yang berpotensi terjadinya rawan banjir; dan 4) menganalisis keterkaitan rencana penggunaan ruang pada pola ruang RTRW Kabupaten Pidie terhadap wilayah yang berpotensi terjadinya rawan banjir.
+Metode
+Waktu dan Lokasi Penelitian
+Penelitian ini dilaksanakan mulai bulan Juli sampai dengan bulan Desember 2014. Lokasi penelitian di wilayah administrasi Kabupaten Pidie Provinsi Aceh, terletak pada koordinat 04030’ – 04060’ Lintang Utara dan 95075’ – 96020’ Bujur Timur, meliputi 23 Kecamatan dengan luas wilayah 3.562,15 km2 (BPS Kabupaten Pidie 2014).
+Jenis dan Sumber Data
+Data yang digunakan dalam penelitian ini terdiri atas data primer dan data sekunder. Data primer diperoleh dari wawancara yang dilakukan dengan responden (expert) dan survei lapangan untuk pengecekan data kejadian banjir, tutupan/penggunaan lahan, elevasi, kemiringan lereng, jenis tanah serta pengambilan dokumentasi. Sedangkan data sekunder berupa peta tematik, data statistik dan data-data lainnya yang dibutuhkan. Jenis data sekunder yang digunakan dalam penelitian meliputi : Citra Landsat 8 liputan Januari Tahun 2015, Peta kelerengan skala 1:50.000 Tahun 2011, Peta ketinggian 1:50.000 Tahun 2011, Peta Satuan Lahan dan Tanah skala 1 : 250.000, Peta Penggunaan Lahan skala 1: 50.000 Tahun 2011, Peta Curah Hujan Tahun 2011, Peta Rencana Pola Ruang RTRW Kabupaten Pidie 2014-2034 skala 1:50.000, Peta Potensi Desa (Podes) skala 1:250.000, Peta Administrasi Wilayah Kabupaten Pidie skala 1:250.000
+Metode Analisis Data
+Analisis data yang dilakukan meliputi analisis multikriteria, analisis spasial dan analisis deskriptif. Analisis spasial memanfaatkan Sistem Informasi Geografis (SIG), dengan menggunakan software GIS 10.1 dan Microsoft Excel 2007 untuk data atribut dan data tabulasi. Dari data (peta tematik) yang terkumpul dilakukan proses pemasukan data dalam bentuk digital (dijitasi) untuk selanjutnya dilakukan proses analisis faktor pembentuk rawan banjir, tingkat kerawanan banjir, keterkaitan penggunaan lahan (eksisiting) pada daerah rawan banjir dan keterkaitan rencana pola ruang pada daerah rawan banjir. Pembobotan faktor pembentuk rawan banjir dalam analisis multikriteria menggunakan metode Analytical Hierarchy Process (AHP) dan pengharkatan (skoring). Responden yang terlibat dalam proses AHP ini adalah 6 (enam) orang dengan latar belakang mewakili keahlian di bidang kebencanaan, sumber daya lahan (fisik) dan tata ruang. Pengolahan data kuesioner AHP dilakukan dengan menggunakan perangkat lunak program Expert Choice 2000.
+
+Peta Tematik (Faktor )
+(curah hujan, land cover/use,
+lereng, jenis tanah, elevasi)
+Analisis MCE
+- Set faktor dan subfaktor
+- Skoring dan pembobotan
+(Weighted analysis/AHP)
+Pemasukan
+Data
+Overlay
+(Penggabungan/Union)
+Peta Rawan
+Banjir
+Klasifikasi
+Peta
+Kejadian
+Data Kejadian
+Banjir
+Peta
+Administrasi
+Matching
+(intersect)
+Pemasukan
+Data
+Overlay
+(Penggabungan/
+Union)
+Peta Rencana
+Pola Ruang
+Evaluasi Pemanfaatan
+Ruang
+Peta Tutupan/
+Penggunaan Lahan
+Citra
+Update Landsat
+Peta Tutupan/
+Penggunaan Lahan
+Eksisting
+Overlay
+(Penggabungan/
+Union)
+
+
+Analisis Faktor Pembentuk Rawan Banjir
+Analisis faktor pembentuk rawan banjir bertujuan untuk menentukan seberapa besar
+tingkat kepentingan masing-masing faktor dan sub faktor dalam memberikan pengaruh
+terhadap pembentuk rawan banjir di Kabupaten Pidie. Metode analisis yang digunakan
+adalah analisis mutikriteria atau multicriteria evaluation (MCE) dan selanjutnya
+diintegrasikan ke dalam Sistem Informasi Geografis (SIG). MCE merupakan suatu proses
+terstruktur untuk menentukan tujuan dan menetapkan faktor. Masing-masing faktor terbagi
+atas subfaktor.
+Tahap pertama yang dilakukan dalam analisis MCE ini adalah menentukan faktor
+pembentuk rawan banjir yang diidentifikasi melalui pengamatan lapangan dan data
+sekunder. Ada 5 faktor pembentuk rawan banjir dalam penelitian ini, yaitu faktor
+tutupan/penggunaan lahan, curah hujan, jenis tanah, lereng dan elevasi. Kerangka analisis
+MCE untuk menentukan faktor pembentuk rawan banjir selengkapnya disajikan dalam
+Gambar 2.
+Tahap selanjutnya adalah menghitung atau mengkuantifikasi pengaruh relatif
+(pembobotan) masing-masing faktor dan subfaktor. Pada penelitian ini pembobotan untuk
+faktor pembentuk rawan banjir untuk faktor tutupan/penggunaan lahan dan jenis tanah
+dilakukan dengan pendekatan Analytical Hierarchy Process (AHP). Proses Hirarki Analisis
+(Analytical Hierarchy Process-AHP) dikembangkan oleh Thomas L. Saaty, seorang ahli
+matematika dari University of Pitsburg Amerika Serikat pada Tahun 1970-an. Menurut Saaty dalam Marimin (2010), AHP banyak digunakan pada pengambilan keputusan untuk
+sejumlah kriteria perencanaan, alokasi sumberdaya dan penentuan prioritas dari strategistrategi
+yang dimiliki dalam situasi konflik. Analisis ini sangat berguna pada situasi masalah
+yang memerlukan pendapat (judgement) maupun pada situasi yang kompleks, dimana
+terdapat keterbatasan data dan informasi statistik, dan hanya bersifat kualitatif yang
+didasarkan oleh pendapat, pengalaman atau intuisi.
+
+Tujuan
+Faktor
+Sub faktor
+Menentukan faktor pembentuk
+rawan banjir
+Tutupan/Penggunaan
+Lahan
+Curah Hujan Jenis Tanah Lereng Elevasi
+Hapludults
+Hapludalfs
+Eutrudepts
+Distrudepts
+Hapludands
+Fluvaquents
+- Permukiman, lahan
+terbangun, lahan
+terbuka
+- Pertanian, Kebun,
+Semak
+- Sawah
+- Tambak, tubuh air
+- Hutan
+1000-1600 mm
+1600-1750 mm
+1750-2000 mm
+2500-3000 mm
+0-8 %
+8-15 %
+15-25 %
+25-40 %
+> 40 %
+0-250 mdpl
+250-500 mdpl
+500-1000 mdpl
+1000-2000 mdpl
+> 2000 mdpl
+
+Gambar 2 Kerangka Analisis Multicriteria Evaluation (MCE)
+Pembobotan faktor pembetuk rawan banjir untuk faktor curah hujan, kelerengan dan
+elevasi dilakukan dengan pemberian harkat/skor dengan ketentuan standarisasi skor skala
+berkebalikan dimana faktor yang sangat berpengaruh akan memiliki nilai harkat/skor yang
+lebih tinggi dibandingkan dengan faktor yang kurang berpengaruh selanjutnya dilakukan
+pembobotan dengan menggunakan persamaan yang digunakan oleh Pusat Penelitian
+Tanah dan Agroklimat (Puslittanak 2004) :
+Dimana :
+r:...
+Wj = nilai yang dinormalkan;
+n = jumlah subfaktor (k= 1,2,3,...n); rj = posisi urutan subfaktor
+Skoring dan pembobotan faktor pembentuk rawan banjir untuk curah hujan, lereng
+dan elevasi ditunjukkan pada Tabel 1.
+
+
+Tabel 1 Skoring Dan Pembobotan
+Faktor Pembentuk Rawan Banjir Untuk Curah Hujan, Lereng Dan Elevasi
+No Faktor dan subfaktor Urutan Nilai Harkat (skor) Bobot
+1 Curah Hujan
+2500-3000 mm 1 4 0,40
+1750-2000 mm 2 3 0,30
+1600-1750 mm 3 2 0,20
+1000-1600 mm 4 1 0,10
+2 Lereng
+0-8 % 1 5 0,33
+8-15 % 2 4 0,27
+15-25 % 3 3 0,20
+25-40 % 4 2 0,13
+> 40 % 5 1 0,07
+3 Elevasi
+0-250 m dpl 1 5 0,33
+250-500 m dpl 2 4 0,27
+500-1000 m dpl 3 3 0,20
+1000-2000 m dpl 4 2 0,13
+> 2000 m dpl 5 1 0,07
+Analisis Tingkat Kerawanan Banjir
+Analisis ini bertujuan untuk melihat sebaran lokasi rawan banjir di Kabupaten Pidie
+dan tingkat kerawanannya. Ada 2 tahapan yang dilakukan dalam analisis ini yaitu
+pembuatan peta rawan banjir dan validasi peta rawan dengan data kejadian. Hasil dari
+analisis ini adalah peta rawan banjir Kabupaten Pidie. Pembuatan Peta Rawan Banjir
+didasarkan pada faktor pembentuk rawan banjir yang telah ditentukan dengan analisis
+MCE kemudian diintegrasikan ke dalam Sistem Informasi Geografis (SIG). Analisis MCE
+sering diintegrasikan dengan SIG karena merupakan teknik yang sangat baik dalam
+manajemen dan perencanaan ruang serta memiliki kemampuan dalam menangani
+masalah-masalah spasial (Lawal et al. 2011). Tahapan pertama yang dilakukan dalam
+pembuatan peta rawan banjir adalah pemasukan data (dijitasi) peta tematik dari masingmasing
+faktor yang telah ditentukan. Setelah bobot masing-masing faktor dan subfaktor
+diketahui dari analisis MCE selanjutnya nilai masing-masing bobot faktor dan subfaktor
+dimasukkan ke dalam persamaan WLC sebagai berikut :
+WLC = Xij x Wij
+Dimana : WLC = Weighted Linear Combination; Xij = Derajat kesesuaian
+faktor/subfaktor ke-j di lokasi ke-i; Wij = Bobot faktor/subfaktor ke-j di lokasi ke-i; n =
+Jumlah faktor.
+Dari hasil proses pembobotan kriteria dan indikator, nilai perkalian antara derajat
+kesesuaian subfaktor (Xij) dengan bobot faktor (Wij) dalam persamaan WLC dimasukkan ke
+dalam atribut (subfaktor) peta masing-masing faktor untuk dilakukan proses tumpang susun
+(overlay) dengan memanfaatkan tool penggabungan (union) pada perangkat ArcGIS 10.1.
+Penentuan kelas tingkat kerawanan banjir dilakukan setelah proses penggabungan peta
+yang telah dikuantifikasi selesai dengan menambahkan kolom pada atribut yang berisi nilai
+penjumlahan dari hasil penggabungan masing-masing peta faktor. Ada 5 tingkat kelas
+kerawanan banjir pada penelitian ini, yaitu kelas tidak rawan, agak rawan, sedang, rawan
+dan sangat rawan. Penentuan kelas kerawanan dilakukan dengan membagi sama
+banyaknya nilai-nilai kerawanan dengan jumlah interval kelas yang sama (equal interval),
+interval kelas ditentukan dengan persamaan :
+
+Setelah Peta Rawan dihasilkan selanjutnya dilakukan validasi peta rawan dengan
+data kejadian banjir bertujuan untuk melihat sejauh mana kecocokan (matching) antara
+peta rawan hasil analisis dengan sejarah kejadian banjir dilapangan. Proses pencocokan
+dilakukan dengan proses tumpang susun (overlay) antara peta rawan banjir dengan peta
+kejadian dengan memanfaatkan tool intersect pada perangkat ArcGIS 10.1.
+Analisis Keterkaitan Penggunaan Lahan Pada Wilayah Rawan Banjir
+Analisis keterkaitan penggunaan lahan pada kawasan rawan banjir bertujuan untuk
+melihat potensi kerawanan banjir pada penggunaan lahan eksisting di Kabupaten Pidie.
+Untuk melihat keterkaitan penggunaan lahan eksisting ditinjau dari potensi kerawanan
+banjir dilakukan dengan analisis spasial yaitu dengan mengintegrasikan (overlay) peta
+rawan banjir hasil analisis dengan peta penggunaan lahan. Dari hasil penggabungan antara
+peta penggunaan lahan dengan peta rawan banjir dapat dilihat wilayah yang berpotensi
+rawan banjir pada penggunaan lahan eksisting untuk selanjutnya dievaluasi sesuai dengan
+tingkat kerawanannya.
+Analisis Keterkaitan Rencana Pola Ruang Pada Wilayah Rawan Banjir
+Analisis keterkaitan rencana pola ruang pada kawasan rawan banjir bertujuan untuk
+melihat potensi kerawanan banjir pada rencana pola ruang RTRW Kabupaten Pidie. Untuk
+melihat keterkaitan rencana pola ruang ditinjau dari potensi kerawanan banjir dilakukan
+dengan analisis spasial yaitu dengan mengintegrasikan (overlay) peta rawan banjir hasil
+analisis dengan peta rencana pola ruang. Dari hasil penggabungan antara peta rencana pola
+ruang dengan peta rawan banjir dapat dilihat wilayah yang berpotensi rawan banjir pada
+rencana pola ruang yang telah disusun untuk selanjutnya dievaluasi sesuai dengan tingkat
+kerawanannya.
+Hasil Dan Pembahasan
+Faktor Pembentuk Rawan Banjir
+Hasil analasis AHP menunjukkan tingkat pengaruh masing-masing faktor dan
+subfaktor terhadap parameter pembentuk rawan banjir yang ditunjukkan dalam bentuk
+bobot. Berdasarkan hasil analisis AHP untuk faktor pembentuk rawan banjir yang
+ditunjukkan pada Gambar 3, faktor tutupan/penggunaan lahan memiliki nilai bobot
+tertinggi (0,408) dibandingkan dengan faktor yang lain. Faktor kedua yang memiliki bobot
+tertinggi adalah curah hujan (0,266), selanjutnya lereng (0,184), jenis tanah (0,087) dan
+yang terendah adalah elevasi (0,055).
+Tingginya nilai bobot tutupan/penggunaan lahan terhadap faktor pembentuk rawan
+banjir menunjukkan bahwa banjir sangat dipengaruhi oleh kondisi tutupan lahan suatu
+wilayah, semakin terbuka atau semakin banyak lahan-lahan yang terbangun maka semakin
+tinggi pengaruhnya terhadap potensi kerawanan banjir sebaliknya semakin rapat dan luas
+suatu lahan ditutupi oleh vegetasi maka semakin rendah pengaruhnya terhadap potensi kerawanan banjir. Hal ini tentunya tidak terlepas dari aktivitas manusia dalam hal penggunaan lahan karena pemanfaatan sumberdaya khususnya lahan dapat berakibat
+kepada perubahan kondisi tutupan suatu lahan. Sedangkan untuk faktor elevasi memiliki
+nilai bobot terendah menunjukkan bahwa banjir tidak selalu hanya terjadi pada wilayah
+dataran rendah akan tetapi juga terjadi pada wilayah dataran tinggi.
+Model Name: olahAHP2
+Priorities with respect to: Combined
+Goal: Faktor pembentuk rawan ba...
+Tutupan/Penggunaan lahan .408
+Curah Hujan .266
+Lereng .184
+Jenis Tanah .087
+Elevasi .055
+Inconsistency = 0.00
+with 0 missing judgments.
+3/13/2015 11:41:52 PM Page 1 of 1
+achmad
+Gambar 3 Hasil Analisis AHP Untuk Faktor Pembentuk Rawan Banjir
+Berdasarkan hasil analisis AHP untuk faktor tutupan/penggunaan lahan (Gambar 4)
+subfaktor permukiman/lahan terbangun dan lahan terbuka memiliki skor tertinggi (0,468)
+disusul pertanian, kebun dan semak belukar (0,247), sawah (0,128), tambak dan tubuh air
+(0,114) dan hutan memiliki skor terendah (0,043).
+Model Name: olahAHP
+Priorities with respect to: Combined
+Goal: Faktor pembentuk rawan banjir
+>Tutupan/Penggunaan lahan
+Permukiman/Lahan Terbangun dan .468
+Pertanian, Kebun, semak beluka .247
+Sawah .128
+Tambak, Tubuh Air .114
+Hutan .043
+Inconsistency = 0.02
+with 0 missing judgments.
+3/13/2015 11:47:27 PM Page 1 of 1
+Gambar 4 Hasil Analisis AHP Pembentuk Rawan Banjir
+Berdasarkan Faktor Tutupan/Penggunaan Lahan
+Permukiman/lahan terbangun dan lahan terbuka memiliki nilai bobot tertinggi
+menunjukkan bahwa wilayah yang memiliki kerapatan vegetasi yang jarang maupun tidak
+sama sekali dalam hal ini adalah lahan terbangun (permukiman) dan lahan terbuka sangat
+berpengaruh terhadap infiltrasi (proses masuknya air ke dalam tanah) sehingga terjadi
+aliran permukaan yang pada akhirnya dapat menyebabkan terjadinya banjir. Sebaliknya
+hutan memiliki nilai bobot terendah dikarenakan hutan merupakan tutupan bervegetasi
+rapat sehingga dapat menahan/mengurangi laju aliran permukaan.
+Berdasarkan hasil analisis AHP untuk faktor jenis tanah (Gambar 5) sub faktor jenis
+tanah hapludults memiliki skor tertinggi (0,342) disusul hapludalfs (0,276), eutrudepts
+(0,141), dystrudepts (0,126), hapludands (0,067) dan fluvaquents memeilik skor terendah
+(0,048).
+
+Priorities with respect to: Combined
+Goal: Faktor pembentuk rawan banjir
+>Jenis Tanah
+Hapludults .342
+Hapludalfs .276
+Eutrudepts .141
+Dystrudepts .126
+Hapludands .067
+Fluvaquents .048
+Inconsistency = 0.02
+with 0 missing judgments.
+3/13/2015 11:48:10 PM Page 1 of 1
+achmad
+Gambar 5 Hasil Analisis AHP Pembentuk Rawan Banjir Berdasarkan Faktor Jenis Tanah
+Dari keseluruhan hasil AHP yang diperoleh nilai indeks konsistensi (CI) masingmasing
+yaitu 0,00 untuk hasil AHP faktor pembentuk rawan banjir; 0,02 untuk hasil AHP
+subfaktor dari faktor tutupan/penggunaan lahan; dan 0,02 untuk hasil AHP subfaktor dari
+faktor jenis tanah. Nilai inkonsistensi (CR) masing-masing masih dibawah 10 % sehingga
+kriteria yang ditetapkan oleh Saaty < 10 % menunjukkan bahwa inkonsistensi yang terjadi
+dianggap masih dapat diterima.
+Tingkat Kerawanan Banjir
+Tingkat kerawanan banjir diperoleh dari integrasi faktor-faktor pembentuk rawan
+banjir yang telah dikuantifikasi dengan analisis MCE kedalam sistem informasi geografis
+(SIG) untuk menghasilkan peta rawan banjir dan tingkat kerawanannya. Selanjutnya dari
+peta rawan banjir yang dihasilkan dilakukan pencocokan (validasi) data kejadian
+dilapangan. Dari hasil pembobotan pada analisis faktor pembentuk rawan banjir maka
+persamaan WLC dapat ditulis :
+WLC = 0,408 X1 + 0,266 X2 + 0,184 X3 + 0,087 X4 + 0,055 X5
+Dimana WLC = weighted linear combination; X1 = Tutupan/penggunaan lahan; X2 =
+Curah hujan; X3 = lereng; X4 = jenis tanah; X5 = elevasi
+Dari hasil pembobotan pada analisis MCE, nilai perkalian bobot subfaktor dengan
+faktor (W*X) pada persamaan WLC selanjutnya dimasukkan kedalam atribut peta faktor
+dalam SIG untuk dilakukan proses penggabungan (overlay). Hasil dari proses
+penggabungan peta faktor menghasilkan poligon baru berikut nilai atribut hasil
+penggabungan. Berdasarkan hasil proses penggabungan peta faktor selanjutnya dilakukan
+penjumlahan nilai hasil pengabungan dengan menggunakan field calculator pada ArcGIS
+10.1 sesuai dengan persamaan WLC. Dari hasil penjumlahan diperoleh nilai terendah
+0,0711 dan nilai tertinggi 0,410. Dari nilai tersebut selanjutnya ditentukan kelas kerawanan
+dengan menggunakan metode klasifikasi equal intervals dengan jumlah kelas 5, maka
+diperoleh klasifikasi yang ditunjukkan pada Tabel 2 sebagai berikut :
+
+Tabel 2 Simbol Dan Klasifikasi Kelas Kerawanan Banjir
+Simbol Selang Keterangan
+0,0711 - 0,1370 Tidak Rawan
+0,1371 - 0,2030 Agak Rawan
+0,2031 - 0,2690 Sedang
+0,2691 - 0,3350 Rawan
+0,3351 - 0,4010 Sangat Rawan
+Hasil peta rawan berdasarkan klasifikasi kelas kerawanan ditunjukkan pada Gambar
+6. Secara spasial sebaran kerawanan banjir di Kabupaten Pidie untuk kelas tidak rawan dan
+agak rawan mendominasi wilayah bagian tengah sampai bagian selatan Kabupaten Pidie
+yang sebagian besar merupakan kawasan lindung. Sedangkan untuk kelas kerawanan
+sedang, rawan dan sangat rawan mendominasi bagian utara dan pesisir yang merupakan
+kawasan budidaya.
+Berdasarkan data luasan (Tabel 3), wilayah Kabupaten Pidie didominasi oleh kelas
+agak rawan seluas 119.907 ha atau 37,75 % dari luas wilayah, kelas tidak rawan 95.277 ha
+(30 %), sedang 72.300 ha (22,76 %), rawan 22.206 ha (6,99 %) dan sangat rawan 7.933 ha
+(2,50 %). Secara keseluruhan dari peta rawan yang dihasilkan 30 % wilayah Kabupaten
+Pidie tidak rawan dan 70 % masuk ke dalam kelas agak rawan, sedang, rawan dan sangat
+rawan.
+Tabel 3 Proporsi Luas Wilayah Berdasarkan Potensi Kerawanan Banjir
+No Kelas Kerawanan Banjir Selang
+Luas
+ha Persentase (%)
+1 Tidak Rawan 0,0711 - 0,1370 95.277 30,00
+2 Agak Rawan 0,1371 - 0,2030 119.907 37,75
+3 Sedang 0,2031 - 0,2690 72.300 22,76
+4 Rawan 0,2691 - 0,3350 22.206 6,99
+5 Sangat Rawan 0,3351 - 0,4010 7.933 2,50
+Total 317.621 100,00
+Dari data luasan per kecamatan, semua wilayah memiliki kelas kerawanan untuk
+kelas sedang dan kelas sangat rawan. Kecamatan Tangse memiliki luasan tertinggi untuk
+kelas kerawanan sedang, yaitu 14.497 ha atau setara 20,05 % dari total luasan kelas rawan
+sedang dan Kecamatan Pidie memliki luasan tertinggi untuk kelas sangat rawan, yaitu 696
+ha (8,77 %). Kecamatan Muara Tiga memiliki luasan tertinggi untuk kelas rawan, yaitu
+6.741 ha (29,14 %), hanya ada satu kecamatan yang tidak masuk pada kelas rawan yaitu
+kecamatan Kota Sigli. Untuk kelas tidak rawan didominasi oleh 4 kecamatan saja yaitu
+Kecamatan Tangse, Mane, Geumpang dan Tiro/trusep. Hal ini dimungkinkan karena
+kecamatan-kecamatan tersebut terutama Kecamatan Tangse, Mane dan Geumpang masih
+memliki tutupan lahan berupa vegetasi yang masih rapat yaitu kawasan hutan yang sangat
+luas. Kecamatan Geumpang memiliki luasan tertinggi untuk kelas tidak rawan yaitu 49,959
+ha (52,44 %) sedangkan untuk kelas agak rawan ada 12 kecamatan yang masuk dengan
+Kecamatan Tangse memliki luasan tertinggi yaitu 46.693 ha (38,94 %). Hasil selengkapnya
+untuk luas kerawanan perkecamatan disajikan dalam Tabel 4.
+Berdasarkan data kejadian bencana banjir yang diperoleh dari BPBD Kabupaten
+Pidie, selama periode Tahun 2011-2014 berdasarkan tanggal kejadian ada 39 kali kejadian
+banjir dimana banjir genangan sangat mendominasi, yaitu sebanyak 35 kejadian diikuti
+banjir bandang 3 kali kejadian dan banjir rob (pasang air laut) 1 kali kejadian. Dari 39
+kejadian tersebut sebanyak 241 desa dari 22 kecamatan terkena dampak dengan total
+luasan dampak mencapai 37.437 ha atau setara 11,78 % dari total luas wilayah Kabupaten
+Pidie. Hasil validasi peta rawan dengan data kejadian menunjukkan (Tabel 5) dari total 37.437 ha luas wilayah yang terkena dampak banjir 33.433 ha atau 89,33 % masuk kedalam
+kelas agak rawan, sedang, rawan dan sangat rawan.
+
+Tabel 4 Sebaran Luas Wilayah Masing-Masing Kecamatan Berdasarkan Potensi Kerawanan Banjir
+No Kecamatan
+Kelas (ha)
+Tidak Total (ha)
+Rawan
+Agak
+Rawan
+Sedang Rawan
+Sangat
+Rawan
+1 Batee - 12 3.753 452 289 4.506
+2 Delima - - 1.717 700 302 2.719
+3 Geumpang 49.959 8.242 4.325 437 200 63.163
+4 Glumpang Baro - - 882 105 213 1.201
+5 Glumpang Tiga - 2.110 2.219 698 370 5.398
+6 Grong-Grong - - 646 91 100 837
+7 Indrajaya - - 1.750 299 409 2.458
+8 Kembang Tanjung - - 2.664 195 478 3.337
+9 Keumala - 987 2.801 984 244 5.017
+10 Kota Sigli - - 272 - 224 496
+11 Mane 26.427 35.755 7.068 217 182 69.650
+12 Mila - 568 1.108 1.464 158 3.297
+13 Muara Tiga - 1.833 6.603 6.471 303 15.211
+14 Mutiara - - 1.101 233 329 1.663
+15 Mutiara Timur - 24 1.972 466 548 3.010
+16 Padang Tiji - 15.109 6.404 3.700 521 25.734
+17 Peukan Baro - - 1.208 208 429 1.844
+18 Pidie - - 2.142 99 696 2.937
+
+No Kecamatan
+Kelas (ha)
+Tidak Total (ha)
+Rawan
+Agak
+Rawan
+Sedang Rawan
+Sangat
+Rawan
+19 Sakti - - 2.233 1.317 458 4.008
+20 Simpang Tiga - - 1.928 159 403 2.490
+21 Tangse 16.407 46.693 14.497 607 303 78.506
+22 Tiro/Trusep 2.484 8.569 3.560 2.258 611 17.482
+23 Titeue
+5 1.445 1.046 163 2.659
+Total (ha) 95.277 119.907 72.300 22.206 7.933 317.621
+Tabel 5 Validasi Peta Rawan Dengan Data Kejadian Banjir Tahun 2011-2014
+No Kelas
+Luas
+Total Persentase (%)
+1 Tidak Rawan 3.994 10,67
+2 Agak Rawan 5.602 14,96
+3 Sedang 22.219 59,35
+4 Rawan 3.119 8,33
+5 Sangat Rawan 2.502 6,68
+Total 37.437 100,00
+Selebihnya hanya 3.994 ha atau 10,67 % saja yang masuk ke dalam kelas tidak
+rawan. Dari hasil validasi, kelas kerawanan sedang memiliki luasan terluas dengan 22.219
+ha atau 59,35 %. Berdasarkan hasil validasi dapat disimpulkan bahwa peta kerawanan
+banjir hasil penelitian sudah menunjukkan tingkat validasi yang cukup tinggi jika dikaitkan
+dengan data luasan dampak kejadian periode Tahun 2011-2014.
+Keterkaitan Penggunaan Lahan Pada Wilayah Rawan Banjir
+Kondisi tutupan/penggunaan lahan di Kabupaten Pidie masih sangat didominasi oleh
+kawasan hutan sedangkan untuk area penggunaan lainnya berupa aktivitas budidaya tipe
+penggunaan lahan umumnya untuk sawah, tambak dan pertanian lahan kering/kebun
+campuran. Berdasarkan data tutupan/penggunaan lahan dari bappeda Tahun 2011
+diupdate dengan data citra landsat 8 liputan Januari 2015, terdapat 9 kelas
+tutupan/penggunaan lahan di Kabupaten Pidie, yaitu hutan, industri, kebun campuran,
+lahan terbuka, permukiman, sawah, tambak, tambang dan tubuh air.
+Berdasarkan Peta Tutupan/penggunaan lahan (Gambar 7) 2/3 wilayah Kabupaten
+Pidie ditutupi hutan. Pola sebaran penggunaan lahan di Kabupaten Pidie dapat dilihat
+bahwa tutupan hutan masih mendominasi daerah-daerah dataran tinggi terutama di bagian
+selatan Kabupaten Pidie, daerah tersebut merupakan daerah pegunungan dengan
+ketinggian diatas 1000 m dpl dan kelerangan diatas 25 %. Aktivitas budidaya terutama
+sawah dan kebun terpusat di dekat dengan permukiman, pasar dan jalan terutama di
+wilayah bagian tengah sampai utara sedangkan untuk penggunaan lahan tambak terletak di
+bagian pesisir (utara) dekat dengan pantai. Luas hutan di Kabupaten Pidie mencapai
+215.621 ha atau 67,89 % dari total luas wilayah disusul kebun campuran 59.932 ha (18,87
+%), sawah seluas 27.385 ha (8,62 %) dan permukiman seluas 8.014 ha (2,52 %).
+Penggunaan lahan hutan di Kabupaten Pidie berupa hutan lindung, hutan produksi
+dan hutan rakyat (Tahura). Penggunaan lahan kebun campuran adalah berupa pertanian
+lahan kering, pertanian lahan basah, perkebunan dimana pola sebaran dan luasannya
+bercampur hal ini dikarenakan skala usaha baik itu pertanian dan perkebunan masih kecil
+sehingga banyak petani cenderung memanfaatkan luas lahannya disamping untuk budidaya
+pertanian juga perkebunan. Penggunaan lahan industri hanya berupa industri garam karena tidak ada industri industri skala besar di Kabupaten Pidie, semua produk baik pertanian
+maupun perkebunan selain dioalah pada industri skala rumah tangga juga langsung
+dipasarkan keluar daerah dalam bentuk bahan mentah (baku). Penggunaan lahan untuk
+tubuh air adalah berupa sungai dan waduk/danau bentukan alam.
+
+Dalam kaitannya dengan potensi kerwanan banjir, hutan memiliki luasan tertinggi
+untuk kelas kerawanan tidak rawan yaitu 94.306 ha dan kelas agak rawan 117.064 ha.
+Kebun campuran memiliki luasan tertinggi untuk kelas kerawanan sedang 36.751 ha dan
+rawan 22.321 ha. Untuk kelas kerawanan sangat rawan permukiman memilik luasan
+tertinggi 7.033 ha. Hasil selengkapnya ditunjukkan pada Tabel 7.
+Tabel 6 Proporsi luas tutupan/penggunaan lahan di Kabupaten Pidie Tahun 2015
+No Tutupan/Penggunaan Lahan
+Luas
+ha Persentase (%)
+1 Hutan 215.621 67,89
+2 Kebun Campuran 59.932 18,87
+3 Sawah 27.385 8,62
+4 Permukiman 8.014 2,52
+5 Tambak 4.481 1,41
+6 Tubuh Air 1.444 0,45
+7 Lahan Terbuka 508 0,16
+8 Industri 136 0,04
+9 Tambang 100 0,03
+Total 317.621 100,00
+
+Tabel 7 Penggunaan Lahan Eksisting Kabupaten Pidie Ditinjau Dari Potensi Kerawanan Banjir
+Tutupan/Penggunaan lahan Tidak Rawan Agak Rawan Sedang Rawan
+Sangat
+Rawan
+Hutan 94.306 117.064 4.252 - -
+Industri - - - - 136
+Kebun Campuran - 860 36.751 22.321 -
+Lahan Terbuka - - - 502 5
+Permukiman - - 31 950 7.033
+Sawah - 1.452 25.657 276 -
+Tambak - 3 4.437 40 -
+Tambang - - - - 100
+Tubuh Air 3 607 831 3 -
+Total 94.308 119.985 71.961 24.093 7.274
+Keterkaitan Rencana Pola Ruang Pada Wilayah Rawan Banjir
+Rencana pola ruang wilayah Kabupaten Pidie ditetapkan berdasarkan kondisi
+eksisting penggunaan lahan, kriteria kesesuaian lahan, dan kebijakan strategis daerah
+Kabupaten Pidie, serta pada pola ruang yang diarahkan menurut Rencana Tata Ruang
+Wilayah Nasional dan Rencana Tata Ruang Wilayah Aceh.
+Rencana pola ruang Kabupaten Pidie terdiri dari kawasan lindung dan kawasan
+budidaya (Tabel 8). Kawasan lindung didefinisikan sebagai kawasan yang ditetapkan
+dengan fungsi utama melindungi kelestarian lingkungan hidup yang mencakup sumberdaya
+alam, sumberdaya buatan dan nilai sejarah, serta budaya untuk kepentingan pembangunan
+berkelanjutan. Hutan lindung merupakan kawasan lindung yang terluas di Kabupaten Pidie
+yaitu 178.051 ha (56,06 %). Kawasan budidaya adalah kawasan yang ditetapkan dengan
+fungsi utama untuk dibudidayakan atas dasar kondisi dan potensi sumberdaya alam,
+sumberdaya buatan, dan sumberdaya manusia. Secara umum rencana kawasan budidaya di
+Kabupaten Pidie didominasi oleh perkebunan seluas 46.017 ha (14,49%), hutan produksi
+seluas 36.428 ha (11,47 %) dan pertanian lahan basah seluas 27.843 ha (8,77 %).
+Tabel 8 Rencana Pola Ruangkawasan Lindung Kabupaten Pidie 2014-2034
+No Pola Ruang (RTRW) Luas (ha) Persentase (%)
+I Kawasan Lindung
+1 Hutan Lindung 178.051 56,06
+2 Mangrove 44 0,01
+3 TAHURA 74 0,02
+4 Ruang Terbuka Hijau 27 0,01
+5 Bendungan/Waduk 1.407 0,44
+6 Sempadan Sungai 5.158 1,62
+7 Sempadan Danau 35 0,01
+8 Sempadan Bendungan/waduk 524 0,17
+9 Sempadan Pantai 299 0,09
+Total Kawasan Lindung (ha) 185.620 58,44
+II Kawasan Budidaya
+1 Hutan Produksi 36.428 11,47
+2 Hutan Produksi Konversi 2.094 0,66
+3 Lokasi Transmigrasi 2.468 0,78
+4 Industri 112 0,04
+5 Perkebunan 46.017 14,49
+6 Pertanian Lahan Basah 27.843 8,77
+7 Pertanian Lahan Kering 1.557 0,49
+8 Holtikultura 2.717 0,86
+9 Peternakan 222 0,07
+
+No Pola Ruang (RTRW) Luas (ha) Persentase (%)
+10 Permukiman Perkotaan 471 0,15
+11 Permukiman Pedesaan 6.699 2,11
+12 Tambak 3.722 1,17
+13 Tambang 1.652 0,52
+Total Kawasan Budidaya (ha) 132.001 41,56
+Total (ha) 317.621 100,00
+Berdasarkan peta rencana pola ruang (Gambar 8), sebaran kawasan budidaya hampir
+seluruhnya mendominasi di bagian utara Kabupaten Pidie dari pesisir sampai dengan
+bagian tengah wilayah Kabupaten Pidie. Sedangkan Bagian tengah sampai dengan selatan
+didominasi pola ruang kawasan lindung.
+
+Gambar 8 Rencana Pola Ruang Kabupaten Pidie 2012-2032
+Dalam kaitannya dengan perencanaan ruang berbasis kebencanaan khususnya banjir
+secara umum kebijakan alokasi ruang dalam rencana pola ruang untuk kawasan lindung
+sudah memenuhi ketentuan yang diatur dalam UU nomor 26 Tahun 2007 dimana
+tersedianya alokasi ruang untuk hutan lindung, kawasan lindung setempat dan ruang
+terbuka hijau. Akan tetapi proporsi ruang terbuka hijau untuk daerah perkotaan masih
+belum sesuai (30 %) walaupun secara umum Kabupaten Pidie memiliki luas hutan lindung
+diatas 50 %, mengingat pentingnya fungsi ruang terbuka hijau baik itu dari aspek ekologi
+maupun dalam kaitannya dengan potensi banjir di perkotaan maka proporsi ruang terbuka
+hijau seluas minimal 30 % di daerah perkotaan kiranya dapat dilaksanakan secara
+maksimal. Sementara itu terkait dengan kawasan perlindungan setempat terutama
+sempadan sungai yang sudah terbangun permukiman tentunya kebijakan harus diarahkan pada perencanaan dengan pendekatan yang mengarah kepada pengurangan dampak resiko banjir. Keterkaitan rencana pola ruang Kabupaten Pidie ditinjau dari potensi kerawanan banjir ditunjukkan oleh hasil integrasi antara peta rawan banjir dengan peta rencana pola ruang RTRW Kabupaten Pidie. Berdasarkan hasil integrasi peta tersebut (Tabel 9) dari total luas kawasan lindung 185.620 ha sebesar 95,44 % atau seluas 177.164 ha masuk kedalam kelas tidak rawan dan agak rawan. Selebihnya hanya 4,56 % atau seluas 8.456 ha saja yang masuk kedalam kelas kerawanan sedang, rawan dan sangat rawan. Untuk kawasan budidaya dari total luas kawasan 132.001 ha sebesar 71,20 % atau seluas 93.982 ha masuk kedalam kelas kerawanan sedang, rawan dan sangat rawan. Selebihnya 28,80 % atau seluas 38,019 ha masuk kedalam kelas tidak rawan dan agak rawan. Hasil ini menunjukkan bahwa dilihat dari rencana pola ruang berdasarkan potensi kerawanan banjir untuk kawasan lindung didominasi oleh kelas tidak rawan dan agak rawan sedangkan untuk kawasan budidaya didominasi oleh kelas kerawanan sedang, rawan dan sangat rawan.
+Tabel 9 Proporsi Keterkaitan Rencana Pola Ruang Kawasan Lindung Dan Kawasan Budidaya Ditinjau Dari Potensi Kerawanan Banjir
+Kelas Kerawanan Banjir
+Lindung (Ha)
+Persentase %
+Budidaya (Ha)
+Persentase %
+Tidak Rawan
+92.575
+49,87
+2.702
+2,05
+Agak Rawan
+84.590
+45,57
+35.317
+26,75
+Sedang
+5.859
+3,16
+66.441
+50,33
+Rawan
+2.214
+1,19
+19.992
+15,15
+Sangat Rawan
+383
+0,21
+7.550
+5,72
+Jumlah
+185.620
+100,00
+132.001
+100,00
+Dalam kaitannya dengan potensi rawan banjir pada rencana pola ruang kawasan lindung, hutan lindung memiliki luasan tertinggi untuk kelas kerawanan tidak rawan yaitu seluas 92.551 ha, agak rawan seluas 83.698 ha dan sangat rawan seluas 327 ha. Sedangkan sempadan sungai memiliki luasan tertinggi untuk kelas kerawanan sedang yaitu seluas 3.136 ha dan rawan seluas 1.229 ha. Hal ini dikarenakan secara karakteristik topografi hutan lindung berada pada kelerengan diatas 25 % dan ketinggian diatas 1000 m dpl dengan tutupan/penggunaan lahan berupa hutan bervegetasi rapat sehingga berdasarkan kriteria pembentuk rawan banjir merupakan daerah yang tidak rawan. Sedangkan sempadan sungai secara karakteristik topografi berada pada kelerangan 0 – 8% dengan penggunaan lahan yang lebih terbuka yang berdasarkan kriteria pembentuk rawan banjir merupakan daerah rawan. Hasil selengkapnya rencana pola ruang kawasan lindung ditinjau dari potensi kerawanan banjir disajikan pada tabel 10.
+Tabel 10 Rencana Pola Ruang Kawasan Lindung Kabupaten Pidie Ditinjau Dari Potensi Kerawanan Banjir
+No
+Rencana Pola Ruang (RTRW) Kawasan Lindung
+Kelas (ha)
+Tidak Rawan
+Agak Rawan
+Sedang
+Rawan
+Sangat Rawan
+1
+Hutan Lindung
+92.551
+83.698
+1.403
+71
+327
+2
+Mangrove
+-
+-
+44
+-
+-
+3
+TAHURA
+-
+60
+-
+14
+-
+4
+Ruang Terbuka Hijau
+-
+-
+14
+2
+11
+5
+Bendungan/Waduk
+-
+52
+656
+699
+-
+6
+Sempadan Sungai
+-
+751
+3.136
+1.229
+42
+7
+Sempadan Danau
+23
+11
+1
+-
+-
+8
+Sempadan Bendungan
+-
+16
+311
+197
+-
+9
+Sempadan Pantai
+-
+-
+294
+2
+3
+Total (ha)
+92.575
+84.590
+5.859
+2.214
+383
+
+Untuk kawasan budidaya, hutan produksi konversi memiliki luasan tertinggi untuk kelas kerawanan tidak rawan yaitu seluas 1.146 ha. Hutan produksi memiliki luasan tertinggi untuk kelas kerawanan agak rawan yaitu seluas 26.972 ha. Untuk kelas kerawanan sedang didominasi pertanian lahan basah seluas 26.697 ha dan perkebunan seluas 25.772 ha. Perkebunan juga memliki luasan tertinggi untuk kelas rawan yaitu seluas 12.629 ha. Permukiman perdesaan memiliki luasan tertinggi untuk kelas sangat rawan yaitu seluas 6.306 ha. Hasil selengkapnya rencana pola ruang kawasan budidaya ditinjau dari potensi kerawanan banjir disajikan pada Tabel 11
+Tabel 11 Rencana Pola Ruang Kawasan Budidaya Kabupaten Pidie Ditinjau Dari Potensi Kerawanan Banjir
+No
+Rencana Pola Ruang (RTRW) Kawasan Budidaya
+Kelas (ha)
+Tidak Rawan
+Agak Rawan
+Sedang
+Rawan
+Sangat Rawan
+1
+Hutan Produksi
+630
+26.972
+4.862
+3.860
+104
+2
+Hutan Produksi Konversi
+1.146
+912
+31
+5
+-
+3
+Lokasi Transmigrasi
+154
+143
+1.535
+627
+9
+4
+Industri
+-
+-
+-
+-
+112
+5
+Perkebunan
+772
+6.744
+25.772
+12.629
+100
+6
+Pertanian Lahan Basah
+-
+527
+26.697
+319
+300
+7
+Pertanian Lahan Kering
+-
+4
+1.299
+254
+-
+8
+Holtikultura
+-
+-
+1.059
+1.620
+38
+9
+Peternakan
+-
+-
+124
+91
+7
+10
+Permukiman Perkotaan
+-
+-
+8
+5
+458
+11
+Permukiman Pedesaan
+-
+12
+211
+170
+6.306
+12
+Tambak
+-
+3
+3.702
+1
+16
+13
+Tambang
+-
+-
+1.142
+410
+100
+Total (ha)
+2.702
+35.317
+66.441
+19.992
+7.550
+Kesimpulan
+Berdasarkan hasil penelitian di Kabupaten Pidie dapat disimpulkan bahwa faktor pembentuk potensi rawan banjir menggunakan pendekatan analytical hierarchy proses (AHP) adalah tutupan/penggunaan lahan (0,408), curah hujan (0,266), lereng (0,184), jenis tanah (0,087) dan elevasi (0,055). Luas wilayah berdasarkan potensi kerawanan banjir adalah kelas agak rawan memiliki luasan tertinggi yaitu 119.907 ha atau 37,75 % dari luas wilayah, disusul kelas tidak rawan 95.277 ha (30 %), sedang 72.300 ha (22,76 %), rawan 22.206 ha (6,99 %) dan sangat rawan 7.933 ha (2,50 %). Hasil integrasi peta rawan dengan peta tutupan/penggunaan lahan menunjukkan bahwa hutan memiliki luasan tertinggi untuk kelas kerawanan tidak rawan (94.306 ha) dan kelas agak rawan (117.064 ha), kebun campuran memiliki luasan tertinggi untuk kelas kerawanan sedang (36.751 ha) dan rawan (22.321 ha), permukiman memiliki luasan tertinggi untuk kelas kerawanan sangat rawan (7.033 ha). Hasil integrasi peta rawan banjir dengan peta pola ruang menunjukkan 95,44 % atau seluas 177.164 ha kawasan lindung masuk kedalam kelas tidak rawan dan agak rawan. Untuk kawasan budidaya dari total luas kawasan 132.001 ha sebesar 71,20 % atau seluas 93.982 ha masuk kedalam kelas kerawanan sedang, rawan dan sangat rawan.

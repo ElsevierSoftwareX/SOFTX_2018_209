@@ -1,0 +1,146 @@
+﻿Telah dilakukan penelitian mengenai desain reaktor air superkritis (SCWR) model
+teras silinder menggunakan bahan bakar Uranium-Thorium. Analisis neutronik
+dilakukan menggunakan program System Reactor Atomic Code (SRAC) yang
+dikembangkan oleh Japan Atomic Energy Research Institute (JAERI). Parameter
+neutronik yang dianalisis pada penelitian ini meliputi persentase pengayaan bahan
+bakar, ukuran teras reaktor, dan konfigurasi teras reaktor yang memenuhi standar
+kekritisan. Analisis dilakukan menggunakan CITATION pada SRAC dengan teras
+reaktor berbentuk silinder dua dimensi (r,z) pada 1/4 bagian teras. Input pada
+penelitian ini berupa densitas atom, fraksi volume, dan daya termal. Hasil yang
+diperoleh berupa faktor multiplikasi dan distribusi rapat daya yang telah
+dihomogenisasi dan collapsing sesuai dengan grup yang telah ditentukan. Bahan
+bakar yang digunakan pada penelitian ini adalah Uranium-233 dan Thorium-232,
+stainless steel sebagai selonsong, air ringan sebagai moderator dan pendingin.
+Hasil simulasi menunjukkan desain teras reaktor dengan ukuran baris (r) = 130
+cm dan kolom (z) = 180 cm, pengayaan pada inner fuel sebesar 1,7805%, dan
+pada outer fuel sebesar 2,5% mempunyai nilai faktor mulplikasi dan distribusi
+rapat daya yang paling optimal. Desain ini menghasilkan daya termal 3000
+MWth, rapat daya maksimal sebesar 199,6577 Watt/cm3, dan nilai k-efektif
+1,000008.
+Kata kunci: Analisis neutronik , desain inti, rapat daya, SCWR, thorium,
+uranium.
+
+I. PENDAHULUAN
+A. Latar Belakang
+Permintaan akan kebutuhan energi yang semakin meningkat seiring dengan
+pertambahan jumlah penduduk. Menurut proyeksi Badan Energi Dunia
+(International Energy Agency-IEA), hingga tahun 2030 permintaan energi dunia
+meningkat 45% atau rata-rata meningkat 1,6% per tahun, sedangkan kebutuhan
+energi di Indonesia naik sebesar 6% per tahun. Sebagaian besar atau sekitar 80%
+kebutuhan energi dunia tersebut dipasok dari bahan bakar fosil (ESDM, 2016).
+Bahan bakar fosil merupakan sumber energi tidak terbarukan, sedangkan sumber
+energi terbarukan seperti angin, gelombang pasang surut, matahari, air, panas
+bumi hanya akan mampu mensuplai sekitar 20% kebutuhan energi (Duffey,
+1999). Selain itu, perubahan iklim yang terjadi sudah memasuki tahap
+menghawatirkan. Penggunaan bahan bakar fosil telah menyumbang 33% karbon
+di atmosfer per tahun yang berdampak pada efek pemanasan global (Ashby dan
+Smidman, 2010).
+Salah satu energi alternatif terhadap masalah yang disebabkan oleh semakin
+berkurangnya sumber energi fosil serta dampak lingkungan yang ditimbulkannya
+adalah energi nuklir. Energi nuklir merupakan energi bersih dan efisien guna
+menekan emisi gas karbon. Secara umum, energi nuklir dapat dihasilkan melalui
+dua mekanisme, yaitu pembelahan inti atau reaksi fisi dan penggabungan
+beberapa inti melalui reaksi fusi (Duderstadt dan Hamilton, 1976). Adapun reaksi
+fisi atau pembelahan inti merupakan mekanisme yang banyak digunakan untuk
+menghasilkan energi nuklir melalui sebuah reaktor.
+Konsep dasar dari sebuah reaktor adalah reaksi fisi dari suatu material, material
+tersebut berupa material fisil dan material fertil. Material fisil merupakan material
+yang akan mengalami pembelahan ketika ditembak oleh sebuah neutron,
+sedangkan material fertil merupakan material yang akan menangkap neutron dan
+melalui peluruhan radioaktif akan berubah menjadi material fisil.
+Bahan bakar yang digunakan pada penelitian ini yaitu Uranium-233 yang secara
+alami bersifat fisil dan Thorium-232 yang merupakan material fertil (Lewis,
+2008). Penggunaan thorium sebagai bahan bakar nuklir lebih murah, lebih ramah
+lingkungan dan lebih aman. Thorium lebih murah karena jumlah kelimpahannya
+yang banyak dibanding uranium. Bahan bakar thorium lebih ramah lingkungan
+karena mengurangi emisi gas CO2 dari sektor energi listrik (Wilson et al., 2008).
+Laju reaksi fisi yang terjadi di dalam reaktor harus dikendalikan agar perubahan
+jumlah neutron dapat dibatasi sehingga hanya terdapat satu neutron yang akan
+diserap pada pembelahan inti berikutnya. Dengan mekanisme tersebut, diperoleh
+reaksi berantai yang terkendali sehingga dapat terjamin keamanannya dan energi
+yang dihasilkan dapat dimanfaatkan sesuai dengan kebutuhan (Zweifel, 1973).
+Secara umum, perubahan jumlah neutron akibat reaksi fisi dapat dirumuskan
+dengan faktor multiplikasi (keff). Faktor multiplikasi menggambarkan tingkat
+kestabilan reaksi fisi berantai di dalam teras reaktor, dimana keadaan stabil (kritis)
+dicapai jika nilai keff =1 (Stacey, 2001).
+Perkembangan mengenai reaktor sangat luas seiring dengan peningkatan
+kebutuhan energi. Perkembangan ini dimaksudkan untuk menghasilkan reaktor
+nuklir modern dengan sistem keamanan yang tinggi dan juga memasok energi
+termal untuk industri. Reaktor modern dibuat lebih kompleks, tidak hanya bahan
+bakar yang dibuat dengan sangat hati-hati, akan tetapi juga menyediakan
+pendingin (coolant) selama berlangsungnya reaksi fisi dan pelepasan energi.
+Reaktor generasi IV merupakan salah satu jenis reaktor modern, oleh karena itu
+PLTN generasi IV tidak lagi disebut sebagai PLTN tetapi Sistem Energi Nuklir
+(SEN). Terdapat enam tipe reaktor generasi IV yaitu Reaktor Cepat dengan
+Pendingin Gas (Gas Cooled Fast Reactor) (GFR), Reaktor Cepat dengan
+Pendingin Metal Cair (Lead Cooled Fast Reactor) (LFR), Reaktor Garam Cair
+(Molten Salt Reactor) (MSR), Reaktor dengan Pendingin Sodium (Sodium Cooled
+Fast Reactor) (SFR), Reaktor Air Superkritis (Supercritical Water Cooled
+Reactor) (SCWR), Reaktor Temperatur Sangat Tinggi (Very High Temperature
+Reactor) (VHTR) (Duderstadt dan Hamilton, 1976).
+Salah satu jenis reaktor generasi IV yang banyak dikembangkan adalah
+Supercritical Water Reactor (SCWR) karena memiliki tingkat efisiensi termal
+yang tinggi (Ammirabile, 2010). Menurut Tsiklauri, et al. (2004) pembangunan
+yang cukup sederhana, ukuran fisik yang lebih kecil namun mampu menghasilkan
+energi yang besar, sehingga SCWR juga memberikan potensi penghematan dalam
+hal biaya.
+
+Adapun reaktor jenis SCWR merupakan reaktor air yang bekerja diatas titik kritis
+air, yang beroperasi pada tekanan 25 MPa menggunakan air sebagai pendingin
+dan moderator dengan titik kritis air sebesar 22,1 MPa (Oka, et al., 2003). Desain
+SCWR lebih difokuskan untuk memperoleh efisiensi termal yang tinggi dengan
+konfigurasi sistem yang sederhana. Tantangan yang dihadapi peneliti pada proses
+desain reaktor jenis SCWR adalah mengembangkan desain inti yang layak dan
+akurat dengan memperkirakan koefisien perpindahan panas, dan mengembangkan
+bahan-bahan untuk struktur bahan bakar dan inti yang cukup tahan akan korosi
+untuk mempertahankan keadaan kritisnya (World Nuclear, 2016).
+Dalam perancangan desain reaktor, diperlukan analisis yang komprehensif salah
+satunya yaitu analisis neutronik yang meliputi penentuan pengayaan bahan bakar,
+ukuran teras reaktor, konfigurasi teras reaktor yang memenuhi standar kekritisan.
+Serangkaian perhitungan neutronik diperlukan untuk mengetahui informasi
+mengenai persediaan dan fraksi fisil yang dibutuhkan, distribusi fluks neutron dan
+distribusi daya pada teras reaktor. Analisis neutronik diawali dengan penyelesaian
+persamaan difusi untuk memperoleh gambaran distribusi neutron, faktor
+multiplikasi dan distribusi daya di dalam reaktor.
+Penelitian ini bertujuan untuk mengetahui karakteristik neutronik teras reaktor
+SCWR dengan model teras silinder (r,z) terhadap nilai faktor multiplikasi dan
+distribusi rapat daya pada teras reaktor. Analisis neutronik dilakukan dengan
+menggunakan program System Reactor Atomic Code (SRAC) yang
+dikembangkan oleh Japan Atomic Energy Research Institute (JAERI) pada tahun
+1978. Program ini dapat membantu dalam mendesain dan menganalisa reaktor,
+khususnya reaktor termal. Program ini digunakan sebagai sistem kode neutronik
+untuk mensimulasikan perilaku nuklir di dalam teras reaktor (Okumura, 2006).
+B. Rumusan Masalah
+Rumusan masalah pada penelitian ini adalah sebagai berikut.
+1. Bagaimanakah persentase komposisi bahan bakar yang tepat pada reaktor jenis
+SCWR model teras silinder (r,z)?
+2. Bagaimanakah ukuran fraksi volume dan densitas atom yang tepat pada reaktor
+jenis SCWR model teras silinder (r,z)?
+3. Bagaimanakah ukuran yang efisien untuk jenis SCWR model teras silinder
+(r,z)?
+4. Bagaimanakah pengaruh persentase pengayaan bahan bakar berhadap harga kefektif?
+5. Bagaimanakah konfigurasi desain teras reaktor yang ideal untuk jenis SCWR
+model teras silinder (r,z)?
+C. Batasan Masalah
+Batasan masalah pada penelitian ini adalah sebagai berikut.
+1. Desain reaktor yang akan dibuat adalah reaktor termal jenis reaktor SCWR
+model teras silinder (r,z).
+2. Bahan bakar yang digunakan adalah Uranium-233 dan Thorium-232.
+3. Penghitungan pada teras reaktor (core) dilakukan secara 2 dimensi (r,z) pada
+1/4 bagian teras silinder.
+
+D. Tujuan Penelitian
+Tujuan pada penelitian ini adalah sebagai berikut.
+1. Membuat desain sebuah reaktor SCWR model teras silinder menggunakan
+bahan bakar Uranium-233 dan Thorium-232.
+2. Menentukan persentase pengayaan bahan bakar Uranium-233 dan Thorium-
+232.
+3. Menentukan ukuran teras silinder pada reaktor SCWR.
+4. Menentukan konfigurasi desain teras reaktor yang memenuhi kriteria kekritisan
+dan menghasilkan energi secara maksimal.
+E. Manfaat Penelitian
+Manfaat dari penelitian ini adalah sebagai berikut.
+1. Mendukung perkembangan penelitian di bidang reaktor nuklir.
+2. Memberikan kontribusi dalam masalah alternatif energi bersih.
+3. Memberikan informasi ilmiah mengenai desain reaktor nuklir yang memiliki
+efisien tinggi dan memenuhi standar kekritisan.

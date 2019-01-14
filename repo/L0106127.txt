@@ -1,0 +1,649 @@
+﻿OPTIMASI FERMENTASI BAGAS TEBU OLEH Zymomonas mobilis CP4 (NRRL
+B-14023) UNTUK PRODUKSI BIOETANOL
+
+
+ABSTRAK
+Bioetanol generasi kedua dapat diproduksi dari fermentasi bahan terbarukan, seperti produk hasil pertanian, dan limbah
+atau hasil samping pengolahan industri dan rumah tangga. Tujuan penelitian ini adalah optimasi parameter fermentasi
+yang meliputi konsentrasi inokulum, konsentrasi urea, dan lama fermentasi untuk produksi etanol dari bagas tebu oleh
+Zymomonas mobilis CP4 dengan menggunakan response surface methodology (RSM) central composite experimental
+design (CCD). Kondisi respon yang optimal berdasarkan prediksi model diperoleh pada konsentrasi inokulum 15%
+(v/v), konsentrasi urea 0,3% (b/v), dan lama fermentasi 45 jam, dengan prediksi respon kadar etanol sebesar 1,257%
+(v/v). Berdasarkan hasil penelitian, kadar etanol optimal diperoleh sebesar 1,213% (v/v), yang menunjukkan hasil
+yang tidak berbeda jauh dengan prediksi model. Yield etanol yang diperoleh sebesar 0,479 dengan efi siensi fermentasi
+93,9%. Hasil penelitian ini membuktikan bahwa strain bakteri Zymomonas mobilis CP4 memiliki potensi yang cukup
+menjanjikan sebagai mikroba penghasil etanol.
+Kata kunci: Bioetanol, bagas tebu, Zymomonas mobilis CP4, optimasi fermentasi
+
+
+PENDAHULUAN
+Kebutuhan etanol untuk berbagai tujuan seperti
+alternatif sumber energi, pelarut, cleansing agents dan
+pengawet, menyebabkan produksi etanol semakin meningkat.
+Disamping itu, sumber bahan bakar fosil yang semakin
+menipis ketersediaannya dan kebutuhan akan bahan bakar
+yang ramah lingkungan, menjadi fokus penelitian dunia saat
+ini untuk menemukan sumber energi yang baru, bersih dan
+murah (Afi fi dkk., 2011). Bioetanol merupakan salah satu
+sumber energi alternatif yang berpotensi sebagai biofuel
+untuk menggantikan bahan bakar fosil dan bersifat ramah
+lingkungan (Um, 2007).
+Pengembangan bioetanol generasi kedua diproduksi dari
+bahan berlignoselulosa yang dapat menjaga ketersediaan ian
+(Rabelo dkk., 2011). Bagas tebu adalah bahan berlignoselulosa
+yang berpotensi sebagai bahan baku bioetanol. Sebanyak 10,5 juta ton per tahun bagas tebu dihasilkan dari 61 pabrik gula
+yang aktif giling pada tahun 2008 (Santoso, 2011). Sekitar
+60% dari jumlah bagas tebu yang dihasilkan dimanfaatkan
+oleh pabrik gula sebagai bahan bakar dan diperkirakan
+40% dari bagas tebu tersebut belum dimanfaatkan (Husin,
+2007 dalam Andaka, 2011). Dawson dan Boopathy (2008)
+mengungkapkan bahwa kandungan selulosa, hemiselulosa
+dan lignin dari bagas tebu masing-masing 30%, 23% dan
+22%.
+Saccharomyces cerevisiae telah lama dikenal sebagai
+mikroorganisme yang umum digunakan dalam pembuatan
+etanol (Panesar dkk., 2006). Penelitian yang sekarang
+difokuskan pada bakteri gram negatif dan fakultatif anaerob,
+Zymomonas mobilis yang berpotensi sebagai alternatif untuk
+produksi etanol. Bakteri ini memiliki kelebihan dibandingkan
+Saccharomyces cerevisiae, diantaranya produktivitas etanol
+3-5 kali lebih tinggi dengan yield etanol secara teoritis sebesar
+97%, toleran terhadap kadar gula tinggi, dan waktu fermentasi
+yang lebih cepat karena konsumsi gula yang lebih cepat
+dibandingkan S. cerevisiae (Sprenger, 1996; Gunasekaran
+dan Raj, 1999; Glazer dan Nikaido, 2007).
+Optimasi parameter fermentasi memegang peranan
+yang penting dalam keberhasilan suatu industri bioproses,
+disamping jenis mikroorganisme yang digunakan.
+Penambahan konsentrasi inokulum, konsentrasi urea, dan
+lama fermentasi menjadi hal yang utama untuk dioptimasi
+agar etanol yang dihasilkan optimal dan waktunya efi sien.
+Beberapa penelitian yang melibatkan penambahan konsentrasi
+inokulum Zymomonas mobilis dan konsentrasi urea pada
+berbagai medium fermentasi serta lama fermentasi telah
+dilakukan (Onsoy dkk., 2007; Zhang dan Feng, 2010; Maiti
+dkk., 2011; Nofemele dkk., 2012), namun penelitian terkait
+dengan optimasi fermentasi pada bahan berlignoselulosa
+seperti bagas tebu masih belum banyak dilakukan.
+Tujuan penelitian ini adalah optimasi konsentrasi
+inokulum, konsentrasi urea, dan lama fermentasi untuk
+produksi etanol dari bagas tebu. Optimasi dilakukan dengan
+menggunakan response surface methodology (RSM) central
+composite experimental design (CCD) dengan tiga faktor
+perlakuan yaitu konsentrasi inokulum (X1, %v/v), konsentrasi
+urea (X2, %b/v), serta lama fermentasi (X3, Jam) yang
+merupakan variabel bebas serta konsentrasi etanol (Yi, %v/v)
+sebagai variabel respon. Metode RSM dipilih untuk optimasi
+karena memiliki keunggulan dibandingkan dengan metode
+konvensional, diantaranya jumlah perlakuan yang lebih
+sedikit dengan akurasi yang lebih tinggi sehingga lebih efi sien
+dari segi waktu dan biaya. Metode ini mampu mengeksplorasi
+korelasi antar banyak faktor untuk mendapatkan kondisi
+produksi paling optimal dalam suatu bioproses serta
+memprediksi suatu respon (Chang dkk., 2006).
+METODE PENELITIAN
+Bahan
+Mikroba yang digunakan sebagai penghasil etanol adalah
+Zymomonas mobilis CP4 (NRRL B-14023) yang diperoleh
+dari ARS Culture Colection National Center for Agricultural
+Utilization Research, Preoria II, USA. Bagas tebu diperoleh
+dari PG. Krebet, Malang, Jawa Timur. Bahan kimia yang
+digunakan antara lain hidrogen peroksida (Merck), enzim
+selulase murni dari Trichoderma viride dengan aktivitas
+0,2 unit/mg (Serva), urea (Merck), glukosa (Merck), yeast
+extract (Pronadisa), KH2PO4 (Merck), (NH4)2SO4 (Merck),
+MgSO4.7H2O (Merck), DNS (Sigma-aldrich), Na-K Tartarat
+(Merck), NaOH (Merck), fenol kristal, natrium sulfat (Merck),
+asam asetat (Merck), dan Na-asetat (Merck).
+Alat
+Alat yang digunakan dalam produksi etanol antara
+lain pengering kabinet, ayakan ukuran 40 mesh, timbangan
+analitik (Mettler Toledo AL 204), autoklaf (Model HL-36 AE,
+Hirayama Jepang), kompor listrik (Maspion S-300 220V),
+mikropipet 1000 μl (Finnipipett, Labsystem), laminar air fl ow
+(Magnecetic),inkubator (Binder BD 53 Germany), dan shaker
+waterbath (model Memmert WNB 14). Alat yang digunakan
+untuk analisis adalah refl ux, vorteks (Turbo Mixer model LW
+Scientifi c), hot plate stirrer (Model IKA RH Basic), pH meter
+(Hanna HI 8424), spektrofotometer (Jenway 6305), mikroskop
+(Olympus CH 20), sentrifuse dingin (Hettich Zentrifugen/
+Mikro 22R), serta gas chromatography (Gas Hewlett Pacard
+5890 Series II).
+Profi l Pertumbuhan Zymomonas mobilis CP4
+Pengamatan sel Zymomonas mobilis CP4 dilakukan
+dengan menggunakan mikroskop pada perbesaran 1000 kali
+untuk mengetahui bentuk dan sifat motilitasnya, yaitu dengan
+membuat preparat basah Zymomonas mobilis CP4 (Cappucino
+dan Sherman, 2005). Profi l pertumbuhan Zymomonas mobilis
+CP4 diketahui dengan menumbuhkan 4% (v/v) kultur pada
+media sintetik yang terdiri dari glukosa 10% (b/v), yeast extract
+1% (b/v), KH2PO4 0,1% (b/v), MgSO4.7H2O 0,05% (b/v),
+(NH4)2SO4 0,1% (b/v) (Ruanglek dkk., 2006). Pertumbuhan
+sel (OD) diamati dengan menggunakan spektrofotometer
+dengan panjang gelombang (d) 560 nm setiap 4 jam selama
+24 jam. Nilai OD menyatakan jumlah sel yang tumbuh dalam
+medium sintetik.
+
+
+Pembuatan Stok Kultur dan Kultur Starter Zymomonas
+mobilis CP4
+Inokulum ditumbuhkan dalam 10 mL medium sintetik
+(Ruanglek dkk., 2006), diinkubasi pada suhu 30oC selama
+24jam. 10 mL media pertumbuhan cair yang berisi kultur
+digoreskan pada media pertumbuhan agar miring (Ruanglek
+dkk., 2006), diinkubasi pada suhu 30oC selama 24 jam. Stok
+kultur agar miring disimpan dalam lemari es suhu 2-3oC,
+diregenerasi tiga minggu sekali.
+Kultur starter Zymomonas mobilis CP4 dibuat dengan
+menumbuhkan 2 ose kultur dari agar miring pada 10 mL
+media pertumbuhan cair dan diinkubasi selama 24 jam
+pada suhu 30oC. 10 mL media pertumbuhan cair yang berisi
+kultur ditransfer pada 90 mL media pertumbuhan cair pada
+erlenmeyer 250 mL serta diinkubasi selama 18 jam pada suhu
+30oC dan goyangan 105 rpm.
+Pembuatan Serbuk Bagas Tebu
+Bagas tebu diayak dengan ayakan 40 mesh sehingga
+ukurannya seragam kemudian dikeringkan pada suhu 60-70oC
+selama 1 jam. Serbuk bagas tebu yang diperoleh dimasukkan
+di dalam wadah yang kering dan tertutup rapat (Samsuri dkk.,
+2007).
+Pretreatment Bagas Tebu
+Serbuk bagas tebu dilakukan analisis kadar lignin dan
+selulosa awal, kemudian ditimbang 5 g serbuk bagas tebu,
+dimasukkan dalam erlenmeyer 500 ml dan ditambahkan
+H2O2 5% (v/v) sebanyak 250 ml lalu dilakukan pengaturan
+pH dengan NaOH 2N sampai pH 11,5. Sampel diinkubasi
+pada suhu ruang (28±2oC) selama 72 jam lalu diautoklaf pada
+suhu 121°C selama 15 menit dan setelah diautoklaf disaring,
+diambil bagian padatannya dan dioven 100°C selama 5 jam.
+Sampel yang diperoleh kemudian dilakukan analisis terhadap
+kadar selulosa dan lignin (Dawson dan Boophaty, 2008).
+Hidrolisis Enzimatis Bagas Tebu
+Bagas tebu hasil pretreatment sebanyak 5 g ditempatkan
+pada erlenmeyer 250 ml. Enzim selulase dengan aktivitas
+1,5 unit/ml dalam buffer asetat 0,1 M pH 4,5 ditambahkan
+sebanyak 100 ml untuk menghidrolisis sampel bagas tebu.
+Sampel diinkubasi dalam shaker waterbath suhu 40oC selama
+72 jam dengan agitasi 105 rpm. Sampel kemudian disaring
+menggunakan kertas saring. Hidrolisat dipisahkan dari residu
+dan dianalisis pH dan kadar gula reduksi dengan metode DNS
+(Ewanick dan Bura, 2011).
+Fermentasi Etanol dari Hidrolisat Bagas Tebu
+Hidrolisat bagas tebu sebanyak 100 ml ditambahkan
+urea dengan berbagai konsentrasi berdasarkan dengan desain
+eksperimen (0,13-0,47% (b/v)), kemudian ditambahkan
+KH2PO4 0,1% (b/v) dan MgSO4.7H2O 0,05% (b/v). pH
+hidrolisat diatur pH 7 dengan menambahkan NaOH 2N.
+Hidrolisat dipanaskan pada suhu 100oC dan didinginkan.
+Kultur starter Zymomonas mobilis CP4 dengan konsentrasi
+10% (v/v) yang mengandung jumlah sel 1,8x106 cfu/ml
+ditambahkan dengan berbagai konsentrasi sesuai dengan
+desain eksperimen (6,59%-23,41% (v/v)). Sampel diinkubasi
+pada shaker waterbath suhu 30oC dan agitasi 105 rpm
+sesuai dengan desain eksperimen (19,77-70,23 jam). Sampel
+disampling untuk dilakukan analisis gula reduksi, pH, OD
+sel, dan kadar etanol.
+Metode Analisis
+Sampel bagas tebu dilakukan pengujian terhadap
+kadar selulosa metode Chesson (Datta, 1981) dan kadar
+lignin metode Klason (TAPPI, 1992). Hidrolisat bagas tebu
+dilakukan pengujian meliputi kadar gula reduksi metode DNS
+(Ceirwyn, 1995) dan pH menggunakan pH meter (Apriyantono
+dkk., 1989). Produk fermentasi dilakukan pengujian dengan
+memisahkan supernatan dan pelet dengan sentrifus dingin
+kecepatan 8000 rpm selama 10 menit. Pelet digunakan untuk
+pengukuran OD sel dengan menggunakan spektrofotometer
+pada pp600 nm. Supernatan digunakan untuk analisis kadar
+gula reduksi metode DNS (Ceirwyn, 1995), pH menggunakan
+pH meter (Apriyantono dkk., 1989) dan etanol menggunakan
+gas chromatography (GC) Gas Hewlett Pacard 5890 Series II,
+dengan kolom CBP1 (30 m x 0,254 mm) dan total fl ow 40 ml/
+menit, gas pembawa He, suhu monokratik 50oC, suhu injeksi
+200oC dan suhu detektor 260oC, detektor FID dan standar
+internal 1-propanol.
+Rancangan Penelitian dan Analisis Data
+Optimasi fermentasi dilakukan dengan menggunakan
+central composite experimental design (CCD) dengan
+kombinasi tiga faktor perlakuan yaitu konsentrasi inokulum
+(X1, %v/v), konsentrasi urea (X2, %b/v) dan lama fermentasi
+(X3, jam) yang merupakan variabel bebas (Tabel 1) serta konsentrasi
+etanol (Yi, %v/v) yang merupakan variabel respon.
+
+
+
+Tabel 1. Variabel bebas pada rancangan penelitian
+Variabel
+Kode level
+-1,682 -1 0 1 1,682
+Kons. inokulum (% v/v) X1 6,59 10 15 20 23,41
+Kons. urea (% b/v) X2 0,13 0,2 0,3 0,4 0,47
+Lama fermentasi (jam) X3 19,77 30 45 60 70,23
+
+
+
+CCD dengan 23- faktorial, dengan enam axial point
+(((= 3) dan enam pengulangan pada nilai tengah (n0 = 6)
+menghasilkan total 20 eksperimen.Nilai tengah kedua puluh eksperimen tersebut kemudian digunakan untuk menyusun
+persamaan polinomial orde kedua. Derajat Polinomial
+(Persamaan 1) dihitung dengan paket perangkat lunak statistik
+(Stat-Ease Inc., Minneapolis, MN, USA) untuk menentukan
+respon dari variabel bebas:
+Yi = bo+b1X1+b2X2+b3X3+b11X1
+2+b22X2
+2+b33X3
+2+b12X1X2+b23
+X2X3+b13 X1X3 .......................(1)
+Dimana Yi adalah respon prediksi. X1, X2, X3 adalah
+variabel bebas. bo adalah offset term. b1,b2,b3 adalah efek linier.
+b11, b22, b33 adalah efek kuadrat dan b12, b23 b13 adalah interaksi.
+Nilai yang didapat dari persamaan model dibandingkan de ngan
+hasil eksperimen kemudian diuji ANOVA dengan regresi linier.
+Langkah selanjutnya adalah menemukan daerah optimum dan
+menguji nilai yang diperoleh dari persamaan tersebut. Analisis
+data dilakukan menggunakan software Design Expert DX.7.1.5
+(Stat-Ease Inc., Minneapolis, MN, USA).
+
+
+
+HASIL DAN PEMBAHASAN
+Profi l Pertumbuhan Zymomonas mobilis CP4
+Berdasarkan hasil pengamatan dengan menggunakan
+mikroskop cahaya perbesaran 1000x, diketahui bahwa
+Zymomonas mobilis berbentuk batang dan bersifat motil
+(Gambar 1). Karakteristik Zymomonas mobilis hasil
+pengamatan telah sesuai dengan pernyataan Obire (2005),
+yang menyatakan bahwa Zymomonas mobilis merupakan
+bakteri Gram negatif fakultatif anaerob, berbentuk batang, dan
+bersifat motil. Holt dkk. (2000) menambahkan, Zymomonas
+mobilis memiliki ukuran sel 2-6 μm, diameter 1,0-1,4 μm, dan
+tumbuh optimum pada suhu 25-30oC.
+
+
+Gambar 1. Zymomonas mobilis (a) Hasil pengamatan menggunakan
+mikroskop cahaya perbesaran 1000x dan (b) Literatur dengan
+perbesaran 1000x (Joshi, 2010)
+Gambar 2. Profi l pertumbuhan Zymomonas mobilis CP4
+
+Pada penelitian ini dilakukan pula pengamatan terhadap
+pola pertumbuhan Zymomonas mobilis CP4. Pengamatan
+dilakukan untuk mengetahui terjadinya fase awal stasioner
+yang menunjukkan jumlah sel paling maksimum. Kultur
+Zymomonas mobilis CP4 digunakan sebagai starter pada fase
+ini karena pada fase ini pertumbuhan sel berada pada kondisi optimum, sehingga akan mempersingkat waktu adaptasi
+dari Zymomonas mobilis CP4 pada saat proses fermentasi
+di dalam medium hidrolisat bagas tebu. Profi l pertumbuhan
+Zymomonas mobilis CP4 ditunjukkan pada Gambar 2.
+
+
+
+Gambar 2 menunjukkan bahwa fase lag dari Z. mobilis
+CP4 terjadi pada jam ke-0 sampai jam ke-4. Pada fase ini
+Z. mobilis beradaptasi pada lingkungan medium yang baru
+sehingga pertumbuhannya berjalan lambat. Pada fase ini OD
+berkisar 0,026-0,143. Fase logaritmik terjadi pada kisaran jam
+ke-4 sampai jam ke-20. Pada fase ini pertumbuhan Z. mobilis
+berlangsung paling cepat karena terjadi katabolisme substrat
+dalam jumlah besar yang digunakan untuk pertumbuhan,
+sintesis enzim dan sintesis senyawa lainnya. Menurut Waites
+dkk. (2001), lamanya fase log dipengaruhi oleh konsentrasi
+sumber karbon pada medium, umur dan konsentrasi inokulum.
+Pada fase ini OD berkisar 1,22-2,13. Pertumbuhan optimum
+dicapai pada jam ke-20 (fase awal stasioner). Pada waktu ini
+isolat sangat baik untuk dijadikan inokulum karena jumlah
+dan aktivitasnya yang optimum. Pada jam ke-20 hingga jam
+ke-24 OD sel tidak mengalami peningkatan bahkan cenderung
+konstan. Hal ini menunjukkan bahwa Z. mobilis telah masuk
+fase stasioner.
+Analisis Bahan Baku Bagas Tebu
+Komponen bagas tebu yang paling penting dalam
+pembuatan etanol adalah selulosa, dimana selulosa dalam
+strukturnya dilindungi oleh lignin, sehingga diperlukan proses
+preteratment untuk menghilangkan lignin atau yang dikenal
+dengan delignifi kasi. Tabel 2 menyajikan data selulosa dan
+lignin sebelum dan setelah pretreatment.
+
+
+Tabel 2. Kadar selulosa dan lignin bagas tebu sebelum dan
+setelah pretreatment
+Parameter
+Sebelum
+pretreatment
+Setelah
+pretreatment
+% peningkatan
+(selulosa) dan %
+penurunan (lignin)
+Kadar selulosa (%)
+Kadar lignin (%)
+33,71
+21,11
+66,9
+3,22
+98,45
+84,75
+
+
+
+Penurunan kadar lignin dan peningkatan kadar selulosa
+yang signifi kan (Tabel 2) mengindikasikan bahwa hidrogen
+peroksida efektif dalam mengoksidasi lignin sehingga
+mempermudah selulosa untuk diakses oleh enzim selulase
+(Carvalheiro dkk., 2008) untuk menghasilkan gula yang
+selanjutnya difermentasi oleh Zymomonas mobilis CP4
+untuk menghasilkan etanol. Hidrolisat bagas tebu dari hasil
+pemecahan secara enzimatis menggunakan enzim selulase
+komersial dari Trichoderma viride aktivitas 1,5 U/ml pada
+penelitian ini mengandung 3,67% total gula reduksi. Yield
+glukosa yang dihasilkan dari bagas tebu hasil pretreatment
+sebesar 98,92% dari yield secara teoritis. Yield glukosa
+dihitung sebagai % konversi selulosa yang terkandung dalam
+bagas tebu hasil pretreatment dengan asumsi yield teoritis
+1,11 g gula/g selulosa (Velmurugan dan Muthukumar, 2012).
+Optimasi Fermentasi Bagas Tebu
+Penelitian ini menggunakan central composite
+experimental design (CCD) untuk mencari kombinasi
+optimum dari konsentrasi inokulum, konsentrasi urea dan
+lama fermentasi untuk menghasilkan etanol yang optimum.
+Data yang diperoleh dari hasil penelitian berdasarkan desain
+statistik diolah dengan bantuan program Design-Expert DX
+7.1.5 (Stat-Ease Inc., Minneapolis, MN, USA) dan digunakan
+untuk analisis regresi dan analysis of variance (ANOVA).
+Persamaan regresi yang diperoleh setelah analisis regresi
+digunakan untuk mencari kondisi respon yang paling optimal.
+Persamaan regresi yang diperoleh dengan kadar etanol (Y) dan
+variabel bebas konsentrasi inokulum (X1), konsentrasi urea (X2)
+serta lama fermentasi (X3) ditunjukkan pada persamaan (2):
+Y = 0,49892 – 0,077713X1 – 2,08438X2 + 0,073187X3 +
+0,11695X1X2 + 0,000274333X1X3 + 0,00861667X2X3 +
+0,000831489X1
+2 – 0,25650X2
+2 – 0,000857178X3
+2 ............. (2)
+Data kadar etanol hasil eksperimen dan data prediksi
+model yang dihitung berdasarkan persamaan (2) disajikan
+lengkap pada Tabel 3.
+
+
+Tabel 3. Data respon kadar etanol dari rancangan CCD
+Variabel bebas
+Kadar etanol
+eksperimen
+(% v/v)
+Kadar etanol
+prediksi model
+(% v/v)
+Kode Actual
+X1 X2 X3
+inokulum
+(% v/v)
+urea
+(% b/v)
+fermentasi
+(jam)
+-1 1 -1 10 0,4 30 1,1031 1,0078
+0 0 0 15 0,3 45 1,2973 1,2573
+1 -1 -1 20 0,2 30 1,0279 0,9584
+0 0 -1,682 15 0,3 19,77 0,4699 0,6425
+0 0 0 15 0,3 45 1,2838 1,2573
+1 1 -1 20 0,4 30 1,1089 1,0302
+-1 1 1 10 0,4 60 1,0675 1,0747
+-1 -1 1 10 0,2 60 1,1687 1,1851
+0 0 0 15 0,3 45 1,2855 1,2573
+0 -1,682 0 15 0,13 45 1,2263 1,2663
+0 1,682 0 15 0,47 45 1,1857 1,2335
+0 0 1,682 15 0,3 70,23 0,8656 0,7808
+0 0 0 15 0,3 45 1,3401 1,2573
+-1,682 0 0 6,59 0,3 45 1,2904 1,3610
+1,682 0 0 23,41 0,3 45 1,2537 1,2712
+0 0 0 15 0,3 45 1,1804 1,2573
+1 -1 1 20 0,2 60 1,0229 1,0559
+-1 -1 -1 10 0,2 30 1,2674 1,1699
+1 1 1 20 0,4 60 1,1442 1,1794
+0 0 0 15 0,3 45 1,1719 1,2573
+
+
+
+
+
+
+
+
+
+
+
+Tabel 3 memperlihatkan bahwa kadar etanol yang
+paling optimal diperoleh pada titik nol (0), yaitu pada titik
+konsentrasi inokulum 15% (v/v), konsentrasi urea 0,3% (b/v)
+dan lama fermentasi 45 jam. Waktu fermentasi yang semakin
+lama menyebabkan penurunan kadar etanol. Maiti dkk. (2011)
+melaporkan, dari hasil penelitiannya menggunakan Z. mobilis
+dalam fermentasi molasses untuk produksi etanol, waktu
+fermentasi yang optimal adalah 43-45 jam. Waktu fermentasi
+yang lebih lama menyebabkan kadar etanol mengalami
+penurunan. Menurut Maiti dkk. (2011) penurunan kadar
+etanol dapat disebabkan oleh akumulasi etanol dalam medium
+fermentasi yang dapat mengganggu mikroba dalam produksi
+etanol. Secara lengkap detail mengenai inhibisi fermentasi
+oleh etanol dijelaskan oleh Osman dan Ingram (1985).
+Analisis ragam (ANOVA) digunakan untuk mengetahui
+efek dari masing-masing variabel terhadap respon kadar
+etanol. Hasil dari ANOVA untuk respon Y (kadar etanol)
+secara lengkap disajikan pada Tabel 4.
+Tabel 4 menunjukkan bahwa model signifi kan atau
+berpengaruh nyata terhadap respon dimana nilai P kurang
+dari 0,05 (5%). Lack of fi t atau ketidaktepatan pengujian
+tidak signifi kan sebesar 0,1029 (10,29%) menunjukkan
+bahwa model sesuai dengan seluruh nilai rancangan. Hal ini
+dikarenakan nilai P lebih besar dari 0,05. Hasil analisis ragam
+menunjukkan bahwa lama fermentasi (kuadrat) berpengaruh
+nyata (signifi kan) terhadap respon. Faktor lain (konsentrasi
+inokulum (linier), konsentrasi urea (linier), lama fermentasi
+(linier), interaksi dua diantara tiga faktor, konsentrasi inokulum
+(kuadrat) dan konsentrasi urea (kuadrat)) berpengaruh tidak
+nyata (tidak signifi kan) terhadap respon.
+Nilai R2 dari Tabel 4 sebesar 0,8607 yang menunjukkan
+bahwa faktor konsentrasi inokulum, konsentrasi urea dan lama
+fermentasi pada penelitian memberikan pengaruh sebesar
+86,07% pada keragaman respon kadar etanol sedangkan
+sisanya sebesar 13,93% dipengaruhi faktor lain yang tidak
+dimasukkan dalam model. Nilai Adjusted R2 sebesar 0,7353
+yang berarti keeratan hubungan antara konsentrasi inokulum,
+konsentrasi urea dan lama fermentasi terhadap respon kadar
+etanol sebesar 73,53%. Adanya perbedaan antara nilai R2 dan
+Adjusted R2 diduga disebabkan oleh munculnya penambahan
+variabel yang tidak signifi kan dalam pembangunan model.
+
+
+
+
+Tabel 4. Hasil analisis ragam (ANOVA)
+Sumber
+keragaman
+Jumlah kuadrat db Mean kuadrat Nilai F
+Nilai P
+Prob>F
+Keterangan
+Model 0,63 9 0,070 6,86 0,0029 signifi kan
+A 9,730E-003 1 9,730E-003 0,96 0,3510 tidak signifi kan
+B 1,266E-003 1 1,266E-003 0,12 0,7315 tidak signifi kan
+C 0,023 1 0,023 2,27 0,1627 tidak signifi kan
+AB 0,027 1 0,027 2,69 0,1320 tidak signifi kan
+AC 3,387E-003 1 3,387E-003 0,33 0,5766 tidak signifi kan
+BC 1,336E-003 1 1,336E-003 0,13 0,7245 tidak signifi kan
+A2 6,227E-003 1 6,227E-003 0,61 0,4520 tidak signifi kan
+B2 9,481E-005 1 9,481E-005 9,327E-003 0,9250 tidak signifi kan
+C2 0,54 1 0,54 52,73 <0,0001 signifi kan
+Residual 0,10 10 0,010
+Lack of fi t 0,079 5 0,016 3,40 0,1029 tidak signifi kan
+Pure error 0,023 5 4,626E-003
+Cor total 0,73 19
+Std. Dev. 0,10 R2 0,8607
+Mean 1,14 Adj R2 0,7353
+C.V. % 8,86 Pred R2 0,1378
+PRESS 0,63 Adeq Precision 10,076
+Keterangan: A = Variabel X1 (konsentrasi inokulum (%v/v))
+B = Variabel X2 (konsentrasi urea (%b/v))
+C = Variabel X3 (lama fermentasi (jam))
+AB, AC, BC, A2, B2, C2 = interaksi antar perlakuan
+
+
+
+
+
+
+
+Montgomery (2001) menyatakan bahwa penurunan nilai
+Adjusted R2 akan terjadi jika variabel yang ditambahkan pada
+permodelan tidak berpengaruh.
+Pengaruh Konsentrasi Inokulum, Konsentrasi Urea dan
+Lama Fermentasi terhadap Respon Kadar Etanol
+Grafi k respon digunakan untuk mempermudah
+gambaran dalam mengetahui pengaruh variabel terhadap
+respon. Respon kadar etanol digambarkan dalam kurva 3
+dimensi dan kontur plot. Kontur plot adalah plot 2 dimensi
+yang merupakan irisan melintang kurva 3 dimensi. Kontur
+plot berguna untuk menganalisis efek interaksi antar faktor
+pada respon (Hasan dkk., 2009).
+Gambar 3, 4 dan 5 menggambarkan kurva 3 dimensi dan
+kontur plot untuk optimasi proses fermentasi dalam pembuatan
+etanol. Masing-masing gambar menggambarkan efek dari 2
+parameter pada produksi etanol. Nilai-nilai yang tertera pada
+kotak yang ada di kontur plot mengindikasikan konsentrasi
+etanol pada berbagai kondisi proses fermentasi yang dikaji.
+Interaksi antara konsentrasi inokulum dan konsentrasi urea
+pada proses fermentasi ditunjukkan pada Gambar 3.
+
+
+
+Gambar 3. (a) Kontur plot dan (b) kurva permukaan respon (3 dimensi)
+konsentrasi inokulum dan konsentrasi urea terhadap respon kadar
+etanol
+
+
+Gambar 4. (a) Kontur plot dan (b) kurva permukaan respon (3 dimensi)
+konsentrasi inokulum dan lama fermentasi terhadap respon kadar
+etanol
+
+
+
+
+Dari Gambar 3 dapat dilihat bahwa bentuk kurva saddle
+yang menggambarkan kemungkinan dari variabel pada poin
+maksimum dan minimum. Hasil ini menunjukkan bahwa
+konsentrasi inokulum dan konsentrasi urea tidak berpengaruh
+nyata terhadap produksi etanol. Tidak adanya pengaruh yang
+nyata pada konsentrasi inokulum dan urea terhadap respon
+kadar etanol pada penelitian ini diduga konsentrasi inokulum
+dan konsentrasi urea yang digunakan pada penelitian ini
+belum mencapai konsentrasi yang optimal sehingga tidak
+menunjukkan pengaruh yang signifi kan terhadap penurunan
+ataupun peningkatan kadar etanol yang dihasilkan, serta
+adanya variabel lain yang tidak dapat dikontrol secara
+kontinyu yang berpengaruh terhadap produksi etanol.
+
+
+
+
+Hubungan antara konsentrasi inokulum dan lama
+fermentasi terhadap respon kadar etanol disajikan pada
+Gambar 4. Gambar 4 (b) menunjukkan bahwa pengaruh
+konsentrasi inokulum bersifat linier dan lama fermentasi
+bersifat kuadratik terhadap respon kadar etanol. Dari Gambar
+4 (b) dapat dilihat semakin tinggi konsentrasi inokulum,
+kadar etanol yang dihasilkan cenderung turun. Konsentrasi
+inokulum yang terlalu tinggi dapat menurunkan viabilitas sel
+setelah fase pertumbuhan (Mukhtar dkk., 2010). Jarzebski
+(1989) juga menyatakan bahwa kondisi pertumbuhan dan metabolisme pada populasi sel yang tinggi tidak diharapkan
+karena mengganggu akses nutrisi, keterbatasan ruang, dan
+interaksi antar sel.
+
+
+Gambar 5. (a) Kontur plot dan (b) kurva permukaan respon (3 dimensi)
+konsentrasi urea dan lama fermentasi terhadap respon kadar
+etanol
+
+
+
+Gambar 5 menampilkan kontur dan kurva permukaan
+respon yang menunjukkan hubungan antara konsentrasi urea
+dan lama fermentasi terhadap respon kadar etanol. Gambar 5
+(b) menunjukkan bahwa pengaruh konsentrasi urea bersifat
+linier dan lama fermentasi bersifat kuadratik terhadap
+respon kadar etanol. Adanya peningkatan konsentrasi urea
+menunjukkan adanya penurunan kadar etanol yang dihasilkan.
+Penambahan urea yang lebih tinggi pada medium fermentasi
+dapat berefek negatif terhadap pembentukan etanol karena
+bersifat inhibitor. Garraway dan Evans (1984) menyatakan
+bahwa urea di dalam medium fermentasi akan diurai menjadi
+amonia dan karbondioksida. Amonia yang dihasilkan akan
+digunakan oleh mikroorganisme untuk pembentukan sel
+tubuh mereka. Hendriksen dan Ahrig (1991) menambahkan,
+produksi amonia dari urea mempunyai kecepatan empat kali
+lebih besar dari pembentukan sel tubuh mikroorganisme
+sehingga konsentrasi amonia akan tinggi yang selanjutnya
+bisa menjadi racun untuk proses fermentasi itu sendiri.
+Pada kajian lama fermentasi (Gambar 4 dan Gambar
+5), menunjukkan bahwa pengaruh lama fermentasi bersifat
+kuadratik. Semakin bertambah lama fermentasi, kadar etanol mengalami peningkatan hingga titik tertentu. Kadar etanol
+akan kembali mengalami penurunan jika waktu fermentasi
+ditambah. Berkurangnya produksi etanol pada lama fermentasi
+yang berlanjut setelah mencapai titik optimal produksi
+etanol menurut Sulfahri dkk. (2011) dapat disebabkan oleh
+berkurangnya substrat dalam medium fermentasi yang
+digunakan untuk pembentukan etanol sehingga tidak ada
+pembentukan etanol secara signifi kan serta akibat adanya
+inhibisi fermentasi oleh etanol (Maiti dkk., 2011).
+Penentuan Kondisi Optimum Respon Kadar Etanol
+Software Design Expert 7.1.5 digunakan untuk
+mengidentifi kasi kombinasi terbaik dari parameter proses
+fermentasi (konsentrasi inokulum, konsentrasi urea dan lama
+fermentasi) yang digunakan untuk mengoptimasi produksi
+etanol. Desirability merupakan suatu alat yang digunakan
+untuk menjelaskan seberapa baik solusi optimal yang
+ditawarkan agar sesuai dengan tujuan dari respon (Laluce
+dkk., 2009). Nilai desirability 1 mengindikasikan the perfect
+case, tetapi nilai desirability 0 mengindikasikan respon harus
+dibuang (Laluce dkk., 2009). Pada penelitian ini, solusi
+optimal yang ditawarkan oleh model RSM adalah konsentrasi
+inokulum 15% (v/v), konsentrasi urea 0,3% (w/v), dan lama
+fermentasi 45 jam untuk prediksi respon sebesar 1,257% (v/v),
+dengan nilai desirability 1. Titik optimum masing-masing
+variabel merupakan titik stasioner yang diduga merupakan
+respon optimum.
+Verifi kasi Kondisi Optimum Hasil Prediksi Model
+Kombinasi perlakuan yang diperoleh dari prediksi
+model yaitu konsentrasi inokulum 15% (v/v), konsentrasi
+urea 0,3% (b/v) dan lama fermentasi 45 jam diverifi kasi
+dengan melakukan fermentasi kembali berdasarkan dengan
+solusi yang ditawarkan tersebut. Penelitian yang dilakukan
+menghasilkan konsentrasi etanol sebesar 1,213% (v/v).
+Nilai prediksi dari model diketahui sebesar 1,257% (v/v).
+Dengan demikian, nilai ketepatan dari hasil penelitian dan
+prediksi sebesar 96%. Yield etanol sebesar 0,479 dengan
+efi siensi sebesar 93,9%. Yield etanol dihitung berdasarkan
+perbandingan antara jumlah produk yang dihasilkan (etanol
+1,213% (v/v)) dan substrat yang dikonsumsi (gula awal
+3,619% - gula sisa 1,088%). Efi siensi dihitung berdasarkan
+perbandingan antara yield etanol hasil penelitian (0,479) dan
+yield etanol teori (0,51). Yield etanol yang relatif tinggi ini
+mengindikasikan bahwa proses fermentasi pada penelitian
+ini cukup efi sien. Konversi bagas tebu menjadi etanol pada
+penelitian ini sebesar 7,69%.
+
+
+KESIMPULAN
+Kondisi fermentasi optimum diperoleh pada konsentrasi
+inokulum 15% (v/v), konsentrasi urea 0,3% (b/v) dan lama
+fermentasi 45 jam. Pada model RSM, prediksi etanol optimum
+yang dihasilkan adalah 1,257% (v/v). Hasil verifi kasi pada
+kondisi optimum diperoleh etanol sebesar 1,213% (v/v).
+Perbedaan yang tidak signifi kan antara hasil prediksi model
+dan hasil verifi kasi menunjukkan keakuratan model matematis
+yang dihasilkan. Hasil penelitian ini menunjukkan bahwa
+bagas tebu merupakan bahan baku berselulosa yang memiliki
+potensi untuk dijadikan pilihan untuk produksi bioetanol.
+
+
+
+
+

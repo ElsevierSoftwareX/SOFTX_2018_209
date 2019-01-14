@@ -1,0 +1,271 @@
+﻿Analisis Kinerja Instrumen Uji Formalin pada Tahu
+Berbasis Elektronik Nose
+
+
+Intisari—Elektronik nose adalah instrument pendeteksi
+berdasarkan klasifikasi aroma seperti fungsi hidung manusia.
+Penelitian ini dilatarbelakangi oleh belum adanya alat pendeteksi
+formalin pada produk makanan, terutama pada tahu, karena
+harga instrument analisis modern sangat mahal.
+Tujuan dari penelitian ini adalah untuk menghasilkan
+sebuah rekomendasi metode yang paling tepat, untuk digunakan
+pada instrument pendeteksi formalin pada tahu. Rancang
+bangun enose deteksi formalin dibuat dengan cara perancangan
+modul elektronik dan sekaligus sistem pengenal polanya. Modul
+elektronik dirancang menggunakan board Arduino Uno R3, yang
+memakai chip ATMega 328. Pada sistem pengenalan pola,
+dilakukan dengan bahasa pemrograman matlab yang
+menggunakan preprocessing LRMA (Linear Regression Moving
+Average), ekstraksi ciri wavelet dan PCA (Principle Component
+Analysis) serta metode analisis SVM (Support Vector Machines)
+dan FCM (Fuzzy C Means).
+Hasil dari pengenalan pola data pembelajaran, tingkat
+pengenalan tertinggi adalah pada nilai maksimal bentuk
+lingkaran, yaitu 100%. Sedangkan tingkat pengenalan data
+bukan pembelajaran, adalah 98.33%.
+Kata kunci: enose, PCA, FCM, SVM KONSEP, LRMA
+
+PENDAHULUAN
+Sesuai dengan isu strategis ketahanan pangan, terdapat arah
+kebijakan nasional tentang peningkatan mutu dan keamanan
+pangan [1]. Makanan yang aman dikonsumsi adalah makanan
+yang tidak mengandung bahan tambahan makanan berbahaya,
+diantaranya adalah borax dan formalin. Formalin mempunyai
+aroma khas, karena pada udara bebas, larutan formaldehid
+akan berwujud gas. Selain itu, aroma khas formalin juga
+disebabkan oleh kandungan methanol [2,3].
+Tahu, bakso dan sayuran merupakan makanan yang sering
+dikonsumsi oleh masyarakat. Kandungan air dari ketiga
+makanan tersebut mencapai 52%, sebagai akibatnya daya
+tahan simpannya hanya berlangsung singkat. Beberapa
+penelitian menunjukan, bahwa ketiga bahan makanan tersebut
+sering ditambah dengan bahan pengawet untuk menambah
+daya tahan simpannya.
+Selama ini, sidak dilaksanakan dengan menggunakan alat
+uji kimia, proses pengujian dilakukan dengan mengambil
+sample, kemudian dihancurkan, lalu ditambahkan air dan
+larutan KMnO4. Jika larutan berwarna merah lalu memudar,
+kemungkinan bahan uji mengandung formalin. Cara ini
+tergolong murah, namun tingkat ketelitiannya masih kurang.
+Selain itu, bahan makanan yang di uji tidak dapat kembali ke
+wujud asal, membutuhkan preparasi sample dan membutuhkan
+waktu yang lama.
+Harapan baru sebagai alternatif instrument deteksi formalin
+yang lebih tepat dan mudah adalah Electronic Nose. Electronic
+Nose yang selanjutnya disebut enose dapat melakukan
+pendeteksian formalin berdasarkan aromanya. Pada umumnya,
+enose terdiri dari komponen larik sensor, sistem akuisisi data
+dan algoritma pengenalan pola.
+Penelitian tentang formaldehid sendiri telah dilakukan oleh
+beberapa peneliti lokal, diantaranya dilakukan oleh Hendrick
+[4] dan Baiq [5]. Hendrick melakukan penelitian tentang uji
+kandungan O2 pada bensin, alkohol dan minyak tanah dengan
+menggunakan metode Short Time Fourier Transform (STFT)
+untuk karakterisasi frekuensi sensor dan metode Linear Vector
+Quantization (LVQ) sebagai metode pembelajaran data. Dari
+penelitian tersebut, output jaringan mempunyai tingkat
+keberhasilan hanya 89,2%. Selain itu, Baiq melakukan uji
+formalin pada cumi-cumi dengan menggunakan metode
+analisis Principal Component Analysis (PCA). Diluar negeri,
+deteksi formalin juga dilakukan oleh Wang [6] yang
+melakukan penelitian mengenai deteksi formaldehid
+konsentrasi rendah dan Zhang [7] yang mendeteksi
+formaldehid pada gurita.
+Penelitian terdahulu mempunyai 2 aspek pembeda. Aspek
+pertama, sebagian besar penelitian menggunakan cumi dan
+gurita sebagai objek penelitian. Di Indonesia, kedua ikan
+tersebut jarang dikosumsi oleh masyarakat. Sedangkan aspek kedua yaitu rendahnya tingkat keberhasilan dari pengenalan
+yang dilakukan. Hal ini mungkin disebabkan oleh pemilihan
+metode yang kurang tepat. Kedua aspek diatas menjadi pokok
+permasalahan utama yang akan diperbaiki dalam penelitian ini.
+II. METODOLOGI
+A. Bahan Penelitian
+Bahan yang digunakan untuk penelitian deteksi formalin
+pada tahu adalah Tahu formalin 70%, bakso formalin 70% dan
+sayur formalin 70%, untuk penelitian 1 dan untuk penelitian 2,
+bahannya adalah air murni, formalin dengan kadar 3%, 7%,
+21%, 35% dan 70%, tahu (tahu persegi, tahu kotak, tahu bulat
+dan tahu buntal), serta tahu formalin (tahu yang telah
+dicelupkan pada larutan formalin dengan kadar 3%, 7%, 21%,
+35% dan 70% ).
+B. Alat Penelitian
+Alat yang digunakan untuk penelitian deteksi formalin
+pada tahu adalah board enose yang terdiri dari larik sensor
+yang ditempatkan pada chamber dan board arduino serta
+Kipas angin 2500 rpm dan driver motor DC, sensor gas yang
+digunakan pada penelitian adalah MQ2, MQ5, MQ6 dan MQEng,
+catu daya 12V/ 5A dan 9V/1A, tabung reaksi (chamber)
+gas dan tabung gelas prepreparasi untuk mencampur odorant,
+PC yang digunakan untuk pengambilan data sampel dan
+perangkat untuk analisis data, vakum tube, yang digunakan
+untuk tempat menyimpan sensor setelah sensor digunakan.
+C. Instrument Analisis
+Instrument analisis pada penelitian ini adalah grafik
+Spider, digunakan untuk mengetahui repeatibilitas sensor,
+sedangkan grafik boxplot dan diagram pareto digunakan untuk
+mengetahui varian sensor, metode preprocessing LRMA
+(Linear Regression Moving Average), PCA (Principle
+component Analysis) dan DWT (Discrete Wavelet Transform)
+harr wavelet level 7 yang digunakan untuk ekstraksi ciri (dari
+4 vektor ciri menjadi 2), metode SVM konsep (Support Vector
+Machine) dan FCM (Fuzzy C Means) untuk menentukan batas
+dan analisis klaster.
+D. Alur Penelitian
+Pada penelitian ini, enose terdiri dari dua bagian, yakni
+bagian perangkat keras yang difokuskan penyempurnaan
+sistem penanganan aroma (odor handling), bagian perangkat
+lunak yang difokuskan pada penyempurnaan sistem ekstraksi
+ciri berbasis PCA dan sistem analisis klaster.
+Penelitian dilakukan dengan 5 langkah sebagai berikut :
+1) Preparasi Sample
+Pengambilan data sensing larik sensor. Pengambilan data
+masing-masing 3 kali dilakukan untuk air, formalin 70%,
+formalin 35%, formalin 21%, formalin 7%, formalin 3%, tahu
+kotak, tahu persegi, tahu bulat, tahu buntal, tahu formalin 70%,
+tahu formalin 35%, tahu formalin 21%, tahu formalin 7% dan
+tahu formalin 3%. Terdapat 45 data, dimana 45 didapat dari
+(15 odorant x 3 percobaan)
+2) Pre Processing
+Masing-masing sinyal mempunyai jumlah sample 4000.
+Dilakukan denoising dan normalisasi baseline, menggunakan
+LRMA. Shifting à pemotongan tiap 1 periode sensor.
+Interpolasi data hasil shifting (menyamakan 1 periode=1000
+sample). Penyusunan Matrix ciri (45000x4), dimana 45000
+dari (45 odorant x 8 sample)
+3) Ekstraksi Ciri
+Ekstraksi ciri menggunakan PCA sehingga didapat matrix
+PC1 dan PC2 (45000x2). Melakukan perhitungan nilai
+standart deviasi, maksimum, minimum, variance, mean dari
+tiap 1000 data PCA. Penyusunan Matrik ciri (45x2) dimana 45
+adalah jumlah odorant.
+4) Analisis Klaster
+Melakukan klastering SVM, dengan ,mencari persamaan
+batas klaster. Mencari prosentase tingkat pengenalan masingmasing
+klaster dari masing-masing nilai.
+5) Analisis Klaster
+Melakukan Klasifikasi FCM untuk mencoba klasifikasi
+nonlinear, untuk hasil PCA dari penelitian 2, 3 dan 4. Mencari
+prosentase tingkat pengenalan masing-masing klaster dari
+masing-masing nilai. Membandingkan metode SVM dan FCM
+III. HASIL DAN PEMBAHASAN
+Hasil klastering data pembelajaran menggunakan nilai
+standart deviasi, maksimal, minimal, varian dan rerata
+dijabarkan sebagai berikut :
+A. Standar Deviasi
+Langkah awal penyusunan metode SVM konsep adalah
+dengan menentukan persamaan garis pada masing-masing
+batas klaster.
+
+
+Gbr. 1 memperlihatkan tentang Klasterisasi PCA pada
+dari nilai standar deviasi. Dari grafik tersebut titik-titik ciri
+pada grafik PCA, dibagi menjadi 4 klaster, yaitu klaster tahu,
+tahu formalin, formalin dan air. Pola yang benar terdapat 38
+titik dari 45 titik, sehingga dengan SVM konsep, tingkat
+pengenalan klaster PCA dari nilai standar deviasi adalah
+84,4%. Pemisahan klaster antara tahu dan tahu formalin
+ataupun dengan tahu formalin, bisa dilakukan, walaupun
+jaraknya relatif pendek.
+B. Maksimal
+
+dengan menentukan persamaan garis pada masing-masing
+batas klaster. Gbr. 2 memperlihatkan tentang Klasterisasi PCA
+pada dari nilai maksimal. Dari grafik tersebut titik-titik ciri
+pada grafik PCA, dibagi menjadi 4 klaster, yaitu klaster tahu,
+tahu formalin, formalin dan air. Pola yang benar terdapat 39
+titik dari 45 titik, sehingga dengan SVM konsep, tingkat
+pengenalan klaster PCA dari nilai standar deviasi adalah
+86,6%.
+C. Minimal
+Langkah awal penyusunan metode SVM konsep adalah
+dengan menentukan persamaan garis pada masing-masing
+batas klaster.
+
+
+Gbr. 3 memperlihatkan tentang Klasterisasi PCA pada
+dari nilai minimal. Dari grafik tersebut titik-titik ciri pada
+grafik PCA, dibagi menjadi 4 klaster, yaitu klaster tahu, tahu
+formalin, formalin dan air. Pola yang benar terdapat 37 titik
+dari 45 titik, sehingga dengan SVM konsep, tingkat
+pengenalan klaster PCA dari nilai standar deviasi adalah
+82,2%. Pemisahan klaster antara tahu dan tahu formalin
+ataupun dengan tahu formalin, bisa dilakukan, walaupun
+jaraknya relatif pendek.
+D. Variance
+Langkah awal penyusunan metode SVM konsep adalah
+dengan menentukan persamaan garis pada masing-masing
+batas klaster.
+
+Gbr. 4 memperlihatkan tentang Klasterisasi PCA pada
+dari nilai variance. Dari grafik tersebut titik-titik ciri pada
+grafik PCA, dibagi menjadi 4 klaster, yaitu klaster tahu, tahu
+formalin, formalin dan air. Pola yang benar terdapat 38 titik
+dari 45 titik, sehingga dengan SVM konsep, tingkat
+pengenalan klaster PCA dari nilai standar deviasi adalah
+84.4%.
+E. Mean
+Langkah awal penyusunan metode SVM konsep adalah
+dengan menentukan persamaan garis pada masing-masing
+batas klaster.
+
+
+Gbr. 5 memperlihatkan tentang Klasterisasi PCA pada
+dari nilai variance. Dari grafik tersebut titik-titik ciri pada
+grafik PCA, dibagi menjadi 4 klaster, yaitu klaster tahu, tahu
+formalin, formalin dan air. Pola yang benar hanya terdapat 27
+titik dari 45 titik, sehingga dengan SVM konsep, tingkat
+pengenalan klaster PCA dari nilai standar deviasi adalah 60%.
+Dari ke-5 nilai tersebut, yaitu nilai deviasi standar, maksimal,
+minimal, variance dan mean, dicari tingkat pengenalan dari
+klaster yang terbaik. Tingkat pengenalan tertinggi adalah pada
+nilai maksimal, dengan nilai 86,67%.
+Konsep Multiklaster digunakan untuk melihat, sampai
+pada prosentase berapa, formalin masih bisa dikenali enose.
+Dari hasil analisis klaster dengan SVM konsep, diketahui
+bahwa enose telah mampu mengenali prosentase larutan
+formalin terkecil hingga 3%.
+
+Berikutnya dilakukan analisis 2 klaster antara tahu dan
+tahu formalin sesuai dengan tingkat prosentase larutan terkecil
+yaitu 3%. Tabel hasil analisis klaster antara tahu dengan tahu
+formalin diperlihatkan pada Tabel 1.
+
+
+Dari tabel tersebut, pada klaster tahu, untuk nilai
+maksimal, minimal, variance dan mean, masih tercampur
+dengan tahu formalin 70%, yaitu pada nilai minimal dan mean,
+sehingga pada nilai minimal dan mean tersebut terdapat
+percampuran ciri yang tidak wajar. Namun demikian, tingkat
+pengenalan klaster dapat diperbesar. Tingkat pengenalan
+tertinggi adalah pada klaster nilai standar deviasi, maksimal
+dan variance yang mencapai 100%. Sedangkan pengenalan
+terendah adalah pada klaster mean (66,67%).
+· SVM Optimal
+Untuk meningkatkan kinerja dari sistem pengenalan,
+kemudian analisis klaster diujicobakan menggunakan SVM
+optimal, yaitu menggunakan SVM kernel linear.
+
+
+Hasil perbandingan tingkat pengenalan antara metode
+SVM konsep dan SVM optimal diperlihatkan pada Tabel 2,
+tingkat pengenalan dari metode SVM optimasi jauh lebih kecil
+dibandingkan dengan menggunakan SVM konsep. Hasil SVM
+Optimal diperlihatkan pada Gbr. 7.
+
+Penelitian diakhiri dengan pengujian 60 sample odorant
+dengan data tingkat pengenalan klaster diperlihatkkkan pada
+Tabel 3.
+
+
+IV.PENUTUP
+Berdasarkan perancangan dan hasil pengukuran sebuah
+instrument deteksi formalin pada tahu dapat disimpulkan
+bahwa :
+1. Dari serangkaian penelitian yang telah dilakukan, maka
+dihasilkan rekomendasi metode sesuai dengan penelitian
+4, dengan sistem ekstraksi ciri yang menggunakan nilai
+maksimal dan analisis klaster FCM bentuk lingkaran.
+2. dengan metode FCM bentuk lingkaran dan elip pada
+penelitian 2,3 dan 4, tingkat pengenalan klaster yang
+tertinggi dari data pembelajaran adalah pada nilai maksimal, yaitu bernilai 100%, pada nilai maksimal pada
+penelitian 4.

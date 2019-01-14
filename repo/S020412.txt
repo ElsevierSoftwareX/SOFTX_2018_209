@@ -1,0 +1,174 @@
+﻿Penelitian ini bertujuan untuk menganalisis pengelompokan saham perusahaan perbankan
+yang efisien sebagai alernatif untuk menentukan keputusan investasi saham berdasarkan
+Capital Asset Pricing Model (CAPM). Dengan CAPM, investor dapat memprediksi saham
+dengan risiko kecil tetapi menghasilkan keuntungan besar berdasarkan konsep risiko (risk)
+dengan tingkat pengembalian (return). metode yang digunakan dalam penelitian ini adalah
+metode deskriptif dengan pendekatan kuantitatif. Sampel yang digunakan adalah 5saham dari
+perusahaan-perusahaan sektor perbankan yang terdaftar di Bursa Efek Indonesia secara terusmenerus pada Tahun 2009-2013 dan hanya saham-saham yang mempunyai pengembalian
+saham individu (Ri) bernilai positif saja yang diambil. Setelah dilakukan perhitungan dengan
+Capital Asset Pricing Model pada saham perusahaan perbankan yang tercatat di Indeks LQ
+45 yang terdaftar di BEI Tahun 2009-2013, terdapat tiga saham perusahaan perbankan yang
+layak dijadikan portofolio efisien. Perusahaan tersebut yaitu Bank Negara Indonesia Tbk.,
+Bank Mandiri Tbk., dan Bank Centra Asia Tbk. besarnya total return masing-masing saham
+yang layak dijadikan portofolio efisien adalah Bank Negara Indonesia Tbk. sebesar 46,9% ,
+Bank Mandiri Tbk. sebesar 35,2%, dan Bank Centra Asia Tbk sebesar 26,9%.
+Kata kunci : Capital Asset Pricing Model, Risiko,Tingkat pengembalian saham individu,
+tingkat pengembalian saham yang diharapkan.
+
+I. PENDAHULUAN
+1.1 Latar Belakang
+Investasi merupakan pengeluaran modal saat ini, untuk mendapatkan keuntungan
+dalam waktu dua tahun atau lebih secara bertahap. Secara umum investasi dikenal
+sebagai kegiatan untuk menanamkan modal baik pada aset riil maupun aset
+finansial pada suatu unit usaha atau pendanaan dengan maksud memperoleh
+keuntungan pada masa yang akan datang.Ada dua faktor yang dipertimbangkan
+dalam pengambilan keputusan, yaitu tingkat pengembalian dan risiko.
+Investor dapat membentuk sebuah portofolio (diversifikasi) saham yaitu dengan
+melakukan investasi pada banyak saham sehingga risiko kerugian pada satu
+saham dapat ditutup dengan keuntungan pada saham yang lainnya. Di dalam
+investasi saham ada perkataan yang menyatakan “Jangan meletakkan uang hanya
+dalam satu jenis saham” ini yang disebut dengan diversifikasi portofolio. Jika
+investor rasional, maka mereka akan memilih portofolio yang efisien dan layak
+untuk di investasikan. Maka timbul pertanyaan portofolio mana yang akan dipilih
+oleh investor.Investor yang rasional akan menginvestasikan dananya dengan
+memilih saham yang efisien yang memberi return maksimal dengan risiko
+tertentu atau return tertentu dengan risiko minimal.
+
+Teori portofolio pertama kali dikembangkan oleh Markowitz pada tahun 1952.
+Markowitz menjelaskan bahwa risiko dapat dikurangi dengan cara
+menggabungkan beberapa sekuritas tunggal kedalam bentuk portofolio. Ia
+mengembangkan suatu model pembentukan portofolio yang disebut dengan
+Model Markowitz. Dalam teorinyaMarkowitz menemukan bahwa jika saham
+berisiko tinggi disatukan dalam portofolio dengan suatu cara, maka portofolio
+tersebut akan lebih kecil risikonya dibandingkan risiko saham secara individu
+(Jogiyanto, 2003).
+
+Pengembalian dan risiko memiliki hubungan yang sangat erat dimana semakin
+besar tingkat pengembalian yang diharapkan maka semakin besar pula tingkat
+risiko yang dihadapi. Risiko saham secara umum dibedakan menjadi dua, yaitu
+risiko sistematis (systematic risk) dan risiko tidak sistematis (unsystematic risk).
+Risiko investasi yang dapat dihindari melalui diversifikasi saham dengan
+membentuk portofolio optimal adalah risiko tidak sistematis sedang risiko
+sitematis tidak dapat dihindari (faktor-faktor yang dapat mempengaruhi pasar
+secara keseluruhan seperti keadaan ekonomi dan politik) (Brigham and Daves,
+2004).
+
+Strategi yang digunakan oleh investor untuk mengurangi risiko adalah dengan
+melakukan diversifikasi (pengkombinasian) berbagai sekuritas dalam
+investasinya, atau dengan membentuk portofolio. Untuk membentuk portofolio
+yang optimal, investor harus menentukan portofolio yang efisien terlebih dahulu.
+Portofolio efisien adalah portofolio yang menghasilkan tingkat keuntungan
+tertentu dengan risiko terendah, atau risiko tertentu dengan tingkat keuntungan
+tertinggi (Husnan,1998). Sedangkan portofolio optimal adalah portofolio yang dipilih seorang investor dari sekian banyak pilihan yang ada pada kumpulan
+portofolio yang efisien (Tandelilin, 2001).
+
+Investor dapat menanamkan modalnya dengan membeli saham perusahaan yang
+telah go public. Investor sering mengalami kesulitan untuk memprediksi saham
+mana yang menghasilkan keuntungan besar dengan risiko yang kecil. Analisis
+portofolio merupakan hal yang sangat penting bagi setiap investasi karena dapat
+digunakan sebagi dasar untuk melakukan diversifikasi saham sehingga dapat
+menghasilkan suatu komposisi yang efisien berarti expected return (pengembalian
+yang diharapkan) yang maksimal pada tingkat risiko atau tingkat risiko minimal
+yang menghasilkan return tertentu.
+
+Indonesia mempunyai pasar modal yang disebut Bursa Efek Indonesia. Setiap
+tahun, perusahaan yang listing di BEI harus membuat laporan keuangan untuk
+diketahui para investornya dan menarik investor baru. Para investor dalam
+memilih saham untuk investasi berdasarkan pada analisis fundamental. Analisis
+fundamental adalah analisis yang menggunakan data fundamental yaitu data yang
+berasal dari keuangan perusahaan seperti laba, dividen yang dibayar, penjualan,
+dan lain sebagainya (Jogiyanto, 2003). Banyak saham yang terdaftar dalam bursa
+sering membuat investor bingung dalam memilih saham yang baik untuk
+dimasukkan kedalam portofolionya. Oleh karena itu, Bursa Efek Indonesia
+membuat indeks yang berisi saham perusahaan-perusahaan yang memiliki
+likuiditas tinggi, tidak fluktuatif, memiliki kapitalisasi pasar besar, kondisi
+keuangan perusahaan baik serta kondisi fundamental yang juga baik yaitu indeks
+liquid 45 (LQ45).
+
+Indeks yang sering digunakan sebagai dasar pembentukan portofolio saham
+adalah IHSG dan Indeks LQ45 pada BEI (Jogiyanto, 2003). Penggunaan IHSG
+sebagai proksi penghitung return pasar dirasakan memiliki kelemahan, karena
+IHSG menggunakan pembobotan berdasarkan atas kapitalisasi seluruh saham.
+Sehingga IHSG hanya menunjukkan pergerakan saham-saham aktif dan dan
+likuid di pasar sekunder dan saham-saham yang kurang aktif tidak terlihat
+pergerakannya. Sedangkan saham-saham LQ45 merupakan saham likuid
+kapitalisasi pasar yang tinggi, memiliki frekuensi perdagangan tinggi. LQ45 diisi
+oleh 45 perusahaan yang diseleksi menurut kriteria yang ditetapkan oleh BEI.
+Teori keuangan menyatakan bahwa apabila risiko suatu investasi meningkat,
+maka pemodal mensyaratkan tingkat keuntungan semakin besar. Salah satu
+pendekatan yang digunakan untuk menentukan risiko portofolio total adalah
+pendekatan Capital Asset Pricing Model (CAPM). Capital Asset Pricing Model
+(CAPM) adalah sebuah model hubungan antara risiko dan expected return suatu
+sekuritas atau portofolio” (Zubir, 2011). Penggunaan Capital Asset Pricing Model
+(CAPM) dinilai karena CAPM memiliki satu faktor makro yaitu kepekaan
+terhadap portofolio pasar, sehingga dapat digunakan untuk mengetahui hubungan
+keseimbangan antara risiko dengan tingkat pengembalian yang diharapkan untuk
+setiap surat berharga. Tujuan utama penggunaan CAPM adalah memberikan
+prediksi yang tepat mengenai hubungan antara risiko suatu aset dengan return
+yang diharapkan, menentukan harga suatu aset dan CAPM sebagai dasar untuk
+menentukan kelompok saham yang dapat dipilih sebagai tempat investasi.
+
+Pada penelitaian ini yang akan diteliti adalah portofolio mana yang memiliki
+tingkat keuntungan yang tinggi dengan risiko tertentu (portofolio efektif) serta
+portofolio mana yang menghasilkan tingkat keuntungan tertentu dengan risiko
+terendah (portofolio efisien). Adapun saham biasa yang akan dianalisis untuk
+membentuk portofolio efisien adalah saham sektor perbankan yang termasuk
+dalam Indeks LQ45 periode 2009-2013. Saham LQ45 merupakan saham-saham
+unggulan yang mempunyai likuiditas yang baik. Selain itu perbankan memegang
+peran penting dalam perekonomian nasional yaitu intermediasi, memiliki peran
+yang sama strategisnya sebagaimana jantung memompa darah, perbankan
+mendistribusikan uang yang merupakan darah bagi perekonomian ke berbagai
+sektor yang ada.
+
+Tabel 1.1 DaftarSektor Perbankan yang Termasuk Indeks LQ45 yang
+Tercatat di Bursa Efek Indonesia 2009-2013
+NO. Kode Nama Emiten Keterangan
+1. BBCA Bank Central Asia Tbk. Tetap
+2. BMRI Bank Mandiri Tbk. Tetap
+3. BBNI Bank Negara Indonesia Tbk. Tetap
+4. BBRI Bank Rakyat Indonesia (Persero) Tbk. Tetap
+5. BDMN Bank Danamon Tbk. Tetap
+Sumber : http://www.idx.co.id(data diolah)
+6
+Berdasarkan latar belakang masalah yang diuraikan diatas maka penulis tertarik
+untuk melakukan penelitian dengan judul : “ANALISIS INVESTASI
+PORTOFOLIO SAHAM PADA SEKTOR PERBANKAN YANG
+TERCATAT DI INDEKS LQ 45 BURSA EFEK INDONESIA (BEI)
+MENGGUNAKAN PENDEKATAN CAPITAL ASSET PRICING MODEL
+TAHUN 2009 - 2013”
+1.2 Rumusan Masalah
+Rumusan masalah pada penelitian ini adalah “Apakah terdapat portofolio efisien
+pada saham-saham perusahaan perbankan yang termasuk di Indeks LQ 45 yang
+terdaftar di BEI tahun 2009-2013?”
+1.3 Tujuan dan Manfaat Penelitian
+1.3.1 Tujuan dari penelitian ini adalah :
+Untuk mengetahui portofolio efisien pada saham-saham perusahaan perbankan
+yang termasuk di Indeks LQ 45 yang terdaftar di BEI tahun 2009-2013
+1.3.2 Manfaat Penelitian
+Hasil penelitian ini dapat dijadikan sebagai pertimbangan bagi investor untuk
+menanamkan dananya dipasar modal, khususnya dalam analisis untuk portofolio
+investasi yang efisien.
+
+Penelitian ini dapat dijadikan sarana informasi untuk meningkatkan wawasan dan
+pengetahuan tentang investasi dalam portofolio. Selain itu, memberikan kontribusi
+sebagai bahan referensi untuk penelitian sejenis.
+
+1.4 Kerangka Pemikiran
+Berdasarkan latar belakang permasalahan dan tujuan yang telah dikemukakan
+penulis pada bagian sebelumnya dapat dibuat kerangka pemikiran sebagai berikut:
+Gambar 1. Kerangka Pemikiran
+Sektor perbankan yang termasuk
+Indeks LQ45 tercatat di BEI
+Return Risk
+Portofolio efisien
+Invetasi di pasar modal
+Capital Asset Pricing Model
+
+Gambar 1 menjelaskan investasi saham di pasar modal yang dimulai dengan
+investor menanamkan investasi ataupun membeli saham di sektor perbankan yang
+temasuk IndeksLQ45 tercatat di BEI. Untuk memperbandingkan tingkat
+pengembalian dan risiko yang dapat di diversifikasi diantara kelompok saham
+atau untuk membentuk portofolio, maka saham- saham tadi akan dianalisis
+menggunakan pendekatan CAPM sehingga dapat diketahui saham-saham apa saja
+yang masuk pada portofolio efisien diantara sektor-sektor perbankan yang tercatat
+di BEI.

@@ -1,0 +1,174 @@
+﻿Algoritma Ekstraksi Informasi Berbasis Aturan
+
+
+Informasi yang terdapat dalam Laporan Hasil
+Pemeriksaan (LHP) BPK RI saat ini belum di-manaje dengan
+baik secara digital. Informasi yang terdapat dalam LHP yang
+terdapat pada 33 provinsi sampai saat ini hanya terkumpul di
+satu tempat tanpa ada proses selanjutnya untuk mengambil
+informasi inti dalam laporan tersebut. Ketiadaan aplikasi
+pencarian informasi menghambat proses pembelajaran terhadap
+laporan-laporan yang ada sebelumnya. Oleh karena itu,
+diperlukan sebuah aplikasi yang mampu melakukan ekstraksi
+informasi dari sekumpulan dokumen LHP untuk dapat
+mengambil data inti dari dokumen tersebut, yaitu criteria,
+akibat, sebab, tanggapan, dan saran pemeriksaan.
+Penelitian ini membuat sebuah tools untuk melakukan
+ekstraksi informasi pada dokumen Laporan Hasil Pemeriksaan
+(LHP) atas Laporan Keuangan Pemerintah Daerah (LKPD).
+Metode yang digunakan dalam penelitian ini adalah rule-based
+classification, dan metode preprocessing yang digunakan adalah
+POS Tagging. Tujuan ekstraksi informasi dalam penelitian ini
+adalah mendapatkan informasi beberapa bagian penyusun TP
+dalam dokumen LHP LKPD, yaitu kriteria, akibat, sebab,
+tanggapan, dan saran pemeriksaan.
+Akurasi dari data latih dan data uji masing-masing adalah
+98,27% dan 89,77%. Penurunan akurasi antara lain disebabkan
+oleh penggunaan aplikasi pdf2text yang tidak memberikan hasil
+konversi yang identik antara data input dan output, serta
+penggunaan metode wordmatch untuk klasifikasi.
+Kata kunci— LHP LKPD, ekstraksi informasi, klasifikasi, POS
+Tagging, rule-based classification.
+
+
+I. PENDAHULUAN
+Informasi yang terdapat dalam Laporan Hasil Pemeriksaan
+(LHP) BPK RI saat ini belum dikelola dengan baik secara
+digital. Informasi yang terdapat dalam LHP pada 33 provinsi
+sampai saat ini hanya terkumpul di satu tempat tanpa ada
+proses selanjutnya untuk mengambil informasi inti dalam
+laporan tersebut. Ketiadaan proses ekstraksi informasi ini
+mengakibatkan adanya kesulitan jika sewaktu-waktu
+diperlukan informasi tertentu dari sejumlah besar dokumen
+LHP dan menghambat proses pembelajaran terhadap laporanlaporan
+yang ada sebelumnya. Oleh karena itu, diperlukan
+sebuah aplikasi yang mampu melakukan ekstraksi informasi
+dari sekumpulan dokumen LHP untuk dapat mengambil data
+inti dari dokumen tersebut.
+Penelitian ini akan melakukan klasifikasi bagian dalam
+Temuan Pemeriksaan (TP) yang merupakan bagian dari LHP.
+Setiap TP terdiri dari 6 bagian, yaitu kondisi, kriteria, sebab,
+akibat, tanggapan, dan saran. Klasifikasi dalam penelitian ini
+dilakukan dengan mengembangkan sebuah Sistem Informasi
+yang mampu mengambil informasi dari 5 bagian, yaitu
+kriteria, sebab, akibat, tanggapan, dan saran dari temuan
+pemeriksaan. Kriteria menjelaskan peraturan yang dilanggar
+dalam setiap TP. Sebab menjelaskan latar belakang terjadinya
+kasus yang dicantumkan dalam TP. Tanggapan berisi
+penjelasan entitas (pihak yang diperiksa) atas adanya TP.
+Saran mencantumkan saran yang diberikan oleh BPK kepada
+entitas atas adanya TP.
+Saat ini, Temuan Pemeriksaan (TP) hanya dikumpulkan
+secara elektronis berupa file pdf. Dari kumpulan file pdf
+tersebut, tidak ada proses yang dilakukan lebih lanjut untuk
+mendapatkan suatu informasi sebagai dasar pengambilan
+keputusan bagi “top level management” ataupun pengambilan
+keputusan untuk mempertimbangkan penyusunan LHP bagi
+kasus serupa di lokasi yang berbeda. Pengambilan informasi
+yang selama ini dilakukan hanya bersifat manual sehingga
+sangat memungkinkan terjadinya perbedaaan informasi yang
+diambil untuk kasus yang semestinya serupa. Oleh karena itu
+diperlukan suatu aplikasi yang mampu mengidentifikasi atau
+mengklasifikasi temuan – temuan pemeriksaan yang telah ada
+pada tahun-tahun sebelumnya, sehingga diharapkan dapat
+membantu proses pengambilan keputusan.
+Penelitian ini akan menggunakan salah satu cabang dari
+Pemrosesan Bahasa Alami (PBA), yaitu Ekstraksi Informasi.
+Ekstraksi Informasi dapat diartikan sebagai sebuah proses
+untuk mendapatkan informasi inti dari dokumen tidak
+terstruktur ataupun dokumen semi terstruktur. Dalam
+penelitian ini, ekstraksi informasi dibagi dalam dua proses,
+yaitu preprocessing dan klasifikasi. Preprocessing dilakukan
+untuk menyiapkan dokumen agar dapat diproses pada tahap
+berikutnya, yaitu klasifikasi, serta untuk mendapatkan akurasi
+yang lebih tinggi dari hasil klasifikasi. Sedangkan klasifikasi merupakan nomor TP selanjutnya, kemudian diikuti oleh
+karakter titik (.), dan kemudian judul TP berikutnya sabagai
+mana diperlihatkan Gbr. 6 dan Gbr.7.
+Setelah mendapatkan batas dari masing-masing TP,
+langkah selanjutnya adalah mencari batas dari tiap bagian
+dalam TP. Batas setiap bagian ditentukan dengan mencari kata
+kunci dari setiap bagian, sebagaimana tercantum pada TabelII.
+Berdasarkan penelitian, secara umum susunan bagian dari
+masing-masing TP diperlihatkan oleh Tabel II.
+Berdasarkan susunan tersebut, maka bagian TP yang
+pertama kali dicari adalah kriteria. Setiap kriteria dicari
+dengan mencocokkan kata dalam dokumen dengan kata kunci
+yang sesuai dengan kriteria, seperti pada Tabel 2. Jika
+ditemukan kata yang sesuai dengan kata kunci, maka kata
+tersebut beserta posisinya akan disimpan berdasarkan
+kategorinya. Dengan menggunakan kata kunci seperti ini,
+dapat diketahui pula batas dari setiap bagian dalam dokumen,
+sehingga akan mempermudah proses selanjutnya. Proses ini
+dilakukan untuk setiap bagian TP.
+
+Setelah batas dari setiap bagian dokumen diketahui, proses
+berikutnya adalah mencari isi atau deskripsi dari setiap bagian
+dokumen.
+Untuk menghitung akurasi dari data latih dan data uji, cara
+yang digunakan adalah dengan membandingkan secara
+manual hasil dari sistem dengan dokumen LHP. Hal ini
+karena saat ini belum ada suatu sistem yang dapat menghitung
+setiap bagian dalam dokumen LHP.
+Hasil klasifikasi terhadap data latih dan data uji tercantum
+pada Tabel III dan Tabel IV.
+
+Menurut Chaudhary [7], perhitungan sensitivity dan
+Positive Predictive Value (PPV) adalah sebagai berikut :
+Sensitivity = TP / (TP+FN)
+Specificity = TN / (TN+FP)
+PPV = TP / (TP+FP)
+NPV = TN / (TN/FN)
+Akurasi = (TrP+TN) / (TrP+TN+FP+FN)
+TP : True Positive, bagian yang seharusnya diklasifikasikan
+dalam suatu kelas (missal A), dan memang dikenali sebagai
+kelas A
+FP : False Positive, bagian yang seharusnya tidak
+diklasifikasikan dalam kelas A, dan akan tetapi dikenali
+sebagai kelas A.
+TN : True Negative, bagian yang seharusnya dikenali
+sebagai selain kelas A, dan memang dikenali sebagai selain A.
+FN : False Negative, bagian yang seharusnya
+diklasifikasikan dalam kelas A, dan akan tetapi tidak dikenali
+sebagai kelas A.
+Dari hasil penelitian diketahui bahwa hasil klasifikasi pada
+data uji mengalami penurunan. Penurunan akurasi data uji
+antara lain disebabkan oleh Pencarian membandingkan antara
+kata yang ditemukan dalam dokumen dengan kata kunci
+secara identik, sehingga apabila terjadi sedikit perbedaan,
+akan terjadi kesalahan dalam klasifikasi, Output dari pdf2text
+tidak selalu sesuai dengan input, sehingga mempengaruhi
+proses pencarian dan hasil klasifikasi. Hal ini karena batasbatas
+dari masing-masing kelas adalah kata atau rangkaian
+kata tertentu, Jumlah hasil klasifikasi untuk kategori akibat,
+sebab, tanggapan, dan saran pemeriksaan adalah dengan
+dihitung berdasarkan jumlah kalimat output dalam tiap
+kategori. Perhitungan jumlah kalimat adalah dengan
+menghitung karakter titik (.) , titik dua (:), dan titik koma (;)
+dalam setiap kategori, karena karakter tersebut dianggap
+sebagai penanda akhir kalimat.
+
+V. KESIMPULAN
+Ektraksi Informasi pada dokumen LHP dapat dilakukan
+dengan menggunakan rule-based classification dengan akurasi
+data latih sebesar 98,27% dan akurasi data uji sebesar 89,77%.
+Penurunan akurasi ini antara lain disebabkan oleh kesalahan
+konversi pdf2text dan metode wordmatch yang digunakan
+dalam klasifikasi.
+Metode yang digunakan dalam preprosessing sangat
+mempengaruhi hasil klasifikasi dan tingkat akurasinya.
+Penggunaan aplikasi pdf2text yang tidak menghasilkan file
+output yang identik dengan file input dapat menurunkan
+akurasi klasifikasi.
+Rule-based classification dengan cara wordmatch dapat
+menurunkan akurasi. Cara yang dapat digunakan untuk
+meningkatkan akurasi adalah dengan menambahkan aturanaturan
+dalam klasifikasi.
+Engine yang dikembangkan dalam penelitian ini telah
+mengakomodir fungsi-fungsi ekstraksi informasi, yaitu
+preprocessing (pemisahan kata dan tanda baca, POS Tagger),
+pemilihan kata, dan ekstraksi dalam Temuan Pemeriksaan
+pada dokumen Laporan Hasil Pemeriksaan.
+Tampilan aplikasi ini masih berupa command prompt,
+belum menggunakan Graphical User Interface (GUI).
+
+

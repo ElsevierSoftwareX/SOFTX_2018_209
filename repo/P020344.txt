@@ -1,0 +1,68 @@
+﻿ABSTRAK 
+Sistem perpipaan sangat penting di dalam dunia industri karena berfungsi untuk mengalirkan fluida kerja untuk proses. Perancangan pada sistem perpipaan yang dibuat mengacu pada code ASME B31.3. Pada perancangan sistem perpipaan ini berfungsi untuk proses pemurnian PTA (Purified Terephthalic Acid). PTA merupakan bahan dasar pembuatan polyester. Di dalam proses pembuatan PTA diperlukan tekanan sebesar 89 kg/cm2 G, tempertaur mencapai 288 oC, dengan debit 71,7 m3/jam. Untuk memenuhi kebutuhan desain, tekanan dan temperatur operasi dinaikan lebih dari 10 %, sehingga memperoleh tekanan desain sebesar 123 kg/cm2 G, dengan temperatur desain sebesar 315 oC. Untuk perancangan dan analisa tegangan pada sistem perpipaan menggunakan metode elemen hingga. Perancangan sistem perpipaan yang dibuat terdiri dari 6 jalur. Nilai tegangan tertinggi pada jalur pertama 68,6 MPa akibat beban sustain dan 74,3 MPa akibat beban operasi, pada daerah percabangan 62,7 MPa akibat beban sustain dan 63,7 MPa akibat beban operasi. Nilai tegangan tegangan tertinggi pada jalur ke dua 62,6 MPa akibat beban sustain dan 110,9 MPa akibat beban operasi. Nilai tegangan tertinggi pada jalur ke tiga 59,3 MPa akibat beban sustain dan 94 MPa akibat beban operasi. Nilai tertinggi pada jalur ke empat 75,8 MPa akibat beban sustain dan 98,3 akibat beban operasi. Nilai tertinggi pada jalur ke lima 59, 8 MPa akibat beban sustain dan 97,6 MPa akibat beban operasi. Pada jalur ke enam 80 MPa akibat beban sustain dan 92,5 MPa akibat beban operasi. Nilai tegangan tertinggi akibat acceptance test dengan tekanan 1,5 kali tekanan desain sebesar 121,7 MPa. Pada sistem perpipaan akan terjadi konsentrasi tegangan yang besar pada daerah percabangan dan belokan, jika nilai tegangan tersebut melebihi batas ijin material akan menyebabkan kegagalan pada struktur tersebut, oleh sebab itu di dalam perancangan sistem perpipaan harus memperhatikan kekuatan dan fleksibilitas dari struktur tersebut. 
+Kata kunci : Sistem perpipaan, fleksibilitas, konsentrasi tegangan, metode elemen hingga
+
+ BAB I 
+PENDAHULUAN 
+1.1 Latar Belakang 
+
+Pipa digunakan untuk mengalirkan fluida (zat cair atau gas) dari satu atau beberapa titik ke satu atau beberapa titik lainnya. Sistem perpipaan (piping system) terdiri dari gabungan pipa-pipa yang memiliki panjang total relatif pendek dan digunakan untuk mengalirkan fluida dari suatu peralatan ke peralatan lainnya yang beroperasi pada suatu plant. Sistem perpipaan juga dilengkapi dengan komponen-komponen seperti katup, flange, belokan, percabangan, nozzle, reducer, support, isolasi, dan lain-lain. 
+Piping memiliki perbedaan dengan pipeline antara lain dari fungsinya, lokasi penggunaannya serta panjang totalnya. Seperti yang telah dijelaskan bahwa piping digunakan untuk mengalirkan fluida antara peralatan-peralatan yang beroperasi di suatu plant. Sementara itu, pipeline lebih berfungsi untuk kebutuhan transmisi dan distribusi fluida dari suatu daerah ke daerah lainnya. 
+Didalam merencanakan suatu sistem perpipaan perlu diperhatikan faktor-faktor yang mempengaruhi antara lain: 
+1. Mampu menahan tekanan akibat fluida didalamnya. 
+2. Mampu mengatasi momen akibat gaya berat pipa (beban statik) dan fluida didalamnya (beban dinamik) serta akibat gaya-gaya luar. 
+3. Mampu mengatasi beban fatigue. 
+4. Mampu mengatasi beban termal. 
+5. Mampu mengatasi sifat korosif fluida. 
+
+Dengan memperhatikan faktor-faktor tersebut didalam suatu perencanaan sistem perpipaan dapat memberikan data sebagai acuan untuk perencanaan sistem perpipaan. 
+
+1.2 Perumusan Masalah 
+
+Sistem Perpipaan merupakan salah satu alat proses dalam suatu industri yang penting, khususnya untuk industri kimia, perminyakan, dan pembangkit listrik seperti pada pembangkit tenaga nuklir. Pada industri, sistem perpipaan yang digunakan merupakan sistem perpipaan yang memiliki tekanan yang tinggi. Kegagalan yang terjadi pada sistem perpipaan dapat menyebabkan suatu kerusakan yang cukup besar baik dalam keselamatan manusia ataupun kerusakan alat lainnya yang berada di sekitarnya. 
+Perancangan sistem perpipaan menjadi suatu aspek yang sangat penting dalam memenuhi kebutuhan suatu proses yang memerlukan suatu sistem perpipaan sebagai alat transportasi fluida dengan tekanan operasi yang relatif tinggi dalam sustu proses industri. Pemilihan diameter pipa dan ketebalan pipa dengan pertimbangan beban yang diterima harus diperhitungkan sesuai dengan peraturan yang telah dibuat sehingga kegagalan yang dapat menyebabkan kerusakan dapat dihindari. 
+Pendekatan perhitungan dalam analisa matematis sebagai rancangan awal dan membandingkannya dengan analisa software dengan pendekatan metode elemen hingga diharapkan mampu memprediksi besarnya tegangan dan mengetahui daerah kritis yang terdapat pada sistem perpipaan tersebut. 
+1.3 Tujuan Penelitian 
+
+Adapun tujuan dari penelitian kali ini adalah: 
+1. Merencanakan sistem perpipaan sesuai dengan code ASME B31.3 
+2. Menganalisa nilai tegangan yang terjadi pada sistem perpipaan. 
+
+1.4 Batasan Masalah 
+
+Batasan masalah yang diberkan pada penelitian ini dimaksudkan agar pembahasan penelitian lebih maksimal dan terfokus. Adapun batasan masalah pada penelitian ini adalah : 
+1. Perencanaan sistem perpipaan mengacu pada standar ASME B31.3 
+2. Analisa tegangan pada sistem perpipaan akibat beban operasi. 
+3. Analisa tegangan akibat beban occasional tidak di lakukan. 
+
+1.5 Metode Penelitian 
+
+Adapun langkah-langkah yang penulis lakukan dalam membuat tugas akhir ini adalah sebagai berikut : 
+1. Studi Pustaka 
+
+Adapun studi pustaka ini diperoleh dari beberapa literatur, baik berupa buku-buku perpustakaan, jurnal-jurnal yang diperoleh dari internet, serta laporan tugas akhir yang berkaitan dengan tugas sarjana ini. 
+2. Analisa Data 
+
+Menghitung data-data yang dirancang pada pembuatan sistem perpipaan, serta menganalisa data-data tersebut dengan bantuan software CAESAR II sehingga dapat diketahui jenis dan besarnya tegangan yang muncul pada sistem perpipaan. Proses pengolahan data disesuaikan berdasarkan standar ASME B31.3. 
+3. Praktek Kerja Lapangan 
+
+Praktek kerja lapangan merupakan langkah yang nyata bagi penulis agar mampu melihat proses perencanaan sistem perpipaan secara langsung serta untuk mendukung penelitian mengenai studi kasus yang dibahas dalam Tugas Akhir ini. 
+
+4. Bimbingan 
+
+Bertujuan untuk mendapatkan tambahan pengetahuan dan masukan dari dosen pembimbing serta koreksi terhadap kesalahan-kesalahan yang terjadi pada pembuatan tugas akhir dan penyusunan laporan. 
+1.6 Sistematika Penulisan 
+
+Sistematika penulisan terdiri dari: 
+BAB I PENDAHULUAN 
+Berisi tentang latar belakang masalah, tujuan penelitian, pembatasan masalah, metode penelitian dan sistematika penulisan. 
+BAB II DASAR TEORI 
+Berisi tentang jenis-jenis tegangan yang muncul pada sistem perpipaan, komponen-komponen pada sistem perpipaan dan metode elemen hingga. 
+BAB III METODOLOGI PERANCANGAN 
+Berisi tentang penyesuaian perencanaan sistem perpipaan dengan standar ASME. 
+BAB IV ANALISA DAN PEMBAHASAN 
+Berisi tentang analisa dan pengolahan data menggunakan software CAESAR II sehingga dapat diketahui besarnya tegangan-tegangan yang muncul pada sistem perpipaan. 
+BAB V PENUTUP 
+Berisi tentang kesimpulan dari hasil pengujian serta saran yang dapat memperbaiki penelitian selanjutnya. 
+DAFTAR PUSTAKA 
+LAMPIRAN

@@ -1,0 +1,416 @@
+﻿Pengembangan Tungku Gasifikasi Arang Biomassa Tipe Natural Draft
+Gasification Berdasarkan Analisis Computational Fluid Dynamics (CFD)
+
+
+Abstrak
+Sebuah Disain tungku natural draft gasification (NDG) telah diciptakan sebelumnya (Nelwa, et al. 2013)
+dengan menggunakan pemodelan dan simulasi berbasis pindah panas, dan equilibrium. Penelitian ini
+menggunakan simulasi computational fluid dynamics (CFD) untuk menganalisis performa tungku pada
+bagian geometri cerobong gas bakar, dan lubang udara sekunder. Hasil simulasi dari beberapa skenario
+tungku yang dilakukan dapat disimpulkan bahwa dari skenario disain tungku didapatkan daya tungku
+antara 1863.9 J/detik sampai dengan 2585.7 J/detik, dan memiliki efisiensi gasifikasi sebesar 67.11%.
+Proses gasifikasi arang kayu menghasilkan gas mampu bakar CO, CH4, dan H2, dimana gas mampu bakar
+tersebut mengalami reaksi pembakaran dengan aliran udara sekunder yang masuk di bagian tengah
+saluran gas mampu bakar. Reaksi pembakaran ini, menghasilkan energi panas yang memadai untuk
+proses memasak.
+Kata Kunci: tungku, daya, gas bakar, efisiensi gasifikasi
+
+
+Pendahuluan
+Sektor rumah tangga atau industri kecil sering
+menggunakan energi bahan bakar berasal dari fosil
+untuk proses memasak. Bahan bakar fosil yang
+digunakan umumnya berupa produk turunan berupa
+gas alam, minyak tanah dan LPG. Akan tetapi, pada
+akhir-akhir ini bahan bakar yang berasal dari fosil
+mulai menipis, diperlukan bahan bakar terbarukan
+salah satunya dengan bahan bakar biomassa.
+Bahan bakar biomassa memiliki beberapa kelebihan
+yang dapat dijadikan sebagai bahan bakar yaitu
+sangat mudah untuk mendapatkan panas, dan
+menghasilkan NOx, SOx, HCl, dan dioksin rendah.
+Beberapa tungku gasifikasi yang menggunakan
+bahan bakar biomassa telah ada di masyarakat
+contohnya antara lain tungku TLUD (Top Lift
+Updraft) (Field, 2012) namun tungku ini masih
+memiliki beberapa kekurangan akibat proses
+pirolisis dan gasifikasi bahan yang berlangsung
+secara bersamaan sehingga menyebabkan gas
+mampu bakar yang dihasilkan kurang optimal.
+Selain tungku TLUD, masih banyak tungku berbasis
+gasifikasi antara lain, tungku gasifikasi kayu (Reed dan Venter, 2003), tungku gasifikasi IISc (Indian
+Institute of Science, 2004), dan tungku gasifikasi
+sekam padi (U Tin Win, 2005), namun dari semua
+tungku ini masih menggunakan sistem kinerja
+konveksi paksa dengan bantuan kipas sentrifugal
+untuk memberikan aliran udara guna mendorong
+terjadinya proses gasifikasi dengan bahan bakar
+biomassa yang terdapat di dalam tungku. Sekarang
+ini tungku gasifikasi biomassa dalam proses
+pengembangannya dilakukan dengan pendekatan
+pemodelan dan simulasi untuk mengatasi masalahmasalah
+yang terjadi sebelumnya.
+Beberapa tungku biomassa telah dikembangkan
+menggunakan simulasi Computational Fluid
+Dynamics (CFD), antara lain tungku yang
+dikembangkan oleh Varunkumar et al, 2011 dimana
+tungku ini menggunakan tipe gasifier based stove
+dengan bahan bakar berupa potongan kayu bakar,
+akan tetapi tungku biomassa ini masih menggunakan
+kipas sentrifugal juga, sehingga dapat dikatakan
+belum cukup baik karena masih menggunakan
+prinsip kerja konveksi paksa. Kemudian, dilakukan
+pengembangan tungku natural draft gasification
+(NDG) oleh Nelwan et al, 2013. Tungku ini
+menggunakan prinsip kerja konveksi bebas untuk
+operasinya, prinsip kerja konveksi bebas yang
+dimaksud yaitu dengan menggunakan buoyancy
+effect, efek ini terjadi akibat adanya perbedaan
+kerapatan antara gas hasil dengan udara ini yang
+menyebabkan adanya aliran gas bahan bakar ke
+atas saluran gas mampu bakar. Tungku ini memiliki
+kinerja yang baik dilihat dari sisi efektifitas tungku,
+namun tungku NDG yang dihasilkan ini masih
+memiliki beberapa kekurangan yaitu pembakaran
+primer yang belum cukup optimal diakibatkan adanya
+beberapa bagian disain geometri tungku NDG belum
+maksimal. Faktor geometri yang menentukan dalam
+tungku yang bekerja secara natural draft adalah
+tinggi cerobong dan inlet udaranya. Pemodelan dan
+simulasi yang digunakan menggunakan simulasi
+CFD dapat digunakan untuk memperbaiki geometri
+tungku yang dimaksud. Tujuan dari penelitian ini
+adalah untuk menganalisis beberapa disain ukuran
+tinggi cerobong dan luas inlet udara dari tungku
+NDG menggunakan metode CFD untuk dijadikan
+sebagai dasar pengembangan disain.
+Bahan dan Metode
+Bahan dan Peralatan Penelitian
+Bahan penelitian yang digunakan pada penelitian
+ini adalah arang kayu dengan data pengujian kadar
+proximate dan ultimate, dimana data ini akan
+dijadikan sebagai data asupan untuk melakukan proses simulasi dari tungku NDG tersebut.
+Peralatan yang digunakan adalah seperangkat
+komputer dengan software Gambit 2.4.6 dan Ansys
+Fluent 13.
+Metode Penelitian
+Pengembangan tungku NDG ini akan dilakukan
+perubahan beberapa disain geometri untuk
+mendapatkan kinerja tungku NDG yang optimal.
+Tahapan pengembangan tungku yang dilakukan
+adalah
+• Perancangan untuk pengembangan disain
+tungku NDG
+Perancangan ulang ini meliputi beberapa
+perubahan disain geometri tungku antara
+lain bagian ruang pembakaran, ruang hopper
+(masukan), lubang udara, dan cerobong gas
+mampu bakar. Beberapa data skenario digunakan
+pada bagian lubang udara dan cerobong gas
+mampu bakar. Data skenario pada lubang udara
+terfokus padadiameter lubang udara. Diameter
+lubang udara yang diskenariokanmenggunakan
+ukuran 4 cm, 3.5 cm, 3 cm, 2.5 cm, dan 2 cm.
+Cerobong gas mampu bakar menggunakan data
+tinggi cerobong dengan variasi ketinggian 10
+cm, 15 cm, dan 20 cm. Rumus rancangan dapat
+dilihat pada Tabel 1 berikut.
+• Penggambaran disain model tungku NDG
+Penggambaran disain menggunakan perangkat
+lunak Gambit 2.4.6. Pada tahap ini dilakukan
+proses meshing disain tungku. Jenis mesh yang
+digunakan adalah model tri, tipe pave. Kondisi
+batas pada disain rancangan tungku ini dibagi
+menjadi 2 tahap. Kondisi batas yang ditetapkan
+pada kondisi tahap pertama adalah dinding
+atau wall, pressure inlet, pressure outlet, porous
+zone, dan pembagian dua cell zone yakni cell
+arang kayu dan cell udara. Sedangkan pada
+kondisi tahap kedua yang digunakan sebagai
+kondisi batas adalah mass flow inlet, pressure
+outlet, porous zone, dan velocity inlet. Kondisi
+batas yang ditentukan dapat ditunjukan pada
+Gambar 1.
+• Simulasi kinerja model tungku NDG dengan
+CFD
+Pada tahap ketiga dilakukan proses simulasi
+disain tungku. Model simulasi yang digunakan
+untuk mengukur kinerja dari tungku adalah
+menggunakan model energi untuk mengetahui
+aliran pindah panas dan suhu, model viscouskepsilon
+(2 eqn) untuk menganalisis aliran gas
+turbulent yang terdapat pada tungku, model
+ini digunakan karena memberikan hasil yang
+cukup konsisten (Silaen dan Wang, 2010),
+model radiation Rosseland model ini digunakan
+untuk memprediksi komposisi gas dan suhu,
+model ini digunakan karena menghasilkan
+model yang cukup stabil, dan model species
+transport, menggunakan model finite-rate/eddydissipation,
+model ini digunakan karena lebih riil
+dibandingkan dengan model Eddy dissipation
+(Silaen dan Wang, 2009). Laju reaksi pada
+model finite rate/Eddy dissipation didasarkan
+pada nilai terkecil dari model finite rate dan Eddy
+dissipation. Persamaan konservasi momentum
+yang digunakan mencakup persamaan RANS
+(Reynold Averages Navier Stokes)
+(1)
+Keterangan : ρ: densitas (kg/m3), t: waktu (detik),
+u: kecepatan (m/detik), p : tekanan (Pa), dan
+μ : viskositas (Pa-s)
+Selain itu persamaan atur yang mencakup
+persamaan konservasi massa, konservasi
+energi dan konservasi spesies yang digunakan,
+didasarkan pada persamaan RANS di atas
+(Ansys, 2010). Bahan arang kayu yang dijadikan
+sebagai bahan biomassa akan ditentukan
+kadar proximate dan kadar ultimate nya. Kadar proximate arang kayu dilakukan pengujiannya
+dengan metode SNI di Pusat Penelitian dan
+Pengembangan Keteknikan Kehutanan dan
+Pengolahan Hasil Hutan, sedangkan komposisi
+ultimate arang kayu diambil dari hasil rata-rata
+data arang kayu yang digunakan pada literature
+(J. Pastor, 2005). Kadar proximate dan ultimate
+dari arang kayu dapat disajikan pada Tabel 2.
+Reaksi yang digunakan pada simulasi ini
+merupakan reaksi proses gasifikasi. Reaksi
+yang terlibat tersebut disajikan pada Tabel 3.
+Perlu diketahui bahwa pada reaksi ini data E
+(J/kmol) merupakan data energi aktivasi yang
+terjadi pada proses reaksi tersebut, sedangkan
+pada data A, A merupakan pre-exponential
+factor yang terjadi pada proses pembakaran
+dan gasifikasi arang kayu tersebut. Simulasi
+laju reaksi yang terjadi pada tungku ditentukan
+oleh kedua data tersebut. Pada saat ini simulasi
+dilakukan dengan menggunakan dua tahap.
+Simulasi tahap pertama memiliki tujuan untuk
+menentukan kecepatan aliran udara yang
+digunakan pada simulasi kondisi tahap kedua.
+Kondisi tahap pertama untuk menentukan
+kecepatan aliran udara menggunakan kondisi
+free convection dari aliran udara yang melewati
+tumpukan bahan biomassa. Tumpukan bahan
+biomassa tersebut dianggap memiliki daerah
+porous zone, dimana daerah porous zone ini
+merupakan daerah bahan bakar biomassa
+yaitu arang kayu dengan memiliki nilai porositas
+tertentu. Nilai porositas arang kayu sebesar
+50.2%. Dengan data porositas ini kemudian
+akan ditentukan seberapa besar kecepatan
+aliran udara yang mampu melewati tumpukan
+biomassa tersebut. Data kecepatan aliran udara
+yang didapatkan pada kondisi tahap pertama ini
+digunakan sebagai kecepatan udara inlet kondisi
+tahap kedua dalam proses penentuan komposisi
+gas yang dihasilkan dan tingkatan energi yang
+dihasilkan dari proses reaksi pembakaran dan
+gasifikasi arang kayu dengan udara.
+Hasil dan Pembahasan
+Perancangan Disain Tungku NDG
+Proses pengembangan disain geometri tungku
+natural draft gasification (NDG) dilakukan dengan
+tujuan untuk mendapatkan hasil kerja optimal dari
+tungku natural draft gasification (NDG) sebelumnya
+dengan melakukan perancangan ulang disain
+tungku, yang kemudian akan dilakukan uji simulasi
+CFD. Perancangan ulang yang dilakukan pada
+penelitian kali ini menitikberatkan pada disain
+bagian lubang udara untuk pemasukan udara,
+ruang pembakaran, ruang pengumpan (hopper)
+untuk bahan bakar dan cerobong gas mampu bakar.
+
+
+Disain ruang pembakaran yang dirancang memiliki
+ukuran tinggi sebesar 12 cm, dan diameter sebesar
+12 cm; pada ruang pengumpan (hopper) didapatkan
+ukuran tinggi sebesar 22.5 cm, dan diameter sebesar
+20 cm. Disain bagian lubang udara dan cerobong
+gas mampu bakar yang dirancang dibagi menjadi
+beberapa skenario, dimana skenario yang dibuat
+antara lain diameter lubang udara dengan ukuran 4
+cm, 3.5 cm, 2.5 cm, dan 2 cm; pada tinggi cerobong
+gas mampu bakar akan dibuat dengan ukuran 10
+cm, 15 cm, dan 20 cm. Beberapa skenario ini akan
+dilakukan uji tahap simulasi, proses uji simulasi ini
+digunakan untuk melihat skenario mana yang terbaik
+untuk proses pengembangan tungku tersebut.
+Simulasi dan Analisis CFD
+Proses simulasi CFD dilakukan dengan dua
+tahap, pada kondisi tahap pertama dilakukan untuk
+menentukan kondisi laju aliran udara yang optimal
+pada tumpukan arang biomassa yang digunakan
+pada keadaan free convection. Penentuan kondisi
+porositas arang kayu menggunakan kondisi porous
+zone dari bahan arang kayu. Nilai porositas yang
+dimiliki oleh arang kayu adalah sebesar 50.20%, nilai
+tersebut kemudian dimasukan sebagai data porous
+zone pada uji simulasi CFD. Kecepatan aliran yang
+didapatkan dengan kondisi porous zone sebesar
+50.20% pada lubang udara primer adalah tetap,
+dan pada lubang sekunder bervariasi diakibatkan
+adanya perbedaan diameter lubang sekunder.
+Kondisi yang dihasilkan pada tahap pertama dapat
+ditunjukan pada Tabel 4 berikut.
+Berdasarkan data Tabel 4 yang didapatkan
+dapat diketahui, bahwa apabila semakin kecil
+diameter lubang udara sekunder maka kecepatan
+aliran udara semakin besar, sedangkan apabila
+diameter lubang udara sekunder semakin besar
+maka akan mengakibatkan kecepatan aliran
+udara ke dalam tungku semakin kecil, ini akan
+berpengaruh terhadap suplai udara oksigen optimal
+yang dibutuhkan untuk proses pembakaran dan
+gasifikasi di dalam tungku. Suplai udara oksigen
+yang optimal ini akan dibutuhkan untuk proses
+pembakaran dan gasifikasi arang kayu untuk
+menghasilkan komposisi gas mampu bakar yang
+optimal untuk energi gas mampu bakar tungku.
+Kecepatan aliran udara yang didapatkan ini akan
+menjadi data untuk tahap kedua simulasi CFD,
+dimana pada tahap kedua ini dengan menggunakan
+skenario lubang udara, dan tinggi cerobong akan
+didapatkan rancangan pengembangan hasil tungku
+yang terbaik. Rancangan tungku yang terbaik dapat
+diketahui dari beberapa parameter yaitu data energi
+dan komposisi gas mampu bakar yang dihasilkan
+oleh tungku. Tingkatan energi yang dihasilkan oleh
+tungku ini didapatkan dari hasil parameter laju aliran.
+massa gas, dan suhu keluaran dari tungku tersebut.
+Kecepatan aliran udara merupakan parameter
+yang mempengaruhi laju aliran massa gas,dan
+suhu keluaran dari tungku. Tingkat energi tungku
+yang optimal dapat diketahui dengan menghitung
+menggunakan rumus :
+Q = mgas x Cpgas x ΔT (2)
+Keterangan
+mgas : laju aliran gas bakar (kg/detik);
+Cpgas : kalor jenis gas bakar (J/kgOC);
+ΔT : Selisih Suhu keluar dan masukan (OC).
+Tingkat energi yang optimal ini akan
+mengindikasikan proses reaksi pembakaran dan
+gasifikasi yang terjadi di ruang pembakaran dan
+proses pembakaran hasil gas pembakaran dengan
+aliran udara sekunder pada saluran gas mampu
+bakar terjadi secara sempurna. Beberapa skenario,
+yang dilakukan didapatkan bahwa disain tungku
+ini memiliki daya energi tungku dari 1863.9 J/
+detik sampai dengan 2585.7J/detik. Sisi efisiensi
+gasifikasi dilakukan untuk melihat tingkat efektifitas tungku untuk mengubah energi dari arang kayu
+menjadi gas mampu bakar. Penggunaan bahan
+bakar arang kayu dengan laju aliran bahan bakar
+arang kayu yang digunakan adalah 1x10-3 kg/detik
+dan memiliki nilai kalor sebesar 23900 kJ/kg maka
+energi bahan arang kayu yang dihasilkan sebesar
+23.9 kJ/detik, dimana arang kayu tersebut diubah
+menjadi gas mampu bakar dengan laju aliran
+sebesar 1.4 x 10-3 kg/detik dan memiliki nilai kalor
+total sebesar 11458.82 kJ/kg yang menghasilkan
+energi gas mampu bakar sebesar 16.04 kJ/detik.
+Maka dapat diketahui bahwa efisiensi gasifikasi
+perubahan energi arang kayu menjadi energi gas
+mampu bakar sebesar 67.11%., ini berarti proses
+pembakaran dan gasifikasi yang terjadi di dalam
+tungku optimal. Berikut hasil tingkat energi yang dihasilkan dari beberapa skenario tungku yang
+dibuat terdapat pada Tabel 5.
+Pada tabel hasil data di atas dapat juga terlihat
+dimana laju aliran gas mampu bakar akan semakin
+kecil apabila diameter lubang udara sekunder
+semakin kecil, ini akan mengakibatkan tingkatan
+energi yang dihasilkan oleh tungku semakin
+rendah. Ukuran diameter lubang sekunder ini akan
+sangat berpengaruh terhadap adanya aliran udara
+selain untuk proses pembakaran dengan gas hasil
+pembakaran, juga membantu untuk mendorong
+gas hasil pembakaran tersebut untuk mencapai
+cerobong gas mampu bakar. Beberapa kondisi yang
+terdapat pada tungku dapat dilihat pada gambar
+kontur yang disajikan pada Gambar 2.
+Hasil dari simulasi disain tungku ini juga dapat
+menentukan sebaran komposisi gas yang dihasilkan
+baik dari proses pembakaran dan gasifikasi bahan
+bakar, hasil reaksi pembakaran gas bakar dengan
+udara sekunder, dan hasil keluaran outlet dari
+cerobong gas mampu bakar. Keseluruhan proses
+tersebut digambarkan pada data reaksi (reaksi
+Tabel 3) yang dijadikan sebagai data dasar untuk
+simulasi tungku yang mana dari reaksi tersebut
+akan dihasilkan data simulasi komposisi gas.
+Komposisi gas yang dihasilkan dari simulasi reaksi
+tersebut antara lain gas CO2, H2O, CH4, H2, dan CO.
+Komposisi gas yang dihasilkan dari ketiga tempat
+proses tersebut dapat dilihat pada Gambar 3.
+Hasil rataan grafik pembakaran dan gasifikasi
+arang kayu yang digunakan didapatkan kandungan
+gas (CO2 1%), (H2O 0.5%), (CH4 1.6%), (CO
+7.3%), dan (H2 5.2%) pada proses pembakaran
+dan gasifikasi, kandungan gas (CO2 6.7 %), (H2O
+0.5%), (CH4 1.9%), (CO 11.4%), dan (H2 8.3%)
+pada pembakaran dengan udara sekunder, dan
+kandungan gas (CO2 12%), (H2O 2.5%), (CH4 0.2%),
+(CO 0.7%), dan (H2 0.4%) pada keluaran outlet
+cerobong. Hasil tersebut dapat dijelaskan bahwa
+pada saat proses reaksi gasifikasi dan pembakaran
+yang terjadi pada ketinggian 20 cm [C(s) + 0.5O2 
+CO] dimana dengan bantuan udara primer yang
+berasal dari bawah tungku melakukan proses reaksi
+tersebut dengan arang kayu menghasilkan gas
+mampu bakar CO, CH4, dan H2 serta gas lainnya
+yaitu CO2, dan H2O namun hasilnya belum optimal.
+Aliran gas mampu bakar tersebut kemudian akan
+mengalir menuju cerobong, akan tetapi sebelum
+mencapai cerobong, aliran gas mampu bakar
+tersebut bertemu dengan aliran udara sekunder
+yang berasal dari lubang udara sekunder pada
+ketinggian 40 cm, dimana reaksi yang terjadi [CO +
+0.5O2  CO2], [H2 + 0.5O2  H2O], dan [CH4 + 0.5
+O2  CO + 2H2] menyebabkan reaksi pembakaran
+gas bakar yang akan menghasilkan gas bakar yang
+optimal untuk digunakan pada proses memasak.
+Reaksi pembakaran gas digambarkan dengan laju
+reaksi (kgmol/m3s); laju reaksi tersebut berlangsung
+di saluran utama gas bagian tengah-tengah
+pembakaran.
+Setelah mengalami proses pembakaran yang
+terjadi di saluran utama gas bagian tengah-tengah
+pembakaran tersebut maka gas mampu bakar 
+tersebut akan habis pada saat keluaran outlet di
+cerobong gas, karena telah mengalami proses
+pembakaran gas yang sempurna menjadi gas
+CO2 dan H2O. Hasil simulasi komposisi gas CO,
+CH4, dan CO2 dari disain tungku terpilih ini dapat
+dibandingkan dengan komposisi gas dari percobaan
+tungku NDG yang dilakukan sebelumnya (Nelwan
+et al, 2013). Didapatkan komposisi gas CO sebesar
+16%, CH4 sebesar 2% pada pengukuran sedangkan pada hasil simulasididapatkan komposisi gas CO
+sebesar 11.4%, dan CH4 sebesar 1.9%. Dari hasil
+perbandingan tersebut dapat dikatakan data hasil
+simulasi yang dilakukan mendekati data pengukuran
+yang dilakukan di laboratorium. Selain perbandingan
+dengan komposisi gas, dapat dibandingkan juga nilai
+kalor. Nilai kalor hasil pengukuran sebesar 2622.02
+kJ/kg sedangkan hasil simulasi sebesar 2105.2 kJ/
+kg. Nilai kalor pada hasil pengukuran lebih besar
+diakibatkan persentase gas mampu bakar hasil
+pengukuran lebih besar diakibatkan hasil simulasi.
+Hasil pengembangan disain tungku ini dapat
+membuat kinerja dari tungku lebih optimal.
+Simpulan
+Simulasi disain skenario tungku dilakukan
+terhadap disain geometri lubang udara dan tinggi
+cerobong gas mampu bakar dapat disimpulkan
+bahwa dari skenario tersebut didapatkan daya
+energi tungku antara 1863.9 J/detik sampai dengan
+2585.7 J/detik, dan memiliki tingkat efisiensi
+gasifikasi sebesar 67.11%. Proses simulasi
+tungku NDG juga mampu menganalisis hasil
+komposisi gas mampu bakar (CO, CH4, dan H2).
+Perbandingan komposisi gas antara hasil simulasi
+dengan pengukuran sebelumnya mendapatkan
+nilai data simulasi hampir mendekati nilai data
+pengukuran, sedangkan pada perbandingan nilai
+kalor, didapatkan pada pengukuran nilai kalor lebih
+besar ini diakibatkan komposisi gas mampu bakar
+pada hasil pengukuran lebih besar dibandingkan
+dengan data simulasi.

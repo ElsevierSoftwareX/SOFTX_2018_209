@@ -1,0 +1,154 @@
+﻿Daerah Aliran Sungai (DAS) Bandar Lampung yang melewati Kota Bandar
+Lampung dilalui oleh 2 (dua) sungai besar (Sungai Way Kuripan dan Sungai Way
+Kuala Garuntang ) serta 19 sungai-sungai kecil lainnya. Keadaan ini memerlukan
+pengelolaan DAS yang terarah untuk mengontrol permasalahan yang mungkin
+muncul, misalnya banjir dan kekeringan. Kejadian banjir dan kekeringan bisa
+diprediksi dengan dilakukan pendekatan hidrologi, sistem hidrologi yang
+kompleks dapat dipresentasikan misalnya dalam model matematik dengan
+penyederhanaan-penyederhanaan sehingga didapat ramalan besaran dan kejadian
+hidrologi yang dapat digunakan dalam menentukan bentuk pengendalian SDA dan
+dalam mengidentifikasi potensi hidrologi.
+Dalam penelitian ini, sangat menarik untuk melakukan pemodelan hidrologi
+pada DAS Bandar Lampung untuk mengetahui potensi banjir di Kota Bandar
+Lampung. Pemodelan yang dilakukan adalah Distributed Hydrologic Model,
+dimana pendekatan yang dilakukan adalah dengan membagi DAS Kota Bandar
+Lampung menjadi bagian terkecil dengan batasan sungai dengan ordo 1 sungai.
+Metode pembuatan hidrograf banjir dengan menggunakan Hidrograf Satuan
+Sintesis (HSS) Nakayasu. Model kemudian dilakukan validasi dengan Hidrograf
+Satuan Terukur (HST) pada Sub DAS Way Awi, Way Simpur dan Way
+Garuntang.
+Hasil delinasi DAS Bandar Lampung dan sungai berdasarkan keadaan
+sebenarnya dilapangan didapat data ; DAS Bandar Lampung terbagi menjadi 14
+(empat belas) yaitu Way Simpur, Way Garuntang, Way Simpang Kanan, Way
+Betung, Way Simpang Kiri, Way Kuripan, Way Kupang, Way Kunyit, Way
+Lunik 1, Way Lunik 2, Way Galih, Way Keteguhan, Way Sukamaju, Way
+Gebang dengan luas total sebesar 168,877 km2.
+Dari hasil perhitungan dengan menggunakan HSS Nakayasu diperoleh nilai
+debit puncak (Qp) antara sebesar ; DAS Way Simpur = 0,130 – 0,579 m3/detik ;
+DAS Way Garuntang = 0,181 – 0,999 m3/detik ; DAS Way Simpang Kanan =
+0,106 – 0,420 m3/detik ; DAS Way Betung = 0,031 – 0,389 m3/detik ; DAS Way
+Simpang Kiri = 0,102 – 0,359 m3/detik ; DAS Way Kuripan = 0,526 m3/detik ;
+DAS Way Kupang = 0,443 – 0,448 m3/detik ; DAS Way Kunyit = 0,472 m3/detik
+; DAS Way Lunik 1= 0,125 – 0,275 m3/detik ; DAS Way Lunik 2 = 0,385
+m3/detik ; DAS Way Galih = 0,366 – 0,526 m3/detik ; DAS Way Keteguhan =
+0,173 - 0,395 m3/detik ; DAS Way Sukamaju = 0,132 – 0,532 m3/detik ; DAS
+Way Gebang = 0,489 m3/detik.
+Hasil dari validasi HSS Nakayasu pada DAS Way Simpur, Way Garuntang
+dan Way Awi menunjukkan model yang dibangun memiliki kecocokan dengan
+debit puncak namun kurang cocok dengan waktu puncak. Pada validasi debit
+puncak kesalahan <25%. Diperlukan modifikasi pada permukaan waktu puncak
+jika ingin menggunakan HSS Nakayasu di DAS Bandar Lampung, misalnya
+dengan menggunakan faktor koreksi.
+Kata kunci : Daerah Aliran Sungai (DAS), Hidrograf Satuan Sintesis (HSS)
+
+
+I. PENDAHULUAN
+A. Latar Belakang
+Provinsi Lampung terbagi menjadi 3 Wilayah Sungai (WS), yaitu : (1) WS
+Seputih-Sekampung, (2) WS Mesuji-Tulang Bawang, (3) WS Semangka,
+berdasarkan Peraturan Menteri Pekerjaan Umum Nomor : 11a/PRT/M/2006.
+Luas WS Seputih - Sekampung sebesar 14.637 km2, dengan panjang seluruh
+sungai 1.975 km, serta jumlah cabang sungai sebanyak 31 buah, terbagi
+menjadi 4 Daerah Aliran Sungai (DAS), yaitu : (1) DAS Seputih, (2) DAS
+Sekampung, (3) DAS Jepara-Kambas, (4) DAS Bandar Lampung-Kalianda.
+Secara hidrologis Kota Bandar Lampung termasuk ke dalam WS Seputih -
+Sekampung, dengan salah satu DAS nya adalah DAS Bandar Lampung -
+Kalianda yang dilalui 2 sungai besar yaitu Sungai Way Kuripan dan Sungai
+Way Kuala, serta 19 sungai - sungai kecil lainnya. Daerah hulu sungai berada
+di bagian barat dan daerah hilir sungai berada di wilayah bagian selatan yaitu
+pada dataran pantai, sebagian besar sungai - sungai tersebut bermuara di
+Teluk Lampung.
+Dengan kondisi hidrologis tersebut, diperlukan pengelolaan DAS yang tepat
+agar dapat mengetahui permasalahan - permasalahan yang mungkin akan
+terjadi. Permasalahan DAS yang mungkin terjadi seperti banjir dan
+kekeringan dapat diprediksi dengan salah satu pemodelan hidrologi, untuk itu
+diperlukan data potensi sumber daya air pada DAS di Bandar Lampung. Data
+tersebut sangat penting untuk mengetahui potensi debit banjir pada sungai,
+sehingga dapat diketahui seberapa besar efeknya yang mungkin terjadi di
+Kota Bandar Lampung hingga mencapai debit banjir maksimum.
+Model hidrologi merupakan representasi sistem hidrologi dimana model ini
+bertujuan untuk mendekati kondisi riil dari sistem hidrologi. Dalam model
+hidrologi, dilakukan penyederhanaan - penyederhanaan dari sistem hidrologi
+yang komplek sehingga lebih mudah dilakukan penelusuran sistem secara
+kuantitatif, dengan memanfaatkan karakteristik DAS sebagai input untuk
+memprediksi respon DAS.
+Sebelumnya telah dilakukan penelitian pada beberapa Sub DAS di Bandar
+Lampung menggunakan Hidrograf Satuan Terukur (HST) yang dilakukan
+oleh Kusumastuti dkk. (2013). Penelitian ini dilakukan dengan
+mengembangkan Distributed Hydrologic Model menggunakan Hidrograf
+Satuan Sintesis (HSS) metode GAMA I dan HSS Nakayasu. Model yang
+dikembangkan dalam penelitian tersebut hanya dilakukan pada 2 DAS
+terbesar di Bandar Lampung dengan membandingkan model HSS dan HST
+yang dikembangkan berdasarkan data pengukuran dilapangan. Hasil
+penelitian tersebut menunjukkan bahwa metode HSS Nakayasu lebih cocok
+pada DAS dengan luas kurang dari 100 km2.
+Dengan hasil penelitian tersebut, maka penelitian ini menggunakan metode
+HSS Nakayasu karena hasil penelitian yang dilakukan oleh Kusumastuti, dkk.
+(2012) menunjukan bahwa metode HSS Nakayasu mendekati hasil model
+HST.
+
+Banyak macam / klasifikasi model hidrologi, diantaranya lumped model dan
+distributed model. Harto (1993) menyatakan bahwa model hidrologi dibuat
+bertujuan untuk : (1) Meramal secara probabilitas atas besaran dan waktu
+kejadian hidrologi, (2) Meramal besaran dan kejadian hidrologi pada waktu
+yang akan datang, (3) Mendeteksi pengendalian sumber daya air, (4)
+Mengidentifikasi potensi hidrologi dalam perencanaan, (5) Mengekstrapolasi
+data / informasi, (6) Memperkirakan kondisi lingkungan akibat perubahan
+perilaku manusia, (7) Merupakan dasar dalam penelitian hidrologi.
+Model lumped parameter digunakan untuk mentransformasi curah hujan
+(input) ke dalam runoff (output) dengan konsep bahwa semua proses dalam
+DAS terjadi pada satu titik spasial. Lumped parameter memperlakukan DAS
+sebagai himpunan parameter-parameter yang mempunyai perilaku yang
+seragam. Sebaliknya, model distributed parameter berusaha menggambarkan
+proses mekanisme fisik dan keruangan.
+Penelitian ini menarik untuk dilakukan pada seluruh DAS di Bandar
+Lampung dengan tujuan dapat mengambarkan pola sebaran keruangan aliran
+pada DAS tersebut.
+Pada penelitian ini digunakan distributed hyrologic model pada seluruh DAS
+di Bandar Lampung yang dibagi menjadi sub DAS – sub DAS kecil pada
+sungai ordo tingkat ke 1 untuk mendapatkan sebaran - sebaran aliran pada
+DAS tersebut. Didalam pengembangan model ini, dilakukan dengan Metode
+HSS Nakayasu dan di validasi dengan model HST berdasarkan hasil
+penelitian Kusumastuti, dkk. (2012) dengan memperhatikan pola aliran DAS
+yang bertetangga (neighbouring watershed) dan cascade watershed.
+Penelitian dibantu dengan software Sistem Informasi Geografis (SIG) untuk
+mempercepat proses hitungan dan mengolah peta khususnya dalam penentuan
+karakteristik pengaliran DAS yang dibutuhkan dan menjadi data dalam
+analisa HSS Nakayasu.
+Hasil penelitian ini menjadi sangat penting untuk memprediksi banjir di Kota
+Bandar Lampung dengan cepat yaitu dengan mengalikan HSS yang ada
+dengan nilai curah hujan efektif yang terjadi sehingga diperoleh nilai debit
+banjir. Hasil penelitian ini dapat dijadikan bahan masukan bagi para
+pengambil kebijakan dalam pengelolaan Sumber Daya Air (SDA) di Kota
+Bandar Lampung.
+
+B. Maksud dan Tujuan
+Maksud dari penelitian tesis ini untuk mendapatkan pola aliran pada DAS di
+Bandar Lampung sampai tahap pola aliran pada Sub DAS terkecil.
+Sedangkan tujuan dari penelitian ini adalah :
+1. Mengetahui karakteristik DAS diantaranya bentuk topografi DAS, tipologi
+sungai (panjang dan jumlah), luas DAS yang dibatasi pada setiap
+pertemuan ordo sungai.
+
+2. Menghitung pola aliran DAS menggunakan metode HSS pada DAS
+Bandar Lampung dimana DAS dibagi kembali menjadi sub DAS terkecil
+sampai dengan ordo ke 1.
+3. Mengetahui karakteristik aliran pada Sub DAS neighbouring dan Sub
+DAS cascade.
+4. Memvalidasi distributed hydrologic model yang dikembangkan dari hasil
+penelitian dengan hasil pengukuran hidrograf satuan terukur di DAS Way
+Awi, DAS Way Simpur dan DAS Way Garuntang pada penelitian
+sebelumnya.
+
+C. Batasan Masalah
+Mengacu pada judul tesis tersebut, maka batasan masalah penelitian terdiri
+dari :
+1. DAS yang menjadi fokus penelitian adalah seluruh DAS di Bandar
+Lampung.
+2. Metode Hidrograf Satuan Sintesis yang dipakai adalah HSS Nakayasu.
+3. Tidak digunakan data hujan efektif karena tidak dilakukan perhitungan
+hidrograf banjir rancangan.
+4. Dalam penelitian ini tidak membahas aliran air tanah (groundwater flow)
+dan aliran bawah tanah (sub surface flow, interflow) yang merupakan
+penyebab pengaliran didalam sungai.
+Nakayasu, Sistem Informasi Geografis (SIG)

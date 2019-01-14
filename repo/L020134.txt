@@ -1,0 +1,216 @@
+﻿ABSTRAK
+Penelitian ini bertujuan untuk melakukan recovery alum pada sludge hasil proses
+koagulasi flokulasi air limbah Monosodium Glutamat dengan melihat efisiensi
+penurunan TSS optimum ketika diaplikasikan sebagai koagulan kembali.
+Recovery alum pada penelitian ini menggunakan asam kuat (H2SO4) 10M
+(asidifikasi). Penelitian ini menggunakan 5 variasi, yaitu variasi volume asam
+kuat, volume alum recovery, kecepatan pengadukan cepat, kecepatan pengadukan
+lambat, serta lama waktu pengendapan. Analisis data pada penelitian ini adalah
+analisis deskriptif yang disajikan dalam grafik dan tabel, serta analisis statistik
+menggunakan uji Anova One-Way dilanjutkan uji Duncan. Hasil optimum dari
+ke-5 variasi secara berturut-turut adalah 20 ml H2SO4, 1 ml alum recovery,
+kecepatan 80 rpm (koagulasi) dan 10 rpm (flokulasi), serta pengendapan 30 menit.
+Berdasarkan hasil analisis statistik menunjukkan bahwa variasi volume asam kuat,
+kecepatan pengadukan cepat dan lambat menunjukkan tidak ada beda signifikan
+pada penyisihan TSS, sedangkan pada variasi volume alum recovery dan lama
+waktu pengendapan menunjukkan ada beda signifikan dalam penyisihan TSS pada
+air limbah MSG.
+Kata kunci: Alum recovery, asidifikasi, koagulasi, flokulasi, sedimentasi
+
+BAB 1
+PENDAHULUAN
+1.1 Latar Belakang
+Industri yang memiliki peran penting dalam kehidupan sehari-hari adalah
+industri pangan, diantaranya yaitu industri penyedap makanan Monosodium
+Glutamat (MSG). Monosodium Glutamat (MSG) merupakan salah satu jenis
+bahan tambahan makanan (food additive) yang berfungsi sebagai pembangkit cita
+rasa atau dikenal masyarakat sebagai penyedap masakan (Triastuti, 2006). Jenis
+industri MSG ini merupakan penghasil limbah organik yang tinggi dengan
+kandungan Total Suspended Solid (TSS) yang tinggi pula. Tujuan dasar
+pengolahan limbah ini adalah untuk menghilangkan sebagian besar padatan
+tersuspensi dan bahan terlarut, terkadang juga untuk menyisihkan unsur hara
+(nutrien) berupa nitrogen dan fosfor (Departemen Perindustrian, 2007). Proses
+yang dapat dilakukan untuk menurunkan kandungan Total Suspended Solid (TSS)
+ini adalah koagulasi flokulasi (Enrico, 2008).
+Koagulasi adalah proses pengolahan air atau limbah cair dengan
+mendestabilisasi partikel-partikel koloid untuk memfasilitasi penggabungan
+partikel selama flokulasi, sedangkan flokulasi adalah proses pengolahan air
+dengan cara mengadakan kontak diantara partikel-partikel koloid yang telah
+mengalami destabilisasi (koagulasi) sehingga ukuran partikel-partikel tersebut
+menjadi partikel yang lebih besar (Kiely, 1997). Pada proses koagulasi flokulasi,
+koagulan yang dapat dipakai adalah tawas/Aluminium sulfate (Al2(SO4)3), ferric
+chloride (FeCl3), ferric sulfate (Fe2(SO4)3), serta Poly Aluminium Chloride (PAC)
+
+
+(Duan & Gregory, 2002). Akan tetapi, koagulan yang biasa dipakai adalah alum
+(Han, 2012) karena alum mudah diperoleh dan harganya murah. Beberapa
+penelitian menunjukkan bahwa penggunaan koagulan alum dapat menurunkan
+TSS sebesar 92,87% (Khasanah, 2014) pada air limbah industri batik dan 70,57%
+pada pengolahan air baku Sungai Cieuleur Ciamis (Amir & Isnaniawardhana,
+2007).
+Koagulasi flokulasi yang dilakukan pada pengolahan air limbah di PT. Z
+menggunakan Poly Aluminium Chloride (PAC) sebagai koagulan dan anion
+polimer sebagai flokulan. Hasil koagulasi flokulasi ini menghasilkan lumpur yang
+diolah kembali sebagai bahan tambahan pembuatan pupuk amina (Simamora &
+Kurniati, 2010). Akan tetapi penggunaan koagulan PAC ini memerlukan investasi
+yang cukup besar dibandingkan dengan koagulan lain. Koagulan yang memiliki
+fungsi yang sama dengan PAC namun dengan harga yang jauh lebih rendah
+adalah tawas/Aluminium sulfate. Selain itu, tawas mudah dalam penyimpanan
+dibandingkan PAC yang mudah mencair ketika berada pada udara luar.
+Beberapa penelitian menunjukkan rentang penurunan penyisihan TSS
+menggunakan koagulan PAC dan tawas tidak terpaut jauh, yaitu pada penelitian
+Kartika dkk. (2015) untuk koagulan PAC sebesar 93,27% pada dosis 0,15 g/L,
+sedangkan penelitian Pratiwi dkk. (2012) untuk koagulan tawas sebesar 92,25%
+pada dosis 140 mg/L. Akan tetapi, penelitian yang ingin dilakukan peneliti bukan
+dititik beratkan pada penggunaan tawas sebagai koagulan. Selama ini
+lumpur/sludge hasil koagulasi flokulasi dimanfaatkan sebagai bahan tambahan
+pupuk amina saja, alternatif lain yang ingin dilakukan dalam penelitian ini adalah
+memanfaatkan lumpur hasil koagulasi flokulasi ini sebagai koagulan kembali
+(recovery alum).
+Beberapa penelitian terdahulu melakukan penelitian tentang recovery alum
+yang berasal dari limbah padat lumpur (LPL) yang digunakan sebagai koagulan
+kembali, yaitu IPAM Ngagel III Surabaya (Wahyuddin, 2001), PDAM Intan
+Banjar (Mirwan, 2012), dan PDAM kota Pontianak (Moerdiyanti dkk., 2013).
+Pada penelitian ini akan diperoleh kembali koagulan (recovery koagulan) dengan
+proses asidifikasi, yaitu salah satu teknik perolehan kembali aluminium di dalam
+lumpur menggunakan asam kuat yang disertai dengan pengadukan dan
+pengendapan. Proses asidifikasi menggunakan asam kuat ini diharapkan alum
+mampu diperoleh kembali dari Al(OH)3.
+Faktor-faktor yang mempengaruhi proses perolehan kembali aluminium
+adalah volume asam kuat, volume alum cair recovery, pengaruh kecepatan
+pengadukan cepat, pengaruh kecepatan pengadukan lambat, dan waktu
+pengadukan (Moerdiyanti dkk., 2013). Faktor-faktor tersebut dicari efisiensi
+penyisihan TSS paling optimum sehingga recovery koagulan yang dilakukan
+dapat dikatakan telah efisien dan efektif.
+Konsentrasi asam kuat (H2SO4) optimal yang digunakan untuk asidifikasi
+oleh peneliti terdahulu, yaitu Wahyuddin (2001) adalah 20 ml dengan kadar alum
+yang dapat direcovery sebesar 95,97%. Pada penelitian ini variasi volume asam
+kuat yang digunakan antara 5-30 ml. Proses asidifikasi ini akan diperoleh alum
+dengan kadar tertentu yang dapat diukur menggunakan Spektrofotometer Serapan
+Atom (SSA) (SNI 06-6989.36-2005). Beberapa variasi konsentrasi ini akan dicari
+persen penurunan TSS paling optimum. Persen penurunan paling optimum ini
+akan dijadikan acuan dalam langkah selanjutnya.
+Ketika sudah diperoleh recovery alum yang diinginkan, kemudian
+melakukan variasi massa alum recovery. Pada penelitian Moerdiyanti dkk. (2013)
+menyebutkan bahwa massa alum recovery pada kondisi terbaik dengan efisiensi
+penyisihan kekeruhan sebesar 99,72% adalah 12 mg. Pada penelitian ini akan
+dilakukan variasi massa alum recovery antara 1-15 mg dengan tujuan untuk
+menyisihkan TSS. Massa alum recovery yang paling optimum dalam menurunkan
+TSS dipilih untuk dijadikan acuan dalam langkah selanjutnya.
+Setelah diperoleh massa alum recovery optimal, kemudian melakukan
+variasi pengadukan cepat antara 60-160 rpm. Pemilihan variasi kecepatan ini
+mengacu pada penelitian Moerdiyanti dkk. (2013) yang memperoleh kecepatan
+pengadukan cepat optimal sebesar 160 rpm dengan efisiensi penyisihan kekeruhan
+sebesar 99,72%. Kecepatan pengadukan cepat yang tertinggi dalam menurunkan
+TSS dipilih untuk dijadikan acuan dalam langkah selanjutnya.
+Selain variasi pengadukan cepat, juga dilakukan variasi pengadukan
+lambat antara 5-30 rpm, karena pada penelitian Moerdiyanti dkk. (2013)
+kecepatan pengadukan lambat yang optimal adalah 20 rpm dengan efisiensi
+penyisihan kekeruhan sebesar 99,72%. Kecepatan pengadukan lambat yang
+tertinggi dalam menurunkan TSS dipilih untuk dijadikan acuan dalam langkah
+selanjutnya.
+Selain variasi kecepatan pengadukan, juga dilakukan pemilihan variasi
+waktu pengendapan optimum. Penelitian Mirwan (2012) menggunakan waktu
+
+ADLN-PERPUSTAKAAN UNIVERSITAS AIRLANGGA 5
+pengendapan 15 menit, Moerdiyanti dkk. (2013) menggunakan 30 menit,
+Ishikawa dkk. (2007) menggunakan 15 menit. Pada penelitian Mirwan &
+Rosariawari (2012) menunjukkan bahwa waktu pengendapan untuk menyisihkan
+TSS tertinggi adalah pada saat 120 menit. Berdasarkan beberapa penelitian
+tersebut, penelitian ini menggunakan variasi waktu pengendapan sebesar 1-120
+menit.
+Pada proses koagulasi flokulasi di atas kontrol pH sangat penting, karena
+dengan pH yang sesuai maka alum akan bekerja lebih optimum dibandingkan jika
+pH larutan cenderung asam ataupun basa. Berdasarkan penelitian Sudiarti (2009)
+menunjukkan bahwa pH optimum tawas adalah pada pH 8. Oleh karena itu,
+selama proses koagulasi flokulasi berlangsung pH dikontrol pada pH 8.
+Berdasarkan penjelasan di atas, peneliti ingin memanfaatkan
+sludge/lumpur yang berasal dari Settling tank 1 (sebelum masuk Chemical Unit)
+pada Instalasi Pengolah Air Limbah (IPAL) PT. Z untuk memanfaatkan kembali
+alum yang terdapat pada Settling tank 1 hasil koagulasi flokulasi sebagai koagulan
+recovery.
+1.2 Rumusan Masalah
+Rumusan masalah dalam penelitian ini adalah:
+1. Apakah ada beda efisiensi penurunan TSS akibat pemberian alum recovery
+yang dihasilkan dari variasi volume asam kuat pada proses asidifikasi di
+air limbah MSG?
+
+
+2. Apakah ada beda efisiensi penurunan TSS dengan pemberian variasi
+volume alum recovery pada air limbah MSG?
+3. Apakah ada beda efisiensi penurunan TSS akibat pemberian alum recovery
+pada variasi kecepatan pengadukan cepat (koagulasi) pada air limbah
+MSG?
+4. Apakah ada beda efisiensi penurunan TSS akibat pemberian alum recovery
+pada variasi kecepatan pengadukan lambat (flokulasi) pada air limbah
+MSG?
+5. Apakah ada beda efisiensi penurunan TSS akibat pemberian alum recovery
+pada variasi lama pengendapan dalam berbagai waktu pada air limbah
+MSG?
+1.3 Asumsi Penelitian
+Asumsi pada penelitian ini adalah proses asidifikasi pada sludge Settling
+Tank 1 dapat dijadikan sebagai koagulan recovery untuk mengolah air limbah
+MSG. Kadar alum yang terdapat pada koagulan recovery tersebut mampu
+dilarutkan melalui proses asidifikasi sehingga dapat menurunkan TSS pada air
+limbah. Pada penelitian Wahyuddin (2001) disebutkan bahwa koagulan recovery
+mampu menurunkan kekeruhan sebesar (97,55-97,81) %, sedangkan menurut
+penelitian Moerdiyanti dkk. (2013) koagulan recovery mampu menurunkan
+kekeruhan sebesar 99,26%.
+
+
+1.4 Hipotesis Penelitian
+1.4.1 Hipotesis kerja
+Semakin besar volume alum recovery yang diberikan, maka penurunan
+TSS air limbah semakin tinggi.
+1.4.2 Hipotesis statistik
+1. H01: Tidak ada beda nilai efisiensi penurunan TSS akibat pemberian alum
+recovery yang dihasilkan dari variasi volume asam kuat pada air limbah
+MSG.
+Ha1: Tidak ada beda nilai efisiensi penurunan TSS akibat pemberian alum
+recovery yang dihasilkan dari variasi volume asam kuat pada air limbah
+MSG.
+2. H02: Tidak ada beda nilai efisiensi penurunan TSS dengan pemberian variasi
+volume alum recovery pada air limbah MSG.
+Ha2: Ada beda nilai efisiensi penurunan TSS dengan pemberian variasi
+volume alum recovery pada air limbah MSG.
+3. H03: Tidak ada beda efisiensi penurunan TSS akibat pemberian alum recovery
+pada variasi kecepatan pengadukan cepat (koagulasi) pada air limbah
+MSG.
+Ha3: Ada beda efisiensi penurunan TSS akibat pemberian alum recovery pada
+variasi kecepatan pengadukan cepat (koagulasi) pada air limbah MSG.
+4. H04: Tidak ada beda efisiensi penurunan TSS akibat pemberian alum
+recovery pada variasi kecepatan pengadukan lambat (flokulasi) pada air
+limbah MSG.
+
+
+Ha4: Ada beda efisiensi penurunan TSS akibat pemberian alum recovery
+pada variasi kecepatan pengadukan lambat (flokulasi) pada air limbah
+MSG.
+5. H05: Tidak ada beda efisiensi penurunan TSS akibat pemberian alum recovery
+pada variasi lama pengendapan dalam berbagai waktu pada air limbah
+MSG.
+Ha5: Ada beda efisiensi penurunan TSS akibat pemberian alum recovery pada
+variasi lama pengendapan dalam berbagai waktu pada air limbah MSG.
+1.5 Tujuan Penelitian
+Tujuan dalam penelitian ini adalah:
+1. Mengetahui perbedaan efisiensi penurunan TSS akibat pemberian alum
+recovery yang dihasilkan dari variasi volume asam kuat pada air limbah
+MSG.
+2. Mengetahui perbedaan efisiensi penurunan TSS dengan pemberian variasi
+volume alum recovery pada air limbah MSG.
+3. Mengetahui perbedaan efisiensi penurunan TSS akibat pemberian alum
+recovery pada variasi kecepatan pengadukan cepat (koagulasi) pada air
+limbah MSG.
+4. Mengetahui perbedaan efisiensi penurunan TSS akibat pemberian alum
+recovery pada variasi kecepatan pengadukan lambat (flokulasi) pada air
+limbah MSG.
+
+
+5. Mengetahui perbedaan efisiensi penurunan TSS akibat pemberian alum
+recovery pada variasi lama pengendapan dalam berbagai waktu pada air
+limbah MSG.
+1.6 Manfaat Penelitian
+Manfaat dalam penelitian ini adalah mampu melakukan recovery alum
+hasil koagulasi flokulasi air limbah Monosodium Glutamat (MSG) untuk
+dijadikan koagulan kembali. Hal ini akan sangat bermanfaat bagi industri karena
+pengeluaran untuk pembelian bahan baku koagulan akan dapat dikurangi.

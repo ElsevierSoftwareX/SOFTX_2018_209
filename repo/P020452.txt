@@ -1,0 +1,67 @@
+﻿Laboratorium komputer merupakan tempat eksperimen, pelatihan, ataupun riset yang
+berhubungan dengan ilmu komputer dan memiliki beberapa komputer dalam satu jaringan
+yang digunakan oleh kalangan tertentu. Salah satu kegunaan laboratorium Jurusan Ilmu
+Komputer Universitas Lampung, yaitu sebagai tempat berlangsungnya proses praktikum yang
+diselenggarakan oleh asisten dosen dengan pesertanya yang disebut praktikan. Permasalahan
+yang dihadapi laboratorium komputer adalah hilangnya berkas presensi dan nilai. Hal ini
+cukup mengganggu pelaporan praktikum.
+Sistem yang dibuat dapat mengadministrasi kegiatan praktikum dengan subsistem yang ada
+didalamnya, yaitu subsistem jadwal, subsistem presensi, dan subsistem nilai. Sistem
+informasi ini memiliki data master yang dapat diolah oleh masing-masing subsistem tersebut,
+yaitu data login, data tahun ajaran, data program studi, data mahasiswa, data kuliah, data
+ruang, data kelas, data plotting, data praktikum, dan data asisten. Informasi yang dihasilkan
+antara lain data asisten, mata kuliah, jadwal, presensi praktikum, dan nilai praktikum.
+Keywords:Uji Coba Blackbox,Equivalence Partitioning,Sistem Informasi,Software,Waterfall
+
+I. PENDAHULUAN
+1.1 Latar Belakang
+Laboratorium komputer merupakan tempat eksperimen, pelatihan, ataupun riset
+yang berhubungan dengan ilmu komputer dan memiliki beberapa komputer dalam
+satu jaringan yang digunakan oleh kalangan tertentu. Hadirnya laboratorium di
+lingkup jurusan ilmu komputer merupakan salah satu upaya jurusan untuk
+meningkatkan kualitas mahasiswa dalam menimba ilmu.
+Saat ini Jurusan Ilmu Komputer Universitas Lampung, memiliki laboratorium
+komputer sebanyak 3 (tiga) ruang yang berada pada Gedung MIPA Terpadu lantai
+3 (tiga). Ketiga ruangan ini masing-masing terhubungan ke dalam 1 (satu) server
+yang berada tak jauh dari ketiga ruangan ini. Ruangan ini selalu dipakai untuk
+yang masih aktif dalam proses perkuliahan. Tak hanya itu, ruangan-ruangan ini
+juga digunakan untuk pelatihan-pelatihan bagi guru, dosen, ataupun siswa
+sekolah.
+
+Pada laboratorium ini telah memilki serangkaian tata tertib sebagai aturan dan
+acuan dalam penggunaannya dapat lebih tertib dan terlaksana dengan baik.
+Namun ada beberapa kendala yang dihadapi, yaitu catatan absensi yang sering
+hilang, dan kurang terarsipnya nilai-nilai yang diujikan selama praktikum. Salah
+satu caranya dengan membangun sebuah sistem informasi yang mampu untuk
+menangani beberapa permasalahan tersebut. Untuk dapat memfasilitasi hal
+tersebut, maka penulis akan mengembangkan sistem informasi laboratorium
+Jurusan Ilmu Komputer Universitas Lampung.
+1.2 Rumusan Masalah
+Rumusan masalah dalam penelitian ini, antara lain :
+1. bagaimana mengembangkan sistem informasi yang dapat mengadministrasi
+data asisten, presensi, dan nilai di laboratorium ?
+1.3 Batasan Masalah
+Batasan masalah dalam penelitian ini dibutuhkan agar pembahasan tidak melebar
+dari topik yang telah dijabarkan pada rumusan masalah, antara lain :
+1. sistem dibuat untuk administrator, asisten, dan praktikan,
+2. sistem yang dikembangkan adalah versi alpha, yaitu sebuah software yang
+masih dalam tahap pengembangan untuk menuju ke versi selanjutnya,
+
+3. sistem membahas mengenai sub sistem penjadwalan, sub sistem presensi
+asisten dan praktikan, dan sub sistem nilai praktikum.
+4. ekstensi format file yang digunakan untuk memasukkan data, yaitu dengan
+format .xls dan susunan format tabel data file excel telah baku.
+1.4 Tujuan
+Berdasarkan permasalahan tersebut, maka tujuan yang hendak dicapai dalam
+penelitian ini adalah merancang sistem yang mengolah data presensi asisten dan
+praktikan serta nilai praktikan untuk mata kuliah praktik di laboratorium Jurusan
+Ilmu Komputer Universitas Lampung.
+1.5 Manfaat
+Kegunaan penelitian ini diharapkan dapat memberikan input baik secara teoritis
+maupun secara praktis:
+1. secara teoritis, hasil penelitian ini akan memberikan sumbangan saran dalam
+ilmu komputer, khususnya mengenai sistem informasi untuk laboratorium
+ilmu komputer,
+2. secara praktis, hasil penelitian ini diharapkan:
+a. menambah wawasan dan pengetahuan bagi penulis dan masyarakat luas yang
+nantinya berniat merancang sistem informasi.

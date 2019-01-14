@@ -1,0 +1,146 @@
+﻿Abstrak
+Peminatan jurusan SMA bertujuan untuk memberikan peluang yang terbuka
+pada peserta didik untuk memilih mata pelajaran yang diminati dan
+mengembangkan berbagai potensi yang dimilikinya sesuai dengan kemampuan,
+minat, bakat, dan kepribadian. Dalam peminatan jurusan SMA, ada beberapa
+faktor yang mempengaruhinya. Untuk mengetahui faktor-faktor tersebut, maka
+digunakan metode regresi logistik biner dan Multivariate Adaptive Regression
+Spline (MARS). Metode regresi logistik biner adalah metode yang menjelaskan
+hubungan antara variabel respon dan beberapa variabel prediktor dengan
+variabelnya bernilai 1 untuk menyatakan keberadaan suatu karakteristik dan
+bernilai 0 untuk menyatakan ketidakberadaan suatu karakteristik. Metode MARS
+merupakan metode regresi nonparametrik multivariat pengembangan metode
+Recursive Partitioning Regression (RPR) dan spline untuk data berdimensi tinggi
+yang menghasilkan prediksi akurat serta model yang kontinu dalam knot. Kedua
+metode tersebut dibandingkan guna mengetahui metode terbaik yang digunakan
+dalam penelitian. Dari hasil analisis, baik menggunakan metode regresi logistik
+biner ataupun metode MARS, disimpulkan bahwa faktor yang mempengaruhi
+peminatan jurusan SMA adalah Nilai UN Matematika, Nilai UN IPA dan
+Hubungan dengan Teman. Dengan melakukan uji proporsi, disimpulkan bahwa
+kedua metode tersebut menghasilkan klasifikasi yang sama baiknya.
+Kata kunci: Peminatan Jurusan SMA, Regresi Logistik, Multivariate Adaptive
+Regression Spline (MARS), klasifikas
+
+
+BAB I
+PENDAHULUAN
+1.1. Latar Belakang
+
+Pendidikan adalah usaha sadar dan terencana untuk mewujudkan suasana
+belajar dan proses pembelajaran agar peserta didik secara aktif mengembangkan
+potensi dirinya untuk memiliki kekuatan spiritual keagamaan, pengendalian diri,
+kepribadian, kecerdasan, akhlak mulia, serta keterampilan yang diperlukan
+dirinya, masyarakat, bangsa dan negara (Undang-Undang Republik Indonesia
+Nomor 20 Tahun 2003, Pasal 1 Ayat 1). Di Indonesia, pendidikan dapat
+dibedakan berdasarkan jalur, jenjang dan jenisnya. Jalur pendidikan dibagi
+menjadi tiga yaitu jalur formal atau pendidikan yang diselenggarakan di sekolah sekolah
+pada umumnya, jalur nonformal atau pendidikan yang didapat dari luar
+seperti kursus dan pendidikan anak usia dini, serta jalur informal atau jalur
+pendidikan keluarga dan lingkungan berbentuk kegiatan belajar secara mandiri.
+Jenjang pendidikan jalur formal ada tiga yaitu pendidikan dasar, pendidikan
+menengah dan pendidikan tinggi. Sedangkan jika dilihat dari jenisnya, jenis
+pendidikan mencakup pendidikan umum, kejuruan, akademik, profesi, vokasi,
+keagamaan, dan khusus. Hal ini dijelaskan di dalam Undang-Undang Republik
+Indonesia Nomor 20 Tahun 2003.
+
+Sekolah Menengah Atas (SMA) merupakan pendidikan umum jalur formal
+jenjang sekolah menengah yang biasanya ditempuh dalam waktu 3 tahun. Pada
+jenjang Sekolah Menengah Atas, peserta didik akan mengikuti peminatan jurusan.
+Menurut Sudiarto (2013), tujuan diadakannya peminatan jurusan adalah untuk memberikan peluang yang lebih terbuka kepada peserta didik untuk memilih mata
+pelajaran yang diminati, mendalami materi mata pelajaran dan mengembangkan
+berbagai potensi yang dimilikinya secara fleksibel sesuai dengan kemampuan
+dasar umum (kecerdasan), bakat, minat dan karakteristik kepribadian tanpa
+dibatasi dengan sekat-sekat penjurusan yang terlalu kaku. Peminatan jurusan di
+SMA sangat penting karena dapat menjadi landasan dan acuan ke depan dalam
+meraih cita-cita serta dalam memilih jurusan di bangku perkuliahan. Umumnya
+pilihan minat jurusan di SMA ada tiga yaitu Ilmu Alam, Ilmu Sosial dan Ilmu
+Bahasa.
+
+Ada beberapa faktor yang mempengaruhi peserta didik dalam peminatan
+jurusan. Menurut Syah (2009), faktor yang mempengaruhi antara lain faktor
+internal dan faktor eksternal. Faktor internal yaitu faktor yang datang dari dalam
+diri siswa itu sendiri, sedangkan faktor eksternal adalah faktor yang datang dari
+luar diri siswa tersebut. Untuk mengetahui faktor apa saja yang mempengaruhi
+peserta didik dalam peminatan jurusan, maka perlu diadakan sebuah penelitian.
+SMA Negeri 2 Semarang adalah satu dari 16 SMA Negeri di Semarang
+yang terletak di Kecamatan Pedurungan. Sebelum tahun 2010, minat jurusan yang
+disediakan SMA Negeri 2 Semarang adalah Ilmu Alam, Ilmu Sosial dan Ilmu
+Bahasa. Namun setelah tahun 2010 pilihan minat jurusan Ilmu Bahasa ditiadakan
+karena kurangnya minat dari peserta didik. Jumlah peserta didik SMA Negeri 2
+Semarang Tahun Ajaran 2012/2013 hingga Tahun Ajaran 2014/2015 adalah
+sebanyak 1.438 siswa dengan jumlah peserta didik kelas X adalah 505 siswa,
+kelas XI ada 470 siswa dan kelas XII berjumlah 463 siswa.
+
+
+Dalam ilmu statistika, banyak metode yang dapat digunakan untuk
+mengetahui pengaruh variabel prediktor terhadap variabel responnya yang bersifat
+kategori. Diantaranya adalah metode regresi logistik biner dan Multivariate
+Adaptive Regression Spline (MARS). Kedua metode tersebut termasuk dalam
+analisis regresi. Menurut Montgomery dan Peck (1992) analisis regresi adalah
+suatu analisis statistika yang memanfaatkan hubungan antara dua variabel atau
+lebih. Umumnya analisis ini digunakan untuk melihat hubungan dan pengaruh
+variabel prediktor terhadap variabel respon dimana variabel responnya berupa
+data kuantitatif. Namun untuk variabel respon yang bersifat kualitatif/kategori
+dapat dianalisis menggunakan metode regresi logistik. Hosmer dan Lemeshow
+(2000) mengatakan bahwa metode regresi logistik adalah suatu metode analisis
+statistika yang mendeskripsikan hubungan antara variabel respon yang memiliki
+dua kategori atau lebih dengan satu atau lebih variabel prediktor. Salah satu model
+regresi logistik adalah regresi logistik biner. Model regresi logistik biner
+merupakan metode regresi logistik yang digunakan untuk menganalisis hubungan
+antara satu variabel respon dan beberapa variabel prediktor, dengan variabel
+responnya berupa data kualitatif dikotomi yaitu bernilai 1 untuk menyatakan
+keberadaan sebuah karakteristik dan bernilai 0 untuk menyatakan ketidakberadaan
+sebuah karakteristik.
+
+
+Metode statistika lainnya yang dapat digunakan juga untuk
+pengklasifikasian objek dengan melibatkan variabel respon dan kategori dengan
+sejumlah variabel prediktor kontinu ataupun kategori adalah metode Multivariate
+Adaptive Regression Spline (MARS). MARS merupakan salah satu model regresi
+nonparametrik multivariat yang dikembangkan oleh Friedman tahun 1991.
+
+
+Metode ini merupakan pengembangan dari pendekatan Recursive Partitioning
+Regression (RPR) dengan metode Spline (Friedman, 1991). Model MARS
+berguna untuk mengatasi permasalahan data berdimensi tinggi dan menghasilkan
+prediksi variabel respon yang akurat serta menghasilkan model kontinu dalam
+knot berdasarkan nilai Generalized Cross Validation (GCV) terkecil.
+Perbandingan metode regresi logistik dan MARS juga sudah pernah dilakukan
+sebelumnya pada penelitian yang berjudul “Ketepatan Klasifikasi Dengan
+Analisis Regresi Logistik dan Multivariate Adaptive Regression Spline (MARS)
+pada Data dengan Peubah Data Biner” (Fitrianty et al. 2013) dan “Pemodelan
+terhadap Kelulusan Siswa Masuk Akselerasi Menggunakan Analisis Regresi
+Logistik dan Multivariate Adaptive Regression Spline (MARS)” (Mandaku dan
+Mandaku, 2010).
+
+Sehubungan dengan penelitian ini, maka variabel yang diduga
+mempengaruhi peserta didik dalam peminatan jurusan terdiri dari faktor internal
+yang meliputi nilai UN Matematika, nilai UN IPA, nilai UN Bahasa Inggris dan
+dorongan dari diri sendiri, serta faktor eksternal yang meliputi hubungan siswa
+dengan teman, hubungan siswa dengan guru, dan hubungan siswa dengan
+keluarga. Dengan demikian, penelitian ini dibuat dengan judul “Perbandingan
+Metode Regresi Logistik Biner dan Multivariate Adaptive Regression Spline
+(MARS) pada Peminatan Jurusan SMA (Studi Kasus SMA Negeri 2 Semarang)”
+
+1.2. Perumusan Masalah
+Permasalahan yang dibahas pada penelitian ini adalah menganalisis serta
+memodelkan faktor-faktor yang mempengaruhi peminatan jurusan SMA dengan
+menggunakan dua metode yaitu metode Regresi Logistik Biner dan metode
+MARS yang kemudian kedua metode tersebut dibandingkan untuk mendapatkan
+metode terbaik dalam pemodelan dan klasifikasi peminatan jurusan SMA.
+
+1.3. Pembatasan Masalah
+Data yang digunakan dalam penelitian ini adalah data mengenai peminatan
+jurusan siswa kelas X, XI dan XII di SMA Negeri 2 Semarang tahun ajaran
+2014/2015. Metode yang digunakan dalam penelitian ini adalah metode Regresi
+Logistik Biner dan Multivariate Adaptive Regression Spline (MARS).
+
+1.4. Tujuan
+Tujuan yang ingin didapat dari penelitian ini adalah:
+1. Menentukan faktor-faktor yang mempengaruhi peserta didik dalam
+peminatan jurusan di SMA Negeri 2 Semarang.
+2. Mendapatkan pemodelan peminatan jurusan SMA dari metode Regresi
+Logistik Biner dan MARS
+3. Membandingkan metode Regresi Logistik Biner dan MARS untuk
+mendapatkan metode terbaik dalam pemodelan dan klasifikasi peminatan
+jurusan di SMA Negeri 2 Semarang.i

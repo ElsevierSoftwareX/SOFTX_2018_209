@@ -1,0 +1,28 @@
+﻿
+ BAB I 
+PENDAHULUAN 
+1.1 LATAR BELAKANG 
+Dinamometer, adalah suatu mesin yang digunakan untuk mengukur torsi (torque) dan kecepatan putaran (rpm) dari tenaga yang diproduksi oleh suatu mesin, motor atau penggerak berputar lain. Dinamometer dapat juga digunakan untuk menentukan tenaga dan torsi yang diperlukan untuk mengoperasikan suatu mesin. Dalam hal ini, maka diperlukan dinamometer. Dinamometer yang dirancang untuk dikemudikan disebut dinamometer absorsi/penyerap. Dinamometer yang dapat digunakan, baik penggerak maupun penyerap tenaga disebut dinamometer aktif atau universal. 
+Sebagai tambahan untuk digunakan dalam menentukan torsi atau karakteristik tenaga dari mesin dalam test/Machine Under Test (MUT), Dinamometer juga mempunyai peran lain. Dalam siklus standar uji emisi, seperti yang digambarkan oleh US Environmental Protection Agency (US EPA), dynamometer digunakan untuk membuat simulasi jalan baik untuk mesin (dengan menggunakan dinamometer mesin) atau kendaraan secara penuh (dengan menggunakan dinamometer sasis). Sebenarnya, diluar pengukuran torsi dan power yang sederhana, dinamometer dapat digunakan sebagai bagian dari pengujian untuk berbagai aktifitas pengembangan mesin seperti kalibrasi pengontrol manajemen mesin, pengembangan sistem pembakaran dsb. Dinamometer arus Eddy yang paling umum digunakan pada dinamometer chasis modern. 
+Untuk meningkatkan kemampuan Laboratorium Efisiensi dan Konservasi Energi, Jurusan Teknik Mesin Universitas Diponegoro, maka pada saat ini sedang dibuat sebuah dinamometer arus Eddy. Dinamometer ini akan digunakan untuk mengukur torsi dan daya berbagai kendaraan roda empat dengan kapasitas 130 KW. 
+Selain itu dinamometer ini juga diperlukan sebagai pemberi beban dalam ” driving cycle” untuk pengujian tingkat konsumsi bahan bakar dan emisi gas buang. Untuk mengetahui karakteristik dan kinerja dinamometer tersebut maka pada penelitian ini akan dilakukan studi terhadap beberapa parameter yang terkait. 
+
+1.2 PERUMUSAN MASALAH 
+Dalam penelitian ini akan dilakukan Analisis Karakteristik dari sasis dinamometer arus Eddy berpendingin udara dengan menitikberatkan pada aspek mekanikal dan elektrikalnya dengan metoda eksperimental. 
+1.3 MANFAAT PENELITIAN 
+Dari hasil penelitian ini diharapkan akan memiliki kontribusi pada : 
+1. Pengembangan kapasitas Laboratorium Efisiensi dan Konversi Energi dalam pengujian kinerja kendaraan roda empat atau lebih di laboratorium Konversi Energi MTM Undip Semarang. 
+2. Pengembangan rancangan dinamometer sasis arus Eddy yang optimal. 
+1.4 TUJUAN PENELITIAN 
+1. Membuat sebuah dynamometer sasis arus Eddy. 
+2. Menentukan temperatur maksimum pada rotor dinamometer. 
+3. Mengetahui hubungan antara beban dinamometer terhadap daya input yang diperlukan. 
+4. Mendapatkan kurva hubungan torsi dan daya terhadap putaran kendaraan. 
+5. Memberikan Saran-saran untuk meningkatkan unjuk kerja dinamometer. 
+1.5. RUANG LINGKUP 
+Ruang lingkup penelitian yang dilakukan adalah sebagai berikut : 
+1. Melakukan studi literatur tentang pemanfaatan dinamometer arus Eddy. 
+2. Mempersiapkan sebuah dinamometer yang akan diuji. 
+3. Mempersiapkan Set-up pengujian 
+4. Melakukan pengukuran temperatur, putaran, arus listrik, torsi dan daya. 
+5. Membuat kurva temperatur dan putaran sebuah dinamometer berpendingin udara.

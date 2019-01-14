@@ -1,0 +1,558 @@
+﻿Optimasi Produksi Pulp Formacell dari Tandan Kosong Kelapa
+Sawit (TKKS) dengan Metode Permukaan Respon
+
+Abstrak
+Tandan kosong kelapa sawit (TKKS) mengandung kadar selulosa yang cukup tinggi sehingga dapat
+dijadikan sebagai bahan baku alternatif produksi pulp. Salah satu proses produksi pulp ramah
+lingkungan yaitu dengan menggunakan campuran pelarut asam asetat dan asam formiat sebagai bahan
+pemasak yang disebut proses formacell. Penelitian ini bertujuan untuk mendapatkan model optimasi
+dari konsentrasi asam formiat, konsentrasi HCl dan lama pemasakan untuk produksi pulp TKKS.
+Konsentrasi pemasakan optimum terjadi pada konsentrasi asam formiat 32,74%, konsentrasi HCl
+0,079%, dan lama pemasakan selama 1,71 jam dengan hasil optimum untuk produksi pulp TKKS yaitu
+78,37 % selulosa, 7,59 % hemiselulosa, 10,71% lignin, dan 67,31% rendemen.
+Kata kunci: pulp formacell; RSM; TKKS
+
+PENDAHULUAN
+Kayu memberikan kontribusi sampai 90%
+sebagai bahan baku pulp dan kertas di dunia sehingga
+hal tersebut sangat berpengaruh terhadap kondisi hutan
+(Madakadze dkk., 1999; Aremu dkk., 2015). Residu
+pertanian merupakan alternatif penting untuk pengganti
+kayu sebagai bahan baku pada industri pulp dan kertas
+(Lam dkk., 2001; Jimenez dkk., 2006). Salah satu
+residu pertanian yang keberadaannya cukup berlimpah
+adalah Tandan Kosong Kelapa Sawit (TKKS). TKKS
+memiliki kadar selulosa 50%, lignin 16% dan
+hemiselulosa 19,6% (Law dkk., 2007), serta panjang serat rata-rata bagian pangkal 1,2 mm, bilangan Runkel
+0,87, diameter serat 15 m dan tebal dinding 3,49 m
+(Darnoko dkk., 1995), sehingga TKKS berpotensi
+untuk dijadikan alternatif pembuatan pulp non kayu
+pengganti pulp kayu. Susanto dkk. (1999) menyatakan
+bahwa TKKS dapat dimanfaatkan sebagai bahan baku
+bagi produk-produk yang berbasis selulosa seperti pulp
+dan kertas. Proses pembuatan pulp dilakukan dengan
+cara memisahkan serat dari komponen lainnya. Proses
+produksi pulp masih dapat menimbulkan dampak yang
+kurang baik untuk lingkungan.
+Salah satu proses pengolahan pulp yang ramah
+lingkungan adalah menggunakan pelarut organik
+sebagai larutan pemasak seperti asam asetat dan formiat
+yang dikenal sebagai proses formacell. Salah satu
+keuntungan menggunakan asam organik yaitu bisa
+digunakan sebagai pemasak sampai 10 kali siklus
+(Simkhovich dkk., 1987). Proses pulping menggunakan
+asam seperti proses secara acetosolve, formacell dan
+milox telah dikembangkan (Li dkk., 2012; Pan dkk.,
+2006; de la Torre dkk., 2013; Fang dan Sixta, 2015)
+yang memiliki potensi yang unggul dalam proses
+pemurnian dan biaya, selain itu kertas yang dihasilkan
+berkualitas tinggi (Aziz dan Sarkanen, 1989; Hergert,
+1998; Sidiras dan Koukios, 2004). Pulping
+menggunakan pelarut organik untuk bahan non kayu
+telah dilakukan terhadap jute kulit pohon (Sahin dan
+Young, 2008), tongkol cardoon (Cynara cardunculus)
+(Ligero dkk., 2007), kulit kayu (Ligero dkk., 2005),
+ampas tebu (Tu dkk., 2008), dan jerami gandum
+(Triticum vulgare CV. Horoshiri) (Pan dan Sano, 1999)
+tetapi untuk penggunaan asam formiat belum banyak
+dilaporkan terutama pada pulp dengan bahan baku dari
+TKKS. Nimz dan Schoen (1993) melakukan proses
+formacell pada kayu, dimana lignoselulosa
+terdelignifikasi dengan tekanan rendah dan campuran
+asam asetat (50-95%), asam formiat (<40%), air
+(<50%), dan suhu antara 130-190ºC dengan rasio
+pelarut dan kayu dari 1:1 sampai 12:1 menghasilkan
+nilai Kappa number yang rendah dan kekuatan pulp
+meningkat. Proses formacell sudah diterapkan dengan
+bahan baku birch (Zhou dkk., 2012), bagas tebu (Zhao
+dan Liu, 2012), tongkol jagung (Zhang dkk., 2010).
+Proses formacell memiliki banyak keunggulan
+yaitu menghasilkan rendemen yang tinggi, kadar lignin
+sisa rendah, tinggi kecerahan dan kekuatan yang baik
+(Aziz dan Sarkanen, 1989; Muurinen, 2000; Shatalov
+dan Pereira, 2004; Yawalata dan Paszner, 2004;
+Poujoozi dkk., 2004; Lavarack dkk., 2005; López dkk.,
+2006.; Rodríguez dan Jiménez, 2008). Produk
+sampingan yang berharga termasuk hemiselulosa dan
+lignin bebas sulfur fragmen. Lignin dapat digunakan
+untuk produksi perekat dan produk lainnya karena
+kemurnian tinggi, berat molekul rendah, dan reagen
+organik mudah direcycle.
+Keberhasilan pulping menggunakan pelarut
+organik dipengaruhi oleh rasio pelarut dengan air, rasio
+antara jumlah pelarut pemasak dengan bahan yang akan
+dimasak, suhu pemasakan, dan lama pemasakan (Lam
+dkk., 2001; Ibrahim dkk., 2004; Dominggus dan
+Lazslio, 2004; Goncalves dkk., 2005). Pada proses
+pulping memerlukan waktu yang lama dan suhu yang
+tinggi sehingga diperlukan katalisator untuk
+mempercepat proses delignifikasi. Jenis katalisator
+asam yang adalah HCl dan H2SO4 (Ibrahin dkk., 2004;
+Jahan dkk., 2006). Katalis berfungsi untuk mengurangi
+suhu pemasakan dan mempercepat proses pemasakan.
+Faktor yang berpengaruh adalah jenis katalis asam dan
+konsentrasi (Ligero dkk., 2005; Ibrahim dkk., 2004).
+Kayu tidak dapat dilakukan proses pemasakan dengan
+asam asetat dengan suhu dibawah 200oC tanpa
+penambahan katalis asam.
+Dominggus dan Lazslio (2004) menyatakan
+bahwa dengan penambahan konsentrasi katalis berupa
+HCl 1% proses pulping dapat dilakukan pada suhu
+108oC dengan tekanan 1 atm dibandingkan tanpa
+penggunaan katalis dimana suhu pulping dapat
+mencapai 170oC. Penambahan konsentrasi katalis
+menyebabkan penghancuran polisakarida dan proses
+kondensasi lignin yang cepat. Hasil penelitian
+Goncalves dkk. (2005) menunjukkan bahwa rasio
+pelarut 1:14 (w/v) dengan suhu pulping 110°C, dan
+lama pemasakan selama 2 jam dengan katalis HCl
+memberi hasil yang baik pada pulp. Ibrahim dkk.
+(2004) dan Jahan dkk. (2006) menyatakan bahwa
+penggunaan katalis H2SO4 sebanyak 0,5% akan
+mempercepat proses delignifikasi pulp. Vila dkk.
+(2000) melaporkan penggunaan HCl pada asam asetat
+menghasilkan rendemen mencapai 50% dengan kadar
+selulosa mencapai 81,4%, lignin 5,8% dan bilangan
+Kappa 25 sedangkan Pan dan Sano (2005) menyatakan
+bahwa adanya katalis H2SO4 mampu mengurangi
+xilosa pada jerami gandum sebesar 60%.
+Salah satu metode optimasi kondisi proses
+adalah Response Surface Methodology (RSM) (Rao
+dkk., 2002; Nogales dkk., 2005; Linder dkk., 2005).
+Satria dkk. (2010) melakukan optimasi pembuatan pulp
+semi mekanis TKKS dengan menggunakan metode
+RSM. Neiva dkk. (2014) melakukan optimasi
+pembuatan pulp Kraft dari kayu dan kulit Eucalyptus
+globulus Labill dengan menggunakan metode RSM.
+RSM dapat digunakan untuk mempelajari hubungan
+antara respons dengan beberapa faktor yang
+berpengaruh. Kelebihan RSM yaitu dapat digunakan
+untuk analisis dan pemodelan dari suatu permasalahan
+dengan satu atau lebih perlakuan dalam penelitian
+(Montgomery, 2001; Bas dan Boyaci, 2007; Raissi dan
+Farsani, 2009). Menurut Radojkovic dkk. (2012), RSM
+adalah kumpulan statistik dan matematika teknik yang
+berguna untuk mengembangkan, meningkatkan, dan
+mengoptimalkan proses, yang mana respon
+dipengaruhi oleh beberapa faktor (variabel independen)
+dan mendapatkan model hubungan antara variabel
+bebas dan respon serta mendapatkan kondisi proses
+yang menghasilkan respon terbaik. Penelitian ini
+bertujuan untuk mendapatkan model optimasi dari
+konsentrasi asam formiat, konsentrasi HCl dan lama
+pemasakan untuk produksi pulp TKKS.
+
+BAHAN DAN METODE
+Bahan dan Alat
+Bahan baku yang digunakan dalam penelitian
+adalah tandan kosong kelapa sawit (TKKS) dari PTPN
+(Persero) VII Unit Usaha Bekri Lampung Tengah.
+Bahan kimia yang digunakan asam asetat glacial
+(Merck), asam formiat (Bratachem), HCl (Merck),
+H2SO4 (Merck) dan aquades. Alat yang digunakan
+adalah pemasak pulp menggunakan Erlenmeyer Pyrex
+5000 ml, hotplate (Polyscience), pendingin balik,
+timbangan digital 4 digit (Ohaus), tanur, oven, ruang
+asam dan alat-alat gelas analisis uji kimia. Peralatan
+disajikan pada Gambar 1.
+Gambar 1. Proses produksi pulp TKKS (1. Hot
+plate/pemanas, 2. Panci pemasak, 3. Labu leher tiga,
+4. Termometer, 5. Kondensor/pendingin balik, 6.
+Statif).
+Penelitian dilakukan untuk menentukan nilai
+optimum pada proses pulp dari TKKS dengan
+mengoptimasi konsentrasi asam formiat, konsentrasi
+HCl, dan lama pemasakan. Metode yang digunakan
+yaitu metode permukaan respon (Response Surface
+Methode) (Box dan Diaper, 1987). Pada percobaan
+pembuatan model kuadratik dengan 3 variabel bebas
+dilakukan dengan rancangan komposit terpusat
+(Central Composite Design) menggunakan α = 1,68, α
+merupakan 2k/4 dmana k merupakan banyaknya
+variabel yang dicobakan. Percobaan disusun dalam
+bentuk 23 faktorial dengan tiga variabel bebas yang
+dicobakan yaitu (1) konsentrasi formiat (X1) terdiri
+dari: 3,2; 10; 20; 30 dan 36,8% (v/v), (2) konsentrasi
+HCL (X2) terdiri dari: 0,08; 0,25; 0,5; 0,75 dan 0,92%
+(v/v) (3) lama pemasakan (X3) terdiri dari: 0,32; 1; 2; 3
+dan 3,68 jam. Rancangan disajikan pada Tabel 1 dan 2.
+Model persamaan kondisi optimum dengan desain
+faktorial 23 untuk kadar selulosa adalah:
+Y = 0 + 1X1+ 2X2 + 3X3 + 12X1X2 +13X1X3+
+23X2X3+11X2
+1+22X2
+2 + 33X2
+3 (1)
+Pengolahan data menggunakan perangkat lunak
+Minitab versi 15 untuk mendapatkan bentuk
+permukaan respon dan plot kontur serta analisis
+keragaman dari respon penelitian.
+Berat bahan baku yang digunakan dalam setiap
+kali pemasakan dalam penelitian ini yaitu 100 gram
+TKKS dan larutan pemasak 1500 ml sesuai konsentrasi
+perlakuan. Perlakuan yaitu konsentrasi asam formiat,
+konsentrasi katalisator HCl dan lama pemasakan.
+Sebanyak 100 gram bahan baku dimasukkan ke dalam
+erlenmeyer 5000 ml, direndam dengan asam asetat,
+asam formiat (3,2; 10; 20; 30 dan 36,8% (v/v)) dan
+katalis HCl (0,08; 0,25; 0,5; 0,75 dan 0,92% v/v))
+selama 1 jam dengan perbandingan 1:15, kemudian
+direndam dan dimasak dengan suhu pemasakan 130ºC
+dengan tekanan yang terjadi pada suhu tersebut dan
+lama pemasakan (0,32; 1; 2; 3 dan 3,68 jam). Setelah
+itu dilakukan penyaringan dan pencucian dengan air
+mengalir yang bersuhu ruang sampai netral atau hingga
+jernihnya air hasil pencucian. Pulp basah hasil
+pencucian kemudian dikeringkan pada suhu kamar
+sehingga diperoleh pulp kering.
+Pengamatan
+Pulp formacell yang diperoleh diuji rendemen
+dan sifat kimianya. Sifat kimia yang diuji untuk
+masing-masing pulp yaitu rendemen, selulosa,
+hemiselulosa, dan lignin metode Chesson (Datta,
+1981).
+Rendemen
+Pulp hasil pemasakan ditimbang dalam keadaan
+basah (A gram), kemudian diambil contoh pulp
+sebanyak B gram dan dikeringkan dalam oven pada
+suhu 102ºC sampai dicapai bobot konstan (C gram).
+Rendemen dihitung dengan rumus:
+0
+100 0
+bobot TKKS kering
+B A
+C
+Rendemen (%) 
+
+ (2)
+Tabel 1. Faktor, kode, dan taraf kode pada proses pembuatan pulp dari TKKS
+No. Faktor Kode Taraf kode
+-α Rendah Tengah Tinggi α
+-1,68 -1 0 1 +1,68
+1 Asam formiat (%) X1 3,2 10 20 30 36,8
+2 HCl (%) X2 0,08 0,25 0,5 0,75 0,92
+3 Lama pemasakan (jam) X3 0,32 1 2 3 3,68
+Tabel 2. Rancangan percobaan proses produksi pulp TKKS
+Run Asam formiat HCl Lama pemasakan Parameter uji
+1 -1 -1 -1
+2 1 -1 -1
+3 -1 1 -1
+4 1 1 -1
+5 -1 -1 1
+6 1 -1 1
+7 -1 1 1
+8 1 1 1
+9 0 0 0
+10 0 0 0
+11 0 0 0
+12 0 0 0
+13 0 0 0
+14 0 0 0
+15 -1,68 0 0
+16 1,68 0 0
+17 0 -1,68 0
+18 0 1,68 0
+19 0 0 -1,68
+20 0 0 1,68
+Analisis Selulosa, Hemiselulosa, dan Lignin
+Pengujian analisis selulosa, hemiselulosa dan
+lignin menggunakan metode Chesson (Datta, 1981).
+Sampel sebanyak 1 gram dimasukkan dalam gelas
+beker dan ditambah aquades 150 ml. Sampel
+selanjutnya dipanaskan selama 2 jam di dalam
+penangas suhu 100ºC dan di saring dan dicuci dengan
+aquades sampai volume filtrat 300 ml dan diperoleh
+residu. Residu dikeringkan pada oven bersuhu 105ºC
+hingga beratnya konstan (a). Residu kering (a)
+dimasukkan dalam erlenmeyer 250 ml ditambah 150 ml
+H2SO4 1 N, dipanaskan pada penangas air 100ºC
+selama 1 jam, setelah itu disaring dan residu dicuci
+dengan aquades sampai volume filtrat 300 ml. Residu
+dikeringkan hingga beratnya konstan dan ditimbang
+(b), selanjutnya residu kering (b) dimasukkan lagi ke
+dalam erlenmeyer 250 ml dan ditambahkan 10 ml
+H2SO4 72% dan direndam selama 4 jam pada suhu
+kamar kemudian ditambahkan 150 ml H2SO4 1 N
+(untuk pengenceran), dipanaskan pada penangas air
+suhu 100ºC selama 2 jam, kemudian dilakukan
+penyaringan dan dicuci dengan aquades hingga volume
+filtrat 400 ml. Residu dikeringkan hingga beratnya
+konstan dan di timbang (c). Residu (c) tersebut
+kemudian diabukan selama 6 jam (600ºC). Kadar
+lignoselulosa dapat dihitung dengan rumus :
+Kadar hemiselulosa 􀵌 􀭟􀬿􀭠
+􀭠􀭣􀭰􀭟􀭲 􀭱􀭟􀭫􀭮􀭣􀭪 x 100% (3)
+Kadar selulosa 􀵌 􀭠􀬿􀭡
+􀭠􀭣􀭰􀭟􀭲 􀭱􀭟􀭫􀭮􀭣􀭪 x 100% (4)
+Kadar lignin 􀵌 􀭡􀬿􀭠􀭣􀭰􀭟􀭲 􀭟􀭠􀭳
+􀭠􀭣􀭰􀭟􀭲 􀭱􀭟􀭫􀭮􀭣􀭪 x 100% (5)
+HASIL DAN PEMBAHASAN
+Hasil analisis ragam menunjukan bahwa model
+yang cocok adalah kuadratik (p-value = 0,020) yaitu
+lebih kecil daripada level signifikasi 5%. Uji
+kecukupan model (Lack of Fit) menunjukkan bahwa
+model telah sesuai dengan data yang berarti model yang
+dibuat dapat mewakili data. Hasil tersebut ditunjukkan
+dengan nilai Lack of Fit sebesar 0,196 yakni lebih besar
+dari level signifikasi 5%. Untuk pengujian asumsi
+kenormalan residual dilakukan dengan uji
+Kolmogorov-Smirnov dimana nilai statistik
+Kolmogorov-Smirnov (KS hitung) adalah 0,105,
+sementara nilai Kolmogorov-Smirnov dari tabel (KS
+tabel) untuk α = 0,05 dan jumlah pengamatan 20 adalah
+0,294 (Tabel Kuantil Uji Statistik Kolmogorov-
+Smirnov). Karena KS hitung < KS tabel maka residual
+dari model yang diperoleh telah terdistribusi normal.
+Untuk persamaan statistika adalah :
+Kadar Selulosa (Y) = 64,2554 + 0,6934X1 + 41,0702X2
++ 1,1666X3 - 0,0182X12 - 49,3826X22 - 0,5423X32
+- 0,3429X1X2 + 0,0686X1X3 - 1,9307X2X3.
+Hasil penelitian menunjukan bahwa nilai
+selulosa pulp yang dihasilkan berkisar 63,18 sampai
+79,58%. Konsentrasi katalisator dan jumlah asam
+formiat berpengaruh nyata sedangkan untuk lama
+pemasakan tidak berpengaruh nyata terhadap kadar
+selulosa. Kondisi optimum diperoleh pada konsentrasi
+asam formiat dan HCl untuk kadar selulosa berkisar
+antara konsentrasi 15 sampai 35% untuk asam formiat
+dan konsentrasi 0,1 sampai 0,5% untuk HCl dan lama
+pemasakan 2 jam menghasilkan selulosa berkisar 75%.
+Hasil penelitian Zhuang dkk. (2009)
+menunjukkan bahwa penggunaan asam formiat, asam
+asetat, dan air (30:50:20) dengan lama pemasakan 90
+menit menghasilkan selulosa 56,87% dengan bahan
+baku kayu poplar. Goncalves dkk. (2005) melaporkan
+bahwa rasio pelarut: TKKS 1:14 (w/v) dengan suhu
+pulping 110°C, dan lama pemasakan selama 2 jam
+dengan katalisator HCl memberi hasil yang baik pada
+pulp. Hasil penelitian Zuidar dkk. (2014) menunjukkan
+nilai rata-rata selulosa pulp yang dihasilkan berkisar
+58,25-68,12% untuk konsentrasi katalisator HCl 0,125, jam dimana konsentrasi HCl berpengaruh sangat nyata
+terhadap kadar selulosa dari ampas tebu dan bambu
+betung yang dihasilkan. Lama waktu pemasakan dan
+interaksi antara keduanya tidak berpengaruh nyata
+terhadap kadar selulosa yang dihasilkan. Gambar 2
+menunjukkan bahwa peningkatan asam formiat lebih
+besar dari 35% dan konsentrasi HCl lebih besar dari
+0,5% dengan lama pemasakan lebih dari 2 jam dapat
+menurunkan kadar selulosa sebesar 20%.
+Hal tersebut diduga karena adanya hidrolisis
+polisakarida secara kimia pada saat proses
+pemasakannya. Sahin dan Young (2008) menyatakan
+bahwa lama waktu masak yang semakin panjang akan
+menyebabkan reaksi depolimerisasi dari karbohidrat
+sehingga menyebabkan penurunan kadar selulosa yang
+berimplikasi akan mengurangi kekuatan sobek kertas
+dari 10-50%. Fengel dan Wegener (1995) juga
+menyatakan bahwa hidrolisis secara kimia dalam
+pembuatan pulp dengan suasana asam merupakan
+reaksi degradasi yang paling khas terhadap glikosidaglikosida
+yang terikat secara glikosidik di-, oligo dan
+polisakarida. Dengan demikian rantai-rantai panjang
+selulosa akan menjadi pendek dan senyawa-senyawa
+hasil degradasi seperti asam-asam hidroksi akan larut
+saat pencucian sehingga kadar selulosa akan menjadi
+lebih rendah. Hal ini pun diperkuat dengan pernyataan
+Wanrosli dkk. (2007) yang menyatakan bahwa
+tingginya konsentrasi asam formiat tidak hanya
+melarutkan lignin ke dalam pelarut organik, tetapi
+selulosa juga turut terdegradasi.
+Hasil penelitian menunjukan bahwa nilai ratarata
+hemiselulosa yang dihasilkan pada penelitian ini
+berkisar antara 2,6 sampai 8,9%. Konsentrasi
+katalisator HCl dan jumlah asam formiat berpengaruh
+nyata sedangkan untuk lama pemasakan tidak
+berpengaruh nyata terhadap kadar hemiselulosa.
+Kondisi optimum diperoleh pada konsentrasi HCl <0,1
+sampai 0,2%, asam formiat 20% dengan lama
+pemasakan berkisar 0,5 jam sampai 2 jam (Gambar 3).
+Hasil penelitian Zuidar dkk. (2014) menyatakan bahwa
+pembuatan pulp berbahan baku ampas tebu dan bambu
+betung menggunakan pelarut asam asetat dengan
+katalisator HCl pada suhu 150oC selama 2 dan 4 jam
+menghasilkan kadar hemiselulosa berkisar antara 6,94-
+12,34%, dimana kadar hemiselulosa semakin menurun
+seiring dengan peningkatan konsentrasi larutan HCl.
+Gambar 2. Kontur respon selulosa sebagai fungsi dari HCl dan asam formiat pada proses pulp TKKS
+Gambar 3. Kontur respon hemiselulosa sebagai fungsi dari HCl dan lama pemasakan pada proses pulp TKKS
+0,25 dan 0,5% dan lama waktu pemasakan 2 sampai 4
+
+Berdasarkan penelitian yang dilakukan Jahan
+dkk. (2006) diketahui bahwa penggunan asam formiat
+dan lama pemasakan 2 jam diperoleh hasil
+hemiselulosa berkisar 7,8%. Konsentrasi asam formiat
+yang tinggi dapat menyebabkan penurunan kadar
+hemiselulosa (Wanrosli dkk., 2007) karena degradasi
+yang dialami oleh hemiselulosa. Peningkatan
+konsentrasi katalisator HCl lebih besar dari 0,2%,
+dengan lama pemasakan lebih besar dari 2,25 jam akan
+menurunkan kadar hemiselulosa yang dihasilkan. Hal
+ini diduga karena sifat hemiselulosa mirip dengan
+selulosa yang mudah terdegradasi dengan larutan asam.
+Hemiselulosa terikat dengan polisakarida, protein dan
+lignin dan lebih mudah larut dibandingkan dengan
+selulosa (Anindyawati, 2009). Menurut Clark (1985)
+senyawa polisakarida seperti selulosa dan hemiselulosa
+terdapat ikatan glikosida yang menghubungkan rantairantai
+senyawa tersebut. Ikatan glikosida mudah sekali
+dihidrolisis oleh asam melalui reaksi kimia dan
+keadaan ini dipercepat dengan adanya pemanasan.
+Hemiselulosa akan mengalami reaksi oksidasi dan
+degradasi terlebih dahulu daripada selulosa, karena
+rantai molekul hemiselulosa lebih pendek dan
+bercabang. Hemiselulosa tidak larut dalam air tapi larut
+dalam larutan alkali encer dan lebih mudah dihidrolisa
+oleh asam daripada selulosa (Fengel dan Wegener,
+1995).
+Hasil penelitian menunjukan bahwa yield lignin
+yang dihasilkan pada penelitian ini berkisar antara 6,1
+sampai 15,9%. Konsentrasi asam formiat, HCl dan
+lama pemasakan berpengaruh nyata terhadap kadar
+lignin. Kadar lignin terkecil diperoleh pada konsentrasi
+HCl lebih dari 0,5%, asam formiat 15 sampai 30%
+dengan lama pemasakan berkisar 1,5 sampai 3 jam.
+Penggunaan asam formiat kurang dari 15% dan lama
+pemasakan kurang dari 1,5 jam menyebabkan lignin
+masih tinggi. Hal ini diduga karena proses delignifikasi
+masih belum terjadi pada saat pemasakan (Gambar 4).
+Zulfansyah dkk. (2011) melaporkan bahwa
+kadar lignin setelah pemasakan menggunakan asam
+formiat dan lama pemasakan 1-3 jam diperoleh kadar
+lignin pulp TKKS yang dihasilkan sebesar 11,20-
+19,12% dengan waktu pemasakan yang lebih lama
+menjadi faktor yang paling berpengaruh terhadap kadar
+lignin pulp TKKS yang dihasilkan. Zhuang dkk. (2009)
+menyatakan bahwa asam formiat dan asam asetat dapat
+mendelignifikasi lignin dikarenakan sifatnya yang
+asam sehingga dapat mendegradasi lignin dengan baik.
+Asam formiat:asam asetat: air (30:50:20), rasio pelarut
+dengan bahan 1:12 dan dengan suhu 105oC selama 90
+menit menghasilkan lignin sebesar 18,17%.
+Penurunan lignin pada proses pemasakan pulp
+TKKS diduga karena adanya proses delignifikasi pada
+saat pemasakan. Delignifikasi adalah proses
+pemecahan lignin menjadi lebih sederhana dengan
+bantuan asam, suhu dan lama pemasakan. pembuatan
+pulp acetosolv mampu fraksionasi yang bahan
+lignoselulosa menjadi selulosa (serat pulp), lignin asam
+dan monosakarida. Itu dikonfirmasi bahwa proses
+delignifikasi asam ini disebabkan oleh hidrolisis ikatan
+eter α-aril (Gierer, 1980; Ljunggren, 1980). Sebuah
+model kinetik yang disarankan terdiri dari dua proses
+berturut-turut yaitu lignin pelarutan diikuti oleh lignin
+kondensasi (Davis dkk., 1986; Parajó dkk., 1995).
+Kadar lignin pulp pelepah sawit yang dihasilkan
+dengan pemasakan menggunakan larutan asam formiat
+cenderung berkurang dengan bertambahnya lama
+pemasakan pada setiap konsentrasi asam formiat yang
+digunakan (Zulfansyah dkk., 2011). Akan tetapi
+pemasakan terlalu lama dan bertambahnya konsentrasi
+larutan asam diduga mengakibatkan lignin mengalami
+kondensasi kembali ke bahan (TKKS) sehingga
+mengakibatkan lignin yang dihasilkan kembali tinggi.
+Hal tersebut terjadi karena pemakaian
+konsentrasi asam organik yang lebih pekat cenderung
+mendorong terjadinya reaksi polimerisasi kembali
+lignin yang telah larut dalam cairan pemasak, sehingga
+kadar lignin pulp kembali meningkat (Parajo dkk.,
+1993; Muurinen, 2000). Zuidar (2007) menyatakan
+bahwa kadar lignin yang tinggi hasil pemasakan pulp
+diduga akibat terjadinya proses kondensasi sehingga
+lignin mengendap pada permukaan pulp sehingga
+warna menjadi lebih gelap. Proses kondensasi
+terbentuk dengan penggabungan rantai-rantai karbon
+yang membentuk rantai lebih panjang, dimana senyawa
+yang terbentuk merupakan zat antara ion karbonium terbentuk pada pulp (Fengel dan Wegener, 1995).
+Morfologi TKKS sebelum dan perlakuan
+formacell diuji dengan menggunakan Scanning
+Electron Microscope (SEM) dengan perbesaran 500x
+(Gambar 5). Hasil penelitian menunjukkan bahwa
+proses pulping TKKS dengan menggunakan metode
+formacell menghasilkan perubahan morfologi
+permukaan TKKS. Permukaan TKKS setelah
+mengalami proses pulping secara formacell terlihat
+lebih lebar dibandingkan TKKS sebelum mengalami
+pulping dan bulatan yang ada di dalam serat TKKS
+yang diduga lignin sudah mulai hilang pada proses
+pulping secara formacell dan sifat kristalinitas dari
+TKKS mulai berkurang ditandai dengan bentuk TKKS
+yang semula rigid menjadi agak mengacak. Kondisi
+serat yang panjang dan susunan serat yang kompak
+memungkinkan pulp formacell akan menghasilkan
+pulp dan kertas dengan kekuatan yang relatif baik.
+Hasil penelitian menunjukan bahwa nilai ratarata
+rendemen yang dihasilkan pada penelitian ini
+berkisar antara 41,4 sampai 86,4% dengan rata-rata
+sebesar 68,5%. Lama pemasakan dan konsentrasi asam
+formiat berpengaruh nyata sedangkan konsentrasi
+katalisator HCl tidak berpengaruh nyata terhadap
+rendemen pulp yang dihasilkan. Kondisi optimum
+diperoleh pada konsentrasi HCl 0,5%, asam formiat 15
+sampai 20% dengan lama pemasakan berkisar 1,5 jam
+sampai 2 jam. Fatriasari dkk. (2010) menyatakan
+bahwa nilai rata-rata keseluruhan rendemen pulp
+TKKS adalah 62,74%. Rendemen berkurang tajam
+dengan bertambahnya pekatnya asam formiat dalam
+larutan pemasak. Zuidar dkk. (2014) melaporkan
+bahwa lama pemasakan berpengaruh sangat nyata
+terhadap rendemen pulp yang dihasilkan dengan waktu
+pemasakan 2 jam. Nilai rata-rata rendemen pulp yang
+dihasilkan berkisar antara 53,26–58,56%.
+Penggunaan asam formiat lebih dari 30% dan
+lama pemasakan lebih dari 2,5 jam menyebabkan
+rendemen berkurang (Gambar 6 dan 7). Hal ini diduga
+karena pemasakan dengan larutan asam memiliki sifat
+reaktif, sehingga dapat memutuskan ikatan kompleks
+lignin-polisakarida yang mengakibatkan semakin
+rendahnya rendemen pulp yang dihasilkan. Menurut
+Fatriasari dan Risanto (2011) menyatakan bahwa
+peningkatan konsentrasi bahan kima cenderung
+menurunkan rendemen total pulp. Hal tersebut terjadi
+karena dengan konsentrasi yang semakin tinggi maka
+jumlah selulosa yang terdegradasi semakin tinggi.
+
+Gambar 5. Hasil analisis SEM TKKS sebelum dan sesudah di pulping (perbesaran 500x)
+Gambar 6. Kontur respon rendemen sebagai fungsi dari HCl dan asam formiat pada proses pulp TKKS
+Gambar 7. Permukaan respon rendemen sebagai fungsi dari HCl dan asam formiat pada proses pulp TKKS
+Gambar 8. Optimisasi RSM pembuatan pulp formacell dari tandan kosong sawit
+Dalam pembuatan pulp diinginkan produk pulp
+dengan selulosa dan rendemen serta kadar lignin yang
+rendah. Kondisi optimasi proses yang terbaik yang
+menghasilkan pulp optimum dilihat pada Gambar 8.
+Nilai optimum untuk menghasilkan selulosa
+tertinggi yaitu 78,37%, rendemen 67,31%,
+hemiselulosa 7,59% dan lignin 10,72%, dicapai paada
+kondisi operasi konsentrasi asam formiat sebesar
+32,74%, konsentrasi HCl sebesar 0,079%, dan lama
+pemasakan 1,71 jam.
+KESIMPULAN
+Hasil penelitian menghasilkan nilai R2 83%,
+lack of fit 0,196 dan nilai optimum untuk menghasilkan
+selulosa tertinggi terjadi pada konsentrasi asam formiat
+sebesar 32,74%, konsentrasi HCl sebesar 0,079%, dan
+lama pemasakan 1,71 jam dengan nilai pada hasil
+optimum pulp TKKS untuk setiap parameter ujinya
+berturut-turut adalah 78,37% selulosa, 7,59%
+hemiselulosa, 10,72% lignin, dan 67,31% rendemen.
+
+DAFTAR NOTASI
+Y = respons selulosa
+0 = intersep
+1, 2, 3, 4 = koefisien regresi variabel X1,
+X2, X3
+12, 13, 23 = koefisien interaksi antar
+faktor
+11, 22, 33 = koefisien kuadratik X2
+1, X2
+2,
+X2
+3
+A = bobot total pulp basah (g)
+B = bobot contoh pulp basah (g)
+C = bobot contoh pulp kering (g)
+a = berat residu awal kering (g)
+b = berat residu kering setelah
+penambahan H2SO4 1 N (g)
+c = berat residu kering setelah
+penambahan H2SO4 72% dan
+H2SO4 1 N (g)

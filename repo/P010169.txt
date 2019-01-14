@@ -1,0 +1,832 @@
+﻿Evaluasi Retak Struktural Gedung
+
+Abstrak
+Gedung bengkel terminal telah mengalami kerusakan yang cukup parah dalam kurun waktu yang relatif singkat.
+Retak terjadi pada hampir di keseluruhan dinding gedung. Tipikal retak pada dinding gedung diindikasikan telah
+terjadi pergerakan pada sistem struktur gedung. Kerusakan akan semakin parah bila terus dibiarkan. Kerusakan
+yang terjadi dapat berpengaruh pada kinerja gedung bengkel itu sendiri. Penelitian ditujukan untuk mengidentifikasi
+kerusakan dan ditentukan langkah perbaikan. Metode Direct Analysis Method (DAM) AISC-2010 dengan
+LRFD dan SNI 03-2847-2002 digunakan sebagai acuan evaluasi kinerja struktur gedung terpasang. Metoda
+analisis retak panel dinding digunakan dengan pendekatan teori tegangan kontak bidang. Metode pemeliharaan
+gedung dengan teknik restoration, retrofitting dan strengthening menjadi solusi alternatif pemeliharaan gedung.
+Konfigurasi sistem struktur dengan banyak bukaan menjadi penyebab terjadinya beban terkonsentrasi.
+Ketidakcukupan kapasitas komponen struktur baja maupun komponen struktur beton menjadi titik lemah yang
+memicu terjadinya deformasi akibat beban terkonsentrasi.
+Kata-kata Kunci: Rehabilitasi, Retak, Dinding, Sruktur, Gedung.
+
+1. Pendahuluan
+Kondisi bangunan bengkel utama terminal Kertonegoro
+telah mengalami beberapa kerusakan pada saat ini.
+Kerusakan yang terjadi akan semakin parah bila terus
+dibiarkan. Kerusakan yang terjadi dapat berpengaruh
+pada kinerja gedung bengkel itu sendiri, yang pada
+akhirnya juga berpengaruh pada tingkat pelayanan
+publik.
+Kerusakan yang terjadi diantaranya berupa:
+a. Terjadi retak pada lantai beton disisi luar gedung,
+yang terangkai menerus dengan retakan pada
+dinding bangunan.
+b. Terjadi retak yang cukup panjang dengan celah
+yang cukup lebar dan dalam pada panel dinding.
+Retak terjadi pada hampir di keseluruhan panel dinding
+gedung. Retakan tersebut didominasi oleh retakan
+dengan tipikal retak horizontal dan vertikal. Bahkan
+pada panel dinding belakang gedung, retak yang terjadi
+ada yang tembus sampai pada permukaan dinding pada
+salah satu sisi lainnya.
+Evaluasi bertujuan untuk:
+a. Mengetahui seberapa jauh tingkat kerusakan
+gedung.
+b. Mengetahui seberapa jauh kondisi kinerja layan
+struktur gedung.
+c. Menentukan langkah penanganan kegiatan rehabilitasi
+yang tepat.
+Secara umum, kegiatan rehabilitasi dimaksudkan untuk
+mengembalikan kinerja layan bangunan gedung
+bengkel. Baik elemen struktural maupun elemen arsitektural. Rehabilitasi pada gedung yang telah
+mengalami degradasi akibat kerusakan juga
+dimaksudkan untuk memperpanjang umur layan. Serta
+untuk memberikan rasa aman dan nyaman bagi
+pengguna. Bangunan terminal Kertonegoro dioperasikan
+pada tahun 2009. Namun baru satu tahun
+difungsikan, sudah terjadi beberapa kerusakan. Kerusakan
+yang cukup parah terjadi pada gedung bengkel
+utama.
+Pekerjaan Perawatan meliputi beberapa kegiatan,
+diantaranya adalah perawatan berkala, perbaikan
+darurat, perbaikan total dan penyempurnaan. Perbaikan
+darurat dilakukan terhadap kerusakan yang tidak
+terduga sebelumnya dan berpotensi bahaya/merugikan
+apabila tidak diantisipasi secepatnya. Perbaikan bersifat
+sementara harus cepat selesai sehingga kerusakan tidak
+bertambah parah dan kegiatan rutin tidak terganggu.
+Kegiatan pemeliharaan fisik aset fasilitas utama terminal
+merupakan hal yang sangat penting untuk
+dilakukan. Kegiatan pemeliharaan ini perlu dilakukan
+untuk menunjang keberhasilan dalam pengelolaan
+sebuah aset fasilitas publik dalam membangun
+capaian. Pemeliharaan aset fasilitas publik merupakan
+keniscayaan di era modern saat ini. Teknik rehabilitasi
+dan pemeliharaan bangunan sipil menjadi salah satu
+disiplin ilmu yang sangat penting dalam menunjang
+upaya pelestarian aset fasilitas publik tersebut. Bahkan
+merupakan bagian dari multi disiplin ilmu yang sangat
+mendasar dalam sebuah komunitas fasilitas publik yang
+terbangun. Diadopsi dari salah satu teori tentang manajemen
+fasilitas yang mangatakan bahwa: “Manajemen
+fasilitas merupakan pengintegrasian multi-disiplin ilmu
+dalam beraktifitas di dalam sebuah lingkungan yang
+terbangun, serta manajemen kegiatan personal di
+tempat kerja”, (Canter dan Swallow, 2007).
+Tindakan untuk mengembalikan fungsi bangunan pada
+kondisi yang dapat diterima (acceptable condition).
+Atau kombinasi dari setiap tindakan yang dilakukan
+untuk mempertahankan elemen - elemen bangunan.
+Yang dimaksud dengan kondisi yang diterima adalah
+terpenuhinya syarat - syarat sebagaimana bangunan
+tersebut difungsikan. Tidak hanya tindakan yang
+berhubungan dengan pelaksanaan pekerjaan pemeliharaan
+fisik bangunan, tetapi juga memperhatikan
+faktor pembiayaan. Penilaian dari sebuah kondisi yang
+bisa diterima yang menyiratkan suatu pemahaman
+terhadap pemenuhan kebutuhan untuk penggunaan
+bangunan secara efektif; yang pada gilirannya
+memaksa untuk mempertimbangkan secara lebih luas
+untuk membangun capaian. Pekerjaan perawatan
+meliputi beberapa kegiatan, diantaranya adalah perawatan
+berkala, perbaikan darurat, perbaikan total dan
+penyempurnaan. Perbaikan darurat dilakukan terhadap
+kerusakan yang tidak terduga sebelumnya dan berpotensi
+menimbulkan bahaya atau kerugian apabila tidak
+diantisipasi secepatnya.
+Rehabilitasi (rehabilitation) merupakan tindakan
+perbaikan struktur untuk mempertahankan kinerjanya
+atau memperpanjang masa layannya. Pemeliharaan
+(maintenance) merupakan tindakan rutin, harian,
+periodik, atau kerja terjadual untuk mempertahankan
+masa layan dan menghindarkan penurunan kualitas
+(deterioration) bangunan. Pemeliharaan merupakan
+pekerjaan minimal yang harus dilakukan dalam upaya
+menjaga bangunan agar dapat dipakai sesuai umur
+rencana. Pekerjaan pemeliharaan harus dilakukan
+secara rutin dan berkala sesuai dengan umur rencana.
+Pekerjaan pemeliharaan harus dilakukan sepanjang
+umur bangunan dan dilakukan dalam semua kondisi;
+baik ada atau pun tidak ada kerusakan pada bangunan
+tersebut (Mobley, 2008).
+Ada tiga tipe kegiatan pemeliharaan:
+a. Pemeliharaan yang bersifat perbaikan
+(rehabilitation)
+b. Pemeliharaan yang bersifat korektif (corrective)
+c. Pemeliharaan yang bersifat pencegahan
+(preventive)
+Rehabilitasi dimaksudkan untuk mengembalikan
+kinerja bangunan gedung, baik elemen struktural maupun
+elemen arsitektural. Disamping untuk mengembalikan
+kinerja gedung, rehabilitasi pada gedung yang
+telah mengalami degradasi akibat kerusakan juga
+dimaksudkan untuk memperpanjang umur layan serta
+untuk memberikan rasa aman dan nyaman bagi
+pengguna. Rehabilitasi gedung dilakukan dengan
+beberapa pertimbangan diantaranya, adanya kesalahan
+dalam perencanaan, misalnya konfigurasi dan sistem
+struktur yang lemah, kesalahan dalam perhitungan
+beban rencana, ketidakcukupan dimensi struktur atau
+penggunaan material serta pemodelan struktur
+pemikul beban yang tidak sesuai dengan beban
+rencana. Adanya kesalahan dalam pelaksanaan, misalkan
+pemadatan urugan tanah yang kurang sempurna
+atau perletakan pondasi yang tidak mencapai tanah
+keras sehingga dapat menimbulkan penurunan pada
+struktur lantai bangunan. Adanya penurunan kekuatan
+akibat pengaruh dinamis, akibat pengaruh
+pembebanan dalam jangka waktu lama, atau akibat
+pengaruh angin maupun beban lingkungan, seperti
+kondisi lingkungan yang ekstrim, kondisi tanah yang
+expansive serta adanya beban berulang akibat beban
+lalu lintas maupun beban kejut akibat gaya rem dari
+kendaraan.
+Perilaku retakan diperkirakan berdasarkan survei
+bangunan dimana retak terbentuk. Konfigurasi
+struktural yang khas yang secara matematis dimodelkan
+menggunakan bata model elemen hingga 3D,
+dengan unsur-unsur tautan antara batu bata dan
+elemen beton untuk model interface. Tujuan dari
+penelitian ini adalah untuk menyelidiki kondisi
+tekanan di dinding karena pergerakan atap slab. arsitektural. Rehabilitasi pada gedung yang telah
+mengalami degradasi akibat kerusakan juga
+dimaksudkan untuk memperpanjang umur layan. Serta
+untuk memberikan rasa aman dan nyaman bagi
+pengguna. Bangunan terminal Kertonegoro dioperasikan
+pada tahun 2009. Namun baru satu tahun
+difungsikan, sudah terjadi beberapa kerusakan. Kerusakan
+yang cukup parah terjadi pada gedung bengkel
+utama.
+Pekerjaan Perawatan meliputi beberapa kegiatan,
+diantaranya adalah perawatan berkala, perbaikan
+darurat, perbaikan total dan penyempurnaan. Perbaikan
+darurat dilakukan terhadap kerusakan yang tidak
+terduga sebelumnya dan berpotensi bahaya/merugikan
+apabila tidak diantisipasi secepatnya. Perbaikan bersifat
+sementara harus cepat selesai sehingga kerusakan tidak
+bertambah parah dan kegiatan rutin tidak terganggu.
+Kegiatan pemeliharaan fisik aset fasilitas utama terminal
+merupakan hal yang sangat penting untuk
+dilakukan. Kegiatan pemeliharaan ini perlu dilakukan
+untuk menunjang keberhasilan dalam pengelolaan
+sebuah aset fasilitas publik dalam membangun
+capaian. Pemeliharaan aset fasilitas publik merupakan
+keniscayaan di era modern saat ini. Teknik rehabilitasi
+dan pemeliharaan bangunan sipil menjadi salah satu
+disiplin ilmu yang sangat penting dalam menunjang
+upaya pelestarian aset fasilitas publik tersebut. Bahkan
+merupakan bagian dari multi disiplin ilmu yang sangat
+mendasar dalam sebuah komunitas fasilitas publik yang
+terbangun. Diadopsi dari salah satu teori tentang manajemen
+fasilitas yang mangatakan bahwa: “Manajemen
+fasilitas merupakan pengintegrasian multi-disiplin ilmu
+dalam beraktifitas di dalam sebuah lingkungan yang
+terbangun, serta manajemen kegiatan personal di
+tempat kerja”, (Canter dan Swallow, 2007).
+Tindakan untuk mengembalikan fungsi bangunan pada
+kondisi yang dapat diterima (acceptable condition).
+Atau kombinasi dari setiap tindakan yang dilakukan
+untuk mempertahankan elemen - elemen bangunan.
+Yang dimaksud dengan kondisi yang diterima adalah
+terpenuhinya syarat - syarat sebagaimana bangunan
+tersebut difungsikan. Tidak hanya tindakan yang
+berhubungan dengan pelaksanaan pekerjaan pemeliharaan
+fisik bangunan, tetapi juga memperhatikan
+faktor pembiayaan. Penilaian dari sebuah kondisi yang
+bisa diterima yang menyiratkan suatu pemahaman
+terhadap pemenuhan kebutuhan untuk penggunaan
+bangunan secara efektif; yang pada gilirannya
+memaksa untuk mempertimbangkan secara lebih luas
+untuk membangun capaian. Pekerjaan perawatan
+meliputi beberapa kegiatan, diantaranya adalah perawatan
+berkala, perbaikan darurat, perbaikan total dan
+penyempurnaan. Perbaikan darurat dilakukan terhadap
+kerusakan yang tidak terduga sebelumnya dan berpotensi
+menimbulkan bahaya atau kerugian apabila tidak
+diantisipasi secepatnya.
+Rehabilitasi (rehabilitation) merupakan tindakan
+perbaikan struktur untuk mempertahankan kinerjanya
+atau memperpanjang masa layannya. Pemeliharaan
+(maintenance) merupakan tindakan rutin, harian,
+periodik, atau kerja terjadual untuk mempertahankan
+masa layan dan menghindarkan penurunan kualitas
+(deterioration) bangunan. Pemeliharaan merupakan
+pekerjaan minimal yang harus dilakukan dalam upaya
+menjaga bangunan agar dapat dipakai sesuai umur
+rencana. Pekerjaan pemeliharaan harus dilakukan
+secara rutin dan berkala sesuai dengan umur rencana.
+Pekerjaan pemeliharaan harus dilakukan sepanjang
+umur bangunan dan dilakukan dalam semua kondisi;
+baik ada atau pun tidak ada kerusakan pada bangunan
+tersebut (Mobley, 2008).
+Ada tiga tipe kegiatan pemeliharaan:
+a. Pemeliharaan yang bersifat perbaikan
+(rehabilitation)
+b. Pemeliharaan yang bersifat korektif (corrective)
+c. Pemeliharaan yang bersifat pencegahan
+(preventive)
+Rehabilitasi dimaksudkan untuk mengembalikan
+kinerja bangunan gedung, baik elemen struktural maupun
+elemen arsitektural. Disamping untuk mengembalikan
+kinerja gedung, rehabilitasi pada gedung yang
+telah mengalami degradasi akibat kerusakan juga
+dimaksudkan untuk memperpanjang umur layan serta
+untuk memberikan rasa aman dan nyaman bagi
+pengguna. Rehabilitasi gedung dilakukan dengan
+beberapa pertimbangan diantaranya, adanya kesalahan
+dalam perencanaan, misalnya konfigurasi dan sistem
+struktur yang lemah, kesalahan dalam perhitungan
+beban rencana, ketidakcukupan dimensi struktur atau
+penggunaan material serta pemodelan struktur
+pemikul beban yang tidak sesuai dengan beban
+rencana. Adanya kesalahan dalam pelaksanaan, misalkan
+pemadatan urugan tanah yang kurang sempurna
+atau perletakan pondasi yang tidak mencapai tanah
+keras sehingga dapat menimbulkan penurunan pada
+struktur lantai bangunan. Adanya penurunan kekuatan
+akibat pengaruh dinamis, akibat pengaruh
+pembebanan dalam jangka waktu lama, atau akibat
+pengaruh angin maupun beban lingkungan, seperti
+kondisi lingkungan yang ekstrim, kondisi tanah yang
+expansive serta adanya beban berulang akibat beban
+lalu lintas maupun beban kejut akibat gaya rem dari
+kendaraan.
+Perilaku retakan diperkirakan berdasarkan survei
+bangunan dimana retak terbentuk. Konfigurasi
+struktural yang khas yang secara matematis dimodelkan
+menggunakan bata model elemen hingga 3D,
+dengan unsur-unsur tautan antara batu bata dan
+elemen beton untuk model interface. Tujuan dari
+penelitian ini adalah untuk menyelidiki kondisi
+tekanan di dinding karena pergerakan atap slab. Lokasi dan arah di mana retak akan terjadi diidentifikasi
+menggunakan tegangan utama yang dikembangkan
+dalam model elemen hingga dan kriteria kegagalan
+dikembangkan berdasarkan pada modifikasi teori Von
+Mises. Model ini juga menggunakan numerik, efek
+panjang dinding dan bentuk struktur dinding (yaitu
+beban bantalan dinding dan bingkai dinding beton
+bertulang) tersebut dipelajari pada pembentukan retak.
+Hasil ini dibandingkan dengan informasi yang diperoleh
+dari survei. Pemodelan numerik, retak termal, gerakan
+termal. Cracking adalah bentuk yang paling umum dan
+terlihat cacat ditemukan pada dinding batu bata.
+Sebagian besar bangunan mengalami retak pada beberapa
+waktu selama umur layan. Munculnya retakan adalah
+gejala terjadinya permasalahan dalam struktur
+bangunan. Retak pada elemen bahan rapuh seperti batu
+bata disebabkan oleh gaya-gaya tekan intern yang
+terjadi hingga melebihi kekuatan pecah material.
+Setelah kekuatan pecah terlampaui, retak mengembang
+dan tekanan internal hilang. Tekanan ini umumnya
+disebabkan oleh gerakan bangunan, perubahan suhu,
+penyusutan karena perubahan kelembaban, proses kimia
+atau deformasi creep bahan. Oleh karena itu, mempelajari
+retakan dan faktor-faktor yang menyebabkannya
+adalah penting dalam rangka untuk mengusulkan
+langkah-langkah perbaikan, (Natn, 2008).
+Sebuah model komputasi makro disajikan dalam
+penelitian ini untuk simulasi statis nonlinear perilaku
+dinding pasangan bata. Strategi yang diterapkan
+didasarkan pada pemodelan perilaku nonlinear elemen
+batu dengan mempertimbangkan sebagai bahan orthotropic
+dan kemudian memperpanjangnya dengan
+metode sederhana untuk pasangan bata dinding. Model
+ini mampu mempertimbangkan deformasi geser dan
+lentur dalam perilaku global. Hal ini juga dapat
+memprediksi semua mode kegagalan yang mungkin
+terjadi pada dinding bata seperti kehancuran tekan,
+geser, goyangan, retak diagonal tarik maupun tekan.
+Materi model konstitutif dan kriteria kegagalan cocok
+diadopsi untuk setiap mode kegagalan di bawah
+pengaruh tegangan biaksial. Model kepadatan kontak
+telah dimodifikasi dan digunakan untuk mensimulasikan
+perilaku geser pada tumpuan dinding bata. Hal ini
+menunjukkan bahwa hasil analisis dengan pengamatan
+eksperimental menunjukkan hasil yang lebih baik jika
+dibandingkan dengan digunakan analisis dengan metode
+pendekatan numerik biasa seperti elemen hingga. Selain
+itu, model yang diusulkan dapat digunakan sebagai
+makro - model untuk analisis struktur dan memberikan
+akurasi yang memadai, (Ghiassi et.al, 2008).
+Beberapa asumsi penyebab kerusakan gedung ini
+diantaranya adalah sebagai berikut :
+a. Faktor intern yang berupa gaya dalam (tegangan)
+akibat pembebanan
+b. Faktor extern yang berupa kondisi tanah yang labil,
+air, angin dan sebagainya.
+Penelusuran penyebab kerusakan gedung dilakukan
+dengan cara menginventarisasi kondisi kerusakan
+gedung. Dimulai dari beberapa kemungkinan yang
+paling berpotensi sebagai penyebab utama kerusakan
+gedung ini. Untuk itu diperlukan analisis kapasitas
+struktur gedung existing terhadap kinerja layan menurut
+fungsinya. Analisis kuantitatif dilakukan pada seluruh
+komponen struktur gedung bengkel, dengan cara
+dilakukan analisis kapasitas elemen struktur gedung.
+Metoda Analisis struktur baja digunakan metoda
+dengan cara empiris Direct Analysis Method (DAM).
+Yaitu suatu analisis struktur yang dilakukan dengan
+memasukkan parameter P-delta sehingga hasilnya dapat
+langsung digunakan untuk mengevaluasi design penampang.
+Tanpa memasukkan koefisien tekuk (K) maupun
+pembesaran momen (B1 dan B2). Menurut AISC
+(2005) ada tiga aspek penting yang mempengaruhi
+perilaku stabilitas elemen, yaitu :
+a. Non-linieritas geometri;
+b. Sebaran plastisitas; dan
+c. Kondisi batas elemen.
+Ketiganya sangat berpengaruh pada deformasi struktur
+ketika dibebani, dan itu akan berdampak pada gayagaya
+internal yang terjadi. Pada struktur yang langsing,
+deformasi akibat pembebanan tidak dapat diabaikan.
+Pada era modern saat ini, diatasi dengan analisa struktur
+orde-2 dengan asumsi keseimbangan struktur akan
+memenuhi kondisi geometri setelah berdeformasi.
+Faktor yang dievaluasi adalah pengaruh second-ordereffect
+yaitu P-Δ dan P-δ. Dalam penyelesaian konservatif
+diatasi dengan faktor pembesaran momen B1 dan B2
+(Chapter C - AISC 2005). Direct Analysis Method
+(DAM) merupakan suatu metode untuk mengantisipasi
+penyederhanaan pada analisis dengan cara manual.
+Keterbatasan metode Effective Length Method (ELM)
+yang merupakan strategi pada program analisis struktur
+dapat disempurnakan dengan metode analisis DAM.
+Menurut AISC, "Penelitian terbaru menunjukkan bahwa
+metode analisis DAM-AISC-2010 merupakan pendekatan
+yang terbaik untuk menutupi semua efek respon
+yang relevan", (Sasibut and Kutyn, 2011).
+Untuk analisis struktur baja gedung bengkel digunakan
+metode perhitungan dengan rumus-rumus empiris
+dalam DAM AISC-2010. Guna mendapatkan nominal
+kapasitas masing-masing elemen struktur baja. Komponen
+struktur baja dievaluasi berdasarkan analisis stabilitas
+elemen struktur yang berhubungan dengan kapasitas
+aksial dan kapasitas lentur. Parameter kontrol kapasitas
+struktur baja ditetapkan berdasarkan nilai nominal
+kapasitas lentur (Mn). Untuk profilI-shape dengan
+penampang kompak dan profilchannels, kapasitas
+lentur perlu ditinjau terhadap kapasitas lateral torsional
+buckling (LTB). Untuk profilI-shape dengan penampang
+non-kompak perlu ditinjau kapasitasnya terhadap
+flens local buckling (LTB). Ketentuan formulasi LTB dan FLB ditentukan berdasarkan nilai komparasi nominal
+Lp< Lb<Lr. (AISC-2010)
+Memperhitungkan deformasi komponen – komponen
+struktur dan sambungannya, yang berpengaruh pada
+deformasi struktur secara keseluruhan. Program
+komputer dapat digunakan untuk menghitung gayagaya
+batang dengan analisis struktur orde ke-2; yang
+mempertimbangkan pengaruh P-Δ dan P-δ dengan
+melakukan analisa struktur orde ke-2 termasuk ETABS.
+Adapun parameter yang ditinjau adalah berupa kapasitas
+lentur (Mn<Mp), kapasitas aksial yang berupa rasio
+kelangsingan batang (slendernessratio), dan kontrol
+stabilitas komponen baja. Ketentuan rasio kelangsingan
+batang (slenderness ratio) dan stabilitas elemen
+baja ditentukan sebagai berikut:
+
+
+
+2. Retak Dinding dan Elemen Struktur
+Beton
+Kerusakan dinding gedung yang berupa retak horizontal
+dan retak vertikal terjadi hampir merata pada keseluruhan
+dinding gedung. Retak horizontal juga terjadi
+pada elemen struktur beton. Secara teoritis, hipotesis
+awal penyebab retak pada dinding gedung dan pada
+elemen struktur beton ini dapat diasumsikan disebabkan
+oleh pergerakan struktur gedung. Namun demikian
+masih diperlukan pembuktian untuk dapat menyimpulkan
+penyebab yang pasti kerusakan pada gedung ini.
+Retak pada panel dinding dianalisis dengan pendekatan
+teori tegangan bidang kontak pada bidang geser.
+Retak pada kolom beton dianalisis menurut kapasitasnya
+terhadap pembebanan aktual. Pemodelan
+struktur tiga dimensi (space-frame) dengan bantuan
+program aplikasi ETABS; dengan model konfigurasi
+sistem struktur dan mutu material menurut data
+perencanaan. Bila dengan cara pemodelan yang
+dilakukan dirasa belum cukup untuk merepresentasikan
+mekanisme keretakan yang terjadi, maka
+keberadaan momen retak (Mcr) dan kapasitas terhadap
+tegangan tekuk Euler Force (Fcr) juga diperhitungkan
+pada komponen struktur beton dengan mutu material
+menurut data uji beton yang dilakukan kemudian.
+Hal ini dilakukan dengan pertimbangan adanya
+kemungkinan terjadinya kesalahan pada proses
+pelaksanaan. Berbeda dengan komponen baja, karena
+pada material baja, mutu baja sangat ditentukan oleh
+proses fabrikasi.
+Compression = __
+_min
+≤ 200 |(1)
+dengan K=1 (untuk DAM)
+Tension = __
+≤ 300 (2)
+Analisis stabilitas = _	
+ɸ___
++ 89
+_ _	_
+ɸ____ _ ≤ 0,93
+(3)
+Penelitian dilakukan pada gedung bengkel utama
+Terminal Kertonegoro Kabupaten Ngawi yang
+mengalami retak parah. Data diambil pada bulan Mei
+2011. Gedung bengkel terminal Kertonegoro dirancang
+menggunakan struktur baja dan struktur beton bertulang
+untuk komponen struktur utama. Pada komponen
+struktur atap digunakan komponen struktur rangka
+baja. Material dinding partisi digunakan pasangan batu
+bata. Bangunan terminal Kertonegoro dioperasikan
+pada tahun 2009. Namun baru beberapa tahun
+difungsikan, sudah terjadi beberapa kerusakan. Kerusakan
+yang cukup parah terjadi pada gedung bengkelutama.
+Bila kondisi ini terus dibiarkan akan
+mempengaruhi tingkat pelayanan dan kinerja gedung
+bengkel itu sendiri. Terjadi retak pada lantai di sisi luar
+gedung yang terangkai menerus dengan retakan
+vertikal pada dinding bangunan. Terjadi retak yang
+cukup panjang dengan celah yang cukup lebar dan
+dalam, pada hampir di keseluruhan panel dinding
+gedung. Retakan tersebut didominasi oleh retakan
+dengan tipikal retak horizontal dan retak vertikal.
+Bahkan pada panel dinding belakang gedung, retakan
+tersebut ada yang tembus sampai permukaan dinding
+pada salah satu sisi lainnya dengan celah retakan
+mencapai 8 mm.
+Data primer yang berupa data obsevasi diperoleh dari
+hasil observasi di lapangan yang berupa dokumentasi
+fotografi kerusakan gedung bengkel serta dimensi
+kerusakan. Data yang berupa dokumentasi kerusakan
+dipergunakan sebagai gambaran umum untuk
+mendeskripsikan kondisi eksisting bangunan gedung
+bengkel yang mengalami kerusakan. Langkah awal
+yang dilakukan pada pemeriksaan visual di lapangan
+adalah pemeriksaan kondisi fisik bangunan gedung
+bengkel secara keseluruhan dan kondisi komponen
+struktur existing. Selain dilakukan pengamatan visual
+di lapangan yang berupa model struktur gedung
+exsisting dan deteksi adanya kerusakan; juga dilakukan
+pengukuran dimensi kerusakan yang berhubungan
+dengan keadalaman, panjang dan lebar retakan.
+Selanjutnya dilakukan dokumentasi fotografi.
+Hasil dari dokumentasi fotografi dijadikan acuan untuk
+klasifikasi komponen yang mengalami kerusakan.
+Guna mengetahui jenis kerusakan, dan tipe kerusakannya
+untuk dilakukan analisis lebih lanjut.
+Menurut fungsinya, gedung ini direncanakan sebagai
+bengkel, car wash, ruang parkir inap kendaraan dan
+beberapa fasilitas lain seperti kantin, kamar mandi/WC,
+dan ruang istirahat sopir. Meskipun gedung ini hanya
+berlantai satu, namun dengan kondisi struktur yang
+langsing, keberadaan beban angin perlu diperhitungkan.
+Mengingat lokasi gedung terletak di kawasan
+terbuka, dengan minimnya pohon pelindung atau
+gedung-gedung tinggi di sekitarnya. Maka dipilih
+beban angin sebesar 25 kg/m2 sebagai pembebanan
+sementara. Untuk mengakomodir kemungkinan kerusakan yang disebabkan adanya pengaruh getaran akibat
+maju mundurnya kendaraan pada gedung bengkel ini,
+perlu diperhitungkan beban kejut pada sloof bagian
+depan gedung.
+Beban kejut diperhitungkan berdasarkan asumsi beban
+hidup yang bekerja pada balok sloof yang mengalami
+pembebanan kendaraan (bus) ketika keluar dan
+memasuki gedung bengkel. Untuk alasan praktis beban
+bus diasumsikan setara dengan beban truck yang
+mempunyai roda ganda (dual wheel load) sebesar 10
+ton.
+Tahapan yang perlu dilakukan dalam prosedur
+pemeriksaan gedung adalah investigasi, deteksi,
+observasi, dokumentasi, dan evaluasi. Investigasi yang
+berupa pengamatan visual di lapangan sebagai tahapan
+deteksi kerusakan. Dokumentasi kerusakan dilakukan
+untuk proses evaluasi detail kerusakan yang berupa jenis kerusakan dan tipe kerusakan. Kegiatan observasi
+dilakukan agar diketahui kondisi geometri aktual dan
+jenis komponen struktur gedung terpasang untuk
+kontrol kesesuaian dengan data as built drawing.
+Selanjutnya proses eksekusi dan operasional dapat
+ditentukan; dengan metode perbaikan dan langkah
+penanganan serta bahan dan peralatan yang digunakan.
+Performance gedung existing dapat dilihat pada
+Gambar 1 dan Gambar 2.
+Pemetaan kerusakan pada gedung bengkel dilakukan
+untuk memudahkan proses penelitian. Data obsevasi
+yang berupa hasil kegiatan fotografi, pengukuran
+dimensi dan kedalaman retakan digunakan sebagai
+acuan untuk proses identifikasi kerusakan.Selanjutnya
+dilakukan klasifikasi jenis kerusakan yang berupa
+kerusakan arsitektural dan kerusakan struktural.
+Adapun data observasi yang berupa hasil kegiatan
+fotografi dapat dilihat pada Gambar 3.
+
+
+Langkah berikutnya adalah dilakukan pemeriksaan
+dokumen perencanaan (as built drawing); untuk
+mengetahui apakah ada kesalahan dalam perencanaan.
+Data as built drawing juga digunakan sebagai acuan
+dalam pemeriksaan apakah terdapat kesalahan dalam
+pelaksanaan konstruksi.
+Pemodelan dalam program analisis struktur ETABS
+digunakan data material menurut data perencanaan
+dengan kualifikasi mutu material sebagai berikut:
+a. Mutu beton (f’c) = 18,24 Mpa
+b. Mutu baja (f’y) = 400 Mpa
+(f’ys) = 240 Mpa
+c. Elemen struktur baja digunakan BJ=370 Mpa.
+Untuk dimensi elemen struktur dapat dilihat pada
+Tabel 2 dan Tabel 3.
+3. Kontrol Kapasitas Struktur Gedung
+Existing
+a. Komponen struktur baja
+Metode Evaluasi Kinerja Sruktur Gedung dilakukan
+dengan cara dimodelkan dalam ETABS sebagai struktur
+tiga dimensi (space-frame); agar diketahui respon
+struktur yang sesungguhnya terjadi terhadap beban
+aktual yang bekerja. Analisis beban aktual hasil
+hitungan secara manual diberikan pada masing-masing
+frame pada pemodelan Etabs, menurut kondisi aktual di
+lapangan. Out put frame Etabs yang berupa gaya-gaya
+dalam yang terjadi digunakan sebagai acuan analisis
+lebih lanjut; sebagai input dalam variabel pada
+hitungan dengan cara empiris Direct Analysis Method
+(DAM).
+Selanjutnya dilakukan perhitungan secara manual pembebanan
+gedung menurut kondisi pembebanan aktual.
+Pembebanan dihitung tanpa diberikan faktor beban (γ).
+Penggunaan material komponen struktur diperhitungkan
+seperti apa adanya, tanpa diberikan faktor
+reduksi kekuatan (Φ). Pemodelan struktur tiga dimensi
+(spacesframe) dilakukan dengan bantuan program
+analisis struktur ETABS menurut kondisi geometri
+aktual struktur gedung terpasang. Pemodelan tiga
+dimensi (space-frame) dalam ETABS bertujuan agar
+diketahui respons struktur yang sesungguhnya terhadap
+beban aktual yang terjadi. Pemodelan struktur gedung
+dengan ETABS dapat dilihat pada Gambar 4.
+In-put beban frame ETABS hasil analisis pembebanan
+secara manual dilakukan untuk mendapatkan gambaran
+kondisi pembebanan aktual. Untuk mendapatkan
+nilai out-put frame ETABS yang berupa gaya-gaya
+dalam yang terjadi. Gaya-gaya yang berupa nominal
+Pu,Mu,Vu,Tu dan data lain untuk keperluan analisis.
+Serta gambaran mekanisme deformasi elemen struktur
+gedung akibat distribusi beban dan beberapa informasi
+kondisi elemen struktur gedung akibat gaya-gaya
+aktual yang paling berpengaruh. Pembebanan aktual
+struktur gedung dapat dilihat pada Tabel 1 yang dihitung
+secara manual. Respons struktur terbesar dalam
+bentuk tabel dapat dilihat pada Tabel 2 dan pada Tabel
+3. Hasil analisis dengan ETABS menunjukkan adanya
+beberapa komponen baja maupun beton yang terindikasi
+mengalami kritis. Kondisi kritis pada komponen
+struktur baja terjadi pada elemen channels, rafter,
+regell dan kolom I-shape.
+b. Komponen struktur beton
+Untuk analisis kapasitas struktur beton gedung bengkel
+digunakan metode perhitungan dengan rumus-rumus
+empiris. Guna mendapatkan nominal kapasitas masingmasing
+elemen struktur beton. Kapasitas komponen
+struktur beton hasil dari analisis struktur secara empiris
+dievaluasi menurut kapasitas gaya aksial, momen,
+geser, dan torsi (Pn,Mn,VndanTn). Parameter control
+kapasitas struktur beton terpasang ditetapkan dengan
+nilai nominal Pu<Pn; Mu<Mn; Vu<Vn dan Tu<Tn.
+Sebagai kontrol deformasi akibat pembebanan aktual,
+selanjutnya hasil analisis kapasitas komponen struktur
+beton secara empiris dikomparasikan terhadap
+pembebanan aktual yang terjadi dari hasil out-put
+frame Etabs dengan parameter Mn>Mact. Untuk komponen
+struktur beton, kondisi kritis terjadi pada elemen
+sloof tipe S-1; sloof tipe S-2 dan K-2. Data komponen
+struktur yang mengalami kritis akibat pembebanan
+aktual dapat dilihat pada Tabel 4 dan Tabel 5.
+3.1 Analisis kerusakan komponen struktur
+Dari analisis kapasitas struktur terhadap pembebanan
+yang telah dilakukan, membuktikan korelasi yang positif
+antara pemodelan struktur tiga dimensi ETABS
+dengan metode analisis kapasitas dengan DAM secara
+manual pada komponen struktur baja. Demikian pula
+analisis dengan cara empiris pada komponen struktur
+beton. Pengamatan di lapangan menunjukkan telah terjadi
+kerusakan pada hampir seluruh komponen struktur
+gedung. Deformasi inelastis terjadi pada komponen
+struktur gedung. Hal ini menjadi penyebab terjadinya
+lendutan pada komponen struktur baja. Dan menjadi
+penyebab retak pada komponen struktur beton. Deformasi
+komponen struktur gedung juga mengakibatkan
+retak pada panel dinding pengisi gedung. Nyata bahwa
+sebagian besar kerusakan komponen struktur gedung
+disebabkan oleh ketidakmampuan komponen struktur
+dalam menahan beban aktual yang terjadi. Pemodelan
+dengan konfigurasi sistem struktur tiga dimensi ETABS
+dengan besaran material menurut data perencanaan
+telah cukup merepresentasikan terjadinya deformasi
+inelastis. Meskipun masih terdapat dua elemen struktur
+beton K-2 yang perlu dianalisis secara manual,
+mengingat terdapat ketidakseragaman mutu beton
+antara data perencanaan (f’c= 18.24 Mpa) dengan data
+uji beton (f’c= 13 Mpa).
+
+3.1.1 Kerusakan komponen struktur baja
+Pada komponen strukturbajagedung telah terjadi
+lendutan (deformasi inelastis) pada profil rafter dan
+regell. Disebabkan oleh kurangnya stabilitas
+lentur. Pada profil channel dan kolom I-shape,
+meskipun tidak sampai mengalami lendutan atau pun
+tekuk permanen (hanya mengalami deformasi elastis),
+tetapi dengan kondisi elemen struktur yang tidak stabil
+juga dapat memicu terjadinya pergerakan struktur
+gedung terpasang. Hal ini disebabkan oleh kurangnya
+kapasitas aksial kedua profil tersebut, sehingga
+menyebabkan instabilitas elemen struktur.
+3.1.2 Kerusakan kolom beton
+Dari analisis kapasitas struktur terhadap pembebanan
+yang telah dilakukan, nyata bahwa sebagian besar kerusakan
+komponen struktur disebabkan oleh ketidakmampuan
+komponen struktur dalam menahan beban aktual
+yang terjadi. Pemodelan dengan konfigurasi sistem
+struktur tiga dimensi dan besaran material menurut data
+perencanaan telah nyata membuktikan terjadinya deformasi
+inelastis pada struktur gedung. Meskipun masih
+terdapat perbedaan dengan kondisi di lapangan.
+Menurut analisis struktur dalam pemodelan yang telah
+dilakukan, hanya terdapat 2 kolom tipe K-2 yang
+mengalami kritis akibat pembebanan aktual dari keempat jumlah keseluruhan kolom tipe ini. Padahal
+berdasarkan pengamatan di lapangan, ternyata telah
+terjadi retak pada seluruh kolom tipe ini. Sehingga perlu
+dilakukan analisis lebih lanjut penyebab retak pada
+kedua kolom tipe K-2 lainnya yang menurut pemodelan
+seharusnya tidak mengalami retak. Hal ini perlu
+dilakukan barangkali terdapat kesalahan dalam pelaksanaan
+yang terkait dengan rendahnya mutu beton.
+Dari uji beton yang dilakukan kemudian, mutu beton
+pada kedua kolom tipe K-2 dimaksud, diketahui adalah
+13 Mpa. Sehingga perlu dilakukan analisis terhadap
+kemungkinan terjadinya momen retak (Mcr) dan
+tegangan tekuk (Fcr). Darianalisis momen retak (Mcr),
+diketahui bahwa penyebab retak pada kedua kolom
+tipe ini bukanlah akibat terjadinya momen retak (Mcr).
+Selanjutnya digunakan rumus tekuk Euler Force untuk
+menghitung tegangan retak pada kolom ini. Dari hasil
+hitungan dengan beban tekuk Euler ini diketahui
+bahwa penyebab retak pada kolom ini adalah disebabkan
+karena adanya beban tekuk (Fcr) yang melebihi
+batas nominal nilai modulus of rupture (fr) sebesar
+2,642 Mpa.
+3.1.3 Kerusakan dinding gedung
+Kerusakan dinding gedung yang berupa retak horizontal
+dan retak vertikal diindikasikan disebabkan oleh
+pengaruh pergerakan struktur pada bingkai portal
+panel dinding. Pada bangunan ini, panel dinding hanya
+berfungsi sebagai dinding partisi non struktural.
+Analisis dilakukan dengan pendekatan teori tegangan
+kontak bidang. Mekanisme keruntuhan panel dinding
+dianalisis berdasarkan transfer tegangan normal dari
+portal dinding yang bekerja pada keempat sisi panel
+dinding. Transfer tegangan kontak yang terjadi diasumsikan
+sebagai gaya-gaya geser yang bekerja pada
+permukaan bidang kontak antara panel dinding dengan
+portal. Kuat tekan bidang panel dinding bata diasumsikan
+sebesar f’c= 11,05Mpa. Sehingga batas maksimum
+tegangan kontak pada panel dinding dapat ditentukan
+sebesar σb0 = 9,037Mpa untuk tegangan balok dan σc0
+= 11,049 Mpa untuk tegangan kolom. Diadopsi dari
+salah satu teori tegangan bidang dua dimensi seperti
+pada Gambar 5. Arah resultante tegangan geser yang
+bekerja pada panel dinding dapat dilihat pada Gambar
+6.
+
+
+Dari hitungan yang telah dilakukan, dapat diketahui
+bahwa tegangan geser yang paling dominan adalah
+karena disebabkan oleh gaya geser akibat deformasi
+pada balok sloof. Secara teori gaya geser mempunyai
+arah tangensial. Artinya arah gaya geser sejajar
+terhadap bidang geser. Karena gaya-gaya vertikal
+nilainya sangat kecil, maka dapat dianggap tidak
+berpengaruh. Sehingga nilai sudut tangen ᾶ untuk arah
+resultante gaya dapat dianggap 0o. Dari Etabs diketahui
+bahwa deformasi yang terjadi pada balok sloof membentuk
+pola momen seperti pada Gambar 7.
+Gambar 7a menunjukkan bahwa, pada saat yang
+bersamaan kedua ujung kiri dan kanan panel dinding
+bergerak ke atas akibat interaksi dengan momen pada
+balok sloof. Momen terhadap sumbu horizontal (x)
+yang terjadi pada tengah bentang balok sloof (titik B)
+sebesar 1.775,344,08 N-mm dan pada ujung sebelah
+kanan balok sloof (titik C) sebesar -35.414.652,565Nmm.
+Karena tegangan yang terjadi pada ujung panel
+dinding di sebelah kanan (bentang B-C) lebih besar dari
+pada tegangan pada ujung panel dinding di sebelah kiri
+(bentang A-B), maka terjadi pergeseran bidang panel
+dinding pada titik tangkap gaya yang terjadi. Pola
+momen seperti pada Gambar 7b hanya mungkin
+terjadi pada elemen yang terdeformasi akibat beban
+lateral. Pola momen pada balok sloof ini menunjukkan
+adanya beban lateral yang bekerja. Beban lateral
+dimungkinkan terjadi akibat interaksi balok sloof panel
+dinding belakang gedung dengan balok sloof penghubung
+pada struktur utama gedung. Pada saat yang bersamaan
+juga terjadi momen terhadap sumbu vertikal (y)
+yang terjadi pada ujung balok sebelah kiri sloof (titik
+A) sebesar -5.672.059 N-mm. Pada ujung sebelah
+kanan balok sloof (titik C) terjadi momen sebesar
+5.659.943N-mm. Sehingga pada ujung sebelah kiri panel dinding (bentang A-B) akan bergerak ke arah
+belakang (sumbu z+). Dan pada ujung sebelah kanan
+panel dinding (Bentang B-C) bergerak ke arah depan
+(sumbu z-). Oleh sebab interaksi panel dinding dengan
+momen pada balok sloof, maka terjadi translasi pada
+panel dinding. Terjadi retak di tengah panel dinding
+(titik B) dan tembus ke sisi lainnya. Posisi titik
+tangkap gaya (R) terjadi pada titik B. Sehingga retak
+vertikal yang terjadi dimulai dari titik B dan terus bergerak
+ke atas. Untuk retak horizontal, panel dinding
+juga mengalami hal yang sama; hanya dengan
+mekanisme keruntuhan yang berbeda. Retak dinding
+hanyalah indikator dari dampak adanya kerusakan
+gedung. Dimensi retak menunjukkan seberapa besar
+dampak dari adanya pengaruh deformasi komponen
+struktur yang tidak stabil atau kurang kekakuannya. Ini
+menunjukkan bahwa untuk menjamin kekokohan sebuah
+struktur gedung adalah diperlukan stabilitas dan
+kekakuan dari seluruh komponen struktur. Kurangnya
+kekakuan dan stabilitas balok sloof dan model gedung
+dengan banyak bukaan yang rentan terhadap gaya
+geser dan torsi diindikasikan menjadi penyebab awal
+kerusakan gedung ini. Hal ini disebabkan oleh kondisi
+penulangan balok sloof yang under reinforced,
+rendahnya mutu beton serta kurangnya dimensi
+elemen struktur beton. Khusus pada perencanaan balok
+sloof, kekakuan dan stabilitas elemen jauh lebih
+penting dari pada sekedar daktilitas yang baik.
+Mengingat gedung ini direncanakan difungsikan
+sebagai bengkel dengan banyak bukaan pada portal
+dinding. Penelitian ini membuktikan adanya pengaruh
+konfigurasi sistem struktur terhadap pembebanan.
+Keberadaan portal kolom yang tidak simetris dan
+model gedung bengkel dengan banyak bukaan dimungkinkan
+memicu terjadinya konsentrasi tegangan ditempat-
+tempat tertentu. Deformasi pada balok sloof
+penghubung struktur utama dengan portal dinding
+belakang gedung dimungkinkan terjadinya transfer
+tegangan pada portal dinding belakang gedung yang
+tidak diperkuat dengan balok pengikat. Kekokohan
+sebuah struktur ditentukanoleh kekakuan dan stabilitas
+setiap komponen struktur. Stabilitas struktur juga
+dipengaruhi oleh konfigurasi antar komponen pada
+sistem struktur. Secara umum, salah satu penyebab
+kerusakan gedung disebabkan oleh kurangnya
+kekakuan dan stabilitas komponen struktur gedung.
+Konsentrasi tegangan yang berlebihan pada komponen
+struktur yang tidak didukung oleh kapasitas yang
+memadai mengakibatkan pergerakan pada sistem
+struktur gedung. Kurangnya kekakuan lateral balok
+sloof pada pondasi memicu terjadinya deformasi.
+4. Kesimpulan
+Identifikasi penyebab kerusakan gedung bengkel
+Kerusakan komponen struktur baja gedung disebabkan
+oleh adanya kelemahan padabeberapa elemen struktur.
+a. Kerusakan komponen strukturbaja:
+1) Profil Channels karena syarat stabilitas dan
+kapasitas aksial tidak terpenuhi
+2) Profil Rafter karena syarat stabilitas lentur tidak
+terpenuhi
+3) Profil Regel karena syarat stabilitas lentur dan
+kapasitas aksial tidak terpenuhi
+4) Profil Kolom I-shape karena ketidak cukupan
+kapasitas aksial
+b. Kerusakan komponen strukturbeton hanya terjadi
+pada tipe kolom K-2:
+1) Retak pada empat elemen kolom beton tipe K-2.
+Retak pada dua kolom (C.506) dan (C.607)
+disebabkan oleh pengaruh gaya aksial
+yangbekerja melebihi kapasitas tekuk kolom.
+Duakolom K-2 lainnya (C.605) dan (C.588)
+mengalami retak yang disebabkan karena
+rendahnya mutu beton (f’c = 13 Mpa). Sehingga
+ketika gaya aksial bekerja pada kolom, beton
+mengalami retak. Hal ini terjadi karena disebabkan
+oleh adanya beban tekuk (Fcr) yang
+melebihi batas nominal nilai modulus of
+rupture (fr) sebesar 2,642 Mpa.
+2) Ketidakcukupan dimensi struktur, pada komponen
+balok sloof menjadikan balok sloof lemah
+terhadap bahaya geser maupun torsi. Sehingga
+memicu terjadinya beban terkonsentrasi.
+c. Kerusakan panel dinding
+Kerusakan pada panel dinding gedung yang berupa
+retak vertikal dan horizontal disebabkan oleh
+terjadinya pergerakan pada struktur gedung. Pergerakan
+struktur gedung disebabkan oleh terjadinya
+deformasi plastis pada komponen balok sloof yang
+lemah terhadap bahaya geser maupun torsi.
+Deformasi awal terjadi akibat beban
+terkonsentrasi. Penelitian ini membuktikan bahwa
+retak yang terjadi pada panel dinding partisi dapat
+digunakan sebagai indikator adanya permasalahan
+pada komponen struktur gedung termasuk pada
+konfigurasi sistem struktur.

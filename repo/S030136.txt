@@ -1,0 +1,285 @@
+﻿ABSTRAK
+Dengan berkembangnya teknologi internet, dunia bisnis memasuki era di
+mana pemasaran menjadi lebih murah dan mudah di akses. Terutama pada
+industri hospitality, ulasan online (review) menjadi acuan yang digunakan calon
+konsumen sebagai tambahan informasi untuk memperkuat pengambilan
+keputusan hotel yang akan dipilih. Ulasan konsumen elektronik atau electronic
+word-of-mouth (eWOM) pada mulanya di kenal sebagai pemasaran dari mulut ke
+mulut (traditional word of mouth). Komunikasi eWOM telah menjadi faktor
+penting dalam pembentukan perilaku konsumen. Bagaimana konsumen bisa
+percaya pada sumber pemberi pesan dan percaya pada isi dalam komunikasi
+eWOM tersebut sehingga dapat menghasilkan keputusan pembelian (Urban,
+Amyx, dan Lorenzon., 2009). Trust pada komunikasi eWOM menjadi komponen
+yang penting. Sehingga dirumuskan 5 variabel yang digunakan yaitu eWOM,
+Source Credibility, Argument Quality, Consumer Trust dan Hotel Booking
+Intentions.
+Penelitian ini bertujuan untuk menganalisa pengaruh Source Credibility
+pada eWOM terhadap Consumer Trust dan Hotel Booking Intentions,
+menganalisa pengaruh Argument Quality pada eWOM terhadap Consumer Trust
+dan Hotel Booking Intentions serta mengetahui pengaruh Consumer Trust pada
+Hotel Booking Intentions.
+Metode yang digunakan pada penelitian ini adalah kuantitatif dengan
+teknik pengambilan sampel Purposive Sampling. Model diuji secara empiris
+dengan jumlah sampel sebanyak 100 orang pengguna TripAdvisor. Teknik
+analisis yang dipakai dalam penelitian ini adalah Partial Least Square (PLS)
+untuk dapat menjelaskan hubungan kausalitas antara variabel yang
+dikembangkan dalam model penelitian ini.
+Hasil penelitian menyatakan bahwa terdapat pengaruh yang signifikan
+antara variabel Source Credibility pada eWOM dengan Consumer Trust dan
+Hotel Booking Intentions, variabel Argument Quality pada eWOM dengan
+Consumer Trust dan Hotel Booking Intentions, namun variabel Consumer Trust
+tidak memiliki pengaruh signifikan terhadap Hotel Booking Intentions.
+Kata Kunci: Electronic word-of-mouth, Source Credibility, Argument
+Quality, Consumer Trust, Hotel Booking Intentions.
+
+
+BAB I
+PENDAHULUAN
+1.1 Latar Belakang Masalah
+Sejak pertama kali ditemukan, pertumbuhan internet di dunia semakin
+berkembang pesat. Menurut perusahaan riset pasar eMarketer, hingga tahun 2014
+jumlah pengguna internet di dunia mencapai angka 2,89 miliar dan diperkirakan
+pada tahun 2015 akan melampaui angka 3 miliar. Indonesia kini menduduki
+peringkat keenam dengan jumlah 83,7 juta pengguna di belakang Jepang yang
+berada di peringkat kelima dengan jumlah 102,1 juta. Hal ini merupakan akibat
+dari pertumbuhan jumlah pengguna internet di Indonesia yang signifikan dari
+tahun ke tahun (http://www.tekno.kompas.com).
+Tabel 1.1
+Peringkat Pemakai Internet, 2013-201
+millions
+2013 2014 2015 2016 2017
+1.China 620.7 643.6 669.8 700.1 736.2
+2.US 246.0 252.9 259.3 264.9 269.7
+3.India 167.2 215.6 252.3 283.8 313.8
+4.Brazil 99.2 107.7 113.7 119.8 123.3
+5.Japan 100.0 102.1 103.6 104.5 105.0
+6.Indonesia 72.8 83.7 93.4 102.8 112.6
+7.Russia 77.5 82.9 87.3 91.4 94.3
+8.Germany 59.5 61.6 62.2 62.5 62.7
+9.Mexico 53.1 59.4 65.1 70.7 75.7
+10.Nigeria 51.8 57.7 63.2 69.1 76.2
+Sumber: http://www.tekno.kompas.com
+Kemajuan teknologi internet telah membawa perubahan besar pada
+konsumen, pasar, dan marketing selama abad terakhir. Sejak awal tahun 2000,
+teknologi informasi telah memasuki pasar utama dan dikembangkan lebih jauh
+menjadi apa yang disebut sebagai new wave technology. (Kertajaya, 2010:12)
+mengungkapkan bahwa new wave technology adalah teknologi yang
+memungkinkan konektivitas dan interaktivitas antar individu dan kelompok. New
+wave technology meliputi 3 kekuatan utama: komputer dan telepon genggam
+murah, internet murah dan open source. Dalam penggunaan internet, saat ini
+masyarakat dapat mengakses internet melalui berbagai media, mulai dari
+komputer, laptop, handphone, smartphone, hingga tablet.
+Dampak dari kemudahan konsumen untuk akses informasi ke internet dan
+kemampuan untuk menghasilkan konten online, membuat komunikasi Word Of
+Mouth (WOM) menjadi bentuk baru sosial. Konsumen akan melakukan
+pencarian informasi secara aktif melalui WOM mengenai hal-hal yang mereka
+butuhkan. Silverman (2001:25) menyatakan bahwa WOM adalah komunikasi
+mengenai produk dan jasa yang dibicarakan oleh orang-orang. Komunikasi ini
+dapat berupa pembicaraan atau testimonial. Dickinger and Basu (1994)
+mendefinisikan WOM sebagai kemauan untuk berkomunikasi pasca-pembelian
+oleh konsumen. Dapat disimpulkan bahwa WOM adalah komunikasi mengenai
+produk dan jasa yang dibicarakan setelah konsumen melakukan pembelian. Pada
+beberapa penelitian, menunjukkan bahwa WOM penting dalam keputusan
+pembelian dan perilaku memilih konsumen (Godes and Mayzlin, 2004; Lee and
+Youn, 2009; Litvin et al., 2008).
+Di era Internet, efek Word Of Mouth (WOM) telah ditingkatkan dalam
+bentuk electronic word-of-mouth (eWOM) (Litvin et al., 2008). eWOM, juga
+sering disebut sebagai online reviews atau ulasan online, rekomendasi online,
+atau pendapat secara online. Litvin et al.(2008) mendefinisikan eWOM sebagai
+semua komunikasi informal yang diarahkan pada konsumen melalui teknologi
+berbasis internet yang berkaitan dengan penggunaan atau karakteristik barang dan
+jasa tertentu. Saluran komunikasi baru ini dapat membuat individu untuk
+menyampaikan informasi melalui situs blog atau situs review. Menurut temuan
+dari penelitian bersama oleh PowerReviews dan Etailing Group, 22% dari
+responden mengatakan bahwa mereka "selalu" membaca consumer reviews atau
+ulasan konsumen sebelum melakukan pembelian, 43% responden mengatakan
+bahwa mereka "sebagian besar waktu" memeriksa peringkat konsumen dan
+ulasan, dan sebanyak 68% membaca "setidaknya 4 ulasan" sebelum melakukan
+pembelian (Kee, 2008).
+Online review atau ulasan online pada situs spesifik, situs perusahaan,
+blog dan komunitas virtual, newsgroup, chatrooms, mempengaruhi berbagai
+langkah konsumen dalam pengambilan keputusan dan proses pembelian
+(Schindler and Bickart, 2005; Goldsmith and Horowitz,2006; Park et al., 2007;
+Buhalis and Law, 2008). Perusahaan yang memahami pentingnya eWOM akan
+mengambil manfaat dari online consumer reviews sebagai sebuah alat pemasaran
+baru (Dellarocas, 2003), yang memberikan informasi produk dan chatting di
+forum-forum online. Thurau et al. (2004) mengatakan bahwa komunikasi
+eWOM telah menjadi faktor penting dalam pembentukan perilaku konsumen.
+Dengan adanya rekomendasi ataupun review yang diberikan konsumen lain misal
+dalam sebuah sharing review platform mampu mempengaruhi konsumen dalam
+pengambilan keputusan untuk membeli suatu produk atau jasa.
+
+Salah satu industri yang sangat dipengaruhi kuat oleh eWOM adalah
+industri hospitality (Cantallops dan Salvi, 2014). Berdasarkan tingkat
+pertumbuhan dari akses internet dan kemampuan untuk memproduksi informasi
+secara online, customer sekarang menyadari bahwa ulasan online pengguna lain
+akan mempengaruhi pendapat tentang tujuan pariwisata dan hotel (Sparks and
+Browning, 2011; Ye et al., 2011; Xie et al., 2011). Kuatnya pengaruh eWOM
+dalam hospitality industry, khususnya pada bidang hotel (Cantallops and Salvi,
+2014), menjadikan online hotel reviews sebagai komponen kunci dalam
+manajemen hospitality (Leung et al.,2013).
+Contoh komunikasi eWOM tentang hotel adalah pengguna online yang
+membuat reviews mengenai tujuan wisata, hotel, dan jasa tourism. Reviews
+mengenai hal-hal tersebut menjadi sumber informasi penting bagi para
+wisatawan (Pan, MacLaurin dan Crotts, 2007). Contoh sarana bagi konsumen
+untuk berbagi pengalaman dan opini mereka dalam industri pariwisata dan
+hospitality adalah TripAdvisor. Melalui situs ini, setiap orang memiliki
+kebebasan untuk berbagi pengalaman dan mengungkapkan opini mereka terkait
+dengan produk pariwisata yang sudah, akan, atau pun sedang mereka konsumsi.
+Compete (2007) menyatakan bahwa sepertiga dari travellers mengunjungi
+message board, forum, atau online community sebelum mereka melakukan
+pembelian karena mereka percaya online reviews akan sangat membantu untuk
+keputusan pembelian mereka.
+
+Pentingnya online hotel reviews pada hospitality industry juga disadari
+penuh oleh salah satu hotel bintang 5 di Surabaya, Pullman Surabaya City Centre.
+Marketing Communications Manager, Angela Adistyara, menyatakan bahwa
+sangat penting bagi image hotel mereka untuk selalu melihat review dari
+pengguna hotelnya. “Kegiatan rutin setiap pagi, saya awali dengan membuka
+website Pullman dan TripAdvisor untuk melihat review tamu dan semua comment
+berupa saran dan kritik, kemudian saya akan menanggapi review-review tamu
+tersebut sebagai bentuk concern kami dan untuk kemajuan perkembangan hotel
+kami ke depannya.”, kata Angela. Online hotel reviews menjadi fokus penting
+saat ini karena para pengguna hotel menjadi lebih menyadari akan kebutuhan
+mereka dalam mendapatkan informasi aktif dengan pengguna hotel lainnya di
+media sosial (O’Connor, 2010) dan mengembangkan kemampuan mereka untuk
+menghasilkan consumer reviews (Levy et al., 2013).
+Bidang pariwisata di Surabaya saat ini merupakan bisnis yang
+berkembang pesat. Hal ini terbukti dengan semakin banyaknya pertumbuhan
+hotel di Surabaya. Berdasarkan data Persatuan Hotel dan Restoran Indonesia
+(PHRI) Jatim, jumlah hotel di Surabaya saat ini mencapai sekitar 125 unit hotel
+(http://www.rri.co.id tanggal 7 Mei 2015).
+Semakin banyaknya pertumbuhan hotel di Surabaya, membuat calon
+penghuni hotel membutuhkan saran dan informasi tambahan dari pihak lain
+khususnya dari tamu hotel yang lama. Karena dari review tersebut, calon
+penghuni hotel menjadi mempunyai gambaran lebih mengenai kamar hotel yang
+akan mereka huni, seperti tingkat kenyamanan kamar, fasilitas, keramahan,
+kecepatan service yang didapat, dan lain-lain. Hal ini membuat calon penghuni
+hotel menjalani sebuah proses keputusan pembelian.
+Pada penelitian-penelitian sebelumnya, banyak topik yang membahas
+tentang kuatnya pengaruh komunikasi eWOM terhadap pengambilan keputusan
+konsumen, salah satunya seperti penelitian yang dilakukan oleh Mauri dan
+Minazzi (2013) yang berjudul “Web reviews influence on expectations and
+purchasing intentions of hotel potential customers”. Banyak studi juga yang
+meneliti tentang motivasi konsumen dalam keputusan konsumen pada
+komunikasi eWOM, seperti penelitian oleh Hennig-Thurau et al.,2004 yang
+berjudul “Motivation behind a consumer decision to engage in eWOM
+communication on web-based opinion platform”. Penelitian-penelitian seperti
+(Arndt, 1967; Lutz & Reilly, 1974) juga membuktikan bahwa komunikasi
+eWOM adalah sumber informasi terpenting untuk mengurangi resiko dan
+mempunyai pengaruh positif terhadap keputusan pembelian.
+Walaupun banyak penelitian seperti yang telah disebutkan di atas,
+pertanyaan yang lebih mendasar sebenarnya adalah bagaimana konsumen bisa
+percaya pada sumber pemberi pesan dan percaya pada isi dalam komunikasi
+eWOM tersebut sehingga dapat menghasilkan keputusan pembelian (Urban,
+Amyx, dan Lorenzon., 2009). Trust pada komunikasi eWOM menjadi komponen
+yang penting.
+
+Bentuk komunikasi eWOM memiliki kredibilitas lebih tinggi daripada
+iklan (Herr et al.,1991), namun pesan rekomendasi dari individu yang berformat
+text based jelas memberikan hambatan dan kesulitan dalam menilai familiaritas
+dan tingkat kepercayaan dari sumber pesan tersebut (Chatterjee,2001). Sehingga
+para konsumen online akan mengalami dilema dan keraguan dalam mempercayai
+pesan-pesan yang dikirim dari user lain.
+Beberapa penelitian mengemukakan bagaimana individu mengevaluasi
+komponen pesan pada komunikasi eWOM. Komponen pesan yang banyak
+didiskusikan adalah kekuatan pesan yang diteliti oleh Cheung et al. (2009), Lin et
+al.,2011, Park et al.,2007 dan Zhang dan Watts (2008). Zhang dan Watts (2008)
+dan Cheung et al.,2009 juga meneliti tentang pengaruh kredibilitas sumber
+terhadap adopsi pesan pada konteks online. Kekuatan dan kredibilitas pesan
+adalah komponen penting untuk dapat menghasilkan pesan yang dapat dipercaya
+pada komunikasi eWOM.
+Dalam hal ini, peneliti akan melakukan penelitian untuk mendapatkan
+bukti empiris pada salah satu bentuk komunitas virtual dimana di dalamnya
+terdapat aktivitas pertukaran informasi antara konsumen yaitu TripAdvisor.
+Penelitian yang dilakukan oleh Gretzel (2007) menyatakan bahwa 92.3%
+responden menyatakan bahwa virtual communities seperti TripAdvisor adalah
+websites perjalanan yang paling banyak digunakan khususnya untuk bertukar
+informasi, evaluasi berbagai alternatif, menghindari tempat wisata yang kurang
+nyaman dan memberikan ide-ide (PhoCusWright, 2010).
+
+TripAdvisor adalah situs terpercaya terbesar di dunia dengan lebih dari 60
+juta pengguna dan 170 juta reviews dan opini mengenai hotel, restoran, dan
+aktivitas wisata lainnya. TripAdvisor merupakan situs forum bagi pelancong
+yang dikenal di 44 negara dengan 27 bahasa berbeda yang didalamnya terdapat
+salah satu bentuk aktivitas eWOM yaitu pengguna bisa dengan mudah
+mendapatkan informasi terkait yang mereka inginkan dan mereka bebas untuk
+mengutarakan pendapat dan memberikan rekomendasi pada user lainnya. Namun
+apakah informasi yang tercipta merupakan suatu informasi/ argumen yang
+berkualitas baik, apakah pemberi pesan juga memiliki unsur-unsur sebagai
+pemberi pesan yang terpercaya. Sehingga inilah yang mendasari peneliti untuk
+dapat menjawab apakah media komunikasi ini mampu secara baik menciptakan
+kualitas dan sumber pesan yang kredibel dan reliable dalam ruang lingkup media
+internet dimana kredibilitas pesan dipertanyakan, sehingga wadah ini mampu
+menjadi sasaran para pelaku bisnis untuk dapat membangun Trust dan membuat
+keputusan pembelian secara nyata. Dan juga bagaimana peran TripAdvisor
+sebagai salah satu tempat dan sumber informasi/ review jasa pariwisata sebagai
+suatu tempat yang dipercaya di mata penggunanya untuk membangun preferensi,
+mencari dan mengumpulkan informasi produk dan jasa dalam masa pre-purchase
+konsumen. Sehingga dirumuskan 5 variabel yang digunakan yaitu eWOM, Source
+Credibility, Argument Quality, Consumer Trust dan Hotel Booking Intentions.
+Penelitian ini didasari penelitian sebelumnya yaitu: “The Impact of Online
+Reviews on Hotel Booking Intentions and Perception of Trust (Browning dan
+A. Sparks, 2010) yang meneliti tentang pengaruh aktivitas eWOM terhadap
+kepercayaan konsumen dan niat pemesanan hotel, dimana hasil penelitian
+mereka menunjukkan bahwa eWOM yang mempunyai isi informasi positif adalah
+faktor yang paling efektif dalam pengaruhnya terhadap trust dan hotel booking
+intentions. Penelitian selanjutnya yang mendasari adalah penelitian yang
+dilakukan oleh Christy dan Matthew (2010) yang berjudul “The Impact of
+Electronic Word-of-Mouth, The Adoption of Online Opinions In Online Customer
+Communities” dimana mereka meneliti bagaimana tingkat adopsi informasi salah
+satu forum komunitas restoran yaitu Openrice dengan variabel Argument Quality,
+Source Credibility, Information Usefulness dan Information Adoption. Hasil
+penelitian mereka mengindikasi bahwa variabel Argument Quality dan Source
+Credibility merupakan 2 faktor yang paling berpengaruh signifikan dalam
+pengadopsian informasi seseorang. Dan penelitian selanjutnya yang mendasari
+adalah The Effect of Perceived Blogger Credibility and Argument Quality on
+Message Elaboration and Brand Atittudes: An Exploratory Study (Chu dan Sara,
+2010) yang meneliti tentang bagaimana kredibilitas dan kualitas pesan seorang
+blogger terhadap elaborasi pesan dan sikap terhadap merek. Hasil penelitian ini
+menunjukkan bahwa kepercayaan dan kualitas pesan seorang blogger
+berpengaruh positif terhadap elaborasi pesan dan menyebabkan sikap pembaca
+blog terhadap suatu merek. Oleh karena itu, dalam penelitian ini peneliti hanya
+menggunakan 2 variabel yang berpengaruh signifikan tersebut, yaitu Argument
+Quality dan Source Credibility.
+Penelitian ini adalah bentuk pengembangan dari penelitian sebelumnya
+dimana adanya kombinasi variabel yang sesuai dengan permasalahan yang ingin
+diteliti oleh peneliti. Karena walaupun eWOM menciptakan perpindahan
+informasi secara dasar, namun pengaruh aktual dari informasi yang diterima dapat
+berbeda-beda dari satu individu dengan individu lainnya. Chaiken dan Eagly
+(1976) mengatakan bahwa konten yang sama dapat menimbulkan respon yang
+berbeda pada penerima yang berbeda tergantung persepsi, pengalaman dan
+sumber berbeda. Sehingga dalam penelitian ini akan menitikberatkan pada
+bagaimana pengaruh Source Credibility pada eWOM terhadap Consumer Trust
+dan Hotel Booking Intentions, bagaimana pengaruh Argument Quality pada
+eWOM terhadap Consumer Trust dan Hotel Booking Intentions dan bagaimana
+pengaruh Consumer Trust pada Hotel Booking Intentions.
+1.2 Rumusan Masalah
+Berdasarkan latar belakang di atas, maka rumusan masalah tesis ini, yaitu:
+1. Bagaimana pengaruh Source Credibility pada eWOM terhadap Consumer
+Trust dan Hotel Booking Intentions?
+2. Bagaimana pengaruh Argument Quality pada eWOM terhadap Consumer
+Trust dan Hotel Booking Intentions?
+3. Bagaimana pengaruh Consumer Trust pada Hotel Booking Intentions?
+
+1.3 Tujuan Penelitian
+Sesuai dengan rumusan masalah di atas, tujuan penelitian ini adalah :
+1. Menganalisa pengaruh Source Credibility pada eWOM terhadap
+Consumer Trust dan Hotel Booking Intentions.
+2. Menganalisa pengaruh Argument Quality pada eWOM terhadap
+Consumer Trust dan Hotel Booking Intentions.
+3. Mengetahui pengaruh Consumer Trust pada Hotel Booking Intentions.
+1.4 Manfaat Penelitian
+Dengan adanya penulisan ini, maka diharapkan dapat memberikan
+manfaat, yaitu:
+1. Menambah wawasan dan pengetahuan akademis mengenai pemahaman
+lebih luas tentang pengaruh source credibility dan argument quality pada
+eWOM terhadap Consumer Trust dan dampaknya pada Hotel Booking
+Intentions.
+2. Memberikan informasi pada pihak manajemen perhotelan untuk
+meningkatkan pemasaran melalui media sosial dan menjaga hubungan
+baik dengan konsumennya sehingga membangun reputasi online yang
+baik.
+3. Memberikan referensi bagi pebisnis dalam sektor pariwisata khususnya
+pihak pengelola hotel dalam menyusun strategi pemasaran melalui
+komunitas virtual.

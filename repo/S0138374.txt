@@ -1,0 +1,424 @@
+﻿
+ 
+
+PENGEMBANGAN TEKNOLOGI AUGMENTED REALITY SEBAGAI 
+
+PENGUATAN DAN PENUNJANG METODE PEMBELAJARAN DI SMK 
+
+UNTUK IMPLEMENTASI KURIKULUM 2013 
+
+Abstrak 
+
+Tujuan penelitian ini adalah untuk mengetahui: (1) proses pengembangan Augmented Reality 
+(AR); (2) desain model AR; (3) penerapan teknologi AR; dan (4) hasil pengembangan AR yang 
+dapat dijadikan sebagai penunjang metode pembelajaran di SMK untuk implementasi kurikulum 
+2013 dapat memenuhi kriteria valid, praktis, dan efektif. Penelitian ini merupakan jenis penelitian 
+pengembangan. Pengembangan perangkat lunak yang berupa aplikasi AR ini dilaksanakan dengan 
+pendekatan engineering yang tahapannya adalah: analisis, desain, implementasi, dan evaluasi. AR 
+diintegrasikan dengan Kurikulum 2013 menggunakan modul yang berkaitan dengan kaidah-kaidah 
+yang ada dalam pembelajaran saintifik. Penilaian AR melibatkan ahli media dalam proses aplikasi 
+dan penerapannya pada mata pelajaran elektronika Dasar. Penilaian terhadap media terdiri atas 
+aspek: (1) tampilan augmented reality (audio visual) dikategorikan sangat baik; (2) aspek AR 
+dikategorikan sangat baik; dan (3) aspek pemrograman dikategorikan sangat baik; (3) penilaian 
+ahli materi terhadap aspek isi dikategorikan baik; (4) aspek desain pembelajaran dikategorikan 
+sangat baik. Pengembangan teknologi AR untuk mata pelajaran produktif di SMK khususnya 
+dalam pelaksanaan kegiatan pembelajaran dengan metode scientific approach dapat memenuhi 
+kebutuhan peningkatan keterampilan siswa, kognitif, dan afektif siswa serta menjauhkan siswa 
+dalam memahami suatu hal yang abstrak dan kompleks. 
+
+Kata Kunci: Teknologi Augmented Reality, Pembelajaran, Kurikulum 2013. 
+
+
+ 
+
+PENDAHULUAN 
+
+Metode pembelajaran yang bersesuaian 
+dengan Kurikulum 2013 yaitu pendekatan 
+ilmiah, kontekstual, berbasis masalah, berbasis proyek, kooperatif, pendekatan pembelajaran komunikatif. Namun, berdasarkan kenyataan di lapangan, banyak guru yang mengeluh dengan kurikulum baru ini dan untuk 
+menerapkan metode pembelajaran yang sesuai 
+membutuhkan perubahan yang signifikan. Dalam proses pelaksanaan Kurikulum 2013, 
+Sekolah Menengah Kejuruan (SMK) yang 
+sudah menerapkan Kurikulum 2013. tentu ada 
+banyak kendala terutama dari segi metode 
+yang digunakan guru dalam proses pembelajarannya. guru kesulitan menerapkan metode 
+yang disarankan untuk pada Kurikulum 2013 
+karena guru belum terbiasa menggunakan 
+metodenya. memerlukan waktu yang lebih 
+lama. Pembelajaran berdasarkan Kurikulum 
+2013 adalah menggunakan pendekatan ilmiah 
+(scientific) melalui pembelajaran yang kontekstual dan konstruktivis dengan proses pembelajaran mengacu pada 5 pengalaman belajar 
+yaitu mengamati, menanya, mengumpulkan 
+informasi, mengasosiasi, dan mengomunikasikan. Adapun model-model pembelajaran yang 
+dirumuskan dalam kurikulum baru meliputi 
+discovery/inquiry 
+learning, project based 
+learning dimana siswa menghasilkan karya 
+berbasis pemecahan masalah, serta collaborative learning (Nurhadi, Yasin, & Senduk, 
+2004). Permasalahan yang muncul adalah 
+seberapa jauh konsep-konsep model pembelajaran tersebut telah terimplementasikan di 
+lapangan. 
+
+Untuk mengatasi permasalahan tersebut, dalam penelitian ini akan dikembangkan 
+aplikasi Augmented Reality (Azuma, 1997). 
+Penelitian ini dilaksanakan sebagai salah satu 
+upaya untuk membantu guru memahami 
+metode-metode dan pendekatan pembelajaran 
+untuk mengimplementasikan Kurikulum 2013 
+yang mencakup metode saintifik, pembelajaran berbasis projek, dan pembelajaran berbasis 
+masalah yang diperkaya dengan pembelajaran 
+kooperatif dan pembelajaran dengan pendekatan komunikatif melalui teknologi Augmented Reality. Pembelajaran-pembelajaran 
+tersebut merupakan pembelajaran yang berpusat pada peserta didik dengan belajar aktif 
+memperoleh pengetahuan, keterampilan dan 
+sikap. 
+
+ 
+
+Sebagai komponen inovasi dalam kurikulum, banyak di antara guru SMK di Indonesia yang belum mengetahui dan mengimplementasikan metode-metode dan pendekatan pembelajaran tersebut dalam merencanakan dan melaksanakan pembelajaran di kelas 
+dengan baik. Pendekatan teknologi Augmented Reality disusun dengan maksud untuk menyajikan informasi utama secara virtual dan 
+simulasi mengenai metode-metode dan pendekatan tersebut agar guru memiliki pemahaman 
+yang memadai dan selanjutnya dapat menyajikan pembelajaran aktif sesuai tuntutan implementasi Kurikulum 2013 
+(Kustiawan, 
+2009). Tujuan yang akan dicapai dalam penelitian ini adalah untuk mengetahui: (1) proses 
+pengembangan Augmented Reality sebagai 
+penguatan dan penunjang metode pembelajaran di SMK untuk implementasi kurikulum 
+2013; (2) desain model Augmented Reality 
+sebagai penguatan dan penunjang metode 
+pembelajaran di SMK untuk implementasi 
+kurikulum 2013; (3) penerapan teknologi 
+Augmented Reality yang dapat dijadikan sebagai penunjang metode pembelajaran di SMK 
+untuk implementasi kurikulum 2013; dan (4) 
+hasil pengembangan Augmented Reality yang 
+dapat dijadikan sebagai penunjang metode 
+pembelajaran di SMK untuk implementasi kurikulum 2013 dapat memenuhi kriteria valid, 
+praktis, dan efektif. 
+
+METODE PENELITIAN 
+
+Teknologi Augmented Reality Sebagai 
+Penguatan dan Penunjang Metode Pembelajaran di SMK untuk Implementasi Kurikulum 2013 ini merupakan jenis penelitian pengembangan. Pengembangan perangkat lunak 
+yang berupa aplikasi Augmented Reality ini 
+dilaksanakan dengan pendekatan engineering 
+dimana tahapannya adalah: analisis, desain, 
+implementasi, dan evaluasi. Setelah dihasilkan 
+sebuah aplikasi Augmented Reality untuk diterapkan pada pembelajaran saintifik, selanjutnya dilakukan uji coba terhadap produk 
+yang dikembangkan kepada 
+siswa-siswi 
+SMKN 9 Makassar. 
+
+Prosedur penelitian dan pengembangan 
+model Gall, Borg, & Gall, (2003) pada dasarnya terdiri dari dua tujuan utama, yaitu: (1) 
+mengembangkan produk, (2) menguji keefektifan produk dalam mencapai tujuan. Tujuan 
+pertama mengarah kepada pengembangan terhadap suatu produk dan tujuan kedua adalah 
+mengarah kepada validasi. Melalui adaptasi 
+dari berbagai penelitian maka diperoleh prototype pengembangan yang digunakan dalam 
+penelitian ini (diperlihatkan pada Gambar 1). 
+Membangun prototype merupakan tahapan dimana draf tersebut direalisasikan dalam bentuk produk aplikasi. 
+
+Tahap awal uji coba aplikasi Augmented Reality yang akan dikembangkan adalah 
+memvalidasi produk kepada ahli materi, ahli 
+media, ahli komunikasi visual, dan ahli pemrograman. Validasi produk awal dilakukan 
+secara terintegrasi mulai dari perangkat yang 
+dihasilkan dalam perancangan (desain) hingga 
+diperoleh produk perangkat lunak Augmented 
+Reality. 
+
+Uji coba perorangan (one to one) dilakukan di SMK Negeri 9 melibatkan subjek 
+coba 5 orang untuk mata pelajaran elektronika 
+analog, elektronika digital, dan elektronika industri (AnaDigtri). Selanjutnya uji coba kelompok kecil dan uji coba lapangan melibatkan subjek coba 30 orang. 
+
+Jenis data yang digunakan dalam penelitian ini adalah data kualitatif dan data kuantitatif. Data kualitatif diperoleh dari instrumen 
+analisis kebutuhan, sedangkan data kuantitatif 
+diperoleh dari hasil lembar analisis kebutuhan, 
+lembar ahli materi, ahli media, ahli komunikasi visual, dan penilaian siswa SMK. 
+
+Teknik yang digunakan dalam pengumpulan data/informasi dari model yang dikembangkan adalah observasi, wawancara dan 
+kuesioner. Selanjutnya, kuesioner digunakan 
+untuk menjaring data mengenai tanggapan 
+peserta mengenai aplikasi Augmented Reality 
+yang dikembangkan. Terakhir adalah tes hasil 
+belajar dengan menggunakan aplikasi yang 
+telah dikembangkan yakni Augmented Reality. 
+
+Gambar 1. Prosedur Pengembangan dalam Penelitian 
+
+ 
+
+ 
+
+Pengembangan Teknologi Augmented Reality sebagai 
+Mantasia, Hendra Jaya 
+
+
+ 
+
+Pada setiap tahap penelitian dan pengembangan ini akan dilakukan analisis sesuai dengan maksud dan tujuan tahapan tersebut. Pada umumnya analisis yang digunakan 
+dalam penelitian ini adalah analisis deskriptif 
+yang mendeskripsikan hasil pengembangan, 
+respons validator, hasil uji coba one to one, 
+kelompok kecil, dan kelompok diperluas. 
+Analisis terhadap perangkat lunak dan perangkat keras dilakukan dengan mempertimbangkan spesifikasi minimumnya, dengan 
+mengacu pada pengembangan software untuk 
+media pembelajaran yaitu efesiensi dan efektivitas, reliabilitas, usabilitas, ketepatan pemilihan aplikasi, kompatibilitas, pemaketan, dokumentasi dan reusabilitas. 
+
+HASIL DAN PEMBAHASAN 
+
+Analisis Kebutuhan 
+
+Pengumpulan informasi dilakukan dengan melakukan observasi dan wawancara 
+dengan guru di SMKN 9 Makassar mengenai 
+pembelajaran berbasis saintifik di kelas. Hasil 
+analisis wawancara dan observasi, diperoleh 
+sebagai berikut: (1) pendekatan pembelajaran 
+yang digunakan guru SMKN 9 Makassar dalam proses pembelajaran adalah belum menggunakan pendekatan pembelajaran yang berorientasi atau berpusat pada siswa (Student 
+Centered Approach); (2) strategi pembelajaran yang diterapkan guru SMK SMKN 9 Makassar belum menggunakan proses pembelajaran deduktif. Dalam strategi pembelajaran 
+deduktif pesan yang akan disampaikan dimulai dari hal yang umum ke hal yang khusus, dari hal abstrak kepada hal yang nyata, 
+dari konsep-konsep yang abstrak kepada contoh-contoh yang konkret; (3) metode pembelajaran yang biasa dilakukan adalah hanya 
+menggunakan model ceramah dan resitasi 
+(penugasan), sedangkan model diskusi masih 
+jarang digunakan oleh guru. Metode ceramah 
+ialah penerangan dan penuturan secara lisan 
+untuk menjelaskan uraiannya. Metode diskusi 
+adalah metode pembelajaran yang menghadapkan siswa pada suatu permasalahan. Tujuan utama metode ini adalah untuk memecahkan suatu permasalahan, menjawab pertanyaan, menambah dan memahami pengetahuan siswa, serta untuk membuat suatu keputusan; (4) media ajar yang digunakan hampir tidak ada, guru hanya menjelaskan di 
+depan kelas mengenai komponen elektronika 
+analog ataupun digital dan hanya mencatat 
+poin-poin penting saja di papan tulis (white 
+board); (5) permasalahan muncul, ketika siswa harus mengamati proses dan prinsip kerja 
+komponen secara langsung, proses ini membutuhkan waktu dan tempat sehingga proses 
+pembelajaran menjadi tidak efektif. Multimedia pembelajaran dengan menggunakan 
+metode Augmented Reality sangat menarik 
+untuk membantu proses pembelajaran pada 
+materi elektronika analog dan elektronika digital, dengan harapan multimedia Augmented 
+Reality dibuat secara interaktif yang melibatkan siswa secara langsung dalam proses pembelajaran dengan multimedia. Materi yang 
+terkandung dalam multimedia pembelajaran 
+menggunakan bahasa yang mudah dimengerti 
+dan dipahami siswa. Multimedia diharapkan 
+sederhana dan mempermudah siswa melihat 
+materi yang diinginkan serta cepat tanggap 
+atau responsif terhadap perintah siswa, multimedia diharapkan ditampilkan dalam bentuk 
+yang banyak diminati dan digemari oleh siswa. Multimedia diharapkan dapat memberikan pengalaman belajar menjadi lebih mudah 
+dalam memahami sebuah materi prinsip komponen. 
+
+Analisis Kebutuhan 
+
+Implementasi Kurikulum 
+
+ 
+ 
+ 
+ 
+
+
+Metode Pembelajaran 
+
+Gambar 2. Tahapan Analisis Kebutuhan 
+
+Analisis Pengguna 
+
+Pengguna multimedia Augmented Reality ini adalah Guru dan Siswa kelas X 
+SMKN 9 Makassar. 
+
+Analisis Kebutuhan Perangkat Lunak 
+
+Dalam proses pengembangan multimedia pembelajaran Augmented Reality ini dibutuhkan beberapa perangkat lunak. Perangkat lunak yang dibutuhkan di antaranya: 
+AR Toolkit 
+
+
+ 
+AR Toolkit 
+
+ARToolKit adalah koleksi software 
+library yang dirancang untuk menghubungkan 
+program aplikasi. Untuk alasan ini, ARToolKit didistribusikan sebagai sourcecode, 
+dan harus dikompilasi sourcecode ini pada 
+sistem operasi dan platform yang digunakan. 
+Diperlukan lingkungan pengembangan sistem 
+operasi yang dipakai. Sourcecode ini berjalan 
+pada semua platform, seperti Windows, Linux 
+and Mac. Sourcecode yang disediakan memungkinkan mengembangkan applikasi pada 
+Windows dimana platformnya tidak berbasis 
+MS Visual Studio. Meskipun ARToolKit menawarkan fungsi yang sama di beberapa platform, instalasinya berbeda tergantung pada 
+sistem operasi yang dipakai. Tutorial ini akan 
+memandu dalam proses instalasi & konfigurasi pada platform yang digunakan. Sistem 
+operasi dan platform yang digunakan harus 
+memenuhi beberapa persyaratan dasar. Perangkat keras harus dapat menerima masukan 
+video, dan memiliki cadangan CPU untuk menangani tugas-tugas pemrosesan video dan 
+tampilan. Ada juga beberapa ketergantungan 
+software dasar - penting untuk menghindari 
+kesalahan compiler dan linker. Paket-paket 
+utama 
+(misalnya 
+OpenGL, GLUT), dan lainnya terkait dengan 
+library video khusus untuk mesin yang 
+digunakan (DirectShow, V4L, QuickTime). 
+
+cross-platform 
+
+adalah 
+
+Adobe Flash CS3 
+
+Adobe Flash CS3 merupakan perangkat 
+lunak utama dalam pembuatan multimedia 
+pembelajaran berbasis multimedia 
+(Jaya, 
+2010). Penggunaan Flash ini akan membuat 
+pengembangan multimedia ini menjadi lebih 
+mudah, karena flash dapat digunakan untuk 
+memanipulasi gambar, membuat animasi, dan 
+juga terdapat sebuah bahasa pemprograman 
+yang mendukung untuk membuat konten yang 
+dinamis dan interaktif yaitu Action Script. 
+Pada pengembangan multimedia ini, penulis 
+menggunakan ActionScript 2.0. 
+
+3Ds Max 
+
+3DS Max adalah program untuk modeling, rendering, dan animasi yang memungkinkan untuk mempresentasikan desain, seperti desain interior, arsitektur, dan iklan, secara realistik dan atraktif. Kelengkapan fitur, 
+sistem parametrik pada objek, serta sistem 
+keyframer pada animasi, telah menempatkan 
+3DS Max menjadi program animasi yang 
+mudah dan populer dibandingkan program 
+aplikasi sejenis. 3D Studio Max (kadangkala 
+disebut 3ds Max atau hanya MAX) adalah 
+sebuah perangkat lunak grafik vektor 3dimensi dan animasi, ditulis oleh Autodesk 
+Media & Entertainment (dulunya dikenal 
+sebagai Discreet and Kinetix. Perangkat lunak 
+ini dikembangkan dari pendahulunya 3D 
+Studio for DOS, tetapi untuk platform Win32. 
+Kinetix kemudian bergabung dengan akuisisi 
+terakhir Autodesk, Discreet Logic. 
+
+Analisis Kebutuhan Perangkat Keras 
+
+Pengembangan multimedia selain membutuhkan perangkat lunak, dibutuhkan juga 
+spesifikasi minimum perangkat keras yang 
+disajikan pada Tabel 1. 
+
+
+
+ 
+
+Gambar 3. Flowchart Rancangan 
+
+Aplikasi Augmented Reality 
+
+ 
+
+Pengembangan Teknologi Augmented Reality sebagai 
+Mantasia, Hendra Jaya 
+
+
+ 
+
+Tabel 1. Spesifikasi Minimun Perangkat 
+
+Keras 
+
+Spesifikasi Minimun 
+
+Prosesor Pentium IV 2.0 GHz 
+RAM 1 GB 
+Hardisk 20 GB 
+Resolusi Monitor` 1024x768 
+Kamera Webcam 
+
+Pembuatan Antarmuka Multimedia 
+
+Pembuatan 
+
+antarmuka multimedia 
+mengacu pada rancangan antarmuka. Multimedia ini didominasi oleh warna Ungu dan 
+Biru pada tampilan. 
+
+Antarmuka Desain 
+
+Gambar 4. Tampilan Marker 
+
+ 
+
+Gambar 5. Augmented Reality dengan 
+
+topik Elektron 
+
+ 
+
+Coding atau Pengkodean 
+
+Movieclip dan marker yang terdapat 
+pada antarmuka belum dapat berfungsi, oleh 
+sebab itu diberikan code supaya movieclip 
+berfungsi sesuai yang diharapkan. Code yang 
+digunakan adalah ARToolkit, dalam multimedia pengembangan ini menggunakan ARToolkit sehingga memungkinkan membuat multimedia yang menarik dan interaktif untuk mendukung materi mata pelajaran produktif di 
+SMK. Secara umum, pemberian animasi pada 
+objek-objek multimedia dapat diuraikan sebagai berikut: (1) pemberian animasi 3D 
+memberikan kesan yang mendalam kepada 
+siswa dengan melibatkan beberapa indra yakni audio, visual, dan pembelajaran dengan 
+menggunakan pendekatan saintifik (Scienific 
+Aproach); (2) penempatan kamera yang tepat 
+sehingga marker dapat terbaca oleh kamera; 
+(3) pemberian animasi untuk menampilkan 
+materi Elektronika Analog. 
+
+Gambar 6. Translasi, Rotasi, dan Skala 
+
+untuk Marker 
+
+ 
+
+Pada Gambar 6 terlihat bahwa file bola 
+berekstensi file (.WRL), file WRL atau nama 
+panjangnya adalah VRML (Virtual Reality 
+Modelling Language) adalah sebuah bahasa 
+pemograman virtual yang sering digunakan 
+para programmer untuk membuat Objek 3D, 
+biasanya file WRL sering digunakan untuk 
+membuat persentasi Objek 3D di sebuah Web 
+tertentu. VRML dapat berinteraksi dengan 
+Objek 3D yang dibuat. Penelitian ini menggunakan pergerakan atom, lalu dengan bahasa 
+VRML bisa memutar-mutar bagian atom atau 
+melihat isi dalam atom tersebut. ARToolkit 
+secara umum menggunakan bahasa VRML 
+untuk membaca objek 3D yang akan dirender. 
+
+
+Penilaian Ahli Media 
+Penilaian Augmented Reality melibatkan ahli media dalam proses aplikasi dan penerapannya pada mata pelajaran elektronika analog. Penilaian terhadap media terdiri atas aspek: (1) tampilan Augmented Reality (Audio Visual); (2) aspek AR (Augmented Reality); dan 3) aspek pemrograman. 
+Penilaian ahli media terhadap aspek Augmented Reality diperoleh rerata skor penilaian 4,73 (sangat baik) terdiri atas indikator simulasi, teknik animasi dan gambar 3-Dimensi, dan metodologi yang disajikan pada Gambar 10.
+
+Penilaian ahli media untuk aspek pemrograman diperoleh rerata skor penilaian 4,36 (baik) terdiri atas indikator: pemrograman, interaksi, navigasi, animasi, dan simulasi yang disajikan pada Gambar 11.
+
+Penilaian Ahli Materi 
+Penilaian ahli materi terhadap aspek isi diperoleh rerata skor keseluruhan 4,46 (baik) terdiri atas beberapa indikator yakni kualitas materi, kualitas simulasi, dan kualitas bahasa yang disajikan pada Gambar 12.
+
+Aspek desain pembelajaran diperoleh rerata skor 4,62 (sangat baik) terdiri dari indikator: konsistensi, kejelasan tujuan, strategi pembelajaran saintifik, sajian latihan dan tes, pemilihan bahasa, dan motivasi yang disajikan pada Gambar 13.
+
+Penilaian oleh Siswa 
+Penilaian Augmented Reality melibatkan siswa dalam proses aplikasi dan penerapannya pada mata pelajaran Elektronika Dasar. Penilaian terhadap aplikasi melibatkan siswa sebanyak 30 orang siswa. Penilaian terhadap model pembelajaran berbasis Augmented Reality (AR) melalui pendekatan saintifik yang dinilai oleh siswa dikatakan sangat baik. Adapun aspek penilaian terdiri atas: (1) aspek rekayasa perangkat lunak; (2) aspek desain pembelajaran; dan (3) aspek komunikasi visual. Diperoleh hasil penilaian yang terdiri dari aspek rekayasa perangkat lunak dengan persentase penilaian 84,16%, aspek desain pembelajaran dengan persentase penilaian 86,66%, aspek komunikasi visual dengan persentase 82,96%. Selanjutnya, dapat diperlihatkan hasil penilaian seperti pada Tabel 3 berikut ini. 
+Tabel 3. Penilaian Siswa terhadap Model Pembelajaran Berbasis Augmented Reality (AR) Melalui Pendekatan Saintifik 
+
+
+Berdasarkan jawaban siswa bahwa kelebihan-kelebihan yang terdapat pada aplikasi ini adalah tidak hanya bisa digunakan di PC (komputer/laptop) tetapi bisa juga digunakan pada handphone berbasis Android. Kelemahan yang terdapat pada aplikasi ini jika digunakan di PC membutuhkan hardware kamera tambahan untuk menggerakkan dan memunculkan gambar 3D. Pendapat dan saran siswa tentang aplikasi ini adalah sangat menarik. Selanjutnya, kelayakan penggunaan media untuk pembelajaran mandiri adalah aplikasi ini layak digunakan sebagai media untuk pembelajaran mandiri, dan juga bisa digunakan sebagai media untuk pembelajaran kelompok sebagai alat presentasi. Berdasar deskripsi mengenai kalayakan program, program yang dibuat termasuk ke dalam kategori baik dan bisa dikatakan layak untuk bisa digunakan di dalam proses pembelajaran. Responden setuju bahwa media pembelajaran berbasis Augmented Reality pokok bahasan Atom menarik, tidak membosankan, tidak merasa takut pada pelajaran Elektronika Dasar serta mudah digunakan. 
+Integrasi Kurikulum 2013 (K-13) 
+Untuk mengintegrasikan Augmented Reality dengan Kurikulum 2013, maka dalam penelitian ini dibuat modul yang berkaitan dengan kaidah-kaidah yang ada dalam pembelajaran saintifik (scientific learning) seperti disajikan pada Gambar 14. 
+Proses pembelajaran pada Kurikulum 2013 untuk jenjang SMK dilaksanakan menggunakan pendekatan ilmiah. Proses pembelajaran menyentuh tiga ranah, yaitu sikap, pengetahuan, dan keterampilan (Kemendikbud, 2013, pp. 203, 212). Dalam proses pembelajaran berbasis pendekatan ilmiah, ranah sikap menggamit transformasi substansi atau materi ajar agar peserta didik “tahu mengapa.” Ranah keterampilan menggamit transformasi substansi atau materi ajar agar peserta didik “tahu bagaimana”. Ranah pengetahuan menggamit transformasi substansi atau materi ajar agar peserta didik “tahu apa.”
+
+Hasil akhirnya adalah peningkatan dan keseimbangan antara kemampuan untuk menjadi manusia yang baik (soft skills) dan manusia yang memiliki kecakapan dan pengetahuan untuk hidup secara layak (hard skills) dari peserta didik yang meliputi aspek kompetensi sikap, keterampilan, dan pengetahuan. 
+Pengembangan teknologi Augmented Reality pada mata pelajaran produktif di SMK khususnya dalam pelaksanaan kegiatan pembelajaran merupakan suatu bentuk yang dapat memenuhi kebutuhan peningkatan keterampilan siswa, kognitif, dan afektif siswa serta menjauhkan siswa dalam memahami suatu hal yang abstrak dan kompleks (Mantasia, 2015). 
+Salah satu model pembelajaran yang tidak hanya memberdayakan mata pelajaran elektronika sebagai produk tetapi juga mampu memberdayakan sebagai proses terutama demi peningkatan keterampilan serta hasil belajar yaitu model pembelajaran scientific approach (pendekatan ilmiah). Model pembelajaran ini dirancang sedemikian rupa sehingga peserta didik secara aktif membangun konsep, hukum atau prinsip melalui tahapan-tahapan mengamati (untuk mengidentifikasi atau menemukan masalah), merumuskan masalah, mengajukan atau merumuskan hipotesis, mengumpulkan data dengan berbagai teknik, menganalisis data, menarik kesimpulan dan mengomunikasikan konsep. 
+Ada beberapa proses yang dilaksanakan melalui penelitian ini antara lain sebagai berikut. 
+Mengamati 
+Siswa SMK mengamati mengutamakan kebermaknaan proses pembelajaran (meaningfull learning) untuk mata pelajaran Elektronika Dasar materi Atom hingga materi terakhir yakni Persambungan P-N. Metode ini dilakukan dengan menyajikan media objek secara nyata, siswa SMK senang dan tertantang, dan mudah melaksanakannya. Namun, kegiatan mengamati dalam rangka pembelajaran ini biasanya memerlukan waktu persiapan yang lama dan matang, biaya dan tenaga relatif banyak, untuk itu melalui teknologi Augmented Reality hal tersebut dapat diatasi (Billinghurst, 2002). Metode mengamati sangat bermanfaat bagi pemenuhan rasa ingin tahu siswa SMK, sehingga proses pembelajaran memiliki kebermaknaan yang tinggi. 
+Menanya 
+Pembelajaran Elektronika Dasar dapat difasilitasi melalui teknologi Augmented Reality. Media ini dapat meningkatkan rasa ingin tahu peserta didik, karena itu siswa akan bertanya tentang siapa (who), apa (what), dimana (Where), mengapa (Why), dan bagaimana (How) pada objek belajarnya. 
+Menalar 
+Istilah “menalar” dalam kerangka proses pembelajaran dengan pendekatan ilmiah yang dianut dalam Kurikulum 2013 untuk menggambarkan bahwa guru dan siswa merupakan pelaku aktif. Titik tekannya tentu dalam banyak hal dan situasi siswa harus lebih aktif daripada guru. Untuk itu, melalui penggunaan teknologi Augmented Reality siswa lebih aktif karena disertai dengan modul dan media animasi dan simulasi yang menarik. Berdasarkan hasil observasi yang dilaksanakan di SMKN 9 Makassar tampak bahwa siswa sangat antusias menggunakan media Augmented Reality.
+
+Mencoba 
+Untuk memperoleh hasil belajar yang nyata atau otentik, peserta didik harus mencoba atau melakukan percobaan, terutama untuk materi atau substansi yang sesuai. Pada mata pelajaran Elektronika Dasar, misalnya, peserta didik harus memahami konsep-konsep Atom dan Elektronika dan kaitannya dengan kehidupan sehari-hari. Peserta didik pun harus memiliki keterampilan proses untuk mengembangkan pengetahuan tentang alam sekitar, serta mampu menggunakan metode ilmiah dan bersikap ilmiah untuk memecahkan masalah-masalah yang dihadapinya sehari-hari. 
+Penerapan teknologi Augmented Reality dalam eksperimen atau mencoba dimaksudkan untuk mengembangkan berbagai ranah tujuan belajar, yaitu sikap, keterampilan, dan pengetahuan. Aktivitas pembelajaran yang nyata untuk ini adalah: (1) menentukan tema atau topik sesuai dengan kompetensi dasar menurut tuntutan kurikulum; (2) mempelajari cara-cara penggunaan alat dan bahan yang tersedia dan harus disediakan; (3) mempelajari dasar teoretis yang relevan dan hasil-hasil eksperimen sebelumnya; (4) melakukan dan mengamati percobaan; (5) mencatat fenomena yang terjadi, menganalisis, dan menyajikan data;(6) menarik simpulan atas hasil percobaan; dan (7)membuat laporan dan mengkomunikasikan hasil percobaan. 
+Beberapa keunggulan dari teknologi Augmented Reality yang diintegrasikan ke dalam Kurikulum 2013 seperti dikemukakan sebagai berikut: (1) memberikan fasilitas kegunaan dan interaktivitas yang tinggi; (2) pendekatan pembelajaran dengan menggunakan Augmeneted Reality siswa lebih mengerti dan lebih mudah memahami cara pengerjaaan dan tidak membosankan; (3) pembelajaran dengan lingkungan yang berbasis simulasi dapat menampilkan objek secara 3-Dimensi meliputi struktur dan fungsinya, siswa SMK dapat mempelajari prinsip sistem dengan cepat, efektif, dan interaktif serta navigatif melalui lingkungan virtual yang dibuat; (4) memberikan kebebasan berkreativitas kepada siswa SMK dalam melakukan kegiatan pembelajaran tanpa harus mengikuti jadwal yang ada; (5) membutuhkan interaksi, lebih menekankan partisipasi yang aktif dari pada pasif; (6) teknologi Augmented Reality memiliki lingkungan yang dinamis untuk dikembangkan, pencapaian pengetahuan, dan peningkatan keterampilan. 
+SIMPULAN 
+Kesimpulan yang diperoleh dalam penelitian ini adalah sebagai berikut. Pertama, tahap pengembangan Augmented Reality terbagi ke dalam tahapan kecil yaitu pembuatan antarmuka multimedia, coding atau pengkodean, movie testing, publishing, packaging, validasi ahli dan revisi multimedia. Untuk mengintegrasikan Augmented Reality dengan Kurikulum 2013, maka dalam penelitian ini dibuat modul yang berkaitan dengan kaidah-kaidah yang ada dalam pembelajaran saintifik (scientific learning). 
+Kedua, penilaian terhadap media terdiri atas aspek: (1) tampilan Augmented Reality (audio visual) diperoleh rerata skor 4.52 sangat baik; (2) aspek AR (Augmented Reality) diperoleh rerata skor 4.73 atau sangat baik; dan (3) aspek pemrograman dengan rerata skor keseluruhan 4.36 atau sangat baik. Penilaian ahli materi terhadap aspek isi diperoleh skor 4,46 atau baik. Untuk aspek desain pembelajaran diperoleh rerata skor 4,62 atau sangat baik. 
+Ketiga, pengembangan teknologi Augmented Reality untuk mata pelajaran produktif di SMK khususnya dalam pelaksanaan kegiatan pembelajaran dengan metode scientific approach dapat memenuhi kebutuhan peningkatan keterampilan siswa, kognitif, dan afektif siswa serta menjauhkan siswa dalam memahami suatu hal yang abstrak dan kompleks.

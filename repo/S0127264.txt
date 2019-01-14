@@ -1,0 +1,211 @@
+﻿FAKTOR-FAKTOR YANG MEMPENGARUHI BELANJA MODAL
+DI KABUPATEN BOGOR
+
+
+
+Abstrak.
+Penelitian ini bertujuan untuk menguji pengaruh Produk Domestik Regional Bruto (PDRB), Pendapatan Asli Daerah (PAD), dan Sisa Lebih Perhitungan Anggaran (SiLPA) secara bersama-sama terhadap belanja modal daerah untuk pelayanan publik pada Kabupaten bogor.Data yang digunakan adalah data time series yaitu periode 2003-2013. Metode analisis yang digunakan adalah regresi linear berganda (OLS). Hasil penelitian menunjukkan bahwa baik secara bersama maupun parsial PDRB, PAD dan SiLPA berpengruh positif dan signifikan terhadap Belanja Modal di Kabupaten Bogor. Variabel SiLPA dan PAD memiliki pengaruh yang besar terhadap belanja modal. Model regresi yang dibuat mampu menjelaskan 77,47% dari variansi belanja modal di Kabupaten Bogor.
+Kata Kunci: Produk Domestik Regional Bruto (PDRB); Pendapatan Asli Daerah (PAD); Sisa Lebih Perhitungan Anggaran (SiLPA); Belanja Modal.
+
+PENDAHULUAN
+UU No. 32 Tahun 2004 tentang Pemerintahan Daerah memberikan kewenangan penuh bagi tiap-tiap daerah baik provinsi, kabupaten/kota untuk mengatur dan mengurus rumah tangga daerahnya dengan sedikit mungkin campur tangan pemerintah pusat. Kebijakan tersebut dikenal dengan Otonomi Daerah.Otonomi Daerah berlaku efektif mulai 1 Januari 2002 mempunyai tujuan meningkatkan kesejahteraan masyarakat, pelayanan umum dan daya saing daerah.
+Otonomi Daerah bertujuan untuk meningkatkan pertumbuhan ekonomi, pembangunan daerah, meminimalisasi kesenjangan antar daerah dan meningkatkan infrastruktur daerah. Pelaksanaan otonomi daerah yang menitikberatkan pada daerah kabupaten dan kota ditandai dengan adanya penyerahan sejumlah kewenangan dari pemerintah pusat ke pemerintah daerah yang bersangkutan, baik yang menyangkut pengelolaan keuangan daerah, perencanaan ekonomi dan perencanaan yang lain semuanya dilimpahkan dari pusat ke daerah (Gregorius, 2009).
+Hal tersebut menegaskan bahwa Pemda memiliki kewenangan untuk menentukan alokasi sumber daya yang dimiliki untuk belanja daerah dengan menganut asas kepatuhan, kebutuhan dan kemampuan daerah yang tercantum dalam anggaran daerah. Dalam era desentralisasi fiskal sekarang ini, diharapkan adanya peningkatan fasilitas di berbagai sektor terutama sektor publik, hal ini dikarenakan dari semakin banyaknya permintaan dari masyarakat akan pelayan publik maupun barang publik yang diberikan oleh pemerintah dan dampak lainnya akan meningkatkan daya tarik bagi investor untuk menanamkan investasinya di daerah yang nantinya akan memajukan pembangunan suatu daerah.
+Oleh karana itu, pergeseran komposisi belanja merupakan upaya logis yang dilakukan Pemda dalam rangka meningkatkan tingkat kepercayaan publik yang dapat dilakukan dengan peningkatan investasi modal dalam bentuk asset tetap, yakni peralatan, pembangunan, infrastruktur dan harta tetap lainnya (Dodik, 2012). Dengan meningkatnya pengeluaran modal diharapkan dapat meningkatkan pelayanan publik maupun barang publik yang disediakan oleh pemerintah karena hasil dari pengeluaran belanja modal adalah meningkatnya asset tetap daerah yang merupakan prasyarat dalam memberikan pelayanan publik dan menambah fasilitas berupa infrastruktur yang diberikan oleh Pemerintah daerah kepada masyarakat.
+
+
+Dekat dengan Jakarta sebagai pusat ekonomi nasional, Kabupaten Bogor tergerak untuk selalu berpacu meningkatkan potensi ekonomi terbaik daerahnya. Sejak dahulu telah dikenal publik Kabupaten Bogor sebagai daerah subur yang cocok untuk budi daya tanaman hortikultura, selain itu Kabupaten Bogor memiliki potensi agrobisnis dan pariwisata, kabupaten yang beribu kota di Cibinong ini juga menyimpan potensi pada sektor industri dan perdagangan. Disektor industri pengolahan menjadi primadona dalam PDRB Kabupaten Bogor. Hal ini menarik untuk dijadikan penelitian karena dengan potensi yang dimiliki Kabupaten Bogor.
+Pemerintah Kabupaten Bogor berperan serta dalam pengembangan sumber-sumber pendapatan daerahnya dengan mengalokasikan dananya dalam belanja modal yang terus meningkat setiap tahunnya, hal tersebut dapat dilihat pada tabel 1.
+Tabel 1.
+Tabel Realisasi Total Belanja, Belanja Modal dan Rasio Belanja Modal
+Kabupaten Bogor Tahun 2003– 2013
+Sumber: Badan Pusat Statistik, 2014
+Dari tabel diatas dapat dilihat bahwa belanja modal Kabupaten Bogor pada tahun 2003 sebesar Rp 120.681.000.000 terus meningkat hingga menyentuh angka Rp 1.316.781.706.310 pada tahun 2013. Dimana total belanja langsung pada tahun 2013 mencapai Rp 2.542.535.059.330 dengan rasio 51,79% dari total belanja langsung belanja modal yang paling tinggi. Sedangkan untuk belanja yang tidak langsung pada tahun 2013 belanja pegawai mencapai Rp 1.543.493.987.804 dengan rasio 74,5% dari total belanja tidak langsung yang mencapai Rp 2.071.735.670.987, yang artinya belanja pegawai untuk gaji pegawai negeri sipil sangat tinggi pada belanja tidak langsung, sedangkan belanja modal tertinggi kedua dari belanja pegawai bila dilihat dari total belanja pemerintah Kabupaten Bogor.
+Belanja modal merupakan belanja yang menambah asset tetap pemerintah atau biaya yang dikeluarkan untuk pembelian barang-barang modal yang digunakan dalam pelaksanaan kegiatan, antara lain pembelian tanah, gedung, mesin dan kendaraan, peralatan, instalasi dan jaringan, furniture, software, dan sebagainya (Erlis, 2014).
+Dalam ilmu ekonomi infrastruktur merupakan wujud dari public capital (modal publik) yang dibentuk dari investasi yang dilakukan pemerintah. Familoni (2004) menyebut infrastruktur sebagai basicessential service dalam proses pembangunan.Infrastruktur meliputi undang-undang, sistem pendidikan dan kesehatan publik; sistem distribusi dan perawatan air; pengumpulan sampah dan limbah, pengolahan pembuangannya; sistem keselamatan publik, seperti pemadam kebakaran; sistem komunikasi, sistem transportasi dan utilitas publik. Dengan semakin meningkatnya kepuasan masyarakat akan fasilitas publik yang disediakan pemerintah daerah maka pemerintah tersebut bisa dikatakan berhasil. Namun utilitas publik tidak akan pernah habis, maka dari itu pemerintah daerah haruslah terus menambah biaya belanja modal untuk memuaskan masyarakat dari segi fasilitas dan infrastruktur publik.
+Pemerintah Kabupaten Bogor merupakan salah satu daerah yang diberikan hak otonomi daerah untuk mengatur rumah tangganya sendiri, sehingga diharapkan dapat meningkatkan PAD dari tahun ke tahun. Diperlukan suatu perencanaan yang tepat dengan memperhatikan potensi yang dimilikinya terutama mengelola potensi daerah yang ada, hal ini dapat dilihat pada tabel 2.
+Dari tabel 2 dapat kita lihat bahwa PAD pada tahun 2003 sebesar Rp 148.921.000.000 yang dimana pada tahun 2013 naik hingga lebih dari 100% yaitu sebesar Rp 1.261.034.564.121, sehingga dapat dapat kita simpulkan bahwa kekayaan alam dan perekonomian di daerah kabupaten Bogor masih bisa bertambah maju. Namun kabupaten Bogor masih belum dikatakan daerah yang mandiri. Karena kemandirian kabupaten Bogor pada tahun 2013 hanya mencapai tingkat 27,57%.Sumber pembiayaan yang penting bagi Pemda adalah Pendapatan Asli Daerah (PAD) yang komponennya adalah penerimaan yang berasal dari pajak daerah, retribusi daerah, hasil pengelolaan kekayaan daerah yang dipisahkan dan lain-lain PAD yang sah.
+
+
+Kabupaten Bogor merupakan salah satu kota di Provinsi Jawa Barat yang memiliki potensi yang cukup besar dalam PAD-nya. Salah satu potensi PAD Kabupaten Bogor adalah dari sumber daya alam yang melimpah seperti pertambangan, sektorpertanian, perumahan, pariwisata, kuliner. Kemudian dari sektor perindustrian dan UMKM (Usaha Mikro Kecil dan Menengah) yang merupakan keunggulan kompetitif karena letak dan kondisi geografisnya yang berdekatan dengan ibu kotaDKI Jakarta, Tangerang, Bekasi dan Depok. Sehingga anggaran belanja modal Kabupaten Bogor sangatlah besar diantara kabupaten/kota di Provinsi Jawa Barat.
+Pada tahun 2013 Kabupaten Bogor memiliki belanja modal terbesar di Provinsi Jawa Barat dibandingkan dengan 25 kota/kabupaten lainnya, yaitu dengan total belanja modal sebesar Rp 1.316.782.000.000. Maka dari itu penulis tertarik mengambil sampel daerah Kabupaten Bogor untuk penelitian (djpk.depkeu.go.id, 2013).
+Kabupaten Bogor tercatat sebagai daerah terkaya peringkat ke 5 versi warta ekonomi tahun 2012-2013, dengan laju pertumbuhan yang terus meningkat dan PDRB per kapita yang tinggi, sehingga perputaran ekonomi di Kabupaten Bogor sangat tinggi. Dengan pertumbuhan ekonomi dan PAD yang tinggi harus di imbangi dengan infrastruktur publik yang memadai sehingga agar lebih memajukan daerah Kabupaten Bogor. Salah satu caranya dengan belanja modal oleh pemerintah Kabupaten Bogor. Kabupaten Bogor memiliki akses yang dekat dengan pusat perekonomian, selain itu jumlah penduduk Kabupaten Bogor merupakan jumlah penduduk terbanyak di provinsi Jawa Barat yang mencapai 5.202.097 juta jiwa pada tahun 2013, hampir 11,47% dari total populasi provinsi Jawa Barat (BPS), dengan begitu tentu menjadi subjek maupun objek menarik bagi para investor maupun untuk UMKM. Dengan dibangunnya pusat bisnis, perkantoran, perumahan dan pusat perbelanjaan menjadikan potensi dari pajak semakin besar.
+Selain dari PAD dan transfer dari pusat untuk membiayai kegiatannya, Pemda juga dapat memanfaatkan Sisa Lebih Perhitungan Anggaran (SiLPA) tahun sebelumnya. SiLPA adalah selisih lebih realisasi penerimaan dan pengeluaran anggaran selama satu periode anggaran yang nanti nya dapat digunakan pada tahun berikutnya.
+Jumlah SiLPA yang ideal perlu ditentukan sebagai salah satu dasar evaluasi terhadap pelaksanaan program/kegiatan pemerintah daerah kota/kabupaten. Pelampauan target SiLPA yang bersumber dari pelampauan target penerimaan daerah dan efisiensi suatu anggaran sangat diharapkan sedangkan yang bersumber dari ditiadakannya program/kegiatan pembangunan apalagi dalam jumlah yang tidak wajar sangat merugikan masyarakat. Presiden Republik Indonesia dalam pidatonya menegaskan bahwa SiLPA yang dihasilkan dari efisiensi APBD hendaknya digunakan untuk kepentingan masyarakat (Ardhini, 2011).
+Dapat dilihat dari tabel di atas bahwa SiLPA di Kabupaten Bogor bersifat fluktuatif. Pada tahun 2012 SiLPA kabupaten Bogor menyentuh angka Rp 700.208.345.854, yang nantinya digunakan untuk tahun 2013. Jumlah ini sangatlah besar bilamana digunakan dalam pembangunan dan pengadaan asset tetap. Seperti pembangunan infrastruktur Kabupaten Bogor, meskipun pada tahun 2013 mengalami penurunan SiLPA menjadi Rp 625.855.128.532, yang dapat digunakan pada tahun 2014.
+Besaran SiLPA pada Kabupaten Bogor setiap tahunnya memang selalu berkisar ratusan milyar, seperti pada SiLPA pada tahun 2011 yang nanti dapat digunakan pada tahun 2012 yaitu mencapai Rp 400 milyar, dikarenakan program kerja yang sudah disusun SKPD tidak bisa menyerap secara penuh pada kegiatan yang di rencanakan. Hal ini karena kurang matangnya persiapan kegiatan program, umumnya kegiatan SKPD yang tidak terlaksana tersebut terbentur kepada masalah waktu pengerjaan. Maka dari itu SiLPA yang dihasilkan cukup besar, namun kegiatan tetap berjalan namun diselesaikan pada tahun berikutnya.
+
+Dalam upaya peningkatan kemandirian daerah, Pemda dituntut untuk mengoptimalkan potensi pendapatan yang dimiliki dan salah satunya adalah memberikan proporsi belanja modal yang lebih besar untuk pembangunan pada sektor-sektor yang produktif di daerah (Harianto, 2007).
+Sebagian besar SiLPA disumbangkan ke Belanja Langsung berupa Belanja Modal yang secara langsung menyentuh kebutuhan masyarakat. Jumlah Belanja Langsung berupa pembangunan infrastruktur, pengadaan aset, dan sebagainya (Adhini, 2011). Anggaran belanja modal didasarkan pada kebutuhan daerah akan sarana dan prasarana, baik untuk kelancaran pelaksanaan tugas pemerintahan maupun untuk fasilitas publik. Seluruh penerimaan dan pengeluaran Pemerintah Daerah baik dalam bentuk uang, barang dan jasa pada tahun anggaran harus dianggarakan dalam APBD (Kawedar, 2008).
+Besaran SiLPA yang masih tinggimembawa dampak positif dan negatif bagi daerah, dampak positifnya adalah adanya imbal balik yang diterima Pemda dari SiLPA yang disimpan di perbankan yaitu dapat berupa giro atau pendapatan bunga yang masuk dalam akun lain-lain PAD yang sah dan juga penambahan anggaran belanja untuk tahun berikutnya. Sedangkan dampak negatifnya adalah adanya belanja yang tertunda. (SiLPA, 2013).
+
+METODE
+Variabel yang digunakan dalam penelitian ini terdiri dari empat variabel yang terdiri dari satu variabel terikat (Dependen Variable) dan tiga variabel bebas (Independen Variable).
+Penelitian ini menggunakan variabel yang terdiri sebagai berikut:
+1. Variabel Terikat : Belanja Modal Daerah
+2. Variabel Bebas : PDRB, PAD, SiLPA
+Penelitian ini merupakan penelitian analisis pengaruh, karena tujuan penelitian ini adalah untuk meneliti pengaruh antara satu variabel terikat dan beberapa variabel bebas. Data yang digunakan pada penelitian ini menggunakan data runtut waktu (time series). Semua data dalam kuartalan dimulai dari tahun 2003 sampai 2013.
+Dalam penelitian ini sampel yang digunakan adalah Kabupaten Bogor. Metode pengambilan sampel menggunakan metode purposive sampling, yaitu suatu cara pengambilan sampel dimana anggota sampel diserahkan pada pertimbangan pengumpulan data yang berdasarkan atas pertimbangan yang sesuai dengan maksud dan tujuan tertentu. Cirinya antara lain: sampel sesuai tujuan, jumlah sampel tidak dipermasalahkan dan unit sampel disesuaikan dengan kriteria tertentu berdasarkan tujuan penelitian. Pertimbangannya adalah dengan membandingkan pendapatan daerah dan belanja modal tertinggi dan terendah.
+Data yang digunakan dalam penelitian ini adalah data sekunder yang di ambil dari Badan Pusat Statistik (BPS) Kabupaten Bogor dan DJPK Kemenkeu (Direktorat Jenderal Perimbangan Keuangan). Data yang diperlukan dalam penelitian adalah :
+a. Belanja Modal Kabupaten Bogor tahun 2003 – 2013
+b. PDRB Kabupaten Bogor tahun 2003 – 2013
+c. Pendapatan Asli Daerah Kabupaten Bogor tahun 2003 – 2013
+d. Sisa Lebih Perhitungan Anggaran Kabupaten Bogor tahun 2003 – 2013
+Mengingat ketersediaan data dan kebutuhan jumlah data untuk permodelan yang diperoleh maka data tahunan diinterpolasi menjadi data kuartalan dengan menggunakan metode interpolasi (Insukindro,1996).
+Metode analisis data yang digunakan dalam penelitian ini adalah menggunakan analisis regresi linier berganda dengan menggunakan metode Ordinary Least Square (OLS) sebagai estimasi koefisien regresinya. Menurut Wing Wahyu Winarno (2009) dalam metode OLS ini dapat memberikan koefisien yang baik atau bersifat BLUE (Best Linier Unbi ased Estimator) yang dalam hal ini harus bebas dari Uji Asumsi Klasik.
+Data yang digunakan untuk mengetahui hubungan dari variabel-variabel yang akan diteliti. Pengolahan data menggunakan Excel 2007 dan Eviews6. Dalam melakukan pengujian terhadap hipotesis-hipotesis yang diajukan, perlu dilakukananalisisregresi melalui uji t dan uji F. Tujuan digunakan analisis regresi adalah untuk mengetahui pengaruh variabel-variabel bebas terhadap variabel terikat, baik secara parsial maupun secara simultan, serta mengetahui besarnya dominasi variabel-variabel bebas terhadap variabel terikat. Untuk mengetahui pengaruh PDRB, PAD dan SiLPA terhadap Belanja Modaldaerah di Kabupaten Bogor, maka dirumuskan model regresi sebagai berikut:
+BM= ß0+ ß1PDRB+ ß2PAD+ ß3SiLPA+ e
+Keterangan:
+BM : Belanja Modal
+PDRB : Produk Domestik Regional Bruto
+PAD : Pendapatan Asli Daerah
+SiLPA : Sisa Lebih Perhitungan Anggaran
+ß0 : Konstanta.
+ß1, ß2, ß3 : Koefisien Regresi Berganda
+e : Error Term
+Koefisien Determinasi (𝑹𝟐).
+Uji ini digunakan untuk mengukur kedekatan hubungan dari model yang dipakai. Menurut Ajija (2011:34) Uji koefisien determinasi koefisien R2 atau (R2 adjusted). Koefisien determinasi ini menunjukkan kemampuan garis regresi menerangkan variasi variabel terikat Y yang dapat dijelaskan oleh variabel bebas X. Nilai koefisien R2 atau (R2 adjusted) berkisar antara 0 sampai 1. Hal ini berarti variasi dari variabel bebas semakin dapat menjelaskan variasi dari variabel terikat bila angkanya semakin mendekati 1.
+Uji Parsial (Uji-t).
+Uji t digunakan untuk menguji apakah setiap variabel bebas (Independen) secara masing-masing parsial atau individu memiliki pengaruh yang signifikan terhadap variabel terikat (Dependen) pada tingkat signifikansi 0,05 (5%) dengan menganggap variabel bebas lainnya bernilai konstan. Langkah-langkah yang harus dilakukan dengan uji-t yaitu dengan pengujian (Nachrowi, 2006). Bila probabilitas > α 5% → variabel bebas tidak signifikan atau tidak mempunyai pengaruh terhadap variabel terikat (Ho gagal ditolak). Bila probabilitas < α 5% → variabel bebas signifikan atau mempunyai pengaruh terhadap variabel terikat (Ho ditolak).
+Uji Fisher (Uji-F).
+Uji Fisher (Uji-F) digunakan untuk mengetahui apakah seluruh variabel bebas (independen) secara bersama-sama berpengaruh terhadap variabel terikat (dependen) pada tingkat signifikansi 0,05 (5%). Pengujian semua koefisien regresi secara bersama-sama dilakukan dengan uji-F dengan pengujian (Nachrowi, 2006).
+Operasional Variabel Penelitian.
+Dalam penelitian ini dibagi menjadi dua bagian, yang terdiri atas variabel eksogen dan variabel endogen. Variabel eksogen adalah variabel yang ditentukan diluar model, sedangkan variabel endogen adalah variabel yang terdapat dalam penelitian ini, yaitu PDRB, PAD dan SiLPA.
+HASIL DAN PEMBAHASAN
+Sebagai salah satu ukuran potensial fiskal daerah, PAD merupakan salah satu hal penting dalam tolak ukur kemandirian daerah. Semakin gencarnya tiap-tiap daerah dalam hal penggalian potensi daerah yang ada, maka dapat meningkatkan hasil PAD.
+Kebijakan otonomi sebagai salah satu faktor untuk meningkatkan pertumbuhan ekonomi di suatu daerah, maka dari itu sebagai tindak lanjut dari pemberian otonomi kepada daerah, yaitu untuk mengatur dan mengurus rumah tangganya sendiri dalam meningkatkan daya guna dan hasil guna dalam pelaksanaan pemerintah di daerah. Maka upaya untuk meningkatkan Pendapatan Asli Daerah (PAD) adalah mutlak diperlukan untuk pelaksanaan otonomi yang nyata dan bertanggung jawab.
+Pemerintah Kabupaten Bogor dalam usaha untuk mengembangkan dan membangun daerahnya telah berupaya untuk meningkatkan sumber-sumber pendapatan asli daerahnya sesuai potensi yang dimilikinya. Upaya tersebut dilakukan dengan memaksimalkan hasil PAD seperti pajak daerah, retribusi daerah, hasil pengelolaan kekayaan daerah yang dipisahkan dan lain lain PAD, yang merupakan sumber utama dari PAD agar penerimaan PAD terus mengalami peningkatan setiap tahunnya.
+
+Dengan menggunakan tahun dasar pada tahun 2003, PAD Kabupaten Bogor terus mengalami peningkatan. Pendapatan asli daerah menghasilkan Rp 148.921.000.000, yang kemudian meningkat sebesar 11,64% pada tahun 2004. Pada tahun 2005 PAD naik sebesar 33,91% yang dihitung dari tahun dasar, peningkatan terjadi sebesar 54,51% pada tahun 2006 yang meningkat lagi pada tahun 2007 sebesar 78,19%. Tren positif ini terus berlanjut pada tahun 2008yang naik hingga mencapai 106,57% dari tahun dasar atau sebesar Rp 307.634.448.000, kemudian di tahun 2009 mengalami peningkatan menjadi 126,90% dan di Tahun 2010 mencapai 168,10%.
+Kemudian pada tahun 2011 mengalami kenaikan yang sangat tinggi dari tahun dasar hingga mencapai 360,05% dengan nominal sebesar Rp 685.121.399.928. Kenaikan ini dikarenakan adanya pengalihan pengelolaan BPHTB dan PBB P2 dari pemerintah pusat dialihkan kepada pemerintah daerah dengan pengalihan ini maka kegiatan proses pendataan, penilaian, penetapan, pengadministrasian, pemungutan/penagihan dan pelayanan PBB-P2 akan diselenggarakan oleh Pemerintah Daerah (Kabupaten/Kota) khususnya Kabupaten Bogor, dengan begitu Pendapatan Asli Daerah Kabupaten Bogor meningkat dengan pesat.
+Pada tahun 2012 terjadi kenaikan pendapatan sebesar 617,52%, dan kenaikan terus berlanjut pada tahun 2013 mencapai 746,78% atau sebesar Rp 1.261.034.564.121. Peningkatan ini sejalan dengan pelaksaan otonomi daerah di mana daerah sudah mulai berusaha untuk meningkatkan Pendapatan Asli Daerahnya. Kenaikan dari penerimaan PAD Kabupaten Bogor tidak terlepas dari upaya pemerintah daerah dalam meningkatkan penerimaan daerah yang berasal dari sumber pajak dan retribusi yang potensial maupun penerimaan potensial PAD lainnya.
+Sebagai salah satu upaya dalam meningkatkan penerimaan daerah dilakukan berbagai cara yang salah satunya dengan pengembangan penggalian terhadap sumber-sumber pendapatan baru, pemenuhan sarana-prasarana penunjang kegiatan pelayanan, meningkatkan koordinasi dan kerja sama dengan pihak terkait serta meningkatkan kepatuhan dan pemahaman wajib pajak dan restribusi berbagai upaya yang telah dilakukan oleh Pemerintah Daerah Kabupaten Bogor untuk meningkatkan PAD. Ternyata PAD di Kabupaten Bogor terus mengalami kenaikan setiap tahunnya. Hal ini sangatlah bagus karena semakin tinggi PAD akan membuat daerah semakin mandiri.
+
+Sisa Lebih Perhitungan Anggaran (SiLPA) adalah selisih lebih realisasi penerimaan dan pengeluaran anggaran selama satu periode anggaran. Pada pasal 137 sampai dengan pasal 153, SiLPA tahun sebelumnya merupakan penerimaan pembiayaan yang digunakan untuk menutupi defisit anggaran apabila realisasi pendapatan lebih kecil daripada realisasi belaja, mendanai pelaksanaan kegiatan lanjutan atas bebas belanja langsung dan mendanai kewajiban lainnya yang sampai dengan akhir tahun anggaran belum diselesaikan (Yudi, 2014).
+SiLPA tahun anggaran sebelumnya mencakup pelampauan penerimaan PAD, pelampauan penerimaan dana perimbangan, pelampauan penerimaan lain-lain pendapatan daerah yang sah, pelampauan penerimaan pembiayaan, penghematan belanja, kewajiban kepada pihak ketiga sampai dengan akhir tahun belum terselesaikan, dan sisa dana kegiatan lanjutan. SiLPA adalah suatu indikator yang menggambarkan efiseinsi pengeluaran pemerintah. SiLPA sebenarnya merupakan indikator efisiensi, karena SiLPA hanya akan terbentuk bila terjadi surplus pada APBD dan sekaligus terjadi pembiayaan netto yang positif, dimana komponen penerimaan lebih besar dari komponen pengeluaran pembiayaan (Dodik, 2012).
+Untuk melihat perkembangan SiLPA dari tahun 2003 sampai dengan 2013 dapat dijelaskan dengan menggunakan Tabel 4 sehingga dapat dilihat tingkat kenaikan dan penurunan SiLPA.
+Tabel 4.
+Perkembangan SiLPA Pemerintah Daerah Kabupaten Bogor Tahun 2003-2013
+Tahun
+Total pendapatan
+SiLPA
+SiLPA dari Total Pendapatan
+2002
+716.407.100.000
+121.587.150.000
+16,97%
+2003
+845.677.874.068
+175.958.740.006
+20,80%
+2004
+991.691.771.237
+136.796.000.000
+13,79%
+2005
+1.087.081.933.214
+168.773.132.817
+15,52%
+2006
+1.352.739.563.918
+181.621.000.000
+13,42%
+2007
+1.624.534.557.430
+320.210.405.000
+19,71%
+2008
+1.866.522.130.000
+432.306.690.000
+23,16%
+2009
+2.178.137.511.000
+402.208.954.000
+18,46%
+2010
+2.511.474.972.404
+261.340.534.857
+10,40%
+2011
+3.451.755.115.305
+478.705.360.424
+13,86%
+2012
+3.974.405.353.212
+700.208.345.854
+17,61%
+2013
+4.572.332.366.814
+652.855.128.532
+14,27%
+Sumber: Badan Pusat Statistik, 2014
+
+
+
+
+
+
+
+
+
+
+
+Hasil SiLPA yang diperoleh di Kabupaten Bogor dari tahun 2002 sampai 2013 mengalami hasil yang fluktuasi. Hal ini menandakan ke aktifan dan efisiensi pemerintah Kabupaten Bogor dalam memakai anggaran yang sudah disiapkan pemerintah daerah. Semakin efisien belanja atau pembiayaan semakin banyak SiLPA yang di dapat. Pada tahun 2002 dari total pendapatan daerah Rp 716.407.100.000 di dapat SiLPA sebesar 16,97%. Hal ini dikarenakan terdapatnya penghematan pemakaian anggaran untuk total belanja yang digunakan. Besaran SiLPA sebesar Rp 121.587.150.000 dapat digunakan pada tahun berikutnya yaitu tahun 2003. Sehingga pada tahun 2003 mendapatkan tambahan pendapatan dan pembiayaan daerah.
+Pada tahun 2003 total pendapatan Kabupaten bertambah dari sebelumnya yaitu sebesar Rp 845.677.874.068. Total pendapatan naik tidak semata-mata pemerintah Kabupaten Bogor membelanjakan semua anggaran, terdapat SiLPA sebesar 20,80%. SiLPA tersebut nantinya akan digunakan pada tahun berikutnya yaitu pada tahun 2004. Kemudian SiLPA pada tahun 2004 dari total pendapatan sebesar 13,79%, terjadi penurunan SiLPA pada tahun tersebut.
+Pada tahun 2005 SiLPA yang diperoleh Kabupaten Bogor sebesar 15,52% namun pada tahun 2006 SiLPA yang di dapatkan mengalami penurunan yaitu sebesar 13,42% meskipun total pendapatan terus mengalami kenaikan. Hal ini berarti pemakaian anggaran belanja lebih banyak yang dipakai sehingga SiLPA yang didapat menjadi berkurang porsinya.
+Tahun 2007 SiLPA Kabupaten Bogor sebesar 19,71% dan mengalami kenaikan pada tahun berikutnya sebesar 23,16% pada tahun 2008, berarti perolehan SiLPA pada tahun 2008 sebesar Rp 432.306.690.000 dapat digunakan pada tahun berikutnya. Di tahun 2009 SiLPA Kabupaten Bogor sebesar 19,46% namun terjadi pengurangan pada tahun 2010 sehingga menjadi sebesar 10,40%. Dapat kita simpulkan bahwa pemakaian anggaran terserap 89,60% dari total pendapatan yang digunakan untuk belanja daerah.
+Pada tahun 2011 SiLPA Kabupaten Bogor sebesar 13,86%, dan pada tahun 2012 SiLPA mengalami peningkatan yaitu sebesar 17,61% yang artinya pada tahun 2012 terjadi lebihnya realisasi anggaran dari total pendapatan yaitu sebesar Rp 700.208.345.854 yang dapat digunakan untuk tahun 2013. Kemudian SiLPA di tahun 2013 sebesar Rp 652.855.128.532 yang digunakan pada tahun 2014.
+
+SiLPA tersebut sebesar 14,27% dari total pendapatan dengan jumlah Rp 4.572.332.366.814.
+Uji Asumsi Klasik
+Untuk menguji adakah variabel pengganggu atau residual terdistribusi normal dalam model regresi dilakukan dengan uji normalitas.bila dilihat dari probabilitasnya lebih besar dari 5 % maka data terdistribusi normal. (Winarno, 2011) taraf signifikansi 5%, maka data menyatakan Ho gagal ditolak sehingga dikatakan data berdistribusi normal.
+Pengujian multikolinieritas berfungsi untuk apakah ditemukan adanya kolerasi antar variabel bebas. Ada tidaknya multikolinieritas dapat di lihat dari koefesien kolerasi masing–masing variabel bebas, jika koefesien kolerasi di antara masing–masing variabel bebas lebih dari 0,8 maka terjadi multikolinieritas. Berikut ini korelasi antar variabel bebas yang disajikan dengan menggunakan matrik.
+Nilai koefisien korelasi tidak ada yang nilainya berada di atas 0,8. Maka dapat disimpulkan bahwa dalam model tidak terdapat masalah multikolinearitas atau dapat di katakana bahwa Ho gagal ditolak.
+Uji heteroskedastisitas bertujuan untuk menguji apakah dalam model regresi terjadi ketidaksamaan varian dari residual satu pengamatan ke pengamatan yang lain. Jika varian dari residual satu pengamatan kepengamatan lain tetap, maka disebut Homoskedastisitas dan jika varian tidak konstan atau berubah-ubah disebut dengan Heteroskedastisitas. Model regresi yang baik adalah yang Homoskedastisitas atau tidak terjadi Heteroskedastisitas (Nachrowi, 2006).
+Tabel 5.
+Hasil Uji Harvey Heteroskedasticity Test
+Obs*R-squared
+3.451823
+Prob. Chi-Square(3)
+0.3271
+Untuk mendeteksi data memiliki masalah heteroskedastis atau tidak yaitu jika probabilitas OBS*R2 > 0,05 maka data tidak terdapat heteroskedastisitas. Begitu sebaliknya, jika probabilitas OBS*R2 < 0,05 maka data terdapat heteroskedastisitas. Pengujian heteroskedastisitas dilakukan dengan aplikasi eviews 6 dengan menggunakan uji Harvey, diperoleh hasil regresi sebagai berikut:
+
+Dari Tabel 5 di atas diketahui bahwa nilai OBS*R2 adalah 3,451823 dan probabilitas dari Chi-Square sebesar 0,3271 yang lebih besar dari nilai α sebesar 0,05. bila nilai probabilitas Chi-square< 5% maka dikatakan Ha atau bersifat heteroskedastisitas. Karena nilai probabilitas Chi-square> 5% maka hal ini Ho gagal ditolak sehingga dapat disimpulkan bahwa data tersebut bersifat homokedastis setelah dilakukan uji Harvey.
+Uji autokorelasi untuk mengetahui apakah dalam model regresiada korelasi antara kesalahan pada periode waktu yang lain. Untuk mendeteksi masalah autokorelasi digunakan uji Langrange Multipllier (LM-Test). Uji ini sangat berguna untuk mengidentifikasi masalah autokorelasi tidak hanya pada derajat pertama (first order) tetapi juga digunakan pada tingkat derajat.
+Uji autokorelasi bisa dilihat dari nilai probabilitas Chi-Square. Jika probabilitas Chi-square> 5% maka Ho gagal ditolak dan dapat disimpulkan data tidak terdapat autokorelasi dan sebaiknya jika probabilitas Chi-square< 5% maka Ha gagal ditolak atau terdapat autokorelasi.
+Tabel 6.
+Hasil Uji Langrange Multiple Test
+Obs*R-squared
+43.83456
+Prob. Chi-Square(33)
+0.0984
+Dari tabel di atas diketahui bahwa nilai Obs*R2 sebesar 43,83456 dan nilai probabilitas Chi-Square 0.0984 yang lebih besar dari nilai α sebesar 0,05. Karena nilai probabilitas Chi-Square > α = 5% maka Ho gagal ditolak sehingga dapat disimpulkan bahwa data tidak terdapat masalah autokorelasi. Dengan lolosnya uji autokorelasi maka tidak ada hubungan antara anggota serangkaian observasi yang diurutkan menurut ruang dan waktu.
+Pengujian Hipotesis
+Hasil pengolahan data atau hasil estimasi yang dilakukan dengan menggunakan program komputer Eviews 6 dengan menggunakan metode regresi linear berganda atau Ordinary Least Square (OLS) yang ditampilkan pada tabel berikut:
+
+
+Berdasarkan hasil uji regresi yang telah dilakukan terhadap data, maka didapatkan model regresi dengan menggunakan OLS (Ordinary Least Square) yang dapat dijelaskan melalui persamaan sebagai berikut:
+D(BM) = -2,75E+10 + 0,001418 PDRB + 0,329324 D(PAD)+ 0,440522 D(SiLPA)+ e
+Dimana:
+Y : Belanja Modal
+X1 : Produk Domestik Regional Bruto (PDRB)
+X2 : Pendapatan Asli Daerah (PAD)
+X3 : Sisa Lebih Perhitungan Anggaran (SiLPA)
+e : Error Term
+Berdasarkan hasil regresi didapatkan konstanta sebesar -2,75E+10, yang berarti apabila PDRB, PAD, dan SiLPA dianggap konstan maka belanja modal daerah di Kabupaten Bogor menurun sebesar 2,75E+12% dalam periode 2003-2013. Hal ini disebabkan belanja modal memiliki kecenderungan penurunan akibat variabel PDRB, PAD dan SiLPA dianggap konstan. Ini berarti kecenderungan kontribusi PDRB, PAD dan SiLPA mampu sensitif dalam perubahan nilai belanja modal nilai minus yang terdapat pada hasil konstanta disebabkan salah satunya karena kemungkinan adanya faktor lain diluar penelitian yang menjadi faktor pengaruh belanja modal di Kabupaten Bogor. Hal ini terjadi karena disebabkan keterbatasan penelitian yang mencakup keterbatasan akan variabel dan tahun lain diluar penelitian.
+Hasil estimasi dari regresi yang pertama menjelaskan bahwa variabel PDRB mempunyai pengaruh positif dan signifikan terhadap Belanja Modal Kabupaten Bogor, dengan hasil probabilitas t-statistik sebesar 0,0083. Karena probabilitas t-statistik lebih kecil dari 0,05 maka secara parsial PDRB berpengaruh secara signifikan terhadap belanja modal. Koefisien PDRB sebesar 0,001418 menunjukan bahwa setiap kenaikan PDRB 1% maka akan meningkatkan Belanja modal sebesar 0,1418% dengan asumsi cateris paribus.
+Hasil ini menjelaskan bahwa PDRB yang besar akan cenderung memiliki belanja modal yang besar. PDRB yang tinggi menjadi salah satu faktor pertimbangan pemerintah dalam mengambil keputusan jangka panjang untuk meningkatkan perekonomian maupun pembangunan dalam hal infrastruktur. Sehingga semakin meningkatnya PDRB permintaan para pelaku ekonomi kepada pemerintah akan infrastruktur dan pelayanan publik semakin meningkat dan pemerintah pun akan menaikan belanja modal agar semakin meningkatnya PDRB itu sendiri.
+Pertumbuhan ekonomi merupakan angka yang menunjukan kenaikan kegiatan perekonomian suatu daerah setiap tahunnya. Tanggung jawab pemerintah daerah kepada masyarakat adalah memberikan pelayanan publik (public service) melalui belanja modal, karena pertumbuhan ekonomi yang baik harus didukung dengan infrastruktur atau sarana prasarana yang memadai. Sarana dan prasarana didapatkan dari pengalokasian anggaran belanja modal yang sudah di anggarkan setiap tahunnya dalam APBD.
+Terdapat hubungan antara pertumbuhan ekonomi (PDRB) dengan belanja modal. Penelitian ini sejalan dengan penelitian yang dilakukan (Marta, 2011) bahwa Pertumbuhan Ekonomi, berpengaruh positif dan signifikan terhadap belanja modal. Jadi bila pertumbuhan ekonomi suatu daerah naik, maka pemerintah daerah akan terus meningkatkan alokasi belanja modalnya dari tahun ke tahun guna melengkapi dan memperbaiki sarana dan prasarana, tetapi disesuaikan dengan kondisi dan situasi pada saat tahun anggaran.
+
+Kemudian penelitian yang dilakukan (Wulandari, 2013) yang juga menyatakan berpengaruh positif dan signifikan. Hasil penelitian ini mengindikasikan Pertumbuhan Ekonomi mempunyai peranan yang sangat penting dalam menentukan penerimaan daerah. Bahwa daerah dengan PDRB yang besar akan cenderung memiliki belanja modal yang besar. Beberapa daerah dengan pendapatan daerah dan PDRB yang besar memiliki pengeluaran daerah yang besar pula.
+Sementara itu pada hasil regresi selanjutnya menunjukan bahwa variabel Pendapatan Asli Daerah (PAD) mempunyai pengaruh positif dan signifikan terhadap Belanja Modal Kabupaten Bogor, dengan hasil probabilitas t-statistik sebesar 0,0002. Karena probabilitas t-statistik lebih kecil dari 0,05 maka secara parsial PAD berpengaruh secara signifikan terhadap belanja modal. Koefisien PAD sebesar 0,329324 menunjukan bahwa setiap kenaikan PAD 1% maka akan meningkatkan Belanja modal sebesar 32,9324% dengan asumsi cateris paribus. Hal ini berarti dengan meningkatnya PAD akan meningkatkan jumlah belanja modal Kabupaten Bogor.
+Semua ini dikarenakan peranan PAD sangat menentukan kinerja keuangan daerah, PAD merupakan sumber pembiayaan yang paling penting dalam mendukung kemampuan daerah dalam menyelenggarakan otonomi daerah. Daerah diharapkan dapat lebih mengoptimalkan penerimaan daerah dan memanfaatkan sumber daya daerah untuk dapat digunakan dalam rangka kegiatan yang dapat meningkatkan pendapatan. Realisasi dari PAD dapat dialokasikan terhadap kebutuhan pembangunan seperti sarana dan prasarana transportasi, tempat ibadah dan pembangunan lainnya (Lilis, 2012). Kemampuan pembiayaan daerah berasal dari PAD merupakan indikator dari kemandirian daerah.
+Hasil penelitian ini sejalan dengan hasil penelitian sebelumnya yang dilakukan oleh Ni Putu dan Ni Luh Supadmi (2014), yang menyatakan PAD berpengaruh positif dan signifikan terhadap belanja modal di Provinsi Bali. Semakin tinggi PAD yang dimiliki daerah maka akan semakin tinggi belanja modal yang dilakukan oleh pemerintah kabupaten/kota. Penerimaan dari PAD tersebut dapat digunakan untuk membiayai segala kewajibannya dalam menjalankan pemerintahannya, termasuk untuk digunakan dalam meningkatkan infrastruktur daerah. Hasil penelitian lain yang sejalan dengan penelitian ini adalah penelitian yag dilakukan oleh Dodik dan Kusnandar (2012:15) yang menyatakan PAD berpengaruh positif dan signifikan terhadap belanja modal kabupaten/kota seluruh Indonesia tahun 2010. Dengan meningkatnya PAD dapat memberi keleluasan kepada daerah tersebut untuk mengalokasikan ke kegiatan atau pengeluaran yang dapat memberi dampak terhadap peningkatan pembangunan daerah terutama pembangunan infrastruktur.
+Sementara itu pada hasil regresi selanjutnya menunjukan bahwa variabel Sisa Lebih Perhitungan Anggaran (SiLPA) tahun anggaran sebelumnya mempunyai pengaruh positif dan signifikan terhadap Belanja Modal Kabupaten Bogor. dengan hasil probabilitas t-statistik sebesar 0,0000. Karena probabilitas t-statistik lebih kecil dari 0,05 maka secara parsial SiLPA berpengaruh secara signifikan terhadap belanja modal. Koefisien SiLPA sebesar 0,440522 menunjukan bahwa setiap kenaikan SiLPA 1% maka akan meningkatkan Belanja modal sebesar 44,0522% dengan asumsi cateris paribus. Hal ini diketahui dari nilai koefisien variabel SiLPA pada hasil estimasi model regresi.
+Hal ini berarti SiLPA yang didapat setiap tahunnya dapat meningkatkan anggaran belanja modal di Kabupaten Bogor, karena bertambahnya sumber pendapatan yang diakibatkan dari sisa lebih suatu kegiatan atau anggaran yang dilakukan oleh Pemda, sehingga anggaran lebih tersebut dapat digunakan untuk belanja asset atau menambah infrastruktur pelayanan publik pada tahun berikutnya. SiLPA yang terdapat dari adanya surplus pada APBD dan terjadinya pembiayaan netto yang positif, dimana komponen penerimaan lebih besar dari komponen pengeluaran pembiayaan (Balai Litbang NTT, 2008).
+Hasil penelitian ini sejalan dengan hasil penelitian sebelumnya yang dilakukan oleh (Dodik, 2012) bahwa SiLPA berpengaruh signifikan positif terhadap belanja modal, yang menyatakan bahwa pengalokasian belanja modal yang dilakukan oleh daerah juga dipengaruhi oleh SiLPA yang ada.
+Penelitian lain yang sejalan dengan penelitian ini adalah penelitian yang dilakukan oleh (Satrya, 2014) yang menyatakan Sisa Lebih Perhitungan Anggaran berpengaruh positif dan signifikan terhadap belanja modal di Provinsi Aceh. Hal ini menunjukan bahwa Pemda telah berhasil menggunakan SiLPA untuk pelaksanaan program/kegiatan pemerintah daerah termasuk kepada pelayanan publik. Dengan bertambahnya anggaran pembiayaan pada tahun berikutnya dengan adanya SiLPA, maka pemerintah dapat menggunakannya untuk belanja infrastruktur. SiLPA dari kegiatan lain juga dapat digunakan untuk mempercepat selesainya suatu kegiatan atau proyek untuk pelayanan publik. Sehingga waktu yang digunakan akan lebih cepat bila ada pertambahan anggaran.
+SIMPULAN
+Berdasarkan hasil analisis dan pembahasan yang telah dipaparkan sebelumnya, penulis memperoleh kesimpulan yang dapat diambil dari penelitian mengenai pengaruh Produk Domestik Regional Bruto (PDRB), Pendapatan Asli Daerah (PAD) dan Sisa Lebih Perhitungan Anggaran (SiLPA) terhadap Belanja Modal daerah di Kabupaten Bogor periode 2003-2013.
+Secara simultan menunjukkan bahwa PDRB, PAD dan SiLPA berpengaruh positif dan signifikan terhadap belanja modal daerah di Kabupaten Bogor periode 2003-2013. Secara parsial PDRB berpengaruh positif dan signifikan terhadap Belanja Modal di Kabupaten Bogor periode 2003-2013. Secara parsial, PAD berpengaruh positif dan signifikan terhadap belanja modal daerah di Kabupaten Bogor periode 2003-2013. Secara parsial, SiLPA berpengaruh positif dan signifikan terhadap belanja modal daerah di Kabupaten Bogor periode 2003-2013.

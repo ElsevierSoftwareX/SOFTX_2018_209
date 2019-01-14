@@ -1,0 +1,150 @@
+﻿ABSTRAK
+PENGARUH VARIASI KONVERTER BIOGAS TERHADAP
+UNJUK KERJA PADA MESIN GENSET BERKAPASITAS 1200
+WATT
+Bahan bakar biogas merupakan bahan bakar yang ramah lingkungan Gas
+ini berasal dari berbagai macam limbah organik seperti sampah biomassa, kotoran
+manusia, kotoran hewan yang dapat dimanfaatkan melalui proses anaerobik.
+Penggunaan bahan bakar biogas juga dapat digunakan untuk bahan bakar mesin
+genset akan tetapi belum mencapai batas optimal disebabkan karena terjadinya
+kebocoran yang terjadi pada proses kerja karburator sehingga performa dari
+genset belum optimal.
+Pembuatan suatu mekanisme alat pengganti karburator menjadi sesuatu
+yang penting untuk dilakukan. Di dalam penelitian ini menggunakan tingkat
+kemurnian biogas mencapai 90% CH4 yang dilakukan adalah membuat suatu
+mekanisme konverter sebagai penggantinya dan melakukan variasi laju aliran
+volume tekanan bahan bakar biogas terhadap diameter lubang saluran udara luar
+yang masuk ke dalam konverter menuju ke ruang bakar untuk dapat menaikkan
+performa mesin genset . Variasi yang digunakan pada diameter saluran udara luar
+yaitu dari (0,3cm), (0,4cm), (0,5cm), (0,6cm), (0,7cm), (0,8cm), (0,9cm), (1,0cm),
+(1,1cm) dengan laju aliran volume (3,7 lt/mnt), (4 lt/mnt), (4,7 lt/mnt), (5,2
+lt/mnt), (5,5 lt/mnt), (6,1 lt/mnt), (6,7 lt/mnt), (7 lt/mnt), (7,5 lt/mnt).
+Dari proses unjuk kerja mesin genset berkapasitas 1200Watt berbahan
+bakar premium yang diganti dengan biogas sangat berpengaruh terhadap daya
+mesin, energi, power, konsumsi bahan bakar, nilai kalor, massa bahan bakar dan
+effisiensi dari mesin genset. Sehingga pada hasilnya didapatkan pada bukaan
+variasi laju aliran volume bahan bakar biogas (3,7 lt/mnt) terhadap bukaan
+diameter saluran udara (0,3cm), menghasilkan daya terendah (440 Watt), dan
+mengalami peningkatan sampai batas yang paling optimum (1,1cm) dengan laju
+aliran volume (7,5 lt/mnt) daya yang dihasilkan mencapai (924 Watt).
+Dari Hasil penelitian dapat disimpulkan bahwa besarnya daya output yang
+dihasilkan genset berbanding lurus dengan laju aliran bahan bakar, semakin
+banyak bahan bakar biogas yang di bakar maka semakin tinggi daya output yang
+dihasilkan dan pada mesin genset berkapasitas 1200 Watt sangat layak digunakan
+karena beban yang dihasilkan mencapai batas optimum.
+Kata Kunci : Konverter, Variasi diameter, Volume Biogas, Unjuk Kerja Genset.
+
+
+
+BAB I
+PENDAHULUAN
+1.1 Latar Belakang
+Kebutuhan energi yang semakin meningkat namun tidak disertai dengan
+ketersediaan sumber energi yang memadai. Kenaikan harga bahan bakar
+khususnya bahan bakar fosil yang diakibatkan oleh semakin berkurangnya
+cadangan minyak dunia menuntut semua kalangan untuk menemukan dan mencari
+serta mengkaji sumber energi lain. Seperti yang kita ketahui, potensi sumber daya
+alam yang dapat dikembangkan adalah batu bara, panas bumi, aliran sungai,
+angin, matahari, sampah serta sumber-sumber lain yang berasal dari tumbuhtumbuhan
+seperti pohon jarak dan pemanfaatan kotoran ternak (sapi) sebagai
+bahan penghasil energi alternatif.
+Salah satu sumber energi itu adalah biogas, Gas ini berasal dari berbagai
+macam limbah organik seperti sampah biomassa, kotoran manusia, kotoran hewan
+yang dapat dimanfaatkan melalui proses anaerobik. Menurut Simamora, S (1989),
+biogas adalah campuran dari beberapa gas, yang tergolong bahan bakar gas yang
+merupakan hasil fermentasi dari bahan organik, dimana gas yang dominan adalah
+gas metana (CH4) dan gas karbondioksida (CO2). Menurut Kusrijadi dkk. (2009)
+menyatakan bahwa biogas adalah gas hasil fermentasi bahan organik oleh
+mikroorganisme anaerobik yang terdiri dari dua tahap sub proses dengan bantuan
+dua jenis bakteri, yang mempunyai komposisi yang bervariasi tergantung dengan
+asal proses anaerobik yang terjadi. Biogas rata-rata mengandung CH4 berkisar
+antara (50-70%), selain itu terdapat bebrapa senyawa yang dihasilkan yang
+sifatnya dapat menurunkan kualitas biogas seperti CO2 (25-45%), dan sejumlah
+kecil hidrogen (H2), Nitrogen (N2), hidrogen sulfida (H2S), uap air (H2O) dan
+beberapa unsur lain dalam jumlah kecil (Mayasari, dkk., 2010).
+Nilai kalor pembakaran gas metana murni pada tekanan 1 atm dan temperatur
+15,5ºC yaitu 9100 Kkal/m3 (=12.740 Kkal/kg), sedangkan nilai kalor pembakaran
+biogas sekitar (6.720 – 9.660 Kkal/kg) Menurut Harasimowicz dkk. (2007).
+Sejauh ini pemanfaatan biogas cenderung belum optimal yang disebabkan
+masih adanya unsur-unsur pengotor yang terdapat didalam biogas. Menurut
+Horikawa (2001) gas tersebut adalah gas H2S yang dianggap sebagai gas pengotor
+dan bila ikut terbakar dan terbebas dengan udara dapat teroksidasi menjadi SO2
+dan SO3 yang bersifat korosif dan bila teroksidasi lebih lanjut oleh H2O dapat
+memicu terjadinya hujan asam, selain H2S terdapat juga uap air dan CO2 yang
+tidak bermanfaat pada saat pembakaran. Absorbsi merupakan pemisahan dengan
+mengontakkan campuran gas dengan cairan sebagai penyerapannya, sehingga
+absorbsi berlangsung pada dua macam proses, yaitu absorbsi fisika dan kimia
+(Andri, C. K., dan Hadiyanto, 2000).
+Penggunaan biogas sudah banyak dilakukan, tetapi umumnya digunakan
+sebagai bahan bakar pengganti minyak tanah untuk keperluan memasak pada
+skala rumah tangga. Bahan bakar biogas juga dapat digunakan untuk bahan bakar
+genset akan tetapi belum mencapai batas optimal disebabkan karena terjadinya
+kebocoran yang terjadi pada proses kerja karburator genset. Oleh karena itu
+selanjutnya akan dilanjutkan di dalam penelitian ini yaitu unjuk kerja mesin
+pembangkit listrik (genset) berkapasitas 1200 Watt, dengan membuat suatu
+konverter yang berfungsi sebagai pengganti karburator tempat pencampuran
+antara udara dengan biogas, dan memvariasikan tekanan pada saluran keluar
+penampung biogas, menggunakan diameter saluran udara masuk pada konverter
+yang paling sesuai. Sehingga nantinya dapat memungkinkan penggunaan biogas
+sebagai bahan bakar alternatif pada genset.
+1.2 Rumusan Masalah
+Bertitik tolak pada latar belakang yang telah diuraikan, maka rumusan
+masalah dalam penelitian ini yaitu : Bagaimana pengaruh variasi konverter biogas
+terhadap laju aliran volume bahan bakar biogas keluar saluran penampang biogas,
+menggunakan diameter saluran udara masuk pada konverter sebagai pengganti
+karburator terhadap unjuk kerja pada mesin genset berkapasitas 1200 Watt?
+1.3 Batasan Masalah
+Dari permasalahan diatas perlu kiranya untuk Memberikan batasan
+masalah agar dapat memberikan arah yang jelas pada penelitian ini, maka
+penelitian dibatasi pada :
+1. Pembuatan konverter sebagai pengganti karburator pada mesin genset 4
+langkah untuk mengganti bahan bakar premium menjadi bahan bakar
+biogas.
+
+2. Genset yang digunakan adalah genset berbahan bakar premium dengan
+kapasitas 1200 watt dengan putaran 4000 rpm dan daya keluaran maksimal
+1100 Watt.
+3. Bahan bakar yang digunakan dalam penelitian ini adalah biogas yang
+sudah dimurnikan dari hasil pemurnian sebelumnya.
+4. Skep gas sebagai pengganti karburator konvensional dibuat berdasarkan
+sistem kerja katup gas (buka-tutup), ukuran disesuaikan dengan karburator
+konvensional. Bentuk disesuaikan dengan bentuk intake manifold pada
+genset.
+5. Variasi diameter saluran udara untuk pengujian pemakaian bahan bakar
+biogas adalah dengan diameter saluran udara yaitu : (0,3cm), (0,4cm),
+(0,5cm), (0,6cm), (0,7cm), (0,8cm),(0,9cm), (1,0cm), (1,1cm).
+1.4 Tujuan Penelitian
+Berdasarkan pokok permasalahan, maka yang menjadi tujuan penelitian ini
+adalah :
+1. Membuat suatu mekanisme konverter yang dapat digunakan sebagai
+pengganti karburator pada genset berbahan bakar premium yang
+memungkinkan penggunaan biogas sebagai bahan bakar alternatif
+pengganti serta menganalisa konsumsi bahan bakar biogas pada genset
+berkarburator konvensional dengan menggunakan konverter tersebut.
+2. Menganalisis diameter konverter terhadap performansi mesin genset.
+3. Menganalisis pengaruh penggantian bahan bakar premium yang
+menggunakan karburator konvensional standar menjadi bahan bakar
+biogas terhadap performansi mesin genset.
+4. Mendapatkan pembuatan model konverter bahan bakar biogas dengan
+penambahan alat berupa skep dengan sistem kerja katup gas karburator
+konvensional, yang nantinya digunakan sebagai pengganti karburator
+konvensional genset berkapasitas 1200 watt.
+1.5 Manfaat Penelitian
+Adapun manfaat dari penelitian ini adalah :
+1. Mampu membuat konverter sederhana sebagai pengganti karburator pada
+mesin genset berbahan bakar premium sehingga dapat memungkinkan
+pemanfaatan biogas sebagai bahan bakar pengganti.
+2. Memahami proses kerja konverter sebagai pengganti karburator pada
+mesin genset dengan bahan bakar biogas.
+3. Memberikan informasi tambahan tentang pemanfaatan biogas sebagai
+pengganti premium (dalam hal ini bensin) pada mesin genset.
+4. Mengetahui perbandingan rasio bahan bakar biogas dengan udara yang
+ideal dengan melihat perbandingan diameter saluran udara dengan tekanan
+biogas yang masuk ke dalam konverter.
+5. Menambah wawasan tentang energi biogas dan pemanfaatannya
+diharapkan dapat mengurangi ketergantungan terhadap bahan bakar
+minyak disamping karena mahalnya bahan bakar minyak dan jumlahnya
+semakin merosot, dan juga mengurangi pencemaran lingkungan yang
+disebabkan oleh emisi gas buang dari bahan bakar minyak.
+6. Diperoleh data-data awal yang nantinya dapat digunakan sebagai acuan
+untuk pengembangan selanjutnya.

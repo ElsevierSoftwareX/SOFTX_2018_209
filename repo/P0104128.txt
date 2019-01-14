@@ -1,0 +1,553 @@
+﻿Sistem Pakar Batik Yogyakarta Berbasis Web
+
+
+Intisari— Batik merupakan metode pencelupan kain
+tradisional Indonesia dengan menggunakan lilin untuk membuat
+pola dan desain. Batik adalah seni dan kerajinan, yang menjadi
+lebih populer dan terkenal di dunia sebagai media yang sangat
+kreatif. Desain dan pola batik Indonesia yang dikenal sangatlah
+rinci, rumit, indah dan biasanya digunakan sebagai busana
+untuk beberapa cara khusus. Mengingat bahwa ingatan manusia
+memiliki keterbatasan dan ahli yang memahami batik sangatlah
+terbatas, maka diperlukan untuk menciptakan sebuah sistem
+pakar untuk menjaga salah satu warisan budaya ini bisa
+bertahan. Tujuan dari penelitian ini adalah untuk
+mengembangkan dan menerapkan basis pengetahuan dan sistem
+pakar yang dapat dengan cepat dan benar dalam
+mengidentifikasi desain dan pola batik, khususnya batik yang
+berasal dari Yogyakarta. Sistem ini akan menarik kesimpulan
+dari beberapa jenis masukan yang masuk ke sistem,
+berdasarkan karakteristik fisik dari batik, seperti warna latar,
+warna, corak, ornamen dan pengisi. Sistem akan menganalisa
+masukan dengan menggunakan algoritma jika-maka untuk
+menarik sebuah kesimpulan. Menggunakan PHP sebagai bahasa
+pemrograman dikombinasikan dengan MySQL sebagai
+basisdata sistem, sistem pakar batik ini bisa dikembangkan dan
+siakses melalui internet.
+Kata Kunci— Sistem pakar, pakar, batik, web.
+I. PENDAHULUAN
+Batik merupakan tradisi penduduk bangsa Indonesia yang
+berkembang sejak masa lalu. Selama berabad-abad
+kehadirannya dalam pelataran budaya bangsa, pesona batik
+telah memperoleh pengakuan dari berbagai pihak, khususnya
+pengguna, pecinta kain, pengamat budaya serta cendekiawan
+dari berbagai macam cabang keilmuan.
+Pada masa kini, istilah batik telah meluas dan mewahana
+ke berbagai bentuk pengertian. Ditinjau dari proses pengejaan,
+pengertian kata benda dan penggunaannya, batik bisa disebut
+sebagai kain bercorak. Kata batik dalam bahasa Jawa berasal
+dari akar kata “tik”. Mempunyai pengertian berhubungan
+dengan suatu pekerjaan hakus, lembut, dan kecil yang
+mengandung unsur keindahan. Secara etimologis, berarti
+menitikkan malam dengan canting sehingga membentuk
+corak yang terdiri atas susunan titik dan garis. Batik sebagai
+kata benda merupakan hasil penggambaran corak di atas kain
+dengan menggunakan canting sebagai alat gambar dan malam
+sebagai zat perintang. Artinya bahwa secara teknis, batik
+adalah suatu cara penerapan corak di atas kain melalui proses
+celup rintang warna dengan malam sebagai medium
+perintangnya.
+Batik memiliki keragaman dalam hias batiknya. Ragam
+hias batik merupakan ekspresi yang menyatakan keadaan diri
+dan lingkungan penciptanya. Ragam hias dapat merupakan
+imajinasi perorangan atau kelompok, sehingga dapat
+menggambarkan cita-cita seseorang atau kelompok-kelompok
+tadi.
+Mengingat begitu ragamnya batik khususnya batik
+Yogyakarta, sedangkan daya ingat manusia khususnya
+seorang ahli atau pakar batik mempunyai kapasitas yang
+terbatas untuk mengingat semua jenis batik Yogyakarta
+beserta penjelasan mengenai batik yang meliputi corak, fungsi
+serta makna dari batik itu sendiri. Maka diperlukan sebuah
+sistem pakar sebagai alat bantu bagi peminat batik dalam
+memberikan informasi secara detail tentang batik yang
+diminati.
+Sistem pakar merupakan sistem yang menggunakan
+pengetahuan manusia yang terekam dalam komputer untuk
+memecahkan persoalan yang biasanya memerlukan keahlian
+manusia[1]. Pengetahuan dalam sistem pakar mungkin saja
+seorang ahli, atau pengetahuan yang umumnya terdapat dalam
+buku, majalah, dan orang yang mempunyai pengetahuan
+tentang suatu bidang. Seorang pakar adalah orang yang
+mempunyai keahlian dalam bidang tertentu, yaitu pakar yang
+mempunyai pengetahuan atau kemampuan khusus yang orang
+lain tidak mengetahui atau mampu dalam bidang yang
+dimilikinya.
+Dengan memanfaatkan luasnya ketersediaan dan
+penggunaan internet, memberikan kesempatan untuk
+menyalurkan keahlian dan pengetahuan kepada banyak orang.
+Sehingga diharapkan dengan pengembangan sistem pakar
+batik Yogyakarta berbasiskan web ini akan membantu
+memberikan pelayanan informasi tentang batik khususnya
+batik Yogyakarta terhadap masyarakat.
+II. METODOLOGI
+Bahan-bahan yang digunakan dalam penelitian sistem
+pakar batik Yogyakarta adalah bahan-bahan yang berkaitan dengan ciri-ciri batik khususnya batik tulis batik Yogyakarta,
+yang bisa didapatkan di Balai Besar Kerajinan dan Batik
+maupun perpustakaan.
+A. Metode Analisis
+Metode analisis yang digunakan pada penelitian ini adalah
+metode analisis terstruktur dengan menggunakan teknik
+menentukan fakta, yaitu suatu teknik mengumpulkan data dan
+menemukan fakta-fakta dalam kegiatan mempelajari sistem
+yang ada.
+B. Analisis Hasil
+Aplikasi sistem pakar batik Yogyakarta merupakan suatu
+aplikasi yang digunakan untuk membantu dalam memberikan
+informasi tentang batik Yogyakarta berdasarkan pengetahuan
+dari pakar. Hasil informasi didasarkan pada fakta yang
+ditemukan dan kemudian dicocokkan dengan fakta yang
+berhasil diidentifikasi oleh pakar.
+C. Kebutuhan Pakar
+Proses akuisisi pengetahuan dapat ditempuh dengan
+beberapa cara, yaitu mendapatkan pengetahuan dari buku,
+para pakar di bidangnya, laporan, literatur, dan sebagainya.
+Sumber pengetahuan tersebut direpresentasikan ke dalam
+basis pengetahuan dengan menggunakan metode representasi
+pengetahuan yang sering digunakan, yaitu kaidah produksi
+yang dituliskan dalam bentuk jika-maka (if-then). Pertanyaan
+ini menghubungkan bagian premis (if) dan bagian
+konklusi(then) yang dituliskan dalam bentuk:
+IF [premis] THEN [konklusi]
+Apabila bagian premis dipenuhi maka bagian konklusi
+akan bernilai benar. Suatu aturan juga dapat terdiri dari
+beberapa premis dan lebih dari satu konklusi.
+D. Kebutuhan Input
+Input atau masukan dari sistem pakar batik Yogyakarta,
+terdiri dari tiga karakteristik, yaitu:
+1) Input oleh admin: Input oleh admin adalah suatu
+masukan yang diberi oleh admin, berupa data pakar, masukan
+pakar memuat id pakar, nama pakar, nickname, password.
+2) Input oleh pakar: Input pakar adalah suatu masukan
+yang diberikan oleh pakar sebagai basis pengetahuan yang
+akan digunakan oleh sistem untuk memberikan informasi
+batik khususnya batik Yogyakarta. Input pakar ini berada
+dalam lingkungan pengembangan pada arsitektur sistem pakar.
+Input pakar terdiri dari masukan sebagai berikut:
+· Data Batik
+Masukan Data batik memuat id batik, nama batik, nama
+motif batik, pembuat batik, bahan baku, zat warna batik,
+kegunaan batik, jenis produk, kalangan pemakai, filosofi,
+dan gambar batik.
+· Edit Data Pakar
+Karena data pakar sudah dimasukkan oleh admin, maka
+pakar hanya diperbolehkan mengedit atau mengubah
+data pakar.
+3) Input oleh pengguna: Input pengguna adalah masukan
+yang diberikan si pengguna, berupa:
+· Data Pengguna
+Masukannya berupa id, nama , nickname, foto, password,
+tanggal lahir, tempat lahir, jenis kelamin, agama, status,
+alamat, email.
+· Pilihan jawaban dialog antara pengguna dan sistem.
+E. Kebutuhan Output
+Untuk kebutuhan data keluaran menampilkan kesimpulan
+atau informasi detail tentang batik Yogyakarta yang
+dibutuhkan oleh si pengguna, penjelasan rinci tentang batik.
+Hasil informasi tersebut berdasarkan ciri-ciri yang telah
+diberikan pengguna pada saat melakukan konsultasi.
+F. Arsitektur Sistem Pakar Batik Yogyakarta
+Arsitektur dari sistem pakar batik Yogyakarta ditampilkan
+pada Gbr. 1. Dalam arsitektur ini digambarkan bahwa sistem
+ini melayani tiga macam pengguna yaitu admin yang berhak
+mengelola sistem secara keseluruhan, pakar yang merupakan
+sumber pengetahuan dan bertindak sebagai perekayasa
+pengetahuan yang mengakuisisi pengetahuan dari pakar dan
+memasukkannya ke basis pengetahuan, dan pengguna yang
+memanfaatkan fasilitas dialog dan fasilitas penjelasan
+informasi. Sedangkan basisdata merupakan tempat
+penyimpanan data batik.
+Gbr. 1 Arsitektur Sistem Pakar Batik Yogyakarta
+G. Rancangan Flowchart Aplikasi
+Flowchart adalah penyajian yang sistematis tentang proses
+dan logika dari kegiatan penanganan informasi atau
+penggambaran secara grafik dari langkah-langkah dan uruturutan
+prosedur dari suatu program, seperti ditunjukkan pada
+Gbr. 2.
+
+
+A. Hasil Penelitian
+Dari penelitian yang telah dilakukan, maka diperoleh
+sebuah sistem pakar berbasis web yang dapat
+mengidentifikasi dan mengenali batik Yogyakarta
+berdasarkan ciri-ciri fisik yang ada pada batik tersebut. Sistem
+ini melakukan analisa berdasarkan adanya dialog antara
+sistem dengan pengguna.
+Sistem pakar batik Yogyakarta berbasis web dirancang
+dengan menggunakan bahasa pemrograman HTML dan PHP
+serta menggunakan MySQL untuk pengolahan basis data.
+Gbr. 3 merupakan gambar tampilan utama dari website
+sistem pakar batik Yogyakarta.
+Gbr. 3 Halaman utama website
+Untuk halaman identifikasi batik, bisa dilihat pada Gbr. 4.
+Gbr. 4 Halaman identifikasi batik
+Halaman identifikasi batik diatas, digunakan untuk
+mengidentifikasi batik berdasarkan ciri-ciri fisik batik tersebut.
+Dengan bantuan ciri-ciri fisik batik, maka dapat dilakukan
+pengidentifikasian batik berdasarkan ciri-ciri tersebut. Ciriciri
+fisik batik yang digunakan sistem ini antara lain warna
+latar pada kain batik, warna yang digunakan, corak utama,
+ornamen utama, ornamen tambahan, dan isen.
+Diketahui ciri-ciri batik, yaitu: latar batik berwarna putih,
+warna yang digunakan biru kehitaman dan cokelat soga, corak
+utama parang, memiliki isen mlinjon dan uceng.
+Klik tombol mulai pada halaman identifikasi batik, maka
+akan tampil halaman identifikasi batik berdasarkan ciri-ciri
+tersebut, bisa dilihat pada Gbr. 5, 6, 7, 8.
+
+
+Apabila ciri-ciri fisik batik telah dimasukkan, maka akan
+muncul tampilan halaman hasil, bisa dilihat pada Gbr 9.
+
+
+Berdasarkan ciri-ciri fisik yang sudah dimasukkan, maka
+diperoleh dua macam batik, yaitu batik ciptoning dan batik
+parang tuding. Terdapat juga informasi tambahan dan bobot
+prosentasi akurasi dari batik tersebut.
+B. Pembahasan
+Sistem yang dibangun ini dianalisa agar penerapan teori ke
+dalam praktek program dapat sejalan. Sehingga jika diperiksa
+dengan baik secara manual menghasilkan hasil dan prosentase
+kemungkinan yang tidak jauh beda. Sistem pakar batik
+Yogyakarta ini memberikan informasi berupa analisa hasil.
+Sistem pakar menganalisa atau melakukan penelusuran
+berdasarkan jawaban (berupa ciri-ciri fisik batik) yang
+diberikan oleh pengguna.
+1) Analisa hasil dialog diambil contoh pada proses dialog,
+memilih ciri-ciri di antara ciri-ciri yang ditampilkan sebagai
+input:
+· Ciri-ciri yang dipilih: latar putih, warna biru kehitaman,
+warna cokelat soga, corak utama parang dan lereng, isen
+mlinjon, isen uceng.
+· Langkah analisa:Mencari jenis batik yang memiliki ciriciri
+sesuai basis pengetahuan, seperti yang ditampilkan
+pada Tabel 1. Kemudian mencari jumlah ciri-ciri yang
+terpenuhi oleh ciri-ciri terpilih pada basis pengetahuan,
+bisa dilihat pada Tabel 2. Dilanjutkan dengan mencari
+jumlah ciri-ciri yang harus terpenuhi pada basis
+pengetahuan, bisa dilihat pada Tabel 2. Setelah itu
+Melakukan perhitungan prosentase kemungkinan hasil
+analisa.
+· Perhitungan prosentase kemungkinan hasil analisa ini
+menggunakan teori probabilitas. Probabilitas merupakan
+suatu cara kuantitatif yang berhubungan dengan
+ketidakpastian.
+· Rumus umum untuk probabilitas didefinisikan sebagai
+peluang P(A) dengan n adalah banyaknya kejadian, n
+adalah banyaknya kejadian, nA merupakan banyaknya
+hasil mendapatkan A(2). Frekuensi relatif terjadinya A
+adalah r:... maka:
+r:..
+P(A) sendiri adalah frekuensi relatif jangka panjang
+terjadinya A.
+Atau
+r:..
+Apabila diimplementasi ke sistem, maka:
+r...
+
+
+TABEL I
+PENCARIAN BERDASARKAN CIRI-CIRI SESUAI BASIS PENGETAHUAN
+
+TABEL II
+PENCARIAN BERDASARKAN JUMLAH CIRI-CIRI YANG TERPENUHI DAN YANG
+HARUS TERPENUHI
+
+
+C. Penyelesaian:
+1) Mencari jenis batik yang memiliki ciri-ciri terpilih pada
+basis pengetahuan, sebagaimana ditunjukkan pada Tabel 3.
+
+2) Hasil analisa seperti ditunjukkan pada Tabel 4.
+
+
+Keterangan:
+Prosen = (jumlah ciri-ciri yang terpenuhi / jumlah ciri-ciri yang harus
+terpenuhi) x 100%
+Prosen = Besarnya prosentase kemungkinan batik berdasarkan ciri yang
+terpenuhi
+
+
+
+Hasil analisa info batik
+· Batik yang terpilih adalah batik ciptoning dan batik
+parang tuding.
+· Penyelesaian:
+Mencari ciri-ciri dari jenis batik terpilih dari aturan
+ciri-ciri yang ada, seperti yang ditunjukkan pada Tabel
+5. Kemudian mencari keterangan detail tentang batik
+terpilih, seperti ditunjukkan pada Tabel 6 dan Tabel 7.
+
+
+IV.KESIMPULAN DAN SARAN
+Berdasarkan hasil penelitian mengenai sistem pakar batik
+Yogyakarta berbasis web ini, maka dapat diambil kesimpulan,
+yaitu:
+1) Berdasarkan pembahasan sebelumnya, hasil informasi
+yang diperoleh berdasarkan analisa penelusuran fakta
+yang ada yang dilakukan oleh sistem pakar. Fakta tersebut
+berupa ciri-ciri fisik yang ada pada batik.
+2) Sistem pakar ini dapat memberikan hasil informasi
+penjelasan detail tentang batik Yogyakarta melalui dialog
+yang dilakukan oleh pengguna.
+3) Hasil informasi yang didapat dari sistem pakar batik
+Yogyakarta berbasis web memiliki tingkat kepastian yang
+diperoleh dari bobot yang diberikan pada setiap ciri-ciri
+batik.
+Berdasarkan kesimpulan dari hasil penelitian tersebut,
+maka peneliti memberikan saran yaitu:
+1) Aplikasi sistem pakar batik Yogyakarta berbasis web ini
+masih memiliki tingkat kepastian relatif 50%. Oleh karena
+itu, disarankan mengembahkan aplikasi sistem pakar yang memiliki tingkat kepastian di atas 50% atau mendekati
+tingkat kepastian tinggi.
+2) Untuk penelitian selanjutnya, perlu dibuat sebuah sistem
+pakar batik yang lebih praktis dan mudah dimengerti oleh
+pengguna awam.
+
+
+
+
+
+
+TABEL I
+PENCARIAN BERDASARKAN CIRI-CIRI SESUAI BASIS PENGETAHUAN
+No. Ciri-ciri Jenis Batik
+1 Putih Bledak Sidoluhur Latar Putih
+Ceplok Kasatrian
+Ciptoning
+Parang Tuding
+2 Biru Kehitaman Bledak Sidoluhur Latar Putih
+Ceplok Kasatrian
+Ciptoning
+Parang Tuding
+3 Cokelat Soga Bledak Sidoluhur Latar Putih
+Ceplok Kasatrian
+Ciptoning
+Parang Tuding
+4 Parang dan
+Lereng
+Ceplok Kasatrian
+Ciptoning
+Parang Tuding
+5 Mlinjon Ciptoning
+Parang Tuding
+6 Uceng Ciptoning
+Parang Tuding
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TABEL II
+PENCARIAN BERDASARKAN JUMLAH CIRI-CIRI YANG TERPENUHI DAN YANG
+HARUS TERPENUHI
+Ciri-ciri
+Jumlah yang
+terpenuhi
+Jenis Batik
+Jumlah yang
+harus
+terpenuhi
+Putih 1 Bledak
+Sidoluhur Latar
+Putih
+10
+Ceplok
+Kasatrian
+9
+Ciptoning 8
+Parang Tuding 6
+Biru
+Kehitaman
+2 Bledak
+Sidoluhur Latar
+Putih
+10
+Ceplok
+Kasatrian
+9
+Ciptoning 8
+Parang Tuding 6
+Cokelat Soga 3 Bledak
+Sidoluhur Latar
+Putih
+10
+Ceplok
+Kasatrian
+9
+Ciptoning 8
+Parang Tuding 6
+Parang dan
+Lereng
+4 Ceplok
+Kasatrian
+9
+Ciptoning 8
+Parang Tuding 6
+Mlinjon 5 Ciptoning 8
+Parang Tuding 6
+Uceng 6 Ciptoning 8
+Parang Tuding 6
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TABEL III
+ATURAN DIALOG
+Nama Batik Ciri-ciri terpilih
+Ciptoning Latar putih
+Warna biru kehitaman
+Warna cokelat soga
+Corak utama parang dan lereng
+isen mlinjon
+isen uceng
+Parang Tuding Latar putih
+Warna biru kehitaman
+Warna cokelat soga
+Corak utama parang dan lereng
+isen mlinjon
+uceng
+
+
+
+
+
+
+
+
+
+
+
+
+TABEL IV
+TABEL HASIL ANALISA
+Nama Batik
+Jumlah
+ciri harus
+terpenuhi
+Jumlah ciri
+yang
+terpenuhi
+Prosen
+Ciptoning 8 6 (6/8)*100% =
+75%
+Parang Tuding 6 6 (6/6)*100% =
+100%
+
+
+
+
+
+
+
+
+
+
+
+
+
+TABEL V
+ATURAN INFO BATIK
+Nama Batik Ciri-ciri
+Ciptoning Latar putih
+Warna biru kehitaman
+Warna cokelat soga
+Corak utama parang dan lereng
+Ornamen utama wayang
+Isen mlinjon
+Isen uceng
+Isen sisik
+Parang Tuding Latar putih
+Warna biru kehitaman
+Warna cokelat soga
+Corak utama parang dan lereng
+Isen mlinjon
+Isen uceng
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TABEL VI
+KETERANGAN DETAIL BATIK CIPTONING
+Nama Batik Ciptoning
+Buatan/Asal Balai Besar Kerajinan dan Batik
+Alamat Jl. Sidobali Semaki Umbulharjo,
+Yogyakarta
+Bahan Kain Mori Primisima
+Zat Warna Soga Alam
+Kegunaan Kain untuk dipakai ke pesta
+Kalangan pemakai Umum
+Filosofi Diharapkan pemakainya menjadi
+orang bijak, mampu memberi
+petunjuk tentang keluhuran budi dan
+jalan yang benar untuk menghadap
+Tuhan YME.
+Bobot Prosen 75%
+Ciri-ciri Latar putih
+Warna biru kehitaman
+Warna cokelat soga
+Corak utama parang dan lereng
+Ornamen utama wayang
+Isen mlinjon
+Isen uceng
+Isen sisik
+TABEL VII
+KETERANGAN DETAIL BATIK PARANG TUDING
+Nama Batik Parang Tuding
+Buatan/Asal Ny. Pawiro Wacono
+Alamat Jl. Langenastran Kidul No. 9
+Yogyakarta
+Bahan Kain Mori Primisima
+Zat Warna Soga Alam
+Kegunaan Sebagai semekan dan kemben,
+dipakai saat upacara mitoni
+Kalangan pemakai Umum
+Filosofi Parang = batu karang, tuding =
+ngarani = menunjuk, menunjukkan
+hal-hal yang baik dan menimbulkan
+kebaikan.
+Bobot Prosen 100%
+Ciri-ciri Latar putih
+Warna biru kehitaman
+Warna cokelat soga
+Corak utama parang dan lereng
+Isen mlinjon
+Isen uceng

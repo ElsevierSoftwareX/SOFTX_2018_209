@@ -1,0 +1,383 @@
+﻿Studi Pengaruh Kenaikan Kekakuan Metallic Damper Terhadap Respon
+Seismik Struktur Rangka Baja dengan Energi Redaman Tambahan Peredam
+ADAS (Added Damping and Stifness)
+
+
+Abstrak
+Manfaat alat pendisipasi energi tambahan dikenal baik dalam bidang rekayasa struktur untuk mendisipasi energi
+akibat gempa. Perilaku seismik struktur rangka baja dengan energi redaman tambahan ADAS dijadikan sebagai
+konsentrasi utama pada penelitian ini. Tiga model sampel ADAS didisain dan diuji secara eksperimental untuk
+memperoleh metallic yielding damper model baru. Tujuan utama studi ini adalah mengetahui rasio kekakuan optimum
+ADAS (KD) terhadap kekakuan struktur tiap lantai (KS). Program PERFORM 3D dan dua catatan gempa (El
+Centro dan San Fernando) digunakan untuk mengetahui respon seismik struktur. Metode analisis yang digunakan
+adalah analisis riwayat waktu nonlinear. Rasio energi histeresis struktur terhadap energi input yang dikerjakan
+gempa ke struktur juga dibahas pada studi ini. Hasilnya, untuk menaikkan kapasitas dan mengurangi kerusakan
+struktur akibat gempa sebanyak mungkin bisa dilakukan dengan menaikkan kekakuan peredam tambahan ADAS.
+Kata-kata Kunci: ADAS, Peredam energi, Metallic yielding damper.
+
+1. Pendahuluan
+Indonesia adalah negara yang terletak pada pertemuan
+sejumlah lempeng tektonik besar dan aktif bergerak.
+Hal ini memposisikan Indonesia ke dalam daerah yang
+rawan terhadap gempa bumi. Daerah rawan gempa
+tersebut membentang di sepanjang batas lempeng
+tektonik Australia dengan Asia, lempeng Asia dengan
+Pasifik dari timur hingga barat Sumatera sampai selatan
+Jawa, Nusa Tenggara, serta Banda. Catatan sejarah
+mengenai bencana gempa bumi yang pernah terjadi
+dijadikan sebagai catatan penting untuk adanya potensi
+gempa bumi yang dihasilkan oleh pergerakan lempeng
+tektonik secara periodik. Untuk mengantisipasi
+terjadinya gempa di masa yang akan datang, maka
+sangat penting untuk mengembangkan konsep disain
+tahan gempa yang komprehensif.
+Konsep disain struktur yang komprehensif harus
+mampu mendisipasi energi yang bekerja pada struktur
+akibat gempa. Berdasarkan standar disain nasional
+Indonesia, konsep disain collapse limit state diizinkan
+dimana struktur diperbolehkan untuk berdeformasi
+secara struktur inelastis dan mengalami kerusakan
+pada tempat-tempat tertentu ketika gempa kuat terjadi
+namun tidak terjadi keruntuhan total. Hal ini bertujuan
+agar distribusi gaya yang terjadi pada struktur membentuk
+suatu mekanisme keruntuhan dalam rangka
+mendisipasi energi akibat beban gempa. Dengan
+mengandalkan disipasi energi melalui keruntuhan
+daktail pada elemen struktur, terutama balok, maka
+struktur akan mampu bertahan dari pengaruh gempa
+kuat dengan mengalami kerusakan hingga level tertentu.
+Pada satu sisi, konsep diasin seperti ini memiliki keuntungan seperti yang dijelaskan sebelumnya, akan
+tetapi pada sisi lain, memiliki kekurangan yaitu kerugian
+berupa kerusakan pada komponen utama struktur
+yaitu balok dan kolom. Dari masalah ini, maka perlu
+dilakukan upaya pencegahan terjadinya kerusakan pada
+komponen utama struktur tersebut dengan
+mengaplikasikan sistem redaman tambahan pada
+struktur. Penggunaan sistem redaman tambahan telah
+banyak dilakukan, beberapa diantaranya adalah Li dan
+Li, 2006; Chan dan Faris, 2007; Alehashem dan
+Kayhani, 2008; Oh dan Ryu, 2008; Bayat dan Abdullahzade,
+2011.
+Pada paper ini dibahas mengenai sistem redaman
+tambahan berupa peredam ADAS (added damping and
+stifness). ADAS terbuat dari pelat baja bertegangan
+leleh rendah. Dalam mendisipasi energi ADAS
+mengandalkan kelelehan. Pemasangan ADAS pada
+struktur dapat dilihat pada Gambar 1. Kinerja ADAS
+dianalogikan seperti sekring pada listrik dimana sekring
+akan mengalami kerusakan ketika arus berlebihan
+sehingga alat-alat elektronik tidak rusak. Begitupun
+dengan ADAS, ADAS akan mengalami kerusakan ketika
+gempa kuat terjadi sehingga sistem disipasi energi
+yang sebelumnya terjadi pada elemen struktur bisa
+dipindahkan ke ADAS. Hasilnya adalah tidak terjadi
+kerusakan pada elemen struktur balok dan kolom serta
+memungkinkan struktur tetap berperilaku elastik ketika
+gempa kuat terjadi. Perlu dicatat bahwa ADAS bukanlah
+elemen struktural tetapi hanya elemen nonstruktural
+sehingga mudah diganti bila mengalami kerusakan.
+
+
+2. Persamaan Gerak SDOF dan MDOF
+Sebuah sistem struktur berderajat kebebasan tunggal
+(SDOF) Gambar 2 dengan massa m, redaman c dan
+kekakuan k. Persamaan gerak dinamis struktur tersebut
+adalah:
+dengan ẍ, ẋ dan х masing-masing adalah percepatan,
+kecepatan dan perpindahan relatif struktur. Persamaan
+gerak struktur SDOF dengan peredam ADAS bisa
+diperoleh dengan memodelkan sistem struktur dengan
+ADAS pada Gambar 1 seperti Gambar 3. Simbol G
+pada gambar di atas mewakili operator integrodifferensial
+sehingga gaya yang bersesuaian dengan peredam
+ADAS ditulis dengan Gx. Sehingga persamaan gerak
+sistem SDOF dengan ADAS ditulis sebagai (Soong dan
+Dargus, 1997]):
+dengan ḿ adalah massa ADAS. Persamaan tersebut
+bisa diuraikan menjadi persamaan yang lebih sederhana
+yaitu dengan menguraikan komponen Gx menjadi:
+mẍ + cẋ + kх = −mẍg (1)
+mẍ + cẋ + kх + Gx = −_m + ḿ_ẍg (2)
+ḿẍ + ćẋ + ḱх = Gx (3)
+dimana ḿ, ć dan ḱ adalah massa, redaman dan
+kekakuan ADAS. Persamaan (2) bisa ditulis sebagai
+dimana M, C dan K adalah massa, redaman dan
+kekakuan struktur SDOF dengan peredam ADAS.
+Persamaan gerak sistem struktur berderajat kebebasan
+banyak MDOF identik dengan sistem struktur SDOF.
+Persamaan sistem struktur MDOF tanpa peredam
+ADAS ditulis sebagai
+Dengan [m], [c] dan [k] merupakan matriks massa,
+redaman dan kekakuan struktur. Persamaan gerak
+sistem struktur MDOF dengan peredam ADAS identik
+dengan Persamaan 4 dan ditulis sebagai
+dengan [m], [c] dan [k] adalah matriks massa, redaman
+dan kekakuan sistem struktur MDOF dan [G]x matrik
+propertis peredam ADAS.
+
+3. Konsep Dasar Energi SDOF dan MDOF
+Energi dinamis yang bekerja pada struktur terdiri dari
+energi kinetik (EK), energi redaman (ED) dan energi
+regangan (ES). Ketiga energi tersebut merupakan usaha
+dalam sebagai respon usaha luar akibat beban gempa.
+Dalam hal ini, energi yang dihasilkan usaha luar
+dinamakan sebagai energi input (EI). Agar struktur tetap
+seimbang, jumlah energi kinetik, redaman dan regangan
+harus sama dengan energi input. Energi sistem SDOF
+diperoleh dengan mengintegralkan Persamaan (1)
+terhadap perpindahan relatif struktur (Chopra, 2001;
+Christopaulus dan Filiatrault, 2006). Hasilnya menjadi:
+Dimana
+
++ ED + ES = EI (7)
+Ek = _mẍ dx = m_ẋ_2
+2 (8)
+ED = _cẋ dx = _cẋ2 dt (9)
+ES = _kx dx = kx2
+2 (10)
+EI = −_mẍg dx (11)
+
+Pada kondisi nyata, gempa yang terjadi menyebabkan
+gaya input yang bekerja pada struktur sangat besar.
+Sehingga struktur yang didisain secara tradisional,
+struktur tanpa peredam luar tambahan, akan berdeformasi
+inelastis. Pada kondisi seperti ini, energi regangan
+Persamaan (10) akan terdiri dari energi regangan
+elastis (ESE) dan energi regangan inelastis (ESI). Energi
+regangan inelastis disebut juga dengan energi histeresis.
+Sehingga Persamaan energi untuk struktur berdeformasi
+dapat ditulis sebagai
+
+Ek + ED + ESE + ESI = EI
+
+Keuntungan system energy pada struktur SDOF dengan
+peredam ADAS diperoleh dengan mengintegralkan
+semua suku pada Persamaan (2) terhadap perpindahan
+relatif struktur sehingga persamaan keseimbangan
+tersebut dapat ditulis menjadi
+Ek + ED + ES + EADAS = EI
+
+dengan energi yang terjadi pada ADAS adalah EADAS = _Gx dx
+
+
+Suku-suku persamaan yang berkaitan dengan Gx telah
+diuraikan sebelumnya.
+Konsep persamaan keseimbangan energy pada sistem
+MDOF dapat ditentukan dengan cara yang sama dengan
+konsep energi SDOF. Persamaan energi yang mewakili
+respon struktur MDOF bisa dibentuk dengan mengintegralkan
+tiap-tiap komponen gaya pada Persamaan (6)
+terhadap perpindahan relatif struktur sehingga diperoleh
+persamaan skalar (Soong dan Dargus, 1997):
+
+Ek = 12
+ẋT_m_ẋ (15)
+ED = _ẋT_c_ẋ dt (16)
+ES = _xT_k_ dx (17)
+EADAS = ĦĦGxĦT dx (18)
+EI = −_#ẍg$T_m + ḿ_ dx (19)
+
+4. Uji Quasi Statik ADAS
+Uji quasi statik dilakukan untuk mengetahui kemampuan
+ADAS dalam mendisipasi energi berdasarkan
+hubungan gaya dan perpindahan. Kemampuan disipasi
+energi ADAS adalah luasan di bawah kurva histeresis
+yang tebentuk dan didefinisikan sebagai kapasitas
+energi yang mampu diserap ADAS set up pengujian di
+laboratorium dapat dilihat pada Gambar 4. Model
+ADAS yang diuji terdiri dari tiga tipe yaitu tipe lurus
+(tipe I), cembung (tipe II) dan cekung (tipe III).
+Pengujian dilakukan dengan metode displacement
+control. Pembebanan diberikan searah sumbu kuat.
+Setiap ADAS yang diuji diberi perpindahan bolakbalik.
+Besar perpindahan dinaikkan secara bertahap.
+HAsil pengujian menunjukkan bahwa keruntuhan ADAS tipe I berbeda dengan keruntuhan ADAS tipe II
+dan III. ADAS tipe II dan III mengalami torsi.
+Sedangkan pada ADAS tipe I mengalami keruntuhan
+lentur. Pada ADAS II deformasi maksimum yang
+terjadi adalah 50 mm, karena terjadi torsi yang cukup
+besar, meskipun sampel belum mengalami keretakan,
+pengujian harus dihentikan. ADAS tipe III memiliki
+deformasi yang lebih kecil, 38 mm. Pengujian juga
+dihentikan karena sampel mengalami torsi. Keruntuhan
+akibat lentur terjadi pada ADAS tipe I. Keretakan
+terjadi pada sepertiga dan dua pertiga tinggi ADAS.
+Perpindahan maksimum ADAS I adalah 50 mm. Foto
+kegagalan ADAS tipe I, II dan III beserta kurva histeresisnya
+dapat dilihat pada gambar di bawah ini:
+
+
+Kurva histeresis ADAS tipe I menunjukkan bahwa
+kekakuan hardening tetap stabil hingga keruntuhan
+terjadi. ADAS tipe II memiliki histeresis yang lebih
+besar dari pada ADAS tipe I. hal ini disebabkan karena
+bentuk sisinya yang cembung sehingga ADAS tipe II
+lebih kaku. Karena terjadi torsi, pada saat perpindahan
+24 mm terjadi degradasi kekuatan. Akan tetapi
+degradasi yang terjadi kecil. ADAS tipe III juga
+mengalami torsi. Mulai pada saat perpindahan 20 mm,
+degradasi kekuatan terjadi hingga perpindahan 38 mm.
+Karena bentuk sisinya yang cekung, sehingga ADAS
+tipe III memiliki kekakuan yang lebih kecil dari pada
+ADAS tipe I dan II. Nilai propertis mekanik ADAS
+dapat dilihat pada Tabel 1 sampai 3.
+
+
+5. Respon Seismik Struktur dengan ADAS
+ADAS yang telah diketahui peopertis mekaniknya akan
+diaplikasikan ke struktur. Struktur yang dipasang
+ADAS adalah sistem struktur rangka baja pemikul
+momen khusus lima lantai yang difungsikan sebagai
+kantor. Lebar gedung 22 m, panjang 36 m, tinggi lantai
+satu 3.8 m dan empat lantai tipikal 3.6 m (termasuk
+lantai atap). Struktur tiga dimensi dianalisis
+menggunakan program PERFORM 3D versi 5.
+
+Jumlah ADAS yang dibutuhkan tiap lantai untuk
+mendisipasi energi ditentukan berdasarkan rasio
+kekakuan elastis ADAS (KD) Tabel 1 dan rasio
+kekakuan elastis kolom tiap lantai. Kekakuan kolom
+tiap lantai ditentukan dari analisis nonlinear pushover
+pada struktur SRPMK tanpa ADAS.
+Pada paper ini, ADAS yang digunakan untuk analisis
+hanya ADAS tipe I. Kekakuan ADAS dinaikkan secara
+bertahap mulai KD = KS hingga KD = 6KS. Respon
+seismik struktur ditinjau pada setiap kenaikan kekakuan
+ADAS untuk mengetahui kekakuan efektif ADAS yang
+dibutuhkan untuk meredam energi. Karena ADAS
+merupakan peredam pasif yang mengandalkan
+kelelehan, ADAS hanya mampu mereduksi perpindahan,
+gaya geser dan menaikkan energi histeresis.
+Oleh karena itu, respon seismik yang ditinjau pada tulisan
+ini hanya perpindahan, gaya geser, rasio energi
+histeresis terhadap energi input. Metode analisis untuk
+mengetahui respon seismik struktur dengan peredam
+ADAS adalah analisis riwayat waktu nonlinear
+(nonlinear time hystory analysis) dengan menggunakan
+percepatan gempa El Centro 0,35g dan San Fernando
+1,0g. Struktur diberi beban percepatan gempa pada arah
+H1 (arah X) dan H2 (arah Y).
+Pada paper ini, ADAS yang digunakan untuk analisis
+hanya ADAS tipe I. Kekakuan ADAS dinaikkan secara
+bertahap mulai KD = KS hingga KD = 6KS. Respon
+seismik struktur ditinjau pada setiap kenaikan kekakuan
+ADAS untuk mengetahui kekakuan efektif ADAS yang
+dibutuhkan untuk meredam energi. Karena ADAS
+merupakan peredam pasif yang mengandalkan kelelehan,
+ADAS hanya mampu mereduksi perpindahan,
+gaya geser dan menaikkan energi histeresis. Oleh karena
+itu, respon seismik yang ditinjau pada tulisan ini
+hanya perpindahan, gaya geser, rasio energi histeresis
+terhadap energi input. Metode analisis untuk mengetahui
+respon seismik struktur dengan peredam ADAS
+adalah analisis riwayat waktu nonlinear (nonlinear time
+hystory analysis) dengan menggunakan percepatan
+gempa El Centro 0,35g dan San Fernando 1,0g.
+Struktur diberi beban percepatan gempa pada arah H1
+(arah X) dan H2 (arah Y). 
+
+
+Pada analisis ini, balok dan kolom dimodelkan sebagai
+elemen balok kolom dengan model bilinear, bracing
+dudukan ADAS dianggap sebagai elemen truss dan
+dianggap kaku. ADAS dimodelkan sebagai balok
+prismatik ekivalen, rasio redaman struktur 2% dan
+dianggap konstan.
+Gambar di bawah ini memperlihatkan respon perpindahan
+struktur terhadap waktu pada kondisi pembebanan
+gempa El Centro dan San Fernando arah H1 dan H2.
+
+Gambar 20 dan 21 memperlihatkan perpindahan lantai
+atap struktur arah H1 dan H2 pembebanan gempa El
+Centro 0,35g. Terlihat bahwa sistem struktur SRPMKADAS
+dengan KD = KS berosilasi pada titik keseimbangan
+elastis pada arah H1 dan H2. Dengan demikian
+struktur tidak mengalami kegagalan. Gambar 22 dan
+23 memperlihatkan perpindahan lantai atap arah H1
+sistem struktur SRPMK-ADAS KD = KS dan H2 sistem
+struktur SRPMK-ADAS KD = 2KS pembebanan
+gempa San Fernando 1,0g. Pada arah H2, sistem
+struktur dengan rasio KD = KS terjadi kegagalan pada
+ADAS lantai dua sehingga analisis komputer terhenti.
+Kegagalan terjadi akibat terjadinya konsentrasi gaya
+yang berlebihan pada ADAS akan tetapi ADAS tidak
+memiliki kekakuan yang cukup untuk menahan gaya
+tersebut sehingga terjadi deformasi yang berlebihan.
+Sistem struktur yang mengalami kegagalan ADAS ini
+tidak dimasukkan ke dalam pembahasan selanjutnya.
+Gambar 22 dan 23 memperlihatkan bahwa sistem
+struktur SRPMK-ADAS KD = KS arah H1 dan KD =
+2KS arah H2 berdeformsi inelastis. Kesimbangan
+osilasi struktur bergeser ke arah sumbu Y negatif.
+Kondisi seperti ini terjadi akibat terbentuknya sendi
+plastis pada elemen balok dan kolom sehingga
+kekakuan struktur berkurang. Jika kekakuan ADAS
+dinaikkan menjadi enam kali, maka deformasi struktur
+SRPMK-ADAS arah H1 dan H2 adalah seperti pada
+Gambar 24 dan 25.
+Dari Gambar 24 dan 25 di atas terlihat bahwa
+kenaikan kekakuan ADAS berpengaruh terhadap
+reduksi deformasi struktur dan mampu menggeser
+keseimbangn osilasis struktur dari inlastis menjadi elastis.
+Nilai perpindahan struktur untuk semua rasio KD/
+KS pada pembebanan El Centro 0,35g dan San Fernando
+1,0g arah H1 dan H2 diperlihatkan pada Gambar 26.
+
+
+Selain mampu mereduksi perpindahan, ADAS mampu
+mereduksi gaya geser struktur. Karena kekakuan ADAS
+dibuat minimum sama dengan kekakuan struktur, maka
+akan terjadi konsentrasi gaya horizontal pada ADAS
+ketika gempa terjadi. Sehingga gaya yang masuk
+ke kolom akan berkurang. Reduksi gaya geser struktur
+pada berbagai rasio KD/KS diperlihatkan pada
+Gambar 27.
+Salah satu bagian terpenting dalam perencanaan
+struktur tahan gempa adalah energi yang bekerja pada
+struktur. Energi tersebut adalah energi histeresis (EH),
+energi input (EI) dan rasio energi histeresis terhadap
+energi input. Rasio energi histeresis terhadap energi
+input mewakili kerusakan yang terjadi pada struktur
+akibat beban gempa. Energi yang bekerja pada sistem
+struktur dengan peredam ADAS dihitung dengan
+Persamaan 15 sampai 19. Perlu dicatat bahwa energi
+yang bekerja pada struktur merupakan fungsi terhadap
+waktu dan nilai yang dipakai adalah nilai di akhir
+analisis. Pada Tabel 6 sampai 9 dirangkum nilai energi
+histeresis dan input untuk elemen struktur dan ADAS
+untuk setiap rasio KD/KS.
+
+
+
+Gambar 28 memperlihatkan rasio energi histeresis
+struktur (tidak termasuk ADAS) terhadap energi input.
+Rasio energi ini mewakili kerusakan yang terjadi pada
+struktur. Dari gambar terlihat bahwa dengan menaikkan
+kekakuan ADAS mampu mereduksi kerusakan yang
+terjadi pada struktur.
+Pola reduksi perpindahan, gaya geser dan kerusakan
+struktur pada Gambar 26, 27 dan 28 dijadikan sebagai
+patokan untuk menentukan rasio kekakuan optimum
+ADAS terhadap struktur (KD/KS optimum). Rasio
+kekakuan ini digunakan untuk analisis selanjutnya. Dari
+ketiga gambar tersebut terlihat bahwa pola reduksi
+terbesar terjadi pada rentang KD = KS sampai KD =
+4KS. Pada saat KD = 5KS hingga KD = 6KS reduksi
+respon tidak begitu signifikan. Perlu juga diketahui
+bahwa dengan menaikkan kekakuan maka jumlah
+ADAS juga akan bertambah. Dengan mempertimbangkan
+faktor reduksi respon seismik dan penggunaan
+material maka ditetapkan nilai rasio optimum KD =
+4KS. Struktur SRPMK-ADAS dengan rasio KD = 4KS
+akan dianalisis untuk mengetahui kinerja ADAS pada
+stiap kenaikan PGA. (peak ground acceleration).
+
+
+6. Kesimpulan
+Dari perhitungan dan analisis yang telah dilakukan,
+maka dapat ditarik kesimpulan sebagai berikut:
+1. Bahwa kenaikan kekakuan ADAS akan mereduksi
+perpindahan, gaya geser dan kerusakan struktur.
+2. Rasio kekakuan optimum ADAS-struktur (KD/KS)
+untuk mendisipasi energi adalah KD = 4KS. 3. Kenaikan kekakuan ADAS akan meningkatkan
+kapasitas dan mengurangi kerusakan struktur.

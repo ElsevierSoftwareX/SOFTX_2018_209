@@ -1,0 +1,1209 @@
+﻿PENGARUH PERUBAHAN STATUS, EMPLOYEE ENGAGEMENT, DAN
+PEMANFAATAN TEKNOLOGI INFORMASI TERHADAP
+KUALITAS PELAPORAN KEUANGAN
+
+ABSTRAK
+Penelitian ini bertujuan untuk menguji pengaruh perubahan status, employee engagement, dan
+pemanfaatan teknologi informasi terhadap kualitas pelaporan keuangan. Analysis of variance
+(ANOVA) digunakan untuk menguji perubahan status IPB. Adapun penerapan analisis regresi linear
+berganda digunakan untuk menguji pengaruh employee engagement dan pemanfaatan teknologi
+informasi terhadap kualitas pelaporan keuangan. Ultrecht Work Engagement Scale (UWES) digunakan
+untuk memetakan SDM keuangan. Hasil pengujian ANOVA menunjukkan bahwa pengelolaan
+keuangan IPB tidak terdapat perbedaan yang signifikan sebelum dan sesudah diterapkannya Pola
+Pengelolaan Keuangan Badan Layanan Umum. Hasil pengujian regresi linear berganda menunjukkan
+bahwa faktor yang memengaruhi kualitas pelaporan keuangan adalah employee engagement dan
+pemanfaatan teknologi informasi. Namun, faktor yang benar-benar memengaruhi ketepatan waktu
+laporan keuangan adalah pemanfaatan teknologi informasi. Hasil pengujian dari pemetaan SDM
+keuangan membuktikan bahwa employee engagement SDM keuangan Institut Pertanian Bogor berada
+dalam posisi sedang, sehingga perlu dipertahankan dan ditingkatkan.
+Kata kunci: Perubahan status, employee engagement, pemanfaatan teknologi informasi, ketepatan
+waktu pelaporan keuangan.
+
+
+PENDAHULUAN
+Isu penting pendidikan tinggi saat ini
+adalah persoalan tata kelola perguruan
+tinggi yang kerap dikaitkan dengan isu
+komersialisasi dan privatisasi. Tata kelola
+perguruan tinggi yang baik atau Good
+University Governance (GUG) diperlukan
+untuk mengatasi masalah tersebut. Salah satu prinsip dari GUG adalah akuntabilitas.
+Akuntabilitas berperan penting dalam
+menghasilkan laporan keuangan yang berkualitas.
+Semakin besar tuntutan terhadap
+pelaksanaan akuntabilitas, semakin besar
+kebutuhan akan transparansi keuangan. Hal
+ini juga berlaku bagi Institut Pertanian
+Bogor (IPB) sebagai salah satu institut yang
+berperan memberikan pelayanan kepada
+masyarakat diwajibkan untuk menyampaikan
+laporan keuangan yang telah disusun
+sesuai dengan standar akuntansi untuk
+menciptakan kredibilitas dari suatu laporan
+keuangan. Lismawati (2011) menyatakan
+pengguna laporan keuangan yang menginginkan
+transparansi dan akuntabilitas atas
+pengelolaan keuangan publik, tidak akan
+ragu untuk berbagi kepentingan penggunaannya
+jika hal tersebut telah terpenuhi.
+Status kelembagaan IPB berdasarkan
+PP Nomor 154 Tahun 2000 ditetapkan sebagai
+perguruan tinggi berstatus Badan
+Hukum Milik Negara (BHMN). Kemudian
+Pemerintah menerbitkan PP Nomor 66
+Tahun 2010 yang menyatakan bahwa pengelolaan
+keuangan IPB dan 6 universitas
+lainnya menerapkan pola pengelolaan keuangan
+Badan Layanan Umum (BLU). Pemerintah
+memberlakukan beberapa organisasi
+Perguruan Tinggi Negeri (PTN) sebagai
+BLU ditujukan untuk mendorong PTN tersebut
+melakukan pembangunan sistem
+informasi akuntansi baru (Maharani et al.
+2013). Status BLU diterapkan dengan tujuan
+meningkatkan pelayanan kepada masyarakat
+dalam rangka memajukan kesejahteraan
+umum dan mencerdaskan kehidupan
+bangsa melalui fleksibilitas dalam pengelolaan
+keuangan. Menurut Waluyo
+(2011), fleksibilitas yang dimiliki BLU dalam
+pengelolaannya yaitu pendapatan dan
+belanja, pengelolaan kas, pengelolaan utang
+dan piutang, investasi, pengadaan barang
+dan jasa, dan akuntansi. Saat ini, IPB sedang
+dalam proses masa transisi menjadi PTN
+Badan Hukum (BH).
+Permasalahan yang sangat penting dalam
+penyajian laporan keuangan adalah
+bagaimana menentukan kebijakan akuntansi,
+perlakuan akuntansi untuk suatu
+transaksi, pilihan akuntansi, dan menganalisis
+sistem akuntansi yang ada (Forum
+Dosen Akuntansi Sektor Publik 2006).
+Berdasarkan hasil audit dari Kantor Akuntan
+Publik (KAP), diketahui bahwa masih
+terdapat kelemahan-kelemahan pengelolaan
+keuangan IPB di antaranya: (1) kurangnya
+Sumber Daya Manusia (SDM) keuangan
+yang berkompeten di bidang akuntansi
+yang terlibat dalam proses pembuatan
+laporan keuangan, dan (2) pemanfaatan
+teknologi informasi yang belum terintegrasi
+dalam suatu sistem yang mendukung proses
+pembuatan laporan keuangan. Kinerja
+SDM merupakan salah satu faktor yang
+perlu ditingkatkan untuk mensukseskan
+sebuah organisasi. Dengan melakukan pengelolaan
+SDM yang baik, maka akan
+menghasilkan output yang baik pula bagi
+perusahaan (Markos dan Sridevi 2010).
+Walaupun didukung dengan sarana dan
+prasarana serta sumber dana yang berlebihan,
+tanpa dukungan SDM yang handal,
+pelaksanaan kegiatan tidak akan terselesaikan
+dengan baik (Yunus 2012). Selain itu,
+berdasarkan hasil rekapitulasi data sistem
+aplikasi keuangan, dapat diketahui bahwa
+masih terdapat beberapa unit kerja di IPB
+yang belum melakukan input data transaksi
+keuangan ke dalam sistem aplikasi keuangan
+secara tepat waktu (Gambar 1 dan
+Gambar 2).
+Oleh karena itu, penyajian laporan
+keuangan harus sesuai dengan standar
+akuntansi untuk menciptakan kredibilitas
+dari suatu laporan keuangan. Informasi
+yang disajikan dalam laporan keuangan
+berdasarkan Peraturan Pemerintah (PP)
+Nomor 24 Tahun 2005 tentang Standar
+Akuntansi Pemerintah harus memiliki
+karakteristik: relevan (relevance), andal (reliability),
+dapat dibandingkan (comparability),
+dan dapat dipahami (understandability).
+Penilaian laporan keuangan dapat dilakukan
+dengan menguji sebagian atau
+keseluruhan dari karakteristik tersebut.
+Karakteristik yang sering diuji adalah
+karakteristik dapat dibandingkan (comparability) dan relevan (relevance). Informasi
+yang termuat dalam laporan keuangan akan
+lebih berguna jika dapat dibandingkan
+dengan laporan keuangan periode sebelum
+nya atau laporan keuangan entitas lain pada
+umumnya. Sementara itu, laporan keuangan
+bisa dikatakan relevan apabila memiliki
+manfaat umpan balik (feedback value), memiliki
+manfaat prediktif (predictive value),
+tepat waktu (timeliness), dan lengkap (complete).
+Dalam menghasilkan laporan keuangan
+yang berkualitas harus memenuhi
+karakteristik dasar yang telah ditentukan,
+salah satunya adalah ketepatan waktu.
+Shulthoni (2012) menyatakan bahwa laporan
+keuangan merupakan salah satu sumber
+informasi yang sangat penting dalam pengambilan
+keputusan.
+
+Adanya perubahan status kelembagaan
+IPB, diduga akan mengubah pola pengelolaan
+keuangan IPB. Kegiatan membandingkan
+pola pengelolaan keuangan IPB sebelum
+dan sesudah perubahan status dari
+BHMN menjadi BLU merupakan satu langkah
+pengujian karakteristik pelaporan keuangan,
+yakni dapat dibandingkan (comparability).
+Sementara itu, analisis ketepatan
+waktu yang dikaitkan dengan employee
+engagement dan teknologi informasi dilakukan
+sebagai gambaran karakteristik relevan
+(relevance). Ketidakdisiplinan SDM keuangan
+dalam menginput data yang mengakibatkan
+keterlambatan pelaporan keuangan
+menunjukkan bahwa employee engagement
+masih rendah. Guntari et al. (2014) menyatakan
+employee engagement merupakan salah
+satu komponen penting dalam perusahaan
+dan merupakan aset yang sangat berharga.
+Employee engagement merupakan salah satu
+pengelolaan manajemen SDM. Produktivitas
+kerja karyawan dipengaruhi oleh beberapa
+faktor di antaranya employee engagement
+(Hanim et al. 2014), oleh karena itu,
+SDM keuangan IPB perlu melakukan pengukuran
+employee engagement untuk meningkatkan
+produktivitas kinerja SDM keuangan
+(Rachmawati 2010). Terkait dengan
+uraian tersebut, maka perlu dilakukan
+penelitian untuk menganalisis perbedaan
+pola pengelolaan keuangan IPB sebelum
+dan sesudah status BLU, pengaruh employee
+engagement dan pemanfaatan teknologi
+informasi terhadap ketepatan waktu pelaporan
+keuangan, dan tingkat employee
+engagement SDM keuangan di IPB.
+
+
+TINJAUAN TEORETIS
+Laporan Keuangan
+Menurut Harjito dan Martono (2012),
+laporan keuangan merupakan ikhtisar mengenai
+keadaan keuangan suatu perusahaan
+pada suatu saat tertentu. Laporan keuangan
+sektor publik merupakan posisi keuangan
+penting yang berasal dari transaksi-transaksi
+yang dilakukan oleh organisasi sektor
+publik. Laporan keuangan dalam lingkungan
+sektor publik memegang peranan
+penting dalam rangka menciptakan akuntabilitas
+sektor publik. Nordiawan (2008)
+menyatakan semakin besar tuntutan akan
+pelaksanaan akuntabilitas sektor publik,
+maka kebutuhan akan transparansi informasi
+keuangan sektor publik juga semakin
+besar. Informasi keuangan ini berfungsi
+sebagai dasar pertimbangan dalam proses
+pengambilan keputusan. Akuntansi sektor
+publik memiliki peran penting dalam menyiapkan
+laporan keuangan sebagai perwujudan
+akuntabilitas publik.
+
+
+Kualitas Laporan Keuangan
+Menurut PP Nomor 24 tahun 2005
+tentang Standar Akuntansi Pemerintahan,
+karakteristik laporan keuangan yang merupakan
+prasyarat normatif yang diperlukan
+dalam memenuhi kualitas yang dikehendaki,
+yaitu:
+Pertama, relevan (relevance). Laporan
+keuangan bisa dikatakan relevan apabila
+informasi yang termuat didalamnya dapat
+memengaruhi keputusan pengguna dengan
+membantu mereka mengevaluasi peristiwa
+masa lalu atau masa kini, dan memprediksi
+masa depan, serta menegaskan atau mengoreksi
+hasil evaluasi mereka di masa lalu.
+Informasi yang relevan, yaitu: a) Memiliki
+manfaat umpan balik (feedback value). Informasi
+memungkinkan pengguna untuk menegaskan
+atau mengoreksi ekspektasi mereka
+di masa lalu, b) Memiliki manfaat
+prediktif (predictive value). Informasi dapat
+membantu pengguna untuk memprediksi
+masa yang akan datang berdasarkan hasil
+masa lalu dan kejadian masa kini, c) Tepat
+waktu (timeliness). Informasi disajikan tepat
+waktu sehingga dapat berpengaruh dan
+berguna dalam pengambilan keputusan, d)
+Lengkap (complete). Informasi akuntansi ke
+uangan pemerintah disajikan selengkap
+mungkin, mencakup semua informasi akuntansi
+yang dapat memengaruhi pengambilan
+keputusan dengan memperhatikan kendala
+yang ada. Informasi yang melatar
+belakangi setiap butir informasi utama yang
+termuat dalam laporan keuangan diungkapkan
+dengan jelas agar kekeliruan dalam penggunaan informasi tersebut dapat dicegah.
+Kedua, andal (Reliability). Informasi
+dalam laporan keuangan bebas dari pengertian
+yang menyesatkan dan kesalahan
+material, menyajikan setiap fakta secara
+jujur, serta dapat diverifikasi. Informasi
+mungkin relevan, tetapi jika hakikat atau
+penyajiannya tidak dapat diandalkan, maka
+penggunaan informasi tersebut secara
+potensial dapat menyesatkan. Informasi
+yang andal memenuhi karakteristik, yaitu:
+a) Penyajian jujur. Informasi menggambarkan
+dengan jujur transaksi serta peristiwa
+lainnya yang seharusnya disajikan atau
+yang secara wajar dapat diharapkan untuk
+disajikan, b) Dapat diverifikasi (verifiability).
+Informasi yang disajikan dalam laporan keuangan
+dapat diuji, dan apabila pengujian
+dilakukan lebih dari sekali oleh pihak yang
+berbeda, hasilnya tetap menunjukkan simpulan
+yang tidak berbeda jauh, c) Netralitas.
+Informasi diarahkan pada kebutuhan
+umum dan tidak berpihak pada kebutuhan
+pihak tertentu.
+Ketiga, dapat dibandingkan (comparability).
+Informasi yang termuat dalam
+laporan keuangan akan lebih berguna jika
+dapat dibandingkan dengan laporan keuangan
+periode sebelumnya atau laporan
+keuangan entitas lain pada umumnya. Perbandingan
+dapat dilakukan secara internal
+dan eksternal. Perbandingan secara internal
+dapat dilakukan bila entitas yang diperbandingkan
+menerapkan kebijakan akuntansi
+yang sama dari tahun ke tahun.
+Perbandingan secara eksternal dapat dilakukan
+bila entitas yang diperbandingkan
+menerapkan kebijakan akuntansi yang sama.
+Apabila entitas pemerintah menerapkan
+kebijakan akuntansi yang lebih baik
+dari pada kebijakan akuntansi sekarang diterapkan,
+perubahan tersebut diungkapkan
+pada periode terjadinya perubahan.
+Keempat, dapat dipahami (understandability).
+Informasi yang disajikan dalam
+laporan keuangan dapat dipahami oleh
+pengguna dan dinyatakan dalam bentuk
+serta istilah yang disesuaikan dengan batas
+pemahaman para pengguna. Untuk itu,
+pengguna diasumsikan memiliki pengetahuan
+yang memadai atas kegiatan dan
+lingkungan operasi entitas pelaporan, serta
+adanya kemauan pengguna untuk mempelajari
+informasi yang dimaksud.
+
+
+Ketepatan Waktu (Timeliness) Pelaporan
+Keuangan
+Menurut Noviandi (2007), ketepatan
+waktu didefinisikan sebagai suatu pemanfaatan
+informasi oleh pengambil keputusan
+sebelum informasi tersebut kehilangan
+kapasitas atau kemampuannya
+untuk mengambil keputusan. Tepat waktu
+diartikan bahwa informasi harus disampaikan
+sedini mungkin untuk dapat digunakan
+sebagai dasar untuk membantu dalam
+pengambilan keputusan ekonomi dan untuk
+menghindari tertundanya pengambilan
+keputusan tersebut (PP Nomor 24 Tahun
+2005). Konstruk nilai informasi ketepatan
+waktu diukur dengan indikator: (1) Timelines
+merupakan indikator yang menggambarkan
+bahwa informasi yang dibutuhkan
+segera tersedia ketika diminta; (2)
+sistematis waktu merupakan indikator untuk
+menggambarkan bahwa laporan-laporan
+disediakan secara sistematis dan teratur
+(triwulan, semester, dan tahunan); dan (3)
+sistematis unsur merupakan indikator
+untuk menggambarkan bahwa laporanlaporan
+berikut disampaikan secara sistematis
+dan teratur antara unsur-unsur laporan
+keuangan yang meliputi laporan aktivitas/
+operasional, neraca, laporan arus kas
+dan catatan atas laporan keuangan.
+
+
+Analisis Rasio Laporan Keuangan
+Menurut Hery (2015), analisis laporan
+keuangan (financial statement analysis) merupakan
+suatu proses untuk membedah
+laporan keuangan ke dalam unsur-unsurnya
+dan menelaah masing-masing dari
+unsur tersebut dengan tujuan untuk memperoleh
+pengertian dan pemahaman yang
+baik dan tepat atas laporan keuangan itu
+sendiri. Menganalisis laporan keuangan
+berarti menilai kinerja perusahaan, baik secara internal maupun untuk membandingkan
+dengan perusahaan lain yang
+berada dalam industri yang sama. Hal ini
+berguna bagi perkembangan perusahaan
+dengan mengetahui seberapa efektif operasi
+perusahaan telah berjalan. Analisis laporan
+keuangan sangat berguna tidak hanya bagi
+internal perusahaan saja, tetapi juga bagi
+investor dan pemangku kepentingan lainnya.
+Analisis rasio laporan keuangan yang
+digunakan dalam penelitian ini terdiri dari
+rasio aktivitas, rasio likuiditas, dan rasio
+solvabilitas. Menurut Hery (2015) rasio
+aktivitas merupakan rasio yang digunakan
+untuk mengukur efektivitas perusahaan
+dalam menggunakan aset yang dimilikinya,
+termasuk untuk mengukur tingkat efisiensi
+perusahaan dalam memanfaatkan sumber
+daya yang ada. Rasio likuiditas adalah rasio
+yang menunjukkan kemampuan perusahaan
+dalam memenuhi kewajiban atau membayar
+utang jangka pendeknya. Rasio solvabilitas
+merupakan rasio yang digunakan
+untuk mengukur sejauh mana aset perusahaan
+dibiayai dengan utang.
+
+
+Employee Engagement
+Employee engagement menjadi suatu hal
+yang hangat dibicarakan saat ini. Peran
+penting employee engagement sangat membantu
+suatu organisasi dalam mencapai
+keunggulan kompetitif. Employee engagement
+diyakini sebagai preditor kesuksesan pada
+level individu maupun organisasi. Beberapa
+penelitian menyebutkan karyawan yang
+engage lebih produktif dalam kinerjanya,
+memberikan layanan yang terbaik bagi
+costumer-nya, lebih sedikit untuk jumlah
+ketidakhadirannya, dan lebih loyal kepada
+perusahaan dibandingkan dengan karyawan
+yang disengaged (Dewi 2012).
+Menurut Kruse (2012) employee engagement
+adalah keadaan dimana seorang
+karyawan secara emosional berkomitmen
+terhadap organisasi dan tujuannya. Keterikatan
+karyawan muncul karena mereka
+peduli dan bukan hanya karena mereka
+harus melakukan atau untuk mendapatkan
+kompensasi ataupun untuk mendapatkan
+promosi. Maarif dan Kartika (2014) mendeskripsikan
+employee engagement (keterikatan
+karyawan) merupakan sebuah kesatuan
+usaha, komitmen, tanggung jawab, pikiran,
+tenaga, dan hati untuk menghasilkan
+kontribusi optimal dengan sungguh-sungguh
+dan sadar sebagai wujud keinginan
+untuk tetap tinggal dalam organisasi secara
+berkelanjutan. Keterikatan memiliki dampak
+positif nyata terhadap jumlah hasil
+yang diinginkan yaitu retensi karyawan,
+kinerja, kualitas, kepuasan dan loyalitas
+pelanggan, serta kinerja finansial. Menurut
+Welllins dan Concelman dalam Endres dan
+Smoak (2008), employee engagement adalah
+suatu kekuatan yang dapat memberikan
+motivasi bagi karyawan untuk meningkatkan
+kinerja pada tingkat yang lebih tinggi
+dibandingkan sebelumnya.
+Teori yang digunakan dalam penelitian
+ini adalah teori employee engagement menurut
+Schaufeli dan Bakker (2003) dengan
+menekankan adanya vigor, dedication, dan
+absorption dalam pemahamannya mengenai
+engagement. Teori ini dipilih karena dianggap
+telah mencakup pengertian yang
+komprehensif dan mudah dipahami. Schaufeli
+dan Bakker (2003) menjelaskan tentang 3
+aspek pembentuk employee engagement,
+yaitu: (1) Vigor, karakter ini ditandai dengan
+iklim kerja yang penuh dengan energi dan
+ketahanan mental serta kemauan untuk
+berupaya lebih dalam bekerja dan bertahan
+walaupun menghadapi banyak kesulitan,
+(2) Dedication, karakter ini ditandai dengan
+keterlibatan penuh dalam pekerjaannya
+serta merasakan kepentingan, antusiasme,
+inspirasi, kebanggaan dan tantangan dalam
+pekerjaannya, (3) Absorption, karakter ini di
+tandai dengan iklim yang penuh konsentrasi
+dan keasyikan dalam melaksanakan
+pekerjaan, waktu cepat berlalu, dan sulit
+untuk melepaskan pekerjaan tersebut.
+Ketiga aspek ini merupakan konsep
+yang paling dikenal dan sering digunakan
+di beberapa penelitian untuk mengukur
+tingkat engagement karyawan. Vigor menggambarkan
+level energi dan mental relisiensi
+yang dimiliki seseorang ketika bekerja.
+
+Selain itu, vigor juga menunjukkan adanya
+kesediaan karyawan untuk melakukan
+usaha yang besar dalam menyelesaikan
+pekerjaan, tidak mudah merasa lelah, dan
+tekun dalam melakukan pekerjaan. Dedication
+menggambarkan perasaan antusias
+karyawan di dalam bekerja, bangga dengan
+pekerjaan yang dilakukan, serta merasa
+terinspirasi dan tertantang dengan pekerjaan.
+Absorption menggambarkan keadaan
+karyawan terbenam secara total, merasa
+senang melakukan pekerjaannya, dan merasa
+sulit untuk melepaskan diri dengan
+pekerjaan.
+Employee engagement dapat dikategorikan
+dengan memberikan skoring terhadap
+beberapa pertanyaan yang meliputi vigor,
+dedication, dan absorption. Pertanyaan-pertanyaan
+ini dirangkum dalam kuesioner
+UWES 17 oleh Schaufeli dan Bakker (2003).
+Hasil penskoringan dirata-ratakan dan dikelompokkan
+sesuai pada Tabel 1, tabel α
+cronbach skor UWES 17.
+Skor ini digunakan untuk menentukan
+tingkat engagement SDM keuangan terhadap
+pekerjaannya. Skor setiap aspek employee
+engagement ini diperoleh dari penghitungan
+rata-rata skor kuesioner.
+
+
+Teknologi Informasi
+Menurut Rusdiana dan Irfan (2014),
+teknologi informasi adalah suatu teknologi
+yang digunakan untuk mengolah data,
+termasuk memproses, mendapatkan, menyusun,
+menyimpan, dan memanipulasi
+data dalam berbagai cara untuk menghasilkan
+informasi yang berkualitas, yaitu
+informasi yang relevan, akurat, dan tepat
+waktu, yang digunakan untuk keperluan
+pribadi, bisnis, dan pemerintahan. Selain
+itu, teknologi informasi merupakan informasi
+yang strategis untuk pengambilan
+keputusan. Teknologi ini menggunakan
+seperangkat komputer untuk mengolah
+data, sistem jaringan untuk menghubungkan
+satu komputer dengan komputer yang
+lain sesuai kebutuhan, dan teknologi
+telekomunikasi yang digunakan agar data
+dapat disebar dan diakses secara global.
+Menurut Widuri (2010), pemanfaatan
+teknologi informasi merupakan penggunaan
+teknologi informasi oleh pengguna
+melalui sistem informasi berbasis komputer
+dalam rangka menyelesaikan berbagai tugas
+dan masalah yang dihadapi pengguna
+dalam menjalankan pekerjaannya untuk
+meningkatkan kualitas dan produktivitas,
+baik secara individual, kelompok, maupun
+organisasional, dengan memfokuskan pada
+level individu, khususnya end user computing.
+Menurut Winindyaningrum dan
+Rahmawati (2010), pemanfaatan teknologi
+informasi mencakup adanya pengolahan
+data, pengolahan informasi, sistem manajemen,
+proses kerja secara elektronik, dan
+pemanfaatan kemajuan teknologi informasi
+agar pelayanan publik dapat diakses secara
+mudah dan murah oleh masyarakat di
+seluruh wilayah negeri. Sementara itu,
+Jurnali dan Supomo (2002) menyebutkan
+pemanfaatan teknologi informasi adalah
+tingkat integritas teknologi informasi pada
+pelaksanaan tugas-tugas akuntansi. Konstruksi
+pemanfaatan teknologi informasi
+diukur dengan indikator: (1) Perangkat,
+merupakan indikator untuk menggambarkan kelengkapan yang mendukung terlaksananya
+penggunaan teknologi informasi,
+meliputi perangkat lunak, keras, dan
+sistem jaringan, (2) Pengelolaan data keuangan,
+merupakan indikator untuk menggambarkan
+pemanfaatan teknologi informasi
+dalam pengelolaan data keuangan
+secara sistematis dan menyeluruh, (3) Perawatan,
+merupakan indikator untuk menggambarkan
+adanya jadwal pemeliharaan
+peralatan secara teratur terhadap perangkat
+teknologi informasi guna mendukung kelancaran
+pekerjaan
+
+
+
+Penelitian Sebelumnya
+Penelitian tentang perubahan kinerja
+keuangan dipengaruhi perubahan status
+telah dilakukan oleh Maharani et al. (2013)
+yang menghasilkan tidak ada perbedaan
+kinerja keuangan antara sebelum dan sesudah
+Pola pengelolaan Badan Layanan
+Umum (PK-BLU), sedangkan hasil penelitian
+mengenai pengaruh employee engagement
+dan pemanfaatan teknologi informasi terhadap
+ketepatan waktu pelaporan keuangan
+menghasilkan bahwa hanya pemanfaatan
+teknologi informasi yang benar-benar
+mampu menjelaskan variabel ketepatan
+waktu. Hasil penelitian ini sesuai dengan
+penelitian Darwais (2009), Nurillah (2012),
+Hanafi (2013), dan Saleh (2014) yang menyatakan
+bahwa pemanfaatan teknologi
+informasi berpengaruh signifikan terhadap
+ketepatan waktu pelaporan keuangan.
+
+
+METODE PENELITIAN
+Jenis Penelitian dan Gambaran Obyek
+Penelitian
+Pendekatan dalam penelitian ini adalah
+studi kasus yang didukung dengan survei.
+Populasi dalam penelitian ini adalah staf
+keuangan dan Bendahara Pembantu Pengeluaran
+di lingkungan IPB. Jumlah sampel
+yang memenuhi kriteria adalah sebanyak
+114 orang dengan perincian 23 staf
+keuangan dan 91 Bendahara Pembantu
+Pengeluaran. Teknik pengambilan sampel
+pada penelitian ini dilakukan secara purposive
+sampling.
+
+
+Teknik Pengumpulan Data
+Teknik pengumpulan data yang digunakan
+dalam penelitian ini yaitu data
+primer dan sekunder yang dilakukan dengan
+cara:
+Satu, studi kepustakaan. Penelitian ini
+dilakukan melalui studi kepustakaan atau
+studi literatur dengan cara mempelajari,
+meneliti, mengkaji, serta menelaah literatur
+berupa buku-buku, peraturan perundangundangan,
+artikel, jurnal-jurnal ilmiah yang
+relevan dengan ide penelitian, dan penelitian-
+penelitian sebelumnya yang memiliki
+hubungan dengan masalah yang diteliti.
+Dua, penelitian lapangan. Data empiris
+yang diperlukan dalam penelitian ini diperoleh
+dengan teknik-teknik sebagai berikut:
+a) Observasi, yaitu melakukan pengamatan
+langsung terhadap pelaksanaan
+Tugas, Pokok dan Fungsi (Tupoksi) dari IPB
+terkait upaya dalam peningkatan kualitas
+laporan keuangan, b) Wawancara, yaitu
+melakukan tanya jawab langsung kepada
+pihak-pihak yang berkompeten dari pegawai
+di lingkungan IPB guna memperoleh
+informasi yang dibutuhkan dalam Penulisan
+ini, c) Kuesioner, yaitu mengumpulkan
+informasi melalui jawaban responden atas
+pertanyaan yang telah disusun terkait
+employee engagement, pemanfaatan teknologi
+informasi, dan ketepatan waktu. Kuesioner
+yang digunakan untuk pengumpulan data
+teknologi informasi dan ketepatan waktu
+merupakan replikasi dari Indriasari dan
+Narhartyo 2008), sementara kuesioner untuk
+employee engagement merupakan replikasi
+UWES-17 (Schaufelli dan Bakker 2003),
+d) Dokumentasi, yaitu mengumpulkan
+dokumen-dokumen yang berkaitan dengan
+proses serta tahapan penyusunan laporan
+keuangan yang dilakukan oleh Biro Keuangan
+IPB sebagai unit pelaksana penyusunan
+laporan keuangan.
+
+
+Variabel Penelitian
+Variabel yang dianalisis dalam penelitian
+ini dibedakan menjadi variabel
+dependen dan variabel independen. Dalam
+penelitian ini variabel dependen (KW) adalah ketepatan waktu pelaporan keuangan
+IPB, sedangkan variabel independen
+yaitu: employee engagement (ee), dan pemanfaatan
+teknologi informasi (Pti).
+
+Definisi Operasional Penelitian
+1) Employee engagement (ee) adalah suatu
+keadaan ketika karyawan terlibat secara
+psikologis dengan pekerjaannya, baik secara
+fisik, kognitif, maupun emosional, sehingga
+karyawan akan memberikan usaha terbaik
+mereka dalam menyelesaikan pekerjaannya,
+serta merasa sulit untuk melepaskan diri
+dengan pekerjaan yang dikarakteristikkan
+oleh vigor, dedication, dan absorptio; 2) Pemanfaatan
+Teknologi Informasi (Pti) adalah
+mencakup adanya pengolahan data, pengolahan
+informasi, sistem manajemen dan
+proses kerja secara elektronik dan pemanfaatan
+kemajuan teknologi informasi; 3)
+Ketepatan Waktu Pelaporan Keuangan
+(KW) adalah suatu pemanfaatan informasi
+oleh pengambil keputusan sebelum informasi
+tersebut kehilangan kapasitas atau
+kemampuannya untuk mengambil keputusan.
+
+
+Metode Analisis Data
+Metode analisis data dalam penelitian
+ini terdiri dari:
+Pertama, Analysis of Variance (ANOVA).
+Analysis of Variance (ANOVA) ditujukkan
+untuk mengetahui perbedaan pola pe
+ngelolaan laporan keuangan pada saat
+sebelum dan sesudah penerapan status
+BLU. Analisis dilakukan dengan menggunakan
+data rasio keuangan. Hipotesis
+yang digunakan adalah:
+H0 : pengelolaan laporan keuangan IPB
+sebelum dan sesudah penerapan status
+BLU adalah sama
+H1 : pengelolaan laporan keuangan IPB
+sebelum dan sesudah penerapan
+status BLU adalah berbeda
+Kedua, Regresi Linear Berganda. Analisis
+regresi linear berganda dilakukan untuk
+melihat pengaruh dari employee engagement
+dan pemanfaatan teknologi informasi
+terhadap ketepatan waktu pelaporan keuangan.
+Pengaruh variabel independen terhadap
+variabel dependen diuji dengan
+tingkat kepercayaan 95%. Hipotesis yang
+digunakan adalah:
+
+
+H0 : B1 = B2 = 0 (Employee engagement dan
+pemanfaatan teknologi informasi
+tidak berpengaruh terhadap ketepatan
+waktu pelaporan keuangan IPB)
+H1 : Minimal satu Bi ≠ 0 (Employee engagement
+dan pemanfaatan teknologi
+informasi berpengaruh terhadap ketepatan
+waktu pelaporan keuangan
+IPB)
+Apabila hasil analisis simultan menunjukkan
+bahwa terdapat pengaruh employee
+engagement dan pemanfaatan teknologi
+informasi terhadap ketepatan waktu pelaporan
+keuangan, maka dilakukan uji
+parsial dengan hipotesis sebagai berikut:
+H0 : B1 = 0 (Tidak terdapat pengaruh employee
+engagement terhadap ketepatan
+waktu pelaporan keuangan IPB)
+H1 : B1 ≠ 0 (Terdapat pengaruh employee
+engagement terhadap ketepatan waktu
+pelaporan keuangan IPB)
+H0 : B2 = 0 (Tidak terdapat pengaruh pemanfaatan
+teknologi informasi terhadap
+ketepatan waktu pelaporan
+keuangan IPB)
+H1 : B2 ≠ 0 (Terdapat pengaruh pemanfaatan
+teknologi informasi terhadap
+ketepatan waktu pelaporan keuangan
+IPB)
+Ketiga, Analisis Employee Engagement.
+Employee engagement SDM keuangan di IPB
+diukur dengan mengunakan kuesioner
+replikasi dari kuesioner yang sudah baku
+yang diciptakan oleh Schaufeli dan Bakker
+(2003) yang dikenal Ultrecht Work Engagement
+Scale (UWES-17). Employee engagement
+diukur dari 3 dimensi employee engagement
+yaitu vigor, dedication, dan absorption. Total
+pertanyaan dalam kuesioner ini adalah 17
+item pertanyaan, yakni dimensi vigor terdiri
+dari 6 pertanyaan, dedication terdiri dari 5
+pertanyaan, dan absorption terdiri dari 6
+pertanyaan sesuai pada Tabel 2.
+UWES terdiri dari 17 pertanyaan persepsi
+karyawan mengenai kondisi dan perasaannya dalam bekerja, mencakup
+pekerjaan itu sendiri maupun lingkungan
+kerjanya. Seluruh pertanyaan dalam UWES
+akan direspon dengan menggunakan skala
+frekuensi yaitu: selalu (6), sangat sering (5),
+sering (4), kadang-kadang (3), jarang (2),
+tidak pernah (1). Kategori selalu mengindikasikan
+setiap hari, sangat sering mengindikasikan
+beberapa hari dalam seminggu,
+sering mengindikasikan satu kali dalam
+seminggu, kadang-kadang mengindikasikan
+1-3 kali dalam sebulan, jarang mengindikasikan
+kurang dari satu kali dalam
+sebulan, dan tidak pernah mengindikasikan
+tidak ada sama sekali. Nilai skala employee
+engagement akan diukur dari nilai mean
+(rata-rata) dari keseluruhan responden.
+
+ANALISIS DAN PEMBAHASAN
+Gambaran Umum Entitas
+Visi IPB mengacu pada Rencana Pembangunan
+Jangka Panjang Kementerian
+Pendidikan dan Kebudayaan Tahun 2005-
+2025 serta Kebijakan Perencanaan Pengembangan
+Pendidikan Tinggi di Indonesia
+Tahun 2005-2025, Kebijakan Umum
+Tahun 2025 – Majelis Wali Amanah (MWA)
+IPB, dan draf Rencana Pengembangan IPB
+2025 – Senat Akademik IPB, dan tuntutan
+pengarusutamaan pertanian di Indonesia
+dalam mewujudkan pembangunan ekonomi
+Indonesia sebagai Negara agraris dan
+bahari, serta pengalaman IPB sejak penetapan
+IPB berstatus BHMN sesuai PP
+No.154 Tahun 2000. Renstra IPB 2014-2018
+yang merupakan bagian dari Rencana
+Pengembangan IPB 2025 memiliki visi IPB
+tahun 2014-2018 dengan penekanan pada
+peran IPB dalam pengarusutamaan pertanian
+sebagai berikut: “Menjadi Perguruan
+Tinggi Berbasis Riset, Bertaraf Internasional,
+dan Penggerak Prima Pengarusutamaan
+Pertanian”.
+Strategi pengembangan IPB 2014-2018
+terdiri dari 5 pilar, dan salah satu pilar
+strategi pengembangan IPB tersebut adalah
+penguatan dan dinamisasi sistem manajemen
+IPB. Salah satu fokus kebijakan
+penguatan dan dinamisasi sistem manajemen
+di antaranya adalah penguatan dan
+dinamisasi pengelolaan sumber daya dalam
+penguatan sistem dan pengelolaan pendanaan
+melalui peningkatkan kualitas pelaporan
+keuangan. Laporan keuangan IPB
+telah disusun dan disajikan sesuai dengan
+standar Akuntansi Keuangan Entitas Tanpa
+Akuntabilitas Publik.
+Semua informasi dalam laporan keuangan
+IPB telah dimuat secara lengkap
+dan benar. Melalui prinsip akuntabilitas IPB
+dapat menjelaskan kepada masyarakat
+(stakeholders) tentang penerimaan dan pengeluaran
+dana yang dimanfaatkan untuk
+membiayaan akademik, baik program maupun
+layanan akademik yang disajikan
+dalam laporan keuangan IPB. Laporan keuangan
+IPB dapat bermanfaat kepada: 1)
+Manajemen IPB, laporan keuangan memberikan
+informasi yang digunakan dalam
+pengambilan keputusan, evaluasi usaha
+yang sedang berjalan, melakukan budgeting,
+menjaga aset, dan kontrol internal. Jika
+informasi keuangan yang diberikan akurat,
+maka pengelola bisa mengambil keputusan
+dengan jernih berdasarkan data-data yang
+dimiliki, 2) Stakeholders dalam rangka
+akuntabilitas publik atas pengelolaan keuangan
+IPB sebagai perwujudan dari pelaksanaan
+Good University Governance
+(GUG).
+Kualitas penyajian laporan keuangan
+sangat dipengaruhi oleh insfrastruktur sistem
+yang baik dan terintegrasi antara satu
+bagian dengan bagian lain yang seharusnya
+didukung oleh SDM yang berkompeten dan
+handal dalam bidangnya. SDM keuangan
+yang terdiri dari staf Biro Keuangan dan
+unit-unit kerja pengelola keuangan di lingkungan
+IPB (Bendahara Pembantu Pengeluaran)
+perlu meningkatkan ilmu terutama
+di bidang akuntansi dan pengelolaan keuangan
+sehingga dapat meghasilkan output
+yang cepat dan akurat.
+Teknologi informasi yang sedang dikembangkan
+di keuangan IPB adalah Sistem
+Keuangan (SIMKEU) IPB. Manfaat dari
+dikembangkannya SIMKEU IPB adalah: 1)
+Mengumpulkan informasi keuangan yang
+dibutuhkan dengan lebih efisien dan akurat;
+2) Berbagi informasi keuangan yang dibutuhkan
+lintas unit kerja lebih mudah dan
+cepat; 3) Pengelolaan terhadap informasi
+keuangan lebih fleksibel; 4) Mengambil keuntungan
+dari investasi teknologi informasi
+yang sudah dianggarkan
+Fungsi dari SIMKEU IPB di antaranya
+mencatat semua transaksi keuangan, menghasilkan
+laporan keuangan, dan melakukan
+penelusuran transaksi keuangan apabila
+suatu saat dibutuhkan. Sistem keuangan
+yang diterapkan Biro Keuangan IPB bertujuan
+untuk membantu IPB dalam akuntabilitas
+keuangan, pengambilan keputusan,
+dan transparansi sehingga dapat menyusun
+laporan keuangan yang handal dan tepat
+waktu.
+
+
+
+Perbedaan Pola Pengelolaan Keuangan
+pada Status BHMN dan BLU
+Status IPB yang mengalami perubahan
+dari BHMN menjadi BLU diduga akan
+memengaruhi pola keuangan IPB. Data
+rasio keuangan digunakan untuk menguji
+pola pengelolaan keuangan IPB pada kedua
+status tersebut. Hasil rataan rasio keuangan
+untuk 9 parameter yang diamati dapat
+dilihat pada Tabel 3.
+Pengujian perbedaan pola keuangan
+pada status BHMN dan BLU di IPB dianalisis
+menggunakan analisis ragam (Tabel 4).
+Hasil analisis menunjukkan bahwa pola
+pengelolaan keuangan IPB sebelum dan
+setelah diterapkannya BLU tidak berbeda
+(p-value>0,05). Hasil penelitian ini mendukung
+penelitian Maharani et al. (2013)
+yang menunjukkan bahwa tidak terdapat
+perbedaan kinerja keuangan antara sebelum
+dan sesudah penerapan Pola Pengelolaan
+Keuangan Badan Layanan Umum (PKBLU).
+Meskipun tidak terdapat perbedaan
+yang signifikan pada pengelolaan keuangan
+IPB sebelum dan sesudah BLU, namun hasil
+rataan) dari 9 parameter yang diamati
+menunjukkan bahwa rasio keuangan IPB
+setelah menerapkan BLU lebih baik dibandingkan
+dengan sebelum menerapkan
+BLU dapat dilihat pada tabel 3. Hal ini
+dapat dilihat dari 9 parameter yang diamati,
+7 parameter mengindikasikan pengelolaan
+keuangan yang lebih baik. Sementara penurunan
+hanya terjadi pada rasio belanja
+modal dan rasio solvabilitas, namun penurunan
+tersebut masih dalam kondisi baik
+dan solvabel. Hasil tersebut perlu dipertahankan
+dan ditingkatkan agar pengelolaan
+keuangan IPB semakin lebih baik. Hal ini
+sesuai dengan Wijayanti dan Sriyanto (2015)
+yang menyatakan bahwa dengan adanya
+fleksibilitas dalam pengelolaan keuangan
+BLU diharapkan dapat meningkatkan
+kinerja pelayanan dan kinerja keuangan
+sehingga institusi mampu memberikan
+pelayanan yang optimal.
+
+
+
+Pengaruh Employee Engagement dan
+Pemanfaatan Teknologi Informasi terhadap
+Ketepatan Waktu
+Laporan keuangan yang baik adalah
+laporan keuangan yang berkualitas dan
+dilaporkan dengan tepat waktu. Kualitas
+dan ketepatan waktu pelaporan keuangan
+sangat dipengaruhi oleh beberapa faktor,
+seperti sumber daya manusia dan teknologi
+informasi yang digunakan. Kemampuan
+sumber daya manusia ini dapat digambarkan
+dengan employee engagement. Data
+employee engagement, pemanfaatan teknologi
+informasi, dan ketepatan waktu pelaporan
+keuangan diperoleh dari hasil jawaban
+kuesioner responden. Profil responden yang
+diteliti dapat dilihat pada Tabel 5.
+Analisis pengaruh employee engagement
+dan pemanfaatan teknologi informasi terhadap
+ketepatan waktu laporan keuangan
+dilakukan dengan menggunakan analisis
+regresi berganda. Persamaan yang diperoleh
+adalah:
+KW = 0,42 + 0,11 ee + 0,81 Pti + ε
+Persamaan regresi linear berganda di
+atas dapat diartikan bahwa konstanta sebesar
+0,42 menyatakan tanpa ada pengaruh
+dari dua variabel independen dan faktor
+lain, maka variabel ketepatan waktu laporan
+keuangan (KW) pada IPB adalah 0,42.
+Koefisien regresi variabel employee engagement
+0,11 (positif). Hal ini berarti setiap
+terjadi kenaikan employee engagement akan
+meningkatkan ketepatan waktu laporan
+keuangan sebesar 0,11 tanpa dipengaruhi
+faktor lainnya. Koefisien regresi variabel
+pemanfaatan teknologi informasi 0,81 (positif).
+Hal ini berarti setiap terjadi kenaikan
+pemanfaatan teknologi informasi akan meningkatkan
+ketepatan waktu laporan keuangan
+sebesar 0,81 tanpa dipengaruhi
+faktor lainnya.
+
+Berdasarkan analisis regresi dari hasil
+kuesioner, diketahui bahwa employee engagement
+dan pemanfaatan teknologi informasi
+memengaruhi ketepatan waktu pelaporan
+keuangan (Tabel 6; p-value <0,05). Uji parsial
+(t-test) dilakukan untuk memastikan variabel
+yang benar-benar memengaruhi ketepatan
+waktu. Hasil uji ditampilkan pada Tabel
+7 dan hasil perhitungan menunjukkan bahwa
+hanya pemanfaatan teknologi informasi
+yang benar-benar mampu menjelaskan
+variabel ketepatan waktu (p-value<0,05).
+Hasil penelitian ini sesuai dengan penelitian
+Darwais (2009), Andriani (2010), Nurillah
+(2012), Hullah (2012), Hanafi (2013), Mahaputra
+(2014) dan Saleh (2014) yang menyatakan
+bahwa pemanfaatan teknologi
+informasi berpengaruh signifikan terhadap
+ketepatan waktu pelaporan keuangan.
+Hasil analisis ini menunjukkan bahwa
+IPB perlu meningkatkan employee engagement
+SDM keuangan yang diperkuat dengan
+perbaikan teknologi informasi dalam
+rangka meningkatkan ketepatan waktu
+laporan keuangan. Perkembangan teknologi
+informasi berpengaruh terhadap bidang
+akuntansi manajemen selaku bidang penghasil
+informasi dalam rangka perencanaan,
+pengendalian, dan pengambilan keputusan
+manajemen (Maharsi 2000).
+
+
+Employee Engagement SDM Keuangan
+Institut Pertanian Bogor
+Hasil analisis menunjukkan bahwa nilai
+employee engagement score untuk SDM keuangan
+IPB secara umum adalah sebesar
+4,32 (Tabel 8). Hal ini menunjukkan bahwa
+employee engagement SDM keuangan IPB
+masih dalam kategori sedang, sehingga
+masih perlu ditingkatkan. Hasil penelitian
+ini sesuai dengan penelitian Lubis (2012)
+yang menyatakan bahwa tingkat employee
+engagement di PT XYZ berada dalam posisi
+sedang dengan nilai employee engagement
+sebesar 4,41. Jika dilihat dari masing-masing
+dimensi, maka dimensi dedication lebih
+tinggi dibandingkan dimensi vigor dan
+absorption yaitu sebesar 4,42. Hal ini menunjukkan
+bahwa SDM keuangan IPB telah
+memiliki dedikasi cukup tinggi ditandai
+dengan keterlibatan penuh dalam pekerjaannya
+serta merasakan kepentingan, antusiasme, inspirasi, kebanggaan, dan tantangan
+dalam pekerjaannya. Hasil penelitian ini
+mendukung penelitian Yadnyawati (2012)
+yang menunjukkan bahwa dari ketiga
+dimensi employee engagement, dedication
+paling menonjol. Urutan berikutnya adalah
+vigor dan absorption.
+Berdasarkan hasil pengujian employee
+engagement, engagement antara SDM keuangan
+dengan IPB sudah terbangun dengan
+baik walau masih dalam posisi sedang.
+Hal ini memberikan gambaran bahwa
+IPB berpeluang tinggi untuk meningkatkan
+engagement antara SDM keuangan dengan
+IPB. Hasil penelitian ini mendukung secara
+empiris studi yang dilakukan oleh Yuniati
+dan Arijanto (2012) dalam penelitiannya
+yang menyatakan bahwa para dosen dan
+pegawai non akademik belum mencapai
+tingkat engaged yang tinggi. Hal ini dikarenakan
+para dosen dan pegawai non
+akademik belum memiliki kesediaan yang
+sangat tinggi untuk berkontribusi secara
+positif di Institut. Institusi harus berusaha
+membentuk pola pikir dan membuat SDM
+selalu berkontribusi dengan baik (Utoro dan
+Gustomo 2014). Meningkatnya engagement
+akan meningkatkan produktivitas kinerja
+dari SDM keuangan. Salah satu faktor penggerak
+utama employee engagement adalah
+adanya keselarasan antara kinerja karyawan
+dan kinerja perusahaan serta adanya pemahaman
+yang jelas oleh SDM mengenai
+perannya terhadap kinerja perusahaan
+(Siddhanta dan Roy 2010).
+Jika ditinjau dari masing-masing individu
+SDM keuangan, diketahui bahwa 61%
+sudah memiliki employee engagement
+yang tinggi, meskipun 36% masih dalam
+kategori sedang dan 3% masih dalam
+kategori rendah dapat dilihat pada Gambar
+3. Hasil pengujian ditinjau dari masingmasing
+individu SDM keuangan, diketahui
+bahwa 61% sudah memiliki employee
+engagement yang tinggi, hal tersebut akan
+meningkatkan kinerja SDM keuangan IPB.
+Tingginya engagement dapat meningkatkan
+bakat karyawan, kesetiaan pelanggan, dan
+kinerja perusahaan (Swarnalatha dan Prasanna
+2013). Dampak dari SDM keuangan
+IPB memiliki rasa keterikatan yang tinggi
+adalah SDM keuangan akan memberikan masukan-masukan yang bagus untuk kemajuan
+IPB dan rekan kerjanya, tetap
+bekerja di IPB walaupun ada peluang untuk
+bekerja ditempat lain, dan memberikan
+lebih banyak waktu untuk berkontribusi
+demi kesuksesan IPB. Peran strategis SDM
+harus diberikan perhatian serius untuk memastikan
+tingkat keterikatan antar karyawan
+(Johari et al. 2013).
+Berikut merupakan uraian jawaban
+responden per dimensi employee engagement:
+
+
+Dimensi Vigor
+
+
+
+Dimensi vigor pada item pertanyaan
+kuesioner UWES terdiri dari 6 pertanyaan
+(Tabel 2), yaitu pertanyaan Nomor 1, 4, 8,
+12, 15, dan 17. Secara umum jawaban dari
+responden paling banyak adalah sering dan
+jawaban tertinggi terdapat pada pertanyaan
+Nomor 8 (ketika saya bangun di pagi hari,
+saya merasa bersemangat ingin berangkat
+kerja). Jawaban tersebut terdiri dari 8 orang
+staf keuangan dan 44 orang BPP. Hal ini
+menunjukkan bahwa SDM keuangan hanya
+bersemangat 1 kali dalam seminggu. Satu di
+antara responden menjawab tidak pernah
+pada pertanyaan nomor 12 (saya dapat
+terus bekerja dalam waktu yang lama) yaitu
+staf keuangan, hal ini menunjukkan bahwa
+SDM keuangan tersebut tidak bersemangat
+untuk bekerja yang disebabkan oleh pekerjaaan
+yang monoton dan berulang-ulang
+sehingga mengakibatkan kejenuhan dan
+berkurangnya motivasi dalam bekerja. SDM
+keuangan tersebut menginginkan perubahan
+karena telah bekerja dalam jangka
+waktu yang lama, sehingga merasa sudah
+tidak ada tantangan dalam pekerjaannya.
+Jika dilihat dari jawaban scoring tertinggi
+yaitu selalu, jawaban tertinggi terdapat
+pada pertanyaan Nomor 17 (dalam bekerja,
+saya pantang menyerah, bahkan ketika
+sesuatu tidak berjalan dengan baik). Jawaban
+tersebut terdiri dari 7 orang staf keuangan
+dan 24 orang BPP. Hal ini menunjukkan
+bahwa SDM keuangan IPB bekerja dengan
+penuh keyakinan, semangat, pantang menyerah,
+dan ulet. Dengan merasa pantang
+menyerah dalam bekerja maka akan membangkitkan
+dorongan dalam diri SDM keuangan
+yang akan membangkitkan, mengarahkan,
+dan memelihara perilaku berdasarkan
+lingkungan kerja yang kemudian
+diimplementasikan kepada orang lain untuk
+memberikan pelayanan yang baik.
+Item pertanyaan pada kuesioner UWES
+untuk dimensi dedication terdiri dari 5 pertanyaan (Tabel 2) yaitu pertanyaan Nomor
+2, 5, 7, 10, dan 13. Secara umum
+jawaban responden paling banyak adalah
+sering dan tertinggi terdapat pada pertanyaan
+Nomor 7 (pekerjaan saya menginspirasi
+saya) terdiri dari 9 orang staf keuagan
+dan 46 orang BPP, hal ini menunjukkan
+bahwa SDM keuangan hanya memiliki
+inspirasi dalam bekerja 1 kali dalam seminggu.
+Ada 8 SDM keuangan yang menjawab
+tidak pernah, pada semua pertanyaan
+dimensi dedication (pekerjaan yang memiliki
+arti dan tujuan, merasa antusias, pekerjaan
+yang menginspirasi, bangga dengan pekerjaannya,
+dan pekerjaan yang menantang).
+Jawaban tersebut terdiri dari 1 orang
+staf keuangan dan 7 orang BPP. Hal ini dikarenakan
+pekerjaan yang monoton mengakibatkan
+kejenuhan dan turunnya motivasi
+SDM keuangan sehingga tidak memiliki
+ide-ide kreatif dalam bekerja sehingga menyebabkan
+SDM keuangan sulit untuk bersaing.
+SDM keuangan tersebut tidak memiliki
+arti dan tujuan dalam mengubah
+sikap dan perilaku yang dapat meningkatkan
+produktivitas kerja dalam menghadapi
+tantangan. Disamping itu mengindikasikan
+SDM keuangan tersebut tidak mengerti
+peran dan fungsinya dalam bekerja. Mereka
+hanya memberikan upaya minimum dalam
+bekerja sehingga sulit ikut berperan serta
+secara maksimal dalam mencapai tujuan
+organisasi. Dilihat dari scoring tertinggi
+yakni selalu, jawaban tertinggi terdapat
+pada pertanyaan Nomor 2 (saya merasa
+pekerjaan yang saya lakukan memiliki arti
+dan tujuan tersendiri bagi saya) terdiri dari
+8 orang staf keuangan dan 30 orang BPP.
+Hal ini menunjukkan SDM keuangan tersebut
+memiliki alasan tertentu yang menyakinkan
+SDM keuangan untuk bertahan
+dalam menjalankan pekerjaannya. SDM
+keuangan IPB tersebut memiliki ide-ide
+kreatif dalam bekerja dan terus mengembangkan
+potensi yang dimilikinya sehingga
+akan menghasilkan motivasi dan
+kebahagiaan dalam melakukaan pekerjaannya.
+Inspirasi akan memberikan tambahan
+ide dalam suatu keadaan yang penting
+dan akan memberikan cara untuk melalui
+masalah-masalah yang terjadi dalam pekerjaannya.
+Item pertanyaan pada kuesioner UWES
+untuk dimensi absorption terdiri dari 6 pertanyaan
+(Tabel 2) yaitu pertanyaan Nomor
+3, 6, 9, 11, 14, dan 16. Secara umum jawaban
+responden paling banyak adalah sering dan
+tertinggi terdapat pada pertanyaan Nomor
+11 (saya larut dalam pekerjaan saya) terdiri
+dari 8 orang staf keuangan dan 38 orang
+BPP, hal ini menunjukkan bahwa SDM
+keuangan hanya larut dalam bekerja 1 kali
+dalam seminggu. Ada 14 SDM keuangan
+yang menjawab tidak pernah, pada pertanyaan
+Nomor 6 terdiri dari 3 orang staf
+keuangan dan 4 orang BPP, Nomor 14 terdiri
+dari 2 orang staf keuangan, dan Nomor
+16 terdiri dari 1 orang staf keuangan dan 4
+orang BPP (keasyikan, terbawa suasana,
+dan sulit melepaskan diri). Hal ini mengindikasikan
+SDM keuangan tersebut merasa
+bosan dengan pekerjaan dan lingkungan
+yang monoton serta kurangnya fasilitas
+kerja sehingga tidak memiliki motivasi
+dalam bekerja. SDM keuangan tersebut
+merasakan waktu yang lama dalam bekerja
+dan merasakan lingkungan yang tidak nyaman.
+Mereka bekerja hanya untuk menyelesaikan
+tugas. Dilihat dari scoring tertinggi
+yakni selalu, jawaban tertinggi terdapat
+pada pertanyaan Nomor 3 (waktu
+berlalu dengan cepat saat saya bekerja). Hal
+ini menunjukkan beberapa SDM keuangan
+tersebut merasakan suasana hati yang baik
+saat bekerja, sehingga menjadikan lebih
+kreatif dan dapat menghasilkan banyak ide
+serta cenderung mengidentifikasi lebih banyak
+kreatif terhadap masalah. SDM keuangan
+tersebut sangat menikmati pekerja
+annya. Perasaan senang akan mengalami
+perubahan dalam berpikirnya, tindakan
+yang dilakukan, dan perasaan yang dirasakannya.
+Bekerja dengan perasaan senang
+akan mampu menghasilkan tujuan yang
+diinginkan dan mencapai kesuksesan.
+
+
+SIMPULAN DAN SARAN
+Simpulan
+Berdasarkan pembahasan yang dilaku
+kan sebelumnya maka simpulan yang Pe
+nulis sampaikan sebagai berikut: (1) Tidak
+terdapat perbedaan yang signifikan pada
+pengelolaan keuangan IPB sebelum dan
+sesudah diterapkannya PPK-BLU (p-value > 0,05); (2) Faktor yang memengaruhi ketepatan
+waktu laporan keuangan adalah
+employee engagement dan pemanfaatan
+teknologi informasi (p-value < 0,05) dan
+faktor yang benar-benar memengaruhi
+ketepatan waktu laporan keuangan adalah
+pemanfaatan teknologi informasi; (3) Nilai
+employee engagement SDM keuangan IPB
+masuk dalam kategori sedang dengan skor
+4,32. Skor untuk masing-masing dimensi
+adalah vigor (4,34), dedication (4,42), dan
+absorption (4,21).

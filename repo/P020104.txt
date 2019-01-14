@@ -1,0 +1,77 @@
+﻿ABSTRAK
+Diagnosis secara non invasif dilakukan dengan menggunakan alat bantu pencitraan medis. Alat bantu pencitraan medis yang umum digunakan antara lain masih bersifat invasive, penggunaan sinar-X yang dapat memberikan efek negatif pada jaringan, serta membutuhkan sistem yang kompleks.
+Oleh karena itu dibutuhkan suatu perancangan dan pembuatan alat yang aman dan relatif sederhana sebagai alat bantu pencitraan. Pada penelitian ini telah dibangun sebuah rancang bangun perangkat keras Electrical Impedance Tomography (EIT) 16 elektroda. Metode yang digunakan adalah dengan menginjeksikan arus listrik bolak-balik (AC) pada objek dimana pada penelitian ini menggunakan objek berupa phantom. Pengukuran perbedaan tegangan kemudian dilakukan dengan menggunakan metode berpasangan atau adjacent pada elektroda yang berdekatan. Hasil perbedaan tegangan tersebut selanjutnya dikirim ke komputer melalui komunikasi serial RS-232. Program rekonstruksi citra berfungsi untuk mengolah hasil perbedaan tegangan antar elektroda menjadi sebuah informasi citra dimana pada penelitian ini menggunakan metode Filtered Back Projection.
+Hasil dari penelitian menunjukkan bahwa perangkat keras EIT beserta sistem akuisisi datanya telah bekerja dengan baik dengan frekuensi yang dihasilkan sebesar 52,23 kHz, keluaran arus sebesar 1,192 mA, serta mikrokontroler telah mampu mengotomatisasi kerja dari multiplekser saat injeksi arus dan pengukuran tegangan dengan jumlah data perbedaan tegangan yang dihasilkan untuk 16 kali injeksi arus adalah 256 data.
+Keywords : Electrical Impedance Tomography, Phantom, Injeksi Arus, Perbedaan Tegangan, Metode Berpasangan.
+
+
+
+BAB I
+PENDAHULUAN
+1.1 Latar Belakang
+Teknologi dalam bidang kesehatan saat ini telah mengalami kemajuan yang
+pesat. Teknologi tersebut digunakan untuk mendukung kebutuhan manusia untuk
+mengetahui kondisi organ dalam tubuh yang dapat dilakukan dengan diagnosis
+secara non invasif. Dalam dunia medis, diagnosis secara non invasif dilakukan
+dengan menggunakan alat bantu pencitraan medis. Alat bantu pencitraan medis
+yang umum digunakan antara lain mamografi, utrasonografi (USG), Magnetic
+Resonance Imaging (MRI), Single Photon Emission Computed Tomography
+(SPECT), dan Positron Emission Tomography (PET).
+Prinsip kerja dari beberapa alat tersebut bersifat invasive. Sebagai contoh
+SPECT dan PET yang bekerja dengan cara memasukkan sumber radioaktif ke
+pembuluh darah dan mengalirkannya pada jaringan tubuh. Kemudian radiasi dari
+sumber radioaktif tersebut akan diterima oleh detektor yang selanjutnya dilakukan
+rekontruksi citra sehingga menghasilkan citra (Syeh, 2011). Pemeriksaan
+menggunakan mamografi ini bersifat merusak karena menggunakan sinar-X yang
+dapat mempengaruhi fungsi fisiologis jaringan (Zhao, 2010). Untuk alat-alat yang
+tidak bersifat invasive seperti USG memiliki kekurangan jika gelombang
+ultrasound mengenai tulang dan perbatasan rongga-rongga yang mengandung gas,
+gelombang ultrasound tidak bisa ditembus atau akan dipantulkan. Sedangkan
+pemeriksaan menggunakan MRI membutuhkan medan magnet yang sangat kuat hingga sebesar 1,5 tesla atau sekitar 30.000 kali kekuatan medan magnet bumi.
+Sehingga untuk membangkitkan medan magnet serta mendeteksi radio frekuensi
+yang dihasilkan pada MRI diperlukan sistem yang kompleks (Blanco, et al., 2005).
+Besaran listrik berupa konduktivitas dan resistivitas merupakan hal yang
+menarik dalam aplikasi medis dikarenakan jaringan tubuh yang berbeda memiliki
+besaran listrik yang berbeda pula (Cheney, et al., 1999). Salah satu sistem
+pencitraan yang didasarkan pada besaran listrik adalah Electrical Impedance
+Tomography (EIT) atau yang disebut dengan tomografi impedansi listrik.
+Tomografi impedansi listrik telah banyak digunakan dalam beberapa aplikasi
+seperti kontrol kualitas, deteksi cacat pada berbagai bahan, analisis aliran fluida
+multikomponen, dan eksplorasi geologi (Nejatali dalam Ain, 2012).
+Tomografi impedansi listrik merupakan suatu metode pencitraan
+berdasarkan pengukuran distribusi resistivitas listrik berdasarkan hasil pengukuran
+perbedaan tegangan yang terjadi pada bidang batas objek (Setiyanto, 2011). Pada
+tomografi impedansi listrik, arus listrik bolak-balik diinjeksikan melalui sepasang
+elektroda dan pengukuran perbedaan tegangan dilakukan pada sepasang elektroda
+yang lainnya. Selanjutnya data perbedaan tegangan tersebut diolah pada proses
+rekontruksi citra sehingga diperoleh citra internal objek.
+Tomografi impedansi listrik memiliki beberapa kelebihan yakni tidak
+menggunakan radiasi pengion atau elektromagnetik, sederhana dan relatif murah,
+mudah dijinjing, serta memungkinkan untuk digunakan secara real time yang
+sangat sesuai untuk kebutuhan monitoring dalam dunia medis (Noor dalam Ain,
+2014). Sehingga apabila digunakan sebagai media pencitraan dalam diagnosis medis, penggunaan tomografi impedansi listrik diharapkan relatif lebih aman dibandingkan dengan menggunakan media pencitraan lainnya. Penelitian mengenai tomografi impedansi listrik yang telah dilakukan oleh Vidya Sarode, et al., pada tahun 2002 menggunakan konfigurasi berjumlah 16 elektroda dan dipasang mengelilingi objek secara sirkular. Akan tetapi pengambilan data perbedaan tegangan sebanyak 256 data belum terotomatisasi atau masih dilakukan secara manual yakni pengukuran dilakukan dengan menggunakan multimeter. Jumlah pengambilan data yang sangat banyak pada konfigurasi 16 elektroda merupakan alasan diperlukannya suatu perangkat akuisisi data tomografi impedansi listrik yang mampu melakukan pengambilan data secara otomatis serta untuk mengurangi kesalahan pengambilan data yang terjadi akibat adanya perubahan distribusi resistivitas dalam objek. Sehingga pada tugas akhir ini dilakukan perancangan dan pembuatan perangkat keras tomografi impedansi listrik dengan konfigurasi 16 elektroda beserta sistem akuisisi data yang berbasis mikrokontroler dalam skala laboratorium dengan menggunakan objek phantom. Penggunaan mikrokontroler berfungsi untuk melakukan kontrol digital pada multiplekser dan demultiplekser saat proses injeksi arus dan pengukuran tegangan sehingga sistem akuisisi data pada perangkat keras tomografi impedansi listrik dapat bekerja secara terotomatisasi. Pengiriman data perbedaan tegangan ke komputer pada penelitian ini dilakukan dengan menggunakan komunikasi serial RS-232.
+
+1.2 Rumusan Masalah
+Berdasarkan dari uraian latar belakang diatas, maka rumusan masalah pada
+penelitian ini antara lain:
+1. Bagaimanakah rancang bangun perangkat keras Electrical Impedance
+Tomography (EIT) 16 elektroda beserta sistem akuisisi datanya?
+2. Bagaimanakah kinerja dari rancang bangun perangkat keras Electrical
+Impedance Tomography (EIT) 16 elektroda beserta sistem akuisisi datanya?
+1.3 Batasan Masalah
+Untuk memudahkan penelitian sehingga permasalahan tidak meluas dan
+menyimpang dari tujuan, maka penulis membatasi masalah sebagai berikut:
+1. Jumlah elektroda yang digunakan adalah 16 elektroda.
+2. Program rekontruksi citra menggunakan metode Filtered Back Projection
+yang telah dikembangkan oleh peneliti sebelumnya.
+3. Objek pengukuran menggunakan medium air dan anomali berupa
+polipropilena (PP) dengan diameter sebesar 5,5 cm.
+1.4 Tujuan Penelitian
+Berdasarkan pada rumusan masalah, maka tujuan dari penelitian ini adalah
+sebagai berikut:
+1. Membangun perangkat keras Electrical Impedance Tomography (EIT) 16
+elektroda beserta sistem akuisisi datanya.
+2. Mengetahui kinerja dari perangkat keras Electrical Impedance Tomography
+(EIT) 16 elektroda beserta sistem akuisisi datanya.
+
+1.5 Manfaat Penelitian Manfaat yang dihasilkan dari penelitian ini adalah terwujudnya sebuah perangkat keras Electrical Impedance Tomography (EIT) 16 elektroda beserta sistem akuisisi datanya.

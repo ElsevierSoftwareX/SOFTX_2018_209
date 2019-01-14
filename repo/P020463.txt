@@ -1,0 +1,84 @@
+﻿Analisis intervensi merupakan salah satu analisis dalam deret waktu untuk
+memodelkan data deret waktu yang mengalami suatu kejadian intervensi dengan
+waktu kejadian diketahui. Suatu kejadian yang dialami data deret waktu dapat
+mempengaruhi secara signifikan atau tidak signifikan terhadap perilaku data deret
+waktu. Secara umum, ada dua macam fungsi dalam analisis intervensi, yaitu fungsi
+step dan fungsi pulse. Penelitian ini bertujuan untuk menganalisa dan meramalkan
+dampak kejadian intervensi yang dialami data Indeks Harga Konsumen (IHK) Kota
+Bandar Lampung Januari 2009 – Januari 2016 dengan analisis intervensi fungsi
+step. Model terbaik untuk meramalkan data IHK Kota Bandar Lampung Januari
+2009 –Januari 2016 adalah ARIMA (1,1,0) sebagai model sebelum intervensi dan
+orde respon intervensi 𝑏 = 0, 𝑠 = 2, 𝑟 = 0. Hasil peramalan pada data IHK
+menunjukkan bahwa peramalan yang diperoleh signifikan untuk periode enam
+bulan kedepan dari data terakhir dan galat peramalan bersifat acak.
+Kata Kunci : ARIMA, Analisis Intervensi Fungsi Step, IHK Kota Bandar
+Lampung.
+
+I. PENDAHULUAN
+1.1 Latar Belakang dan Masalah
+Sekumpulan data yang diperoleh dari hasil penelitian atau observasi pada periode
+waktu tertentu dikenal sebagai data deret waktu. Data deret waktu ini bersifat saling
+berkorelasi antar variabelnya yang artinya data pada masa saat ini dan yang akan
+datang dipengaruhi oleh data pada masa lalu. Sehingga, data deret waktu ini
+digunakan untuk data dalam peramalan. Ramalan adalah suatu kondisi yang
+diperkirakan akan terjadi pada masa yang akan datang.
+Dalam analisisnya, data deret waktu memiliki beberapa metode peramalan,
+diantaranya Autoregressive (AR), Moving Avergae (MA), Autoregressive Moving
+Avergae (ARMA), dan Autoregressive Integrated Moving Avergae (ARIMA).
+ARIMA sering juga disebut sebagai model Box-Jenkins karena dikembangkan oleh
+George EP Box dan Gwilym M Jenkins (1976). Data deret waktu memiliki
+karakteristik khusus, yaitu stasioneritas yang artinya residual bersifat
+homoskedastisitas, tidak berkorelasi antar residual satu dengan yang lainnya, dan
+tidak ada korelasi antar varibel independen yang satu dengan yang lainnya.
+
+Data Indeks Harga Konsumen (IHK) mengalami kejadian internal, yaitu berupa
+kebijakan pemerintah terhadap penetapan harga tahun dasar yang baru untuk data
+IHK. Observasi awal yang kami lakukan terhadap data IHK dalam kurun waktu
+Januari 2009 - Januari 2016 dengan menggunakan plot deret waktu.
+
+Pada Januari 2014 data mengalami penurunan yang drastis sehingga secara visual
+terlihat bahwa kejadian perubahan harga tahun dasar mempengaruhi data.
+Dilakukan pula analisis deret waktu dengan metode Box-Jenikins untuk observasi
+awal. Saat pengujian kestasioneran data, maka data tidak stasioner pada nilai tengah
+maupun pada varians.
+
+Data kemudian distasionerkan dengan transformasi yaitu 1/zt data dan diferensiasi
+satu kali. Setelah data ditransformasi diperoleh data stasioner pada varians dan juga
+diperoleh data stasioner pada nilai tengah setelah diferensiasi satu kali. Selanjutnya
+penentuan order ARIMA (p, d, q). Saat order telah ditentukan dan diestimasi tidak
+ada satu pun order dari yang terkecil sampai order ARIMA (4,1,4) yang penduganya
+yang signifikan, bahkan dengan bantuan R best order yang diperoleh adalah (0,1,0).
+Pada evaluasi model pun model yang diperoleh tidak memadai baik pada uji
+independensi maupun kenormalannya, maka data IHK ini tidak dapat dilakukan
+peramalan dengan menggunakan model ARIMA.
+Terkadang data deret waktu mengalami kejadian pada waktu yang diketahui
+sehingga data sebelum terjadi kejadian tersebut kondisinya terpengaruh signifikan
+ataupun tidak signifikan saat dan setelah kejadian, yang disebut kejadian intervensi.
+Teknik untuk mengevaluasi kejadian intervensi ini disebut dengan analisis
+intervensi. Analisis intervensi dapat memberikan solusi terhadap persoalan data
+deret waktu terkait dengan adanya pengaruh kejadian eksternal atau internal
+terhadap data. Secara umum, ada dua macam fungsi dalam analisis intervensi, yaitu
+fungsi step dan fungsi pulse. Sebuah pendekatan yang dapat dilakukan untuk
+mengetahui perubahan IHK yang dipengaruhi kejadian intervensi adalah dengan
+menganalisa kejadian yang terjadi signifikan atau tidak signifikan. Untuk
+menunjukan bahwa dugaan terhadap data IHK telah mengalami intervensi maka
+diperlukan penelitian. Berkaitan dengan penelitian ini akan diduga parameter pada
+model intervensi serta meramalkan data deret waktu dengan mempertimbangkan
+faktor intervensi terhadap data indeks harga konsumen (IHK) Kota Bandar
+Lampung periode Januari 2009 - Januari 2016.
+1.2 Batasan Masalah
+Permasalahan pada penelitian ini dibatasi pada model intervensi dengan fungsi step
+dan aplikasi pada data Indeks Harga Konsumen (IHK) Kota Bandar Lampung
+Januari 2009 - Januari 2016.
+1.3 Tujuan Penelitian
+Penelitian ini bertujuan memaparkan langkah-langkah model intervensi Box-Tiao
+berkenaan dengan sebuah intervensi berpeubah fungsi step. Selain itu, juga
+menganalisa dan meramalkan dampak dari kejadian intervensi yang dilakukan pada
+perubahan tahun dasar IHK Kota Bandar Lampung mulai periode Januari 2014
+hingga Januari 2016 yang menggunakan analisis intervensi dengan fungsi step.
+1.4 Manfaat Penelitian
+Penelitian ini memberikan manfaat selain dapat digunakan sebagai referensi bagi
+penelitian tingkat lanjut berkaitan dengan analisis intervensi dengan fungsi step
+untuk data yang mengalami kejadian intervensi, juga dapat menjadi acuan
+kebijakan Pemerintah Kota Bandar Lampung sehubungan dengan perkembangan
+kenaikan harga-harga kebutuhan rumah tangga.

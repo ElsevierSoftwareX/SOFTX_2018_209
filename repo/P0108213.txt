@@ -1,0 +1,329 @@
+﻿PREDIKSI PERKEMBANGAN LAHAN PERMUKIMAN
+TERHADAP KERENTANAN BENCANA BANJIR DAN
+KEBAKARAN DI PERMUKIMAN TEPIAN SUNGAI
+KAPUAS KOTA PONTIANAK
+
+Abstrak: Permukiman rumah panggung di Kecamatan Pontianak Timur terletak pada muara
+percabangan Sungai Kapuas dan Sungai Landak. Penelitian ini dilakukan untuk mengetahui
+perubahan guna lahan permukiman tahun 2003-2014, memprediksi lahan permukiman tahun
+2020 dan mengetahui korelasi kerentanan bencana terhadap prediksi perkembangan lahan
+permukiman di tepian Sungai Kapuas. Metode penelitian ini menggunakan teknik kuantitatif-
+SIG yang mengintegrasikan analisis regresi logistik biner dan CA-Markov. Data yang
+digunakan adalah citra satelit Quickbird 2003, IKONOS 2008 dan data elevasi kontur interval
+1 meter. Hasil penelitian menunjukkan akurasi prediksi sebesar 79,74% dan indeks kappa
+tertinggi sebesar 0,55. Hasil prediksi luas lahan permukiman sebesar 481,98 Ha pada tahun
+2020 yang menunjukkan ekspansi lahan tertinggi di Kelurahan Parit Mayor dan peningkatan
+lahan permukiman sebesar 6,80 Ha/tahun (2014-2020). Hasil analisis regresi memiliki
+koefisien 0 pada variabel banjir, artinya bencana banjir tidak berpengaruh terhadap
+perkembangan lahan permukiman di Kecamatan Pontianak Timur.
+Kata kunci: prediksi; lahan permukiman; kerentanan bencana; rumah panggung.
+
+PENDAHULUAN
+Perubahan iklim dan dampaknya terhadap lingkungan, ekonomi, sosial, budaya dan
+keamanan merupakan isu yang semakin berkembang sejak lama. Di perkotaan, perubahan
+iklim berkaitan dengan proses dan transformasi pada ekonomi global, migrasi, urbanisasi,
+keragaman populasi, keterpaparan dan kerentanan. Wilayah pesisir adalah daerah yang
+paling rentan terhadap perubahan iklim. Peningkatan muka air laut akan menimbulkan
+banjir genangan, cuaca ekstrim dan pengikisan lahan pesisir.
+Fenomena perubahan iklim global diantaranya akibat dari kenaikan permukaan laut
+yang menimbulkan risiko serius bagi zona pesisir, habitat dan sumber daya merupakan
+masalah yang banyak dihadapi masyarakat pesisir di negara berkembang (Sales 2009;
+Jabareen 2013; Nema et al. 2012). Perubahan iklim adalah pergeseran yang mengubah
+komposisi atmosfer global, yang disebabkan secara langsung atau tidak langsung dari
+kegiatan manusia (IPCC 2002; Laukkonen et al. 2009); UNFCC dalam Satarm 2012; UU
+Nomor 30 Tahun 1999).
+Perkembangan kota khususnya di negara kepaulauan memiliki bentuk keruangan
+yang beragam diantara keruangan kota berbasis air seperti laut, danau, pantai, pesisir,
+sungai dan rawa. Format keruangan tersebut umumnya berada di kota besar di Indonesia
+yang berada di tepian laut dan sungai, dimana secara historis kawasan embrional di tepian
+air berperan penting dalam perkembangan kota menjadi kota besar. Salah satunya elemen
+embrio tradisional pembentukan ruang kota perairan di Pontianak, dimana formasi kotanya
+berbasis sungai yang perluasan kota umumnya menuju daratan dimana secara historis pola
+keruangan kawasan kerajaan dan nelayan dengan kawasan kolonial Belanda merupakan
+kawasan baru yang terpisah (Mentayani et al. 2013).
+Menurut laporan IPCC ke-4 menyebutkan bahwa perubahan muka air laut rata-rata
+selama abad 20 adalah 0,17 (0,12-1,22) meter dan diproyeksikan akan meningkat hingga
+0,59 (0,18-0,59) meter pada tahun 2100. Ketinggian muka air laut rata-rata 0,59 meter
+tersebut merupakan batas pasang tertinggi saat ini (IPCC 2007). Fakta tersebut
+menunjukkan bahwa kenaikan muka air laut rata-rata telah diprediksikan tersebut akan
+menjadi ancaman bagi hampir semua lahan pesisir terutama yang berelevasi rendah.
+Kota yang kompleks terutama di negara berkembang, sering menunjukkan tingkat
+kerentanan yang tinggi terhadap bencana, karena mereka memiliki konsentrasi pusat
+kegiatan, ketergantungan infrastruktur, perekonomian, kemiskinan dan persaingan politik
+(United Nations Human Settlements Program/UNHSP, 2004). Banyak bencana terjadi di
+permukiman padat penduduk karena kegiatan manusia, ekonomi, sosial dan kerusakan
+lingkungan berdampak negatif pada pembangunan nasional dan daerah (Bash 2009).
+Indonesia adalah negara kepulauan tropis yang terdiri dari atas gugusan pulau-pulau yang
+saling dihubungkan dengan lautan. Berdasarkan hasil survey Kementrian Kelautan dan
+Perikanan (KKP) tahun 2010, jumlah pulau terdiri atas 13.000 pulau. Indonesia juga
+memiliki garis pantai terpanjang keempat di dunia yaitu 95.181 km. Konsekuensi dari
+luasnya wilayah kepesisiran adalah tidak terlepas dari ancaman bahaya.
+Keragaman geomorfologi dan intensitas permukiman merupakan dasar dalam
+menentukan perubahan di daerah pemukiman, sehingga setiap kawasan tepian air dan kota
+pesisir memiliki karakteristik yang berbeda, tergantung pada proses geologi yang terjadi.
+Faktor penting dalam permukiman adalah jarak dari sumber air. Dalam pola pemukiman,
+pemodelan diperlukan untuk menilai dampak banjir di permukiman tepian sungai, hal
+tersebut disebabkan karena perilaku manusia dalam mengelola sumber daya air karena dan
+kapasitas manajemen sumber air (Anunobi A.I, 2014; Jaroslaw & Hildebrandt-Radke, 2009;
+Nwilo et al., 2012; Watson & Adams, 2011).
+
+METODOLOGI
+Penelitian ini mengintegrasikan metode kuantitatif dengan Sistem Informasi
+Geografis (SIG) berbasis CA-Markov dan regresi logistik biner, dimana SIG diperlukan
+untuk mengkonversi variabel-variabel aturan transisi dalam bentuk spasial, luas lahan dan
+perhitungan matematis.
+Model selular automata umumnya digunakan untuk memprediksi pengembangan
+lahan yang merupakan proses sejarah tergantung dimana pembangunan itu dilakukan, baik
+dimasa lalu yang mungkin mempengaruhi masa depan melalui interaksi lokal antara bidang
+tanah (Wu dan Webster, 1998). Dalam CA simulasi, hasilnya dari iterasi sebelumnya
+memainkan peran penting pada hasil iterasi berturut-turut. pola global yang kompleks
+dapat dibentuk setelah banyak iterasi simulasi. Wu (1998) menjelaskan bahwa beberapa
+fitur yang tak terduga mungkin dapat muncul selama simulasi dengan benar
+mendefinisikan aturan transisi.
+Dalam konsep kerangka kerja GIS, analisis spasial lebih terfokus pada menyelidiki
+pola, atribut, dan gambaran daerah menggunakan pemodelan untuk meningkatkan
+pemahaman dan prediksi (Rustiadi, 2009). pusat distribusi spasial telah banyak dibahas
+dalam teori lokasi spasial seperti Von Thunen mana berbagai pusat memiliki efek yang
+berbeda pada pola penggunaan lahan. Dalam rangka untuk menemukan variabel yang
+relevan digunakan dalam penelitian ini, kita dapat mengacu pada pendekatan spasial dan
+ekologis (Yunus, 2010) atau apa yang disebut sebagai pendekatan regional kompleks
+dikombinasikan dengan model CA.
+Dalam menentukan transition rules sama halnya dengan menentukan faktor penarik
+dan pendorong perkembangan permukiman yang dapat ditentukan oleh sebab-sebab suatu
+daerah dapat berkembang. Hoyt (dalam Syahar, 2012) menyatakan tentang teori
+kecenderungan sektorisasi, bahwa daerah-daerah yang berpotensi untuk berkembang cepat
+(High Quality Areas) ada 10 lokasi. Akan tetapi yang terkait dengan tema penelitian ini
+diantaranya, permukiman cenderung berkembang pada jalur transportasi/ke arah pusat
+perdagangan, permukiman cenderung berkembang pada jalur transportasi yang ada dan
+permukiman cenderung berkembang pada arah yang sama dalam kurun waktu periode
+yang lama.
+Sehubungan dengan paparan diatas, maka dalam penelitian ini menggunakan
+beberapa variabel sebagai faktor pendorong perkembangan permukiman antara lain; (1)
+Jarak terhadap jalan utama; (2) Jarak terhadap jalan kolektor; (3) Kawasan potensi banjir;
+(4) Jarak terhadap Keraton Kadariah, kawasan pariwisata dan pusat pemerintahan; (5)
+Jarak terhadap pusat ekonomi dan pelayanan jasa; (6) Jarak terhadap fasilitas berupa
+rumah sakit dan perguruan tinggi; (7) Jarak terhadap utilitas berupa dermaga dan terminal
+bus; dan (8) Jarak terhadap permukiman eksisting.
+Lokasi dan Data Penelitian
+Lokasi studi dalam penelitian ini terletak di Kecamatan Pontianak Timur, Kota
+Pontianak, Provinsi Kalimantan Barat. Obyek penelitian ini adalah permukiman yang
+berada pada kawasan waterfront city dan kawasan cultural heritage Pontianak, selain itu
+salah satu kawasan permukiman dinamakan Kampung Beting di Kecamatan Pontianak
+Timur, merupakan kampung cikal bakal lahirnya Kota Pontianak (Hasanuddin, 2015).
+Peraturan kebijaksanaan Pemerintah Kota Pontianak dalam Penataan Ruang Kota
+Pontianak yang berorientasi Waterfront City (Kajian Kritis Undang-Undang Nomor
+24/1992), menjelaskan Pontianak merupakan salah satu wilaya provinsi yang merupakan
+daerah otonom yang mempunyai tipikal kota air. Kawasan permukiman dalam penelitian
+ini merujuk dari Undang-Undang Nomor 4/1992 Tentang Perumahan dan Permukiman, permukiman adalah bagian dari lingkungan hidup di luar kawasan lindung, baik yang
+berupa kawasan perkotaan maupun perdesaan yang berfungsi sebagai lingkungan tempat
+tinggal atau lingkungan hunian dan tempat kegiatan yang mendukung perikehidupan dan
+penghidupan. Adapun data yang digunakan dalam penelitian ini antara lain:
+- Citra satelit Quickbird tahun 2003 dari Google Earth
+- Citra satelit IKONOS tahun 2008 dari BAPPEDA Kota Pontianak
+- Data kontur interval 1 meter dari BAPPEDA Kota Pontianak
+Teknik Penelitian
+Penelitian ini menggunakan citra satelit unduhan dari Google Earth mengingat
+sulitnya meperoleh citra resolusi tinggi untuk wilayah kajian. Dalam penelitian Yuanita dkk
+(2013) menunjukkan citra Quickbird yang didapat dari Google Earth memiliki nilai RMSe
+yang rendah pada daerah yang relatif datar dibandingkan daerah yang relatif tinggi
+sedangkan wilayah kajian dalam penelitian ini adalah wilayah yang relatif datar pula.
+Citra satelit ini kemudian diinterpretasikan sehingga diperoleh informasi penutup
+lahannya. Klasifikasi yang digunakan adalah klasifikasi dari Danoedoro (2012) & USGS
+(2015) yang dimodifikasi. Dasar modifikasi klasifikasi tersebut adalah melihat tujuan serta
+karakteristik daerah penelitian, modifikasi dilakukan dengan membagi penutup menjadi 3
+kelas, yaitu permukiman, non-permukiman dapat dikoversi, dan non-permukiman tidak
+dapat dikonversi. Non-permukiman dapat dikoversi meliputi tutupan lahan berupa lahan
+kosong dan area vegetasi, sedangkan non-permukiman tidak dapat dikonversi meliputi
+tutupan lahan berupa tubuh air ditambah bagian dari tutupan lahan terbangun yaitu
+industri dan gedung.
+Variabel terkait jarak dalam penelitian ini dibangun dengan menggunakan analisis
+Euclidean Distance, sedangkan variabel kawasan berpotensi banjir dibangun dari DEM
+(Digital Elevation Model) yang dibuat dari data kontur interval 1 meter. Berdasarkan data
+pasang surut Sungai Kapuas dari Badan Meteorologi dan Klimatologi Kota Pontianak
+(2013) pasang tertinggi adalah 1,9 meter. Oleh karena itu dapat diasumsikan bahwa medan
+dengan ketinggian dibawah 1,9 meter adalah kawasan berpotensi banjir.
+Selain itu, dalam penelitian ini juga menambahkan variabel kepadatan bangunan.
+Bangunan yang dimaksud meliputi permukiman, gedung dan industri. Variabel ini mewakili
+salah satu faktor penghambat perkembangan permukiman di Kecamatan Pontianak Timur
+yaitu kerentanan kebakaran. Wilayah dengan bangunan yang padat memiliki kerentanan
+yang tinggi terhadap kebakaran, selain itu variabel kepadatan (Hoyt dalam Syahar, 2012)
+yaitu permukiman cenderung berkembang pada daerah yang terbuka untuk pengembangan
+selanjutnya open country dan tidak terdapat penghalang fisikal yang berarti. Variabel
+kepadatan bangunan diperoleh dengan menggunankan analisis Kernell Density.
+Dalam pembuatan model prediksi perkembangan permukiman dalam penelitian ini
+menggunakan intergrasi regresi logistik biner dengan CA Markov. Model ini digunakan
+oleh Wijaya dan Susilo (2013) dalam memprediksi perkembangan lahan terbangun di Kota
+Salatiga dengan mendapatkan overall akurasi 78,20% serta indeks kappa 0,48. Penilitian ini
+berbeda dengan penelitian Wijaya dan Susilo (2013), dalam penelitian ini tidak
+mempertimbangkan jumlah sel yang diprediksi akan berubah.
+Model CA-Markov ini menggunakan data berbasis raster, oleh karena itu semua data
+yang digunakan dalam penelitian ini dikonversi dalam bentuk raster dengan ukuran 10
+meter x 10 meter. Data tahun 2003 dan 2008 akan dijadikan dasar prediksi perkembangan
+lahan permukiman pada tahun 2014, hasil prediksi akan diuji akurasinya (ketelitiannya)
+kemudian dilakukan prediksi kembali pada tahun 2020.
+
+HASIL DAN PEMBAHASAN
+Hasil penelitian ini terbagi kedalam tiga sub judul analisis, antara lain perubahan
+lahan permukiman, prediksi perkembangan lahan permukiman, serta korelasi banjir dan
+kepadatan bangunan terhadap prediksi perkembangan lahan permukiman. Untuk lebih
+jelasnya akan diuraikan berikut ini.
+Perubahan Lahan Permukiman
+Berdasarkan hasil analisis perubahan perubahan penutup lahan tahun 2003 sampai
+2008, diketahui bahwa dalam kurun waktu tersebut terjadi peningkatan luasan permukiman
+di Kecamatan Pontianak Timur sebesar 38,49 Ha. Luas lahan permukiman di Kecamatan Pontianak Timur pada tahun 2008 yaitu 397,35 Ha yang sebelumnya adalah seluas 358,86
+Ha pada tahun 2003.
+Hasil analisis menggunakan interpolasi spasial polynomial orde 3 terhadap lokasi
+ekspansi lahan permukiman pada tahun tahun 2003 sampai 2008 di Kecamatan Pontianak
+Timur, menunjukkan pusat perkembangan lahan terbangun berada di daerah tengah dan
+timur, lebih tepatnya di Kelurahan Dalam Bugis bagian timur, Kelurahan Tanjung Hulu
+bagian selatan dan Kelurahan Saigon bagian utara. Berdasarkan hasil pengamatan, wilayah
+tersebut sebelum berubah menjadi lahan permukiman adalah berupa semak belukar dan
+kebun campuran (gambar 4).
+Analisis faktor pendorong perubahan lahan permukiman menggunakan regresi
+logistik biner antara perubahan tutupan lahan non–permukiman menjadi lahan
+permukiman tahun 2003-2008 menghasilkan persamaan regresi sebagai berikut:
+Y = -3.6640 + 0.000877*X1 - 0.000000*X2 + 0.000358*X3 + 0.000843*X4 - 0.001819*X5 +
+0.000382*X6 - 0.000505*X7 + 0.000684*X8 + 0.004674*X9 - 0.264610*X10……..….(1)
+Dimana:
+Y : Logit perubahan guna lahan dari non-permukiman ke permukiman
+X1 : Jarak terhadap sungai dan parit
+X2 : Jarak terhadap fasilitas
+X3 : Banjir
+X4 : Jarak terhadap pusat bisnis (CBD) dan pelayanan jasa
+X5 : Jarak terhadap jalan kolektor
+X6 : Jarak terhadap jalan utama
+X7 : Jarak terhadap Keraton Kadariah, pariwisata dan pemerintahan
+X8 : Jarak terhadap utilitas
+X9 : Jarak terhadap permukiman eksisting
+X10 : Kepadatan bangunan
+Persamaan (1) diatas menunjukkan koefisien regresi paling besar terdapat pada
+variabel jarak terhadap permukiman eksisting yaitu sebesar 0,26. Nilai positif menunjukkan
+bahwa semakin besar nilai variabel independen, semakin besar kemungkinan terjadi
+perubahan penutup lahan non-permukiman menjadi permukiman pada lokasi tersebut,
+sedangkan nilai negatif adalah sebaliknya dimana menunjukkan bahwa semakin kecil nilai
+variabel independen semakin besar kemungkinan terjadi perubahan penutup lahan nonpermukiman
+menjadi permukiman.
+Variabel jarak terhadap permukiman existing memiliki yang pengaruh yang paling
+signifikan terhadap perubahan lahan non-permukiman menjadi permukiman memiliki nilai
+negatif, jadi dapat diketahui bahwa semakin dekat jarak dengan permukiman eksisting
+maka semakin besar juga kemungkinan lahan tersebut berubah dari non-permukiman
+menjadi permukiman.
+Koefisien regresi paling kecil adalah variabel banjir atau genangan yaitu 0.
+Berdasarkan hal tersebut, variabel banjir atau genangan tidak memiliki pengaruh sama
+sekali terhadap perubahan lahan non-permukiman menjadi permukiman.
+Banjir atau genangan yang terjadi di Kecamatan Pontianak Timur tidak
+mempengaruhi perkembangan permukiman di kawasan ini, karena tingkat adaptasi
+masyarakat terhadap struktur bangunan pada permukiman rumah panggung sangai baik,
+melalui rekayasa pada pondasi rumah panggung yang telah menyesuaikan dengan
+ketinggian genangan pada saat banjir pasang (gambar 2).
+
+Gambar 2. (a) Banjir Pasang di Permukiman Rumah Panggung; (b/c) Perspektif Permukiman Rumah Panggung;
+(d) Denah Rumah Panggung.
+
+Prediksi Perkembangan Lahan Permukiman
+Luasan hasil prediksi lahan permukiman pada tahun 2014 adalah 440,82 Ha, hasil
+prediksi lebih kecil 0,35 Ha dari luasan permukiman kota pontianak adalah sebesar 441,17
+Ha. Hasil uji akurasi menunjukan bahwa prediksi perubahan permukiman di Kecamatan Pontianak Timur mampu mendapatkan overall akurasi sebesar 79,74% serta indeks kappa
+tertinggi 0,55. Berdasarkan hal tersebut dapat dikatakan bahwa model prediksi lahan
+permukiman menggunanan Cellular Automata (CA)-Markov dapat diterima dan akan
+digunakan untuk memprediksi keadaan permukiman pada tahun 2020 (gambar 3). Hasil
+prediksi menunjukkan bahwa pada tahun 2020 lahan permukiman seluas 481,98 Ha.
+Selama kurun waktu 6 tahun pada tahun 2014-2020 terjadi peningkatan luasan
+permukiman sebesar 40,81 Ha atau sebesar 6,80 Ha/tahun.
+Berdasarkan hasil analisis menggunakan interpolasi spasial polynomial orde 3
+terhadap lokasi ekspansi lahan permukiman pada tahun 2020 di Kecamatan Pontianak
+Timur menunjukkan wilayah perkembangan lahan permukiman cukup merata di Kelurahan
+Saigon, Kelurahan Tanjung Hulu, Kelurahan Banjar Serasan dan perkembangan paling
+tinggi di Kelurahan Parit Mayor (gambar 4).
+Y = 4.4328 - 0.001154*X1+ 0.002352*X2 + 0.000000*X3 - 0.001400*X4 + 0.005696*X5
+- 0.001250*X6 + 0.002758*X7 - 0.002166*X8 - 0.754588*X9 + 0.003258*X10 ………..(2)
+Dimana:
+Y : Logit perubahan guna lahan dari non-permukiman ke permukiman
+X1 : Jarak terhadap sungai dan parit
+X2 : Jarak terhadap fasilitas
+X3 : Banjir
+X4 : Jarak terhadap pusat bisnis (CBD) dan pelayanan jasa
+X5 : Jarak terhadap jalan kolektor
+X6 : Jarak terhadap jalan utama
+X7 : Jarak terhadap Keraton Kadariah, pariwisata dan pemerintahan
+X8 : Jarak terhadap utilitas
+X9 : Jarak terhadap permukiman eksisting
+X10 : Kepadatan bangunan
+Persamaan (2) diatas menunjukkan koefisien regresi paling besar terdapat pada
+variabel jarak terhadap permukiman eksisting yaitu sebesar -0,75. Variabel jarak terhadap
+permukiman existing memiliki yang pengaruh yang paling signifikan terhadap perubahan
+lahan non-permukiman menjadi permukiman karena memiliki nilai negatif. Jadi dapat
+diketahui bahwa semakin dekat jarak dengan permukiman eksisting, maka semakin besar
+juga kemungkinan lahan tersebut berubah dari non-permukiman menjadi permukiman.
+Selain itu, jarak terhadap jalan utama dan tingkat kepadatan bangunan juga berpengaruh
+cukup tinggi terhadap perubahan lahan dari non-permukiman ke permukiman. Sama
+seperti logit perubahan lahan permukiman tahun 2003 ke tahun 2008, koefisien regresi
+paling kecil adalah variabel banjir (0). Berdasarkan hal tersebut, variabel banjir atau
+genangan tidak memiliki pengaruh sama sekali terhadap perubahan lahan non-permukiman
+menjadi permukiman.
+Berdasarkan persamaan diatas, maka ditemukan bahwa Kelurahan Parit Mayor
+menjadi pusat perkembangan permukiman di Pontianak Timur pada tahun 2020. Hal ini
+disebabkan karena Kelurahan Parit Mayor masih memiliki kantong lahan non-terbangun,
+sehingga masih dapat dikembangkan menjadi kawasan terbangun seperti permukiman.
+Selain itu ditinjau dari faktor aksebilitas di Kelurahan Parit Mayor dilewati jalan utama
+untuk menuju jembatan penyeberangan Tol Kapuas II dan Trans Kalimantan (gambar 5).
+ 
+Gambar 4. (a) Peta Perkembangan Lahan Permukiman (2014); (b) Peta Perkembangan Lahan Permukiman
+(2020).
+Gambar 5. (a) Peta Trend Lahan Permukiman (2003-2014); (b) Peta Trend Lahan Permukiman (2014-2020).
+Korelasi Banjir dan Kebakaran terhadap Prediksi Perkembangan Lahan Permukiman
+Luas permukiman menunjukkan kenaikan sebesar 419,75 Ha dan kepadatan
+permukiman sebesar 38,2%, sedangkan luas permukiman terpapar banjir menunjukkan
+kenaikan sebesar 26,50 Ha atau 3,65% (tabel 1 & 2). Kepadatan permukiman dibandingkan
+dengan luas wilayah permukiman cukup proporsional dan paparan banjir juga menunjukkan angka yang cukup kecil, sehingga korelasi banjir dan kepadatan permukiman
+(dalam hal ini variabel yang mempengaruhi kerentanan kebakaran) tidak berpengaruh
+terhadap prediksi perkembangan lahan permukiman.
+Selanjutnya berdasarkan hasil regresi logistik biner (persamaan 2) menunjukkan
+koefisien korelasi banjir terhadap prediksi perkembangan lahan permukiman paling kecil
+yaitu 0, artinya banjir tidak memiliki pengaruh sama sekali terhadap perubahan lahan nonpermukiman
+menjadi permukiman. Kemudian sama halnya dengan hasil analisis paparan
+banjir, pada variabel banjir tidak dipengaruhi sama sekali oleh perubahan penggunaan
+lahan dari non-pemukiman ke daerah pemukiman, itu mirip dengan persentase paparan
+banjir dalam jumlah yang sangat kecil (gambar 6). Dari paparan analisis diatas terdapat
+temuan bahwa prediksi perkembangan permukiman di tepian Sungai Kapuas Pontianak
+akan terus berkembang tanpa ada hambatan pada kerentanan bencana banjir dan
+kebakaran.
+
+KESIMPULAN
+Hasil uji akurasi pada prediksi perkembangan permukiman di Kecamatan Pontianak
+Timur overall akurasi sebesar 79,74% serta indeks kappa tertinggi 0,55. Hasil prediksi
+menunjukkan bahwa pada tahun 2020 lahan permukiman seluas 481,98 Ha. Selama kurun
+waktu 6 tahun (2014-2020) terjadi peningkatan luasan permukiman sebesar 40,81 Ha atau
+sebesar 6,80 Ha/tahun. Berdasarkan hasil analisis menggunakan interpolasi spasial
+polynomial orde 3 terhadap lokasi ekspansi lahan permukiman pada tahun 2020 di
+Kecamatan Pontianak Timur, menunjukkan wilayah perkembangan lahan permukiman
+cukup merata di Kelurahan Saigon, Kelurahan Tanjung Hulu, Kelurahan Banjar Serasan
+dan perkembangan paling tinggi di Kelurahan Parit Mayor.
+Berdasarkan hasil prediksi tersebut, maka di Kelurahan Parit Mayor akan menjadi
+pusat perkembangan permukiman yang paling tinggi di Pontianak Timur pada tahun 2020.
+Hal ini disebabkan karena Kelurahan Parit Mayor masih memiliki kantong lahan nonterbangun,
+sehingga masih dapat dikembangkan menjadi kawasan terbangun seperti
+permukiman. Selain itu ditinjau dari faktor aksebilitas di Kelurahan Parit Mayor dilewati
+jalan utama untuk menuju jembatan penyeberangan Tol Kapuas II dan Trans Kalimantan.
+Sedangkan hasil perhitungan analisis regresi biner logistik menunjukkan koefisien
+regresi paling besar terdapat pada variabel jarak terhadap permukiman eksisting yaitu
+sebesar -0,75. Selain itu jarak terhadap jalan utama dan tingkat kepadatan bangunan juga
+berpengaruh cukup tinggi terhadap perubahan lahan dari non-permukiman ke
+permukiman. Sama halnya pada logit perubahan lahan permukiman (2003-2008), koefisien
+regresi paling kecil adalah variabel banjir atau genangan yaitu 0. Oleh karena itu, variabel
+banjir tidak memiliki pengaruh sama sekali terhadap perubahan lahan non-permukiman
+menjadi permukiman di Kecamatan Pontianak Timur yang memiliki tipikal kota air.
+Kemudian terdapat temuan bahwa prediksi perkembangan permukiman yang
+berawal dari rumah panggung di tepian Sungai Kapuas Pontianak akan terus berkembang
+tanpa ada hambatan pada kerentanan bencana banjir dan kebakaran. Kepadatan
+permukiman dan paparan banjir yang akan terus meningkat ini memerlukan arahan
+penataan dan pengaturan tata guna lahan, khususnya ekspansi lahan permukiman yang
+harus berimbang dengan ekosistem parit-sungai di Kota Pontianak sesuai tipikal aquatik.
+Rekomendasi hasil integrasi CA-Markov dengan regresi logistik biner menunjukkan
+hasil prediksi yang cukup baik, walaupun penelitian prediksi ini dilakukan tanpa
+mempertimbangkan jumlah piksel maksimal yang akan berubah menjadi permukiman. Hal
+ini dikarenakan keterbatasan data, terutama data jumlah penduduk pada wilayah studi.
+Untuk penelitian selanjutnya tentang prediksi perkembangan lahan permukiman, maka
+perlu mempertimbangkan jumlah piksel yang akan berubah berdasarkan perkembangan
+jumlah penduduk, selain itu juga perlu memodifikasi metode dan data spasial yang
+digunakan.

@@ -1,0 +1,127 @@
+﻿
+ Analisis Metode Fuzzy Analytical Network Process untuk Sistem Pengambilan Keputusan Pemeliharaan Jalan
+
+
+ Intisari— Jalan merupakan prasarana tranportasi darat yang sangat penting untuk peningkatan ekonomi daerah. Untuk menjaga kondisi jalan sesuai dengan umur jalan yang direncanakan, dibutuhkan pemeliharaan secara khusus dan berkala oleh pemerintah setempat. Dinas Pekerjaan Umum melakukan survey dengan tujuan mendapatkan kriteria untuk menentukan prioritas pemeliharaan jalan. Namun terdapat kendala dalam pelaksanaan pemeliharaan jalan tersebut yaitu kurangnya jumlah kriteria yang menyebabkan sulitnya menentukan prioritas pemeliharaan jalan. Dibutuhkan sistem pengambilan keputusan untuk menyelesaikan permasalahan dalam menentukan prioritas pemeliharaan jalan. Fuzzy Analytical Network Process (FANP) dapat menyelesaikan permasalahan tersebut dengan memperhitungkan kriteria dan mendapatkan nilai prioritas. Metode FANP ini dilakukan secara bertahap, yaitu pembobotan antar kriteria, triangular fuzzy number, sintesis fuzzy, weight matriks, dan prioritas. Hasil menunjukkan bahwa urutan prioritas dalam pemeliharaan rutin jalan adalah Jl. Jakarta, Jl. Kelud, dan Jl. Kyai Tamin. Tingkat akurasi metode yang didapatkan sebesar 66.67%. Dengan pengujian sensitivitas, didapatkan kriteria kerusakan jalan dan kepadatan jalan menjadi faktor penting dalam menghasilkan nilai bobot prioritas pemeliharaan jalan. 
+Kata Kunci— Sistem Pengambilan Keputusan, Prioritas Pemeliharaan Jalan, Fuzzy Analytical Network Process, Pembobotan.
+
+
+ 
+I. PENDAHULUAN 
+Jalan raya adalah sebuah sarana dan prasarana transportasi darat yang sangat penting untuk menunjang kehidupan sehari-hari. Dengan banyaknya penduduk yang memiliki alat transportasi dan padatnya lalu lintas, jalanan di Kota Malang sudah banyak yang menjadi tidak layak atau dalam keadaan kurang baik. Maka dari itu perlu ada pemeliharaan secara khusus dan berkala oleh pemerintah setempat untuk menjaga kondisi jalan, sesuai dengan umur jalan yang telah direncanakan. 
+Dinas Pekerjaan Umum (PU) Bina Marga Kota Malang merupakan dinas pemerintahan yang melaksanakan pemeliharaan rutin jalan dan jembatan di Kota Malang. Dalam setiap tahun, Kota Malang selalu mengalokasikan anggaran untuk pemeliharaan jalan. Banyaknya jalan yang rusak di berbagai wilayah di Kota Malang tidak dapat dengan mudah diperbaiki semua oleh pemerintah dalam satu kurun waktu tertentu. Salah satu faktor yang diduga menyebabkan kondisi di atas adalah terlalu dominannya para pengambil kebijakan (decision maker) dalam menetapkan penanganan proyek pemeliharaan jalan tanpa didasari atas pertimbangannya bersifat subyektif. Akibatnya, banyak proyek yang seharusnya menggunakan sistem yang telah ada atau dalam skala prioritas tertentu dapat berubah ke sistem yang lain atau prioritas lain. 
+Berdasarkan alasan di atas, perlu adanya suatu metode tentang pengambilan keputusan yang dapat digunakan sebagai bahan untuk memutuskan prioritas penanganan proyek pemeliharaan jalan sehingga dapat mengurangi unsur subjektivitas para pengambil kebijakan. Metode Fuzzy Analytical Network Process (FANP) dapat menentukan kriteria yang paling penting dan mempunyai pengaruh yang sangat besar . 
+Analytical Network Process (ANP) adalah generalisasi dari metode Analytical Hirarchy Process (AHP) menyediakan sebuah bentuk kerangka kerja untuk masalah pengambilan keputusan dengan asumsi ketergantungan antar kriteria dan altenatif . Untuk mengatasi keterbatasan, Saaty menggunakan pendekatan supermatriks dan mengatasi masalah pada AHP untuk permasalahan dependensi dan umpan balik . ANP lebih ilmiah dan lebih lengkap daripada AHP, dan struktur jaringan pada ANP lebih komplek daripada struktur hierarki. FANP menggunakan konsep Triangular Fuzzy Number menggantikan metode ANP skala 1-9 Saaty untuk mengatasi nilai crisp pada matriks perbandingan. Metode ini dapat secara efektif memecahkan kriteria yang objektif dari metode ANP, dan meningkatkan objektifitas dan efektifitas untuk mengevaluasi nilai kepercayaan pada suatu kriteria . 
+Kriteria yang diambil pada makalah ini diambil dengan wawancara terhadap petugas Bina Marga Dinas PU Kota Malang. Adapun kriteria yang diambil adalah kriteria kodisi jalan, kriteria kepadatan lalu lintas, kriteria tata guna lahan, dan kriteria alternatif jalan. 
+
+
+
+II. SISTEM PENGAMBILAN KEPUTUSAN DAN FUZZY ANALYTICAL NETWORK PROCESS 
+
+
+A. Sistem Pengambilan Keputusan 
+
+Secara umum, sistem pengambilan keputusan (SPK) adalah sistem berbasis komputer yang interaktif, yang membantu pengambil keputusan memanfaatkan data dan model untuk menyelesaikan masalah yang tak terstruktur dan semi terstruktur . 
+Sistem pengambilan keputusan adalah sistem berbasis model yang terdiri atas prosedur-prosedur dalam pemrosesan data dan pertimbangan untuk membantu manajer dalam mengambil keputusan. Untuk mencapai hasil yang optimal, SPK tersebut harus sederhana, mudah dikontrol, lengkap, efisien, dan mudah berinteraksi terhadap user . 
+
+
+B. Fuzzy Analytical Network Process (FANP) 
+
+FANP merupakan gabungan dari metode Fuzzy dan ANP. Metode ANP merupakan pengembangan dari metode AHP. ANP mengizinkan adanya interaksi dan umpan balik dari elemen–elemen dalam kluster (inner dependence) dan antar kluster (outer dependence). Konsep ANP dikembangkan dari teori AHP yang didasarkan pada hubungan saling ketergantungan antara beberapa komponen, sehingga AHP merupakan bentuk khusus dalam ANP. 
+Pada metode FANP, ANP digunakan untuk menyelesaikan permasalahan pengambilan keputusan yang terdapat hubungan saling mempengaruhi antar kriteria dalam suatu level tertentu. Bilangan fuzzy digunakan untuk meminimalkan ketidakpastian dalam penelitian yang bersifat kualitatif. Logika fuzzy (logika samar) itu sendiri merupakan logika yang berhadapan dengan konsep kebenaran sebagian, di mana logika klasik menyatakan bahwa segala hal dapat diekspresikan dalam istilah binary (0 atau 1). Logika fuzzy memungkinkan nilai keanggotaan antara 0 dan 1. 
+
+
+C. Triangular Fuzzy Number 
+
+Pada dasarnya, FANP menggunakan rasio fuzzy untuk menggantikan rasio eksak ANP dalam menentukan preferensi pengambil keputusan. Dalam hal ini, TFN digunakan untuk menggantikan nilai crisp yang digunakan dalam pengukuran preferensi evaluator. 
+Fungsi keanggotaan (membership function) adalah suatu kurva yang menunjukkan pemetaan titik-titik input data ke dalam nilai keanggotaannya (derajat keanggotaan) yang memiliki interval antara 0 sampai 1. Sebuah bilangan fuzzy dengan representasi kurva segitiga (triangular fuzzy numbers) memiliki fungsi keanggotaan sebagai berikut:
+
+
+
+dengan bentuk kurva representasi dijelaskan pada Gbr. 1. 
+Gbr. 1 Fungsi keanggotaan TFN. 
+dengan L dan U adalah batas bawah dan batas atas bilangan fuzzy, sedangkan M adalah nilai tengah. TFN dapat dinotasikan dengan 𝐴=(𝐿,𝑀,𝑈). 
+
+
+D. Skala Pairwise Comparison 
+
+Pada metode FANP, digunakan skala pairwise comparison. Dalam hal penggunaan judgements, dalam AHP seorang bertanya “Mana yang lebih penting?”, sementara dalam FANP seseorang bertanya “Mana yang mempunyai pengaruh lebih besar?” . Tabel I menunjukkan skala TFN yang digunakan dalam perbandingan berpasangan. 
+
+
+Bilangan fuzzy1􀷨memiliki arti sama besar pengaruhnya, kika ditranformasi dalam skala TFN memiliki nilai (1,1,3), dengan nilai atas (U) adalah sebesar 3, nilai bawah (L) adalah sebesar 1, dan nilai tengah (M) sebesar 1. Selanjutnya, yakni “sedikit lebih besar pengaruhnya”, dinotasikan dalam bilangan fuzzy3􀷨. Jika ditranformasikan ke dalam TFN memiliki nilai (1, 3, 5). Nilai atas (U) sebesar 5. nilai bawah (L=1) merupakan nilai M dari tingkat sebelumnya, dan nilai tengah (M=3) merupakan nilai U dari tingkat sebelumnya. 
+
+E. Matriks Pairwise Comparison 
+
+Untuk menentukan susunan prioritas elemen, langkah awal adalah menyusun perbandingan berpasangan, yaitu membandingkan secara berpasangan seluruh elemen pada cluster-cluster yang berhubungan. Perbandingan tersebut kemudian ditranformasi ke dalam bentuk matriks yang digunakan dalam analisis numerik. Pada perbandingan berpasangan, bentuk matriks adalah bentuk yang paling diminati karena merupakan alat yang sederhana dan bisa digunakan untuk memberikan kerangka pengujian konsistensi, memperoleh informasi tambahan dengan jalan membuat segala perbandingan yang mungkin, dan menganalisis kepekaan prioritas menyeluruh terhadap perubahan dalam perbandingan . 
+Matriks perbandingan berpasangan disusun seperti halnya pada FAHP. Matriks Perbandingan FANP disusun seperti matriks berikut:
+
+
+III.METODE 
+
+Metodologi yang dilakukan dalam penelitian tentang metode FANP sebagai sistem pengambil keputusan untuk prioritas pemeliharaan jalan pada Dinas PU di Kota Malang adalah sebagai berikut: 
+1. Melakukan studi literatur mengenai kriteria pemeliharaan jalan. 
+2. Mengumpulkan data-data yang dipakai untuk SPK pemeliharaan jalan. 
+3. Melakukan analisis dan perancangan sistem dengan metode FANP. 
+4. Mengimplementasikan hasil analisis dan perancangan yang telah dilakukan dengan membangun sebuah aplikasi. 
+5. Melakukan proses pengujian terhadap metode FANP. 
+6. Mengevaluasi tingkat keberhasilan output yang dihasilkan oleh aplikasi. 
+
+Metode analisis yang dipakai adalah FANP. Dari proses wawancara terhadap pakar di Dinas PU Kota Malang, dapat ditarik beberapa kriteria yang akan dipakai untuk proses FANP. Berdasarkan kriteria tersebut, maka dapat ditentukan diagram jaringan sistem keputusan pemeliharaan jalan yang dapat dilihat pada Gbr. 2.
+
+Dalam makalah, dimasukkan tiga alternatif sub-kriteria untuk didapatkan nilai prioritasnya. Sub-kriteria jalan tersebut adalah Jalan Jakarta, Jalan Kelud, dan Jalan Kyai Tamin, yang mempunyai karakteristik data jalan yang berbeda. Analisis metode FANP untuk sistem pengambilan keputusan pemeliharaan jalan yang merupakan hasil penelitian ini meliputi beberapa hal. 
+
+
+
+A. Proses Pembobotan Kriteria 
+
+Tabel II menunjukkan tiga kriteria yang telah dibandingkan. Untuk kriteria yang dibandingkan terhadap kriteria itu sendiri nilainya adalah 1, yang berarti mempunyai tingkat kepentingan yang sama.
+
+Jika suatu kriteria diberi bobot 5 seperti pada Tabel II, yaitu bobot jalan terhadap tata guna lahan, maka bobot kebalikan dari perbandingan kriteria tersebut, tata guna lahan terhadap jalan, adalah 1/bobot yaitu 1/5 (0.2). 
+
+
+B. Perhitungan Bobot Kriteria 
+
+Perhitungan bobot kriteria dilakukan setelah pengisian bobot dengan menggunakan skala FANP. Matriks yang ditunjukkan pada Tabel II ditranformasi menjadi matriks dengan skala TFN yang ditampilkan pada Tabel III. 
+Langkah awal proses perhitungan adalah mentranformasi matriks ANP menjadi matriks TFN. Misal pada perbandingan kriteria jalan terhadap tata guna lahan, pada Tabel III dijelaskan bahwa nilainya adalah 5 dan ditranformasi menjadi niai bawah (l) = 3, nlai tengah (m) = 5, dan nilai atas (u) = 7. Maka proses kebalikan perbandingan kriteria tata guna lahan terhadap jalan adalah nilai bawah (l) = 1/7(0,143), nilai tengah (m) = 1/5(0,2), dan nilai atas (u) = 1/3(0,333).
+
+Tahap berikutnya adalah menghitung nilai sintesis fuzzy (SKi) masing-masing kriteria. Dapat diambil contoh nilai pada Tabel IV bahwa sudah terdapat nilai total masing-masing l, m, u pada setiap barisnya dan nilai total masing-masing l, m, u pada kolom l, m, u. Perhitungan nilai sinstesis fuzzy adalah membagi nilai total l, m, u pada setiap baris dibagi dengan total nilai u, m, l per kolom. Nilai yang dihasilkan dapat dilihat pada Tabel IV.
+
+Setelah melakukan perhitungan nilai sintesis fuzzy setiap kriteria pada setiap kriteria, tahap berikutnya adalah menghitung nilai vektor (V) dan nilai ordinat defuzzifikasi (d’). Proses perhitungannya yaitu membandingkan nilai fuzzy set (Mi) pada SKi dengan Mi SKi yang lain. Nilai vektor dapat dilihat pada Tabel V.
+
+
+Nilai defuzzifikasi pada nilai vektor mempunyai ketentuan/syarat yang berlaku yaitu jika nilai hasil vektor SK > 1 maka nilainya adalah 1, jika hasil nilai vektor 0<SK<1 maka nilainya SK, dan jika hasil nilai vektor SK < 0 maka nilainya adalah 0. Nilai defuzzifikasi dapat dilihat pada Tabel VI. 
+Setelah proses pembobotan, matriks sub-kriteria yang telah dinormalisasi digabungkan menjadi satu matriks, yaitu super unweight. Proses ini bertujuan untuk menggabungkan semua sub-kriteria yang berhubungan satu sama lain agar tercipta sebuah nilai normalisasi yang baru yang mencakup semua sub-kriteria. Proses yang bersamaan dengan unweight matriks adalah kluster matriks, yang bertujuan menggabungkan semua kriteria yang saling berhubungan satu sama lain, yang nilainya akan dikalikan oleh unweight matriks. Kluster Matriks dijelaskan pada Tabel VII.
+
+Proses berikutnya adalah weight matriks yang ditampilkan pada Tabel VIII. Proses ini didapatkan dengan mengalikan unweight matriks dengan kluster matriks. Nilai dikalikan dengan kriteria pada tabel yang sama kemudian didapatkan sebuah nilai yang baru yang disebut weight matriks. 
+Setelah mendapatkan nilai weight maka proses selanjutnya adalah proses normalisasi, dengan rumus:
+
+Setelah dinormalisasi, dilakukan perulangan matriks dengan memangkatkan dirinya sendiri (weight matriks) sehingga selisih dari rata normalisasi terpenuhi sebesar 1x10-5. 
+Hasil akhir dari Fuzzy-ANP adalah prioritas alternatif sub-kriteria jalan yang dipilih yaitu yang pertama adalah Jalan Jakarta 99.39%, kedua adalah Jalan Kelud 0.39%, dan yang terakhir adalah Jalan Kyai Tamin 0.22%. Hasil tersebut dapat dilihat pada Tabel IX. 
+
+
+C. Pengujian Akurasi 
+
+Pengujian dilakukan untuk mengetahui tingkat akurasi kecocokan hasil prioritas pemeliharaan jalan menggunakan program dan data dari Dinas PU. Pengujian ini menggunakan data Dinas PU tahun 2010 tentang pemeliharaan jalan di Kota Malang. 
+Perhitungan akurasi dilakukan dengan melihat data yang cocok kemudian dibagi dengan banyak data yang diterima dikali seratus persen. Adapun hasil pemeliharaan jalan Dinas PU dan hasil dari program disajikan pada Tabel X. 
+Analisis pengujian akurasi merupakan pengujian yang dilakukan untuk mengetahui persentase keberhasilan perhitungan oleh sistem yang menggunakan Metode Fuzzy-ANP. Pada Tabel X terlihat bahwa dari enam jalan yang berbeda metode Fuzzy-ANP dapat memiliki empat kesamaan. Dengan demikian akurasi mempunyai persentase sebesar 66.67%.
+
+Hal tersebut di atas terjadi disebabkan karena perbedaan cara pandang untuk mengambil keputusan, antara cara yang konvesional dan metode yang digunakaan saat ini. Dari data yang didapatkan, Dinas PU melakukan pemeliharaan hanya berdasarkan satu faktor saja tanpa melihat faktor yang lain. Sementara Fuzzy-ANP menghitung dengan menggunakan berbagai banyak subjek (kriteria) yang terlibat.
+
+Subjektifitas sendiri merupakan permasalahan yang dihadapi setiap penelitian Multi Criteria Decision Making. Namun, subjektifitas inilah yang membuat penelitian menjadi beragam karena semakin banyak subjek (kriteria), sehingga dapat mempengaruhi hasil yang didapatkan. 
+
+
+D. Pengujian Sensitivitas 
+
+Pengujian sensitivitas merupakan pengujian untuk mengukur perubahan nilai ranking prioritas jika pada nilai bobot dilakukan penambahan maupun pengurangan. Masing- masing kriteria diubah nilai bobotnya agar dapat melihat perubahan yang terjadi. Kriteria yang diubah nilainya adalah kriteria kerusakan jalan, kepadatan jalan, dan tata guna lahan. Pada uji sensitivitas, bobot akan diubah menjadi -20%, -10%, +10%, dan 20% dari bobot normal pada masing-masing kriteria. 
+Pada uji sensitivitas di Gbr. 4, nilai bobot kriteria kerusakan jalan telah diubah dan terlihat bahwa prioritas tertinggi tetap pada Jalan Jakarta, kedua Jalan Kelud, dan terakhir adalah Jalan Kyai Tamin. Dapat dilihat adanya perubahan nilai yang cukup signifikan saat nilai bobot dinaikkan 20%. Pada Jalan Jakarta nilainya berkurang sebesar 6,32%, untuk Jalan Kelud nilainya bertambah sebesar 5,57%, dan pada Jalan Kyai Tamin hanya terjadi sedikit penambahan sebesar 0,66%. Ini terjadi karena jumlah kerusakan jalan pada Jalan Jakarta dan Jalan Kelud hampir sama, sehingga seiring bertambahnya bobot kriteria jalan, nilai antara dua jalan itu saling mendekati satu sama lain.
+
+Pada uji sensitivitas seperti yang ditunjukkan di Gbr. 5, nilai bobot kriteria kepadatan jalan telah diubah, dan terlihat bahwa prioritas tertinggi tetap pada Jalan Jakarta, kedua Jalan Kelud, dan terakhir adalah Jalan Kyai Tamin. Dapat dilihat adanya perubahan nilai yang cukup signifikan saat nilai bobot diturunkan -20%. Pada Jalan Jakarta nilainya berkurang sebesar 11,78%, untuk Jalan Kelud nilainya bertambah sebesar 9,61%, dan pada Jalan Kyai Tamin hanya terjadi sedikit penambahan yaitu sebesar 2,71%. Ini terjadi karena jumlah kepadatan jalan pada Jalan Jakarta dan Jalan Kelud mempunyai nilai yang lebih besar daripada kriteria tata guna lahan sehingga nilainya berubah secara signifikan. 
+
+Untuk uji sensitivitas pada Gbr 6, nilai bobot kriteria tata guna lahan telah diubah dan terlihat bahwa prioritas tertinggi tetap pada Jalan Jakarta, kedua Jalan Kelud, dan terakhir adalah Jalan Kyai Tamin. Dapat dilihat sedikitnya perubahan pada masing-masing nilai. Ini terjadi karena sedikitnya pengaruh tata guna lahan pada pemeliharaan jalan. Jadi walaupun terhadap bobot nilai kriteria tata guna lahan dilakukan penambahan atau pengurangan, tidak terjadi perubahan yang signifikan. 
+
+
+
+V. KESIMPULAN 
+
+Berdasarkan hasil pengujian dan analisis, dapat diambil beberapa kesimpulan sebagai berikut. Dalam mendesain aplikasi SPK pemeliharaan jalan, digunakan metode FANP. Perhitungan FANP cenderung lebih kompleks daripada metode Multi Criteria Decision Making yang lain. FANP adalah solusi yang lebih baik untuk evaluasi kriteria kualitatif dan kuantitatif dari permasalahan yang sulit untuk diukur. Setiap pengambilan keputusan dan pemilihan kriteria adalah faktor yang mempengaruhi hasil penilaian pemeliharaan jalan. 
+Metode FANP tepat digunakan pada sistem penngambilan keputusan. Hal ini dibuktikan dengan kecocokan pada nilai dan proses perhitungan manual yang dijelaskan. Akurasi pada metode ini terhadap data Dinas PU Bina Marga mencapai 66,67%. Hal ini dapat terjadi karena pemberian tingkat kepentingan dari tiap kriteria bersifat subyektif. Dari hasil uji sensitivitas dapat disimpulkan bahwa kriteria kerusakan jalan dan kriteria kepadatan jalan mempunyai nilai yang lebih berpengaruh untuk mendapatkan bobot prioritas pemeliharaan jalan. Terlihat bahwa jika kedua nilai kriteria itu diubah dengan penambahan atau pengurangan, hasil yang didapatkan juga berubah cukup signifikan. Hal itu tidak terjadi pada kriteria tata guna lahan, dan terbukti jika nilai pada kriteria tata guna lahan dilakukan penambahan atau pengurangan, hasil prioritas yang didapat adalah sedikit adanya perubahan yang signifikan.

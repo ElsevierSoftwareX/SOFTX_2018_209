@@ -1,0 +1,73 @@
+﻿Persamaan diferensial merupakan salah satu cabang dari matematika yang banyak
+digunakan untuk memecahkan masalah-masalah yang dihadapi dalam bidang
+sains dan teknologi, Persamaan diferensial adalah persamaan yang menyangkut
+satu atau lebih fungsi beserta turunannya terhadap satu atau lebih peubah bebas.
+Bentuk umum dari persamaan diferensial orde-2 adalah :
++ ( ) + ( ) = 0
+Dalam menyelesaikan suatu persamaan diferensial tidak semua dapat diselesaikan
+secara numerik, namun ada yang harus diselesaikan secara analitik.Untuk
+menyelesaikan suatu persamaan secara analitik, dapat menggunakan suatu metode
+yang dinamakan metode deret pangkat, bentuk dasar metode deret pangkat adalah:
+( ) = + ( ) + ( ) + ( ) + ⋯
+Untuk menyelesaikan persamaan diferensial linear homogen orde-2 dapat
+digunakan metode deret pangkat yaitu :
+= = + + + + ⋯ )
+= = + 2 + 3 + ⋯
+= ( − 1)
+= ( + 2)( + 1) = 2 + 3 ∙ 2 + 4 ∙ 3 + ⋯
+Kata kunci : persamaan diferensial, deret pangkat
+
+
+1
+I. PENDAHULUAN
+1.1 Latar Belakang dan Masalah
+Matematika merupakan salah satu cabang ilmu pengetahuan yang banyak sekali
+manfaatnya. Salah satunya adalah merupakan ilmu bantu yang sangat penting dan
+berguna dalam menunjang perkembangan ilmu pengetahuan dan teknologi.
+Matematika merupakan sarana berfikir untuk mengembangkan pola pikir logis,
+sistematis, obyektif, kritis, dan rasional. Oleh sebab itu, matematika harus mampu
+menjadi sarana untuk meningkatkan daya nalar dan dapat meningkatkan
+kemampuan dalam mengaplikasikan matematika untuk menghadapi tantangan
+hidup dalam memecahkan masalah.
+
+Persamaan diferensial merupakan salah satu cabang dari matematika yang banyak
+digunakan untuk memecahkan masalah-masalah yang dihadapi dalam bidang
+sains dan teknologi. Dalam sains dan teknologi sering ditemukan
+masalah-masalah yang penyelesaiannya tidak dapat dicari dengan hanya
+menggunakan rumus atau konsep yang sudah ada. Persamaan diferensial adalah
+persamaan yang menyangkut satu atau lebih fungsi beserta turunannya terhadap
+satu atau lebih peubah bebas.
+
+Persamaan diferensial dapat dibedakan menjadi persamaan diferensial biasa dan
+persamaan diferensial parsial. Persamaan diferensial biasa dapat dikelompokkan
+berdasarkan bentuk dan ordenya. Berdasarkan bentuknya persamaan diferensial
+biasa dikelompokkan menjadi persamaan diferensial homogen dan persamaan
+diferensial non homogen. Dengan banyaknya jenis persamaan diferensial maka
+banyak pula cara mencari penyelesaiannya dari persamaan diferensial
+masing-masing, yaitu dengan metode Deret Taylor, metode Euler, metode Runge-
+Kutta dan banyak lagi yang lainnya.
+Namun dalam menyelesaikan suatu persamaan diferensial tidak semua dapat
+diselesaikan secara numerik, ada yang harus diselesaikan secara analitik. Untuk
+menyelesaikan suatu persamaan secara analitik, dapat menggunakan suatu metode
+yang dinamakan metode deret pangkat. Dan dari permasalahan tersebut,
+penulis menggunakan deret pangkat untuk menyelesaikan persamaan diferensial
+tersebut. Metode deret pangkat merupakan metode dasar standar untuk
+menyelesaikan persamaan dengan koefisien yang berubah (variable coefficient).
+
+1.2 Batasan Masalah
+Dalam penelitian ini, penulis membatasi masalahnya yaitu hanya menyelesaikan
+persamaan deferensial linear homogen orde dua.
+
+1.3 Tujuan Penelitian
+Tujuan penelitian ini adalah :
+1. Mencari penyelesaian persamaan diferensial linear homogen orde-2 dengan
+metode deret pangkat.
+2. Menambah wawasan tentang penyelesaian persamaan diferensial linear
+homogen orde-2 dengan metode deret pangkat.
+
+1.4 Manfaat Penelitian
+Penulisan ini pada dasarnya memberi manfaat bagi beberapa pihak, yakni bagi
+penulis memberikan wawasan dan ilmu pengetahuan tentang penyelesaian
+persamaan diferensial lineal dengan metode deret pangkat dan bagi pemerhati
+matematika atau pembaca menambah informasi tentang penyelesaian persamaan
+diferensial linear dengan metode deret pangkat.

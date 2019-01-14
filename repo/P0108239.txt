@@ -1,0 +1,244 @@
+﻿ANALISIS SISTEM INFORMASI GEOGRAFIS (SIG)
+UNTUK POTENSI WISATA PANTAI DI KOTA
+MAKASSAR, PROVINSI SULAWESI SELATAN
+
+Abstrak : Kota Makassar memiliki sumberdaya alam yang sangat potensial dengan pantainya
+yang landai dan berpasir, membujur dari utara ke selatan dan posisinya sangat strategis
+merupakan ibukota provinsi Sulawesi Selatan. Penelitian ini bertujuan untuk mengidentifikasi
+potensi wisata pantai di kota Makassar dengan menggunakan Analisis Sistem Informasi
+Geografis (SIG). Metode yang digunakan dalam penelitian ini adalah metode analisis spasial.
+Berdasarkan hasil analisis spasial, diperoleh pada daerah penelitian terbagi menjadi tiga tipe
+pantai yaitu: (1) pantai berpasir, (2) pantai berbakau, dan (3) pantai reklamasi. Ketiga tipe
+pantai tersebut dapat direkomendasikan untuk beberapa potensi aktifitas wisata seperti; (1)
+pantai berpasir: snorkeling, olahraga pantai (bola volley pantai, sepak bola pantai), bermain
+pasir, piknik, berenang, berjemur, maupun berselancar angin, (2) pantai berbakau/
+bermangrove: kegiatan studi wisata, dan (3) pantai reklamasi: kegiatan memancing dan
+berjalan-jalan atau berlari-lari di sepanjang pantai.
+Kata kunci : Sistem Informasi Geografis (SIG), tipe pantai, wisata pantai, Kota Makassar
+
+Pendahuluan
+Wilayah pesisir memiliki arti strategis karena merupakan wilayah peralihan antara
+ekosistem darat dan laut, serta memiliki potensi sumberdaya alam dan jasa-jasa lingkungan
+yang sangat kaya, sehingga menimbulkan daya tarik bagi berbagai pihak untuk
+memanfaatkan sumberdayanya. Di sisi lain, sumberdaya alam pesisir ini sering bersifat
+multi-guna dimana berbagai kegiatan memiliki hak atas akses dan pemanfaatan
+sumberdaya di kawasan ini. Kawasan ini dapat dimanfaatkan sebagai tempat beraktifitas
+untuk penangkapan ikan dan juga kawasan ini merupakan ruang untuk melakukan aktivitas
+pariwisata bahari. Peranan yang besar itu menjadikan wilayah ini sangat rentan dari
+berbagai masalah, baik itu yang menyangkut masalah dari aspek fisik dan biologi maupun
+masalah yang menyangkut aspek sosial, ekonomi maupun budaya. Permasalahan ini
+terutama menyangkut sumberdaya alam sebagai kendala yang merupakan ekosistem
+penting bagi keberlanjutan hidup baik manusianya sendiri, maupun sumberdaya alam dan
+lingkungannya secara keseluruhan (Dahuri et. Al, 2004).
+Dalam undang-undang No. 27 tahun 2007 dinyatakan bahwa wilayah pesisir adalah
+daerah peralihan antara ekosistem darat dan laut yang dipengaruhi oleh perubahan di darat
+dan laut. Hal ini menjadikan negara Indonesia memiliki potensi sumberdaya pesisir dan
+laut yang besar serta keanekaragaman hayati tinggi yang dapat menunjang kehidupan.
+Potensi yang besar ini akan dapat dinikmati oleh masyarakat secara optimal jika dilakukan
+pemanfatan dan pengelolaan berkelanjutan. Wisata bahari adalah jenis wisata minat khusus
+yang memiliki aktivitas yang berkaitan dengan kelautan, baik di atas permukaan laut
+(marine), maupun kegiatan yang dilakukan dipermukaan laut (submarine). Menurut
+Direktorat Jendral Pariwisata, wisata bahari disebut juga wisata minat khusus yaitu suatu
+bentuk perjalanan wisata yang mengunjungi suatu tempat karena memiliki minat atau
+tujuan khusus terhadap suatu objek atau kegiatan yang dapat ditemui atau dilakukan di
+lokasi atau daerah tujuan wisata. Wisata bahari merupakan wisata lingkungan (eco-tourism)
+yang berlandaskan daya tarik bahari di lokasi atau kawasan yang didominasi perairan atau
+kelautan (PRWLSDNH 2002).
+Wisata pantai merupakan bagian dari wisata pesisir yang memanfaatkan pantai
+sebagai objek wisata, meliputi : (a) perjalanan yang menggunakan moda angkutan laut /
+air, (b) objek wisata dan aktivitas yang diselenggarakan di laut, antara lain : kegiatan
+memancing, lomba layar dan dayung, ski air, upacara adat yang dilakukan di laut, surfing
+dan sebagainya, (c) kegiatan wisata pantai yang mencakup rekreasi di wilayah perairan
+antara lain: kegiatan marina, hotel dan restoran selam, kapal wisata, kapal layar,
+pengelolaan pulau kecil, snorkelling, olahraga pantai seperti bola volley, pantai, sepak
+bola pantai, menikmati keindahan alam pantai, berjalan-jalan atau berlari-lari di sepanjang
+pantai, bermain pasir, piknik, berenang, berjemur, maupun berselancar angin, (d) Usaha
+penunjang kegiatan wisata pantai, antara lain : jasa penyediaan moda transportasi,
+pengelola pulau kecil, pengelola taman laut, hotel dan restoran terapung, pemandu wisata
+Dahuri et. al (2004). Mendefinisikan pariwisata pantai sebagai kegiatan rekreasi yang
+dilakukan di sekitar pantai. Pariwisata semacam ini sering diasosiasikan dengan tiga ‘S”
+yaitu Sun, Sea, Sand artinya jenis pariwisata yang menyediakan keindahan dan
+kenyamanan alami dari kombinasi cahaya matahari, laut dan pantai berpasir putih.
+Pembangunan pariwisata bahari dan pantai pada hakikatnya adalah upaya
+mengembangkan dan memanfaatkan potensi objek serta daya tarik sumberdaya di
+kawasan pesisir dan lautan Indonesia, berupa kekayaan alam yang indah seperti pantai
+yang landai dan berpasir putih, keragaman flora dan fauna seperti terumbu karang dan
+berbagai jenis ikan hias.
+
+Beberapa jenis kegiatan wisata bahari dan wisata pantai pada saat ini sudah
+dikembangkan oleh pemerintah dan swasta, diantaranya wisata alam, pemancingan,
+berenang, selancar, berlayar, rekreasi pantai dan wisata pesiar. Wisata pantai terdiri dari
+dua kategori yaitu kategori rekreasi dan wisata mangrove.
+Kota Makassar Provinsi Sulawesi Selatan memiliki wilayah perairan pesisir yang unik
+dan memiliki nilai cukup strategis dalam pembangunan ekonomi, baik dalam pemanfaatan
+ekonomi maupun ekologinya. Dalam pengelolaannya diperlukan keterpaduan antar
+berbagai kegiatan dalam koordinasi dan mengarahkan berbagai kegiatan yang ada di
+wilayah pesisir tersebut. Hal ini dimaksudkan sebagai suatu upaya secara terprogram
+untuk mencapai tujuan yang dapat mengharmoniskan dan mengoptimalkan antara
+berbagai kepentingan agar terpelihara lingkungan dan tercapainya pembangunan ekonomi.
+Kota Makassar (dahulu daerah tingkat II berstatus kotamadya; dari 1971 hingga 1999
+secara resmi dikenal sebagai Ujungpandang atau Ujung Pandang) adalah sebuah
+kotamadya dan sekaligus ibu kota provinsi Sulawesi Selatan. Secara geografis, Kota
+Makassar terletak di pesisir pantai barat bagian selatan Sulawesi Selatan menghadap Selat
+Makassar, pada koordinat antara 119o 18’ 27,97” - 119o 32’ 31,03” Bujur Timur (BT) dan 5o
+30’ 18” – 5o 14’ 49” Lintang Selatan (LS). Ketinggian kota ini bervariasi antara 0 – 25 meter
+dari permukaan laut, suhu udara antara 20o – 32o C, memiliki garis pantai sepanjang 32 km
+dan areal seluas 175,77 km2, serta terdiri dari 14 kecamatan, dan 143 kelurahan
+(PRWLSDNH, 2004). Kota ini termasuk kota kosmopolis dan kota terbesar, dengan jumlah
+penduduk kurang lebih 1,25 juta jiwa, banyak suku bangsa tinggal di sini. Di kota ini ada
+suku Makassar, Bugis, Toraja dan Mandar. Di kota ini ada pula komunitas Tionghoa yang
+cukup besar (BPS, 2006).
+Dua sungai besar mengapit kota ini, yaitu: Sungai Tallo yang bermuara disebelah
+utara kota dan Sungai Jeneberang bermuara pada bagian selatan kota (PRWLSDNH, 2004).
+Makassar dikenal mempunyai Pantai Losari yang indah. Kota ini berbatasan dengan Selat
+Makassar di sebelah barat, Kabupaten Kepulauan Pangkajene di sebelah utara, Kabupaten
+Maros di sebelah timur dan Kabupaten Gowa di sebelah selatan (BPS, 2006). Topografi
+wilayah pada umumnya berupa dataran rendah dan daerah pantai. Dataran rendah
+merupakan wilayah yang paling dominan di daerah ini, sehingga pada musim penghujan,
+sebagian besar wilayah kota ini tergenang air (PRWLSDNH, 2004).
+Pada kawasan pesisir pantai Kota Makassar, terdapat 3 komponen ekosistem, yaitu
+estuari, mangrove dan terumbu karang. Ekosistem estuari berada di muara sungai
+Jeneberang dan aliran pasang surut. Ekosistem mangrove banyak dipengaruhi oleh
+ekosistem estuari sehingga keberadaannya di pantai Kota Makassar berasosiasi dengan
+ekosistem estuari, khususnya di mauara sungai Tallo. Ekosistem terumbu karang
+mendominasi seluruh gugusan pulau yang berada di perairan Makassar, termasuk dalam
+kelompok Kepulauan Spermonde (PRWLSDNH, 2004).
+Kondisi dan jenis pantai di Indonesia secara sederahana dapat dikelompokan atas
+pantai berpasir, pantai berlumpur/mangrove, pantai berawa dan pantai berbatu
+(Bemmelen, 1970). Kota Makassar memiliki sumberdaya alam yang sangat potensial
+dengan pantainya yang landai dan berpasir, membujur dari utara ke selatan dan posisinya
+sangat strategis merupakan ibukota provinsi Sulawesi Selatan.
+Kota Makassar merupakan wilayah yang cukup memiliki keanekaragaman
+pemanfaatan laut terutama pesisirnya. Keanekaragaman itu terlihat dari adanya kawasan
+pelabuhan, industri, permukiman, dan wisata. Secara langsung maupun tidak langsung,
+jenis kegiatan yang berada di wilayah ini telah merubah tipe pantainya, disamping
+perubahan yang diakibatkan oleh dinamika alami pesisir. Penelitian ini bertujuan untuk
+mengidentifikasi potensi wisata pantai di kota Makassar dengan menggunakan Analisis
+Sistem Informasi Geografis (SIG).
+
+Bahan dan Metode
+Waktu dan Tempat Penelitian
+Penelitian ini dilaksanakan di Kota Makassar, Provinsi Sulawesi Selatan (Gambar 1).
+Penelitian dilaksanakan pada bulan Mei 2010.
+Bahan dan Alat Penelitian
+Bahan dan alat penelitian yang digunakan yaitu; citra batimetri perairan makasar
+tahun 2008, GPS untuk mendapatkan posisi geografis, kamera digital untuk pemotretan
+kondisi eksisting di lapangan dan alat tulis.
+Pengumpulan Data
+Data yang digunakan meliputi data sekunder dan data primer. Data primer diperoleh
+dengan cara melakukan survei dan observasi langsung di lapangan (Tabel 1). Data
+sekunder diperoleh dari Bappeda Kota Makassar, PRWLSDNH BRKP-DKP, Dinas
+Kimpraswil Kota Makassar dan Universitas Hasanudin (Tabel 2). Dari data sekunder
+banyak diperoleh gambaran kondisi fisik dan garis pantai yang terdapat di Kota Makassar
+secara menyeluruh.
+_____________________________________________________________________________
+______________________________________________________________________
+Gambar 1. Peta lokasi penelitian
+
+Tabel 1. Pengumpulan Data Primer
+No. Jenis Data Teknik
+Pengumpulan
+Alat yang
+digunakan
+Lokasi
+Pengumpulan Data
+1. Data tipe atau
+karakteristik pantai
+Pengamatan
+secara visual dan
+pemotretan
+Kamera digital Pantai Kota Makassar
+2. Posisi geografis Plotting GPS Garmin 12 XL Pantai Kota Makassar
+Tabel 2. Pengumpulan Data Sekunder
+No. Jenis Data Teknik
+Pengumpulan
+Skala/
+Resolusi
+Sumber
+Data
+1.
+2.
+3.
+Citra Landsat Batimetri
+Perairan Makasar (2008)
+Karakteristik Pantai (2006)
+Peta RTRW (2004)
+Inventarisasi
+profil dasar
+daerah penelitian
+Resolusi 30 m
+-
+1:50.000
+Universitas Hasanudin
+Dinas Kimpraswil Kota
+Makassar, BRKP-DKP
+Bappeda Kota Makassar
+Analisis Data
+Analisis data dilakukan dengan menggunakan Sistem Informasi Geografi (SIG),
+yaitu sistem informasi spasial berbasis komputer dengan melibatkan perangkat lunak Arc
+View3.3. Pada analisis ini prinsipnya berupa basis data dari data primer maupun data
+sekunder dengan data aktual tahun 2010 seperti data fisik dan data garis pantai
+Hasil dan Pembahasan
+Pemetaan tipe pantai di kawasan pesisir Kota Makassar mengacu pada klasifikasi
+pantai dari Dolan (1972) dan dilakukan secara visual mulai dari ujung pantai utara daerah
+penelitian secara menerus hingga ke arah selatan dari ujung daerah penelitian.
+Berdasarkan hasil pengamatan secara visual perbedaan mencolok terjadi pada
+daerah muara sungai Tallo. Di muara sungai ini pola arus yang ada sangat berperan penting
+bagi dinamika sedimentasi dan polutan yang mengalir keluar dari Muara Sungai. Arus susur
+pantai yang terjadi di daerah penelitian dibangkitkan oleh ombak yang datangnya menuju
+arah baratdaya – barat dan membentuk sudut terhadap garis pantai. Kondisi pantai akibat
+perbedaan tingkat sedimentasi menyebabkan perbedaan tipe pantai yang sangat berbeda.
+Pada pantai yang tersusun oleh sedimentasi batuan yang memiliki tipe pantai berpasir, hal
+ini terjadi di daerah yang langsung berhadapan dengan perairan Selat Makassar, sedangkan
+pada pantai yang tersusun oleh sedimentasi lumpur yang memiliki tipe pantai
+berbakau/mangrove.
+Berdasarkan hasil analisis secara spasial, diperoleh bahwa untuk tipe pantai pada
+daerah penelitian dapat dibagi menjadi tiga tipe, yaitu: (1) pantai berpasir, (2) pantai
+berbakau/ bermangrove, dan (3) pantai reklamasi, seperti ditunjukan pada Gambar 2.
+
+Gambar 2. Peta tipe pantai Kota Makassar
+Berdasarkan jenis pantai, unit-unit geomorfologi serta litologi penyusunnya, berikut
+dibahas mengenai karakteristik pantai di wilayah penelitian Kota Makassar dan sekitarnya,
+sebagai berikut:
+Wilayah pantai Kota Makassar terbagi atas 3 (tiga) macam jenis pantai:
+a. Pantai berpasir
+Pantai berpasir ditemukan tersebar mendominasi hampir di seluruh bagian kota.
+Pantai ini dicirikan oleh pasir pantai sebagai batas pesisir (Gambar 3). Pasir berukuran
+halus, warna hitam kecoklatan, lebar paras pantai bervariasi dari 3 – 24 meter. Ukuran pasir
+halus ditemui hampir diseluruh bagian pantai. Penggunaan lahan di sekitar pantai berpasir
+adalah kawasan wisata, permukiman dan pertokoan. Berdasarkan pengamatan garis pantai
+di wilayah teluk, dapat diketahui telah terjadi perubahan garis pantai akibat proses
+geomorfologi berupa abrasi air laut.
+Pantai berpasir di Kota Makassar dapat direkomendasikan untuk beberapa potensi
+aktifitas wisata seperti; snorkeling, olahraga pantai (bola volley pantai, sepak bola pantai),
+bermain pasir, piknik, berenang, berjemur, maupun berselancar angin.
+
+Gambar 3. Jenis pantai berpasir di wilayah Kota Makassar
+___________________________________________________________________________
+Gambar 4. Jenis pantai berbakau di wilayah Kota Makassar
+
+b. Pantai berbakau/bermangrove
+Pantai berlumpur atau mangrove dijumpai di sekitar wilayah ekosistem estuari
+sehingga keberadaannya di pantai Kota Makassar berasosiasi dengan ekosistem estuari,
+khususnya di mauara sungai Tallo. Disini terlihat batas yang jelas antara laut dan vegetasi
+mangrove sebagai batas pesisir (Gambar 4), dengan kerapatan yang sedang hingga tebal.
+Sesuai dengan vegetasi yang tumbuh diatasnya, terlihat bahwa kandungan lumpur yang
+menjadi substrat tempat tumbuh vegetasi ini menjadi bagian yang tak terpisahkan dari
+karakteristik pantainya. Pantai berlumpur atau mangrove pada daerah penelitian tersebut
+dapat direkomendasikan untuk beberapa potensi aktifitas wisata seperti; kegiatan studi
+wisata.
+c. Pantai reklamasi
+Genesa pantai yang tersusun oleh pasir dan semen merupakan hal utama pembentuk
+pantai jenis ini. (Gambar 5). Kemiringan tebing mencapai ± 90°. Dominasi pantai jenis ini
+terlihat terutama di bagian utara Kota Makassar. Pantai reklamasi di Kota Makassar dapat
+direkomendasikan untuk beberapa potensi aktifitas wisata seperti;: kegiatan memancing
+dan berjalan-jalan atau berlari-lari di sepanjang pantai.
+_____________________________________________________________________
+Gambar 5. Jenis pantai reklamasi di wilayah Kota Makassar
+Kesimpulan
+Berdasarkan hasil analisis spasial, diperoleh pada daerah penelitian terbagi menjadi
+tiga tipe pantai yaitu: (1) pantai berpasir, (2) pantai berbakau, dan (3) pantai reklamasi.
+Ketiga tipe pantai tersebut dapat direkomendasikan untuk beberapa potensi aktifitas wisata
+seperti; (1) pantai berpasir: snorkeling, olahraga pantai (bola volley pantai, sepak bola
+pantai), bermain pasir, piknik, berenang, berjemur, maupun berselancar angin, (2) pantai berbakau/ bermangrove: kegiatan studi wisata, dan (3) pantai reklamasi: kegiatan
+memancing dan berjalan-jalan atau berlari-lari di sepanjang pantai.

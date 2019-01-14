@@ -1,0 +1,155 @@
+﻿Abstrak
+Tujuan dari penelitian ini adalah untuk mengetahui sifat mekanik dan sifat
+listrik CoCr melalui kajian ab initio molecular dynamic. Pseudopotensial yang
+digunakan pada perhitungan komputasi ini menggunakan LDA (Local Density
+Approximation) dan GGA (Gradien Density Approximation). Struktur CoCr
+menggunakan space group F d -3 m :1 . Sifat mekanik yang ditinjau meliputi
+modulus bulk dan konstanta kisi keseimbangan. Modulus bulk hasil
+perhitungan komputasi menggunakan GGA 171 GPa dan LDA 145 GPa,
+dengan presentase kesalahan 3,93 % dan 18,53 %. Konstanta kisi
+keseimbangan untuk GGA pada titik 7,9784 Å dengan kesalahan sebesar 4,28
+%, sedangkan LDA diperoleh 7,5634 Å dengan kesalahan 9,26 %. Sifat listrik
+yang ditinjau meliputi celah pita yang diperoleh dari density of state (DOS).
+Lebar celah pita diperoleh sebesar 2,3975 eV untuk pseudopotensial LDA
+dengan presentase kesalahan dan 2,2710 eV untuk GGA dengan presentase
+selisih 16,9 %, sedangkan pseudopotensial LDA sebesar 19,3 %.
+Pseudopotensial GGA memiliki kesesuaian lebih baik dengan hasil
+eksperimen dibandingkan pseudopotensial LDA
+Kata kunci: Ab Initio, CoCr, SIESTA, Modulus Bulk, Konstanta Kisi
+Keseimbangan, dan Density of State.
+
+BAB I
+PENDAHULUAN
+1.1 Latar Belakang
+Perkembangan ilmu pengetahuan dan teknologi membuat manusia semakin
+pandai menyikapi berbagai masalah terutama di bidang kesehatan. Salah satu
+teknologi kesehatan yang terus dikembangkan sampai sekarang adalah biomedical
+engineering yang mengkaji tentang organ buatan dan material implan tulang. Orang
+yang mengalami kerusakan tulang bisa disebabkan beberapa hal, di antaranya
+trauma, tumor, kecelakaan, infeksi dan komplikasi (Betz, 2002).
+Material implan berbasis logam memiliki keunggulan yang berbeda-beda.
+Implan logam titanium dari segi toksisitas lebih aman digunakan di bandingkan
+implan dari logam lainnya (Deepak dan Majula, 2011). Sisi lain dari implan
+titanium kurang tepat jika diaplikasikan pada persendian, karena sering berdampak
+kelelahan pada tulang (Manivasagam et al., 2010). Logam stainless steel tahan
+terhadap korosi dan biaya produksi lebih rendah daripada kedua logam implan
+lainnya. Sifat mekanik stainless steels memiliki kekuatan lebih tinggi daripada
+tulang asli manusia, akibatnya kurang fleksibel ketika beradaptasi dengan
+permukaan tulang (Disegi dan Eschbach, 2000). Salah satu implan berbasis paduan
+kobalt adalah kobalt kromium (CoCr), material ini tidak menyebabkan iritasi,
+kekuatan sesuai standar tulang dan bersifat biokompatibel (Marti, 2000).
+
+
+
+Tinjauan sifat mekanik CoCr dari segi eksperimen pada umumnya untuk
+analisis modulus young. Mulai dari dari pemilihan metode sintesis yang tepat
+(Susanto, et al., 2014) , temperatur sintering yang optimum (Saktiani, et al., 2014),
+dan variasi komposisi (Kamardan, et al., 2010). Penelitian tersebut secara umum
+bertujuan untuk memperbaiki kualitas CoCr sebagai implan tulang baik dari segi
+mekanik (Saktiani, et al., 2014), maupun termal (Susanto, et al., 2014). Sifat
+mekanik termasuk modulus young beberapa implan logam seperti titanium
+(Ti6Al4V) ~ 110 GPa, CoCr alloy ~200 GPa, dan stainless steell ~190 GPa (Mae,
+2012).
+Pada aplikasi CoCr sebagai implan, analisis sifat mekanik seperti modulus
+bulk juga diperlukan. Modulus bulk merupakan kecenderungan suatu bahan untuk
+berubah bentuk ke segala arah jika diberikan tegangan seragam. Modulus bulk
+memiliki istilah lain seperti elastisitas volumetrik. Pentingnya tinjauan modulus
+bulk untuk implan tulang disebabkan oleh perubahan implan secara tiga dimensi
+yang disebabkan beberapa faktor seperti temperatur maupun faktor lain dapat
+mempengaruhi jaringan di sekitarnya, serta berpengaruh pada sambungan dengan
+tulang asli. Hasil eksperimen modulus bulk implan paduan CoCr bernilai 178-188
+GPa (ASM Comitte, 2009).
+Modulus bulk dari kajian teoritis berhubungan erat dengan struktur
+relaksasi. Kajian secara teoritis memandang material dari segi mikroskopis.
+Struktur relaksasi merupakan keadaan tatanan atom pada keadaan stabil. Keadaan
+stabil ini diperoleh dengan optimalisasi parameter konstanta kisi yang kemudian
+berpengaruh pada volume ruang yang digunakan.
+
+
+
+Studi tentang sifat listrik implan tidak kalah penting, namun kurang
+dieksplorasi dari segi eksperimen. Tulang memiliki sifat dielektrik, termasuk bahan
+piezoelektrik, dan semikonduktor. Hal ini dimanfaatkan untuk terapi dengan
+mengalirkan tegangan pada kasus tulang retak dan patah ringan untuk mempercepat
+penyembuhan (Newton, et al., 2013). Konduktivitas listrik pada frekuensi 1 MHz
+untuk tulang femur sekitar 0,2 Sm-1, sedangkan untuk tulang tengkorak sebesar
+~0,09 Sm-1 (Sierpowska, 2007). Pada dasarnya sifat listrik dan mekanik implan
+tulang disesuaikan sesuai dengan tulang asli agar berfungsi secara normal (Ionescu
+et al., 2014).
+Kajian tentang sifat mekanik dan listrik CoCr sebagai implan banyak
+dilakukan dari segi makroskopik melalui eksperimen langsung. Hal ini menjadi
+menarik jika kajian tersebut dilihat dari sudut pandang atomik menggunakan
+metode dinamika molekul. Metode dinamika molekul merupakan suatu metode
+simulasi menggunakan teknologi komputer untuk mempelajari keadaan
+mikroskopis berupa interaksi antar molekul. Metode ini dapat melibatkan banyak
+atom bahkan mencapai jumlah ribuan atom yang sulit dilakukan eksperimen di
+laboratorium secara langsung. Kajian teoritik melalui simulasi komputer digunakan
+untuk menyelesaikan masalah keterbatasan alat dalam mempelajari sistem.
+Simulasi komputer telah terbukti mampu memberikan data-data struktur dan
+dinamika ion logam.
+Metode dinamika molekul dapat digunakan untuk memprediksi berbagai
+sifat material, sehingga memungkinkan untuk melakukan kajian yang lebih luas
+dari tinjauan berbagai disiplin ilmu sains. Sifat yang umum dikaji menggunakan
+metode dinamika molekul adalah elektrik, namun saat ini dinamika molekul dapat
+digunakan untuk analisis yang lebih luas, seperti sifat mekanik, konduktivitas
+termal, struktur zat padat, sifat optik, sifat kimia dan sifat-sifat yang lain. Alasan
+inilah yang menjadikan metode ini banyak diterapkan dari berbagai bidang, tidak
+hanya untuk pengembangan ilmu pengetahuan, namun bidang lain seperti bidang
+medis dan industri telah menerapkan metode ini. Banyak keuntungan yang
+ditawarkan, dengan metode dinamika molekul memungkinkan untuk melakukan
+banyak uji coba hingga memperoleh komposisi serta sifat yang ditargetkan sesuai
+aplikasi. Eksperimen secara langsung dengan material sesungguhnya dilakukan
+setelah data hasil prediksi yang sesuai target telah diperoleh, sehingga selain hemat
+biaya, keuntungan lainnnya adalah waktu yang diperlukan juga lebih efisien.
+Metode dinamika molekul membuat sesuatu yang sulit diselesaikan karena
+keterbatasan biaya dan bahan menjadi lebih mudah dan efisien.
+Penelitian dengan membandingkan metode dinamika molekul klasik dan
+kuantum untuk analisis struktur ion skandium (I) menunjukkan adanya perbedaan
+yang cukup signifikan (Fajar, 2010). Metode dinamika molekular kuantum dinilai
+akurat untuk simulasi struktur dan sifat listrik ion Y2+ (Sukir, 2011). Metode
+dinamika molekul terbaru yang digabungkan dengan density functional theory
+(DFT) disebut dengan ab initio molecular dynamic. Metode ab initio molecular
+dynamic digunakan untuk analisa struktur kobalt (II) menunjukkan adanya
+kesesuaian dengan hasil eksperimen (Iswanto, et al. 2014). Penelitian yang
+dilakukan oleh Iswanto dilakukan untuk mempelajari sifat struktur dan dinamika
+hidrasi ion Co2+ dalam lautan.
+
+
+
+Salah satu perangkat lunak yang menerapkan metode ab initio melecular
+dynamic adalah SIESTA (Spanish Initiative of Electron Simulation of Thausand
+Atoms). Keluaran SIESTA dapat digunakan untuk mengetahui struktur mekanik
+seperti modulus bulk serta sifat listrik yang meliputi rapat keadaan dan celah pita
+material dengan bantuan Gnuplot. Gnuplot digunakan untuk membuat plot grafik
+dari data-data keluaran SIESTA, sehingga memudahkan saat proses analisis. Selain
+itu keluaran SIESTA dapat digunakan untuk memvisualisasikan struktur kristal
+dengan bantuan perangkat lunak lain, yaitu Vesta.
+1.2 Rumusan Masalah
+1. Bagaimana sifat mekanik CoCr menggunakan metode ab initio
+molecular dynamic ?
+2. Bagaimana sifat listrik CoCr menggunakan metode ab initio molecular
+dynamic ?
+1.3 Batasan Masalah
+1. Material yang ditinjau CoCr Kristal simetri mikroskopik dengan grup
+ruang F d -3 m :1.
+2. Kajian sifat mekanik meliputi analisis modulus bulk.
+3. Sifat listrik yang dianalisis yaitu rapat keadaan dan celah pita.
+4. Jenis pseudopotensial yang digunakan adalah LDA dan GGA.
+5. Perangkat lunak yang digunakan SIESTA, Vesta, Python dan Gnuplot.
+
+
+
+1.4 Tujuan Penelitian
+1. Mengetahui sifat mekanik implan CoCr menggunakan ab initio molecular
+dynamic.
+2. Mengetahui sifat listrik dari CoCr sebagai aplikasi material implan
+menggunakan ab initio molecular dynamic.
+1.5 Manfaat Penelitian
+1. Memberikan informasi mengenai sifat mekanik, listrik, dan struktur
+kobalt kromium (CoCr).
+2. Hasil simulasi komputasi ab initio molecular dynamic menjadi suatu
+penghubung antara hasil eksperimen dengan teoritis.
+3. Hasil penelitian ini dapat digunakan sebagai penilaian terhadap
+keakuratan metode yang digunakan, sehingga memungkinkan
+penggunaan metode ini untuk memprediksi sifat suatu material yang
+belum diuji secara eksperimen.

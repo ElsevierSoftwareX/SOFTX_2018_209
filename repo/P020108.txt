@@ -1,0 +1,115 @@
+﻿Tuberkulosis (TB) merupakan penyakit menular yang disebabkan oleh
+bakteri Mycobactrium tuberculosis (MTB) yang biasanya menyerang salah satu
+bagian tubuh yaitu paru-paru (TB paru). Penyakit ini juga merupakan penyebab
+kematian yang cukup besar. Indonesia adalah salah satu negara yang melakukan
+program pengendalian TB. Sementara itu, Ilmu matematika berperan penting
+dalam memahami dinamika dan strategi yang tepat untuk mengendalikan
+penyebaran penyakit dengan bantuan model matematika. Model matematika ini
+memperhitungkan transmisi individu yang telah mendapat treatment dan individu
+terinfeksi penyakit tuberkulosis yang dirawat di rumah sakit. Tujuan dari skripsi
+ini adalah menganalisis model matematika penyebaran penyakit tuberkulosis
+dengan pengaruh perawatan di rumah sakit.
+Analisis kestabilan lokal dari sistem menggunakan kriteria Routh-Hurwitz.
+Terdapat dua model yaitu model tanpa dan dengan laju tranmisi I ke T.
+Berdasarkan analisis model pertama diperoleh dua titik setimbang yaitu titik
+setimbang bebas penyakit dan titik setimbang endemik , sedangkan untuk
+model kedua diperoleh dua titik setimbang yaitu titik setimbang bebas penyakit
+dan titik setimbang endemik . Kestabilan titik setimbang ditentukan oleh
+bilangan reproduksi dasar (model pertama) dan (model kedua). Titik
+setimbang bebas penyakit akan stabil asimtotis lokal jika dan titik
+setimbang endemik cenderung stabil asimtotis jika , sedangkan untuk
+model kedua titik setimbang bebas penyakit akan stabil asimtotis lokal jika
+memenuhi dan titik setimbang endemik cenderung stabil asimtotis
+lokal jika . Hasil simulasi numerik menunjukkan bahwa dengan adanya
+treatment terhadap populasi yang terinfeksi tetapi tidak dirawat di rumah sakit
+dapat menekan laju transmisi individu rentan menjadi terinfeksi tuberkulosis.
+Dengan demikian, perawatan di rumah sakit dapat difungsikan untuk penderita
+tuberkulosis yang sudah cukup parah, sehingga dapat menekan biaya rumah sakit
+yang dikeluarkan untuk penyembuhan penyakit tuberkulosis.
+Kata Kunci: bilangan reproduksi dasar, model matematika, pengobatan, rumah
+sakit, tuberkulosis.
+
+BAB I
+PENDAHULUAN
+1.1 Latar Belakang
+Saat ini terdapat berbagai macam penyakit menular yang tersebar di dunia,
+salah satunya adalah tuberkulosis (TB). Tuberkulosis (TB) merupakan penyakit
+menular yang disebabkan oleh bakteri Mycobactrium tuberculosis (MTB) yang
+biasanya menyerang salah satu bagian tubuh yaitu paru-paru (TB paru).
+Tuberkulosis juga dapat mempengaruhi bagian tubuh lain, seperti; sistem saraf
+pusat, sistem limfatik, otak, tulang belakang, atau ginjal. Bakteri Mycobactrium
+tuberculosis (MTB) yang telah menginfeksi suatu individu akan dikendalikan oleh
+sistem kekebalan tubuh individu tersebut dan infeksi akan menjadi aktif ketika
+penyebaran bakteri tersebut berada di luar kendali (Whang, dkk, 2011).
+Selain itu, tuberkulosis merupakan penyebab kematian yang cukup besar
+daripada penyakit menular lainnya. Sekitar 2 miliar orang (sepertiga dari populasi
+dunia secara keseluruhan) telah terinfeksi oleh tuberkulosis dan sekitar dua juta di
+antaranya meninggal dunia. Setiap tahunnya, sekitar 9 juta kasus tuberkulosis
+aktif baru telah berkembang di dunia. Pada tahun 2011, diperkirakan terdapat 8,7
+juta kasus tuberkulosis secara global. Kasus tersebut setara dengan 125 kasus per
+100.000 penduduk. Negara dengan tingkat kejadian kasus tuberkulosis tertinggi
+adalah Afrika Selatan, dengan 993 kasus per 100.000 orang. Kemudian India
+memiliki jumlah penduduk yang terinfeksi oleh bakteri Mycobactrium
+tuberculosis (MTB) terbesar, dengan perkiraan 2,2 juta kasus baru (WHO, 2012).
+
+Sementara itu, Indonesia merupakan negara kelima dengan beban tuberkulosis
+tertinggi di dunia. Estimasi prevalensi tuberkulosis semua kasus adalah sebesar
+660.000 (WHO, 2010) dan estimasi insidensi berjumlah 430.000 kasus baru per
+tahun. Jumlah kematian akibat TB diperkirakan 61.000 kematian per tahunnya
+(WHO, 2012). Angka Multidrug Resistant Tuberculosis (MDR TB) diperkirakan
+sebesar 2% dari seluruh kasus TB baru (lebih rendah dari estimasi di tingkat
+regional sebesar 4%) dan 20% dari kasus TB dengan pengobatan ulang.
+Diperkirakan terdapat sekitar 6.300 kasus Multidrug Resistant Tuberculosis
+(MDR TB) setiap tahunnya (Kementrian Kesehatan RI, 2011).
+Meskipun memiliki beban penyakit TB yang tinggi, Indonesia merupakan
+negara pertama di antara High Burden Country (HBC) di wilayah WHO South-
+East Asian yang mampu mencapai target global TB untuk deteksi kasus dan
+keberhasilan pengobatan pada tahun 2006. Pada tahun 2009, tercatat sejumlah
+294.732 kasus TB telah ditemukan dan diobati (data awal Mei 2010) dan lebih
+dari 169.213 di antaranya terdeteksi tuberkulosis paru dengan bakteri yang tahan
+asam positif (BTA+). Dengan demikian, Case Notification Rate untuk TB BTA+
+adalah 73 per 100.000 (Case Detection Rate 73%). Rerata pencapaian angka
+keberhasilan pengobatan selama 4 tahun terakhir adalah sekitar 90% dan pada
+kohort tahun 2008 mencapai 91%. Pencapaian target global tersebut merupakan
+tonggak pencapaian program pengendalian TB nasional yang utama (Kementrian
+Kesehatan RI, 2011).
+Ilmu matematika mempunyai peran penting dalam memahami dinamika
+penyebaran penyakit dan strategi yang tepat untuk mengendalikan penyebaran penyakit tersebut dengan bantuan model matematika. Dinamika model
+matematika penyakit tersebut dapat diamati dari kestabilan titik setimbang model
+tersebut. Oleh karena itu, model matematika mempunyai peranan penting dalam
+analisis kestabilan titik setimbang model penyebaran penyakit tuberkulosis.
+Berbagai model tentang tuberkulosis telah banyak dirumuskan dan dikaji oleh
+peneliti-peneliti sebelumnya. Kebanyakaan dari model tersebut tidak
+memperhitungkan transmisi individu yang telah mendapat treatment dan individu
+yang terinfeksi penyakit tuberkulosis yang dirawat di rumah sakit karena di Cina
+hampir 47% dari individu-individu yang menularkan penyakit tuberkulosis tidak
+melakukan perawatan di rumah sakit (Wang, 2011).
+Berdasarkan uraian di atas, maka penelitian ini akan mengkaji ulang model
+matematika penyebaran tuberkulosis dengan pengaruh perawatan di rumah sakit
+yang dikenalkan oleh Zhang, dkk (2015). Selain itu, dalam penelitian ini akan
+dilakukan analisis kestabilan dari titik setimbang dan interpretasi model
+metematika penyebaran tuberkulosis tersebut.
+1.2 Rumusan Masalah
+Berdasarkan uraian latar belakang di atas, maka rumusan masalah dalam
+penulisan ini adalah sebagai berikut:
+1. Bagaimana analisis model matematika penyebaran tuberkulosis dengan
+pengaruh perawatan di rumah sakit?
+2. Bagaimana interpretasi model matematika penyebaran tuberkulosis dengan
+pengaruh perawatan di rumah sakit?
+
+1.3 Tujuan
+Tujuan dari penulisan ini adalah sebagai berikut:
+1. Menjelaskan analisis model matematika penyebaran tuberkulosis dengan
+pengaruh perawatan di rumah sakit.
+2. Menjelaskan interpretasi model matematika penyebaran tuberkulosis
+dengan pengaruh perawatan di rumah.
+1.4 Manfaat
+Manfaat dari penulisan ini adalah sebagai berikut:
+1. Memberikan kontribusi terhadap perkembangan ilmu pengetahuan
+matematika, khususnya di bidang pemodelan matematika yang terkait
+dengan penyebaran penyakit tuberkulosis.
+2. Memberikan gambaran tentang situasi penyebaran penyakit tuberkulosis
+saat ini dan proyeksi masa depan sehingga hasil analisis yang diperoleh
+dapat digunakan oleh berbagai pihak dalam perencanaan program
+pencegahan penyakit tuberkulosis dengan cara yang lebih baik dan lebih
+diarahkan.

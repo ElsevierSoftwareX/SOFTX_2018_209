@@ -1,0 +1,118 @@
+﻿ABSTRAK
+Eksploitasi sumber daya alam hayati memiliki peran penting dibidang
+pangan dan ekonomi, namun eksploitasi yang tidak terencana bisa mengakibatkan
+kepunahan sumberdaya alam. Ada beberapa cara menjaga kelestarian sumber
+daya, salah satunya adalah pembebanan pajak pemanenan. Pajak diharapkan
+menjadi kontrol untuk menjaga kelestarian sumber daya dan peningkatan kualitas
+ekonomi.
+Tujuan skripsi adalah menganalisis tiga model predator-prey dengan adanya
+makanan alternatif. Pertama, dari analisis model predator-prey dengan sumber
+makanan alternatif diperoleh tiga titik setimbang, yakni kepunahan ,
+kepunahan predator , dan koeksistensi prey dan predator . Titik
+setimbang tidak stabil, sedangkan titik setimbang dan stabil asimtotis.
+Berdasarkan simulasi numerik yang dilakukan, diperoleh kesimpulan bahwa
+spesies predator beralih ke makanan alternatif saat terjadi penurunan atau
+kepunahan spesies. Kedua, dari model predator-prey dengan sumber makanan
+alternatif dan pemanenan diperoleh tiga titik setimbang, yakni kepunahan ,
+kepunahan predator , dan koeksistensi prey dan predator .Titik
+setimbang , , dan stabil asimtotis dengan syarat tertentu. Berdasarkan
+simulasi numerik yang dilakukan, diperoleh kesimpulan bahwa dengan adanya
+pemanenan prey akan menurunkan populasi predator. Terakhir, dari model
+predator-prey dengan adanya sumber makanan alternatif, pemanenan dan pajak
+diperoleh lima titik setimbang, yakni titik setimbang kepunahan , kepunahan
+predator tanpa usaha pemanenan , kepunahan predator , tanpa
+pemanenan dan koeksistensi prey dan predator . Titik setimbang
+tidak stabil, sedangkan titik setimbang , , dan stabil asimtotis dengan
+syarat tertentu. Berdasarkan simulasi numerik yang dilakukan, diperoleh
+kesimpulan bahwa saat pajak pemanenan ditingkatkan maka usaha pemanenan
+akan berkurang dan pemberian pajak bisa meningkatkan populasi predator. Jadi
+pemberian pajak bisa menjadi cara untuk mencegah kepunahan predator.
+
+
+
+BAB I
+PENDAHULUAN
+1.1. Latar Belakang
+Sumber daya alam hayati adalah sumber daya terbarukan yang berguna
+untuk menunjang kebutuhan manusia dan pertumbuhan yang cepat dari
+industrialisasi dan populasi manusia mengakibatkan peningkatan eksploitasi atau
+pemanfaatan beberapa sumber daya alam hayati. Ikan merupakan salah satu
+contoh sumber daya alam hayati yang memiliki peran yang penting dibidang
+pangan dan ekonomi (Kar dan Ghosh, 2014).
+Eksploitasi sumber daya penting dilakukan untuk pertumbuhan dan
+perkembangan suatu negara, namun eksploitasi yang tidak terencana bisa
+mengakibatkan kepunahan pada sumber daya tersebut. Sumber daya akan
+terancam punah oleh eksploitasi yang berlebihan, terlihat dari jumlah persediaan
+sumber daya yang semakin menurun. Dewasa ini, sejumlah stok ikan telah habis
+oleh eksploitasi yang berlebihan, dan banyak yang terancam punah (Botsford
+dkk., 1997). Untuk mencegah kerusakan atau kepunahan sumber daya diperlukan
+suatu perencanaan ataupun pengelolaan yang tepat (Kar dan Ghosh, 2013).
+Pengelolaan sumber daya ikan harus memperhatikan ketersediaan stok yang
+menentukan keberlangsungan dari model rantai makanan. Mempertahankan
+ukuran stok ikan agar tetap lestari yang memungkinkan hasil Maximum
+Sustainable Yield (MSY) merupakan tujuan utama dari manajemen. Selain itu
+pengelolaan sumber daya ikan juga harus memperhatikan jumlah tangkapan per unit usaha atau Catch Per Unit Effort (CPUE) sebagai indikator tingkat efisiensi
+dari pengerahan usaha, apabila nilai CPUE yang lebih tinggi mencerminkan
+tingkat efisiensi penggunaan usaha yang lebih baik (Fauzi, 2010).
+Untuk terwujudnya kelestarian sumber daya alam dan keseimbangan
+ekonomi, para peneliti merekomendasikan pembentukan Kawasan Konservasi
+Perairan (KKP) disebut juga Marine Protected Areas (MPA). Ada juga beberapa
+cara lain untuk mewujudkan kelestarian sumber daya yakni pembatasan pada
+kapal, pajak, dan jumlah nelayan. Hal ini merupakan kontrol pertama yang biasa
+diterapkan pada nelayan untuk memperlambat laju tangkapan. Krishna dkk.
+(1998) mempertimbangkan pajak sebagai alat kontrol untuk menjaga dari
+kepunahan spesies predator dalam model predator-prey dengan adanya makanan
+alternatif dan pemanenan prey yang bertujuan untuk peningkatan kualitas
+ekonomi.
+Dalam tulisan ini dibahas model reaksi dari model predator-prey yang
+dinamis di mana hanya spesies prey yang dikenakan pemanenan. Model predatorprey
+yang dibahas merupakan versi modifikasi dari model predator-prey
+tradisional di mana predator akan beralih ke makanan alternatif ketika kepadatan
+prey yang mereka sukai rendah (Kar dan Ghosh, 2012). Hal ini diasumsikan
+bahwa makanan alternatif tidak dinamis dan keuntungan dari pendekatan ini
+adalah bahwa itu mengurangi dimensi dari model. Usaha penangkapan ikan
+diambil menjadi variabel dinamis dan dianggap sebanding dengan jumlah modal
+yang diinvestasikan dalam perikanan.
+Meskipun model yang dipakai tidak didasarkan pada studi kasus, komunitas
+krill-paus bisa menjadi contoh yang baik untuk model tersebut. Meskipun memiliki beberapa sumber makanan seperti zooplankton, copepoda, dan cumicumi
+dll. Krill adalah udang kecil yang merupakan sumber makanan utama bagi
+ikan paus. Meskipun tekanan perburuan paus menurun, paus telah mengalami
+kesulitan pulih dari ukuran populasi yang kecil. Meningkatnya panen krill telah
+menghambat pemulihan paus biru itu. Oleh karena itu, jika pemanenan krill
+dikendalikan dan tekanan perburuan manusia lega, habitat mungkin lebih
+menguntungkan untuk pemulihan Ghosh dan Kar (2014).
+Berdasarkan permasalahan di atas, maka dalam tulisan ini akan dibahas
+analisis model dinamika predator-prey dengan adanya sumber makanan alternatif.
+Tulisan ini merujuk pada jurnal “Sustainable use of prey species in a prey–
+predator system: Jointly determined ecological thresholds and economic tradeoffs
+“ hasil penelitian dari Ghosh dan Kar (2014). Dari penelitian Gosh dan Kar
+tersebut, penulis mengkaji ulang penelitian sesuai dengan rumusan masalah
+tulisan ini.
+1.2. Rumusan masalah
+Rumusan masalah dalam tulisan ini adalah sebagai berikut :
+1. Bagaimana analisis model predator-prey dengan adanya makanan
+alternatif ?
+2. Bagaimana analisis model predator-prey dengan adanya makanan
+alternatif dan pemanenan ?
+3. Bagaimana analisis model predator-prey dengan adanya makanan
+alternatif, pemanenan dan pajak ?
+
+1.3. Tujuan
+Tujuan dari tulisan ini adalah sebagai berikut :
+1. Mengetahui analisa model predator-prey dengan adanya makanan
+alternatif.
+2. Mengetahui analisa model predator-prey dengan adanya makanan
+alternatif dan pemanenan.
+3. Mengetahui analisa model predator-prey dengan adanya makanan
+alternatif, pemanenan dan pajak.
+1.4. Manfaat
+Manfaat adanya penulisan penelitian ini adalah :
+1. Menambah pengetahuan mengenai model dinamik bidang ekologi
+khususnya perikanan.
+2. Sebagai bahan pertimbangan untuk menentukan kebijakan yang akan
+diambil untuk menjaga kelestarian sumber daya.
+1.5. Batasan
+Berdasarkan rumusan masalah di atas, maka ruang lingkup penelitian
+dibatasi yakni model matematika yang dikaji dan parameter yang digunakan
+dalam penelitian ini merujuk pada jurnal yang ditulis oleh Ghosh dan Kar
+(2014).

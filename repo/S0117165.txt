@@ -1,0 +1,1189 @@
+﻿Aktivitas Komite Audit, Kepemilikan Institusional dan
+Biaya Audit
+
+ABSTRAK
+Penelitian ini meneliti pengaruh aktivitas komite audit dan kepemilikan institusional
+terhadap biaya audit perusahaan publik di Indonesia. Perusahaan yang digunakan sebagai
+sampel adalah perusahaan manufaktur yang terdaftar di Bursa Efek Indonesia selama
+periode 2010–2013. Terdapat 124 pengamatan yang memenuhi kriteria sampel, data
+dianalisis menggunakan bantuan Eviews 6.0. Hasil penelitian menunjukkan bahwa
+aktivitas komite audit yang diukur dengan jumlah pertemuan komite audit, berpengaruh
+positif terhadap biaya audit. Sementara itu, variabel kepemilikan institusional, tidak
+berpengaruh terhadap biaya audit. Demikian pula, tidak ada perbedaan yang signifikan
+antara kepemilikan institusional tersebar (diffused) dan kepemilikan institusional terkonsentrasi
+(blockholder) terhadap biaya audit. Hasil pengujian juga menunjukkan bahwa
+variabel kontrol jumlah anak perusahaan yang sepenuhnya dimiliki, anak perusahaan di
+luar negeri, dan kualitas audit berpengaruh secara signifikan terhadap biaya audit. Variabel
+kontrol lainnya, yaitu leverage, kerugian dan opini audit tidak berpengaruh terhadap biaya
+audit.
+Kata kunci: Biaya audit, kegiatan komite audit, kepemilikan institusional diffused dan
+blockholders.
+
+PENDAHULUAN
+Perhatian ke masalah corporate governance
+mengalami peningkatan pesat sejak beberapa
+kasus kegagalan perusahaan listing di BEI.
+Komite audit dan kepemilikan saham dianggap
+menjadi alternatif yang dipilih untuk mengatasi
+masalah corporate governance dan akuntabilitas
+perusahaan yang lebih tinggi (Verschoor, 1993).
+Panel (2004) dan Abbott and Parker (2000) menyatakan
+bahwa audit komite merupakan elemen
+penting dalam corporate governance dan dalam
+menjamin kualitas pelaporan keuangan. Telah ada
+berbagai penelitian mengenai pengaruh barbagai
+faktor corporate governance atas pelaporan keuangan
+dan kualitas audit dan tingkat biaya audit
+(Gul and Tsui 2001, Carcello et al, 2002; Abbott et
+al, 2003; Tsui et al, 2001). Berbagai penelitian ini dilakukan karena adanya pemisahan kepemilikan
+dan pengendalian sehingga terdapat masalah keagenan
+(agency problems) atas kualitas angkaangka
+akuntansi yang dilaporkan. Konflik keagenan
+muncul saat pihak manajemen terpisah dari
+pemilik. Pihak manajemen bertindak atas kepentingan
+pribadi dan memberikan hasil laporan
+keuangan yang keliru dengan alasan „oportunistis‟
+meski hal itu berarti merugikan kepentingan para
+pemegang saham (Jensen and Meckling, 1976).
+Peranan kualitas audit yang tinggi sangat penting
+untuk memeriksa dan membatasi perilaku manajerial
+oportunistik (Becker et al, 1998)
+Pemegang saham dengan tingkat kepemilikan
+saham yang besar, baik oleh perorangan, maupun
+institusional, akan secara aktif memonitor
+manajemen perusahaan dan membatasi fleksibilitas
+akuntansi untuk menghasilkan laporan keuangan
+yang menyimpang untuk kepentingan
+pribadi. Pada situasi ini, dampak negatif dari
+masalah keagenen (agency problem) dan risiko
+bawaan (inherent risk) dari salah saji material
+dalam pelaporan keuangan akan berkurang. Pada
+klien tersebut, auditor akan menetapkan risiko
+audit lebih rendah sehingga aktivitas audit juga
+lebih rendah yang pada akhirnya memberikan
+biaya audit lebih rendah. Selain itu, dengan
+tingkat kepemilikan oleh manajemen yang tinggi
+mendorong manajer menghasilkan informasi yang
+lebih relevan dibandingkan hanya menyusun
+angka akuntansi secara oportunis demi kepentingan
+pribadi. Hal ini mengakibatkan hilangnya
+risiko inheren dari salah saji material sehingga
+mengurangi risiko audit dan biaya audit. Permintaan
+untuk jasa audit dan audit yang berkualitas
+merupakan usaha yang efisien untuk
+contracting problem (Watts and Zimmerman,
+1986).
+Penelitian ini akan melakukan analisis berdasarkan
+argumen monitoring dari pemegang
+saham dan mengusulkan bahwa pemegang saham
+besar secara aktif mengawasi dan berpengaruh
+terhadap pilihan metode akuntansi dan strategi
+untuk menghasilkan informasi keuangan. Dalam
+mengembangkan argumen, peneliti mempertimbangkan
+pengaruh, baik faktor supply maupun
+faktor demand karena keduanya memungkinkan
+terjadinya hubungan yang bertentangan antara
+karakteristik kepemilikan dengan biaya audit.
+Faktor supply terkait dengan permintaan akan
+audit yang berkualitas tinggi yang diminta oleh
+pemegang saham sedangkan faktor demand terkait
+dengan dimintanya audit berkualitas tinggi
+karena manajemen ingin memberikan sinyal
+positif atas hasil kinerjanya.
+Peneliti berpendapat bahwa hubungan antara
+struktur kepemilikan dan biaya audit juga ada
+dari sudut pandang demand-side. Dari satu sisi,
+pemegang saham yang kompleks akan meminta
+manajer perusahaan untuk menggunakan jasa
+audit berkualitas tinggi sebagai jaminan deteksi
+kecurangan laporan keuangan yang ada. Di sisi
+lain, manajer dapat membeli jasa audit berkualitas
+tinggi dan luas untuk meningkatkan kredibilitas
+informasi laporan keuangan untuk menarik minat
+investor dan pemegang saham besar. Selain itu,
+manajer ingin menciptakan persepsi (penilaian)
+positif untuk memperoleh berbagai manfaat ekonomi.
+Oleh karena itu, biaya audit ditentukan baik
+oleh faktor demand maupun supply.
+Komite audit bukan bersifat wajib (mandatory)
+dan tidak selalu ada pada perusahaan kecil,
+namun komite audit wajib ada pada perusahaan
+publik sesuai aturan BAPEPAM. Peran komite
+audit dalam corporate governance makin penting.
+Dalam peraturan Bapepam IX.1.5 tahun 2012
+menekankan pada peran komite audit dalam
+pengawasan pada proses pelaporan keuangan dan
+mengawasi hubungan antara manajemen perusahaan
+dan auditor eksternal. Pada peraturan
+Bapepam tersebut telah menyebutkan mengenai
+komposisi dan aktivitas komite audit. Tanggung
+jawab komite audit meliputi: mengawasi laporan
+keuangan, mengawasi audit eksternal, dan mengamati
+sistem pengendalian internal (termasuk
+audit internal). Dari ketiga tanggung jawab tersebut,
+pengawasan pada laporan keuangan dan
+pengawasan pada audit eksternal adalah yang
+berkaitan dengan biaya audit. Pengawasan pada
+laporan keuangan meliputi review laporan keuangan
+dan kebijakan akuntansi. Komite Audit
+merupakan sub-komite dewan direksi utama dari
+perusahaan, biasanya terbentuk dari direktur noneksekutif
+dan bertanggung jawab pada hal-hal
+yang berkaitan dengan pelaporan keuangan dan
+audit (Spira LF, 1999).
+Penelitian ini mengacu pada penelitian
+Santanu, Hossain and Deis (2007) mengenai
+hubungan empiris antara karakteristik kepemilikan
+dan biaya audit. Namun dalam penelitian
+Santanu, variabel komite audit digunakan sebagai
+variabel kontrol yang diukur dengan dummy (ada
+atau tidak). Pada penelitian ini peneliti akan
+menggunakan variabel komite audit sebagai
+variabel independen yang diukur dengan jumlah
+rapat komite audit yang telah dilakukan oleh
+perusahaan sampel. Peneliti berargumen bahwa
+jumlah rapat dapat sebagai indikator terhadap
+tingkat pengawasan dan tingkat efektivitas dari
+komite audit sebagai salah satu elemen pelaksanaan
+Good Corporate Governance (GCG). Penelitian
+ini bertujuan untuk menganalisis pengaruh aktivitas
+komite audit terhadap biaya audit dan
+menganalisis perbedaan pengaruh kepemilikan institusional blockholder dan kepemilikan institusional
+diffused terhadap biaya audit.
+Berdasarkan penjelasan di atas maka menarik
+untuk dilakukan penelitian pengaruh aktivitas
+komite audit dan kepemilikan institusional
+terhadap biaya audit.Penelitian ini juga akan
+menggunakan beberapa variabel kontrol yaitu
+jumlah anak perusahaan (SUB) dan FOREIGN
+sebagai proxy dari auditee complexity (Carcello et
+al.,2002; Mitra, 2007), Leverage sebagai proxy dari
+resiko keuangan (Abbott et al (2003), LOSS sebagai
+proxy dari profitabilitas (Sharma et al,2009;
+Adelopo,2012), Opinion dan Quality (audit quality)
+(Palmrose (1986), Barkess&Simnett (1994)) sebagai
+tambahan variabel kontrol yang diperkirakan
+akan ikut mempengaruhi biaya audit.
+Teori Keagenan (Agency Theory)
+Jensen dan Meckling (1976) dan Scott (1997)
+menggambarkan hubungan keagenan (agency
+relationship) sebagai hubungan yang timbul
+karena adanya kontrak yang ditetapkan antara
+principal yang menggunakan agen untuk melakukan
+jasa yang menjadi kepentingan principal
+dalam hal terjadi pemisahan kepemilikan dan
+kontrol perusahaan. Secara garis besar, Jensen
+dan Meckling (1976) menggambarkan dua macam
+bentuk hubungan keagenan, yaitu antara manajer
+dan pemegang saham, serta hubungan antara
+manajer dan pemberi pinjaman (bondholders).
+Agar hubungan kontraktual ini dapat berjalan
+lancar, principal akan mendelegasikan otoritas
+pembuatan keputusan kepada agen dan hubungan
+ini juga perlu diatur dalam suatu kontrak yang
+biasanya menggunakan angka-angka akuntansi
+yang dinyatakan dalam laporan keuangan sebagai
+dasarnya. Pendesainan kontrak yang tepat untuk
+menyelaraskan kepentingan agen dan principal
+dalam hal terjadi konflik kepentingan inilah
+Masalah keagenan (agency problem) sebenarnya
+muncul ketika principal kesulitan untuk
+memastikan bahwa agen bertindak untuk memaksimumkan
+kesejahteraan principal. Sebagai
+contoh, agen dalam hal ini manajer memiliki
+insentif untuk meningkatkan kesejahteraannya
+sendiri dengan menggunakan fasilitas yang dipercayakan
+oleh pemegang saham atau dana yang
+diperoleh dari pemberi pinjaman (bondholders).
+Upaya untuk mengatasi atau mengurangi masalah
+keagenan ini akan menimbulkan biaya keagenan
+(agency cost) yang akan ditanggung baik
+oleh principal maupun agen. Jensen dan Mecling
+(1976) membagi biaya keagenan ini menjadi biaya
+pengawasan (monitoring cost), biaya kewajiban
+(bonding cost), dan kerugian residu (residual loss).
+Monitoring cost adalah biaya yang timbul dan
+ditanggung oleh principal untuk memonitor perilaku
+agen, yaitu untuk mengukur, mengamati,
+dan mengontrol perilaku agen. Contoh biaya ini
+adalah biaya audit dan biaya untuk menetapkan
+rencana kompensasi manajer, pembatasan anggaran,
+dan aturan-aturan operasi. Sementara bonding
+cost merupakan biaya yang ditanggung oleh agen
+untuk menetapkan dan mematuhi mekanisme
+yang menjamin bahwa agen akan bertindak untuk
+kepentingan principal. Misalnya, biaya yang dikeluarkan
+oleh manajer untuk menyediakan
+laporan keuangan kepada pemegang saham.
+Pemegang saham hanya akan mengijinkan biaya
+kewajiban (bonding cost) terjadi jika biaya tersebut
+dapat mengurangi biaya pengawasan. Sedangkan
+kerugian residu timbul dari kenyataan bahwa
+tindakan agen kadangkala berbeda dari tindakan
+yang memaksimumkan kepentingan principal.
+Komite Audit
+Komite adalah sekelompok orang yang dipilih
+oleh kelompok yang lebih besar, untuk mengerjakan
+pekerjaan tertentu atau untuk melakukan
+tugas-tugas khusus. Di dalam perusahaan, komite
+sangat berguna untuk menangani masalah-masalah
+yang membutuhkan integrasi dan koordinasi
+sehingga dimungkinkan permasalahan-permasalahan
+yang signifikan atau penting dapat segera
+teratasi (Tugiman 1995). Manfaat komite audit
+yang dibentuk sebagai sebuah komite khusus di
+perusahaan untuk mengoptimalkan fungsi pengawasan
+yang sebelumnya merupakan tanggung
+jawab penuh dari dewan komisaris. Hubungan
+yang erat antara komite audit dan dewan komisaris
+ini juga nampak dalam kewajiban pelaporan
+komite audit. Komite audit bertanggung jawab
+kepada dewan komisaris atas pelaksanaan tugas
+yang telah ditentukan dan wajib membuat laporan
+kepada dewan komisaris atas setiap penggunaan
+yang diberikan (BAPEPAM 2004).
+Pedoman yang digunakan oleh penelitian ini
+mengenai apa yang seharusnya dilakukan oleh
+komite audit adalah dari SAS No. 61 “Communications
+with Audit Committee,” dan SAS No. 90
+“Audit Committee Communications.” Komite audit
+mendorong terjadinya interaksi antara manajemen
+dengan auditor eksternal, termasuk mengenai
+estimasi akuntansi, penilaian (judgement) dari
+manajemen, dan ketidaksepakatan antara manajemen
+dan auditor eksternal. Komite audit juga
+dapat mengevaluasi masalah hukum dan peraturan
+pemerintah yang dapat mempengaruhi
+resiko perusahaan dan laporan keuangan perusahaan.
+
+Peran Komite Audit dalam Proses Negosiasi
+Audit
+Menurut Abbott et.al (2003a) komite audit
+dapat melakukan tiga tindakan berukut berkaitan
+dengan auditor eksternal dalam rangka menghasilkan
+lingkup audit atau audit assurance yang
+lebih tinggi.
+1. Anggota komite dapat meminta manajemen
+untuk memilih auditor yang terkenal dengan
+reputasi tinggi. Abbott & Parker (2000) menemukan
+bahwa perusahaan dengan komite
+audit yang semuanya anggota berasal dari
+dewan komisaris independen, yang bertemu
+(mengadakan rapat) minimal dua (2) kali
+dalam setahun cenderung memilih auditor dari
+KAP Big 5.
+2. Komite audit dapat meminta lingkup audit
+yang lebih luas kepada auditor eksternal
+(Simunic & Stein, 1996). Komite audit akan
+bertemu dengan ketua auditor independen
+perusahaan dan manajemen untuk mereview
+lingkup audit yang diusulkan pada tahun
+berjalan, prosedur audit yang akan ditempuh
+dan pada tahap akhir audit, mereview temuan
+audit termasuk komentar dan rekomendasi
+dari ketua tim auditor independen. Bila
+memperluas lingkup audit dikaitkan dengan
+meningkatnya kualitas, maka juga dapat dikatakan
+kualitas komite audit juga meningkat.
+DeZoort (1997) menemukan bukti mengenai
+keterlibatan komite audit dengan tugas audit
+eksternal, bahwa tugas utama anggota komite
+audit adalah untuk mereview hasil pekerjaan
+auditor eksternal.
+3. Komite audit secara tidak langsung dapat
+mempengaruhi luasnya lingkup audit dengan
+mengurangi ancaman manajemen untuk
+mengganti auditor (Knapp 1985). Demikian
+pula, pada saat penentuan lingkup audit (pada
+tahap perencanaan audit) sering melibatkan
+negosiasi antara auditor dan manajemen, dan
+manajemen memiliki keinginan untuk meminimalkan
+biaya audit (Knapp 1985; Emby dan
+Davidson 1998). Dengan adanya negosiasi ini,
+komite audit dapat melindungi auditor dari
+tekanan manajemen untuk menyelesaikan
+audit dengan cepat, menerima representasi
+manajemen tanpa bukti yang memadai atau
+ruang lingkup audit yang terbatas, sehingga
+mengurangi kewenangan auditor.
+Aktivitas Komite Audit
+Komite audit harus memiliki saluran komunikasi
+langsung dengan auditor eksternal untuk
+membahas dan mengkaji isu-isu spesifik yang
+sesuai. Pertemuan rutin antara komite audit dan
+auditor eksternal membuatnya komite audit akan
+tetap memiliki informasi dan pengetahuan
+tentang isu-isu akuntansi dan audit yang relevan
+(Raghunandan et al. 2001). Menon dan Williams
+(1994) menyatakan bahwa frekuensi rapat adalah
+sinyal mengenai ketekunan komite audit. Dari
+peraturan Bapepam, menunjukkan bahwa: (1) frekuensi
+pertemuan merupakan komponen penting
+dari aktivitas komite audit, dan (2) frekuensi
+pertemuan sering digunakan sebagai proksi untuk
+ketekunan komite audit. Agar komite audit
+menjadi efektif, maka diperlukan waktu dalam
+melaksanakan tugasnya.
+Penelitian terbaru mendukung pentingnya
+frekuensi pertemuan komite audit. Beasley et al.
+(2000) menemukan bahwa komite audit dari
+perusahaan yang melakukan penipuan (fraud),
+bertemu kurang sering daripada komite audit dari
+perusahaan non-fraud. Abbott et al. (2003a) menemukan
+bahwa perusahaan dimana komite audit
+melakukan pertemuan setidaknya empat kali
+setiap tahun cenderung tidak menyajikan kembali
+laporan keuangan auditan. Komite audit yang
+sering mengadakan pertemuan, lebih memiliki
+informasi tentang masalah audit saat ini dan lebih
+rajin dalam melaksanakan tugas-tugas mereka.
+Hal ini berarti bahwa komite audit yang sering
+bertemu secara proaktif dan positif dapat
+mempengaruhi cakupan audit selama tahapan
+audit. Komite audit yang efektif dapat dilihat oleh
+auditor sebagai meningkatkan lingkungan kontrol
+keseluruhan, sehingga mengurangi risiko pengendalian
+auditor dan jumlah yang dihasilkan dari
+pekerjaan audit dianggap perlu (Tsui et al. 2001).
+Kepemilikan Saham dan Biaya audit
+Menurut Bursa Efek Indonesia, saham (stock)
+merupakan salah satu instrumen pasar keuangan
+yang paling popular. Menerbitkan saham merupakan
+salah satu pilihan perusahaan ketika memutuskan
+untuk pendanaan perusahaan. Pada
+sisi yang lain, saham merupakan instrumen investasi
+yang banyak dipilih para investor karena
+saham mampu memberikan tingkat keuntungan
+yang menarik.
+Monks, Robert AG & Minow (2011) menyatakan
+bahwa kepemilikan saham berkaitan dengan
+hak suara dalam suatu perusahaan sesuai dengan
+proporsi kepemilikannya. Struktur kepemilikan
+menggambarkan para pihak pemegang saham dan
+porsi kepemilikan yang dimiliki oleh investor
+dalam perusahaan, yang berkaitan dengan pengaruhnya
+di dalam perusahaan.
+Dalam struktur kepemilikan perusahaan,
+investor dapat berupa investor individual atau perseorangan dan investor institusional. Kepemilikan
+Instutisional dipengaruhi oleh jumlah
+saham yang dimiliki oleh pihak institusi dari
+keseluruhan saham yang beredar. Institusi yang
+dimaksud berupa perusahaan asuransi, perusahaan
+swasta atau pemerintah, bank, mutual funds,
+yayasan, atau bentuk institusi lainnya (Monks,
+Robert AG & Minow (2011).
+Tingkat kepemilikan saham instritusional
+yang besar akan mempengaruhi aktivitas pengawasan
+yang dilakukan oleh para pemegang
+saham atas tindakan yang dilakukan oleh perusahaan
+termasuk pada proses pelaporan keuangan.
+Berdasarkan penelitian dari Carcello et al.
+2002; Abbott et al. 2003b) memberikan bukti yang
+sesuai dengan demand-side perspective bahwa
+mekanisme tata kelola (governance) mensyaratkan
+digunakannya jasa audit yang berkualitas tinggi
+untuk mengurangi agency costs dan mengurangi
+kecenderungan adanya kecurangan dalam pelaporan
+keuangan, yang mengakibatkan semakin
+tingginya biaya audit. Penelitian lain dari Gul and
+Tsui (1998) dan Tsui et al (2001), memberikan
+bukti terkait dengan supply-side (risk-based)
+perspective bahwa faktor tata kelola (governance)
+dapat mengurangi masalah keagenan dalam
+pelaporan keuangan dan mengurangi resiko salah
+saji akuntansi, sehingga lingkup pekerjaan audit
+menjadi lebih sempit yang pada akhirnya akan
+menurunkan biaya audit.
+Kane and Velury (2004) menemukan bahwa
+semakin tinggi tingkat kepemilikan institutional
+maka cenderung akan makin mendorong perusahaan
+emiten membeli jasa audit dari kantor
+akuntan publik besar untuk mendapatkan hasil
+audit yang berkualitas. Hal ini akan meningkatkan
+nilai perusahaan, yaitu dengan meningkatkan
+peringkat kreditnya, mengurangi biaya utang (the
+cost of debt) dan biaya modal secara keseluruhan
+(cost of capital), menarik investasi institusional
+dan pada akhirnya akan meningkatkan kredibilitas
+perusahaan di pasar saham. Dengan demikian,
+tercipta hubungan positif antara kepemilikan
+dengan biaya audit.
+Pengembangan Hipotesis
+Pengaruh Karakteristik Komite Audit Terhadap
+Biaya Audit
+Hasil pekerjaan komite audit dapat meningkatkan
+reputasi direksi, tetapi juga dapat
+memperburuk reputasi karena terjadinya salah
+saji di laporan keuangan. Ketika komite audit
+menemukan salah saji yang material di laporan
+keuangan maka akan menurunkan reputasi
+direksi, sebaliknya ketika komite audit menyatakan
+bahwa laporan keuangan tidak mengandung
+salah saji material maka akan meningkatkan
+reputasi dari direksi.
+Pertemuan yang teratur antara komite audit
+dan auditor eksternal cenderung membuat komite
+audit tetap meng-up-to-date informasi mengenai
+audit dan akuntansi. Terdapat rekomendasi dari
+NACD (national association of corporate director)
+(Abbott et al. 2003) menyebutkan bahwa: (1)
+frekuensi pertemuan merupakan komponen
+penting dari efektivitas komite audit, (2) frekuensi
+pertemuan sering digunakan sebagai proxy kerajinan
+dari komite audit. Beasley et al (2000)
+menyebutkan komite audit dari perusahaan yang
+melakukan kecurangan bertemu kurang sering
+daripada komite audit dari perusahaan yang nonfraud
+(tidak melakukan kecurangan). Abbott et al
+(2000) menemukan bahwa perusahaan dengan
+komite audit yang bertemu minimal 4 kali dalam
+setahun cenderung tidak menyajikan ulang laporan
+keuangan auditan. Berdasarkan surat keputusan
+Ketua Bapepam dan LK Nomor: Kep-
+643/BL/2012, Komite Audit mengadakan rapat
+secara berkala paling kurang satu kali dalam 3
+(tiga) bulan. Pembentukan Dan Pedoman Pelaksanaan
+Kerja. Sedangkan berdasarkan peraturan
+ketua Bapepam nomor: KEP-29/PM/2004 yang
+menyatakan bahwa komite audit mengadakan
+rapat sekurang-kurangnya sama dengan ketentuan
+minimal rapat dewan komisaris yang ditetapkan
+dalam anggaran dasar, yaitu sekali dalam
+sebulan (Kharis dan Suhardjanto 2010). Semakin
+efektif komite audit maka semakin kecil kecenderungan
+untuk menyajikan kembali laporan
+keuangan yang berarti kemungkinan kecil laporan
+keuangan tersebut mengandung salah saji yang
+material. Hal ini dapat memberikan pengaruh
+menurunkan biaya audit.
+Namun terdapat pendapat lain yang bertentangan
+bahwa ada pengaruh positif aktivitas
+komite audit terhadap biaya audit (Carcello et al.
+2002; Adelopo et al. 2012). Hal ini terjadi karena
+komite audit berkepentingan untuk memberikan
+sinyal efisiensi, menjaga reputasi, dan menghindari
+resiko litigasi, sehingga memiliki konsekuensi,
+dimana makin sering komite audit bertemu atau
+mengadakan rapat maka mereka akan tetap
+menjaga keinginan dan mendesak manajemen
+untuk menjaga reputasi, dan menghindari resiko
+litigasi. Komite audit akan meminta manajemen
+untuk membeli jasa audit berkualitas tinggi
+sehingga sehingga akan meningkatkan biaya
+audit. Dari hasil yang bertentangan tersebut maka
+peneliti menetapkan hipotesis sebagai berikut:
+H1: Terdapat pengaruh jumlah pertemuan komite
+audit terhadap biaya audit.
+
+Pengaruh Kepemilikan Saham Institusional
+Diffused – Blockholder Terhadap Biaya Audit
+Kane and velury (2004) berpendapat bahwa
+investor institusional berpengaruh terhadap
+manajemen dalam 2 (dua) cara. Pertama, sebagai
+penyedia modal yang besar, mereka berpengaruh
+terhadap perdagangan surat berharga sebesar
+persentase tertentu sehingga berdampak pada
+harga pasar dari saham. Mereka juga mempunyai
+pengaruh pada biaya modal perusahaan yang
+sangat penting bagi struktur modal perusahaan
+dan merupakan komponen dalam penilaian
+perusahaan. Kedua, karena kepemilikannya yang
+besar, investor institusional memiliki hak voting
+yang dapat digunakan untuk mempengaruhi
+keputusan stratejik manajemen.
+Investor institusional biasanya memiliki
+informasi lebih baik daripada investor individual
+karena dapat informasi khusus yang berharga dan
+dianalisis tepat waktu. Untuk memenuhi tanggung
+jawab fiduciary, institusi mengembangkan
+suatu kebijakan investasi dan terus menerus
+memonitor portofolio. Peneliti berpendapat ketika
+pemegang saham institusional secara individual
+memiliki kurang dari 20% saham biasa beredar,
+dikatakan menyebar (diffused), tingkat pengawasan
+terhadap perusahaan emiten akan lebih rendah
+daripada pemegang saham institusional yang
+memiliki 20% atau lebih saham biasa beredar
+(blockholder). Ketika tingkat kepemilikan diffused
+pada investor institusional, pemegang saham cenderung
+kurang ada keinginan dan kemampuan
+untuk memonitor aktivitas perusahaan. Namun,
+apabila pemegang saham institusional meningkat,
+pemegang saham institusional blockholder menjadi
+lebih berpengaruh, memaksa perusahaan
+melakukan audit berkualitas tinggi untuk menghindari
+kecurangan dalam pelaporan keuangan.
+Jensen dan Meckling (1976) menyebutkan
+bahwa aktivitas pengawasan pemegang saham
+besar akan lebih intensif ketika terkonsentrasi
+pada beberapa investor. Pengawasan aktif akan
+mengurangi resiko bawaan dan usaha audit yang
+direncanakan akan berkurang sehingga biaya
+auditpun berkurang. Blockholder cenderung berinvestasi
+pada perusahaan dengan review eksternal
+laporan keuangan berkualitas tinggi atau tidak
+pada perusahaan yang melakukan manipulasi
+agresif. Manajemen juga akan menggunakan jasa
+audit berkualitas tinggi untuk menarik investor
+besar.
+Dari demand-side, tingkat investasi oleh
+pemegang saham institusional blockholder secara
+positif berpengaruh terhadap biaya audit. Dari
+supply-side, pemegang saham blockholder, secara
+aktif memonitor perusahaan termasuk proses
+pelaporan keuangan dan mengurangi risiko
+bawaan salah saji material, sehingga pada
+akhirnya akan meningkatkan biaya audit. Namun
+bagi pemegang saham kecil, pemegang saham
+institusional diffused tetap tidak tertarik dalam
+memonitor perusahaan termasuk keputusan stratejik
+manajer dan akan menjual saham yang
+mereka miliki apabila mereka kurang puas akan
+kinerja perusahaan. Dengan demikian, hipotesis
+yang diajukan adalah:
+H2: Ceretis paribus, terdapat pengaruh kepemilikan
+institusional terhadap biaya audit.
+H3: Ceretis paribus, terdapat beda pengaruh kepemilikan
+institusional diffused dan kepemilikan
+institusional blockholder terhadap biaya audit.
+METODE PENELITIAN
+Populasi dan Sampel Penelitian
+Populasi penelitian ini meliputi semua perusahaan
+publik yang sahamnya terdaftar di Bursa
+Efek Indonesia (BEI). Sedangkan, sampel yang
+akan dipergunakan dalam penelitian ini dipilih
+berdasarkan kriteria-kriteria tertentu (purposive
+random sampling), yaitu perusahaan manufaktur
+yang menerbitkan laporan keuangan dengan periode
+yang berakhir 31 Desember selama periode
+pengamatan penelitian, tahun 2010 sampai 2013
+(4 tahun); perusahaan yang mempunyai data
+kepemilikan saham, jumlah rapat komite audit
+dalam setahun dan jumlah biaya audit (karena
+mayoritas perusahaan tidak mencantumkan
+jumlah terinci biaya audit maka yang digunakan
+adalah professional fee). Pengambilan sampel
+dalam penelitian ini dilakukan dengan metode
+penggabungan data (pooling data).
+Jenis dan Sumber Data
+Data yang digunakan dalam penelitian ini
+merupakan data sekunder yang diperoleh dari
+laporan tahunan BEI di internet dengan situs
+www.idx.co.id dan publikasi lainnya yang terdiri
+data biaya audit (biaya professional), jumlah
+pertemuan komite audit, kepemilikan institusional,
+jumlah anak perusahaan, anak perusahaan di
+luar negeri, opini modified/unmodified, total assets,
+leverage dan nama KAP yang digunakan.
+Definisi Operasional Variabel
+Variabel terikat dalam penelitian ini adalah
+biaya audit sedangkan variabel bebasnya antara
+lain kepemilikan institusional, aktivitas komite
+audit. Selain itu, penelitian ini menggunakan variabel jumlah anak perusahaan, dummy anak
+perusahaan di luar negeri, dummy opini audit,
+leverage, dan ln total assets, sebagai variabel
+kontrolnya. Berikut disajikan definisi dari masingmasing
+variabel.
+a. Variabel Terikat
+Penelitian ini menggunakan biaya audit sebagai
+variabel terikatnya. Biaya audit diperoleh
+dari angka professional fees yaitu biaya yang
+dikeluarkan oleh perusahaan untuk jasa profesi.
+Setelah itu, angka professional fees di
+logaritma naturalkan.
+b. Variabel Bebas
+Variabel bebas yang digunakan dalam penelitian
+ini antara lain:
+1. Jumlah pertemuan komite audit (KA_MEET)
+Jumlah pertemuan komite audit dalam
+penelitian ini diukur menggunakan jumlah
+rapat komite audit dalam satu tahun. Data
+ini diperoleh dari laporan tahunan yang
+dipublikasikan oleh perusahaan.
+2. Kepemilikan institusional (INS_OWN)
+Kepemilikan institusional dalam penelitian
+ini menggunakan persentase saham yang
+dimiliki oleh insitusi. Institusi disini berupa
+perusahaan asuransi, investasi, bank, dan
+lembaga keuangan lainnya yang memang
+aktivitas utamanya melakukan investasi
+saham untuk memperoleh return.
+3. Dummy Kepemilikan Institusional (D_INST)
+Dummy 0 adalah kepemilikan institusional
+diffused (menyebar) yang mana kepemilikan
+< 20%. Sedangkan, dummy 1 adalah
+kepemilikan institusional blockholders yang
+mana kepemilikannya ≥ 20%.
+c. Variabel Kontrol
+Sebagai tambahan atas variable independen,
+model juga akan memasukkan variable control
+untuk memoderasi karakteristik perusahaan
+dan pengaruh audit yang independen. Variabel
+kontrol yang digunakan dalam penelitian ini
+antara lain:
+1. Anak perusahaan (SUB): akar dari jumlah
+anak perusahaan yang dimiliki (Gul et al,
+2001; Carcello, 2002)
+2. Adanya anak perusahaan luar negeri
+(FOREIGN): dummy 1 untuk yang memiliki
+anak perusahaan di luar negeri dan dummy
+0 untuk yang tidak memiliki.
+3. Opini audit (OPINI): dengan dummy 1 bagi
+perusahaan dengan unmodified opinion dan
+dummy 0 untuk yang mendapatkan modified
+opinion.
+4. Rasio solvabilitas (LEV): diukur menggunakan
+rasio utang atau leverage
+Leverage = long term debt / total assets
+5. Kerugian (LOSS): diukur dengan dummy 1
+untuk perusahaan yang mengalami kerugian
+pada periode amatan dan dummy 0
+untuk yang tidak mengalami kerugian.
+6. Kualitas audit (QUALITY) = diukur menggunakan
+dummy, yang mana angka 1 menunjukkan
+perusahaan diaudit oleh kantor
+akuntan publik big four dan dummy 0
+menunjukkan perusahaan diaudit oleh kantor
+akuntan publik non-big four. Kantor
+akuntan publik yang termasuk big four
+antara lain:
+a) Pricewater house Coopers yang berafiliasi
+dengan Haryanto Sahari
+b) Ernst & Young yang berafiliasi dengan
+Purwantono, Sarwoko, Sandjaja
+c) Deloitte Touche Tohmatsu yang berafiliasi
+dengan Osman Bing Satrio
+d) KPMG yang berafiliasi dengan Sidharta,
+Sidharta, Widjaja.
+Metode Analisis Data
+Jenis software yang digunakan untuk melakukan
+regresi model ini adalah dengan Microsoft
+Excel dan Eviews 6.0. Analisis data yang dilakukan
+adalah analisis statistika deskriptif dan analisis
+regresi dengan data panel. Data panel merupakan
+penggabungan data time series dan cross
+section.
+a. Analisis Statistika Deskriptif
+Analisis statisktika deskriptif digunakan untuk
+memberikan gambaran atau deskripsi suatu
+data dalam penelitian, dalam hal ini meliputi
+seluruh variabel yang ada dalam penelitian ini
+(Ghozali 2011).
+b. Analisis Data Panel
+Berdasarkan Widarjono (2009) dalam analisa
+model data panel, terdapat tiga metode yang
+biasa digunakan untuk mengestimasi model
+regresi dengan E-Views, yaitu Pooled Ordinary
+Least Square atau Common Effect Method
+(CEM), Fixed Effect Method (FEM), dan
+Random Effect Method (REM). Teknik Pooled
+Ordinary Least Square atau CEM merupakan
+gabungan dari data cross-section dengan data
+time series (pool data). Ketiga metode ini akan
+digunakan untuk mencari metode yang paling
+sesuai bagi pengujian hipotesis.
+Model data panel yang akan digunakan adalah
+sebagai berikut:
+LAFEE = β0+ β1AC_MEETit + β2INS_OWNit +
+β3D_INSTit + β4SUBit+ β5FOREIGNit
++ β6OPINIONit + β7LEVit+ β8LOSSit
++ β9QUALITYit + εit (1)
+
+Untuk menentukan model regresi yang terbaik
+antara model Pooled Least Square (CEM) dan
+Fixed Effect (FEM) digunakan Chow test
+(Widarjono, 2007).
+Rumus untuk menghitung F statistik adalah
+sebagai berikut:
+R:...
+dimana:
+N = jumlah data cross section
+T = jumlah data time series
+K = jumlah variabel penjelas
+Apabila hasil F (Fstat) lebih kecil dari Ftabel,
+maka H0 diterima dan model yang digunakan
+adalah Pooled Least Square atau Common Effect
+Model. Apabila hasil F (Fstat) lebih besar dari
+Ftabel, maka H0 ditolak. Jika hasil Fixed Effect
+Model diterima maka dilanjutkan dengan Hausmann
+Test untuk mengetahui model mana yang
+lebih baik digunakan antara Fixed Effect Model
+dan Random Effect Model. Penilaian dilakukan
+dengan menggunakan Chi Square Statistics dan
+pengambilan keputusan ditentukan secara statistik.
+Hipotesis:
+H0 = Random Effect (Hausman Test > 0,05) atau
+H1 = Fixed Effect (Hausman Test < 0,05)
+Apabila Hausmann Test lebih besar dari 0,05
+maka H0 diterima dan model yang digunakan
+adalah Random Effect Model. Sedangkan, apabila
+Hausmann Test lebih kecil dari 0,05 maka H0
+ditolak dan model yang digunakan adalah Fixed
+Effect Model.
+Sedangkan, untuk memilih model yang terbaik
+antara Common Effect Model dan Random
+Effect Model menggunakan uji Lagrage Multiplier
+(LM test).
+Nilai LMhitung akan dibandingkan dengan
+nilai Chi Squared tabel dengan df sebanyak 12 dan
+α = 5%. Rumusan hipotesis sebagai berikut:
+H0 = Pooled Least Square (LMhitung < Chi Squared
+table) atau H1= Random Effect (LMhitung >
+Chi Squared table)
+Apabila hasilnya model terbaik adalah Pooled
+Least Square maka perlu dilakukan pengujian
+asumsi regresi klasik antara lain uji multikolinearitas,
+autokorelasi, dan heteroskedastisitas.
+Hal ini dikarenakan model Pooled Least Square
+menggunakan pendekatan Ordinary Least Square
+(OLS). Sedangkan, apabila model yang terbaik
+adalah Random Effect maka tidak memerlukan
+pengujian asumsi regresi klasik (Gujarati &
+Porter, 2009). Berdasarkan penjelasan tersebut
+maka pengujian untuk memilih model terbaik
+dapat digambarkan seperti Gambar 1.
+Gambar 1. Pengujian Statistik Pemilihan Model
+Nilai LMhitung akan dibandingkan dengan
+nilai Chi Squared tabel dengan derajat kebebasan
+(degree of freedom) sebanyak jumlah variabel independent
+(bebas) dan alpha atau tingkat signifikansi
+sebesar 5% (ditentukan di awal). Apabila
+nilai LM > Chi Squared tabel maka model yang
+dipilih adalah RE, dan sebaliknya apabila nilai LM
+Chi Squared tabel maka model yang dipilih adalah
+CEM.
+1. Uji-F
+Dengan menetapkan tingkat signifikansi (α=5%),
+maka dasar pengambilan keputusannya adalah:
+a. Jika sig-F < 0.05, maka model regresi signifikan
+sehingga model tersebut dapat menggambarkan
+hubungan yang akan diteliti
+maka H0 ditolak.
+b. Jika sig-F ≥ 0.05, maka model regresi tidak
+signifikan sehingga model tersebut tidak
+sesuai maka Ho tidak ditolak.
+2. Uji t
+Ghozali (2011) menyatakan bahwa uji statistik
+t digunakan untuk menujukkan seberapa jauh
+pengaruh satu variabel bebas (independen)
+secara individual dalam menerangkan variasi
+variabel terikat (dependen). Keputusan dapat
+dibuat dengan membandingkan nilai p-value
+dibandingkan dengan 0.05 sehingga:
+a. Jika sig-t < 0.05, koefisien regresi signifikan
+maka H0 ditolak
+b. Jika sig-t ≥ 0.05, koefisien regresi tidak
+signifikan maka H0 tidak ditolak.
+3. Uji Koefisien Determinasi (R2)
+Goodness of fit (uji koefisien determinasi) bertujuan
+untuk mengukur tingkat variasi nilai
+variabel dependen yang dapat dijelaskan oleh
+variabel-variabel independen (Ghozali, 2011).
+Pengujian ini perlu dilakukan untuk dapat
+mengetahui seberapa baiknya model penelitian yang digunakan. Baik tidaknya suatu model
+dalam penelitian dengan regresi linear dapat
+dilihat dari nilai adjusted R2, dengan rentang
+nilai 0 (nol) sampai dengan 1 (satu). Semakin
+tinggi nilai koefisien determinasi, maka semakin
+baik model dalam menjelaskan hubungan
+antara variabel independen dan variabel
+dependen.
+HASIL PENELITIAN DAN PEMBAHASAN
+Analisis Statistika Deskriptif
+Data yang diperoleh pada tahun 2010 sebanyak
+248 perusahaan, tahun 2011 sebanyak 281
+perusahaan, tahun 2012 sebanyak 260 perusahaan
+dan tahun 2013 sebanyak 332 perusahaan.
+Pada penelitian ini, pengolahan data dilakukan
+dengan bantuan Eviews data panel sehingga data
+yang diolah harus lengkap selama periode amatan
+yaitu 4 tahun berturut-turut. Setelah diseleksi,
+tersisa hanya 31 perusahaan yang memiliki data
+lengkap selama 4 tahun, sehingga total observasi
+sebanyak 124. Hasil dari uji statistik deskriptif
+dapat terlihat pada Tabel 1.
+Tabel 1. Hasil Uji Statistik Deskriptif
+Descriptive Statistics
+N Minimum Maximum Mean
+Auditfee 124 18.76 27.89 21.6035
+ac_meet 124 1 41 7.21
+ins_own 124 .00 78.55 3.4532
+sub 124 0 78 7.19
+lev 124 .010 8.410 .22323
+Valid N (listwise) 124
+Berdasarkan Tabel 1 dapat diperoleh nilai
+biaya audit (LN_AUDITFEE) max (min) adalah
+27.89 atau Rp 887.449.000,- (18.76 atau
+170.125.000.-) dengan mean 21.6035 atau Rp
+270.000.000,-. Hal ini berarti rata-rata perusahaan
+sampel memiliki biaya audit yang cukup tinggi.
+Pada variabel pertemuan komite audit
+(AC_MEET) menunjukkan jumlah max (min)
+adalah 41 kali (1 kali) dengan mean 7.2 kali
+pertemuan dalam setahun. Hal ini berarti komite
+audit perusahaan sampel melaksanakan pertemuan
+rata-rata 7 kali dalam setahun, jumlah
+pertemuan ini telah melebihi jumlah minimal
+yang disyaratkan oleh BAPEPAM, yaitu 4 kali
+dalam setahun. Hal ini menunjukkan bahwa
+perusahaan sampel telah berusaha melakukan
+pengawasan yang lebih tinggi dengan adanya
+jumlah pertemuan komite audit yang tinggi untuk
+meyakinkan akan kualitas laporan keuangan yang
+dihasilkan oleh manajemen perusahaan. Variabel
+kepemilikan institusional menunjukkan jumlah
+max (min) adalah 78.55% (0%) dengan mean 3.45%
+hal ini menunjukkan, rata-rata perusahaan sampel
+memiliki proporsi kepemilikan institusional yang
+cukup rendah, karena kepemilikannya tidak
+ditujukan untuk memiliki kendali atan hak suara
+yang tinggi di perusahaan emiten.
+Pada variabel kontrol jumlah perusahaan
+anak yang dimiliki (SUB) menunjukkan jumlah
+max (min) adalah 78 anak perusahaan (0 anak
+perusahaan) dengan mean 7.19, hal ini menunjukkan
+bahwa rata-rata perusahaan sampel memiliki
+cukup banyak anak perusahaan sehingga
+akan menambah tingkat kompleksitas proses
+pelaporan keuangan dan proses audit. Pada
+variabel tingkat ungkitan (LEV) yang dimiliki
+perusahaan sampel menunjukkan jumlah max
+(min) adalah 8.41 (0.010) dengan mean 0.223
+menunjukkan tingkat ungkitan (leverage) yang
+dimiliki perusahaan sampel sangat kecil, tidak
+sampai 1. Nilai mean lev 0.223 berarti setiap 100
+asetnya dibiayai dengan hutang sebesar 0.2.
+Tabel 2. Hasil Uji Statistik Deskriptif-Frekuensi
+Dummy D_Inst % Foreign % Opinion % Loss % Quality %
+0 118 95.2 83 66.9 120 96.8 109 87.9 68 54.8
+1 6 4.8 41 33.1 4 3.2 15 12.1 56 45.2
+Pada variabel kepemilikan institusional
+diffused dan blockholder yang diukur dalam
+dummy, menunjukkan bahwa sebagian besar
+perusahaan sample memiliki kepemilikan diffused
+(95.2%) dan hanya sebagian kecil yang memiliki
+saham secara blockholder (4.8%). Variabel control
+kepemilikan anak perusahaan di luar negeri
+(FOREIGN), menunjukkan sebagian besar (66.9%)
+perusahaan sampel pada dummy nilai 0 yang
+berarti tidak memiliki anak perusahaan di luar
+negeri, hanya sebagaian kecil (33.1%) yang
+memiliki anak perusahaan di luar negeri. Variabel
+kontrol opini yang diberikan auditor kepada
+perusahaan emiten menunjukkan bahwa sebagian
+besar perusahaan sampel (96.8%) menerima opini
+modified opinion sedangkan hanya 3.2% dari
+perusahaan sampel mendapatkan opini unmodified
+opinion. Variabel control perusahaan yang
+menderita rugi (LOSS) menunjukkan bahwa
+sebagian besar perusahaan sampel (87.9%) masih
+melaporkan laba di tahun amatan sedangkan
+hanya 12.1% dari perusahaan sampel melaporkan
+rugi. Pada variabel control penggunaan audit
+berkualitas dari perusahaan Big four (QUALITY)
+menunjukkan bahwa sebagian perusahaan sampel
+(54.8%) masih menggunakan KAP non-big four
+sedangkan 45.2% dari perusahaan sampel menggunakan
+auditor big four.
+
+
+Analisis Regresi Data Panel
+Pemilihan Model Terbaik
+1. Common Effect Model (The Pooled OLS Method
+= PLS)
+Common ini sama dengan metode OLS
+(Regresi Biasa) dimana intersep dan slopenya
+tetap antar waktu dan individu. Hasil dari
+model common effect terlihat pada Tabel 3.
+Tabel 3. Hasil Pengujian Common Effect Model (CEM)
+Variable Coefficient Std. Error t-Statistic Prob.
+AC_MEET 0.044422 0.015133 2.935405 0.0040
+INS_OWN -0.000735 0.018233 -0.040331 0.9679
+D_INST -0.343678 0.836227 -0.410987 0.6819
+SUB 0.045921 0.008078 5.684683 0.0000
+FOREIGN 0.563325 0.235230 2.394783 0.0183*
+OPINION -0.094230 0.653402 -0.144215 0.8856
+LEV 0.090981 0.139613 0.651662 0.5159
+LOSS -0.610545 0.351001 -1.739441 0.0847*
+QUALITY 1.437089 0.240928 5.964816 0.0000
+C 20.19381 0.197808 102.0882 0.0000
+R-squared 0.557598 Mean dependent var 21.60355
+Adjusted R-squared 0.522671 S.D. dependent var 1.696765
+S.E. of regression 1.172278 Akaike info criterion 3.232981
+Sum squared resid 156.6627 Schwarz criterion 3.460423
+Log likelihood -190.4448 Hannan-Quinn criter. 3.325374
+F-statistic 15.96490 Durbin-Watson stat 0.591867
+Prob(F-statistic) 0.000000
+*) signifikan pada level α = 10%
+2. Fixed Effect Model (FEM)
+Pada Fixed Effect Model muncul masalah „near
+singular matrix”, hal ini disebabkan oleh dalam
+data penelitian yang telah diperoleh, terdapat
+beberapa perusahaan yang memiliki data sama
+selama periode amatan seperti data opini,
+kualitas auditor, kepemilikan institusional
+yang menggunakan dummy. Hal ini menyebabkan
+pengujian dengan FEM tidak dapat
+dilanjutkan.
+3. Random Effect Model (REM)
+Pengujian dilanjutkan dengan model Random
+Effect Model (REM) yang disajikan pada Tabel 4.
+Tabel 4. Hasil Pengujian Random Effect Model (REM)
+Variable Coefficient Std. Error t-Statistic Prob.
+AC_MEET 0.026919 0.016816 1.600760 0.0922*
+INS_OWN 0.011499 0.013862 0.829527 0.4085
+D_INST -0.508380 0.660444 -0.769755 0.4430
+SUB 0.053588 0.013877 3.861737 0.0002
+FOREIGN 0.997044 0.282891 3.524477 0.0006
+OPINION -0.333606 0.556606 -0.599357 0.5501
+LEV 0.052051 0.099771 0.521709 0.6029
+LOSS -0.333427 0.284154 -1.173402 0.2431
+QUALITY 1.352424 0.416775 3.244972 0.0015
+C 20.10834 0.298190 67.43455 0.0000
+Weighted Statistics
+R-squared 0.346060 Mean dependent var 7.310263
+Adjusted R-squared 0.294433 S.D. dependent var 0.872014
+S.E. of regression 0.732475 Sum squared resid 61.16322
+F-statistic 6.703095 Durbin-Watson stat 1.416031
+Prob(F-statistic) 0.000000
+Unweighted Statistics
+R-squared 0.526819 Mean dependent var 21.60355
+Sum squared resid 167.5621 Durbin-Watson stat 0.516877
+Setelah pengujian dengan ketiga model estimasi,
+peneliti akan memilih model yang paling
+baik untuk digunakan dalam analisis. Oleh karena
+FEM tidak dapat digunakan dalam penelitian ini
+maka peneliti hanya perlu memilih dari antara
+dua model, yaitu antara CEM dan REM.
+Pemilihan metode dilakukan dengan pengujian
+Lagrange Multiplier (LM) Test. Dari hasil pengujian
+LM, diperoleh nilai LM hitung sebesar 3271.84,
+dimana nilai itu lebih besar dari tabel Chi-Square
+(df=9) sebesar 16.91898. Hal ini berarti menolak
+Ho, yaitu estimasi yang tepat untuk model regresi
+data panel adalah Random Effect Model (REM).
+Dengan demikian, hasil pengujian dari model
+random effect yang akan digunakan untuk analisis
+selanjutnya yakni uji F, uji t, dan uji koefisien
+determinasi.
+Uji F
+Berdasarkan hasil pengujian pada Tabel 4
+menunjukkan bahwa nilai signifikansi F sebesar
+0.000000 artinya model regresi cukup baik
+untuk digunakan dalam pengujian. Oleh karena
+itu, variabel independen secara bersama-sama
+mampu menjelaskan variabel dependen.
+Uji t
+Hasil pengujian yang tersaji pada Tabel 4
+menunjukkan bahwa pada hipotesis pertama
+dinyatakan bahwa terdapat pengaruh jumlah
+pertemuan komite audit (AC_MEET) terhadap
+biaya audit. Dari hasil pengujian diperoleh hasil
+signifikansi sebesar 0.0922 dengan koefisien sebesar
+0.026919. Hasil signifikansi tersebut lebih
+kecil daripada tingkat α = 10% dengan nilai
+koefisien memiliki arah positif yang berarti sesuai
+dengan yang telah dihipotesiskan. Hal ini artinya
+H1 diterima. Hasil ini tidak mendukung hasil
+penelitian Lin et al (2006). Pada hipotesis kedua
+dinyatakan bahwa terdapat pengaruh kepemilikan
+institusional (INS_OWN) terhadap biaya audit.
+Dari hasil pengujian diperoleh hasil signifikansi
+sebesar 0.4085 dan koefisien regresi sebesar
+0.011499. Hasil signifikansi tersebut lebih besar
+dari tingkat α yang ditetapkan sehingga H2
+ditolak. Pada hipotesis ketiga dinyatakan bahwa
+terdapat perbedaan pengaruh kepemilikan institusional
+diffused dan blockholders (D_INST)
+terhadap biaya audit. Dari hasil pengujian diperoleh
+hasil signifikansi sebesar 0.4430. Hasil signifikansi
+tersebut lebih besar dari tingkat α yang
+ditetapkan sehingga H3 ditolak.
+Hasil pengujian untuk variabel kontrol menunjukkan
+bahwa variabel untuk anak perusahaan
+(SUB) memiliki nilai signifikansi 0.0002 (lebih
+kecil dari α = 5%) yang berarti terdapat pengaruh variabel SUB terhadap biaya audit yaitu semakin
+tinggi jumlah anak perusahaan yang dimiliki
+maka semakin tinggi pula biaya auditnya. Pada
+variabel FOREIGN terhadap biaya audit yaitu
+pada perusahaan yang memiliki anak perusahaan
+di luar negeri, memiliki nilai signifikansi 0.0006
+(lebih kecil dari α = 5%) yang berarti terdapat
+pengaruh variabel FOREIGN terhadap biaya
+audit yaitu biaya auditnya terpengaruh dari
+jumlah anak perusahan di luar negeri. Hasil ini
+sesuai dengan hasil penelitian Adelopo et al.
+(2012). Variabel “Sub” dan “Foreign” merupakan
+proxy dari auditee complexity dapat timbul karena
+inherent risk (yaitu resiko bisnis klien) atau timbul
+karena transaksi yang complex. Bila perusahaan
+memiliki transaksi yang complex maka akan
+memerlukan waktu audit lebih lama dan memerlukan
+auditor yang berpengalaman, untuk
+mengurangi risk of material misstatement ke level
+yang dapat diterima sehingga akan mengurangi
+audit risk. Pada variabel kualitas audit
+(QUALITY) memiliki nilai signifikansi 0.0015
+(lebih kecil dari α = 5%) yang berarti terdapat
+pengaruh variabel QUALITY terhadap biaya audit
+yang mana perusahaan yang menggunakan jasa
+dari KAP big four maka biaya auditnya lebih
+tinggi dibandingkan dengan perusahaan yang
+menggunakan jasa dari KAP non-big four.
+Tingginya biaya audit dari KAP big four karena
+KAP tersebut diidentikan dengan jasa audit
+berkualitas tinggi yang disebabkan KAP tersebut
+memiliki banyak sumber daya yang lebih tinggi
+sehingga lebih mampu menemukan adanya salah
+saji yang material sehingga lebih memberikan
+jaminan reliabilitas laporan keuangan auditan.
+Namun beberapa variabel control seperti,
+variabel OPINI memiliki nilai signifikansi 0.5501
+(lebih besar dari α yang ditetapkan) yang berarti
+tidak terdapat pengaruh variabel OPINI terhadap
+biaya audit. Leverage (LEV) yang merupakan
+variable control dari financial risk, memiliki nilai
+signifikansi 0.6029 (lebih besar dari α yang ditetapkan)
+yang berarti tidak terdapat pengaruh variabel
+leverage terhadap biaya audit. Pada variabel
+perusahaan yang mengalami kerugian pada
+periode amatan (LOSS), sebagai proxy pengukuran
+profitabilitas, memiliki nilai signifikansi 0.2431
+(lebih besar dari α yang ditetapkan) yang berarti
+tidak terdapat pengaruh variabel LOSS terhadap
+biaya audit. Hasil ini konsisten dengan penelitian
+Fields et al. (2004) dan Mitra et al. (2007). Tidak
+signifikannya antara Loss dan biaya audit
+mungkin dapat disebabkan karena sulitnya
+merumuskan (menentukan) proxy yang tepat
+untuk profitabilitas terutama karena dipengaruhi
+oleh berbagai manipulasi akuntansi.
+Uji Koefisien Determinasi
+Berdasarkan Tabel 3 menunjukkan bahwa
+nilai koefisien determinasi R2 sebesar 0.346060,
+hal ini dapat diartikan bahwa sekitar 34.60%
+perubahan audit fee dipengaruhi oleh variabelvariabel
+penentu dalam model ini sedangkan
+sisanya 65.40% dijelaskan oleh variabel lain yang
+tidak dimasukkan dalam model ini.
+Aktivitas Komite Audit dan Biaya Audit
+Pada hipotesis pertama dinyatakan bahwa
+terdapat pengaruh jumlah pertemuan komite
+audit terhadap biaya audit. Hasil pengujian menunjukkan
+hasil p-val dibawah 10% dan koefisien
+regresi yang positif sehingga menunjukkan bahwa
+jumlah pertemuan komite audit berpengaruh
+positif terhadap biaya audit. Dari hasil pengujian
+diperoleh hasil bahwa hipotesis tersebut diterima,
+namun hasil penelitian ini tidak sesuai dengan
+penelitian Adelopo (2012). Dan bila kita melihat
+dari hasil statistik deskriptif menunjukkan ratarata
+jumlah pertemuan komite audit diatas yang
+disyaratkan BAPEPAM dan rata-rata biaya audit
+yang tinggi (table 4.1).
+Hasil penelitian ini mendukung pernyataan
+Beasley et al. (2000) dan Abbott et al. (2000).
+Beasley et al. (2000) menyebutkan bahwa pada
+perusahaan yang melakukan kecurangan, ditemukan
+disebabkan karena komite audit bertemu
+kurang sering bila dibandingkan daripada komite
+audit dari perusahaan yang non-fraud (tidak
+melakukan kecurangan). Perusahaan yang diketahui
+melakukan kecurangan akan meningkatkan
+biaya audit. Hasil penelitian ini juga mendukung
+penelitian Carcello et al. (2002) yang memperoleh
+hasil adanya pengaruh positif jumlah rapat komite
+audit terhadap biaya audit. Hal ini terjadi karena
+komite audit berkepentingan untuk memberikan
+sinyal efisiensi, menjaga reputasi, dan menghindari
+resiko litigasi, dengan konsekuensi akan
+meningkatkan lingkup audit sehingga juga akan
+meningkatkan biaya audit
+Kepemilikan Institusional dan Biaya Audit
+Pada hipotesis kedua dinyatakan bahwa terdapat
+pengaruh kepemilikan institusional terhadap
+biaya audit. Dari hasil pengujian diperoleh
+hasil bahwa hipotesis tersebut ditolak. Demikian
+juga dengan hipotesis ketiga yang ditolak, artinya
+tidak ada perbedaan antara kepemilikan institusional
+diffused dan blockholders. Hal ini dapat
+disebabkan karena keputusan untuk melakukan
+audit berkualitas tinggi tidak bergantung hanya
+pada besarnya kepemilikan institusional, namun tergantung seberapa besar keinginan manajemen
+untuk mendapatkan kepercayaan investor akan
+informasi yang terkandung dalam laporan keuangan.
+Hal ini juga dapat terlihat dari bukti dari data
+yang telah diperoleh, bahwa kepemilikan institusional
+pada perusahaan sampel hanya rendah
+namun biaya audit perusahaan sampel adalah
+tinggi (Tabel 1).
+Data dari perusahaan sampel juga menunjukkan
+bahwa kepemilikan institusional sebagian
+besar di bawah 20% yang artinya lebih banyak
+yang kepemilikan diffused. Pada tingkat kepemilikan
+diffused (<20%), para investor institusional
+cenderung kurang ada keinginan dan kemampuan
+untuk memonitor aktivitas perusahaan dibandingkan
+apabila investor institusional blockholder
+(>20%) sehingga investor institusional
+diffused kurang dapat memaksa perusahaan
+melakukan audit berkualitas tinggi untuk
+menghindari kecurangan dalam pelaporan keuangan.
+Hasil penelitian ini tidak sesuai dengan
+hasil penelitian Mitra et al. (2007) bahwa terdapat
+hubungan negatif antara kepemilikan institusional
+blockholder dengan biaya audit.
+KESIMPULAN DAN SARAN
+Penelitian ini memiliki tujuan untuk memberikan
+bukti empiris pengaruh karakteristik
+komite audit dan kepemilikan saham terhadap
+audit fee. Sampel penelitian adalah perusahaanperusahaan
+yang terdaftar di BEI selama periode
+pengamatan 2010-2013. Analisis data yang digunakan
+yaitu analisis regresi panel dengan
+jumlah observasi sebanyak 124.
+Hasil penelitian menunjukkan bahwa model
+yang terbaik untuk menjelaskan pengaruh variabel
+independen terhadap biaya audit adalah
+random effect yang membuktikan aktivitas komite
+audit yang diukur oleh jumlah pertemuan komite
+audit memiliki pengaruh yang positif terhadap
+biaya audit. Sedangkan, kepemilikan saham institusional
+tidak terbukti mempengaruhi biaya audit.
+Demikian juga tidak terdapat perbedaan pengaruh
+yang signifikan antara kepemilikan institusional
+diffused dan blockholders terhadap biaya audit.
+Hasil untuk variabel kontrol membuktikan bahwa
+jumlah anak perusahaan yang dimiliki (SUB),
+adanya anak perusahaan di luar negeri
+(FOREIGN), dan kualitas audit (QUALITY)
+berpengaruh secara signifikan terhadap biaya
+audit. Sedangkan, variabel kontrol lain yakni
+leverage, loss dan opini audit tidak berpengaruh
+secara signifikan terhadap biaya audit.
+Keterbatasan dalam penelitian ini adalah
+pertama, jumlah sampel yang diperoleh dalam
+penelitian ini cukup kecil, hal ini disebabkan
+karena terbatasnya jumlah perusahaan yang
+memiliki data yang lengkap sesuai yang diperlukan
+dalam penelitian ini, kedua, pada penelitian
+ini model fixed effect tidak terbentuk karena
+adanya variabel kontrol yang datanya sama setiap
+tahunnya yaitu opini, kualitas audit, foreign dan
+loss, ketiga, tiak tersedianya data „biaya audit‟ di
+laporan keuangan sehingga peneliti menggunakan
+data „profesional fee‟ untuk digunakan sebagai data
+biaya audit. Penelitian ini masih terbuka untuk
+penelitian lain di bidang yang sama, karena nilai
+R2 masih bernilai 34,60% yang berarti masih
+banyak variabel lain yang belum masuk dalam
+model penelitian ini. Untuk penelitian selanjutnya,
+peneliti menyarankan untuk memasukkan variabel
+GCG lain seperti; karaktersitik komite audit
+yang diukur dari independensi komite audit,
+keahlian komite audit, dan aktivitas komite audit;
+karakteristik dewan komisaris dan karakteristik
+kepemilikan saham. Selain itu, peneliti juga
+menyarankan untuk memasukkan sektor industry
+lain dalam sampel penelitian seperti sektor jasa,
+dagang dan lain-lain.

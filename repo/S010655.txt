@@ -1,0 +1,1177 @@
+﻿RANTAI NILAI PERDAGANGAN PRODUK ORGANIK DAN
+DETERMINAN KEPUTUSAN KONSUMEN UNTUK MEMBELI
+
+ABSTRAK
+Pergeseran pola konsumsi masyarakat dari produk non organik ke produk organik telah melanda
+banyak negara maju dalam dua dekade terakhir. Hal ini didukung oleh peningkatan pendapatan
+masyarakat, urbanisasi, kesadaran akan masalah lingkungan dan kesehatan serta perubahan struktur
+demografi. Bagi negara berkembang seperti Indonesia, penggeseran pola makan seperti yang dialami
+oleh negara-negara maju sebenarnya juga telah terjadi terutama di kalangan masyarakat menengah ke
+atas. Penelitian ini bertujuan untuk melakukan analisis value chain produksi dan distribusi produk
+organik dan mencari determinan pembelian produk organik. Hasil penelitian menunjukkan bahwa
+jalur distribusi produk organik bervariasi. Dari kebun ada yang langsung ke konsumen atau
+supermarket dan ada yang melalui rantai agen baru ke konsumen akhir, dengan penciptaan nilai
+tambah tertinggi di hulu. Dari model ordered logit yang diaplikasikan dapat disimpulkan bahwa
+pendapatan berpengaruh positif terhadap probabilitas konsumen membeli produk organik lebih
+sering tetapi pendidikan tidak; probabilitas untuk membeli produk organik lebih sering juga lebih
+tinggi untuk usia lebih muda, tetapi alasan lingkungan hidup dan harga yang mahal tidak
+berpengaruh terhadap probabilitas untuk membeli produk organik lebih sering.
+Key words: value chain, organik, ordered logit model, nilai tambah
+PENDAHULUAN
+Dalam dua dekade terakhir telah terjadi
+pergeseran dalam pola perdagangan dan
+konsumsi makanan di dunia. Pergeseran ini
+terutama terjadi dalam komposisi bahan
+makanan organik dan non organik. Di Amerika
+Serikat, misalnya, perdagangan produk
+organik meningkat sekitar 20 %/tahun sejak 1990 (Dimitri and Green, 2002). Dalam
+kondisi perekonomian yang belum normal
+sejak krisis keuangan global, di tahun 2015
+menurut The World of Organic Agriculture
+(2015), permintaan produk organik di Amerika
+Serikat meningkat 11,5% dari tahun
+sebelumnya. Hal ini juga diikuti oleh negara-
+negara maju lain terutama di kawasan
+Eropa.
+Regmi (2001) mengemukakan bahwa
+urbanisasi, peningkatan pendapatan, perubahan
+struktur demografi, perbaikan
+sistim transportasi dan persepsi konsumen
+tentang kualitas, keamanan dan dampak
+terhadap kesehatan menjadi penyebab pergeseran
+pola konsumsi masyarakat. Regmi
+lebih lanjut menjelaskan, karena adanya perbedaan
+pendapatan antara negara-negara
+maju dan negara-negara berkembang, perubahan
+pola perdagangan dan konsumsipun
+berbeda. Peningkatan pendapatan di
+negara-negara berkembang membawa peningkatan
+konsumsi dan perdagangan daging,
+sebagai peralihan dari yang semula
+mayoritas karbohidrat ke arah protein
+hewani. Hal ini sering kali diikuti dengan
+peningkatan impor daging dan pakan ternak.
+Berlipat gandanya penduduk urban di
+negara-negara berkembang juga menyebabkan
+peningkatan konsumsi dan perdagangan
+processed food kemasan yang praktis bagi
+konsumen perkotaan yang sibuk. Di negaranegara
+maju sebaliknya konsumsi daging
+menurun dalam 30 tahun, dari 79% budget
+untuk makanan di tahun 1970 menjadi 62%
+di tahun 2000. Sebaliknya anggaran untuk
+sayuran dan buah-buahan mengalami peningkatan
+sebesar 25% dalam kurun waktu
+yang sama. Dalam penelitiannya Regmi et al.
+(2004) juga menunjukkan bahwa peningkatan
+pendapatan masyarakat Amerika Serikat
+membuat pola konsumsi mereka lebih mengarah
+ke pola diet ala Mediterranean yang
+lebih banyak menyajikan pasta, sayuran dan
+buah-buahan segar dan ikan.
+Hasil penelitian yang lebih kini dari
+Leenes et al. (2010) mengenai pola konsumsi
+berdasarkan pertumbuhan ekonomi, juga
+menunjukkan peningkatan animal-protein
+intake ketika perekonomian meningkat pendapatan
+per kapitanya, tapi kemudian menurun
+ketika pendapatan per kapitanya
+makin tinggi. Perubahan pola konsumsi di
+negara-negara maju tersebut disebabkan
+karena peningkatan kesadaran akan kesehatan
+dan persepsi akan kualitas nutrisi, keamanan
+makanan dan lingkungan hidup
+serta peningkatan kesadaran akan animal
+welfare.
+Produk organik adalah produk yang
+dihasilkan melalui pengelolaan produksi
+secara organis tanpa menggunakan pupuk
+dan pestisida kimia serta mengikuti pola
+tanam organis (untuk sayuran dan buahbuahan).
+Scialabba (2013) mengemukakan
+bahwa pengelolaan pertanian organik berdampak
+positif pada lahan dan air. Cara
+bertani organik meningkatkan kesuburan
+lahan dan struktur tanah menjadi lebih kaya
+sehingga produktivitas tanah meningkat. Air
+yang dibutuhkan untuk irigasipun berkurang
+dan tidak terjadi peresapan nitrat
+dari pupuk kimia ke dalam air tanah.
+Dengan demikian cara bertani ini dapat
+menurunkan environmental stress. Stockdale
+dan Watson (2009) mengatakan bahwa pertanian
+organik memperbaiki biodiversity
+tanah karena terkumpulnya material organis
+di dalamnya. Oquist et al. (2007) dalam penelitiannya
+di Minnesota, Amerika Serikat
+mendapati bahwa pertanian organik memperbaiki
+kualitas air di sana dan sebaliknya
+untuk pertanian konvensional. Tata cara
+produksi secara organis ini di satu sisi menurunkan
+biaya pupuk, pestisida dan air
+untuk irigasi, tetapi di lain pihak meningkatkan
+biaya tenaga kerja. Masih diperdebatkan
+apakah biaya produksi pertanian
+organik ini lebih murah atau lebih mahal
+dibanding dengan produksi pertanian konvensional,
+namun, persepsi masyarakat akan
+unsur kesehatan, kualitas nutrisi dan keamanan
+serta idealisme terkait dengan
+lingkungan hidup membuat sebagian konsumen
+bersedia membayar premi (membayar
+harga lebih mahal) untuk produk organik
+sehingga hal ini menjadi pendorong perdagangan
+dan produksi komoditi organik.
+
+
+Dari pengamatan, adalah benar bahwa
+secara umum ketika pendapatan masyarakat
+di negara-negara berkembang, termasuk
+indonesia meningkat, pertama-tama yang
+ingin ditingkatkan oleh masyarakat adalah
+konsumsi protein hewani, namun, selama
+distribusi pendapatan tidak merata, menurut
+teori Linder seperti dikemukakan dalam
+Rauh (2010), akan selalu ada overlapping
+segments pendapatan yang membuat adanya
+kesamaan permintaan akan barang/konsumsi
+antara negara-negara yang pendapatan
+per kapitanya berbeda. Peningkatan
+besarnya kelompok pendapatan menengah
+ke atas di negara-negara berkembang seperti
+Indonesia akan mendekatkan pola konsumsi
+kedua kelompok negara, dan ini merupakan
+prospek perdagangan dan produksi yang
+bagus untuk pertanian dan perdagangan
+produk organik.
+Di Indonesia belum ada data resmi
+mengenai porsi perdagangan produk organik
+dibandingkan dengan hasil pertanian
+konvensional. Namun dari pengamatan,
+walaupun segmen pasarnya masih relatif
+kecil, terjadi peningkatan baik produksi
+maupun perdagangan produk organik terutama
+di kota-kota besar. Dalam perdagangan
+selalu ada dua sisi yang berinteraksi
+yaitu produsen dan konsumen dengan hasil
+interaksi berupa volume perdagangan dan
+harga produk. Dari sisi produsen, harga
+yang ditawarkan merupakan akumulasi
+nilai tambah dari berbagai tahapan produksi
+sampai ke rantai pemasaran akhir. Dari sisi
+konsumen, kesediaan membeli selain dibatasi
+oleh pendapatan juga ditentukan oleh
+persepsi konsumen akan nilai komoditi dan
+kharakteristik konsumen yang besangkutan.
+Fokus penelitian ini dengan model yang
+digunakan adalah menentukan determinan
+keputusan konsumen untuk membeli produk
+organic, namun, mengingat sedikitnya
+informasi mengenai bagaimana rantai nilai
+sehingga terbentuk harga penawaran yag
+tinggi untuk komoditi organik, maka studi
+ini akan diawali dengan pembentukan rantai
+nilai (value chain) dalam perdagangan produk
+organik.
+Beberapa penelitian yang relatif baru
+mengenai keputusan konsumen untuk membeli
+produk organik antara lain dilakukan di
+Amerika Serikat oleh Dimitri dan Dettmann
+(2012) yang menemukankan bahwa tingkat
+pendidikan, pendapatan, status pernikahan
+dan akses terhadap produk organik menentukan
+kemungkinan membeli produk
+organik. Di Malaysia, Khan et al. (2015) dari
+hasil penelitiannya menyimpulkan bahwa
+yang menjadi motif utama untuk membeli
+produk organik adalah aspek keamanan dan
+kesehatan. Sementara itu Kahl et al. (2012)
+dari hasil penelitian mereka di Eropa menyimpulkan
+bahwa konsumen membeli produk
+organik atas dasar sikap emosional dan
+sifat natural dari produk organik sedangkan
+pembeli produk non organik lebih bersifat
+rasional.
+Penelitian mengenai keputusan membeli
+produk organik di Indonesia sendiri
+masih langka. Moslehpour et al. (2014) membandingkan
+keputusan membeli beras organik
+konsumen Taiwan dan Indonesia dan
+mendapati bahwa konsumen wanita di
+Indonesia lebih berpengetahuan mengenai
+produk organik daripada konsumen Taiwan,
+tetapi konsumen wanita Indonesia membeli
+lebih sedikit beras organik karena harganya
+masih terlalu mahal; namun sikap positif
+terhadap lingkungan hidup mempengaruhi
+keputusan membeli beras organik di kedua
+negara. Walaupun objeknya berbeda, yaitu
+mengenai buah sayur segar, penelitian lain
+mengenai keputusan konsumen Indonesia
+untuk membeli seperti yang dilakukan oleh
+Arsil et al. (2014) menunjukkan bahwa aspek
+harga dan kesehatan menentukan keputusan
+konsumen untuk memilih produk lokal.
+Masih langkanya penelitian mengenai
+produk organik di Indonesia terutama dalam
+kaitannya dengan keputusan konsumen
+untuk membeli, memberi celah kontribusi
+bagi penelitian ini. Aspek lingkungan hidup,
+pendidikan konsumen, harga produk dan
+pendapatan yang menjadi perhatian peneliti-
+peneliti di negara lain juga menjadi
+aspek yang ditinjau perannya dalam menentukan keputusan konsumen untuk membeli
+dalam penelitian ini.
+TINJAUAN TEORETIS
+Rantai Nilai Tambah (Value chain)
+Dari Weber dan Labaste (2010), Value
+chain dapat dimaknai sebagai tahapan aktivitas
+produksi dari awal konsepsi sampai ke
+tangan konsumen akhir dengan penciptaan
+nilai yang menyertainya pada setiap tahap.
+Tahapan-tahapan tersebut dapat meliputi
+design, produksi, marketing, distribusi sampai
+ketangan konsumen dan setelahnya bila
+produk tersebut di recycle. Dengan mengamati
+rantai penciptaan nilai ini perusahaan
+mengetahui pada tahap mana efisiensi perlu
+dilakukan. Konsep Value chains pertama
+kali dikemukakan oleh Porter (1985) yang
+digambarkan pada Gambar 1.
+Dari Gambar 1, aktivitas yang dilakukan
+oleh perusahaan dapat dikategorikan dalam
+aktivitas primer dan aktivitas pendukung.
+Aktivitas primer meliputi: (a) Inbound logistic
+yaitu aktivitas yang berhubungan dengan
+bagaimana mendapatkan input dari supplier;
+(b) Operation yaitu proses mengubah input
+menjadi output; (c) Outbound logistic yaitu
+aktivitas pengumpulan dan pendistribusian
+output; (d) marketing and sales yang meliputi
+kegiatan menawarkan dan memfasilitasi
+pembelian dan (e) services yaitu aktivitas
+pelayanan kepada pembeli sesudah barang
+terjual. Aktivitas primer ini selayaknya
+didukung oleh Human resource management
+dan technological development.
+Analisa value chain di atas biasanya
+diterapkan pada aktivitas di sebuah perusahaan.
+Di sektor pertanian, rantai penciptaan
+nilai bisa terjadi antar usaha yang
+terkait secara vertikal. Seperti dikemukakan
+oleh Weber dan Labaste (2007, 2010) tehnik
+analisis ini sering digunakan untuk mencari
+tahu pada tahapan mana intervensi harus
+dilakukan oleh pemerintah atau lembaga
+donor di bidang pertanian dan agribisnis.
+Perhatian ini diberikan karena banyak pelaku
+di bidang ini merupakan kelompok
+yang kurang mampu tapi produknya mempunyai
+peran signifikan dalam perekonomian.
+Minat akan analisis value chain ini juga
+muncul karena makin kompleksnya rantai
+produksi dan perdagangan produk agro dan
+kesadaran konsumen akan kualitas produk
+yang mengharuskan adanya kolaborasi yang
+baik antar pelaku di setiap tahapan rantai
+nilai (Donovan et al., 2015). Habib (2011),
+misalnya memberi panduan bagaimana mengembangkan
+value chain yang pro rakyat
+miskin. Ricketts et al. (2013) dalam penelitiannya
+di Ghana antara lain menemukan
+bahwa masuknya petani kakao dalam value
+chain produksi dan perdagangan kakao
+dapat menekan risiko fluktuasi harga dan
+meredistribusi risiko yang lainnya.
+Untuk sektor pertanian, bagian aktivitas
+primer dari bagan value chain di atas dapat
+digambarkan pada Gambar 2.
+
+
+Dalam praktek bisa saja satu atau lebih
+tahapan dilewati. Misalnya, untuk sayuran
+organik, processors tidak ada karena sayuran
+segar tidak diproses lebih lanjut dan
+kemungkinan tidak melewati wholeseller atau
+pedagang pengumpul tergantung pada
+saluran pemasaran yang digunakan.
+Wiswall (2009) mengemukakan bahwa
+dalam kasus produk organik saluran pemasaran
+yang bisa ditempuh antara lain melalui:
+(1) Supermarket sebagai retailer, (2)
+Wholeseller/distributor (pedagang pengumpul),
+(3) Farmers’ markets, (4) Koperasi komunitas,
+(5) Penjualan langsung ke pengguna
+(restoran, catering, home delivery), (6) Penjualan
+online
+Nilai tambah adalah nilai penjualan dikurangi
+biaya-biaya yang ditanggung diluarbiaya
+tenaga kerja. Semakin besar nilai
+tambah berarti porsi yang diterima oleh
+kelompok pekerja dan owner berupa profit
+bertambah besar. Besarnya nilai tambah
+tergantung pada harga produk dan biayabiaya
+yang ditanggung di tahapan rantai
+nilai tersebut.
+Determinan untuk membeli produk
+Standard textbook dalam teori ekonomi
+mikro mengatakan bahwa permintaan akan
+suatu produk biasa dijelaskan sebagai fungsi
+dari harga barang itu sendiri (Px), harga
+produk yang terkait baik substitusi atau
+komplemen (Py), pendapatan konsumen
+(Inc.), ekspektasi harga (Exp), populasi
+(Pop), taste (T) dan Others (O) seperti pendidikan,
+Gender dan lain-lain. Jika dituliskan
+dalam fungsi:
+QxD= F(Px, Py, Inc., Exp, Pop, T, O)
+Selera/preferensi (Taste) tidak dibahas terlalu
+dalam di teori ekonomi, tetapi menjadi
+ranah ilmu psikologi dan ilmu perilaku
+konsumen dalam bidang marketing. Lima
+aspek diluar Selera dalam fungsi permintaan
+di atas lebih terkait langsung dengan sisi
+keuangan, sedangkan Taste (preferensi) banyak
+terkait dengan nilai-nilai dasar (values)
+seseorang dan persepsi terhadap objek dalam
+memenuhi nilai-nilai yang bersangkutan.
+Watson (1922) seperti dikutip dalam
+Diclemente dan Hantula (2003) mengatakan:
+‘‘To get hold of your consumer, or better,to
+make your consumer react, it is only necessary to
+confront him with either fundamental or
+conditioned emotional stimuli.’’ Banyak perusahaan
+menggunakan iklan untuk menciptakan
+emotional stimuli para konsumennya,
+namun emotional stimuli juga bisa mucul
+dari asosiasi antara apa yang diyakini oleh
+konsumen dengan karakteristik produk
+tanpa harus melalui iklan. Ada teori yang
+sering disebut bila objek pembahasannya
+terkait dengan gerakan lingkungan hidup,
+hak asasi manusia dan semacamnya yang
+menyangkut belief system seseorang, yaitu
+Value-Belief Norm theory (VBN) dari Stern
+et al. (1999). Mereka mengatakan: “Individuals
+who accept a movement’s basic values, believe
+that valued objects are threatened, and believe
+their actions can help restore those values
+experience an obligation (personal norm) for promovement
+action that creates a predisposition to
+provide support; the particular type of support
+that results is dependent on the individual’s
+capabilities and constraints.”
+Teori di atas mengatakan bahwa individu
+yang menerima nila-nilai dasar dari
+suatu gerakan dan merasa bahwa objek yang
+terkait dengan nilai-nilai tersebut terancam
+dan percaya bahwa tindakan mereka dapat
+mengembalikan kondisi objek tersebut, akan
+merasa terpanggil untuk melakukan tindakan
+yang memberi dukungan untuk memperbaikinya. Mengingat adanya keterkaitan
+antara produk organik dengan gerakan
+penyelamatan lingkungan hidup, diperkirakan
+konsumen yang medukung/pro lingkungan
+hidup akan mendukungnya melalui
+pembelian/konsumsi produk organik yang
+lebih besar. Seperti halnya produk lain yang
+mempunyai kualitas lebih tinggi, produk
+organik mempunyai niche market yang lebih
+sempit dari pada conventional non organic
+products. Apa yang dikatakan oleh teori VBN
+mungkin akan mempengaruhi konsumen
+dalam memutuskan untuk memilih produk
+organik/non organik diluar variabel harga,
+pendapatan dan kondisi socio demografik
+konsumen (usia, gender, pendidikan).
+Dampak dari masing-masing variabel
+tidak selalu mudah untuk dipastikan. Variabel
+harga biasanya berhubungan negatif
+dengan kemungkinan seseorang membeli
+produk. Variabel usia dapat berpengaruh
+negatif karena biasanya aktivis lingkungan
+hidup adalah kelompok yang lebih muda;
+tetapi karena produk organik juga terkait
+dengan kesehatan, bisa jadi hubungannya
+akan positif. Pendapatan diharapkan mempunyai
+pengaruh positif, tetapi idealisme
+akan lingkungan hidup bisa memperlemah
+pengaruh tersebut. Pendidikan diharapkan
+mempunyai pengaruh positif terhadap
+keputusan untuk membeli produk organik.
+METODE PENELITIAN
+Analisa rantai nilai tambah (value chain)
+dilakukan melalui pendekatan deskriptif
+dari hasil wawancara dengan para pelaku
+dimasing-masing tahapan rantai nilai dan
+pengamatan langsung melalui kunjungan
+lapangan. Belum ada data yang akurat mengenai
+jumlah pengusaha tani organik saat
+survei dilakukan (bulan Januari–September
+2014). Informasi dari retailer (supermarket)
+menunjukkan ada 14-16 usaha tani organik
+yang menjadi pemasok supermarket di kota
+Bandung. Dari jumlah tersebut 8 diantara
+nya bersedia untuk kami kunjungi. Semuanya
+berlokasi di Jawa Barat dan hampir
+semua produknya adalah sayuran; hanya 1
+pertanian padi.
+Determinan keputusan konsumen untuk
+membeli produk organik dicari dengan
+menggunakan model ordered logit. Model
+ordered logit digunakan bila dependent
+variable merupakan variabel yang sifatnya
+ordinal, seperti dalam survei opini, survei
+tingkat kepuasan, Bond rating dan sebagainya.
+Model ekonometrika dengan variabel
+terikat yang berskala ordinal ini pertama kali
+dikemukakan oleh Zaviona dan McKelvey
+(1975). Varabel ordinal ini merupakan angka
+kuantitatif yang memiliki gradasi didasarkan
+pada suatu besaran (variabel) yang
+bersifat kualitatif, continuous dan tak dapat
+diobservasi secara langsung atau bersifat
+latent. Dalam banyak kasus, variabel latent
+ini terkait dengan intensitas rasa atau
+sentimen. Bila intensitas rasa/sentimen ini
+sampai pada tingkat tertentu maka akan
+muncul suatu pilihan yang bisa diobservasi.
+Bila intensitas rasa/sentimen ini lebih tinggi
+lagi, pilihan yang dilakukan akan lebih
+tinggi pula bila hubungannya positif. Mengikuti
+Zaviona dan McKelvey (1975) dan
+Green (2008), model logit untuk keputusan
+membeli dapat dituliskan sebagai berikut:
+
+
+Y* adalah variabel latent yang nilainya menentukan
+variabel ordinal Y yang bisa
+diobservasi. Misalnya Y = 0 bila frekwensi
+pembelian < 1 per minggu (jarang)
+Y = 1 bila frekwensi pembelian 1 kali per
+minggu
+Y = 2 bila frekwensi pembelian antara 2–3
+kali per minggu
+Y = 3 bila frekwensi pembelian > 3 kali per
+minggu
+Y* memiliki thresholds (batas) sebagai
+berikut:
+Yi = 0 bila Yi* ≤ Κ0
+Yi = 1 bila K0 ≤ Yi* ≤ Κ1
+Yi = 2 bila Κ1 ≤ Yi* ≤ Κ2
+Yi = 3 bila Yi* ≥ Κ2
+K0, K1 dan K2 adalah thresholds. Dalam pengerjaan
+empiri dengan software LIMDEP,
+K0 ditetapkan = 0, sehingga hanya ada 2
+thresholds walaupun ada 4 kategori.
+Diasumsikan rasa/sentimen seseorang terhadap
+suatu hal (Y*) dipengaruhi oleh sejumlah faktor yang direpresentasikan dalam
+vektor X sehingga dapat dituliskan:
+
+
+Bila diasumsikan error termnya terdistribusi
+logistic, maka dapat diperoleh:
+1 exp( )
+1
+( 0)
+0 Z K
+P Y
+i  
+ 
+1 exp( )
+1
+1 exp( )
+1
+( 1)
+1 0 Z K Z K
+P Y
+i i  
+
+ 
+ 
+1 exp( )
+1
+1 exp( )
+1
+( 2)
+2 1 Z K Z K
+P Y
+i i  
+
+ 
+ 
+1 exp( )
+1
+( 3)
+2 Z K
+P Y
+i  
+ 
+Likelihood functionnya dapat ditulis sbb.:
+dimana
+X adalah vektor yang terdiri atas variabel
+sosio demografis dan variabel yang terkait
+dengan nilai-nilai konsumen
+i = 1,2,3, ........ n
+J = 0,1, 2, 3 (dalam kasus di atas)
+Estimasi parameter model akan dilakukan
+dengan metoda Maximum Likelihood (ML)
+dalam penelitian ini,
+Y = 0 bila frequensi membeli produk
+organik Jarang (sesekali saja)
+Y = 1 bila frequensi membeli produk
+organik 1 kali per minggu
+Y = 2 bila frequensi membeli produk
+organik 2 – 3 kali per minggu
+Y = 3 bila frequensi membeli produk
+organik lebih dari 3 kali per minggu.
+Yang masuk dalam vektor X adalah:
+Pertama, usia (dalam tahun)
+Kedua, kelompok pendapatan:
+DPendpt1 = 1 bila pendapatan < Rp 5 juta
+= 0 untuk yang lain
+DPendpt2 = 1 bila pendapatan antara 5 –
+10 juta rupiah
+= 0 untuk yang lain
+DPendpt3 = 1 bila pendapatan antara 10 –
+20 juta rupiah
+= 0 untuk yang lain
+DPendpt4 = 1 bila pendapatan > 20 jut
+a rupiah
+= 0 untuk yang lain
+Ketiga, pendidikan
+D<SMA = 1 bila pendidikan < lebih kecil
+atau sama dengan SMA,
+= 0 untuk yang lain
+DD1D3 = 1 bila pendidikan D1 atau D3,
+= 0 untuk yang lain
+DS1 = 1 bila S1,
+= 0 untuk yang lain
+DS1 = 1 bila S2,
+= 0 untuk yang lain
+DS2 = 1 bila S2,
+= 0 untuk yang lain
+DS3 = 1 bila S3,
+= 0 untuk yang lain
+Keempat, Dlingk = 1 bila memilih alasan
+membeli terkait lingkungan hidup = 0 untuk
+yang lain
+Kelima, DOPI = 1 bila merasa harga terlalu
+mahal, = 0 untuk yang lain
+Model Ordered logit telah banyak digunakan
+dalam penelitian di berbagai bidang.
+Beberapa diantaranya adalah: Monirul
+(2014) mengaplikasikannya pada kerentanan
+dalam frekwensi konsumsi makanan kelompok
+marginal akibat bencana alam;
+Lopez dan Garate (2007) menggunakannya
+untuk meneliti tentang keputusan berpartisipasi
+dalam sport; Park et al. (2012) menerapkannya
+pada penelitian tentang tingkat
+keparahan akibat tabrakan di jalan toll dan
+Min (2013) menggunakannya untuk meneliti
+tentang self-rated health.
+Populasi konsumen produk organik
+sulit untuk diketahui jumlahnya karena berkembangnya
+perdagangan produk organik
+sendiri belum terlalu lama di Indonesia.
+Tidak hanya jumlah yang sulit diukur, tapi
+juga kelompok konsumennya tidak mudah
+ditemukan, oleh karena itu tehnik pengumpulan
+respondennya menggunakan
+chain-referral sampling atau lebih dikenal
+dengan snowball sampling technique. Pada awalnya kami meminta referensi dari agen
+yang menjual langsung ke konsumen,
+kemudian kami menanyakan kepada konsumen-
+konsumen tersebut nama teman atau
+kerabat yang mereka ketahui menggunakan
+produk organik atau setidaknya pernah
+membeli produk organik. Akhirnya didapatkan
+125 responden, tapi hanya 122 yang
+datanya bisa diolah.
+ANALISIS DAN PEMBAHASAN
+Salah satu definisi pertanian organik
+mengatakan: “organic agriculture is an ecological
+production management system that promotes
+and enhances biodiversity, biological
+cycles, and soil biological activity. It is based on
+minimal use of off-farm inputs and on management
+practices that restore, maintain, or enhance
+ecological harmony. The primary goal of organic
+agriculture is to optimize the health and
+productivity of interdependent communities of
+soil life, plants, animals, and people.” (NOSB,
+2003) Dalam konsep di atas antara lain terkandung
+pengertian bahwa: sistim pertanian
+organik dibangun berdasarkan pada pemahaman/
+pengetahuan tentang sifat-sifet
+alam dimana tanah diperlakukan sebagai
+entitas yang hidup yang terdiri atas organisme
+dan mikroba yang menentukan kesuburannya
+yang harus selalu dipelihara
+dan dilindungi dalam proses penggarapannya
+untuk memperoleh hasil pertanian;
+tidak memerlukan input non organik (sintetis)
+dan tidak menggunakan air berlebihan;
+mengandalkan green and animal manures dan
+mineral alam seperti material dari batubatuan
+untuk memelihara kesuburan tanah;
+memperhatikan dampak pengelolaan pertanian
+terhadap lingkungan hidup dan
+konservasi habitat. Dengan perkataan lain,
+pertanian organik mengandung idealisme
+mengenai tanggung jawab terhadap lingkungan
+hidup, kesejahteraan manusia dan
+hewan, namun untuk membuat proses ini
+berkelanjutan (sustainable), proses ini juga
+secara ekonomis harus viable. Artinya pada
+setiap tahapan proses produksi sampai ke
+tangan konsumen harus terjadi tambahan
+nilai yang menghidupi mereka yang terlibat
+dalam tiap tahapan tersebut.
+Value Chain dalam Pertanian Organik
+Berdasarkan hasil wawancara dan pengamatan
+kami terhadap responden petani
+dan agen distributor yang terkait, value chain
+dalam pertanian dan perdagangan produk
+organik dapat digambarkan pada Gambar 3.
+Idealnya, seperti tersirat dalam definisi
+pertanian organik di atas, petani setidaknya
+mempunyai beberapa ternak (sapi, kambing,
+bebek, ayam) yang kotorannya bisa dimanfaatkan
+untuk pupuk. Demikian juga,
+petani dapat menyisakan sebagian tanamannya
+untuk pembibitan sehingga seluruh
+input tidak perlu dibeli dari luar dan hasil
+dari ternak menjadi tambahan penghasilan
+atau setidaknya dapat menjadi tambahan
+konsumsi bagi petani.
+
+Dari 8 responden petani/kelompok tani
+kami, hanya 2 yang melakukan hal tersebut.
+Hal ini antara lain karena kurangnya lahan
+atau karena petani tidak ingin direpotkan
+dengan pekerjaan lain selain bertani. Bila
+kegiatan beternak dan pembibitan dilakukan
+sendiri oleh petani pemilik/penggarap, maka
+tiga box dalam box besar di gambar 3
+merupakan satu entitas.
+Tidak diproduksinya sendiri pupuk
+kandang dan bibit menciptakan rantai nilai
+tambah dalam keseluruhan bisnis produk
+organik. Kotoran ternak bernilai Rp 200,- -
+Rp 1000,- per kg tergantung kesiapannya dipakai
+sebagai pupuk. Harga bibit sangat
+bervariasi, tergantung pada jenis dan asalnya.
+Bibit impor bisa berharga di atas Rp 20
+000,- per paket kecil. Harga produk sayuran
+dari petani juga cukup bervariasi. Petani
+yang menekankan pada idealisme pelestarian
+alam dan kesejahteraan masyarakat memberi
+harga lebih rendah daripada petani
+yang murni mempunyai tujuan komersial.
+Variasi ini juga tergantung pada jenis sayuran
+dan standar kualitas yang diterapkan
+apabila petani yang bersangkutan merupakan
+petani plasma. Variasi harga sayur di
+tingkat petani berdasarkan jenisnya berkisar
+antara Rp. 5000,- - Rp. 32 000,- per kg. Nilai
+ini dikurangi dengan biaya pupuk dan bibit
+bila harus dibeli dan biaya kemasan bila ada,
+menjadi milik para petani. Pembelian dari
+petani oleh agen atau petani inti bersifat putus
+dengan harga tetap; yang berarti petani
+tidak menanggung resiko fluktuasi harga,
+tetapi masih menanggung resiko gagal panen.
+Pembelian oleh supermarket dapat bersifat
+putus atau konsinyasi. Bila berdasarkan
+konsinyasi, barang dikembalikan pada penjual
+bila tidak laku. Dalam hal ini resiko ditanggung
+oleh penjual. Petani plasma tidak
+menjual langsung ke konsumen. Agen dan
+petani inti setelah memberi kemasan dapat
+menjual langsung ke konsumen, ke super
+market atau ke agen lainnya baru barang
+sampai ke tangan konsumen. Berikut ini
+adalah contoh petani responden yang menggunakan
+sistim plasma dan yang langsung
+menjual produknya ke supermarket tanpa
+perantara untuk produk sayuran:
+
+Dari bagan pertama, bila dalam 1 minggu
+petani bisa memproduksi 200 kg sayuran,
+maka per minggu mereka menerima Rp 2
+juta yang memberi penghasilan kepada para
+petani penggarap dan supplier pupuk dan
+bibit bila petani mendapatkannya dari luar
+kebun. Petani inti yang menampung produk
+sayuran langsung dari petani plasma menciptakan
+tambahan nilai sebesar 60% nya
+yang terdistribusi pada pegawai, pemilik
+usaha dan usaha kemasan. Hasil dari petani
+inti ada yang dijual langsung ke konsumen,
+ada yang ditampung lagi oleh agen yang
+menambahkan nilai sebesar 12.5% untuk kemudian dijual langsung ke konsumen.
+Petani/perkebunan yang menjual langsung
+ke supermarket mendapat nilai tambah yang
+jauh lebih tinggi, tapi seleksi kualitas sayuran
+dilakukan lebih baik. Pihak supermarket
+menciptakan nilai tambah sebesar kurang
+lebih 25% per kg sayuran. Sebagian besar
+responden memilih melakukan cara yang
+kedua. Khusus untuk petani padi di kabupaten
+Tasikmalaya, produk dari petani ditampung
+oleh investor yang kemudian
+mengekspornya ke berbagai negara. Investor
+ini juga membantu proses sertifikasi organik
+para petani dan menanggung ongkos
+sertifikasi.
+Deskripsi responden konsumen produk
+organik
+Kuesioner yang disebarkan dalam penelitian
+ini antara lain menanyakan frekwensi
+membeli, frekwensi mengkonsumsi
+dan nilai pembelian per bulan. Diantara ketiganya,
+jawaban mengenai nilai pembelian
+tidak dapat diolah karena akurasi jawaban
+yang diragukan dan sebagian responden tidak
+mengisinya. Jawaban pertanyaan frekwensi
+membeli digunakan dalam model
+Logit. Di kota/kabupaten Bandung pada
+saat survei dilakukan sepengetahuan kami
+belum terdapat restoran yang khusus menghidangkan
+masakan dari produk organik,
+oleh karenanya diharapkan ada keselarasan
+antara frekwensi membeli dan mengkonsumsi;
+artinya mereka yang membeli
+adalah juga yang mengkonsumsi. Produk
+yang disebutkan di beli/dikonsumsi oleh
+responden antara lain adalah sayuran, telor,
+beras dan susu/yogourt dan buah, tetapi
+mayoritas menyebut sayuran.
+Gambar 5 menunjukkan distribusi responden
+berdasarkan usia. Terlihat bahwa
+mayoritas responden berusia antara 30–50
+tahun, usia dimana pada umumnya orang
+sudah mempunyai pekerjaan dan penghasilan
+sendiri. Perkiraan awal kami mereka
+yang mengenal dan menggunakan produk
+organik adalah kelompok usia di atas 50
+tahun dimana pada usia tersebut berbagai
+masalah kesehatan telah muncul.
+Gambar 6 menunjukkan distribusi responden
+berdasarkan profesi. Dari responden
+yang terjaring jumlah terbesar yang membeli
+dan mengkonsumsi produk organik adalah
+pegawai swasta dan wirausahawan, baru
+kemudian diikuti oleh para pendidik (guru
+dan dosen). Responden yang terjaring dalam
+sampel penelitian adalah wanita. Mereka
+yang tidak bekerja diperkirakan adalah ibu
+rumah tangga.
+Gambar 7 menunjukkan bahwa mayoritas
+responden memiliki pendapatan 5–10
+juta Rupiah. Mereka yang penghasilannya
+dibawah 5 juta jumlahnya cukup signifikan.
+
+Hal ini karena mereka yang berprofesi ibu
+rumah tangga (tidak bekerja) masuk dalam
+kelompok ini.
+Dari gambar 8 terlihat bahwa sampel
+data didominasi oleh kelompok pendidikan
+S1, kemudian diikuti oleh pendidikan SMA.
+Lebih kecilnya jumlah responden yang
+berpendidikan S2 dan S3 dapat dimengerti
+karena jumlah penduduk yang berpendidikan
+tingkat tersebut memang lebih kecil.
+Dari Gambar 8 tersebut secara umum dapat
+dikatakan bahwa konsumen produk organik
+adalah kelompok yang cukup terdidik.
+Gambar 9 menunjukkan alasan responden
+mengkonsumsi produk organik. Dalam
+hal ini responden boleh memilih lebih dari 1
+alasan. Sebagian besar responden mengkaitkan
+pembelian produk organik dengan
+alasan kesehatan. Ada cukup banyak yang
+berpendapat bahwa produk organik mempunyai
+rasa yang lebih enak. Ada juga yang
+membeli karena produknya dikemas, yang
+pilihannya murni alasan lingkungan hidup
+kecil jumlahnya. Kebanyakan memberikan
+pilihan majemuk seperti alasan kesehatan
+dan lingkungan hidup, kesehatan, rasa dan
+kemasan seperti dapat dilihat dalam Gambar
+9. Dilihat dari lokasi pembelian, gambar
+10 menunjukkan bahwa mayoritas responden
+membeli produk organik dari supermarket. Cara kedua tertinggi adalah membeli
+dari agen. Membeli langsung dari petani
+sedikit dilakukan karena memang lokasi
+pertanian jauh dari kota dan seringkali tidak
+mudah diakses.
+Hasil cross tabulation antara variabel
+usia dan frekwensi konsumsi pada Tabel 1
+menunjukkan bahwa lebih dari separuh
+responden (50,4%) mengkonsumsi produk
+organik 2-3 kali per minggu dan hanya 13%
+yang mengkonsumsi produk organik tiap
+hari. Dari kelompok yang mengkonsumsi
+antar 2–3 kali seminggu, jumlahnya didominasi
+oleh kelompok usia 31–50 tahun.
+Demikian juga untuk yang mengkonsumsi
+tiap hari. Konsumen usia di atas 50 tahun
+berjumlah sekitar 20% dari total responden.
+Dari jumlah ini mayoritas mengkonsumsi 2-
+3 kali seminggu. Dari hasil ini kita tidak bisa
+menyimpulkan bahwa frekwensi mengkonsumsi
+produk organik meningkat bersama
+dengan meningkatnya usia.
+
+
+Tabel 2 secara deskriptif menunjukkan
+hubungan antara frekwensi mengkonsumsi
+produk organik dan pendapatan responden.
+Porsi terbesar di sini adalah kelompok
+berpendapatan 5–10 juta Rupiah. Dari kelompok
+pendapatan ini, frekuensi konsumsi
+yang mempunyai persentase tertinggi adalah
+2-3 kali per minggu. Pada kelompok
+pendapatan yang lebih tinggi (10-20 juta)
+persentase konsumsi 1 kali per minggu adalah
+yang tertinggi.
+Persentase mengkonsumsi produk organik
+tidak nampak meningkat atau menurun
+bersama dengan pendapatan.
+Hasil model ordered logit
+Hasil dari model ordered logit terdiri
+atas dua bagian yaitu hasil yang menunjukkan
+pengaruh variabel bebas terhadap Y*
+(tingkat intensitas rasa/sentimen terhadap
+produk) sebagai variabel terikat dan marginal
+effects (besarnya pengaruh) variabel bebas
+terhadap probabilitas memilih masingmasing
+kategori. Angka koefisien Mu (1)
+dan Mu (2) menunjukkan nilai threshold K1
+dan K2 pada model.
+Dari Tabel 3, Nilai koefisien Usia scara
+statistik tidak signifikan, yang berarti makin
+tinggi usia tidak membuat probabilitas/keinginan membeli produk organik lebih
+tinggi. Mereka yang alasan mengkonsumsi
+produk organik terkait dengan lingkungan
+hidup juga tidak selaras dengan probabilitas
+pembelian produk organik lebih sering seperti
+ditunjukkan oleh koefisien yang tidak
+signifikan. Pendidikan yang meningkat tidak
+membuat probabilitas membeli produk
+organik lebih tinggi. Bila dibandingkan dengan
+kelompok pendidikan SMA ke bawah,
+hanya mereka yang pendidikannya D1-D3
+yang probabilitas frequensi membeli produk
+organik secara signifikan lebih tinggi.
+Kelompok pendidikan S2 juga mempunyai
+koefisien positif, yang berarti probabilitas
+membeli produk organik lebih tinggi
+dari yang berpendidikan SMA ke bawah,
+tetapi hubungannya tidak terlalu kuat (baru
+signifikan pada alpha 15%. Di sini, kelompok
+pendapatan 5–10 juta rupiah dan kelompok
+pendapatan di atas 20 juta rupiah
+signifikan kemungkinan membelinya di atas pendapatan yang paling kecil, tetapi untuk
+kelompok pendapatan diatas 20 juta hubungan
+tersebut tidak terlalu kuat. Variabel
+Opini harga produk organik mahal bertanda
+negatif tapi tidak signifikan, yang berarti
+walaupun sebagian orang merasa harga
+produk organik mahal, tetapi mereka tetap
+membeli juga.
+Tabel 4 menunjukkan marginal effect
+berbagai variabel terhadap kemungkinan
+responden jarang membeli produk organik.
+Koefisien variabel usia secara statistik tidak
+signifikan menentukan probabilitas responden
+jarang membeli produk organik. Untuk
+variabel pendidikan, koefisien yang signifikan
+adalah untuk variabel Dummy D1-D3,
+S2 dan S3. Koefisien variabel Dummy D1-D3
+bertanda negatif yang berarti probabilitas
+untuk jarang membeli produk organik lebih
+rendah dari mereka yang pendidikannya
+SMA ke bawah. Koefisien variabel Dummy
+S2 dan variabel Dummy S3 bertanda positif
+yang menunjukkan bahwa probabilitas
+kelompok pendidikan tersebut untuk jarang
+membeli produk organik lebih tinggi daripada
+mereka yang berpendidikan SMA ke
+bawah. Secara keseluruhan bisa dikatakan
+bahwa yang probabilitasnya besar untuk
+jarang mengkonsumsi produk organik adalah
+mereka yang pendidikannya tinggi.
+Hal sebaliknya terjadi untuk variabel
+pendapatan, koefisien variabel Dummy pendapatan
+5–10 juta, 10–20 juta dan di atas 20
+juta semuanya mempunyai p-value yang
+rendah walaupun untuk pendapatan 10–20
+juta baru signifikan pada alpha 20% dan ketiganya
+bertanda negatif. Hal ini menunjukkan
+bahwa mereka yang berpendapatan di
+atas 5 juta rupiah mempunyai probabilitas
+jarang membeli produk organik lebih rendah
+dari mereka yang pendapatannya di bawah
+5 juta. Atau dengan kata lain kelompok pendapatan
+lebih tinggi lebih jarang membeli
+produk organik.
+Koefisien variabel Dummy Opini bahwa
+produk organik mahal mempunyai tanda
+positif walaupun baru signifikan pada alpha
+15%. Hal ini menunjukkan adanya konsistensi
+antara pandangan dan tindakan. Mereka
+yang merasa produk organik itu mahal,
+kemungkinan jarang membeli produk organik
+lebih besar.
+Tabel 5 menunjukkan marginal effect
+dari berbagai variabel terhadap probabilitas
+membeli produk organik 1 kali per minggu.
+Koefisien variabel Dummy terkait alasan
+ligkungan hidup tidak signifikan, yang berarti
+mereka yang mengkonsumsi produk
+organik karena alasan lingkungan hidup
+maupun alasan lain mempunyai probabilitas
+sama untuk membeli produk organik seminggu
+sekali. Koefisien variabel-variabel
+Dummy pendidikan secara statistik signifikan (kecuali variabel Dummy_S1 yang baru signifikan pada alpha 20%). Koefisien
+Dummy D1-D3 dan S1 bertanda negatif dan
+koefisien Dummy S2 dan S3 bertanda positif.
+Ini berarti probabilitas mereka yang berpendidikan
+D1-D3 dan S1 untuk membeli
+produk organik sekali seminggu lebih rendah
+dari mereka yang berpendidikan SMA
+ke bawah. Probabilitas mereka yang berpendidikan
+S2 dan S3 untuk mengkonsumsi
+produk organik sekali seminggu lebih tinggi
+daripada mereka yang berpendidikan SMA
+ke bawah.
+Koefisien variabel Dummy pendapatan
+juga semuanya signifikan dan bertanda negatif.
+Angka koefisien terbesar adalah pada
+koefisien kelompok pendapatan tertinggi (>
+20 juta rupiah). Hal ini berarti kelompok
+pendapatan ini adalah yang paling kecil
+kemungkinanya untuk membeli produk
+organik sekali seminggu. Koefisien variabel
+Dummy opini bahwa harga sayur organik
+terlalu mahal secara statistik tidak signifikan.
+Hal ini berarti mereka yang berpendapat
+bahwa produk organik lebih mahal
+daripada produk pertanian konvensional,
+probabilitas membeli produk organik seminggu
+sekali sama dengan yang tidak
+berpandangan demikian.
+Tabel 6 menunjukkan marginal effect
+dari berbagai variabel terhadap probabilitas
+membeli produk organik 2-3 kali per minggu.
+
+Koefisien variabel usia tidak signifikan,
+yang berarti usia tidak menentukan probabilitas
+membeli produk organik 2-3 kali per
+minggu. Koefisien alasan lingkungan hidup
+juga tidak signifikan, yang berarti mereka
+yang alasan konsumsinya terkait dengan
+lingkungan hidup atau alasan lain mempunyai
+kemungkinan yang sama untuk mem
+beli produk organik 2-3 kali per minggu.
+Koefisien Dummy D1-D3 dan S1 bertanda
+positif dan tidak signifikan, sedangkan
+koefisien Dummy S2 dan S3 bertanda
+negatif dan signifikan. Ini berarti probabilitas
+mereka yang berpendidikan D1-D3
+dan S1 untuk membeli produk organik 2-3
+kali per minggu tidak berbeda dengan
+mereka yang berpendidikan SMA ke bawah.
+Probabilitas mereka yang berpendidikan S2
+dan S3 untuk mengkonsumsi produk organik
+2-3 kali seminggu lebih rendah daripada
+mereka yang berpendidikan SMA ke bawah.
+Koefisien variabel Dummy pendapatan
+semuanya tidak signifikan. Hal ini berarti
+pendapatan tidak menentukan kemungkinan
+untuk mengkonsumsi produk organik 2-
+3 kali seminggu. Dengan kata lain semua
+kelompok pendapatan mempunyai probabilitas
+yang kurang lebih sama untuk membeli
+produk organik 2-3 kali per minggu.
+Koefisien variabel Dummy opini harga
+produk organik mahal secara statistik tidak
+signifikan, yang berarti mereka yang berpendapat
+bahwa produk organik lebih mahal
+daripada produk pertanian konvensional,
+probabilitas membeli produk organik
+2-3 kali seminggu sama dengan yang tidak
+berpandangan demikian. Tabel 7 menunjukkan
+marginal effect dari berbagai variabel
+terhadap probabilitas membeli produk organik
+setiap hari. Koefisien variabel usia secara
+statistik signifikan dan bertanda negatif
+yang berarti meningkatnya usia membuat
+proba- bilitas untuk mengkonsumsi produk
+organik setiap hari makin menurun. Dengan
+kata lain kecenderungannya mereka yang
+meng- konsumsi produksi organik tiap hari
+adalah kelompok yang lebih muda.
+Sama dengan frekwensi membeli produk
+organik yang lain, alasan mengkonsumsi
+karena pro lingkungan hidup tidak
+membuat probabilitas mereka membeli produk
+organik lebih tinggi dari yang mempunyai
+alasan lain. Hal ini ditunjukkan oleh
+koefisien variabel Dummy alasan lingkungan
+hidup yang tidak signifikan.
+Koefisien variabel-variabel Dummy
+pendidikan secara statistik signifikan kecuali
+untuk kelompok pendidikan S2 dan S3.
+Koefisien Dummy D1-D3 dan S1 bertanda
+positif dan koefisien Dummy S2 dan S3
+bertanda negatif. Ini berarti probabilitas mereka
+yang berpendidikan D1-D3 dan S1
+untuk membeli produk organik setiap hari
+lebih tinggi dari mereka yang berpendidikan 
+SMA ke bawah. Probabilitas mereka yang
+berpendidikan S2 dan S3 untuk membeli produk organik setiap hari cenderung lebih
+rendah atau sama dengan mereka yang
+berpendidikan SMA ke bawah.
+Koefisien variabel Dummy pendapatan
+juga semuanya signifikan dan bertanda positif.
+Angka koefisien terbesar adalah pada
+koefisien kelompok pendapatan tertinggi
+(>20 juta rupiah). Hal ini berarti kelompok
+pendapatan ini adalah yang paling besar
+kemungkinannya untuk membeli produk
+organik setiap hari.
+Koefisien variabel Dummy opini bahwa
+harga sayur organik terlalu mahal secara
+statistik tidak signifikan. Orang sering kali
+mengatakan bahwa harga suatu barang
+mahal, tetapi karena barang substitusinya
+agak jauh dalam kualitas, keamanan dan
+lain-lain, orang tetap juga membelinya. Hal
+yang sama rupanya juga berlaku untuk produk
+organik.
+SIMPULAN DAN SARAN
+Jalur distribusi produk organik cukup
+bervariasi. Dari kebun (petani), produk
+dapat langsung dibeli oleh konsumen, atau
+langsung ke supermarket setelah melalui
+proses pengemasan, atau ke petani inti atau
+agen yang membeli putus dari petani untuk
+dikemas dan dijual ke supermarket atau ke
+agen lain, baru sampai ke konsumen akhir.
+Nilai tambah yang diciptakan juga
+bervariasi tergantung pada panjangnya jalur
+distribusi dan standar kualitas dan jenis
+produk organik. Diantara berbagai saluran
+distribusi tersebut, penciptaan nilai tambah
+terbesar terjadi di tingkat perkebunan (petani)
+terutama bila seluruh atau sebagian
+besar input diproduksi sendiri sebagaimana
+seharusnya sebuah proses pertanian organik,
+namun apakah tingkat kesejahteraan
+petani lebih besar daripada kelompok yang
+lebih hilir tergantung pada berapa banyak
+jumlah orang yang terlibat di perkebunan.
+Walaupun responden yang mengkonsumsi
+produk (sayuran) organik mayoritas
+berada pada kisaran usia 30–50 tahun, namun
+frekwensi konsumsi dan membeli produk
+organik secara umum tidak terpengaruh
+oleh usia responden, tetapi khusus
+untuk pilihan membeli tiap hari, nampaknya
+kecenderunganya makin muda usia makin
+tinggi probabilitas untuk membeli produk
+organik tiap hari. Pendidikan tidak secara
+signifikan berpengaruh positif terhadap
+probabilitas lebih sering membeli produk
+organik.
+Responden pendukung lingkungan hidup
+tidak secara signifikan mempunyai
+probabilitas membeli produk organik dengan
+frekwensi lebih tinggi dari yang lain.
+Jung et al. (2016) dalam penelitiannya tentang
+konsumsi Eco-Friendly Faux Leather
+(EFFL) product menyimpulkan bahwa ketika
+konsumen membeli ethical product
+seperti EFFL mereka juga mempertimbangkan
+kenikmatan indra dan keuntungan yang
+sifatnya pragmatis. Griskevicius et al. (2010)
+berargumen bahwa membeli pro-environmental
+green products mempunyai konotasi
+melakukan tindakan altruistik, karenanya
+orang lebih bersedia membelinya di depan
+publik dalam upaya mendapat status baik
+walaupun harus membayar lebih tinggi. Bila
+dikaitkan dengan produk makanan organik,
+walaupun konsumen yang bersangkutan
+adalah orang yang pro lingkungan hidup,
+rasa, kesegaran dan kemudahan untuk didapat
+dan digunakan juga mempunyai
+peran yang penting; dan apabila penjualan
+dilakukan dalam event yang terkait dengan
+kesadaran akan lingkungan hidup yang terbuka
+untuk umum, konsumen akan bersedia
+untuk membeli banyak, walaupun
+mungkin tidak untuk sehari-harinya.
+Untuk frekwensi konsumsi tinggi (tiap
+hari), hasil marginal effect menunjukkan
+bahwa probabilitas kelompok pendapatan
+tertinggi untuk sering membeli produk organik
+lebih tinggi dari kelompok pendapatan
+lainnya. Opini tentang murah atau mahalnya
+produk organik tidak menentukan sering
+tidaknya responden membeli produk
+organik.
+Hasil penelitian ini tidak seluruhnya
+selaras dengan hasil penelitian di negara
+maju. Konsumsi dan belanja produk organik
+di negara-negara maju lebih banyak didorong
+oleh konsumen usia muda dan terdidik. Dari hasil penelitian ini pendapatan
+tinggi nampaknya lebih menentukan
+frekwensi tinggi membeli produk organik.
+Dari hasil wawancara kami dengan para
+pelaku pertanian organik di Jawa Barat, produsen
+yang permintaan produknya mengalami
+peningkatan pesat adalah produsen
+yang menjual tidak melalui supermarket dan
+dengan harga yang secara signifikan lebih
+murah tapi standar kualitas tidak sebaik
+yang dijual ke supermarket. Hal ini menunjukkan
+bahwa elastisitas permintaan
+cukup tinggi dan ada peluang untuk meningkatkan
+omset besar melalui penurunan
+harga. Hal ini dapat dilakukan apabila para
+petani menerapkan best practice bertani
+organik sehingga dapat memproduksi lebih
+efisien dengan harga produk yang lebih
+terjangkau oleh msyarakat luas.
+Penerapan best practice dalam bertani
+organik dalam praktek tidak selalu mudah
+dilaksanakan. Tekanan pada unsur kealamiahan
+dalam proses produksi membutuhkan
+lebih banyak waktu dan tenaga
+dibandingkan dengan pertanian konvensional.
+Mengingat kontribusi pertanian organik
+terhadap kesehatan dan lingkungan, pemerintah
+dapat memberi dukungan antara
+lain dalam konversi lahan dari sistim
+konvensional ke organik dan dalam penyediaan
+pupuk dan anti hama organik.
+Hal yang kurang terpikirkan dalam
+penelitian ini adalah kemungkinan responden
+yang terjaring semuanya perempuan.
+Hal ini terjadi karena kriteria utama anggota
+sampel adalah mereka yang pernah membeli
+produk organik. Pria belanja dalam keluarga
+jarang. Kondisi ini membuat variabel
+pendapatan agak bias karena sebagian
+wanita yang tidak bekerja pendapatannya
+akan termasuk kurang dari 5 juta Rupiah,
+padahal mungkin suaminya berpendapatan
+tinggi. Ukuran pendapatan rumah tangga
+akan lebih tepat digunakan dalam penelitian
+seperti ini.

@@ -1,0 +1,497 @@
+﻿Pengaruh E-Governance Terhadap Adaptabilitas
+Organisasi atas Implementasi Sistem Manajemen
+Pemeriksaan
+
+
+Intisari - Adaptabilitas organisasi dalam hal penerapan TI
+adalah kemampuan beradaptasi dalam penerapan TI yang
+dilakukan oleh suatu organisasi, relevan dalam konteks IT
+governance, business governance dan keselarasan strategi.
+Adaptabilitas BPK RI dalam implementasi penggunaan SMP
+akan berjalan dengan baik apabila dilakukan penyeragaman
+proses bisnis utama terkait penyeragaman pengelolaan dan
+integrasi seluruh tahapan kegiatan pemeriksaan. Penelitian ini
+bertujuan untuk mengetahui pengaruh IT governance, business
+governance, dan kemampuan manajerial TI terhadap
+adaptabilitas BPK RI dalam penerapan SMP. Penelitian ini
+menggunakan model penelitian yang dikembangkan oleh Heart
+et al pada tahun 2010 .Metode analis yang digunakan adalah
+Lisrel 8.80. Hasil penelitian menunjukkan bahwa IT governance
+tidak berpengaruh terhadap kemampuan manajerial TI, begitu
+juga business governance tidak berpengaruh terhadap
+adaptabilitas organisasi dalam menerapkan TI. Selain itu, BPK
+RI juga memiliki tingkat adaptabilitas yang cukup baik dalam
+penerapan SMP.
+Kata kunci: IT governance, business governance, kemampuan
+manajerial, adaptabilitas organisasi, Sistem Manajemen
+Pemeriksaan (SMP), sistem informasi, teknologi informasi.
+
+
+PENDAHULUAN
+Adaptabilitas organisasi dalam hal penerapan teknologi
+informasi (TI) adalah kemampuan beradaptasi dalam
+penerapan TI yang dilakukan oleh suatu organisasi, relevan
+dalam konteks keselarasan strategis antara IT governance dan
+business governance.Selain itu, kemampuan manajerial TI
+turut berperan penting sebagai pendorong kinerja suatu
+organisasi.Kolaborasi yang baik dari IT governance, business
+governance dan kemampuan manajerial TI suatu organisasi
+diharapkan mempengaruhi adaptabilitas organisasi dalam
+lingkungan yang dinamis sehingga menjadi competitive
+advantage organisasi tersebut untuk dapat terus maju dan
+berkembang.
+Sistem Manajemen Pemeriksaan (SMP) merupakan
+aplikasi berbasis web yang digunakan oleh auditor untuk
+mengelola data pemeriksaan dari proses audityang dilakukan
+mulai dari tahap perencanaan, pelaksanaan dan pelaporan,
+tindak lanjut audit serta analisis dan evaluasi sehingga proses
+pemeriksaan dapat dipantau oleh pimpinan dari awal hingga
+akhir.Oleh karena itu penggunaan aplikasiSMP yang
+digunakan BPK RIdibuat dengan mengacu kepada Panduan
+Manajemen Pemeriksaan (PMP) dan peraturan-peraturan
+terkait dengan pemeriksaan.
+Adaptabilitas BPK RI dalam implementasi penggunaan
+SMP akan berjalan dengan baik apabila dilakukan
+penyeragaman proses bisnis utama terkait dan pengelolaan
+serta integrasi database pemeriksaan yang ada. Infrastruktur
+dan kesiapan dari sumber daya manusia dalam organisasi juga
+perlu menjadi fokus.Ketika hal-hal tersebut dapat dilakukan
+dengan baik maka sistem yang dijalankan diharapkan dapat
+berfungsi secara efektif dan optimal.
+Penelitian ini menggunakan model penelitian yang telah
+dikembangkan oleh Heart et al [4]. Penelitian ini berusaha
+meneliti bagaimana pengaruh business governance, IT
+governance dan kemampuan manajerial TI terhadap
+adaptabilitas organisasi BPK RIdalampengunaan SMP dan
+sejauh mana tingkat adaptabilitas BPK RI dalam penerapan
+SMP.
+II. PENGARUH E-GOVERNANCE TERHADAP ADAPTABILITAS
+ORGANISASI
+A. Perspektif Kemampuan Dinamis
+Penjelasan mengenai perspektif kemampuan dinamis [3],
+menjelaskan pengaruhtiga variabel kemampuan organisasi
+menggunakan sumber daya TI mereka untuk beradaptasi
+dengan kondisi bisnis yang berubah yaitu terkait business
+governance, IT governancedan kemampuan
+manajerialTI.Kemampuan dinamis didefinisikan sebagai
+kemampuan organisasi untuk mengintegrasikan, membangun
+dan mengkonfigurasi ulang kompetensi internal dan eksternal
+untuk menyesuaikan dengan cepat perubahan lingkungan [3].
+Berbagai literatur mengenai sistem informasi sering
+menerapkan perspektif kemampuan dinamis untuk
+menggambarkan bagaimana kemampuan TImemfasilitasi kemampuan organisasi untuk beradaptasi dengan perubahan
+dalam lingkungan bisnis mereka [14]. Wheeler [14]
+berpendapat bahwa kemampuan dinamis bergantung pada
+kemampuan organisasi untuk memilih sumber daya TI yang
+secara potensial berhargadan secara efektif mencocokkannya
+dengan peluang pasar yang muncul.
+Berdasarkan gagasan ini, kita perlu mempertimbangkan
+kemampuan manajerial TI menjadi penentu penting dari
+adaptabilitas organisasi untuk menerapkan TI agar dapat
+beradaptasi dengan perubahan lingkungan bisnis.
+Kemampuan manajerial TI sangat penting dalam proses yang
+melibatkan penginderaan lingkungan, mengidentifikasi
+peluang untuk menggunakan TI secara strategis, dan
+menyebarkan kembalidan atau mengkonfigurasi ulang sumber
+daya TI.Namun, TI dapat tidak memiliki efek positif pada
+kemampuan beradaptasi organisasi kecuali organisasi
+memiliki struktur organisasi yang baik untuk memfasilitasi
+pengaruh ini.
+B. Adaptabilitas Penerapan TI
+Untuk berkembang, organisasi perlu beradaptasi,
+khususnya di lingkungan yang sangat
+dinamis[3].Adaptabilitas didefinisikan sebagai kemampuan
+suatu organisasi untuk terus mengubah strategi dan
+kompetensi dalam menanggapi perubahan kondisi lingkungan
+[6]. Kemampuan beradaptasi suatu organisasi,
+merupakansesuatu hal yang kompleks dan terkait dengan
+banyak hal, saat struktur dan proses organisasi terjalin dengan
+baik, maka jelas organisasi tersebut memiliki karakteristik
+yang bernilai, langka, tidak dapat ditiru, dan tidak dapat
+digantikan.Dengan demikian memberikan
+organisasikeunggulan kompetitif.
+Kemampuan adaptabilitas organisasi dalam menerapkan
+TI, saling terkaitdengan ketersediaan business governance
+dan struktur IT governance organisasi yang efektif, harus
+memfasilitasi pengembangan kemampuan manajerial TI
+sebagai sarana dimana keputusan strategis dan taktis yang
+dilakukan berpengaruh terhadapkemampuan beradaptasi
+organisasi dalam mengembangkan TI[10].
+Oleh karena itu, hipotesis dalam penelitian ini terkait
+dengan bahwa business governance,IT governance, dan
+kemampuan manajerial TI adalah penentu adaptabilitas
+organisasi dalam menerapkan sebuah TI.Namun, TI dapat
+tidak memiliki efek positif pada kemampuan beradaptasi
+organisasi kecuali organisasi memiliki struktur organisasi
+yang baik untuk memfasilitasi dampak ini.
+C. Kemampuan Manajerial TI
+Kemampuan TI sebuah organisasi didefinisikan sebagai
+kemampuan untuk memobilisasi dan menyebarkan sumber
+daya yang berbasiskan TI yangdilakukan
+denganmengkombinasikan atau menyandingkannya dengan
+sumber daya dan kemampuan lainnya [1]. Wade dan Hulland
+[11]mengkategorikan tiga kemampuan TI: inside-out
+capabilities yang bersifat teknis dan fokus pada infrastruktur
+TI, outside-incapabilities yang berkaitan dengan pengelolaan
+hubungan dengan pelanggan TI, pemantauan lingkungan dan
+memahami dinamika pasar; dan mencakup kemampuan yang
+fokus pada perencanaan TI, kemitraan bisnis, dan keselarasan
+antara strategi TI dan strategi bisnis.
+Sementara kemampuan dari eksekutif bisnis telah lama
+dianggap sebagai aset strategis [3] [9].Pentingnya
+kemampuanmanajerial TI sering diabaikan dan dianggap
+bersifat pendukung.Akibatnya, jarang eksekutif TI menjadi
+bagian dari lingkaran proses pengambilan keputusan strategis
+organisasi[5]. Persepsi TI seperti ini,memandang TI hanya
+sebagai pendukung layanan yang efisien dan efektif tanpa
+terlibat aktif dalam membentuk strategi bisnis organisasi.
+Pasar yang dinamis membutuhkan infrastruktur TI yang
+adaptif sehingga mendukung rekonfigurasi dilakukan secara
+lebih cepat dan murah. Dalam perspektif
+keselarasan,eksekutif TI harus secara aktif berpartisipasi
+dalam membentuk tujuan bisnisdan strategiberdasarkan
+peluang teknologi dan inovasi, memiliki pengetahuan yang
+mendalam tentang kebutuhan bisnis untuk menjadi mitra
+dalam mendorong kemampuan dinamis. Maka dari itu, dapat
+dihipotesiskan:
+H1: Kemampuan manajerial TI berpengaruh terhadap
+adaptabilitas organisasi
+D. IT Governance
+IT governance didefinisikan sebagai kerangka kerja untuk
+pengambilan keputusan dan akuntabilitas, untuk mendorong
+perilaku yang diinginkan dalam penggunaan TI[12]. IT
+governance sering dianggap bagian terlemah dari tata kelola
+perusahaan secara keseluruhan [5] [13].Padahal terdapat
+pemahaman bahwa IT governance secara signifikan
+mempengaruhi kinerja bisnis melalui berbagai mekanisme,
+dengan keselarasan TI dan bisnis diakui sebagai salah satu
+pusat perhatiannya [2].
+Dalam lingkungan yang dinamis, IT governance
+membutuhkan suatu struktur dinamis dalam rangka
+memfasilitasi dan mendukung pengembangan kemampuan
+dinamis [5]. Ini berarti bahwa IT governance perlu
+menggunakan konfigurasi dinamis di mana eksekutif bisnis
+dan TI berkolaborasi dan berkomunikasi secara efektif [10]
+[13].Supaya efektif, eksekutif TIperlu memiliki kemampuan
+manajerial dan pengetahuan TI.Seperti disebutkan dalam
+Henderson dan Venkatraman[5] bahwa perspektif
+transformasi keselarasan teknologi TI dan bisnissama
+pentingnya dengan kemampuan TI dan proses yang
+dilakukan. Sehingga dapat dihipotesiskan:
+H2: IT governance berpengaruh terhadap kemampuan
+manajerial TI yang dimediasi oleh pengaruh dari IT
+governance terhadap adaptabilitas organisasi dalam
+menerapkan TI.
+H3: IT governance berpengaruh terhadap adaptabilitas
+organisasi dalam menerapkan TI.
+E. Business Governance
+Business governance didefinisikan sebagai kumpulan
+pilihan keputusan yang menentukan bagaimana organisasi
+menetapkan hubungan antara manajemen, termasuk dewan
+direksi, dan berbagai pemangku kepentingan, termasuk didalamnya pemegang saham, mitra strategis dan aliansi, dan
+regulator [7]. Awalnya, menyelaraskan business governance
+dan IT governance telah menjadi fokus di beberapapenelitian
+[5] [7].Ada kesepakatan umum dalam kebanyakan kasus
+bahwa khususnya di pasar dengan dinamis yang tinggi,
+business governance membentuk IT governance bukan
+sebaliknya [2]. Pola dimanabusiness governance membentuk
+IT governance, merupakan bagian dari kerangka kemampuan
+dinamis [3], dimana eksekutif bisnis dan TI
+mempersiapkanstruktur dan sumber daya dalam rangka proses
+mengkonfigurasi ulang dan merespon terhadap permintaan
+pasar. Sehingga dapat dihipotesiskan:
+H4: Business Governance berpengaruh terhadap IT
+governance.
+Mengikuti logika yang sama, business
+governancediakuisebagai kekuatan utamayang secara
+langsungmembentukkemampuan adaptasiorganisasi dalam
+menerapkan TI, karenaketerlibatan aktifdarieksekutif
+bisnissangat pentinguntuk mencapaikontribusi penting
+TIsecara umumnya, dan mengembangkankemampuanITdriven
+yang berhargapada khususnya [9]. Karenanya dapat
+dihipotesiskan:
+H5: Business governance berpengaruh terhadap adaptabilitas
+organisasi dalam menerapkan TI.
+H6: Business governance berpengaruh terhadap kemampuan
+manajerial TI yang dimediasi oleh IT governance.
+III. OBYEK PENELITIAN
+Obyek dalam penelitian ini adalah SMP di BPK RI.
+Penelitian ini menggunakan data primer yang diperoleh lewat
+metode survei yang dilakukan denganmenyebarkan kuesioner
+kepada staf sub bagian sekretariat kepala perwakilan dan
+bagian MIA (Manajemen Intern Auditorat) sebagai operator
+serta bagian yang memanfaatkan SMP untuk mendapatkan
+data persepsi individu mengenai tingkat adaptabilitas
+organisasi atas implementasi SMP di BPK RI. Prosedur
+penentuan sampel menggunakan metode convenience
+sampling. Jumlah sampel yang dibutuhan adalah 114 orang
+berdasarkan jumlah total indikator (19 indikator) dikalikan
+dengan enam dengan pertimbangan bahwa pengujian dan
+analisis penelitian ini menggunakan Lisrel(Linier Structural
+Relations) 8.80.
+IV. HASIL DAN PEMBAHASAN
+Pengujian dan analisis data dilakukan berdasarkan data
+kuesioner yang telah diterima dari responden.Kuesioner yang
+dibagikan adalah 150 kuesioner, sebanyak 132 kuesioner
+dikembalikan, namun 7 kuesioner tidak dapat digunakan
+sebagai data penelitian karena pengisian responden yang tidak
+lengkap, sehingga kuesioner yang dapat digunakan untuk
+penelitian ini hanya sebanyak 125 kuesioner.
+Gambaran umum responden menunjukkanmayoritas
+responden adalah perempuan dengan 56% dan range umur 20
+– 30 tahun dengan 68%. Mayoritas pendidikan yaitu S1
+sebanyak 48%. Sebanyak 95,2% responden menjabat sebagai
+staf. Mayoritas responden memiliki masa kerja > 5 tahun 52%
+dan pengalaman di jabatan yang sekarang di pegang > 5 tahun
+52,8%.
+Hasil statistik deskriptif variabel penelitian, menunjukkan
+bahwa business governance, IT governance, kemampuan
+manajerial TI dan adaptabilitas organisasi dalam menerapkan
+TI di BPK RI menunjukkan hasil yang cukup baik, hal ini
+ditunjukkan dengan tingginya skor mean untuk masingmasing
+variabel yaitu 19,87; 19,53; 20,22 dan 36, 65 dan
+cukup rendahnya standar deviasi masing-masing variabel
+yaitu 4,25; 4,37; 4,00 dan 6,87.
+Measurement Model denganConfirmatory Factor
+Analysis(CFA) dilakukan sebelum model dianalisis. CFA
+digunakan untuk menyediakan uji konfirmatori untuk teori
+pengukuran yang menspesifikan bagaimana mengukur
+variabel secara logika dan sistematis yang merepresentasikan
+konstruk antar variabel laten. CFA juga digunakan untuk
+menguji aspek unidimensionalitas, validitas, dan reliabilitas
+indikator-indikator yang menjelaskan konstruk variabel laten.
+A. Uji CFA untuk Business Governance (BG)
+BG memiliki fit yang baik, yang dapat dilihat pada
+Goodness of Fit Statistics seperti pada Tabel I.
+
+
+Berdasarkan output Lisrel, semua indikator memiliki
+validitas baik, yaitu indikator yang memiliki nilai loading >
+0,70. Nilai loading indicator BG yaitu B1 (0,94), B2 (0,88),
+B3 (0,89), B4 (0,88).
+B. Uji CFA untuk IT Governance (ITG)
+ITG memiliki fit yang baik, yang dapat dilihat pada
+outputGoodness of Fit Statistics bahwa setelah I4 dihilangkan
+dalam variabel ITG karena memiliki loading factor< 0,70
+yaitu sebesar 0,68, probabilitas Chi Square (P-Value) menjadi
+1,00, nilai RMSEA 0,00 yang berarti model fit dengan
+sempurna dan output menyatakan bahwa “the model is
+saturated the fit is perfect”. Berdasarkan output Lisrel,
+validitas indikator variabel ITG setelah revisi menunjukkan
+hasil yang baik dengan loading estimation untuk I1 (0,79), I2
+(0,86) dan I3 (0,89).
+C. Uji CFA untuk Kemampuan Manjerial TI (KMTI)
+KMTI memiliki fit yang baik, yang dapat dilihat
+padaoutputGoodness of Fit Statistics seperti pada Tabel II.
+
+Berdasarkan output Lisrel, semua indikator yang memiliki
+validitas baik, yaitu indikator yang memiliki nilai loading>
+0,70 yaitu K1 (0,75), K2 (0,87), K3 (0,92), K4 (0,78).
+D. Uji CFA untuk Adaptabilitas Organisasi dalam
+Menerapkan TI (ADAP)
+ADAP memiliki fit yang baik, yang dapat dilihat
+padaoutputGoodness of Fit Statistics dimana setelah indikator
+A4, A5, A6 dan A7 dihilangkan karena memiliki loading
+factor< 0,70. Setelah penghilangan 4 indikator dari variabel
+ADAP, Probabilitas Chi Square (P-Value) menjadi 1,00, nilai
+RMSEA 0,00 (pada path diagram) yang berarti model fit
+dengan sempurna dan output menyatakan bahwa “the model is
+saturated the fit is perfect”. Berdasarkan output Lisrel,
+validitas indikator variabel ADAP setelah revisi menunjukkan
+hasil yang baik dengan loading estimation untuk A1 (0,88),
+A2 (0,93) dan A3 (0,78).
+Setelah model per variabel penelitian dianalisis melalui
+CFA, selanjutnya adalah proses Lisrel untuk mengetahui
+keseluruhan hubungan antar variabel dan menguji hipotesis
+yang telah diajukan. Hasil Goodness of Fit Statistics
+ditunjukkan pada Tabel III.
+
+Hasil dari beberapa indikator menunjukkan goodness of fit
+yang baik. Sehingga secara keseluruhan dapat disimpulkan
+bahwa model penelitian termasuk dalam kategori fit.
+Batas penolakan hipotesis adalah│1,96│dan
+│1,645│pada tingkat signifikansi 5% dan 10% dengan
+jumlah sampel 125. Berdasarkan t-values pada outputLisrel
+8.80, terdapat empat hipotesis yang diterima yaitu hipotesis 1,
+2, 4 dan 6 dan dua hipotesis yang ditolak, yaitu hipotesis 3
+dan 5. Tabel IV menunjukkan nilai-nilai indikator dalam
+output structural equation yang menjelaskan hubungan tiap
+variabel.
+
+
+E. Pengujian dan Pembahasan Hipotesis 1
+Hipotesis 1 menyatakan bahwa kemampuan manajerial TI
+(KMTI) berpengaruh terhadap adaptabilitas organisasi dalam
+menerapkan TI (ADAP) diterima secara statistik. Nilai Tvalue
+adalah (3,62) lebih besar dari batas nilai│1,96│dan
+berarti signifikan. Hasil ini konsisten dengan berbagai
+penelitian mengenai kemampuan manajerial TI yang
+memfasilitasi kemampuan perusahaan untuk beradaptasi
+dengan perubahan dalam lingkungan bisnis mereka [14].
+Berdasarkan statistik deskriptif, kemampuan manajerial TI
+yang dimiliki oleh SDM BPK RI cukup memadai dalam
+melakukan pengembangan dan implementasi SMP BPK
+RI.Biro TI selalu berusaha adaptif dan responsif memenuhi
+kebutuhan pemeriksaan akan suatu sistem informasi dengan
+menciptakan SMP dan infrastruktur TI yang adaptif dengan
+melakukan perbaikan dan pengembangan aplikasi tersebut,
+sampai sekarang memasuki generasi ke 3.
+F. Pengujian dan Pembahasan Hipotesis 2
+Hipotesis 2 menyatakan bahwa IT Governance (ITG)
+berpengaruh terhadap kemampuan manajerial TI (KMTI)
+yang dimediasi oleh pengaruh dari IT governance (ITG)
+terhadap adaptabilitas organisasi dalam menerapkan TI
+(ADAP) diterima secara statitik. Nilai T-value adalah (4,16)
+lebih besar dari batas nilai│1,96│dan berarti signifikan.
+Temuan ini sesuai dengan penelitian Henderson dan
+Venkatraman [5] yang menyatakan bahwa IT governance
+membutuhkan suatu struktur yang dinamis secara terus
+menerus dalam rangka memfasilitasi dan mendukung
+pengembangan kemampuan dinamis.Ini berarti bahwa IT
+governance perlu menggunakan struktur yang dinamis di
+manaeksekutif bisnis dan TI berkolaborasi dan berkomunikasi
+secara efektif [10] [13].
+BPK RI mempunyai renstra TI TA 2012 s.d. 2015 yang
+membentuk serta mengembangkan road map TI dan IT
+governance BPK RI. Tujuan renstra TI tersebut adalah
+menganalisa secara keseluruhan profil organisasi yang akan
+mengembangkan SI/TI untuk peningkatan kinerja usaha yang
+ada. IT governance BPK mengatur juga bagaimana
+melakukan pembangunan arsistektur SDM dan organisasi
+sehingga memiliki kemampuan manajerial TI yangdapat
+menopang TI BPK RI.
+
+
+G. Pengujian dan Pembahasan Hipotesis 3
+Hipotesis 3 menyatakan bahwa IT governance (ITG)
+berpengaruh terhadap adaptabilitas perusahaan dalam
+menerapkan TI (ADAP) ditolak secara statistik. Nilai T-value
+adalah(-0,59) kurang dari batas nilai│1,96│dan berarti tidak
+signifikan. Temuan itu sesuai dengan Mata [8] menyatakan
+bahwa karena TI biasanya dianggap hanya pendukung strategi
+bisnis maka kemampuan manajerial TI sering diabaikan
+sebagai faktor pendorong kinerja bisnis organisasi.Pengaruh
+IT governance yang tidak signifikan terhadap adaptabilitas
+organisasi dalam menerapkan SMP dikarenakan berdasarkan
+renstra TI BPK RI TA 2012 s.d. 2015 dalam rencana
+operasional program pengembangan kebijakan, kegiatan
+pengembangan modul SMP sedang dilakukan di tahun 2013,
+sekarang sedang dilakukan tahap sosialisasi atas hasil
+pengembangan SMP terbaru kepada para satuan kerja
+sehingga users sedang beradaptasi menggunakan
+pengembangan SMP terbaru dalam kegiatan operasional
+mereka terkait dengan pemeriksaan.
+H. Pengujian dan Pembahasan Hipotesis 4
+Hipotesis 4 menyatakan bahwa Business Governance
+(BG) berpengaruh terhadap IT Governance (ITG) diterima
+secara statistik. Nilai T-value adalah (8,79) lebih besar dari
+batas nilai│1,96│dan berarti signifikan. Temuan ini sesuai
+dengan penelitian Brown dan Grant [2] yang menyatakan
+bahwa dalam kebanyakan kasuskhususnya di lingkungan yang
+dinamis, business governance membentuk IT governance
+bukan sebaliknya, business governance berdampak terhadap
+IT governance dan kedua aspek tersebut membentuk
+kemampuan organisasional yang dibutuhkan untuk mencapai
+tujuan strategis.
+Renstra TI BPK RI TA 2012 s.d. 2015 dibentuk
+berdasarkan restra BPK RI TA 2011 s.d. 2015 telah mengatur
+bagaimana strategi bisnis perlu mendapat dukungan dari
+strategi TI. Strategi TI menitikberatkan pada bagaimana
+menentukan definisi kebutuhan dan target arsitektur SI/TI
+BPK RI serta bagaimana memahami kondisi dan kinerja SI/TI
+BPK RI terkini dengan melakukan perencanaan dan
+penerapan sumberdaya TI yang didukung oleh sumberdaya
+manusia yang handal. Pemeliharaan dan pengembangan SI/TI
+dapat mendukung kebutuhan organisasi yang dinamis dengan
+mempertimbangkan tren perkembangan SI/TI sehingga peran
+SI/TI dapat menjadi key enabler yang memberikan value
+added serta menjadi tools dalam menciptakan inovasi-inovasi
+yang dapat menjadi competitive advantage bagi organisasi
+yang disesuaikan dengan proses bisnis organisasi.
+I. Pengujian dan Pembahasan Hipotesis 5
+Hipotesis 5 menyatakan bahwa Business Governance
+(BG) berpengaruh terhadap adaptabilitas organisasi dalam
+menerapkan TI (ADAP) ditolak secara statistik. Nilai T-value
+adalah (0,13) kurang dari dari batas nilai│1,96│dan berarti
+tidak signifikan. Temuan ini tidak sesuai dengan penelitian
+Ross dan Weill (2002) yang menyatakan bahwa business
+governancediakuisebagai kekuatan utamayang secara
+langsung membentuk kemampuan adaptasi perusahaan dalam
+menerapkan TI.
+Proses pengembangan renstra TI BPK RI TA 2012 s.d.
+2015 sebenarnya dikembangkan berdasarkan restra BPK RI
+TA 2011 s.d. 2015 yang telah disusun dan ditetapkan
+sebelumnya oleh segenap pimpinan lembaga dan pemangku
+kepentingan. Sejumlah dokumen dan referensi pendukung
+lain dipergunakan pula agar renstra TI BPK RI yang dibuat
+selaras dengan strategi yang telah dikembangkan sebelumnya.
+Keselarasan antara strategi bisnis dan strategi TI organisasi
+tentunya akan menghasilkan competitive advantage bagi
+untuk beradaptasi dalam menghadapi lingkungan yang
+dinamis.
+J. Pengujian dan Pembahasan Hipotesis 6
+Hipotesis 6 menyatakan bahwa Business Governance
+(BG) berpengaruh terhadap kemampuan manajerial TI
+(KMTI) yang dimediasi oleh IT Governance (ITG) diterima
+secara statistik. Nilai T-value adalah (1,94) lebih besar dari
+batas nilai│1,645│dan berarti signifikan. Temuan ini sesuai
+dengan penelitian Ross dan Weill [9] yang menyatakan bahwa
+business governancediakuisebagai kekuatan utamayang
+secara langsungmembentukkemampuan adaptasiperusahaan
+dalam menerapkan TI, karenanyaketerlibatan
+aktifdarieksekutif bisnissangat pentinguntuk
+mencapaikontribusi penting TIsecara umumnya, dan
+mengembangkankemampuanIT-driven yang berhargapada
+khususnya. Kemampuanadaptabilitas organisasi dalam
+menerapkan TI, saling terkaitdengan ketersediaan bisnis
+organisasidan struktur IT governance yang efektif, dimana
+harus memfasilitasi pengembangan kemampuan manajerial TI
+sebagai sarana dimana keputusan strategis dan taktis yang
+dilakukan berpengaruh terhadapkemampuan beradaptasi
+organisasi dalam mengembangkan TI[10].
+III. KESIMPULAN
+Adaptabilitas organisasi dalam menerapkan SMP
+dipengaruhi secara signifikan oleh kemampuan manajarial TI.
+Hal tersebut ditunjukkan dengan Biro TI selalu berusaha
+adaptif dan responsif memenuhi kebutuhan pemeriksaan akan
+suatu sistem informasi dengan menciptakan SMP dan
+infrastruktur TI yang adaptif untuk mengakomodasi
+kebutuhan organisasi akan database kegiatan pemeriksaan
+yang semakin kompleks dan saling terintegrasi mulai dari
+perencanaan sampai dengan evaluasi pemeriksaan.
+Business governance dan IT governance tidak
+berpengaruh signifikan terhadap adaptabilitas organisasi
+dalam menerapkan SMP dikarenakan kegiatan pengembangan
+modul SMP sedang dilakukan di tahun 2013, sekarang sedang
+dilakukan tahap sosialisasi atas pengembangan SMP terbaru
+pada Oktober 2013 sehingga para satuan kerja sehingga users
+sedang beradaptasi menggunakan pengembangan SMP
+terbaru dalam kegiatan operasional mereka terkait dengan
+pemeriksaan. Selain itu diperlukan komunikasi, koordinasi,
+pengendalian dan pemantauan proyek-proyek TI antara
+perencana, pengelola sistem, user dan pimpinan dalam rangka
+mengoptimalkan implementasi SMP di BPK RI sehingga Rentra TI selaras dengan rentra bisnis BPK RI dan strategi
+yang telah dikembangkan sebelumnya.
+Kemampuan manajerial TI dalam BPK RI dipengaruhi
+secara signifikan oleh business governance dan IT Governace
+hal ini dapat dijelaskan dengan renstra TI BPK RI bertujuan
+untuk membentuk serta mengembangkan road map TI dan IT
+governance BPK RI. Tujuan renstra TI tersebut adalah
+menganalisa secara keseluruhan profil organisasi yang akan
+mengembangkan SI/TI untuk peningkatan kinerja usaha yang
+ada untuk melakukan pemahaman dan pemetaan akan peranan
+strategis maupun operasional SI/TI dalam kerangka serta
+konteks bisnis organisasi. Sehingga renstra TI tersebut
+mengatur bagaimana strategi bisnis perlu mendapat dukungan
+dari strategi TI dan juga bagaimana melakukan pembangunan
+arsistektur SDM dan organisasi sehingga memiliki
+kemampuan manajerial TI yang dapat menopang TI BPK RI.
+BPK RI memiliki tingkat adaptabilitas yang cukup baik
+dalam penerapan SMP, hal ini ditunjukkan dengan
+penyempurnaan dan pengembangan SMP sampai saat ini
+menghasilkan generasi ke tiga, kesiapan SDM baik dari sisi
+penyedia sistem yaitu Biro TI BPK RI dan kesiapan users
+dalam penggunaannya sehingga kualitas sistem yang sekarang
+sudah semakin bagus, waktu yang semakin cepat dalam
+pengaksesan, kualitas informasi yang semakin akurat dan up
+to date, kualitas pelayanan yang makin maksimal.

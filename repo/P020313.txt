@@ -1,0 +1,52 @@
+﻿ABSTRAK 
+
+Dewasa ini, perkembangan teknologi robot sangat cepat. Robot diciptakan karena robot diharapkan dapat membantu manusia mengerjakan pekerjaan yang memerlukan ketelitian dan ketepatan tinggi. Salah satu perkembangan robot yang mendapat perhatian paling besar adalah robot manusia atau humanoid robot. Untuk mengembangkan humanoid robot diperlukan biaya yang tidak murah dan waktu yang lama. 
+
+Pada penelitian ini akan dilakukan perancangan kontruksi mekanik humanoid robot yang sederhana, murah dan ringan. Selanjutnya akan dilakukan pemodelan kinematik dan pemodelan dinamik pada humanoid robot. Pemodelan kinematik ini menganalisa tentang forward kinematics dengan menggunakan notasi parameter Denavit-Hartenberg (DH parameter). Pada pemodelan dinamik menganalisa tentang torsi pada joint ankle humanoid robot dengan menggunakan persamaan Lagrangian. Dalam analisa perhitungan menggunakan alat bantu software MATLAB. 
+
+Pemodelan kinematik melalui tahapan penempatan frames link robot, mencari DH parameter, memasukan sudut refrensi: θRL1= 0, θRL2= 45̊, θRL3= -55̊, θRL4= 10, θRL5= 0, θLL1= 0̊, θLL2=-55̊, θLL3= 35̊, θLL4= 20̊, θLL5=0̊, sehingga diperoleh posisi koordinat (x,y,z) pada joint kelima kaki kiri humanoid robot yaitu (18.77, -67.85, 53.77). Pemodelan dinamik dilakukan berdasarkan turunan persamaan Lagrangian pada tiap link humanoid robot, sehingga diperoleh torsi join ankle yang bekerja sebesar 0.65 Nm. Berdasarkan besarnya torsi tersebut maka dapat menentukan jenis dan besarnya aktuator yang dibutuhkankan. Dalam pergerakan humanoid robot pada joint space mempunyai jalur lintasan (trajectory) sebagai fungsi trajectory terhadap waktu. Dari hasil penelitian ini, maka akan diperoleh model awal pengembangan humanoid robot yang dapat digunakan untuk dunia pendidikan dan perlombaan seperti KRI atau KRCI. 
+
+Kata kunci : DH parameter, forward kinematics, Humanoid robot, Lagrangian, trajectory.
+
+
+ BAB 1 
+PENDAHULUAN 
+1.1 Latar Belakang 
+
+Dewasa ini, perkembangan teknologi robot berjalan sangat cepat. Robot diciptakan karena robot diharapkan dapat membantu manusia mengerjakan pekerjaan yang memerlukan ketelitian dan ketepatan tinggi. Robot diciptakan agar dapat menggantikan manusia untuk melakukan pekerjaan yang memerlukan kecepatan tinggi, pekerjaan manusia yang beresiko tinggi (pekerjaan yang dapat menyebabkan kematian), pekerjaan yang kotor (kumuh) dan pekerjaan yang sifatnya berulang-ulang. Perkembangan robot sangat cepat, salah satu yang mendapat perhatian paling besar pada akhir-akhir ini adalah robot manusia atau yang lebih dikenal dengan sebutan humanoid robot. Manusia berusaha untuk menciptakan humanoid robot yang memiliki kecerdasan dan kemampuan yang mendekati manusia (humanoid). Robot didesain agar mampu bergerak seperti layaknya seorang manusia serta dapat berpikir dan mengambil suatu keputusan berdasarkan logika-logika yang telah terprogram. 
+
+Topik-topik penelitian yang berkaitan dengan humanoid robot banyak dilakukan di negara-negara maju. Semakin maju dan semakin tinggi jenjang pendidikan di suatu negara maka semakin maju pula penelitian mereka tentang robot khususnya humanoid robot, diantaranya yang pernah dilakukan oleh Fredrik Bajer pada tahun 2007[1]. Di Indonesia sendiri, penelitian-penelitian mengenai humanoid robot masih jarang dilakukan. Sehingga penelitian tentang humanoid robot perlu lebih dikaji khususnya dalam kalangan pelajar ataupun mahasiswa. 
+Dalam perkembangan robotik dewasa ini, banyak perusahaan maupun universitas yang bersaing mengembangkan dan memproduksi humanoid robot dengan biaya yang tidak murah dan waktu yang lama. Oleh karena itu, salah satu tujuan penilitian ini adalah mendesain kontruksi mekanik humanoid robot yang sederhana, murah, dan ringan. Sehingga untuk proses pembelajaran dalam lingkup universitas masih terjangkau dalam hal biaya maupun waktu. 
+
+Pada penelitian kali ini saya akan membahas tentang desain dan pemodelan kinematik dan pemodelan dinamik humanoid robot yang merupakan tahapan awal dalam rantai bangun humanoid robot. Desain dan pemodelan kinematik humanoid robot yang saya buat ini adalah humanoid robot yang berukuran kecil yang kedepannya bisa diaplikasikan pada perlombaan Soccer Robot pada event Kontes Robot Indonesia (KRI) dan Kontes Robot Cerdas Indonesia (KRCI). Dalam pemodelan dinamik, penelitian saya ini akan menggunakan persamaan Lagrangian yang bertujuan untuk menghitung torsi yang dibutuhkan pada servomotor sebagai aktuator penggerak pada sendi (joint) humanoid robot. Dari torsi yang diperoleh tersebut maka akan bisa menentukan jenis servomotor yang kedepannya akan digunakan untuk aktuator humanoid robot tersebut. 
+
+1.2 Tujuan Penelitian 
+
+Tujuan penelitian yang dilakukan pada Tugas Akhir dengan topik humanoid robot adalah: 
+1. Mendesain humanoid robot menggunakan salah satu software CAD (Computer Aided Design) yaitu SolidWorks. 
+2. Mendiskripsikan pemodelan kinematik humanoid robot. 
+3. Mendiskripsikan pemodelan dinamik humanoid robot dengan persamaan Lagrangian untuk mendapatkan torsi pada aktuator dan mendiskripsikan trajectory pada setiap joint dari humanoid robot. 
+
+1.3 Batasan Masalah 
+
+Batasan masalah yang diberikan pada penilitian ini dimaksudkan agar pembahasan penilitian lebih maksimal dan terfokus. Adapun batasan masalah pada penelitian ini adalah: 
+1. Dimensi tinggi humanoid robot adalah 350 mm, dengan perhitungan agar dapat digunakan untuk lomba KRI dan KRCI. 
+2. Bahan untuk link humanoid robot adalah plat aluminium. 
+3. Perhitungan kinematik maupun dinamik menggunakan software MATLAB. 
+4. Aktuator humanoid robot menggunakan servomotor. 
+
+1.4 Metode Penelitian 
+
+Metode penelitian yang penulis lakukan dalam membuat tugas akhir ini adalah sebagai berikut : 
+1. Studi Pustaka 
+
+Adapun studi pustaka ini diperoleh dari beberapa literatur, baik berupa buku-buku perpustakaan, jurnal-jurnal yang diperoleh dari internet, serta laporan tugas akhir dan thesis yang berkaitan dengan tugas sarjana ini. 
+2. Bimbingan 
+
+Bertujuan untuk mendapatkan tambahan pengetahuan dan masukan dari dosen pembimbing serta koreksi terhadap kesalahan-kesalahan yang terjadi dalam pembuatan tugas akhir dan penyusunan laporan. 
+
+1.5 Sistem Penulisan 
+
+Dalam laporan penelitian ini, pada bab pertama berisi mengenai latar belakang, tujuan, pembatasan masalah, metodologi penelitian, dan sistematika penulisan laporan. Dalam bab kedua, akan dimuat dasar teori tentang pemodelan humanoid robot yang berisi tentang sejarah singkat robot, sejarah dan perkembangan robot, klasifikasi robot, struktur umum robot, konfigurasi robot, dasar teori humanoid robot, konsep pemodelan kinematik dan pemodelan dinamik. 
+
+Selanjutnya dalam bab ketiga berisi tentang sistematik diagram alir perancangan humanoid robot, penjelasan tahapan–tahapan perancangan humanoid robot tersebut, dan DH parameter pada kinematik humanoid robot. Kemudian pada bab empat adalah isi utama dari kegiatan penelitian, pada bab ini dijelaskan pemodelan kinematik tentang forward kinematics dan penjabaran persamaan Lagrangian dinamika dalam pemodelan dinamik untuk menganalisa torsi pada aktuator sendi (joint) serta trajectory pada setiap joint dari humanoid robot. Bab terakhir adalah penutup, yang berisi kesimpulan dan saran atau usulan untuk penelitian berikutnya. Pada halaman lampiran berisi kode program Matlab dan gambar desain humanoid robot.

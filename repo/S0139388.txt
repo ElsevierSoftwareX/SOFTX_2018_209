@@ -1,0 +1,835 @@
+﻿Pengaruh Strategi Pembelajaran Berbasis Proyek Perancangan dan Kecerdasan
+Logik-Matematik Terhadap Kompetensi Merancang Web
+
+Abstrak: Penelitian ini bertujuan untuk mengetahui pengaruhstrategi pembelajaran berbasis
+proyek perancangan terhadap kompetensi merancang web, untuk mengetahui pengaruh
+kecerdasan logik-matematik terhadap kompetensi merancang web. Hasil penelitian
+menunjukkan bahwa: (1) terdapatpengaruhpendekatanstrategi pembelajaran berbasis
+proyek perancangan terhadap kompetensi merancang web; (2) terdapat pengaruh kecerdasan
+logik-matematik terhadap kompetensi merancang web; (3) kelompok mahasiswa
+yang memiliki kecerdasan logik-matematik tinggi dan menggunakan strategi pembelajaran
+berbasis proyek perancangan programming language lebih tinggi dibandingkan kelompok
+mahasiswa kecerdasan logik-matematik tinggi dan menggunakan strategi pembelajaran
+berbasis proyek perancangan content management system (CMS);(4) kelompok mahasiswa
+yang memiliki kecerdasan logik-matematik rendah dan menggunakan strategi pembelajaran
+berbasis proyek perancangan programming language lebih rendah dibandingkan kelompok
+mahasiswa yang memiliki kecerdasan logik-matematik rendah dan menggunakan
+strategi pembelajaran berbasis proyek perancangan content management system (CMS).
+Keywords: Strategi Pembelajaran, Perancangan, Kecerdasan Logik-Matematik, Web.
+PENDAHULUAN
+Teknologi informasi yang terus berkembang
+menjadi sesuatu yang juga harus dipelajari oleh
+para mahasiswa baik di masyarakat, terlebih
+kalangan mahasiswa dalam bidang komputer
+atau informatika.Pada kenyataan yang terjadi
+dalam praktek pembelajaran yang diterapkan oleh
+para pembelajar maupun lembaga pendidikan
+adalah dengan memberikan strategi pembelajaran
+berbasis proyek perancangan pemrograman web
+yang praktis dan otomatis dibandingkan strategi pembelajaran berbasis proyek perancangandasar dari
+pemrograman web tersebut. Sebenarnya hal tersebut
+tidak menjadi suatu masalah jika mereka yang
+mempelajari pemrograman web adalah dari kalangan
+yang bukan keahliannya dalam bidang komputer,
+tetapi ini menjadi sesuatu yang tidak tepat dan
+tidak diharapkan jika berasal dari kalangan bidang
+komputer atau informatika. Padahal di dalam satuan
+acara perkuliahan (SAP) pada lembaga pendidikan
+tersebut sudah sangat jelas bahwa lulusan mata kuliah
+pemrograman web, diharapkan memiliki kompetensi
+untuk merancang dan menjadi seorang programer
+web yang handal. Seharusnya, mahasiswa diberikan
+pemahaman dasar dan penguasaan secara koding,
+inilah yang disebut dengan strategi pembelajaran
+berbasis proyek perancangan berbasis bahasa
+pemrograman (programming language). Apabila
+mahasiswa diberikan strategi pembelajaran berbasis
+proyek perancangan tersebut, maka kompetensi yang
+diharapkan akan dapat tercapai.
+Pada saat dosen mempertanyakan alasan mereka
+mempergunakan strategi pembelajaran berbasis
+proyek perancangan praktis dan otomatis tersebut,
+para mahasiswa menjawab bahwa mereka sudah
+terbiasa menerapkan strategi pembelajaran berbasis
+proyek perancangan tersebut pada matakuliah
+pemrograman web sebelumnya. Selanjutnya, ketika
+dosen meminta mahasiswa merubah desain kerangka
+web yang telah mereka rancang tadi, hampir secara
+keseluruhan tidak ada yang dapat merubah sedikitpun
+kerangka web yang sudah mereka rancang dengan
+strategi pembelajaran berbasis proyek perancangan
+praktis dan otomatis tersebut. Hal inilah yang
+menjadikan kualitas lulusan sangat rendah dalam
+kompetensi merancang web, kualitas lulusan akan
+sangat berkaitan dengan lapangan pekerjaan atau
+web developer yang akan menggunakan kompetensi
+lulusan tersebut, bagaimana pun jugaperusahaan
+– perusahaan yang bergerak dalam bidang
+pengembangan web (web developer), akan sangat
+membutuhkan keahlian programmer web untuk
+melayani berbagai macam permintaan pelanggan
+yang sangat beraneka ragam.
+Mahasiswa dimudahkan dalam perancangan
+web yang memanfaatkan tools atau editor yang
+mendukung format WYSIWYG (What You See Is What
+You Get), Gayo (1995:53) yang artinya apa yang
+ditampilkan adalah apa yang diperoleh. WYSIWYG
+memiliki kemampuan untuk mengaplikasikan format
+dari menu format (font, bold, italics, shade dan
+sebagainya) sekaligus untuk beberapa sel atau range
+yang tidak saling berhubungan langsung dengan
+melakukannya hanya satu kali perintah sesuai format
+yang diinginkan. Lever dan McDonald (2011:174)
+mengatakan fitur ini mengizinkan pengguna (user)
+untuk memperlihatkan tampilan awal sebuah
+dokumen dan melihat fungsi yang akan digunakan
+persis dengan apa yang akan dilihat sebelum itu
+ditampilkan atau dicetak.
+Rothwell dan Kazanas (2004:221) memberikan
+pengertian yang paling umum, strategi pembelajaran
+mungkin paling dipahami sebagai rencana
+keseluruhan yang mengatur konten pembelajaran
+(apa yang akan diajarkan?) dan proses (bagaimana
+itu akan diajarkan).
+Strategi pembelajaran menyajikan konten dari
+suatu pembelajaran, ini sependapat dengan Driscol
+dan Carliner (2005:301) yang mengatakan strategi
+pembelajaran adalah rencana untuk menyajikan
+konten kepada peserta didik dengan cara yang dapat
+mereka gunakan untuk mencapai tujuan yang telah
+ditetapkan. Strategi instruksional membahas cara
+desainer yang berencana untuk menyajikan konten
+itu sendiri serta cara bahwa mereka berencana untuk
+memperkuat dan memberikan latihan serta penilaian
+bagi para pelajar.
+Pada pembelajaran secara online, Dabbagh dan
+Ritland (2005:203) mengatakan strategi pembelajaran
+adalah instruksional atau sistem pembelajaran
+apa yang dilakukan untuk memfasilitasi belajar
+siswa.Segala komponen yang dapat memfasilitasi
+pembelajaran juga diungkapkan oleh Gagne, Wager,
+Golas, dan Keller (2005:226). Mereka mengatakan
+strategi pembelajaran adalah alat atau teknik yang
+tersedia untuk pendidik dan desainer instruksional
+untuk merancang dan memfasilitasi pembelajaran.
+Berbeda dengan pendapat - pendapat
+sebelumnya, Moore (2005:140) mengatakan strategi
+pembelajaran terdiri dari dua komponen: metodologi
+dan prosedur pelajaran. Strategi pembelajaran adalah
+rencana global untuk mengajar pelajaran tertentu.
+Metodologi bertindak sebagai motivator siswa dan
+menetapkan nada untuk pelajaran. Prosedur pelajaran
+adalah urutan langkah-langkah yang telah dirancang
+untuk siswa agar mengarah kepada akuisisi tujuan
+pembelajaran.
+Pada suatu pembelajaran, pembelajar harus
+mampu berkomunikasi dengan baik kepada peserta didik sehingga terjadi proses pembelajaran yang
+efektif, ini sama dengan yang diungkapkan oleh
+Richmond, Wrench, dan Gorham (2009:8). Mereka
+mengatakan strategi pembelajaran adalah cara di
+mana guru merancang komunikasi mereka untuk
+mengajar suatu tujuan untuk siswa.
+Selain itu, Spector (2012:95) memberikan
+pendapat tentang strategi pembelajaran, ia mengatakan
+bahwa strategi pembelajaran adalah deskripsi
+dari pendekatan untuk kegiatan pembelajaran dan
+pembelajaran tertentu.
+Branch (2009:85) mengatakan bahwa strategi
+pembelajaran didefinisikan sebagai organisasi dan
+urutan kegiatan pembelajaran. kutipan tersebut
+di atas menjelaskan bahwa strategi pembelajaran
+merupakan pengorganisasian suatu urutan kegiatan
+pembelajaran. Branch juga menambahkan bahwa
+strategi pembelajaran harus berusaha untuk
+mengakomodasi motivasi siswa untuk belajar, tingkat
+siswa belajar, dan gaya belajar masing-masing siswa.
+Peneliti menemukan pendapat tentang tujuan
+diskusi dari suatu strategi pembelajaran yang cukup
+detail dari Rogers (2002:101). Ia mengatakan
+bahwa sebagai strategi pembelajaran, tujuan diskusi
+memungkinkan siswa untuk berinteraksi dengan
+teman sebaya yang lebih mampu; mengartikulasikan
+dan dapat lebih kritis, memahami informasi tentang
+topik yang sedang dipertimbangkan, menguraikan
+dan menantang ide-ide, dan mendengar serta
+menggabungkan berbagai perspektif, hingga
+memotivasi siswa melalui lingkungan belajar yang
+aktif.
+Strategi pembelajaran harus dapat memberikan
+tugas secara menyeluruh, ini sesuai dengan yang
+diungkapkan oleh Czaja dan Sharit (2013:49).
+Mereka mengatakan bahwa strategi pembelajaran
+dapat menekankan perlunya menyajikan tugas secara
+holistik, namun pelajar masih harus menyaring
+informasi dari tugas terkait apapun melalui sistem
+pemrosesan informasi yang terbatas.
+Jonassen (2013:38) memberikan pendapat
+tentang strategi pembelajaran, ia mengatakan bahwa
+strategi pembelajaran yang direncanakan biasanya
+didasarkan pada model situasi dan apa yang terjadi di
+dalam situasi itu.
+Strategi pembelajaran yang dirancang
+biasanya berdasarkan gambaran situasi atau
+kondisi yang terjadi pada saat itu. Contohnya
+seperti dalam pendidikan jarak jauh (e-learning),
+strategi pembelajaran yang dirancang harus dapat
+sesuai dengan situasi dari pendidikan jarak jauh,
+bagaimana dalam pembelajaran tersebut siswa dapat
+memanfaatkan teknologi internet untuk berbagai
+macam kebutuhan yang diperlukan dalam proses
+pembelajaran, seperti mencari bahan untuk tugas,
+materi, dan berkomunikasi dengan guru atau dosen
+dalam dunia digital.
+Berbeda dengan pendapat – pendapat yang
+telah diungkapkan sebelumnya, Thousand, Villa,
+dan Nevin (2007:101) mengatakan bahwa strategi
+pembelajaran adalah mengajar / teknik yang dapat
+membantu untuk membuat peserta didik menjadi
+memahami dengan baik, membantu sebuah
+keterampilan menjadi otomatis, atau membantu
+sepotong pengetahuan menjadi mudah ditransfer
+dari satu orang ke orang lain. Strategi pembelajaran
+merupakan teknik atau cara mengajar yang dapat
+membantu peserta didik memahami pengetahuan
+dengan baik, membantu keterampilan terjadi secara
+terus – menerus (otomatis), dan membantu suatu
+pengetahuan yang telah diberikan menjadi mudah
+disampaikan dari satu siswa ke siswa lainnya.
+Selanjutnya Dick, Carey dan Carey (2009:171)
+memberikan pendapat tentang strategi pembelajaran,
+bahwa strategi instruksional menjelaskan komponen
+umum dari suatu set bahan pembelajaran dan prosedur
+yang akan digunakan dalam penguasaan siswa
+terhadap hasil belajar. Strategi instruktional berisi
+komponen – kompenen umum dari suatu set bahan
+pembelajaran dan langkah – langkah pembelajaran
+yang digunakan, sehingga memungkinkan
+penguasaan yang baik dari siswa untuk mendapat
+hasil belajar yang tinggi pula.
+Pendapat yang sama dengan di atas juga
+diungkapkan oleh Yaumi (2013:207)yang mengatakan
+bahwa strategi pembelajaran menggambarkan
+komponen umum materi pembelajaran dan prosedur
+yang digunakan dalam mencapai hasil belajar.
+Strategi pembelajaran merupakan komponen umum
+dari materi yang diberikan kepada siswa dan prosedur
+pembelajaran sistematis yang digunakan untuk
+mencapai hasil belajar.
+NYC Department of Education(2013:15)
+memberikan penjelasan umum tentang pembelajaran
+berbasis proyek, mereka mengatakan pembelajaran
+berbasis proyek adalah strategi pembelajaran yang
+memberdayakan peserta didik untuk mengejar
+pengetahuan konten mereka sendiri dan menunjukkanpemahaman baru melalui berbagai gaya presentasi.
+http://schools.nyc.gov/documents/teachandlearn/
+project_basedFinal.pdf
+Peserta didik dapat memanfaatkan pembelajaran
+berbasis proyek untuk dapat mengoptimalkan
+pengetahuan mereka masing – masing serta
+menunjukkan hal – hal baru melalui berbagai macam
+gaya presentasi.
+Blumenfeld, Soloway, Marx, Krajcik, Guzdial,
+dan Palincsar (2013:24) mengemukakan bahwa
+proyek memiliki potensi untuk meningkatkan
+pemahaman yang mendalam karena siswa perlu untuk
+memperoleh dan menerapkan informasi, konsep, dan
+prinsip-prinsip, dan mereka memiliki potensi untuk
+meningkatkan kompetensi dalam berpikir (belajar
+dan metakognisi) karena siswa perlu merumuskan
+rencana, melacak kemajuan, dan solusi evaluasi.
+http://mathforum.org/wikis/uploads/Blumenfeld.
+motivating.project.based.pdf
+Pendapat lain yang juga relevan dengan
+penjelasan di atas dikemukakan oleh Patton
+dan Robin (2014:54) yang mengatakan bahwa
+pembelajaran berbasis proyek mengacu pada siswa
+dalam merancang, merencanakan, dan melaksanakan
+proyek diperpanjang yang menghasilkan output
+untuk dipamerkan kepada publik seperti produk,
+publikasi, atau presentasi.
+Pendapat di atas sama dengan yang dikemukakan
+oleh Brookshear (2013:254)mengemukakan bahasa
+pemrograman sebagai berikut:
+...programming language similar to our
+pseudocode have been developed that allow
+algorithms to be expressed in a form that is both
+palatable to human and easily convertible into
+machine language instrctions.
+Ia mengatakan bahwa bahasa pemrograman
+serupa dengan pseudocode yang telah dikembangkan
+dan memungkinkan algoritma diekspresikan di suatu
+format yang keduanya dapat diterapkan oleh manusia
+dan dengan mudah dapat dirubah ke dalam bentuk
+perintah atau instruksi bahasa mesin.
+Peneliti menemukan pendapat tentang fungsi
+dari bahasa pemrograman, oleh Sutedjo dan
+AN (2004:21) yang menjelaskan fungsi bahasa
+pemrograman sebagai berikut:
+Fungsi bahasa pemrograman adalah sebagai
+media untuk menyusun dan memahami serta
+sebagai alat komunikasi antara pemrogram dengan
+komputer, meskipun dapat juga digunakan sebagai
+alat komunikasi antara orang yang satu dengan yang
+lain. Bahasa pemrograman juga dapat berfungsi
+sebagai media komunikasi antara pemrogram dengan
+sistem komputer, selain itu dapat digunakan sebagai
+komunikasi kepada pemrogram – pemrogram
+lainnya.
+Perbedaan juga telah peneliti temukan pada
+pernyataan Tim Referensi (2012:135) tentang
+pemrograman sebagai berikut:
+Pemrograman merupakan cara yang cepat,
+spesifik dan sesuai buat para siswa untuk memperoleh
+pengalaman dalam memecahkan berbagai masalah.
+Tujuannya adalah bukan untuk melatih “programer -
+programer kecil”, namun membawa para siswa untuk
+berhubungan dengan bagaimana programer berpikir.
+Mereka menambahkan, dengan mengingat
+tujuan ini, ciri – ciri sintaksis dan ciri – ciri khusus
+lainnya dan bahasa pemrograman kurang begitu
+penting dan hanya mesti dipelajari berdasarkan
+“kebutuhan untuk mengetahui (untuk keingintahuan
+saja)”.
+Peneliti menemukan kelemahan dan kelebihan
+dari perancangan web secara pemrograman dari
+pendapat McLeod dan Schell (2009:403) sebagai
+berikut:
+Kelemahan membuat halaman web dengan
+editor teks seperti notepad adalah keharusan untuk
+mempelajari perintah – perintah HTML dan proses
+pembuatan kode. Meskipun sederhana, pengodean
+di notepad memakan banyak waktu. Tetapi, ada
+dua keuntungan membuat kode HTML di notepad:
+kode yang dibuat efisien dan manajer dapat lebih
+memahami bagaimana halaman web bekerja.
+Brooks (2007:1-2) mengatakan sebuah
+dokumen HTML dasar membutuhkan minimal empat
+set elemen:
+<html> ... </ html>
+<head> ... </ head>
+<title> ... </ title>
+<body> ... </ body>
+Unsur-unsur ini menentukan bagian-bagian
+penting dari dokumen HTML, yaitu: dokumen itu
+sendiri, bagian judul, dan bagian tubuh. Masingmasing
+unsur didefinisikan oleh dua tag awal dan tag
+akhir. Tags selalu tertutup dalam kurung sudut: <...>.
+Tag akhir dimulai dengan garis miring (/).
+Pada penerapan teknik perancangan
+Programming Language ini, peneliti menggunakan
+aplikasi Notepad. Menurut Wilson, Miller, Palmer, Rennick, dan Torbert (2011:131) pengertian notepad
+adalah sebagai berikut:
+Notepad is a basic plain-text editor that you can
+use to write code without the fuss and worry of text
+formatting; it doesn’t support any special document
+formatting or characters at all, which is what makes it
+great for writing code and Web documents.
+Penjelasan di atas mengatakan bahwa notepad
+adalah editor teks dasar yang dapat anda gunakan
+untuk menulis kode tanpa kesulitan apapun, dan
+tanpa khawatir apabila format teks tidak mendukung
+format khusus dari suatu dokumen atau karakter,
+yang terpenting adalah untuk menuliskan kode dan
+membuat dokumen Web. Mereka juga menambahkan
+bahwa notepad merupakan editor teks yang termasuk
+dalam sebagian besar pengguna Windows karena
+produk Microsoft tersebut dikemas dalam setiap
+sistem operasi Windows. Notepad biasanya digunakan
+untuk melihat dan mengedit teks file dengan ekstensi
+.txt, tetapi banyak orang, menggunakannya untuk
+membuat dasar file CSS dan HTML.
+Valacich dan Schneider (2012:240)
+mengemukakan Content Management System (CMS)
+sebagai berikut:
+A content management system allows users
+to publish, edit, version track, and retrieve digital
+information (content, such a document, images,
+audio files, videos, or anything that can be digitized).
+Content management system memungkinkan
+pengguna untuk dapat menerbitkan informasi,
+mengedit, melihat aktifitas sebelumnya, dan
+memperbaharui informasi digital (seperti konten,
+dokumen yang berbentuk gambar, suara, video, atau
+apapun yang dapat didigitalkan.
+Pengguna dalam hal ini dapat mengelola konten
+seperti dokumen yang berbentuk gambar, suara,
+video, atau apapun yang memungkinkan menjadi file
+digital.
+Tim E-Media Solusindo (2011:115) juga
+mempunyai pendapat yang relevan dengan
+penjelasan sebelumnya, mereka mengatakan CMS
+ini merupakan software yang diimplementasikan
+sebagai aplikasi web. Gunanya untuk membuat dan
+manajemen konten HTML.
+Mereka juga menambahkan CMS memiliki fitur
+pembuatan dan manajemen halaman web dan file –
+file web lainnya, seperti gambar dan file multimedia.
+Penggunaan dengan CMS, seorang webmaster akan
+lebih mudah mencipta konten, mengontrol, editing,
+dan maintenancewebsite secara lebih mudah.CMS
+dapat mendukung file multimedia, serta dapat
+menjadikan seorang ahli web mudah dalam mencipta
+konten, mengontrol, editing, dan maintenancewebsite.
+Gunadi (2008:1) mengatakan bahwa CMS itu
+singkatan dari “Content Management System”. CMS
+ini juga didefinisikan sebagai aplikasi pengelola isi
+atau konten sebuah situs web.
+S’to (2008:2) mengatakan bahwa Content
+Management System (CMS) sebagai berikut:
+CMS mengandung kata Content (isi) dan
+Management yang artinya pengelolaan terhadap isi,
+seperti menambah, merubah dan menghapus serta
+management lainnya seperti pengaturan siapa yang
+boleh melakukan ini itu dan siapa yang tidak (hak
+users).
+Selain itu Smith (2006:74) memberikan
+pendapatnya tentang CMS yaitu, CMS is a system
+designed to streamline the management of content
+on a Web site by permitting the separation of
+content from presentation. Ia mengatakan bahwa
+CMS adalah suatu sistem yang didesain untuk
+mengefektifkan manajemen konten dari sebuah web
+dengan memungkinkan pemisahan konten dari hasil
+yang ditampilkan. Konten web yang sudah dirancang
+sebelumnya, dapat mereka kelola melalui fitur
+manajemen konten yang sudah tersedia sebelumnya,
+melalui fitur ini pengguna dapat mengelola tampilan
+web walaupun fitur tersebut terpisah dari hasil web
+yang sudah dirancang sebelumnya.
+Selanjutnya Ferguson (2007:53-54)
+mengemukakan pendapat yang sama dengan
+pendapat lain tentang CMS sebagai berikut:
+We can look at a CMS as a publishing tool
+that allows users to create, edit, delete, and present
+content in various forms including text, imagery,
+video, sound, and animation.
+Ia mengatakan bahwa kita dapat melihat
+CMS sebagai alat yang dapat mempublis sehingga
+memungkinkan pengguna untuk membuat, mengedit,
+menghapus, dan menampilkan konten dalam
+berbagai bentuk seperti teks, gambar, video, suara,
+dan animasi.
+Kemudian pada teknik perancangan content
+management system (CMS) ini, mahasiswa akan
+mempelajari beberapa komponen tentang fasilitas
+dan fitur dari joomla seperti konten, framework
+(kerangka), template, dan lain sebagainya. Webb
+(2009:2) mengatakan kerangka tersebut adalah sistem canggih dari perpustakaan kode yang melakukan
+tugas-tugas umum dan mengikat semuanya secara
+bersama-sama di joomla. Bahkan, CMSjoomla adalah
+salah satu dari beberapa aplikasi yang dibangun di
+atas kerangka pemikiran joomla. Penjelasan tersebut
+mengatakan bahwa pustaka kode yang tersimpan
+pada joomla melakukan tugas dan berfungsi
+secara bersama – sama, joomla merupakan sistem
+manajemen konten yang dirancang berdasarkan
+kerangka pemikiran sesuai dengan kebutuhan.
+Kemudian Silver (2007:128) mengatakan
+setelah anda menginstal joomla dan dirancang
+template yang bagus untuk itu, siapa saja dengan
+tingkat kemampuan administratif yang tepat dapat
+login ke panel administrasi dan menambahkan,
+mengedit, dan menghapus konten dan menu item.
+Pada saat kita menginstal joomla, maka akan
+terdapat banyak template yang menarik, dan sesuai
+dengan pengaturan tingkat administratif yang tepat
+dapat melakukan login ke panel untuk melakukan
+pengaturan atau menghapus menu item yang tersedia.
+Pada penerapan teknik perancangan Content
+Management System (CMS) ini, peneliti menggunakan
+aplikasi Joomla. Menurut Sarkar (2009:7) pengertian
+Joomla adalah sebagai berikut:
+Joomla is an award-winning CMS that will
+help you build web sites and other powerful online
+applications. Best of all, Joomla! is an open source
+solution that is freely available to everybody.
+Penjelasan di atas mengatakan bahwa joomla
+adalah pemenang penghargaan CMS yang akan
+membantu anda membangun situs web dan aplikasi
+online lainnya. Terbaik dari semua, joomla merupakan
+solusi open source yang tersedia secara bebas untuk
+semua orang.
+Kecerdasan logik-matematik yang
+dikemukakan oleh Jasmine (2012:19)yaitu orang
+dengan kecerdasan ini gemar bekerja dengan data:
+mengumpulkan dan mengorganisasi, menganalisis
+serta menginterpretasikan, menyimpulkan kemudian
+meramalkan.
+Selain itu, Connel (2005:67) memberikan
+pendapat dalam kelebihan orang yang memiliki
+kecerdasan logik-matematik sebagai berikut:
+Logical-mathematical people love number.
+They can easily interpret data and analyze abstract
+patterns. They have a well developed ability to reason
+and are good at chess and computer programming.
+They think in terms of cause and effects.
+Peneliti menemukan pendapat yang relevan
+dengan penjelasan di atas, Woolfolk (2009:171)
+yang mengemukakan komponen inti dari kecerdasan
+logik-matematik, yaitu sensitivitas dan kapasitas
+untuk melihat pola – pola logis atau numerik serta
+kemampuan untuk menangani rantai – rantai
+penalaran yang panjang.
+Kemudian Yaumi dan Ibrahim (2013:14-15)
+mengemukakan pendapat tentang kecerdasan logikmatematik
+sebagai berikut:
+Kecerdasan matematika disebut juga kecerdasan
+logis dan penalaran karena merupakan dasar dalam
+memecahkan masalah dengan memahami prinsip
+– prinsip yang mendasari sistem kausal atau dapat
+memanipulasi bilangan, kuantitas, dan operasi.
+Mereka juga menambahkan, penguatan dan
+pengembangan yang terarah terhadap kecerdasan
+matematika dapat mengarahkan karir seseorang
+menjadi guru matematika atau IPA yang memiliki
+kemampuan yang baik, ilmuwan, insinyur, arsitek,
+programmer komputer, pekerja konstruksi,
+analis anggaran, akuntan, perajut, dan lain – lain.
+Kecerdasan ini merupakan dasar dalam memecahkan
+masalah dengan memahami kondisi hubungan kausal
+(sebab-akibat).
+Penelitian ini membuktikan apakah terdapat
+pengaruh strategi pembelajaran berbasis proyek
+perancangan terhadap kompetensi merancang
+web,apakah terdapat pengaruh kecerdasan logikmatematik
+terhadap kompetensi merancang
+web,apakah terdapat perbedaan kompetensi
+merancang web antara kelompok mahasiswa yang
+memiliki kecerdasan logik-matematik tinggi dan
+menggunakan strategi pembelajaran berbasis
+proyek perancangan programming language dengan
+kelompok mahasiswa yang memiliki kecerdasan
+logik-matematik tinggi dan menggunakan strategi
+pembelajaran berbasis proyek perancangan content
+management system (CMS), apakah terdapat
+perbedaan kompetensi merancang webantara
+kelompok mahasiswa yang memiliki kecerdasan
+logik-matematik rendah dan menggunakan strategi
+pembelajaran berbasis proyek perancangan
+programming language dengan kelompok mahasiswa
+yang memiliki kecerdasan logik-matematik rendah
+dan menggunakan strategi pembelajaran berbasis
+proyek perancangan content management system
+(CMS).
+
+METODOLOGI
+Penelitian ini menggunakan metode quasi
+eksperimen dengan ANAVA 2 jalan desain treatment
+by level 2x2. Variabel penelitian terdiri dari: (1)
+variabel terikat yaitu kompetensi merancang web;
+(2) variabel bebas yaitu variabel perlakuan yaitu
+strategi pembelajaran berbasis proyek perancangan
+yang terdiri dari A1: programming language
+(PL),A2: content management system (CMS); dan (3)
+kecerdasan logik-matematik.
+Populasi target penelitian ini adalah seluruh
+mahasiswaSTMIK Indonesia Banjarmasin sebanyak
+160 orang. Sampel penelitian ditetapkan pada kelas
+yang mengikuti mata kuliah pemrogaman web yang
+terdiri dua kelas melalui teknik simple random
+sampling. Jumlah siswa dalam kelas eksperimen
+(A1=22) dan kelas kontrol (A2=23). Sehingga jumlah
+keseluruhan sampel penelitian adalah 45 orang.
+Uji hipotesis dilakukan dengan analisis varians
+(ANAVA) dua jalan (Kadir, 2015: 346-357). Uji
+lanjut dilakukan dengan menggunakan uji scheffe.
+Sebelum uji hipotesis terlebih dahulu dilakukan uji
+persyaratan analisis terdiri dari: (1) uji normalitas;
+(2) uji homogenitas (Kadir, 2015: 146-147, 160-162).
+HASIL DAN PEMBAHASAN
+Hasil
+Perbedaan hasil belajar kompetensi
+merancang web antara mahasiswa yang
+menggunakan strategi pembelajaran berbasis
+proyek perancangan programming language (PL)
+dengan mahasiswa yang menggunakan strategi
+pembelajaran berbasis proyek perancangan
+content management system (CMS).
+Perolehan nilai rata-rata hasil belajar
+kompetensi merancang web pada kelompok
+mahasiswa yang diajar dengan menggunakan
+strategi pembelajaran berbasis proyek
+perancangan programming language (PL) ȲA1=
+80,55 dan kelompok mahasiswa yang diajar
+dengan menggunakan strategi pembelajaran
+berbasis proyek perancangan content management
+system (CMS) ȲA3= 74,09; H0 ditolak dan H1
+diterima. Hasil ini menunjukkan bahwa hasil
+belajar kelompok mahasiswa yang diajar dengan
+menggunakan strategi pembelajaran berbasis
+proyek perancangan programming language
+(PL) lebih tinggi dibandingkan dengan hasil
+belajar kelompok mahasiswa yang diajar dengan
+menggunakan strategi pembelajaran berbasis
+proyek perancangan CMS.
+Tabel 1. Kompetensi Merancang Web
+Strategi pembelajaran berbasis proyek
+perancangan CMS memiliki konsep WYSIWYG (What
+You See Is What You Get), apa yang mereka lihat
+merupakan apa yang akan mereka peroleh. Dengan
+menggunakan aplikasi yang termasuk kategori CMS,
+mahasiswa akan dipermudah oleh fasilitas-fasilitas
+atau komponen pendukung untuk merancang sebuah
+web. Akan tetapi, tidak semua fasilitas dan komponen
+pendukung tersebut dapat menghasilkan sebuah
+web yang sesuai dengan spesifikasi yang diminta.
+Akibatnya, ketika diberikan tes hasil belajar berupa
+web proyek, mahasiswa yang menggunakan strategi
+pembelajaran berbasis proyek perancangan PL lebih
+baik dibandingkan mahasiswa yang menggunakan
+strategi perancangan CMS, kembali pada penjelasan
+sebelumnya yaitu mahasiswa yang menggunakan
+strategi perancangan PL lebih baik karena mereka memahami kode pemrograman web secara dasar,
+sehingga mereka dapat mengkonstruksi desain web
+sesuai dengan spesifikasi yang telah diberikan, dan
+mereka yang menggunakan strategi perancangan
+CMS lebih mengandalkan fasilitas sampai pada
+template yang telah tersedia, walaupun sebenarnya
+belum tentu template yang digunakan relevan dengan
+spesifikasi desain web yang diminta.
+Perbedaan hasil belajar kompetensi
+merancang web antara mahasiswa yang
+menggunakan strategi pembelajaran berbasis
+proyek perancangan programming language
+(PL) dan memiliki kecerdasan logikmatematik
+tinggidengan mahasiswa yang
+menggunakan strategi pembelajaran berbasis
+proyek perancangan content management
+system (CMS) dan memiliki kecerdasan logikmatematik
+tinggi.
+Hasil uji lanjut dengan uji Scheffe pada tabel
+menunjukkan bahwa perbandingan hasil belajar
+kompetensi merancang web pada kelompok
+mahasiswa yang menggunakan strategi
+pembelajaran berbasis proyek perancangan
+PL dan CMS yang memiliki kecerdasan logikmatematik
+tinggi menunjukkan nilai Fhitung =
+13,72 > Ftabel = 3,02(13:5) pada taraf signifikansi α
+= 0,05; H0 ditolak dan H1 diterima.
+Sama halnya dengan pembahasan hipotesis
+sebelumnya walaupun mahasiswa pada masingmasing
+kelompok perlakuan memiliki kecerdasan
+logik-matematik tinggi, strategi perancangan PL
+masih menjadi rekomendasi yang baik dalam
+merancang sebuah web dibandingkan dengan
+strategi perancangan CMS. Mahasiswa yang
+menggunakan strategi perancangan ini tidak dapat
+mengeluarkan ide-ide kreatif dalam merancang
+sebuah web karena tidak mengerti tentang kode
+dasar pemrograman web, peneliti memberikan
+pernyataan yang sama karena memang dalam
+strategi perancangan ini mahasiswa dimudahkan
+dalam perancangan web tanpa harus mengenal
+kode dasar pemrograman web. Akibatnya,
+dengan memanfaatkan template serta komponen
+pendukung lainnya mahasiswa merasa telah bisa
+membuat sebuah web, namun tidak sesuai dengan
+spesifikasi web proyek yang diminta, hal inilah
+yang masih menjadikan strategi perancangan PL
+sebagai strategi perancangan yang tepat untuk
+kompetensi seseorang dalam merancang sebuah
+web.
+Perbedaan hasil belajar kompetensi
+merancang web antara mahasiswa yang
+menggunakan strategi pembelajaran berbasis
+proyek perancangan programming language
+(PL) dan memiliki kecerdasan logikmatematik
+rendahdengan mahasiswa yang
+menggunakan strategi pembelajaran berbasis
+proyek perancangan content management
+system (CMS) dan memiliki kecerdasan logikmatematik
+rendah.
+Hasil uji lanjut dengan uji Scheffe pada tabel
+menunjukkan bahwa perbandingan hasil belajar
+kompetensi merancang web pada kelompok
+mahasiswa yang menggunakan strategi
+pembelajaran berbasis proyek perancangan
+PL dan CMS yang memiliki kecerdasan logikmatematik
+rendah menunjukkan nilai Fhitung =
+0,16 < Ftabel = 2,71(20:5) pada taraf signifikansi α =
+0,05; H0 ditolak dan H1 diterima.
+Bagi mahasiswa yang memiliki kecerdasan
+logik-matematik rendah, tentu strategi
+perancangan CMS lebih baik dibandingkan
+strategi perancangan PL. Strategi perancangan
+PL tidak lebih baik jika dibandingkan dengan
+strategi perancangan CMS, justru sangat terlihat
+jauh apabila dilihat dari produk web proyek yang
+dihasilkan keduanya. Dengan beberapa proses
+tahapan yang praktis dan otomatis, strategi
+perancangan CMS dapat membuat sebuah
+web dengan bentuk dan tampilan yang sangat
+menarik. Sekali lagi, kecerdasan logik-matematik
+rendah bagi mahasiswa yang menggunakan
+strategi perancangan CMS masih dapat membuat
+bentuk web yang menarik, walaupun belum
+tentu sesuai dengan spesifikasi web proyek yang
+diminta. Namun berbeda dengan mahasiswa
+yang menggunakan strategi perancangan PL,
+kecerdasan logik-matematik rendah yang mereka
+miliki akan berpengaruh pada proses perancangan
+web, karena pada strategi perancangan ini sangat
+berhubungan dengan logika pemrograman dan
+kewajiban memahami kode dasar pemrograman
+dalam merancang web.
+
+Tabel 2. Hasil Perhitungan ANAVA
+Berdasarkan hasil perhitungan ANAVA
+dapat dilihat pada sumber varians antar A yang
+menunjukkan bahwa nilai Fhitung = 4,24 lebih besar
+dibandingkan Ftabel = 3,16(58:2) pada taraf signifikansi
+ᾳ = 0,05; maka hipotesis nol ditolak. Hasil tersebut
+berlaku pada varians secara keseluruhan dari antar
+A (A1 dan A2), sehingga terdapat perbedaan hasil
+belajar kompetensi merancang web antara kelompok
+mahasiswa yang menggunakan strategi project base
+learning perancangan programming language (A1)
+dengan kelompok mahasiswa yang menggunakan
+strategi project base learning perancangan content
+management system (A2).
+hasil perhitungan uji hipotesis di atas telah
+menunjukkan bahwa pada sumber varians interaksi
+AxB, secara signifikan terdapat interaksi antara
+strategi pembelajaran berbasis proyek perancangan
+(A) dan kecerdasan logik-matematik (B), yang
+dibuktikan dengan nilai Fo = 4,21 lebih besar
+dibandingkan dengan nilai Ftabel = 3,16(58:2) pada
+taraf signifikansi ᾳ = 0,05; maka H0 ditolak pada
+bagian pengujian pengaruh interaksi.Dengan adanya
+interaksi, sehingga perlu dilanjutkan dengan Uji
+Scheffe dan hasil perhitungannya dapat dilihat pada
+Tabel 3.
+Tabel 3. Hasil Perhitungan Uji Scheffe
+Hasil uji lanjut dengan uji Scheffe pada tabel
+menunjukkan bahwa perbandingan hasil belajar
+kompetensi merancang web pada kelompok
+mahasiswa yang menggunakan strategi pembelajaran
+berbasis proyek perancangan PL dan CMS yang
+memiliki kecerdasan logik-matematik tinggi
+menunjukkan nilai Fhitung = 13,72 > Ftabel = 3,02(13:5)
+pada taraf signifikansi ᾳ = 0,05. Dengan demikian
+dapat disimpulkan bahwa terdapat perbedaan hasil
+belajar kompetensi merancang web pada kelompok
+mahasiswa yang menggunakan strategi pembelajaran
+berbasis proyek perancangan PL dan memiliki
+kecerdasan logik-matematik tinggi dengan kelompok
+mahasiswa yang menggunakan strategi pembelajaran
+berbasis proyek perancangan CMS dan memiliki
+kecerdasan logik-matematik tinggi.
+Hasil uji lanjut dengan uji Scheffe pada tabel
+menunjukkan bahwa perbandingan hasil belajar
+kompetensi merancang web pada kelompok
+mahasiswa yang menggunakan strategi pembelajaran
+berbasis proyek perancangan PL dan CMS yang
+memiliki kecerdasan logik-matematik rendah
+menunjukkan nilai Fhitung = 0,16 < Ftabel = 2,71(20:5)
+pada taraf signifikansi ᾳ = 0,05. Dengan demikian
+dapat disimpulkan bahwa hasil belajar kompetensi
+merancang web pada kelompok mahasiswa yang
+menggunakan strategi pembelajaran berbasis proyek
+perancangan PL dan memiliki kecerdasan logikmatematik
+rendah tidak terdapat perbedaan dengan
+kelompok mahasiswa yang menggunakan strategi
+pembelajaran berbasis proyek perancangan CMS dan
+memiliki kecerdasan logik-matematik rendah.
+Pembahasan
+Terdapat perbedaan antara hasil belajar
+kompetensi merancang web pada kelompok
+mahasiswa yang menggunakan strategi pembelajaran
+berbasis proyek perancangan PL dengan kelompok
+mahasiswa yang menggunakan strategi pembelajaran
+berbasis proyek perancangan CMS.
+Programming language memiliki keuntungan
+bagi seseorang dalam merancang sebuah program.
+Peneliti menemukan pendapat yang relevan dengan
+hal tersebut, Capron dan Johnson (2004:444)
+mengemukakan dengan memahami bahasa
+pemrograman, seorang pemrogram (programmer)
+dapat menjadi solusi untuk memecahkan masalah.
+Mereka mengatakan:
+...the programmer prepares the instructions
+that make up a program, runs the instructions on the 
+computer to see whether they produce the correct result, makes any necessary corrections, and then
+writes a report on the program.
+Penjelasan di atas mengatakan bahwa
+programmer mempersiapkan instruksi pembuatan
+suatu program, menjalankan instruksi tersebut pada
+komputer untuk melihat apakah mereka menghasilkan
+hasil benar, perlu koreksi dalam pembuatan program,
+kemudian menuliskan suatu laporan pada program.
+Berdasarkan pada penelitian yang dilakukan
+oleh Sari (2014:127) dapat disimpulkan bahwa untuk
+meningkatkan hasil belajar akuntansi siswa SMK,
+guru dapat menggunakan strategi pembelajaran
+berbasis proyek dalam proses pembelajaran.
+penelitian ini juga membuktikan bahwa hasil belajar
+akuntansi siswa SMK yang memiliki kecerdasan
+logis-matematis tinggi dapat dilakukan dengan
+menggunakan strategi pembelajaran berbasis proyek,
+dan sebaliknya bagi siswa yang memiliki kecerdasan
+logis-matematis rendah dapat dilakukan dengan
+strategi pembelajaran kontekstual. Oleh karena
+itu, agar hasil belajar siswa dapat ditingkatkan
+secara optimal maka hendaknya dipertimbangkan
+kecerdasan logis-matematis mereka.
+Rainer dan Cegielski (2011:462) memberikan
+pendapat yang sama tentang bahasa pemrograman
+atau programming language sebagai berikut:
+Programming language allow people to write
+instructions that tell computers what to do. They
+are the means by which all systems and application
+software are developed.
+Penjelasan di atas mengatakan bahwa bahasa
+pemrograman memungkinkan orang untuk menulis
+instruksi yang memberitahu komputer apa yang
+harus dilakukan. Mereka adalah sarana dari semua
+sistem dan aplikasi perangkat lunak yang telah
+dikembangkan. Mereka juga menambahkan, karena
+komputer melakukan apa yang mereka beritahukan,
+bahasa pemrograman memerlukan tingkat presisi
+yang tinggi dan kelengkapan.
+Selanjutnya Marakas (2011:191) memberikan
+pendapat tentang bahasa pemrograman sebagai
+berikut:
+...programming language allows a programmer
+to develop the sets of instructions that constitute a
+computer program. Many different programming
+language have been developed, each with its own
+unique vocabulary, grammar, and uses.
+Ia mengatakan bahwa bahasa pemrograman
+memungkinkan programmer untuk mengembangkan
+satu set instruksi yang membentuk sebuah program
+komputer. Banyak bahasa pemrograman yang
+berbeda telah dikembangkan, masing-masing dengan
+kosakata yang unik, tata bahasa, dan penggunaannya.
+KESIMPULAN
+Berdasarkan hasil penelitian, analisis data,
+pengujian hipotesis, dan pembahasan hasil penelitian
+tentang pengaruh strategi pembelajaranberbasis
+proyek perancangan terhadap kompetensi merancang
+web. dapat diberikan kesimpulan sebagai berikut:
+Hasil belajar kelompok mahasiswa yang
+diajar dengan menggunakan strategi pembelajaran
+berbasis proyek perancangan programming language
+(PL) lebih tinggi dibandingkan dengan hasil
+belajar kelompok mahasiswa yang diajar dengan
+menggunakan strategi pembelajaran berbasis proyek
+perancangan content management system (CMS).
+Hasil belajar kompetensi merancang web
+pada kelompok mahasiswa yang menggunakan
+strategi pembelajaran berbasis proyek perancangan
+programming language (PL) dan memiliki kecerdasan
+logik-matematik tinggi lebih tinggi dibandingkan
+kelompok mahasiswa yang menggunakan strategi
+pembelajaran berbasis proyek perancangan content
+management system (CMS) dan memiliki kecerdasan
+logik-matematik tinggi.
+Hasil belajar kompetensi merancang web
+pada kelompok mahasiswa yang menggunakan
+strategi pembelajaran berbasis proyek perancangan
+programming language (PL) dan memiliki kecerdasan
+logik-matematik rendah lebih rendah dibandingkan
+kelompok mahasiswa yang menggunakan strategi
+pembelajaran berbasis proyek perancangan content
+management system (CMS) dan memiliki kecerdasan
+logik-matematik rendah.

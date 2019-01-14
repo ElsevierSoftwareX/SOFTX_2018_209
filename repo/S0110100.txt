@@ -1,0 +1,529 @@
+﻿ANALISIS FAKTOR-FAKTOR YANG BERPENGARUH TERHADAP MANAJEMEN
+LABA PADA PERBANKAN SYARIAH PERIODE 2010-2013
+
+
+Abstrak: Transparansi dalam mengungkapkan laporan keuangan sangat diperlukan oleh para
+pengambil keputusan karena keseimbangan informasi yang sesuai dan memadai begitu penting
+bagi perusahaan. Di dalam menyajikan laporan keuangan, manajemen mengambil pemilihan
+metode akuntansi dengan tujuan tertentu. Hal ini seringkali disebut dengan manajamen laba.
+Tindakan manajemen melakukan manajemen laba menimbulkan sejumlah skandal pada
+pelaporan keuangan perusahaan. Pada penelitian ini yang menjadi sampel penelitian perbankan
+syariah dengan periode pengamatan tahun 2010 sampai dengan 2013. Metode analisis yang
+digunakan adalah metode analisis regresi berganda. Hasil penelitian menunjukkan bahwa secara
+simultan (uji F) variabel independen yang digunakan dalam penelitian ini yaitu ukuran
+perusahaan, debt to equity ratio, return on asset, ukuran perusahaan, komite audit dan
+kepemilikan audit memiliki pengaruh yang signifikan terhadap terjadinya manajemen laba di
+perusahaan. Hasil pengujian secara individual menggunakan uji t menunjukkan bahwa hanya
+variabel return on asset dan kepemilikan institusional yang memiliki pengaruh yang signifikan
+terhadap terjadinya manajemen laba di perusahaan.
+Kata kunci: manajemen laba, profitabilitas, leverage, ukuran perusahaan, komite audit,
+kepemilikan institusional
+PENDAHULUAN
+Transparansi dalam pengungkapan laporan keuangan saat ini sangat diperlukan oleh para
+pengambil keputusan karena keseimbangan informasi yang sesuai dan memadai begitu penting
+bagi perusahaan ditengah persaingan yang semakin ketat. Oleh sebab itu perusahaan dituntut
+agar transparan dalam mengungkapkan informasi supaya pihak-pihak yang berkepentingan
+mendapatkan informasi yang tepat dan kepastian hukum.
+
+
+Menurut PSAK No. 1 Paragraf ke 7 (revisi 2009), Laporan Keuangan adalah suatu
+penyajian terstruktur dari posisi keuangan dan kinerja keuangan suatu entitas.Laporan keuangan
+harus menyajikan informasi yang dapat membantu investor, kreditor dan pengguna lainnya yang
+potensial dalam membuat keputusan lain yang sejenis secara rasional.Dalam menyediakan
+laporan keuangan, perusahaan wajib mengikuti standar yang telah ditetapkan oleh Ikatan
+Akuntan Indonesia (IAI,2002).
+Di dalam penyajian laporan keuangan ada kalanya manajemen perusahaan melakukan
+pemilihan metode akuntansi dengan tujuan tertentu.Hal ini sering disebut dengan manajemen
+laba atau earning management (Rachmawati, et.al, 2006).Pemilihan metode akuntansi dengan
+tujuan tertentu biasanya selalu dihubungkan dengan pencapaian laba perusahaan.Hal ini
+dikarenakan salah satu informasi yang disajikan dalam laporan keuangan adalah informasi
+mengenai laba perusahaan yang menjadi acuan bagi para investor untuk mengetahui kinerja
+perusahaan.
+Adanya tindakan manajemen dalam melakukan manajemen laba di perusahaan telah
+menimbulkan sejumlah skandal dalam pelaporan keuangan perusahaan.Skandal pelaporan
+keuangan telah menjadikan kekhawatiran tersendiri bagi para pengguna laporan
+keuangan.Adanya laporan yang disajikan dengan tujuan untuk mengelabui para pengguna
+menyebabkan tidak transparannya suatu laporan keuangan perusahaan.Ada banyak hal yang
+mempengaruhi terjadinya manajemen laba dalam suatu perusahaan, diantaranya adalah untuk
+menyajikan kondisi keuangan yang baik oleh manajemen perusahaan.
+Skandal tersebut tidak hanya terjadi pada perusahaan privat akan tetapi juga terjadi pada
+perusahaan publik seperti PT. Lippo, Tbk, dan PT. Kimia Farma, Tbk. Beberapa kasus yang
+terjadi di Indonesia seperti kasus salah saji laporan keuangan yang terjadi pada PT Kimia Farma
+Tbk. Pada tahun 2002 ditemukan penggelembungan laba bersih pada laporan keuangan PT
+Kimia Farma Tahun buku 2001. Hal tersebut berawal dari temuan akuntan publik Hans
+Tuanakotta dan Mustofa (HTM) soal ketidakwajaran dalam laporan keuangan kurun semester I
+tahun 2001.Mark up senilai Rp. 32.7 Milyar, karena dalam laporan keuangan yang seharusnya
+laba Rp 99,6 milyar ditulisnya Rp. 132,3 milyar, dengan nilai penjualan bersih Rp. 1,42 trilyun.
+Pihak Bapepam selaku pengawas pasar modal mengungkapkan tentang kasus PT. Kimia Farma
+dan berhasil memperoleh buktinya. Sesuai pasal 5 huruf N UU no. 8 Tahun 1995 tentang pasar
+modal maka Direksi lama PT. Kimia Farma periode 1998 sampai denganJuni 2002 diwajibkan
+membayar denda sejumlah Rp 1 milyar untuk disetor ke kas Negara, karena melakukan kegiatan
+praktek penggelembungan atas laporan keuangan per-31 Desember 2001. Selain kasus itu, PT
+Lippo Tbk juga pernah mengalaminya.Kasus ini berawal dari deteksi adanya manipulasi dalam
+laporan keuangan yang diterbitkan perusahaan tersebut.Akibatnya, reputasi akuntan publik jadi
+tercoreng di mata masyarakat, dan para investor mulai meragukan informasi berupa laporan
+keuangan yang disajikan manajemen.
+Berdasarkan penelitian terdahulu, ada banyak faktor yang mempengaruhi perusahaan
+dalam melakukan manajemen laba. Penelitian ini memfokuskan pada faktor-faktor antara lain
+ukuran perusahaan, leverage, profitabilitas, komite audit dan kepemilikan institusional. Faktor
+yang pertama adalah ukuran perusahaan. Penelitian yang dilakukan oleh Handayani dan Rachadi
+(2009) mengenai pengaruh ukuran perusahaan terhadap manajemen laba membuktikan bahwa
+ukuran perusahaan berpengaruh positif signifikan.Hasilnya membuktikan bahwa semua ukuran
+perusahaan memiliki kecenderungan untuk melakukan manajemen laba guna menghindari
+pelaporan penurunan laba (earning decreases). Akan tetapi pada penelitian yang dilakukan oleh
+Guna dan Herawaty (2010) menunjukkan bahwa ukuran perusahaan tidak memiliki pengaruh
+yang signifikan terhadap manajemen laba. Penelitian yang dilakukan oleh Guna dan Herawaty
+(2010) menggunakan total penjualan sebagai ukuran perusahaan, sedangkan Handayani dan
+Rachadi (2009) menggunakan total aktiva sebagai ukuran perusahaan.
+
+
+Faktor kedua adalah leverage yaitu rasio hutang. Penelitian yang dilakukan oleh Guna
+dan Herawaty (2010) menunjukkan bahwa variabel leverage memiliki pengaruh yang negatif
+dan signifikan terhadap manajemen laba. Hal ini dikarenakan manajemen tidak ingin terlihat
+melakukan kegiatan manajemen laba. Kondisi ini menunjukkan semakin besar nilai hutang yang
+dimiliki oleh perusahaan akan mengurangi terjadinya manajemen laba, karena pihak manajemen
+akan lebih berhati-hati dalam menyiapkan laporan keuangannya. Hasil penelitian ini
+bertentangan dengan penelitian yang dilakukan oleh Barus dan Sembiring (2012) menunjukkan
+bahwa variabel leverage memiliki pengaruh yang positif dan signifikan terhadap manajemen
+laba. Kedua penelitian mengenai pengaruh leverage terhadap manajemen laba menggunakan
+perbandingan antara total kewajiban terhadap total aset akan tetapi hasil penelitian menunjukkan
+arah pengaruh yang berbeda.
+Faktor ketiga adalah profitabilitas. Penelitian yang dilakukan oleh Guna dan Herawaty
+(2010) menunjukkan bahwa profitabilitas yang diukur dengan menggunakan ROA memiliki
+pengaruh yang positif dan signifikan terhadap manajemen laba. Hasil tersebut menunjukkan
+bahwa profit atau laba memang menjadi motivasi utama dalam melakukan manajemen laba.
+Penelitian yang dilakukan oleh Juniarti dan Carolina (2002) menunjukkan bahwa variabel
+profitabilitas memiliki pengaruh yang tidak signifikan terhadap perataan laba. Hal ini diduga
+karena investor cenderung mengabaikan informasi mengenai ROA, sehingga manajemen tidak
+termotivasi untuk melakukan perataan laba.
+Faktor keempat adalah komite audit. Penelitian yang dilakuka Guna dan Herawaty
+(2010) menunjukkan bahwa komite audit memiliki pengaruh yang negatif dan signifikan
+terhadap manajemen laba. Keberadaan komite audit dipercaya mampu menekan kemungkinan
+terjadinya manajemen laba di dalam perusahaan. Hal ini didukung oleh penelitian yang
+dilakukan oleh Kusumaningtyas (2012) menunjukkan bahwa independensi komite audit
+memiliki pengaruh yang negatif dan signifikan terhadap manajemen laba. Penelitian yang
+dilakukan oleh Kusumaningtyas menggunakan variabel discretionary accrual sebagai proksi
+manajemen laba. Hasil penelitian tersebut menunjukkan bahwa independensi komite audit dapat
+mengurangi terjadinya manajemen laba di dalam perusahaan. Penelitian lain dilakukan oleh
+Tiswiyanti, dkk (2012) yang menunjukkan bahwa keberadaan komite audit memiliki pengaruh
+yang signifikan terhadap manajemen laba. Pada penelitian tersebut manajemen laba diproksi
+dengan variabel Real Earnings Management (REM) guna mengetahui adanya manipulasi
+aktivitas riil di dalam perusahaan.
+Faktor yang terakhir adalah kepemilikan institusional. Penelitian yang dilakukan oleh
+Guna dan Herawaty (2010) menunjukkan bahwa kepemilikan institusional tidak memiliki
+pengaruh yang signifikan terhadap manajemen laba. Hasil penelitian ini sejalan dengan
+penelitian yang dilakukan oleh Butar-butar dan Sudarsi (2012) yang menunjukkan bahwa
+kepemilikan institusional tidak memberikan pengaruh yang signifikan terhadap manajemen laba.
+Keberadaan investor institusi selalu dianggap mampu mengurangi tindakan manajemen laba
+karena dianggap lebih berpengalaman. Akan tetapi asumsi tersebut terjadi apabila investor
+institusi adalah investor yang sophisticated. Didalam kenyataan tidak semua investor institusi
+adalah investor yang sophisticated terutama bila investor institusi sangat sedikit. Berdasarkan
+uraian latar belakang sebagaimana yang dipaparkan di atas, maka dalam penelitian ini
+dirumuskan sebagai berikut : (1) Apakah ukuran perusahaan berpengaruh terhadap manajemen
+laba ? (2) Apakah leverage berpengaruh terhadap manajemen laba ? (3) Apakah profitabilitas
+berpengaruh terhadap manajemen laba ? (4) Apakah komite audit berpengaruh terhadap
+manajemen laba ? (5) Apakah kepemilikan institusional berpengaruh terhadap manajemen laba?
+(6) Apakah ukuran perusahaan, leverage, profitabilitas, komite audit dan kepemilikan
+institusional memiliki pengaruh secara bersama-sama terhadap manajemen laba ?
+
+
+Adapun tujuan penelitian yang ingin dicapai adalah untuk mengetahui : (1) Mengetahui adanya
+pengaruh ukuran perusahaan terhadap manajemen laba; (2) Mengetahui adanya pengaruh
+leverage terhadap manajemen laba; (3) Mengetahui adanya pengaruh profitabilitas terhadap
+manajemen laba; (4) Mengetahui adanya pengaruh komite audit terhadap manajemen laba; (5)
+Mengetahui adanya pengaruh kepemilikan institusional terhadap manajemen laba; (6)
+Mengetahui adanya pengaruh ukuran perusahaan, leverage, profitabilitas komite audit dan
+kepemilikan institusional terhadap manajemen laba.
+TINJAUAN TEORI
+Manajemen Laba. Menurut Subramanyam dan Wild (2010) earning management merupakan
+tindakan dari manajer untuk memperbaiki kinerja dari perusahaan, baik manajer dan perusahaan
+akan memperoleh manfaat dari kegiatan tersebut. Menurut Healy dan Wahlen (1998) dalam
+Kusumaningtyas (2012) earnings management merupakan tindakan manajer untuk
+meningkatkan (mengurangi) laba yang dilaporkan saat ini atas suatu unit dimana manajer
+bertanggung jawab, tanpa mengakibatkan peningkatan (penurunan) profitabilitas ekonomis
+jangka panjang unit tersebut. Manajemen laba merupakan tindakan manajemen untuk
+menggunakan judgment dalam pelaporan keuangan dan dalam prosedur transaksi dengan tujuan
+untuk mempengaruhi kontraktual atau menyesatkan pihak stakeholders dalam pengambilan
+keputusan mengenai kinerja ekonomi perusahaan.
+Suhendah (2005) menyatakan bahwa ada tiga faktor yang dapat dikaitkan dengan
+munculnya praktik manajemen laba oleh manajer untuk menunjukkan prestasinya, yaitu : (1)
+Manajemen akrual (accruals management); (2) Penerapan suatu kebijakan akuntansi yang wajib
+(adoption of mandatory accounting changes) (3) Perubahan akuntansi secara sukarela
+(voluntary accounting changes).
+Manajemen laba biasanya diteliti dengan cara membentuk hipotesis dimana manajemen
+laba kemungkinan bisa muncul dan menguji kemungkinan tersebut dengan metode yang tepat.
+Secara umum terdapat tiga pendekatan untuk mendeteksi manajemen laba (Sulistyanto dan Sri,
+2008:211) yaitu : (1) Model berbasis aggregate accrual yaitu model yang digunakan untuk
+mendeteksi aktivitas rekayasa ini dengan menggunakan discreationary accruals sebagai proksi
+manajemen laba; (2) Model berbasis specific accruals yaitu pendekatan yang menghitung akrual
+sebagai proksi manajemen laba dengan menggunakan item laporan keuangan tertentu dari
+industri tertentu pula. Misalnya cadangan kerugian piutang dari industri asuransi; (3) Model
+distribution of earnings after management yaitu pendekatan dengan melakukan pengujian secara
+statistic terhadap komponen-komponen laba untuk mendeteksi faktor-faktor yang mempengaruhi
+pergerakan laba.
+Ukuran Perusahaan. Ukuran perusahaan menggambarkan besar kecilnya perusahaan yang
+ditunjukkan oleh total aktiva, penjualan dan kapitalisasi pasar. Semakin besar total aktiva,
+penjualan dan kapitalisasi pasar maka semakin besar pula ukuran suatu perusahaan. Semakin
+besar aktiva, maka semakin besar modal yang ditanam, semakin banyak penjualan maka semakin
+banyak perputaran uang dan semakin besar kapitalisasi pasar.
+Zarzeski (1996) , Chandra dan Erly (2012) menyatakan bahwa ukuran perusahaan adalah
+total asset perusahaan, berhubungan positif dengan pengungkapan. Sebab perusahaan besar ratarata
+cenderung berpotensi besar atas permintaan publik (publik banyak menginginkan informasi
+perusahaan tersebut). Karena itu, semakin besar ukuran perusahaan, semakin besar informasi
+yang perlu diungkapkan.
+Menurut Almilia dan Retrinasari (2007:5) “Perusahaan besar mempunyai kemampuan
+untuk merekrut karyawan yang ahli, serta adanya tuntutan dari pemegang saham dan analis, sehingga perusahaan besar memiliki insentif untuk melakukan pengungkapan yang lebih luas
+daripada perusahaan kecil”. Amalia (2005) memberikan bukti bahwa ukuran perusahaan secara
+positif dan signifikan mempengaruhi luas pengungkapan sukarela perusahaan. Begitu pula
+dengan Bernadi, et.al (2009:14) membuktikan bahwa ukuran perusahaan berpengaruh terhadap
+kelengkapan pengungkapan laporan keuangan. Ukuran perusahaan diukur dengan menggunakan
+log dari total asset.
+Leverage. Rasio Leverage adalah rasio penggunaan hutang. Apabila hasil pengembalian atas
+aktiva, yang ditunjukan oleh besarnya rentabilitas ekonomis, lebih besar daripada biaya hutang,
+leverage itu menguntungkan dan hasil pengembalian atas modal (rentabilitas modal sendiri)
+dengan penggunaan leverage ini juga akan meningkat (Brigham, 2011).
+Ada beberapa faktor yang mempengaruhi keputusan sehubungan dengan struktur modal.
+Yang pertama adalah resiko bisnis perusahaan, atau tingkat resiko yang terkandung pada aktiva
+perusahaan apabila ia tidak menggunakan hutang. Makin besar resiko perusahaan, makin rendah
+resiko utangnya yang optimal.
+Faktor kunci yang kedua adalah posisi pajak perusahaan. Alasan utama untuk
+menggunakan hutang adalah karena biaya bunga dapat dikurangkan dalam perhitungan pajak,
+sehingga meminimalkan biaya hutang yang sesungguhnya.
+Faktor ketiga adalah fleksibilitas keuangan, atau kemampuan untuk menambah modal
+dengan persyaratan yang masuk akal dalam kedaan yang kurang menguntungkan. Rasio-rasio
+leverage yang umum digunakan antara lain, adalah: Rasio Utang terhadap Ekuitas atau DER
+(Debt to Equity Ratio).
+Profitabilitas. Profitabilitas (Kemampulabaan) merupakan akhir bersih dari berbagai kebijakan
+dan keputusan manajemen. Rasio profitabilitas akan memberikan jawaban akhir tentang
+efektivitas manajemen perusahaan, rasio ini memberi gambaran tentang tingkat efektivitas
+pengelolaan perusahaan (Brigham, 2011). Pada penelitian ini rasio profitabilitas yang digunakan
+adalah Return on Assets (ROA).
+Komite Audit. Komite audit menurut Keputusan Ketua Bapepam dengan Nomor : Kep.
+29/PM/2004 merupakan komite yang dibentuk oleh Dewan Komisaris untuk melakukan tugas
+pengawasan pengelolaan perusahaan. komite audit yang dibentuk oleh suatu perusahaan
+berfungsi untuk memberikan pandangan mengenai masalah-masalah yang berhubungan dengan
+kebijakan keuangan, akuntansi dan pengendalian intern.
+Kepemilikan Institusional. Struktur kepemilikan saham dalam suatu perusahaan terdiri atas
+kepemilikan saham yang dimilik oleh institusi dan kepemilikan saham oleh manajerial. Institusi
+sebagai pemilik saham dianggap lebih mampu dalam medeteksi kesalahan yang terjadi.
+Institusi sebagai investor yang sophisticated karena mempunyai kemampuan dalam memproses
+informasi dibandingkan dengan investor individual. Dengan demikian akan semakin membatasi
+manajemen dalam memainkan angka-angka dalam laporan keuangan. Wedari (2004)
+menyatakan bahwa investor institusional mempunyai waktu yang lebih banyak untuk melakukan
+analisis investasi dan memiliki akses informasi yang mahal dibandingkan dengan investor
+individual.
+
+
+Gambar 1. Kerangka Pemikiran
+Berdasarkan kerangka pemikiran di atas, maka hipotesis dalam penelitian ini adalah
+sebagai berikut: (1) Ukuran perusahaan berpengaruh terhadap manajemen laba pada perbankan
+syariah di Indonesia; (2) Leverage berpengaruh terhadap manajemen laba pada perbankan
+syariah di Indonesia; (3) Profitabilitas berpengaruh terhadap manajemen laba pada perbankan
+syariah di Indonesia; (4) Komite audit berpengaruh terhadap manajemen laba pada perbankan
+syariah di Indonesia; (5) Kepemilikan institusional berpengaruh terhadap manajemen laba pada
+perbankan syariah di Indonesia; (6) Ukuran perusahaan, leverage, profitabilitas, komite audit dan
+kepemilikan institusional berpengaruh terhadap manajemen laba pada perbankan syariah di
+Indonesia.
+METODE
+Definisi Operasional. Definisi operasionalisasi variabel dan pengukuran variabel yang
+berhubungan dengan pembahasan penelitian ini adalah : (1) Variabel Dependen (Y ) :
+Manajemen Laba. Manajemen laba dapat diukur melalui discretionary accruals (DACC) yang
+dihitung dengan cara menselisihkan total accruals (TACC) dan nondiscretionary accruals
+(NDACC). Discretionary accruals dihitung dengan menggunakan model Modified Jones. Model
+Modified Jones yang merupakan perkembangan dari model Jones dapat mendeteksi manajemen
+laba lebih baik dibandingkan dengan model-model lainnya. Hal ini sesuai dengan hasil
+penelitian Dechow et al., (1995). Untuk mendapatkan nilai discreationary accrual dilakukan
+dengan menghitung langkah-langkah berikut : a. Menghitung total accrual dengan persamaan
+b. Menghitung nilai accrual dengan persamaan regresi linier berganda berbasis ordinary least
+square (OLS) sebagai berikut
+r:...
+
+
+Dimana :
+TACt = total accrual perusahaan i pada periode t
+At-1 = total asset sampel perusahaan i pada tahun t-1
+ΔREVt = perubahan penjualan perusahaan i dari tahun t-1 ke t
+PPEt = asset tetap (property, plant and equipment)
+c. Dengan menggunakan koefisien regresi yang diperoleh dari persamaan di atas, kemudian
+dilakukan perhitungan nilai non discreationary accrual (NDA) dengan rumus sebagai berikut :
+r:...
+Dimana :
+NDAt = Non Discreationary Accrual pada tahun t
+ΔRECt = perubahan piutang perusahaan I dari tahun t-1 ke tahun t
+α = fitted coefficient yang diperoleh dari hasil regresi pada perhitungan total accrual
+d. Menghitung nilai discreationary accrual (DAC) dengan persamaan sebagai berikut :
+r:...
+Keterangan :
+DACCit :Discretionary accruals perusahaan i pada periode t Indikasi terjadinya manajemen laba
+dilakukan dengan melihat nilai discretionary accrual (DA) dari masing-masing perusahaan,
+dimana nilai DA positif mencerminkan adanya tindakan manajemen laba dengan pelaporan laba
+yang cenderung meningkat (income increasing) dan nilai DA negatif menunjukkan adanya
+tindakan manajemen laba dengan pelaporan laba yang cenderung menurun (income decreasing).
+Sedangkan bila DA bernilai 0 dapat dikatakan bahwa perusahaan tidak melakukan tindakan
+manajemen laba (Sulistyanto dan Sri, 2008). (1) Variabel Independen (X1) : Ukuran
+Perusahaan. Ukuran perusahaan merupakan ukuran besar kecilnya suatu perusahaan. pada
+penelitian ini ukuran perusahaan diukur dengan menggunakan logaritma natural dari total assets
+(log of total assets).
+(2) Variabel Independen (X2) : leverage. Rasio leverage mengukur kemampuan perusahaan
+dalam mengantisipasi hutang yang dimilikinya dengan menggunakan modal yang dimiliki. Pada
+penelitian ini rasio leverage yang digunakan adalah Debt to Equity Ratio (DER) dengan rumus
+jumlah hutang dibagi dengan jumlah modal sendiri.
+(3) Variabel Independen (X3) : Profitabilitas. Rasio profitabilitas mengukur kemampuan
+perusahaan dalam memperoleh laba. Pada penelitian ini rasio profitabilitas akan diukur dengan
+menggunakan Return on Assets (ROA) dengan rumus laba bersih setelah pajak dibagi dengan
+total asset.
+(4) Variabel Independen (X4) : Komite Audit. Komite audit merupakan komponen dalam sistem
+pengendalian perusahaan dan perannya sangat penting bagi pengelolaan perusahaan. Pada
+penelitian ini komite audit diukur dengan menggunakan variabel dummy, dimana perusahaan
+yang memiliki komite audit diberi angka 1 sedangkan perusahaan yang tidak memiliki komite
+audit diberi angka 0.
+(5) Kepemilikan institusional (X5). Kepemilikan institusional merupakan bagian dari struktur
+modal perusahaan. Dalam penelitian ini kepemilikan institusional diukur dengan menggunakan
+variabel dummy, dimana perusahaan yang semua kepemilikannya dimiliki oleh kepemilikan
+institusional diberi angka 1, sedangkan jika kepemilikan dalam perusahaan ada yang dimiliki
+masyarakat diberi angka 0.
+
+
+HASIL DAN PEMBAHASAN
+Uji Asumsi Klasik. Pengujian normalitas dilakukan untuk mengetahui apakah variabel yang
+digunakan dalam penelitian memiliki distribusi normal atau tidak. Hasil pengujian
+menunjukkan data berdistribusi normal karena uji KS memiliki nilai sig yang lebih besar dari
+0,05.
+
+
+Pengujian multikolinieritas dimaksudkan untuk melihat apakah terdapat dua atau lebih variabel
+bebas yang berkorelasi secara linier. Apabila terdapat nilai VIF diatas 10, maka di dalam model
+tersebut, terdapat gejala multikolinieritas.
+Tabel 2. Hasil Pengujian Multikolinieritas
+
+
+Uji heterokedastisitas dilakukan dengan menggunakan scatterplot dengan kriteria pengambilan
+keputusan sebagai berikut: (1) Jika titik-titik data menyebar tanpa membentuk pola tertentu,
+maka dapat dinyatakan pada model regresi tidak terdapat gejala heterokedastisitas; (2) Jika titiktitik
+data menyebar dan membentuk pola tertentu seperti lingkaran atau garis mendatar, maka
+dapat dinyatakan pada model regresi terdapat gejala heterokedastisitas.
+
+Autokorelasi menunjukkan bahwa ada korelasi antara error periode t dengan error periode
+sebelumnya (t-1) dimana pada asumsi klasik hal ini tidak boleh terjadi. Uji autokorelasi
+dilakukan dengan menggunakan Durbin Watson. Nilai uji DW adalah sebesar 2,132, nilai
+tersebut berada pada daerah du < dw < 4-du dengan demikian tidak ada gejala autokorelasi pada
+data yang digunakan dalam penelitian ini.
+Uji Hipotesis. Koefisien Determinasi (Uji R2). Uji signifikansi model dilakukan dengan
+melihat nilai R2 yang terdapat pada tabel model summary. Nilai R2 sebesar 0,470 yang berarti
+bahwa perubahan variabel dependen mampu dijelaskan oleh variabel bebas sebesar 47,0%
+pengaruh lainnya sebesar 53,0% dijelaskan oleh faktor-faktor lain yang tidak digunakan dalam
+penelitian ini. Sedangkan untuk nilai adjusted R2 adalah sebesar 0,382 atau 38,20%. Nilai
+adjusted R2 sebesar 38,20% menunjukkan bahwa variabel DER, ROA, UP, KA dan KI masih
+belum dominan dalam memberikan pengaruh terhadap terjadinya manajemen laba yang diukur
+dengan discreationary accrual (DA).
+Uji t (parsial). Hasil pengujian hipótesis dengan menggunakan SPSS disajikan pada tabel di
+bawah ini.
+
+
+
+Tabel 3. Hasil pengujian Hipotesis
+Variabel koefisien Uji t Sig R2 Uji F Sig
+Konstanta 307020,683
+UP -225846,239 -0,915 0,367
+5,324 0,001
+DER 1320,083 0,932 0,359
+ROA 111084,806 4,051 0,000 0,470
+KA -168025,537 -0,326 0,747
+KI 966635,352 2,592 0,015
+Berdasarkan tabel di atas dapat dibuat persamaan regresi sebagai berikut :
+Y = 307020,683 – 225846,239X1 +1320,083X2 + 111084,806X3-
+168025,537X4+966635,352X5
+Dengan : Y = manajemen laba
+X1 = ukuran perusahaan
+X2 = leverage (debt to equity ratio)
+X3 = profitabilitas (return on assets)
+X4 = komite audit
+X5 = kepemilikan institusional
+
+
+
+Berdasarkan persamaan regresi yang telah dibuat di atas maka dapat dijelaskan bahwa : a. Nilai
+konstanta adalah sebesar 307020,683 (dengan tanda positif), menunjukkan bahwa jika tidak ada
+variabel bebas, maka nilai Y (manajemen laba) adalah sebesar 307020,683; b. Nilai koefisien
+X1 adalah sebesar -225846,239 (dengan tanda negatif) menunjukkan bahwa jika ukuran
+perusahaan ditingkatkan satu satuan , maka Y (manajemen laba) akan mengalami penurunan
+sebesar 225846,239 satuan; c. Nilai koefisien X2 adalah sebesar 1320,083 (dengan tanda positif)
+menunjukkan bahwa jika debt to equity ratio ditingkatkan satu satuan , maka Y (manajemen
+laba) akan mengalami peningkatan sebesar 1320,083 satuan; d. Nilai koefisien X3 adalah
+sebesar 111084,806 (dengan tanda positif) menunjukkan bahwa jika return on assets
+ditingkatkan satu satuan , maka Y (manajemen laba) akan mengalami peningkatan sebesar
+111084,806 satuan; e. Nilai koefisien X4 adalah sebesar -168025,537 (dengan tanda negatif)
+menunjukkan bahwa jika komite audit ditingkatkan satu satuan , maka Y (manajemen laba)
+akan mengalami penurunan sebesar 168025,537 satuan; f. Nilai koefisien X5 adalah sebesar
+966635,352 (dengan tanda positif) menunjukkan bahwa jika kepemilikan institusional ditingkatkan satu satuan , maka Y (manajemen laba) akan mengalami peningkatan sebesar
+966635,352 satuan.
+Hipotesis Pertama. Pada pengujian hipotesis pertama variabel independen ukuran perusahaan
+(UP) memiliki nilai t hitung sebesar –0,915 dengan nilai sig sebesar 0,367. Dengan
+membandingkan nilai t hitung sebesar -0,915 dengan nilai t tabel sebesar -2,021, maka dapat
+diketahui bahwa nilai t hitung adalah lebih kecil dari nilai t tabel. Nilai sig sebesar 0,367
+tersebut lebih besar dari 0,05, maka hipotesis yang diterima pada pengujian pertama adalah
+hipotesis H01 yaitu variabel X1 (Ukuran Perusahaan) tidak berpengaruh terhadap Y
+(manajemen laba).
+Hipotesis Kedua. Pada pengujian hipotesis kedua variabel independen Debt Equity Ratio (DER)
+memiliki nilai t hitung sebesar 0,932 dengan nilai sig sebesar 0,359. Dengan membandingkan
+nilai t hitung sebesar 0,932 dengan nilai t tabel sebesar 2,021 maka dapat diketahui bahwa nilai t
+hitung adalah lebih kecil dari nilai t tabel. Nilai sig sebesar 0,359 tersebut lebih besar dari 0,05,
+maka hipotesis yang diterima pada pengujian kedua adalah hipotesis H02 yaitu variabel X2
+(DER) tidak berpengaruh terhadap Y (manajemen laba).
+Hipotesis Ketiga. Pada pengujian hipotesis ketiga variabel independen Return on Assets (ROA)
+memiliki nilai t hitung sebesar 4,051 dengan nilai sig sebesar 0.000. Dengan membandingkan
+nilai t hitung sebesar 4,051 dengan nilai t tabel sebesar 2,021, maka dapat diketahui bahwa nilai t
+hitung adalah lebih besar dari nilai t tabel. Nilai sig sebesar 0,000 tersebut lebih besar dari
+0,05, maka hipotesis yang diterima pada pengujian ketiga adalah hipotesis Ha3 yaitu variabel
+X3 (ROA) berpengaruh terhadap Y (Manajemen laba).
+Hipotesis Keempat. Pada pengujian hipotesis keempat variabel independen Komite Audit (KA)
+memiliki nilai t hitung sebesar -0,326 dengan nilai sig sebesar 0,747. Dengan membandingkan
+nilai t hitung sebesar -0,326 dengan nilai t tabel sebesar 0,747, maka dapat diketahui bahwa nilai
+t hitung adalah lebih kecil dari nilai t tabel. Nilai sig sebesar 0,747 tersebut lebih besar dari
+0,05, maka hipotesis yang diterima pada pengujian keempat adalah hipotesis H04 yaitu
+variabel X (KA) tidak berpengaruh terhadap Y (Manajemen laba).
+Hipotesis Kelima. Pada pengujian hipotesis kelima variabel independen kepemilikan
+institusional memiliki nilai t hitung sebesar 2,592 dengan nilai sig sebesar 0,015. Dengan
+membandingkan nilai t hitung sebesar 2,592 dengan nilai t tabel sebesar 2,021, maka dapat
+diketahui bahwa nilai t hitung adalah lebih besar dari nilai t tabel. Nilai sig sebesar 0,015
+tersebut lebih kecil dari 0,05, maka hipotesis yang diterima pada pengujian kelima adalah
+hipotesis Ha5 yaitu variabel X5 (KI) berpengaruh terhadap Y (Manajemen laba).
+Hipotesis Keenam. Pada penelitian ini nilai F adalah sebesar 5,324 dengan nilai sig sebesar
+0,001. Nilai sig sebesar 0,001 bila dibandingkan dengan nilai alpha sebesar 0,05 (5%) adalah
+lebih kecil, sehingga dapat disimpulkan bahwa kelima variabel bebas secara bersama-sama
+memiliki pengaruh yang signifikan terhadap variabel terikat. Dengan demikian hipotesis yang
+diterima pada pengujian hipotesis keenam Ha6 yaitu variabel ukuran perusahaan, DER,
+ROA, Komite Audit dan Kepemilikan Institusional berpengaruh terhadap manajemen
+laba (Y).
+Pengaruh ukuran perusahaan terhadap manajemen laba. Hasil penelitian ini menunjukkan
+bahwa ukuran perusahaan tidak berpengaruh terhadap manajemen laba. Hal ini disebabkan baik perusahaan besar maupun kecil memiliki kecenderungan melakukan manajemen laba. Hasil ini
+mendukung penelitian yang dilakukan oleh Handayani dan Rachadi (2009)mengenai pengaruh
+ukuran perusahaan terhadap manajemen laba, menyebutkan bahwa perusahaan kecil, sedang
+maupun besar cenderung melaporkan laba guna menghindari pelaporan kerugian (earning loses).
+Penelitian tidak sejalan dengan penelitian yang dilakukan oleh Nassirzadeh dan Alaei (2012)
+yang menunjukkan bahwa ukuran perusahaan memiliki pengaruh yang signifikan terhadap
+manajemen laba, akan tetapi penelitian ini sejalan dengan penelitian yang dilakukan oleh Iram
+Naz, et.al (2011) yang menunjukkan bahwa variabel ukuran perusahaan tidak memiliki pengaruh
+yang signifikan terhadap manajemen laba.
+Pengaruh debt to equity ratio terhadap manajemen laba. Hasil penelitian ini menunjukkan
+bahwa debt to equity ratio tidak berpengaruh terhadap manajemen laba. Hal ini disebabkan
+manajemen tidak terlalu mempertimbangkan rasio debt to equity ratio dalam melakukan
+manajemen laba. Adanya kecenderungan manajemen melakukan income decreasing atau
+penurunan laba menunjukkan bahwa manajemen cenderung tidak memperhatikan besar kecilnya
+tingkat hutang yang dimilikinya. Hasil ini mendukung penelitian yang dilakukan oleh Kartika
+Shintia Dewi dan Prasetiono (2012) mengenai analisis pengaruh ROA, NPM, DER, dan Size
+terhadap praktik perataan laba, hasilnya adalah DER (debt to equity ratio) tidak berpengaruh
+siginifikan terhadap manajemen laba yang diukur dengan perataan laba. Penelitian ini memiliki
+hasil yang berbeda dengan yang dilakukan oleh Jara dan Lopez (2011). Penelitian yang
+dilakukan oleh Jara dan Lopez (2011) dilakukan pada perusahaan keluarga, hasilnya
+menunjukkan adanya pengaruh yang signifikan antara leverage (DER) terhadap manajemen laba.
+Selain itu penelitian yang dilakukan oleh Hall, et.al (2013) menunjukkan bahwa hutang (debt)
+merupakan salah satu bagian dari laporan keuangan yang mendapatkan perhatian dari
+manajemen guna menunjukkan hasil kerja yang baik, salah satu caranya adalah dengan
+menerapkan strukturisasi hutang sehingga seolah-olah perusahaan tidak mengalami penurunan
+laba.
+Pengaruh return on assets terhadap manajemen laba. Hasil penelitian ini menunjukkan
+bahwa return on asset berpengaruh terhadap manajemen laba. Pengaruh return on asset terhadap
+manajemen laba adalah positif signifikan. Hal ini menunjukkan semakin tinggi ROA maka
+semakin tinggi kemungkinan perusahaan melakukan manajemen laba. Perusahaan dengan laba
+yang tinggi cenderung melakukan manajemen laba guna mengurangi jumlah pajak yang harus
+dibayarkan kepada negara. Tindakan ini biasanya dilakukan dengan melakukan income
+decreasing atau penurunan laba. Hasil ini mendukung penelitian yang dilakukan oleh Guna dan
+Herawaty (2010) mengenai pengaruh mekanisme good corporate governance, independensi
+auditor, kualitas audit dan faktor lainnya terhadap manajemen laba, hasil menunjukkan ROA
+memiliki pengaruh yang siginifikan positif terhadap manajemen laba. Penelitian Bagheri, et.al
+(2013) menunjukkan bahwa profitabilitas yang diproxy dengan ROE memiliki pengaruh yang
+signifikan terhadap manajemen laba. Selanjutnya penelitian yang dilakukan oleh Omid (2012)
+juga menunjukkan hasil profitabilitas memiliki pengaruh yang signifikan terhadap manajemen
+laba.
+Pengaruh Komite Audit (KA) terhadap Manajemen Laba. Hasil penelitian ini menunjukkan
+bahwa Komite Audit (KA) tidak berpengaruh terhadap manajemen laba. Hal ini disebabkan
+keberadaan komite audit di dalam perusahaan tidak menjalankan tugasnya secara benar terutama
+dalam hal melakukan monitor atas pelaporan keuangan. Hal ini menjadi penyebab kegagalan
+komite audit dalam mendeteksi secara dini kemungkinan terjadinya manajemen laba di dalam
+perusahaan. Hasil ini mendukung penelitian yang dilakukan oleh Guna dan Herawaty (2010) yang menunjukkan Komite Audit tidak memiliki pengaruh positif siginifikan terhadap
+manajemen laba. Penelitian ini juga mendukung penelitian yang dilakukan oleh Quttainah, et.al
+(2011) yang meneliti perbankan syariah yang berada pada ERF Region. Hasil penelitian
+menunjukkan bahwa tidak terdapat pengaruh yang signifikan antara Shari‟ah Supervisory Boards
+(SSBs) dengan manajemen laba. Selain itu pada penelitian yang dilakukan oleh Quttainah, et.al
+(2011) tidak ditemukan adanya perbedaan yang signifikan antara perbankan syariah yang
+memiliki SSBs dengan yang tidak memiliki SSBs dalam hal kondisi terjadinya manajemen laba.
+Selanjutnya penelitian yang dilakukan oleh Zainuldin (2012) menunjukkan hasil yang sama,
+dimana tidak terdapat pengaruh yang signifikan antara komite audit terhadap manajemen laba.
+Pengaruh Kepemilikan Institusional Terhadap Manajemen Laba. Hasil penelitian ini
+menunjukkan bahwa Kepemilikan Institusional berpengaruh terhadap manajemen laba.
+Pengaruh kepemilikan institusional terhadap manajemen laba adalah positif signifikan. Hal ini
+menunjukkan semakin tinggi kepemilikan institusional maka semakin tinggi kemungkinan
+perusahaan melakukan manajemen laba. Hal ini disebabkan keberadaan kepemilikan
+institusional didalam perusahaan akan membuat manajemen melakukan manajemen laba guna
+memperlihatkan hasil kerja yang baik. Pada penelitian ini kepemilikan institusional berasal dari
+institusi yang berada di bawah naungan perusahaan yang sama (contohnya pada Bank BNI
+Syariah dimana kepemilikan institusional berada pada PT. BNI Life Insurance). Hasil ini
+bertentangan dengan penelitian yang dilakukan oleh Barus dan Sembiring (2012) mengenai
+faktor-faktor yang mempengaruhi motivasi manajemen laba di seputar right issue, dengan hasil
+penelitian menunjukkan kepemilikan institusi tidak memiliki pengaruh yang siginifikan terhadap
+manajemen laba. Begitu juga dengan penelitian yang dilakukan oleh Guna dan Herawaty (2010)
+yang menunjukkan kepemilikan institusional tidak memiliki pengaruh positif siginifikan
+terhadap manajemen laba. Penelitian ini sejalan dengan penelitian yang dilakukan oleh Alves
+(2012) yang menunjukkan bahwa kepemilikan institusional memiliki pengaruh yang signifikan
+terhadap manajemen laba. Penelitian ini sejalan dengan penelitian yang dilakukan oleh Al-
+Zyoud (2012) dimana terdapat pengaruh yang signifikan antara kepemilikan institusional dengan
+manajemen laba.
+Pengaruh Ukuran Perusahaan, DER, ROA, Komite Audit dan Kepemilikan Institusional
+Terhadap Manajemen Laba. Hasil penelitian ini menunjukkan bahwa Ukuran Perusahaan,
+DER, ROA, Komite Audit dan Kepemilikan Institusional berpengaruh terhadap manajemen
+laba. Hasil tersebut menunjukkan bahwa secara keseluruhan variabel–variabel bebas yang
+digunakan dalam penelitian ini memiliki pengaruh yang signifikan terhadap terjadinya
+manajemen laba di dalam suatu perusahaan. Hasil penelitian ini sejalan dengan penelitian yang
+dilakukan oleh Handayani dan Rachadi (2009) serta Guna dan Herawaty (2010) yang
+menunjukkan bahwa secara bersama-sama variabel bebas yang terdiri dari ukuran perusahaan,
+leverage, profitabilitas, komite audit dan kepemilikan institusional memiliki pengaruh yang
+signifikan terhadap manajemen laba.
+
+
+
+PENUTUP
+Berdasarkan hasil penelitian dan pembahasan yang telah dikemukakan di atas, maka
+dapat diambil kesimpulan bahwa ukuran perusahaan tidak berpengaruh signifikan terhadap
+manajemen laba. Hal ini menunjukkan bahwa ukuran perusahaan yang besar maupun kecil
+tetap memiliki kemungkinan untuk melakukan manajemen laba. Perusahaan kecil, sedang
+maupun besar cenderung melaporkan laba guna menghindari pelaporan kerugian (earning
+loses).
+
+
+Demikian pula dengan Debt to equity ratio (DER) memiliki pengaruh yang tidak
+signifikan terhadap manajemen laba. Hal ini berarti setiap peningkatan maupun penurunan
+DER tidak akan berpengaruh secara signifikan terhadap terjadinya manajemen laba di dalam
+perusahaan. Adanya kecenderungan manajemen melakukan income decreasing atau penurunan
+laba menunjukkan bahwa manajemen cenderung tidak memperhatikan besar kecilnya tingkat
+hutang yang dimilikinya.
+Variabel Return on Asset (ROA) memiliki pengaruh yang signifikan terhadap manajemen
+laba. Hal ini terjadi karena laba atau rugi yang terjadi di dalam perusahaan akan memberikan
+imbas terhadap kinerja perusahaan. Perusahaan dengan laba yang tinggi cenderung melakukan
+manajemen laba guna mengurangi jumlah pajak yang harus dibayarkan kepada negara.
+Tindakan ini biasanya dilakukan dengan melakukan income decreasing atau penurunan laba.
+Komite audit memiliki pengaruh yang tidak signifikan terhadap manajemen laba. Hal ini
+disebabkan keberadaan komite audit di dalam perusahaan tidak menjalankan tugasnya secara
+benar terutama dalam hal melakukan monitor atas pelaporan keuangan. Hal ini menjadi
+penyebab kegagalan komite audit dalam mendeteksi secara dini kemungkinan terjadinya
+manajemen laba di dalam perusahaan.
+Kepemilikan institusional memiliki pengaruh yang signifikan terhadap manajemen laba.
+Hal ini menunjukkan semakin tinggi kepemilikan institusional maka semakin tinggi
+kemungkinan perusahaan melakukan manajemen laba. Hal ini disebabkan keberadaan
+kepemilikan institusional didalam perusahaan akan membuat manajemen melakukan
+manajemen laba guna memperlihatkan hasil kerja yang baik. Ukuran perusahaan, DER, ROA,
+Komite Audit dan Kepemilikan Institusional secara bersama-sama memiliki pengaruh yang
+signifikan terhadap manajemen laba. Hasil ini menunjukkan bahwa kelima variabel bebas
+tersebut secara bersama-sama mampu mempengaruhi terjadinya manajemen laba di dalam
+perusahaan.
+Kesimpulan. Berdasarkan hasil kesimpulan di atas, maka saran yang dapat disampaikan adalah
+sebagai berikut: Pertama. Perbankan hendaknya lebih berhati-hati dalam melakukan pelaporan
+keuangan agar tidak dicurigai melakukan manajemen laba; Kedua. Perbankan syariah perlu
+mengoptimalkan keberadaan komite audit agar dapat bekerja secara optimal mendeteksi
+terjadinya kecurangan dalam pelaporan keuangan perusahaan; Ketiga. Perbankan syariah perlu
+mengurangi kepemilikan institusional terutama yang berasal dari dalam internal perusahaan
+guna meminimalisir terjadinya manajemen laba di dalam laporan keuangan. Atau dapat menjual
+sahamnya ke publik dengan cara melakukan IPO sehingga dapat dikontrol oleh kepemilikan
+yang beragam; Keempat. Untuk penelitian selanjutnya sebaiknya ditambahkan variabel yang
+diduga dapat memprediksi terjadinya manajemen laba antara lain independensi auditor, kualitas
+audit, sektor industri dan lain sebagainya.

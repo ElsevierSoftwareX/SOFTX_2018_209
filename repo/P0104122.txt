@@ -1,0 +1,452 @@
+﻿Optimisasi Energi Terbarukan dalam Pembangkitan
+Energi Listrik Menuju Desa Mandiri Energi di Desa
+Margajaya
+
+
+US$-0,167/kWh..
+Intisari— Desa Mandiri Energi (DME) merupakan salah
+satu program dari pemerintah mengenai kemampuan
+suatu Desa untuk memenuhi kebutuhan energinya
+sendiri.Program ini dicanangkan pertama kali pada tahun
+2007 oleh prisiden RI. Kriteria Desa Mandiri Energi
+adalah Desa yang mampu memenuhi minimal 60% dari
+total kebutuhan energinya menggunakan energi
+terbarukan. Desa Margajaya secara geografis memiliki
+potensi energi matahari dan mikrohidro yang sangat
+potensial untuk dikembangkan. Selain itu Desa ini
+merupakan salah satu Desa di Kecamatan Padang Jaya
+penghasil komoditi perkebunan berupa kelapa sawit, yang
+setiap minggunya menghasilkan limbah berupa pelepah
+kelapa sawit, yang apabila limbah tersebut merupakan
+potensi biomassa yang apabila dimanfaatkan dapat
+menghasilkan energi listrik yang dapat mengurangi
+ketergantungan masyarakat terhadap energi listrik yang
+berasal dari pembangkit yang menggunakan energi fosil.
+Software HOMER dalam penelitian ini digunakan untuk
+memodelkan sistem hybrid optimal yang dapat di
+implementasikan di Desa Margajaya. HOMER (Hybrid
+Optimization Model for Electric Renewables) merupakan
+sebuah software pemodelan sistem hybrid yang
+dikembangkan oleh National Renewable Energy
+Laboratory (NREL) Amerika Serikan untuk mengoptimasi
+desain sistem pembangkit hybrid dengan output estimasi
+ukuran/ kapasitas sistem, Lifecycle cost dan emisi gas
+rumah kaca. Optimisasi energi terbarukanuntuk
+pembangkitan energi listrik ini dilakukan di Desa
+Margajaya, yang mempunyai beban puncak yang
+mungkin terjadi dalam satu tahun sebesar 65 kW dan
+konsumsi energi harian sebesar 415 kWh/ hari.
+Konfigurasi yang optimal berdasarkan parameterparameter
+yang di inputkan ke HOMER menghasilkan
+rekomendasi sistem yang terdiri dari Hydro 41,2 kW,
+Biomassa 5 kW dan Grid 10 kW. Sistem tersebut dapat
+melayani 100% beban listrik di Desa Margajaya
+sepanjang tahun dan memiliki surplus energi yang dapat
+dijual ke Grid sebesar 321.273kWh/tahun. Secara ekonomi
+sistem ini mempunyai harga listrik yang sangat bersaing
+dengan harga listrik dari PLN yaitu US$ -0,197/kWh.
+Kata Kunci— DME, Sistem Hybrid, Mikrohidro, Biomassa,
+PV Array, HOMER.
+
+
+I. PENDAHULUAN
+Lingkungan, dan ekonomimerupakan alasan dibalik
+dorongan yang cepat akan pemanfaatan energi terbarukan
+diseluruh dunia. Selain untuk mengatasi hambatan secara
+ekonomi dan komersial, pemanfaatan sumber energi
+terbarukan sesuai dengan tujuan atau goal yang ditetapkan
+oleh sebagian Negara yang ingin memaksimalkan potensi
+energi terbarukan di wilayahnya dengan biaya yang murah.
+Energi listrik merupakan salah satu energi primer yang tidak
+dapat dilepaskan penggunaannya dalam kehidupan sehari-hari,
+baik disektor rumah tangga, instansi pemerintah maupun
+industri. Semakin meningkatnya jumlah penduduk dan
+bertambahnya penggunaan peralatan-peralatan yang
+menggunakan listrik mengakibatkan kebutuhan energi listrik
+meningkat pesat.
+Peningkatan konsumsi energi listrik setiap tahunnya
+doperkirakan terus bertambah, Rencana Umum Penyediaan
+Tenaga Listrik (RUPTL) PT. PLN (Persero) tahun 2010-2019
+menyebutkan, kebutuhan listrik diperkirakan mencapai 55.000
+MW, jadi rata-rata peningkatan kebutuhan listrik pertahun
+adalah 5.500 MW, dari total daya tersebut , sebanyak 32.000
+MW (57%) dibangun sendiri oleh PLN, sedangkan sisanya
+yakni 23.500 MW akan dipenuhi oleh pengembang listrik
+swasta [1].
+Walau menjadi kebutuhan primer, namun hingga saat ini
+penyebaran listrik masih belum merata di Indonesia. Masih
+banyak desa-desa yang belum terjangkau aliran listrik.
+Pengadaan energi listrik di Indonesia terutama di daerah terpencil, sering kali tidak tersentuh dan bahkan sama sekali
+belum terjangkau oleh jaringan listrik. Hal ini disebabkan oleh
+semakin meningkatnya kebutuhan beban listrik didaerah
+perkotaan yang tidak di imbangi dengan pembangunan
+fasilitas pembangkit listrik yang baru. Proyek pembangunan
+pembangkit listrik oleh PLN sebesar 10.000 MW yang hanya
+terfokus di pulau jawa, membuat kebutuhan listrik didaerah
+luar pulau jawa seperti Sumatra, belum secara signifikan
+diperhatikan sehingga keandalan penyediaan energi listrik di
+Sumatra sangatlah kurang. Sehingga makin banyak daerah
+daerah terpencil di pelosok-pelosok Sumatra yang belum
+terjangkau oleh jaringan listrik.
+Desa Mandiri Energi (DME) merupakan salah satu program
+untuk pemenuhan kebutuhan energinya sendiri. Program ini
+dicanangkan pertamakali oleh Presiden SBY pada tahun 2007.
+Kriteria dari Desa Mandiri Energi itu sendiri adalah Desa
+yang mampu memenuhi minimal 60% dari total kebutuhan
+energinya (listrik dan bahan bakar) dengan memberdayakan
+potensi sumber daya setempat serta tumbuhnya kegiatan
+produktif untuk meningkatkan perekonomian Desa sebagai
+dampak dari ketersediaan energi lokal. Diharapkan dengan
+adanya Desa Mandiri Energi ini ketergantungan masyarakat
+terhadap penggunaan sumber energi non renewable dan
+penggunaan energi subsidi dari pemerintah dapat minimalkan.
+Desa Margajaya, Kecamatan Padang Jaya, Kabupaten
+Bengkulu Utara, Provinsi Bengkulu, merupakan Desa
+transmigrasi yang baru 1 tahun dapat menikmati fasilitas dari
+Negara berupa sambungan jaringan listrik dari PLN. Tapi
+penambahan jaringan ini tidak diimbangi dengan kapasitas
+daya yang cukup dari PLN, hal ini dapat dilihat dari sering
+terjadinya pemadaman aliran listrik dan drop tegangan listrik
+di pemukiman penduduk.
+Desa Margajaya secara geografis memiliki potensi energi
+matahari dan mikrohidro yang cukup potensial untuk
+dikembangkan. Selain itu Desa ini merupakan salah satu Desa
+di Kecamatan Padang Jaya penghasil komoditi perkebunan
+berupa Kelapa Sawit dan karet. Perkebunan ini setiap
+minggunya menghasilkan limbah berupa tandan pelepah
+kelapa sawit, dimana limbah ini merupakan potensi Bi
+yang apabila dimanfaatkan dengan optimal dapat
+menghasilkan energy listrik yang dapat mengurangi
+ketergantungan masyarakat terhadap energi listrik yang
+berasal dari pembangkit yang menggunakan energi fosil
+seperti batu bara.
+Berdasarkan data radiasi sinar matahari, debit air sungai
+dan limbah biomassa yang dihasilkan perkebunan kelapa
+sawit per hektar di Desa Margajaya, model sistem pembangkit
+hibrid dirancang untuk mensimulasikan dan menentukan
+sistem yang paling optimal untuk menyediakan energi lis
+untuk beban listrik pada pemukiman penduduk.
+tujuan dari Penelitian ini adalah merancang Desa Mandiri
+Energi berbasis energi terbarukan di Desa Margajaya
+merancang sistem model Grid Connected dengan
+memanfaatkan radiasi sinar matahari, aliran
+sisa perkebunan kelapa sawit;menentukan konfigurasi sistem
+yang paling optimal, dilihat dari biaya produksi energi,
+ketersediaan sumber energi terbarukan, dan keandalan sistem;
+: istrik. fokus daerahpelosok
+iri mpak g up lain Biomassa
+listrik
+Adapun
+erancang Margajaya;
+erancang sungai dan limbah
+enentukan erbarukan, menganalisis karakteristik daya keluaran yang dihasilkan oleh
+model sistem yang optimal, berdasarkan hasil konfigurasi
+sistem yang optimal oleh HOMER.
+Optimisasi sistem energi terbarukan yang dirancang,
+disimulasikan dalam rentang waktu satu tahun dengan data
+keluaran berupa daya yang dihasilkan oleh masing
+komponen sistem dan besar beban listrik yang disuplai. Data
+yang dihasilkan adalah data perubahan daya yang merupakan
+output dari sistem dan beban listrik setiap jamnya dalam
+rentang waktu satu tahun.
+II. ENERGI T
+A. Sistem Pembangkit Listrik Hibrid
+Sumber energi terbarukan memiliki potensi yang besar bila
+dimanfaatkan untuk menghasilkan energi listrik, yang dapat di
+gunakan daerah-daerah yang terisolir, menggunakan suatu
+sistem pembangkit hibrid. Sistem pembangkit hibrid di desain
+untuk memproduksi energi listrik, sistem ini terdiri dari
+beberapa unti pembangkit seperti PV, turbin angin,
+mikrohidro, dan generator. Ukuran sistem pembangkit hibrid
+bervariasi, mulai dari sistem yang mempunyai kapasitas untuk
+mensuplai satu atau beberapa rumah, hingga sis
+kapasitas yang sangat besar yang cukup untuk mensuplai
+jaringan listrik penduduk di daerah terpencil. Sistem
+pembangkit hibrid merupakan salah satu cara untuk
+menyediakan energi listrik untuk berbagai daerah terpencil di
+berbagai belahan dunia dimana biaya untuk pengembangan
+jaringan listrik skala besar terlalu tinggi dan biaya transportasi
+bahan bakar diesel juga sangat tinggi. Penggunaan sistem
+pembangkit hibrid mengurangi penggunaan bahan bakar yang
+mahal, memungkinkan dilakukannya produksi en
+yang bersih dan ramah lingkungan serta meningkatkan standar
+hidup masyarakat yang tinggal di daerah terpencil.
+Sistem dengan kapasitas yang besar diatas 100 kW,
+khususnya terdiri dari gen-set AC, sumber energi terbarukan,
+beban dan terkadang dilengkapi subsistem penyimpanan
+energi. Dibawah 100 kW, kombinasi antara komponen AC
+dan DC umum digunakan untuk penyimpanan energi. Sistem
+pembangkit hibrid yang kecil hanya melayani beban DC,
+khususnya beban dengan kapasitas kurang dari 5 kW,
+digunakan secara komersil pada stasiun repeater
+telekomunikasi dan aplikasi dengan kapasitas rendah lainnya
+di daerah terisolir.
+
+
+B. HOMER
+HOMER (Hybrid Optimization Model for Electric
+Renewables), merupakan software optimasi
+tenaga listrik mikro. Beberapa fungsi dari HOMER adalah:
+1. Mencari kombinasi komponen sistem dengan biaya
+terendah yang sesuai dengan dengan beban.
+2. Mensimulasikan ribuan kemungkinan konfigurasi
+sistem.
+3. Optimasi dari biaya keseluruhan sesuai
+sistem dan analisis sensitifitas dari beberapa input.
+HOMER mensimulasikan sistem operasi dari sebuah sistem
+berdasarkan perhitungan masing-masing energi untuk 8.760
+jam dalam 1 tahun. Untuk setiap jam, HOMER
+membandingkan beban listrik dan thermal dalam satu jam
+untuk energi yang dapat disuplai oleh sistem pada waktu
+tersebut. Jika sistem memenuhi beban sepanjang tahun,
+HOMER memperkirakan biaya siklus hidup dari sistem,
+menghitung biaya modal, penggantian, operasi dan
+pemeliharaan, bahan bakar dan bunga. Aliran energi perjam
+dapat dilihat pada masing-masing komponen, serta biaya
+tahunan dan rangkuman kinerja.Setelah mensimulasikan
+semua kemungkinan konfigurasi sistem, HOMER
+menampilkan daftar kelayakan sistem, yang diurutkan
+berdasarkan lifecycle cost. Sistem dengan biaya terendah
+berada dibagian atas dari daftar dapat dengan mudah
+ditemukan dan juga daftar dari kelayakan sistem lainnya dapat
+dicari.
+
+
+III.METODOLOGI
+Metode penelitian yang digunakan pada penelitian ini
+mencakup tiga tahapan, yaitu studi beban listrik di Desa
+Margajaya, studi potensi mikrohidro, studi potensi energi
+surya di Desa Margajaya dan desain sistem. Gbr.
+Menunjukkan desain yang digunakan.
+
+
+A. Informasi Umum
+Desa Margajaya merupakan salah satu Desa yang adadi
+Kecamatan Padang Jaya Kabupaten Bengkulu Utara. Desa ini
+merupakan salah satu desa penghasil komoditi perkebunan
+berupa kelapa sawit. Desa Margajaya secara
+antara 101032’ – 10208’ BT dan 2015’
+luas wilayah 5.548,54 km2. Secara administrasi ibukota
+Kabupatennya adalah Argamakmur, yang terdiri dari 18
+kecamatan, dengan batas wilayah kabupaten yaitu:
+• Sebelah utara : Kabupaten Muko Muko
+• Sebelah selatan : Kabupaten Sluma dan Kota Bengkulu
+• Sebelah timur : Provinsi Jambi, Kabupaten Lebong dan
+Kepahiang
+• Sebelah barat : Samudra indonesia
+Secara umum informasi umum Desa Marg
+dilihat pada Tabel I.
+
+
+TABEL I
+INFORMASI UMUM DESA MARGAJAYA
+Informasi Keterangan
+Lokasi
+101032’ – 10208’ BT
+dan 2015’ – 4000’ LS
+Jumlah KK 260 KK
+Jumlah Rumah
+Ibadah 5 buah
+Puskesmas
+pembantu 1 buah
+Kantor Desa 1 buah
+Rumah Petugas 2 buah
+SD 1 lokal
+PAUD 1 lokal
+TK 1 lokal
+Pesantren 1 unit
+Gudang pangan 1 buah
+Gudang saprodi 1 buah
+Sumber : Arsip Kantor Desa Margajaya
+B. Beban Listrik
+Berdasarkan Tabel I tentang informasi umum Desa
+Margajaya, kelompok beban di Desa Margajaya terdiri dari
+260 rumah, 5 rumah ibadah, 4 sarana pendidikan, 2 gudang, 1
+sarana kesehatan, 1 kantor desa dan 2 rumah petugas.
+Berdasarkan wawancara dengan masyarakat Desa Margajaya,
+dihasilkan daftar dan pola beban listrik sehari-hari. Gbr. 4
+menunjukkan profil beban di Desa Margajaya dengan beban
+puncak 37 kW.
+Di Desa Margajaya peralatan listrik yang digunakan di
+rumah penduduk pada umumnya sudah baik. TV, receiver
+digital, lampu penerangan rice cooker, sudah mulai banyak
+dipergunakan. Dari hasil survey rata-rata penggunaan
+peralatan listrik di pemukiman penduduk Desa Margajaya
+dapat di lihat pada Tabel II.
+TABEL II
+DATA PENGGUNAAN BEBAN LISTRIK
+Jenis
+Peralatan Kuantitas Daya
+Penggunaan
+maksimum
+per hari (jam)
+Televisi 1 87 7
+Receiver
+Digital
+1 30 7
+VCD Player 1 15 1
+Magic com 1 350 1
+Strika 1 350 1
+Lampu 3 20 12
+Sumber: Data wawancara dan pengamatan langsung
+Gbr. 4 Profil beban listrik Desa Margajaya
+Dari Gbr. 4 terlihat bahwa beban puncak terjadi pada pukul
+20.00-21.00, hal ini dikarnakan pada jam-jam ini warga Desa
+Margajaya sebagian besar berada di kediamannya masingmasing.
+C. Radiasi Matahari
+Data yang di dapat dari http://eosweb.larc.nasa.gov,
+digunakan sebagai sumber informasi radiasi matahari di Desa
+Margajaya. Data diperoleh dengan memasukkan letak
+koordinat Desa Margajaya di website National Aeronautics
+and Space Administration (NASA). Data yang didapat dari
+NASA memiliki tingkat keakuratan berkisar antara 6-12%.
+Gbr. 5 Rata-rata radiasi bulanan pada permukaan horizontal di Desa
+Margajaya
+Rata-rata radiasi matahari di daerah ini adalah 4,784
+kWh/m2/hari. Clearness index di Daerah ini cukup baik,
+variasi intensitas radiasi bulanan juga sangat kecil.
+D. Potensi Mikrohidro
+Survei lapangan dilakukan untuk memperoleh parameterparameter
+yang diperlukan dalam merancang sistem
+Pembangkit Listrik Tenaga Mikrohidro dari sungai Bintuhan
+di Desa Margajaya. Beberapa metode dilakukan untuk
+mengukur karakteristik air sungai. Debit air diperoleh melalui
+pengukuran menggunakan metode pelampung (Float Area
+Methode). Pengukuran dilakukan pada kondisi musim
+kemarau di awal bulan agustus 2012. Tabel III merupakan
+rangkuman sifat-sifat fisik sungai Bintuhan di Desa
+Margajaya.
+
+
+E. Potensi Biomassa
+Luas total perkebunan kelapa sawit di Desa Margajaya
+adalah 400 hektar, dimana seluruhnya merupakan perkebunan
+milik penduduk. Dari perkebunan sawit dihasilkan sejumlah
+komponen biomassa seperti tempurung, serabut, tandang
+kosong, pelepah dan lain lain. Untuk tiap hektar kebun,
+produksi biomassa dapat dilihat pada Tabel IV.
+
+
+
+Berdasarkan Tabel IV, maka potensi produksi limbah
+biomassa (pelepah sawit) kebun kelapa sawit di Desa
+Margajaya adalah 2480 ton/tahun. Untuk perharinya potensi
+biomassa Desa Margajaya adalah 6,89 ton/ hari.
+
+F. Perancangan Sistem
+Perancangan sistem dilakukan menggunakan software
+HOMER, dimana komponen sistem yang digunakan terdiri
+dari PV array, biomassa, converter, hydro, battery bank dan
+grid.
+
+Gbr. 8 Model dan komponen
+
+
+Dalam sistem hibrid pada Gbr. 8 primary load yang
+disuplai oleh sistem hibrid yang terdiri dari PV Array,
+Biomassa dan mikrohidro. Adanya grid dimaksudkan apabila
+sistem hibrid di Desa Margajaya mengalami kondisi defisit
+energi listrik, grid dapat mensuplai energi listrik ke Desa
+Margajaya dengan kata lain Desa Margajaya membeli listrik
+dari grid dalam hal ini adalah PLN. Begitu pun sebaliknya
+apabila sistem hibrid di Desa Margajaya mengalami surplus
+energi listrik, Desa Margajaya dapat menjual energi listriknya
+ke grid (PLN).
+
+
+Selain parameter pada Tabel V, terdapat dua variable
+sensitifitas yang turut di inputkan kedalam HOMER yaitu
+Hydro Head dan Design Flow Rate.Tujuan dari penggunaan
+dua variabel sensitifitas ini adalah untuk mencari konfigurasi
+sistem yang optimal di lihat dari nilai NPC (Net Present Cost)
+dan Levelized COE.
+
+
+Dari data hasil pengukuran debit air di sungai bintuhan
+diperoleh besaran debit air di sungai tersebut adalah 8,57 m3/s.
+Besaran debit air ini merupakan parameter-parameter yang
+digunakan sebagai masukan untuk model HOMER. Hasil
+simulasi potensi debit air di HOMER dapat dilihat pada Gbr.
+12. Pada gambar tersebut terlihat bahwa debit air sebesar 8600
+L/s dan 8900 L/s memiliki frekuensi terbesar dibandingkan
+nilai debit air lainnya yaitu 15,7%.
+Produksi limbah biomassa diasumsikan sama untuk setiap
+bulannya, seperti terlihat pada Gbr. 13. hal ini berdasarkan
+informasi yang didapat dari www.pasadenaengineering.com.
+
+
+Pada model sistemhibrid ini HOMER melakukan total
+sebanyak 792 simulasi dengan 3 sensitivitas design flow rate.
+Hal ini dilakukan untuk mencari konfigurasi sistem yang
+paling optimal dari komponen dan parameter sistem tenaga
+yang digunakan.
+Gbr. 15 menunjukkan hasil optimasi dari parameterparameter
+komponen yang di inputkan ke dalam HOMER.
+Konfigurasi pembangkit hibrid yang memiliki NPC yang
+paling kecil terdiri dari Hydro 41,2 kW, Biomassa 5 kW dan
+Grid 10 kW.
+
+
+Dari Gbr. 16 terlihat perbandingan produksi daya yang
+dihasilkan oleh sistem Pembangkit Listrik Tenaga Mikrohidro
+(PLTMh) dan biomassa dibandingkan dengan daya listrik
+yang dibeli dari grid untuk setiap bulannya dalam interval satu
+tahun.Dari Tabel VII terlihat bahwa energi listrik yang
+dihasilkan dari sistem optimal dalam satu tahun adalah
+472.738 kWh/tahun dengan rincian 97% (460.175 kWh)
+Hydro turbin, dan 3% (12.510 kWh) Biomassa.
+Kebutuhan energi listrik pada sistem ini dapat dilihat pada
+Tabel 8. Dimana untuk beban listrik dapat dipenuhi oleh
+sistem hibrid yang optimal (32%) yaitu sebesar 151.475
+kWh/tahun, selain itu selain untuk memenuhi kebutuhan
+listrik di Desa Margajaya, sistem hibrid dapat menjual energi
+listriknya ke Grid (PLN) sebesar 321.273 kWh/tahun (68%).
+Tabel IX memperlihatkan bahwa sistem ini tidak
+menghasilkan energi sisa, semua energi listrik yang dihasilkan di gunakan oleh beban dan di jual ke Grid dan pada tabel ini
+juga terlihat bahwa tidak ada beban listrik yang tidak
+terpenuhi dan tidak pernah terjadi kekurangan kapasitas listrik
+dalam satu tahun.
+H. Analisa Ekonomi
+Tabel X dan Gbr. 17 merupakan rangkuman dari sisi
+ekonomi sistem optimal. Total NPC pada sistem hibrid ini
+adalah US$ -25.192, biaya bahan bakar pada sistem adalah
+US$ 0, dikarnakan sistem tidak menggunakan bahan bakar
+minyak, sistem mendapatkan keuntungan dari penjualan
+energi listrik ke grid sebesar US$153.526. harga jual listrik
+optimal adalah US$0,013 /kWh. Jika dibandingkan dengan
+tarif dasar listrik (TDL) PLN tahun 2012 sebesar
+US$ 0,080/kWh (www.pln.co.id), harga jual listrik sistem ini
+lebih rendah US$ 0.067/kWh. Hal ini menunjukkan bahwa
+harga jual sistem Pembangkit Hibrid ini sangat kompetitif
+dibandingkan dengan harga jual listrik dari PLN.
+
+
+Selain itu, harga jual yang tinggi ke grid (PLN) sangat
+menguntungkan apabila sistem ini di implementasikan di Desa
+Margajaya.Harga listrik yang menurut peraturan Menteri
+Energi dan Sumber Daya Mineral RI tentang harga pembelian
+tenaga listrik oleh PLN, dari pembangkit tenaga listrik yang
+menggunakan energi terbarukan skala kecil dan menengah
+atau kelebihan tenaga listrik adalah sebesar US$0,116/kWh.
+
+
+
+
+V. KESIMPULAN
+Dari simulasi yang dilakukan terhadap model sistem
+pembangkit hibrid yang terdiri dari sistem mikrohidro, PV
+Array, Biomassa dan grid dapat disimpulkan bahwa :
+1) Berdasarkan dari hasil optimisasi energi terbarukan untuk
+pembangkit listrik hibrid, jumlah energi listrik yang
+dihasilkan oleh model sistem hibrid, ini dapat memenuhi
+kebutuhan energi listrik di Desa Margajaya.
+2) Sistem hibrid dengan konfigurasi yang optimal terdiri dari
+sistem sistem mikrohidro, biomassa dan grid.
+3) Sistem optimal tersebut menunjukkan bahwa energi listrik
+yang dihasilkan dapat disalurkan ke grid (PLN). Sehingga
+dapat menjadi pemasukan kas di Desa Margajaya.
+4) Tujuan utama untuk membentuk Desa Margajaya sebagai
+Desa Mandiri Energi secara model dan simulasi telah
+terpenuhi dikarnakan Desa ini dapat menghasilkan energi
+listrik sebesar 100% dari keseluruhan konsumsi energi
+listrik..

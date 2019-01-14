@@ -1,0 +1,1020 @@
+﻿
+
+KINERJA KEUANGAN BERBASIS PENCIPTAAN NILAI, 
+
+FAKTOR MAKROEKONOMI, DAN RETURN SAHAM 
+
+SEKTOR PERTANIAN 
+
+ 
+
+Abstrak 
+
+ 
+
+Tujuan dari penelitian ini adalah: (1) menganalisis kinerja keuangan menggunakan EVA, MVA, Q-Tobin, (2) menganalisis pengaruh EVA, MVA, Q-Tobin dan faktor makroekonomi terhadap return saham, 
+(3) mengembangkan implikasi manajerial. Data dikumpulkan dari 8 perusahaan sektor pertanian yang terdaftar di BEI sebelum tahun 2005. Hasil menunjukkan sebagian besar perusahaan memperoleh EVA negatif, 
+MVA positif, dan nilai q < 1. Variabel MVARET dan Q-TobinRET berpengaruh signifikan terhadap return 
+saham. 
+ 
+Kata Kunci: Return Saham, Sektor Pertanian, Analisis Kinerja Berbasis Penciptaan Nilai, Faktor 
+
+Makroekonomi, Model Random Effect 
+
+ 
+ 
+
+ 
+
+ 
+
+PENDAHULUAN 
+
+ 
+Peran pasar modal dalam menunjang perekonomian suatu negara dinilai semakin penting. Saat 
+ini, indikator perekonomian suatu negara, selain diukur melalui pertumbuhan PDB juga dapat diukur melalui kinerja indeks pasar modal yang merupakan 
+indikator kepercayaan investor. Seiring dengan perkembangan perekonomian Indonesia, peran pasar 
+modal menjadi sangat strategis dalam menunjang 
+pembangunan nasional serta sumber pembiayaan dan 
+investasi selain perbankan dan pinjaman luar negeri. 
+Proses transaksi modal berlangsung di sebuah pasar 
+khusus yang disebut sebagai bursa efek. 
+
+Produk utama dari bursa efek adalah saham. Saham yang diperdagangkan mengalami fluktuasi tergantung transaksi yang dilakukan. Oleh karena itu, 
+para investor harus mampu memperkirakan pergerak
+an indeks harga saham di bursa efek. Indeks pasar 
+modal di Indonesia disebut sebagai Indeks Harga 
+Saham Gabungan (IHSG) yang terdiri dari sembilan 
+indeks sektoral, yaitu agribisnis, pertambangan, 
+industri dasar, aneka industri, industri produk 
+konsumen, properti dan real estate, infrastruktur, 
+lembaga keuangan, perdagangan, jasa, dan investasi 
+(Indonesia Stock Exchange 2010). 
+
+Sektor pertanian dipandang memiliki peran 
+penting dalam pertumbuhan laju perekonomian di Indonesia. Selama tahun 2005 sampai dengan 2011, 
+sektor pertanian dan subsektornya yang meliputi perkebunan, perikanan, peternakan, dan kehutanan mengalami pertumbuhan dalam struktur Produk Domestik Bruto (PDB). Selain itu, sektor pertanian menempati urutan ketiga dalam struktur PDB Indonesia, 
+di bawah sektor industri pengolahan dan sektor perdagangan, hotel dan restoran dengan nilai PDB pada 
+tahun 2005 sebesar Rp 253,88 triliun menjadi Rp 
+313,73 triliun pada tahun 2011 (Badan Pusat Statistik, 
+2013). 
+
+Perkembangan sektor pertanian di pasar modal 
+juga menunjukkan kinerja saham yang cukup baik. 
+Selama tahun 2005 sampai dengan 2011, rata-rata indeks harga saham sektor pertanian bersama sektor 
+pertambangan menempati urutan lebih tinggi dibandingkan dengan sektor lainnya. Seperti ditunjukkan 
+dalam Gambar 1, sejak tahun 2006 indeks harga 
+saham sektor pertanian sudah menembus angka 1.000 
+poin. 
+
+Dari sisi pergerakan indeks harga saham, sektor 
+pertanian memiliki pergerakan indeks harga saham 
+yang sangat fluktuatif. Fluktasi pergerakan indeks 
+harga saham sektor pertanian juga mempengaruhi return saham yang dihasilkan. Selama periode 2005 
+sampai dengan 2011, sektor pertanian menempati 
+urutan paling rendah setelah sektor pertambangan terkait nilai annualised return, yaitu sebesar -199,72% 
+seperti ditunjukkan pada Tabel 1. 
+
+Keputusan investor sangat dipengaruhi oleh nilai 
+return yang diterima. Return menjadi indikator utama 
+kamampuan perusahaan menciptakan nilai bagi para 
+investor dalam bentuk pembayaran dividen ataupun 
+capital gain. Pengukuran kinerja merupakan salah satu faktor penting yang berguna untuk perencanaan keuangan perusahaan. EVA merupakan salah satu alat 
+pengukur kinerja keuangan perusahaan yang berhubungan langsung dengan nilai pasar intrinsik suatu 
+perusahaan. MVA merupakan suatu metode yang relatif penting dalam menilai kinerja perusahaan, khususnya dalam mengukur besarnya penciptaan nilai kekayaan para pemegang saham, yang dapat dilihat 
+melalui nilai pasar (market price) perusahaan. 
+
+ 
+
+Penggunaan Q-Tobin dimaksudkan untuk menilai kemampuan perusahaan dalam mengelola aktiva agar 
+tercipta nilai pasar modal yang menguntungkan. 
+Terkait dengan pengaruh ketiga metode tersebut 
+terhadap return saham, secara empiris menghasilkan 
+hasil beragam. 
+
+ 
+
+Tabel 1. Annualised Return IHSG dan Indeks Sektoral 
+di Indonesia Tahun 2005–2011 
+
+Indeks 
+
+Tahun 2005–2011 
+
+Annualised return (%) 
+
+IHSG 
+Pertanian 
+Pertambangan 
+Industri Dasar dan Kimia 
+Aneka Industri 
+Barang Konsumsi 
+Properti dan Real Estate 
+Transportasi dan Infrastruktur 
+Keuangan 
+Perdagangan Jasa dan Investasi 
+Sumber: Indonesia Stock Exchange, 2013 
+
+ 6,94 
+-199,72 
+-213,67 
+ 11,98 
+ 7,81 
+ 20,89 
+ -7,25 
+ 3,30 
+ 13,92 
+
+ -22,30 
+
+ 
+Dalam penentuan return saham selain dipengaruhi oleh kinerja perusahaan juga dipengaruhi faktor 
+eksternal. Faktor-faktor tersebut meliputi faktor 
+makroekonomi dan termasuk faktor eksternal lainnya, 
+seperti adanya krisis ekonomi. Inflasi merupakan 
+salah satu makroekonomi yang menunjukkan kenaikan harga berbagai produk dan jasa dalam suatu 
+periode tertentu. Kondisi ini mempengaruhi kemampuan daya beli konsumen dalam membeli produk 
+atau jasa sehingga kinerja perusahaan dalam bentuk 
+laba serta return kepada investor yang dihasilkan. 
+
+Nilai tukar mencerminkan posisi nilai tukar sua-
+tu negara (home currency) terhadap negara lain (foreign currency). Mengingat nilai tukar rupiah mengacu kepada dollar AS, ketika terjadi pelemahan nilai 
+rupiah terhadap dollar AS, maka perusahaan-perusahaan yang menjual produknya dalam bentuk mata 
+uang dollar akan mengalami keuntungan karena nilainya menjadi besar ketika dikonversi ke dalam mata 
+uang rupiah. Hal ini akan berpengaruh juga terhadap 
+return yang didapatkan oleh shareholders. 
+
+Oleh karena itu, penelitian ini bertujuan menganalisis kinerja keuangan perusahan di sektor pertanian yang tercatat di BEI dengan menggunakan metode EVA, MVA, dan Q-Tobin; menganalisis pengaruh EVA, MVA, Q-Tobin, dan faktor-faktor 
+makroekonomi (inflasi dan nilai tukar) terhadap 
+return saham sektor pertanian yang tercatat di BEI; 
+serta menyusun implikasi manajerial dari hasil 
+analisis yang dilakukan. 
+
+ 
+
+LANDASAN TEORI DAN HIPOTESIS 
+ 
+Hipotesis yang dirumuskan dalam penelitian ini 
+adalah variabel-variabel yang telah didefinisikan 
+memiliki pengaruh terhadap return saham. Berdasarkan beberapa penelitian terdahulu menunjukkan hasil 
+yang relatif beragam. Dalam hal pengaruh hubungan 
+variabel EVA terhadap return saham, Bacidore et al. 
+(1997) menyatakan bahwa EVA memiliki korelasi 
+yang signifikan terhadap return saham. Hasil yang 
+berbeda dinyatakan oleh Irwansyah (2001) dan 
+Kartini & Hermawan (2008) yang menyatakan bahwa 
+variabel EVA memiliki pengaruh yang tidak signifikan terhadap return saham. 
+
+Sama halnya dengan penelitian terhadap EVA, 
+terdapat hasil yang beragam mengenai keterkaitan antara MVA dengan return saham. Irwansyah (2001) 
+menyatakan bahwa variabel MVA mempunyai pengaruh signifikan dengan return saham. Adapun hasil 
+penelitian yang dilakukan oleh Kartini & Hermawan 
+(2008) menyatakan hasil yang berbeda bahwa pengaruh variabel MVA tidak signifikan terhadap return 
+saham. 
+
+Terkait dengan analisis Q-Tobin dan kaitannya 
+dengan return saham, Vadiei & Hosseini (2012) menyatakan terdapat hubungan yang signifikan antara QTobin dengan return saham. Harney & Tower (2003) 
+menjelaskan bahwa Q-Tobin memiliki superioritas 
+dibandingkan price earning ratios dalam memprediksi tingkat pengembalian (rate of return) saham S&P 
+500 Index. Penggunaan Q-Tobin sangat membantu 
+para investor dalam menilai hasil investasinya saat ini 
+karena nilai Q-Tobin mencerminkan profitabilitas 
+
+modal masa depan (return) yang diduga atas profitabilitasnya sekarang (Mankiw, 2007). 
+
+Penelitian terkait pengaruh inflasi dan nilai tukar 
+terhadap return saham juga menunjukkan hasil yang 
+relatif beragam. Penelitian yang dilakukan oleh Sohail 
+& Hussain (2012) menyatakan bahwa inflasi dan nilai 
+tukar berpengaruh signifikan terhadap return saham 
+di pasar modal India dan Pakistan. Butt et al. (2010) 
+menjelaskan bahwa inflasi lebih berpengaruh terhadap return saham untuk level industri dibandingkan 
+level perusahaan. Hasil yang berbeda dikemukakan 
+oleh Sodikin (2007), pada industri sektor pertanian, 
+inflasi dan nilai tukar memiliki pengaruh yang lemah 
+terhadap return saham. Janor et al. (2010) menjelaskan hasil penelitian di Malaysia bahwa inflasi tidak 
+memiliki hubungan signifikan dengan return saham. 
+Penelitian terkait pengaruh krisis keuangan 
+global diantaranya dilakukan oleh Ali & Afzal 
+(2012). Hasil penelitian mereka di pasar modal India 
+dan Pakistan dari tahun 2003 sampai dengan 2010, 
+menyatakan bahwa krisis finansial global lebih berpengaruh negatif terhadap return saham di pasar modal 
+India dibandingkan Pakistan. 
+
+Penelitian empiris mengenai metode EVA, 
+MVA, dan Q-Tobin sudah banyak dilakukan, namun 
+demikian penggunaan variabel-variabel tersebut 
+masih jarang dilakukan secara bersamaan. Dari sisi 
+obyek penelitian, ternyata belum banyak dilakukan 
+penelitian menggunakan ketiga metode tersebut. Menurut Fortune dalam Chung & Pruitt (1994), para manajer keuangan sepakat bahwa penilaian melalui QTobin, EVA, dan MVA memberikan hasil yang relatif sama. Oleh karena itu, penelitian menggunakan 
+tiga metode analisis tersebut menjadi suatu terobosan 
+dan tantangan tersendiri untuk membuktikannya. Hal 
+ini ditambah pula dengan keberadaan faktor-faktor 
+makroekonomi (inflasi dan nilai tukar) serta faktor 
+lainnya berupa krisis keuangan global yang memperkuat dan memperluas variabel penelitian ini. 
+
+Berdasarkan kajian terdahulu, maka dapat 
+
+dirumuskan hipotesis sebagai berikut: 
+
+ 
+
+H0 : β1, β2, β3, β4, β5, β6 = 0 
+ 
+
+Dengan variabel EVA, MVA, Q-Tobin, makroekonomi (inflasi dan nilai tukar), serta variabel 
+krisis tidak berpengaruh terhadap return saham 
+perusahaan-perusahaan di sektor pertanian yang 
+tercatat di BEI. 
+
+H1 : β1, β2, β3, β4, β5, β6 ≠ 0 
+ 
+
+Dengan variabel EVA, MVA, Q-Tobin, makroekonomi (inflasi dan nilai tukar), serta variabel 
+krisis berpengaruh terhadap return saham perusahaan-perusahaan di sektor pertanian yang tercatat di BEI. 
+
+ 
+
+
+METODE PENELITIAN 
+
+ 
+
+Penelitian dilakukan dengan mengumpulkan 
+data sekunder dari delapan perusahaan di sektor 
+pertanian yang sahamnya tercatat di BEI. Delapan 
+perusahaan tersebut dirincikan pada Tabel 2. 
+
+ 
+
+Tabel 2. Daftar Emiten Sektor Pertanian di Bursa Efek 
+Indonesia (BEI) 
+
+ Nama Pemegang Saham 
+ Sub Sektor Perkebunan 
+ PT Astra Agro Lestari, Tbk 
+ PT PP London Sumatera Indonesia, 
+
+Tbk 
+
+ PT Sinar Mas Agro Resources and 
+
+Technology, Tbk 
+
+ PT Tunas Baru Lampung, Tbk 
+ PT Bakrie Sumatera Plantation, Tbk 
+
+ Sub Sektor Peternakan 
+ PT Cipendawa, Tbk 
+ Sub Sektor Perikanan 
+ PT Dana Samudera Fishing Industries 
+
+Tbk 
+
+ Sub Sektor Lainnya 
+ PT Bumi Teknokultura Unggul, Tbk 
+
+Emiten Saham 
+ 
+
+AALI 
+
+ 
+
+LSIP 
+
+ 
+
+SMAR 
+TBLA 
+
+ 
+
+UNSP 
+
+ 
+
+CPDW 
+
+ 
+ 
+
+DSFI 
+
+ 
+ 
+
+BTEK 
+
+ 
+
+Data tersebut diolah dan dianalisis untuk memperoleh gambaran mengenai kinerja keuangan, nilai 
+tambah dan nilai pasar serta hubungan pengaruh dari 
+komponen-komponen tersebut terhadap kinerja 
+keuangan perusahaan. Penelitian dilaksanakan dalam 
+waktu empat bulan, dari bulan Maret hingga Mei 
+2013. 
+ 
+Desain Penelitian 
+
+ 
+Penelitian dilakukan pada perusahaan publik di 
+sektor pertanian yang telah mengumumkan laporan 
+keuangan secara lengkap dari periode tahun 2005–
+2011. Penelitian dilaksanakan melalui pendekatan 
+deskriptif kualitatif dan kuantitatif ekonometrika, diinterpretasikan berdasarkan teori-teori dan literaturliteratur mengenai EVA, MVA, dan Q-Tobin, faktorfaktor makroekonomi, dan return saham. Di samping 
+itu, digunakan analisis regresi menggunakan panel 
+data. Analisis regresi digunakan untuk mengetahui 
+pengaruh EVA, MVA, Q-Tobin, dan faktor-faktor 
+makroekonomi terhadap return saham. 
+
+Data yang digunakan meliputi data kuantitatif 
+dan data kualitatif yang terdiri dari data sekunder seperti laporan keuangan konsolidasian perusahaan secara tahunan (audited) dan triwulanan yang diperoleh 
+dari www.idx.co.id, situs perusahaan terkait, dan 
+
+ 
+
+perpustakaan BEI, data historis IHSG dan harga saham perusahaan diperoleh dari www.duniainvestasi.com dan www.finance.yahoo.com, data nilai tukar 
+rupiah terhadap dollar AS diperoleh dari www.fx.sauder.ubs.ca, data tingkat inflasi diperoleh dari 
+www.bi.go.id, serta studi kepustakaan dengan mempelajari buku-buku terkait dengan penelitian, internet, jurnal dan artikel-artikel lain yang berhubungan dengan penelitian ini. 
+
+Data dikumpulkan dengan menggunakan teknik 
+purposive sampling, yaitu penarikan dengan tujuan 
+atau pertimbangan tertentu (Juanda, 2009). Beberapa 
+kriteria dalam pemilihan sampel adalah perusahaan 
+go public dalam sektor pertanian yang telah tercatat 
+sebagai emiten di Bursa Efek Indonesia (BEI) dan 
+perusahaan mengeluarkan laporan keuangan tahunan 
+setiap tahun dan juga terdaftar harga sahamnya selama periode 2005–2011. 
+
+Pengolahan data untuk mengetahui nilai EVA, 
+MVA, Q-Tobin, inflasi, nilai tukar, dan return Saham 
+dilakukan secara kuantitatif, dengan menggunakan 
+software microsoft excel. Untuk mengetahui pengaruh 
+variabel independen dengan variabel dependen menggunakan analisis regresi data panel, dilakukan pula secara kuantitatif yaitu dengan program EViews versi 6. 
+Setelah semua data diproses dan diketahui nilainya dilakukan analisis secara deskriptif untuk menjelaskan 
+perbandingan antar variabel, lalu dijelaskan pula pengaruh antar variabel yang diuji. 
+ 
+Analisis Regresi Data Panel 
+
+ 
+Analisis regresi dalam penelitian ini menggunakan data panel. Data panel merupakan penggabungan 
+data time series dan data cross section. Dengan kata 
+lain, data panel adalah data yang diperoleh dari data 
+cross section yang diobservasi berulang pada unit 
+individu (obyek) yang sama pada waktu yang berbeda. Dengan demikian, akan diperoleh gambaran 
+tentang perilaku beberapa obyek tersebut selama beberapa periode waktu (Juanda, 2009). 
+
+Analisis regresi data panel dalam penelitian ini 
+merupakan pengaruh variabel EVA, MVA, Q-Tobin, 
+inflasi, dan kurs terhadap return saham. Model persamaan yang digunakan dalam persamaan adalah 
+sebagai berikut: 
+
+ 
+R:...
+
+ 
+
+ 
+Untuk memilih model terbaik dari tiga pendekatan, yakni model pooled least square (PLS), 
+model fixed effect, dan model random effect diperlukan sebuah alat pe-ngujian model tersebut. Ada tiga 
+alat pengujian untuk memilih model panel data, yaitu 
+uji Chow (Chow test), uji LM (LM test), dan uji 
+Hausman (Hausman test). Uji Chow digunakan untuk memilih apakah model PLS atau Fixed Effect. Uji 
+LM adalah alat uji untuk memilih antara model PLS 
+atau Random Effect. Uji Hausman digunakan untuk 
+memilih Model Fixed Effect atau Random Effect. 
+(Juanda & Junaidi, 2012). 
+ 
+Uji Chow 
+
+ 
+
+ 
+Uji Chow (Chow test) merupakan suatu pengujian yang digunakan untuk memilih di antara model 
+pooled least square dan fixed effect. Hipotesis dalam 
+pengujian ini adalah: 
+H0 : Model Pooled Least Square 
+H1 : Model Fixed Effect 
+
+ 
+
+ 
+Dasar penolakan terhadap hipotesis nol tersebut 
+adalah dengan menggunakan Fstatistik seperti yang 
+dirumuskan: 
+
+CHOW = R:..
+
+ 
+
+
+T = Jumlah data time series 
+K = Jumlah variabel penjelas 
+
+ 
+
+ 
+Pengujian ini mengikuti distribusi Fstatistik yaitu 
+FN-1, NT-N-K. Jika nilai CHOW Sta-tistic (Fstat) hasil pengujian lebih besar dari Ftabel, maka cukup bukti untuk 
+melakukan penolakan terhadap hipotesis nol sehingga 
+model yang digunakan adalah model fixed effect, be
+gitu juga sebaliknya jika nilai CHOW Statistic (Fstat) 
+lebih kecil dari Ftabel, maka model yang digunakan 
+adalah model pooled least square. 
+ 
+Uji Hausman 
+
+ 
+
+ 
+Uji Hausman (Hausman test) adalah pengujian 
+statistik sebagai dasar pertimbangan dalam memilih 
+untuk menggunakan model fixed effect atau model 
+random effect. Pengujian hipotesis model ini adalah: 
+H0 : Random Effect Model 
+H1 : Fixed Effect Model 
+
+ 
+Sebagai dasar penolakan hipotesis nol, jika nilai 
+statistik Hausman lebih besar daripada nilai kritis statistik chi-square (Juanda & Junaidi 2012). 
+ 
+Uji Breusch-Pagan LM 
+
+ 
+
+ 
+Breusch-Pagan LM Test adalah pengujian yang 
+digunakan di dalam pemilihan antara REM dan PLS. 
+Pengujian ini didasarkan pada nilai residual model 
+PLS (Juanda & Junaidi 2012). Pengujian hipotesis 
+model ini adalah: 
+H0: Pooled Least Square 
+H1: Random Effect 
+
+ 
+Nilai statistik LM dihitung berdasarkan formula 
+
+sebagai berikut: 
+
+ 
+
+LM = R;...
+
+ 
+
+ 
+N = jumlah individu 
+T = jumlah periode waktu 
+eit = residu metode PLS 
+
+ 
+Uji LM ini didasarkan pada distribusi chi-square 
+dengan derajat bebas sebesar satu. Jika hasil statistik 
+LM lebih besar dari nilai kritis statistik chi-square, 
+maka hipotesis nol akan ditolak, yang berarti estimasi 
+yang tepat untuk regresi data panel adalah metode 
+REM (Juanda & Junaidi 2012). 
+
+Pemilihan model yang dihasilkan dapat diuji 
+secara statistik dengan pengujian hipotesis yang 
+berfungsi untuk mengetahui model dalam penelitian 
+yang digunakan apakah sudah cukup baik ataupun 
+belum dalam menjelaskan keragaman yang terdapat 
+pada suatu permasalahan. Terdapat beberapa kriteria 
+pengujian statistik yaitu koefisien determinasi, uji F, 
+dan uji t. Selain itu uji asumsi klasik dapat dilakukan 
+untuk memastikan bahwa model regresi yang terpilih 
+terdapat permasalahan atau tidak. 
+
+ 
+
+HASIL DAN PEMBAHASAN 
+
+ 
+Analisis Kinerja Berdasarkan EVA 
+
+ 
+
+Analisis EVA terhadap delapan perusahaan 
+menunjukkan hasil fluktuasi selama periode pengamatan dari tahun 2005 sampai dengan 2011. Berdasarkan nilai mean, sebanyak empat perusahaan memiliki nilai mean negatif yang berarti sebagian besar data EVA perusahaan bernilai negatif. Hanya emiten 
+AALI, LSIP, dan SMAR yang me-miliki nilai mean 
+positif. Selain itu, terdapat enam perusahaan, yaitu 
+LSIP, SMAR, TBLA, UNSP, CPDW, DSFI, BTEK 
+memiliki standar deviasi lebih besar dibandingkan nilai mean. Hal ini berarti tingkat penyimpangan penyebaran data kelima perusahaan tersebut lebih besar dibandingkan nilai mean. Dari sisi normalitas data, maka dapat dilihat dari nilai Jarque-Bera dan probabilitasnya. Dengan hipotesis nol pada berdistribusi normal, uji Jarque-Bera (JB) didistribusi dengan x2 dan 
+derajat bebas (degree of freedom) sebesar dua. Probabilitas menunjukkan kemungkinan nilai JB melebihi 
+nilai terobservasi di bawah hipotesis nol. Nilai probalilitas yang kecil cenderung mengarahkan pada penolakan hipotesis nol berdistribusi normal. Bila nilai JB 
+tidak signifikan (lebih kecil dari dua) dan nilai probabilitasnya lebih besar dari selang kepercayaan 5%, 
+maka data berdistribusi normal (Winarno, 2011). Semua perusahaan memiliki data EVA berdistribusi 
+normal karena nilai JB lebih kecil dari derajat bebas 
+sebesar dua dan nilai pro-babilitasnya lebih besar dari 
+selang kepercayaan 5%. Hal ini diperjelas dalam Tabel 3. 
+
+Berdasarkan pengelompokan nilai EVA, dirinci 
+jumlah nilai EVA setiap perusahaan yang bernilai positif dan negatif. Sebagaimana dijelaskan pada Tabel 
+4, hanya perusahaan AALI, LSIP, dan SMAR yang 
+memiliki jumlah EVA positif lebih banyak diban
+dingkan nilai EVA negatif. Kondisi ini menunjukkan 
+bahwa perusahaan secara mampu meningkatkan kinerjanya dalam menciptakan nilai perusahaan yang 
+bermanfaat bagi investor atau pihak-pihak terkait 
+yang berkepentingan (stakeholders). Sebaliknya, terdapat lima perusahaan yang menghasilkan nilai 
+EVA negatif lebih banyak dibandingkan nilai EVA 
+positif, bahkan perusahaan CPDW dan BTEK memiliki nilai EVA yang seluruhnya negatif. Hal ini 
+berarti lima perusahaan tersebut tidak mampu meningkatkan kinerja dalam menciptakan nilai perusahaan, bahkan menjadi nilai perusak (destroyer value) 
+dan menghabiskan modal yang diinvestasikan oleh 
+investor. 
+ 
+Tabel 4. Perkembangan Nilai EVA Sektor Pertanian 
+Periode 2005–2011 
+
+Emiten 
+AALI 
+LSIP 
+SMAR 
+TBLA 
+UNSP 
+CPDW 
+DSFI 
+BTEK 
+
+EVA Positif 
+
+EVA Negatif 
+
+7 
+7 
+6 
+2 
+3 
+0 
+2 
+0 
+
+0 
+0 
+1 
+5 
+4 
+7 
+5 
+7 
+
+Sumber: Indonesia Stock Exchange, 2013 
+ 
+Analisis Kinerja Berdasarkan MVA 
+
+ 
+Analisis MVA terhadap delapan perusahaan 
+menunjukkan hasil fluktuasi selama periode pengamatan dari tahun 2005 sampai dengan 2011. Sebagaimana dijelaskan dalam Tabel 5, sebanyak tujuh 
+perusahaan memiliki nilai mean positif yang berarti 
+sebagian besar data MVA perusahaan bernilai positif. 
+Hanya emiten UNSP yang memiliki nilai mean negatif. Terdapat lima perusahaan memiliki nilai standar 
+deviasi yang lebih besar daripada nilai mean. Kemudian, terdapat tujuh perusahaan yang memiliki JB lebih kecil dari dua dan semua perusahaan memiliki 
+probabalitas > 5%. 
+
+Tabel 3. Statistika Deskriptif Data EVA Sektor Pertanian Tahun 2005–2011 
+
+Emiten 
+AALI 
+LSIP 
+SMAR 
+TBLA 
+UNSP 
+CPDW 
+DSFI 
+BTEK 
+
+Mean 
+
+Standar Deviasi 
+
+Jarque-Bera Test 
+
+Probabilitas* 
+
+967146,9 
+267651,3 
+221661,3 
+-48280,83 
+-218239,9 
+-5267,63 
+-41810,61 
+-19000,89 
+
+537031,4 
+282206,4 
+440151,7 
+112080,6 
+361502,3 
+2750,35 
+40882,56 
+4770,404 
+
+0,7288 
+1,0312 
+0,4033 
+0,8502 
+1,4661 
+1,4016 
+0,5600 
+0,5797 
+
+0,6946 
+0,5971 
+0,8173 
+0,6536 
+0,4804 
+0,4962 
+0,7557 
+0,7483 
+
+Keterangan: *) Nilai P < 0,05 
+
+ 
+
+Berdasarkan pengelompokan nilai MVA, dirinci 
+jumlah nilai MVA setiap perusahaan yang bernilai 
+positif dan negatif. Terdapat lima perusahaan yang 
+memiliki jumlah MVA positif lebih banyak dibandingkan nilai MVA negatif. Kondisi ini menunjukkan bahwa perusahaan secara umum sebagian 
+mampu meningkatkan kekayaan pemegang saham 
+dari modal yang diinvestasikan. Terdapat tiga perusahaan yang menghasilkan nilai MVA negatif lebih 
+banyak dibandingkan nilai MVA positif. Hal ini 
+sebagaimana dijelaskan dalam Tabel 6. 
+ 
+Analisis Kinerja Berdasarkan Q-Tobin 
+
+ 
+Analisis Q-Tobin terhadap delapan perusahaan 
+menunjukkan hasil yang juga fluktuatif selama periode pengamatan dari tahun 2005 sampai dengan 
+2011. Sebanyak empat perusahaan memiliki nilai 
+mean q > 1 yang berarti sebagian besar data q empat 
+
+perusahaan tersebut lebih besar dari satu. Terdapat tujuh perusahaan memiliki nilai standar deviasi yang 
+lebih kecil daripada nilai mean. Hal ini berarti secara 
+umum data Q-Tobin baik karena tingkat penyimpangan penyebaran data lebih kecil dibandingkan nilai 
+mean. Kemudian, data sebagian besar perusahaan 
+berdistribusi normal, kecuali LSIP dan TBLA yang 
+tidak berdistribusi normal karena nilai JB lebih besar 
+dari duameskipun nilai probabilitasnya lebih besar 
+dari selang kepercayaan 5%. Hal ini sebagaimana 
+dijelaskan dalam Tabel 7. 
+
+Berdasarkan pengelompokkan nilai Q-Tobin, 
+terdapat lima perusahaan, yaitu LSIP, UNSP, TBLA, 
+CPDW, DSFI, dan BTEK yang memiliki nilai q < 1, 
+sedangkan tiga perusahaan lain, yaitu AALI, SMAR, 
+dan BTEK memiliki nilai q > 1. Tidak ada perusahaan yang memiliki nilai q = 1. Hasil Q-Tobin ini 
+menunjukkan bahwa sebagian besar saham perusahaan sektor pertanian undervalued, yang berarti manajemen kurang berhasil dalam mengelola asetnya 
+sehingga berdampak kepada potensi pertumbuhan investasi yang rendah. Hal ini sebagaimana dijelaskan 
+dalam Tabel 8. 
+ 
+Tabel 8. Perkembangan Nilai Q-Tobin Setiap Perusahaan Periode 2005–2011 
+
+Emiten 
+AALI 
+LSIP 
+SMAR 
+TBLA 
+UNSP 
+CPDW 
+
+q > 1 
+
+q < 1 
+
+q = 1 
+
+7 
+1 
+4 
+2 
+3 
+1 
+
+0 
+6 
+3 
+5 
+4 
+6 
+
+0 
+0 
+0 
+0 
+0 
+0 
+
+2 
+4 
+
+DSFI 
+BTEK 
+
+5 
+3 
+Sumber: Indonesia Stock Exchange, 2013 
+ 
+Analisis Pengaruh Variabel Kinerja Berbasis 
+Penciptaan Nilai dan Makroekonomi terhadap 
+Return Saham 
+
+0 
+0 
+
+ 
+
+Berdasarkan uji Chow dan uji Breusch-Pagan 
+LM, maka didapat model terbaik, yaitu Random 
+Effect Model (REM). Persamaan regresi model 
+adalah: 
+
+ 
+
+Return Saham = 0,144 + 0,006 EVARET + 0,065 
+MVARET + 0,275 Q-TobinRET + 1,526 Inflasi - 
+0,232 Nilai Tukar – 0,392 Dummy 
+
+ 
+Model REM yang dihasilkan dapat mengatasi 
+permasalahan dalam uji asumsi klasik, seperti heteroskedastisitas dan otokorelasi karena menggunakan 
+GLS (Generalized Least Square). Hasil model REM 
+tersebut menjelaskan bahwa nilai koefisien determinasi (R2) hanya sebesar 64,00%. Hal ini berarti bahwa 
+model regresi hanya bisa menjelaskan 64,00% tentang return saham, sedangkan sisanya sebesar 
+36,00% dijelaskan variabel lainnya. Dengan demikian 
+model regresi tersebut cukup baik. Hanya terdapat 
+
+dua variabel independen yang memiliki pengaruh 
+signifikan terhadap pergerakan return saham, yaitu 
+MVARET dan Q-TobinRET. Berdasarkan uji F, 
+menunjukkan probabilitas nilai F sebesar 0,000000. 
+Hal ini berarti variabel independen secara simultan 
+mempengaruhi return saham secara signifikan karena 
+nilai signifikansinya lebih kecil dari 0,05, seperti 
+terlihat dalam Tabel 9. 
+
+Terkait uji t, maka dijelaskan hubungan antara 
+masing-masing variabel inde-penden dengan variabel 
+dependen. Variabel EVARET memiliki probabilitas 
+0,476 dengan α = 5% serta koefisien 0,006. Hal ini 
+berarti bahwa variabel EVARET tidak berpengaruh 
+signifikan terhadap return saham. Hasil penelitian ini 
+tidak sejalan dengan hasil penelitian Bacidore et al. 
+(1997) yang menjelaskan bahwa EVARET memiliki 
+korelasi yang signifikan dengan return saham. Sebagian besar perusahaan-perusahaan yang diteliti (600 
+perusahaan) merupakan perusahaan-perusahaan besar 
+di Amerika Serikat yang masuk dalam Stern Stewart 
+Performance 1000 Database dan telah menerapkan metode EVA. Ismail (2011) menyatakan dalam 
+penelitannya bahwa EVA positif dan EVA negatif 
+memiliki hubungan tidak signifikan dengan return saham serta EVA kurang memadai digunakan sebagai 
+metode dalam memprediksi kinerja perusahaan. 
+
+Hasil EVARET yang memiliki pengaruh tidak 
+signifikan terhadap return saham disebabkan sebagian perusahaan memiliki pergerakan nilai EVA 
+berkebalikan dengan pergerakan return saham. Selain 
+itu, terdapat perusahaan memiliki pergerakan return 
+saham yang stagnan untuk beberapa periode, namun 
+memiliki pergerakan nilai EVA fluktuatif, seperti 
+yang terjadi pada emiten DSFI. Kondisi inilah yang 
+memperkuat bahwa return saham sebagian besar emiten sektor pertanian tidak dipengaruhi oleh EVA. 
+Faktor risiko usaha, tata kelola perusahaan, dan kapitalisasi pasar perusahaan-perusahaan sektor 
+pertanian yang beragam, sehingga membedakan 
+persepsi para investor terhadap kinerja saham perusahaan-perusahaan tersebut. 
+
+Tabel 9. Pengaruh Variabel Kinerja Berbasis Penciptaan Nilai dan Makroekonomi terhadap Return Saham Periode 
+Triwulanan 2005–2011 (Model REM) 
+
+Coefficient 
+
+Std. Error 
+
+0,006386 
+0,065299 
+0,275131 
+1,525901 
+-0,232004 
+-0,391727 
+0,143773 
+ 0,640013 
+
+0,008885 
+0,016394 
+0,088467 
+3,166910 
+2,069677 
+0,500709 
+0,308548 
+
+t-Statistic 
+
+0,718738 
+3,983217 
+3,109966 
+0,481826 
+-0,112097 
+-0,782344 
+0,465967 
+
+Probabilitas* 
+
+0,4757 
+0,0002 
+0,0031 
+0,6321 
+0,9112 
+0,4378 
+0,6433 
+
+Variabel 
+
+EVARET 
+MVARET 
+
+QTOBINRET 
+
+INFLASI 
+
+NILAITUKAR 
+
+DUMMY 
+
+C 
+
+ 
+
+R-squared 
+Prob (F-statistic) 0,000000 
+* Nilai P < 0,05 
+
+
+Variabel MVARET Berdasarkan model REM, 
+bahwa variabel MVARET memiliki probabilitas 0,000 
+dengan α = 5% serta koefisien 0,065. Hal ini berarti 
+variabel MVARET memiliki pengaruh signifikan 
+positif terhadap return saham. Hasil penelitian ini 
+selaras dengan hasil penelitian Irwansyah (2001) yang 
+menyatakan bahwa MVARET berpengaruh signifikan 
+terhadap return saham 20 perusahaan manufaktur dari 
+tahun 1996 sampai dengan 2000. 
+
+Perusahaan yang memiliki MVA positif cenderung menghasilkan return saham yang positif. Hal ini 
+sebagai respon pasar terhadap kinerja saham perusahaan yang memiliki nilai pasar ekuitas yang lebih 
+tinggi dibandingkan nilai buku ekuitas. Begitupun 
+sebaliknya terhadap perusahaan yang menghasilkan 
+nilai MVA negatif. Perusahaan yang dapat fokus terhadap bisnis utamanya biasanya menghasilkan MVA 
+positif, dan hal ini terbukti sebagaimana penelitian 
+Lehn & Makhija (1996). Irwansyah (2001) menyatakan bahwa investor di Indonesia sebelum melakukan investasi terlebih dahulu memperhatikan reaksi 
+pasar terhadap kinerja perusahaan. 
+
+Variabel Q-TobinRET memiliki probabilitas 
+0,003 serta koefisien 0,275. Hasil ini menjelaskan 
+bahwa Q-TobinRET memiliki pengaruh signifikan 
+positif terhadap return saham. Vadiei & Hosseini 
+(2012) menjelaskan penelitiannya terhadap 120 
+perusahaan yang terdaftar di Teheran Stock Exchange 
+bahwa Q-Tobin memiliki hubungan yang signifikan 
+terhadap return saham. Perusahaan-perusahaan yang 
+mampu mengelola aset yang memadai dalam bentuk 
+peningkatan usaha, maka respon investor terhadap kinerja saham perusahaan positif. Smithers & Wright 
+(2000) menyatakan bahwa semakin tinggi kinerja perusahaan dalam menghasilkan profit, berarti perusahaan dapat meningkatkan kekayaan investor. Harney & Tower (2003) serta Sum (2013) menyatakan 
+dalam penelitiannya bahwa perubahan nilai Q-Tobin 
+menjadi penyebab return saham dan dapat memprediksi return saham kedepannya. 
+
+Variabel inflasi memiliki probabilitas 0,632 serta 
+koefisien 1,525. Hal ini berarti bahwa inflasi tidak 
+berpengaruh signifikan terhadap return saham. Hasil 
+penelitian ini tidak sesuai dengan penelitian Butt el al. 
+(2010). Janor et al. (2010) menjelaskan hasil penelitian di Malaysia bahwa inflasi tidak memiliki hubungan signifikan dengan return saham disebabkan 
+persepsi investor di negara-negara berkembang berbeda dengan negara-negara maju dalam menentukan 
+pergerakan return saham. Tidak hanya ditentukan 
+oleh kekuatan penawaran dan permintaan harga saham yang dapat menentukan return saham, tetapi 
+juga dari variabel lainnya seperti kebijakan moneter 
+
+suatu negara, faktor psikologis pasar, kondisi politik 
+dan sosial, dan lain sebagainya. 
+
+Variabel nilai tukar memiliki probabilitas 0,911 
+serta koefisien -0,232. Hal ini berarti bahwa variabel 
+nilai tukar tidak berpengaruh signifikan terhadap return saham. Sodikin (2007) memperkuat hasil penelitian ini bahwa untuk industri sektor pertanian, nilai tukar memiliki pengaruh yang lemah terhadap return saham. 
+
+Beragamnya karakteristik usaha dan produk 
+menyebabkan nilai tukar tidak berpengaruh terhadap 
+return saham. Bagi perusahaan yang orientasi penjualannya tidak ekspor serta input produksinya mengandalkan dari luar, seperti bahan baku dan bahan 
+pendukung (bahan bakar minyak), maka apresiasi 
+nilai rupiah menguntungkan perusahaan dari sisi 
+efisiensi produksi sehingga dapat berdaya saing produknya di pasaran. Hal ini sesuai dengan hasil penelitian Masyami et al. (2004) di Singapura. Namun demikian, sebagian perusahaan lainnya, seperti subsektor 
+perkebunan yang memiliki orientasi ekspor dan dominan produknya ditentukan oleh harga dunia dalam 
+bentuk dollar, maka perubahan nilai tukar mempengaruhi hasil penjualan dan daya saing mereka di 
+pasaran, sehingga berpengaruh pula kepada kinerja 
+saham. Variabel dummy krisis memiliki probabilitas 
+0,438 serta koefisien -0,392. Hasil ini menunjukkan bahwa variabel dummy krisis tidak berpengaruh 
+signifikan terhadap return saham. Ali & Afzal (2012) 
+menjelaskan hasil penelitiannya bahwa krisis finansial 
+global tidak berpengaruh terhadap return saham di 
+pasar modal Pakistan. 
+
+Pada saat krisis finansial global pada tahun 2008 
+memang terjadi perpindahan cukup besar aset dan 
+modal oleh investor asing dari Indonesia ke negara 
+yang relatif aman sehingga mempengaruhi kinerja 
+saham di bursa Indonesia. Andati (2012) menjelaskan 
+bahwa sebagian besar perpindahan aset dan modal 
+dari Indonesia secara dominan terjadi pada perusahaan-perusahaan subsektor perkebunan dikarenakan 
+perusahaan-perusahaan tersebut memiliki kapitalisasi 
+modal yang besar. Investor asing lebih memilih perusahaan-perusahaan besar karena sudah mengenal 
+sehingga menghindari informasi asimetris (Chandra, 
+2010). Hanya saja tidak semua perusahaan sektor pertanian merupakan emiten besar dan terkenal, terutama 
+emiten di subsektor selain subsektor perkebunan yang 
+nilai kepemilikan investasi asing tidak terlalu besar sehingga dimungkinkan tidak berpengaruh dengan adanya krisis keuangan global, selain pertimbangan faktor-faktor lain yang mengesampingkan krisis keuangan yang terjadi. 
+ 
+
+ 
+
+
+Implikasi Manajerial 
+
+ 
+
+Berdasarkan hasil analisis di atas, maka implikasinya secara manajerial bagi investor adalah hasil analisis EVA, MVA, dan Q-Tobin menunjukkan bahwa 
+secara individual terlihat perusahaan mana saja yang 
+optimal menghasilkan nilai tambah bagi investor dalam mengelola modal yang diinvestasikan dan aset. 
+Hasil ini dapat dijadikan acuan bagi investor untuk 
+menilai performa perusahaan tersebut dan menjadi 
+acuan untuk memutuskan pilahan investasi terhadap 
+perusahaan-perusahaan tersebut. Dari sisi pengaruh 
+terhadap return saham, ternyata hanya Q-Tobin yang 
+berpengaruh secara signifikan terhadap return saham 
+yang menjadi masukan bagi investor bahwa dalam 
+menentukan nilai return atas investasi yang dilakukan. 
+Implikasi manajerial bagi perusahaan diantaranya bahwa jika perusahaan ingin meningkatkan nilai 
+EVA, perusahaan dapat memilih strategi dengan (i) 
+meningkatkan pendapatan operasional dengan kebutuhan modal yang minimal, (ii) menggunakan lebih 
+sedikit modal untuk tingkat operasi perusahaan yang 
+sama, (iii) serta menginvestasikan dalam beberapa 
+proyek yang menghasilkan keuntungan yang lebih 
+besar dibandingkan dengan biaya modal dengan 
+menjalankan strategi leverage (Chen & Dodd, 1997). 
+Se-lain itu, peningkatan nilai MVA terfokus pada 
+nilai pasar ekuitas yang mecerminkan nilai kekayaan 
+pemegang saham. Lehn & Makhija (1996) menjelaskan secara empiris, bahwa perusahaan yang fokus terhadap aktivitas bisnis akan memberikan hasil MVA 
+yang lebih tinggi. Kemudian perusahaan dapat menghasilkan nilai q yang tinggi jika perusahaan mampu mengelola aset dan pembiayaan aset, termasuk 
+modal kerja yang lebih agresif. 
+
+Terkait implikasi manajerial oleh regulator, 
+maka dengan penerapan metode kinerja berbasis 
+penciptaan nilai yang belum optimal di sektor 
+pertanian, diharapkan menjadi masukan bagi regulator, seperti Otoritas Jasa Keungan (OJK) dan Bursa 
+Efek Indonesia (BEI) untuk melakukan kajian 
+perumusan kebijakan termasuk penyiapan infrastruktur yang mengatur penerapan metode ini di seluruh emiten dengan mempertimbangan cost and benefit. Upaya ini harus melibatkan dalam bentuk koordinasi dengan pihak berkepentingan dan regulator lainnya. Implikasi berikutnya, dengan hasil pemodelan 
+REM menjelaskan bahwa volatilitas return saham 
+lebih dipengaruhi oleh MVARET dan Q-TobinRET 
+dibandingkan dengan EVARET serta faktor makroekonomi termasuk krisis finansial global. Hasil ini 
+akan menjadi masukan bagi OJK untuk merumuskan kebijakan yang lebih tepat dalam menjaga 
+dan meningkatkan kinerja saham emiten sektor 
+pertanian dengan memperhatikan faktor-faktor yeng 
+mempengaruhinya. 
+
+ 
+
+SIMPULAN DAN SARAN 
+
+ 
+Simpulan 
+
+ 
+Berdasarkan hasil pembahasan di atas, maka 
+
+dapat disimpulkan sebagai berikut: 
+1. Sebagian besar perusahaan tersebut menghasilkan 
+nilai EVA negatif lebih banyak dibandingkan nilai 
+EVA positif. Hasil MVA menghasilkan sebaliknya, ternyata sebagian besar perusahaan menghasilkan nilai MVA positif lebih banyak diban-
+dingkan nilai MVA negatif. Kemudian nilai QTobin yang menghasilkan hasil relatif sama dengan EVA, bahwa sebagian besar perusahaan 
+menghasilkan nilai q < 1 lebih banyak dibandingkan nilai q > 1. Perbedaan hasil ketiga metode tersebut tidak sesuai dengan pernyataan dari Fortune dalam Chung & Pruitt (1994) yang menjelaskan bahwa hasil ketiga metode tersebut 
+menghasilkan nilai yang relatif sama. Perbedaan 
+hasil analisis tersebut lebih disebabkan perbedaan 
+struktur modal dan aset perusahaan, kemampuan 
+manajemen perusahaan, kapasitas usaha, karakteristik produk, dan risiko usaha. 
+
+2. Variabel MVARET dan Q-TobinRET yang memiliki pengaruh signifikan terhadap return saham, 
+sedangkan EVARET, faktor makroekonomi dan 
+krisis keuangan global tidak berpengaruh secara 
+signifikan terhadap return saham. 
+
+3. Implikasi manajerial hasil analisis ini bagi investor 
+bisa menjadi masukan untuk mengevaluasi dan 
+memilih alternatif investasi terhadap beberapa 
+perusahaan sektor pertanian berdasarkan hasil 
+analisis EVA, MVA, dan Q-Tobin. Selain itu 
+dengan hasil pemodelan REM juga mempengaruhi keputusan investor bahwa faktor-faktor lain 
+selain variabel MVARET dan Q-TobinRET menjadi dasar utama penilaian investor terhadap 
+kinerja saham perusahaan sektor pertanian. Hasil 
+analisis EVA, MVA, dan Q-Tobin memberikan 
+petunjuk bagi perusahaan agar melakukan langkah 
+strategis dengan memperhatikan unsur-unsur utama ketiga metode tersebut. Selanjutnya bagi OJK 
+bisa melakukan kajian terhadap kemungkinan 
+penggunaan ketiga alat analisis kinerja tersebut 
+dengan berkoordinasi dengan pihak-pihak terkait, 
+termasuk kebijakan yang lebih tepat terhadap 
+faktor-faktor yang mempengaruhi return saham. 
+
+ 

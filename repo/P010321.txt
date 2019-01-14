@@ -1,0 +1,427 @@
+﻿Abstrak
+Gen Melanoma antigen-1 (Mage-1) diekspresikan oleh sel spermatogonia jaringan testis normal dan
+diekspresikan 60−80% oleh liver penderita karsinoma hepatoseluler (KH). Ekspresi Mage-1 merupakan penanda
+untuk diagnosis KH serta prediktor kanker lambung dan kolorektal. Isolasi messenger ribonucleid acid (mRNA)
+Mage-1 dari jaringan liver penderita KH sulit dilakukan sehingga dilakukan isolasi mRNA Mage-1 dari jaringan
+yang mengekspresikan Mage-1, yaitu jaringan testis normal. Penelitian ini merupakan penelitian eksploratif
+yang dilakukan di Lembaga Penyakit Tropis Universitas Airlangga, Agustus 2006–Agustus 2008. Tujuan untuk
+mengkloning seluruh area koding gen Mage-1 dari jaringan testis pada vektor dan mendapatkan plamid
+rekombinan Mage-1. Isolasi seluruh area koding gen Mage-1 dilakukan dengan teknik semi-nested polymerase
+chain reaction (PCR). Seluruh area koding gen Mage-1 diisolasi, kemudian dikloningkan ke plasmid pET101/DTOPO
+dan ditransformasikan ke Escherichia coli (E. coli) Top10 untuk mendapatkan plasmid rekombinan Mage-1.
+Panjang pET101/D-TOPO adalah 5.753 bp dan area koding gen penyandi Mage-1 927 bp sehingga total panjang
+plasmid rekombinan 6.680 bp (5.753+927). Hasil analisis restriksi dengan EcoRV menunjukkan pita 4.230 dan
+2.450 (4.230+2.450=6.680). Analisis sekuens gen Mage-1 dari testis mempunyai homologi 100% dengan sekuens
+M77481 serta NM_004988, dan 99% dengan BC01755. Simpulan, berdasarkan hasil analisis restriksi dan sekuens
+maka diperoleh plasmid rekombinan pETGM/MAGE1-Testis yang mengandung seluruh area koding gen Mage-1
+dan dapat digunakan untuk pengembangan kit diagnostik karsinoma hepatoseluler. [MKB. 2015;47(4):199–206]
+Kata kunci: Jaringan testis, karsinoma hepatoseluler, kloning, melanoma antigen-1, pET101/D-TOPO
+
+Pendahuluan
+Kondisi lingkungan merupakan aspek
+yang sangat penting dalam budidaya tanaman.
+Lingkungan harus dijaga agar berada atau
+mendekati kondisi optimum bagi tanaman yang
+dibudidayakan. Penggunaan rumah tanaman dan
+hidroponik merupakan salah satu metode budidaya
+tanaman dalam lingkungan yang terkendali
+(Suhardiyanto 2009). Teknologi ini memungkinkan
+produksi secara lebih terencana, baik dari segi
+kuantitas, kualitas, maupun waktu panen.
+Indonesia termasuk ke dalam kawasan tropika
+basah yang menerima radiasi matahari sangat tinggi. Radiasi matahari yang tinggi menyebabkan
+suhu di dalam rumah tanaman juga menjadi tinggi.
+Tingginya suhu udara di dalam rumah tanaman
+dapat mencapai tingkat yang dapat memicu stress
+pada tanaman (Suhardiyanto 2009). Menurut
+Kozai et al. (1985) dalam Suhardiyanto (2009),
+pengendalian suhu udara di dalam rumah tanaman
+secara mekanik membutuhkan energi yang sangat
+besar.
+Sejak tahun 1990-an, telah dikembangkan
+sistem pendinginan terbatas (zone cooling) dimana
+pendinginan tidak dilakukan terhadap keseluruhan
+volume udara di dalam rumah tanaman, melainkan
+terhadap daerah sekitar tanaman yang paling
+membutuhkan (Suhardiyanto 2009). Dalam budidaya
+tanaman secara hidroponik, pendinginan larutan
+nutrisi lebih tepat dibandingkan dengan pendinginan
+udara. Panas jenis air lebih tinggi daripada udara
+sehingga larutan yang didinginkan akan bertahan
+pada suhu rendah lebih lama dibandingkan dengan
+udara (Suhardiyanto et al. 2007).
+Sistem pendinginan terbatas di daerah tropika
+basah belum banyak dikembangkan. Beberapa
+pengembangan sistem pendinginan terbatas di
+daerah tropika basah yang telah dilakukan, yaitu
+pengembangan sistem pendinginan terbatas daerah
+perakaran secara NFT (Nutrient Film Technique)
+untuk tanaman selada (Chadirin 1991) dan tomat
+(Cipta 2007), serta pendinginan terbatas daerah
+perakaran secara aeroponik untuk tanaman selada
+(He et al. 2001; Jie and Kong 1998) dan kentang
+(Sumarni 2013).
+Kajian analisis termal telah dilakukan terhadap
+beberapa sistem pendinginan terbatas dengan
+pendinginan larutan nutrisi. Randiniaty (2007)
+melakukan analisis termal untuk memprediksi
+distribusi suhu larutan nutrisi pada bedeng tanaman
+dalam sistem NFT. Suhardiyanto et al. (2007)
+melakukan analisis pindah panas pada pipa vertikal
+yang mengalirkan air dari tangki yang dipendam
+dalam tanah untuk mendinginkan larutan nutrisi
+menuju pipa utama irigasi. Sumarni et al. (2013)
+melakukan simulasi CFD (Computational Fluid
+Dynamic) untuk memprediksi sebaran suhu di
+chamber pada sistem aeroponik yang didinginkan
+dengan larutan nutrisi yang disemprotkan melalui
+nozzel (Sumarni et al. 2013). Dalam kajian analisis
+termal yang dilakukan di atas, sifat fisik larutan
+nutrisi diasumsikan sama dengan air.
+Analisis pindah panas dari lingkungan menuju
+larutan nutrisi yang mengalir di dalam pipa utama
+dalam sistem hidroponik substrat perlu dilakukan
+sebagai dasar perencanaan pendinginan terbatas
+daerah perakaran. Prinsip-prinsip pindah panas dan
+mekanika fluida digunakan untuk memprediksi suhu
+larutan nutrisi selama dialirkan di dalam pipa. Tujuan
+dari penelitian ini adalah untuk melakukan analisis
+pindah panas pada pipa utama sistem hidroponik
+substrat dengan pendinginan larutan nutrisi,
+melakukan validasi model pindah panas melalui
+perbandingan hasil pengukuran dan perhitungan,
+dan mengembangkan panduan dalam menentukan
+suhu larutan nutrisi pada posisi inlet.
+Bahan dan Metode
+Waktu dan Tempat
+Penelitian dilakukan di rumah tanaman tipe
+modified standard peak Laboratorium Lapangan
+Siswadhi Soepardjo, Departemen Teknik Mesin dan
+Biosistem, Fakultas Teknologi Pertanian, Institut
+Pertanian Bogor. Rumah tanaman berukuran 6 m x
+12 m yang dibangun membujur ke arah utara-selatan.
+Dindingnya terbuat dari kawat kassa dengan mesh
+1 mm2. Lokasi penelitian berada di dataran rendah
+dengan ketinggian 250 dpl. Pelaksanaan penelitian
+dilakukan pada bulan Juni–Agustus 2013.
+Bahan dan Alat
+Bahan dan alat yang digunakan meliputi
+air sebagai pengganti larutan nutrisi, sistem
+pendinginan larutan nutrisi, sistem irigasi tetes, dan
+sistem akuisisi data. Sistem pendinginan larutan
+nutrisi meliputi pendingin Elitech tipe STC 8080H
+dan pompa celup Wasser tipe WD 101 dengan
+kapasitas maksimal 70 liter menit-1 dan total head
+6 m. Sistem irigasi tetes meliputi bak penampung
+larutan nutrisi, pompa listrik Panasonic GA 130JAK
+(kapasitas 32 liter menit-1, daya hisap 9 m, daya
+dorong 18 meter, dan daya listrik 125 W), pipa utama
+dari PVC ukuran ¾ inch, pipa lateral, dan emitter.
+Alat ukur yang digunakan meliputi termometer bola
+basah bola kering, termokopel dan hybrid recorder
+Yokogawa tipe MV Advance 1000, weather station
+Vantage Pro 2, dan flow meter Inline tipe panel.
+Prosedur Pengambilan Data
+Pengukuran dilakukan terhadap pipa utama
+yang merupakan bagian dari sistem irigasi tetes.
+Pipa utama yang digunakan adalah pipa PVC
+berukuran ¾ inch dengan panjang 5 meter. Insulasi
+yang digunakan adalah busa yang telah diukur
+konduktivitas termalnya dengan menggunakan
+thermal conductivity meter. Konduktivitas termal
+dari pipa PVC menurut Harper (2006) berada
+pada kisaran 0.14-0.19 W m-1 K-1. Pengukuran
+dilakukan mulai dari titik 0 meter hingga titik 5 m
+pipa utama dengan jarak antar titik sebesar 1 m
+sehingga terdapat 6 titik di sepanjang pipa utama.
+Titik pengukuran dinyatakan sebagai jarak relatif
+terhadap ujung hilir pipa (x/L = 1.0), dimana x
+adalah jarak titik pengukuran terhadap hilir pipa (m)
+dan L adalah panjang pipa utama (m). Pada setiap
+titik diukur suhu larutan nutrisi, suhu dinding dalam
+pipa, suhu dinding luar pipa, dan suhu bagian luar
+insulasi. Debit air diukur ketika air masuk dan keluar
+dari pipa utama dengan menggunakan flow meter.
+Pengukuran dilakukan pada pukul 7.00 – 17.00
+pada tanggal 19 Agustus 2013. Pengambilan data dilakukan setiap 30 menit. Suhu input larutan
+nutrisi berkisar antara 8 - 25 OC. Besarnya debit
+diatur dengan menggunakan katup yang dipasang
+sebelum pipa utama. Suhu udara, kelembaban
+udara, dan radiasi matahari diukur sepanjang hari.
+Analisis Pindah Panas
+Analisis pindah panas dilakukan terhadap aliran
+air yang melalui pipa utama. Dalam penelitian ini
+diambil beberapa asumsi, yaitu: (1) sifat fisik larutan
+nutrisi dianggap sama dengan air; (2) perpindahan
+panas yang terjadi hanya melalui proses konveksi
+dan konduksi dengan batas sistem adalah
+dinding paling luar saluran larutan nutrisi; dan (3)
+perpindahan panas terjadi pada satu dimensi ke
+arah radial dalam keadaan steady.
+Aliran kalor menyeluruh sebagai hasil gabungan
+proses konduksi dan konveksi pada kondisi steady
+akan menghasilkan suatu tahanan termal (Çengel
+dan Turner 2011). Persamaan total tahanan termal
+tersebut adalah sebagai berikut:
+
+dimana Ri adalah tahanan termal karena pindah
+panas secara konveksi antara fluida di dalam
+saluran dan dinding saluran bagian dalam (W-1),
+Rwall adalah tahanan panas dari dinding saluran
+(W-1), dan Ro adalah tahanan panas karena pindah
+panas secara konveksi antara dinding saluran
+bagian luar dan fluida di luar saluran (W-1).
+Dalam penelitian ini, sistem dibatasi sampai
+dengan permukaan insulasi. Oleh karena itu
+diadakan pengukuran di permukaan tersebut.
+Apabila pipa utama akan diberi insulasi, maka Rwall
+terdiri dari tahanan termal dari dinding pipa dan
+dinding insulasi sehingga persamaannya menjadi sebagai berikut:
+
+
+dimana A1 = πD1L, h adalah koefisien pindah panas
+konveksi (W m-2 K-1), kp adalah konduktivitas termal
+pipa (W m-1 K-1), ki adalah konduktivitas termal
+bahan insulasi (W m-1 K-1), L adalah panjang pipa
+(m), D1 adalah diameter pipa bagian dalam (m), D2
+adalah diameter pipa bagian luar (m), dan D3 adalah
+diameter pipa ditambah dengan insulasi (m).
+Laju perpindahan panas kemudian dapat
+diketahui dengan menggunakan persamaan:
+
+dimana U adalah overall heat transfer coefficient
+yang satuannya W m-2 (Çengel, 2011), DT adalah
+perbedaan suhu menyeluruh (K), dan A adalah luas
+penampang benda yang tegak lurus terhadap aliran
+panas (m2). Dengan demikian, overall heat transfer
+coefficient (U) dapat dicari dengan menggunakan
+persamaan berikut:
+
+Bilangan Reynold perlu diketahui untuk
+menentukan jenis aliran suatu fluida. Bilangan
+Reynold (Re) dapat dicari dengan menggunakan
+persamaan:
+
+dimana ρ adalah massa jenis fluida (kg m-3), V adalah
+kecepatan aliran fluida (m s-1), Dh adalah diameter
+hidrolik (m), dan μ adalah viskositas dinamik fluida
+(kg m-1 s-1).
+Hukum pertama termodinamika secara
+sederhana dapat ditulis sebagai berikut:
+
+dimana Qin adalah jumlah panas yang masuk ke
+dalam sistem (Watt) dan Qout adalah jumlah panas
+yang keluar dari dalam sistem (Watt).
+Panas yang disimpan oleh air selama mengalir
+dapat dinyatakan dengan persamaan:
+
+dimana adalah laju aliran massa (kg s-1) dan Cp
+adalah kalor jenis (J kg‑1 OC-1). Dengan demikian,
+persamaan di atas dapat dikembangkan menjadi
+(Holman, 2009):
+
+Persamaan di atas dapat disederhanakan
+menjadi:
+
+dimana To
+’ adalah suhu larutan nutrisi yang keluar
+dari pipa utama hasil perhitungan (OC), Td adalah
+suhu dinding pipa utama atau insulasi bagian luar
+(OC), dan Tn adalah suhu larutan nutrisi (OC).
+Menurut Kreith (2010), untuk aliran di dalam
+pipa atau saluran yang panjang, panjang-penting
+dalam bilangan Nusselt (Nu) adalah garis tengah
+atau hidroliknya atau Dh, yang berdefinisi:
+
+
+
+
+Hasil dan Pembahasan
+Perubahan Suhu Air di dalam Pipa
+Data pengukuran yang diolah adalah data
+pengukuran pada hari cerah pada tanggal 19
+Agustus 2013. Radiasi matahari tertinggi terjadi
+pada pukul 13.00 WIB yaitu 912 W m-2 dan menjadi
+nol pada pukul 18.00 WIB. Suhu udara di dalam
+rumah tanaman tertinggi terjadi pada pukul 13.30
+WIB yaitu 35.5 OC dan suhu udara di luar rumah
+tanaman tertinggi terjadi pada pukul 14.30 WIB yaitu
+33.5 OC. Perbedaan waktu tercapainya suhu udara
+maksimum di dalam dan di luar rumah tanaman ini
+disebabkan karena kelembaban udara di dalam
+rumah tanaman pada pukul 13.00-14.30 WIB
+konstan dan lebih tinggi (81%) jika dibandingkan kelembaban udara di luar rumah tanaman yang
+menurun dan lebih rendah (55-44%). Suhu udara
+di dalam rumah tanaman rata-rata lebih tinggi 2 OC
+daripada suhu udara di luar rumah tanaman.
+Air yang dialirkan di dalam pipa utama sistem
+hidroponik mengalami kenaikan suhu yang terjadi
+akibat proses pindah panas dari lingkungan menuju
+air. Faktor lingkungan yang mempengaruhi proses
+pindah panas tersebut adalah udara di dalam rumah
+tanaman dan lantai rumah tanaman. Kenaikan suhu
+rata-rata pada x/L = 0.2 adalah 0.40 OC, pada x/L =
+0.4 adalah 0.42 OC, pada x/L = 0.6 adalah 0.54 OC,
+pada x/L = 0.8 adalah 0.64 OC, dan pada x/L = 1.0
+adalah 1.25 OC. Dari pukul 06.00 WIB sampai pukul
+08.00 WIB terjadi kenaikan suhu yang cukup nyata
+pada setiap titik pengukuran. Baik suhu maupun
+kelembaban udara di dalam rumah tanaman juga
+mengalami kenaikan yang cukup nyata. Namun,
+kenaikan suhu dan kelembaban ini tidak merata
+di dalam rumah tanaman. Titik pengukuran x/L
+= 1.0 merupakan titik pengukuran dengan ratarata
+kenaikan suhu air yang paling tinggi karena
+posisinya berada di timur sehingga menerima
+radiasi matahari lebih besar daripada bagian lain
+di dalam rumah tanaman. Kenaikan suhu air dapat
+dilihat pada Gambar 1.
+
+Laju Perpindahan Panas di Sepanjang Pipa
+Utama
+
+Hasil perhitungan laju perpindahan panas
+di sepanjang pipa ditunjukkan pada Gambar 2.
+Dari gambar tersebut dapat dilihat bahwa laju
+perpindahan panas semakin meningkat dari
+x/L = 0.2 ke x/L = 1.0 yaitu 7.30-41.58 W. Hal ini
+disebabkan karena tahanan termal yang semakin
+menurun seiring dengan meningkatnya panjang
+pipa yang dilalui aliran air. Laju perpindahan panas
+ini diukur pada debit aliran sebesar 0.00025 m3 s-1.
+Debit aliran larutan nutrisi sebelum dan sesudah
+memasuki pipa utama besarnya sama sehingga
+dapat dipastikan tidak terjadi penurunan tekanan.
+Penurunan tekanan sebetulnya selalu terjadi dalam
+setiap aliran fluida di dalam pipa. Karena nilai
+penurunan tekanan ini sangat kecil dan penurunan
+tekanan dapat diabaikan, aliran dianggap steady.
+
+
+Validasi Model Pindah Panas
+Validasi model pindah panas pada penelitian
+ini dilakukan dengan metode analisis regresi linier.
+Suhu air hasil prediksi dan hasil pengukuran diplot
+untuk mendapatkan hubungan linier antara kedua
+variabel tersebut. Kemudian, garis linier yang
+terbentuk dibandingkan dengan garis y = x. Prediksi
+suhu air semakin akurat jika garis linier tersebut
+semakin mendekati garis y = x atau nilai gradien dari persamaan regresi linier tersebut mendekati satu
+sedangkan intersepnya mendekati nol. Koefisien
+determinasi (R2) yang dihasilkan dapat digunakan
+untuk menunjukkan tingkat keeratan korelasi antara
+hasil perhitungan dengan hasil pengukuran. Nilai
+maksimum R2 adalah 1.
+Validasi model pindah panas dilakukan pada x/L
+= 0.2 hingga x/L = 1.0. Plot data hasil perhitungan
+dan hasil pengukuran suhu air dan garis regresi
+linier yang dihasilkan untuk keseluruhan posisi
+pada pipa utama dapat dilihat pada Gambar 3 dan
+ikhtisar garis regresi linier per titik serta keseluruhan
+dapat dilihat pada Tabel 2. Secara umum, gradien
+garis regresi yang diperoleh mendekati satu dan
+intersepnya mendekati nol. Koefisien determinasi
+yang dihasilkan juga mendekati 1. Hal ini
+menunjukkan bahwa model pindah panas yang
+dikembangkan akurat dalam memprediksi suhu air
+yang keluar dari pipa utama. Model tersebut dapat
+digunakan untuk perencanaan sistem pendinginan
+larutan nutrisi untuk hidroponik substrat.
+Tabel 2 menunjukkan bahwa koefisien
+determinasi cenderung semakin menurun ketika
+jarak titik pengukuran dari posisi inlet aliran air
+semakin jauh. Hal ini dapat disebabkan karena nilai
+konduktivitas termal dari pipa PVC yang diambil dari
+literatur lebih rendah daripada nilai konduktivitas
+termal pipa PVC yang digunakan pada saat
+penelitian. Selain itu, adanya bagian pipa yang tidak
+tertutup insulasi dengan sempurna terutama pada bagian sambungan insulasi sehingga pindah panas
+yang terjadi lebih besar daripada yang seharusnya
+juga dapat menjadi penyebab terjadinya hal
+tersebut.
+Penentuan Suhu Larutan Nutrisi pada Posisi
+Inlet
+Model pindah panas digunakan untuk
+perencanaan pendinginan terhadap larutan nutrisi
+agar pada posisi outlet pipa utama diperoleh suhu
+output yang optimum bagi tanaman. Tanaman yang
+akan digunakan sebagai contoh adalah tanaman
+kentang. Menurut Hancock et al. (2013), suhu siang
+hari yang optimum bagi produktivitas tanaman
+kentang berada pada kisaran 14-22oC. Suhu larutan
+nutrisi pada posisi outlet dari pipa utama ditentukan
+dari kisaran suhu optimum tersebut yaitu 20oC.
+Suhu dinding pipa ditentukan berdasarkan suhu
+rata-rata dinding pipa selama pengukuran pada
+tanggal 19 Agustus 2013, yaitu sebesar 33oC. Pada
+perancangan ini digunakan pipa PVC berdiameter
+¾ inch yang biasa digunakan sebagai pipa utama
+pada sistem irigasi untuk hidroponik. Debit aliran
+larutan nutrisi untuk perancangan ditetapkan 0.163
+liter detik-1 per 100 m2 karena menurut Muro dan
+Lamsfus (1997) aplikasi penggunaan air untuk
+irigasi tetes pada rumah tanaman berada pada
+kisaran 0.068-0.163 liter detik-1 per 100 m2. Rumah
+tanaman yang digunakan untuk budidaya tanaman
+kentang diasumsikan memiliki luas 100 m2 sehingga
+debitnya menjadi 0.163 liter detik-1. Panjang pipa
+utama ditentukan sebesar 20 m. Berdasarkan
+asumsi dan dimensi rancangan sistem hidroponik
+dengan pendinginan larutan nutrisi tersebut
+kemudian dilakukan penentuan suhu larutan nutrisi
+pada posisi inlet dari pipa utama sistem hidroponik.
+Rincian data input untuk perancangan ditunjukkan
+pada Tabel 3.
+Sebagaimana dapat dilihat pada Gambar 4,
+untuk memperoleh suhu 20oC pada jarak 20 meter
+diperlukan suhu 18.059oC tanpa insulasi. Jika
+diberi insulasi, suhu larutan nutrisi pada posisi inlet
+dapat lebih tinggi daripada pada pipa yang tidak
+diberi insulasi sehingga tidak perlu didinginkan
+sampai suhu yang terlalu rendah. Suhu larutan
+nutrisi di sepanjang pipa yang diberi insulasi akan
+lebih seragam sehingga seluruh tanaman kentang
+di sepanjang pipa utama dapat memperoleh suhu
+yang lebih seragam.
+Untuk mencapai suhu larutan nutrisi 20oC pada
+posisi outlet dari pipa 20 m insulasi glass wool
+dengan ketebalan 1, 2, dan 3 cm, rock wool dengan
+ketebalan 1, 2, dan 3 cm, serta cotton wool dengan
+ketebalan 1, 2, dan 3 cm maka suhu larutan nutrisi
+pada posisi inlet masing-masing adalah 19.74,
+19.85, dan 19.88oC, 19.72, 19.83, dan 19.87oC,
+serta 19.81, 19.89, dan 19.91oC. Dapat dilihat bahwa
+semakin tebal insulasi semakin kecil perpindahan
+panas yang terjadi dan semakin kecil kenaikan suhu
+atau semakin seragam. Akan tetapi penambahan
+ketebalan ini menimbulkan konsekuensi teknis
+dan biaya. Hal ini karena menurut Cengel dan
+Turner (2011), ketebalan insulasi memang akan
+meningkatkan resistansi termal konduksi dari
+bahan insulasi namun semakin tebal insulasi
+tahanan termal konveksi akan menurun karena luas
+permukaan bagian luar insulasi semakin besar yang
+menyebabkan perpindahan panas secara konveksi
+juga semakin tinggi.
+Simpulan
+Berdasarkan analisis pindah panas diketahui
+bahwa perubahan suhu air di sepanjang pipa
+bervariasi yaitu antara 0.21-0.25oC dengan ratarata
+laju perpindahan panas bervariasi yaitu antara
+7.30 W sampai 41.58 W. Hasil validasi menunjukkan
+bahwa model pindah panas yang dikembangkan
+dapat digunakan untuk memprediksi suhu air pada
+posisi outlet dari pipa utama sebelum masuk ke
+dalam pipa lateral pada jaringan irigasi tetes untuk
+hidroponik substrat di dalam rumah tanaman. Hasil
+simulasi menunjukkan bahwa untuk mendapatkan
+suhu larutan nutrisi 20oC pada posisi outlet dari pipa
+utama berbahan PVC ukuran ¾ inch tanpa insulasi
+dengan panjang pipa 20 m maka suhu larutan nutrisi
+pada posisi outlet harus 18.06oC. Suhu larutan
+nutrisi pada posisi inlet dapat lebih tinggi dengan
+mengunakan insulasi sehingga mengurangi beban
+pendinginan. Pipa utama sistem hidroponik dengan
+pendinginan larutan nutrisi sebaiknya diberi insulasi
+yang tepat dengan ketebalan yang optimum agar
+suhu di sepanjang pipa seragam.

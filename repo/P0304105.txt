@@ -1,0 +1,68 @@
+﻿Distribusi three-parametergeneralized F ( , , ) merupakan salah satu
+anggota dari distribusi kontinu yang memiliki tiga parameter dimana m1> 0, m2>
+0, dan > 0, dengan α disebut sebagai parameter skala serta m1 dan m2 disebut
+sebagai parameter bentuk. Distribusi three-parametergeneralized F adalah
+perumuman dari distribusi F.Pada penelitian ini, membahas lebih dalam mengenai
+karakteristik penduga parameter distribusithree-parametergeneralized F ( , =
+1, ) dengan menggunakan metode PWMyang meliputi sifat tak bias, varians
+minimum dan konsisten. Berdasarkan hasil yang diperoleh menunjukkan bahwa
+penduga-penduga dengan metodeprobability weighted moment memenuhi sifat
+tak bias, varians minimum dan konsisten.
+Kata kunci : Distribusi three-parameter generalized F, pendugaan parameter,
+probability weighted moment
+
+
+I. PENDAHULUAN
+1.1 Latar Belakang
+Dalam kehidupan sehari – hari kita sering menemui kata statistika, sebenarnya
+statistika mempunyai dua arti. Dalam penggunaan yang lebih umum, statistika
+mengacu kepada informasi numerik. Contoh – contohnya meliputi upah awal ratarata
+lulusan perguruan tinggi, jumlah kematian karena kecanduan narkoba selama
+satu tahun lalu dan masih banyak contoh yang lainnya. Pada contoh – contoh ini
+statistiknya adalah nilai atau persentase.
+Pada umumnya ilmu statistika biasanya dibagi menjadi dua kategori yaitu
+statistika deskriptif dan statistika inferensial. Statistika deskriptif adalah metode
+mengatur, merangkum, dan mempresentasikan data dengan cara informatif
+(Mc Graw Hill, 2009), sedangkan stastistika inferensial adalah metode yang
+digunakan untuk mengestimasi sifat populasi berdasarkan pada sampel (Mc Graw
+Hill, 2009). Perhatian utama berkenaan dengan statistika inferensial adalah
+menemukan sesuatu mengenai populasi dari sampel yang diambil dari populasi
+tersebut atau dengan kata lain statistika inferensial adalah menemukan penduga
+yang baik. Selanjutnya dalam menentukan penduga yang baik untuk parameter
+dari suatu populasi tersebut, terdapat beberapa metode pendugaan yang dapat
+digunakan diantaranya metode momen, metode maximum likelihood (MLE),
+metode generalized moment (GM), metode Probability Weighted Moment
+(PWM), dan lain – lain. Dari beberapa metode yang telah ada, metode momen
+adalah metode yang paling sering digunakan, dan salah satu metode yang sangat
+populer dalam menduga parameter adalah metode kemungkinan maksimum
+(MLE). Sayangnya metode kemungkinan maksimum didasarkan pada teori
+sampel berukuran besar, sehingga metode ini seringkali bekerja kurang baik untuk
+data dengan ukuran sampel kecil. Oleh karena itu sangat menarik untuk mencari
+metode alternatif dalam menduga parameter dari distribusi yang setiap
+parameternya telah diduga dengan menggunakan metode momen, generalized
+momen atau MLE. Dalam kasus ini penulis tertarik untuk menggunakan metode
+Probability Weighted Moment (PWM) dalam menduga parameter Distribusi Three
+Parameter Generalized F yang selanjutnya di singkat menjadi G3F dengan
+parameter (α, m1, m2) dimana α adalah parameter skala yakni parameter numerik
+yang menunjukkan besarnya distribusi data dan parameter m1 dan m2
+menunjukkan parameter bentuk, yakni suatu parameter yang menunjukkan bentuk
+dari kurva distribusi G3F.
+1.2 Batasan Masalah
+Pada penelitian ini yang menjadi batasan masalah adalah karakteristik penduga
+distribusi G3F yang akan diperoleh melalui metode Probability Weighted
+Moment, yang meliputi sifat ketakbiasan, varians minimum dan kekonsistenan
+dari penduga tersebut.
+
+1.3 Tujuan Penelitian
+Adapun tujuan dilakukan penelitian ini antara lain :
+1. Untuk melihat perbedaan grafik fungsi kepekatan peluang distribusi G3F
+dengan nilai parameter (α, m1, m2) yang dibuat berubah.
+2. Untuk menentukan penduga (α, m1, m2) dari distribusi G3F dengan metode
+Probability Weighted Moment (PWM).
+3. Untuk memeriksa karakteristik penduga (α, m1, m2) dari distribusi G3F yang
+meliputi sifat ketakbiasan, varians minimum dan kekonsistenan.
+1.4 Manfaat Penelitian
+Penelitian ini bermanfaat untuk memberikan informasi mengenai karakteristk
+yang meliputi ketakbiasan, varians minimum dan kekonsistenan penduga
+parameter distribusi Three-Parameter Genarilized F dengan menggunakan
+metode Probability Weighted Moment (PWM).

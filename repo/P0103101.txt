@@ -1,0 +1,395 @@
+﻿Desain Konseptual Penangkap Tandan Buah Sawit
+dan Pemanfaatan Energi Potensialnya
+
+
+Abstrak
+Dalam panen kelapa sawit, tandan buah yang jatuh memiliki energi potensial yang cukup besar, yang
+dapat ditangkap dan digunakan sebagai daya penggerak angkong dalam mengevakuasi tandan buah segar
+(TBS). Penelitian ini dilakukan untuk mengukur karakteristik teknik panen TBS, menentukan bahan landasan
+terbaik untuk penangkap TBS, menganalisis potensi energi potensial TBS yang jatuh, dan merancang
+desain konseptual dari mesin penangkap dan pengangkut TBS. Pengukuran karakteristik panen dilakukan
+di perkebunan kelapa sawit. Empat jenis bahan landasan tangkapan diuji, yaitu: pelat baja, papan kayu,
+pelat baja expanded dan lembaran karet. Hasil penelitian menunjukkan bahwa, tandan jatuh pada jarak
+antara 0.6 m sampai 1.4 m dari pohon. Berat TBS berkisar antara 16 kg sampai 32 kg. Bahan karet paling
+baik untuk penangkap TBS dalam mengurangi jumlah buah tercecer dan buah memar. Energi potensial
+TBS jatuh berada di kisaran 0,44-4,44 kJ. Jarak tempuh teoritis dari angkong yang menggunakan energi
+potensial yang ditangkap, berada di kisaran 2.27 m - 22.98 m. Berdasarkan data pengukuran, sebuah
+desain konseptual mesin penangkap dan evakuasi TBS telah dirancang.
+Kata kunci: panen kelapa sawit, karakteristik teknik, energi potensial, landasan tangkapan, desain
+konseptual.
+
+
+Pendahuluan
+Pemanenan dan transportasi tandan buah segar
+kelapa sawit (TBS) merupakan kegiatan yang
+paling intensif dilakukan di perkebunan kelapa
+sawit. Secara umum, panen dan evakuasi TBS
+masih dilakukan secara manual, dan menyisakan
+banyak masalah. Dua masalah utama yang belum
+terselesaikan sampai saat ini, di pemanenenan TBS
+secara manual adalah: (1) terjadinya kerusakan
+fisik pada TBS yang cukup tinggi, dan (2) sejumlah
+besar buah terpencar seperti yang disebabkan oleh
+tabrakan dengan tanah, yang akan dikumpulkan
+kembali oleh pemanen. Kerusakan fisik yang
+terjadi pada TBS akan sangat mempengaruhi
+kualitas buah dan kualitas ekstraksi minyak sawit
+yang akan diproduksi. Mengumpulkan kembali
+buah yang terlepas juga sangat melelahkan dan
+memakan waktu lama, sehingga menghambat
+aktivitas pemanenan dan mengurangi kapasitas
+panen. Buah lepas yang tercecer bisa sampai 14
+% dari total panen dan perkiraan dari studi di Papua
+Nugini menunjukkan bahwa antara 60-70 % dari
+buah lepas yang tercecer dibiarkan membusuk di
+tanah, yang menjadi sumber kerugian besar untuk
+industri (Adetan et al., 2007). Page (2004), dalam
+laporannya menyebutkan bahwa hingga 70 % dari
+buah yang tercecer tidak ditangani.
+Adetan dan Adekoya (1995) melaporkan
+penelitian yang dilakukan pada dua metode manual
+panen kelapa sawit di Nigeria, yaitu metode BPK
+(galah bambu dan pisau) dan SRC (tali - dan - parang
+pendek). Hasil penelitian ini menunjukkan, antara
+lain, bahwa (i) pencarian dan pengumpulan buah
+tercecer dan tersebar tidak pernah sepenuhnya
+dicapai, karena jumlah buah yang tercecer tetap
+tersembunyi oleh rumpun tanaman sekitar dasar
+pohon dan tidak mungkin untuk mengetahui
+berapa banyak buah yang terlepas dari tandan
+dan karenanya ketika pencarian dan pengumpulan
+harus dihentikan, (ii) pengumpul buah selalu
+mengeluh sakit pinggang, (iii) pembengkokan
+galah panjang dan berat menyulitkan untuk metode
+BPK akan tidak nyaman digunakan pemanenan
+pada pohon-pohon tinggi, (iv) transportasi yang
+berat pada metode BPK dari pusat ke perkebunan
+yang jauh membuthkan banyak waktu pemanen
+dan energi dan dengan demikian secara drastis
+mengurangi kapasitas panen, ini bisa saja sebagian
+besar bertanggung jawab untuk penurunan
+kapasitas pemanenen bila kebun semakin jauh
+dari pemukiman seperti dilaporkan Chirs (1986).
+Sejumlah besar energi dibutuhkan untuk memanen
+kelapa sawit yang bahkan memotong pelepah saja,
+dengan menggunakan egrek, bisa membutuhkan
+tenaga dari kekuatan 18.05 kN (Jelani et al., 1999).
+Pemanenan kelapa sawit berusia antara 9 dan 25
+tahun mengambil antara 43.5 dan 45.4 % dari total
+orang - hari tahunan.
+Selain itu, proses evakuasi TBS ke titik
+pengumpulan di pinggir jalan masih dilakukan
+secara manual dengan menggunakan gerobak
+dorong (angkong), yang sangat melelahkan dan
+memakan waktu. Untuk mengatasi permasalahan di
+atas, para peneliti telah melakukan berbagai upaya
+untuk meningkatkan metode panen TBS. Adetan et
+al. (2007) mengusulkan penggunaan metode galah
+- dan - pisau (MPK) yang dimodifikasi (terdiri dari
+landasan tangkapan buah dan galah yang didesain
+ulang). Hasil pengujian menunjukkan bahwa metode
+MPK lebih unggul daripada metode lain dalam
+mengurangi waktu yang dihabiskan dalam mencari
+dan mengumpulkan buah-buah yang tercecer waktu
+panen, dan karenanya meningkatkan pengumpulan
+kembali buah yang tercecer, menghilangkan
+masalah pinggang kolektor buah dan meningkatkan
+kemudahan transportasi dan penggunaan galah
+panen.
+Memang, di pemanenan TBS, jatuhnya
+TBS memiliki energi potensial yang cukup
+besar, yang dapat ditangkap dan dimanfaatkan
+untuk menjalankan beberapa peralatan panen
+(Hermawan et al., 2013). Energi potensial dapat
+disimpan di pegas sebagai energi potensial elastis.
+Energi tersebut kemudian dapat dimanfaatkan
+untuk daya penggerak gerobak dorong (angkong)
+dalam evakuasi TBS. Energi yang ditangkap juga
+dapat digunakan untuk menjalankan mekanisme
+getaran pisau panen. Hal ini diketahui bahwa
+proses pemotongan pelepah dan tandan TBS dapat
+ditingkatkan dengan induksi gerak getar sejajar
+dengan ujung pisau dodos. Namun, sampai saat ini,
+tidak ada peralatan untuk menangkap TBS dan pada
+saat yang sama menangkap dan memanfaatkan
+energi potensial dari tandan jatuh saat panen.
+Untuk merancang peralatan tersebut, beberapa
+data teknis dan informasi diperlukan, seperti: posisi
+jatuhnya TBS saat panen, ketersediaan ruang
+antara pemanen dan batang pohon, dimensi dan
+berat TBS, dan jarak vertikal (tinggi ) dari TBS.
+Selain itu, jenis bahan yang cocok untuk landasan
+tangkapan buah juga perlu diselidiki. Selanjutnya,
+perlu dirancang mesin yang mampu menangkap
+TBS jatuh saat dipanen, dan mengangkut TBS hasil
+panen dengan memanfaatkan energi potensial
+jatuhnya TBS.
+Tujuan dari penelitian ini adalah untuk mengukur
+karakteristik teknik panen TBS, menentukan
+bahan landasan terbaik untuk penangkap TBS,
+menganalisis potensi energi potensial TBS yang
+jatuh, dan merancang desain konseptual dari mesin
+penangkap dan pengangkut TBS.
+Metode Penelitian
+Penelitian ini dilakukan dalam beberapa tahapan
+mulai dari pengukuran karakteristik pemanenan
+kelapa sawit di kebun sawit hingga perancangan konsep mesin penangkap buah dan pengangkut
+TBS (Gambar 1).
+Pengamatan dan pengukuran dilakukan dalam
+proses pemanenan kelapa sawit manual, pada tiga
+tingkat ketinggian buah, yaitu: sekitar 3 m, 9 m, dan
+15 m. Untuk pemanenan dengan ketinggian buah 3
+m, digunakan dodos, sedangkan untuk ketinggian
+buah 9 dan 15 m digunakan egrek. Ada empat
+jenis bahan landasan nangkap buah yang diuji
+yaitu: i) plat baja tebal 3 mm, ii) papan kayu tebal
+20 mm, iii) plat baja expanded, dan iv) lembaran
+karet tebal 10 mm (lihat Gambar 2). Untuk setiap
+pengujian, bahan tersebut dipasang di atas rangka
+dudukan berukuran 100 cm × 100 cm (Gambar 3).
+Lembaran karet dipasang di atas plat baja sebagai
+penguatnya. Bahan diujikan secara acak pada
+pemanenan dengan sepuluh ulangan untuk setiap
+ketinggian buah. Pemanen memposisikan rangka
+penangkap tersebut pada posisi yang pas dengan
+jatuhnya buah.
+Dalam setiap pemanenan buah, tandan buah
+yang jatuh direkam dengan kamera video, sehingga
+proses jatuhnya TBS, impak benturan TBS dengan
+landasan penangkap buah dapat dipelajari.
+Selanjutnya, dengan menggunakan image
+processing beberapa pengukuran dapat dilakukan,
+seperti: jarak jatuhnya TBS, jarak atau ketinggian
+pencaran buah yang tercecer (brondolan). Sebaran
+tercecernya buah yang lepas diukur menggunakan
+meteran setelah TBS jatuh. Ketika memanen,
+pemanen mengambil posisi yang nyaman untuk
+panen dengan jarak tertentu dari pohon. Jarak
+pemanen dari pohon diukur dengan meteran.
+Selain itu juga dilakukan pengukuran tinggi buah
+saat panen, dan berat TBS yang dipanen. Ukuran
+setiap TBS (panjang, lebar dan tinggi) diukur
+menggunakan mistar ukur. Buah yang tercecer dan
+buah yang memar pada setiap percobaan panen
+dikumpulkan dan ditimbang.
+
+
+Untuk mengetahui mobilitas angkong di lahan
+kebun sawit, dilakukan pengukuran tahanan
+penetrasi tanah (menggunakan penetrometer) dan
+tahanan gelinding roda angkong (lihat Gambar 4).
+Energi potensial jatuhnya TBS dihitung dengan
+persamaan
+Ep = m ffb X g X hffb
+di mana:
+Ep : energi potensial (Joule),
+g : percepatan gravitasi (9.81 m/s2), dan
+hffb: ketinggian buah dari permukaan landasan
+(m).
+Konsep rancangan dijabarkan ke dalam
+beberapa perumusan alternatif konsep dari setiap
+unit komponen utama, berdasarkan fungsinya.
+Rancangan fungsional dari mesin penangkap dan
+pengangkut TBS adalah: 1) fungsi menangkap
+buah (TBS) yang jatuh sehingga tidak ada buah
+yang terpencar, 2) fungsi menggerakkan roda
+angkong dengan memanfaatkan energi potensial
+jatuhnya TBS, 3) fungsi menampung TBS dan 4)
+fungsi mengangkut TBS. Rancangan konseptual
+mesin penangkap dan pengangkut TBS dipilih
+dari beberapa alternatif konsep yang diajukan
+dengan mempertimbangkan kriteria seleksi sesuai
+kebutuhan pemenuhan fungsi-fungsi di atas.
+Selanjutnya untuk mendukung analisis kekuatan
+bahan konstruksi mesin, dilakukan analisis stress
+mengunakan perangkat lunak Solidworks.
+Hasil dan Pembahasan
+Karakteristik Teknik Pemanenan Buah Sawit
+Berdasarkan pengamatan di lapangan, sebelum
+memotong buah, pemanen mengambil posisi terbaik
+dengan jarak tertentu dari pohon. Pada 40 ulangan
+pemotongan, pemanen mengambil jarak sekitar 1.5
+sampai 3 m ke pohon. Data menunjukkan bahwa
+jarak rata-rata dan standar deviasi adalah berturutturut
+1.99 m dan 0.37 m. Ada kecenderungan
+pemanen untuk mengambil jarak yang lebih jauh
+dari pohon untuk memotong buah yang lebih tinggi
+(lihat Gambar 5). Sebenarnya, pemanen mengambil
+posisi yang paling nyaman untuk memotong tandan
+buah dan menghindari rintangan seperti parit yang
+dalam, tunggul kayu dan semak-semak.
+Hasil pengukuran menunjukkan bahwa tandan
+jatuh pada jarak antara 0.6 m sampai 1.4 m dari
+pohon. Jarak jatuhnya buah yang lebih tinggi
+lebih jauh dibandingkan dengan buah yang lebih
+rendah. Jarak rata-rata jatuh pada puncak buah 3
+m, 9 m, dan 15 m masing-masing adalah 1.75 m,
+2 m, dan 2.4 m. Rata-rata jatuh jarak dan standar
+deviasinya masing-masing adalah 0.95 kg dan 0.12
+m. Sebenarnya, seorang pemanen berpengalaman
+dapat memprediksi posisi jatuh TBS dengan akurat
+sebelum memotong batang tandan buah. Oleh
+karena itu, untuk merancang ukuran yang tepat
+dari landasan penangkap buah, dianjurkan untuk
+menggunakan ukuran maksimum TBS sebagai
+ukuran minimum landasan penangkap buah, dan
+ukuran maksimum landasan penangkap buah
+adalah 80 cm.
+Ukuran dari TBS bervariasi di kisaran 20 cm -
+85 cm (lihat Tabel 1). Data hasil pengukuran seperti
+yang ditunjukkan pada Tabel 1 kemudian dapat
+digunakan untuk mengoptimalkan dimensi angkong
+pengangkut TBS untuk kapasitas optimal evakuasi
+TBS. Berat dari tandan buah berada di kisaran 16
+kg menjadi 32 kg (lihat Gambar 6). Berat rata-rata TBS dan deviasi standar adalah 23.06 kg dan 4.35
+kg, masing-masing.
+Pemilihan Bahan Landasan Penangkap Buah
+Hasil pengamatan menunjukkan bahwa terjadi
+impak yang besar pada benturan antara tandan jatuh
+dengan landasan yang keras, seperti pelat baja dan
+papan kayu, yang menyebabkan banyaknya buah
+terlepas dan memar. Di antara empat bahan yang
+diuji, landasan tangkapan lembaran karet unggul
+dari bahan lainnya dalam mengurangi buah terlepas
+dan buah memar, seperti yang ditunjukkan pada
+Gambar 7. Landasan lembaran karet membantu
+untuk menyerap sebagian energi kinetik dari tandan
+jatuh, dan memiliki dua fungsi. Yang pertama adalah
+untuk mengurangi pencaran/lepasnya buah dari
+tandan dan juga memastikan bahwa buah terlepas
+tidak memiliki energi kinetik lagi untuk penginggalkan
+atau menjauh dari landasan tangkapan, yang kedua
+adalah untuk mengurangi kerusakan parah dari
+buah yang diderita buah karena mereka terkena
+benturan dengan tanah. Seperti ditunjukkan dalam
+Gambar 8, jarak hamburan maksimum buah
+terpisah setelah berbenturan ke landasan lembaran
+karet berkisar antara 1.5 m sampai 2.4 m. Semakin
+tinggi ketinggian buah, menyebabkan penyebaran
+buah terpisah yang lebih jauh. Namun, ketinggian
+hamburan untuk landasan lembaran karet tidak
+lebih dari 80 cm. Selain itu, pelat baja expanded
+tidak dianjurkan untuk digunakan sebagai bahan
+landasan tangkapan. Bahan ini menyebabkan buah
+memar lebih tinggi dan tidak memiliki kekuatan yang
+cukup dalam melawan benturan TBS yang jatuh.
+Mobilitas Roda Angkong di Lahan Kebun
+Kelapa Sawit
+Hasil pengukuran menunjukkan bahwa tanah
+lintasan angkong di kebun sawit cukup keras,
+dengan nilai rata-rata tahan penetrasi berkisar
+antara 16.44-22.10 kgf/cm2. Tanah jalan setapak
+yang biasa dilalui angkong memiliki tahanan
+penetrasi yang tertinggi yaitu 22.10 kgf/cm2. Bila
+dihitung, nilai ground pressure roda angkong yang
+bermuatan penuh TBS (bobot total 280 kgf) adalah
+sebesar 10.56 kgf/cm2. Tekanan ban angkong ke
+permukaan tanah ini jauh lebih kecil dari tahanan
+penetrasi tanah. Dengan data perhitungan ini, maka
+dapat diyakini angkong bermuatan penuh dapat
+melintas dengan mudah di lahan kebun sawit, dan
+roda tidak amblas. Selain itu, koefisien tahanan
+gelinding roda angkong (Crr) di kebun sawit juga rendah hanya berkisar antara 0.16 – 0.17, yang
+berarti bahwa gaya dorong yang diperlukan hanya
+sekitar 17% dari bobot angkong bermuatan.
+Energi Potensial Jatuhnya TBS
+Perhitungan energi potensial dari tandan jatuh,
+setelah pemotongan, menghasilkan energi potensial
+dalam kisaran 0.5-4.5 kJ (Gambar 9). Rata-rata
+energi potensial pada ketinggian buah 3 m, 9 m,
+dan 15 m masing-masing adalah 0.6 kJ, 2.0 kJ, dan
+3.6 kJ. Energi potensial setinggi itu, jika ditangkap,
+disimpan dan dimanfaatkan, dapat digunakan untuk
+menggerakkan angkong dalam mengevakuasi
+TBS.
+Dengan asumsi bahwa berat statis mesin
+pengangkut adalah 55 kg, berat muatan rata-rata
+adalah 3 TBS × 23 kg/TBS, dan menggunakan
+nilai koefisien rolling resistance dari roda angkong
+0.16, maka potensi jarak tempuh teoritis mesin
+pengangkut sarat dengan muatan tiga tandan
+akan menjadi di kisaran 2.27 sampai 22.98 m (lihat
+Gambar 10). Karena jarak minimum antara pohon
+adalah 9 m, potensi energi yang dihasilkan harus
+cukup untuk memindahkan angkong yang berisi
+muatan TBS dari pohon ke pohon lain minimal
+sejauh 9 m. Dari persaman y = 1.349x - 0.9793
+pada Gambar 10, dapat ditentukan rekomendasi
+ketinggian buah minimum yang dapat mengerakkan
+angkong sejauh 9 m, yaitu ketinggian posisi buah
+minumum sebesar 7.4 m.
+Konsep Mesin Penangkap dan Pengangkut
+TBS
+Unit penangkap yang didesain harus mampu
+menangkap dan meredam jatuhnya TBS serta
+berondolan buah yang kemudian disalurkan menuju
+bak penampung. Dengan memperhatikan faktorfaktor
+pembatas dan karakteristik teknik pemanenan
+TBS, maka telah dirancang empat konsep
+penangkap TBS seperti disajikan pada Gambar 11.
+Dalam memilih konsep terbaik digunakan kriteria:
+1) kesesuaian konsep terhadap kondisi jatuhnya
+TBS dan berondolan buah yang sulit untuk
+diprediksi pada satu titik jatuh TBS (FS1),
+2) kesetimbangan mesin dan unit penangkap saat
+dikenai impact force dari jatuhnya TBS (FS2),
+serta
+3) kesesuaian dengan bentuk dan dimensi piringan
+pokok sawit (FS3).
+Hasil simulasi seleksi dengan metode
+pembobotan menunjukan bahwa konsep D memiliki
+skor total yang tertinggi sehingga peluang untuk
+dipilih semakin besar. Oleh sebab itu, rancangan
+konsep untuk bentuk unit penangkap TBS akan
+menggunakan dan mengembangkan konsep D.
+Bentuk luasan penampang unit penagkap TBS
+didekati dengan menganalisis daerah sebaran
+jatuhnya TBS di daerah piringan pokok sawit.
+Unit penampung yang didesain harus mampu
+menampung TBS dengan kapasitas tertentu serta
+mampu melakukan proses loading dan unloading
+bahan dengan mudah. Ada empat konsep yang
+diajukan untuk unit penampung dan pengangkut
+(Gambar 12). Dengan menggunakan kriteria seleksi:
+kapasitas muatan (FSa), kemudahan pengaturan
+titik pembebanan untuk mendekati titik tumpu
+(fulkrum) (FSb), serta kemudahan proses loading
+dan unloading bahan (FSc), maka dipilih konsep C
+yang paling baik.
+
+
+Selanjutnya telah dirancang konsep mekanisme
+pegas dan sistem transmisi dayanya, yang mampu
+menangkap energi potensial jatuhnya TBS untuk
+menggerakkan roda angkong pengangkut TBS
+dengan kombinasi mekanisme lengan ayun,
+roda gigi, rantai dan sproket, mekanisme ratchet,
+mekanisme ”watch spacement”, gear box serta
+mekanisme pegas (Gambar 13). Desain konseptual
+mesin penangkap dan pengangkut TBS disajikan
+pada Gambar 14.
+Simpulan
+1. Pemanen mengambil jarak sekitar 1.6 - 3 m dari
+pohon. Jarak jatuh tandan buah pada range 0.6
+m - 1.4 m dari pohon. Berat dari tandan buah
+berada di kisaran 16 kg sampai 32 kg.
+2. Bahan landasan tangkapan dari lembaran karet unggul dari bahan lainnya dalam mengurangi
+buah lepas dan buah memar.
+3. Mobilitas roda mesin (angkong) di lahan sawit
+sangat baik dan tidak mengalami amblas. Nilai
+koefisien tahanan gelinding roda angkong pada
+lintasannya di kebun rata-rata 0.16.
+4. Energi potensial dari jatuhnya TBS berkisar
+antara 0.44-4.44 kJ. Rata-rata energi potensial
+dari jatuhnya tandan buah pada ketinggian buah
+3 m, 8 m, 9 m, dan 15 m adalah berturut-turut
+0.6 kJ, 1.7 kJ, 2.0 kJ, dan 3.6 kJ. Energi tersebut
+mampu menggerakkan mesin pengangkut TBS
+sejauh 2.27-22.98 m.
+5. Sebuah desain konseptual dari mesin penangkap
+dan pengangkut TBS yang memanfaatkan
+energi potensial jatuhnya TBS telah dirancang
+dengan mengkombinasikan mekanisme lengan
+ayun, roda gigi, rantai dan sproket, mekanisme
+ratchet, mekanisme ”watch spacement”, gear
+box serta mekanisme pegas.

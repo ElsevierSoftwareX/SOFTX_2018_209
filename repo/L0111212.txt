@@ -1,0 +1,464 @@
+﻿SIFAT FISIKA MEKANIKA DAN KETAHANAN PAPAN PARTIKEL BAMBU DENGAN
+PEREKAT ASAM SITRAT TERHADAP SERANGAN RAYAP KAYU KERING
+INTISARI
+Penelitian mengenai penggunaan asam sitrat sebagai agen pengikat alami masih relatif sedikit. Oleh
+karena itu penelitian ini difokuskan pada pengaruh jumlah asam sitrat dan suhu pengempaan terhadap sifat
+papan partikel bambu, termasuk ketahanannya terhadap serangan rayap kayu kering. Bahan penelitian
+adalah partikel bambu petung. Komposisi kimia bahan baku bambu diuji untuk kadar ekstraktif, holoselulosa,
+lignin, dan alfa selulosa. Faktor pada penelitian ini adalah jumlah asam sitrat (0 - 40%) berdasarkan berat
+kering udara partikel) dan suhu pengempaan (200 oC dan 220 oC). Sifat fisika dan mekanika papan partikel
+diuji berdasarkan standar pengujian JIS A 5908. Analisis menggunakan Fourier transform infrared
+spectroscopy (FTIR) juga dilakukan untuk mengetahui perubahan gugus ester pada berbagai jumlah asam
+sitrat dan suhu pengempaan. Pengujian ketahanan terhadap serangan rayap kayu kering juga dilakukan
+dengan menghitung nilai pengurangan berat dan mortalitas rayap setelah 6 minggu. Hasil pengujian
+menunjukkan bahwa interaksi kedua faktor berpengaruh nyata terhadap nilai pengembangan tebal,
+penyerapan air, modulus elastisitas dan modulus patah. Intensitas gugus C=O yang ditunjukkan pada puncak
+1720 cm-1 semakin bertambah besar seiiring dengan semakin banyaknya jumlah asam sitrat, yang
+menyebabkan kekuatan perekatan dan stabilitas dimensi papan partikel menjadi semakin kuat. Kondisi optimum pada penelitian ini adalah papan partikel dengan penambahan jumlah asam sitrat 20 % pada suhu
+pengempaan 200 oC dengan kualitas yang dapat memenuhi standar JIS A 5908 tipe 8. Penambahan asam sitrat
+dapat meningkatkan mortalitas rayap kayu kering secara nyata. Penambahan 20 % asam sitrat pada suhu
+pengempaan 200 oC menghasilkan nilai pengurangan berat 0,9 % dan mortalitas rayap 57 %.
+Kata kunci: bambu petung, asam sitrat, suhu pengempaan, jumlah asam sitrat.
+
+
+PENDAHULUAN
+Permasalahan emisi formaldehida yang dihasilkan
+oleh produk-produk komposit dengan perekat
+berbasis formaldehida menjadi alasan dilakukannya
+penelitian mengenai pembuatan atau pengembangan
+produk komposit berbasis perekat alam atau bahkan
+komposit tanpa perekat sintetis (binderless
+composite) (Laemsak dan Okuma, 2000; Okuda dan
+Sato, 2006; Widyorini et al., 2005; Widyorini et al.,
+2013; Xu et al., 2003). Beberapa kelemahan produk
+papan komposit tanpa perekat sintetis yang menjadi
+kendala adalah sangat tergantung pada karakteristik
+kimia bahan baku dan mempunyai kestabilan
+dimensi yang masih relatif rendah. Oleh karena itu,
+berbagai inovasi dilakukan seperti penambahan
+bahan kimia sebagai pengaktif permukaan bahan
+direkat diantaranya adalah asam, alkali, maupun
+bahan pengoksidasi seperti hidrogen peroksida.
+Namun demikian, penggunaan bahan-bahan tersebut
+mempunyai kelemahan pada masalah keamanan dan
+kesehatan.
+Salah satu bahan pengaktif alami yang mulai
+dikembangkan adalah asam sitrat (2-hydroxy-1,2,3-
+propanetricarboxylic acid) yang mengandung tiga
+gugus karboksil dan terbukti dapat digunakan
+sebagai agen pengikat pada produk moulding dari
+kulit dan kayu akasia (Umemura et al., 2011). Produk
+moulding tersebut mempunyai kekuatan yang baik,
+bahkan tidak terdekomposisi setelah mengalami
+proses pengujian perebusan secara berulang.
+Ketahanan terhadap air semakin meningkat dengan
+meningkatnya kadar asam sitrat. Hal tersebut
+mengindikasikan bahwa asam sitrat dapat mengaktifkan
+komponen kimia di dalam kulit kayu akasia dan
+dapat menyempurnakan ikatan perekatan selama
+proses pengempaan (Umemura et al., 2012). Analisis
+menggunakan Fourier Transform Infrared Spectra
+(FTIR) memperlihatkan adanya pembentukan ikatan
+ester antara gugus karboksil dari asam sitrat dengan
+gugus hidroksil (OH) dari kulit akasia (Umemura et
+al., 2011) selama proses pengempaan. Reaksi yang
+sama terlihat pada modifikasi selulosa dengan asam
+sitrat anhidrida menghasilkan ikatan ester (Thanh
+dan Nhung, 2009). Penelitian menggunakan asam
+sitrat sebagai bahan perekat atau pengikat komposit
+masih relatif baru dan belum banyak dilakukan,
+apalagi di Indonesia. Oleh karena itu, penelitian
+menggunakan asam sitrat sangat menarik untuk
+dilakukan, karena selain merupakan bahan yang
+ramah lingkungan, bahan ini mudah diperoleh serta
+harganya yang tidak mahal.
+Penelitian menggunakan asam sitrat dengan
+komposisi 0 sampai 40 % pada pembuatan produk
+cetakan atau moulding dari kulit dan kayu akasia
+memperlihatkan bahwa komposisi 20 % asam sitrat
+atau setara dengan penambahan 25 % asam sitrat
+berdasarkan berat kering udara partikel memberikan
+hasil kekuatan dan ketahanan terhadap air yang
+paling optimal (Umemura et al. 2011; 2012). Pada
+penelitian sebelumnya oleh Widyorini et al. (2013),
+papan partikel bambu dengan asam sitrat terbukti mempunyai kekuatan kualitas yang lebih tinggi
+dibandingkan papan partikel tanpa perekat dari
+bahan baku yang sama. Penambahan sampai 20 %
+asam sitrat berdasarkan berat kering udara partikel
+bambu dengan suhu pengempaan 200 dan 220 oC
+masih memperlihatkan peningkatan kualitas secara
+signifikan. Untuk mengetahui kondisi yang paling
+optimal pada suhu pengempaan 200 dan 220 oC,
+maka penelitian ini menggunakan konsentrasi asam
+sitrat 0-40%. Waktu pengempaan yang digunakan 10
+menit, karena hasil penelitian Widyorini et al. (2013)
+menunjukkan waktu pengempaan 10 menit
+memberikan kualitas yang lebih baik daripada waktu
+15 menit. Untuk mengetahui mekanisme yang
+terjadi, dilakukan analisis Fourier Transform Infrared
+(FTIR) pada sampel bahan baku partikel dan
+papan partikel.
+Selain sifat kekuatan papan partikel, sifat
+ketahanan serta keawetan juga perlu diperhatikan
+agar memberikan umur pakai yang lebih lama. Salah
+satu kendala papan partikel yang berbahan baku
+lignoselulosa adalah serangan serangga perusak
+kayu. Serangga yang dapat menyerang produkproduk
+papan partikel di dalam ruangan adalah rayap
+kayu kering. Walther et al. (2007) melakukan
+penelitian mengenai intensitas serangan rayap kayu
+kering terhadap papan serat kenaf dengan perekat
+fenol formaldehida dan hasilnya menunjukkan
+bahwa kandungan perekat juga sangat berpengaruh
+terhadap intensitas serangan rayap. Selama ini,
+belum pernah dilakukan penelitian mengenai
+ketahanan papan partikel dengan perekat asam sitrat
+terhadap serangan rayap kayu kering. Oleh karena
+itu, tujuan dari penelitian ini adalah untuk
+mengetahui pengaruh jumlah asam sitrat dan suhu
+pengempaan terhadap sifat fisika, mekanika, serta
+ketahanan papan partikel dari bambu terhadap
+serangan rayap kayu kering.
+BAHAN DAN METODE
+Partikel bambu petung merupakan limbah serutan
+yang diperoleh dari Bengkel Pengolahan Kayu
+Fakultas Kehutanan UGM, Klebengan. Untuk
+menyeragamkan ukuran, partikel diayak dengan
+menggunakan ukuran lolos 0,2 x 0,2 cm atau 10
+mesh, kemudian partikel dikering-udarakan. Analisis
+penelitian yang digunakan berupa Rancangan Acak
+Lengkap dengan faktor jumlah asam sitrat adalah 0,
+10, 20, 30, dan 40 % berdasarkan berat kering
+partikel, dan suhu pengempaan (200 dan 220 oC).
+Masing-masing kombinasi perlakuan diulang 3 kali.
+Setelah dicampur dengan asam sitrat, partikel
+kemudian dioven pada suhu 80 oC selama kurang
+lebih 18 jam, kemudian dibuat mat dengan ukuran 25
+x 25 cm, kemudian dikempa selama 10 menit. Target
+ketebalan papan diset 0,7 cm dengan target kerapatan
+0,9 g/cm3. Setelah proses pengempaan, papan
+partikel dikondisikan selama kurang lebih 1 minggu
+sampai mencapai kondisi kering udara.
+Pengujian mengacu pada prosedur pengujian
+Japanese Industrial Standard (JIS) A 5908 (2003)
+untuk papan partikel. Sifat fisika yang diuji meliputi
+kerapatan, pengembangan tebal dan penyerapan air
+setelah perendaman 24 jam pada air kondisi ruangan,
+sedangkan sifat mekanika meliputi kekuatan rekat
+internal, modulus patah, dan modulus elastisitas.
+Sampel sebanyak kurang lebih 50 mg yang diperoleh
+dari bagian tengah contoh uji papan partikel untuk
+kekuatan rekat internal, kemudian dianalisis dengan
+menggunakan FTIR untuk mengetahui perubahan
+gugus-gugus kimia yang terjadi. Analisis FTIR
+dilakukan pada sampel yang dikempa pada suhu 200
+dan 220 oC dengan konsentrasi asam sitrat 0, 10, 20,
+30, dan 40 %.
+Analisis kimia kayu dilakukan pada beberapa
+parameter. Serbuk kayu setara 2 g berat kering tanur,
+diekstraksi soxhlet dengan pelarut etanol-benzena (1:2, v/v) (ASTM D-1107, 1984) serta secara
+terpisah dengan air panas dan air dingin (ASTM
+D1110 - 80, 2002). Untuk serbuk bebas ekstraktif
+etanol-benzena selanjutnya diukur kadar holoselulosa
+dan alfa-selulosa dengan metoda asam klorit
+(Browning 1967), serta lignin Klason (TAPPI Test
+Method T 222 os-74, 1992).
+Pengujian terhadap serangan rayap kayu kering
+mengacu pada standard JIS K 1571 dengan
+menggunakan sampel papan partikel ukuran 5 cm x 5
+cm x 0,7 cm. Selain itu, dipersiapkan satu contoh uji
+dengan ukuran yang sama dari papan komersil yang
+dijual di toko bangunan di Yogyakarta, serta satu
+wadah kosong tanpa pemberian contoh uji (rayap
+saja) sebagai kontrol. Selanjutnya, keseluruhan
+contoh uji dioven pada suhu 60 oC hingga diperoleh
+massa sebelum pengumpanan. Persiapan pengumpanan
+diawali dengan memasukkan 50 ekor rayap
+kayu kering dewasa, sehat, dan aktif ke dalam tabung
+gelas dan diberi penutup pada bagian atas tabung
+yang terbuka. Contoh uji disimpan dalam ruangan
+gelap dan dilakukan pengamatan mortalitas rayap
+setiap dua hari berturut-turut hingga enam minggu.
+Rayap yang sudah mati diambil dengan pinset agar
+tidak dimakan oleh rayap yang lain. Setelah enam
+minggu pengamatan, contoh uji dibersihkan dari
+rayap-rayap dan kemudian dikeringkan kembali
+dalam oven pada suhu 60 ºC hingga didapat massa
+sesudah pengumpanan. Perhitungan mortalitas rayap
+dan pengurangan berat berdasarkan persentase per
+jumlah total rayap dan berat kering contoh uji.
+HASIL DAN PEMBAHASAN
+Sifat Kimia Bambu Petung dan Analisis FTIR
+Komposisi kimia bambu petung yang terdiri dari
+holoselulosa, alfa-selulosa, lignin, ekstraktif alkohol
+benzena, ekstraktif air panas, dan ekstraktif air
+dingin, dapat dilihat pada Tabel 1. Kerapatan
+rata-rata papan partikel bambu petung dengan asam
+sitrat adalah 0,83 g/cm³ dari target kerapatan 0,9
+g/cm3. Semua papan partikel dapat dibuat tanpa ada
+delaminasi. Warna papan partikel semakin gelap
+dengan semakin banyaknya jumlah asam sitrat
+(Gambar 1). Hal yang sama juga ditemukan oleh
+Umemura et al. (2011) yang meneliti produk cetakan
+kayu akasia dengan penambahan asam sitrat.
+
+Hasil analisis FTIR bambu dan papan partikel
+pada berbagai jumlah asam sitrat pada suhu pengempaan
+200 dan 220 oC ditunjukkan pada Gambar 2 dan
+Gambar 3. Gugus C=O yang ditunjukkan pada
+puncak 1720 cm-1 terlihat pada papan partikel bambu
+petung dengan asam sitrat. Sebaliknya, pada bahan
+baku bambu petung tidak menunjukkan dengan jelas
+keberadaan gugus C=O. Hal ini disebabkan oleh
+pembentukan ikatan ester dari gugus hidroksil pada
+kayu dengan gugus karboksil pada asam sitrat
+(Umemura et al., 2011). Penggunaan asam sitrat 10,
+20, 30, dan 40 % menunjukkan intensitas gugus yang
+semakin kuat. Walaupun tidak ada penambahan asam
+sitrat, spektrum FTIR pada papan partikel dengan
+asam sitrat 0 % pada kedua suhu pengempaan
+menunjukkan puncak 1720 cm-1 yang sangat kecil.
+Gugus C=O ini juga dihasilkan oleh degradasi dari
+hemiselulosa selama proses pengempaan panas
+(Widyorini et al., 2005). Perbedaan intensitas gugus
+C=O pada dua suhu pengempaan pada penelitian ini
+tidak terlihat jelas pada spektrum FTIR.
+
+
+Keberadaan puncak 1512 cm-1 diduga berasal dari
+unit aromatik pada lignin. Menurut Okuda dan Sato
+(2006), sifat lignin ditandai dengan adanya gugus
+C=C pada disekitar 1505 cm-1 - 1510 cm-1. Walaupun
+perbedaan intensitas akibat suhu pengempaan yang
+berbeda tidak begitu nyata terlihat, tetapi
+penambahan asam sitrat menunjukkan intensitas
+yang semakin kuat. Hal tersebut mengindikasikan
+bahwa lignin juga berperan dalam ikatan yang
+terjadi. Hal yang sama juga terjadi dalam penelitian
+Okuda dan Sato (2006), yang menyatakan bahwa
+spektrum FTIR dari kenaf setelah proses pembuatan
+menjadi papan partikel tanpa perekat menunjukkan
+adanya intensitas yang sama pada puncak pita 1507
+cm-1 yang merupakan turunan unit aromatik lignin.
+Sifat Fisika dan Mekanika
+Tabel 2 menunjukkan bahwa interaksi antar
+kedua faktor berpengaruh signifikan pada taraf uji
+0,01 terhadap nilai pengembangan tebal, penyerapan
+air, dan modulus elastisitas, serta berpengaruh
+signifikan pada taraf uji 0,05 terhadap modulus
+patah. Jumlah asam sitrat berpengaruh signifikan
+pada taraf uji 0,01 pada semua sifat fisika maupun mekanika papan partikel. Pengaruh suhu pengempaan
+hanya signifikan terhadap sifat fisika papan dan
+kekuatan rekat internal.
+Gambar 4 menunjukkan hubungan antara
+pengembangan tebal dan penyerapan air papan
+partikel bambu pada berbagai jumlah asam sitrat (0-
+40 %) dan suhu pengempaan 200 dan 220 oC. Nilai
+ini diperoleh setelah perendaman air pada suhu
+ruangan selama 24 jam. Semua papan partikel yang
+dibuat dengan penambahan asam sitrat menunjukkan
+kualitas yang baik dan dapat memenuhi standar JIS A
+5908 (kurang dari 12 %). Semakin tinggi suhu
+pengempaan memperbaiki sifat fisika papan partikel,
+baik pengembangan tebal dan penyerapan air papan.
+Jumlah asam sitrat yang meningkat dari 0-40 %
+menyebabkan naiknya kestabilan dimensi papan
+partikel. Hal ini terlihat dari nilai pengembangan
+tebal dan penyerapan air untuk papan partikel tanpa
+perekat (0 %) adalah 20 % dan 69 % kemudian
+menjadi 1 % dan 10 % pada penambahan asam sitrat
+40 % dan suhu pengempaan 200 oC. Bertambahnya
+intensitas gugus C=O seiring dengan penambahan
+jumlah asam sitrat, seperti yang terlihat pada Gambar
+2, menunjukkan bahwa gugus ester yang terbentuk
+antara gugus OH dari bambu dan gugus karboksil
+dari asam sitrat juga meningkat dan menyebabkan
+sifat hidrofilik bambu menjadi semakin berkurang
+(Widyorini et al., 2014, Vukusic et al., 2006).
+Gambar 5 dan 6 menunjukkan sifat mekanika
+papan partikel bambu pada berbagai jumlah asam
+sitrat (0 - 40 %) dan suhu pengempaan 200 dan 220
+oC. Nilai modulus patah dan modulus elastisitas
+papan partikel bambu memperlihatkan peningkatan
+dengan bertambahnya jumlah asam sitrat (Gambar
+5), tetapi perbedaan suhu tidak menyebabkan
+pengaruh nyata pada kedua nilai tersebut. Penambahan
+asam sitrat sebanyak 20 % menghasilkan papan
+partikel yang memenuhi standar JIS A 5908 tipe 8 (modulus patah minimal 8 MPa dan modulus
+elastisitas minimal 2 GPa), bahkan nilai modulus
+elastisitasnya dapat melebihi standar JIS A 5908 tipe
+18 (minimal 3 GPa). Nilai modulus patah dan
+elastisitas tertinggi diperoleh pada penambahan asam
+sitrat 40 %, dengan nilai modulus patah sebesar 15,28
+MPa dan modulus elastisitas 5,14 GPa. Kedua nilai
+tersebut melebihi standar JIS A 5908 tipe 18.
+Penambahan asam sitrat dimaksudkan untuk
+meningkatkan sifat fisika papan partikel bambu
+petung, terutama sifat ketahanan terhadap air.
+Peningkatan stabilitas dimensi terlihat dengan
+penurunan nilai pengembangan tebal dan penyerapan
+air seiring dengan penambahan asam sitrat. Penurunan
+sifat higroskopis ini disebabkan oleh perubahan
+hemiselulosa bahan baku (Sekino et al., 1999 dalam
+Widyorini et al., 2005). Di sisi lain, gugus OH pada
+bambu berikatan dengan karboksil asam sitrat
+membentuk ikatan ester (Umemura et al., 2011);
+McSweeny et al., 2006). Hal tersebut dibuktikan dengan keberadaan puncak yang terlihat di sekitar
+1720 cm-1 dari pengujian FTIR, seperti sudah
+diuraikan di atas.
+Penambahan asam sitrat menghasilkan papan
+partikel yang memenuhi standar JIS A 5908, dimana
+jumlah asam sitrat 40 % dengan suhu pengempaan
+200 oC menghasilkan nilai penyerapan air dan
+pengembangan tebal papan partikel bambu petung
+terendah, masing-masing sebesar 12,56 % dan 1,10
+%. Peningkatan sifat kestabilan dimensi pada papan
+partikel bambu petung terjadi seiring meningkatnya
+penggunaan asam sitrat. Hal ini juga terjadi pada
+penelitian Umemura et al. (2012), dimana kestabilan
+dimensi produk molding lebih baik pada penambahan
+asam sitrat 40 % dibanding 0 %.
+Sifat mekanika yang diamati pada penelitian ini
+meliputi keteguhan lengkung statis dan keteguhan
+rekat internal. Keteguhan lengkung statis diukur
+melalui pengujian sifat modulus patah dan modulus
+elastisitas papan partikel bambu petung. Penambahan
+asam sitrat mempengaruhi nilai modulus patah
+maupun modulus elastisitas. Nilai modulus patah dan
+modulus elastisitas papan partikel tanpa penambahan
+asam sitrat memiliki nilai sebesar 3,04 MPa dan 1,13
+GPa pada suhu kempa 200 oC serta 4,25 MPa dan
+1,66 GPa pada suhu kempa 220 oC. Kedua nilai
+tersebut meningkat seiring dengan peningkatan
+jumlah asam sitrat. Penambahan 20 % asam sitrat
+menghasilkan papan partikel yang memenuhi standar
+JIS A 5908 tipe 8 untuk modulus patah dan tipe 18
+untuk modulus elastisitas. Nilai tertinggi modulus
+patah dan modulus elastisitas pada penelitian ini
+adalah 15,28 MPa dan 5,14 GPa. Nilai tersebut
+diperoleh pada kondisi suhu pengempaan 200 oC
+dengan jumlah asam sitrat 40 %. Hasil berbeda
+dihasilkan oleh penelitian Umemura et al. (2012),
+dimana penggunaan asam sitrat 20 % (setara dengan
+25 % per berat kering partikel) pada produk molding
+menghasilkan sifat mekanika yang optimal. Hal
+tersebut memperlihatkan bahwa sifat bahan baku
+turut mempengaruhi keberhasilan ikatan dengan
+asam sitrat.
+Gambar 6 menunjukkan nilai kekuatan rekat
+internal papan partikel bambu pada berbagai jumlah
+asam sitrat (0 - 40 %) dan suhu pengempaan 200 dan
+220 °C. Nilai kekuatan rekat internal papan partikel
+bambu memperlihatkan peningkatan dengan
+bertambahnya jumlah asam sitrat sampai 20 %
+kemudian nilainya mengalami penurunan. Perbedaan
+suhu pengempaan menyebabkan pengaruh nyata pada nilai kekuatan rekat internal, dimana semakin
+tinggi suhu menyebabkan penurunan nilai tersebut.
+Semua papan partikel dengan penambahan asam
+sitrat dapat memenuhi standar JIS A 5908 tipe 8
+(minimal 0,15 MPa), bahkan untuk jumlah asam
+sitrat 20 % dan suhu pengempaan 200 oC, nilai
+kekuatan rekat internal bisa memenuhi persyaratan
+tipe 18, yaitu minimal 0,3 MPa.
+Nilai keteguhan rekat internal pada penelitian ini
+berkisar antara 0,07-0,36 MPa. Pembuatan papan
+partikel tanpa penambahan asam sitrat tidak ada yang
+memenuhi standar. Dengan penambahan asam sitrat
+10 % saja, kekuatan rekat internal papan partikel
+bambu naik tiga (3) kali pada suhu pengempaan 200
+oC dan satu setengah (1,5) kali pada 220 oC. Semua
+papan partikel dengan penambahan asam sitrat pada
+suhu pengempaan 200 oC dapat memenuhi standar
+JIS A 5908 tipe 13, bahkan untuk penambahan asam
+sitrat 20 % dapat memenuhi standar JIS A 5908 tipe
+18 (lebih dari 0,3 MPa). Menurut Umemura et al.
+(2012), rata-rata keteguhan rekat internal papan
+partikel dari softwood yang diberi tambahan asam
+sitrat hingga 30 % adalah 1,61 MPa (lima kali lebih
+tinggi dibanding 5 %).
+Suhu kempa yang diberikan selama perlakuan
+membantu terbentuknya ikatan-ikatan ester antara
+gugus karboksil dari asam sitrat dengan gugus
+hidroksil (-OH) dari kayu (McSweeny et al., 2006).
+Pada penelitian ini, papan partikel yang dikempa
+pada suhu 200 oC menghasilkan kualitas papan yang
+lebih baik dibandingkan papan partikel yang
+dikempa pada suhu 220 oC pada waktu pengempaan
+10 menit. Hal ini kemungkinan disebabkan oleh suhu
+pengempaan yang terlalu tinggi sehingga menyebabkan
+degradasi komponen kimia yang berlebihan dan
+menyebabkan penurunan kualitas papan (Suzuki et
+al., 1998).
+Mortalitas rayap dan pengurangan berat papan
+Sifat ketahanan rayap yang diamati pada
+penelitian ini meliputi pengurangan berat papan dan
+mortalitas rayap. Data hasil penelitian menunjukkan
+kecenderungan pengurangan berat papan dengan
+penambahan asam sitrat, seperti terlihat pada
+Gambar 7. Penambahan asam sitrat 40 % pada suhu
+220 °C menghasilkan pengurangan berat terendah
+yaitu 0,5 %, sedangkan tertinggi sebesar 1,4 % pada
+suhu yang sama tanpa penambahan asam sitrat (0 %).
+Penelitian Walther et al. (2007) menunjukkan bahwa
+pengurangan berat setelah 3 minggu dari kenaf yang
+diberi perekat fenol formaldehida tanpa impregnasi
+antara 2 % dan 4 % tergantung pada konsentrasi
+perekat yang diberikan. Dibandingkan dengan hasil
+tersebut, papan partikel dengan penambahan asam
+sitrat pada penelitian ini memperlihatkan ketahanan
+terhadap serangan rayap kayu kering yang lebih baik.
+Mortalitas rayap kayu kering pada papan partikel
+bambu petung diamati mulai minggu ke-1 hingga
+minggu ke-6. Pengamatan yang dilakukan pada
+minggu ke-6 menunjukkan nilai mortalitas rayap
+berkisar antara 29-78 %, seperti terlihat pada Gambar
+8. Perbedaan suhu pengempaan tidak memberikan
+pengaruh nyata pada mortalitas rayap, tetapi
+persentase asam sitrat menyebabkan peningkatan
+mortalitas rayap, dimana penambahan asam sitrat
+10-40 % menyebabkan mortalitas rayap yang tinggi
+(57-78 %). Mortalitas rayap kayu kering papan
+partikel bambu petung dengan penambahan asam
+sitrat lebih tinggi dibandingkan papan partikel tanpa
+perekat dari bambu (31 %), bahkan papan komersil
+(urea formaldehida) sebagai pembanding (38 %), dan
+tanpa sampel uji (32%).
+
+KESIMPULAN
+Peningkatan sifat fisika dan mekanika papan
+partikel bambu petung terlihat dengan semakin
+banyaknya asam sitrat yang ditambahkan. Kondisi
+optimal pada penelitian ini adalah jumlah asam sitrat
+20 % dengan suhu pengempaan papan 200 oC. Pada
+kondisi tersebut, papan partikel mempunyai nilai
+pengembangan tebal 3 %, penyerapan air 24 %,
+kekuatan rekat internal 0,36 MPa, modulus patah
+12,5 MPa, dan modulus elastisitas 3,56 GPa. Semua
+nilai tersebut dapat memenuhi standar JIS A 5908
+tipe 8. Hasil penelitian ini menunjukkan bahwa
+penambahan asam sitrat pada papan partikel dapat
+menghasilkan papan dengan ketahanan terhadap
+serangan rayap kayu kering yang baik (57-78 %).
+
+Gambar 7. Nilai pengurangan berat (%) papan partikel bambu pada berbagai jumlah asam sitrat
+dan suhu pengempaan
+
+Gambar 8. Nilai mortalitas rayap (%) papan partikel bambu pada berbagai jumlah asam sitrat
+dan suhu pengempaan
+
+Gambar 6. Nilai kekuatan rekat internal papan partikel bambu pada berbagai jumlah asam sitrat
+dan suhu pengempaan
+
+Gambar 5. Nilai modulus patah dan elastisitas papan partikel bambu pada berbagai jumlah asam
+sitrat dan suhu pengempaan
+
+Gambar 4. Nilai pengembangan tebal dan penyerapan air papan partikel bambu pada berbagai
+jumlah asam sitrat dan suhu pengempaan
+
+Gambar 3. Spektrum FT-IR papan partikel bambu petung (suhu kempa 220°C)
+
+Gambar 2. Spektrum FT-IR papan partikel bambu petung (suhu kempa 200°C)
+
+Gambar 1. Papan partikel bambu dengan berbagai variasi jumlah asam sitrat
+(0%=a), (10%=b), (20%=c), (30%=d), dan (40%=e) yang dikempa
+pada suhu 200oC selama 10 menit

@@ -1,0 +1,471 @@
+﻿Perilaku Histeretik Subassemblage Balok-Kolom Interior Prategang Parsial Reactive Powder Concrete dalam Pemodelan Finite Element   
+
+
+Abstrak 
+
+Penelitian mengenai beton di beberapa negara telah menghasilkan suatu jenis beton Ultra High Performance Concrete (UHPC) yang memiliki kekuatan, daktilitas, modulus elastisitas, dan durabilitas tinggi, yang disebut Reactive Powder Concrete (RPC).
+
+Penelitian struktur yang menggunakan material RPC di berbagai negara telah memperlihatkan kinerja yang lebih baik daripada struktur yang terbuat dari Normal Concrete (NC) ataupun High Performance Concrete (HPC) dalam menahan beban baik monotonik maupun siklik.
+
+Hasil penelitian struktur bermaterial RPC yang menahan beban siklik memperlihatkan bahwa perilaku histeretik struktur cukup baik.
+
+Dalam penelitian ini, dilakukan penelitian material RPC dan pemodelan struktur dengan metode finite element non-linier (MFE-NL).
+
+Hasil pengujian material merupakan bagian dari input pemodelan struktur subassemblage balok-kolom interior prategang parsial (S-RPC) dengan MFE-NL Sebagai pembanding, terdapat model subassemblage balokkolom interior prategang parsial yang menggunakan material NC (S-NC).
+
+Untuk menganalisis perilaku histeretik model, terdapat beberapa model S-RPC dan S-NC dengan variasi nilai Partial Prestressed Ratio (PPR).
+
+Analisis hasil pemodelan memperlihatkan keunggulan kinerja dan perilaku histeretik semua model S-RPC dibandingkan dengan model S-NC dalam hal daktilitas, disipasi energi, kekakuan, dan kekuatan.
+
+Dari hasil pemodelan, terdapat nilai PPR optimum untuk model S-RPC yang berkisar antara 21,39% sampai dengan 37,34%.
+
+Sedangkan, nilai PPR optimum untuk model S-NC adalah 34,15%.
+
+Kata kunci: Reactive Powder Concrete, Partial Prestressed Ratio, Daktilitas, Disipasi energi.
+
+1. Pendahuluan 
+Saat ini, diperlukan bangunan-bangunan gedung yang semakin tinggi untuk memenuhi kebutuhan masyarakat di lahan yang terbatas.
+
+Untuk memperluas ruang pada gedung tertentu, diperlukan adanya sistem struktur prategang parsial.
+
+Sistem prategang parsial telah secara umum diaplikasikan pada balok yang terhubung dengan kolom dan diharapkan tetap bersifat daktail serta mampu mendisipasi energi gempa melalui mekanisme pembentukan sendi plastis pada balok.
+
+Hasil penelitian memperlihatkan bahwa sistem prategang parsial mampu mendisipasi energi lebih baik daripada sistem prategang penuh (Gilbert dan Mickleborough, 1990).
+
+Struktur gedung tinggi memerlukan material berkinerja lebih baik dari material struktur pada umumnya.
+
+Pada tahun 1990-an, penelitian di Bouygues, Perancis menghasilkan suatu komposisi beton yang memiliki kekuatan tekan, daktilitas, dan durabilitas tinggi sehingga dikategorikan sebagai Ultra High Performance Concrete (UHPC) dan disebut sebagai Reactive Powder Concrete (RPC).
+
+RPC disusun dengan cara mengganti agregat kasar dengan material pasir silika berukuran mikro serta menggunakan silica fume dan superplasticizer.
+
+Untuk mempercepat proses hidrasi di awal umur dan menaikkan kuat tekan, RPC direndam air panas bersuhu bersuhu 90° Celcius (Richard dan Cheyrezy, 1995) selama tiga hari.
+
+Cara perawatan lain adalah dengan cara meletakkan material RPC di dalam ruangan beruap dengan suhu 90° Celcius pada tekanan normal (Bonneau, dkk., 1997) selama tiga hari.
+
+Dalam kondisi ideal di dalam laboratorium, kekuatan tekan RPC bisa mencapai 170- 230 MPa dan silinder RPC yang dikekang dengan selongsong baja bisa mencapai kuat tekan 490-680 MPa (Richard dan Cheyrezy, 1994).
+
+Dalam penelitian ini, hasil pengujian material RPC memperlihatkan sifat mekanik yang jauh lebih baik daripada Normal Concrete (NC) dari segi kekuatan tekan, kekuatan tarik, kekuatan lentur, dan modulus elastisitas.
+
+Pemodelan struktur subassemblage balokkolom prategang parsial dengan program finite element non-linier memperlihatkan bahwa struktur subassemblage yang menggunakan material RPC memiliki daktilitas, disipasi energi, kekakuan, dan kekuatan yang lebih tinggi daripada struktur subassemblage yang menggunakan material NC.
+
+Tujuan penelitian ini adalah untuk menganalisis kinerja dan perilaku histeretik model subassemblage balok-kolom interior prategang parsial yang menggunakan material RPC dibandingkan dengan model subassemblage balok-kolom interior prategang parsial yang menggunakan material NC.
+
+Diharapkan, analisis tersebut dapat memberikan informasi yang diperlukan untuk melakukan penelitian perilaku histeretik prototype subassemblage balok-kolom RPC prategang parsial dalam program eksperimen di laboratorium.
+
+2 Sistem Prategang Parsial dan Reactive Powder Concrete 
+
+Sistem prategang parsial telah umum digunakan pada bangunan gedung untuk mengurangi dimensi elemen struktur dan memperluas ruang.
+
+Umumnya, strand prategang dikombinasikan dengan baja tulangan untuk menjamin daktilitas yang diperlukan dapat tercapai dan mendisipasi energi cukup baik.
+
+Nilai Partially Prestressed Ratio (PPR) yang diatur di dalam SNI 03- 2847-2013 (2013) adalah maksimum sebesar 25% dan dipasang secara unbonded di daerah sendi plastis.
+
+Pada struktur subassemblage balok-kolom yang menggunakan tulangan prategang parsial pada balok, disipasi energinya lebih besar daripada yang dicapai oleh subassemblage balok-kolom prategang penuh pada balok (Thompson dan Park, 1980).
+
+Pada subassemblage balok-kolom yang kolomnya diberi baja tulangan tulangan dan baloknya diberi tulangan prategang parsial, efek kekakuan akibat adanya strand prategang bisa dikurangi, sehingga disipasi energinya cukup besar.
+
+Baja tulangan nonprategang dapat memperbesar daktilitas struktur dengan berperan sebagai tulangan tekan.
+
+Priestley, dkk. (1999) melakukan penelitian perilaku precast subassemblage balok-kolom berdasarkan Precast Concrete Seismic Structural Systems (PRESSS).
+
+Strand prategang pada balok dipasang secara unbonded di sepanjang bentang balok dan zona join.
+
+Hasil penelitian memperlihatkan kemampuan tulangan prategang parsial dan efisiensi sambungan daktail dry-jointed untuk mengurangi kerusakan saat menahan beban siklik besar.
+
+Penggunaan sistem dryjointed tersebut memungkinkan sistem struktur berperilaku self-centering saat terjadi unloading sehingga kurva histeretik membentuk flag-shape (NZCS, 2010).
+
+Penelitian mengenai komposisi RPC telah banyak dilakukan oleh para peneliti, baik dengan menggunakan serat baja maupun serat sintetis polypropylene, dan dengan menggunakan maupun tanpa air atau uap panas di awal proses hidrasi.
+
+Hasil penelitian yang dilakukan oleh Richard dan Cheyrezy (1994) menghasilkan RPC dengan kuat tekan beton berkisar antara 170-230 MPa, kuat lentur antara 25-60 MPa, kelecakan, daktilitas dan energi absorpsi yang tinggi.
+
+Menefy (2007) menggunakan campuran RPC yang dikembangkan oleh Gowripalan (2003).
+
+Kekuatan tekan RPC yang dihasilkan oleh Menefy adalah 127- 154 MPa.
+
+Graybeal (2007) dan Malik (2007) masingmasing menghasilkan RPC dengan kekuatan tekan antara 125-194 MPa dan 140-155.
+
+Modulus elastisitas adalah antara 39921-43365 MPa (Graybeal, 2007).
+
+ Dalam penelitian ini, komposisi campuran Reactive Powder Concrete (RPC) mengacu pada penelitian yang telah dilakukan oleh Naibaho, dkk. (2014) serta Kurniawan, dkk. (2011) seperti yang diperlihatkan pada Tabel 1.
+
+Kekuatan tekan beton yang dihasilkan adalah 135 MPa.
+
+Dalam penelitian ini, terdapat perbedaan jenis semen, superplasticizer, dan fraksi volume serat polypropylene yang digunakan, seperti yang diperlihatkan pada Tabel 2.
+
+Pada Trial Mix (TM)-1, TM-2, dan TM-3 terdapat variasi massa serat polypropylene berturut-turut sebesar 0,60 kg (0,07% fraksi volume), 0,75 kg (0,08% fraksi volume), dan 0,90 kg (0,10% fraksi volume) per 1 m3 RPC.
+
+Proses pencampuran RPC menggunakan plan mixer-dual blade berkapasitas 0,6 m3.
+
+Dalam penelitian ini, struktur bermaterial RPC dianalisis menggunakan model elemen diskrit tiga dimensi dengan program elemen hingga.
+
+Pemodelan elemen hingga beton bertulang dilakukan dengan menjadikan beton, baja tulangan, dan strand prategang sebagai elemen diskrit yang terpisah.
+
+Analisis elemen hingga dilakukan dengan program ANSYS.
+
+Elemen beton dimodelkan sebagai elemen SOLID65 yang merupakan elemen tiga dimensi dan memiliki 8 nodal (8-node brick element).
+
+Setiap nodal memiliki tiga derajat kebebasan translasi ke arah sumbu X, Y, dan Z seperti yang diperlihatkan pada Gambar 1.
+
+Elemen SOLID65 dapat dimodelkan sebagai elemen yang mengalami retak akibat tegangan tarik, kehancuran (crushing) akibat tegangan tekan, deformasi plastis, dan rangkak.
+
+Model elemen baja tulangan longitudinal dan transversal serta elemen strand prategang longitudinal menggunakan elemen LINK8.
+
+Gaya bekerja pada elemen adalah gaya aksial pada ujungujung batang LINK8 seperti yang diperlihatkan pada Gambar 2.
+
+Pada model tersebut, elemen dibentuk melalui dua titik di ujung-ujung batang dalam sistem koordinat Cartesian X,Y,Z.
+
+Setiap titik memiliki tiga derajat kebebasan dalam bentuk translasi ke arah sumbu X, Y, dan Z.
+
+Pada bidang struktur, persamaan kesetimbangan untuk sistem linier dinyatakan sebagai: 
+______ = __	_ (1)
+dengan:
+___ : matriks kekakuan struktur
+___ : vektor derajat kebebasan
+__	_ : vektor beban yang bekerja
+
+
+Dalam menangani kasus nonlinier, Persamaan (1) tidak dapat langsung digunakan.
+
+Proses iterasi diperlukan untuk mendapatkan solusi persamaan tersebut.
+
+Pada program ANSYS, terdapat beberapa metode yang dapat digunakan untuk memperoleh solusi yang konvergen, di antaranya adalah metode Newton- Raphson.
+
+Metode ini merupakan proses iterasi dalam menyelesaikan persamaan nonlinier berupa persamaan berikut.
+
+__
+__Δ___ = __	_ − ___
+___ (2)
+___+__ = ____ + _Δ___ (3)
+dengan:
+__
+_
+____
+: matriks kekakuan struktur
+: vektor derajat kebebasan
+___
+___ : vektor beban yang bekerja
+
+Dalam penelitian ini, metode yang dipilih pada program ANSYS adalah Full Newton-Raphson di mana matriks kekakuan diperbarui pada setiap iterasi.
+
+3. Kinerja Material RPC, Baja Tulangan, dan Strand Prategang 
+
+Pembuatan benda uji silinder dan balok untuk keperluan pengujian sifat mekanik material dilakukan di pabrik PT Wijaya Karya Beton di Cileungsi, Bogor.
+
+Dalam pembuatan benda uji tersebut, terdapat tiga macam campuran yang bervariasi pada kandungan serat polypropylene seperti yang tertera pada Tabel 2.
+
+Pengujian material dilakukan dengan alat Universal Testing Machine (UTM) berkapasitas 300 ton di Laboratorium P.T.Wijaya Karya Beton, Cileungsi, Bogor dan alat UTM berkapasitas 200 ton di Balai Jembatan dan Pelengkap Jalan, Pusat Penelitian dan Pengembangan Jalan dan Jembatan, Kementerian Pekerjaan Umum, Bandung.
+
+Benda uji untuk pengujian kuat tekan dan kuat tarik belah adalah silinder 10/20, benda uji modulus elastistas adalah silinder 15/30, dan benda uji kuat lentur adalah balok berukuran 10 × 10 × 35 cm3.
+
+3.1 Pengujian kekuatan tekan Hasil uji kuat tekan pada umur 3, 7, 14, 28, dan 56 hari diplot pada Gambar 3.
+
+Pada umur 3 hari, TM-1 memiliki kekuatan tekan yang lebih kecil daripada TM-2 dan TM-3.
+
+Pada umur 3 hari, kekuatan tekan TM -2 dan TM-3 hampir sama.
+
+TM-1, TM-2, dan TM-3 mengalami peningkatan kekuatan sampai dengan umur 56 hari.
+
+Pada Tabel 3, terlihat bahwa kuat tekan beton paling tinggi pada umur 28 hari dan 56 hari dicapai pada silinder yang dibuat dengan menggunakan komposisi campuran TM-2 yang menggunakan serat polypropylene sebanyak 0,08 % fraksi volume.
+
+Hasil pengujian kuat tekan memperlihatkan bahwa RPC yang menggunakan serat polypropylene sebanyak 0,08% fraksi volume (TM-2) memiliki regangan batas yang lebih tinggi daripada RPC yang menggunakan serat polypropylene sebanyak 0,10 % fraksi volume (TM-3).
+
+Dari hasil uji kuat tekan silinder yang dipasangi strain gage dengan sistem Wheatsone full bridge, pada umur 28 hari, saat terjadi tegangan puncak nilai regangan silinder TM-2 dan TM-3 berturut-turut adalah adalah 9,23 × 10-3dan 7,54 × 10-3.
+
+Nilai regangan saat tegangan puncak tersebut sekaligus merupakan nilai regangan batas yang dapat dibaca oleh strain gage.
+
+Perbedaan regangan pada silinder dengan trial mix yang berbeda disebabkan serat sebanyak 0,08 % fraksi volume pada TM-2 dapat terdispersi secara merata saat proses pencampuran bahan RPC sehingga memberikan tambahan kemampuan beton untuk mencapai regangan maksimum.
+
+Sedangkan, serat sebanyak 0,10 % fraksi volume mengalami kesulitan saat proses pencampuran bahan beton, di mana diperlukan pengadukan secara manual untuk membantu blade di dalam plan mixer.
+
+Kuat tekan RPC campuran TM-2 dan TM-3 pada nilai regangan tersebut berturutturut adalah 143,77 MPa dan 121,17 MPa.
+
+ 3.2 Pengujian kekuatan tarik Hasil pengujian kuat tarik diperlihatkan pada Tabel 4.
+
+Pada tabel tersebut, terlihat bahwa silinder yang dibuat menggunakan campuran TM-1 yang menggunakan serat 0,07% fraksi volume memiliki kekuatan tarik (ft) paling tinggi, diikuti oleh TM-2 dan TM-3 yang memiliki serat 0,08% dan 0,10% fraksi volume.
+
+3.3 Pengujian modulus elastisitas dan Poisson’s Ratio Hasil pengujian modulus elastisitas (Ec) dan Poisson’s Ratio (() diperlihatkan pada Tabel 5.
+
+Pada table tersebut, terlihat bahwa silinder yang dibuat menggunakan campuran TM-2 dengan serat 0,08% fraksi volume memiliki nilai modulus elastisitas dan Poisson ratio paling tinggi.
+
+Penentuan nilai modulus elastisitas dan Poisson’s ratio mengacu pada ASTM C469 (1994).
+
+ 3.4 Pengujian kekuatan lentur Hasil pengujian kuat lentur berdasarkan ASTM C78- 02 (2002) diperlihatkan pada Tabel 6.
+
+Pada tabel tersebut, terlihat bahwa balok yang dibuat menggunakan campuran TM-2 dengan serat 0,08% fraksi volume memiliki kekuatan lentur (fl) paling tinggi.
+
+ Dari hasil pengujian material beton, kinerja campuran TM-2 paling baik dalam nilai kuat tekan, modulus elastisitas, Poisson’s ratio, dan kuat lentur.
+
+Sedangkan, TM-1 memiliki nilai kuat tarik yang paling tinggi.
+
+Dalam proses pembuatan, campuran TM-2 memiliki sifat flow dan kelecakan yang cukup sehingga mudah untuk dibuat di lapangan.
+
+3. 5 Pengujian tarik baja tulangan Pengujian tarik baja tulangan dilakukan berdasarkan SNI 07-2529-1991 (1991).
+
+Baja tulangan yang diuji adalah tipe baja ulir (deformed bar) dengan diameter 13 mm untuk tulangan transversal dan diameter 22 mm untuk tulangan longitudinal.
+
+Hasil pengujian tarik baja adalah seperti yang diperlihatkan pada Tabel 7.
+
+3. 6 Pengujian tarik strand prategang Luas penampang strand yang berdiameter 12,7 mm dan 9,5 mm berturut-turut adalah 98,71 mm2 dan 55,03 mm2.
+
+Hasil pengujian tarik strand prategang diperlihatkan pada Tabel 8.
+
+Dari hasil pengujian tersebut, semua strand prategang yang diuji memenuhi syarat ASTM A416 (2006) tipe 270k (fpu = 1860 MPa).
+
+4.Detil Model Subassemblage Balok- Kolom Interior 
+
+Detil dimensi dan tulangan model subassemblage balok-kolom interior RPC dan NC adalah seperti yang diperlihatkan pada Gambar 4.
+
+Balok diberi baja tulangan longitudinal ulir D22 masing-masing sebanyak tiga batang di sisi atas dan bawah serta strand prategang, sehingga disebut balok dengan tulangan prategang parsial.
+
+Kolom diperkuat dengan 12 baja tulangan ulir longitudinal D22.
+
+Nilai Partial Prestressed Ratio (PPR) divariasikan sesuai luas strand prategang yang direkomendasikan di dalam ASTM A416/A416 M (2006).
+
+Untuk menahan gaya geser pada balok dan kolom serta memberikan confinement pada kolom, terdapat tulangan transversal ulir D13 dengan spasi 100 mm.
+
+5. Pemodelan Struktur Subassemblage Balok-Kolom Prategang Parsial dengan Program Finite Element Non-Linier 
+Dalam penelitian ini, model subassemblage balokkolom dibuat dengan program finite element non-linier dengan nilai Partial Prestressed Ratio (PPR) divariasikan di bawah dan di atas 25%, sedangkan material beton model struktur adalah RPC dan NC.
+
+PPR sebesar 25% merupakan nilai maksimum yang diijinkan di dalam SNI 03-2847-2013, Pasal 21.5.2.5 (c) (2013).
+
+Pada daerah sendi plastis, strand prategang dipasang secara unbonded sesuai dengan rekomendasi di dalam SNI 03-2847-2013, Pasal 21.5.2.5 (b) (2013).
+
+Input program di antaranya adalah dimensi dan detil struktur, baja tulangan, dan strand prategang, serta kurva hubungan regangan-tegangan setiap material yang merupakan bagian model struktur tersebut.
+
+Nilai kuat tekan RPC adalah 140 MPa (dari hasil TM-2), dan nilai kuat tekan NC ditetapkan sebesar 45 MPa.
+
+Dengan nilai kekuatan tekan tersebut, maka kekuatan tarik dan modulus elastisitas NC dapat diperkirakan dengan menggunakan persamaan-persamaan yang terdapat di dalam SNI 03-2847-2013 (2013) sebagai berikut: 
+
+__ = _ __ ___ ′ (5)
+__ ′ : kekuatan tekan beton (MPa)
+__ : kekuatan tarik beton (MPa)
+__ : modulus elastisitas beton (MPa)
+
+
+Maka, diperoleh nilai kekuatan tarik, modulus elastisitas, dan kekuatan lentur NC berturut-turut sebesar 4,16 MPa, dan 31528 MPa.
+
+Dalam pemodelan struktur dengan program finite element non-linier, terdapat variasi luas strand dan PPR seperti yang diperlihatkan pada Tabel 9.
+
+Luas strand tersebut mengacu pada ASTM A416 (2006).
+
+Nilai kekuatan nominal balok yang diberi tulangan prategang parsial berupa momen nominal (Mn) bervariasi sesuai PPR.
+
+Input pembebanan berupa kombinasi beban aksial tekan konstan sebesar 0,1 fc’ Ag dan beban lateral siklik di ujung atas kolom yang diatur dengan displacement control (ACI 374.1-05, 2005) yang dimodifikasi sebagai input program seperti yang diperlihatkan pada Gambar 5.
+
+Pada ACI 374.1-05, pada setiap drift ratio terdapat tiga siklus pembebanan dan di antara drift ratio yang berbeda, terdapat siklus relaksasi.
+
+Karena pada suatu drift ratio tertentu output kurva histeretik program finite element non-linier siklus ke-1, 2, dan 3 berimpit, maka pemodelan disederhanakan dengan hanya melakukan satu siklus pembebanan untuk setiap drift ratio dan tidak terdapat siklus relaksasi.
+
+Berdasarkan ACI 374.1-05 (2005), siklus pembebanan ke arah lateral kolom dimulai dari drift ratio 0,20%, kemudian terus ditingkatkan sampai dengan drift ratio 3,50%.
+
+Apabila memungkinkan, pembebanan diteruskan sampai drift ratio 5,50%.
+
+Pada pemodelan dengan program finite element nonlinier, drift ratio awal adalah 0,05%, dilanjutkan dengan drift ratio 1,00%, dan 0,20%, dan selanjutnya sesuai dengan ACI 374.1-05 (2005).
+
+Penambahan drift ratio kecil pada awal pembebanan adalah untuk memastikan bahwa struktur mendapat beban awal yang tidak melampaui beban leleh.
+
+Set up perletakan dan pembebanan model struktur subassemblage balok-kolom interior dibuat dengan Gambar 5.
+
+Siklus pembebanan lateral mengacu pada set up yang digunakan di Laboratorium Struktur dan Konstruksi Bangunan, Pusat Penelitian dan Pengembangan Permukiman, Kementerian Pekerjaan Umum.
+
+Pada set up tersebut, prototype diletakkan pada loading frame dan terdapat pelat-pelat pada ujung kolom dan balok yang digunakan sebagai perletakan dan tempat transfer beban dari load cell ke prototype.
+
+Maka, pemodelan S-RPC dan S-NC adalah seperti yang diperlihatkan pada Gambar 6.a.
+
+Kombinasi beban aksial tekan konstan dan lateral siklik di ujung atas kolom dan perletakannya adalah seperti yang diperlihatkan pada Gambar 6.b.
+
+ 6.Analisis Output Program Finite Element Non-Linier 
+
+Analisis output program finite element non-linier memperlihatkan bahwa semua model subassemblage yang menggunakan material Reactive Powder Concrete (RPC) memiliki kekuatan (F) dan deformasi lateral (() yang jauh lebih besar daripada model subassemblage yang menggunakan material Normal Concrete (NC) seperti yang diperlihatkan pada Gambar 7 dan Gambar 8.
+
+Dari nilai deformasi lateral yang dicapai, dapat diketahui bahwa tiga model subassemblage yang menggunakan material RPC dan PPR sebesar 21,39% s.d.37,34% mampu mencapai drift ratio 5,00 %, sehingga melebihi drift ratio minimum yang harus dicapai menurut ACI 374.1-05 (2005), yaitu 3,50%.
+
+Model ke-4 dengan nilai PPR terbesar yaitu 46,29% tidak mencapai drift ratio 5,00% disebabkan sifat model terlalu getas.
+
+Di sisi lain, semua model subassemblage dengan material NC tidak ada yang mencapai drift ratio 5,00 % karena terjadi crushing pada material NC yang lebih cepat terjadi daripada model subassemblage RPC.
+
+Model subassemblage NC ke-3 dengan PPR sebesar 34,15% mencapai drift ratio 3,50%, dan seiring dengan berkurangnya nilai PPR, drift ratio maksimum yang dapat dicapai menurun seperti yang diperlihatkan pada Tabel 10.
+
+Pada model ke-4 yang memiliki PPR sebesar 45,38%, drift ratio yang tercapai hanya 2,20% diakibatkan sifat model terlalu getas.
+
+Dari semua model tersebut, untuk model subassemblage RPC dan NC, nilai PPR yang terbaik untuk meningkatkan daktilitas berturut-turut adalah 37,34% dan 34,15%.
+
+  6.1 Daktilitas 
+
+Daktilitas perpindahan adalah perbandingan antara perpindahan struktur maksimum ((maks) terhadap perpindahan struktur pada saat leleh ()y) (Paulay dan Priestly, 1992).
+
+Penentuan deformasi leleh dilakukan dengan cara FEMA 356 (2000) di mana beban leleh (Fy) ditentukan dari garis perpotongan yang membentuk dua area sama luas.
+
+Garis pertama ditarik dari titik (0,0) ke titik di mana diasumsikan terjadi 0,6 Fy.
+
+Garis kedua dihubungkan oleh titik saat terjadi Fmaks dengan titik asumsi saat terjadi Fy.
+
+Penarikan garis dicobacoba sampai luas kedua area di bawah kurva menjadi sama.
+
+Perpindahan saat leleh (py) adalah perpindahan saat terjadi beban leleh (Fy).
+
+Nilai daktilitas semua model subassemblage balok-kolom RPC dan NC diperlihatkan pada Tabel 11.
+
+Drift ratio maksimum yang dicapai oleh setiap model subassemblage balok-kolom RPC dan NC mempengaruhi besarnya daktilitas.
+
+Dari tiga model subassemblage balok-kolom RPC yang mencapai drift ratio 5,00% pada kondisi pembebanan dorong dan tarik, model S-RPC-37,34 mencapai beban dan deformasi lateral maksimum yang lebih besar daripada model subassemblage balok-kolom RPC lain.
+
+Sehingga, daktilitas model S-RPC-37,34 pada pembebanan dorong dan tarik berturut-turut sebesar 6,68 dan 6,65, sedangkan model S-RPC-21,39, S-RPC-31,72, dan SRPC- 46,29 memiliki daktilitas berturut-turut sebesar 98,93%, 99,01%, dan 92,83% dari daktilitas model SRPC- 37,34 pada kondisi pembebanan dorong serta 99,62%, 99,63%, dan 70,09% pada kondisi pembebanan tarik.
+
+Hal ini disebabkan model S-RPC-37,34 memiliki kekuatan nominal balok yang lebih tinggi daripada model lain dan tetap bersifat daktail sehingga memiliki kinerja terbaik.
+
+Seiring dengan meningkatnya PPR, maka kekuatan nominal balok meningkat dan bersifat semakin getas.
+
+Maka, model S-RPC-46,29 yang memiliki PPR tertinggi memiliki daktilitas yang lebih kecil daripada model S-RPC-37,34.
+
+Dengan analisis yang sama, model S-NC-34,15 memiliki kekuatan nominal balok yang lebih tinggi daripada model lain dan tetap bersifat daktail sehingga memiliki daktilitas tertinggi.
+
+Pada model subassemblage NC, perbedaan PPR mempengaruhi nilai daktilitas secara lebih signifikan.
+
+Model S-NC-34,15 memiliki daktilitas tertinggi berturut-turut sebesar 5,01 dan 4,64 pada kondisi pembebanan dorong dan tarik.
+
+Sedangkan model S-NC-21,09, S-NC-32,02, dan S-NC-45,38 memiliki nilai daktilitas berturut-turut sebesar 85,92%, 77,63%, dan 58,29% dari daktilitas model S-NC-34,15 dalam kondisi pembebanan dorong serta 78,61%, 78,57%, dan 50,19% dari daktilitas model S-NC-34,15 dalam kondisi pembebanan tarik.
+
+Hal ini disebabkan kekuatan nominal balok NC yang jauh lebih kecil daripada RPC, sehingga seiring dengan pengurangan PPR, penurunan daktilitas terpengaruh secara signifikan.
+
+6.2 Disipasi energi 
+
+Disipasi energi adalah kemampuan struktur untuk memencarkan energi melalui proses leleh pada daerah sendi plastis.
+
+ Pembentukan sendi plastis terjadi akibat adanya retak dan crushing beton, serta leleh baja tulangan atau strand prategang.
+
+ Dalam desain subassemblage balok-kolom, sendi plastis terletak pada ujung balok di dekat kolom agar terjadi mekanisme kolom-kuat balok-lemah.
+
+ Dalam kurva histeretik hubungan beban-perpindahan, disipasi energi pada suatu drift ratio merupakan luas bagian dalam kurva yang dapat dihitung sebagai satu loop cycle (ACI 374.1-05, 2005).
+
+ Nilai disipasi energi dan input energi setiap model subassemblage balok-kolom RPC dan NC diperlihatkan pada Tabel 12.
+
+ Karena model S-RPC-37,34 memiliki kekuatan nominal balok lebih tinggi daripada model subassemblage RPC lain dan tetap bersifat daktail, maka disipasi energi yang dicapai lebih besar daripada model subassemblage RPC yang lain.
+
+ Disipasi energi model S-RPC-21,39 dan S-RPC-31,72 adalah 95,39% dan 94,09%.
+
+ Model S-RPC-46,29 mencapai 80,72% dari disipasi energi model S-RPC- 37,34 karena walaupun memiliki kekuatan nominal tertinggi, sifat getas dari strand prategang mengakibatkan model tidak dapat berdeformasi cukup besar sehingga mengurangi daktilitas.
+
+ Demikian pula dengan model S-NC-34,15 yang memiliki kekuatan nominal balok lebih tinggi daripada model subassemblage NC lain dan tetap bersifat daktail, maka disipasi energi yang dicapai lebih besar daripada model subassemblage NC yang lain.
+
+ Pada model subassemblage balok-kolom NC, perbedaan PPR mempengaruhi disipasi energi secara signifikan.
+
+ Hal ini disebabkan kekuatan nominal balok NC yang jauh lebih kecil daripada RPC, sehingga seiring dengan pengurangan PPR, penurunan disipasi energi terpengaruh secara signifikan.
+
+ Model S-NC-21,09 dan S-NC-32,02 mencapai disipasi energi sebesar 66,13% dan 48,74% dari disipasi energi yang dicapai oleh model S-NC-34,15.
+
+ Hal ini disebabkan karena kedua model tersebut memiliki kekuatan nominal balok yang lebih kecil seiring dengan menurunnya PPR.
+
+ Model S-NC-45,38 mencapai disipasi energi sebesar 13,82% dari disipasi energi model S-NC-34,15 karena walaupun memiliki kekuatan nominal yang tinggi, model tersebut bersifat getas sehingga tidak cukup daktail untuk mendisipasi energi dengan lebih baik.
+
+ 6.3 Kekakuan dan degradasi kekakuan Penentuan nilai kekakuan (K) pada suatu drift ratio adalah perbandingan antara kekuatan (F) maksimum terhadap deformasi lateral (t) di ujung atas kolom pada dua arah pembebanan lateral.
+
+ Degradasi kekakuan adalah rasio kekakuan pada suatu drift ratio terhadap kekakuan pada drift ratio sebelumnya.
+
+ Degradasi kekakuan terjadi karena perlemahan elemen struktur akibat menahan beban siklik.
+
+ Hubungan kekakuan dan drift ratio empat model subassemblage RPC dan empat subassemblage NC dalam kondisi pembebanan dorong dan tarik diperlihatkan pada Gambar 9.a dan 9.b.
+
+ Sedangkan, hubungan degradasi kekakuan dan drift ratio empat model subassemblage RPC dan empat subassemblage NC dalam kondisi pembebanan dorong dan tarik diperlihatkan pada Gambar 10.a dan 10.b.
+
+ Untuk memudahkan perbandingan, setiap kekakuan dan degradasi kekakuan pada suatu drift ratio dibandingkan dengan kekakuan saat leleh signifikan kondisi pembebanan dorong dan tarik.
+
+ Kekakuan model subassemblage balok-kolom RPC jauh lebih tinggi daripada model subassemblage balok-kolom NC karena material RPC memiliki kekuatan tekan, kekuatan tarik, modulus elastisitas (kekakuan), dan kekuatan lentur yang jauh lebih tinggi daripada NC.
+
+ Pada model subassemblage balokkolom RPC, penurunan nilai kekakuan dan degradasi kekakuan terjadi lebih cepat daripada subassemblage balok-kolom NC.
+
+ Pada drift ratio 0,10% sampai dengan 0,75% (saat leleh), model subassemblage RPC mengalami penurunan nilai kekakuan dan degradasi kekakuan yang semakin besar.
+
+ Pada drift ratio selanjutnya, yaitu 1,0% sampai dengan 5,00%, penurunan nilai kekakuan dan degradasi kekakuan terjadi lebih lambat.
+
+ Untuk model subassemblage NC, penurunan nilai kekakuan dan degradasi kekakuan semakin besar pada drift ratio 0,10% sampai dengan 0,75% (saat leleh), tetapi tidak secepat yang dialami model subassemblage RPC.
+
+ Demikian pula, saat drift ratio selanjutnya, yaitu 1,0% sampai dengan 5,00% atau 3,50% (akhir pembebanan), penurunan nilai kekakuan dan degradasi kekakuan model subassemblage NC menurun, tetapi tidak secepat yang terjadi pada model subassemblage RPC.
+
+ Perbedaan kecepatan degradasi kekakuan antara model subassemblage balok-kolom RPC dengan model subassemblage balok-kolom NC adalah karena RPC bersifat lebih getas.
+
+ Hal ini disebabkan RPC terdiri dari material berukuran mikro dan lebih padat daripada NC.
+
+ Sehingga, saat suatu elemen model subassemblage RPC mengalami retak dan crushing, terjadi penurunan kekakuan dan degradasi kekakuan yang lebih cepat daripada model subassemblage NC.
+
+ 6.4 Kekuatan dan degradasi kekuatan 
+
+Kekuatan (F) adalah nilai reaksi lateral saat terjadi deformasi lateral (d) maksimum pada suatu drift ratio.
+
+ Kekuatan dan deformasi lateral maksimum setiap drift ratio membentuk kurva backbone.
+
+ Kurva backbone semua model S-RPC dan S-NC pada Gambar 11 memperlihatkan bahwa semua model S-RPC memiliki kekuatan jauh lebih tinggi daripada model S-NC.
+
+ Menurut ACI 374.1-05 (2005), drift ratio minimum yang harus dicapai adalah 3,50%.
+
+ Dari Tabel 10, terlihat bahwa terdapat tiga model S-RPC yang mencapai drift ratio 5,00% dan satu model S-RPC mencapai drift ratio 3,50% pada kondisi pembebanan dorong dan tarik.
+
+ Sedangkan, hanya terdapat satu model S-NC yang mencapai kondisi drift ratio 3,50% pada kondisi pembebanan dorong dan tarik, yaitu model S-NC- 34,15.
+
+ Pada drift ratio 3,50%, perbandingan kekuatan model S-NC-34,15 terhadap model empat S-RPC pada kondisi pembebanan dorong dan tarik adalah seperti yang diperlihatkan pada Tabel 13.
+
+ Degradasi kekuatan akibat beban siklik pada suatu drift ratio didefinisikan sebagai kapasitas beban pada suatu drift ratio terhadap kapasitas beban drift ratio sebelumnya (ATC, 2005).
+
+ Hubungan degradasi kekuatan dan drift ratio empat model subassemblage RPC dalam kondisi pembebanan dorong dan tarik diperlihatkan pada Gambar 12.a dan 12.b.
+
+ Sedangkan, hubungan degradasi kekuatan dan drift ratio empat model subassemblage NC dalam kondisi pembebanan dorong dan tarik diperlihatkan pada Gambar 13.a dan 13.b.
+
+ Untuk memudahkan perbandingan, setiap beban pada puncak kurva dibandingkan dengan beban saat leleh signifikan kondisi pembebanan dorong dan tarik.
+
+ Model subassemblage balok-kolom RPC dan NC relatif mengalami degradasi kekuatan yang hampir sama sejak drift ratio 0,10% sampai dengan akhir pembebanan.
+
+ Pada model subassemblage balok-kolom RPC, model S-RPC-37,34 dan S-RPC-46,29 mengalami degradasi kekuatan lebih lambat daripada model S-RPC-21,39 dan S-RPC-31,72 sejak drift ratio 1,75% baik dalam kondisi pembebanan dorong maupun tarik.
+
+ Hal ini disebabkan strand prategang pada model dengan PPR tinggi (37,34% dan 46,29%) memberikan sumbangan kekuatan yang cukup signifikan jika dibandingkan dengan model dengan PPR lebih rendah (21,39% dan 31,72%) pada pembebanan dengan drift ratio 1,75% dan selanjutnya.
+
+ Pada model subassemblage balok-kolom NC, degradasi kekuatan relatif sama pada semua model dengan PPR yang bervariasi sampai dengan drift ratio 3,50% pada kondisi pembebanan dorong dan pada drift ratio 2,75% pada kondisi pembebanan tarik.
+
+ Pengecualian terjadi pada model S-NC-32,02 drift ratio 3,50% kondisi pembebanan dorong, dimana degradasi kekuatan terjadi lebih lambat daripada model S-NC- 34,15.
+
+ Hal ini disebabkan kekuatan nominal model SNC- 32,02 lebih rendah daripada model S-NC-34,15 pada drift ratio 2,75%.
+
+7. Kesimpulan Hasil percobaan material telah memperlihatkan bahwa Reactive Powder Concrete (RPC) yang menggunakan komposisi material berukuran mikro, superplastisizer dan silica fume, perbandingan air terhadap semen rendah, serta mendapat perawatan dengan uap panas bersuhu 90 derajat Celcius selama tiga hari dapat mencapai kekuatan tekan, kekuatan tarik, modulus elastisitas, dan kuat lentur yang lebih tinggi daripada Normal Concrete (NC).
+
+Hasil analisis dengan program finite element non-linier model subassemblage balokkolom prategang parsial bermaterial RPC (S-RPC) memperlihatkan keunggulan kinerja dibandingkan dengan model subassemblage balok-kolom prategang parsial bermaterial NC (S-NC).
+
+Analisis output pemodelan subassemblage balok-kolom RPC dan NC menghasilkan kesimpulan sebagai berikut:  
+
+1.Model S-RPC-21,39, S-RPC-31,72, dan S-RPC- 37,34 dapat mencapai drift story 5,00% dalam k ondisi pembebanan dorong dan tarik.
+
+Sedangkan, model S-RPC-46,29 bersifat lebih getas sehingga mencapai drift ratio 5,00% hanya pada kondisi pembebanan dorong.
+
+Model S-NC-21,09 dan S-NC -32,02 dapat mencapai drift story berturut-turut sebesar 3,50% dan 2,75% dalam kondisi pembebanan dorong dan tarik.
+
+Model S-NC-34,15 memiliki kekuatan nominal balok lebih tinggi daripada model S-NC-21,09 dan S-NC-32,02 yang PPR-nya lebih rendah, sehingga dapat mencapai drift ratio berturut-turut sebesar 5,00% dan 3,50% pada kondisi pembebanan dorong dan tarik.
+
+Model S-NC-45,38 memiliki kekuatan nominal balok tertinggi tetapi bersifat lebih getas sehingga hanya mencapai drift ratio berturut-turut sebesar 2,20% dan 1,75% pada kondisi pembebanan dorong dan tarik.
+
+2.Drift ratio maksimum yang dicapai oleh setiap model subassemblage balok-kolom RPC dan NC mempengaruhi besarnya daktilitas.
+
+Model S-RPC- 37,34 mencapai beban dan deformasi maksimum yang lebih besar daripada model subassemblage balok-kolom RPC lain.
+
+Hal ini disebabkan model S -RPC-37,34 memiliki kekuatan nominal yang lebih tinggi daripada model lain dan tetap bersifat daktail sehingga memiliki daktilitas tertinggi.
+
+Model S-RPC-46,29 memiliki kekuatan nominal tertinggi tetapi bersifat lebih getas sehingga mencapai drift ratio maksimum yang lebih rendah daripada model S-RPC-37,34.
+
+3.PPR sebesar 37,34% pada model S-RPC-37,34 adalah optimum untuk memberikan kekuatan nominal yang tinggi sekaligus tetap bersifat daktail dibandingkan dengan model subassemblage RPC lain.
+
+Model S-RPC-46,29 mencapai 80,72% dari disipasi energi model S-RPC-37,34 karena walaupun memiliki kekuatan nominal tertinggi, sifat getas dari strand prategang mengakibatkan model tidak dapat berdeformasi cukup besar sehingga mengurangi daktilitas.
+
+4.Pada model subassemblage balok-kolom NC, model S-NC-34,15 memiliki kekuatan nominal balok lebih tinggi daripada model subassemblage NC lain dan tetap bersifat daktail.
+
+Maka, disipasi energi yang dicapai lebih besar daripada model subassemblage NC yang lain.
+
+Pada model subassemblage balok-kolom NC, perbedaan PPR mempengaruhi disipasi energi secara signifikan.
+
+5.Kekakuan model subassemblage balok-kolom RPC jauh lebih tinggi daripada model subassemblage balok-kolom NC karena material RPC memiliki kekuatan tekan, kekuatan tarik, modulus elastisitas (kekakuan), dan kekuatan lentur yang jauh lebih tinggi daripada NC.
+
+RPC bersifat lebih getas daripada NC karena terdiri dari material berukuran mikro dan lebih padat daripada NC.
+
+Hal ini menyebabkan penurunan kekakuan dan degradasi kekakuan yang lebih cepat pada model subassemblage RPC daripada model subassemblage NC, saat suatu elemen RPC mengalami retak atau crushing.
+
+6. Model subassemblage balok-kolom RPC dan NC yang memiliki PPR berturut-turut sebesar 37,34% dan 34,15% memperlihatkan kinerja yang lebih baik daripada model subassemblage balok-kolom RPC dan NC dengan PPR maksimum 25% seperti yang direkomendasikan di dalam SNI 03-2847- 2013, Pasal 21.5.2.5 (c) (2013) dalam hal daktilitas, disipasi energi, kekakuan, dan kekuatan.
+
+Sehingga, kekuatan nominal balok dapat ditingkatkan dengan memberikan PPR di atas 25% dengan tetap memperhatikan aspek daktilitas dan disipasi energi.
+
+ 

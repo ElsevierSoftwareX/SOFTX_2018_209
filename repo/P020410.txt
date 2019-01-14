@@ -1,0 +1,115 @@
+﻿Sistem informasi pendaftaran beasiswa PPA jurusan Ilmu Komputer FMIPA
+Universitas Lampung adalah sebuah sistem yang digunakan untuk mempermudah
+dalam pengolahan data beasiswa. Dalam sistem ini seorang mahasiswa yang ingin
+mengikuti seleksi pendaftaran beasiswa PPA dijurusan Ilmu Komputer ini harus
+memasukkan data pendaftarannya pada sistem ini, sehingga sekretaris jurusan
+tidak perlu memasukkan data pendaftarannya kembali, namun cukup memeriksa
+data pendaftar beasiswa saja. Selain itu sistem ini dapat melakukan perankingan
+secara otomatis menggunakan dua metode sorting quick sort dan selection sort.
+Berdasarkan running time sort dan kompleksitas algoritmanya, terbukti bahwa
+metode sorting quick sort lebih cepat dibandingkan dengan metode sorting
+selection sort. Sistem ini dibangun menggunakan bahasa pemrograman PHP dan
+didukung MySQL sebagai database servernya. Hasil dari data pengujian
+fungsional menunjukkan bahwa sistem ini dapat berfungsi sesuai dengan analisis
+kebutuhan. Berdasarkan data pengujian Non Fungsional menunjukkan bahwa
+sistem pada tingkat admin termasuk dalam kategori “Baik” dengan nilai rata-rata
+4,20 dan sistem pada tingkat mahasiswa (user) masuk dalam kategori “Baik”
+dengan nilai rata-rata 3,97.
+Kata Kunci : Sistem Informasi, Beasiswa, Peningkatan Prestasi Akademik,
+quick sort, selection sort.
+
+BAB I
+PENDAHULUAN
+1.1 Latar Belakang
+Dalam pasal 31 ayat 1 Undang-Undang Dasar Republik Indonesia 1945 dijelaskan
+bahwa setiap warga negara berhak mendapatkan pendidikan. Pendidikan memiliki
+peran yang sangat penting bagi setiap warga negara, karena pendidikan
+merupakan salah satu upaya untuk meningkatkan taraf hidup manusia. Untuk
+menunjang proses pendidikan ini dibutuhkan biaya, sementara tidak semua
+mahasiswa memiliki latar belakang orang tua dengan kemampuan ekonomi yang
+sama. Oleh sebab itu, pemerintah memberikan bantuan beasiswa kepada mereka
+yang membutuhkan. Pemberian beasiswa merupakan program kerja yang ada di
+setiap universitas atau perguruan tinggi. Program beasiswa ini diadakan untuk
+meringankan beban biaya mahasiswa dalam menempuh masa studi kuliah.
+Beasiswa adalah bantuan berupa keuangan yang diberikan kepada perorangan
+yang bertujuan untuk digunakan demi keberlangsungan pendidikan yang
+ditempuh. Beasiswa dapat diberikan oleh lembaga pemerintah, perusahaan
+ataupun yayasan (Lahinta, 2009).
+
+Pendaftaran beasiswa di Universitas Lampung khususnya di Fakultas Matematika
+dan Ilmu Pengetahuan Alam masih dilakukan secara manual, sehingga dalam
+pengolahan datanya kurang efisien. Proses pendaftaran yang dilakukan selama ini
+setelah para mahasiswa yang mendaftar beasiswa mengumpulkan berkas
+pendaftaran ke pihak dekanat selanjutnya dari pihak dekanat menyerahkan berkasberkas
+mahasiswa tersebut ke masing-masing jurusan sesuai dengan jurusan para
+mahasiswa yang mendaftar untuk diolah. Pengolahan data masih secara manual
+sehingga menambah beban kerja Sekretaris Jurusan. Setelah itu, data-data tersebut
+diserahkan kembali ke dekanat untuk diproses dan untuk menentukan siapa saja
+mahasiswa yang berhak menerima beasiswa.
+Untuk itu, perlu dikembangkan dan dibangun sebuah sistem untuk pengolahan
+data pendaftaran beasiswa, sehingga diharapkan nantinya akan meringankan tugas
+sekretaris jurusan. Dalam sistem yang akan dibuat ini sekretaris jurusan cukup
+memeriksa data pendaftar beasiswa saja, sedangkan data pendaftar oleh
+mahasiswa yang bersangkutan, kemudian sistem ini akan melakukan perankingan
+secara otomatis, hasil dari perangkingan tersebut akan diserahkan oleh pihak
+jurusan ke dekanat. Setelah pihak dekanat memberikan pengumuman hasil
+seleksi, kemudian pihak jurusan akan memasukkan hasil pengumuman tersebut ke
+sistem.
+
+Setiap Universitas atau Perguruan Tinggi memiliki syarat masing-masing dalam
+proses penyeleksian penerimaan beasiswa, khususnya beasiswa PPA, namun pada
+penelitian ini mengambil riset di Jurusan Ilmu Komputer Fakultas MIPA UNILA.
+Dalam menentukan siapa yang berhak menerima beasiswa, harus dilakukan seleksi khusus sesuai dengan kriteria yang ditetapkan. Pada penerimaan beasiswa
+Peningkatan Prestasi Akademi (PPA) di Jurusan Ilmu Komputer FMIPA UNILA
+ini memiliki kriteria atau faktor bobot penilaian antara lain:
+
+1. Mahasiswa harus memiliki kriteria Indeks Prestasi Kumulatif (IPK)
+setidaknya 3,0.
+2. Pada jenjang S1, tingkatan mahasiswa duduk pada semester II dan paling
+tinggi duduk pada semester VII.
+3. Pada jenjang D3, tingkatan mahasiswa duduk pada semester II dan paling
+tinggi duduk pada semester V.
+4. Penghasilan orang tua, tanggungan orang tua, dan jumlah saudara kandung,
+prestasi-prestasi di kegiatan akademik maupun prestasi ekstra kurikuler
+(olahraga, teknologi, seni/ budaya tingkat internasional/ dunia, Regional/
+Asia/ Asean dan Nasional), merupakan kriteria utama yang akan menjadi
+pertimbangan apakah mahasiswa tersebut layak menerima atau tidak layak
+menerima beasiswa.
+1.2 Rumusan Masalah
+Adapun rumusan masalah yang dibahas pada karya tulis ilmiah ini adalah
+bagaimana cara membuat Sistem Informasi Pendaftaran Beasiswa Peningkatan
+Prestasi Akademik (PPA) Jurusan Ilmu Komputer Fakultas Matematika Dan Ilmu
+Pengetahuan Alam Universitas Lampung dengan menerapkan dua metode sorting
+yaitu quick sort dan selection sort, tujuan menggunakan kedua metode sorting
+tersebut agar dapat mengetahui metode mana yang lebih baik serta lebih efisien
+untuk digunakan.
+4
+1.3 Batasan Masalah
+Batasan masalah pada karya tulis ilmiah ini adalah:
+1. Pengembangan Sistem Informasi Pendaftaran Beasiswa Peningkatan Prestasi
+Akademik (PPA) Jurusan Ilmu Komputer Fakultas Matematika Dan Ilmu
+Pengetahuan Alam Universitas Lampung dengan menerapkan 2 metode
+sorting yaitu quick sort dan selection sort.
+2. Pembangunan sistem ini menggunakan teknologi berbasis web.
+3. Sistem ini hanya membantu proses pengurutan hasil pendaftaran beasiswa
+PPA, Sedangkan keputusan akhir penerima beasiswa ditentukan oleh pihak
+fakultas.
+4. Penentuan penerima beasiswa berdasarkan kriteria yang telah ditentukan.
+1.4 Tujuan
+Tujuan penelitian dalam karya tulis ilmiah ini adalah:
+1. Untuk membuat Sistem Informasi Pendaftaran Beasiswa Peningkatan Prestasi
+Akademik (PPA) Jurusan Ilmu Komputer Fakultas Matematika Dan Ilmu
+Pengetahuan Alam Universitas Lampung dagar dapat membantu pekerjaan
+para Sekretaris Jurusan.
+2. Untuk membandingkan dua metode sorting yaitu quick sort dan selection sort
+agar dapat mengetahui metode mana yang lebih baik serta lebih efisien untuk
+digunakan.
+
+1.5 Manfaat
+Manfaat dari penelitian karya tulis ilmiah ini adalah:
+1. Pekerjaan Sekretaris Jurusan lebih efisien karena tidak perlu memasukkan
+data para pendaftar beasiswa, data tersebut di isi sendiri oleh para pendaftar
+dan tersimpan di database pendaftaran.
+2. Dapat digunakan untuk acuan atau referensi bagi pembaca apabila ingin
+mengembangkan sistem yang serupa.
+3. Sebagai syarat kelulusan.

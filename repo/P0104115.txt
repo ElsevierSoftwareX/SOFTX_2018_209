@@ -1,0 +1,257 @@
+﻿Analisa Kinerja Multiple Input Multiple Output Jaringan
+Sensor Nirkabel dengan Demodulasi Terdistribusi
+
+Intisari—Jaringan sensor nirkabel memiliki beberapa
+kelemahan antara lain keterbatasan daya, memori dan
+komunikasi. Sensor dicatu oleh baterai yang mempunyai daya
+yang sangat terbatas. Selain itu jaringan sensor nirkabel juga
+harus memperhatikan ketersediaan bandwidth, range sensor dan
+range komunikasi sensor. Tujuan utama pada penelitian ini
+adalah menganalisa kinerja demodulasi linier yaitu Zero
+Forcing (ZF) dan Minimum Mean Squared Error (MMSE) pada
+jaringan sensor nirkabel menggunakan sistem Multiple Input dan
+Multiple Output (MIMO) dengan parameter yang digunakan
+untuk mengukur kinerja akan ketahanan terhadap noise adalah
+Signal to Noise Ratio (SNR) dan Bit Error Rate (BER). Penerapan
+demodulasi linier ZF dan MMSE dengan konfigurasi MIMO
+yang diterapkan pada Jaringan Sensor Nirkabel ternyata tetap
+bagus, kinerja ZF untuk mencapai nilai BER 10-3 dibutuhkan
+SNR 21 dB, sedangkan kinerja MMSE untuk mencapai nilai
+BER 10-3 dibutuhkan SNR 18 dB.
+Kata Kunci— Jaringan Sensor Nirkabel, MIMO, Zero Forcing,
+Minimum Mean Squared Error.
+
+
+I. PENDAHULUAN
+Penelitian di bidang jaringan sensor nirkabel mengalami
+kemajuan yang sangat pesat beberapa tahun ini. Jaringan
+sensor nirkabel memiliki beberapa kelemahan antara lain
+keterbatasan daya, memori dan komunikasi. Sensor dicatu
+oleh baterai yang mempunyai dengan daya yang terbatas.
+Selain itu jaringan sensor nirkabel juga harus memperhatikan
+ketersediaan bandwidth, range sensor dan range komunikasi
+sensor [1].
+Jayaweera pada tahun 2005 telah melakukan penelitian
+untuk mengatasi keterbatasan daya dengan mengusulkan
+arsitektur virtual Multiple Input Multiple Output (MIMO)
+yang bersifat kooperatif dan terdistribusi pada jaringan sensor
+nirkabel. Jayaweera pada tahun 2005 telah melakukan
+penelitian untuk mengatasi keterbatasan daya dengan
+mengusulkan arsitektur virtual Multiple Input Multiple Output
+(MIMO) yang bersifat kooperatif dan terdistribusi pada
+jaringan sensor nirkabel [2].
+Pada tahun 2007 Tuan-Duc Nguyen juga meneliti tentang
+usulan skema MIMO dengan sistem kooperatif menggunakan
+lintasan multihop yang hemat energi. Teknik decoding yang
+digunakan adalah Space-Time Block Code (STBC) melalui
+kanal Rayleigh.
+Yi Jiang pada tahun 2011 telah melakukan penelitian yang
+menggabungkan beberapa metode untuk penghematan energi
+dari segi informasi maupun dari segi pengolahan sinyal yaitu
+dengan cara menganalisa kinerja ekualizer ZF dan MMSE
+pada sistem MIMO. Hasil penelitian menunjukkan terdapat
+gap SNR antara ZF dan MMSE untuk daerah uji SNR tinggi
+[2].
+Penelitian untuk mengatasi keterbatasan sumberdaya pada
+jaringan sensor nirkabel sistem terdistribusi juga telah
+dilakukan penulis sejak tahun 2011 yaitu demodulasi
+berdasarkan konsensus MoM yang terdistribusi. Kemudian
+dilanjutkan pada tahun 2013 penelitian tentang demodulasi
+linier MMSE dengan algoritma Average-Network Delay (AND)
+untuk kegagalan link acak. Penelitian tentang Alamouti
+Space Time Block Coding pada Sistem Wireless MIMO juga
+dilakukan penulis pada tahun 2013.
+Tujuan utama pada penelitian ini adalah menganalisa
+kinerja demodulasi sistem terdistribusi yaitu ZF pada jaringan
+sensor nirkabel menggunakan sistem MIMO untuk mengatasi
+keterbatasan daya.
+II. MODEL SISTEM
+Model sistem penelitian ini seperti pada Gbr. 1. Dimana
+beberapa sensor disebar pada suatu daerah tertentu secara acak.
+Topologi yang digunakan adalah topologi jaringan serial.
+Topologi ini tidak membedakan sensor berdasarkan
+tingkatannya melainkan menganggap semua sensor
+mempunyai kedudukan dan fungsi yang sama didalam suatu
+jaringan. Pada topologi serial tiap sensor berderajat sama
+maksudnya memungkinkan masing-masing sensor
+berkomunikasi antara satu sama lain baik sebagai kontroler
+ataupun hanya sebagai sensor.
+
+
+Sumber berasal dari Access Point (AP) dengan 2 antena
+yang akan memetakan matriks ruang-waktu S ukuran MxN
+menjadi alfabet terbatas _ dengan N adalah jumlah slot
+waktu. AP mentransmisikan S ke jaringan sensor nirkabel
+dengan jumlah sensor J yang mempunyai 2 antena penerima.
+Sumber akan mendeteksi sensor yang disebar. Sensor yang
+berada pada range sumber disebut sensor aktif [3].
+
+Jumlah antena sumber 2 buah dan antena sensor 2 buah
+sehingga konfigurasi MIMO seperti Gbr. 2. Informasi yang
+diterima oleh sensor kemudian akan diekualisasi dengan
+ekualiser Zero Forcing untuk menghilangkan Inter Symbol
+Interference. Range komunikasi untuk masing-masing sensor
+dapat ditentukan dari jarak Euclidean.
+A. Sensor
+Pada penelitian ini model penyebaran sensor adalah
+distribusi uniform. Sedangkan model pendeteksian sensor
+adalah model deteksi biner [2].
+
+
+B. Kanal
+Data dari antena Access Point (AP) dikirimkan ke sensor
+melalui kanal fading. Blok yang diterima yj ukuran N x 1 pada
+sensor ke-j diberikan hubungan input output sbb :
+R:…
+Dengan :
+yj = sinyal yang diterima sensor ke-j
+ST = matrik ruang waktu
+hj = matrik kanal AP ke sensor j
+j jj= noise AWGN
+Topologi yang digunakan adalah topologi paralel.
+Komunikasi antara sensor yang berdekatan dalam hop tunggal
+melalui saluran yang bersifat ideal dan time-invariant. Noise
+kanal adalah additive white noise Gaussian dan tidak
+berkorelasi antar kanal[3].
+C. Sumber
+Sumber data adalah multi antena AP dengan jumlah
+antenna 2 yang mengirimkan informasi yang dimodulasi
+BPSK dan 2 buah antena penerima pada sensor dengan
+konfigurasi MIMO [2].
+D. Demodulator Linier
+Algoritma demodulator linier yang digunakan adalah ZF
+Persamaan demodulator Centralized ZF dapat dituliskan
+dalam bentuk tertutup [3] :
+R:…
+Sedangkan demodulator MMSE dengan persamaan
+R:… yang dapat dituliskan
+dalam bentuk tertutup (Zhu, 2010) :
+R:…
+Dimana R:…, merupakan
+rata-rata energi simbol.
+E. Multiple Input Multiple Output
+Multiple Input Multiple Output (MIMO) adalah suatu
+teknologi yang muncul menggunakan prinsip diversity dengan
+tujuan meningkatkan data rate dalam range yang lebih besar
+tanpa membutuhkan bandwidth atau daya transmisi yang
+besar [2].
+Pada sisi penerima rumus untuk estimasi dari simbol yang
+ditransmisikan adalah:
+R:…
+
+III.METODOLOGI
+Langkah-langkah dalam penelitian ini dapat dilihat pada
+Gbr. 3. Pada penelitian ini dilakukan simulasi menggunakan
+demodulator linier ZF dan MMSE pada jaringan sensor
+nirkabel dengan konfigurasi antena MIMO 2x2. Luas area
+yang digunakan adalah 50m x 50m dengan node sebanyak 2
+buah yang disebar menggunakan distribusi uniform.
+Parameter lain yang digunakan adalah range komunikasi node
+sensor sebesar r = 0,5 dan kedua node dihubungkan dengan
+jarak Euclidean kurang dari r[1]. Simbol berasal dari sinyal
+yang dimodulasi BPSK dan dipetakan langsung ke matrik S
+dimana AP memiliki antena M=2.
+
+
+A. ZF dan MMSE Tanpa Sensor
+Pada bagian ini disimulasikan mengenai kinerja
+demodulator linier ZF dan MMSE sebelum terhubung ke
+jaringan sensor. Simbol berasal dari konstelasi BPSK dengan
+1 simbol terdiri dari 1 bit dan dipetakan langsung ke matrik S
+dimana AP memiliki antena M=2. Kemudian dikirimkan ke
+sensor dengan antena penerima 2 melalui kanal Rayleigh.
+Pada sisi penerima sinyal yang diterima tiap sensor akan
+diekualisasi dengan ZF atau MMSE untuk mengkompensasi
+kanal. Kemudian hasilnya akan dikirim ke fusion center untuk
+pengambilan keputusan.
+Dari hasil simulasi untuk konfigurasi MIMO dapat dilihat
+pada Gbr. 4.
+
+Hasil simulasi menunjukkan kinerja Zero Forcing dengan
+konfigurasi MIMO yang belum terhubung dengan jaringan
+sensor nirkabel sangat bagus, untuk mencapai nilai BER 10-3
+dibutuhkan SNR 24 dB.
+
+
+Kinerja MMSE dengan konfigurasi MIMO yang belum
+terhubung ke jaringan sensor nirkabel sangat bagus karena
+untuk mencapai nilai BER 10-3 dibutuhkan SNR 20 dB.
+B. ZF dan MMSE Dengan Sensor
+Untuk simulasi berikutnya adalah menerapkan ZF dan
+MMSE dengan konfigurasi MIMO pada jaringan sensor
+nirkabel. Hasilnya seperti Gbr. 6.
+
+Perbandingan ZF dan MMSE dengan Konfigurasi MIMO
+setelah terhubung dengan jaringan sensor nirkabel
+menunjukkan kinerja MMSE lebih bagus dibandingkan ZF,
+hal ini dikarenakan ekualizer MMSE juga menkompensasi
+noise sedangkan ZF tidak. Untuk SNR rendah MMSE sangat
+bagus tetapi untuk SNR tinggi kinerja MMSE agak
+berfluktuasi, hal ini dikarenakan untuk SNR tinggi, noise yang
+dikompensasi juga tinggi.
+C. Validasi dengan SISO
+Simulasi perbandingan antara ZF MIMO dengan SISO
+sebelum diterapkan pada jaringan sensor nirkabel terlihat
+seperti Gbr. 7.
+
+
+Hasil simulasi menunjukkan bahwa kinerja ZF untuk SISO
+dan MIMO sama. Hal ini karena matrik diagonal tidak nol
+maka ZF akan membuat interferensi menjadi nol sehingga
+ada penguatan pada noise.
+Hasil simulasi perbandingan antara ZF MIMO yang
+diterapkan pada jaringan sensor nirkabel dengan ZF SISO
+terlihat seperti Gbr. 8.
+
+
+Grafik menunjukkan bahwa kinerja ZF MIMO yang
+diterapkan pada Jaringan Sensor Nirkabel ternyata tetap bagus,
+karena untuk mencapai nilai BER10 -3 dibutuhkan SNR 21
+dB. Kinerja SISO lebih stabil karena jumlah antena tiap sensor
+cuma satu dan proses perhitungannya lebih sederhana.
+Sedangkan kinerja ZF MIMO menunjukkan fluktuasi nilai
+BER, hal ini dikarenakan pentransmisian sinyal yang melalui
+kanal Fading dan jumlah sensor dan jumlah antena lebih dari
+satu sehingga lebih kompleks.
+Simulasi perbandingan antara MMSE MIMO dengan SISO
+sebelum diterapkan pada jaringan sensor nirkabel terlihat
+seperti Gbr. 9.
+
+
+Hasil simulasi menunjukkan bahwa kinerja MMSE untuk
+MIMO lebih bagus dibandingkan dengan SISO, hal ini
+dikarenakan manfaat MIMO adalah untuk mengurangi efek
+multipath fading pada komunikasi nirkabel.
+Hasil simulasi perbandingan antara MMSE MIMO yang
+diterapkan pada jaringan sensor nirkabel dengan MMSE SISO
+terlihat seperti Gbr. 10.
+
+
+Grafik menunjukkan bahwa kinerja MMSE MIMO yang
+diterapkan pada Jaringan Sensor Nirkabel ternyata tetap bagus,
+karena untuk mencapai nilai BER 10-3 dibutuhkan SNR 18
+dB. Kinerja SISO lebih stabil karena jumlah antena tiap sensor
+cuma satu dan proses perhitungannya lebih sederhana.
+Sedangkan kinerja MMSE MIMO menunjukkan fluktuasi
+nilai BER, hal ini dikarenakan pentransmisian sinyal yang
+melalui kanal Fading dan jumlah sensor dan jumlah antena
+lebih dari satu sehingga lebih kompleks. Sistem MIMO lebih
+bagus daripada SISO karena potensinya yang begitu besar
+dalam meningkatkan kapasitas dan menurunkan BER ketika
+menggunakan multi antena.
+
+
+V. KESIMPULAN
+Demodulasi linier ZF dengan konfigurasi MIMO yang
+diterapkan pada Jaringan Sensor Nirkabel memounyai kinerja
+bagus, untuk mencapai nilai BER 10-3 dibutuhkan SNR 21 dB.
+Perbandingan ZF dan MMSE dengan Konfigurasi MIMO
+setelah terhubung dengan jaringan sensor nirkabel
+menunjukkan kinerja MMSE lebih bagus dibandingkan ZF,
+hal ini dikarenakan ekualizer MMSE juga menkompensasi
+noise sedangkan ZF tidak.
+Kinerja ZF dan MMSE MIMO dibandingkan dengan SISO
+pada Jaringan Sensor Nirkabel menunjukkan fluktuasi nilai
+BER, hal ini disebabkan pentransmisian sinyal yang melalui
+kanal Rayleigh dengan jumlah sensor dan antena lebih dari
+satu sehingga konfigurasi lebih kompleks.

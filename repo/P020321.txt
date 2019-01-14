@@ -1,0 +1,144 @@
+﻿ABSTRAK
+Untuk melakukan kajian serta prediksi terhadap pergerakan
+pendistribusian masing-masing jenis keramik hias di masa yang akan datang,
+diperlukan suatu metode yang akurat. Salah satu metode peramalan yang akan
+digunakan adalah model rantai Markov (Markov Chain Model). Untuk
+mendapatkan hasil ramalan yang optimal di masa yang akan datang dilakukan
+perhitungan yang berulang dengan menggunakan data masa lalu. Dalam hasil
+pengolahan, dapat dilihat bahwa untuk jenis keramik hias Asbak mencapai
+keadaan stabil pada periode ke 49 (98 bulan lagi atau 8 tahun lebih 2 bulan lagi)
+dengan nilai pendistribusian keramiknya adalah 88,4479 lusin keramik hias. Jenis
+keramik hias Guci mencapai keadaan stabil pada periode ke 39 (78 bulan lagi atau
+6,5 tahun lagi), dengan nilai pendistribusian keramiknya adalah 323,4144 lusin
+keramik hias. Jenis keramik hias Pot mengalami keadaan stabil pada periode ke
+69 (138 bulan lagi atau 11,5 tahun lagi), dengan nilai pendistribusian keramiknya
+adalah 148,9168 lusin keramik hias. Jenis keramik hias Vas bunga mengalami
+keadaan stabil pada periode ke 36 (72 bulan lagi atau 6 tahun lagi), dengan nilai
+pendistribusian keramiknya adalah 103,2368 lusin keramik hias.
+Kata kunci: rantai Markov, keramik hias, periode, kondisi stabil
+
+
+BAB I
+PENDAHULUAN
+1.1 Latar Belakang
+
+Keramik sudah dikenal di Indonesia sejak jaman Neolithikum. Keramik
+adalah salah satu dari peninggalan tersebut yang sampai saat ini masih banyak
+digunakan oleh masyarakat pada umumnya. Dahulu keramik hanya dimanfaatkan
+untuk bahan bangunan saja. Menurut Kamus Besar Bahasa Indonesia, keramik
+adalah tanah liat yang dibakar, dicampur dengan mineral lain, barang tembikar
+(porselen) (Mendikbud, 2007). Namun, seiring berjalannya waktu keramik saat
+ini dapat dimanfaatkan untuk berbagai jenis hiasan rumah tangga. Sehingga
+penulis menamakan jenis keramik ini dengan sebutan keramik hias.
+
+Dewasa ini, perkembangan industri kerajinan keramik hias semakin
+berkembang pesat dan mendorong setiap Usaha Kecil dan Menengah (UKM) di
+Industri kerajinan keramik hias untuk mampu bersaing di pasar nasional maupun
+di pasar internasional. Pengadaan berbagai macam produk atau barang pada suatu
+pasar sangat mempengaruhi perilaku konsumen untuk membeli barang tersebut.
+Keinginan konsumen yang beragam membuat UKM harus mampu merangkum
+antara kebutuhan dan keinginan konsumen dalam hal membeli barang demi
+memenuhi kebutuhan hidup. Industri kerajinan keramik hias cukup menjanjikan
+pengusaha UKM khususnya dibidang seni. Karena pembuatannya yang tidak
+begitu susah namun memiliki jiwa seni yang cukup tinggi. Harganya pun relatif
+terjangkau dikalangan masyarakat pada umumnya.
+
+Hal ini yang meyakinkan para pengusaha pengrajin keramik hias untuk bisa
+memasarkan produknya sampai ke luar Negeri. Tidak jarang para wisatawan asing
+yang khusus sengaja datang di pengrajin keramik hias untuk membeli yang
+selanjutnya kerajinan keramik hias tersebut dijual di negara asalnya. Hal ini
+semakin memantapkan para pengrajin keramik hias untuk merambah dunia
+ekspor. Terlebih dari banyaknya keuntungan dari pembuatan kerajinan keramik
+hias tersebut.
+Perkembangan ilmu pengetahuan dan teknologi saat ini menuntut adanya
+kemampuan dalam mempertimbangkan segala keputusan dan tindakan.
+Keputusan–keputusan di bidang usaha keramik hias pun perlu didukung oleh
+perhitungan yang matang agar dapat mencapai hasil yang optimal. Untuk
+mencapai hasil yang optimal tersebut perlu didukung pula oleh pendekatan ilmiah,
+pola analisis, pemecahan masalah, pola pengambilan langkah dan strategi yang
+sistematis.
+
+Untuk melakukan kajian serta prediksi terhadap pergerakan pendistribusian
+masing-masing macam keramik hias di masa yang akan datang, diperlukan suatu
+metode yang akurat. Perhitungan yang berulang dengan menggunakan data masa
+lalu, dan untuk mendapatkan hasil ramalan yang optimal di masa yang akan
+datang menggunakan metode rantai markov.
+Suatu rantai Markov adalah satu rangkaian state dari suatu sistem yang
+mempunyai karakteristik dari sifat-sifat markovian. Pada setiap saat sistem
+mempunyai kemungkinan telah berubah dari state yang berasal dari waktu
+sebelumnya, atau mungkin tetap berada pada state yang sama dan perubahan state
+disebut transisi. Jika suatu rangkaian state mempunyai sifat-sifat markovian, ini
+berarti bahwa setiap state dimasa yang akan datang hanya dipengaruhi oleh state
+sebelumnya.
+
+Analisa Markov hampir sama dengan decision analysis, bedanya adalah
+analisa rantai Markov tidak memberikan keputusan rekomendasi, melainkan
+hanya informasi probabilitas mengenai situasi keputusan yang dapat membantu
+pengambil keputusan. Dengan demikian, analisa rantai Markov bukanlah teknik
+optimisasi, tetapi adalah teknik deskriptif yang menghasilkan informasi
+probabilitas dimasa mendatang.
+
+Gambaran mengenai rantai Markov dapat juga dijelaskan dari gerakangerakan
+beberapa variabel di masa yang akan datang bisa diprediksi berdasarkan
+gerakan-gerakan variabel tersebut pada masa lalu. Misalnya kejadian pada waktu t
+dipengaruhi oleh kejadian pada waktu t-1, kejadian pada waktu t-1 dipengaruhi
+oleh kejadian pada waktu t-2 dan demikian seterusnya dimana perubahan ini
+terjadi karena peranan probabilitas transisi (transition probability). Kejadian pada
+waktu t-2 misalnya, tidak akan mempengaruhi kejadian pada waktu t.
+
+Rantai Markov dapat diaplikasikan untuk mendistribusikan keramik hias
+dalam sebuah perusahaan, dimana variabel-variabel yang mempengaruhi adalah
+tempat pengiriman keramik hias dan macam keramik hias yang akan dikirim pada
+setiap periode. Dari data tersebut akan dapat diperkirakan jumlah keramik hias
+yang akan didistribusikan untuk masing-masing tempat pada periode berikutnya
+pada keadaan stabil (steady state) dimana suatu keadaan sudah tidak mengalami
+perubahan jumlah pendistribusian untuk masing-masing jenis keramik hias.
+
+1.2 Perumusan Masalah
+Permasalahan yang akan diangkat dalam tugas akhir ini adalah:
+1. Apakah metode rantai Markov dapat digunakan pada pendistribusian
+keramik hias?
+2. Bagaimana pendistribusian masing-masing macam keramik hias di masa
+yang akan datang pada keadaan stabil (steady state) dengan
+menggunakan metode rantai Markov?
+3. Bagaimana menganalisis pergerakan pendistribusian jenis keramik hias
+pada masa yang akan datang dengan menggunakan metode rantai
+Markov?
+
+1.3 Pembatasan Masalah
+Adapun pembatasan masalah dalam penulisan ini yaitu:
+a. Jenis keramik hias produksi Agus Keramik yang didistribusikan
+meliputi: Asbak, Guci, Pot dan Vas bunga. Pengambilan data setiap
+periode terdiri dari 2 (dua) bulan. Data diambil selama dua periode
+(bulan Juni – Juli 2012 dan bulan Agustus – September 2012).
+b. Tempat pendistribusian keramik hias meliputi: Bandung, Ciamis,
+Tasikmalaya dan Surabaya.
+c. Pada tugas akhir ini, didefinsikan untuk probabilitas transisi adalah
+peluang perpindahan masing-masing macam keramik hias yang
+didistribusikan dari periode pertama ke periode kedua. Sedangkan
+keadaan stabil (steady state) adalah suatu keadaan dimana sudah tidak mengalami perubahan jumlah pendistribusian untuk masing-masing
+macam keramik hias.
+
+1.4 Tujuan Penelitian
+Tujuan penulisan dari tugas akhir ini adalah:
+a. Mengetahui penggunaan pemodelan rantai Markov pada pendistribusian
+keramik hias
+b. Mengetahui bagaimana pendistribusian masing-masing macam keramik
+hias di masa yang akan datang pada keadaan mantap (steady state)
+dengan menggunakan pemodelan rantai Markov.
+c. Mengetahui bagaimana menganalisis pergerakan pendistribusian jenis
+keramik pada masa yang akan datang dengan menggunakan pemodelan
+rantai Markov.
+
+1.5 Sistematika Penulisan
+Susunan sistematika penulisan dalam Tugas Akhir ini adalah sebagai
+berikut: Bab I merupakan Pendahuluan yang berisi latar belakang, perumusan
+masalah, pembatasan masalah, tujuan penelitian, dan sistematika penulisan. Bab II
+berisi Tinjauan Pustaka yang menguraikan tentang konsep dan prinsip dasar yang
+diperlukan untuk memecahkan masalah penelitian. Bab III metodologi penelitian
+menguraikan urutan langkah penelitian yang akan dilakukan, mulai dari objek
+penelitian, pengumpulan dan metode pengambilan data yang digunakan dalam
+penelitian, serta langkah-langkah penelitian secara sistematis. Bab IV membahas
+tentang pengolahan data, analisis dari hasil pengolahan data dan pembahasan pada kasus yang terjadi. Pada Bab V berisikan beberapa kesimpulan dari hasil
+penelitian serta saran sebagai masukan untuk pengembangan penelitian
+selanjutnya dan merupakan jawaban dari perumusan masalah.

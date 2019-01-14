@@ -1,0 +1,97 @@
+﻿ABSTRAK
+Film radiochromic merupakan salah satu alternatif untuk keperluan
+dosimetri pada radioterapi selain menggunakan detector ionisasi chamber. Salah
+satu jenisnya adalah gafchromic Rtqa2 . Film ini dapat mengalami perubahan
+densitas ketika diradiasi dengan dosis tertentu. Hubungan antara optical density
+dengan dosis dapat digunakan untuk mengetahui gambaran dosis kedalaman
+(Depth Dose). Penelitian ini bertujuan untuk mengetahui hubungan optical
+density dengan depth dose melalui kurva karakteristik yang diperoleh dengan
+mengukur besarnya dosis yang diterima pada berbagai variasi kedalaman dan luas
+lapangan menggunakan film yang diletakkan pada slab phantom dan diradiasi
+dengan Linac 6 MV dan dosis sebesar 300 cGy. Hasil penelitian menunjukkan
+semakin dalam nilai optical density semakin tinggi, dan dosis yang diterima
+semakin kecil pada masing-masing luas lapangan.
+Kata kunci : Film gafchromic rtqa2, optical density, depth dose
+
+BAB I
+PENDAHULUAN
+1.1. Latar Belakang
+Kanker telah menjadi masalah kesehatan masyarakat yang
+mendunia. Jenis-jenis penyakit kanker juga beragam. Hampir seluruh
+anggota tubuh berpotensi menderita kanker. Pada tahun 2012, sekitar 8,2
+juta kematian disebabkan oleh kanker. Kanker paru, hati, perut, kolorektal,
+dan kanker payudara adalah penyebab terbesar kematian akibat kanker
+setiap tahunnya. Diperkirakan kasus kanker tahunan akan meningkat dari 14 juta
+pada 2012 menjadi 22 juta dalam dua dekade berikutnya. (Kemenkes RI, 2015)
+Sebenarnya penyakit kanker dapat dicegah dengan pola makan sehat.
+Tetapi jika penyakit kanker sudah terlanjur diderita tidak ada pilihan lain
+kecuali mengobatinya. Pengobatan penyakit kanker 50% menggunakan
+radioterapi (Sousa,2009). Radioterapi adalah tindakan pengobatan terapi
+radiasi pada penyakit tumor ganas (kanker) dengan menggunakan radiasi
+pengion seperti sinar-X,sinar Gamma, maupun elektron berenergi tinggi.
+(Darmawati,2012).
+Salah satu jenis radioterapi adalah radioterapi eksternal dilakukan
+dengan cara memberikan radiasi diluar tubuh pasien pada jarak tertentu
+terhadap permukaan tubuh atau tumor yang diberikan dengan modalitas
+pesawat Linear Accelerator (Linac) dengan dosis tertentu (Sousa, 2009).
+Pesawat Linac dapat menghasilkan berkas foton dan electron. Berkas foton
+digunakan untuk menyinari tumor yang berada dalam jaringan tubuh
+misalnya kanker payudara, kanker serviks, dan lain-lain. Sedangkan berkas
+elektron untuk menyinari kanker kulit. Linac juga dapat menghasilkan laju
+dosis (dose rate) yang bervariasi dalam satuan monitor unit (MU) pada
+satuan dalam aplikasi, dimana satu MU setara dengan satu cGy.
+Pada pengobatan menggunakan Linac besarnya dosis paparan yang
+diterima oleh target yang terletak di kedalaman tertentu (depth dose) dalam
+tubuh pasien harus diperhitungkan melalui sistem dosimetri.
+Pada penelitian sebelumnya oleh Tanti (2016) dengan menggunakan
+energi foton sebesar 6MV dan 10 MV dilakukan pengukuran dosis
+permukaan menggunakan film gafchromic rtqa2 dengan variasi dosis
+keluaran linac.
+Selama ini dosimetri radioterapi menggunakan metode TRS 398
+dengan memanfaatkan phantom air dan detector ionisasi chamber. Padahal
+penggunaan peralatan dosimetri tersebut seringkali bermasalah. Detektor
+membutuhkan sarung waterproof, memerlukan wadah air, dan
+membutuhkan persiapan yang lama, karena itu akan dilakukan penelitian
+pengukuran depth dose menggunakan film radiochromic jenis film
+gafchromic Rtqa2 karena film ini berpendar pada energi tinggi dan tahan
+terhadap suhu sampai (International Specialty Products, 2010) yang
+diletakkan disela-sela slab phantom kemudian diradiasi dengan laju dosis
+keluaran Linac sebesar 300cGy dan tehnik penyinaran SSD (Source Surface
+Distance) yaitu tehnik penyinaran dengan jarak dari sumber ke permukaan
+pasien atau permukaan kulit dibuat tetap pada seluruh beam. Dengan variasi
+kedalaman pada tiap-tiap luas lapangan penyinaran (field size) dosis yang
+terserap pada film dapat dibaca melalui optical density menggunakan alat
+densitometer. Pemilihan set-up SSD (Source Surface Distance) karena
+penyinaran dilakukan single-field. Energi foton yang digunakan dalam
+penelitian ini sebesar 6 MV. Pemilihan energi ini dikarenakan energi 6 MV
+merupakan rentang energi foton rendah dan sedang yang aman dan biasanya
+digunakan sebagai terapi radiasi pada pasien radioterapi.
+Seluruh informasi atau data yang diperoleh akan digunakan sebagai
+bahan penelitian untuk menghitung besarnya nilai dosis yang diterima oleh
+film dan selanjutnya akan digunakan untuk memperoleh kurva karakteristik
+film yang menunjukkan hubungan antara optical density dengan depth dose.
+1.2. Rumusan Masalah
+1. Bagaimanakah perubahan nilai optical density film radiochromic dengan
+variasi kedalaman pada tiap luas lapangan penyinaran yang berbeda.
+2. Bagaimanakah kurva karakteristik film radiochromic yang menunjukkan
+hubungan optical density dengan depth dose.
+1.3. Batasan Masalah
+1. Energi yang dipancarkan oleh Linear Accelerator 6 MV.
+2. Dosis keluaran Linac sebesar 300 cGy
+3. Film radiochromic yang digunakan adalah jenis Gafchromic Rtqa2
+4. Jarak sumber radiasi dengan film gafchromic RTQA2 adalah 100 cm.
+5. Sudut penyinaran 0° dengan teknik SSD (Source Surface Distance).
+6. Variasi kedalaman hingga 10 cm dan variasi luas lapangan hingga
+uukuran 10x10
+1.4. Tujuan Penelitian
+Secara umum tujuan dari penelitian adalah: untuk karakterisasi densitas film
+gafchromic Rtqa2 pada Linac menggunakan slab phantom.
+Secara Khusus tujuan dari penelitian ini adalah sebagai berikut :
+1. Mengetahui perubahan nilai densitas film radiochromic dengan variasi
+kedalaman pada tiap tiap luas lapangan yang berbeda.
+2. Memperoleh kurva karakteristik film radiochromic yang menunjukkan
+hubungan optical density dengan depth dose.
+1.5. Manfaat Penelitian
+Hasil penelitian ini dapat dimanfaatkan sebagai referensi pijakan dalam
+melakukan pemantauan dosis yang diterima pasien menggunakan
+dosimeter film.

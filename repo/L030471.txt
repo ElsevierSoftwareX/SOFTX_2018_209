@@ -1,0 +1,217 @@
+﻿Sejak tahun 2010, kejadian longsor di Wilayah Kota Bandar Lampung cenderung
+meningkat. Faktor alamiah (yaitu curah hujan, curamnya lereng, kondisi geologi,
+regolit [tanah], adanya sesar/patahan/gawir) dan faktor manajemen (penduduk,
+penutupan lahan, dan infrastruktur jalan) merupakan pemicu terjadinya longsor.
+Penelitian ini bertujuan: (1) menganalisis faktor-faktor yang penyebab terjadinya
+longsor dan menentukan formula Tingkat Kerawanan Longsor (TKL); (2) menentukan
+tingkat kerawanan longsor (TKL); dan (3) menentukan upaya dan peran pemangku
+kepentingan (stakeholder) dalam mitigasi longsor untuk mengurangi dampak dan
+melindungi masyarakat yang tinggal di kawasan rawan bencana longsor. Penelitian ini
+dilaksanakan pada bulan April – Mei 2015 di Wilayah Kota Bandar Lampung. Metode
+Penelitian menggunakan analisis deskriptif, analisis peta berbasis Sistem Informasi
+Geografis (SIG), dan analisis semi kuantitatif menggunakan metode Analisis Hirarki
+Proses (AHP). Hasil penelitian menunjukkan bahwa longsor di wilayah Kota Bandar
+Lampung disebabkan oleh faktor alami (bobot 0,67) dan faktor manajemen (bobot
+0,33). Parameter yang paling berpengaruh pada faktor alami adalah curah hujan
+kumulatif 3 hari (bobot 0,26), kemiringan lahan (bobot 0,17), geologi (bobot 0,10),
+patahan/sesar/gawir (bobot 0,09), ketebalan tanah/regolit (bobot 0,05). Parameter yang
+berpegaruh pada faktor manajemen terhadap longsor yaitu penutupan lahan (bobot
+0,18), infrastruktur jalan (bobot 0,10), dan kepadatan penduduk (0,05). Tingkat
+Kerawanan Longsor (TKL) Wilayah Kota Bandar Lampung yaitu TKL=0,26 HHK +
+0,17 LH+ 0,10 G+ 0,09 PS + 0,05 KTR+ 0,18 PL + 0,10 I+ 0,05 KP. Tingkat
+kerawanan longsor di Kota Bandar Lampung adalah sebagai berikut: tidak rawan
+longsor (75,65%); sedikit rawan longsor (9,8%); agak rawan longsor (14,46%); dan
+rawan longsor (0,09%). Luas wilayah yang rawan longsor (7,4 hektar) di Kecamatan
+Panjang, sisanya (<1 hektar) di Kecamatan Langkapura. Kegiatan/upaya prioritas
+mitigasi bencana longsor secara berurutan yaitu: (1) Sosialisasi Mitigasi , (2)
+Penegakan Hukum, (3) Rehabilitasi Lahan/Penghijauan , (4) Relokasi Penduduk, (5)
+Pembuatan Bangunan Pengendali Longsor atau Penataan Wilayah. Peran penting para
+pemangku kepentingan dalam mitigasi longsor secara berurutan sebagai berikut: (1)
+peran Lembaga Pemerintah; (2) masyarakat; (3) peran para pakar/praktisi (4) peran
+Lembaga Swasta; dan (5) peran LSM.
+Kata kunci: longsor, tingkat kerawan longsor, mitigasi
+
+I. PENDAHULUAN
+A. Latar Belakang dan Masalah
+Ekosistem atau sistem ekologi merupakan satu kesatuan tatanan yang terbentuk
+oleh interaksi timbal balik antara mahluk hidup (biotik) dan unsur-unsur non
+hayati (abiotik). Hubungan timbal balik unsur biotik dan abiotik tersebut terjadi
+secara dinamis dan seimbang sehingga tercipta keadaan lingkungan yang
+mendukung kehidupan mahluk hidup di wilayah bersangkutan (Manik, 2009).
+Selanjutnya Manik (2009), menyebutkan bahwa manusia sebagai pengelola
+lingkungan terus berupaya untuk memenuhi kebutuhan hidupnya, seperti:
+sandang, pangan, papan (perumahan) melalui upaya eksploitasi sumberdaya alam.
+Ekploitasi sumberdaya alam yang tidak terkendali merupakan penyebab utama
+degradasi sumberdaya alam dan lingkungan. Salah satu ciri degradasi
+sumberdaya alam adalah menurunnya daya dukung lahan. Paimin, dkk. (2009)
+menyatakan bahwa daya dukung lahan merupakan tingkat kemampuan lahan
+untuk mendukung segala aktivitas manusia yang ada di wilayahnya. Penurunan
+daya dukung lahan ditunjukkan oleh sering terjadinya bencana alam seperti erosi,
+banjir di musim hujan, kekeringan di musim kemarau, dan tanah longsor. Bencana
+tersebut menyebabkan kerugian harta/materi dan korban jiwa (Sukresno, 2006).
+
+Menurut Kepala Pusat Data Informasi dan Humas Badan Nasional Penanggulangan
+Bencana (BNPB), Nugroho (2014, dalam Merdeka.com, 2014), pada tahun
+2014, sebanyak 248 orang tewas akibat bencana longsor. Jumlah ini hampir dua
+per tiga dari korban tewas akibat berbagai bencana di Indonesia selama 2014.
+Sekitar 40,9 juta jiwa penduduk Indonesia yang terpapar bahaya longsor dengan
+tingkat ancaman sedang hingga tinggi. Ancaman bencana yang berpotensi
+menimbulkan kerugian juga terhadap perumahan, sistem atau elemen lain.
+Bertambahnya penduduk, meningkatnya degradasi lingkungan, dan cuaca yang
+makin ekstrem menyebabkan risiko longsor makin tinggi.
+Tanggal 13 Oktober 2013 terjadi peristiwa longsor di Kelurahan Bumi Raya,
+Kecamatan Bumi Waras, Kota Bandar Lampung, meski tidak ada korban jiwa,
+sebanyak 16 rumah mengalami kerusakan (6 rumah rusak berat tertimbun
+longsoran, 10 rumah rusak ringan). Peristiwa longsor ini juga dipicu oleh hujan
+deras (Merdeka.com, 2013). Selanjutnya, tanggal 12 Desember 2014 peristiwa
+tanah longsor terjadi di Dusun Jemblung, Desa Sampang, Kecamatan Karang
+Kobar, Kabupaten Banjar Negara, Provinsi Jawa Tengah, selain korban meninggal
+dunia, sebanyak 105 rumah dan ratusan korban tidak ditemukan akibat tertimbun
+tanah longsor. Hujan deras yang terjadi sebelumnya merupakan salah satu pemicu
+longsor tersebut (Kompas.com, 2014).
+Menurut Badan Penanggulangan Bencana Daerah (BPBD) Provinsi Lampung
+(2010), wilayah Kota Bandar Lampung merupakan wilayah yang rawan longsor
+dengan tingkat resiko yang tinggi, sedangkan menurut Badan Perencanaan dan
+Pembangunan Daerah (Bappeda) Kota Bandar Lampung (2013), kawasan rawan tanah longsor di Kota Bandar Lampung yaitu di daerah yang kondisi tanahnya sangat
+miring sampai curam, yaitu bagian barat yaitu kawasan Gunung Betung, Gunung Balau
+serta perbukitan Serampok di bagian Timur. Selanjutnya berdasarkan laporan dari Pusat
+Vulkanologi dan Mitigasi Bencana Geologi Departemen Energi dan Sumber Daya
+Mineral Republik Indonesia (2010, dalam Bappeda Kota Bandar Lampung, 2013),
+beberapa wilayah di Bandar Lampung juga memiliki potensi gerakan tanah kategori
+menengah, antara lain di Kecamatan Sukarame, Tanjung Karang Timur, Panjang,
+Teluk Betung Utara, Teluk Betung Barat, Tanjung Karang Pusat, dan Tanjung Karang
+Barat.
+Menurut BPBD Kota Bandar Lampung (2015, tidak dipublikasikan), sejak tahun 2010
+sampai 2015 terjadi 27 kali peristiwa tanah longsor di Wilayah Kota Bandar Lampung,
+kecenderungannya semakin lama semakin sering terjadi tanah longsor (Tabel 1).
+Menurut Abidin, dkk. (2004), longsor merupakan salah satu bencana alam yang
+menonjol di Indonesia, terutama di musim hujan. Sebagian wilayah Indonesia dengan
+kondisi alam berupa pegunungan dengan lereng curam, sehingga peristiwa longsor
+sering terjadi. Beberapa faktor yang mempengaruhi tanah longsor, adalah: (1)
+topografi, (2) tanah dan batuan penyusun, (3) tingkat curah hujan, 4) vegetasi/-hutan,
+dan (5) gempa bumi (Harjadi, dkk, 2007). Tanah longsor akan terjadi jika terpenuhi tiga
+keadaan, yaitu: 1) lereng cukup curam, 2) terdapat bidang peluncur (batuan) di bawah
+permukaan tanah yang kedap air, dan 3) terdapat cukup air (hujan) yang masuk ke
+dalam pori-pori tanah di atas lapisan kedap air (bidang luncur) sehingga tekanan tanah
+terhadap lereng meningkat (Brook dkk., 1991 dalam Harjadi 2013).
+
+Paimin, dkk., 2009). Air (hujan) yang memasuki pori-pori tanah yang terletak diatas
+lapisan batuan kedap air akan membentuk lapisan bidang luncur dan didorong oleh
+lereng yang cukup curam serta beban yang ada diatas tanah seperti bangunan dan
+vegetasi (Donie, 2014). Menurut Banuwa (2013), longsor adalah suatu bentuk erosi
+yang pengangkutan atau pemindahan tanahnya pada suatu saat dalam volume yang besar, di atas suatu lapisan agak kedap air yang jenuh air. Lapisan tersebut
+mengandung kadar liat tinggi yang setelah jenuh air berperan sebagai bidang luncur.
+Selanjutnya menurut Harjadi, dkk. (2007), longsor akan terjadi pada daerah yang
+memiliki sesar yang masih aktif, dan dapat dipantau dengan seismograf. Longsor
+sering terjadi pada daerah dengan lansekap pegunungan yang terjal dan banyak
+tanaman hutan yang ditebang (Paimin, dkk., 2009). Pemanenan tanaman hutan
+yang sudah tua, jika dilakukan dengan tidak hati-hati dapat meningkatkan potensi
+terjadinya longsor (Sitorus, 2006).
+Menurut Bappeda Kota Bandar Lampung (2013), wilayah-wilayah yang memiliki
+kemiringan lereng>40% (perbukitan terjal) yaitu: (1) Kecamatan Bumi Waras 25 ha;
+Kecamatan Kemiling 757,50 ha; (3) Kecamatan Panjang 98,44 ha; (4) Kecamatan
+Sukabumi 168,57 ha; (5) Kecamatan Tanjungkarang Barat 107,07 ha; (6) Kecamatan
+Teluk Betung Barat 220,40 ha; dan (7) Kecamatan TelukBetung Timur 317,79 ha.
+Di wilayah berbukit sampai terjal tersebut, banyak warga masyarakat yang bermukim
+di wilayah yang rawan longsor tersebut. Keadaan ini memang memprihatinkan,
+masyarakat tersebut terpaksa menempati wilayah yang rawan longsor, salah satunya
+disebabkan faktor kemiskinan, meskipun mereka sadari ancaman tanah longsor setiap
+saat menanti (Donie, 2013).
+Penelitian dan publikasi upaya pencegahan untuk mengurangi risiko (mitigasi)
+terhadap bencana longsor serta faktor-faktor penyebabnya di Wilayah Kota
+Bandar Lampung masih sangat sedikit. Untuk itu penelitian tentang analisis
+longsor yang terjadi di Kota Bandar Lampung perlu dilakukan.
+
+B. Tujuan Penelitian
+Penelitian ini bertujuan untuk:
+(1) Menganalisis faktor-faktor yang dapat menjadi penyebab terjadinya longsor
+di Wilayah Kota Bandar Lampung;
+(2) Menentukan tingkat kerawanan longsor (TKL) di Wilayah Kota Bandar
+Lampung;
+(3) Menentukan upaya mitigasi dan peran pemangku kepentingan (stakeholder)
+dalam upaya mengurangi dampak bencana longsor dan melindungi
+masyarakat yang tinggal di kawasan rawan bencana longsor.
+C. Kerangka Pemikiran
+Sebagian wilayah Kota Bandar Lampung merupakan perbukitan terjal (dengan
+kemiringan>40%) yang merupakan wilayah yang rawan longsor. Menurut
+Bappeda Kota Bandar Lampung (2013), luas wilayah Bandar Lampung yang datar
+sampai landai mencapai 60% (11.833,2 ha), wilayah landai sampai miring
+mencapai 35% (6.902,7 ha), sedangkan sangat miring sampai curam hanya 4%
+(788.88 ha). Sejak tahun 2010 sampai 2015, kejadian longsor di Wilayah Kota
+Bandar Lampung cenderung meningkat (Tabel 1). Beberapa faktor alami (yaitu
+curah hujan, curamnya lereng, kondisi geologi, regolit [tanah], adanya
+sesar/patahan) dan faktor manajemen (penduduk, penutupan lahan, dan
+infrastruktur jalan) merupakan pemicu terjadinya longsor (Paimin, dkk, 2009).
+Peristiwa tanah longsor di suatu wilayah dengan kelerengan terjal (kemiringan
+>45%), pada umumnya didahului oleh kejadian hujan dengan intensitas hujan tinggi (Muntohar, 2009). Faktor yang penting selain intensitas hujan adalah
+lamanya hujan yang berpengaruh nyata terhadap longsor.
+Sedangkan hasil penelitian Sarya dkk. (2014), bahwa curah hujan di atas 50 mm
+per jam menyebabkan tanah longsor dangkal di Desa Wonodadi Kulon,
+Kabupaten Pacitan. Kejadian tanah longsor dangkal ini telah menyebabkan
+gangguan dan kerusakan di sepanjang jaringan transportasi. Selanjutnya Sarya
+dkk. (2014), menetapkan kurva ambang batas intensitas (I)-durasi (D) curah hujan
+untuk tanah longsor dangkal di Desa Wonodadi Kulon tersebut dengan persamaan
+yaitu I = 52D-0,79.
+Curah hujan antara 101 sampai 298 mm terjadi hanya dalam 2 hari dengan
+intensitas curah hujan maksimum berkisar antara 41 mm/jam hingga 79 mm/jam
+menyebabkan longsor. Hasnawir (2012) menyatakan bahwa curah hujan di atas 50
+mm per jam menyebabkan tanah longsor dangkal di Sulawesi Selatan.
+Menurut Harjadi (2013), kondisi bentuk lahan perbukitan dan pegunungan dengan
+kemiringan lereng > 45% dengan tekstur tanah liat ringan sampai berat dan
+dilewati sesar geologi, kedalaman regolit >2 m, kepadatan penduduk > 5.000
+jiwa/km2, dan curah hujan >300 mm berturut-turut selama 3 hari, berpotensi
+terjadinya longsor.
+Hasil penelitian Harjadi (2013) di Kabupaten Banjarnegara, Karanganyar, dan
+Purworejo, antara lain: dengan bentuk lahan dari Hilly (H) hingga Mountain
+(Pegunungan, M), kemiringan lereng 38% hingga >85%; relief perbukitan hingga
+pegunungan, batuan induk batuan beku lunak (Iw) pelapukan lanjut warna coklat;
+erosi alur dan jurang tingkat berat, kedalaman solum sangat dalam (>90 cm) dan regolit dalam (100-200 cm), jenis tanah masing-masing Inceptisols, Ultisols;
+permeabilitas sedang sampai cepat (20 – 125 mm/jam), drainase agak baik; pori
+mikro banyak; konsistensi basah plastis, kondisi lembab gembur dan kering agak
+keras; tekstur lempung liat berpasir (SCL), liat berdebu (SiCl); struktur granular
+kasar lemah, blocky sedang lemah; warna tanah coklat kemerahan hingga cokat
+kehitaman; kandungan bahan organik rendah (<1%); nilai toleransi erosi (T)
+tinggi (>25 ton/ha/th) dan nilai erodibilitas tanah (K) sangat peka (>0,56); dari
+kondisi biofisik di tiga lokasi tersebut juga ditunjang oleh adanya curah hujan,
+yaitu dengan semakin tinggi intensitas curah hujan maka semakin berpotensi
+terjadinya longsor. Ketiga wilayah tersbut memiliki tingkat kerawanan longsor
+yang tertinggi di Banjarnegara (skor 3,8), Purworejo (skor 3,6) dan Karanganyar
+(skor 3,1). Ketiga lokasi termasuk daerah dengan formasi geologi sama dan samasama
+dilewati garis sesar, sehingga faktor yang berpengaruh terhadap tingkat
+longsor antara lain: curah hujan dan kemiringan lereng serta penggunaan lahan.
+Penggunaan lahan sebagian besar tegalan dan hanya satu lokasi di pemukiman.
+Hasil penelitian Nugroho dkk. (2014), menunjukkan bahwa faktor yang paling tinggi
+dalam mempengaruhi ancaman longsor di Kecamatan Pejawaran Kabupaten
+Banjarnegara adalah kemiringan lereng dan litologi atau jenis batuan penyusun lapisan
+tanah.
+Hasil penelitian Ahmad, dkk. (2014) di DAS Budong-Budong, Kabupaten
+Mamuju Tengah, Provinsi Sulawesi Barat menunjukkan bahwa terjadinya longsor
+banyak dipengaruhi oleh proses geologi dan sebagian oleh proses denudasi akibat
+aktivitas iklim. Longsor yang terjadi umumnya terjadi dan dipicu oleh pergerakan tanah/batuan pada lereng >40%. Tipe pergerakan longsor yang dominan adalah
+tipe longsoran (sliding), dengan tipe material adalah rock slide dan debris slide
+pada percampuran material tanah dan tufa. Pergerakan massa dapat dihambat
+dengan penerapan metode vegetatif.
+Secara sistematis faktor-faktor yang menentukan terjadinya longsor, analisis, dan
+upaya mitigasinya tertera pada pada Gambar 1.
+
+Mitigasi longsor dilakukan dengan mempertimbangkan faktor-faktor penyebab
+longsor dan melibatkan pemangku kepentingan (stakeholder) antara lain: lembaga
+pemerintah, lembaga swadaya masyarkat (LSM), pakar/praktisi, lembaga swasta,
+dan masyarakat.
+
+D. Manfaat Penelitian
+Hasil penelitian ini diharapkan dapat memberikan manfaat dalam rangka memberikan
+informasi dalam upaya pencegahan bahaya longsor kepada:
+(1) masyarakat, khususnya yang bermukim di kawasan yang berpotensi rawan
+longsor;
+(2) para pemangku kepentingan (stakeholder) seperti pemerintah daerah,
+pemerintah pusat, lembaga swadaya masyarakat, praktisi, dan lain-lain yang
+berkecimpung di bidang mitigasi dan penangangan longsor.
+E. Hipotesis
+(1) Longsor dipengaruhi oleh curah hujan kumulatif tiga harian, lereng terjal,
+kondisi geologi dan adanya sesar/patahan/gawir, kedalaman regolit,
+kepadatan penduduk, kondisi penutupan lahan, dan adanya infrastruktur
+jalan yang memotong lereng merupakan pemicu longsor di Wilayah Kota
+Bandar Lampung.
+(2) Faktor yang paling berpengaruh terhadap longsor di Wilayah Kota Bandar
+Lampung adalah curah hujan.

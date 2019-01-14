@@ -1,0 +1,90 @@
+
+ Kemajuan teknologi yang cepat menyebabkan kebutuhan spektrum semakin besar. Spektrum yang bersifat unrenewable resources dan statis menyebabkan spektrum tidak bisa ditambah. Hal ini dapat diatasi dengan meningkatkan jumlah spectrum holes secara efisien. Radio kognitif adalah teknologi yang mampu mengatasi masalah efisiensi spektrum. Radio kognitif dengan spectrum sensing memungkinkan secondary user untuk mengakses spectrum holes. 
+Energy detection adalah salah satu metode untuk mendeteksi spectrum holes. Spectrum holes ditentukan dengan melakukan perhitungan dan asumsi pada parameter pendeteksi, yaitu daya threshold, probability detection dan probability false alarm. Spectrum holes dinyatakan jika nilai probability detection lebih besar dari nilai probability false alarm. 
+Pada penelitian ini spectrum holes terdeteksi pada frekuensi 1800 MHz lebih banyak dibandingkan pada spektrum frekuensi 1900 MHz dan 2100 MHz. 
+Kata kunci : efisiensi spektrum, radio kognitif, spectrum sensing, secondary user, spectrum sensing, spectrum holes, probability detection, probability false alarm.
+
+
+I. PENDAHULUAN
+1.1 Latar Belakang
+Seiring perkembangan teknologi di bidang telekomunikasi nirkabel yang sangat
+cepat membuat perangkat nirkabel menjadi lebih murah dan efisien.
+Perkembangan ini menyebabkan ekspansi yang luar biasa dan kebutuhan yang
+bermacam-macam, sehingga diperlukan jumlah spektrum yang memadai untuk
+bisa mengakomodasi pertambahan pengguna padahal jumlah spektrum frekuensi
+sangatlah terbatas.
+
+Spektrum frekuensi adalah sumber daya alam yang terbatas yang digunakan
+dalam proses komunikasi. Spektrum frekuensi merupakan komponen yang
+penting, karena merupakan sumber daya yang tidak dapat diperbaharui dan akan
+habis jika tidak dipergunakan dengan efisien. Selain itu proses pengiriman data
+sangat bergantung kepada ketersediaan spektrum frekuensi ini. Semakin besar
+spektrum frekuensi yang dipakai maka proses pengiriman data semakin cepat.
+Penggunaan spektrum dalam jumlah besar akan memperbesar peluang interferensi
+antar pengguna saluran telekomunikasi [1].
+
+Radio kognitif adalah teknologi yang dapat mengatasi permasalahan ini. Tujuan
+utama teknologi ini adalah meningkatkan efisiensi spektrum dengan cara
+memanfaatkan spektrum seefisien dan semaksimal mungkin dengan interferensi
+yang bisa ditoleransi. Radio kognitif memungkinkan pengguna yang tidak
+terdaftar (secondary user-SU) dapat menggunakan spektrum berlisensi pengguna
+yang terdaftar (primary user-PU) yang tidak dipakai saat itu [2]. Spectrum sensing
+berperan penting dalam radio kognitif karena spectrum sensing mampu merasakan
+lingkungan (frekeuensi) dan bereaksi atas respon sinyal disekitarnya sehingga
+mencegah terjadinya interferensi antara PU dan SU [2] [3].
+Dalam penelitian ini akan dibahas metode efisiensi spektrum dengan mekanisme
+spectrum sensing yang berbasis pada energy detection.
+
+1.2 Tujuan Penelitian
+Tujuan dari penelitian ini antara lain:
+1. Menginformasikan SU bahwa sinyal yang diterima adalah sinyal
+komunikasi atau noise melalui pendeteksian energi sinyal.
+2. Menganalisis pendeteksian energi berdasarkan (Signal to Noise Ratio-SNR),
+(Signal to Interference plus Noise Ratio-SINR) dan (Received Signal
+Strength Indicator-RSSI).
+3. Meningkatkan efisiensi spektrum tanpa meningkatkan interferensi.
+
+1.3 Manfaat Penelitian
+Manfaat yang diharapkan dari penelitian ini adalah:
+1. Meningkatkan efisiensi penggunaan spektrum frekuensi.
+2. Mengurangi kemungkinan terjadinya interferensi antara pengguna saluran
+telekomunikasi.
+
+1.4 Rumusan Masalah
+Perkembangan telekomunikasi nirkabel yang cepat mengakibatkan peningkatan
+konsumsi spektrum frekuensi. Ketika PU sedang mengokupasi spektrum
+berlisensi maka SU mendeteksi spektrum frekuensi tersebut sebagai noise, oleh
+sebab itu, peneliti merumuskan masalah, yaitu:
+Apakah proses sensing dengan metode energy detection mampu
+menginformasikan SU bahwa sinyal informasi yang diterima adalah sinyal
+komunikasi atau noise?
+
+1.5 Batasan Masalah
+Batasan dari penelitian ini adalah:
+1. Proses sensing hanya menggunakan metode energy detection
+2. Proses sensing hanya dilakukan pada jaringan LTE.
+3. Proses sensing dilaksanakan dengan menggunakan primary user, secondary
+user dan eNodeB.
+
+
+
+1.6 Sistematika Penulisan
+Adapun sistematika penulisan penelitian ini adalah sebagai berikut:
+BAB I PENDAHULUAN
+Memuat latar belakang, tujuan, perumusan masalah, batasan masalah, manfaat
+penelitian, dan sistematika penulisan.
+BAB II TINJAUAN PUSTAKA
+Berisi penjelasan-penjelasan umum yang berkaitan dengan materi yang dibahas,
+seperti penjelasan umum mengenai sistem radio kognitif, energy detection dan
+spectrum sensing.
+BAB III METODE PENELITIAN
+Berisi langkah-langkah penelitian yang dilakukan di antaranya waktu dan tempat
+penelitian, tahap-tahap penelitan dan skenario sistem.
+BAB IV HASIL DAN PEMBAHASAN
+Bab ini berisi perhitungan matematis dan analisa hasil perhitungan matematis
+yang diperoleh, serta dijadikan dasar untuk membahas tujuan penelitian ini.
+BAB V KESIMPULAN DAN SARAN
+Memuat kesimpulan berdasarkan hasil diskusi dan pembahasan dari penelitian
+yang telah dilakukan. Selain terdapat saran yang diharapkan dapat menjadi acuan
+untuk penelitian selanjutnya yang membahas hal yang sama di waktu mendatang
+serta dapat meningkatkan wawasan serta kemajuan bersama.

@@ -1,0 +1,598 @@
+﻿PEMISAHAN ION KROM(III) DAN KROM(IV) DALAM
+LARUTAN DENGAN MENGGUNAKAN BIOMASSA ALGA
+HIJAU SPIROGYRA SUBSALSA SEBAGAI BIOSORBEN
+
+Abstrak
+Karakteristik pemisahan ion Cr3+ dan Cr6+ dalam larutan melalui proses biosorpsi menggunakan
+biomassa alga hijau Spirogyra subsalsa dengan sistem batch telah diteliti. Dalam pelaksanaannya
+diawali dengan melakukan analisis kualitatif gugus fungsi dalam biomassa menggunakan instrumen
+FTIR, kemudian dipelajari karakteristik pengaruh variabel pH awal larutan, ukuran partikel
+biosorben, kecepatan pengadukan, pengaruh pemanasan biosorben, laju penyerapan, pengaruh
+konsentrasi larutan ion logam terhadap kapasitas serapan biomassa alga. Berdasarkan spektra
+spektroskopi FTIR dapat disimpulkan bahwa biomassa alga hijau S. Subsalsa mengandung gugusgugus
+karboksilat, amina, amida, amino, karbonil dan hidroksil, disamping adanya senyawa silikon,
+belerang dan fosfor. Hasil penelitian yang diperoleh memperlihatkan bahwa kapasitas biosorpsi
+sangat dipengaruhi oleh pH larutan, waktu kontak dan konsentrasi awal larutan. Biosorpsi optimum
+kation Cr3+ terjadi pada pH 4,0 sedangkan ion Cr6+ terjadi pada pH 2,0 kemudian berkurang dejalan
+dengan naiknya pH larutan. Perhitungan dengan persamaan Isoterm Langmuir diperoleh data
+kapasitas serapan maksimum biomassa alga S. subsalsa untuk masing-masing ion Cr3+ dan Cr6+
+adalah 1,82 mg (0,035 mmol) dan 1,51 mg (0,029 mmol) per gram biomassa kering. Kinetika
+biosorpsi berlangsung relatif cepat, dimana selama selang waktu 30 menit, masing-masing ion terserap sekitar 95,7% dan 86,5%. Daya serap biomassa juga dipengaruhi kecepatan pengadukan,
+sedangkan faktor ukuran partikel dan pemanasan biosorben kurang mempengaruhi daya serap
+biomassa.
+Kata kunci: sistem batch; biosorpsi; krom (III); krom (VI); spirogyra subsalsa
+
+
+
+PENDAHULUAN
+Logam-logam berat seperti Cr, Pb, Cd, Hg, Cu
+dan As merupakah salah satu kandungan limbah cair
+industri yang dapat menimbulkan dampak negatif
+terhadap lingkungan dan makhluk hidup (Gadd, 1990;
+Park dkk., 2005a; Chergui dkk., 2007; Kumar dkk.,
+2009). Perlakuan yang umum dilakukan untuk
+memisahkan logam-logam berat dari limbah cair
+adalah pengendapan secara kimia, yaitu dengan
+menambahkan bahan kimia yang dapat mengendapkan
+logam berat sebagai hidroksidanya, pertukaran ion,
+adsorpsi, teknologi membran, osmosis terbalik, proses
+elektrokimia dan eksraksi pelarut (Mahan dan
+Holcombe, 1992; Preetha dan Viruthagiri, 2005).
+Metoda pengendapan dapat memisahkan logam dalam
+jumlah yang relatif besar, tetapi dinilai belum efektif
+dan tidak ekonomis karena membutuhkan biaya yang
+tinggi. Teknik alternatif yang banyak dikembangkan
+untuk memisahkan ion-ion logam berat dari limbah
+cair adalah dengan memanfaatkan kemampuan
+beberapa mikroorganisme seperti alga, ragi, jamur dan
+bakteri, serta biomaterial tumbuhan lain seperti kulit
+kacang polong, kulit jeruk, bubuk tempurung kelapa
+dan dedak padi telah diteliti kemampuannya sebagai
+adsorben ion-ion logam berat dan radionuklida terlarut
+dari limbah cair (Mawardi dkk., 1997; Park dkk.,
+2005a; Chergui dkk., 2007; Saikaew dkk., 2009;
+Ngwenya dkk., 2010).
+Proses penyerapan ion-ion logam oleh
+biomaterial terjadi secara metabolism-independent,
+pada sel hidup dan mati, yang melibatkan interaksi
+ionik, polar, interaksi gabungan dan mineralisasi
+antara ion logam dengan biopolimer (makromolekul)
+pembentuk sel, diantaranya protein dan polisakarida,
+fosfomanan, chitin dan chitosan, sebagai sumber
+gugus fungsi, yang secara keseluruhan disebut
+biosorpsi (Gadd dan White, 1993; Hancock, 1996a;
+Davis dkk., 2003 ). Proses biosorpsi terutama terjadi
+pada permukaan dinding sel melalui mekanisme kimia
+dan fisika, seperti pertukaran ion, pembentukan
+kompleks dan adsorpsi, yang melibatkan gugus fungsi
+dari makromolekul penyusun sel seperti gugus
+karboksilat, amina, tiolat, hidroksida, imidazol,
+sulfuhidril, fosfodiester, dan gugus fosfat yang dapat
+berinteraksi dengan ion logam (Wang dan Chen, 2006;
+Yilmaz dkk., 2010). Langmuir menggambarkan bahwa
+permukaan adsorben terdapat sejumlah tertentu pusat
+aktif (active site) yang sebanding dengan luas
+adsorben. Pada setiap sisi aktif hanya satu molekul
+atau satu ion yang dapat diserap. Penyerapan secara
+kimia, terjadi apabila terbentuk ikatan kimia antara zat
+terserap dengan sisi aktif adsorben, membentuk
+lapisan tunggal pada permukaan adsorben (monolayer
+adsorption). Proses biosorpsi berlangsung cepat dan
+terjadi dengan baik pada mikroorganisme hidup atau
+mati (Hancock, 1996b; Mawardi dkk., 1997)
+Alga Spirogyra subsalsa termasuk kelompok
+alga hijau (Clorophyta), merupakan mikroalga
+perifiton berfilamen, yang hidup melekat pada
+berbagai substratum baik dalam air mengalir maupun
+dalam air tergenang, dan dapat membentuk hamparan
+biomassa alga yang menutupi dasar dan permukaan
+sungai. Alga hijau spesies S. subsalsa merupakan
+salah spesies alga yang keberadaannya melimpah di
+tiga sungai di Kota Padang Sumatera Barat (Afrizal
+dkk., 1999). Dinding sel alga hijau disusun oleh
+lapisan selulosa yang mengandung polimer linier dari
+molekul-molekul glukosa, glikoprotein dan lapisan
+terluar yang mengandung pektin. Selubung sel disusun
+oleh polimer-polimer manosa atau ksilosa serta asamasam
+amino, khususnya hidroksiprolin (Pritchard dan
+Bradt, 1984). Hasil penelitian yang telah dilakukan
+terhadap biomassa alga hijau spesies S. subsalsa yang
+tumbuh di perairan Kota Padang memperlihatkan
+bahwa unsur utama penyusun biomassa alga tersebut
+adalah karbon, nitrogen, oksigen masing-masing
+sekitar 8,76%; 30,09% dan 55,83%, di samping itu
+juga terdapat unsur-unsur fosfor, belerang, silikon dan
+kalium masing-masing 1,21%; 1,26%; 0,73% dan
+1,73% (Mawardi dkk., 2008).
+Penelitian penggunaan biomassa alga hijau S.
+subsalsa sebagai biosorben logam berat seperti kation
+Cu2+, Zn2+, Pb2+ dan Cr6+ dalam larutan telah
+dilakukan beberapa peneliti. Dilaporkan bahwa
+biomassa alga hijau S. subsalsa efektif dan efisien
+sebagai biosorben dan kapasitas penyerapan biomassa
+dipengaruhi oleh pH larutan, waktu kontak,
+konsentrasi awal masing-masing kation dan suhu
+kontak (Gupta dan Rastogi, 2008; Mawardi, 2011; Lee
+dan Chang, 2011).
+Kromium adalah salah satu kontaminan utama
+dalam limbah cair zat warna dan industri pigmen,
+industri film dan fotografi, proses galvanometri,
+pembersihan logam, pelapisan dan elektroplating,
+industri kulit dan pertambangan. Meskipun kromium
+heksavalen, Cr6+, terdapat dalam bentuk spesies CrO4
+2-
+dan Cr2O7
+2- dan kromium trivalen, Cr3+, terdapat
+dalam bentuk Cr3+ dan CrOH2 +, namun spesies yang
+lazim terdapat dalam limbah cair industri dalam
+bentuk kromium heksavalen yang lebih berbahaya bagi kesehatan masyarakat karena bersifat mutagenik
+dan karsinogenik (Park dkk., 2005b; Michalak dkk.,
+2007; Chhikara dan Dhankhar, 2008; Esmaeili dkk.,
+2010).
+Proses biosorpsi terjadi melalui mekanisme
+kimia dan fisika, seperti pertukaran ion, pembentukan
+kompleks dan adsorpsi, yang secara keseluruhan
+melibatkan interaksi ionik, polar, interaksi gabungan
+dan mineralisasi antara logam dengan biopolimer
+(makromolekul) penyusun biosorben, sehingga proses
+biosorpsi diduga dipengaruhi oleh variabel-variabel
+antara lain pH awal larutan, ukuran partikel biosorben,
+kecepatan pengadukan, waktu kontak, dan konsentrasi
+awal larutan logam (Deng dkk., 2009; Anjana dkk.,
+2007; Yang dan Volesky, 2007; Antunes dkk., 2003),
+Kapasitas suatu biomassa sebagai biosorben
+dapat digambarkan dengan kesetimbangan adsorpsi
+isoterm, yang dicirikan oleh konstanta yang
+memperlihatkan sifat permukaan dan afinitas
+adsorben. Isoterm Langmuir merupakan adsorpsi
+isoterm yang paling luas diterapkan (Deng dan Ting,
+2005; Wang dan Chen, 2006). Menurut Langmuir,
+pada permukaan adsorben terdapat sejumlah tertentu
+pusat aktif (active site) yang sebanding dengan luas
+permukaan adsorben. Pada setiap pusat aktif hanya
+satu molekul atau satu ion yang dapat diserap.
+Penyerapan secara kimia, terjadi apabila terbentuk
+ikatan kimia antara zat terserap dengan pusat aktif
+adsorben, membentuk lapisan tunggal pada permukaan
+adsorben (monolayer adsorption). Dengan persamaan
+adsorpsi isoterm Langmuir dapat ditentukan konstanta
+afinitas serapan (KL) dan kapasitas serapan maksimum
+(qmaks) dari suatu adsorben (Ramelow dkk., 1996).
+Penelitian ini bertujuan untuk mengetahui
+karakteristik penyerapan biomassa terhadap ion Cr3+
+dan Cr6+, yang meliputi pengaruh pH awal larutan,
+ukuran partikel biosorben, kecepatan pengadukan,
+pengaruh pemanasan biosorben, laju penyerapan,
+pengaruh konsentrasi larutan ion logam terhadap
+kapasitas serapan biomassa alga hijau S. subsalsa
+METODE PENELITIAN
+Bahan Kimia
+Untuk keperluan penentuan kondisi optimum
+biosorpsi bahan kimia yang digunakan adalah garam
+kalium kromat, K2CrO4 (pa, Merck) dan garam
+krom(III)klorida hidrat, CrCl3.9H2O (pa, Merck)
+untuk larutan induk simulasi, asam nitrat (HNO3) 65%
+(pa, Merck), amoniak (NH3) 25% (pa, Merck), asam
+klorida, HCl 36% (pa, Merck)
+Penyiapan Biomassa
+Biomassa alga hijau S. subsalsa, yang
+digunakan dalam penelitian ini di peroleh dari perairan
+sungai Batang Air Dingin Kota Padang. Alga hijau S.
+subsalsa dipanen dan dipisahkan untuk diidentifikasi
+di Laboratorium Taksonomi dan yang lain dicuci dan
+dibilas dengan akuades bebas ion, setelah bersih
+dikeringkan di udara terbuka (tanpa kena cahaya
+matahari langsung). Biomassa yang telah kering
+direndam dengan larutan asam nitrat 1% v/v, selama
+satu jam kemudian dicuci dan dibilas dengan akuades
+sampai air hasil pencucian kembali netral, kemudian
+dikeringkan kembali dengan cara yang sama dan
+disimpan dalam desikator dan siap digunakan sebagai
+biosorben (Mawardi, 2011)
+Prosedur Percobaan
+Media untuk percobaan adalah larutan Cr3+ dan
+larutan Cr6+. Larutan Cr3+ dibuat dengan melarutkan
+garam krom(III)klorida hidrat, CrCl3.9H2O dan larutan
+Cr6+ dibuat melarutkan garam kalium kromat, K2CrO4,
+masing-masing dengan konsentrasi 10, 20, 30, 40 dan
+50 mg/L, yang disiapkan dari larutan induk. Pada
+setiap perlakuan disiapkan masing-masing 0,5 gram
+biomassa dengan ukuran partikel masing-masing 150,
+180, 250 dan 450 μm, dikontakkan dengan 25 mL
+larutan simulasi, yang mempunyai pH 2, 3, 4, 5 dan 6,
+dalam tabung Erlenmeyer 100 mL.
+Pengukuran pH dilakukan dengan pH meter
+(Merk Hanna) dan pengaturan pH larutan dilakukan
+dengan penambahan asam nitrat, HNO3 dan
+ammoniak, NH3. Suspensi diaduk dengan shaker pada
+kecepatan tertentu (50, 100, 150 dan 200 rpm), pada
+suhu kamar (sekitar 27oC), selama waktu tertentu (15,
+30, 60, 120, dan 150 menit). Setelah dikontak dengan
+larutan logam, biomassa dipisahkan dengan disaring
+sedangkan filtrat yang diperoleh ditentukan
+konsentrasi logam yang tidak terserap.
+Penerapan Pada Sampel Riil Untuk Pemekatan
+Penerapan pada sampel riil limbah untuk tujuan
+pemekatan (preconcentration) dilakukan dengan
+melewatkan 100 mL sampel limbah yang mengandung
+kation krom ke dalam kolom kerja yang telah dikemas
+dengan biomassa alga hijau S. Subsalsa, sebagai
+biosorben. Biomassa dalam kolom yang telah termuat
+kation krom kemudian dielusi dengan 10 mL larutan
+asam nitrat 0,1 M. Konsentrasi krom total (unsur
+runut) dalam sampel dan yang terelusi (konsentrat)
+ditentukan dengan Spektrofotometer Serapan Atom.
+Analisis Data Penelitian
+Metode analisis logam Cr dengan
+Spektrofotometer Serapan Atom
+Analisis logam Cr dalam larutan dilakukan
+dengan Spektrofotometer Serapan Atom nyala (Perkin
+Elmer AA100) dengan bahan bakar udara-asetilen
+pada panjang gelombang 357 nm. Konsensentrasi
+logam ditentukan dengan kurva kalibrasi yang dibuat
+dari mengukur sederet larutan standar logam Cr.
+Larutan standar yang digunakan disesuai dengan
+masing-masing kation Cr3+ dan Cr6+ (Beaty dan
+Kerber, 1993). Selisih antara konsentrasi logam Cr
+saat setimbang dengan konsentrasi mula-mula
+merupakan jumlah ion logam yang diserap oleh
+biomassa (Hancock, 1996b). Jumlah logam yang
+terserap yang dinyatakan sebagai berat (mg) logam
+yang terserap per berat (g) biosorben yang digunakan Metode analisis gugus fungsional dengan Fourier
+Transform Infrared (FTIR)
+Pengukuran inframerah dilakukan dengan
+instrumen Fourir Transform Infrared (FT-IR Perkin
+Elmer 1600 series) terhadap biomassa alga hijau S.
+subsalsa kering yang dicampur dengan metoda pil
+KBr. Sampel dipindai pada interval bilangan
+gelombang 400-4000 cm-1. Identifikasi gugus
+fungsional utama dilakukan dengan membandingkan
+spektra FTIR yang dihasilkan dengan spektra FTIR
+biomassa alga yang telah dipublikasikan (Gupta dkk.,
+2008; Coates, 2000).
+Analisis serapan biomassa
+Kapasitas serapan maksimum biomassa
+ditentukan dengan persamaan Adsorpsi Isoterm
+Langmuir (Crist dkk.,1992; Ramelow, 1996, Lupea
+dkk., 2012), yang dapat ditulis dalam bentuk
+persamaan linier, yaitu :
+􀬵
+􀯤 􀵌 􀬵
+􀯤􀳘􀳌􀳖􀳞
+􀵅 􀬵
+􀯤􀳘􀳌􀳖􀳞􀯄􀲽
+􀬵
+􀯖 (1)
+dimana : q adalah jumlah (mg) logam yang terserap
+per gram biosorben kering saat setimbang (mg/g); KL
+adalah konstanta isoterm Langmuir (konstanta afinitas
+serapan) (L/mg); c adalah konsentrasi ion logam bebas
+saat setimbang (mg/L); qmaks adalah jumlah logam
+terserap (mg) pada keadaan jenuh (kapasitas serapan
+maksikmum). Apabila plot c/q versus c menghasilkan
+garis lurus, maka konstanta afinitas serapan (KL) dan
+kapasitas serapan maksimum (qmaks) dapat ditentukan
+dari slope dan intercept (Crist dkk., 1992). q dihitung
+dengan hubungan seperti pada persamaan (2) (Lupea
+dkk., 2012; Tichaona dkk., 2013)
+􀝍 􀵌 􁈺􀯖􀰬􀬿􀯖􁈻􀯏
+􀯠 (2)
+Persentase ion Cr3+ dan Cr6+ yang terserap
+(Ads) dihitung dengan hubungan seperti pada
+persamaan (3) (Sari dan Tuzen, 2009; Tichaona dkk.,
+2013)
+􀜣􀝀􀝏 􀵌 􀯖􀰬􀬿􀯖
+􀯖􀰬
+􀝔100 (3)
+Recovery (R) adalah nilai yang memperlihatkan fraksi
+jumlah mutlak unsur runut yang terdesorpsi yang
+terdapat dalam konsentrat dinyatakan dengan :
+􀜴􁈺%􁈻 􀵌 􀯤􀳎
+􀯤􀳞
+􀝔 100 (4)
+dimana qc dan qs masing-masing jumlah unsur runut
+dalam konsentrat dan dalam sampel awal (Zolotov,
+1990)
+HASIL DAN PEMBAHASAN
+Karakterisasi FTIR Biomassa Alga Spirogyra
+subsalsa
+Karakterisasi gugus fungsi dalam biomassa
+dengan Fourier Transform Infrared (FTIR)
+seperti terlihat pada Gambar 1. Spektra spektroskopi
+FTIR biomassa alga hijau S. subsalsa sp murni
+memperlihatkan pita serapan pada daerah 3743 cm-1
+memperlihatkan uluran O-H (SiOH) sedangkan pada
+daearah 3406 cm-1 merupakan uluran O-H dari
+karboksilat (Gupta dkk., 2008) dan polimer normal
+(Coates, 2000), uluran asimetris -NH (amina primer
+dan amida) dan uluran C-N (amina). Pita serapan pada
+daerah 2928 cm-1 memperlihatkan uluran O-H
+(karboksilat) dan uluran C-H (gugus CH, CH2 dan
+CH3), sedangkan pada daerah 1651 cm-1
+memperlihatkan tekuk N-H (amina), uluran C-O
+(karboksilat), uluran C=O (keton, amida primer,
+karboksilat). Pita serapan yang teramati pada daerah
+1542 cm-1 mengindikasikan tekukan NH dan NH2
+(pita amida II), uluran C=O (keton, karboksilat, ester),
+uluran C-O (karboksilat), sedangkan pada daerah 1408
+cm-1 mengindikasikan tekukan O-H, tekukan C-O-H
+(karboksilat), C=O dan C-O (karboksilat), N-CO-
+(amida), tekukan CH3 dan tekukan tidak simetris CH2,
+uluran CH3-S dan CH3-Si.
+Pita serapan pada daerah sekitar 1250 cm-1
+memperlihatkan uluran C-O (asam karboksilat),
+sedangkan pada daerah 1160 cm-1 merupakan uluran
+C-O (eter), uluran C-N, uluran P=O dan uluran –SO3.
+Pita serapan pada 1052 cm-1 mengindikasikan adanya
+uluran C-N (amina alifatik), uluran -C-O (alcohol
+primer, eter), pita O-C-C (ester), uluran Si-O-R, ulur
+P-OH, ulur P-O-C dan uluran -C-O (ester), sedangkan
+pita pada 700 dan 617 cm-1 masing-masing
+mengindikasikan kibasan NH keluar-bidang (Pita
+Amida II) dan uluran C-S.
+Berdasarkan spektra spektroskopi FTIR dapat
+disimpulkan bahwa makromolekul penyusun biomassa
+alga hijau S. Subsalsa segar yang dikoleksi dari sungai
+Kota Padang, Sumatera Barat, mempunyai gugusgugus
+karboksilat, amina, amida, amino, karbonil dan
+hidroksil, disamping adanya senyawa silikon, belerang
+dan fosfor. Gupta dkk.. (2008), melaporkan bahwa
+analisa FTIR terhadap biomassa alga hijau Spirogyra
+segar yang dikoleksi dari kolam di daerah Roorkee,
+India memperlihat terdapatnya gugus fungsi amino,
+karboksil, hidroksil dan karbonil yang berperan dalam
+proses bisorpsi ion-ion logam.
+Kation Cr3+, yang bersifat asam keras,
+diharapkan dapat berikatan dengan semua gugus
+fungsi selain gugus karbonil, terutama dengan gugus
+karboksil dan hidrosil, sedangkan ion Cr6+, yang
+dalam larutan terdapat dalam bentuk spesies anion
+HCrO4
+- dan Cr2O7
+2-, diharapkan dapat membentuk
+ikatan melelui interaksi ionik dengan semua gugus
+fungsi yang terprotonasi (pada pH rendah) dan pada
+pH rendah, sebagian spesies tereduksi membentuk
+kation Cr3+.
+
+Pengaruh pH Larutan terhadap Serapan
+Pengaruh pH awal larutan Cr terhadap sifat
+penyerapan biomassa alga hijau S. subsalsa terhadap
+ion Cr3+ dan Cr6+ seperti pada Gambar 2. Data yang
+diperoleh memperlihatkan fenomena pengaruh pH
+yang berlawanan terhadap biosorpsi ion Cr3+ dan ion
+Cr6+. Pada pH 2 ion Cr3+ terserap rendah kemudian
+mencapai optimum pada pH 4, sementara ion Cr6+
+terserap optimum pada pH 2 kemudian turun sejalan
+dengan naiknya pH larutan. Pada pH rendah (di bawah
+pH 2) permukaan biomassa secara keseluruhan
+menjadi bermuatan positif atau kurang negatif, karena
+terjadinya protonasi gugus-gugus fungsional, seperti
+amina, amida dan karbonil melalui pasangan elektron
+bebasnya, sehingga kation Cr3+ relatif sulit berinteraksi
+dengan biomassa, berakibat daya serap biomassa
+rendah. Sebaliknya pada pH rendah, gugus-gugus
+terprotonasi dapat berinteraksi elektrostatika dengan
+ion Cr6+, yang dalam larutan terdapat dalam bentuk
+spesi anion HCrO4
+-, CrO4
+2- dan Cr2O7
+2-, sehingga Cr6+
+yang terserap relatif besar. Semakin tinggi pH, pusat
+aktif berupa gugus amina, amida, karbonil akan
+cenderung netral, sementara gugus karboksil akan
+cenderung bermuatan negatif (membentuk anion
+karboksilat), sehingga kation logam yang terserap
+semakin meningkat, kemudian relatif konstan saat
+tercapai kesetimbangan, dimana pusat aktif telah jenuh
+dengan logam yang terserap. Demikian sebaliknya
+dengan ion Cr6+, penyerapan akan berkurang sejalan
+dengan berkurangnya pusat aktif yang bermuatan
+positif.
+Berdasarkan karakteristik proses biosorpsi
+seperti terlihat pada Gambar 2, dimana terjadinya
+perbedaan serapan yang besar antara pH 2 dan pH 4,
+memperlihatkan bahwa dalam proses biosorpsi kation
+tersebut dominan melibatkan interaksi elektrostatik.
+Gambar 2. Pengaruh pH awal larutan logam terhadap
+serapan biomassa (0,5 g biomassa / 25 mL larutan,
+waktu kontak 60 menit)
+Pengaruh Ukuran Partikel Biosorben
+Pengaruh ukuran partikel biosorben terhadap
+kapasitas biosorpsi logam disajikan pada Gambar 3.
+Data yang diperoleh, memperlihatkan bahwa
+perubahan ukuran partikel biosorben relatif tidak
+mempengaruhi daya serap biosorben. Perbedaan daya
+serap biosorben berukuran partikel terkecil dan
+terbesar (150 μm dan 425 μm) untuk masing-masing
+kation Cr3+ dan Cr6+ berkisar antara 3-5%, dengan
+kecenderungan yang relatif meningkat. Ukuran
+partikel relatif tidak mempengaruhi daya serap
+biomassa alga hijau S. subsalsa terhadap ion logam
+Cr. Semakin kecil ukuran partikel biomassa semakin
+luas permukaan biosorben, sehingga secara teoritis
+ akan meningkat jumlah ion logam yang terserap.
+Ketidak sesuaian data yang diperoleh dengan teori ini
+dikarenakan metoda kontak yang digunakan adalah
+sistem batch, dimana biosorben dengan ukuran
+partikel yang kecil menjadi lebih ringan, sebagian
+biosrben terapung dalam larutan, sehingga tersuspensi
+dalam larutan secara tidak merata dibanding partikel
+biomassa yang berukuran lebih besar (lebih berat),
+mengakibatkan tidak maksimalnya kontak antara
+biosorben dengan kation logam.
+Gambar 3. Pengaruh ukuran pertikel biosorben
+terhadap biosorpsi logam (0,5 g biomassa/25 mL
+larutan, waktu kontak 60 menit)
+Pengaruh Kecepatan Pengadukan
+Pengaruh kecepatan pengadukan larutan logam
+terhadap daya serap biomassa alga S. subsalsa seperti
+pada Gambar 4.
+Gambar 4. Pengaruh kecepatan pengadukan terhadap
+biosorpsi logam (0,5 g biomassa / 25 mL larutan,
+waktu kontak 60 menit)
+Dari data yang diperoleh terlihat bahwa
+perbedaan kecepatan pengadukan larutan relatif
+kurang mempengaruhi kapasitas serapan biosorben.
+Perbedaan daya serap biosorben pada kecepatan
+pengadukan terlambat (50 rpm) dibandingkan dengan
+kecepatan pengadukan tercepat (200 rpm) untuk
+masing-masing kation berkisar antara 3-10%. Keadaan
+ini diduga karena reaksi atau kontak terjadi dalam
+larutan yang volumenya relatif besar dibanding jumlah
+biosorben, sehingga penetrasi larutan terhadap padatan
+biosorben relatif tidak membutuhkan gaya mekanik
+yang besar.
+Menurut Chergui (2007), pengadukan optimum
+merupakan kompromi antara kecepatan dan dispersi
+partikel biomassa. Jika pada kecepatan yang lebih
+rendah tidak mampu menjamin akan dihasilkan
+dispersi partikel biomassa dalam medium cair dan
+meningkatnya kemudahan transfer massa eksternal,
+sedangkan pada kecepatan yang lebih tinggi
+menimbulkan terjadinya pusaran air.
+Pengaruh Pemanasan Biosorben
+Pengaruh pemanasan biosorben, sebelum
+dikontak dengan larutan ion logam, terhadap daya
+serap biomassa alga S. subsalsa seperti terlihat pada
+Gambar 5. Dari data yang diperoleh terlihat bahwa
+secara umum pemanasan biomassa relatif
+meningkatkan daya serapnya terhadap masing-masing
+ion Cr3+ dan Cr6+, tetapi peningkatan daya serap
+tersebut relatif kecil, yaitu berkisar antara 3-10%.
+Pemanasan biosorben diharapkan akan merubah sifat
+fisik biomassa, seperti pori-pori, tanpa merubah sifat
+kimia biomassa yang bersangkutan. Hasil penelitian
+ini memperlihatkan bahwa bahwa pada proses
+biosorpsi logam oleh biomassa alga lebih dominan
+melalui proses penyerapan secara kimia dibanding
+penerapan secara fisika, dimana pemanasan biosorben
+pada interval suhu 40-120oC relatif tidak
+menyebabkan terjadinya perubahan kapasitas serapan
+biosorben (Munaf, 1997).
+Gambar 5. Pengaruh pemanasan biosorben terhadap
+biosorpsi logam (0,5 g biomassa/25 M larutan, waktu
+kontak 60 menit)
+Pengaruh Waktu Kontak
+Pengaruh waktu kontak pada biosorpsi masingmasing
+ion Cr3+ dan Cr6+ oleh biomassa alga S.
+subsalsa seperti terlihat pada Gambar 6. Berdasarkan
+pola penyerapan biomassa, terlihat bahwa proses
+biosorpsi telah mencapai relatif konstan setelah waktu
+kontak 30 menit, yang menunjukkan bahwa telah
+tercapai keadaan setimbang antara ion yang terserap dengan ion yang tidak terserap, sehingga jumlah ion
+logam yang terserap secara signifikan tidak berubah
+dengan waktu. Berdasarkan pola data yang diperoleh
+terlihat bahwa proses biosorpsi relatif berlangsung
+cepat dimana untuk masing-masing ion Cr3+ dan Cr6+
+terserap sekitar 95,7%; dan 86,5% dari jumlah total
+logam yang terserap dalam selang waktu 30 menit
+awal.
+Gambar 6. Laju Biosorpsi Logam oleh Biomassa alga
+S.subsalsa (untuk 0,5 g biomassa / 25 mL larutan, 60
+menit)
+Pengaruh Konsentrasi Awal Larutan Ion Logam
+Konsentrasi awal ion logam sangat
+mempengaruhi kesetimbangan penangkapan ion
+logam dan hasil biosorpsi oleh biomassa. Hasil
+penelitian pengaruh konsentrasi awal larutan masingmasing
+ion Cr3+ dan Cr6+ terhadap daya serap
+biomassa alga S. subsalsa ditampilkan pada Gambar
+7.
+Gambar 7. Pengaruh konsentrasi larutan kation logam
+terhadap daya serap biomassa alga S. Subsalsa (untuk
+0,5 g biomassa / 25 mL larutan)
+Gambar 7 menunjukkan bahwa jumlah masingmasing
+ion Cr3+ dan Cr6+ yang teradsorpsi meningkat
+relatif tajam sebanding dengan bertambahnya
+konsentrasi ion logam dalam larutan. Sebaliknya
+persentase masing-masing ion Cr3+ dan Cr6+ yang
+terserap oleh biomassa alga S. subsalsa berkurang
+dengan bertambahnya konsentrasi ion logam dalam
+larutan. Biosorpsi maksimum untuk masing-masing
+ion Cr3+ dan Cr6+ terjadi pada konsentrasi sekitar 50
+mg/L dengan kapasitas serapan masing-masing 1,77
+mg dan 1,31 mg per gram biomassa. Pola biosorpsi
+yang mirip telah dilaporkan pada biosorpsi kation
+Cu2+ dalam larutan menggunakan biomassa alga
+Chaetomorpha antennina (Lahari dkk., 2011).
+Hasil pengolahan data dengan persamaan 1
+seperti disajikan dalam Gambar 8 dan Gambar 9,
+sedangkan nilai koefisien regresi (R), konstanta
+afinitas serapan (KL), dan kapasitas serapan
+maksimum (qm) untuk masing-masing logam terdapat
+dalam Tabel 1.
+
+
+
+
+
+Dari data yang diperoleh dapat disimpulkan
+bahwa biosorpsi masing-masing ion Cr3+ dan Cr6+
+memenuhi persamaan adsorpsi isoterm Langmuir, dan
+reaksi antara kation logam yang diteliti dengan
+biomassa alga hjau S. subsalsa berorde satu. Data
+yang diperoleh memperlihatkan bahwa konstanta
+afinitas serapan dan kapasitas serapan biomassa alga
+hijau S. subsalsa segar sesuai dengan urutan Cr3+ >
+Cr6+.
+Tabel 2. Data biosorpsi kation logam dari sampel
+limbah cair oleh biomassa ganggang S. Subsalsa
+[Cr]awal,
+(mg/L)
+[Cr]eq,
+(mg/L)
+Crabs,
+(mg/g)
+Recovery
+(%)
+12,14 5,05 0,35 58,40
+Aplikasi Pada Sampel Limbah Untuk Pemekatan
+Kemampuan biomassa ganggang hijau S.
+Subsalsa murni dalam proses biosorpsi kation-kation
+logam dalam larutan diujicobakan untuk tujuan
+pemekatan (preconcentration) ion Crtotal yang terdapat
+dalam sampel limbah cair laboratorium. Larutan
+sampel, selain mengandung, Crtotal, juga mengandung
+matriks lain, yang jenis dan jumlahnya tidak diketahui
+(sistem multikomponen). Hasil yang diperoleh, seperti
+terangkum dalam Tabel 2 memperlihatkan bahwa
+efisiensi biosorpsi oleh biomassa ganggang S.
+subsalsa sp murni Crtotal berturut-turut sekitar 58,40%.
+Dari data yang diperoleh terlihat bahwa
+biomssa ganggang hijau S. subsalsa dapat
+dimanfaatkan untuk memisahkan kation-kation logam
+dari limbah cair dengan efisiensi rata-rata di atas 50%.
+Secara umum, efisiensi penyerapan masing-masing
+kation oleh biomassa relatif masih rendah dan
+konsentrasi logam yang masih tinggal dalam larutan
+(konsentrasi logam saat setimbang) untuk sebagian
+logam masih tinggi. Hal ini diduga, antara lain,
+karena biomassa dengan berat yang sama dikontak
+dengan larutan yang konsentrasi awal masing-masing
+kation berbeda dan sampel limbah yang diperlakukan
+merupakan larutan yang mengandung ion
+multikomponen, selain mengandung semua ion logam
+yang diteliti, juga kemungkinan adanya sejumlah
+komponen lain (matriks), baik kation maupun anion,
+sehingga interaksi yang terjadi lebih rumit dan
+kemungkinan terjadinya interferensi selama proses
+biosorpsi masing-masing kation sangat besar.
+KESIMPULAN
+Makromolekul penyusun biomassa alga hijau
+S. subsalsa murni mengandung gugus-gugus
+karboksilat, amina, amida, amino, karbonil dan
+hidroksil, disamping adanya senyawa silikon, belerang
+dan fosfor. Efisiensi biosorpsi logam optimum pada
+sekitar pH 4,0 untuk kation Cr3+ dan ion Cr6+ optimum
+pada pH 2,0 sedangkan kapasitas serapan maksimum
+biomassa untuk masing-masing Cr3+ dan Cr6+ 1,82 mg
+(0,035 mmol) dan 1,51 mg (0,029 mmol) per gram
+biomassa kering. Proses biosorpsi berlangsung relatif
+cepat, dimana untuk masing-masing Cr3+ dan Cr6+,
+selama selang waktu 10 menit, kation terserap hanya
+sekitar 37,4% dan 21,9%. Secara umum, untuk
+masing-masing kation, faktor ukuran partikel,
+kecepatan pengadukan dan pemanasan biosorben
+berpengaruh relatif kecil terhadap daya serap
+biomassa (berkisar antara 3-10%).

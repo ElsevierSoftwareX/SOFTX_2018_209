@@ -1,0 +1,447 @@
+﻿Pengembangan Konsep Zero Runoff System (ZROS) untuk
+Optimalisasi Kadar Air Tanah pada Lahan Perkebunan Non Irigasi
+
+
+Abstrak
+Pada lahan non irigasi, kadar air tanah sulit dipertahankan pada kondisi kapasitas lapang dan sangat
+tergantung pada curah hujan. Zero runoff system (ZROS) berupaya memanfaatkan limpasan permukaan
+dan mengkonversinya menjadi cadangan air tanahdengan menggunakan bangunan resapan. Penelitian
+ini bertujuan menganalisis perubahan kadar air tanah sebelum dan sesudah penerapan ZROS serta
+menghitung efektifitas ZROS dalam meresapkan air hujan. Pada penelitian ini, bangunan resapan yang
+digunakan berupa rorak dan saluran pengumpul. Perubahan kadar air tanah yang terjadi sebelum dan
+sesudah diterapkan ZROS dihitung menggunakan model kesetimbangan air di dalam zona perakaran
+tanaman. Hasil simulasi menunjukkan bahwa setelah diterapkan ZROS, penurunan perubahan kadar air
+tanah berada pada kisaran -0.001 sampai -0.009 m3/m3 sedangkan sebelum ZROS sebesar -0.01 sampai
+-0.024 m3/m3. Selain itu, ZROS juga mampu meningkatkan kadar air tanah di lokasi penelitian sebesar
+25.57%. Kenaikan kadar air tanah ini disebabkan oleh kemampuan ZROS yang secara efektif menampung
+dan meresapakan 51.04% dari curah hujan yang terjadi selama periode pengukuran
+Kata Kunci : bangunan resapan, kadar air tanah, limpasan permukaan, model kesetimbangan air, zero
+runoff system.
+
+
+Pendahuluan
+Kebutuhan air tanaman seringkali menjadi
+faktor pembatas utama dalam produksi pertanian.
+Maka, irigasi secara berkala dilakukan untuk
+memenuhi kebutuhan air tanaman. Permasalahan
+timbul ketika lahan yang digunakan untuk bercocok
+tanam merupakan lahan perkebunan non irigasi.
+Pemenuhan kebutuhan air tanaman menjadi sulit
+dilakukan dan hanya bergantung pada curah hujan
+setempat. Masalah lahan perkebunan non irigasi
+semakin kompleks apabila lahan tersebut berada
+pada daerah yang memiliki curah hujan tahunan
+rata-rata yang rendah (< 1000 mm/tahun). Dengan
+kondisi tersebut, pemenuhan kebutuhan air
+tanaman menjadi sulit dilakukan dan berpengaruh karena itu, diperlukan upaya untuk mengkonservasi
+air hujan agar dapat dimanfaatkan secara optimal,
+khususnya di bidang pertanian. Zero runoff system
+merupakan konsep pengelolaan sumber daya air
+dengan cara menahan atau menampung limpasan
+permukaan yang terjadi di permukaan atau di
+dalam tanah (Surdianto 2012). Selain mengurangi
+debit limpasan, konsep ini juga dapat meningkatkan
+ketersediaan air di dalam tanah. Untuk menahan
+atau menampung limpasan permukaan, diperlukan
+alat bantu berupa bangunan resapan. Konsep
+ini memberikan hasil rancangan baru berupa
+bangunan hidrolika yang mudah, murah dan ramah
+lingkungan untuk mengurangi limpasan permukaan
+dan mengkonversinya menjadi cadangan air tanah.
+Curah hujan yang jatuh akan diresapkan oleh
+tanah dan menjadi cadangan air tanah. Cadangan
+air tanah ini yang kemudian dapat dimanfaatkan
+oleh tanaman untuk memenuhi kebutuhan air.
+Namun, tidak semua curah hujan tersebut mampu
+diresapkan oleh tanah. Sebagian besar curah hujan
+mengalir di atas permukaan tanah dalam bentuk
+limpasan permukaan (runoff). Hal inidisebabkan
+oleh beberapa faktor, antara lain infiltrasi tanah,
+jenis tanah, jenis tutupan lahan, perlakuan tanah,
+kondisi hidrologi dan kelembapan tanah (Kumar
+& Rajpoot 2013). Kuantitas dan kecepatan runoff
+dipengaruhi oleh luas lahan, koefisien runoff dan intensitas hujan maksimum (Surdianto 2012).
+Implikasi dari reduksi runoff ini yaitu penurunan
+laju erosi dan peningkatan cadangan air tanah
+sehingga jumlah air yang tersedia akan cukup
+memenuhi kebutuhan tanaman. Tujuan penelitian
+ini yaitu menganalisis perubahan kadar air tanah
+sebelum dan sesudah diterapkan ZROS. Hasil
+dari penelitian ini diharapkan dapat memberikan
+informasi keadaan kadar air tanah di lahan non
+irigasi sehingga tindakan-tindakan preventif dapat
+dilakukan.
+Bahan dan Metode
+Waktu dan Lokasi Penelitian
+Penelitian ini dilaksanakan selama enam bulan,
+dari bulan November 2013 sampai dengan Mei
+2014. Penelitian dilakuan pada lahan perkebunan
+di Desa Pondok Kahuru, Kecamatan Ciomas,
+Kabupaten Serang, Provinsi Banten pada koordinat
+6O13’03.50” LS dan 106O02’44.04” BT. Kecamatan
+Ciomas terletak di sebelah barat daya dan berjarak
+kurang lebih 16 km dari pusat kota Serang.
+Bahan dan Alat
+Penelitian ini menggunakan bahan antara lain
+data curah hujan dan temperatur harian selama 10
+tahun terakhir (2004-2013) dan data sifat fisik tanah
+antara lain permeabilitas, kadar air tanah pada pF
+1 - 4.2, perkolasi, tekstur tanah, bulk density dan
+pori drainase. Alat yang digunakan antara lain
+seperangkat komputer data logger EM50, mini disk
+infiltrometer, sensor kadar air tanah 5TE dan EC-5,
+penakar curah hujan manual, peralatan surveying,
+dan satu set soil ring sample.
+Pembuatan Bangunan Resapan
+Sistem bangunan resapan dibuat di sekitar
+titik terjadinya limpasan permukaan. Lahan yang
+diterapkan ZROS berupa lahan perkebunan non
+irigasi dengan kemiringan lahan sebesar 7.5° atau
+13%. Pada kasus ini, runoff terjadi dan terpusat
+pada jalan setapak sehingga pembuatan rorak
+difokuskan di dekat jalan setapak tersebut. Tujuan
+dibuat rorak yaitu menghilangkan runoff di jalan
+setapak tersebut dan meresapkan runoff ke dalam
+tanah. Sebelum dibuat rorak, pemetaan lahan harus
+dilakukan terlebih dahulu agar diketahui kontur
+lapangan sehingga arah aliran air dapat diketahui.
+Pada zero runoff system, dimensi dan jumlah
+rorak ditentukan berdasarkan potensi runoff yang
+terjadi di lapangan. Semakin besar potensi runoff
+yang terjadi, semakin banyak jumlah rorak yang
+dibutuhkan atau semakin besar dimensi rorak
+tersebut. Prediksi volume aliran permukaan dapat
+dilakukan dengan membuat skenario kejadian
+hujan dengan durasi 2, 3, 4 dan 5 jam. Berdasarkan
+penelitian Van Breen di Indonesia, khususnya di
+Pulau Jawa, lamanya durasi hujan terkonsentrasi selama 4 jam dengan curah hujan sebesar 90%
+dari jumlah hujan selama 24 jam (Susilowati &
+Kusumastuti 2010). Pada penelitian ini, durasi hujan
+2 jam dipilih untuk memperkecil resiko terlampauinya
+peluang banjir. Penetapan jumlah dan dimensi rorak
+menggunakan simulasi pada Microsoft Excel yang
+dilengkapi dengan Visual Basic Application.
+Penentuan Runoff dan Nilai Kadar Air Tanah
+Pengukuran kadar air tanah dilokasi penelitian
+dilakukan menggunakan sensor kadar air tanah
+5TE dan EC-5 yang sudah dikalibrasi sebelumnya.
+Untuk memperoleh nilai kadar air tanah harian,
+pengukuran dilakukan tiap jam selama satu bulan.
+Hasil pembacaan sensor kemudian disimpan pada
+data logger. Pengukuran kadar air tanah diperlukan
+untuk mengetahui tingkat keberhasilan sistem
+penampungan dan peresapan aliran permukaan.
+Data kadar air tanah di lapangan diperlukan
+untuk validasi antara hasil simulasi dengan hasil
+pengukuran di lapangan.
+Proses kesetimbangan air di dalam zona
+perakaran tanaman ditunjukkan pada Gambar 2.
+Irigasi (Irrigation, I) dan curah hujan (Presipitation,
+P) merupakan air yang masuk ke dalam zona
+perakaran. Sebagian (I) dan (P) tersebut akan
+hilang melalui aliran permukaan (Qrunoff, Qr) dan
+perkolasi (Deep Percolation, DP) yang secara
+bertahap akan mengisi muka air tanah. Sebagian
+air tersebut juga akan bergerak ke atas karena
+capillary force (Ground Water Capillary Force,
+GW). Evapotranspirasi yang terjadi di permukaan
+tanah dan tanaman akan mengurangi air di zona
+perakaran.
+Berdasarkan Gambar 2, kesetimbangan air
+tanah pada zona perakaran oleh Pereira dan Allen
+(1999) dinyatakan dalam bentuk sebagai berikut.
+(1)
+Persamaan (1) (m3/m3) menunjukkan bahwa
+aliran permukaan (Qr) berpengaruh langsung
+terhadap ketersediaan air di dalam tanah. Aliran
+permukaan juga menjadi parameter yang paling
+dominan pengaruhnya terhadap kesetimbangan air.
+Oleh karena itu, untuk mempertahankan agar kadar
+air tanah di sekitar perakaran selalu berada pada
+kisaran yang tersedia bagi tanaman, perlu upaya
+untuk mengurangi Qr.
+Upaya yang dapat dilakukan untuk mengurangi
+Qr yaitu dengan membuat lubang resapan atau
+rorak yang disertai saluran pengumpul untuk
+menghilangkan runoff. Tidak ada irigasi yang
+dilakukan di lahan perkebunan ini. Apabila rorak
+tersebut diasumsikan mampu menahan runoff
+secara keseluruhan, maka nilai Qr dan GW menjadi
+tidak ada (nol). Agar analisis hasil simulasi mendekati
+kondisi ideal dengan data hasil pengukuran
+di lapangan maka ditambahkan faktor koreksi
+untuk parameter hujan a dan evapotranspirasi b.
+Maka, Persamaan (1) menjadi persamaan berikut
+(Surdianto 2012).
+(2)
+Faktor koreksi hujan a dan evapotranspirasi
+b diperoleh dengan membandingkan data hasil
+simulasi dengan data observasi pada waktu yang
+sama. Minimalisasi terhadap deviasi dari model
+(error) dilakukan dengan menggunakan solver
+pada Microsoft Excel 2007. Untuk menghitung
+runoff yang terjadi di lokasi penelitian, digunakan
+metode Soil Conservation Services (SCS) dengan
+persamaannya adalah sebagai berikut.
+(3)
+(4)
+Pada metode SCS, runoff (RO) dianggap nol
+apabila curah hujan (P) ≥ 0.2S. S adalah perbedaan
+kondisi tanah dan tutupan lahan terhadap nilai
+curve number (CN). Jika curah hujan > 20% dari
+S, RO dihitung menggunakan persamaan berikut
+(USDA 1986). Metode ini sudah digunakan oleh
+beberapa peneliti (Reshma et.al 2010; Luxon &
+Pius 2013) tidak hanya di Amerika Serikat tetapi
+juga di negara lain karena memberikan hasil yang
+valid dan konsisten (Kumar & Rishi 2013).
+
+
+Pengumpulan Data
+Data yang dikumpulkan dalam penelitian ini
+meliputi data sekunder dan data primer. Data
+sekunder diperoleh secara tidak langsung berupa
+catatan maupun hasil penelitian dari pihak lain. Data
+sekunder yang digunakan pada penelitian ini yaitu
+data iklim berupa data curah hujan harian dan data
+temperatur selama 10 tahun terakhir (2004-2013).
+Data primer diperoleh secara langsung melalui
+pengamatan dan pengukuran langsung di lapangan.
+Data primer yang digunakan adalah data curah
+hujan selama penelitian, sifat fisik tanah, laju infiltrasi
+lahan dan kadar air tanah. Data curah hujan harian
+selama penelitian diperoleh dengan menggunakan
+alat penakar curah hujan manual.
+Data fisik tanah diperoleh dengan analisis
+laboratorium beberapa sampel tanah yang diambil
+padakedalaman 0-75 cm. Laju infiltasi lahan
+diperoleh menggunakan mini disk infiltrometer.
+Alat ini mampu mengukur laju infiltrasi secara
+on-site sehingga tidak perlu mengukur infiltrasi di
+laboratorium. Untuk data kadar air tanah, diperoleh
+dari pembacaan sensor EC-5 dan 5TE yang
+dipasang pada kedalaman 0-25 cm dari permukaan
+tanah.
+Analisis Data
+Simulasi dilakukan secara harian dari tahun
+2004 sampai dengan 2013 dan simulasi selama
+periode penelitian (1 November 2013 sampai 31
+Mei 2014). Validasi model dilakukan dengan cara
+membandingkan kadar air tanah hasil pengukuran
+dengan hasil simulasi. Secara umum, prosedur
+simulasi ZROS disajikan pada Gambar 3.
+Hasil dan Pembahasan
+Potensi Runoff sebagai Sumber Air
+Curah hujan yang jatuh di lokasi penelitian
+tidak seluruhnya dapat terinfiltrasi ke dalam tanah.
+Sebagian dari curah hujan tersebut mengalir di
+permukaan tanah dalam bentuk runoff. Besar
+runoff yang terjadi di lokasi penelitian dihitung
+menggunakan persamaan (3) dan (4). Hasil dari
+perhitungan limpasan permukaan disajikan dalam
+bentuk grafik pada Gambar 4.
+Gambar 4 menunjukkan bahwa runoff yang
+terjadi selama 10 tahun terakhir rata-rata berkisar
+antara 18-148 mm/bulan. Runoff yang terjadi cukup
+besar sehingga perlu penanganan agar runoff
+tersebut dapat dikurangi. Rata-rata, 35.26% dari
+curah hujan di lapangan tidak dapat dimanfaatkan
+dan menjadi runoff. Runoff tersebut apabila
+dikurangi dan diresapkan ke dalam tanah, maka
+manfaat yang diperoleh akan sangat bermanfaat
+bagi masyarakat, khususnya petani.
+Gambar 4 memperlihatkan bahwa jumlah runoff
+yang terjadi berbanding lurus dengan curah hujan.
+Pada musim hujan antara bulan November sampai
+Maret, potensi runoff sangat tinggi. Apabila runoff
+ini dapat ditekan dan diresapkan ke dalam tanah,
+maka cadangan air pada musim kemarau (Mei
+sampai Oktober) diharapkan akan meningkat.
+Pengembangan Bangunan Resapan
+Pada penelitian ini, sistem penampungan dan
+peresapan air hujan yang dibuat adalah rorak yang
+disertai saluran pengumpul. Beberapa penelitian
+sudah dilakukan dan dibeberapa negara (Yeasmin &
+Rahman 2013) menyebutkan bahwa konservasi air
+memanfaatkan air hujan sangat efektif dan efisien
+baik di musim hujan maupun di musim kemarau.
+Dimensi dan jumlah rorak dibuat berdasarkan
+potensi limpasan permukaan yang terjadi di
+lapangan. Faktor-faktor yang perlu diperhatikan
+dalam pembuatan rorak dan saluran pengumpul
+antara lain nilai koefisien rasional (Rational
+Coefficient, C), intensitas hujan maksimum
+(Intensity, I), luas lahan berpotensi runoff (Area, A)
+dan laju infiltrasi lahan.
+Penentuan nilai koefisien rasional C dihitung
+menggunakan sistem komposit. Lokasi penelitian
+memiliki lima jenis tutupan lahan yang berbeda
+dengan luas lahan yang berbeda pula. Dengan
+sistem komposit, nilai C yang diperoleh lebih akurat
+dan representatif. Penentuan nilai C di lokasi
+penelitian berdasarkan jenis dan luas tutupan lahan
+disajikan pada Tabel 1.
+Desain rorak dan saluran peresapan
+menggunakan curah hujan rencana (R24) periode
+ulang 5 tahun dengan distribusi Gumbel. Distribusi
+Gumbel merupakan distribusi yang representatif
+dan mampu mewakili distribusi curah hujan di
+Indonesia. Beberapa penelitian menggunakan
+distribusi Gumbel dalam penentuan curah hujan
+rencana di Indonesia (Hamdani 2013). Berdasarkan
+hasil perhitungan, diperoleh nilai R24 sebesar 111.08
+mm/hari.
+Pada perencanaan desain saluran, digunakan
+durasi hujan (t) sebesar 2 jam. Durasi hujan 2 jam
+dipilih karena pada durasi hujan tersebut, aliran
+permukaan berada pada kondisi maksimum.
+Susilowati dan Kusumastuti (2010) dalam
+penelitiannya menyebutkan bahwa rata-rata durasi di Indonesia sebesar 4 jam dengan curah
+hujan 90% terkonsentrasi dari jumlah hujan selama
+24 jam. Namun, untuk keperluan desain sistem
+penampungan dan peresapan air hujan dipilih
+kemungkinan durasi hujan 2 jam untuk memperkecil
+resiko terlampauinya peluang terjadi banjir.
+Hasil perhitungan runoff menggunakan metode
+rasional, diperoleh nilai limpasan permukaan
+sebesar 0.00064 m3/dt. Untuk menghilangkan
+runoff sebesar 0.00064 m3/dt di lokasi penelitian,
+dibangun 2 buah rorak utama berdimensi 100 x 100
+x 40 cm. Kedua buah rorak utama ini diletakkan di
+hulu lokasi penelitian. Kemudian, untuk menopang
+kinerja rorak utama, diperlukan rorak tambahan
+sebanyak 10 buah dengan dimensi panjang, lebar
+dan kedalaman berturut turut sebesar 60 x 60 x
+40 cm serta saluran pengumpul dengan lebar 20
+cm dan kedalaman 10 cm Rancangan rorak dan
+saluran pengumpul serta realisasi di lapangan
+disajikan pada Gambar 5.
+Rorak dan saluran pengumpul diletakkan secara
+menyebar di lokasi penelitian dan tidak tergantung
+oleh jarak antar rorak. Rorak utama diletakkan di
+bagian hulu sedangkan rorak tambahan diletakkan
+di bagian tengah sampai hilir. Seluruh badan rorak
+terbuat dari tanah agar dapat meresapkan air ke
+dalam tanah. Pada dasar rorak, boleh ditambahkan
+serasah agar dapat menambah daya serap tanah.
+Untuk saluran pengumpul, dibuat searah kontur dan
+menghubungkan rorak satu dengan rorak lainnya.
+Pemetaan rorak dan saluran pengumpul disajikan
+pada Gambar 6.
+Model Analisis Kesetimbangan Air
+Sebelum dan Sesudah Penerapan ZROS
+Terdapat dua simulasi yang dilakukan pada
+penelitian ini, yaitu simulasi sebelum dan sesudah
+penerapan ZROS. Simulasi setelah penerapan ZROS
+merupakan simulasi kesetimbangan air pada ZROS
+apabila ada sistem penampungan dan peresapan
+air hujan. Artinya, pada kondisi ini, curah hujan yang
+jatuh di lapangan diasumsikan seluruhnya dapat
+diresapkan sehingga runoff menjadi tidak ada atau
+nol. Simulasi sebelum penerapan ZROS merupakan
+simulasi kesetimbangan air pada ZROS apabila
+tidak ada sistem penampungan dan peresapan air hujan. Artinya, pada kondisi ini curah hujan yang
+jatuh tidak dapat dimanfaatkan dan terbuang dalam
+bentuk runoff. Perubahan nilai kadar air tanah
+harian selama penelitian pada kedalaman 0-25 cm
+dari hasil simulasi disajikan dalam bentuk grafik
+pada Gambar 7.
+Gambar 7 menunjukkan bahwa perubahan nilai
+kadar air tanah hasil simulasi secara grafis tidak
+menunjukkan pola yang serupa dengan pola curah
+hujan. Besar kecilnya curah hujan yang jatuh tidak
+banyak berpengaruh terhadap perubahan kadar air
+tanah. Faktor utama yang mempengaruhi perubahan
+kadar air tanah tersebut adalah kondisi awal kadar
+air tanah tersebut sebelum hujan. Apabila tanah
+dalam keadaan jenuh kemudian terjadi hujan, maka
+tidak terjadi perubahan kadar air tanah.
+Melalui simulasi ini, perubahan kadar air tanah
+dapat diketahui secara harian. Simulasi ini juga
+memperlihatkan bahwa perubahan kadar air
+tanah sebelum ZROS diterapkan sangat fluktuatif.
+Penurunan perubahan kadar air tanah selama
+periode penelitan berkisar -0.01 sampai -0.024 m3/
+m3. Hal ini menunjukkan bahwa proses kehilangan
+kadar air tanah di lokasi penelitian sangat cepat.
+Gambar 7 juga menunjukkan bahwa nilai kadar
+air tanah hasil pengukuran dan model secara grafis
+tidak menunjukkan pola curah hujan. Perbedaan
+yang terlihat yaitu pada simulasi setelah ZROS
+diterapkan, perubahan kadar air tanah tidak terlihat
+fluktuatif dan relatif konstan. Hal tersebut terlihat
+dari kurva perubahan kadar air tanah sebagian
+berada pada kondisi konstan di titik nol.Penurunan
+kadar air tanah selama periode penelitian juga
+tidak terlalu besar, yaitu berkisar -0.001 sampai
+-0.009 m3/m3. Hal ini menunjukkan bahwa proses
+kehilangan kadar air tanah relatif lambat akibat
+adanya tambahan cadangan air tanah dari runoff
+yang berhasil diresapkan. Dengan diterapkan
+ZROS, berdasarkan hasil perhitungan kadar air
+tanah di lokasi penelitian rata-rata naik sebesar
+25.57% selama periode penelitian.
+Efektivitas ZROS
+Penentuan efektivitas dilakukan dengan cara
+membandingkan data curah hujan dan jumlah
+runoff yang mampu diserapkan oleh ZROS. Untuk
+mendapatkan data jumlah runoff yang mampu
+diserap oleh ZROS, diperlukan data kadar air tanah
+harian di lokasi penelitian. Pengukuran kadar air
+tanah dilakukan selama satu bulan, yaitu dari tanggal
+30 Mei sampai dengan 30 Juni 2014. Perbandingan
+data perubahan kadar air tanah hasil pengukuran
+dan hasil simulasi disajikan pada Gambar 8.
+Perbandingan perubahan kadar air tanah hasil
+pengukuran dan hasil simulasi di lokasi penelitian
+yang disajikan pada Gambar 8 masih belum mampu
+memberikan informasi berapa jumlah runoff yang
+mampu dikurangi oleh ZROS. Oleh karena itu,
+perubahan kadar air tanah diasumsikan seluruhnya
+menyebar ke lahandalam bentuk perubahan kadar air tanah dengan satuan yang ekivalen
+terhadap curah hujan. Dengan cara tersebut, dapat
+diketahui jumlah runoff yang mampu diresapkan
+oleh ZROS. Gambar 9 menampilkan runoff yang
+mampu diresapkan oleh ZROS selama periode
+pengukuran.
+Gambar 9 menunjukkan perubahan kadar air
+tanah mengikuti pola curah hujan. Jumlah runoff
+yang mampu diresapkan ke dalam tanah dengan
+perubahan kadar air tanah di lokasi penelitian.
+Kadar air tanah diubah menjadi satuan yang
+ekivalen dengan curah hujan (mm) dengan cara
+mengalikan nilai kadar air tanah dengan kedalaman
+pengamatan di lapangan, sebesar 25 cm. Selama
+satu bulan periode pengukuran, terjadi 8 hari hujan
+dengan total curah hujan sebesar 115 mm. Dengan
+adanya ZROS, 51.04% atau 76.2 mm dari total
+curah hujan mampu diresapkan ke dalam tanah.
+Curah hujan yang mampu diresapkan tersebut
+diasumsikan menyebar secara merata di seluruh
+rorak. Penerapan ZROS dengan menggunakan
+bangunan resapan berupa rorak yang dibangun
+memotong kontur ternyata mampu mengurangi
+hampir setengah dari total curah hujan. Hal ini
+mengindikasikan bahwa penerapan ZROS di lokasi
+penelitian mampu menaikkan kadar air tanah
+dengan cara menahan dan meresapkan runoff ke
+dalam tanah.
+Simpulan
+Konsep Zero Runoff System (ZROS) telah
+diujicobakan di lahan perkebunan non irigasi.
+Hasil uji coba menunjukkan bahwa ZROS mampu
+menaikkan kadar air tanah yang berasal dari
+volume air limpasan yang tertampung di rorak . Hal
+ini terlihat dari perubahan kadar air tanah di lokasi
+penelitian setelah diterapkan ZROS. Penurunan
+perubahan kadar air tanah berada pada level -0.001
+sampai -0.009 m3/m3 setelah diterapkan ZROS
+sedangkan sebelum ZROS sebesar -0.01 sampai
+-0.024 m3/m3. ZROS juga mampu meningkatkan
+kadar air tanah di lokasi penelitian sebesar 25.57%.
+Kenaikan kadar air tanah ini didasarkan pada
+kemampuan ZROS yang mampu menampung dan
+meresapkan 51.04% dari curah hujan yang terjadi
+selama periode pengukuran dengan asumsi seluruh
+air yang tertampung menyebar secara merata di
+seluruh lahan.

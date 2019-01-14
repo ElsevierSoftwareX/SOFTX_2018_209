@@ -1,0 +1,440 @@
+﻿ 
+
+ 
+
+PENGEMBANGAN SENSOR GLUKOSA BERBASIS MATERIAL SiO2-CuO 
+
+MENGGUNAKAN SCREEN PRINTED CARBON ELECTRODE (SPCE) 
+
+ 
+ 
+ 
+
+ABSTRAK 
+
+Telah dilakukan pengembangan sensor glukosa berbasis material SiO2-CuO 
+menggunakan Screen Printed Carbon Electrode (SPCE). Terdapat tiga jenis material yang 
+digunakan untuk mendeteksi glukosa, diantaranya yaitu Multi Wall Carbon Nanotube 
+(MWCNT)-SiO2-CuO, SiO2-CuO(A) dan SiO2-CuO(B). Perbedaan komposisi SiO2-CuO 
+(A) dan SiO2-CuO (B) terdapat pada penambahan NaOH dalam proses sintesis SiO2-CuO 
+(B). Analisis untuk masing-masing material ini dilakukan dengan menggunakan Scanning 
+Electron Microscopy (SEM), metode voltametri siklik dan kronoamperometri. Pada 
+analisis dengan voltametri siklik, digunakan rentang potensial -1– 1,5 V dengan elektroda 
+pembanding Ag/AgCl pada laju pindai 100 mV/detik dan pada metode kronoamperometri 
+digunakan 3 potensial terapan yaitu (-0,6), (-0,5) and (-0,4) V dengan durasi analisis 
+selama 5 detik. Dari hasil analisis dengan metode SEM, voltametri siklik dan 
+kronoamperometri didapatkan SiO2-CuO(B)sebagai material yang terbaik dan dapat 
+digunakan sebagai pendeteksi glukosa. 
+
+Kata kunci : glukosa, kronoamperometri, material, SEM, voltametri Siklik 
+ 
+ 
+ 
+
+PENDAHULUAN 
+
+Sensor non enzimatik telah banyak dikembangkan oleh para peneliti. Para peneliti 
+
+menggunakan logam, paduan logam serta oksida logam tertentu sebagai material 
+
+modifikasi untuk mendeteksi glukosa dengan berbasis sensor non enzymatik. Untuk sensor 
+
+logam telah dilakukan dengan menggunakan Nikel (Ni) (Zhao et al, 2007) Emas (Au) 
+
+(Chuet al, 2012) dan nanopartikel Platina (Pt) (Bo et al, 2010). Untuk paduanlogam telah 
+
+dilakukan oleh Hui (2011) dengan menggunakan campuran Paladiun-Nikel (Pd-Ni), Cui 
+
+(2007) menggunakan campuran Platina-Timbal (Pt-Pb) dan Zhao (2010) menggunakan 
+
+campuran Platina-Kobalt (Pt-Co). Peneliti yang menggunakan oksida logam untuk deteksi 
+
+glukosa diantaranya yaitu Bai (2011) menggunakan tembaga oksida (CuO), Cao (2011) 
+
+menggunakan nikel oksida (NiO) dan Ding (2010) menggunakan kobalt oksida (Co3O4). 
+
+Metode sintesis sensor pada penelitian tersebut menggunakan metode elektrodeposisi dan 
+
+pengeringan pada suhu kamar. 
+
+Pada penelitian ini akan digunakan oksida logam yaitu Tembaga Oksida (CuO) 
+
+seperti yang telah dilakukan oleh Bai (2011). Namun pada penelitian ini, CuO disintesis 
+
+dengan proses pengadukan dan dalam penelitian yang dilakukan oleh Bai (2011). CuO 
+
+disintesis dengan proses pemanasan 120 0C hingga 24 jam dengan autoclave. Dalam 
+
+penelitian ini digunakan 3 jenis material yang akan digunakan untuk memodifikasi 
+
+permukaan elektroda kerja Screen Printed Carbon Electrode (SPCE). Tiga jenis material 
+
+yang disintesis diantaranya yairtu Multi Wall Carbon Nanotube (MWCNT)-Silikon 
+
+Dioksida (SiO2) dan Tembaga Oksida (CuO), SiO2-CuO(A) dan SiO2-CuO(B). Perbedaan 
+
+komposisi pada SiO2-CuO(A) dan SiO2-CuO(B) yaitu terdapat pada penambahan NaOH 
+
+dalam proses sintesis SiO2-CuO(B). 
+
+Multi Wall Carbon Nanotube (MWCNT) berperan sebagai material pendukung 
+
+sedangkan SiO2 selain berperan sebagai material pendukung juga berperan sebagai katalis 
+
+oksidasi dalam proses deteksi glukosa. Penggunaan SiO2 ini didasarkan pada luas 
+
+permukaan yang besar dan memiliki daya adsorbsi yang tinggi (Zhang, 2010). CuO 
+
+merupakan material aktif yang berperan sebagai redoks mediator untuk mengoksidasi 
+
+glukosa. Selain itu, CuO juga mudah untuk disintesis, tidak beracun serta dapat disimpan. 
+
+CuO memiliki sifat katalitik yang baik, sensitive dan stabil untuk mengidentifikasi glukosa 
+
+(Luo, 2011). 
+
+ 
+ 
+ 
+
+Dalam penelitian-penelitian sebelumnya, sebagian besar elektroda kerja yang 
+
+digunakan yaitu elektroda karbon kaca, tetapi dalam penelitian ini digunakan elektroda 
+
+karbon screen printed. Penggunaan elektroda karbon kaca membutuhkan larutan analit 
+
+yang sangat besar (mL), sedangkan elektroda karbon screen printed dapat digunakan untuk 
+
+mengukur larutan analit dalam jumlah sangat kecil (μL). Ketiga jenis material ini dilapisi 
+
+pada permukaan elektroda screen printed yang sudah diaktivasi sebelumnya dengan 
+
+menggunakan NaOH. Pengujian ketiga jenis material ini dilakukan dengan menggunakan 
+
+voltametri siklik, kronoamperometri dan pengamatan permukaan elektroda screen printed 
+
+dengan menggunakan Scanning Electron Microscopy (SEM). 
+
+ 
+
+METODE PENELITIAN 
+
+Alat-alat yang digunakan dalam penelitian ini yaitu Screen Printed Carbon 
+
+Electrode (SPCE), magnetic stirer, oven. Instrumen pengukuran yang digunakan adalah 
+
+Potensistat/Galvanostat Uniscan PG581 yang terhubung dengan computer dan SEM. Bahan 
+
+yang digunakan yaitu, Multiwall Carbon Nanotubes 
+
+(MWCNT), Etanol 
+
+(pa), 
+
+Tetraethylorthosilicate (TEOS), ammonium pekat, akuades bebas ion, CuSO4.5H2O, NaOH 
+
+(pa), Glukosa (pa). 
+
+Campuran yang terdiri dari 5 mL etanol, 0,125 mL Tetreaethylorthosilicate 
+
+(TEOS), 0,125 mL ammonium pekat dan 0,125 mL akuades bebas ion dalam wadah, 
+
+kemudian diaduk menggunakan pengaduk magnetic stirer selama 2 jam. Ditambahkan 
+
+CuSO4.5H2O 1 M dan NaOH 0,1 M distirer kembali. Selanjutnya campuran tersebut 
+
+disaring dan pellet yang didapat dicuci dengan akuades bebas ion kemudian disaring 
+
+kembali dan dikeringkaan. Pellet yang sudah kering ditimbang sebanyak 5 mg dan 
+
+dilarutkan dalam akuades bebas ion sebanyak 0,5 mL kemudian dihomogenkan selama 3 
+
+menit. Sehingga, didapatkan suspensi modifikasi yang siap diteteskan pada permukaan 
+
+elektroda karbon screen printed. 
+
+Aplikasi Penentuan Glukosa 
+
+Pengaruh Jumlah Siklus Aktivasi 
+
+Sebelum dimodifikasi, elektroda screen printed diaktivasi permukaannya dengan 
+
+menggunakan larutan NaOH 0,1 M. Jumlah siklus yang digunakan dalam proses ini 
+
+bervariasi yakni 10, 20, 30, 40, dan 50 siklus. Dalam proses pengukuran digunakan larutan 
+
+analit glukosa 200 mM dalam NaOH 0,1 M. Aktivasi permukaan elektroda ini 
+
+menggunakan metode voltametri siklik dengan rentang potensial yang digunakan -0,5 – 1,5 
+
+V dan metode kronoamperometri pada potensial terapan (-0,6), (-0,5) dan (-0,4) V dengan 
+
+durasi waktu analisis masig-masing 5 detik. 
+
+Pengaruh Jumlah Volume Suspensi Modifikasi 
+
+Setelah diaktivasi, elektroda screen printed diteteskan dengan material SiO2-CuO 
+
+sebanyak 5 µL, selanjutnya dikeringkan dengan oven. Variasi volume modifikasi yang 
+
+digunakan yaitu 5 µL, 10 uL, 15 µL dan 20 µL. Dalam proses pengukuran, larutan yang 
+
+digunakan yaitu larutan glukosa 200 mM dalam NaOH 0,1 M. Pengaruh jumlah volume 
+
+suspensi modifikasi dilakukan dengan menggunakan metode voltametri siklik pada rentang 
+
+potensial -0,5 – 1,5 V dan metode kronoamperometri pada potensial terapan (-0,6), (-0,5) 
+
+and (-0,4) V dengan durasi waktu analisis masing-masing 5 detik. 
+
+ 
+
+PEMBAHASAN 
+
+Material 
+
+Pada penelitian ini disintesis 3 jenis material dengan perbedaan komposisi, 
+
+diantaranya yaitu Multi Wall Carbon Nanotube (MWCNT)-Silikon Dioksida (SiO2)-
+
+Tembaga Oksida (CuO); SiO2-CuO(A); dan SiO2-CuO(B). SiO2-CuO(A) dan SiO2-CuO(B) 
+
+memiliki perbedaan komposisi dalam proses sintesis modifikasi. Dalam sintesis SiO2-
+
+CuO(B) terdapat penambahan NaOH sedangkan dalam proses sintesis SiO2-CuO(A) tidak 
+
+dilakukan penambahan NaOH. Penambahan NaOH ini dimaksudkan untuk membentuk 
+
+senyawa CuO dalam proses sintesisnya, sesuai dengan reaksi yang tercantum pada 
+
+persamaan (1), (2) dan (3). 
+
+2-+2NH4OH 
+
+ 
+
+2 Cu2+ + SO4
+Cu2+ + 2OH- 
+Cu(OH)2 (s) CuO(s) + H2O 
+
+ Cu(OH)2 (s) + H2O 
+
+Cu(OH)2.CuSO4 (S) +2NH4
+
++
+
+(aq) 
+
+(1) 
+(2) 
+(3) 
+
+ 
+
+Terdapat endapan biru tembaga (II) hidroksida, dan bila dipanaskan berubah menjadi 
+
+tembaga (II) oksida yang berwarna hitam karena dehidratasi (Vogel, 1990). 
+
+Ketiga jenis material ini digunakan untuk memodifikasi elektroda kerja permukaan 
+
+SPCE dengan cara melapisi permukaan elektroda kerja. MWCNT dan SiO2 bertindak 
+
+sebagai material yang digabungkan dengan material aktif CuO dalam mengidentifikasi 
+glukosa. Dalam penelitian ini dilakukan analisis dengan menggunakan Scanning Electron 
+
+Microcopy (SEM) yang bertujuan untuk mengetahui permukaan dari masing-masing 
+
+material. Berikut disajikan hasil SEM yang telah dilakukan pada Gambar 1. 
+
+
+Gambar 1. Hasil analisis SEM pada material (A) MWCNT-SiO2-CuO, (B) SiO2-CuO(A) 
+
+dan (C) SiO2-CuO(B). 
+
+Dari hasil SEM, untuk MWCNT-SiO2-CuO, partikel pada permukaan masih 
+
+menggumpal. Hal ini dapat terjadi dimungkinkan karena kurangnya waktu pengadukan saat 
+
+proses sintesis. Untuk nanopartikel SiO2-CuO (A) partikel tidak menggumpal, dengan 
+
+ukuran kecil namun permukaan kurang halus, sehingga pada permukaan elektroda 
+
+pelapisannya 
+
+tidak merata. Pada nanopartikel yang ketiga yaitu SiO2-CuO (B) 
+
+permukaannya sudah halus sehingga dalam proses pelapisan dapat merata pada permukaan 
+
+elektroda. Selain itu, pada material SiO2-CuO (B) menunjukkan keberadaan CuO dengan 
+
+morfologi yang menyerupai bentuk jarum (ditunjukkan anak panah pada Gambar 1 C). 
+
+Dari Gambar 2, amperogram ketiga jenis material menunjukkan puncak yang 
+
+dihasilkan. Untuk material MWCNT-SiO2-CuO tidak terdapat puncak arus glukosa yang 
+
+dihasilkan. Pada material SiO2-CuO (A) terdapat arus yang terukur, tetapiintensitas arus 
+pada SiO2-CuO (B) lebih tinggi. Hal ini disebabkan oleh kandungan CuO yang lebih 
+
+banyak pada material SiO2-CuO (B). Dari hasil analisis dengan menggunakan metode 
+
+kronoamperometri dan SEM diketahuimaterial yang sesuai untuk melapisi elektroda screen 
+
+printed dalam proses deteksi glukosa adalah SiO2-CuO(B). 
+
+
+
+Gambar 2. Amperogram pada 3 jenis material (A) MWCNT-SiO2-CuO (B) SiO2-CuO (A) 
+
+(C) SiO2-CuO (B) dalam Glukosa 100 mM dalam NaOH 0,1 M. 
+
+ 
+
+Aplikasi Dalam Penentuan Glukosa 
+
+Jumlah Siklus Aktivasi 
+
+Proses aktivasi ini dilakukan sebelum elektroda screen printed dilapisi material 
+
+SiO2-CuO(B). Analisis jumlah siklus aktvasi ini dilakukan untuk meningkatkan arus dalam 
+
+proses pendeteksian glukosa. Analisis jumlah siklus aktivasi dilakukan dengan metode 
+
+voltametri siklik dan kronoamperometri. Grafik hasil pengaruh jumlah siklus aktivasi dapat 
+
+dilihat pada Gambar 3. 
+
+Grafik pada Gambar 3 menunjukkan adanya pengaruh jumlah siklus aktivasi, yaitu 
+
+arus meningkat seiring bertambahnya dengan jumlah siklus aktivasi elektroda screen 
+
+printed. Arus meningkat dimulai pada jumlah siklus aktivasi 10, 20 dan 30 siklus. Proses 
+aktivasi ini dapat memperbesar pori-pori dan memperluas permukaan elektroda serta 
+
+meningkatkan arus dalam proses pengukuran. Namun pada jumlah aktivasi 40 dan 50 siklus 
+
+arus yang dihasilkan menurun. Hal ini dapat terjadi dimungkinkan karena adanya kerusakan 
+
+yang terjadi pada permukaan elektroda screen printed sehingga elektroda tidak berfungsi 
+
+dengan baik dalam menghasilkan arus pada proses deteksi glukosa. Sehingga jumlah siklus 
+
+yang terbaik yang dapat digunakan untuk mengaktivasi permukaan elektroda screen printed 
+
+yaitu sebanyak 20 siklus. 
+
+Gambar 3. Pengaruh jumlah siklus aktivasi dengan arus yang dihasilkan. 
+
+ 
+
+ 
+
+Jumlah Volume Modifikasi 
+
+Puncak reduksi atau puncak oksidasi dapat dipengaruhi oleh volume modifkasi yang 
+
+digunakan untuk melapisi permukaan elektroda kerja. Transfer massa dalam proses 
+
+elektrokimia ditentukan oleh ketebalan permukaan elektroda yang mengalami difusi 
+
+terhadap analit. Sehingga, ketebalan modifikasi pada permukaan elektroda berpengaruh 
+
+pada potensial dan arus yang dihasilkan saat proses pengukuran berlangsung. 
+
+Gambar 4. Grafik pengaruh jumlah volume modifikasi dengan arus yang dihasilkan. 
+
+ 
+
+Dalam penelitian ini digunakan 4 variasi volume modifikasi yang digunakan, 
+
+diantaranya yaitu 5, 10, 15 dan 20 µL. Metode yang digunakan untuk mengukur potensial 
+
+dan arus puncak reduksi pada pengaruh jumlah volume nanomaterial ini yaitu dengan 
+
+menggunakan metode voltametri siklik dan kronoamperometri. Grafik hasil pengaruh 
+
+jumlah volume modifikasi terhadap arus ditampilkan pada Gambar 4. 
+
+Dari Gambar 4, terdapat satu volume modifikasi yang menghasilkan arus yang 
+
+paling tinggi yakni pada volume 10 µL. Arus yang dihasilkan pada volume modifikasi 
+
+sebesar 5 µL yaitu 9,3 µA dan pada volume 10 µL meningkat menjadi 16,48 µA. Namun, 
+
+untuk volume 10 µL dan 15 µL arus yang dihasilkan menurun. Hal ini dimungkinkan dapat 
+
+terjadi karena ketebalan modifikasi yang berlebih sehingga menghambat proses terjadinya 
+
+transfer elektron. Selain itu, menghambat katalis pada permukaan elektroda yang tidak 
+
+dapat bekerja secara efektif dan substrat katalitik yang juga terhambat untuk menyebar 
+
+menuju permukaan elektroda (Ma dan Chen, 2015). 
+
+Penentuan Glukosa 
+
+Penentuan kinerja nanomaterial SiO2-CuO(B) dilakukan dengan menggunakan 
+
+metode kronoamperometri meliputi kisaran konsentrasi linier, linearitas, kepekaan dan 
+
+batas deteksi. Elektroda yang telah dilapisi material SiO2-CuO(B) digunakan untuk 
+
+membuat kurva baku pada pengukuran glukosa dalam NaOH yang terdiri dari berbagai 
+
+konsentrasi glukosa. Pengukuran ini dilakukan pada kondisi optimum dari jumlah siklus 20 
+
+siklus dan volume material yang digunakan untuk melapisi permukaan elektroda kerja 
+
+screen printed yakni sebanyak 10 µL. Rentang konsentrasi yang digunakan untuk 
+
+penentuan kurva baku ini yaitu 0 – 1 mM glukosa dalam 0,1 M NaOH. Berikut 
+
+amperogram kurva baku dari nanomaterial SiO2-CuO(B). 
+
+Berdasarkan amperogram pada Gambar 5 diatas, dapat dibentuk grafik kurva baku 
+
+hubungan konsentrasi glukosa dalam NaOH dan selisih arus dengan blangko. Digunakan 
+
+selisih arus dan blangko untuk pembuatan kurva baku ini dengan alasan agar potensial dari 
+
+Cu dapat terlihat, karena dengan adanya gllukosa dalam analit menyebabkan potensial Cu 
+
+menjadi berkurang (terjadinya reaksi reduksi Cu). Berikut grafik kurva baku kalibrasi dari 
+
+nanomaterial SiO2-CuO(B) pada analit glukosa dalam NaOH. 
+
+Dalam grafik kurva baku (Gambar 5), didapatkan hasill pembuatan kurva kalibrasi 
+
+memberikan persamaan linier y = 0,7691x + 0,0609 dengan regresi sebesar 0,9798 mM. 
+
+ 
+
+ 
+
+Penentuan kelinieran ini menggunakan larutan analit glukosa dalam NaOH dengan variasi 
+
+konsentrasi glukosa yang dimulai dari konsentrasi 0 – 1 mM dalam NaOH 0,1 M. Selain 
+
+mengetahui nilai liniearitas, dalam penelitian ini juga diketahui nilai kepekaan atau 
+
+sensitivitas. Nilai kepekaan dalam penelitian ini yaitu 0,7691 µA/mM dan batas deteksi 
+
+yang dihasilkan dari material SiO2-CuO (B) sebesar 0,1607 mM. 
+
+Gambar 5. Amperogram dan Grafik Kurva Baku Material SiO2-CuO. 
+
+ 
+
+ 
+
+KESIMPULAN 
+
+Berdasarkan hasil penelitian yang telah dilakukan, dapat ditarik kesimpulan bahwa 
+
+materialyang dapat digunakan untuk mendeteksi glukosa yaitu material SiO2-CuO(B). Nilai 
+
+kepekaan dan batas deteksi yang dihasilkan dari material SiO2-CuO (B) yaitu sebesar 
+
+0,7691 µA/mM dan 0,1607 mM. 
+
+ 

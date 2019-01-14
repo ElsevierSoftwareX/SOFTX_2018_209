@@ -1,0 +1,336 @@
+﻿Morfometrik Pertumbuhan Rahang Bawah
+terkait Aktivitas Mandibula dan Umur pada Anakan Domba Merino
+Jantan Pascalahir
+
+ABSTRAK
+Penelitian ini bertujuan untuk membuktikan pola pertumbuhan rahang bawah (mandibula) domba
+merino jantan pada enam bulan pertama pascalahir tidak linier mengikuti pertambahan umur karena
+aktivitas feeding dipengaruhi olehnya. Model pendugaan MARS (Multivariate Adaptive Regression
+Splines) digunakan untuk pembuktian pola tersebut. Lima belas ekor anakan domba merino pascalahir
+diukur panjang dan lebar rahang bawah setiap selang satu bulan selama enam bulan. Data total
+panjang dan lebar mandibula (cm) ditabulasi dan diolah dengan piranti MARS for Windows versi 2.0.
+Hasil analisis model MARS untuk hubungan umur terhadap panjang mandibula adalah Y = 13,022 +
+0,933 * BF2 {BF2 = max (0, umur – 4,000)}; {(BF =3, MI =1, M0 = 0, GCV = 3,148, R2 = 0,984)}, sedangkan
+untuk lebarnya adalah Y = 4,940 + 0,382 * BF1 + 0,368 * BF2 {BF1= max (0, umur - 4,000) dan BF2 = max
+(0, 4,00 - umur)} ; {MI = 1, M0 = 0, GCV = 0,532 dan R2 = 0,984)}. Hasil ini menunjukkan pertambahan
+ukuran panjang ataupun lebar rahang bawah berjalan linier dengan umur setelah anak domba merino
+mencapai umur empat bulan, sedangkan ini masih di bawah umur empat bulan, hubungan tersebut
+tidak linier, bahkan pada rentang umur satu menuju empat bulan lebar mandibula justru menampakkan
+penyusutan. Pengamatan ini menyimpulkan bahwa, pola pertumbuhan bagian rahang bawah tidak
+berjalan linier dengan umur sebagai implikasi dari fungsi mandibula saat menyusu dan memamah-biak
+di awal pertumbuhan anakan domba merino.
+Kata Kunci: rahang bawah, morfometrik mandibula, domba merino
+
+PENDAHULUAN
+Domba merino masuk ke Indonesia pada awal
+abad ke 19. Perkembangan domba jenis ini kurang
+pesat untuk wilayah tropis seperti di Indonesia, namun
+mengingat potensinya sebagai produsen bulu,
+maka budidaya domba merino memiliki peluang untuk
+dikembangkan. Penggalian pengetahuan dasar
+tetap diperlukan sebagai fundamen pengembangan
+ternak domba merino dikemudian hari. Upaya
+yang dilakukan adalah meneliti pola pertumbuhan
+rahang bawah sebagai bagian dari kepala hewan
+yang meregulasi aktivitas menyusu dan ruminasi
+pascalahir (Tiesnamurti & Subandriyo, 2005).
+Pertumbuhan ternak di awal kehidupan merupakan
+langkah penting untuk menghasilkan kinerja
+optimal di kemudian hari. Pertumbuhan dimanifestasikan
+oleh perubahan anatomi tubuh, menyangkut
+morfometri berupa ukuran panjang, lebar, volume
+maupun massa tubuh. Pertumbuhan bagian
+tubuh ditentukan oleh faktor genetik, disamping
+juga faktor lingkungan (Priyanto & Subandriyo,
+2011).
+Salah satu pemeran proses kelangsungan hidup
+adalah sistem pencernaan yang dimulai dari rongga
+mulut sebagai penerima makanan. Secara anatomi
+tampak luar rongga mulut diwakili oleh dagu
+dan rahang bawah, dengan struktur pendukung
+berupa tulang rahang bawah (os mandibula), otot
+pemamah biak (musculus mastikasi) dan gigi geraham
+(Goldfinger, 2002).
+Seekor anak domba merino mulai lahir hingga
+hari ke empat akan menyusui kolostrum induknya.
+Mulai awal minggu pertama hingga umur empat
+bulan, domba muda diprogram untuk menghisap
+susu/susu tambahan. Seusai lepas sapih anakan
+domba diberi pakan hijauan dengan tambahan konsentrat
+sehingga bagian rahang mulai terlatih untuk
+memamah biak (Gunawan & Noor, 2007).
+Periode feeding sepanjang enam bulan awal
+kehidupan ini memberi implikasi pada morfometri
+mandibula anakan domba merino sehingga pertumbuhan
+rahang bawah tidak berjalan linier bersama
+dengan bertambahnya umur. Analisis statistik yang
+digunakan untuk pendekatan pembuktian implikasi
+tersebut adalah dengan model pendugaan MARS
+yang memiliki tingkat akurasi tinggi (Yensy, 2007).
+BAHAN DAN METODE
+Hewan Coba
+Hewan model berupa lima belas ekor anakan
+domba Merino jantan, dipilih sejak berumur satu
+bulan dengan bobot antara 11,0 hingga 12,0 kg.
+Domba dipelihara dan dikelola pakan maupun lingkungannya
+dengan kondisi yang sama pada peternakan
+di daerah Wonosalam, Kabupaten Jombang,
+Jawa Timur. Pasokan nutrisi, sejak umur seminggu
+hingga empat bulan, diberikan berupa susu induk
+dan air susu tambahan, lalu setelah umur empat
+bulan dilanjutkan dengan pakan hijauan dan tambahan
+konsentrat.
+Teknik pengukuran morfometrik selama enam
+bulan tersebut dilakukan pengukuran terhadap
+panjang dan lebar rahang bawah setiap bulan terhadap
+setiap ekor domba. Pengukuran panjang
+mandibula dimulai dari titik terdepan dagu hingga
+ke titik sudut mandibula. Ukuran lebar mandibula
+diperoleh dengan mengukur jarak antara sudut
+mandibula kanan dan mandibula kiri (Gambar
+1). Teknik ukur lebar mandibula ini mengikuti kaidah
+gonion yakni mengukur jarak dari titik paling
+bawah-posterior pada sudut yang terbentuk oleh
+ramus mandibulae (Glinka, 1990). Alat ukur yang
+digunakan berupa pita ukur dengan satuan centimeter
+(cm).
+Gambar 1 (A) (tanda:garis), adalah jarak ukur
+panjang rahang bawah
+(B) (tanda:garis), adalah jarak ukur lebar
+rahang bawah
+Analisis Data
+Teknik analisis MARS (Multivariate Adaptive
+Regression Splines) merupakan metode estimasi
+alternatif yang dapat meningkatkan ketepatan
+pendugaan. Pada penelitian ini metode MARS
+diterapkan untuk menilai model hubungan, sehingga
+rumus permodelan yang dihasilkan dapat
+mengungkapkan pertambahan ukuran rahang
+bawah (panjang atau lebar) sebagai variabel yang
+diprediksi berjalan linier ataukah tidak terhadap
+peubah deret umur (sepanjang umur satu hingga
+enam bulan).
+
+Data pengukuran panjang dan lebar rahang
+bawah anak domba Merino setiap bulan selama
+enam bulan dianalisis dengan metode MARS
+dengan menampilkan gambar projeksi dan model
+hubungan antara ukuran mandibula dengan deret
+umur. Hasil model estimasi MARS berupa rumus:
+Y=B0+B1*BF1 +B2*BF2+... Bk*BFk dimana Y = ukuran
+mandibula; B0 = konstanta; B1,..,..,Bk = koefisien
+basis fungsi spline; BF1,..,…BFk = basis fungsi ke
+1,2,..,.., ke-k. Kriteria model pendugaan ditetapkan
+berdasarkan besaran basis fungsi (BF) maximum;
+maksimal interaksi (MI); minimal pengamatan
+(M0); nilai GVC (generalized cross validation; dipilih
+yang terkecil sedangkan angka R2 terkoreksi dipilih
+yang terbesar). Penghitungan dikerjakan dengan
+piranti MARS for Windows versi 2.0 (Yensy, 2007).
+Hasil model Mars diuji validitasnya dengan uji t
+berpasangan dengan tingkat kepercayaan 95%
+(p<0,05).
+HASIL
+Panjang Mandibula Estimasi MARS
+Model estimasi MARS dengan kriteria yang memenuhi
+untuk hubungan umur terhadap panjang
+mandibula adalah Y = 13,022 + 0,933* BF2 (BF2 =
+Max (0, umur – 4,00); MI = 1; M0 = 0; GVC = 3,148; R2
+= 0,984), dimana Y = panjang mandibula yang diduga,
+BF2 = max (0, umur – 4,00). Rumus ini berlaku
+untuk domba merino setelah umur di atas 4 bulan,
+yang ditunjukkan dengan nilai tidak berbeda nyata
+dengan ukuran sesungguhnya (t0,05,44 = 0,647; p =
+0,521). Ukuran estimasi madibula dapat dilihat pada
+Tabel 1 dan hasil model hubungan umur terhadap
+panjang mandibula disajikan melalui Gambar 2.
+Umur (bulan)
+Panjang Mandibula (cm)
+Hasil validasi
+Ukuran riil Ukuran estimasi MARS*)
+1 12,27 ± 1,75 10,22 Berbeda nyata
+2 13,67 ± 1,34 11,16 Berbeda nyata
+3 13,67 ± 1,34 12,09 Berbeda nyata
+4 12,33 ± 1,45 13,02 Tidak berbeda nyata
+5 14,27 ± 1,87 13,95 Tidak berbeda nyata
+6 14,73 ± 2,12 14,89 Tidak berbeda nyata
+a
+b
+BF2
+Gambar 2 Model hubungan antara umur (bulan)
+terhadap rataan panjang mandibula
+(cm) domba merino jantan pada awal
+pertumbuhan, (projeksi garis a) berdasarkan
+ukuran mandibula sebenarnya,
+(projeksi garis b) berdasarkan ukuran
+permodelan MARS; Tanda panah
+dan BF2 menandai garis a dan b yang
+tidak berbeda nyata (p>0,05).
+Lebar Mandibula
+Model estimasi MARS dengan kriteria yang
+memenuhi untuk hubungan umur terhadap lebar
+mandibula adalah Y = 4,940 + 0,382 * BF1 + 0,368 *
+BF2. (BF1= max (0,umur - 4,000) dan BF2 = max (0,
+4.00 - umur); MI = 1, M0 = 0, GCV = 0,532 dan R2
+= 0,984). Fungsi yang pertama (BF1) menunjukkan
+model berlaku untuk peningkatan lebar mandibula
+anak domba setelah berumur empat bulan (t0,05, 59
+= - 0,110, p = 0,913), sedangkan fungsi kedua (BF2);
+model berlaku untuk penurunan lebar mandibula
+ketika umur anak domba di bawah empat bulan
+(t0,05, 59 = 0,088, p = 0,930). Ukuran estimasi MARS
+untuk lebar mandibula dapat dilihat pada Tabel 2,
+sedangkan hasil model hubungan umur terhadap
+lebar mandibula disajikan melalui Gambar 3.
+Tabel 1 Panjang mandibula anakan domba merino jantan (rataan ± SD) hasil ukuran riil dan hasil ukuran
+estimasi MARS.
+
+Gambar 3 Model hubungan antara umur (bulan)
+terhadap rataan lebar mandibula (cm)
+domba merino jantan pada awal pertumbuhan.
+(Projeksi garis a) berdasarkan
+ukuran mandibula sebenarnya;
+(Projeksi garis b) berdasarkan ukuran
+permodelan MARS. Tanda panah dan
+BF1/BF2 menandai garis a & garis b yang
+tidak berbeda nyata (p>0,05).
+PEMBAHASAN
+Pemodelan MARS pada prinsipnya memiliki derajat
+ketepatan yang tinggi untuk melakukan estimasi.
+Hasil telaah pemodelan peramalan panjang
+dan lebar rahang bawah berdasarkan pertambahan
+umur anakan domba merino umur satu hingga
+enam bulan menunjukkan pertambahan ukuran
+panjang ataupun lebar rahang bawah akan berjalan
+linier dengan pertambahan umur setelah domba
+merino mencapai umur empat bulan dan berlangsung
+terus hingga domba berumur enam bulan
+pada penelitian ini. Sementara itu, saat umur anak
+domba masih di bawah empat bulan, pertambahan
+panjang rahang bawah ini tidak berlangsung linier,
+bahkan terungkap ukuran lebar mandibula menampakkan
+kecenderungan menyusut saat umur domba
+antara satu sampai empat bulan.
+
+Pola ini memperkuat dugaan bahwa sejumlah
+faktor ikut berperan membentuk perubahan
+anatomis bagian rahang bawah. Faktor tersebut
+diantaranya nutrisi, sinar matahari, sekresi hormonal
+dan olah fisik. Olah fisik bagian rahang bawah
+akan melibatkan os mandibulae sebagai tulang
+pendukungnya. Peregangan terhadap tulang akan
+menstimulasi proses kalsifikasi dan deposisi osteoblastik
+pada tulang, termasuk daya kontraksi otot
+yang bertaut padanya. Tulang mandibula berkembang
+alamiah bersamaan dengan aktivitas hewan
+saat memenuhi tuntutan kehidupan, seperti menyusu
+pada anak domba pascalahir dan mulai berlatih
+memamah biak setelah disapih (Langvatn et
+al., 2004).
+Pola pemberian pakan pada anakan domba merino
+mengikuti urutan standar yakni pada umur
+satu hingga empat hari diberi susu kolostrum induknya.
+Selanjutnya mulai umur seminggu anak
+domba diberi susu pengganti hingga usia empat
+bulan. Setelah empat bulan anak domba disapih
+dan sepenuhnya diberi pakan hijauan dan konsentrat
+(Gunawan & Noor, 2007).
+Tulang pipih diantaranya cranium dan mandibula,
+berkembang melalui proses ossifikasi intramembraneous.
+Materi dasarnya adalah fibril kolagen
+dan jaringan ikat mesenkim yang relatif lunak.
+Mesenkim berproliferasi menjadi osteoblas membangun
+area pusat penulangan. Osteoblas akan
+memproduksi matriks tulang (osteoid). Matrik tulang
+yang disekresi akan mengurung osteoblas untuk
+membentuk osteosit sementara matrik tulang
+yang lebih tua akan mengalami kalsifikasi. Pada
+bulan pertama pasca lahir, matrik tulang dan fibril
+kolagen yang lunak masih mendominasi tenunan tulang.
+Sejalan dengan waktu anak domba mendapat
+air susu yang kaya mineral kalsium, maka matriks
+yang diproduksi tenunan tulang akan mengalami kalsifikasi. Osteoblas makin bertambah jumlahnya
+dan makin meluas, walaupun tetap terkonsentrasi
+di periosteum, sementara tenunan tulang yang paling
+dalam dibiarkan berongga (trabekula). Matriks
+tulang yang terakumulasi di periosteum bersama
+barisan osteoblas adalah lapisan yang membangun
+kekerasan dan kekompakan tulang pipih mandibula
+ini (Gilbert, 2000).
+Teori dasar di atas menjelaskan bahwa massa
+tulang pascalahir belum mengalami kalisifikasi sempurna,
+karena didominasi oleh fibril kolagen dan
+matrik tulang yang relatif cair dan lunak. Struktur
+massa tulang os mandibula yang lunak ini mempengaruhi
+ukuran lebar rahang bawah domba pada
+bulan pertama pasca lahir, sekalipun melebar namun
+masih lunak.
+Sejalan dengan waktu antara umur satu sampai
+empat bulan, ukuran rahang terlihat menyusut.
+Diduga kuat, hal ini merupakan implikasi dari pertumbuhan
+tenunan tulang os mandibula, walaupun
+osteoblas banyak terbentuk namun susunannya
+terbatas di periosteum, sedangkan matriks
+dan fibril kolagen di sekitarnya yang semula lunak,
+kini membangun struktur tulang makin keras dan
+kompak oleh asupan kalsium dari air susu. Aktivitas
+menyusu induk atau menghisap botol susu semasa
+tersebut melibatkan kontraksi otot dinding pipi
+(m. buccinator) dan otot lidah (m. stylohyoideus,
+geniohyoideus, mylohyoideus dan thyrohyoid). Pada
+periode ini belum terjadi peregangan otot di posisi
+rahang, sehingga os mandibula dan sendi rahang
+hanya bekerja pasif (Thexton, 2012).
+Selepas sapih domba merino memasuki umur
+empat bulan. Ternak ini diberi pakan berupa hijauan
+dan konsentrat. Kegiatan ruminasi oleh rahang
+bawah mulai diaktifkan. Os mandibula sebagai
+tautan tendo otot mastikasi (m. pterygoideus
+dan m. masseter) mulai berkontraksi. Demikian pula
+articulatio temporamandibulare serta gigi geraham
+yang tumbuh di tulang rahang bergerak aktif menggiling
+hijauan (Langvatn et al., 2004; Priyanto &
+Subandriyo, 2011).
+Langvatn et al. (2004) mengamati morfometrik
+proporsi relatif panjang mandibula yang diukur
+pada periode fetus hingga rusa merah mencapai
+umur 5 tahun menunjukkan kecenderungan adanya
+penurunan dan ini sangat ditentukan oleh faktor
+asupan nutrisi dan aktivitas merumput.
+Daniel et al. (2003) membuktikan bahwa struktur
+tulang memiliki kemampuan adaptasi yang
+cukup besar terhadap tekanan mekanis yang kontinyu.
+Adaptasi ini secara histomorfometrik ditunjukkan
+oleh domba umur 3 bulan yang dipacu jalan di
+tempat selama 60 menit per hari, selama 90 hari.
+Akibatnya terjadi penambahan massa tulang pada
+sisi permukaan tulang yang dibebani aktivitas fisik.
+Secara histologik, terlihat pertambahan luas permukaan
+distal dan jumlah sistem haversi pada os
+metacarpal. Jika dibandingkan dengan domba kontrol
+penambahannya mencapai 21,3% dan 107%.
+Analisis hasil pengamatan pada domba merino
+ini memperlihatkan bahwa morfometri bagian rahang
+bawah mempunyai pola pertumbuhan beradaptasi
+terhadap pola pemberian pakan. Kecenderungan
+penyusutan ukuran lebar berlangsung
+saat hewan masih menyusu dan minum susu, kemudian
+pertambahan panjang dan lebar rahang
+bawah meningkat perlahan setelah periode ruminasi
+yang dimulai umur 4 bulan.
+Berdasarkan telaah peneliti lain, dilaporkan
+bahwa kecepatan pertambahan panjang mandibula
+yang tidak linier dengan umur juga diperlihatkan oleh
+kelinci, tikus dan mencit (Zoetis et al., 2003). Pada
+babi, perbedaan ukuran mandibula terkait dengan
+umur lebih disebabkan oleh pertumbuhan gigi.
+Tetapi ukuran mandibula dapat juga dipengaruhi
+faktor lokasi pemeliharaan dengan kata lain faktor
+ekologi dan perilaku dapat mempengaruhi ukuran
+panjang mandibula (Olopade & Okandeji, 2010).
+Kesimpulan dari hasil penelitian yang dilakukan
+terhadap anak domba merino ini menunjukkan bahwa
+aktivitas menyusui sebelum usia empat bulan
+dan memamah biak hijauan pascasapih merupakan
+salah satu faktor berpengaruh selain umur terhadap
+pola pertumbuhan rahang bawah (mandibula).

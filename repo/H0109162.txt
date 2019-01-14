@@ -1,0 +1,582 @@
+﻿ANALISIS EFEKTIVITAS PRODUKSI OBAT KAPLET FLOXAD DAN
+SIRUP LAFIDRIL : STUDI KASUS DI LEMBAGA FARMASI DIREKTORAT
+KESEHATAN ANGKATAN DARAT BANDUNG
+
+ABSTRAK
+Lembaga Farmasi Direktorat Kesehatan Angkatan Darat (Lafi Ditkesad) selalu melakukan perbaikan yang secara terus menerus
+di segala aspek, tidak hanya fokus pada kualitas produk yang dihasilkan, tetapi juga harus dapat mengatur biaya produksi yang harus
+dikeluarkannya. Oleh sebab itu, Lafi Ditkesad harus dapat mengalokasikan faktor-faktor produksi yang dimilikinya secara tepat dan
+efektif agar tidak terjadi pemborosan penggunaan faktor-faktor produksi yang akan merugikan Lafi ditkesad. Tujuan penelitian ini
+adalah untuk mengetahui pengaruh faktor produksi tenaga kerja dan mesin terhadap hasil produksi obat kaplet Floxad dan sirup
+Lafidril di Lafi Ditkesad dan mengetahui tingkat efektivitas penggunaan input di Lafi Ditkesad.
+Teknik pengumpulan data berdasarkan studi dokumentasi dari Lafi Ditkesad. Pendekatan penelitian deskriptif kuantitatif dan
+bersifat penelitian eksplanatory yang didukung oleh metode survei. Pada penelitian ini dilakukan analisis regresi linier berganda yang
+dimodifikasi dari model fungsi produksi Cobb-Douglas dengan alat bantu perangkat lunak SPSS. Pengaruh variabel bebas terhadap
+variabel terikat dilakukan dengan uji F dan uji t dengan α = 0,05.
+Hasil penelitian menunjukkan bahwa secara bersama-sama faktor produksi tenaga kerja (probabilitas = 0,03) dan mesin
+(probabilitas = 0,00) berpengaruh signifikan terhadap produksi obat sirup Lafidril, sedangkan untuk obat kaplet Floxad, faktor produksi
+tanaga kerja (probabilitas = 0,00) berpengaruh signifikan terhadap hasil produksi, akan tetapi faktor produksi mesin (probabilitas =
+0,09) berpengaruh tidak signifikan terhadap hasil produksi. Efektivitas produksi obat kaplet Floxad lebih baik dari proses produksi
+obat sirup Lafidril dilihat dari indeks efektivitas masing-masing fungsi produksi dimana indeks efektivitas proses produksi obat kaplet
+Floxad sebesar 57641,61 sedangkan untuk obat sirup Lafidril sebesar 4755,23.
+Kata Kunci: Cobb-Douglas, efektivitas, tenaga kerja, mesin
+
+PENDAHULUAN
+Indonesia merupakan salah satu negara
+berkembang yang sedang berupaya dalam
+memajukan kesejahteraan masyarakat melalui
+pembangunan yang menyeluruh, terarah,
+dan terpadu. Tiga pilar tujuan pembangunan
+nasional tersebut meliputi pemerataan dalam
+bidang ekonomi, pendidikan, dan kesehatan.
+Pembangunan nasional tidak dapat dipisahkan
+dari pembangunan kesehatan. Hal ini
+dikarenakan semua aspek kehidupan manusia
+ditunjang oleh kesehatan. Jumlah penduduk dan perhatian masyarakat terhadap masalah
+kesehatan yang semakin meningkat mendorong
+industri farmasi untuk meningkatkan pelayanan
+kesehatan dengan cara memenuhi kebutuhan
+masyarakat akan konsumsi obat-obatan
+(Suliantoro, dkk., 2006). Sebagaimana dinyatakan
+dalam Undang-Undang Republik Indonesia
+Nomor 36 Tahun 2009 tentang kesehatan, obat
+yang dihasilkan suatu industri farmasi harus
+memenuhi persyaratan khasiat, keamanan, dan
+mutu, agar tujuan terapi yang diinginkan dapat
+tercapai. Oleh karena itu, industri farmasi dalam
+memproduksi obat-obatan harus mengikuti
+standar Cara Pembuatan Obat yang Baik (CPOB)
+yang telah ditetapkan Badan POM.
+Salah satu industri farmasi Indonesia
+yang memiliki sertifikat CPOB adalah Lembaga
+Farmasi Direktorat Kesehatan Angkatan Darat
+(Lafi Ditkesad). Lafi Ditkesad merupakan badan
+pelaksana yang berkedudukan langsung di bawah
+Direktorat Kesehatan Angkatan Darat (Ditkesad)
+yang dipimpin oleh Direktur Kesehatan Angkatan
+Darat (Dirkesad). Lafi Ditkesad berperan
+menciptakan kemandirian dalam hal pengadaan
+obat dengan mutu, khasiat, serta keamanan yang
+terjamin untuk digunakan oleh prajurit, PNS TNI
+AD, dan keluarganya (Dirkesad, 2007).
+Lafi Ditkesad selalu melakukan perbaikan
+secara berkesinambungan di segala aspek,
+tidak hanya fokus pada kualitas produk yang
+dihasilkan, tetapi juga harus dapat mengatur
+biaya produksi yang dikeluarkannya. Dua
+faktor utama yang mempengaruhi efektivitas
+produksi obat adalah tenaga kerja dan mesin.
+Penelitian yang berkaitan dengan faktor tenaga
+kerja dan mesin belum pernah dilakukan di Lafi
+Ditkesad. Beberapa kriteria dapat digunakan
+sebagai parameter penentu efektivitas, antara
+lain kegunaan, ketepatan dan objektivitas, ruang
+lingkup efektivitas biaya, serta ketepatan waktu
+(Gunawan, 2003). Informasi mengenai tingkat
+keefektifan proses produksi sangat penting
+diketahui suatu industri farmasi, agar industri
+tersebut dapat mengalokasikan faktor-faktor
+produksi yang jumlahnya terbatas dengan tepat
+dan efektif.
+Berdasarkan hal tersebut, mendorong
+penulis untuk melakukan penelitian mengenai
+analisis efektivitas produksi obat kaplet Floxad
+dan sirup Lafidril di Lembaga Farmasi Ditkesad.
+Penelitian ini bertujuan untuk mengetahui
+pengaruh input terhadap output obat kaplet
+Floxad dan sirup Lafidril dan mengetahui tingkat
+efektivitas penggunaan input (jam kerja tenaga
+kerja dan mesin) terhadap output obat kaplet
+Floxad dan sirup Lafidril di Lafi Ditkesad.
+METODE
+Penelitian ini menggunakan rancangan
+penelitian non eksperimental yang bersifat
+explanatory research. Obyek yang diteliti adalah
+obat kaplet Floxad dan sirup Lafidril yang
+diproduksi oleh Lafi Ditkesad. Pengambilan data
+secara retrospektif dari catatan produksi obat
+kaplet Floxad tahun 2010, 2011, dan 2013 dan
+catatan produksi obat sirup Lafidril tahun 2012.
+Data yang diperoleh dianalisis secara deskriptif
+kuantitatif, dengan SPSS.
+Penelitian ini menggunakan metode OLS
+(Ordinary Least Square) dalam analisis regresi
+linier untuk menganalisis variabel-variabel yang
+mempunyai pengaruh terhadap produksi. Metode
+pengumpulan datanya meliputi wawancara
+langsung peneliti dengan kepala produksi dan
+operator yang memproduksi obat kaplet Floxad
+dan sirup Lafidril dan studi dokumentasi dari
+catatan produksi tahunan obat kaplet Floxad
+tahun 2010, 2011, dan 2013 dan sirup Lafidril
+tahun 2012 yang diperoleh dari Lafi Ditkesad.
+Data yang diambil dari catatan produksi tahunan
+meliputi jumlah output obat kaplet Floxad dan
+sirup Lafidril yang dihasilkan, jumlah tenaga
+kerja dan jam kerja tenaga kerja operasional yang
+terlibat langsung dalam produksi obat kaplet
+Floxad dan sirup Lafidril, dan lamanya mesin
+beroperasi untuk memproduksi obat kaplet
+Floxad dan sirup Lafidril (jam). Variabel terikat
+dalam penelitian ini adalah jumlah produksi obat
+atau output (Y), sedangkan variabel bebasnya
+adalah jam kerja tenaga kerja (X1) dan jam kerja
+mesin (X2).
+Proses analisa data meliputi beberapa
+tahap, dimulai dengan pra analisis yaitu menguji
+normalitas data. Dilanjutkan penentuan bentuk
+fungsi dari model yang akan diestimasi, yaitu
+model fungsi produksi Cobb-Douglas. Model
+matematis fungsi produksi Cobb-Douglas
+untuk industri farmasi dalam penelitian ini
+dapat ditulis sebagai berikut : LnY= β0 + β1LnX1
++ β2LnX2 + e, dimana : Y adalah banyaknya obat kaplet Floxad yang diproduksi pada tahun 2010,
+2011, 2013 dan sirup Lafidril yang diproduksi
+pada tahun 2012, yang dihitung dalam satuan
+tablet (obat kaplet Floxad) atau botol (obat sirup
+Lafidril), X1 adalah total jam kerja tenaga kerja
+operasional yang terlibat langsung secara teknis
+dalam proses produksi obat kaplet Floxad yang
+diproduksi pada tahun 2010, 2011, 2013 dan
+sirup Lafidril yang diproduksi pada tahun 2012,
+yang dihitung dalam satuan waktu (jam). Total
+jam kerja tenaga kerja diperoleh dari hasil kali
+antara jumlah tenaga kerja dengan jam kerja per
+orang, X2 adalah total jam kerja seluruh mesin
+yang digunakan untuk memproduksi obat
+kaplet Floxad yang diproduksi pada tahun 2010,
+2011, 2013 dan sirup Lafidril yang diproduksi
+pada tahun 2012, yang dihitung dalam satuan
+waktu (jam), β0 adalah koefisien intersept, β1
+dan β2 adalah koefisien regresi faktor produksi,
+e adalah kesalahan pengganggu. Data mengenai
+jam kerja dihitung dari tahapan awal, yaitu
+penimbangan hingga pengemasan. Selanjutnya,
+dilakukan uji asumsi klasik yang meliputi uji
+Heteroskedastisitas dan uji Multikolinieritas dan
+disusul dengan uji-uji statistik, antara lain uji R2,
+uji F, dan uji t. Penelitian ini juga menguji tingkat
+skala hasil (Return to Scale) dan menganalisis
+tingkat efektivitas produksi obat kaplet Floxad
+dan sirup Lafidril di Lafi Ditkesad.
+HASIL DAN PEMBAHASAN
+Gambaran Umum
+Sebuah organisasi baik profit maupun non
+profit harus memiliki daya saing agar mampu
+berkompetisi di dalam suatu industri. Sebuah
+organisasi dituntut harus memiliki misi yang
+jelas (Drucker, 1993 cit. Yuningsih dan Hayati,
+2008), serta mampu bertahan dengan perubahan
+lingkungannya (Armitage, 1992 cit. Yuningsih
+dan Hayati, 2008).
+Lafi Ditkesad merupakan salah satu industri
+farmasi Indonesia nonprofit yang memproduksi
+obat tidak untuk diperdagangkan secara umum
+melainkan hanya untuk memenuhi kebutuhan
+obat-obatan yang dibutuhkan oleh prajurit,
+PNS TNI-AD, dan keluarganya (Dirkesad,
+2007). Meskipun hanya diperuntukkan untuk
+kalangannya sendiri, proses produksinya tetap
+dilaksanakan sesuai dengan pedoman CPOB
+terkini. Kegiatan Produksi obat Lafi Ditkesad
+dilaksanakan oleh Instalasi Produksi. Kegiatan
+produksinya hanya berlangsung satu shift (8 jam)
+pada hari kerja efektif. Produk yang dihasilkan
+berupa produk β laktam dan non β-laktam.
+Produk Lafi Ditkesad yang diteliti pada
+penelitian ini adalah obat kaplet Floxad dan
+sirup Lafidril. Kandungan utama obat kaplet
+Floxad adalah ciprofloxacin, sedangkan obat
+sirup Lafidril mengandung Diphenhydramini
+HCl, Dekstrometorphani HBr, Phenylephrini
+HCl, Ammonii Chloridum, dan Natrii Citras.
+Alasan dipilihnya produk Floxad dan Lafidril
+adalah untuk mengetahui faktor produksi
+apakah diantara tenaga kerja dan mesin yang
+paling dominan mempengaruhi masing-masing
+output dan untuk mengetahui besarnya tingkat
+efektivitas penggunaan faktor produksi tenaga
+kerja dan mesin dari obat yang berbeda bentuk
+sediaannya. Kedua obat ini juga merupakan
+obat yang tingkat permintaannya tinggi di Lafi
+Ditkesad, sehingga kedua obat ini diproduksi
+oleh dalam jumlah batch yang relatif lebih banyak
+dibandingkan jenis obat Lafi Ditkesad lainnya.
+Penelitian ini membahas mengenai tingkat
+keefektifan produksi. Pengukuran efektivitas
+memiliki banyak model pendekatan, antara lain
+pencapaian tujuan, produktivitas, kemampuan
+adaptasi lingkungan atau fleksibilitas, efisiensi,
+dan lain-lain (Abidin, 2002). Informasi mengenai
+keefektifan sangat penting bagi suatu unit usaha
+untuk mengambil keputusan yang berkaitan
+dengan kelangsungan usahanya. Menurut Patil
+dan Prakash (2011), Faktor yang mempengaruhi
+produktivitas diklasifikasikan menjadi dua
+kategori : (1) Faktor eksternal termasuk
+infrastruktur, ketersediaan dana, tenaga, air,
+sarana transportasi dan komunikasi, bahan
+baku dan bahan kemasan, kebijakan otoritas dan
+kondisi sosial dan ekonomi. (2) Faktor internal,
+dibagi menjadi : (a) Faktor statis, yaitu susah untuk
+diubah, yang meliputi peralatan, bahan baku dan
+kemasan, energi, produk, teknologi, dan lainlain.
+(b) Faktor Dinamis, termasuk tenaga kerja,
+praktek manajemen, metode kerja, sistem, Standar
+Operational Procedure (SOP), struktur organisasi
+dan budaya kerja.
+
+
+tenaga kerja yang terlibat langsung secara teknis
+dalam proses produksi kedua obat tersebut,
+jam kerja mesin yang digunakan, dan jumlah
+produksi kedua obat tersebut setiap betsnya.
+Seluruh data tersebut diambil dari tahapan awal proses produksi, yaitu penimbangan hingga
+pengemasan dari obat yang diteliti. Berikut
+data jam kerja tenaga kerja dan jam kerja mesin
+produksi obat kaplet Floxad tahun 2010, 2011,
+dan 2013 dan sirup Lafidril tahun 2012 setiap bets nya yang telah diolah ke bentuk logaritma
+natural, dapat dilihat pada tabel I dan II.
+Pra Analisis
+Tahap pra analisis dilakukan untuk
+menguji kualitas data yang digunakan melalui uji
+normalitas data. Hasil pengujian normalitas data
+(Tabel III) menunjukkan bahwa semua data yang
+digunakan dalam penelitian ini berdistribusi
+normal karena nilai signifikansi yang diperoleh
+dari kedua obat tersebut lebih dari 0,05.
+Analisis Uji Asumsi Klasik
+Tujuan uji asumsi klasik dilakukan untuk
+menguji apakah model regresi linier berganda dari
+fungsi produksi Cobb-Douglas dengan metode
+OLS telah memenuhi asumsi-asumsi yang harus
+dipenuhinya. Regresi terpenuhi apabila penaksir
+kuadrat terkecil biasa (Ordinary Least Square)
+dari koefisien regresi adalah linear, tidak bias,
+dan memiliki varians minimum atau yang biasa
+disebut BLUE (Best Linier Unbiased Estimator).
+Uji asumsi klasik pada penelitian ini adalah uji
+Heteroskedastisitas dan uji Multikolinieritas.
+Uji Asumsi klasik yang pertama
+dilakukan adalah uji Heteroskedastisitas. Uji
+ini dilakukan untuk melihat apakah di dalam
+model regresi terjadi ketidaksamaan varians
+dari residual satu pengamatan ke pengamatan
+yang lain. Hasil scatterplot menunjukkan titiktitik
+tidak membentuk pola yang jelas (titik-titik
+menyebar di atas dan di bawah angka 0 pada sumbu Y), ini menandakan bahwa tidak terjadi
+heteroskedastisitas dalam model regresi baik
+pada obat sirup Lafidril maupun obat kaplet
+Floxad.
+Uji asumsi klasik selanjutnya adalah uji
+multikolinieritas. Uji ini untuk menguji apakah
+dalam model regresi ditemukan adanya korelasi
+antar variabel bebas. Tabel IV dan V menunjukkan
+hasil uji multikolinieritas obat sirup Lafidril dan
+obat kaplet Floxad memiliki nilai VIF kurang dari
+10 dan nilai Toleransi lebih dari 0,1. Hasil tersebut
+menjelaskan bahwa tidak terjadi multikolinieritas
+dalam masing-masing variabel bebas obat sirup
+Lafidril dan kaplet Floxad.
+
+Tabel III. Hasil Uji Normalitas Data Obat Sirup Lafidril Tahun 2012
+dan Obat Kaplet Floxad Tahun 2010, 2011, dan 2013 dengan Menggunakan Metode Kolmogorov-Smirnov
+Nama Obat
+Nilai Signifikansi Jam Kerja
+Tenaga kerja
+Nilai Signifikansi Jam
+Kerja Mesin
+Kesimpulan
+Sirup Lafidril 0,078 0,525 Normal
+Kaplet Floxad 0,641 0,236 Normal
+Tabel IV. Pengujian Multikolinieritas Antara Variabel Jam Kerja Tenaga Kerja dan Jam Kerja Mesin
+Pada Obat Sirup Lafidril Tahun 2012
+Variabel Nilai Toleransi Nilai VIF Keterangan
+Jam Kerja Tenaga kerja 0,413 2.423 Bebas Multikolinieritas
+Jam Kerja Mesin 0,413 2.423 Bebas Multikolinieritas
+Tabel V. Pengujian Multikolinieritas Antara Variabel Jam Kerja Tenaga Kerja dan Jam Kerja Mesin
+Pada Obat Kaplet Floxad Tahun 2010, 2011, dan 2013
+Variabel Nilai Toleransi Nilai VIF Keterangan
+Jam Kerja Tenaga kerja 0,413 2,422 Bebas Multikolinieritas
+Jam Kerja Mesin 0,413 2,422 Bebas Multikolinieritas
+Tabel VI. Hasil Estimasi Model Fungsi Produksi Cobb-Douglas Obat Sirup Lafidril
+Pada Tahun 2012 di Lafi Ditkesad dengan Menggunakan Program SPSS
+Variabel Independen Koefisien Standar Error t Hitung Probabilitas
+a (intersept) 8,467 0,010 825,387 0,00
+ln JKTK 0,008 0,003 2,255 0,03
+ln JKM 0,054 0,004 12,741 0,00
+R2 0,918 F Hitung 256,183
+Adjusted R2 0,914 Prob. (F Hitung) 0,00
+Keterangan:
+JKTK = Jam Kerja Tenaga Kerja JKM = Jam Kerja Mesin
+Tabel VII. Hasil Estimasi Model Fungsi Produksi Cobb Douglas Obat Kaplet Floxad
+Pada Tahun 2010, 2011, dan 2013 di Lafi Ditkesad dengan Menggunakan Program SPSS
+Variabel Independen Koefisien Standar Error t Hitung Probabilitas
+a (intersept) 10,962 0,093 117,469 0,00
+ln JKTK 0,151 0,037 4,094 0,00
+ln JKM 0,047 0,027 1,775 0,09
+R2 0,766 F Hitung 37,606
+Adjusted R2 0,745 Prob. (F Hitung) 0,00
+Keterangan:
+JKTK = Jam Kerja Tenaga Kerja JKM = Jam Kerja Mesin
+
+Hasil Estimasi Model Fungsi Produksi Cobb
+Douglas
+Berdasarkan hasil uji asumsi klasik
+diketahui bahwa model regresi linier berganda
+dari fungsi produksi Cobb-Douglas layak
+digunakan sebagai estimator jumlah produksi
+obat. Fungsi produksi Cobb-Douglas dianalisis
+menggunakan regresi berganda dengan metode
+OLS (Ordinary Least Square) bertujuan untuk
+mengetahui kontribusi masing-masing faktor
+produksi secara simultan. Hasil pengolahan data
+dengan SPSS menghasilkan angka estimasi dari
+fungsi produksi Cobb-Douglas. Ringkasan hasil
+pengolahan dapat dilihat pada tabel VI dan VII.
+Berdasarkan Tabel VI dan VII dapat dibuat
+persamaan linier dari fungsi produksi Cobb-
+Douglas obat sirup Lafidril dan kaplet Floxad
+di Lafi Ditkesad. Bentuk persamaan linier dari
+fungsi produksi Cobb-Douglas obat sirup Lafidril
+dan kaplet Floxad yang diperoleh adalah sebagai
+berikut:
+Obat Sirup Lafidril : ln Q = 8,467 + 0,008 ln
+JKTK + 0,054 ln JKM………….....(1)
+Obat Kaplet Floxad : ln Q = 10,962+ 0,151
+ln JKTK + 0,047 ln JKM …...............(2)
+Sehingga dapat dibuat fungsi produksi
+Cobb-Douglas obat sirup Lafidril dan obat kaplet
+floxad di Lafi Ditkesad seperti berikut:
+Obat Sirup Lafidril : Q = ….....(3)
+Obat Kaplet Floxad : Q = ........(4)
+Keterangan:
+Q : Nilai jumlah produksi riil obat
+X1 : Jam kerja tenaga kerja (jam)
+X2 : Jam kerja mesin (jam)
+Faktor yang Mempengaruhi Jumlah Produksi
+dan Elastisitas Produksi
+Berdasarkan nilai koefisien regresi yang
+diperoleh (Tabel VI dan VII), disimpulkan adanya
+perbedaan faktor produksi yang paling dominan
+mempengaruhi jumlah produksi antara obat
+sirup Lafidril dan obat kaplet Floxad. Faktor
+produksi yang memberikan kontribusi terbesar
+terhadap jumlah produksi obat sirup Lafidril
+adalah jam kerja mesin (X2), sedangkan faktor
+produksi jam kerja mesin (X2) obat kaplet Floxad
+memberikan kontribusi terkecil terhadap jumlah
+produksi jika dibandingkan dengan jam kerja
+tenaga kerja. Hal ini disebabkan karena adanya
+perbedaan karakteristik dari obat yang diteliti.
+Semakin rumit proses pengolahannya, maka
+faktor produksi tenaga kerja akan lebih dominan
+mempengaruhi jumlah produksi obat yang
+dihasilkan. Hal ini sesuai dengan hasil analisis
+yang menyatakan bahwa faktor tenaga kerja lebih
+dominan pada produksi obat kaplet Floxad. Tanda
+positif pada nilai koefisien regresi, baik variabel
+jam kerja tenaga kerja dan jam kerja mesin kedua
+obat menandakan kedua faktor produksi tersebut
+berpengaruh positif terhadap jumlah produksi.
+Nilai koefisien regresi fungsi produksi
+Cobb-Douglas menunjukkan besarnya elastisitas
+tiap faktor produksi terhadap jumlah produksi
+obat yang dihasilkan (Rahayu dan Riptanti,
+2010). Nilai elastisitas obat sirup Lafidril yang
+diperoleh untuk penggunaan variabel jam kerja
+mesin adalah 0,054 dan variabel tenaga kerja
+adalah 0,008. Nilai elastisitas obat kaplet Floxad
+yang diperoleh untuk penggunaan variabel jam
+kerja mesin adalah 0,047 dan variabel tenaga
+kerja adalah 0,151. Berdasarkan hasil yang telah
+diuraikan di atas, terlihat bahwa nilai elastisitas
+masing-masing input baik pada obat sirup Lafidril
+maupun obat kaplet Floxad yang diperoleh
+kurang dari satu. Kondisi ini menunjukkan
+adanya penggunaan tenaga kerja dan mesin
+dalam memproduksi obat sirup Lafidril dan
+kaplet Floxad di Lafi Ditkesad masih belum
+efektif.
+Analisis Uji Statistik
+Hasil pengolahan uji koefisien determinasi
+(R2) yang diperoleh obat sirup Lafidril adalah
+0,918. Artinya, 91,80% jumlah produksi obat sirup
+Lafidril dapat dijelaskan oleh variabel jam kerja
+tenaga kerja dan jam kerja mesin yang digunakan
+dan sisanya 8,20% dijelaskan oleh variabel lain
+di luar model. Nilai koefisien determinasi (R2)
+yang diperoleh obat kaplet Floxad adalah 0,766.
+Artinya, 76,60% jumlah produksi obat kaplet
+Floxad dijelaskan oleh variabel jam kerja tenaga
+kerja dan jam kerja mesin yang digunakan dan
+sisanya 23,40% dijelaskan oleh variabel lain di
+luar model.
+Hasil uji F menunjukkan nilai FHitung
+obat sirup Lafidril adalah 256,183 dan nilai probabilitasnya adalah 0%, sedangkan nilai
+FHitung obat kaplet Floxad adalah 37,606 dan nilai
+probabilitasnya adalah 0%. Nilai FHitung lebih besar
+dari nilai FTabel (FTabel obat sirup Lafidril = 3,20, FTabel
+obat kaplet Floxad = 3,42 dengan α = 0,05), artinya
+secara bersama-sama (serempak) variabel jam
+kerja tenaga kerja dan jam kerja mesin obat sirup
+Lafidril dan obat kaplet Floxad berpengaruh
+signifikan terhadap perubahan masing-masing
+jumlah produksi.
+Hasil uji t menunjukkan nilai tHitung obat
+sirup Lafidril untuk variabel jam kerja tenaga
+kerja adalah 2,255 dan nilai probabilitasnya adalah
+2,90%, sedangkan tHitung untuk variabel jam kerja
+mesin adalah 12,741 dan nilai probabilitasnya
+adalah 0%. Nilai tHitung lebih besar dari nilai tTabel
+(tTabel = 1,679 dengan α = 0,05), artinya variabel jam
+kerja tenaga kerja dan jam kerja mesin merupakan
+faktor-faktor yang secara individu berpengaruh
+nyata secara signifikan terhadap jumlah produksi
+obat sirup Lafidril.
+Nilai tHitung obat kaplet Floxad untuk
+variabel jam kerja tenaga kerja adalah 4,094 dan
+nilai probabilitasnya adalah 0%, sedangkan tHitung
+untuk variabel jam kerja mesin adalah 1,775 dan
+nilai probabilitasnya sebesar 8,90%. Nilai tHitung
+lebih besar dari nilai tTabel (tTabel = 1,714 dengan
+α = 0,05), artinya, variabel jam kerja tenaga
+kerja berpengaruh signifikan terhadap jumlah
+produksi, sedangkan variabel jam kerja mesin juga
+berpengaruh terhadap jumlah produksi, tetapi
+karena nilai probabilitas dari variabel jam kerja
+mesin kaplet Floxad lebih besar dari 0,05 maka
+dikatakan variabel jam kerja mesin obat kaplet
+Floxad berpengaruh terhadap jumlah produksi
+akan tetapi nilainya tidak begitu signifikan.
+Hasil penelitian ini sesuai dengan pendapat
+Ruch, dkk. (1992) yang menyatakan bahwa
+produksi tidak akan dapat berjalan tanpa adanya
+manusia atau tenaga kerja. Menurut Friyatno
+dan Sumaryanto (1993), faktor produksi tenaga
+kerja bila dimanfaatkan secara optimal dengan
+faktor produksi yang lain, akan meningkatkan
+produksi secara maksimal. Setiap penggunaan
+tenaga kerja yang produktif hampir selalu
+dapat meningkatkan produksi (Fatma, 2011).
+Mesin juga sangat memegang peranan penting
+dalam proses pengolahan, karena tanpa adanya
+mesin, proses produksi tidak akan berjalan
+dengan efektif dan efisien serta target yang telah
+ditentukan akan sulit untuk dipenuhi (Daryanto,
+1996). Hasil penelitian ini juga sesuai dengan
+penelitian terdahulu yang dilakukan Herawati
+(2008) yang menyatakan bahwa tenaga kerja dan
+mesin berpengaruh terhadap output.
+Pengujian Tingkat Hasil (Return to Scale)
+Hasil perhitungan Return to Scale (Tabel
+VIII) menunjukkan nilai RTS yang diperoleh obat
+sirup Lafidril adalah 0,062, sedangkan obat kaplet
+Floxad adalah 0,198, karena nilai RTS kedua obat
+kurang dari 1 maka hal ini menunjukkan skala
+hasil produksi turun (Decreasing return) yang
+berarti penambahan input jam kerja tenaga kerja
+dan jam kerja mesin masing-masing sebesar 1%
+melebihi penambahan produksi sebesar 0,062%
+untuk obat sirup Lafidril dan 0,198% untuk
+obat kaplet Floxad. Hasil tersebut menjelaskan
+bahwa proses produksi untuk obat sirup Lafidril
+dan kaplet Floxad belum mampu memberikan
+nilai tambah dikarenakan proporsi penggunaan
+input terlalu berlebihan tidak proporsional
+dengan jumlah produksi yang dihasilkan. Ini
+dikarenakan pada saat memproduksi kedua
+obat tersebut tidak menggunakan kapasitas
+maksimum dari mesin yang digunakan sebab
+performa kerja mesin yang digunakan telah
+menurun sehingga tidak dapat bekerja dengan
+maksimal. Hal tersebut memberikan gambaran
+besarnya peranan mesin dalam proses produksi,
+jika pemeliharaan mesin tidak dilakukan akan
+mengurangi performa kerja mesin. Oleh sebab
+itu, harus ada perhatian khusus pada kondisi
+mesin yang digunakan, seperti diterapkannya
+replacement maintenance system yaitu melakukan
+tindakan perbaikan dan penggantian komponen
+mesin tepat pada waktunya sesuai dengan jadwal
+yang telah direncanakan sebelum kerusakan terjadi (Leflar, 2001). Secara keseluruhan, ratarata
+persentase achievement output obat kaplet
+Floxad yang dihasilkan sebesar 97% sedangkan
+sirup Lafidril sebesar 98% dari target yang telah
+ditetapkan Lafi Ditkesad.
+Analisis Efektivitas Proses Transformasi
+Efektivitas interaksi antara variabel input
+penggunaan tenaga kerja dan mesin dalam
+menghasilkan produk jadi obat sirup Lafidril dan
+kaplet Floxad dapat dilihat dari besarnya nilai
+koefisien intersept dari fungsi produksi Cobb-
+Douglas masing-masing obat. Efektivitas proses
+produksi obat kaplet Floxad lebih baik dari
+proses produksi obat sirup Lafidril karena indeks
+efektivitas dari obat kaplet Floxad lebih besar dari
+obat sirup Lafidril. Indeks efektivitas obat kaplet
+Floxad adalah 57641,61, sedangkan untuk obat
+sirup Lafidril adalah 4755,23 dan interaksi antara
+variabel input penggunaan tenaga kerja dan
+mesin dalam menghasilkan produk jadi kedua
+obat tersebut dapat dikatakan efektif karena nilai
+indeks efektivitasnya lebih dari 1 (Ramadhani,
+2011).
+Nilai probabilitas intersept obat kaplet
+Floxad dan obat sirup Lafidril kurang dari
+0,05, yaitu 0,000. Hal ini menjelaskan bahwa
+adanya pengaruh kecanggihan teknologi dalam
+mempengaruhi jumlah produksi yang dihasilkan
+kedua obat tersebut.
+Evaluasi Tingkat Keefektifan Produksi Obat
+Kaplet Floxad dan Sirup Lafidril di Lafi
+Ditkesad
+Identifikasi penyebab rendahnya tingkat
+efektivitas produksi
+Tenaga kerja, jam istirahat yang sering
+mundur sehingga mengurangi waktu kerja
+efektif. Tenaga kerja yang terlibat langsung secara
+teknis pada proses produksi banyak yang berusia
+lebih dari 40 tahun, hal ini berdampak pada
+lamanya pengerjaan suatu obat. Bosan karena
+melakukan hal yang sama selama bertahuntahun.
+Kurangnya pengetahuan tenaga kerja
+tentang teknik-teknik peningkatan kualitas dan
+produktivitas perusahaan.
+Mesin, frekuensi kerusakan mesin yang
+tinggi sehingga menyebabkan waktu operasi
+mundur. Kebijakan perawatan mesin yang repair
+maintenance, yaitu mesin akan diperbaiki apabila
+rusak. Padahal mesin sering break down dan hal ini
+jelas mengganggu proses produksi. Kurangnya
+tenaga teknisi internal yang menguasai perbaikan
+mesin-mesin yang digunakan dalam kegiatan
+produksi di Lafi Ditkesad.
+Perencanaan strategi peningkatan keefektifan
+proses produksi
+Tenaga Kerja, meningkatkan kinerja
+dan disiplin karyawan. Adanya sistem rooling
+sehingga tenaga kerja memiliki skill untuk
+mengoperasikan banyak mesin dan untuk
+menghindari rasa bosan yang mengakibatkan
+kinerja menurun. Mengawasi standar higienis
+dan kebersihan tenaga kerja maupun stasiun kerja
+secara lebih ketat. Meningkatkan pengetahuan
+tenaga kerja tentang teknik peningkatan kualitas
+dan produktivitas.
+Mesin, menerapkan kebijakan preventive
+maintenance secara lebih intensif. Melatih teknisi
+intern menjadi tenaga ahli dalam perawatan dan
+perbaikan mesin sehingga tidak perlu menyewa
+tenaga ahli dari luar.
+KESIMPULAN
+Faktor produksi jam kerja tenaga kerja
+dan jam kerja mesin baik pada obat sirup
+Lafidril maupun obat kaplet Floxad berpengaruh
+positif terhadap jumlah produksi (output) yang
+dihasilkan berdasarkan nilai koefisien masingmasing
+faktor produksi yang diperoleh bernilai
+positif. Input jam kerja tenaga kerja dan jam kerja
+mesin pada proses produksi obat Floxad dan
+obat sirup Lafidril di Lafi Ditkesad masih belum
+digunakan secara efektif.

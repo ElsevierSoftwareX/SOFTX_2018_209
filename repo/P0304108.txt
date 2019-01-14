@@ -1,0 +1,67 @@
+﻿Generalized Rayleigh (G R(α, λ, μ)) mempunyai tiga parameter dengan sebagai
+parameter bentuk, sebagai parameter skala, dan sebagai parameter lokasi.
+Pada penelitian ini, parameter dari G3R diduga dengan menggunakan metode
+Maximum Likelihood Estimation (MLE). MLE merupakan metode estimasi
+parameter suatu distribusi, dengan cara memilih penduga-penduga yang nilai-nilai
+parameternya diestimasi dengan memaksimumkan fungsi kemungkinannya. Nilai
+parameter dapat diduga secara analitik dengan mensubstitusikan nilai dugaan
+parameter dan . Untuk nilai dugaan dan , karena tidak dapat diselesaikan
+secara analitik, sehingga digunakan metode iterasi untuk mendapatkan dugaan
+bagi parameter-parameternya. Metode iterasi yang digunakan adalah Metode
+Newton Raphson, dan dengan bantuan software R. Penelitian ini bertujuan untuk
+menduga parameter distribusi G3R. Berdasarkan simulasi hasilnya menunjukkan
+bahwa bias menjadi lebih kecil dan selang kepercayaan menjadi lebih pendek
+ketika ukuran sampel lebih besar.
+Kata Kunci : Distribusi Generalized Rayleigh Tiga Parameter(G3R(α, λ, μ)) ,
+Metode Maximum Likelihood Estimation(MLE), Newton Raphson.
+
+I. PENDAHULUAN
+1.1 Latar Belakang
+Generalized Rayleigh Distribution diperkenalkan oleh Burr (1942). Pada
+mulanya, Burr memperkenalkan dua belas bentuk Comulative Distribution
+Function (CDF) yang berbeda dalam pemodelan data kelangsungan hidup.
+Dalam perkembangan selanjutnya Surles and Padgett (2001) Surles and Padgett
+(2004) telah memperkenalkan Burr Type X dengan dua parameter yang
+dinamakan Generalized Rayleigh Distribution with two parameters (distribusi
+Generalized Rayleigh dengan dua parameter). Distribusi ini merupakan Family
+dari distribusi Generalized Weibull.
+Kemudian Raqab, M.Z. and Kundu, D (2005) mengembangkan distribusi
+Generalized Rayleigh dengan dua parameter dengan menambahkan parameter
+sebagai parameter lokasi sehingga distribusinya menjadi distribusi Generalized
+Rayleigh dengan tiga parameter .
+Beberapa orang telah meneliti distribusi Generalized Rayleigh dengan tiga
+parameter, diantaranya adalah Debasis Kundu dan Mohammad Z. Raqab dalam
+Jurnal Internasionalnya yang berjudul “Estimation of = [ < ] For Three
+Parameter Generalized Rayleigh Distribution”. Dalam penelitiannya, Kundu dan
+Mohammad membahas tentang pendugaan stress-strength parameter
+= [ < ] ketika X dan Y keduanya adalah distribusi Rayleigh tiga
+Parameter dengan skala dan parameter lokasi yang sama, tetapi parameter
+bentuknya berbeda.
+Dalam penelitian ini, ingin dikaji penduga parameter distribusi Rayleigh tiga
+parameter . Metode yang digunakan adalah metode Maximum Likelihood
+Estimation (MLE) dimana metode ini merupakan metode yang paling efisien dan
+sering memberikan pendugaan yang baik, karena prinsip dari metode MLE adalah
+memilih penduga yang nilai-nilai dari parameternya memaksimumkan fungsi
+kemungkinan atau memaksimumkan informasi. Dalam penduga parameter dari
+suatu distribusi ada penduga parameter yang tidak dapat diselesaikan secara
+analitik, sehingga perlu diselesaikan dengan cara numerik. Salah satu cara yang
+digunakan adalah dengan teknik iteratif yaitu Metode Newton Raphson. Metode
+Newton Raphson sering digunakan karena metode ini lebih sederhana dan
+mempunyai konvergensi yang cepat.
+1.2 Batasan Masalah
+Pada penelitian ini, permasalahan dibatasi pada pendugaan,dan perbandingan
+ketakbiasan penduga parameter G3R dari masing-masing ukuran data
+menggunakan software R.
+
+1.3 Tujuan Penelitian
+Tujuan dari penelitian ini adalah :
+1. Menduga parameter Generalized Rayleigh dengan tiga parameter
+menggunakan metode Maximum Likelihood.
+2. Membandingkan bias untuk data berukuran 20, 30, 50, 100, dan 500
+dengan masing-masing data dilakukan pengulangan sebanyak 100.
+1.4 Manfaat Penelitian
+Manfaat dari penelitian ini adalah memperdalam pemahaman mengenai statistika
+inferensia khususnya mencari pendugaan parameter Generalized Rayleigh dengan
+tiga parameter menggunakan metode Maximum Likelihood dan untuk memberikan
+sumbangan pemikiran bagi peneliti lain yang akan melakukan penelitian lebih
+lanjut.

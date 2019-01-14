@@ -1,0 +1,173 @@
+Bengkel bubut adalah salah satu unit usaha jasa yang bergerak dalam bidang
+otomotif dan berkembang sangat pesat. Tetapi, sebagian besar pengusaha bengkel
+bubut masih menggunakan metode pengolahan data secara manual. Pengolahan
+data secara manual dapat menimbulkan beberapa masalah seperti sulitnya memback
+up data-data penting, dibutuhkannya ruang yang cukup untuk menyimpan
+arsip-arsip data bengkel, dan lamanya waktu yang dibutuhkan untuk membuat
+laporan-laporan. Dengan berkembangnya teknologi informasi, pengolahan data
+secara manual dapat digantikan dengan sistem informasi terkomputerisasi.
+Bengkel Berkah menjadi objek penelitian karena masih mengelola data secara
+manual sehingga diperlukan adanya sistem informasi terpadu.
+
+Pengembangan sistem informasi ini menggunakan metode rekayasa perangkat
+lunak modified waterfall model dengan alat bantu Lazarus Pascal IDE, MySQL
+Server, dan Gammu. Metode Modified Waterfall Model terdiri dari 6 tahap, yaitu
+Requirement, Design, Implementation, Testing, Maintenance dan memiliki
+feedback di setiap tahapnya untuk melakukan perbaikan di tahap sebelumnya.
+Sistem informasi ini dikembangkan dan dibangun berdasarkan kebutuhan Bengkel
+Berkah.
+
+Hasil yang didapat dari pengujian fungsionalitas sistem informasi ini terhadap 125
+hal yang diuji dan terbagi dalam 5 kategori pengujian adalah total pengujian yang
+sukses sebesar 100% dan kegagalan pengujian sebesar 0%. Sistem informasi yang
+telah dikembangkan memiliki kemampuan untuk mengelola data-data berupa
+karyawan, aset mesin dan peralatan, supplier, bahan, pengguna, pelanggan dan
+pekerjaan, mampu mencatat transaksi-transaksi bengkel, mampu membuat
+laporan penunjang dan keuangan bengkel dan dapat mengirim informasi transaksi
+pelanggan melalui SMS.
+Kata Kunci: sistem informasi, modified waterfall, SMS Gateway.
+
+
+I. PENDAHULUAN
+1.1 Latar Belakang
+Di zaman yang sudah terkomputerisasi saat ini, masih banyak pelaku usaha
+khususnya dalam bidang jasa perbengkelan yang masih mengelola informasi secara
+manual dengan media penyimpanan kertas. Kalaupun ada perusahaan jasa otomotif
+yang menggunakan sistem informasi terpadu, itupun hanya perusahaan yang sudah
+berskala internasional maupun nasional seperti bengkel-bengkel showroom resmi.
+Hal ini disebabkan karena kurangnya pengetahuan pemilik bengkel terhadap manfaat
+yang didapatkan ketika menggunakan sistem informasi.
+
+Salah satu UKM jasa otomotif bubut yang bernama Bengkel Berkah. Usaha ini telah
+berdiri sejak tahun 1991 dan hingga saat ini bengkel tersebut telah memiliki 3 cabang
+yang terletak di Kedaton, Natar, dan Garuntang. Pengolahan data pada Bengkel
+Berkah masih bersifat manual, yakni menggunakan kertas dan buku.
+
+Pengarsipan harga jasa dan nota menjadi kesulitan tersendiri yang dihadapi oleh
+pemilik bengkel karena biasanya arsip data mengenai harga jasa sering kali hilang
+dan tidak ada backup terhadap arsip tersebut. Dan, perhitungan keuangan pada
+bengkel yang masih manual memperbesar peluang adanya kesalahan dalam merekap
+pengeluaran dan pemasukan pada bengkel. Sehingga, tindak kecurangan dan mudahnya memanipulasi laporan keuangan terbuka lebar. Solusi bengkel yang
+digunakan saat ini digunakan adalah mempercayakan sanak keluarga untuk mengisi
+posisi penting pada bengkel. Namun, ini bukan solusi yang terbaik karena ketika
+salah satu saudara yang dipercayakan untuk mengelola bengkel melakukan kesalahan
+baik disengaja ataupun tidak sengaja. Maka sangat sulit pemilik untuk memberi
+hukuman kepada saudaranya. Masalah lain yang ditemukan pada pengolahan secara
+manual adalah sulitnya melakukan pencarian data pada arsip, menghitung stok bahan,
+melihat perkembangan bengkel dari tahun ke tahun, dan komunikasi terhadap
+pelanggan.
+
+Proses pelayanan pelanggan yang akan melakukan perbaikan mesinnya, adalah saat
+pelanggan datang, pelanggan akan meletakkan mesin di depan pintu utama bengkel
+atau di gudang bengkel. Kemudian, pelanggan akan diarahkan menuju customer
+service untuk melakukan registrasi mesin yang akan diperbaiki. Ketika sudah
+terdaftar, mesin akan diperiksa oleh kepala bengkel untuk mengetahui di manakah
+kerusakan mesin, bahan yang dibutuhkan untuk memperbaiki mesin tersebut, dan
+biaya yang dikeluarkan untuk memperbaiki mesin tersebut. Setelah pemeriksaan itu,
+kepala bengkel akan menunjuk salah satu karyawan bengkel sebagai penanggung
+jawab sesuai dengan jenis mesin dan jenis kerusakannya.
+
+Setelah mendapat informasi dari kepala bengkel mengenai bahan yang dibutuhkan,
+karyawan yang diberi tanggungjawab untuk memperbaiki mesin tersebut akan
+memeriksa ketersediaan bahan di gudang. Jika karyawan tidak mendapatkan bahannya,
+maka karyawan melapor kepada kepala bengkel yang akan memerintahkan seorang montir untuk mencari bahan yang dibutuhkan pada toko-toko otomotif.
+Kemudian kepala bengkel akan memberitahukan ke Customer Service mengenai
+berapa lama waktu yang dibutuhkan untuk memperbaiki mesin tersebut, biaya, dan
+bahan apa yang dibutuhkan.
+
+Setelah menerima informasi mengenai biaya, bahan, dan waktu pengerjaan, kasir
+akan menulis ID tag untuk mesin dan nota untuk pelanggan. Ketika mesin telah
+selesai diperbaiki, kasir akan menginformasikan pelanggan via telepon dan mesin
+tersebut akan dimasukkan ke dalam gudang. Setelah Pelanggan menerima informasi
+mengenai mesin miliknya, ia akan menuju ke bengkel untuk mengurus masalah
+administrasi dan melunasi biaya perbaikan. Setelah permasalahan itu selesai, mesin
+bisa dibawa pulang oleh pelanggan.
+
+Banyaknya kelemahan pada sistem manual yang dapat menyebabkan terbuka ruang
+untuk curang, kesalahan pengarsipan dan kesulitan mem-backup. Penelitian ini
+memiliki tujuan untuk membangun sebuah sistem informasi yang dapat mengelola
+data pada Bengkel Berkah seperti data karyawan, data pelanggan, inventori, transaksi
+harian, mingguan dan bulanan, pengeluaran, penggajian karyawan dan lain-lain.
+Sistem ini mampu mengamankan data-data agar tidak sembarang orang yang
+mengaksesnya.
+
+1.2 Tujuan
+Tujuan dari perancangan sistem informasi ini adalah:
+1. Membangun sistem informasi yang dapat mengelola dan mengatur data-data
+seperti karyawan, pelanggan, transaksi, aset mesin dan peralatan, pemasukan,
+pengeluaran, supplier, dan bahan pada bengkel.
+2. Membangun sms gateway sebagai akses informasi pelanggan terhadap mesin
+yang diperbaiki pada bengkel.
+3. Menghasilkan dan menyajikan laporan keuangan untuk menunjang dalam
+pengambilan keputusan dalam manajemen bengkel.
+
+1.3 Manfaat Penelitian
+Manfaat yang diharapkan dari penelitian ini adalah sebagai berikut :
+1. Membantu bengkel dalam mengelolah data-data agar lebih efisien dalam hal
+mengefisiensikan waktu dalam penyusunan laporan dan penghematan tempat
+dalam menyimpan arsip-arsip bengkel .
+2. Memudahkan konsumen jasa bengkel dalam mengakses informasi mesin yang
+diperbaiki melalui sms.
+3. Memudahkan pelaku usaha untuk melihat perkembangan bengkel dalam
+pengambilan keputusan melalui laporan keuangan sesuai dengan data pada
+sistem informasi tersebut.
+4. Memperluas wawasan para pelaku usaha khususnya di bidang jasa
+perbengkelan bahwa dengan terintegrasinya perusahaan dengan sistem
+5
+informasi, maka dapat meningkatkan kinerja perusahaan dalam hal kualitas
+pelayanan dan manajemen perusahaan itu sendiri.
+5. Mengamankan data-data yang bersifat penting dan kritikal agar tidak ada
+sembarangan orang yang mengakses data-data tersebut.
+
+1.4 Batasan Masalah
+
+Beberapa hal yang membatasi masalah dalam pembahasan skripsi ini adalah sebagai
+berikut:
+1. Perancangan sistem informasi ini menggunakan metode rekayasa perangkat
+lunak modified waterfall.
+2. Fitur sms gateway pada sistem informasi ini berguna akses informasi pelanggan
+mengenai mesin yang dititipkan pada Bengkel Berkah.
+3. Analisa kebutuhan dan pengujian pada salah satu cabang Bengkel Berkah, yakni
+di Garuntang.
+4. Pengujian yang dilakukan adalah pengujian terhadap kemampuan sistem
+informasi dalam mengolah data Bengkel Berkah.
+
+1.5 Perumusan Masalah
+Masalah yang akan diselesaikan dalam penelitian ini adalah bagaimana perancangan
+sistem informasi yang mampu mengelola data-data penting dan kritis, serta
+terintegrasi dengan sms gateway pada bengkel melalui fokus aspek sebagai berikut :
+1. Perancangan perangkat lunak sistem informasi bengkel berbasis desktop untuk
+mengelola dan mengatur data-data seperti karyawan, pelanggan, transaksi, aset
+6
+mesin dan peralatan, pemasukan, pengeluaran, supplier, penggajian karyawan,
+laporan keuangan dan bahan dengan menggunakan bahasa Pascal dan IDE
+Lazarus.
+2. Perancangan sms gateway yang terintegrasi dalam sistem informasi sebagai
+akses informasi bagi pelanggan yang memperbaiki mesinnya pada bengkel.
+3. Perancangan sistem informasi database berarsitektur client-server dengan
+menggunakan wireless access point sebagai koneksi antara client dan server.
+1.6 Sistematika Penulisan
+Sistematika yang digunakan dalam penulisan tugas akhir ini adalah sebagai berikut :
+BAB I PENDAHULUAN
+Berisi latar belakang, tujuan penelitian, manfaat penelitian, batasan masalah,
+perumusan masalah, hipotesis, dan sistematika penulisan.
+BAB II TINJAUAN PUSTAKA
+Berisi teori-teori yang mendukung dalam perancangan dan implementasi sistem
+informasi pada bengkel dengan layanan sms gateway.
+BAB III METODE PENELITIAN
+Berisi rancangan sistem informasi pada bengkel dengan layanan sms pada bengkel
+dengan layanan gateway meliputi alat dan bahan, langkah-langkah pengerjaan,
+penentuan metode yang akan digunakan, analisis kebutuhan dan perancangan
+konseptual.
+7
+BAB IV HASIL DAN PEMBAHASAN
+Berisi tentang proses pembuatan, pengujian dan analisis dari informasi pada bengkel
+dengan layanan sms pada bengkel dengan layanan gateway.
+BAB V SIMPULAN DAN SARAN
+Berisi simpulan yang diperoleh dari perancangan dan implementasi sistem informasi,
+serta memuat saran yang terkait dengan hasil penelitian.
+DAFTAR PUSTAKA
+Berisi berbagai sumber pustaka yang digunakan untuk dijadikan referensi dalam
+penulisan tugas akhir ini.
+LAMPIRAN
+Berisi dokumen-dokumen yang mendukung dalam penelitian.

@@ -1,0 +1,281 @@
+﻿PENGGANTIAN SODA API (NaOH) DENGAN KALIUM HIDROKSIDA (KOH) PADA DESTILASI SISTEM BINER AIR-ETANOL
+
+ABSTRAK
+Soda api (NaOH) telah lama digunakan dalam produksi bioetanol yaitu pada destilasi tahap dua, untuk meningkatkan kemurnian bioetanol hingga 90 %. Proses destilasi akan menghasilkan limbah cair dengan kadar natrium tinggi yang berdampak buruk bagi tanah. Penelitian ini bertujuan untuk mempelajari penggantian NaOH dengan KOH, dimana diketahui bahwa kalium merupakan salah satu nutrien yang menjaga kesuburan tanah. Perbandingan parameter-parameter termodinamika, kurva kesetimbangan fasa uap-cair dan titik azeotrop pada destilasi campuran air-etanol digunakan untuk jika KOH dan NaOH digunakan sebagai aditif. Penelitian ini menggunakan suatu model campuran air-etanol pada beberapa variasi komposisi 0-100 % berat etanol. Penambahan elektrolit adalah 0,1 mol elektrolit / berat total campuran etanol-air. Hasilnya menunjukkan bahwa penambahan elektrolit ke dalam campuran air-etanol dapat menghilangkan titik azeotrop dan menyebabkan molekul-molekul etanol lepas dari molekul-molekul air. Entalpi pencampuran antara air-etanol yaitu 239,601 kJ/mol. Entalpi pencampuran menjadi 259.796 kJ/mol and 264.793 kJ/mol setelah penambahan NaOH dan KOH. Hal ini menunjukkan bahwa pencampuran berlangsung secara endotermis dikarenakan perbedaan polaritas molekul air dan molekul etanol. Keberadaan elektrolit bahkan menurunkan interaksi antar molekul-molekul air-etanol. Tetapi pencampuran menyebabkan ketidakteraturan yang menyebabkan perubahan entropi positif dan perubahan energi bebas Gibbs negatif. Hal ini mengindikasikan bahwa pencampuran terjadi secara spontan pada suhu kamar. Sedangkan perubahan entalpi penguapan, ΔHvap, dari campuran air-etanol yaitu 76,229 kJ/mol dan menjadi 235,366 kJ/mol setelah penambahan NaOH, serta berubah menjadi 126,189 kJ/mol setelah penambahan KOH. Hal ini mengindikasikan bahwa keberadaan elektrolit menghambat penguapan air sebagai komponen utama dalam campuran dan menyebabkan molekul-molekul etanol menguap menghasilkan destilat etanol dengan kemurnian tinggi.
+Kata Kunci: air-etanol, azeotrop, kesetimbangan fasa uap-cair, sifat koligatif, sifat termodinamik.
+
+PENDAHULUAN
+Bioetanol merupakan bahan bakar alternatif yang bersifat renewable, tidak beracun, serta biodegradable. Diperkirakan pada tahun 2030 penggunaan bahan bakar etanol diseluruh dunia mencapai 10-20% dari konsumsi bensin atau kira-kira tujuh kali lipat dari kapasitas produksi etanol pada tahun 2005 (Razmovski dan Vucˇurovic, 2012). Salah satu tantangan dalam pembuatan bioetanol adalah menghasilkan etanol dengan kemurnian tinggi (Ngema, 2010). Pengolahan bioetanol menjadi etanol melalui proses fermentasi dan destilasi, umumnya hanya memperoleh etanol dengan kadar 35-40% (Razmovski & Vucˇurovic, 2012). Pemisahan etanol dengan kemurnian tinggi sulit dilakukan karena masih adanya air dalam bioetanol tersebut.Sementara itu, Pemisahan etanol dari air sulit dilakukan karena adanya azeotrop dalam campurannya (Ngema, 2010), dimana komposisi fasa cair dan fasa uap sama sehingga sulit dipisahkan dengan destilasi biasa (Kosaric et al., 1993; Seader dan Kurtyka, 1984). Oleh karena itu, diperlukan metode lain untuk memisahkan campuran zat cair yang homogen (etanol dan air), salah satunya yaitu dengan pembentukan atau penambahan fasa lain dalam sistem (Smith, 1995). Penambahan fasa atau sistem salah satunya dapat dilakukan dengan penambahan zat elektrolit berupa garam padat untuk mengeliminasi azeotrop (Ngema, 2010). Penambahan zat elektrolit ini merupakan salah satu penerapan dari sifat koligatif larutan.
+Koligatif larutan adalah sifat fisika dari larutan yang dipengaruhi oleh jumlah partikel yang terlarut. Penambahan suatu zat terlarut (zat aditif) akan menurunkan tekanan uap larutan. Ketika zat terlarut yang ditambahkan menurunkan tekanan uap larutan, maka juga akan mempengaruhi titik didihnya. Panas yang lebih tinggi harus ditambahkan untuk mencapai tekanan uap larutan menjadi sama dengan tekanan uap atmosfer (Atkins, 1996). Fenomena tersebut, bisa menjadi sifat fisis yang menguntungkan dalam pemisahan solut-solven melalui suatu proses destilasi.
+Zat elektrolit yang biasa digunakan didalam industri penghasil etanol adalah NaOH. NaOH banyak digunakan dalam bidang industri bioetanol karena merupakan larutan elektrolit yang mudah larut dan terionkan dalam pelarut polar. Akan tetapi penambahan NaOH mencemari lingkungan, hal ini dikarenakan ion Na+ dapat menggantikan Ca2+ atau Mg2+ (unsur hara tanah) sehingga menyebabkan rusaknya struktur dan pori-pori tanah, menurunkan siklus atau pergerakan molekul-molekul air dan udara dalam tanah, menurunkan transfer nutrient dalam tanah serta menyebabkan pH tanah menjadi lebih tinggi sehingga mengganggu pertumbuhan tanaman (Halliwell et al., 2001; Laurenson et al., 2012).
+Pemilihan KOH sebagai zat elektrolit pengganti NaOH didasarkan pada kemiripan sifat KOH dengan NaOH. NaOH dan KOH memiliki sifat higroskopis (menyerap uap air). NaOH dan KOH juga sama-sama memiliki kelarutan yang tinggi dalam air. Pada suhu 25oC, kelarutan NaOH dalam air yaitu 1110 g/L dan kelarutan KOH dalam air yaitu 1100 g/L. NaOH dan KOH juga memiliki sifat mudah terionkan menjadi ion-ionnya (Heaton, 1996). Selain itu, kalium adalah salah satu unsur hara makro utama yang diperlukan untuk pertumbuhan tanaman. Tingginya konsentrasi K+ dan rendahnya konsentrasi Na+ dalam tanah akan menurunkan tingkat stres tanaman akibat efek terlarutnya ion garam dalam tanah (Zhu, 2003). Oleh karena itu, penggantian NaOH dengan KOH diharapkan akan menghasilkan limbah yang bersifat ramah lingkungan dan dapat bermanfaat untuk lingkungan.
+Studi kemampuan KOH untuk menggantikan soda api (NaOH) dilakukan melalui perbandingan beberapa parameter termodinamika campuran biner, sifat koligatif, serta studi karakter kurva destilasinya terutama pada keberadaan titik azeotropnya.
+
+METODE PENELITIAN
+Campuran etanol-air dibuat dalam berbagai variasi fraksi berat, dengan menggunakan rumus persamaan (1) :
+ρ : m/v ................................................................................................................... (1)
+Dimana : ρ : Densitas (g/cm3)
+V : Volume (cm3)
+m : Massa (g)
+Densitas dan massa masing-masing larutan (etanol dan air), dapat diketahui jumlah etanol/air yang dibutuhkan untuk memperoleh % fraksi berat yang diinginkan.
+Gambar 1. Setting alat destilasi sederhana untuk destilasi campuran air-etanol mengacu pada Smith & Bruno (2006).
+Destilasi dilakukan pada campuran etanol (pro analisis, Merck, 99,9 %) –air (akuades, produksi sub lab kimia, lab Terpadu UNS), dengan berbagai variasi fraksi berat (% massa) etanol yaitu 10, 20, 30, 40, 50, 60, 70, 80, 90 dan 100, dengan menggunakan metode destilasi sederhana (pyrex glass) seperti tercantum pada Gambar 1. Penimbangan etanol dan air dilakukan dengan menggunakan neraca analitik (OHAUS PA413, maks: 110 gram, min 0,001 gram). Suhu titik didih (bubble point temperature/Tk) ditentukan berdasarkan mulai timbulnya gelembung yang menandakan mulai terjadi perubahan dari fasa cair ke fasa gas. Sedangkan titik embun campuran (dew point temperature/Th) merupakan suhu pada saat destilat menetes pertama kali. Pengaturan suhu destilasi dilakukan dengan menggunakan termokontrol (home made), sedangkan pengukuran suhu
+dengan termometer (futaba maks: 220oC min: 0oC). Proses destilasi dilakukan pada variasi
+berat campuran air-etanol tanpa elektrolit, campuran air-etanol dengan penambahan NaOH
+(pro analisis, Riedel-de Haěn) sebanyak 0,1 mol per berat total campuran, serta pada
+campuran air-etanol dengan penambahan KOH (pro analisis, Riedel-de Haěn) sebanyak 0,1
+mol per berat total campuran.
+PEMBAHASAN
+Data kesetimbangan uap-cair (Vapor Liquid Equilibrium, VLE) pada sistem etanolair
+dapat digunakan untuk memverifikasi dan menguji teknik eksperimental data VLE
+Tk.Th-x dibandingkan dengan T-x.y. Kurva kesetimbangan Tk.Th-x didasarkan pengukuran
+suhu masing-masing fraksi mol pada konektor (suhu perubahan uap menjadi cair/Th) dan
+pengukuran suhu pada labu atau flask (suhu campuran etanol-air/Tk). Diagram
+kesetimbangan uap-cair sistem etanol-air ditunjukkan pada Gambar 2.
+0.0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1.0
+80
+100
+fraksi etanol (mol/mol)
+Temperatur (OC)
+Gambar 2. Diagram Th-Tk-x untuk sistem etanol-air tanpa zat elektrolit pada tekanan 1
+atm. ( ) = Th; ( ) = Tk, Titik yang dilingkari merupakan titik azeotrop.
+Gambar 2 merupakan diagram Th-Tk-x untuk sistem etanol-air tanpa zat elektrolit,
+dimanapada fraksi etanol 0,881 suhu Tkdan Th memiliki nilai yang hampir sama (berimpit).
+Hal ini menunjukkan bahwa suhu antara fase cair dan fase uap sama, sehingga pada
+komposisi ini sulit untuk memisahkan antara etanol air, atau biasa disebut dengan titik
+azeotrop, yang berada pada komposisi 95 % berat etanol atau pada fraksi mol etanol 0,881.
+Sedangkan peneliti lain mendapat titik azeotrop sistem biner air-etanol pada 95,63 % berat etanol atau pada fraksi mol etanol 0,89 dalam rentang 0-1 fraksi mol pada tekanan
+atmosfer (Huang et al.,2008). Hal ini menunjukkan bahwa metode diagram Th-Tk-xdari
+metode destilasi sederhana yang dilakukan pada penelitian ini dapat digunakan untuk
+menentukan letak titik azeotrop pada sistem campuran biner.
+Penambahan elektrolit NaOH dan KOH pada sistem campuran biner air-etanol,
+terbukti merubah kurva destilasi seperti tercantum pada Gambar 3. Kurva destilasi sistem
+air-etanol-NaOH (Gambar 3(a)) dan sistem air-etanol-KOH (Gambar 3(b)) menunjukkan
+pemisahan titik Tk dan Th, atau eliminasi titik azeotrop telah berhasil dilakukan.
+0.0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1.0
+80
+100
+fraksi etanol (mol/mol)
+Temperatur (
+o
+C)
+0.0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1.0
+80
+100
+fraksi etanol (mol/mol)
+Temperatur (
+o
+C)
+Gambar 3.Diagram Th-Tk-x sistem etanol-air-zat elektrolitpada tekanan 1 atm. (a) Diagram
+Th-Tk-x sistem etanol-air-KOH. (b) Diagram Th-Tk-xsistem etanol-air-NaOH.
+( ) = Th; ( ) = Tk.
+Tanda lingkaran merah pada Gambar 3 menunjukkan hilangnya titik azeotrop pada
+sistem etanol-air karena penambahan zat elektrolit KOH maupun NaOH. Penambahan zat
+elektrolit NaOH dan KOH akan mengurangi interaksi ikatan hidrogen antara molekul
+etanol dan air yaitu dengan melemahkan gaya tarik dipol-dipol antara molekul etanol-air
+(Lei et al., 2014). Semakin lemahnya gaya tarik dipol-dipol antara etanol-air maka energi
+yang dibutuhkan untuk memisahkan molekul etanol dan molekul air semakin kecil pula,
+sehingga etanol akan lebih mudah terpisah dari air. Hal ini disebabkan karena zat elektrolit
+KOH dan NaOH merupakan molekul padatan, dimana masing-masing atom penyusunnya
+saling berikatan dengan pembentukan ikatan intermolekular yang lemah. Apabila KOH
+dan NaOH ditambahkan pada campuran etanol-air, molekul KOH dan NaOH mengalami
+disosiasi dan molekul-molekul air akan membentuk interaksi dengan kation dan anion dari zat elektrolit (NaOH/KOH) dalam proses solvasi (Gambar 4) sehingga mengurangi ikatan
+hidrogen yang dapat terbentuk antara etanol-air.
+Sementara itu, penambahan zat elektrolit juga akan menurunkan tekanan uap air,
+sehingga air mengalami kenaikan titik didih akibat adanya sifat koligatif larutan. Adapun
+etanol akan menguap pada titik didih yang sama seperti sebelum ditambah zat elektrolit.
+Kenaikantitik didih air dan tidak berubahnya titik didih etanol setelah penambahan zat
+elektrolit akan menyebabkan terganggunya titik azeotrop pada kurva kesetimbangan uapcair
+campuran etanol-air (Atkins, 1996).
+H2
+C
+HO CH3
++ H
+O
+H
+H
+O
+H
+H2
+C
+H O CH3
+H
+O
+H
+O
+H
+H2
+C
+H O CH3
+H
+O
+H
+H2
+C
+H O CH3
+H
+O
+H
+O
+H
+H2
+C
+H O CH3
++ A+
+H
+O
+H
+O
+H H
+O
+H
+H
+O
+H
+H
+BH
+H
+O
+H
+O
+H
+H
+O
+H
+H
+H O
+H2
+C
+HO CH3
+Etanol
+Air
+Campuran etanol-air
+Campuran etanol-air
+Solvasi ion-ion elektrolit
+Etanol
+AB
+Zat elektrolit
+Gambar 4. Ilustrasi mekanisme reaksi dari (a) campuran etanol-air (b) campuranetanol-air
+zat elektrolit (KOH dan NaOH); A: kation zat elektrolit; B: anion zat elektrolit.
+Fenomena kenaikan titik didih karena penambahan solute dikenal sebagai sifat
+koligatif larutan. Sifat koligatif larutan mengikuti persamaan (2) (Castellan, 2008; Atkins,
+2008).
+ΔTb = kb. m ........................................................................................................... (2)
+Keterangan : ΔTb : Kenaikan titik didih
+kb : Tetapan kenaikan titik didih
+m : molalitas larutan
+Hasil penelitian ini mendapatkan bahwa sistem etanol-air memiliki nilai energi
+entalpi pencampuran, ΔHmix,sebesar 239,601 kJ/mol. Nilai tersebut hampir sama dengan
+nilai entalpi pencampuran sistem etanol-air yang diperoleh Bosnjacovic (1935) yaitu
+sebesar 240,582 kJ/mol. Nilai positif menunjukkan bahwa pencampuran merupakan
+perubahan endotermik. Penambahan 0,1 mol NaOH menyebabkan kenaikan entalpi pencampuran menjadi 258,024kJ/mol , dan menjadi 261,375kJ/mol setelah ditambahkan 0,1 mol KOH. Hal tersebut terjadi karena penambahan garam elektrolit dalam suatu campuran akan menaikkan titik didih salah satu komponen (Zhigang et al.,2005), dalam hal ini adalah komponen air, karena elektrolit yang ditambahkan memiliki kelarutan tinggi dalam air.
+Analisis perubahan entropi, ΔSmix, dan perubahan energi bebas Gibbs, ΔGmix, dengan menggunakan kurva dari persamaan ΔGmix/RT dan ΔSmix/R, seperti tercantum pada Gambar 5, sedangkan nilai ΔGmix dan ΔSmix tercantum pada Tabel 1 dan Tabel 2.
+Gambar 5. Grafik fungsi Gibbs dan Entropi Pencampuran (a) Etanol-Air (b) Etanol-Air-NaOH (c) Etanol-Air-KOH; ( ) ΔSmix/R;( ) ΔGmix/RT.
+Tabel 1. Nilai energi bebas Gibbs pencampuran (ΔGmix).
+met
+mair
+ΔG mix etanol-air
+ΔGmix etanol-air-NaOH
+ΔGmix etanol-air-KOH
+95
+5
+-901,933
+-1327,542
+-1316,262
+90
+10
+-1309,061
+-1698,009
+-1687,459
+80
+20
+-1656,683
+-1999,679
+-1990,338
+60
+40
+-1632,429
+-2029,029
+-2020,649
+50
+50
+-1471,999
+-1926,448
+-1918,850
+40
+60
+-1263,105
+-1750,633
+-1743,683
+30
+70
+-1019,460
+-1529,466
+-1523,062
+20
+80
+-744,439
+-1275,748
+-1269,810
+10
+90
+-429,128
+-992,381
+-986,846
+Harga energi bebas Gibbs pencampuran campuran etanol-air dan campuran etanol-air-zat elektrolit pada suhu 25oC bernilai negatif (ΔGmix< 0), hal ini menandakan proses pencampuran berlangsung secara spontan, meskipun proses pencampuran bersifat endotermik, ΔHmix bernilai positif. Nilai perubahan entropi, ΔSmix cukup besar untuk mengindikasikan spontanitas perubahan.
+Selain nilai ΔSmix dan ΔGmix yang mengindikasikan spontanitas pencampuran, bentuk kurva dari persamaan ΔGmix/RT dan ΔSmix/R seperti yang ditunjukkan pada Gambar 5 juga menunjukkan bahwa campuran benar-benar bercampur (completely miscible mixture) (Conte, 2010). Sementara itu, grafik fungsi perubahan energi bebas Gibbs dan perubahan entropi pencampuran, ΔGmix/RT dan ΔSmix/R pada Gambar 5 menunjukkan nilai maksimal pada 60-80 % berat etanol atau 0,369-0,610 fraksi mol etanol. Hal ini menunjukkan adanya nilai penyimpangan dari ideal walaupun hanya kecil, dimana pada larutan ideal akan memiliki nilai maksimal pada 0,5 fraksi mol etanol (Castellan, 1983; Atkins, 1996; Triyono, 2006).
+Tabel 2. Nilai entropi pencampuran (ΔS mix).
+m et
+m air
+ΔS mix etanol-air
+ΔS mix etanol-air-NaOH
+ΔS mixetanol-air-KOH
+95
+5
+3,027
+4,455
+4,417
+90
+10
+4,393
+5,698
+5,663
+80
+20
+5,559
+6,710
+6,679
+60
+40
+5,478
+6,809
+6,781
+50
+50
+4,940
+6,465
+6,439
+40
+60
+4,239
+5,875
+5,851
+30
+70
+3,421
+5,132
+5,111
+20
+80
+2,498
+4,281
+4,261
+10
+90
+1,440
+3,330
+3,312
+Sementara itu, hasil penelitian menunjukkan bahwa campuran air-etanol memiliki nilai entalpi penguapan pencampuran, ΔHvap,sebesar 76,229 kJ/mol pada tekanan 1 atm (setara dengan 1,03323 kg/cm2). Sedangkan berdasarkan referensi nilai entalpi penguapan air-etanol diketahui sebesar 83,713 kJ/mol (pada tekanan 1 kg/cm2) (Bosnjacovic, 1935). Perbedaan harga ΔHmix kemungkinan perbedaan tekanan pada proses destilasi. Nilai positif dari ΔHvap mengindikasikan bahwa perubahan fasa air menjadi fasa gas dari campuran biner air-etanol merupakan proses endotermik. Penambahan 0,1 mol NaOH ke dalam sistem biner air-etanol diketahui meningkatkan nilai ΔHvap menjadi 235,366kJ/mol. Sedangkan penambahan 0,1 mol KOH meningkatkan ΔHvap menjadi 126,189kJ/mol. Diketahui bahwa kelarutan garam elektrolit lebih besar di dalam air daripada di dalam etanol. Kelarutan suatu garam diketahui mengubah sifat koligatif sistem larutan, yaitu kenaikan titik didih. Sehingga sistem biner air-etanol dengan komponen terbesar adalah air membutuhkan suhu lebih tinggi untuk menguap. Hal ini menyebabkan molekul-molekul etanol lebih mudah terlepas, karena perbedaan titik didih etanol murni dengan titik didih campuran semakin besar, dan menghasilkan destilat etanol yang lebih murni.
+Berdasarkan nilai parameter-parameter termodinamika dan karakter kurva destilasi yang dihasilkan dari sistem air-etanol-NaOH dan air-etanol-KOH, diketahui bahwa kedua jenis garam elektrolit tersebut memiliki pengaruh yang sama terhadap perubahan parameter-parameter termodinamika dan titik azeotrop campuran biner air-etanol. Sehingga, garam KOH dapat digunakan sebagai pengganti soda api, NaOH, pada proses destilasi etanol dari campuran air-etanol.
+KESIMPULAN
+Penambahan zat elektrolit NaOH dan KOH pada campuran etanol – air dapat menghilangkan sifat azeotrop pada sistem etanol-air. Penambahan zat elektrolit ke dalam campuran etanol-air menaikkan nilai entalpi penguapan, ΔHvap, sehingga memperbesar perbedaan titik didih campuran dengan titik didih etanol murni, dan mempermudah molekul-molekul etanol untuk menguap menjadi destilat dengan kemurnian lebih tinggi.

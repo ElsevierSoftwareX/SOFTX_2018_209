@@ -1,0 +1,77 @@
+﻿ABSTRAK 
+Sawah merupakan media atau sarana untuk memproduksi padi. Sawah yang subur akan menghasilkan padi yang baik. Indonesia termasuk Negara agraris yang sebagian wilayahnya adalah pertanian, yang dapat memproduksi padi lebih banyak. Namun, karena adanya pembangunan pabrik atau bangunan lainnya di lahan pertanian, menyebabkan produksi pertanian kian berkurang. 
+Perhitungan luas area tanaman padi dilakukan dengan melakukan overlay antara peta hasil klasifikasi dengan peta hasil NDVI pada citra Landsat 8. Sedangkan untuk menghitung produksinya dilakukan dengan menggunakan metode ubinan seperti yang dilakukan oleh BPS dan Dinas Pertanian. 
+
+Luas area tanaman padi di Kota Pekalongan yaitu sebesar 664,96 hektar dengan nilai luas terbesar berada di Kecamatan Pekalongan Selatan yaitu sebesar 425,33 hektar dan luas terkecil berada di Kecamatan Pekalongan Barat yaitu sebesar 16,86 hektar. Sedangkan nilai produksi padinya diperkirakan mencapai 4443,05 ton gabah dengan produksi terbesar berada di Kecamatan Pekalongan Selatan yaitu sebesar 2841,92 ton dan produksi terkecil berada di Kecamatan Pekalongan Barat yaitu sebesar 112,65 ton. 
+
+Kata Kunci : Sawah, citra Landsat 8, Luas area tanaman padi, Produksi padi
+
+
+ BAB I 
+PENDAHULUAN 
+1.1 Latar Belakang 
+
+Sawah merupakan media atau sarana untuk memproduksi padi. Sawah yang subur akan menghasilkan padi yang baik. Indonesia termasuk Negara agraris yang sebagian wilayahnya adalah pertanian, yang dapat memproduksi padi lebih banyak. Namun, karena adanya pembangunan pabrik atau bangunan lainnya di lahan pertanian, menyebabkan produksi pertanian kian berkurang. 
+Tanaman padi (Oryza sativa, sp) termasuk kelompok tanaman pangan yang sangat penting dan bermanfaat bagi kehidupan masyarakat Indonesia. Sampai saat ini, lebih dari 50% produksi padi nasional berasal dari areal sawah di Pulau Jawa. Sehingga apabila terjadi penurunan tingkat produksi dan produktivitas padi di Jawa secara drastis, maka dapat mempengaruhi ketersediaan beras nasional dan akan berdampak negatif terhadap sektor-sektor lainnya. 
+
+
+Sampai saat ini estimasi produksi padi dilaksanakan oleh beberapa instansi antara lain: Badan Urusan Logistik (BULOG), Badan Pusat Statistik (BPS) dan Dirjen Bina Produksi Tanaman Pangan dan Hortikultura, Departemen Pertanian. BULOG memperkirakan produksi padi menggunakan pendekatan ekonometrik. Parameter yang digunakan untuk menduga antara lain data luas area panen, produktivitas, curah hujan dan harga. Informasi disajikan per catur wulan (Mulyana et al., 1998 dalam Wahyunto., 2006). BPS melakukan perkiraan produksi padi berdasarkan data lapangan yang dihimpun dari mantri tani disetiap kecamatan berdasarkan hasil ubinan secara acak terpilih. Data produksi diperoleh dari parameter luas area panen dan produktivitas padi per hektar (Maksum et al., 1998 dalam Wahyunto., 2006). Departemen pertanian memperkirakan produksi padi dengan mempertimbangkan parameter luas area tanam/panen, jumlah benih yang disebar petani, perhitungan produktivitas dengan memanfaatkan struktur kelembagaan dibawahnya yaitu Mantri Tani dan Penyuluh Pertanian Lapangan dan informasi luas baku sawah dari BPS. Oleh karena cara pendekatan, kriteria penilaian dan metode yang digunakan berbeda maka informasi yang diperoleh juga berbeda. Hal ini menyulitkan pengguna informasi dalam pemanfaatannya. 
+Dalam era globalisasi informasi untuk mendukung program ketahanan pangan, dituntut kecepatan dan ketepatan informasi sumberdaya pertanian yang lebih kuantitatif. Untuk itu diperlukan sarana pengumpul data dan informasi sistem produksi pertanian yang lebih akurat dalam waktu yang secepat mungkin. Beberapa satelit penginderaan jauh milik negara maju (seperti USA, Uni-Eropa dan Jepang), mengitari bumi dan merekam datanya secara periodik dalam selang waktu tertentu. Parameter tingkat kehijauan tanaman (vegetation index) yang diturunkan melalui analisis citra satelit dapat digunakan untuk estimasi umur tanaman padi dan produktivitasnya. Selanjutnya dengan menghitung luas areal tanaman yang dimonitor pada citra satelit, dapat diestimasi produksi padi yang akan dipanen di suatu wilayah. 
+
+1.2 Rumusan Masalah 
+
+Dari latar belakang yang telah dijabarkan di atas, maka permasalahan yang timbul adalah sebagai berikut: 
+a. Berapa luas area pertanian tanaman padi di Kota Pekalongan dengan metode penginderaan jauh? 
+b. Berapa perkiraan hasil panen tanaman padi di Kota Pekalongan dengan metode ubinan? 
+
+1.3 Maksud dan Tujuan Penelitian 
+
+Maksud dan tujuan dari penelitian ini adalah untuk memperkirakan produksi padi di Kota Pekalongan dengan memanfaatkan teknologi penginderaan jauh dan menyajikan informasi pertanian menggunakan sistem informasi geografis. 
+
+1.4 Pembatasan Masalah 
+a. Daerah penelitian dilakukan di Kota Pekalongan. 
+b. Citra satelit yang digunakan adalah citra Landsat 8 bulan Maret tahun 2014. 
+c. Perhitungan produksi padi yang dilakukan adalah pada bulan april 2014.
+d. Sawah yang digunakan untuk penelitian adalah sawah irigasi. 
+e. Daerah yang digunakan untuk penelitian melakukan panen padi secara bersamaan. 
+f. Metode perhitungan produksi yang digunakan adalah metode ubinan hasil pengumpulan data dilapangan yang dilakukan secara acak. 
+
+
+1.5 Metodologi Penelitian 
+
+Adapun metode penelitian yang akan dilakukan pada tugas akhir ini dapat dilihat pada gambar 1.1. : 
+Mulai 
+Persiapan 
+Pengumpulan Data 
+Uji Klasifiksi 
+Training Area 
+Penajaman Citra 
+Peta Penggunaan Lahan 
+NDVI Citra 
+Koreksi Geometrik 
+Citra Landsat 8 
+Peta RBI Skala 1:25000 
+Peta Administrasi 
+Cropping Area 
+Overlay Citra 
+Klasifikasi Menjadi Kelas Tanaman Padi 
+Supervised Classification 
+Peta Tanaman Padi 
+Analisis dan Hasil 
+Selesai 
+Gambar.1.1 Metodologi Penelitian 
+
+1.6 Sistematika Laporan 
+
+Sistematika pembahasan dalam Tugas Akhir ini tersusun atas pendahuluan, dasar teori, pelaksanaan penelitian, analisis penelitian, serta kesimpulan dan saran. Adapun sistematika penulisan laporan Tugas Akhir ini adalah sebagai berikut: 
+BAB I PENDAHULUAN 
+Pada BAB ini berisi tentang latar belakang, perumusan masalah, maksud dan tujuan, pembatasan masalah, metode penelitian, dan sistematika laporan. 
+BAB II DASAR TEORI 
+Pada BAB ini menjelaskan tentang landasan teori yang berkaitan dengan pelaksanaan penelitian serta tinjauan pustaka dari laporan-laporan penelitian yang digunakan sebagai referensi untuk pembuatan laporan penelitian ini. 
+BAB III PELAKSANAAN PENELITIAN 
+Pada BAB ini akan dibahas mengenai pelaksanaan penelitian dan hasil pengolahan data. 
+BAB IV ANALISIS PENELITIAN 
+Pada BAB ini akan dibahas mengenai analisis dari hasil pengolahan data dan proses yang dilakukan dari pelaksanaan penelitian. 
+BAB V KESIMPULAN 
+Pada BAB ini berisi tentang kesimpulan tugas akhir yang mudah-mudahan dapat bermanfaat untuk penelitian selanjutnya. 
+ 

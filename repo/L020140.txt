@@ -1,0 +1,202 @@
+﻿Penelitian ini bertujuan untuk mengetahui nilai karakteristik bahan baku pirolisis
+melalui analisis proximate dan nilai kalor; persentase zat cair, zat padat, dan zat
+gas produk pirolisis sampah plastik Kota Surabaya yang berpotensi sebagai
+sumber energi alternatif; serta kualitas molekul hidrokarbon zat cair produk
+pirolisis dan nilai karakteristik produk padat pirolisis sampah tersebut melalui
+analisis proximate. Analisis proximate, meliputi kadar air; volatile matter; kadar
+abu; dan nilai kalor dianalisis sesuai ASTM D3173; Standard Method 2540 E;
+ASTM E830-87; dan ASTM D5865-03, sedangkan kualitas molekul hidrokarbon
+zat cair produk pirolisis menggunakan Gas Chromatography-Mass
+Spectrophotometry. Hasilnya bahan baku pirolisis memiliki kadar air, volatile
+matter, kadar abu, dan nilai kalor sebesar 1,11±0,04%; 97,68±0,75%;
+4,60±0,73%; dan 5.189,00±41,01 kkal/kg. Persentase produk pirolisisnya terdiri
+atas zat cair fase atas dan bawah, zat padat, dan zat gas sebesar 9,28% dan 6,65%;
+14,08%; dan 70,00%. Kualitas molekul hidrokarbon zat cair produk pirolisis pada
+fase atas memiliki nilai saturated hydrocarbon, unsaturated hydrocarbon,
+aromatics, non hydrocarbon sebesar 8,92%; 2,44%; 73,45%; dan pada fase bawah
+nilainya sebesar 12,98%; 2,05%; 49,45%; 35,40%. Keduanya memiliki distribusi
+atom C pada kriteria gasoline sebesar 83,98% dan 70,98%. Produk padat
+pirolisisnya memiliki kadar air, volatile matter, kadar abu, dan nilai kalor sebesar
+0,13±0,01%; 39,40±1,70%; 17,62±0,3%, dan 4.838,50±316,08 kkal/kg.
+Kata Kunci: analisis proximate, Gas Chromatography-Mass
+Spectrophotometry, Kota Surabaya, nilai kalor, pirolisis
+
+
+BAB I
+PENDAHULUAN
+1.1 Latar Belakang
+Peningkatan konsumsi energi dan penimbunan sampah merupakan dua
+permasalahan yang muncul seiring dengan pertumbuhan ekonomi dan
+pertambahan penduduk. Data Menteri Lingkungan Hidup pada tahun 2012
+menunjukkan bahwa rata-rata penduduk Indonesia menghasilkan sekitar 2,5 liter
+sampah per hari atau 625 juta liter dari jumlah total penduduk. Kondisi ini akan
+terus bertambah sesuai dengan kondisi lingkungan. Estimasi jumlah timbunan
+sampah di Indonesia pada tahun 2008 mencapai 38,5 juta ton/tahun dengan
+komposisi terbesar adalah sampah organik (58%), sampah plastik (14%), sampah
+kertas (9%) dan sampah kayu (4%). Sampah plastik dalam pengolahannya saat ini
+masih menjadi persoalan di Indonesia. Data dari Kementerian Lingkungan Hidup
+pada tahun 2012, menunjukkan bahwa jumlah sampah plastik yang terbuang di
+Indonesia mencapai 26.500 ton per hari. Sampah dunia ternyata didominasi oleh
+sampah plastik dengan persentase 32% (416.000.000 ton per hari). Jumlah
+sampah plastik yang terus meningkat dapat mengancam kestabilan ekosistem
+lingkungan, mengingat plastik yang digunakan saat ini adalah nonbiodegradable
+(plastik yang tidak dapat terurai secara biologis) (Juliastuti dkk., 2015).
+Status Lingkungan Hidup Daerah (SLHD) Kota Surabaya (2012)
+menunjukkan bahwa volume sampah yang masuk ke TPA sebesar 10.000 m3/hari.
+Timbulan sampah kota Surabaya tahun 2011 dengan jumlah rumah tangga
+806.794, yaitu 1.200 ton/hari. Komposisi sampah di Surabaya antara lain: sampah
+organik 79,19%, sampah kertas 8,6%, sampah plastik 1,64%, logam 1,11% , kayu
+dan lain-lain 9,46% (SLHD Surabaya, 2012).
+Sampah tersebut berjumlah sangat banyak sehingga harus dapat ditangani
+dengan baik dan benar. Sampah merupakan salah satu sumber penyakit. Secara
+langsung atau terbuka sampah adalah tempat bersarangnya parasit, bakteri, dan
+patogen. Secara tidak langsung sampah merupakan tempat vektor pembawa
+penyakit seperti kecoa, nyamuk, dan lalat. Penyakit yang dapat ditimbulkan antara
+lain: diare, disentri, cacing, dan demam berdarah (Ojolo dan Bamgboye, 2005).
+Salah satu upaya penanganan sampah yang telah dilakukan di Surabaya,
+yaitu melalui bank sampah. Bank Sampah Bina Mandiri (BSBM) merupakan bank
+sampah induk dengan 192 bank sampah binaan yang tersebar di seluruh wilayah
+di Surabaya. Peran bank sampah induk, diantaranya membantu pengelolaan bank
+sampah binaan dan sebagai tempat penampungan akhir sampah sebelum
+didistribusikan ke pabrik. Bank Sampah Bina Mandiri diharapkan mampu
+menjawab permasalahan sampah kota di Surabaya (Bank Sampah Bina Mandiri,
+2015).
+Sampah plastik memiliki jumlah yang cukup besar di bank sampah
+tersebut. Sampah plastik tersebut masih memiliki sifat aslinya, yaitu secara umum
+lebih ringan, bersifat isolator, dan mudah dalam perancangan. Sampah plastik
+dengan jumlah yang cukup besar dan sifatnya yang unggul membuat banyak
+industri plastik yang memanfaatkannya kembali sebagai bahan baku produksi.
+Akan tetapi, dibalik keunggulan tersebut limbah plastik dengan jumlah yang
+cukup banyak sangat berpotensi menimbulkan masalah bagi lingkungan.
+Penyebab utamanya karena sampah plastik perlu waktu berpuluh-puluh tahun
+untuk didegradasi secara biologis. Para pakar lingkungan dan ilmuwan dari
+berbagai disiplin ilmu telah melakukan banyak penelitian dan tindakan untuk
+mengatasi limbah plastik. Beberapa alternatif yang digunakan untuk mengurangi
+volume sampah plastik dibagi dalam tiga macam proses, yaitu daur ulang,
+transformasi termal, dan transformasi biologis. Proses transformasi termal terbagi
+tiga macam pengolahan, yaitu combustion, gasification, dan pyrolysis (pirolisis).
+Pirolisis adalah salah satu metode pengolahan yang dapat dengan mudah
+dilakukan dan menghasilkan sumber energi alternatif (Rodiansono dkk., 2007).
+Pirolisis, yaitu pemanasan pada kondisi bebas oksigen. Pada proses
+pirolisis umumnya adalah mendegradasi suatu senyawa yang terdapat dalam suatu
+material untuk memecahnya menjadi senyawa parsial. Pada penelitian yang sudah
+sering dilakukan lebih bertujuan untuk mengambil senyawa hidrokarbon dalam
+suatu bentuk ikatan plastik. Senyawa turunan hidrokarbon mempunyai kegunaan
+yang sangat banyak dan mencakup semua bidang kehidupan. Hidrokarbon
+(minyak dan gas) mayoritas digunakan sebagai bahan bakar untuk menghasilkan
+energi (Rodiansono dkk., 2007).
+Pirolisis berdasarkan jenisnya terbagi menjadi dua, yaitu pirolisis primer
+dan pirolisis sekunder. Pirolisis primer adalah proses konversi termal yang terjadi
+pada suhu 150 °C–300 °C. Proses ini terjadi karena adanya energi panas yang
+mendorong terjadinya oksidasi sehingga suatu senyawa karbon yang komplek
+terurai sebagian besar menjadi karbon atau arang. Pirolisis sekunder adalah proses
+lanjutan perubahan arang atau karbon lebih lanjut menjadi karbon monoksida, gas
+hidrogen dan gas hidrokarbon dengan suhu lebih dari 300 °C (Juliastuti dkk.,
+2015).
+Secara umum pirolisis sebagai pengolahan sampah yang dapat mengurangi
+berat dan volume sampah, juga dapat menghasilkan produk lain. Produk pirolisis
+terbagi menjadi tiga, yaitu: gas yang mengandung nilai kalori rendah sampai
+sedang sehingga dapat digunakan untuk bahan bakar alternatif, berwujud padat
+dalam bentuk char atau residu hasil pembakaran sampah yang mengandung nilai
+kalori tinggi, dan wax yang merupakan sumber energi dari bahan kimia. Proses
+pirolisis juga menghasilkan produk cair yang mengandung bahan-bahan
+kompleks. Cairan yang dihasilkan dari proses pirolisis merupakan campuran
+kompleks senyawa organik, antara lain stirena, etil-benzena, toluene, dan lain lain
+(López dkk., 2010).
+Pada penelitian Juliastuti dkk. (2015), zat cair produk pirolisis memiliki
+molekul hidrokarbon yang sama dengan fraksi minyak bumi sehingga diharapkan
+dapat digunakan sebagai bahan bakar cair. Analisis karakter produk zat cair
+dilakukan menggunakan Gas Chromatography-Mass Spectrometry (GC-MS).
+Analisis GC-MS membagi produk zat cair dalam beberapa kelas, yaitu
+cycloparaffin, oleffin, n-paraffin, dan aromatics.
+Pada penelitian Rachmawati dan Herumurti (2015), pengolahan sampah
+secara pirolisis perlu dilakukan analisis karakteristik awal sampah plastik dan
+analisis karakteristik akhir zat padat hasil pirolisis dengan analisis proximate.
+Bahan yang digunakan, yaitu campuran plastik High Density Polyethylen (HDPE),
+Polyethylene Terephtalat (PETE), dan Poly Styrene (PS). Metode yang
+digunakan, yaitu analisis proximate dan nilai kalor bertujuan untuk mengetahui
+kualitas produk pirolisis. Beberapa parameter analisis proximate yaitu kadar air,
+volatile matter, dan kadar abu. Hasil analisis proximate dapat memetakan produk
+ke dalam tipe Refuse Derived Fuel (RDF).
+RDF merupakan salah satu teknik penanganan sampah dengan mengubah
+sampah menjadi sesuatu yang bermanfaat. RDF dapat bersumber dari sampah
+tanpa proses lanjut dan dapat juga bersumber dari pengolahan lanjut sampah
+sehingga memiliki nilai lebih seperti wax atau char hasil pirolisis. Keuntungan
+dalam penggunaan RDF sebagai energi adalah kemudahan dan ekonomis dalam
+pembuatan serta hasil pembakarannya sangat ramah lingkungan dibandingkan
+dengan penggunaan energi fosil berupa batu bara dan minyak bumi (Brotman
+dkk., 2003). Produksi dan pemanfaatan RDF sebagai bahan bakar alternatif juga
+sudah dikembangkan di Indonesia. Industri seperti PT. Indocement adalah salah
+satu perusahaan yang memanfaatkan briket untuk proses produksi (Fatimah,
+2015). Semakin pesatnya jumlah industri saat ini, mengakibatkan kebutuhan
+energi listrik dan lainnya juga semakin meningkat dari tahun ke tahun. RDF dapat
+menjadi bahan bakar tambahan yang dapat digunakan bersama batu bara untuk
+industri semen, kertas, dan lain-lain (Nithikul, 2007).
+Gao (2010), dalam penelitiannya menjelaskan bahwa komposisi sampah
+plastik yang digunakan sebagai bahan baku pirolisis dipilih berdasarkan
+ketersediannya. Mayoritas jenis sampah plastik dalam suatu kota tidak memiliki
+perbedaan yang jauh, yaitu didominasi oleh plastik HDPE dan LDPE. Plastik jenis
+HDPE dan LDPE merupakan plastik yang paling banyak digunakan oleh
+masyarakat.
+Sampah plastik dalam lokasi sampling akan diurutkan berdasarkan jenis
+dan timbulan sampah. Urutan sampah plastik digunakan untuk menentukan
+berbagai komposisi bahan. Pemilihan komposisi jenis plastik yang dilakukan
+bertujuan untuk menjaga ketersediaan bahan baku agar proses produksi dapat
+terus berlanjut (Gao, 2010).
+Berdasarkan hal tersebut, dalam penelitian dilakukan uji produk pirolisis
+sampah plastik di Surabaya untuk mengetahui potensi sumber energi alternatif
+yang dapat dihasilkan. Sampah plastik yang digunakan sebagai bahan baku
+pirolisis didapatkan dari BSBM. Penelitian ini menguji parameter pada analisis
+proximate, yaitu kadar air, volatile matter, dan kadar abu. Parameter lain meliputi
+analisis nilai kalor dan analisis GC-MS. Parameter kontrol pada penelitian ini
+adalah suhu dan waktu tinggal. Merujuk pada penelitian Gao (2010),
+perbandingan komposisi plastik yang digunakan adalah 50:25:25. Komposisi
+plastik tersebut ditentukan berdasarkan urutan timbulan terbanyak.
+
+1.2 Rumusan Masalah
+Rumusan masalah dalam penelitian ini sebagai berikut:
+1. Berapa nilai karakteristik bahan baku pirolisis melalui analisis proximate
+(kadar air, volatile matter, dan kadar abu) dan analisis nilai kalor?
+2. Berapakah persentase zat cair, zat padat, dan zat gas produk pirolisis sampah
+plastik Kota Surabaya yang berpotensi dapat digunakan sebagai sumber energi
+alternatif berdasarkan mass balance analysis?
+3. Bagaimana kualitas molekul hidrokarbon zat cair produk pirolisis sampah
+plastik Kota Surabaya dengan analisis Gas Chromatography-Mass
+Spectrophotometry (GC-MS)?
+4. Berapa nilai karakteristik produk padat pirolisis sampah plastik melalui
+analisis proximate (kadar air, volatile matter¸dan kadar abu) dan analisis nilai
+kalor?
+1.3 Tujuan Penelitian
+Tujuan kegiatan penelitian ini adalah:
+1. Mengetahui nilai karakteristik bahan baku pirolisis melalui analisis proximate
+(kadar air, volatile matter¸ dan kadar abu) dan analisis nilai kalor.
+2. Mengetahui persentase zat cair, zat padat, dan zat gas produk pirolisis sampah
+plastik Kota Surabaya yang berpotensi dapat digunakan sebagai sumber energi
+alternatif berdasarkan mass balance analysis.
+
+3. Mengetahui nilai jumlah karakteristik molekul hidrokarbon zat cair produk
+pirolisis sampah plastik Kota Surabaya dengan analisis Gas Chromatography-
+Mass Spectrophotometry (GC-MS).
+4. Mengetahui nilai karakteristik produk padat pirolisis sampah plastik melalui
+analisis proximate (kadar air, volatile matter¸ dan kadar abu) dan analisis nilai
+kalor.
+1.4 Ruang Lingkup
+Ruang lingkup penelitian ini adalah:
+1. Penelitian ini menjelaskan mengenai potensi produk pirolisis sampah plastik
+Kota Surabaya sebaga sumber energi alternatif.
+2. Penelitian ini hanya menguji parameter produk pirolisis berwujud padat dan
+cair yang berpotensi sebagai sumber energi alternatif.
+3. Pada penelitian ini produk gas dihitung dengan prinsip mass balance
+analysis.
+4. Penelitian ini memanfaatkan sampah plastik dari BSBM Kota Surabaya
+sebagai bahan baku pirolisis.
+5. Jenis sampah plastik yang digunakan adalah tiga jenis sampah plastik yang
+mempunyai jumlah timbulan terbanyak, yaitu jenis PETE, LDPE, dan lainlain.
+6. Komposisi jenis plastik yang digunakan sebagai bahan baku pirolisis
+memiliki perbandingan 50:25:25 berdasarkan tiga urutan teratas dan dengan
+berat total sampel sebesar 200 g.
+
+1.5 Manfaat Penelitian
+aaaaaaPenelitian ini diharapkan dapat memberikan manfaat, yaitu memberikan
+gambaran tentang potensi sumber energi alternatif dengan prinsip waste to
+energy.

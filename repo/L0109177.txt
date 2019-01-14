@@ -1,0 +1,279 @@
+﻿KARAKTERISTIK GELOMBANG SIGNIFIKAN DI SELAT KARIMATA DAN LAUT JAWA
+BERDASARKAN RERATA ANGIN 9 TAHUNAN (2005-2013)
+
+PENDAHULUAN
+Indonesia merupakan Negara kepulauan
+yang terbesar di dunia. Setiap pulaunya
+dipisahkan oleh lautan yang berjauhan
+jaraknya sehingga, segala aktivitas
+penduduknya mengandalkan transportasi laut
+sebagai contoh dalam distribusi bahan
+makanan, bahan baku energi, bahan baku
+bangunan, dan lain sebagainya. Aktivitas
+kependudukan di Indonesia saat ini masih
+terpusat di dua pulau yaitu Pulau Jawa dan
+Pulau Sumatera. Lalu lintas pelayaran di
+wilayah ini sangatlah padat.
+Berdasarkan data dari Badan Pusat
+Statistik (BPS) pada tahun 2012, penduduk
+Indonesia mencapai sekitar 257.516.167 jiwa.
+Sementara itu, hasil sensus penduduk tahun
+2010 menunjukkan jumlah penduduk Indonesia
+mencapai 237.641.326 jiwa, dengan besar
+wilayah daratan Negara Indonesia mencapai
+luas sampai dengan 1.904.569 km2. (BPS,
+2014).Aktivitas transportasi laut ini sangat
+bergantung pada kondisi cuaca maritim antara
+lain angin dan gelombang. Gelombang laut
+yang terjadi dapat dipicu oleh berbagai hal
+seperti angin, aktivitas lempeng bumi, akibat
+gerakan kapal, pasang surut, dan arus laut
+(Pranowo, 2014). Namun yang paling sering
+terjadi adalah gelombang yang dibangkitkan
+oleh angin. Terutama jika terjadi angin
+kencang, biasanya akan mengakibatkan
+gelombang tinggi. Cuaca buruk seperti
+gelombang tinggi dan angin kencang tersebut
+sering kali menghambat aktivitas pelayaran.
+Jika prediksi gelombang laut ini dapat
+dilakukan dengan baik, maka tindakan
+antisipasi dapat diambil oleh para pengguna
+transportasi laut. Penggerak utama gelombang
+di laut adalah medan angin yang tepat berada
+diatasnya, sehingga kondisi gelombang sangat
+tergantung pada kondisi angin lokal (Purba dan
+Pranowo, 2015).
+Pada abad IX-X Selat Karimata sampai
+dengan Pulau Jawa merupakan salah satu jalur
+perdagangan laut. Dimana pada era tersebut
+perdagangan melalui jalur lalu lintas laut dari
+Selat Malaka sampai Laut Jawa di kuasai oleh Kerajaan Sriwijaya. Ini terbukti dengan banyak
+ditemukannya benda arkeologi yang tenggelam
+pada daerah jalur pelayaran antara Selat
+Malaka menuju Laut Jawa (Pranowo et al.,
+2012).
+Gelombang yang terjadi di laut
+merupakan gerakan naik turunnya muka laut
+yang timbul akibat adanya gangguan pada
+badan air, misalnya angin, gempa bumi akibat
+gerakan tektonik maupun vulkanik, dan gaya
+tarik benda-benda langit. Gelombang adalah
+profil elevasi permukaan laut yang didefinisikan
+dari suatu titik still water level (SWL) yang akan
+membentuk puncak berikutnya. Elevasi
+permukaan air laut selalu bernilai positif
+sedangkan tinggi gelombang dapat bernilai
+positif (Holthuijen, 2007).
+Gelombang laut merupakan salah satu
+komponen laut yang mempunyai pengaruh
+besar pada aktivitas kehidupan yang berada di
+lautan, kebutuhan untuk memperkirakan
+gelombang laut sendiri mulai di rasa menjadi
+salah satu kebutuhan yang sangat penting,
+dengan adanya informasi gelombang laut di
+kemudian hari maka segala aktivitas kehidupan
+yang terpengaruh dengan gelombang laut
+seperti transportasi laut dan bernavigasi pada
+khususnya akan dapat dipersiapkan dengan
+baik (Deny, 2004; Purba dan Pranowo, 2015).
+Di Laut Jawa bagian barat, gelombang
+secara fisis lebih mendapat pengaruh dari Laut
+Cina Selatan di bandingkan dengan Samudera
+Hindia. Hal ini dikarenakan celah yang
+menghubungkan Laut Cina Selatan yakni Selat
+Karimata lebih luas dibanding celah dari
+Samudera Hindia yakni Selat Sunda (Sofian
+dan Wijanarto, 2008; Sofian, 2011).
+Transfer energi dari angin ke
+gelombang dapat terjadi karena momentum
+stress permukaan oleh angin. Fluktuasi
+tekanan udara berhubungan dengan aliran
+udara di atas permukaan laut dan cukup untuk
+menyebabkan gangguan permukaan air laut
+(WMO, 1998).
+METODOLOGI PENELITIAN
+Metode penelitian diawali dengan
+melakukan studi pustaka tentang teori
+gelombang, studi pemrograman Wave-Watch
+III (Tolman, 2002), dilanjutkan dengan
+mempelajari tulisan, tugas akhir atau makalah
+terdahulu tentang gelombang serta
+mempelajari keadaan gelombang di Selat
+Karimata dan Laut Jawa.
+Dalam menentukan estimasi
+gelombang signifikan di Selat Karimata dan
+Laut Jawa terdapat 2 parameter yang harus di
+perhatikan yaitu kondisi angin dan ketinggian
+gelombang (Kurniawan dkk., 2012; Pranowo,
+2012). Selain itu juga diperhatikan masalah
+batimetri pada daerah tersebut yang menjadi
+bagian penting dari analisis tinggi gelombang
+itu sendiri (Purba dan Pranowo, 2015). Data
+yang digunakan adalah angin rerata harian
+2005 – 2013 meter diatas permukaan laut yang
+digunakan diambil dari NCEP NOAA (Tolman &
+Chalikov, 1996; Saha et al., 2014), dan
+batimetri hasil digitasi dari Peta Laut No. 66,
+149 dan S-23 yang melingkupi Selat Karimata
+dan Laut Jawa Dishidros TNI-AL (Sofian dan
+Wijanarto, 2008). Adapun visualisasi hasil
+simulasi gelombang yang ditampilkan berupa
+rerata 2005-2013 dilakukan dengan
+menggunakan Ferret dengan resolusi spasial
+20 arc-minute atau ±37 km (Hankin et al.,
+2007). Diagram alir pemodelan gelombang
+signifikan dapat dilihat pada Gambar 1. Pada
+analisis karakteristik gelombang signifikan ini
+tidaklah dilakukan validasi, karena model Wave
+Watch III telah divalidasi oleh Sofian et al.
+(2008) di Laut Jawa, dan seluruh perairan
+Indonesia pada umumnya dengan tingkat
+akurasi sebesar 81% (Sofian, 2010).
+
+Gambar 2. Distribusi pola pergerakan angin (streamline) secara umum di Indonesia rerata tahunan
+2005 – 2010 dengan sumber data dari NCEP Reanalysis Data.
+
+Gambar 3. Distribusi pola pergerakan angin (streamline) secara umum di Indonesia rerata tahunan
+2011 – 2013 dengan sumber data dari NCEP Reanalysis Data.
+
+HASIL DAN PEMBAHASAN
+Karakteristik Pola Angin
+Secara umum rerata tahunan 2005-2013
+pola angin di Selat Karimata dan Laut Jawa di
+Indonesia adalah bergerak dari Selatan-
+Tenggara menuju ke Utara-Baratlaut, lihat
+Gambar 2 – 3. Namun apabila direratakan
+pada bulan Januari yang mewakili kondisi
+puncak dari musim Barat, lihat Gambar 4 - 5,
+maka pola angin umumnya bergerak dari
+Utara-Baratlaut menuju Selatan-Timur.
+Pengaruh angin monsun kental mempengaruhi
+kedua wilayah perairan tersebut (Purba dan
+Pranowo, 2015). Berdasarkan data kecelakaan
+kapal perang dan dagang (karamnya kapal)
+pada kurun waktu tahun 1400-1900 era jalur
+perdangangan laut yang dikenal sebagai jalur
+sutra laut, pada zaman itu dimana teknologi
+perkapalan (gyro compass, weather system,
+radar, sonar) belum secanggih sekarang, 91%
+kecelakaan kapal di Selat Karimata dan Laut
+Jawa adalah diakibatkan oleh kondisi cuaca
+buruk di laut, terutama pada Musim Barat
+(Pranowo et al., 2012). Dalam hal ini faktor
+cuaca seperti angin dan gelombang sangatlah
+penting bagi pergerakan kapal-kapal (layar)
+perang/dagang tersebut. Selat Karimata hingga
+saat ini masih menjadi jalur perdanganan yang
+dikenal sebagai Alur Lintas Kepulauan
+Indonesia (ALKI) I dan Laut Jawa menjadi
+salah satu alur pelayanan nasional yang
+penting, terutama pada masa sekarang (2014-
+2019) berperan dalam jalut tol laut nasional.
+Pergerakan angin di Selat Karimata
+mendapatkan pengaruh dari utara khatulistiwa
+yakni dari perairan Laut Cina Selatan. Selain itu
+secara topografi, Selat Karimata mempunyai
+karakteristik daerah terbuka, sehingga angin
+akan sangat mudah bergerak pada wilayah
+tersebut. Rerata kecepatan angin tertinggi
+wilayah di Selat Karimata adalah terjadi pada
+Januari yang mewakili musim Barat (5-8
+meter/detik) dan Agustus yang mewakili Musim
+Timur (5-9 meter/detik), lihat Gambar 4 dan
+Tabel 1.
+
+Gambar 4. Distribusi pola angin di Selat Karimata rerata Januari 2005-2013
+
+Gambar 5. Distribusi pola angin di Laut Jawa rerata Januari 2005-2013
+
+Di Laut Jawa rerata kecepatan angin
+tertinggi terjadi pada puncak musim barat
+(Januari) mencapai 4-6 meter/detik, dan musim
+timur (Agustus) 4-8,5 meter/detik, berdasarkan
+rerata 9 tahunan (2005-2013), lihat Gambar 5
+dan Tabel 1. Hal ini terjadi karena minimnya
+pengaruh angin dari Laut Cina Selatan dan dari
+Samudera Hindia Tenggara (lihat Gambar 2 -
+3). Adapun karakteristik topografi wilayah Laut
+Jawa merupakan wilayah tertutup sehingga
+medan angin yang diperoleh tidak seluas
+seperti wilayah Selat Karimata.
+Karakteristik Gelombang Signifikan
+Karakteristik gelombang signifikan yang
+dibangkitkan oleh angin di Selat Karimata dan
+Laut Jawa terjadi musim barat (Januari) dan
+musim timur (Agustus) pada setiap tahunnya,
+lihat Tabel 1. Khususnya pada puncak musim
+barat (Januari), gelombang signifikan mencapai
+1,5-3 meter di Selat Karimata, dan 0,5-2,5
+meter di Laut Jawa. Ekstensifikasi frekuensi
+kemunculannya sering terjadi hingga bulan
+Februari, dimana tinggi gelombang signifikan di
+Laut Jawa kisarannya adalah tetap (0,5-2,5
+meter), sedangkan di Selat Karimata sedikit
+mengalami penurunan (1-2,5 meter). Lihat
+Gambar 6 – 7 dan Tabel 1.
+
+Gambar 6. Gelombang signifikan di Selat Karimata untuk Januari dan Februari berdasarkan rerata
+angin 9 tahunan (2005-2013)
+
+Gambar 7. Gelombang signifikan di Laut Jawa untuk Januari dan Februari berdasarkan rerata angin
+9 tahunan (2005-2013).
+
+Propagasi gelombang signifikan adalah
+mengikuti pola pergerakan angin. Gelombang
+signifikan pada periode Januari hingga Februari
+bergerak dari arah Laut China Selatan
+memasuki Selat Karimata yang kemudian
+menuju ke Laut Jawa dan melanjutkan
+propagasinya ke arah timur. Peredaman tinggi
+gelombang di Laut Jawa terjadi diakibatkan
+oleh kondisi batimetri yang mendangkal (slope
+yang landai).
+Rekomendasi Prediksi Gelombang
+Signifikan Untuk Keselamatan Pelayaran
+
+
+Berdasarkan hasil simulasi gelombang
+signifikan rerata bulanan menggunakan angin
+bulanan rerata 9 tahunan (2005-2013),
+direkomendasikan kepada seluruh pengguna
+transportasi laut, agar menghindari pelayaran
+di Selat Karimata dan Laut Jawa pada Bulan
+Januari dan Pebruari, dimana maksimum tinggi
+gelombang mencapai 2,5-3 meter. Demikian
+juga perlu dihindari pada Nopember dan
+Desember (lihat Tabel 1). Rekomendasi ini
+ditujukan kepada kapal-kapal yang tinggi
+lambung (timbulnya) kurang dari 3 meter.
+Selain dari faktor tinggi kapal, tentunya ada
+beberapa faktor lain yang mempengaruhi
+keselamatan dalam pelayaran yang tetap perlu
+diperhatikan, seperti contohnya yakni agar
+kapal tidak mengangkut muatan yang melebihi
+daya kapasitas muat.
+Tabel 1. Rerata 9 tahunan (2005-2013) kecepatan angin dan tinggi gelombang di Selat Karimata dan
+Laut Jawa.
+
+
+KESIMPULAN DAN REKOMENDASI
+Kesimpulan
+Karakteristik gelombang signifikan
+yang dibangkitkan oleh angin di Selat
+Karimata dan Laut Jawa terjadi musim barat
+(Januari) dan musim timur (Agustus) pada
+setiap tahunnya. Khususnya pada puncak
+musim barat (Januari), gelombang signifikan
+mencapai 1,5-3 meter di Selat Karimata, dan
+0,5-2,5 meter di Laut Jawa. Ekstensifikasi
+frekuensi kemunculannya sering terjadi hingga
+bulan Februari, dimana tinggi gelombang
+signifikan di Laut Jawa kisarannya adalah
+tetap (0,5-2,5 meter), sedangkan di Selat
+Karimata sedikit mengalami penurunan (1-2,5
+meter). Direkomendasikan kepada seluruh
+pengguna transportasi laut, agar menghindari
+pelayaran di Selat Karimata dan Laut Jawa
+pada Bulan Januari dan Pebruari, dengan
+menggunakan tinggi lambung kapal kurang
+dari 3 meter.

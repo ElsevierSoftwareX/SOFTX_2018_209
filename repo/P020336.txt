@@ -1,0 +1,62 @@
+﻿Penelitian ini adalah tentang pengamatan GPS untuk monitoring deformasi bendungan Jatibarang menggunakan software GAMIT 10.5. Batasan masalah dari penelitian ini adalah bendungan Jatibarang yang berlokasi di kecamatan Gunung Pati, Kota Semarang, Jawa Tengah. Metode penelitian yang digunakan adalah menggunakan GPS dual frequency pada enam titik pantau yang terletak di bendung utama. Pengolahan data pengamatan menggunakan Scientific Software GAMIT 10.5. Penelitian dilakukan selama tiga periode: Maret, April dan Mei 2014. Tujuan dari penilitian antara lain mengetahui kondisi deformasi yang terjadi di Bendungan Jatibarang, mengetahui cara monitoring deformasi bendungan secara teliti menggunakan alat ukur GPS dual frequency dan mengetahui ketelitian pengolahan data GPS yang menggunakan Scientific Software GAMIT 10.5 pada monitoring deformasi. Tinjaun pustaka yang digunakan dalam penelitian ini antara lian bendungan, deformasi, GPS, metode monitoring deformasi bendungan, prinsip monitoring deformasi bendungan dengan GPS, TEQC (Translation, Editing and Quality Check) dan GAMIT/GLOBK. Pelaksanaan yang dilakukan meliputi pengumpulan data dengan pengamatan survei GPS dan pengolahan data dengan metode post-processing. Setelah melalui pengolahan GAMIT dan GLOBK maka didapatkan nilai perubahan koordinat dengan rata-rata nilai perubahan koordinat pada sumbu X = 0,879 mm, sumbu Y = 0,614 mm dan sumbu Z = 1,114 mm Sehingga kesimpulan akhir dari penelitian ini adalah bendungan Jatibarang mengalami perubahan koordinat secara numeris. Namun saat diuji statistik dengan selang kepercayaan 95%, dinyatakan bahwa keenam titik monitoring bendungan tidak mengalami pergeseran koordinat secara signifikan. Jadi bendungan Jatibarang tidak mengalami deformasi. 
+Kata kunci: bendungan, deformasi, GPS, GAMIT
+
+
+ BAB I 
+PENDAHULUAN 
+1.1 Latar Belakang 
+Bendungan merupakan salah satu sarana multifungsi yang memiliki peranan penting bagi kehidupan manusia. Bendungan memiliki beberapa manfaat penting antara lain irigasi, penyediaan air bersih, sebagai PLTA, pengendali banjir, perikanan, pariwisata dan olahraga air. Sejak tahun 1900 sampai dengan sekarang Indonesia memiliki lebih dari 100 buah bendungan mulai dari tipe waduk lapangan hingga bendungan besar baik yang dikelola oleh pemerintah maupun instansi swasta. 
+Begitu juga manfaat yang diharapkan dari proyek pembangunan bendungan Jatibarang sebagai pengendali banjir dari Kali Kreo, Kali Garang, dan Kanal Banjir Barat. Di kawasan Semarang bawah merupakan lokasi langganan banjir saat musim penghujan. Namun saat musim kemarau bendungan ini akan berfungsi untuk menangani masalah kekurangan air bersih bagi warga Semarang. 
+Kegiatan eksploitasi dan pemeliharaan suatu bangunan sipil merupakan suatu kegiatan penting agar bangunan tersebut dapat berfungsi secara normal, sehingga memberi manfaat yang sesuai dengan rencana teknis dan efektif sepanjang umur bangunan tersebut, bukan malah membahayakan masyarakat umum. 
+
+Suatu bangunan jika mendapatkan tekanan maka akan mengalami perubahan dimensi ataupun bentuk. Seperti halnya yang dialami bendungan, jika tubuh bendungan mendapatkan tekanan dari efek loading air danau bendungan. Akibat gaya tekanan ini maka tubuh bendungan kemungkinan akan dapat mengalami deformasi. Karena bendungan memiliki peranan yang cukup penting bagi kehidupan masyarakat, maka diperlukan suatu bentuk pemeliharaan dan perawatan yang memadai guna menghindari kerusakan pada bendungan tersebut. Salah satu bentuk pemeliharaan dan perawatan tersebut adalah dengan melakukan pemantauan deformasi pada tubuh bendungan. Pemantauan deformasi pada tubuh bendungan harus dilakukan secara berkala dan terus menerus. 
+Pemantauan secara berkala, dengan metode observasi berulang serta pencatatan mengenai perilaku bendungan dapat dilakukan dengan bantuan instrumentasi atau peralatan lain. Data hasil pemantauan tersebut dapat menggambarkan perilaku suatu bendungan, sehingga gejala-gejala yang akan terjadi dapat diketahui secara dini. 
+
+Bendungan merupakan bangunan air yang mempunyai potensi yang tinggi, tetapi juga mempunyai resiko yang tinggi pula. Letak dari bendungan Jatibarang berada di Semarang yang dekat dengan Kota Semarang, maka untuk menjaganya perlu adanya perilaku yang harus dilakukan karena apabila mengarah dalam bahaya dapat langsung dilakukan tindakan yang preventif atau dapat langsung dilakukan tindakan untuk mengurangi bahaya dari bendungan tersebut. 
+Selain itu Bendungan Jatibarang ini juga terletak di sesar-sesar pada batuan dua formasi yaitu formasi damar dan formasi kerek. Struktur sesar ini merupakan salah satu penyebab daerah tersebut mempunyai jalur “lemah”, sehingga daerahnya mudah tererosi dan terjadinya gerakan tanah. Selain terletak di dua formasi tersebut juga dapat melihat kondisi sekitar bendungan yaitu seperti waduk. Di sekitar bendungan ini banyak yang tanahnya sudah bergerak sehingga akan menimbulkan potensi bahaya yang bisa mempengaruhi perubahan pada tubuh bendungan. 
+Pengamatan deformasi pada bendungan Jatibarang belum dilakukan disebabkan karena bendungan belum diisi dengan air. Oleh karena itu bendungan ini belum mempunyai beban sehingga tidak ada pergerakan tanah ataupun deformasi bendungan. Meskipun belum terdapat deformasi akan tetapi terdapat potensi yang perlu diamati. Dalam pengamatan ini perubahan secara vertikal maupun horizontal yang kemungkinan terjadi sangat kecil dalam hitungan cm bahkan mm. Dalam tubuh bendungan akan mengalami deformasi oleh beban air yang akan menjadi sebuah potensi masalah jika telah dilakukan pengisian air. Oleh karena itu diperlukan ahli teknik geodesi yang mampu melakukan pengamatan I-3 tersebut dengan lebih baik dan lebih teliti agar dapat dilakukan penanganan sebelum terjadi bahaya ataupun sebagai tindakan perawatan bendungan. 
+
+1.2 Rumusan Masalah 
+Rumusan masalah dalam penelitian tugas akhir ini adalah: 
+1). Bagaimana cara monitoring deformasi di Bendungan Jatibarang secara teliti? 
+2). Bagaimana kondisi deformasi yang dialami Bendungan Jatibarang? 
+3). Bagaimana ketelitian pengolahan data GPS yang menggunakan Scientific Software GAMIT 10.5 untuk monitoring deformasi di Bendungan Jatibarang? 
+
+1.3 Batasan Masalah 
+Dalam penulisan tugas akhir ini memiliki batasan-batasan sebagai berikut: 
+1). Daerah penelitian Tugas Akhir adalah bendungan Jatibarang di Kota Semarang, Jawa Tengah (Kec. Gunung Pati dan Kec. Mijen), (Kel. Kandri, Kel. Jatibarang, Kel. Jatirejo, Kel. Kedungpare), yang terletak pada koordinat 7o02’09.7” LS dan 110o21’02.6” BT. 
+2). Pengumpulan data enam titik kontrol Bendungan Jatibarang dengan melakukan pengukuran GPS dual frequency secara statik. 
+3). Pengolahan data pengamatan GPS menggunakan Scientific Software GAMIT 10.5 sehingga dihasilkan koordinat titik pengamatan. 
+4). Penelitian berfokus pada deformasi pada bendung utama (main dam) Bendungan Jatibarang yang terjadi pada bulan Maret-Mei 2014. 
+
+Gambar I.1. Lokasi Bendungan Jatibarang 
+(http://loketpeta.pu.go.id/wp-content/uploads/media-peta/citra/resolusi-tinggi/33Jatibarang_detilplan_image10000_topo_postinun.gif) 
+
+1.4 Maksud dan Tujuan 
+Maksud dari penelitian ini adalah: 
+1). Mengetahui cara monitoring deformasi di Bendungan Jatibarang secara teliti menggunakan alat ukur GPS dual frequency. 
+2). Mengetahui kondisi deformasi yang terjadi di Bendungan Jatibarang. 
+3). Mengetahui ketelitian pengolahan data GPS yang menggunakan Scientific Software GAMIT 10.5 pada monitoring deformasi. 
+
+Tujuan dari penelitian ini yaitu untuk mengetahui dinamika deformasi yang terjadi pada bendung utama (main dam) Bendungan Jatibarang.
+
+1.5 Metodologi Penelitian 
+Metodologi penelitian pada penulisan Tugas Akhir ini adalah: 
+a. Studi literatur mengenai semua informasi yang terkait dengan penyusunan penelitian tugas akhir. 
+b. Pengadaan data dengan melakukan pengukuran deformasi menggunakan GPS dual frequency. 
+c. Melakukan proses pengolahan data menggunakan Scientific Software GAMIT 10.5. 
+d. Hasil monitoring deformasi yang didapatkan dari pergeseran posisi titik pengamatan GPS. 
+
+1.6 Sistematika Penulisan 
+Sistematika penulisan Tugas Akhir ini adalah sebagai berikut: 
+BAB I PENDAHULUAN 
+Bab ini menjelaskan tentang latar belakang, rumusan masalah, ruang lingkup penelitian, maksud dan tujuan penulisan, metodologi penelitian, dan sistematika penulisan. 
+BAB II TINJAUAN PUSTAKA 
+Bab ini menjelaskan tentang definisi bendungan, deformasi, metode monitoring deformasi bendungan, prinsip monitoring deformasi bendungan menggunakan GPS, dan GAMIT/GLOBK. 
+BAB III PELAKSANAAN PENELITIAN 
+Bab ini menjelaskan tentang tahapan-tahapan pelaksanaan penelitian berupa tahap persiapan dan pelaksanaan pengumpulan data yang digunakan dalam penelitian, dan strategi pengolahan data menggunakan scintiefic software GAMIT 10.5, serta proses perhitungan deformasi. 
+BAB IV HASIL DAN PEMBAHASAN 
+Bab ini menjelaskan tentang pengolahan data beserta analisis dan pembahasan mengenai monitoring deformasi.
+
+BAB V PENUTUP 
+Bab ini berisi kesimpulan dan saran dari hasil penelitian. I-1

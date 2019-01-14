@@ -1,0 +1,175 @@
+﻿Penelitian ini secara umum bertujuan untuk memberikan bukti empiris atas reaksi
+investor terhadap pengungkapan Management's Discussion and Analysis pada
+perusahaan yang terdaftar di Bursa Efek Indonesia periode 2011- 2013. Motivasi
+penelitian ini adalah belum ada penelitian di Indonesia mengenai penyajian
+MD&A mempengaruhi keputusan investor untuk melakukan investasi pada suatu
+perusahaan, yaitu reaksi pasar yang digambarkan oleh return saham dan trading
+volume activity (TVA).
+Operasional variabel dalam penelitian ini adalah reaksi pasar yang diproksikan
+dengan return saham dan trading volume activity (TVA). Data dalam penelitian
+ini merupakan data sekunder yang diperoleh dari Annual Report perusahaan yang
+terdaftar di Bursa Efek Indonesia (BEI), data Corporate Governance Perception
+Index (CGPI) hasil survei The Indonesian Institute of Corporate Governance
+(IICG) periode 2012-2014, daftar Historical Prices Yahoo Finance periode 2012-
+2014, dan Majalah SWA periode 2012-2014. Terdapat 827 sampel dalam
+penelitian ini dengan periode 2011-2013. Kemudian, pengujian hipotesis
+dilakukan dengan menggunakan uji regresi linier berganda dan uji nonparametrik
+korelasi parsial.
+Hasil penelitian menunjukkan bahwa hipotesis pertama dinyatakan terdukung
+karena terdapat hubungan yang positif signifikan pengungkapan MD&A terhadap
+return saham, dan hipotesis kedua dinyatakan terdukung yaitu terdapat pengaruh
+positif signifikan pengungkapan MD&A terhadap trading volume activity (TVA).
+Penelitian ini juga menggunakan analisis tambahan yaitu analisis paired sample ttest
+untuk mengetahui terdapat perbedaan harga saham serta trading volume
+activity (TVA) sebelum dan sesudah window period 5 hari pada perusahaan yang
+terdaftar di BEI periode 2011-2013. Adapun kontribusi penelitian ini adalah
+diharapkan dapat mendorong perusahaan untuk menyajikan MD&A secara
+lengkap dan terbuka sehingga dapat menarik minat investor untuk melakukan
+investasi pada perusahaan tersebut yang dapat dilihat dari kenaikan harga saham
+dan volume perdagangan yang tinggi. Dengan meningkatnya respon pasar maka
+nilai perusahaan (value of firm) akan meningkat.
+Kata kunci: Management's Discussion and Analysis (MD&A), Reaksi Pasar,
+Return Saham, Trading Volume Activity (TVA).
+
+
+
+BAB I
+PENDAHULUAN
+1.1 Latar Belakang
+Pasar modal sebagai sarana untuk memobilisasi dana yang bersumber dari
+masyarakat ke berbagai sektor yang melaksanakan investasi. Menurut Husnan
+(2003) pasar modal adalah pasar untuk berbagai instrumen keuangan jangka
+panjang yang bisa diperjual-belikan, baik dalam bentuk hutang maupun modal
+sendiri, baik yang diterbitkan oleh pemerintah, public authorities, maupun
+perusahaan swasta. Fungsi pasar modal sebagai prasarana transaksi modal dapat
+dijadikan indikator dan penunjang kemajuan perekonomian suatu negara.
+Sehingga kemajuan perekonomian suatu negara dapat direfleksikan oleh aktivitas
+pasar modal yang ada di negara tersebut. Efisiensi pasar modal sebagai salah satu
+faktor penentu keberhasilan pengembangan pasar modal perlu mendapat kajian
+yang serius, karena dengan pengembangan pasar modal yang efisien akan
+semakin meningkatkan kepercayaan para pemodal domestik maupun luar negeri
+dalam melakukan investasi di pasar modal.
+Pergerakan harga ekuitas di pasar modal Indonesia berfluktuasi relatif tinggi. Hal
+ini sesuai dengan kondisi pasar modal Indonesia merupakan pasar yang sedang
+berkembang (emerging market). Kondisi tersebut dipengaruhi oleh informasi luar
+perusahaan (eksternal) dan informasi dalam perusahaan (internal) termasuk di
+dalamnya adalah informasi mengenai analisis pembahasan manajemen
+(management discussion and analysis yang selanjutnya dalam penelitian ini
+disebut “MD&A”) disajikan dalam annual report perusahaan. Faktor – faktor
+tersebut nantinya digunakan sebagai acuan bagi investor dalam melakukan
+investasi (Nidianti, 2013). Jika faktor internal dan eksternal memiliki keadaan
+yang baik, maka investor tertarik untuk menanamkan modal sahamnya, sehingga
+permintaan saham bertambah akibatnya harga saham menjadi naik (Gunawan,
+2012).
+Kandungan informasi MD&A dalam annual report memberikan pertimbangan
+kepada investor untuk melakukan evaluasi harga saham dari perusahaan yang
+menyajikan MD&A secara lengkap dan terbuka. Hal ini akan membuat bias
+ekspektasi investor relatif rendah, karena informasi yang disampaikan manajemen
+lebih terbuka, akurat, dan lengkap sehingga menurunkan resiko saham yang
+bersangkutan. Akibatnya, investor akan merespon positif terhadap informasi
+MD&A. Peningkatan harga saham dan volume perdagangan saham sebagai sebab
+adanya aksi beli oleh investor yang pada akhirnya berpengaruh juga pada rata-rata
+abnormal return dan dengan terjadinya rata-rata trading volume activity.
+Annual report (laporan tahunan) merupakan laporan perkembangan dan
+pencapaian keberhasilan yang diraih oleh suatu organisasi dalam setahun serta
+gambaran prospek usaha perusahaan di masa mendatang. Keterbukaan serta data
+dan informasi yang akurat menjadi kunci utama dalam penyajian laporan tahunan.
+Guna mendorong penerapan Good Corporate Governance meningkatkan kualitas
+keterbukaan dalam informasi keuangan, beberapa lembaga Pemerintah dan
+lembaga independen menyelenggarakan sebuah event pemberian penghargaan
+bagi perusahaan yang menyajikan laporan tahunan secara terbuka dalam Annual
+Report Award. Annual Report Award (ARA) diselenggarakan oleh sejumlah
+lembaga pemerintah dan lembaga independen yaitu Komite Nasional Kebijakan
+Governance (KNKG), Bursa Efek Indonesia (BEI), Bank Indonesia (BI), Otoritas
+Jasa Keuangan (OJK), Direktorat Jenderal Pajak Kementerian Keuangan Republik
+Indonesia, Kementerian BUMN Republik Indonesia, dan Ikatan Akuntan
+Indonesia (IAI).
+Penghargaan Annual Report Award (ARA) ini diberikan kepada perusahaan yang
+mampu menyajikan laporan yang memberikan gambaran yang baik dan jelas
+mengenai kegiatan operasional, kinerja maupun indikasi arah perusahaan di masa
+mendatang dan yang memenuhi kriteria-kriteria yang telah ditentukan. Tim
+penyelenggara membagi kriteria penilaian annual report award tahun 2013
+kedalam delapan klasifikasi, satu diantaranya adalah Analisa dan Pembahasan
+Manajemen dengan bobot kedua tertinggi (22%) setelah Good Corporate
+Governance (GCG) sebesar 35%. Hal ini mengindikasikan pentingnya penyajian
+analisa pembahasan manajemen (MD&A) dalam menyajikan informasi bagi
+stakeholder khususnya invetsor.
+Beberapa kriteria MD&A yang ditetapkan oleh lembaga penyelenggara ARA
+merupakan informasi penting yang dibutuhkan oleh investor dan calon investor
+antara lain: uraian atas kinerja keuangan perusahaan, uraian tentang prospek usaha
+perusahaan, uraian mengenai kebijakan dividen dan pembayaran dividen kas per
+saham. Pengaruh pengungkapan informasi MD&A dalam annual report
+perusahaan terhadap keputusan investor dalam melaksanakan invetasi perlu
+dilakukan pengujian empiris.
+Hasil penelitian Brown (2011) menunjukkan bahwa perusahaan dengan perubahan
+ekonomi yang lebih besar memodifikasi MD&A lebih baik dari mereka yang
+perubahan ekonomi lebih kecil. Besarnya respon harga saham untuk 10-K secara
+positif terkait dengan skor modifikasi MD&A, namun analis menunjukkan bahwa
+investor tidak menggunakan informasi MD&A. Penelitian Clarkson et.al (1999)
+menunjukkan bahwa secara keseluruhan kualitas pengungkapan MD&A
+bervariasi dengan pengungkapan yang ditemukan untuk mempengaruhi pilihan
+pengungkapan dalam beberapa pengungkapan lainnya. Penelitian ini konsisten
+dengan gagasan bahwa MD&A adalah bagian dari pengungkapan keseluruhan
+perusahaan. Penelitian juga dilakukan oleh Bryan (2007) menggambarkan bahwa
+dalam menghubungkan dengan laporan keuangan dan pengungkapan MD&A,
+dapat membantu dalam menilai masa depan (jangka pendek) prospek perusahaan.
+Temuan Mayew et al. (2012) menunjukkan bahwa informasi dalam pengungkapan
+MD&A lebih berguna dalam memprediksi kebangkrutan relatif terhadap rasio
+keuangan tiga tahun sebelum pailit dan pengungkapan MD&A yang lebih tepat
+waktu dibandingkan rasio keuangan. Penelitian Schroeder dan Gibson (1990),
+melaporkan Readability dari MD&A adalah kualitas tulisan yang mendorong
+komunikasi yang cepat dan mudah bagi pengguna annual report.
+Sepengetahuan penulis di Indonesia belum ada penelitian mengenai apakah
+penyajian MD&A mempengaruhi keputusan investor untuk melakukan investasi
+pada suatu perusahaan dengan respon pasar yang digambarkan oleh return saham
+dan trading volume activity (TVA). Adapun dugaan peneliti mengenai
+pengungkapan MD&A terhadap respon pasar yang dalam hal ini menggunakan
+proksi return saham dan TVA adalah jika perusahaan mengungkapkan MD&A
+secara lengkap dan terbuka dalam annual report, diharapkan return saham dan
+TVA akan meningkatkan minat investor untuk membeli saham perusahaan dan
+akan mempengaruhi respon pasar.
+Penelitian ini merupakan pengembangan dari penelitian Eikner et.al (2000).
+Adapun perbedaan penelitian ini dengan penelitian Eikner et.al (2000) adalah
+ukuran variabel yang digunakan yaitu peneliti menggunakan variabel return
+saham dan trading volume activity (TVA), penggunaan variabel kontrol return on
+equity (ROE), debt to equity ratio (DER), dan CGPI (Corporate Governance
+Perception Index), serta indeks pengungkapan MD&A yang menggunakan indeks
+pengungkapan MD&A yang diselenggarakan oleh Annual Report Award (ARA).
+Pemilihan ini dilakukan oleh karena hasil penelitian Eikner et. al (2000) bahwa
+tidak satu pun variable control yang signifikan mempengaruhi reaksi investor.
+CGPI adalah program riset dan pemeringkatan penerapan GCG pada perusahaanperusahaan
+di Indonesia. CGPI diikuti oleh Perusahaan Publik (Emiten), BUMN,
+Perbankan dan Perusahaan Swasta lainnya. Program CGPI secara konsisten telah
+diselenggarakan pada setiap tahunnya sejak tahun 2001. CGPI diselenggarakan
+oleh IICG sebagai lembaga swadaya masyarakat independen bekerjasama dengan
+Majalah SWA sebagai mitra media publikasi. Program ini dirancang untuk
+memicu perusahaan dalam meningkatkan kualitas penerapan konsep CG melalui
+perbaikan yang berkesinambungan (continous improvement) dengan
+melaksanakan evaluasi dan melakukan studi banding (benchmarking).
+Kontribusi penelitian ini adalah diharapkan dapat mendorong perusahaan untuk
+menyajikan MD&A secara lengkap dan terbuka sehingga dapat menarik minat
+investor untuk melakukan investasi pada perusahaan tersebut yang dapat dilihat
+dari kenaikan harga saham dan volume perdagangan yang tinggi. Dengan
+meningkatnya respon pasar maka nilai perusahaan (value of firm) akan
+meningkat. Berdasarkan uraian tersebut, maka penulis tertarik untuk melakukan
+penelitian dengan judul ‘‘Analisis Pengungkapan Management's Discussion
+and Analysis Terhadap Reaksi Pasar (Studi Empiris Pada Perusahaan yang
+Terdaftar di Bursa Efek Indonesia).”
+1.2 Rumusan Masalah
+Masalah dalam penelitian ini secara umum adalah ‘Apakah investor akan bereaksi
+positif terhadap pengungkapan Management's Discussion And Analysis?”
+1.3 Tujuan Penelitian
+Penelitian ini secara umum bertujuan untuk memberikan bukti empiris atas reaksi
+investor terhadap pengungkapan Management's Discussion and Analysis.
+1.4 Manfaat Penelitian
+Hasil penelitian ini diharapkan dapat memberikan manfaat sebagai berikut:
+1. Bagi akademisi, diharapkan penelitian ini digunakan sebagai sumber informasi
+dan bahan referensi untuk penelitian selanjutnya dan sebagai sarana dalam
+memahami, serta menambah pengetahuan untuk mengaplikasikan teoritis yang
+telah dipelajari.
+
+2. Bagi perusahaan, sebagai informasi bahwa dengan mengungkapkan MD&A
+adalah sesuatu yang dapat meningkatkan reputasi perusahaan.
+3. Bagi The Indonesian Institute of Corporate Governance (IICG), dapat menjadi
+masukan dan sebagai bahan pertimbangan dalam terciptanya pengelolaan
+kebijakan Good Corporate Governance (GCG) yang efektif.

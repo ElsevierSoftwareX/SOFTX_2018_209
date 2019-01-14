@@ -1,0 +1,260 @@
+﻿ABSTRAK
+Identifikasi Tomato infectious chlorosis virus penyebab penyakit klorosis pada tanaman tomat di Cipanas Jawa Barat
+melalui perunutan nukleotida gen protein selubung utama. Tomato infectious chlorosis virus (TICV) merupakan penyebab
+penyakit klorosis pada tanaman tomat. Tomat yang terserang penyakit ini menunjukkan gejala klorosis pada bagian antara
+tulang daun, nekrotik, bronzing, daun mudah rapuh, dan produksi buah menurun. Penelitian ini bertujuan untuk mengidentifikasi
+penyebab penyakit klorosis pada tanaman tomat melalui perunutan nukleotida gen protein selubung. Metode penelitian ini
+meliputi pengumpulan tanaman sakit, ekstraksi RNA total tanaman, sintesis cDNA, amplifikasi DNA, visualisasi hasil reverse
+transcription polymerase chain reaction (RT-PCR), analisis perunutan nukleotida dan filogenetika menggunakan program
+BLAST, Clustal W, Bioedit Sequence Alignment Editor v 7.0.5.3, MEGA v 6.06. Berdasarkan hasil RT-PCR menggunakan
+pasangan primer spesifik (TICV CP-F Bam dan TICV R-Hind) diperoleh pita DNA berukuran 792 pb, telah berhasil dirunut
+berdasarkan runutan basa nukleotida dan diidentifikasi sebagai TICV. Analisis homologi runutan nukleotida menunjukkan
+bahwa TICV TWJ asal Cipanas merupakan strain virus yang sama dengan TICV dari negara lain (99.4-100%) seperti Spanyol,
+Yunani, USA, Perancis, dan Italia.
+Kata kunci: gen coat protein, klorosis, perunutan nukleotida, TICV, reverse transcription polymerase chain reaction
+
+PENDAHULUAN
+Tanaman tomat merupakan salah satu tanaman
+hortikultura yang mempunyai banyak manfaat. Salah
+satu hambatan dalam budi daya tomat adalah serangan
+virus tanaman. Banyak jenis virus tanaman yang telah
+dilaporkan menyerang tanaman tomat. Tomato mosaic
+virus (ToMV) (Xue et al., 1998), Tomato chlorosis
+virus (ToCV) (Segev et al., 2004), Tomato yellow leaf
+curl virus (TYLCV) (Köklü et al., 2006), Tomato leaf
+curl virus (TLCV) (Reddy et al., 2005), dan Tomato
+spotted wilt virus (TSWV) (Hu et al., 2011) merupakan
+virus yang telah dilaporkan menyerang tanaman tomat
+di beberapa negara. Beberapa tahun terakhir ini di
+berbagai negara telah dilaporkan adanya virus baru yang
+menginfeksi tanaman tomat. Tanaman tomat yang
+terinfeksi virus ini menunjukkan gejala klorosis, sehingga
+penyakitnya disebut dengan penyakit klorosis. Penyakit
+klorosis ini disebabkan oleh Tomato infectious chlorosis
+virus (TICV) (Dalmon et al., 2005; Tsai et al., 2004).
+Penyakit ini telah ditemukan di beberapa sentra produksi
+tomat di Indonesia, seperti Garut, Cianjur, Bogor, Magelang, Rinjani, dan Yogyakarta (Hartono &
+Wijonarko, 2007; Fitriasari, 2010; Suastika et al., 2010;
+Sa’adah, 2013).
+Gejala serangan TICV pada tanaman tomat
+ditunjukkan oleh daun-daun menguning (Duffus et al.,
+1996), klorosis pada bagian antara tulang daun. Gejala
+klorosis yang sangat parah akan menyebabkan daun
+mengalami nekrotik (kematian jaringan) dan menjadi
+rapuh, serta ukuran buah menjadi lebih kecil, mudah
+gugur dan proses pemasakan terganggu sehingga hasil
+panen menurun (Wisler et al., 1998a; Wisler et al.,
+1998b).T ICV ditularkan dari satu tanaman ke tanaman
+lainnya oleh serangga vektor Trialeurodes
+vaporariorum (Hemiptera: Aleyrodidae) yang dikenal
+dengan nama kutu kebul. Penularan dapat terjadi secara
+cepat ke seluruh areal pertanaman karena serangga
+vektor bersifat aktif. TICV ditularkan oleh serangga
+vektor secara semipersisten (Duffus et al., 1996;
+Wintermantel, 2004).
+Teknik deteksi TICV berbasis molekuler melalui
+reverse transcription polymerase chain reaction (RTPCR)
+telah dilakukan oleh para peneliti. Teknik deteksi
+ini dilakukan dengan menggunakan pasangan primer yang
+berbeda-beda tergantung dari bagian mana yang akan
+diamplifikasi. Hartono & Wijonarko (2007) serta
+Jacquemond et al. (2009) telah melakukan deteksi TICV
+dengan teknik RT-PCR menggunakan pasangan primer
+heat shock protein (HSP-70h), Fitriasari (2010)
+menggunakan pasangan primer yang telah disisipi
+dengan runutan enzim restriksi Bam HI dan HindIII
+(TICV-CP F Bam dan TICV-CP R Hind), Orillio &
+Navas-Castillo (2009), Andriani (2011), dan Nurulita &
+Suastika (2013) menggunakan pasangan primer TICVCF
+dan TICV-CR. Deteksi dengan RT-PCR dapat
+dilakukan dengan cepat dan hasilnya akurat.
+Teknik deteksi berbasis molekuler selain RT-PCR
+adalah dengan perunutan DNA (sequencing).
+Perunutan DNA adalah proses penentuan urutan
+nukleotida pada suatu fragmen DNA. Tujuan dari proses
+ini adalah untuk menentukan identitas maupun fungsi
+fragmen suatu DNA dengan membandingkannya
+dengan fragmen DNA lain yang telah diketahui. Nurulita
+& Suastika (2013) telah melakukan perunutan nukleotida
+TICV pada gen protein selubung minor (CPm).
+Perbedaan CPm dan CP terletak pada fungsinya. CPm
+berperan dalam penularan dengan reseptornya, CP
+utama berperan dalam perakitan virus. Perunutan
+nukleotida gen protein selubung utama (CP) belum
+pernah dilakukan sehingga penelitian ini bertujuan untuk
+mengidentifikasi TICV penyebab penyakit klorosis pada
+tanaman tomat melalui perunutan nukleotida gen protein
+selubung utama (CP).
+METODE PENELITIAN
+Tempat dan Waktu. Penelitian ini dilaksanakan di
+Laboratorium Virologi Tumbuhan, Fakultas Pertanian
+Institut Pertanian Bogor dan Laboratorium Biokimia Balai
+Besar Bioteknologi dan Sumber Daya Genetik Pertanian
+(BB-BIOGEN), pada bulan November 2011 sampai
+dengan Februari 2012.
+Pengumpulan Tanaman Sakit. Pengambilan sampel
+tanaman bergejala klorosis dilakukan secara purposif
+(purposive sampling). Pengambilan dan pengumpulan
+sampel dilakukan di desa Pacet, Kecamatan Cipanas,
+Kabupaten Cianjur, Jawa Barat. Daun tanaman yang
+terinfeksi TICV diamati dan difoto gejalanya, kemudian
+diambil untuk diidentifikasi dengan menggunakan reverse
+transcription polymerase chain reaction (RT-PCR).
+Ekstraksi RNA Total. Ekstraksi RNA total dilakukan
+dengan menggunakan Qiagen RNAeasy Plant Mini Kit
+dan dikerjakan sesuai dengan protokol yang diberikan
+(Qiagen, 2001).
+Sintesis complementary (c) DNA. RNA hasil ekstraksi
+disintesis menjadi cDNA dengan menggunakan teknik
+Reverse Transcription Polymerase Chain Reaction
+(RT-PCR). Proses RT-PCR dilakukan menggunakan kit
+komersial Access RT-PCR System (Promega, US). Hasil
+ekstraksi RNA berupa RNA total selanjutnya dilakukan
+sintesis complementary cDNA melalui proses Reverse
+Transcription (RT) atau transkipsi balik yang digunakan
+untuk mengubah RNA menjadi cDNA. Tabung mikro
+diisi dengan 10 μl reaksi RT yang terdiri atas 1 x ddH2O
+3,7 μl, 10x bufer RT 2 μl, 10 mM dNTP 0,5 μl, 50 mM
+dTT 0,35 μl, 10 μM random heksamer 0,75 μl, MMuLV
+Rev 0,35 μl, Ribolock 0,35 μl, dan RNA 2 μl. Komponenkomponen
+tersebut digunakan untuk satu kali reaksi RT.
+Reaksi RT dilakukan dalam sebuah Automated Thermal
+cycler (Gene Amp PCR System 9700; PE Applied
+Biosystem, US) yang diprogram untuk satu siklus pada
+suhu 25 ºC selama 5 menit, 42 ºC selama 60 menit, dan
+70 ºC selama 15 menit. Siapan cDNA hasil RT
+digunakan sebagai templat dalam reaksi PCR.
+Amplifikasi DNA. Reaksi PCR dengan total volume
+25 μl digunakan untuk memperbanyak pita cDNA yang
+telah terbentuk dari proses RT. Komposisi bahan yang
+digunakan dalam reaksi PCR terdiri atas 2x Go tag green master mix PCR 12,5 μl, 10 μM Primer spesifik TICVCP
+F-Bam no ATG (5'-AATTAAGGATCCGAAAACT
+TATCTGGTAATGCAAAC-3’) 1 μl dan TICV-CP RHind
+(5'-AATTAAAAGCTTTTAGCATGGGTGTT
+TCATATCAGCC-3') (Fitriasari, 2010) 1 μl, 1 x ddH2O
+8,5 μl, dan 2 μl cDNA hasil RT. Proses ini didahului
+dengan denaturasi awal pada 94 ºC selama 4 menit,
+dilanjutkan dengan 30 siklus yang terdiri dari denaturasi
+pada 94 ºC selama 1 menit, penempelan primer
+(annealing) pada 55 ºC selama 1 menit, dan
+pemanjangan (Extension) pada 72 ºC selama 2 menit.
+Kontrol positif TICV yang digunakan adalah sampel
+tanaman tomat yang terinfeksi TICV hasil penelitian
+Fitriasari (2010), kontrol negatif menggunakan template
+tanaman tomat sehat, sampel TICV Indonesia_TWJ
+berasal dari tanaman tomat yang bergejala interveinal
+yellowing.
+Visualisasi Hasil RT-PCR. Hasil amplifikasi DNA
+yang didapat dari proses PCR selanjutnya dilakukan
+visualisasi dengan elekroforesis gel agarose 1% dalam
+bufer elektroforesis Tris-borat EDTA 0,5x (40 mM Tris,
+20 mM sodium asetat, dan 1 mM EDTA, pH 7,0) dengan
+pewarnaan ethidium bromide (0,5 μg/10 ml). Visualisasi
+pita DNA dilakukan dengan meletakkan gel agarose pada
+UV translluminator. Dokumentasi pita DNA dilakukan
+menggunakan kamera digital.
+Analisis Perunutan Nukleotida dan Filogenetik.
+Sebanyak 50 μl hasil PCR dikirim ke PT. Genetika
+Science Indonesia untuk disekuensing. Elektroforegram
+yang didapatkan dianalisis menggunakan program
+sequence scanner v 1.0 (Applied Biosystem, USA).
+Hasil perunutan nukleotida yang diperoleh kemudian
+dikonfirmasi ke GenBank dengan program Basic Local
+Alignment Search Tool (BLAST) yang tersedia pada National Center for Biotechnology Information
+(NCBI, 2014). Runutan nukleotida yang telah
+dikonfirmasi kemudian disejajarkan dengan
+menggunakan penyejajaran berganda ClustalW pada
+program Bioedit Sequence Alignment Editor v 7.0.5.3
+(Hall, 1999). Pohon filogenetika dikonstruksi
+menggunakan perangkat lunak Molecular
+Evolutionary Genetic Analysis Software (MEGA) v
+6.06 dengan metode UPGMA menggunakan boostrap
+1000 kali ulangan. Rujukan runutan nukleotida isolat
+TICV dari negara lain diperoleh dari GenBank.
+HASIL DAN PEMBAHASAN
+Penyakit Klorosis pada Tanaman Tomat. Survei
+yang dilakukan di Desa Pacet, Kecamatan Cipanas,
+Kabupaten Cianjur, Provinsi Jawa Barat berhasil
+menemukan tanaman tomat yang memperlihatkan gejala
+klorosis. Penyakit ini ditandai dengan perubahan warna
+kuning pada jaringan diantara tulang daun (interveinal
+yellowing), yang dimulai dari daun-daun tua di bagian
+bawah kemudian berkembang ke bagian pucuk (Gambar
+1A); kadang-kadang terjadi perubahan warna pada
+bagian daun menjadi merah keunguan (bronzing)
+(Gambar 1B); dan pada gejala lanjut beberapa bagian
+daun klorotik mengalami nekrotik (Gambar 1C). Gejala
+semacam ini bersesuaian dengan gejala yang diinduksi
+oleh TICV menurut peneliti terdahulu (Duffus et al.,
+1996; Li et al., 1998; Wintermantel & Wisler, 2006;
+Wisler et al., 1998a).
+Deteksi dengan RT-PCR. Amplifikasi menggunakan
+primer spesifik TICV-CP F-Bam no ATG dan TICVCP
+R-Hind berhasil mendapatkan pita DNA dengan
+ukuran sekitar 792 pb (Gambar 2), hal ini sesuai dengan
+hasil penelitian Fitriasari (2010). Produk RT-PCR TICV berhasil dirunut, dan hasil runutan menunjukkan kualitas
+yang baik dan tidak ada kesalahan dalam perunutan
+berdasarkan analisis kesejajaran.
+Analisis Perunutan Nukleotida dan Filogenetik.
+Menurut Barton (1998) analisis tingkat homologi runutan
+nukleotida merupakan cara yang sahih untuk
+mengidentifikasi suatu spesies virus. Homologi urutan
+nukleotida virus penyebab klorosis pada tanaman tomat
+dapat dilihat pada Tabel 1.
+
+
+Homologi TICV Indonesia_TWJ dengan TICV
+dari negara lain berkisar antara 99,4–100%. Menurut
+Fauquet et al. (2005) jika suatu spesies virus mempunyai
+persamaan runutan nukleotida pada bagian gen protein
+selubung lebih dari 90% maka virus-virus tersebut
+merupakan suatu spesies virus yang sama. Hal ini
+menunjukkan bahwa spesies TICV TWJ yang berasal
+dari Cipanas, Jawa Barat merupakan spesies TICV yang
+sama dengan TICV yang berasal dari negara Spanyol,
+Yunani, USA, Italia, dan Perancis.
+
+
+Panjang gen protein selubung TICV adalah
+sekitar 760 pb (Hartono et al., 2003). Panjang sebagian
+gen protein selubung TICV yang berhasil dirunut dan
+disejajarkan berkisar 792 pb (Gambar 3). Runutan
+nukleotida sebagian gen protein selubung isolat TICV
+Indonesia_TWJ yang berasal dari Cipanas, Jawa Barat
+setelah disejajarkan dengan isolat-isolat TICV dari
+negara lain terletak antara nukleotida ke- 1 sampai 792
+pada runutan nukleotida RNA2 genom TICV. Perbedaan
+runutan nukleotida antara isolat TICV Indonesia_TWJ
+(Cipanas-Jawa Barat) dengan isolat dari negara lain
+terjadi pada posisi nukleotida ke 29, 54, 212, 228, dan
+525 (Gambar 3). Perunutan dan penyejajaran nukleotida
+ini dilakukan untuk memastikan bahwa runutan tersebut
+adalah runutan sebagian gen protein selubung TICV
+yang berada pada RNA 2 dari genom TICV (Orilio &
+Navas-Castillo, 2009).
+Analisis pohon filogenetika menunjukkan bahwa
+hubungan kekerabatan enam isolat TICV terbagi
+menjadi 2 kelompok (Gambar 4). Kelompok I terdiri dari
+isolat TICV asal Yunani, Amerika Utara dan Eropa
+(USA_CA4), Perancis (Fr). Indonesia, Spanyol, dan
+Amerika Serikat Orange County (USA_OC). Hal ini
+menunjukkan bahwa isolat TICV asal Indonesia masih
+berkerabat dekat dengan isolat asal Spanyol, Amerika
+Serikat Orange County (USA_OC), Yunani, Perancis
+(Fr), Amerika Utara dan Eropa (USA _CA4).
+
+
+SIMPULAN
+TICV isolat Cipanas berhasil dirunut
+nukleotidanya dan memiliki homologi sebesar 99,4–
+100% dibandingkan dengan isolat dari Negara Spanyol,
+Amerika Serikat Orange County (USA_OC), Yunani,
+Perancis (Fr), Amerika Utara dan Eropa (USA _CA4).
+TICV isolat Cipanas berada dalam satu kelompok
+dengan isolat Spanyol, Amerika Serikat Orange County
+(USA_OC), Yunani, Perancis (Fr), Amerika Utara dan
+Eropa (USA _CA4). Dengan demikian TICV isolat
+Cipanas merupakan spesies yang sama dengan TICV
+isolat Spanyol, Amerika Serikat Orange County
+(USA_OC), Yunani, Perancis (Fr), Amerika Utara dan
+Eropa (USA _CA4).

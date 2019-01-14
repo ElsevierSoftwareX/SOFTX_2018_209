@@ -1,0 +1,116 @@
+﻿ABSTRAK
+Inflasi menjadi salah satu hal penting sebagai tolok ukur bagi pertumbuhan
+ekonomi, serta faktor penentu bagi pemerintah dalam merumuskan kebijakan
+fiskal, moneter, maupun non moneter. Namun, selama ini kebijakan yang disusun
+belum dapat memberikan respon yang baik terhadap tekanan inflasi di masa
+mendatang. Berlatarbelakang dari hal tersebut, maka prediksi terhadap inflasi
+perlu dilakukan. Prediksi dilakukan dengan pendekatan regresi nonparametrik
+sebagai solusi karena pola data inflasi yang fluktuatif sehingga tidak bisa didekati
+dengan pemodelan time series klasik. Dalam penulisan ini dicari model regresi
+nonparametrik terbaik antara regresi kernel, polinomial lokal dan spline untuk
+memprediksi laju Inflasi Jawa Tengah pada 2014. Diperoleh model regresi
+nonparametrik terbaik yaitu regresi Spline order 2 pada titik knot 5,37; 5,44; 5,59
+dan 9,01 yang memiliki GCV sebesar 0,4367286. Dengan menggunakan model
+tersebut, diprediksi nilai inflasi Jawa Tengah akan cenderung turun mulai Oktober
+2013 – Februari 2014 pada kisaran kurang lebih 7% dan sepanjang Maret –
+Desember 2014 pada kisaran 6%.
+Kata kunci : inflasi, kernel, polinomial lokal, spline
+
+BAB I
+PENDAHULUAN
+1.1 Latar Belakang
+Dalam perekonomian suatu daerah, inflasi menjadi suatu hal penting yang
+dijadikan tolok ukur bagi pertumbuhan ekonomi, faktor pertimbangan investor
+dalam memilih jenis investasi, serta faktor penentu bagi pemerintah dalam
+merumuskan kebijakan fiskal, moneter, maupun non moneter yang akan
+dijalankan. Secara umum, inflasi dapat mengakibatkan berkurangnya investasi di
+suatu negara, mendorong kenaikan suku bunga, mendorong penanaman modal
+yang bersifat spekulatif, kegagalan pelaksanaan pembangunan, ketidakstabilan
+ekonomi, defisit neraca pembayaran, dan merosotnya tingkat kehidupan dan
+kesejahteraan masyarakat. Pemahaman investor akan dampak inflasi pada tingkat
+pengembalian atau keuntungan investasi sangat diperlukan pada saat investor akan
+memilih jenis investasi yang akan dilakukan. Hal ini dikarenakan inflasi
+berpengaruh pada nilai uang yang diinvestasikan oleh investor. Tingkat inflasi
+yang tinggi akan meningkatkan risiko proyek-proyek investasi dalam jangka
+panjang.
+Berdasarkan studi empiris menyimpulkan adanya lag response kebijakan
+pemerintah, khususnya kebijakan moneter terhadap inflasi, sehingga kebijakan
+moneter pada waktu ke t baru akan mempengaruhi inflasi pada beberapa waktu
+kemudian (waktu ke t+n) (Pohan, 2008). Pohan juga menyatakan bahwa
+seharusnya kebijakan moneter tidak sekedar bereaksi terhadap tekanan inflasi
+yang terjadi saat ini, tetapi sepatutnya merespon tekanan inflasi yang akan datang
+(forward looking monetary policy). Berdasarkan pada realita yang terjadi saat ini,
+Badan Pusat Statistik (BPS) Jawa Tengah mencatat bahwa terjadi kenaikan inflasi
+yang signifikan pada triwulan ketiga tahun 2013, tepatnya mulai Juli setelah
+ditetapkannya kebijakan kenaikan BBM. Berturut- turut inflasi mencapai 8,27% ,
+8,34% dan 7,72% selama Juli hingga September 2013. Sedangkan inflasi Jawa
+Tengah sebelum kenaikan BBM 2013 adalah berturut-turut 5,8%; 5,13% dan
+5,44% untuk bulan April, Mei dan Juni 2013. Berlatarbelakang dari inflasi yang
+relatif tinggi saat ini serta untuk menyusun kebijakan yang dapat merespon
+tekanan inflasi pada masa mendatang, maka perlu dilakukan prediksi terhadap
+nilai inflasi tersebut. Prediksi yang akurat akan memberikan peranan penting
+dalam menentukan arah kebijakan pemerintah yang berdampak pada
+kesejahteraan masyarakat, maupun dunia investasi.
+Data inflasi merupakan data runtun waktu yang biasa dimodelkan dengan
+model klasik/model parametrik. Model parametrik yang popular adalah model
+Box Jenkins (yang meliputi model AR, MA dan ARIMA). Namun pada
+pemodelan parametrik ini mempunyai asumsi-asumsi yang harus dipenuhi yaitu
+data harus stasioner dan error harus bersifat white noise. Biasanya data ekonomi
+yang bersifat fluktuatif seperti data inflasi, asumsi klasik tersebut sulit untuk
+dipenuhi. Oleh karena itu perlu memodelkan data yang tidak mengharuskan
+memenuhi asumsi-asumsi yang ketat. Model alternatif untuk mengatasi
+pelanggaran asumsi klasik adalah model regresi nonparametrik.
+Bunyamin dan Danila (2011) telah memodelkan inflasi Indonesia dengan
+Box Jenkins menggunakan data inflasi tahunan 1998 – 2008. Model terbaiknya
+adalah model AR(2) dengan prediksi inflasi pada tahun 2009 sebesar 10.48%.
+Ternyata hasil prediksi ini sangat jauh dengan data riil inflasi tahun 2009 yang
+besarnya hanya 2.78%. Namun setelah dikaji ulang oleh Suparti,dkk (2013)
+dengan menggunakan data inflasi 2007-2011, tak ada model Box Jenkins (baik
+AR, MA maupun ARIMA) yang sesuai karena asumsi independensi error tidak
+dipenuhi. Suparti, dkk (2013) melakukan pemodelan inflasi di Indonesia sebelum
+pemerintah menetapkan kebijakan menaikkan Tarif Dasar Listrik (TDL) dan
+harga BBM dengan menggunakan metode kernel dan menghasilkan nilai prediksi
+inflasi tahun 2012 sebesar 4,46 % sedangkan inflasi aktual tahun 2013 sebesar
+4,30%. Pada tahun yang sama, Suparti (2013) melakukan pemodelan inflasi di
+Indonesia menggunakan metode spline, menghasilkan prediksi inflasi tahun 2013
+sebesar 8,55%. Sedangkan inflasi aktual tahun 2013 diketahui sebesar 8,38%.
+Dari beberapa penelitian, menunjukkan bahwa metode nonparametrik
+memberikan hasil yang lebih akurat dari metode parametrik.
+Oleh karena itu dalam skripsi ini akan dikaji model inflasi di Jawa Tengah
+menggunakan metode nonparametrik. Metode nonparametrik yang akan
+digunakan adalah model regresi kernel, polinomial lokal dan spline. Kerangka
+berpikir dalam skripsi ini adalah melakukan komparasi (perbandingan) dari ketiga
+metode untuk mendapatkan model regresi nonparametrik terbaik yang
+meminimumkan Generalized Cross Validation (GCV).
+
+1.2 Rumusan Masalah
+Dengan latar belakang yang telah dikemukakan, maka rumusan masalah
+dari penulisan tugas akhir ini yakni cara mendapatkan model regresi
+nonparametrik terbaik diantara regresi kernel, polinomial lokal, dan spline untuk
+memprediksi inflasi Jawa Tengah pada Maret – Desember 2014.
+
+1.3 Batasan Masalah
+Berdasarkan rumusan masalah yang ditentukan, penulis membatasi
+masalah pada metode dan banyaknya data inflasi yang digunakan dalam analisis.
+Metode yang digunakan adalah regresi nonparametrik yang dibatasi pada regresi
+kernel, polinomial lokal dan spline. Sedangkan data inflasi yang digunakan mulai
+Januari 2007 sampai dengan Februari 2014, dengan data Januari 2008 - September
+2013 sebagai data in sample, data Januari 2007 - Desember 2007 dan Oktober
+2013 - Februari 2014 sebagai data out sample. Untuk peramalan dilakukan mulai
+Maret 2014 hingga Desember 2014.
+
+1.4 Tujuan Penelitian
+Berdasarkan rumusan masalah yang telah dikemukakan, maka tujuan dari
+penulisan skripsi ini adalah:
+1. Menentukan model kernel, polinomial lokal dan spline terbaik.
+2. Menentukan model regresi nonparametrik terbaik diantara model kernel,
+polinomial lokal dan spline terbaik untuk menganalisis data inflasi Jawa
+Tengah.
+3. Menghitung prediksi inflasi Jawa Tengah untuk Maret 2014 – Desember
+2014.
+
+1.5 Manfaat
+Manfaat penulisan tugas akhir ini sebagai sumbangan informasi kepada
+pemerintah untuk mengatasi masalah yang sering terjadi dalam perencanaan
+kebijakan yang melibatkan inflasi sebagai parameternya. Sehingga dapat disusun
+kebijakan terbaik yang dapat merespon tekanan inflasi di masa mendatang.

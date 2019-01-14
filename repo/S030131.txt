@@ -1,0 +1,236 @@
+﻿ABSTRAKSI
+Karir didefinisikan menjadi karir obyektif dan karir subyektif. Karir subyektif
+adalah persepsi pada kepuasan karyawan dengan karir mereka. Seseorang yang
+bekerja selalu menginginkan jenjang karir yang lebih tinggi. Seseorang dengan
+proactive personality dan juga dukungan dari perusahaan atau organisational support
+for career development (OSCD) akan mempengaruhi carrer satisfaction yang akan
+berdampak pada peningkatan job performance karyawan.
+Tujuan dari penelitian ini adalah untuk melihat pengaruh antara proactive
+personality, organisational support for career development (OSCD) terhadap career
+satisfaction dan job performance. Variabel dalam penelitian ini diukur dengan
+survey pada 51 responden di PT. Angkasa Pura I (Persero) Bandar Udara Juanda
+Surabaya dengan alat bantu statistik Partial Least Square (smartPLS 2.0). Hasil
+penelitian menunjukkan bahwa proactive personality memiliki pengaruh signifikan
+terhadap job performance, dan proactive personality memiliki pengaruh tidak
+signifikan terhadap job performance melalui career satisfaction, yang berarti bahwa
+career satisfaction tidak memediasi pengaruh antara proactive personality dan job
+performance. Selain itu dalam uji OSCD terhadap job performance mempunyai
+pengaruh siginifikan, dan OSCD mempunyai pengaruh signifikan terhadap job
+performance dan career satisfaction, yang berarti bahwa career satisfaction berfungsi
+sebagai partial mediasi dalam pengaruh antara OSCD dan job performance.
+Kata Kunci : Karir, proactive personality, organisational support for career
+development (OSCD), career satisfaction, dan job performance.
+
+BAB I
+PENDAHULUAN
+1. Latar Belakang
+Karir didefinisikan sebagai pengalaman kerja yang secara luas dibagi menjadi
+dua, yaitu obyektif, situasi seperti posisi pekerjaan, aktifitas pekerjaan dan pekerjaan
+yang berhubungan dengan keputusan, dan subyektif, interpretasi pekerjaan yang
+berhubungan dengan nilai, harapan yang diinginkan, kebutuhan, dan perasaan tentang
+pekerjaan tersebut (Greenhaus, et. al., 2000). Kepuasan karir merupakan variabel
+yang penting untuk digunakan sebagai riset mengenai pengembangan karir. Menurut
+Lounsbury (2006) asumsi pertama, karir adalah sebuah konsep yang memiliki makna
+bagi karyawan sebagai fenomena unik, orang akan berpikir tentang karirnya secara
+keseluruhan. Asumsi kedua, perubahan karir berubah seiring waktu, dan kepuasan
+tergantung pada kemajuan. Skala yang dibuat untuk mengukur kepuasan karir adalah
+penghasilan dan tanggung jawab pekerjaan, serta dalam pengembangan pengetahuan,
+ketrampilan, dan kemampuan. Asumsi ketiga, penilaian kepuasan karir biasanya
+meliputi pertimbangan tingkat pengalaman saat ini dengan yang diharapkan atau
+dikehendaki.
+Kepuasan karir adalah pengukuran subyektif bahwa persepsi pada kepuasan
+karyawan dengan keseluruhan karir mereka, tujuan untuk penghasilan, kemajuan dan
+pengembangan keahlian baru (Greenhaus, et. al,. 1990; dalam Yap, et. al., 2010).
+Penelitian juga menemukan bahwa karyawan yang puas dengan karir mereka akan
+lebih terikat dan karyawan berkontribusi secara aktif untuk kesuksesan organisasi
+(Peluchette, 1993; Harter, et. al,. 2002; dalam Yap, et. al., 2010).
+Salah satu cara organisasi dalam menghadapi tantangan adalah dengan cara
+mendukung karyawan mereka untuk mencapai kesuksesan karir dan kepuasan karir.
+Tujuan ini konsisten dengan rekomendasi bahwa organisasi mendukungan untuk
+kesuksesan karir karyawan (Baruch, 2006; dalam Barnett dan Bradley, 2007). Pada
+penelitian ini akan mengambil responden di PT. Angkasa Pura 1 (Persero) Bandar
+Udara Juanda Surabaya yang dimana perusahaan ini melakukan perubahan
+peningkatan kualitas pegawai Angkasa Pura Airports.
+PT Angkasa Pura I (Persero) Bandar Udara Juanda Surabaya adalah
+merupakan salah satu Badan Usaha Milik Negara (BUMN) di sektor perhubungan
+yang bergerak dalam bidang pengelolaan dan pengusahaan kebandarudaraan, serta
+pelayanan jasa navigasi penerbangan. Tugas pokoknya adalah pengelolaan dan
+pengusahaan Bandar Udara Kemayoran Jakarta yang saat itu merupakan satu-satunya
+bandar udara internasional yang melayani penerbangan dari dan ke luar negeri selain
+penerbangan domestik.
+Informasi yang diberikan oleh PT. Angkasa Pura I (Persero) Bandar Udara
+Juanda Surabaya melalui Corporate Profile dan Annual Report 2014, disebutkan
+bahwa perusahaan ini sangat mendukung karyawan untuk dapat mengembangkan
+karirnya dan mendapatkan kepuasan karir karyawan, sehingga dari kepuasan
+karyawan ini dapat meningkatkan kinerja karyawan, dan dalam penelitian ini akan
+membuktikan bahwa perusahaan mendukung karyawan untuk mencapai karir yang
+diinginkan. Dalam peningkatan kinerja karyawan, PT. Angkasa Pura I (Persero)
+Bandar Udara Juanda Surabaya melakukan pengembangan Human Capital dengan
+cara re-strukturisasi dan re-positioning di tahun 2011, kemudian di tahun 2012
+perusahaan melakukan perubahan dari merit system ke Human Capital Management
+System yang telah dirumuskan di tahun 2011, tahun 2013 perusahaan melakukan
+peningkatan kinerja pegawai sesuai dengan Human Capital Management System,
+berikutnya tahun 2014 terwujudnya pegawai yang berkinerja tinggi yang memiliki
+lima kompetensi wajib personil Angkasa Pura Airports sebagai pilar utama pengelola
+”world class airport company” yaitu Understanding of Airport Business, Ability to
+Manage Change, Ability to Manage Culture, Personnel Credibility, Delivery of HR
+Best Practice. Tahun 2015 diharapkan dapat menjaga dan meningkatkan kinerja
+Human Capital Management System yang efektif untuk menghasilkan pegawai
+berkinerja tinggi secara berkelanjutan. Pada tahun 2015 jumlah karyawan organik di
+PT. Angkasa Pura I (Persero) Bandar Udara Juanda Surabaya berjumlah 405 orang.
+Melalui wawancara dengan staff dari PT. Angkasa Pura I (Persero) Bandar
+Udara Juanda Surabaya menjelaskan bahwa semua karyawan organik atau disebut
+juga dengan karyawan tetap perusahaan PT. Angkasa Pura I (Persero) Bandar Udara
+Juanda Surabaya, mempunyai kesempatan karir yang sama melalui penilaian kinerja,
+dan penilaian yang diberikan bukan pada senioritas. Setiap karyawan organik yang
+mempunyai kinerja yang baik diberi kesempatan karir dengan cara mutasi selama dua
+tahun, kemudian dengan masa kerja selama dua tahun di tempat yang baru maka
+karyawan tersebut akan mendapatkan jabatan atau karir. Sedangkan seorang
+karyawan yang tidak memiliki karir atau stuck dengan karirnya, dapat juga
+dikarenakan karyawan tersebut tidak mau dimutasi atau dipindah ke kota lain.
+Perusahaan PT. Angkasa Pura I (Persero) Bandar Udara Juanda Surabaya
+dalam menilai hasil kinerja diukur dengan KPI dalam membentuk pola manajemen
+kinerja. Dalam upaya meningkatkan kapabilitas dan kompetensi Human Capital,
+perlu adanya pembangunan, pembenahan dan pemeliharaan sistem database
+kepegawaian, sistem dan prosedur kerja, pola karir yang mendorong motivasi
+karyawan untuk bekerja dengan lebih baik. Dengan adanya perubahan dukungan dari
+organisasi dalam pengembangan karir, maka dapat dijadikan sebagai motivasi dan
+kesempatan bagi karyawan yang memiliki kepribadian yang proaktif untuk
+meningkatkan karirnya, sehingga karyawan tersebut mengalami kepuasan karir dan
+juga dapat meningkatkan kinerjanya.
+Menurut Rezaean, et. al., (2012) menyatakan bahwa saat ini dalam
+lingkungan bisnis, organisasi mempunyai peran penting dalam sistem karir pada
+manajemen karir, dapat diketahui sebagai dukungan organisasi untuk pengembangan
+karir atau sebagai dukungan organisasi, yang merujuk pada skema, proses dan
+bantuan yang disediakan organisasi untuk karyawan sebagai dukungan dan
+peningkatan kesuksesan karir. Dengan kata lain, manajemen organisasional dan karir
+merujuk pada aktifitas yang dijalankan organisasi untuk mengatur karir karyawan
+secara keseluruhan, berdasarkan pada kebutuhan individualistik dan karir organisasi.
+Sedangkan menurut Barnett dan Bradley (2007) menyatakan bahwa salah
+satu cara organisasi menemui tantangan adalah mendukung karyawan untuk
+mengembangkan karir mereka dan meningkatkan kepuasan karir. Tujuan dari
+penelitian ini adalah organisasi dapat mengadopsi strategi untuk menambah kepuasan
+karir karyawan dan secara potensial meningkatkan kemampuan organisasi untuk
+menarik dan menahan karyawan tersebut.
+Proactive personality dalam penelitian menurut Crant (2000) menjelaskan
+bahwa individual dengan kepribadian proaktif yang merujuk pada aktifitas individual
+yang menyatu dengan pekerjaannya. Orang dengan proactive personality cenderung
+bekerja secara aktif dan orang dengan proactive personality tidak menunggu
+kesempatan tetapi mereka mencari kesempatan. Untuk mencapai goal karir mereka,
+orang ini mencari jalan terbaik untuk melakukan dan menciptakan ide yang hebat.
+Menguji kontribusi bahwa organisational support for career development
+(OSCD) dibuat untuk kepuasan karir karyawan dapat membantu organisasi dalam
+menentukan apakah investasi dalam mendukung pengembangan karir karyawan akan
+memberikan keuntungan dan memungkinkan organisasi untuk desain yang lebih baik
+dalam strategi pengembangan karir untuk mencapai hasil yang diinginkan. Dari
+perspektif karyawan, pengertian bagaimana personality dan faktor lingkungan yang
+berfungsi bersama untuk memberikan kesempatan membantu karyawan menjadi puas
+dengan karir mereka sebagai sifat dan faktor dukungan dari lingkungan (Lent dan
+Brown, 2006; dalam Barnett dan Bradley, 2007).
+Kepribadian yang proaktif serta didukung oleh organisasi akan menghasilkan
+kepuasan karir bagi karyawan, diharapkan karyawan akan mempunyai kinerja yang
+baik, dan membantu perusahaan untuk mencapai kesuksesan. Pernyataan ini
+diperkuat oleh Judge et al. (2001) dalam Karatepe (2011) yang menyatakan bahwa
+terdapat korelasi yang baik antara kepuasan karir dan kinerja, jika tidak terdapat
+korelasi terhadap kepuasan dan kinerja maka secara umum terjadi kesalahan.
+Dijelaskan dalam annual report 2014 bahwa untuk mengembangkan
+kompetensi SDM, PT. Angkasa Pura I (Persero) mendirikan Centre For Exellence
+(CFE) sejak tahun 2011 berpusat di Kemayoran Jakarta yang merupakan upaya
+perusahaan untuk mengembangkan SDM yang berkualitas secara mandiri dan
+terstruktur untuk seluruh karyawan PT. Angkasa Pura I (Persero) dari seluruh cabang
+yang ada di Indonesia. Program pelatihan yang dilaksanakan beragam, yaitu meliputi
+program orientasi, pendidikan, pelatihan manajerial, pelatihan mandatori, pelatihan
+teknis bidang, serta diklat purnabakti.
+PT. Angkasa Pura I (Persero) Bandar Udara Juanda Surabaya merupakan
+bandara internasional yang terus-menerus melakukan perbaikan untuk menuju world
+class airports company, maka perubahan dengan menggunakan Human Capital
+Management System, yang dilakukan di tahun 2011 yaitu perubahan pada penilaian
+kinerja dan dukungan terhadap pengembangan karir karyawan di dalam organisasi,
+diharapkan dapat meningkatkan job performance karyawan akan semakin meningkat,
+diharapkan dengan adanya penelitian ini dapat memberikan gambaran kepada
+perusahaan tentang kinerja karyawan setelah perubahan dilakukan.
+Adanya perubahan Human Capital Management System ini berarti bahwa
+perusahaan mendukung pengembangan karir karyawan untuk mencapai kepuasan
+karir dan bertujuan untuk mempengaruhi kinerja karyawan menjadi lebih baik.
+
+Dikutip dari Dessler (2003) menyatakan bahwa organisasi mempunyai pengaruh pada
+proses SDM, dimulai dari perekrutan, seleksi, penempatan, pelatihan, penilaian,
+penghargaan, promosi, dan pemisahan karyawan yang semuanya mempengaruhi karir
+seseorang, dan oleh karena itu, mempengaruhi kepuasan karir dan keberhasilan
+kinerja karyawan.
+Perusahaan saat ini menerapkan pola manajemen karir yang didefinisikan
+dalam Dessler (2003) sebagai proses untuk membuat karyawan dapat memahami dan
+mengembangkan dengan lebih baik keahlian dan minat karir mereka. Karyawan
+dapat menentukan perencanaan karir mereka dengan mengetahui ketrampilan,
+pengetahuan, motivasi, dan karakteristik dari karyawan tersebut. Dengan diberikan
+informasi tentang pengembangan karir dari perusahaan, maka karyawan tersebut
+dapat menetapkan tujuan karir mereka.
+Dikutip dari Arnold (1997) dalam Sturges (2002) menjelaskan bahwa
+manajemen karir didefinisikan sebagai upaya yang dilakukan untuk mempengaruhi
+pengembangan karir seseorang, dan organisasi membentuk berbagai kegiatan yang
+formal dan non-formal, mulai dari pelatihan, assessment center, mentoring, dan saran
+untuk berkarir. Seseorang yang mampu melihat peluang karir di dalam perusahaan
+dapat dikatakan bahwa seseorang tersebut memiliki kepribadian yang proaktif, karena
+mereka mampu mengidentifikasi peluang, memiliki motivasi yang tinggi, dan
+memiliki tujuan yang ingin dicapai dalam hidupnya.
+Tujuan perusahaan dengan adanya perubahan yang terjadi menjadi Human
+Capital Management System adalah peningkatan kinerja karyawan. Sistem reward
+melalui penilaian kinerja bukan berdasarkan masa kerja, dan itu akan memacu
+semangat karyawan agar mempunyai kinerja yang baik dari waktu ke waktu, hal itu
+juga akan menjadi motivasi karyawan untuk terus maju dan berkembang sesuai
+dengan tujuan perusahaan.
+Penelitian ini ditujukan kepada karyawan tetap atau disebut juga karyawan
+organik di PT. Angkasa Pura I (Persero) Bandar Udara Juanda Surabaya, karyawan
+organik adalah karyawan yang mempunyai kesempatan untuk pengembangan karir.
+Penelitian ini juga bertujuan untuk menganalisa apakah karyawan organik tersebut
+memiliki kepribadian yang proactive sehingga mereka dapat menentukan
+pengembangan karir mereka dan juga puas terhadap karir yang didapatkan sehingga
+kinerja karyawan akan meningkat. Melalui wawancara dengan karyawan PT.
+Angkasa Pura I (Persero) Bandar Udara Juanda Surabaya yang menyatakan bahwa
+karyawan merasakan program assessment centre yang tidak berjalan dengan baik
+sehingga karyawan tidak merasakan kepuasan terhadap karirnya di dalam perusahan.
+Dengan adanya dukungan organisasi untuk pengembangan karir karyawan,
+diharapkan karyawan juga memiliki kepribadian dan motivasi diri untuk terus
+berkembang dan berinovasi untuk kemajuan perusahaan. Penelitian ini menguji job
+performance yang di dukung oleh Organisational support for career development
+(OSCD) dan proactive personality yang akan dimediasi oleh career satisfaction pada
+karyawan PT. Angkasa Pura I (Persero) Bandar Udara Juanda Surabaya.
+
+2. Rumusan Masalah
+Berdasarkan permasalahan yang terjadi di perusahaan yaitu untuk peningkatan
+job performance apakah sudah sesuai dengan Human Capital Management System
+yang ada di dalam perusahaan dan akan mempengaruhi kepuasan karir karyawan.
+Pada penelitian ini tidak menguji penilaian kinerja yang juga dapat mempengaruhi
+hasil kerja dan kepuasan karir karyawan.
+1. Apakah proactive personality berpengaruh terhadap job performance ?
+2. Apakah proactive personality berpengaruh terhadap job performance melalui
+career satisfaction ?
+3. Apakah OSCD berpengaruh terhadap job performance ?
+4. Apakah OSCD berpengaruh terhadap job performance melalui career
+satisfaction ?
+3. Tujuan
+Penelitian ini bertujuan untuk mengetahui job performance dengan
+menggunakan variabel organisational support for career management (OSCD) dan
+proactive personality dengan dimediasi oleh career satisfaction. Dari penilaian dua
+variabel OSCD, dan proactive personality ini kemudian menentukan seberapa besar
+kepuasan karir karyawan dan selanjutnya mengetahui pengaruh terhadap kinerja
+karyawan. Penelitian ini akan membantu perusahaan agar dapat memotivasi
+karyawan untuk mencapai jenjang karir dan bertujuan untuk dapat membangkitkan
+semangat karyawan untuk mencapai karir tersebut.
+
+a. Untuk mengetahui pengaruh proactive personality terhadap job performance.
+b. Untuk mengetahui pengaruh proactive personality terhadap job performance
+melalui career satisfaction.
+c. Untuk mengetahui pengaruh OSCD terhadap job performance.
+d. Untuk mengetahui pengaruh OSCD terhadap job performance melalui career
+satisfaction.
+4. Manfaat Penelitian
+Hasil penelitian ini diharapkan dapat digunakan sebagai acuan secara praktis
+dan teoritis. Secara praktis yaitu dapat membantu perusahaan untuk menilai seberapa
+besar kinerja karyawan dengan adanya dukungan yang diberikan oleh perusahaan,
+dan dapat membantu perusahaan untuk meningkatkan kinerja karyawan di PT.
+Angkasa Pura I (Persero) Bandar Udara Juanda Surabaya.
+Secara teoritis yaitu melihat pengaruh hubungan OSCD dan proactive
+personality terhadap job performance melalui career satisfaction. Membuktikan
+secara teori bahwa karyawan yang merasakan kepuasan karir maka mempunyai
+kinerja yang baik.

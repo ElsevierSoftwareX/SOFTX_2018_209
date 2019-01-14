@@ -1,0 +1,131 @@
+﻿ABSTRAK
+Kementerian Pendidikan Nasional (Kemdiknas) telah mencanangkan program beasiswa
+unggulan, salah satunya adalah beasiswa unggulan P3SWOT (Peneliti, Penulis, Pencipta,
+Seniman, Wartawan, Olahragawan, dan Tokoh). Sebagai penyelenggara program beasiswa
+unggulan P3SWOT, Sekretariat Beasiswa Unggulan BPKLN Kemdiknas telah menerapkan
+pemanfaatan teknologi informasi dalam bentuk website yang menyediakan informasi
+pendaftaran, formulir pendaftaran yang dapat di-download oleh calon pendaftar, dan
+pengumuman pemenang beasiswa. Namun, website yang dikembangkan cenderung bersifat
+statis. Mekanisme seleksi beasiswa unggulan P3SWOT yang berjalan saat ini juga tidak
+terlepas dari sejumlah persoalan, yaitu proses pendaftaran yang kurang efektif dan tidak
+terintegrasinya data pendaftaran beasiswa. Sistem informasi Seleksi Beasiswa Unggulan
+P3SWOT Kemdiknas Online dibangun untuk mengatasi permasalahan tersebut. Sistem
+informasi ini dikembangkan menggunakan Unified Process. Unified Process merupakan
+salah satu object oriented software development process yang terdiri atas 5 workflows,
+yaitu requirement, analysis, design, implementation, dan test. Sistem informasi ini
+dibangun menggunakan bahasa pemrograman PHP 5 dan sistem manajemen basis data
+MySQL 5. Sistem informasi ini dapat digunakan untuk menangani proses seleksi beasiswa
+unggulan P3SWOT meliputi proses pendaftaran, verifikasi dan penilaian pendaftaran,
+penetapan pemenang, dan pelaporan.
+
+Kata kunci : sistem informasi, beasiswa unggulan P3SWOT, Unified Process, berorientasi
+objek.
+
+BAB I
+PENDAHULUAN
+Pada bab ini diuraikan latar belakang, rumusan permasalahan, tujuan dan manfaat,
+ruang lingkup, dan sistematika penulisan dalam pembuatan tugas akhir ini.
+
+I.1. Latar Belakang
+Program beasiswa unggulan telah dicanangkan oleh Kementerian Pendidikan
+Nasional (Kemdiknas) dalam rangka meningkatkan daya saing bangsa Indonesia di segala
+bidang, khususnya mutu pendidikan dan pengembangan potensi sumber daya daerah yang
+dinilai masih sangat rendah. Salah satu jenis beasiswa unggulan yang ditawarkan oleh
+Kemdiknas adalah beasiswa unggulan P3SWOT (Peneliti, Penulis, Pencipta, Seniman,
+Wartawan, Olahragawan, dan Tokoh). Beasiswa P3SWOT ditawarkan bagi peneliti,
+penulis, pencipta, seniman, wartawan, olahragawan, dan tokoh. Beasiswa ini diberikan
+sebagai stimulasi bantuan beasiswa untuk lingkup nasional dan internasional dalam rangka
+menyiapkan para peneliti, pencipta, penulis, seniman, wartawan, olahragawan, dan tokoh
+yang cerdas dan kompetitif sesuai dengan visi pendidikan nasional (Susanto, dkk., 2010).
+Sekretariat Beasiswa Unggulan BPKLN (Biro Perencanaan dan Kerjasama Luar
+Negeri) Kemdiknas, sebagai penyelenggara program beasiswa unggulan P3SWOT, telah
+menerapkan pemanfaatan teknologi informasi dalam bentuk website, yaitu
+http://beasiswaunggulan.kemdiknas.go.id. Website ini menyediakan informasi pendaftaran,
+formulir pendaftaran yang dapat di-download oleh calon pendaftar, dan pengumuman
+pemenang beasiswa. Namun, pemanfaatan teknologi ini belum optimal, karena website
+yang dikembangkan cenderung bersifat statis. Interaksi yang terjadi dalam website tersebut
+hanya bersifat satu arah, yaitu dari penyedia website kepada pengguna.
+
+Mekanisme seleksi beasiswa unggulan P3SWOT yang berjalan saat ini juga tidak
+terlepas dari sejumlah persoalan, yaitu proses pendaftaran yang kurang efektif dan tidak
+terintegrasinya data pendaftaran beasiswa unggulan P3SWOT. Pendaftar harus
+mengirimkan berkas pendaftaran melalui jasa pos yang membutuhkan banyak waktu. Di
+samping itu, panitia seleksi beasiswa harus mendata berkas pendaftaran yang masuk
+sebelum melakukan proses seleksi dan penilaian. Untuk mengatasi berbagai persoalan yang
+masih dihadapi saat ini dan mengantisipasi jumlah pendaftar yang terus meningkat, perlu
+dikembangkan sebuah sistem informasi yang dapat menangani manajemen seleksi
+beasiswa unggulan P3SWOT dengan efektif dan dapat diakses secara online sehingga
+sistem tersebut dapat digunakan kapan dan di mana saja tanpa terbatas pada waktu dan
+tempat tertentu.
+
+Paradigma pengembangan perangkat lunak saat ini telah berkembang ke konsep
+object oriented. Perangkat lunak berorientasi objek menekankan konsep reusable sehingga
+proses pengembangan perangkat lunak dapat dilakukan lebih cepat dan berkualitas tinggi.
+Di samping itu, struktur perangkat lunak dapat diuraikan secara inheren serta mudah untuk
+diadaptasi dan diskalakan, baik untuk project skala kecil maupun besar (Pressman, 2001).
+Unified Process merupakan salah satu software development process yang
+menerapkan konsep berorientasi objek yang dikembangkan oleh Ivar Jacobson, Grady
+Booch, dan James Rumbaugh. Unified Process merupakan generic process framework
+yang dapat dispesialisasi untuk area aplikasi, tipe organisasi, tingkat kompetensi, dan
+ukuran projek yang berbeda (Jacobson, et al., 1999). Unified Process bersifat open, free,
+dan tidak terikat dengan vendor tertentu (Arlow, et al., 2002). Oleh karena itu, proses
+pengembangan sistem informasi ini menggunakan Unified Process sehingga diharapkan
+dihasilkan perangkat lunak yang berkualitas tinggi, reusable, dan mudah untuk dipelihara.
+
+I.2. Rumusan Masalah
+Berdasarkan uraian latar belakang, rumusan permasalahan yang diangkat dalam
+tugas akhir ini adalah bagaimana mengembangkan Sistem Informasi Seleksi Beasiswa
+Unggulan P3SWOT Kemdiknas Online dengan menggunakan Unified Process.
+
+I.3. Tujuan dan Manfaat
+Tujuan penyusunan tugas akhir ini adalah menghasilkan sistem informasi yang
+dapat menangani seleksi beasiswa unggulan P3SWOT Kemdiknas secara online
+menggunakan Unified Process.
+Adapun manfaat yang didapatkan dari penyusunan tugas akhir ini adalah sebagai
+berikut :
+1) Sekretariat Beasiswa Unggulan BPKLN Kemdiknas dapat mengelola seleksi beasiswa
+unggulan P3SWOT dengan lebih efektif.
+2) Proses pendaftaran beasiswa unggulan P3SWOT dapat dilakukan dengan lebih mudah
+menggunakan aplikasi pendaftaran yang dapat diakses secara online melalui jaringan
+Internet.
+
+I.4. Ruang Lingkup
+Ruang lingkup tugas akhir ini adalah kegiatan pengembangan Sistem Informasi
+Seleksi Beasiswa Unggulan P3SWOT Kemdiknas Online menggunakan Unified Process.
+Proses pengembangan sistem informasi ini dilakukan melalui fase-fase dalam Unified
+Process, namun penyajian laporan ini distrukturkan berdasarkan workflow. Proses seleksi
+yang ditangani dalam sistem informasi ini mencakup proses pendaftaran beasiswa hingga
+pelaporan untuk pemenang beasiswa. Sistem informasi ini tidak melakukan pendeteksian
+keabsahan dokumen yang di-upload oleh pendaftar dan tidak menangani administrasi
+pembiayaan untuk para pemenang beasiswa.
+
+
+I.5. Sistematika Penulisan
+Sistematika penulisan yang digunakan dalam tugas akhir ini terbagi dalam beberapa
+pokok bahasan, yaitu :
+
+BAB I PENDAHULUAN
+Bab ini berisi latar belakang, perumusan masalah, tujuan dan manfaat, ruang
+lingkup, dan sistematika penulisan dalam pembuatan tugas akhir.
+
+BAB II DASAR TEORI
+Bab ini berisi kumpulan studi pustaka yang berhubungan dengan topik tugas
+akhir. Dasar teori yang digunakan dalam penyusunan tugas akhir ini
+meliputi sistem informasi, beasiswa unggulan P3SWOT Kemdiknas, konsep
+object oriented, Unified Modeling Language (UML), Unified Process,
+bahasa pemrograman PHP, framework CodeIgniter, dan sistem manajemen
+basis data MySQL.
+
+BAB III DEFINISI KEBUTUHAN, ANALISIS, DAN PERANCANGAN
+Bab ini membahas proses pengembangan perangkat lunak dan hasil yang
+didapatkan pada tahap definisi kebutuhan, analisis, dan perancangan.
+
+BAB IV IMPLEMENTASI DAN PENGUJIAN
+Bab ini membahas proses pengembangan perangkat lunak dan hasil yang
+didapat pada tahap implementasi. Bab ini juga berisi rincian pengujian
+perangkat lunak yang dibangun dengan metode black box.
+
+BAB V PENUTUP
+Bab ini berisi kesimpulan yang diambil berkaitan dengan perangkat lunak
+yang dikembangkan dan saran-saran untuk pengembangan perangkat lunak
+lebih lanjut.

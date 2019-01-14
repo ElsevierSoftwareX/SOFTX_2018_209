@@ -1,0 +1,353 @@
+﻿PEMODELAN MATEMATIKA DAN SIFAT TERMODINAMIKA ISOTERM SORPSI AIR TEPUNG SINGKONG TERFERMENTASI ANGKAK
+
+ABSTRAK
+Tujuan penelitian ini untuk menentukan kurva isoterm sorpsi air, pemodelan isoterm sorpsi air dan sifat termodinamika pada tepung singkong terfermentasi angkak. Pemodelan isoterm sorpsi air yang digunakan meliputi GAB (Guggenheim Anderson deBoer), BET (Brunauer Emmet Teller) dan Caurie. Sedangkan uji ketepatan model dilakukan dengan MRD (Mean Relative Deviation) dan RMSE (Root Mean Square Error). Sifat termodinamika meliputi entalpi dan entropi dihitung dengan menggunakan persamaan Clausius - Clapeyron. Hasil penelitian menunjukkan bahwa kurva isoterm sorpsi air pada tepung singkong terfermentasi angkak berbentuk sigmoid (tipe II). Pemodelan isoterm sorpsi air pada tepung singkong terfermentasi angkak yang paling tepat adalah model GAB. Nilai MRD dan RMSE pada suhu 30˚C, 35˚C dan 40˚C berturut-turut sebesar 3,12 %; 2,71 %; 3,81 %; dan 1,01; 0,35; 0,42. Nilai kadar air monolayer pada suhu 30˚C, 35˚C dan 40˚C pada model GAB sebesar 6,61 %; 6,27 % dan 6,91 %; model BET sebesar 4,92 %; 4,86 % dan 5,19 %; sedangkan model Caurie sebesar 6,37 %; 6,18 % dan 5,30 %. Entalpi dan entropi dari proses penyerapan air menurun seiring dengan meningkatnya kadar air.
+Kata Kunci: Angkak, Isoterm Sorpsi Air, Pemodelan Matematika, Tepung Singkong, Termodinamika.
+
+PENDAHULUAN
+Di Indonesia, singkong merupakan produksi hasil pertanian yang besar dan dapat
+digunakan sebagai bahan baku untuk produk pangan (Koswara, 2013). Singkong
+merupakan hasil pertanian yang tidak tahan simpan sehingga diolah menjadi tepung untuk
+memperpanjang masa simpannya (Marniza et al., 2011). Fermentasi tepung singkong
+menggunakan kapang Monascus purpureus dalam bentuk angkak yang memiliki aktivitas
+sebagai antimikroba untuk dapat memperpanjang masa simpannya (Susetyo et al., 2016).
+Kurva isoterm sorpsi air (ISA) menggambarkan hubungan antara kelembaban
+relatif (RH) atau aktivitas air (aw) dengan kadar air kesetimbangan (Me) (Sianipar et al.,
+2008). Menurut Cahyanti (2008) kurva ISA dapat digunakan untuk menentukan sifat-sifat
+produk, parameter pengeringan, pengemasan dan penyimpanan pangan. Selain itu kurva ini
+juga dapat digunakan untuk menentukan masa simpan suatu bahan pangan berdasarkan
+batas kritis yang harus dicapai.
+Hubungan antara aw dan Me dapat dijelaskan dengan menggunakan model
+matematika. Model matematika yang digunakan dalam penelitian ini adalah model BET
+(Brunauer Emmet Teller), model GAB (Guggenheim Anderson deBoer) dan model Caurie
+yang cocok digunakan pada bahan pangan yang mengandung karbohidrat tinggi, rentang
+aw yang luas, serta kemudahan penggunaannya (Ajisegiri et al., 2007).
+Pemodelan matematika juga dapat digunakan untuk mengetahui nilai kadar air
+monolayer dan sifat termodinamikanya. Nilai kadar air monolayer digunakan untuk
+menentukan stabilitas kimia maupun fisika pada bahan pangan kering berdasarkan kurva
+ISA (Jamaluddin et al., 2014). Penyerapan jumlah air yang melebihi kadar air monolayer
+akan menyebabkan penurunan mutu tekstur, reaksi enzimatis maupun non enzimatis, dan
+mikrobiologis (Navarrete et al., 2004; Labuza, 1971). Sifat termodinamika meliputi entalpi
+dan entropi yang digunakan untuk mengetahui proses penyerapan air pada bahan pangan,
+interaksi antara komponen makanan dan air, serta dapat memperkirakan ketepatan energi
+dari proses pengeringan (Telis-Romero et al., 2005). 
+
+Tujuan penelitian ini adalah untuk menentukan kurva isoterm sorpsi air, pemodelan
+isoterm sorpsi air dan sifat termodinamika isoterm sorpsi air pada tepung singkong
+terfermentasi angkak. Pemodelan isoterm sorpsi air yang digunakan meliputi model GAB
+(Guggenheim Anderson deBoer), BET (Brunauer Emmet Teller) dan Caurie serta diuji
+ketepatan model menggunakan MRD (Mean Relative Deviation) dan RMSE (Root Mean
+Square Error).
+METODE PENELITIAN
+Sampel yang digunakan dalam penelitian ini adalah singkong yang difermentasi
+dengan angkak (Monascus purpureus). Bahan kimia yang digunakan adalah tujuh jenis
+garam yang digunakan untuk mengatur kelembaban relatif (relative humidity/RH), yaitu
+NaOH, MgCl2, K2CO3, Mg(NO3)2, KI, NaCl, KCl dari PT. Smart Lab Indonesia. Bahan
+kimia lain yang digunakan adalah akuades. Piranti yang digunakan untuk penelitian ini
+berupa cawan porselin, chamber untuk menentukan isoterm sorpsi, moisture analyzer
+untuk mengukur kadar air, neraca analitik, inkubator, termometer, higrometer, drying
+cabinet dan ayakan mesh 61 untuk pembuatan tepung.
+Pembuatan Tepung Singkong Terfermentasi Angkak (Lakahina et al., 2015)
+Singkong yang masih segar dibersihkan dari kulitnya kemudian dicuci dengan air
+mengalir. Singkong dikukus selama kurang lebih 60 menit, selanjutnya ditiriskan dan
+didinginkan sampai singkong mencapai suhu ruang. Singkong tersebut dipotong dan
+ditimbang sebanyak 1 kg kemudian diinokulasi dengan angkak dengan konsentrasi 12 %,
+lalu difermentasi selama 3 hari pada suhu ruang. Hasil fermentasi dikeringkan pada suhu
+55˚C sampai kering. Setelah itu hasil fermentasi dihaluskan dan diayak dengan ayakan
+mesh 61.
+Pengukuran Kadar Air Awal (Kumalasari, 2012)
+Sampel ditimbang sebanyak 0,5 g dalam cawan moisture analyzer. Moisture
+analyzer diset pada suhu 105˚C. Moisture analyzer ditutup dan ditunggu hasil kadar airnya.
+Hasil kadar air dicatat.
+Pengaturan Kelembaban Relatif (Hayati, 2004)
+Larutan garam jenuh dibuat menggunakan garam NaOH, MgCl2, K2CO3,
+Mg(NO3)2, KI, NaCl, KCl. Garam ditimbang dengan berat tertentu kemudian dimasukkan
+ke dalam beaker glass yang berisi air hangat suhu kurang lebih 50˚C dan diaduk sampai
+larut. Jika garam yang dilarutkan dapat larut sempurna, maka garam ditambahkan sedikit
+demi sedikit sampai garam tidak larut lagi. Larutan garam jenuh dibuat sebanyak 50 mL dimasukkan dalam sebuah glass container yang cukup untuk menampung larutan garam.
+Larutan didiamkan selama kurang lebih 7 hari untuk memperoleh RH yang konstan.
+Pengukuran Kadar Air Kesetimbangan (Aini et al., 2014)
+Sebanyak 5 g sampel masing-masing disimpan dalam chamber yang sudah diatur
+RH-nya menggunakan larutan-larutan garam jenuh. Larutan garam tersebut kemudian
+disimpan pada suhu 30˚C, 35˚C dan 40˚C. Penimbangan sampel dilakukan setiap hari
+selama 7 hari sampai tercapai steady state. Bila sampel telah berjamur sebelum 7 hari
+maka penimbangan dapat dihentikan.
+Pemodelan Matematika
+Model matematika yang digunakan untuk menentukan isoterm sorpsi air meliputi
+model GAB dengan kisaran aw 0,05 - 0,95; BET dengan kisaran aw 0,00 - 0,50 dan Caurie
+dengan kisaran aw 0,00 - 0,85 (Wariyah and Supriyadi, 2010; Hutasoit, 2009). Persamaan
+masing-masing model adalah sebagai berikut:
+Persamaan GAB (Hutasoit, 2009) :
+R:........................................................................... (1)
+Keterangan:
+M = kadar air (%) Mm = kadar air monolayer (%)
+aw = aktivitas air C = konstanta energi
+K = konstanta
+Persamaan BET (Adawiyah dan Soekarto, 2010):
+R:............................................................................ (2)
+Keterangan:
+M = kadar air (%) aw = aktivitas air
+Mm = kadar air monolayer (%) C = konstanta
+Persamaan Caurie (Caurie, 1981):
+ln = -ln(C.Mm) + .............................................................. (3)
+Keterangan:
+M = kadar air (%) Mm = kadar air monolayer (%)
+C = konstanta Caurie aw = aktivitas air
+
+Uji Ketepatan Model (Iglesias and Chirife, 1976)
+Validitas statistik dari tiap-tiap model ditentukan menggunakan parameter statistik
+MRD (Mean Relative Deviation) dan RMSE (Root Mean Square Error) dengan persamaan
+(4) dan (5):
+MRD = .......................................................................... (4)
+RMSE = ................................................................ (5)
+Keterangan:
+Mi = kadar air hasil percobaan MRD < 5 maka model sangat tepat
+Mpi = kadar air hasil perhitungan 5 < MRD < 10 maka model agak tepat
+n = jumlah data MRD > 10 maka model tidak tepat
+Karakteristik Isoterm Sorpsi Air
+Karakteristik isoterm sorpsi air pada tepung singkong terfermentasi angkak
+dianalisa meliputi kadar air monolayer menggunakan persamaan GAB, BET dan Caurie,
+serta entalpi dan entropi proses penyerapan air menggunakan persamaan Clausius-
+Clapeyron.
+Persamaan Clausius - Clapeyron (Togrul and Arslan, 2007):
+R: .................................................................................. (6)
+Qst = + qc ............................................................................................... (7)
+R:...................................................................................... (8)
+Keterangan:
+= kalor serap bersih (kJ mol-1) aw = aktivitas air
+R = konstanta gas (8,314 J mol-1K-1) T = suhu (K)
+qc = kalor laten (43,53 kJ mol-1) = entropi (Jmol-1 K-1 Kg-1)
+Qst = entalpi (kJ mol-1 Kg-1)
+Analisa Data (Motulsky and Christopoulos, 2004)
+Pengulangan dilakukan sebanyak 3 kali untuk sampel pada setiap jenis larutan
+garam, kemudian data dianalisa menggunakan regresi linier dan regresi non-linier.
+PEMBAHASAN
+Kelembaban relatif (RH), aktivitas air (aw) dan kadar air kesetimbangan (Me) pada
+tepung singkong terfermentasi angkak ditunjukkan pada Tabel 1. Hubungan antara aw dan dengan
+dan , BET (Brunauer Emmet Teller) dengan (R...) dan (R:...) serta Caurie dengan (R...) dan (R...). Gambar 2 menunjukkan kurva
+pemodelan isoterm sorpsi air pada tepung singkong terfermentasi angkak dengan suhu
+30˚C, 35˚C dan 40˚C pada model GAB (a), BET (b) dan Caurie (c).
+
+Gambar 2. Pemodelan isoterm sorpsi air pada tepung singkong terfermentasi angkak suhu
+30˚C, 35˚C dan 40˚C pada model GAB (a), BET (b) dan Caurie (c).
+
+Persamaan regresi linier maupun non-linier dari masing-masing pemodelan
+digunakan untuk menentukan kadar air kesetimbangan pada hasil perhitungan (Mhit). Tabel
+2 menunjukkan nilai kadar air kesetimbangan hasil percobaan (Me) dan kadar air
+kesetimbangan hasil perhitungan (Mhit) dengan model GAB, BET dan Caurie.
+Tabel 2. Nilai Me dan Mhit model GAB, BET dan Caurie.
+Garam
+Suhu 30˚C Suhu 35˚C Suhu 40˚C
+Me
+Mhit
+Me
+Mhit
+Me
+Mhit
+GAB BET Caurie GAB BET Caurie GAB BET Caurie
+NaOH
+MgCl2
+K2CO3
+Mg(NO3)2
+KI
+NaCl
+KCl
+2,49
+6,57
+8,88
+13,08
+18,54
+24,35
+39,59
+2,43
+6,90
+8,78
+13,12
+17,55
+23,96
+42,02
+-0,29
+8,66
+3,68
+3,41
+4,37
+6,91
+85,21
+3,54
+6,94
+8,28
+11,17
+14,02
+18,48
+57,56
+2,37
+6,09
+8,43
+10,88
+16,85
+22,52
+35,49
+2,32
+6,53
+7,99
+10,88
+16,46
+22,63
+36,06
+-0,34
+7,11
+3,88
+3,47
+4,89
+8,31
+72,34
+3,19
+6,42
+7,51
+9,58
+13,46
+18,32
+49,05
+2,14
+4,88
+6,62
+8,57
+12,23
+15,28
+17,22
+2,06
+5,31
+6,54
+8,37
+11,66
+15,07
+18,01
+3,09
+5,17
+6,00
+7,38
+10,53
+14,91
+20,00
+2,26
+5,06
+6,21
+7,99
+11,42
+15,32
+19,16
+Perbandingan antara kadar air kesetimbangan hasil perhitungan (Mhit) dengan kadar
+air kesetimbangan hasil percobaan (Me) dapat digunakan untuk menghitung nilai MRD dan
+RMSE. Tabel 3 menunjukkan nilai MRD dan RMSE untuk masing-masing model
+matematika pada suhu 30˚C, 35˚C dan 40˚C.
+Tabel 3. Nilai MRD pemodelan pada suhu 30˚C, 35˚C dan 40˚C.
+Pemodelan
+Nilai MRD (%) Nilai RMSE
+30˚C 35˚C 40˚C 30˚C 35˚C 40˚C
+GAB
+BET
+Caurie
+3,12
+77,07
+23,34
+2,71
+70,14
+19,95
+3,81
+15,16
+5,78
+1,01
+19,71
+7,40
+0,35
+15,98
+5,56
+0,42
+1,39
+0,84
+Berdasarkan Tabel 3 model yang tepat untuk menggambarkan fenomena isoterm
+sorpsi air adalah model yang memiliki nilai MRD < 5, yaitu model GAB. Menurut
+Timmermann et al. (2001) model GAB memiliki rentang aw ~ 0,9 sehingga model ini tepat
+untuk mendeskripsikan data-data isoterm sorpsi air. Hal ini diperkuat dengan penelitian
+Menkov and Durakova (2007) bahwa model GAB cocok untuk menggambarkan hubungan
+antara kadar air kesetimbangan, aktivitas air dan suhu pada isoterm sorpsi air tepung wijen.
+Penelitian Aini et al. (2014) menunjukkan bahwa model GAB dapat menggambarkan
+kurva isoterm sorpsi air tepung jagung instan.
+
+Model GAB, BET dan Caurie digunakan untuk menghitung kadar air monolayer.
+Tabel 4 menunjukkan hasil kadar air monolayer (Mo) pemodelan pada masing-masing
+suhu.
+Tabel 4. Nilai Mo pemodelan pada suhu 30˚C, 35˚C dan 40˚C.
+Pemodelan
+Mo
+30˚C 35˚C 40˚C
+GAB
+BET
+Caurie
+6,61
+4,92
+6,37
+6,27
+4,86
+6,18
+6,91
+5,19
+5,30
+Ikatan yang kuat terhadap air dapat disebut dengan kadar air monolayer. Menurut
+Aini et al. (2014) stabilitas fisik dan kimia bahan yang dikeringkan ditentukan oleh
+kandungan air pada lapisan monolayer ini. Berdasarkan Tabel 4 dapat dilihat bahwa nilai
+Mo pada masing-masing model memiliki nilai yang berbeda pada tiap suhu. Pada model
+GAB dan BET dari suhu 30˚C ke suhu 35˚C mengalami penurunan nilai kadar air
+monolayer, sedangkan dari suhu 35˚C ke suhu 40˚C mengalami kenaikan nilai kadar air
+monolayer. Nilai Mo pada model caurie hasilnya menurun dengan naiknya suhu. Hasil
+penelitian Menkov and Durakova (2007) nilai Mo menggunakan model BET pada tepung
+wijen menurun dengan meningkatnya suhu. Penelitian Jha et al. (2014) nilai Mo dengan
+model GAB pada tepung bebas Gluten meningkat seiring dengan meningkatnya suhu.
+Perbedaan nilai Mo disebabkan oleh komposisi kimia, struktur dan lingkungan seperti suhu
+(Rahman, 2009). Menurut Noguchi (1981) ketika suhu dinaikkan maka hidrasi hidrofobik
+akan turun sehingga jumlah air yang diikat juga akan turun.
+Tabel 5. Nilai entalpi dan entropi proses penyerapan air pada tepung singkong
+terfermentasi angkak.
+Me (% bk) ΔH (kJ mol-1 Kg-1) ΔS (J mol-1 K-1 Kg-1)
+4,5
+6
+7,5
+9
+10,5
+12
+-65540,05
+-26639,03
+-13440,84
+-7054,94
+-3489,60
+-1352,44
+196,92
+76,32
+36,09
+17,05
+6,67
+0,62
+
+Persamaan Clausius - Clapeyron digunakan untuk menghitung nilai entalpi dan
+entropi proses penyerapan air pada tepung singkong terfermentasi angkak yang dapat
+dilihat pada Tabel 5. Berdasarkan Tabel 5 nilai entalpi bernilai negatif dan proses
+penyerapan air menurun dengan meningkatnya kadar air. Hal ini menjelaskan bahwa nilai
+entalpi yang bernilai negatif menunjukkan reaksi eksoterm yang terjadi pelepasan kalor
+dari sistem ke lingkungan (Kaleemullah and Kailappan, 2007). Pada tingkat kadar air yang
+tinggi maka kekuatan untuk mengikat air akan menurun sedangkan pada kadar air rendah
+paling banyak terjadi penyerapan sehingga menimbulkan interaksi energi yang besar
+(Togrul and Arslan, 2007; Villa-Velez et al., 2012). Nilai entropi proses penyerapan air
+juga menurun seiring dengan meningkatnya kadar air. Hal ini menjelaskan bahwa gerakan
+molekul akan lebih terbatas jika kadar air menurun (Eim et al., 2011). Hasil Penelitian
+Ayala - Aponte (2015) pada tepung singkong dan penelitian Owo et al. (2016) pada tepung
+ubi, nilai entalpi dan entropi menurun dengan meningkatnya kadar air.
+KESIMPULAN
+Kurva isoterm sorpsi air pada tepung singkong terfermentasi angkak mempunyai
+bentuk sigmoid yang mendekati tipe II. Model yang tepat untuk menggambarkan fenomena
+isoterm sorpsi air pada tepung singkong terfermentasi angkak adalah model GAB dengan
+nilai MRD dan RMSE pada suhu 30˚C, 35˚C dan 40˚C secara berturut-turut sebesar
+3,12 %; 2,71 %; 3,81 % dan 1,01; 0,35; 0,42. Nilai kadar air monolayer suhu 30˚C, 35˚C
+dan 40˚C berturut-turut pada model GAB sebesar 6,61 %; 6,27 % dan 6,91 %; model BET
+sebesar 4,92 %; 4,86 % dan 5,19 %; sedangkan model Caurie sebesar 6,37 %; 6,18 % dan
+5,30 %. Entalpi dan entropi proses penyerapan air menurun seiring dengan meningkatnya
+kadar air.

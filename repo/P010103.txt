@@ -1,0 +1,460 @@
+﻿Pengembangan Peta Bahaya Banjir Berdasarkan Model Matematik Quasi 2 Dimensi  
+
+
+Abstrak
+
+Jakarta selalu mengalami banjir di setiap tahun pada saat musim penghujan. 
+
+Permasalahan ini sudah seharusnya menjadi perhatian dan pembelajaran agar dapat membantu masyarakat yang terkena banjir. 
+
+Untuk meningkatkan ketahanan masyarakat terhadap banjir perlu dikembangkan peta bahaya banjir sehingga masyarakat mengetahui daerah yang rawan banjir. 
+
+Pengembangan peta bahaya banjir dilakukan berdasarkan model matematik quasi 2 dimensi dengan menerapkan program Sobek 1D2D. 
+
+Berdasarkan hasil pengembangan tersebut telah dihasilkan bahwa genganan banjir yang dihasilkan sekitar 9.901 Ha untuk periode ulang 2 tahunan, 10.736 Ha untuk periode ulang 5 tahun, 11.369 Ha untuk periode ulang 10 tahun, 12.151 Ha untuk periode ulang 25 tahun, 12.799 Ha untuk periode ulang 50 tahun dan 13.810 Ha untuk periode ulang 100 tahun. 
+
+Selain itu peta bahaya banjir ini juga dibandingkan dengan hasil monitoring di lapangan untuk kejadian banjir 2013 dan 2014 dan menujukkan hasil yang cukup memuaskan.
+
+
+Kata-kata Kunci: Model genangan banjir, Peta bahaya banjir, Model banjir, Model banjir 2 dimensi.
+
+   1.Pendahuluan 
+
+Perkembangan teknologi dalam rangka untuk memodelkan genangan banjir saat ini sudah terbuka lebar.
+
+Salah satu penelitian yang dikembangkan adalah dengan melakukan integrasi antara sistem informasi geografis dengan pemodelan hidrodinamika untuk mendapatkan informasi banjir dan genangan yang digunakan untuk perencanaan darurat banjir di Eskilstuna, Swedia.
+
+Hasilnya menunjukkan bahwa integrasi GIS dan pemodelan hidrodinamika adalah cara yang efisien memprediksi banjir dan mendapatkan informasi banjir untuk perencanaan dan evaluasi tingkat risiko tanggap darurat yang ditujukan kepada masyarakat setempat (Yang dan Rystedt, 2002).
+
+Penelitian lain yang terkait dengan pemodelan banjir dilakukan oleh Timbadiya, et.al.(2014) di Sungai Tapi di India.
+
+Model yang digunakan dalam penelitian tersebut adalah menggunakan MIKE-11, setelah sebelumnya dilakukan kalibrasi dan validasi.
+
+Model yang dikembangkan tersebut dievaluasi dengan menggunakan kesalahan rata-rata (root mean square error) dan memuaskan untuk daerah dengan kondisi data yang minim.
+
+Studi lain yang dilakukan dengan tujuan untuk melihat pengaruh ukuran piksel yang digunakan dalam model untuk menghasilkan genangan banjir dan mengembangkan multi parameter untuk peta bahaya banjir dengan memasukan parameter multi hazard.
+
+Hasil studi yang dilakukan, tidak dapat memodelkan continuous overland flow pada daerah jalan (roads) yang memiliki lebar kurang dari ukuran grid dengan resolusi y2 dari ukuran grid yang digunakan dalam pemodelan.
+
+Jalur aliran yang efektif juga menghilang antara bangunan dengan meningkatnya ukuran piksel.
+
+Sehubungan dengan efek resolusi piksel pada hasil model, ditemukan bahwa adanya peningkatan kecepatan dengan penurunan resolusi piksel dalam wilayah dataran banjir.
+
+Juga kecepatan relatif lebih tinggi dan kedalaman air yang diamati di daerah terbangun dibandingkan dengan tidak ada yang terbangun (Tennakoon, 2004).
+
+Berdasarkan studi yang dilakukan oleh Tennakoon (2004) dapat disimpulkan bahwa untuk mewakili aliran di lahan, jalan (roads) harus dimodelkan dalam DEM dengan ukuran piksel yang lebih kecil jika elevasi mereka berbeda dari yang sebenarnya.
+
+Sebuah resolusi tinggi DEM diperlukan untuk penelitian yang berhubungan dengan eksplorasi kondisi aliran di sekitar struktur yang diamati.
+
+Ukuran DEM sekitar 10m cukup untuk menghasilkan peta bahaya banjir yang realistis di perkotaan.
+
+Pemodelan dengan menggunakan ukuran grid yang sangat kecil (10 m) akan mengalami kesulitan pada daerah perkotaan yang sangat luas dan minimnya data pengukuran topografi seperti yang terjadi di Jakarta.
+
+Menggunakan ukuran grid yang kecil dalam melakukan pemodelan dapat berimplikasi terhadap banyak waktu yang diperlukan untuk melakukan running model dan kemampuan komputer yang tinggi untuk melaksanakannya.
+
+Selain itu kendala dalam melakukan simulasi 2D-hidrodinamika dalam mengevaluasi dampak yang digunakan untuk tingkat keamanan potensial banjir memberikan ketidakpastian muka air banjir karena karakteristik kekasaran yang pasti di dataran banjir belum dapat ditentukan (Straatsma dan Huthoff, 2010).
+
+Degradasi lahan di Jakarta merupakan salah satu faktor penyebab terjadinya banjir, selain faktor drainase yang sudah tidak mampu menampung air akibat mengalami pendangkalan, akibat sampah yang menumpuk di saluran, serta intensitas hujan yang tinggi.
+
+Banjir yang melanda wilayah Jakarta hampir terjadi setiap tahun saat musim hujan.
+
+Frekuensi banjir yang terjadi di Jakarta sudah semestinya dapat memberikan pengalaman bagi masyarakat untuk dapat mengantisipasi kemungkinan resiko yang dihadapi.
+
+Hal ini dapat juga memberikan peningkatan terhadap ketahanan (resilience) di masyarakat terhadap banjir.
+
+Model genangan banjir adalah salah satu perangkat yang dapat digunakan untuk memitigasi dan memprediksi lokasi yang terindikasi banjir, baik luas area yang tergenang maupun tinggi genangan.
+
+Hasil ini dapat digunakan sebagai salah satu peta bahaya banjir yang digunakan oleh masyarakat sebagai bagian dari proses pembelajaran dalam meningkatkan ketahanan masyarakat terhadap banjir serta digunakan untuk memetakan resiko banjir.
+
+Untuk meningkatkan pemahaman masyarakat terhadap bahaya ancaman banjir di masyarakat perlu disosialisasikan dengan membuat peta bahaya banjir.
+
+Masyarakat harus mengetahui bahwa mereka berada pada zona yang bahaya banjir sehingga dapat mengatisipasi kemungkinan banjir tersebut datang atau meningkatkan ketahanan masyarakat yang berada pada zona bahaya banjir.
+
+Oleh karena hal tersebut, maka pembuatan peta bahaya banjir di Jakarta bertujuan untuk mengetahui daerah yang rentan terhadap banjir sehingga dengan diketahuinya daerah yang rentan tersebut dapat memberikan pemahaman kepada masyarakat terhadap kondisi daerah yang ditempati.
+
+Peta daerah bahaya banjir yang dihasilkan kemudian dibandingkan dengan genangan banjir dari hasil monitoring sebagai bahan validasi.
+
+2.Gambaran Umum Jakarta 
+
+Provinsi Jakarta terletak pada posisi 5o19’12” - 6o23’54” LS dan 106o22’42” - 106o58’18” BT terdiri atas daratan seluas 662 km2 dan perairan laut seluas 6.998 km2 serta 110 pulau yang berlokasi di Kabupaten Kepulauan Seribu.
+
+Daratan utama wilayah Jakarta di bagian utara dibatasi oleh garis pantai sepanjang ± 32 km berbatasan dengan Provinsi Banten di bagian barat dan berbatasan dengan Kabupaten Bekasi di bagian timur.
+
+Bagian selatan Jakarta berbatasan dengan Provinsi Jawa Barat.
+
+Sebagai Ibu Kota, Jakarta memiliki aktivitas berskala pelayanan internasional, nasional, regional, dan lokal, hal ini mendorong terjadinya peningkatan berbagai komponen kegiatan perkotaaan terutama pada kawasan yang telah berkembang.
+
+Pesatnya perkembangan kawasan perkotaan, memberikan dampak positif bagi perkembangan ekonomi, disisi lain dapat mengakibatkan timbulnya permasalahan lingkungan.
+
+Bencana banjir ataupun genangan air (inundation) yang terjadi di Jakarta, pada hakekatnya memiliki korelasi dengan pesatnya perkembangan kawasan perkotaan di Jabodetabekpunjur, yang kenyataannya tidak lagi sesuai dengan fungsi yang seharusnya.
+
+Provinsi Jakarta secara administratif berada pada kawasan delta.
+
+Delta ini merupakan daerah endapan di muara sungai yang berbatasan dengan laut.
+
+Karena posisinya tersebut, maka aliran sungai selalu melalui daerah ini saat air menuju laut.
+
+Berdasarkan keadaan tofografinya, wilayah Provinsi Jakarta dikategorikan sebagai daerah datar dan landai.
+
+Ketinggian tanah dari pantai sampai ke banjir kanal berkisar antara 0-10 m di atas permukaan laut diukur dari titik nol Tanjung Priok.
+
+Sedangkan dari banjir kanal sampai batas paling selatan di wilayah Provinsi Jakarta antara 5-50 m di atas permukaan laut.
+
+Daerah pantai merupakan daerah rawa yang selalu tergenang air pada musim hujan.
+
+Berdasarkan data elevasi yang dihasilkan dari LIDAR dengan ukuran DEM sekitar 2 x 2 m, diperoleh informasi bahwa daerah yang berada di bawah permukaan air laut dengan elevasi +1.2 m PP, seperti terlihat pada Gambar 1.
+
+Area yang berada di bawah permukaan laut tersebut sekitar 9% dari wilayah Jakarta.
+
+Luasnya daerah yang berada di bawah permukaan laut, menjadi ancaman bagi penduduk sekitar terhadap bahaya banjir dari laut disamping juga dari hulu.
+
+Tingginya intensitas hujan di Jakarta merupakan salah satu penyebab terjadinya banjir.
+
+Hujan maksimum rata-rata yang terjadi di Jakarta sekitar 110 mm per hari (Ginting, 2015).
+
+Hujan sebesar itu sangat tinggi bila dibandingkan dengan di Bandung yang hanya sekitar 80 mm per hari (UCBFM, 2010).
+
+Intensitas yang tinggi ini tidak dibarengi dengan kapasitas saluran atau drainase yang memadai serta pemeliharaan yang kurang sehingga menyebabkan banjir.
+
+3. Pementaan Bahaya Banjir 
+
+3.1 Metode analisis 
+
+Pemetaan daerah bahaya banjir dilakukan berdasarkan simulasi model matematik banjir di Jakarta.
+
+Proses pemetaan daerah rawan banjir tersebut dapat dilihat pada Gambar 2.
+
+Prosedur seperti pada Gambar 2. dilakukan berdasarkan hujan rencana pada suatu daerah aliran sungai (DAS) yang diimplementasikan pada model matematik quasi 1 dimensi banjir yang siap pakai.
+
+ 3.2 Deskripsi model genangan banjir 
+
+Model genangan banjir umumnya masih dilakukan secara terpisah antara simulasi hidrologi dan hidraulik.
+
+Padahal suatu objek yang menjadi permasalahan, kadang sangat dipengaruhi oleh sekitarnya sehingga tidak dapat terlepas dengan wilayah lainnya, apalagi permasalahan tersebut berkaitan dengan banjir yang terkait dengan ruang dan waktu.
+
+Konsep pemodelan simulasi yang dilakukan di daerah Jakarta menggunakan pemodelan matematis yang dapat mengambarkan profil aliran di sungai dan drainase utama mulai dari perhitungan hidrologi sampai pada perhitungan daerah genangan.
+
+Pemodelan banjir di Jakarta terdiri dari tiga konsep seperti yang terlihat pada Gambar 3 Konsep tersebut dapat dijelaskan berikut ini: 
+
+1. The hydrological rainfall runoff module (RR) yang digunakan untuk mentransformasi hujan menjadi limpasan di setiap subdas dan kemudian digunakan sebagai masukan untuk perhitungan hidraulik 1D.
+
+2. The one-dimensional hydraulic module (1D) yang digunakan untuk menghitung aliran 1-D melalui sungai utama dan saluran makro.
+
+3. The 2-dimensional hydraulic module (2D) yang digunakan untuk menghitung daerah genangan banjir pada saat terjadianya overtoping.
+
+Program SOBEK digunakan untuk memodelkan banjir di Jakarta.
+
+Program ini digunakan agar dapat melakukan ketiga konsep tersebut di atas secara terintegrasi antara model hidraulik dan hidrologi.
+
+Konsep teoritis yang digunakan oleh SOBEK untuk melakukan perhitungan terhadap tiga pendekatan digunakan untuk memodelkan banjir di daerah Jakarta.
+
+Gambar 3.Metode pemodelan banjir Jakarta (Putuhena dan Ginting, 2013)     
+
+ 3.3 Pemodelan hidraulik sungai 1D 
+
+Persamaan yang digunakan untuk melakukan perhitungan muka air di sungai didekati dengan persamaan Saint Venant.
+
+Perhitungan 1D menggunakan persamaan kontinuitas dan persamaan momentum.
+
+Persamaan kontinuitas adalah sebagai berikut (Deltares, 2014): 
+
+___
+__
++
+__
+__
+= 	__
+
+dimana:
+AAA: Luas penampang basah (m2)
+qlat : Debit lateral per satuan panjang
+t : Waktu (s)
+x : Jarak (m)
+Q : Debit (m3/s)
+Persamaan lainnya yang digunakan dalam analisis
+untuk 1D adalah persamaan momentum seperti berikut
+ini (Deltares, 2014):
+Untuk pemodelan 2D (overland flow), persamaan
+yang digunakan untuk melakukan perhitungan adalah
+sebagai berikut:
+1. Persamaan Kontinuitas 2D
+2. Persamaan Kontinuitas 2D untuk arah - x
+3. Persamaan Kontinuitas 2D untuk arah – y
+
+
+3.3.1 Pemodelan hidraulik 2D 
+
+Perhitungan aliran 2D menggunakan tiga persamaan yaitu persamaan kontinuitas 2D, persamaan momentum 2D arah sumbu-x, dan persamaan momentum 2D arah sumbu-y.
+
+     a.3 Persamaan kontinuitas 2D
+
+Persamaan kontinuitas 2D adalah sebagai berikut
+(Deltares, 2014):
+dimana:
+u : kecepatan arah sumbu -x
+v : kecepatan arah sumbu -y
+V : kecepatan V = :v2 + u2
+ζ : muka air diatas referensi
+h : kedalaman muka air ζ + d
+d : kedalaman dibawah referensi (m)
+
+
+b.Persamaan momentum aliran 2D arah sumbu-x 
+
+__
+__
++ _
+__
+__
++  
+__
+_!
++ _
+__
+__
++ _
+_|"|
+_2ℎ
++ __|_| = 0 (4)
+
+dimana:
+C : koefisien Chezy
+a : koefisien kekasaran dinding
+
+
+
+c. Persamaan momentum aliran 2D arah sumbu-y
+
+_ 
+__
++ _
+_ 
+__
++  
+_ 
+_!
++ _
+__
+__
++ _
+_|"|
+_2ℎ
++ _ | | = 0 (5)
+
+
+c. Persamaan momentum aliran 2D arah sumbu-y 3.
+
+3.2 Interkoneksi antara 1D2D 
+
+Perhitungan 1D dilakukan di sungai dan perhitungan 2D dilakukan di lahan.
+
+Untuk menghubungkan antara 1D dengan 2D dapat dilakukan dengan cara berikut ini: 
+
+1. Hubungkan antara node 1D (cross section) dengan grid 2D.
+2. Hubungkan antara titik-titik perhitungan (calculation points) 1D dan grid 2D.
+
+Aturan tersebut harus diingat, bahwa hanya satu koneksi per grid sel diperbolehkan.
+
+Dengan kata lain, tidak boleh memiliki dua simpul dalam satu sel grid yaitu simpul penghubung dan simpul titik perhitungan, atau lebih dari satu koneksi simpul atau titik perhitungan per sel grid.
+
+Hal ini diasumsikan bahwa 1D dan 2D adalah dua layer peta yang berdiri sendiri yang dapat saling tumpang tindih (overlapping).
+
+Penentuan kode perhitungan titik-titik penghubung antara 1D dengan 2D didasarkan pada koordinat dari posisi di tengah-tengah grid 2D dan koordinat dari simpul penghubung Jika node tersebut berada dalam kriteria tertentu, maka sambungan (connection) dibuat diantaranya.
+
+Kriteria tersebut, jika dinyatakan dalam istilah matematika, adalah sebagai berikut: 
+
+
+
+Jika (|X1-X2| <= DX/2) dan (|Y1-Y2| <= DY/2),
+Keterangan:
+X1 = x koordinat peta untuk titik 1D
+X2 = x koordinat peta untuk grid 2D
+Y1 = y koordinat peta untuk titik 1D
+Y2 = y koordinat peta untuk grid 2D
+DX = lebar dari grid pada arah -x
+DY = lebar dari grid untuk arah -y (DX dan DY adalah sama) maka titik 1D tersebut diasumsi kan berada di dalam grid 2D.
+
+
+Hubungan antara grid sel 2D dan 1D dilakukan dengan cara sebagai berikut (Gambar 4): 
+
+1. Pusat node 1D secara internal dipindahkan ke pusat sel grid 2D, tanpa mengubah panjang penghubung
+1D.
+
+2.Grid 2D dihitung sebagai bagian dari Node 1D.
+
+3. Jika level aliran dalam saluran 1D dibawah dari grid 2D, maka diperlakukan sebagai aliran 1D, sedangkan jika level aliran 1D di atas grid 2D, maka diperlakukan sebagai aliran 2D dengan luas sebesar ukuran sel grid 2D.
+
+
+3. Analisis dan Diskusi 
+
+4.1 Model genangan banjir Jakarta Model genangan banjir yang dikembangkan di Jakarta dilakukan berdasarkan perhitungan hidraulik 1D untuk penelusuran banjir di sungai dan selanjutnya diintegrasikan dengan 2D untuk menentukan daerah genangan banjir jika terjadi overflow dari badan sungai.
+
+Model genangan banjir di Jakarta awalnya dikembangkan dalam rangka untuk pembuatan flood hazard map di Jakarta pada tahun 2007 (Verschelling & Udo, 2007) dan dilanjutkan lagi pada tahun 2009 (Ogink, et al., 2009).
+
+Model yang dihasilkan pada pekerjaan tersebut digunakan sebagai modal dasar untuk melakukan pembaharuan (updating) data khususnya data geometri sungai yang telah mengalami perubahan terhadap sistem tata air maupun dari segi kapasitasnya.
+
+Beberapa pembaharuan data yang dilakukan terhadap model sebelumnya adalah adanya perubahan kondisi eksisting di lapangan seperti telah dibangunnya Banjir Kanal Timur, Rehabilitasi terhadap Waduk Pluit, Rehabilitasi terhadap Pintu Manggarai, Normalisasi Banjir Kanal Barat dan terdapatnya data pengukuran baru yang dihasilkan dalam Jakarta Urgent Flood Mitigation Project- Jakarta Emergency Dredging Initiative pada beberapa sungai dan saluran.
+
+Model genangan banjir yang telah dilakukan updating tersebut digunakan untuk menentukan daerah bahaya banjir berdasarkan kondisi terburuk yang mungkin terjadi.
+
+Kondisi terburuk yang mungkin terjadi, dinyatakan dalam prediksi hujan di masa mendatang.
+
+Prediksi hujan dimasa mendatang diperkirakan berdasarkan tingkat peluang kejadiannya.
+
+Data hujan ini digunakan sebagai batas kondisi untuk memodelkan perilaku banjir.
+
+Pengembangan model genangan banjir memerlukan data digital elevation model (DEM) di wilayah administratif Jakarta.
+
+Data DEM yang dibentuk dari kondisi di atas dalam tipe format grid dengan ukuran grid yang digunakan adalah 100 x 100 m.
+
+Semakin kecil ukuran grid yang digunakan tentu saja memberikan hasil yang lebih baik, namun memerlukan waktu yang lama untuk melakukan simulasi banjir di seluruh DKI Jakarta.
+
+Berdasarkan hasil studi oleh Verschelling dan Udo (2007), menguji pola genangan banjir di Jakarta dengan ukuran grid berbeda antara 50 m dengan 100 m dan hasilnya tidak menunjukkan perbedaan yang signifikan.
+
+Oleh karena itu, pemodelan banjir yang dilakukan selajutnya menggunakan ukuran grid sebesar 100 m.
+
+4.2 Peta bahaya banjir (flood hazard map) 
+
+Model genangan banjir yang telah dikembangkan selanjutnya digunakan memprediksi daerah genangan yang mungkin terjadi dimasa yang akan datang berdasarkan kondisi hujan rencana.
+
+Hujan rencana yang terjadi di DAS Jakarta telah diidentifikasi dan dipetakan di seluruh DAS dengan menggunakan fungsi GEV (Ginting, 2015).
+
+Hujan rencana yang digunakan dalam simulasi banjir ini dapat dilihat pada Gambar 5.
+
+ Memetakan daerah bahaya banjir dilakukan berdasarkan hujan rencana dari beberapa periode ulang mulai dari 2, 5, 10, 25, 50 dan 100 tahun yang disimulasikan pada model yang telah disiapkan sebelumnya.
+
+Hasil keluaran dari model tersebut adalah genangan banjir berdasarkan hujan rencana yang digunakan.
+
+Data masukan model matematik yang digunakan adalah hujan rencana dengan beberapa periode ulang.
+
+Hujan rencana dengan periode ulang 2 tahun sebagai masukkan untuk model matematik, maka akan menghasilkan luas genangan banjir sekitar 9.901 Ha.
+
+Genangan banjir yang terburuk ini terjadi di bagian Barat Jakarta dengan tinggi genangan banjir mencapai lebih dari 2 m.
+
+
+
+Gambar 7.Genangan banjir berdasarkan hujan rencana periode ulang 2 tahun 
+
+Gambar 8. Genangan banjir berdasarkan hujan rencana periode ulang 
+
+
+Daerah yang mengalami genangan terburuk tersebut adalah daerah Kapuk, Pejagalan, Wijaya Kesuma, dan Jelembar Baru serta beberapa daerah yang lainnya seperti terlihat pada Gambar 7 Volume banjir yang terjadi dengan luas genangan seperti pada Gambar 7 adalah sekitar 72.668.090,52 m3.
+
+Genangan banjir yang dihasilkan berdasarkan hujan rencana dengan periode ulang yang lebih tinggi dapat dilihat pada Gambar 8 Luas dan volume genangan banjir yang dihasilkan dari beberapa hujan rencana tersebut dapat dilihat pada Tabel 1.
+
+   Gambar 9. Genangan banjir berdasarkan hujan rencana periode ulang (lanjutan) 
+
+Gambar 10. Genangan banjir berdasarkan hujan rencana periode ulang (lanjutan) 
+
+Gambar 11.Genangan banjir berdasarkan hujan rencana periode ulang (lanjutan) 
+
+Gambar 12.Genangan banjir berdasarkan hujan rencana periode ulang (lanjutan)   
+
+Tabel 1.Informasi luas dan volume genangan banjir 
+
+4. 3 Peta genangan banjir 2013 dan 2014 
+
+Peta genangan banjir yang dihasilkan berdasarkan hasil simulasi dari model matematik quasi 2 dimensi telah dihasilkan mulai dari periode ulang 2 sampai dengan periode ulang 100 tahunan.
+
+Penggunaan istilah periode ulang terkait erat dengan peluang kemungkinan dimasa mendatang untuk terjadinya genangan tersebut.
+
+Dalam rangka melihat perbadingan genangan yang dihasilkan berdasarkan model matematik dengan genangan aktual yang terjadi di lapangan, maka data kejadian banjir tahun 2013 dan tahun 2014 digunakan sebagai bahan validasi.
+
+Peta genangan aktual sebagai bahan perbadingan dengan model matematik tersebut diperoleh dari Badan Penangulangan Bencana Daerah (BPBD) DKI Jakarta.
+
+Peta genangan banjir berdasarkan hasil monitoring di lapangan yang dikeluarkan oleh BPBD tersebut adalah peta genangan yang dihasilkan berdasarkan informasi tingkat kelurahan.
+
+Data genangan banjir yang dapat digunakan sebagai bahan perbandingan telah dipublikasikan oleh BPBD.
+
+Peta genangan tersebut dapat diakses melalui http://bpbd.jakarta.go.id.
+
+Peta genangan banjir yang dihasilkan tersebut adalah genangan banjir berdasarkan kejadian tanggal tertentu dan dalam waktu yang tertentu, namun dalam kajian ini digunakan peta genangan banjir dengan kondisi genangan yang terburuk (terluas) pada tahun yang bersangkutan.
+
+Adapun peta genangan yang dihasilkan tersebut dapat dilihat pada Gambar 13 untuk tahun 2013 dan Gambar 14 untuk genangan banjir pada tahun 2014.
+
+Peta genangan banjir pada tahun 2013 dan 2014 kemudian di analisis untuk menentukan tingkat periode ulangnya.
+
+Menentukan tingkat periode ulang dilakukan berdasarkan kejadian hujan yang menyebabkan banjir tersebut.
+
+Berdasarkan hasil analisis terhadap kejadian hujan, maka banjir yang terjadi pada tanggal 18 Januari 2013 disebabkan oleh hujan rata-rata DAS sekitar 86 mm per hari sementara untuk banjir pada tanggal 19 Januari 2014 disebabkan oleh hujan rata-rata DAS sekitar 101 mm.
+
+Jika diperhatikan dari besaran nilai hujannya, maka kejadian banjir pada tahun 2014 seharusnya lebih besar dari pada tahun 2013, namun apabila dilihat dari luas genangan banjir yang terjadi, menunjukkan luas genangan banjir tidak terlalu berbeda signifikan.
+
+Hal ini disebabkan karena pada kejadian banjir 2013, tanggul di Banjir Kanal Barat tepatnya di Latuharhari runtuh sehingga menambah luas genangan banjir.
+
+Hujan rencana di DAS Jakarta telah di analisis dengan menggunakan regional frekuensi metode L-moment.
+
+Hasil yang diperoleh untuk DAS Jakarta sekitar 127 mm untuk periode ulang 2 tahun, 156 mm untuk periode ulang 5 tahun dan 174 mm untuk periode ulang 10 tahun.
+
+Hujan rencana yang dihasilkan tersebut masih dalam hujan lokal (point rainfall) dan untuk mengkoversi menjadi hujan rencana dalam bentuk tebal hujan dengan waktu yang bersamaan, maka diperlukan nilai area reduction factor (ARF) sebagai penyeimbang.
+
+Besarnya nilai ARF untuk DAS Jakarta ditentukan sekitar 0.85.
+
+Dengan demikian maka hujan rencana untuk DAS Jakarta menjadi 107 mm untuk periode ulang 2 tahun, 133 mm untuk periode ulang 5 tahun dan 148 mm untuk periode ulang 10 tahun.
+
+Jika dibandingkan dengan kejadian hujan yang menyebabkan banjir pada tahun 2013 dan 2014, maka hujan yang menyebabkan banjir 2014 masih dalam tingkatan periode ulang 2 tahunan, sementara untuk kejadian banjir 2013 masih dalam kategori hujan rencana tahunan.
+
+4.4 Perbandingan peta bahaya banjir dengan genangan hasil monitoring 
+
+Peta bahaya banjir untuk periode ulang 2 tahun yang dihasilkan dari model matematik merupakan genangan banjir terburuk yang akan terjadi dengan rata–rata kejadian 2 tahun.
+
+Peta genangan banjir hasil monitoring yang dilakukan oleh BPBD merupakan peta genangan yang terjadi pada saat tertentu pada waktu terjadinya banjir.
+
+Peta ini direkontruksi berdasarkan informasi di lapangan dengan batas spasial yang dilakukan dalam pembuatan peta tersebut adalah batas keluarahan.
+
+Peta genangan banjir yang terjadi setiap tahun seperti yang telah dihasilkan oleh BPBD Jakarta dibandingkan dengan yang dihasilkan oleh model matematik.
+
+Untuk melihat perbedaan kedua peta yang dihasilkan tersebut, maka peta genangan yang terjadi pada tahun 2013 dan 2014 kemudian di tumpang tindih dengan peta bahaya banjir berdasarkan model matematik seperti terlihat pada Gambar 15 dan Gambar 16.
+
+Hasil perbandingan peta tersebut dapat terlihat bahwa secara umum peta bahaya banjir yang dihasilkan dari model matematik telah terjadi banjir setiap tahun dan beberapa daerah lokasi yang akan mengalami genangan yang belum terjadi pada tahun 2013 dan 2014.
+
+Hal yang sama juga terjadi pada genangan banjir hasil monitoring, dimana terdapat beberapa area yang tidak terjadi genangan berdasarkan model matematik.
+
+ Sumber: Badan Penangulangan Bencana Daerah DKI Jakarta Gambar 13.
+
+Peta genangan banjir pada Tahun 2013 
+
+Sumber: Badan Penangulangan Bencana Daerah DKI Jakarta 
+
+Gambar 14.Peta genangan banjir pada Tahun 2014   
+
+Kedua peta yang digunakan tersebut memiliki kelemahan masing-masing.
+
+Peta bahaya banjir yang dilakukan berdasarkan model matematik sangat tergantung pada kualitas data digital elevasi model (DEM) dan kesesuaian informasi geometri sungai yang digunakan.
+
+Genangan banjir yang dihasilkan dari model matematik hanya terjadi jika melimpas dari sungai yang dimodelkan.
+
+Sedangkan peta genangan hasil monitoring menunjukkan area yang tergenang berdasarkan pada batas wilayah kelurahan.
+
+Padahal, belum tentu seluruh wilayah keluarah tersebut mengalami kebanjiran, dan genangan ini dapat terjadi tidak hanya melimpas dari sungai, namun juga akibat dari terhambatnya aliran dari drainase menuju sungai.
+
+Selain itu, peta genangan yang dihasilkan merupakan kejadian pada saat dilakukannnya monitoring, sehingga masih bisa kemungkinan terjadinya genangan banjir yang lebih luas pada waktu berikutnya.
+
+5. Kesimpulan 
+
+Pembuatan peta bahaya banjir yang dilakukan berdasarkan model matematik di Jakarta telah berhasil dilakukan dan dibuat berdasarkan prediksi genangan bahaya banjir di masa mendatang dengan menggunakan tingkat peluang kejadian hujan terburuk atau hujan rencana.
+
+Selain itu, studi perbadingan juga dilakukan berdasarkan data genangan hasil monitoring.
+
+Dari hasil kajian ini dapat disimpulkan sebagai berikut: 
+
+1. Peta bahaya banjir yang dilakukan di DKI Jakarta dengan menggunakan stimulus hujan rencana dari
+periode ulang 2 tahun sampai dengan 100 tahun akan memberikan dampak sekitar 9.901 Ha luas
+genangan banjir untuk periode ulang 2 tahunan, 10.736 Ha untuk periode ulang 5 tahun, 11.369
+Ha untuk periode ulang 10 tahun, 12.151 Ha untuk periode ulang 25 tahun, 12.799 Ha untuk
+periode ulang 50 tahun dan 13.810 Ha untuk periode ulang 100 tahun.
+
+2. Volume genangan banjir yang dihasilkan berdasarkan tinggi genangan tertinggi yang terjadi di Jakarta sekitar 72,6 juta m3 untuk periode ulang 2 tahun, 80,1 juta m3 untuk periode ulang 5 tahun, 85,9 juta m3 untuk periode ulang 10 tahun, 94,5 juta m3 untuk periode ulang 25 tahun, 101,6 juta m3 untuk periode ulang 50 tahun
+dan 110,7 juta m3 untuk periode ulang 100 tahun.
+
+3. Peta bahaya banjir yang dihasilkan berdasarkan model untuk periode ulang 2 tahun memberikan
+hasil yang mirip dengan peta genangan banjir yang dihasilkan berdasarkan pemantauan di
+lapangan yang diakibatkan oleh hujan dengan periode ulang yang sama.
+
+4. Perbedaan yang dihasilkan dari kedua peta tersebut adalah untuk peta yang dihasilkan dari model matematik hanya berdasarkan luapan air dari sungai yang dimodelkan, tidak termasuk genangan yang terjadi akibat dari overlandflow yang tidak bisa masuk ke sungai.
+
+Sementara peta genangan yang dihasilkan dari monitoring dibatasi berdasarkan batas kelurahan sehingga tidak mencerminkan kondisi genangan yang sebenarnya, serta peta genangan tersebut merupakan genangan yang terjadi pada waktu tertentu saja.
+
+Sehingga terdapat kemungkinan untuk waktu berikutnya daerah lainnya mengalami genangan banjir.
+
+ 

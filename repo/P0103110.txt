@@ -1,0 +1,495 @@
+﻿Simulasi Pengeringan Gabah pada Pengering Spouted Bed
+Dua Dimensi
+
+
+Abstrak
+Penelitian ini menggunakan model matematika yang dikembangkan oleh Nellist et al. (1987) untuk
+pengering spouted bed dua dimensi tipe kontinyu. Tujuan dari penelitian ini adalah menduga sebaran suhu
+udara, suhu gabah, kelembaban mutlak udara dan kadar air selama proses pengeringan. Pada proses
+simulasi, ruang pengering dibagi menjadi dua daerah yaitu daerah spout dan daerah downcomer. Udara dan
+bahan di daerah spout dan downcomer diasumsikan bergerak dengan prinsip aliran co- dan counterflow.
+Suhu udara yang digunakan selama pengujian adalah suhu 80oC dengan kadar air awal bahan yang
+berbeda-beda yaitu 41% bk, 36% bk dan 30% bk. Dari data pengujian menunjukkan bahwa suhu udara di
+daerah spout akan menurun secara signifikan terhadap posisi aksial ruang pengering tetapi pada daerah
+downcomer suhu udara bernilai fluktuatif. Nilai rataan deviasi pada pendugaan suhu udara daerah spout
+bernilai kurang dari 4.5% dan pada daerah downcomer deviasi bernilai kurang dari 4.2%. Suhu gabah
+dan kelembaban mutlak udara pada daerah spout menunjukkan bahwa nilai akan naik secara bertahap
+sementara untuk daerah downcomer nilai menurun secara bertahap terhadap posisi aksial. Penurunan
+kadar air menunjukkan bahwa untuk daerah spout dan daerah downcomer mengalami penurunan nilai.
+Penurunan kadar air daerah spout lebih besar dibandingkan daerah downcomer karena pada daerah spout
+laju aliran udara lebih besar.
+Kata Kunci: Kadar air, model matematika, gabah, pengering spouted bed dua dimensi
+
+
+Latar Belakang
+Pengering spouted bed awalnya dikembangkan
+untuk pengeringan gandum dengan kondisi
+well-stirred pada tahun 1954, sebagai metode
+pengeringan alternatif tumpukan terfluidisasi yang
+mengalami kondisi bubbling dan slugging selama
+pengeringan (Gisler 1983). Mathur dan Epstein
+(1974) mempelajari pengeringan biji-bijian pada
+pengering spouted bed tipe conical-cylindrical
+dengan saluran inlet udara yang kecil. Saluran inlet
+udara yang kecil dapat meningkatkan distribusi
+bahan dan udara di dalam pengering yang berimbas
+tingginya pindah massa dan panas yang terjadi
+selama proses pengeringan. Namun, tipe ini memiliki
+kekurangan yaitu tingginya penurunan tekanan jika
+dibandingkan dengan pengering tipe fluidized bed
+dan keterbatasan kapasitas pengeringan. Untuk
+meningkatkan kapasitas pengeringan, Mujumdar
+(1984) mengembangkan pengering spouted bed
+dua dimensi dan penambahan unit draft plates di
+bagian tengah ruang pengering sebagai solusi
+penurunan tekanan yang terlalu tinggi (Viswanathan
+et al. 1986).
+Pengering spouted bed merupakan pengering
+dengan suhu tinggi. Keuntungan pengeringan ini
+adalah kapasitas pengeringan yang lebih besar
+karena rasio laju udara dengan massa dari produk
+dan besarnya laju kontak suhu dengan bahan
+dibandingkan pengeringan suhu rendah. Selain itu,
+pengering dengan spouted bed biasanya digunakan
+sebagai pengering two stage yaitu pengering yang
+sebaiknya digunakan pada kadar air awal bahan 18 –
+31% bb (basis basah) (Wiset et al. 2001). Pengering
+two stage memiliki keuntungan yaitu mengurangi
+kebutuhan energi karena peningkatan efisiensi
+udara dibandingkan dengan pengeringan kontinyu
+konvensional, kapasitas pengeringan semakin
+tinggi dan mutu produk pengeringan juga semakin
+tinggi (Wiset et al. 2001). Kondisi pada pengering
+spouted bed diasumsikan berupa kombinasi dari
+dua bentuk hidrodinamika yaitu transfer pneumatik
+pada daerah spout dan perpindahan bahan pada
+daerah downcomer (Madhiyanon et al. 2007).
+Gabah baru panen umumnya memiliki kadar air
+berkisar 21 – 26% bb sehingga proses pengeringan
+dibutuhkan untuk menjaga kualitas gabah. Gabah
+yang berkualitas baik dapat dihasilkan jika alat
+pengering dikontrol untuk menjaga kadar air
+keluaran dalam batas yang dapat diterima. Simulasi
+dapat digunakan untuk menduga kondisi udara dan
+bahan di dalam ruang pengering selama proses
+pengeringan. Kualitas gabah dapat diketahui
+setelah dilakukan penggilingan dan dianalisis lebih
+lanjut yang dilaporkan dalam paper terpisah.
+Tujuan penelitian ini adalah mengadopsi model
+pengeringan yang telah dikembangkan oleh Nellist
+et al. (1987) untuk menduga sebaran suhu udara,
+suhu bahan, kelembaban absolute udara dan kadar
+air bahan selama proses pengeringan. Menurut
+Nellist et al. (1987), model ini dapat digunakan untuk
+pengering tipe co- dan counter flow yang prinsip
+pengeringan sama dengan pengering spouted bed.
+Bahan dan Metode
+Bahan dan Alat
+Bahan uji yang digunakan pada penelitian ini
+adalah gabah dengan kadar air awal 41%, 3 % dan
+30% bk (basis kering). Instrumentasi pengujian alat
+adalah termokopel tipe T, sensor suhu LM35DZ,
+termometer bola basah dan bola kering untuk suhu
+lingkungan. Untuk pencatatan suhu digunakan
+hybrid recorder tipe dot dengan ketelitian alat
+±0.05oC dan data logger. Anemometer tipe
+Kanomax model 3011 dengan ketelitian ±0.05 m/s
+digunakan untuk pengukuran kecepatan udara.
+Kadar air diukur dengan metode gravimetri (oven).
+Spesifikasi Alat Pengering
+Skema dan dimensi ruang pengering pada
+penelitian ini disajikan pada Gambar 1. Ruang
+pengering yang digunakan pada penelitian ini
+adalah spouted bed dua dimensi yang dilengkapi
+dengan draft plates. Draft plates (4) diharapkan
+dapat meningkatkan stabilitas udara yang
+disemburkan dan sirkulasi bahan di dalam ruang
+pengering. Di bagian dasar ruang pengering
+juga ditambahkan plat distributor (5) agar bahan
+tidak jatuh dan masuk ke daerah plenum. Ruang pengering dibagi menjadi dua daerah yaitu daerah
+spout (1) dan daerah downcomer (2). Daerah spout
+merupakan daerah yang berada diantara draft
+plates sedangkan daerah downcomer merupakan
+daerah di samping draft plates. Ruang pengering
+juga dilengkapi dengan reflektor (3) yang berfungsi
+mengembalikan bahan agar kembali ke daerah
+downcomer.
+Percobaan
+Percobaan dilakukan untuk melihat kinerja
+pengering dengan kadar air awal gabah yang
+berbeda. Bahan diletakkan di dalam hoper di atas
+ruang pengering dan dialirkan ke dalam ruang
+pengering dengan screw feeder. Skema alat
+pengering disajikan pada Gambar 2.
+Massa hold-up gabah pada kondisi awal adalah
+0.1 kg untuk setiap percobaan. Pengukuran kadar
+air gabah, suhu udara, suhu gabah dan kelembaban
+udara diukur setiap 10 menit. Titik pengukuran untuk
+validasi model berada pada ketinggian 8 cm, 12
+cm, 18 cm dan 30 cm dari saluran inlet udara untuk
+daerah spout maupun downcomer. Kelembaban
+outlet ruang pengering diukur dengan termometer
+bola basah dan bola kering pada ketinggian 40 cm
+dari saluran inlet udara. Kelembaban udara masuk
+ruang pengering diukur di daerah plenum dengan
+termometer bola basah dan bola kering. Suhu inlet
+udara diatur pada suhu 80oC.
+Model Pengeringan Spouted Bed Dua Dimensi
+Model yang dikembangkan oleh Nellist et al.
+(1987) untuk pengeringan biji-bijian merupakan
+persamaan perpindahan panas dan massa.
+Tahap awal untuk mengembangkan persamaan
+adalah dengan menurunkan persamaan untuk
+mendeskripsikan perpindahan panas dan massa
+pada lapisan tipis pada waktu yang relatif kecil.
+Tumpukan bahan dibagi menjadi lapisan yang tipis
+dengan ketebalan (dz) dengan nilai kadar air tertentu
+(M) bergerak pada sumbu z dengan laju aliran
+udara (G) dan suhu udara (Ta) dan kelembaban
+mutlak (H) (Gambar 3). Dengan asumsi bahwa
+kehilangan panas hanya terjadi pada aliran udara,
+maka persamaan diferensial perubahan suhu udara
+selama waktu tertentu (t) dapat ditulis dengan
+persamaan :
+(1)
+Namun, dalam waktu yang relatif singkat maka
+perubahan suhu udara dan kelembaban mutlak
+udara akan lebih berpengaruh terhadap ketebalan
+tumpukan, sehingga dapat ditulis dengan notasi
+masing-masing dan .
+Sedangkan perubahan suhu gabah dan kadar
+air bahan akan berpengaruh lebih besar jika
+dihubungkan terhadap waktu, sehingga dapat
+ditulis dengan notasi masing-masing dan
+. Hubungan antara suhu udara, suhu gabah,
+kelembaban udara dan kadar air akan dinyatakan
+dalam empat persamaan.
+1. Kesetimbangan kadar air (Nellist et al. 1987)
+Perubahan massa air pada bahan sama
+dengan perubahan massa air di udara sehingga
+persamaan dapat ditulis :
+(2)
+(3)
+Persamaan (3) dapat ditulis dalam notasi
+numerik menjadi :
+(4)
+Dalam hal ini ρ adalah bulk density bahan
+(kg/m3), H adalah kelembaban mutlak udara
+(desimal), z adalah ketebalan (m), G adalah
+laju aliran per luas (kg/m2s), M adalah kadar air
+(desimal bk) dan t adalah waktu (s).
+2. Persamaan pindah panas (Nellist et al. 1987)
+Pindah panas merupakan penjumlahan dari
+perubahan panas bahan dan entalpi penguapan
+kelembaban dikurangi dengan entalpi
+kelembaban sebelum penguapan. Secara
+matematis dapat ditulis dengan persamaan :
+(5)
+
+
+
+Napitu, et al.
+(6)
+Persamaan (6) dapat disederhanakan menjadi :
+A = 2(Ta – Tg); B = (Cpg + CplM); Y = (Lg + CpwTa – CplTg)
+Sehingga persamaan (5) dapat ditulis menjadi :
+(7)
+Dalam hal ini, hS adalah koefisien volumetrik
+pindah panas (kJ/m3sK), Ta adalah suhu udara
+(oC), Tg adalah suhu bahan (oC), t adalah waktu
+(s), Cpg adalah panas spesifik bahan (kJ/kgK),
+Cpl adalah panas spesifik air cair (kJ/kgK), Cpw
+adalah panas spesifik uap air (kJ/kgK), Lg adalah
+panas laten penguapan air di dalam bahan (kJ/
+kg).
+3. Persamaan kesetimbangan panas (Nellist et al.
+1987)
+Persamaan kesetimbangan panas diturunkan
+untuk memperoleh suhu gabah selama proses
+pengeringan. Persamaan dapat ditulis menjadi :
+(8)
+(9)
+(10)
+Dalam hal ini, ρ adalah bulk density bahan (kg/
+m3), M adalah kadar air bahan (desimal bk), t
+adalah waktu (s), Cpa adalah panas spesifik
+udara (kJ/kgK), Cpw adalah panas spesifik uap
+air (kJ/kgK), H adalah kelembaban mutlak udara
+(desimal), z adalah ketebalan tumpukan (m), Ta
+adalah suhu udara (oC), Tg adalah suhu gabah
+(oC), La adalah panas laten penguapan air (kJ/
+kg) dan G adalah laju aliran per satuan luas (kg/
+m2s).
+4. Laju pengeringan (Nellist et al. 1987)
+Persamaan diferensial kadar air yang hilang
+sebagai fungsi dari tiga faktor yaitu Ta, Tg dan
+H. Persamaan laju penurunan kadar air dapat
+dituliskan sebagai :
+(11)
+Dalam hal ini, k adalah konstanta pengeringan
+(1/s), M adalah kadar air gabah (desimal bk), Me
+adalah kadar air kesetimbangan (desimal bk)
+dan t adalah waktu (s).
+Pengering spouted bed diasumsikan bergerak
+dengan dua tipe aliran yaitu co-flow untuk daerah
+spout (Gambar 3a) dan counter-flow untuk daerah
+downcomer (Gambar 3b) (Madhiyanon et al. 2007).
+Untuk simulasi kondisi pengeringan di daerah
+spout, posisi inlet gabah dan inlet udara berada
+pada posisi yang sama sehingga persamaan (4),
+(7), (10) dan (11) dapat langsung digunakan.
+Untuk simulasi daerah downcomer, kondisi
+awal diasumsikan dengan posisi udara masuk
+dan gabah masuk berada pada posisi yang sama
+sehingga kondisi pengeringan dari lapisan 0 (udara
+masuk) sampai lapisan n diketahui (bahan masuk).
+Kondisi pada lapisan n (pada bagian udara keluar)
+ditulis kembali sebagai lapisan (n-1). Proses ini
+dilakukan diulangi kembali sampai ke daerah udara
+masuk sehingga diperoleh kondisi pada daerah
+downcomer. Tabel 1 menyajikan konstanta dan
+persamaan yang digunakan pada simulasi dan
+Tabel 2 menyajikan kondisi yang digunakan selama
+proses simulasi.
+Pendugaan Kadar Air Pengering Tipe Kontinyu
+Pendugaan kadar air pengering tipe
+kontinyu dapat menggunakan model yang telah
+dikembangkan oleh Zahed dan Epstein (1992).
+Kesetimbangan massa yang terjadi pada tumpukan
+untuk pengumpanan secara kontinyu dengan kadar
+air awal yang sama (Mo), laju aliran massa bahan kering B dan komposisi kadar air produk dapat
+ditulis dengan persamaan :
+(12)
+Dalam hal ini A adalah laju aliran massa udara
+kering (g/menit), Y adalah kelembaban udara outlet
+(g uap air/g udara kering), Yi adalah kelembaban
+udara inlet (g uap air/g udara kering) dan Mo adalah
+kadar air gabah yang diumpankan (g/g).
+Jika aliran bahan di dalam ruang pengering
+diasumsikan berpindah dengan prinsip plug flow,
+maka nilai kadar air rata-rata bahan ( ) pada
+proses batch selama waktu tinggal ( = B/ B) akan
+bernilai sama dengan kadar air rata-rata bahan
+( ) pada proses kontinyu. Namun, jika bahan
+tidak diasumsikan bergerak mengikuti prinsip
+pengeringan plug flow maka nilai komposisi akhir
+produk dapat dihitung dengan persamaan :
+(13)
+Dimana : θ = . Dalam hal ini t adalah waktu
+(menit) dan adalah waktu tinggal rata-rata bahan
+yaitu B/ B, mB adalah massa hold-up bahan kering
+(g), adalah laju aliran massa bahan (g/menit),
+adalah volume rata-rata kadar air masing-masing
+gabah (g/g), E(θ) adalah fungsi distribusi bahan
+keluar dan adalah volume rata-rata kadar air (g/g).
+Fungsi distribusi keluaran bahan (E(θ)) memiliki
+relasi terhadap distribusi waktu selama proses
+pengeringan (I(θ)) yang dapat ditulis dengan
+persamaan :
+E(θ) = - dl(θ) / dθ (14)
+Jika diasumsikan bahwa pencampuran bahan di
+dalam spouted bed terjadi secara sempurna, maka
+persamaan (14) dapat ditulis menjadi :
+E(θ) = I(θ) = exp(- θ) (15)
+Jika diasumsikan pencampuran bahan terjadi
+secara baik namun tidak sempurna di dalam
+spouted bed, maka distribusi waktu selama proses
+pengeringan (I(θ)) dapat ditulis menjadi :
+I(θ) = exp [ - (θ - 0.1)/0.92] (18)
+Sehingga persamaan (14) dapat ditulis menjadi :
+E(θ) = (1/0.92) exp [ - (θ - 0.1)/0.92] (17)
+Persamaan (15) atau (17) dapat digunakan
+sebagai nilai E(θ)) dalam persamaan (13) dimana
+sisi sebelah kanan persamaan dapat diintegralkan
+secara numerik. Ketika persamaan (17) digunakan,
+maka konstanta waktu penundaan 0.1 akan
+dieliminasi untuk nilai θ yang lebih kecil dari 0.1
+sehingga persamaan (11) dapat dituliskan dengan
+persamaan :
+(18)
+
+
+
+
+
+Hasil dan Pembahasan
+Hasil Simulasi Sebaran Suhu Udara Daerah
+Spout dan Downcomer
+Gambar 4 (a), (b) dan (c) menyajikan data
+sebaran suhu udara rata-rata eksperimen dan
+simulasi pada daerah spout selama proses
+pengeringan. Penurunan suhu udara dari
+ketinggian 0.08 m ke 0.3 m mempresentasikan
+jumlah panas yang dikonsumsi untuk mengurangi
+kadar air bahan selama proses pengeringan. Dari
+grafik dapat dilihat bahwa suhu udara menurun
+terhadap ketinggian ruang pengering. Penurunan
+suhu yang paling besar terjadi pada ketinggian 0
+m – 0.08 m dari bawah yaitu daerah sirkulasi bahan
+dari downcomer ke daerah spout. Menurut Freitas
+dan Freire (1997), laju sirkulasi pada bagian ini
+dapat bernilai 10 kali lebih cepat dibandingkan laju
+bahan yang masuk ruang pengering. Laju sirkulasi
+yang cepat akan meningkatkan laju udara sehingga
+laju penguapan kadar air bahan akan meningkat
+sehingga penurunan suhu pada daerah tersebut
+akan lebih besar dibandingkan wilayah yang lain.
+Penurunan suhu pada ketinggian selanjutnya
+tidak terlalu signifikan karena perbedaan suhu
+gabah dengan udara pengering tidak terlalu tinggi
+sehingga mengurangi laju pindah panas konvektif.
+Dari grafik dapat dilihat bahwa data hasil simulasi
+belum mempresentasikan data eksperimen dengan
+baik. Hal ini terjadi karena pada simulasi, kadar air
+yang digunakan merupakan kadar air awal gabah
+yang masuk ke dalam ruang pengering yang
+seharusnya kadar air yang digunakan merupakan
+kadar air yang keluar dari daerah downcomer yang
+belum dimodelkan secara matematika. Persentasi
+error pada daerah spout pada masing-masing
+percobaan adalah 2.84% untuk percobaan pertama,
+2.62% untuk percobaan kedua dan 4.45% untuk
+percobaan ketiga.
+Pada Gambar 5 (a), (b) dan (c) disajikan suhu
+udara rata-rata simulasi dan eksperimen pada
+daerah downcomer. Sebaran suhu udara di daerah
+downcomer bernilai fluktuatif. Suhu udara pada
+ketinggian 0 – 0.08 m memiliki suhu yang paling
+tinggi karena posisi ini masih dekat dengan inlet
+udara. Selanjutnya pada ketinggian 0.08 – 0.12
+m suhu udara mengalami penurunan. Hal ini
+disebabkan oleh penumpukan bahan ketika proses
+pengujian. Penumpukan gabah mengakibatkan
+udara akan terperangkap di dalam tumpukan gabah
+sehingga proses pindah panas antara bahan dan
+udara terjadi lebih cepat dan suhu udara akan
+menurun dari ketinggian 0 – 0.08 m.
+Setelah posisi 0.08 – 0.12 m, suhu udara akan
+naik kembali. Hal ini dapat disebabkan oleh dua
+faktor yaitu pada ketinggian 0.12 – 0.18 m tidak
+terdapat tumpukan gabah dan juga suhu udara dari
+daerah spout akan tersebar dan memasuki daerah
+downcomer. Suhu udara akan menurun kembali
+pada posisi 0.18 – 0.3 m karena pada daerah ini
+udara telah mengandung uap air yang diperoleh
+dari pengeringan gabah.
+
+
+
+
+Data hasil simulasi juga belum mempresentasikan
+dengan baik data yang sama dengan data
+eksperimen. Hal ini terjadi karena pada model
+belum diperhitungkan pindah panas pada dinding
+draft plates. Persentasi error data hasil simulasi dan
+eksperimen suhu udara disajikan pada Tabel 3.
+Hasil Simulasi Penurunan Kadar Air Gabah
+Gambar 6 menyajikan hasil simulasi kadar air
+selama proses pengeringan. Dari grafik dapat
+dilihat bahwa penurunan kadar air untuk daerah
+spout lebih cepat dibanding daerah downcomer.
+Hal ini terjadi karena laju aliran massa udara daerah
+downcomer lebih rendah dibandingkan di daerah
+spout sehingga energi yang tersedia untuk proses
+pengeringan bahan lebih kecil dibandingkan pada
+daerah spout. Sedangkan penurunan kadar air di
+daerah downcomer diakibatkan oleh panas yang
+terakumulasi di dalam gabah yang dijadikan sebagai
+sumber panas internal untuk menguapkan air pada
+permukaan gabah, kemudian air permukaan akan
+diangkut oleh udara pengering yang berada di
+wilayah downcomer sehingga gabah akan lebih
+dingin ketika bersirkulasi pada daerah downcomer.
+Validasi kadar air tidak dilakukan karena model
+yang digunakan dalam simulasi menggunakan
+hubungan antara kadar air terhadap waktu yang
+biasa digunakan untuk pengeringan batch. Pada
+pengering tipe kontinyu, model pendugaan kadar
+air hanya diuji pada satu waktu saja karena kadar
+air yang keluar dari ruang pengering umumnya
+bernilai sama. Model yang digunakan adalah model
+Zahed dan Epstein (1992) dan akan dibahas pada
+sub-bab selanjutnya.
+Hasil Simulasi Sebaran Suhu Gabah
+Pada penelitian ini, suhu gabah tidak diukur
+selama proses pengeringan. Namun, suhu gabah
+dapat diprediksi dengan simulasi secara numerik dengan persamaan yang dikembangkan oleh
+Nellist et al. (1987). Suhu gabah pada daerah spout
+disajikan pada Gambar 7. Dari grafik dapat dilihat
+bahwa suhu gabah akan naik secara perlahan dan
+kemudian suhu konstan. Kenaikan suhu gabah
+disebabkan oleh besarnya nilai pindah panas akibat
+perbedaan suhu yang besar antara udara dan
+gabah. Suhu gabah keluaran dari daerah spout,
+dijadikan kondisi inlet bagi daerah downcomer.
+Suhu gabah daerah downcomer disajikan pada
+Gambar 8. Dari grafik dapat dilihat bahwa suhu gabah
+mengalami penurunan ketika menjauhi saluran inlet
+ruang pengering. Hal ini sejalan dengan penurunan
+suhu udara yang semakin menurun terhadap
+ketinggian aksial ruang pengering. Pada posisi 0.4
+– 0.5 m merupakan posisi dimana gabah masuk
+sehingga pada posisi tersebut suhu gabah masih
+rendah. Namun pada posisi selanjutnya yaitu dari
+posisi 0 – 0.4 m suhu gabah dan suhu udara secara
+perlahan akan mengalami kondisi kesetimbangan
+dan selanjutnya akan bernilai konstan seperti pola
+pada daerah spout.
+Hasil Simulasi Sebaran Kelembaban Mutlak
+Udara
+Pada penelitian ini, kelembaban mutlak udara
+tidak diukur selama proses pengeringan. Namun,
+kelembaban mutlak dapat diprediksi dengan
+simulasi secara numerik dengan persamaan yang
+dikembangkan oleh Nellist et al. (1987). Pada
+Gambar 9 disajikan perubahan kelembaban mutlak
+udara pada setiap pengujian di daerah spout.
+Kelembaban mutlak dipengaruhi oleh perubahan
+suhu udara atau perubahan tekanan selama proses
+pengeringan. Dari grafik dapat dilihat bahwa nilai
+kelembaban mutlak akan semakin tinggi terhadap
+ketinggian aksial ruang pengering dimana inlet
+udara sebagai titik awal. Hal ini disebabkan oleh
+suhu udara yang semakin rendah dan kandungan
+jumlah air di dalam udara semakin tinggi karena
+laju pengeringan bahan yang terjadi selama proses
+pengeringan. Pada Gambar 10 disajikan perubahan
+kelembaban mutlak udara pada setiap percobaan
+di daerah downcomer. Kelembaban mutlak udara
+pada daerah downcomer akan menurun terhadap
+inlet udara. Hal ini disebabkan semakin mendekati
+inlet udara, maka kelembaban udara akan semakin
+rendah.
+Pendugaan Kadar Air Gabah pada Pengering
+Tipe Kontinyu
+Data hasil pendugaan kadar air yang keluar dari
+pengering spouted bed tipe kontinyu disajikan pada
+Tabel 4. Nilai hasil simulasi percobaan pertama
+tidak mendekati nilai yang sebenarnya namun
+pada percobaan kedua dan ketiga nilai pendugaan
+kadar air hampir senilai dengan eksperimen.
+Nilai pendugaan pada percobaan pertama tidak
+sama dengan nilai aktual dapat disebabkan oleh
+penentuan parameter waktu tinggal gabah selama
+proses pengeringan. Pada penelitian ini, penentuan
+waktu tinggal bahan di dalam ruang pengering
+dengan membagi laju pengumpanan dengan
+massa bahan awal di dalam ruang pengering.
+Sementara penentuan waktu tinggal bahan dapat
+menggunakan beberapa persamaan seperti
+persamaan Levensipel.
+Simpulan
+Model matematika yang dikembangkan
+oleh Nellist et al. (1987) telah digunakan untuk
+memprediksi sebaran suhu udara, suhu gabah dan
+kadar air selama proses pengeringan. Dari nilai
+persentasi error suhu udara, nilai error yang paling
+besar terjadi di daerah spout pada perlakuan ketiga
+yaitu sebesar 4.45% dan nilai persentasi error
+yang kecil berada pada wilayah downcomer kanan
+yaitu sebesar 1.39%. Hal ini dapat disebabkan
+oleh beberapa faktor yaitu aliran bahan di dalam
+spouted bed dua dimensi tidak bersirkulasi sama dengan tipe pengering co- ataupun counter flow
+pada umumnya dan parameter yang digunakan
+belum mempresentasikan kondisi sebenarnya
+dalam proses pengeringan.

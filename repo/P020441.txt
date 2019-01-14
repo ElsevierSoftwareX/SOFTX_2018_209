@@ -1,0 +1,131 @@
+﻿
+ Penggunaan magnesium sebagai bahan alternatif pengganti besi dan baja telah mulai dilakukan saat ini. Proses pemesinan dideskripsikan sebuah proses penghilangan material. Proses pemesinan dikerjakan pada beberapa parameter tertentu. Parameter pemesinan terdiri dari gerakan makan, kecepatan potong, dan kedalaman potong. Adapun tujuan dari penelitian ini adalah untuk mengetahui efek pemesinan dari pengaruh parameter pemotongan terhadap umur pahat dan mendapatkan pengaruh dari parameter kecepatan potong terhadap perubahan struktur mikro magnesium. Pengujian keausan pahat dilakukan dengan menggunakan mikroskop. Pengujian struktur mikro menggunakan mikroskop dengan perbesaran 100X. Pada pengujian keausan, RO (Run Order) ke 6 mendapatkan nilai umur pahat yang sangat cepat yaitu selama 5 menit dengan kecepatan potong 42,7 m/min, gerak pemakanan 0,25 mm/rev dan kedalaman potong 3 mm. Pada RO (Run Order) ke 5 mendapatkan nilai umur pahat yang sangat lama, yaitu selama 77 menit dengan kecepatan potong 22,86 m/min, gerak pemakanan 0,15 mm/rev dan kedalaman potong 1 mm. Pada pengujian struktur mikro, magnesium yang mengalami proses pemesinan tidak mengalami perubahan struktur mikro. Dengan hal ini dapat disimpulkan bahwa kecepatan potong pada pemesinan frais tidak menimbulkan pengaruh terhadap struktur mikro magnesium. 
+Kata Kunci : MgAZ31, Mesin Frais, Pahat HSS diameter 8mm, Cairan Etsa, Mikroskop USB
+
+
+
+BAB I
+PENDAHULUAN
+A. Latar Belakang
+Magnesium adalah salah satu jenis logam yang dikategorikan logam ringan,
+diantara beberapa logam ringan yang biasa digunakan dalam struktur. Unsur
+magnesium ditemukan pada tahun 1808 di Inggris oleh Sir Humphrey Davey,
+pertama kali diproduksi oleh Deville dan Caron di Perancis pada tahun 1863.
+(http://en.wikipedia.org/wiki/magnesium). Magnesium ditemukan dalam 60
+jenis mineral, diantaranya hanya dolomit, magnesit dan carnalit, yang biasa
+dijadikan produk komersial (Padmanaban dkk, 2011).
+
+Magnesium memilki sifat ringan, mudah terbakar dan mudah bereaksi dengan
+logam lain serta mudah beroksidasi dengan cepat (pyrophpric). Oleh karena
+itu, magnesium tidak cukup kuat dalam bentuk yang murni, sehingga
+magnesium diperlukan dengan berbagai elemen untuk mendapatkan sifat
+yang lebih baik, terutama kekuatan untuk rasio berat yang tinggi. Selain
+magnesium tidak cukup kuat dalam bentuk yang murni, magnesium juga
+mudah terbakar (http://en.wikipedia.org/wiki/magnesium).
+Oleh karena itu perlu ada tindakan pencegahan yang harus diambil ketika
+proses pemesinan, penggerindaan atau pengecoran pasir magnesium.
+
+Meskipun demikian produk yang terbuat dari magnesium dan paduannya
+tidak menimbulkan bahaya kebakaran selama proses pembuatannya dapat
+dikontrol (Suhairi, 2010).
+Penggunaan paduan magnesium (Mg) sangat banyak dalam bidang industri
+otomotif, industri pesawat terbang, bidang manufaktur dan bidang kesehatan
+(Padmanaban, 2011). Penggunaan paduan Mg biasanya terdapat pada blok
+mesin. Ketahanan akan temperatur tinggi dan kekuatan yang baik
+menjadikannya banyak digunakan. Paduan magnesium juga digunakan dalam
+pembuatan pesawat terbang dan rudal, selain itu juga digunakan untuk
+melapisi barang – barang elektronik (www.digilib.its.ac.id/Aditya, 2012).
+Proses pemesinan merupakan proses yang banyak digunakan untuk proses
+pembentukan produk, hal ini dikarenakan proses pemesinan memiliki
+keunggulan – keunggulan dibanding proses pembentukan lainnya (Casting,
+powder metallurgy, bulk deformation). Keunggulan pada proses pemesinan
+diantaranya yaitu keragaman geometri potong, keakuaratan dimensi, dan
+permukaan potong yang baik. Proses pemesinan dibagi menjadi dua :
+tradisional (turning, milling, shaping, drilling grinding, dll), Non – tradisional
+(Chemical machining, ECM, EDM, EBM, LBM, dll).
+
+Ada beberapa penelitian yang kebanyakan dilakukan untuk mengetahui sifatsifat
+mekanik dan metalurgi magnesium. Misalnya pada penelitian yang
+dilakukan oleh Bruni, dkk (2004) yang bertujuan untuk mengetahui pengaruh
+beban tarik dan temperatur terhadap perubahan mikrostruktur paduan
+magnesium AZ31. Pada penelitian ini diketahui bahwa perubahan
+mikrostruktur terjadi seiring dengan meningkatnya temperatur dan menurunnya beban tarik. Permukaan magnesium hasil pemotongan memiliki
+permukaan yang kasar jika suhu pemotongan semakin tinggi. Penelitian
+mengenai pemesinan magnesium meski sedikit seperti yang dilakukan oleh
+Fang, dkk (2002) yang bertujuan untuk mengetahui pengaruh dari temperatur
+sisi (flank temperature) selama proses pemotongan paduan magnesium
+dengan menggunakan kecepatan tinggi (high speed) terhadap kemungkinan
+terjadinya kebakaran pada paduan magnesium. Hal ini dapat diketahui dengan
+melakukan pemotongan terhadap paduan magnesium dengan berbagai
+kondisi temperatur dan melihat hasil uji SEM pada serpihan hasil
+pemotongan paduan magnesium. Hasilnya dapat diketahui bahwa dibawah
+suhu 302°C tidak ditemukan adanya titik nyala api pada sesrpihan.
+Penelitian lain adalah yang dilakukan oleh Buldum, dkk (2011) yang
+bertujuan untuk mengetahui bagaimana kemampuan pemesinan (machine
+ability) dari magnesium dalam proses pemesinan, yaitu pembubutan, frais dan
+pengeboran. Dalam penelitiannya Buldum, dkk merekomendasikan
+penggunaan kecepatan potong yang lebih rendah jika dibandingkan dengan
+kecepatan potong yang digunakan pada pemotongan magnesium. Peningkatan
+kecepatan potong akan mengakibatkan temperatur permukaan benda kerja
+meningkat dan geram yang dihasilkan ketebalannya akan lebih rendah.
+Semakin rendah kecepatan potong maka geram akan semakin besar dan
+temperatur permukaan benda kerja juga akan rendah. Pada penelitian Zubaidi
+(2012), mengungkapkan bahwa penambahan rpm untuk kecepatan potong
+akan menurunkan kekasaran tidak lebih dari 10% tiap 100 rpm. Menurut
+penelitian Asmed dan Yusri (2002), mengatakan gerak pemakanan berpengaruh sangat signifikan terhadap kekasaran permukaan disebabkan
+pemakanan adalah jarak yang ditempuh pahat perputaran.
+Selanjutnya pada penelitian ini akan dibahas tentang pengaruh parameter
+pemesinan terhadap laju keausan pahat dan pengaruh kecepatan potong
+terhadap mikrostruktur magnesium AZ31. Oleh karena itu penulis mengambil
+judul pada penelitian ini “AUS PAHAT POTONG DAN STRUKTUR
+MIKRO MAGNESIUM AZ31 PADA KONDISI PENGEFRAISAN
+KERING”.
+B. Tujuan Penelitian
+Tujuan dari penelitian ini adalah seagai berikut :
+1. Mendapatkan pengaruh parameter pemesinan terhadap keausan pahat.
+2. Mendapatkan pengaruh kecepatan potong (Vc) terhadap perubahan
+struktur mikro magnesium AZ31.
+
+C. Batasan Masalah
+Batasan masalah diberikan agar pembahasan dari hasil yang didapatkan lebih
+terarah. Adapun batasan masalah yang diberikan pada penelitian ini, yaitu :
+1. Pengujian dilakukan dengan menggunakan mesin frais vertical tipe mount
+and knee.
+2. Bahan yang digunakan adalah paduan magnesium AZ31.
+
+3. Pahat yang digunakan adalah pahat HSS dengan metode end milling dan
+diameter pahat 8mm.
+4. Pengamatan keausan pahat setelah proses pengefraisan dengan
+menggunakan mikroskop USB.
+5. Pengamatan perubahan struktur mikro dengan menggunakan mikroskop
+yang diakibatkan oleh efek pemesinan pada pengefraisan magnesium.
+
+D. Hipotesis
+Adapun hipotesis pada penelitian ini adalah semakin tinggi kecepatan potong
+akan menimbulkan laju keausan pahat yang semakin cepat serta suhu yang
+lebih tinggi sehingga perubahan struktur mikro akan lebih terlihat.
+
+E. Sistematika Penulisan
+Sistematika penulisan ini adalah sebagai berikut :
+Bab I. Pendahuluan : yang menguraikan latar belakang masalah secara jelas,
+tujuan ; yang memaparkan diadakannya penelitian ini, batasan masalah ; yang
+diberikan pada penelitian ini agar hasil penelitian mendapatkan hasil yang
+dapat membuktikan hipotesis, hipotesis; dugaan sementara dari hasil
+penelitian dan sistematika penulisan; format yang dipakai pada penulisan
+laporan.
+
+Bab II. Tinjauan Pustaka, berisikan landasan teori yang menunjang pada
+penelitian dan merupakan teori-teori dasar yang meliputi : penjelasan tentang
+magnesium, pengaplikasian magnesium, proses pemesinan, proses
+pengefraisan pada magnesium, dan perubahan tekstur permukaan dari benda
+kerja (magnesium) setelah proses pengefraisan.
+Bab III. Metode Penelitian, menerangkan tentang beberapa tahapan persiapan
+sebelum pengujian, prosedur pengujian dan diagram alir pengujian.
+Bab IV. Hasil dan Pembahasan, yang berisi tentang data-data yang
+didapatkan dari pengujian dan dipakai dalam melakukan analisis, perhitungan
+dan pembahasan serta evaluasi terhadap hasil perhitungan tersebut.
+Bab V. Simpulan dan Saran, yang berisikan simpulan yang diambil dari
+pembahasan masalah dan saran yang dapat diberikan dari penelitian ini.
+Daftar Pustaka; Berisikan literatur-literatur atau referensi-referensi yang
+diperoleh penulis untuk menunjang penyusunan laporan tugas akhir ini.
+Lampiran; Berisikan beberapa hal yang mendukung proses penelitian ini.

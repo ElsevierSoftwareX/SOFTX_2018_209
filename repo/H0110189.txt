@@ -1,0 +1,317 @@
+﻿Penerapan Multivariate Adaptive Regression Spline sebagai Alat untuk
+Pemodelan Pertumbuhan Ayam Broiler
+
+ABSTRAK
+Model pertumbuhan mempunyai fungsi utama sebagai alat pengambilan kebijakan pada pengolahan
+ayam broiler. Sebanyak 9 jenis pakan dicobakan pada ayam umur satu hari tanpa membedakan jenis
+kelamin. Pertambahan bobot badan dan jumlah konsumsi pakan diamati setiap minggu selama tiga
+minggu. Data dikumpulkan dari tiga model pertumbuhan yaitu model I untuk ayam yang mendapat
+perlakuan pakan 9. Model II untuk ayam yang mendapat perlakuan pakan 1, 2, 4, dan 7. Model III
+mendapat perlakuan pakan 3, 5, 6, dan 8. Hasil analisa data dengan menggunakan MARS pada data
+yang dikumpulkan, memperoleh hasil yang sama yaitu terdapat perbedaan kecepatan pertumbuhan
+antara umur satu sampai dengan dua minggu, kemudian dua sampai tiga minggu, sedangkan pengaruh
+jumlah konsumsi, beragam bergantung pada jenis pakan.
+Kata kunci: MARS, umur, pertambahan bobot badan, ayam broiler
+
+PENDAHULUAN
+Ayam ras pedaging atau broiler mulai terkenal
+di Indonesia sejak tahun 1980. Kepopuleran ini meningkat
+pada saat terjadi kelangkaan daging asal
+ruminansia. Pemahaman dalam mengatasi kondisi
+yang demikian, menyebabkan daging ayam menjadi
+sebuah pilihan untuk memenuhi kebutuhan sumber
+protein asal hewan (Menegristek Bidang Pendayagunaan
+dan Pemasyarakatan Ilmu Pengetahuan
+dan Teknologi, 2000). Populasi ayam pedaging, di
+Jawa Timur mulai tahun 2011 mengalami perubahan
+secara perlahan dan meningkat pesat pada 2013
+menuju tahun 2014. Kecenderungan peningkatan
+terhadap permintaan ayam ras sebesar 7% pertahun,
+memungkinkan kelanjutan budidaya ayam
+ras pedaging sebagai salah satu usaha yang menjanjikan
+keuntungan (Bank Indonesia, 2014). Nilai
+ekonomis dalam peternakan ayam ras pedaging
+ditentukan oleh beberapa faktor, salah satu diantaranya
+dan yang paling utama adalah kecepatan
+pertumbuhan yang terukur dalam pertambahan
+bobot badan. Jika bobot badan digunakan sebagai
+indikator pertumbuhan, maka dapat didefinisikan
+sebagai fungsi waktu atau umur terhadap bobot
+badan (Peraturan Menteri Kesehatan Republik Indonesia Nomor 66, 2014). Sehubungan dengan
+demikian, maka bobot badan ayam dapat diduga
+dari umur. Hasil pendugaan ini diwujudkan dalam
+bentuk sebagai model. Penelitian Fernandez et al.
+(2013) dengan menggunakan persamaan regresi,
+product moment, antara umur dan bobot badan
+pada ayam pedaging jenis Cobb 500, diperoleh model
+yang tidak linier baik pada jenis kelamin jantan
+maupun betina. Sehubungan dengan itu berbagai
+upaya telah dilakukan untuk mendapatkan model
+antara umur dan bobot badan pada ayam, dengan
+menggunakan model regresi tidak linier Gompertz,
+syaraf tiruan dan regresi logistik (Roush et al., 2006;
+Wardhani & Setiarini, 2010). Model yang tidak linier
+juga pernah ditemukan pada hubungan bobot badan
+dan jumlah konsumsi pakan (Morel et al., 2001).
+Multivariate Adaptive Regression Spline (MARS),
+merupakan model tidak parametrik yang digunakan
+untuk menjelaskan hubungan komplek dari beberapa
+variabel prediktor terhadap variabel respon.
+Model ini diperkenalkan oleh Friedman pada tahun
+1991, sebagai upaya untuk mengatasi masalah yang
+tidak terjawab oleh model parametrik. Model tidak
+parametrik ini dibangun berdasarkan kekhususan
+data pada lokasi tertentu dengan bentuk linieritas.
+Penampilan kurva yang ditampil oleh MARS bisa
+berupa garis linier tunggal atau serangkaian garis
+linier yang berhubungan dengan garis lain yang
+memberikan kesan pada garis patah-patah (spline).
+Titik patah (pertemuan) antar garis akan menunjukkan
+perubahan respon terhadap variabel
+prediktornya. Kelebihan lain yang dimiliki oleh
+MARS adalah besar variabel respon yang disebabkan
+oleh variabel tunggal dan atau interaksi antara
+variabel prediktor. Variabel prediktor dapat berupa
+gabungan data mempunyai skala yang berbeda.
+MARS adalah bentuk generalisasi dari recursive
+partitioning regression (RPR) yang merupakan
+paradigma utama dalam memahami model tak
+parametrik. Hubungan MARS dan RPR digambar
+dalam bentuk :
+Basic Function (BF) didefinisikan sebagai fungsi
+yang menjelaskan hubungan variabel prediktor
+dengan variabel respon. Basic function dinyatakan
+dalam:
+a0 adalah konstanta, am adalah koefisein Basic Function
+dari ke 1 hingga ke m dan Hm(X)adalah Basic
+function yang dibangun dari interaksi (Km) antara
+variabel (v(k,m) pada knot (tk,m).
+Agar mudah menginterpretasikan jumlah BF
+dianjurkan tidak melebihi empat kali variabel prediktornya.
+Jumlah interaksi tidak lebih dari tiga dan
+jumlah observasi (jarak Knot) tidak lebih dari tiga.
+Kesesuaian model dalam MARS ditentukan oleh nilai
+terendah dari generalized cross validation (GCV)
+yang besarnya dihitung dari:
+f adalah model prediksi MARS pada BF, y adalah variabel
+respon, N adalah jumlah observasi. C(M) ukuran
+kompleksitas dari model yang mengandung BF.
+BAHAN DAN METODE
+Hewan coba
+Sebanyak 4,608 ekor ayam potong umur satu
+hari tanpa dibedakan jenis kelamin terbagi dan dipelihara
+ke dalam 36 buah kandang. Setiap kandang
+diisi 128 ekor yang dipilih secara acak. Selanjutnya
+ke-36 kandang tersebut diberi perlakuan sembilan
+macam jenis pakan dikenakan secara acak. Setiap
+perlakuan diulang tiga kandang. Penimbangan
+bobot badan selanjutnya dilakukan setiap minggu
+hingga umur tiga minggu. Jumlah pakan yang diberikan
+ketika ayam berumur satu hari sebesar 50
+kg. Pada akhir minggu pertama sisa pakan setiap
+kandang ditimbang. Selisih jumlah pakan yang diberikan
+dengan sisa pakan menggambarkan jumlah
+konsumsi pakan pada minggu pertama. Hal yang
+sama dilakukan pada minggu kedua dan ketiga.
+Jumlah pakan yang diberikan pada minggu kedua
+sebesar sisa pakan minggu pertama ditambah 50
+kg pakan baru untuk setiap kandang. Jumlah pakan
+minggu ketiga sebesar sisa pakan minggu kedua
+ditambah 50 kg pakan baru untuk setiap kandang.
+
+Analisa data
+Pemodelan hubungan umur, jumlah konsumsi
+pakan dan jenis pakan terhadap bobot badan
+menggunakan MARS dilakukan pada saat ayam
+sudah berumur satu minggu. Piranti yang digunakan
+adalah MARS versi 2.0. Pada waktu ayam
+masih berumur satu hari dan secara acak ditempatkan
+ke dalam kandang, ditimbang bobot badannya.
+Selanjutnya data hasil penimbangan dianalisis untuk
+memastikan tidak terdapat perbedaan bobot
+badan ayam sebelum diperlakukan. Bobot badan
+ayam umur satu hari tidak berbeda nyata jika hasil
+analisis data tersebut mendapatkan nilai peluang
+lebih besar dari lima persen (p>0,05). Teknik analisis
+data bobot badan ayam umur satu hari menggunakan
+perangkat lunak SPSS versi 2.0.
+HASIL
+Hasil analisis varian terhadap bobot badan ayam
+dari perlakuan sembilan jenis pakan yang diproduksi
+oleh pabrik yang berbeda tidak menunjukkan
+perbedaan yang nyata (p=0,11). Bobot badan ayam
+percobaan umur satu hari (bobot awal penelitian)
+disajikan dalam Tabel 1. Bobot badan dan jumlah
+pakan mingguan selama perlakuan disajikan dalam
+Tabel 2 dan Tabel 3.
+Tabel 1 Bobot badan ayam umur satu hari (g)
+
+Model MARS terbaik pertama untuk menggambarkan
+hubungan umur, jenis pakan dan jumlah konsumsi
+pakan terhadap bobot badan yang muncul,
+diperoleh pada MO = 0, MI = 1 dan MBF = 9 atau
+MF = 0, MI = 2 dan MBF = 3. Keduanya memberikan
+nilai GCV terkecil yaitu sebesar 212,591. Dalam model
+tersebut, umur termasuk unsur utama dalam menentukan
+bobot badan karena umur mempuyai kepentingan
+dalam model sebesar 100. Jenis pakan
+menempati faktor kedua setelah umur. Nilai kepentingan
+jenis pakan terhadap bobot badan sebesar
+1,782 sedangkan jumlah konsumsi pakan tidak mempunyai
+sumbangan dalam model tersebut. Pada
+model ini berkaitan pula dengan bobot badan
+tetapi tidak berinteraksi dengan umur ayam.
+Model hubungan umur dan jenis pakan terhadap
+bobot badan ayam penelitian selengkapnya disajikan
+dalam Gambar 1.
+Gambar 1 Model hubungan umur, jenis pakan
+nomor 9 dan jumlah konsumsi terhadap
+bobot badan ayam. (Hubungan pakan
+terhadap bobot badan ditunjukkan
+oleh persamaan Y = 529,637 + 516,692
+* BF1– 328,531 * BF2– 21,150 * BF3; Y
+melambangkan bobot badan ayam yang
+diestimasikan. BF1 dan BF2 melambangkan
+fungsi umur dengan ketentuan,
+BF1 = max(0, umur- 2.000), BF2 = max(0,
+2.000 - umur). BF3 melambangkan fungsi
+pakan dengan ketentuan (pakan = 9)).
+Seperti tersaji di dalam persamaan model didapatkan
+BF1 = max (0, umur – 2.000), BF1 = max
+(0, 2.000 - umur) dan BF3 = 9. BF1 = max (0, umur -
+2.000), menunjukkan bahwa koefisien BF1 mempunyai
+arti jika umur ayam lebih dari dua minggu
+tetapi sebaliknya untuk BF2 = max (2.000 – umur).
+BF = (pakan =1), fungsi ini dimaknai model berlaku
+jika pakan yang dikonsumsi berjenis 9. Jadi dalam
+model tersebut dapat dimaknai jika pakan yang dikonsumsi
+ayam berjenis 9 oleh ayam berumur lebih
+dari dari dua minggu maka setiap kenaikan umur
+satu satuan akan diikuti pertambahan bobot badan
+sebesar 516,692. Sebaliknya jika pakan jenis 9 diberikan
+pada ayam berumur kurang dari dua minggu
+maka setiap kenaikan bobot umur satu satuan akan
+diikuti pertambahan bobot badan sebesar 201,390
+satu satuan umur.
+Langkah berikutnya, setelah bobot pakan akibat
+pemberian pakan berjenis 9 dikeluarkan, maka hubungan
+antara bobot badan, jenis pakan dan jumlah
+konsumsi didapatkan model yang tersaji dalam
+Gambar 2.
+Gambar 2 Model hubungan umur, jenis pakan, dan
+jumlah pakan yang dikonsumsi terhadap
+bobot badan.pada jenis pakan satu,
+dua, empat, atau 7. A. Hubungan umur
+terhadap bobot badan, B. Hubungan
+jumlah konsumsi pakan terhadap bobot
+badan, Hubungan umur, jenis pakan
+dan jumlah pakan terhadap bobot
+badan dimodekanl dalam persamaan
+Y = 529.726 + 524.658 * BF1 - 331.083 *
+BF2 - 0.514 * BF8, dengan BF1 = max(0,
+UMUR - 2.000); BF2 = max(0, 2.000 -
+umur ); BF6 = (pakan = 1 atau pakan = 2
+pakan = 4 atau pakan = 7); BF8 = max(0,
+minggu - 1234.650) * BF6; ,GCV terkecil
+didapat pada MO = 0, MI = 2 dan MBF = 9
+atau MO = 0, MI = 3 dan MBF = 9.
+
+
+Model yang disajikan dalam Gambar 2 berlaku untuk
+pakan berjenis 1, 2, 4, atau 7. Dalam pemodelan
+jenis pakan dilambangkan oleh BF6. Kepentingan
+jenis pakan yang dikonsumsi terhadap bobot badan
+sebesar 1,251. Berbeda dengan model hubungan
+umur dengan bobot badan yang disajikan oleh
+Gambar 1. Selain umur dan jenis pakan, jumlah
+pakan yang dikonsumsi mempunyai sumbangan
+terhadap bobot badan yaitu sebesar 1,251. Dalam
+pemodelan sumbangan jumlah konsumsi pakan dilambangkan
+oleh BF8 yang besarnya - 0,514 * BF8
+dengan BF8 = max (0, minggu – 1234,650). Hal ini
+dimaknai jika jumlah pakan yang dikonsumsi sama
+atau melebihi 1234,650 g maka terjadi penurunan
+bobot badan sebesar 0,514 satu satuan.
+Model ketiga terdapat pada ayam yang diberi
+pakan jenis dan 8. Dalam model jenis ketiga, umur
+merupakan faktor utama dalam menentukan bobot
+bobot badan. Model hubungan umur dan bobot
+badan pada ayam yang diberi pakan jenis dan 3, 5,
+dan 8 disajikan dalam Gambar 3.
+Gambar 3 Model hubungan umur, dengan bobot
+badan pada jenis pakan tiga. Hubungan
+umur, jenis pakan dan jumlah pakan
+terhadap bobot badan dimodelkan
+dalam persamaan Y = 531.756 + 519.923 *
+BF1 - 330.222 * BF2, BF1 = max(0, umur -
+2,000); BF2 = max(0, 2.000 - umur).
+Besar MO, MI, MBF dan GCV berturut
+turut adalah 0, 3, 3 dan 179,170.
+Pemodelan pertumbuhan pada ayam pedaging
+berguna untuk mengestimasi produksi yang akan
+datang berkesesuaian dengan kebutuhan pasar dan
+menganalisis keuntungan maksimum melalui pengkombinasian
+pakan, biaya, fungsi pertumbuhan,
+konversi pakan dan penerimaan produk kepasaran
+(Wang et al., 2012). Sesuai dengan kenyataan model
+pertumbuhan yang diperkenalkan umumnya model
+yang tidak linier (Raji et al., 2014).
+PEMBAHASAN
+Hasil analisis MARS terhadap pertumbuhan
+ayam pedaging dikaitkan dengan umur, jumlah
+konsumsi pada 9 jenis pakan yang diberikan didapatkan
+tiga model yang berbeda. Model pertama
+sesuai untuk ayam yang diberi pakan jenis 9. Model
+kedua sesuai untuk ayam yang diberi pakan jenis 1,
+2, 4, dan 7. Model ketiga sesuai untuk ayam yang
+diberi pakan berjenis 3, 5, 6, dan 8. Model pertama
+dan model ketiga mempunyai kemiripan yaitu umur
+memegang peran utama dalam menentukan bobot
+badan. Hal tersebut terlihat dari nilai kepentingan
+pakan pada bobot badan sebesar 100, sedang
+jumlah pakan yang dikonsumsi dan jenis pakan
+mempunyai nilai kepentingan sebesar nul. Berbeda
+dengan model pertama atau model ketiga.
+Pada model kedua tidak sepenuhnya umur sebagai
+faktor utama dalam menentukan bobot badan,
+karena jenis dan jumlah pakan yang dikonsumsi
+mempunyai peran dalam fungsi tersebut. Pengaruh
+umur terhadap bobot badan baik pada model pertama,
+dan model ketiga mempunyai pola yang sama
+yaitu berupa dua buah garis lurus yang bertemu
+pada umur dua minggu. Kemiringan garis setelah
+umur dua minggu lebih tumpul daripada sebelum
+umur dua minggu. Gambaran ini mengindikasikan
+terdapat perbedaan kecepatan pertumbuhan pada
+umur setelah dua minggu dibanding sebelum umur
+dua minggu (Morel et al., 2001). Pengaruh jumlah
+pakan yang dikonsumsi terhadap bobot badan
+beragam bergantung pada jenis pakan yang dikonsumsi.
+Temuan ini sesuai dengan hasil pendapat
+Morel et al. (2001). Tidak ditemukan pengaruh
+jumlah pakan yang dikonsumsi pada ayam yang
+menerima pakan berjenis 3, 5, 6, 8, dan 9 dalam
+pemodelan dan dimungkinkan pengaruhnya relatif
+sangat kecil dibanding umur terhadap bobot badan.
+Pada ayam yang menerima pakan berjenis 1, 2,
+4, dan 7 menyebabkan penurunan ketika mengkonsumsi
+pakan sekurang-kurangnya sebanyak
+1234,650. Jumlah pakan yang dikonsumsi sebanyak
+1234,650 setara dengan jumlah pakan yang dikonsumsi
+pada umur tiga minggu, maka dimaknai
+bobot badan ayam yang mengkonsumsi pakan
+jenis 1, 2, 4, dan 7 menurun setelah mencapai umur
+tiga minggu. Perbedaan jumlah pakan yang dikonsumsi
+berkaitan jenis pakan disebabkan perbedaan
+kandungan jumlah lisin dalam pakan (Ullah
+et al., 2012).
+Kesimpulan hasil penelitian yang dilakukan terhadap
+anak ayam ras pedaging menunjukkan bahwa
+ada tiga model pertumbuhan dimana ternyata diperoleh
+gambaran yang sama yaitu terdapat perbedaan kecepatan pertumbuhan antara umur satu
+sampai dengan dua minggu dengan dua sampai
+tiga minggu sedangkan pengaruh jumlah konsumsi
+pakan, beragam tergantung pada jenis pakan.
+“Penulis menyatakan tidak ada konflik kepentingan
+dengan pihak-pihak yang terkait dalam penelitian
+ini”.

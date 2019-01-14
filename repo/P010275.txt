@@ -1,0 +1,107 @@
+﻿
+Peramalan Multivariat untuk Menentukan Harga Emas Global 
+
+ 
+
+ 
+
+
+
+Pendahuluan 
+
+ 
+Investasi emas dapat dilakukan dengan berbagai 
+bentuk/wujud seperti: emas batangan, emas perhiasan, koin emas, sertifikat emas, saham perusahaan emas. Banyak kalangan bahkan hampir setiap 
+negara di dunia menyimpan kekayaan mereka 
+dalam bentuk emas. Amerika Serikat pada tahun 
+2015 menyimpan kekayaan dalam bentuk emas 
+seberat 8.133 ton, disusul Jerman (3.381 ton), Italia 
+(2.435 ton), Prancis (2.435 ton), dan China (1762 ton) 
+(Holmes ). Kecenderungan orang menyimpan kekayaan mereka dalam bentuk emas dikarenakan 
+kecenderungan harga emas yang meningkat dalam 
+jangka panjang serta kemampuan emas dalam 
+mengatasi gejolak inflasi (Kusuma ). Bagaimanapun juga, kecenderungan tersebut tidak serta merta 
+menjadikan emas sebagai pilihan utama dalam berinvestasi. Prediksi atau peramalan akan nilai tukar 
+emas dimasa mendatang menjadi pertimbangan 
+sebelum membuat keputusan untuk berinvestasi. 
+ 
+Sebuah penelitian yang dilakukan oleh Botha  
+mengenai perilaku harga emas menyatakan bahwa 
+pergerakan harga emas independen terhadap harga 
+masa lalu dari emas. Shankari dan Manimaran  
+menemukan fakta dalam penelitian mereka bahwa 
+harga emas mengikuti bentuk random walk dimana 
+penelitian ini dilakukan terhadap harga emas secara khusus di India. Kedua penelitian tersebut dilakukan dengan menggunakan univariate time series 
+modeling pada kurun waktu yang berbeda dan 
+menghasilkan kesimpulan yang serupa. 
+ 
+
+ 
+
+Kedua penelitian ini menyatakan bahwa harga 
+emas yang diteliti tidak dapat dimodelkan dengan 
+hanya menggunakan data emas itu sendiri. 
+ 
+Harga suatu komoditas tidak dipungkiri dipengaruhi oleh faktor-faktor lain disamping nilai historisnya 
+sendiri seperti harga barang subtitusi, inflasi, kondisi ekonomi, politik, dan lain sebagainya. Sepanek 
+ menyatakan bahwa harga emas dipengaruhi oleh 
+beberapa faktor diantaranya US Dollar dan tingkat 
+inflasi. Faktor lain yang turut mempengaruhi harga 
+emas adalah kondisi ekonomi dan politik (sahabat 
+pegadaian ). Seorang pengamat pasar, Gilroy  
+menyatakan bahwa terdapat hubungan keterbalikan antara harga emas dan minyak dunia. Pengaruh 
+faktor-faktor tersebut dapat dimodelkan secara 
+ilmiah menggunakan pemodelan multivariat yang 
+akan dibahas pada penelitian ini. 
+ 
+Penelitian terdahulu telah memodelkan harga emas 
+secara univariate dimana hanya menggunakan harga emas dalam melakukan pemodelan. Pemodelan 
+univariat tidak dapat merepresentasikan adanya 
+pengaruh dari variabel-variabel lain terhadap harga 
+emas. Pengkajian akan adanya pengaruh dari 
+variabel lain dapat dilakukan dengan melakukan 
+pemodelan multivariat. 
+ 
+Pada makalah ini harga emas akan dimodelkan 
+secara multivariate. Kajian ulang pemodelan harga 
+emas dengan menggunakan univariate modeling 
+juga dilakukan. Kajian ulang ini dimaksudkan untuk melihat apakah pernyataan Botha, Shankari 
+dan Manimaran juga berlaku pada penelitian ini. 
+Selain itu pemodelan multivariat dilakukan dengan 
+tujuan untuk mendapatkan model yang lebih akurat 
+serta mengetahui besaran pengaruh dari variabelvariabel lain terhadap harga emas. Pemodelan multivariat terhadap harga emas dilakukan dengan memasukkan faktor-faktor yang berpengaruh untuk 
+mendapatkan model yang lebih baik. Faktor-faktor 
+yang akan dianalisis dalam penelitian ini adalah US 
+Dollar, tingkat inflasi, indeks saham gabungan (sebagai gambaran dari kondisi politik dan ekonomi), 
+serta harga minyak mentah dunia. 
+ 
+
+Metode Penelitian 
+
+ 
+Pemodelan Univariat Time Series 
+ 
+Secara garis besar, pemodelan prediksi harga emas 
+ini dilakukan pertama-tama dengan melihat apakah 
+data yang dimiliki bersifat stasioner ataupun tidak 
+stasioner. Uji stasioneritas dilakukan dengan menggunakan Augmented Dickey Fuller Test. Bila data 
+tersebut stastioner maka model ARMA(p,q) akan 
+diterapkan pada data yang dimiliki, namun bila 
+tidak stationer maka Model ARIMA (p,d,q) lah yang 
+akan digunakan. 
+ 
+Secara ringkas metode-metode yang digunakan 
+dapat dipaparkan sebagai berikut: 
+ 
+Augmented Dickey Fuller Test 
+ 
+Augmented Dickey Fuller Test adalah salah satu 
+jenis pengujian untuk menguji stasioneritas suatu 
+time series. Pengujian ini dilakukan dengan meregresikan difference pertama dari sebuah time series 
+terhadap lag pertama dari time series dan k-lag dari 
+difference pertama sebuah time series. Persamaan 
+regresi dapat dilihat pada (1). 
+ 
+
+ 
+

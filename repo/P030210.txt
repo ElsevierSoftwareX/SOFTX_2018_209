@@ -1,0 +1,153 @@
+﻿BAB I
+PENDAHULUAN
+1.1. Latar Belakang
+Asam askorbat atau lebih dikenal dengan nama vitamin C merupakan
+nutrisi yang penting bagi tubuh (Campbell et al, 2000). Pada saat ini
+penggunaannya sangat luas terutama dalam bidang farmasi, industri pangan dan
+kosmetik (Motlagh dan Noroozifar, 2003). Oleh karena itu metode analisis
+vitamin C yang murah, sederhana, cepat, sensitif dan selektif perlu dikembangkan.
+Banyak metode telah dikembangkan untuk tujuan ini, misalnya high performence
+liquid chromatography (HPLC), analisis enzimatis, dan liquid chromatography –
+mass spectrometry (LCMS). Metode tersebut relatif mahal dan memerlukan waktu
+pengerjaan yang relatif lama. Oleh karena itu teknik analisis alternatif perlu
+dikembangkan (Kumar dan Becket, 2012).
+Teknik elektroanalisis, khususnya voltametri siklik atau cyclic voltametry
+(CV) dan voltametri pulsa diferensial atau differential pulse voltametry (DPV)
+telah dikembangkan untuk mengevaluasi aktivitas antioksidan. Teknik ini
+memiliki beberapa keunggulan diantaranya kecepatan analisis, instrumentasi
+sederhana dan murah. Arus puncak pada analisis asam askorbat dengan voltametri
+siklik lebih rendah dibandingkan voltametri lain misalnya dengan voltametri
+gelombang persegi dan voltametri pulsa diferensial, karena terjadinya penurunan
+arus difusi (Bard dan Faulkner, 2000). Disamping itu potensial puncak dengan
+menggunakan voltametri siklik lebih besar dibandingkan menggunakan voltametri
+gelombang persegi, yang mengindikasikan terjadinya pergeseran negatif arus
+puncak (Kumar dan Becket, 2012). Dengan demikian voltametri siklik dapat
+digunakan untuk analisis kualitatif misalnya untuk karakterisasi elektroda, namun
+akan menghasilkan respons yang kurang baik pada analisis kuantitatif. Tingginya
+sensitivitas pada voltametri pulsa diferensial disebabkan oleh berkurangnya arus
+latar belakang yang tidak terjadi pada metode lain seperti voltametri siklik
+maupun voltametri pulsa normal (Bard dan Faulkner, 2000). Oleh karena itu
+metode ini telah digunakan dalam analisis vitamin C oleh Zare, et al. (2005),
+Silva, et al. (2008) dan Tashkhourian, et al. (2009).
+Arus puncak dalam analisis senyawa elektroaktif dipengaruhi oleh pH
+larutan analit. Asam urat dengan pKa 5,75 mengalami peningkatan arus dan
+mencapai harga maksimum pada rentang pH 4 sampai dengan 5. Pada pH di atas
+6 terjadi penurunan arus secara drastis (Khasanah, 2012). Respon elektrokimia
+vitamin C dengan pKa1 4,17 juga tergantung pada pH larutan (Raoof, et al 2007).
+Variasi pH akan mempengaruhi potensial formal asam askorbat dan membuat arus
+puncak serta bentuk voltamogram juga bervariasi (Motlagh dan Noroozifar,
+2003). Optimasi pH dalam analisis menggunakan metode elektrokimia dapat
+dilihat dari pergeseran negatif potensial puncak anodiknya. Kondisi optimal
+analisis vitamin C pada elektroda glassi karbon termodifikasi terjadi pada pH 4
+(Pournaghi, 1995 dalam Raoof et al 2007), yang mengindikasikan sensitivitas
+yang tinggi dari senyawa elektroaktif akan terjadi pada pH di sekitar nilai pKanya.
+Tetapi kondisi optimal ini dapat bervariasi pada elektroda yang berbeda.
+Raoof (2005) telah mengidentifikasi terjadinya pergeseran potensial puncak
+oksidasi asam askorbat yang sangat signifikan akibat modifikasi elektroda pasta
+karbon dengan film polipirol/ferisianida pada pH 6. Pada pH yang sama, dopamin
+tidak mengalami pergeseran yang signifikan, sehingga dapat dilakukan analisis
+multikomponen.
+Elektroda kerja yang umum dipakai dalam voltametri adalah Pt, Au, Hg
+dan pasta karbon. Dari beraneka bahan padat yang dapat digunakan sebagai
+elektroda kerja, salah satu yang paling sering digunakan adalah karbon. Elektroda
+berbasis karbon sekarang ini sangat berkembang dalam bidang elektroanalisis
+karena memiliki beberapa keunggulan, yaitu rentang potensial yang luas, arus
+latar belakang rendah, murah, inert, dan cocok digunakan untuk bermacammacam
+sensor. Walaupun demikian elektroda ini memiliki beberapa kelemahan
+diantaranya tidak selektif terhadap senyawa – senyawa yang memiliki arus puncak
+anodik yang berdekatan (Svancara et al, 2008). Oksidasi vitamin C pada
+elektroda pasta karbon umumnya terjadi pada potensial relatif tinggi yaitu sebesar
+486 mV yang tumpang tindih dengan potensial puncak oksidasi dopamin 524 mV
+(Zhang et al, 2011). Ini mengindikasikan kecepatan transfer elektron yang lambat.
+Analisis simultan terhadap asam askorbat dan asam urat pada elektroda glassi
+karbon bahkan mengakibatkan penurunan arus puncak yang mencapai 14,20%
+(Khasanah, 2012). Seperti halnya kinetika elektroda padat yang lain, kekurangan
+elektroda ini juga dapat disebabkan oleh deposisi vitamin C yang teroksidasi di
+permukaan elektroda. Hal ini mengakibatkan sensitivitas dan selektivitas yang
+rendah pada analisis kuantitatif menggunakan elektroda karbon.
+
+Sensitivitas suatu metode dapat dilihat dari limit deteksinya. Batas deteksi
+pada analisis vitamin C dengan HPLC adalah 0,7 µg mL-1 yang setara dengan
+3,98 x 10-6 M (Sawant, et al. 2011). Dengan metode voltametri menggunakan
+elektroda pasta karbon tanpa modifikasi limit deteksi mencapai 7,6 x 10-6 M
+(Orozco, et al. 2012).
+Berdasarkan kelemahan-kelemahan yang ada, penelitian dan
+pengembangan elektroda kerja terus dilakukan dalam rangka mencari elektroda
+kerja yang sifatnya aman, sensitif, selektif, akurat, dan mudah diperoleh. Laporan
+penelitian untuk meningkatkan kinerja elektroda karbon telah banyak
+dipublikasikan antara lain dengan cara modifikasi elektroda. Modifikasi elektroda
+pasta karbon bertujuan untuk meningkatkan selektivitas maupun sensitivitas
+dalam pengukuran dengan teknik voltametri (Svancara et al, 2008).
+Modifikasi elektroda berbasis karbon dengan logam atau oksida logam
+untuk elektronalisis antara lain dilakukan oleh Zhang dan Jiang (2005)
+menggunakan elektroda glassi karbon termodifikasi emas nano partikel dengan
+limit deteksi 2,8 x 10-6 M dan rentang konsentrasi linier 6,5 x 10-6 – 1,45 x 10-4 M.
+Elektroda glassi karbon yang dimodifikasi dengan carbon nanotube (CNT) dan
+gold nano rod (GNR) juga dilaporkan dapat memisahkan puncak voltamogram
+dalam analisis simultan dopamin dan asam askorbat (Deng et al, 2011).
+Disamping cara modifikasi yang rumit yaitu dengan elektrolisis glassi karbon,
+penggunaan GNR terkendala harga emas yang mahal. Untuk itu diperlukan
+modifier logam atau oksida logam yang murah dan cara modifikasi yang
+sederhana. Shahrokian (2007) memodifikasi elektroda pasta karbon dengan kobalt
+salofen yang menghasilkan limit deteksi 5 x 10-7 M dan rentang konsentrasi linier
+10-6 – 10-4 M. Kumar dan Becket (2012) menggunakan elektroda glassi karbon
+termodifikasi multiwall carbon nanotube dengan limit deteksi 1,4 x 10-7 M dan
+rentang konsentrasi linier 4,7 x 10-6 – 5,0 x 10-3 M.
+Salah satu modifier oksida logam lain pada elektroda pasta karbon yang
+telah diteliti adalah besi (III) oksida (Fe2O3). Fe2O3 sebagai modifier memiliki
+beberapa keunggulan diantaranya mudah didapatkan, dapat membentuk oksida
+logam berukuran nano dan dipadukan dengan karbon nanopartikel. Keunggulan
+lainnya adalah modifikasi dapat dilakukan dalam skala laboratorium dengan
+metode yang sederhana. Penggunaan besi (III) oksida sebagai modifier telah
+dilakukan oleh Adekunle et al (2010) untuk deteksi elektrokatalitik senyawa
+dopamin.
+Komposisi modifier Fe2O3 dan pH larutan yang optimum dalam analisis
+asam askorbat dengan metode voltametri ditentukan berdasarkan arus puncak
+voltamogram. Limit deteksi dan rentang konsentrasi linier juga diidentifikasi
+berdasarkan arus puncak voltamogram. Peningkatan selektivitas ditentukan
+berdasarkan pemisahan potensial puncak voltamogram hasil analisis
+multikomponen larutan yang mengandung analit asam askorbat, dopamin dan
+asam urat.
+
+1.2. Rumusan Masalah
+Dari uraian diatas, maka dilakukan penelitian dengan rumusan masalah :
+1. Bagaimanakah pengaruh penambahan modifier Fe2O3 pada elektroda pasta
+karbon terhadap arus puncak dalam analisis asam askorbat dengan metoda
+voltametri siklik?
+2. Bagaimanakah pengaruh pH terhadap arus puncak dalam analisis asam
+askorbat menggunakan elektroda pasta karbon yang dimodifikasi dengan
+Fe2O3 dengan metode voltametri siklik?
+3. Bagaimanakah validitas pengukuran asam askorbat menggunakan
+elektroda pasta karbon termodifikasi Fe2O3 yang meliputi rentang
+konsentrasi linier, limit deteksi, selektivitas dan keberulangan dalam
+penentuan dengan metode voltametri pulsa diferensial ?
+4. Bagaimanakah selektivitas elektroda pasta karbon termodifikasi Fe2O3
+dalam analisis multikomponen larutan yang mengandung asam askorbat,
+dopamin dan asam urat dengan metode voltametri pulsa diferensial?
+5. Bagaimanakah ketepatan pengukuran asam askorbat dalam sampel dengan
+metode voltametri pulsa diferensial menggunakan elektroda pasta karbon
+termodifikasi Fe2O3?
+1.3. Tujuan Penelitian
+Adapun tujuan dari penelitian ini adalah
+1. Untuk mengidentifikasi pengaruh penambahan modifier Fe2O3 pada
+elektroda pasta karbon terhadap arus puncak analisis asam askorbat
+dengan metoda voltametri.
+
+2. Untuk menganalisis pengaruh pH terhadap arus puncak dalam analisis
+asam askorbat menggunakan elektroda pasta karbon yang dimodifikasi
+dengan Fe2O3.
+3. Untuk memvalidasi pengukuran asam askorbat menggunakan elektroda
+pasta karbon termodifikasi Fe2O3 yang meliputi rentang konsentrasi linier,
+limit deteksi, selektivitas dan keberulangan dalam penentuan dengan
+metode voltametri pulsa diferensial.
+4. Untuk mengetahui selektivitas elektroda pasta karbon termodifikasi Fe2O3
+dalam analisis simultan asam askorbat, asam urat dan dopamin dengan
+metode voltametri pulsa diferensial.
+5. Untuk mengetahui ketelitian dan ketepatan pengukuran asam askorbat
+dalam sampel dengan metode voltametri pulsa diferensial menggunakan
+elektroda pasta karbon termodifikasi Fe2O3.
+1.4. Manfaat Penelitian
+Penelitian ini diharapkan dapat memberikan manfaat bagi masyarakat
+ilmiah berupa publikasi data tentang elektroanalisis vitamin C, serta informasi
+mengenai metode analisis kandungan obat khususnya vitamin C yang sensitif,
+tepat, selektif dan dengan limit deteksi yang rendah.

@@ -1,0 +1,441 @@
+﻿Desain dan Pengujian Mesin Sortasi Telur Ayam
+
+Abstrak
+Berdasarkan standar nasional Indonesia ( SNI ) No 3926:2008, bobot telur dikelompokan menjadi tiga
+kelompok: ukuran kecil (<50 g), ukuran sedang (50-60 g), dan ukuran besar (>60 g). Selama ini proses
+pengelompokkan telur masih dilakukan secara manual. Penelitian ini bertujuan untuk mendesain, membuat
+dan menguji mesin sortasi telur. Pengujian meliputi pengujian akurasi mesin sortasi, pengujian retak telur
+dan pengujian kapasitas mesin sortasi. Mesin sortasi telur terdiri dari lima bagian utama : sistem konveyor
+masuk, konveyor pengarah, konveyor sortasi, penyortir dan konveyor keluar. Mesin ini dapat menyortir
+telur dengan akurasi 83 % tanpa adanya keretakan pada telur. Kapasitas mesin ditentukan oleh kecepatan
+dari konveyor penyortir. Pada konveyor penyortir terdapat kecepatan awal dan akhir (Na), kecepatan kerja
+(Nb) dan panjang lintasan pada kecepatan awal dan akhir (L). Nilai kapasitas tertinggi didapat pada Na 15.5
+rpm, Nb 24.5 rpm, dan L 6 cm dengan kapasitas maksimum 61 butir/ menit.
+Kata kunci: telur, mesin sortasi, desain, dan pengujian mesin
+
+Pendahuluan
+Telur ayam yang akan dijual di pasar baik pasar
+domestik maupun yang akan diekspor ke negara
+lain harus mempunyai standar mutu yang sesuai
+dengan yang diinginkan. Berdasarkan Standar
+Nasional Indonesia SNI No. 3926: 2008, Bobot telur
+dibedakan menjadi 3 kelompok yaitu kecil kurang
+dari 50 g, sedang 50 g sampai 60 g dan besar lebih
+dari 60 g. Produksi telur di Indonesia pada tahun
+2013 mencapai 1,223,718 ton (Dirjen Perternakan
+2013). Dengan jumlah produksi tersebut maka
+pengklasifikasian telur secara manual memerlukan
+tenaga kerja yang sangat besar. Selain itu
+penyortiran secara manual dapat menyebabkan
+hasil pengelompokan telur tidak seragam karena
+tergantung pada subjek yang melakukan sortasi dan
+waktu yang digunakan relatif lebih lama. Pengunaan mesin sortasi merupakan suatu pemecahan untuk
+mengatasi masalah tersebut. Proses sortasi telur
+secara manual dilakukan dengan memisahkan telur
+dari penampungan menggunakan tangan dengan
+pengukuran secara visual yang selanjutnya telur
+dimasukan kedalam kemasan atau tray.
+Terdapat 2 jenis mesin sortasi telur yaitu mesin
+sortasi telur semi otomatis dan full otomatis. Mesin
+sortasi telur semi otomatis masih menggunakan
+tenaga manusia untuk memasukkan telur ke
+pengumpan, sehingga kecepatan dari mesin
+sortasi juga ditentukan oleh operator. Mesin sortasi
+telur full otomatis digunakan pada proses produksi
+telur yang sudah menggunakan otomatisasi dari
+proses pengumpulan telur di kandang sampai
+ke proses pengepakan, sehinggga mesin sortasi
+telur full otomatis merupakan kesatuan dari unit
+produksi telur. Mesin sortasi yang ada selama ini
+merupakan hasil produksi luar negeri. Kapasitas
+dari mesin sortasi bervariasi mulai dari 30 butir/
+menit sampai 360 butir/menit. Semangkin tinggi
+kapasitas dari mesin sortasi maka harganya
+semangkin mahal. Untuk mesin sortasi semi
+otomatis dengan kapasitas 60 butir/menit memiliki
+harga berkisar antara U$4,500 sampai U$5,000/
+set. Oleh karena itu perlu dilakukan perancangan
+mesin sortasi telur dengan akurasi tinggi, teruji dan
+menemukan kondisi optimum agar mesin mencapai
+kapasitas maksimum. Dari hasil penelitian ini akan
+didapatkan mesin sortasi telur yang telah teruji
+dan dapat digunakan oleh pengusaha telur dalam
+melakukan proses sortasi telur untuk mengurangi
+tenaga kerja dan meningkatkan pendapatan
+
+
+Metode Penelitian
+Tahapan Penelitian
+Tahapan penelitian ini terdiri dari tahap
+desain, tahap pembuatan dan tahap uji kinerja
+mesin sortasi telur. Desain mesin dimulai dengan
+menentukan kriteria dan spesifikasi mesin, sifat
+mekanik telur dan mekanisme kerja mesin. Tahapan
+pembuatan mesin terdiri dari dari 3 tahap yaitu
+pembuatan sistem mekanis, pembuatan sistem
+relay dan pengujian mesin. Sistem mekanis terdiri
+dari beberapa bagian yaitu sistem konveyor masuk,
+konveyor pengarah, konveyor sortasi, penyortir dan
+konveyor keluar. Pengujian mesin sortasi terdiri dari
+pengujian akurasi sortasi, pengujian retak telur, dan
+kapasitas sortasi mesin.
+
+
+
+Analisa Desain
+Penentuan kriteria dan spesifikasi mesin sortasi
+telur ayam ini diharapkan dapat mensortasi telur
+berdasarkan bobotnya secara otomatis dengan
+kapasitas 60 telur/menit dan tingkat akurasi
+mencapai 90% tanpa mengakibatkan kerusakan fisik
+pada telur. Dengan spesifikasi tersebut diharapkan
+dapat setara dengan kinerja sortasi manual namun
+dengan tingkat akurasi yang lebih baik. Penentuan
+sifat mekanik telur diperlukan untuk menentukan
+mekanisme dan gaya pada mesin sortasi agar tidak
+menimbulkan kerusakan pada telur. Sifat mekanik
+telur yang perlu diketahui di antaranya kekuatan
+pecah, rupture energy, koefisien gesek, elastisitas
+kulit telur, dan tekanan maksimum agar telur tidak
+retak. Nilai kekuatan pecah telur berkisar antara 25 N sampai 28 N, sedangkan nilai rupture energy
+untuk telur ayam berkisar antara 2.2 N.mm sampai
+4.77 N.mm. Telur memiliki nilai koefisien gesek
+tertinggi dengan karet sebesar 0.26 dan terendah
+dengan kaca sebesar 0.108 (Ebubekir dan Ahmet
+2007).
+Elastisitas kulit telur berhubungan dengan gaya
+maksimum yang dapat diberikan pada permukaan
+kulit telur. Ketika pembebanan diberikan pada bagian
+ujung telur maka besar gaya maksimum yang dapat
+diberikan berkisar antara 33 N hingga 49 N. Jika
+beban pembebanan diberikan pada sisi telur maka
+gaya. maksimum yang dapat diberikan sekitar 28.1
+N hingga 41.1 N (Bain et al 2006). Retak pada telur
+juga terjadi karena adanya tegangan pada telur.
+Tegangan ini biasa disebabkan oleh penumpukan
+telur. Besar tegangan maksimum yang terjadi pada
+telur sekitar 15.2 MPa (Entpeluit dan Reddy 1996)..
+
+
+Rancangan Fungsional
+Rancangan unit mesin sortasi telur ini terdiri
+dari beberapa bagian yaitu bagian roller, konveyor
+pengumpan, konveyor pengarah, konveyor sortasi,
+penyortir telur, konveyor keluar, dan sistem kontrol
+(Gambar 1). Konveyor masuk merupakan sebuah
+unit belt konveyor yang menggerakkan telur
+menuju bagian konveyor pengarah. Konveyor
+pengarah berfungsi untuk mengarahkan telur agar
+berada pada posisi yang tepat sebelum masuk ke
+bagian konveyor sortasi. Setelah melalui konveyor
+pengarah telur menggelinding menuju konveyor
+sortasi untuk dipindahkan ke unit penyortir. Sistem
+unit penyortir menggunakan prinsip timbangan
+manual yang dihubungkan dengan kontak untuk
+menyalakan selenoid. Jika telur sesuai dengan
+gradenya maka selenoid akan mendorong telur
+keluar menuju proses berikutnya.
+
+
+
+
+Rancangan Struktural
+Daya, Putaran, dan Torsi Motor Listrik pada
+Konveyor
+Daya motor listrik sebagai penggerak sistem
+konveyor dihitung menggunakan persamaan:
+P = F × V (1)
+dimana P adalah daya motor listrik (watt), F adalah
+gaya (N), dan V adalah kecepatan linear (m/s).
+Menurut Sularso (1997) untuk menentukan daya
+rencana motor listrik maka hasil perhitungan daya
+dari persamaan (2) perlu dikalikan faktor koreksi
+sesuai dengan persamaan:
+Pd = P × F (2)
+Dimana Pd adalah daya rencana motor listrik (watt),
+P adalah daya motor listrik (watt), dan Fc adalah
+faktor koreksi yang nilainya 1.2. Sedangkan putaran
+motor (N) dapat dihitung dari kecepatan linear
+konveyor (V) dengan persamaan:
+(3)
+dimana N adalah putaran motor (rpm),V adalah
+kecepatan linear (m/s) dan D adalah diameter puli
+(m). Sedangkan torsi motor dapat dihitung dengan
+persamaan:
+τ = F x r (4)
+dimana τ adalah torsi motor (Nm), F adalah gaya
+(N), dan r adalah jari-jari (m)
+
+
+
+Konveyor Masuk
+Konveyor masuk merupakan jenis belt konveyor
+yang dilengkapi roller untuk mencegah belt
+melentur. Konveyor masuk berdimensi panjang
+70 cm, lebar 50 cm, dan tinggi 95 cm. Sistem dari
+konveyor masuk dapat dilihat pada Gambar 2.
+Besarnya beban total yang akan dipindahkan oleh
+konveyor pengarah sebesar 43 kg. Beban tersebut
+terdiri dari berat maksimum telur dan berat dari
+sabuk. Dari tabel nilai koefisien gesek diketahui
+besarnya koefisien gesek antara dua buah baja
+yang dilumasi berkisar antara 0.15 sampai 0.2,
+sehingga besarnya gaya yang diperlukan untuk
+menggerakkan konveyor sebesar 85 N.
+Daya rencana dan putaran dari motor listrik
+dapat dihitung dengan persamaan (2) dan (3),
+besarnya daya rencana dan putaran dari motor
+konveyor masuk berturut-turut sebesar 3 W dan
+14.4 rpm. Sedangkan torsi dari motor dihitung
+dengan persamaan (4), torsi motor yang diperlukan
+sebesar 1.07 Nm.
+
+Konveyor Pengarah
+Konveyor pengarah merupakan jenis roller
+konveyor. Konveyor ini terdiri dari susunan beberapa
+roller yang dihubungkan dengan rantai. Sistem dari
+konveyor pengarah dapat dilihat pada Gambar 3.
+Konveyor pengarah berdimensi panjang 60 cm,
+lebar 40 cm, tinggi 90 cm, dan jarak antara roller
+sebesar 5 cm. Besarnya beban total yang akan
+dipindahkan oleh konveyor pengarah sebesar 9.43
+kg. Beban tersebut terdiri dari berat maksimum telur,
+berat rantai dan berat roller, sehingga besarnya gaya
+yang diperlukan untuk menggerakkan konveyor
+sebesar 18.8 N. Daya rencana dan putaran dari
+motor listrik dapat dihitung dengan persamaan (2)
+dan (4), besarnya daya rencana dan putaran dari
+motor konveyor masuk berturut-turut sebesar 1.1 W
+dan 19.1 rpm. Sedangkan torsi dari motor dihitung
+dengan persamaan (3), torsi motor yang diperlukan
+sebesar 0.46 Nm.
+Menurut Song et al. (2013) diameter rol yang
+baik 40 sampai 50 mm, jarak antara rol 45 sampai65 mm sudut kemiringan pembatas telur 20° sampai
+30°, dan jarak sisi pembatas telur harus dibawah
+5 mm. Dari data pengukuran 100 sampel telur
+diketahui tinggi maksimum dari telur 67 mm dengan
+diameter 44 mm. Sehingga diperoleh selisih antara
+tinggi dan diameter telur 24 mm. Desain dari bentuk
+roller disajikan pada Gambar 4.
+
+
+
+Konveyor Sortasi
+Gambar 5 memperlihatkan sistem penggerak
+pada konveyor sortasi. Konveyor digerakan
+oleh dua buah motor listrik yaitu motor listrik 1
+dan motor listrik 2. Motor listrik 1 menggerakkan
+sistem mekanisme engkol peluncur arah horizontal
+dan motor listrik 2 menggerakkan mekanisme
+engkol peluncur arah vertikal, sehingga pola
+dari gerakan konveyor sortasi berbentuk persegi
+panjang dengan panjang 24 cm dan tinggi 4 cm.
+Konveyor sortasi memiliki dimensi panjang 190 cm,
+lebar 22 cm dan tinggi 95 cm. Terdapat 2 variasi
+kecepatan konveyor arah horizontal. Kecepatan
+yang pertama merupakan kecepatan awal dan
+akhir (Na) sedangkan kecepatan kedua merupakan
+kecepatan kerja (Nb). Penggunaan 2 variasi
+kecepatan dimaksudkan untuk memperkecil nilai
+momentum dan memperbesar kecepatan konveyor
+sortasi sehingga dapat meningkatkan kapasitas
+mesin.
+Mekanisme engkol peluncur untuk
+menggerakkan konveyor sortasi ditunjukkan pada
+Gambar 6. Beban yang ditanggung oleh mekanisme
+untuk menggerakkan konveyor meliputi beban telur
+dan wadah telur yang memiliki beban maksimum
+sebesar 14.2 kg.
+Gaya F1 pada Gambar 6 menunjukan besarnya
+beban total yang akan dipindahkan oleh mekanisme
+engkol peluncur setelah dikalikan dengan koefisien
+gesek. Besar gaya horizontal F1 yang diperlukan
+untuk menggerakkan beban tersebut sebesar 34.8
+N. Setelah diketahui besarnya F1 maka dengan
+menggunakan metode grafis didapat besarnya
+kecepatan dan gaya pada batang 2 berturutturut
+sebesar 14.11 cm/s dan 43.44 N. Dengan
+menggunakan persamaan (2) maka didapat
+besarnya daya rencana motor listrik 1 sebesar
+7.36 W, sehingga putaran motor dan torsi dapat
+dihitung dengan persamaan (3) dan (4) yang
+besarnya berturut turut sebesar 6.74 rpm dan
+8.68 Nm. Besarnya gaya F2 untuk menggerakkan
+konveyor kearah vertikal sebesar 139.16 N. Dengan
+menggunakan metode grafis didapat besarnya
+kecepatan dan gaya pada batang 2 berturutturut
+sebesar 41.4 cm/det dan 404.5 N. Dengan
+menggunakan persamaan (2) maka didapat
+besarnya daya rencana motor listrik 2 sebesar
+200.1 W. Putaran motor dan torsi dapat dihitung
+dengan persamaan (3) dan (4) yang besarnya
+berturut turut sebesar 62.8 rpm dan 86.1 Nm.
+
+Penyortir
+Penyortir digunakan untuk mengelompokkan
+telur sesuai dengan bobotnya. Pada bagian atas
+penyortir dilengkapi dengan solenoid yang berfungsi
+untuk mendorong telur. Jumlah penyortir sebanyak
+9 buah, di antara telur dan pemberat dipasang
+bearing agar gerakan dari penyortir benar-benar
+bebas. Desain dari penyortir disajikan pada gambar
+7.
+Untuk mengatur besarnya bobot dari pemberat
+maka dipasang ulir agar pemberat dapat diatur
+dengan cara memutar pemberat tersebut. Bobot
+dari pemberat dapat ditentukan sebagai berikut:
+(5)
+dimana Fa bobot telur maksimum, Fb bobot
+pemberat, La jarak antara telur ke bearing dan Lb
+jarak pemberat ke bearing. Diketahui Fa 80 g, La 6.5
+cm dan Lb 5.5 cm, sehingga nilai Fb 94.55 g.
+
+
+
+Konveyor Keluar
+Konveyor keluar berdimensi panjang 85 cm,
+lebar 65 cm, dan tinggi 85 cm. Sistem dari konveyor
+keluar dapat dilihat pada Gambar 8. Besarnya
+beban total yang akan dipindahkan oleh konveyor
+keluar sebesar 16.4 kg. Beban tersebut terdiri dari
+berat maksimum telur, berat rantai, dan berat roll
+alumunium. Besarnya gaya yang diperlukan untuk
+menggerakkan konveyor sebesar 20.9 N. Daya dan
+putaran dari motor listrik dapat dihitung dengan
+persamaan (2) dan (4), besarnya daya rencana dan
+putaran dari motor konveyor masuk berturut-turut
+sebesar 3.7 W dan 57.3 rpm. Sedangkan torsi dari
+motor dihitung dengan persamaan (3), torsi motor
+yang diperlukan sebesar 0.522 Nm.
+
+
+
+Metode Pengujian Kinerja Mesin Sortasi
+Pengujian Kapasitas
+Pengujian kapasitas bertujuan untuk
+mendapatkan kecepatan maksimum yang dapat
+diberikan pada mesin sortasi. Kapasitas mesin
+didapat setelah melakukan pengujian dengan
+kombinasi antara nilai L (panjang lintasan pada
+kecepatan Na) dan N (kecepatan putar). Nilai Na
+yang digunakan untuk pengujian sama dengan
+Nilai Nb yaitu Nb1 11.4 rpm, Nb2 15.5 rpm dan Nb3
+24.5 rpm. Sedangkan nilai L adalah L1 0 cm, L2 3
+cm dan L3 6 cm. Dari kombinasi dari nilai tersebut
+akan didapat kapasitas masimum. Pada pengujian
+ini dilakukan dengan 135 sampel telur. Pola gerakan
+dari konveyor penyortir ditunjukkan pada Gambar
+9.
+
+
+
+Pengujian Akurasi
+Pengujian akurasi bertujuan untuk melihat
+seberapa akurat mesin sortasi ini dalam melakukan
+pengelompokan telur. Pada pengujian ini digunakan
+18 sampel telur yang dikondisikan dengan 6 kali
+pengulangan. Berat telur yang digunakan dalam
+pengujian ini adalah empat telur pada grade A yaitu
+64 g, 63 g, 62 g, 61 g, delapan telur pada grade B
+yaitu 60 g, 59 g, 58 g, 57 g, 56 g, 54 g, 53 g, 52 g,
+51 g, 50 g , dan empat telur pada grade C yaitu 49
+g, 48 g, 47 g, 46 g. Pengkondisian sampel tersebut
+dimaksudkan untuk mengetahui tingkat kesalahan
+pada masing-masing grade. Akurasi dapat dihitung
+dengan membandingkan jumlah telur yang berhasil
+dikelompokan dengan jumlah yang seharusnya
+terkelompok. Akurasi dapat dihitung dengan
+persamaan berikut:
+(6)
+dimana A adalah akurasi (%), Jt adalah jumlah telur
+yang tersortasi dengan tepat, dan Jh adalah jumlah
+telur yang seharusnya terkelompok.
+
+Pengujian Keretakan
+Pengujian ini bertujuan untuk melihat apakah
+telur yang telah melewati mesin sortasi mengalami
+retak. Pengujian ini menggunakan 30 sampel
+telur dengan grade yang berbeda. Sebelum
+disortasi telur terlebih dahulu diteropong untuk
+melihat kondisi awal. Telur yang kondisinya baik
+dimasukkan ke dalam mesin sortasi, setelah keluar
+dari masin sortasi telur tersebut kembali diteropong
+untuk melihat keadaan akhir telur setelah melewati
+mesin sortasi.
+
+Hasil dan Pembahasan
+Prototipe Mesin
+Gambar 10 menunjukkan bagian-bagian mesin
+sortasi telur yang telah selasai dibangun. Bagian
+utama mesin sortasi seperti konveyor masuk,
+konveyor pengarah, konveyor sortasi, penyortir dan
+konveyor keluar dapat berfungsi dengan baik dan
+gerakan dari setiap bagian dapat tersinkronisasi,
+sehingga mesin sortasi ini dapat digunakan untuk
+proses penyortiran telur.
+
+Keretakan
+Dari hasil pengujian pada 30 sampel telur tidak
+ditemukan terjadinya keretakan pada telur. Sebelum
+disortasi telur diteropong terlebih terlebih dahulu
+untuk dipastikan tidak terdapat retak (Gambar 11b),
+kemudian hasil dari penyortiran diteropong kembali
+dan tidak ditemukan terjadinya retak (Gambar
+(Gambar 11c).
+
+Akurasi
+Dari pengujian 18 telur sebanyak 6 kali
+pengulangan, dapat diketahui kesalahan dalam
+penyortiran terjadi pada bobot telur yang mendekati
+batas dari grade. Nilai akurasi dari mesin sortasi ini
+adalah sebesar 83.8 %. Kurangnya tingkat akurasi
+dikarenakan titik berat dari telur yang tidak selalu
+berada di tengah sehingga penimbangan bobot yang mengunakan sistem pengungkit menjadi tidak
+akurat. Selain itu getaran yang terjadi pada konveyor
+grading mempengaruhi dalam penimbangan bobot
+telur. Adanya impact saat telur diletakan ke penyortir
+juga berakibat penimbangan bobot menjadi lebih
+besar dari nilai yang seharusnya. Untuk mengatasi
+hal tersebut dan meningkatkan akurasi maka dapat
+digunakan sistem timbangan dengan sensor load
+cell sehingga getaran atau noise dari pembacaan
+bobot telur dapat dihilangkan. Hasil pengujian
+akurasi dari tiap grade telur disajikan pada Tabel 1.
+
+Kapasitas
+Hasil pengujian pengaruh kecepatan awal dan
+akhir (Na), kecepatan kerja (Nb), jarak perubahan
+kecepatan awal dan akhir (L) terhadap kapasitas
+penyortiran disajikan pada Tabel 2. Kondisi dimana
+nilai Na adalah 15.5 rpm, Nb 24.5 rpm, dan L 6 cm,
+merupakan kondisi terbaik dengan kapasitas 61.8
+butir/menit.
+Pada saat nilai L diturunkan menjadi 3 cm
+kapasitas akan menurun karena kecepatan kerja Vb
+masih tersisa meskipun kecepatan sudah berubah
+menjadi Va. Hal ini berakibat momentum yang
+terjadi saat konveyor sortasi mencapai titik B masih
+cukup besar yang mengakibatkan telur menjadi
+jatuh. Dengan memperlambat Na menjadi 11.4
+rpm akan terjadi penurunan nilai kapasitas karena
+memperlambat kecepatan dari konveyor penyortir.
+Sedangkan mempercepat Na menjadi 24.5 rpm
+akan menurunkan nilai kapasitas karena kecepatan
+yang terlalu tinggi mengakibatkan besarnya nilai
+momentum saat menyentuh titik B. Selain itu nilai
+percepatan yang dihasilkan dari titik A juga menjadi
+besar yang berakibat telur jatuh dari penyortir
+sehingga menurunkan nilai kapasitas.
+
+
+Simpulan dan Saran
+Simpulan
+Mesin telur ayam berdasarkan bobot telah
+berhasil dirancang dan diuji coba. Mesin sortasi
+ini dapat menyortir dengan akurasi 83.8 % dengan
+kapasitas 61 butir/menit tanpa mengakibatkan
+keretakan pada telur. Kapasitas mesin sortasi
+dipengaruhi oleh kecepatan konveyor sortasi
+dimana kecepatan konveyor sortasi ditentukan
+dari kombinasi kecepatan awal dan akhir (Na),
+kecepatan kerja (Nb) dan panjang lintasan Na (L).

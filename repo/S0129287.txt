@@ -1,0 +1,570 @@
+﻿PENGARUH FAKTOR EKSTERNAL TERHADAP NILAI PERUSAHAAN (PBV)
+DAN HARGA SAHAM TERHADAP PERUSAHAAN MANUFAKTUR
+DI BURSA EFEK INDONESIA
+
+ABSTRAK
+Tujuan penelitian ini adalah untuk menguji pengaruh faktor eksternal terhadap nilai perusahaan, pengaruh nilai
+perusahaan terhadap harga saham, dan pengaruh faktor-faktor eksternal terhadap harga saham. Jumlah sampel
+dalam penelitian ini adalah 30 perusahaan manufaktur yang terdaftar di Bursa Efek Indonesia, yang diambil
+secara purposive. Penelitian ini menggunakan data sekunder melalui pengumpulan data dokumentasi. Analisis
+data dilakukan melalui Smart PLS. Temuan studi menunjukkan bahwa dari tiga indikator faktor eksternal, hanya
+dua faktor (inflasi dan nilai tukar) yang memenuhi kriteria, karena keduanya mempunyai loading factor lebih
+besar dari 0,5. Uji hipotesis menunjukkan bahwa faktor eksternal berpengaruh negatif terhadap nilai perusahaan
+dengan koefisien sebesar 0.0933. Berarti, jika faktor eksternal mengalami perubahan, maka nilai perusahaan,
+melalui proksi PBV, bergerak ke arah negatif. Sementara itu, nilai perusahaan berpengaruh positif terhadap harga
+saham dengan koefisien 0.0637. Ini mengindikasikan bahwa jika terjadi nilai PBV, maka harga saham perusahaan
+berubah ke arah positif. Faktor eksternal berpengaruh negatif terhadap harga saham dengan koefisien 0.1019,
+sebagai indikasi bahwa jika faktor eksternal berubah, maka harga saham berubah ke arah negatif.
+Kata kunci : faktor eksternal, nilai perusahaan, harga saham.
+
+PENDAHULUAN
+Kemajuan suatu pasar modal adalah salah satu
+indikator pengukuran kemajuan perekonomian suatu
+negara. Banyak faktor yang mempengaruhi pergerakan
+harga saham. Pergerakan harga saham ditentukan oleh
+permintaan dan penawaran terhadap saham tersebut.
+Selain itu pergerakan harga saham juga dipengaruhi
+oleh kondisi ekonomi, persepsi pasar terhadap kondisi
+perusahaan, informasi yang dimiliki oleh masyarakat
+tentang kondisi perusahan, dan prestasi perusahaan
+yang diharapkan dimasa mendatang.
+Semakin tinggi nilai perusahaan, maka kemakmuran
+pemegang saham akan semakin meningkat. Asumsi
+ini akan dijadikan pertimbangan oleh investor apakah
+akan menahan saham mereka ataukah akan menjualnya
+sehingga akan mempengaruhi pergerakan harga
+saham perusahaan.
+Secara garis besar, menurut Damodaran (1997),
+faktor-faktor yang mempengaruhi harga saham
+dibedakan menjadi faktor internal dan faktor eksternal.
+Faktor eksternal merupakan faktor yang berasal dari
+luar perusahaan dan tidak dapat dikendalikan oleh
+perusahaan seperti : kurs, tingkat inflasi, dan suku bunga
+deposito. Faktor internal dan eksternal membentuk
+kekuatan pasar yang mempengaruhi transaksi saham,
+sehingga mengakibatkan berfluktuasinya harga saham.
+Nilai perusahaan selalu memegang peranan dalam
+pengambilan keputusan investor. Pertumbuhan yang
+positif terhadap nilai perusahaan mengindikasikan
+peningkatan kinerja perusahaan, sehingga memberikan tanggapan positif dari para investor, seperti meningkatnya
+permintaan atas saham perusahaan dan keengganan
+para investor untuk menjual saham perusahaan. Ini
+akan dapat meningkatkan harga saham perusahaan.
+Dalam meningkatkan nilai perusahaan perlu
+diperhatikan faktor eksternal. Faktor ini tidak bisa
+dikendalikan oleh perusahaan, sehingga perusahaan
+perlu mempertimbangkan faktor eksternal dalam
+meningkatkan nilai perusahaan maupun dalam
+menjaga pergerakan harga saham. Seperti yang
+diungkapkan oleh Damodaran (1997) dalam Hidayat
+(2010) faktor eksternal keuangan yaitu tingkat inflasi,
+tingkat bunga, dan nilai tukar mempengaruhi keputusan
+intern keuangan yang meliputi keputusan investasi,
+pendanaan, dan dividen. Pemikiran Damodaran (1997)
+merupakan tindak lanjut dari pemikiran beberapa ahli
+keuangan yaitu Modigliani dan Miller, Brigham dan
+Houston, Gapenski yang menjelaskan bahwa struktur
+modal yang optimal yaitu struktur modal yang
+memaksimalkan harga saham perusahaan.
+Faktor eksternal yang dapat dalam mempengaruhi
+nilai perusahaan dan harga saham adalah tingkat suku
+bunga, inflasi, dan pergerakan nilai kurs mata uang.
+Tingkat bunga menurut Tandelilin (2010), memiliki
+hubungan yang negatif terhadap harga saham. Hal ini
+berarti bahwa ketika suku bunga meningkat maka
+harga saham akan mengalami penurunan. Dengan kata
+lain ketika tingkat bunga terlalu tinggi akan mempengaruhi
+present value dari aliran kas, yang selanjutnya akan
+mempengaruhi kesempatan investasi perusahaan. Selain
+itu, tingkat bunga yang tinggi dapat meningkatkan biaya
+modal yang ditanggung perusahaan, sehingga akan
+meningkatkan return yang disyaratkan oleh
+perusahaan. Hooker (2004) menemukan bahwa terjadi
+hubungan yang negatif antara tingkat bunga dengan
+return pasar. Hasil Hokker ini diperkuat oleh hasil
+penelitian yang dilakukan oleh Kandir (2008) yang
+menemukan hubungan yang negatif antara tingkat suku
+bunga dengan return pada portofolio yang terbentuk.
+Faktor eksternal yang lain yaitu inflasi, juga memiliki
+hubungan yang negatif terhadap harga saham. Inflasi
+yang terlalu tinggi dapat menyebabkan penurunan
+daya beli uang dan mengurangi tingkat pendapatan riil
+yang diperoleh investor dari investasinya. Menurut
+penelitian yang dilakukan Hooker (2004) menemukan
+bahwa tingkat inflasi mempengaruhi harga saham
+secara signifikan.
+Faktor eksternal yang ketiga adalah kurs nilai mata
+uang. Depresiasi terhadap suatu mata uang dapat
+menyebabkan peningkatan suatu harga saham jika
+terjadi peningkatan permintaan ekspor terhadap
+produk suatu perusahaan. Sebaliknya dengan perusahaan
+yang memiliki hutang akan mengalami penurunan
+harga saham dikarenakan harus melakukan
+pembayaran dengan mata uang asing. Kandir (2008)
+melakukan penelitian dan menemukan hubungan yang
+positif antara nilai kurs dengan return saham pada
+porotofolio yang ada.
+Brigham dan Gapenski (2002) menyatakan bahwa
+nilai perusahaan sangat penting karena nilai perusahaan
+yang tinggi akan diikuti oleh tingginya kemakmuran
+pemegang saham. Semakin tinggi nilai perusahaan
+maka semakin tinggi pula harga-harga saham
+perusahaan tersebut. Nilai perusahaan adalah nilai laba
+yang diharapkan pada masa akan datang yang dihitung
+kembali dengan suku bunga yang tepat (Winardi,
+2001) (dalam Kusumadilaga, 2010). Price to Book
+Value (PBV) menggambarkan seberapa besar pasar
+menghargai nilai buku saham suatu perusahaan. Makin
+tinggi rasio ini, berarti pasar percaya akan prospek
+perusahaan tersebut.
+Berdasarkan latar belakang permasalahan diatas,
+maka yang menjadi pokok permasalahan dalam
+penelitian ini adalah pertama, apakah faktor eksternal
+berpengaruh signifikan terhadap nilai perusahaan?,
+kedua, apakah faktor nilai perusahaan berpengaruh
+signifikan terhadap harga saham?, dan ketiga apakah
+faktor eksternal berpengaruh signifikan terhadap
+harga saham?
+Harga saham dan nilai perusahaan dipengaruhi oleh
+faktor internal dan ekternal. Faktor eksternal tersebut
+antara lain Inflasi, suku bunga, dan nilai kurs mata
+uang. Inflasi merupakan kecendrungan peningkatan
+harga-harga secara umum dan terus menerus. Ada
+beberapa cara untuk menghitung inflasi: a) dengan
+menggunakan harga umum, b) dengan menggunakan
+angka deflator, c) dengan menggunakan Indeks Harga
+Konsumen, d) dengan menggunakan harga pengharapan
+dan e) dengan menggunakan indeks harga dalam negeri
+dan luar negeri (Pratama, 2009).
+Suku bunga merupakan tingkat bunga yang sering
+digunakan sebagai ukuran pendapatan yang akan
+diperoleh oleh para pemilik modal. Tingkat bunga ini
+disebut dengan bunga simpanan atau bunga investasi.
+Selain itu, suku bunga juga digunakan sebagai ukuran
+biaya modal yang harus dikeluarkan perusahaan untuk
+menggunakan dana dari para pemilik modal, yang
+disebut dengan bunga pinjaman. Oleh karena itu,
+tingkat bunga sebenarnya merupakan harga yang
+bersedia untuk dibayar oleh masyarakat yang
+membutuhkan uang, dan ini terjadi di pasar uang dan
+pasar modal. Menurut Brigham dan Houston (2006),
+faktor-faktor yang mempengaruhi suku bunga selain
+inflasi, tingkat likuiditas yang dikehendaki, dan keadaan
+permintaan dan penawaran, adalah kebijakan bank
+sentral, besarnya defisit anggaran pendapatan dan belanja negara, neraca perdagangan luar negeri, dan
+tingkat kegiatan usaha.
+Nilai perusahaan adalah nilai jual suatu perusahaan
+dalam pasar modal. Nilai perusahaan merupakan
+bentuk memaksimalkan tujuan perusahaan melalui
+peningkatan kemakmuran para pemegang saham.
+Memaksimumkan kemakmuran pemegang saham
+adalah memaksimumkan present value keuntungan
+pemegang saham yang diharapkan dalam investasi.
+Present value merupakan nilai sekarang dari
+keuntungan yang diharapkan oleh pemegang saham
+yang akan diterima pada masa mendatang.
+Kemakmuran pemegang saham meningkat apabila
+harga saham yang dimiliki meningkat. Nilai perusahaan
+merupakan salah satu tolok ukur bagi para investor
+terhadap perusahaan, yang kemudian dikaitkan dengan
+harga saham.
+Brigham dan Gapenski (2002) menyatakan bahwa
+nilai perusahaan sangat penting karena nilai perusahaan
+yang tinggi akan diikuti oleh tingginya kemakmuran
+pemegang saham. Semakin tinggi harga saham, maka
+semakin tinggi pula nilai perusahaan tersebut.
+Nilai perusahaan yang tinggi merupakan salah satu
+tujuan para pemilik perusahaan, sebab nilai yang tinggi
+menunjukan peningkatan kemakmuran para pemegang
+saham. Kekayaan pemegang saham dan perusahaan
+dipresentasikan oleh kenaikan dan penurunan dari harga
+pasar saham yang merupakan cerminan dari keputusan
+investasi, pendanaan (financing), dan manajemen aset.
+Nilai perusahaan adalah nilai laba masa yang akan
+datang diekspektasi yang dihitung kembali dengan suku
+bunga yang tepat (Winardi, 2001)(dalam Kusumadilaga,
+2010). Price to Book Value (PBV) menggambarkan
+seberapa besar pasar menghargai nilai buku saham
+suatu perusahaan. Makin tinggi rasio ini, berarti pasar
+percaya akan prospek perusahaan tersebut.
+Semakin tinggi rasio PBV, semakin tinggi kinerja
+perusahaan dinilai oleh pemodal dengan dana yang telah
+ditanamkan di perusahaan. Oleh karena itu, dapat
+disimpulkan semakin tinggi PBV, semakin tinggi tingkat
+kepercayaan pasar terhadap prospek perusahaan,
+semakin tinggi daya tariknya bagi investor untuk
+membeli saham tersebut, sehingga permintaan akan
+naik, dan akhirnya mendorong harga saham naik
+(Wulandari, 2009).
+Saham merupakan surat tanda kepemilikan
+perusahaan. Menurut Tandelilin (2010:6) Saham
+merupakan surat bukti atas kepemilikan aset-aset
+perusahaan yang menerbitkan saham. Dengan
+memiliki saham suatu perusahaan, maka investor akan
+mempunyai hak terhadap pendapatan dan kekayaan
+perusahaan setelah dikurangi dengan pembayaran
+semua kewajiban perusahaan. Hanafi, Mamduh, dan
+Halim (2005:124), juga mengutarakan saham
+merupakan bukti kepemilikan. Seseorang yang
+mempunyai saham, berarti dia memiliki perusahaan
+tersebut. Nilai yang diberikan terhadap suatu saham
+tercermin dari harga saham perusahaan.
+Sartono (2004:41) mendefinisikan harga saham
+sebagai nilai sekarang atau present value dari aliran
+kas yang diharapkan akan diterima. Saham perusahaan
+selalu berubah-ubah setiap waktu persekian detik yang
+diperdagangkan di lantai bursa. Sehingga setiap saham
+memiliki harga yang berbeda-beda dikarenakan
+pergerakan saham tersebut berkaitan dengan kondisi
+dan keadaan dari masing-masing perusahaan serta nilai
+dari saham tersebut. Harga pasar merupakan harga
+suatu saham pada pasar yang sedang berlangsung.
+Jika pasar bursa tutup, maka harga pasar adalah harga
+penutupannya (closing price). Jadi harga pasar inilah
+yang menyatakan naik turunnya harga saham.
+Tandelilin (2010:18) menyebutkan bahwa saham
+merupakan surat bukti kepemilikan atas aset-aset
+perusahaan yang menerbitkan saham. Harga saham
+selalu mengalami pergerakan bahkan dalam hitungan
+detik. Berdasarkan hal tersebut, maka investor harus
+mampu memperhatikan faktor-faktor yang
+mempengaruhi harga saham. Faktor-faktor yang
+mempengaruhi fluktuasi harga saham dapat berasal
+dari faktor internal dan faktor eksternal. Faktor internal
+berupa laba perubahan, pertumbuhan aktiva tahunan,
+likuiditas, nilai kekayaan total, dan penjualan.
+Sedangkan faktor ekternal yang mempengaruhi harga
+saham adalah kebijakan pemerintah, pergerakan suku
+bunga, fluktuasi nilai tukar mata uang, serta rumor
+dan sentimen pasar.
+Kerangka konseptual dalam penelitian terkait
+dengan pengaruh faktor eksternal terhadap nilai
+perusahaan, pengaruh faktor eksternal terhadap harga
+saham melalui nilai perusahaan, serta pengaruh nilai
+persahaan terhadap harga saham. Kerangka konseptual
+dapat dilihat pada Gambar 1.
+Inflasi merupakan salah satu permasalahan
+ekonomi di banyak negara. Inflasi adalah proses
+kenaikan harga-harga umum barang-barang secara
+terus menerus. Jadi, inflasi hanya akan terjadi jika
+harga umum barang secara terus menerus selama
+suatu periode, meskipun mungkin kenaikan tersebut
+tidak secara bersamaan. Kenaikan harga diukur dengan
+menggunakan indeks harga. Beberapa penelitian telah
+dilakukan untuk melihat hubungan antara inflasi
+dengan perubahan nilai perusahaan salah satunya
+adalah studi yang dilakukan oleh Gudono (1999),
+menemukan bahwa inflasi tidak berpengaruh signifikan
+terhadap harga saham, sedangkan penelitian yang
+dilakukan oleh Dewi (2001), menemukan bahwa inflasi berpengaruh positif dan signifikan terhadap
+indeks harga saham sektor properti.
+Naiknya tingkat bunga akan mendorong masyarakat
+untuk menabung, dan malas untuk berinvestasi di
+sektor riil. Kenaikan tingkat bunga juga akan
+ditanggung oleh investor, yaitu berupa kenaikan biaya
+bunga bagi perusahaan. Masyarakat tidak mau berisiko
+melakukan investasi dengan biaya tinggi, akibatnya
+investasi menjadi tidak berkembang. Perusahaan
+banyak mengalami kesulitan untuk mempertahankan
+hidupnya, dan ini menyebabkan kinerja perusahaan
+menurun. Menurunnya kinerja perusahaan dapat
+berakibat pada penurunan harga saham, yang berarti
+nilai perusahaan juga akan menurun. Memburuknya
+kondisi faktor eksternal yaitu tingkat inflasi yang tinggi,
+tingkat bunga yang tinggi dan nilai tukar yang rendah
+menyebabkan arus kas perusahaan terganggu sehingga
+harga saham mengalami penurunan.
+Wijaya dan Wibawa (2010) melakukan penelitian
+terhadap faktor eksternal (inflasi, suku bunga, dan
+nilai tukar) terhadap nilai perusahaan. Hasil
+penelitiannya menunjukan bahwa dari ketiga faktor
+eksternal, hanya tingkat inflasi dan tingkat suku bunga
+yang berpengaruh terhadap nilai perusahaan.
+H1: faktor eksternal berpengaruh yang signifikan
+terhadap nilai perusahaan.
+Maksimalisasi nilai saham dapat dilakukan dengan
+mengoptimalkan kinerja keuangan, sehingga akan
+dapat meningkatkan nilai perusahaan. Peningkatan nilai
+perusahaan akan memperoleh respon positif dari para
+investor, sehingga akan dapat memengaruhi pergerakan
+harga saham perusahaan. Market to book value ratio
+merupakan rasio penilaian yang digunakan untuk
+mengetahui seberapa besar harga saham yang ada
+pada pasar dibandingkan dengan nilai buku saham,
+sehingga semakin tinggi rasio ini, perusahaan
+semakin dipercaya, sehingga nilai perusahaan
+semakin tinggi pula.
+Brigham dan Gapenski (2002) mengaitkan antara
+nilai perusahaan dan harga saham. Mereka menyatakan
+bahwa nilai perusahaan sangat penting karena nilai
+perusahaan yang tinggi akan diikuti oleh tingginya
+kemakmuran pemegang saham.
+Wulandari (2009) juga mengemukakan bahwa
+semakin tinggi rasio PBV, yang dalam hal ini merupakan
+proksi nilai perusahaan, maka semakin tinggi kinerja
+perusahaan dinilai oleh pemodal dengan dana yang telah
+ditanamkan di perusahaan. Oleh karena itu dapat
+disimpulkan semakin bahwa tinggi PBV, semakin tinggi
+tingkat kepercayaan pasar terhadap prospek
+perusahaan, tingginya PBV ini akan menjadi daya tarik
+bagi investor untuk membeli saham tersebut, sehingga
+permintaan akan naik, konsekuensinya harga saham
+akan terdorong naik.
+H2: nilai perusahaan mempunyai pengaruh yang
+signifikan terhadap harga saham.
+Faktor eksternal merupakan faktor di luar
+perusahaan yang mempengaruhi nilai perusahaan dan
+pergerakan harga saham perusahaan. Faktor eksternal
+tersebut adalah inflasi, suku bunga, dan nilai tukar
+mata uang. Inflasi didefinisikan sebagai suatu gejala
+di mana tingkat harga umum mengalami kenaikan
+secara terus menerus (Nanga, 2001 : 241).
+Pengaruh eksternal terhadap harga saham dapat
+dilihat dari hasil penelitian yang dilakukan oleh
+Modigliani dan Cohn (2001), yang menunjukkan
+bahwa tingkat inflasi sebagai salah satu faktor eksternal
+sangat besar pengaruhnya terhadap harga saham. Ini
+mengindikasikan bahwa faktor eksternal inflasi
+mempunyai pengaruh terhadap harga saham. Faktor
+lain yang berpengaruh terhadap harga saham yaitu nilai
+tukar rupiah. Kurs atau nilai tukar adalah harga dari
+mata uang luar negeri (Dornbusch, et.al., 2008 : 46).
+Faktor eksternal tingkat suku bunga merupakan tingkat
+pembayaran atas pinjaman atau investasi lain, di atas
+perjanjian pembayaran kembali, yang dinyatakan dalam persentase tahunan (Dornbusch, et.al., 2008 : 43).
+Kevin (2004), menunjukkan bahwa tingkat inflasi dan
+tingkat bunga berpengaruh signifikan terhadap
+pendapatan saham. Jadi perubahan faktor eksternal
+secara langsung maupun tidak langsung akan
+mempengaruhi harga saham. Secara tidak langsung
+perubahan faktor eksternal akan berdampak pada arus
+kas perusahaan yang pada akhirnya akan
+mempengaruhi pergerakan harga saham.
+H3: Faktor eksternal berpengaruh signifikan
+terhadap harga saham.
+METODE
+Penelitian ini menggunakan variabel-variabel terikat
+yaitu harga saham yang diproksikan oleh return
+saham, dan variabel independen dalam penelitian ini
+adalah faktor ekternal. Faktor eksternal terdiri dari
+inflasi, suku bunga, dan nilai kurs, dan variabel antara
+nilai perusahaan yang diproksikan oleh Price Book
+Value (PBV).
+Definisi Operasional: Pertama, harga saham, harga
+yang terbentuk dari permintaan dan penawaran terhadap
+suatu saham. Dalam penelitian ini, harga saham
+diproksikan oleh return saham. Untuk mengukur return
+saham perusahaan digunakan nilai dari clossing price pada
+tahun terkait. Return saham pada periode t merupakan
+selisih antara clossing price i pada periode t dengan periode
+sebelumnya(t-1) dibagi dengan clossing price pada (t-
+1). return saham disajikan dalam presentasi.
+Rit = Pit – Pit-1
+Pit-1
+Kedua, nilai perusahaan didefinisi sebagai nilai pasar
+karena nilai perusahaan dapat memberikan kemakmuran
+pemegang saham secara maksimum apabila harga
+saham perusahaan meningkat (Hasnawati, 2005)
+(dalamWijaya dan Wibawa, 2010). Nilai perusahaan
+dalam penelitian ini diproksikan dengan Price Book
+Value (PBV). PBV mengukur nilai yang diberikan pasar
+keuangan kepada pihak manajemen organisasi
+perusahaan sebagai sebuah perusahaan yang terus
+tumbuh. PBV dirumuskan dengan :
+PBV = BV
+Harga Saham
+Ketiga, faktor eksternal terdiri dari a) inflasi:
+kecenderungan peningkatan harga-harga secara
+umum dan terus menerus, b) suku bunga: tingkat
+bunga yang sering digunakan sebagai ukuran
+pendapatan yang akan diperoleh oleh para pemilik
+modal, tingkat bunga ini disebut dengan bunga
+simpanan atau bunga investasi. Dalam penelitian ini,
+tingkat bunga menggunakan BI rate yang bisa
+diperoleh melalui website www.bi.co.id dan c) nilai
+kurs: nilai tukar suatu mata uang.
+Penelitian ini dilakukan pada Saham Manufaktur
+yang terdaftar di Bursa Efek Indonesia periode 2008-
+2012. Populasi atau universe adalah jumlah keseluruhan
+dari unit analis yang ciri-cirinya akan diduga. Pada
+penelitian ini, yang menjadi populasi adalah semua
+perusahaan manufaktur yang telah terdaftar di Bursa
+Efek Indonesia (BEI) pada tahun 2008 sampai 2012.
+Sampel adalah sebagian dari elemen populasi yang
+diteliti. Pengambilan sampel harus dilakukan sedemikian
+rupa, sehingga dapat diperoleh sampel yang benarbenar
+dapat mewakili populasi sebenarnya. Dengan
+kata lain sampel harus representative. Pemilihan sampel
+penelitian ini dilakukan dengan menggunakan metode
+purposive sampling dengan tujuan untuk mendapatkan
+sampel yang representatif sesuai dengan kriteria yang
+ditentukan. Adapun kriteria yang digunakan untuk
+memilih sampel adalah sebagai berikut: a) perusahaan
+manufaktur yang terdaftar di BEI pada tahun 2008
+sampai 2012, yang tidak mengalami delisting (keluar
+dari daftar); b) perusahaan menerbitkan laporan
+keuangan selama periode pengamatan, antara tahun
+2008 sampai 2012. Laporan keuangan yang digunakan
+sebagai sampel adalah laporan keuangan per 31
+Desember, dengan alasan laporan tersebut telah diaudit,
+sehingga informasi yang dilaporkan lebih dapat
+dipercaya; c) laporan keuangan yang diterbitkan tidak
+dalam bentuk mata uang asing, dan d) perusahaan
+pada periode pengamatan, sahamnya aktif
+diperdagangkan di BEI karena bila tidak aktif akan
+mengganggu proses analisis.
+Metode pengumpulan data yang digunakan adalah
+metode dokumentasi yang memuat kejadian masa lalu.
+Data yang digunakan dalam penelitian ini terdiri atas: a)
+nama-nama perusahaan manufaktur yang terdaftar di
+BEI tahun 2008-2012; b) laporan keuangan tahunan
+(annual report/company report) perusahaan manufaktur
+untuk tahun buku 2008-2012; c) data harga saham
+(clossing price) tahun 2008-2012; d) data tingkat inflasi
+dari tahun 2008-2012; e) data Suku bunga (BI rate)
+dari tahun 2008-2012: dan f) data nilai kurs rupiah
+dengan dollar US.
+Penelitian ini menggambarkan pola hubungan yang
+mengungkapkan pengaruh seperangkat variabel terhadap
+variabel lainnya, baik secara langsung maupun melalui
+variabel lain sebagai variabel antara. Pola hubungan yang
+semacam ini dapat diuji dengan path analysis.
+Metode analisis menggunakan metode regresi
+berganda dengan beberapa asumsi klasik yang
+dipersyaratkan dalam model, serta menggunakan analisis
+jalur (path analysis). Pengujian hipotesis dilakukan dengan
+menggunakan uji t dan uji sig-t. Pengujian efek pemediasi
+dilakukan dengan menghitung nilai koefisien langsung dan
+tidak langsung dari variabel bebas terhadap variabel terikat.
+
+HASIL DAN PEMBAHASAN
+Deskripsi Hasil Penelitian seperti yang dikemukakan
+pada bab sebelumnya, penelitian ini dimaksudkan untuk
+mengetahui pengaruh faktor eksternal terhadap nilai
+perusahaan dan harga saham pada periode 2008-2012.
+Berdasarkan data dari laporan keuangan dapat disajikan
+nilai saham (PBV), Harga saham (return saham),
+faktor eksternal (tingkat inflasi, nilai kurs rupiah terhadap
+dolar, dan BI rate) pada perusahaan manufaktur di
+Bursa Efek Indonesia periode 2008-2012.
+Pada laporan mengenai return saham atas perusahaan
+manufaktur yang terdaftar di Bursa Efek Indonesia
+ditemukan nilai tertinggi adalah sebesar 1,67 persen pada
+periode 2009 di Perusahaan PT. Berlina Tbk, sedangkan
+untuk nilai terendah adalah sebesar -0,84 persen pada
+periode 2009 di Perusahaan PT. Astra Internal Tbk.
+Pada laporan keuangan perusahaan manufaktur,
+nilai PBV tertinggi dimiliki oleh perusahaan PT. Multi
+Bintang Indonesia,Tbk pada tahun 2012 nilai PBV
+sebesar 57,49. Sedangkan nilai PBV terendah dimiliki
+oleh perusahaan PT. Tunas Ridean Tbk, pada tahun
+2009 dengan nilai sebesar 0.
+Dari Tabel 3 terlihat bahwa terjadi perubahan
+tingkat inflasi yang sangat signifikan pada tahun
+2008. Pada tahun 2009 tingkat inflasi dapat
+dikendalikan dan mengalami penurunan diakhir tahun.
+Mengalami kenaikan lagi pada tahun 2010. Walaupun
+sempat mengalami kenaikan pada tahun 2010, namun
+pada tahun 2011 dan 2012, inflasi akhirnya
+mengalami penurunan.
+Dari Tabel 4 terlihat bahwa nilai rupiah sempat
+terkoreksi dari tahun 2008-2009. Akhirnya pada
+tahun 2010 nilai rupiah menguat ke titik Rp 9186
+dan menduduki posisi paling kuat pada tahun 2011.
+Tapi pada tahun 2012, nilai rupiah mengalami
+penurunan yang sangat tajam hingga melemah ke titik
+Rp 9396. Walaupun penurunan ini tidak sebesar
+tahun 2010 yang mencapai tingkat Rp 10.443 per
+dollar US, melemahnya nilai kurs ini tentunya tidak
+diharapkan pada tahun-tahun berikutnya.
+
+Dari Tabel 5 terlihat bahwa tingkat BI rate
+mengalami penurunan. BI rate terbesar adalah pada
+tahun 2008 dan akhirnya pada tahun 2012
+mengalami penurunan.
+Hasil Uji Hipotesis
+Uji hipotesis dilakukanuntuk menguji pengaruh
+secara parsial variabel eksogen (X) terhadap variabel
+endogen (Y) dengan melihat nilai t-values pada masing-masing path. Nilai t-hitung diperoleh dari hasil
+bootstraping dengan software Smart-PLS. Pengujian
+dengan bootstrap juga bertujuan untuk meminimalkan
+masalah ketidaknormalan data penelitian (Ghozali,
+2006). Nilai koefisien inner weight dari model
+struktural dikatakan signifikan dengan syarat nilai thitung
+> dari t-tabel yakni sebesar 1,96 (1,96 adalah
+nilai t-tabel dalam tingkat keyakinan 95%) (Jogiyanto dan Willy, 2009). Hasil pengujian hipotesis dapat dilihat
+pada Tabel 6.
+Dari hasil pengujian hipotesis dapat diketahui
+bahwa variabel yang berpengaruh signifikan terhadap
+harga saham adalah inflasi dan kurs. Dengan adanya pengaruh dari variabel inflasi dan kurs maka nilai
+perusahaan akan berimplikasi pada proses pergerakan
+harga saham. Perusahaan harus memperhatikan
+faktor-faktor tersebut agar dapat meningkatkan harga
+saham perusahaan.
+Gambar 1. Rancangan Model Hipotesis
+Sumber: berbagai pendapat dan publikasi, dikembangkan untuk penelitian
+
+
+
+Dari hasil analisis path dengan menggunakan
+PLS maka dapat diketahui R-square untuk melihat
+apakah harga saham dijelaskan dengan baik oleh
+faktor eksternal melalui nilai perusahaan. Adapun
+hasil R-square ditampilkan pada Tabel 7. Dari Tabel 7
+terlihat bahwa R-square untuk nilai perusahaan sebesar 0,062967 atau 6,30 % yang berarti bahwa nilai
+perusahaan dapat dijelaskan oleh faktor eksternal
+sebesar 6,30 % dan sisanya 93,70 % dijelaskan oleh
+faktor lain. Kemudian nilai R-square harga saham sebesar
+0,015642 atau 1,56% berarti bahwa harga saham dapat
+dijelaskan oleh faktor eksternal melalui nilai perusahaan sebesar 1,56% dan sisanya 98,44% dijelaskan oleh
+faktor lain.
+Hasil analisis path dapat dilihat dari Tabel 8. Dari
+Tabel 8 dapat dilihat hasil pengujian hipotesis
+didapatkan sebagai berikut: a) faktor eksternal
+berpengaruh negatif dan signifikan terhadap nilai
+perusahaan, b) nilai perusahaan berpengaruh positif
+dan signifikan terhadap harga saham dan c) faktor eksternal berpengaruh negatif dan signifikan terhadap
+harga saham.
+Dari Tabel 8 dapat dilihat pengujian hipotesis didapatkan
+sebagai berikut : a) faktor eksternal berpengaruh negatif
+dan signifikan terhadap nilai perusahaan. b) nilai perusahaan
+berpengaruh positif dan signifikan terhadap harga saham,
+dan c) faktor eksternal berpengaruh negatif dan
+signifikan terhadap harga saham.
+Sedangkan koefisien analisis path dapat dijelaskan
+sebagai berikut: a) jika faktor eksternal mengalami
+peningkatan satu satuan maka nilai perusahaan akan
+mengalami penurunan sebesar 0,0933, b) jika nilai
+perusahaan mengalami peningkatan satu satuan maka harga saham akan mengalami peningkatan juga sebesar
+0,0637 dan c) jika faktor eksternal mengalami
+peningkatan satu satuan maka harga saham akan
+mengalami penurunan sebesar 0,1019.
+SIMPULAN DAN SARAN
+Berdasarkan latar belakang masalah, tinjauan
+pustaka, hipotesis, dan hasil analisis, maka dapat disimpulkan sebagai berikut: pertama, dari semua
+faktor eksternal yang diteliti, ternyata dua indikator
+faktor eksternal saja yang memberikan pengaruh
+terhadap perubahan nilai perusahaan dan harga saham
+yaitu nilai kurs dan perubahan inflasi. Kedua, faktor
+eksternal berpengaruh negatif dan signifikan terhadap
+nilai perusahaan. Artinya bahwa jika faktor eksternal
+mengalami peningkatan, maka nilai perusahaan akan
+mengalami penurunan. Ketiga nilai perusahaan
+berpengaruh positif dan signifikan terhadap harga
+saham. Artinya bahwa jika nilai perusahaan mengalami
+peningkatan, maka harga saham juga akan mengalami
+peningkatan. Keempat faktor eksternal berpengaruh
+negatif dan signifikan terhadap harga saham. Artinya
+bahwa jika faktor eksternal mengalami peningkatan,
+maka harga saham akan mengalami penurunan.
+Berdasarkan simpulan, maka saran yang dapat
+diajukan adalah pertama, investor hendaknya lebih
+memperhatikan pergerakan nilai kurs dan perubahan
+inflasi untuk memprediksi pergerakan harga saham
+dari faktor eksternal, hal ini mengingat bahwa tidak
+semua indikator faktor eksternal ikut berkontribusi
+dalam mempengaruhi harga saham. Kedua, perusahaan
+lebih waspada pada pergerakan kurs dan perubahan
+inflasi yang dalam penelitian ini memberikan pengaruh
+pada pergerakan nilai perusahaan yang juga akan
+berimplikasi terhadap harga saham perusahaan.

@@ -1,0 +1,238 @@
+﻿ABSTRAK
+Budidaya sayuran secara hidroponik semakin berkembang saat ini karena
+efisiensi pemberian air dan pupuk sesuai kebutuhan tanaman, salah satu tanaman
+sayuran yang dapat dikembangkan secara hidroponik adalah sawi hijau (Brassica
+Juncea L.) varietas Tosakan, tanaman ini dipanen pada fase vegetatif sekitar umur
+30 hari setelah tanam. Tanaman sawi hijau selama pertumbuhannya membutuhkan
+unsur-unsur untuk pertumbuhan dan perkembangan organ-organnya. Pada
+penelitian ini dikembangkan teknologi non-destruktif untuk mengidentifikasi
+status nutrisi Nitrogen dan Kalium melaui citra daun tanaman sawi dengan
+menggunakan pengolahan citra digital dan jaringan saraf tiruan. Adapun metode
+pengolahan citra yang digunakan adalah color moment untuk ekstraksi fitur
+warna, gray level co-occurrence matrix (GLCM) untuk ekstraksi fitur tekstur dan
+jaringan saraf tiruan backpropagation untuk mengidentifikasi Nitrogen dan
+Kalium pada citra daun tanaman sawi hijau. Data citra input yang merupakan hasil
+akuisisi adalah citra dengan warna RGB yang dikonversi menjadi HSV. Sebelum
+dilakukan ekstraksi fitur warna dan tekstur citra hasil akuisisi disegmentasi dan dicrop
+untuk mendapatkan citra daun saja, setelah ekstraksi fitur dilakukan
+pelatihan menggunakan jaringan saraf tiruan backpropagation dengan 2
+kombinasi hidden layer, iterasi sebanyak 20000 epoch. Akurasi hasil pengujian N
+dengan penerapan metode tersebut diperoleh 97,82%. Pemberian pupuk Kcl
+sebagai unsur K tidak berpengaruh terhadap pertumbuhan sawi hijau karena
+tanaman sawi hijau dipanen pada fase vegetatif belum membutuhkan K. Untuk
+identifikasi umur tanaman sawi hijau dengan menggunakan gabungan fitur color
+moment, GLCM dan luas area daun menghasilkan akurasi 78,70%.
+Kata kunci : Nitrogen, Kalium, pengolahan citra, color moment, GLCM,
+jaringan saraf tiruan backpropagation
+
+
+
+
+
+
+
+
+1.1. Latar Belakang
+Indonesia jika ditinjau secara klimatologis merupakan daerah yang cocok
+untuk pengembangan bisnis tanaman sayuran. Salah satunya adalah Sawi hijau
+(Brassica juncea L) varietas Tosakan yang merupakan komoditas yang dengan
+nilai komersial dan digemari masyarakat Indonesia. Konsumen menggunakan
+daun sawi baik sebagai bahan pokok maupun sebagai pelengkap masakan
+tradisional dan masakan cina. Selain sebagai bahan pangan, sawi hijau dipercaya
+dapat menghilangkan rasa gatal di tenggorokan pada penderita batuk. Sawi hijau
+pun berfungsi sebagai penyembuh sakit kepala dan mampu bekerja sebagai
+pembersih darah (Haryanto dkk. 2001).
+Tanaman sawi memiliki masa panen yang singkat ditambah dengan
+adanya pasar yang terbuka membuat pengusaha atau petani hortikultura tertarik
+untuk membudidayakan sawi (Hapsari, 2002). Peningkatan pengetahuan
+masyarakat akan kebutuhan gizi membuat permintaan akan sawi menjadi semakin
+meningkat seiring dengan peningkatan jumlah penduduk pula, untuk itu perlu
+dilakukan perbaikan teknologi budidaya sayuran sawi tersebut.
+Tanaman sawi dapat ditanam secara hidroponik ataupun non hidroponik.
+Hidroponik merupakan cara bercocok tanam tanpa tanah, yaitu menggunakan air
+atau bahan porous lainnya dengan pemberian unsur hara terkendali yang berisi
+unsur-unsur esensial yang dibutuhkan tanaman (Lingga, 1999). Menurut Siswandi
+
+
+
+BAB I
+PENDAHULUAN
+
+(2006) tanaman yang ditanam secara hidroponik memiliki banyak kelebihan yaitu
+pengendalian hama dan penyakit karena budidaya dilakukan dalam greenhouse,
+penggunaan pupuk dan air lebih efisien karena diberikan sesuai dengan kebutuhan
+tanaman, budidaya tidak tergantung musim, dan memungkinkan pengembangan
+aplikasi teknologi komputer serta kontrol otomatik dalam budidaya seperti
+misalnya sistem fertigasi otomatis berbasis microcontroller untuk mengatur
+pemberian nutrisi tanaman (Suhardiyanto, 2009).
+Tanaman sawi membutuhkan hara esensial untuk dapat hidup dan
+berproduksi optimal. Adapun unsur hara esensial tersebut adalah unsur hara
+makro seperti Nitrogen, Fosfor dan Kalium (NPK). Unsur hara Nitrogen lebih
+dibutuhkan untuk pertumbuhan tanaman sayuran seperti halnya sawi
+dibandingkan dengan unsur hara esensial lainnya. Unsur N memegang peranan
+penting dalam proses fisiologis dan biokimia tanaman. Nitrogen merupakan
+komponen penyusun klorofil yang berperan dalam proses fotosintesa. Konsentrasi
+Nitrogen dari daun, batang dan akar berubah selama masa pertumbuhan tanaman
+sawi, pada tahap awal pertumbuhan konsentrasi Nitrogen yang melalui tanaman
+akan menjadi tinggi, namun seiring bertambah umur tanaman konsentrasi
+Nitrogen menurun, dan pada umumnya juga dipengaruhi oleh ketersediaan
+sumber Nitrogen dari luar tanaman. Bagian dari tanaman yang sering menjadi
+indikator kurangnya ketersediaan Nitrogen adalah bagian daun, karena daun
+merupakan organ akif untuk asimilasi dan dapat merefleksikan status nutrisi dari
+tanaman. Defisiensi Nitrogen ditandai dengan perubahan warna daun yang
+menjadi menguning (mengalami klorosis), dimulai dari bagian bawah daun.
+
+Defisiensi yang kuat akan menyebabkan daun berwarna semakin coklat dan mati
+(Samekto, R., 2008)
+Kalium merupakan unsur kedua terbanyak yang dibutuhkan tanaman
+setelah Nitrogen, tanaman yang mengalami defisiensi Kalium ditandai dengan
+terjadinya klorosis pada daun tua (kehilangan klorofil), kemudian bagian tepi daun
+mengalami nekrosis atau kematian sel sebagai akibat dari adanya kerusakan sel
+akut (Samekto,R., 2008).
+Furuya (1987) melaporkan bahwa selama tahun 1980 warna daun menjadi
+lebih diperhatikan karena warna daun paling baik menunjukkan status nutrisi
+tanaman. Sejak itu, penelitian tentang cara pengukuran warna daun mengalami
+kemajuan dan memudahkan pengukuran warna daun di lapangan. Untuk tanaman
+padi, status nutrisi tanaman diukur menggunakan skala warna daun padi baku
+(Standard rice leaf color scale). Skala warna ini digunakan untuk mengukur
+warna daun dari daun tunggal atau komunitas tanaman. Dalam aplikasi warna di
+atas, berbagai penelitian memperlihatkan bahwa pengukuran daun tunggal
+menunjukkan korelasi nyata dengan rata-rata kandungan N dan komponenkomponen
+hasil pada kebanyakan varietas padi. Skala warna ini penggunaannya
+terbatas hanya pada tanaman serelia.
+Identifikasi kondisi Nitrogen dan Kalium pada tanaman sawi dapat
+dilakukan secara manual dengan pengelihatan mata manusia pada masing-masing
+tanaman, karena warna daun sawi akan berubah jika tanaman kekurangan
+Nitrogen atau Kalium, namun melakukan identifikasi warna daun dengan indera
+mata manusia memiliki kelemahan jika banyak tanaman yang harus diidentifikasi
+dan dalam waktu yang panjang, ditambah lagi setiap orang memiliki penilaian
+berbeda terhadap warna.
+Beberapa metoda pengukuran mempunyai kelemahan termasuk kerusakan
+pada tanaman (destructive method), memerlukan peralatan yang mahal, dan
+kesulitan dalam pengukuran. Sebagai contoh, fluoresensi klorofil sering
+digunakan untuk menganalisis fotosintesa tanpa merusak tanaman. Karena itu,
+perubahan fluoresen adalah suatu indeks yang berguna untuk menunjukkan
+efisiensi fotosintesis, juga kondisi klorofil dan kehijauan daun. Salah satu
+fluorometer ini disebut MINIPAM, namun penggunaannya terbatas (Kim dkk.
+2006).
+Pada awal abad dua puluhan mulai banyak digunakan suatu alat portable
+SPAD meter yang dapat digunakan untuk mengukur tingkat warna hijau atau
+klorofil relative pada daun yang dideteksi melalui dua panjang gelombang
+berbeda, Namun ditemui banyak kekurangan dalam SPAD meter tersebut yaitu
+tidak efisien karena diperlukan banyak pembacaan secara acak pada satu daun,
+bermasalah jika konsentrasi Nitrogen di atas standar normal pada beberapa
+tanaman seperti jagung dan gandum (Yao, X., dkk. 2010). Dari beberapa metode
+pendeteksian status nutrisi pada warna daun, penggunaannya masih terbatas pada
+tanaman pangan (berbagai varietas padi, gandum, jagung) dan sangat jarang
+diaplikasikan pada tanaman sayur-sayuran.
+Penerapan pengolahan citra digital (Digital Image Processing) merupakan
+teknologi visual yang semakin berkembang di banyak bidang termasuk bidang
+pertanian, pengolahan citra digital dalam pertanian digunakan untuk sortasi atau
+klasifikasi, pengawasan mutu, dan identifikasi baik untuk sayuran dan buahbuahan.
+Analisis status nutrisi berbasis pengolahan citra dalam bidang pertanian
+mengalami perkembangan yang sangat cepat sebagai metode non-destruktif untuk
+optimalisasi fertilizer masukan (input), peningkatan hasil panen dan efisiensi
+penggunaan sumberdaya (Yao, X., dkk. 2010).
+Melalui penelitian ini dikembangkan suatu sistem untuk mengidentifikasi
+kondisi Nitrogen, Kalium dan umur pada tanaman sawi dengan memanfaatkan
+teknologi pengolahan citra digital dan jaringan saraf tiruan. Proses identifikasi
+dilakukan dengan melakukan pengamatan terhadap citra daun tanaman sawi hijau.
+Dengan teknologi visual pengamatan dilakukan tanpa harus berhubungan
+langsung dengan objek, sehingga membantu meminimalisasi kesalahan atau error
+dari identifikasi secara manual yang selama ini dilakukan karena efek kelelahan
+atau subyektivitas visual manusia. Adapun tahapan yang dilakukan untuk
+melakukan identifikasi Nitrogen, Kalium dan umur pada tanaman sawi dimulai
+dari akuisisi citra dilanjutkan dengan pemisahan latar belakang (background)
+dengan objek daun tanaman sawi, setelah diperoleh citra daun tanaman sawi yang
+terpisah dengan background, dilakukan ekstraksi fitur warna dengan metode color
+moments. Kelebihan metode color moments adalah mampu melakukan ekstraksi
+fitur warna tanpa dipengaruhi masalah perbedaan pencahayaan dan perbedaan
+ukuran citra. Ekstraksi fitur tekstur citra daun tanaman sawi hijau dilakukan
+dengan menggunakan metode Gray Level Co-occurence Matrix (GLCM), metode
+ini sesuai diterapkan untuk tekstur yang terbentuk secara alami atau tidak
+disengaja oleh manusia karena metode ini dalam perhitungan secara statistiknya
+menggunakan distribusi derajat keabuan (histogram) dalam citra. Hasil fitur warna
+dan tekstur tersebut digunakan untuk input (masukan) jaringan syaraf tiruan (JST)
+Backpropagation untuk melakukan identifikasi kondisi Nitrogen, Kalium dan
+umur tanaman sawi hijau.
+1.2. Rumusan Masalah
+Pada penelitian ini permasalahan difokuskan pada :
+1. Apakah kandungan Nitrogen dan Kalium yang diberikan pada tanaman sawi
+dapat diketahui dengan menggunakan metode Color Moments, Gray Level
+Co-occurence Matrix dan jaringan saraf tiruan Backpropagation.
+2. Bagaimana implementasi pengolahan citra digital dan jaringan syaraf tiruan
+untuk melakukan identifikasi Nitrogen dan Kalium pada tanaman sawi
+dengan menggunakan metode Color Moments, Gray Level Co-occurence
+Matrix dan jaringan saraf tiruan Backpropagation.
+3. Apakah umur tanaman sawi dapat diketahui dengan menggunakan metode
+Color Moments, Gray Level Co-occurence Matrix, Moments dan jaringan
+saraf tiruan Backpropagation.
+1.3. Tujuan
+Secara umum penelitian ini bertujuan untuk mengidentifikasi kandungan
+Nitrogen dan Kalium pada tanaman sawi dengan pengolahan citra dan jaringan
+saraf tiruan.
+
+Secara khusus tujuan dari penelitian ini adalah :
+1. Mengembangkan software yang dapat melakukan identifikasi Nitrogen dan
+Kalium pada tanaman sawi menggunakan Color moments, Gray Level Cooccurence
+Matrix dan jaringan saraf tiruan Backpropagation.
+2. Menguji kinerja metode Color moments, Gray Level Co-occurence Matrix
+dan jaringan saraf tiruan backpropagation yang digunakan dalam mengetahui
+kandungan Nitrogen dan Kalium pada tanaman sawi.
+3. Menguji kinerja metode Color moments, Gray Level Co-occurence Matrix,
+Moments dan jaringan saraf tiruan backpropagation yang digunakan dalam
+mengetahui umur tanaman sawi mulai dari 1 hari setelah tanam sampai 30
+hari setelah tanam.
+1.4. Manfaat Penelitian
+Penelitian ini diharapkan dapat digunakan sebagai aplikasi awal untuk
+sistem fertigasi tanaman sawi secara hidroponik pada greenhouse, sehingga dapat
+digunakan sebagai pengambil keputusan kapan tanaman sawi membutuhkan
+pemberian Nitrogen dan Kalium, sehingga diperoleh hasil panen dengan kualitas
+yang baik.
+Penerapan variable rate technology untuk meningkatkan efisiensi
+pemberikan pupuk sehingga akumulasi pupuk pada media tanam dapat dihindari,
+serta mengurangi leaching karena pemberian fertigasi dilakukan pada waktu dan
+komposisi yang kurang tepat.
+
+1.5. Ruang Lingkup Penelitian
+Penelitian ini memfokuskan pada pengolahan citra daun sawi untuk
+mengidentifikasi kandungan Nitrogen dan Kalium menurut perlakuan Nitrogen
+dan Kalium yang diberikan dengan menggunakan metode jaringan saraf tiruan
+Backpropagation. Penelitian ini hanya dibatasi pada hal-hal sebagai berikut:
+1. Tanaman sawi ditanam secara hidroponik dalam greenhouse.
+2. Obyek yang akan digunakan adalah citra tunggal daun tanaman sawi
+(Brassica Juncea L.) varietas Tosakan dengan umur maksimum 30 hari
+setelah tanam.
+3. Gambar yang diambil adalah posisi permukaan atas daun sawi menggunakan
+kamera digital.
+4. Citra yang digunakan berformat .jpg
+5. Faktor penentu pertumbuhan tanaman yang lainnya dibuat seragam.
+6. Perangkat lunak yang dibangun hanya untuk mengidentifikasi atau mengenali
+warna daun terkait dengan jumlah atau kadar nutrisi yang diberikan.
+7. Aplikasi dibangun menggunakan software Matlab R2009b.
+1.6. Keaslian Penelitian
+Penelitian yang berkaitan dengan identifikasi kadar Nitrogen dan Kalium
+terhadap warna daun telah dilakukan oleh Xu, G., dkk. (2009) dimana dalam
+penelitian tersebut dilakukan ekstraksi fitur warna dan tekstur dengan metode
+histogram intensitas, histogram persen diferensial, fourier transform, dan wavelet.
+Kemudian dilakukan identifikasi dengan menggunakan Genetic Algorithm (GA)
+untuk mendiagnosa kekurangan Nitrogen dan Kalium pada daun tomat, dari
+penelitian tersebut diperoleh bahwa akurasi diagnose di atas 82,5 %.
+Estimasi kadar Nitrogen dan kadar klorofil pada Asian Pear dilakukan
+oleh Ghasemi, M., dkk. (2011) menggunakan alat yang disebut dengan
+Chlorophyll Content Meter (CCM-200). Penelitian tentang identifikasi penyakit
+pada daun jeruk dilakukan oleh Pydipati, R., dkk. (2006) menggunakan teknik
+pengolahan citra ekstraksi fitur warna dan tekstur dengan metode co-occurrence
+kemudian dilakukan analisis statistik dengan metode SAS. Penelitian tentang
+pengenalan daun otomatis untuk klasifikasi tanaman dilakukan oleh Gang Wu, S.
+dkk. (2007) dengan teknik pengolahan citra dan pengolahan data Probabilistic
+Neural Network (PNN).
+Penelitian dilakukan oleh Wang Li-shu pada tahun 2010 dengan
+menggunakan komputer visual dan pengumpulan informasi citra berdasarkan pra
+pengolahan dengan model identifikasi untuk mendeteksi elemen Nitrogen pada
+daun kedelai.
+Dari beberapa penelitian di atas belum ditemukan penelitian yang
+mengungkap tentang identifikasi kekurangan Nitrogen dan Kalium, kandungan
+Nitrogen dan Kalium pada tanaman sawi hijau serta mengetahui umur tanaman
+sawi dengan menggunakan metode Color Moments, Gray Level Co-Occurence
+Matrix dan metode jaringan syaraf tiruan Backpropagation.

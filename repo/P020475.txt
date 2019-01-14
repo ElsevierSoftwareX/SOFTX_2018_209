@@ -1,0 +1,33 @@
+﻿Pertumbuhan lalu lintas suatu jalan sulit untuk diprediksi. Karena sulitnya memprediksi faktor pertumbuhan lalu lintas yang menyebabkan ketidakefisien (under design atau over design), maka dengan menggunakan metode perkerasan bertahap diharapkan mampu untuk menjadi alternatif solusi dari permasalahan tersebut.Tujuan yang hendak dicapai dari penelitian ini adalah mengetahui Umur Rencana (UR) Tahap I dan Tahap II yang optimal dibandingkan dengan desain perkerasan langsung ditinjau dari sisi biaya konstruksi.
+Penelitian kali ini dilakukan pada studi kasus pelebaran ruas Jalan Tegineneng – Gunung Sugih dengan tipe jalan 2/2 UD, karena sudah ada jalan existing. Metode yang digunakan adalah Manual Desain Perkerasan Jalan 2012 Bina Marga. Umur Rencana yang dipakai 20 tahun, dengan Asumsi I (5+15); Asumsi II (6+14); Asumsi III (7+13); Asumsi IV (8+12); Asumsi V (9+11); dan Asumsi VI (10+10). CBR tanah sebesar 6%. Standar Deviasi sebesar 0,5 serta nilai Reabilitas 90%. Lapisan Sub Base dengan CBR 60%, Base dengan CBR 90%, dan Laston digunakan untuk lapisan Surface dengan nilai Modulus Elastisitas sebesar 2500 MPa. Nilai IP0 sebesar 4,2 sedangkan IPt sebesar 2,5.
+Hasil penelitian menunjukkan bahwa Asumsi I (5+15) lebih ekonomis dibandingkan dengan asumsi-asumsi lainnya, bahkan lebih murah dibandingkan dengan Konstruksi Langsung jika ditinjau pada nilai akhir Umur Rencana (Future Worth)
+Kata Kunci : Biaya Konstruksi, Lintas Ekivalen Rencana, Perkerasan Bertahap, Umur Rencana.
+
+
+I. PENDAHULUAN
+1.1 Latar Belakang
+Perkerasan lentur berfungsi sebagai penerima beban yang bekerja di atasnya kemudian menyalurkannya ke tanah dasar tanpa merusak jalan tersebut. Keselamatan dan kenyamanan dari pengguna jalan harus diperhatikan. Dalam proses pembangunannya pun dipengaruhi beberapa faktor diantaranya pertumbuhan lalu lintas, anggaran biaya konstruksi maupun waktu periode penganggaran pembangunan. Karena beberapa faktor tadi, perkerasan lentur dibagi menjadi 2 jenis yaitu :
+1. Perkerasan langsung (full depht)
+Pada konstruksi langsung, struktur perkerasan dibuat agar mampu melayani beban lalu lintas selama masa layan tanpa memerlukan pelapisan tambahan diantaranya. Sehingga lapis tambahan hanya diberikan setelah masa layan dengan program peningkatan jalan.
+2. Perkerasan bertahap(stage construction)
+Perkerasan bertahap merupakan konstruksi perkerasan lentur dengan 2 lapis permukaan yang sejenis dan dikerjakan secara berurutan dengan selang waktu yang ditetapkan dalam proses desain. Pekerjaan lapis desain
+ke-2 dikerjakan saat kondisi perkerasan pada tahap 1 masih stabil. Hal inilah yang membedakan dengan perkerasan lapis tambahan (overlay).
+Pada paragraf awal kita mengetahui bahwa salah satu faktor yang berpengaruh pada penentuan desain perkerasan adalah pertumbuhan lalu lintas. Namun pertumbuhan lalu lintas suatu jalan sangat sulit untuk diprediksi. Hal ini disebabkan karena kemungkinan adanya alternatif jalan yang lebih baik atau juga karena telah adanya transportasi massal yang baru sehingga masyarakat lebih memilihnya dibandingkan kendaraan pribadi.
+Karena sulitnya memprediksi faktor pertumbuhan lalu lintas yang menyebabkan ketidakefisien (under design atau over design), maka dengan menggunakan metode perkerasan bertahap diharapkan mampu untuk menjadi alternatif solusi dari permasalahan tersebut.
+Di dalam metode perkerasan bertahap dibagi menjadi 2 tahap. Pada masing-masing tahapannya didasarkan atas konsep “sisaumur” dimana perkerasan berikutnya direncanakan sebelum perkerasanpertama mencapai keseluruhan “masa fatique”.Untuk menetapkan ketentuan di atas maka perlu dipilih waktu tahap pertama antara 25%-50% dari waktu keseluruhan.Misalnya : UR = 20 tahun, maka tahap I antara 5-10 tahun dan tahap II antara 10-15 tahun. Namun kita belum mengetahui pengaruh variasi Lintas Ekivalen Rencana (LER) pada tahap 1 dan tahap 2 terhadap ketebalan tiap lapisan perkerasannya. Oleh karena itu, penelitian ini untuk membahas pengaruh dari variasi Lintas Ekivalen Rencana tersebut.
+
+1.2 Tujuan Penelitian
+Tujuan yang hendak dicapai dari penelitian ini adalah menentukan Umur Rencana (UR) tahap 1 dan tahap 2 yang optimal dibandingkan dengan desain perkerasan langsung ditinjau dari sisi biaya konstruksi
+1.3 Batasan Masalah
+Penelitian yang berjudul“Pengaruh Variasi Lintas Ekivalen Rencana Perkerasan Bertahap Studi Kasus Ruas Jalan Tegineneng–Gunung Sugih” ini dibatasi pada :
+1. Data Lalu Lintas Harian Rata-Rata (LHR) menggunakan data LHR ruas Jalan Tegineneng – Gunung Sugih.
+2. Menggunakan Umur Rencana (UR) sebesar 20 tahun.
+3. Data LHR mengggunakan data pada tahun 2011 dan 2012 karena keterbatasan sumber data.
+4. Menggunakan metode “Manual Desain Perkerasan Jalan 2012 Bina Marga”.Manual ini merupakan pelengkap pedoman desain perkerasan Pd T-01-2002-B dan Pd T-14-2003, dengan penajaman pada aspek – aspek sebagai berikut seperti penentuan umur rencana, penerapan minimalisasi lifecycle cost, pertimbangan kepraktisan pelaksanaan konstruksi, penggunaan material yang efisien.
+5. Penggunaan biaya konstruksi sebagai parameter optimum dari perbandingan antara perkerasan langsung dengan perkerasan bertahap. Biaya konstruksi dalam hal ini hanya membahas biaya pada pelaksanaan
+pekerjaan Sub Base, Base, dan Surface, serta persiapan untuk tanah dasar.
+1.4 Manfaat Penelitian
+Manfaat “Pengaruh Variasi Lintas Ekivalen Rencana Perkerasan Bertahap Studi Ruas Jalan Raya Tegineneng - Gunung Sugih” antara lain :
+1. Sebagai bahan masukan kepada dinas terkait maupun para praktisi di lapangan tentang pengaruhvariasi Lintas Ekivalen Rencana perkerasan bertahapterhadap ketebalan tiap lapisan perkerasannya.
+2. Sebagai referensi desain perkerasan bertahap pada ruas Jalan Tegineneng - Gunung Sugih.
+3. Sebagai bahan investasi, karena dengan mengetahui Umur Rencana yang optimum dapat meminimalisir biaya konstruksinya.

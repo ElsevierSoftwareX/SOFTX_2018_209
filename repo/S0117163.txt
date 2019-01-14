@@ -1,0 +1,737 @@
+﻿Peranan Konservatisme Akuntansi dan Faktor Risiko Makro
+dalam Model Laba Residual: Sebuah Studi di Bursa Efek
+Indonesia
+
+ABSTRAK
+Penelitian ini bertujuan untuk menguji asosiasi konservatisme akuntansi, pertumbuhan
+dan faktor risiko makro dan kesalahan penilaian model laba residual di Bursa Efek
+Indonesia. Penelitian ini menggunakan beta, rasio nilai buku terhadap nilai pasar dan
+ukuran perusahaan sebagai proksi risiko makro. Dengan menggunakan sampel sebanyak
+186 perusahaan yang berasal dari LQ-45 selama tahun 2001-2005, ditemukan bahwa
+konservatisme akuntansi dan pertumbuhan tidak memiliki pengaruh signifikan terhadap
+kesalahan penilaian model laba residual. B/M memiliki pengaruh signifikan terhadap
+kesalahan penilaian model dan memiliki arah hubungan yang konsisten dengan teori. Beta
+dan ukuran perusahaan tidak memiliki pengaruh signifikan dengan kesalahan penilaian.
+Secara keseluruhan faktor risiko makro dapat memberikan penjelasan yang lebih baik
+dibanding dengan faktor berbasis akuntansi. Penelitian mendatang diharapkan dapat menemukan
+variabel-variabel akuntansi yang dapat mewakili risiko makro dan menguji
+kemampuan variabel-variebl tersebut dalam menjelaskan kesalahan penilaian model laba
+residual. Selain itu penelitian mendatang juga dapat mengkonfirmasi relevansi konservatisme
+akuntansi dalam penilaian saham setelah penerapan IFRS di Indonesia.
+Kata kunci: Model Laba Residual, kesalahan penilaian, konservatisme akuntansi, pertumbuhan,
+beta, rasio nilai buku terhadap nilai pasar, ukuran perusahaan.
+
+Statement of Financial Accounting Concepts
+(SFAC) no. 1 menekankan bahwa informasi akuntansi
+haruslah memiliki kegunaan bagi kepentingan
+pelaku pasar, khususnya investor dan kreditor.
+Penelitian yang dilakukan menunjukkan bahwa
+laba akuntansi maupun rasio-rasio keuangan mempunyai
+kemampuan untuk menjelaskan nilai
+saham (Ball dan Brown, 1968; Ou dan Penman, 1989; Lev dan Thiagarajan, 1993; Abarbanell dan
+Bushee, 1997, 1998) sehingga memiliki manfaat
+bagi investor.Selanjutnya, Ohlson (1995), Feltham
+dan Ohlson (1995) mencoba memprediksi nilai
+saham dengan menggunakan informasi akuntansi
+yang berupa nilai buku saham dan laba akuntansi
+dengan menggunakan model laba residual
+(residual income model or clean surplus valuation
+model). Ketepatan penggunaan laba dalam memprediksi
+nilai saham akan meningkatkan manfaat
+informasi akuntansi sesuai dengan measurement
+perspective dari decisión usefulness.
+Meskipun model laba residual lebih baik daripada
+model dividen terdiskonto dalam memprediksi
+nilai saham (Penman dan Sougiannis, 1996;
+Walker, 1997; Jiang dan Lee, 2005),tetap ditemukan
+kesalahan penilaian model ini (valuation
+error) yaitu perbedaan antara nilai yang diprediksi
+oleh model dengan kenyataan harganya (Bernard,
+1995; Penman dan Sougiannis,1996; Walker,1997;
+Frankel dan Lee, 1998). Feltham dan Ohlson
+(1995) menyatakan bahwa konservatisme, dan pertumbuhan
+mempengaruhi nilai prediksi saham.
+Akibat konservatisme diperkirakan bahwa nilai
+yang diprediksi oleh model yang berbasis akuntansi
+menjadi bias (Ahmed et al., 2000; Fairfield,
+2003; Cheng, 2005). Pada perusahaan yang sedang
+tumbuh akan terjadi nilai aset ataupun laba yang
+tidak sesuai dengan nilai wajarnya secara berkesinambungan
+(Lundholm, 1995; Monahan, 2005;
+Lacina, 1998).
+Penelitian yang pernah dilakukan menunjukkan
+bahwa penerapan konservatisme akuntansi di
+Indonesia masih rendah (Juanda, 2007; Warganegara
+et al., 2010, Martani et al., 2010) dan
+penelitian konservatisme yang dikaitkan dengan
+penilaian saham, di Indonesia menunjukkan bahwa
+konservatisme memiliki value relevance (Mayangsari
+et al., 2002). Karenanya perlu diteliti di
+Indonesia pengaruh penerapan konservatisme dan
+tingkat pertumbuhan perusahaan terhadap kesalahan
+penilaian saham model laba residual.
+Model laba residual menggunakan asumsi
+investor yang netral terhadap risiko sehingga
+risiko yang bersifat makro yang diukur dengan
+beta pasar tidak terakomodasi dalam model ini.
+Selain beta, di pasar modal dikenal pula ukuranukuran
+lain yang diperkirakan juga mewakili
+faktor risiko seperti rasio antara nilai buku saham
+dan hargapasarnya, dan ukuran perusahaan
+(Fama dan French, 1992, 1996). Hasil penelitian
+ada yang mendukung bahwa faktor risiko ikut
+berperan dalam menentukan kesalahan penilaian
+model laba residual (Baginski and Wahlen, 2003)
+namun ada pula yang tidak menemukan adanya
+faktor risiko dalam model laba residual (Frankel
+and Lee, 1998). Karena itu perlu diuji ada tidaknya
+pengaruh risiko yang bersifat makro tersebut
+terhadap kesalahan penilaian model laba residual.
+Studi ini mencari asosiasi antara terjadinya
+kesalahan penilaian model laba residual dengan
+faktor (internal) akuntansi yang berupa aturan
+atau konsep konservatisme yang dianutnya serta
+sekaligus dengan faktor diluar akuntansi yang
+berupa risiko makro. Berbeda dengan penelitianpenelitian
+sebelumnya yang mencari hubungan
+tersebut secara terpisah, studi ini menggabungkan
+kedua kelompok faktor tersebut sehingga dapat
+membandingkan hubungan antara kedua kelompok
+tersebut dengan kesalahan penilaian
+model laba residual. Selain itu diharapkan pula
+hasil studi ini menjadi masukan bagi penyempurnaan
+standar pelaporan akuntansi khususnya
+yang menyangkut konservatisme. Hal ini berkaitan
+dengan diberlakukannya IFRS di Indonesia,
+yang tidak lagi menggunakan konservatisme sebagai
+karakter kualitatif pelaporan keuangan.
+Penelitian tentang penerapan model laba residual
+di pasar modal Indonesia jarang dilakukan
+sebelumnya, sehingga diharapkan studi ini bisa
+memberikan wawasan baru bagi pembacanya.
+Salah satu perspektif manfaat akuntansi
+adalah perspektif pengukuran (measurement perspective)
+yang menyatakan bahwa akuntansi
+harus mampu menyajikan nilai perusahaan dalam
+pelaporannya. Penggunaan angka akuntansi
+masih membutuhkan pembuktian empiris yang
+menyangkut keakuratan akuntansi dalam menyajikan
+nilai yang sesuai dengan nilai perusahaan
+termasuk nilai sahamnya. Penggunaan
+akuntansi untuk memprediksi nilai saham bisa
+ditemukan dalam model laba residual (residual
+income model).
+Model Laba Residual (Residual Income
+Model)
+Ohlson (1995), berpijak pada model dividen
+terdiskonto menurunkan model penilaian saham
+yang menghubungkan nilai pasar dengan nilai
+buku dan laba masa mendatang yang tidak terduga
+(unexpected abnormal earnings). Model ini,
+yang dikenal dengan nama model laba residual
+(residual income model), adalah sebagai berikut:
+r:...
+dengan
+Pt = harga saham pada saat t
+yt = nilai buku saham pada saat t
+Rf = 1 + tingkat bunga bebas risiko
+= tingkat laba abnormal yang diharapkan
+pada tahun t+τ
+
+Model ini berpijak pada laba residual yang
+secara matematis bisa dituliskan sebagai berikut.
+r:...(2)
+r:... (3)
+dengan
+Xt = laba residual atau abnormal earnings
+periode t
+Xt
+a = laba aktual periode t
+E(Xt) = laba harapan periode t
+Rt = tingkat pengembalian periode t yang diharapkan
+BVt-1 = nilai buku saham pada akhir tahun t-1
+Asumsi yang digunakan adalah terpenuhinya
+clean surplus relationship:
+r...(4)
+dengan
+BVt = nilai buku perusahaan pada akhir tahun t
+BVt-1 = nilai buku perusahaan pada akhir tahun
+t-1
+Xt = laba (comprehensive income) perusahaan
+pada tahun t
+Dt = dividen yang dibagikan selama tahun t
+Timbulnya laba abnormal dalam akuntansi
+bisa disebabkan oleh beberapa hal, antara lain
+yaitu penerapan konservatisme dalam standar
+akuntansi (Feltham dan Ohlson, 1995), efek rente
+ekonomi dari perusahaan yang memiliki posisi
+monopolistik dalam pasar (Myers, 1999). Disebutkan
+pula adanya informasi lain selain informasi
+tentang laba akuntansi yang ikut berperan dalam
+menentukan nilai saham (Ohlson, 2001; Hand,
+2001).
+Kesalahan penilaian model laba residual
+ditemukan dalam penelitian empiris, biarpun selisih
+antara prediksi harga saham dan harga
+pasarnya tersebut masih lebih baik dibanding
+model dividen terdiskonto, dan korelasi antara
+nilai saham prediksi model laba residual dan
+harga pasar saham cukup tinggi (Bernard,1995;
+Frankel dan Lee, 1998,1999;Jiang dan Lee, 2005;
+Beaver, 2002; Collins et al., 1999; Penman dan
+Sougiannis, 1996; Fairfield, 1994).
+Konservatisme Dalam Akuntansi
+Konservatisme akuntansi sebagai salah satu
+ciri kualitatif pelaporan keuangan berguna bagi
+kreditor karena memberikan jaminan yang lebih
+besar bagi pengembalian kredit (SFAC no.2, hal.
+39). Alasan mengapa sampai sekarang konsep
+konservatisme masih dipakai dijelaskan secara
+rinci oleh Watts (2002, 2003). Penerapan konservatisme
+di Indonesia dapat dilihat dalam beberapa
+ketentuan didalam standar akuntansi keuangan
+Indonesia antara lain biaya riset dan pengembangan
+(PSAK No. 20), penilaian persediaan (PSAK No.
+14), metode pembebanan depresiasi yang menurun
+(PSAK No. 17). Konservatisme mengakibatkan
+kekayaan perusahaan lebih kecil dibandingkan
+nilai sebenarnya (Feltham and Ohlson, 1995;
+Beaver dan Ryan, 2000). Cara mengukur adanya
+konservatisme adalah dengan menggunakan
+hubungan antara laba dan tingkat pengembalian
+saham (Basu, 1997), dan ukuran laba dan akrual
+serta arus kas (Givoly dan Hayn, 2000, 2007;
+Givoly et al., 2002; Ahmed et al., 2002).
+Reaksi investor terhadap penyajian pelaporan
+keuangan yang cenderung konservatif seharusnya
+bisa dijelaskan dalam dua hipotesis yaitu bahwa
+investor cenderung terpaku pada angka yang
+disajikan dalam laporan akuntansi (accounting
+fixation) (Hand, 1990) dan bahwa investor dapat
+memperhitungkan apa yang terdapat di balik
+angka laporan akuntansi (sophisticated investors)
+(Lev, 1974, hal. 241). Kedua hipotesis tentang
+perilaku investor masih belum bisa disimpulkan
+secara jelas dan masih membutuhkan penelitian
+lebih lanjut (Tinic, 1990).
+Konservatisme akuntansi menyebabkan
+laporan akuntansi tidak bisa mencerminkan nilai
+sebenarnya (NPV) suatu investasi (Easton, 2004).
+Ohlson (2003) menyatakan model laba residual
+mampu mengakomodasi adanya investasi dengan
+NPV positif yang tercermin dari laba abnormal
+yang lebih besar dari nol, namun penelitian lain
+menemukan hal sebaliknya (Myers, 1999).
+Hubungan antara konservatisme akuntansi dan
+kesalahan model laba residual serta pertumbuhan
+perusahaan yang cenderung meningkatkan efek
+konservatisme juga ditemukan dalam penelitian
+Monahan (2005), Lacina (1998). Namun, penggunaan
+ukuran konservatisme akuntansi yang
+berbeda dapat menyebabkan simpulan yang
+berbeda pula (Zhang, 2005; Lev dan Sougiannis,
+1996).
+Pertumbuhan, khususnya pada perusahaan
+manufaktur, pada umumnya dilakukan dengan
+melakukan investasi pada aset tetap. Investasi
+yang memiliki nilai sekarang netto (net present
+value) positif memberikan nilai tambah bagi
+pemegang saham. Penambahan aset tetap akan
+memiliki konsekuensi akuntansi bahwa perusahaan
+akan menanggung beban depresiasi yang lebih
+besar di tahun-tahun berikutnya, meskipun belum
+memperoleh manfaatnya. Harga saham di pasar
+mencerminkan keuntungan maupun kerugian
+yang diperoleh perusahaan dimasa mendatang,
+sedangkan dalam akuntansi investasi dicatat
+sebesar nilai perolehan saja, sehingga terjadi perbedaan antara nilai buku investasi dengan nilai
+investasi yang tercermin dalam harga pasar
+saham.
+Ini berarti pada perusahaan yang tumbuh
+(melakukan investasi) akan terjadi perbedaan
+antara nilai buku dan harga sahamnya. Sebaliknya
+pada perusahaan yang tidak tumbuh perbedaan
+akibat adanya investasi tidak terlihat.
+Konservatisme menyebabkan nilai aset yang
+tercantum dalam laporan keuangan menjadi lebih
+kecil daripada yang seharusnya (understated) dan
+hal tersebut menyebabkan perhitungan laba
+normal akuntansi juga menjadi lebih kecil. Pada
+perusahaan yang tidak tumbuh, kecilnya laba
+normal ini akan tertutup dengan laba tahun berikutnya
+yang menjadi lebih besar dari seharusnya.
+Sebaliknya, pada perusahaan yang mengalami
+pertumbuhan terus menerus, dampak rendahnya
+laba normal ini akan terus menerus ditemui dalam
+laporan keuangan, karena setiap tahun naiknya
+laba normal akan tertutupi oleh turunnya aset
+perusahaan.
+Penting untuk dikonfirmasi di Indonesia apakah
+investor dianggap cukup canggih untuk dapat
+memahami laporan dan memperhitungkan aturan
+konservatisme yang berada dibalik angka laporan
+akuntansi serta melakukan penyesuaian yang
+diperlukan. Konfirmasi tersebut penting mengingat
+penerapan IFRS yang baru diberlakukan
+serta masih adanya estimasi-estimasi dalam IFRS,
+yang dapat menyebabkan terjadinya konservatisme
+dalam pelaporan keuangan.
+Faktor Risiko Pasar
+Risiko sistematis, yang diukur dengan beta,
+adalah risiko yang berasal dari faktor ekonomi
+makro yang menyangkut seluruh perusahaan
+yang ada di pasar, seperti risiko yang berasal dari
+inflasi, perubahan suku bunga, perubahan nilai
+tukar, perubahan kebijakan pemerintah, dan lainlain.
+Fama dan Macbeth (1973) dalam penelitiannya
+menemukan tidak ada faktor risiko lain selain
+risiko portofolio (dalam hal ini adalah beta) yang
+dapat mempengaruhi tingkat pengembalian dan
+hubungan antara risiko dan tingkat pengembalian
+yang diharapkan adalah linier seperti yang
+diramalkan oleh model CAPM..
+Penelitian yang dilakukan oleh Fama dan
+French (1992, 1996) menemukan ada faktor lain
+selain beta yaitu ukuran perusahaan dan rasio
+nilai buku terhadap harga pasar. Beta memiliki
+hubungan yang melemah dan kedua faktor
+tambahan tersebut diperkirakan merupakan
+proksi lain faktor risiko makro. Kaplan dan
+Ruback (1995), Grundy et al. (1996), menemukan
+hal yang bertentangan dengan temuan Fama dan
+French (1992), yaitu bahwa beta masih merupakan
+faktor yang menentukan premi risiko dibandingkan
+ukuran dan rasio nilai buku dengan
+harga pasar.
+Selain beta, ukuran perusahaan ditemukan
+memiliki hubungan dengan tingkat pengembalian
+saham sehingga ditengarai bahwa ukuran perusahaan
+ini merupakan proksi faktor risiko juga
+yang tidak tertangkap oleh beta. Perusahaan yang
+besar ditemukan memiliki harga pasar yang
+tinggi, sedang perusahaan dengan ukuran kecil
+memiliki harga pasar yang rendah. Ukuran perusahaan
+yang kecil menunjukkan persepsi investor
+bahwa perusahaan tersebut berada dalam
+kesulitan sehingga investor menurunkan nilai
+sahamnya.
+Faktor lain yang juga dianggap sebagai proksi
+risiko yang tidak tercermin dalam beta adalah
+rasio nilai buku terhadap harga pasar. Rasio yang
+tinggi menandakan bahwa perusahaan dalam
+kesulitan (distressed) sehingga pasar kurang memberikan
+goodwill bagi harga sahamnya. Sebaliknya,
+pada perusahaan yang mengalami pertumbuhan
+tinggi pasar akan mengapresiasi harga
+sahamnya dengan memberikan goodwill yang
+tinggi sehingga rasio nilai buku terhadap harga
+saham rendah. Dimasa berikutnya, perusahaan
+dengan rasio nilai buku terhadap harga pasar
+yang rendah akan memiliki tingkat pertumbuhan
+laba akuntansi yang tinggi.
+Faktor-faktor risiko diatas dengan cepat akan
+tercermin dalam harga saham mengingat para
+investor di pasar modal selalu memperhitungkan
+setiap informasi, termasuk adanya informasi yang
+menyangkut tambahan risiko. Sebaliknya, dengan
+berbagai standar yang ditetapkan, tidak dimungkinkan
+untuk memasukkan faktor risiko
+tersebut dalam catatan akuntansi. Hal tersebut
+mengakibatkan terjadinya perbedaan antara
+harga pasar saham dengan prediksi nilai saham
+berdasar laporan akuntansi (model laba residual).
+Frankel dan Lee (1998) melakukan penelitian
+di Amerika Serikat dan tidak menemukan bahwa
+model laba residual mencerminkan ukuran risiko.
+Beta pasar, ukuran perusahaan, dan rasio nilai
+buku terhadap harga, tidak mampu mengkaitkan
+model laba residual dan risiko. Hal serupa juga
+dikemukakan oleh Ali et al. (2003) yang menemukan
+bahwa faktor risiko tidak tercermin dalam
+rasio antara prediksi model laba residual dan
+harga pasar. Sebaliknya, Baginski dan Wahlen
+(2003) menemukan bahwa kesalahan penilaian
+model laba residual mencerminkan tingkat premi
+risiko. Demikian pula ditemukan hubungan kesalahan
+penilaian tersebut dengan tingkat pertumbuhan
+dan kesalahan peramalan oleh analis
+pasar.
+
+METODE PENELITIAN
+Populasi dan Sampel Penelitian
+Penelitian ini merupakan studi atas populasi
+yang diambil dari saham perusahaan publik yang
+terdaftar di Bursa Efek Indonesiayang tergabung
+dalam LQ-45 tahun 2001 – tahun 2005.Pemilihan
+tahun tersebut mempertimbangkan jumlah tahun
+yang harus dipakai untuk menghitung konservatisme
+(dua tahun sebelumnya) dan laba abnormal
+(4 tahun sesudahnya).Dengan adanya
+krisis keuangan dunia tahun 2008, perhitungan
+dibatasi sampai tahun 2009. Populasi yang digunakan
+dalam studi ini adalah saham perusahaan
+yang memenuhi kriteria sebagai berikut:
+1. Tidak termasuk sebagai saham Lembaga keuangan
+(bank dan non-bank) mengingat perusahaan-
+perusahaan ini merupakan perusahaan
+yang sangat teregulasi (highly regulated).
+2. Perusahaan tidak memiliki nilai buku saham
+yang negatif. Nilai buku saham yang negatif
+akan menyebabkan kesulitan dalam perhitungan
+dan pemaknaan secara ekonomis.
+3. Memiliki kecukupan data untuk periode estimasi
+dan periode prediksi yaitu dua tahun
+sebelum dan empat tahun sesudah tahun
+observasi.
+Definisi Operasional Variabel
+Berikut adalah definisi operasional variabelvariabel
+yang digunakan dalam penelitian ini.
+1. Kesalahan penilaian model laba residual, merupakan
+perbedaan relatif antara nilai pasar
+dengan nilai yang diperoleh dari model laba
+residual. Kesalahanpenilaian, VE, diukur
+dengan menggunakan nilai absolut mengikuti
+Monahan (2005):
+r:...
+Pi = harga saham pada akhir bulan April
+setiap tahunnya
+Prim,i = penilaian berdasar model laba residual
+dihitung dengan cara seperti yang tercantum
+pada persamaan (10) bab 2,
+tetapi waktu yang digunakan hanya
+empat tahun, dan laba abnormal pada
+akhir tahun ke-4 diasumsikan akan
+berlangsung konstan seterusnya
+(perpetuity)
+r:...
+dengan
+Xai,t = Labait – Rit. Bi,t-1
+Bi,t-1 = nilai buku perusahaan i pada tahun
+t-1
+Labait = laba perusahaan i pada tahun t
+Rit = tingkat diskonto yang menggunakan
+tingkat bunga bebas risiko, diproksikan
+dengan tingkat bunga SBI
+jangka waktu tiga bulan yang
+berlaku.
+Nilai buku diambil dari akhir tahun yang
+bersangkutan setelah memperhitungkan dividen
+yang dibayarkan. Dividen diambil dari
+pembayaran dividen tahun yang bersangkutan
+(dividend pay out ratio) dan dianggap konstan
+selama empat tahun kedepan. Laba diambil
+dari laba per lembar saham biasa untuk
+periode tahun yang bersangkutan. Harga
+saham diambil dari harga penutupan saham
+akhir bulan April tahun berikutnya, yang
+dianggap sebagai saat dimana para investor
+telah mengetahui isi laporan keuangan yang
+sudah diterbitkan. Laba abnormal dihitung
+selama empat tahun kedepan. Harapan laba
+abnormal selama empat tahun kedepan diambil
+dari realisasi laba abnormal tahun
+bersangkutan dengan asumsi bahwa secara
+rata-rata realisasi laba dan nilai buku akan
+sama dengan harapannya. Metode perhitungan
+laba dan nilai buku ini mengikuti Penman dan
+Sougiannis (1996). Pada akhir tahun keempat
+laba abnormal dianggap konstan sampai waktu
+tak berhingga (perpetuity) dan dihitung nilai
+sekarangnya. Penggunaan laba abnormal selama
+empat tahun mengikuti penelitian
+Bernard (1995) yang menunjukkan bahwa
+dengan data tersebut sudah bisa mencerminkan
+nilai saham yang cukup tinggi (68%).
+2. Konservatisme akuntansi adalah aturan akuntansi
+yang mengharuskan pencatatan yang
+lebih cepat untuk antisipasi kejadian yang
+merugikan dan pencatatan yang lebih lambat
+untuk kejadian yang menguntungkan perusahaan.
+Tingkat konservatisme, Kons, diukur
+dengan total akrual yang merupakan penjumlahan
+selisih laba bersih sebelum kejadian
+luar biasa dengan arus kas operasi selama 3
+tahun dimulai dua tahun sebelum tahun
+observasi, dibagi dengan total aset tahun yang
+bersangkutan.
+r:...
+dengan
+NIi,t = Laba bersih sebelum kejadian luar
+biasa perusahaan i tahun ke t
+OCFi,t = arus kas operasi perusahaan i tahun
+ke t
+
+3. Pertumbuhan (Gr), adalah perubahan aktiva
+tetap perusahaan akhir tahun dibandingkan
+dengan jumlah aktiva tetap akhir tahun sebelumnya,
+yang diukur dengan Ln(AT t /AT t-1)
+4. Beta (ßi) adalah ukuran risiko sistematis perusahaan
+dan diukur dengan menggunakan
+model pasar: Ri = ai + ßi Rm. Data beta diambil
+dari PDBE Universitas Gajah Mada
+5. B/M adalah rasio nilai buku terhadap nilai
+pasar saham pada akhir tahun yang diukur
+dengan Ln(BVt /Pt) yang masing-masing adalah
+nilai buku dan harga saham pada akhir tahun
+t.
+6. Ukuran perusahaan (Size) adalah besarnya
+perusahaan yang diukur dengan nilai pasar
+saham perusahaan pada akhir tahun ke–t yang
+diukur dengan Ln(ME). ME merupakan total
+nilai pasar seluruh saham biasa perusahaan
+yaitu jumlah saham biasa yang beredar dikalikan
+harga penutupan saham pada akhir
+tahun.
+Model Analisis
+Model yang digunakan dalam penelitian adalah
+model regresi berganda sebagai berikut:
+dengan
+VEi,t = kesalahan penilaian model laba residual
+perusahaan i pada tahun t
+Konsi,t = konservatisme perusahaan i pada tahun
+t
+Gri,t = pertumbuhan perusahaan i pada tahun t
+B/Mi,t = rasio nilai buku terhadap nilai saham
+perusahaan i pada tahun t
+Sizei,t = ukuran perusahaan i pada tahun t
+εi,t = kesalahan regresi
+HASIL PENELITIAN DAN PEMBAHASAN
+Gambaran Umum Objek Penelitian
+Objek penelitian dalam disertasi ini diambil
+dari saham perusahaan-perusahaan yang tergabung
+dalam LQ-45 Bursa Efek Indonesia dan
+data perusahaan tersebut juga diperoleh dari
+Bursa Efek Indonesia.
+Penelitian ini menggunakan waktu 5 tahun
+yaitu mulai tahun 2001 sampai tahun 2005. Dari
+lima tahun tersebut akhirnya diperoleh 186 saham
+yang memenuhi syarat untuk diolah. Jumlah
+saham yang dipilih dalam penelitian ini seperti
+pada Tabel 1.
+Tabel 1. Perhitungan jumlah data LQ-45 yang digunakan
+tahun 2001 – 2005
+1 Jumlah saham selama 5 tahun 262
+2 Saham lembaga keuangan ( 42)
+3 Saham yang datanya tidak lengkap ( 29)
+4 Saham dengan nilai buku negatif ( 5)
+5 Jumlah saham yang digunakan 186
+Data yang diperlukan tersebut diatas diperoleh
+dari Bursa Efek Indonesia, Pusat Data Bisnis
+dan Ekonomi Universitas Gajah Mada, dan Indonesian
+Capital Market Directory (ICMD).
+Deskripsi Variabel Penelitian
+Untuk melihat sebaran dan karakteristik data,
+diperoleh hasil pengolahan variabel-variabel seperti
+terlihat pada Tabel 2 dan Tabel 3. Nilai korelasi
+antar variabel-variabel tersebut dapat dilihat pada
+tabel 3.
+Analisis Regresi
+Hasil regresi secara keseluruhan dapat dilihat
+dari tabel 4.Hasil regresi diatas yang menunjukkan
+hanya ada satu variabel (B/M) saja
+yang berpengaruh signifikan dengan koefisien
+regresi sebesar 1,092. Hasil tersebut berasal dari
+pengolahan seluruh data yang tersedia tanpa
+mempertimbangkan adanya data yang tidak biasa
+(outliers).
+Pembahasan Hasil Studi
+Hasil pengolahan data menunjukkan bahwa
+secara rata-rata selama periode studi terdapat
+kesalahan penilaian model laba residual (sebesar
+228%) bila dibandingkan dengan harga pasarnya.
+Hal ini sesuai dengan hasil penelitian lain yang
+menunjukkan adanya perbedaan antara harga
+pasar dan nilai prediksi model laba residual
+(Bernard, 1995, Frankel and Lee, 1998, 1999, Ali et
+al., 2003, Baginski and Wahlen, 2003). Harga
+pasar mencerminkan adanya premi risiko yang
+diperhitungkan oleh para investor yang tidak
+tertangkap oleh pelaporan akuntansi.
+
+Temuan dalam studi ini menunjukkan bahwa
+akuntansi memang perlu melakukan penyesuaian
+nilai dalam laporannya agar bisa mendekati nilai
+pasar. Apa yang dimulai oleh IFRS dengan
+menggunakan nilai wajar (salah satunya adalah
+nilai pasar) dalam pelaporan akuntansi dapat
+mendukung makin dekatnya penilaian yang
+berbasis akuntansi dengan nilai pasarnya. Yang
+perlu diperhatikan adalah bagaimana mengakomodasi
+perubahan nilai pasar yang sering terjadi
+yang mengakibatkan nilai akuntansi akan
+berubah-ubah dan menimbulkan ketidak-pastian
+lain. Selain itu penentuan laba residual (abnormal
+earnings) juga membutuhkan penetapan tingkat
+diskonto yang memasukkan pertimbangan risiko
+saham.
+Konservatisme dan Pertumbuhan Perusahaan
+Hasil pengolahan data mencerminkan bahwa
+secara rata-rata perusahaan sampel dalam periode
+studi menerapkan akuntansi yang konservatif
+(58% dari asset) meskipun sebarannya cukup
+besar. Hal ini dapat dipahami mengingat standar
+akuntansi mengharuskan perusahaan untuk menerapkan
+prinsip kehati-hatian dalam akuntansinya.
+Temuan semacam ini juga ditemukan pada
+penelitian-penelitian lain di Amerika Serikat
+(Givoly and Hayn, 2000, 2002; Givoly et al., 2007)
+Hubungan yang negatif antara konservatisme
+dengan kesalahan penilaian model laba
+residual berarti makin konservatif perusahaan
+makin rendah kesalahan penilaian model, namun hubungan tersebut tidak signifikan sesuai dengan
+temuan penelitian Lacina (1998) yang juga menemukan
+bahwa hubungan keduanya sangat
+lemah.. Sebaliknya, Monahan (2005) menemukan
+bahwa konservatisme mempengaruhi kesalahan
+penilaian model laba residual, terutama untuk
+perusahaan yang memiliki pertumbuhan R&D
+dimasa lalu. Kemungkinan efek konservatisme
+sudah masuk dalam model laba residual, tercakup
+dalam perhitungan prediksi laba abnormal. Empat
+tahun prediksi laba abnormal ditambah asumsi
+perpetuity mungkin telah mengakibatkan terjadinya
+pembalikan yang menyebabkan dampak
+konservatisme tersebut menjadi tidak bermakna
+lagi. Kemungkinan lain adalah bahwa investor di
+pasar modal Indonesia merupakan investor yang
+tergolong „sophisticated‟ sehingga mereka telah
+memasukkan unsur konservatisme dalam harga
+pasar.
+Hubungan yang tidak signifikan dapat menjadi
+dasar bagi pihak otoritas penyusun standar
+akuntansi untuk tidak perlu menekankan konservatisme
+sebagai salah satu ciri kualitatif pelaporan
+keuangan. Penerapan konservatisme dalam pelaporan
+keuangan tidak akan mempengaruhi hasil
+prediksi model laba residual, sehingga IFRS bisa
+diaplikasikan tanpa mengurangi kemampuan
+akuntansi dalam prediksi nilai saham.
+Pertumbuhan ternyata memiliki pengaruh
+terhadap kesalahan penilaian. Ini berarti bahwa
+pertumbuhan memang segera direspon oleh pasar
+tetapi tidak terekam oleh pencatatan akuntansi.
+Ini telah sesuai dengan ketentuan akuntansi yang
+tidak memungkinkan pencatatan nilai manfaat
+masa depan dari investasi yang dilakukan perusahaan.
+Temuan ini sesuai dengan temuan
+penelitian Monahan (2005) dan Lacina (1998) yang
+menemukan hubungan antara pertumbuhan dan
+kesalahan penilaian model laba residual. Namun
+arah yang ditemukan dalam studi ini vertentangan
+dengan yang diramalkan oleh teori.
+Penjelasan yang mungkin adalah bahwa pertumbuhan
+ini dimaknai oleh pasar secara sangat
+berhati-hati, artinya investasi yang dilakukan
+perusahaan dianggap meningkatkan tingkat risiko
+perusahaan tersebut. Peningkatan risiko mengakibatkan
+penurunan harga saham.
+Hubungan antara pertumbuhan dengan
+kesalahan penilaian model laba residual ternyata
+tidak signifikan pada saat seluruh variabel penelitian
+diperhitungkan. Demikian pula tidak ditemukan
+hubungan yang signifikan antara interaksi
+konservatisme dan pertumbuhan dengan
+kesalahan penilaian model laba residual.
+Faktor Risiko Makro
+Dari ketiga variabel yang memproksikan
+faktor risiko makro ternyata hanya B/M saja yang
+memiliki pengaruh signifikan, sedangkan beta dan
+ukuran perusahaan pengaruhnya tidak signifikan.
+Temuan ini sesuai dengan hasil penelitian
+Baginski dan Wahlen (2003) yang menemukan
+beta berpengaruh tidak signifikan, sedangkan Ali
+et al. (2003) menyatakan hubungan yang tidak
+konklusif antara keduanya. Frankel dan Lee
+(1998) juga menemukan bahwa beta tidak
+tercermin dalam model laba residual. Ukuran
+perusahaan memiliki hubungan yang negatif
+yang berarti makin besar ukuran perusahaan
+makin kecil risikonya dan risiko yang kecil
+menurunkan kesalahan penilaian model ini. Hal
+tersebut sesuai dengan teori yang menyatakan
+bahwa risiko yang rendah akan menurunkan
+tingkat diskonto dan menyebabkan nilai pasar
+akan mendekati nilai prediksi model laba residual.
+Temuan ini sesuai dengan hasil penelitian
+Baginski dan Wahlen (2003), namun tidak sesuai
+dengan hasil penelitian Frankel dan Lee (1998),
+Ali et al. (2003) yang menyatakan bahwa tidak ada
+hubungan antara faktor risiko termasuk ukuran
+perusahaan terhadap kesalahan penilaian model
+laba residual.
+Temuan studi ini, sesuai dengan yang diramalkan
+oleh teori, menunjukkan hubungan
+yang positif signifikan antara rasio nilai buku dan
+harga pasar dengan kesalahan penilaian model
+laba residual. Hasil penelitian Frankel dan Lee
+(1998), Ali et al.(2003) tidak menemukan bahwa
+B/M tercermin dalam model laba residual, vertentangan
+dengan hasil penelitian Baginski dan
+Wahlen (2003) yang menemukan hubungan
+antara keduanya. Hasil ini tidak berubah saat
+outliers dikeluarkan dari model yang berarti B/M
+memang berpengaruh terhadap kesalahan penilaian
+model laba residual.
+Temuan Lain
+Hasil studi ini juga menunjukkan variabel
+akuntansi (konservatisme, pertumbuhan) tidak
+memiliki kemampuan menjelaskan variasi kesalahan
+penilaian model laba residual, sedangkan
+risiko makro dapat menjelaskan sebesar 12,6%
+variasi tersebut. Hal tersebut merupakan tantangan
+bagi profesi akuntansi untuk bisa membenahi
+aturan tentang pelaporan akuntansi agar informasi
+yang dihasilkan bisa lebih bermakna.
+IFRS mengambil terobosan dengan mengusulkan
+masuknya nilai pasar pada pelaporan
+keuangan. Hal ini tentu akan memperbaiki nilai
+akuntansi karena makin kecil bedanya dengan
+harga pasarnya. Masih diperlukan studi apakah
+pelaporan keuangan yang menggunakan nilai
+pasar akan meningkatkan akurasi model laba
+residual dalam memprediksi nilai saham suatu
+perusahaan.
+
+Hasil studi ini bisa menjadi bahan pertimbangan
+bagi penyusun standar akuntansi di
+Indonesia. Penerapan konservatisme tidak terlalu
+relevan bagi penilaian saham yang berbasis akuntansi
+sehingga penyusun standar bisa mempertimbangkan
+untuk melonggarkan aturan-aturan yang
+menyangkut penerapan konservatisme dalam
+akuntansi.
+Keterbatasan Studi
+Data populasi studi ini menunjukkan sebaran
+yang tidak normal sehingga hasil studi ini tidak
+bisa dipakai untuk sebagai dasar mengambil kesimpulan
+umum maupun untuk melakukan prediksi
+dan tidak bisa diterapkan pada sahamsaham
+diluar populasi. Pengukuran yang berbeda
+atas variabel-variabel dalam studi ini, khususnya
+konservatisme, bisa memberikan hasil yang berbeda
+pula.
+KESIMPULAN DAN SARAN
+Konservatisme akuntansi dalam pelaporan
+keuangan, pertumbuhan perusahaan, beta pasar,
+dan ukuran perusahaan ditemukan berpengaruh
+tidak signifikan terhadap kesalahan penilaian
+model laba residual. Demikian juga tidak ditemukan
+hubungan interaksi konservatisme akuntansi
+dan pertumbuhan perusahaan dengan kesalahan
+penilaian model laba residual. Rasio nilai buku
+terhadap harga pasar merupakan satu-satunya
+variabel dalam studi ini yang memiliki hubungan
+signifikan dengan kesalahan penilaian model laba
+residual. Hasil studi ini juga menunjukkan bahwa
+faktor risiko makro lebih mempengaruhi kesalahan
+penilaian model laba residual dibandingkan
+dengan faktor aturan akuntansi. Perlu diteliti
+lebih lanjut penerapan konservatisme akuntansi
+setelah diberlakukannya IFRS, membandingkannya
+dengan sebelumnya serta kaitannya dengan
+kesalahan penilaian model laba residual. Penelitian
+lanjutan dalam bidang akuntansi dapat
+diarahkan untuk mencari variabel akuntansi yang
+mampu mengukur risiko makro sehingga pelaporan
+akuntansi menjadi lebih bermanfaat bagi
+penggunanya, khususnya dalam penilaian saham.

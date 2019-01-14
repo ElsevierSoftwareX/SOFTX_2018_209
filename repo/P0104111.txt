@@ -1,0 +1,94 @@
+﻿Sistem Informasi Unit Pengumpul Zakat Terintegrasi
+(Studi Kasus: BAZNAS Kota Tasikmalaya)
+
+
+Pengelolaan zakat di Indonesia merupakan salah satu hal yang menarik untuk dikaji dalam rangka mengentaskan kemiskinan dan meningkatkan kesejahteraan masyarakat, hal ini dapat dilihat dari potensi zakat nasional Rp 217 triliun namun baru tergali sekitar 1,5 triliun.. Faktor yang mempengaruhi pengumpulan dana zakat di Indonesia adalah tingkat kepercayaan muzaki terhadap Organisasi Zakat (OPZ) yang dalam penelitian ini berupa Unit Penumpul Zakat (UPZ), pilihan muzaki untuk menyalurkan zakat langsung kepada mustahik secara individu, kurangnya pengetahuan muzaki akan mekanisme zakat, dan kurangnya pengetahuan muzaki akan keberadaan UPZ. Untuk menjawab permasalahan ini, diperlukan sistem informasi yang dapat mengatur proses manajemen yang terjadi dalam pengelolaan zakat berbasis UPZ, khususnya UPZ berbasis masjid, dikarenakan masjid sebagai basis kegiatan keagamaan di masyarakat. Metode yang digunakan adalah analisis ke lokasi UPZ langsung dan perancangan antarmuka, aturan-aturan, dan purwarupa (prototype) yang dibuat. Dari penelitian ini dihasilkan Sistem Informasi BAZNAS Kota Tasikmalaya, dan Sistem Informasi UPZ di Kota tasikmalaya yang terintegrasi menggunakan teknologi web.
+Kata Kunci— Sistem Informasi, Zakat, BAZNAS, Unit Pengumpul Zakat (UPZ). 
+
+I. PENDAHULUAN 
+Pengelolaan zakat di Indonesia merupakan salah satu hal yang menarik untuk dikaji dalam rangka mengentaskan kemiskinan dan meningkatkan kesejahteraan masyarakat, hal ini dapat dilihat dari potensi zakat nasional Rp 217 triliun namun baru tergali sekitar 1,5 triliun. Kemudian, apabila melihat potensi zakat di Propinsi Jawa Barat cukup besar bahkan terbesar di Indonesia, yaitu diperkirakan sekitar 17,6 triliun, namun potensi tersebut baru tergali sekitar 14 milyar. Sedangkan potensi zakat Kota Tasikmalaya diperkirakan sekitar 2 triliun, dan baru tergali sekitar 4 miliar. Kemudian hingga kini terdapat 33 Badan Amil Zakat povinsi, sedangkan di tingkat kabupaten mencapai 240 unit (Harian Republika, 20 Maret 2012).
+Faktor yang mempengaruhi pengumpulan dana zakat di Indonesia adalah tingkat kepercayaan muzaki terhadap Organisasi Zakat (OPZ), pilihan muzaki untuk menyalurkan zakat langsung kepada mustahik secara individu, kurangnya pengetahuan muzaki akan mekanisme zakat, dan kurangnya pengetahuan muzaki akan keberadaan OPZ.
+Menurut Sularno [1] berdasar penelitiannya di BAZ se-Yogyakarta: Aspek pengorganisasi BAZ masih kurang optimal, rekruitmen pelaksana operasional masih bersifat sambilan, dan perkantoran masih menumpang, juga organ pelengkapnya masih kurang. Pengelolaan zakat secara profesional dapat meningkatkan kesadaran muzaki dalam penunaian zakat, untuk itu organisasi zakat harus memiliki database mengenai muzaki dan mustahik di wilayah kedudukannya. Sebagai salah satu cara mendapatkan database tersebut adalah dengan menggunakan sistem informasi, hal ini terkait dengan upaya mengoptimalkan dana zakat, untuk itu BAZNAS sedang menyiapkan system teknologi informasi.
+Sejalan dengan itu maka model pengumpulan, pendistribusian dan pendayagunaan dana zakat melalui masjid-masjid diperkirakan akan lebih efektif dan efisien, adapun jenis masjid ini dapat yang berada di sekitar lingkungan masyarakat, baik masjid level Rukun Tetangga ataupun masjid level Rukun Warga, masjid instansi pemerintah, badan usaha milik negara, badan usaha milik daerah, serta perusahaan swasta. Masjid-masjid ini oleh Badan Amil Zakat Nasional kabupaten dan kota dapat dijadikan sebagai mitra Unit Pengumpul Zakat (UPZ) yang dikoordinatori oleh pengurus Dewan Kemakmuran Masjid (DKM) masing-masing. Sehingga sosialisasi dan pembinaan serta pengelolaan zakat akan lebih optimal dan mempunyai efektivitas dan efisiensi yang tinggi. Berdasarkan hal tersebut, maka beberapa rumusan masalah diidentifikasi untuk dijadikan tujuan bagaimana menggambarkan pengumpulan zakat di BAZNAS Kota Tasikmalaya, diantaranya: Membuat sistem informasi bagi BAZNAS Kota Tasikmalaya yang berbasis teknologi web, yang dapat menyajikan informasi laporan-laporan yang ada kepada masyarakat secara luas; Menyediakan media bagi setiap Unit Pengumpul Zakat untuk penyampaian laporan-laporannya kepada masyarakat dengan mengimplementasikan sistem informasi yang terintegrasi dengan BAZNAS Kota Tasikmalaya; Menghasilkan sistem informasi yang dapat mengatur proses dan manajemen yang terjadi dalam pengelolaan zakat berbasis masjid, dan saling menghubungkan pihak-pihak yang terkait di dalamnya.
+
+
+
+II. SISTEM INFORMASI TERINTEGRASI
+A. Sistem Informasi
+Menurut Abdul Kadir [2]. Sistem informasi adalah suatu sistem dalam suatu organisasi yang mempertemukan kebutuhan pengolahan transaksi harian yang mendukung fungsi operasi organisasi yang bersifat manajerial dengan kegiatan strategi dari suatu organisasi untuk dapat menyediakan kepada pihak luar tertentu dengan informasi yang diperlukan untuk pengambilan keputusan.
+Sistem informasi dalam suatu organisasi dapat dikatakan sebagai suatu sistem yang menyediakan informasi bagi semua tingkatan dalam organisasi tersebut kapan saja diperlukan. Sistem ini menyimpan, mengambil, mengubah, mengolah dan mengkomunikasikan informasi yang diterima dengan menggunakan sistem informasi atau peralatan sistem lainnya [3]. B. Badan Amil Zakat nasional (BAZNAS)
+Badan Amil Zakat Nasional (BAZNAS) merupakan badan resmi dan satu-satunya yang dibentuk oleh pemerintah berdasarkan Keputusan Presiden RI No. 8 Tahun 2001 yang memiliki tugas dan fungsi menghimpun dan menyalurkan zakat, infaq, dan sedekah (ZIS) pada tingkat nasional.Lahirnya Undang-Undang Nomor 23 Tahun 2011 tentang Pengelolaan Zakat semakin mengukuhkan peran BAZNAS sebagai lembaga yang berwenang melakukan pengelolaan zakat secara nasional.
+Dalam UU tersebut, BAZNAS dinyatakan sebagai lembaga pemerintah nonstruktural yang bersifat mandiri dan bertanggung jawab kepada Presiden melalui Menteri Agama.Dengan demikian, BAZNAS bersama Pemerintah bertanggung jawab untuk mengawal pengelolaan zakat yang berasaskan: syariat Islam, amanah, kemanfaatan, keadilan, kepastian hukum, terintegrasi dan akuntabilitas.
+BAZNAS menjalankan empat fungsi, yaitu: Perencanaan pengumpulan, pendistribusian, dan pendayagunaan zakat; Pelaksanaan pengumpulan, pendistribusian, dan pendayagunaan zakat; Pengendalian pengumpulan, pendistribusian, dan pendayagunaan zakat; dan Pelaporan dan pertanggungjawaban pelaksanaan pengelolaan zakat.
+Untuk terlaksananya tugas dan fungsi tersebut, maka BAZNAS memiliki kewenangan: Menghimpun, mendistribusikan, dan mendayagunakan zakat; Memberikan rekomendasi dalam pembentukan BAZNAS Provinsi, BAZNAS Kabupaten/Kota, dan LAZ; Meminta laporan pelaksanaan pengelolaan zakat, infak, sedekah, dan dana sosial keagamaan lainnya kepada BAZNAS Provinsi dan LAZ.
+Selama 11 tahun menjalankan amanah sebagai badan zakat nasional, BAZNAS telah meraih pencapaian sebagai berikut: BAZNAS menjadi rujukan untuk pengembangan pengelolaan zakat di daerah terutama bagi BAZDA baik Provinsi maupun BAZDA Kabupaten/Kota; BAZNAS menjadi mitra kerja Komisi VIII DPR-RI.
+BAZNAS tercantum sebagai Badan Lainnya selain Kementerian/Lembaga yang menggunakan dana APBN dalam jalur pertanggung-jawaban yang terklonsolidasi dalam Laporan Kementerian/Lembaga pada kementerian Keuangan RI [3]. C. Unit Pengumpul Zakat (UPZ) Dalam melaksanakan tugas dan fungsinya, BAZNAS, BAZNAS provinsi, dan BAZNAS kabupaten/kota dapat membentuk UPZ pada instansi pemerintah, badan usaha milik negara, badan usaha milik daerah, perusahaan swasta, dan perwakilan Republik Indonesia di luar negeri serta dapat membentuk UPZ pada tingkat kecamatan, kelurahan atau nama lainnya, dan tempat lainnya.
+Unit pengumpul zakat adalah satuan organisasi yang dibentuk oleh Badan Amil Zakat di semua tingkatan dengan tugas mengumpulkan zakat untuk melayani muzakki, yang berada pada desa/kelurahan, instansi-instansi pemerintah dan swasta, baik dalam negeri maupun luar negeri [3].
+
+
+III. METODOLOGI
+Metode yang digunakan dalam penelitian yang dilakukan meliputi beberapa bagian, yaitu:
+A. Metode Analisis.
+Dilakukan analisis terlebih dahulu dengan melakukan observasi dan wawancara secara langsung dengan pihak dan stakeholder yang terkait langsung dengan penyaluran zakat, khususnya pada penelitian ini yaitu pihak BAZNAS Kota Tasikmalaya, dan Pihak Mesjid dari 10 Kecamatan yang berada di Kota Tasikmalaya yang di usulkan menjadi UPZ pelopor. Informasi yang didapatkan digunakan untuk mendukung penelitian dan untuk perancangan selanjutnya.
+B. Analisa Data dan Konstruksi.
+Pengolahan data yang sedang berjalan sampai sekarang ini adalah sudah mengenal atau mengunakan komputer, tetapi masih sebatas pada penggunaan aplikasi manual. Penggunaan aplikasi tersebut masih dirasa sangat terbatas dan tidak memiliki pengolah data yang khusus, oleh karena itu untuk kelancaran suatu informasi perlu dirancang suatu sistem yang baru untuk dapat memudahkan pengolahan data. Agar sistem perancangan yang telah kita kerjakan dapat berjalan baik atau tidak, maka perlu kiranya dilakukan pengujian terhadap sistem yang telah dikerjakan. Untuk itu dibutuhkan beberapa komponen utama mencakup perangkat keras (hardware), perangkat lunak (software), dan perangkat operator (brainware) [5].
+C. Metode Perancangan.
+Setelah Tahapan analisis dilakukan, kemudian dirancang beberapa hal yang menyangkut dengan kasus-kasus dalam penelitian, yaitu:
+1) Antarmuka pemakai (user interface)
+2) Aturan-aturan (rules)
+3) Aplikasi Purwarupa (prototype)
+
+
+A. Analisis Sistem
+Analisis sistem dapat didefinisikan sebagai suatu penguraian dari suatu sistem informasi yang utuh kedalam bagian-bagian komponennya dengan maksud untuk mengidentifikasi dan mengevaluasi permasalahan-permasalahan, hambatan-hambatan yang terjadi dan kebutuhan-kebutuhan yang diharapkan sehingga dapat diusulkan perbaikan-perbaikan terhadap sistem yang sedang berjalan tersebut.
+Hasil Identifikasi Permasalahan: Hasil identifikasi masalah terhadap kondisi yang sedang berjalan, terdapat banyak kekurangan, maka pemanfaatan sistem informasi dalam pendistribusian zakat dengan berbasis masjid perlu dilakukan.
+Hal ini dimaksudkan untuk meminimalisasi kekurangan-kekurangan yang ada pada sistem yang ada atau sistem yang sedang berjalan. Selain itu hal ini juga memberikan kemudahan dalam penentuan dan pemetaan data muzaki dan mustahiq zakat.
+Identifikasi permasalahan juga akan mendokumentasikan proses penyaluran zakat yang terjadi di masyarakat, sehingga dapat dihasilkan informasi zakat yang menyeluruh.
+Dan pada akhirnya akan memberikan kemudahan dalam proses penerimaan dan distribusi zakat baik bagi masyarakat, ataupun pemerintah serta menjamin keamanan data-data dan transparansi dari data zakat yang terkumpul
+B. Desain
+Pembuatan aplikasi berbasis web yang menyangkut Sistem Informasi Penerimaan Dan Penyaluran Zakat BAZNAS dan UPZ Kota Tasikmalaya, perlu dibuatkan alur- alur atau proses jalannya data dalam sistem baik dalam bentuk diagram-diagram maupun dalam bentuk Flowchart supaya tampak aliran masukan data awal atau yang dikatakan dengan input dan keluaran sistem (Output) hasil dari suatu proses sistem yang merupakan informasi.
+Setelah dianalisa terlebih dahulu aliran sistem dan akan diterjemahkan kedalam berbagai bahasa pemrograman untuk membuat suatu aplikasi dalam sistem operasi Windows dan lainnya.
+1) Data Flow Diagram (DFD)
+a. Diagram Konteks
+Diagram Konteks dari sistem informasi yang dibangun dapat dlihat pada Gbr. 1.
+
+
+2) Struktur Tabel
+Sistem informasi dibuat dengan terdiri dari tabel-tabel:
+a. Tabel User
+Tabel user merupakan tabel yang digunakan untuk menyimpan data nama-nama user untuk bisa melakukan login pada program.
+b. Tabel Kecamatan
+Tabel kecamatan merupakan tabel yang fungsinya untuk menyimpan data nama-nama kecamatan.
+c. Tabel Jenis Zakat
+Tabel jenis zakat merupakan tabel yang fungsinya untuk menyimpan data nama-nama jenis zakat, data ini akan menjadi data pendukung nantinya dengan data sumber baik data penerima zakat maupun data salur zakat.
+d. Tabel Unit Pengumpul Zakat
+Tabel Unit pengumpul zakat merupakan tabel yang fungsinya untuk menyimpan data nama-nama dari unit yang bertugas mengumpul zakat
+e. Tabel Pembayar Zakat
+Tabel pembayar zakat merupakan tabel yang fungsinya untuk menyimpan data nama-nama dari pembayar zakat, data ini akan menjadi data pendukung nantinya dengan data salur zakat dalam relasi database.
+d. Tabel Salur Zakat
+Tabel salur zakat merupakan tabel yang dirancang khusus untuk menyimpan data baik data sumber maupun data lain yang dijoinkan pada data salur, atau yang menjadi tujuan pembuatan database.
+e. Tabel Penerima Zakat
+Tabel penerima zakat merupakan tabel yang fungsinya untuk menyimpan data nama-nama dari penerima zakat, data ini akan menjadi data pendukung nantinya dengan data salur zakat dalam relasi database.
+C. Deployment
+Deployment memiliki dua tahapan yaitu tahap implementasi dan evaluasi rilis. Tahap implementasi adalah tahap memberikan proses di mana tim development menyelenggarakan sesi pelatihan bagi manajer, dokumentasi akhir dan dukungan teknis, proses data pemuatan dan aplikasi setup dicapai.
+Pada tahap Evaluasi Rilis, setelah sistem pelaksanaan kesimpulan awal dibuat, biaya diperkirakan dan tim pengembangan membangun laporan akhir yang menggambarkan sistem dan performaces juga beberapa bagian yang harus ditingkatkan atau re-built-up.
+D. Implementasi Sistem
+Tahapan ini merupakan tahapan dimana hasil dari perancangan yang telah diimplementasikan kedalam aplikasi yang dibuat dengan menggunakan bahasa pemrograman php.
+Jumlah tabel pada database adalah sebanyak 7 buah tabel dan jumlah keseluruhan tampilan (interface) pada program adalah sebanyak 25 form dengan jumlah antarmuka masukan adalah sebanyak 14 form dan jumlah antarmuka keluaran sebanyak 11 buah. Tampilan antarmuka Halaman Utama dapat dilihat pada Gbr. 4.
+
+
+
+
+Tampilan Halaman Laporan BAZNAS Kota Tasikmalaya dapat dilihat pada Gbr. 5.
+Gbr. 5. Halaman Laporan BAZNAS Kota Tasikmalaya
+Tampilan antarmuka dari halaman laporan bulanan BAZNAS Kota Tasikmalaya dapat dilihat pada Gbr. 6.
+Gbr. 6. Laporan Bulanan
+Tampilan antarmuka Unit Pengumpul Zakat dapat dilihat pada Gbr. 7.
+Gbr. 7. Tampilan Unit Pengumpul Zakat
+Tampilan antarmuka halaman Laporan Unit Pengumpul Zakat dapat dilihat pada Gbr. 8.
+Gbr. 8. Laporan Unit Pengumpul Zakat
+V. KESIMPULAN DAN SARAN
+A. Kesimpulan
+Berdasarkan hasil penelitian yang telah dilakukan, telah berhasil dibuat sistem informasi Baznas Kota Tasikmalaya dan Sistem Informasi Unit Pengelola Zakat. Sistem informasi ini terintegrasi dan saling berhubungan. Terdapat halaman Laporan BAZNAS dan Halaman Laporan UPZ yang data didalamnya saling terkait, sehingga masyarakat secara luas dapat mengakses setiap laporan dari UPZ dan BAZNAS Kota Tasikmalaya secara transparan.
+
+

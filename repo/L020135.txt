@@ -1,0 +1,170 @@
+﻿Tujuan dari penelitian ini adalah untuk mengetahui hubungan keberadaan mangrove
+dengan tingkat intrusi, hubungan parameter (salinitas, TDS, dan DHL) dengan jarak,
+dan hubungan tingkat intrusi dengan jarak serta untuk mengetahui manfaat dari
+pemetaan intrusi air laut di wilayah pesisir Kota Surabaya. Metode penelitian ini
+yaitu dengan penelitian sistematis dengan memilih 60 sumur di wilayah pesisir Kota
+Surabaya dengan memperhatikan keberadaan dan tebal vegetasi mangrove.
+Parameter yang diuji untuk mendapatkan nilai tingkat intrusi air laut adalah adalah
+daya hantar listrik (DHL), total dissolve solid (TDS), dan salinitas. Hasil dari
+penelitian kemudian dipetakkan untuk mengetahui pengaruh mangrove terhadap
+tingkat intrusi air laut. Berdasarkan hasil penelitian, adanya mangrove menahan
+terjadinya intrusi air laut, tidak ada hubungan antara parameter dengan interval
+jarak, dan tidak ada hubungan antara tingkat intrusi dengan interval jarak. Pemetaan
+intrusi air laut berdasar keberadaan mangrove dengan sistem informasi geografis
+dapat mempermudah pemantauan tingkat intrusi wilayah pesisir Kota Surabaya.
+Kata Kunci : Pemetaan, intrusi air laut, mangrove, SIG, Pesisir Kota
+Surabaya
+
+BAB I
+PENDAHULUAN
+1.1 Latar Belakang Penelitian
+Air telah menjadi kebutuhan wajib bagi keberlangsungan hidup makhluk
+di bumi ini. Banyak kegiatan yang berkaitan dan membutuhkan air pada
+prosesnya. Jenis-jenis kegiatan yang umum diketahui dan membutuhkan air dalam
+prosesnya diantaranya adalah kegiatan domestik (meliputi: mandi, cuci, kakus dan
+kebutuhan rumah tangga lainnya), pariwisata dan rekreasi, serta kegiatan industri.
+Pelayanan air bersih di beberapa tempat di Indonesia oleh pemerintah masih
+terbatas, oleh karena itu air tanah merupakan sumber air alternatif yang paling
+memungkinkan bagi masyarakat untuk mendapatkan dengan mudah tanpa
+memerlukan proses pengolahan yang mahal (Herlambang dan Indriatmoko, 2005).
+Pengambilan air tanah yang berlebihan akan menimbulkan ruang kosong
+di bawah tanah yang memungkinkan terjadi proses kompaksi akibat tekanan
+beban tanah atau batuan di atasnya, yang tercermin di permukaan sebagai
+penurunan tanah yang datangnya perlahan-lahan atau tiba-tiba. Pada akuifer yang
+dekat dengan pantai, kekosongan akibat pengambilan air tanah yang berlebihan
+dapat mengakibatkan perubahan kesetimbangan hidrolik antara tekanan air tawar
+dan air laut yang menyebabkan masuknya air laut ke arah darat yang dikenal
+dengan intrusi air laut (Herlambang dan Indriatmoko, 2005).
+Adanya intrusi air laut menyebabkan timbulnya korosi pada tulangan baja
+pondasi bangunan dan lapuknya batu bata dan semen pada tembok (Anggraini
+dkk., 2011). Selain berdampak terhadap bangunan, intrusi air laut juga dapat
+menyebabkan masyarakat tidak dapat menggunakan air untuk menyiram tanaman
+dan mencuci kendaraan bermotor (Firmansyah, 2013). Jika sumber air tanah yang
+telah mengalami intrusi air laut tetap digunakan sebagai sumber air baku tanpa
+diberikan pengolahan terlebih dahulu, dapat membahayakan kesehatan manusia
+(Bengen, 2004).
+Pada daerah pesisir, ekosistem mangrove merupakan ekosistem yang
+mudah ditemui. Ekosistem mangrove mempunyai berbagai fungsi penting,
+diantaranya sebagai sistem penyangga kehidupan, sumber pangan, pelindung
+pesisir, menjaga kekayaan keanekaragaman hayati, berkontribusi sebagai
+pengendali iklim global melalui penyerapan karbon. Ekosistem mangrove juga
+memiliki fungsi mengendapkan lumpur di akar-akar pohon bakau sehingga dapat
+mencegah terjadinya intrusi air laut ke daratan (World Wildlife Fund (WWF),
+2015). Namun, sejak tahun 1990-an sampai saat ini, seiring semakin
+meningkatnya konversi lahan mangrove menjadi peruntukan lain, masyarakat
+merasakan bahwa air sumur yang mereka konsumsi terasa payau bahkan sudah
+terasa asin sehingga sulit memenuhi kebutuhan air tawar (Sodikin, 2013). Saat ini
+di kota-kota besar seperti Jakarta, Semarang, dan Surabaya intrusi air laut sudah
+mulai masuk jauh ke daratan. Hal ini disebabkan di sepanjang garis pantai di
+kota-kota tersebut sudah jarang sekali terdapat tumbuhan mangrove (Purnobasuki,
+2005).
+Kota Surabaya terletak di pesisir pantai utara Pulau Jawa mempunyai
+posisi yang sangat strategis sebagai kota pelabuhan, rekreasi dan konservasi
+(Dinas Cipta Karya, 2002). Hal tersebut menyebabkan Kota Surabaya berpotensi
+mengalami intrusi air laut. Surabaya Utara merupakan daerah dengan tingkat
+kepadatan industri yang tinggi terutama dengan berkembangnya prospek
+perdagangan dan pelabuhan yang ada di kawasan tersebut. Keberadaan mangrove
+di kawasan Surabaya Utara dapat dihitung keberadaannya. Berbeda dengan
+kawasan Surabaya Utara, di Surabaya Timur keberadaan ekosistem mangrove
+masih bertahan eksistensinya hingga sekarang. Sedangkan daerah Surabaya Barat
+dapat dijadikan lokasi penelitian karena adanya tambak dan industri sehingga
+cocok untuk menambah perbandingan lokasi diantara ketiganya. Untuk itu tiga
+kawasan ini cocok dipilih sebagai perbandingan pengaruh keberadaan mangrove
+terhadap intrusi air laut.
+Intrusi air laut pada air sumur penduduk dapat dilakukan dengan
+menganalisis besar Daya Hantar Listrik (DHL), Larutan Padat Tersuspensi/Total
+Dissolved Solid (TDS), dan salinitas dalam sumur penduduk. Pemetaan tingkat
+intrusi air laut menunjukkan informasi secara lengkap mengenai persebaran intrusi
+air laut berdasarkan kualitas air sumur gali sesuai dengan letak geografisnya
+yang disebut dengan Sistem Informasi Geografi (SIG) atau Geogaphic
+Information System (GIS). SIG atau GIS adalah suatu sistem informasi yang
+dirancang untuk bekerja dengan data yang bereferensi spasial atau berkoordinat
+geografi atau dengan kata lain suatu SIG adalah suatu sistem basis data dengan
+kemampuan khusus untuk menangani data yang bereferensi keruangan (spasial)
+bersamaan dengan seperangkat operasi kerja (Asade, 2011).
+
+
+Menurut Erliwati (2014), penggunaan SIG dalam pemetaan intrusi air laut
+sangat bermanfaat karena penggunaan sistem informasi geografis (SIG) dalam
+proses pembuatan peta dapat memudahkan dalam membaca informasi peta.
+Pemetaan sebaran indikasi intrusi air laut berbasis sistem informasi geografis
+(SIG) juga memudahkan pemantauan tingkat intrusi di sumur penduduk wilayah
+pesisir Kabupaten Sidoarjo (Octavia, 2014). Hal ini dikarenakan pada satu peta
+tersebut dapat memuat banyak informasi-informasi terkait parameter intrusi air
+laut dan tingkat intrusi yang terjadi. Kadir (2003) juga menyatakan SIG memiliki
+sistem lapis (layer), dimana setiap lapisan mewakili satu fitur geografis dalam
+area yang sama dan selanjutnya semua lapisan bisa saling ditumpuk untuk
+mendapatkan informasi yang lengkap. Dengan adanya peta indikasi intrusi laut
+berdasar parameter TDS, daya hantar listrik, dan salinitas berbasis informasi
+geografis dapat memudahkan mengetahui tingkatan intrusi di Surabaya (Ariyanti,
+2014).
+Berdasarkan hal tersebut, penelitian ini bertujuan untuk melakukan
+pemetaan tingkat intrusi air laut yang terjadi di wilayah pesisir Kota Surabaya
+dengan melihat keberadaan mangrove yang ada di pinggir pantai. Hal ini
+bertujuan untuk mengetahui hubungan mangrove terhadap tingkat intrusi sehingga
+memberikan informasi tentang tingkat intrusi air laut di wilayah pesisir Kota
+Surabaya.
+
+
+1.2 Rumusan Masalah Penelitian
+1. Apakah mangrove dapat menahan terjadinya intrusi air laut yang terjadi di
+wilayah pesisir Kota Surabaya?
+2. Apakah ada korelasi antara parameter salinitas dengan interval jarak di
+wilayah pesisir Kota Surabaya?
+3. Apakah ada korelasi antara parameter Total Dissolved Solid dengan interval
+jarak di wilayah pesisir Kota Surabaya?
+4. Apakah ada korelasi antara parameter daya hantar listrik dengan interval jarak
+di wilayah pesisir Kota Surabaya?
+5. Apakah ada korelasi antara tingkat intrusi air laut dengan interval jarak di
+wilayah pesisir Kota Surabaya?
+6. Apakah peta tingkat intrusi air laut berdasarkan parameter salinitas, Total
+Dissolved Solid, dan daya hantar listrik berbasis sistem informasi geografis
+dapat mempermudah mengetahui tingkat intrusi di wilayah pesisir Kota
+Surabaya berdasar keberadaan mangrove?
+1.3 Tujuan penelitian
+Tujuan dari penelitian ini adalah sebagai berikut.
+1. Dapat mengetahui kemampuan mangrove dalam menahan terjadinya intrusi air
+laut.
+2. Dapat mengetahui korelasi antara parameter salinitas dengan interval jarak di
+wilayah pesisir Kota Surabaya.
+
+
+3. Dapat mengetahui korelasi antara parameter total dissolved solid dengan
+interval jarak di wilayah pesisir Kota Surabaya.
+4. Dapat mengetahui korelasi antara parameter daya hantar listrik dengan interval
+jarak di wilayah pesisir Kota Surabaya.
+5. Dapat mengetahui korelasi antara tingkat intrusi air laut dengan interval jarak
+di wilayah pesisir Kota Surabaya.
+6. Dapat mengetahui manfaat dari pemetaan intrusi air laut wilayah pesisir Kota
+Surabaya berdasar keberadaan mangrove.
+1.4 Hipotesis Penelitian
+Hipotesis dalam penelitian ini merupakan hipotesis statistik, yaitu :
+Ho1 : keberadaan mangrove tidak dapat menahan terjadiya intrusi air laut.
+Ho1 : keberadaan mangrove dapat menahan terjadinya intrusi air laut.
+Ho2 : tidak ada korelasi antara parameter salinitas dengan interval jarak.
+Ho2 : ada korelasi antara parameter salinitas dengan interval jarak.
+Ho3 : tidak ada korelasi antara parameter TDS dengan interval jarak.
+Ho3 : ada korelasi antara parameter TDS dengan interval jarak.
+Ho4 : tidak ada korelasi antara parameter DHL dengan interval jarak.
+Ho4 : ada korelasi antara parameter DHL dengan interval jarak.
+Ho5 : tidak ada korelasi antara tingkat intrusi dengan interval jarak.
+Ho5: ada korelasi antara tingkat intrusi dengan interval jarak.
+
+
+1.5 Manfaat Penelitian
+Manfaat dari penelitian ini adalah sebagai berikut.
+1. Memberikan informasi mengenai tingkat intrusi air laut di pesisir Kota
+Surabaya yang dipengaruhi oleh keberadaan mangrove berdasarkan parameter
+tingkat intrusi.
+2. Memberikan tampilan informasi tingkat intrusi air laut di pesisir Kota Surabaya
+berbasis sistem informasi geografis.
+3. Memberikan informasi korelasi tingkat intrusi air laut dengan tebal vegetasi
+mangrove di wilayah pesisir Kota Surabaya.
+1.6 Lingkup Penelitian
+Lingkup penelitian dari penelitian ini adalah:
+(1) sumur penduduk di daerah pesisir Surabaya yang diteliti pada jarak
+maksimal 6 km dari pantai pada saat pasang tertinggi;
+(2) pengambilan data dilakukan pada saat tidak hujan atau 12 jam setelah
+hujan; dan
+(3) daerah penelitian yang diambil meliputi wilayah pesisir Kota Surabaya
+yaitu Surabaya Timur, Surabaya Utara, dan Surabaya Barat.

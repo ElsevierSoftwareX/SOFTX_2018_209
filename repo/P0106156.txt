@@ -1,0 +1,871 @@
+﻿
+
+KAJIAN AKTIVASI H2SO4 TERHADAP PROSES PEMILARAN Al2O3 PADA 
+
+LEMPUNG ALAM PACITAN 
+
+
+ 
+ 
+
+ABSTRAK 
+
+Penelitian tentang aktivasi dan pilarisasi lempung alam (bentonit) telah dilakukan. 
+Lempung dikarakterisasi dengan APN, XRD, N2 adsorpsi isoterm,FTIR, dan keasaman total 
+diukur menggunakan metode adsorpsi ammonia. Hasil penelitian menunjukkan bahwa 
+aktivasi optimum terjadi pada konsentrasi H2SO4 sebesar 1,5 M dengan persentase 
+montmorillonite optimum sebesar 91,34% dan nilai keasaman meningkat 193,96% dari nilai 
+keasaman bentonit alam. Karakter fisik dan kimia setelah interkalasi juga menunjukkan 
+bahwa terjadi peningkatan kadar aluminium (57,54%), luas permukaan spesifik (150,59%), 
+volume total pori (73,24 %) dan keasaman Total (203,50 %) dari bentonit alam. Rerata jejari 
+pori mengalami penurunan 10,27 % setelah aktivasi dan penurunan 30,87 % setelah proses 
+interkalasi. 
+
+Kata kunci: Aktivasi, interkalasi, lempung, pemilaran. 
+
+ 
+ 
+
+
+
+PENDAHULUAN 
+
+Lempung merupakan mineral alam Indonesia yang cukup berlimpah, tetapi 
+
+pemanfaatannya belum optimal. Manfaat lempung secara umum antara lain sebagai bahan 
+
+dasar pembuatan keramik, genteng dan batubata, serta bahan pengisi pelapis kertas, cat dan 
+
+karet. Hasil penelitian sebelumnya menunjukkan bahwa lempung dapat dimanfaatkan 
+
+sebagai penukar kation, katalis dan adsorben (Wijaya, et al., 2002). 
+
+Lempung merupakan bahan alam yang mengandung banyak bahan anorganik, yang 
+
+berisi kumpulan mineral-mineral. Sistem lempung terdiri dari dua bagian yang berlainan, 
+
+yaitu (1) misel yang relatif besar dan tidak larut (lapisan alumina silikat); dan (2) kumpulan 
+
+kation-kation yang tidak kuat terikat seperti Na+, K+, Ca2+. Lempung umumnya berwarna 
+
+agak kecoklatan bersifat liat jika basah dan keras jika kering (Wijaya, et al., 2002). 
+
+Berdasarkan kandungan mineralnya, lempung bentonit dapat dibedakan menjadi 
+
+smektit (montmorillonit), kaolinit, haloisit, klorit dan ilit. Montmorillonit merupakan 
+
+merupakan mineral yang mempunyai spesies silikat alumina terhidrat dengan sedikit 
+
+tersubstitusi dan merupakan mineral utama (persentase tertinggi) penyusun lempung 
+
+bentonit. Jenis mineral tersebut (Montmorilonit) adalah jenis lempung yang paling banyak 
+
+dimanfaatkan. Hal tersebut karena montmorillonit mempunyai kemampuan untuk 
+
+mengembang (swelling), memiliki kation-kation yang dapat ditukarkan (exchangeable 
+
+cation) dan dapat diinterkalasi (intercalated) (Wijaya, et al., 2002). 
+
+Modifikasi monmorilonit bermanfaat untuk meningkatkan sifat-sifat kimia fisik 
+
+seperti basal spacing, luas permukaan spesifik, volume total pori, rerata jejari pori dan 
+
+keasaman total. Modifikasi tersebut dapat dilakukan dengan cara aktivasi dilanjutkan 
+
+pemilaran (interkalasi). Aktivasi akan membuka pori dengan melarutkan pengotor-
+
+pengotor organik dan anorganik dan menghomogenkan kation pada bentonit. 
+
+Pemilaran dapat dilakukan dengan reaksi interkalasi agen pemilar ke dalam antar 
+
+lapis silikat lempung sehingga diperoleh senyawa lempung terpilar (pillared clay). Reaksi 
+
+pemilaran dapat dilakukan dengan interkalasi senyawa kompleks kation polihidroksi (Al-, 
+
+Cr-, Zr-, Ti-, dan Fe-polihidroksi) ke dalam antar lapis lempung. Selanjutnya lempung 
+
+dikalsinasi untuk membentuk pilar-pilar oksida logam (Al2O3, Cr2O3, ZrO2, TiO2 dan 
+
+Fe2O3). 
+
+Hutson, et al., 1999, melakukan sintesis lempung terpilar Al2O3 dengan variasi pH 
+
+dan temperatur kalsinasi. Hasil penelitian menunjukkan bahwa pada pH = 3,80 (perbandingan 
+
+OH/Al = 2,2) dan temperatur kalsinasi mempunyai luas permukaan dan volume mikropori 
+
+tertinggi. Adapun Wijaya, et al., (2002) melakukan aktivasi Ca- dan Na-bentonit pada variasi 
+
+
+konsentrasi 1, 2, dan 3 M H2SO4. Hasil penelitian menunjukkan bahwa Ca-bentonit 
+
+mengalami kerusakan struktur untuk konsentrasi H2SO4 diatas 1 M. Adapun Na-bentonit 
+
+lebih stabil terhadap asam sulfat, sehingga struktur bentonit tetap dipertahankan pada saat 
+
+konsentrasi H2SO4 sebesar 3 M. 
+
+Hasil kajian lebih mendalam menunjukkan bahwa persentase tertinggi lempung 
+
+terpilar TiO2 diperoleh ketika aktivasi lempung dilakukan pada konsentrasi H2SO4 kurang 
+dari 2 M. Hal tersebut diperkirakan karena H+ dari H2SO4 akan mengurangi keberadaan 
+kation-kation Na+, K+, Ca2+, sedangkan pada konsentrasi lebih atau sama dengan 2 M akan 
+
+menyebabkan larutnya Al, Fe, Mg dalam lapis oktahedral yang dapat merusak struktur 
+
+montmorillonit (Kumar, et al., 1995). 
+
+Berdasarkan penelitian tersebut, maka pada penelitian ini akan dilakukan aktivasi 
+
+H2SO4 terhadap bentonit sebelum proses pilarisasi dengan AlCl3.6H2O untuk menentukan 
+
+konsentrasi optimum aktivasi. Diharapkan dari penelitian ini dapat memberikan informasi 
+
+penting tentang pengaruh aktivasi bentonit yang meliputi persentase montmorillonit, basal 
+
+spacing dan keasaman total. Selain itu pilarisasi dengan Al2O3 pada bentonit teraktivasi 
+
+asam dapat lebih meningkatkan sifat-sifat kimia fisiknya seperti basal spacing, luas 
+
+permukaan spesifik, volume total pori, rerata jejari pori, kandungan unsur aluminium dan 
+
+keasaman total. 
+
+ 
+
+METODE PENELITIAN 
+
+Identifikasi dan karakterisasi sampel bentonit alam 
+
+Sampel yang digunakan dalam penelitian ini berasal Punung Pacitan. Lempung 
+
+bentonit diidentifikasi dan dikarakterisasi dengan alat X-Ray Diffractometer (XRD) Merk 
+
+Shimadzu Type 6000, Fourier Trasform Infra-red (FT-IR) Spectrophotometer Merk 
+
+Shimadzu Type FTIR-8201 pc, Surface Area Analyzer (SAA) NOVA 1000 buatan 
+
+Quantachrome, Spectrometer Gamma (APN) jenis 92X Spektrum Master dan gravimetri. 
+
+ 
+
+Sintesis montmorillonit terpilar Al2O3 yang diaktivasi H2SO4 
+
+Aktivasi dengan H2SO4 
+
+Lempung bentonit didispersikan ke dalam H2SO4 p.a (E-Merck) dengan variasi 
+
+konsentrasi 1; 1,5; 2 dan 2,5 M sambil diaduk dengan pengaduk magnet selama 24 jam. 
+
+Selanjutnya lempung bentonit disaring dan dicuci dengan air panas sampai terbebas dari 
+
+ion sulfat. Residu lempung kemudian dikeringkan, digerus dan diayak lolos 150 mesh dan 
+
+tidak lolos 250 mesh. Lempung bentonit hasil aktivasi selanjutnya diidentifikasi dan 
+
+
+dikarakterisasi dengan alat XRD untuk menentukan kandungan montmorillonit tertinggi 
+
+yang kemudian dikarakterisasi dengan APN, SAA dan gravimetri 
+
+ 
+
+Interkalasi dan Pilarisasi 
+
+ 1). Preparasi larutan oligomer AlCl3.6H2O 
+
+Larutan NaOH p.a (E-Merck ) 4,4 M didispersikan perlahan-lahan ke dalam 
+
+AlCl3.6H2O 2M sambil diaduk dengan pengaduk magnet selama 25 jam pada temperatur 
+
+ruang sehingga tidak terjadi endapan putih Al(OH)3. Larutan didiamkan selama 5 hari 
+sampai terbentuk larutan oligomer [Al13O4(OH)24(H2O)12]7+ dengan diukur pHnya 
+
+2). Sintesis lempung terpilar Al2O3 yang diaktivasi H2SO4 
+
+Lempung bentonit teraktivasi H2SO4 didispersikan ke dalam 500 mL air bebas ion 
+
+sambil diaduk dengan pengaduk magnet selama 5 jam. Selanjutnya suspensi dituang ke 
+
+dalam larutan oligomer AlCl3.6H2O p.a (E-Merck) sampai perbandingan Al/g lempung 10 
+
+mmol. Campuran diaduk dengan pengaduk magnet selama 12 jam, kemudian disaring 
+
+dengan kertas saring whatman 42 dan dicuci dengan air bebas ion sampai terbebas dari 
+
+klorida. Residu lempung yang bebas klorida dikeringkan, digerus dan diayak lolos 150 
+
+mesh dan tidak lolos 250 mesh, selanjutnya lempung dikalsinasi 400 ᵒC selama 2 jam. 
+
+Lempung terpilar-Al2O3 teraktivasi H2SO4 dikarakterisasi dengan XRD, APN, SAA dan 
+
+gravimetri. 
+
+ 
+
+PEMBAHASAN 
+
+Identifikasi dan karakterisasi sampel bentonit alam 
+
+Kandungan unsur logam aluminium dalam bentonit alam dianalisis dengan Analisis 
+
+Pengaktifan Neutron. Analisis ini digunakan untuk mengetahui adanya unsur aluminium 
+
+dalam sampel bentonit alam. Dari Analisis ini diperoleh kandungan unsur aluminium 
+
+sampel bentonit asal Pacitan sebesar 8,08 % (b/b). 
+
+Analisis selanjutnya menggunakan FT-IR untuk memperoleh informasi mengenai 
+
+keberadaan gugus-gugus fungsional utama di dalam struktur mineral bentonit. Spektra 
+
+bentonit alam asal pacitan dapat dilihat pada Gambar 1. 
+
+Berdasarkan penelitian Tyagi et al. (2006), serapan pada Gambar 1 tersebut dapat 
+
+dijelaskan sebagai berikut: pita serapan pada bilangan gelombang sekitar 468,7 cm-1 
+
+merupakan mode tekuk Si-O atau Al-O, pita serapan intensif pada bilangan gelombang 
+
+522,7 cm-1 menunjukkan bending vibration Si-O, pita serapan pada bilangan gelombang 
+
+916,1 cm-1 menunjukkan AlAlOH bending; 1035,7 cm-1 menunjukkan adanya steching Si-
+O pada bidang, 2 serapan pada bilangan gelombang 1508,2; 1541 cm-1 menunjukkan 
+
+adanya gugus hidroksi OH yang berikatan hidrogen. Pita serapan pada bilangan gelombang 
+
+1629,7 cm-1 dan 3423,4 cm-1 menunjukkan deformasi dan vibrasi gugus hidroksil dari 
+
+molekul air. Puncak serapan pada bilangan gelombang 2933,5 cm-1 menunjukkan adanya 
+
+vibrasi CH2 sebagai pengotor. Pita serapan pada bilangan gelombang 3620,1 dan 3651,0 
+cm-1 menunjukkan adanya OH streching. Pita serapan pada bilangan gelombang 3735,9; 
+
+3753,2 dan 3855,4 cm-1 menunjukkan adanya gugus silanol Si-O-H. Berdasarkan analisis 
+
+spektra Gambar 1 dapat disimpulkan adanya kerangka alumina silikat terhidrat 2 D. 
+
+Gambar 1. Spektra FTIR a. Lempung awal (Tyagi et al., 2006) dan b. Sampel Bentonit 
+
+ 
+
+Awal. 
+
+Gambar 2. Difraktogram bentonit alam a. Standar Bentonit alam (Fatimah, et al., 2008) 
+
+ 
+
+dan b. Sampel Bentonit alam. 
+
+ Proses identifikasi selanjutnya dilakukan terhadap basal spacing, 2 dan kandungan 
+
+montmorillonit dalam sampel bentonit menggunakan alat XRD. Difraktogram sampel 
+
+bentonit awal disajikan pada Gambar 2. Montmorillonit merupakan mineral utama 
+
+penyusun bentonit. Dari data difraktogram bentonit alam Gambar 2 terlihat pola puncak 
+
+difraksi dengan intensitas tertinggi pada 2 = 5,56o dan d001 = 15,89 Å yang merupakan 
+
+puncak penciri montmorillonit. Pola difraksi tersebut mirip dengan hasil penelitian 
+
+Fatimah et al. (2008) dan Norrfors et al., (2015). Apabila dibandingkan dengan dua 
+
+referensi tersebut, maka nampak adanya pergeseran basal spacing d001 kearah basal spacing 
+
+yang lebih besar. Hal tersebut diperkirakan karena adanya pengotor dalam antar layer dari 
+
+monmorilonit. Perkiraan ini sesuai pula dengan hasil penelitian fatimah, dimana d001 dari 
+
+sampel saponit maupun monmorilonit mengalami pergeseran kebasal spacing yang lebih 
+
+besar karena adanya penyisipan aluminium diantara lapisan lempung. . 
+
+Analisa secara kuantitatif dilakukan dengan cara dengan membandingkan intensitas 
+
+relatif (I/I1) puncak-puncak difraksi mineral montmorillonit dengan intensitas relatif total 
+
+sampel bentonit. Analisa ini bertujuan untuk mengetahui persentase masing-masing 
+
+komposisi mineral penyusun dari sampel bentonit. 
+
+Tabel 1. Hasil analisa kuantitatif mineral montmorillonit dan mineral lain yang terdapat 
+dalam sampel bentonit 
+
+No 
+
+Nama Mineral 
+
+Kandungan (% berat) 
+
+1 Montmorillonit 
+2 Kaolinit 
+3 
+4 Dolomit 
+
+Zeolit 
+
+ 
+
+84,90 
+4,39 
+9,49 
+1,22 
+
+Berdasarkan Tabel 1 penyusun utama sampel bentonit asal Pacitan adalah 
+
+montmorillonit 84,90 % dengan campuran mineral lain seperti zeolit 9,49 %, kaolinit 
+
+4,39 % dan dolomit 1,22 %. Hasil analisis tersebut mendukung hasil analisis sebelumnya 
+
+bahwa sampel mengandung kerangka alumina silikat yang bersesuaian dengan kerangka 
+
+monmorilonit. 
+
+Karakterisasi luas permukaan spesifik dan porositas sampel bentonit alam 
+
+dilakukan dengan alat surface area analyzer menggunakan metode perhitungan dari BET. 
+
+Hasil karakterisasi disajikan selengkapnya pada Tabel 2. 
+
+Tabel 2. Karakter luas permukaan dan porositas sampel. 
+
+Karakter 
+Luas permukaan spesifik (m2/g) 
+Volume total pori (cm3/g) 
+Rerata jejari pori (Å) 
+
+*(Okoye & Obi, 2011) 
+
+Bentonit alam* 
+
+Bentonit alam sampel 
+
+29,99 
+0,001 
+7,8 
+
+78,60 
+0,07 
+18,6 
+
+Hasil analisis isoterm serapan gas terlihat bahwa pada bentonit alam mempunyai 
+
+luas permukaan spesifik yang jauh lebih besar dibandingkan bentonit alam yang 
+
+digunakan dalam penelitian Okoye dan Obi, (2011). Berdasarkan Augustine (1995), 
+
+padatan dengan luas permukaan spesifik yang sedang berkisar antara 50-100 m2/g sehingga 
+
+sampel bentonit alam tersebut mempunyai luas permukaan yang sedang. Luas permukaan 
+
+yang sedang tersebut sasngat bermanfaat untuk berbagai keperluan, misalnya adsorben 
+
+maupun katalis. Volume total pori sampel bentonit alam maupun rerata jejari pori yang 
+
+juga cukup besar juga semakin mendukung kemanfaatan sampel bentonit alam tersebut. 
+
+Dalam pemanfaatan suatu material sebagai katalis perlu dianalisis sisi aktif 
+
+katalitiknya. Salah satu sisi aktif katalitik adalah sifat keasaman dari sampel. Oleh karena 
+
+itu, karakterisasi selanjutnya dilakukan terhadap sifat keasaman sampel. 
+
+Karakterisasi keasaman pada bentonit alam diuji dengan metode serapan uap gas 
+
+amonia dan diperoleh keasaman sebesar 2,349 mmol/g. Besarnya harga keasaman total 
+
+bentonit alam menunjukkan bahwa telah ada situs aktif pada bentonit, bisa dipermukaan 
+
+maupun pada antar lapis bentonit. 
+
+Berdasarkan fungsinya sebagai adsorben dan katalis maka perlu modifikasi agar 
+
+sifat-sifat kimia fisik tersebut lebih baik yaitu luas permukaan spesifik yang besar, volume 
+
+total pori yang besar, rerata jejari pori yang kecil, kandungan montmorillonit yang 
+
+meningkat dan keasaman total yang besar. Modifikasi dapat dilakukan dengan pemilaran 
+
+bentonit dengan logam polihidroksi anorganik. Aktivasi bentonit sebelum pemilaran dapat 
+
+lebih meningkatkan sifat-sifat kimia fisika montmorillonit terpilar Al2O3 teraktivasi H2SO4. 
+
+ 
+
+Karakterisasi kimia dan fisika lempung terpilar-Al2O3 teraktivasi H2SO4. 
+
+Karakterisasi sampel pertama kali adalah karakterisasi terhadap kandungan 
+
+alumunium sampel menggunakan alat analisis pengaktifan neutron (APN). Data hasil 
+
+analisis disajikan selengkapnya pada Tabel 3. 
+
+Tabel 3. Analisis persentase relatif kandungan unsur Al dalam sampel. 
+
+Sampel 
+
+Kandungan % (b/b) 
+
+Bentonit alam 
+Bentonit teraktivasi H2SO4 
+Montmorillonit terpilar Al2O3 teraktivasi H2SO4 
+
+8,083 
+8,707 
+12,734 
+
+Pada Tabel 3 terlihat peningkatan persentase relatif unsur aluminium pada bentonit 
+
+teraktivasi H2SO4 1,5 M daripada kandungan aluminum pada bentonit alam sebesar 
+
+7,72 %. Kenaikan persentase ini karena proses aktivasi dengan H2SO4 1,5 M. Aktivasi 
+
+dengan H2SO4 1,5 M dapat membuka pori yaitu dengan melarutkan kation-kation dalam 
+antar lapis bentonit yang berfungsi sebagai kation penyeimbang seperti Na+, K+, Ca+, Fe2+ 
+
+
+
+tetapi tidak sampai melarutkan Al, Fe, Mg dalam kerangka oktahedral. Tidak larutnya Al 
+
+dalam kerangka bentonit pada aktivasi H2SO4 1,5 M dan terlarutnya kation penyeimbang 
+
+dalam antar lapis bentonit menyebabkan persentase relatif dari aluminium meningkat. 
+
+Peningkatan persentase relatif unsur aluminium pada montmorillonit terpilar Al2O3 
+
+seperti tersaji pada Tabel 3 adalah sebesar 57,54 % dari kandungan aluminium pada 
+
+bentonit alam. Peningkatan persentase ini disebabkan karena adanya interkalasi oligomer 
+ion Keggin [Al13O4(OH)24(H2O)12]7+ ke dalam antar 
+lapis montmorillonit yang 
+menggantikan kation-kation H+ hasil aktivasi. Aktivasi menggunakan H2SO4 dengan 
+
+konsentrasi sebesar 1,5 M tersebut meningkatkan kandungan montmorillonit dalam 
+
+bentonit, sehingga dapat mengoptimalkan spesies ion Keggin yang terinterkalasi dalam 
+
+antar lapis montmorillonit. Peningkatan persentase relatif aluminium pada montmorillonit 
+
+terpilar Al2O3 mengindikasikan bahwa telah terjadi interkalasi spesies ion Keggin 
+[Al13O4(OH)24(H2O)12]7+ dalam antar lapis montmorillonit. 
+
+Karakterisasi dilakukan dengan alat XRD untuk mengetahui kristalinitas lempung 
+
+setelah aktivasi dan memastikan bahwa struktur lempung tidak mengalami kerusakan dan 
+
+kandungan montmorillonit dalam lempung bentonit meningkat. Hasil analisis XRD tersaji 
+
+selengkapnya pada Gambar 3. 
+
+Gambar 3. Difragtogram Lempung bentonit teraktivasi H2SO4. 
+
+ 
+
+Berdasarkan Gambar 3 terlihat bahwa perlakuan aktivasi asam dapat menyebabkan 
+
+perubahan tinggi puncak-puncak intensitas. Difraktogram sampel hasil aktivasi dengan 
+
+H2SO4 sebesar 1 dan 1,5 M mengalami peningkatan intensitas pada daerah 2θ = 5-6o dari 
+lempung bentonit awal. Puncak-puncak pada 2θ = 5-6o merupakan puncak penciri 
+
+montmorillonit, 
+
+sehingga dengan 
+
+semakin 
+
+tingginya 
+
+intensitas puncak penciri 
+
+montmorillonit, maka dapat diperkirakan bahwa aktivasi 1 dan 1,5 M dapat melarutkan 
+
+pengotor organik dan anorganik pada permukaan bentonit sehingga pori-pori bentonit lebih 
+
+terbuka seperti hasil penelitian Bieseki et al., (2013). Permukaan bentonit yang semakin 
+
+bersih menyebabkan sampel semakin bersih, sehingga puncak-puncak yang dihasilkan 
+
+lebih ramping. Hal ini berarti dengan aktivasi H2SO4 1,5 M dapat meningkatkan 
+
+kandungan montmorillonit. Data difraktogram ini juga didukung dengan perhitungan 
+
+persentase kandungan montmorillonit yang meningkat pada konsentrasi H2SO4 1,5 M 
+
+seperti yang disajikan pada Tabel 4. 
+
+Tabel 4. Kandungan mineral montmorillonit setelah aktivasi H2SO4 pada berbagai 
+
+konsentrasi. 
+
+Konsentrasi H2SO4 (M) Kandungan monmorilonit (% berat) 
+84,90 
+89,83 
+91,34 
+90,45 
+89,28 
+
+0 
+1 
+1,5 
+2 
+22,5 
+
+Adapun pada konsentrasi aktivator H2SO4 sebesar 2 dan 2,5 M terlihat puncak-
+puncak intensitas difraktogram pada 2θ : 5-6o yang relatif tinggi dan intensitas 
+
+difraktogram pada 2θ sekitar 20 dan 26o yang lebih ramping. Rampingnya puncak-puncak 
+
+intensitas pada 2θ sekitar 20 dan 26o dimungkinkan karena telah terlarutnya Al, Fe, dan 
+
+Mg pada lembaran oktahedral lempung(Bieseki, et al., 2013). Larutnya mineral-mineral 
+
+tersebut menyebabkan perubahan struktur oktahedral menjadi tetrahedral (Kumar et al. , 
+
+1995). Perubahan ini juga dapat menyebabkan penurunan sifat kristalinitas montmorillonit 
+
+yang dapat dilihat dari difraktogram pada penciri montmorillonit pada 2θ = 5-6o yang 
+
+mengalami penurunan tinggi puncak refleksi intensitas difraksi. Mineral Al, Fe, dan Mg 
+
+pada lapisan oktahedral dapat larut pada konsentrasi H2SO4 sebesar 2 M atau lebih. 
+
+Larutnya mineral-mineral tersebut ditandai dengan runtuh atau melebarnya bidang refleksi 
+
+d001 (Bieseki et al., 2013; Kumar et al., 1995). 
+
+Terlarutnya Al, Fe, Mg pada lapisan oktahedral dapat meningkatkan kandungan 
+
+silika bebas pada antar lapis lempung montmorillonit. Hal ini dapat ditunjukkan dengan 
+
+rampingnya difraktogram pada puncak refleksi intensitas difraksi pada 2θ sekitar 20 dan 
+
+26o yang merupakan puncak refleksi intensitas difraksi dari silika bebas. Semakin tinggi 
+
+konsentrasi aktivasi H2SO4 yang digunakan (konsentrasi H2SO4 lebih atau sama dengan 2 
+
+ 
+
+198 
+
+
+
+M) maka semakin tinggi pula konsentrasi silika bebasnya. Semakin banyak Al, Fe, Mg 
+
+yang terlarut maka semakin banyak silika yang distabilkan oleh adanya atom O sehingga 
+
+SiO2 yang terbentuk lebih banyak. 
+
+Gambar 4. Difraktogram (a) bentonit alam, (b) bentonit teraktivasi H2SO4 1,5 M dan (c) 
+
+Montmoillonit terpilar Al2O3 teraktivasi H2SO4 1,5 M. 
+
+ 
+
+Puncak-puncak refleksi difraksi XRD pada konsentrasi H2SO4 sebesar 2 dan 2,5 M 
+
+mempunyai kristalinitas yang lebih rendah dari puncak-puncak refleksi pada konsentrasi 
+
+H2SO4 sebesar 1 dan 1,5 M. Hal ini didukung oleh perhitungan persentase kandungan 
+
+montmorillonit setelah aktivasi seperti yang tersaji pada Tabel 4 menunjukkan bahwa pada 
+
+konsentrasi 2 dan 2,5 M menghasilkan persentase kandungan montmorillonit sebesar 
+
+90,45 % dan 89,28 %. Persentase ini lebih rendah dari aktivasi konsentrasi 1,5 M 91,34 %. 
+
+Karena persentase yang lebih rendah tersebut mengindikasikan bahwa aktivasi pada 
+
+konsentrasi 2 dan 2,5 M telah merusak struktur montmorillonit dengan menurunkan 
+
+kandungan montmorillonit sampai lebih rendah dari aktivasi 1,5 M. 
+
+Berdasarkan difraktogram dan persentase kandungan montmorillonit dengan aktivasi 
+
+H2SO4 pada berbagai konsentrasi diatas maka dapat disimpulkan bahwa aktivasi H2SO4 
+
+pada konsentarsi 1,5 M merupakan konsentrasi aktivasi terbaik karena lebih meningkatkan 
+
+kandungan montmorillonit daripada konsentrasi H2SO4 lain yang digunakan. Oleh karena 
+
+itu, pada proses pemilaran dipilih monmorilonit yang teraktivasi H2SO4 sebesar 1,5 M. 
+
+Keberhasilan proses pilarisasi logam polioksokation [Al13O4(OH)24(H2O)12]7+] dalam 
+
+antar lapis montmorillonit dapat diketahui dari puncak-puncak refleksi intensitas difraksi 
+
+pada difraktogram XRD pada Gambar 4. Adanya pergeseran 2θ dari bidang 001 ke arah 
+
+kiri mengindikasikan telah terjadinya peningkatan basal spacing d001 (pemilaran). Data 
+
+difraktogram montmorillonit 
+
+terpilar Al2O3 
+
+teraktivasi H2SO4 1,5 M mengalami 
+
+peningkatan jarak antar lapis (d001) bila dibandingkan dengan difraktogram bentonit 
+
+teraktivasi H2SO4 1,5 M dan difraktogram bentonit awal yaitu dari 15,8921 A (2θ = 
+5,5565o) dan 16,03251 Å (2θ = 5,5078o) menjadi 18,62765 Å (2θ = 4,7400o). Hasil 
+
+penelitian tersebut sesuai dengan hasil penelitian dari Fatimah et al. (2008) dan Okoye and 
+
+Obi (2011), dimana pemilaran menyebabkan bertambahnya jarak antar layer monmorilonit. 
+
+Data perubahan sudat difraksi maupun basal spacing dari setiap perlakuan disajikan pada 
+
+Tabel 5. 
+
+Tabel 5. Data 2 dan basal spacing (d001) sampel. 
+
+Sampel 
+
+Bentonit alam 
+Bentonit teraktivasi H2SO4 
+Montmorillonit terpilar Al2O3 teraktivasi H2SO4 
+
+2(o) 
+5,5565 
+5,5078 
+4,7400 
+
+d(Å) 
+15,89210 
+16,03251 
+18,62765 
+
+Pembuktian lebih lanjut terhadap keberhasilan pemilaran dilakukan terhadap 
+
+porisitas sampel. Hasil penelitian sebelumnya ((Fatimah et al., 2008; Okoye and Obi, 
+
+2011), menunjukkan bahwa proses pemilaran menyebabkan luas permukaan yang lebih 
+
+besar. Luas permukaan merupakan faktor yang penting dalam proses adsorpsi maupun 
+
+katalisis. Banyak sedikitnya adsorbat maupun reaktan yang dapat terserap oleh adsorben 
+
+maupun katalis sangat tergantung dari luas permukaan adsorben. Pengukuran luas 
+
+permukaan spesifik, volume total pori dan rerata jejari pori sampel dilakukan dengan alat 
+
+SAA disajikan pada Tabel 6. 
+
+
+Adanya kenaikan luas permukaan spesifik dan volume pori total setelah aktivasi 
+
+disebabkan karena membukanya pori bentonit alam karena larutnya pengotor-pengotor 
+
+yang menempel pada pori. Terbukanya pori-pori bentonit tersebut menyebabkan luas 
+
+permukaan spesifik dan volume total pori menjadi meningkat. Besarnya peningkatan 
+
+persentase bentonit teraktivasi H2SO4 1,5 M mengindikasikan bahwa proses aktivasi 
+
+dengan menggunakan H2SO4 1,5 M efektif membuka pori bentonit. 
+
+Tabel 6. Data Hasil Analisis Luas permukaan spesifik volume total pori, rerata jejari pori 
+
+dengan alat SAA. 
+
+Sampel 
+
+Bentonit alam 
+
+Bentonit teraktivasi H2SO4 
+
+Montmorillonit terpilar Al2O3 
+
+teraktivasi H2SO4 
+
+Luas permukaan 
+
+Volume total pori 
+
+Rerata jejari 
+
+spesifik (m2/g) 
+
+(cc/g) 
+
+pori (Å) 
+
+78,6 
+157,6 
+
+197 
+
+0,073 
+0,132 
+
+0,127 
+
+18,6 
+16,7 
+
+12,9 
+
+Rerata jejari pori setelah proses aktivasi H2SO4 1,5 M mengalami penurunan 
+
+sebesar 10,2895 %. Penurunan rerata jejari pori ini dimungkinkan karena proses aktivasi 
+
+dapat membuka pori bentonit, sehingga semakin banyak jumlah pori-pori yang nampak. 
+
+Selain 
+
+itu, proses aktivasi menyebabkan 
+
+terjadinya penggantian kation-kation 
+
+penyeimbang yang biasanya ada dalam bentonit seperti Na+, Ca2+, K+ dengan kation H+ 
+
+dari H2SO4 sehingga pori bertambah tetapi ukurannya lebih kecil daripada bentonit 
+
+alam(Fatimah et al., 2008; Kumar et al., 1995; Tyagi et al., 2006). 
+
+Luas permukaan spesifik montmorillonit terpilar Al2O3 mengalami peningkatan 
+
+bila dibandingkan dengan luas permukaan spesifik setelah teraktivasi. Hal tersebut 
+
+dimungkinkan karena pilarisasi dan terbentuknya struktur rumah kartu. Proses pilarisasi 
+
+menyebabkan timbulnya pori baru dengan ukuran mikropori sedangkan struktur rumah 
+
+kartu menyebabkan adanya pori dengan ukuran mesopori. 
+
+Namun begitu, volume total pori montmorillonit terpilar Al2O3 yang lebih kecil 
+
+daripada bentonit alam dan bentonit teraktivasi H2SO4. Penurunan volume total pori ini 
+disebabkan karena keberadaan kation Al3+ dalam ruang antar lapis montmorillonit, 
+
+pilarisasi tidak seragam dalam antar lapis montmorillonit dan ada kation yang menutupi 
+
+pori. Penurunan volume total pori ini mengindikasikan terjadinya perubahan ukuran pori 
+
+yang lebih besar menjadi pori yang lebih kecil. Perkiraan tersebut didukung pula dengan 
+
+ukuran rerata jejari pori montmorillonit terpilar Al2O3 yang juga lebih kecil daripada 
+
+bentonit alam maupun bentonit teraktivasi H2SO4. 
+
+ 
+
+Karakterisasi sampel selanjutnya adalah terhadap karakter keasaman sampel dengan 
+
+metode gravimetri. Metode gravimetri tersebut mengadopsi karakterisasi sifat keasaman 
+
+dari Zeolit(Satterfield, 1991). Dalam metode gravimetri tersebut, terjadi pada adsorpsi 
+
+amonia melalui transfer proton dari situs asam Bronsted membentuk NH4
+
++ atau melalui 
+
+transfer pasangan elektron dari molekul adsorbat ke situs asam Lewis seperti terlihat pada 
+
+Gambar 5. Data hasil analisis keasaman disajikan pada tabel 7. 
+
+Gambar 5. Reaksi penyerapan NH3 oleh bentonit: (a) Adsorpsi NH3 oleh situs asam 
+
+ 
+
+Bronsted bentonit, (b) adsorpsi NH3 oleh situs asam Lewis bentonit. 
+
+Semakin tinggi konsentrasi H2SO4 yang dipergunakan dalam aktivasi maka 
+
+semakin tinggi pula keasaman permukaan. Peningkatan keasaman tersebut karena adanya 
+
+kation H+ yang menempati situs tukar kation dipermukaan atau adanya dissosiasi air 
+
+terhidarsi seperti persamaan 1 (Kumar et al., 1995). 
+
+[M(H2O)x]n+  [M(OH) (H2O)x-l]n-1 + H+ .............................................................. (1) 
+
+Sebagaimana piridin, ammonia merupakan basa lemah, sehingga adsorpsi di 
+
+permukaan monmorilonit melalui interaksi asam-basa. Ammonia teradsorpsi pada situs 
+
+asam Bronsted yang dihasilkan oleh pertukaran kation interlamelar dengan proton. 
+
+Disamping itu sebagian diserap pada situs asam Lewis dari Al3+ lapisan octahedral telah 
+
+terjadi pertukaran kation oleh H+ baik substitusi tetrahedral maupun substitusi oktahedral 
+
+dipermukaan. Peningkatan keasaman juga dapat terjadi karena adanya disosiasi air 
+
+terhidarsi dan dari ikatan Al(IV)-O-Mg dimana Al(IV) adalah Al yang terkoordinasi 
+
+oktahedral dan Mg adalah atom yang mensubstitusi Al pada lapisan oktahedral tersebut. 
+
+Selain itu sumber situs asam lain adalah akibat efek kalsinasi oligomer kationik yang 
+
+menyebabkan terbentuknya pilar-pilar oksida logam dan pelepasan proton. Ammonia juga 
+
+berinteraksi dengan monmorilonit melalui ikatan hidrogen membentuk ion ammonium. 
+
+Data hasil uji keasaman selengkapnya disajikan pada Tabel 7. 
+
+ 
+
+
+
+Tabel 7. Data keasaman total sampel bentonit. 
+
+Sampel 
+
+Bentonit alam 
+Bentonit teraktivasi H2SO4 1 M 
+Bentonit teraktivasi H2SO4 1,5 M 
+Bentonit teraktivasi H2SO4 2 M 
+Bentonit teraktivasi H2SO4 2,5 M 
+Montmorillonit terpilar Al2O3 teraktivasi H2SO4 1,5 M 
+
+Keasaman total(mmol/g) 
+2,60 
+4,95 
+7,63 
+4,11 
+3,77 
+7,88 
+
+Pada konsentrasi aktivasi H2SO4 2 dan 2,5 M mempunyai keasaman permukaan yang 
+
+mengalami penurunan Penurunan keasaman tersebut diperkirakan karena terlarutnya salah 
+
+satu dari pasangan atom aluminium yang terkoordinasi secara oktahedral bersama dengan 
+
+dua kelompok hidroksil. Akibatnya, atom aluminium sisa mengalami koordinasi 
+
+sebagaimana tetrahedral dengan empat atom oksigen yang tersisa. Aluminium ini, yang 
+
+bermuatan negatif, menjadi terprotonasi (Kumar et al., 1995). Keasaman maksimal yang 
+
+teramati pada sampel monmorilonit teraktivasi 1,5 M H2SO4 juga selaras dengan 
+
+penjelasan ini. 
+
+ 
+
+KESIMPULAN 
+
+Berdasarkan hasil penelitian dan pembahasan, iperoleh bahwa sampel bentonit alam 
+
+tersusun dari mineral montmorillonit (84,899%), zeolit (9,487%), kaolinit (4,393%) dan 
+
+dolomit (1,22%). Proses aktivasi dengan H2SO4 dengan variasi konsentrasi 1; 1,5; 2 dan 
+
+2,5 M tidak berpengaruh signifikan terhadap pergeseran basal spacing, namun pada 
+
+konsentrasi H2SO4 1,5 M diperoleh kandungan montmorillonit tertinggi yaitu 91,34 %. 
+
+Disamping itu, proses aktivasi H2SO4 dapat meningkatkan keasaman total. 
+
+ Proses pilarisasi dengan AlCl3.6H2O dapat menyebabkan kenaikan basal spacing 
+
+pergeseran 2θ ke arah kiri dan meningkatkan karakter fisika kimia yaitu kandungan unsur 
+
+aluminium sebesar 57,54 %, luas permukaan spesifik sebesar 150,58 %, volume total pori 
+
+sebesar 73,24 %, keasaman total 203,50 % dan penurunan rerata jejari pori sebesar 
+
+30,868 % dibanding bentonit alam. 

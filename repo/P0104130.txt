@@ -1,0 +1,782 @@
+﻿Evaluasi Kematangan Investasi SI/TI Menggunakan
+Kerangka ITIM (Studi Kasus Universitas Negeri Manado)
+
+
+Intisari—Investasi TI bisa menguntungkan dan juga
+merugikan organisasi. Untuk mendapatkan nilai dari teknologi
+informasi (TI), butuh lebih dari sekedar investasi yaitu
+diperlukan kecerdasan TI itu sendiri, yang salah satunya adalah
+tatakelola TI. Salah satu cara dalam memastikan apakah
+investasi TI di Universitas Negeri Manado (UNIMA) dilakukan
+dengan baik dan benar serta memberikan manfaat atau tidak
+adalah dengan mengukur tingkat kematangan investasi SI/TI
+sebagai dasar pengambilan kebijakan pengelolaan investasi
+SI/TI saat ini maupun dimasa yang akan datang. Penelitian ini
+menggunakan kerangka Information Technology Investment
+Management (ITIM) untuk mengukur tingkat kematangan
+manajemen investasi di UNIMA. ITIM adalah kerangka kerja
+untuk perbaikan organisasi dengan menyediakan road map
+perbaikan proyek investasi dan menjelaskan karakteristik dari
+proses manajemen investasi TI dalam setiap tahap
+kematangannya dengan menggambarkan critical process yang
+ada di tiap tahap kematangan sehingga mempermudah evaluasi.
+Berdasarkan hasil pengukuran, tingkat kematangan investasi
+SI/TI UNIMA berada pada Tahap 1 tingkat kematangan ITIM.
+Ada beberapa praktik kunci yang tidak terpenuhi untuk masuk
+ke level 2. Dengan mengetahui gambaran proses manajemen
+investasi saat ini, maka rekomendasi untuk meningkatkan
+tingkat kematangan dapat diberikan.
+Kata Kunci— Manajemen Investasi, ITIM.
+
+
+I. PENDAHULUAN
+Dalam beberapa tahun terakhir, teknologi informasi (TI)
+telah menjadi alat penting dalam pelaksanaan strategi bisnis
+dan sopir dari strategi bisnis. Pada awal organisasi mulai
+memanfaatkan TI, pengembangan TI hanya berfokus pada
+departemen tertentu berdasarkan kebutuhan khusus
+departemen tersebut sementara integrasi sumber daya
+teknologi di keseluruhan organisasi masih terbatas. Pimpinan
+organisasi sering dihadapkan pada kenyataan bahwa belanja
+modal untuk strategi sistem informasi/ teknologi informasi
+(SI/TI) tidak membuahkan hasil hingga nilai tertentu sesuai
+dengan besarnya investasi yang telah dilakukan. Beberapa
+fakta menunjukkan bahwa besarnya investasi SI/TI tidak
+diimbangi dengan manfaat bisnis yang dihasilkan. Nicholas
+Carr juga menyatakan bahwa SI/TI tidak lebih dari komoditas
+dan tidak lagi menjadi sumber keunggulan bersaing. Investasi
+SI/TI yang sangat mahal dapat dengan mudah dan cepat ditiru
+oleh kompetitor dengan biaya yang lebih murah [1].
+Universitas Negeri Manado (UNIMA) adalah salah satu
+perguruan tinggi negeri yang berada di Propinsi Sulawesi
+Utara. Anggaran belanja SI/TI UNIMA tahun 2010 sebesar
+Rp.9.000.000.000, tahun 2011 sebesar 25.000.000.000 dan
+20.000.0000 untuk tahun 2012. Hal ini menarik karena nilai
+investasi yang dikeluarkan UNIMA cukup besar sejak dimulai
+pengembangannya tahun 2010. Tidak adanya panduan yang
+jelas terhadap pengelolaan investasi SI/TI serta sulitnya
+mengukur manfaat bisnis investasi SI/TI memunculkan
+persepsi bahwa investasi SI/TI merupakan pemborosan (cost
+center). Untuk itu pihak rektorat perlu mengetahui kondisi
+pengelolaan investasi SI/TI saat ini sehingga dapat diambil
+strategi bagaiman meningkatkan kualitas pengelolaan
+investasi SI/TI sehigga mampu memberikan manfaat yang
+signifikan bagi UNIMA.
+II. STRATEGI MANAJEMEN INVESTASI
+A. Tatakelola Investasi
+Tatakelola TI adalah kapasitas organisasi sebagai tanggung
+jawab direksi, manajemen eksekutif, dan manajemen
+teknologi informasi untuk mengendalikan rumusan dan
+implementasi strategi SI/TI untuk memastikan selarasnya
+sumber daya SI/TI dengan bisnis organisasi [3]. Tatakelola
+SI/TI memungkinkan perusahaan untuk mengambil
+keuntungan penuh dari informasi yang dikelola, sehingga
+mampu memaksimalkan keuntungan, meraih kesempatan
+untuk kemudian mengembangkan keunggulan kompetitif
+(competitive advantage) yang dimiliki [4]
+Ada lima pilar utama dari tatakelola TI [5]:
+1) Keputusan prinsip-prinsip TI: Prinsip-prinsip TI
+merupakan pernyataan terperinci tentang ekspektasi atau harapan terhadap TI dalam mendukung strategi bisnis
+perusahaan. Prinsip-prinsip tersebut dapat dinyatakan sebagai
+berikut: 1) Bagaimana konsep operasi (operation model)
+perusahaan; 2) Bagaimana TI mendukung konsep operasi
+tersebut; dan 3) bentuk investasi TI apa yang akan dipilih.
+2) Keputusan arsitektur TI: Pada bidang ini, tatakelola TI
+harus berperan dalam menentukan keputusan dalam rancangan
+arsitektur TI. Termasuk didalamnya adalah standarisasi proses,
+arsitektur data, dan juga arsitektur teknologi. Selain itu, dalam
+bidang ini tatakelola TI harus berperan dalam menentukan
+kebijakan tentang apa saja yang termasuk dalam kategori
+infrastruktur dan suprastruktur (aplikasi), dengan
+pertimbangan efisiensi dan fleksibilitas.
+3) Keputusan arsitektur TI: Pada bidang ini, tatakelola TI
+harus berperan dalam menentukan kemampuan infrastruktur
+TI yang tinggi, sehingga memiliki kemampuan time-to-market,
+tingkat pertumbuhan, tingkat penjualan produk yang tinggi
+pula, termasuk: 1) Siapa pemilik layanan infrastruktur TI; 2)
+Apakah layanan infrastruktur TI memilih untuk di-outsource;
+3) Berapa biaya layanan infrastruktur; dan 4) Kapan layanan
+infrastruktur perlu di-update.
+4) Kebutuhan aplikasi bisnis: Pada bidang ini, tatakelola TI
+harus berperan dalam menentukan aplikasi-aplikasi yang
+diperlukan untuk mendukung bisnis perusahaan. Terdapat dua
+tujuan yang bertolak belakang dalam identifikasi aplikasi
+bisnis, yaitu kreatifitas dan disiplin. Kreatifitas dalam hal
+melakukan eksperimental untuk mencari tahu cara baru yang
+lebih efektif untuk meningkatkan nilai tambah bagi konsumen
+atau merealisasikan strategi bisnis. Pada tujuan ini,
+perusahaan lebih fokus terhadap bagaimana meningkatkan
+efektifitas proses utama (core). Sementara disiplin, pada
+tujuan ini, perusahaan berusaha menjaga integritas arsitektur
+aplikasi bisnis, perusahaan lebih memfokuskan dalam
+membangun aplikasi bisnis yang sudah dimiliki. Pada bidang
+aplikasi bisnis ini perlu dilakukan manajemen proyek
+pengembangan yang berfungsi untuk mengelola resiko-resiko
+yang positif.
+5) Keputusan Investasi dan Prioritas SI/TI: Pada bidang ini,
+tatakelola TI harus berperan dalam menentukan keputusan
+investasi dan prioritasi. Secara umum terdapat tiga isu utama
+dalam menentukan keputusan investasi, yaitu: 1) Berapa total
+investasi yang harus dikeluarkan; 2) Investasi dikeluarkan
+untuk kebutuhan apa; dan 3) Bagaimana cara menyinergikan
+kebutuhan investasi terhadap pihak-pihak yang berbeda.
+Berkaitan dengan penelitian ini, pilar investasi TI sebagai
+bagian dari tatakelola TI dapat diartikan bagaimana suatu
+organisasi mengelola investasi SI/TI sehingga dapat
+memberikan manfaat dengan optimal dalam pencapaian tujuan
+organisasi.
+B. Evaluasi Investasi SI/TI dengan ITIM
+Kerangka Information Technologi Investment Management
+(ITIM) dikembangkan Government Accountability Office
+(GAO), lembaga independen yang mendukung Kongres
+Amerika Serikat dalam memenuhi tanggung jawab
+konstitusionalnya dengan salah satu tugasnya sebagai lembaga
+audit operasional untuk menentukan apakah dana federal
+dibelanjakan secara efisien dan efektif [6]. ITIM merupakan
+kerangka atau metodologi dalam pengelolaan investasi SI/TI
+untuk menilai tahapan proses investasi SI/TI secara aktual
+sekaligus menentukan perbaikan terhadap proses yang ada
+selama ini. ITIM mengidentifikasi kunci proses investasi TI,
+mengukur ada atau tidak adanya proses-proses kunci tersebut,
+menciptakan penilaian terhadap IT manajemen investasi TI
+organisasi, dan penawaran rekomendasi untuk perbaikan.
+Kerangka kerja ini menyediakan tiga kemampuan kunci yang
+berguna bagi banyak organisasi yaitu : 1) Sebagai alat standar
+untuk evaluasi internal dan eksternal dari badan proses
+manajemen investasi TI; 2) ITIM memiliki mekanisme yang
+komprehensif dan ketat terkait pelaporan hasil penilaian untuk
+organisasi, dan 3) ITIM merupakan road map yang dapat
+digunakan untuk memperbaiki proses manajemen investasi TI
+organisasi. Dengan demikian, ITIM dapat menjadi alat yang
+berharga dalam mendukung penilaian diri dan perbaikan
+organisasi sehingga dapat menjadi standar terhadap evaluasi
+investasi yang handal [2].
+Proses analisa investasi SI/TI berdasarkan kerangka ITIM
+menekankan pada 3 (tiga) proses utama yang terkait dalam
+siklus hidup (life cycle) dan berkelanjutan yaitu seleksi,
+pengendalian dan evaluasi.
+Gbr. 1 Proses Utama dalam Kerangka ITIM [2]
+Fase pertama adalah fase seleksi untuk menentukan proyek
+TI terbaik dalam mendukung misi organisasi, menganalisa
+resiko dan manfaaat yang kiranya diberikan masing-masing
+proyek. Fase kedua yaitu fase control, pada fase ini, organisasi
+memastikan bahwa dengan pengembangan proyek dan
+bertambahnya biaya investasi, apakah proyek tersebut telah
+memenuhi harapan dari sisi biaya dan resiko. Jika proyek
+tidak sesuai harapan maka langkah-langkah untuk
+menyelesaikannya dengan segera dilakukan. Fase terakhir
+yaitu fase evaluasi, dimana pada fase ini dilakukan
+perbandingan antara proyek yang dilakukan dengan hasilnya.
+Hal ini dilakukan untuk menilai dampak proyek terhadap misi
+organisasi, untuk mengidentifikasi perubahan atau modifikasi
+proyek yang mungkin diperlukan, dan merevisi proses
+pengelolaan investasi berdasarkan pelajaran yang didapat
+untuk dijadikan evaluasi ke proyek selanjutnya.
+Seperti model kematangan lain, ITIM dibagi menjadi
+sebuah hirarki, ditandai dengan pengelompokan manajemen investasi TI proses menjadi lima tahap kematangan investasi
+SI/TI. Setiap tahap kematangan terdiri dari proses kritikal,
+dimana masing-masing proses kritikal memiliki sejumlah
+praktik kunci. Lima tahap kematangan investasi SI/TI dimulai
+dari tahap paling bawah ke atas menyesuaikan kemampuan
+organisasi mengelola investasi TI-nya.
+Gbr. 2 Tingkatan Kematangan ITIM [2]
+1) Tahap 1: Menciptakan Kesadaran Berinvestasi
+(Creating investement awareness): Karakteristik tahap 1
+adalah proses investasi yang terfokus (satu tujuan tertentu),
+tidak terstruktur, dan tidak dapat diprediksi. Sebagai contoh,
+organisasi yang masih dalam tahap ini umumnya tidak ada
+hubungan yang erat antara kesuksesan/kegagalan salah satu
+proyek dengan proyek lainnya. Jika sebuah proyek IT berhasil
+dan dinilai sebagai investasi yang baik, hal ini disebabkan
+karena langkah yang bagus dari tim di proyek tersebut,
+sehingga keberhasilan akan sulit untuk diulang. Proses
+investasi yang penting dari proyek yang berhasil dapat
+diidentifikasi, tetapi hanya khusus tim di satu proyek tersebut,
+pengalaman proses ini tidak diketahui oleh seluruh organisasi
+atau dilembagakan.
+2) Tahap 2: Membangun Dasar Berinvestasi (Building the
+investment foundation): Salah satu fokus pada Tahap 2 adalah
+membangun kemampuan dasar dalam melakukan seleksi.
+Kemampuan dasar menyeleksi ditentukan oleh pengembangan
+kriteria seleksi proyek, termasuk kriteria manfaat dan risiko,
+dan adanya kesadaran organisasi saat mengidentifikasi proyek
+untuk pendanaan. Tidak ada lagi proyek yang didanai hanya
+untuk tujuan tertentu saja. Proses seleksi dasar yang dibangun
+di Tahap 2 meletakkan dasar kemampuan seleksi yang lebih
+baik di Tahap 3. Oleh karena itu, organisasi juga fokus pada
+pendefinisian dan pengembangan unit kerja/dewan/komite
+yang mengelola investasi TI, mengidentifikasi kebutuhan
+bisnis atau peluang yang akan diperoleh dari setiap proyek,
+dan menggunakan pengetahuan ini dalam seleksi atau proyek
+TI yang baru. Organisasi yang telah bekerja dalam Tahap 2
+harus dimulai dengan mengembangkan proses pengambilan
+keputusan ITIM yang memanfaatkan Enterprise Architecture
+(EA). Organisasi dengan arsitektur “apa adanya” dapat
+menyediakan informasi dasar yang diperlukan oleh pengambil
+keputusan, seperti misalnya sistem apa yang sekarang ada dan
+kemungkinan adanya tumpang tindih fungsi dengan adanya
+sistem baru. Selain itu, EA berfungsi sebagai repositori untuk
+informasi investasi yang saat ini sering digunakan meskipun
+memerlukan modifikasi dalam penggunaannya. Kriteria untuk
+memilih investari baru dan yang berkelanjutan harus dibuat
+dan kebutuhan untuk menyelaraskan dengan tujuan EA dapat
+digunakan sebagai panduan penting dalam keputusan investasi.
+3) Tahap 3: Pengembangan Portofolio Investasi yang
+Lengkap (Developing a complete investment portfolio): Proses
+kritikal dalam Tahap 3 tergantung dari keberhasilan
+pelaksanaan Tahap 2. Untuk dapat berhasil dalam Tahap 3,
+organisasi harus menempatkan struktur dan pengulangan
+proses dari proyek yang berorientasi manajemen sebagaimana
+dijelaskan di atas. Selain itu, data kinerja proyek secara
+spesifik yang digunakan sebagai monitoring dan pemilihan
+kembali pada Tahap 2 sangat penting untuk keberhasilan
+manajemen portofolio investasi. Fokus dalam Tahap 3 adalah
+menerapkan konsistensi, perspektif yang jelas dalam
+portofolio investasi dan memelihara kematangan, seleksi
+terpadu (pemilihan kembali), pengendalian, dan proses
+evaluasi. Proses ini akan dievaluasi pada saat review pasca
+implementasi.
+4) Tahap 4: Peningkatan Proses Investasi (Improving the
+investment process): Organisasi yang berada dalam Tahap 4
+memfokuskan pada penggunaan teknik evaluasi untuk
+meningkatkan porses investasi dan portofolio dengan tetap
+memelihara pengendalian tingkat kematangan dan proses
+seleksi. Dalam tahap ini, organisasi secara kontinyu
+menganalisa portofolio investasi untuk memastikan bahwa
+investasi tetap sejalan dengan kondisi terakhir arsitektur. Hal
+ini karena perubahan kecil dalam investasi baik secara
+terpisah atau dalam keseluruhan EA mungkin dapat terjadi
+tanpa disadari selama masa pengambilan keputusan pemilihan
+atau pemilihan kembali. Seperti dijelaskan dalam Tahap 3,
+tinjauan pasca implementasi biasanya mengidentifikasi hal-hal
+penting dari investasi dan menentukan antisipasi manfaat dari
+investasi bisnis tersebut telah tercapai. Menganalisa beberapa
+tinjauan pasca implementasi berfungsi sebagai dasar dalam
+membuat rekomendasi untuk mengubah atau meningkatkan
+proses investasi TI. Pada Tahap 4, organisasi memiliki
+kemampuan untuk melakukan kegiatan suksesi TI dan dapat
+merencanakan maupun melaksanakan pemilihan kembali atas
+nilai invetasi TI yang usang, berisiko tinggi, atau rendah.
+5) Tahap 5: Memanfaatkan TI untuk Hasil Strategis
+(Leveraging IT for strategic outcomes): Setelah organisasi
+mampu dalam melakukan proses seleksi, pengendalian,
+evaluasi, organisasi tersebut kemudian serta telah menemukan
+bentuk atas hasil strategisnya melalui (1) menggunakan EAnya
+sebagai kerangka acuan penting untuk memastikan
+keselarasan dengan target arsitekturnya, (2) belajar dari
+organisasi lain, (3) terus menerus meningkatkan cara
+menggunakan TI untuk mendukung dan meningkatkan hasil
+usahanya, dan (4) berfokus pada fleksibilitas dan menjadi organisasi dinamis yang sesuai dengan visi masa depan dan
+ITIM sebagai media kritikal untuk mengimplementasikannya.
+Dengan demikian organisasi yang berada dalam Tahap 5,
+proses investasi TI-nya telah berada pada tingkatan yang
+terbaik dan melakukan pemantauan secara proaktif untuk
+melakukan terobosan dalam TI yang secara signifikan akan
+mengubah dan meningkatkan kinerja usahanya.
+Dengan pengecualian Tahap 1, setiap tahap kematangan
+terdiri dari beberapa critical process, seperti proses yang
+digunakan untuk membuat suatu portofolio investasi TI.
+Critical process biasanya diadopsi dari waktu ke waktu.
+Setiap critical process, berisi satu set atribut berisi elemenelemen
+inti, yang melalui evolusi langkah demi langkah
+pendahuluan, adopsi dan pengembangan, dan implementasi
+untuk mencapai tahap kematangan selanjutnya.
+Setelah mengetahui posisi tingkat kematangan investasi
+SI/TI suatu perusahaan maka langkah selanjutnya adalah
+meningkatkan tingkat kematangan investasi SI/TI pada
+tingkatan yang lebih tinggi. Pada tahap terakhir ini dibutuhkan
+kemampuan tatakelola investasi yang baik, sehingga hasil
+akhir pengukuran kematangan investasi dapat memberikan
+usulan tatakelola investasi bagi organisasi yang diteliti.
+III.METODOLOGI
+Penelitian ini menggunakan data hasil kuesioner dengan
+responden yang diambil pada tingkat manajemen strategis
+UNIMA yaitu Pembantu Rektor I bidang akademik, Pembantu
+Rektor II bidang administrasi umum dan keuangan, Pembantu
+Rektor V bidang perencanaan dan pembangunan, kepala Biro
+Administrasi Akademik dan Keuangan, Kepala dan Sekretaris
+Unit Pelaksana Teknis (UPT) PUSKOM dan data dari
+dokumen pengelolaan investasi di UNIMA sebagai penunjang
+validasi kuesioner ITIM. Validasi hasil dilaksanakan dengan
+wawancara mendalam dengan kepala UPT PUSKOM sebagai
+pihak yang paling bertanggung jawab akan penyelenggaraan
+dan pegawasan investasi SI/TI di UNIMA.
+Gbr. 3 Proses Pengukuran Kematangan Investasi SI/TI [2]
+Berdasarkan tahapan proses pengukuran kematangan
+investasi SI/TI pada kerangka ITIM, ada 3 (tiga) fase kegiatan
+yang dilakukan pada proses pengukuran ini. Tiga fase proses
+pengukuran kematangan investasi tersebut adalah sebagai
+berikut:
+1) Fase persiapan (Prepare for assesment): Supaya
+pengukuran tingkat kematangan investasi SI/TI memberikan
+nilai tambah bagi Universitas, maka sangat penting bagi
+pimpinan Universitas memahami kerangka kerja ITIM dan
+proses assessment-nya. Pemahaman pimpinan ini
+memudahkan aliran informasi yang tepat kepada tim
+assessment dan menunjukkan komitmen pimpinan dalam
+proses ini.
+2) Fase mengumpulkan bukti (Collect evidence): Pada tahap
+ini dilakukan tinjauan bukti dokumenter tentang bagaimana
+proses manajemen investasi secara nyata diimplementasikan
+dan menentukan seberapa baiknya bukti tersebut berhubungan
+dengan praktik penting ITIM. Bukti yang dimaksudkan dalam
+assessment yaitu bukti yang valid akan hasil pertanyaanpertanyaan
+menurut kerangka ITIM. Untuk mengukur tingkat
+kematangan dengan kerangka ITIM, maka diajukan kuesioner
+yang berisi 93 (sembilan puluh tiga) pertanyaan yang
+merupakan praktik kunci (key practices) dari 14 (empat belas)
+proses kritikal (critical process) yang tersebar pada 5 (lima)
+tingkatan kematangan [2].
+Pertanyaan dibagi dalam 3 (tiga) perspektif yang
+menentukan dalam proses investasi SI/TI yaitu komitmen
+organisasi, pra-syarat dan aktivitas investasi SI/TI. Pertanyaan
+kuesioner sifatnya mengklarifikasi apakah praktik kunci
+pengelolaan investasi SI/TI sudah dijalankan atau tidak. Untuk
+mendapatkan tingkat akurasi dan reliabilitas dalam proses
+assessment dalam proses pengumpulan bukti, maka: 1) Bukti
+diperoleh dari dua sumber atau lebih (diutamakan dari sumber
+yang independen); 2) Bukti yang diperoleh harus kuat dan
+relevant atau secara logis berhubungan dengan kritikal proses
+dan proses kunci; 3) Validasi hasil harus diperoleh dari
+wawancara dengan pegawai yang terlibat dalam proses
+manajemen investasi; dan 4) Bukti dokumenter asli dihasilkan
+dari akibat langsung dari proses manajemen investasi harus
+dapat ditunjukkan.
+Kuesioner ITIM merupakan kuesioner tunggal dimana
+sebaiknya dilakukan Focus Group Discussion dalam
+penjawaban kuesioner. Mengingat keterbatasan waktu dari
+para responden, kuesioner awalnya dibagikan ke 6 responden
+untuk melihat sejauh mana responden mengetahui tentang
+investasi SI/TI di UNIMA.
+Validasi kuesioner dilakukan dengan wawancara dengan
+Kepala UPT PUSKOM sebagai orang yang paling
+bertanggung jawab dan memiliki kapabilitas dalam menjawab
+hal-hal mengenai investasi SI/TI yang di laksanakan di
+UNIMA. Semua pertanyaan dalam kuesioner ditanyakan
+kembali. Untuk semua jawaban YA harus disertai dengan
+bukti, jika tidak dapat dibuktikan maka jawaban kuesioner
+ITIM akan bernilai TIDAK.
+
+
+3) Fase memberi peringkat dan menyelesaikan pengukuran
+(Determine ratings and finish assessment): ITIM adalah
+kerangka kerja yang hirarki, sehingga peringkat setiap
+komponen yang lebih tinggi sangat tergantung dari komponen
+yang berada dibawahnya. Artinya, jika terdapat praktik kunci
+yang tidak dilaksanakan dengan baik, proses kritikal juga
+tidak diimplementasikan dengan baik, maka tingkat
+kematangan juga dianggap tidak selesai atau tidak
+dilaksanakan.
+4) Rekomendasi tatakelola investasi: Setelah mengetahui
+tingkat kematangan investasi SI/TI di UNIMA, maka perlu
+diajukan rekomendasi tatakelola investasi dari praktik kunci
+yang perlu diperbaiki untuk meningkatkan kematangan
+manajemen investasi SI/TI di UNIMA.
+IV.HASIL DAN PEMBAHASAN
+Tujuan penelitian ini adalah mengukur tingkat kematangan
+investasi SI/TI di UNIMA berdasarkan kerangka ITIM dan
+menemukan prioritas untuk meningkatkan kematangan stategi
+investasi SI/TI di UNIMA. Sebelum pengukuran, pertemuan
+awal dengan pimpinan dalam hal ini Rektor UNIMA
+dilaksanakan di awal proses assessment untuk menyiapkan
+Universitas memahami maksud presentasi dan menyiapkan
+proses assessment. Pertemuan awal ini telah dilaksanakan satu
+bulan sebelum pelaksanaan kegiatan assessment. Dari hasil
+pertemuan awal Rektor telah menyediakan kemudahan akses
+informasi dengan menunjuk pihak-pihak yang tepat untuk
+diwawancarai.
+Pengukuran dimulai dari tahap 2 karena tidak ada kritikal
+proses yang berhubungan dengan tahap 1.
+A. Hasil pengukuran tingkat kematangan tahap 2 
+
+
+Dari hasil perhitungan pada proses kritikal “Instituting the
+Investment Board”, 7 dari 8 atau sebanyak 88% praktik kunci
+diidentifikasi telah dilaksanakan. Tujuan kritikal proses ini
+yaitu untuk menetapkan dan membentuk struktur dan proses
+investasi SI/TI yang tepat untuk memilih, mengendalikan, dan
+mengevaluasi investasi SI/TI pada organisasi. Dari hasil
+kuesioner dan validasi hasil ditemukan bahwa UNIMA sudah
+memiliki dewan investasi yang bertanggung jawab dalam
+menentukan dan melaksanakan tatakelola investasi TI, yaitu
+dalam penyelenggaraannya dilaksanakan oleh UPT Pusat
+Komputer (PUSKOM), dimana mekanisme penyelenggaraan
+anggaran awalnya diajukan oleh PUSKOM ke bagian
+perencanaan yang diketahui oleh Rektor yang kemudian
+diusulkan melalui dana APBN, APBNP dan dana DiPA.
+UNIMA juga telah memiliki dokumentasi proses investasi
+sebagai dasar pelaksanaan investasi dari komite tersebut.
+Praktik kunci yang belum dilaksanakan yaitu pembagian
+rentang kendali atas tanggung jawab anggota dewan investasi
+sehingga masih ditemui tumpang tindih kebijakan.
+Pada proses kritikal “Meeting Business Needs”, 5 dari 7
+atau 71% praktik kunci teridentifikasi telah dilaksanakan.
+Tujuan proses kritikal ini yaitu untuk memastikan bahwa
+proyek TI mendukung kebutuhan organisasi dan memenuhi
+kebutuhan penggunanya. 2 praktik yang belum dilaksanakan
+yaitu tidak semua pengguna berpartisipasi dalam pengelolaan
+proyek berdasarkan daur hidup/siklus proyek TI dan dewan
+investasi belum melakukan evaluasi keselarasan dari proyek TI dengan tujuan dan sasaran strategis Universitas, serta
+mengambil tindakan korektif bila terjadi ketidakselarasan
+secara berkala.
+Pada proses kritikal “Selecting an Investment”, hanya 6
+dari 10 atau sebanyak 60% praktik kunci teridentifikasi telah
+dilaksanakan. Tujuan proses kritikal ini yaitu untuk
+memastikan bahwa seleksi proyek TI yang baru dan seleksi
+ulang proyek TI yang sedang berjalan telah terdefinisi dengan
+baik dan melalui proses yang ketat dan disiplin.
+UNIMA belum mendokumentasikan kebijakan dan
+prosedur untuk memilih proposal TI yang baru juga maupun
+dalam memilih kembali investasi TI yang sedang berjalan.
+Kebijakan dan prosedur dalam mengintegrasikan kebutuhan
+dana investasi TI dengan proses pemilihan investasi juga
+belum didokumentasikan meskipun menurut validasi hasil
+kuesioner, UNIMA sebenarnya sudah memiliki kriteria dalam
+memilih peluang investasi baru maupun yang sedang berjalan
+yaitu dengan meninjau proses belajar mengajar (PBM) dan
+modernisasi kampus. Sejauh ini keputusan pendanaan
+investasi TI yang ditetapkan oleh pimpinan Universitas masih
+dievaluasi apakah telah selaras dengan keputusan investasi TI.
+Pada proses kritikal “Providing Investment Oversight”, 3
+dari 7 atau sebanyak 43% praktik kunci teridentifikasi telah
+dilaksanakan. Tujuan kritikal proses ini yaitu untuk meninjau
+kemajuan proyek TI dengan menggunakan kriteria yang telah
+ditetapkan sebelumnya meliputi biaya (Cost), manfaat
+(Benefit), jadwal (Schedule) dan resiko (Risk) (CSBR)
+sehingga dapat diambil tindakan jika kondisi saat ini tidak
+sesuai harapan. UNIMA belum memiliki dokumentasi
+kebijakan dan prosedur untuk memilih investasi TI yang baru.
+Saat penelitian dilaksanakan, data kinerja aktual baik berupa
+data biaya, manfaat jadwal, dan resiko tidak dapat diakses
+sehingga tinjauan terhadap kinerja proyek TI tidak dapat
+diperoleh karena tidak tersedia. Dari hasil validasi jawaban
+kuesioner juga ditemukan perbaikan setiap proyek TI yang
+berkinerja buruk tidak dilakukan unit kerja yang mengelola
+investasi melainkan dilakukan oleh penyedia proyek.
+Pada proses kritikal “Capturing Investment Information” 2
+dari 6 atau 33% praktik kunci teridentifikasi telah
+dilaksanakan. Universitas belum memiliki dokumentasi
+kebijakan dan prosedur dalam mengidentifikasi dan
+mengumpulkan informasi tentang proyek-proyek TI padahal
+UPT PUSKOM bertanggungjawab untuk memastikan bahwa
+investasi TI telah memenuhi kebutuhan pengelolaan investasi
+TI. Informasi spesifik pada masing-masing proyek SI/TI untuk
+mendukung keputusan investasi TI belum tersedia sehingga
+informasi yang dibutuhkan oleh para pembuat keputusan sulit
+diakses.
+B. Hasil pengukuran tingkat kematangan tahap 3
+Pada proses kritikal “Defining the Portfolio Kriteria”, 4
+dari 7 praktik kunci atau sebanyak 57% diidentifikasi telah
+dilaksanakan. Tujuan adanya kriteria portofolio ini untuk
+memastikan bahwa organisasi mengembangkan dan
+memelihara kriteria seleksi protofolio TI yang didukung oleh
+visi-misi, strategi, dan prioritas penggunaan SI/TI. Dari hasil
+wawancara validasi jawaban kuesioner diketahui bahwa
+UNIMA belum memiliki kebijakan dan prosedur dalam
+membuat dan memodifikasi kriteria-kriteria dalam menyeleksi
+portofolio TI, padahal sumber daya manusia, dana dan
+peralatan guna proses seleksi portofolio sudah tersedia, begitu
+juga dengan penanggungjawab dalam mengelola
+pengembangan maupun modifikasi kriteria seleksi portofolio
+jelas strukturnya sehingga bisa bertanggung jawab langsung
+dalam pengembangan dan perbaikan terhadap kriteria-kriteria
+seleksi portofolio. Hanya saja ketika bertanya kepada personil
+manajemen proyek dan pimpinan Universitas, tidak semua
+mengetahui kriteria seleksi portofolio TI. Peninjauan kriteria
+seleksi portofolio TI dengan menggunakan pengalaman
+kumulatif masa lalu dan masa sekarang juga dilaksanakan tapi
+tidak teratur/terjadwal.
+
+Pada proses kritikal “Creating the Portfolio”, 5 dari 7
+praktik kunci atau sebanyak 71% diidentifikasi telah
+dilaksanakan. Tujuan proses kritikal ini yaitu memastikan
+bahwa investasi TI dianalisis menurut kriteria seleksi
+portofolio investasi TI dan memastikan portofolio investasi TI
+telah optimal dengan resiko yang dikelola dengan baik.
+UNIMA belum mendokumentasikan kebijakan dan prosedur
+untuk menganalisa, memilih, dan memelihara portofolio
+investasi padahal memiliki sumber daya yang memadai,
+termasuk orang, dana, dan peralatan untuk proses penciptaan
+portofolio. Proses kunci penting dimana apakah informasi
+yang ada telah digunakan dalam memilih, mengontrol, dan
+mengevaluasi portofolio ini dikumpulkan dan dipelihara
+sebagai referensi di masa datang tidak dapat dibuktikan
+dengan tidak ditemukannya dokumen yang mendukung
+pernyataan ini.
+Pada proses kritikal “Evaluating the Portfolio”, 1 dari 7
+pratek kunci atau sebanyak 14% diidentifikasi telah
+dilaksanakan. Tujuan kritikal proses ini yaitu untuk mengukur
+kinerja portofolio investasi dan untuk menyesuaikan alokasi
+sumber daya di antara investasi pada saat dibutuhkan. Dari
+hasil wawancara validasi jawaban kuesioner, UNIMA belum
+memiliki mekanisme evaluasi portofolio investasi SI/TI
+meskipun memiliki sumber daya yang memadai, termasuk
+orang, dana, dan peralatan yang telah disediakan untuk mengkaji portofolio investasi TI. Anggota dewan investasi TI
+belum terbiasa dengan proses untuk mengevaluasi dan
+meningkatkan kinerja portofolio TI melihat tidak adanya
+kriteria untuk menilai kinerja portofolio yang dikembangkan
+secara berkala yang mencerminkan kinerja saat ini. Data
+kinerja portofolio TI sesuai dengan kriteria kinerja portofolio
+TI juga tidak tersedia.
+Pada proses kritikal “Conducting Post-Implementation
+Reviews”, 2 dari 6 atau sebanyak 33% praktik kunci
+diidentifikasi telah dilaksanakan. Tujuan proses kritikal ini
+yaitu untuk membandingkan hasil investasi TI yang dilakukan
+dengan harapan yang ditetapkan di awal dan untuk
+mengembangkan serangkaian pengalaman terbaik (best
+practise) dari hasil tinjauan. Dari hasil wawancara validasi
+jawaban kuesioner, UNIMA belum memiliki dokumentasi
+kebijakan dan prosedur untuk melakukan PIR (Post
+Implementation Review) atau Tinjauan Pasca Implementasi
+meskipun memiliki sumber daya yang memadai, termasuk
+orang, dana, dan peralatan untuk melakukan PIR. Jika
+ditanyakan apakah pimpinan universitas juga mengidentifikasi
+investasi mana yang akan dianalisa dengan PIR tidak dapat
+dibuktikan karena hal tersebut dilakukan oleh pimpinan
+proyek langsung. Data kualitatif maupun kuantitatif selama
+proses analisis PIR juga tidak ditemukan.
+C. Hasil pengukuran tingkat kematangan tahap Performance”, 1 dari 6 atau sebanyak 17% praktik kunci
+diidentifikasi telah dilaksanakan. Tujuan proses kritikal ini
+yaitu untuk menilai dan meningkatkan kinerja dari portofolio
+dan proses pengelolaan investasi. Dari hasil validasi jawaban
+kuesioner ditemukan UNIMA belum mendokumentasi
+kebijakan maupun prosedur dalam mengevaluasi dan
+meningkatkan kinerja portofolio tidak terlihat sama sekali,
+padahal sumber daya manusia yang disiapkan untuk hal itu
+sudah ditentukan yaitu kepala UPT PUSKOM. Saat penelitian
+berlangsung, tidak ada anggota dewan investasi TI yang
+bertanggung jawab untuk mengevaluasi dan meningkatkan
+proses investasi portofolio menunjukkan kompetensi inti
+dalam mengevaluasi dan meningkatkan portofolio TI karena
+memang portofolionya belum tersedia sehingga kinerja
+portofolio TI belum bisa diukur yang tentu saja tidak bisa
+memberikan rekomendasi untuk memperbaiki proses investasi
+TI dan portofolio yang sementara dikembangkan.
+Pada proses kritikal “Managing the Succession of
+Information Systems”, 6 dari 9 atau sebanyak 67% praktik
+kunci diidentifikasi telah dilaksanakan. Tujuan kritikal proses
+ini yaitu untuk memastikan operasionalisasi investasi TI
+dievaluasi secara berkala sehingga dapat ditentukan apakah
+investasi tersebut akan dipertahankan, dimodifikasi, diganti,
+dibuang atau dihentikan. Dari hasil validasi jawaban kuesioner
+diketahui bahwa universitas telah memiliki dokumentasi
+kebijakan dan prosedur dalam mengelola suksesi TI, dengan
+Kepala UPT PUSKOM sebagai pejabat khusus yang telah
+ditentukan dalam mengelola proses suksesi TI ini. Investasi TI
+juga dievaluasi secara periodik bersamaan dengan
+indentifikasi calon pengganti investasi. Yang perlu
+diperhatikan disini ditemukan bahwa pimpinan Universitas
+sejauh ini dinilai belum menunjukkan kompetensi dan
+kemampuannya dalam suksesi TI, hal ini didukung kenyataan
+di lapangan dimana penyimpanan informasi belum digunakan
+pimpinan Universitas dalam suksesi TI, padahal setiap
+investasi TI yang telah diidentifikasi sebagai calon pengganti
+ditentukan oleh pimpinan Universitas.
+D. Hasil pengukuran tingkat kematangan tahap 5
+
+Pada proses kritikal “Optimizing the Investment Process”, 5
+dari 7 atau sebanyak 71% praktik kunci diidentifikasi telah
+dilaksanakan. Tujuan proses kritikal ini yaitu uintuk
+mengidentifikasi dan menerapkan perbaikan yang terukur
+dalam proses pengelolaan investasi SI/TI sehingga memenuhi
+atau melampaui proses yang digunakan oleh best-inclass/
+benchmarking. Dari hasil validasi jawaban kuesioner,
+UNIMA diketahui telah melakukan benchmarking
+pengelolaan investasi dengan Universitas di dalam maupun
+luar negeri dengan penganggung jawab kepala UPT PUSKOM.
+Dokumentasi kebijakan dan prosedur untuk memperbaiki
+proses pengelolaan investasi TI dengan menggunakan
+benchmarking tidak tersedia meskipun sudah ada pejabat
+ditunjuk untuk mengelola kegiatan dalam proses penting ini.
+Lewat kritikal proses ini diketahui bahwa UNIMA belum
+memiliki kemampuan perubahan strategi organisasi yang
+berbasis TI.
+Pada proses kritikal “Using IT to Drive Strategic Business
+Change”, 2 dari 6 atau sebanyak 33% praktik kunci
+diidentifikasi telah dilaksanakan. Tujuan kritikal proses ini
+yaitu meningkatkan hasil secara signifikan dengan
+memanfaatkan investasi TI secara strategis. Dari hasil validasi
+jawaban kuesioner, dokumentasi kebijakan dan prosedur untuk melakukan perubahan strategi belum tersedia meskipun
+sudah ada pejabat yang ditunjuk untuk mengelola perubahan
+strategi berbasis TI, oleh karena itu perubahan pelaksanaan
+strategi berbasis TI belum berjalan baik. Sampai penelitian
+berlangsung, belum ditemukan strategi perubahan pada alur
+penggunaan SI/TI yang telah direncanakan maupun yang telah
+dilaksanakan berdasarkan identifikasi kemampuan TI pada
+organisasi.
+E. Hasil pengukuran tingkat kematangan investasi SI/TI
+UNIMA
+
+
+
+Berdasar hasil pengukuran, UNIMA hanya memperoleh
+score 23 dari score required 38 pada tahap 2, yang berarti
+status di Tahap 2 “not achieved” karena tidak memenuhi skor
+yang diperlukan untuk berada di tahap 2. Dengan kata lain,
+UNIMA masih berada di tahap 1 dimana karakteristik tahap 1
+adalah proses investasi yang terfokus (satu tujuan tertentu),
+tidak terstruktur, dan tidak dapat diprediksi. Dalam ITIM,
+Tahap 1 berbeda dengan tingkat kematangan lainnya karena
+tidak ada proses kritikal yang berhubungan dengan Tahap 1.
+Tahap ini juga ditandai dengan tidak adanya organisasi,
+penentuan/eksekusi, dan konsistensi yang diterapkan dalam
+proses manajemen investasi TI. Hasil pengukuran tingkat
+kematangan investasi SI/TI UNIMA masih masuk dalam
+Tahap 1. Meskipun telah memiliki dewan investasi, tapi
+proses manajemen investasi belum terarah. Hal ini terlihat dari
+temuan di lapangan dimana seringkali biaya proyek yang
+ditargetkan sering meningkat, ada risiko yang tidak dapat
+diantisipipasi, kesalahan yang terjadi dalam jadwal proyek,
+dan keuntungan bisnis yang bernilai rendah.
+UNIMA memiliki peluang besar di bidang manajemen
+investasi TI melihat besarnya anggaran pengadaaan SI/TI, tapi
+belum terarahnya proses investasi sering mengakibatkan
+inkonsistensi dalam hasil proyek TI. TI dipandang sebagai pos
+biaya yang besar dalam organisasi dan dapat terhubung
+dengan kebutuhan administrasi dan pendanaan dukungan
+manajemen. Begitu juga dengan pengadaan proyek TI yang
+berada dalam rangkaian anggaran tertentu hanya ditinjau
+mengenai kenaikan atau penurunan biaya dibandingkan
+dengan tahun sebelumnya, terlepas apakah hasil mengenai
+biaya, waktu, dan kinerja yang dicapai oleh proyek tersebut.
+Beberapa proyek TI dari organisasi di Tahap 1 yang didanai
+karena proyek tersebut berhubungan dengan tujuan tertentu
+dari kegiatan belajar mengajar saja. Ada juga proyek yang
+didanai meskipun tidak terdapat informasi atau keterkaitan
+dengan perbaikan yang diharapkan dan ingin dicapai dalam
+kinerja program dan tujuan bisnisnya.
+Dalam tahap 1, UNIMA memiliki pengendalian
+manajemen investasi TI yang tidak terstruktur, banyak waktu
+terbuang, dan tidak konsisten. Pimpinan Universitas jarang
+meninjau data kinerja proyek TI sehingga tidak memiliki
+peringatan dini untuk mendeteksi dan memperbaiki
+permasalahan yang bisa semakin besar. Permasalahan proyek
+diatasi saat muncul dan hanya berfokus pada perbaikan kecil
+daripada mempertimbangkan penyebab yang sistematik dari
+masalah tersebut. Akibatnya, keberhasilan dari masing-masing
+proyek tidak dapat diprediksi dan terkadang hanya merupakan
+hasil kerja dari individu atau tim dari proyek tersebut.
+UNIMA yang berada dalam Tahap 1 tidak memiliki
+rangkaian informasi investasi yang terkini dan lengkap.
+Sebagai contoh, meskipun memiliki perangkat keras TI tetapi
+tidak memiliki daftar yang menyeluruh dari sistem, aplikasi
+perangkat lunak, dan perjanjian lisensi. Padahal, tanpa
+ketersediaan informasi TI yang lengkap, organisasi tidak dapat
+mengembangkan proses pengendalian investasi yang memadai.
+UNIMA juga jarang mengevaluasi hasil investasi TI, dan
+mengambil pelajaran dari proyek yang telah dilakukan. Jika
+evaluasi dilakukan, biasanya hanya sebagai respon atas
+tekanan dari luar (misalnya audit atau tinjauan pengawasan
+anggaran), selain itu cenderung dengan pembagian tugas yang
+buruk dan dilakukan tanpa proses formal yang
+menggambarkan metode, ruang lingkup, dan tanggung jawab.
+F. Meningkatkan Tingkat Kematangan
+Setelah mengetahui hasil pengukuran tingkat kematangan
+investasi SI/TI UNIMA yang masih berada pada tahap 1,
+maka untuk berpindah ke tahap 2 menurut ITIM, proses
+pengendalian investasi merupakan hal penting. Supaya proses
+pengendalian investasi dapat dilakukan dengan baik, maka:
+1) Perlu dipertimbangkan untuk membentuk Dewan
+investasi disesuaikan dengan kebutuhan Universitas sehingga
+pada tugasnya UPT investasi dapat memilih, mengendalikan,
+dan mengevaluasi investasi SI/TI.
+2) Informasi investasi seperti biaya, manfaat, jadwal,
+penilaian risiko, matriks kinerja, fungsi sistem perlu
+dikumpulkan untuk mendukung pengambilan keputusan
+eksekutif;
+3) Mengidentifikasi kebutuhan Universitas dan kebutuhan
+pengguna dalam setiap proyek yang dikerjakan. Hal ini dapat
+dilakukan dengan diawali seleksi dasar pemilihan investasi
+dengan melihat kebutuhan Universitas yang utama dari setiap
+proyek TI diidentifikasi dan proses pengembangan portofolio
+dasar digunakan untuk memilih proposal TI yang baru.
+4) Mengkomunikasikan status proyek yang sedang
+berlangsung untuk meningkatkan akuisisi, pengembangan,
+dan praktik manajemen atas sistem secara organisasional.
+Perlu adanya proses pengendalian investasi. Hal penting untuk
+melihat kematangan proyek SI/TI pada proses pengendalian
+investasi adalah kemampuan untuk mengenali kebutuhan dan
+mengambil tindakan korektif yang cepat ketika proyek
+mengalami hambatan untuk memenuhi jadwal yang diharapkan dan perkiraan biaya. Ketika bergerak ke Tahap 2,
+organisasi mengembangkan metode yang kuat untuk
+mengumpulkan data dari tingkat proyek proses manajemen
+serta menggabungkannya secara tepat untuk menyediakan
+informasi yang diperlukan bagi pimpinan dalam
+melaksanakan tanggung jawab pengawasannya.
+5) UNIMA perlu belajar dari dari keputusan masa lalu dan
+lebih baik mengelola faktor yang menyebabkan kegagalan
+masa lalu, sehingga meningkatkan kinerja dari proyek SI/TI
+yang sedang berlangsung.
+6) Dengan tidak membuang praktik kunci yang sudah
+dilaksanakan pada tahap 3 dengan 12 score yang dipenuhi dari
+27 score reqired, UNIMA diharapkan dapat menciptakan
+kriteria seleksi portofolio investasi dengan analisa yang
+berhubungan dengan penjelasan manfaat dari setiap investasi
+TI. Selain penciptaan proses seleksi yang matang, unsur
+manfaat dan risiko manajemen dalam proses pengendalian
+investasi perlu dijabarkan secara rinci. Sangat penting untuk
+melakukan tinjauan kembali atau investasi yang telah
+dilakukan dan seberapa besar investasi itu memberikan
+manfaat kepada penggunanya.
+7) Begitu juga dengan hasil “not achieved” di tahap 4
+karena UNIMA hanya memperoleh score 7 dari score
+required 15 pada tahap 4. Setelah menciptakan kriteria seleksi
+portofolio investasi SI/TI, UNIMA perlu mendokumentasikan
+kebijakan dan prosedur untuk mengevaluasi dan
+meningkatkan kinerja portofolio tersebut dengan metode yang
+telah disepakati. Selain itu UNIMA perlu mendokumentasikan
+kebijakan dan prosedur untuk mengelola proses suksesi TI dan
+membutuhkan anggota dewan investasi TI yang dapat
+menunjukkan kompetensi inti dalam kegiatan yang suksesi
+sistem informasi sehingga dapat mengembangkan kriteria
+untuk mengidentifikasi investasi TI yang mungkin akan
+diganti. Investasi SI/TI juga harus dievaluasi secara berkala
+untuk mengidentifikasi perlu tidaknya calon pengganti
+investasi TI.
+8) Pada tahap 5 yang memperoleh score 7 dari score
+required 13, meskipun “not achieved”, UNIMA diharapkan
+dapat mengawasi dan belajar dari Universitas lain sebagai
+bahan perbandingan (benchmark). Benchmark dapat
+digunakan karena mungkin terdapat proses tertentu dari
+organisasi lain yang lebih inovatif atau lebih efisien daripada
+proses yang dijalankan di organisasinya. UNIMA kedepannya
+diharapkan memiliki kemampuan untuk melakukan perubahan
+strategi organisasi yang berbasis TI pada alur penggunaan
+SI/TI yang telah direncanakan maupun yang telah
+dilaksanakan berdasarkan identifikasi kemampuan TI pada
+organisasi dengan mendokumentasikan kebijakan dan
+prosedur untuk melakukan perubahan strategi. Belum
+ditemukan strategi perubahan.
+Diharapkan dengan melakukan perubahan sesuai dengan
+rekomendasi yang telah disebutkan, UNIMA dapat
+meningkatkan kematangan investasinya dari tahap 1 ke tahap
+yang lebih tinggi.
+V. KESIMPULAN DAN SARAN
+Kesimpulan yang diperoleh dari hasil penelitian adalah
+sebagai berikut :
+1)Setelah dilakukan pengukuran tingkat kematangan
+investasi SI/TI dengan menggunakan kerangka ITIM, UNIMA
+memperoleh score 23 dari 38 score required. Karena tidak bisa
+memenuhi score required untuk berada di Tahap ke 2, artinya
+tingkat kematangan investasi UNIMA saat ini masih berada di
+tahap 1 dimana karakteristik tahap 1 adalah proses investasi
+yang terfokus (satu tujuan tertentu), tidak terstruktur, dan
+tidak dapat diprediksi.
+2)ITIM dapat digunakan untuk mengukur kematangan
+investasi SI/TI di organisasi non profit seperti Universitas
+Negeri. Hasil pengukuran ITIM dapat digunakan sebagai
+dasar untuk meningkatkan tingkat kematangan investasi SI/TI
+dan pengelolaan investasi teknologi informasi selanjutnya.
+Berdasarkan kesimpulan dari hasil penelitian tersebut maka
+penulis memberikan saran yaitu:
+1)Hasil penelitian ini dapat dijadikan dasar bagi UNIMA
+untuk segera melakukan perbaikan pengelolaan investasi
+SI/TI-nya. Diharapkan dengan menjalankan rekomendasi pada
+hasil penelitian ini dapat meningkatkan tingkat kematangan
+investasi SI/TI dan pengelolaan investasi SI/TI selanjutnya
+menjadi lebih baik.
+Untuk penelitian selanjutnya, perlu diadakan analisis
+mendalam yang meliputi analisa biaya (cost analysis) dan
+analisa resiko (risk analysis) untuk setiap proyek SI/TI untuk
+memperkuat analisa ITIM pada setiap tahapan proses investasi
+SI/T.

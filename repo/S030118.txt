@@ -1,0 +1,160 @@
+﻿ABSTRAK
+.
+Penelitian ini menguji pengaruhcorporate governance terhadap kemungkinan suatu
+perusahaan mengalami kondisi financial distress. Berdasarkan landasan teori yang digunakan
+dan rumusan masalah yang diajukan, maka terdapat lima hipotesis yang akan diuji. Populasi
+penelitian ini adalah perusahaan manufaktur yang go public di Indonesia tahun 2009-2012.
+Metode Penelitian yang digunakan adalah metode kuantitatif, sedangkan teknik analisis untuk
+menguji hipotesis menggunakan regresi logistik. Hasil dari penelitian ini menunjukkan
+bahwa variabelcorporate governance yang terdiri dari kepemilikan terkonsentrasi dan
+kepemilikan institusional berpengaruh signifikan terhadap kemungkinan perusahaan
+mengalami financial distress. Sedangkan variabel ukuran dewan, kepemilikan manajerial dan
+komisaris independen tidak berpengaruh terhadap kondisi financial distress pada perusahaan
+manufaktur yang go public di Bursa Efek Indonesia pada tahun 2009 – 2012. Untuk variabel
+pengendali yang terdiri dari profitabilitas, leverage, dan ukuran perusahaan, yang memiliki
+pengaruh signifikan terhadap kondisi financial distress adalah Profitabilitas dan Leverage,
+(Debt to Total Asset Ratio) sedangkan variabel ukuran perusahaan tidak berpengaruh
+signifikan terhadap kondisi financial distress.
+Kata kunci : financial distress, corporate governance, regresi logistik
+
+BAB 1
+PENDAHULUAN
+1.1. Latar Belakang
+Pada dasarnya setiap perusahaan didirikan dengan harapan akan hidup
+sepanjang masa dan tidak akan pernah mati sesuai dengan konsep Continuity of
+Activity yang diungkapkan oleh Paton dan Littleton (1940) yaitu “The assumption
+that the business entity has continuity` of life... Business in general does not
+consist of an array of sporadic, short-term ventures and its accomplishments are
+not normally subject to the test of complete liquidation”. Dalam kondisi normal,
+suatu perusahaan tidak didirikan untuk usaha-usaha yang bersifat jangka pendek
+sehingga apabila hal yang diinginkan telah tercapai kemudian perusahaan tersebut
+tidak akan ditutup/dilikuidasi. Likuidasi bukan merupakan harapan dari setiap
+perusahaan, sebaliknya bahwa perusahaan selalu mengharapkan adanya
+kontinuitas usaha (going concern).
+Namun pada kenyataannnya masih terdapat banyak perusahaan yang
+mengalami kesulitan keuangan (financial distress) dan terkadang berujung pada
+kebangkrutan. Kondisi financial distress pada suatu perusahaan dapat disebabkan
+oleh faktor eksternal maupun internal. Faktor eksternal dapat berupa bencana alam
+dan kondisi perekonomian suatu negara, sedangkan untuk faktor internal dapat
+berupa permasalahan yang muncul dalam manajemen perusahaan dan bahkan
+
+adanya penyalahgunaan wewenang. Faktor internal inilah yang mendorong
+diperlukannya penerapan Good Corporate Governance.
+Corporate Governance merupakan tata kelola perusahaan yang
+menjelaskan hubungan antara berbagai partisipan dalam perusahaan yang
+menentukan arah dan kinerja perusahaan (Lukviarman, 2007). OECD
+(Organization for Economic Cooperation and Development) menyatakan bahwa
+penerapan good corporate governance dengan prinsip-prinsip dasarnya yakni
+keadilan (fairness), transparansi (transparency), akuntabilitas (accountability),
+kemandirian (independency) dan pertanggungjawaban (responsibility) diyakini
+mampu mengurangi kemungkinan perusahaan mengalami financial distress dan
+kebangkrutan yang mungkin terjadi akibat keputusan-keputusan dewan komisaris
+atau dewan direksi yang menguntungkan diri sendiri.
+Isu perkembangan pentingnya Good Corporate Governance di Indonesia
+muncul akibat krisis ekonomi yang melanda pada pertengahan tahun 1997.
+Terdapat beberapa penelitian yang menunjukkan bahwa buruknya tata kelola
+perusahaan menjadi salah satu faktor penyebab terjadinya krisis di Indonesia.
+Emirzon (2007) menyatakan bahwa salah satu penyebab munculnya krisis
+ekonomi yang berkepanjangan di Indonesia adalah lemahnya tata kelola
+perusahaan (corporate governance). Hal ini didukung oleh hasil penelitian Booz-
+Allen yang menempatkan Indonesia pada peringkat paling bawah dalam
+penerapan prinsip-prinsip corporate governance di ASEAN (Hardjapamekas,
+2001).
+
+Salah satu penelitian tentang pengaruh corporate governance terhadap
+kemungkinan perusahaan mengalami financial distress adalah penelitian yang
+dilakukan Li et al., (2008) yang membuktikan bahwa penerapan mekanisme
+corporate governance pada perusahaan di China berpengaruh terhadap
+kemungkinan perusahaan mengalami financial distress. Penelitian lain yang
+dilakukan oleh Daily dan Dalton (1994) menguji mengenai adanya kemungkinan
+hubungan dari dua aspek struktur governance, komposisi dewan, dan struktur
+kepemimpinan dari direksi, sebagai faktor penjelas dari kebangkrutan suatu
+perusahaan. Penelitian mereka menyimpulkan bahwa memang terdapat hubungan
+yang signifikan antara komposisi dewan dan struktur kepemimpinan dewan
+dengan kemungkinan perusahaan mengalami kebangkrutan. Selain itu, Jaikengkit
+(2004) membuktikan bahwa mekanisme corporate governance berupa
+kepemilikan terkonsentrasi, ukuran dewan, kepemilikan manajerial, dan
+independensi dewan dapat dijadikan sebagai prediksi kemungkinan financial
+distress pada institusi keuangan di Thailand.
+Lu dan Chang (2009) mencoba memadukan antara kualitas laporan
+keuangan, corporate governance, dan variabel makro ekonomi untuk
+memprediksi financial distress di Taiwan. Alat uji yang digunakan adalah logistic
+regression. Dalam penelitiannya, mereka menggunakan 5 model untuk
+memprediksi financial distress. Dari kelima model tersebut, hanya model yang
+memuat variabel keuangan dan corporate governance saja yang cocok untuk
+digunakan dalam memprediksi financial distress. Dari penelitian tersebut mereka
+
+menyimpulkan bahwa variabel keuangan dan corporate governance bisa
+digunakan untuk memprediksi financial distress.
+Di Indonesia, penelitian tentang mekanisme corporate governance dan
+financial distress telah dilakukan oleh Parulian (2007) yang melihat financial
+distress melalui sisi corporate governance. Ia melakukan penelitian terhadap
+perusahaan yang terdaftar di Bursa Efek Jakarta pada tahun 2006 dengan
+menggunakan metode binary logistic regression. Dari penelitian tersebut ia
+menemukan bahwa ukuran perusahaan, prosentase komisaris independen dan
+leverage memiliki hubungan yang signifikan dengan terjadinya financial distress.
+Sementara kepemilikan saham oleh investor institusional atau insider tidak
+memiliki hubungan dengan financial distress.
+Walaupun telah banyak penelitian tentang financial distress yang
+dilakukan selama bertahun-tahun di banyak negara namun mayoritas penelitian
+tersebut dilakukan di negara yang sudah berkembang. Sedangkan saat ini masih
+sangat sedikit penelitian tentang financial distress yang dilakukan di negara yang
+sedang berkembang. Selain itu penelitian tentang financial distress kebanyakan
+hanya dilakukan berdasarkan rasio keuangan. Padahal dalam kenyataannya
+corporate governance juga berpengaruh terhadap going concern perusahaan. Oleh
+karena itu, penulis tertarik untuk menemukan bukti empiris mengenai mekanisme
+corporate governance yang mempengaruhi financial distress sehingga dapat
+dijadikan sebagai alat prediksi kondisi financial distress pada perusahaan
+manufaktur, dimana penelitian mengenai financial distress masih perlu untuk
+dikembangkan karena dengan mengetahui kondisi financial distress perusahaan
+
+sejak dini diharapkan dapat dilakukan tindakan-tindakan untuk mengantisipasi
+kondisi yang mengarah pada kebangkrutan (Almilia dan Emanuel, 2003).
+Penelitian ini menganalisis pengaruh corporate governance terhadap
+kemungkinan perusahaan mengalami financial distress pada perusahaan
+manufaktur yang go public di Bursa Efek Indonesia periode tahun 2009-2012.
+Perusahaan yang masuk dalam kategori financial distress sesuai dengan definisi
+Classens et al (1999) yaitu perusahaan yang memiliki interest coverage ratio
+(rasio antara operating profit dibagi dengan interest expense) kurang dari atau
+sama dengan satu.
+1.2. Rumusan Masalah
+Berdasarkan latar belakang yang diungkapkan di atas maka rumusan
+masalah penelitian ini adalah: “apakah terdapat pengaruh corporate governance
+terhadap kemungkinan perusahaan mengalami financial distress?”
+1.3. Tujuan Penelitian
+Berdasarkan uraian rumusan masalah di atas, tujuan penelitian ini adalah
+untuk mengetahui pengaruh corporate governance terhadap kemungkinan
+perusahaan mengalami financial distress.
+
+1.4. Manfaat Penelitian
+Penelitian tentang determinan financial distress perusahaan diharapkan
+dapat memberi manfaat optimal antara lain:
+a. Bagi Penulis
+Sebagai salah satu syarat dalam menyelesaikan studi Magister Akuntansi di
+Fakultas Ekonomi dan Bisnis Universitas Airlangga Surabaya. Penelitian ini
+juga merupakan media untuk menambah pengetahuan dan pemahaman
+peneliti mengenai permasalahan yang dibahas, serta dapat memberikan
+sumbangan pemikiran berdasarkan disiplin ilmu yang diperoleh di bangku
+kuliah.
+b. Bagi Perusahaan Manufaktur
+Menyampaikan bahwa financial distress adalah hal yang penting untuk
+diperhatikan dalam rangka menjaga kontinuitas (going concern) perusahaan
+serta diharapkan dapat digunakan sebagai bahan informasi supaya dapat
+mengimplementasikan good corporate governance untuk mengurangi
+kemungkinan perusahaan mengalami financial distress.
+c. Bagi kreditor dan Investor
+Kreditor berkepentingan untuk mengetahui apakah perusahaan penerima
+pinjaman mampu mengembalikan pinjaman mereka. Investor berkepentingan
+untuk mengetahui apakah perusahaan yang menerima dana mereka adalah
+perusahaan yang sehat dan dapat memberikan return optimal dari investasi
+yang mereka tanamkan. Hasil penelitian ini diharapkan dapat memberi
+informasi dan dijadikan sebagai acuan pengambilan keputusan ekonomi dalam
+
+melakukan tindakan investasi, baik berupa pemberian pinjaman maupun
+pembelian saham sehingga potensi kerugian yang dihadapi dapat
+diminimalisir.
+d. Bagi Pekembangan ilmu pengetahuan
+Hasil penelitian ini diharapkan dapat digunakan sebagai stimulus kepada
+mahasiswa agar lebih tertarik untuk melihat keterkaitan antara corporate
+governance dalam memprediksi financial distress. Hasil penelitian ini juga
+dapat menjadi acuan penelitian-penelitian sejenis dan penelitian selanjutnya.

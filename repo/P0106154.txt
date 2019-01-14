@@ -1,0 +1,101 @@
+﻿EVALUASI POTENSI SEDIMEN PERAIRAN SEBAGAI SUMBER KONTAMINAN LOGAM BERAT (Pb, Cu, Zn) DI BADAN AIR PADA WILAYAH REKLAMASI LUMPUR LAPINDO
+
+ABSTRAK
+Sedimen memegang peranan penting sebagai source dari logam berat seperti Pb, Cu dan Zn. Hal ini juga berlaku untuk sedimen perairan di Pulau Sarinah. Penelitian di Pulau Sarinah dilakukan untuk mengevaluasi potensi sedimen perairan di wilayah reklamasi lumpur Lapindo sebagai sumber kontaminan logam berat (Pb, Cu, Zn) di badan air muara Sungai Porong, Kabupaten Sidoarjo. Evaluasi dilakukan dengan menentukan nilai faktor kontaminasi (Contamination Factor,CF) dan kode penilaian resiko (Risk Assessment Code, RAC)berdasarkan konsentrasi fraksi geokimia logam berat dalam sedimen. Fraksi logam berat dipisahkan dengan metode ekstraksi bertahap (sequential extraction) BCR dimodifikasi oleh Chakraborty (2015). Sampel sedimen diambil pada dua lokasi di muara Sungai Porong, yaitu pada lokasi 1 yaitu 7°34'26.76" LS, 112°52'53.76" BT dan lokasi 2 yaitu7°33'31.35" LS, 112°51'05.56"BT. Sampel diambil dengan menggunakan Eickman Grab sampler, disimpan dalam wadah gelap pada suhu 4 oC. Konsentrasi logam berat ditentukan dengan Spektrofotometri Serapan Atom. Hasil penelitian menunjukkan bahwa pada kedua lokasi nilai CF(Cu) lebih tinggi dibandingkan CF untuk logam Pb dan CF untuk logam Zn. Hal ini menunjukkan bahwa Cu memiliki waktu retensi lebih singkat dibandingkan kedua logam lainnya dalam sedimen. Dengan kata lain, Cu lebih mudah terlepas dari sedimen dan menuju badan air sehingga dapat mengkontaminasi badan air. Berdasarkan nilai RAC, sedimen di lokasi 2 memiliki potensi lebih besar melepaskan logam Cu dalamfraksi 1 (fraksi logam berat terlarut dalam air pori sedimen) dan fraksi 2 (fraksi logam berat mudah tertukar dan dalam bentuk karbonat) yang dapat dimanfaatkan langsung oleh biota di badan air. Dapat disimpulkan bahwa meskipun mangrove yang ditanam di wilayah reklamasi Lumpur Lapindo dapat mengabsorpsi logam berat tetapi sedimen perairan di wilayah tersebut memiliki potensi sebagai sumber kontaminan Cu, terutama di wilayah reklamasi yang berhubungan dengan laut.
+Kata kunci: CF, lumpur Lapindo, RAC, sedimen, sequential extraction
+
+PENDAHULUAN
+Fenomena geologi, terjadi di Sidoarjo, Jawa Timur, Indonesia yaitu semburan lumpur panas Lapindo, diakibatkan kegiatan eksplorasi dari pengeboran minyak dan gas bumi. Semburan lumpur pada suhu tinggi memicu larutan hidrotermal yang mengandung logam berat yaitu Cu, Pb, Zn, Mn, Fe, Cd, As, Sb, Au, Ag, Hg, dan Se dengan konsentrasi yang terbesar adalah Pb 49 ppm, Zn 96 ppm dan Cu 23 ppm (Suprapto et al., 2015). Lumpur Lapindo yang terus dibuang ke Sungai Porong pada akhirnya membentuk sebuah pulau baru di wilayah timur Sidoarjo, yaitu Pulau Sarinah (DISPORABUDPAR Sidoarjo, 2016). Daratan Pulau Sarinah berasal dari sedimentasi lumpur Lapindo di muara sungai dan hasil dari pengerukan lumpur Lapindo yang dibawa dari pusat semburan lumpur. Pulau Sarinah oleh Badan Penanggulangan Lumpur Sidoarjo (BPLS) difokuskan sebagai lahan konservasi sumber daya alam dengan menanam beberapa jenis mangrove untuk adsorpsi logam berat dari lumpur yang mengendap di dasar perairan sehingga tidak berdampak terhadap kerusakan ekosistem pesisir. Namun, berdasarkan hasil penelitian sebelumnya, perairan di sekitar Pulau Sarinah terkontaminasi logam berat (Syafriotman, 2014; Harlyan dan Sari, 2015) yang dimungkinkan berasal dari endapan lumpur di dasar perairan.
+Logam berat dalam ekosistem perairan mengalami mobilisasi dari sedimen ke badan air dan sebaliknya. Di dalam sedimen perairan, logam berat berada dalam beberapa fraksi geokimia berdasarkan kemampuannya terikat atau teradsorpsi oleh komponen penyusun sedimen. Fraksi logam berat dalam sedimen terdiri atas fraksi logam berat yang terlarut dalam air pori sedimen (Fraksi 1), fraksi logam berat yang mudah tertukar dan dalam bentuk karbonat (Fraksi 2), fraksi logam yang teradsorpsi pada permukaan Fe/Mn oksida dalam sedimen (Fraksi 3), fraksi logam yang terikat pada bahan organik penyusun sedimen (Fraksi 4), dan fraksi logam yang terikat kuat dalam kisi kristal sedimen (Fraksi 5) (Chakraborty et al., 2015). Dari keempat fraksi tersebut, fraksi 1 dan fraksi 2 merupakan fraksi logam berat yang dapat dimanfaatkan (tersedia) langsung bagi biota sehingga konsentrasi fraksi 1 dan fraksi 2 menentukan tingkat kontaminasi logam berat di badan air. Sementara, logam berat pada fraksi 3 dan fraksi 4 memungkinkan tersedia bagi biota ketika ada perubahan lingkugan perairan maupun sedimen. Fraksi 5 merupakan fraksi logam berat yang sulit terlepas dari sedimen, disebut sebagai fraksi resistan. Kondisi fisika-kimia sedimen dan badan air menentukan laju mobilisasi fraksi logam berat, meliputi tekstur sedimen, pH, suhu, potensial redoks, salinitas, bahan organik, dan kapasitas tukar kation.
+Oleh karena itu evaluasi kontaminasi logam berat pada suatu ekosistem perairan perlu dilakukan berdasarkan konsentrasi fraksi logam berat dalam sedimen perairan. Evaluasi yang didasarkan pada konsentrasi logam total dalam sedimen tidak memberikan informasi yang cukup mengenai mobilitas, bioavailabilitas dan potensi risiko kontaminasi logam berat ke lingkungan (Nemati et al., 2011; Kabata, 2011; Wali et al., 2014). Evaluasi kontaminasi berdasarkan fraksi logam berat dalam sedimen perairan dapat dilakukan dengan menentukan nilai faktor kontaminasi (CF) dan kode penilaian resiko (RAC). CF menunjukkan waktu retensi dari logam berat dalam sedimen (Nemati et al., 2011; Wali et al., 2014). CF dihitungkan dari perbandingan fraksi non resistan (total konsentrasi fraksi 1-4) terhadap konsentrasi fraksi resistan (fraksi 5). Semakin tinggi nilai CF mengindikasikan semakin banyak fraksi logam berat yang mudah terlepas dari sedimen ke badan air sehingga dapat dimanfaatkan oleh biota secara langsung maupun tidak. Sementara, RAC menunjukkan reaktivitas dari sedimen dalam menyediakan logam berat ke badan air. Hal ini dapat diinterpretasikan sebagai nilai persentase dari fraksi logam yang terlarut dalam air pori sedimen dan fraksi logam yang mudah dipertukarkan (Singh et al., 2005; Sundaray et al., 2011; Pawlowski et al., 2013; Yang, 2014). Semakin tinggi nilai RAC menunjukkan bahwa sedimen perairan mengandung fraksi 1 dalam konsentrasi yang tinggi yang dapat dengan mudah terlepas dari sedimen dan mengkontaminasi badan air. Dengan kata lain, semakin tinggi nilai RAC dan CF maka sedimen suatu perairan memiliki potensi sebagai kontaminan logam berat di badan air.
+Penelitian ini dilakukan untuk mengevaluasi potensi sedimen perairan di sekitar wilayah reklamasi lumpur Lapindo sebagai sumber kontaminan logam berat Pb, Cu, dan Zn di badan air pada ekosistem muara di muara Sungai Porong, Kabupaten Sidoarjo berdasarkan nilai RAC dan CF.
+METODE PENELITIAN
+Alat-alat yang digunakan dalam penelitian ini adalah Eickman grab sampler, GPS (Garmin 76S), konduktometer (WTW), pH meter digital (HANNA instruments), termometer digital (DEK) ,salinometer (ATAGO), serangkaian peralatan gelas, shaker (Edmund Buhler), sentrifugator (Hettich), ayakan 150 dan 200 mesh dan Atomic Adsorption Spectrophotometer (AAS) (Shimadzu AA-6200). Bahan yang digunakan yaitu asam nitrat (HNO3) 65 % (v/v) (JT Baker), asam asetat glasial (CH3COOH) (Merck), hidrogen peroksida (H2O2) (Merck), ammonium asetat (NH4CH3COO) (Merck), hidroksilamin hidroklorida (NH2OH.HCl) (Merck), asam klorida (HCl) (Merck), tembaga(II) nitrat (Cu(NO3)2) (Merck), seng(II) nitrat (Zn(NO3)2) (Merck), timbal (II) nitrat (Pb(NO3)2) (Merck), dan aquademin.
+Sampling sedimen
+Sampling dilakukan pada bulan September tahun 2015. Sampel sedimen diambil dari dasar perairan di sekitar pulau Sarinah, Tlocor, Kabupaten Sidoarjo pada dua lokasi yaitupada perairan laut (lokasi 1 dengan koordinat 7°34'26.76" LS, 112°52'53.76" BT) dan pada perairan muara (lokasi 2 dengan koordinat 7°33'31.35" LS, 112°51'05.56" BT). Jarak antara kedua lokasi sekitar 5 km. Pada setiap lokasi diambil tiga sampel yang kemudian dicampur menjadi satu sebagai sampel sedimen untuk analisis. Sampel sedimen diambil menggunakan Eickmen grab sampler (SNI 6989.58:2008). Sedimen dimasukkan ke polybag kemudian disimpan pada suhu 4 °C (SNI 03-7016:2004).
+
+Ekstraksi Fraksi Geokimia Logam Berat
+Fraksi geokimia logam berat diekstrak secara bertahap dari sampel sedimen dengan metode CBR (Community Bureau of Reference) (Tessier, 1979) dimodifikasi oleh Chakraborty et al. (2015). Tahapan ekstraksi fraksi geokimia meliputi:
+a) Fraksi 1: Logam terlarut dalam air pori sedimen
+Sedimen diambil sebanyak 5 g, dilarutkan dalam aquademin dengan massa/volume = 1 : 25 hingga volume akhirnya 130 mL dan dikocok dengan shaker selama 8 jam. Selanjutnya, filtrat dipisahkan dengan residu melalui sentrifugasi selama 20 menit. Konsentrasi logam berat fraksi 1 dalam filtrat ditentukan dengan AAS.
+b) Fraksi 2: Fraksi logam yang mudah dipertukarkan dan dalam bentuk karbonat/ bikarbonat
+Residu sedimen dari fraksi 1 ditambahkan dengan 20 mL aquademin,dikocok dengan shaker selama 15 menit, disentrifugasi selama 20 menit. Residu yang diperoleh dikeringkan dalam oven pada 105 °C kemudian ditimbang. Selanjutnya, residu dilarutkan dalam asam asetat glasial 0,11 M dengan massa/volume = 1 : 40, dikocok dengan shaker selama 16 jam, dan disentrifugasi selama 20 menit. Filtrat hasil sentrifugasi dianalisis dengan AAS untuk menentukan konsentrasi fraksi 2 logam berat.
+c) Fraksi 3: Logam teradsorpsi pada permukaan oksida Fe-Mn (fraksi reducible)
+Residu hasil sentrifugasi pada fraksi 2 dicuci dengan 20 mL aquademin, dikocok dengan shaker selama 15 menit, dan disentrifugasi selama 20 menit. Residu yang dihasilkan kemudian dikeringkan dalam oven pada 105 °C, ditimbang, dan ditambahkan hidroksilamin hidroklorida 0,5 M dengan massa/volume = 1 : 40. Campuran kemudian dikocok dengan shaker selama 16 jam dan disentrifugasi selama 20 menit. Filtrat hasil sentrifugasi dianalisis dengan AAS untuk menentukan konsentrasi logam berat pada fraksi 3.
+d) Fraksi 4: Logam yang terikat pada bahan organik (fraksi oksidasi).
+Residu pada ekstraksi fraksi 3 dicuci dengan 20 mL aquademin, dikocok dengan shaker selama 15 menit, dan disentrifugasi selama 20 menit. Residu kemudian dikeringkan dalam oven pada 105 °C, ditimbang, dilarutkan dalam 10 mL hidrogen peroksida 30 %. Campuran kemudian didestruksi selama 1 jam pada suhu ruang dan dilanjutkan pada suhu 85 °C selama 1 jam dalam waterbath sampai volume berkurang 3 mL. Kedalam hasil destruksi ditambahkan 10 mL hidrogen peroksida 30 % didestruksi lagi pada suhu 85 °C selama 1 jam. Larutan didinginkan kemudian ditambahkan amonium asetat 1 M dengan massa/volume = 1 : 50, dikocok dengan shaker selama 16 jam, dan disentrifugasi selama 20 menit. Filtrat dipisahkan dari residu, kemudian dianalisis dengan AAS untuk menentukan konsentrasi fraksi 4.
+e) Fraksi 5: Fraksi resistan
+Residu sedimen dari ekstraksi fraksi 4 dicuci dengan 20 mL aquademin,dikocok dengan shaker selama 15 menit, dan disentrifugasi selama 20 menit. Residu hasil sentrifugasi kemudian dikeringkan dalam oven pada 105 oC dan ditimbang. Selanjutnya, residu didestruksi dengan menambahkan campuran asam 10 mL (aquademin, asam klorida dan asam nitrat dengan perbandingan 1: 7: 2) sampai volume berkurang hingga sepertiganya dan terjadi perubahan warna dari merah kekuningan menjadi jernih. Kemudian larutan destruksi kemudian disentrifugasi selama 20 menit. Filtrat yang dihasilkan dianalis dengan AAS untuk menentukan konsentrasi logam berat fraksi 5.
+Evaluasi Potensi Sedimen Perairan sebagai Sumber Kontaminan
+Evaluasi potensi sedimen sebagai sumber kontaminan logam berat dilakukan dengan menentukan nilai faktor kontaminasi (CF) dan kode penilaian resiko (RAC) menggunakan persamaan 1 dan 2. r: ……………… (1)
+Menurut Aktaruzzaman et al. (2012) nilai CF diinterpretasikan sebagai berikut, nilai CF = 0 tidak tercemar, CF<1 kontaminasi rendah, 1≤CF<3 kontaminasi moderat, 3≤CF<6 cukup terkontaminasi dan CF>6 = tingkat kontaminasi sangat tinggi. r: ……………………………… (2)
+Menurut Pawlowski et al. (2013) dan Nemati et al. (2011) nilai RAC diinterpretasikan sebagai berikut : RAC<1 % sedimen tidak menimbulkan resiko kontaminasi lingkungan, RAC 1-10 % resiko rendah, RAC 11-30 % resiko sedang , RAC 31-50 % resiko tinggi, RAC> 50 % resiko tinggi dan sangat berbahaya.
+
+
+PEMBAHASAN
+Distribusi Fraksi Geokimia Logam Berat
+Lumpur Lapindo yang dibuang melalui Sungai Porong pada akhirnya mengendap di dasar muara sungai. Lumpur yang mengandung logam berat bercampur dengan sedimen perairan sehingga logam berat yang berada di dalamnya dimungkinkan untuk terlepas dari sedimen menuju badan air ketika terjadi perubahan kondisi lingkungan seperti pH, potensial redoks, dan salinitas. Keberadaan logam berat dalam sedimen dapat berupa ion terlarut dalam air pori sedimen, berinteraksi lemah dengan gugus fungsi yang berada dipermukaan sedimen baik yang berasal dari koloid liat maupun bahan organik penyusun sedimen, teradsorpsi pada permukaan koloid oksi/hidroksida besi dan mangan, maupun terikat kuat sebagai mineral penyusun sedimen. Interaksi logam berat dengan penyusun sedimen inilah yang selanjutnya disebut sebagai fraksi geokimia logam berat. Persentase fraksi geokimia logam berat Pb, Cu, dan Zn dari sedimen perairan diwilayah reklamasi lumpur Lapindo pada lokasi 1 (muara sungai yang berdekatan dengan air tawar/air sungai) dan lokasi 2 (muara sungai yang berdekatan dengan air laut) ditunjukkan pada Gambar 1 dan 2.
+Gambar 1. Persentase fraksi geokimia logam Pb, Cu dan Zn pada lokasi 1.
+Sebagaimana nampak pada Gambar 1, pada lokasi 1 logam Zn lebih tinggi konsentrasinya dibandingkan logam Cudan Pb. Logam Zn pada lokasi 1 lebih banyak sebagai fraksi 5 (19,291 %). Sementara pada lokasi 2 pada salinitas yang lebih tinggi, logam Zn lebih dominan dibandingkan logam Cu dan Pb. Pada lokasi ini, logam tersebut utamanya berada sebagai fraksi 5 (17,611 %).
+
+
+Gambar 2. Persentase fraksi geokimia logam Pb, Cu dan Zn pada lokasi 2.
+Tabel 1. Nilai CF and RAC pada logam berat Pb, Cu dan Zn.
+Lokasi
+Logam
+CF
+Keterangan
+RAC (%)
+Keterangan
+Laut
+Pb
+2,5715 1≤CF<3 kontaminasi moderat/sedang**
+20,855
+RAC 11-30 % resiko sedang*
+Cu
+3,6064
+3≤CF<6
+cukup tinggi **
+31,174
+RAC 31-50 % resiko tinggi*
+Zn
+2,0705
+1≤CF<3
+kontaminasi moderat/sedang**
+21,081
+RAC 11-30 % resiko sedang*
+Muara
+Pb
+2,5878
+1≤CF<3
+kontaminasi moderat/sedang**
+27,371
+RAC 11-30 % resiko sedang*
+Cu
+5,7948
+3≤CF<6
+cukup tinggi **
+27,945
+RAC 11-30 % resiko sedang *
+Zn
+2,4966
+1≤CF<3
+kontaminasi moderat/sedang**
+20,607
+RAC 11-30 % resiko sedang*
+*Jain et al. (2004) dalam Nemati (2011) **Hakanson (1980) dalam Aktaruzzaman et al. (2014)
+Evaluasi Potensi Sedimen
+Evaluasi potensi sedimen perairan di wilayah reklamasi lumpur Lapindo dilakukan dengan menentukan nilai CF dan RAC sebagaimana tampak pada Tabel 1. Pada kedua lokasi, logam Cu memiliki nilai CF tertinggi dengan kisaran 3≤CF<6 (cukup tinggi kontaminasinya) sehingga sedimen berperan besar dalam mengontaminasi badan air. Hal ini karena Cu lebih mudah terlepas dari sedimen ke badan air dibandingkan logam Pb dan Zn. Dengan kata lain, sedimen perairan di muara sungai Porong yang telah mendapat limpasan lumpur Lapindo mempunyai potensi melepaskan logam Cu ke badan air.
+Gambar 3. Grafik hubungan antara CF logam Pb, Cu dan Zn pada setiap lokasi.
+Keterangan : notasi yang sama menunjukkan tidak berbeda nyata berdasarkan uji Brown Forsythe yang dilanjutkan dengan uji Games Howell pada α 0.05.
+Dari Gambar 3 uji beda nyata yang dilakukan dengan uji statistik diperoleh nilai CF logam Pb, Cu dan Zn pada sedimen laut nilainya berbeda nyata. Sedangkan pada sedimen muara logam Pb dan Zn nilainya juga berbeda nyata dengan logam Cu. Dapat dikatakan bahwa ketiga logam pada sedimen laut dan muara memiliki waktu retensi dan risiko kontaminasi yang berbeda kecuali CF (Pb) dan CF (Zn) pada sedimen muara. Hal ini dikarenakan ketiga logam mempunyai sifat yang berbeda.
+Pada sedimen laut maupun muara, logam Cu memiliki nilai CF paling tinggi dibandingkan logam Pb dan Zn. Nilai CF logamCu yang tinggi dikarenakan logam Cu memiliki afinitas yang tinggi untuk berasosiasi dengan bahan organik (Selim dan Kingery, 2003; Mohamed dan Antia, 1998) dan oksida Fe dan Mn (Mohamed dan Antia, 1998) sehingga nilai fraksi non resistan logam Cu tinggi.
+Logam Cu yang berasosiasi dengan bahan organik dan oksida Fe dan Mn akan mudah lepas ke badan air dibawah kondisi oksidasi maupun reduksi (Sharmin et al., 2010). Namun logam CF untuk logam Cu sedimen laut nilainya lebih rendah dibandingkan CF Cu sedimen muara disebabkan karena pada pH yang tinggi seperti pada sedimen laut logam Cu juga akan berasosiasi dengan fraksi resistan (Mohamed dan Antia, 1998). Fraksi resistan yang tinggi menyebabkan rendahnya nilai CF karena nilai konsentrasi resistan berbanding terbalik dengan nilai CF.
+
+Pada sedimen laut maupun muara, nilai CF untuk logam Pb dan Zn lebih rendah dibandingkan nilai CF untuk logam Cu. Hal ini disebabkankarena pada range pH 6-7 seperti pada sedimen laut dan muara kelarutan dari logam Pb menurun (Sravani, 2012). Pada pH 6 atau lebih, kelarutan Zn juga dibatasi oleh pengendapan dari Zn oksida, hidroksida dan karbonat (Mohamed dan Antia, 1998) sehingga nilai CF untuk logam Pb dan Zn lebih rendah.
+Gambar 4. Nilai RAC logam Pb, Cu dan Zn pada setiap lokasi.
+Keterangan : notasi yang sama menunjukkan tidak berbeda nyata berdasarkan Anova yang dilanjutkan dengan uji Tukey HSD pada α 0.05.
+Sebagaimana nampak pada Tabel 1, sedimen laut memiliki nilai RAC (Cu) yang tinggi yaitu dalam kisaran 31-50 %. Artinya fraksi l dan 2 dari logam Cu lebih tinggi konsentrasinya dibandingkan fraksi 1 dan 2 dari logam Pb dan Zn. Fraksi logam Cu tersebut mudah terlepas dari sedimen dan dapat dimanfaatkan langsung oleh biota di badan air untuk proses metabolisme. Dengan kata lain, sedimen laut berkontribusi besar dalam menyediakan kontaminan logam Cu di badan air karena lebih mobile dibandingkan logam Pb dan Zn (Jain et al., 2004 dalam Nemati, 2011).
+Dari Gambar 4 diperoleh nilai RAC untuk logam Pb dan Zn pada sedimen laut nyata lebih rendah dibandingkan dengan RAC untuk logam Cu. Sedangkan pada sedimen muara nilai RAC untuk logam Zn juga berbeda nyata dengan RAC untuk logam Pb dan Cu. Hal ini sejalan dengan Khan et al. (1982) dalam USEPA (1996) yang menyatakan bahwa logam Cu memiliki mobilitas paling tinggi karena logam Cu mampu berdifusi dengan cepat dan memiliki kelarutan yang tinggi (Hemment, 1996) dalam bentuk klorida (Phillips dan Perry, 1995). Namun nilai RAC untuk logam Cu pada sedimen muara lebih rendah dibandingkan sedimen laut. Hal ini disebabkan tingginya konsentrasi logam yang tersedia secara langsung bagi biota karena logam Cu memiliki ikatan yang labil pada sedimen (Baeyens, 1996). Sementara, pada sedimen laut maupun muara nilai RAC untuk logam Zn lebih rendah. Hal ini karena logam Zn pada sedimen lebih berasosiasi dengan fraksi resistan karena logam Zn umumnya berasal dari sumber geologi (Kabata, 2011) sehingga terikat kuat pada struktur mineral sedimen.
+KESIMPULAN
+Dari hasil penelitian dapat disimpulkan bahwa meskipun di wilayah reklamasi lumpur Lapindo di Pulau Sarinah yang telah ditanami mangrove untuk adsorpsi logam berat dari sedimen perairan, tetapi sedimen di wilayah tersebut memiliki potensi untuk melepaskan kontaminan, dalam hal ini adalah logam Cu. Sedimen perairan di wilayah reklamasi yang berbatasan dengan laut lebih berpotensi melepaskan logam Cu dibandingkan logam Pb dan Zn sebagai kontaminan bagi biota di badan air.

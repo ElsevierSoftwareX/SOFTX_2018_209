@@ -1,0 +1,145 @@
+﻿EFEK PENYIMPANAN BIODIESEL BERDASARKAN STUDI KAJIAN DEGRADASI BIODIESEL CPO
+
+Abstrak
+Biodiesel merupakan ester mono alkil dari asam lemak rantai panjang, seperti CPO (crude palm oil) yang terdegradasi lebih dari 98% secara biologi dalam 3 minggu, sedangkan bahan bakar diesel hanya terdegradasi sebagian. Penelitian ini bertujuan untuk mengamati proses degradasi biodiesel selama masa penyimpanan. Penelitian ini meliputi rancangan tangki biodiesel, kondisi penyimpanan, analisa awal biodiesel, dan studi laju degradasi pada tahap penyimpanan produk dengan ditelaah laju oksidasi pada biodiesel.Hasil penelitian menunjukkan bahwa selama periode proses penyimpanan terjadi proses degradasi biodiesel. Hal ini terlihat dari hasil analisa yang menunjukkan bahwa terjadi kenaikan angka asam selama proses penyimpanan, kenaikan angka penyabunan, penurunan bilangan iodine, kenaikan kadar gliserol total dan penurunan kadar ester di dalam biodiesel. Prediksi periode penyimpanan biodiesel dapat didekati dengan persamaan 𝑦=0,0012𝑥2−0,0052𝑥+0,0609. Dari persamaan tersebut diperoleh bahwa periode maksimal penyimpanan biodiesel adalah 27 minggu. Hasil penelitian juga menunjukkan bahwa penyimpanan biodiesel CPO yang paling baik adalah dengan menggunakan bahan galvanized dengan kondisi penyimpanan yang tertutup.
+Kata kunci: biodiesel; CPO; degradasi; periode penyimpanan
+
+
+PENDAHULUAN
+Bahan bakar alternatif bagi mesin diesel sangat menarik perhatian dunia sebagai akibat adanya krisis energi dunia. Pada awal 1900, minyak nabati telah digunakan sebagai bahan bakar diesel. Selama ini, kebutuhan minyak bumi di Indonesia sebagai pasokan kapasitas kilang masih tergantung pihak luar, sedangkan kebutuhan BBM meningkat sejalan pertumbuhan ekonomi dan penduduk. Untuk itu, perlu alternatif bahan bakar baru guna mereduksi kebutuhan bahan bakar fosil.
+Biodiesel dihasilkan dari minyak nabati ataupun lemak hewani yang memiliki komposisi dan kelakuan berbeda dengan bahan bakar fosil. Biodiesel dari minyak nabati memiliki struktur alkil ester asam lemak yang memiliki rantai molekul panjang jenuh dan tak jenuh, sehingga memiliki sifat ataupun kelakuan yang berbeda dengan bahan bakar fosil. Salah satu sifat utama yang dimiliki biodiesel adalah viskositas lebih tinggi, non volatil dan memiliki karakter poliunsaturated sehingga cenderung membentuk gum akibat oksidasi dan polimerisasi. Berdasarkan hasil penilaian kelayakan biodiesel terhadap lingkungan (Life Cycle Assessment), biodiesel yang berasal dari kelapa sawit menunjukkan sebagai bahan bakar hijau dan berkelanjutan (Yee dkk., 2009).
+Kajian penelitian tentang biodiesel selama ini telah banyak dilakukan peneliti (Salvi dan Panwar, 2012). Biodiesel diproduksi dari reaksi esterifikasi asam lemak bebas, transesterifikasi (Krawczyk, 1996; Kalam dan Masjuki, 2002), pirolisa (Ma dkk., 1999), metanolisis superkritik dengan CO2 dan metanol (Meher dkk., 2004), reaksi esterifikasi dan transesterifikasi enzimatik (Watanabe dkk., 2001; Nelson dkk., 1996), reaksi metanolisis dengan enzim lipase immobilisasi pada CO2 superkritik (Jackson dan King, 1996), perengkahan berkatalisa terhadap minyak nabati tropis (minyak kopra dan minyak kelapa sawit) (Pioch dkk., 1993), intensifikasi sintesa biodiesel dengan multiple frequency ultrasonic flow cell (Manickam dkk., 2014), sintesa biodiesel dengan pelarut dan katalis ionic liquid (Muhammad dkk., 2015), sintesa biodiesel dengan microwave dan ultrasonic dengan katalis padat (Guldhe dkk., 2014).
+Kajian penelitian mengenai degradasi biodiesel selama penyimpanan belum banyak dilakukan. Namun, saat ini telah dikaji pengaruh emisi biodiesel (Wu dkk., 2011), ketidakstabilan biodiesel (Jakeria dkk., 2014), stabilitas biodiesel dalam jangka panjang penyimpanan (Serrano dkk., 2013), dan pengkajian jenis minyak sebagai sumber bahan baku biodiesel yang relatif stabil sehingga tidak memerlukan zat aditif untuk kestabilan biodiesel (Kumar dan Sharma, 2015). Secara umum, biodiesel merupakan salah satu senyawa organik yang berasal dari minyak nabati, dimana senyawa organik dapat dikategorikan mudah terdegradasi, berpotensi terdegradasi, dan tahan terdegradasi (Salvi dan Panwar, 2012). Biodiesel termasuk senyawa organik yang mudah terdegradasi. Hal ini diperkirakan lebih dari 98% terdegradasi selama tiga minggu dan dalam waktu yang sama, bahan bakar solar hanya terdegradasi 50% (Williamson dan Badr, 1998).
+Biodiesel dapat mengalami degradasi bila disimpan dalam waktu yang lama disertai dengan kondisi tertentu. Degradasi biodiesel pada umumnya disebabkan oleh proses oksidasi. Beberapa faktor yang mempengaruhi degradasi biodiesel antara lain keberadaan asam lemak tak jenuh, kondisi penyimpanan (tertutup/terbuka, temperatur, dsb.), unsur logam, dan peroksida. Leung dkk. (2006) menemukan bahwa temperatur tinggi (40ºC) yang disertai dengan keberadaan udara terbuka menyebabkan degradasi yang sangat signifikan pada penyimpanan biodiesel hingga 50 minggu. Konsentrasi asam meningkat pada biodiesel yang telah terdegradasi; hal ini disebabkan oleh putusnya rantai asam lemak metil ester menjadi asam-asam lemak. Keberadaan air (yang terpisah dari biodiesel) dapat membantu pertumbuhan mikroorganisme (Environment Canada, 2006). Temperatur tinggi (40ºC) yang tidak disertai dengan keberadaan udara terbuka; dan sebaliknya udara terbuka tanpa keberadaan temperatur tinggi, tidak menyebabkan degradasi yang signifikan pada biodiesel yang disimpan dalam waktu lama (hingga 50 minggu).
+Penelitian ini bertujuan untuk dapat mengetahui umur biodiesel CPO sebagai bahan bakar alternatif sesuai dengan kualitas biodiesel CPO, dengan perlakuan fisik selama masa penyimpanan berdasarkan data laju degradasi yang diperoleh. Selain itu penelitian ini juga mengamati proses degradasi biodiesel selama masa penyimpanan pada temperatur ruangan. Penelitian ini meliputi rancangan tangki biodiesel (bahan material tangki) dan kondisi penyimpanan. Lebih jauh ditelaah mengenai laju degradasi, khususnya laju oksidasi pada biodiesel. Dari penelitian ini diharapkan sebagai masukan positif untuk mengeliminir degradasi biodiesel selama masa penyimpanan dengan kondisi penyimpanan dan temperatur tertentu.
+METODE PENELITIAN
+Bahan
+Biodiesel CPO yang digunakan berasal dari hasil produksi plant 1,5 ton pada tanggal 15-16 Juli 2009 dari sumber BRDST Plant Serpong (Balai Rekayasa Disain dan Sistem Teknologi) unit kerja BPPT dengan kode sampel EC-0107/2009. Adapun bahan tangki penyimpanan biodiesel diperoleh dari produksi komersial, seperti PVC dan galvanis.
+Eksperimen
+Penelitian tentang studi laju degradasi produk biodiesel pada tahap penyimpanan dilaksanakan secara bertahap meliputi rancang bangun tangki penyimpanan produk biodiesel dengan kapasitas 2,5 liter, analisa awal produk biodiesel dan studi laju degradasi pada tahap penyimpanan produk. Peralatan utama adalah tangki penyimpanan produk yang dilengkapi dengan tempat pengambilan sampel. Peralatan analisa menggunakan mesin kromatografi gas, bomb kalorimeter dan alat analisa titrasi. Peralatan utama/tangki penyimpanan produk biodiesel seperti disajikan dalam Gambar 1.
+Tangki penyimpan biodiesel ini berkapasitas 2,5 liter. Tangki dibuat dari dua buah bahan yaitu PVC dan galvanis serta dikondisikan pada keadaan terbuka dan tertutup. Pada kegiatan ini akan dipelajari pengaruh jenis material dan kondisi penyimpanan terhadap laju degradasi produk biodiesel.
+
+Gambar 1. Tangki penyimpanan produk biodiesel
+Prosedur percobaan dilakukan dengan cara
+bahan biodiesel dimasukkan ke dalam tangki
+penyimpanan dan diatur sesuai dengan kondisi
+penyimpanan. Setiap 7 hari dianalisa kandungan
+bilangan asam, bilangan penyabunan, bilangan iod,
+kadar gliserol total, kadar ester biodiesel dan nilai
+kalor biodiesel akhir. Data-data tersebut dianalisa
+setiap 7 hari (1 minggu) selama 2 bulan. Pertimbangan
+yang diambil adalah waktu penyimpanan suatu produk
+atau waktu tunggu sekitar dua bulan. Data-data yang
+dikumpulkan selanjutnya digunakan untuk pengolahan
+data.
+HASIL DAN PEMBAHASAN
+Analisa Bilangan Asam
+Bilangan asam biodiesel awal diperoleh 5,61 x
+10-2 mg KOH/g biodiesel. Biodisel awal ini menjadi
+umpan dalam tangki-tangki penelitian yang terbuat
+dari PVC dan galvanis dengan kondisi terbuka dan
+tertutup. Gambar 2 merupakan hasil analisa bilangan
+asam selama proses penyimpanan di dalam tangkitangki
+tersebut.
+Keterangan :
+Tangki I = PVC terbuka
+Tangki II = PVC tertutup
+Tangki III = Galvanis terbuka
+Tangki IV = Galvanis tertutup
+Gambar 2. Hubungan antara bilangan asam dengan
+waktu penyimpanan
+Secara keseluruhan sampel pada Gambar 2
+menunjukkan bahwa semakin lama waktu
+penyimpanan maka angka asam biodiesel yang
+disimpan semakin bertambah. Hal ini disebabkan
+karena komposisi kimia dari biodiesel dapat terjadi
+local chemistry reaction. Selain itu dapat juga
+ditunjang keberadaan oksigen dalam biodiesel yang
+ditunjukkan dengan tempat penyimpanan terbuka
+memiliki angka asam lebih tinggi (Gambar 1).
+Oksigen dapat membuat biodiesel lebih agresif
+bereaksi dan menghasilkan senyawa degradasi seperti
+asam, aldehid, keton, senyawa tak terlarut (Jakeria
+dkk., 2014). Reaksi esterifikasi adalah reaksi
+reversibel sehingga ada kemungkinan ester yang
+terbentuk terdegradasi menjadi asam lemak bebas.
+Selain itu tidak semua asam terkonversi menjadi
+biodiesel.
+Kondisi penyimpanan yang paling bagus
+adalah kondisi penyimpanan dimana biodiesel yang
+disimpan paling rendah asam lemak bebasnya. Dari
+Tabel 1 terlihat bahwa biodiesel yang angka asamnya
+paling rendah adalah penyimpanan pada tangki IV
+yaitu tangki yang terbuat dari galvanis dengan kondisi
+tertutup.
+Analisa Angka Penyabunan
+Seperti halnya pada saat analisa bilangan asam,
+umpan biodiesel juga dianalisa angka penyabunan.
+Adapun angka penyabunan biodiesel awal diperoleh
+17,95 mg KOH/g biodiesel. Gambar 3 berikut
+menunjukkan hasil analisa angka penyabunan selama
+penyimpanan biodiesel pada tangki berbahan berbeda
+dan perlakuan yang berbeda pula.
+Keterangan :
+Tangki I = PVC terbuka
+Tangki II = PVC tertutup
+Tangki III = Galvanis terbuka
+Tangki IV = Galvanis tertutup
+Gambar 3. Hubungan antara angka penyabunan
+dengan waktu penyimpanan
+Dari Gambar 2 terlihat bahwa angka
+penyabunan meningkat seiring dengan lamanya waktu
+penyimpanan. Seharusnya angka penyabunan relatif
+tetap karena asam totalnya juga relatif tetap. Kenaikan
+angka penyabunan kemungkinan disebabkan karena auto-oxidation ataupun kontaminasi bahan penyimpan (Jakeria dkk., 2014).
+Analisa Bilangan Iodine
+Analisa bilangan iodine juga dilakukan pada umpan awal biodiesel dengan perolehan sebesar 27,92 % b. Gambar 4 berikut merupakan hasil analisa bilangan iodine selama proses penyimpanan biodiesel pada jenis dan perlakuan tangki yang berbeda-beda.
+Keterangan :
+Tangki I = PVC terbuka
+Tangki II = PVC tertutup
+Tangki III = Galvanis terbuka
+Tangki IV = Galvanis tertutup
+Gambar 4. Hubungan antara angka iodine dengan waktu penyimpanan
+Gambar 4 menunjukkan bahwa semakin lama waktu penyimpanan maka bilangan iodine biodiesel yang disimpan semakin menurun. Hal ini terjadi untuk semua kondisi penyimpanan dan untuk semua kondisi bahan tangki penyimpan. Bilangan Iod menunjukkan jumlah ikatan rangkap yang ada dalam biodiesel tersebut. Semakin banyak ikatan rangkapnya maka bilangan iodnya makin tinggi.
+Bilangan iodine biodiesel di atas semakin menurun, hal ini menunjukkan bahwa ikatan rangkapnya semakin berkurang menjadi ikatan tunggal yang pada akhirnya nanti akan jenuh. Ini membuktikan bahwa telah terjadi degradasi biodiesel selama masa penyimpanan walaupun pada penyimpanan minggu ke-8 penurunannya belum terlalu besar. Penurunan terbesar terjadi pada kondisi penyimpanan dengan bahan baku pralon/plastik dengan kondisi terbuka. Namun demikian, dari literatur lain menunjukkan bahwa biodiesel yang berumur 6 bulan telah kehilangan kestabilan dan tidak dapat digunakan sebagai bahan bakar (Jakeria dkk., 2014).
+Pada kondisi terbuka, sangat memungkinkan terjadinya kontak dengan udara sehingga terjadi proses oksidasi. Oksidasi ini yang menyebabkan degradasi pada biodiesel. Hal ini dikarenakan biodiesel yang terdiri dari komponen tidak jenuh (unsaturated) dengan ikatan rangkap dan lebih sedikit hidrogen menyebabkan lebih sensitif untuk terjadi oksidasi. Jika terekspos dengan oksigen, maka oksigen akan menempel pada ikatan rangkap dan menginisiasi auto-oksidasi yang menghasilkan peroksida dengan menghilangkan hidrogen dan menghasilkan free radical carbon (inisiasi). Free radical ini bereaksi dengan diatomic oksigen (propagasi). Reaksi ini akan berakhir ketika dua free radical bereaksi menghasilkan produk stabil (terminasi) (Jakeria dkk., 2014).
+Analisa Kadar Gliserol Total
+Demikian pula kadar gliserol total biodiesel awal dianalisa dengan perolehan sebesar 0,14% b. Selama penyimpanan, analisa kadar gliserol juga telah dilakukan dengan variabel jenis tangki dan perlakuan yang berbeda. Hal ini dapat dilihat pada Gambar 5 berikut ini.
+Keterangan :
+Tangki I = PVC terbuka
+Tangki II = PVC tertutup
+Tangki III = Galvanis terbuka
+Tangki IV = Galvanis tertutup
+Gambar 5. Hubungan antara kadar gliserol total dengan waktu penyimpanan
+Kadar gliserol total dari biodiesel semakin meningkat seperti ditunjukkan pada Gambar 5. Semakin lama waktu penyimpanan maka kadar gliserolnya semakin meningkat. Proses pembentukan biodiesel melalui dua tahap yaitu proses esterifikasi dan proses transesterifikasi. Proses transesterifikasi membentuk gliserol dan biodiesel. Akibat dari lamanya proses penyimpanan maka terjadi reaksi transesterifikasi oleh sisa alkohol yang terkandung dalam biodiesel. Hal ini mengakibatkan kadar gliserol biodiesel yang disimpan terlalu lama menjadi meningkat.
+Analisa Kadar Ester Biodiesel
+Adapun kadar ester biodiesel awal telah dilakukan analisa dan diperoleh kadar eseter sebesar 98,07 %. Selanjutnya analisa kadar ester biodiesel tetap dilakukan selama penyimpanan biodiesel dalam tangki dengan jenis dan perlakuan yang berbeda, seperti yang tertulis dalam Gambar 5 berikut ini.
+
+Keterangan :
+Tangki I = PVC terbuka
+Tangki II = PVC tertutup
+Tangki III = Galvanis terbuka
+Tangki IV = Galvanis tertutup
+Gambar 6. Hubungan antara kadar ester dengan waktu penyimpanan
+Proses pembuatan biodiesel membentuk ester pada produk akhirnya. Ester merupakan sisa yang tidak terkonversi menjadi biodiesel. Kadar ester akan menjadi semakin berkurang seiring dengan lamanya proses penyimpanan seperti yang ditunjukkan pada Gambar 6.
+Penurunan kadar ester ini disebabkan oleh proses oksidasi yang mengakibatkan biodiesel yang ada menjadi terdegradasi. Karena proses degradasi inilah maka ester yang ada berubah menjadi asam dan gliserol seperti yang ditunjukkan pada Gambar 2 dan 5 dimana semakin lama waktu penyimpanan maka angka asamnya semakin meningkat dan kadar gliserolnya juga semakin meningkat. Dengan meningkatnya angka asam berarti jumlah asamnya semakin banyak dan dengan meningkatnya kadar gliserol total maka jumlah gliserolnya juga semakin banyak akibat dari proses transesterifikasi. Dengan semakin meningkatnya angka asam dan kadar gliserol total maka kadar ester yang terkandung dalam biodiesel otomatis menjadi semakin menurun.
+Analisa Kalor Biodiesel
+Nilai kalor biodiesel awal diperoleh 9528,84 cal/g. Nilai kalor biodiesel akhir diambil setelah proses penyimpanan minggu ke-8. Hasil analisa ke-empat jenis biodiesel yang berbeda tangki penyimpanan ditabulasikan dalam Tabel 1.
+Tabel 1. Hasil analisa nilai kalor dengan Bomb Calorimeter
+Nilai Kalor (cal/g)
+Tangki I
+Tangki II
+Tangki III
+Tangki IV
+9482,85
+9462,69
+9478,61
+9514,59
+Dari analisa nilai kalor yang disajikan pada Tabel 1 terlihat bahwa nilai kalor menurun pada akhir masa penyimpanan yaitu pada minggu ke-8. Namun penurunan tersebut masih relatif kecil, tidak begitu signifikan. Nilai kalor yang paling bagus adalah nilai kalor pada kondisi penyimpanan biodiesel dengan tangki galvanized pada kondisi tertutup. Hal ini disebabkan karena pada kondisi penyimpanan tertutup, kemungkinan biodiesel terdegradasi oleh proses oksidasi menjadi semakin kecil sehingga nilai kalor dari biodiesel masih relatif besar.
+Prediksi Lama Waktu Proses Penyimpanan Biodiesel
+Lama waktu proses penyimpanan biodiesel maksimum yang masih diperbolehkan dimana sifat-sifat biodiesel belum terdegradasi total akibat proses oksidasi bisa dilihat dari angka asamnya. Semakin besar angka asamnya berarti biodiesel yang ada semakin terdegradasi. Kenaikan besarnya angka asam sepanjang waktu penyimpanan bisa didekati dengan menggunakan persamaan 1. Persamaan 1 diperoleh dari hubungan antara bilangan asam dengan waktu penyimpanan terbaik, dalam hal ini perolehan bilangan asam terendah, yaitu dalam tangki IV dengan nilai 𝑅2 sebesar 0,97.
+𝑦=0,0012𝑥2−0,0052𝑥+0,0609 (1)
+Dengan menggunakan persamaan tersebut dapat diprediksikan periode penyimpanan biodiesel maksimal. Dari standar biodiesel diperoleh bahwa angka asam maksimal yang diijinkan adalah 0,8 mg KOH/g biodiesel. Dengan memasukkan periode waktu penyimpanan pada persamaan di atas maka akan diperoleh harga angka asamnya.
+Ketika memasukkan periode waktu penyimpanan 27 minggu diperoleh angka asam 0,80 mg KOH/g dan ketika memasukkan periode waktu penyimpanan 28 minggu maka akan diperoleh angka asam 0,86 mg KOH/g. Dengan demikian dapat ditarik kesimpulan bahwa penyimpanan biodiesel dalam suatu tangki tidak boleh melebihi 27 minggu dari waktu produksinya.
+KESIMPULAN
+Dari percobaan di atas dapat disimpulkan bahwa semakin lama waktu penyimpanan maka angka asam biodiesel, angka penyabunan, kadar gliserol total semakin bertambah. Sebaliknya bilangan iodine, kadar ester dan nilai kalor biodiesel yang disimpan semakin menurun seiring dengan lamanya proses penyimpanan. Indikator-indikator tersebut menunjukkan telah terjadi proses degradasi biodiesel. Lama waktu proses penyimpanan biodiesel maksimum yang masih diperbolehkan bisa dilihat dari angka asamnya. Persamaan yang dapat dipergunakan untuk memprediksikan maksimum lamanya penyimpanan biodiesel adalah 𝑦=0,0012𝑥2−0,0052𝑥+0,0609. Dari persamaan tersebut diperoleh bahwa periode penyimpanan biodiesel dalam suatu tangki tidak boleh melebihi 27 minggu dari waktu produksinya. Tangki yang paling baik untuk penyimpanan biodiesel adalah tangki yang terbuat dari galvanis dengan kondisi penyimpanan tertutup.

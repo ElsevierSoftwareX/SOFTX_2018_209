@@ -1,0 +1,20 @@
+﻿Indonesia merupakan negara agraris yang sebagian besar penduduknya bermata pencaharian di sektor pertanian. Sektor pertanian menjadi sangat penting, dimana laju pertumbuhan penduduk yang tinggi tidak seimbang dengan luas lahan pertanian yang sudah ada. Untuk mengatasi hal ini, perlu adanya suatu terobosan yaitu dengan meningkatkan hasil panen pertanian dengan lahan yang minimalis. Oleh karena itu, penggunaan sistem pertanian secara hidroponik sangat cocok digunakan untuk peningkatan efisiensi pertanian. Penggunaan sistem ini diharapkan peningkatan kualitas dan kuantitas hasil pertanian dapat tercapai.
+Hidroponik yang selama ini digunakan perlu ditingkatkan lagi, yaitu dengan menggunakan sistem otomasi. Sistem otomasi hidroponik ini menggunakan Arduino Duemilanove sebagai mikrokontroler, DHT 11 dan soil moisture sensor sebagai sensor, dengan pompa dan kipas sebagai aktuator.
+Penelitian ini diterapkan langsung pada hidroponik jenis flood and drain dengan dimensi 2,6m (panjang) X 1,8m (lebar) X 2m (tinggi). Sistem hidroponik ini sudah berjalan baik dengan error 6% kelembaban dan 4% temperatur pada sensor DHT 11.
+Kata kunci: Hidroponik, Sistem otomasi, Sistem flood and drain.
+
+I. PENDAHULUAN
+A. Latar Belakang
+Indonesia merupakan negara agraris yang sebagian besar penduduknya bermata pencaharian di sektor pertanian. Sektor pertanian menjadi sangat penting, di mana laju pertumbuhan penduduk yang tinggi tidak seimbang dengan luas lahan pertanian yang sudah ada. Untuk mengatasi hal ini, perlu adanya suatu terobosan yaitu dengan meningkatkan hasil panen pertanian dengan lahan yang minimalis. Khususnya di daerah perkotaan, pemanfaatan lahan kosong seperti atap gedung, lantai basement, gudang yang tidak terpakai dapat dimaksimalkan peruntukannya sebagai lahan pertanian yaitu dengan sistem pertanian secara hidroponik (Sibarani, 2005).
+Sistem pertanian secara hidroponik yaitu sistem pertanian yang memanfaatkan air langsung sebagai media nutrisi (nutrient) tanpa menggunakan tanah sebagai media tanam. Penggunaan tanah sebagai media tanam dapat digantikan dengan media tanam yang lain seperti pasir, pecahan batu bata, sabut kelapa, busa, rockwool, dll (Lingga, 1984). Sifat alami dari tanaman akan tetap tumbuh dengan baik, apabila nutrisi yang dibutuhkan selalu tercukupi. Oleh karena itu, penggunaan sistem pertanian secara hidroponik sangat cocok digunakan di negara-negara yang berbasis pertanian. Penggunaan sistem ini diharapkan
+peningkatan kualitas dan kuantitas hasil pertanian dapat tercapai. Penggunaan sistem ini di Indonesia masih kurang dikarenakan masih banyak masyarakat yang belum tahu dengan jelas bagaimana cara melakukan dan keuntungan-keuntungan yang diperoleh dengan menggunakan sistem ini terlebih pengembangannya. Penggunaan sistem pertanian secara hidroponik di negara maju khususnya di negara-negara dengan tingkat populasi penduduk yang tinggi sudah dilakukan oleh individu sebagai hobi dan juga secara besar-besaran untuk tujuan komersil (Istiqomah, 2013).
+Pemanfaatan otomasi untuk sistem pertanian secara hidroponik yang sudah ada perlu diperbaiki lagi agar kinerja dari sistem ini lebih baik lagi. Contohnya, belum dipakainya kontrol untuk menghidupmatikan pompa yang digunakan untuk mengalirkan air pada sistem hidroponik. Hal ini menyebabkan pompa hidup terus menerus dan mengakibatkan penggunaan listrik yang berlebihan pada sistem hidroponik. Oleh karena itu, penulis sangat tertarik untuk melakukan penelitian dengan judul “APLIKASI PENGGUNAAN MIKROKONTROLER UNTUK REGULASI SUHU, LEVEL AIR, DAN KELEMBABAN PADA SISTEM COCOK TANAM HIDROPONIK”.
+B. Tujuan Penelitian
+Adapun tujuan dari penelitian ini yaitu membuat sistem otomasi berbasis mikrokontroler pada hidroponik.
+
+C. Batasan Masalah
+Batasan masalah dalam penelitian ini adalah sebagai berikut:
+1. Penelitian pada pengaturan level air, suhu, kelembaban, kontrol aktuator dari hidroponik sendiri.
+2. Penerapan sistem otomasi menggunakan hidroponik dengan jenis flood and drain.
+3. Pengontrolan aktuator menggunakan Arduino Duemilanove.
+roses penelitian.

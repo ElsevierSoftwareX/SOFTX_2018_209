@@ -1,0 +1,561 @@
+﻿Determinan Antigen Gen omp2a Brucella abortus Isolat Lokal
+
+ABSTRAK
+Penyakit Brucellosis pada sapi disebabkan oleh Brucella abortus dan dikenal sebagai penyakit
+reproduksi menular pada ternak. Brucellosis merupakan penyakit zoonosis karena dapat menular
+pada manusia. Penelitian ini bertujuan untuk mengetahui determinan antigen yang terdapat pada gen
+omp2a B. abortus isolat lokal yang telah diblasting ke asam amino (protein). Sampel bakteri berasal
+dari sapi penderita Brucellosis asal Sulawesi Selatan dan Nusa Tenggara Timur. Gen omp2a diamplifikasi
+melalui tehnik Polymerase Chain Reaction (PCR) dengan menggunakan primer 2ab5F dan 2a900R.
+Produk PCR disekuensing untuk mendapatkan sekuen nukleotida gen omp2a B. abortus isolat lokal.
+Sekuen nukleotida ini dianalisis tingkat homologinya terhadap isolat asal mancanegara yang diakses
+dari GenBank dengan menggunakan BLAST. Sekuen nukleotida gen omp2a diblasting ke asam amino
+kemudian dengan metode Kolaskar dan Tongaonkar antigenicity dapat diperoleh determinan antigen
+pada antigen protein membran luar (OMP) B. abortus isolat lokal. Hasil menunjukkan bahwa tingkat
+homologi antara sekuen gen omp2a B. abortus isolat lokal dengan isolat asal mancanegara mempunyai
+tingkat homologi yang tinggi (99% - 100%). Hasil prediksi determinan antigen didapatkan enam
+determinan antigen pada antigen OMP B. abortus isolat lokal.
+Kata kunci: Brucella abortus, gen omp2a, homologi, determinan antigen
+
+PENDAHULUAN
+Brucellosis adalah penyakit zoonosis yang secara
+ekonomis merugikan dan mempengaruhi kesehatan
+masyarakat. Cara penularan penyakit ini
+pada manusia melalui kontak atau mengonsumsi
+produk ternak berupa susu dan daging. Pada manusia
+Brucellosis menyebabkan demam yang bersifat
+undulant dan disebut “Demam Malta” yang
+sulit diobati (Briones et al., 2001). Brucellosis pada
+sapi disebabkan oleh Brucella abortus yang merupakan
+bakteri Gram negatif, kokoid dan hidupnya
+fakultatif intraseluler (Eskra et al., 2003; Abtahi et
+al., 2007). Di Indonesia Brucellosis dikenal sebagai
+penyakit reproduksi menular pada sapi yang
+menyebabkan abortus pada sapi bunting, retensi
+plasenta, orchitis dan epididimitis (Noor, 2006).
+Penegakan diagnosis Brucellosis memerlukan
+suatu uji sensitivitas tinggi. Uji serologis di lapangan
+yang merupakan Gold Standard adalah Rose
+Bengal Test (RBT) sebagai uji saring dan Complement
+Fixation Test (CFT) sebagai uji konfirmasi. Namun
+uji CFT ini sering terjadi reaksi komplementer
+akibat serum mengalami hemolisis, sedangkan
+ELISA (Enzime-Linked Immunosorbent Assay) dengan
+menggunakan antigen utuh memiliki sensitivitas
+lebih tinggi dibanding RBT dan CFT (Sulaiman,
+2003). Kelemahan uji serologis karena menggunakan
+antigen utuh sehingga sering terjadi reaksi silang
+dengan bakteri lain dan mengakibatkan positif
+palsu. Untuk mengatasi kendala tersebut diperlukan
+antigen yang bersifat antigenik yang mempunyai
+sensitifitas dan spesifisitas yang tinggi (Rantam,
+2003).
+Protein membran luar (outer membrane protein,
+OMP) Brucella spp. sangat penting karena merupakan
+antigen yang poten untuk pembuatan vaksin
+dan reagen diagnostik (El-Mohammady et al.,
+2012). Menurut Salhi et al. (2003) dan Forestier et al.
+(2005), OMP bakteri Gram negatif merupakan antigen
+potensial yang dapat secara langsung menginduksi
+respon imun spesifik humoral yaitu sel limfosit
+ß sehingga lebih cepat memacu terbentuknya
+antibodi. Antigen adalah substansi yang dapat dikenali
+dan diikat dengan baik oleh sistem imun. Tidak
+setiap bagian dari antigen dapat berinteraksi dengan
+molekul sistem imun. Bagian antigen yang secara
+langsung berikatan dengan molekul reseptor
+dikenal dengan determinan antigen atau disebut
+epitop (Rantam, 2003). Antigen OMP mayor Brucella
+terdiri dari tiga grup yaitu: grup 1 yang mempunyai
+berat molekul antara 88 sampai 94 kDa, grup
+2 mempunyai berat molekul antara 33 sampai 43
+kDa, dan grup 3 mempunyai berat molekul 25 sampai
+31 kDa (El-Mohammady et al., 2012). Gen penyandi
+grup 2 porin protein terdiri dari dua gen yaitu
+omp2a dan omp2b yang terletak pada genom Brucella
+(Salehi et al., 2006). Gen omp2a menyandi protein
+dengan berat molekul 33 kDa, sedangkan gen
+omp2b menyandi protein dengan berat molekul 36
+kDa. Gen omp2a dan omp2b adalah homolog yang
+mengekspresikan asam amino dengan komposisi
+dan struktur yang sama dengan asam amino yang
+dihasilkan oleh gen omp2b (Cloeckaert & Vizcaino,
+2004). Penelitian ini bertujuan untuk mengetahui
+determinan antigen pada gen omp2a B. abortus isolat
+lokal yang telah diblasting ke asam amino (protein)
+dan homologi antara gen omp2a B. abortus
+isolat lokal dengan isolat asal mancanegara.
+BAHAN DAN METODE
+Sampel Kultur dan Bakteri
+B. abortus isolat lokal berasal dari sapi penderita
+Brucellosis asal Sulawesi Selatan (Sulsel) dan
+Nusa Tenggara Timur (NTT) yang diperoleh dari
+Balai Besar Veteriner (BBV) Maros. Isolat bakteri dikultur
+pada media selektif Brucella agar base (BAB)
+yang diperkaya dengan 2,5% serum sapi kemudian
+diinkubasi pada 37 ºC selama 3 hari dengan penambahan
+5% CO2. Koloni yang tumbuh diidentifikasi
+dengan uji biokimia atau menurut prosedur standar
+uji bakteriologis (Alton et al.,1998; OIE, 2000; Quinn
+et al., 2002).
+Ekstraksi DNA
+Biakan murni dari masing-masing isolat B.
+abortus (isolat asal Sulsel dan NTT), isolat B. abortus
+asal Kendari (sebagai kontrol positif) dan isolat
+E.coli (sebagai kontrol negatif) dipanen dan dibuat
+suspensi dengan dilarutkan dalam phosphat buffer
+saline (PBS) sebanyak 10%. Suspensi ini selanjutnya
+digunakan untuk ekstraksi DNA.
+Suspensi B. abortus diambil dengan pipet kemudian
+dimasukkan ke dalam tabung eppendorf
+dan ditambahkan dengan larutan DNAzol 1000 μl,
+dicampur menggunakan pipet dan diinkubasikan
+pada suhu ruang selama 5 menit, setelah itu dicampur
+dengan menggunakan vortex dan disimpan
+selama 2-15 menit pada suhu ruang. Campuran suspensi
+tersebut disentrifugasi selama 10 menit pada
+suhu 4 ºC dengan kecepatan 10.000 rpm. Setelah
+disentrifugasi, supernatan diambil sebanyak 500 μl,
+dipindahkan ke dalam tabung eppendorf, ditambahkan
+500 μl etanol absolut, kemudian disentrifugasi
+kembali selama 10 menit pada suhu 4 ºC dengan kecepatan 10.000 rpm untuk mengendapkan DNA.
+DNA dicuci dengan menambahkan 1000 μl etanol
+75% dan disentrifugasi selama 10 menit pada suhu 4
+ºC dengan kecepatan 10.000 rpm. DNA dikeringkan
+dengan membuang semua supernatan secara hatihati
+dan tabung dibiarkan terbuka selama 5 menit,
+kemudian DNA dilarutkan dengan NaOH (pH 7,5)
+sebanyak 50 μl dan disimpan pada suhu 4 ºC (Suwarno,
+2010).
+Amplifikasi DNA dengan PCR
+Proses amplifikasi DNA dengan teknik PCR dilakukan
+dengan menggunakan Ready to Go PCR
+Kit (GE Health Care). Sebanyak 5 μl DNA yang telah
+dipanaskan dimasukkan ke dalam tube PCR bead,
+kemudian ditambahkan 2 μl primer forward, 2 μl primer
+reverse dan 16 μl NFW sehingga total larutan
+berjumlah 25 μl. Selanjutnya larutan di-spindown
+dan dimasukkan ke dalam PCR thermocycler yang
+telah diprogram, denaturasi awal selama 45 detik
+pada suhu 95 ºC diikuti dengan denaturasi selama
+30 detik pada suhu 95 ºC, annealing selama 60 detik
+pada suhu 66 ºC, ekstensi selama 60 detik pada
+suhu 72 ºC, sebanyak 35 siklus dan diakhiri dengan
+ekstensi akhir selama 7 menit pada suhu 72 ºC. Selanjutnya
+produk PCR yang terdapat dalam tabung
+PCR bead disimpan dalam freezer pada suhu -20 ºC
+sebelum dilakukan proses elektroforesis (Ratnasari
+et al., 2011). Primer yang digunakan untuk PCR dapat
+dilihat pada Tabel 1.
+Untuk melihat hasil PCR dilakukan elektroforesis
+DNA sampel sebanyak 5 μl DNA ditambah dengan
+2 μl buffer loading, dimasukkan dalam agarose
+2% yang mengandung ethidium bromide 1 mg/ml
+untuk proses running. Hasil divisualisasikan dengan
+sinar ultraviolet transluminator pada panjang
+gelombang 302 nm. Elektroforesis DNA dilakukan
+untuk mengetahui panjang amplicon dari B. abortus
+(Ratnasari et al., 2011).
+
+Sekuensing
+Sekuensing DNA dilakukan dengan menggunakan
+mesin sekuensing Abi Prism 3130 Genetic
+Analyzser-Apllied Biosystem. Proses sekuensing ada
+tiga tahapan. Tahap (1) dilakukan siklus sekuensing
+dengan penambahan Big Dye labeling untuk menandai
+bagian gen yang akan dibaca di mesin sekuensing.
+Pada tahap ini, DNA murni dimasukkan ke
+dalam Eppendorf Thermocycler dan diprogram dengan:
+1 menit pada suhu 96 ºC untuk denaturasi
+DNA awal, diikuti dengan 25 siklus yang terdiri dari
+30 detik pada suhu 96 ºC untuk denaturasi DNA, 60
+detik pada suhu 66 ºC untuk annealing DNA dan 60
+detik pada suhu 72 ºC untuk ekstensi. Tahap (2) dilakukan
+purifikasi hasil siklus sekuensing tahap (1)
+dengan menggunakan Big Dye X Terminator. Tahap
+(3) sekuensing dilakukan dengan Abi Prism 3130 Genetic
+Analyser – Applied Biosystem. Data hasil sekuensing
+diolah dengan menggunakan piranti lunak
+Mega 5 untuk mendapatkan hasil sekuensing nukleotida
+(Applied Biosystems, 2010).
+Analisis Homologi
+Data hasil sekuen nukleotida gen omp2a dari
+sampel yang didapat kemudian dihomologikan
+dengan cara urutan nukleotida yang ada diubah
+dalam bentuk data Fasta, kemudian dengan menggunakan
+BLAST (basic local alignment search tool)
+dilakukan proses analisis homologi dengan membandingkan
+antara sekuen gen omp2a dengan data
+sekuen nukleotida isolat asal mancanegara yang diakses
+dari GenBank.
+Prediksi Determinan Antigen (Epitop)
+Sekuen nukleotida gen omp2a dari masingma-
+sing isolat B. abortus diblasting (diubah) ke
+asam amino. Determinan antigen didapatkan
+dengan menggunakan metode dari Kolaskar dan
+Tongaonkar antigenicity (Kolaskar & Tongaonkar,
+1990).
+
+Tabel 1 Primer yang digunakan untuk amplifikasi
+gen omp2a Brucella abortus.
+Nama Sekuen nukleotida (5’ – 3’) Ket.
+2ab5 ACTGACGGATCCGCGCTCAGGCGGCCGACGCAA Forward
+2a900 ACTGACTTCGAATTGCCTTTTCGGGGGCAATGA Reverse
+Sumber: Sifuentes-Rincon et al. (1997)
+
+
+
+
+
+
+
+
+
+HASIL
+Hasil kultur isolat bakteri dengan metode goresan
+(streak) pada media Brucella agar base (BAB)
+terlihat koloni halus, jernih, mengkilat dengan tepi
+yang rata berwarna kekuningan atau seperti madu
+dengan permukaan koloni berbentuk konvex.
+A B
+Gambar 1 Hasil kultur B.abortus pada media BAB.
+A: isolat asal SulSel dan B: isolat asal NTT
+pada media BMB.
+Hasil identifikasi isolat B. abortus asal Sulsel dan
+NTT dengan uji biokimiawi menunjukkan reaksi
+positif pada uji katalase, H2S, urease dan oksidase
+(Tabel 2).
+Tabel 2 Uji biokimiawi B. abortus isolat lokal
+B.abortus
+isolat
+Uji biokimiawi
+Katalase H2S Urease Oksidase
+SulSel + + + +
+NTT + + + +
+Hasil amplifikasi dengan PCR pada penelitian
+ini menunjukkan panjang amplikon gen omp2a 720
+bp. Sebagai kontrol positif digunakan B. abortus
+asal Kendari dan sebagai kontrol negatif digunakan
+E.coli (Gambar 2).
+Hasil sekuensing dari primer yang digunakan kemudian
+diolah dan digabung dengan menggunakan
+piranti lunak Clone Manager sehingga didapatkan
+data hasil sekuensing dari sampel B.abortus isolat
+lokal dari Sulsel dan NTT dengan urutan nukleotida
+sebagai berikut:
+1 GCCAGAGCCC GAAGCCGTTG AATATGTCCG CGTTTGCGAC GCTTACGGCG CTGGCTACTT
+61 CTACATTCCG GGCACCGAAA CCTGCCTGCG CGTCCATGGT TACGTCCGTT ACGACGTAAA
+121 GGGCGGCGAT GACGTTTACT CCGGTACCGA CCGCAATGGC TGGGACAAGG GCGCTCGTTT
+181 CGCACTCATG TTCAACACGA ATTCGGAAAC CGAACTCGGC ACACTCGGCA CCTATACTCA
+241 GCTGCGCTTC AACTACACCA GCAACAATTC ACGTCATGAT GGCCAATACG GCGATTTCAG
+301 CGATGATCGT GATGTCGCTG ATGGCGGCGT AAGCACCGGC AAGATCGCCT ACACCTTCAC
+361 CGGCGGAAAC GGCTTCTCGG CTGTGATCGC TCTCGAACAG GGTGGCGAAG ACGTTGACAA
+421 CGATTACACG ATCGACGGTT ACATGCCGCA CGTTGTTGGC GGCCTGAAAT ATGCTGGCGG
+481 CTGGGGTTCG ATCGCTGGTG TTGTTGCCTA TGACTCGGTC ATCGAAGAAT GGGCTACAAA
+541 GGTTCGTGGC GACGTCAACA TCACCGACCG GTTCTCGGTA TGGCTGCAGG GCGCATATTC
+601 GTCCGCAGCG ACGCCGAACC AGAACTACGG TCAGTGGGGG
+Gambar 3 Urutan nukleotida B.abortus isolat SulSel.
+1 GCCAGAGCCC GAGCCGTTGA ATATGTCCGC GTTTGCGACG CTTACGGCGC TGGCTACTTC
+61 TACATTCCGG GCACCGAAAC CTGCCTGCGC GTCCATGGTT ACGTCCGTTA CGACGTAAAG
+121 GGCGGCGATG ACGTTTACTC CGGTACCGAC CGCAATGGCT GGGACAAGGG CGCTCGTTTC
+181 GCACTCATGT TCAACACGAA TTCGGAAACC GAACTCGGCA CACTCGGCAC CTATACTCAG
+241 CTGCGCTTCA ACTACACCAG CAACAATTCA CGTCATGATG GCCAATACGG CGATTTCAGC
+301 GATGATCGTG ATGTCGCTGA TGGCGGCGTA AGCACCGGCA AGATCGCCTA CACCTTCACC
+361 GGCGGAAACG GCTTCTCGGC TGTGATCGCT CTCGAACAGG GTGGCGAAGA CGTTGACAAC
+421 GATTACACGA TCGACGGTTA CATGCCGCAC GTTGTTGGCG GCCTGAAATA TGCTGGCGGC
+481 TGGGGTTCGA TCGCTGGTGT TGTTGCCTAT GACTCGGTCA TCGAAGAATG GGCTACAAAG
+541 GTTCGTGGCG ACGTCAACAT CACCGACCGG TTCTCGGTAT GGCTGCAGGG CGCATATTCG
+601 TCCGCAGCGA CGCCGAACCA GAACTACGGT CAGTGGGGC
+Gambar 4 Urutan nukleotida B.abortus isolat NTT.
+Gambar 2 Hasil amplifikasi gen B. abortus lokus omp2a. Kolom 1: Marker, kolom 2: B.abortus isolat Sulsel,
+kolom 3: B.abortus isolat NTT, kolom 4: kontrol negatif, kolom 5: kontrol positif.
+
+
+
+
+
+
+Tabel 3 Nilai Homologi B.abortus Isolat Sulsel dan Isolat NTT terhadap Isolat B. abortus asal mancanegara.
+Isolat Pembanding (Data GenBank) Sulsel NTT
+Brucella abortus omp2a gene for outer membrane protein, isolat
+KVAFSU-ADMAS-BVM19. Accesion FN552428, asal India
+100% 99%
+Brucella abortus omp2a gene for outer membrane protein, isolat
+KVAFSU-ADMAS-BVM23. Accession FN252432, asal India
+100% 99%
+Brucella abortus omp2a gene for outer membrane protein, isolat
+KVAFSU-ADMAS-BVM1. Accession FN552410, asal India 100% 99%
+Brucella abortus omp2a gene for outer membrane protein, isolat
+KVAFSU-ADMAS-BVM2. Accession FN552411, asal India 100% 99%
+Brucella abortus Omp2a porin (omp2a) gene, complete cds. Accession AY008719.1 -
+Perancis
+100% 99%
+Brucella abortus omp2a gene for outer membrane protein, isolat KVAFSU-ADMASBVM3.
+Accession FN552412, asal India
+100% 99%
+Brucella abortus omp2a gene for outer membrane protein, isolat
+isolat KVAFSU-ADMAS-BVM14. Accession FN552423, asal India
+99% 99%
+Brucella abortus omp2a gene for outer membrane protein, isolat
+KVAFSU-ADMAS-BVM15. Accession FN552424, asal india
+99% 99%
+Brucella abortus omp2a gene for outer membrane protein, isolat
+KVAFSU-ADMAS-BVM16. Accession FN552425, asal India
+99% 99%
+Brucella abortus omp2a gene for outer membrane protein, isolat KVAFSU-ADMASBVM21.
+Accession FN552430, asal India
+100% 99%
+Brucella abortus omp2a gene for outer membrane protein, isolat KVAFSU-ADMASBVM20.
+Accession FN552429, asal India
+100% 99%
+Brucella abortus omp2a gene for outer membrane protein, isolat KVAFSU-ADMASBVM6.
+Accession FN552415, asal India
+99% 99%
+Brucella abortus omp2a gene for outer membrane protein, isolat KVAFSU-ADMASBVM5.
+Accession FN552414, asal India
+99% 99%
+Brucella abortus omp2a gene for outer membrane protein, isolat KVAFSU-ADMASBVM4.
+Accession FN552413, asal India
+100% 99%
+Brucella abortus omp2a gene for outer membrane protein, isolat KVAFSU-ADMASBVM7.
+Accession FN552416, asal India
+100% 99%
+Brucella abortus omp2a gene for outer membrane protein, isolat KVAFSU-ADMASBVM8.
+Accession FN552417, asal India
+100% 99%
+Brucella abortus omp2a gene for outer membrane protein, isolat KVAFSU-ADMASBVM9.
+Accession FN552418 , asal India
+100% 99%
+Brucella abortus omp2a gene for outer membrane protein, isolat KVAFSU-ADMASBVM10.
+Accession FN552419, asal India
+100% 99%
+Brucella abortus omp2a gene for outer membrane protein, isolat KVAFSU-ADMASBVM11.
+Accession FN552420, asal India
+100% 99%
+Brucella abortus isolat Sulawesi Selatan 100% 99%
+Brucella abortus isolat Nusa Tenggara Timur 99% 100%
+
+
+
+Tabel 4 Prediksi Epitop (Determinan Antigen) dengan Menggunakan Metode Kolaskar & Tongaonkar
+Antigenicity pada OMP B. Abortus asal Sulsel.
+No. Posisi Awal Posisi Akhir Determinan Antigen (Epitop) Panjang
+1 4 28 EAVEYVRVCDAYGAGYFYIP 20
+2 25 38 TETCLRVHGYVRYD 14
+3 125 132 FSAVIALE 8
+4 147 158 YMPHVVGGLKYA 12
+5 164 176 IAGVVAYDSVIEE 13
+6 190 202 RFSVWLQGAYSSA 13
+Tabel 5 Prediksi Epitop ( Determinan Antigen ) dengan Menggunakan Metode Kolaskar & Tongaonkar
+Antigenicity Pada OMP B. Abortus asal NTT.
+No. Posisi Awal Posisi Akhir Determinan Antigen (Epitop) Panjang
+1 4 23 RAVEYVRVCDAYGAGYFYIP 20
+2 25 38 TETCLRVHGYVRYD 14
+3 125 132 FSAVIALE 8
+4 147 158 YMPHVVGGLKYA 12
+5 164 176 IAGVVAYDSVIEE 13
+6 190 202 RFSVWLQGAYSSA 13
+Simbol asam amino dengan menggunakan satu huruf (Whitford, 2005).
+
+
+
+
+
+
+
+
+
+Hasil analisis homologi antara B.abortus isolat
+Sulsel dan NTT dengan 20 isolat B. abortus asal
+mancanegara menunjukkan tingkat kesamaan
+(homologi) yang berkisar antara 99% sampai 100%.
+Hal ini menunjukkan bahwa fragmen gen omp2a
+B.abortus isolat lokal (Sulsel, NTT) mempunyai
+kesamaan urutan nukleotida dengan fragmen gen
+omp2a dari ke 20 isolat B. abortus asal mancanegara
+sebesar 99% sampai 100% (Tabel 3).
+Hasil blasting sekuen nukleotida gen omp2a B.
+abortus asal Sulsel ke asam amino adalah :
+PEPEAVEYVRVCDAYGAGYFYIPGTETCLRVHGYVRYD
+VKGGDDVYSGTDRNGWDKGARFALMFNTNSETELGT
+LGTYTQLRFNYTSNNSRHDGQYGDFSDDRDVADGGV
+STGKIAYTFTGGNGFSAVIALEQGGEDVDNDYTIDGYM
+PHVVGGLKYAGGWGSIAGVVAYDSVIEEWATKVRGDV
+NI T DRFSVWLQGAYSSAATPNQNYGQWG
+Hasil blasting sekuen nukleotida gen omp2a
+B. abortus asal NTT ke asam amino adalah:
+ARARAVEYVRVCDAYGAGYFYIPGTETCLRVHGYVRY
+DVKGGDDVYSGTDRNGWDKGARFALMFNTNSETEL
+GTLGTYTQLRFNYTSNNSRHDGQYGDFSDDRDVADG
+GVSTGKIAYTFTGGNGFSAVIALEQGGEDVDNDYTIDG
+YMPHVVGGLKYAGGWGSIAGVVAYDSVIEEWATKVR
+GDVNITDRFSVWLQGAYSSAATPNQNYGQWG
+PEMBAHASAN
+Pada penelitian ini identifikasi terhadap B. abortus
+isolat lokal dilakukan secara konvensional dan
+secara genomik dengan teknik PCR. Menurut Kazemi
+et al. (2008) penggunaan metode PCR untuk
+deteksi Brucella sangat cepat dan peka dibandingkan
+dengan deteksi secara bakteriologis dan serologis,
+karena metode PCR dilakukan dengan cara
+mengamplifikasi genom bakteri. Keunggulan PCR
+untuk deteksi patogen (B. abortus) karena teknik
+ini tidak memerlukan proses pembiakan yang memakan
+waktu lama dan mempunyai sensitifitas dan
+spesifisitas yang tinggi (Situmeang & Yulia, 2003).
+Teknik PCR tidak beresiko tinggi bagi pekerja di laboratorium
+karena tidak berhubungan langsung dengan
+patogen dan sampel untuk pemeriksaan PCR
+dapat disimpan pada suhu -20 ºC sebelum diproses
+atau dapat dikirim ke laboratorium lain (Ancora et
+al., 2005; Khosravi et al., 2006; Lopez-Goni et al.,
+2008). Primer yang digunakan dalam teknik PCR
+pada penelitian ini adalah 2ab5F dan 2a900R yang
+berasal dari sekuen dua gen yang homolog yaitu
+omp2a dan omp2b dimana gen tersebut mengkode
+OMP grup 2 porin protein dari Brucella (Sifuentes-
+Rincon et al., 1997; Salehi et al. 2006). OMP grup
+2 ini mempunyai kisaran berat molekul antara 33
+sampai 43 kDa (El-Mohammady et al., 2012). Hasil
+pengamatan PCR dengan elektroforesis menunjukkan
+bahwa sepasang primer yang digunakan untuk
+amplifikasi pada proses PCR (2ab5F dan 2a900R)
+menghasilkan panjang nukleotida 720 bp (basepairs)
+pada kedua sampel B. abortus asal SulSel dan
+NTT. Sifuentes-Rincon et al. (1997) telah berhasil
+mendeteksi sekuen genom B. abortus dengan
+menggunakan teknik PCR pada DNA sampel darah
+sapi penderita Brucellosis. Sepasang primer yang digunakan
+pada PCR ini didesain dari sekuen dua gen
+yang homolog (omp2a dan omp2b) dimana mengkode
+OMP mayor B. abortus. Primer ini mempunyai
+target site pada gen omp2a. Sekuen primer 2ab5’
+digunakan sebagai forward dan 2a900 sebagai reverse
+yang dapat mengamplifikasi gen omp2a B.
+abortus (Bv 1) menghasilkan panjang amplikon 720
+bp fragmen. Fragmen 720 bp ini akan berubah panjangnya
+menjadi 900 bp apabila digunakan untuk
+amplifikasi spesies/strain lain.
+Pada penelitian ini produk PCR yang didapat
+kemudian disekuensing untuk mendapatkan urutan
+nukleotida dari gen penyandi OMP grup 2a dari
+B. abortus isolat lokal. Hasil sekuensing pada sampel
+B. abortus asal Sulawesi Selatan yang terbaca
+adalah 640 nukleotida dan sampel NTT yang terbaca
+639 nukleotida.
+Tingkat kesamaan (homologi) antara B. abortus
+isolat lokal dengan ke 20 isolat asal mancanegara
+(asal India dan Perancis) setelah dianalisis berdasarkan
+sekuen nukleotida gen omp2a ternyata
+sangat tinggi berkisar antara 99% sampai 100%.
+Walaupun demikian di antara isolat lokal dan isolat
+asal mancanegara masih terdapat perbedaan sekitar
+1%, hal ini disebabkan karena pengaruh faktor
+lingkungan, letak geografis yang berbeda, iklim dan
+musim, sehingga terjadi perubahan gen pada struktur
+komponen bakteri (Ardhiani, 2012). Perubahan
+gen tersebut disebabkan karena telah terjadi mutasi,
+delesi atau insersi gen pada setiap isolat (Witaningrum,
+2013). Perubahan salah satu sekuen nukleotida
+ini menyebabkan perubahan asam amino
+yang selanjutnya akan mempengaruhi perubahan
+protein sehingga protein yang ada di sampel isolat
+lokal berbeda dengan isolat negara lain.
+Untuk mengetahui adanya determinan antigen
+maka sekuen nukleotida gen omp2a yang didapat
+pada masing-masing isolat B. abortus diubah
+(diblasting) ke asam amino. Dengan menggunakan
+metode dari Kolaskar & Tongaonkar (1990) akan
+didapatkan determinan antigen pada protein yang
+terdapat pada membran luar (OMP) dinding sel
+bakteri. OMP grup 2 dari B. abortus ini merupakan
+antigen potensial yang menginduksi respon imun
+(Salhi et al., 2003; Forestier et al., 2005; El-Mohammady
+et al., 2012). Determinan antigen atau epitop
+adalah bagian dari antigen yang dapat bereaksi
+dengan reseptor sel T (TCR) yang spesifik (Rantam,
+2003; Baratawijaya & Rengganis, 2009). Pada penelitian
+ini sebagai antigen adalah OMP grup 2a dari B.
+abortus isolat lokal yang mempunyai enam determinan
+antigen (Tabel 4 dan Tabel 5).
+Penelitian yang dilakukan oleh Munir et al.
+(2010) dengan menggunakan tiga strain B. abortus
+yaitu strain vaksin halus (smooth) S19, strain vaksin
+kasar (rough) RB51 dan strain lokal (lapangan) biotipe
+1. Profil protein (OMP) yang diperoleh dari hasil
+SDS-PAGE B. abortus S19 terlihat adanya delapan
+pita protein dengan berat molekul: 89,0; 73,0; 53,7;
+49,0; 38,0; 27,0; 22,3 dan 17,7 kDa. Profil protein dari
+RB51 terlihat sebelas pita protein. Protein dengan
+berat molekul tinggi: 107,1 dan 74,1 kDa. Pita protein
+dengan berat molekul menengah: 53,7; 37,1:
+34,2 dan 25,7 kDa. Pita protein dengan berat molekul
+rendah: 21,8; 20,4; 18,1; 15,8; dan 12,5 kDa. Profil
+protein isolat lapangan terlihat delapan pita protein
+dengan berat molekul 151,3; 89,0; 75,8; 67,6;
+37,0; 27,0; 24,0 dan 19,0 kDa. Hasil analisa dengan
+Western immunoblot terhadap protein tersebut di
+atas dengan menggunakan antiseranya, terlihat
+adanya perbedaan imunoreaktif terhadap protein
+dari ketiga strain B. abortus. Transblot dari S19,
+RB51 dan isolat lapangan antiserum yang berbeda
+menunjukkan pita-pita yang imunoreaktif, tetapi
+yang paling jelas reaktivitasnya dengan masing-masing
+antiserumnya pada pita 37 sampai 38 kDa yang
+dapat terlihat pada ketiga strain B. abortus. Oleh
+karena itu OMP yang imunoreaktif dengan berat
+molekul 37–38 kDa merupakan determinan antigen
+(epitop) yang memungkinkan untuk pengembangan
+vaksin rekombinan untuk infeksi B. abortus pada
+kerbau. OMP yang imunoreaktif dengan berat molekul
+151,3 kDa hanya terlihat pada strain lapangan
+saja dan tidak ditemukan pada kedua strain vaksin
+sehingga protein ini dapat digunakan sebagai antigen
+determinan untuk uji diagnostik karena dapat
+membedakan antara infeksi alami dengan vaksinasi.
+Pada penelitian ini sekuen nukleotida gen omp2a
+B. abortus isolat lokal yang dikonversikan ke
+asam amino dengan menggunakan BLAST menghasilkan
+213 asam amino. Apabila dikalkulasi ke berat
+molekul setara dengan 23430 Dalton (23,4 kDa).
+Sekuensing amplikon hasil PCR dengan menggunakan
+mesin sekuensing Abi Prism 310 Genetic Analyser
+Applied Biosystem 1 kapiler dengan panjang 5
+– 47 cm 50 μm hanya dapat menghasilkan sekuen
+maksimal 700 nukleotida. Namun demikian pada
+proses pembacaan biasanya ujung untaian DNA kurang
+maksimal terbaca, karena pada awal pembacaan
+mesin belum bekerja secara optimal sehingga
+hasil yang didapatkan hanya terbaca sekuen nukleotida
+sekitar 640. Oleh karena itu pada penelitian
+ini hanya sebagian sekuen nukleotida gen omp2a B. abortus isolat lokal saja yang dapat terbaca. Apabila
+seluruh sekuen nukleotida gen omp2a dapat terbaca,
+maka akan didapatkan 965 nukleotida atau
+321 asam amino dengan berat molekul sekitar 35,3
+kDa. Menurut hasil penelitian yang dilakukan oleh
+Ficht et al. (1989) gen omp2a terletak pada posisi
+225 – 3216 ( 965 bp) pada sekuen DNA lokus omp2,
+sedangkan panjang keseluruhan sekuen DNA B.
+abortus lokus omp2 adalah 3430 (GenBank no.
+M26034). Salah satu persyaratan suatu zat bersifat
+imunogenik/antigenik apabila mempunyai berat
+molekul lebih dari 10.000 Dalton (Bellanti, 1993).
+Pada penelitian ini lokus OMP2a B. abortus isolat
+lokal didapatkan enam determinan antigen yang
+mengandung asam amino sekitar 8 – 20. Berat molekul
+determinan antigen ini berkisar antara 880 –
+2200 Dalton. Determinan antigen ini terdapat pada
+OMP grup 2a yang mempunyai berat molekul sekitar
+35,3 kDa, sehingga determinan antigen ini merupakan
+antigen/imunogenik yang dapat digunakan
+sebagai antigen untuk pengembangan bahan
+vaksin subunit dan kit diagnostik.
+Berdasarkan hasil penelitian dapat disimpulkan
+bahwa: pada protein membran luar (OMP)
+B. abortus isolat lokal terdapat enam determinan
+antigen dan OMP grup 2 dari B. abortus tersebut
+dapat digunakan sebagai antigen untuk dikembangkan
+sebagai vaksin subunit dan kit diagnostik
+karena gen omp2a B. abortus isolat lokal mempunyai
+tingkat homologi yang tinggi terhadap isolat
+asal mancanegara.

@@ -1,0 +1,289 @@
+﻿ABSTRAK
+SISTEM APLIKASI LOCATION BASED SERVICE
+UNTUK PENGEMBANGAN KOTA CERDAS
+Teknologi Informasi kini menjadi perhatian dalam usaha Pengembangan Kota Cerdas di Indonesia. Salah
+satu cara adalah dengan pengembangan sistem aplikasi yang membangun interaksi antara masyarakat dan
+pemerintah sekaligus memberikan manfaat kepada para pemangku kepentingan. Sistem aplikasi ini
+haruslah dapat dijangkau dengan mudah dan relatif murah oleh masyarakat, dapat digunakan kapan saja,
+dimana saja.
+Dalam Penelitian ini dirancang dan dibangun sebuah sistem aplikasi Pengaduan Masyarakat berarsitektur
+Client-Server dengan mengaplikasikan Layanan Berbasis Lokasi atau lebih dikenal sebagai Location
+Based Service khususnya pull-based model, yang dapat diakses melalui antarmuka halaman web maupun
+melalui aplikasi mobile berbasis android Halo-Mangupura. Sistem Aplikasi ini menggunakan email valid
+sebagai syarat pendaftaran, dengan tetap mengakomodir antarmuka Social Media Facebook dan Twitter
+untuk dapat masuk ke dalam sistem. Informasi lokasi permasalahan di lapangan dapat segera diketahui
+secara tepat berdasarkan koordinatnya, sehingga penanganannya dapat dilakukan dengan segera dan
+dengan persiapan peralatan yang cukup berdasarkan informasi kondisi riil di lapangan dalam bentuk foto
+maupun video yang disertakan dalam pengaduan.
+Terdapat Empat aktor yang berperan dalam sistem aplikasi ini yaitu Administrator Sistem, Admin
+Instansi Tujuan, Masyarakat dan Inspektur. Adapun alur Pelaporan Pengaduan dan Penanganannya adalah
+sebagai berikut : User Masyarakat mengirim pengaduan yang mengandung Topik Pengaduan, Instansi
+Tujuan Pengaduan, Deskripsi Pengaduan, File Multimedia Pengaduan, Koordinat Lokasi Pengaduan yang
+disertakan pada pengaduan. User Administrator Sistem mengaktifkan pengaduan yang valid atau sesuai
+dengan ketentuan, dan mengarahkan pengaduan kepada Instansi yang tepat. User Admin Instansi Tujuan
+Pengaduan memeriksa kebenaran pengaduan di lapangan, dan kemudian memberikan tanggapan atas
+tindaklanjut yang diambil oleh instansinya. User Inspektur berwenang memantau seluruh aktifitas
+penanganan pengaduan, sehingga dapat menilai kinerja instansi melalui status penanganan “WAJAR”
+untuk penanganan <=7 hari atau “LAMBAT” untuk penanganan >7 hari.
+Dalam merancang dan membangun sistem aplikasi ini diperlukan sebuah basis data dan RDBMS dengan
+beberapa simbul entitas dan atributnya masing-masing yaitu user, pengaduan dan instansi. Server Side
+Scripting untuk menangani request data dan pengolahannya, serta aplikasi App Inventor untuk
+membangun aplikasi mobile Android. Sistem Aplikasi ini diuji dengan metode blackbox dengan
+pendekatan Equivalence Partitioning. Adapun hasil pengujian secara keseluruhan adalah valid yaitu
+berdasarkan input yang dimasukkan, setelah melalui proses pada sistem diperoleh suatu output yang
+diinginkan.
+Tanggapan masyarakat atas sistem aplikasi ini diperoleh dengan penyebaran kuesioner yang memuat lima
+belas buah pertanyaan yang diperoleh dari pemetaan parameter untuk menilai Sistem Aplikasi yang
+bertujuan dalam usaha Pengembangan Kota Cerdas. Cara yang ditempuh adalah dengan memberikan
+kesempatan responden untuk mencoba aplikasi, kemudian diberikan kesempatan untuk mengisi
+kuesioner. Jumlah sampel yang diambil adalah 100 sampel berdasarkan perhitungan jumlah sampel teknik
+Slovin untuk jumlah populasi 42.254 orang. Dari analisis data kuesioner yang masuk dari seluruh sampel
+diperoleh informasi : Pengguna yang melakukan ujicoba menggunakan akun sosial media adalah
+sebanyak 75%, Pengguna yang melakukan ujicoba pelaporan pengaduan sebanyak 59%, Rentang umur
+pengguna yang melakukan ujicoba adalah 16 – 35 tahun, Persetujuan terhadap ketiga parameter pengujian
+berturut-turut adalah 72,2%, 71,1% dan 66,1%. Tanggapan atas keseluruhan pertanyaan adalah 71,32%.
+Kata Kunci : Pengembangan Kota Cerdas, Sistem Aplikasi, Location Based Service, Pengaduan
+Masyarakat, Aplikasi Web dan Mobile.
+
+BAB I
+PENDAHULUAN
+1.1 Latar Belakang
+Teknologi Informasi dan Komunikasi telah lama digunakan di lingkungan
+Pemerintahan, yang sekarang memunculkan istilah e-Government dan telah
+menunjukkan perkembangan ke arah perbaikan pelayanan publik oleh instansiinstansi
+yang telah mengaplikasikannya. Di Indonesia khususnya Bali, e-
+Government juga telah diwujudkan dalam bentuk berbagai Sistem Informasi
+untuk melayani kepentingan masyarakat. Dalam perkembangannya penerapan e-
+Government telah menunjukkan peningkatan dari tahun ke tahun, walaupun hanya
+pada tahap inisiasi sampai dengan tahap interaksi (Dishubkominfo Kab. Badung,
+2010). Hal ini menunjukkan komitmen Pemerintah sangat baik dalam menuju
+transformasi pelayanan publik yang bersih, transparan dan akuntabel dengan
+memanfaatkan Teknologi Informasi.
+Kebijakan e-Government di Indonesia tertuang dalam Instruksi Presiden
+Nomor 3 Tahun 2003 tentang Kebijakan dan Strategi Nasional Pengembangan e-
+Government. Ini merupakan inisiatif yang dilakukan dalam rangka
+mengembangkan infrastruktur Sistem Informasi Pemerintahan secara terpadu dan
+mengintegrasikannya dalam satu kesatuan yang utuh dalam rangka mendukung
+pencapaian Good Governance. Sehingga pengembangan e-Government setiap
+instansi Pemerintah maupun Pemerintahan Daerah seyogyanya mengacu kepada
+Instruksi Presiden Nomor 3 Tahun 2003 tersebut, yaitu setiap Satuan Kerja
+Perangkat Daerah (SKPD) wajib memiliki Sistem Informasi dalam pelaksanaan
+tugas pokok, dan fungsinya.
+Di Kabupaten Badung, masing-masing SKPD memiliki Tugas Pokok dan
+Fungsi sendiri-sendiri sesuai bidangnya yang tertuang dalam Misi Satuan Kerja
+Perangkat Daerah. Dalam pelayanan kepada masyarakat, dalam hal ini Dinas
+Perhubungan Komunikasi dan Informatika memiliki salah satu Misi yaitu
+Meningkatkan pemanfaatan Teknologi Informasi secara efektif dan efisien
+(Dishubkominfo Kabupaten Badung, 2010). Adapun perwujudan pelaksanaan
+Misi tersebut adalah menjalin sebuah komunikasi dan menyediakan informasi
+yang baik, dengan dan untuk masyarakat, dengan memanfaatkan teknologi
+informasi.
+Penanggulangan bencana alam, pelaksanaan kegiatan pemeliharaan
+fasilitas umum, kebersihan dan penyelamatan lingkungan merupakan tanggung
+jawab Pemerintah dan masyarakat. Untuk itu diperlukan informasi lokasi dan
+kondisi riil di lapangan dalam menentukan kebutuhan bahan/material serta
+peralatan yang dibutuhkan. Dari sisi internal pemerintah Kabupaten, penyelesaian
+dari masalah ini adalah dengan melakukan pengawasan atau monitoring secara
+berkala dan berkesinambungan. Pengawasan ini memerlukan biaya, sumber daya
+manusia dan waktu yang tidak sedikit. Salah satu solusi dari masalah ini adalah
+dengan melibatkan masyarakat untuk ikut berpartisipasi dalam memberikan
+informasi di lapangan khususnya masyarakat di Kabupaten Badung.
+Menurut Juan Andres A.Gonzalez dan Andrea Rossi dalam New Trends
+for Smart Cities tahun 2011, layanan dan infrastruktur Kota Cerdas memerlukan
+karakteristik yang menarik dan interaksi dengan dan untuk warga yang
+memanfaatkannya. Menurut Prof. Indrajit dalam Kerangka Merancang dan
+Membangun Kota Cerdas di Seantero Nusantara tahun 2012, salah satu dari 6
+(enam) komponen yang dipergunakan sebagai acuan dalam menilai kesiapan
+sebuah kota/kabupaten memasuki abad ekonomi digital adalah Sumber Daya
+Teknologi yang didalamnya termasuk beraneka ragam jenis aplikasi yang
+berfungsi untuk membantu masyarakat kota/kabupaten terkait dalam mendukung
+aktivitasnya sehari-hari.
+Untuk membantu dan mempermudah masyarakat berpartisipasi secara
+aktif dalam membangun daerahnya secara langsung di lapangan dengan biaya
+yang relatif murah dan dengan menggunakan perangkat yang umum digunakan
+yaitu handphone maupun komputer tablet, maka diperlukan suatu sistem aplikasi
+yang dapat diakses secara mobile. Sistem Aplikasi ini dapat menampung
+informasi tentang permasalahan di lapangan dalam hal penanggulangan bencana,
+fasilitas umum yang rusak, masalah kebersihan dan lingkungan yang dikirim oleh
+masyarakat kepada pemerintah yang mengandung informasi lokasi, dan kondisi
+riil di lapangan sehingga dalam perkembangannya memenuhi salah satu kriteria
+dalam usaha pengembangan sebuah Kota menjadi Kota Cerdas.
+Sehingga, tidak hanya tata kelola Pemerintahan saja yang harus baik, atau
+Good Governance, namun haruslah didukung oleh masyarakat yang peduli
+dengan pembangunan daerahnya atau lebih dikenal dengan istilah Good Citizen.
+Sebagai warga negara yang baik, dan peduli, sudah seyogyanya ikut aktif
+berperan dalam mengisi pembangunan daerahnya dengan ikut berperan aktif
+melakukan pengawasan dan memonitor kinerja Pemerintah khususnya Pemerintah
+Daerah dalam pelayanan publik dengan Sistem Informasi Pengaduan Masyarakat.
+Saat ini di Kabupaten Badung belum terdapat Sistem Informasi Pengaduan
+Masyarakat yang dapat diakses secara mobile dan dapat melaporkan secara
+langsung lokasi dan kondisi riil di masalah lapangan. Sehingga perlu dirancang
+sebuah Sistem Aplikasi Pengaduan Masyarakat yang dapat digunakan secara luas
+oleh masyarakat dan Instansi Pemerintah Kabupaten yang bertanggungjawab atas
+pelaksanaan pembangunan pada bidang-bidang penanggulangan bencana alam,
+pemeliharaan fasilitas umum, kebersihan dan penyelamatan lingkungan.
+Sistem Aplikasi ini haruslah terjangkau oleh masyarakat dengan alasan
+kemudahan penggunaan, yang berfungsi sebagai alat untuk menghubungkan
+aparat pemerintah dengan masyarakatnya dengan tidak dibatasi oleh ruang dan
+waktu serta hemat biaya dari segi penggunaan transportasi dan komunikasi.
+Sistem Aplikasi ini merupakan prototype Sistem Informasi Kota Cerdas, yang
+didefinisikan sebagai sebuah perangkat lunak yang memberdayakan kelompok
+pelaku Kota (kota, masyarakat, warga negara) untuk bersama-sama mengatasi
+tantangan kota dengan cara yang lebih efisien dan cerdas (Hans S.,dkk, 2012).
+Berdasarkan atas karakter dan kebutuhan sistemnya, yaitu dapat secara
+langsung melaporkan kejadian, peristiwa, dan kondisi yang terjadi di lapangan
+yang ditemui oleh masyarakat pada waktu mereka sedang berada di lokasi
+tersebut, maka yang diperlukan adalah suatu aplikasi mobile dengan layanan
+berbasis lokasi yang handal sekaligus mudah digunakan dan bahkan hanya dengan
+menggunakan handphone. Layanan berbasis lokasi atau lebih dikenal dengan
+Location Based Service (LBS) merupakan layanan yang memberikan suatu
+informasi tertentu kepada penggunanya yang didasarkan atas lokasi pengguna.
+Dalam hal ini, layanan yang disediakan adalah berupa informasi kepada Instansi
+Pemerintah Kabupaten dan masyarakat tentang kejadian, peristiwa dan kondisi di
+lapangan yang perlu mendapat perhatian, layak untuk dilaporkan dan menuntut
+penanganan cepat.
+Selanjutnya diharapkan terjadi sebuah pertukaran informasi baik dari
+masyarakat maupun dari Pemerintah Kabupaten. Adapun Informasi yang dapat
+disampaikan oleh masyarakat merupakan temuan langsung yang terjadi di
+lapangan, dengan dilengkapi berbagai informasi baik gambar, maupun video, serta
+data lokasi yang diterima oleh aparat Pemerintah Kabupaten yang kemudian
+ditindaklanjuti. Hasil dari tindak lanjut tersebut berupa informasi dari Pemerintah
+Kabupaten kepada masyarakat sebagai sebuah pertangungjawaban pelaksanaan
+pembangunan serta pelaksanaan kegiatan oleh masing-masing SKPD (Satuan
+Kerja Perangkat Daerah) terkait, khususnya yang menangani masalah bencana
+alam, fasilitas umum yang rusak, polusi dan kebersihan serta permasalahan
+lainnya di lapangan.
+Sistem Aplikasi Pengaduan Masyarakat ini berbasis Client-Server. Pada
+sisi Client merupakan aplikasi mobile dengan sistem operasi Android karena
+sistem operasi ini dinilai cukup terjangkau dan sangat umum digunakan pada
+handphone yang ada dipasaran. Sedangkan pada sisi Server merupakan aplikasi
+berbasis web. Layanan yang diberikan adalah layanan berbasis lokasi atau
+Location Based Service. Penerapan sistem aplikasi ini diharapkan menjadi salah
+satu solusi untuk pengembangkan Kota Cerdas di Indonesia khususnya di
+Kabupaten Badung.
+1.2 Rumusan Masalah
+Berdasarkan uraian latar belakang masalah di atas, maka dapat dirumuskan
+permasalahan yang ada yaitu :
+1. Bagaimana rancangan Sistem Aplikasi Client-Server Pengaduan
+Masyarakat guna mendukung pengembangan Kota Cerdas ?
+2. Bagaimana membangun sebuah Sistem Aplikasi Client berbasis
+Android dan Server berbasis Web yang menggunakan layanan berbasis
+lokasi LBS (Location Based Service) sebagai Sistem Aplikasi
+Pengaduan Masyarakat ?
+3. Bagaimana tanggapan pengguna Sistem Aplikasi Pengaduan
+Masyarakat ini dalam usaha pengembangan Kota Cerdas khususnya di
+Kabupaten Badung ?
+1.3 Tujuan Penelitian
+Adapun tujuan dari penelitian ini adalah sebagai berikut :
+1. Untuk merancang sebuah Sistem Aplikasi Client-Server yang mudah
+digunakan oleh masyarakat khususnya di Kabupaten Badung dari sisi
+Client untuk ikut berpartisipasi dalam mengisi pembangunan
+daerahnya dalam bentuk Pengaduan Masyarakat kepada SKPD terkait
+dan dari sisi Server dapat menampilkan informasi yang telah
+disampaikan oleh masyarakat serta yang telah ditindaklanjuti oleh
+SKPD terkait guna mendukung pengembangan Kota Cerdas.
+2. Untuk membangun sebuah Sistem Aplikasi Client berbasis Android
+dan Server berbasis Web yang menggunakan cara kerja layanan
+berbasis lokasi LBS (Location Based Service) sebagai Sistem Aplikasi
+Pengaduan Masyarakat.
+3. Untuk mengetahui tanggapan pengguna Sistem Aplikasi Pengaduan
+Masyarakat ini dalam usaha pengembangan Kota Cerdas khususnya di
+Kabupaten Badung.
+1.4 Manfaat Penelitian
+Aplikasi ini dapat dijadikan contoh atau prototype dalam menyusun
+Sistem Informasi dalam skala yang lebih besar dan kompleks, pada Dinas
+Perhubungan Komunikasi dan Informatika Kabupaten Badung khususnya bidang
+Informasi dan Telematika sehingga dapat mencakup semua SKPD di jajaran
+Pemerintah Kabupaten Badung, serta terintegrasi dengan Sistem Informasi
+lainnya.
+Pemanfaatan teknologi informasi dalam menyusun aplikasi layanan publik
+akan berdampak pada peningkatan kinerja secara keseluruhan yang bermuara
+kepada prestasi kerja SKPD dan selanjutnya menjadi prestasi Pemerintah Daerah
+dalam mewujudkan visi-misinya melayani masyarakat.
+
+Terwujudnya visi-misi Pemerintah Daerah secara langsung maupun tidak
+langsung akan berdampak kepada kesejahteraan masyarakat, iklim usaha yang
+baik dan kepercayaan kepada instansi Pemerintah yang pada akhirnya akan
+mendorong meningkatnya kesejahteraan masyarakat yang sekaligus akan
+meningkatkan pendapatan asli daerah dari berbagai segi kehidupan masyarakat
+yang merupakan tujuan pengembangan Kota Cerdas.
+1.5 Ruang Lingkup Penelitian dan Batasan Masalah
+Sistem Aplikasi ini akan digunakan pada Dinas Perhubungan Komunikasi
+dan Informatika Kabupaten Badung yang dapat digunakan oleh masyarakat di
+Kabupaten Badung dengan bidang pengaduan yang disesuaikan untuk Kabupaten
+Badung. Pada sisi Client, merupakan aplikasi mobile dengan sistem operasi
+Android dengan layanan LBS (Location Based Service) yang memiliki
+kemampuan menyediakan data berupa koordinat lokasi tempat pengaduan dibuat,
+serta dengan tambahan fitur penyediaan informasi lain berupa multimedia baik
+gambar maupun video. Sedangkan pada sisi Server merupakan aplikasi berbasis
+web, dengan kemampuan administrasi pengaduan dari Client dan menyimpannya
+dalam basis data yang kemudian akan diolah dan diteruskan kepada SKPD
+(Satuan Kerja Perangkat Daerah) terkait yang menangani bidang sesuai
+pengaduan tersebut.
+Adapun fitur yang disediakan dibatasi hanya untuk pengaduan dengan
+klasifikasi pengaduan bencana alam, fasilitas umum yang rusak, polusi dan
+kebersihan serta permasalahan lainnya di lapangan yang dilengkapi dengan berita
+serta file multimedia yang dapat berupa foto maupun video yang telah disisipkan
+koordinat lokasi tempat dimana pengaduan dibuat. Fitur yang lain adalah melihat
+pengaduan yang pernah dibuat dan status dari pengaduan tersebut apakah telah
+ditangani atau belum oleh instansi terkait.
+Evaluasi dilakukan dengan melakukan uji coba Sistem Aplikasi
+Pengaduan Masyarakat dan menganalisa tanggapan pengguna dalam usaha
+pengembangan Kota Cerdas dengan mengacu kepada parameter-parameter
+keberhasilan suatu Sistem Aplikasi yang memiliki tujuan pengembangan Kota
+Cerdas. Data untuk analisa diperoleh dengan melakukan uji coba aplikasi, serta
+pengisian kuesioner.
+Perangkat lunak yang digunakan dalam pengembangan sistem ini adalah
+AI2Complete yaitu App Inventor Versi 2 yang dapat dijalankan dalam kondisi
+Offline, sebagai aplikasi visual berbasis browser untuk mengembangkan aplikasi
+Android secara visual, XAMPP (Apache, PHP dan My SQL) yaitu Apache
+merupakan paket aplikasi WebServer lokal, PHP sebagai Server Side scripting
+dan My SQL sebagai database dalam mengembangkan aplikasi berbasis web,
+Web Browser (Chrome/Mozilla), Editor HTML dan PHP serta FileZilla sebagai
+aplikasi FTP Client untuk mengupload seluruh berkas ke WebServer pada Web
+Hosting. Penempatan berkas pada layanan Web Hosting ini bertujuan agar dapat
+diakses oleh publik secara luas, dan dapat mengakses layanan gratis peta dari
+GoogleMaps.
+
+1.6 Keaslian Penelitian
+Penelitian yang berkaitan dengan Aplikasi mobile dengan sistem operasi
+Android dengan menerapkan layanan berbasis lokasi atau LBS (Location Based
+Service) pernah dilakukan oleh Luca Calderoni, Dario Maio dan Paolo Palmieri
+pada tahun 2012 dengan Judul Location-aware Mobile Services for a Smart City :
+Design, Implementation and Deployment. Pada penelitian ini dibahas bagaimana
+merancang, implementasi dan penyebaran sebuah layanan mobile berbasis lokasi
+atau disini disebut sebagai Location-aware untuk Smart City. Smart City dalam
+pengembangannya dapat dibagi menjadi tiga inovasi yaitu pengembangan
+eksternal (arsitektural, ekologi dll), kedua adalah pengembangan di bagian
+hubungan (tata kelola, peraturan dan interaksi penduduk kota) dan yang ketiga
+adalah berfokus pada infrastruktur yang berbasis teknologi informasi. Interaksi
+dari penduduk kota dalam memberikan dan menerima informasi yang bermanfaat
+bagi mereka merupakan sebuah hal yang penting dalam pengembangan Smart
+City. Informasi tentang tempat dan waktu merupakan contohnya. Mengetahui
+informasi ini akan memberikan nilai pelayanan yang tinggi kepada penduduk
+kota. Aplikasi ini menggunakan sistem operasi android yang dipasang pada
+smartphone yang dapat mengakses informasi penting mengenai tempat dan acara
+yang sedang berlangsung disekitar lokasi tempat smartphone melakukan akses.
+Pada penelitian ini juga ditemukan teknik baru dalam akses basis data dari tabel
+data spasial yang lebih cepat.
+Penelitian yang dilakukan oleh Noraziarahtulhidayu Kamarudin dan
+Sazilah Salam dengan Judul Enabling Mobile Location Based Services for
+Emergency Cases. Pada penelitian ini dikemukakan permasalahan yang dihadapi
+oleh Polisi maupun Petugas Pemadam Kebakaran di Malaysia dalam menangani
+sebuah kasus. Adapun permasalahan yang utama adalah keakuratan informasi dan
+waktu. Sehingga diusulkanlah penggunaan mode Push maupun Pull LBS dalam
+menangani permasalahan tersebut. Usulan ini diantaranya adalah dengan
+merancang sebuah sistem LBS yang diperuntukkan untuk kejadian gawat darurat /
+emergency dan biasanya sangat bermanfaat bagi Polisi maupun Petugas Pemadam
+Kebakaran. Untuk mode Pull LBS jika dibandingkan dengan mekanisme
+penanganan konvensional diperoleh peningkatan kecepatan aliran informasi
+sehingga penanganan dapat segera dilakukan. Sedangkan bagi masyarakat
+disekitarnya yang ingin mengetahui peristiwa atau kejadian yang terjadi disekitar
+mereka, dapat mengakses informasi tersebut dengan mudah melalui smartphone
+mereka.
+Dari penelitian di atas belum ditemukan penelitian tentang Pengembangan
+Kota Cerdas dengan membangun sebuah Sistem Aplikasi Pengaduan Masyarakat
+dengan layanan berbasis lokasi atau LBS (Location Based Service) dalam bentuk
+aplikasi Client-Server dan memanfaatkan sistem operasi Android pada Client.
+Adapun pemetaan permasalahan penelitian ini dapat digambarkan melalui
+diagram Fishbone pada Gambar 1.1.

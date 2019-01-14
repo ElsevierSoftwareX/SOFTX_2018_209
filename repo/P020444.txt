@@ -1,0 +1,186 @@
+﻿Zeolit merupakan senyawa alumina silikat yang secara fisik dan kimia
+mempunyai kemampuan adsorpsi, penukar kation dan sebagai katalis. Dalam
+penelitian ini kemampuan zeolit sebagai adsorben dimanfaatkan untuk menyaring
+udara untuk proses pembakaran guna meningkatkan prestasi motor diesel 4-
+langkah. Pada penelitian ini, zeolit melalui proses aktivasi kimia menggunakan
+NaOH dan KOH bertujuan membersihkan permukaan pori dan membuang
+senyawa pengotor, sehingga zeolit akan mengikat gas nitrogen, uap air ketika
+digunakan. Sehingga udara yang telah tersaring zeolit akan lebih kaya akan
+oksigen dan membuat proses pembakaran motor diesel 4-langkah menjadi lebih
+baik, yang mengakibatkan meningkatnya prestasi mesin. Akan tetapi, aktivator
+yang melebihi nilai normalitas optimalnya menyebabkan struktur dasar zeolit
+berubah sehingga mengakibatkan pengurangan daya adsorbsinya.
+Pada pengujian ini zeolit diaktivasi menggunakan basa dengan normalitas
+1N;2N;3N;4N dan aktivasi fisik dengan temperatur 2000C selama 1 jam yang
+dibentuk tablet kemudian dikemas dalam suatu frame yang diletakkan pada
+saringan udara diesel. Kemampuan menyerap zeolit diuji pada mesin diesel 4-
+langkah dengan variasi putaran 1500, 2000, 2500, dan 3000 rpm.
+Pada pengujian dan analisa didapatkan bahwa dengan penggunaan zeolit yang
+diaktivasi basa-fisik dapat meningkatkan prestasi motor diesel 4-langkah bila
+dibandingkan dengan yang tanpa menggunakan zeolit. Dari hasil pengujian juga
+menunjukkan bahwa normalitas terbaik adalah 1N, peningkatan daya engkol ratarata
+terbaik pada variasi normalitas yaitu zeolit teraktivasi NaOH sebesar
+(1,6605%) dan zeolit teraktivasi KOH sebesar (1,4724 %) pada normalitas 1N,
+keduanya terjadi pada zeolit yang lebih tinggi. Penurunan konsumsi bahan bakar
+spesifik rata-rata terbaik yaitu zeolit teraktivasi NaOH sebesar (2,836 %) dan
+zeolit teraktivasi KOH sebesar (2,414 %) pada variasi rapat normalitas 1N.
+Kata kunci: zeolit aktivasi basa-fisik, aktivator, normalitas, prestasi motor diesel
+
+
+
+I. PENDAHULUAN
+A. Latar Belakang
+Pusat Data & Informasi Energi Sumber Daya Mineral (2010) menyatakan bahwa
+cadangan minyak bumi Indonesia cenderung menurun. Penurunan cadangan
+minyak bumi diakibatkan oleh laju produksi minyak bumi lebih tinggi dibanding
+dengan laju penemuan cadangan minyak bumi baru. Menurut jenis energinya,
+permintaan energi saat ini masih didominasi oleh BBM (39,1%) diikuti oleh
+biomassa (27,2%), batubara (15,6%), gas (8,8%), listrik (7,7%) dan LPG (1,5%).
+Di masa mendatang jenis energi yang permintaannya akan tumbuh cepat adalah
+BBM, listrik, batubara dan gas.
+
+Badan Pusat Statistik mencatat jumlah kendaraan bermotor pada tahun 2011
+mencapai 85.601.351 (BPS,2013). Sumbangan terbesar pencemaran udara di
+Indonesia adalah hasil gas buang dari kendaraan bermotor, yaitu sekitar 85%. Hal
+tersebut diakibatkan karena meningkatnya jumlah pengguna kendaraan bermotor.
+Selain penggunaan kendaraan bermotor yang berlebihan, hal tersebut juga
+diakibatkan perawatan kendaraan yang tidak memadai, pemakaian bahan bakar
+yang buruk, biasanya memiliki kadar timbal yang tinggi. Dampak yang
+ditimbulkan dari pencemaran udara tersebut juga mempengaruhi penduduk dan
+lingkungannya (Kompasiana, 2013).
+
+Salah satu solusi yang dapat dilakukan untuk menghemat bahan bakar sekarang
+ini adalah dengan memaksimalkan udara yang akan digunakan untuk proses
+pembakaran. Kondisi udara pembakaran yang masuk ke ruang bakar sangat
+berpengaruh dalam menghasilkan prestasi mesin yang tinggi. Udara lingkungan
+yang dihisap untuk proses pembakaran terdiri atas bermacam-macam gas seperti
+nitrogen, oksigen, uap air, karbon monoksida, karbon dioksida, dan gas-gas lain.
+Sementara gas yang dibutuhkan pada proses pembakaran adalah oksigen untuk
+membakar bahan bakar yang mengandung molekul karbon dan hidrogen
+(Wardono, 2004). Pada penelitian M.Nasakin,dkk (2002) dilakukan modifikasi
+pada zeolit alam, menjadi CaO-zeolit dengan proses ion exchange dengan larutan
+kapur (Ca(OH)2). Pada penelitian ini dilakukan 3 variasi konsentrasi Ca untuk
+diuji sifat adsorbsi sehingga diketahui hubungan antara waktu dan jumlah mol
+nitrogen dan oksigen yang teradsorbsi, yaitu dengan konsentrasi sebesar 0,682%,
+0,849% dan 1,244%. Dari hasil yang didapatkan pada Ca 0,628 % terhadap laju
+adsorbsi oksigen dan nitrogen selama 15 menit pengujian terjadi sangat cepat dan
+langsung jenuh (tidak mengalami perubahan signifikan setelahnya) kurang dari 5
+detik, dimana adsorpsi terhadap nitrogen sebesar 10x10-4 mol dan Oksigen
+sebesar 20x10-4 mol dan pada kandungan Ca 0,849 % laju adsorbsi juga
+berlangsung sangat cepat dan langsung jenuh dimana adsorbsi terhadap oksigen
+juga lebih baik dibandingkan adsorbsi terhadap nitrogen oleh CaO-Zeolit.
+Semakin banyak kandungan Ca pada CaO-Zeolit maka kemampuan untuk
+mengadsorbsi oksigen akan semakin buruk, dan sebaliknya kemampuan untuk
+mengadsorbsi nitrogen akan semakin baik. Sedangkan pada konsentrasi Ca
+1,244%, adsorbsi terjadi sangat cepat (kurang dari 5 detik) dan langsung jenuh.
+
+Tetapi hasil yang didapatkan berbeda dengan kandungan Ca yang lebih kecil,
+karena dari hasil yang didapatkan kemampuan adsorbsi terhadap nitrogen lebih
+besar daripada oksigen yaitu sebesar 16x10-4 mol sedangkan adsorbsi pada
+oksigen sebesar 10x10-4 mol di menit ke 10 selama 15 menit pengujian. Hasilnya
+didadapatkan hubungan laju adsorbsi terhadap kandungan Ca, setelah dibuat garis
+linearisasi, didapatkan bahwa kandungan Ca=1,125% merupakan kandungan Ca
+terbaik karena mampu mengadsorbsi nitrogen lebih cepat dibandingkan oksigen
+yaitu untuk nitrogen sebesar 140 mol/menit sedangkan oksigen lebih kecil yaitu
+125 mol/menit. Hal ini menunjukkan bahwa terdapat batasan tertentu dari
+banyaknya kandungan Ca pada CaO-Zeolit terhadap kemampuannya secara
+selektif mengadsorbsi nitrogen. Karena udara bebas mempunyai kandungan
+nitrogen 4 kali lebih besar dari oksigen maka pada proses adsorpsi udara oleh
+zeolit, kecepatan adsorpsi nitrogen oleh zeolit akan mencapai 4 kali lebih besar
+dari kecepatan adsorpsi oksigen. Perbedaan laju adsorpsi dengan ini
+memungkinkan untuk memanfaatkan CaO-Zeolit sebagai alat pengkaya oksigen.
+Pada penelitian Andrianus Novian Korin (2013), dilakukan modifikasi zeolit
+dengan aktivasi fisik melalui pemanasan serta dilakukan aktivasi kimia
+menggunakan aktivator basa NaOH dan KOH dengan variasi nilai normalitas
+0,25N;0,5N;0,75N dan 1N untuk melihat pengaruh nilai normalitas terhadap
+kenaikan daya engkol. Dari hasil penelitian didapatkan bahwa kenaikan rat-rata
+daya engkol degan aktivator NaOH pada 0,25N sebesar 2,046%, 0,5N sebesar
+2,126%, 0,75N sebesar 3,7087%, 1N sebesar 5,211%. Dari hasil penelitian
+menunjukkan bahwa penggunaan aktivator NaOH dengan normalitas 1N menghasilkan kenaikan daya engkol paling besar dibandingkan variasi normalitas
+yang lain. Sedangkan kenaikan rata- rata daya engkol degan aktivator KOH pada
+0,25N sebesar 2,026%, 0,5N sebesar 2,0414%, 0,75N sebesar 3,22%, 1N sebesar
+4,6101%. Hal ini menunjukkan bahwa penggunaan aktivator KOH dengan
+normalitas 1N menghasilkan kenaikan daya engkol paling besar dibandingkan
+variasi normalitas yang lain.
+
+Pada penelitian yang dilakukan oleh Gzegorz Jozefaciuk (2002), dilakukan
+penelitian terhadap mineral-mineral yang ada pada tanah, salah satunya adalah
+zeolit, yang mana menggunakan pengaktivasian dengan asam maupun basa yang
+tujuannya menghilangkan pengotor serta membuka pori-pori permukaannya.
+Dengan cara pengaktivasian zeolit menggunakan NaOH dengan konsentrasi
+normalitas sebesar 0,1N, 1N, dan 5N dalam temperatur ruangan, yang hasilnya
+didapatkan peningkatan ukuran pori dibandingkan sebelum dilakukan aktivasi
+kimia.
+
+Berdasarkan beberapa penelitian yang telah dilakukan penggunaan aktivasi basa
+NaOH maupun KOH-Fisik pada zeolit telah banyak digunakan karena proses
+aktivasi menggunakan basa-fisik dapat meningkatkan luasan pori-pori zeolit.
+Namun selama ini aktivator larutan NaOH dan KOH dengan normalitas 1N dan
+yang lebih rendah yang digunakan pada aktivasi basa terhadap zeolit alam, jadi
+belum ditemukan normalitas optimum pada proses aktivasi basa menggunakan
+NaOH dan KOH ini. Nilai konsentrasi aktivator sangat mempengaruhi
+kemampuan adsorbsi zeolit, semakin besar nilai normalitas aktivator yang
+5
+digunakan, maka semakin luas spesifik pori-pori zeolit. Akan tetapi, apabila
+aktivator melebihi konsentrasi nilai optimalnya dapat pula menyebabkan struktur
+dasar zeolit (Si dan Al) berubah sehingga mengakibatkan pengurangan daya
+adsorbsi uap air (Treybal, 1981).
+Adapun pada penelitian sebelumnya yang dilakukan Andrianus Novian Korin
+(2013) zeolit dengan aktivator NaOH dan KOH terbukti dapat meningkatkan
+prestasi mesin dengan variasi normalitas 0,25N, 0,5N, 0,75N dan 1N. Sedangkan
+menurut hasil penelitian yang dilakukan Gzegorz Jozefaciuk ukuran zeolit pori
+terdapat peningkatan pada aktivasi 0,1N, 1N, dan 5N dibandingkan sebelum
+dilakukannya aktivasi kimia terhadap zeolit.
+
+Oleh karena itu, penulis telah mengkaji tentang pengaruh variasi jenis aktivator
+basa, variasi normalitas, variasi massa terhadap prestasi mesin pada motor diesel 4
+langkah menggunakan zeolit pelet teraktivasi basa (NaOH dan KOH) dengan
+normalitas 1N, 2N, 3N, dan 4N untuk mengetahui nilai konsentrasi yang paling
+optimum.
+
+B. Tujuan Penelitian
+Adapun tujuan dari pelaksanaan penelitian ini untuk mengetahui pengaruh
+kemampuan zeolit terhadap prestasi mesin diesel 4 langkah berdasarkan:
+1. Variasi jenis aktivator basa (NaOH dan KOH)
+2. Variasi nilai normalitas (1N,2N,3N dan 4N)
+3. Variasi massa
+
+C. Batasan Masalah
+Adapun batasan masalah yang diberikan agar pembahasan dari hasil yang
+diperoleh lebih terarah adalah sebagai berikut :
+1. Mesin yang digunakan dalam penelitian ini ialah motor diesel 4 langkah 1
+silinder pada laboratorium motor bakar dan propulsi jurusan Teknik Mesin
+Universitas Lampung
+2. Zeolit yang digunakan adalah jenis klinoptilolit yang berasal dari
+Sidomulyo, Lampung Selatan.
+3. Zeolit yang dibentuk pelet yang diaktivasi kimia – basa fisik.
+4. Zeolit diaktivasi fisik pada suhu 200oC
+5. Dalam membuat zeolit pelet alat yang digunakan masih sangat sederhana
+yaitu dengan menggunakan cetakan, oleh sebab itu besar tekanan pada saat
+pembuatan diabaikan.
+6. Dalam pembuatan filter zeolit masih sederhana sehingga untuk analisa
+perancangan, aliran serta tekanan udara yang masuk ke filter zeolit
+diabaikan.
+7. Penilaian peningkatan prestasi mesin dilihat berdasarkan pengaruh daya
+engkol dan konsumsi bahan bakar spesifik.
+
+D. Sistematika Penulisan
+Adapun sistem penulisan dari penelitian ini ialah:
+BAB I : PENDAHULUAN
+Terdiri dari latar belakang, tujuan, batasan masalah, dan
+sistematika penulisan dari penelitian ini.
+BAB II : TINJAUAN PUSTAKA
+Berisikan tentang motor bakar dan jenis-jenis motor
+bakar,proses pembakaran, parameter prestasi motor
+diesel 4-langkah, zeolit dan filter udara.
+BAB III : METODE PENELITIAN
+Berisi beberapa tahapan persiapan sebelum pengujian,
+prosedur pengujian, dan diagram alir pengujian.
+BAB IV : HASIL DAN PEMBAHASAN
+Yaitu berisikan pembahasan dari data-data yang
+diperoleh pada pengujian motor diesel 4-langkah.
+BAB V : SIMPULAN DAN SARAN
+Berisikan hal-hal yang dapat disimpulkan dan saransaran
+yang ingin disampaikan dari penelitian ini.
+
+

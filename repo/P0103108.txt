@@ -1,0 +1,330 @@
+﻿Analisis Dimensional Reaktor Berpengaduk Statis
+untuk Produksi Biodiesel
+
+
+Abstrak
+Produksi biodiesel dapat dilakukan dengan menggunakan reaktor berpengaduk statis atau SMR
+(Static Mixing Reactor). Pembuatan biodiesel dengan metode ini membutuhkan energi yang lebih kecil
+dibandingkan dengan menggunakan blade agitator. Namun demikian penggunaan elemen pengaduk
+yang berbentuk helix dalam reaktor menimbulkan pressure drop yang besar. Faktor-faktor lain yang
+berpengaruh terhadap aliran di dalam SMR dapat ditentukan dengan menggunakan analisis dimensional.
+Analisis dimensional mampu menghilangkan variabel-variabel yang tidak diperlukan sehingga dapat
+dilakukan untuk mengoptimalkan energi yang digunakan dalam perancangan SMR. Variabel-variabel yang
+berpengaruh terhadap pressure drop (ΔP) di dalam SMR yang dapat diformulasikan ke dalam bentuk
+persamaan matematis sebagai:
+Ketakmampubalikan total akibat penggunaan elemen berpengaduk statis yang diuji adalah 0,237 W.
+Kata Kunci: Static mixing reactor, analisis dimensional, analisis eksergi, pressure drop
+
+
+
+Pendahuluan
+Biodisel merupakan bahan bakar pengganti
+minyak diesel yang diperoleh dari minyak nabati
+ataupun hewani. Minyak jarak dan minyak kelapa
+sawit merupakan bahan pembuat biodiesel yang
+paling banyak tersedia di Indonesia. Proses
+pembuatan biodiesel dikenal dengan proses
+transesterifikasi, yaitu merupakan reaksi kimia
+antara trigliserida dan alkohol rantai pendek
+ditambah dengan katalis untuk menghasilkan
+mono-ester dan gliserin (Moser 2009).
+
+
+Pembuatan biodiesel dapat dilakukan dengan
+menggunakan reaktor berpengaduk statis atau
+static mixing reactor (SMR). Menurut Alamsyah
+et al. (2010) pembuatan biodiesel dengan
+menggunakan SMR membutuhkan energi yang
+lebih kecil (1,812.60 kJ/kg) dibandingkan dengan
+menggunakan blade agitator (2,212.32 kJ/kg).
+Selain itu laju reaksi transesterifikasi dengan
+menggunakan SMR lebih cepat dibandingkan
+dengan menggunakan blade agitator pada awal
+proses. SMR mampu menurunkan penggunaan
+katalis KOH menjadi 0.5%. Untuk memperoleh hasil
+biodiesel dengan kadar metil ester yang sesuai
+dengan SNI dengan katalis KOH sebesar 0.5%
+diperlukan waktu reaksi selama 44 menit dengan
+suhu reaksi 60oC (Panggabean 2011). Dengan
+katalis yang sama, penggunaan SMR sistem semi
+kontinyu menghasilkan biodiesel berkadar metil
+ester sesuai dengan SNI jika dilewatkan 4 kali atau
+setara dengan menggunakan 8 reaktor dengan
+masing-masing reaktor terdiri atas 6 elemen
+pengaduk (Soolany et al. 2014).
+Thakur et al. (2003) menyatakan bahwa faktor
+kunci yang mempengaruhi aliran dalam reaktor
+elemen berpengaduk adalah pressure drop.
+Menurut Song & Han (2005) penggunaan elemen
+pengaduk yang berbentuk helix dalam reaktor
+berpengaduk statik mampu menimbulkan pressure
+drop yang besar. Dengan mengestimasi besarnya
+pressure drop dapat digunakan untuk perencanaan
+desain yaitu untuk menghitung kebutuhan pompa
+yang akan digunakan.
+Faktor-faktor lain yang berpengaruh terhadap
+aliran di dalam SMR dapat ditentukan dengan
+menggunakan analisis dimensional. Analisis
+dimensional merupakan metode yang digunakan
+untuk menyederhanakan gejala fisik. Bridgman
+(1922) menyatakan bahwa penggunaan utama
+dari analisis dimensional untuk menyimpulkan
+dari studi dimensi variabel dalam keterbatasan
+sistem fisik tertentu pada bentuk hubungan yang
+mungkin antara variabel. Inti dari analisis dimensi
+adalah konsep kesamaan. Analisis dimensional
+mampu menghilangkan variabel-variabel yang
+tidak diperlukan, dengan demikian dari analisis
+dimensional dapat diperoleh parameter yang
+benar-benar berpengaruh dalam SMR dan untuk
+mengoptimalkan energi yang digunakan dalam
+pembuatan biodiesel menggunakan SMR kontinyu.
+Penelitian ini bertujuan untuk menganalisis
+pressure drop akibat dari SMR kontinyu dalam
+proses pembuatan biodiesel dan juga mengkaji
+penghematan kerja yang dapat dilakukan dalam
+proses tersebut.
+Bahan dan Metode
+Alat dan bahan
+Peralatan utama yang digunakan dalam
+penelitian ini adalah prototipe SMR kontinyu
+dengan 5 modul yang masing-masing modulnya
+memiliki 12 elemen pengaduk berbentuk helix 180o.
+Skematik SMR yang digunakan dalam penelitian ini
+ditunjukkan pada Gambar 1.
+Metode pengukuran tekanan
+Peralatan penunjang yang digunakan dalam
+penelitian ini meliputi manometer air, viscometer
+ostwald, kamera digital, dan botol sampel. Bahan
+yang digunakan pada penelitian ini adalah minyak
+kelapa sawit (Refined Bleached Deodorized Palm
+Olein-RBDPO), metanol (MeOH), katalis kalium
+hidroksida (KOH), aquades, hexan dan alkohol
+teknis.
+Pembuatan biodiesel dengan menggunakan
+SMR sistem kontinyu dilakukan dengan suhu
+operasi 65oC dan katalis KOH 0.5%. Rasio
+molar antara minyak dan metanol sebesar 1:6
+yang merupakan rasio optimum dalam proses
+transesterifikasi (Freedman et al. 1986; Vicente et
+al. 2004; Darnoko dan Cheryan 2000; Knothe et al.
+2005). Pengoperasian reaktor dilakukan dalam dua
+kondisi yaitu pada reaktor tanpa elemen pengaduk
+statis yang akan digunakan sebagai kontrol dan
+dengan menggunakan pengaduk statis sebagai
+bagian yang akan diuji. Perlakuan lain yang diberikan
+terhadap keduanya sama (Tabel 1). Tekanan yang
+diukur adalah tekanan yang berada pada awal dan
+akhir modul (Gambar 2) yang dilambangkan dengan
+data ke-1, 2, 3, 4, 5, dan data ke-6. 
+BManometer yang digunakan untuk mengambil data tekanan adalah manometer air yang dibuat dari
+selang transparan berukuran ¼ in. Pengambilan
+data tekanan dilakukan dengan kamera untuk
+mengurangi terjadinya paralaks. Pada setiap titik
+pengambilan data tekanan juga diambil data suhu
+dan juga sampel minyak. Dari sampel minyak yang
+diambil nantinya diperoleh data berat jenis (ρ),
+viskositas dinamik (μ) dan viskositas kinematik (υ)
+campuran minyak.
+Analisis dimensional
+Menurut Song & Han (2005) faktor-faktor yang
+berpengaruh dalam SMR adalah pressure drop
+(ΔP), faktor gesekan (Cf), bilangan Reynold (Re)
+dan aspect ratio (Ar) sehingga dalam persamaan
+matematis dapat dituliskan sebagai
+f(ΔP, D, Lp, Le, μ, ρ, v) = 0 (1)
+dengan Lp adalah panjang reaktor, Le adalah
+panjang elemen, D adalah diameter reaktor dan
+v adalah kecepatan aliran di dalam pipa. Dari
+persamaan matematis tersebut maka ditentukan
+dimensi-dimensi dari parameter-parameter tersebut
+yang tersaji pada Tabel 2.
+Pemodelan yang digunakan dalam analisis
+dimensional ini adalah dengan metode Buckingham
+(Phi-Theorema). Dari parameter-parameter pada
+Tabel 2 ditentukan jumlah grup tak berdimensi (π)
+dengan menggunakan persamaan
+i = n – r (2)
+dengan i adalah jumlah grup tak berdimensi, n adalah
+jumlah variabel yang terlibat dan r adalah rank dari
+makriks dimensional. Dalam model ini terdapat 5
+grup tak berdimensi sehingga akan terbentuk π1,
+π2, π3, π4 dan π5. Persamaan masing-masing grup
+tak berdimensi tampak pada Persamaan 3 sampai
+dengan Persamaan 7.
+π1= ΔP ρ-1 v-2 (3)
+π2 = Lp D-1 (4)
+π3 = Le D-1 (5)
+π4 = μ v-1 ρ-1 D-1 (5)
+π5 = 1 (7)
+Dari grup-grup tak berdimensi tersebut jika
+disubstitusikan ke dalam Persamaan 1 maka dapat
+diperoleh persamaan sebagai berikut:
+f(π1, π2, π3, π4, π5) = 0 (8)
+(9)
+(10)
+(11)
+(12)
+Dengan nilai dari C, a, b, dan c didapat dari
+perhitungan menggunakan data yang diperoleh
+dalam penelitian ini.
+Analisis eksergi
+Untuk menganalisis persamaan keseimbangan
+eksergi aliran di dalam reaktor perlu digambarkan
+diagram atau skema dari sistem (Gambar 3).
+Langkah pertama dalam menentukan perubahan
+eksergi adalah dengan menyusun persamaan
+kesetimbangan energi aliran minyak.
+(13)
+Dengan adalah laju massa aliran minyak dalam
+reaktor dan h adalah entalpi.
+Pada kasus ini Q yang merupakan energi dari
+pemanas diabaikan karena analisis hanya dilakukan
+terhadap pengaruh ΔP saja. Selanjutnya disusun
+persamaan keseimbangan entropi yaitu:
+
+
+S merupakan entropi dan σ adalah
+ketakmampubalikan (irreversibility) sistem.
+Eksergi merupakan besaran dari kualitas energi
+sehingga eksergi adalah energi dikurangi dengan
+entropi yang dikalikan dengan suhu ruang. Dengan
+demikian persamaan kesetimbangan eksergi dari
+sistem dapat dituliskan sebagai:
+(15)
+(16)
+(17)
+Untuk analisis eksergi yang diakibatkan oleh ΔP
+maka dh dianggap nol karena diasumsikan tidak
+terjadi reaksi, sehingga Persamaan 17 berubah
+menjadi:
+(18)
+Selanjutnya digunakan persamaan T dS agar
+perhitungan entropi dapat dilakukan dengan data
+yang lebih banyak dan lengkap.
+T dS = dh _ v dP (19)
+T dS = _ v dP (20)
+(21)
+Jika persamaan gas ideal dimasukkan ke dalam
+Persamaan 21 maka akan diperoleh persamaan
+(22)
+Sehingga persamaan eksergi untuk sistem ini
+adalah:
+(23)
+Hasil dan Pembahasan
+Pengaruh pengaduk statis terhadap pressure
+drop (ΔP)
+Dari hasil pengukuran terhadap pipa
+tanpa pengaduk dan dengan pengaduk statis
+menunjukkan bahwa pressure drop yang terjadi
+pada pipa berpengaduk statis lebih besar
+dibandingkan dengan pipa tanpa pengaduk. Dari
+hasil pengukuran tekanan ini tampak bahwa dengan
+adanya elemen pengaduk statis di dalam pipa maka
+akan meningkatkan pressure drop aliran. Bakker
+et al. (2000) menyatakan bahwa tekanan terbesar
+yang terjadi pada elemen berpengaduk statis
+terdapat pada bagian ujung elemen dan daerah
+dengan tekanan yang rendah terjadi ketika fluida
+meninggalkan elemen. Pressure drop paling besar
+terjadi pada modul pertama dan yang terkecil pada
+modul kelima.
+Pada Gambar 4 tampak bahwa perubahan
+pressure drop pipa tanpa pengaduk lebih kecil
+dibandingkan pressure drop pipa dengan SMR.
+Selain itu pressure drop pada pipa dengan SMR
+juga mengalami penurunan yang lebih besar pada
+setiap modulnya. Hal ini terjadi karena pada pipa
+dengan SMR mengalami perubahan viskositas dan
+densitas yang lebih besar sehingga perubahan
+pressure drop yang terjadi lebih besar. Hal ini
+menunjukkan dengan adanya elemen pengaduk di
+dalam SMR maka reaksi yang terjadi di dalamnya
+lebih cepat.
+
+
+Analisis dimensional
+Dari hasil pengoperasian SMR diperoleh data
+sifat fisik dan mekanik dari campuran minyak
+(Tabel 3). Data sifat fisik dan sifat mekanik yang
+telah diperoleh disubstitusikan ke dalam bentuk π
+(Persamaan 12) dan diubah menjadi bentuk ln π.
+Dengan menggunakan pendugaan regresi
+linear terhadap ln π maka didapatkan nilai C =
+1.5747, a = 0.624, b = -1.089, dan c = -0.074. Dari
+nilai konstanta dan koefisien tersebut diperoleh
+persamaan matematis hubungan antara pressure
+drop dengan parameter lainnya sebagai berikut:
+(24)
+Validasi model dilakukan dengan
+mensubtitusikan kembali data-data yang ada ke
+dalam persamaan yang telah diperoleh. Dari hasil
+validasi tersebut diperoleh nilai error seperti pada
+Tabel 4. Nilai error yang terjadi masih di bawah 10%
+sehingga persamaan dapat diterima.
+Hubungan antara ΔP dengan Lp/D berupa
+garis linier dengan gradien positif, dengan
+demikian dengan meningkatnya Lp/D maka
+akan meningkatkan ΔP. Apabila Lp/D berubah
+sebesar 100% maka ΔP berubah sebesar 38.54%.
+Hubungan ini tampak seperti pada Gambar 5.
+Dari Persamaan 24 tampak bahwa hubungan ΔP
+dengan Lp/D berbentuk polinomial, namun demikian
+pada segmen yang terukur dalam penelitian ini
+hubungan ΔP dengan Lp/D dapat dilinierkan seperti
+pada Gambar 5. Pada Lp/D sama dengan nol nilai
+ΔP mendekati nol, hal ini dikarenakan pada saat
+Lp/D sama dengan nol tekanan fluida yang terukur
+berada pada satu titik sehingga perubahan tekanan
+yang terjadi sama dengan nol. Peningkatan 100%
+1/Re menurunkan ΔP sebesar 100.21%. Hubungan
+antara ΔP dengan 1/Re berupa garis linear dengan
+gradien negatif (Gambar 6).
+Analisis eksergi
+Analisis eksergi yang dilakukan merupakan
+analisis eksergi akibat perubahan tekanan di dalam
+pipa. Pada analisis ini penambahan panas oleh
+pemanas dan juga eksergi yang diakibatkan oleh
+reaksi dianggap nol. Dengan mensubstitusikan
+hasil pengukuran tekanan ke dalam Persamaan
+23 maka diperoleh nilai ketakmampubalikan pada
+Tabel 5.
+Tabel 5 menunjukkan besarnya
+ketakmampubalikan akibat perubahan tekanan yang
+terjadi di dalam pipa kosong dan pipa berpengaduk
+statis. Semakin besar perubahan tekanan yang
+terjadi di dalam pipa mengakibatkan peningkatan
+nilai ketakmampubalikan, hal ini mengakibatkan
+ketakmampubalikan SMR lebih besar dibandingkan
+dengan pipa tanpa pengaduk.
+Selisih ketakmampubalikan antara SMR
+dengan pipa tanpa pengaduk merupakan
+ketakmampubalikan akibat penggunaan elemen
+pengaduk statis. Total ketakmampu-balikan akibat
+elemen pengaduk statis adalah 0.237 W, dan
+dianggap sebagai nilai ketakmampubalikan yang
+dapat diminimalkan melalui rancangan elemen
+pengaduk statik yang lebih baik. Berdasarkan
+pada hubungan antara ΔP dengan Lp/D dan 1/
+Re, untuk menurunkan nilai ΔP dapat dilakukan
+dengan mengubah parameter yang berhubungan  dengan Lp/D dan juga 1/Re. LP/D merupakan
+parameter yang berasal dari spesifikasi mesin
+sehingga untuk merubah parameter tersebut harus
+dilakukan dengan mengubah desain mesin. Untuk
+menurunkan ΔP tanpa mengubah desain mesin
+adalah dengan mengubah 1/Re yaitu dengan
+mengubah kecepatan aliran di dalam pipa. 1/Re
+berbanding terbalik dengan v sehingga dengan ρ,
+μ dan D yang sama jika v diturunkan sebesar 50%
+maka ΔP akan meningkat sebesar 50.105%.
+Simpulan
+Variabel-variabel yang berpengaruh terhadap
+pressure drpo (ΔP) di dalam SMR meliputi diameter
+pipa (D), panjang pipa (Lp), panjang elemen
+pengaduk (Le), viskositas kinematik campuran
+minyak (μ), berat jenis campuran minyak (ρ)
+dan juga kecepatan aliran di dalam pipa (v) yang
+dapat diformulasikan ke dalam bentuk persamaan
+matematis sebagai:
+Total ketakmampubalikan akibat penggunaan
+elemen pengaduk statis adalah 0.237 W.

@@ -1,0 +1,64 @@
+﻿Teori Antrian adalah salah satu teori untuk menganalisis sistem antrian. Antrian
+merupakan keadaan dimana pelanggan harus menunggu giliran untuk
+mendapatkan jasa pelayanan. Komponen dasar yang terdapat dalam proses antrian
+yaitu kedatangan, pelayanan dan antrian. Sifat kedatangan yang terjadi dalam
+sistem antrian yaitu kedatangan secara acak dan kedatangan secara konstan.
+Berdasarkan susunan saluran dalam struktur antrian, terdapat 2 jenis sistem
+antrian yaitu sistem antrian single-channel dan sistem antrian multi-channel.
+Terdapat beberapa perilaku customer yang dapat terjadi dalam suatu antrian, yaitu
+jockeying, balking dan reneging. Dalam penelitian ini karena digunakan sifat
+kedatangan acak yang umumnya terjadi dalam kehidupan sehari-hari, maka
+tingkat kedatangan akan berdistribusi Poisson dengan parameter  dan waktu
+pelayanan akan berdistribusi eksponensial dengan parameter μ. Pada penelitian ini
+akan didiskusikan tentang panjang antrian L dan Lq serta waktu antrian W dan Wq.
+Kata kunci: Teori Antrian, Multi-Channel, Distribusi Eksponensial
+
+I. PENDAHULUAN
+1.1 Latar Belakang dan Masalah
+Teori Antrian adalah salah satu teori untuk menganalisis sistem antrian. Antrian
+merupakan keadaan dimana pelanggan harus menunggu giliran untuk mendapatkan
+jasa pelayanan. Komponen dasar yang terdapat dalam proses antrian, yaitu
+kedatangan, pelayanan dan antrian. Dalam sistem antrian pola kedatangan yang dapat
+terjadi, antara lain kedatangan secara konstan dan kedatangan secara acak. Pola
+kedatangan secara konstan umumnya terjadi pada proses pembuatan atau pengemasan
+suatu produk. Sedangkan pola kedatangan secara acak umumnya terjadi pada antrian
+di bank, rumah sakit, dan sebagainya. Berdasarkan susunan saluran dalam struktur
+antrian, terdapat 2 jenis sistem antrian, yaitu sistem antrian single-channel dan sistem
+antrian multi-channel. Sistem antrian single-channel artinya hanya terdapat satu
+pelayanan, sedangkan sistem antrian multi-channel artinya terdapat beberapa
+pelayanan.
+Kejadian antrian (queues) terjadi karena permintaan pelayanan lebih besar daripada
+fasilitas pelayan yang ada dalam sistem antrian. Permintaan pelayanan akan
+meningkat terus menerus sedangkan ketersediaan fasilitas pelayanan terbatas. Antrian
+menimbulkan berbagai kerugian (loss), opportunity loss dan wasting time. Antrian
+yang terlalu panjang memungkinkan terjadinya jockeying (berpindah dari antrian satu
+ke antrian lainnya), balking (penolakan) dan reneging (pembatalan) sehingga akan
+merugikan pihak yang membutuhkan layanan. Untuk mengurangi kerugian dalam
+antrian, perlu dilakukan peningkatan efisiensi sistem antrian.
+Salah satu cara untuk mengatasi antrian yang terlalu panjang dapat dilakukan dengan
+menambah saluran pada sistem antrian yang nantinya akan memudahkan pelayanan,
+sehingga dapat menetralisir antrian yang panjang. Tetapi, menyelenggarakan layanan
+yang berlebihan juga harus dihindari karena akan mengakibatkan sumber daya yang
+tersedia terlalu lama menganggur sehingga akan merugikan pihak penyelenggara
+layanan. Antrian yang panjang umumnya terjadi pada sistem antrian single-channel
+karena hanya memiliki satu saluran pelayanan. Jika dilakukan penambahan saluran
+pelayanan, maka sistem antrian single-channel akan membentuk sistem antrian multichannel.
+Namun, untuk melakukan penambahan saluran layanan tentunya akan
+menimbulkan biaya tambahan yang tidak sedikit.
+Pola kedatangan sistem antrian yang akan digunakan dalam penelitian ini
+menggunakan pola kedatangan yang umumnya terjadi dalam kehidupan sehari-hari,
+yaitu kedatangan secara acak. Karena pola kedatangan terjadi secara acak, maka
+waktu pelayanan akan berdistribusi eksponensial. Dalam berbagai bidang dan
+berbagai kasus, teori antrian dapat diterapkan untuk mengoptimalkan
+penyelenggaraan layanan dengan cara meminimalkan baik biaya penyediaan sumber
+daya untuk menyelenggarakan layanan maupun biaya yang mungkin timbul pada
+pihak yang memerlukan layanan. Oleh karena itu, dalam penelitian ini penulis tertarik
+untuk menganalisis teori antrian multi-channel dengan distribusi eksponensial.
+1.2 Tujuan Penelitian
+Tujuan dari penelitian ini adalah untuk menganalisis Teori Antrian Multi-Channel
+dengan menggunakan Distribusi Eksponensial.
+1.3 Manfaat Penelitian
+Manfaat dari penelitian ini adalah :
+1. Memberikan informasi tentang teori antrian multi-channel dengan distribusi
+eksponensial.
+2. Dapat mengaplikasikannya pada kasus yang berkaitan dengan penelitian ini.

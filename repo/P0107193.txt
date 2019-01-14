@@ -1,0 +1,1244 @@
+﻿MODEL HIDRODINAMIKA BIOREAKTOR TANAMAN :
+KONSEP PERMEABILITAS
+
+Abstrak
+Aliran air dalam bioreaktor sangat penting dalam perpindahan nutrisi tanaman. Untuk memfasilitasi aliran air dalam bioreaktor tanaman, diperlukan rekayasa ruang melalui penambahan kompos, berupa material bekas tanaman yang mengandung pipa-pipa kapiler. Sudah tersedia berbagai model hidrodinamika untuk aliran lambat melewati unggun, namun belum ada yang secara khusus untuk bioreaktor tanaman yang memiliki butiran partikel dan potongan pipa kapiler. Pada kajian ini terdapat tiga model aliran yang ditinjau, masing-masing hanya berbeda dari sisi kompleksitasnya. Model pertama memiliki empat parameter dengan kesalahan rata-rata 0,457, model kedua memiliki lima parameter dengan kesalahan rata-rata 0,464, dan model ketiga dengan tujuh parameter dengan kesalahan rata-rata 0,574. Dengan menggunakan model tersebut diperoleh bahwa permeabilitas akan meningkat seiring dengan bertambahnya ukuran partikel dan atau fraksi kompos. Penambahan kompos seperempat dari volume unggun total akan memberikan peningkatan permeabilitas yang signifikan dibandingkan dengan tanah dan batuan pasir biasa. Dengan memasukkan parameter ini kedalam persamaan pengambilan air pada sistem akar silinder tunggal, maka perpindahan air bukan lagi menjadi tahap pembatas laju di sepanjang akar. Untuk menjamin ketersediaan aliran, disarankan menggunakan kompos sebesar setengah dari volume unggun total.
+Kata kunci: aliran medium berpori-berkapiler; permeabilitas; pengambilan air oleh akar; bioreaktor tanaman
+
+PENDAHULUAN
+Penelitian tentang bioreaktor tanaman berkembang pesat (Sharma dan Sharma, 2009; Abranches dkk., 2005). Perpindahan nutrisi dari dalam bioreaktor tanaman menuju akar dan seluruh bagian tanaman difasilitasi oleh aliran air. Apabila proses pengangkutan air di dalam bioreaktor menjadi tahap pembatas laju maka perpindahan nutrisi akan berlangsung lambat dan produktivitas tanaman tidak
+akan baik, meskipun ketersediaan sumber nutrisi
+tersebut dimediumnya tercukupi. Penambahan kompos
+kedalam bioreaktor akan memfasilitasi aliran air
+menuju rambut akar dengan mekanisme
+keterhubungan antar pipa dengan probabilitas tertentu.
+Integrasi ini akan menghilangkan hambatan
+perpindahan air dan dapat meningkatkan produktivitas
+tanaman, dan ini telah dibuktikan oleh sistem
+bercocok tanam SRI Organik Indonesia (Purwasasmita
+dan Sutaryat, 2012).
+Bioreaktor tanaman merupakan medium yang
+terdiri dari potongan-potongan pipa dan butiranbutiran.
+Aliran utama yang masuk ke akar akan
+melewati potongan-potongan pipa, sedangkan aliran
+dari luar potongan pipa akan masuk kedalam pipa,
+yaitu berasal dari susunan butiran-butiran. Sistem
+perpipaan yang terputus-putus tersebut sangat berguna
+dalam mencegah adanya penyumbatan saluran oleh
+partikel-partikel yang lebih halus dari potonganpotongan
+pipa dalam medium, sehingga air dapat
+mengalir secara kontinyu. Sejauh ini belum ada yang
+membahas unggun dengan konsep seperti ini.
+Aliran pada bioreaktor tanaman tersebut
+sejatinya merupakan aliran di medium berporiberkapiler.
+Medium seperti ini memiliki tipe
+bermacam-macam, namun memiliki model empiris
+dasar yaitu persamaan Darcy. Karena konfigurasi
+unggun yang kompleks, maka sulit untuk memperoleh
+persamaan umum untuk konstanta Darcy
+(permeabilitas). Persamaan yang ditemukan diliteratur
+hanya merepresentasikan medium yang dicobakan
+pada saat itu saja, antara lain Kozeny-Carman (KC)
+untuk unggun butiran bola (1937), Bish (1957)
+memberikan persamaan KC termodifikasi, Yu dan
+Chen (2000) untuk unggun dari rajutan benang. Dalam
+menganalisisnya pun para peneliti tersebut
+menggunakan pandangan yang berbeda-beda, seperti
+analisis geometri fraktal (Yu dkk, 2000) dan teori π
+Buckingham (Kareem, 2008).
+Berdasarkan mekanisme aliran bioreaktor
+tanaman, maka jumlah pipa (kompos) di dalamnya
+menjadi parameter penting. Hal ini sebanding dengan
+jumlah penambahan kompos. Makalah ini membahas
+tentang model hidrodinamika pada bioreaktor
+tanaman. Model yang dikembangkan dapat digunakan
+untuk menentukan jumlah kompos yang sesuai untuk
+bioreaktor tanaman.
+METODE PENELITIAN
+Penelitian dimulai dengan membangun model
+yang menggambarkan pengaruh perubahan tekanan
+total unggun terhadap laju alir per luas penampang
+unggun, dimana kedua variabel tersebut terhubung
+oleh konstanta permeabilitas atau konduktivitas
+unggun. Kajian difokuskan pada pendefinisian
+persamaan untuk permeabilitas. Permeabilitas
+ditentukan oleh harga parameter terukur yaitu
+porositas, fraksi kompos dan pasir, ukuran partikel
+kompos dan pasir, tinggi unggun dan diameter kolom
+unggun, dan beberapa parameter empirik yang
+ditentukan melalui pencocokan dengan data-data
+percobaan.
+Percobaan dimulai dengan mengeringkan
+kompos dan pasir, kemudian menyeragamkan
+ukurannya (penentuan diameter rata-rata partikel)
+dengan menggunakan saringan mesh, setelah itu
+menentukan harga porositas total unggun melalui
+perbandingan volum. Prosedur aliran menggunakan
+rangkaian alat yang terdiri dari dua buah kolom seperti
+yang ditunjukkan pada Gambar 1. Uji aliran dilakukan
+untuk masing-masing unggun dengan komponen pasir
+yang lolos di saringan mesh no. 8 dan tidak no. 14
+mesh (8/14), 14/18, 20/30, 30/35, dan 40/45, dan
+untuk kompos pada 8/14, 14/18, 20/30, dan 40/45.
+Perbandingan kompos dan pasir (K:P) adalah 0:1, 1:0,
+1:1, 1:1,4, 1:3, 1:5, 2:1 dan 3:1. Masing-masing
+kondisi percobaan dilakukan secara diplo.
+Pada saat uji aliran berlangsung data yang
+diambil adalah waktu terukur terhadap ketinggian air
+yang berubah pada kolom pertama (Gambar 1), data
+tersebut akan diolah dengan menggunakan Persamaan
+1, sebagai berikut,
+a t
+h
+h
+ln 0    
+
+
+ 
+
+
+(1)
+Dimana,
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2
+2
+1
+U R
+R
+1
+2μ L I
+B ρg
+a (2)
+Persamaan 1 dan 2 diperoleh dari analisis
+neraca makro air pada rangkaian alat yang tersaji pada
+Gambar 1.
+Gambar 1. Rangkaian alat yang digunakan, aliran air
+mengalir dari kolom 1 ke kolom 2, dimana R1 = 2,9
+cm, R2= 4,7 cm, Lu= 10 cm, I = 15,5 cm
+Setelah uji aliran selesai, jumlah air yang
+terperangkap pada unggun dihitung berdasarkan
+jumlah volum awal dengan volum akhir atau yang tersisa. Hal ini bertujuan untuk mengidentifikasi porositas eksternal dari unggun. Porositas eksternal adalah fraksi rongga-rongga diluar pipa kapiler terhadap total unggun. Harga permeabilitas B yang telah diperoleh dicocokkan dengan model yang telah dibangun untuk menentukan parameter-parameter empirik yang ada pada model tersebut dengan menggunakan Solver pada Ms. Excell. Setelah persamaan diperoleh, melakukan pemodelan pengambilan air oleh akar dengan melibatkan permeabilitas yang telah dihitung dengan menggunakan persamaan aliran di bioreaktor tanaman. Persamaan pengambilan air oleh akar memberikan gambaran mengenai distribusi tekanan hidrostatik disepanjang akar untuk sistem akar berupa silinder tunggal. HASIL DAN PEMBAHASAN Pengembangan Model
+Model dikembangkan menggunakan asumsi yaitu fluida yang mengalir di dalamnya adalah air padatemperatur kamar dan tekanan sekitar adalah atmosferik.Pola aliran diasumsikan pada dua rejim yaitu aliran yang melewati potongan-potongan pipa homogen, dan aliran yang melewati butiran homogen (Gambar 2a dan b), konfigurasi butiran dan unggun terdiri dari dua jenis yaitu konfigurasi maksimum yang terdiri dari empat butiran (Gambar 2c dan d) dan konfigurasi minimum yang terdiri dari tiga butiran (Gambar 2e dan f) serta kondisi unggun dianggap kaku. Jika laju alir massa yang melewati pipa 1 adalah W1, maka jumlah laju alir massa di pipa 2 didefinisikan sebagai jumlah aliran dari pipa 1 ditambah dengan aliran dari butiran (luar pipa) dikurangkan dengan jumlah aliran di pipa 1 yang keluar pipa, hal ini dapat ditulis sebagai berikut, W2 = W1 (1 – ξ1) + W1 (3) Dimana ξ adalah fraksi cairan yang keluar dari pipa menuju butiran terhadap yang mengalir di pipa yang bersangkutan, dan W adalah jumlah laju alir massa di luar pipa (butiran) yang masuk ke pipa. Untuk pipa ke 3 dan ke N dapat dituliskan dalam bentuk aliran pipa 1 sebagaimana persamaan di atas, maka diperoleh, W3 = W1 (1 – ξ1 (1 – ξ2) – ξ2) + W1(1 – ξ2)+ W2 (4) WN = W1 (1 – ξ1 (1 – … – ξN-2 (1 – ξN-1)) – ξN-1) + W1(1 – ξ2 (1 – … – ξN-2 (1 – ξN-1)) – ξN-1) + +…+ WN-2(1 – ξN-1) + WN-1 (5)
+Gambar 2. Mekanisme aliran di dalam unggun (a dan b) dan dua jenis konfigurasi dengan butiran pasir untuk satu unit sel (c dan d) pori butiran maksimum dan (e dan f) pori butiran minimum.
+
+Dan jumlah aliran total, Wtot di dalam unggun
+yaitu,
+Wtot = W1 + W2 + W3 + … + WN (6)
+Karena harga ξ dan W untuk masing-masing
+pipa sulit ditentukan maka dilakukan penyederhanaan,
+sebagai berikut,
+ξ1 = ξ2 = ξ3 =…= ξN-1 = ξ, dan W1 = W2 = W3
+= … =WN = W (7)
+Berdasarkan Persamaan 4, 5 dan 7, maka
+Persamaan 6 dapat dituliskan lagi sebagai berikut,
+Wtot = W1(α1,1 + α1,2 + α1,3 + α1,4 + … + α1,N)
++ W(α2,2 + α2,3 + α2,4 + … + α2,N) (8)
+Dimana α1,i adalah parameter ukuran aliran
+yang lewat di potongan pipa ke-i, dan α2,i+1 adalah
+parameter ukuran aliran yang lewat dari ruang kosong
+antar butiran dipipa i masuk ke potongan pipa kei+
+1.Harga α1,1 hingga α1,N dan α2,2hingga α2,N yang
+berbeda-beda ditiap tahap sangat sulit untuk
+ditentukan bahkan untuk kondisi yang benar-benar
+seragam sekalipun, sehingga dilakukan
+penyederhanaan kembali yaitu,
+Wtot = W1ᾱ1 + Wᾱ2 (9)
+Dengan, ᾱ1 = α1,1 + α1,2 + α1,3 + α1,4 + … + α1,Ndan ᾱ2 =
+α2,2 + α2,3 + α2,4 + … + α2,N . ᾱ1, dan ᾱ2> 0.
+Kedua ruas pada Persamaan 9 dibagi dengan
+densitas cairan, ρ, sehingga menjadi persamaan laju
+alir volumetrik Qtot, yakni,
+Qtot = q1ᾱ1 + q2ᾱ2, q2 = W/ρ (10)
+Dimana, Qtot = Utot . A, q1 = U1 . Apdan q2
+merupakan laju alir yang masuk melalui porositas
+eksternal pada butiran-butiran yang diwakilkan oleh
+banyaknya fraksi pori eksternal (diluar pipa, εX) di
+dalam unggun dikali dengan laju alir total, q2 = εX .
+Qtot. Aliran pada satu potong pipa dianalisis dengan
+menggunakan neraca momentum sehingga diperoleh.
+
+
+
+
+
+
+
+
+
+
+ ρgcos β
+l
+Δp
+4μ
+r R
+U
+p
+2
+p
+2
+1
+ 2 
+p
+2
+p
+p
+1 r R
+l 4μ
+ΔΡ
+U   (11)
+Dengan mengintegrasikan di luas permukaan
+pipa maka diperoleh laju alir volumetrik q1.
+4
+P
+p
+p
+1 1 πR
+l 8μ
+ΔΡ
+U A   (12)
+Dengan melakukan pendekatan bahwa harga
+hilang tekan di satu partikel pipa perdimensi panjang
+pipa merupakan fungsi dari porositas total (ε) dan
+fraksi total partikel pipa (fp) di dalam unggun dikali
+dengan hilang tekan kolom perdimensi panjang
+kolom, maka dihipotesiskan bahwa,
+ 
+U
+m
+p
+n
+p
+p
+L
+ΔP
+ε f
+l
+ΔΡ
+  (13)
+Dimana n dan m adalah parameter yang harus
+ditentukan dari data, dan fp merupakan fraksi total
+partikel pipa (kompos), yaitu perbandingan antara
+fraksi padat di dalam unggun dibagi dengan fraksi
+kompos di dalam padatan, sehingga diperoleh,
+)
+a
+1 ( 1
+1 ε
+f X
+p
+
+
+ (14)
+Dimana a adalah perbandingan antara kompos
+dan pasir yang ada di unggun, dan εX diperoleh dari
+harga porositas total dikurangi dengan jumlah hold up
+cairan di unggun setelah uji aliran. Dengan
+memasukkan Persamaan 12, 13, dan 14 ke Persamaan
+10 maka diperoleh model pertama yaitu,
+ 
+  U
+2
+K
+p
+X 2
+1
+m
+p
+n
+tot
+8 μ L
+ΔP
+R
+R
+1 ε α
+ε f α
+U  
+
+
+ 
+
+
+
+
+  (15)
+Selain ditentukan melalui percobaan, εXjuga
+dihitung dengan pendekatan sebagai berikut εX = ηε,
+dimana η fraksi porositas eksternal terhadap porositas
+total, dengan nilai 0<η<1, dan ini ditentukan secara
+empirik dari data percobaan. Dengan mendefenisikan
+hal tersebut pada Persamaan 15 maka diperoleh model
+kedua yaitu,
+  U
+2
+K
+p
+2
+1
+m
+n
+tot 8 μ L
+ΔP
+R
+R
+1 ηεα
+α
+a
+1 1
+1 ηε
+ε
+U  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  (16)
+Pendekatan berikutnya dalam menentukan εX
+yakni dengan menurunkan volum rongga eksternal
+secara teoritis sehingga εX = Vex/VU, dimana volum
+rongga eksternal (Vex) ditentukan dengan
+menggunakan konfigurasi butiran yang diasumsikan
+berdasarkan Gambar. 2d dan f, dengan definisi sebagai
+berikut,
+  ex 1 1,Ι 1 1,ΙΙ V  N β V  (1β )V (17)
+Dimana N adalah jumlah total unit rongga
+eksternal di dalam unggun, β1 (0<β1<1) adalah fraksi
+rongga untuk satu unit volum dengan konfigurasi
+maksimum, V1,I volum satu unit rongga sel dengan
+konfigurasi maksimum, dan V1,II adalah volum satu
+unit rongga sel dengan konfigurasi minimum. Metode
+penurunan yang digunakan merujuk pada Heris dkk.
+(2009), yang menurunkan untuk kondisi dua butiran
+berbeda ukuran, namun disini kondisi tersebut
+diekspansi untuk 4 butiran (konfigurasi maksimum),
+dan 3 butiran (konfigurasi minimum) yang seragam.
+Konfigurasi Maksimum
+Jumlah volum cairan yang berada di dalam
+rongga diantara butiran dipengaruhi beda tekan antara
+cairan dan lingkungannya ΔPɭ, tegangan permukaan σ
+dan luas permukaan butiran yang ditutupi oleh butiran
+ω. Untuk konfigurasi maksimum (Gambar 2d) dapat
+ditulis sebagai berikut,
+ 
+
+
+ 
+
+
+   
+1 2 3 4 ω
+1
+ω
+1
+ω
+1
+ω
+1
+ΔP σ (18)
+Untuk suatu silinder simetris, diperlukan suatu
+persamaan garis dimana, jika dirotasikan akan memberikan luas antarmuka. Berdasarkan Heris dkk.
+(2009), persamaan garis tersebut ialah sebagai berikut,
+    2 2 3 2
+2
+1 dy dx
+1
+dx
+d y
+ω
+1
+
+ 
+
+
+ 
+
+
+ (19)
+Untuk butiran homogen, maka ω1 = ω2 = ω3 =
+ω4 = ω, dengan mengenalkan variabel tak berdimensi
+x* = x/RB, y* = y/RB, dan memasukkan Per. 19
+kedalam 18, maka diperoleh,
+  2 3 2 1 Y'
+1
+γ Y"
+
+ ,
+4ς
+ΔP R
+γ  B  ,
+dx*
+dy*
+Y' ,
+2
+2
+dx*
+d y *
+Y"
+(20)
+Pada setiap butiran dapat didefinisikan
+beberapa terminasi berikut.
+x* = x/RB = sin θ, α = Y’= (tan θ)-1, Y”= αdα/dy*(21)
+Dengan memasukkan terminasi pada
+Persamaan 21 kedalam Persamaan 20 dan untuk
+kenyamanan penulisan * dihilangkan, maka akan
+diperoleh,
+  2 3 2 1 α
+1
+dy
+dα
+γ α
+
+ (22)
+Persamaan di atas kemudian diintegrasikan
+menjadi,
+  i
+2 0,5  1 α  γy C
+
+(23)
+Dengan kondisi batas bahwa pada saat
+y=y1=y1/r, maka α1 = (tan θ1)-1,(1+α1
+2)-0,5 = 1/sin θ1 =
+1/sin θ dan Persamaan 23 dapat ditulis lagi menjadi,
+  
+0,5
+2
+1
+1
+γ y y
+sinθ
+1
+1
+dx
+dy
+α
+
+
+
+
+
+
+
+
+
+
+
+ 
+  (24)
+Persamaan diatas kemudian diintegrasi dengan
+batas, x1 hingga x, dan y1 hingga y2, dimana x1 = sin θ1
+dan untuk butiran seragam sin θ1 = sin θ ≈ 0,725, cos θ
+≈ 0,677, tan θ ≈ 1,071, dan y2=3.4y1 maka diperoleh,
+ 3.158γ 2.749γ 0.933 0,725
+0.687γ 1
+0.670
+γ
+0.975
+x
+0.5
+2
+   
+
+
+
+
+
+
+
+
+ 
+
+(25)
+Persamaan di atas digunakan untuk menentukan
+volum putaran (total) dari Persamaan 19, dan volum
+cairan terdefinisi sebagai volum total dikurangi
+dengan volum padatan dari butiran yang ditutupi oleh
+cairan yaitu,
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+y2
+y1
+2
+3
+B,1 B,4
+4
+2
+4
+4
+3
+B,1 B,3
+3
+2
+3
+3
+3
+B,1 B,2
+2
+2
+2
+2
+1
+2
+1
+3 1
+B
+1,Ι
+x dy
+3 R R
+2 cosθ cos θ
+(1 cosθ )
+3 R R
+2 cosθ cos θ
+(1 cosθ )
+3 R R
+2 cosθ cos θ
+(1 cosθ )
+3
+2 cosθ cos θ
+(1 cosθ )
+πR
+V
+(26)
+Karena butiran diasumsikan seragam maka
+Persamaan 26 dapat disederhanakan lagi menjadi,
+       
+y2
+y1
+2 2
+3
+B
+1,Ι (1 cos θ ) 2 cosθ cos θ x dy
+3
+4
+πR
+V
+(27)
+Dengan mendefinisikan RB sebagai dB yaitu
+diameter butiran, maka integrasi dari Persamaan 27
+akan memberikan.
+2
+V1,Ι  Γ1πdB (28)
+Dimana
+8
+1.625 2.356 0.101 2
+1
+   
+ 
+ 2 0.5 3.158γ 2.749γ 0.933
+0.687γ 1
+0.670
+γ
+0.975
+Γ   
+
+ 
+
+
+ 
+
+
+
+
+(29)
+Konfigurasi Minimum
+Penyelesaian untuk konfigurasi minimum
+analog dengan sebelumnya, yaitu Persamaan 18 dapat
+ditulis ulang menjadi,
+ 
+
+
+ 
+
+
+  
+1 2 3 ω
+1
+ω
+1
+ω
+1
+ΔP σ (30)
+Pada konfigurasi ini harga trigonometrinya
+yaitu x1 =sin θ1 = sin θ ≈ 0.895, y1 = cos θ ≈ 0.446,
+dantan θ ≈ 2.009, dan y2 = 2y1, dengan
+menganalogikan sebagaimana halnya tabung dan
+kerucut, maka Persamaan 25-28, dapat ditulis lagi
+menjadi,
+0.895
+γ
+1.264
+0.314γ x   
+
+
+ 
+
+
+   (31)
+ 
+ 
+    
+y2
+y1
+2
+2
+3
+B
+1,ΙΙ
+x dy
+3
+1
+(1 cos θ) 2 cosθ cos θ
+3
+3
+πR
+V
+(32)
+3
+V1,ΙΙ  Λ1πdB (33)
+Dimana,
+8
+0.149Λ 0.267Λ 1.126
+Λ
+2
+1
+ 
+ ,
+ 
+
+
+ 
+
+
+ 
+γ
+1.264
+Λ 0.314γ
+Dengan demikian maka εX dapat ditulis ulang
+sebagai,
+   
+U
+2
+K
+3
+B
+X 1 1 1 1
+d L
+d
+ε  4N β Γ  1β Λ (34)
+Dengan pendekatan bahwa N adalah
+perbandingan antara volum unggun total dengan
+volum pori eksternal (1/εX), maka Persamaan34 dapat
+ditulis lagi menjadi.
+   
+0.5
+U
+B
+1 1 1 1
+K
+B
+X L
+d
+β Γ 1 β Λ
+d
+2d
+ε 
+
+
+
+   (35)
+Dengan memasukkan Persamaan 35 ke
+Persamaan 14 dan 15, maka diperoleh model ketiga
+yaitu Persamaan 36.
+Harga Permeabilitas
+Dengan menggunakan Persamaan 1 dan 2 pada
+data yang diperoleh, maka diperoleh harga
+permeabilitas untuk masing-masing kondisi yang
+dapat dilihat pada Tabel 1.
+Dari harga tersebut terlihat bahwa semakin
+besar ukuran partikel butiran maka akan semakin
+besar permeabilitasnya, demikian pula semakin besar
+komposisi kompos yang ditambahkan maka akan
+semakin besar pula permeabilitas. Hal ini disebabkan
+semakin besar ukuran partikel maka ruang tidak
+ditempati secara efektif oleh padatan sehingga
+memperbesar porositas yang mengakibatkan semakin
+mudahnya air mengalir, demikian pula dengan
+semakin meningkatnya komposisi kompos maka
+heterogenitas medium juga bertambah, yang
+memberikan ruang lebih besar akibat susunan butiran
+dan pipa yang saling terganjal.
+Harga Parameter
+Nilai parameter empiris ditentukan dengan
+menggunakan aplikasi solver pada Ms.Excell, dimulai
+dari parameter milik model yang paling sederhana,
+kemudian harga dari model yang paling sederhana
+dijadikan sebagai tebakan awal untuk model
+berikutnya hingga model yang ketiga. Harga-harga
+parameter tersebut dapat dilihat pada Tabel 2.
+Tabel 1. Daftar harga permeabilitas yang diukur
+dari data percobaan.
+Tabel 2. Harga parameter untuk masing-masing model
+Parameter
+Model
+Pertama
+Model
+Kedua
+Model
+Ketiga
+n 8,173 8,288 5,065
+m 5,770 5,955 1,649
+α1 3,496 3,794 0,091
+α2 . 10-4 1,267 1,267 1,001
+η - 0,65 -
+β1 - - 0,353
+Γ1 - - 0,9067
+Λ1 - - 0,971
+Kesalahan 0,457 0,464 0,574
+   
+   
+U
+2
+K
+p
+2
+0.5
+U
+B
+1 1 1 1
+K
+B
+1
+m
+0.5
+U
+B
+1 1 1 1
+K
+B
+n
+tot 8 μL
+ΔP
+d
+d
+α
+L
+d
+β Γ 1 β Λ
+d
+2d
+1
+α
+a
+1 1
+L
+d
+β Γ 1 β Λ
+d
+2d
+1
+ε
+U  
+
+
+ 
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  (36)
+Kompos :
+Pasir
+Diameter
+rata-rata
+pipa
+(cm)
+Diameter
+rata-rata
+butiran
+(cm)
+ε
+B .106
+(cm2)
+1:3 0,189 0,189 0,512 1,625
+1:1 0,189 0,189 0,486 4,082
+3:1 0,189 0,189 0,542 7,900
+1:1 0,121 0,055 0,620 7,210
+1:1 0,121 0,073 0,670 9,957
+2:1 0,121 0,073 0,681 1,095
+1:5 0,121 0,073 0,600 6,474
+1:1,4 0,121 0,121 0,662 4,168
+1:1 0,073 0,073 0,643 7,538
+3:1 0,073 0,073 0,670 7,969
+1:1 0,073 0,093 0,643 6,639
+-:1 - 0,189 0,417 2,268
+-:1 - 0,093 0,361 1,739
+-:1 - 0,039 0,306 1,361
+1:- 0,093 - 0,472 19,995
+1:- 0,039 - 0,403 6,917
+
+
+Dari hasil yang diperoleh, terlihat bahwa n>m, dimana n dan m > 1, untuk semua model, hal ini menunjukkan porositas total memiliki pengaruh yang jauh lebih kecil dibandingkan keberadaan kompos, karena harga ε dan fp antara 0 dan 1, kondisi ini bersesuaian di lapangan yaitu untuk harga porositas yang sama medium yang ditambahkan dengan kompos lebih baik dengan tanpa kompos. Selain itu diperoleh juga bahwa η dan β1 berharga antara 0 hingga 1 dan ini rasional karena parameter tersebut adalah suatu harga fraksi, kesamaan harga yang diestimasi dan harga percobaan dapat dilihat pada Gambar 3 dan pada Gambar 4 diketahui hasil permeabilitas dihitung dengan model yang telah dibangun dan terlihat bahwa semakin besar porositas dan fraksi kompos maka semakin besar harga permeabilitasnya, yang bersesuaian dengan percobaan.
+Berdasarkan bentuk modelnya, model pertama merupakan model yang paling sederhana, sedangkan ketiga adalah yang paling komplek, namun harga kesalahannya tidak berbanding lurus dengan kompleksitasnya. Hal ini kemungkinan karena terdapat parameter-parameter yang boleh jadi merupakan suatu variabel tidak tetap, seperti η dan β1, dimana harganya berubah berdasarkan komposisi kompos dan pasir yang digunakan. Demikian pula dengan variabel Γ1 dan Λ1, selain berubah terhadap komposisi, juga dipengaruhi oleh keseragaman aliran. Meskipun kekurangan ini teridentifikasi namun solusinya masih belum ditemukan karena variabel-variabel tersebut sangat sulit untuk diukur.
+
+Gambar 3. Plot kesamaan harga permeabilitas terestimasi dengan harga permeabilitas terukur
+Gambar 4. Permeabilitas yang dihitung dengan Persamaan B = Utot . μ . LU /(-ΔP) dari Persamaan 15, 16 dan 36., dengan RP = RB = 0,01 cm, RK = 3 cm, LU = 10 cm dan εX = 0,3
+
+Estimasi Distribusi Tekanan Cairan di Bioreaktor
+Perhitungan ini dilakukan berdasarkan kondisi
+percobaan Persamaan Richard-Darcy (Richard, 1931),
+namun permeabilitas B akan dimodifikasi dengan
+model ketiga. Model ini dipilih karena memiliki
+variabel yang bergantung terhadap arah z dan r relatif
+terhadap bioreaktor tanaman secara keseluruhan,
+sehingga bisa disesuaikan dengan Persamaan Richard-
+Darcy dalam hal menentukan turunan permeabilitas
+relatif terhadap arah radial dan arah aksial. Pada
+keadaan kontinyu persamaan-persamaan tersebut
+dapat ditulis ulang menjadi,
+0
+z
+B
+B ψ B ψ g 2 
+
+
+    (37)
+2
+p
+-4
+0.5
+B B
+1,649
+0.5
+B B
+5,065
+r
+R
+1,000 10
+z
+2R
+0,948
+r
+2R
+8 1
+0,091
+a
+1 1
+z
+2R
+0,948
+r
+2R
+1
+ε
+B  
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+
+(38)
+Persamaan tersebut diterapkan pada kondisi
+dimana dimensi bioreaktor tanaman berbentuk
+silinder, dengan tinggi (z) sebesar 40 cm, dan jari-jari
+(r) 15 cm sebagaimana yang terlihat pada Gambar 5.
+Persamaan di atas memiliki kondisi batas saat
+z = 0, ψ = harga potensial kapiler dasar (diasumsikan
+langsung bersentuhan dengan permuakaan air bebas
+sehingga harganya konstan), dengan menjadikan harga
+ini sebagai referensi maka ψ= 0 cm2/s2, pada saat di
+bagian tepi bioreaktor tanaman, z = LU, r = RK, maka
+dψ/dz dan dψ/dr = 0 yang berarti tidak mengalami
+perubahan lagi di setiap masing-masing arah. Dengan
+menggunakan FLexPDE v6.32 student version, maka
+diperoleh hasil yang dapat dilihat pada Gambar 6.
+Gambar 5. Skema bioreaktor tanaman dengan mekanisme aliran kapiler yang terjadi di dalamnya(a) dan sistem akar
+sederhana berupa silinder tunggal (b).
+Gambar 6. Profil distribusi tekanan di dalam bioreaktor tanaman pada kondisi percobaan.
+
+Pada Gambar 6 terlihat bahwa terdapat
+peningkatan potensial kapiler sepanjang ketinggian
+bioreaktor, potensial kapiler tersebut diakibatkan oleh
+adanya aliran kapiler menuju keatas (pada aliran
+kapiler, jumlah potensial kapiler bergantung pada
+jumlah cairan kapiler), sehingga semakin besar
+potensial kapiler menunjukkan semakin banyak aliran
+kapiler menuju keatas. Pada gambar diatas
+jugadiperoleh informasi bahwa unggun yang terdiri
+variasi kompos dan pasir lebih baik dibandingkan
+dengan pasir saja (a=0) atau kompos saja (a=∞).
+Fenomena itu mungkin saja terjadi, karena
+dengan komposisi pasir dan kompos yang sesuai
+memberikan peluang lebih untuk terjadinya
+keterhubungan antara pipa satu dan lainnya di dalam
+unggun. Dengan demikian, perbandingan
+kompos:pasir diatas 1 tidak memberikan peningkatan
+yang signifikan terhadap aliran kapiler, sehingga
+kondisi ini merupakan kondisi optimum dimana aliran
+maksimum dapat dicapai di dalam bioreaktor tanaman.
+Estimasi Distribusi Tekanan Cairan Sepanjang
+Akar
+Pengaruh suatu permeabilitas dapat dilihat pada
+pengambilan air dari bioreaktor tanaman oleh akar,
+dengan mengasumsikan akar berbentuk silinder
+tunggal, kemudian menerapkan persamaan
+pembangun yang telah disusun oleh Molz (1981)
+kedalam koordinat silinder (Gambar 5b) maka
+diperoleh persamaan pembangun sebagai berikut,
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+
+r
+p
+r
+r r
+1
+D
+t
+pm m (39)
+Dimana pm adalah tekanan terukur, dan
+Dadalah koefisien perpindahan yang merupakan
+fungsi permeabilitas dan viskositas. Kemudian
+langkah-langkah penurunan berikutnya merujuk
+kepada Roose (2000), yaitu memiliki kondisi batas
+saat r = a (yaitu jari-jari) maka pm = p (tekanan
+bioreaktor), dan pada saat r = aX (dipermukaan
+kortek), maka pm = pr(tekanan akar di xylem),
+kemudian mendekati Persamaan 39 untuk sistem
+kontinyu maka diperoleh persamaan akhir yaitu,
+r a p
+a a
+p p
+p
+X
+r
+m  
+
+
+ (40)
+Besarnya laju alir volumetrik persatuan luas
+yang melewati permukaan akar dengan jari-jari r=a
+adalah.
+  r
+X
+m p p
+a a
+D
+r
+p
+D 
+
+
+
+
+(41)
+Dalam makalahnya Roose (2000), secara tidak
+langsung menunjukkan bahwa D merupakan
+perbandingan antara konduktivitas tanah dengan
+viskositas air dan jumlah ini disebut sebagai
+konduktivitas radial (kr), dan perubahan tekanan
+terukur merujuk pada perubahan tekanan di dalam
+tanah, sehingga Persamaan 41 dapat ditulis kembali
+menjadi.
+  kr p pr
+r
+p
+μ
+B
+ 
+
+
+, pada r = a,
+dimana kr=B/(tebal kortex . μ) (42)
+Dalam meninjau arah aliran vertikal pada
+pembuluh xylem di dalam akar, aliran dianggap terjadi
+di dalam pipa lurus dengan kecepatan rendah,
+sehingga untuk satu pembuluh xylem persamaan
+pembangunnya dapat didekati dengan menggunakan
+persamaan Poiseuille yaitu,
+
+
+
+
+
+
+
+
+
+  ρg
+z
+p
+8μ
+R
+q* r
+4
+X (43)
+Dimana q* adalah laju volumetrik untuk satu
+pembuluh xylem. Jika terdapat sejumlah n pembuluh
+xylem, maka laju volumetrik total q*tot adalah nq*,
+dan harga suku pengali diruas kanan dikalikan dengan
+n maka disebut sebagai konstanta konduktivitas aksial
+akar, sehingga Persamaan 43 dapat ditulis lagi
+menjadi,
+  
+
+ 
+
+
+
+
+
+  ρg
+z
+p
+q* k r
+tot X (44)
+Pada kondisi aliran setimbang, jumlah air yang
+masuk secara radial akan sama dengan jumlah air
+yang berpindah secara aksial di dalam pembuluh
+xylem, maka dengan menyamakan Persamaan 44
+dengan 42, kemudian mendiferensiasikannya terhadap
+panjang akar (arah aksial) maka akan diperoleh
+persamaan berikut,
+  2 r r
+r
+2
+X 2π a k p p
+z
+p
+k  
+
+
+ (45)
+Dengan kondisi batas, pada z=0 maka pr = T
+(tekanan pangkal akar), dan dpr/dz= 0 pada saat z=L,
+kemudian melakukan non-dimensionalisasi yaitu
+dengan, kemudian melakukan non-dimensionalisasi
+yaitu dengan,
+z*=z/L, pr* = pr/T, P0= p/T = konstan (tekanan tanah) (46)
+Memasukkan semua terminasi di Persamaan 46
+kedalam Persamaan 45 lalu untuk kenyamanan
+penulisan, tanda * dihilangkan, maka diperoleh hasil
+yaitu,
+2 r 0
+r
+2
+2
+p P
+dz
+d p
+κ
+1
+   ,
+dimana
+0,5
+x
+r
+k
+k
+κ L 2π a  
+
+
+ 
+
+
+ (47)
+Dengan kondisi batas pada z = 0, maka pr = 1,
+dan pada z = 1 maka dpr/dz = 0, Persamaan akhir
+diatas diselesaikan dengan FlexPDE v6.32 student
+version, dengan kondisi-kondisi dan parameter yang
+diketahui merujuk pada disertasi Roose (2000).
+
+Gambar 7. Perbandingan harga tekanan hidrolik air disepanjang akar yang berada di berbagai medium, κ = 2.089 (Roose 2000) (medium berupa tanah lempung), κ = 28.8 (medium merupakan pasir-pasir batuan yang gersang), κ = 102684 (Bioreaktor dengan komposisi kompos:pasir = 1:3 untuk ukuran mesh 8/14).
+Dari hasil tersebut maka semakin permeabilitas, maka harga kr semakin besar sehingga parameter κ juga meningkat, peningkatan harga κ yang signifikan menyebabkan peningkatan pengambilan air oleh akar yang signifikan hingga suatu batas tertentu. Kemungkinan besar ini merupakan salah faktor yang meningkatkan produktivitas tanaman pada saat menggunakan kompos dalam medium tanamnya. Namun jika hanya berdasarkan permeabilitas saja, pasir berbatu dengan harga permeabilitas yang juga jauh diatas κ = 2,089 (pada faktor 103), terlihat memberikan hasil yang lebih baik dibandingkan dengan tanah biasa, karena memberikan peningkatan tekanan cairan yang signifikan. Namun pada kenyataannya tanaman tidak berkembang dengan baik di medium yang hanya terdiri dari batuan pasir, tentu ada faktor yang juga patut menjadi prtimbangan terhadap peningkatan produksi tanaman selain permeabilitas. Dengan membandingkan hasil ini dengan estimasi distribusi tekanan di bioreaktor maka kondisi K:P 1:3 memberikan pola aliran yang masih dapat ditingkatkan lagi (Gambar 6.) di dalam bioreaktor tanaman hingga kondisi K:P 1:1, sehingga untuk menambah kenyamanan dalam memastikan keberlangsungan aliran maka disimpulkan bahwa K:P 1:1 adalah kondisi yang lebih tepat.
+KESIMPULAN
+Pada kajian ini terdapat tiga model aliran yang diajukan masing-masing hanya berbeda dari sisi kompleksitasnya, model pertama memiliki empat parameter memiliki kesalahan sebesar 0,457, sedangkan model kedua memiliki lima parameter dengan kesalahan sebesar 0,464, model terakhir dengan tujuh parameter dengan kesalahan sebesar 0,574, dengan model tersebut diketahui bahwa dengan meningkatnya ukuran porositas dan fraksi kompos maka akan memberikan peningkatan terhadap permeabilitas, dan hal ini bersesuaian dengan keadaan percobaan. Untuk menjamin aliran air di dalam bioreaktor tersebut, disarankan menggunakan kompos sebesar setengah dari volum unggun total. Serta perlu dikaji lagi faktor lain yang juga penting terhadap peningkatan produksi tanaman selain permeabilitas.

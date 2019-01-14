@@ -1,0 +1,51 @@
+﻿ABSTRAK 
+Perkembangan di bidang teknologi informasi membuat banyak perusahaan dibidang perhotelan mulai mengembangkan sistem administrasinya dengan menggunakan teknologi informasi. Salah satunya adalah dengan menggunakan aplikasi yang berbasis web. Sistem informasi reservasi berbasis web dikembangkan di Hotel Karlita, sistem tersebut mengolah data pemesanan kamar baik proses check-in dan check-out maupun proses penghitungan pendapatan sewa kamar per bulan. Sistem informasi reservasi dikembangkan dengan waterfall model, dan dibangun dengan bahasa pemrograman PHP dan PhpMyAdmin sebagai sebuah tools untuk membantu mengelola basis data MySql serta text editor Notepad++. Sistem informasi reservasi dapat memberikan kemudahan bagi receptionist dan pelanggan hotel dalam melakukan pemesanan kamar. Selain itu pengunjung juga dapat memperoleh segala informasi fasilitas dan berita yang ada di Hotel Karlita. 
+Kata Kunci : Sistem Informasi, Reservasi, Waterfall Model.
+
+BAB I PENDAHULUAN 
+I.1 Latar Belakang 
+Di era globalisasi seperti saat ini dunia teknologi dan informasi perkembangannya sangat pesat, khususnya dunia komputer. Komputer saat ini merupakan kebutuhan manusia di dalam melakukan berbagai kegiatan, ditambah dengan adanya teknologi informasi yang semakin berperan di dalam dunia pekerjaan. Dengan menggunakan piranti teknologi informasi yang tepat, maka akan dihasilkan informasi yang tepat dan akurat sesuai dengan kebuutuhan sehingga keputusan dapat diambil dengan cepat. 
+
+Salah satu piranti teknologi adalah internet, yaitu sebuah jaringan online global tanpa batas yang menyediakan berjuta jenis informasi. Sejalan dengan perkembangan teknologi yang semakin modern, banyak hotel-hotel yang menggunakan fasilitas internet dalam sistem pemesanan kamar. Hal ini disebabkan karena metode ini dipandang memiliki beberapa keuntungan lain bila dibandingkan dengan sistem pemesanan kamar secara langsung, yang mana akan mempengaruhi perilaku dari hotel tersebut baik dari segi manajemen maupun pemesanan dan layanan informasi yang diberikan. 
+
+Hotel Karlita sebagai salah satu hotel berbintang di kawasan kota Tegal merupakan hotel yang sedang berkembang dan terus berupaya untuk meningkatkan layanan serta standar kualitas hotel dari berbagai sisi antara lain sisi pemanfaatan teknologi informasi. Selama ini, sistem sewa kamar yang ada di Hotel Karlita masih dilakukan dengan cara melakukan pencatatan buku reservasi sehingga sistem tersebut perlu dibenahi. Beberapa sistem yang dinilai perlu dibenahi adalah sistem pemesanan sewa kamar, sistem check-in, sistem check-out. Sistem tersebut perlu dibenahi dengan sistem baru yang terkomputerisasi berbasiskan web yang dinilai lebih efisien. 
+
+I.2 Rumusan Masalah 
+Berdasakan pada latar belakang masalah yang telah diungkapkan sebelumnya, maka permasalahan pokok yang dibahas dalam tugas akhir ini adalah bagaimana mengembangkan sistem informasi reservasi online yang mudah untuk digunakan (user friendly) dalam mengelola data - data pemesanan yang ada. 
+
+I.3 Tujuan dan Manfaat 
+Tujuan yang hendak dicapai dalam pelaksanaan dan penulisan tugas akhir ini adalah membuat suatu sistem informasi untuk membantu memudahkan proses pemesanan kamar yang terkomputerisasi, membantu perhitungan pembayaran yang harus dibayar oleh tamu dan mengetahui persediaan kamar yang kosong. 
+Adapun beberapa manfaat yang diharapkan dari pembuatan tugas akhir ini adalah sebagai berikut : 
+1) Bagi Penulis 
+
+Penulis dapat mengaplikasikan ilmu pengetahuan yang dimiliki, yang telah didapat di bangku perkuliahan dalam merancang sistem informasi pemesanan kamar hotel, serta sebagai syarat memperoleh gelar sarjana komputer. 
+
+2) Bagi Hotel Karlita Tegal 
+a) Sebagai media promosi hotel, sehingga dapat lebih dikenal oleh berbagai pihak luar. 
+b) Mempermudah pihak pengelola hotel dalam mengelola data pemesanan (booking) kamar oleh pelanggan. 
+3) Bagi Universitas Diponegoro 
+
+Sebagai salah satu bahan referensi untuk Universitas Diponegoro dalam pengembangan sistem informasi reservasi. 
+
+I.4 Ruang Lingkup 
+Dalam penyusunan tugas akhir ini, masalah-masalah yang dibahas diberikan ruang lingkup permasalahan, yaitu: 
+1) Sistem ini terbatas pada pengelolaan informasi mengenai pemesanan kamar yang ada di Hotel Karlita. 
+2) Sistem reservasi kamar dibagi menjadi dua bagian, yaitu : 
+a) Reservasi Tidak Langsung yaitu ketika pelanggan melakukan reservasi melalui website hotel dengan melakukan prosedur reservasi. 
+b) Reservasi Langsung yaitu ketika pelanggan melakukan reservasi di komputer hotel dengan inputan data receptionist. 
+3) Reservasi tidak langsung hanya dapat dilakukan setelah pengguna atau pengunjung web mendaftarkan diri sebagai pelanggan dan melakukan login dengan identitas pelanggan di Hotel Karlita. 
+4) Pembayaran reservasi tidak langsung dilakukan melalui transfer Bank, dengan ketentuan minimal uang muka 30% dan akan hangus jika pelanggan tidak membayar dua hari setelah melakukan input data reservasi. 
+5) Tagihan hanya terbatas pada tagihan sewa kamar saja, tanpa melibatkan tagihan restorasi, laundry dan sebagainya. 
+
+I.5 Sistematika Penulisan 
+Sistematika penulisan yang digunakan dalam tugas akhir ini terbagi dalam beberapa pokok bahasan, yaitu : 
+BAB I PENDAHULUAN 
+Berisi tentang latar belakang masalah, perumusan masalah, tujuan dan manfaat penulisan tugas akhir, ruang lingkup masalah dan sistematika penulisan. 
+BAB II DASAR TEORI 
+Berisi kumpulan studi pustaka yang berhubungan dengan topik tugas akhir. 
+BAB III ANALISIS DAN PERANCANGAN 
+Membahas proses pengembangan perangkat lunak pada tahap analisis dan perancangan. 
+BAB IV IMPLEMENTASI DAN PENGUJIAN 
+Membahas hasil yang didapat pada tahap implementasi. Juga berisi rincian pengujian sistem informasi reservasi yang dibangun dengan metode black box. 
+BAB V PENUTUP 
+Berisi kesimpulan yang diambil berkaitan dengan sistem yang dikembangkan dan saran-saran untuk pengembangan sistem lebih lanjut.

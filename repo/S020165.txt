@@ -1,0 +1,239 @@
+﻿Mengingat pentingnya peran arsip dalam mendukung aktifitas organisasi, maka
+perlu dilakukan pengelolaan arsip yang baik dan benar melalui manajemen
+kearsipan. Salah satu masalah yang dihadapi dalam pengembangan tata kelola
+arsip adalah meningkatnya penggunaan arsip digital pada organisasi. Untuk
+mengelola arsip digital tersebut salah satunya menggunakan fasilitas aplikasi
+berbasis cloud computing. Interface pada aplikasi tersebut menjadi jembatan
+yang menghubungkan kebutuhan informasi pengguna dengan sumber daya yang
+ada di organisasi. Salah satu cara mengevaluasi dan merencanakan desain
+interface dikenal dengan nama uji ketergunaan atau usability testing. Uji
+ketergunaan atau usability adalah mengukur kemudahan penggunaan, kemudahan
+dalam mempelajari, efisiensi dan kepuasan. Dasar teori yang dipakai dalam
+penelitian ini adalah evaluasi heuristik dari Jakob Nielsen yang terkenal dengan
+ten usability heuristics. Penelitian ini dilakukan terhadap 28 orang pegawai PT.
+XYZ bagian arsip sebagai responden atau pengguna, dengan tujuan untuk
+mengetahui tingkat kegunaan (usablity) dari aplikasi Xcloud. Usability apliaksi
+Xcloud dari hasil analisis peneliti dengan menggunakan metode sepuluh heuristik,
+hampir tidak ditemui adanya masalah dalam usability. Sebagian besar dari item
+heurisitik yang sudah ada dalam Xcloud, namun masih ada item yang belum
+terpenuhi. Berdasarkan perolehan nilai secara keseluruhan dari rata-rata sepuluh
+heuristik, yakni memiliki jumlah score 2,91 atau memiliki nilai interval 3. Artinya
+menurut skala Linkert tingkat usability dari aplikasi Xcloud tergolong dalam
+kategori baik. Jadi pada aplikasi Xcloud sudah usable dari sudut pandang
+pengguna Xcloud itu sendiri dalam hal ini pegawai dari PT. XYZ.
+Kata Kunci: Usability, Evaluasi Heuristik, Managemen arsip digital, cloud
+computing
+
+BAB I
+PENDAHULUAN
+I.1 Latar Belakang Masalah
+Di abad 21 saat ini, sistem dokumentasi arsip sudah masuk pada tahapan
+generasi yang didukung oleh kecanggihan elektronik. Kecanggihan tersebut
+dapat memudahkan organisasi untuk membuat dokumen, mengklasifikasinya,
+menyimpan rekamannya, mengambil, merevisi hingga memusnahkannya secara
+elektronik. Keunggulan kompetitif dan efisiensi dari suatu organisasi sering
+terlihat dari hasil penerapan teknologi baru yang visioner yang terbukti
+memecahkan masalah organisasi secara umum.
+Kebutuhan informasi dalam setiap kegiatan merupakan kebutuhan
+yang mendasar. Informasi dibutuhkan dalam kegiatan teknis sampai dengan
+kegiatan pengambilan keputusan oleh pemimpin. Salah satu sumber informasi
+adalah rekaman data-data dalam berbagai media yang disebut arsip.
+Mengingat pentingnya peran arsip dalam mendukung aktifitas, maka perlu
+dilakukan pengelolaan arsip secara baik dan benar melalui manajemen
+kearsipan. Manajemen kearsipan yang efektif, akan dapat menyediakan data
+dan informasi dengan cepat dan tepat.
+Namun demikian, masih banyak organisasi yang terjebak dengan
+dokumentasi oleh karena tidak adanya pengelolaan yang semestinya. Berdasarkan
+hasil survey dari sebuah lembaga Training Document and Filing Management
+yang dilakukan oleh fasilitator terhadap peserta pelatihan dan perusahaan-
+
+perusahaan yang telah mengundang untuk menerapkan sistem manajemen¸
+menemukan bahwa:
+1. 15% kertas kerja tidak tersimpan dengan rapi dan cenderung salah letak,
+2. 30% dokumen di tempat kerja sudah obsolete,
+3. 40% waktu pegawai digunakan untuk mencari dokumen yang hilang dan
+salah letak,
+4. Pertumbuhan jumlah dokumen kerja meningkat 25% per tahun yang
+berarti menjadi berlipat ganda dalam 4 dalam 8 tahun berikutnya,
+5. 50% dokumen dan arsip penting tidak ter-backup dengan baik, dan
+Organisasi menjadi chaos bila terjadi disaster (kebakaran hebat, gempa
+bumi, pembobolan/ perampokan dll).
+Penerapan manajemen dokumen yang tepat apalagi menggunakan
+teknologi komputer, memberikan banyak sekali manfaat, yakni menurunkan biaya
+penyimpanan dokumen secara fisik juga pemusnahan dokumen. Selain itu dalam
+pembuatan, revisi, distribusi, penyimpanan dokumen menjadi tertib dan rapi jika
+dibandingkan dokumen konvensional. Dengan electronic document, kolaborasi
+menjadi lebih mudah karena siapa saja dapat melihat dokumen secara bersamaan,
+dimana hal ini tidak akan terjadi dengan dokumen kertas. Dalam penggunaannya,
+dokumen yang terkini saja yang ada di tempat kerja, hal ini menghindari
+kesalahan kerja dan miskomunikasi. Manfaat lain dari penerapan manajemen
+dokumen dengan teknologi komputer yakni semua dokumen dan arsip ter-backup
+secara aman.
+Dengan melihat perkembangan perangkat teknologi informasi di Indonesia
+yang kini berkembang pesat, tidak heran jika saat ini telah banyak instansi
+pemerintah dan swasta telah beralih dari konvensional ke elektronik dalam hal
+penyimpanan dan pemanfaatan arsip yang biasa disebut sebagai proses digitalisasi
+arsip. Digitalisasi arsip adalah salah satu cara/proses merubah arsip konvensional
+dalam berbagai bentuk menjadi arsip elektronik.
+Fenomena peningkatan penggunaan arsip elektronik ini juga didukung
+oleh ANRI (Arsip Nasional Republik Indonesia) yakni lembaga yang mengelola
+arsip Negara yang menyediakan jasa penyimpanan arsip dalam bentuk elektronik
+serta menyediakan jasa untuk melakukan alih media dari arsip konvensional
+menjadi bentuk elektronik. Hal tersebut dapat menjadi sebuah bukti bahwa
+instansi pemerintah sudah memasuki era arsip elektronik yang mengalami
+pergeseran dalam hal penyimpanan dan pemanfaatan arsip dari bentuk
+konvensional menjadi elektronik.
+Program digitalisasi arsip dilakukan sebagai upaya mempertahankan
+kemampuan untuk menampilkan, mengambil, dan menggunakan koleksi
+elektronik dalam menghadapi perubahan teknologi yang sangat pesat, serta
+memberikan akses seluas-luasnya bagi masyarakat. Arsip elektronik dapat
+digunakan untuk pencetakan, dokumentasi, dan publikasi yang terkait (online)
+sehingga dapat diakses lebih luas oleh pengguna arsip. Untuk mengidentifikasi
+keberadaan arsip yang memiliki relevansi informasi di semua arsip organisasi,
+diperlukan suatu sistem informasi arsip untuk menghubungkan kesatuan file
+secara keseluruhan.
+
+Era arsip elektronik dikalangan instansi pemerintah dan swasta juga
+ditandai dengan banyaknya event seminar dengan topik Records Management
+System atau juga dikenal dengan istilah RMS. RMS diimplementasikan untuk
+mengelola arsip-arsip elektronik yang dihasilkan dari suatu aplikasi word
+processor, spread sheet, presentation dan project agar memudahkan dalam
+pembuatan identifikasi revisi dokumen elektronik dengan otorisasi updating
+revisi dokumennya sehingga dokumen elektronik tersebut dapat ditemukan
+dengan cepat pada saat dibutuhkan. Tentunya hal tersebut juga diperlukan oleh
+sektor organisasi swasta untuk mendapatkan standarisai ISO 9001 dalam hal
+kebijakan pengendalian dokumen.
+Sistem informasi sebagai suatu proses interaksi antara teknologi dan
+aktifitas sumber daya manusia terhadap teknologi tersebut, menghadapi isu
+utama dalam hal sebarapa jauh sebuah teknologi informasi mampu memberikan
+kontribusi yang nyata bagi pengelolaan ataupun sistem pendukung keputusan
+dari suatu organisasi atau perusahaan. Organisasi/perusahaan yang bertumbuh
+besar bahkan melintasi batas-batas wilayah regional atau terdiri dari suatu
+proses yang komplek tentunya membutuhkan sistem manajerial yang baik.
+Bagaimana suatu data atau arsip dikelola, disimpan dan dimanfaatkan secara
+maksimal. Dilain pihak, teknologi berkembang sudah sedemikian pesat dan
+teknologi yang baik adalah teknologi yang benar-benar mampu memberikan
+manfaat terhadap peradaban manusia. Perkembangan teknologi informasi,
+khususnya internet, telah sampai pada suatu era yang disebut cloud computing.
+Sistem cloud computing merupakan suatu kapabilitas dari teknologi
+informasi yang memberikan sekumpulan layanan dari abstraksi infrastruktur
+yang kompleks, dimanfaatkan secara bersama-sama dan berjalan di atas
+teknologi internet. Entitas di dalamnya, baik berupa data ataupun orang, dapat
+saling berinteraksi dengan kebutuhan sumber daya/infrastruktur relatif murah
+atau pada titik tertentu lebih murah dari cara-cara konvesional. Saat ini bisa
+dikatakan bahwa cloud computing menawarkan solusi untuk menjawab
+efektivitas dan efisiensi dalam hal pengelolaan sistem informasi dan kearsipan
+di era teknologi informasi.
+Teknologi cloud computing atau komputasi awan mulai menjadi tren.
+Meski masih terdengar asing bagi sebagian kalangan, cloud computing diyakini
+akan banyak diadopsi dan menjadi masa depan dunia IT Indonesia. "Cloud
+computing ini memang sesuatu yang masih baru, namun inilah future IT di
+Indonesia. Pada saatnya nanti, banyak yang akan memerlukan produk ini," ucap
+Hasnul Suhaimi, Presiden Direktur salah satu perusahaan telekomunikasi di
+Balai Kartini, Kamis (10/5/2012) dalam berita yang diangkat oleh detik.com
+pada Kamis, 10 Mei 2012 12:41 WIB. Berita lain yang ditulis oleh Hamzah
+Farihin, reporter Berita UIN Online berjudul Cloud Computing, Solusi Efisien
+bagi Perusahaan dan Organisasi. Kata “cloud computing” bagi sebagian orang
+mungkin masih asing di telinga, namun bagi para ahli information technology
+(IT), teknologi baru yang diluncurkan setahun lalu itu, sudah tak asing lagi.
+Terlebih manfaat teknologi ini sangat besar, baik bagi perusahaan maupun
+organisasi. Dengan aplikasi ini, pengguna tak perlu memikirkan infrastruktur
+teknologi. Cukup berlangganan satu atau lebih layanan yang dibutuhkan dengan
+
+pembayaran dilakukan per layanan melalui internet, pengguna sudah bisa
+menikmati manfaat cloud computing secara efisien. Pernyataan tersebut
+disampaikan penasihat teknik Microsoft Indonesia Darmawan Suandi dalam
+Seminar dan Workshop In Conjuntion With National ICT Expo 2011 yang
+digelar National Information and Communication Technology (NICT) dan Prodi
+SI/TI Fakultas Sains dan Teknologi (FST) di Auditorium NICT, Senin (14/11).
+Melihat fakta-fakta tersebut bahwa cloud computing memiliki banyak
+manfaat yakni membantu konsumen dan pebisnis untuk menggunakan aplikasi
+tanpa melakukan instalasi, mengakses file pribadi mereka di komputer manapun
+dengan akses internet. Teknologi ini memungkinkan efisiensi lebih dengan
+memusatkan penyimpanan, memory, pemrosesan, dan bandwich. Arsip
+perusahaanpun dapat dikelola dengan rapi dan efisien, apalagi perusahaan besar
+yang memiliki cabang dimana-mana. Otomatis arus keluar masuk arsip sangat
+sering terjadi, dan hal ini diperlukan kecepatan dan ketepatan dalam
+pengelolaannya supaya operasional perusahaan dapat berjalan dengan lancar.
+PT. XYZ termasuk perusahaan pelopor di Indonesia yang menjajal
+cloud computing untuk pengelolaan arsipnya. Hasnul Suhaimi, Presiden
+Direktur PT. XYZ memperkirakan bahawa pada tahun 2020 layanan cloud
+computing akan menjadi sesuatu yang umum di Tanah Air. Selain itu PT. XYZ
+tidak menggunakan jasa cloud computing dari pihak ketiga atau perusahaan
+penyedia jasa layanan cloud computing, namun PT. XYZ merancang dan
+mengelola sendiri infrastrukturnya sendiri lengkap dengan aplikasinya yang
+diberi nama XCloud. Padahal perusahaan penyedia jasa layanan cloud
+
+computing dari luar negeri seperti VMware yang memiliki 300 ribu pelanggan
+dan 25 ribu mitra di seluruh dunia merupakan salah satu penyedia jasa cloud
+computing yang cukup bagus. Menurut Country Manager VMware Indonesia,
+Andreas A. Kagawa saat pers conference di Hotel Mulia Jakarta, Selasa
+1/11/2012 yang diberitakan di kompas.com menyebutkan beberapa perusahaan
+besar di Indonesia menggunakan jasanya VMware untuk mengatasi solusi
+pengelolaan arsip digital di perusahaannya. Perusahaan tersebut seperti PT.
+Sigma Cipta Caraka (Telkom Sigma), PT. Pasifik Satelit Nusantara, PT. Astra
+Graphia Information Technology (AGIT) dan PT. Bank OCBC NISP Tbk.
+Peneliti memilih PT. XYZ sebab dengan percaya diri mereka memakai dan
+membuat cloud computing systemnya sendiri di tengah persaingan munculnya
+perusahaan penyedia jasa dari luar negeri yang sudah lebih dahulu berkembang.
+Penggunaan cloud computing sebagai bentuk sistem pengelolaan arsip
+digital oleh PT. XYZ ini bukan tanpa alasan. Selain untuk mengikuti
+perkembangan teknologi informasi agar biaya yang dikeluarkan untuk
+mengelola arsip menjadi semakin hemat. Sebelum menggunakan cloud
+computing, PT. XYZ masih menggunakan cara penyimpanan arsip digital
+dengan magnetic optical berupa hardisk dan data server. Mengenai biaya
+operasional dan perawatannnya, lebih mahal dari pada menggunakan cloud
+computing. Persaingan dalam sesama penyedia jasa telekomunikasi yang
+semakin ketat, membuat PT. XYZ lebih bijak dalam membuat keputusan
+apalagi yang berhubungan dengan kegiatan operasional.
+
+Berdasarkan masalah tersebut peneliti ingin mengangkat obyek
+penelitian pada aplikasi manajemen arsip digital menggunakan cloud computing
+milik PT. XYZ yang bernama Xcloud. Karena ingin mendapat hasil yang
+maksimal, peneliti menentukan populasi yakni hanya pengguna yang sering
+menggunakan aplikasi ini, yakni pegawai bagian arsip pada PT. XYZ sebanyak
+28 orang. Dalam melakukan penelitian ini, peneliti menggunakan alat ukur uji
+heuristik guna melihat tingkat ketergunaan dari sebuah aplikasi oleh
+penggunanya. Urgensi masalah dari penelitian dengan mengangkat topik
+tentang manajemen arsip digital dan cloud computing yang akan dikaji
+menggunakan uji usability yakni sedikit sekali penelitian yang mengangkat
+tentang hal tersebut. Di Universitas Airlangga pun belum ada penelitian yang
+membahas tentang konsep tersebut. Sudah ada yang meneliti tentang
+manajemen arsip, namun belum ada yang menyangkut manajemen arsip digital.
+Selain itu semakin pesatnya perkembangan teknologi khususnya cloud
+computing di Indonesia, penelitian ini diharapkan nantinya dapat menjadi bahan
+pertimbangan bagi perusahaan/instansi yang ingin atau sudah menerapkan
+sistem cloud computing.
+I.2 Rumusan Masalah
+Dari beberapa fenomena yang telah dipaparkan sebelumnya, adapun
+rumusan masalah yang peneliti teliti adalah:
+
+Faktor-faktor usability apa saja yang dapat dievaluasi terhadap aplikasi
+manajemen arsip digital menggunakan cloud computing di PT. XYZ
+berdasarkan evaluasi heuristik?
+I.3 Tujuan dan Manfaat Penelitian
+I.3.1 Tujuan Penelitian
+Adapun tujuan peneliti melakukan penelitian ini adalah: Untuk
+mengetahui usability aplikasi manajemen arsip digital menggunakan cloud
+computing di PT. XYZ berdasarkan evaluasi heuristik.
+I.3.2 Manfaat Penelitian
+Adapun manfaat yang ingin dicapai dalam penelitian adalah sebagai
+berikut:
+I.3.2.1 Manfaat Akademik
+Hasil penelitian ini diharapkan dapat memberikan sumbangan pemikiran
+dan informasi pada bidang Ilmu Informasi dan Perpustakaan terutama dalam
+kajian pokok bahasan manajemen kearsipan.
+Dari penelitian ini diharapkan dapat memberikan manfaat akademis bagi
+program studi Ilmu Informasi dan Perpustakaan terkait penambahan bahan kajian
+yang sesuai fakta di lapangan, di mana kegiatan manajemen arsip digital sudah
+mengalami perkembangan yakni salah satunya dengan menggunakan cloud
+computing.
+
+I.3.2.2 Manfaat Praktis
+Penelitian ini dimaksudkan sebagai masukan terhadap PT. XYZ yang
+menerapkan manajemen arsip digital menggunakan cloud computing agar strategi
+yang direncanakan dapat diterapkan guna mendukung dan memaksimalkan tujuan
+perusahaan yakni meningkatkan kinerja operasional perusahaan. Tidak hanya itu,
+diharapkan dengan adanya aplikasi manajemen arsip digital menggunakan cloud
+computing di PT. XYZ dapat menjadi referensi bagi organisasi maupun instansi
+lain khususnya pada lembaga pusat informasi.

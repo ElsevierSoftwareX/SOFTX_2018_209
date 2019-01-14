@@ -1,0 +1,184 @@
+﻿ABSTRAK 
+Kecamatan Banyumanik merupakan salah satu dari 16 Kecamatan yang berada di wilayah Pemerintah Kota Semarang. Kecamatan Banyumanik termasuk dalam pembagian wilayah yang memiliki fungsi sebagai perencanaan pemukiman. Hal ini mengakibatkan tingginya permintaan dan penawaran lahan di wilayah Banyumanik. Pengaruh dari tingginya permintaan dan penawaran lahan tersebut adalah terjadinya perubahan harga tanah di wilayah Kecamatan Banyumanik. Untuk itu diperlukan adanya penelitian untuk menganalisis terjadinya perubahan nilai jual tanah. 
+
+Pada awalnya penelitian ini dilakukan dengan pembuatan zona awal dengan menggunakan peta administrasi Kecamatan Banyumanik dan citra Ouickbird. Selanjutnya dilakukan pembuatan peta Zona Nilai Tanah tahun 2011 dan 2013 dengan menggunakan peta zona awal dan data transaksi hasil survei lapangan. Langkah selanjutnya pembuatan peta perubahan harga tanah, yang diperoleh dari hasil overlay peta ZNT tahun 2011 dan peta ZNT tahun 2013 . Kemudian dilakukan analisis terhadap perubahan nilai jual tanah yang terjadi. 
+
+Hasil penelitian menunjukkan dalam rentang waktu tahun 2011 sampai denga tahun 2013 terjadi perubahan harga tanah. Perubahan harga tanah terbesar di zona 69 yaitu sebesar Rp. 5.242.097,00 per meter persegi. Zona 69 merupakan wilayah pemukiman padat, sedangkan perubahan harga terkecil terjadi pada zona 82 yaitu sebesar Rp57.657,00 per meter persegi. Zona 82 merupakan wilayah pertanian yang tandus. 
+
+Terjadinya perubahan harga lahan dipengaruhi faktor nilai jual lahan yang berbeda di setiap zona nilai tanah. Zona 69 yang memiliki tingkat perubahan harga tertinggi, hal tersebut bisa terjadi karena zona 69 merupakan kawasan pemukiman yang letaknya strategis, dan memiliki aksesbilitas yang mudah. Pada zona 82 memiliki tingkat perubahan harga tanah yang paling rendah, hal terebut karena faktor nilai jual lahan yang tidak mendukung nilai ekonomis tanah pada wilayah tersebut. 
+Kata kunci : Zona Nilai Tanah, Perubahan Harga Tanah, Faktor Nilai Jual Lahan.
+
+
+BAB I
+PENDAHULUAN
+I.1. Latar Belakang
+Tanah sebagai salah satu sumber daya yang akan mendorong manusia
+dalam kehidupannya untuk berperilaku secara unik terhadap tanah atau bidang
+tanah tersebut. Tanah itu bersifat unik di lokasinya serta komposisinya, tidak bisa
+dipindahkan ke lokasi lain. Latar belakang tersebut berimplikasi terhadap
+ketersediaan tanah, keterbatasan ketersediaan tanah sebagai akibat dari permintaan
+tanah yang meningkat jauh lebih besar dari tanah yang dapat disediakan. Keadaan
+ini mendorong kenaikan nilai tanah yang tidak terkendali. Salah satu penyebab
+meningkatnya harga tanah secara tiba-tiba adalah situasi pasar tanah yang tidak
+transparan. Hal ini yang kemudian mengakibatkan persaingan yang terjadi dalam
+pembebasan tanah menjadi tidak sempurna yang mungkin disebabkan oleh
+informasi yang kurang tepat sehingga menjadi spekulasi. (Sukanto, et al, 1994).
+Penilaian orang atas sebidang tanah akan menjadi sangat berbeda, karena
+tanah memiliki beberapa dimensi dan ukuran yang berbeda-beda. Penilaian atas
+sebidang tanah memerlukan keahlian tersendiri. Selain membutuhkan
+pengalaman, penilaian tanah juga membutuhkan pengetahuan yang memadai
+tentang prinsip-prinsip penilaian, teknik pendekatan dalam penilaian, faktor-faktor
+yang mempengaruhi nilai jual lahan, serta metode yang dipakai untuk
+mempermudah dalam estimasi nilai tanah. (Joseph K. Eckert 1990)
+Tanah atau lahan merupakan salah salah satu sumber daya yang
+mempunyai peranan strategis dalam pembangunan perkotaan. Perkembangan
+pembangunan kota yang semakin pesat dan tingginya laju pertumbuhan penduduk
+merupakan faktor pendorong meningkatnya kebutuhan tanah di perkotaan.
+Sementara itu, tanah yang tersedia di daerah perkotaan terbatas. Hal ini
+menimbulkan permasalahan pada tanah perkotaan, seperti peningkatan harga
+tanah yang tak terkendali .
+
+Untuk kedepannya informasi nilai tanah sangat penting untuk berbagai
+pihak yang dapat digunakan sebagai refrensi dalam menentukan Pajak Bumi dan
+Bangunan, besarnya ganti rugi dalam pembebasan tanah, dan lain sebagainya.
+Terdapat tiga macam pendekatan untuk menaksir estimasi nilai tanah yang umum
+digunakan, yaitu perbandingan harga pasar (sales comparation), biaya perolehan
+baru (cost), dan penghasilan (income) yang diperoleh dari tanah. (Ray M.
+Northam 1975)
+
+Kecamatan Banyumanik adalah salah satu dari 16 Kecamatan yang ada di
+wilayah Pemerintah Kota Semarang, yang diresmikan pada tanggal 17 April 1993.
+Kecamatan Banyumanik merupakan satu daerah pengembangan dari Kota
+Semarang yang digunakan untuk pemukiman. Pertumbuhan penduduk
+Banyumanik yang tinggi menuntut adanya pengendalian pemanfaatan lahan kota
+yang mampu menampung aktivitas penduduk yang juga selalu berkembang.
+Kecamatan Banyumanik merupakan salah satu tujuan pemukiman di kawasan
+pinggiran. Hal ini terbukti dari meningkatnya penggunaan lahan, terutama untuk
+pembangunan pemukiman. Dengan adanya peningkatan penggunaan lahan dari
+tahun ke tahun akan berdampak pada tingginya jumlah perminataan akan lahan.
+Namun disisi lain jumlah lahan yang tersedia tidak sebanding dengan tingginya
+jumlah permintaan. Keterbatasan ketersediaan lahan sebagai akibat dari jumlah
+permintaan tanah yang meningkat jauh lebih besar dari tanah yang disediakan
+akan mendorong kenaikan nilai jual tanah. Terjadinya perubahan kenaikan nilai
+jual tanah juga bisa diengaruhi oleh faktor-faktor nilai jual yang ada di wilayah
+setempat. Oleh karena itu penulis ingin menganalisis bagaimana perubahan nilai
+jual tanah di Kecamatan Banyumanik.
+
+I.2. Perumusan Masalah
+Berdasarkan uraian latar belakang diatas, dapat ditarik beberapa rumusan
+masalah sebagai berikut :
+1. Bagaimana perubahan zona nilai tanah di Kecamatan Banyumanik pada
+tahun 2011 dan 2013?
+
+I-3
+2. Bagaimana pengaruh nilai jual lahan di Kecamatan Banyumanik terhadap
+perubahan harga tanah dalam kurun waktu 2011 dan 2013?
+
+I.3. Pembatasan Masalah
+Mengingat begitu luasnya permasalahan yang ada, ruang lingkup
+permasalahan dibatasai sebagai berikut :
+1. Penelitian ini dilakukan di Kecamatan Banyumanik, Kota Semarang.
+2. Pada penelitian ini hanya mengacu pada lahan dan bidang tanah, tidak
+pada bangunan yang ada.
+3. Metode yang dilakukan pada pengolahan data penelitian ini adalah metode
+tumpang susun (overlay).
+4. Data spasial yang digunakan adalah peta administrasi Kecamatan
+Banyumanik, citra Quickbird, peta jaringan jalan Kecamatan Banyumanik,
+dan zona awal Kecamatan Banyumanik.
+5. Data non spasial yang digunakan adalah data harga tanah dengan
+pendekatan pasar pada tahun 2011 dan 2013.
+6. Software yang digunakan dalam pengolahan data adalah ArcGIS, aplikasi
+pengolahan data ArcView versi BPN.
+7. Hasil akhir dari penelitian ini adalah berupa peta zona nilai tanah dan peta
+perubahan harga tanah di Kecamatan Banyumanik.
+
+I.4. Tujuan dan Manfaat Penelitian
+Dari penelitian ini terdapat tujuan dan manfaat yang akan dituju, yaitu
+sebagai berikut :
+
+I.4.1. Tujuan Penelitian
+Tujuan dari penelitian ini adalah :
+1. Untuk mengetahui perubahan niai jual tanah di Kecamatan Banyumanik
+tahun 2011 dan 2013.
+2. Membuat gambaran zona nilai tanah di Kecamatan Banyumanik dalam
+bentuk peta zona nilai tanah dan melakukan analisis perubahan nilai jual
+tanah.
+
+I.4.2. Manfaat Penelitian
+Manfaat yang diharapkan dari penelitian ini adalah :
+1. Memberikan gambaran perkembangan nilai tanah di Kecamatan
+Banyumanik.
+2. Memberikan refrensi dalam penilaian properti di wilayah setempat.
+3. Bisa digunakan sebagai bahan pertimbangan dalam pembangunan
+pemukiman di wilayah setempat.
+4. Bagi mahasiswa bisa menambah ilmu pengetahuan dari luar kampus yang
+bisa dipakai sebagai latihan dalam menghadapi dunia kerja.
+
+
+I.5. Metodologi Penelitian
+Metodologi yang digunakan dalam penelitian tugas akhir ini adalah
+sebagai berikut :
+
+1. Persiapan
+Tahap persiapan meliputi dua hal, yaitu studi pustaka dan dan
+pengambilan data. Studi pustaka dilakukan dengan mencari refrensi dan materi
+yang akan dipakai dalam penulisan tugas akhir ini. Refrensi dan materi dapat
+berupa buku, jurnal ilmiah, materi dari internet, ataupun laporan tugas akhir
+peneliti terdahulu. Sedangkan pada proses pengambilan data lebih menuju pada
+pengumpulan semua data yang akan diolah dalam penelitian.
+
+2. Pengumpulan Data
+Data yang digunakan dalam penelitian ini dibagi menjadi dua, yaitu data
+spasial dan data non spasial. Data spasial yang digunakan adalah peta administrasi
+Kecamatan Banyumanik, citra Quickbird, peta jaringan jalan Kecamatan
+Banyumanik, dan zona awal Kecamatan Banyumanik. Data non spasial yang
+digunakan adalah data harga tanah dengan pendekatan pasar pada tahun 2011 dan
+2013.
+
+3. Pengolahan Data
+Pada tahap pengolahan data diawali dengan pembuatan peta zona awal
+nilai tanah menggunakan software ArcGIS, sedangkan untuk pembuatan peta
+perubahan harga tanah menggunakan software ArcView.
+
+4. Analisis
+Dilakukan analisis spasial. Analisis spasial dilakukan untuk menganalisis
+perubahan harga tanah yang terjadi.
+
+5. Kesimpulan
+Pengkajian hasil pembahasan dan dilakukan penarikan kesimpulan dari
+penelitian ini.
+Tahap pelaksanaan penelitian meliputi seluruh proses dapat dilihat dalam
+kerangka penelitian berikut ini :
+Gambar I.1. Kerangka penelitian
+I.6. Sistematika Penulisan Laporan
+Dalam penulisan ini tersadapat sistematika penulisan dengan susunan
+sebagai berikut :
+
+BAB I PENDAHULUAN
+Pada bab ini berisi tentang pokok-pokok pemikiran penulisan tugas
+akhir yang berisi mengenai latar belakang, perumusan masalah,
+pembatasan masalah, tujuan dan manfaat penelitian, metode penelitian
+dan sistematika penelitian.
+
+BAB II TINJAUAN PUSTAKA
+Pada bab ini dijelaskan mengenai gambaran umum daerah penelitian,
+gambaran umum tentang penilaian tanah, definisi harga tanah, definisi
+nilai dan harga tanah, harga pasar, metode penilaian tanah,
+penyesuaian nilai tanah, peta zona nilai tanah, analisis overlay,
+pengenalan software ArcGIS dan software ArcView yang dilengkapi
+dengan aplikasi untuk pengolahan peta ZNT versi BPN.
+
+BAB III PELAKSANAAN PENELITIAN
+Pada bab ini dijelaskan tentang uraian jalannya penelitian, yaitu dari
+tahap persiapan data penelitian, peralatan penelitian, pelaksanaan
+penelitian hingga pengolahan data.
+
+BAB IV ANALISIS DAN PEMBAHASAN
+Pada bab ini dijelaskan tentang analisis perubahan nilai tanah yang
+terjadi di daerah penelitian pada tahun 2011 dan 2013 dilihat dari
+faktor nilai jual lahan .
+
+BAB V PENUTUP
+Pada bab ini berisi tentang kesimpulan dan saran dari tugas akhir ini
+yang diharapkan dapat bermanfaat bagi penulis dan penelitian
+selanjutnya atau penelitian serupa.

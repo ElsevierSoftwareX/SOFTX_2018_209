@@ -1,0 +1,526 @@
+﻿Pendahuluan
+Analisis investasi dalam keuangan dapat dilakukan
+dengan berbagai model, diantaranya dengan menggunakan
+model portofolio. Portofolio Markowitz 
+adalah model yang populer untuk melakukan diversifikasi
+investasi. Model portofolio Markowitz sudah
+banyak didiskusikan pada berbagai literatur baik di
+bidang keuangan, matematika keuangan dan statistika.
+Beberapa penelitian diantaranya (Broadie ,
+Ceria dan Stubbs , DeMiguel et al. , Engles ,
+Fabozy et al. , Green dan Hollifield  serta
+Michaud ).
+Penentuan portofolio efisien merupakan hal terpenting yang
+harus diperhatikan dalam menentukan portofolio optimal.
+Suatu portofolio efisien didefinisikan sebagai portofolio
+yang memaksimumkan tingkat return (yang
+diukur dengan mean) pada risiko tertentu (yang
+diukur dengan deviasi standar), atau portofolio yang
+meminimumkan risiko pada tingkat return tertentu.
+Kurva yang memperlihatkan kumpulan semua
+portofolio efisien pada konsep risk-return disebut
+kurva efisien frontier (Elton dan Gruber ).
+Beberapa penelitian mengenai kurva efisien frontier
+diantaranya adalah Bailey dan Lopez de Prado 
+yang meneliti kurva efisien frontier pada portofolio
+tangency (Sharpe ratio). Broadie  mengkaji kurva
+efisien frontier dengan melakukan simulasi dan
+mengukur root mean square error dari portofolio
+optimal model mean-variance.
+1 Fakultas Sains dan Teknologi, Program Studi Matematika, UIN
+Sunan Kalijaga Yogyakarta,Jl. Marsda Adisucipto, Yogyakarta
+55281, Indonesia. Email: epha.supandi@uin-suka.ac.id
+2 Fakultas Matematika dan Ilmu Pengetahuan Alam, Jurusan
+Matematika, Universitas Gadjah Mada, Jl. Sekip Utara Bulak
+Sumur 21, Yogyakarta 55281, Indonesia.
+Email: dedirosadi@ugm.ac.id, rachmanstat@ugm.ac.id
+* Penulis korespondensi
+Selanjutnya Merton  meneliti karakteristik
+kurva efisien frontier pada model minimumvariance
+khususnya pada mutual fund. Engles 
+meneliti karakteristik portofolio model minimumvariance
+dengan risk-free asset. Kelebihan dari tulisan
+ini terletak pada rincian yang lebih detail mengenai
+penurunan rumus kurva EF pada portofolio
+model Markowitz Pada makalah ini kurva efisien
+frontier pada berbagai model portofolio yaitu portofolio
+mean-variance, minimum-variance dan tangency
+dibangun dan selanjutnya dicari hubungan ketiga
+model tersebut melalui persamaan matematis
+Metode Penelitian
+Kurva Efisien Frontier
+Misalkan ( ) adalah data return dari
+m aset dengan vektor mean dan matriks
+kovariansi . Selanjutnya adalah bobot
+modal yang diinvestasikan pada aset ke-
+. Diasumsikan investor menanamkan
+semua modalnya sehingga Σ
+atau dapat
+dituliskan , dimana adalah vektor
+dengan elemen satu. Portofolio adalah sekumpulan
+aset yaitu , maka
+mean portofolio adalah ( ) dan risiko
+portofolio
+( ) .
+Efisien frontier dapat dicari dengan meminimumkan
+risiko portofolio pada tingkat keuntungan tertentu
+, masalah ini dapat dicari solusinya dengan
+menyelesaikan persamaan berikut ini (Merton  ):
+(1)
+Menggunakan metode Lagrange, maka masalah
+optimasi (1) menjadi:
+( ) ( ) (2)
+yang mana dan adalah pengali Lagrange.
+
+
+
+Syarat pertama untuk mencari nilai optimum dari
+persamaan (2) adalah:
+(3a)
+(3b)
+(3c)
+Dari persamaan (3a) , (3b) dan (3c) diperoleh:
+( ) (4a)
+(4b)
+(4c)
+Masukan persamaan (4a) ke dalam persamaan (4b)
+dan (4c) menjadi
+(5a)
+(5b)
+Misalnya: ; ; dan
+. Maka persamaan (5a) dan (5b) ditulis
+dalam bentuk:
+(6a)
+(6b)
+Misalkan: *
++; [
+] dan *
++
+Persamaan (6a) dan (6b) dapat dinyatakan dalam
+persamaan berikut ini:
+(7)
+adalah matriks simetrik berdimensi 2 x 2, maka:
+*
++
+*
++; dengan
+.
+Parameter a, c dan d selalu positif karena diasumsikan
+matriks kovariansi adalah matriks
+simetrik dan juga definit positif sehingga sifat ini
+berlaku juga untuk matriks invers . Oleh karena
+itu untuk semua vektor , maka sudah
+dipastikan dalam hal ini dan
+Selanjutnya ( ) ( )
+( )
+karena , maka .
+Berikutnya, misalkan ( ) maka persamaan
+(4a) dapat diubah menjadi:
+(8)
+dan persamaan (4b) dan (4c) dapat dinyatakan
+dalam bentuk:
+(9)
+Diketahui bahwa risiko portofolio
+( )
+, dengan menggunakan persamaan (8) dan (9)
+maka risiko portofolio menjadi:
+=
+( )
+*
++ *
++
+
+(
+) (10)
+Persamaan (10) menunjukkan kurva efisien frontier
+dimana variansi portofolio sebagai fungsi dari
+return. Menurut Engles  bentuk kurva EF pada
+persamaan (10) adalah parabola dengan titik
+puncaknya diperoleh dengan mencari turunan
+pertama terhadap yaitu:
+(11)
+Dengan memasukan persamaan (11) kedalam persamaan
+(10) diperoleh
+. Maka titik minimum
+terjadi pada ( ). Dalam hal ini bentuk
+kurva EF digambarkan pada ruang (
+, ),
+sehingga sumbu horizontal (sumbu x) adalah risiko
+(yang diukur dengan
+) dan sumbu vertical (sumbu
+y) adalah tingkat keuntungan (yang diukur dengan
+), maka gambar kurva EF dapat dilihat pada
+Gambar 1.
+Perhatikan bahwa portofolio efisien hanya terjadi
+pada bagian atas kurva karena pada portofolio tersebut
+memperoleh tingkat keuntungan yang lebih
+tinggi pada risiko yang sama.
+Kurva efisien frontier biasanya ditampilkan dalam
+ruang ( , ) artinya kurva EF diukur dengan
+standar deviasi (ukuran risk/risiko) dan tingkat
+keuntungan (diukur dengan return). Alasan ini
+karena besaran standar deviasi mempunyai besaran
+yang sama dengan data aslinya, oleh karena itu
+konsep ini lebih relevan. Dengan mengambil akar
+kuadrat dari persamaan (10), maka;
+√
+(
+) (12)
+
+
+Persamaan (12) adalah persamaan hiperbola, hal ini
+bisa dibuktikan sebagai berikut;
+(
+)
+(
+) (13)
+Selanjutnya bagi kedua ruas pada persamaan (13)
+dengan
+, maka
+⁄
+(
+)
+⁄
+⁄
+(
+)
+⁄
+⁄
+(
+)
+⁄
+(14)
+Persamaan (14) adalah persamaan hiperbola
+dengan garis asimtot
+√
+Kurva EF pada kasus ini digambarkan dengan
+fungsi hiperbola pada bagian kanan saja. Gambar
+kurva efisien frontier yang ditampilkan dalam ruang
+( , ) dapat dilihat pada Gambar 2.
+Investor tertarik terhadap portofolio yang
+berada pada kurva efisien frontier (portofolio yang
+memberikan risiko paling rendah pada tingkat
+keuntungan (return) tertentu, atau sebaliknya yaitu
+portofolio yang memberikan tingkat keuntungan
+maksimal pada tingkat risiko tertentu).
+Portofolio optimal dapat diperoleh dengan
+menggunakan persamaan (8), sehingga diperoleh
+persamaan berikut ini:
+( )
+*
++ *
++
+[ ] *
++
+[( ) ( )] (15)
+Sehingga pada setiap tingkat keuntungan yang
+diinginkan , alokasi portofolio dapat diketahui
+dengan menggunakan persamaan (15).
+Gambar 2. Kurva efisien frontier dalam ruang ( , )
+Portofolio Minimum-Variance
+Pada model ini, investor menginginkan portofolio
+dengan risiko yang paling kecil. Masalah ini dapat
+diformulasikan menjadi (Engels ):
+(16)
+Menggunakan metode Lagrange, diperoleh persamaan
+berikut ini:
+( ) (17a)
+kemudian dicari
+, menghasilkan persamaan
+di bawah ini
+; (17b)
+Substitusikan persamaan (17b) terhadap (17a), maka:
+( )
+selanjutnya
+(18)
+Masukan persamaan (18) terhadap (17b), maka
+portofolio minimum-variance dapat diperoleh
+dengan menggunakan persamaan berikut ini:
+(19)
+selanjutnya dengan menggunakan persamaan di
+atas, dapat dicari risiko portofolio yaitu sebagai
+berikut:
+= (
+)
+( )
+(20)
+dan return portofolio minimum-variance adalah:
+=
+(21)
+
+Apabila diperhatikan risiko dan return portofolio
+minimum-variance sama dengan nilai minimum
+pada kurva efisien frontier. Kedudukan portofolio
+minimum-variance dapat dilihat Gambar 3.
+Portofolio Tangency
+Pada model ini, investor menginginkan untuk memaksimumkan
+Sharpe ratio (SR) yang didefinisikan
+sebagai ratio return dan risiko yaitu:
+Persamaan di atas menjelaskan bahwa SR menggambarkan
+berapa besar return per unit risiko yang
+diterima investor (Cristie , Sharpe ).
+Sehingga SR yang tinggi berarti portofolio tersebut
+memberikan return paling besar per unit risiko,
+dengan kata lain portofolio tersebut yang paling
+efisien.
+Kurva efisien frontier dapat diperoleh dengan menggunakan
+persamaan (12). Misalkan titik singgung
+(invers) pada kurva EF berada pada koordinat
+( ). Maka slope pada garis singgung dititik
+tersebut adalah:
+√
+(
+)
+(22)
+Tangency slope (invers) pada kurva EF diperoleh
+dengan mencari turunan pertama terhadap dari
+persamaan EF (12) yaitu:
+(
+(
+))
+( - )|
+-
+√
+(
+)
+(23)
+Kedua slope pada garis singgung di titik ( )
+harus sama, sehingga
+√
+(
+)
+-
+√
+(
+)
+(24)
+Selanjutnya persamaan (24) dimasukan ke dalam
+persamaan EF (12) menghasilkan
+√
+(
+) √
+(25)
+Untuk mendapatkan portofolio tangency maka substitusikan
+persamaan (24) dan (25) ke dalam persamaan
+(15), diperoleh
+*( )
+( )+
+*
++
+(
+)
+(
+)
+(26)
+Dimana . Maka portofolio tangency yang
+optimal dapat diperoleh dengan menggunakan persamaan
+di atas.
+Pada Gambar 4 nampak bahwa portofolio optimal
+dengan menggunakan model portofolio tangency
+berada pada titik singgung kurva EF (Bailey dan
+Lopez de Prado ).
+Portofolio Mean-variance
+Dalam teori portofolio mean-variance, investor dapat
+merubah keinginannya dalam menentukan portofolio
+dengan menggunakan masalah optimasi
+berikut ini (Engels ):
+(27)
+Koefisien pembobot  menunjukkan seberapa besar
+seorang investor mengambil risiko atas expected
+return. Nilai  yang kecil mengindikasikan bahwa
+investor tersebut termasuk investor yang suka
+terhadap risiko (risk seeker), semakin besar nilai 
+mengindikasikan bahwa investor tersebut semakin
+menghindari risiko (risk averse).
+Permasalahan optimisasi (27) dapat diselesaikan
+dengan bantuan fungsi Lagrange sebagai berikut:
+( ) (28)
+
+Untuk mendapatkan penyelesaian nilai optimal
+terhadap w, persamaan (28) diturunkan terhadap w
+dan kemudian hasilnya disamakan dengan nol.
+Sehingga diperoleh persamaan pembobot:
+( ) (29)
+dengan substitusi persamaan (29) ke persamaan
+, diperoleh persamaan:
+*
+( )+
+(30)
+Substitusikan persamaan (30) ke persamaan (29),
+sehingga diperoleh
+( (
+) ) (31)
+Persamaan (31) dapat diuraikan menjadi portofolio
+minimum-variance dan tangency. Dimana portofolio
+minimum-variance adalah:
+sedangkan portofolio tangency adalah
+sehingga portofolio mean-variance (31) dapat dituliskan
+kembali menjadi
+( (
+) )
+(
+)
+(
+) (32)
+Jelas sekali terlihat bahwa portofolio mean-variance
+terdiri dari portofolio minimum-variance ditambah
+dengan portofolio tangency tergantung dari besarnya
+nilai risk averse ( ). Semakin besar nilai ,
+maka portofolio mendekati portofolio minimumvariance.
+Artinya apabila menuju tak hingga
+maka portofolio sama dengan portofolio minimumvariance.
+Apabila maka portofolio sama
+dengan portofolio tangency.
+Hasil dan Pembahasan
+Data yang digunakan dalam penelitian ini adalah
+data sekunder, yaitu data saham mingguan periode
+28 Januari 2008 – 29 Desember 2014, sehingga
+diperoleh 361 data return saham. Adapun data
+saham yang digunakan adalah lima saham LQ 45
+yang tercatat di Bursa Efek Jakarta yaitu Adhi
+Karya (persero) Tbk. (ADHI) termasuk dalam
+sektor konstruksi, property dan real estate, Charoen
+Pokphand Tbk. (CPIN) termasuk dalam sektor
+industri dasar dan kimia, Media Nusantara Citra
+Tbk. (MNCN) termasuk dalam sektor perdagangan,
+servis dan investasi, Unilever Indonesia Tbk.
+(UNVR) termasuk dalam sektor barang konsumen
+dan Alam Sutera reality Tbk. (ASRI) termasuk
+dalam sektor konstruksi, property dan real estate.
+Nilai mean dan variansi kovariansi untuk ke lima
+saham dapat dilihat pada Tabel 1 dan Tabel 2.
+Dari Tabel 1 terlihat bahwa saham UNVR mempunyai
+expected return (mean) yang paling tinggi
+dibandingkan saham lainnya, sebaliknya saham
+ASRI mempunyai expected return paling rendah.
+Sedangkan saham ADHI, MNCN dan CPIN
+mempunyai expected return yang hampir sama yaitu
+0,0031; 0,0032 dan 0,0034.
+Berdasarkan nilai variansi nampak bahwa CPIN
+mempunyai variansi yang tinggi (risiko yang besar).
+Hal yang sangat menarik adalah ternyata UNVR
+selain memberikan tingkat keuntungan yang tinggi
+(expected return besar) juga mempunyai risiko yang
+kecil dibandingkan saham lainnya. Sehingga dari ke
+lima tersebut kinerja dari saham UNVR paling baik
+dibandingkan saham–saham lainnya.
+Berdasarkan nilai variansi nampak bahwa CPIN
+mempunyai variansi yang tinggi (risiko yang besar).
+Hal yang sangat menarik adalah ternyata UNVR
+selain memberikan tingkat keuntungan yang tinggi
+(expected return besar) juga mempunyai risiko yang
+kecil dibandingkan saham lainnya. Sehingga dari ke
+lima tersebut kinerja dari saham UNVR paling baik
+dibandingkan saham – saham lainnya.
+Menggunakan data tersebut, selanjutnya dibentuk
+kurva efisien frontier serta portofolio optimal pada
+ke tiga model portofolio (minimum-variance,
+tangency dan mean-variance). Pada kajian ini,
+portofolio mean-variance akan ditentukan pada
+kasus nilai risk averse  = 1, 5, 10, 50, 100 dan 1000.
+Pengolahan data untuk ketiga portofolio diatas
+menggunakan software R (lihat lebih detail pada
+Würtz et al, ).
+
+Menggunakan nilai–nilai tersebut, maka kurva EF
+dalam ruang (
+, ) dapat ditentukan dengan
+menggunakan persamaan (10) yang merupakan
+persamaan parabola, yaitu:
+(
+)
+Kurva EF dalam ruang ( , ) diperoleh dengan
+menggunakan persamaan (14) yang merupakan
+persamaan hiperbola, yaitu:
+( )
+Kurva EF dapat dilihat pada Gambar 5. Selanjutnya
+dicari portofolio optimal untuk ke tiga model dengan
+menggunakan persamaan (19), (26) dan (31). Hasilnya
+dapat dilihat pada pada Tabel 3.
+Pada portofolio model mean-variance, nilai  (risk
+averse) adalah ukuran keengganan investor terhadap
+risiko. Investor yang tidak menyukai risiko
+akan memilih  besar, sebaliknya investor yang
+menyukai risiko akan memilih  yang paling kecil.
+Sehingga ketika  sangat besar, maka sama dengan
+mencari portofolio minimum-variance. Hal ini
+sudah dibuktikan pada persamaan 32. Pada kasus
+ini, ketika  = 10 portfolio mean-variance sudah
+sama dengan portofolio minimum-variance.
+Sehingga otomatis  > 0 akan menghasilkan portofolio
+optimal yang sama.
+Portofolio optimal yang memberikan risiko paling
+rendah tentu saja dihasilkan oleh portofolio minimum
+variance. Alokasi investasi yang harus dilakukan
+pada model ini adalah 9,33% diinvestasikan
+pada saham ADHI, sebesar 67,7% pada saham
+UNVR, sebanyak 8,82% diinvestasikan pada saham
+MNCN, pada saham CPIN sebesar 5,45% dan
+sisanya 0,39% pada saham ASRI. Portofolio jenis ini
+sesuai dengan investor yang tidak menyukai risiko.
+Investor yang ingin memaksimalkan sharpe ratio
+akan memilih portofolio tangency. Dapat dilihat
+pada Tabel 3, bahwa portofolio model ini mempunyai
+SR paling tinggi dibandingkan portofolio
+lainnya yaitu sebesar 0,1136. Pada kasus ini investor
+menanamkan sahamnya sebesar 7,37% pada
+saham ADHI, sebesar 79,2% pada saham UNVR,
+pada saham MNCN sebesar 6,28%, pada saham
+CPIN sebesar 4,93% dan terakhir pada saham AALI
+sebesr 4,1%.
+Berdasarkan Tabel 3 dapat diamati bahwa pada
+portofolio mean-variance semakin besar  maka
+portofolio mean-variance mendekati portofolio minimum
+variance. Hal ini sejalan dengan apa yang
+sudah dijelaskan pada bagian sebelumnya. Kedudukan
+ke tiga portofolio pada kurva efisien
+frontier dapat dilihat pada Gambar 5.
+Pada Gambar 5, terlihat kurva efisien frontier digambarkan
+dengan garis putus–putus, garis singgung
+(tangency) digambarkan dengan garis lurus
+beserta titik singgung di wtg (titik segitiga biru).
+Kurva efisien frontier (EF) menunjukan semua
+kemungkinan portofolio–portofolio yang paling efisien
+artinya suatu portofolio yang memiliki tingkat
+keuntungan paling besar pada tingkat risiko tertentu
+atau portofolio yang menghasilkan risiko
+paling kecil pada tingkat keuntungan tertentu
+(Elton dan Gruber ). Oleh karena itu portafolio
+yang berada di bawah kurva EF adalah portofolio
+yang tidak efisien sehingga tidak akan dipilih oleh
+investor.
+Portofolio minimum-variance digambarkan dengan
+lingkaran merah sedangkan portofolio meanvariance
+digambarkan dengan lambang (*).
+Nampak bahwa kedudukan portofolio meanvariance
+bergerak sepanjang kurva EF dari
+kedudukan portfolio minimum-variance ( paling
+besar, risk averse) terus ke posisi UNVR ( paling
+kecil, risk seeker).
+Portofolio optimal pada model mean-variance merupakan
+perpaduan antara portofolio minimumvariance
+dan portofolio tangency. Model ini sangat
+membantu investor dalam menentukan portofolio
+optimal, apabila investor tidak menyukai risiko
+maka dapat menentukan parameter risk aversion 
+sangat besar. Sebaliknya apabila investor tersebut
+menyukai risiko maka dapat dipilih risk aversion  saNGAT KECIL.
+
+Simpulan
+Dalam makalah ini telah dirumuskan persamaan
+kurva efisien frontier pada model portofolio
+Markowitz. Secara matematis, persamaan kurva
+efisien frontier dalam konsep risk-return (diukur
+dengan standar deviasi dan mean) berbentuk
+hiperbola. Selanjutnya portofolio optimal pada model
+portofolio mean-variance merupakan perpaduan
+antara portofolio minimum-variance dan portofolio
+tangency. Apabila parameter risk aversion 
+semakin besar menuju tak hingga, maka portofolio
+mean-variance akan sama dengan portofolio minimum
+-variance. Apabila parameter risk aversion  =
+b maka portofolio mean-variance akan sama dengan
+portofolio tangency. Sebagai ilustrasi telah dianalisis
+lima saham yang diperdagangkan di pasar modal
+Indonesia. Hasil pengamatan pada data riil ini
+memperkuat kajian dari aspek teoritisnya.

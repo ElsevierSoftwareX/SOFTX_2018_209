@@ -1,0 +1,126 @@
+﻿ABSTRAK
+Penelitian ini bertujuan untuk menganalisis pengaruh audit pemerintah dan
+pengendalian korupsi di Indonesia. Variabel dependen yang digunakan adalah
+korupsi sedangkan variabel independen adalah temuan pemeriksaan dan tindak
+lanjut pemeriksaan.
+Penelitian ini menggunakan data populasi seluruh provinsi di Indonesia
+tahun 2012 dan 2011. Data yang digunakan adalah data sekunder, yaitu laporan
+tahunan kejaksaan, IHPS BPK RI (I 2013, II 2012 dan II 2011), dan Statistik
+Indonesia 2013. Alat statistik yang digunakan dalam penelitian ini adalah regresi
+linier berganda.
+Pengujian secara statistik atas hipotesis menyimpulkan bahwa temuan
+perkapita terbukti berpengaruh signifikan dan negatif terhadap korupsi, sedangkan
+tindak lanjut temuan perkapita terbukti berpengaruh signifikan dan positif
+terhadap korupsi.
+Kata kunci: audit pemerintah, korupsi, temuan , tindak lanjut.
+
+BAB I
+PENDAHULUAN
+Bab ini akan membahas beberapa alasan yang menjadi latar belakang
+dilakukannya penelitian mengenai audit pemerintah dan pengendalian korupsi di
+Indonesia. Selain itu, bab ini juga menguraikan tentang rumusan masalah yang
+menjadi fokus utama penelitian, tujuan dan kegunaan penelitian, serta sistematika
+penulisan. Berikut ini penjelasan secara rinci mengenai masing-masing bagian.
+
+1.1. Latar Belakang Masalah
+Peneliti Indonesia Corruption Watch (ICW) (Donal, 2013) mengatakan
+otonomi daerah yang seharusnya menjadi jembatan bagi terwujudnya
+desentralisasi pembangunan justru mendorong potensi terjadinya korupsi di
+daerah. Pasca otonomi daerah, kewenangan dan dana untuk pemerintah daerah
+ditambah dan hal tersebut juga menjadi pemicu lahirnya praktik-praktik korupsi
+yang dilakukan kepala daerah. Menurut catatan ICW, hingga tahun 2013 ada 149
+kepala daerah yang terjerat kasus korupsi. Kepala daerah tersebut terdiri dari 20
+gubernur, satu wakil gubernur, 17 walikota, delapan wakil walikota, 84 bupati dan
+19 wakil bupati era reformasi pada tahun 1999. Kondisi tersebut sejalan dengan
+Liu dan Lin (2012) yang menyatakan bahwa sektor keuangan publik terbuka
+untuk korupsi karena mendapatkan keuntungan kekuatan finansial dari sektor
+perpajakan, penganggaran, pengadaan barang, dan manajemen aset negara.
+
+Audit pemerintah yang mempunyai tujuan dasar untuk memonitor,
+memastikan dan menilai akuntabilitas pemerintah merupakan institusi penting
+dalam rangkaian pengendalian pemerintahan modern. Dengan memonitor
+kekuatan publik terutama dalam penggunaan sumber daya publik, audit
+pemerintah dapat meningkatkan akuntabilitas dan mengurangi penyalahgunaan
+wewenang dan sumber daya. Praktek pemerintah di beberapa negara juga
+mengindikasikan bahwa audit pemerintah dapat memerankan peran unik dalam
+pemberantasan korupsi. Auditor mempunyai kemampuan dalam mendeteksi
+laporan keuangan yang membuat mereka efektif dalam menginvestigasi korupsi
+yang terjadi. Di sisi lain, menurut Gong (dikutip oleh Liu dan Lin, 2012) efek jera
+dari audit pemerintah dapat ditingkatkan dengan membuat hasil audit diketahui
+masyarakat dan menetapkan birokrat individu yang bersangkutan
+bertanggungjawab. Oleh karena itu, Liu dan Lin (2012) menjelaskan bahwa jika
+korupsi adalah "virus" yang membahayakan keamanan ekonomi dan
+keharmonisan sosial maka sistem audit pemerintah seharusnya menjadi "immune
+system" yang mendeteksi, menolak, dan mengeluarkan virus tersebut.
+Undang-Undang Dasar 1945 Pasal 23E, Undang-Undang Nomor 15 Tahun
+2004 tentang Pemeriksaan Pengelolaan dan Tanggung Jawab Keuangan Negara,
+dan Undang-Undang Nomor 15 Tahun 2006 tentang Badan Pemeriksa Keuangan,
+menyebutkan bahwa tugas dan wewenang BPK adalah memeriksa pengelolaan
+dan tanggung jawab keuangan negara yang dilakukan oleh Pemerintah Pusat,
+Pemerintah Daerah, lembaga negara lainnya, Bank Indonesia, Badan Usaha Milik
+Negara, Badan Layanan Umum, Badan Usaha Milik Daerah, dan lembaga atau badan lainnya yang mengelola keuangan negara. Berdasarkan mandat tersebut
+BPK RI dapat berperan sebagai “immune system” yang mendeteksi, menolak dan
+membuang virus korupsi.
+
+Peran tata kelola audit dan faktor-faktor penentu dan pemicu korupsi
+dibahas secara terpisah dalam banyak studi. Menurut Zhuang (dikutip Liu dan
+Lin, 2012) penelitian tentang korupsi terutama berfokus pada power for money
+deal, penyuapan dalam bidang ekonomi dan perbankan, sedikit perhatian
+diberikan kepada korupsi dalam keuangan publik. Sementara itu, penelitian
+tentang bagaimana untuk mengurangi korupsi jarang memberi perhatian khusus
+terhadap peran audit. Sebaliknya, literatur tentang audit pemerintah terutama
+berfokus pada independensi, profesionalisme dan auditing input dari lembaga
+audit pemerintah dan bagaimana faktor-faktor tersebut mempengaruhi reputasi
+dan efisiensi departemen pemerintah. Hanya beberapa studi menyentuh pada
+hubungan antara audit pemerintah dan korupsi. Namun, tidak satupun dari studi
+tersebut menjawab pertanyaan tentang bagaimana audit pemerintah dapat
+membantu untuk memberantas korupsi (Liu dan Lin, 2012).
+Sesuai amanat UUD 1945 pasal 23 G, BPK RI berkedudukan di ibukota
+negara dan memiliki perwakilan di setiap provinsi. Oleh karena itu, Perwakilan
+BPK RI dapat berperan dalam mengungkap temuan penyimpangan dan perilaku
+korupsi dan dapat berperan juga dalam upaya pencegahan dan tindak lanjut pada
+pemerintah di provinsi tersebut. Sedangkan menurut Undang-Undang nomor 16
+Tahun 2004 tentang Kejaksaan Republik Indonesia, pelaksanaan kekuasaan
+negara dibidang penuntutan dan kewenangan lain berdasarkan undang-undang diselenggarakan oleh Kejaksaan Tinggi yang berkedudukan di ibu kota provinsi
+dan daerah hukumnya meliputi wilayah provinsi. Menggunakan kasus korupsi
+yang dilakukan pegawai publik yang ditangani oleh kejaksaan pada masingmasing
+provinsi tersebut sebagai pengukur keparahan korupsi, secara empirik
+peneliti meneliti peran audit pemerintah dalam upaya melawan korupsi dari dua
+perspektif yaitu temuan pemeriksaan dan tindak lanjut hasil pemeriksaan.
+Berdasarkan uraian tersebut, maka penelitian ini mengambil judul
+“AUDIT PEMERINTAH DAN PENGENDALIAN KORUPSI: BUKTI DARI
+DATA PANEL PROVINSI DI INDONESIA”.
+
+1.2. Rumusan Masalah
+Berdasarkan uraian pada latar belakang penelitian tentang sejauh mana
+pengaruh auditing terhadap korupsi, penelitian ini dapat dirumuskan dengan
+pertanyaan berikut:
+1. Apakah jumlah penyimpangan yang terdeteksi oleh BPK RI Perwakilan
+Provinsi berpengaruh terhadap tingkat keparahan korupsi birokrasi publik di
+provinsi tersebut?
+2. Apakah semakin banyak upaya tindak lanjut rekomendasi perbaikan
+dilaksanakan setelah audit akan semakin efektif mengurangi korupsi?
+
+1.3. Tujuan dan Kegunaan Penelitian
+Bagian ini akan menjelaskan tujuan dan kegunaan dari penelitian. Tujuan
+penelitian merupakan jawaban atas rumusan masalah yang ada, sedangkan kegunaan penelitian terbagi menjadi kegunaan bagi peneliti, lembaga terkait, dan
+akademisi. Berikut adalah uraian dari masing-masing bagian.
+
+1.3.1 Tujuan Penelitian
+Berdasarkan rumusan masalah yang telah disebutkan, maka tujuan yang
+ingin dicapai dari penelitian ini adalah sebagai berikut :
+1. Secara empiris, menganalisis pengaruh jumlah penyimpangan yang terdeteksi
+oleh Perwakilan BPK RI di provinsi terhadap tingkat keparahan korupsi
+birokrasi publik di provinsi tersebut.
+2. Secara empiris, menganalisis pengaruh upaya tindak lanjut rekomendasi
+perbaikan yang dilaksanakan setelah audit pemerintah terhadap korupsi.
+
+1.3.2 Kegunaan Penelitian
+Hasil dari penelitian ini diharapkan dapat memberikan kegunaan kepada
+pihak-pihak sebagai berikut :
+1. Bagi peneliti, sebagai bahan untuk menambah pengetahuan mengenai
+pengaruh audit pemerintah dan pengendalian korupsi.
+2. Bagi lembaga terkait, sebagai masukan kepada Kejaksaan dan BPK RI dalam
+rangka meningkatkan peran dalam pengendalian korupsi.
+3. Bagi akademisi dan pihak-pihak yang tertarik untuk melakukan penelitian
+sejenis, sebagai bahan kajian teoritis dan referensi.

@@ -1,0 +1,568 @@
+﻿Kajian Analitik dan Eksperimental Frekuensi
+Sistem Struktur Braced Monopod Anjungan Lepas Pantai
+
+
+Abstrak
+Anjungan lepas pantai (offshore platform) dengan sistem struktur braced monopod menerima beban layan dan
+beban lingkungan gelombang, arus, angin, dan gempa. Beban gelombang merupakan beban lingkungan yang
+berpengaruh pada anjungan lepas pantai (offshore platform). Oleh karena itu, perlu dievaluasi sensitivitas tanggap
+anjungan lepas pantai (offshore platform) tersebut pada tingkat kenyamanan layan sistem struktur. Dilakukan
+kajian eksperimental di laboratorium pada sistem struktur portal ruang tiga kaki satu lantai dengan pembebanan
+impact (impulse) untuk melihat pengaruh peredam eksternal (Tuned Mass Damper (TMD) spons dan kabel
+peredam dashpot) dalam mereduksi tanggap (perpindahan dan percepatan), frekuensi natural, dan damping ratio
+sistem struktur. Hasil eksperimen menunjukkan redaman eksternal (TMD spons dan kabel peredam dashpot) cukup
+efektif meningkatkan nilai damping ratio, mereduksi tanggap struktur (perpindahan dan percepatan), namun kurang
+efektif mereduksi frekuensi alami struktur. Frekuensi yang relatif sama dibandingkan terhadap frekuensi sistem
+tanpa redaman eksternal memperlihatkan tidak signifikan tambahan kekakuan sistem oleh peredam eksternal.
+Kata-kata Kunci : Anjungan lepas pantai, Braced monopod, TMD Spons, Kabel peredam dashpot, Beban impact
+(impulse), Frekuensi, Natural, Damping ratio, Kenyamanan layan.
+
+1. Pendahuluan
+Anjungan lepas pantai (offshore platform) adalah sistem
+struktur yang digunakan di perairan Indonesia bagi
+eksploitasi minyak dan gas bumi. Konstruksi anjungan
+lepas pantai dengan topologi GBM (Guidance Braced
+Monopod) banyak digunakan di Indonesia pada laut
+dangkal. Merancang suatu anjungan lepas pantai
+(offshore platform) harus memenuhi kriteria yang
+disyaratkan oleh standar/peraturan mengenai desain
+anjungan lepas pantai (offshore platform). Evaluasi
+integritas sistem struktur dan elemennya dilakukan dari
+analisis dan desain sistem struktur, yaitu apakah
+tegangan pada penampang kritis tidak melebihi
+tegangan izin dan terpenuhinya kekakuan sistem
+struktur (AISC-ASD, 9th Edition, 1989). Peraturan
+yang digunakan untuk assessment sistem struktur
+adalah API RP 2A, 21st Edition (WSD, 2000) dan
+Peraturan Baja Indonesia.
+Oleh karena risiko dan tuntutan kegiatan eksplorasi
+dan eksploitasi minyak dan gas bumi di lepas pantai yang tinggi maka kebutuhan akan anjungan lepas
+pantai (offshore platform) yang lebih efisien baik dari
+segi teknis maupun ekonomis sangat diperlukan.
+Anjungan lepas pantai (offshore platform) menerima
+beban layan dan beban lingkungan yang diantaranya
+gelombang, arus, angin dan lainnya (API RP 2A, 21st
+Edition (WSD), 2000). Beban gelombang merupakan
+beban lingkungan yang paling berpengaruh pada
+anjungan lepas pantai (offshore platform). Oleh karena
+itu, perlu dievaluasi sensitivitas tanggap anjungan lepas
+pantai (offshore platform) tersebut pada tingkat kenyamanan
+layan sistem struktur.
+Evaluasi kenyamanan terhadap getaran dan analisis
+struktur anjungan lepas pantai (offshore platform)
+untuk beban maksimum dari pelaksanaan snubbing unit
+dilaksanakan berdasarkan efek gelombang pada
+anjungan lepas pantai (offshore platform) dengan
+topologi GBM (Guardian Braced Monopod). Dari analisis
+tanggap struktur dapat dievaluasi ketahanan
+struktur dari fungsi struktur dan kenyamanan.
+Diperlukan desain sistem struktur bila frekuensi
+ketahanan struktur tidak cukup terpenuhi untuk
+ketidaknyamanan pengguna akibat terjadinya getaran
+yang berlebih pada lantai struktur. Dalam makalah ini
+akan diuraikan hasil kajian secara analitik dan hasil
+kajian secara eksperimental tanggap dinamik anjungan
+lepas pantai (offshore platform) dengan sistem struktur
+GBM (Guardian Braced Monopod) tanpa peredam
+getaran eksternal dan dengan peredam getaran eksternal.
+
+
+2. Analisis Struktur Anjungan
+2.1 Topologi struktur anjungan lepas pantai
+(offshore platform)
+Dalam bidang teknik lepas pantai dikenal beragam
+topologi struktur anjungan lepas pantai. Secara garis
+besar dapat dikelompokkan sebagai (Subrata, 2005):
+a. Topologi struktur lepas pantai terpancang (fixed
+offshore structure) atau pile-supported platform,
+atau disebut juga jacket steel platform.
+b. Topologi concrete gravity platform
+c. Topologi guyed tower platform
+d. Topologi compliant platform.
+Struktur anjungan lepas pantai (offshore platform) tipe
+tetap (jacket) termasuk dalam kategori topologi fixed
+offshore structure. Selain itu, dikenal juga struktur
+anjungan lepas pantai (offshore platform) minimum
+diantaranya dengan topologi sistem struktur GBM
+(Guidance Braced Monopod) (Subrata, 2005) yang
+banyak digunakan di perairan Indonesia.
+
+
+2.2 Anjungan lepas pantai perairan dangkal
+(offshore platform on shallow water)
+Dalam bidang teknik lepas pantai struktur anjungan
+lepas pantai (offshore platform) tipe tetap (jacket) termasuk
+kategori anjungan lepas pantai (offshore platform)
+untuk perairan dangkal (Subrata, 2005). Kategori
+berdasarkan pada bentuk, jenis material struktur maupun
+perilaku tanggapnya terhadap beban-beban lingkungan
+yang bekerja pada struktur anjungan tersebut.
+Anjungan yang banyak digunakan di sekitar perairan
+Indonesia adalah dari jenis jacket steel platform. Hal
+ini, dikarenakan tipe anjungan lepas pantai (offshore
+platform) ini sangat sesuai diaplikasikan untuk kedalaman
+sampai dengan 100 meter. Jenis anjungan lepas
+pantai ini pada umumnya berlokasi di perairan dangkal.
+Jenis anjungan lepas pantai ini jika digunakan pada
+perairan dalam (kedalaman lebih dari 500 meter) menjadi
+kurang efektif karena adanya kendala perilaku
+dinamis dari struktur dan ditinjau dari segi pertimbangan
+efektivitas biaya konstruksinya (Subrata, 2005).
+Struktur jacket bagi perairan dangkal (shallow water)
+memiliki nilai damping ratio kecil dan Dynamic Amplification
+Factor (DAF) mendekati satu, sehingga hal ini
+secara prinsip adalah rasio antara periode alami yang
+menunjukkan perilaku statis, di mana β adalah rasio
+periode alami struktur dan periode alami gaya gelombang.
+Kurva DAF versus rasio frekuensi anjungan lepas
+pantai (offshore platform) pada Gambar 1 menunjukkan
+hubungan rasio frekuensi angular gaya gelombang
+Ω terhadap frekuensi alami wn sistem struktur berderajat
+kebebasan satu; yang menjadi salah satu kriteria
+guna prediksi perilaku dinamisnya. Bila struktur jacket
+digunakan pada perairan yang semakin dalam, maka
+struktur anjungan menjadi semakin fleksibel (lentur)
+sehingga periode alami gerakannya semakin mendekati
+periode gelombang eksitasinya. Hal ini, menjadikan
+struktur anjungan lepas pantai (offshore platform) tersebut
+tidak berfungsi baik dari perilaku dinamiknya,
+karena rentan terhadap resonansi.
+
+3. Tanggap Struktur SDOF Pembebanan
+Harmonik
+3.1 Tanggap struktur tanpa redaman eksternal
+Gambar 2 adalah sistem struktur sistem derajat
+kebebasan tunggal (SDOF) dengan gaya harmonic P(t)
+= P * cos(Wt)..
+Dari persamaan gerak dinamik Newton II: F = ma,
+dengan redaman struktur tipe viscous: gaya redaman
+berlawanan, tetapi proporsional terhadap kecepatan Persamaan (1) disusun ulang menjadi:
+mx cx kx P *cosmΩttt0 && &&& &&&&(2)
+
+maka Persamaan (2) ditulis:
+ddd
+m
+P * cos Ωt
+x 2ω x ω2x 0
+n n && &&& &&&&(3)
+
+Solusi umum Persamaan (3):
+
+_t_=e-ωnξt_A. cos_ωDt_+B. sin_ωDt__+
+_P0 _k_ . sin_Ωt-θ_
+__1-r2_2+_2ξr_2
+
+3.2 Kasus getaran bebas
+Untuk getaran bebas P(t) = 0 maka Persamaan (1) mengambil bentuk
+Dengan mengambil solusi persamaan berbentuk x(t) =
+A*e pt. Dalam hal ini, nilai p akan ditentukan dan A
+suatu konstanta. Solusi perpindahan sebagai fungsi
+waktu x(t) tergantung dari harga p pada persamaan
+karakteristiknya. Terdapat tiga kemungkinan harga p
+yang mendeskripsikan gerak tersebut, yaitu jika p adalah
+akar nyata, maka penyelesaiannya:
+
+
+
+Untuk kasus beban yang bekerja untuk jangka waktu
+yang sangat pendek (Î yy0), maka beban disebut
+sebagai beban impuls (Resmi, 2010). Jika impuls yang
+dihasilkan beban tersebut 1 unit satuan, maka beban
+tersebut disebut tttsebagai unit beban impuls 1 satuan
+atau fungsi Delta-Dirac yaitu d (t - t) yang mempunyai
+sifat-sifat:
+Dengan 0 < t < <.
+Menggunakan sifat-sifat persamaan di atas beban
+impuls P(t) yang bekerja pada t = t yang dihasilkan oleh
+impuls linear 1 satuan
+iP
+sembarang, besarnya dapat
+dinyatakan oleh :
+)
+
+3.4 Tanggap struktur akibat 1 unit beban impuls
+Tanggap sistem struktur dengan redaman terhadap gaya
+impuls diberikan oleh:
+dimana h(t) dikatakan sebagai impulse response function
+(Chopra, 2001) dan dapat ditulis sebagai
+dengan ωd frekuensi alami struktur teredam (Chopra,
+2001). Jika gaya yang bekerja hanya pada waktu t = τ,
+maka bentuk di atas dapat ditulis sebagai:
+d (t - t) = 0 untuk t ≠ t (9)
+t
+t
+ttt
+0
+δ(t τ)dt 1 (10)
+(((((
+(
+(((
+0
+δ(t τ).P(t)dt P τ (11)
+impuls linear 1 satuan
+iP
+sembarang, besarnya dapat
+dinyatakan oleh :
+) τ δ(t * Pˆ P(t)     (12)
+X(t) =
+XP
+*h (t) ( 1 3 )
+.e ω sinω t
+m.ω
+1
+h(t) n
+ξ t
+d
+n nnnn(14)
+.e ω sinω (t τ)
+
+
+
+Tanggap total struktur teredam diperoleh dengan
+melakukan integral Persamaan 15:
+Integral Persamaan (16) di atas disebut integral convolution
+(Chopra, 2001). Gambar 7 menunjukkan kurva
+tanggap struktur tak teredam dan teredam akibat beban
+impuls 1 satuan:
+
+
+
+Setelah 1 unit beban impuls berhenti (t > t), struktur
+akan bergerak bebas, dengan kecepatan awal akibat
+pengaruh 1 unit beban impuls tersebut = 1/m, dan tidak
+ada perubahan perpindahan dalam interval waktu e,
+artinya y(t+e) = y(t) dalam hal ini nilainya sama
+dengan nol (Resmi, B.M., 2010). Dengan demikian,
+tanggap struktur setelah beban tersebut bekerja adalah:
+1. Untuk struktur tak teredam (Chopra, 2001):
+2. Untuk struktur teredam (Chopra, 2001):
+4. Analisis Modal
+Metode analisis modal merubah persamaan diferensial
+couple menjadi persamaan diferensial uncouple sistem
+derajat tunggal (single degree of freedom). Setelah
+diperoleh nilai eigen, yaitu frekuensi wi dan vektor
+eigen {f}i-modal shapes, menggunakan aturan superposisi
+vektor eigen, persamaan vektor perpindahan adalah
+gabungan linear vektor-vektor Eigen (Chopra, 2001):
+Parameter qi (t) adalah fungsi waktu disebut koordinat
+normal atau koordinat digeneralisir. Menetapkan
+matrik modal [A] sebagai [A] = [ {f}1 {f}2 ……. {f}n ] (20)
+sebagai akumulasi semua vektor eigen, maka
+{u(t)} = [A] {q(t) } (21)
+
+
+4.1 Desain kenyamanan getaran
+Desain dari keutuhan struktur sampai utilitas struktural
+dan kenyamanan menuntut pertimbangan selain hanya
+bagi keutuhan struktural. Faktor indeks kenyamanan 2
+menjadi nilai persyaratan percepatan bagi batas kenyamanan.
+Kondisi orthogonalitas Persamaan (20) di atas adalah
+(Chopra, 2001):
+
+
+Bagi desain getaran lantai, skala Reiher-Meister getaran
+saat ‘steady’ dimodifikasi ke dalam skala Modifikasi
+Reiher-Meister, karena saat orang berjalan bukanlah
+kondisi saat ‘steady’. Persamaan skala Modifikasi
+Reiher-Meister (Wiss dan Parmelee, 1974), (AISC,
+2003), (Sean, M.H., 2007) adalah:
+dengan:
+f = frekuensi.
+A0 = amplitudo maksimum gerakan lantai akibat satu
+sentakan tunggal beban, (inci).
+D = fraksi redaman kritis [%].
+R merupakan indeks tingkat tanggap rata-rata :
+RR1, getaran tidak terasa,
+= 2, getaran jarang terasa,
+= 3, getaran nyata terasa,
+= 4, getaran sangat terasa
+= 5, getaran hebat
+Bila dari analisis struktur anjungan Gambar 9
+diperoleh parameter sistem sebagaimana pada Tabel 1,
+maka dapat dihitung nilai R sebagai berikut.
+Nilai R - Modifikasi Reiher-Meister adalah
+0,265
+0,217
+0
+D
+f *A
+* 5,08 R **
+*
+**
+****(30)
+0,265
+0,217
+0
+D
+f *A
+* 5,08 R *
+*
+*
+**
+*
+**Dengan nilai amplitudo A0 =
+2.45 mm (1 inci), D = 3,5%, dan f = 0,677, R = 3,78.
+
+Analisis periode T dan frekuensi f sistem struktur
+anjungan seperti pada Gambar 9 untuk 6 mode pada
+Tabel 1. Pada tingkat layanan struktur dengan R = 3,78,
+sistem berada pada zona tidak nyaman; getaran lantai
+sangat terasa. Dengan demikian diperlukan modifikasi
+sistem struktur. Alternatif perbaikan atau modifikasi
+dengan menggunakan peredam eksternal.
+5. Analisis dan Evaluasi Tanggap Struktur
+dengan Perangkat Lunak
+Studi kasus dan evaluasi tanggap struktur dengan
+perangkat lunak SAP-2000 meliputi:
+a. Pemodelan beban eksitasi dan parameter besaran
+struktur yang diinput dalam SAP-2000 disesuaikan
+dengan beban eksitasi dalam eksperimen.
+b. Dilakukan simulasi beban eksitasi yang bekerja pada
+struktur seperti beban akibat percepatan tanah
+dari gempa El-Centro.
+6. Penelitian Eksperimental
+Penelitian ini merupakan kajian eksperimental struktur
+portal open frame 3D ukuran 1,60 m * 1,695 m dan
+tinggi 2,575 m. Eksperimen dilakukan dengan memberikan
+gaya impact pada struktur. Eksperimen
+dilakukan di Laboratorium Struktur & Bahan, Jurusan
+Teknik Sipil – ITB. Dilakukan pengamatan dan evaluasi perilaku kemampuan sistem peredam getaran
+eksternal struktur dalam meredam energi akibat eksitasi
+beban dinamik. Perilaku yang di evaluasi meliputi
+besaran rasio redaman ξ dari sistem peredam getaran
+eksternal. Sedangkan tahapan eksperimen secara
+garis besar terbagi atas empat 4 bagian yaitu:
+6.1 Tahap 1: Pengujian pendahuluan untuk verifikasi
+alat ukur sensor yang digunakan.
+Sensor (Accelerometer) dipasang di atas kolom baja
+seperti pada Gambar 10. Kolom digetarkan dengan
+beban impact. Getaran kolom akan terekam sensor.
+Dari spektrum percepatan yang terekam, dianalisis
+dengan metode Fast Fourier Transform (FFT) untuk
+mendapat frekuensi getaran kolom. Hasil yang didapat
+dari eksperimen kemudian dibandingkan dengan perhitungan
+frekuensi getaran cara analitis. Dari
+perbandingan ini dapat disimpulkan akurasi sensor
+yang digunakan.
+6.2 Tahap 2: Pengujian struktur tanpa peredam
+getaran eksternal
+Struktur digetarkan dengan beban impact. Besar beban
+impact ditentukan dari rekaman sensor. Tanggap
+struktur berupa percepatan akan terekam oleh sensor.
+Data spektrum percepatan kemudian dianalisis dengan
+metode Fast Fourier Transform (FFT) untuk
+memperoleh frekuensi natural (f), damping ratio (ξ),
+dan tanggap struktur.
+6.3 Tahap 3: Pengujian peredam getaran eksternal
+Pengujian ini dilakukan untuk mendapatkan nilai-nilai
+yang menunjukkan karakteristik alat peredam getaran
+eksternal. Pengujian dilakukan dengan pembebanan
+statik. hasil pengujian adalah penetapan koefisien
+redaman (Cd) dan konstanta pegas (kd).
+
+
+6.4 Tahap 4: Pengujian struktur portal dengan
+peredam getaran eksternal.
+Struktur portal dipasang peredam getaran eksternal.
+Struktur diberibeban impact. Transducer accelerometer
+(sensor) akan menangkap sinyal getaran struktur
+yang selanjutnya dikirim ke Kyowa data recorder dan
+CR-23X data logger. Rekaman data ini kemudian
+diunduh ke peralatan Multichannel Spectrum Analyzer
+(MSA) HP 3566A yang mampu mengkonversi data
+dari domain waktu menjadi domain frekuensi dengan
+menggunakan Fast Fourier Transform (FFT) algorithm.
+Gambar 12, 13, 14 memperlihatkan persiapan
+pengujian getaran struktur portal dengan peredam yang
+dieksitasi beban tumbukan. Gambar 12 memperlihatkan
+pengujian getaran struktur portal dengan peredam
+Tuned Mass Damper (TMD) bahan absorber spons.
+Gambar 13 memperlihatkan pengujian getaran
+struktur portal dengan peredam Air-Bag. Gambar 14
+memperlihatkan pengujian getaran struktur portal
+dengan peredam Dashpot.
+Skema pengujian digambarkan sebagai berikut:
+
+
+7. Hasil dan Analisis Eksperimen
+Beban impact (kejut) yang bekerja pada struktur portal
+berupa beban impact massa bandul.
+Data bandul/hammer:
+a. Berat bandul/hammer (W) = 40 kg.
+b. Tinggi jatuh bandul (h) = 50 cm.
+c. Kecepatan bandul pada waktu tepat menumbuk
+struktur .
+d. Interval waktu (t) bandul pada waktu tepat menumbuk
+struktur adalah 0,08 detik (dari pengukuran
+sensor)
+Gambar 15 memperlihatkan tanggap percepatan
+struktur portal selama interval waktu 0,08 detik yang
+dieksitasi beban impact massa bandul.
+
+Lama bandul pada waktu tepat menumbuk struktur
+ditentukan dari interval waktu saat terjadi perubahan
+percepatan untuk siklus pertama Δt = 0,08 detik. Besar
+gaya impact yang bekerja pada struktur :
+Gambar 16 memperlihatkan model pembebanan
+impact massa bandul pada struktur portal selama interval
+waktu 0,08 detik. Pembebanan impact diambil
+simetris dengan percepatan saat bandul/hammer tepat
+menumbuk struktur portal seperti dalam rekaman
+sensor Gambar 16.
+
+7.1 Tanggap struktur portal baja tanpa peredam
+eksternal
+Tinjau sistem portal tanpa peredam eksternal Gambar
+17 yang menerima beban impact F(t).
+Gambar 18 memperlihatkan tanggap percepatan
+struktur dan spektrum Fourier akibat eksitasi beban
+impact berdasarkan rekaman data hasil eksperimen:
+
+Gambar 19 memperlihatkan tanggap percepatan
+struktur dan spektrum Fourier akibat eksitasi beban
+impact berdasarkan rekaman data hasil eksperimen: 
+
+
+Hasil analisis Fast Fourier Transform data percepatan,
+diperoleh frekuensi natural struktur gerak
+arah sumbu-x adalah f = 2,8 Hz, dan damping ratio: ξ
+= 0,324 %. Tanggap perpindahan akibat beban impact
+dievaluasi dengan analisis modal dan integral Duhamel.
+Dari hasil analisis Fast Fourier Transform data perpindahan
+di atas, diperoleh frekuensi natural struktur
+gerak arah sumbu-x adalah f = 2,8 Hz, dan damping
+ratio: ξ = 0,324 %. Tidak ada perbedaan damping ratio
+(ξ ) antara hasil Fast Fourier Transform data percepatan
+dan perpindahan. Dari hasil analisis Fast Fourier
+Transform (FFT) terlihat bahwa frekuensi natural struktur yang dievaluasi berdasarkan data percepatan
+dari rekaman sensor (data recording), maupun berdasarkan
+tanggap perpindahan yang diperoleh melalui analisis
+modal dan integral Duhamel akibat beban impact,
+keduanya mempunyai nilai yang sama. Nilai-nilai
+frekuensi natural (f) dan damping ratio struktur (ξ)
+tanpa peredam eksternal yang diukur oleh kedua sensor
+dalam tiga kali pengambilan diberikan pada Tabel 2
+berikut:
+
+
+7.2 Tanggap struktur portal baja dengan peredam
+eksternal
+7.2.1 Tuned mass damper bahan shock absorber
+Spons
+
+Gambar 20 memperlihatkan sistem peredam getaran
+dengan topologi Tuned Mass Damper (TMD) bahan
+absorber spons yang digunakan untuk eksperimen
+portal baja dengan peredam eksternal.
+Data massa tambahan:
+W = 196,48 kg-detik2/m.
+Wd = 44,00 kg-detik2/m.
+μ = 22,39 %.
+Gambar 21 memperlihatkan portal baja dengan
+peredam getaran dengan topologi Tuned Mass Damper
+(TMD) bahan absorber spons yang dieksitasi beban
+impact. Gambar 22 memperlihatkan hasil rekaman tanggap
+percepatan struktur dengan peredam eksternal TMD
+bahan absorber spons dan Gambar 23 memperlihatkan
+hasil FFT spektrum percepatan.
+Dari hasil Fast Fourier Transform (FFT) diperoleh
+nilai frekuensi natural struktur f = 3,94 Hz dan damping
+ratio ξ = 4,143 %. Damping ratio struktur dengan
+TMD 13 kali dari damping ratio ξ = 0,307 % sistem
+struktur tanpa TMD. Kenaikan 39,3 % nilai frekuensi
+natural antara sistem struktur. Dengan demikian,
+sistem mekanikal struktur mempunyai konfigurasi
+yang sama untuk analisis (tidak ada kontribusi
+kekakuan pada sistem). Tanggap perpindahan struktur
+dengan peredam eksternal dievaluasi dengan cara integrasi
+numerik fungsi percepatan dari data rekaman
+sensor, integrasi dilakukan dengan cara step by step
+dengan bantuan program MATLAB. Hasilnya secara
+simultan dengan tanggap struktur tanpa peredam
+eksternal adalah sesuai pada Gambar 24.
+Dari Gambar 24 terlihat topologi sistem peredam eksternal
+TMD spons cukup efektif mereduksi perpindahan
+struktur portal. Dalam waktu relatif singkat (6
+detik), amplitudo getaran gerak massa struktur portal
+sudah menghilang.
+
+
+7.3 Tanggap struktur portal baja dengan peredam
+eksternal (kabel peredam dashpot)
+7.3.1 Kabel peredam dashpot
+Gambar 25 memperlihatkan sistem peredam getaran
+dengan topologi Kabel Peredam Dashpot yang
+digunakan untuk eksperimen portal baja dengan
+peredam eksternal dan Gambar 26 memperlihatkan
+portal baja dengan peredam getaran dengan topologi
+Kabel Peredam Dashpot yang dieksitasi beban
+impact.
+Gambar 27 memperlihatkan hasil rekaman tanggap
+percepatan struktur dengan peredam eksternal Kabel
+Peredam Dashpot dan Gambar 28 memperlihatkan
+hasil FFT spektrum percepatan.
+
+Gambar 29. Perpindahan translasi lantai hasil rekaman sensor, tanpa peredam dan dengan kabel
+
+
+Dari hasil Fast Fourier Transform (FFT) diperoleh
+nilai frekuensi natural struktur f = 3,50 Hz dan
+damping ratio ξ = 14,538 %. Damping ratio struktur
+dengan TMD 45 kali dari damping ratio ξ = 0,307 %
+sistem struktur tanpa TMD. Terjadi kenaikan frekuensi
+natural antara sistem struktur sebesar 25 %. Dengan
+demikian, sistem mekanikal struktur mempunyai
+konfigurasi yang sama untuk analisis (tidak ada kontribusi
+kekakuan pada sistem). Tanggap perpindahan
+struktur dengan peredam eksternal dievaluasi dengan
+cara integrasi numerik fungsi percepatan dari data
+rekaman sensor, integrasi dilakukan dengan cara step by
+step dengan bantuan program MATLAB. Hasilnya
+secara simultan dengan tanggap struktur tanpa peredam
+eksternal dinyatakan sebagai berikut (Gambar 29).
+Dari grafik Gambar 29 terlihat bahwa topologi sistem
+peredam eksternal kabel peredam dashpot sangat efektif
+mereduksi perpindahan struktur portal. Dalam waktu
+relatif singkat (2 detik), amplitudo getaran gerak massa
+struktur portal sudah menghilang.
+
+8. Kesimpulan
+Dari studi eksperimental dan analitis tanggap struktur
+dengan dua topologi peredam eksternal akibat beban
+impact, dapat disimpulkan bahwa:
+1. Dari kedua jenis peredam eksternal yang dipasang
+pada sistem struktur yang cukup baik dalam
+mereduksi tanggap struktur adalah dengan
+menggunakan kabel peredam dashpot. Untuk kasus
+struktur dengan TMD spons dan tanpa peredam
+eksternal terdapat perbedaan rasio redaman sebesar
+3,836%. Untuk kasus struktur dengan kabel
+peredam dashpot dan tanpa peredam eksternal terdapat
+perbedaan rasio redaman sebesar 14,231%.
+Nilai ini cukup besar dibandingkan dengan rasio
+redaman sistem struktur tanpa redaman eksternal
+(0,307 %).
+2. Dari hasil perhitungan analitik yang dibandingkan
+dengan hasil studi eksperimental dan hasil SAP-
+2000 terdapat perbedaan frekuensi natural yang
+cukup kecil. Untuk hasil studi eksperimental
+didapat frekuensi natural sebesar 2,8 Hz (perbedaan
+frekuensi sebesar 0,95 Hz dibandingkan dengan
+hasil perhitungan analitik). Untuk hasil dari SAP-
+2000 didapat frekuensi natural sebesar 3,18 Hz
+(perbedaan frekuensi sebesar 0,57 Hz dibandingkan
+dengan hasil perhitungan analitik).
+3. Perbedaan hasil studi eksperimental dan hasil dari
+SAP-2000, kemungkinan disebabkan karena pada
+studi eksperimental kondisi perletakan struktur
+utama sangat sulit untuk mencapai jepit sempurna
+seperti pada anggapan pada software SAP-2000.
+4. Dari perhitungan analitik dan analisis menggunakan
+SAP-2000 untuk mengetahui tingkat kenyamanan
+(R) layan struktur didapat bahwa sistem struktur
+telah memenuhi tingkat kenyamanan layan struktur
+(R < 2). Untuk kasus mode pertama didapat nilai R
+sebesar 0,75. Untuk kasus mode ke-12 didapat nilai
+R sebesar 1,48. Nilai ini menunjukkan sistem
+struktur masih memenuhi persyaratan kenyamanan
+layan.

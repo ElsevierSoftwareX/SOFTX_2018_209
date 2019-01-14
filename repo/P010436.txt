@@ -1,0 +1,131 @@
+﻿
+ Analisis Kinerja Jalan Raya Kota Malang Menggunakan Metode FCD (Floating Car Data)
+
+
+ spare time, and 43.96% during traffic jam. 
+Intisari—Kemacetan merupakan salah satu gejala tidak memadainya kondisi jalan dan interaksi antar elemen lalu lintas sehingga mempengaruhi kinerja jalan raya. Metode pengukuran kinerja jalan raya telah dilaporkan dalam buku Manual Kapasitas Jalan Indonesia pada tahun 1997. Parameter pengukuran kinerja jalan raya yang dapat digunakan antara lain kecepatan dan waktu tunda. Untuk dapat mengambil data kecepatan dan waktu tunda dengan cepat dan efisien dapat dilakukan metode Floating Car Data (FCD). Sedangkan Adaptive Neuro Fuzzy Inference System (ANFIS) dapat digunakan sebagai metode pengukuran kinerja dari metode FCD. Pada paper ini metode FCD diterapkan pada segmen jalan perkotaan di kota Malang dengan memanfaatkan fitur GPS pada perangkat bergerak yang dibawa oleh pengendara. Hasil rekaman data perjalanan menggunakan metode FCD diuji menggunakan ANFIS dengan dua parameter input (kecepatan dan waktu tunda) dan satu output (tingkat kemacetan). Hasil percobaan menggunakan 70% data latih dan 30% data uji memperoleh performa yang maksimal dengan MSE terendah yaitu sebesar 0,43. Sedangkan rasio hasil perhitungan kecepatan tempuh hasil metode FCD dibandingkan dengan perhitungan kecepatan arus dasar (berdasarkan MKJI) adalah sebesar 68,22% saat lalu lintas senggang dan sebesar 43,96% saat lalu lintas padat. 
+Kata Kunci —ANFIS, FCD, kemacetan, kecepatan, waktu tunda.
+
+
+ 
+PENDAHULUAN 
+Kemacetan merupakan salah satu gejala tidak memadainya kinerja jalan raya yang merupakan kondisi jalan dan interaksi antar elemen lalu lintas . Tidak maksimalnya kinerja jalan dapat mengakibatkan terganggunya perjalanan. Untuk mengetahui kinerja jalan raya, dibutuhkan analisis terhadap parameter-parameter penentunya. Dalam  telah dilaporkan beberapa metode dalam mengukur kinerja jalan raya untuk membantu manajemen lalu lintas sehingga dapat mengurangi atau mengatasi masalah kemacetan. Salah satu parameter yang dapat digunakan dalam pengukuran kinerja jalan raya adalah kecepatan karena datanya bersifat stabil, dapat diulang, berpengaruh besar terhadap kemacetan (refleksi langsung), dan nilainya bersifat kontinyu . 
+Pengambilan data kecepatan kendaraan membutuhkan tenaga, waktu, dan akurasi yang baik. Dalam beberapa penelitian sebelumnya, telah dilakukan metode untuk pengambilan data kecepatan kendaraan yang efisien dan secara real time menggunakan metode floating car data (FCD) dengan memanfaatkan teknologi GPS , , . Selain itu, dengan menggunakan metode FCD, dapat juga diketahui waktu tunda perjalanan yang merupakan penilaian operasional arus lalu lintas . 
+FCD digunakan untuk melakukan klasifikasi tingkat kemacetan jalan raya sebagai refleksi kinerja jalan raya. Parameter yang digunakan adalah kecepatan tempuh dan waktu tunda, dikarenakan kedua parameter tersebut mendukung data arus lalu lintas di ruas jalan dan juga di persimpangan jalan. Hasil klasifikasi kemudian akan diuji menggunakan ANFIS dengan metode pelatihan backpropagation. Dengan digunakannya kedua parameter diharapkan klasifikasi kemacetan akan lebih akurat. Selain membuktikan akurasi penggunaan metode FCD untuk klasifikasi kemacetan jalan raya, penelitian ini juga bertujuan untuk menyampaikan informasi secara real time kepada pengguna melalui perangkat bergerak berbasis Android. Selain itu, data history kecepatan kendaraan dalam perjalan tiap waktu yang telah direkam dapat dijadikan informasi untuk pengambilan keputusan bagi pihak-pihak yang berkepentingan. 
+Dengan demikian, tujuan penelitian ini adalah untuk mengetahui kecepatan jalan raya menggunakan teknologi GPS, menerapkan metode FCD dengan memanfaatkan perangkat bergerak milik pengguna, melakukan uji analisis ANFIS terhadap metode FCD, dan menerapkan hasil penelitian pada perangkat bergerak sebagai informasi yang bermanfaat bagi pengguna. Penelitian ini disusun dengan menyajikan konsep Parameter Kinerja Jalan Raya, metode FCD dan ANFIS, kemudian Perancangan Sistem, Hasil dan Pembahasan, dan Kesimpulan.
+
+
+A. Parameter Kinerja Jalan Raya 
+Dalam  digunakan beberapa parameter pengukuran kinerja jalan raya antara lain sebagai berikut. 
+1) Kecepatan Tempuh: Kecepatan rata-rata (km/jam) arus lalu intas dihitung dari panjang jalan dibagi waktu tempuh rata-rata kendaraan yang melalui segmen jalan, sedangkan waktu tempuh merupakan waktu rata-rata yang digunakan kendaraan untuk menempuh segmen jalan dengan panjang tertentu, termasuk semua tundaan waktu berhenti (detik) atau jam . 
+
+2) Waktu Tunda: Waktu tunda merupakan pengukuran tingkat pelayanan (level of service) jalan raya. Tingkat pelayanan merupakan pengukuran kualitatif yang menerangkan kondisi operasional dalam arus lalu lintas Derajat Kejenuhan (DS) . 
+
+3) Derajat kejenuhan: didefinisikan sebagai rasio arus terhadap kapasitas, digunakan sebagai faktor utama dalam penentuan tingkat kinerja simpang dan segmen jalan . 
+
+Dalam penelitian sebelumnya, disebutkan bahwa pengukuran kecepatan kendaraan di jalan raya dapat menggunakan kamera atau sensor yang dipasang di infrastruktur jalan raya. Tapi metode ini dinilai mahal, sulit diimplementasikan, area terbatas, akurasi waktu kurang, dan terpengaruh oleh cuaca . 
+Beberapa penilitian menawarkan metode yang murah, mudah diimplementasikan, dan terbukti keakuratannya dalam mendeteksi kepadatan (kemacetan) jalan raya, yaitu menggunakan informasi Global Positioning System (GPS) pada kendaraan bergerak. Dengan teknologi GPS, dapat dilakukan pengambilan data lalu lintas menggunakan metode FCD , . 
+B. Floating Car Data (FCD) 
+
+Prinsip metode FCD adalah menjadikan kendaraan sebagai sensor bergerak, serta sebagai metode pengumpulan data, pemrosesan, penyimpanan data, sekaligus sebagai metode penyampaian informasi . Data yang diperoleh dapat dikirimkan ke pusat pemrosesan data (server) dan disimpan di database. Data dalam database selanjutnya dapat diolah menjadi informasi yang berguna seperti distribusi kendaraan di jalan raya, kepadatan jalan raya, dan kemacetan . Data yang dibutuhkan dalam metode FCD adalah data kendaraan, waktu, lokasi, dan data titik (longitude dan latitude) perpindahan kendaraan per satuan waktu. Jadi selama kendaraan melakukan perjalanan, data-data tersebut akan direkam dan dikirim ke server untuk dilakukan perhitungan. Pada  telah dilakukan penelitian menggunakan FCD dengan memanfaatkan GPS pada teknologi mobile berbasis J2ME, sedangkan  memanfaatkan perangkat GPS pada kendaraan taksi untuk melakukan perhitungan perkiraan kecepatan rata-rata kendaraan bergerak. 
+C. Adaptive Neuro Fuzzy Inference System (ANFIS) 
+
+Sebagai metode pengujian performa, ANFIS dapat digunakan untuk membuktikan akurasi penggunaan metode FCD. Pada , ANFIS merupakan gabungan antara konsep backpropagation neural network dengan konsep logika fuzzy dan tidak memerlukan analisis matematik untuk pemodelan . Dengan demikian ANFIS dinilai efektif dalam perhitungan perkiraan kondisi (kemacetan) jalan raya dan menganalisis tingkat kesalahan dengan mean square error (MSE) . Penggunaan metode ANFIS dimulai dengan membentuk fuzzy set input dan output, menghitung derajat keanggotaan, menghitung parameter output, pelatihan, dan menghitung nilai kesalahan (MSE). 
+II. PERANCANGAN SISTEM 
+
+A. Data 
+
+Data yang digunakan dalam penelitian ini meliputi data primer dan sekunder. Data primer meliputi data longitude, latitude, dan waktu kendaraan bergerak. Data sekunder merupakan data jalan raya (nama jalan, hambatan samping, panjang dan lebar jalan, serta data simpangan). Pengambilan data dilakukan di tipe segmen jalan perkotaan di kota Malang (Jl. A Yani - Jl. Letjend S. Parman - Jl. Letjend Sutoyo - Jl. Jaksa Agung Suprapto) dengan total panjang segmen jalan adalah ± 4,5 km. Waktu pengambilan data adalah pada waktu puncak pagi dan waktu senggang. Data masukan untuk pengujian ANFIS adalah kecepatan (km/jam) dan waktu tunda (detik). 
+B. Rumus Haversine 
+
+Metode FCD memanfaatkan kendaraan dengan teknologi GPS sebagai sensor. Titik-titik perpindahan kendaraan di jalan raya direkam selama perjalanan. Dari data posisi perpindahan kendaraan (longitude dan latitude) akan dihitung jarak perpindahan kendaraan menggunkan rumus Haversine seperti pada (1), (2), dan (3). 
+𝑎 = 𝑠𝑖𝑛2 􁉀Δ𝜑 2 􁉁 + cos 𝜑1. 𝜑2. 𝑠𝑖𝑛2 􁉀Δ𝜆 2 􁉁 (1) 
+𝑐 = 2. 𝑎𝑡𝑎𝑛2(√𝑎, 􀶥(1 − 𝑎)) (2) 
+𝑑 = 𝑅. 𝑐 (3) 
+dengan φ = latitude, λ = longitude, R = radius bumi (rata-rata radius = 6,371 km), dan d = jarak (m). 
+Dari data jarak dan waktu yang direkam selama proses FCD, akan diketahui kecepatan tempuh kendaraan seperti pada (4). 
+𝑉 = 𝑑/𝑡 (4) 
+dengan V = kecepatan (km/jam), d = jarak (km), dan t = waktu (jam). 
+Gambaran proses disajikan pada Gbr. 1 yang menunjukkan proses rekaman data menggunakan FCD berbasis GPS pada perangkat bergerak milik pengendara kendaraan, data dikirim ke server untuk diolah dan disimpan, kemudian hasil akhir kembali disajikan kepada pengguna secara real time. 
+C. ANFIS Takagi-Sugeno 
+
+ANFIS merupakan kombinasi antara logika Fuzzy dengan Jaringan Syaraf Tiruan. Dalam pembelajaran data, ANFIS dapat menggunakan algoritma back propagation atau dapat menggunakan metode gabungan (hybrid learning) . Model ANFIS Takagi-Sugeno (TSK) merupakan metode FIS di mana pembangunan data berasal dari data input dan output yang diberikan. Arsitektur standar model TSK disajikan pada Gbr. 2.
+
+Layer 1 merupakan fungsi untuk membangkitkan nilai derajat keanggotaan setiap masukan (input). Salah satu metode perhitungan derajat keanggotaan adalah menggunakan Generalized Bell Membership Function (gbell). Fungsi keanggotaan gbell merupakan fungsi kurva yang menunjukkan posisi sebuah nilai masukan ke dalam nilai keanggotaan antara 0 dan 1, dengan x merupakan input dan empat parameter a,b,c, dan d digambarkan dalam (5). 
+𝑓(𝑥: 𝑎, 𝑏, 𝑐) = 1 1+􁉚𝑥−𝑐 𝑎 􁉚2𝑏 (5) 
+Layer 2 merupakan penghitungan bobot setiap parameter masukan, menggunakan (6). 
+𝑂2,1 = 𝑤𝑖 = 𝜇𝐴𝑖(𝑥)𝜇𝐵𝑖(𝑦), 𝑖 = 1,2 (6) 
+dengan wi = bobot, μAi = nilai derajat keanggotaan input pertama, μBi = nilai derajat keanggotaan input kedua, x = nilai input pertama, y= nilai input kedua, i = node dalam jaringan. 
+Layer 3 merupakan normalisasi dari nilai bobot dihitung berdasarkan (7). 
+𝑂3,𝑖 = 𝑤􀴥𝑖 = 𝑤𝑖 𝑤1+𝑤2, , 𝑖 = 1,2 (7) 
+Dengan wi = bobot node ke-i, w1 = bobot input 1, dan w2 = bobot input 2. 
+Langkah selanjutnya adalah pelatihan, salah satunya dapat digunakan metode backpropagation. Metode backpropagation adalah pelatihan dengan mengubah (update) dari bobot dan bias dalam jaringan FIS hingga tercapai kinerja yang diinginkan dalam bentuk vektor gradient berdasarkan (8). 
+??𝑘+1 = 𝑥𝑘 − 𝛼𝑘𝑔𝑘 (8) 
+dengan: 
+xk = vektor dari bobot sekarang 
+gk = gradien sekarang 
+αk = learning rate 
+D. Klasifikasi Kinerja Jalan Raya 
+
+Untuk menghitung tingkat kinerja jalan raya berdasarkan kemacetan dan waktu tunda, dilakukan dua metode pengujian, yaitu klasifikasi kemacetan menggunakan ANFIS dengan struktur ANFIS seperti pada Gbr. 3, dan menghitung rasio kinerja jalan raya dibandingkan dengan arus bebas dengan rumus perhitungan berdasarkan  seperti pada (9).
+
+FV = Kecepatan arus bebas kendaraan ringan pada kondisi lapangan (km/jam) 
+FV0 = Kecepatan arus bebas dasar kendaraan ringan pada jalan yang diamati 
+FVw = Penyesuaian kecepatan untuk lebar jalan (km/jam) 
+FFVSF = Faktor penyesuaian untuk hambatan samping dan lebar bahu atau jarak kereb penghalang 
+FFVCS= Faktor penyesuaian kecepatan untuk ukuran kota. 
+Sedangkan rumus kecepatan tempuh berdasarkan  seperti pada (10). 
+V = L/TT (10) 
+dengan: 
+V = kecepatan rata-rata ruang LV (Light Vehicle/ kendaraan ringan) (km/jam) 
+L = panjang segmen (km) 
+TT = waktu tempuh rata-rata sepanjang segmen (jam) 
+Tabel klasifikasi kinerja jalan raya berdasarkan kecepatan dalam  ditunjukkan pada Tabel I. Sedangkan klasifikasi kinerja jalan raya berdasarkan waktu tunda dalam  ditunjukkan pada Tabel II. 
+III.HASIL DAN PEMBAHASAN 
+
+Dari sistem FCD yang telah dibangun pada perangkat bergerak berbasis Android, diperoleh rekaman data perjalanan kendaraan. Beberapa rekaman data perjalanan kendaraan dan hasil perhitungan jarak tempuh menggunakan (1), (2), dan (3) hingga dihitung kecepatan tempuh dan waktu tunda tersaji pada Tabel III. dengan: 
+FV = Kecepatan arus bebas kendaraan ringan pada kondisi lapangan (km/jam) 
+FV0 = Kecepatan arus bebas dasar kendaraan ringan pada jalan yang diamati 
+FVw = Penyesuaian kecepatan untuk lebar jalan (km/jam) 
+FFVSF = Faktor penyesuaian untuk hambatan samping dan lebar bahu atau jarak kereb penghalang 
+FFVCS= Faktor penyesuaian kecepatan untuk ukuran kota. 
+Sedangkan rumus kecepatan tempuh berdasarkan  seperti pada (10). 
+V = L/TT (10) 
+dengan: 
+V = kecepatan rata-rata ruang LV (Light Vehicle/ kendaraan ringan) (km/jam) 
+L = panjang segmen (km) 
+TT = waktu tempuh rata-rata sepanjang segmen (jam) 
+Tabel klasifikasi kinerja jalan raya berdasarkan kecepatan dalam  ditunjukkan pada Tabel I. Sedangkan klasifikasi kinerja jalan raya berdasarkan waktu tunda dalam  ditunjukkan pada Tabel II. 
+III.HASIL DAN PEMBAHASAN 
+
+Dari sistem FCD yang telah dibangun pada perangkat bergerak berbasis Android, diperoleh rekaman data perjalanan kendaraan. Beberapa rekaman data perjalanan kendaraan dan hasil perhitungan jarak tempuh menggunakan (1), (2), dan (3) hingga dihitung kecepatan tempuh dan waktu tunda tersaji pada Tabel III. dengan: 
+FV = Kecepatan arus bebas kendaraan ringan pada kondisi lapangan (km/jam) 
+FV0 = Kecepatan arus bebas dasar kendaraan ringan pada jalan yang diamati 
+FVw = Penyesuaian kecepatan untuk lebar jalan (km/jam) 
+FFVSF = Faktor penyesuaian untuk hambatan samping dan lebar bahu atau jarak kereb penghalang 
+FFVCS= Faktor penyesuaian kecepatan untuk ukuran kota. 
+Sedangkan rumus kecepatan tempuh berdasarkan  seperti pada (10). 
+V = L/TT (10) 
+dengan: 
+V = kecepatan rata-rata ruang LV (Light Vehicle/ kendaraan ringan) (km/jam) 
+L = panjang segmen (km) 
+TT = waktu tempuh rata-rata sepanjang segmen (jam) 
+Tabel klasifikasi kinerja jalan raya berdasarkan kecepatan dalam  ditunjukkan pada Tabel I. Sedangkan klasifikasi kinerja jalan raya berdasarkan waktu tunda dalam  ditunjukkan pada Tabel II. 
+III.HASIL DAN PEMBAHASAN 
+
+Dari sistem FCD yang telah dibangun pada perangkat bergerak berbasis Android, diperoleh rekaman data perjalanan kendaraan. Beberapa rekaman data perjalanan kendaraan dan hasil perhitungan jarak tempuh menggunakan (1), (2), dan (3) hingga dihitung kecepatan tempuh dan waktu tunda tersaji pada Tabel III.
+
+Dari data kecepatan tempuh dan waktu tunda yang telah diperoleh, dilakukan pegujian menggunakan metode ANFIS. Metode ANFIS dilakukan terhadap data masukan kecepatan dan waktu tunda (masing-masing memiliki tiga derajat keanggotaan, yaitu kecepatan tempuh lambat, sedang, dan cepat, serta waktu tunda singkat, sedang, dan lama. Dari data input ini dihitung parameter derajat keanggotaan gbell sesuai (5), dengan hasil pada Tabel IV. Sedangkan perhitungan parameter output ditunjukkan pada Tabel V.
+
+Kemudian data diuji menggunakan metode backpropagation dengan beberapa variasi perbandingan data latih dan data uji. Hasil pengujian ANFIS terhadap klasfikasi kemacetan tersaji pada Tabel VI, sedangkan hasil uji MSE dengan perbedaan persentase data latih dan data uji tersaji pada Tabel VII.
+
+Dari hasil pengujian ANFIS untuk klasifikasi kemacetan terhadap data uji, terdapat selisih nilai jika dibandingkan dengan pelabelan awal. Dengan demikian nilai selisih menunjukkan kedekatan atau kecenderungan tingkat kemacetan terhadap nilai tertentu, sehingga akan memberikan label yang berbeda antara nilai input yang satu dengan yang lain. Contoh konversi pelabelan tingkat kemacetan hasil uji ANFIS tersaji pada Tabel VIII.
+
+Dari kelima pengujian menggunakan ANFIS, diperoleh nilai MSE terkecil pada variasi data latih 70% dan data uji 30%, yaitu sebesar 0.43. Sedangkan MSE terbesar terdapat pada variasi percobaan data latih 30% dan data uji 70%, yaitu sebesar 1.2. Hal ini menunjukkan bahwa banyaknya data latih dibandingkan dengan data uji mempengaruhi hasil pengujian (tingkat kesalahan), tetapi sebaran data latih juga harus cukup mewakili sebaran keseluruhan data. Hal ini terlihat pada persentase data latih 60% dan data uji 20%, walaupun persentase data latih lebih banyak dari pada data uji, tapi lebih tinggi daripada perbandingan 60% dan 40%. Hal ini dapat terjadi karena nilai sebaran nilai data latih tidak cukup mewakili nilai data yang diujikan. Grafik perbandingan nilai MSE pada lima percobaan ditunjukkan pada Gbr. 4. 
+Sedangkan rasio perbandingan hasil perhitungan kecepatan arus dasar dan kecepatan tempuh untuk mengetahui kinerja jalan raya sesuai  disajikan pada Tabel IX. Berdasarkan (9), kecepatan arus dasar (FV) segmen jalan perkotaan adalah sebesar 53.01 (Tabel IX). Sedangkan dari hasil metode FCD, didapatkan kecepatan tempuh pada situasi lalu lintas senggang dan puncak pagi, yang tersaji pada Tabel X. 
+Tabel X menunjukkan bahwa kinerja segmen jalan A. Yani sampai dengan jalan J.A. Suprapto cukup baik pada lalu lintas senggang, yaitu sebesar 68,22% dibandingkan dengan kecepatan arus bebas. Sedangkan pada situasi puncak pagi, kinerja jalan raya sebesar 43,96%, yang berarti tidak maksimal (hanya setengah dari kinerja jalan normal). Hal ini dapat disebabkan oleh banyaknya persimpangan di sepanjang segmen yang menyebabkan lamanya waktu tunda perjalanan pengendara kendaraan. Hasil akhir informasi klasifikasi kemacetan jalan raya ditampilkan secara visual dan real time pada perangkat bergerak berbasis Android seperti pada Gbr 5.
+
+
+IV.KESIMPULAN 
+Dari proses dan analisis hasil dapat diambil kesimpulan bahwa dengan menggunakan teknologi GPS pada perangkat bergerak yang dibawa oleh pengendara, dapat dilakukan perhitungan kecepatan kendaraan, yaitu menggunakan rumus Haversine. Metode FCD yang diterapkan pada perangkat bergerak dapat merekam dengan baik perpindahan, jarak, kecepatan tempuh kendaraan secara real time. Kemudian, metode pengujian ANFIS menunjukkan hasil yang baik yaitu dengan nilai MSE yang kecil (sebesar 0.43) dengan ketentuan sebaran data harus mencukupi. Untuk perhitungan rasio kinerja jalan raya pada situasi nyata (riil) dibandingkan dengan kondisi standar perhitungan pada buku MKJI, didapatkan kinerja jalan yang baik (68.22 %), kecuali pada saat kondisi lalu lintas puncak yang memungkinkan kemacetan (sebesar 43.96 %). Dengan adanya informasi ini, dapat dilakukan tindakan pencegahan untuk pengaturan lalu lintas pada kondisi lalu lintas puncak (bagi pihak yang berwenang). Selain itu, aplikasi yang diterapkan dalam perangkat bergerak berbasis Android dapat menampilkan klasifikasi kemacetan secara visual dan real time dan dapat diakses oleh pengguna jalan sehingga dapat memberikan petunjuk perjalanan. 
+Saran yang dapat diberikan untuk penelitian lebih lanjut antara lain pengambilan sampel data yang lebih banyak pada variasi kepadatan lalu lintas dan penggunaan parameter lain (missal arus dan volume kendaraan) sebagai pembanding untuk mengukur kinerja jalan raya.

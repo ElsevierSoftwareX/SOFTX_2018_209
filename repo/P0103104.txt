@@ -1,0 +1,382 @@
+﻿Desain dan Kinerja Sistem Pneumatik untuk Penabur Pupuk Tanaman
+Sawit Muda
+
+
+Abstrak
+Mesin pemupuk yang menggunakan mekanisme gaya sentrifugal, perlu dimodifikasi, karena tidak dapat
+diaplikasikan untuk memupuk tanaman kelapa sawit belum menghasilkan (di bawah 5 tahun). Penelitian ini
+dilakukan dengan merancang sistem penabur pupuk, menggunakan sistem pneumatik, dimana Penjatah
+pupuk didesain untuk menghembuskan pupuk pada beberapa dosis pemupukan, yaitu: 0.25, 0.75, 1.0,
+1.25 dan 1.5 kg/tanaman. Berdasarkan analisis kehilangan tekanan, sistem pneumatik ini membutuhkan
+daya 0.71 kW pada putaran blower 3000 rpm yang menghasilkan aliran udara sebesar ±0.3375 m3/s.
+Prototipe penabur pupuk ini telah diuji di lapang pada kecepatan maju 0.55 m/s dan 1.7 m/s. Hasil pengujian
+menunjukkan bahwa penabur pupuk ini dapat menghembuskan pupuk ke sasaran di sekitar tanaman
+kelapa sawit dengan laju pemupukan yang akurat. Namun, sebaran pupuk relatif rendah dengan koefisien
+ragam antara 0.47 - 0.77.
+Kata kunci: Mesin pemupuk, sistem pneumatik, penebar, kelapa sawit muda
+
+
+
+
+Pendahuluan
+Industri kelapa sawit merupakan komoditas
+penting dalam pembangunan ekonomi nasional.
+Selain sebagai penampung tenaga kerja yang
+besar, industri kelapa sawit menyumbang sebagian
+besar devisa negara. Indonesia merupakan salah
+satu produsen utama minyak sawit dunia. Hal ini
+terlihat dari total luas lahan perkebunan kelapa sawit
+di Indonesia yang mencapai 34.18 % dari total luas
+lahan perkebunan kelapa sawit dunia. Pencapaian
+produksi rata-rata kelapa sawit Indonesia tahun
+2004 - 2008 tercatat sebesar 75.54 juta ton tandan
+buah segar (TBS) atau 40.26 % dari total produksi
+kelapa sawit dunia (Fauzi et al. 2012).
+Produktivitas yang telah dicapai oleh perkebunan
+sawit di Indonesia saat ini harus ditingkatkan dan baik seperti kegiatan pemeliharaan tanaman kelapa
+sawit. Salah satu kegiatan dalam pemeliharaan
+yang memerlukan pengelolaan lebih lanjut adalah
+kegiatan pemupukan. Pemupukan merupakan
+suatu upaya untuk menyediakan unsur hara yang
+cukup guna mendorong pertumbuhan vegetatif
+tanaman. Permasalahan yang sering terjadi
+di perkebunan kelapa sawit dalam kegiatan
+pemupukan adalah ketidak sesuaian dosis aplikasi
+dengan rekomendasi, waktu dan cara aplikasi, dan
+faktor pendukung yang lain tidak terkondisikan
+(Ridawati 2002). Pemupukan dapat dilakukan
+dengan dua cara antara lain pemupukan manual
+dan pemupukan secara mekanis dengan power
+spreader.
+Pemupukan manual menghasilkan aplikasi
+pupuk yang beragam dan membutuhkan tenaga
+kerja yang banyak. Hal ini merupakan masalah
+yang terjadi setiap tahun. Pemupukan manual yang
+pernah dilakukan tidak mampu mencapai suatu
+hasil yang maksimal sehingga masih terdapat
+kekurangan yang harus diperbaiki seperti pengujian
+alat dan kalibrasi dosis pupuk harus sesuai dan
+tepat dosis, aplikasi pemupukan harus benar dan
+tepat sasaran, pengawasan pekerjaan pemupukan
+harus intensif dan efektif, serta kualitas pemupukan
+harus mencapai mutu hasil yang lebih baik.
+Mesin pemupuk kelapa sawit yang biasa disebut
+dengan mesin penebar pupuk (power spreader)
+(Cunningham dan Chao 1967) merupakan salah
+satu mesin pemupuk yang banyak digunakan
+dibeberapa perkebunan kelapa sawit. Namun
+demikian belum ada mesin pemupuk yang khusus
+dirancang untuk kelapa sawit muda atau tanaman
+belum menghasilkan (TBM) karena power spreader
+yang ada sekarang belum bisa menaburkan pupuk di
+permukaan tanah di sekitar pokok (piringan pokok).
+Kalaupun dipaksakan maka pupuk berhamburan
+dan jatuh bertabrakan dengan pelepah daun.
+Pelepah daun pada TBM masih rendah dan
+menutupi daerah piringan. Bahkan pupuk juga akan
+masuk ke dalam sela-sela ketiak pelepah.
+Dari beberapa penjelasan di atas, penulis dapat
+menyampaikan bahwa mesin pemupuk kelapa
+sawit yang umumnya digunakan pada saat ini,
+masih kurang efektif untuk diterapkan pada sawit
+TBM. Sehingga diperlukan pengembangan desain
+yang mampu untuk menaburkan pupuk di piringan
+pokok sawit TBM. Penelitian ini bertujuan untuk
+merancang sistem penabur pupuk NPK untuk
+kelapa sawit muda (TBM) dan menguji kinerjanya.
+Bahan dan Metode
+Waktu dan Tempat
+Penelitian ini dilaksanakan dari bulan Februari
+2014 sampai Februari 2015. Pembuatan prototipe
+dilaksanakan di bengkel Fadhel Teknik dan bengkel
+Departemen Teknik Mesin dan Biosistem, Institut
+Pertanian Bogor. Pengujian mesin dilakukan di
+Laboratorium Lapangan Siswadhi Soepardjo,
+Departemen Teknik Mesin dan Biosistem, Institut
+Pertanian Bogor.
+Alat dan Bahan
+Bahan yang digunakan dalam penelitian ini
+terdiri dari bahan konstruksi mesin untuk pembuatan
+mesin dan bahan untuk pengujian berupa pupuk
+NPK 15.15.15. Peralatan yang digunakan dalam
+penelitian ini terdiri dari alat yang dipergunakan
+untuk desain, pembuatan prototipe dan pengujian
+kinerja. Untuk mendukung analisis desain digunakan
+perangkat lunak SolidWorks 2011 khususnya untuk
+simulasi aliran udara dan pupuk dalam sistem
+pneumatiknya. Untuk pengukuran distribusi dan
+laju aplikasi pupuk digunakan peralatan: karpet
+berpola, meteran, timbangan digital, tachometer
+digital DT-1236, anemometer Kanomax A541 dan
+kamera digital.
+Tahapan Penelitian
+Tahapan penelitian yang dilakukan secara umum
+terdiri dari: 1) identifikasi masalah, 2) perumusan
+ide desain, 3) evaluasi konsep desain, 4) analisis
+desain, 5) pembuatan prototipe, dan 6) uji kinerja
+mesin (Gambar 1).
+Analisis Desain
+Mesin penabur pupuk ini didesain dengan kriteria:
+1) dapat mengaplikasikan pupuk NPK dengan
+dosis 0.25, 0.75, 1.0, 1.25, dan 1.5 kg/tanaman,
+2) kecepatan maju mesin 0.55 dan 1.7 m/s, 3)
+pupuk ditaburkan di sekitar tanaman sawit dalam
+radius 1.5 m, 4) tenaga putar dari sistem pneumatik
+menggunakan putaran power take off (PTO)
+traktor. Perancangan sistem pneumatik pada mesin
+pemupuk TBM harus mampu menghembuskan
+pupuk yang dijatahkan sehingga sampai pada target di sekitar tanaman yang dipupuk. Perbedaan
+dosis pemupukan tanaman sawit TBM disesuaikan
+dengan keperluan pupuk sesuai umur tanam dari
+kelapa sawit tersebut.
+Berdasarkan kriteria desain di atas, maka fungsi
+utama dari sistem pneumatik yang dikembangkan
+adalah menghembuskan pupuk granular NPK untuk
+tanaman sawit TBM yang ditanam pada sengkedan
+secara efektif dengan dosis bervariasi. Selanjutnya
+dirancanglah sub-fungsi dari mesin, dan dipilih
+komponennya, yang hasilnya seperti disajikan pada
+Tabel 1.
+Kemudian dilakukan analisis struktural untuk
+bagian-bagian utama mesin, khususnya bagian
+sistem pneumatiknya. Desain keseluruhan mesin
+terdiri dari bagian hopper pupuk, penjatah pupuk
+(metering device), sistem penumatik, sistem
+transmisi daya dan sistem kendali. Bagian mesin
+berupa hopper dan penjatah pupuk telah dirancang
+oleh Irfansyah (2015). Bagian-bagian mesin
+pemupuk ditunjukkan pada Gambar 2.
+Dengan kecepatan maju mesin 0.55 m/s dan
+1.7 m/s, dan panjang daerah penaburan pupuk
+per tanaman 3 m (1.5 m sebelum dan sesudah
+melewati tanaman), maka waktu pengeluaran
+pupuk per tanaman adalah 6 detik dan 2.8 detik
+masing-masing untuk kecepatan 0.55 m/s dan 1.7
+m/s. Dengan menggunakan dosis tertinggi yaitu
+1.5 kg/tanaman, maka debit pupuk yang harus
+dihembuskan adalah 0.23 kg/s dan 0.54 kg/s
+masing-masing untuk kecepatan 0.55 m/s dan 1.7
+m/s.
+Perhitungan kebutuhan daya dalam sistem
+penghembus menggunakan perhitungan penuruan
+tekanan total yang terjadi pada sistem seperti pada
+persamaan (1) (Srivastava et al. 1993).
+ΔP = ΔPL + ΔPa + ΔPs + ΔPg + ΔPb (1)
+Dalam hal ini: ΔP = total pressure drop sistem
+(kPa), ΔPL = kehilangan tekanan di saluran akibat
+udara (kPa), ΔPa = pressure drop akibat percepatan
+partikel (kPa), ΔPs = pressure drop akibat gesekan
+padatan (kPa), ΔPg = pressure drop akibat
+pengangkatan vertikal (kPa), ΔPb = pressure drop
+di belokkan (kPa).
+Untuk desain mesin dengan kecepatan maju
+0.55 m/s, di mana debit pupuknya sebesar 0.23 kg/s maka dapat dihitung penurunan tekanan sebagai
+berikut. Data yang digunakan dalam perhitungan
+adalah: panjang total pipa lurus yang dibutuhkan 1.6
+m, diameter pipa yang digunakan 0.0508 m, jumlah
+belokan 90o satu buah, cabang-T satu buah dan
+bulk density pupuk NPK adalah 1260 kg/m3. Dengan
+kecepatan pneumatik yang direkomendasikan
+sebesar 38 m/s (Srivastava et al. 1993). Kehilangan
+tekanan di saluran akibat udara(ΔPL) sebesar
+0.0526 kPa, pressure drop akibat percepatan
+partikel (ΔPa) sebesar 5.605 kPa, pressure drop
+akibat gesekan padatan (ΔPs) sebesar 0.0001 kPa,
+pressure drop akibat pengangkatan vertikal (ΔPg)
+sebesar 0 kPa, pressure drop di belokkan (ΔPb)
+sebesar 0.7124 kPa, maka penurunan tekanan
+dalam sistem pneumatik berdasarkan persamaan
+(1) adalah:
+ΔP= 0.0526+ 5.605+ 0.0001+0+0.7124 = 6.3701 kPa (2)
+Selanjutnya daya blower yang dibutuhkan
+tergantung pada kecepatan aliran udara volumetrik
+dan total pressure drop sistem. Daya yang
+dibutuhkan dihitung dengan persamaan (3) dari
+udara standar.
+(3)
+(4)
+Dalam persamaan (3): P adalah daya blower
+(kW), Q adalah kecepatan aliran volumetrik udara
+(m3/s), ηb adalah efisiensi blower (0.5-0.7).
+Jadi, PTO dari traktor (crawler type tractor) harus
+memiliki daya yang lebih besar dari 0.71 kW untuk
+memutar blower.
+Untuk mengetahui kondisi aliran pupuk pada
+sistem pneumatik, dilakukan simulasi menggunakan
+aplikasi CFD (Computational Fluids Dynamics)
+pada perangkat lunak SolidWorks 2011. Bagian
+yang disimulasikan adalah bagian kotak pencampur
+pupuk dan udara yang terletak di bagian bawah
+hopper. Bagian ini berfungsi untuk mencampur
+pupuk dengan aliran udara. Dengan ini butiranbutiran
+pupuk dihembuskan oleh aliran udara
+menuju ke diffuser yang selanjutnya dihembuskan
+ke permukaan lahan. Simulasi dilakukan karena
+pola pergerakan pupuk di dalam saluran sulit untuk
+diamati. Dalam simulasi ini, debit udara dari blower
+di-set 0.3375 m3/ssesuai dengan debit optimum
+yang dihasilkan blower, debit pupuk 0.23 kg/s, dan
+ukuran diameter butiran pupuk 4 mm.
+Metode Pengujian Kinerja
+Sebelum dilakukan pengujian kinerja mesin,
+dilakukan pengamatan untuk mengetahui dan
+memastikan tiap-tiap bagian dapat berfungsi
+dengan baik. Sistem pneumatik dipasangkan
+dengan kelengkapan mesin pemupuk yang lainnya,
+lalu dipasang di atas traktor. Pengujian kinerja
+mesin dilakukan di lahan datar dengan perlakuan
+kecepatan maju 0.55 dan 1.7 m/s. Variasi dosis
+pemupukan yang akan diuji adalah 0.25, 0.75, 1.0,
+1.25 dan 1.5 kg/tanaman. Untuk mengukur sebaran
+pupuk di permukaan yang ditargetkan, maka
+dipasang lapisan karpet di atas permukaan tanah.
+Pada karpet dibuat pola kotak-kotak pengamatan
+pupuk yang masing-masing berukuran 20 cm ×
+20 cm (Gambar 3). Jarak spasi antar kotak adalah
+30 cm. Mesin dijalankan pada jalur sejajar pokok
+tanaman sedemikian rupa sehingga jarak ujung
+diffuser ke pokok 160 cm. Dalam pengujian, pupuk
+yang dikerluarkan dari diffuser akan tersebar di
+permukaan kotak-kotak pengamatan. Pupuk di
+setiap kotak pengamatan ditimbang, untuk diperoleh
+sebarannya.
+Selain itu, dilakukan juga pengujian akurasi
+pengeluaran pupuk (dosis) tiap pokok tanaman
+dengan cara menampung pupuk yang keluar dari
+ujung diffuser menggunakan kantong plastik, dan
+ditimbang. Pengujian dilakukan tiga kali ulangan baik
+diffuser kanan maupun kiri, untuk setiap perlakuan.
+
+
+
+Pengukuran dosis pemupukan dilakukan dalam dua
+kondisi yaitu: 1) secara statis (mesin tidak bergerak
+maju) dan 2) dinamis (mesin bergerak maju).
+Hasil dan Pembahasan
+Simulasi Aliran Udara Bertekanan dan Aliran
+Pupuk dalam Sistem Pneumatik
+Hasil simulasi menunjukkan bahwa kecepatan
+aliran udara pada inlet kotak pencampur, bagian kiri
+berwarna biru muda seperti pada Gambar 4, yaitu
+sebesar 40.380 m/s. Hasil simulasi memberikan
+nilai kecepatan udara pada outlet kotak pencampur
+sebesar 53.840 m/s. Terjadi peningkatan kecepatan
+pada bagian tengah bawah kotak pencampur.
+Hal ini disebabkan adanya sirip pencampur yang
+menyebabkan perubahan ukuran saluran yang
+menjadi lebih kecil dari inlet kotak pencampur.
+Besarnya kecepatan pada bagian tengah bawah
+kotak pencampur adalah 80.759 sampai 121.139
+m/s. Hasil simulasi aliran udara memperlihatkan
+bahwa kecepatan udara pada inlet dan outlet
+diffuser adalah 26.92 m/s dan 13.46 m/s. kecepatan
+udara pada outlet diffuser kanan dan kiri adalah
+12.8 m/s dan 12.2 m/s. kecepatan udara pada outlet
+diffuser hasil simulasi dengan hasil pengukuran
+tidak jauh berbeda. Hal ini membuktikan bahwa
+sistem pneumatik dapat berfungsi sesuai dengan
+yang direncanakan.
+Sebaran pupuk dari kotak pencampur mencapai
+diffuser memanfaatkan aliran udara bertekanan
+yang dihasilkan blower. Dari pengukuran
+karakteristik pupuk NPK 15.15.15, diketahui ukuran
+diameter butiran pupuk 2.36 - 4.76 mm dari 82.56
+% dari total massa pupuk yang diukur. Pupuk
+yang berdiameter 4 mm dan memiliki bulk density
+1260 kg/m3 relatif memiliki pengaruh aerodinamika
+karena luas permukaan yang besar. Semakin besar
+ataupun kasar permukaan butiran maka akan
+semakin besar efek aerodinamika yang bekerja
+pada butiran tersebut jika berada dalam aliran
+udara (Grift et al. 1997). Aliran pupuk dari kotak
+pencampur sampai diffuser telah disimulasikan dan
+hasilnya disajikan pada Gambar 5. Pada simulasi
+ini butiran pupuk memiliki kecepatan terbesar pada
+kotak pencampur bagian tengah bawah sebesar
+80.759 m/s. Hal ini disebabkan oleh saluran aliran
+udara mengecil dengan adanya sirip pencampur.
+Pada bagian tengah atas kotak pencampur butiran
+pupuk memiliki kecepatan yang rendah karena
+aliran udara yang berasal dari blower terhalang oleh
+sirip pencampur. Namun, butiran pupuk tersebut
+mendapat gaya dorong yang berasal dari metering
+device sehingga tidak terjadi penumpukan pupuk di
+kotak pencampur.
+Sistem Pneumatik pada Prototipe Mesin
+Pemupuk dan Kinerjanya
+Sistem pneumatik yang digunakan adalah sistem pneumatik positif (Srivastava et al. 1993). Sistem
+pneumatik pada prototipe mesin pemupuk berupa
+blower, saluran berupa pipa PVC dan aksesoris,
+kotak pencampur, pipa fleksibel dan diffuser.
+Sistem pneumatik ini menggunakan blower dengan
+spesifikasi intermediate pressure blower tipe CZR-
+750W. Blower ini telah mengakomodasi kebutuhan
+daya sistem pneumatik yaitu 0.71 kW karena
+blower dapat dioperasikan pada daya 0.75 kW
+dan menghasilkan debit sebesar ±0.3375 m3/detik
+pada kecepatan putar 3000 rpm. Karena kecepatan
+putar PTO yang tersedia 648 rpm (Aswin 2015),
+maka untuk meningkatkan kecepatan putarnya
+digunakan sistem transmisi dua pasang sabuk-puli
+dan poros antara. Sistem sabuk-puli yang pertama
+memiliki ratio 1:3 dan yang kedua memiliki rasio
+1:2. Tipe sabuk yang dipilih adalah tipe B ganda,
+sesuai dengan perhitungan penyaluran daya dan
+putaran, menggunakan diagram pemilihan sabuk-V
+(Sularso dan Suga 2004). Blower diletakkan pada
+bagian belakang sebelah kanan dan mempunyai
+arah putar blower searah jarum jam jika dilihat dari
+belakang. Hal ini sama juga pada mesin pemupuk
+padi yang dirancang Kim et al. (2008) dan Gunawan
+et al. (2013).
+Hasil pengujian akurasi penjatahan pupuk
+sebesar 99.16 % - 99.66 % menunjukkan bahwa
+mesin dapat menaburkan pupuk dengan akurat
+sesuai dosis yang di-set, baik pada pengujian statis
+maupun dinamis, seperti ditunjukkan pada Gambar
+6. Ada sedikit perbedaan antara keluaran yang
+diharapkan dengan keluaran pupuk aktual, yang
+disebabkan oleh kurang presisinya ukuran auger
+dari metering device akibat proses pabrikasi yang
+masih konvensional dan sederhana.
+Pengujian sebaran dapat dilihat pada Gambar
+7 dan Gambar 8. Hasil analisis sebaran pupuk di
+permukaan target menunjukkan bahwa sebaran
+pupuk kurang merata. Pupuk lebih banyak tersebar
+di baris dua dan tiga, yaitu pada jarak 1 - 1.6 m dari ujung diffuser. Hal ini terjadi karena lintasan
+pupuk dari diffuser sampai jadi ke lahan berbentuk
+setengah parabola. Dengan demikian jarak
+optimum jatuhnya pupuk dari diffuser adalah 1 m.
+Sebaiknya dibuat pengatur kemiringan di rangka
+penahan pipa fleksibel agar pupuk bisa tepat ditabur
+di piringan pokok tanaman. Selain itu juga, dari
+hasil pengujian terlihat bahwa pupuk lebih banyak
+tersebar pada kolom C, D dan E. Hal ini disebabkan
+oleh penjatahan pupuk pada mesin ini tidak kontinu
+hanya memupuk per tanaman sehingga pada awal
+saat memupuk hanya sedikit pupuk yang keluar
+dari metering device. Pada saat pertengahan
+pemupukan, pupuk yang keluar lebih banyak.
+Pada kecepatan 0.55 m/s koefisien ragamnya
+bervariasi antara 0.47 (dosis 0.25 kg/tanaman)
+sampai 0.76 (dosis 1.5 kg/tanaman). Pada
+kecepatan 1.7 m/s koefisien ragamnya bervariasi
+antara 0.63 (dosis 0.5 kg/tanaman) sampai 0.77
+(dosis 0.75 kg/tanaman). Hal ini menggambarkan
+penyebaran pupuk pada dosis yang kecil cenderung
+lebih seragam. Koefisien ragam dari kecepatan 0.55
+m/s dan 1.7 m/s tidak jauh berbeda. Oleh sebab itu,
+mesin dapat dioperasikan dengan kecepatan 0.55
+m/s dan 1.7 m/s.
+Simpulan
+1. Desain sistem pneumatik pada mesin pemupuk
+dapat menebarkan pupuk di sekitar pokok
+tanaman sawit.
+2. Daya yang dibutuhkan untuk menghembuskan
+pupuk adalah 0.71 kW.
+3. Dosis pupuk yang dihembuskan oleh mesin
+sudah sesuai dengan yang dosis yang di-set.
+4. Jarak optimum jatuhnya pupuk dari diffuser
+adalah 1 m.
+5. Mesin pemupuk dapat dioperasikan pada
+kecepatan maju 0.55 m/s dan 1.7 m/s.

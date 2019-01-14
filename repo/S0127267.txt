@@ -1,0 +1,1084 @@
+﻿KETIMPANGAN PENDAPATAN ANTAR KABUPATEN/KOTA DAN PERTUMBUHAN EKONOMI DI PROPINSI JAWA TIMUR
+
+
+Abstrak
+Penelitian ini bertujuan untuk menganalisis besarnya disparitas antar daerah dan pertumbuhan ekonomi, sektor-sektor yang berpotensi dikembangkan guna mendorong pertumbuhan dan pembangunan ekonomi, mengklasifikasi daerah di Kabupaten/Kota di Propinsi Jawa Timur berdasarkan laju pertumbuhan dan pendapatan perkapitanya. Metode analisis yang digunakan adalah analisis pertumbuhan ekonomi, LocationQuotient(LQ), Shift-share, Tipologi Sektoral, Tipologi Klassen, Indeks Williamson, Indeks Theil, Korelasi Pearson dan menguji berlakunya Hipotesis Kusnetz. Masih banyak daerah di Propinsi Jawa Timur yang tergolong dalam daerah relatif tertinggal, tercatat sebanyak 23 Kabupaten/Kota termasuk daerah relatif tertinggal. Disparitas pendapatan antar daerah di Propinsi Jawa Timurtegolong tinggi (>0,5) dengan nilai 0,4295 dan mengalami kenaikan. Sementara hipotesis “U” terbalik Kuznets yang menggambarkan hubungan antara pertumbuhan dengan ketimpangan tidak berlaku di Propinsi Jawa Timur (sig-2 tailed correlation 0,160 terhadap indeks Williamson dan 0,257 indeks Entropi Theil). Berdasarkan temuan tersebut saran yang dapat disampaikan adalah menerapkan kebijakan pembangunan yang memprioritaskan pada daerah-daerah yang masih relatif tertinggal. Pembangunan sektor-sektor potensial yang telah menjadi sektor basis di masing-masing daerah, yang dikembangkan dengan inovasi dan teknologi.
+Kata Kunci: Ketimpangan Pendapatan; Pertumbuhan Ekonomi; Analisis Kuznets; Korelasi Pearson
+
+PENDAHULUAN
+Keberhasilan pembangunan suatu daerah bisa dilihat laju pertumbuhan ekonominya. Oleh sebab itu, setiap daerah selalu menetapkan target laju pertumbuhan yang tinggi didalam perencanaan dan tujuan pembangunan daerahnya.Secara sederhana pertumbuhan ekonomi diartikan sebagai perubahan dari Produk Domestik Bruto (PDB) di tingkat nasional dan Produk Domestik Regional Bruto (PDRB) di tingkat daerah dari tahun ke tahun. Suatu ekonomi dikatakan mengalami pertumbuhan yang berkembang apabila tingkat kegiatan ekonominya lebih tinggi dari pada apa yang dicapai pada masa sebelumnya. Secara teoritis dikatakan bahwa semakin tinggi tingkat pendapatan suatu masyarakat, semakin baik tingkat kesejahteraannya.
+Hal yang terpenting dalam pembangunan daerah adalah bahwa daerah tersebut mampu mengidentifikasi setiap potensi sektor-sektor potensial yang dimilikinya, kemudian menganalisisnya untuk membuat sektor-sektor tersebut memiliki nilai tambah bagi pembangunan ekonomi daerah. Perencanaan pembangunan mempunyai peranan yang sangat besar sebagai alat untuk mendorongdan mengendalikan proses pembangunan secara lebih cepat dan terarah. Realisasi tujuan pembangunan harus dilaksanakan secara tepat, komprehensif dan terintegrasimulai dari aspek perencanaan, pelaksanaan, dan evaluasi sehingga otonomi yang diberikan kepada daerah akan mampu meningkatkan kesejahteraan masyarakat. Sehingga salah satu upaya yang dilakukan yaitu melalui peningkatan pertumbuhan ekonomi.
+Menurut Lincolin Arsyad (1999) tingkat pertumbuhan ekonomi yang tinggi hanya sedikit manfaatnya dalam memecahkan masalah kemiskinan. Pertumbuhan PDB yang cepat tidak secara otomatis meningkatkan taraf hidup masyarakatnya. Dengan kata lain bahwa apa yang disebut dengan “trickle down effects” dari manfaat pertumbuhan ekonomi bagi penduduk miskin tidak terjadi seperti apa yang diharapkan. Apabila tidak ada pemerataan maka yang akan menikmati manfaat pertumbuhan ekonomi ini adalah masyarakat yang mempunyai modal yang besar dan masyarakat dari golongan atas. Selama proses awal pembangunan terjadi suatu dilema yaitu antara pertumbuhan ekonomi yang tinggi dengan distribusi pendapatan, ini menjadi masalah yang telah lama dan harus dihadapi oleh negara-negara miskin dan berkembang. Trade off atau pertukaran antara pertumbuhan ekonomi dengan distribusi pendapatan di masing-masing daerah selalu terjadi.
+
+
+Kuznet telah mengemukakan bahwa pada tahap-tahap awal pertumbuhan ekonomi, distribusi pendapatan cenderung memburuk, dengan kata lain ketimpangan yang tinggi. Namun, pada tahap-tahap berikutnya hal tersebut akan membaik. Hipotesis ini dikenal dengan hipotesis “U-Terbalik” Kuznet. Sesuai dengan rangkaian perubahan kecenderungan distribusi pendapatan dengan ukuran koefisien Gini dan pertumbuhan PDB perkapita yang akan terlihat seperti kurva yang berbentuk huruf U terbalik. Menurut Kuznet distribusi pendapatan akan meningkat sejalan dengan pertumbuhan ekonomi (Todaro, 2000).
+Menurut Sjafrizal (2009) terciptanya integrasi, sinkronisasi dan sinergi antar daerah sangat penting untuk mempercepat realisasi pembangunan di daerah. Namun,koordinasi antar kepala daerah kurang berjalan efektif bahkan kerap dihadapi konflik kepentingan dalam penyusunan dan pelaksanaan program. Masing-masing kepala daerah, baik gubernur, bupati maupun walikota memiliki ego sektoral sehingga terjadi ketimpangan pembangunan antar wilayah. Dalam kondisi demikian, dibutuhkan pemetaan akan kebutuhan dari masing-masing wilayah sehingga pembangunan dapat dilakukan secara terpadu dan proporsional. Ada baiknya jika antar kepala daerah menyusun rencana pembangunan jangka panjang, jangka menengah sesuai masa jabatan kepala daerah. Sinkronisasi dan integrasi juga harus rencana strategis yang jelas dan terarah dan mewakili semua kepentingan wilayah.
+Ketimpangan wilayah merupakan salah satu permasalahan yang pasti timbul dalam pembangunan. Ketimpangan yang lazim dibicarakan adalah ketimpangan ekonomi. Ketimpangan pembangunan ekonomi secara wajar memang akan terjadi dalam proses pembangunan ekonomi seiring dengan adanya perbedaan sumber daya alam dan infrastruktur yang dimiliki oleh masing-masing daerah. Walaupun pada dasarnya kesenjangan pembangunan adalan inherent dengan proses pembangunan itu sendiri (Ardani, 1992). Ketimpangan ekonomi sering digunakan sebagai indikator perbedaan pendapatan perkapita rata-rata, antar kelompok tingkat pendapatan, antar kelompok lapangan kerja, dan antar wilayah.
+Jawa Timur sebagai salah satu propinsi di Indonesia yang terletak di pulau Jawa juga tidak terlepas dari masalah ketimpangan pembangunan ekonomi. Propinsi Jawa Timur yang terdiri dari 29 kabupaten dan 9 kota ini tentu saja memiliki berbagai persoalan yang harus diselesaikan, diantaranya adalah masalah pertumbuhan ekonomi dan kesenjangan distribusi pendapatan. Aspek pemerataan pendapatan merupakan hal yang penting untuk dipantau, karena pemerataan hasil pembangunan merupakan salah satu strategi dan tujuan pembangunan nasional di Indonesia. Sehingga dalam prakteknya bagaimana proses pembangunan yang terjadi di daerah tersebut dapat dimaksimalkan dan menekan nilai ketimpangan pembangunan tesebut kearah pemerataan pembangunan ekonomi dengan memaksimalkan sektor-sektor ekonomi yang mempunyai nilai keunggulan kompetitif di setiap daerah untuk dikembangkan. Apalagi Jawa Timur merupakan propinsi yang sangat potensial dengan potensi perkembangan ekonomi yang cukup besar, hal ini dapat dilihat pada tabel.
+Tabel 1
+PDRB Propinsi Jawa Timur dengan Propinsi Lainnya di Pulau Jawa (%) Tahun 2008-2012
+Propinsi
+2008
+2009
+2010
+2011
+2012
+DKI Jakarta
+15,93
+16,37
+16,28
+16,30
+16,40
+Jawa Timur
+14,62
+14,84
+14,71
+14,67
+14,88
+Jawa Barat
+14,90
+14,91
+14,58
+14,29
+14,07
+Jawa Tengah
+8,64
+8,60
+8,40
+8,28
+8,27
+Banten
+2,88
+2,87
+3,24
+3,19
+3,16
+DI Yogyakarta
+0,90
+0,89
+0,86
+0,86
+0,85
+Sumber : Badan Pusat Statistik, 2013
+Jawa Timur terletak di berdampingan dengan propinsi besar lainnya yang ada di pulau Jawa, yaitu Jawa Barat dan Jawa Tengah yang sebenarnya memiliki potensi sumber daya alam dan sumberdaya manusia yang relatif tidak jauh berbeda. Berdasarkan Tabel 1 dapat dilihat bahwa perbandingan PDRB Propinsi Jawa Timur dengan propinsi lainnya dari tahun ke tahun nilai PDRB cukup besar dan menempati posisi kedua setelah DKI Jakarta. Produk Domestik Regional Bruto (PDRB) pada tabel 2 yang terus meningkat. Selain itu, data dari tahun ke tahun terhitung dari tahun 2008 secara bekelanjutan sampai tahun 2012 terus mengalami peningkatan di lihat dari nilai pertumbuhan PDRB Jawa Timur tanpa adanya penurunan nilai PDRB tersebut. hal ini mengindikasikan bahwa di Propinsi Jawa Timur telah terjadi proses pembangunan di lihat dari tingkat pertumbuhan ekonomi Propinsi Jawa Timur.
+Tabel 2
+PDRB ADHK 2000 Propinsi Jawa Timur Tahun 2008-2012 (Juta Rupiah)
+2008
+2009
+2010
+2011
+2012
+305.538.686,62
+320.861.168,91
+342.280.764,89
+366.983.277,46
+393.666.437,37
+Sumber: badan pusat statistik (BPS) Propinsi Jawa Timur, 2013
+PDRB tidak serta merta mampu menggambarkan kesejahteraan yang nyata pada tiap penduduk di dalamnya. Maka untuk mengukurnya menggunakan PDRB per kapita daerah, karena alat ini merupakan salah satu alat untuk mengukur tingkat kesejahteraan penduduk di suatu daerah, dimana jika semakin besar PDRB perkapitanya maka bisa diartikan semakin baik tingkat kesejahteraan masyarakatnya. Begitu juga sebaliknya apabila PDRB semakin kecil maka bisa diartikan semakin buruk tingkat kesejahteraan masyarakatnya. PDRB per kapita di tiap Kabupaten/Kota di propinsi Jawa Timur dapat dilihat pada gambar dan tabel berikut.
+Tabel 3
+PDRB per Kapita Kabupaten/Kota di Propinsi Jawa Timur Tahun 2011
+No
+Kabupaten/Kota
+PDRB per Kapita
+No
+Kabupaten/Kota
+PDRB per Kapita
+1
+Kota Kediri
+82,472,949.53
+20
+Kab. Magetan
+5,272,047.99
+2
+Kota Surabaya
+31,921,694.82
+21
+Kab. Jombang
+5,261,945.41
+3
+Kota Malang
+17,240,130.65
+22
+Kab. Lamongan
+5,250,797.46
+4
+Kab. Gresik
+14,506,704.09
+23
+Kab. Nganjuk
+5,203,386.33
+5
+Kab. Sidoarjo
+13,437,569.05
+24
+Kab. Blitar
+5,122,514.98
+6
+Kota Madiun
+12,411,534.81
+25
+Kab. Kediri
+5,067,450.43
+7
+Kota Mojokerto
+10,303,742.24
+26
+Kab. Jember
+4,951,717.43
+8
+Kota Probolinggo
+9,567,104.81
+27
+Kab. Bojonegoro
+4,890,191.76
+9
+Kab. Tulungagung
+7,907,828.85
+28
+Kab. Sumenep
+4,679,021.25
+10
+Kab. Mojokerto
+7,701,061.88
+29
+Kab. Madiun
+4,638,535.48
+11
+Kota Batu
+7,558,000.48
+30
+Kab. Trenggalek
+4,546,189.19
+12
+Kota Blitar
+7,536,612.96
+31
+Kab. Pasuruan
+4,490,012.35
+13
+Kab. Banyuwangi
+7,078,694.00
+32
+Kab. Bondowoso
+4,271,334.96
+14
+Kab. Tuban
+6,919,310.77
+33
+Kab. Ponorogo
+3,894,626.44
+15
+Kab. Lumajang
+6,329,126.50
+34
+Kab. Bangkalan
+3,822,396.42
+16
+Kab. Probolinggo
+6,159,212.73
+35
+Kab. Ngawi
+3,817,722.70
+17
+Kota Pasuruan
+6,049,708.35
+36
+Kab. Sampang
+3,311,793.95
+18
+Kab. Malang
+5,958,585.87
+37
+Kab. Pacitan
+2,861,997.37
+19
+Kab. Situbondo
+5,438,382.75
+38
+Kab. Pamekasan
+2,728,924.34
+Rata-rata Propinsi Jawa Timur
+9,225,804.25
+Sumber: Badan Pusat Statistik, 2012
+Data menunjukkan bahwa tingkat kesejahteraan yang tertinggi di Propinsi Jawa Timur hanya ada pada dua kota yakni di kota Kediri dan kota Surabaya. Hal ini disebabkan karena dua daerah tersebut sangat maju perekonomiannya dan merupakan kota besar yang menjadi tempat untuk berkembangnya industri pengolahan, sektor jasa yang sangat berkembang dan juga tempat wisata. Padahal kalau dilihat dari letak geografisnya daerah-daerah tersebut yang memiliki tingkat PDRB per kapita yang tinggi dikelilingi oleh daerah-daerah yang memiliki PDRB perkapita yang rendah walaupun sumber daya alam di daerah-daerah tersebut tidak banyak berbeda. Seperti halnya kota Surabaya yang secara geografis dikelilingi oleh kabupaten Mojokerto, kabupaten Sidoarjo dan pulau Madura. Apalagi kota Kediri yang dikelilingi oleh Kabupaten Jombang, kabupaten Magetan, Kabupaten Blitar dan lain-lain. Tabel 3 menunjukkan pula bahwa masih ada jarak yang cukup jauh antara PDRB per kapita Kabupaten/Kota di Jawa Timur. Hal ini terlihat dari nilai PDRB per kapita tertinggi pada tahun 2011 diduduki oleh Kota Kediri dengan nilai sebesar 82,472 juta rupiah. Sedangkan PDRB per kapita Kab. Pamekasan merupakan yang terendah, hanya sebesar 2,728 juta rupiah. Perbedaan akan sumber daya dan juga infrastruktur memang sangat mempengaruhi daerah Jawa Timur tetapi dilihat dari ketimpangan PDRB per kapita dari yang tertinggi hingga terendah sangat jauh perbedaannya dan jauh dari rata-rata propinsi yang sebesar 9,225 juta rupiah. Hal ini menunjukkan masih belum meratanya distribusi pendapatan antar Kabupaten/Kota di Propinsi Jawa Timur.
+Tabel 4. Koefisien Gini menurut Status Wilayah di Jawa Timur
+Tahun 2009-2012
+Tahun
+Status Wilayah
+Gini Rasio Jawa Timur
+2009
+Kota
+0,34
+Desa
+0,26
+Kota + Desa
+0,33
+2010
+Kota
+0,36
+Desa
+0,26
+Kota + Desa
+0,34
+2011
+Kota
+0,38
+Desa
+0,30
+Kota + Desa
+0,37
+2012
+Kota
+0,37
+Desa
+0,30
+Kota + Desa
+0,36
+Sumber: Badan Pusat Statistik Jawa Timur, 2012
+Keterangan : G<0,3 = Ketimpangan Rendah
+0,3≤G≤0,5 = Ketimpangan Sedang
+G>0,5 = Ketimpangan Tinggi
+Ketimpangan di Jawa Timur juga bisa dilihat dari koefisien gini nya pada tahun 2012. Koefisien gini merupakan suatu ukuran kemerataan yang dihitung dengan membandingkan luas antara diagonal dan kurva lorenz dibagi dengan luas segitiga di bawah diagonal, yang angkanya berkisar antara nol hingga satu. Nol merupakan pemerataan sempurna sedangkan satu merupakan ketimpangan sempurna. Koefisien gini dapat dilihat dalam tabel. Bila mengacu pada nilai gini rasio pada Tabel 4, tingkat ketimpangan rata-rata konsumsi per kapita di Jawa Timur 2009-2012 masih masuk dalam kategori sedang (antara 0,3 – 0,5). Selama tahun 2009-2011 nilai gini rasio di Jawa Timur menunjukkan tren kearah peningkatan. Secara umum gini rasio daerah perkotaan mulai tahun 2009-2012 lebih tinggi dibandingkan daerah perdesaan. Sehingga masih menunjukkan ketimpangan pembangunan di Jawa Timur. Ketidakmerataan yang menyebabkan ketimpangan ini merupakan masalah yang harus dicarikan penyelesaiannya. Masalah yang timbul apabila ketimpangan semakin besar yaitu menimbulkan terjadinya konflik dan meningkatkan angka kriminalitas, sehingga apabila hal tersebut dibiarkan terus menerus bisa menyebabkan ketidakstabilan didalam suatu perekonomian.
+METODE
+Analisis Laju Pertumbuhan Ekonomi
+Formula yang digunakan untuk menentukan tingkat pertumbuhan ekonomi adalah
+r:...(1)
+Dimana : Gt : Tingkat pertumbuhan ekonomi dinyatakan persen
+Yrt : Pendapatan daerah tahun t
+Yr.t-1 : Pendapatan daerah t -1
+Analisis Location Quotient (LQ)
+Teknik analisa LQ merupakan salah satu cara permulaan untuk mengetahui kemampuan suatu daerah dalam sektor kegiatan tertentu. Rumusnya :
+r:...(2)
+Dimana: LQ : Besarnya Location Quotient
+Si : Nilai tambah sektor di tingkat Kota/Kabupaten i
+S : PDRB di Kota/Kabupaten i
+Ni : Nilai tambah sektor di tingkat Propinsi
+N : PDRB di tingkat Propinsi.
+Analisis Shift Share (SS)
+Tujuan analisis shift share adalah untuk menentukan kinerja atau produktivitas kerja perekonomian daerah dengan membandingkannya dengan daerah di tingkat atasnya (propinsi atau nasional), (Arsyad, 1999). Formulasi SS dapat dilihat sebagai berikut:
+Gj : Yjt – Yjo (3)
+: (Nj + Pj + Dj)
+Nj : Yjo (Yt / Yo) – Yjo (4)
+(P + D)j : Yjt - (Yt / Yo) Yjo (5)
+: (Gj - Nj)
+Pj : Σi [(Yit / Yio) - (Yt / Yo)] Yijo (6)
+Dj : Σt [Yijt - (Yit / Yio) Yijo] (7)
+: (P + D)j – Pj
+Keterangan:
+Gj : Pertumbuhan PDRB Total Wilayah Rendah
+Nj : Komponen Share di Wilayah Rendah
+(P + D)j : Komponen Net Shift di Wilayah Rendah
+Pj : Proportional Shift Wilayah Rendah
+Dj : Diferential Shift Wilayah Rendah
+Yj : PDRB total Kota Wilayah Rendah
+Y : PDRB Total Wilayah Tinggi
+o,t : Periode Awal dan Periode Akhir Perhitungan
+i : Subskripsi Sektor (subsektor) pada PDRB
+Tabel 5. Arti Tipologi Sektor Ekonomi
+Tipologi
+LQ Rata-rata
+Dj Rata-rata
+Pj Rata-rata
+Tingkat Kepotensialan
+I
+(LQ>1)
+(Dj>0)
+(Pj>0)
+Istimewa
+II
+(LQ>1)
+(Dj>0)
+(Pj<0)
+Baik sekali
+III
+(LQ>1)
+(Dj<0)
+(Pj>0)
+Baik
+IV
+(LQ>1)
+(Dj<0)
+(Pj<0)
+Lebih dari cukup
+V
+(LQ<1)
+(Dj>0)
+(Pj>0)
+Cukup
+VI
+(LQ<1)
+(Dj>0)
+(Pj<0)
+Hampir dari cukup
+VII
+(LQ<1)
+(Dj<0)
+(Pj>0)
+Kurang
+VIII
+(LQ<1)
+(Dj<0)
+(Pj<0)
+Kurang Sekali
+Sumber: Mujib Saerofi, 2005
+Tipologi Sektoral
+Analisis ini mengembangkan hasil perhitungan indeks Location Quotient (LQ>1), komponen differential shift (Dj>0), dan komponen proporsional shift (Pj >0) untuk ditentukan tipologi sektoral. Menggabungkan indeks LQ dengan komponen DJ dan Pj dalam analisis Shift Share maka akan diketahui tingkat kepotensialan ekonomi daerah yang bisa dikembangkan. Tipologi sektor beserta artinya tersebut dapat dilihat pada Tabel 5.
+Tipologi Klassen
+Melalui analisis ini diperoleh empat klasifikasi melalui pendekatan wilayah. Kabupaten/kota yang masing-masing mempunyai karakteristik pertumbuhan ekonomi dan pendapatan perkapita yang berbeda-beda diklasifikasikan dengan tipologi Klassen pendekatan wilayah (Syafrizal,1997). Melalui pendekatan sektoral, analisis Tipologi Klassen merupakan perpaduan antara alat analisis LQ dengan Model Rasio Pertumbuhan. Sektor ekonomi di tiap Kabupaten/Kota yang memiliki karakteristik pertumbuhan dan pangsa yang berbeda-beda dapat diklasifikasikan dengan tipologi Klassen pendekatan sektoral.
+Tabel 6
+Klasifikasi Tipologi Klassen Pendekatan Sektoral/Daerah
+Kuadran I
+Kuadran II
+Sektor/Daerah maju dan
+tumbuh dengan pesat
+gi>g, gki>gk
+Sektor/Daerah maju tapi
+tertekan
+gi<g, gki>gk
+Kuadran III
+Kuadran IV
+Sektor/Daerah yang masih
+dapat berkembang dengan
+pesat
+gi>g, gki<gk
+Sektor/Daerah relatif
+tertinggal
+gi<g, gki<gk
+Sumber: Syafrizal, 2008
+Dimana
+gi = laju pertumbuhan PDRB di propinsi i
+gki = Pendapatan perkapita propinsi i
+g = Laju pertumbuhan PDRB
+k = Pendapatan perkapita rata-rata
+Menurut Tipologi Daerah (Kuncoro 2004), daerah dibagi menjadi 4 klasifikasi :
+a. Daerah cepat maju dan cepat tumbuh adalah daerah yang memiliki laju pertumbuhan ekonomi dan pendapatan perkapita yang lebih tinggi dari rata-rata wilayah.
+b. Daerah maju tapi tertekan adalah daerah yang memiliki pendapatan perkapita yang lebih tinggi, tetapi tingkat pertumbuhan ekonominya lebih rendah dari rata-rata
+c. Daerah berkembang cepat adalah daerah yang memiliki tingkat pertumbuhan , tetapi tingkat perkapita lebih rendah dari rata-rata.
+d. Daerah Relatif tertinggal adalah daerah yang memiliki tingkat pertumbuhan ekonomi dan pendapatan perkapita yang rendah
+Analisis Tingkat Ketimpangan Antar Daerah
+Indeks Williamson dan Indeks Entropy Theil digunakan untuk melihat seberapa besar tingkat disparitas pendapatan antar wilayah Untuk mengukur ketimpangan pendapatan regional bruto propinsi. Indeks ketimpangan regional Theil tersebut dapat dibagi menjadi dua sub indikasi yaitu ketimpangan regional dalam wilayah dan ketimpangan regional antarwilayah atau regional (Kuncoro, 2004).
+Indeks Williamson :
+r:... (8)
+Dimana : IW : Indeks Williamson
+Yi : PDRB per kapita di kabupaten i.
+Y : PDRB per kapita Propinsi Jawa Timur
+f i : jumlah penduduk di kabupaten i
+n : jumlah penduduk propinsi
+Untuk mengukur ketimpangan Ekonomi (pendapatan) antar wilayah Indeks Williamson, IW berkisar antara 0 – 1
+a. Bila IW,< 0,3 artinya : ketimpangan ekonomi wilayah rendah
+b. Bila IW, 0,3 - 0,5 artinya ketimpangan ekonomi wilayah sedang
+c. Bila IW.> 0,5 artinya ketimpangan ekonomi wilayah tinggi
+Indeks Entropi Theil :
+r:...(9)
+Dimana : I : Indeks Entrophy Theil
+: PDRB per kapita kota/kabupaten j
+Y : PDRB per kapita propinsi
+: Jumlah Penduduk kota/kabupaten j
+X : Jumlah Penduduk propinsi
+Entropi Theil dalam wilayah :
+r:...(10)
+Dimana : I(y) : Indeks Entrophy Theil dalam Wilayah
+: PDRB per kapita propinsi i
+: Jumlah PDRB per kapita kota/kabupaten j
+: Jumlah penduduk propinsi i
+
+Jumlah penduduk kota/kabupaten j
+Entropi Theil antar wilayah :
+r:...(11)
+Dimana : I(w) : Indeks Entrophy Theil antar wilayah
+: Rata-rata PDRB per kapita kota/kabupaten j
+: Jumlah penduduk kota/kabupaten j
+Total Theil perkembangan wilayah di Jawa Timur adalah sebagai berikut :
+r:...(12)
+Korelasi Pearson dan Hipotesis Kuznets
+Korelasi diperlukan untuk mengetahui hubungan antara variabel pertumbuhan ekonomi dengan variabel ketimpangan pendapata. Pengukuran korelasi ini untuk menguji hipotesis Kuznets. Adapun rumus korelasi Pearson yang digunakan adalah sebagai berikut (Sugiono, 2007) :
+r:...(13)
+Dimana: r : nilai korelasi
+n : banyaknya sampel
+X : pertumbuhan ekonomi (variabel independen)
+Y : indeks willlamson/indeks entropi theil (variabel dependen)
+HASIL DAN PEMBAHASAN
+Analisis Pertumbuhan Ekonomi
+Bila dilihat dari Tabel 7 pertumbuhan ekonomi Jawa Timur mengalami peningkatan di tiap tahunnya, dari 5,01 persen pada tahun 2009 menjadi 7,27 persen pada tahun 2012. Dilihat dari sektor ekonominya, sektor Perdagangan, Hotel dan Restoran memiliki konstribusi yang sangat besar dalam pembentukan PDRB sebesar 30,40 persen dan merupakan laju pertumbuhan ekonomi tertinggi sebesar 10,06 persen. sektor Industri Pengolahan menjadi sektor yang memiliki kontribusi terbesar kedua terhadap pembentukan PDRB sebesar 27,11 persen tetapi laju pertumbuhan ekonominya hanya mencapai 6,34 persen. Laju pertumbuhan ekonomi yang paling lambat adalah sektor Pertambangan dan Penggalian sebesar 2,10 persen dengan kontribusi terhadap PDRB sebesar 2,08 persen. Sektor Pertanian memiliki laju pertumbuhan ekonomi yang lambat kedua di propinsi Jawa Timur sebesar 3,49 persen tetapi memiliki kontribusi terhadap PDRB yang cukup besar, nilai kontribusinya sebesar 15,42 persen.
+Tabel 7. Pertumbuhan Ekonomi Jawa Timur Tahun 2009 – 2012
+Keterangan
+2009
+2010
+2011
+2012
+PDRB ADHB (Miliar Rupiah)
+686.848
+778.566
+884.503
+1.001.721
+PDRB ADHK 2000 (Miliar Rupiah)
+320.861
+342.281
+366.984
+393.666
+Pertumbuhan Ekonomi (%)
+5,01
+6,68
+7,22
+7,27
+Pertumbuhan Ekonomi Nasional (%)
+4,55
+6,10
+6,50
+6,23
+Sumber : Badan Pusat Statistik Propinsi Jawa Timur
+Struktur perekonomian di Jawa Timur dapat dilihat dari besarnya kontribusi tiap sektor ekonominya. Sektor yang memberikan sumbangan tertinggi terhadap PDRB Propinsi Jawa Timur adalah sektor Perdagangan, Hotel dan Restoran serta sektor Industri Pengolahan. Kabupaten/kota yang memberikan kontribusi terbesar bagi pembentukan PDRB Propinsi Jawa Timur selama periode pengamatan adalah Kota Surabaya, dikarenakan Kota Surabaya adalah sebagai pusat perekonomian sebagai ibu kota Propinsi Jawa Timur. Kota ini berperan sebagai pusat perdagangan. Kota/Kabupaten lainnya yang memberikan kontribusi yang cukup besar pada pembentukan PDRB propinsi Jawa Timur adalah Kota Kediri. Kota ini memiliki industri pengolahan yang sangat besar dengan adanya PT Gudang Garam di dalam kota tersebut. Sektor yang memberikan kontribusi yang besar adalah sektor Pertanian, dikarenakan sebagian besar Kota/Kabupaten di Propinsi Jawa Timur fokus perekonomiannya pada pertanian. Hal ini dapat dilihat juga dari tingkat angkatan kerja yang terserap di Propinsi Jawa Timur adalah sebagian besar ke sektor pertanian.
+Berdasarkan Tabel 7 dapat dilihat dari tingkat PDRB perkapita berdasarkan harga konstan tahun 2000 tiap Kabupaten/Kota di Propinsi Jawa Timur, pada tahun 2008-2012 yang memiliki PDRB per kapita tertinggi adalah Kota Kediri dan Kota Surabaya. Hal ini sejalan dengan laju pertumbuhan ekonomi Propinsi Jawa Timur yang terpusat di 2 kota tersebut sebagai Kota yang memiliki sektor yang paling besar memberikan konstribusi terhadap PDRB Jawa Timur. Bila dibandingkan dengan rata-rata PDRB per kapita Jawa Timur maka ada 30 Kota/Kabupaten di Jawa Timur yang masih di bawah rata-rata PDRB propinsi. PDRB per kapita terendah adalah Kabupaten Pacitan dan Kabupaten Pamekasan. Perbedaan ini terjadi karena kedua kabupaten ini tidak memiliki potensi alam yang bisa dikembangkan untuk pertanian ataupun untuk pengembangan industri pengolahan serta perdagangan. Kabupaten Pamekasan merupakan daerah yang memiliki struktur geografis yang kurang menguntungkan karena merupakan daerah yang tandus untuk pertanian dan tidak memiliki sumber daya alam. Kabupaten ini juga kurang berkembang untuk menjadi pusat perdagangan dan juga pengembangan pariwasata.
+Analisis Hasil Location Quotient (LQ)
+Sektor ekonomi yang memiliki nilai LQ > 1 merupakan standar normatif untuk ditetapkan sebagai sektor unggulan/sektor basis. Sektor-sektor tersebut mempunyai potensi untuk dikembangkan untuk meningkatkan laju pertumbuhan dan pembangunan ekonomi Kabupaten/Kota di Propinsi Jawa Timur. Namun ketika banyak sektor di suatu wilayah yang menghasilkan LQ > 1, sementara yang dijadikan fokus hanya satu, maka yang harus dipilih adalah sektor yang nilai LQ paling tinggi. Karena semakin tinggi nilai LQ menunjukkan semakin tinggi pula potensi keunggulan sektor tersebut.
+Berdasarkan hasil dari analisis LQ pada tahun 2008-2012 terdapat kurang lebih 20 kabupaten di Propinsi Jawa Timur yang menjadikan sektor pertaniannya sebagai sektor basis. Kabupaten yang memiliki basis di sektor pertanian adalah Kab. Ponorogo, Kab. Trenggalek, Kab. Blitar, Kab. Kediri, Kab. Malang, Kab. Lumajang, Kab. Jember, Kab. Banyuwangi, Kab. Bondowoso, Kab. Situbondo, Kab. Probolinggo, Kab. Mojokerto, Kab. Jombang, Kab. Nganjuk, Kab. Madiun, Kab. Magetan, Kab. Ngawi, Kab. Lamongan, Kab. Bangkalan, dan Kab. Pamekasan. Selama tahun 2008 sampai dengan 2012 kabupaten dengan nilai LQ tertinggi dibandingkan Kabupaten/Kota lainnya untuk sektor pertaniannya adalah Kabupaten Lamongan, dikarenakan mempunyai potensi iklim dan geografis yang mendukung. Sedangkan yang mempunyai nilai LQ terendah dibandingkan Kabupaten/Kota lain adalah Kabupaten Mojokerto. Berdasarkan hasil dari analisis LQ pada tahun 2008-2012 terdapat 4 kabupaten di Propinsi Jawa Timur yang menjadikan sektor pertambangan sebagai sektor basis. Kabupaten yang memiliki basis di sektor pertambangan adalah Kab. Bojonegoro, Kab. Tuban, Kab. Sampang dan Kab. Sumenep. Selama tahun 2008 sampai dengan 2012 kabupaten dengan nilai LQ tertinggi dibandingkan Kabupaten/Kota lainnya untuk sektor pertambangannya adalah Kabupaten Bojonegoro, hal ini dikarenakan kabupaten ini memiliki potensi pertambangan yang cukup besar yakni tambang minyak bumi dan gas alam.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tabel 8. Hasil Analisis LQ Propinsi Jawa Timur Tahun 2008-2012
+No
+Kota/Kabupaten
+S1
+S2
+S3
+S4
+S5
+S6
+S7
+S8
+S9
+1
+Kab. Pacitan
+2.65
+1.91
+0.14
+0.71
+2.66
+0.39
+0.71
+1.68
+1.90
+2
+Kab. Ponorogo
+2.33
+1.00
+0.18
+1.24
+0.67
+0.90
+0.73
+1.32
+1.57
+3
+Kab. Trenggalek
+2.56
+0.76
+0.21
+0.41
+0.70
+0.92
+0.43
+0.72
+1.81
+4
+Kab. Tulungagung
+1.26
+0.84
+0.69
+0.97
+0.53
+1.03
+0.70
+1.97
+1.23
+5
+Kab. Blitar
+3.19
+1.14
+0.13
+0.28
+0.61
+0.84
+0.32
+1.03
+1.16
+6
+Kab. Kediri
+2.00
+1.08
+0.84
+0.42
+0.28
+0.88
+0.34
+0.41
+1.44
+7
+Kab. Malang
+2.01
+1.22
+0.71
+0.53
+0.56
+0.84
+0.44
+0.77
+1.46
+8
+Kab. Lumajang
+2.37
+0.84
+0.53
+0.43
+0.90
+0.79
+0.61
+0.79
+1.42
+9
+Kab. Jember
+2.66
+1.53
+0.41
+0.62
+0.66
+0.77
+0.61
+0.98
+1.13
+10
+Kab. Banyuwangi
+3.18
+1.94
+0.24
+0.38
+0.20
+0.81
+0.60
+1.12
+0.60
+11
+Kab. Bondowoso
+3.07
+0.34
+0.64
+0.50
+0.37
+0.75
+0.21
+0.45
+0.90
+12
+Kab. Situbondo
+2.15
+0.92
+0.40
+0.66
+0.90
+1.12
+0.71
+0.65
+0.97
+13
+Kab. Probolinggo
+2.33
+0.56
+0.71
+0.56
+0.51
+0.77
+0.93
+0.88
+0.90
+14
+Kab. Pasuruan
+1.57
+0.47
+1.26
+1.59
+0.86
+0.71
+0.41
+0.73
+1.06
+15
+Kab. Sidoarjo
+0.23
+0.16
+1.80
+0.99
+0.31
+0.94
+1.67
+0.27
+0.56
+16
+Kab. Mojokerto
+1.49
+0.64
+1.43
+0.68
+0.43
+0.81
+0.46
+0.29
+0.82
+17
+Kab. Jombang
+1.96
+0.71
+0.43
+0.78
+0.59
+1.12
+0.61
+0.76
+1.34
+18
+Kab. Nganjuk
+2.28
+0.60
+0.32
+0.38
+0.29
+1.07
+0.29
+0.70
+1.77
+19
+Kab. Madiun
+2.40
+0.37
+0.13
+0.69
+1.30
+1.01
+0.45
+0.64
+1.87
+20
+Kab. Magetan
+2.25
+0.24
+0.34
+0.66
+1.79
+0.86
+0.29
+0.83
+1.94
+21
+Kab. Ngawi
+2.44
+0.25
+0.25
+0.45
+1.35
+0.96
+0.36
+1.12
+1.49
+22
+Kab. Bojonegoro
+1.78
+12.20
+0.29
+0.50
+1.05
+0.54
+0.53
+0.90
+1.07
+23
+Kab. Tuban
+1.90
+8.20
+0.90
+2.18
+0.15
+0.50
+0.27
+0.91
+0.53
+24
+Kab. Lamongan
+3.36
+0.07
+0.21
+0.83
+0.82
+0.85
+0.24
+0.68
+0.97
+25
+Kab. Gresik
+0.57
+1.75
+1.99
+1.47
+0.39
+0.69
+0.46
+0.67
+0.55
+26
+Kab. Bangkalan
+2.30
+0.71
+0.15
+0.57
+2.07
+0.86
+1.01
+0.85
+1.58
+27
+Kab. Sampang
+2.94
+4.11
+0.04
+0.29
+0.66
+0.83
+0.35
+0.67
+1.32
+28
+Kab. Pamekasan
+3.18
+0.55
+0.11
+0.73
+1.42
+0.49
+0.63
+1.27
+1.81
+29
+Kab. Sumenep
+3.26
+4.44
+0.09
+0.08
+0.52
+0.69
+0.35
+0.86
+1.00
+30
+Kota Kediri
+0.01
+0.00
+2.85
+0.19
+0.06
+0.63
+0.14
+0.83
+0.16
+31
+Kota Blitar
+0.46
+0.01
+0.44
+1.16
+1.36
+0.99
+1.84
+2.03
+2.32
+32
+Kota Malang
+0.03
+0.02
+1.21
+0.87
+0.82
+1.29
+0.54
+1.48
+1.44
+33
+Kota Probolinggo
+0.54
+0.00
+0.54
+0.98
+0.28
+1.43
+1.87
+1.34
+1.17
+34
+Kota Pasuruan
+0.27
+0.06
+0.65
+1.90
+2.26
+1.15
+1.85
+1.54
+1.32
+35
+Kota Mojokerto
+0.08
+0.00
+0.61
+2.56
+0.27
+1.17
+2.14
+1.44
+2.14
+36
+Kota Madiun
+0.13
+0.01
+0.67
+0.80
+1.29
+1.42
+1.18
+1.45
+1.71
+37
+Kota Surabaya
+0.01
+0.00
+0.86
+1.75
+2.08
+1.36
+1.57
+1.19
+0.97
+38
+Kota Batu
+1.35
+0.10
+0.28
+1.14
+0.50
+1.51
+0.50
+0.83
+1.59
+Sumber : PDRB Propinsi Jawa Timur 2008-2012, data diolah
+Keterangan :S1 = Sektor Pertanian; S2 = Sektor Pertambangan; S3 = Sektor Industri Pengolahan Perusahaan; S4 = Sektor Listrik, Gas dan Air; S5 = Sektor Bangunan/Konstruksi; S6 = Sektor Perdagangan/Hotel/Restoran; S7 = Sektor Transportasi/Komunikasi dan Penggalian; S8 = Sektor Keuangan/Persewaan & Jasa; S9 = Sektor Jasa-jasa
+Sektor industri pengolahan merupakan sektor yang memiliki kontribusi terbesar kedua dalam perekonomian di Propinsi Jawa Timur. Berdasarkan hasil dari analisis LQ pada tahun 2008-2012 terdapat 3 Kabupaten/Kota di Propinsi Jawa Timur yang menjadikan sektor industri pengolahan sebagai sektor basis. Kabupaten/Kota yang memiliki basis di sektor industri pengolahan adalah Kab. Sidoarjo, Kab. Gresik, dan Kota Kediri. Wilayah yang memiliki nilai LQ tertinggi adalah Kota Kediri, hal ini dikarenakan ada industri pengolahan yang cukup besar yakni PT Gudang Garam. Industri pengolahan ini memberikan konstribusi PDRB yang sangat besar pada kota tersebut dan juga pada Propinsi Jawa Timur
+Berdasarkan hasil dari analisis LQ pada tahun 2008-2012 hanya Kabupaten Pasuruan dan Kota Mojokerto yang menjadikan sektor Listrik, Gas dan Air bersih sebagai sektor basis. Hal ini disebabkan karena wilayah tersebut dalam masa perkembangan. Kota Mojokerto merupakan kota yang memiliki nilai LQ yang tinggi pada sektor ini.
+Berdasarkan hasil dari analisis LQ pada tahun 2008-2012 terdapat Kabupaten Pacitan, Kota Pasuruan dan Kota Surabaya yang menjadikan sektor Bangunan/Konstruksi sebagai sektor basis. Hal ini dikarenakan kabupaten dan kota tersebut sedang dalam masa pembangunan infrastruktur yang tinggi sehingga banyak perekonomian yang terpusat di sektor ini. hal ini sejalan dengan kondisi Kota Surabaya yang sangat berkembang sebagai pusat perekonomian di Jawa Timur, selain sebagai ibu kota propinsi juga sebagai pusat perdagangan.
+Berdasarkan hasil dari analisis LQ pada tahun 2008-2012 tidak terdapat Kabupaten/Kota yang menjadikan sektor perdagangan, hotel, dan restoran menjadi basis ekonominya. Hanya ada 12 Kabupaten/Kota yang memiliki nilai LQ > 1 tetapi bukan sebagai basis perekonomian yang utama. Hal ini dikarenakan sebagian Kabupaten/Kota di Jawa Timur lebih memfokuskan pada sektor pertanian. Berdasarkan hasil dari analisis LQ pada tahun 2008-2012 hanya Kota Probolinggo yang menjadikan sektor pengangkutan dan komunikasi menjadi basis ekonominya. Nilai LQ untuk sektor ini sebesar 1,87. Kota ini sangat berkembang dalam bidang pengangkutan transportasi karena letaknya yang sangat strategis. Probolinggo dikenal sebagai kota singgah dalam perjalanan pariwisata menuju Gunung Bromo. Secara umum Probolinggo dijangkau oleh para wisatawan lokal maupun mancanegara melalui Surabaya dengan menggunakan kendaraan umum seperti bus maupun kereta api. Berdasarkan hasil dari analisis LQ pada tahun 2008-2012 Kabupaten Tulungagung dan Kota Malang yang menjadikan sektor keuangan, persewaan, dan jasa perusahaan menjadi basis ekonominya. Nilai LQ masing-masing wilayah tersebut adalah 1,97 dan 1,48. Sektor ini sangat berkembang karena kedua wilayah tersebut merupakan wilayah pariwisata yang banyak sekali terdapat persewaan seperti vila, taman bermain dan sebagainya. Berdasarkan hasil dari analisis LQ pada tahun 2008-2012 Kota Blitar, Kota Madiun dan Kota Batu yang menjadikan sektor jasa-jasa menjadi basis ekonominya. Nilai LQ yang tertinggi diantara ketiga kota ini adalah Kota Blitar dengan nilai 2,32. Kota Blitar berkembang dengan ekonomi kreatifnya sehingga sektor ini berkembang pesat.
+Analisis Shift-Share
+Pada analisis Shift-Share Komponen national share (Nj) adalah banyaknya pertambahan PDRB seandainya pertumbuhannya sama dengan laju pertumbuhan PDRB Propinsi selama periode yang tercakup dalam studi. Komponen proportional shift (Pj), mangukur besarnya net shift wilayah rendah yang diakibatkan oleh komposisi sektor-sektor PDRB pada wilayah rendah yang bersangkutan berubah. Apabila Pj > 0 artinya wilayah rendah yang bersangkutan berspesialisasi pada sektor-sektor yang pada tingkat wilayah tinggi tumbuh relatif cepat dan apabila Pj < 0 berarti wilayah rendah yang berspesialisasi pada sektor sektor yang di tingkat wilayah tinggi pertumbuhannya dengan lambat atau bahkan sedang merosot. Komponen differential shift (Dj), mengukur besarnya net shift yang diakibatkan oleh sektor-sektor tertentu yang tumbuh lebih cepat atau lebih lambat di wilayah rendah dibandingkan dengan tingkat wilayah tinggi yang disebabkan oleh faktor-faktor lokasional intern.
+Sektor pertanian di tiap Kabupaten/Kota di Propinsi Jawa Timur berdasarkan hasil analisis shift share tahun 2008-2012 dipengaruhi oleh beberapa komponen. Komponen national share (Nj) menunjukkan pertambahan PDRB yang tertinggi adalah di Kabupaten Banyuwangi sebesar 271.386,99 dan penambahan PDRB terendah adalah pada Kota Mojokerto sebesar 798,67. Komponen proportional shift (Pj) Kabupaten/Kota di Jawa Timur semua bernilai negatif. Hal ini menunjukkan seluruh Kabupaten/Kota berspesialisasi pada sektor Pertanian yang di tingkat Propinsi Jawa Timur tumbuh dengan lambat. Komponen differential shift (Dj), menunjukkan ada 13 Kabupaten/Kota yang bernilai negatif yang menandakan tingkat laju pertumbuhan ekonominya sangat lambat daripada laju pertumbuhan ekonomi Propinsi Jawa Timur. Dan 25 Kabupaten/Kota yang lain bernilai positif yang menandakan laju pertumbuhan ekonominya pada sektor pertanian ini lebih cepat dari laju pertumbuhan ekonomi Propinsi Jawa Timur.
+Sektor pertambangan di tiap Kabupaten/Kota di Propinsi Jawa Timur berdasarkan hasil analisis shift share tahun 2008-2012 dipengaruhi oleh beberapa komponen. Komponen national share (Nj) menunjukkan pertambahan PDRB yang tertinggi adalah di Kabupaten Bojonegoro sebesar 111.239,46 dan penambahan PDRB terendah adalah pada Kota Mojokerto. Komponen proportional shift (Pj) Kabupaten/Kota di Jawa Timur semua bernilai negatif kecuali 3 Kabupaten/Kota yakni Kab. Sidoarjo, Kab. Madiun, dan Kota Kediri. Hal ini menunjukkan seluruh Kabupaten/Kota berspesialisasi pada sektor pertambangan yang di tingkat Propinsi Jawa Timur tumbuh dengan lambat sedangkan 3 Kabupaten/Kota yang bernilai positif. Komponen differential shift (Dj), menunjukkan ada 29 Kabupaten/Kota yang bernilai negatif yang menandakan tingkat laju pertumbuhan ekonominya sangat lambat daripada laju pertumbuhan ekonomi Propinsi Jawa Timur. Dan 9 Kabupaten/Kota yang lain bernilai positif yang menandakan laju pertumbuhan ekonominya pada sektor Pertambangan ini lebih cepat dari laju pertumbuhan ekonomi Jawa Timur.
+Sektor Industri Pengolahan di tiap Kabupaten/Kota di Propinsi Jawa Timur berdasarkan hasil analisis shift share tahun 2008-2012 dipengaruhi oleh beberapa komponen. Komponen national share (Nj) menunjukkan pertambahan PDRB yang tertinggi adalah di Kota Surabaya sebesar 999.083,51 dan penambahan PDRB terendah adalah pada Kabupaten Sampang sebesar 1568,01. Komponen proportional shift (Pj) Kabupaten/Kota di Jawa Timur semua bernilai negatif. Hal ini menunjukkan seluruh Kabupaten/Kota berspesialisasi pada sektor Industri Pengolahan yang di tingkat Propinsi Jawa Timur tumbuh dengan lambat. Komponen differential shift (Dj), menunjukkan ada 10 Kabupaten/Kota yang bernilai negatif yang menandakan tingkat laju pertumbuhan ekonominya sangat lambat daripada laju pertumbuhan ekonomi Propinsi Jawa Timur. Kemudian 28 Kabupaten/Kota yang lain bernilai positif yang menandakan laju pertumbuhan ekonominya pada sektor Industri Pengolahan ini lebih cepat dari laju pertumbuhan ekonomi Jawa Timur.
+Sektor Listrik, Gas dan Air bersih di tiap kabupaten/kota di Propinsi Jawa Timur berdasarkan hasil analisis shift share tahun 2008-2012 dipengaruhi oleh beberapa komponen. Komponen national share (Nj) menunjukkan pertambahan PDRB yang tertinggi adalah di Kota Surabaya sebesar 107.094,61 dan penambahan PDRB terendah adalah pada Kabupaten Sumenep sebesar 304,26. Komponen proportional shift (Pj) Kabupaten/Kota di Jawa Timur semua bernilai negatif. Hal ini menunjukkan seluruh Kabupaten/Kota berspesialisasi pada sektor Listrik, Gas dan Air bersih yang di tingkat Propinsi Jawa Timur tumbuh dengan lambat. Komponen differentialshift (Dj), menunjukkan ada 10 Kabupaten/Kota yang bernilai negatif yang menandakan tingkat laju pertumbuhan ekonominya sangat lambat daripada laju pertumbuhan ekonomi Propinsi Jawa Timur. Dan 28 Kabupaten/Kota yang lain bernilai positif yang menandakan laju pertumbuhan ekonominya pada sektor Listrik, Gas dan Air bersih ini lebih cepat dari laju pertumbuhan ekonomi Jawa Timur.
+Sektor Bangunan di tiap Kabupaten/Kota di Propinsi Jawa Timur berdasarkan hasil analisis shift share tahun 2008-2012 dipengaruhi oleh beberapa komponen. Komponen nationalshare (Nj) menunjukkan pertambahan PDRB yang tertinggi adalah di Kota Surabaya sebesar 304.311,44 dan penambahan PDRB terendah adalah pada Kota Mojokerto sebesar 559,19. Komponen proportional shift (Pj) Kabupaten/Kota di Jawa Timur semua bernilai positif kecuali Kabupaten Nganjuk yang bernilai negatif. Hal ini menunjukkan seluruh Kabupaten/Kota berspesialisasi pada sektor Bangunanyang di tingkat Propinsi Jawa Timurtumbuh dengan cepat. Komponen differentialshift (Dj), menunjukkan ada 14 Kabupaten/Kota yang bernilai negatif yang menandakan tingkat laju pertumbuhan ekonominya sangat lambat daripada laju pertumbuhan ekonomi Propinsi Jawa Timur. Terdapat 24 Kabupaten/Kota yang lain bernilai positif yang menandakan laju pertumbuhan ekonominya pada sektor Bangunan ini lebih cepat dari laju pertumbuhan ekonomi Jawa Timur.
+Sektor Perdagangan, Hotel dan Restoran di tiap Kabupaten/Kota di Propinsi Jawa Timur berdasarkan hasil analisis shift share tahun 2008-2012 dipengaruhi oleh beberapa komponen. Komponen national share (Nj) menunjukkan pertambahan PDRB yang tertinggi adalah di Kota Surabaya sebesar 1.899.605,14 dan penambahan PDRB terendah adalah pada Kabupaten Pacitan sebesar 9373,22. Hal ini menunjukkan seluruh Kabupaten/Kota berspesialisasi pada sektor Perdagangan, Hotel dan Restoranyang di tingkat Propinsi Jawa Timurtumbuh dengan cepat. Komponen differential shift (Dj), menunjukkan ada 22 Kabupaten/Kota yang bernilai negatif yang menandakan tingkat laju pertumbuhan ekonominya sangat lambat daripada laju pertumbuhan ekonomi Propinsi Jawa Timur. Terdapat 16 Kabupaten/Kota yang lain bernilai positif yang menandakan laju pertumbuhan ekonominya pada sektor Perdagangan, Hotel dan Restoran ini lebih cepat dari laju pertumbuhan ekonomi Jawa Timur.
+
+Sektor Pengangkutan dan Komunikasi di tiap Kabupaten/Kota di Propinsi Jawa Timur berdasarkan hasil analisis shift share tahun 2008-2012 dipengaruhi oleh beberapa komponen. Komponen nationalshare (Nj) menunjukkan pertambahan PDRB yang tertinggi adalah di Kota Surabaya sebesar 513.579,01 dan penambahan PDRB terendah adalah pada Kabupaten Bondowoso sebesar 2419,88. Hal ini menunjukkan seluruh Kabupaten/Kota berspesialisasi pada sektor Pengangkutan dan Komunikasi yang di tingkat Propinsi Jawa Timurtumbuh dengan cepat. Komponen differential shift (Dj), menunjukkan ada 36 Kabupaten/Kota yang bernilai negatif yang menandakan tingkat laju pertumbuhan ekonominya sangat lambat daripada laju pertumbuhan ekonomi Propinsi Jawa Timur. Terdapat 2 Kabupaten/Kota yang lain bernilai positif yang menandakan laju pertumbuhan ekonominya pada sektor Pengangkutan dan Komunikasi ini lebih cepat dari laju pertumbuhan ekonomi Jawa Timur.
+Sektor Keuangan, Persewaan dan Jasa Perusahaan di tiap Kabupaten/Kota di Propinsi Jawa Timur berdasarkan hasil analisis shift share tahun 2008-2012 dipengaruhi oleh beberapa komponen. Komponen national share (Nj) menunjukkan pertambahan PDRB yang tertinggi adalah di Kota Surabaya sebesar 294.832,95 dan penambahan PDRB terendah adalah pada Kota Batu sebesar 3344,09. Komponen proportional shift (Pj) Kabupaten/Kota di Jawa Timur semua bernilai positif. Hal ini menunjukkan seluruh Kabupaten/Kota berspesialisasi pada sektor Keuangan, Persewaan dan Jasa Perusahaan yang di tingkat Propinsi Jawa Timur tumbuh dengan cepat. Komponen differential shift (Dj), menunjukkan ada 21 Kabupaten/Kota yang bernilai negatif yang menandakan tingkat laju pertumbuhan ekonominya sangat lambat daripada laju pertumbuhan ekonomi Propinsi Jawa Timur. 17 Kabupaten/Kota yang lain bernilai positif yang menandakan laju pertumbuhan ekonominya pada sektor Keuangan, Persewaan dan Jasa Perusahaan ini lebih cepat dari laju pertumbuhan ekonomi Jawa Timur. Sektor Jasa-Jasa di tiap Kabupaten/Kota di Propinsi Jawa Timur berdasarkan hasil analisis shift share tahun 2008-2012 dipengaruhi oleh beberapa komponen. Komponen national share (Nj) menunjukkan pertambahan PDRB yang tertinggi adalah di Kota Surabaya sebesar 392.627,13 dan penambahan PDRB terendah adalah pada Kota Pasuruan sebesar 6785,24. Komponen proportional shift (Pj) Kabupaten/Kota di Jawa Timur semua bernilai negatif. Hal ini menunjukkan seluruh Kabupaten/Kota berspesialisasi pada sektor Jasa-Jasa yang di tingkat Propinsi Jawa Timur tumbuh dengan lambat. Komponen differential shift (Dj), menunjukkan ada 5 Kabupaten/Kota yang bernilai negatif yang menandakan tingkat laju pertumbuhan ekonominya sangat lambat daripada laju pertumbuhan ekonomi Propinsi Jawa Timur. Terdapat 33 Kabupaten/Kota yang lain bernilai positif yang menandakan laju pertumbuhan ekonominya pada sektor Jasa-Jasa ini lebih cepat dari laju pertumbuhan ekonomi Jawa Timur.
+Dari hasil analisis Tipologi sektoral hanya beberapa Kabupaten/Kota memiliki sektor yang dapat dikategorikan sebagai sektor yang istimewa (tipe I) dan lebih banyak memiliki sektor yang dikategorikan sebagai sektor yang baik sekali (tipe II). Dari Sembilan sektor ekonomi menurut lapangan usaha di 38 Kabupaten/Kota di Propinsi Jawa Timur pada umumnya memiliki sektor ekonomi yang masih dapat berkembang dan tidak sedikit pula sektor ekonomi yang tergolong dalam sektor yang kurang sekali.
+Tabel 9. Banyaknya Kabupaten/Kota Dengan Tipologi Sektoral
+No
+Sektor
+Banyaknya Kabupaten/Kota di tiap tipologi sektoral
+I
+II
+III
+IV
+V
+VI
+VII
+VIII
+1
+Pertanian
+0
+24
+0
+4
+0
+0
+1
+9
+2
+Pertambangan dan Penggalian
+0
+8
+0
+4
+0
+1
+3
+22
+3
+Industri Pengolahan
+0
+4
+0
+2
+0
+24
+0
+8
+4
+Listrik, Gas dan Air Bersih
+0
+6
+0
+3
+0
+22
+0
+7
+5
+Bangunan/Konstruksi
+7
+0
+4
+0
+17
+0
+9
+1
+6
+Perdagangan, Hotel dan Restoran
+4
+0
+8
+0
+12
+0
+14
+0
+7
+Angkutan dan Komunikasi
+1
+0
+7
+0
+1
+0
+29
+0
+8
+Keuangan, Persewaaan dan Jasa Perusahaan
+4
+0
+10
+0
+13
+0
+11
+0
+9
+Jasa-Jasa
+0
+22
+0
+5
+0
+11
+0
+0
+Sumber : Data BPS Jawa Timur, Diolah
+Dari Tabel 9 dilihat bahwa sektor yang memiliki potensi yang baik sekali untuk dikembangkan adalah sektor Pertanian karena ada 24 Kabupaten/Kota yang potensial dan sektor Jasa-Jasa terdapat 22 Kabupaten/Kota. Sektor Perdagangan, Hotel dan Restoran juga merupakan sektor yang istimewa untuk dikembangkan. Dan sektor yang paling kurang sekali untuk dikembangkan adalah sektor Pertambangan dan Penggalian karena ada 22 Kabupaten/Kota. Secara umum sektor yang potensial untuk dikembangkan adalah yang memiliki tipe II dan tipe III. Tetapi Propinsi Jawa Timur memiliki beberapa sektor yang berada pada tipe VI-VIII yang tidak potensial untuk dikembangkan.
+Analisis Tipologi Klassen
+Pengklasifikasian Kabupaten/Kota di Propinsi Jawa Timur berdasarkan tipologi Klassen dengan pendekatan wilayah di dapatkan hasil. Kabupaten/kota yang termasuk dalam klasifikasi kuadran I terdapat 1 Kabupaten dan 4 Kota, yakni Kab.Gresik; Kota Malang; Kota Madiun; Kota Surabaya. Kabupaten/kota yang masuk dalam kategori kuadran I ini pada umumnya daerah yang sudah maju baik dari segi pembangunan dan kecepatan pertumbuhan.
+Tabel 10.
+Tipology Klassen Menurut Wilayah Propinsi Jawa Timur Tahun 2008-2012
+Kuadran 1
+Kuadran 2
+Kab.Gresik; Kota Malang; Kota Madiun; Kota Surabaya
+Kab.Banyuwangi; Kab.Madiun; Kab.Bojonegoro; Kab.Tuban; Kab.Lamongan; Kota Blitar; Kota Batu
+Kuadran 3
+Kuadran 4
+Kab.Sidoarjo; Kota Kediri; Kota Probolinggo; Kota Mojokerto
+Kab.Pacitan; Kab.Ponorogo; Kab.Trenggalek; Kab.Tulungagung; Kab.Blitar; Kab.Kediri; Kab.Malang; Kab. Lumajang; Kab. Jember; Kab. Bondowoso; Kab. Situbondo; Kab. Probolinggo; Kab. Pasuruan; Kab. Mojokerto; Kab. Jombang; Kab. Nganjuk; Kab. Magetan; Kab. Ngawi; Kab. Bangkalan; Kab. Sampang; Kab. Pamekasan; Kab. Sumenep; Kota Pasuruan
+Sumber : Jawa Timur dalam Angka 2008-2012, data diolah
+Keterangan:
+1 = Daerah Maju dan tumbuh cepat 3 = Daerah yang berkembang
+2 = Daerah Maju tapi Tertekan 4 = Daerah Relatif Tertinggal
+Kabupaten/kota yang termasuk dalam klasifikasi kuadran II terdapat 5 Kabupaten dan 2 Kota, yakni Kab.Banyuwangi; Kab.Madiun; Kab.Bojonegoro; Kab.Tuban; Kab.Lamongan; Kota Blitar; Kota Batu. Kabupaten/kota ini adalah Kabupaten/Kota yang maju tetapi dalam beberapa tahun terakhir mengalami pertumbuhan yang relatif kecil, akibat tertekannya kegiatan utama Kabupaten/Kota yang bersangkutan. Kabupaten/kota yang termasuk dalam klasifikasi kuadran III terdapat 1 Kabupaten dan 3 Kota, yakni Kab.Sidoarjo; Kota Kediri; Kota Probolinggo; Kota Mojokerto. Kabupaten/Kota ini mempunyai potensi pertumbuhan yang cepat tetapi pendapatannya masih di bawah pendapatan rata-rata Propinsi. Hal ini mengindikasikan bahwa pendapatan Kabupaten tersebut masih relatif rendah dibandingkan dengan Kabupaten/Kota yang lainnya, sehingga di masa yang akan datang harus terus dikembangkan agar diperoleh pendapatan perkapita yang tidak relatif rendah.
+Kabupaten/Kota yang termasuk dalam klasifikasi IV terdapat 22 Kabupaten dan 1 Kota, yakni Kab.Pacitan; Kab.Ponorogo; Kab.Trenggalek; Kab.Tulungagung; Kab.Blitar; Kab.Kediri; Kab.Malang; Kab. Lumajang; Kab. Jember; Kab. Bondowoso; Kab. Situbondo; Kab. Probolinggo; Kab. Pasuruan; Kab. Mojokerto; Kab. Jombang; Kab. Nganjuk; Kab. Magetan; Kab. Ngawi; Kab. Bangkalan; Kab. Sampang; Kab. Pamekasan; Kab. Sumenep; Kota Pasuruan. Masih rendahnya pertumbuhan ekonomi serta tingginya ketimpangan pembangunan antar Kabupaten/Kota membuat kondisi perekonomian relatif tertinggal.
+Analisis Ketimpangan
+Tingkat ketimpangan PDRB perkapita antar Kabupaten/Kota memberikan gambaran tentang perkembangan pembangunan di Kabupaten/Kota di Propinsi Jawa Timur. Untuk memberikan gambaran tentang kondisi, perkembangan pembangunan daerah di wilayah Propinsi Jawa Timur dan disparitas pendapatan yang dilihat dari PDRB per kapita antar Kabupaten/Kota, kemudian dianalisis menggunakan indeks ketimpangan Williamson dan Indeks Entropi Theil.
+Tabel 11. Indeks Williamson Dan Indeks Entropi Theil
+Propinsi Jawa Timur Tahun 2008-2012
+Tahun
+Indeks Wiliamson
+Indeks Entropi Theil
+2008
+1.0531
+0.4196
+2009
+1.0531
+0.4210
+2010
+1.0575
+0.4258
+2011
+1.0562
+0.4218
+2012
+1.0653
+0.4295
+Rata-rata
+1.0570
+0.4236
+Sumber : Data BPS Jawa Timur, Diolah
+Tabel 11 menunjukkan angka ketimpangan PDRB perkapita antar Kabupaten/Kota di Propinsi Jawa Timur selama periode tahun 2008-2012 yaitu indeks Williamson sebesar 1,0570 dan indeks Entropi Theil sebesar 0,4236. Angka ini menunjukkan bahwa di Propinsi Jawa Timur distribusi pendapatannya relatif tidak merata, dengan kata lain mengalami ketimpangan/disparitas pendapatan yang tinggi. Ketimpangan antar Kabupaten/Kota di Propinsi Jawa Timur dari tahun 2008-2012 ada kecenderungan naik, pada tahun 2008 nilai indeks Williamson sebesar 1,0531 naik menjadi 1.0653 pada tahun 2012. Selain memakai indeks Williamson juga dapat memakai indeks Entropi Theil untuk mengetahui besarnya ketimpangan, dari hasil analisis indeks entropi Theil juga terjadi kecenderungan naik dimana pada tahun 2008 sebesar 0.4196 menjadi 0.4295 pada tahun 2012.
+Analisis Korelasi Pearson dan Hipotesis Kusnetz
+Menurut analisis korelasi Pearson menunjukkan bahwa korelasi diantara laju pertumbuhan ekonomi dan indeks ketimpangan keduanya kurang kuat dan secara statistik tidak signifikan karena keduanya tidak berada pada nilai signifikan ≤0,05. Hal ini menunjukkan bahwa pertumbuhan ekonomi yang tinggi tidak menyebabkan ketimpangan pendapatan semakin berkurang tetapi masih tetap meningkat. Hal ini menunjukkan pula bahwa hasil pertumbuhan ekonomi yang tinggi ini tidak bisa dirasakan oleh keseluruhan masyarakat yang ada di Propinsi Jawa Timur secara merata.
+Untuk mengetahui hubungan antara laju pertumbuhan ekonomi dengandisparitas pendapatan antar Kabupaten/Kota di Propinsi Jawa Timur yang terjadi selama tahun 2008-2012 yaitu dapat dibuktikan apakah Hipotesis Kuznet berlaku disini. Kecenderungan kenaikan disparitas pendapatan yang ditunjukkandengan indeks Williamson dan indeks Entropi Theil menunjukkan belum berlakunya Hipotesis “U” terbalik dari Kuznets di Kabupaten/Kota di Propinsi Jawa Timur. Meskipun terdapat pembangunan ekonomi yang terus meningkat secara positif tetapi tidak mengurangi tingkat ketimpangan pendapatan masyarakat Propinsi Jawa Timur. Faktor-faktor yang menyebabkan tidak berlakunya Hipotesis Kuznet ini adalah faktor sumber daya alam yang tidak merata pada tiap Kabupaten/Kota, perpindahan tenaga kerja yang terlalu terpusat di perkotaan, perpindahan modal, dan kebijakan pemerintah daerah yang belum terlalu fokus pada pemerataan pembangunan.
+Apabila dilihat dari grafik antara PDRB per kapita Provinsi Jawa Timur dan indeks ketimpangan dengan menggunakan indeks Williamson dan indeks Entropi Theil selama periode penelitian maka didapatkan hasil sebagai berikut.
+Gambar 1. Kurva Hubungan antara Indeks Ketimpangan dengan PDRB per kapita di Provinsi Jawa Timur Tahun 2008-2012
+Sumber : Hasil Indeks Williamson dan Entropi Theil, Data diolah
+
+
+
+Untuk mengurangi ketimpangan yang terjadi beberapa hal yang dapat dilakukan. Pertama, Kebijakan pembangunan yang memprioritaskan pada daerah yang relatif tertinggal tanpa mengabaikan daerah yang sudah maju dan tumbuh pesat.bagi Kabupaten/Kota yang masuk dalam daerah sudah maju adalah memberikan bantuan bagi daerah tertinggal berupa pembiayaan program pemberdayaan masyarakat yang dapat meningkatkan kualitas sumber daya manusia (menciptakan humancapital), karena peningkatan kualitas sumber daya manusia ini akan berdampak positif bagi pertumbuhan melalui peningkatan penyerapan ide dan inovasi teknologi serta kewirausahaan. Apalagi kebanyakan Kabupaten/Kota yang sudah maju dan berkembang cepat mengandalkan sektor industri yang membutuhkan sumber daya manusia berkualitas. Dengan adanya hal ini, diharapkan masyarakat yang tinggal di daerah sudah maju dapat menularkan keterampilan atau skill yang dimiliki terhadap masyarakat di daerah yang tertinggal.Kedua, konsolidasi antar daerah atau kabupaten dengan pemerintahan provinsi perlu dilakukan dengan membuat perencanaan pembangunan yang jelas agar pelaksanaan pembangunan dapat terlaksana secara menyeluruh sehingga pemerataan pembangunan dapat tercapai dan ketimpangan terhadap pembangunan ekonomi dapat diminimalisir. Sehingga Otonomi Daerah memberikan manfaat yang signifikan kepada seluruh masyarakat di dalamnya. Ketiga, membangun konektivitas ekonomi antar daerah dengan pembangunan inftrastruktur dan sarana informasi yang seimbang. Konektivitas ini akan menyebabkan transfer sumber daya alam dan tenaga kerja akan lebih efisien.
+SIMPULAN
+Basis Ekonomi Jawa Timur sektor-sektor yang berpotensi di Kabupaten/Kota di Propinsi Jawa Timur dapat diketahui dengan menggunakan alat analisis Location Quotient, Shift-Share dan Tipologi sektoral. Sektor pertanian dan sektor Jasa-jasa merupakan sektor yang sangat potensial untuk dikembangkan. Ketimpangan pendapatan antar Kabupaten/Kota pada periode penelitian menggunakan indeks Williamson dan Indeks Entropi Theil menunjukkan bahwa ketimpangan/disparitas pendapatan antar Kabupaten/Kota di Propinsi Jawa Timur tergolong tinggi dan belum menunjukkan kecenderungan menurun, karena berada diatas ambang batas 0,5 (batas Indeks Williamson). Tipologi Klassen dengan pendekatan wilayah ternyata menunjukkan banyak Kabupaten/Kota di Propinsi Jawa Timur selama tahun 2008-2012 yang merupakan daerah relatif tertinggal sebanyak 23 Kabupaten/Kota. Tidak ada Trade off antara Pertumbuhan ekonomi dan Ketimpangan di Propinsi Jawa Timur. Karena Pertumbuhan ekonomi yang terus meningkat juga disertai dengan ketimpangan yang terus meningkat. Hal ini juga dibuktikan dengan korelasi Pearson. Pembuktian Hipotesis Kuznets tentang kurva “U” terbalik belum berlaku di Jawa Timur. Hal ini disebabkan tingkat ketimpangan yang belum mengindikasikan untuk menurun bahkan dalam tahun penelitian terakhir tingkat ketimpangan pembangunan ekonomi cenderung meningkat.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

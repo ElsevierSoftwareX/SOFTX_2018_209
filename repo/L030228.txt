@@ -1,0 +1,45 @@
+﻿ABSTRAK
+ANALISIS RISIKO BENCANA TANAH LONGSOR
+DI KECAMATAN SUKASADA, KABUPATEN BULELENG
+Kecamatan Sukasada merupakan wilayah yang sebagian besar merupakan daerah perbukitan dengan kelerengan yang curam, intensitas hujan yang cukup tinggi serta kondisi tanah yang tidak stabil. Hal ini menyebabkan Kecamatan Sukasada berpotensi untuk terjadinya bencana tanah longsor. Oleh karena itu diperlukan upaya mitigasi untuk mengurangi risiko bencana tanah longsor yang mungkin terjadi.
+Dalam menganalisis tingkat risiko bencana ditetapkan tiga faktor yaitu faktor ancaman, kerentanan dan kapasitas. Sub faktor ancaman adalah peta potensi gerakan tanah dan parameter kemiringan. Sub faktor dari kerentanan adalah kerentanan fisik, kerentanan sosial, kerentanan ekonomi dan kerentanan lingkungan. Sub faktor dari kapasitas adalah 5 indikator prioritas kapasitas daerah. Sub faktor tersebut dijabarkan lebih detail ke dalam indikator risiko bencana tanah longsor di Kecamatan Sukasada. Sub faktor dan indikator bencana tersebut di analisis dengan menggunakan perangkat Sistem Informasi Geografis (SIG) dalam mengolah data, menganalisis dan menampilkan peta-peta. Hasil dari penggunaan perangkat lunak SIG berupa peta tingkat ancaman, peta tingkat kerentanan, dan peta tingkat kapasitas. Peta-peta ini ditumpangsusunkan sehingga menghasilkan peta tingkat risiko bencana tanah longsor di Kecamatan Sukasada.
+Ancaman bencana tanah longsor di Kecamatan Sukasada adalah seluas 11.169 hektar atau 69,51% dari luas wilayahnya. Tingkat ancaman tinggi seluas 727 hektar, tingkat ancaman sedang seluas 7.717 hektar dan tingkat ancaman rendah seluas 2.725 hektar. Tingkat kerentanan bencana tanah longsor di Kecamatan Sukasada berkisar dari sedang sampai tinggi. Tingkat kerentanan tertinggi (0,83) terdapat di Desa Pancasari, Desa Pegayaman, Desa Panji dan Desa Panji Anom, sedangkan tingkat kerentanan terendah (0,66) di Desa Padangbulia. Tingkat kapasitas daerah terhadap bencana tanah longsor Kecamatan Sukasada tergolong rendah, dengan indeks ketahanan daerah sebesar 40,25 atau tingkat kapasitasnya 0,2349. Tingkat risiko bencana tanah longsor di Kecamatan Sukasada tergolong sedang sampai tinggi. Daerah dengan tingkat risiko sedang adalah seluas 2.032 hektar dan tingkat risiko tinggi seluas 7.171 hektar.
+Kata kunci : tanah longsor, ancaman, kerentanan, kapasitas, risiko.
+
+BAB I
+PENDAHULUAN
+1.1. Latar Belakang
+Indonesia merupakan wilayah yang rawan terhadap berbagai jenis bencana, termasuk bencana alam. Bencana alam merupakan fenomena alam yang dapat mengakibatkan terjadinya kerusakan dan kehancuran lingkungan yang pada akhirnya dapat menyebabkan korban jiwa, kerugian harta benda dan kerusakan berbagai infrastruktur, sarana dan prasarana yang telah dibangun. Bencana alam yang terjadi akibat eksploitasi sumberdaya alam secara berlebihan, alih fungsi lahan dan penggunaan lahan yang tidak sesuai serta akibat perubahan iklim global telah mengakibatkan bertambahnya wilayah yang rawan terhadap bencana alam berupa bencana banjir, kekeringan, tanah longsor, angin puting beliung, gelombang pasang, kebakaran hutan dan lahan.
+Bencana alam dapat terjadi secara tiba-tiba maupun melalui proses yang berlangsung secara perlahan. Beberapa jenis bencana seperti gempa bumi, tsunami dan gunung meletus hampir tidak mungkin diperkirakan secara akurat, kapan akan terjadi dan berapa besaran kekuatannya, sedangkan beberapa bencana lainnya seperti banjir, tanah longsor, kekeringan masih dapat diramalkan sebelumnya. Meskipun demikian kejadian bencana selalu memberikan dampak kejutan dan menimbulkan banyak kerugian baik jiwa maupun materi. Kejutan tersebut terjadi karena kurangnya kewaspadaan dan kesiapsiagaan dalam menghadapi ancaman bahaya.
+
+Statistik Bencana di Indonesia dari Januari sampai dengan Agustus tahun 2014 (Badan Nasional Penanggulangan Bencana [BNPB], 2014), jumlah kejadian bencana : 972 kejadian bencana, korban meninggal dan hilang : 374 orang, korban menderita dan mengungsi : 1.764.227 orang dan kerusakan pemukiman : 39.823 unit. Bencana tanah longsor selama bulan Agustus 2014 telah terjadi sebanyak 20 kali dan menyebabkan 8 orang meninggal, 3 orang luka-luka, 671 orang mengungsi, 35 rumah rusak dan 5 fasilitas umum rusak.
+Menurut Bappeda Bali dan PPLH Universitas Udayana (2006), potensi bencana tanah longsor di Provinsi Bali seluas 85.121,55 hektar. Salah satu kabupaten yang rawan terhadap bencana tanah longsor adalah Kabupaten Buleleng karena topografi daerahnya yang berbukit dan mempunyai daerah dengan lereng yang curam. Wilayah-wilayah rawan tanah longsor di Buleleng antara lain terdapat di Kecamatan Gerokgak, Busungbiu, Sukasada, dan Tejakula.
+Kabupaten Buleleng yang sebagian wilayahnya adalah daerah perbukitan dan pegunungan, menyebabkannya menjadi daerah yang rawan terhadap bencana tanah longsor. Intensitas curah hujan yang tinggi, jenis tanah yang labil serta lereng yang curam, secara alami akan dapat memicu terjadinya bencana alam tanah longsor.
+Hasil penelitian yang dilakukan oleh Dinata et al. (2013) berupa peta daerah rawan bencana longsor di Kecamatan Sukasada menunjukkan bahwa Kecamatan Sukasada memiliki potensi kerawanan untuk terjadinya bencana longsor. Kecamatan Sukasada memiliki tingkat kerawanan tinggi untuk terjadinya bencana longsor, terutama Desa Gitgit, Desa Wanagiri, Desa Silangjana, Desa Pegayaman dan Desa Pancasari. Peta ancaman bencana gerakan tanah dari
+
+Kementerian Energi dan Sumberdaya Mineral Republik Indonesia, menunjukkan wilayah Kecamatan Sukasada memiliki potensi kerawanan menengah sampai tinggi untuk terjadinya bencana tanah longsor.
+Kecamatan Sukasada, dalam beberapa tahun terakhir mengalami kejadian tanah longsor. Bencana tanah longsor menyebabkan korban jiwa, rumah rusak, rusaknya lahan pertanian penduduk dan tertimbunnya badan jalan sehingga arus transportasi menjadi terputus. Berikut ini adalah beberapa kejadian bencana tanah longsor di Kecamatan Sukasada (Badan Penanggulangan Bencana Daerah [BPBD] Provinsi Bali, 2014):
+1. Tanah longsor di Desa Pancasari pada 2 Pebruari 2012 menyebabkan 2 orang meninggal, 1 orang luka, 1 rumah rusak.
+2. Tanah longsor di Desa Gitgit 19 Pebruari 2013 menyebabkan 2 orang meninggal dunia.
+3. Tanah longsor di Desa Sambangan 15 Desember 2013 menyebabkan 3 orang meninggal dunia.
+4. Tanah longsor di Desa Padangbulia 24 April 2014 menyebabkan tertimbunnya saluran irigasi dan badan jalan.
+Rencana penanggulangan bencana di suatu daerah merupakan amanat dari Undang-Undang Nomor 24 Tahun 2007 tentang Penanggulangan Bencana. Hal ini diperjelas lagi dalam Peraturan Kepala Badan Nasional Penanggulangan Bencana Nomor 02 Tahun 2012 tentang Pedoman Umum Pengkajian Risiko Bencana. Rencana Penanggulangan Bencana merupakan wujud dari upaya pemerintah terkait dengan perumusan program-program kegiatan dan fokus prioritas penanggulangan bencana. Potensi kebencanaan yang beragam, tingkat kerentanan
+yang cenderung tinggi serta tingkat kapasitas penduduk yang masih kurang, diperlukan keberadaan sebuah rencana terpadu yang berguna dalam menghadapi kondisi kebencanaan yang ada.
+Kecamatan Sukasada adalah daerah yang rawan terhadap bencana tanah longsor. Untuk meminimalisasi dampak bencana tanah longsor, maka harus dilakukan upaya pengurangan risiko bencana. Untuk melakukan pengurangan risiko bencana maka karakteristik bencana harus dikaji secara seksama. Hal ini yang menyebabkan penulis tertarik untuk melakukan penelitian di daerah ini dengan judul “Analisis Risiko Bencana Tanah Longsor di Kecamatan Sukasada, Kabupaten Buleleng, Provinsi Bali” sebagai salah satu upaya untuk mendukung pengurangan risiko bencana tanah longsor.
+1.2. Rumusan Masalah
+Berdasarkan uraian di atas maka rumusan masalah yang akan dikaji meliputi :
+1. Bagaimana tingkat ancaman bencana tanah longsor di Kecamatan Sukasada?
+2. Bagaimana tingkat kerentanan pada daerah yang rawan bencana tanah longsor di Kecamatan Sukasada?
+3. Bagaimana tingkat kapasitas yang ada pada daerah yang rawan tanah longsor di Kecamatan Sukasada?
+4. Bagaimana strategi pengurangan risiko bencana tanah longsor di Kecamatan Sukasada?
+
+1.3. Tujuan
+Tujuan dari penelitian ini adalah :
+1. Mengetahui tingkat ancaman bencana tanah longsor di Kecamatan Sukasada.
+2. Mengetahui tingkat kerentanan pada daerah yang rawan bencana tanah longsor.
+3. Mengetahui tingkat kapasitas yang ada pada daerah yang rawan tanah longsor.
+4. Merumuskan strategi pengurangan risiko bencana tanah longsor di Kecamatan Sukasada.
+1.4. Manfaat Penelitian
+Manfaat yang diharapkan dari penelitian ini sebagai berikut :
+1. Manfaat akademik, sebagai bahan informasi dalam pengembangan teknologi dan ilmu pengetahuan sehubungan dengan strategi pengurangan risiko bencana tanah longsor.
+2. Manfaat praktis, sebagai sumber informasi yang akurat bagi pemerintah, LSM dan masyarakat dalam penyusunan strategi pengurangan risiko bencana tanah longsor.

@@ -1,0 +1,72 @@
+﻿Abstrak 
+Sub Daerah Aliran Sungai (DAS) Dengkeng merupakan bagian dari DAS Bengawan Solo Hulu yang termasuk dalam wilayah Sungai Bengawan Solo. Terdegradasinya lahan terbuka yang menjadi bangunan maupun kawasan pemukiman namun tidak dilakukan dengan penataan yang baik merupakan penyebab dari rusaknya daerah aliran Sungai Bengawan Solo terutama daerah hulu, mengakibatkan semakin berkurangnya sumber air di daerah tersebut. 
+
+Penelitian ini bertujuan mengetahui luasan dan area mana saja yang termasuk daerah rawan banjir serta untuk mengetahui faktor-faktor yang menyebabkan terjadinya banjir di Sub DAS Dengkeng. Metode yang digunakan yaitu metode skoring dan overlay (tumpang susun) antara peta jenis tanah, peta penggunaan lahan, peta kemiringan lereng,peta jaringan sungai dan peta curah hujan. Peta zona rawan banjir diperoleh dari overlay kelima peta tersebut. Identifikasi zona rawan banjir dilakukan dengan menggunakan data dari Penginderaan Jauh dan diolah dengan Sistem Informasi Geografis (SIG) sehingga dapat digunakan sebagai bahan acuan untuk melakukan konservasi dan rehabilitasi lahan. 
+
+Data penginderaan jauh yang digunakan adalah citra satelit Landsat Tahun 2012 yang digunakan untuk pembuatan peta penggunaan lahan sub DAS Dengkeng tahun 2012 menggunakan ENVI 4.4. Peta curah hujan dibuat menggunakan data curah hujan periode 2001-2011 dan peta kemiringan lereng menggunakan data titik tinggi Sub DAS Dengkeng yang diolah menggunakan ArcGIS 9.3. 
+Hasil penelitian menunjukkan luasan masing-masing zona rawan banjir di wilayah Sub DAS Dengkeng. Dari hasil analisis luas Sub DAS Dengkeng yaitu 822,153 km². Wilayah yang termasuk dalam zona tidak rawan seluas 3,349 km² (0,41%) dan zona agak rawan sebesar 45,865 km² (5.58%). Wilayah yang termasuk ke dalam zona cukup rawan seluas 268.744 km² (32.69%). Untuk luas zona rawan dan sangat rawan yaitu 469.63 km² (57.12%) dan 34.567 km² (4.20%). 
+Kata kunci : Daerah Aliran Sungai (DAS), Sistem Informasi Geografis (SIG), Zona Rawan Banjir, Skoring, Overlay
+
+
+BAB I 
+PENDAHULUAN 
+1.1 Latar Belakang 
+
+Daerah Aliran Sungai (DAS) adalah suatu wilayah daratan yang merupakan satu kesatuan dengan sungai dan anak-anak sungainya, yang berfungsi menampung, menyimpan dan mengalirkan air yang berasal dari curah hujan ke danau atau ke laut secara alami, yang batas di darat merupakan pemisah topografis dan batas di laut sampai dengan daerah perairan yang masih terpengaruh aktivitas daratan. DAS bagian hulu seringkali menjadi fokus perencanaan pengelolaan DAS karena selain fungsinya yang sangat penting yaitu sebagai daerah resapan air (Water recharge areas). Segala bentuk kerusakan yang terjadi di daerah hulu pada akhirnya tidak hanya akan membawa dampak bagi daerah hulu saja namun akhirnya juga berdampak pada daerah tengah dan terutama daerah hilir (Peraturan Menteri Kehutanan Republik Indonesia nomor 32 tahun 2009). 
+Sungai Bengawan Solo merupakan sungai terpanjang di Pulau Jawa dengan luas DAS kurang lebih 16.100 km2, Sungai Bengawan Solo terdiri dari 4 Daerah Aliran Sungai (DAS), yaitu DAS Bengawan Solo, DAS Kali Grindulu dan Kali Lorog di Pacitan, DAS Kecil di Kawasan Pantai Utara, dan DAS Kali Lamong. DAS Bengawan Solo merupakan DAS terluas di wilayah Sungai Bengawan Solo yang meliputi Sub DAS Bengawan Solo Hulu, Sub DAS Kali Madiun, Sub DAS Bengawan Solo Hilir. 
+
+Sub DAS Dengkeng merupakan bagian dari Sub DAS Bengawan Solo Hulu yang terletak di enam wilayah kabupaten, yaitu : Kabupaten Wonogiri, Sukoharjo, Klaten, Sleman, Gunung Kidul dan Boyolali dengan jumlah total luas sub DAS Dengkeng yaitu 822,153 km2 (BPDAS Solo). 
+Penelitian akan dilakukan untuk mengetahui permasalahan banjir di Sub DAS Dengkeng, Bengawan Solo guna memberikan informasi berupa peta zona rawan banjir untuk mengetahui luasan, faktor penyebab, dan area dampak banjir di Sub DAS Dengkeng.
+
+1.2 Perumusan Masalah 
+
+Permasalahan yang muncul dari latar belakang penelitian yang telah dijabarkan sebelumnya adalah sebagai berikut : 
+1. Berapa luasan area yang terkena dampak banjir di Sub DAS Dengkeng? 
+2. Apa sajakah faktor yang menyebabkan terjadinya banjir di Sub DAS Dengkeng? 
+
+1.3 Maksud dan Tujuan Penelitian 
+
+Tujuan dari dilakukannya penelitian ini adalah sebagai berikut : 
+1. Untuk memberikan informasi dan pemahaman mengenai pemanfaatan data penginderaan jauh dan sistem informasi geografis untuk pembuatan peta zona rawan banjir. 
+2. Untuk mengetahui luasan dan area mana saja yang termasuk daerah rawan banjir di Sub DAS Dengkeng. 
+3. Untuk mengetahui faktor-faktor yang menyebabkan terjadinya banjir di Sub DAS Dengkeng. 
+
+1.4 Manfaat dari Penelitian 
+
+Manfaat dari dilakukannya penelitian ini adalah sebagai berikut : 
+1. Memberikan informasi tentang kondisi fisik suatu daerah terhadap tingkat kerentanan banjir daerah tersebut. 
+2. Memberikan sumbangan penelitian bagi pembaca. 
+
+1.5 Cakupan Penelitian 
+Penelitian ini dilakukan di Sub DAS Dengkeng yang merupakan bagian dari wilayah Sub DAS Bengawan Solo yang berada di enam Kabupaten, yaitu Kabupaten Klaten, Kabupaten Sukoharjo, Kabupaten Wonogiri, Kabupaten Gunung Kidul, Kabupaten Boyolali dan Kabupaten Sleman. 
+
+1.6 Kerangka Penelitian 
+Mulai Studi Literatur Selesai Pengumpulan Data Pengolahan Data Hasil dan Analisa 
+Gambar 1.1 Kerangka Penelitian 
+Kerangka penelitian yang digunakan dalam penelitian ini adalah sebagai berikut : 
+1. Persiapan 
+
+Tahap ini meliputi studi literatur, penentuan lokasi penelitian dan pengadaan alat dan bahan. Studi literatur dilakukan untuk memperdalam dan memperluas wawasan serta menambah informasi yang berkaitan dengan ruang lingkup topik penelitian. 
+2. Tahap pelaksanaan 
+
+Pada tahap ini dilakukan pengumpulan data dari berbagai instansi terkait yaitu Peta Administrasi Sub DAS Dengkeng, Peta Penggunaan Lahan Sub DAS Dengkeng, Peta Kemiringan Lereng, Peta Jaringan Sungai dan Peta Jenis Tanah Sub DAS Dengkeng, data curah hujan Sub DAS Dengkeng, dan data Statistik Sub DAS Dengkeng. Pengolahan dilakukan terhadap data-data tersebut dan diperoleh Peta Zona Rawan Banjir Sub DAS Dengkeng. 
+
+3. Tahap Analisis 
+
+Pada tahap ini dilakukan analisa terhadap data yang telah di dapat untuk mengidentifikasi kondisi daerah yang mempunyai potensi banjir di Sub DAS Dengkeng. 
+Diagram alir penelitian dapat dilihat pada Gambar 1.2, 
+Mulai Kontur RMS ≤ 1 Koreksi Citra Penajaman Citra Klasifikasi Citra Peta Penggunaan Lahan Analisa Zona Rawan Banjir Selesai Peta RBI Citra Landsat Tahun 2012 Peta Administrasi Trianggular Irregular Network (TIN) Peta RBI Tidak Peta Jaringan Sungai dan Drainase Croping Area ya Pembagian SubDAS dan Kerapatan Aliran Peta Kemiringan Lereng Data Curah Hujan Intensitas Hujan Maksimum (I) Peta Jenis Tanah Overlay Peta Curah Hujan Data Titik Tinggi Slope Reclassify Peta Kerapatan Aliran Peta Jenis Tanah Editing Attribute Editing Attribute Editing Attribute Editing Attribute Editing Attribute Peta Zona Rawan Banjir 
+Gambar 1.2 Diagram Alir Penelitian 
+
+I.7 Sistematika Penulisan Laporan 
+Laporan penelitian tentang Identifikasi Zona Rawan Banjir Menggunakan Sistem Informasi Geografis (Studi Kasus: Sub DAS Dengkeng) ini disusun dengan sistematika penulisan sebagai berikut: 
+BAB I PENDAHULUAN 
+Berisi latar belakang, perumusan masalah, batasan penelitian, tujuan penelitian, manfaat penelitian, cakupan penelitian, metodologi penelitian, serta sistematika penulisan. 
+BAB II TINJAUAN PUSTAKA 
+Menjelaskan tentang tinjauan pustaka yang berkaitan dengan studi tentang DAS (Daerah Aliran Sungai), studi tentang limpasan, studi tentang banjir, SIG (Sistem Informasi Geografis), keadaan fisik sub DAS Dengkeng yaitu letak, luas dan jenis tanah, kondisi sumber daya tanah, penggunaan lahan selain itu juga tinjauan pustaka dari laporan-laporan penelitian sebelumnya yang digunakan sebagai referensi laporan yang dibuat. 
+BAB III METODOLOGI PENELITIAN 
+Menjelaskan uraian jalannya penelitian yaitu tahap persiapan yang terdiri dari data penelitian, perangkat penelitian, metode penelitian dan pengolahan data. 
+BAB IV HASIL DAN PEMBAHASAN 
+Bab ini berisi pengolahan data dan informasi meliputi kemiringan lereng, curah hujan, penggunaan lahan dan jenis tanah serta hasil akhir berupa analisis limpasan terhadap potensi banjir dan daerah rawan banjir, pengetahuan tentang dampak buruk baik terhadap masyarakat maupun lingkungan. Hasil analisis penelitian dapat menjadi bagian dari upaya pengelolaan DAS. 
+BAB V PENUTUP 
+Menjelaskan mengenai kesimpulan dari hasil penelitian dan saran sebagai masukan penelitian selanjutnya.

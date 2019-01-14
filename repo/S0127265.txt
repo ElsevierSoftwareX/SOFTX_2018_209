@@ -1,0 +1,193 @@
+﻿FLYPAPER EFFECT DAN BELANJA DAERAH DI PROPINSI JAWA BARAT
+
+
+Abstrak.
+Tujuan dilakukannya penelitian ini adalah untuk mengetahui apakah PAD, DAU dan DAK berpengaruh secara signifikan terhadap Belanja Daerah baik secara Parsial dan Simultan di daerah yang berada di Jawa Barat ini dan juga untuk mengetahui apakah telah terjadi Flypaper Effect di daerah yang berada di Jawa Barat tersebut pada tahun 2008 - 2012. Objek dari penelitian ini berfokus pada seluruh daerah yang ada di Propinsi Jawa Barat berjumlah 26 kabupaten/kota. Metode analisis yang digunakan dalam penelitian ini adalah panel data dengan Pooled Least Square (PLS). Hasil dari penelitian ini menyatakan bahwa secara parsial PAD, DAU dan DAK berpengaruh secara signifikan terhadap belanja daerah di daerah propinsi Jawa Barat tersebut pada tahun 2008 – 2012 karena masing – masing nilai probabilitinya yaitu PAD sebesar 0.000 < 0.05, DAU sebesar 0.000 < 0.05 dan DAK sebesar 0.02 < 0.05. Secara simultan PAD, DAU dan DAK pun berpengaruh secara signifikan terhadap belanja daerah karena nilai probabilitinya sebesar 0.000 < 0.005. Dalam penelitian ini pun didapat hasil bahwa tidak terjadi Flypaper Effect dimana sumber penerimaan berasal dari PAD lah yang lebih besar mempengaruhi besaran belanja di tahun berikutnya.
+Kata kunci : PAD; DAU; DAK; Belanja Daerah; Flypaper Effect.
+
+PENDAHULUAN
+Kesejahteraan rakyat merupakan salah satu tujuan dari suatu Negara Indonesia yang tertuang dalam pembukaan UUD 1945 yang mana tujuan tersebut haruslah dicapai. Untuk mencapai tujuan tersebut, maka pemerintah pusat melakukan suatu sistem pemerintahan dimana pemerintah pusat memberikan wewenang kepada pemerintah daerah untuk mengatur sendiri masyarakat didaerahnya dimana sistem ini lebih dikenal dengan sebutan Otonomi Daerah. Menurut Undang - undang No. 32 tahun 2004 pasal 1 angka 5, otonomi daerah didefinisikan sebagai hak, wewenang, dan kewajiban daerah otonom untuk mengatur dan mengurus sendiri urusan pemerintahan dan kepentingan masyarakat setempat sesuai dengan peraturan perundang -undangan.
+Otonomi daerah ini juga dilakukan agar kesejahteraan yang didapat oleh seluruh masyarakatnya dapat merata atau tidak hanya sebagian orang saja yang merasakan kesejahteraan. Namun tujuan utama dari dilakukannya sistem otonomi daerah ini adalah untuk meningkatkan pelayanan publik (Publik Service) serta memajukan Perekonomian daerah ( UU no 32 Tahun 2004 ).
+Dengan diberlakukannya otonomi daerah ini maka seluruh daerah masing - masing mengurus atau mengatur masalah yang ada di daerahnya masing - masing baik itu masalah dalam bidang keuangannya dimana masalah dalam bidang keuangan daerah ini seperti mengatur pendapatan dan pengeluaran daerah maupun masalah dalam penyediaan barang publik.
+Dalam mengatur masalah pengeluaran dan pendapatan daerah, maka setiap daerah diwajibkan untuk membuat suatu rencana atau rancangan keuangan daerah yang biasanya disebut dengan Anggaran Pendapatan Belanja Daerah (APBD). Anggaran Pendapatan Belanja Daerah (APBD) adalah suatu rencana keuangan yang disusun oleh pemerintah daerah yang mana pada sebelumnya telah dibahas dan telah disetujui oleh pemerintah daerah dan Dewan Perwakilan Rakyat Daerah (DPRD), dan telah ditetapkan dengan Peraturan Daerah (UU no 32 tahun 2004). Tujuan dirancangnya APBD ini adalah agar pemerintah daerah dapat memperkirakan berapa jumlah besaran pendapatan yang akan diterima dan besaran jumlah pengeluaran yang akan dibelanjakan.
+Adapun pengeluaran yang dilakukan oleh pemerintah - pemerintah daerah dalam era otonomi daerah ini haruslah memberikan atau menyediakan apa yang disebut dengan pelayanan publik yang mana ini dilakukan agar seluruh masyarakat yang ada di daerah pemerintah masing - masing daerah tersebut dapat mencapai kesejahteraan yang mana sesuai dengan tujuan dilakukannya otonomi daerah tersebut. Adapun yang dimaksudkan dengan pelayanan publik ini adalah kegiatan ataupun serangkaian kegiatan dalam rangka pemenuhan kebutuhan pelayanan yang sesuai dengan peraturan perundang - undangan bagi setiap warga negara dan penduduk atas barang, jasa dan pelayanan adminstratif yang disediakan oleh penyelenggara pelayanan publik ( UU No 25 Tahun 2009 ).
+Pelayanan publik ini haruslah disediakan oleh pemerintah daerah. Pelayanan publik yang dimaksud disini adalah dapat berupa seperti pelayanan kesehatan, pendidikan, keamanan, perumahan rakyat, penataan ruang, perlindungan lingkungan hidup dan pelayanan lainnya yang dibutuhkan oleh masyarakat. Kebutuhan akan pelayan publik ini pun berbeda - beda kebutuhannya di setiap masing - masing daerahnya.
+Dalam rangka menyediakan pelayanan publik ini, maka pemerintah daerah melakukan suatu pengeluaran yang mana pengeluaran ini biasanya disebut dengan Belanja daerah. Dalam lingkungan akuntansi Pemerintah di Indonesia, belanja ini dapat dikatakan sebagai pengeluaran yang dilakukan oleh negara maupun daerah pada suatu periode yang bersangkutan yang mana tidak akan diperoleh kembali pembayarannya oleh pemerintah.
+Belanja pada dasarnya dapat diklasifikasikan menjadi 2 macam berdasarkan jenisnya, yaitu belanja langsung dan belanja tidak langsung. Belanja langsung merupakan belanja yang penganggarannya dipengaruhi secara langsung oleh adanya suatu program atau kegiatan yang dilaksanakan oleh pemerintah daerah dalam membantu mensejaherakan masyarakatnya. Sedangkan belanja tidak langsung adalah belanja yang penganggarannya tidak dipengaruhi secara langsung oleh adanya suatu program atau kegiatan (Nurlan Darise, 2009).
+Dari 2 jenis belanja tersebut yaitu belanja langsung dan belanja tidak langsung dibagi kembali menjadi beberapa bagian, yang mana Belanja langsung terdiri dari Belanja pegawai, Belanja Barang dan Jasa dan Belanja Modal sedangkan Belanja tidak langsung terdiri dari belanja pegawai, belanja bunga, belanja subsidi, belanja hibah, belanja bantuan sosial, belanja bagi hasil kepada propinsi/kabupaten/kota dan pemerintahan desa, belanja bantuan keuangan kepada propinsi/kabupaten/kota dan pemerintahan desa dan belanja tidak terduga.
+Belanja yang dilakukan oleh setiap propinsi di Indonesia ini jumlah yang dikeluarkannya ini berbeda - beda, ini dikarenakan kebutuhan akan pelayan publik kebutuhan lainnya yang dibutuhkan oleh setiap masyarakat di masing - masing daerah pun berbeda - beda. Ada yang memiliki jumlah biaya belanja langsung yang tinggi namun ada juga daerah yang memiliki jumlah biaya belanja langsung yang tidak terlalu tinggi, begitu juga yang terjadi dengan belanja tidak langsung. Dalam melakukan belanja daerah ini, pemerintah daerah membutuhkan sejumlah dana untuk merealisasikan pelayanan publik yang telah dianggarkan. Pada dasarnya ada 2 sumber dana yang didapat oleh pemerintah daerah di era otonomi daerah ini yaitu sumber dana yang berasal dari Pendapatan Asli Daerah (PAD) dan Dana Perimbangan.
+Pendapatan Asli Daerah (PAD) terdiri dari pajak daerah, retribusi daerah, Hasil pengelolaan kekayaan daerah dan lain - lain PAD yang sah yang diterima oleh masing - masing daerah. Dari 4 macam sumber PAD tadi, yang paling banyak terdengar dari macam PAD hanyalah pendapatan yang berasal dari pajak dan retribusi daerah karena sumbangan terbesar untuk PAD suatu daerah lebih besar dibantu oleh pajak dan retribusi daerah ini. Pajak daerah merupakan Iuran wajib yang dilakukan oleh orang pribadi ataupun badan kepada daerah tanpa adanya imbalan secara langsung yang seimbang yang mana iuran ini dapat dipaksakan berdasarkan peraturan undang - undang yang berlaku (PP no 65 tahun 2001). Sedangkan yang dimaksud dengan retribusi daerah retribusi daerah adalah pungutan yang dilakukan oleh daerah sebagai pembayaran atas jasa atau pemberian izin tertentu yang khusus disediakan atau diberikan oleh pemerintah daerah untuk kepentingan orang pribadi ataupun badan (Nurlan Darise, 2009).
+Jenis - jenis pajak yang dapat dipungut oleh oleh pemerintah daerah ini seperti pajak penghasilan, pajak hotel, pajak restoran, pajak hiburan, pajak reklame, pajak penerangan jalan, dan pajak pengambilan dan pengolahan galian golongan C. Sedangkan retribusi yang dapat dipungut oleh pemerintah daerah adalah Retribusi jasa umum, retribusi jasa usaha dan reribusi perijinan tertentu.
+Besaran pajak dan retribusi daerah yang akan diterima oleh pemerintah daerah ini sebenarnya lebih dipengaruhi oleh banyaknya investasi yang ada di suatu kota / kabupaten di propinsi tersebut. Karena dengan banyaknya investasi yang terjadi maka akan memperbanyak jumlah bangunan - bangunan yang berhubungan dengan pajak seperti banyaknya hotel akan memperbesar jumlah pajak hotel yang diterima, banyaknya investasi dalam bidang restoran akan memperbesar jumlah pajak restoran dan juga seterusnya, oleh karena itu semakin banyak investasi yang terjadi maka semakin besar pula pajak dan retribusi daerah yang akan diterima oleh pemerintah daerah.
+Selain banyaknya Investasi, jumlah besaran pajak daerah yang diterima oleh suatu daerah pun dapat dipengaruhi oleh jumlah penduduk dan tingkat kemiskinan yang ada di daerah tersebut. Semakin banyak penduduk yang ada di suatu daerah maka kemungkinan akan semakin besar pula jumlah pendapatan pajak daerah yang akan diterima oleh pemerintah daerah tersebut. Selain jumlah penduduk, kemiskinan pun cukup berpengaruh terhadap pendapatan pajak daerah yang diterima oleh pemerintah daerah. Jika rata - rata penduduk di suatu daerah miskin maka ini tidak akan memperbesar tingkat pendapatan pajak daerah karena mereka tidak mampu untuk membayar pajak, sehingga dapat dikatakan kemiskinan pun mempunyai pengaruh yang cukup besar.
+Adapun jenis pajak yang dipungut ini adalah pajak yang berasal dari penghasilan masyarakatnya atau yang biasa disebut dengan pajak penghasilan. Selain pajak dan retribusi daerah, potensi alam yang dimiliki oleh suatu daerah pun jika dapat dikelola dengan maka akan mempunyai pengaruh yang cukup besar dalam mempengaruhi besaran PAD yang diterima, walaupun dalam mempengaruhinya tidaklah sebesar pengaruh yang diberikan oleh pajak dan retribusi daerah.
+Indonesia memiliki 33 Propinsi yang tersebar di seluruh pulau yang ada di Indonesia. Salah satunya yang ada di pulau Jawa yang mana terdiri dari 6 propinsi yang salah satunya adalah Ibukota negara yaitu DKI Jakarta, sedangkan 5 lagi sisanya adalah Propinsi Banten, Jawa Barat, Jawa Tengah, Jawa Timur dan D.I Yogyakarta.
+Dari Propinsi - propinsi yang ada di pulau jawa ini selain Jakarta, propinsi Jawa Barat memiliki belanja daerah yang paling besar diantara propinsi lainnya. Dari tahun 2006 - 2012 propinsi Jawa Barat selalu menjadi propinsi dengan belanja daerah terbesar diantara propinsi lainnya yang ada di pulau jawa.
+
+METODE
+Jenis penelitian yang digunakan untuk mendapatkan jawaban dalam penelitian ini adalah penelitian kuantitatif deskriptif, karena di dalam penelitian ini data berupa angka dan Peneliti menggunakan statistik dalam pengolahan data dan dalam penelitian ini juga peneliti menggambarkan dan menjelaskan dari hasil pengolahan statistik dalam penelitian ini. Tujuan peneliti dalam penelitian ini adalah peneliti ingin mengetahui sejauh mana variabel bebas mempengaruhi variabel terikat dan dengan menggunakan analisis deskriptif.
+Dalam penelitian ini peneliti menggunakan 3 (Tiga) Variabel Independen dan 1 (satu) Variabel Dependen. Variabel Independen yang digunakan dalam penelitian ini adalah Pendapatan Asli Daerah (PAD), Dana Alokasi Umum (DAU) dan Dana Alokasi Khusus (DAK) sedangkan Variabel Dependen yang digunakan dalam penelitian ini adalah Belanja Daerah (BD).
+Data yang digunakan dalam penelitian ini adalah data sekunder, yaitu data yang diperoleh berdasarkan informasi yang telah disusun dan dipublikasikan oleh instansi tertentu. Dalam penelitian ini data yang digunakan diperoleh dari Badan Pusat Statistik (BPS) Propinsi Jawa Barat dan Direktorat Jendral Perimbangan Keuangan (DJPK). Metode yang digunakan dalam penelitian ini menggunakan metode data panel. Data yang digunakan dalam penelitian ini adalah data time series yaitu data tahun 2008 - 2012 dan data cross section yaitu data 26 kabupaten/kota yang berada di propinsi Jawa Barat.
+Metode analisis yang digunakan dalam penelitian ini adalah analisis kuantitatif karena menggunakan software statistik Eviews 6 untuk menjawab semua tujuan dari penelitian ini. Tahapan analisis dalam penelitian ini terdiri dari : estimasi model regresi dengan menggunakan data panel, Uji asumsi Klasik, Uji Analisis Regresi dan Analisis Ekonomi. Faktor-faktor yang mempengaruhi Belanja Daerah dapat digambarkan dengan fungsi sebagai berikut:
+BD = f(PAD, DAU,DAK)
+BDit = βο + β1 PADit + β2 DAUit + β3 DAKit + μit
+
+Dimana :
+BD : Belanda Daerah (miliar rupiah)
+PAD : Pendapatan Asli Daerah (miliar rupiah)
+DAU : Dana Alokasi Umum (miliar rupiah)
+DAK : Dana Alokasi Khusus (miliar rupiah)
+i : cross section
+t : time series
+Βο : Intercept
+β1, β2, β3 : koefisien regresi
+μ : error term
+Estimasi Regresi Dengan Data Panel
+Model regresi dengan data panel secara umum mengakibatkan kesulitan dalam spesifikasi modelnya. Residualnya akan mempunyai tiga kemungkinan yaitu residual time series, cross section maupun gabungan keduanya. Maka tedapat tiga pendekatan dalam menggunakan data panel ini yaitu:
+Pooled Least Square (PLS)
+Metode ini juga dikenal sebagai Common Effect Model (CEM). Pada metode ini, model mengasumsikan bahwa data gabungan yang ada, menunjukan kondisi sesungguhnya dimana nilai intersep dari masing - masing variabel adalah sama dan slope koefisien dari variabel - variabel yang digunakan adalah identik untuk semua unit cross section.
+Kelemahan Dalam model PLS ini yaitu adanya ketidaksesuaian model dengan keadaan yang sebenarnya. Dimana kondisi tiap objek saling berbeda, bahkan satu objek pada suatu waktu akan sangat berbeda dengan kondisi objek tersebut pada waktu yang lain (Winarno, 2007).
+Fixed Effect Model (FEM)
+Fixed effect (efek tetap) dalam hal ini maksudnya adalah bahwa satu objek, memiliki konstan yang tetap besaranya untuk berbagai periode waktu. Demikian pula halnya dengan koefisien regresi yang memiliki besaran yang tetap dari waktu ke waktu. Dalam model FEM ini menggunakan peubah boneka untuk memungkinkan peubahan-peubahan dalam intersep-intersep kerat lintang dan runtut waktu akibat adanya peubah-peubah yang dihilangkan. Model ini mengasumsikan bahwa perbedaan antar unit dapat diketahui dari perbedaan nilai konstanya. Pendekatan dengan memasukkan variabel boneka ini dikenal dengan sebutan model efek tetap (fixed effect) atau Least Square Dummy Variabel (LSDV) atau disebut juga covariance model (Winarno,2007).
+Random Effect Models (REM)
+Dalam menganalisis regresi data panel, selain menggunakan fixed effect model (FEM), analisis regresi dapat pula menggunakan pendekatan efek random (random effect). Pendekatan efek random ini digunakan untuk mengatasi kelemahan fixed effect model yang menggunakan variabel semu, sehingga akibatnya model mengalami ketidakpastian. Berbeda dengan FEM yang menggunakan variabel semu, metode efek random menggunakan residual, yang diduga memiliki hubungan antar waktu dan antar objek (Winarno, 2007).
+Pemilihan Metode Data Panel
+Dalam pengolahan data panel mekanisme uji untuk menentukan metode pemilihan data panel yang tepat yaitu dengan cara membandingkan metode pendekatan PLS dengan metode pendekatan FEM terlebih dahulu. Jika hasil yang diperoleh menunjukkan model pendekatan PLS yang diterima, maka model pendekatan PLS yang akan dianalisis. Jika model pendekatan FEM yang diterima, maka harus dilakukan perbandingan lagi dengan model pendekatan REM. Untuk melakukan model mana yang akan dipakai, maka dilakukan pengujian diantaranya:
+Uji Chow
+yaitu uji yang digunakan untuk mengetahui apakah model Pooled Least Square (PLS) atau Fixed Effect Model (FEM) yang akan dipilih untuk estimasi data. Uji ini dapat dilakukan dengan uji restricted F-Test atau uji Chow-Test. dalam pengujian ini dilakukan dengan hipotesa sebagai berikut:
+Hο : Model PLS (Restriced)
+H1 : Model Fixed Effect (Unretriced)
+Dasar penolakan terhadap hipotesa nol tersebut adalah dengan menggunakan F statistik. Pengujian ini mengikuti nilai probabilitas cross-section F jika nilai probabilitas > α = 0,05, maka metode yang digunakan adalah PLS, namun jika nilai probabilitas cross-section F < α = 0,05 maka cukup bukti untuk melakukan penolakan terhadap hipotesa nol sehingga model yang akan digunakan adalah model fixed effect.
+
+Uji Hausman
+Pengujian ini dilakukan untuk menentukan apakah model fixed effect atau random effect yang akan dipilih. Pengujian ini dilakukan dengan hipotesa sebagai berikut:
+Hο : Model Random Effect
+H1 : Model Fixed Effect
+Dasar penolakan Hο adalah dengan menggunakan pertimbangan probabilitas Cross section random. Jika probabilitas Cross section > α=0,05 maka Hο diterima (model yang digunakan adalah Random Effect), sedangkan jika probabilitas Cross section < α=0,0, maka model yang digunakan adalah model Fixed Effect.
+Operasional Variabel
+Variabel-Variabel yang digunakan dalam peneitian ini adalah Pendapatan Asli Daerah (PAD), Dana Alokasi Umum (DAU) dan Dana Alokasi Khusus (DAK) sebagai variabel bebas atau independen dan variabel terikat atau dependen dalam penelitian ini adalah Belanja langsung daerah di 26 kota dan kabupaten propinsi Jawa Barat.
+Variabel dependen dalam penelitian ini adalah Belanja Daerah dimana Belanja Daerah didefinisikan sebagai Seluruh pengeluaran yang dilakukan oleh pemerintah daerah yang berasal dari rekening kas umum daerah yang mengurangi ekuitas dana lancar, yang mana pengeluaran ini merupakan kewajiban daerah dalam satu tahun anggaran yang tidak akan diperoleh pembayarannya kembali oleh daerah.
+Variabel Independen dalam penelitian ini adalah Pendapatan Asli Daerah (PAD), Dana Alokasi Umum (DAU) dan Dana Alokasi Khusus (DAK). PAD dapat didefinisikan penerimaan yang diperoleh dari sektor pajak daerah, retribusi daerah, hasil perusahaan milik daerah, hasil pengeloalaan kekayaan daerah yang dipisahkan, dan lain-lain pendapatan asli daerah yang sah. DAU dapat didefinisikan sejumlah dana yang dialokasikan kepada setiap Daerah Otonom (propinsi/kabupaten/kota) di Indonesia setiap tahunnya sebagai dana pembangunan. Dan DAK dapat didefinisikan dana yang bersumber dari pendapatan APBN yang dialokasikan kepada daerah tertentu dengan tujuan untuk membantu mendanai kegiatan khusus yang merupakan urusan daerah dan sesuai dengan prioritas nasional.
+HASIL DAN PEMBAHASAN
+Estimasi Model Data Panel
+Untuk mengetahui model data panel yang akan digunakan apakah menggunakan PLS atau FEM, maka dilakukan suatu uji yang dinamakan dengan uji Chow. Dalam penentuan model data panel dengan menggunakan uji Chow ini dilakukan dengan cara membandingkan Probability dari Cross Section – F dengan α = 0,05.
+Dalam Uji Chow ini digunakan Hipotesis sebagai berikut :
+Hο : Model PLS (Restriced)
+H1 : Model Fixed Effect (Unresticed)
+Dari hasil pengujian Uji Chow yang dilakukan pada penelitian ini, didapat hasil sebagai berikut :
+Tabel 1.
+F-Restriced / Uji Chow
+Effects Test
+Statistik
+d.f.
+Prob.
+Cross-section F
+1.409013
+(25,101)
+0.1189
+Cross-section Chi-square
+38.894678
+25
+0.0377
+Sumber: hasil olahan
+Berdasarkan hasil uji Chow di atas didapat hasil bahwa nilai probabilitas dari Cross - Section F 0.1189 > alpha (α) sebesar 0,05 % yang berarti Ho diterima, yang berarti dalam penelitian ini menerima Pooled Least Square (PLS). Oleh karena hasil dari uji chow menunjukkan bahwa model lebih baik menggunakan Pooled Least Square (PLS ), maka tidaklah diperlukan melakukan Uji Hausman.
+Berikut adalah nilai dari probability t - statistik dalam penelitian ini :
+
+Tabel 2.
+Nilai probability t – statistik
+Variabel
+Coefficient
+Std. Error
+t-Statistik
+Prob.
+PAD?
+1.771714
+0.091144
+19.43859
+0.0000
+DAU?
+1.228272
+0.083920
+14.63622
+0.0000
+DAK?
+1.231829
+0.545238
+2.259251
+0.0256
+C
+6.01E+10
+3.80E+10
+1.581966
+0.1162
+Sumber: hasil olahan
+Hasil Uji Hipotesis variabel PAD
+Dari hasil diatas dapat dilihat bahwa nilai dari probability t statistik yang dimiliki oleh PAD adalah sebesar 0.0000 < α = 0,05, maka H1 diterima yang berarti bahwa PAD memiliki pengaruh yang signifikan terhadap Belanja Daerah.
+Hasil Uji Hipotesis variabel DAU
+Dari hasil uji t di atas dapat dilihat bahwa nilai probability t statistik yang dimiliki oleh variabel DAU adalah sebesar 0.0000 < α = 0,05, maka H1 diterima yang berarti bahwa DAU memiliki pengaruh yang signifikan terhadap Belanja Daerah.
+Hasil Uji Hipotesis variabel DAK
+Dari hasil uji t daiatas dapat dilihat bahwa nilai probability t statistik yang dimiliki oleh variabel DAK adalah sebesar 0.0256 < α = 0,05, maka H1 diterima yang berarti bahwa DAK memiliki pengaruh yang signifikan terhadap Belanja Daerah.
+Pengaruh PAD terhadap belanja Daerah
+Pendapatan Asli Daerah dapat diartikan sebagai sumber keuangan daerah yang digali dari wilayah daerah yang bersangkutan yang mana terdiri dari pajak daerah, retribusi daerah, hasil pengelolaan kekayaan daerah yag dipisahkan dan lain - lain pendapatan yang sah (UU No 28 Tahun 2009). Hasil yang diperoleh dari penelitian ini menyatakan bahwa PAD mempunyai pengaruh yang signifikan pada tingkat kepercayaan sebesar 5 %.
+Dapat dikatakan memiliki pengaruh yang signifikan karena nilai probabilitas yang dimiliki oleh PAD dalam penelitian ini adalah sebesar 0.0000 yang mana nilai ini lebih kecil dari tingkat kepercayaan yang telah ditentukan yaitu 5 % = 0,05 dan nilai koefisien dari PAD memiliki nilai sebesar 1.771714 yang artinya adalah ketika PAD  naik sebesar 1 Milyar maka belanja daerah akan naik sebesar 1,77 Milyar dengan asumsi variabel lainnya dianggap tetap.
+PAD yang memiliki pengaruh yang signifikan terhadap Belanja Daerah dalam penelitian ini sangatlah wajar, ini dikarenakan PAD merupakan salah satu sumber utama penerimaan daerah. Selain itu daerah yang ada di dalam propinsi ini juga merupakan daerah yang rata - rata memiliki tingkat PAD yang tinggi, bahkan ada beberapa daerah yang ada di dalam penelitian ini yang masuk ke dalam daftar daerah yang memiliki nilai PAD tertinggi di Indonesia menurut DJPK Depkeu.
+Pengaruh yang signifikan dari PAD terhadap Belanja Daerah pada penelitian ini sesuai dengan penelitian yang dilakukan oleh Afrizawati (2012), Adventinus Kristanto Lambut DKK (2013), Nugraeni (2011), dan Ida Mentayani Dkk (2012) yang mana dalam penelitiannya masing - masing mengatakan bahwa PAD memiliki pengaruh yang signifikan terhadap belanja daerah.
+Pengaruh DAU terhadap Belanja Daerah
+Dana Alokasi Umum (DAU) adalah dana yang diberikan oleh pemerintah pusat kepada pemerintah daerah yang berasal dari APBN yang tujuan diberikannya dana ini adalah untuk pemerataan kemampuan antar daerah melalui penerapan formula yang mempertimbangkan kebutuhan daerah, kebutuhan akan belanja pegawai, kebutuhan fiscal, dan juga potensi daerah (UU No 33 Tahun 2004). DAU ini juga diberikan oleh pemerintah pusat kepada pemerintah daerah untuk menjalankan sistem pemerintahan otonomi daerah agar dapat mencapai tujuan yang diinginkan yaitu kesejahteraan masyarakat di masing - masing daerahnya.
+Dalam penelitian ini, variabel DAU memiliki pengaruh yang signifikan, ini dapat dikatakan demikian karena nilai probability yang dimiliki oleh DAU ini adalah sebesar 0,0000 yang mana nilai ini lebih kecil dari tingkat kepercayaan yang telah ditetapkan yaitu sebesar 5 % atau 0,05 dan nilai koefisien dari DAU ini memiliki nilai sebesar 1.228272 yang berarti bahwa ketika DAU naik sebesar 1 Milyar maka belanja daerah pun akan naik sebesar 1.22 Milyar dengan asumsi variabel lainnya dianggap tetap.
+DAU dapat memiliki pegaruh yang signifikan dikarenakan DAU merupakan transfer pemerintah yang paling besar yang didapat oleh setiap daerah di Indonesia, bahkan besarannya pun bisa melebihi nilai PAD yang dimiliki oleh setiap daerah walaupun tidak seluruh daerah yang DAU nya melebihi nilai PAD yang dimiliki oleh seluruh pemerintah daerah. Oleh karena itu maka wajar saja jika DAU memiliki pengaruh yang signifikan terhadap belanja daerah yang dilakukan oleh pemerintah daerah.
+Pengaruh DAU yang signifikan terhadap belanja daerah yang siginifikan ini sesuai dengan penelitian yang telah dialukan oleh Ida Mentayani Dkk (2012 ), Marthen Anthon Penthury (2011), dan Adventinus Kristanto Lambut dkk (2013) yang mana seluruhnya mengatakan bahwa DAU memiliki pengaruh yang signifikan terhadap Belanja Daerah.
+Pengaruh DAK terhadap Belanja Daerah
+DAK merupakan sumber pendapatan yang dimiliki oleh pemerintah daerah yang juga berasal dari transfer pemerintah pusat sama seperti DAU. Perbedaannya disini adalah DAK diusulkan sendiri oleh pemerintah daerah kepada pemerintah pusat. DAK pun hanya dilakukan untuk mendanai urusan khusus kegiatan pemerintah daerah yang mana kegiatan tersebut juga menjadi prioritas nasional.
+Dalam penelitian ini variabel DAK memiliki pengaruh yang signifikan pada tingkat kepercayaan sebesar 5 %, yakni memiliki nilai probabilitas sebesar 0,0256 dan nilai koefisien dari DAK ini adalah sebesar 1.231829 yang berarti bahwa ketika DAK ini naik sebesar 1 Milyar, maka belanja daerah pun akan ikut naik sebesar 1.23 Milyar dengan asumsi variabel lainnya dianggap tetap.
+DAK dalam penelitian ini memiliki pengaruh yang signifikan terhadap belanja daerah dikarenakan DAK merupakan suatu transfer yang sama halnya dengan DAU, namun bedanya disini adalah DAK hanya dilakukan untuk belanja yang dapat mensejahterakan rakyat melalui belanja dalam hal pelayanan publik dan juga belanja dalam menyediaka sarana dan prasarana yang memadai yang nantinya dapat menarik para investor untuk menanamkan modalnya di daerah tersebut. Sehingga dapat dikatakan DAK ini lebih memprioritaskan kepada belanja langsung, maka dari itu wajar saja jika DAK memiliki pengaruh yang signifikan terhadap Belanja Daerah.
+Pengaruh DAK yang signifikan terhadap belanja daerah ini sesuai dengan penelitian yang dilakukan oleh Nugraeni pada tahun 2011yang juga menyatakan bahwa DAK memiliki pengaruh yang signifikan terhadap belanja daerah.
+Analisis Flypaper Effect
+
+Flypaper Effect dapat dikatakan sebagai suatu kondisi dimana dorongan suatu pengeluaran atau belanja yang dilakukan oleh pemerintah daerah meningkat lebih besar karena disebabkan oleh perubahan transfer yang diberikan oleh pemerintah pusat dibandingkan dengan perubahan yang disebabkan oleh pendapatan asli daerahnya sendiri. Dampak dari terjadinya Flypaper Effect biasanya bersifat negatif karena ini menyebutkan adanya ketidak mandirian yang terjadi pada suatu daerah, maksud dari ketidak mandirian disini adalah pemerintah daerah lebih bergantung atau lebih mengharapkan bantuan transfer dari pemerintah pusat untuk melakukan belanja atau pengeluaran daerah dibandingkan dengan menggunakan pendapatan yang berasal dari daerahnya sendiri yang biasa disebut dengan Pendapatan Asli Daerah (PAD).
+Secara implisit ada beberapa implikasi dari terjadinya Flypaper Effect pada belanja daerah kabupaten / kota (Walidi, 2009) dalam (Afrizawati, 2012) yaitu :
+a. Menyebabkan celah kepincangan fiskal (Fiscal Gap) akan tetap ada. Fiscal Gap merupakan suatu kerangka kebijakan pemerintah pusat dalam memberikan transfer berupa DAU kepada daerah, maka dari itu jika terjadi Flypaper Effect artinya pencapaian pemberian dana transfer ini menjadi kurang optimal.
+b. Menimbulkan ketidakmaksimalan dalam pemanfaatan sumber - sumber penghasil pertumbuhan PAD, yaitu seperti peningkatan penerimaan pajak daerah, serta sumber daya alam lainnya.
+c. Menyebabkan unsur ketergantungan daerah kepada pemerintah pusat tetap ada, karena secara langsung pemberian DAU kepada daerah yang berarti pemerintah pusat mensubsidi pengeluaran daerah untuk mengurangi beban pembiayaan, sehingga jika ini terus berlanjut nantinya akan akan melemahkan kemampuan daerah dalam membiayai kebutuhannya sendiri.
+d. Adanya respon yang berlebihan dalam pemanfaatan dana transfer dimana seharusnya pemerintah pusat membuat kinerja monitoring dan evaluasi pada penggunaan dana DAU, hal ini diperlukan untuk mencegah respon yang berlebihan dalam menyikapi penerimaan DAU di daerah.
+e. Mengakibatkan berkurangnya kemampuan kemandirian keuangan daerah pada kabuapaten/kota yang bersangkutan.
+
+Namun dari semua implikasi itu, implikasi yang paling penting dari terjadinya Flypaper Effect adalah pemerintah daerah memperlihatkan perilaku yang tidak seperti biasanya, sehingga terdapat adanya kecenderungan pemerintah daerah yang melakukan manipulasi pengeluaran pemerintah daerah yang setinggi mungkin dengan tidak mengupayakan dalam memaksimalkan PAD agar nantinya dapat memperoleh bantuan berupa transfer dari pemerintah pusat sehingga pemerintah daerah merasa lebih mudah untuk memaksimalkan belanja daerah daripada menempuh cara untuk memaksimalkan PAD.
+Pada awalnya transfer yang dilakukan oleh pemerintah pusat ini diberikan untuk pemerintah daerah agar pemerintah daerah membangun daerahnya dengan cara melakukan suatu belanja yang bersifat produktif seperti pembangunan infrastruktur yang tujuannya adalah untuk menarik para investor agar mau berinvestasi di daerahnya sehingga nantinya akan menaikkan jumlah PAD di daerah tersebut. Selain itu, bisa juga dengan menyediakan pelayanan publik di bidang yang dapat meningkatkan kesejahteraan rakyatnya seperti pelayanan publik di bidang pendidikan dan kesehatan.
+Jika kesejahteraan rakyat telah terpenuhi maka secara otomatis rakyat pun akan bisa membayar pajak daerah yang nantinya pun akan meningkatkan jumlah PAD yang diterima oleh daerah tersebut. Jika dana transfer dari pemerintah pusat berhasil dimanfaatkan dengan baik dan juga berhasil meningkatkan PAD sehingga PAD dapat melebihi jumlah transfer yang diberikan pemerintah pusat maka pemerintah daerah tidak perlu bergantung lagi dari transfer pemerintah pusat karena nilai PAD yang dimilikinya sudah cukup untuk membiayai seluruh belanja yang akan dikeluarkannya. Namun yang terjadi di setiap daerah di Indonesia biasanya adalah transfer yang diberikan oleh pemerintah pusat ini lebih banyak digunakan untuk belanja rutin daerah yang bersifat kurang produktif yang terlampau besar dibandingkan digunakan untuk melakukan belanja modal untuk penyediaan barang publik.
+Untuk mengetahui apakah terjadi Flypaper Effect atu tidak di suatu daerah, maka dapat dilakukan dengan 2 cara ( Pentury, 2011), yaitu:
+a. Dengan melihat pengaruh dari PAD. Jika PAD tidak memiliki pengaruh yang siginifikan terhadap belanja daerah maka dapat dikatakan bahwa telah terjadi Flypaper Effect.
+b. Melihat nilai koefisien dari variabel Independen, yaitu PAD, DAU dan DAK. Jika nilai koefisien yang dimiliki oleh PAD lebih besar dari nilai koefisien yang dimiliki oleh DAU dan DAK maka dapat dikatakan tidak terjadi Flypaper Effect. Sedangkan sebaliknya jika nilai koefisien yang dimiliki oleh salah satu yang berasal dari transfer daerah yaitu DAU atau DAK lebih besar daripada nilai koefisien dari PAD maka dapat dikatakan telah terjadi Flypaper Effect.
+Hasil dari uji regresi yang telah dilakukan dalam penelitian ini diperoleh hasil bahwa variabel PAD memiliki pengaruh yang signifikan terhadap belanja daerah, oleh karena itu untuk melihat apakah terjadi Flypaper Effect di propinsi Jawa Barat pada tahun 2008 - 2012 maka dilihat dengan cara membandingkan nilai koefisien dari PAD dengan DAU dan DAK.
+Dari hasil regresi ini juga didapat bahwa nilai koefisien PAD adalah sebesar 1.77, sedangkan nilai koefisien dari DAU dan DAK masing - masing sebesar 1.22 dan 1.23. Maka dari itu dapat dikatakan bahwa tidak terjadi Flypaper Effect di propinsi Jawa Barat karena nilai koefisien dari PAD ini nilainya lebih besar daripada nilai koefisien dari DAU dan DAK.
+Tidak terjadinya Flypaper Effect di Jawa Barat ini dikarenakan memang rata – rata PAD yang dimiliki oleh kabupaten/kota di Jawa Barat ini memang cukup besar, bahkan ada beberapa kabupaten/kota yang masuk ke dalam kategori kabupaten/kota yang memiliki PAD tinggi di Indonesia menurut Direktorat Jendral Perimbangan Keuangan (DJPK). Tingginya PAD yang dimiliki oleh masing - masing kabupaten/kota di propinsi Jawa barat ini dikarenakan tingginya Investasi yang ada di setiap kabupaten/kota di Jawa Barat, berikut adalah nilai Investasi yang terjadi di Jawa Bara pada tahun 2012 dan 2013:
+Tabel 3.
+Jumlah Realisasi Investasi di Propinsi Jawa Barat tahun 2012 – 2013.
+Tahun
+Jumlah Proyek
+Nilai Investasi
+2012
+1,018
+52,680,540,664,242
+2013
+31.708
+93.518.909.767.520
+Sumber: BKPPMD Propinsi Jawa Barat, tahun 2013 ( diolah ).
+
+Dari tabel diatas dapat dilihat bahwa pada 2 tahun terakhir yaitu tahun 2012 dan 2013 nilai Investasi baik dari PMA maupun PMDN jumlahnya sangat besar, terutama pada tahun 2013. Peningkatan yang terjadi pada tahun 2012 ke tahun 2013 pun nilai investasinyanya meningkat hampir 100%. Tingginya nilai Investasi yang terjadi di setiap kabupaten/kota di propinsi Jawa Barat memberikan dampak positif bagi PAD yang diterima oleh setiap kabupaten/kota karena dengan banyaknya Investasi yang terjadi di setiap kabupaten dan kota ini meningkatkan PAD yang diterima oleh masing - masing kabupaten/kota tersebut.
+Selain dari banyaknya Investasi yang terjadi di propinsi Jawa Barat yang mana meningkatkan jumlah PAD yang diterima oleh masing - masing kabupaten/kota tersebut, Investasi juga dapat menyerap tenaga kerja yang ada di kabupaten/kota tersebut sehingga dapat mengurangi pengangguran dan juga dalam jangka panjang akan meningkatkan PAD yang diterima olehnmasing - masing kabupaten/kota. Berikut adalah penyerapan tenaga kerja yang terjadi dengan adanya Investasi di propinsi Jawa Barat pada tahun 2012 dan 2013:
+Tabel 4.
+Jumlah Realisasi Penyerapan tenaga kerja di
+Propinsi Jawa Barat tahun 2012 – 2013.
+Tahun
+Jumlah Tenaga Kerja
+2012
+445,390
+2013
+311.798
+Sumber: BKPPMD Propinsi Jawa Barat ( diolah ).
+Dari data diatas dapat dilihat bahwa jumlah tenaga kerja yang terserap dengan adanya Investasi yang terjadi di Propinsi Jawa Barat ini menurun dari tahun 2012 ke tahun 2013, namun walaupun demikian penyerapan tenaga kerja dengan adanya investasi yang terjadi di propinsi Jawa Barat ini cukup baik karena jumlah tenaga kerja yang terserap ini mampu melebihi 200.000 tenaga kerja di 2 tahun terakhir ini. Dengan banyaknya jumlah tenaga kerja yang terserap ini maka artinya pada 2 tahun terakhir lebih dari 200.000 pengangguran telah berkurang di Jawa Barat.
+Dengan tingginya PAD yang dimiliki oleh setiap kabupaten/kota yang berada di propinsi Jawa Barat ini maka pemerintah daerah janganlah berpuas diri, pemerintah daerah haruslah tetap berusaha meningkatkan PAD agar tetap  terbebas dari fenomena Flypaper Effect dan juga agar tetap mandiri dalam melakukan belanja daerah. Oleh karena itu maka setiap pemerintah daerah yang ada di propinsi Jawa Barat dalam merancang anggara belanja daerah selalu mengidentifikasi kebutuhan - kebutuhan serta mempertimbangkan kebijaksanaan yang menyangkut pengalokasian pada program - program yang dihubungkan baik dengan tujuan perekonomian secara keseluruhan maupun sasaran spesifik sektoral dan regional tertentu yang mana seperti yang dinyatakan oleh Mustopadijaya.
+Ini dilakukan agar belanja yang dilakukan oleh pemerintah daerah ini tetap kepada belanja produktif yang dalam jangka panjang akan terus meningkatkan PAD yang diterima oleh setiap pemerintah daerah di propinsi Jawa Barat tersebut. Hasil dari penelitian ini yang menunjukkan bahawa tidak terjadi Flypaper Effect ini sama dengan penelitian yang telah dilakukan oleh Ida Mentayani Dkk ( 2012 ) yang sama - sama menyatakan tidak terjadi Flypaper Effect di daerah yang ditelitinya yaitu di kabupaten/kota di propinsi Kalimantan Selatan.
+SIMPULAN
+Hasil dari Uji t pada variabel Pendapatan Asli Daerah ( PAD ) menyatakan bahwa PAD secara parsial memiliki pengaruh secara signifikan terhadap Belanja Daerah. Hasil dari Uji t pada Dana Alokasi Umum (DAU) menyatakan bahwa DAU secara parsial memiliki pengaruh secara signifikan terhadap Belanja Daerah. Hasil dari Uji t pada Dana Alokasi Khusus (DAK) menyatakan bahwa DAK secara parsial memiliki pengaruh secara signifikan terhadap Belanja Daerah. Pada Uji F menjelaska bahwa secara menyeluruh variabel independen dalam penelitian ini yaitu PAD, DAU dan DAK secara simultan memiliki pengaruh yang signifikan terhadap variabel dependen yaitu Belanja Daerah. Dalam penelitian ini dapat dilihat bahwa tidak terjadi fenomena Flypaper Effect di propinsi Jawa Barat.

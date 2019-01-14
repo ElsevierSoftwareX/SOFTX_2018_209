@@ -1,0 +1,528 @@
+﻿MODEL PERUBAHAN DAN ARAHAN PENGGUNAAN
+LAHAN UNTUK MENDUKUNG KETERSEDIAAN
+BERAS DI KABUPATEN BREBES DAN KABUPATEN
+CILACAP
+
+Abstrak : Konversi lahan sawah yang terus meningkat mengancam pemenuhan kebutuhan beras.
+Tujuan penelitian ini adalah menganalisis pola spasial perubahan penggunaan lahan, memprediksi
+perubahan penggunaan lahan pada tahun 2030, menyusun neraca beras pada tahun 2030 dan
+menyusun arahan penggunaan lahan mendukung ketersediaan beras di Kabupaten Brebes dan
+Kabupaten Cilacap. Laju konversi sawah dari tahun 2005 sampai tahun 2015 lebih tinggi dibanding
+di Kabupaten Cilacap. Model perubahan penggunaan lahan dibangun dengan pendekatan cellular
+automata (CA). Hasil prediksi penggunaan lahan tahun 2030 di kedua kabupaten menunjukkan
+permukiman akan semakin berkembang sementara lahan sawah akan semakin mengalami tekanan
+yang tinggi. Diprediksi pada tahun 2030 akan terjadi penurunan luas lahan sawah di kedua
+Kabupaten. Kabupaten Brebes maupun Kabupaten Cilacap hingga tahun 2030 diprediksi masih
+berstatus surplus beras dengan besaran yang terus menurun. Untuk menjaga ketersediaan beras,
+lahan sawah diarahkan untuk dilindungi. Penggunaan lahan semak belukar dan kebun/kebun
+campuran diarahkan menjadi sawah untuk meningkatkan produksi beras.
+Kata kunci: cellular automata, perubahan penggunaan lahan, konversi sawah, ketersediaan beras
+
+
+
+PENDAHULUAN
+Lahan sawah memegang peranan penting dalam penyediaan kebutuhan beras.
+Produksi beras di Indonesia 94% dihasilkan dari lahan sawah, sisanya dihasilkan oleh padi
+ladang yang ditanam di lahan kering. Lahan sawah di Pulau Jawa masih menjadi
+penyumbang produksi beras terbesar, mencapai 53% dari total produksi beras nasional.
+Salah satu provinsi di Pulau Jawa dengan kontribusi produksi beras yang signifikan terhadap
+produksi beras nasional adalah Provinsi Jawa Tengah. Produksi beras Provinsi Jawa Tengah
+periode tahun 2010-2014 mampu menyumbangkan rata-rata 15% dari total produksi beras
+nasional (Pusdatin 2014).Dari 35 jumlah kabupaten/kota yang ada di Provinsi Jawa Tengah,
+Kabupaten Brebes dan Kabupaten Cilacap masuk dalam tiga teratas kabupaten dengan
+kontribusi produksi beras terbesar di Provinsi Jawa Tengah.Pada periode tahun 2010-2014,
+Kabupaten Brebes berkontribusi rata-rata 11% dan Kabupaten Cilacap berkontribusi ratarata
+15% dari total kebutuhan konsumsi beras penduduk Provinsi Jawa Tengah.
+Keberadaan lahan sawah erat kaitannya dengan perkembangan penduduk.
+Perkembangan penduduk di suatu wilayah akan membuat beban wilayah tersebut semakin
+besar dalam menyediakan ruang untuk keperluan penduduknya. Munibah et al. (2009) dalam
+penelitiannya menyatakan pertambahan jumlah penduduk akan mempengaruhi luas lahan
+pertanian dan cenderung mengikuti model linier. Kepadatan penduduk di Kabupaten Brebes
+pada tahun 1995-2010 meningkat dari 939 jiwa/km2 menjadi 1.044 jiwa/km2, sementara
+lahan sawah mengalami pengurangan seluas3.646 ha. Rata-rata Kabupaten Brebes
+kehilangan produksi beras 1.196 ton per tahun akibat terjadinya konversi lahan
+sawah.Demikian halnya di Kabupaten Cilacap, pada tahun 1995-2010 kepadatan penduduk
+meningkat dari 725 jiwa/km2 menjadi 818 jiwa/km2, sementara lahan sawah mengalami
+pengurangan seluas 223 ha. Rata-rata Kabupaten Cilacap kehilangan produksi beras 103 ton
+per tahun akibat terjadinya konversi lahan sawah.
+Statistik pertanian menunjukkan produksi padi sawah masih meningkat setiap
+tahunnya, namun laju pertumbuhan produksinya cenderung menurun. Penurunan laju
+produksi padi sawah salah satunya disebabkan oleh luas lahan sawah yang mengalami
+pertumbuhan negatif akibat masifnya kegiatan konversi lahan sawah (Maulana 2004).
+Konversi lahan sawah mengakibatkan terjadinya pelambatan kapasitas produksi pangan
+(Sudaryanto 2002).Lahan sawah merupakan faktor penting dalam
+pemenuhankebutuhanberassehingga konversi lahan sawah yang terjadi akan mengancam
+ketersediaan beras per kapita (Purbiyanti 2013).Dalam periode lima tahun terakhir, di
+Kabupaten Brebes terjadi penurunan ketersediaan beras per kapita dari 210,87
+kg/kapita/tahun menjadi 197,20 kg/kapita/tahun, sementara di Kabupaten Cilacap terjadi
+penurunan ketersediaan beras per kapita dari 294,64 kg/kapita/tahun menjadi 272,60
+kg/kapita/tahun.
+Model perubahan penggunaan lahan bisa menjadi instrumen untuk memahami
+dinamika konversi lahan sawah dan dampaknya terhadap ketersediaan beras di suatu
+wilayah. Model perubahan penggunaan lahan dapat dimanfaatkan sebagai sistem
+peringatan dini terhadap dampak perubahan penggunaan lahan di masa depan (Latuamury
+2013). Bila pola perubahan yang berlangsung dalam suatu rentang waktu dimodelkan secara
+dinamik dan berbasis spasial maka akan diperoleh informasi tentang lokasi (where) dan luas
+(how much) yang dimungkinkan terjadi di masa depan. Model perubahan penggunaan lahan
+yang didalamnya memuat prediksi konversi lahan sawah diperlukan sebagai bahan antisipasi
+terhadap perubahan fungsi pemanfaatan ruang terutama fungsi sawah sebagai penyedia
+beras.Kajian model perubahan penggunaan lahan dipandang menjadi perlu untuk dilakukan
+di Kabupaten Brebes dan Kabupaten Cilacap.Kabupaten Cilacap dan Kabupaten Brebes
+merupakan kabupaten yang saling berbatasan dengan luas sawah kedua dan ketiga terbesar di Provinsi Jawa Tengah serta mewakili karakteristik tipologi wilayah Pulau Jawa bagian
+selatan dan Pulau Jawa bagian utara.
+Penelitian ini bertujuan untuk menganalisis pola spasial perubahan penggunaan lahan
+di Kabupaten Brebes dan Kabupaten Cilacap, 2) memprediksi perubahan penggunaan lahan
+pada tahun 2030 di Kabupaten Brebes dan Kabupaten Cilacap, 3) menyusun neraca beras
+pada tahun 2030 di Kabupaten Brebes dan Kabupaten Cilacap dan 4) menyusun arahan
+penggunaan lahan mendukung ketersediaan beras di Kabupaten Brebes dan Kabupaten
+Cilacap.
+METODE PENELITIAN
+Lokasi dan Waktu Penelitian
+Penelitian ini dilaksanakan pada bulan Desember 2014 – Oktober 2015 di Kabupaten
+Brebes dan Kabupaten Cilacap Provinsi Jawa Tengah. Daerah penelitian secara geografis
+terletak di 108o4’30” – 109o30’30” BT dan 6o44’56,5” – 7o45’20” LS.
+Jenis dan Sumber Data
+Jenis data terdiri dari data primer dan data sekunder. Data primer berupa citra satelit
+Landsat tahun perekaman 2005, 2010 dan 2015 dari situs penyedia data citra satelit. Data
+sekunder berupa peta rupa bumi indonesia (RBI), peta satuan lahan, peta lereng, peta jenis
+tanah, peta curah hujan, data produksi padi dan data luas tanam padi yang diperoleh dengan
+melakukan penelusuran ke instansi pemilik data, penelusuran situs internet dan pelaksanaan
+studi pustaka.
+Analisis Data
+Analisis Spasial Perubahan Penggunaan Lahan
+Data citra satelit landsat digunakan untuk mendapatkan data penggunaan lahan tahun
+2005, 2010 dan 2015 di wilayah penelitian. Setelah diperoleh peta penggunaan lahan pada
+masing masing tahun, selanjutnya dilakukan deteksi dan analisis spasial perubahan
+penggunaan lahan yang terjadi selama kurun waktu 2005, 2010 dan 2015. Deteksi perubahan
+penggunaan lahandidalamnya memuat informasi terkait konversi lahan sawah. Data
+konversi lahan sawah kemudian ditumpangsusunkan dengan data karakteristik lahan untuk
+dilakukan analisis pola spasial konversi lahan sawah di daerah penelitian
+AnalisisPrediksiPerubahan Penggunaan Lahan
+Model spasial perubahan penggunaan lahan pada penelitian ini didasarkan pada
+kesesuaian lahan setiap tipe penggunaan lahan dan kecenderungan perubahan penggunaan
+lahan pada selang waktu tertentu yang dilakukan dengan metode Cellular Automata (CA).
+Analisis kesesuaian lahan didasarkan pada karakteristik fisik lahanmenggunakan metoda
+matching (pendekatan faktor pembatas) dengan kriteria kesesuaian lahan mengacu pada
+penelitian Amalia (2015).Simulasi perubahan penggunaan lahan pada penelitian ini mengacu
+pada penelitian Munibah (2008) yang dilakukan pada piranti Idrisi dengan modul Celluler
+Automata Markov (CA-Markov). Simulasi perubahan penggunaan lahan nantinya akan
+menghasilkan prediksi konversi lahan sawah tahun 2030. Validasi model didasarkan pada
+nilai kappa yang merepresentasikan tingkat kesesuaian penggunaan lahan hasil simulasi
+dengan penggunaan lahan aktual.
+Analisis Neraca Beras
+Penyusunan neraca beras didasarkan pada dua faktor yaitu faktor kebutuhan konsumsi
+beras dan faktor ketersediaan beras atas dasar kemampuan produksi lahan sawah yang ada
+di tiap kabupaten. Kebutuhan konsumsi beras merupakan fungsi dari jumlah penduduk dan
+konsumsi beras per kapita, sedangkan ketersediaan beras merupakan fungsi dari luas sawah,
+indeks pertanaman (IP), produktifitas dan konstanta rendemen gabah beras. Ketersediaan
+beras per kapita diperoleh dari ketersediaan beras dibagi dengan jumlah penduduk (Irawan
+2007).
+Arahan Penggunaan Lahan Mendukung Ketersediaan Beras
+Arahan penggunaan lahan bertujuan agar di masa mendatang ketersediaan beras dari
+produksi lahan sawah di Kabupaten Brebes dan Kabupaten Cilacap tetap mampu memenuhi
+minimal 25% dari kebutuhan konsumsi penduduk Provinsi Jawa Tengah, dengan rincian
+Kabupaten Brebes berkontribusi minimal 10% dan Kabupaten Cilacap berkontribusi minimal
+15%. Skenario arahan penggunaan lahan didasarkan pada Peraturan Menteri Pertanian
+(Permentan) No. 07/Permentan/OT.140/2/2012 tentang Pedoman Teknis Kriteria dan
+Persyaratan Kawasan, Lahan dan Lahan Cadangan Pertanian Pangan Berkelanjutan
+sertaskenario Peningkatan Produksi Beras Nasional (P2BN). Skenario arahan penggunaan
+lahan yang dibangun adalah:
+1. Lahan sawah beririgasi (sesuai Permentan No. 07/Permentan/OT.140/2/2012)dan
+lahan sawah tidak beririgasi dengan curah hujan minimal 1000 mm/tahun (sesuai Permentan No. 07/Permentan/OT.140/2/2012) dilindungi dan ditetapkan sebagai
+lahan pertanian pangan berkelanjutan serta dilakukan penambahan luas areal tanam
+(semak belukar dengan kesesuaian lahan sawah S1, S2 dan S3 diarahkan menjadi sawah).
+2. Lahan sawah beririgasi (sesuai Permentan No. 07/Permentan/OT.140/2/2012) dan
+lahan sawah tidak beririgasi dengan curah hujan minimal 1000 mm/tahun (sesuai
+Permentan No. 07/Permentan/OT.140/2/2012) dilindungi dan ditetapkan sebagai
+lahan pertanian pangan berkelanjutan serta dilakukan penambahan luas areal
+tanam(semak belukar dengan kesesuaian lahan sawah S1, S2, S3 dan kebun/kebun
+campuran dengan kesesuaian lahan sawah S1, S2 diarahkan menjadi sawah).
+HASIL DAN PEMBAHASAN
+Pola Spasial Perubahan Penggunaan Lahan
+Klasifikasi citra satelit di daerah penelitian menghasilkan8 (delapan) klas penggunaan
+lahan yaitu hutan, kebun/kebun campuran, permukiman, sawah, semak belukar, tambak,
+tegalan/ladang dan tubuh air. Struktur penggunaan lahan terbesar di Kabupaten Brebes dan
+Kabupaten Cilacap adalah lahan sawah. Lahan sawah sebagian besar tersebar di dataran
+rendah pesisir bagian utara dan pesisir bagian selatan. Bagian tengah yang mempunyai
+karakteristik topografi berbukit yang merupakan perbatasan kedua kabupaten didominasi
+oleh penggunaan lahan kebun/kebun campuran.
+Tabel 1 Luas Penggunaan Lahan Kabupaten Brebes Tahun 2005, 2010 Dan 2015
+Jenis
+Penggunaan
+Lahan
+Tahun
+2005
+(Ha)
+Tahun
+2010
+(Ha)
+Tahun
+2015
+(Ha)
+Perubahan Perubahan Perubahan
+2005-2010 2010-2015 2005-2015
+Ha % Ha % Ha %
+Hutan 3.266,22 3.266,22 3.266,22 0,00 0,00 0,00 0,00 0,00 0,00
+Kebun/
+Kebun
+Campuran
+54.975,20 54.904,26 54.790,32 -70,94 -0,13 -113,94 -0,21 -184,88 -0,34
+Permukiman 16.004,14 16.424,96 17.032,08 420,82 2,63 607,12 3,70 1.027,94 6,42
+Sawah 73.461,35 73.021,13 72.504,08 -440,22 -0,60 -517,05 -0,71 -957,27 -1,30
+Semak
+Belukar
+275,80 275,80 275,80 0,00 0,00 0,00 0,00 0,00 0,00
+Tambak 12.354,66 12.442,14 12.497,17 87,48 0,71 55,03 0,44 142,51 1,15
+Tegalan 13.755,10 13.757,96 13.726,80 2,86 0,02 -31,16 -0,23 -28,29 -0,21
+Tubuh Air 2.629,69 2.629,69 2.629,69 0,00 0,00 0,00 0,00 0,00 0,00
+Penggunaan lahan yang mengalami penambahan luasan terbesar dari tahun 2005
+sampai tahun 2015 adalah permukiman. Permukiman terus meningkat luasannya karena
+memiliki nilai economic land rent yang lebih tinggi dibandingkan dengan penggunaan lahan
+lainnya. Penggunaan lahan hutan dan tubuh air tidak mengalami perubahan di kedua
+kabupaten. Hutan dominan berada di Pulau Nusakambangan Kabupaten Cilacap. Status
+Pulau Nusakambangan berada di bawah pengelolaan Kementerian Hukum dan HAM dan
+difungsikan sebagai Lembaga Pemasyarakatan (LP) berkeamanan tinggi. Tingkat
+aksesibilitas yang rendah memungkinkan hutan di pulau ini terkonservasi dengan baik.
+
+Tabel 2 Luas Penggunaan Lahan Kabupaten Cilacap Tahun 2005, 2010 Dan 2015
+
+Jenis
+Penggunaan
+Lahan
+Tahun
+2005
+(Ha)
+Tahun
+2010
+(Ha)
+Tahun
+2015
+(Ha)
+Perubahan Perubahan Perubahan
+2005-2010 2010-2015 2005-2015
+Ha % Ha % Ha %
+Hutan 17.757,11 17.757,11 17.757,11 0,00 0,00 0,00 0,00 0,00 0,00
+Kebun/Kebun
+Campuran
+73.672,12 73.661,05 73.609,20 -11,06 -0,02 -51,85 -0,07 -62,92 -0,09
+Permukiman 37.824,68 37.967,76 38.125,14 143,08 0,38 157,38 0,41 300,46 0,79
+Sawah 75.565,36 75.443,09 75.320,48 -122,27 -0,16 -122,61 -0,16 -244,88 -0,32
+Semak Belukar 4.312,46 4.114,19 4.058,51 -198,27 -4,60 -55,68 -1,35 -253,95 -5,89
+Tambak 2.261,91 2.451,10 2.504,52 189,19 8,36 53,42 2,18 242,61 10,73
+Tegalan 17.054,20 17.053,54 17.072,88 -0,66 0,00 19,34 0,11 18,68 0,11
+Tubuh Air 5.977,83 5.977,83 5.977,83 0,00 0,00 0,00 0,00 0,00 0,00
+Jenis penggunaan lahan yang mengalami pengurangan luasan terbesar adalah
+penggunaan lahan sawah. Terjadinya konversi lahan sawah dapat dilihat dari terus
+berkurangnya luas lahan sawah dari tahun ke tahun. Laju pengurangan sawah dari tahun
+2005 sampai tahun 2015 di Kabupaten Brebes -1,30% atau berkurang seluas 957,27 ha, lebih
+tinggi dibanding laju pengurangan sawah di Kabupaten Cilacap -0,32% atau berkurang seluas
+244,88 ha.
+Gambar 2 Penggunaan Lahan (Kiri) Tahun 2005, (Tengah) Tahun 2010 Dan (Kanan) Tahun 2015
+Dinamika konversi lahan sawah serta arah perubahannya diperoleh dari hasil
+klasifikasi silang (cross classification). Teknik ini pada dasarnya membandingkan atribut
+penggunaan lahan antar titik tahun sehingga bisa diketahui wilayah yang tetap dan wilayah
+yang mengalami perubahan (Trisasongko et al. 2009). Hasil klasifikasi silang menunjukkan
+pola arah perubahan lahan sawah yaitu : a) sawah-permukiman; b) sawah-tegalan/ladang; c)
+sawah-tegalan ladang-permukiman; d) sawah-tambak.
+Pola spasial konversi sawah bisa dilihat juga dengan cara menumpangsusunkan lahan
+sawah terkonversi dengan faktor karakteristik lahan. Konversi lahan sawah terhadap berbagai karakteristik lahan mempunyai pola yang relatif sama antara kedua kabupaten.
+Konversi lahan sawah sebagian besar terjadi pada topografi datar (0-8%) dan dominan
+mengalami konversi menjadi permukiman. Untuk faktor elevasi, konversi lahan sawah
+sebagian besar terjadi pada sawah dengan elevasi <10 mdpl dan dominan mengalami
+konversi menjadi permukiman. Demikian halnya untuk faktor jalan, konversi sawah dominan
+terjadi pada sawah dengan jarak <100 m dari jalan. Namun pada faktor ini, konversi sawah
+ke pemukiman tidak selalu dominan pada semua klas. Lahan sawah yang mengalami
+konversi menjadi permukiman hanya dominan pada jarak kurang dari 500 m dari jalan.
+Konversi lahan sawah di atas jarak 500 m dominan berubah menjadi tambak. Hal ini
+menunjukkan proses konversi lahan sawah menjadi permukiman sangat mempertimbangkan
+faktor aksesibilitas. Hasil analisis juga menunjukkan konversi lahan sawah dominan terjadi
+pada daerah dengan tingkat kepadatan penduduk yang tinggi.
+Gambar 3. Pola Spasial Konversi Lahan Sawah Terhadap Berbagai Karakteristik Lahan
+Prediksi Perubahan Penggunaan Lahan
+Analisis Kesesuaian Lahan
+Pengalokasian lahan pada model diperoleh dari analisis kesesuaian lahan.Masingmasing
+peta kesesuaian penggunaan lahan diberi bobotdengan kisaran1 sampai dengan 255
+sesuai dengan tingkat kesesuaiannya. Nilai 1 digunakan sebagai bobot minimal dan 255
+digunakan sebagai bobot maksimal.
+
+Gambar 4. Kesesuaian Penggunaan Lahan Sawah, Tegalan/Ladang Dan Kebun/Kebun Campuran
+Gambar 5. Kesesuaian Penggunaan Lahan Permukiman, Tambak, Hutan
+Validasi Model
+Validasi model dilakukan dengan membandingkan penggunaan lahan tahun
+2015 hasil prediksi dibandingkan dengan penggunaan lahan tahun 2015 aktual berdasarkan
+pada nilai kappa. Semakin tinggi nilai kappa berarti semakin tinggi tingkat ketepatan
+penggunaan lahan hasil prediksi dengan penggunaan lahan aktual. Prediksi penggunaan
+lahan tahun 2015 diperoleh berdasarkan kecenderungan perubahan penggunaan lahan tahun
+2005 dan 2010 dengan menjalankan model simulasi Cellular Automata-Markov (CAMarkov).
+Tabel 3 Matrik Transisi Perubahan Penggunaan Lahan Tahun 2005-2010
+Penggunaan
+Lahan
+Tahun 2005
+Penggunaan Lahan Tahun 2010
+Hutan
+Kebun/Kebun
+Campuran
+Permukiman Sawah
+Semak
+Belukar
+Tambak
+Tegalan/
+Ladang
+Tubuh
+Air
+
+Hutan 1,0000 0,0000 0,0000 0,0000 0,0000 0,0000 0,0000 0,0000
+Kebun/Kebun
+Campuran
+0,0000 0,9994 0,0005 0,0000 0,0000 0,0001 0,0000 0,0000
+Permukiman 0,0000 0,0000 1,0000 0,0000 0,0000 0,0000 0,0000 0,0000
+Sawah 0,0000 0,0000 0,0032 0,9962 0,0000 0,0005 0,0001 0,0000
+Semak Belukar 0,0000 0,0000 0,0020 0,0000 0,9568 0,0413 0,0000 0,0000
+Tambak 0,0000 0,0000 0,0003 0,0000 0,0000 0,9997 0,0000 0,0000
+Tegalan/Ladan
+g
+0,0000 0,0000 0,0003 0,0000 0,0000 0,0000 0,9997 0,0000
+Tubuh Air 0,0000 0,0000 0,0000 0,0000 0,0000 0,0000 0,0000 1,0000
+Matrik transisi perubahan penggunaan lahan tahun 2005-2010 menunjukkan
+kemungkinan terjadinya perubahan penggunaan lahan berkisar antara 0,01%-4,13%.
+Penggunaan lahan sawah mempunyai kemungkinan konversi menjadi tegalan/ladang
+0,001%, konversi menjadi permukiman 0,32% dan konversi menjadi tambak 0,05%. Simulasi
+model dilakukan pada iterasi 2, 4, 6, 8, 10, 12, 14, 16, 18 dan 20. Simulasi pada proses ini
+menghasilkan beberapa peta prediksi penggunaan lahan tahun 2015 sesuai iterasi yang
+digunakan. Tiap peta prediksi tahun 2015 yang dihasilkan kemudian dibandingkan dengan
+penggunaan lahan tahun 2015 aktual untuk mendapatkan peta prediksi dengan nilai kappa
+yang tinggi dan jumlah iterasi yang paling optimal.
+Gambar 5 NilaiKappa Pada Setiap Iterasi
+Hasil validasi model menunjukkan nilai kappa relatif tinggi yaitu berkisar antara
+92,33%-92,93%, Ini berarti hasil prediksi penggunaan lahan tahun 2015 dengan penggunaan
+lahan 2015 aktual mempunyai tingkat ketepatan 92,33%-92,93%. Semakin banyak jumlah
+iterasi maka waktu yang dibutuhkan dalam menjalankan model akan semakin lama.
+Pertimbangan tersebut digunakan untuk memilih iterasi ke-8 sebagai iterasi yang paling
+optimal.
+
+Prediksi Penggunaan Lahan Tahun 2030
+Penggunaan lahan tahun 2030 diprediksi dengan menggunakan penggunaan lahan
+tahun 2015 sebagai tahun dasar, kesesuaian penggunaan lahan, filter default 5x5 dan matrik
+transisi perubahan penggunaan lahan tahun 2010-2015 dengan iterasi model sebanyak 8
+(delapan). Matrik transisi perubahan penggunaan lahan tahun 2010-2015 menunjukkan
+kemungkinan terjadinya perubahan penggunaan lahan berkisar antara 0,004%-3,61%.
+Penggunaan lahan sawah mempunyai kemungkinan mengalami konversi menjadi
+tegalan/ladang 0,006%, konversi menjadi permukiman 1,13% dan konversi menjadi tambak
+0,09%.
+Tabel4 Matrik Transisi Perubahan Penggunaan Lahan Tahun 2010-2015
+Penggunaan Lahan
+Tahun 2010
+Penggunaan Lahan Tahun 2015
+Hutan
+Kebun/Kebun
+Campuran
+Permukiman Sawah
+Semak
+Belukar
+Tambak
+Tegalan/
+Ladang
+Tubuh
+Air
+Hutan 1,0000 0,0000 0,0000 0,0000 0,0000 0,0000 0,0000 0,0000
+Kebun/Kebun
+Campuran
+0,0000 0,9961 0,0035 0,0000 0,0000 0,0004 0,0000 0,0000
+Permukiman 0,0000 0,0000 1,0000 0,0000 0,0000 0,0000 0,0000 0,0000
+Sawah 0,0000 0,0000 0,0113 0,9872 0,0000 0,0009 0,0006 0,0000
+Semak Belukar 0,0000 0,0015 0,0000 0,0000 0,9623 0,0361 0,0000 0,0000
+Tambak 0,0000 0,0000 0,0019 0,0000 0,0000 0,9981 0,0000 0,0000
+Tegalan/Ladang 0,0000 0,0000 0,0041 0,0000 0,0000 0,0000 0,9959 0,0000
+Tubuh Air 0,0000 0,0000 0,0000 0,0000 0,0000 0,0000 0,0000 1,0000
+Tabel 5 Penggunaan Lahan Kabupaten Brebes Tahun 2015 Dan Prediksi Tahun 2030
+Jenis Penggunaan Lahan
+Tahun 2015 Tahun 2030 Perubahan 2015-2030
+(Ha) (Ha) Ha %
+Hutan 3.266,22 3.266,22 0,00 0,00
+Kebun/Kebun Campuran 54.790,32 54.522,39 -267,93 -0,49
+Permukiman 17.032,08 18.702,28 1.670,20 9,81
+Sawah 72.504,08 70.949,88 -1.554,20 -2,14
+Semak Belukar 275,80 275,80 0,00 0,00
+Tambak 12.497,17 12.684,61 187,44 1,50
+Tegalan/Ladang 13.726,80 13.691,29 -35,51 -0,26
+Tubuh Air 2.629,69 2.629,69 0,00 0,00
+Tabel 6 Penggunaan Lahan Kabupaten Cilacap Tahun 2015 Dan Prediksi Tahun 2030
+Jenis Penggunaan Lahan
+Tahun 2015 Tahun 2030 Perubahan 2015-2030
+(Ha) (Ha) Ha %
+Hutan 17.757,11 17.757,11 0,00 0,00
+Kebun/Kebun Campuran 73.609,20 73.363,28 -245,92 -0,33
+Permukiman 38.125,14 38.704,24 579,10 1,52
+Sawah 75.320,48 74.987,09 -333,39 -0,44
+Semak Belukar 4.058,51 3.919,50 -139,01 -3,43
+Tambak 2.504,52 2.643,98 139,46 5,57
+Tegalan/Ladang 17.072,88 17.072,64 -0,24 0,00
+
+Jenis Penggunaan Lahan
+Tahun 2015 Tahun 2030 Perubahan 2015-2030
+(Ha) (Ha) Ha %
+Tubuh Air 5.977,83 5.977,83 0,00 0,00
+Gambar 3 Prediksi Penggunaan Lahan Tahun 2030
+Hasil prediksi penggunaan lahan tahun 2030 di kedua kabupaten menunjukkan
+penggunaan lahan yang mengalami penambahan luasan adalah permukiman dan tambak,
+sedangkan penggunaan lahan yang mengalami pengurangan luas adalah kebun/kebun
+campuran, sawah, semak belukar dan tegalan/ladang. Penambahan luasan terbesar terjadi
+pada penggunaan lahan permukiman dan pengurangan luasan terbesar terjadi pada
+penggunaan lahan sawah. Hal ini menunjukkan di masa depan, permukiman akan semakin
+berkembang sementara lahan sawah akan semakin mengalami tekanan yang tinggi.
+Diprediksi pada tahun 2030 akan terjadi penurunan luas lahan sawah seluas 1.554,20 ha di
+Kabupaten Brebes dan 333,39 ha di Kabupaten Cilacap.
+Neraca Beras
+Untuk perhitungan ketersediaan beras tahun 2030 di Kabupaten Brebes dan
+Kabupaten Cilacap, luas sawah yang digunakan adalah luas sawah hasil prediksi. Luas sawah
+tersebut merupakan luas sawah kotor, sehingga untuk perhitungan produksi beras dikalikan
+terlebih dahulu dengan faktor konversi luas bersih sawah (konversi galengan) Provinsi Jawa
+Tengah 0,96. Asumsi lain yang digunakan antara lain : produktivitas sawah Kabupaten
+Brebes 6,14 ton GKG/Ha dan Kabupaten Cilacap 5,79 ton GKG/Ha (rata-rata produktivitas
+sawah tahun 1995-2014); indeks pertanaman (IP) Kabupaten Brebes 1,34 dan Kabupaten Cilacap 2,01 (rata-rata IP sawah tahun 1995-2014); konversi gabah kering giling (GKG) ke
+beras 62,27 (konversi GKG ke beras Provinsi Jawa Tengah tahun 2012).
+Pada perhitungan kebutuhan beras tahun 2030, konsumsi beras per kapita
+diasumsikan 97,09 kg/kapita/tahun (rata-rata konsumsi beras per kapita Provinsi Jawa
+Tengah tahun 2007-2011). Untuk jumlah penduduk dilakukan pendugaan menggunakan
+model persamaan pertumbuhan dengan mendasarkan pada data penduduk tahun 1981
+sampai tahun 2014. Hasil analisis menunjukkan model pertumbuhan penduduk di kedua
+kabupaten cenderung mengikuti model saturasi. Proyeksi penduduk di Kabupaten Brebes
+mengikuti persamaan:
+y = (1.8806)*exp((0.631837)+(0.067087)*x)/(1+exp((0.631837)+(0.067087)*x))
+dengan nilai R2 0,97.
+Proyeksi penduduk di Kabupaten Cilacap mengikuti persamaan :
+y = (1.96719)*exp((0.651627)+(0.049284)*x)/(1+exp((0.651627)+(0.049284)*x))
+dengan nilai R2 0,98.
+Tabel 7 Neraca Beras Kabupaten Brebes
+Komponen
+Tahun
+2005 2010 2015 2030
+Luas sawah (ha) 73.461,35 73.021,13 72.504,08 70.949,88
+Ketersediaan beras (ton) 361.518,14 359.351,73 356.807,22 349.158,71
+Ketersediaan beras per kapita
+(kg/kapita/tahun)
+209,25 206,96 199,37 189,11
+Konsumsi beras per kapita (kg/kapita/tahun) 97,09
+Jumlah penduduk (jiwa) 1.727.708 1.736.331 1.789.686 1.846.313
+Kebutuhan konsumsi beras (ton) 167.743,17 168.580,38 173.760,61 179.258,53
+Selisih (ketersediaan - kebutuhan) (ton) 193.774,97 190.771,35 183.046,61 169.900,18
+Status Neraca Beras Surplus Surplus Surplus Surplus
+Jumlah penduduk propinsi (jiwa) 32.908.850 32.382.657 33.774.100 36.751.700
+Kebutuhan konsumsi beras propinsi (ton) 3.195.120,25 3.144.032,17 3.279.127,37 3.568.222,55
+Kontribusi (%) 11,31 11,43 10,88 9,79
+Tabel 8 Neraca Beras Kabupaten Cilacap
+Komponen
+Tahun
+2005 2010 2015 2030
+Luas sawah (ha) 75.565,36 75.443,09 75.320,48 74.987,09
+Ketersediaan beras (ton) 525.462,82 524.612,58 523.759,97 521.441,63
+Ketersediaan beras per kapita
+(kg/kapita/tahun)
+306,17 300,00 290,97 276,82
+Konsumsi beras per kapita (kg/kapita/tahun) 97,09
+Jumlah penduduk (jiwa) 1.716.235 1.748.705 1.800.024 1.883.665
+Kebutuhan konsumsi beras (ton) 166.629,26 169.781,77 174.764,33 182.885,03
+Selisih (ketersediaan - kebutuhan) (ton) 358.833,57 354.830,81 348.995,64 338.556,59
+Status Neraca Beras Surplus Surplus Surplus Surplus
+Jumlah penduduk propinsi (jiwa) 32.908.850 32.382.657 33.774.100 36.751.700
+Kebutuhan konsumsi beras propinsi (ton) 3.195.120,25 3.144.032,17 3.279.127,37 3.568.222,55
+Kontribusi (%) 16,45 16,69 15,97 14,61
+Hasil perhitungan neraca memperlihatkan ketersediaan beras per kapita di Kabupaten
+Brebes dan Kabupaten Cilacap dari tahun ke tahun semakin menurun. Hal ini menunjukkan
+laju ketersediaan beras tidak mampu mengimbangi laju kebutuhan beras yang terus
+meningkat seiiring dengan berkembangnya penduduk. Status neraca beras hingga tahun 2030 masih surplus dengan besaran surplus yang terus menurun. Hasil prediksi
+menunjukkan pada tahun 2030 ketersediaan beras dari produksi lahan sawah di Kabupaten
+Brebes dan Kabupaten Cilacap tidak mampu memenuhi target kontribusi pemenuhan
+kebutuhan konsumsi beras penduduk Provinsi Jawa Tengah.
+Arahan Penggunaan Lahan Mendukung Ketersediaan Beras
+Hasil prediksi menunjukkan pada tahun 2030 Kabupaten Brebes hanya mampu
+berkontribusi 9,79% dari target 10% dan Kabupaten Cilacap berkontribusi 14,61% dari target
+15% kebutuhan konsumsi beras Provinsi Jawa Tengah. Skenario 1 dan 2 diimplementasikan
+ke model untuk mencapai target tersebut. Hasil simulasi skenario 1 menunjukkan Kabupaten
+Brebes mampu memenuhi target dengan kontribusi 10,01%, namun untuk Kabupaten
+Cilacap belum mampu memenuhi target dengan kontribusi 14,68%. Pada penerapan
+skenario 2, Kabupaten Cilacap mampu memenuhi target dengan kontribusi 16,28%.
+Tabel 9 Neraca Beras Kabupaten Brebes Hasil Simulasi Skenario 1 & 2
+Komponen
+Tahun
+2015 2030
+2030 2030
+(Skenario 1) (Skenario 2)
+Luas sawah (ha) 72.504,08 70.949,88 72.559,86 79.363,04
+Ketersediaan beras (ton) 356.807,22 349.158,71 357.081,73 390.561,54
+Ketersediaan beras per kapita
+(kg/kapita/tahun)
+199,37 189,11 193,40 211,54
+Konsumsi beras per kapita (kg/kapita/tahun) 97,09
+Jumlah penduduk (jiwa) 1.789.686 1.846.313 1.846.313 1.846.313
+Kebutuhan konsumsi beras (ton) 173.760,61 179.258,53 179.258,53 179.258,53
+Selisih (ketersediaan - kebutuhan) (ton) 183.046,61 169.900,18 177.823,20 211.303,01
+Status Neraca Beras Surplus Surplus Surplus Surplus
+Jumlah penduduk propinsi (jiwa) 33.774.100 36.751.700 36.751.700 36.751.700
+Kebutuhan konsumsi beras propinsi (ton)
+3.279.127,3
+7
+3.568.222,5
+5
+3.568.222,5
+5
+3.568.222,5
+5
+Kontribusi (%) 10,88 9,79 10,01 10,95
+Tabel 10 Neraca Beras Kabupaten Brebes Hasil Simulasi Skenario 1 & 2
+Komponen
+Tahun
+2015 2030
+2030 2030
+(Skenario 1) (Skenario 2)
+Luas sawah (ha) 75.320,48 74.987,09 75.343,42 83.548,00
+Ketersediaan beras (ton) 523.759,97 521.441,63 523.919,47 580.972,13
+Ketersediaan beras per kapita
+(kg/kapita/tahun)
+290,97 276,82 278,14 308,43
+Konsumsi beras per kapita (kg/kapita/tahun) 97,09
+Jumlah penduduk (jiwa) 1.800.024 1.883.665 1.883.665 1.883.665
+Kebutuhan konsumsi beras (ton) 174.764,33 182.885,03 182.885,03 182.885,03
+Selisih (ketersediaan - kebutuhan) (ton) 348.995,64 338.556,59 341.034,44 398.087,09
+Status Neraca Beras Surplus Surplus Surplus Surplus
+Jumlah penduduk propinsi (jiwa) 33.774.100 36.751.700 36.751.700 36.751.700
+Kebutuhan konsumsi beras propinsi (ton)
+3.279.127,3
+7
+3.568.222,5
+5
+3.568.222,5
+5
+3.568.222,5
+5
+Kontribusi (%) 15,97 14,61 14,68 16,28
+Untuk menjaga ketersediaan beras dan memenuhi target kontribusi pemenuhan
+kebutuhan beras Provinsi Jawa Tengah tahun 2030, lahan sawah beririgasi dan lahan sawah
+tidak beririgasi dengan curah hujan minimal 1000 mm/tahun di Kabupaten Brebes dan Kabupaten Cilacap diarahkan untuk dilindungi. Penggunaan lahan semak belukar dengan
+kesesuaian lahan sawah S1, S2 dan S3 di kedua kabupaten diarahkan untuk sawah.
+Penggunaan lahan kebun/kebun campuran dengan kesesuaian lahan sawah S1 dan S2 di
+Kabupaten Cilacap diarahkan untuk sawah.
+KESIMPULAN
+Penggunaan lahan yang mengalami penambahan luasan terbesar dari tahun 2005
+sampai tahun 2015 adalah permukiman, sedangkan pengurangan luasan terbesar adalah
+lahan sawah. Laju konversi sawah dari tahun 2005 sampai tahun 2015 di Kabupaten Brebes
+-1,30% atau terjadi pengurangan seluas 957,27 ha dan di Kabupaten Cilacap -0,32% atau
+terjadi pengurangan seluas 244,88 ha. Sawah terkonversi menjadi permukiman,
+tegalan/lading dan tambak dan dominan terjadi pada daerah dengan topografi datar (0-8%),
+elevasi <10 mdpl, berjarak<100 m dari jalan dan wilayah dengan kepadatan penduduk tinggi
+(>1500 jiwa/km2).
+Hasil prediksi penggunaan lahan tahun 2030 di kedua kabupaten menunjukkan
+permukiman akan semakin berkembang sementara lahan sawah akan semakin mengalami
+tekanan yang tinggi. Diprediksi pada tahun 2030 akan terjadi penurunan luas lahan sawah di
+Kabupaten Brebes seluas 1.554,20 ha dan di Kabupaten Cilacap seluas333,39 ha.
+Kabupaten Brebes dan Kabupaten Cilacap hingga tahun 2030 diprediksi masih
+berstatus surplus beras dengan besaran surplus yang terus menurun. Laju ketersediaan beras
+diprediksi tidak mampu mengimbangi laju kebutuhan beras yang terus meningkat. Pada
+tahun 2030 ketersediaan beras Kabupaten Brebes diprediksi hanya mampu berkontribusi
+9,79% dari target 10% dan Kabupaten Cilacap berkontribusi 14,61% dari target 15%
+kebutuhan konsumsi beras Provinsi Jawa Tengah.
+Untuk menjaga ketersediaan beras, lahan sawah di Kabupaten Brebes dan Kabupaten
+Cilacap diarahkan untuk dilindungi dan ditetapkan sebagai lahan pertanian pangan
+berkelanjutan. Semak belukar dengan kesesuaian lahan sawah S1, S2 dan S3 di kedua
+kabupaten dan kebun/kebun campuran dengan kesesuaian lahan sawah S1 dan S2 di
+Kabupaten Cilacap diarahkan menjadi sawah untuk meningkatkan produksi beras.

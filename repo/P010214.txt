@@ -1,0 +1,648 @@
+﻿Pendahuluan
+Makalah ini membahas masalah penjadwalan
+pekerjaan majemuk dengan sumberdaya simultan.
+
+
+Masalah penjadwalan melibatkan lebih dari satu
+pekerjaan dengan tiap pekerjaan terdiri atas satu
+himpunan operasi. Tiap operasi memerlukan
+pengerjaan secara simultan oleh lebih dari satu jenis
+sumberdaya. Jumlah unit dari tiap sumberdaya
+yang digunakan untuk pengerjaan suatu operasi
+adalah satu atau lebih. Masalah terkait dengan
+penentuan jadwal tiap operasi untuk tiap pekerjaan
+yang meminimumkan total tardiness tertimbang
+(total weighted tardiness).
+Masalah penjadwalan pekerjaan yang dibahas
+dalam makalah ini termasuk dalam masalah penjadwalan
+pekerjaan dengan penggunaan sumberdaya
+simultan. Beberapa literatur yang membahas
+masalah penjadwalan ini antara lain adalah Dobson
+dan Karmarkar , Dobson dan Khosla ,
+Suprayogi dan Mardiono , Luh et al. , Toha dan
+1 Fakultas Teknologi Industri, Kelompok Keahlian Sistem Industri
+dan Tekno Ekonomi, Institut Teknologi Bandung, Jl. Ganesha 10,
+Bandung 40132. Indonesia. Email: yogi@mail.ti.itb.ac.id
+2 Fakultas Teknologi Industri, Program Studi Sarjana Teknik
+Industri, Institut Teknologi Bandung, Jl. Ganesha 10, Bandung
+40132, Indonesia. Email: valentine.kosasih@gmail.com.
+*Penulis korespondensi
+Halim , Suprayogi dan Toha , Suprayogi dan
+Partono , Suprayogi et al. , Wu dan Chien
+ dan Wu et al. .
+Suprayogi et al.  telah membahas masalah ini dan
+merumuskannya ke dalam model pemrograman
+linear bilangan bulat. Algoritma genetika telah diusulkan
+untuk memecahkannya. Algoritma genetika
+perlu dijalankan dalam sejumlah replikasi untuk
+mencari solusi terbaik, karena bersifat probabilistik.
+Dalam makalah ini, teknik pemecahan berbasis relaksasi
+Lagrange diusulkan sebagai teknik pemecahan.
+Teknik relaksasi Lagrange merupakan teknik
+yang efektif untuk memecahkan masalah.
+Teknik pemecahan yang diusulkan merupakan
+pengembangan lanjutan dari teknik pemecahan
+yang telah diusulkan oleh Suprayogi dan Partono. Di sini, teknik pemecahan dimodifikasi dengan
+mengakomodasi masalah penjadwalan dengan
+penggunaan lebih dari satu unit untuk tiap sumberdaya.
+Kerangka dari teknik relaksasi Lagrange
+yang digunakan mirip dengan yang terdapat dalam
+Kaskavelis dan Caramanis , Luh et al., Hoitomt et al. , Luh dan Hoitomt , Luh et
+al. , Chen dan Hsia , Luh et al.  dan
+Zhang et al. 
+
+
+Metode Penelitian
+Definisi Masalah Penjadwalan Pekerjaan
+Definisi masalah penjadwalan pekerjaan yang dibahas
+dalam makalah ini diambil dari definisi
+masalah yang terdapat dalam Suprayogi et al. .
+Definisi masalah penjadwalan diuraikan berikut ini.
+Misal terdapat suatu himpunan terdiri atas
+pekerjaan yang dinyatakan dengan * +.
+Tiap pekerjaan , terdiri atas suatu himpunan
+yang terdiri atas operasi yang dinyatakan
+dengan * +. Untuk tiap pekerjaan
+, himpunan operasi yang mendahului operasi
+dinyatakan dengan . Tiap pekerjaan
+memiliki saat tenggat (due date) yang dinyatakan
+dengan dan tingkat kepentingan dinyatakan
+dengan . Misal menyatakan himpunan
+sumberdaya dan menyatakan himpunan
+jenis sumberdaya yang digunakan untuk mengerjakan
+operasi untuk pekerjaan . Waktu
+pengerjaan tiap operasi untuk pekerjaan
+dinyatakan dengan ( dan bilangan
+bulat). Horizon waktu didiskritisasi yang terdiri atas
+slot waktu dengan himpunan slot waktu
+dinyatakan dengan , yaitu: * +.
+Jumlah sumberdaya yang digunakan
+operasi untuk pekerjaan dinyatakan
+dengan ( dan bilangan bulat). Ketersediaan
+sumberdaya pada slot waktu
+direpresentasikan dengan notasi ( dan
+bilangan bulat). Masalah penjadwalan terkait
+dengan penentuan jadwal pengerjaan tiap operasi
+untuk tiap pekerjaan pada tiap
+sumberdaya , yaitu saat mulai (
+dan bilangan bulat) dan saat selesai (
+dan bilangan bulat) yang meminimumkan total
+tardiness tertimbang dengan memperhatikan pembatas
+ketergantungan operasi dan ketersediaan
+sumberdaya.
+Asumsi-asumsi
+Asumsi-asumsi yang digunakan dalam masalah
+penjadwalan pekerjaan ini adalah sebagai berikut:
+(1) setiap pekerjaan saling independen, (2)
+pengerjaan tiap operasi untuk tiap pekerjaan
+tidak dapat diinterupsi, (3) untuk tiap operasi
+dalam tiap pekerjaan yang menggunakan
+sumberdaya , lama waktu pengerjaannya
+adalah sama sebesar (4) setiap unit dari
+tiap jenis sumberdaya adalah identik, (5)
+setiap pekerjaan digambarkan dalam bentuk
+jaringan dengan operasi pada simpul dan hubungan ketergantungan antar operasi membentuk suatu
+jaringan berarah tak bersiklus dengan setiap
+pekerjaan hanya memiliki satu operasi terakhir, (6)
+tiap pekerjaan siap dijadwalkan pada saat (7)
+horizon waktu cukup panjang sehingga semua
+pekerjaan dapat dijadwalkan.
+Gambar 1 menunjukkan contoh jaringan dari suatu
+pekerjaan. Untuk contoh pekerjaan ini, terdapat
+empat operasi. Operasi 1 dan 2 adalah operasioperasi
+pertama yang merupakan operasi tanpa
+pendahulu. Operasi 4 adalah operasi terakhir.
+Model Pemrograman Bilangan Bulat
+Perumusan model pemrograman bilangan bulat
+untuk masalah penjadwalan pekerjaan memerlukan
+pendefinisian variabel-variabel keputusan tambahan
+sebagai berikut. Variabel-variabel keputusan
+binier dengan menunjukkan bahwa
+operasi untuk pekerjaan menggunakan
+sumberdaya pada slot waktu dan
+untuk kondisi sebaiknya. Variabel-variabel
+keputusan tak negatif dan yang
+masing-masing menunjukkan saat mulai dan saat
+selesai pengerjaan operasi untuk pekerjaan
+dengan sumberdaya . Variabel-variabel
+keputusan yang menunjukkan saat selesai
+pengerjaan operasi untuk pekerjaan
+dengan
+menunjukkan saat selesai pengerjaan
+operasi terakhir untuk pekerjaan . Variabelvariabel
+keputusan merepresentasikan saat selesai
+pengerjaan pekerjaan . Model pemrograman
+bilangan bulat untuk masalah penjadwalan
+pekerjaan dengan horison waktu diskrit dalam
+suatu himpunan slot waktu * + dinyatakan
+sebagai berikut (disebut model ):
+
+
+Persamaan (1) menunjukkan fungsi tujuan yang
+diminimumkan, yaitu jumlah dari tardiness tertimbang.
+Tiap persamaan (2) mendefinisikan saat selesai
+tiap pekerjaan yang bersesuaian dengan saat
+selesai operasi terakhir dari pekerjaan bersangkutan.
+Tiap pertidaksamaan (3) merepresentasikan
+pembatas hubungan ketergantungan untuk tiap
+operasi dari suatu pekerjaan. Tiap pertidaksamaan
+(4) menjamin bahwa saat selesai untuk tiap operasi
+dari tiap pekerjaan lebih besar atau sama dengan
+waktu pengerjaan. Tiap pertidaksamaan (5) merupakan
+pembatas ketersediaan tiap sumberdaya
+pada tiap slot waktu. Pembatas ini menjamin bahwa
+jumlah sumberdaya yang digunakan untuk
+pengerjaan operasi untuk pekerjaan
+pada slot waktu tidak melebihi ketersediaan
+dari tiap jenis sumberdaya. Tiap persamaan (6)
+menunjukkan hubungan antara saat mulai dan saat
+selesai dari tiap operasi untuk masing-masing
+pekerjaan. Tiap persamaan (7) mendefinisikan saat
+mulai pengerjaan untuk operasi dari pekerjaan
+tertentu adalah sama dengan saat mulai pada tiap
+jenis sumberdaya yang digunakan. Tiap persamaan
+(8) mendefinisikan saat selesai untuk operasi dari
+pekerjaan tertentu adalah sama dengan saat selesai
+pada tiap jenis sumberdaya yang digunakan. Tiap
+persamaan (9) menunjukkan hubungan antara
+variabel-variabel keputusan dan , yaitu
+untuk dan
+untuk yang lain. Pembatas-pembatas
+untuk nilai variabel keputusan ditunjukkan pada
+pembatas-pembatas (10)-(13).
+Dari model , jika diketahui maka dapat
+ditentukan berdasarkan persamaan (6). Selanjutnya,
+berdasarkan persamaan (2), dengan
+demikian, model dapat disederhanakan menjadi:
+
+Model merupakan rumusan model pemrograman
+bilangan bulat. Berdasarkan persamaan (14), model
+ini merupakan model tak linear. Selain itu, model
+ini juga masih bersifat implisit yang ditunjukkan
+pada persamaan (19). Model pemrograman linear
+bilangan bulat yang dinyatakan secara eksplisit
+telah dirumuskan oleh Suprayogi et al . Model
+pemrograman linear bilangan bulat yang dikembangkan
+merupakan model penjadwalan dengan
+horison waktu diskrit dan merupakan pengembangan
+lanjutan dari model-model yang dikembangkan
+oleh Suprayogi dan Toha  dan Suprayogi dan
+Partono [7, 8]. Semua model yang dikembangkan
+tersebut mengacu pada model yang dikembangkan
+oleh Pritsker et al.  dan Morton and Pentico .
+Model pemrograman linear bilangan bulat yang dirumuskan
+oleh Suprayogi et al.  dapat dipecahkan
+untuk menghasilkan solusi optimal global dengan
+menggunakan piranti lunak komersial yang tersedia.
+Namun, pemecahan model pemrograman
+linear bilangan bulat ini memiliki kelemahan dalam
+hal keterbatasannya untuk memecahkan masalah
+yang kecil (yaitu, jumlah pekerjaan dan operasi
+yang sedikit dan horison waktu yang pendek)
+sehingga sulit diterapkan untuk kasus nyata. Untuk
+itu, teknik relaksasi Lagrange diusulkan sebagai
+teknik pemecahan masalah.
+Model Relaksasi Lagrange
+Misal diberikan pengali Lagrange tiap
+dan tiap . Bentuk terelaksasi dari
+model adalah sebagai berikut (disebut model ):
+
+dengan hanya melibatkan fungsi tujuan, bentuk
+dual dari model (dinyatakan sebagai model
+Lagrange dual ) adalah:
+Memaksimumkan
+Σ Σ
+{ }
+Σ ( { } Σ Σ Σ
+)
+(33)
+dengan pembatas-pembatas: (25)-(32) dan
+( ).
+Untuk tiap , dan , jika
+dan untuk yang
+lain. Oleh karena itu, untuk tiap
+, , dan .
+Model dapat dinyatakan kembali dengan:
+Memaksimumkan
+Σ Σ
+{ } Σ ( { }
+Σ Σ Σ
+)
+(34)
+dengan pembatas-pembatas: (25)-(32) dan
+( ).
+Pekerjaan-pekerjaan tersebut saling independen,
+karena itu berdasarkan Luh et al.  dan Hoitomt
+et al. , minimum dari penjumlahan adalah
+jumlah dari minima. Model dapat dinyatakan
+dengan:
+Memaksimumkan
+Σ Σ
+Σ { } ( { }
+Σ Σ Σ
+)
+(35)
+dengan pembatas-pembatas: (25)-(32) dan
+( ).
+Komponen kedua dari ruas kanan dalam persamaan
+(35) pada dasarnya merupakan permasalahan
+untuk tiap pekerjaan individual yang dapat
+dinyatakan sebagai berikut (disebut Model ):
+Meminimumkan
+{ } (36)
+Σ Σ Σ
+dengan pembatas-pembatas (25)-(32) dan
+( )
+Misal untuk tiap pekerjaan , nilai minimum
+dinyatakan dengan
+. Model dapat dinyatakan
+kembali dengan:
+Memaksimumkan
+Σ
+Σ Σ (37)
+dengan pembatas-pembatas: (25)-(32) dan
+( ).
+Teknik Pemecahan
+Secara garis besar, langkah-langkah teknik pemecahan
+adalah sebagai berikut:
+Langkah 0 (Inisialisasi)
+Lakukan inisialisasi untuk tiap
+dan . Tetapkan pencacah iterasi .
+Lanjutkan ke langkah 1.
+Langkah 1 (Pemecahan masalah pekerjaan individual)
+Untuk tiap , pecahkan model untuk
+memperoleh { } yang meminimumkan .
+Misal yang minimum dinyatakan dengan
+dan { } yang berasosiasi dengan minimum
+dinyatakan {
+}. Lanjutkan ke langkah 2.
+Langkah 2 (Penentuan solusi layak)
+Berdasarkan {
+}, tentukan { } yang layak
+yang dinyatakan dengan { ̅ } dengan nilai
+fungsi tujuannya dinyatakan dengan ̅.
+Lanjutkan
+ke langkah 3.
+Langkah 3 (Penentuan solusi layak terbaik)
+Mulai dari iterasi hingga , tentukan
+solusi layak terbaik saat ini. Misal solusi layak
+terbaik saat ini dinyatakan dengan { ̅
+} dengan
+nilai fungsi tujuan layak terbaik dinyatakan
+dengan ̅ . Lanjutkan ke langkah 4.
+Langkah 4 (Pemecahan masalah dual)
+Berdasarkan {
+}, pecahkan model untuk
+menghasilkan yang baru untuk tiap
+dan . Lanjutkan ke langkah 5.
+Langkah 5 (Pemeriksaan kriteria henti)
+Jika kriteria henti belum terpenuhi, tetapkan
+dan kembali ke langkah 1. Jika kriteria
+henti terpenuhi, tetapkan { ̅
+} sebagai solusi
+untuk masalah penjadwalan.
+Pemecahan Masalah Pekerjaan Individu
+Pemecahan masalah pekerjaan individu terkait
+dengan pemecahan masalah penjadwalan pekerjaan individual (model ) untuk memperoleh
+( ) yang meminimumkan (
+) dengan memperhatikan pembatas-pembatas
+(25)-(32). Dalam makalah ini, masalah penjadwalan
+pekerjaan individu dapat dipecahkan dengan metode
+enumerasi dan metode pemrograman dinamik.
+Metode Enumerasi
+Prinsip dasar metode enumerasi adalah sebagai
+berikut. Untuk tiap pekerjaan , misal himpunan
+operasi yang mendahului operasi
+dinyatakan dengan . Misal himpunan operasi
+yang mengikuti operasi yang membentuk
+hubungan lurus (linear) dinyatakan dengan .
+Untuk operasi dengan (yaitu, operasi
+tanpa pendahulu), tiap dienumerasi pada
+Σ hingga . Untuk
+operasi dengan dan (yaitu
+operasi dengan pendahulu dan bukan merupakan
+operasi terakhir), maka dienumerasi mulai pada
+{ } Σ .
+Untuk operasi dengan dan
+(yaitu operasi dengan pendahulu dan merupakan
+operasi terakhir), maka dienumerasi mulai pada
+{ } . Tetapkan
+tiap yang memberikan dalam persamaan (24)
+minimum sebagai
+.
+Metode Pemrograman Dinamis Maju
+Metode pemrograman dinamis maju untuk pemecahan
+masalah penjadwalan pekerjaan individu
+memerlukan pendefinisian beberapa hal sebagai
+berikut.
+Tahap. Misal menyatakan himpunan pendahulu
+dari operasi . Misal operasi
+didahului oleh operasi dan . Tiap tahap
+ditandai dengan notasi ( ). Misal himpunan
+operasi terdiri atas operasi. Dalam metode
+pemrograman dinamis maju, satu operasi semu
+( ) ditambahkan setelah operasi terakhir
+dengan waktu pengerjaan . Dengan
+demikian himpunan operasi dinyatakan dengan
+* + dan diperbarui menjadi
+dengan pengambahan bahwa mendahului
+. Perhitungan dalam metode pemrograman
+dinamis maju dimulai untuk tahap
+dengan
+(yaitu operasi yang memiliki operasi
+pendahulu) dan diakhir untuk tahap .
+Gambar 2 menunjukkan ilustrasi penambahan operasi
+semu.
+
+Status. Pada tiap tahap ( ), status dinyatakan
+dengan slot waktu yang mungkin dari saat mulai
+operasi
+yang didahului oleh operasi
+.
+Batas bawah dan atas dari untuk
+dengan
+adalah
+* +
+Σ .
+Variabel keputusan. Pada tiap tahap ( ),
+variabel keputusan dinyatakan menyatakan slot
+waktu dari saat mulai operasi
+yang
+mendahului operasi
+, yaitu .
+Fungsi Transisi. Fungsi transisi dari tahap dinyatakan
+dengan:
+(38)
+Fungsi Akumulasi. Pada tiap tahap ( ),
+untuk
+dengan
+dan , fungsi
+akumulasi yang merupakan persamaan rekursif
+dinyatakan dengan:
+( ) Σ Σ
+Σ
+( )
+(39)
+Pada tiap tahap ( ), untuk
+dengan
+dan , fungsi akumulasi yang
+merupakan persamaan rekursif dinyatakan dengan:
+( )
+{ } Σ Σ
+Σ
+( )
+(40)
+Pada tiap tahap ( ), nilai
+( ) dinyatakan
+dengan:
+( )
+{
+( )
+(41)
+Langkah-langkah teknik pemrograman dinamis
+untuk tiap
+adalah sebagai berikut:
+
+Penentuan Solusi Layak
+Solusi yang diperoleh dengan pemecahan masalah
+pekerjaan individual (baik menggunakan metode
+enumerasi maupun pemrograman dinamis) dapat
+berupa solusi yang tak layak, yaitu pembatas-pembatas
+ketersediaan sumberdaya adalah dilanggar.
+Untuk menghasilkan solusi yang layak, algoritma
+list scheduling diterapkan. Prinsip dasar dari algoritma
+ini adalah sebagai berikut.
+Misal terdapat himpunan {
+} yang diperoleh dari
+pemecahan pekerjaan individu. Selanjutnya
+disusun
+dalam urutan menaik. Jika terdapat dua atau
+lebih
+yang sama, urutannya didasarkan atas
+nilai inkrementalnya. Nilai inkremental ini menunjukkan
+besarnya tardiness tertimbang jika operasi
+ini ditunda dalam satu slot waktu. Jika sumberdaya
+yang ada tersedia (memiliki kapasitas minimal sebesar
+kebutuhan setiap operasi) dan memperhatikan
+pembatas ketergantungan operasi dan ketersediaan
+mesin pada sisa waktu proses dari operasi
+tersebut maka setiap operasi dapat dijadwalkan
+pada setiap sumberdaya sesuai urutan. Algoritma
+akan menentukan operasi baru yang akan dimulai
+pada slot waktu tersebut dan operasi mana yang
+akan ditunda selama satu unit slot waktu apabila
+terdapat pelanggaran ketersediaan sumberdaya
+pada waktu k. Apabila kapasitas sebuah sumberdaya
+tidak memenuhi lagi untuk waktu k maka
+operasi yang membutuhkan sumberdaya tersebut
+akan ditunda selama satu unit slot waktu. Operasi
+lainnya yang mengikuti operasi tersebut akan diperiksa,
+apakah terjadi pelanggaran terhadap pembatas
+ketergantungan operasi. Jika terjadi pelanggaran,
+maka operasi tersebut akan ditunda selama
+satu unit slot waktu. Proses ini akan berulang
+sampai semua operasi terjadwal pada sumberdaya
+secara layak. Langkah-langkah dari algoritma list
+scheduling adalah sebagai berikut.
+Misal suatu himpunan merupakan himpunan
+semua
+dengan
+diurutkan menaik. Jika terdapat
+satu atau lebih operasi memiliki
+yang
+sama, maka urutannya didasarkan pada nilai inkremental
+yang didefinisikan sebagai berikut:
+(( ) ) (42)
+Misal merupakan himpunan semua ( ) yang
+sudah dijadwalkan. Tetapkan adalah himpunan
+operasi yang mengikuti operasi ( ). Misal adalah
+indeks untuk melacak ketersediaan sumberdaya.
+Langkah-langkah algoritma list scheduling adalah
+sebagai berikut:
+Langkah 1 Ambil ( ) yang berada pada
+urutan pertama. Tetapkan
+.
+Lanjutkan ke langkah 2.
+Langkah 2 Tentukan sedemikian hingga
+untuk . Tetapkan
+. Lanjutkan ke langkah 3.
+Langkah 3 Jika untuk
+dan , lanjutkan ke
+langkah 4. Sebaliknya, lanjutkan ke
+langkah 5.
+Langkah 4 Jika pembatas ketergantungan operasi
+tidak dilanggar, tetapkan ̅ ,
+perbarui untuk
+dan , perbarui
+( ) dan lanjutkan ke
+langkah 7. Jika tidak lanjutkan ke
+langkah 5.
+Langkah 5 Tetapkan . Jika , lanjutkan
+ke langkah 6. Sebaliknya,
+kembali ke langkah 3.
+Langkah 6 Untuk ( ) dengan
+, tetapkan
+. Untuk semua yang
+melanggar pembatas ketergantungan
+operasi, tetapkan
+dan
+buat daftar U yang baru. Kembali ke
+langkah 1.
+Langkah 7 Jika , maka berhenti. Jika tidak
+kembali langkah1.
+Pemecahan Masalah Lagrange Dual
+Pemecahan masalah Lagrange dual pada dasarnya
+bertujuan untuk menghasilkan (
+) yang baru dengan diberikan
+(
+). Pemecahan masalah Lagrange dual menggunakan
+metode subgradien. Misal
+( ) menunjukkan
+nilai pada iterasi ke- . Tiap
+( ) diperbarui
+dengan persamaan berikut:
+
+
+Besaran
+( ) adalah ukuran langkah pada iterasi
+ke- untuk tiap jenis sumberdaya yang
+diberikan dengan persamaan:
+( )
+( )
+‖ (
+)‖ (45)
+dengan
+( )
+dan ( ) masing-masing menyatakan
+taksiran dari fungsi tujuan dual optimal dan nilai
+fungsi tujuan Lagrange dual pada iterasi ke- . Nilai
+( ) dihitung dengan menggunakan persamaan (35)
+atau (37). Nilai taksiran dari fungsi tujuan dual
+optimal ditetapkan sebagai nilai fungsi tujuan dari
+solusi layak terbaik sepanjang atau hingga iterasi
+ke- . Misal nilai fungsi tujuan layak terbaik
+dinyatakan dengan ̅ . Dengan demikian,
+( )
+̅ .
+Dalam makalah ini, dengan mengacu pada Fisher
+, nilai parameter ditetapkan sama dengan dua
+pada saat iterasi dimulai dan nilainya diturunkan
+setengahnya jika ( ) gagal untuk naik dalam
+beberapa iterasi (dalam hal ini digunakan kriteria
+tiga iterasi).
+Kriteria Henti
+Prosedur pemecahan berhenti jika memenuhi salah
+satu kriteria henti sebagai berikut: sebagai berikut:
+(1) |
+( )
+( )| ; (2) ( ) ( )
+( ) untuk ; dan (2)
+. Kriteria henti (1) digunakan untuk menjamin
+bahwa selisih antara nilai fungsi tujuan dari solusi
+layak terbaik sepanjang atau hingga iterasi kedan
+nilai fungsi tujuan dual adalah kecil. Kriteria
+henti (2) digunakan untuk memeriksa kekonvergenan,
+yaitu nilai fungsi tujuan dual naik dan turun
+naik pada kisaran nilai tertentu yang cukup kecil
+(dalam hal ini, pada kisaran ( ) dalam 20
+iterasi sebelumnya). Sementara kriteria henti (3)
+merupakan kriteria henti untuk jumlah iterasi.
+Hasil dan Pembahasan
+Percobaan Numerik
+Percobaan numerik dilakukan menggunakan contoh
+data dari Suprayogi et al. . Tabel 1 menunjukkan
+karakteristik dari tiap contoh data. Teknik relaksasi
+Lagrange yang diusulkan dijalankan menggunakan
+aplikasi piranti lunak yang dibuat dengan bahasa
+pemrograman Visual Basic 2008 pada komputer
+dengan prosesor Intel Core Duo 2.00 GB RAM.
+Terdapat dua teknik berbasis relaksasi Lagrange
+yang diterapkan dalam percobaan yang masingmasing
+disebut dengan RL1 dan RL2. RL1 adalah
+teknik pemecahan berbasis relaksasi Lagrange
+dengan pemecahan masalah pekerjaan individu
+menggunakan metode enumerasi. Sementara itu
+RL2 menunjukkan teknik berbasis relaksasi Lagrange
+dengan pemecahan masalah pekerjaan individu
+menggunakan metode pemrograman dinamis.
+Hasil pemecahan dengan teknik relaksasi Lagrange
+dibandingkan dengan hasil-hasil yang diperoleh
+menggunakan pemecahan model pemrograman
+linear bilangan bulat (teknik optimal) dan teknik
+algoritma yang keduanya diambil dari Suprayogi et
+al. . Pemecahan model pemrograman linear
+bilangan bulat tercampur mengunakan bantuan
+aplikasi piranti lunak komersial LINGO 8.0.
+Sementara itu, teknik algoritma genetika dijalankan
+menggunakan aplikasi piranti lunak yang dibuat
+dengan bahasa pemrograman Visual Basic 6.0.
+Suprayogi et al.  menjalankan kedua aplikasi
+pada komputer dengan spesifikasi prosesor Pentium
+M 4, 1.7 GHz, RAM 256-share 32 MB. Hasil
+perbandingan ditunjukkan pada Tabel 2.
+Sampai dengan dihentikan secara paksa, RL1
+hanya dapat memecahkan 19 contoh data (contohcontoh
+data 1-19). Sementara itu, RL2 dapat
+menghasilkan solusi untuk semua contoh data
+(contoh-contoh data 1-25). Berdasarkan contohcontoh
+data 1-19, kualitas solusi (nilai fungsi tujuan
+yang diperoleh) baik dengan RL1 dan RL 2 adalah
+sama. Namun, waktu komputasi RL2 (rata-rata
+adalah 1,89 detik) lebih cepat dibandingkan dengan
+RL1 (rata-rata adalah 28228,95 detik).
+Analisis statistik yang mengunakan uji untuk
+rerata dua sampel berpasangan dilakukan untuk
+menguji kualitas solusi antara RL2 dengan teknik
+optimal dan algoritma genetika. Ringkasan hasil
+pengujian terhadap rerata nilai fungsi tujuan ditunjukkan
+pada Tabel 3. Dengan uji dua-arah, pada
+tingkat signifikansi 5%, rerata nilai fungsi tujuan
+RL2 memberikan hasil yang tidak berbeda secara
+signifikan baik dengan teknik optimal maupun
+dengan algoritma genetika. Walaupun analisis perbandingan
+terhadap waktu komputasi tidak dilakukan
+karena spesifikasi komputer yang digunakan
+untuk menjalankan aplikasi-aplikasi piranti lunak
+adalah berbeda, namun percobaan numerik menunjukkan
+bahwa RL2 dan algoritma genetika mampu
+menangani masalah penjadwalan dengan ukuran
+yang besar.
+
+
+Simpulan
+Makalah ini telah mengusulkan teknik relaksasi
+Lagrange untuk memecahkan masalah penjadwalan
+pekerjaan majemuk dengan sumberdaya simultan.
+Masalah penjadwalan melibatkan lebih dari
+satu pekerjaan dengan tiap pekerjaan terdiri atas
+satu himpunan operasi. Tiap operasi memerlukan
+pengerjaan secara simultan oleh lebih dari satu jenis
+sumberdaya dengan jumlah unit dari tiap sumber
+daya yang digunakan untuk pengerjaan suatu
+operasi adalah satu atau lebih. Masalah terkait
+dengan penentuan jadwal dari tiap operasi dari tiap
+pekerjaan yang meminimumkan total tardiness
+tertimbang.Terdapat dua teknik relaksasi Lagrange yang diusulkan
+sebagai teknik pemecahan yang masingmasing
+disebut dengan RL1 dan RL2. RL1 adalah
+teknik relaksasi Lagrange dengan pemecahan masalah
+pekerjaan individu menggunakan metode enu
+merasi. Sementara itu RL2 menunjukkan teknik
+relaksasi Lagrange dengan pemecahan masalah pekerjaan
+individu menggunakan metode pemrograman
+dinamis.
+Berdasarkan percobaan numerik, RL1 dan RL2
+keduanya menghasilkan solusi dengan nilai fungsi
+tujuan yang sama. Namun, RL2 lebih efisien bila di bandingkan dengan RL1. Hasil percobaan numerik
+menunjukkan bahwa RL2 memberikan kualitas
+solusi yang tidak berbeda dibandingkan dengan
+teknik optimal dan algoritma genetika. Namun
+demikian, baik RL2 dan algoritma genetika, keduanya
+memiliki kemampuan untuk menangani masalah
+dengan ukuran yang lebih besar. Keunggulan
+RL2 dibandingkan dengan algoritma genetika adalah
+bahwa RL2 cukup dijalankan satu kali dibandingkan
+dengan algoritma genetika. Hal ini dikarenakan
+sifat probabilistiknya, algoritma genetika
+perlu dijalankan dalam sejumlah replikasi untuk
+mencari solusi yang terbaik.

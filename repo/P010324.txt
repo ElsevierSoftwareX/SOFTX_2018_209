@@ -1,0 +1,398 @@
+﻿Analisis Laju Pencucian Tanah Salin dengan Menggunakan Drainase
+Bawah Permukaan
+
+Abstrak
+Proses pencucian dengan drainase bawah permukaan diperlukan dalam menangani masalah salinitas
+di lahan pertanian. Tujuan penelitian ini adalah menentukan laju pencucian garam dalam tanah melalui
+percobaan aliran kontaminan dalam tanah, dan mengetahui keakuratan formula yang digunakan dalam
+menentukan laju pencucian. Tahapan pengumpulan data terdiri atas percobaan sifat fisik tanah, kontaminasi
+garam, dan pencucian tanah. Hasil percobaan menunjukkan bahwa setiap laju perkolasi membutuhkan
+waktu pencucian yang berbeda untuk menurunkan konsentrasi sampai tingkat yang diinginkan, yaitu
+0.07, 0.13 dan 0.08 hari untuk laju perkolasi 1035.73, 1614.12, dan 1888.52 mm/hari. Hal ini dipengaruhi
+oleh konsentrasi garam terlarut (Ct), laju perkolasi (q), kemampuan tanah dalam menyimpan (Wfc) dan
+meloloskan air (K). Namun hasil tersebut berbeda bila dihitung secara teori, sehingga untuk kondisi tanah
+dan metode yang digunakan seperti dalam proses penelitian perlu adanya pengembangan terhadap
+formula yang dikeluarkan oleh ILRI (1994), yaitu dengan menambahkan koefisien koreksi untuk nilai Wfc
+sebesar 0.076, 0.078, dan 0.042 untuk percobaan 1, 2, dan 3 guna memperoleh hasil perhitungan yang
+lebih sesuai dengan kondisi sebenarnya.
+Kata kunci: drainase bawah permukaan, garam, pencucian tanah, salinitas, tanah
+
+Pendahuluan
+Lahan pertanian yang kerap mengalami masalah
+salinitas adalah lahan dengan bahan induk yang
+mengandung deposit garam, wilayah pesisir yang
+terkena pengaruh pasang surut air laut, dan wilayah
+dengan iklim mikro yang memiliki tingkat evaporasi
+melebihi tingkat curah hujan tahunan (Tan 2000,
+dalam Rusd 2011). Gejala yang terlihat pada tanah
+salin adalah munculnya kerak putih di permukaan tanah akibat evaporasi dan pertumbuhan yang
+tidak normal, seperti daun yang mengering di
+bagian ujung dan gejala khlorosis (Sipayung 2003).
+Hal ini sesuai dengan Simbolon dkk (2013) dan
+Slinger and Tenison (2005) yang menyatakan kadar
+garam akan mempunyai dampak bagi pertumbuhan
+tanaman.
+Masalah salinitas terjadi ketika tanah
+mengandung garam terlarut dalam jumlah yang
+cukup tinggi sehingga mengganggu pertumbuhan
+tanaman. Adanya penimbunan garam di
+daerah perakaran menyebabkan berkurangnya
+kemampuan tanaman dalam menyerap air. Selain
+itu, penyerapan unsur penyusun garam dalam jumlah
+yang berlebih akan menyebabkan keracunan bagi
+tanaman. Salinitas yang dikombinasikan dengan
+kondisi tata air yang buruk, dapat menghilangkan
+kesuburan tanah secara permanen.
+Saat ini masalah salinisasi tanah di Indonesia
+terjadi sebagai akibat dari bencana tsunami di
+Provinsi NAD yang mnyebabkan adalah rusaknya
+lahan pertanian akibat intrusi air laut dan terendapnya
+lumpur berkadar garam tinggi di permukaan tanah.
+Hasil pengamatan Balai Penelitian Tanah, Bogor
+menunjukkan bahwa terdapat sekitar 29,000 ha
+lahan persawahan yang mengalami kerusakan
+dengan tingkatan yang bervariasi.(Rachman et al.
+2008). Pada dasarnya setiap tanaman memiliki
+respon yang berbeda terhadap derajat salinitas.
+Bagi tanaman padi, kandungan garam sebagai
+nilai salinitas tanah sebesar 4 mS/cm mampu
+mengakibatkan penurunan hasil tanaman sebesar
+10%. Jika salinitas tanah di atas 10 mS/cm akan
+mengakibatkan penurunan hasil tanaman yang
+semakin besar, yaitu mencapai 50% dari kondisi
+normal (FAO 2005).
+Pengembalian potensi lahan yang mengalami
+penurunan produktivitas akibat kandungan garam
+yang tinggi, salah satunya dapat dilakukan melalui
+pencucian (leaching) lahan untuk mengurangi
+pengaruh negatif bahan beracun yang berbahaya
+bagi tanaman. Pencucian akan baik bila air cukup
+tersediabaik dari hujan maupun air pasang. Namun untuk kondisi wilayah dengan tingkat curah hujan
+rendah, sulit jika mengandalkan air hujan dalam
+pencucian. Pada lahan pertanian pasang surut,
+kemungkinan sulit untuk mengandalkan air pasang
+dalam pencucian lahan, mengingat tingginya
+kadar garam yang terkandung dalam air pasang.
+Pencucian lahan dengan menggunakan drainase
+bawah permukaan dapat menjadi solusinya.
+Penelitian ini bertujuan untuk menentukan
+laju pencucian garam pada tanah dengan cara
+percobaan aliran kontaminan dalam tanah dan
+mengetahui keakuratan dari formula yang digunakan
+dalam menentukan laju pencucian. Hasil dari
+penelitian ini diharapkan dapat memberi informasi
+mengenai reklamasi lahan tercemar terutama oleh
+garam dan mengurangi dampak pencemaran tanah
+dan airtanah.
+Bahan dan Metode
+Penelitian ini dilakukan dengan percobaan
+laboratorium mencakup pengujian sifat fisika tanah,
+dan percobaan pencucian tanah. Penelitian yang
+dilakukan melalui percobaan laboratorium ini terdiri
+atas tiga tahapan, yaitu tahap pengumpulan data
+primer, tahap pengolahan data, dan tahap analisis.
+Alat dan Bahan
+Alat yang digunakan dalam penelitian ini adalah
+kotak percobaan aliran air dalam tanah yang
+dilengkapi pipa PVC berpori sebagai drainase
+bawah permukaan. Pengukuran hantaran listrik
+(EC), dilakukan dengan menggunakan sensor
+Decagon 5TE, yang sekaligus merekam kadar air
+tanah volumetrik dan temperature yang kemudian
+akan direkam oleh Decagon Em50 data logger.
+Alat-alat lain yang digunakan adalah neraca
+analitik, stopwatch, meteran, gelas ukur 250
+ml, wadah plastik, ring sampler, oven, personal
+computer, kalkulator, dan alat tulis, dengan bahan
+berupa tanah dengan tektsur pasir, garam sebagai
+kontaminan, dan air sebagai pencuci.
+Persiapan Alat dan Bahan
+Persiapan alat dan bahan diawali dengan
+pemasangan pipa sepanjang 1 m dengan diameter
+1” pada kotak percobaan. Pipa yang digunakan
+memiliki lubang-lubang dengan diameter lubang
+3.5 mm dan jarak antar lubang 5 cm, sebagai
+jalan keluar air pencucian yang berberkolasi. Pipa
+horizontal tersebut disambung dengan pipa vertical
+yang terhubung dengan udara luar, seperti yang
+ditunjukkan pada Gambar 1. Selanjutnya tanah
+dimasukkan ke dalam kotak percobaan dengan
+ketebalan 40 cm.
+
+Pengujian Fisika Tanah
+Contoh tanah diambil dengan bantuan ring
+sampler, dan dilakukan pengujian dengan menggunakan falling head permeameter untuk
+mendapatkan konduktivitas tanah (Hillel, D. 2004).
+Selain itu dilakukan analisis laboratorium untuk
+memperoleh nilai porositas, bobot isi, dan kapasitas
+lapang tanah. Persamaan yang digunakan dalam
+analisis ini adalah sebagai berikut.
+
+
+Dimana K: konduktivitas hidraulik (m/hari), a: luas
+penampang pipa (m2), l: tinggi tanah (m), A: luas
+penampang tanah (m2), T: waktu air meresap (hari),
+h1: tinggi dari garis awal air sampai dasar ring (m)
+dan h2: tinggi dari garis bawah air sampai dasar ring
+(m).
+
+
+Dengan η: porositas (%), Vs: volume padatan
+(cm3), W: berat tanah dengan air (gram), V: volume
+padatan dengan air (cm3) dan Gs: 2,64 gram/cm3.
+
+Dengan BD: bobot isi (gram/cm3), BK: berat kering
+tanah (gram), V tanah: volume tanah (cm3), fc:
+kadar air pada kondisi kapasitas lapang (% volume
+tanah), BB: berat tanah dengan air (gram), BK:
+berat kering tanah (gram) dan BD: bobot isi (gram/
+cm3)
+Kontaminasi Garam
+Percobaan kontaminasi garam dilakukan dengan
+memberikan larutan garam dengan konsentrasi di
+dalam tanah yang dapat menyebabkan gangguan
+bagi sebagian besar tanaman, yaitu setara dengan
+electro-conductivity (EC) tanah diatas 4 mS/cm (7.8
+mS/cm untuk percobaan 1, 12.03 dan 11.8 mS/cm
+untuk percobaan 2 dan 3), hingga mencapai kondisi
+jenuh. Dalam kondisi kebasahan di atas kapasitas
+lapang, larutan akan mengalir secara gravitasi ke
+bawah dan keluar melalui pipa berpori. Selanjutnya
+dilakukan pengukuran EC pada contoh uji tanah
+yang telah dikontaminasi dengan menggunakan
+sensor dan data logger untuk mengetahui nilai
+hantaran listrik, kelembaban tanah, dan suhu.
+Konsentrasi garam yang terbaca pada alat tersebut
+kemudian dijadikan konsentrasi awal garam (C0NaCl).
+Pencucian Tanah
+Pencucian tanah dilakukan dengan memberikan
+air bersih secara terus menerus guna menjaga
+tanah tetap dalam kondisi jenuh, hingga data logger
+menunjukkan penurunan EC sampai pada batas
+aman. Selama proses pencucian, laju aliran dijaga
+agar tetap konstan dengan cara mengatur katup
+keluarnya air. Pengukuran laju aliran air pencucian
+dilakukan untuk mengetahui perkolasi yang terjadi.
+Data yang diperoleh dari hasil pengukuran hantaran
+listrik pada tanah (ECe) selama proses pencucian,
+kemudian diplotkan pada grafik untuk mengetahui
+hubungan penurunan konsentrasi garam terhadap
+waktu.
+Selain melalui pengukuran langsung, hubungan
+penurunan konsentrasi garam terhadap waktu juga
+diperoleh dari persamaan yang dituliskan oleh ILRI
+(1994), yaitu sebagai berikut.
+
+Dengan C0: konsentrasi garam dalam tanah saat
+t=0 (mS/cm), Ct: konsentrasi garam dalam tanah
+saat t (mS/cm), Ci: konsentrasi air pencuci (mS/cm),
+t: waktu yang dibutuhkan dalam proses pencucian
+(hari), T: waktu yang dibutuhkan garam untuk
+keluar dari badan tanah (hari), f: efisiensi pencucian
+(%), Wfc: jumlah air yang tersimpan pada kondisi
+kapasitas lapang (cm) dan q: laju perkolasi dalam
+tanah (cm/hari)
+Berdasarkan asumsi bahwa jenis saluran
+drainase bawah permukaan yang digunakan di
+lapangan adalah jenis sheetpipe, maka dalam
+perencanaan pemasangan saluran drainase
+dilakukan perhitungan dengan menggunakan
+persamaan Hooghoudt (ILRI 1994).
+
+Dengan L: jarak antar subdrain (mm), K: hantaran
+hidraulik (mm/hari), D: rata-rata ketebalan daerah
+aliran (mm), h: tinggi muka airtanah di atas saluran
+drainase (mm) dan q: laju perkolasi (koefisien
+drainase) dalam tanah (mm/hari).
+Jumlah air yang perlu diberikan pada setiap
+proses pencucian dapat diketahui dengan
+menggunakan persamaan berikut.
+
+Dengan V: volume air pencucian (mm3), q: laju
+perkolasi dalam tanah (mm/hari), A: luas lahan (mm2) dan t: waktu yang dibutuhkan dalam proses
+pencucian (hari). Selanjutnya dihitung debit air yang
+harus dikeluarkan melalui saluran drainase guna
+menjaga tinggi muka air di dalam tanah dengan
+persamaan berikut.
+
+Dengan Q: debit penggelontoran (mm3/hari), q: laju
+perkolasi (mm/hari), L: jarak antar saluran drainase
+(mm) dan B: panjang saluran drainase (mm).
+Identifikasi Kesesuaian Formula Laju
+Pencucian
+Identifikasi dilakukan dengan metode coba
+dan ulang hingga mendapatkan nilai kesalahan
+terkecil antara data percobaan dengan perhitungan
+menggunakan persamaan yang dituliskan oleh
+ILRI (1994). Persamaan yang digunakan dalam
+menentukan kesalahan adalah persamaan berikut.
+
+Dengan E: kesalahan, x: data hasil percobaan, y:
+data hasil perhitungan dan n: jumlah data.
+Saluran Drainase Bawah Permukaan
+Ukuran yang dibutuhkan pada saluran drainase
+bawah permukaan dapat diketahui dari besarnya
+debit yang harus dikeluarkan pipa selama proses
+pencucian, sedangkan untuk laju aliran di dalam
+pipa diketahui dengan menggunakan persamaan
+Manning. Koefisien kekasaran Manning (n) yang
+digunakan adalah untuk pipa jenis PVC. Aliran
+yang terjadi di dalam pipa dianggap tidak penuh
+atau hanya terisi 90% (0.9 D), seperti yang terdapat
+pada Gambar 3.
+Berikut adalah persamaan yang digunakan
+untuk memperoleh ukuran saluran drainase.
+
+Dengan Q: debit air yang dikeluarkan saluran
+drainase (cm3), V: laju aliran dalam pipa (cm/detik),
+A: luas penampang aliran (cm2), R: jari-jari hidraulik
+(cm) dan S: kemiringan saluran drainase
+Hasil dan Pembahasan
+Pengujian Fisika Tanah
+Tekstur merupakan karakter fisik tanah yang
+perlu diketahui, karena dapat menunjukkan sifat fisik
+dan kimia suatu tanah, seperti daya sorpsi tanah
+terhadap zat pencemar. Hasil pengujian sifat fisika
+tanah di laboratorium menunjukkan tanah memiliki
+tekstur pasir dengan nilai hantaran hidraulik ratarata
+sebesar 4.3 m/hari, porositas 41.6%, bobot isi
+1.3 g/ml, dan kapasitas lapang 25.2% dari volume
+Tanah.
+
+Pencucian Tanah Salin
+Menurut Ayers dan Westcot (1976), salinitas
+pada umumnya bersumber pada tanah dan air
+dalam tanah. Nilai salinitas air dalam tanah dapat
+mempengaruhi derajat salinitas tanah yang diukur
+pada suhu standar. Semakin tinggi konsentrasi
+garam yang diberikan, maka hantaran listrik pada
+contoh uji tanah (ECe) akan semakin meningkat.
+Adanya perbedaan nilai salinitas air sebelum dan
+setelah keluar dari profil tanah menunjukkan adanya
+proses pengendapan garam di dalam tanah, seperti
+yang terdapat pada Tabel 1.
+Percobaan pencucian tanah dilakukan dengan
+menggunakan air bersih, sebagai simulasi dari
+air hujan atau air irigasi.Pada pengujian pertama,
+tanah dalam kondisi jenuh dan sedikit tergenang
+yang menyebaban volume air keluar lebih besar
+dari volume air yang diberikan untuk perncucian.
+Hasil percobaan pencucian tanah menghasilkan
+adanya anomali data berupa peningkatan nilai
+salinitas selama proses pencucian, seperti yang
+tersaji pada Gambar 4. Hal ini menunjukkan
+bahwa garam yang berada di permukaan tanah
+memerlukan waktu untuk mengalami perkolasi
+hingga mencapai daerah sensor yang terdapat
+pada kedalaman 5 cm di bawah permukaan tanah
+dan menunjukkan peningkatan nilai salinitas.
+Identifikasi Kesesuaian Formula Laju
+Pencucian
+Hasil analisis menunjukkan bahwa untuk kondisi
+tanah dan metode yang digunakan seperti dalam
+proses penelitian, ditemukan adanya perbedaan
+antara waktu pencucian yang dihasilkan dari
+percobaan dengan perhitungan menggunakan
+persamaan yang dikeluarkan ILRI (1994). Perbedaan
+tersebut tersaji pada Gambar 5 hingga 7.
+Perbedaan ini mengindikasikan adanya
+parameter lain yang mempengaruhi proses
+pencucian, berupa koefisien koreksi yang mengarah
+pada kemampuan tanah dalam menyimpan air
+pada kondisi kapasitas lapang (Wfc), yaitu 0.076,
+0.078, dan 0.042 untuk percobaan 1, 2, dan 3. Bila
+mengacu pada persamaan yang dituliskan ILRI
+(1994), maka konsentrasi garam dan laju perkolasi
+merupakan data primer yang diperoleh dari proses
+pengujian, sedangkan nilai efisiensi (f) diasumsikan
+bernilai 1 yang berarti seluruh air yang diberikan
+keluar melalui proses pencucian. Gambar 8 hingga
+10, menunjukkan perbandingan hasil antara
+percobaan dan perhitungan dengan menggunakan
+koreksi.
+Drainase Bawah Permukaan
+Pada analisis jenis tanah yang digunakan
+adalah pasir, lempung, dan liat, dengan masingmasing
+memiliki hantaran hidraulik 12.5, 1, dan 0.2
+m/hari, dengan laju perkolasi 1.301 m/hari untuk tanah pasir, 0.749 m/hari untuk jenis tanah lempung
+dan 0.150 m/hari untuk jenis liat. Bila ketiga jenis
+tanah merupakan tanah salin yang akan melalui
+proses pencucian, dengan asumsi luas lahan 100
+m x 100 m, konsentrasi garam awal (C0) pada tanah
+41 mS/cm, konsentrasi garam pada air pencuci 0.1
+mS/cm, dan target penurunan konsentrasi garam
+2 mS/cm, maka dapat diketahui lamanya waktu
+pencucian, jumlah air pencucian, hingga ukuran
+diameter saluran drainase bawah permukaan yang
+dibutuhkan.
+Analisis diawali dengan menetapkan jarak
+antar saluran drainase sebesar 4 m, lebar
+area drainase 100 m, dan kedalaman saluran
+drainase. Kedalaman saluran drainase ditentukan
+berdasarkan kedalaman perakaran tanaman,
+jika jenis tanaman diasumsikan berupa tanaman
+dengan kedalaman perakaran 60 cm, maka muka
+airtanah dijaga berada pada 80 cm dari permukaan
+tanah. Kemudian tinggi hidraulik diatas saluran
+drainase untuk setiap jenis tanah dapat diperoleh,
+yaitu 0.64 m untuk tanah pasir, dan 1.73 m untuk
+tanah jenis lempung dan liat, sehingga diperoleh
+kedalaman saluran drainase yang tepat yaitu 1.4 m
+untuk tanah pasir, dan 2,5 m dari permukaan tanah
+untuk tanah lempung dan liat, seperti yang terlihat
+pada Gambar 11 dan 12.
+Lamanya waktu pencucian berbeda untuk
+ketiga jenis tanah karena adanya perbedaan
+kemampuan meloloskan air (K) untuk setiap jenis
+tanah. Hasil analisis menunjukkan bahwa tanah
+pasir membutuhkan waktu pencucian yang lebih
+singkat, yaitu 2.3 jam, sedangkan tanah lempung
+dan liat masing-masing membutuhkan 1.5 dan 16
+hari untuk mencapai batas salinitas aman (dengan
+asumsi waktu operasi 10 jam per hari).
+Laju perkolasi juga mempengaruhi jumlah air
+yang harus diberikan dan dikeluarkan selama
+proses pencucian. Tanah pasir dengan laju
+perkolasi tetinggi membutuhkan air pencuci dengan
+volume terkecil, yaitu 1.2 liter, sedangkan tanah
+lempung dan liat membutuhkan 4.6 dan 9.9 liter
+air. Hal sebaliknya ditemukan pada jumlah air yang harus dikeluarkan guna menjaga tinggi muka
+air tanah, yaitu tanah pasir membutuhkan debit
+penggelontoran yang lebih besar dibandingkan
+dengan kedua jenis tanah lainnya. Tanah pasir
+membutuhkan 0.52 liter/hari, sedangkan untuk
+tanah lempung dan liat membutuhkan 0.3 dan 0.06
+liter/hari untuk penggelontoran. Namun diperoleh
+hasil yang berbeda jika menggunakan faktor koreksi
+yaitu sebesar 0.08. Jumlah waktu pencucian dan
+air pencuci yang dibutuhkan menjadi lebih kecil
+jika dibandingkan dengan hasil perhitungan tanpa
+menggunakan faktor koreksi.
+Hasil analisis mengenai spesifikasi saluran
+drainase menunjukkan bahwa proses pencucian
+pada tanah pasir membutuhkan ukuran saluran
+drainase berdiameter lebih besar, yaitu 10.6 cm
+Untuk jenis tanah lempung dan liat masing-masing
+dibutuhkan saluran drainase berdiameter 8.6 dan
+4.7 cm. Namun bila disesuaikan dengan ukuran
+yang ada di pasaran, maka ukuran saluran drainase
+yang dibutuhkan adalah 4” (pasir), 3” (lempung),
+dan 1.5” (liat). Perbedaan ukuran diameter pipa
+dipengaruhi oleh jumlah air yang harus dikeluarkan
+dari ketiga jenis tanah.
+Simpulan
+Hasil penelitian menunjukkan bahwa salah faktor
+penentu dari laju pencucian adalah sifat fisik tanah,
+mengingat adanya perkolasi yang mempengaruhi
+laju pencucian. Selain itu, berdasarkan perbedaan
+hasil yang diperoleh dari percobaan dan perhitungan,
+maka dapat disimpulkan bahwa terdapat parameter
+lain yang mempengaruhi proses pencucian selain
+parameter yang terdapat pada persaman ILRI
+(1994). Parameter tersebut mengarah pada nilai
+Wfc, yaitu untuk kondisi tanah dan metode yang
+digunakan seperti dalam proses penelitian, untuk
+itu diperlukan koefisien koreksi Wfc sebesar 0.076,
+0.078, dan 0.042 untuk percobaan 1, 2, dan 3,
+guna mendapatkan hasil yang lebih sesuai dengan
+kondisi yang terjadi di laboratorium.

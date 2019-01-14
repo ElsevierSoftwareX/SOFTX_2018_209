@@ -1,0 +1,94 @@
+﻿ABSTRAK
+Travelling Salesman Problem (TSP) merupakan salah satu masalah optimasi
+kombinatorial .. Hingga saat ini telah banyak algoritma optimasi yang ditawarkan
+untuk menyelesaikan masalah travelling salesman problem , seperti Algoritma
+Genetika , Ant Colony Optimization (ACO) , dan Particle Swarm Optimization
+(PSO) .Dalam skripsi ini , algoritma optimasi baru yang bernama Cat Swarm
+Optimization (CSO) ditawarkan sebagai pendekatan alternatif untuk
+menyelesaikan travelling salesman problem . CSO dibangun berdasarkan
+pengamatan perilaku dari sekelompok kucing. . Algoritma ini pertama kali
+dikembangkan oleh Tsu Chuan Chu dan Pe We Tsai tahun 2007 di Taiwan. Proses
+dari algoritma ini dimulai dengan inisialisasi parameter , membentuk populasi
+awal kucing, menghitung nilai objektif, menghitung nilai fitness, menentukan self
+position considering (SPC) , menentukan flag untuk setiap kucing, memproses
+setiap kucing sesuai dengan benderanya , dan menentukan global best , proses ini
+terus berlanjut sampai iterasi maksimum dipenuhi . Fungsi objektif dari skripsi ini
+adalah untuk meminimalkan jarak suatu tour . Data yang digunakan adalah data
+17 kota (data kecil) , data 52 kota (data sedang) dan data 100 kota (data besar),
+algoritma ini disimulasikan dengan bahasa pemprograman C++ , menggunakan
+software Borland C++ , Dari hasil simulasi set data gr17 , dapat diamati bahwa
+parameter optimal CSO dalam yang telah diujikan adalah MR=0.3 , CDC=0.3 ,
+SRD=0.3, c=1 . Parameter ini kemudian diujikan ke dalam 2 set data lainnya dan
+hasilnya diamati pada ukuran populasi , ukuran seeking memory pool (SMP) dan
+maksimum populasi yang berbeda. jarak terbaik (dalam km) berdasarkan
+Algoritma Cat Swarm Optimization didapatkan untuk data kecil sebesar 2065 km
+, untuk data sedang sebesar 18789 km, sedangkan untuk data besar sebesar 96578
+km
+Kata Kunci: Algoritma Cat Swarm Optimization , Travelling Salesman Problem,
+Kecerdasan Swarm.
+
+BAB I
+PENDAHULUAN
+1.1. Latar Belakang
+Dewasa ini permasalahan optimalisasi merupakan permasalahan yang banyak
+bicarakan dalam kehidupan sehari-hari, salah satu yang menjadi fokus utama adalah
+masalah optimalisasi di bidang transportasi dimana tujuannya untuk meminimalisasi
+jarak tempuh suatu perjalanan, dengan jarak tempuh yang optimal maka suatu
+perusahaan dapat menghemat biaya pengeluaran maupun waktu tempuh.
+Permasalahan tentang optimalisasi jarak tempuh erat kaitannya dengan
+Travelling salesman problem (TSP). TSP merupakan masalah yang diformulasikan dan
+dipelajari sejak abad ke 18 oleh W.R Hamilton. Travelling Salesman Problem
+merupakan permasalahan optimalisasi yang melibatkan seorang salesman yang
+menjual produknya ke beberapa kota yang telah ditentukan. Setiap kota yang
+dikunjungi akan membentuk suatu rute dengan ketentuan setiap kota hanya dapat
+dikunjungi tepat satu kali dan kembali ke kota awal (Taha,2008). Aplikasi
+permasalahan TSP telah banyak merambah ranah industri seperti dalam logistik,supply
+chain, transportasi dan manufaktur. Dalam penerapannya permasalahan ini akan
+menjadi semakin rumit seiring bertambahnya jumlah kota yang harus dikunjungi.
+
+Kemungkinan rute yang semakin bertambah akan menyulitkan didalam pemilihan rute
+dengan jarak terpendek.
+Beberapa studi telah banyak dikembangkan untuk menyelesaikan masalah
+Travelling Salesman Problem. Diantaranya antara lain (Lawrence Sneijder,2005)
+mencari rute terpendek TSP dengan algoritma genetika yang dimodifikasi dan (Ivan
+Brezina,2010) tentang menyelesaikan TSP dengan Ant Colony Optimization.
+Pendekatan masalah TSP dengan algoritma yang tergolong dalam Swarm Intellegence
+telah marak dilakukan dengan Particle Swarm Optimization dan Bee Colony Algorithm
+. Salah satu contohnya adalah studi yang dipublikasikan dalam jurnal (Shi Y.C
+Liang,2007) dan (Li Pei Wong, 2009). Hasil studi dalam Swarm Intellegence yang
+cukup baru adalah munculnya Algoritma Cat Swarm Optimization , yang mulai sering
+digunakan untuk menyelesaikan masalah optimasi yang mempunyai kendala bersifat
+linier.
+Algoritma Cat Swarm Optimization dikenalkan pertama kali oleh Shu-Cuan-
+Chu dan Pe-Wei-Tsai pada tahun 2007 (Shu dan Tsai, 2007). Pada tahun 2013 awal
+beberapa studi telah dikembangkan untuk mengaplikasikan Cat Swarm Optimization
+dalam menyelesaikan berbagai persoalan di dunia nyata. Salah satu contohnya adalah
+seperti pada pertengahan tahun 2013, Suryakumari, telah menerapkan Algoritma Cat
+Swarm Optimization untuk Optimal Power Flow Problem. Menurutnya, Cat Swarm
+Optimization memiliki keunggulan performa yang lebih baik dalam menemukan solusi
+global dibandingkan PSO atau PSO with Weighting Factor.
+
+Dari uraian diatas, penulis tertarik untuk menyelesaikan permasalahan
+Travelling Salesman Problem menggunakan Cat Swarm Optimization.
+1.2 Rumusan Masalah
+Berdasarkan uraian latar belakang di atas, maka permasalahan yang akan dibahas
+dalam proposal ini adalah:
+1. Bagaimana menyelesaikan Travelling Salesman Problem dengan
+menggunakan Algoritma Cat Swarm Optimization (CSO)?
+2. Bagaimana membuat Program untuk menyelesaikan permasalahan Travelling
+Salesman Problem dengan Algoritma Cat Swarm Optimization (CSO) ?
+3. Bagaimana cara mengimplementasikan program ke dalam contoh kasus?
+1.3 Tujuan
+Dalam penulisan skripsi ini, peneliti mempunyai tujuan sebagai berikut:
+1. Menyelesaikan Travelling Salesman Problem (TSP) dengan menggunakan
+Algoritma Cat Swarm Optimization .
+2. Membuat program untuk mendukung penyelesaian Travelling Salesman
+Problem dengan menggunakan Algoritma Cat Swarm Optimization?
+3. Mengimplementasikan hasil program ke dalam contoh kasus.
+
+1.4 Manfaat
+Adapun manfaat yang nantinya didapatkan adalah sebagai berikut:
+1. Dari hasil Skripsi ini diharapkan dapat menjadi referensi alternatif untuk
+menentukan rute yang minimal dalam kasus nyata.
+2. Diharapkan dari total jarak yang optimal tersebut, didapatkan efisiensi waktu
+dan pemakaian bahan bakar Kendaraan.

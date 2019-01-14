@@ -1,0 +1,107 @@
+﻿ABSTRAK
+Elektroda pasta karbon/molecularly imprinted polymer (MIP)telah
+dikembangkan untuk analisis glukosa secara potensiometri. MIP dibuat dengan
+mencampurkan glukosa sebagai template, asam metakrilat sebagai monomer, dan
+etilen glikol dimetakrilat sebagai crosslinker dengan perbandingan mol 1:4:12.
+Elektroda yang dibuat dari campuran karbon aktif, MIP dan paraffin dengan
+perbandingan massa sebesar 50:35:15 menunjukkan kinerja optimum. Dari penelitian
+diperoleh hasil bahwa pengukuran terhadap larutan glukosa memberikan hasil
+optimum pada pH 5 dengan tidak melalui pengaturan pH, faktor Nernst sebesar 28,80
+mV/dekade, jangkauan pengukuran sebesar 10-5-10-2M dan batas deteksi terendah
+sebesar 5,87 x 10-5 M. Larutan urea tidak menganggu pengukuran glukosa dengan
+metode ini. Elektroda ini memiliki akurasi pengukuran untuk konsentrasi 10-5-10-2 M
+sebesar 70,7-129%. Presisi dinyatakan dengan koefisien variasi untuk konsentrasi
+10-5-10-2 M sebesar 0,06-0,18%. Elektroda ini memiliki waktu respon rata-rata kurang
+dari 2 menit dan waktu hidup hingga 145 kali pemakaian.
+Kata kunci : glukosa, molecularly imprinted polymer, potensiometri, elektroda pasta
+karbon
+
+I
+PENDAHULUAN
+1.1 Latar Belakang Permasalahan
+Diabetes mellitus adalah suatu penyakit dimana tubuh tidak dapat
+mengendalikan kadar gula dalam darah secara otomatis. Pankreas di dalam tubuh
+yang sehat akan mengeluarkan hormon insulin, dimana hormon insulin ini dapat
+berfungsi mengangkut gula melalui darah ke otot-otot dan jaringan tubuh untuk
+memasok energi (Sustrani, 2006). Dampak kelebihan gula atau hiperglikemia
+yaitu glikosuria yang dapat mengakibatkan perubahan pada metabolisme lemak.
+Di sisi lain, dampak dari kekurangan kadar gula darah (hipoglikemia)
+mengakibatkan gangguan kesehatan seperti hipoglikemik (insulin berlebih)
+(Murray et al.,1996).
+Kadar glukosa dapat dianalisis menggunakan beberapa metode
+diantaranya secara spektrofotometri (Sudarmadji et al., 1994), high performance
+liquid chromatography (HPLC) (Ratnayani et al., 2008) dan liquid
+chromatography-mass spectroscopy (LC-MS) (Kamal and Klein, 2011).
+Analisis glukosa sebagai gula pereduksi dilakukan dengan metode
+Nelson-Somogyi secara spektrofotometri. Kekurangan dari metode ini adalah
+kurang selektif karena pereaksi tersebut dapat memberikan respon positif
+terhadap senyawa pereduksi selain glukosa misalnya fruktosa dan galaktosa
+(Sudarmadji et al., 1994). Ratnayani et al., (2008) dalam penelitiannya
+melakukan analisis glukosa dan fruktosa pada sampel madu randu dan madu
+kelengkeng dengan metode HPLC. Metode tersebut menunjukkan hasil yang lebih spesifik dari metode lain dalam menentukan glukosa dan fruktosa dalam
+sampel. Metode LC-MS untuk analisis glukosa menunjukkan selektivitas tinggi
+namun biaya operasionalnya juga cukup tinggi (Kamal and Klein, 2011).
+Pada penelitian ini dikembangkan metode alternatif untuk analisis
+glukosa yang lebih sederhana dan murah namun tetap sensitif yaitu
+menggunakan teknik potensiometri melalui pengembangan elektroda kerja.
+Potensiometri adalah teknik analisis berdasarkan pada pengukuran potensial sel
+elektrokimia pada arus nol. Bagian yang terpenting dari potensiometri yaitu
+elektroda. Salah satu tipe elektroda kerja yang digunakan dalam potensiometri
+yaitu elektroda pasta karbon yang terbuat dari pencampuran sebuk karbon dan
+parafin. Kinerja elektroda dapat ditingkatkan melalui modifikasi menggunakan
+cara tertentu. Kelebihan dari elektroda pasta karbon termodifikasi yaitu proses
+pembuatannya relatif mudah, biaya pembuatannya murah dan dapat diperbaharui
+dengan mudah (Gholivand et al., 2013). Salah satu bahan yang digunakan untuk
+memodifikasi elektroda yang telah dikembangkan yaitu molecularly imprinted
+polymer (MIP).
+Molecularly imprinted polymer (MIP) merupakan teknik dalam
+pembuatan polimer yang spesifik untuk suatu senyawa tertentu (Raw dan Yan,
+2006). Keunggulan dari MIP yaitu memiliki selektivitas yang tinggi untuk
+menangkap analit target, sangat stabil dalam pelarut-pelarut organik, pH, dan
+suhu yang ekstrim (Zeng et al., 2009). Dari keunggulan ini MIP dianggap ideal
+sebagai bahan pada pembuatan sensor elektrokimia.
+
+Pada penelitian ini dilakukan sintesis MIP glukosa dari asam metakrilat
+sebagai monomer, etilen glikol dimetakrilat sebagai cross-linker dan glukosa
+sebagai template. Penelitian tentang pengembangan sensor potensiometri melalui
+modifikasi elektroda dengan MIP telah dilakukan sebelumnya. Noryani (2015)
+menggunakan elektroda pasta karbon yang dimodifikasi dengan MIP yang
+terbuat dari monomer melamin dan kloranil sebagai sensor potensiometri untuk
+analisis glukosa dalam darah. Safitri (2011) mengembangkan elektroda pasta
+karbon/MIP dengan monometer asam metakrilat sebagai sensor potensiometri
+terhadap melamin.
+Parameter yang dipelajari pada penelitian ini adalah komposisi karbon
+aktif, parafin dan MIP dalam pembuatan elektroda pasta karbon/MIP serta
+kondisi optimum pH larutan glukosa. Kinerja elektroda dan validitas metode
+analisis yang dipelajari meliputi waktu respon elektroda, batas deteksi, faktor
+Nernst, jangkauan pengukuran, akurasi, presisi, selektivitas, dan waktu hidup
+elektroda. Selektivitas dipelajari dengan penambahan larutan urea pada analisis
+larutan glukosa. Urea dipilih sebagai matriks pengganggu karena terkandung
+didalam serum darah dan mempunyai sisi pengikat yang sama dengan glukosa.
+1.2 Rumusan Masalah
+Berdasarkan latar belakang permasalahan, maka dapat dirumuskan masalah
+sebagai berikut.
+1. Bagaimanakah komposisi optimum karbon aktif, parafin dan MIP pada
+pembuatan elektroda untuk analisis glukosa dalam darah secara
+potensiometri ?
+
+2. Berapakah pH optimum larutan pada analisis glukosa menggunakan
+elektroda pasta karbon/MIP secara potensiometri ?
+3. Berapakah waktu respon elektroda, batas deteksi, faktor Nernst, jangkauan
+pengukuran, akurasi, presisi, selektivitas, dan waktu hidup elektroda pasta
+karbon/MIP untuk analisis glukosa dalam darah ?
+1.3 Tujuan Penelitian
+Tujuan penelitian ini adalah :
+1. Menentukan komposisi optimum karbon aktif, parafin dan MIP pada
+pembuatan elektroda untuk analisis glukosa dalam darah secara
+potensiometri.
+2. Menentukan pH optimum larutan pada analisis glukosa menggunakan
+elektroda pasta karbon/MIP secara potensiometri.
+3. Menentukan waktu respon elektroda, batas deteksi, faktor Nernst, jangkauan
+pengukuran, akurasi, presisi, selektivitas, dan waktu hidup elektroda pasta
+karbon/MIP untuk analisis glukosa dalam darah.
+1.4 Manfaat Penelitian
+Dari hasil penelitian ini diharapkan diperoleh elektroda berbasis pasta
+karbon/MIP yang sensitif dan selektif terhadap glukosa, sehingga menjadi
+alternatif untuk pengukuran glukosa dalam darah secara potensiometri dengan
+hasil yang akurat, cepat, mudah dan murah.

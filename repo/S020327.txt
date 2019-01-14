@@ -1,0 +1,290 @@
+﻿ABSTRAK
+Analisis dalam penelitian ini bertujuan untuk pertama, mengetahui terjadi atau
+tidaknya σ-convergence di Indonesia. Kedua, mengetahui terjadi atau tidaknya
+absolute dan conditional convergence di Indonesia. Ketiga, mengetahui besarnya
+speed of convergence jika di Indonesia terjadi absolute atau conditional
+convergence. Dan keempat, mengetahui the half life of convergence atau waktu
+yang dibutuhkan untuk menutupi setengah dari kesenjangan awal. Penelitian ini
+menggunakan data sekunder yaitu data rasio pertumbuhan ekonomi tahun 2002-
+2012, pendapatan per kapita tahun 2002-2012, pembentukan modal tetap bruto
+tahun 2002-2012, angkatan kerja tahun 2002-2012, dan data total factor
+productivity tahun 2002-2012 33 provinsi di Indonesia. Metode yang digunakan
+dalam penelitian ini adalah data panel dengan pendekatan efek tetap (Fixed Effect
+Model) dan dummy wilayah. Penelitian ini memiliki dua analisis yang berbeda,
+pertama, analisis σ-convergence dengan menghitung standar deviasi dari log
+pendapatan per kapita. Dan kedua, analisis β-convergence yang dilakukan melalui
+model absolute convergence dan conditional convergence. Hasil penelitian
+menunjukkan bahwa analisis σ-convergence mengalami pola yang menurun, pola
+ini menggambarkan peluang terjadinya penurunan ketimpangan. Hasil analisis
+absolute convergence menunjukkan bahwa tidak terdapat konvergensi di
+Indonesia. Sementara itu hasil analisis conditional convergence justru
+menunjukkan terjadinya konvergensi pertumbuhan ekonomi di Indonesia dengan
+speed of convergence sebesar 5,9 persen per tahun dan the half life of convergence
+sebesar 12 tahun.
+Kata Kunci: konvergensi, σ-convergence, β-convergence, absolute convergence,
+conditional convergence
+
+BAB I
+PENDAHULUAN
+1.1 Latar Belakang
+Selama hampir 70 tahun Indonesia merdeka, pemerintah telah mengerahkan
+waktu, tenaga dan biaya untuk pembangunan di seluruh wilayah Indonesia. Hasil
+pembangunan pun dapat dilihat di seluruh wilayah Indonesia, walaupun terdapat
+ketimpangan-ketimpangan yang menunjukan adanya perbedaan kecepatan
+pembangunan antara satu daerah dengan daerah lainnya. Perbedaan karakteristik
+wilayah mempunyai pengaruh kuat pada terciptanya pola pembangunan ekonomi
+di Indonesia yang tidak seragam, sehingga ini berpengaruh pada kemampuan
+untuk tumbuh yang pada gilirannya mengakibatkan beberapa wilayah mampu
+tumbuh dengan cepat sementara wilayah lainnya tumbuh lambat.
+Walau pemerintah mengklaim perkembangan ekonomi banyak mengalami
+kemajuan tetapi perekonomian Indonesia tidak terlepas dari berbagai ketimpangan
+yang terjadi di tengah masyarakat. Ini berdampak pada tidak adanya manfaat
+kemajuan itu bagi masyarakat banyak di negeri ini. Pendapat pemerintah mungkin
+lebih di dominasi oleh pandangan normatif formal tanpa melihat apa yang
+berjalan secara nyata dan mendalam. Kenyataan yang ada tidak berjalan seperti
+apa yang dikatakan. Di sana sini kita menemukan permasalahan yang tersimpul di
+dalam masalah pengangguran dan kemiskinan. Ini terjadi karena di dalam
+perekonomian Indonesia ditemukan berbagai ketimpangan. Ketimpangan yang
+terjadi menjadi sebab mengapa klaim pemerintah itu tidak menyentuh pada
+perbaikan kesejahteraan masyarakat secara merata.
+
+Masalah ketimpangan ini dalam praktik sering memicu kecemburuan sosial
+dan kekerasan yang sering terjadi di berbagai daerah di Indonesia. Sumber daya
+alam yang melimpah seharusnya memberikan kesejahteraan masyarakat jika
+regulasi berpihak kepada rakyat. Namun, yang terjadi sebaliknya, kesenjangan
+terjadi di mana-mana. Misalnya, di daerah yang miskin dan APBD-nya rendah,
+para pejabat dan kepala dinas mengendarai mobil mewah dan tinggal di
+perumahan mewah. Tak ketinggalan, para kontraktor sebagai mitra kerja pemda
+juga ikut menampilkan gaya hidup mewah di tengah kesulitan masyarakat dalam
+memenuhi kebutuhan dasarnya. Belum lagi perusahaan-perusahaan yang
+mengeksploitasi alam secara besar-besaran di daerah, masyarakat di sekitarnya
+hanya bisa menjadi penonton sehingga mendorong munculnya kecemburuan
+sosial, kesenjangan, dan berujung pada tindak kekerasan (Mudrajat Kuncoro,
+2013).
+
+Belum meratanya persebaran penduduk dan ketenagakerjaan, kesenjangan
+tingkat kesejahteraan masyarakat, disparitas pertumbuhan ekonomi antar daerah,
+dan disparitas pembangunan prasaranan dasar antar daerah menunjukkan masih
+adanya kesenjangan pembangunan antar daerah.
+Persebaran penduduk yang tidak merata sangat jelas terlihat. Pada tahun
+1990, penduduk di kawasan barat Indoneisa mencakup 82 persen penduduk
+Indonesia, sedangkan kawasan timur Indonesia hanya mencakup 18 persen
+penduduk Indonesia. Pada tahun 2007, persentase jumlah penduduk di kawasan
+barat Indonesia berkurang menjadi 81 persen, dan 19 persen bagi kawasan timur
+Indonesia. Walaupun terjadi peningkatan persentase jumlah penduduk di kawasan timur Indonesia, angka tersebut tidaklah tinggi karena persentase jumlah
+penduduk di kawasan barat Indonesia masih tetap tinggi.
+Sedangkan dalam hal disparitas pertumbuhan ekonomi kontribusi terbesar
+berasal dari kawasan barat Indonesia, dengan kontribusi rata-rata 80 persen per
+tahun, sementara kawasan timur Indonesia memberikan kontribusi per tahun ratarata
+sebesar 20 persen. Provinsi dengan kontribusi terbesar terhadap PDB berasal
+dari wilayah Jawa dan Bali, dengan kontribusi rata-rata 60 persen per tahun.
+Sumatera dengan kontribusi per tahun rata-rata 22 persen, Kalimantan dengan
+rata-rata 9 persen, sedangkan Sulawesi dan wilayah Indonesia bagian timur
+lainnya memberikan kontribusi kurang dari 5 persen per tahun (Novy Farah,
+2009). Rendahnya kontribusi kawasan timur Indonesia terhadap pertumbuhan
+perekonomian secara nasional dapat disebabkan oleh ketergantungan wilayahwilayah
+tersebut pada sektor primer seperti, pertanian, perkebunan dan
+pertambangan.
+
+Tidak meratanya kondisi infrastruktur jalan, energi, air, irigasi, telpon dan
+infrastruktur lainnya juga menjadi petunjuk masih tingginya disparitas
+pembangunan antar wilayah Indonesia. Kawasan timur Indonesia selalu menjadi
+daerah yang relatif tertinggal.
+Jadi, dapat dikatakan pertumbuhan ekonomi antar daerah di Indonesia
+menunjukkan terjadinya disparitas dalam hal kesejahteraan dan pendapatan.
+Sedangkat pertumbuhan ekonomi yang baik pada umumnya diikuti oleh
+peningkatan kesejahteraan, produktivitas, kesempatan kerja, dan distribusi
+pendapatan.
+
+Menurut Tambunan (2011), faktor-faktor penyebab disparitas antar daerah
+di Indonesia antara lain adalah konsentrasi kegiatan ekonomi wilayah, alokasi
+investasi, tingkat mobilitas faktor produksi antar daerah, perbedaan sumber daya
+alam (SDA), perbedaan kondisi geografis antar wilayah, dan kurang lancarnya
+perdagangan antar propinsi karena kurang memadainya infrastruktur.
+Disparitas pertumbuhan ekonomi tidak hanya terjadi di Indonesia, namun
+juga terjadi di negara lain, seperti Amerika Serikat. Barro (1992) membandingkan
+pertumbuhan pendapatan per kapita antara negara bagian yang terletak di sebelah
+selatan dan non-selatan. Hasilnya adalah pertumbuhan pendapatan per kapita di
+negara bagian yang terletak di sebelah selatan lebih kecil dibandingkan dengan
+pertumbuhan pendapatan per kapita di negara bagian non selatan. Hal ini
+menunjukkan terjadinya disparitas yang terjadi antara negara-negara bagian yang
+terletak di selatan dengan negara bagian lainnya terletak tidak di selatan Amerika.
+Ilmu Ekonomi adalah ilmu yang mempelajari bagaimana memilih secara
+efektif dan efisien dari berbagai pilihan yang ada, yang jumlah dan variannya
+terbatas untuk mewujudkan sebuah kehidupan yang memanusiakan manusia.
+Salah satu dari sekian banyak barometer yang digunakan untuk mengetahui sejauh
+mana ilmu ekonomi berhasil menyusun pilihan yang efektif dan efisien tersebut
+adalah pertumbuhan ekonomi, dengan segala keterbatasannya.
+Dewasa ini, kita pun semakin dihadapkan oleh berbagai metode yang
+berusaha menyajikan masalah pertumbuhan dari berbagai sisi terbaik untuk dapat
+menjelaskan sekaligus menyusun kerangka kehidupan yang manusiawi melalui
+dua kata ‘pertumbuhan ekonomi’. Pertumbuhan ekonomi merupakan salah satu indikator yang penting dalam melakukan analisis tentang pembangunan ekonomi
+yang terjadi pada suatu negara. Pertumbuhan ekonomi akan menghasilkan
+tambahan pendapatan masyarakat pada suatu periode tertentu, karena pada
+dasarnya aktifitas perekonomian adalah suatu proses penggunaan faktor-faktor
+produksi untuk menghasilkan barang dan jasa. Proses ini akan menghasilkan suatu
+aliran balas jasa terhadap faktor produksi yang dimiliki masyarakat. Dengan
+adanya pertumbuhan ekonomi maka diharapkan pendapatan masyarakat sebagai
+pemilik faktor produksi juga akan meningkat.
+Dengan melihat masalah disparitas yang terjadi, banyak ahli melakukan
+penelitian mengenai konvergensi pertumbuhan ekonomi dan faktor-faktor yang
+mempengaruhinya. Beberapa penelitian mengenai konvergensi yang telah
+dilakukan di berbagai negara memperlihatkan bahwa karakteristik awal dari
+sistem perekonomian suatu negara dapat menyebabkan perbedaan pertumbuhan
+pendapatan per kapita. Konvergensi sendiri diartikan sebagai keadaan dimana
+perekonomian miskin akan memiliki pertumbuhan ekonomi yang lebih tinggi
+dibandingkan dengan perekonomian kaya, sehingga gap antara perekonomian
+miskin dan perekonomian kaya akan tererosi dalam hitungan persentase dan pada
+akhirnya kedua perekonomian akan bertemu pada satu titik yang sama
+(konvergen). Hal ini dikarenakan terjadinya penurunan pertumbuhan modal yang
+dapat disebut sebagai diminishing returns to capital dalam mahzab neoklasik.
+Dimana perekonomian kaya secara implisit sudah mengeksploitasi modal yang
+mereka miliki, sehingga returns yang mereka terima dari modal terus berkurang,
+dan sebaliknya bagi perekonomian miskin.
+
+Solow dalam Model Neoklasiknya menyatakan bahwa tingkat pertumbuhan
+ekonomi di dua daerah dapat berbeda karena setiap daerah memiliki jumlah
+modal, tenaga kerja dan efisiensi yang berbeda. Beberapa studi empiris lebih jauh
+menjelaskan faktor-faktor penyebab terjadinya perbedaan pertumbuhan lainnya
+baik untuk tingkat regional maupun kota.
+
+Sebagaimana dinyatakan dalam Barro dan Sala-i Martin (2004), penelitian
+mengenai konvergensi sudah dilakukan di berbagai negara. Diawali oleh Baumol
+(1986), beberapa peneliti mencoba untuk meneliti konvergensi yang terjadi di
+beberapa negara. Sala-i Martin (1990) meneliti konvergensi yang terjadi di negara
+Amerika Serikat. Kemudian penelitiannya dikembangkan untuk melihat
+konvergensi yang terjadi di negara-negara Eropa (Barro dan Sala-i Martin, 1991),
+Jepang (Barro dan Sala’i Martin, 1992), Kanada (Coulombe dan Lee, 1993),
+Swedia (Persson, 1997), India (Cashin dan sahay, 1995), provinsi di Spanyol
+(Sanchez-Robles dan Villaverde, 2001) dan wilayah di Bangladesh (Hossain,
+2000).
+
+Beberapa penelitian menggunanakan faktor-faktor yang cukup berbeda
+untuk menunjukkan kondisi ekonomi di suatu daerah, namun pada intinya faktorfaktor
+tersebut dianggap dapat mewakili kondisi ekonomi di suatu daerah
+sehingga dapat mencapai konvergensi pertumbuhan ekonomi. Bao et al. (2002)
+memasukkan variabel jarak garis pantai, panjang garis pantai, dan persebaran
+penduduk. Brun et al. (2002) mengguakan variabel pertumbuhan penduduk,
+populasi, tingkat inflasi, dan FDI. Cai et al. (2002) memasukkan faktor human
+capital, tingkat partisipasi angkatan kerja, produktivitas tenaga kerja, dan
+investasi.
+
+Sementara itu model konvergensi yang dikembangkan oleh Barro (1991)
+dan didukung oleh Casselli, Esquivel, dan Lefort (1996) menyatakan bahwa
+pertumbuhan ekonomi dipengaruhi oleh pendapatan awal, investasi pada modal
+manusia, pertumbuhan populasi, dan investasi pada infrastruktur. Namun Pritchett
+(1996) dalam Canning (1999) menyatakan bahwa untuk menghitung kontribusi
+infrastruktur lebih baik menggunakan perhitungan fisik dibandingkan besarnya
+investasi terhadap infrstruktur. Hal tersebut dikarenakan adanya masalah yang
+timbul jika penelitian hanya menggunakan data investasi, antara lain karena
+adanya perbedaan efisiensi di mana pada level investasi yang sama dapat
+memberikan hasil yang berbeda di tiap daerah.
+
+Hal senada didapat dari hasil penelitian Devarajan et al. (1996) yang
+menemukan adanya hubungan negatif dan signifikan anatara ratio dari
+pengeluaran untuk transportasi dan komunikasi terhadap pertumbuhan ekonomi
+untuk sample 43 negara berkembang. Menurut Derajan et al. hasil yang aneh
+tersebut menunjukkan bahwa pengeluaran yang berlebihan dari pengeluaran untuk
+transportasi dan komunikasi menjadikan pengeluaran tersebut tidak produktif.
+Jadi perhitugan infrastruktur lebih baik mengguanakan perhitungan fisik.
+Dalam kaitannya dengan studi empiris di Indonesia terdapat beberapa
+penelitian yang menghasilkan kesimpulan yang serupa. Wibisono (2003)
+menemukan bahwa terjadi konvergensi absolut dan kondisional antar provinsi di
+Indonesia dalam kurun waktu 1975-2000. Irawati (2008) juga menemukan bahwa
+terjadi konvergensi absolut dan kondisional antar provinsi di Indonesia dengan
+menggunakan analisis data panel 1993-1996 dan 2002-2005, penelitian sejenis
+juga dilakukan oleh Garcia dan Soelistianingsih (1998).
+
+Konvergensi itu sendiri memiliki dua perspektif utama dalam alur
+pembahasannya. Perspektif pertama, yang berhubungan dengan konsep β-
+convergence, seperti yang dikatakan oleh Barro (1984), Baumol (1986), De Long
+(1988), Barro and Sala-i Martin (1991, 1992) konvergensi dinyatakan terjadi jika
+perekonomian miskin tumbuh lebih cepat dibandingkan dengan perekonomian
+kaya karena perekonomian negara kaya secara implisit dapat dinyatakan telah
+mengeksploitasi capital yang mereka miliki, sehingga tingkat pertumbuhan
+mereka cenderung mengalami perlambatan. Dan sebaliknya, perekonomian negara
+miskin secara implisit dapat dinyatakan belum mengoptimalkan penggunaan
+capital, sehingga mereka masih bisa menikmati return of capital stock melebihi
+apa yang dapat dinikmati oleh daerah kaya dalam waktu yang sama, sehingga
+perekonomian mereka (daerah miskin) cenderung tumbuh lebih cepat
+dibandingkan dengan perekonomian daerah kaya.
+
+Kelebihan dari β-convergence adalah sifat analisisnya yang dapat
+menjelaskan long term phenomenon, karena sifatnya yang dinamis. Selain itu, β-
+convergence dapat menjelaskan kecepatan konvergensi secara akurat.
+Perspektif kedua memfokuskan diri pada masalah dispersi antar
+perekonomian yang dikenal dengan konsep σ-convergence, seperti yang dikatakan
+oleh Easterlin (1960), Borts and Stein (1964), Streissler (1979), Barro (1984),
+Baumol (1986), Dowrick and Nguyen (1989), Barro and Sala-I-Martin (1991, 1992,) menjelaskan bahwa konvergensi terjadi jika dispersi (ukuran penyebaran)
+antar perekonomian semakin menurun seiring berjalannya waktu. Dalam hal ini,
+dispersi biasanya diukur melalui standar deviasi dari log PDB riil. Dengan kata
+lain, σ-convergence terfokus pada cross-sectional dispersion dan bersifat analisis
+statis.
+
+Pada sisi lain, dikenal dua hipotesis konvergensi, absolut dan kondisional.
+absolute convergence menjelaskan sejauh mana initial condition of growth dari
+suatu perekonomian mempengaruhi tingkat pertumbuhan untuk masa depan.
+Dengan kata lain, konsep ini berusaha menjelaskan eksistensi dari salah satu
+pemikiran neoklasik yang meyakini adanya diminishing returns to capital yang
+berimplikasi melalui eksistensi absolute convergence, bahwa sebuah
+perekonomian yang kaya cenderung tumbuh lebih lambat daripada perekonomian
+miskin sebagai konsekuensi dari adanya diminishing return to capital.
+Meskipun pada suatu sisi kita mengharapkan hipotesis absolute
+convergence terbukti, tetapi menjadi sangat sulit untuk menghindari adanya bias
+spesifikasi, karena pertumbuhan sudah tentu tidak hanya dipengaruhi oleh level of
+initial condition saja, tetapi banyak faktor lain yang secara teori cukup signifikan
+untuk mempengaruhi tingkat pertumbuhan. Untuk itu, penggunaan hipotesis
+conditional convergence (yang mengijinkan adanya variabel eksogen lain sebagai
+determinan dari pertumbuhan ekonomi) menjadi semakin relevan untuk
+digunakan dalam studi ini.
+
+Menjadi sesuatu yang sangat menarik apabila mengetahui eksistensi dan
+kecepatan konvergensi di Indonesia, karena menurut penulis itu adalah suatu
+keterkaitan yang dapat menginformasikan kepada masyarakat bahwa bagaimana
+kondisi perekonomian daerah mereka. Berdasarkan latar belakang masalah di atas
+maka penulis mengangkat topik dalam penelitian ini dengan judul “Analisis σ
+dan β Convergence Pertumbuhan Ekonomi Indonesia Tahun 2002-2012”
+
+1.2 Rumusan Masalah
+Pola pembangunan yang tidak merata serta perbedaan karakteristik di
+setiap provinsi di Indonesia menjadi awal masalah yang timbul sehingga
+menyebabkan pola pertumbuhan ekonomi di setiap provinsi menjadi berbedabeda.
+Tidak mengherankan apabila di Indonesia terdapat pola disparitas daerah
+yang cukup tinggi sehingga daerah-daerah dengan pertumbuhan ekonomi yang
+rendah sangat sulit untuk mengejar daerah-daerah dengan pertumbuhan ekonomi
+yang tinggi. Tetapi dalam hal lain perekonomian negara kaya secara implisit dapat
+dinyatakan telah mengeksploitasi capital yang mereka miliki, sehingga tingkat
+pertumbuhan mereka cenderung mengalami perlambatan. Dan sebaliknya,
+perekonomian negara miskin secara implisit dapat dinyatakan belum
+mengoptimalkan penggunaan capital, sehingga mereka masih bisa menikmati
+return of capital stock melebihi apa yang dapat dinikmati oleh daerah kaya dalam
+waktu yang sama, sehingga perekonomian mereka (daerah miskin) cenderung
+tumbuh lebih cepat dibandingkan dengan perekonomian daerah kaya. Maka
+masalah yang dapat dirumuskan dari penelitian ini adalah :
+1. Apakah di Indonesia terjadi σ-convergence?
+2. Apakah di Indonesia terjadi β-convergence, dalam hal ini absolute dan
+conditional convergence ?
+3. Berapakah kecepatan konvergensi (speed of convergence)
+pertumbuhan ekonomi di Indonesia ?
+4. Berapakah the half life of convergence pertumbuhan ekonomi di
+Indonesia ?
+
+1.3 Tujuan Penelitian
+Berdasarkan pertanyaan-pertanyaan diatas, maka penelitian ini bertujuan
+untuk:
+1. Mengetahui terjadi atau tidaknya σ-convergence dan β-convergence di
+Indonesia.
+2. Mengetahui Speed of Convergence dengan menggunakan metode β-
+convergence di Indonesia.
+3. Mengetahui the half life of convergence pertumbuhan ekonomi di
+Indonesia ?
+
+1.4 Kegunaan Penelitian
+Adapun manfaat dan kegunaan penelitian ini adalah :
+1. Memperkaya dan melengkapi referensi mengenai konvergensi yang
+terjadi di Indonesia, dengan melihat kecepatan dari konvergensi itu
+sendiri
+2. Menambah, melengkapi sekaligus sebagai pembanding hasil-hasil
+penelitian yang sudah ada menyangkut topik yang sama.
+3. Sebagai referensi dan informasi untuk penelitian-penelitian
+selanjutnya.

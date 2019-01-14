@@ -1,0 +1,84 @@
+﻿Pengaruh Front Time terhadap Tegangan Residu
+Arester ZnO 18 kV
+
+
+Intisari—Sistem kelistrikan di Indonesia memiliki dua
+bagian utama yang tidak dapat dipisahkan, yaitu sumber
+(penyedia) dan beban (pengguna). Berbagai upaya dilakukan
+untuk memenuhi kebutuhan beban, salah satunya adalah
+menciptakan sistem yang handal. Kehandalan sistem didapat
+salah satunya dengan melindungi peralatan sistem dari
+gangguan, khususnya tegangan lebih (surja). Karakteristik surja
+sulit untuk diprediksi. Surja yang mengalir dalam saluran dapat
+terpengaruh oleh impedans saluran dan mengakibatkan
+perubahan karakteristik gelombang yang dihasilkan. Salah satu
+perubahan yang mungkin muncul adalah perubahan nilai waktu
+muka (front time). Penelitian ini merupakan kegiatan pengujian
+skala laboratorium terhadap arester ZnO 18 kV dengan front
+time yang bervariasi antara 0-30 μs. Variasi front time dapat
+mempengaruhi nilai tegangan residu dengan nilai tegangan
+residu rata-rata arester ZnO 18 kV sebesar 39972.25 V untuk
+tegangan masukan Vpi 60 kV dan 42150 V untuk
+tegangan masukan 100 kV. Semakin besar nilai front time
+akan mengakibatkan penurunan tegangan residu, namun
+nilainya tidak terlalu signifikan. Perubahan front time juga
+mempengaruhi bentuk gelombang yang dihasilkan arester ZnO
+18 kV.
+Kata Kunci— tegangan lebih, arester ZnO, front time, tegangan
+residu.
+I. PENDAHULUAN
+Sistem kelistrikan di Indonesia memiliki dua bagian utama
+yang tidak dapat dipisahkan, yaitu sumber (penyedia) dan
+beban (pengguna). Dari sisi penyedia terdapat peralatan yang
+berfungsi membangkitkan daya listrik serta peralatan lain
+yang menunjang keberhasilan pihak penyedia dalam
+memenuhi kebutuhan pengguna akan daya listrik. Peralatan
+yang sangat penting dalam proses pembangkitan daya listrik
+adalah transformator. Oleh karena itu, berbagai upaya
+dilakukan untuk melindungi transformator dari gangguan yang
+dapat membahayakannya. Hal ini bertujuan agar tercapai
+kehandalan sistem dalam menjalankan proses penyaluran daya
+listrik dari sumber kepada beban.
+Banyak jenis gangguan yang dapat mempengaruhi
+kehandalan penyaluran daya listrik dari sumber kepada
+pengguna, salah satunya adalah tegangan lebih (surja) petir
+dan hubung (switching). Indonesia berpeluang untuk memiliki
+kerapatan petir yang tinggi karena letak geografis Indonesia
+yang dikelilingi lautan. Kerapatan petir di Indonesia mencapai
+10 sambaran/km2/tahun [1]. Petir juga menjadi penyebab
+mayoritas kegagalan yang terjadi pada sistem daya listrik [2].
+Surja hubung terjadi saat proses penyaklaran dan memiliki
+karakteristik tegangan dengan waktu muka (front time) yang
+lebih besar. Hal ini disebabkan karena sulitnya menentukan
+secara pasti karakteristik petir yang terjadi. Salah satu
+karakteristik yang perlu diperhatikan adalah pengaruh
+besarnya nilai waktu muka (front time) pada gelombang surja
+yang berbentuk impuls.
+Petir dapat menyambar secara langsung pada saluran
+maupun tidak langsung atau pada obyek di dekat saluran.
+Gelombang berjalan (travelling wave) dapat mengalir dari
+jarak yang cukup jauh pada peralatan sistem pembangkit daya
+listrik. Gelombang berjalan yang melewati saluran tentunya
+dipengaruhi oleh impedans saluran yang dilewati. Akibatnya
+bentuk gelombang surja dapat mengalami pelemahan
+(attenuation) dan rusak (distortion). Perubahan tersebut
+tentunya akan mempengaruhi karakteristik kinerja peralatan
+pelindung surja, dalam hal ini adalah arester surja.
+Arester metal-oxide (ZnO) tanpa sela telah banyak
+digunakan sejak tahun 1980an. Arester dengan blok varistor
+ZnO ini telah menggantikan fungsi arester bersela dengan
+blok resistor silicon-carbide (SiC) yang dinilai memiliki
+kehandalan yang kurang baik [3], [4], [5]. Varistor ZnO
+memiliki karakteristik V-I yang baik, sehingga pada keadaan
+tegangan jaringan normal, arester berperan sebagai isolator,
+tetapi ketika terjadi surja pada terminal arester maka arester
+akan berubah menjadi penghantar dan mengalirkan muatan
+surja tersebut ke tanah.
+Penelitian berkaitan dengan kinerja arester telah banyak
+dilakukan. Penelitian dengan nilai front time yang tidak sesuai
+standard banyak dilakukan secara simulasi dengan perangkat
+lunak yang tersedia [6]. Penelitian yang dilakukan terbatas
+pada penggunaan satu atau dua buah nilai front time yang
+berbeda [7],[8]. Oleh karena itu, penelitian terhadap arester
+yang dialiri gelombang dengan variasi nilai front time yang menggunakan metode pengujian skala laboratorium diyakini
+masih belum dilakukan.

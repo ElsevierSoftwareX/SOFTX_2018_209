@@ -1,0 +1,460 @@
+﻿Evaluasi Kondisi Fungsional dan Struktural Menggunakan
+Metode Bina Marga dan AASHTO 1993 Sebagai Dasar dalam Penanganan
+Perkerasan Lentur Studi Kasus : Ruas Medan - Lubuk Pakam
+
+Abstrak
+Tujuan dari penelitian ini adalah melakukan evaluasi fungsional dan struktural pada perkerasan lentur di Jalan
+Lintas Timur Sumatera Ruas Medan-Lubuk Pakam, serta memberi rekomendasi penanganan berdasarkan hasil
+evaluasi tersebut. Evaluasi fungsional perkerasan dilakukan berdasarkan metode Bina Marga yaitu mengkombinasikan
+nilai IRI (International Roughness Index) dan SDI (Surface Distress Index), sedangkan evaluasi
+struktural perkerasan dilakukan dengan menganalisa nilai lendutan dari pengukuran FWD (Falling Weight
+Deflectometer) yang dianalisa menggunakan metode AASHTO 1993 dengan outputnya adalah nilai SN (Structural
+Number), dimana perbandingan SNeffective /SNfuture menghasilkan nilai SCI (Structural Condition Index) yang menentukan
+apakah suatu perkerasan memerlukan overlay atau tidak. Berdasarkan hasil analisis fungsional dengan
+mengkombinasikan nilai IRI dan SDI menggunakan metode Bina Marga menghasilkan kondisi jalan masingmasing
+segmen antara lain sedang dan rusak ringan. Analisis struktural menunjukan hasil diseluruh segmen
+menghasilkan nilai SCI<1 yang berarti seluruh segmen telah membutuhkan lapis tambah (overlay).
+Kata-kata Kunci: Structural condition index, International roughness index, Surface distress index, AASHTO
+1993
+1. Pendahuluan
+Arus lalu lintas yang tinggi dan beban lalu lintas yang
+berat pada jalan Lintas Timur Sumatera, harus
+diimbangi oleh kondisi perkerasan jalan yang baik,
+sehingga diperlukan evaluasi terhadap kondisi jalan
+secara periodik guna mendapatkan jenis pemeliharaan
+yang paling tepat. Analisis Struktural perkerasan
+diperoleh dari nilai parameter Structural Number atau
+SN (AASHTO,1993) pada perkerasan terpasang, untuk
+mengetahui apakah perkerasan masih mampu menahan
+beban lalu lintas. Sedangkan Analisis Fungsional
+perkerasan diperoleh dari nilai parameter pengguna
+perkerasan (serviceability) yang diinginkan oleh
+pengguna jalan. Kedua parameter ini harus dipadukan
+agar suatu kinerja jalan dapat tercapai dengan suatu
+model sebagai fungsi dari beberapa faktor yang didefinisikan
+sebagai kerusakan jalan yang menyebabkan
+penurunan kondisi perkerasan baik secara Struktural
+maupun Fungsional.
+Berdasarkan hal tersebut diatas, maka tujuan penelitian
+ini adalah melakukan analisa Fungsional dan Struktural
+dari suatu perkerasan jalan, dimana analisa Fungsional
+diperoleh dari penilaian secara visual dan juga dari
+nilai International Roughness Index (IRI) yang
+diperoleh dari hasil pengukuran menggunakan alat
+roughometer NAASRA, yang akan menghasilkan suatu
+kondisi dan jenis penanganan secara kualitatif
+(Paterson W et al,1992). Sedangkan analisa Struktural
+perkerasan dilakukan memakai metode Nondestructive
+Deflection Test (NDT), dimana akan diperoleh nilai
+Modulus lapisan (layer modulus) hasil dari pengukuran
+menggunakan alat Falling Weight Deflectometer
+(FWD) (Zhang, et al., 2002). Nilai ini akan dianalisis
+dan menghasilkan suatu kondisi penanganan secara
+kuantitatif, yaitu tebal lapis tambah (overlay) yang
+diperlukan serta memberikan rekomendasi penanganan
+perkerasan berdasarkan hasil analisa tersebut.
+
+
+2. Metodologi Penelitian
+Metodologi dalam penelitian ini dibagi menjadi 3 (tiga)
+tahap analisis yaitu analisis Fungsional, analisis
+Struktural dan perencanaan Program Pemeliharaan,
+seperti dapat dilihat pada Gambar 1 (Yoga, 2013).
+Analisis Fungsional perkerasan terdiri dari :
+a. Pengumpulan data sekunder berupa data
+ketidakrataan jalan (roughness) untuk memperoleh
+nilai International Roughness Index (IRI) dan nilai
+Surface Distress Index (SDI) yang diperoleh berdasarkan
+hasil Survei Kondisi Jalan (SKJ) yang
+dilakukan secara visual setiap 100 meter.
+b. Nilai IRI dan SDI yang telah diperoleh pada masing
+-masing segmen akan dikombinasikan berdasarkan
+metode Bina Marga, untuk mendapatkan kondisi
+jalan secara kriteria fungsional (IRI dan SDI).
+c. Berdasarkan kondisi jalan yang telah didapatkan
+berdasarkan kriteria IRI dan SDI pada tiap
+segmennya, maka akan diperoleh rekomendasi
+penanganan untuk masing-masing segmen tersebut
+(lihat Tabel 4).
+Analisis Struktural perkerasan terdiri dari :
+a. Data Lalu lintas Harian rata-rata (LHR) dan data
+beban sumbu kendaraan diperoleh dari survei
+primer pada ruas Deli Serdang - Sei Rampah,
+sedangkan data lendutan FWD, data temperatur
+perkerasan dan data tebal lapis perkerasan
+terpasang merupakan data survey sekunder.
+b. Pertumbuhan rata-rata lalu lintas dihitung dari
+riwayat data lalu lintas setiap tahun. Nilai ini
+diperlukan untuk menghitung faktor pertumbuhan
+lalu lintas rata-rata (Average Traffic Growth
+Factor).
+c. Faktor pertumbuhan lalu lintas, data LHR dan
+nilai Faktor Truk untuk setiap golongan
+kendaraan; yang merupakan hasil perhitungan
+beban sumbu, digunakan untuk mencari nilai
+Kumulatif ESAL (Equivalent Standard Axle Load)
+pada saat ini dan nilai kumulatif ESAL untuk 5
+(lima) tahun kedepan.
+d. Menggunakan metode AASHTO 1993, nilai
+kumulatif ESAL yang diperoleh akan digunakan
+untuk mencari nilai SNf (Structural Number in
+Future). Sedangkan data lendutan FWD dan nilai
+temperatur perkerasan digunakan untuk menghitung
+nilai SNeff (Effective Structural Number).
+e. Rasio antara SNeff terhadap SNf disebut sebagai
+nilai Structural Condition Index (SCI), nilai akan
+digunakan sebagai acuan apakah perkerasan
+memerlukan penanganan overlay atau tidak,
+dimana nilai SCI<1 menunjukan bahwa perkerasan
+memerlukan overlay.
+Perencanaan Program Pemeliharaan terdiri dari :
+a. Penanganan yang dilakukan merupakan kombinasi
+dari hasil Analisis Fungsional dan Analisis
+Struktural, dimana kondisi terburuk dari setiap
+kombinasi pada masing-masing segmen merupakan
+acuan untuk penentuan jenis penanganan.
+b. Penanganan dilakukan dengan beberapa jenis skema
+penanganan, dimana parameter yang
+digunakan untuk skema penanganan terpilih adalah
+berdasarkan prediksi penurunan kondisi jalan
+melalui kenaikan nilai IRI hingga saat tahun yang
+ditinjau dan juga berdasarkan analisis biaya untuk
+masing-masing skema penanganan.
+
+3. Presentasi Data
+3.1 Data ketidakrataan jalan (roughness)
+Data kekasaran perkerasan (roughness) diperoleh dari
+survei memakai alat Roughmeter NAASRA dan memberikan
+nilai International Roughness Index (IRI) yang
+menjadi parameter untuk melakukan penilaian kondisi
+perkerasan secara fungsional. Data IRI yang diperoleh
+secara sekunder sejak tahun 2011 merupakan nilai IRI
+pada KM 11+742 sampai dengan KM 22+244 ruas
+
+Medan - Lubuk Pakam seperti pada Gambar 2.
+
+
+3.2 Data kondisi permukaan perkerasan
+Data kondisi permukaan perkerasan diperoleh berdasarkan
+survei visual setiap 100 meter dengan
+menggunakan form survei standar Bina Marga. Hasil
+survei diolah berdasarkan Manual Bina Marga, untuk
+menghasilkan nilai Surface Distress Index (SDI). Data kondisi permukaan perkerasan untuk KM 19+742 sampai
+dengan KM 20+642, hasil survei visual tahun 2011
+untuk ruas Medan-Lubuk Pakam dan dicatat
+menggunakan form Road Condition Survey (RCS) dari
+Bina Marga, dapat dilihat pada Tabel 1.
+
+
+3.3 Data lendutan
+Data lendutan diperoleh memakai alat Falling Weight
+Deflectometer (FWD) yang dilakukan tahun 2011.
+Pengukuran dilakukan pada ruas jalan Medan - Lubuk
+Pakam untuk interval setiap 500 meter. Alat ini
+dilengkapi dengan piringan beban berdiameter 300 mm,
+beban pemberat 200 kg dan tinggi jatuh 315 mm. Jarak
+antar deflectometer ditempatkan antara 0, 200, 300,
+450, 600, 900 dan 1500 mm dari pusat beban, dimana
+tebal total perkerasan eksisting pada ruas jalan yang
+dikaji adalah kurang dari 400 mm. Pada saat pengukuran
+lendutan FWD, temperatur perkerasan dan waktu
+pengukuran juga tercatat oleh alat FWD ini.
+
+3.4 Data lalu lintas
+Data volume lalu lintas merupakan data sekunder untuk
+tahun 2009 sampai dengan 2013, yang akan digunakan
+untuk menghitung nilai Equivalent Single Axle Load
+(ESAL) dalam analisis Kondisi Struktural.
+
+
+3.5 Data beban sumbu kendaraan
+Data beban sumbu kendaraan diperoleh melalui survei
+dengan sistem penimbangan menggunakan alat Weightin-
+Motion (WIM). Alat WIM ini melakukan proses
+perhitungan berat kotor (gross weight) pada kendaraan yang bergerak dan menghitung pula proporsi distribusi
+berat kendaraan terhadap sumbu dan roda kendaraan
+tersebut dengan cara mengukur dan menganalisa hasil
+tekanan dinamis dari roda kendaraan. Data WIM
+berguna untuk menghitung nilai Truck Factor (TF)
+dari tiap jenis golongan kendaraan. Data beban sumbu
+yang digunakan pada penelitian ini diperoleh dari data
+survei WIM yang dilakukan pada tahun 2012 pada
+ruas Deli Serdang-Sei Rampah. Data WIM ini dianggap
+memiliki karakteristik kendaraan yang sama
+dengan karakteristik kendaraan yang melintas pada
+ruas jalan Medan - Lubuk Pakam.
+
+3.6 Data struktur tebal perkerasan
+Data struktur tebal perkerasan diperoleh dari hasil
+pengujian test pit yang dilakukan oleh P2JN Provinsi
+Sumatera Utara pada bulan Mei tahun 2013 untuk ruas
+Medan - Lubuk Pakam, yaitu pada KM 19+742 sampai
+dengan KM 21+942, yang dianggap mewakili tebal dan
+jenis lapis perkerasan dari KM 11+742 sampai dengan
+22+244. Berdasarkan data stripmap rencana
+penanganan ruas Medan-Lubuk Pakam, untuk KM
+11+742 sampai dengan KM 22+244, belum ada
+penanganan struktural antara tahun 2006 sampai 2013,
+sehingga tebal dan jenis lapis perkerasan pada lokasi
+studi ini, dapat dianggapa masih seragam (homogen).
+
+4. Analisis Data
+4.1 Analisis kondisi fungsional
+Data input yang digunakan dalam Analisis Fungsional
+adalah data International Roughness Index (IRI) dan
+data survei visual kondisi jalan. Segmentasi terhadap
+data yang diperoleh disamakan dengan hasil segmentasi
+data lendutan, untuk mempermudah dalam melakukan
+analisa penanganan berdasarkan kondisi Fungsional dan
+Struktural. Data IRI digunakan untuk memprediksi
+penurunan nilai IRI hingga tahun rencana yaitu antara
+tahun 2012 sampai 2016 yang sesuai dengan strategi
+penanganan jalan yang direncanakan. Data kondisi
+permukaan digunakan untuk menghitung nilai Surface
+Distress Index (SDI) menggunakan metode Bina Marga,
+dimana parameter yang diperlukan yaitu luas total area
+retak, lebar rata-rata retak, jumlah lubang dan kedalaman
+alur roda. Seluruh parameter tersebut diukur setiap
+100 m dalam satu ruas, menggunakan panduan form
+Survei Kondisi Jalan (SKJ) Bina Marga. Nilai Surface
+Distress Index (SDI) didapatkan dari parameter hasil
+survei kondisi jalan tersebut dan dihitung menggunakan
+format penilaian yang telah ditetapkan, sebagaimana
+ditunjukkan pada Gambar 6.
+
+
+Nilai SDI yang telah didapatkan per 100 meter, akan
+disegmentasi sesuai dengan segmentasi hasil analisis
+lendutan. Nilai SDI kemudian dikombinasikan dengan
+nilai IRI yang telah disegmentasi dan hasilnya akan
+merepresentasikan kondisi perkerasan (lihat Tabel 4)
+dan jenis penanganan yang harus dilakukan. Penggabungan
+nilai IRI dan SDI ini dilakukan berdasarkan
+panduan Pedoman Bina Marga dan hasil penggabungan
+kondisi perkerasan secara fungsional dapat dilihat pada
+Tabel 5 berikut. 
+
+
+
+4.2 Analisis lalu lintas dan truk faktor
+tingkat pertumbuhan lalu lintas dihitung berdasarkan i
+rata-rata dari tahun 2009 sampai dengan 2013 dengan
+menggunakan metode increment, yaitu mencari nilai
+rata-rata dari hasil penjumlahan nilai pertumbuhan dari
+tahun 2009 sampai 2013. tingkat pertumbuhan kendaraan
+dari tahun 2009 sampai 2013 ditunjukkan pada
+Tabel 6.
+Truck Factor adalah beban ekivalen per sumbu
+(equivalent axle load) yang dijumlahkan untuk
+mewakili setiap jenis kendaraan. Faktor truk per
+golongan kendaraan ditentukan berdasarkan nilai
+Faktor Ekivalen (EF) dari beban sumbu kendaraan yaitu
+angka yang menyatakan perbandingan tingkat kerusakan
+yang ditimbulkan oleh sejumlah lintasan suatu
+beban sumbu kendaraan terhadap tingkat kerusakan
+yang ditimbulkan oleh satu lintasan beban sumbu tunggal
+standar seberat 8,16 ton (18.000 lbs)(lihat Tabel 7).
+
+
+4.4 Analisis kumulatif ESAL
+Nilai Kumulatif ESAL adalah jumlah kumulatif repetisi
+beban sumbu standar 18000 lbs selama satu tahun, yang
+diperoleh dengan mengalikan volume lalu lintas harian
+rata-rata pada tahun yang ditinjau dengan Faktor Truk
+per jenis kendaraan, faktor pertumbuhan lalu lintas dan koefisien distribusi lajur rencana. Perhitungan kumulatif
+ESAL pada periode 2011 sampai 2016 didasarkan
+pada volume lalu lintas harian (LHR) antara tahun
+tersebut yang dikonversikan menjadi nilai ESAL,
+dimana Truck Factor yang digunakan merupakan hasil
+survei WIM tahun 2012 pada ruas Deli Serdang-Sei
+Rampah untuk setiap golongan kendaraan. Faktor
+distribusi kendaraan ringan untuk jalan 4 lajur 2 arah
+adalah 0,30 dan untuk kendaraan berat adalah 0,45,
+sedangkan, koefisien distribusi lajur per arah untuk
+ruas Medan-Lubuk Pakam diasumsikan sebesar 0,50.
+Hasilnya ditunjukkan pada Tabel 8.
+
+
+4.5 Analisis kondisi struktural metode AASHTO
+1993
+4.5.1 Analisis lendutan
+Diperlukan segmentasi terhadap data lendutan dari
+survei FWD untuk memperoleh nilai yang mewakili
+setiap segmen, sebab data lendutan FWD tersebut
+nilainya bervariasi. Segmentasi dilakukan dengan
+mengusahakan agar setiap segmen mempunyai tingkat
+keseragaman yang lebih kecil dari 30%. Nilai lendutan
+yang digunakan untuk proses segmentasi adalah nilai
+lendutan pada pusat beban (d1), karena nilai lendutan
+d1 tersebut dapat mewakili kondisi lapis perkerasan
+secara keseluruhan mulai dari lapis permukaan hingga
+lapis tanah dasar (Hassan, et al., 2003).
+Pada Gambar 8 terlihat bahwa nilai lendutan sangat
+bervariasi, dimana lendutan pada Sta. 12+243, 14+747,
+20+744 dan 21+247 menunjukan perbedaan nilai yang
+sangat besar dibanding lendutan pada lokasi lainnya,
+dimana data yang tidak mengikuti sebagian besar pola
+sebaran dan terletak jauh dari nilai rata-rata dapat
+dianggap sebagai data outlier.
+Oleh karenanya data lendutan maksimum (d1) pada Sta
+12+243, 14+747, 20+744 dan 21+247 dianggap
+sebagai outlier dan tidak diperhitungkan dalam analisis
+statistik. Nilai-nilai outlier tersebut tidak dianalisis
+lebih lanjut, namun data-data outlier tersebut merupakan
+informasi mengenai kondisi jalan setempat,
+sehingga diperlukan pengujian khusus dengan
+melakukan testpit atau core test untuk mendapatkan
+penanganan yang sesuai pada lokasi tersebut. Setelah
+tersegmentasi, dapat dihitung nilai wakil dari masingmasing
+segmen dengan persyaratan Faktor Keseragaman
+(FK) lebih kecil dari 30%. 
+
+Tahun Nilai Kumulatif ESAL
+2011 1.100.838,20
+2012 2.332.786,23
+2013 3.711.459,27
+2014 5.254.332,27
+2015 6.980.961,45
+2016 8.913.232,16
+Tabel 8. Nilai kumulatif ESAL aktual Tahun 2011
+sampai 2016
+
+
+
+
+Modulus Resilien tanah dasar (MR) dihitung
+menggunakan nilai lendutan wakil dan hasilnya
+ditunjukkan pada Tabel 9. Jarak Geophone terhadap
+pusat beban berturut-turut adalah 0, 200, 300, 450, 600,
+900 dan 1500 mm. Analisis nilai MR dilakukan dengan
+cara coba-coba, dimulai dari geophone nomor 2 dan
+diambil nilai terkecil yang memenuhi persyaratan (r ≥
+0,7 ae) yaitu lebih besar atau sama dengan 0,70 kali jarijari
+cekungan tegangan pada subgrade. Hasilnya adalah
+lendutan pada geophone nomor 5 (r5). Menurut AASHTO
+1993, nilai Modulus Resilien tanah dasar untuk
+perencanaan diperoleh dengan mengoreksi nilai Modulus
+Resilien hasil back calculation tersebut dengan
+faktor 0.33 (untuk beban FWD, ± 9.000 lbs.) agar
+menyamai nilai MR pada model perkerasan dalam
+AASHO Road Test.
+Nilai Modulus Efektif lapis perkerasan (Ep) dihitung
+dengan cara iterasi dan hasilnya ditunjukkan dalam
+Tabel 10.
+Kapasitas struktural perkerasan yang dihitung terdiri
+dari Structural Number in Future (SNf), Structural
+Number Original (SNo), dan Structural Number Effective
+(SNeff). SNf adalah kapasitas struktural perkerasan berdasarkan lalu lintas dimasa mendatang yaitu pada
+tahun 2016. Besaran untuk menghitung SNf adalah
+menggunakan persamaan umum AASHTO 1993
+(Subagio, dkk, 2013), dimana nilai Reliability (R) untuk
+jalan arteri antar kota adalah 95% sehingga didapat nilai
+Standart Deviasi (ZR) sebesar -1,645, Overall standart
+deviation (So) untuk perkerasan lentur adalah 0,45.
+Nilai DPSI adalah selisih initial serviceability (Po)
+sebesar 4,2 dengan terminal serviceability (Pt) sebesar
+2,50, untuk jalan raya utama (arteri primer).
+SNo adalah kapasitas struktural hasil penanganan terakhir
+untuk ruas jalan Medan-Lubuk Pakam. Sedangkan
+SNeff adalah kapasitas struktur perkerasan pada saat
+perkerasan dianalisis (2011). Hasil perhitungan nilai
+Structural Number Effective (SNeff), Structural Number
+Original dan Structural Number in Future ditunjukkan
+pada Tabel 11.
+Kebutuhan tebal overlay dihitung berdasarkan selisih
+nilai kapasitas struktural rencana (SNf) dengan kapasitas
+struktural efektif (SNeff) minimum serta dibagi dengan
+koeffisien kekuatan relatif (aOL) dari material overlay
+yaitu campuran LASTON dengan nilai 0,40.
+
+Terlihat bahwa pada segmen 4 sepanjang 1 Km, tebal
+overlay yang dibutuhkan adalah 20 cm, sejalan dengan
+nilai SDI >100 yang menggambarkan bahwa kondisi
+jalan di segmen 4 tersebut telah terjadi retak, lubang
+ataupun alur roda. Tebal overlay yang dibutuhkan
+segmen 3 dan segmen 5 sepanjang 4 Km adalah 14 cm,
+sehingga untuk mempermudah pelaksanaan dibutuhkan
+penyeragaman tebal overlay menjadi 14 cm, khususnya
+pada segmen 4, yaitu sama dengan tebal overlay
+segmen 3 dan 5. Namun pada segmen tersebut telah
+terjadi retak, lubang ataupun alur roda, sehingga harus
+dilakukan patching terlebih dahulu yang bertujuan
+untuk memperbaiki kondisi struktur perkerasan pada
+lokasi-lokasi yang mempunyai retak, lubang ataupun
+alur roda tersebut.
+
+
+4.5 Rencana program pemeliharaan
+Rencana Program pemeliharaan selama 5 tahun
+kedepan (2012-2016) disusun berdasarkan hasil
+evaluasi kondisi Fungsional dan Struktural Perkerasan
+tahun 2011, dengan beberapa batasan atau asumsi
+sebagai berikut (Putra, 2013):
+1. Penanganan jalan dilakukan dengan 2 (dua) skema
+alternatif, yaitu konstruksi overlay secara langsung
+dan konstruksi overlay secara bertahap. Untuk konstruksi
+langsung, penanganan dilakukan tahun
+2012, sedangkan untuk konstruksi bertahap,
+penanganan direncanakan dilakukan pada tahun
+2012 dan tahun 2015.
+2. Jenis penanganan yang dipilih adalah berdasarkan
+kondisi perkerasan terburuk antara hasil evaluasi
+struktural dan evaluasi fungsional, misalnya hasil
+evaluasi fungsional mengkategorikan dalam kondisi
+“Baik atau Sedang” sehingga perlu penanganan
+dengan pemeliharaan rutin saja, namun apabila hasil
+evaluasi struktural menghasilkan SCI <1,00 maka
+akan dilakukan tindakan overlay yang merupakan
+jenis penanganan peningkatan struktur perkerasan
+atau rekonstruksi.
+3. Dalam model prediksi nilai IRI, maka nilai IRI
+setelah dilakukan overlay diasumsikan mempunyai
+nilai awal 2,00 m/km.
+4. Analisis biaya untuk penanganan pada ruas ini
+diasumsikan tidak terbatas (unlimited budget),
+namun perlu disiapkan 2 (dua) skema penanganan,
+yaitu secara langsung dan bertahap, untuk melihat
+dampak penurunan kondisi jalan dan juga perbedaan
+total biaya konstruksi selama masa pemeliharaan.
+Hasil perencanaan tebal overlay, untuk penanganan
+secara Langsung dan Bertahap, ditunjukkan dalam
+Tabel 13 berikut ini.
+
+Perbedaan kenaikan nilai IRI pada 2 (dua) skema
+penanganan ternyata tidak terlalu berbeda secara signifikan,
+sehingga penentuan jenis skema penanganan yang
+digunakan harus juga dilihat berdasarkan analisis biaya,
+dimana jenis penanganan jalan bila tidak dilakukan
+overlay pada tahun tersebut adalah Pemeliharaan Rutin.
+Perhitungan dilakukan menggunakan harga satuan
+tahun 2013 dan prediksi inflasi dari Direktorat Jendral
+Bina Marga (Direktorat. Bina Program, 2012).
+Sebagaimana ditunjukkan dalam Tabel 14 di atas,
+bahwa Selisih biaya penanganan untuk skema overlay
+langsung dan skema overlay bertahap selama 5 (lima)
+tahun adalah Rp. 569.543.317,00 yang berarti bahwa
+akan lebih effisien bila dilaksanakan penanganan
+dengan skema overlay langsung.
+
+5. Kesimpulan
+Berdasarkan hasil kajian diatas, didapat beberapa
+kesimpulan berikut :
+1. Berdasarkan kajian Analisis Fungsional; yaitu
+kombinasi nilai IRI dan SDI, menghasilkan bahwa
+kondisi perkerasan pada ruas jalan Medan-Lubuk
+Pakam, masih dalam kategori sedang dan rusak
+ringan, sehingga hanya memerlukan Pemeliharaan
+Rutin dan Pemeliharaan Berkala.
+2. Berdasarkan kajian Analisis Struktural,;
+menggunakan Metoda AASHTO 1993, diperoleh
+bahwa struktur perkerasan pada ruas jalan Medan-
+Lubuk Pakam perlu diperkuat dan memerlukan
+overlay struktural, dengan tebal overlay bervariasi
+antara 11 cm sampai 20 cm.
+3. Kajian terhadap rencana Program Pemeliharaan 5
+(lima) tahun kedepan, memakai 2(dua) versi: overlay
+langsung dan overlay bertahap, diperoleh bahwa
+penanganan secara langsung akan lebih ekonomis,
+dengan syarat tersedia biaya yang besar pada tahun
+pertama, guna melakukan penanganan overlay
+sesuai perhitungan dari kajian ini.
